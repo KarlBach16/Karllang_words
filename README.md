@@ -1,2 +1,2 @@
-# Karllang_word
+# Karllang_words
 Vocabulary data for KarlLang app
