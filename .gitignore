@@ -1,0 +1,14 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Node 쓸 때 자동 생기는 것들 (나중을 대비해서 미리)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# 빌드 결과물 (나중에 번들링 도입하면)
+dist/
+build/
+
+# VS Code 설정 (공유할 필요 없으면)
+.vscode/

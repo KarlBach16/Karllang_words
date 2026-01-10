@@ -1,0 +1,6664 @@
+[
+{
+"id": "abbiegen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "abbildung_nf_1",
+"tags": []
+},
+{
+"id": "abenteuer_nn_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "abfall_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abfalleimer_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abgase_nn_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "abhaengen_v_1",
+"tags": []
+},
+{
+"id": "abhaengig_adj_1",
+"tags": []
+},
+{
+"id": "abheben_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "abschreiben_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ablehnen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "abmachen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abnehmen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abonnieren_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abonnement_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "absagen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "abschluss_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "abschnitt_nm_1",
+"tags": []
+},
+{
+"id": "absicht_nf_1",
+"tags": []
+},
+{
+"id": "absolut_adj_1",
+"tags": []
+},
+{
+"id": "abstimmen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "abteilung_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "abwart_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abwaerts_adv_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "abwaschen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "abwesend_adj_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "achten_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "achtung_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "aehnlich_adj_1",
+"tags": []
+},
+{
+"id": "aktion_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aktivitaet_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "akzeptieren_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "alarm_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "alkohol_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "all_pron_1",
+"tags": [
+"basic"
+]
+},
+{
+"id": "aller_part_1",
+"tags": []
+},
+{
+"id": "allerdings_adv_1",
+"tags": []
+},
+{
+"id": "allgemein_adj_1",
+"tags": []
+},
+{
+"id": "alltag_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "alltaeglich_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "alphabet_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "als_konj_1",
+"tags": [
+"basic"
+]
+},
+{
+"id": "als_ob_konj_1",
+"tags": []
+},
+{
+"id": "also_part_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "altenheim_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "altersheim_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "alternativ_adj_1",
+"tags": []
+},
+{
+"id": "alternative_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "amt_nn_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "sich_amuesieren_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "analysieren_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "anbieter_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ander_adj_1",
+"tags": [
+"basic"
+]
+},
+{
+"id": "aendern_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aenderung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "andererseits_adv_1",
+"tags": []
+},
+{
+"id": "anerkennen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "anfangs_adv_1",
+"tags": []
+},
+{
+"id": "angabe_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "angeben_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "angehoerige_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "angenehm_adj_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "aengstlich_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "anhaben_v_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "ankuendigen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anlage_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "anleitung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "annehmen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "annonce_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anschaffen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "anschliessen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anschnallen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "ansprechen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "anspruch_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anstellen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "angestellte_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "anstrengend_adj_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anstrengen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "antrag_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anwenden_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anwesend_adj_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "anwalt_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "anzeigen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "apotheke_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "aprikose_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "arbeiter_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "arbeitserlaubnis_nf_1",
+"tags": [
+"work",
+"travel"
+]
+},
+{
+"id": "arbeitslosigkeit_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "arbeitsstelle_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "architekt_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "aergerlich_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "art_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "asyl_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "atmen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "atem_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufenthalt_nm_1",
+"tags": [
+"travel"
+]
+},
+{
+"id": "auffallen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "auffordern_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "aufforderung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "auffuehren_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufgeben_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufhalten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufheben_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufladen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufloesen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufmerksam_adj_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "aufnehmen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufnahme_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "aufregen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "auftrag_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "auftreten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "auftritt_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aufwachen_v_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "aufwaerts_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "augenblick_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ausgebildet_adj_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "ausdrucken_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "ausdruck_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "auseinander_adv_1",
+"tags": []
+},
+{
+"id": "ausfahrt_nf_1",
+"tags": [
+"travel"
+]
+},
+{
+"id": "ausfallen_v_1",
+"tags": [
+"daily",
+"travel",
+"work"
+]
+},
+{
+"id": "ausgabe_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ausgezeichnet_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "aushilfe_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "ausnahme_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ausstellen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "aussuchen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "auswaehlen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "auswahl_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ballett_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bankomat_nm_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "bankleitzahl_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bar_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "bargeld_nn_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "bart_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "batterie_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bauen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bau_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "bauer_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "beachten_v_1",
+"tags": [
+"daily",
+"travel",
+"work"
+]
+},
+{
+"id": "beamte_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "beantragen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "sich_bedanken_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bedarf_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "bedeutung_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bedienen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bedienungsanleitung_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bedingung_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "sich_beeilen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "sich_befinden_v_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "befreit_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "befriedigend_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "begegnen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "begeistert_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beginn_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "begleiten_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "begrenzt_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "begruendung_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "begruessen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "behalten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "behandeln_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "behaupten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "behindern_v_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "behindert_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "behoerde_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "beinahe_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beispielsweise_adv_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "beissen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beitrag_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "bekannte_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bekannt_geben_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "beleg_nm_1",
+"tags": [
+"daily",
+"work",
+"travel"
+]
+},
+{
+"id": "beleidigen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beliebt_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bemerken_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "sich_bemuehen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "benoetigen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "benzin_nn_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "beobachten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bequem_adj_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "beratung_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "berechnen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "bereich_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "bereit_adj_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bereits_adv_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "berg_nm_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "bericht_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "beruflich_adj_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "berufstaetig_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "beruhigen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beschaedigen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "beschaeftigen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "beschaeftigung_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "bescheid_sagen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bescheid_geben_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "beschliessen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "beschraenken_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "beschreibung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "sich_beschweren_v_1",
+"tags": [
+"daily",
+"travel",
+"work"
+]
+},
+{
+"id": "besetzen_v_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "besitzen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "besonder_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "besorgen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "besprechen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "besprechung_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "besserung_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bestaetigung_nf_1",
+"tags": [
+"work",
+"travel"
+]
+},
+{
+"id": "bestimmt_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bestrafen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "sich_bewerben_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "bewohner_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "beziehung_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bieten_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "bildschirm_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "billett_nn_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "biologie_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bio_nx_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "biologisch_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bisher_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bitte_part_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "blass_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "blick_nm_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "blind_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "blitzen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "blitz_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bloss_part_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bluehen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bluten_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "blut_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "boden_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bogen_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "boot_nn_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "botschaft_nf_1",
+"tags": [
+"travel",
+"work"
+]
+},
+{
+"id": "braten_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "brechen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "breite_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "bremsen_v_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "bremse_nf_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "brennen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "briefkasten_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "brieftraeger_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "briefumschlag_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "brieftasche_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "broschuere_nf_1",
+"tags": [
+"travel",
+"work"
+]
+},
+{
+"id": "broetli_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "brust_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "bub_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "buchhandlung_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "buechse_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "buffet_nn_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "buehne_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "burg_nf_1",
+"tags": [
+"travel"
+]
+},
+{
+"id": "buerger_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "buerste_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "zahnbuerste_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "chance_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "chic_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "coiffeur_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "couch_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "cousin_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "couvert_nn_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "dach_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "daher_adv_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "dahin_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "damit_konj_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "danach_adv_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "dankbar_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "danke_part_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "darstellen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "darstellung_nf_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "daten_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "dauer_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "dauernd_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "decke_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "dekorieren_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "gedanke_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "denkmal_nn_1",
+"tags": [
+"travel"
+]
+},
+{
+"id": "derselbe_pron_1",
+"tags": []
+},
+{
+"id": "dessert_nn_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "deswegen_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "detail_nn_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "diaet_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "dialekt_nm_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "dialog_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "dicht_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "dieb_nm_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "dienen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "dienst_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "dies_pron_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "diesmal_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "digital_adj_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "diplom_nn_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "direktor_nm_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "diskothek_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "diskussion_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "distanz_nf_1",
+"tags": [
+"travel",
+"work"
+]
+},
+{
+"id": "doch_part_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "dokument_nn_1",
+"tags": [
+"work",
+"travel"
+]
+},
+{
+"id": "donnern_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "donner_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "doppelt_adj_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "dose_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "dreck_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "drehen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "drin_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "droge_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "drogerie_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "druck_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "durcheinander_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "durchschnitt_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "durchschnittlich_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "durstig_adj_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "sich_duschen_v_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "duzen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "eben_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ebenfalls_adv_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ebenso_adv_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "eck_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "eckig_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ehe_nf_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ehepaar_nn_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "eher_adv_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "ehrlich_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "eigen_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "sich_eignen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "eilen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "eile_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "ein_art_1",
+"tags": [
+"basic"
+]
+},
+{
+"id": "einbahnstrasse_nf_1",
+"tags": [
+"travel"
+]
+},
+{
+"id": "einbrechen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einbrecher_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einbruch_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "eindeutig_adj_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "eindruck_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einerseits_adv_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einfahrt_nf_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "einfallen_v_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einfall_nm_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einfluss_nm_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "beeinflussen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einfuegen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "einfuehren_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "einfuehrung_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einheitlich_adj_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "einigen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einig_pron_1",
+"tags": [
+"basic",
+"daily"
+]
+},
+{
+"id": "einkauf_nm_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einkommen_nn_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einnehmen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einnahme_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einrichten_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einrichtung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einsam_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einschalten_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einschliesslich_prep_1",
+"tags": [
+"work",
+"travel"
+]
+},
+{
+"id": "einschreiben_nn_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "einsetzen_v_1",
+"tags": [
+"work"
+]
+},
+{
+"id": "einstellen_v_1",
+"tags": [
+"work",
+"daily"
+]
+},
+{
+"id": "eintreten_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einwohner_nm_1",
+"tags": [
+"travel",
+"daily"
+]
+},
+{
+"id": "einzahlen_v_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einzahlung_nf_1",
+"tags": [
+"daily",
+"work"
+]
+},
+{
+"id": "einzeln_adj_1",
+"tags": [
+"daily"
+]
+},
+{
+"id": "einzel_nx_1",
+"tags": [
+"daily",
+"travel"
+]
+},
+{
+"id": "einzelheit_nf_1",
+"tags": [
+"work",
+"daily"
+]
+},
+  {
+    "id": "einzig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "eisenbahn_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "elegant_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "elektrisch_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "elektro_nx_1",
+    "tags": []
+  },
+  {
+    "id": "elektronisch_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "eltern_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "empfangen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "empfang_nm_1",
+    "tags": ["travel", "work"]
+  },
+  {
+    "id": "empfehlung_nf_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "endgueltig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "energie_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entdecken_v_1",
+    "tags": []
+  },
+  {
+    "id": "entfernen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entfernung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "entgegenkommen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "enthalten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entlang_prep_1",
+    "tags": ["basic", "travel"]
+  },
+  {
+    "id": "entlassen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "entlassung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "entscheiden_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entscheidung_nf_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "unentschieden_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sich_entschliessen_v_1",
+    "tags": []
+  },
+  {
+    "id": "entschlossen_adj_1",
+    "tags": []
+  },
+  {
+    "id": "entsorgen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entspannend_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entstehen_v_1",
+    "tags": []
+  },
+  {
+    "id": "enttaeuschen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "enttaeuschung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "entweder__oder_konj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "entwickeln_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "entwicklung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erde_nf_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "erdapfel_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erdgeschoss_nn_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "ereignis_nn_1",
+    "tags": []
+  },
+  {
+    "id": "sich_ereignen_v_1",
+    "tags": []
+  },
+  {
+    "id": "erfahren_v_1",
+    "tags": []
+  },
+  {
+    "id": "erfahrung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erfinden_v_1",
+    "tags": []
+  },
+  {
+    "id": "erfindung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "erfolg_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erfolgreich_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erforderlich_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erfordern_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erfuellen_v_1",
+    "tags": []
+  },
+  {
+    "id": "ergaenzen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erhalten_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erhoehen_v_1",
+    "tags": []
+  },
+  {
+    "id": "erhoehung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "sich_erholen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erholung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erinnerung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_erkaelten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erkaeltung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erkennen_v_1",
+    "tags": []
+  },
+  {
+    "id": "erklaerung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "sich_erkundigen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erleben_v_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "erlebnis_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "erledigen_v_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "erleichtern_v_1",
+    "tags": []
+  },
+  {
+    "id": "ernaehren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ernaehrung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ernst_adj_1",
+    "tags": []
+  },
+  {
+    "id": "ernsthaft_adj_1",
+    "tags": []
+  },
+  {
+    "id": "ernte_nf_1",
+    "tags": []
+  },
+  {
+    "id": "eroeffnen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "eroeffnung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "erschoepft_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erschrecken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "jdn_erschrecken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ersetzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "ersatz_nm_1",
+    "tags": []
+  },
+  {
+    "id": "erst_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "erstellen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "erwachsen_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "erwarten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erzaehlung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "erziehen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "erziehung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "essig_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "etage_nf_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "etwa_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "eventuell_adv_1",
+    "tags": []
+  },
+  {
+    "id": "ewig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "experte_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "export_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "extra_adv_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "extrem_adj_1",
+    "tags": []
+  },
+  {
+    "id": "fabrik_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fach_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fachmann_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "faehigkeit_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "faehre_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "fahrbahn_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "fahrzeug_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "fair_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "faktor_nm_1",
+    "tags": []
+  },
+  {
+    "id": "fall_nm_1",
+    "tags": []
+  },
+  {
+    "id": "faellig_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "falls_konj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "fangen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "fantasie_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "farbig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "faschierte_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fasching_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fasnacht_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fassen_v_1",
+    "tags": []
+  },
+  {
+    "id": "faulenzen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fauteuil_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "feld_nn_1",
+    "tags": []
+  },
+  {
+    "id": "ferien_nx_2",
+    "tags": ["travel"]
+  },
+  {
+    "id": "fernbedienung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fernsehen_nn_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "fest_adj_1",
+    "tags": []
+  },
+  {
+    "id": "festhalten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "festplatte_nf_1",
+    "tags": []
+  },
+  {
+    "id": "festlegen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "festnehmen_v_1",
+    "tags": []
+  },
+  {
+    "id": "flach_adj_1",
+    "tags": []
+  },
+  {
+    "id": "flaeche_nf_1",
+    "tags": []
+  },
+  {
+    "id": "fleck_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fleischhauer_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fleissig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "flexibel_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fliehen_v_1",
+    "tags": []
+  },
+  {
+    "id": "flucht_nf_1",
+    "tags": []
+  },
+  {
+    "id": "flur_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fliessen_v_1",
+    "tags": []
+  },
+  {
+    "id": "fluessig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "fluessigkeit_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "folgen_v_1",
+    "tags": ["basic", "travel"]
+  },
+  {
+    "id": "folge_nf_1",
+    "tags": []
+  },
+  {
+    "id": "folgend_adj_1",
+    "tags": []
+  },
+  {
+    "id": "fordern_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "forderung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "foerdern_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "foerderung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "form_nf_1",
+    "tags": []
+  },
+  {
+    "id": "forschung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fortbildung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fortschritt_nm_1",
+    "tags": []
+  },
+  {
+    "id": "fortsetzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "fortsetzung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "forum_nn_1",
+    "tags": []
+  },
+  {
+    "id": "fotograf_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fotografie_nf_1",
+    "tags": []
+  },
+  {
+    "id": "frech_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "im_freien_nx_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "freiheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "fressen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_freuen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "freude_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "freundlich_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "freundschaft_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "friede_nm_1",
+    "tags": []
+  },
+  {
+    "id": "frieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "friseur_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "frisur_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "frist_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fruechte_nx_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fuehren_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "fuehrerausweis_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "fundbuero_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "funktionieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_fuerchten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "fuettern_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "galerie_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "gang_nm_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "ganz_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "gar_adv_1",
+    "tags": []
+  },
+  {
+    "id": "garantieren_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "garantie_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "garderobe_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "gas_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gasthaus_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "gaststaette_nf_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "gebaeude_nn_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "gebaeck_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gebiet_nn_1",
+    "tags": []
+  },
+  {
+    "id": "gebirge_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "geboren_werden_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "gebrauchen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gebrauchsanweisung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gebuehr_nf_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "geburt_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gedicht_nn_1",
+    "tags": []
+  },
+  {
+    "id": "geduld_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "geehrt_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "geeignet_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gefahr_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_gefallen_lassen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gefaengnis_nn_1",
+    "tags": []
+  },
+  {
+    "id": "gefuehl_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gegner_nm_1",
+    "tags": []
+  },
+  {
+    "id": "gegend_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "gegensatz_nm_1",
+    "tags": []
+  },
+  {
+    "id": "gegenstand_nm_1",
+    "tags": []
+  },
+  {
+    "id": "geheimnis_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "geheim_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gehsteig_nm_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "geldautomat_nm_1",
+    "tags": ["basic", "daily", "travel"]
+  },
+  {
+    "id": "gelegenheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "gelingen_v_1",
+    "tags": []
+  },
+  {
+    "id": "gelten_v_1",
+    "tags": []
+  },
+  {
+    "id": "gemeinsam_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gemeinschaft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "gemuetlich_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "genauso_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "genehmigen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "generation_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "geniessen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "genug_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "genuegen_v_1",
+    "tags": []
+  },
+  {
+    "id": "gerade_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "gerecht_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gering_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gesamt_adj_1",
+    "tags": []
+  },
+  {
+    "id": "geschehen_v_1",
+    "tags": []
+  },
+  {
+    "id": "geschichte_nf_1",
+    "tags": []
+  },
+  {
+    "id": "geschieden_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "geschlecht_nn_1",
+    "tags": []
+  },
+  {
+    "id": "geschmack_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "geschwindigkeit_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "geschwindigkeitsbeschraenkung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "geschwister_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "gesellschaft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "gesetz_nn_1",
+    "tags": []
+  },
+  {
+    "id": "gespannt_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gewalt_nf_1",
+    "tags": []
+  },
+  {
+    "id": "gewerkschaft_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "gewinn_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "gewissen_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gewoehnen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gewohnheit_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gewohnt_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gewoehnlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gewuerz_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "giessen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gift_nn_1",
+    "tags": []
+  },
+  {
+    "id": "giftig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "glace_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "glatt_adj_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "gleichfalls_adv_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gleichberechtigt_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gleichzeitig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "gold_nn_1",
+    "tags": []
+  },
+  {
+    "id": "golf_nx_1",
+    "tags": []
+  },
+  {
+    "id": "gott_nm_1",
+    "tags": []
+  },
+  {
+    "id": "grafik_nf_1",
+    "tags": []
+  },
+  {
+    "id": "gras_nn_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "gratulation_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gratis_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "greifen_v_1",
+    "tags": []
+  },
+  {
+    "id": "grenze_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "grill_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "grillieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "gruenden_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "grund_nm_1",
+    "tags": []
+  },
+  {
+    "id": "gruendlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "grundstueck_nn_1",
+    "tags": []
+  },
+  {
+    "id": "gruessen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "gucken_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "gymnastik_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hackfleisch_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hafen_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "hageln_v_1",
+    "tags": []
+  },
+  {
+    "id": "halbtags_adv_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "haelfte_nf_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "hallenbad_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "halt_part_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "haltbar_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hammer_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "handwerker_nm_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "handeln_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "haendler_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "handel_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "hassen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "haeufig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "haupt_nx_1",
+    "tags": []
+  },
+  {
+    "id": "hauptbahnhof_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "hausmeister_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "haut_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heben_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heim_adv_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heim_nn_1",
+    "tags": []
+  },
+  {
+    "id": "heimlich_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heimweh_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heizen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "held_nm_1",
+    "tags": []
+  },
+  {
+    "id": "hendl_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "heraus_praef_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "herausfinden_v_1",
+    "tags": []
+  },
+  {
+    "id": "herausforderung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "herein_praef_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "herkunft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "hersteller_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "herunter_praef_1",
+    "tags": []
+  },
+  {
+    "id": "herunterfahren_v_1",
+    "tags": []
+  },
+  {
+    "id": "herz_nn_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "heutig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "hierher_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "runterwerfen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hinterlassen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hinterher_adv_1",
+    "tags": []
+  },
+  {
+    "id": "hinweisen_v_1",
+    "tags": []
+  },
+  {
+    "id": "hinweis_nm_1",
+    "tags": []
+  },
+  {
+    "id": "historisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "hitze_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hoehe_nf_1",
+    "tags": []
+  },
+  {
+    "id": "hochladen_v_1",
+    "tags": []
+  },
+  {
+    "id": "hoechstens_adv_1",
+    "tags": []
+  },
+  {
+    "id": "hof_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "bauernhof_nm_1",
+    "tags": []
+  },
+  {
+    "id": "hoffnung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hoeflich_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "holz_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "honig_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hoerer_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zuhoerer_nm_1",
+    "tags": []
+  },
+  {
+    "id": "huebsch_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "huegel_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "humor_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hungrig_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "hupen_v_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "husten_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "hut_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "huette_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "ideal_adj_1",
+    "tags": []
+  },
+  {
+    "id": "illegal_adj_1",
+    "tags": []
+  },
+  {
+    "id": "imbiss_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "import_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "indem_konj_1",
+    "tags": []
+  },
+  {
+    "id": "individuell_adj_1",
+    "tags": []
+  },
+  {
+    "id": "industrie_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "infektion_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ingenieur_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "inhalt_nm_1",
+    "tags": []
+  },
+  {
+    "id": "inklusive_adj_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "innen_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "inner_adj_1",
+    "tags": []
+  },
+  {
+    "id": "innerhalb_prep_1",
+    "tags": []
+  },
+  {
+    "id": "inserat_nn_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "insgesamt_adv_1",
+    "tags": []
+  },
+  {
+    "id": "installieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "institut_nn_1",
+    "tags": []
+  },
+  {
+    "id": "integrieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "integration_nf_1",
+    "tags": []
+  },
+  {
+    "id": "intelligenz_nf_1",
+    "tags": []
+  },
+  {
+    "id": "intensiv_adj_1",
+    "tags": []
+  },
+  {
+    "id": "intensivkurs_nm_1",
+    "tags": []
+  },
+  {
+    "id": "interessiert_adj_1",
+    "tags": []
+  },
+  {
+    "id": "interkulturell_adj_1",
+    "tags": []
+  },
+  {
+    "id": "inzwischen_adv_1",
+    "tags": []
+  },
+  {
+    "id": "irgend_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "irgendein_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "irgendwann_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "sich_irren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ja_part_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "jause_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "je_adv_1",
+    "tags": []
+  },
+  {
+    "id": "je__desto_konj_1",
+    "tags": []
+  },
+  {
+    "id": "jeans_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "jederzeit_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "jedes_mal_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "jedoch_konj_1",
+    "tags": []
+  },
+  {
+    "id": "jemals_adv_1",
+    "tags": []
+  },
+  {
+    "id": "jeweils_adv_1",
+    "tags": []
+  },
+  {
+    "id": "journalist_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "jugend_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kabel_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kabine_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "kaffeehaus_nn_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "kakao_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kaelte_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kaempfen_v_1",
+    "tags": []
+  },
+  {
+    "id": "kampf_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kanal_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kandidat_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kanne_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kantine_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kapitel_nn_1",
+    "tags": []
+  },
+  {
+    "id": "kaputtgehen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kaputtmachen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "karneval_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "karotte_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "karriere_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kellnerin_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "chipkarte_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kenntnisse_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kennzeichen_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "kerze_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kassette_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kasten_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kasten_nm_2",
+    "tags": ["daily"]
+  },
+  {
+    "id": "katalog_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "katastrophe_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kindheit_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kauf_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kaeufer_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kiste_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kaum_adv_1",
+    "tags": []
+  },
+  {
+    "id": "kissen_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kein_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "klagen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klaeren_v_1",
+    "tags": []
+  },
+  {
+    "id": "klasse_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klassenarbeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kleben_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klettern_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klicken_v_1",
+    "tags": []
+  },
+  {
+    "id": "klick_nm_1",
+    "tags": []
+  },
+  {
+    "id": "klima_nn_1",
+    "tags": []
+  },
+  {
+    "id": "klimaanlage_nf_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "klingeln_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "klingel_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klingen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klinik_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "klopfen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kloss_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "knapp_adj_1",
+    "tags": []
+  },
+  {
+    "id": "kneipe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "knie_nn_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "knochen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "knoedel_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "knopf_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "koch_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kommunikation_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "komplett_adj_1",
+    "tags": []
+  },
+  {
+    "id": "kompliziert_adj_1",
+    "tags": []
+  },
+  {
+    "id": "kompromiss_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "konferenz_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "konfituere_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "konflikt_nm_1",
+    "tags": []
+  },
+  {
+    "id": "koenig_nm_1",
+    "tags": []
+  },
+  {
+    "id": "konkurrenz_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "konsulat_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "konsumieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "konsum_nm_1",
+    "tags": []
+  },
+  {
+    "id": "girokonto_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kontrolle_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "sich_konzentrieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kopieren_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kopie_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kopierer_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "koerperlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "korrekt_adj_1",
+    "tags": []
+  },
+  {
+    "id": "korridor_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "korrigieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "kosten_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kosten_schmecken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kostuem_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kraft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kraftfahrzeug_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "kraftwerk_nn_1",
+    "tags": []
+  },
+  {
+    "id": "kraeftig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kranke_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "krankenpfleger_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "krankenschwester_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "krankenwagen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kreativ_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kreis_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kreuz_nn_1",
+    "tags": []
+  },
+  {
+    "id": "kriminal_nx_1",
+    "tags": []
+  },
+  {
+    "id": "kriminalpolizei_nf_1",
+    "tags": []
+  },
+  {
+    "id": "krise_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kritisieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kritik_nf_1",
+    "tags": []
+  },
+  {
+    "id": "kritisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "kuli_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_kuemmern_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kuendigung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "kuenstler_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kuenstlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "kunststoff_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kursleiter_nm_1",
+    "tags": []
+  },
+  {
+    "id": "kurve_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "kuerzlich_adv_1",
+    "tags": []
+  },
+  {
+    "id": "kuss_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kuessen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "kueste_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "kuvert_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "laecheln_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lager_nn_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "landwirtschaft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "landen_v_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "landung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "laenge_nf_1",
+    "tags": []
+  },
+  {
+    "id": "laengst_adv_1",
+    "tags": []
+  },
+  {
+    "id": "sich_langweilen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "langeweile_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "laerm_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "laster_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "laufwerk_nn_1",
+    "tags": []
+  },
+  {
+    "id": "laune_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lautsprecher_nm_1",
+    "tags": []
+  },
+  {
+    "id": "lebenslauf_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "lebensmittel_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "lecker_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "leder_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lehrling_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "lehrstelle_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "leiden_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "leisten_v_1",
+    "tags": []
+  },
+  {
+    "id": "leistung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "leiten_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "leiter_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "leiter_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lerner_nm_1",
+    "tags": []
+  },
+  {
+    "id": "leser_nm_1",
+    "tags": []
+  },
+  {
+    "id": "letzt_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "leute_nf_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "lexikon_nn_1",
+    "tags": []
+  },
+  {
+    "id": "liebe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lieblings_nx_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "lieferung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "linie_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "link_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "lippe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "literatur_nf_1",
+    "tags": []
+  },
+  {
+    "id": "loben_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "locker_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_lohnen_v_1",
+    "tags": []
+  },
+  {
+    "id": "los_adv_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "losfahren_v_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "loeschen_v_1",
+    "tags": []
+  },
+  {
+    "id": "loesen_v_1",
+    "tags": []
+  },
+  {
+    "id": "magazin_nn_1",
+    "tags": []
+  },
+  {
+    "id": "mager_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mahlzeit_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mahnung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "maler_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "manch_pron_1",
+    "tags": []
+  },
+  {
+    "id": "mangel_nm_1",
+    "tags": []
+  },
+  {
+    "id": "mappe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "maerchen_nn_1",
+    "tags": []
+  },
+  {
+    "id": "margarine_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "marille_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "markieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "marmelade_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "matura_nf_1",
+    "tags": []
+  },
+  {
+    "id": "mauer_nf_1",
+    "tags": []
+  },
+  {
+    "id": "maximal_adj_1",
+    "tags": []
+  },
+  {
+    "id": "medien_nf_1",
+    "tags": []
+  },
+  {
+    "id": "medizin_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mehrheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "mehrwertsteuer_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "meinetwegen_adv_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "meist_adj_1",
+    "tags": []
+  },
+  {
+    "id": "meldung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "menschlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "menue_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "merkwuerdig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "messen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "methode_nf_1",
+    "tags": []
+  },
+  {
+    "id": "metropole_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "metzger_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mieter_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "migrant_nm_1",
+    "tags": []
+  },
+  {
+    "id": "migration_nf_1",
+    "tags": []
+  },
+  {
+    "id": "mild_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "minderheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "minimal_adj_1",
+    "tags": []
+  },
+  {
+    "id": "mischen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "miss_praef_1",
+    "tags": []
+  },
+  {
+    "id": "mitarbeiter_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "miteinander_adv_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "mitglied_nn_1",
+    "tags": []
+  },
+  {
+    "id": "mitteilen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "mitten_adv_1",
+    "tags": []
+  },
+  {
+    "id": "mittler_adj_1",
+    "tags": []
+  },
+  {
+    "id": "mittlerweile_adv_1",
+    "tags": []
+  },
+  {
+    "id": "moebliert_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mobilbox_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mobilitaet_nf_1",
+    "tags": []
+  },
+  {
+    "id": "modell_nn_1",
+    "tags": []
+  },
+  {
+    "id": "moeglichkeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "moeglichst_adv_1",
+    "tags": []
+  },
+  {
+    "id": "moehre_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "muehe_nf_1",
+    "tags": []
+  },
+  {
+    "id": "muellabfuhr_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "muelltonne_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "muendlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "muenze_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "musikalisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "muskel_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "mutig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "nachdem_konj_1",
+    "tags": []
+  },
+  {
+    "id": "nachdenken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "nachfrage_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "nachher_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nachhilfe_nf_1",
+    "tags": []
+  },
+  {
+    "id": "nachschlagen_v_1",
+    "tags": []
+  },
+  {
+    "id": "nachspeise_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "naechst_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nachteil_nm_1",
+    "tags": []
+  },
+  {
+    "id": "nachwuchs_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "nadel_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "nagel_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "nahe_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "naehen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_naehern_v_1",
+    "tags": []
+  },
+  {
+    "id": "nahrungsmittel_nn_1",
+    "tags": []
+  },
+  {
+    "id": "naemlich_adv_1",
+    "tags": []
+  },
+  {
+    "id": "nase_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "national_adj_1",
+    "tags": []
+  },
+  {
+    "id": "natuerlich_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nebel_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "nebenbei_adv_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "neffe_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "negativ_adj_1",
+    "tags": []
+  },
+  {
+    "id": "nein_part_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nerv_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "netzwerk_nn_1",
+    "tags": []
+  },
+  {
+    "id": "neuigkeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "neulich_adv_1",
+    "tags": []
+  },
+  {
+    "id": "nichtraucher_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "niedrig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "nirgendwo_adv_1",
+    "tags": []
+  },
+  {
+    "id": "noch_mal_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nochmals_adv_1",
+    "tags": []
+  },
+  {
+    "id": "normalerweise_adv_1",
+    "tags": []
+  },
+  {
+    "id": "not_nx_1",
+    "tags": []
+  },
+  {
+    "id": "notaufnahme_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "notausgang_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "notfall_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "notruf_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "noetig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "nun_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "nutzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "nuetzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "ober_adj_1",
+    "tags": []
+  },
+  {
+    "id": "ober_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "oeffentlichkeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "onkel_nm_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "opfer_nn_1",
+    "tags": []
+  },
+  {
+    "id": "optimistisch_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "orchester_nn_1",
+    "tags": []
+  },
+  {
+    "id": "ordentlich_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ordnen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ordner_nm_1",
+    "tags": ["daily", "work"]
+  },
+  {
+    "id": "organisation_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "vorort_nm_1",
+    "tags": []
+  },
+  {
+    "id": "ozean_nm_1",
+    "tags": []
+  },
+  {
+    "id": "ein_paar_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "paeckchen_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "papiere_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "paradies_nn_1",
+    "tags": []
+  },
+  {
+    "id": "parallel_adj_1",
+    "tags": []
+  },
+  {
+    "id": "parkhaus_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "parkplatz_nm_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "parlament_nn_1",
+    "tags": []
+  },
+  {
+    "id": "partei_nf_1",
+    "tags": []
+  },
+  {
+    "id": "passiv_adj_1",
+    "tags": []
+  },
+  {
+    "id": "patient_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pauschal_adj_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "pech_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "peinlich_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "in_pension_gehen_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "pensioniert_werden_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "pensionist_nm_1",
+    "tags": []
+  },
+  {
+    "id": "per_prep_1",
+    "tags": []
+  },
+  {
+    "id": "perron_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "personalien_nf_1",
+    "tags": []
+  },
+  {
+    "id": "personenstand_nm_1",
+    "tags": []
+  },
+  {
+    "id": "personal_nn_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "pfanne_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pfeffer_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pflanzen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pflaume_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pfleger_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "phantasie_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pille_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pilz_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "plakat_nn_1",
+    "tags": []
+  },
+  {
+    "id": "planung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "ploetzlich_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "politik_nf_1",
+    "tags": []
+  },
+  {
+    "id": "politiker_nm_1",
+    "tags": []
+  },
+  {
+    "id": "politisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "polizist_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "pommes_frites_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "poster_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "poulet_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "praesentieren_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "praesentation_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "presse_nf_1",
+    "tags": []
+  },
+  {
+    "id": "prima_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "produktion_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "professor_nm_1",
+    "tags": []
+  },
+  {
+    "id": "profi_nm_1",
+    "tags": []
+  },
+  {
+    "id": "prost_int_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "protestieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "protest_nm_1",
+    "tags": []
+  },
+  {
+    "id": "prozess_nm_1",
+    "tags": []
+  },
+  {
+    "id": "publikum_nn_1",
+    "tags": []
+  },
+  {
+    "id": "punkt_nm_1",
+    "tags": []
+  },
+  {
+    "id": "quartier_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "quer_adj_1",
+    "tags": []
+  },
+  {
+    "id": "radfahren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rahmen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rand_nm_1",
+    "tags": []
+  },
+  {
+    "id": "rasen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rasieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rat_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "raucher_nm_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "rauf_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "runter_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "reagieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "reaktion_nf_1",
+    "tags": []
+  },
+  {
+    "id": "realisieren_v_1",
+    "tags": []
+  },
+  {
+    "id": "realistisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "realitaet_nf_1",
+    "tags": []
+  },
+  {
+    "id": "recherchieren_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "rechner_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "recht_adj_1",
+    "tags": []
+  },
+  {
+    "id": "recht_nn_1",
+    "tags": []
+  },
+  {
+    "id": "rechtzeitig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rede_nf_1",
+    "tags": []
+  },
+  {
+    "id": "reduzieren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "referat_nn_1",
+    "tags": []
+  },
+  {
+    "id": "reform_nf_1",
+    "tags": []
+  },
+  {
+    "id": "regal_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "regel_nf_1",
+    "tags": []
+  },
+  {
+    "id": "regelmaessig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "regeln_v_1",
+    "tags": []
+  },
+  {
+    "id": "region_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "regional_adj_1",
+    "tags": []
+  },
+  {
+    "id": "reichen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "reif_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "reihenfolge_nf_1",
+    "tags": []
+  },
+  {
+    "id": "reinigen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "reklame_nf_1",
+    "tags": []
+  },
+  {
+    "id": "rekord_nm_1",
+    "tags": []
+  },
+  {
+    "id": "relativ_adj_1",
+    "tags": []
+  },
+  {
+    "id": "religion_nf_1",
+    "tags": []
+  },
+  {
+    "id": "reportage_nf_1",
+    "tags": []
+  },
+  {
+    "id": "reporter_nm_1",
+    "tags": []
+  },
+  {
+    "id": "reservierung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "respekt_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "retten_v_1",
+    "tags": []
+  },
+  {
+    "id": "richter_nm_1",
+    "tags": []
+  },
+  {
+    "id": "richtung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "riesig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "risiko_nn_1",
+    "tags": []
+  },
+  {
+    "id": "roh_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rohr_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rueck_praef_1",
+    "tags": []
+  },
+  {
+    "id": "rueckfahrt_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "rueckkehr_nf_1",
+    "tags": []
+  },
+  {
+    "id": "rueckwaerts_adv_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "ruecksicht_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rueebli_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rufnummer_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "ruhe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "runde_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "rundfahrt_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "saal_nm_1",
+    "tags": []
+  },
+  {
+    "id": "sack_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sahne_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "saison_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "salbe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "salon_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "salzig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "saemtliche_pron_1",
+    "tags": []
+  },
+  {
+    "id": "sand_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "saenger_nm_1",
+    "tags": []
+  },
+  {
+    "id": "schachtel_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schade_adj_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "schaden_v_1",
+    "tags": []
+  },
+  {
+    "id": "schaden_nm_1",
+    "tags": []
+  },
+  {
+    "id": "schaedlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "schaelen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_schaemen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schatten_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schaetzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "schauen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "schauspieler_nm_1",
+    "tags": []
+  },
+  {
+    "id": "scheibe_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_scheiden_lassen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "scheidung_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schein_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schieben_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schief_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schiessen_v_1",
+    "tags": []
+  },
+  {
+    "id": "schlaf_nm_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "schlafsack_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "schlaftablette_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schlagen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schlagsahne_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schlange_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schlank_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schliesslich_adv_1",
+    "tags": []
+  },
+  {
+    "id": "schmerzmittel_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schmerzen_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schminken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schmuck_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schmutz_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schnupfen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schreiben_nn_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "schreien_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schrift_nf_1",
+    "tags": []
+  },
+  {
+    "id": "schriftlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "schriftsteller_nm_1",
+    "tags": []
+  },
+  {
+    "id": "schulter_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "schuessel_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schuetteln_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schuetzen_v_1",
+    "tags": []
+  },
+  {
+    "id": "schutz_nm_1",
+    "tags": []
+  },
+  {
+    "id": "schwammerl_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schwangerschaft_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schweigen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schwieger_nx_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "schwierig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "schwierigkeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "schwitzen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "see_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "seitdem_adv_1",
+    "tags": []
+  },
+  {
+    "id": "selb_pron_1",
+    "tags": []
+  },
+  {
+    "id": "selbststaendig_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "selbstverstaendlich_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "selten_adj_1",
+    "tags": []
+  },
+  {
+    "id": "seltsam_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "semmel_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "senden_v_1",
+    "tags": []
+  },
+  {
+    "id": "senior_nm_1",
+    "tags": []
+  },
+  {
+    "id": "senkrecht_adj_1",
+    "tags": []
+  },
+  {
+    "id": "serviceangestellte_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "sicherheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "sichern_v_1",
+    "tags": []
+  },
+  {
+    "id": "sichtbar_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sieg_nm_1",
+    "tags": []
+  },
+  {
+    "id": "siegen_v_1",
+    "tags": []
+  },
+  {
+    "id": "sieger_nm_1",
+    "tags": []
+  },
+  {
+    "id": "sinken_v_1",
+    "tags": []
+  },
+  {
+    "id": "sinn_nm_1",
+    "tags": []
+  },
+  {
+    "id": "sinnvoll_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sitzplatz_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "sobald_konj_1",
+    "tags": []
+  },
+  {
+    "id": "socke_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sodass_konj_1",
+    "tags": []
+  },
+  {
+    "id": "sofern_konj_1",
+    "tags": []
+  },
+  {
+    "id": "sogar_adv_1",
+    "tags": []
+  },
+  {
+    "id": "sogenannt_adj_1",
+    "tags": []
+  },
+  {
+    "id": "solange_konj_1",
+    "tags": []
+  },
+  {
+    "id": "solch_pron_1",
+    "tags": []
+  },
+  {
+    "id": "soldat_nm_1",
+    "tags": []
+  },
+  {
+    "id": "sommer_nm_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "sondern_konj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "sonnig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sorge_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sorgen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "souvenir_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "soviel_konj_1",
+    "tags": []
+  },
+  {
+    "id": "sowieso_adv_1",
+    "tags": []
+  },
+  {
+    "id": "sowohl__als_auch_konj_1",
+    "tags": []
+  },
+  {
+    "id": "sozial_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sparsam_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "spaetestens_adv_1",
+    "tags": []
+  },
+  {
+    "id": "spaziergang_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "speichern_v_1",
+    "tags": []
+  },
+  {
+    "id": "speise_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vorspeise_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "speisewagen_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "spezial_nx_1",
+    "tags": []
+  },
+  {
+    "id": "spezialist_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "speziell_adj_1",
+    "tags": []
+  },
+  {
+    "id": "spiegel_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "spieler_nm_1",
+    "tags": []
+  },
+  {
+    "id": "spielzeug_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "spitz_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sportart_nf_1",
+    "tags": []
+  },
+  {
+    "id": "sportler_nm_1",
+    "tags": []
+  },
+  {
+    "id": "fremdsprache_nf_1",
+    "tags": []
+  },
+  {
+    "id": "muttersprache_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zweitsprache_nf_1",
+    "tags": []
+  },
+  {
+    "id": "sprechstunde_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "springen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "spritze_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "spuelen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "spur_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "spueren_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "stadion_nn_1",
+    "tags": []
+  },
+  {
+    "id": "staedtisch_adj_1",
+    "tags": []
+  },
+  {
+    "id": "stammen_v_1",
+    "tags": []
+  },
+  {
+    "id": "staendig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "standpunkt_nm_1",
+    "tags": []
+  },
+  {
+    "id": "treppenhaus_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "treu_adj_1",
+    "tags": []
+  },
+  {
+    "id": "trinkgeld_nn_1",
+    "tags": ["daily", "travel"]
+  },
+  {
+    "id": "trocknen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "tropfen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "trottoir_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "trotzdem_konj_1",
+    "tags": []
+  },
+  {
+    "id": "tuch_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "tuer_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "turm_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "typ_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "uebung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "ueberfahren_v_1",
+    "tags": []
+  },
+  {
+    "id": "ueberhaupt_adv_1",
+    "tags": []
+  },
+  {
+    "id": "ueberholen_v_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "ueberlegen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "unterschiedlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "unterstreichen_v_1",
+    "tags": []
+  },
+  {
+    "id": "unterstuetzen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "unterstuetzung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "untersuchen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "urkunde_nf_1",
+    "tags": []
+  },
+  {
+    "id": "ursache_nf_1",
+    "tags": []
+  },
+  {
+    "id": "verursachen_v_1",
+    "tags": []
+  },
+  {
+    "id": "urspruenglich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "urteil_nn_1",
+    "tags": []
+  },
+  {
+    "id": "vase_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vegetarisch_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "velo_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_verabreden_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_verabschieden_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "abschied_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_veraendern_v_1",
+    "tags": []
+  },
+  {
+    "id": "verantwortlich_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "verantwortung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "sich_verbessern_v_1",
+    "tags": []
+  },
+  {
+    "id": "verbieten_v_1",
+    "tags": []
+  },
+  {
+    "id": "verbot_nn_1",
+    "tags": []
+  },
+  {
+    "id": "verbinden_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "verbindung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "verstaendnis_nn_1",
+    "tags": []
+  },
+  {
+    "id": "sich_verstecken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "versteckt_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sich_verstehen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "versuch_nm_1",
+    "tags": []
+  },
+  {
+    "id": "verteilen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vertrauen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vertrauen_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vertreten_v_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "vertretung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "vertreter_nm_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "verurteilen_v_1",
+    "tags": []
+  },
+  {
+    "id": "verwaltung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "verwandt_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "verwandte_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "verwechseln_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "verwenden_v_1",
+    "tags": []
+  },
+  {
+    "id": "verzeihen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "verzeihung_nf_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "verzichten_v_1",
+    "tags": []
+  },
+  {
+    "id": "video_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "viel_adj_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "viertel_nn_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "virtuell_adj_1",
+    "tags": []
+  },
+  {
+    "id": "virus_nm_1",
+    "tags": []
+  },
+  {
+    "id": "vitamin_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vollzeit_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "voellig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "voneinander_adv_1",
+    "tags": []
+  },
+  {
+    "id": "vorn_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "vor_allem_adv_1",
+    "tags": []
+  },
+  {
+    "id": "voraus_adv_1",
+    "tags": []
+  },
+  {
+    "id": "voraussetzung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "voraussichtlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "sich_vorbereiten_v_1",
+    "tags": []
+  },
+  {
+    "id": "vorbereitung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "vorder_adj_1",
+    "tags": []
+  },
+  {
+    "id": "vorfahrt_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "vorhaben_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vorher_adv_1",
+    "tags": []
+  },
+  {
+    "id": "vorhin_adv_1",
+    "tags": []
+  },
+  {
+    "id": "vorkommen_v_1",
+    "tags": []
+  },
+  {
+    "id": "vorlaeufig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "vorlesen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "vorschlagen_v_1",
+    "tags": []
+  },
+  {
+    "id": "vorschrift_nf_1",
+    "tags": []
+  },
+  {
+    "id": "sich_vorstellen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "vorstellung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "vorstellungsgespraech_nn_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "vorteil_nm_1",
+    "tags": []
+  },
+  {
+    "id": "vortrag_nm_1",
+    "tags": []
+  },
+  {
+    "id": "vorwaerts_adv_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "vorwurf_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "waagerecht_adj_1",
+    "tags": []
+  },
+  {
+    "id": "wach_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wachsen_v_1",
+    "tags": []
+  },
+  {
+    "id": "wagen_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wahl_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wahnsinnig_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wahrheit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "waehrend_prep_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "wahrscheinlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "wanderung_nf_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "waerme_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "warnen_v_1",
+    "tags": []
+  },
+  {
+    "id": "was_fuer_ein_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "sich_waschen_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "waschmittel_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wecker_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "weder__noch_konj_1",
+    "tags": []
+  },
+  {
+    "id": "wehtun_v_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "sich_weigern_v_1",
+    "tags": []
+  },
+  {
+    "id": "weise_adv_1",
+    "tags": []
+  },
+  {
+    "id": "weiterbildung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "welcher_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "wenden_v_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "werbung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "werfen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "werk_nn_1",
+    "tags": []
+  },
+  {
+    "id": "wert_nm_1",
+    "tags": []
+  },
+  {
+    "id": "wertlos_adj_1",
+    "tags": []
+  },
+  {
+    "id": "weshalb_konj_1",
+    "tags": []
+  },
+  {
+    "id": "wetten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wetterbericht_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wettervorhersage_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "widersprechen_v_1",
+    "tags": []
+  },
+  {
+    "id": "wiederholung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wiese_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wieso_adv_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "wie_viel_pron_1",
+    "tags": ["basic"]
+  },
+  {
+    "id": "winken_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wirken_v_1",
+    "tags": []
+  },
+  {
+    "id": "wirkung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wirklichkeit_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wirt_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wissen_nn_1",
+    "tags": []
+  },
+  {
+    "id": "wissenschaft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "wissenschaftler_nm_1",
+    "tags": []
+  },
+  {
+    "id": "wohnsitz_nm_1",
+    "tags": []
+  },
+  {
+    "id": "worueber_adv_1",
+    "tags": []
+  },
+  {
+    "id": "worum_adv_1",
+    "tags": []
+  },
+  {
+    "id": "wunde_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "wunder_nn_1",
+    "tags": []
+  },
+  {
+    "id": "wunderschoen_adj_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "sich_wundern_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "anzahl_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zahlung_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "zahlreich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "zahncreme_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zeichen_nn_1",
+    "tags": []
+  },
+  {
+    "id": "verkehrszeichen_nn_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "zeichnen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zeichnung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zeile_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zeug_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zeuge_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zinsen_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "zirkus_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zivilstand_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zone_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zubereiten_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zufall_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zufaellig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "zugang_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zugaenglich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "zugehen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zuhause_nn_1",
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "zuhoerer_nm_2",
+    "tags": []
+  },
+  {
+    "id": "zukunft_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zukuenftig_adj_1",
+    "tags": []
+  },
+  {
+    "id": "zunaechst_adv_1",
+    "tags": []
+  },
+  {
+    "id": "zuender_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zuendholz_nn_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zunehmen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zurechtkommen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zusagen_v_1",
+    "tags": []
+  },
+  {
+    "id": "zusammenarbeit_nf_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "zusammenfassen_v_1",
+    "tags": []
+  },
+  {
+    "id": "zusammenhang_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zusaetzlich_adj_1",
+    "tags": []
+  },
+  {
+    "id": "zuschauen_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zuschlag_nm_1",
+    "tags": ["travel"]
+  },
+  {
+    "id": "zu_sein_v_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zustand_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zustaendig_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "zustimmung_nf_1",
+    "tags": []
+  },
+  {
+    "id": "zutaten_nf_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zuverlaessig_adj_1",
+    "tags": ["work"]
+  },
+  {
+    "id": "zvieri_nm_1",
+    "tags": ["daily"]
+  },
+  {
+    "id": "zwar_konj_1",
+    "tags": []
+  },
+  {
+    "id": "zweifel_nm_1",
+    "tags": []
+  },
+  {
+    "id": "zwingen_v_1",
+    "tags": []
+  }
+
+
+
+
+
+
+]

@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="KarlLang - 독일어 단어 학습 앱" />
+    <title>KarlLang - 독일어 학습</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="manifest" href="manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+<body class="state-intro">
+<div class="page-wrapper">
+
+        <!-- 인트로(로고) 화면 -->
+    <section id="introScreen" class="app-card">
+        <div class="start-content">
+
+            <!-- 로고 / 히어로 영역 -->
+            <!-- 로고 / 히어로 영역 -->
+<div class="hero-graphic">
+    <svg
+        class="hero-svg"
+        viewBox="0 0 200 200"
+        width="200"
+        height="200"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+    >
+        <!-- 배경 장식 (파란색 원) -->
+        <circle cx="100" cy="110" r="70" fill="#E3F2FD" />
+        
+        <!-- 뒤쪽 카드 (Blue Accent) -->
+        <rect x="55" y="45" width="110" height="130" rx="16"
+              transform="rotate(-10 110 110)"
+              fill="#2962FF" stroke="white" stroke-width="4"/>
+        
+        <!-- 앞쪽 카드 (Primary Green) -->
+        <rect x="45" y="35" width="110" height="130" rx="16"
+              fill="#00C853" stroke="white" stroke-width="4"/>
+        
+        <!-- 카드 내용 (체크마크) -->
+        <path d="M75 100 L95 120 L135 80"
+              stroke="white" stroke-width="10"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        
+        <!-- 장식용 작은 요소들 -->
+        <circle cx="160" cy="40" r="8" fill="#FF3D00" />
+        <circle cx="30" cy="150" r="6" fill="#2962FF" />
+    </svg>
+</div>
+
+            <!-- 타이틀 / 태그라인 -->
+            <header class="start-header">
+                <h1 class="app-title">KarlLang</h1>
+                <p class="tagline"></p>
+            </header>
+
+        </div>
+
+         </section>
+
+    <!-- 시작 화면 -->
+    <section id="startScreen" class="app-card">
+        <header class="start-header">
+            <h1 class="app-title">KarlLang</h1>
+            <p class="tagline"></p>
+        </header>
+        <div class="divider"></div>
+
+        <div class="start-content">
+            <div class="control-group">
+    <label for="startUiLang">UI 언어</label>
+    <select id="startUiLang">
+        <option value="ko">한국어</option>
+        <option value="en">English</option>
+        <option value="de">Deutsch</option>
+        <option value="es">Español</option>
+        <option value="fr">Français</option>
+        <option value="it">Italiano</option>
+        <option value="pt">Português</option>
+        <option value="ja">日本語</option>
+        <option value="zh">中文</option>
+        <option value="ru">Русский</option>
+    </select>
+</div>
+            <div class="control-group">
+                <label for="startStudyLang">학습 언어</label>
+                <!-- 시작 화면: 학습 언어 -->
+<select id="startStudyLang">
+    <option value="de">Deutsch</option>
+</select>
+            </div>
+
+            <button id="startAppBtn" class="btn btn-primary start-btn">
+                시작
+            </button>
+        </div>
+    </section>
+
+    <!-- 메인 앱 -->
+    <div id="app" class="app-card">
+        <header class="header">
+            <button id="menuToggle" class="hamburger" aria-label="메뉴 열기">
+                <span></span><span></span><span></span>
+            </button>
+        </header>
+
+        <main class="app-main">
+            <!-- 학습 화면 -->
+<section id="studyView" class="view view-section">
+    <div id="progressBarContainer" class="progress-bar-container">
+        <div id="progressBar" class="progress-bar"></div>
+    </div>
+    <div id="progress" class="progress-text">0/0 (0개 남음) [Lv.1]</div>
+
+    <article id="mainCard" class="card">
+        <div id="cardLevelBadge" class="card-level-badge"></div>
+        <div id="questionDisplay" class="question">
+            시작 버튼을 누르세요.
+        </div>
+        <div id="hintDisplay" class="hint"></div>
+
+        <div id="inputArea" class="input-area">
+            <div class="copy-wrapper">
+                <span id="copyGhost" class="copy-ghost"></span>
+                <input
+                    type="text"
+                    id="answerInput"
+                    autocomplete="off"
+                    placeholder="정답 입력"
+                />
+            </div>
+        </div>
+
+        <div id="feedback" class="feedback"></div>
+
+<p id="studySummaryText" class="section-description"></p>
+
+        <div class="button-group">
+            <button id="mainBtn" class="btn btn-primary">시작</button>
+            <button id="skipBtn" class="btn btn-secondary" style="display:none;">
+                정답
+            </button>
+        </div>
+
+        <div id="ratingArea" class="rating-area" style="display:none;">
+            <p class="rating-title">난이도를 평가해 주세요:</p>
+            <div class="rating-buttons">
+                <button class="btn btn-rating btn-hard" data-rating="hard">
+                    어려움
+                </button>
+                <button class="btn btn-rating btn-normal" data-rating="normal">
+                    보통
+                </button>
+                <button class="btn btn-rating btn-easy" data-rating="easy">
+                    쉬움
+                </button>
+            </div>
+        </div>
+    </article>
+
+    <section id="endStatsArea" class="end-stats" style="display:none;">
+        <h2 id="endTitle" class="end-title">오늘 학습 요약</h2>
+        <p id="endTotal" class="end-line"></p>
+        <p id="endNew" class="end-line"></p>
+        <p id="endReview" class="end-line"></p>
+        <button id="restartBtn" class="btn btn-primary">
+            다시 시작
+        </button>
+    </section>
+</section>
+
+                        <!-- 사용자 화면 -->
+            <section id="userView" class="view view-section" style="display:none;">
+                <h2 class="view-title">사용자</h2>
+
+                <!-- ✅ 학습 설정이 위로 올라온 버전 -->
+                <h3 class="section-title" id="userSettingsTitle">학습 설정</h3>
+<div class="user-settings-grid">
+    <!-- 1) 학습 모드 (순서: 카드 → 따라쓰기 → 타이핑) -->
+    <div class="control-group">
+        <label for="modeSelect">모드</label>
+        <select id="modeSelect">
+            <option value="card">카드 모드</option>
+            <option value="copy">따라쓰기 모드</option>
+            <option value="typing_de">타이핑 모드</option>
+        </select>
+    </div>
+
+    <!-- 2) 목표 개수 -->
+    <div class="control-group">
+        <label for="goalSelectTyping">입력 목표</label>
+        <select id="goalSelectTyping">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="50">50</option>
+        </select>
+    </div>
+
+    <div class="control-group">
+        <label for="goalSelectCard">카드 목표</label>
+        <select id="goalSelectCard">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="50">50</option>
+        </select>
+    </div>
+
+    <!-- 3) 🔁 카테고리 먼저 (좌측) -->
+    <div class="control-group">
+        <label for="newWordCategorySelect" id="newWordCategoryLabel">
+            카테고리
+        </label>
+        <select id="newWordCategorySelect">
+    <option value="all">전체</option>
+    <option value="exam">Goethe</option>
+    <option value="daily">일상</option>   <!-- smalltalk → daily 로 변경 -->
+    <option value="travel">여행</option>
+    <option value="work">직장</option>
+    <option value="basic">기초</option>   <!-- basic도 선택할 수 있게 추가 -->
+</select>
+    </div>
+
+    <!-- 4) 그 다음 레벨 (우측) -->
+    <div class="control-group">
+        <label for="newWordCefrSelect">레벨</label>
+        <select id="newWordCefrSelect">
+            <option value="all">전체 레벨</option>
+            <option value="A1">A1</option>
+            <option value="A2">A2</option>
+            <option value="B1">B1</option>
+            <option value="B2">B2</option>
+            <option value="C1">C1</option>
+            <option value="C2">C2</option>
+        </select>
+    </div>
+</div>
+
+                <!-- ✅ CEFR 진척도가 아래로 내려온 버전 -->
+                <h3 class="section-title" id="userCefrTitle">CEFR 단어 진척도</h3>
+                <div id="cefrProgress" class="cefr-progress">
+                    <!-- A1 ~ C2 고정 6줄 -->
+                    <div class="cefr-row" data-level="A1">
+                        <span class="cefr-label">A1</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarA1"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountA1">0/0 (0%)</span>
+                    </div>
+                    <div class="cefr-row" data-level="A2">
+                        <span class="cefr-label">A2</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarA2"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountA2">0/0 (0%)</span>
+                    </div>
+                    <div class="cefr-row" data-level="B1">
+                        <span class="cefr-label">B1</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarB1"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountB1">0/0 (0%)</span>
+                    </div>
+                    <div class="cefr-row" data-level="B2">
+                        <span class="cefr-label">B2</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarB2"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountB2">0/0 (0%)</span>
+                    </div>
+                    <div class="cefr-row" data-level="C1">
+                        <span class="cefr-label">C1</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarC1"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountC1">0/0 (0%)</span>
+                    </div>
+                    <div class="cefr-row" data-level="C2">
+                        <span class="cefr-label">C2</span>
+                        <div class="cefr-bar">
+                            <div class="cefr-bar-inner" id="cefrBarC2"></div>
+                        </div>
+                        <span class="cefr-count" id="cefrCountC2">0/0 (0%)</span>
+                    </div>
+                </div>
+            </section>
+
+<section id="trainingView" class="view view-section">
+    <h2 class="view-title">훈련소</h2>
+    <p class="section-description">
+        틀린 단어 / 어려운 단어 / 북마크에서 골라 집중 훈련하는 모드입니다.
+    </p>
+
+    <!-- 🔹 소스 선택(미스테이크 / 북마크) -->
+    <!-- 🔹 소스 선택(토글 스위치) -->
+    <div class="training-target-section">
+        <label id="trainingTargetLabel" class="section-label">훈련 대상</label>
+        
+        <div class="training-source-row">
+            <span>틀린 단어</span>
+            <button type="button" id="trainingSourceMistakes" class="toggle-switch is-on">
+                <div class="toggle-track">
+                    <div class="toggle-knob"></div>
+                </div>
+            </button>
+        </div>
+
+        <div class="training-source-row">
+            <span>어려운 단어</span>
+            <button type="button" id="trainingSourceHard" class="toggle-switch is-on">
+                <div class="toggle-track">
+                    <div class="toggle-knob"></div>
+                </div>
+            </button>
+        </div>
+
+        <div class="training-source-row">
+            <span>북마크</span>
+            <button type="button" id="trainingSourceBookmark" class="toggle-switch is-on">
+                <div class="toggle-track">
+                    <div class="toggle-knob"></div>
+                </div>
+            </button>
+        </div>
+    </div>
+
+    <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
+    <div class="control-group" style="margin-top: 14px;">
+        <label for="trainingModeSelect">훈련 모드</label>
+        <select id="trainingModeSelect">
+            <option value="cram">크램 </option>
+        </select>
+    </div>
+
+<div class="control-group">
+  <label for="trainingCountSelect">훈련 단어 수</label>
+<select id="trainingCountSelect">
+    <option value="5">5개</option>
+    <option value="10">10개</option>
+    <option value="20">20개</option>
+    <option value="30">30개</option>
+    <option value="50">50개</option>
+</select>
+</div>
+    <!-- 🔹 세션 시작 버튼 -->
+    <button id="trainingStartBtn" class="btn btn-primary" style="margin-top: 20px; width: 100%;">
+        훈련 세션 시작
+    </button>
+
+    <!-- 🔹 나중에 결과/요약 보여줄 자리 -->
+    <div id="trainingSummary" class="section-description" style="margin-top: 16px;">
+        <!-- 세션 끝난 뒤에 "총 n단어 훈련" 같은 요약 들어갈 자리 -->
+    </div>
+</section>
+
+            <!-- 틀린 단어 화면 -->
+            <section id="vocabView" class="view view-section" style="display:none;">
+                <h2 class="view-title">틀린 단어</h2>
+                <p class="section-description">
+                    자주 ‘어려움’으로 평가했거나 여러 번 틀린 단어들이 여기 모입니다.
+                </p>
+                <div id="wordbookList" class="wordbook-list"></div>
+            </section>
+
+<!-- 북마크 화면 -->
+<section id="bookmarkView" class="view view-section" style="display:none;">
+    <h2 class="view-title">북마크</h2>
+    <p class="section-description">
+        내가 따로 외우고 싶어서 북마크한 단어들이 여기 모입니다.
+    </p>
+    <div id="bookmarkList" class="wordbook-list"></div>
+</section>
+
+            <!-- 단어 검색 화면 -->
+            <section id="searchView" class="view view-section" style="display:none;">
+                <h2 class="view-title">단어 검색</h2>
+                <p class="section-description">
+                    단어를 검색해서 의미와 CEFR 레벨을 확인할 수 있습니다.
+                </p>
+
+                <div class="control-group">
+                    <label for="searchMode">검색 기준</label>
+                    <select id="searchMode">
+  <option value="ui">UI 언어</option>
+  <option value="study">학습 언어</option>
+</select>
+                </div>
+
+                <div class="search-input-wrap">
+                    <input
+                        type="text"
+                        id="searchInput"
+                        placeholder="단어를 입력하세요"
+                    />
+                </div>
+
+                <div id="searchResults" class="wordbook-list"></div>
+            </section>
+
+            <!-- 설정 화면 -->
+            <section id="settingsView" class="view view-section" style="display:none;">
+                <h2 class="view-title">설정</h2>
+
+                <div class="control-group">
+                    <label for="settingsUiLang">UI 언어</label>
+                    <select id="settingsUiLang"></select>
+                </div>
+
+                <div class="control-group">
+                    <label for="settingsStudyLang">학습 언어</label>
+                    <!-- 설정 화면: 학습 언어 -->
+<select id="settingsStudyLang">
+    <option value="de">Deutsch</option>
+</select>
+                </div>
+
+<div class="control-group">
+    <label id="soundToggleLabel">사운드</label>
+    <button type="button" id="soundToggle" class="toggle-switch">
+        <div class="toggle-track">
+            <div class="toggle-knob"></div>
+        </div>
+        <span class="toggle-text toggle-on">ON</span>
+        <span class="toggle-text toggle-off">OFF</span>
+    </button>
+</div>
+
+            </section>
+        </main>
+    </div>
+
+        <!-- 햄버거 메뉴 -->
+    <div id="sideMenuOverlay" class="side-overlay" style="display:none;"></div>
+    <nav id="sideMenu" class="side-menu" aria-hidden="true">
+        <button id="navUser" class="side-item">
+            <span>사용자</span>
+        </button>
+        <button id="navStudy" class="side-item">
+            <span>학습</span>
+        </button>
+        <button id="navTraining" class="side-item">
+        <span>훈련소</span>
+    </button>
+        <button id="navVocab" class="side-item">
+            <span>틀린 단어</span>
+        </button>
+        <button id="navBookmark" class="side-item">
+            <span>북마크</span>
+        </button>
+        <button id="navSearch" class="side-item">
+            <span>단어 검색</span>
+        </button>
+        <button id="navSettings" class="side-item side-settings">
+            <span>설정</span>
+        </button>
+    </nav>
+
+    <!-- 🔹 단어 디테일 팝업 -->
+    <div id="wordDetailOverlay" class="detail-overlay">
+      <div class="detail-backdrop"></div>
+      <div class="detail-panel">
+        <div class="detail-header">
+          <div class="detail-title" id="detailTitle"></div>
+          <button type="button" id="detailCloseBtn" class="detail-close-btn">×</button>
+        </div>
+
+        <div class="detail-body">
+          <div class="detail-row">
+            <span class="detail-label">품사</span>
+            <span class="detail-value" id="detailPos"></span>
+          </div>
+
+          <div class="detail-row">
+            <span class="detail-label">뜻</span>
+            <span class="detail-value" id="detailMeaning"></span>
+          </div>
+
+          <div class="detail-row" id="detailExtraRow" style="display:none;">
+            <span class="detail-label">기타</span>
+            <span class="detail-value" id="detailExtra"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</div> <!-- page-wrapper 끝 -->
+<script src="category_meta.js"></script>
+<script src="translations.js"></script>
+
+<!-- 새 스키마 데이터 파일만 사용 -->
+<script src="data/de/words_de_a1.js"></script>
+<script src="data/de/words_de_a2.js"></script>
+<script src="data/de/words_de_b1.js"></script>
+
+<!-- 언어별 규칙 -->
+<script src="lang_config.js"></script>
+
+<!-- 메인 앱 로직 -->
+<script src="script.js"></script>
+</body>
+</html>

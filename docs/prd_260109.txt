@@ -1,0 +1,483 @@
+# KarlLang v10 – 핵심 프로젝트 명세서 (개발자용 PRD 요약)
+
+---
+
+## 1. 핵심 기능 로직
+
+### 1.1 학습 모드 구조
+
+- **모드 종류**
+  - `typing_de` : 뜻 → 독일어 타이핑
+  - `card` : 한쪽(질문) → 다른쪽(정답) 카드 플립
+  - `copy` : 따라쓰기(깜지 모드 전신, 현재는 일반 copy와 cram 분리)
+  - `training / cram` : 훈련소에서 선택된 단어들을 반복 따라쓰기 전용 모드
+
+- **공통 상태**
+  - `APP_STATE`  
+    - `phase`: `"READY" | "QUESTION" | "ANSWER" | "FINISHED"`
+    - `currentCard`: 현재 단어(SRS 포함)
+    - `queue`: 이번 세션 대상 단어 리스트
+    - `completed`: 이번 세션에서 처리한 카드 수
+    - `totalTarget`: 이번 세션 목표 카드 수
+    - `newCount`, `reviewCount`: 새 단어/복습 단어 개수
+    - `currentView`: `"study" | "training" | "mistakes" | "bookmark" | "search" | "settings" ...`
+
+- **훈련소 상태**
+  - `TRAINING_MODE_ACTIVE: boolean` – 훈련소 모드 on/off
+  - `TRAINING_MODE_KIND: "none" | "typing" | "copy" | "mix" | "cram"`
+  - `TRAINING_MIX_WORDS`, `TRAINING_MIX_INDEX`, `TRAINING_MIX_STEP` – mix 모드용(현재 주력은 cram)
+  - `TRAINING_CRAM_WORDS`: 깜지 대상 단어 배열
+  - `TRAINING_CRAM_INDEX`: 현재 몇 번째 단어인지
+  - `TRAINING_CRAM_REPEAT_TOTAL`: 이 단어를 몇 번 쓸 건지 (1/3/5)
+  - `TRAINING_CRAM_REPEAT_INDEX`: 현재 몇 회째인지(0-based)
+
+---
+
+### 1.2 SRS(Spaced Repetition) 로직
+
+- **데이터 버전**
+  - `DATA_VERSION = "goethe_a1_full_v1"`  
+  - settings에 `dataVersion` 저장, 버전 바뀌면 해당 언어 SRS/통계/wordStats 리셋
+
+- **레벨 & 인터벌**
+  - `SRS_LEVELS = [0, 1, 2, 3, 4, 5]`
+  - `SRS_INTERVALS = [0, 1, 2, 4, 7, 15]` (일 단위)
+  - `nowDay()`로 오늘 날짜를 일(day) 단위 epoch로 계산
+
+- **per-word SRS 상태**
+  - `getSrsKey(wordId, lang)` → `"karllang_word_<lang>_<id>"`
+  - `getWordState(word)`  
+    - 로컬스토리지에서 상태 로드, 없으면 `{ level:0, isNew:true, lastReviewed:0, nextDue:0 }`
+  - `saveWordState(state)`  
+    - `level`, `lastReviewed`, `nextDue`, `isNew` 저장
+
+- **큐 구성 (`buildQueue`)**
+  1. **필터링**
+     - CEFR 필터  
+       - `SETTINGS.newWordCefr` (`"all" | "A1"...`)  
+       - `w.cefr`와 비교, `all` 아니면 동일 CEFR만 통과
+     - 카테고리 필터  
+       - `SETTINGS.newWordCategory` (`"all" | "exam" | "basic" | "daily" | "travel" | "work" | "smalltalk" ...`)  
+       - `w.tags` 배열에 해당 값 포함 여부로 필터
+     - UI 언어 기준 의미 존재 여부  
+       - `getMeaning(w)`가 비어 있으면 제외
+
+  2. **새 단어 vs 복습**
+     - `isNew === true` → `newWords`에
+     - `!isNew && nextDue <= today` → `due`에
+
+  3. **복습 정렬**
+     - `level` 오름차순 → `nextDue` 오름차순
+
+  4. **새 단어 셔플**
+     - `shuffleArray(newWords)` (Fisher–Yates)  
+       → “A 지옥(알파벳 앞부분 몰림)” 방지
+
+  5. **목표 개수만큼 큐 채우기**
+     - `target = SETTINGS.goalTyping` (기본값 5)
+     - `due` 먼저 채우고 부족분을 `newWords`에서 채움
+     - `APP_STATE.queue` 세팅 + 카운터 초기화
+
+---
+
+### 1.3 Ghost Text / Copy 모드 / 깜지(cram) 로직
+
+#### 1.3.1 Ghost HTML 빌더
+
+- **HTML 이스케이프**
+  ```js
+  function escapeHtml(text) { ... }
+
+	•	전체 글자 + 밑줄(고스트)
+
+function buildFullGhostHtml(full) {
+  // 각 문자마다 <span class="ghost-char">ch</span>
+  // 공백은 그대로
+}
+
+	•	글자는 그대로 보이고, CSS에서 ghost-char / ghost-hidden 클래스로 스타일(밑줄/희미함) 제어
+
+	•	단어별 첫 글자만 보이는 고스트 (깜지용)
+
+function buildFirstLetterGhostHtmlForCram(full) {
+  // 단어 첫 글자는 <span class="ghost-char">ch</span>
+  // 이후 글자는 <span class="ghost-char ghost-hidden">ch</span>
+  // 공백은 그대로
+}
+
+
+	•	텍스트 버전(underline) 고스트
+
+function buildFirstLetterGhost(full) {
+  // "das Haus" -> "d__ H___"
+}
+
+
+
+1.3.2 깜지용 반복 로직
+	•	반복 단계에 따른 ghost 타입
+
+function getGhostTypeForCram(idx, total) {
+  // total=1: FIRST
+  // total=3: FULL → FIRST → NONE
+  // total=5: FULL → FIRST → FIRST → NONE → NONE
+}
+
+
+	•	현재 반복 단계에 맞는 ghost 적용
+
+function applyCramGhost(word) {
+  const full = buildGermanForm(word);
+  const ghostType = getGhostTypeForCram(
+    TRAINING_CRAM_REPEAT_INDEX,
+    TRAINING_CRAM_REPEAT_TOTAL
+  );
+
+  if (ghostType === "FULL") {
+    DOM.copyGhost.innerHTML = buildFullGhostHtml(full);
+  } else if (ghostType === "FIRST") {
+    DOM.copyGhost.innerHTML = buildFirstLetterGhostHtmlForCram(full);
+  } else {
+    DOM.copyGhost.textContent = "";
+  }
+}
+
+
+
+1.3.3 깜지 화면 렌더링
+	•	질문 표시 (showCramQuestion)
+	•	훈련 대상 단어: TRAINING_CRAM_WORDS[TRAINING_CRAM_INDEX]
+	•	questionDisplay : 뜻 (UI 언어)
+	•	hintDisplay : 품사/추가 정보 (getPosWithMeaning)
+	•	copyGhost: applyCramGhost(word) 호출로 고스트 라인 표시
+	•	answerInput: 활성화 + 포커스
+	•	버튼/난이도 영역:
+	•	메인 버튼: “확인”
+	•	skipBtn 숨김
+	•	ratingArea 항상 숨김 (깜지는 난이도 평가 없음)
+	•	진행도:
+	•	APP_STATE.totalTarget = TRAINING_CRAM_WORDS.length
+	•	APP_STATE.completed = TRAINING_CRAM_INDEX
+	•	updateProgressBar()
+	•	제출 처리 (handleCramSubmit)
+	•	입력값 공백 → “정답을 입력해 주세요” 피드백
+	•	입력값이 buildGermanForm(word)와 다르면
+	•	“철자를 다시 확인하세요”
+	•	전체 선택 후 다시 입력 유도
+	•	정답이면
+	•	applyAnswerEffect(true)
+	•	speakGerman(targetText) 1회
+	•	반복 카운터 증가: TRAINING_CRAM_REPEAT_INDEX++
+	•	반복 완료 시
+	•	markWordMastered(id, { keepBookmark })
+	•	TRAINING_CRAM_REPEAT_INDEX = 0
+	•	TRAINING_CRAM_INDEX++
+	•	APP_STATE.completed = TRAINING_CRAM_INDEX
+	•	마지막 단어까지 끝나면
+	•	훈련 모드 종료 + showReadyState() + showView("training")
+	•	trainingSummary에 “훈련 세션이 종료되었습니다.” 노출
+
+⸻
+
+1.4 난이도 평가 로직 (일반 학습 모드)
+
+주의: 현재 증상 – 난이도 버튼(ratingArea)이 사라진 상태.
+원래 설계 기준으로 요약.
+
+	•	정답 채점 후 공통 처리 함수: applyAnswerResult(isCorrect, item)
+	1.	피드백 문구 설정 (correct / incorrect)
+	2.	카드 이펙트 (card-correct / card-wrong)
+	3.	renderAnswerWithSpeaker()로 정답/뜻 + 발음 버튼 + 북마크 버튼 표시
+	4.	speakGerman(german)
+	5.	setPhase("ANSWER")
+	6.	여기서 난이도 영역(ratingArea)을 표시하는 로직이 있어야 정상
+	•	예: DOM.ratingArea.classList.remove("rating-hidden");
+	•	showNextQuestion() 진입 시
+	•	항상 ratingArea.classList.add("rating-hidden")로 초기화
+
+※ 지금 문제는 “remove("rating-hidden")가 실행되지 않거나, CSS로 완전히 숨기고 있어서 난이도 버튼이 전혀 안 보이는 상태로 추정됨.
+
+⸻
+
+1.5 통계/문제 단어/북마크 로직
+	•	단어별 통계 구조 (현재 학습 언어 기준)
+
+// STORAGE_KEYS.WORD_STATS = "karllang_word_stats_v4"
+
+{
+  "<lang>": {         // ex) "de"
+    "<id>": {
+      hardCount: number,
+      wrongAttempts: number,
+      bookmarked: boolean,
+      level: number,
+      lastWrongAt: number(ms),
+      lastHardAt: number(ms)
+    },
+    ...
+  }
+}
+
+	•	주요 함수
+	•	getWordStatsAll() – 현재 학습언어에 해당하는 map 반환
+	•	getWordStatsById(id) – 특정 단어 통계 반환
+	•	setWordStatsById(id, updater) – immutable-style 업데이트
+	•	incrementWrongAttempt(wordId) – 오답 카운트 + lastWrongAt 갱신
+	•	toggleBookmark(wordId) – 북마크 토글 + 버튼 두 군데(학습/복사) 동기화
+	•	markWordMastered(wordId, { keepBookmark })
+	•	hardCount/오답/최근 오답·하드 시각 reset
+	•	keepBookmark 옵션에 따라 북마크 유지 or 제거
+	•	현재 뷰에 따라 renderMistakes() / renderBookmarks() 재렌더
+
+⸻
+
+2. 데이터 스키마
+
+2.1 Word 객체 (KarlLang Schema v1 – 실제 코드 기준)
+
+{
+  id: "die_abbildung_nf_1",
+  lemma: "die Abbildung",  // 명사는 관사까지 lemma에 포함
+  pos: "Nomen" | "Verb" | "Adjektiv" | "Adverb" | "Präposition" | "Konjunktion" | ...,
+  gender: "der" | "die" | "das" | "" ,
+  plural: "-e" | "-en" | "¨-e" | "-" | "" ,
+  cefr: "A1" | "A2" | "B1" | ...,
+  tags: ["exam", "daily", "travel", "work", "basic", "smalltalk", ...],
+  meanings: {
+    de: "die Abbildung",                 // 원어 그대로 or 짧은 정의
+    ko: "삽화, 그림, 도해",
+    en: "illustration, figure",
+    es: "la ilustración, la figura",
+    fr: "l'illustration, la figure",
+    it: "l'illustrazione, la figura",
+    pt: "a ilustração, a figura",
+    ja: "挿絵, 図",
+    zh: "插图, 图解",
+    ru: "изображение, иллюстрация"
+  },
+  examples: [
+    "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet."
+  ],
+  conj: {
+    pres_ich: "biege ab",
+    pres_du: "biegst ab",
+    pres_er: "biegt ab",
+    praet:   "bog ab",
+    part2:   "abgebogen",
+    aux:     "sein" // haben / sein
+  },
+  meta: { /* 예약 필드 – 추가 정보, 출처 등 */ }
+}
+
+	•	id 규칙(실제 예시 기준)
+	•	접두사/접미사 제외 일반 단어:
+	•	lemma + _v_1 / _nf_1 / _nm_1 / _nn_1 등
+	•	예: "abfahren_v_1", "der_abfall_nm_1"
+	•	품사별 suffix 패턴은 기존 A1/A2 규칙과 동일 유지
+	•	파일 구조
+	•	data/de/words_de_a1.js
+	•	const WORDS_DE_A1 = [ ... ];
+	•	data/de/words_de_a2.js
+	•	data/de/words_de_b1.js  (최종 dedup + 태그 통합본)
+	•	script.js 상단:
+
+const WORDS_DE_A1_SAFE = typeof WORDS_DE_A1 !== "undefined" ? WORDS_DE_A1 : [];
+const WORDS_DE_A2_SAFE = typeof WORDS_DE_A2 !== "undefined" ? WORDS_DE_A2 : [];
+const WORDS_DE_B1_SAFE = typeof WORDS_DE_B1 !== "undefined" ? WORDS_DE_B1 : [];
+
+const ALL_WORDS_DE = [
+  ...WORDS_DE_A1_SAFE,
+  ...WORDS_DE_A2_SAFE,
+  ...WORDS_DE_B1_SAFE
+];
+
+
+
+⸻
+
+2.2 로컬스토리지 키 스키마
+
+const STORAGE_KEYS = {
+  SETTINGS: "karllang_settings_v3",
+  SRS_PREFIX: "karllang_word_",        // + "<lang>_<id>"
+  STATS: "karllang_stats_v4",          // 언어별 전체 통계
+  WORD_STATS: "karllang_word_stats_v4" // 언어별 단어 통계/북마크
+};
+
+	•	SETTINGS 구조 (실제 사용값 기준)
+
+{
+  mode: "typing_de" | "card" | "copy",
+  goalTyping: number,
+  goalCard: number,
+  newWordCefr: "all" | "A1" | ...,
+  uiLang: "ko" | "en" | "de" | ...,
+  studyLang: "de",              // v1에서는 de만 허용
+  soundEnabled: true | false,
+  newWordCategory: "all" | "exam" | ...,
+  dataVersion: "goethe_a1_full_v1"
+}
+
+	•	통계(STATS) 구조
+→ 언어별 총 학습량, 일별 통계 등 (상세 구조는 script.js 후반부 통계 섹션 참고, 현재 핵심은 WORD_STATS 사용)
+
+⸻
+
+3. 중복 제거 & 태깅 파이프라인 (B1 기준)
+
+3.1 원본 → 정제 → dedup 흐름
+	1.	PDF에서 RAW 추출
+	•	RAW_DE_B1_SOURCE 형태(별도 Node 스크립트)
+	2.	정제(clean)
+	•	텍스트 오류/잘못된 POS/접두사·접미사 타입 정리
+	•	예: "-weise" → pos: "Adverb" + 의미에 “(접미사)” 명시
+	3.	앱 스키마로 변환
+	•	raw_de_b1.js → words_de_b1.js
+	•	변환 시:
+	•	lemma/pos/cefr/tags/meanings/examples/gender/plural/conj/meta/id 구조로 매핑
+	•	관사 포함 lemma 처리(명사)
+	4.	A1/A2와 교차 중복 제거
+	•	A1/A2 + B1 로드 후, 중복 key 기준으로 B1에서 제거
+	•	중복 기준: 실제 구현은 정리 스크립트 참고
+(실제 작업 결과: B1 원본 2485 → dedup 후 1446)
+	•	결과 파일: words_de_b1_nodup.js → 내용 최종적으로 words_de_b1.js에 통합
+
+3.2 태깅 파이프라인
+	1.	태깅용 JSON 생성
+	•	B1 전체 단어 id 리스트 기반
+	•	LLM으로 카테고리 태그 부여(basic/daily/travel/work 등)
+	•	결과: b1_tags_all.json
+	•	구조: { id, tags: ["exam", "daily", ...] }[]
+	2.	검증 스크립트 (check_b1_tags.js)
+	•	허용 태그 집합: ["exam", "basic", "daily", "travel", "work"]
+	•	b1_tags_all.json 로드 후:
+	•	허용되지 않은 태그 없는지 검사
+	•	tags 빈 배열인 항목 개수/리스트 출력
+	•	태그 id가 WORDS_DE_B1 안에 모두 존재하는지 검증
+	•	반대로 B1의 모든 단어가 태그 파일에도 존재하는지 확인
+	3.	합치기
+	•	words_de_b1.js 로드 후
+	•	b1_tags_all.json의 tags를 병합, exam은 기본값처럼 취급
+	•	태그 없는 단어는 최소 "exam" 하나는 갖도록 후처리(현재 일부는 빈 배열로 남아 있음 → 향후 보완 여지)
+
+⸻
+
+4. UI / 현재 진행 상황
+
+4.1 파일 구조(핵심)
+	•	index.html
+	•	start 화면
+	•	로고 + 카피 + UI 언어/학습 언어 선택 드롭다운
+	•	“시작” 버튼
+	•	메인 앱 구조
+	•	헤더 + 햄버거 메뉴(sideMenu)
+	•	사용자 / 학습 / 훈련소 / 틀린 단어 / 북마크 / 검색 / 설정
+	•	#studyView, #trainingView, #vocabView, #bookmarkView, #searchView, #settingsView, #userView
+	•	style.css
+	•	모바일 기준 레이아웃 (page-wrapper ~350px)
+	•	카드 UI, 버튼, 토글 스위치
+	•	훈련소/설정 control-group 가로 정렬
+	•	#settingsView .control-group
+	•	#trainingView .control-group
+	•	훈련 대상 토글 스위치 (틀린단어/어려운단어/북마크)
+	•	.training-target-section, .training-source-row, .toggle-switch 공용 스타일 활용
+	•	ghost/copy 관련 스타일 (.ghost-char, .ghost-hidden, .copy-ghost 등 – 기존 정의 유지)
+	•	script.js
+	•	전체 앱 로직(상단에 붙어 있음, v10 기준)
+	•	모드/큐/SRS/UI 언어/i18n/훈련소/깜지/북마크/검색/통계까지 전부 한 파일 안에 구현
+
+4.2 UI 변경 내역 (최근)
+	•	인트로 로고 애니메이션
+	•	위/아래 점프 느낌으로 수정 (duration 조정 완료)
+	•	설정 화면
+	•	드롭다운 라벨/컨트롤을 한 줄로 정렬
+	•	#settingsView .control-group flex row 구조 + padding/border로 구분
+	•	훈련소 화면
+	•	“훈련 대상” 영역: 체크박스 → 토글 스위치 UI로 변경
+	•	html 구조:
+	•	.training-target-section 내에 .training-source-row 3개
+	•	각 row: span(라벨) + button.toggle-switch
+	•	script:
+	•	번역 시, trainingSourceMistakes/Hard/Bookmark를 기준으로 상위 .training-source-row 찾아 span 텍스트 변경
+	•	클릭 이벤트: classList.toggle("is-on") + updateTrainingSummaryPreview()
+	•	updateTrainingSummaryPreview():
+	•	아무 소스도 선택 안 되어 있으면 빨간 경고 문구
+	•	하나라도 선택되면 회색 힌트 문구
+	•	훈련 모드/단어 수 드롭다운도 설정처럼 가로 정렬
+	•	학습 카드
+	•	mainCard 높이 고정 (min-height 300px 수준)으로 화면 튐 현상 절감
+	•	카드 안에서 단어/버튼 위치 조정(타이핑 모드 기준 상단 여백 확보)
+	•	i18n/UI 언어
+	•	LANG_META, getUiLangLabel, refreshUiLangSelectLabels
+→ UI 언어 드롭다운이 “한국어/Deutsch/English/…” 식으로 언어별 표기
+	•	CEFR 표시도 CJK 학습 언어일 때 “초급 1 (A1)” 식으로 보여주는 로직 완비
+
+⸻
+
+5. 남은 과제 (출시 전 체크리스트 / 버그 목록)
+
+5.1 기능/버그
+	1.	난이도 버튼(ratingArea) 미노출 버그
+	•	ratingArea가 항상 rating-hidden 상태인 문제
+	•	해야 할 것:
+	•	script.js 내부에서 rating-hidden 문자열 검색
+	•	add / remove 각각 위치 확인
+	•	applyAnswerResult(혹은 정답 이후 단계 함수)에
+DOM.ratingArea.classList.remove("rating-hidden"); 복원
+	•	CSS에서 #ratingArea를 강제로 display:none 하는 룰이 있는지 확인
+	2.	카드 페이드 전환
+	•	현재 fadeSwapText 도입으로 텍스트만 부드럽게 바뀌는 상태
+	•	“이전 텍스트 잔상 + 버튼 위치 점프” 느낌 최소화 필요
+	•	할 수 있는 방향:
+	•	버튼/입력 영역은 display 대신 opacity 전환 사용
+	•	카드 전체 레이아웃/높이 고정 후, 내부 콘텐츠만 페이드
+	3.	훈련소 깜지 모드 UX
+	•	반복 횟수(1/3/5) 선택 UI 추가 예정 여부 결정
+	•	현재는 고정 값(3 or 5) 기반이므로, 설정에서 수정 가능하게 할지 논의 필요
+	•	훈련 종료 후 summary 간단 통계(진짜 졸업한 단어 수 등) 표시 고려
+	4.	틀린 단어 / 훈련소 상호작용
+	•	깜지에서 markWordMastered로 졸업한 단어가
+	•	틀린 단어 목록/훈련소 소스에서 어떻게 빠지는지 일관성 점검
+	•	북마크 keepBookmark 옵션 사용 시 UX 확인
+	5.	검색 기능
+	•	현재 검색 모드: UI 언어 / 학습 언어 기준
+	•	정규식/부분 일치, 대소문자 처리, 속도 측면 점검
+	•	상세 보기/발음/북마크 연동 검증
+
+5.2 데이터 관련
+	1.	A1/A2 raw 재추출/정제
+	•	현재 B1처럼 완전한 파이프라인(raw→clean→dedup→tagging) 적용 안 된 상태
+	•	목표:
+	•	A1/A2도 B1과 동일한 스키마/품질로 재정비
+	•	중복/오타/의미 뉘앙스 보정
+	2.	태그 커버리지
+	•	B1 태깅 결과:
+	•	exam: 기본 포함(명시 or 암묵)
+	•	basic/daily/travel/work: LLM 태깅 완료
+	•	tags 빈 배열 452개(= 현재 카테고리 없음) → 후속 작업 필요
+	•	A1/A2에도 동일 태깅 전략 적용할지 결정
+	3.	상위 레벨(B2, C1, C2)
+	•	출시 후 업데이트로 밀어둔 상태
+	•	소스 선정(공인 리스트 vs 코퍼스 기반 빈도 리스트) 및 스키마 맞춤 필요
+
+5.3 UI/UX · 출시 준비
+	1.	카드 레이아웃 마무리
+	•	각 phase(QUESTION/ANSWER)의 높이/버튼 위치 통일
+	•	모바일 iPhone 기준 실제 손가락 동선 고려
+	2.	반응형 / 다른 기기
+	•	초기는 모바일 우선(폭 350px)
+	•	태블릿/PC에서 최소 깨지지 않게만 구성
+	3.	번역팩(Translations.js) 정리
+	•	모든 I18N_KEYS에 대해 ko/en/de 최소 커버
+	•	훈련소 관련 키(training.*) + 깜지 문구 최신 상태 반영
+	4.	초기 온보딩/설명
+	•	완전 초보 유저용 스타터 플로우는 아직 미구현
+	•	v1에서는 간단 툴팁 or Help 섹션 정도만 검토
+	5.	성능/스토리지
+	•	LocalStorage 키 수 증가에 따른 성능 영향 체크
+	•	SRS/WORD_STATS 버전 업 시 마이그레이션 전략(지금은 reset 방식)
+
+⸻
+
+이 요약본 그대로 새 채팅방에 붙여넣고, 특정 섹션 단위로 이어서 작업하면 된다.
+
