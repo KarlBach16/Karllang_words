@@ -540,26 +540,52 @@ function detectInitialUiLang() {
 
     return "en"; // 기본값
 }
-// 🔧 iOS에서 키보드 뜰 때 화면이 위로 들썩이는 것 완화용
-function setupKeyboardFocusFix() {
-    if (!DOM || !DOM.answerInput) return;
 
+// iOS 키보드 올라올 때 viewport가 움직이는 걸 상쇄해서
+// .page-wrapper를 화면 기준으로 고정하는 패치
+function setupKeyboardViewportLock() {
     const ua = navigator.userAgent || "";
     const isIOS = /iPhone|iPad|iPod/i.test(ua);
+    if (!isIOS) return;
 
-    if (!isIOS) {
-        return; // iOS만 적용
+    // VisualViewport 지원 안 하면 그냥 패스
+    if (!window.visualViewport) return;
+
+    const pageWrapper = document.querySelector(".page-wrapper");
+    if (!pageWrapper) return;
+
+    let lastOffset = 0;
+
+    function applyOffset() {
+        const vv = window.visualViewport;
+        if (!vv) return;
+
+        const offsetY = vv.offsetTop || 0;
+
+        // 키보드가 떠 있는 상태로 추정하는 기준:
+        // visualViewport 높이가 window 전체보다 작으면 키보드/바 등으로 잘린 상태
+        const keyboardLikelyOpen = vv.height < window.innerHeight;
+
+        // 키보드가 열렸을 때만 offset 적용, 아니면 0으로 복귀
+        const targetOffset = keyboardLikelyOpen ? offsetY : 0;
+
+        if (targetOffset === lastOffset) return;
+
+        if (targetOffset === 0) {
+            // 원래 상태로
+            pageWrapper.style.transform = "";
+        } else {
+            // 🔹 iOS가 viewport를 위로 올리면 offsetTop이 > 0이므로,
+            // 그만큼 다시 아래로 내려서 화면 기준 고정
+            pageWrapper.style.transform = `translateY(${targetOffset}px)`;
+        }
+
+        lastOffset = targetOffset;
     }
 
-    DOM.answerInput.addEventListener("focus", () => {
-        // 키보드가 화면 줄이면서 페이지를 위로 스크롤시키는데,
-        // 그 직후에 다시 (0,0)으로 되돌린다.
-        setTimeout(() => {
-            window.scrollTo(0, 0);
-            document.body.scrollTop = 0;
-            document.documentElement.scrollTop = 0;
-        }, 0);
-    });
+    // 키보드/주소창 등으로 viewport가 변할 때마다 보정
+    window.visualViewport.addEventListener("resize", applyOffset);
+    window.visualViewport.addEventListener("scroll", applyOffset);
 }
 
 function loadSettings() {
@@ -5022,8 +5048,9 @@ function init() {
     // 1. 기존 앱 공통 초기화 -----------------------------
     cacheDOM();
     loadSettings();
-    // 🔧 iOS 키보드 포커스 시 화면 점프 완화
-    setupKeyboardFocusFix();
+    // 🔧 iOS에서 키보드 때문에 viewport가 출렁이는 것 보정
+    setupKeyboardViewportLock();
+
 
     if (DOM.startUiLang) {
         populateUiLangSelect(DOM.startUiLang);
