@@ -1,6 +1,9 @@
 /* KarlLang v10 - Crisp Minimal Design System (2025.12.17) */
 /* 고대비(High-Contrast), 명료함(Clarity), 테두리 중심 디자인 */
 /* 터치할 때 검은/회색 반짝이 방지 */
+html, body {
+  touch-action: manipulation; /* 더블탭/핀치 제스처 최소화 */
+}
 
 .page-wrapper {
     width: 100%;
