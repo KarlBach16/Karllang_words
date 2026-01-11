@@ -35,11 +35,12 @@ type_answer: "정답 입력",
     training_count_label: "훈련 단어 수",
     training_count_unit: "개",
     training_start_button: "훈련 세션 시작",
-            training_summary_hint: "최근 30일 기준으로 선택한 단어들을 집중 훈련합니다.",
+    training_summary_hint: "최근 30일 기준으로 선택한 단어들을 집중 훈련합니다.",
     training_done_simple: "훈련 세션이 종료되었습니다.",
     training_done: "훈련이 완료되었습니다. 수고했습니다!",
     training_select_target_warning: "훈련할 대상을 하나 이상 선택해 주세요.",
-
+    training_no_match: "선택한 조건에 해당하는 단어가 없습니다.",
+  
     /* 사용자 뷰 */
     user_title: "사용자",
     user_cefr_title: "CEFR 단어 진척도",
@@ -170,11 +171,12 @@ menu_settings: "Settings",
     training_count_label: "Number of words",
     training_count_unit: " words",
     training_start_button: "Start training session",
-            training_summary_hint: "Based on the last 30 days, you train only the selected words.",
+    training_summary_hint: "Based on the last 30 days, you train only the selected words.",
     training_done_simple: "Training session finished.",
     training_done: "Training complete. Nice work!",
     training_select_target_warning: "Please select at least one training target.",
-    
+    training_no_match: "No words match the selected conditions.",
+
     /* 사용자 뷰 */
     user_title: "User",
     user_cefr_title: "CEFR vocabulary progress",
@@ -306,10 +308,11 @@ de: {
     training_count_label: "Wörteranzahl",
     training_count_unit: " Wörter",
     training_start_button: "Training starten",
-            training_summary_hint: "Auf Basis der letzten 30 Tage trainierst du nur die ausgewählten Wörter.",
+    training_summary_hint: "Auf Basis der letzten 30 Tage trainierst du nur die ausgewählten Wörter.",
     training_done_simple: "Die Trainingseinheit ist beendet.",
     training_done: "Training abgeschlossen. Gut gemacht!",
     training_select_target_warning: "Bitte wähle mindestens ein Trainingsziel aus.",
+    training_no_match: "Keine Wörter entsprechen den Kriterien.",
 
     /* 사용자 뷰 */
     user_title: "Benutzer",
@@ -443,10 +446,11 @@ es: {
     training_count_label: "Número de palabras",
     training_count_unit: " palabras",
     training_start_button: "Iniciar sesión de entrenamiento",
-            training_summary_hint: "Basado en los últimos 30 días, entrenas solo las palabras seleccionadas.",
+    training_summary_hint: "Basado en los últimos 30 días, entrenas solo las palabras seleccionadas.",
     training_done_simple: "La sesión de entrenamiento ha terminado.",
     training_done: "Entrenamiento completado. ¡Buen trabajo!",
     training_select_target_warning: "Por favor, selecciona al menos un objetivo de entrenamiento.",
+    training_no_match: "No hay palabras que coincidan con las condiciones.",
 
     /* 사용자 뷰 */
     user_title: "Usuario",
@@ -581,10 +585,11 @@ fr: {
     training_count_label: "Nombre de mots",
     training_count_unit: " mots",
     training_start_button: "Lancer la session d’entraînement",
-            training_summary_hint: "Sur la base des 30 derniers jours, tu t’entraînes uniquement avec les mots sélectionnés.",
+    training_summary_hint: "Sur la base des 30 derniers jours, tu t’entraînes uniquement avec les mots sélectionnés.",
     training_done_simple: "La session d’entraînement est terminée.",
     training_done: "Entraînement terminé. Bon travail !",
     training_select_target_warning: "Veuillez sélectionner au moins une cible d'entraînement.",
+    training_no_match: "Aucun mot ne correspond aux conditions.",
 
     /* 사용자 뷰 */
     user_title: "Utilisateur",
@@ -715,10 +720,11 @@ it: {
     training_count_label: "Numero di parole",
     training_count_unit: " parole",
     training_start_button: "Avvia sessione di allenamento",
-            training_summary_hint: "Sulla base degli ultimi 30 giorni, ti alleni solo con le parole selezionate.",
+    training_summary_hint: "Sulla base degli ultimi 30 giorni, ti alleni solo con le parole selezionate.",
     training_done_simple: "La sessione di allenamento è terminata.",
     training_done: "Allenamento completato. Ottimo lavoro!",
     training_select_target_warning: "Seleziona almeno un obiettivo di allenamento.",
+    training_no_match: "Nessuna parola corrisponde alle condizioni.",
 
     /* 사용자 뷰 */
     user_title: "Utente",
@@ -849,10 +855,11 @@ pt: {
     training_count_label: "Quantidade de palavras",
     training_count_unit: " palavras",
     training_start_button: "Iniciar sessão de treino",
-            training_summary_hint: "Com base nos últimos 30 dias, você treina apenas as palavras selecionadas.",
+    training_summary_hint: "Com base nos últimos 30 dias, você treina apenas as palavras selecionadas.",
     training_done_simple: "A sessão de treino foi concluída.",
     training_done: "Treino concluído. Bom trabalho!",
     training_select_target_warning: "Por favor, selecione pelo menos um alvo de treinamento.",
+    training_no_match: "Nenhuma palavra corresponde às condições.",
 
     /* 사용자 뷰 */
     user_title: "Usuário",
@@ -983,10 +990,11 @@ ja: {
     training_count_label: "単語数",
     training_count_unit: "語",
     training_start_button: "トレーニング開始",
-            training_summary_hint: "直近30日分のデータをもとに、選択した単語だけを集中的にトレーニングします。",
+    training_summary_hint: "直近30日分のデータをもとに、選択した単語だけを集中的にトレーニングします。",
     training_done_simple: "トレーニングセッションが終了しました。",
     training_done: "トレーニングが完了しました。お疲れさまでした。",
     training_select_target_warning: "トレーニング対象を1つ以上選択してください。",
+    training_no_match: "選択した条件に該当する単語がありません。",
 
     /* 사용자 뷰 */
     user_title: "ユーザー",
@@ -1117,10 +1125,11 @@ zh: {
     training_count_label: "训练单词数量",
     training_count_unit: "个",
     training_start_button: "开始训练",
-            training_summary_hint: "基于最近30天的数据，只针对你选择的单词进行训练。",
+    training_summary_hint: "基于最近30天的数据，只针对你选择的单词进行训练。",
     training_done_simple: "训练已结束。",
     training_done: "训练完成。辛苦了。",
     training_select_target_warning: "请至少选择一个训练目标。",
+    training_no_match: "没有符合选定条件的单词。",
 
     /* 사용자 뷰 */
     user_title: "用户",
@@ -1251,11 +1260,12 @@ ru: {
     training_count_label: "Количество слов",
     training_count_unit: " слов",
     training_start_button: "Начать тренировку",
-            training_summary_hint: "На основе данных за последние 30 дней тренируются только выбранные слова.",
+    training_summary_hint: "На основе данных за последние 30 дней тренируются только выбранные слова.",
     training_done_simple: "Тренировочная сессия завершена.",
     training_done: "Тренировка завершена. Отличная работа!",
     training_select_target_warning: "Пожалуйста, выберите хотя бы одну цель тренировки.",
-
+    training_no_match: "Нет слов, соответствующих условиям.",
+    
     /* 사용자 뷰 */
     user_title: "Пользователь",
     user_cefr_title: "Прогресс по словарю CEFR",

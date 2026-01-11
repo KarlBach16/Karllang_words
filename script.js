@@ -3769,19 +3769,20 @@ function handleTrainingStart() {
         DOM.trainingSourceBookmark && DOM.trainingSourceBookmark.classList.contains("is-on");
 
     // 🔴 체크박스 전부 해제 상태
-    if (!useMistakes && !useHard && !useBookmark) {
-        const msg =
-            pack.training_no_source ||
-            "훈련할 대상을 하나 이상 선택해 주세요.";
+if (!useMistakes && !useHard && !useBookmark) {
+    const msg = trKey(
+        "training_select_target_warning",
+        "훈련할 대상을 하나 이상 선택해 주세요."
+    );
 
-        if (DOM.trainingSummary) {
-            DOM.trainingSummary.textContent = msg;
-            DOM.trainingSummary.style.color = "#e11d48";
-        } else {
-            alert(msg);
-        }
-        return;
+    if (DOM.trainingSummary) {
+        DOM.trainingSummary.textContent = msg;
+        DOM.trainingSummary.style.color = "#e11d48"; // 경고색 유지
+    } else {
+        alert(msg);
     }
+    return;
+}
 
     // 기본 상태로 리셋
     if (DOM.trainingSummary) {
@@ -3881,8 +3882,8 @@ function handleTrainingStart() {
     // 🔴 필터 후 아무것도 없으면 안내 메시지
     if (items.length === 0) {
         const msg =
-            pack.training_no_words ||
-            "선택한 조건(최근 30일, 레벨 등)에 해당하는 단어가 아직 없습니다.";
+            pack.training_no_match ||
+            "No words match the selected conditions.";
 
         if (DOM.trainingSummary) {
             DOM.trainingSummary.textContent = msg;
