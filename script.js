@@ -540,6 +540,27 @@ function detectInitialUiLang() {
 
     return "en"; // 기본값
 }
+// 🔧 iOS에서 키보드 뜰 때 화면이 위로 들썩이는 것 완화용
+function setupKeyboardFocusFix() {
+    if (!DOM || !DOM.answerInput) return;
+
+    const ua = navigator.userAgent || "";
+    const isIOS = /iPhone|iPad|iPod/i.test(ua);
+
+    if (!isIOS) {
+        return; // iOS만 적용
+    }
+
+    DOM.answerInput.addEventListener("focus", () => {
+        // 키보드가 화면 줄이면서 페이지를 위로 스크롤시키는데,
+        // 그 직후에 다시 (0,0)으로 되돌린다.
+        setTimeout(() => {
+            window.scrollTo(0, 0);
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }, 0);
+    });
+}
 
 function loadSettings() {
     const raw = safeGet(STORAGE_KEYS.SETTINGS);
@@ -5001,6 +5022,8 @@ function init() {
     // 1. 기존 앱 공통 초기화 -----------------------------
     cacheDOM();
     loadSettings();
+    // 🔧 iOS 키보드 포커스 시 화면 점프 완화
+    setupKeyboardFocusFix();
 
     if (DOM.startUiLang) {
         populateUiLangSelect(DOM.startUiLang);
