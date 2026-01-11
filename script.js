@@ -4575,6 +4575,12 @@ function closeMenu() {
 function showView(view) {
     APP_STATE.currentView = view;
 
+    // 1) 메뉴 열려 있었는지 체크
+    const wasMenuOpen = DOM.sideMenu && DOM.sideMenu.classList.contains("open");
+    
+    // 2) 메뉴/오버레이 먼저 닫기
+    closeMenu();
+
     const views = {
         study:    DOM.studyView,
         user:     DOM.userView,
@@ -4585,36 +4591,39 @@ function showView(view) {
         settings: DOM.settingsView
     };
 
-    if (!views[view]) {
-        console.warn("showView: unknown view", view);
-        return;
-    }
+    let targetEl = null;
 
-    // 1) 새 뷰만 먼저 보이게 (기존 뷰는 그대로 둔다)
+    // 3) 전부 숨기고, 해당 view만 보이게
     Object.keys(views).forEach((key) => {
         const el = views[key];
         if (!el) return;
+
         if (key === view) {
             el.style.display = "block";
+            el.classList.remove("active");
+            targetEl = el;
+        } else {
+            el.classList.remove("active");
+            el.style.display = "none";
         }
     });
 
-    // 2) 다음 프레임에서 active 토글 + 나머지 숨김
-    requestAnimationFrame(() => {
-        Object.keys(views).forEach((key) => {
-            const el = views[key];
-            if (!el) return;
+    // 4) 메뉴에서 온 경우엔 transition 없이 즉시 표시
+    if (targetEl) {
+        if (wasMenuOpen) {
+            targetEl.style.transition = "none";
+            targetEl.classList.add("active");
+            requestAnimationFrame(() => {
+                targetEl.style.transition = "";
+            });
+        } else {
+            requestAnimationFrame(() => {
+                targetEl.classList.add("active");
+            });
+        }
+    }
 
-            if (key === view) {
-                el.classList.add("active");   // 새 뷰: 페이드 인
-            } else {
-                el.classList.remove("active");
-                el.style.display = "none";    // 이때 기존 뷰 숨김
-            }
-        });
-    });
-
-    // 3) 기존 후처리 로직 그대로 유지
+    // 5) 기존 후처리 로직 그대로 유지
     if (view === "study") {
         updateProgressBar();
     } else if (view === "user") {
@@ -4628,8 +4637,6 @@ function showView(view) {
     } else if (view === "training") {
         updateTrainingSummaryPreview();
     }
-
-    closeMenu();
 }
 
 /* ============================================

@@ -11,8 +11,8 @@ input, textarea, select, button {
 
 .page-wrapper {
     width: 100%;
-    max-width: 350px;   /* 🔹 프레임 가로 고정 주인공 */
-    margin: 0 auto;
+    max-width: 100%;   /* 🔹 기기 폭 전체 사용 - 프레임 제거 */
+    margin: 0;         /* 🔹 좌우 여백 제거 */
 }
 
 * {
@@ -66,41 +66,35 @@ body {
     height: 100%;
 }
 
-/* 🔧 수정된 body */
 body {
-    padding: 16px;
+    padding: 0; /* 🔹 바깥 여백 제거 - 풀스크린 */
     min-height: 100vh;
-
-    /* 🔴 flex 레이아웃 제거 */
-    /* display: flex;
-       justify-content: center;
-       align-items: center; */
-
+    display: flex;
+    justify-content: center;
+    align-items: stretch; /* 🔹 가운데 카드 말고 전체 높이 채움 */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         "Helvetica Neue", Arial, sans-serif;
-    background: var(--color-background-start);
+    background: #ffffff; /* 🔹 앱 배경 = 화면 배경 */
     color: var(--color-text-dark);
-
-    /* 🔹 세로 스크롤 허용 (키보드가 가린 부분은 손으로 올려보면 됨) */
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: hidden;
 }
 /* ===== 카드 공통 (시작 화면 + 앱) ===== */
 .app-card {
-    width: 100%;          /* 🔹 프레임(page-wrapper) 안에서 그냥 꽉 차기만 */
-    /* max-width: 650px;  <- 이 줄 삭제 */
-    margin: 0;            /* 0 auto 말고 그냥 0 */
+    width: 100%;
+    margin: 0;
 
-    min-height: 640px;    /* 이건 높이 이슈니까, 너비 문제랑은 별개 */
+    min-height: 100vh;    /* 🔹 화면 전체 높이 채우기 */
     background: #ffffff;
-    border-radius: 20px;
-    padding: 24px 20px 28px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--color-border-soft);
+    border-radius: 0;     /* 🔹 둥근 모서리 제거 - 카드 느낌 삭제 */
+    padding: 16px 16px 20px;
+    box-shadow: none;     /* 🔹 그림자 제거 */
+    border: none;         /* 🔹 외곽선 제거 */
 
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
+
 .divider {
     height: 1px;
     background: var(--color-border-soft);
@@ -350,16 +344,17 @@ body {
 }
 
 /* ===== 뷰 공통 ===== */
+/* 화면 깜빡임 방지를 위해 뷰 전환 트랜지션 제거 */
 .view {
     opacity: 0;
     visibility: hidden;
-    transition: opacity 0.2s ease, visibility 0s 0.2s;
+    /* transition 제거 */
 }
 
 .view.active {
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.2s ease, visibility 0s 0s;
+    /* transition 제거 */
 }
 
 /* ===== 학습 카드 (문제 표시 영역) ===== */
@@ -1529,3 +1524,10 @@ body.state-app #app {
 .dim-hidden { opacity: 0; pointer-events: none; visibility: hidden; }
 .dimmed { opacity: 0.3; }
 
+/* ===== 큰 화면(패드/PC)에서 앱 폭 제한 ===== */
+@media (min-width: 480px) {
+    .page-wrapper {
+        max-width: 480px;  /* 🔹 최대 폭 480px */
+        margin: 0 auto;    /* 🔹 중앙 정렬 */
+    }
+}
