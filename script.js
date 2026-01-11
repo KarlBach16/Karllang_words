@@ -2172,14 +2172,9 @@ function showCramQuestion() {
 
     const words = TRAINING_CRAM_WORDS || [];
     const word = words[TRAINING_CRAM_INDEX];
-    if (TRAINING_CRAM_REPEAT_INDEX === 0) {
-        incrementTotalViews(word.id);
-    }
 
     // 🔚 더 이상 훈련할 단어가 없으면 세션 종료
     if (!word) {
-        const pack = t() || {};
-
         TRAINING_MODE_ACTIVE = false;
         TRAINING_MODE_KIND = "none";
         TRAINING_CRAM_WORDS = [];
@@ -2192,10 +2187,17 @@ function showCramQuestion() {
 
         if (DOM.trainingSummary) {
             DOM.trainingSummary.style.color = "#16a34a";
-            DOM.trainingSummary.textContent =
-                trKey("training.done_simple", "훈련 세션이 종료되었습니다.");
+            DOM.trainingSummary.textContent = trKey(
+                "training_done_simple",            // ✅ 키 수정 (training.done_simple → training_done_simple)
+                "훈련 세션이 종료되었습니다."
+            );
         }
         return;
+    }
+
+    // 🔹 실제 단어가 있을 때만 조회수 증가
+    if (TRAINING_CRAM_REPEAT_INDEX === 0) {
+        incrementTotalViews(word.id);
     }
 
     setPhase("QUESTION");
@@ -2209,7 +2211,7 @@ function showCramQuestion() {
         DOM.endStatsArea.style.display = "none";
     }
 
-        const targetText = buildGermanForm(word); // 정답(관사 포함 독일어)
+    const targetText = buildGermanForm(word); // 정답(관사 포함 독일어)
     const meaning = getMeaning(word);         // UI 언어 뜻
 
     // 질문: 뜻을 보여주고, 독일어(또는 학습 언어)를 쓰게
@@ -2228,6 +2230,7 @@ function showCramQuestion() {
 
     // 🔹 고스트(전체 / 첫 글자만 / 없음) 설정
     applyCramGhost(word);
+
     // 입력창 세팅
     if (DOM.inputArea) {
         DOM.inputArea.style.display = "block";
@@ -2254,9 +2257,8 @@ function showCramQuestion() {
 
     // 진행도: 단어 기준으로 표시
     APP_STATE.totalTarget = words.length;
-APP_STATE.completed = TRAINING_CRAM_INDEX;
-
-updateProgressBar();
+    APP_STATE.completed = TRAINING_CRAM_INDEX;
+    updateProgressBar();
 }
 
 // 🔹 깜지 모드: 현재 입력을 채점하고, 다음 반복/다음 단어로 진행
