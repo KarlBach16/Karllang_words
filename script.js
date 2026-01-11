@@ -4585,31 +4585,36 @@ function showView(view) {
         settings: DOM.settingsView
     };
 
-    let targetEl = null;
+    if (!views[view]) {
+        console.warn("showView: unknown view", view);
+        return;
+    }
 
-    // 1) 일단 전부 숨기고 active 제거
+    // 1) 새 뷰만 먼저 보이게 (기존 뷰는 그대로 둔다)
     Object.keys(views).forEach((key) => {
         const el = views[key];
         if (!el) return;
-
         if (key === view) {
-            el.style.display = "block";   // 먼저 보이게만
-            el.classList.remove("active"); // 초기화
-            targetEl = el;                 // 나중에 active 줄 대상
-        } else {
-            el.classList.remove("active");
-            el.style.display = "none";
+            el.style.display = "block";
         }
     });
 
-    // 2) 다음 프레임에서 active 추가 → transition 제대로 발동
-    if (targetEl) {
-        requestAnimationFrame(() => {
-            targetEl.classList.add("active");
-        });
-    }
+    // 2) 다음 프레임에서 active 토글 + 나머지 숨김
+    requestAnimationFrame(() => {
+        Object.keys(views).forEach((key) => {
+            const el = views[key];
+            if (!el) return;
 
-    // 3) 기존 로직 유지
+            if (key === view) {
+                el.classList.add("active");   // 새 뷰: 페이드 인
+            } else {
+                el.classList.remove("active");
+                el.style.display = "none";    // 이때 기존 뷰 숨김
+            }
+        });
+    });
+
+    // 3) 기존 후처리 로직 그대로 유지
     if (view === "study") {
         updateProgressBar();
     } else if (view === "user") {
