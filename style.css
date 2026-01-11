@@ -66,22 +66,25 @@ body {
     height: 100%;
 }
 
+/* 🔧 수정된 body */
 body {
     padding: 16px;
     min-height: 100vh;
-    display: flex;
-    justify-content: center;      /* 가로는 가운데 유지 */
-    align-items: flex-start;      /* 🔹 세로는 위에 붙이기 */
+
+    /* 🔴 flex 레이아웃 제거 */
+    /* display: flex;
+       justify-content: center;
+       align-items: center; */
 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         "Helvetica Neue", Arial, sans-serif;
     background: var(--color-background-start);
     color: var(--color-text-dark);
 
-    overflow-x: hidden;           /* 가로만 막고 */
-    overflow-y: auto;             /* 🔹 세로는 스크롤 허용 */
+    /* 🔹 세로 스크롤 허용 (키보드가 가린 부분은 손으로 올려보면 됨) */
+    overflow-x: hidden;
+    overflow-y: auto;
 }
-
 /* ===== 카드 공통 (시작 화면 + 앱) ===== */
 .app-card {
     width: 100%;          /* 🔹 프레임(page-wrapper) 안에서 그냥 꽉 차기만 */
