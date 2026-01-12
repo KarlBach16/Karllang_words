@@ -785,19 +785,22 @@ body {
 
 .side-item {
     border: none;
-    padding: 12px 16px;
-    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.03);   /* 기본 상태도 카드처럼 보이게 */
+    padding: 14px 20px;
+    border-radius: 12px;
     display: flex;
     align-items: center;
-    gap: 8px;
-    font-size: 1.05rem;
+    gap: 6px;
+    font-size: 1.2rem;
     font-weight: 500;
     cursor: pointer;
     text-align: left;
-    line-height: 1.4;
-    background: rgba(0, 0, 0, 0.03);
+    line-height: 1.45;
     color: var(--color-text-dark);
-    transition: background 0.15s ease;
+
+    /* 터치/애니메이션 */
+    -webkit-tap-highlight-color: transparent;
+    transition: background 0.1s ease, transform 0.1s ease;
 }
 
 .side-item span {
@@ -810,13 +813,19 @@ body {
     background: rgba(0, 0, 0, 0.07);
 }
 
+/* 🔴 실제로 누를 때 피드백 */
+.side-item:active {
+    background: rgba(0, 0, 0, 0.12);
+    transform: translateY(1px);   /* scale 대신 살짝 눌리는 느낌 */
+}
+
 .side-settings {
     margin-top: 4px;
     border-top: 1px solid var(--color-border-soft);
     padding-top: 10px;
 }
 
-/* 선택된 메뉴 강조 */
+/* 선택된 메뉴 강조 (현재 뷰) */
 .side-menu .side-item.active {
     background: rgba(41, 98, 255, 0.12);
     border-left: 4px solid var(--color-secondary);
