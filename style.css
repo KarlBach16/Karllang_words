@@ -238,6 +238,7 @@ body {
     padding: 12px 0;
     border-bottom: 1px solid var(--color-border-soft);
     gap: 8px;
+    min-height: 56px; 
 }
 
 #trainingView .control-group:last-of-type {
@@ -260,9 +261,9 @@ body {
     min-width: 0;
 }
 
-/* 만약 첫 번째 control-group이 따로 쓰이면 그 부분에만 별도 규칙 */
-#trainingView .control-group:first-of-type label {
-    margin-bottom: 8px;
+/* 훈련소 첫 번째 control-group(훈련 모드) 위쪽 여백 줄이기 */
+#trainingView .training-target-section + .control-group {
+    padding-top: 0px;
 }
 
 /* 검색 입력 래퍼 */
@@ -974,7 +975,9 @@ body {
 .training-target-section {
     display: flex;
     flex-direction: column;
-    padding: 16px 0;
+
+    /* 🔧 위는 16 그대로, 아래만 줄이기 */
+    padding: 16px 0 8px;
     border-bottom: 1px solid var(--color-border-soft);
 }
 
