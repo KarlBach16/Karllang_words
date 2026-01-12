@@ -785,7 +785,7 @@ body {
 
 .side-item {
     border: none;
-    background: rgba(0, 0, 0, 0.03);   /* 기본 상태도 카드처럼 보이게 */
+    background: rgba(0, 0, 0, 0.03);
     padding: 14px 20px;
     border-radius: 12px;
     display: flex;
@@ -798,9 +798,9 @@ body {
     line-height: 1.45;
     color: var(--color-text-dark);
 
-    /* 터치/애니메이션 */
     -webkit-tap-highlight-color: transparent;
-    transition: background 0.1s ease, transform 0.1s ease;
+    /* 🔹 기본 상태는 살짝 부드럽게 */
+    transition: background 0.08s ease, transform 0.08s ease;
 }
 
 .side-item span {
@@ -813,10 +813,11 @@ body {
     background: rgba(0, 0, 0, 0.07);
 }
 
-/* 🔴 실제로 누를 때 피드백 */
+/* 🔴 실제 터치 순간: transition 끄고, 색/움직임 확실하게 */
 .side-item:active {
-    background: rgba(0, 0, 0, 0.12);
-    transform: translateY(1px);   /* scale 대신 살짝 눌리는 느낌 */
+    transition: none; /* 지연 없이 바로 먹이기 */
+    background: rgba(0, 0, 0, 0.18);
+    transform: translateY(1px);
 }
 
 .side-settings {
