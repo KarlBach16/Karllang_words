@@ -126,6 +126,12 @@ const APP_STATE = {
 
 let SETTINGS = { ...DEFAULT_SETTINGS };
 let CURRENT_LANG = "ko";
+// ✅ 일반 학습 세션에서 뽑은 단어들 공유용
+let LAST_STUDY_WORD_IDS = [];
+let LAST_STUDY_META = {
+    day: null,
+    filterKey: null
+};
 // 🔹 훈련소 모드 활성화 여부 (정규 학습 vs 훈련소 구분용)
 let TRAINING_MODE_ACTIVE = false;
 let TRAINING_MODE_KIND = "none";   // "typing" | "copy" | "mix"
@@ -652,7 +658,7 @@ const I18N_KEYS = {
     "training.done_simple": "training_done_simple",
     "training.done": "training_done",
     "training.cram_retry_hint": "cram_retry_hint",
-    
+
     /* ----- 사용자 뷰 ----- */
     "user.title": "user_title",
     "user.settings_title": "user_settings_title",
@@ -1682,7 +1688,48 @@ function buildQueue() {
         .toString()
         .toLowerCase();
 
-    // 3) 필터링
+    // ✅ 오늘 + 같은 필터이면, 지난 세트 재사용 시도
+    const studyLang = SETTINGS.studyLang || "de";
+    const filterKey = `${studyLang}|${cefrFilter}|${catFilter}`;
+
+    if (
+        // 훈련소(cram/훈련 모드) 아닐 때만 재사용
+        !TRAINING_MODE_ACTIVE &&
+        LAST_STUDY_WORD_IDS &&
+        LAST_STUDY_WORD_IDS.length > 0 &&
+        LAST_STUDY_META &&
+        LAST_STUDY_META.day === today &&
+        LAST_STUDY_META.filterKey === filterKey
+    ) {
+        // 🔁 지난 세트 기반으로 큐 재구성
+        const byId = {};
+        allWords.forEach((w) => {
+            if (!w || typeof w.id === "undefined") return;
+            byId[String(w.id)] = w;
+        });
+
+        const queue = [];
+        LAST_STUDY_WORD_IDS.forEach((id) => {
+            const w = byId[id];
+            if (!w) return;
+            const st = getWordState(w);
+            queue.push({
+                word: w,
+                state: st,
+                isNew: !!st.isNew
+            });
+        });
+
+        APP_STATE.queue = queue;
+        APP_STATE.totalTarget = queue.length;
+        APP_STATE.completed = 0;
+        APP_STATE.newCount = 0;
+        APP_STATE.reviewCount = 0;
+
+        return; // 🔚 여기서 끝. 아래 SRS 새 뽑기 로직은 건너뜀
+    }
+
+    // 3) 필터링 (기존 로직 그대로)
     const filtered = allWords.filter((w) => {
         // 3-1) CEFR 필터
         const wc = (w.cefr || "").toString().trim().toUpperCase();
@@ -1693,12 +1740,11 @@ function buildQueue() {
         }
 
         // 3-2) 카테고리 필터 (tags 기반)
-if (catFilter !== "all") {
-    if (!Array.isArray(w.tags) || !w.tags.includes(catFilter)) {
-        return false;
-    }
-}
-
+        if (catFilter !== "all") {
+            if (!Array.isArray(w.tags) || !w.tags.includes(catFilter)) {
+                return false;
+            }
+        }
 
         // 3-3) UI 언어 기준 의미가 없는 단어는 학습 대상에서 제외
         const meaning = getMeaning(w);
@@ -1728,15 +1774,16 @@ if (catFilter !== "all") {
         }
         return a.state.nextDue - b.state.nextDue;
     });
-// 새 단어 셔플 (A 지옥 방지)
-function shuffleArray(arr) {
-    for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
+
+    // 새 단어 셔플 (A 지옥 방지)
+    function shuffleArray(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        return arr;
     }
-    return arr;
-}
-shuffleArray(newWords);
+    shuffleArray(newWords);
 
     // 6) 목표 개수만큼 큐 채우기
     let target = parseInt(SETTINGS.goalTyping, 10);
@@ -1759,10 +1806,17 @@ shuffleArray(newWords);
     }
 
     APP_STATE.queue = queue;
-APP_STATE.totalTarget = queue.length;
-APP_STATE.completed = 0;
-APP_STATE.newCount = 0;
-APP_STATE.reviewCount = 0;
+    APP_STATE.totalTarget = queue.length;
+    APP_STATE.completed = 0;
+    APP_STATE.newCount = 0;
+    APP_STATE.reviewCount = 0;
+
+    // ✅ 오늘 세션 세트 저장 (모드 공유용)
+    LAST_STUDY_WORD_IDS = queue.map((item) => String(item.word.id));
+    LAST_STUDY_META = {
+        day: today,
+        filterKey: filterKey
+    };
 }
 
 /* ============================================
@@ -4824,10 +4878,14 @@ function attachEvents() {
     }
 
     if (DOM.restartBtn) {
-        DOM.restartBtn.addEventListener("click", () => {
-            showReadyState();
-        });
-    }
+    DOM.restartBtn.addEventListener("click", () => {
+        // ✅ 완전 새 세션: 오늘 세트 초기화
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
+
+        showReadyState();
+    });
+}
 
     if (DOM.modeSelect) {
         DOM.modeSelect.addEventListener("change", () => {
