@@ -138,7 +138,8 @@ let TRAINING_CRAM_WORDS = [];       // 깜지 대상 단어 리스트
 let TRAINING_CRAM_INDEX = 0;        // 현재 몇 번째 단어인지 (단어 기준)
 let TRAINING_CRAM_REPEAT_TOTAL = 3; // 이 단어를 몇 번 쓸 건지 (1/3/5)
 let TRAINING_CRAM_REPEAT_INDEX = 0; // 현재 몇 회째인지 (0-based)
-
+// 현재 단어에서 "정말 모르겠다" 두 번째 확인 허용용 플래그
+let TRAINING_CRAM_GIVEUP_ARMED = false;
 const DOM = {};
 
 // ===== UI 언어 메타 정보 =====
@@ -648,9 +649,10 @@ const I18N_KEYS = {
     "training.count_unit": "training_count_unit",
     "training.start_button": "training_start_button",
     "training.summary_hint": "training_summary_hint",
-"training.done_simple": "training_done_simple",
+    "training.done_simple": "training_done_simple",
     "training.done": "training_done",
-
+    "training.cram_retry_hint": "cram_retry_hint",
+    
     /* ----- 사용자 뷰 ----- */
     "user.title": "user_title",
     "user.settings_title": "user_settings_title",
@@ -2171,6 +2173,8 @@ function showCramQuestion() {
     }
 
     const words = TRAINING_CRAM_WORDS || [];
+    // 🔹 새 단어 진입마다 give-up 플래그 리셋
+    TRAINING_CRAM_GIVEUP_ARMED = false;
     const word = words[TRAINING_CRAM_INDEX];
 
     // 🔚 더 이상 훈련할 단어가 없으면 세션 종료
@@ -2273,64 +2277,85 @@ function handleCramSubmit() {
         return;
     }
 
-    if (!DOM.answerInput) return;
+    const inputEl = DOM.answerInput;
+    if (!inputEl) return;
 
+    const raw = inputEl.value || "";
+    const value = raw.trim();
+    const targetText = (buildGermanForm(word) || "").trim();
+
+    // UI 언어 팩 (있어도 되고 없어도 됨)
     const pack = t() || {};
-    const raw = DOM.answerInput.value || "";
-    const user = raw.trim();
 
-    if (!user) {
-        if (DOM.feedback) {
-            DOM.feedback.textContent =
-                pack.type_answer || "정답을 입력해 주세요.";
+    // ✅ 1) 정답인 경우: 기존 로직 그대로
+    if (value && value === targetText) {
+        TRAINING_CRAM_GIVEUP_ARMED = false; // 이 단어는 정상 마무리
+
+        applyAnswerEffect(true);
+        speakGerman(targetText);  // 🔈 훈련소 TTS: 정답 처리 직후 1회
+
+        TRAINING_CRAM_REPEAT_INDEX++;
+
+        // 아직 반복 남았으면 고스트/입력만 초기화하고 같은 단어 반복
+        if (TRAINING_CRAM_REPEAT_INDEX < TRAINING_CRAM_REPEAT_TOTAL) {
+            applyCramGhost(word);
+
+            inputEl.value = "";
+            inputEl.placeholder = "";
+            inputEl.focus();
+
+            if (DOM.feedback) {
+                DOM.feedback.textContent = "";
+            }
+            return;
         }
-        DOM.answerInput.focus();
-        return;
-    }
 
-    const targetText = buildGermanForm(word).trim(); // 관사 포함 정답 전체
-
-    if (user !== targetText) {
-        if (DOM.feedback) {
-            DOM.feedback.textContent = trKey(
-                "study.copy_check_spelling",
-                "철자를 다시 확인하세요."
-            );
-        }
-        DOM.answerInput.focus();
-        DOM.answerInput.setSelectionRange(0, raw.length);
-        return;
-    }
-
-    // ✅ 정답
-    if (DOM.feedback) {
-        DOM.feedback.textContent =
-            pack.copy_ok || pack.correct || "정확합니다";
-    }
-    applyAnswerEffect(true);
-// ✅ 깜지 발음: "현재 단어(방금 맞춘 단어)"를 읽는다 (3회 반복 구조 자연스럽게 충족)
-speakGerman(targetText);
-
-    // 🔹 현재 단어에 대한 반복 횟수 + 자동 졸업 처리
-    TRAINING_CRAM_REPEAT_INDEX += 1;
-
-    // 이 단어에 대한 반복을 모두 마치면 → 자동 졸업
-    if (TRAINING_CRAM_REPEAT_INDEX >= TRAINING_CRAM_REPEAT_TOTAL) {
-        // 다음 단어로 넘어가기 전에 졸업 처리
-        const id = String(word.id);
-        const stats = getWordStatsById(id);
-
-        // ✅ 북마크는 사용자가 일부러 찍은 거니까 유지
-        const keepBookmark = stats.bookmarked === true;
-
-        markWordMastered(id, { keepBookmark });
+        // 반복 다 채웠으면 "졸업" 처리
+        const keepBookmark = true; // 기존 설계 따름 (필요하면 옵션화)
+        markWordMastered(word.id, { keepBookmark });
 
         TRAINING_CRAM_REPEAT_INDEX = 0;
-        TRAINING_CRAM_INDEX += 1;
+        TRAINING_CRAM_INDEX++;
         APP_STATE.completed = TRAINING_CRAM_INDEX;
+
+        // 다음 단어로
+        showCramQuestion();
+        return;
     }
 
-    // 다음 문제(다음 회차 or 다음 단어)로 바로 진행
+    // ❌ 여기부터는 "정답이 아닌 경우" (비어 있거나, 틀렸거나)
+
+    // 2) 아직 give-up 무장 안 된 첫 번째 실패 → 다시 쓰라고 함
+    if (!TRAINING_CRAM_GIVEUP_ARMED) {
+    TRAINING_CRAM_GIVEUP_ARMED = true;
+
+    if (DOM.feedback) {
+        DOM.feedback.textContent = trKey(
+            "training.cram_retry_hint",
+            "한 번 더 시도해 보세요."
+        );
+    }
+
+    applyAnswerEffect(false);
+
+    inputEl.focus();
+    if (value) {
+        inputEl.select();
+    }
+
+    return;
+}
+
+    // 3) 같은 단어에서 두 번째 실패 → "정말 모르겠다"로 간주하고 강제 패스
+TRAINING_CRAM_GIVEUP_ARMED = false; // 다음 단어를 위해 초기화
+
+applyAnswerEffect(false);
+
+// markWordMastered() 호출 안 함
+TRAINING_CRAM_REPEAT_INDEX = 0;
+TRAINING_CRAM_INDEX++;
+APP_STATE.completed = TRAINING_CRAM_INDEX;
+
 showCramQuestion();
 }
 

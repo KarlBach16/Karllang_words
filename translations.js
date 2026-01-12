@@ -40,7 +40,8 @@ type_answer: "정답 입력",
     training_done: "훈련이 완료되었습니다. 수고했습니다!",
     training_select_target_warning: "훈련할 대상을 하나 이상 선택해 주세요.",
     training_no_match: "선택한 조건에 해당하는 단어가 없습니다.",
-  
+    cram_retry_hint: "한 번 더 시도해 보세요.",
+
     /* 사용자 뷰 */
     user_title: "사용자",
     user_cefr_title: "CEFR 단어 진척도",
@@ -176,6 +177,7 @@ menu_settings: "Settings",
     training_done: "Training complete. Nice work!",
     training_select_target_warning: "Please select at least one training target.",
     training_no_match: "No words match the selected conditions.",
+    cram_retry_hint: "Try once more.",
 
     /* 사용자 뷰 */
     user_title: "User",
@@ -313,6 +315,7 @@ de: {
     training_done: "Training abgeschlossen. Gut gemacht!",
     training_select_target_warning: "Bitte wähle mindestens ein Trainingsziel aus.",
     training_no_match: "Keine Wörter entsprechen den Kriterien.",
+    cram_retry_hint: "Versuch es noch einmal.",
 
     /* 사용자 뷰 */
     user_title: "Benutzer",
@@ -451,6 +454,7 @@ es: {
     training_done: "Entrenamiento completado. ¡Buen trabajo!",
     training_select_target_warning: "Por favor, selecciona al menos un objetivo de entrenamiento.",
     training_no_match: "No hay palabras que coincidan con las condiciones.",
+    cram_retry_hint: "Inténtalo otra vez.",
 
     /* 사용자 뷰 */
     user_title: "Usuario",
@@ -590,6 +594,7 @@ fr: {
     training_done: "Entraînement terminé. Bon travail !",
     training_select_target_warning: "Veuillez sélectionner au moins une cible d'entraînement.",
     training_no_match: "Aucun mot ne correspond aux conditions.",
+    cram_retry_hint: "Essaie encore une fois.",
 
     /* 사용자 뷰 */
     user_title: "Utilisateur",
@@ -725,6 +730,7 @@ it: {
     training_done: "Allenamento completato. Ottimo lavoro!",
     training_select_target_warning: "Seleziona almeno un obiettivo di allenamento.",
     training_no_match: "Nessuna parola corrisponde alle condizioni.",
+    cram_retry_hint: "Prova ancora una volta.",
 
     /* 사용자 뷰 */
     user_title: "Utente",
@@ -860,6 +866,7 @@ pt: {
     training_done: "Treino concluído. Bom trabalho!",
     training_select_target_warning: "Por favor, selecione pelo menos um alvo de treinamento.",
     training_no_match: "Nenhuma palavra corresponde às condições.",
+    cram_retry_hint: "Tente mais uma vez.",
 
     /* 사용자 뷰 */
     user_title: "Usuário",
@@ -995,6 +1002,7 @@ ja: {
     training_done: "トレーニングが完了しました。お疲れさまでした。",
     training_select_target_warning: "トレーニング対象を1つ以上選択してください。",
     training_no_match: "選択した条件に該当する単語がありません。",
+    cram_retry_hint: "もう一度試してみてください。",
 
     /* 사용자 뷰 */
     user_title: "ユーザー",
@@ -1130,6 +1138,7 @@ zh: {
     training_done: "训练完成。辛苦了。",
     training_select_target_warning: "请至少选择一个训练目标。",
     training_no_match: "没有符合选定条件的单词。",
+    cram_retry_hint: "再试一次。",
 
     /* 사용자 뷰 */
     user_title: "用户",
@@ -1265,6 +1274,7 @@ ru: {
     training_done: "Тренировка завершена. Отличная работа!",
     training_select_target_warning: "Пожалуйста, выберите хотя бы одну цель тренировки.",
     training_no_match: "Нет слов, соответствующих условиям.",
+    cram_retry_hint: "Попробуйте ещё раз.",
     
     /* 사용자 뷰 */
     user_title: "Пользователь",
