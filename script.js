@@ -425,17 +425,13 @@ function cacheDOM() {
         A1: document.getElementById("cefrBarA1"),
         A2: document.getElementById("cefrBarA2"),
         B1: document.getElementById("cefrBarB1"),
-        B2: document.getElementById("cefrBarB2"),
-        C1: document.getElementById("cefrBarC1"),
-        C2: document.getElementById("cefrBarC2")
+        B2: document.getElementById("cefrBarB2")
     };
     DOM.cefrCounts = {
         A1: document.getElementById("cefrCountA1"),
         A2: document.getElementById("cefrCountA2"),
         B1: document.getElementById("cefrCountB1"),
-        B2: document.getElementById("cefrCountB2"),
-        C1: document.getElementById("cefrCountC1"),
-        C2: document.getElementById("cefrCountC2")
+        B2: document.getElementById("cefrCountB2")
     };
 
     // 단어장
@@ -1674,7 +1670,7 @@ function buildQueue() {
     }
     cefrFilter = cefrFilter.toString().toUpperCase();
 
-    const ALLOWED = ["ALL", "A1", "A2", "B1", "B2", "C1", "C2"];
+    const ALLOWED = ["ALL", "A1", "A2", "B1", "B2"];
     if (!ALLOWED.includes(cefrFilter)) {
         cefrFilter = "ALL";
         SETTINGS.newWordCefr = "all";
@@ -4234,7 +4230,7 @@ function updateCefrProgress() {
     const allWordsRaw = getAllWords();
     const allWords = allWordsRaw.filter(belongsToCurrentStudyLang);
 
-    const levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
+    const levels = ["A1", "A2", "B1", "B2"];
 
     const total = {};
     const done = {};
