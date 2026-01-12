@@ -4629,9 +4629,22 @@ function showView(view) {
     } else if (view === "user") {
         updateCefrProgress();
     } else if (view === "mistakes") {
-        renderMistakes();
-    } else if (view === "bookmark") {
-        renderBookmarks();
+    renderMistakes();
+
+    // 🔧 틀린 단어 리스트 스크롤 맨 위로
+    if (DOM.vocabView) {
+        const list = DOM.vocabView.querySelector(".wordbook-list");
+        if (list) list.scrollTop = 0;
+    }
+
+} else if (view === "bookmark") {
+    renderBookmarks();
+
+    // 🔧 북마크 리스트 스크롤 맨 위로
+    if (DOM.bookmarkView) {
+        const list = DOM.bookmarkView.querySelector(".wordbook-list");
+        if (list) list.scrollTop = 0;
+    }
     } else if (view === "search") {
         handleSearch();
     } else if (view === "training") {
