@@ -826,9 +826,9 @@ body {
     padding-top: 10px;
 }
 
-/* 선택된 메뉴 강조 (현재 뷰) */
+/* 선택된 메뉴 강조 – 배경은 빼고, 선만 강조 */
 .side-menu .side-item.active {
-    background: rgba(41, 98, 255, 0.12);
+    background: transparent;              /* 🔹 홈만 살짝 진한 패치 제거 */
     border-left: 4px solid var(--color-secondary);
     font-weight: 700;
     color: var(--color-text-dark);

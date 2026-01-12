@@ -15,7 +15,7 @@ type_answer: "정답 입력",
 
 
     /* 메뉴 */
-    menu_user: "사용자",
+    menu_user: "홈",
     menu_study: "학습",
     menu_training: "훈련소",
     menu_mistakes: "틀린 단어",
@@ -43,7 +43,7 @@ type_answer: "정답 입력",
     cram_retry_hint: "한 번 더 시도해 보세요.",
 
     /* 사용자 뷰 */
-    user_title: "사용자",
+    user_title: "홈",
     user_cefr_title: "CEFR 단어 진척도",
     user_level_title_cjk: "단어 진척도",
     user_settings_title: "학습 설정",
@@ -152,35 +152,34 @@ en: {
     type_answer: "Type your answer",
 
         /* 메뉴 */
-menu_user: "User",
+menu_user: "Home",
 menu_study: "Study",
-menu_training: "Training",
+menu_training: "Drill",
 menu_mistakes: "Difficult words",
 menu_bookmark: "Bookmarks",
 menu_search: "Word search",
 menu_settings: "Settings",
 
         /* Training */
-    training_title: "Training",
-    training_desc: "Train only your wrong, hard, and bookmarked words in one focused mode.",
-    training_target_label: "Training targets",
+    training_title: "Drill",
+    training_desc: "Drill only your wrong, hard, and bookmarked words in one focused mode.",
     training_source_mistakes: "Wrong answers",
     training_source_hard: "Hard words",
     training_source_bookmark: "Bookmarks",
-    training_mode_label: "Training mode",
+    training_mode_label: "Drill mode",
     training_mode_cram: "Cram",
     training_count_label: "Number of words",
     training_count_unit: " words",
-    training_start_button: "Start training session",
-    training_summary_hint: "Based on the last 30 days, you train only the selected words.",
-    training_done_simple: "Training session finished.",
-    training_done: "Training complete. Nice work!",
-    training_select_target_warning: "Please select at least one training target.",
+    training_start_button: "Start drill session", 
+    training_summary_hint: "Based on the last 30 days, you drill only the selected words.",
+    training_done_simple: "Drill session finished.",
+    training_done: "Drill complete. Nice work!",
+    training_select_target_warning: "Please select at least one drill source.",
     training_no_match: "No words match the selected conditions.",
     cram_retry_hint: "Try once more.",
 
     /* 사용자 뷰 */
-    user_title: "User",
+    user_title: "Home",
     user_cefr_title: "CEFR vocabulary progress",
     user_level_title_cjk: "Word Level Progress",
     user_settings_title: "Study settings",
@@ -290,7 +289,7 @@ de: {
     type_answer: "Antwort eingeben",
 
     /* 메뉴 */
-    menu_user: "Benutzer",
+    menu_user: "Startseite",
     menu_study: "Üben",
     menu_training: "Wiederholen",
     menu_mistakes: "Schwierige Wörter",
@@ -318,7 +317,7 @@ de: {
     cram_retry_hint: "Versuch es noch einmal.",
 
     /* 사용자 뷰 */
-    user_title: "Benutzer",
+    user_title: "Startseite",
     user_cefr_title: "CEFR-Wortschatzfortschritt",
     user_level_title_cjk: "Wortschatzfortschritt",
     user_settings_title: "Lerneinstellungen",
@@ -429,7 +428,7 @@ es: {
     type_answer: "Escribe tu respuesta",
 
     /* 메뉴 */
-    menu_user: "Usuario",
+    menu_user: "Inicio",
     menu_study: "Estudio",
     menu_training: "Entrenamiento",
     menu_mistakes: "Palabras difíciles",
@@ -457,7 +456,7 @@ es: {
     cram_retry_hint: "Inténtalo otra vez.",
 
     /* 사용자 뷰 */
-    user_title: "Usuario",
+    user_title: "Inicio",
     user_cefr_title: "Progreso de vocabulario CEFR",
     user_level_title_cjk: "Progreso de vocabulario",
     user_settings_title: "Ajustes de estudio",
@@ -569,7 +568,7 @@ fr: {
     type_answer: "Écris ta réponse",
 
     /* 메뉴 */
-    menu_user: "Utilisateur",
+    menu_user: "Accueil",
     menu_study: "Étude",
     menu_training: "Entraînement",
     menu_mistakes: "Mots difficiles",
@@ -597,7 +596,7 @@ fr: {
     cram_retry_hint: "Essaie encore une fois.",
 
     /* 사용자 뷰 */
-    user_title: "Utilisateur",
+    user_title: "Accueil",
     user_cefr_title: "Progression du vocabulaire CECR",
     user_level_title_cjk: "Progression du vocabulaire",
     user_settings_title: "Paramètres d’étude",
@@ -705,7 +704,7 @@ it: {
     type_answer: "Scrivi la tua risposta",
 
     /* 메뉴 */
-    menu_user: "Utente",
+    menu_user: "Home",
     menu_study: "Studio",
     menu_training: "Allenamento",
     menu_mistakes: "Parole difficili",
@@ -733,7 +732,7 @@ it: {
     cram_retry_hint: "Prova ancora una volta.",
 
     /* 사용자 뷰 */
-    user_title: "Utente",
+    user_title: "Home",
     user_cefr_title: "Progressi del vocabolario QCER",
     user_level_title_cjk: "Progressi del vocabolario",
     user_settings_title: "Impostazioni di studio",
@@ -841,7 +840,7 @@ pt: {
     type_answer: "Digite sua resposta",
 
     /* 메뉴 */
-    menu_user: "Usuário",
+    menu_user: "Início",
     menu_study: "Estudo",
     menu_training: "Treino",
     menu_mistakes: "Palavras difíceis",
@@ -869,7 +868,7 @@ pt: {
     cram_retry_hint: "Tente mais uma vez.",
 
     /* 사용자 뷰 */
-    user_title: "Usuário",
+    user_title: "Início",
     user_cefr_title: "Progresso de vocabulário CEFR",
     user_level_title_cjk: "Progresso de vocabulário",
     user_settings_title: "Configurações de estudo",
@@ -977,7 +976,7 @@ ja: {
     type_answer: "答えを入力してください",
 
     /* 메뉴 */
-    menu_user: "ユーザー",
+    menu_user: "ホーム",
     menu_study: "学習",
     menu_training: "トレーニング",
     menu_mistakes: "難しい単語",
@@ -1005,7 +1004,7 @@ ja: {
     cram_retry_hint: "もう一度試してみてください。",
 
     /* 사용자 뷰 */
-    user_title: "ユーザー",
+    user_title: "ホーム",
     user_cefr_title: "CEFR 語彙の進捗",
     user_level_title_cjk: "語彙の進捗",
     user_settings_title: "学習設定",
@@ -1113,7 +1112,7 @@ zh: {
     type_answer: "请输入答案",
 
     /* 메뉴 */
-    menu_user: "用户",
+    menu_user: "首页",
     menu_study: "学习",
     menu_training: "训练",
     menu_mistakes: "难词",
@@ -1141,7 +1140,7 @@ zh: {
     cram_retry_hint: "再试一次。",
 
     /* 사용자 뷰 */
-    user_title: "用户",
+    user_title: "首页",
     user_cefr_title: "CEFR 词汇进度",
     user_level_title_cjk: "词汇进度",
     user_settings_title: "学习设置",
@@ -1249,7 +1248,7 @@ ru: {
     type_answer: "Введите ответ",
 
     /* 메뉴 */
-    menu_user: "Пользователь",
+    menu_user: "Главная",
     menu_study: "Обучение",
     menu_training: "Тренировка",
     menu_mistakes: "Сложные слова",
@@ -1277,7 +1276,7 @@ ru: {
     cram_retry_hint: "Попробуйте ещё раз.",
     
     /* 사용자 뷰 */
-    user_title: "Пользователь",
+    user_title: "Главная",
     user_cefr_title: "Прогресс по словарю CEFR",
     user_level_title_cjk: "Прогресс словарного запаса",
     user_settings_title: "Настройки обучения",
