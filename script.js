@@ -543,6 +543,53 @@ function detectInitialUiLang() {
 
     return "en"; // 기본값
 }
+// 사이드 메뉴 버튼 터치/클릭 눌림 피드백
+function setupSideMenuPressFeedback() {
+    if (!DOM.sideMenu) return;
+
+    const items = DOM.sideMenu.querySelectorAll(".side-item");
+    if (!items || !items.length) return;
+
+    items.forEach((btn) => {
+        // 터치 디바이스
+        btn.addEventListener(
+            "touchstart",
+            () => {
+                btn.classList.add("pressing");
+            },
+            { passive: true }
+        );
+
+        btn.addEventListener(
+            "touchend",
+            () => {
+                setTimeout(() => btn.classList.remove("pressing"), 120);
+            },
+            { passive: true }
+        );
+
+        btn.addEventListener(
+            "touchcancel",
+            () => {
+                btn.classList.remove("pressing");
+            },
+            { passive: true }
+        );
+
+        // 데스크탑 / 브라우저용 (마우스)
+        btn.addEventListener("mousedown", () => {
+            btn.classList.add("pressing");
+        });
+
+        btn.addEventListener("mouseup", () => {
+            btn.classList.remove("pressing");
+        });
+
+        btn.addEventListener("mouseleave", () => {
+            btn.classList.remove("pressing");
+        });
+    });
+}
 
 function loadSettings() {
     const raw = safeGet(STORAGE_KEYS.SETTINGS);
@@ -5117,7 +5164,7 @@ function init() {
     ensureMasteryMainBtn();
     // ✅ 현재 UI 언어 기준으로 드롭다운 라벨 맞추기
     refreshUiLangSelectLabels();
-
+    setupSideMenuPressFeedback();
     attachEvents();
     applyTranslations();
     updateCefrProgress();

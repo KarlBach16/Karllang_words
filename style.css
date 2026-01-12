@@ -813,11 +813,11 @@ body {
     background: rgba(0, 0, 0, 0.07);
 }
 
-/* 🔴 실제 터치 순간: transition 끄고, 색/움직임 확실하게 */
-.side-item:active {
-    transition: none; /* 지연 없이 바로 먹이기 */
-    background: rgba(0, 0, 0, 0.18);
+/* 사이드 메뉴: 터치 순간 강제 눌림 상태 */
+.side-item.pressing {
+    background: rgba(0, 0, 0, 0.18) !important;
     transform: translateY(1px);
+    transition: none; /* 즉시 반응 */
 }
 
 .side-settings {
