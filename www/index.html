@@ -6,7 +6,8 @@
       content="width=device-width,
                initial-scale=1,
                maximum-scale=1,
-               user-scalable=no">
+               user-scalable=no,
+               viewport-fit=cover">
     <meta name="description" content="KarlLang - 독일어 단어 학습 앱" />
     <title>KarlLang - 독일어 학습</title>
     <link rel="stylesheet" href="style.css" />
@@ -412,6 +413,17 @@
 <div class="control-group">
     <label id="soundToggleLabel">사운드</label>
     <button type="button" id="soundToggle" class="toggle-switch">
+        <div class="toggle-track">
+            <div class="toggle-knob"></div>
+        </div>
+        <span class="toggle-text toggle-on">ON</span>
+        <span class="toggle-text toggle-off">OFF</span>
+    </button>
+</div>
+
+<div class="control-group">
+    <label id="hapticToggleLabel">진동</label>
+    <button type="button" id="hapticToggle" class="toggle-switch">
         <div class="toggle-track">
             <div class="toggle-knob"></div>
         </div>

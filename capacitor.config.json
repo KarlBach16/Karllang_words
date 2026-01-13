@@ -1,5 +1,12 @@
 {
   "appId": "com.karllang.app",
-  "appName": "karlLang",
-  "webDir": "www"
+  "appName": "KarlLang",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",           
+      "overlaysWebView": true    
+    }
+  }
 }

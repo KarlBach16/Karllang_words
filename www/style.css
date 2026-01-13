@@ -52,6 +52,8 @@ input, textarea {
     
     /* 난이도 색상 */
     --color-hard: #FF3D00;            /* Orange-Red */
+    --safe-top: env(safe-area-inset-top);
+    --safe-bottom: env(safe-area-inset-bottom);
 }
 
 /* ===== 기본 ===== */
@@ -225,9 +227,10 @@ body {
     min-width: 0;
 }
 
-/* 토글 버튼 정렬 */
+/* 토글 버튼 정렬 — 폭 고정해서 줄간 정렬 강제 */
 #settingsView .control-group .toggle-switch {
-    flex: 0 0 auto;
+    flex: 0 0 120px;   /* ← 토글 전체 폭을 120px로 고정 */
+    justify-content: flex-start;
 }
 
 /* 훈련소 화면: 훈련 모드/단어 수 드롭다운 가로 정렬 */
@@ -771,7 +774,7 @@ body {
     background: #ffffff;
     border-radius: 0 16px 16px 0;
     box-shadow: 4px 0 20px rgba(0, 0, 0, 0.1);
-    padding: 16px 10px 10px;
+    padding: calc(env(safe-area-inset-top, 0px) + 16px) 10px 10px;
     display: flex;
     flex-direction: column;
     gap: 4px;
@@ -981,6 +984,7 @@ body {
     color: var(--color-primary);
     font-weight: 600;
 }
+
 /* ===== 훈련소 토글 스위치 레이아웃 ===== */
 .training-target-section {
     display: flex;
@@ -1298,6 +1302,8 @@ textarea {
 #startScreen,
 #app {
     display: none;
+    padding-top: calc(var(--safe-top) + 12px);
+    padding-bottom: calc(var(--safe-bottom) + 12px);
 }
 
 /* 인트로 상태 */

@@ -96,7 +96,8 @@ const DEFAULT_SETTINGS = {
     soundEnabled: true,
     newWordCategory: "all",
     dataVersion: DATA_VERSION,
-    seenOnboarding: false
+    seenOnboarding: false,
+    hapticEnabled: true 
 };
 // ✅ v1: 학습 언어는 독일어(de)만 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
@@ -351,6 +352,68 @@ function refreshUiLangSelectLabels() {
     });
 }
 
+// ==========================================
+// [Haptics] 진동 유틸 (네이티브 + PWA 겸용)
+// ==========================================
+const NativeHaptics =
+    window.Capacitor && window.Capacitor.Plugins
+        ? window.Capacitor.Plugins.Haptics
+        : null;
+
+async function triggerHaptic(type) {
+    // v1에선 그냥 항상 켠다. 나중에 SETTINGS.hapticEnabled 붙이면 여기서 체크.
+    // if (!SETTINGS.hapticEnabled) return;
+    if (window.SETTINGS && SETTINGS.hapticEnabled === false) {
+        return;
+    }
+    // 1) 네이티브 앱 (Capacitor)인 경우
+    if (NativeHaptics) {
+        try {
+            switch (type) {
+                case "light":      // 가벼운 터치
+                    await NativeHaptics.impact({ style: "LIGHT" });
+                    break;
+                case "medium":     // 버튼 클릭, 훈련 시작 등
+                    await NativeHaptics.impact({ style: "MEDIUM" });
+                    break;
+                case "success":    // 정답
+                    await NativeHaptics.notification({ type: "SUCCESS" });
+                    break;
+                case "error":      // 오답
+                    await NativeHaptics.notification({ type: "ERROR" });
+                    break;
+                default:           // 기타는 기본 진동
+                    await NativeHaptics.vibrate();
+                    break;
+            }
+            return;
+        } catch (e) {
+            console.warn("Native haptics failed", e);
+            // 밑에서 브라우저 vibrate로 한번 더 시도
+        }
+    }
+
+    // 2) 브라우저/PWA fallback
+    if (navigator.vibrate) {
+        switch (type) {
+            case "light":
+                navigator.vibrate(10);
+                break;
+            case "medium":
+                navigator.vibrate([15, 30]);
+                break;
+            case "success":
+                navigator.vibrate([10, 30, 10]);
+                break;
+            case "error":
+                navigator.vibrate([30, 60, 30]);
+                break;
+            default:
+                navigator.vibrate(20);
+        }
+    }
+}
+
 /* ============================================
    ========== 2. DOM CACHE / ELEMENTS ==========
    ============================================ */
@@ -459,6 +522,8 @@ function cacheDOM() {
     DOM.settingsStudyLang = document.getElementById("settingsStudyLang");
     DOM.soundToggle = document.getElementById("soundToggle");
     DOM.soundToggleLabel = document.getElementById("soundToggleLabel");
+    DOM.hapticToggle = document.getElementById("hapticToggle");
+    DOM.hapticToggleLabel = document.getElementById("hapticToggleLabel");
 
     // 사용자 뷰 제목/라벨
     DOM.userViewTitle = document.querySelector("#userView .view-title");
@@ -720,6 +785,7 @@ const I18N_KEYS = {
     "settings.sound.label": "sound_label",
     "sound.on": "sound_on",
     "sound.off": "sound_off",
+    "settings.haptic.label": "haptic_label",
 
     /* ----- 시작 화면 / 학습 메인 ----- */
     "common.start": "start",
@@ -1488,11 +1554,24 @@ function applyTranslations() {
         DOM.soundToggleLabel.textContent =
             trKey("settings.sound.label", "사운드");
     }
+    // 진동(햅틱) 토글 라벨
+    if (DOM.hapticToggleLabel) {
+        DOM.hapticToggleLabel.textContent =
+            trKey("settings.haptic.label", "진동");
+    }
     if (DOM.soundToggle) {
         const onSpan = DOM.soundToggle.querySelector(".toggle-on");
         const offSpan = DOM.soundToggle.querySelector(".toggle-off");
         if (onSpan) onSpan.textContent = trKey("sound.on", "ON");
         if (offSpan) offSpan.textContent = trKey("sound.off", "OFF");
+    }
+
+    // 진동(햅틱) 토글 ON/OFF 텍스트
+    if (DOM.hapticToggle) {
+        const onSpan = DOM.hapticToggle.querySelector(".toggle-on");
+        const offSpan = DOM.hapticToggle.querySelector(".toggle-off");
+        if (onSpan) onSpan.textContent = trKey("haptic_on", "ON");
+        if (offSpan) offSpan.textContent = trKey("haptic_off", "OFF");
     }
 
     // 학습 언어 드롭다운 표시용 텍스트
@@ -2907,6 +2986,11 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
 function applyAnswerEffect(isCorrect) {
     if (!DOM.mainCard) return;
 
+    // ✅ 정답/오답 햅틱
+    // triggerHaptic는 아까 전역에 만든 그 함수
+    if (typeof triggerHaptic === "function") {
+        triggerHaptic(isCorrect ? "success" : "error");
+    }
     // 이전 상태 제거
     DOM.mainCard.classList.remove("card-correct", "card-wrong");
 
@@ -4070,6 +4154,11 @@ if (!useMistakes && !useHard && !useBookmark) {
         }
     }
 
+    // ✅ 여기에서 한 번 "자, 드가자" 햅틱
+    if (typeof triggerHaptic === "function") {
+        triggerHaptic("medium");
+    }
+
     // 🔹 6) 훈련 플래그를 먼저 세팅 (중요: 학습요약 숨김이 이 타이밍에 먹어야 함)
 TRAINING_MODE_ACTIVE = true;
 TRAINING_MODE_KIND = modeKind;
@@ -5030,17 +5119,20 @@ function attachEvents() {
     }
 
     if (DOM.soundToggle) {
-        DOM.soundToggle.addEventListener("click", () => {
-            SETTINGS.soundEnabled = !SETTINGS.soundEnabled;
-            saveSettings();
+    DOM.soundToggle.addEventListener("click", () => {
+        SETTINGS.soundEnabled = !SETTINGS.soundEnabled;
+        saveSettings();
+        hydrateSettingsToUI();
+    });
+}
 
-            if (SETTINGS.soundEnabled) {
-                DOM.soundToggle.classList.add("is-on");
-            } else {
-                DOM.soundToggle.classList.remove("is-on");
-            }
-        });
-    }
+if (DOM.hapticToggle) {
+    DOM.hapticToggle.addEventListener("click", () => {
+        SETTINGS.hapticEnabled = !SETTINGS.hapticEnabled;
+        saveSettings();
+        hydrateSettingsToUI();
+    });
+}
 
     if (DOM.settingsUiLang) {
         DOM.settingsUiLang.addEventListener("change", () => {
@@ -5157,6 +5249,13 @@ function hydrateSettingsToUI() {
             DOM.soundToggle.classList.remove("is-on");
         }
     }
+    if (DOM.hapticToggle) {
+        if (SETTINGS.hapticEnabled) {
+            DOM.hapticToggle.classList.add("is-on");
+        } else {
+            DOM.hapticToggle.classList.remove("is-on");
+        }
+    }    
 }
 
 function ensureMasteryMainBtn() {
