@@ -95,7 +95,8 @@ const DEFAULT_SETTINGS = {
     studyLang: "de",
     soundEnabled: true,
     newWordCategory: "all",
-    dataVersion: DATA_VERSION
+    dataVersion: DATA_VERSION,
+    seenOnboarding: false
 };
 // ✅ v1: 학습 언어는 독일어(de)만 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
@@ -635,6 +636,10 @@ function loadSettings() {
             SETTINGS.dataVersion = DATA_VERSION;
             saveSettings();
         }
+        if (typeof SETTINGS.seenOnboarding === "undefined") {
+            SETTINGS.seenOnboarding = false;
+        }
+
     } catch {
         SETTINGS = { ...DEFAULT_SETTINGS };
         CURRENT_LANG = SETTINGS.uiLang || "ko";
@@ -5212,6 +5217,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const startScreen   = document.getElementById("startScreen");
     const appScreen     = document.getElementById("app");
     const introStartBtn = document.getElementById("introStartBtn");
+    const startAppBtn   = document.getElementById("startAppBtn");
 
     // 공통 화면 전환 헬퍼
     function showScreen(target) {
@@ -5220,49 +5226,124 @@ document.addEventListener("DOMContentLoaded", () => {
         if (appScreen)   appScreen.style.display   = "none";
 
         if (target) {
-            // app은 flex, 나머지는 block이든 flex든 취향인데
-            // 어차피 CSS에서 덮어쓰니 그냥 flex로 통일해도 됨
-            target.style.display = "flex";
+            target.style.display = "flex"; // intro / start / app 전부 flex 통일
         }
 
         window.scrollTo(0, 0);
     }
 
-    // 2) 첫 진입은 무조건 인트로 화면
-    if (introScreen) {
-        showScreen(introScreen);
-        body.classList.add("state-intro");
-        body.classList.remove("state-start");
-    } else if (startScreen) {
-        // 인트로 섹션이 없으면 바로 시작 화면
-        showScreen(startScreen);
-        body.classList.add("state-start");
-        body.classList.remove("state-intro");
-    } else if (appScreen) {
-        // 이것도 없으면 바로 앱 화면
-        showScreen(appScreen);
-        body.classList.remove("state-intro", "state-start");
-    }
+    // ✅ 첫 실행 여부: SETTINGS.seenOnboarding 으로 분기
+    if (SETTINGS.seenOnboarding) {
+        // ----- 재방문 유저 -----
+        if (introScreen && appScreen) {
+            // 1) 짧게 인트로 보여주고
+            showScreen(introScreen);
+            body.classList.add("state-intro");
+            body.classList.remove("state-start");
 
-    // 3) 인트로를 1.2초 보여주고 자동으로 시작 화면으로 전환
-    if (introScreen && startScreen) {
-        setTimeout(() => {
-            body.classList.remove("state-intro");
-            body.classList.add("state-start");
+            // 2) 바로 앱 + 학습 화면으로 진입
+            setTimeout(() => {
+                body.classList.remove("state-intro");
+                showScreen(appScreen);
+                showView("study");   // 학습 뷰
+                if (typeof showReadyState === "function") {
+                    showReadyState();
+                }
+            }, 800); // 재방문은 0.8초 정도만
+        } else if (appScreen) {
+            // 인트로 섹션이 없다면 바로 앱으로
+            showScreen(appScreen);
+            body.classList.remove("state-intro", "state-start");
+            showView("study");
+            if (typeof showReadyState === "function") {
+                showReadyState();
+            }
+        } else if (startScreen) {
+            // 최악의 경우: app 없고 start만 있으면 start라도
             showScreen(startScreen);
-        }, 1200); // 필요하면 1000~1500 사이로 조정
+            body.classList.add("state-start");
+            body.classList.remove("state-intro");
+        }
+    } else {
+        // ----- 첫 방문 유저 -----
+        if (introScreen && startScreen) {
+            // 1) 인트로 → 2) 시작 화면(언어 선택)
+            showScreen(introScreen);
+            body.classList.add("state-intro");
+            body.classList.remove("state-start");
+
+            setTimeout(() => {
+                body.classList.remove("state-intro");
+                body.classList.add("state-start");
+                showScreen(startScreen);
+            }, 1200); // 첫 방문은 1.2초 정도
+        } else if (startScreen) {
+            // 인트로 섹션이 없으면 바로 시작 화면
+            showScreen(startScreen);
+            body.classList.add("state-start");
+            body.classList.remove("state-intro");
+        } else if (appScreen) {
+            // 이것도 없으면 그냥 앱으로
+            showScreen(appScreen);
+            body.classList.remove("state-intro", "state-start");
+            showView("study");
+            if (typeof showReadyState === "function") {
+                showReadyState();
+            }
+        }
     }
 
-    // 4) 인트로에 "시작" 버튼이 있으면, 그걸 눌러도 바로 시작 화면으로
-    if (introStartBtn && startScreen) {
+    // 🔘 인트로 화면에서 버튼 눌렀을 때
+    if (introStartBtn) {
         introStartBtn.addEventListener("click", () => {
-            body.classList.remove("state-intro");
-            body.classList.add("state-start");
-            showScreen(startScreen);
+            if (SETTINGS.seenOnboarding && appScreen) {
+                // 재방문: 인트로 스킵하고 바로 앱 + 학습
+                body.classList.remove("state-intro", "state-start");
+                showScreen(appScreen);
+                showView("study");
+                if (typeof showReadyState === "function") {
+                    showReadyState();
+                }
+            } else if (startScreen) {
+                // 첫 방문: 인트로 → 시작 화면
+                body.classList.remove("state-intro");
+                body.classList.add("state-start");
+                showScreen(startScreen);
+            }
         });
     }
 
-    // 5) 훈련소 관련 DOM 이벤트 바인딩
+    // 🔘 시작 화면의 "시작" 버튼 (언어 선택 확정 + 온보딩 완료)
+    if (startAppBtn && appScreen) {
+        startAppBtn.addEventListener("click", () => {
+            // UI 언어 / 학습 언어 저장
+            if (DOM.startUiLang) {
+                SETTINGS.uiLang = DOM.startUiLang.value;
+            }
+            if (DOM.startStudyLang) {
+                SETTINGS.studyLang = DOM.startStudyLang.value;
+            }
+
+            // 온보딩 완료 플래그
+            SETTINGS.seenOnboarding = true;
+            saveSettings();
+
+            // 선택한 UI 언어로 텍스트 다시 적용
+            if (typeof applyTranslations === "function") {
+                applyTranslations();
+            }
+
+            // 앱 화면 + 학습 뷰 진입
+            body.classList.remove("state-intro", "state-start");
+            showScreen(appScreen);
+            showView("study");
+            if (typeof showReadyState === "function") {
+                showReadyState();
+            }
+        });
+    }
+
+    // 5) 훈련소 관련 DOM 이벤트 바인딩 (기존 그대로 유지)
     if (DOM.trainingCountSelect) {
         DOM.trainingCountSelect.addEventListener("change", updateTrainingSummaryPreview);
     }
@@ -5291,4 +5372,3 @@ document.addEventListener("DOMContentLoaded", () => {
     // 6) 페이지 처음 열릴 때도 요약 한 번 업데이트
     updateTrainingSummaryPreview();
 });
-

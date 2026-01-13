@@ -12,7 +12,7 @@ start_study_label: "학습 언어",
 start: "시작",
 start_prompt: "시작 버튼을 누르세요",
 type_answer: "정답 입력",
-
+start_screen_hint: "",
 
     /* 메뉴 */
     menu_user: "홈",
@@ -150,15 +150,16 @@ en: {
     start: "Start",
     start_prompt: "Tap Start to begin.",
     type_answer: "Type your answer",
-
+    start_screen_hint: "",
+ 
         /* 메뉴 */
-menu_user: "Home",
-menu_study: "Study",
-menu_training: "Drill",
-menu_mistakes: "Difficult words",
-menu_bookmark: "Bookmarks",
-menu_search: "Search",
-menu_settings: "Settings",
+    menu_user: "Home",
+    menu_study: "Study",
+    menu_training: "Drill",
+    menu_mistakes: "Difficult words",
+    menu_bookmark: "Bookmarks",
+    menu_search: "Search",
+    menu_settings: "Settings",
 
         /* Training */
     training_title: "Drill",
@@ -288,6 +289,7 @@ de: {
     start: "Start",
     start_prompt: "Tippe auf „Start“, um zu beginnen.",
     type_answer: "Antwort eingeben",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Startseite",
@@ -427,6 +429,7 @@ es: {
     start: "Iniciar",
     start_prompt: "Toca «Iniciar» para empezar.",
     type_answer: "Escribe tu respuesta",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Inicio",
@@ -567,6 +570,7 @@ fr: {
     start: "Commencer",
     start_prompt: "Touchez « Commencer » pour démarrer.",
     type_answer: "Écris ta réponse",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Accueil",
@@ -703,6 +707,7 @@ it: {
     start: "Inizia",
     start_prompt: "Tocca «Inizia» per iniziare.",
     type_answer: "Scrivi la tua risposta",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Home",
@@ -839,6 +844,7 @@ pt: {
     start: "Iniciar",
     start_prompt: "Toque no botão Iniciar.",
     type_answer: "Digite sua resposta",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Início",
@@ -975,6 +981,7 @@ ja: {
     start: "スタート",
     start_prompt: "「スタート」をタップしてください。",
     type_answer: "答えを入力してください",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "ホーム",
@@ -1111,6 +1118,7 @@ zh: {
     start: "开始",
     start_prompt: "请点击“开始”按钮。",
     type_answer: "请输入答案",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "首页",
@@ -1247,6 +1255,7 @@ ru: {
     start: "Начать",
     start_prompt: "Нажмите кнопку «Начать».",
     type_answer: "Введите ответ",
+    start_screen_hint:"",
 
     /* 메뉴 */
     menu_user: "Главная",
