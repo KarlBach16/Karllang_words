@@ -19887,32 +19887,6 @@ const WORDS_DE_B1 = [
     "id": "hendl_nn_1"
   },
   {
-    "lemma": "heraus-",
-    "pos": "Präfix",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "de": "heraus-",
-      "ko": "밖으로 (나오는)",
-      "en": "out",
-      "es": "hacia fuera",
-      "fr": "dehors",
-      "it": "fuori",
-      "pt": "para fora",
-      "ja": "外へ",
-      "zh": "出来",
-      "ru": "наружу"
-    },
-    "examples": [
-      "Hast du schon rausgefunden, wann der Kurs beginnt?"
-    ],
-    "meta": {},
-    "id": "heraus_praef_1"
-  },
-  {
     "lemma": "herausfinden",
     "pos": "Verb",
     "cefr": "B1",
@@ -19977,7 +19951,7 @@ const WORDS_DE_B1 = [
   },
   {
     "lemma": "herein-",
-    "pos": "Präfix",
+    "pos": "Adverb",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -20060,7 +20034,7 @@ const WORDS_DE_B1 = [
   },
   {
     "lemma": "herunter-",
-    "pos": "Präfix",
+    "pos": "Adverb",
     "cefr": "B1",
     "tags": [
       "exam"
@@ -27827,7 +27801,7 @@ const WORDS_DE_B1 = [
   },
   {
     "lemma": "miss-",
-    "pos": "Präfix",
+    "pos": "Adverb",
     "cefr": "B1",
     "tags": [
       "exam"
@@ -33031,7 +33005,7 @@ const WORDS_DE_B1 = [
   },
   {
     "lemma": "rück-",
-    "pos": "Präfix",
+    "pos": "Adverb",
     "cefr": "B1",
     "tags": [
       "exam"

@@ -4640,18 +4640,31 @@ function handleSearch() {
     const allWords = getAllWords();
 
     const results = allWords.filter((w) => {
-        if (mode === "ui") {
-            // UI 언어 기준: lemma + 모든 언어 뜻에서 검색
-            const meaningValues = w.meanings ? Object.values(w.meanings) : [];
-            const targets = [w.lemma || "", ...meaningValues].join(" ").toLowerCase();
-            return targets.includes(query);
-        } else {
-            // study 모드: 표제어(lemma) 기준 검색
-            const text = (w.lemma || "").toLowerCase();
-            if (!text) return false;
-            return text.includes(query);
+    if (mode === "ui") {
+        // ✅ UI 언어 기준: lemma + 해당 UI 언어 뜻만 검색
+        const uiLang = SETTINGS.uiLang || "ko";
+
+        let meaningText = "";
+        if (w.meanings && typeof w.meanings === "object") {
+            // 우선 UI 언어
+            meaningText =
+                w.meanings[uiLang] ||
+                w.meanings.en ||     // 영어 fallback
+                w.meanings.ko ||     // 한국어 fallback
+                "";
         }
-    });
+
+        const targets = ((w.lemma || "") + " " + meaningText)
+            .toLowerCase();
+
+        return targets.includes(query);
+    } else {
+        // study 모드: 학습 언어 표제어(lemma) 기준 검색
+        const text = (w.lemma || "").toLowerCase();
+        if (!text) return false;
+        return text.includes(query);
+    }
+});
 
     if (results.length === 0) {
         container.innerHTML =

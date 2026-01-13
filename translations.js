@@ -163,6 +163,7 @@ menu_settings: "Settings",
         /* Training */
     training_title: "Drill",
     training_desc: "Drill only your wrong, hard, and bookmarked words in one focused mode.",
+    training_target_label: "Words to drill",
     training_source_mistakes: "Wrong answers",
     training_source_hard: "Hard words",
     training_source_bookmark: "Bookmarks",
