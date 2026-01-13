@@ -4687,6 +4687,16 @@ function handleSearch() {
     });
 }
 
+function clearSearchView() {
+    if (!DOM.searchInput || !DOM.searchResults) return;
+
+    DOM.searchInput.value = "";
+    DOM.searchResults.innerHTML =
+        '<p class="empty-text">' +
+        trKey("search.empty", "검색어를 입력해 주세요.") +
+        "</p>";
+}
+
 /* ============================================
    ========== 11. NAVIGATION / VIEWS ==========
    ============================================ */
@@ -4708,7 +4718,13 @@ function closeMenu() {
 }
 
 function showView(view) {
+    const prevView = APP_STATE.currentView;   // 🔹 이전 뷰 기억
     APP_STATE.currentView = view;
+
+    // 🔹 검색 뷰에서 나갈 때 검색 상태 초기화
+    if (prevView === "search" && view !== "search") {
+        clearSearchView();
+    }
 
     // 1) 메뉴 열려 있었는지 체크
     const wasMenuOpen = DOM.sideMenu && DOM.sideMenu.classList.contains("open");

@@ -148,7 +148,7 @@ en: {
     start_ui_label: "UI language",
     start_study_label: "Study language",
     start: "Start",
-    start_prompt: "Press the start button.",
+    start_prompt: "Tap Start to begin.",
     type_answer: "Type your answer",
 
         /* 메뉴 */
@@ -157,7 +157,7 @@ menu_study: "Study",
 menu_training: "Drill",
 menu_mistakes: "Difficult words",
 menu_bookmark: "Bookmarks",
-menu_search: "Word search",
+menu_search: "Search",
 menu_settings: "Settings",
 
         /* Training */
@@ -267,7 +267,7 @@ menu_settings: "Settings",
     bookmark_empty: "You haven’t bookmarked any words yet.",
 
     /* 검색 */
-    search_title: "Word search",
+    search_title: "Search",
     search_desc: "Search a word to see its meaning and CEFR level.",
     search_mode_label: "Search by",
     search_mode_de: "German",
@@ -286,7 +286,7 @@ de: {
     start_ui_label: "UI-Sprache",
     start_study_label: "Lernsprache",
     start: "Start",
-    start_prompt: "Drücke den Startknopf.",
+    start_prompt: "Tippe auf „Start“, um zu beginnen.",
     type_answer: "Antwort eingeben",
 
     /* 메뉴 */
@@ -425,7 +425,7 @@ es: {
     start_ui_label: "Idioma de la interfaz",
     start_study_label: "Idioma de estudio",
     start: "Iniciar",
-    start_prompt: "Pulsa el botón de iniciar.",
+    start_prompt: "Toca «Iniciar» para empezar.",
     type_answer: "Escribe tu respuesta",
 
     /* 메뉴 */
@@ -565,7 +565,7 @@ fr: {
     start_ui_label: "Langue de l’interface",
     start_study_label: "Langue d’étude",
     start: "Commencer",
-    start_prompt: "Appuie sur le bouton Commencer.",
+    start_prompt: "Touchez « Commencer » pour démarrer.",
     type_answer: "Écris ta réponse",
 
     /* 메뉴 */
@@ -701,7 +701,7 @@ it: {
     start_ui_label: "Lingua dell’interfaccia",
     start_study_label: "Lingua di studio",
     start: "Inizia",
-    start_prompt: "Premi il pulsante Inizia.",
+    start_prompt: "Tocca «Inizia» per iniziare.",
     type_answer: "Scrivi la tua risposta",
 
     /* 메뉴 */
@@ -973,7 +973,7 @@ ja: {
     start_ui_label: "UI 言語",
     start_study_label: "学習言語",
     start: "スタート",
-    start_prompt: "「スタート」ボタンを押してください。",
+    start_prompt: "「スタート」をタップしてください。",
     type_answer: "答えを入力してください",
 
     /* 메뉴 */
