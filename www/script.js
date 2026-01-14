@@ -2954,12 +2954,15 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
     }
 
     // 북마크 버튼
-    const btnBookmark = document.getElementById("bookmarkToggle");
-    if (btnBookmark) {
-        btnBookmark.addEventListener("click", () =>
-            toggleBookmark(String(word.id))
-        );
-    }
+const btnBookmark = document.getElementById("bookmarkToggle");
+if (btnBookmark) {
+    btnBookmark.addEventListener("click", () => {
+        if (typeof triggerHaptic === "function") {
+            triggerHaptic("light");
+        }
+        toggleBookmark(String(word.id));
+    });
+}
 
     // 디테일 버튼
     const btnDetail = document.getElementById("detailBtn");
@@ -3883,6 +3886,10 @@ function handleRating(rating) {
 
     const item = APP_STATE.currentCard;
     if (!item) return;
+    
+    if (typeof triggerHaptic === "function") {
+        triggerHaptic("light");
+    }
 
     const today = nowDay();
     const prevState = item.state || {
@@ -4542,10 +4549,14 @@ function createWordListItem(word, stats, context) {
     bookmarkBtn.className = "icon-btn bookmark-btn";
     bookmarkBtn.textContent = stats.bookmarked ? "★" : "☆";
     bookmarkBtn.addEventListener("click", () => {
-        toggleBookmark(String(word.id));
-        const newStats = getWordStatsById(String(word.id));
-        bookmarkBtn.textContent = newStats.bookmarked ? "★" : "☆";
-    });
+    if (typeof triggerHaptic === "function") {
+        triggerHaptic("light");
+    }
+
+    toggleBookmark(String(word.id));
+    const newStats = getWordStatsById(String(word.id));
+    bookmarkBtn.textContent = newStats.bookmarked ? "★" : "☆";
+});
 
     const infoBtn = document.createElement("button");
     infoBtn.type = "button";
@@ -5108,7 +5119,13 @@ function attachEvents() {
     DOM.soundToggle.addEventListener("click", () => {
         SETTINGS.soundEnabled = !SETTINGS.soundEnabled;
         saveSettings();
-        hydrateSettingsToUI();
+
+        // 🔹 사운드 토글 변경 시 가벼운 햅틱
+        if (typeof triggerHaptic === "function") {
+            triggerHaptic("light");
+        }
+
+        DOM.soundToggle.classList.toggle("is-on", SETTINGS.soundEnabled);
     });
 }
 
@@ -5116,7 +5133,14 @@ if (DOM.hapticToggle) {
     DOM.hapticToggle.addEventListener("click", () => {
         SETTINGS.hapticEnabled = !SETTINGS.hapticEnabled;
         saveSettings();
-        hydrateSettingsToUI();
+
+        // 🔹 햅틱 설정 바꿀 때도 가벼운 햅틱
+        //    (SETTINGS.hapticEnabled === false면 triggerHaptic 안에서 바로 return)
+        if (typeof triggerHaptic === "function") {
+            triggerHaptic("light");
+        }
+
+        DOM.hapticToggle.classList.toggle("is-on", SETTINGS.hapticEnabled);
     });
 }
 
