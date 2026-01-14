@@ -71,12 +71,8 @@ start_screen_hint: "",
     settings_ui_lang_label: "UI 언어",
     settings_study_lang_label: "학습 언어",
     sound_label: "사운드",
-    sound_on: "켜짐",
-    sound_off: "꺼짐",
     haptic_label: "진동",
-    haptic_on: "켜짐",
-    haptic_off: "꺼짐",
-
+    
     /* 모드 라벨 */
     typing_mode: "타이핑",
     card_mode: "카드",
@@ -212,12 +208,8 @@ en: {
     settings_ui_lang_label: "UI language",
     settings_study_lang_label: "Study language",
     sound_label: "Sound",
-    sound_on: "ON",
-    sound_off: "OFF",
     haptic_label: "Vibration",
-    haptic_on: "ON",
-    haptic_off: "OFF",
-
+    
     /* 모드 */
     typing_mode: "Typing",
     card_mode: "Card",
@@ -354,12 +346,8 @@ de: {
     settings_ui_lang_label: "UI-Sprache",
     settings_study_lang_label: "Lernsprache",
     sound_label: "Ton",
-    sound_on: "AN",
-    sound_off: "AUS",
     haptic_label: "Vibration",
-    haptic_on: "AN",
-    haptic_off: "AUS",
-
+    
     /* 모드 */
     typing_mode: "Tippen",
     card_mode: "Karten",
@@ -497,12 +485,8 @@ es: {
     settings_ui_lang_label: "Idioma de la interfaz",
     settings_study_lang_label: "Idioma de estudio",
     sound_label: "Sonido",
-    sound_on: "Activado",
-    sound_off: "Desactivado",
     haptic_label: "Vibración",
-    haptic_on: "Activada",
-    haptic_off: "Desactivada",
-
+    
     /* 모드 */
     typing_mode: "Escribir",
     card_mode: "Tarjetas",
@@ -641,11 +625,7 @@ fr: {
     settings_ui_lang_label: "Langue de l’interface",
     settings_study_lang_label: "Langue d’étude",
     sound_label: "Son",
-    sound_on: "Activé",
-    sound_off: "Désactivé",
     haptic_label: "Vibrations",
-    haptic_on: "Activées",
-    haptic_off: "Désactivées",
 
     /* 모드 */
     typing_mode: "Saisie",
@@ -781,11 +761,7 @@ it: {
     settings_ui_lang_label: "Lingua dell’interfaccia",
     settings_study_lang_label: "Lingua di studio",
     sound_label: "Suono",
-    sound_on: "Attivo",
-    sound_off: "Disattivo",
     haptic_label: "Vibrazione",
-    haptic_on: "Attiva",
-    haptic_off: "Disattiva",
 
     /* 모드 */
     typing_mode: "Scrittura",
@@ -921,11 +897,7 @@ pt: {
     settings_ui_lang_label: "Idioma da interface",
     settings_study_lang_label: "Idioma de estudo",
     sound_label: "Som",
-    sound_on: "Ativado",
-    sound_off: "Desativado",
     haptic_label: "Vibração",
-    haptic_on: "Ativada",
-    haptic_off: "Desativada",
 
     /* 모드 */
     typing_mode: "Digitação",
@@ -1061,11 +1033,7 @@ ja: {
     settings_ui_lang_label: "UI 言語",
     settings_study_lang_label: "学習言語",
     sound_label: "サウンド",
-    sound_on: "オン",
-    sound_off: "オフ",
     haptic_label: "バイブレーション",
-    haptic_on: "オン",
-    haptic_off: "オフ",
 
     /* 모드 */
     typing_mode: "タイピング",
@@ -1201,12 +1169,8 @@ zh: {
     settings_ui_lang_label: "界面语言",
     settings_study_lang_label: "学习语言",
     sound_label: "声音",
-    sound_on: "开启",
-    sound_off: "关闭",
     haptic_label: "振动",
-    haptic_on: "开启",
-    haptic_off: "关闭",
-
+    
     /* 모드 */
     typing_mode: "输入",
     card_mode: "卡片",
@@ -1341,11 +1305,7 @@ ru: {
     settings_ui_lang_label: "Язык интерфейса",
     settings_study_lang_label: "Язык обучения",
     sound_label: "Звук",
-    sound_on: "Вкл.",
-    sound_off: "Выкл.",
     haptic_label: "Вибрация",
-    haptic_on: "Вкл.",
-    haptic_off: "Выкл.",
     
     /* 모드 */
     typing_mode: "Ввод",

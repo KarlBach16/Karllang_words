@@ -90,7 +90,7 @@ const DEFAULT_SETTINGS = {
     mode: "typing_de",
     goalTyping: 5,
     goalCard: 5,
-    newWordCefr: "all",
+    newWordCefr: "a1",
     uiLang: "ko",
     studyLang: "de",
     soundEnabled: true,
@@ -1558,20 +1558,6 @@ function applyTranslations() {
     if (DOM.hapticToggleLabel) {
         DOM.hapticToggleLabel.textContent =
             trKey("settings.haptic.label", "진동");
-    }
-    if (DOM.soundToggle) {
-        const onSpan = DOM.soundToggle.querySelector(".toggle-on");
-        const offSpan = DOM.soundToggle.querySelector(".toggle-off");
-        if (onSpan) onSpan.textContent = trKey("sound.on", "ON");
-        if (offSpan) offSpan.textContent = trKey("sound.off", "OFF");
-    }
-
-    // 진동(햅틱) 토글 ON/OFF 텍스트
-    if (DOM.hapticToggle) {
-        const onSpan = DOM.hapticToggle.querySelector(".toggle-on");
-        const offSpan = DOM.hapticToggle.querySelector(".toggle-off");
-        if (onSpan) onSpan.textContent = trKey("haptic_on", "ON");
-        if (offSpan) offSpan.textContent = trKey("haptic_off", "OFF");
     }
 
     // 학습 언어 드롭다운 표시용 텍스트

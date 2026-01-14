@@ -227,10 +227,10 @@ body {
     min-width: 0;
 }
 
-/* 토글 버튼 정렬 — 폭 고정해서 줄간 정렬 강제 */
+/* 설정 화면: 사운드/진동 토글 버튼 */
 #settingsView .control-group .toggle-switch {
-    flex: 0 0 120px;   /* ← 토글 전체 폭을 120px로 고정 */
-    justify-content: flex-start;
+    flex: 0 0 auto;   /* ✅ 120px 고정폭 제거 – 내용(트랙)만큼만 차지 */
+    /* justify-content: flex-start;  ← 이 줄은 아예 지워도 됨 (기본값이라 의미 없음) */
 }
 
 /* 훈련소 화면: 훈련 모드/단어 수 드롭다운 가로 정렬 */
@@ -945,16 +945,6 @@ body {
     transition: transform 0.18s ease;
 }
 
-.toggle-text {
-    font-size: 13px;
-    color: #9ca3af;
-    pointer-events: none;
-}
-
-.toggle-on {
-    font-weight: 600;
-}
-
 /* ON 상태 */
 .toggle-switch.is-on .toggle-track {
     background: var(--color-primary); /* Green */
@@ -962,27 +952,6 @@ body {
 
 .toggle-switch.is-on .toggle-knob {
     transform: translateX(22px);
-}
-
-/* OFF 텍스트 */
-#soundToggle .toggle-off {
-    color: var(--color-neutral-medium);
-}
-
-#soundToggle.is-on .toggle-off {
-    color: var(--color-border-soft);
-    font-weight: 400;
-}
-
-/* ON 텍스트 */
-#soundToggle .toggle-on {
-    color: var(--color-border-soft);
-    font-weight: 400;
-}
-
-#soundToggle.is-on .toggle-on {
-    color: var(--color-primary);
-    font-weight: 600;
 }
 
 /* ===== 훈련소 토글 스위치 레이아웃 ===== */
