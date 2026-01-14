@@ -355,45 +355,49 @@ function refreshUiLangSelectLabels() {
 // ==========================================
 // [Haptics] 진동 유틸 (네이티브 + PWA 겸용)
 // ==========================================
+// 🔹 햅틱 플러그인 래퍼 (Capacitor 5/6 둘 다 커버)
 const NativeHaptics =
-    window.Capacitor && window.Capacitor.Plugins
-        ? window.Capacitor.Plugins.Haptics
+    window.Capacitor
+        ? (
+            (window.Capacitor.Plugins && window.Capacitor.Plugins.Haptics) ||
+            window.Capacitor.Haptics ||
+            null
+        )
         : null;
 
 async function triggerHaptic(type) {
-    // v1에선 그냥 항상 켠다. 나중에 SETTINGS.hapticEnabled 붙이면 여기서 체크.
-    // if (!SETTINGS.hapticEnabled) return;
+    // 설정에서 끄면 바로 무시
     if (window.SETTINGS && SETTINGS.hapticEnabled === false) {
         return;
     }
-    // 1) 네이티브 앱 (Capacitor)인 경우
+
+    // 1) 네이티브 햅틱 우선
     if (NativeHaptics) {
         try {
             switch (type) {
-                case "light":      // 가벼운 터치
+                case "light":
                     await NativeHaptics.impact({ style: "LIGHT" });
                     break;
-                case "medium":     // 버튼 클릭, 훈련 시작 등
+                case "medium":
                     await NativeHaptics.impact({ style: "MEDIUM" });
                     break;
-                case "success":    // 정답
+                case "success":
                     await NativeHaptics.notification({ type: "SUCCESS" });
                     break;
-                case "error":      // 오답
+                case "error":
                     await NativeHaptics.notification({ type: "ERROR" });
                     break;
-                default:           // 기타는 기본 진동
+                default:
                     await NativeHaptics.vibrate();
                     break;
             }
-            return;
+            return; // 네이티브에서 성공했으면 여기서 끝
         } catch (e) {
             console.warn("Native haptics failed", e);
-            // 밑에서 브라우저 vibrate로 한번 더 시도
         }
     }
 
-    // 2) 브라우저/PWA fallback
+    // 2) 웹/PWA fallback (iOS 사파리/PWA에서는 어차피 안 됨)
     if (navigator.vibrate) {
         switch (type) {
             case "light":
@@ -2678,9 +2682,11 @@ function showNextQuestion() {
                     DOM.answerInput.placeholder =
                         pack.type_answer || "정답 입력";
                 }
-                // 모바일에서 키보드 올라오면 화면 튀니까, 
-                // 여기서는 focus()를 뺄 수도 있음 (취향 차이)
-                DOM.answerInput.focus(); 
+                // 모바일에서 키보드 올라오면 화면 튀는 문제 방지:
+                // copy 모드에서는 자동 포커스 제거 (타이핑만 자동 포커스)
+                if (SETTINGS.mode === "typing_de") {
+                    DOM.answerInput.focus();
+                }
             }
 
             if (DOM.mainBtn) {
@@ -4964,11 +4970,16 @@ function attachEvents() {
         TRAINING_MIX_STEP = 0;
 
         // 🔹 깜지 상태도 같이 리셋
-            TRAINING_CRAM_WORDS = [];
-            TRAINING_CRAM_INDEX = 0;
-            TRAINING_CRAM_REPEAT_INDEX = 0;
-            TRAINING_CRAM_REPEAT_TOTAL = 3;
-        // 🔹 뷰를 학습으로 전환 + 상태를 READY로 초기화
+        TRAINING_CRAM_WORDS = [];
+        TRAINING_CRAM_INDEX = 0;
+        TRAINING_CRAM_REPEAT_INDEX = 0;
+        TRAINING_CRAM_REPEAT_TOTAL = 3;
+
+        // 🔹 일반 학습 세트도 새로 시작 (오늘 세트 버리기)
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
+
+        // 🔹 학습 화면 + READY
         showView("study");
         showReadyState();
     });
@@ -5062,58 +5073,74 @@ function attachEvents() {
     }
 
     if (DOM.goalSelectTyping) {
-        DOM.goalSelectTyping.addEventListener("change", () => {
-            const v = parseInt(DOM.goalSelectTyping.value, 10) || 5;
-            SETTINGS.goalTyping = v;
-            SETTINGS.goalCard = v;
-            saveSettings();
-            updateStudyStartSummary();
+    DOM.goalSelectTyping.addEventListener("change", () => {
+        const v = parseInt(DOM.goalSelectTyping.value, 10) || 5;
+        SETTINGS.goalTyping = v;
+        SETTINGS.goalCard = v;
+        saveSettings();
+        updateStudyStartSummary();
 
-            if (APP_STATE.phase !== "READY") {
-                showReadyState();
-            }
-        });
-    }
+        // 🔹 판 갈아엎는 행위 → 세트 리셋
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
 
-    if (DOM.goalSelectCard) {
-        DOM.goalSelectCard.addEventListener("change", () => {
-            const v = parseInt(DOM.goalSelectCard.value, 10) || 5;
-            SETTINGS.goalTyping = v;
-            SETTINGS.goalCard = v;
-            saveSettings();
-            updateStudyStartSummary();
+        if (APP_STATE.phase !== "READY") {
+            showReadyState();
+        }
+    });
+}
 
-            if (APP_STATE.phase !== "READY") {
-                showReadyState();
-            }
-        });
-    }
+if (DOM.goalSelectCard) {
+    DOM.goalSelectCard.addEventListener("change", () => {
+        const v = parseInt(DOM.goalSelectCard.value, 10) || 5;
+        SETTINGS.goalTyping = v;
+        SETTINGS.goalCard = v;
+        saveSettings();
+        updateStudyStartSummary();
+
+        // 🔹 마찬가지로 세트 리셋
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
+
+        if (APP_STATE.phase !== "READY") {
+            showReadyState();
+        }
+    });
+}
 
     if (DOM.newWordCefrSelect) {
-        DOM.newWordCefrSelect.addEventListener("change", () => {
-            SETTINGS.newWordCefr = DOM.newWordCefrSelect.value;
-            saveSettings();
-            updateCefrProgress();
-            updateStudyStartSummary();
+    DOM.newWordCefrSelect.addEventListener("change", () => {
+        SETTINGS.newWordCefr = DOM.newWordCefrSelect.value;
+        saveSettings();
+        updateCefrProgress();
+        updateStudyStartSummary();
 
-            if (APP_STATE.phase !== "READY") {
-                showReadyState();
-            }
-        });
-    }
+        // 🔹 다른 레벨 공부하겠다는 뜻 → 세트 리셋
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
 
-    if (DOM.newWordCategorySelect) {
-        DOM.newWordCategorySelect.addEventListener("change", () => {
-            SETTINGS.newWordCategory =
-                DOM.newWordCategorySelect.value || "all";
-            saveSettings();
-            updateStudyStartSummary();
+        if (APP_STATE.phase !== "READY") {
+            showReadyState();
+        }
+    });
+}
 
-            if (APP_STATE.phase !== "READY") {
-                showReadyState();
-            }
-        });
-    }
+if (DOM.newWordCategorySelect) {
+    DOM.newWordCategorySelect.addEventListener("change", () => {
+        SETTINGS.newWordCategory =
+            DOM.newWordCategorySelect.value || "all";
+        saveSettings();
+        updateStudyStartSummary();
+
+        // 🔹 다른 카테고리 → 세트 리셋
+        LAST_STUDY_WORD_IDS = [];
+        LAST_STUDY_META = { day: null, filterKey: null };
+
+        if (APP_STATE.phase !== "READY") {
+            showReadyState();
+        }
+    });
+}
 
     if (DOM.soundToggle) {
     DOM.soundToggle.addEventListener("click", () => {
