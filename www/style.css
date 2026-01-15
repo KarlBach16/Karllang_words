@@ -69,14 +69,15 @@ body {
 }
 
 body {
-    padding: 0; /* 🔹 바깥 여백 제거 - 풀스크린 */
+    padding: 0;
     min-height: 100vh;
+    min-height: 100dvh; /* iOS 키보드 대응 */
     display: flex;
     justify-content: center;
-    align-items: stretch; /* 🔹 가운데 카드 말고 전체 높이 채움 */
+    align-items: stretch;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         "Helvetica Neue", Arial, sans-serif;
-    background: #ffffff; /* 🔹 앱 배경 = 화면 배경 */
+    background: #ffffff;
     color: var(--color-text-dark);
     overflow: hidden;
 }
@@ -85,12 +86,13 @@ body {
     width: 100%;
     margin: 0;
 
-    min-height: 100vh;    /* 🔹 화면 전체 높이 채우기 */
+    min-height: 100vh;
+    min-height: 100dvh; /* iOS 키보드 대응 */
     background: #ffffff;
-    border-radius: 0;     /* 🔹 둥근 모서리 제거 - 카드 느낌 삭제 */
+    border-radius: 0;
     padding: 16px 16px 20px;
-    box-shadow: none;     /* 🔹 그림자 제거 */
-    border: none;         /* 🔹 외곽선 제거 */
+    box-shadow: none;
+    border: none;
 
     display: flex;
     flex-direction: column;
@@ -150,6 +152,12 @@ body {
     display: flex;
     align-items: center;
     gap: 12px;
+    transition: opacity 0.2s ease;
+}
+
+.header.header-hidden {
+    opacity: 0;
+    pointer-events: none;
 }
 
 .app-main {
@@ -527,8 +535,9 @@ body {
     font-weight: 700;
 }
 
-/* ===== 진행도 바 ===== */
+/* ===== 진행도 바 (v1에서는 숨김) ===== */
 .progress-bar-container {
+    display: none;  /* 상단 바 자체 사용 안 함 */
     width: 100%;
     height: 10px;
     background: #f1f1f1;
@@ -541,12 +550,12 @@ body {
     height: 100%;
     width: 0%;
     border-radius: 999px;
-    /* 단색 Green (명료함) */
     background: var(--color-primary);
     transition: width 0.15s ease;
 }
 
 .progress-text {
+    display: none;  /* 상단 텍스트도 숨김 */
     font-size: 13px;
     text-align: center;
     color: var(--color-neutral-medium);
@@ -1271,7 +1280,7 @@ textarea {
 #startScreen,
 #app {
     display: none;
-    padding-top: calc(var(--safe-top) + 12px);
+    padding-top: calc(var(--safe-top) + 24px);
     padding-bottom: calc(var(--safe-bottom) + 12px);
 }
 
@@ -1439,6 +1448,16 @@ body.state-app #app {
     /* 그림자 살짝 줘서 입체감 */
     box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     pointer-events: none; /* 터치 방해 안 하게 */
+}
+
+/* 세션 진행도 (1/5) - 카드 왼쪽 위 */
+.session-progress {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #888;
 }
 /* =========================================
    [Onboarding] 타이포그래피 뷰 스타일
