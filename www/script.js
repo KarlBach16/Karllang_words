@@ -72,7 +72,7 @@ function buildFirstLetterGhostHtmlForCram(full) {
       } else {
         // 나머지는 언더라인만 보이게 (희미한 글자)
         html += `<span class="ghost-char ghost-hidden">${escapeHtml(
-          ch
+          ch,
         )}</span>`;
       }
     }
@@ -516,7 +516,7 @@ function cacheDOM() {
   DOM.bookmarkList = document.getElementById("bookmarkList");
   DOM.bookmarkViewTitle = document.querySelector("#bookmarkView .view-title");
   DOM.bookmarkDesc = document.querySelector(
-    "#bookmarkView .section-description"
+    "#bookmarkView .section-description",
   );
 
   // 사이드 메뉴 - 북마크
@@ -545,34 +545,34 @@ function cacheDOM() {
   DOM.goalTypingLabel = document.querySelector("label[for='goalSelectTyping']");
   DOM.goalCardLabel = document.querySelector("label[for='goalSelectCard']");
   DOM.newWordCefrLabel = document.querySelector(
-    "label[for='newWordCefrSelect']"
+    "label[for='newWordCefrSelect']",
   );
   DOM.newWordCategoryLabel = document.querySelector(
-    "label[for='newWordCategorySelect']"
+    "label[for='newWordCategorySelect']",
   );
 
   DOM.vocabViewTitle = document.querySelector("#vocabView .view-title");
   DOM.trainingViewTitle = document.querySelector("#trainingView .view-title");
   DOM.trainingDesc = document.querySelector(
-    "#trainingView .section-description"
+    "#trainingView .section-description",
   );
   DOM.trainingTargetLabel = document.getElementById("trainingTargetLabel");
   DOM.trainingModeLabel = document.querySelector(
-    "label[for='trainingModeSelect']"
+    "label[for='trainingModeSelect']",
   );
   DOM.trainingCountLabel = document.querySelector(
-    "label[for='trainingCountSelect']"
+    "label[for='trainingCountSelect']",
   );
   DOM.searchViewTitle = document.querySelector("#searchView .view-title");
   DOM.searchViewDesc = document.querySelector(
-    "#searchView .section-description"
+    "#searchView .section-description",
   );
   DOM.settingsViewTitle = document.querySelector("#settingsView .view-title");
   DOM.settingsUiLangLabel = document.querySelector(
-    "label[for='settingsUiLang']"
+    "label[for='settingsUiLang']",
   );
   DOM.settingsStudyLangLabel = document.querySelector(
-    "label[for='settingsStudyLang']"
+    "label[for='settingsStudyLang']",
   );
   DOM.detailOverlay = document.getElementById("wordDetailOverlay");
   DOM.detailTitle = document.getElementById("detailTitle");
@@ -581,11 +581,11 @@ function cacheDOM() {
   DOM.detailExtra = document.getElementById("detailExtra");
   DOM.detailExtraRow = document.getElementById("detailExtraRow");
   DOM.trainingSourceMistakes = document.getElementById(
-    "trainingSourceMistakes"
+    "trainingSourceMistakes",
   );
   DOM.trainingSourceHard = document.getElementById("trainingSourceHard");
   DOM.trainingSourceBookmark = document.getElementById(
-    "trainingSourceBookmark"
+    "trainingSourceBookmark",
   );
   DOM.trainingModeSelect = document.getElementById("trainingModeSelect");
   DOM.trainingCountSelect = document.getElementById("trainingCountSelect");
@@ -657,7 +657,7 @@ function setupSideMenuPressFeedback() {
       () => {
         btn.classList.add("pressing");
       },
-      { passive: true }
+      { passive: true },
     );
 
     btn.addEventListener(
@@ -665,7 +665,7 @@ function setupSideMenuPressFeedback() {
       () => {
         setTimeout(() => btn.classList.remove("pressing"), 120);
       },
-      { passive: true }
+      { passive: true },
     );
 
     btn.addEventListener(
@@ -673,7 +673,7 @@ function setupSideMenuPressFeedback() {
       () => {
         btn.classList.remove("pressing");
       },
-      { passive: true }
+      { passive: true },
     );
 
     // 데스크탑 / 브라우저용 (마우스)
@@ -1223,19 +1223,19 @@ function applyTranslations() {
   if (DOM.startTagline) {
     DOM.startTagline.textContent = trKey(
       "study.start_tagline",
-      DOM.startTagline.textContent
+      DOM.startTagline.textContent,
     );
   }
   if (DOM.startUiLabel) {
     DOM.startUiLabel.textContent = trKey(
       "study.start_ui_label",
-      DOM.startUiLabel.textContent
+      DOM.startUiLabel.textContent,
     );
   }
   if (DOM.startStudyLabel) {
     DOM.startStudyLabel.textContent = trKey(
       "study.start_study_label",
-      DOM.startStudyLabel.textContent
+      DOM.startStudyLabel.textContent,
     );
   }
   if (DOM.startAppBtn) {
@@ -1257,7 +1257,7 @@ function applyTranslations() {
   if (DOM.questionDisplay && APP_STATE.phase === "READY") {
     DOM.questionDisplay.textContent = trKey(
       "study.start_prompt",
-      "시작 버튼을 누르세요."
+      "시작 버튼을 누르세요.",
     );
   }
   if (DOM.hintDisplay && APP_STATE.phase === "READY") {
@@ -1284,37 +1284,37 @@ function applyTranslations() {
   if (DOM.navUser)
     DOM.navUser.querySelector("span").textContent = trKey(
       "menu.user",
-      "사용자"
+      "사용자",
     );
   if (DOM.navStudy)
     DOM.navStudy.querySelector("span").textContent = trKey(
       "menu.study",
-      "학습"
+      "학습",
     );
   if (DOM.navTraining)
     DOM.navTraining.querySelector("span").textContent = trKey(
       "menu.training",
-      "훈련소"
+      "훈련소",
     );
   if (DOM.navVocab)
     DOM.navVocab.querySelector("span").textContent = trKey(
       "menu.mistakes",
-      "틀린 단어"
+      "틀린 단어",
     );
   if (DOM.navBookmark)
     DOM.navBookmark.querySelector("span").textContent = trKey(
       "menu.bookmark",
-      "북마크"
+      "북마크",
     );
   if (DOM.navSearch)
     DOM.navSearch.querySelector("span").textContent = trKey(
       "menu.search",
-      "단어 검색"
+      "단어 검색",
     );
   if (DOM.navSettings)
     DOM.navSettings.querySelector("span").textContent = trKey(
       "menu.settings",
-      "설정"
+      "설정",
     );
 
   // 사용자 뷰 제목들
@@ -1328,12 +1328,12 @@ function applyTranslations() {
     if (isCjkStudy) {
       DOM.userCefrTitle.textContent = trKey(
         "user.level_title_cjk",
-        "단어 진척도"
+        "단어 진척도",
       );
     } else {
       DOM.userCefrTitle.textContent = trKey(
         "user.cefr_title",
-        "CEFR 단어 진척도"
+        "CEFR 단어 진척도",
       );
     }
   }
@@ -1341,7 +1341,7 @@ function applyTranslations() {
   if (DOM.userSettingsTitle)
     DOM.userSettingsTitle.textContent = trKey(
       "user.settings_title",
-      "학습 설정"
+      "학습 설정",
     );
 
   // 사용자 설정 라벨
@@ -1351,7 +1351,7 @@ function applyTranslations() {
   if (DOM.goalTypingLabel) {
     DOM.goalTypingLabel.textContent = trKey(
       "study.goal_typing_label",
-      "학습 단어 수"
+      "학습 단어 수",
     );
   }
   if (DOM.goalCardLabel) {
@@ -1360,7 +1360,7 @@ function applyTranslations() {
   if (DOM.newWordCefrLabel) {
     DOM.newWordCefrLabel.textContent = trKey(
       "study.new_word_cefr_label",
-      "레벨"
+      "레벨",
     );
   }
 
@@ -1368,7 +1368,7 @@ function applyTranslations() {
   if (DOM.newWordCategoryLabel) {
     DOM.newWordCategoryLabel.textContent = trKey(
       "study.category_label",
-      "카테고리"
+      "카테고리",
     );
   }
 
@@ -1429,7 +1429,7 @@ function applyTranslations() {
   if (DOM.wordbookDesc) {
     DOM.wordbookDesc.textContent = trKey(
       "mistakes.desc",
-      DOM.wordbookDesc.textContent
+      DOM.wordbookDesc.textContent,
     );
   }
 
@@ -1440,7 +1440,7 @@ function applyTranslations() {
   if (DOM.bookmarkDesc) {
     DOM.bookmarkDesc.textContent = trKey(
       "bookmark.desc",
-      DOM.bookmarkDesc.textContent
+      DOM.bookmarkDesc.textContent,
     );
   }
 
@@ -1451,7 +1451,7 @@ function applyTranslations() {
   if (DOM.trainingDesc) {
     DOM.trainingDesc.textContent = trKey(
       "training.desc",
-      "틀린 단어·북마크 단어를 카드/타이핑/게임으로 집중 훈련하는 모드입니다."
+      "틀린 단어·북마크 단어를 카드/타이핑/게임으로 집중 훈련하는 모드입니다.",
     );
   }
 
@@ -1459,7 +1459,7 @@ function applyTranslations() {
   if (DOM.trainingTargetLabel) {
     DOM.trainingTargetLabel.textContent = trKey(
       "training.target_label",
-      "훈련 대상"
+      "훈련 대상",
     );
   }
   // 훈련대상 토글 각각의 라벨
@@ -1495,7 +1495,7 @@ function applyTranslations() {
   if (DOM.trainingModeLabel) {
     DOM.trainingModeLabel.textContent = trKey(
       "training.mode_label",
-      "훈련 모드"
+      "훈련 모드",
     );
   }
   if (DOM.trainingModeSelect) {
@@ -1510,7 +1510,7 @@ function applyTranslations() {
   if (DOM.trainingCountLabel) {
     DOM.trainingCountLabel.textContent = trKey(
       "training.count_label",
-      "훈련 단어 수"
+      "훈련 단어 수",
     );
   }
   if (DOM.trainingCountSelect) {
@@ -1526,7 +1526,7 @@ function applyTranslations() {
   if (DOM.trainingStartBtn) {
     DOM.trainingStartBtn.textContent = trKey(
       "training.start_button",
-      "훈련 세션 시작"
+      "훈련 세션 시작",
     );
   }
 
@@ -1534,7 +1534,7 @@ function applyTranslations() {
   if (DOM.trainingSummary) {
     DOM.trainingSummary.textContent = trKey(
       "training.summary_hint",
-      "최근 30일 기준으로 선택한 단어들을 집중 훈련합니다."
+      "최근 30일 기준으로 선택한 단어들을 집중 훈련합니다.",
     );
   }
   // 검색 뷰
@@ -1544,7 +1544,7 @@ function applyTranslations() {
   if (DOM.searchViewDesc) {
     DOM.searchViewDesc.textContent = trKey(
       "search.desc",
-      DOM.searchViewDesc.textContent
+      DOM.searchViewDesc.textContent,
     );
   }
   if (DOM.searchLabel) {
@@ -1592,7 +1592,7 @@ function applyTranslations() {
   if (DOM.searchInput) {
     DOM.searchInput.placeholder = trKey(
       "search.placeholder",
-      "단어를 입력하세요"
+      "단어를 입력하세요",
     );
   }
 
@@ -1603,13 +1603,13 @@ function applyTranslations() {
   if (DOM.settingsUiLangLabel)
     DOM.settingsUiLangLabel.textContent = trKey(
       "settings.ui_lang_label",
-      "UI 언어"
+      "UI 언어",
     );
 
   if (DOM.settingsStudyLangLabel)
     DOM.settingsStudyLangLabel.textContent = trKey(
       "settings.study_lang_label",
-      "학습 언어"
+      "학습 언어",
     );
 
   // 사운드 토글 라벨
@@ -1683,7 +1683,7 @@ function updateTrainingSummaryPreview() {
 
     summaryEl.textContent = trKey(
       "training_select_target_warning",
-      "훈련할 대상을 하나 이상 선택해 주세요."
+      "훈련할 대상을 하나 이상 선택해 주세요.",
     );
 
     if (DOM.startTrainingBtn) DOM.startTrainingBtn.disabled = true;
@@ -1698,7 +1698,7 @@ function updateTrainingSummaryPreview() {
 
   summaryEl.textContent = trKey(
     "training_summary_hint",
-    "선택한 단어들을 집중 훈련합니다."
+    "선택한 단어들을 집중 훈련합니다.",
   );
 
   if (DOM.startTrainingBtn) DOM.startTrainingBtn.disabled = false;
@@ -1830,7 +1830,7 @@ function saveWordState(state) {
       lastReviewed: state.lastReviewed,
       nextDue: state.nextDue,
       isNew: state.isNew,
-    })
+    }),
   );
 }
 
@@ -2154,7 +2154,7 @@ function showReadyState() {
   if (DOM.questionDisplay) {
     fadeSwapText(
       DOM.questionDisplay,
-      pack.start_prompt || "시작 버튼을 누르세요."
+      pack.start_prompt || "시작 버튼을 누르세요.",
     );
   }
   if (DOM.hintDisplay) {
@@ -2408,7 +2408,7 @@ function applyCramGhost(word) {
   const full = buildGermanForm(word);
   const ghostType = getGhostTypeForCram(
     TRAINING_CRAM_REPEAT_INDEX,
-    TRAINING_CRAM_REPEAT_TOTAL
+    TRAINING_CRAM_REPEAT_TOTAL,
   );
 
   if (ghostType === "FULL") {
@@ -2486,7 +2486,7 @@ function showCramQuestion() {
       DOM.trainingSummary.style.color = "#16a34a";
       DOM.trainingSummary.textContent = trKey(
         "training_done_simple", // ✅ 키 수정 (training.done_simple → training_done_simple)
-        "훈련 세션이 종료되었습니다."
+        "훈련 세션이 종료되었습니다.",
       );
     }
     return;
@@ -2635,7 +2635,7 @@ function handleCramSubmit() {
     if (DOM.feedback) {
       DOM.feedback.textContent = trKey(
         "training.cram_retry_hint",
-        "한 번 더 시도해 보세요."
+        "한 번 더 시도해 보세요.",
       );
     }
 
@@ -3864,7 +3864,7 @@ function advanceTrainingStep() {
         DOM.trainingSummary.style.color = "#16a34a";
         DOM.trainingSummary.textContent = trKey(
           "training.done_simple",
-          "훈련 세션이 종료되었습니다."
+          "훈련 세션이 종료되었습니다.",
         );
       }
       return;
@@ -3897,7 +3897,7 @@ function advanceTrainingStep() {
         DOM.trainingSummary.style.color = "#16a34a";
         DOM.trainingSummary.textContent = trKey(
           "training.done_simple",
-          "훈련 세션이 종료되었습니다."
+          "훈련 세션이 종료되었습니다.",
         );
       }
       return;
@@ -4005,7 +4005,7 @@ function advanceTrainingStep() {
       DOM.trainingSummary.style.color = "#16a34a";
       DOM.trainingSummary.textContent = trKey(
         "training.done_simple",
-        "훈련 세션이 종료되었습니다."
+        "훈련 세션이 종료되었습니다.",
       );
     }
     return;
@@ -4027,7 +4027,7 @@ function advanceTrainingStep() {
       DOM.trainingSummary.style.color = "#16a34a";
       DOM.trainingSummary.textContent = trKey(
         "training.done_simple",
-        "훈련 세션이 종료되었습니다."
+        "훈련 세션이 종료되었습니다.",
       );
     }
     return;
@@ -4095,9 +4095,13 @@ function handleConfirm() {
     }
 
     if (userInput !== target) {
+      // 🔹 따라쓰기 오타: 약한 피드백 + 카드 빨간색
+      //    (applyAnswerEffect(false)가 에러 햅틱 + card-wrong 클래스 처리)
+      applyAnswerEffect(false);
+
       DOM.feedback.textContent = trKey(
         "study.copy_check_spelling",
-        "철자를 다시 확인하세요."
+        "철자를 다시 확인하세요.",
       );
 
       DOM.answerInput.focus();
@@ -4126,7 +4130,7 @@ function handleConfirm() {
     const btnBookmark = document.getElementById("copyBookmarkBtn");
     if (btnBookmark) {
       btnBookmark.addEventListener("click", () =>
-        toggleBookmark(String(word.id))
+        toggleBookmark(String(word.id)),
       );
     }
 
@@ -4151,11 +4155,18 @@ function handleConfirm() {
   const result = evaluateTypingAnswer(userInput, item);
 
   if (result === "retry") {
+    // 🔹 첫 번째 틀림(재도전 구간)에서는 약한 햅틱만 한 번
+    if (typeof triggerHaptic === "function") {
+      triggerHaptic("light");
+    }
     return;
   }
+
   if (result === "wrong") {
+    // 🔹 완전 오답 확정일 때만 오답 카운트 + 강한 햅틱 (applyAnswerResult → applyAnswerEffect(false))
     incrementWrongAttempt(item.word.id);
   }
+
   const isCorrect = result === "correct";
   applyAnswerResult(isCorrect, item);
 }
@@ -4268,7 +4279,7 @@ function handleTrainingStart() {
   if (!useMistakes && !useHard && !useBookmark) {
     const msg = trKey(
       "training_select_target_warning",
-      "훈련할 대상을 하나 이상 선택해 주세요."
+      "훈련할 대상을 하나 이상 선택해 주세요.",
     );
 
     if (DOM.trainingSummary) {
@@ -5750,13 +5761,13 @@ document.addEventListener("DOMContentLoaded", () => {
   if (DOM.trainingCountSelect) {
     DOM.trainingCountSelect.addEventListener(
       "change",
-      updateTrainingSummaryPreview
+      updateTrainingSummaryPreview,
     );
   }
   if (DOM.trainingModeSelect) {
     DOM.trainingModeSelect.addEventListener(
       "change",
-      updateTrainingSummaryPreview
+      updateTrainingSummaryPreview,
     );
   }
   if (DOM.trainingSourceMistakes) {
