@@ -5663,7 +5663,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (typeof showReadyState === "function") {
           showReadyState();
         }
-      }, 800); // 재방문은 0.8초 정도만
+      }, 1600); // 재방문은 1.6초 정도
     } else if (appScreen) {
       // 인트로 섹션이 없다면 바로 앱으로
       showScreen(appScreen);
@@ -5690,7 +5690,7 @@ document.addEventListener("DOMContentLoaded", () => {
         body.classList.remove("state-intro");
         body.classList.add("state-start");
         showScreen(startScreen);
-      }, 1200); // 첫 방문은 1.2초 정도
+      }, 2200); // 첫 방문은 2.2초 정도
     } else if (startScreen) {
       // 인트로 섹션이 없으면 바로 시작 화면
       showScreen(startScreen);

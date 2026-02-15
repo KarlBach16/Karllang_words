@@ -1242,7 +1242,7 @@ textarea {
 #introScreen .start-content {
     /* [핵심] margin: auto를 주면 부모(카드) 높이 안에서 
        위/아래 공간을 똑같이 나눠가지며 '물리적 정중앙'에 위치하게 됩니다. */
-    margin: auto !important; 
+    margin: 0 auto !important;
     
     width: 100%;
     max-width: 360px;
@@ -1250,10 +1250,12 @@ textarea {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     gap: 30px; /* 요소들 사이 간격 */
+    min-height: calc(100dvh - var(--safe-top) - var(--safe-bottom) - 56px);
 
-    /* 시각적 보정: 정중앙보다 아주 살짝(20px) 위로 올려야 더 안정감 있습니다 */
-    transform: translateY(-20px); 
+    /* 로고(심볼) 시각 중심을 화면 중앙에 맞추기 위해 아래로 보정 */
+    transform: translateY(34px);
 }
 
 /* 3. HTML에 인라인 스타일이 있지만, 혹시 몰라 SVG 정렬 보장 */
@@ -1348,6 +1350,13 @@ body.state-app #app {
 /* 시작 화면(인트로/스타트)에서 KarlLang 글자 키우기 */
 .start-header .app-title {
     font-size: 28px;   /* 지금 22px → 28px 정도면 확실히 큼 */
+}
+
+/* 인트로 화면의 KarlLang 타이틀은 더 존재감 있게 */
+#introScreen .start-header .app-title {
+    font-size: 34px;
+    font-weight: 800;
+    letter-spacing: 0.2px;
 }
 /* 학습 카드 전체 높이 안정화 */
 .main-card {
