@@ -9,6 +9,54 @@ input, textarea, select, button {
   font-size: 16px; /* iOS 자동 확대 방지용 최소 폰트 크기 */
 }
 
+button,
+.btn,
+.icon-btn,
+.side-item,
+.toggle-switch,
+.hamburger {
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+button:focus,
+button:focus-visible,
+.btn:focus,
+.btn:focus-visible,
+.icon-btn:focus,
+.icon-btn:focus-visible,
+.side-item:focus,
+.side-item:focus-visible,
+.control-group select:focus,
+.control-group select:focus-visible,
+.toggle-switch:focus,
+.toggle-switch:focus-visible,
+.hamburger:focus,
+.hamburger:focus-visible {
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: inherit !important;
+    -webkit-focus-ring-color: transparent;
+}
+
+*:focus,
+*:focus-visible {
+    outline: none !important;
+    box-shadow: none !important;
+    -webkit-focus-ring-color: transparent;
+}
+
+.icon-btn:active,
+.icon-btn:focus:active,
+.icon-btn:focus-visible:active {
+    outline: none !important;
+    box-shadow: none !important;
+    -webkit-tap-highlight-color: transparent !important;
+    background-color: transparent !important;
+    border-color: inherit !important;
+}
+
 .page-wrapper {
     width: 100%;
     max-width: 100%;   /* 🔹 기기 폭 전체 사용 - 프레임 제거 */
@@ -172,15 +220,20 @@ body {
     padding: 4px;
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 0;
     cursor: pointer;
 }
 
 .hamburger span {
+    display: block;
     width: 18px;
     height: 2px;
     border-radius: 99px;
     background: var(--color-text-dark);
+}
+
+.hamburger span + span {
+    margin-top: 3px;
 }
 
 /* ===== 공통 컨트롤 ===== */
@@ -347,6 +400,10 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 10px;
+}
+
+.button-group .btn + .btn {
+    margin-top: 10px;
 }
 
 .button-group .btn-primary,
@@ -579,6 +636,10 @@ body {
     gap: 8px;
 }
 
+.rating-buttons .btn-rating + .btn-rating {
+    margin-left: 8px;
+}
+
 .btn-rating {
     flex: 1;
     max-width: 120px;
@@ -711,7 +772,11 @@ body {
     margin-top: 12px;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 0;
+}
+
+.wordbook-list > .wordbook-item + .wordbook-item {
+    margin-top: 8px;
 }
 
 .wordbook-item {
@@ -752,10 +817,18 @@ body {
 .wordbook-right {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 0;
     font-size: 12px;
     color: var(--color-text-dark);
     white-space: nowrap;
+}
+
+.wordbook-right > * + * {
+    margin-left: 10px;
+}
+
+.wordbook-right .icon-btn + .icon-btn {
+    margin-left: 10px !important;
 }
 
 .empty-text {
@@ -786,9 +859,13 @@ body {
     padding: calc(env(safe-area-inset-top, 0px) + 16px) 10px 10px;
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 0;
     z-index: 9;
     transition: transform 0.18s ease;
+}
+
+.side-menu .side-item + .side-item {
+    margin-top: 4px;
 }
 
 .side-menu.open {
@@ -868,6 +945,16 @@ body {
     border-width: 6px 0 6px 9px;
     border-color: transparent transparent transparent var(--color-primary);
     transform: translateX(1px);
+}
+
+/* 🔊 TTS 미지원/비활성 상태 */
+.icon-btn.speaker-icon.tts-disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+}
+
+.icon-btn.speaker-icon:disabled {
+    pointer-events: none;
 }
 
 /* 2. 북마크 */
@@ -995,10 +1082,15 @@ body {
 /* ===== 단어 디테일 팝업 ===== */
 .detail-overlay {
     position: fixed;
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     display: none;
-    align-items: center;
-    justify-content: center;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 16px;
+    box-sizing: border-box;
     z-index: 999;
 }
 
@@ -1015,13 +1107,16 @@ body {
 .detail-panel {
     position: relative;
     max-width: 420px;
-    width: 90%;
+    width: min(420px, 100%);
     background: #ffffff;
     border-radius: 16px;
     padding: 16px 18px 18px;
     box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
     z-index: 1;
     font-size: 14px;
+    margin: 0;
+    max-height: calc(100dvh - var(--safe-top) - var(--safe-bottom) - 32px);
+    overflow-y: auto;
 }
 
 .detail-header {
@@ -1122,6 +1217,10 @@ body {
 
 .answer-actions {
     margin-top: 28px;
+}
+
+.answer-actions .icon-btn + .icon-btn {
+    margin-left: 8px;
 }
 
 #vocabView .wordbook-list,

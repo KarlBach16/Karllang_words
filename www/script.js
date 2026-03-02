@@ -132,6 +132,11 @@ const APP_STATE = {
 
 let SETTINGS = { ...DEFAULT_SETTINGS };
 let CURRENT_LANG = "ko";
+// 🔊 TTS 상태 플래그 (구형 Android WebView 대응)
+let TTS_SUPPORTED = false;
+let TTS_READY = false;
+let TTS_VOICE = null;
+let TTS_WARNED_UNSUPPORTED = false;
 // ✅ 일반 학습 세션에서 뽑은 단어들 공유용
 let LAST_STUDY_WORD_IDS = [];
 let LAST_STUDY_META = {
@@ -3030,14 +3035,123 @@ function toggleBookmark(wordId) {
   }
 }
 
+function showTtsWarning() {
+  if (TTS_WARNED_UNSUPPORTED) return;
+  TTS_WARNED_UNSUPPORTED = true;
+
+  const msg = trKey(
+    "tts_unsupported_notice",
+    "이 기기에서는 발음 기능이 제한될 수 있습니다.",
+  );
+
+  if (DOM && DOM.feedback) {
+    DOM.feedback.textContent = msg;
+  } else if (DOM && DOM.hintDisplay) {
+    DOM.hintDisplay.textContent = msg;
+  } else {
+    console.warn(msg);
+  }
+}
+
+// 🔊 스피커 버튼 활성/비활성 반영
+function updateTtsUiState() {
+  const soundOn = !window.SETTINGS || SETTINGS.soundEnabled !== false;
+  const canClick = TTS_SUPPORTED && TTS_READY && soundOn;
+
+  document.querySelectorAll("button.speaker-icon").forEach((el) => {
+    el.disabled = !canClick;
+    el.classList.toggle("tts-disabled", !canClick);
+  });
+}
+
+function pickTtsVoiceForLang(voices, studyLang) {
+  const lang = (studyLang || "de").toLowerCase();
+  const prefixes =
+    lang === "de"
+      ? ["de-"]
+      : lang === "en"
+        ? ["en-"]
+        : lang === "ko"
+          ? ["ko-"]
+          : lang === "es"
+            ? ["es-"]
+            : [lang + "-"];
+
+  for (const p of prefixes) {
+    const found = voices.find((v) => v.lang && v.lang.toLowerCase().startsWith(p));
+    if (found) return found;
+  }
+  return null;
+}
+
+// 🔊 TTS 보이스 초기화 (WebView voice loading 대응)
+function initTtsVoices() {
+  if (!("speechSynthesis" in window)) {
+    TTS_SUPPORTED = false;
+    TTS_READY = false;
+    TTS_VOICE = null;
+    updateTtsUiState();
+    return;
+  }
+
+  TTS_SUPPORTED = true;
+
+  const loadVoices = () => {
+    const voices = window.speechSynthesis.getVoices() || [];
+    if (!voices.length) {
+      TTS_READY = false;
+      TTS_VOICE = null;
+      updateTtsUiState();
+      return;
+    }
+
+    // 해당 학습 언어 보이스가 있을 때만 ready
+    const voice = pickTtsVoiceForLang(voices, SETTINGS.studyLang);
+    TTS_VOICE = voice || null;
+    TTS_READY = !!TTS_VOICE;
+    updateTtsUiState();
+  };
+
+  loadVoices();
+
+  if (typeof window.speechSynthesis.onvoiceschanged !== "undefined") {
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+  }
+}
+
 function speakGerman(text) {
-  if (!SETTINGS.soundEnabled) return;
-  if (!("speechSynthesis" in window)) return;
+  if (!text) return;
+  if (window.SETTINGS && SETTINGS.soundEnabled === false) return;
+
+  if (!("speechSynthesis" in window)) {
+    TTS_SUPPORTED = false;
+    TTS_READY = false;
+    updateTtsUiState();
+    showTtsWarning();
+    return;
+  }
+
+  TTS_SUPPORTED = true;
+  if (!TTS_READY) {
+    const voices = window.speechSynthesis.getVoices() || [];
+    if (voices.length) {
+      TTS_VOICE = pickTtsVoiceForLang(voices, SETTINGS.studyLang);
+      TTS_READY = !!TTS_VOICE;
+    }
+    updateTtsUiState();
+  }
+  if (!TTS_READY) {
+    showTtsWarning();
+    return;
+  }
 
   const utter = new SpeechSynthesisUtterance(text);
   const targetLang = SETTINGS.studyLang || "de";
 
-  if (targetLang === "en") {
+  if (TTS_VOICE) {
+    utter.voice = TTS_VOICE;
+    utter.lang = TTS_VOICE.lang || "de-DE";
+  } else if (targetLang === "en") {
     utter.lang = "en-US";
   } else if (targetLang === "ko") {
     utter.lang = "ko-KR";
@@ -3046,6 +3160,12 @@ function speakGerman(text) {
   } else {
     utter.lang = "de-DE";
   }
+
+  utter.rate = 0.95;
+  utter.pitch = 1;
+  utter.onerror = () => {
+    showTtsWarning();
+  };
 
   window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utter);
@@ -3124,6 +3244,8 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
   if (btnDetail) {
     btnDetail.addEventListener("click", () => openWordDetail(word));
   }
+
+  updateTtsUiState();
 }
 
 // ✅ 정답/오답 시 카드 배경 이펙트
@@ -4139,6 +4261,8 @@ function handleConfirm() {
       btnDetail.addEventListener("click", () => openWordDetail(word));
     }
 
+    updateTtsUiState();
+
     speakGerman(speakText);
 
     applyAnswerEffect(true);
@@ -4813,6 +4937,13 @@ function createWordListItem(word, stats, context) {
   speakBtn.addEventListener("click", () => {
     speakGerman(german);
   });
+  // 렌더 시점에도 현재 TTS 가능 여부 반영
+  {
+    const soundOn = !window.SETTINGS || SETTINGS.soundEnabled !== false;
+    const canClick = TTS_SUPPORTED && TTS_READY && soundOn;
+    speakBtn.disabled = !canClick;
+    speakBtn.classList.toggle("tts-disabled", !canClick);
+  }
 
   const bookmarkBtn = document.createElement("button");
   bookmarkBtn.type = "button";
@@ -4911,6 +5042,8 @@ function renderMistakes() {
     li.textContent = msg;
     container.appendChild(li);
   }
+
+  updateTtsUiState();
 }
 
 function renderBookmarks() {
@@ -4951,6 +5084,8 @@ function renderBookmarks() {
     const item = createWordListItem(word, stats, "bookmark");
     container.appendChild(item);
   });
+
+  updateTtsUiState();
 }
 
 function renderWordbookIfNeeded() {
@@ -5042,6 +5177,8 @@ function handleSearch() {
     const item = createWordListItem(word, stats, "search");
     container.appendChild(item);
   });
+
+  updateTtsUiState();
 }
 
 function clearSearchView() {
@@ -5214,10 +5351,38 @@ function attachEvents() {
     });
   }
   if (DOM.sideMenuOverlay) {
-    DOM.sideMenuOverlay.addEventListener("click", () => {
+    const onOverlayClose = (e) => {
+      if (e) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
       closeMenu();
+    };
+    DOM.sideMenuOverlay.addEventListener("click", onOverlayClose);
+    DOM.sideMenuOverlay.addEventListener("touchstart", onOverlayClose, {
+      passive: false,
     });
+    DOM.sideMenuOverlay.addEventListener("pointerdown", onOverlayClose);
   }
+
+  // Android WebView 일부 환경에서 overlay click이 누락되는 경우 대비
+  document.addEventListener(
+    "pointerdown",
+    (e) => {
+      if (!DOM.sideMenu || !DOM.sideMenu.classList.contains("open")) return;
+
+      const target = e.target;
+      if (!target) return;
+
+      const clickedInMenu = DOM.sideMenu.contains(target);
+      const clickedToggle =
+        DOM.menuToggle && (target === DOM.menuToggle || DOM.menuToggle.contains(target));
+      if (!clickedInMenu && !clickedToggle) {
+        closeMenu();
+      }
+    },
+    true,
+  );
 
   if (DOM.navStudy) {
     DOM.navStudy.addEventListener("click", () => {
@@ -5422,6 +5587,7 @@ function attachEvents() {
       }
 
       DOM.soundToggle.classList.toggle("is-on", SETTINGS.soundEnabled);
+      updateTtsUiState();
     });
   }
 
@@ -5460,6 +5626,7 @@ function attachEvents() {
     DOM.settingsStudyLang.addEventListener("change", () => {
       SETTINGS.studyLang = DOM.settingsStudyLang.value;
       saveSettings();
+      initTtsVoices();
 
       applyTranslations();
       updateCefrProgress();
@@ -5614,6 +5781,7 @@ function init() {
   refreshUiLangSelectLabels();
   setupSideMenuPressFeedback();
   attachEvents();
+  initTtsVoices();
   applyTranslations();
   updateCefrProgress();
   updateStudyStartSummary();
