@@ -1226,18 +1226,11 @@ body {
 #vocabView .wordbook-list,
 #bookmarkView .wordbook-list,
 #searchView .wordbook-list {
-    max-height: calc(100vh - 210px);
+    max-height: calc(100vh - 160px);
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
     margin-top: 8px;
     padding-right: 4px;
-}
-
-@media (min-height: 700px) {
-    #vocabView .wordbook-list,
-    #bookmarkView .wordbook-list,
-    #searchView .wordbook-list {
-        max-height: calc(100vh - 280px);
-    }
 }
 
 #vocabView .section-description,
