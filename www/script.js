@@ -137,6 +137,14 @@ let TTS_SUPPORTED = false;
 let TTS_READY = false;
 let TTS_VOICE = null;
 let TTS_WARNED_UNSUPPORTED = false;
+const NativeTTS = window.Capacitor
+  ? (window.Capacitor.Plugins &&
+      (window.Capacitor.Plugins.TextToSpeech ||
+        window.Capacitor.Plugins.TTS ||
+        window.Capacitor.Plugins.SpeechSynthesis)) ||
+    window.Capacitor.TextToSpeech ||
+    null
+  : null;
 // ✅ 일반 학습 세션에서 뽑은 단어들 공유용
 let LAST_STUDY_WORD_IDS = [];
 let LAST_STUDY_META = {
@@ -423,6 +431,71 @@ async function triggerHaptic(type) {
         navigator.vibrate(20);
     }
   }
+}
+
+// ===== Capacitor App 플러그인 (안드로이드 back 버튼용) =====
+const NativeApp = window.Capacitor
+  ? (window.Capacitor.Plugins && window.Capacitor.Plugins.App) ||
+    window.Capacitor.App ||
+    null
+  : null;
+
+let LAST_BACK_TIME = 0;
+
+function handleAndroidBack() {
+  // 1) 단어 상세 오버레이 열려 있으면 닫기
+  if (DOM.detailOverlay && DOM.detailOverlay.classList.contains("active")) {
+    closeWordDetail();
+    return;
+  }
+
+  // 2) 사이드 메뉴 열려 있으면 닫기
+  if (DOM.sideMenu && DOM.sideMenu.classList.contains("open")) {
+    closeMenu();
+    return;
+  }
+
+  // 3) 학습 세션 진행 중이면 → 확인 후 홈으로
+  if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
+    const msg = trKey("confirm.exit_session", "지금 학습을 끝내고 홈으로 돌아갈까요?");
+    if (window.confirm(msg)) {
+      showReadyState();
+      showView("study");
+    }
+    return;
+  }
+
+  // 4) 세션 완료(FINISHED) 또는 다른 뷰에 있으면 → Study 뷰로
+  if (APP_STATE.phase === "FINISHED" || APP_STATE.currentView !== "study") {
+    showView("study");
+    return;
+  }
+
+  // 5) Study + READY 상태 → 두 번 눌러야 종료
+  const now = Date.now();
+  if (now - LAST_BACK_TIME < 2000) {
+    if (NativeApp && typeof NativeApp.exitApp === "function") {
+      NativeApp.exitApp();
+    }
+  } else {
+    LAST_BACK_TIME = now;
+    const msg = trKey("back.exit_hint", "한 번 더 누르면 앱이 종료됩니다.");
+    if (DOM.feedback) {
+      DOM.feedback.textContent = msg;
+      setTimeout(() => {
+        if (DOM.feedback.textContent === msg) {
+          DOM.feedback.textContent = "";
+        }
+      }, 1500);
+    }
+  }
+}
+
+function setupAndroidBackHandler() {
+  if (!NativeApp || typeof NativeApp.addListener !== "function") return;
+  NativeApp.addListener("backButton", () => {
+    handleAndroidBack();
+  });
 }
 
 /* ============================================
@@ -3053,10 +3126,27 @@ function showTtsWarning() {
   }
 }
 
+function getTtsLangCode(studyLang) {
+  const target = (studyLang || "de").toLowerCase();
+  if (target === "en") return "en-US";
+  if (target === "ko") return "ko-KR";
+  if (target === "es") return "es-ES";
+  return "de-DE";
+}
+
+function hasNativeTtsSupport() {
+  const platform =
+    window.Capacitor && typeof window.Capacitor.getPlatform === "function"
+      ? window.Capacitor.getPlatform()
+      : "web";
+  return platform === "android" && !!(NativeTTS && typeof NativeTTS.speak === "function");
+}
+
 // 🔊 스피커 버튼 활성/비활성 반영
 function updateTtsUiState() {
-  const soundOn = !window.SETTINGS || SETTINGS.soundEnabled !== false;
-  const canClick = TTS_SUPPORTED && TTS_READY && soundOn;
+  const soundOn = SETTINGS.soundEnabled !== false;
+  // 네이티브 TTS(플러그인) 또는 Web Speech 중 하나만 살아있어도 버튼 활성
+  const canClick = soundOn && (hasNativeTtsSupport() || TTS_SUPPORTED);
 
   document.querySelectorAll("button.speaker-icon").forEach((el) => {
     el.disabled = !canClick;
@@ -3121,8 +3211,27 @@ function initTtsVoices() {
 
 function speakGerman(text) {
   if (!text) return;
-  if (window.SETTINGS && SETTINGS.soundEnabled === false) return;
+  if (SETTINGS.soundEnabled === false) return;
 
+  const targetLangCode = getTtsLangCode(SETTINGS.studyLang || "de");
+
+  // 1) 네이티브 TTS 플러그인 우선 (Android 안정성)
+  if (hasNativeTtsSupport()) {
+    NativeTTS.speak({
+      text,
+      lang: targetLangCode,
+      rate: 1.0,
+      pitch: 1.0,
+      volume: 1.0,
+    })
+      .then(() => {})
+      .catch((e) => {
+        console.warn("Native TTS failed, fallback to Web Speech", e);
+      });
+    return;
+  }
+
+  // 2) Web Speech fallback
   if (!("speechSynthesis" in window)) {
     TTS_SUPPORTED = false;
     TTS_READY = false;
@@ -3133,16 +3242,13 @@ function speakGerman(text) {
 
   TTS_SUPPORTED = true;
   if (!TTS_READY) {
+    // 첫 클릭 시점에 voices가 늦게 준비되는 기기 대응: 재조회만 하고 fallback 허용
     const voices = window.speechSynthesis.getVoices() || [];
     if (voices.length) {
       TTS_VOICE = pickTtsVoiceForLang(voices, SETTINGS.studyLang);
-      TTS_READY = !!TTS_VOICE;
+      TTS_READY = true; // de-* 매칭이 없어도 lang으로 재생 시도 가능
     }
     updateTtsUiState();
-  }
-  if (!TTS_READY) {
-    showTtsWarning();
-    return;
   }
 
   const utter = new SpeechSynthesisUtterance(text);
@@ -3151,14 +3257,8 @@ function speakGerman(text) {
   if (TTS_VOICE) {
     utter.voice = TTS_VOICE;
     utter.lang = TTS_VOICE.lang || "de-DE";
-  } else if (targetLang === "en") {
-    utter.lang = "en-US";
-  } else if (targetLang === "ko") {
-    utter.lang = "ko-KR";
-  } else if (targetLang === "es") {
-    utter.lang = "es-ES";
   } else {
-    utter.lang = "de-DE";
+    utter.lang = getTtsLangCode(targetLang);
   }
 
   utter.rate = 0.95;
@@ -4939,8 +5039,8 @@ function createWordListItem(word, stats, context) {
   });
   // 렌더 시점에도 현재 TTS 가능 여부 반영
   {
-    const soundOn = !window.SETTINGS || SETTINGS.soundEnabled !== false;
-    const canClick = TTS_SUPPORTED && TTS_READY && soundOn;
+    const soundOn = SETTINGS.soundEnabled !== false;
+    const canClick = soundOn && (hasNativeTtsSupport() || TTS_SUPPORTED);
     speakBtn.disabled = !canClick;
     speakBtn.classList.toggle("tts-disabled", !canClick);
   }
@@ -5959,6 +6059,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 6) 페이지 처음 열릴 때도 요약 한 번 업데이트
   updateTrainingSummaryPreview();
+
+  // 7) 안드로이드 하드웨어 back 버튼 핸들러
+  setupAndroidBackHandler();
 });
 
 /* v1 iOS 출시 기준: PWA Service Worker 등록 비활성화 */

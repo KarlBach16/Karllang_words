@@ -30,6 +30,16 @@
         </provider>
     </application>
 
+    <!-- 전화 기능 있는 기기(스마트폰)만 지원 -->
+    <uses-feature android:name="android.hardware.telephony" android:required="true" />
+
+    <!-- 스마트폰 화면 크기만 지원, 태블릿 제외 -->
+    <supports-screens
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="false"
+        android:xlargeScreens="false" />
+
     <!-- Permissions -->
 
     <uses-permission android:name="android.permission.INTERNET" />
