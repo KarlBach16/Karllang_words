@@ -8,10 +8,20 @@ const WORDS_DE_A1_SAFE = typeof WORDS_DE_A1 !== "undefined" ? WORDS_DE_A1 : [];
 const WORDS_DE_A2_SAFE = typeof WORDS_DE_A2 !== "undefined" ? WORDS_DE_A2 : [];
 const WORDS_DE_B1_SAFE = typeof WORDS_DE_B1 !== "undefined" ? WORDS_DE_B1 : [];
 
+const WORDS_ES_A1_SAFE = typeof WORDS_ES_A1 !== "undefined" ? WORDS_ES_A1 : [];
+const WORDS_ES_A2_SAFE = typeof WORDS_ES_A2 !== "undefined" ? WORDS_ES_A2 : [];
+const WORDS_ES_B1_SAFE = typeof WORDS_ES_B1 !== "undefined" ? WORDS_ES_B1 : [];
+
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
   ...WORDS_DE_A2_SAFE,
   ...WORDS_DE_B1_SAFE,
+];
+
+const ALL_WORDS_ES = [
+  ...WORDS_ES_A1_SAFE,
+  ...WORDS_ES_A2_SAFE,
+  ...WORDS_ES_B1_SAFE,
 ];
 
 /* ============================================
@@ -89,7 +99,7 @@ function getCurrentStudyLang() {
 const DATA_VERSION = "goethe_a1_full_v1";
 
 const DEFAULT_SETTINGS = {
-  mode: "typing_de",
+  mode: "copy",
   goalTyping: 5,
   goalCard: 5,
   newWordCefr: "A1",
@@ -101,11 +111,11 @@ const DEFAULT_SETTINGS = {
   seenOnboarding: false,
   hapticEnabled: true,
 };
-// ✅ v1: 학습 언어는 독일어(de)만 노출/허용
+// ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "en", "ko"]
-  : ["de"];
+  ? ["de", "es", "en", "ko"]
+  : ["de", "es"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -1702,6 +1712,7 @@ function applyTranslations() {
   // 학습 언어 드롭다운 표시용 텍스트
   const studyLangLabelMap = {
     de: pack.study_lang_de || "Deutsch",
+    es: pack.study_lang_es || "Español",
     en: pack.study_lang_en || "English",
     ko: pack.study_lang_ko || "한국어",
   };
@@ -1787,6 +1798,9 @@ function updateTrainingSummaryPreview() {
    ============================================ */
 
 function getAllWords() {
+  const study = (SETTINGS.studyLang || "de").toLowerCase();
+  if (study === "es") return ALL_WORDS_ES || [];
+  if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
 }
 
