@@ -11,6 +11,10 @@ const WORDS_DE_B1_SAFE = typeof WORDS_DE_B1 !== "undefined" ? WORDS_DE_B1 : [];
 const WORDS_ES_A1_SAFE = typeof WORDS_ES_A1 !== "undefined" ? WORDS_ES_A1 : [];
 const WORDS_ES_A2_SAFE = typeof WORDS_ES_A2 !== "undefined" ? WORDS_ES_A2 : [];
 const WORDS_ES_B1_SAFE = typeof WORDS_ES_B1 !== "undefined" ? WORDS_ES_B1 : [];
+const WORDS_EN_A1_SAFE = typeof WORDS_EN_A1 !== "undefined" ? WORDS_EN_A1 : [];
+const WORDS_EN_A2_SAFE = typeof WORDS_EN_A2 !== "undefined" ? WORDS_EN_A2 : [];
+const WORDS_EN_B1_SAFE = typeof WORDS_EN_B1 !== "undefined" ? WORDS_EN_B1 : [];
+const WORDS_EN_B2_SAFE = typeof WORDS_EN_B2 !== "undefined" ? WORDS_EN_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -22,6 +26,13 @@ const ALL_WORDS_ES = [
   ...WORDS_ES_A1_SAFE,
   ...WORDS_ES_A2_SAFE,
   ...WORDS_ES_B1_SAFE,
+];
+
+const ALL_WORDS_EN = [
+  ...WORDS_EN_A1_SAFE,
+  ...WORDS_EN_A2_SAFE,
+  ...WORDS_EN_B1_SAFE,
+  ...WORDS_EN_B2_SAFE,
 ];
 
 /* ============================================
@@ -115,7 +126,7 @@ const DEFAULT_SETTINGS = {
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
   ? ["de", "es", "en", "ko"]
-  : ["de", "es"];
+  : ["de", "es", "en"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -1233,21 +1244,8 @@ const CATEGORY_I18N_KEYS = {
 
 function getCategoryLabel(catId) {
   const uiLang = CURRENT_LANG || "ko";
-  const studyLang = (
-    typeof getCurrentStudyLang === "function"
-      ? getCurrentStudyLang()
-      : SETTINGS.studyLang || "de"
-  ).toLowerCase();
-
-  // 1) exam → 학습 언어별 대표 시험 이름 우선
+  // 1) exam -> UI 언어 기준 공통 라벨 사용 (Goethe/DELE/TOEIC 표기 금지)
   if (catId === "exam") {
-    if (
-      typeof CATEGORY_EXAM_NAMES !== "undefined" &&
-      CATEGORY_EXAM_NAMES[studyLang]
-    ) {
-      return CATEGORY_EXAM_NAMES[studyLang];
-    }
-    // 학습 언어 대표 시험 이름이 없으면 i18n(category_exam) 사용
     return trKey("study.category.exam", "Exam");
   }
 
@@ -1799,6 +1797,7 @@ function updateTrainingSummaryPreview() {
 
 function getAllWords() {
   const study = (SETTINGS.studyLang || "de").toLowerCase();
+  if (study === "en") return ALL_WORDS_EN || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
@@ -3140,6 +3139,20 @@ function showTtsWarning() {
   }
 }
 
+function showEnglishVoiceMissingWarning() {
+  const msg = trKey(
+    "tts_english_voice_missing",
+    "영어 음성(EN-US/EN-GB)이 없어 발음을 재생하지 않았습니다. 기기 TTS에서 영어 음성을 설치해 주세요.",
+  );
+  if (DOM && DOM.feedback) {
+    DOM.feedback.textContent = msg;
+  } else if (DOM && DOM.hintDisplay) {
+    DOM.hintDisplay.textContent = msg;
+  } else {
+    console.warn(msg);
+  }
+}
+
 function getTtsLangCode(studyLang) {
   const target = (studyLang || "de").toLowerCase();
   if (target === "en") return "en-US";
@@ -3174,18 +3187,105 @@ function pickTtsVoiceForLang(voices, studyLang) {
     lang === "de"
       ? ["de-"]
       : lang === "en"
-        ? ["en-"]
+        ? ["en-us", "en-gb", "en-"]
         : lang === "ko"
           ? ["ko-"]
           : lang === "es"
             ? ["es-"]
             : [lang + "-"];
 
-  for (const p of prefixes) {
-    const found = voices.find((v) => v.lang && v.lang.toLowerCase().startsWith(p));
-    if (found) return found;
+  const lower = (s) => (s || "").toLowerCase();
+  const badNameTokens = [
+    "novelty",
+    "funny",
+    "clown",
+    "whisper",
+    "robot",
+    "monster",
+    "alien",
+    "zombie",
+    "child",
+    "kid",
+    "baby",
+  ];
+  const femaleNameTokens = [
+    "female",
+    "woman",
+    "girl",
+    "samantha",
+    "victoria",
+    "karen",
+    "moira",
+    "aria",
+    "jenny",
+    "zira",
+    "emma",
+    "siri female",
+  ];
+  const maleNameTokens = [
+    "male",
+    "man",
+    "boy",
+    "david",
+    "thomas",
+    "daniel",
+    "alex",
+    "google uk english male",
+  ];
+  const goodNameTokens = [
+    "google",
+    "samantha",
+    "victoria",
+    "karen",
+    "moira",
+    "aria",
+    "jenny",
+    "zira",
+    "natural",
+    "enhanced",
+    "premium",
+    "neural",
+  ];
+
+  let best = null;
+  let bestScore = -999;
+
+  for (const v of voices || []) {
+    const vLang = lower(v.lang);
+    const vName = `${lower(v.name)} ${lower(v.voiceURI)}`;
+
+    let prefixScore = -1;
+    for (let i = 0; i < prefixes.length; i += 1) {
+      if (vLang.startsWith(prefixes[i])) {
+        prefixScore = prefixes.length - i;
+        break;
+      }
+    }
+    if (prefixScore < 0) continue;
+
+    let score = prefixScore * 100;
+    if (v.default) score += 10;
+
+    for (const t of goodNameTokens) {
+      if (vName.includes(t)) score += 6;
+    }
+    for (const t of femaleNameTokens) {
+      if (vName.includes(t)) score += 14;
+    }
+    for (const t of maleNameTokens) {
+      if (vName.includes(t)) score -= 8;
+    }
+    for (const t of badNameTokens) {
+      if (vName.includes(t)) score -= 20;
+    }
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = v;
+    }
   }
-  return null;
+
+  return best || null;
 }
 
 // 🔊 TTS 보이스 초기화 (WebView voice loading 대응)
@@ -3228,9 +3328,14 @@ function speakGerman(text) {
   if (SETTINGS.soundEnabled === false) return;
 
   const targetLangCode = getTtsLangCode(SETTINGS.studyLang || "de");
+  const targetLang = (SETTINGS.studyLang || "de").toLowerCase();
+  const hasWebSpeech = "speechSynthesis" in window;
 
-  // 1) 네이티브 TTS 플러그인 우선 (Android 안정성)
-  if (hasNativeTtsSupport()) {
+  // 가능하면 Web Speech(voice 선택 가능)를 우선 사용해 여성 보이스 선호를 적용
+  const preferWebSpeech = hasWebSpeech;
+
+  // 1) 네이티브 TTS 플러그인 우선 (단, 영어는 Web Speech 우선)
+  if (!preferWebSpeech && hasNativeTtsSupport()) {
     NativeTTS.speak({
       text,
       lang: targetLangCode,
@@ -3260,13 +3365,18 @@ function speakGerman(text) {
     const voices = window.speechSynthesis.getVoices() || [];
     if (voices.length) {
       TTS_VOICE = pickTtsVoiceForLang(voices, SETTINGS.studyLang);
-      TTS_READY = true; // de-* 매칭이 없어도 lang으로 재생 시도 가능
+      TTS_READY = !!TTS_VOICE;
     }
     updateTtsUiState();
   }
 
   const utter = new SpeechSynthesisUtterance(text);
-  const targetLang = SETTINGS.studyLang || "de";
+
+  // 영어는 반드시 영어 보이스가 잡힌 경우만 재생 (한국어 억양 fallback 방지)
+  if (targetLang === "en" && !TTS_VOICE) {
+    showEnglishVoiceMissingWarning();
+    return;
+  }
 
   if (TTS_VOICE) {
     utter.voice = TTS_VOICE;

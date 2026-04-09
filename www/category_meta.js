@@ -84,15 +84,3 @@ const CATEGORY_META = {
     }
   }
 };
-
-const CATEGORY_EXAM_NAMES = {
-  de: "Goethe",
-  en: "TOEIC",         // 또는 TOEFL, IELTS 선택 가능
-  ko: "TOPIK",
-  es: "DELE",
-  fr: "DELF",
-  ja: "JLPT",
-  zh: "HSK",
-  it: "CELI",
-  ru: "TORFL"
-};
