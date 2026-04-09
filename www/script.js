@@ -11,6 +11,7 @@ const WORDS_DE_B1_SAFE = typeof WORDS_DE_B1 !== "undefined" ? WORDS_DE_B1 : [];
 const WORDS_ES_A1_SAFE = typeof WORDS_ES_A1 !== "undefined" ? WORDS_ES_A1 : [];
 const WORDS_ES_A2_SAFE = typeof WORDS_ES_A2 !== "undefined" ? WORDS_ES_A2 : [];
 const WORDS_ES_B1_SAFE = typeof WORDS_ES_B1 !== "undefined" ? WORDS_ES_B1 : [];
+const WORDS_ES_B2_SAFE = typeof WORDS_ES_B2 !== "undefined" ? WORDS_ES_B2 : [];
 const WORDS_EN_A1_SAFE = typeof WORDS_EN_A1 !== "undefined" ? WORDS_EN_A1 : [];
 const WORDS_EN_A2_SAFE = typeof WORDS_EN_A2 !== "undefined" ? WORDS_EN_A2 : [];
 const WORDS_EN_B1_SAFE = typeof WORDS_EN_B1 !== "undefined" ? WORDS_EN_B1 : [];
@@ -26,6 +27,7 @@ const ALL_WORDS_ES = [
   ...WORDS_ES_A1_SAFE,
   ...WORDS_ES_A2_SAFE,
   ...WORDS_ES_B1_SAFE,
+  ...WORDS_ES_B2_SAFE,
 ];
 
 const ALL_WORDS_EN = [
