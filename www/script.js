@@ -7,6 +7,7 @@
 const WORDS_DE_A1_SAFE = typeof WORDS_DE_A1 !== "undefined" ? WORDS_DE_A1 : [];
 const WORDS_DE_A2_SAFE = typeof WORDS_DE_A2 !== "undefined" ? WORDS_DE_A2 : [];
 const WORDS_DE_B1_SAFE = typeof WORDS_DE_B1 !== "undefined" ? WORDS_DE_B1 : [];
+const WORDS_DE_B2_SAFE = typeof WORDS_DE_B2 !== "undefined" ? WORDS_DE_B2 : [];
 
 const WORDS_ES_A1_SAFE = typeof WORDS_ES_A1 !== "undefined" ? WORDS_ES_A1 : [];
 const WORDS_ES_A2_SAFE = typeof WORDS_ES_A2 !== "undefined" ? WORDS_ES_A2 : [];
@@ -21,6 +22,7 @@ const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
   ...WORDS_DE_A2_SAFE,
   ...WORDS_DE_B1_SAFE,
+  ...WORDS_DE_B2_SAFE,
 ];
 
 const ALL_WORDS_ES = [
