@@ -17,6 +17,10 @@ const WORDS_EN_A1_SAFE = typeof WORDS_EN_A1 !== "undefined" ? WORDS_EN_A1 : [];
 const WORDS_EN_A2_SAFE = typeof WORDS_EN_A2 !== "undefined" ? WORDS_EN_A2 : [];
 const WORDS_EN_B1_SAFE = typeof WORDS_EN_B1 !== "undefined" ? WORDS_EN_B1 : [];
 const WORDS_EN_B2_SAFE = typeof WORDS_EN_B2 !== "undefined" ? WORDS_EN_B2 : [];
+const WORDS_FR_A1_SAFE = typeof WORDS_FR_A1 !== "undefined" ? WORDS_FR_A1 : [];
+const WORDS_FR_A2_SAFE = typeof WORDS_FR_A2 !== "undefined" ? WORDS_FR_A2 : [];
+const WORDS_FR_B1_SAFE = typeof WORDS_FR_B1 !== "undefined" ? WORDS_FR_B1 : [];
+const WORDS_FR_B2_SAFE = typeof WORDS_FR_B2 !== "undefined" ? WORDS_FR_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -37,6 +41,13 @@ const ALL_WORDS_EN = [
   ...WORDS_EN_A2_SAFE,
   ...WORDS_EN_B1_SAFE,
   ...WORDS_EN_B2_SAFE,
+];
+
+const ALL_WORDS_FR = [
+  ...WORDS_FR_A1_SAFE,
+  ...WORDS_FR_A2_SAFE,
+  ...WORDS_FR_B1_SAFE,
+  ...WORDS_FR_B2_SAFE,
 ];
 
 /* ============================================
@@ -129,8 +140,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "ko"]
-  : ["de", "es", "en"];
+  ? ["de", "es", "en", "fr", "ko"]
+  : ["de", "es", "en", "fr"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -1716,6 +1727,7 @@ function applyTranslations() {
     de: pack.study_lang_de || "Deutsch",
     es: pack.study_lang_es || "Español",
     en: pack.study_lang_en || "English",
+    fr: pack.study_lang_fr || "Français",
     ko: pack.study_lang_ko || "한국어",
   };
 
@@ -1802,6 +1814,7 @@ function updateTrainingSummaryPreview() {
 function getAllWords() {
   const study = (SETTINGS.studyLang || "de").toLowerCase();
   if (study === "en") return ALL_WORDS_EN || [];
+  if (study === "fr") return ALL_WORDS_FR || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
