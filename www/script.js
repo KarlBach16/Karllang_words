@@ -25,6 +25,10 @@ const WORDS_IT_A1_SAFE = typeof WORDS_IT_A1 !== "undefined" ? WORDS_IT_A1 : [];
 const WORDS_IT_A2_SAFE = typeof WORDS_IT_A2 !== "undefined" ? WORDS_IT_A2 : [];
 const WORDS_IT_B1_SAFE = typeof WORDS_IT_B1 !== "undefined" ? WORDS_IT_B1 : [];
 const WORDS_IT_B2_SAFE = typeof WORDS_IT_B2 !== "undefined" ? WORDS_IT_B2 : [];
+const WORDS_PT_A1_SAFE = typeof WORDS_PT_A1 !== "undefined" ? WORDS_PT_A1 : [];
+const WORDS_PT_A2_SAFE = typeof WORDS_PT_A2 !== "undefined" ? WORDS_PT_A2 : [];
+const WORDS_PT_B1_SAFE = typeof WORDS_PT_B1 !== "undefined" ? WORDS_PT_B1 : [];
+const WORDS_PT_B2_SAFE = typeof WORDS_PT_B2 !== "undefined" ? WORDS_PT_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -59,6 +63,13 @@ const ALL_WORDS_IT = [
   ...WORDS_IT_A2_SAFE,
   ...WORDS_IT_B1_SAFE,
   ...WORDS_IT_B2_SAFE,
+];
+
+const ALL_WORDS_PT = [
+  ...WORDS_PT_A1_SAFE,
+  ...WORDS_PT_A2_SAFE,
+  ...WORDS_PT_B1_SAFE,
+  ...WORDS_PT_B2_SAFE,
 ];
 
 /* ============================================
@@ -151,8 +162,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "ko"]
-  : ["de", "es", "en", "fr", "it"];
+  ? ["de", "es", "en", "fr", "it", "pt", "ko"]
+  : ["de", "es", "en", "fr", "it", "pt"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -1681,6 +1692,9 @@ function applyTranslations() {
       if (code === "it") {
         return t().study_lang_it || localName || "Italiano";
       }
+      if (code === "pt") {
+        return t().study_lang_pt || localName || "Português";
+      }
       if (code === "ko") {
         return t().study_lang_ko || localName || "한국어";
       }
@@ -1743,6 +1757,7 @@ function applyTranslations() {
     en: pack.study_lang_en || "English",
     fr: pack.study_lang_fr || "Français",
     it: pack.study_lang_it || "Italiano",
+    pt: pack.study_lang_pt || "Português",
     ko: pack.study_lang_ko || "한국어",
   };
 
@@ -1831,6 +1846,7 @@ function getAllWords() {
   if (study === "en") return ALL_WORDS_EN || [];
   if (study === "fr") return ALL_WORDS_FR || [];
   if (study === "it") return ALL_WORDS_IT || [];
+  if (study === "pt") return ALL_WORDS_PT || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
