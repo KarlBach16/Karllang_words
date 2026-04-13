@@ -20,4 +20,20 @@ const LANG_CONFIG = {
       space_variants: ["\u00A0", " "]  // non-breaking space
     }
   }
+,
+  nl: {
+    input_rules: {
+      case_sensitive: false,
+      article_required: true,
+      accents_optional: false
+    },
+    orthography: {
+      capitalization: "NONE"
+    },
+    punctuation_normalize: {
+      apostrophe_variants: ["'", "'"] ,
+      hyphen_variants: ["‐", "-", "–"],
+      space_variants: [" ", " "]
+    }
+  }
 };

@@ -69,6 +69,7 @@ start_screen_hint: "",
     study_lang_fr: "프랑스어",
     study_lang_it: "이탈리아어",
     study_lang_pt: "포르투갈어",
+    study_lang_nl: "네덜란드어",
 
     /* 설정 뷰 라벨 */
     settings_title: "설정",
@@ -210,6 +211,7 @@ en: {
     study_lang_fr: "French",
     study_lang_it: "Italian",
     study_lang_pt: "Portuguese",
+    study_lang_nl: "Dutch",
 
     /* 설정 */
     settings_title: "Settings",
@@ -352,6 +354,7 @@ de: {
     study_lang_fr: "Französisch",
     study_lang_it: "Italienisch",
     study_lang_pt: "Portugiesisch",
+    study_lang_nl: "Niederländisch",
 
     /* 설정 */
     settings_title: "Einstellungen",
@@ -495,6 +498,7 @@ es: {
     study_lang_fr: "Francés",
     study_lang_it: "Italiano",
     study_lang_pt: "Portugués",
+    study_lang_nl: "Neerlandés",
 
     /* 설정 */
     settings_title: "Ajustes",
@@ -639,6 +643,7 @@ fr: {
     study_lang_fr: "Français",
     study_lang_it: "Italien",
     study_lang_pt: "Portugais",
+    study_lang_nl: "Néerlandais",
 
     /* 설정 */
     settings_title: "Paramètres",
@@ -779,6 +784,7 @@ it: {
     study_lang_fr: "Francese",
     study_lang_it: "Italiano",
     study_lang_pt: "Portoghese",
+    study_lang_nl: "Olandese",
 
     /* 설정 */
     settings_title: "Impostazioni",
@@ -919,6 +925,7 @@ pt: {
     study_lang_fr: "Francês",
     study_lang_it: "Italiano",
     study_lang_pt: "Português",
+    study_lang_nl: "Neerlandês",
 
     /* 설정 */
     settings_title: "Configurações",
@@ -1059,6 +1066,7 @@ ja: {
     study_lang_fr: "フランス語",
     study_lang_it: "イタリア語",
     study_lang_pt: "ポルトガル語",
+    study_lang_nl: "オランダ語",
 
     /* 설정 */
     settings_title: "設定",
@@ -1199,6 +1207,7 @@ zh: {
     study_lang_fr: "法语",
     study_lang_it: "意大利语",
     study_lang_pt: "葡萄牙语",
+    study_lang_nl: "荷兰语",
 
     /* 설정 */
     settings_title: "设置",
@@ -1339,6 +1348,7 @@ ru: {
     study_lang_fr: "Французский",
     study_lang_it: "Итальянский",
     study_lang_pt: "Португальский",
+    study_lang_nl: "Нидерландский",
 
     /* 설정 */
     settings_title: "Настройки",
