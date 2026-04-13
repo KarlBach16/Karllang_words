@@ -110,34 +110,6 @@ const WORDS_DE_B2 = [
     "plural": "asse"
   },
   {
-    "id": "de_596",
-    "lemma": "gelingen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성공하다",
-      "en": "succeed",
-      "de": "gelingen",
-      "es": "lograr",
-      "fr": "réussir",
-      "it": "riuscire",
-      "pt": "conseguir",
-      "ja": "成功する",
-      "zh": "成功",
-      "ru": "удаваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gelingen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_600",
     "lemma": "gier",
     "pos": "Nomen",
@@ -246,62 +218,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_605",
-    "lemma": "auspacken",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "풀어내다",
-      "en": "unpack",
-      "de": "auspacken",
-      "es": "desempacar",
-      "fr": "déballer",
-      "it": "spacchettare",
-      "pt": "desempacotar",
-      "ja": "荷を解く",
-      "zh": "打开",
-      "ru": "распаковать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auspacken",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_606",
-    "lemma": "heizung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "난방",
-      "en": "heating",
-      "de": "die Heizung",
-      "es": "la calefacción",
-      "fr": "le chauffage",
-      "it": "il riscaldamento",
-      "pt": "o aquecimento",
-      "ja": "暖房",
-      "zh": "供暖",
-      "ru": "отопление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "heizungen"
-  },
-  {
     "id": "de_607",
     "lemma": "erzähler",
     "pos": "Nomen",
@@ -327,34 +243,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "erzähler"
-  },
-  {
-    "id": "de_611",
-    "lemma": "studentin",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "여학생",
-      "en": "female student",
-      "de": "die Studentin",
-      "es": "la estudiante",
-      "fr": "l'étudiante",
-      "it": "la studentessa",
-      "pt": "a estudante",
-      "ja": "女子学生",
-      "zh": "女学生",
-      "ru": "студентка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "studentinnen"
   },
   {
     "id": "de_612",
@@ -383,34 +271,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "booms"
-  },
-  {
-    "id": "de_613",
-    "lemma": "kleben",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "붙이다",
-      "en": "stick",
-      "de": "kleben",
-      "es": "pegar",
-      "fr": "coller",
-      "it": "incollare",
-      "pt": "colar",
-      "ja": "貼る",
-      "zh": "粘贴",
-      "ru": "клеить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kleben",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_615",
@@ -552,34 +412,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_628",
-    "lemma": "festplatte",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "하드디스크",
-      "en": "hard disk",
-      "de": "die Festplatte",
-      "es": "el disco duro",
-      "fr": "le disque dur",
-      "it": "il disco rigido",
-      "pt": "o disco rígido",
-      "ja": "ハードディスク",
-      "zh": "硬盘",
-      "ru": "жёсткий диск"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "festplatten"
-  },
-  {
     "id": "de_629",
     "lemma": "stoß",
     "pos": "Nomen",
@@ -661,58 +493,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_633",
-    "lemma": "sichtbar",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "보이는",
-      "en": "visible",
-      "de": "sichtbar",
-      "es": "visible",
-      "fr": "visible",
-      "it": "visibile",
-      "pt": "visível",
-      "ja": "見える",
-      "zh": "可见的",
-      "ru": "видимый"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "de_634",
-    "lemma": "vorschrift",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "규정",
-      "en": "regulation",
-      "de": "die Vorschrift",
-      "es": "la norma",
-      "fr": "la prescription",
-      "it": "la prescrizione",
-      "pt": "a prescrição",
-      "ja": "規定",
-      "zh": "规定",
-      "ru": "предписание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorschriften"
-  },
-  {
     "id": "de_636",
     "lemma": "substanz",
     "pos": "Nomen",
@@ -766,34 +546,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "schmetterlinge"
-  },
-  {
-    "id": "de_648",
-    "lemma": "baustelle",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "건설현장",
-      "en": "construction site",
-      "de": "die Baustelle",
-      "es": "la obra",
-      "fr": "le chantier",
-      "it": "il cantiere",
-      "pt": "o canteiro de obras",
-      "ja": "建設現場",
-      "zh": "建筑工地",
-      "ru": "строительная площадка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "baustellen"
   },
   {
     "id": "de_651",
@@ -1064,34 +816,6 @@ const WORDS_DE_B2 = [
     "plural": "internate"
   },
   {
-    "id": "de_683",
-    "lemma": "zeile",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "줄",
-      "en": "line",
-      "de": "die Zeile",
-      "es": "la línea",
-      "fr": "la ligne",
-      "it": "la riga",
-      "pt": "a linha",
-      "ja": "行",
-      "zh": "行",
-      "ru": "строка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zeilen"
-  },
-  {
     "id": "de_684",
     "lemma": "mühle",
     "pos": "Nomen",
@@ -1338,34 +1062,6 @@ const WORDS_DE_B2 = [
     "plural": "aufstiege"
   },
   {
-    "id": "de_707",
-    "lemma": "abfall",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "폐기물",
-      "en": "waste",
-      "de": "der Abfall",
-      "es": "los residuos",
-      "fr": "les déchets",
-      "it": "i rifiuti",
-      "pt": "o lixo",
-      "ja": "廃棄物",
-      "zh": "废物",
-      "ru": "отходы"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "abfälle"
-  },
-  {
     "id": "de_708",
     "lemma": "hauptrolle",
     "pos": "Nomen",
@@ -1392,34 +1088,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "hauptrollen"
-  },
-  {
-    "id": "de_709",
-    "lemma": "klingel",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "초인종",
-      "en": "doorbell",
-      "de": "die Klingel",
-      "es": "el timbre",
-      "fr": "la sonnette",
-      "it": "il campanello",
-      "pt": "a campainha",
-      "ja": "ドアベル",
-      "zh": "门铃",
-      "ru": "звонок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "klingeln"
   },
   {
     "id": "de_711",
@@ -1476,34 +1144,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "scanner"
-  },
-  {
-    "id": "de_719",
-    "lemma": "eisenbahn",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "철도",
-      "en": "railway",
-      "de": "die Eisenbahn",
-      "es": "el ferrocarril",
-      "fr": "le chemin de fer",
-      "it": "la ferrovia",
-      "pt": "a ferrovia",
-      "ja": "鉄道",
-      "zh": "铁路",
-      "ru": "железная дорога"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eisenbahnen"
   },
   {
     "id": "de_723",
@@ -1616,34 +1256,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": ""
-  },
-  {
-    "id": "de_732",
-    "lemma": "erlebnis",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "경험",
-      "en": "experience",
-      "de": "das Erlebnis",
-      "es": "la experiencia",
-      "fr": "l'expérience",
-      "it": "l'esperienza",
-      "pt": "a experiência",
-      "ja": "経験",
-      "zh": "经历",
-      "ru": "переживание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "erlebnisse"
   },
   {
     "id": "de_733",
@@ -1892,34 +1504,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "grundlagen"
-  },
-  {
-    "id": "de_752",
-    "lemma": "reihenfolge",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "순서",
-      "en": "sequence",
-      "de": "die Reihenfolge",
-      "es": "el orden",
-      "fr": "l'ordre",
-      "it": "l'ordine",
-      "pt": "a ordem",
-      "ja": "順序",
-      "zh": "顺序",
-      "ru": "последовательность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "reihenfolgen"
   },
   {
     "id": "de_754",
@@ -2171,34 +1755,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_772",
-    "lemma": "behörde",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "관청",
-      "en": "authority",
-      "de": "die Behörde",
-      "es": "la autoridad",
-      "fr": "l'autorité",
-      "it": "l'autorità",
-      "pt": "a autoridade",
-      "ja": "官庁",
-      "zh": "当局",
-      "ru": "орган"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "behörden"
-  },
-  {
     "id": "de_774",
     "lemma": "gedeckt",
     "pos": "Adjektiv",
@@ -2221,34 +1777,6 @@ const WORDS_DE_B2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "de_777",
-    "lemma": "verwechseln",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "헷갈리다",
-      "en": "confuse",
-      "de": "verwechseln",
-      "es": "confundir",
-      "fr": "confondre",
-      "it": "confondere",
-      "pt": "confundir",
-      "ja": "混同する",
-      "zh": "混淆",
-      "ru": "путать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verwechseln",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_778",
@@ -2300,34 +1828,6 @@ const WORDS_DE_B2 = [
     "examples": [],
     "meta": {},
     "infinitive": "vergrößern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_782",
-    "lemma": "anhaben",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "입다",
-      "en": "wear",
-      "de": "anhaben",
-      "es": "llevar puesto",
-      "fr": "porter",
-      "it": "indossare",
-      "pt": "vestir",
-      "ja": "着ている",
-      "zh": "穿着",
-      "ru": "носить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anhaben",
     "reflexive": false,
     "irregular": null
   },
@@ -2498,33 +1998,6 @@ const WORDS_DE_B2 = [
     "plural": "senfe"
   },
   {
-    "id": "de_794",
-    "lemma": "verwaltung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "행정",
-      "en": "administration",
-      "de": "die Verwaltung",
-      "es": "la administración",
-      "fr": "l'administration",
-      "it": "l'amministrazione",
-      "pt": "a administração",
-      "ja": "行政",
-      "zh": "行政",
-      "ru": "администрация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verwaltungen"
-  },
-  {
     "id": "de_796",
     "lemma": "scherzen",
     "pos": "Verb",
@@ -2686,31 +2159,6 @@ const WORDS_DE_B2 = [
     "infinitive": "profitieren",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_816",
-    "lemma": "vorläufig",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "임시적인",
-      "en": "provisional",
-      "de": "vorläufig",
-      "es": "provisional",
-      "fr": "provisoire",
-      "it": "provvisorio",
-      "pt": "provisório",
-      "ja": "暫定的な",
-      "zh": "临时的",
-      "ru": "временный"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_817",
@@ -2904,34 +2352,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "begleiter"
-  },
-  {
-    "id": "de_835",
-    "lemma": "ober",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "웨이터",
-      "en": "waiter",
-      "de": "der Ober",
-      "es": "el camarero",
-      "fr": "le serveur",
-      "it": "il cameriere",
-      "pt": "o garçom",
-      "ja": "ウェイター",
-      "zh": "服务员",
-      "ru": "официант"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ober"
   },
   {
     "id": "de_837",
@@ -3495,34 +2915,6 @@ const WORDS_DE_B2 = [
     "plural": "schwerkräfte"
   },
   {
-    "id": "de_870",
-    "lemma": "frucht",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "과일",
-      "en": "fruit",
-      "de": "die Frucht",
-      "es": "la fruta",
-      "fr": "le fruit",
-      "it": "il frutto",
-      "pt": "o fruto",
-      "ja": "果物",
-      "zh": "水果",
-      "ru": "фрукт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "früchte"
-  },
-  {
     "id": "de_873",
     "lemma": "pulli",
     "pos": "Nomen",
@@ -3959,31 +3351,6 @@ const WORDS_DE_B2 = [
     "plural": ""
   },
   {
-    "id": "de_899",
-    "lemma": "intensiv",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "강렬한",
-      "en": "intense",
-      "de": "intensiv",
-      "es": "intenso",
-      "fr": "intensif",
-      "it": "intenso",
-      "pt": "intenso",
-      "ja": "激しい",
-      "zh": "强烈的",
-      "ru": "интенсивный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_901",
     "lemma": "defekt",
     "pos": "Nomen",
@@ -4229,62 +3596,6 @@ const WORDS_DE_B2 = [
     "plural": "managements"
   },
   {
-    "id": "de_915",
-    "lemma": "eröffnung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "개시",
-      "en": "opening",
-      "de": "die Eröffnung",
-      "es": "la apertura",
-      "fr": "l'ouverture",
-      "it": "l'apertura",
-      "pt": "a abertura",
-      "ja": "開始",
-      "zh": "开幕",
-      "ru": "открытие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eröffnungen"
-  },
-  {
-    "id": "de_916",
-    "lemma": "grill",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "그릴",
-      "en": "grill",
-      "de": "der Grill",
-      "es": "la parrilla",
-      "fr": "le gril",
-      "it": "la griglia",
-      "pt": "a grelha",
-      "ja": "グリル",
-      "zh": "烤架",
-      "ru": "гриль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "grills"
-  },
-  {
     "id": "de_918",
     "lemma": "würfel",
     "pos": "Nomen",
@@ -4338,34 +3649,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": ""
-  },
-  {
-    "id": "de_923",
-    "lemma": "stadion",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "경기장",
-      "en": "stadium",
-      "de": "das Stadion",
-      "es": "el estadio",
-      "fr": "le stade",
-      "it": "lo stadio",
-      "pt": "o estádio",
-      "ja": "スタジアム",
-      "zh": "体育场",
-      "ru": "стадион"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "stadien"
   },
   {
     "id": "de_924",
@@ -4533,30 +3816,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "gruben"
-  },
-  {
-    "id": "de_935",
-    "lemma": "schriftlich",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "서면의",
-      "en": "written",
-      "de": "schriftlich",
-      "es": "escrito",
-      "fr": "écrit",
-      "it": "scritto",
-      "pt": "escrito",
-      "ja": "書面の",
-      "zh": "书面的",
-      "ru": "письменный"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_936",
@@ -4825,34 +4084,6 @@ const WORDS_DE_B2 = [
     "plural": "auslöser"
   },
   {
-    "id": "de_952",
-    "lemma": "kündigung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "해지",
-      "en": "termination",
-      "de": "die Kündigung",
-      "es": "la rescisión",
-      "fr": "la résiliation",
-      "it": "la disdetta",
-      "pt": "a rescisão",
-      "ja": "解除",
-      "zh": "终止",
-      "ru": "расторжение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kündigungen"
-  },
-  {
     "id": "de_954",
     "lemma": "server",
     "pos": "Nomen",
@@ -4907,34 +4138,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "leibwächter"
-  },
-  {
-    "id": "de_957",
-    "lemma": "angeben",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "진술하다",
-      "en": "state",
-      "de": "angeben",
-      "es": "indicar",
-      "fr": "indiquer",
-      "it": "indicare",
-      "pt": "indicar",
-      "ja": "述べる",
-      "zh": "陈述",
-      "ru": "указывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "angeben",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_962",
@@ -5077,34 +4280,6 @@ const WORDS_DE_B2 = [
     "plural": ""
   },
   {
-    "id": "de_974",
-    "lemma": "präsentation",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "travel",
-      "work"
-    ],
-    "meanings": {
-      "ko": "발표",
-      "en": "presentation",
-      "de": "die Präsentation",
-      "es": "la presentación",
-      "fr": "la présentation",
-      "it": "la presentazione",
-      "pt": "a apresentação",
-      "ja": "プレゼンテーション",
-      "zh": "演讲",
-      "ru": "презентация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "präsentationen"
-  },
-  {
     "id": "de_975",
     "lemma": "häuschen",
     "pos": "Nomen",
@@ -5242,31 +4417,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_984",
-    "lemma": "zuverlässig",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "신뢰할 수 있는",
-      "en": "reliable",
-      "de": "zuverlässig",
-      "es": "confiable",
-      "fr": "fiable",
-      "it": "affidabile",
-      "pt": "confiável",
-      "ja": "信頼できる",
-      "zh": "可靠的",
-      "ru": "надежный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_985",
     "lemma": "aufprall",
     "pos": "Nomen",
@@ -5293,34 +4443,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "aufpralle"
-  },
-  {
-    "id": "de_986",
-    "lemma": "vorwurf",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "비난",
-      "en": "accusation",
-      "de": "der Vorwurf",
-      "es": "la acusación",
-      "fr": "l'accusation",
-      "it": "l'accusa",
-      "pt": "a acusação",
-      "ja": "非難",
-      "zh": "指责",
-      "ru": "обвинение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vorwürfe"
   },
   {
     "id": "de_988",
@@ -6801,62 +5923,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_1113",
-    "lemma": "auffallen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "눈에띄다",
-      "en": "stand out",
-      "de": "auffallen",
-      "es": "destacar",
-      "fr": "se remarquer",
-      "it": "spiccare",
-      "pt": "destacar",
-      "ja": "目立つ",
-      "zh": "引人注目",
-      "ru": "выделяться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auffallen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_1115",
-    "lemma": "besserung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "회복",
-      "en": "recovery",
-      "de": "die Besserung",
-      "es": "la mejoría",
-      "fr": "l'amélioration",
-      "it": "il miglioramento",
-      "pt": "a melhora",
-      "ja": "回復",
-      "zh": "恢复",
-      "ru": "выздоровление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "besserungen"
-  },
-  {
     "id": "de_1116",
     "lemma": "karton",
     "pos": "Nomen",
@@ -7047,34 +6113,6 @@ const WORDS_DE_B2 = [
     "infinitive": "unterschätzen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_1127",
-    "lemma": "hausfrau",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "가정주부",
-      "en": "housewife",
-      "de": "die Hausfrau",
-      "es": "la ama de casa",
-      "fr": "la femme au foyer",
-      "it": "la casalinga",
-      "pt": "a dona de casa",
-      "ja": "主婦",
-      "zh": "家庭主妇",
-      "ru": "домохозяйка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hausfrauen"
   },
   {
     "id": "de_1128",
@@ -7968,33 +7006,6 @@ const WORDS_DE_B2 = [
     "plural": "unabhängigkeiten"
   },
   {
-    "id": "de_1198",
-    "lemma": "einbrechen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "침입하다",
-      "en": "break in",
-      "de": "einbrechen",
-      "es": "irrumpir",
-      "fr": "s'introduire",
-      "it": "irrompere",
-      "pt": "invadir",
-      "ja": "侵入する",
-      "zh": "闯入",
-      "ru": "вламываться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einbrechen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1199",
     "lemma": "lücke",
     "pos": "Nomen",
@@ -8269,33 +7280,6 @@ const WORDS_DE_B2 = [
     "plural": "kommissionen"
   },
   {
-    "id": "de_1217",
-    "lemma": "mehrheit",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "다수",
-      "en": "majority",
-      "de": "die Mehrheit",
-      "es": "la mayoría",
-      "fr": "la majorité",
-      "it": "la maggioranza",
-      "pt": "a maioria",
-      "ja": "多数",
-      "zh": "多数",
-      "ru": "большинство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mehrheiten"
-  },
-  {
     "id": "de_1219",
     "lemma": "abreißen",
     "pos": "Verb",
@@ -8537,34 +7521,6 @@ const WORDS_DE_B2 = [
     "gender": "das",
     "article": "das",
     "plural": "medien"
-  },
-  {
-    "id": "de_1240",
-    "lemma": "anwenden",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "적용하다",
-      "en": "apply",
-      "de": "anwenden",
-      "es": "aplicar",
-      "fr": "appliquer",
-      "it": "applicare",
-      "pt": "aplicar",
-      "ja": "適用する",
-      "zh": "应用",
-      "ru": "применять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anwenden",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_1241",
@@ -9034,31 +7990,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_1298",
-    "lemma": "allgemein",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "일반적인",
-      "en": "general",
-      "de": "allgemein",
-      "es": "general",
-      "fr": "général",
-      "it": "generale",
-      "pt": "geral",
-      "ja": "一般的な",
-      "zh": "一般的",
-      "ru": "общий"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_1300",
     "lemma": "evolution",
     "pos": "Nomen",
@@ -9085,34 +8016,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "evolutionen"
-  },
-  {
-    "id": "de_1304",
-    "lemma": "marmelade",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "잼",
-      "en": "jam",
-      "de": "die Marmelade",
-      "es": "la mermelada",
-      "fr": "la confiture",
-      "it": "la marmellata",
-      "pt": "a geleia",
-      "ja": "ジャム",
-      "zh": "果酱",
-      "ru": "варенье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "marmeladen"
   },
   {
     "id": "de_1305",
@@ -9161,31 +8064,6 @@ const WORDS_DE_B2 = [
       "ja": "無傷の",
       "zh": "完好的",
       "ru": "невредимый"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "de_1308",
-    "lemma": "gering",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "작은",
-      "en": "small",
-      "de": "gering",
-      "es": "pequeño",
-      "fr": "petit",
-      "it": "piccolo",
-      "pt": "pequeno",
-      "ja": "小さい",
-      "zh": "小的",
-      "ru": "маленький"
     },
     "examples": [],
     "meta": {}
@@ -9243,55 +8121,6 @@ const WORDS_DE_B2 = [
     "infinitive": "schnarchen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_1319",
-    "lemma": "ärgerlich",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "짜증나는",
-      "en": "annoying",
-      "de": "ärgerlich",
-      "es": "molesto",
-      "fr": "agaçant",
-      "it": "fastidioso",
-      "pt": "irritante",
-      "ja": "イライラさせる",
-      "zh": "令人恼火的",
-      "ru": "раздражающий"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "de_1322",
-    "lemma": "erforderlich",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "필요한",
-      "en": "required",
-      "de": "erforderlich",
-      "es": "requerido",
-      "fr": "requis",
-      "it": "richiesto",
-      "pt": "necessário",
-      "ja": "必要な",
-      "zh": "必需的",
-      "ru": "необходимый"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_1325",
@@ -9789,90 +8618,6 @@ const WORDS_DE_B2 = [
     "plural": "hirsche"
   },
   {
-    "id": "de_1375",
-    "lemma": "zuschauen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "지켜보다",
-      "en": "watch",
-      "de": "zuschauen",
-      "es": "mirar",
-      "fr": "regarder",
-      "it": "guardare",
-      "pt": "assistir",
-      "ja": "見守る",
-      "zh": "观看",
-      "ru": "смотреть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zuschauen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_1376",
-    "lemma": "abstimmen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "travel",
-      "work"
-    ],
-    "meanings": {
-      "ko": "투표하다",
-      "en": "vote",
-      "de": "abstimmen",
-      "es": "votar",
-      "fr": "voter",
-      "it": "votare",
-      "pt": "votar",
-      "ja": "投票する",
-      "zh": "投票",
-      "ru": "голосовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abstimmen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_1381",
-    "lemma": "portion",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "한 끼 분량",
-      "en": "portion",
-      "de": "die Portion",
-      "es": "la porción",
-      "fr": "la portion",
-      "it": "la porzione",
-      "pt": "a porção",
-      "ja": "一食分",
-      "zh": "一份",
-      "ru": "порция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "portionen"
-  },
-  {
     "id": "de_1383",
     "lemma": "bemerkung",
     "pos": "Nomen",
@@ -9982,60 +8727,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "expeditionen"
-  },
-  {
-    "id": "de_1392",
-    "lemma": "änderung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "변화",
-      "en": "change",
-      "de": "die Änderung",
-      "es": "el cambio",
-      "fr": "le changement",
-      "it": "il cambiamento",
-      "pt": "a mudança",
-      "ja": "変化",
-      "zh": "变化",
-      "ru": "изменение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "änderungen"
-  },
-  {
-    "id": "de_1395",
-    "lemma": "parlament",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "의회",
-      "en": "parliament",
-      "de": "das Parlament",
-      "es": "el parlamento",
-      "fr": "le parlement",
-      "it": "il parlamento",
-      "pt": "o parlamento",
-      "ja": "議会",
-      "zh": "议会",
-      "ru": "парламент"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "parlamente"
   },
   {
     "id": "de_1397",
@@ -10227,34 +8918,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "nüsse"
-  },
-  {
-    "id": "de_1414",
-    "lemma": "einkommen",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "소득",
-      "en": "income",
-      "de": "das Einkommen",
-      "es": "el ingreso",
-      "fr": "le revenu",
-      "it": "il reddito",
-      "pt": "a renda",
-      "ja": "収入",
-      "zh": "收入",
-      "ru": "доход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "einkommen"
   },
   {
     "id": "de_1416",
@@ -10498,34 +9161,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_1428",
-    "lemma": "anstrengen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "노력하다",
-      "en": "exert",
-      "de": "anstrengen",
-      "es": "esforzarse",
-      "fr": "s'efforcer",
-      "it": "sforzarsi",
-      "pt": "esforçar",
-      "ja": "努力する",
-      "zh": "努力",
-      "ru": "напрягаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anstrengen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1429",
     "lemma": "richterin",
     "pos": "Nomen",
@@ -10580,34 +9215,6 @@ const WORDS_DE_B2 = [
     "infinitive": "schweben",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_1435",
-    "lemma": "formular",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "양식",
-      "en": "form",
-      "de": "das Formular",
-      "es": "el formulario",
-      "fr": "le formulaire",
-      "it": "il modulo",
-      "pt": "o formulário",
-      "ja": "様式",
-      "zh": "表格",
-      "ru": "форма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "formulare"
   },
   {
     "id": "de_1438",
@@ -10720,34 +9327,6 @@ const WORDS_DE_B2 = [
     "infinitive": "lagern",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_1445",
-    "lemma": "bremse",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "제동장치",
-      "en": "brake",
-      "de": "die Bremse",
-      "es": "el freno",
-      "fr": "le frein",
-      "it": "il freno",
-      "pt": "o freio",
-      "ja": "ブレーキ",
-      "zh": "制动器",
-      "ru": "тормоз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bremsen"
   },
   {
     "id": "de_1447",
@@ -10987,33 +9566,6 @@ const WORDS_DE_B2 = [
     "infinitive": "zerreißen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_1467",
-    "lemma": "zeugnis",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "증명서",
-      "en": "certificate",
-      "de": "das Zeugnis",
-      "es": "el certificado",
-      "fr": "le certificat",
-      "it": "il certificato",
-      "pt": "o certificado",
-      "ja": "証明書",
-      "zh": "证书",
-      "ru": "свидетельство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "zeugnisse"
   },
   {
     "id": "de_1469",
@@ -11263,34 +9815,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_1489",
-    "lemma": "erziehen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "교육하다",
-      "en": "educate",
-      "de": "erziehen",
-      "es": "educar",
-      "fr": "éduquer",
-      "it": "educare",
-      "pt": "educar",
-      "ja": "教育する",
-      "zh": "教育",
-      "ru": "воспитывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erziehen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1491",
     "lemma": "kappe",
     "pos": "Nomen",
@@ -11375,31 +9899,6 @@ const WORDS_DE_B2 = [
     "plural": "triumphe"
   },
   {
-    "id": "de_1498",
-    "lemma": "begrenzt",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "제한된",
-      "en": "limited",
-      "de": "begrenzt",
-      "es": "limitado",
-      "fr": "limité",
-      "it": "limitato",
-      "pt": "limitado",
-      "ja": "限定された",
-      "zh": "有限的",
-      "ru": "ограниченный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_1500",
     "lemma": "neid",
     "pos": "Nomen",
@@ -11426,34 +9925,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": ""
-  },
-  {
-    "id": "de_1503",
-    "lemma": "auskunft",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "정보",
-      "en": "information",
-      "de": "die Auskunft",
-      "es": "la información",
-      "fr": "l'information",
-      "it": "l'informazione",
-      "pt": "a informação",
-      "ja": "情報",
-      "zh": "信息",
-      "ru": "информация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "auskünfte"
   },
   {
     "id": "de_1506",
@@ -11917,34 +10388,6 @@ const WORDS_DE_B2 = [
     "plural": "spitznamen"
   },
   {
-    "id": "de_1549",
-    "lemma": "senior",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "노인",
-      "en": "senior",
-      "de": "der Senior",
-      "es": "el anciano",
-      "fr": "le senior",
-      "it": "l'anziano",
-      "pt": "o idoso",
-      "ja": "高齢者",
-      "zh": "老年人",
-      "ru": "пожилой человек"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "senioren"
-  },
-  {
     "id": "de_1552",
     "lemma": "angeber",
     "pos": "Nomen",
@@ -12105,34 +10548,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_1565",
-    "lemma": "vermieter",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "임대인",
-      "en": "landlord",
-      "de": "der Vermieter",
-      "es": "el arrendador",
-      "fr": "le propriétaire",
-      "it": "il locatore",
-      "pt": "o proprietário",
-      "ja": "大家",
-      "zh": "房东",
-      "ru": "арендодатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vermieter"
-  },
-  {
     "id": "de_1566",
     "lemma": "truhe",
     "pos": "Nomen",
@@ -12187,34 +10602,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "scheinwerfer"
-  },
-  {
-    "id": "de_1570",
-    "lemma": "abheben",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "들어올리다",
-      "en": "lift",
-      "de": "abheben",
-      "es": "levantar",
-      "fr": "soulever",
-      "it": "sollevare",
-      "pt": "levantar",
-      "ja": "持ち上げる",
-      "zh": "抬起",
-      "ru": "поднимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abheben",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_1572",
@@ -13063,34 +11450,6 @@ const WORDS_DE_B2 = [
     "plural": "kasinos"
   },
   {
-    "id": "de_1634",
-    "lemma": "fahrkarte",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "승차권",
-      "en": "ticket",
-      "de": "die Fahrkarte",
-      "es": "el billete",
-      "fr": "le billet",
-      "it": "il biglietto",
-      "pt": "a passagem",
-      "ja": "乗車券",
-      "zh": "车票",
-      "ru": "билет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fahrkarten"
-  },
-  {
     "id": "de_1636",
     "lemma": "listen",
     "pos": "Verb",
@@ -13591,34 +11950,6 @@ const WORDS_DE_B2 = [
     "plural": "vormittage"
   },
   {
-    "id": "de_1672",
-    "lemma": "auswählen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "선택하다",
-      "en": "select",
-      "de": "auswählen",
-      "es": "seleccionar",
-      "fr": "sélectionner",
-      "it": "selezionare",
-      "pt": "selecionar",
-      "ja": "選択する",
-      "zh": "选择",
-      "ru": "выбирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auswählen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1677",
     "lemma": "biene",
     "pos": "Nomen",
@@ -13896,34 +12227,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_1704",
-    "lemma": "reduzieren",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "줄이다",
-      "en": "reduce",
-      "de": "reduzieren",
-      "es": "reducir",
-      "fr": "réduire",
-      "it": "ridurre",
-      "pt": "reduzir",
-      "ja": "減らす",
-      "zh": "减少",
-      "ru": "сокращать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reduzieren",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1705",
     "lemma": "ungeschickt",
     "pos": "Adjektiv",
@@ -14167,62 +12470,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_1731",
-    "lemma": "erleichtern",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "쉽게 하다",
-      "en": "facilitate",
-      "de": "erleichtern",
-      "es": "facilitar",
-      "fr": "faciliter",
-      "it": "facilitare",
-      "pt": "facilitar",
-      "ja": "容易にする",
-      "zh": "便利",
-      "ru": "облегчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erleichtern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_1733",
-    "lemma": "verein",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "협회",
-      "en": "association",
-      "de": "der Verein",
-      "es": "la asociación",
-      "fr": "l'association",
-      "it": "l'associazione",
-      "pt": "a associação",
-      "ja": "協会",
-      "zh": "协会",
-      "ru": "ассоциация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vereine"
-  },
-  {
     "id": "de_1736",
     "lemma": "metapher",
     "pos": "Nomen",
@@ -14248,31 +12495,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "metaphern"
-  },
-  {
-    "id": "de_1737",
-    "lemma": "maximal",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "최대의",
-      "en": "maximal",
-      "de": "maximal",
-      "es": "máximo",
-      "fr": "maximal",
-      "it": "massimale",
-      "pt": "máximo",
-      "ja": "最大の",
-      "zh": "最大的",
-      "ru": "максимальный"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_1738",
@@ -14943,31 +13165,6 @@ const WORDS_DE_B2 = [
     "plural": "klientinnen"
   },
   {
-    "id": "de_1802",
-    "lemma": "sympathisch",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "호감가는",
-      "en": "likeable",
-      "de": "sympathisch",
-      "es": "simpático",
-      "fr": "sympathique",
-      "it": "simpatico",
-      "pt": "simpático",
-      "ja": "好感的な",
-      "zh": "讨人喜欢的",
-      "ru": "симпатичный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_1803",
     "lemma": "verwöhnt",
     "pos": "Adjektiv",
@@ -15505,34 +13702,6 @@ const WORDS_DE_B2 = [
     "plural": "russen"
   },
   {
-    "id": "de_1841",
-    "lemma": "ausfallen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "중단되다",
-      "en": "cancel",
-      "de": "ausfallen",
-      "es": "cancelarse",
-      "fr": "être annulé",
-      "it": "annullarsi",
-      "pt": "ser cancelado",
-      "ja": "中止される",
-      "zh": "取消",
-      "ru": "отменяться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausfallen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1842",
     "lemma": "zeh",
     "pos": "Nomen",
@@ -15616,34 +13785,6 @@ const WORDS_DE_B2 = [
     "plural": "zulassungen"
   },
   {
-    "id": "de_1854",
-    "lemma": "planung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "계획",
-      "en": "planning",
-      "de": "die Planung",
-      "es": "la planificación",
-      "fr": "la planification",
-      "it": "la pianificazione",
-      "pt": "o planejamento",
-      "ja": "計画",
-      "zh": "规划",
-      "ru": "планирование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "planungen"
-  },
-  {
     "id": "de_1855",
     "lemma": "territorium",
     "pos": "Nomen",
@@ -15698,34 +13839,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_1859",
-    "lemma": "tanken",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "연료를 넣다",
-      "en": "refuel",
-      "de": "tanken",
-      "es": "repostar",
-      "fr": "faire le plein",
-      "it": "fare rifornimento",
-      "pt": "abastecer",
-      "ja": "給油する",
-      "zh": "加油",
-      "ru": "заправляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tanken",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1860",
     "lemma": "einschüchtern",
     "pos": "Verb",
@@ -15750,34 +13863,6 @@ const WORDS_DE_B2 = [
     "examples": [],
     "meta": {},
     "infinitive": "einschüchtern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_1863",
-    "lemma": "berechnen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "계산하다",
-      "en": "calculate",
-      "de": "berechnen",
-      "es": "calcular",
-      "fr": "calculer",
-      "it": "calcolare",
-      "pt": "calcular",
-      "ja": "計算する",
-      "zh": "计算",
-      "ru": "вычислять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "berechnen",
     "reflexive": false,
     "irregular": null
   },
@@ -15892,34 +13977,6 @@ const WORDS_DE_B2 = [
     "gender": "das",
     "article": "das",
     "plural": "mikrofone"
-  },
-  {
-    "id": "de_1875",
-    "lemma": "wiese",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "초원",
-      "en": "meadow",
-      "de": "die Wiese",
-      "es": "la pradera",
-      "fr": "la prairie",
-      "it": "il prato",
-      "pt": "o prado",
-      "ja": "草原",
-      "zh": "草地",
-      "ru": "луг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wiesen"
   },
   {
     "id": "de_1877",
@@ -16303,31 +14360,6 @@ const WORDS_DE_B2 = [
     "plural": "lehnen"
   },
   {
-    "id": "de_1908",
-    "lemma": "giftig",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "독성의",
-      "en": "toxic",
-      "de": "giftig",
-      "es": "tóxico",
-      "fr": "toxique",
-      "it": "tossico",
-      "pt": "tóxico",
-      "ja": "有毒の",
-      "zh": "有毒的",
-      "ru": "ядовитый"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_1912",
     "lemma": "freilassung",
     "pos": "Nomen",
@@ -16697,34 +14729,6 @@ const WORDS_DE_B2 = [
     "plural": "hüter"
   },
   {
-    "id": "de_1938",
-    "lemma": "buchen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "기록하다",
-      "en": "book",
-      "de": "buchen",
-      "es": "registrar",
-      "fr": "enregistrer",
-      "it": "registrare",
-      "pt": "registrar",
-      "ja": "記録する",
-      "zh": "记录",
-      "ru": "записывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "buchen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_1940",
     "lemma": "leiste",
     "pos": "Nomen",
@@ -17021,34 +15025,6 @@ const WORDS_DE_B2 = [
     "plural": "klebebänder"
   },
   {
-    "id": "de_1958",
-    "lemma": "metzger",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "정육점주인",
-      "en": "butcher",
-      "de": "der Metzger",
-      "es": "el carnicero",
-      "fr": "le boucher",
-      "it": "il macellaio",
-      "pt": "o açougueiro",
-      "ja": "肉屋",
-      "zh": "屠夫",
-      "ru": "мясник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "metzger"
-  },
-  {
     "id": "de_1960",
     "lemma": "ehering",
     "pos": "Nomen",
@@ -17328,62 +15304,6 @@ const WORDS_DE_B2 = [
     "plural": "therapeuten"
   },
   {
-    "id": "de_1981",
-    "lemma": "dialog",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "대화",
-      "en": "dialogue",
-      "de": "der Dialog",
-      "es": "el diálogo",
-      "fr": "le dialogue",
-      "it": "il dialogo",
-      "pt": "o diálogo",
-      "ja": "対話",
-      "zh": "对话",
-      "ru": "диалог"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "dialoge"
-  },
-  {
-    "id": "de_1986",
-    "lemma": "bäckerei",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "제빵소",
-      "en": "bakery",
-      "de": "die Bäckerei",
-      "es": "la panadería",
-      "fr": "la boulangerie",
-      "it": "la panetteria",
-      "pt": "a padaria",
-      "ja": "パン屋",
-      "zh": "面包店",
-      "ru": "пекарня"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bäckereien"
-  },
-  {
     "id": "de_1999",
     "lemma": "aufklärung",
     "pos": "Nomen",
@@ -17410,62 +15330,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "aufklärungen"
-  },
-  {
-    "id": "de_2008",
-    "lemma": "bewerbung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "지원",
-      "en": "application",
-      "de": "die Bewerbung",
-      "es": "la solicitud",
-      "fr": "la candidature",
-      "it": "la candidatura",
-      "pt": "a candidatura",
-      "ja": "応募",
-      "zh": "申请",
-      "ru": "заявление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bewerbungen"
-  },
-  {
-    "id": "de_2011",
-    "lemma": "protest",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "항의",
-      "en": "protest",
-      "de": "der Protest",
-      "es": "la protesta",
-      "fr": "la protestation",
-      "it": "la protesta",
-      "pt": "o protesto",
-      "ja": "抗議",
-      "zh": "抗议",
-      "ru": "протест"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "proteste"
   },
   {
     "id": "de_2024",
@@ -17632,34 +15496,6 @@ const WORDS_DE_B2 = [
     "plural": "reaktoren"
   },
   {
-    "id": "de_2042",
-    "lemma": "kompromiss",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "타협",
-      "en": "compromise",
-      "de": "der Kompromiss",
-      "es": "el compromiso",
-      "fr": "le compromis",
-      "it": "il compromesso",
-      "pt": "o compromisso",
-      "ja": "妥協",
-      "zh": "妥协",
-      "ru": "компромисс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kompromisse"
-  },
-  {
     "id": "de_2046",
     "lemma": "vorlesung",
     "pos": "Nomen",
@@ -17772,34 +15608,6 @@ const WORDS_DE_B2 = [
     "plural": "gründer"
   },
   {
-    "id": "de_2058",
-    "lemma": "industrie",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "산업",
-      "en": "industry",
-      "de": "die Industrie",
-      "es": "la industria",
-      "fr": "l'industrie",
-      "it": "l'industria",
-      "pt": "a indústria",
-      "ja": "産業",
-      "zh": "产业",
-      "ru": "промышленность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "industrien"
-  },
-  {
     "id": "de_2059",
     "lemma": "frühjahr",
     "pos": "Nomen",
@@ -17881,34 +15689,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_2065",
-    "lemma": "hähnchen",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "닭",
-      "en": "chicken",
-      "de": "das Hähnchen",
-      "es": "el pollo",
-      "fr": "le poulet",
-      "it": "il pollo",
-      "pt": "o frango",
-      "ja": "鶏",
-      "zh": "鸡",
-      "ru": "курица"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "hähnchen"
-  },
-  {
     "id": "de_2068",
     "lemma": "ehrgeizig",
     "pos": "Adjektiv",
@@ -17984,61 +15764,6 @@ const WORDS_DE_B2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "de_2073",
-    "lemma": "handwerker",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "장인",
-      "en": "craftsman",
-      "de": "der Handwerker",
-      "es": "el artesano",
-      "fr": "l'artisan",
-      "it": "l'artigiano",
-      "pt": "o artesão",
-      "ja": "職人",
-      "zh": "工匠",
-      "ru": "ремесленник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "handwerker"
-  },
-  {
-    "id": "de_2075",
-    "lemma": "ausstellen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "전시하다",
-      "en": "exhibit",
-      "de": "ausstellen",
-      "es": "exponer",
-      "fr": "exposer",
-      "it": "esporre",
-      "pt": "exibir",
-      "ja": "展示する",
-      "zh": "展览",
-      "ru": "выставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausstellen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2077",
@@ -18421,34 +16146,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "trophäen"
-  },
-  {
-    "id": "de_2120",
-    "lemma": "pfanne",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "팬",
-      "en": "pan",
-      "de": "die Pfanne",
-      "es": "la sartén",
-      "fr": "la poêle",
-      "it": "la padella",
-      "pt": "a frigideira",
-      "ja": "フライパン",
-      "zh": "平底锅",
-      "ru": "сковорода"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "pfannen"
   },
   {
     "id": "de_2121",
@@ -18892,34 +16589,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "waisen"
-  },
-  {
-    "id": "de_2170",
-    "lemma": "trocknen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "말리다",
-      "en": "dry",
-      "de": "trocknen",
-      "es": "secar",
-      "fr": "sécher",
-      "it": "asciugare",
-      "pt": "secar",
-      "ja": "乾かす",
-      "zh": "干燥",
-      "ru": "сушить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trocknen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2173",
@@ -19388,34 +17057,6 @@ const WORDS_DE_B2 = [
     "plural": "verschlüsse"
   },
   {
-    "id": "de_2220",
-    "lemma": "besetzen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "점유하다",
-      "en": "occupy",
-      "de": "besetzen",
-      "es": "ocupar",
-      "fr": "occuper",
-      "it": "occupare",
-      "pt": "ocupar",
-      "ja": "占領する",
-      "zh": "占据",
-      "ru": "занимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "besetzen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_2224",
     "lemma": "intuition",
     "pos": "Nomen",
@@ -19662,34 +17303,6 @@ const WORDS_DE_B2 = [
     "plural": "tabletts"
   },
   {
-    "id": "de_2244",
-    "lemma": "beratung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "상담",
-      "en": "consultation",
-      "de": "die Beratung",
-      "es": "la consulta",
-      "fr": "la consultation",
-      "it": "la consulenza",
-      "pt": "a consulta",
-      "ja": "相談",
-      "zh": "咨询",
-      "ru": "консультация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "beratungen"
-  },
-  {
     "id": "de_2248",
     "lemma": "wegkommen",
     "pos": "Verb",
@@ -19828,34 +17441,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "kritiker"
-  },
-  {
-    "id": "de_2268",
-    "lemma": "pfleger",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "간호사",
-      "en": "nurse",
-      "de": "der Pfleger",
-      "es": "el enfermero",
-      "fr": "l'infirmier",
-      "it": "l'infermiere",
-      "pt": "o enfermeiro",
-      "ja": "看護師",
-      "zh": "护士",
-      "ru": "медсестра"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pfleger"
   },
   {
     "id": "de_2269",
@@ -20128,33 +17713,6 @@ const WORDS_DE_B2 = [
     "examples": [],
     "meta": {},
     "infinitive": "versenken",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_2295",
-    "lemma": "fördern",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "지원하다",
-      "en": "support",
-      "de": "fördern",
-      "es": "apoyar",
-      "fr": "soutenir",
-      "it": "sostenere",
-      "pt": "apoiar",
-      "ja": "支援する",
-      "zh": "支持",
-      "ru": "поддерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fördern",
     "reflexive": false,
     "irregular": null
   },
@@ -20652,34 +18210,6 @@ const WORDS_DE_B2 = [
     "plural": "amnesien"
   },
   {
-    "id": "de_2339",
-    "lemma": "empfänger",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "수령인",
-      "en": "recipient",
-      "de": "der Empfänger",
-      "es": "el destinatario",
-      "fr": "le destinataire",
-      "it": "il destinatario",
-      "pt": "o destinatário",
-      "ja": "受取人",
-      "zh": "收件人",
-      "ru": "получатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "empfänger"
-  },
-  {
     "id": "de_2345",
     "lemma": "astronaut",
     "pos": "Nomen",
@@ -21089,34 +18619,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_2375",
-    "lemma": "vereinbaren",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "약속하다",
-      "en": "agree",
-      "de": "vereinbaren",
-      "es": "acordar",
-      "fr": "convenir",
-      "it": "concordare",
-      "pt": "acordar",
-      "ja": "約束する",
-      "zh": "约定",
-      "ru": "договариваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vereinbaren",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_2379",
     "lemma": "waschmaschine",
     "pos": "Nomen",
@@ -21330,34 +18832,6 @@ const WORDS_DE_B2 = [
     "plural": "eiscremes"
   },
   {
-    "id": "de_2399",
-    "lemma": "heimweh",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "향수",
-      "en": "homesickness",
-      "de": "das Heimweh",
-      "es": "la nostalgia",
-      "fr": "le mal du pays",
-      "it": "la nostalgia",
-      "pt": "a saudade",
-      "ja": "ホームシック",
-      "zh": "乡愁",
-      "ru": "тоска по дому"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
-  },
-  {
     "id": "de_2404",
     "lemma": "festgelegt",
     "pos": "Adjektiv",
@@ -21549,34 +19023,6 @@ const WORDS_DE_B2 = [
     "plural": "verstöße"
   },
   {
-    "id": "de_2422",
-    "lemma": "notieren",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "기록하다",
-      "en": "note",
-      "de": "notieren",
-      "es": "anotar",
-      "fr": "noter",
-      "it": "annotare",
-      "pt": "anotar",
-      "ja": "記録する",
-      "zh": "记录",
-      "ru": "записывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "notieren",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_2423",
     "lemma": "erwidern",
     "pos": "Verb",
@@ -21658,62 +19104,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "perioden"
-  },
-  {
-    "id": "de_2431",
-    "lemma": "gleis",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "철로",
-      "en": "track",
-      "de": "das Gleis",
-      "es": "la vía",
-      "fr": "la voie",
-      "it": "il binario",
-      "pt": "a via",
-      "ja": "線路",
-      "zh": "轨道",
-      "ru": "рельс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gleise"
-  },
-  {
-    "id": "de_2434",
-    "lemma": "breite",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "너비",
-      "en": "width",
-      "de": "die Breite",
-      "es": "el ancho",
-      "fr": "la largeur",
-      "it": "la larghezza",
-      "pt": "a largura",
-      "ja": "幅",
-      "zh": "宽度",
-      "ru": "ширина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "breiten"
   },
   {
     "id": "de_2440",
@@ -22217,34 +19607,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "füllen"
-  },
-  {
-    "id": "de_2488",
-    "lemma": "zahlung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "지불",
-      "en": "payment",
-      "de": "die Zahlung",
-      "es": "el pago",
-      "fr": "le paiement",
-      "it": "il pagamento",
-      "pt": "o pagamento",
-      "ja": "支払い",
-      "zh": "付款",
-      "ru": "платеж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zahlungen"
   },
   {
     "id": "de_2490",
@@ -23231,34 +20593,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_2598",
-    "lemma": "gießen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "붓다",
-      "en": "pour",
-      "de": "gießen",
-      "es": "verter",
-      "fr": "verser",
-      "it": "versare",
-      "pt": "verter",
-      "ja": "注ぐ",
-      "zh": "倒",
-      "ru": "лить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gießen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_2601",
     "lemma": "religiös",
     "pos": "Adjektiv",
@@ -23420,34 +20754,6 @@ const WORDS_DE_B2 = [
     "gender": "das",
     "article": "das",
     "plural": "kunstwerke"
-  },
-  {
-    "id": "de_2629",
-    "lemma": "blühen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "피다",
-      "en": "bloom",
-      "de": "blühen",
-      "es": "florecer",
-      "fr": "fleurir",
-      "it": "fiorire",
-      "pt": "florescer",
-      "ja": "咲く",
-      "zh": "开花",
-      "ru": "цвести"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blühen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2631",
@@ -23723,31 +21029,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "motivationen"
-  },
-  {
-    "id": "de_2659",
-    "lemma": "abwesend",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "부재중인",
-      "en": "absent",
-      "de": "abwesend",
-      "es": "ausente",
-      "fr": "absent",
-      "it": "assente",
-      "pt": "ausente",
-      "ja": "不在の",
-      "zh": "缺席的",
-      "ru": "отсутствующий"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_2663",
@@ -25036,34 +22317,6 @@ const WORDS_DE_B2 = [
     "plural": "verwalter"
   },
   {
-    "id": "de_2781",
-    "lemma": "forderung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "요구",
-      "en": "demand",
-      "de": "die Forderung",
-      "es": "la exigencia",
-      "fr": "l'exigence",
-      "it": "l'esigenza",
-      "pt": "a exigência",
-      "ja": "要求",
-      "zh": "要求",
-      "ru": "требование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "forderungen"
-  },
-  {
     "id": "de_2787",
     "lemma": "organismus",
     "pos": "Nomen",
@@ -25116,34 +22369,6 @@ const WORDS_DE_B2 = [
     "gender": "das",
     "article": "das",
     "plural": "potentiale"
-  },
-  {
-    "id": "de_2789",
-    "lemma": "zurechtkommen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "대처하다",
-      "en": "cope",
-      "de": "zurechtkommen",
-      "es": "arreglárselas",
-      "fr": "se débrouiller",
-      "it": "cavarsela",
-      "pt": "dar conta",
-      "ja": "対処する",
-      "zh": "应对",
-      "ru": "справляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zurechtkommen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2791",
@@ -26375,34 +23600,6 @@ const WORDS_DE_B2 = [
     "plural": "pinguine"
   },
   {
-    "id": "de_2897",
-    "lemma": "festival",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "축제",
-      "en": "festival",
-      "de": "das Festival",
-      "es": "el festival",
-      "fr": "le festival",
-      "it": "il festival",
-      "pt": "o festival",
-      "ja": "フェスティバル",
-      "zh": "节日",
-      "ru": "фестиваль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "festivals"
-  },
-  {
     "id": "de_2901",
     "lemma": "durchschauen",
     "pos": "Verb",
@@ -26866,34 +24063,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_2941",
-    "lemma": "menü",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "메뉴",
-      "en": "menu",
-      "de": "das Menü",
-      "es": "el menú",
-      "fr": "le menu",
-      "it": "il menu",
-      "pt": "o menu",
-      "ja": "メニュー",
-      "zh": "菜单",
-      "ru": "меню"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "menüs"
-  },
-  {
     "id": "de_2942",
     "lemma": "wiedergutmachung",
     "pos": "Nomen",
@@ -26919,61 +24088,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "wiedergutmachungen"
-  },
-  {
-    "id": "de_2945",
-    "lemma": "frieren",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "춥다",
-      "en": "freeze",
-      "de": "frieren",
-      "es": "congelarse",
-      "fr": "geler",
-      "it": "congelare",
-      "pt": "congelar",
-      "ja": "凍る",
-      "zh": "冻结",
-      "ru": "мерзнуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "frieren",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_2948",
-    "lemma": "genehmigen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "승인하다",
-      "en": "approve",
-      "de": "genehmigen",
-      "es": "aprobar",
-      "fr": "approuver",
-      "it": "approvare",
-      "pt": "aprovar",
-      "ja": "承認する",
-      "zh": "批准",
-      "ru": "одобрить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "genehmigen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2950",
@@ -27295,34 +24409,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_2973",
-    "lemma": "alltag",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "일상",
-      "en": "everyday life",
-      "de": "der Alltag",
-      "es": "la cotidianidad",
-      "fr": "la vie quotidienne",
-      "it": "la vita quotidiana",
-      "pt": "a vida cotidiana",
-      "ja": "日常",
-      "zh": "日常",
-      "ru": "повседневность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "alltage"
-  },
-  {
     "id": "de_2974",
     "lemma": "einwandfrei",
     "pos": "Adjektiv",
@@ -27423,34 +24509,6 @@ const WORDS_DE_B2 = [
     "gender": "das",
     "article": "das",
     "plural": "fitnessstudios"
-  },
-  {
-    "id": "de_2981",
-    "lemma": "zelten",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "텐트를 치다",
-      "en": "camp",
-      "de": "zelten",
-      "es": "acampar",
-      "fr": "camper",
-      "it": "campeggiare",
-      "pt": "acampar",
-      "ja": "キャンプする",
-      "zh": "露营",
-      "ru": "разбивать палатку"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zelten",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_2986",
@@ -27674,34 +24732,6 @@ const WORDS_DE_B2 = [
     "plural": "sitten"
   },
   {
-    "id": "de_3002",
-    "lemma": "darstellung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "표현",
-      "en": "representation",
-      "de": "die Darstellung",
-      "es": "la representación",
-      "fr": "la représentation",
-      "it": "la rappresentazione",
-      "pt": "a representação",
-      "ja": "表現",
-      "zh": "表现",
-      "ru": "представление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "darstellungen"
-  },
-  {
     "id": "de_3003",
     "lemma": "reißverschluss",
     "pos": "Nomen",
@@ -27836,34 +24866,6 @@ const WORDS_DE_B2 = [
     "examples": [],
     "meta": {},
     "infinitive": "zusammenkommen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_3015",
-    "lemma": "spülen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "물로 헹굴다",
-      "en": "rinse",
-      "de": "spülen",
-      "es": "enjuagar",
-      "fr": "rincer",
-      "it": "sciacquare",
-      "pt": "enxaguar",
-      "ja": "すすぐ",
-      "zh": "冲洗",
-      "ru": "полоскать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spülen",
     "reflexive": false,
     "irregular": null
   },
@@ -28059,34 +25061,6 @@ const WORDS_DE_B2 = [
     "plural": "flanken"
   },
   {
-    "id": "de_3032",
-    "lemma": "frist",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "기한",
-      "en": "deadline",
-      "de": "die Frist",
-      "es": "el plazo",
-      "fr": "le délai",
-      "it": "la scadenza",
-      "pt": "o prazo",
-      "ja": "期限",
-      "zh": "期限",
-      "ru": "срок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fristen"
-  },
-  {
     "id": "de_3035",
     "lemma": "übernahme",
     "pos": "Nomen",
@@ -28113,34 +25087,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "übernahmen"
-  },
-  {
-    "id": "de_3036",
-    "lemma": "ernährung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "영양",
-      "en": "nutrition",
-      "de": "die Ernährung",
-      "es": "la nutrición",
-      "fr": "la nutrition",
-      "it": "la nutrizione",
-      "pt": "a nutrição",
-      "ja": "栄養",
-      "zh": "营养",
-      "ru": "питание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ernährungen"
   },
   {
     "id": "de_3038",
@@ -28519,34 +25465,6 @@ const WORDS_DE_B2 = [
     "plural": "hautfarben"
   },
   {
-    "id": "de_3070",
-    "lemma": "büchse",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "깡통",
-      "en": "tin",
-      "de": "die Büchse",
-      "es": "la lata",
-      "fr": "la boîte",
-      "it": "la scatola",
-      "pt": "a lata",
-      "ja": "缶",
-      "zh": "罐",
-      "ru": "банка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "büchsen"
-  },
-  {
     "id": "de_3071",
     "lemma": "abfangen",
     "pos": "Verb",
@@ -28703,34 +25621,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "recherchen"
-  },
-  {
-    "id": "de_3084",
-    "lemma": "anleitung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "설명서",
-      "en": "instruction",
-      "de": "die Anleitung",
-      "es": "la instrucción",
-      "fr": "l'instruction",
-      "it": "l'istruzione",
-      "pt": "a instrução",
-      "ja": "説明書",
-      "zh": "说明书",
-      "ru": "инструкция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anleitungen"
   },
   {
     "id": "de_3089",
@@ -28925,33 +25815,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_3106",
-    "lemma": "denkmal",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "기념비",
-      "en": "monument",
-      "de": "das Denkmal",
-      "es": "el monumento",
-      "fr": "le monument",
-      "it": "il monumento",
-      "pt": "o monumento",
-      "ja": "記念碑",
-      "zh": "纪念碑",
-      "ru": "памятник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "denkmale"
-  },
-  {
     "id": "de_3110",
     "lemma": "schrauben",
     "pos": "Verb",
@@ -29137,34 +26000,6 @@ const WORDS_DE_B2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "de_3125",
-    "lemma": "einfall",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "생각",
-      "en": "idea",
-      "de": "der Einfall",
-      "es": "la idea",
-      "fr": "l'idée",
-      "it": "l'idea",
-      "pt": "a ideia",
-      "ja": "考え",
-      "zh": "想法",
-      "ru": "идея"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "einfälle"
   },
   {
     "id": "de_3126",
@@ -30077,33 +26912,6 @@ const WORDS_DE_B2 = [
     "plural": "bademäntel"
   },
   {
-    "id": "de_3209",
-    "lemma": "behindern",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "방해하다",
-      "en": "hinder",
-      "de": "behindern",
-      "es": "obstaculizar",
-      "fr": "gêner",
-      "it": "ostacolare",
-      "pt": "obstruir",
-      "ja": "妨害する",
-      "zh": "阻碍",
-      "ru": "препятствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "behindern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_3213",
     "lemma": "millimeter",
     "pos": "Nomen",
@@ -30298,34 +27106,6 @@ const WORDS_DE_B2 = [
     "infinitive": "anführen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_3226",
-    "lemma": "zange",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "집게",
-      "en": "pliers",
-      "de": "die Zange",
-      "es": "las pinzas",
-      "fr": "la pince",
-      "it": "la pinza",
-      "pt": "a tenaz",
-      "ja": "ペンチ",
-      "zh": "钳子",
-      "ru": "плоскогубцы"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zangen"
   },
   {
     "id": "de_3227",
@@ -30794,34 +27574,6 @@ const WORDS_DE_B2 = [
     "plural": "durchfälle"
   },
   {
-    "id": "de_3269",
-    "lemma": "entsorgen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "처리하다",
-      "en": "dispose",
-      "de": "entsorgen",
-      "es": "desechar",
-      "fr": "éliminer",
-      "it": "smaltire",
-      "pt": "descartar",
-      "ja": "処理する",
-      "zh": "处理",
-      "ru": "утилизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entsorgen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_3270",
     "lemma": "definiert",
     "pos": "Adjektiv",
@@ -30924,34 +27676,6 @@ const WORDS_DE_B2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "de_3278",
-    "lemma": "erholung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "휴식",
-      "en": "rest",
-      "de": "die Erholung",
-      "es": "la recuperación",
-      "fr": "le repos",
-      "it": "il riposo",
-      "pt": "o repouso",
-      "ja": "休息",
-      "zh": "休息",
-      "ru": "отдых"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
   },
   {
     "id": "de_3281",
@@ -31667,34 +28391,6 @@ const WORDS_DE_B2 = [
     "plural": "schmiede"
   },
   {
-    "id": "de_3333",
-    "lemma": "donnern",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "천둥소리가 나다",
-      "en": "thunder",
-      "de": "donnern",
-      "es": "tronar",
-      "fr": "tonner",
-      "it": "tuonare",
-      "pt": "trovoejar",
-      "ja": "雷鳴がする",
-      "zh": "打雷",
-      "ru": "греметь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "donnern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_3336",
     "lemma": "schmieren",
     "pos": "Verb",
@@ -31777,34 +28473,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "banker"
-  },
-  {
-    "id": "de_3351",
-    "lemma": "festlegen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "work"
-    ],
-    "meanings": {
-      "ko": "정하다",
-      "en": "determine",
-      "de": "festlegen",
-      "es": "fijar",
-      "fr": "fixer",
-      "it": "stabilire",
-      "pt": "estabelecer",
-      "ja": "定める",
-      "zh": "确定",
-      "ru": "устанавливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "festlegen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_3352",
@@ -32428,31 +29096,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_3412",
-    "lemma": "künstlich",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "인공적인",
-      "en": "artificial",
-      "de": "künstlich",
-      "es": "artificial",
-      "fr": "artificiel",
-      "it": "artificiale",
-      "pt": "artificial",
-      "ja": "人工的な",
-      "zh": "人工的",
-      "ru": "искусственный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "de_3413",
     "lemma": "exempel",
     "pos": "Nomen",
@@ -32560,34 +29203,6 @@ const WORDS_DE_B2 = [
     "infinitive": "erlassen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_3422",
-    "lemma": "ausfahrt",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "출구",
-      "en": "exit",
-      "de": "die Ausfahrt",
-      "es": "la salida",
-      "fr": "la sortie",
-      "it": "l'uscita",
-      "pt": "a saída",
-      "ja": "出口",
-      "zh": "出口",
-      "ru": "выход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ausfahrten"
   },
   {
     "id": "de_3423",
@@ -33218,34 +29833,6 @@ const WORDS_DE_B2 = [
     "plural": ""
   },
   {
-    "id": "de_3491",
-    "lemma": "webseite",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "웹페이지",
-      "en": "webpage",
-      "de": "die Webseite",
-      "es": "la página web",
-      "fr": "la page web",
-      "it": "la pagina web",
-      "pt": "a página web",
-      "ja": "ウェブページ",
-      "zh": "网页",
-      "ru": "веб-страница"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "webseiten"
-  },
-  {
     "id": "de_3492",
     "lemma": "verachtung",
     "pos": "Nomen",
@@ -33410,34 +29997,6 @@ const WORDS_DE_B2 = [
     "infinitive": "großziehen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_3499",
-    "lemma": "nachteil",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "단점",
-      "en": "disadvantage",
-      "de": "der Nachteil",
-      "es": "la desventaja",
-      "fr": "le désavantage",
-      "it": "lo svantaggio",
-      "pt": "a desvantagem",
-      "ja": "欠点",
-      "zh": "缺点",
-      "ru": "недостаток"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "nachteile"
   },
   {
     "id": "de_3501",
@@ -34035,34 +30594,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "finanzierungen"
-  },
-  {
-    "id": "de_6498",
-    "lemma": "tablette",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "정제",
-      "en": "tablet",
-      "de": "die Tablette",
-      "es": "la tableta",
-      "fr": "le comprimé",
-      "it": "la compressa",
-      "pt": "o comprimido",
-      "ja": "錠剤",
-      "zh": "药片",
-      "ru": "таблетка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "tabletten"
   },
   {
     "id": "de_6503",
@@ -35457,34 +31988,6 @@ const WORDS_DE_B2 = [
     "meta": {}
   },
   {
-    "id": "de_6629",
-    "lemma": "buffet",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "식기장",
-      "en": "sideboard",
-      "de": "das Buffet",
-      "es": "el aparador",
-      "fr": "le buffet",
-      "it": "la credenza",
-      "pt": "o aparador",
-      "ja": "食器棚",
-      "zh": "餐具柜",
-      "ru": "буфет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "buffets"
-  },
-  {
     "id": "de_6631",
     "lemma": "verschwommen",
     "pos": "Adjektiv",
@@ -35840,90 +32343,6 @@ const WORDS_DE_B2 = [
     "irregular": null
   },
   {
-    "id": "de_6661",
-    "lemma": "erdgeschoss",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "1층",
-      "en": "ground floor",
-      "de": "das Erdgeschoss",
-      "es": "la planta baja",
-      "fr": "le rez-de-chaussée",
-      "it": "il pianterreno",
-      "pt": "o térreo",
-      "ja": "1階",
-      "zh": "一楼",
-      "ru": "первый этаж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "erdgeschosse"
-  },
-  {
-    "id": "de_6662",
-    "lemma": "ordnen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "정렬하다",
-      "en": "arrange",
-      "de": "ordnen",
-      "es": "ordenar",
-      "fr": "ordonner",
-      "it": "ordinare",
-      "pt": "ordenar",
-      "ja": "整理する",
-      "zh": "整理",
-      "ru": "упорядочить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ordnen",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
-    "id": "de_6664",
-    "lemma": "erfordern",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "요구하다",
-      "en": "require",
-      "de": "erfordern",
-      "es": "exigir",
-      "fr": "exiger",
-      "it": "richiedere",
-      "pt": "exigir",
-      "ja": "要求する",
-      "zh": "要求",
-      "ru": "требовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erfordern",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "de_6666",
     "lemma": "viertelstunde",
     "pos": "Nomen",
@@ -36162,34 +32581,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "abrechnungen"
-  },
-  {
-    "id": "de_6690",
-    "lemma": "gasthaus",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "여관",
-      "en": "inn",
-      "de": "das Gasthaus",
-      "es": "la posada",
-      "fr": "l'auberge",
-      "it": "l'osteria",
-      "pt": "a hospedaria",
-      "ja": "旅館",
-      "zh": "客栈",
-      "ru": "трактир"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gasthäuser"
   },
   {
     "id": "de_6692",
@@ -36684,33 +33075,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "wanderer"
-  },
-  {
-    "id": "de_6738",
-    "lemma": "wiederholung",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "반복",
-      "en": "repetition",
-      "de": "die Wiederholung",
-      "es": "la repetición",
-      "fr": "la répétition",
-      "it": "la ripetizione",
-      "pt": "a repetição",
-      "ja": "繰り返し",
-      "zh": "重复",
-      "ru": "повторение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wiederholungen"
   },
   {
     "id": "de_6742",
@@ -37786,33 +34150,6 @@ const WORDS_DE_B2 = [
     "plural": "nordpole"
   },
   {
-    "id": "de_6830",
-    "lemma": "mülltonne",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "쓰레기통",
-      "en": "garbage bin",
-      "de": "die Mülltonne",
-      "es": "la papelera",
-      "fr": "la poubelle",
-      "it": "la pattume",
-      "pt": "a lata de lixo",
-      "ja": "ゴミ箱",
-      "zh": "垃圾桶",
-      "ru": "мусорный бак"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mülltonnen"
-  },
-  {
     "id": "de_6832",
     "lemma": "ablassen",
     "pos": "Verb",
@@ -38006,34 +34343,6 @@ const WORDS_DE_B2 = [
     "gender": "der",
     "article": "der",
     "plural": "ausbilder"
-  },
-  {
-    "id": "de_6845",
-    "lemma": "anerkennen",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "인정하다",
-      "en": "acknowledge",
-      "de": "anerkennen",
-      "es": "reconocer",
-      "fr": "reconnaître",
-      "it": "riconoscere",
-      "pt": "reconhecer",
-      "ja": "認める",
-      "zh": "承认",
-      "ru": "признать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anerkennen",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "de_6847",
@@ -38468,34 +34777,6 @@ const WORDS_DE_B2 = [
     "plural": "zimmermädchen"
   },
   {
-    "id": "de_6884",
-    "lemma": "gebäck",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "구운 과자",
-      "en": "pastry",
-      "de": "das Gebäck",
-      "es": "la pastelería",
-      "fr": "la pâtisserie",
-      "it": "la pasticceria",
-      "pt": "a pastelaria",
-      "ja": "焼き菓子",
-      "zh": "烘焙食品",
-      "ru": "выпечка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gebäcke"
-  },
-  {
     "id": "de_6885",
     "lemma": "mitfahrgelegenheit",
     "pos": "Nomen",
@@ -38522,33 +34803,6 @@ const WORDS_DE_B2 = [
     "gender": "die",
     "article": "die",
     "plural": "mitfahrgelegenheiten"
-  },
-  {
-    "id": "de_6886",
-    "lemma": "diplom",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "졸업장",
-      "en": "diploma",
-      "de": "das Diplom",
-      "es": "el diploma",
-      "fr": "le diplôme",
-      "it": "il diploma",
-      "pt": "o diploma",
-      "ja": "卒業証書",
-      "zh": "文凭",
-      "ru": "диплом"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "diplome"
   },
   {
     "id": "de_6887",
@@ -38659,31 +34913,6 @@ const WORDS_DE_B2 = [
     "infinitive": "aufessen",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "de_6902",
-    "lemma": "selbstständig",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "독립적인",
-      "en": "independent",
-      "de": "selbstständig",
-      "es": "independiente",
-      "fr": "indépendant",
-      "it": "indipendente",
-      "pt": "independente",
-      "ja": "独立した",
-      "zh": "独立的",
-      "ru": "независимый"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "de_6904",
@@ -39149,34 +35378,6 @@ const WORDS_DE_B2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "de_6935",
-    "lemma": "katalog",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily",
-      "work"
-    ],
-    "meanings": {
-      "ko": "목록",
-      "en": "catalog",
-      "de": "der Katalog",
-      "es": "el catálogo",
-      "fr": "le catalogue",
-      "it": "il catalogo",
-      "pt": "o catálogo",
-      "ja": "カタログ",
-      "zh": "目录",
-      "ru": "каталог"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kataloge"
   },
   {
     "id": "de_6936",

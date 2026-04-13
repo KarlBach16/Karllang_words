@@ -2287,36 +2287,6 @@ const WORDS_DE_B1 = [
     "id": "anstellen_v_1"
   },
   {
-    "lemma": "Angestellte",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "de": "Angestellte",
-      "ko": "직원, 회사원",
-      "en": "employee",
-      "es": "empleado",
-      "fr": "employé",
-      "it": "impiegato",
-      "pt": "empregado, funcionário",
-      "ja": "会社員, 被雇用者",
-      "zh": "职员",
-      "ru": "служащий"
-    },
-    "examples": [
-      "Björn ist Angestellter in einem Reisebüro."
-    ],
-    "gender": "der",
-    "plural": "Angestellten",
-    "meta": {
-      "rawPluralPattern": "-n"
-    },
-    "id": "angestellte_nm_1"
-  },
-  {
     "lemma": "anstrengend",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11341,35 +11311,6 @@ const WORDS_DE_B1 = [
     "id": "elektronisch_adj_1"
   },
   {
-    "lemma": "Eltern",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Eltern",
-      "ko": "부모",
-      "en": "parents",
-      "es": "padres",
-      "fr": "parents",
-      "it": "genitori",
-      "pt": "pais",
-      "ja": "両親",
-      "zh": "父母",
-      "ru": "родители"
-    },
-    "examples": [
-      "Ich wohne noch bei meinen Eltern."
-    ],
-    "gender": "die",
-    "plural": "Eltern",
-    "meta": {},
-    "id": "eltern_nf_1"
-  },
-  {
     "lemma": "empfangen",
     "pos": "Verb",
     "cefr": "B1",
@@ -17963,35 +17904,6 @@ const WORDS_DE_B1 = [
     "id": "geschwindigkeitsbeschraenkung_nf_1"
   },
   {
-    "lemma": "Geschwister",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Geschwister",
-      "ko": "형제자매",
-      "en": "siblings",
-      "es": "hermanos",
-      "fr": "frères et sœurs",
-      "it": "fratelli e sorelle",
-      "pt": "irmãos",
-      "ja": "兄弟姉妹",
-      "zh": "兄弟姐妹",
-      "ru": "братья и сестры"
-    },
-    "examples": [
-      "Die Geschwister sehen sich nur selten."
-    ],
-    "gender": "die",
-    "plural": "Geschwister",
-    "meta": {},
-    "id": "geschwister_nf_1"
-  },
-  {
     "lemma": "Gesellschaft",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21863,34 +21775,6 @@ const WORDS_DE_B1 = [
     "id": "je__desto_konj_1"
   },
   {
-    "lemma": "Jeans",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Jeans",
-      "ko": "청바지",
-      "en": "jeans",
-      "es": "vaqueros, jeans",
-      "fr": "jean",
-      "it": "jeans",
-      "pt": "jeans",
-      "ja": "ジーンズ",
-      "zh": "牛仔裤",
-      "ru": "джинсы"
-    },
-    "examples": [
-      "Nicht nur junge Leute tragen Jeans."
-    ],
-    "gender": "die",
-    "plural": "Jeans",
-    "meta": {},
-    "id": "jeans_nf_1"
-  },
-  {
     "lemma": "jederzeit",
     "pos": "Adverb",
     "cefr": "B1",
@@ -22652,34 +22536,6 @@ const WORDS_DE_B1 = [
     "id": "chipkarte_nf_1"
   },
   {
-    "lemma": "Kenntnisse",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "de": "Kenntnisse",
-      "ko": "지식",
-      "en": "knowledge, skills",
-      "es": "conocimientos",
-      "fr": "connaissances",
-      "it": "conoscenze",
-      "pt": "conhecimentos",
-      "ja": "知識",
-      "zh": "知识",
-      "ru": "знания"
-    },
-    "examples": [
-      "Ich möchte meine Deutschkenntnisse verbessern."
-    ],
-    "gender": "die",
-    "plural": "Kenntnisse",
-    "meta": {},
-    "id": "kenntnisse_nf_1"
-  },
-  {
     "lemma": "Kennzeichen",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22797,36 +22653,6 @@ const WORDS_DE_B1 = [
       "rawPluralPattern": "¨-"
     },
     "id": "kasten_nm_1"
-  },
-  {
-    "lemma": "Kasten",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Kasten",
-      "ko": "(오스트리아/스위스) 옷장, 장",
-      "en": "cupboard, wardrobe (Austrian/Swiss)",
-      "es": "armario (Austria/Suiza)",
-      "fr": "armoire (Autriche/Suisse)",
-      "it": "armadio (Austria/Svizzera)",
-      "pt": "armário (Áustria/Suíça)",
-      "ja": "たんす (オーストリア/スイス)",
-      "zh": "柜子 (奥地利/瑞士)",
-      "ru": "шкаф (австр./швейц.)"
-    },
-    "examples": [
-      "Die Handtücher liegen im Kasten."
-    ],
-    "gender": "der",
-    "plural": "Kästen",
-    "meta": {
-      "rawPluralPattern": "¨-"
-    },
-    "id": "kasten_nm_2"
   },
   {
     "lemma": "Katalog",
@@ -25851,35 +25677,6 @@ const WORDS_DE_B1 = [
     "id": "lebenslauf_nm_1"
   },
   {
-    "lemma": "Lebensmittel",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Lebensmittel",
-      "ko": "식료품",
-      "en": "food, groceries",
-      "es": "alimentos, víveres",
-      "fr": "denrées alimentaires, nourriture",
-      "it": "alimentari, generi alimentari",
-      "pt": "alimentos, mantimentos",
-      "ja": "食料品",
-      "zh": "食品",
-      "ru": "продукты питания"
-    },
-    "examples": [
-      "Lebensmittel werden immer teurer."
-    ],
-    "gender": "die",
-    "plural": "Lebensmittel",
-    "meta": {},
-    "id": "lebensmittel_nf_1"
-  },
-  {
     "lemma": "lecker",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26156,36 +25953,6 @@ const WORDS_DE_B1 = [
     "id": "leiter_nm_1"
   },
   {
-    "lemma": "Leiter",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Leiter",
-      "ko": "사다리",
-      "en": "ladder",
-      "es": "escalera de mano",
-      "fr": "échelle",
-      "it": "scala a pioli",
-      "pt": "escada de mão",
-      "ja": "はしご",
-      "zh": "梯子",
-      "ru": "лестница (стремянка)"
-    },
-    "examples": [
-      "Haben Sie eine Leiter für mich?"
-    ],
-    "gender": "die",
-    "plural": "Leitern",
-    "meta": {
-      "rawPluralPattern": "-n"
-    },
-    "id": "leiter_nf_1"
-  },
-  {
     "lemma": "Lerner",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26268,34 +26035,6 @@ const WORDS_DE_B1 = [
     ],
     "meta": {},
     "id": "letzt_adj_1"
-  },
-  {
-    "lemma": "Leute",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "de": "Leute",
-      "ko": "사람들",
-      "en": "people",
-      "es": "gente",
-      "fr": "gens",
-      "it": "gente, persone",
-      "pt": "gente, pessoas",
-      "ja": "人々",
-      "zh": "人们",
-      "ru": "люди"
-    },
-    "examples": [
-      "Auf der Party waren viele Leute."
-    ],
-    "gender": "die",
-    "plural": "Leute",
-    "meta": {},
-    "id": "leute_nf_1"
   },
   {
     "lemma": "Lexikon",
@@ -27202,33 +26941,6 @@ const WORDS_DE_B1 = [
     ],
     "meta": {},
     "id": "maximal_adj_1"
-  },
-  {
-    "lemma": "Medien",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam"
-    ],
-    "meanings": {
-      "de": "Medien",
-      "ko": "매체, 미디어",
-      "en": "media",
-      "es": "medios de comunicación",
-      "fr": "médias",
-      "it": "media",
-      "pt": "mídia",
-      "ja": "メディア",
-      "zh": "媒体",
-      "ru": "средства массовой информации"
-    },
-    "examples": [
-      "Umweltschutz ist in den Medien ein großes Thema."
-    ],
-    "gender": "die",
-    "plural": "Medien",
-    "meta": {},
-    "id": "medien_nf_1"
   },
   {
     "lemma": "Medizin",
@@ -30121,34 +29833,6 @@ const WORDS_DE_B1 = [
     "id": "paeckchen_nn_1"
   },
   {
-    "lemma": "Papiere",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "travel"
-    ],
-    "meanings": {
-      "de": "Papiere",
-      "ko": "서류, 신분증",
-      "en": "papers, documents",
-      "es": "papeles, documentación",
-      "fr": "papiers",
-      "it": "documenti",
-      "pt": "papéis, documentos",
-      "ja": "書類, 身分証明書",
-      "zh": "证件, 文件",
-      "ru": "документы"
-    },
-    "examples": [
-      "Haben Sie Ihre Papiere dabei?"
-    ],
-    "gender": "die",
-    "plural": "Papiere",
-    "meta": {},
-    "id": "papiere_nf_1"
-  },
-  {
     "lemma": "Paradies",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31125,34 +30809,6 @@ const WORDS_DE_B1 = [
       "rawPluralPattern": "-en"
     },
     "id": "polizist_nm_1"
-  },
-  {
-    "lemma": "Pommes frites",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Pommes frites",
-      "ko": "감자튀김",
-      "en": "french fries, chips",
-      "es": "patatas fritas",
-      "fr": "frites",
-      "it": "patatine fritte",
-      "pt": "batatas fritas",
-      "ja": "フライドポテト",
-      "zh": "炸薯条",
-      "ru": "картофель фри"
-    },
-    "examples": [
-      "Kinder essen gern Pommes frites."
-    ],
-    "gender": "die",
-    "plural": "Pommes frites",
-    "meta": {},
-    "id": "pommes_frites_nf_1"
   },
   {
     "lemma": "Poster",
@@ -34989,34 +34645,6 @@ const WORDS_DE_B1 = [
     "id": "schwitzen_v_1"
   },
   {
-    "lemma": "See",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "travel"
-    ],
-    "meanings": {
-      "de": "See",
-      "ko": "바다",
-      "en": "sea",
-      "es": "mar",
-      "fr": "mer",
-      "it": "mare",
-      "pt": "mar",
-      "ja": "海",
-      "zh": "海",
-      "ru": "море"
-    },
-    "examples": [
-      "Im Sommer fahren wir immer an die See."
-    ],
-    "gender": "die",
-    "plural": "",
-    "meta": {},
-    "id": "see_nf_1"
-  },
-  {
     "lemma": "seitdem",
     "pos": "Adverb",
     "cefr": "B1",
@@ -38535,34 +38163,6 @@ const WORDS_DE_B1 = [
     "id": "verwandt_adj_1"
   },
   {
-    "lemma": "Verwandte",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "Verwandte",
-      "ko": "친척",
-      "en": "relative",
-      "es": "pariente",
-      "fr": "parent",
-      "it": "parente",
-      "pt": "parente",
-      "ja": "親戚",
-      "zh": "亲戚",
-      "ru": "родственник"
-    },
-    "examples": [
-      "Zu meinem Geburtstag kommen alle Verwandten."
-    ],
-    "gender": "der",
-    "plural": "Verwandten",
-    "meta": {},
-    "id": "verwandte_nm_1"
-  },
-  {
     "lemma": "verwechseln",
     "pos": "Verb",
     "cefr": "B1",
@@ -41726,33 +41326,6 @@ const WORDS_DE_B1 = [
     "plural": "",
     "meta": {},
     "id": "zuhause_nn_1"
-  },
-  {
-    "lemma": "Zuhörer",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam"
-    ],
-    "meanings": {
-      "de": "Zuhörer",
-      "ko": "청취자, 청중",
-      "en": "listener, audience",
-      "es": "oyente",
-      "fr": "auditeur",
-      "it": "ascoltatore",
-      "pt": "ouvinte",
-      "ja": "聴衆",
-      "zh": "听众",
-      "ru": "слушатель"
-    },
-    "examples": [
-      "Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns."
-    ],
-    "gender": "der",
-    "plural": "Zuhörer",
-    "meta": {},
-    "id": "zuhoerer_nm_2"
   },
   {
     "lemma": "Zukunft",

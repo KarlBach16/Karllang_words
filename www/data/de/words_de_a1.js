@@ -185,40 +185,6 @@ const WORDS_DE_A1 = [
     }
   },
   {
-    "id": "abholen_v_2",
-    "lemma": "abholen",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "de": "abholen",
-      "ko": "수령하다",
-      "en": "pick up",
-      "es": "recoger",
-      "fr": "récupérer",
-      "it": "ritirare",
-      "pt": "levantar",
-      "ja": "受け取る",
-      "zh": "取",
-      "ru": "забирать"
-    },
-    "examples": [
-      "Wann kann ich den Schrank bei dir abholen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich hole ab",
-      "pres_du": "du holst ab",
-      "pres_er": "er/sie/es holt ab",
-      "praet": "holte ab",
-      "part2": "abgeholt",
-      "aux": "haben"
-    }
-  },
-  {
     "id": "absender_nm_1",
     "lemma": "Absender",
     "pos": "Nomen",
@@ -1529,41 +1495,6 @@ const WORDS_DE_A1 = [
     }
   },
   {
-    "id": "aufhoeren_v_2",
-    "lemma": "aufhören",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily",
-      "time"
-    ],
-    "meanings": {
-      "de": "aufhören",
-      "ko": "끝나다",
-      "en": "end",
-      "es": "terminar",
-      "fr": "se terminer",
-      "it": "finire",
-      "pt": "terminar",
-      "ja": "終わる",
-      "zh": "结束",
-      "ru": "заканчиваться"
-    },
-    "examples": [
-      "Der Kurs hört in einer Woche auf."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich höre auf",
-      "pres_du": "du hörst auf",
-      "pres_er": "er/sie/es hört auf",
-      "praet": "hörte auf",
-      "part2": "aufgehört",
-      "aux": "haben"
-    }
-  },
-  {
     "id": "aufstehen_v_1",
     "lemma": "aufstehen",
     "pos": "Verb",
@@ -2505,35 +2436,6 @@ const WORDS_DE_A1 = [
     "meta": {},
     "gender": "die",
     "plural": "Banken"
-  },
-  {
-    "id": "bank_nf_2",
-    "lemma": "Bank",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily",
-      "city"
-    ],
-    "meanings": {
-      "de": "Bank",
-      "ko": "벤치",
-      "en": "bench",
-      "es": "banco",
-      "fr": "banc",
-      "it": "panchina",
-      "pt": "banco",
-      "ja": "ベンチ",
-      "zh": "长椅",
-      "ru": "скамейка"
-    },
-    "examples": [
-      "Er sitzt im Park auf einer Bank und liest."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Bänke"
   },
   {
     "id": "bar_adj_1",
@@ -7536,7 +7438,11 @@ const WORDS_DE_A1 = [
     "lemma": "gehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "basic"],
+    "tags": [
+      "exam",
+      "daily",
+      "basic"
+    ],
     "meanings": {
       "de": "gehen",
       "ko": "가다",
@@ -7549,7 +7455,9 @@ const WORDS_DE_A1 = [
       "zh": "去",
       "ru": "идти"
     },
-    "examples": ["Ich gehe zu Fuß zur Arbeit."],
+    "examples": [
+      "Ich gehe zu Fuß zur Arbeit."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich gehe",
@@ -7561,40 +7469,14 @@ const WORDS_DE_A1 = [
     }
   },
   {
-    "id": "gehen_v_2",
-    "lemma": "gehen",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": ["exam", "daily", "basic"],
-    "meanings": {
-      "de": "gehen",
-      "ko": "지내다",
-      "en": "be",
-      "es": "estar",
-      "fr": "aller",
-      "it": "stare",
-      "pt": "estar",
-      "ja": "元気だ",
-      "zh": "过得",
-      "ru": "поживать"
-    },
-    "examples": ["Wie geht es Ihnen?"],
-    "meta": {},
-    "conj": {
-      "pres_ich": "es geht mir",
-      "pres_du": "es geht dir",
-      "pres_er": "es geht ihm/ihr",
-      "praet": "ging",
-      "part2": "gegangen",
-      "aux": "sein"
-    }
-  },
-  {
     "id": "gehoeren_v_1",
     "lemma": "gehören",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "gehören",
       "ko": "속하다",
@@ -7607,7 +7489,9 @@ const WORDS_DE_A1 = [
       "zh": "属于",
       "ru": "принадлежать"
     },
-    "examples": ["Wem gehört das Buch?"],
+    "examples": [
+      "Wem gehört das Buch?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich gehöre",
@@ -7623,7 +7507,11 @@ const WORDS_DE_A1 = [
     "lemma": "Geld",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "finance"],
+    "tags": [
+      "exam",
+      "shopping",
+      "finance"
+    ],
     "meanings": {
       "de": "Geld",
       "ko": "돈",
@@ -7636,7 +7524,9 @@ const WORDS_DE_A1 = [
       "zh": "钱",
       "ru": "деньги"
     },
-    "examples": ["Ich habe kein Geld dabei."],
+    "examples": [
+      "Ich habe kein Geld dabei."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -7646,7 +7536,10 @@ const WORDS_DE_A1 = [
     "lemma": "Gemüse",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Gemüse",
       "ko": "채소",
@@ -7659,7 +7552,9 @@ const WORDS_DE_A1 = [
       "zh": "蔬菜",
       "ru": "овощи"
     },
-    "examples": ["Wir kaufen unser Gemüse auf dem Markt."],
+    "examples": [
+      "Wir kaufen unser Gemüse auf dem Markt."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -7669,7 +7564,10 @@ const WORDS_DE_A1 = [
     "lemma": "Gepäck",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel"],
+    "tags": [
+      "exam",
+      "travel"
+    ],
     "meanings": {
       "de": "Gepäck",
       "ko": "짐",
@@ -7682,7 +7580,9 @@ const WORDS_DE_A1 = [
       "zh": "行李",
       "ru": "багаж"
     },
-    "examples": ["Sie können Ihr Gepäck hier lassen."],
+    "examples": [
+      "Sie können Ihr Gepäck hier lassen."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -7692,7 +7592,11 @@ const WORDS_DE_A1 = [
     "lemma": "geradeaus",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location", "travel"],
+    "tags": [
+      "exam",
+      "location",
+      "travel"
+    ],
     "meanings": {
       "de": "geradeaus",
       "ko": "똑바로",
@@ -7705,7 +7609,9 @@ const WORDS_DE_A1 = [
       "zh": "直行",
       "ru": "прямо"
     },
-    "examples": ["Gehen Sie immer geradeaus!"],
+    "examples": [
+      "Gehen Sie immer geradeaus!"
+    ],
     "meta": {}
   },
   {
@@ -7713,7 +7619,11 @@ const WORDS_DE_A1 = [
     "lemma": "gern",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "preference"],
+    "tags": [
+      "exam",
+      "basic",
+      "preference"
+    ],
     "meanings": {
       "de": "gern",
       "ko": "기꺼이",
@@ -7726,7 +7636,9 @@ const WORDS_DE_A1 = [
       "zh": "乐意",
       "ru": "охотно"
     },
-    "examples": ["Ich helfe Ihnen gern."],
+    "examples": [
+      "Ich helfe Ihnen gern."
+    ],
     "meta": {}
   },
   {
@@ -7734,7 +7646,11 @@ const WORDS_DE_A1 = [
     "lemma": "Geschäft",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "city"],
+    "tags": [
+      "exam",
+      "shopping",
+      "city"
+    ],
     "meanings": {
       "de": "Geschäft",
       "ko": "가게",
@@ -7747,7 +7663,9 @@ const WORDS_DE_A1 = [
       "zh": "商店",
       "ru": "магазин"
     },
-    "examples": ["Die Geschäfte schließen um 18.30 Uhr."],
+    "examples": [
+      "Die Geschäfte schließen um 18.30 Uhr."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Geschäfte"
@@ -7757,7 +7675,11 @@ const WORDS_DE_A1 = [
     "lemma": "Geschenk",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "celebration", "shopping"],
+    "tags": [
+      "exam",
+      "celebration",
+      "shopping"
+    ],
     "meanings": {
       "de": "Geschenk",
       "ko": "선물",
@@ -7770,7 +7692,9 @@ const WORDS_DE_A1 = [
       "zh": "礼物",
       "ru": "подарок"
     },
-    "examples": ["Das ist ein schönes Geschenk."],
+    "examples": [
+      "Das ist ein schönes Geschenk."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Geschenke"
@@ -7780,7 +7704,10 @@ const WORDS_DE_A1 = [
     "lemma": "Geschwister",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Geschwister",
       "ko": "형제자매",
@@ -7793,7 +7720,9 @@ const WORDS_DE_A1 = [
       "zh": "兄弟姐妹",
       "ru": "братья и сестры"
     },
-    "examples": ["Ich habe keine Geschwister."],
+    "examples": [
+      "Ich habe keine Geschwister."
+    ],
     "meta": {},
     "gender": "",
     "plural": "Geschwister"
@@ -7803,7 +7732,10 @@ const WORDS_DE_A1 = [
     "lemma": "Gespräch",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "communication"],
+    "tags": [
+      "exam",
+      "communication"
+    ],
     "meanings": {
       "de": "Gespräch",
       "ko": "대화",
@@ -7816,7 +7748,9 @@ const WORDS_DE_A1 = [
       "zh": "谈话",
       "ru": "разговор"
     },
-    "examples": ["Das war ein interessantes Gespräch."],
+    "examples": [
+      "Das war ein interessantes Gespräch."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Gespräche"
@@ -7826,7 +7760,10 @@ const WORDS_DE_A1 = [
     "lemma": "gestern",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "gestern",
       "ko": "어제",
@@ -7839,7 +7776,9 @@ const WORDS_DE_A1 = [
       "zh": "昨天",
       "ru": "вчера"
     },
-    "examples": ["Gestern war ich krank."],
+    "examples": [
+      "Gestern war ich krank."
+    ],
     "meta": {}
   },
   {
@@ -7847,7 +7786,10 @@ const WORDS_DE_A1 = [
     "lemma": "gesund",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "health"],
+    "tags": [
+      "exam",
+      "health"
+    ],
     "meanings": {
       "de": "gesund",
       "ko": "건강한",
@@ -7860,7 +7802,9 @@ const WORDS_DE_A1 = [
       "zh": "健康",
       "ru": "здоровый"
     },
-    "examples": ["Ich hoffe, Sie sind bald wieder gesund."],
+    "examples": [
+      "Ich hoffe, Sie sind bald wieder gesund."
+    ],
     "meta": {}
   },
   {
@@ -7868,7 +7812,10 @@ const WORDS_DE_A1 = [
     "lemma": "Getränk",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Getränk",
       "ko": "음료",
@@ -7881,7 +7828,9 @@ const WORDS_DE_A1 = [
       "zh": "饮料",
       "ru": "напиток"
     },
-    "examples": ["Die Getränke kosten extra."],
+    "examples": [
+      "Die Getränke kosten extra."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Getränke"
@@ -7891,7 +7840,11 @@ const WORDS_DE_A1 = [
     "lemma": "Gewicht",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "health", "measurement"],
+    "tags": [
+      "exam",
+      "health",
+      "measurement"
+    ],
     "meanings": {
       "de": "Gewicht",
       "ko": "몸무게",
@@ -7904,7 +7857,9 @@ const WORDS_DE_A1 = [
       "zh": "重量",
       "ru": "вес"
     },
-    "examples": ["Bei „Gewicht“ schreibst du 62 Kilo."],
+    "examples": [
+      "Bei „Gewicht“ schreibst du 62 Kilo."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Gewichte"
@@ -7914,7 +7869,11 @@ const WORDS_DE_A1 = [
     "lemma": "gewinnen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "sport"],
+    "tags": [
+      "exam",
+      "leisure",
+      "sport"
+    ],
     "meanings": {
       "de": "gewinnen",
       "ko": "이기다",
@@ -7927,7 +7886,9 @@ const WORDS_DE_A1 = [
       "zh": "赢",
       "ru": "выигрывать"
     },
-    "examples": ["Unsere Mannschaft hat gewonnen."],
+    "examples": [
+      "Unsere Mannschaft hat gewonnen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich gewinne",
@@ -7943,7 +7904,11 @@ const WORDS_DE_A1 = [
     "lemma": "Gitarre",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "music"],
+    "tags": [
+      "exam",
+      "leisure",
+      "music"
+    ],
     "meanings": {
       "de": "Gitarre",
       "ko": "기타",
@@ -7956,7 +7921,9 @@ const WORDS_DE_A1 = [
       "zh": "吉他",
       "ru": "гитара"
     },
-    "examples": ["Er spielt gut Gitarre."],
+    "examples": [
+      "Er spielt gut Gitarre."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Gitarren"
@@ -7966,7 +7933,11 @@ const WORDS_DE_A1 = [
     "lemma": "Glas",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "kitchen"],
+    "tags": [
+      "exam",
+      "food",
+      "kitchen"
+    ],
     "meanings": {
       "de": "Glas",
       "ko": "유리잔",
@@ -7979,7 +7950,9 @@ const WORDS_DE_A1 = [
       "zh": "玻璃杯",
       "ru": "стакан"
     },
-    "examples": ["Bitte noch ein Glas Wein!"],
+    "examples": [
+      "Bitte noch ein Glas Wein!"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Gläser"
@@ -7989,7 +7962,11 @@ const WORDS_DE_A1 = [
     "lemma": "glauben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "opinion", "basic"],
+    "tags": [
+      "exam",
+      "opinion",
+      "basic"
+    ],
     "meanings": {
       "de": "glauben",
       "ko": "믿다",
@@ -8002,7 +7979,9 @@ const WORDS_DE_A1 = [
       "zh": "相信",
       "ru": "верить"
     },
-    "examples": ["Ich glaube, er kommt gleich."],
+    "examples": [
+      "Ich glaube, er kommt gleich."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich glaube",
@@ -8018,7 +7997,11 @@ const WORDS_DE_A1 = [
     "lemma": "gleich",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "gleich",
       "ko": "곧",
@@ -8031,7 +8014,9 @@ const WORDS_DE_A1 = [
       "zh": "马上",
       "ru": "сейчас"
     },
-    "examples": ["Ich komme gleich."],
+    "examples": [
+      "Ich komme gleich."
+    ],
     "meta": {}
   },
   {
@@ -8039,7 +8024,11 @@ const WORDS_DE_A1 = [
     "lemma": "Gleis",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "train"],
+    "tags": [
+      "exam",
+      "travel",
+      "train"
+    ],
     "meanings": {
       "de": "Gleis",
       "ko": "선로",
@@ -8052,7 +8041,9 @@ const WORDS_DE_A1 = [
       "zh": "站台",
       "ru": "путь"
     },
-    "examples": ["Der Zug fährt auf Gleis 7 ab."],
+    "examples": [
+      "Der Zug fährt auf Gleis 7 ab."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Gleise"
@@ -8062,7 +8053,11 @@ const WORDS_DE_A1 = [
     "lemma": "Glück",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "basic"],
+    "tags": [
+      "exam",
+      "feeling",
+      "basic"
+    ],
     "meanings": {
       "de": "Glück",
       "ko": "행운",
@@ -8075,7 +8070,9 @@ const WORDS_DE_A1 = [
       "zh": "幸运",
       "ru": "счастье"
     },
-    "examples": ["Viel Glück!"],
+    "examples": [
+      "Viel Glück!"
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -8085,7 +8082,10 @@ const WORDS_DE_A1 = [
     "lemma": "glücklich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "feeling"],
+    "tags": [
+      "exam",
+      "feeling"
+    ],
     "meanings": {
       "de": "glücklich",
       "ko": "행복한",
@@ -8098,7 +8098,9 @@ const WORDS_DE_A1 = [
       "zh": "幸福",
       "ru": "счастливый"
     },
-    "examples": ["Meine Kinder sind glücklich."],
+    "examples": [
+      "Meine Kinder sind glücklich."
+    ],
     "meta": {}
   },
   {
@@ -8106,7 +8108,11 @@ const WORDS_DE_A1 = [
     "lemma": "Glückwunsch",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "celebration", "communication"],
+    "tags": [
+      "exam",
+      "celebration",
+      "communication"
+    ],
     "meanings": {
       "de": "Glückwunsch",
       "ko": "축하",
@@ -8119,7 +8125,9 @@ const WORDS_DE_A1 = [
       "zh": "祝贺",
       "ru": "поздравление"
     },
-    "examples": ["Herzlichen Glückwunsch!"],
+    "examples": [
+      "Herzlichen Glückwunsch!"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Glückwünsche"
@@ -8129,7 +8137,11 @@ const WORDS_DE_A1 = [
     "lemma": "Grad",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "weather", "measurement"],
+    "tags": [
+      "exam",
+      "weather",
+      "measurement"
+    ],
     "meanings": {
       "de": "Grad",
       "ko": "도",
@@ -8142,7 +8154,9 @@ const WORDS_DE_A1 = [
       "zh": "度",
       "ru": "градус"
     },
-    "examples": ["Heute sind es 30 Grad."],
+    "examples": [
+      "Heute sind es 30 Grad."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Grad"
@@ -8152,7 +8166,11 @@ const WORDS_DE_A1 = [
     "lemma": "gratulieren",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "celebration", "communication"],
+    "tags": [
+      "exam",
+      "celebration",
+      "communication"
+    ],
     "meanings": {
       "de": "gratulieren",
       "ko": "축하하다",
@@ -8165,7 +8183,9 @@ const WORDS_DE_A1 = [
       "zh": "祝贺",
       "ru": "поздравлять"
     },
-    "examples": ["Ich gratuliere dir!"],
+    "examples": [
+      "Ich gratuliere dir!"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich gratuliere",
@@ -8181,7 +8201,11 @@ const WORDS_DE_A1 = [
     "lemma": "grillen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "food"],
+    "tags": [
+      "exam",
+      "leisure",
+      "food"
+    ],
     "meanings": {
       "de": "grillen",
       "ko": "고기를 굽다",
@@ -8194,7 +8218,9 @@ const WORDS_DE_A1 = [
       "zh": "烧烤",
       "ru": "жарить на гриле"
     },
-    "examples": ["Heute grillen wir im Garten."],
+    "examples": [
+      "Heute grillen wir im Garten."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich grille",
@@ -8210,7 +8236,11 @@ const WORDS_DE_A1 = [
     "lemma": "groß",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "description"],
+    "tags": [
+      "exam",
+      "basic",
+      "description"
+    ],
     "meanings": {
       "de": "groß",
       "ko": "큰",
@@ -8223,7 +8253,9 @@ const WORDS_DE_A1 = [
       "zh": "大",
       "ru": "большой"
     },
-    "examples": ["Mein Bruder ist sehr groß."],
+    "examples": [
+      "Mein Bruder ist sehr groß."
+    ],
     "meta": {}
   },
   {
@@ -8231,7 +8263,11 @@ const WORDS_DE_A1 = [
     "lemma": "Größe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "clothing"],
+    "tags": [
+      "exam",
+      "shopping",
+      "clothing"
+    ],
     "meanings": {
       "de": "Größe",
       "ko": "사이즈",
@@ -8244,7 +8280,9 @@ const WORDS_DE_A1 = [
       "zh": "大小",
       "ru": "размер"
     },
-    "examples": ["Haben Sie das auch in Größe 40?"],
+    "examples": [
+      "Haben Sie das auch in Größe 40?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Größen"
@@ -8254,7 +8292,10 @@ const WORDS_DE_A1 = [
     "lemma": "Gruppe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society"],
+    "tags": [
+      "exam",
+      "society"
+    ],
     "meanings": {
       "de": "Gruppe",
       "ko": "그룹",
@@ -8267,7 +8308,9 @@ const WORDS_DE_A1 = [
       "zh": "组",
       "ru": "группа"
     },
-    "examples": ["Die erste Gruppe beginnt um 9 Uhr."],
+    "examples": [
+      "Die erste Gruppe beginnt um 9 Uhr."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Gruppen"
@@ -8277,7 +8320,10 @@ const WORDS_DE_A1 = [
     "lemma": "Gruß",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "communication"],
+    "tags": [
+      "exam",
+      "communication"
+    ],
     "meanings": {
       "de": "Gruß",
       "ko": "인사",
@@ -8290,7 +8336,9 @@ const WORDS_DE_A1 = [
       "zh": "问候",
       "ru": "приветствие"
     },
-    "examples": ["Viele Grüße an Ihre Frau."],
+    "examples": [
+      "Viele Grüße an Ihre Frau."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Grüße"
@@ -8300,7 +8348,11 @@ const WORDS_DE_A1 = [
     "lemma": "gültig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "travel", "rules"],
+    "tags": [
+      "exam",
+      "travel",
+      "rules"
+    ],
     "meanings": {
       "de": "gültig",
       "ko": "유효한",
@@ -8313,7 +8365,9 @@ const WORDS_DE_A1 = [
       "zh": "有效",
       "ru": "действительный"
     },
-    "examples": ["Der Pass ist nicht mehr gültig."],
+    "examples": [
+      "Der Pass ist nicht mehr gültig."
+    ],
     "meta": {}
   },
   {
@@ -8321,7 +8375,10 @@ const WORDS_DE_A1 = [
     "lemma": "günstig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "shopping"],
+    "tags": [
+      "exam",
+      "shopping"
+    ],
     "meanings": {
       "de": "günstig",
       "ko": "저렴한",
@@ -8334,7 +8391,9 @@ const WORDS_DE_A1 = [
       "zh": "便宜",
       "ru": "выгодный"
     },
-    "examples": ["Dort gibt es günstige Angebote."],
+    "examples": [
+      "Dort gibt es günstige Angebote."
+    ],
     "meta": {}
   },
   {
@@ -8342,7 +8401,11 @@ const WORDS_DE_A1 = [
     "lemma": "gut",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "opinion"],
+    "tags": [
+      "exam",
+      "basic",
+      "opinion"
+    ],
     "meanings": {
       "de": "gut",
       "ko": "좋은",
@@ -8355,7 +8418,9 @@ const WORDS_DE_A1 = [
       "zh": "好",
       "ru": "хороший"
     },
-    "examples": ["Das Essen schmeckt gut."],
+    "examples": [
+      "Das Essen schmeckt gut."
+    ],
     "meta": {}
   },
   {
@@ -8363,7 +8428,10 @@ const WORDS_DE_A1 = [
     "lemma": "Haar",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "body"],
+    "tags": [
+      "exam",
+      "body"
+    ],
     "meanings": {
       "de": "Haar",
       "ko": "머리카락",
@@ -8376,7 +8444,9 @@ const WORDS_DE_A1 = [
       "zh": "头发",
       "ru": "волосы"
     },
-    "examples": ["Sie hat lange Haare."],
+    "examples": [
+      "Sie hat lange Haare."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Haare"
@@ -8386,7 +8456,10 @@ const WORDS_DE_A1 = [
     "lemma": "haben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "haben",
       "ko": "가지고 있다",
@@ -8399,7 +8472,9 @@ const WORDS_DE_A1 = [
       "zh": "有",
       "ru": "иметь"
     },
-    "examples": ["Ich habe ein neues Auto."],
+    "examples": [
+      "Ich habe ein neues Auto."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich habe",
@@ -8415,7 +8490,10 @@ const WORDS_DE_A1 = [
     "lemma": "Hähnchen",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Hähnchen",
       "ko": "닭고기",
@@ -8428,7 +8506,9 @@ const WORDS_DE_A1 = [
       "zh": "鸡肉",
       "ru": "курица"
     },
-    "examples": ["Ein Hähnchen mit Pommes, bitte."],
+    "examples": [
+      "Ein Hähnchen mit Pommes, bitte."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Hähnchen"
@@ -8438,7 +8518,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hallo",
     "pos": "Interjektion",
     "cefr": "A1",
-    "tags": ["exam", "communication", "basic"],
+    "tags": [
+      "exam",
+      "communication",
+      "basic"
+    ],
     "meanings": {
       "de": "Hallo",
       "ko": "안녕",
@@ -8451,7 +8535,9 @@ const WORDS_DE_A1 = [
       "zh": "你好",
       "ru": "привет"
     },
-    "examples": ["Hallo, wie geht's?"],
+    "examples": [
+      "Hallo, wie geht's?"
+    ],
     "meta": {}
   },
   {
@@ -8459,7 +8545,11 @@ const WORDS_DE_A1 = [
     "lemma": "halb",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "halb",
       "ko": "절반의",
@@ -8472,7 +8562,9 @@ const WORDS_DE_A1 = [
       "zh": "半",
       "ru": "половина"
     },
-    "examples": ["Es ist halb acht."],
+    "examples": [
+      "Es ist halb acht."
+    ],
     "meta": {}
   },
   {
@@ -8480,7 +8572,11 @@ const WORDS_DE_A1 = [
     "lemma": "Halbpension",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "housing"],
+    "tags": [
+      "exam",
+      "travel",
+      "housing"
+    ],
     "meanings": {
       "de": "Halbpension",
       "ko": "1일 2식",
@@ -8493,7 +8589,9 @@ const WORDS_DE_A1 = [
       "zh": "半食宿",
       "ru": "полупансион"
     },
-    "examples": ["Möchten Sie Vollpension oder Halbpension?"],
+    "examples": [
+      "Möchten Sie Vollpension oder Halbpension?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -8503,7 +8601,10 @@ const WORDS_DE_A1 = [
     "lemma": "Halt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel"],
+    "tags": [
+      "exam",
+      "travel"
+    ],
     "meanings": {
       "de": "Halt",
       "ko": "정거장",
@@ -8516,7 +8617,9 @@ const WORDS_DE_A1 = [
       "zh": "停止",
       "ru": "остановка"
     },
-    "examples": ["Nächster Halt: Hauptbahnhof."],
+    "examples": [
+      "Nächster Halt: Hauptbahnhof."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Halte"
@@ -8526,7 +8629,11 @@ const WORDS_DE_A1 = [
     "lemma": "halten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "travel", "daily"],
+    "tags": [
+      "exam",
+      "travel",
+      "daily"
+    ],
     "meanings": {
       "de": "halten",
       "ko": "멈추다",
@@ -8539,7 +8646,9 @@ const WORDS_DE_A1 = [
       "zh": "停",
       "ru": "останавливаться"
     },
-    "examples": ["Der Zug hält nicht in Rüdesheim."],
+    "examples": [
+      "Der Zug hält nicht in Rüdesheim."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich halte",
@@ -8555,7 +8664,11 @@ const WORDS_DE_A1 = [
     "lemma": "Haltestelle",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "city"],
+    "tags": [
+      "exam",
+      "travel",
+      "city"
+    ],
     "meanings": {
       "de": "Haltestelle",
       "ko": "정류장",
@@ -8568,7 +8681,9 @@ const WORDS_DE_A1 = [
       "zh": "车站",
       "ru": "остановка"
     },
-    "examples": ["An der nächsten Haltestelle müssen Sie aussteigen."],
+    "examples": [
+      "An der nächsten Haltestelle müssen Sie aussteigen."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Haltestellen"
@@ -8578,7 +8693,10 @@ const WORDS_DE_A1 = [
     "lemma": "Hand",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "body"],
+    "tags": [
+      "exam",
+      "body"
+    ],
     "meanings": {
       "de": "Hand",
       "ko": "손",
@@ -8591,7 +8709,9 @@ const WORDS_DE_A1 = [
       "zh": "手",
       "ru": "рука"
     },
-    "examples": ["Was hast du in der Hand?"],
+    "examples": [
+      "Was hast du in der Hand?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Hände"
@@ -8601,7 +8721,11 @@ const WORDS_DE_A1 = [
     "lemma": "Handy",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "technology", "communication"],
+    "tags": [
+      "exam",
+      "technology",
+      "communication"
+    ],
     "meanings": {
       "de": "Handy",
       "ko": "휴대전화",
@@ -8614,7 +8738,9 @@ const WORDS_DE_A1 = [
       "zh": "手机",
       "ru": "мобильный телефон"
     },
-    "examples": ["In der Schule sind Handys verboten."],
+    "examples": [
+      "In der Schule sind Handys verboten."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Handys"
@@ -8624,7 +8750,11 @@ const WORDS_DE_A1 = [
     "lemma": "Haus",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "basic"],
+    "tags": [
+      "exam",
+      "housing",
+      "basic"
+    ],
     "meanings": {
       "de": "Haus",
       "ko": "집",
@@ -8637,7 +8767,9 @@ const WORDS_DE_A1 = [
       "zh": "房子",
       "ru": "дом"
     },
-    "examples": ["Ich gehe jetzt nach Hause."],
+    "examples": [
+      "Ich gehe jetzt nach Hause."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Häuser"
@@ -8647,7 +8779,10 @@ const WORDS_DE_A1 = [
     "lemma": "Hausaufgabe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "school"],
+    "tags": [
+      "exam",
+      "school"
+    ],
     "meanings": {
       "de": "Hausaufgabe",
       "ko": "숙제",
@@ -8660,7 +8795,9 @@ const WORDS_DE_A1 = [
       "zh": "家庭作业",
       "ru": "домашнее задание"
     },
-    "examples": ["Kannst du mir bei den Hausaufgaben helfen?"],
+    "examples": [
+      "Kannst du mir bei den Hausaufgaben helfen?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Hausaufgaben"
@@ -8670,7 +8807,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hausfrau",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "society"],
+    "tags": [
+      "exam",
+      "work",
+      "society"
+    ],
     "meanings": {
       "de": "Hausfrau",
       "ko": "주부",
@@ -8683,7 +8824,9 @@ const WORDS_DE_A1 = [
       "zh": "家庭主妇",
       "ru": "домохозяйка"
     },
-    "examples": ["Sie arbeitet nicht, sie ist Hausfrau."],
+    "examples": [
+      "Sie arbeitet nicht, sie ist Hausfrau."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Hausfrauen"
@@ -8693,7 +8836,11 @@ const WORDS_DE_A1 = [
     "lemma": "Haushalt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "daily"],
+    "tags": [
+      "exam",
+      "housing",
+      "daily"
+    ],
     "meanings": {
       "de": "Haushalt",
       "ko": "살림",
@@ -8706,7 +8853,9 @@ const WORDS_DE_A1 = [
       "zh": "家务",
       "ru": "домашнее хозяйство"
     },
-    "examples": ["Ich mache den Haushalt allein."],
+    "examples": [
+      "Ich mache den Haushalt allein."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Haushalte"
@@ -8716,7 +8865,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hausmann",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "society"],
+    "tags": [
+      "exam",
+      "work",
+      "society"
+    ],
     "meanings": {
       "de": "Hausmann",
       "ko": "남자 주부",
@@ -8729,7 +8882,9 @@ const WORDS_DE_A1 = [
       "zh": "家庭主夫",
       "ru": "домохозяин"
     },
-    "examples": ["Er ist Hausmann."],
+    "examples": [
+      "Er ist Hausmann."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Hausmänner"
@@ -8739,7 +8894,10 @@ const WORDS_DE_A1 = [
     "lemma": "Heimat",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society"],
+    "tags": [
+      "exam",
+      "society"
+    ],
     "meanings": {
       "de": "Heimat",
       "ko": "고향",
@@ -8752,7 +8910,9 @@ const WORDS_DE_A1 = [
       "zh": "家乡",
       "ru": "родина"
     },
-    "examples": ["Das ist meine Heimat."],
+    "examples": [
+      "Das ist meine Heimat."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Heimaten"
@@ -8762,7 +8922,11 @@ const WORDS_DE_A1 = [
     "lemma": "heiraten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "family", "social"],
+    "tags": [
+      "exam",
+      "family",
+      "social"
+    ],
     "meanings": {
       "de": "heiraten",
       "ko": "결혼하다",
@@ -8775,7 +8939,9 @@ const WORDS_DE_A1 = [
       "zh": "结婚",
       "ru": "жениться"
     },
-    "examples": ["Sie heiratet einen Japaner."],
+    "examples": [
+      "Sie heiratet einen Japaner."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich heirate",
@@ -8791,7 +8957,11 @@ const WORDS_DE_A1 = [
     "lemma": "heißen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "personal_info"],
+    "tags": [
+      "exam",
+      "basic",
+      "personal_info"
+    ],
     "meanings": {
       "de": "heißen",
       "ko": "불리다",
@@ -8804,7 +8974,9 @@ const WORDS_DE_A1 = [
       "zh": "名叫",
       "ru": "называться"
     },
-    "examples": ["Ich heiße Anna."],
+    "examples": [
+      "Ich heiße Anna."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich heiße",
@@ -8820,7 +8992,11 @@ const WORDS_DE_A1 = [
     "lemma": "helfen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "social", "basic"],
+    "tags": [
+      "exam",
+      "social",
+      "basic"
+    ],
     "meanings": {
       "de": "helfen",
       "ko": "돕다",
@@ -8833,7 +9009,9 @@ const WORDS_DE_A1 = [
       "zh": "帮助",
       "ru": "помогать"
     },
-    "examples": ["Können Sie mir helfen?"],
+    "examples": [
+      "Können Sie mir helfen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich helfe",
@@ -8849,7 +9027,10 @@ const WORDS_DE_A1 = [
     "lemma": "hell",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "hell",
       "ko": "밝은",
@@ -8862,7 +9043,9 @@ const WORDS_DE_A1 = [
       "zh": "明亮",
       "ru": "светлый"
     },
-    "examples": ["Es ist noch hell."],
+    "examples": [
+      "Es ist noch hell."
+    ],
     "meta": {}
   },
   {
@@ -8870,7 +9053,11 @@ const WORDS_DE_A1 = [
     "lemma": "Herd",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "kitchen"],
+    "tags": [
+      "exam",
+      "housing",
+      "kitchen"
+    ],
     "meanings": {
       "de": "Herd",
       "ko": "조리기",
@@ -8883,7 +9070,9 @@ const WORDS_DE_A1 = [
       "zh": "炉灶",
       "ru": "плита"
     },
-    "examples": ["Der Herd ist neu."],
+    "examples": [
+      "Der Herd ist neu."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Herde"
@@ -8893,7 +9082,11 @@ const WORDS_DE_A1 = [
     "lemma": "Herr",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "communication", "title"],
+    "tags": [
+      "exam",
+      "communication",
+      "title"
+    ],
     "meanings": {
       "de": "Herr",
       "ko": "씨",
@@ -8906,7 +9099,9 @@ const WORDS_DE_A1 = [
       "zh": "先生",
       "ru": "господин"
     },
-    "examples": ["Guten Tag, Herr Müller."],
+    "examples": [
+      "Guten Tag, Herr Müller."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Herren"
@@ -8916,7 +9111,11 @@ const WORDS_DE_A1 = [
     "lemma": "herzlich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "communication", "celebration"],
+    "tags": [
+      "exam",
+      "communication",
+      "celebration"
+    ],
     "meanings": {
       "de": "herzlich",
       "ko": "진심으로",
@@ -8929,7 +9128,9 @@ const WORDS_DE_A1 = [
       "zh": "衷心",
       "ru": "сердечный"
     },
-    "examples": ["Herzlichen Glückwunsch!"],
+    "examples": [
+      "Herzlichen Glückwunsch!"
+    ],
     "meta": {}
   },
   {
@@ -8937,7 +9138,11 @@ const WORDS_DE_A1 = [
     "lemma": "heute",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "heute",
       "ko": "오늘",
@@ -8950,7 +9155,9 @@ const WORDS_DE_A1 = [
       "zh": "今天",
       "ru": "сегодня"
     },
-    "examples": ["Heute ist Montag."],
+    "examples": [
+      "Heute ist Montag."
+    ],
     "meta": {}
   },
   {
@@ -8958,7 +9165,11 @@ const WORDS_DE_A1 = [
     "lemma": "hier",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location", "basic"],
+    "tags": [
+      "exam",
+      "location",
+      "basic"
+    ],
     "meanings": {
       "de": "hier",
       "ko": "여기",
@@ -8971,7 +9182,9 @@ const WORDS_DE_A1 = [
       "zh": "这里",
       "ru": "здесь"
     },
-    "examples": ["Hier wohne ich."],
+    "examples": [
+      "Hier wohne ich."
+    ],
     "meta": {}
   },
   {
@@ -8979,7 +9192,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hilfe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic", "social"],
+    "tags": [
+      "exam",
+      "basic",
+      "social"
+    ],
     "meanings": {
       "de": "Hilfe",
       "ko": "도움",
@@ -8992,7 +9209,9 @@ const WORDS_DE_A1 = [
       "zh": "帮助",
       "ru": "помощь"
     },
-    "examples": ["Ich brauche Hilfe."],
+    "examples": [
+      "Ich brauche Hilfe."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Hilfen"
@@ -9002,7 +9221,10 @@ const WORDS_DE_A1 = [
     "lemma": "hinten",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location"],
+    "tags": [
+      "exam",
+      "location"
+    ],
     "meanings": {
       "de": "hinten",
       "ko": "뒤에",
@@ -9015,7 +9237,9 @@ const WORDS_DE_A1 = [
       "zh": "后面",
       "ru": "сзади"
     },
-    "examples": ["Die Toilette ist hinten."],
+    "examples": [
+      "Die Toilette ist hinten."
+    ],
     "meta": {}
   },
   {
@@ -9023,7 +9247,10 @@ const WORDS_DE_A1 = [
     "lemma": "Hobby",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure"],
+    "tags": [
+      "exam",
+      "leisure"
+    ],
     "meanings": {
       "de": "Hobby",
       "ko": "취미",
@@ -9036,7 +9263,9 @@ const WORDS_DE_A1 = [
       "zh": "爱好",
       "ru": "хобби"
     },
-    "examples": ["Mein Hobby ist Lesen."],
+    "examples": [
+      "Mein Hobby ist Lesen."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Hobbys"
@@ -9046,7 +9275,11 @@ const WORDS_DE_A1 = [
     "lemma": "hoch",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "measurement", "description"],
+    "tags": [
+      "exam",
+      "measurement",
+      "description"
+    ],
     "meanings": {
       "de": "hoch",
       "ko": "높은",
@@ -9059,7 +9292,9 @@ const WORDS_DE_A1 = [
       "zh": "高",
       "ru": "высокий"
     },
-    "examples": ["Der Berg ist hoch."],
+    "examples": [
+      "Der Berg ist hoch."
+    ],
     "meta": {}
   },
   {
@@ -9067,7 +9302,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hochzeit",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family", "celebration"],
+    "tags": [
+      "exam",
+      "family",
+      "celebration"
+    ],
     "meanings": {
       "de": "Hochzeit",
       "ko": "결혼식",
@@ -9080,7 +9319,9 @@ const WORDS_DE_A1 = [
       "zh": "婚礼",
       "ru": "свадьба"
     },
-    "examples": ["Wir feiern Hochzeit."],
+    "examples": [
+      "Wir feiern Hochzeit."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Hochzeiten"
@@ -9090,7 +9331,10 @@ const WORDS_DE_A1 = [
     "lemma": "holen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily"],
+    "tags": [
+      "exam",
+      "daily"
+    ],
     "meanings": {
       "de": "holen",
       "ko": "가져오다",
@@ -9103,7 +9347,9 @@ const WORDS_DE_A1 = [
       "zh": "拿",
       "ru": "приносить"
     },
-    "examples": ["Ich hole das Auto."],
+    "examples": [
+      "Ich hole das Auto."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich hole",
@@ -9119,7 +9365,11 @@ const WORDS_DE_A1 = [
     "lemma": "hören",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "perception"],
+    "tags": [
+      "exam",
+      "basic",
+      "perception"
+    ],
     "meanings": {
       "de": "hören",
       "ko": "듣다",
@@ -9132,7 +9382,9 @@ const WORDS_DE_A1 = [
       "zh": "听",
       "ru": "слышать"
     },
-    "examples": ["Ich höre Musik."],
+    "examples": [
+      "Ich höre Musik."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich höre",
@@ -9148,7 +9400,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hotel",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "housing"],
+    "tags": [
+      "exam",
+      "travel",
+      "housing"
+    ],
     "meanings": {
       "de": "Hotel",
       "ko": "호텔",
@@ -9161,7 +9417,9 @@ const WORDS_DE_A1 = [
       "zh": "饭店",
       "ru": "отель"
     },
-    "examples": ["Wir wohnen im Hotel."],
+    "examples": [
+      "Wir wohnen im Hotel."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Hotels"
@@ -9171,7 +9429,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hund",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "animal", "daily"],
+    "tags": [
+      "exam",
+      "animal",
+      "daily"
+    ],
     "meanings": {
       "de": "Hund",
       "ko": "개",
@@ -9184,7 +9446,9 @@ const WORDS_DE_A1 = [
       "zh": "狗",
       "ru": "собака"
     },
-    "examples": ["Der Hund bellt."],
+    "examples": [
+      "Der Hund bellt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Hunde"
@@ -9194,7 +9458,11 @@ const WORDS_DE_A1 = [
     "lemma": "Hunger",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "feeling"],
+    "tags": [
+      "exam",
+      "food",
+      "feeling"
+    ],
     "meanings": {
       "de": "Hunger",
       "ko": "배고픔",
@@ -9207,7 +9475,9 @@ const WORDS_DE_A1 = [
       "zh": "饿",
       "ru": "голод"
     },
-    "examples": ["Ich habe Hunger."],
+    "examples": [
+      "Ich habe Hunger."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -9217,7 +9487,10 @@ const WORDS_DE_A1 = [
     "lemma": "ich",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "ich",
       "ko": "나",
@@ -9230,7 +9503,9 @@ const WORDS_DE_A1 = [
       "zh": "我",
       "ru": "я"
     },
-    "examples": ["Ich bin Student."],
+    "examples": [
+      "Ich bin Student."
+    ],
     "meta": {}
   },
   {
@@ -9238,7 +9513,10 @@ const WORDS_DE_A1 = [
     "lemma": "ihr",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "ihr",
       "ko": "그녀에게",
@@ -9251,7 +9529,9 @@ const WORDS_DE_A1 = [
       "zh": "她",
       "ru": "ей"
     },
-    "examples": ["Gib ihr das Buch."],
+    "examples": [
+      "Gib ihr das Buch."
+    ],
     "meta": {}
   },
   {
@@ -9259,7 +9539,10 @@ const WORDS_DE_A1 = [
     "lemma": "ihm",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "ihm",
       "ko": "그에게",
@@ -9272,7 +9555,9 @@ const WORDS_DE_A1 = [
       "zh": "他",
       "ru": "ему"
     },
-    "examples": ["Ich helfe ihm."],
+    "examples": [
+      "Ich helfe ihm."
+    ],
     "meta": {}
   },
   {
@@ -9280,7 +9565,10 @@ const WORDS_DE_A1 = [
     "lemma": "ihn",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "ihn",
       "ko": "그를",
@@ -9293,7 +9581,9 @@ const WORDS_DE_A1 = [
       "zh": "他",
       "ru": "его"
     },
-    "examples": ["Ich sehe ihn."],
+    "examples": [
+      "Ich sehe ihn."
+    ],
     "meta": {}
   },
   {
@@ -9301,7 +9591,11 @@ const WORDS_DE_A1 = [
     "lemma": "immer",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "immer",
       "ko": "항상",
@@ -9315,7 +9609,8 @@ const WORDS_DE_A1 = [
       "ru": "всегда"
     },
     "examples": [
-      "Er kommt immer zu spät."],
+      "Er kommt immer zu spät."
+    ],
     "meta": {}
   },
   {
@@ -9323,7 +9618,12 @@ const WORDS_DE_A1 = [
     "lemma": "in",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "location", "time", "basic"],
+    "tags": [
+      "exam",
+      "location",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "in",
       "ko": "안에",
@@ -9336,7 +9636,9 @@ const WORDS_DE_A1 = [
       "zh": "在里面",
       "ru": "в"
     },
-    "examples": ["Ich bin in der Schule."],
+    "examples": [
+      "Ich bin in der Schule."
+    ],
     "meta": {}
   },
   {
@@ -9344,7 +9646,11 @@ const WORDS_DE_A1 = [
     "lemma": "Information",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "communication"],
+    "tags": [
+      "exam",
+      "daily",
+      "communication"
+    ],
     "meanings": {
       "de": "Information",
       "ko": "안내소",
@@ -9357,7 +9663,9 @@ const WORDS_DE_A1 = [
       "zh": "信息",
       "ru": "информация"
     },
-    "examples": ["Gehen Sie zur Information."],
+    "examples": [
+      "Gehen Sie zur Information."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Informationen"
@@ -9367,7 +9675,10 @@ const WORDS_DE_A1 = [
     "lemma": "international",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "society"],
+    "tags": [
+      "exam",
+      "society"
+    ],
     "meanings": {
       "de": "international",
       "ko": "국제적인",
@@ -9380,7 +9691,9 @@ const WORDS_DE_A1 = [
       "zh": "国际的",
       "ru": "международный"
     },
-    "examples": ["Der Kurs ist international."],
+    "examples": [
+      "Der Kurs ist international."
+    ],
     "meta": {}
   },
   {
@@ -9388,7 +9701,11 @@ const WORDS_DE_A1 = [
     "lemma": "Internet",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "technology", "media"],
+    "tags": [
+      "exam",
+      "technology",
+      "media"
+    ],
     "meanings": {
       "de": "Internet",
       "ko": "인터넷",
@@ -9401,7 +9718,9 @@ const WORDS_DE_A1 = [
       "zh": "互联网",
       "ru": "интернет"
     },
-    "examples": ["Das steht im Internet."],
+    "examples": [
+      "Das steht im Internet."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -9411,7 +9730,11 @@ const WORDS_DE_A1 = [
     "lemma": "ja",
     "pos": "Interjektion",
     "cefr": "A1",
-    "tags": ["exam", "basic", "communication"],
+    "tags": [
+      "exam",
+      "basic",
+      "communication"
+    ],
     "meanings": {
       "de": "ja",
       "ko": "네",
@@ -9424,7 +9747,9 @@ const WORDS_DE_A1 = [
       "zh": "是",
       "ru": "да"
     },
-    "examples": ["Ja, bitte."],
+    "examples": [
+      "Ja, bitte."
+    ],
     "meta": {}
   },
   {
@@ -9432,7 +9757,10 @@ const WORDS_DE_A1 = [
     "lemma": "Jacke",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "clothing"],
+    "tags": [
+      "exam",
+      "clothing"
+    ],
     "meanings": {
       "de": "Jacke",
       "ko": "재킷",
@@ -9445,7 +9773,9 @@ const WORDS_DE_A1 = [
       "zh": "夹克",
       "ru": "куртка"
     },
-    "examples": ["Die Jacke ist warm."],
+    "examples": [
+      "Die Jacke ist warm."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Jacken"
@@ -9455,7 +9785,10 @@ const WORDS_DE_A1 = [
     "lemma": "jeder",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "jeder",
       "ko": "모든",
@@ -9468,7 +9801,9 @@ const WORDS_DE_A1 = [
       "zh": "每个",
       "ru": "каждый"
     },
-    "examples": ["Jeder Tag ist schön."],
+    "examples": [
+      "Jeder Tag ist schön."
+    ],
     "meta": {}
   },
   {
@@ -9476,7 +9811,11 @@ const WORDS_DE_A1 = [
     "lemma": "jetzt",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "jetzt",
       "ko": "지금",
@@ -9489,7 +9828,9 @@ const WORDS_DE_A1 = [
       "zh": "现在",
       "ru": "сейчас"
     },
-    "examples": ["Ich muss jetzt gehen."],
+    "examples": [
+      "Ich muss jetzt gehen."
+    ],
     "meta": {}
   },
   {
@@ -9497,7 +9838,10 @@ const WORDS_DE_A1 = [
     "lemma": "Job",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work"],
+    "tags": [
+      "exam",
+      "work"
+    ],
     "meanings": {
       "de": "Job",
       "ko": "일",
@@ -9510,7 +9854,9 @@ const WORDS_DE_A1 = [
       "zh": "工作",
       "ru": "работа"
     },
-    "examples": ["Ich suche einen Job."],
+    "examples": [
+      "Ich suche einen Job."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Jobs"
@@ -9520,7 +9866,10 @@ const WORDS_DE_A1 = [
     "lemma": "Jugendliche",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society"],
+    "tags": [
+      "exam",
+      "society"
+    ],
     "meanings": {
       "de": "Jugendliche",
       "ko": "청소년",
@@ -9533,7 +9882,9 @@ const WORDS_DE_A1 = [
       "zh": "青少年",
       "ru": "подросток"
     },
-    "examples": ["Viele Jugendliche sind hier."],
+    "examples": [
+      "Viele Jugendliche sind hier."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Jugendliche"
@@ -9543,7 +9894,10 @@ const WORDS_DE_A1 = [
     "lemma": "jung",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "jung",
       "ko": "젊은",
@@ -9556,7 +9910,9 @@ const WORDS_DE_A1 = [
       "zh": "年轻",
       "ru": "молодой"
     },
-    "examples": ["Er ist noch jung."],
+    "examples": [
+      "Er ist noch jung."
+    ],
     "meta": {}
   },
   {
@@ -9564,7 +9920,11 @@ const WORDS_DE_A1 = [
     "lemma": "Junge",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "people", "family"],
+    "tags": [
+      "exam",
+      "people",
+      "family"
+    ],
     "meanings": {
       "de": "Junge",
       "ko": "소년",
@@ -9577,7 +9937,9 @@ const WORDS_DE_A1 = [
       "zh": "男孩",
       "ru": "мальчик"
     },
-    "examples": ["Der Junge spielt."],
+    "examples": [
+      "Der Junge spielt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Jungen"
@@ -9587,7 +9949,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kaffee",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "drink"],
+    "tags": [
+      "exam",
+      "food",
+      "drink"
+    ],
     "meanings": {
       "de": "Kaffee",
       "ko": "커피",
@@ -9600,7 +9966,9 @@ const WORDS_DE_A1 = [
       "zh": "咖啡",
       "ru": "кофе"
     },
-    "examples": ["Ich trinke Kaffee."],
+    "examples": [
+      "Ich trinke Kaffee."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -9610,7 +9978,10 @@ const WORDS_DE_A1 = [
     "lemma": "kaputt",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "kaputt",
       "ko": "고장난",
@@ -9623,7 +9994,9 @@ const WORDS_DE_A1 = [
       "zh": "坏",
       "ru": "сломанный"
     },
-    "examples": ["Das Auto ist kaputt."],
+    "examples": [
+      "Das Auto ist kaputt."
+    ],
     "meta": {}
   },
   {
@@ -9631,7 +10004,10 @@ const WORDS_DE_A1 = [
     "lemma": "Karte",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Karte",
       "ko": "카드",
@@ -9644,7 +10020,9 @@ const WORDS_DE_A1 = [
       "zh": "卡片",
       "ru": "карта"
     },
-    "examples": ["Ich schreibe eine Karte."],
+    "examples": [
+      "Ich schreibe eine Karte."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Karten"
@@ -9654,7 +10032,10 @@ const WORDS_DE_A1 = [
     "lemma": "Kreditkarte",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Kreditkarte",
       "ko": "신용카드",
@@ -9667,7 +10048,9 @@ const WORDS_DE_A1 = [
       "zh": "信用卡",
       "ru": "кредитная карта"
     },
-    "examples": ["Zahlen Sie mit Kreditkarte?"],
+    "examples": [
+      "Zahlen Sie mit Kreditkarte?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Kreditkarten"
@@ -9677,7 +10060,10 @@ const WORDS_DE_A1 = [
     "lemma": "Kartoffel",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Kartoffel",
       "ko": "감자",
@@ -9690,7 +10076,9 @@ const WORDS_DE_A1 = [
       "zh": "土豆",
       "ru": "картофель"
     },
-    "examples": ["Ich esse gern Kartoffeln."],
+    "examples": [
+      "Ich esse gern Kartoffeln."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Kartoffeln"
@@ -9700,7 +10088,10 @@ const WORDS_DE_A1 = [
     "lemma": "Kasse",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Kasse",
       "ko": "계산대",
@@ -9714,7 +10105,8 @@ const WORDS_DE_A1 = [
       "ru": "касса"
     },
     "examples": [
-      "Zahlen Sie an der Kasse."],
+      "Zahlen Sie an der Kasse."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Kassen"
@@ -9724,7 +10116,10 @@ const WORDS_DE_A1 = [
     "lemma": "kaufen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "kaufen",
       "ko": "사다",
@@ -9755,7 +10150,10 @@ const WORDS_DE_A1 = [
     "lemma": "kein",
     "pos": "Artikel",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "kein",
       "ko": "없는",
@@ -9778,7 +10176,10 @@ const WORDS_DE_A1 = [
     "lemma": "kennen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "kennen",
       "ko": "알다",
@@ -9809,7 +10210,10 @@ const WORDS_DE_A1 = [
     "lemma": "kennenlernen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "kennenlernen",
       "ko": "알게되다",
@@ -9840,7 +10244,10 @@ const WORDS_DE_A1 = [
     "lemma": "Kind",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Kind",
       "ko": "아이",
@@ -9865,7 +10272,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kindergarten",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "family"],
+    "tags": [
+      "exam",
+      "education",
+      "family"
+    ],
     "meanings": {
       "de": "Kindergarten",
       "ko": "유치원",
@@ -9890,7 +10301,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kino",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "city"],
+    "tags": [
+      "exam",
+      "leisure",
+      "city"
+    ],
     "meanings": {
       "de": "Kino",
       "ko": "영화관",
@@ -9915,7 +10330,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kiosk",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "city"],
+    "tags": [
+      "exam",
+      "shopping",
+      "city"
+    ],
     "meanings": {
       "de": "Kiosk",
       "ko": "매점",
@@ -9928,7 +10347,9 @@ const WORDS_DE_A1 = [
       "zh": "报亭",
       "ru": "киоск"
     },
-    "examples": ["Ich kaufe Zeitung am Kiosk."],
+    "examples": [
+      "Ich kaufe Zeitung am Kiosk."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kioske"
@@ -9938,7 +10359,11 @@ const WORDS_DE_A1 = [
     "lemma": "klar",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "communication", "basic"],
+    "tags": [
+      "exam",
+      "communication",
+      "basic"
+    ],
     "meanings": {
       "de": "klar",
       "ko": "물론이죠",
@@ -9951,7 +10376,9 @@ const WORDS_DE_A1 = [
       "zh": "清楚",
       "ru": "ясно"
     },
-    "examples": ["Kommst du mit? - Klar!"],
+    "examples": [
+      "Kommst du mit? - Klar!"
+    ],
     "meta": {}
   },
   {
@@ -9959,7 +10386,11 @@ const WORDS_DE_A1 = [
     "lemma": "Klasse",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "school", "travel"],
+    "tags": [
+      "exam",
+      "school",
+      "travel"
+    ],
     "meanings": {
       "de": "Klasse",
       "ko": "반",
@@ -9972,7 +10403,9 @@ const WORDS_DE_A1 = [
       "zh": "班级",
       "ru": "класс"
     },
-    "examples": ["In unserer Klasse sind fünfundzwanzig Schüler."],
+    "examples": [
+      "In unserer Klasse sind fünfundzwanzig Schüler."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Klassen"
@@ -9982,7 +10415,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kleidung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "clothing", "shopping"],
+    "tags": [
+      "exam",
+      "clothing",
+      "shopping"
+    ],
     "meanings": {
       "de": "Kleidung",
       "ko": "의복",
@@ -9995,7 +10432,9 @@ const WORDS_DE_A1 = [
       "zh": "衣服",
       "ru": "одежда"
     },
-    "examples": ["Wo finde ich Kleidung?"],
+    "examples": [
+      "Wo finde ich Kleidung?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Kleidungen"
@@ -10005,7 +10444,11 @@ const WORDS_DE_A1 = [
     "lemma": "klein",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "description"],
+    "tags": [
+      "exam",
+      "basic",
+      "description"
+    ],
     "meanings": {
       "de": "klein",
       "ko": "작은",
@@ -10018,7 +10461,9 @@ const WORDS_DE_A1 = [
       "zh": "小",
       "ru": "маленький"
     },
-    "examples": ["Eltville ist eine kleine Stadt am Rhein."],
+    "examples": [
+      "Eltville ist eine kleine Stadt am Rhein."
+    ],
     "meta": {}
   },
   {
@@ -10026,7 +10471,11 @@ const WORDS_DE_A1 = [
     "lemma": "kochen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "food", "daily"],
+    "tags": [
+      "exam",
+      "food",
+      "daily"
+    ],
     "meanings": {
       "de": "kochen",
       "ko": "요리하다",
@@ -10039,7 +10488,9 @@ const WORDS_DE_A1 = [
       "zh": "做饭",
       "ru": "готовить"
     },
-    "examples": ["Herr Georgi kann gut kochen."],
+    "examples": [
+      "Herr Georgi kann gut kochen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich koche",
@@ -10055,7 +10506,10 @@ const WORDS_DE_A1 = [
     "lemma": "Koffer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel"],
+    "tags": [
+      "exam",
+      "travel"
+    ],
     "meanings": {
       "de": "Koffer",
       "ko": "여행 가방",
@@ -10068,7 +10522,9 @@ const WORDS_DE_A1 = [
       "zh": "手提箱",
       "ru": "чемодан"
     },
-    "examples": ["Ist das Ihr Koffer?"],
+    "examples": [
+      "Ist das Ihr Koffer?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Koffer"
@@ -10078,7 +10534,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kollege",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "social"],
+    "tags": [
+      "exam",
+      "work",
+      "social"
+    ],
     "meanings": {
       "de": "Kollege",
       "ko": "동료",
@@ -10091,7 +10551,9 @@ const WORDS_DE_A1 = [
       "zh": "同事",
       "ru": "коллега"
     },
-    "examples": ["Wie heißt die neue Kollegin?"],
+    "examples": [
+      "Wie heißt die neue Kollegin?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kollegen"
@@ -10101,7 +10563,11 @@ const WORDS_DE_A1 = [
     "lemma": "kommen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "movement"],
+    "tags": [
+      "exam",
+      "basic",
+      "movement"
+    ],
     "meanings": {
       "de": "kommen",
       "ko": "오다",
@@ -10114,7 +10580,9 @@ const WORDS_DE_A1 = [
       "zh": "来",
       "ru": "приходить"
     },
-    "examples": ["Woher kommen Sie? - Aus Frankreich."],
+    "examples": [
+      "Woher kommen Sie? - Aus Frankreich."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich komme",
@@ -10130,7 +10598,11 @@ const WORDS_DE_A1 = [
     "lemma": "können",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "grammar"],
+    "tags": [
+      "exam",
+      "basic",
+      "grammar"
+    ],
     "meanings": {
       "de": "können",
       "ko": "할 수 있다",
@@ -10143,7 +10615,9 @@ const WORDS_DE_A1 = [
       "zh": "能",
       "ru": "мочь"
     },
-    "examples": ["Ich kann Deutsch und Russisch."],
+    "examples": [
+      "Ich kann Deutsch und Russisch."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich kann",
@@ -10159,7 +10633,11 @@ const WORDS_DE_A1 = [
     "lemma": "Konto",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "finance", "daily"],
+    "tags": [
+      "exam",
+      "finance",
+      "daily"
+    ],
     "meanings": {
       "de": "Konto",
       "ko": "계좌",
@@ -10172,7 +10650,9 @@ const WORDS_DE_A1 = [
       "zh": "账户",
       "ru": "счет"
     },
-    "examples": ["Das Geld überweisen wir am ersten März auf Ihr Konto."],
+    "examples": [
+      "Das Geld überweisen wir am ersten März auf Ihr Konto."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Konten"
@@ -10182,7 +10662,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kopf",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "body", "health"],
+    "tags": [
+      "exam",
+      "body",
+      "health"
+    ],
     "meanings": {
       "de": "Kopf",
       "ko": "머리",
@@ -10195,7 +10679,9 @@ const WORDS_DE_A1 = [
       "zh": "头",
       "ru": "голова"
     },
-    "examples": ["Mein Kopf tut weh!"],
+    "examples": [
+      "Mein Kopf tut weh!"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Köpfe"
@@ -10205,7 +10691,11 @@ const WORDS_DE_A1 = [
     "lemma": "kosten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "daily"],
+    "tags": [
+      "exam",
+      "shopping",
+      "daily"
+    ],
     "meanings": {
       "de": "kosten",
       "ko": "값이 나가다",
@@ -10218,7 +10708,9 @@ const WORDS_DE_A1 = [
       "zh": "花费",
       "ru": "стоить"
     },
-    "examples": ["Wie viel kostet das? 10 Euro."],
+    "examples": [
+      "Wie viel kostet das? 10 Euro."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich koste",
@@ -10234,7 +10726,11 @@ const WORDS_DE_A1 = [
     "lemma": "krank",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "health", "daily"],
+    "tags": [
+      "exam",
+      "health",
+      "daily"
+    ],
     "meanings": {
       "de": "krank",
       "ko": "아픈",
@@ -10247,7 +10743,9 @@ const WORDS_DE_A1 = [
       "zh": "生病",
       "ru": "больной"
     },
-    "examples": ["Ich kann heute nicht zur Arbeit kommen, ich bin krank."],
+    "examples": [
+      "Ich kann heute nicht zur Arbeit kommen, ich bin krank."
+    ],
     "meta": {}
   },
   {
@@ -10255,7 +10753,11 @@ const WORDS_DE_A1 = [
     "lemma": "kriegen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "work"],
+    "tags": [
+      "exam",
+      "daily",
+      "work"
+    ],
     "meanings": {
       "de": "kriegen",
       "ko": "얻다",
@@ -10268,7 +10770,9 @@ const WORDS_DE_A1 = [
       "zh": "得到",
       "ru": "получать"
     },
-    "examples": ["Ich kriege 15 Euro in der Stunde für meine Arbeit."],
+    "examples": [
+      "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich kriege",
@@ -10284,7 +10788,11 @@ const WORDS_DE_A1 = [
     "lemma": "Küche",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "food"],
+    "tags": [
+      "exam",
+      "housing",
+      "food"
+    ],
     "meanings": {
       "de": "Küche",
       "ko": "부엌",
@@ -10297,7 +10805,9 @@ const WORDS_DE_A1 = [
       "zh": "厨房",
       "ru": "кухня"
     },
-    "examples": ["Der neue Herd kommt in die Küche."],
+    "examples": [
+      "Der neue Herd kommt in die Küche."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Küchen"
@@ -10307,7 +10817,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kuchen",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "daily"],
+    "tags": [
+      "exam",
+      "food",
+      "daily"
+    ],
     "meanings": {
       "de": "Kuchen",
       "ko": "케이크",
@@ -10320,7 +10834,9 @@ const WORDS_DE_A1 = [
       "zh": "蛋糕",
       "ru": "пирог"
     },
-    "examples": ["Ich nehme ein Stück Kuchen."],
+    "examples": [
+      "Ich nehme ein Stück Kuchen."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kuchen"
@@ -10330,7 +10846,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kugelschreiber",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "school", "work"],
+    "tags": [
+      "exam",
+      "school",
+      "work"
+    ],
     "meanings": {
       "de": "Kugelschreiber",
       "ko": "볼펜",
@@ -10343,7 +10863,9 @@ const WORDS_DE_A1 = [
       "zh": "圆珠笔",
       "ru": "шариковая ручка"
     },
-    "examples": ["Hast du einen Kugelschreiber für mich?"],
+    "examples": [
+      "Hast du einen Kugelschreiber für mich?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kugelschreiber"
@@ -10353,7 +10875,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kühlschrank",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "kitchen"],
+    "tags": [
+      "exam",
+      "housing",
+      "kitchen"
+    ],
     "meanings": {
       "de": "Kühlschrank",
       "ko": "냉장고",
@@ -10366,7 +10892,9 @@ const WORDS_DE_A1 = [
       "zh": "冰箱",
       "ru": "холодильник"
     },
-    "examples": ["Die Milch steht im Kühlschrank."],
+    "examples": [
+      "Die Milch steht im Kühlschrank."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kühlschränke"
@@ -10376,7 +10904,11 @@ const WORDS_DE_A1 = [
     "lemma": "kulturell",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "culture", "leisure"],
+    "tags": [
+      "exam",
+      "culture",
+      "leisure"
+    ],
     "meanings": {
       "de": "kulturell",
       "ko": "문화적인",
@@ -10389,7 +10921,9 @@ const WORDS_DE_A1 = [
       "zh": "文化的",
       "ru": "культурный"
     },
-    "examples": ["Ich bin kulturell interessiert. Ich gehe oft ins Museum."],
+    "examples": [
+      "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+    ],
     "meta": {}
   },
   {
@@ -10397,7 +10931,11 @@ const WORDS_DE_A1 = [
     "lemma": "kümmern",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "family", "social"],
+    "tags": [
+      "exam",
+      "family",
+      "social"
+    ],
     "meanings": {
       "de": "kümmern",
       "ko": "돌보다",
@@ -10410,7 +10948,9 @@ const WORDS_DE_A1 = [
       "zh": "照顾",
       "ru": "заботиться"
     },
-    "examples": ["Jede Mutter kümmert sich um ihre kleinen Kinder."],
+    "examples": [
+      "Jede Mutter kümmert sich um ihre kleinen Kinder."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich kümmere mich",
@@ -10426,7 +10966,11 @@ const WORDS_DE_A1 = [
     "lemma": "Kunde",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "business"],
+    "tags": [
+      "exam",
+      "work",
+      "business"
+    ],
     "meanings": {
       "de": "Kunde",
       "ko": "고객",
@@ -10439,7 +10983,9 @@ const WORDS_DE_A1 = [
       "zh": "顾客",
       "ru": "клиент"
     },
-    "examples": ["Einen Moment, bitte. Ich habe eine Kundin."],
+    "examples": [
+      "Einen Moment, bitte. Ich habe eine Kundin."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kunden"
@@ -10449,7 +10995,10 @@ const WORDS_DE_A1 = [
     "lemma": "Kurs",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education"],
+    "tags": [
+      "exam",
+      "education"
+    ],
     "meanings": {
       "de": "Kurs",
       "ko": "강좌",
@@ -10462,7 +11011,9 @@ const WORDS_DE_A1 = [
       "zh": "课程",
       "ru": "курс"
     },
-    "examples": ["Der Deutschkurs geht bis zum Sommer."],
+    "examples": [
+      "Der Deutschkurs geht bis zum Sommer."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Kurse"
@@ -10472,7 +11023,10 @@ const WORDS_DE_A1 = [
     "lemma": "kurz",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "kurz",
       "ko": "짧은",
@@ -10485,7 +11039,9 @@ const WORDS_DE_A1 = [
       "zh": "短",
       "ru": "короткий"
     },
-    "examples": ["Ricardo hat kurzes Haar."],
+    "examples": [
+      "Ricardo hat kurzes Haar."
+    ],
     "meta": {}
   },
   {
@@ -10493,7 +11049,11 @@ const WORDS_DE_A1 = [
     "lemma": "lachen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "daily"],
+    "tags": [
+      "exam",
+      "feeling",
+      "daily"
+    ],
     "meanings": {
       "de": "lachen",
       "ko": "웃다",
@@ -10506,7 +11066,9 @@ const WORDS_DE_A1 = [
       "zh": "笑",
       "ru": "смеяться"
     },
-    "examples": ["Die Kinder lachen viel."],
+    "examples": [
+      "Die Kinder lachen viel."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich lache",
@@ -10522,7 +11084,11 @@ const WORDS_DE_A1 = [
     "lemma": "Laden",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "city"],
+    "tags": [
+      "exam",
+      "shopping",
+      "city"
+    ],
     "meanings": {
       "de": "Laden",
       "ko": "가게",
@@ -10535,7 +11101,9 @@ const WORDS_DE_A1 = [
       "zh": "商店",
       "ru": "магазин"
     },
-    "examples": ["Im Buchladen können Sie Bücher kaufen."],
+    "examples": [
+      "Im Buchladen können Sie Bücher kaufen."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Läden"
@@ -10545,7 +11113,11 @@ const WORDS_DE_A1 = [
     "lemma": "Land",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "geography", "society"],
+    "tags": [
+      "exam",
+      "geography",
+      "society"
+    ],
     "meanings": {
       "de": "Land",
       "ko": "나라",
@@ -10558,7 +11130,9 @@ const WORDS_DE_A1 = [
       "zh": "国家",
       "ru": "страна"
     },
-    "examples": ["Italien ist ein schönes Land."],
+    "examples": [
+      "Italien ist ein schönes Land."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Länder"
@@ -10568,7 +11142,10 @@ const WORDS_DE_A1 = [
     "lemma": "lang",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "lang",
       "ko": "긴",
@@ -10581,7 +11158,9 @@ const WORDS_DE_A1 = [
       "zh": "长",
       "ru": "длинный"
     },
-    "examples": ["Die Jeans ist zu lang."],
+    "examples": [
+      "Die Jeans ist zu lang."
+    ],
     "meta": {}
   },
   {
@@ -10589,7 +11168,10 @@ const WORDS_DE_A1 = [
     "lemma": "lange",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "lange",
       "ko": "오랫동안",
@@ -10602,7 +11184,9 @@ const WORDS_DE_A1 = [
       "zh": "很久",
       "ru": "долго"
     },
-    "examples": ["Wie lange fährt der Zug von Hamburg nach Berlin?"],
+    "examples": [
+      "Wie lange fährt der Zug von Hamburg nach Berlin?"
+    ],
     "meta": {}
   },
   {
@@ -10610,7 +11194,10 @@ const WORDS_DE_A1 = [
     "lemma": "langsam",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "langsam",
       "ko": "느린",
@@ -10623,7 +11210,9 @@ const WORDS_DE_A1 = [
       "zh": "慢",
       "ru": "медленный"
     },
-    "examples": ["Könnten Sie bitte etwas langsamer sprechen?"],
+    "examples": [
+      "Könnten Sie bitte etwas langsamer sprechen?"
+    ],
     "meta": {}
   },
   {
@@ -10631,7 +11220,11 @@ const WORDS_DE_A1 = [
     "lemma": "laufen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "movement", "basic"],
+    "tags": [
+      "exam",
+      "movement",
+      "basic"
+    ],
     "meanings": {
       "de": "laufen",
       "ko": "걷다",
@@ -10644,7 +11237,9 @@ const WORDS_DE_A1 = [
       "zh": "走",
       "ru": "ходить"
     },
-    "examples": ["Ich möchte nicht Auto fahren, ich möchte laufen."],
+    "examples": [
+      "Ich möchte nicht Auto fahren, ich möchte laufen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich laufe",
@@ -10660,7 +11255,11 @@ const WORDS_DE_A1 = [
     "lemma": "laut",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description", "sound"],
+    "tags": [
+      "exam",
+      "description",
+      "sound"
+    ],
     "meanings": {
       "de": "laut",
       "ko": "시끄러운",
@@ -10673,7 +11272,9 @@ const WORDS_DE_A1 = [
       "zh": "大声",
       "ru": "громкий"
     },
-    "examples": ["Nicht so laut! Das Baby schläft."],
+    "examples": [
+      "Nicht so laut! Das Baby schläft."
+    ],
     "meta": {}
   },
   {
@@ -10681,7 +11282,11 @@ const WORDS_DE_A1 = [
     "lemma": "leben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "society"],
+    "tags": [
+      "exam",
+      "basic",
+      "society"
+    ],
     "meanings": {
       "de": "leben",
       "ko": "살다",
@@ -10694,7 +11299,9 @@ const WORDS_DE_A1 = [
       "zh": "生活",
       "ru": "жить"
     },
-    "examples": ["Sie lebt bei ihrer Schwester."],
+    "examples": [
+      "Sie lebt bei ihrer Schwester."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich lebe",
@@ -10710,7 +11317,10 @@ const WORDS_DE_A1 = [
     "lemma": "Leben",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society"],
+    "tags": [
+      "exam",
+      "society"
+    ],
     "meanings": {
       "de": "Leben",
       "ko": "삶",
@@ -10723,7 +11333,9 @@ const WORDS_DE_A1 = [
       "zh": "生活",
       "ru": "жизнь"
     },
-    "examples": ["Das Leben in diesem Land ist teuer."],
+    "examples": [
+      "Das Leben in diesem Land ist teuer."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Leben"
@@ -10733,7 +11345,11 @@ const WORDS_DE_A1 = [
     "lemma": "Lebensmittel",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "shopping"],
+    "tags": [
+      "exam",
+      "food",
+      "shopping"
+    ],
     "meanings": {
       "de": "Lebensmittel",
       "ko": "식료품",
@@ -10746,7 +11362,9 @@ const WORDS_DE_A1 = [
       "zh": "食品",
       "ru": "продукты питания"
     },
-    "examples": ["Lebensmittel bekommen Sie im Supermarkt."],
+    "examples": [
+      "Lebensmittel bekommen Sie im Supermarkt."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Lebensmittel"
@@ -10756,7 +11374,10 @@ const WORDS_DE_A1 = [
     "lemma": "ledig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "personal_info"],
+    "tags": [
+      "exam",
+      "personal_info"
+    ],
     "meanings": {
       "de": "ledig",
       "ko": "미혼의",
@@ -10769,7 +11390,9 @@ const WORDS_DE_A1 = [
       "zh": "单身",
       "ru": "холостой"
     },
-    "examples": ["Sind Sie verheiratet? Nein. Ledig."],
+    "examples": [
+      "Sind Sie verheiratet? Nein. Ledig."
+    ],
     "meta": {}
   },
   {
@@ -10777,7 +11400,11 @@ const WORDS_DE_A1 = [
     "lemma": "legen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "action", "daily"],
+    "tags": [
+      "exam",
+      "action",
+      "daily"
+    ],
     "meanings": {
       "de": "legen",
       "ko": "놓다",
@@ -10790,7 +11417,9 @@ const WORDS_DE_A1 = [
       "zh": "放",
       "ru": "класть"
     },
-    "examples": ["Legen Sie das Buch auf den Tisch."],
+    "examples": [
+      "Legen Sie das Buch auf den Tisch."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich lege",
@@ -10806,7 +11435,11 @@ const WORDS_DE_A1 = [
     "lemma": "Lehrer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "work"],
+    "tags": [
+      "exam",
+      "education",
+      "work"
+    ],
     "meanings": {
       "de": "Lehrer",
       "ko": "교사",
@@ -10819,7 +11452,9 @@ const WORDS_DE_A1 = [
       "zh": "教师",
       "ru": "учитель"
     },
-    "examples": ["Unsere Deutschlehrerin heißt Frau Müller."],
+    "examples": [
+      "Unsere Deutschlehrerin heißt Frau Müller."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Lehrer"
@@ -10829,7 +11464,10 @@ const WORDS_DE_A1 = [
     "lemma": "leicht",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "leicht",
       "ko": "쉬운",
@@ -10842,7 +11480,9 @@ const WORDS_DE_A1 = [
       "zh": "容易",
       "ru": "легкий"
     },
-    "examples": ["Deutsch ist nicht leicht."],
+    "examples": [
+      "Deutsch ist nicht leicht."
+    ],
     "meta": {}
   },
   {
@@ -10850,7 +11490,11 @@ const WORDS_DE_A1 = [
     "lemma": "leider",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "communication"],
+    "tags": [
+      "exam",
+      "basic",
+      "communication"
+    ],
     "meanings": {
       "de": "leider",
       "ko": "유감스럽게도",
@@ -10863,7 +11507,9 @@ const WORDS_DE_A1 = [
       "zh": "可惜",
       "ru": "к сожалению"
     },
-    "examples": ["Leider kann ich nicht kommen."],
+    "examples": [
+      "Leider kann ich nicht kommen."
+    ],
     "meta": {}
   },
   {
@@ -10871,7 +11517,11 @@ const WORDS_DE_A1 = [
     "lemma": "leise",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description", "sound"],
+    "tags": [
+      "exam",
+      "description",
+      "sound"
+    ],
     "meanings": {
       "de": "leise",
       "ko": "조용한",
@@ -10884,7 +11534,9 @@ const WORDS_DE_A1 = [
       "zh": "轻声",
       "ru": "тихий"
     },
-    "examples": ["Seid leise. Die anderen schlafen schon."],
+    "examples": [
+      "Seid leise. Die anderen schlafen schon."
+    ],
     "meta": {}
   },
   {
@@ -10892,7 +11544,11 @@ const WORDS_DE_A1 = [
     "lemma": "lernen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "education", "basic"],
+    "tags": [
+      "exam",
+      "education",
+      "basic"
+    ],
     "meanings": {
       "de": "lernen",
       "ko": "배우다",
@@ -10905,7 +11561,9 @@ const WORDS_DE_A1 = [
       "zh": "学习",
       "ru": "учить"
     },
-    "examples": ["Wie lange lernen Sie schon Deutsch?"],
+    "examples": [
+      "Wie lange lernen Sie schon Deutsch?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich lerne",
@@ -10921,7 +11579,11 @@ const WORDS_DE_A1 = [
     "lemma": "lesen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "education", "leisure"],
+    "tags": [
+      "exam",
+      "education",
+      "leisure"
+    ],
     "meanings": {
       "de": "lesen",
       "ko": "읽다",
@@ -10934,7 +11596,9 @@ const WORDS_DE_A1 = [
       "zh": "读",
       "ru": "читать"
     },
-    "examples": ["Ich lese ein Buch von García Márquez."],
+    "examples": [
+      "Ich lese ein Buch von García Márquez."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich lese",
@@ -10950,7 +11614,11 @@ const WORDS_DE_A1 = [
     "lemma": "letzte",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "letzte",
       "ko": "마지막의",
@@ -10963,7 +11631,9 @@ const WORDS_DE_A1 = [
       "zh": "最后",
       "ru": "последний"
     },
-    "examples": ["Morgen ist der letzte Kurstag."],
+    "examples": [
+      "Morgen ist der letzte Kurstag."
+    ],
     "meta": {}
   },
   {
@@ -10971,7 +11641,11 @@ const WORDS_DE_A1 = [
     "lemma": "Leute",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "people", "society"],
+    "tags": [
+      "exam",
+      "people",
+      "society"
+    ],
     "meanings": {
       "de": "Leute",
       "ko": "사람들",
@@ -10984,7 +11658,9 @@ const WORDS_DE_A1 = [
       "zh": "人们",
       "ru": "люди"
     },
-    "examples": ["In der Disko sind viele Leute."],
+    "examples": [
+      "In der Disko sind viele Leute."
+    ],
     "meta": {},
     "gender": "",
     "plural": "Leute"
@@ -10994,7 +11670,11 @@ const WORDS_DE_A1 = [
     "lemma": "Licht",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "housing"],
+    "tags": [
+      "exam",
+      "daily",
+      "housing"
+    ],
     "meanings": {
       "de": "Licht",
       "ko": "불",
@@ -11007,7 +11687,9 @@ const WORDS_DE_A1 = [
       "zh": "光",
       "ru": "свет"
     },
-    "examples": ["Wo macht man hier das Licht an?"],
+    "examples": [
+      "Wo macht man hier das Licht an?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Lichter"
@@ -11017,7 +11699,11 @@ const WORDS_DE_A1 = [
     "lemma": "lieb",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "communication", "feeling"],
+    "tags": [
+      "exam",
+      "communication",
+      "feeling"
+    ],
     "meanings": {
       "de": "lieb",
       "ko": "친애하는",
@@ -11030,7 +11716,9 @@ const WORDS_DE_A1 = [
       "zh": "亲爱的",
       "ru": "дорогой"
     },
-    "examples": ["Liebe Susanne, lieber Hans,"],
+    "examples": [
+      "Liebe Susanne, lieber Hans,"
+    ],
     "meta": {}
   },
   {
@@ -11038,7 +11726,11 @@ const WORDS_DE_A1 = [
     "lemma": "lieben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "social"],
+    "tags": [
+      "exam",
+      "feeling",
+      "social"
+    ],
     "meanings": {
       "de": "lieben",
       "ko": "사랑하다",
@@ -11051,7 +11743,9 @@ const WORDS_DE_A1 = [
       "zh": "爱",
       "ru": "любить"
     },
-    "examples": ["Ich liebe dich!"],
+    "examples": [
+      "Ich liebe dich!"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich liebe",
@@ -11067,7 +11761,11 @@ const WORDS_DE_A1 = [
     "lemma": "lieber",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "preference", "basic"],
+    "tags": [
+      "exam",
+      "preference",
+      "basic"
+    ],
     "meanings": {
       "de": "lieber",
       "ko": "차라리",
@@ -11080,7 +11778,9 @@ const WORDS_DE_A1 = [
       "zh": "宁愿",
       "ru": "лучше"
     },
-    "examples": ["Sie fährt lieber mit der Bahn."],
+    "examples": [
+      "Sie fährt lieber mit der Bahn."
+    ],
     "meta": {}
   },
   {
@@ -11088,7 +11788,11 @@ const WORDS_DE_A1 = [
     "lemma": "Lieblingsfilm",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "preference"],
+    "tags": [
+      "exam",
+      "leisure",
+      "preference"
+    ],
     "meanings": {
       "de": "Lieblingsfilm",
       "ko": "가장 좋아하는 영화",
@@ -11101,7 +11805,9 @@ const WORDS_DE_A1 = [
       "zh": "最喜欢的电影",
       "ru": "любимый фильм"
     },
-    "examples": ["Mein Lieblingsfilm ist „Schwarze Augen“."],
+    "examples": [
+      "Mein Lieblingsfilm ist „Schwarze Augen“."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Lieblingsfilme"
@@ -11111,7 +11817,11 @@ const WORDS_DE_A1 = [
     "lemma": "Lied",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "music", "leisure"],
+    "tags": [
+      "exam",
+      "music",
+      "leisure"
+    ],
     "meanings": {
       "de": "Lied",
       "ko": "노래",
@@ -11124,7 +11834,9 @@ const WORDS_DE_A1 = [
       "zh": "歌曲",
       "ru": "песня"
     },
-    "examples": ["Welches ist dein Lieblingslied?"],
+    "examples": [
+      "Welches ist dein Lieblingslied?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Lieder"
@@ -11134,7 +11846,11 @@ const WORDS_DE_A1 = [
     "lemma": "liegen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "location", "basic"],
+    "tags": [
+      "exam",
+      "location",
+      "basic"
+    ],
     "meanings": {
       "de": "liegen",
       "ko": "놓여 있다",
@@ -11147,7 +11863,9 @@ const WORDS_DE_A1 = [
       "zh": "位于",
       "ru": "лежать"
     },
-    "examples": ["Das Buch liegt auf dem Tisch."],
+    "examples": [
+      "Das Buch liegt auf dem Tisch."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich liege",
@@ -11163,7 +11881,11 @@ const WORDS_DE_A1 = [
     "lemma": "links",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location", "direction"],
+    "tags": [
+      "exam",
+      "location",
+      "direction"
+    ],
     "meanings": {
       "de": "links",
       "ko": "왼쪽으로",
@@ -11176,7 +11898,9 @@ const WORDS_DE_A1 = [
       "zh": "向左",
       "ru": "слева"
     },
-    "examples": ["Gehen Sie bitte nach links."],
+    "examples": [
+      "Gehen Sie bitte nach links."
+    ],
     "meta": {}
   },
   {
@@ -11184,7 +11908,10 @@ const WORDS_DE_A1 = [
     "lemma": "Lkw",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport"],
+    "tags": [
+      "exam",
+      "transport"
+    ],
     "meanings": {
       "de": "Lkw",
       "ko": "트럭",
@@ -11197,7 +11924,9 @@ const WORDS_DE_A1 = [
       "zh": "卡车",
       "ru": "грузовик"
     },
-    "examples": ["Der Lkw ist sehr groß."],
+    "examples": [
+      "Der Lkw ist sehr groß."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Lkws"
@@ -11207,7 +11936,11 @@ const WORDS_DE_A1 = [
     "lemma": "Lösung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "school", "problem_solving"],
+    "tags": [
+      "exam",
+      "school",
+      "problem_solving"
+    ],
     "meanings": {
       "de": "Lösung",
       "ko": "해답",
@@ -11220,7 +11953,9 @@ const WORDS_DE_A1 = [
       "zh": "答案",
       "ru": "решение"
     },
-    "examples": ["Die Lösung ist ganz einfach."],
+    "examples": [
+      "Die Lösung ist ganz einfach."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Lösungen"
@@ -11230,7 +11965,11 @@ const WORDS_DE_A1 = [
     "lemma": "lustig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "description"],
+    "tags": [
+      "exam",
+      "feeling",
+      "description"
+    ],
     "meanings": {
       "de": "lustig",
       "ko": "재미있는",
@@ -11243,7 +11982,9 @@ const WORDS_DE_A1 = [
       "zh": "有趣",
       "ru": "смешной"
     },
-    "examples": ["Der Film war sehr lustig."],
+    "examples": [
+      "Der Film war sehr lustig."
+    ],
     "meta": {}
   },
   {
@@ -11251,7 +11992,11 @@ const WORDS_DE_A1 = [
     "lemma": "machen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "activity"],
+    "tags": [
+      "exam",
+      "basic",
+      "activity"
+    ],
     "meanings": {
       "de": "machen",
       "ko": "하다",
@@ -11264,7 +12009,9 @@ const WORDS_DE_A1 = [
       "zh": "做",
       "ru": "делать"
     },
-    "examples": ["Was machst du heute?"],
+    "examples": [
+      "Was machst du heute?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich mache",
@@ -11280,7 +12027,11 @@ const WORDS_DE_A1 = [
     "lemma": "Mädchen",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "people", "family"],
+    "tags": [
+      "exam",
+      "people",
+      "family"
+    ],
     "meanings": {
       "de": "Mädchen",
       "ko": "소녀",
@@ -11293,7 +12044,9 @@ const WORDS_DE_A1 = [
       "zh": "女孩",
       "ru": "девочка"
     },
-    "examples": ["Das Mädchen spielt im Garten."],
+    "examples": [
+      "Das Mädchen spielt im Garten."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Mädchen"
@@ -11303,7 +12056,11 @@ const WORDS_DE_A1 = [
     "lemma": "man",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic", "grammar"],
+    "tags": [
+      "exam",
+      "basic",
+      "grammar"
+    ],
     "meanings": {
       "de": "man",
       "ko": "사람들",
@@ -11316,7 +12073,9 @@ const WORDS_DE_A1 = [
       "zh": "人们",
       "ru": "человек"
     },
-    "examples": ["Hier darf man nicht rauchen."],
+    "examples": [
+      "Hier darf man nicht rauchen."
+    ],
     "meta": {}
   },
   {
@@ -11324,7 +12083,11 @@ const WORDS_DE_A1 = [
     "lemma": "Mann",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "people", "family"],
+    "tags": [
+      "exam",
+      "people",
+      "family"
+    ],
     "meanings": {
       "de": "Mann",
       "ko": "남자",
@@ -11337,7 +12100,9 @@ const WORDS_DE_A1 = [
       "zh": "男人",
       "ru": "мужчина"
     },
-    "examples": ["Das ist mein Mann."],
+    "examples": [
+      "Das ist mein Mann."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Männer"
@@ -11347,7 +12112,10 @@ const WORDS_DE_A1 = [
     "lemma": "männlich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "personal_info"],
+    "tags": [
+      "exam",
+      "personal_info"
+    ],
     "meanings": {
       "de": "männlich",
       "ko": "남성의",
@@ -11360,7 +12128,9 @@ const WORDS_DE_A1 = [
       "zh": "男性",
       "ru": "мужской"
     },
-    "examples": ["Kreuzen Sie bitte an: weiblich oder männlich."],
+    "examples": [
+      "Kreuzen Sie bitte an: weiblich oder männlich."
+    ],
     "meta": {}
   },
   {
@@ -11368,7 +12138,11 @@ const WORDS_DE_A1 = [
     "lemma": "Markt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "city"],
+    "tags": [
+      "exam",
+      "shopping",
+      "city"
+    ],
     "meanings": {
       "de": "Markt",
       "ko": "시장",
@@ -11381,7 +12155,9 @@ const WORDS_DE_A1 = [
       "zh": "市场",
       "ru": "рынок"
     },
-    "examples": ["Ich gehe heute auf den Markt."],
+    "examples": [
+      "Ich gehe heute auf den Markt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Märkte"
@@ -11391,7 +12167,11 @@ const WORDS_DE_A1 = [
     "lemma": "Maschine",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "technology", "household"],
+    "tags": [
+      "exam",
+      "technology",
+      "household"
+    ],
     "meanings": {
       "de": "Maschine",
       "ko": "기계",
@@ -11404,7 +12184,9 @@ const WORDS_DE_A1 = [
       "zh": "机器",
       "ru": "машина"
     },
-    "examples": ["Die Waschmaschine funktioniert nicht."],
+    "examples": [
+      "Die Waschmaschine funktioniert nicht."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Maschinen"
@@ -11414,7 +12196,10 @@ const WORDS_DE_A1 = [
     "lemma": "Meer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Meer",
       "ko": "바다",
@@ -11427,7 +12212,9 @@ const WORDS_DE_A1 = [
       "zh": "海",
       "ru": "море"
     },
-    "examples": ["Wir machen Urlaub am Meer."],
+    "examples": [
+      "Wir machen Urlaub am Meer."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Meere"
@@ -11437,7 +12224,11 @@ const WORDS_DE_A1 = [
     "lemma": "mehr",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "quantity", "basic"],
+    "tags": [
+      "exam",
+      "quantity",
+      "basic"
+    ],
     "meanings": {
       "de": "mehr",
       "ko": "더",
@@ -11450,7 +12241,9 @@ const WORDS_DE_A1 = [
       "zh": "更多",
       "ru": "больше"
     },
-    "examples": ["Ich möchte nicht mehr essen."],
+    "examples": [
+      "Ich möchte nicht mehr essen."
+    ],
     "meta": {}
   },
   {
@@ -11458,7 +12251,11 @@ const WORDS_DE_A1 = [
     "lemma": "mein",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic", "family"],
+    "tags": [
+      "exam",
+      "basic",
+      "family"
+    ],
     "meanings": {
       "de": "mein",
       "ko": "나의",
@@ -11471,7 +12268,9 @@ const WORDS_DE_A1 = [
       "zh": "我的",
       "ru": "мой"
     },
-    "examples": ["Das ist mein Buch."],
+    "examples": [
+      "Das ist mein Buch."
+    ],
     "meta": {}
   },
   {
@@ -11479,7 +12278,11 @@ const WORDS_DE_A1 = [
     "lemma": "meistens",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "frequency"],
+    "tags": [
+      "exam",
+      "time",
+      "frequency"
+    ],
     "meanings": {
       "de": "meistens",
       "ko": "대개",
@@ -11492,7 +12295,9 @@ const WORDS_DE_A1 = [
       "zh": "通常",
       "ru": "чаще всего"
     },
-    "examples": ["Ich trinke meistens Tee."],
+    "examples": [
+      "Ich trinke meistens Tee."
+    ],
     "meta": {}
   },
   {
@@ -11500,7 +12305,11 @@ const WORDS_DE_A1 = [
     "lemma": "Mensch",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "people", "society"],
+    "tags": [
+      "exam",
+      "people",
+      "society"
+    ],
     "meanings": {
       "de": "Mensch",
       "ko": "사람",
@@ -11513,7 +12322,9 @@ const WORDS_DE_A1 = [
       "zh": "人",
       "ru": "человек"
     },
-    "examples": ["Die Menschen hier sind freundlich."],
+    "examples": [
+      "Die Menschen hier sind freundlich."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Menschen"
@@ -11523,7 +12334,11 @@ const WORDS_DE_A1 = [
     "lemma": "mieten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "housing", "travel"],
+    "tags": [
+      "exam",
+      "housing",
+      "travel"
+    ],
     "meanings": {
       "de": "mieten",
       "ko": "빌리다",
@@ -11536,7 +12351,9 @@ const WORDS_DE_A1 = [
       "zh": "租",
       "ru": "арендовать"
     },
-    "examples": ["Wir mieten eine Wohnung."],
+    "examples": [
+      "Wir mieten eine Wohnung."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich miete",
@@ -11552,7 +12369,11 @@ const WORDS_DE_A1 = [
     "lemma": "Milch",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "drink"],
+    "tags": [
+      "exam",
+      "food",
+      "drink"
+    ],
     "meanings": {
       "de": "Milch",
       "ko": "우유",
@@ -11565,7 +12386,9 @@ const WORDS_DE_A1 = [
       "zh": "牛奶",
       "ru": "молоко"
     },
-    "examples": ["Trinken Sie Milch?"],
+    "examples": [
+      "Trinken Sie Milch?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -11575,7 +12398,11 @@ const WORDS_DE_A1 = [
     "lemma": "mit",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "basic", "social"],
+    "tags": [
+      "exam",
+      "basic",
+      "social"
+    ],
     "meanings": {
       "de": "mit",
       "ko": "함께",
@@ -11588,7 +12415,9 @@ const WORDS_DE_A1 = [
       "zh": "和",
       "ru": "с"
     },
-    "examples": ["Ich gehe mit meiner Freundin ins Kino."],
+    "examples": [
+      "Ich gehe mit meiner Freundin ins Kino."
+    ],
     "meta": {}
   },
   {
@@ -11596,7 +12425,11 @@ const WORDS_DE_A1 = [
     "lemma": "mitbringen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "social", "daily"],
+    "tags": [
+      "exam",
+      "social",
+      "daily"
+    ],
     "meanings": {
       "de": "mitbringen",
       "ko": "가져오다",
@@ -11609,7 +12442,9 @@ const WORDS_DE_A1 = [
       "zh": "带来",
       "ru": "приносить с собой"
     },
-    "examples": ["Bringen Sie bitte ein Foto mit."],
+    "examples": [
+      "Bringen Sie bitte ein Foto mit."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich bringe mit",
@@ -11625,7 +12460,11 @@ const WORDS_DE_A1 = [
     "lemma": "mitkommen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "social", "movement"],
+    "tags": [
+      "exam",
+      "social",
+      "movement"
+    ],
     "meanings": {
       "de": "mitkommen",
       "ko": "함께 가다",
@@ -11638,7 +12477,9 @@ const WORDS_DE_A1 = [
       "zh": "一起来",
       "ru": "идти вместе"
     },
-    "examples": ["Kommst du mit?"],
+    "examples": [
+      "Kommst du mit?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich komme mit",
@@ -11654,7 +12495,11 @@ const WORDS_DE_A1 = [
     "lemma": "mitmachen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "activity", "social"],
+    "tags": [
+      "exam",
+      "activity",
+      "social"
+    ],
     "meanings": {
       "de": "mitmachen",
       "ko": "참여하다",
@@ -11668,7 +12513,8 @@ const WORDS_DE_A1 = [
       "ru": "участвовать"
     },
     "examples": [
-      "Wir machen ein Spiel. Machst du mit?"],
+      "Wir machen ein Spiel. Machst du mit?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich mache mit",
@@ -11684,7 +12530,11 @@ const WORDS_DE_A1 = [
     "lemma": "mitnehmen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "travel"],
+    "tags": [
+      "exam",
+      "daily",
+      "travel"
+    ],
     "meanings": {
       "de": "mitnehmen",
       "ko": "가지고 가다",
@@ -11715,7 +12565,10 @@ const WORDS_DE_A1 = [
     "lemma": "Mittag",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Mittag",
       "ko": "정오",
@@ -11740,7 +12593,10 @@ const WORDS_DE_A1 = [
     "lemma": "Mitte",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Mitte",
       "ko": "중간",
@@ -11765,7 +12621,10 @@ const WORDS_DE_A1 = [
     "lemma": "Möbel",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Möbel",
       "ko": "가구",
@@ -11790,7 +12649,11 @@ const WORDS_DE_A1 = [
     "lemma": "möchten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "wish"],
+    "tags": [
+      "exam",
+      "basic",
+      "wish"
+    ],
     "meanings": {
       "de": "möchten",
       "ko": "하고 싶다",
@@ -11821,7 +12684,11 @@ const WORDS_DE_A1 = [
     "lemma": "mögen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "feeling"],
+    "tags": [
+      "exam",
+      "basic",
+      "feeling"
+    ],
     "meanings": {
       "de": "mögen",
       "ko": "좋아하다",
@@ -11852,7 +12719,10 @@ const WORDS_DE_A1 = [
     "lemma": "möglich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "möglich",
       "ko": "가능한",
@@ -11875,7 +12745,10 @@ const WORDS_DE_A1 = [
     "lemma": "Moment",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Moment",
       "ko": "순간",
@@ -11900,7 +12773,10 @@ const WORDS_DE_A1 = [
     "lemma": "Monat",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Monat",
       "ko": "달",
@@ -11925,7 +12801,10 @@ const WORDS_DE_A1 = [
     "lemma": "morgen",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "morgen",
       "ko": "내일",
@@ -11948,7 +12827,10 @@ const WORDS_DE_A1 = [
     "lemma": "Morgen",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Morgen",
       "ko": "아침",
@@ -11973,7 +12855,10 @@ const WORDS_DE_A1 = [
     "lemma": "morgens",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "morgens",
       "ko": "아침마다",
@@ -11996,7 +12881,10 @@ const WORDS_DE_A1 = [
     "lemma": "Motorrad",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Motorrad",
       "ko": "오토바이",
@@ -12021,7 +12909,10 @@ const WORDS_DE_A1 = [
     "lemma": "müde",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "müde",
       "ko": "피곤한",
@@ -12044,7 +12935,10 @@ const WORDS_DE_A1 = [
     "lemma": "Mund",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Mund",
       "ko": "입",
@@ -12069,7 +12963,10 @@ const WORDS_DE_A1 = [
     "lemma": "müssen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "müssen",
       "ko": "해야 하다",
@@ -12100,7 +12997,10 @@ const WORDS_DE_A1 = [
     "lemma": "Mutter",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Mutter",
       "ko": "어머니",
@@ -12125,7 +13025,10 @@ const WORDS_DE_A1 = [
     "lemma": "nach",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "nach",
       "ko": "로",
@@ -12392,7 +13295,10 @@ const WORDS_DE_A1 = [
     "lemma": "normal",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "normal",
       "ko": "보통의",
@@ -12405,7 +13311,9 @@ const WORDS_DE_A1 = [
       "zh": "正常",
       "ru": "нормальный"
     },
-    "examples": ["Das ist ganz normal."],
+    "examples": [
+      "Das ist ganz normal."
+    ],
     "meta": {}
   },
   {
@@ -12413,7 +13321,11 @@ const WORDS_DE_A1 = [
     "lemma": "Nummer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "personal_info", "communication"],
+    "tags": [
+      "exam",
+      "personal_info",
+      "communication"
+    ],
     "meanings": {
       "de": "Nummer",
       "ko": "번호",
@@ -12426,7 +13338,9 @@ const WORDS_DE_A1 = [
       "zh": "号码",
       "ru": "номер"
     },
-    "examples": ["Haben Sie die falsche Nummer gewählt?"],
+    "examples": [
+      "Haben Sie die falsche Nummer gewählt?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Nummern"
@@ -12436,7 +13350,10 @@ const WORDS_DE_A1 = [
     "lemma": "nur",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "nur",
       "ko": "오직",
@@ -12449,7 +13366,9 @@ const WORDS_DE_A1 = [
       "zh": "只",
       "ru": "только"
     },
-    "examples": ["Ich habe nur fünf Euro."],
+    "examples": [
+      "Ich habe nur fünf Euro."
+    ],
     "meta": {}
   },
   {
@@ -12457,7 +13376,10 @@ const WORDS_DE_A1 = [
     "lemma": "oben",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location"],
+    "tags": [
+      "exam",
+      "location"
+    ],
     "meanings": {
       "de": "oben",
       "ko": "위쪽에",
@@ -12470,7 +13392,9 @@ const WORDS_DE_A1 = [
       "zh": "上面",
       "ru": "наверху"
     },
-    "examples": ["Ich wohne oben."],
+    "examples": [
+      "Ich wohne oben."
+    ],
     "meta": {}
   },
   {
@@ -12478,7 +13402,10 @@ const WORDS_DE_A1 = [
     "lemma": "Obst",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Obst",
       "ko": "과일",
@@ -12491,7 +13418,9 @@ const WORDS_DE_A1 = [
       "zh": "水果",
       "ru": "фрукты"
     },
-    "examples": ["Obst ist gesund."],
+    "examples": [
+      "Obst ist gesund."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -12501,7 +13430,10 @@ const WORDS_DE_A1 = [
     "lemma": "oder",
     "pos": "Konjunktion",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "oder",
       "ko": "또는",
@@ -12514,7 +13446,9 @@ const WORDS_DE_A1 = [
       "zh": "或者",
       "ru": "или"
     },
-    "examples": ["Kaffee oder Tee?"],
+    "examples": [
+      "Kaffee oder Tee?"
+    ],
     "meta": {}
   },
   {
@@ -12522,7 +13456,11 @@ const WORDS_DE_A1 = [
     "lemma": "öffnen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "action", "daily"],
+    "tags": [
+      "exam",
+      "action",
+      "daily"
+    ],
     "meanings": {
       "de": "öffnen",
       "ko": "열다",
@@ -12535,7 +13473,9 @@ const WORDS_DE_A1 = [
       "zh": "打开",
       "ru": "открывать"
     },
-    "examples": ["Können Sie bitte das Fenster öffnen?"],
+    "examples": [
+      "Können Sie bitte das Fenster öffnen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich öffne",
@@ -12551,7 +13491,11 @@ const WORDS_DE_A1 = [
     "lemma": "geöffnet",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "daily", "status"],
+    "tags": [
+      "exam",
+      "daily",
+      "status"
+    ],
     "meanings": {
       "de": "geöffnet",
       "ko": "열린",
@@ -12564,7 +13508,9 @@ const WORDS_DE_A1 = [
       "zh": "开着的",
       "ru": "открытый"
     },
-    "examples": ["Der Laden ist bis 20 Uhr geöffnet."],
+    "examples": [
+      "Der Laden ist bis 20 Uhr geöffnet."
+    ],
     "meta": {}
   },
   {
@@ -12572,7 +13518,11 @@ const WORDS_DE_A1 = [
     "lemma": "oft",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "frequency", "time"],
+    "tags": [
+      "exam",
+      "frequency",
+      "time"
+    ],
     "meanings": {
       "de": "oft",
       "ko": "자주",
@@ -12585,7 +13535,9 @@ const WORDS_DE_A1 = [
       "zh": "经常",
       "ru": "часто"
     },
-    "examples": ["Ich gehe oft ins Kino."],
+    "examples": [
+      "Ich gehe oft ins Kino."
+    ],
     "meta": {}
   },
   {
@@ -12593,7 +13545,10 @@ const WORDS_DE_A1 = [
     "lemma": "ohne",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "ohne",
       "ko": "없이",
@@ -12606,7 +13561,9 @@ const WORDS_DE_A1 = [
       "zh": "没有",
       "ru": "без"
     },
-    "examples": ["Bitte einen Kaffee ohne Zucker."],
+    "examples": [
+      "Bitte einen Kaffee ohne Zucker."
+    ],
     "meta": {}
   },
   {
@@ -12614,7 +13571,10 @@ const WORDS_DE_A1 = [
     "lemma": "Öl",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Öl",
       "ko": "기름",
@@ -12627,7 +13587,9 @@ const WORDS_DE_A1 = [
       "zh": "油",
       "ru": "масло"
     },
-    "examples": ["Wir brauchen Öl für den Salat."],
+    "examples": [
+      "Wir brauchen Öl für den Salat."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Öle"
@@ -12637,7 +13599,10 @@ const WORDS_DE_A1 = [
     "lemma": "Oma",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Oma",
       "ko": "할머니",
@@ -12650,7 +13615,9 @@ const WORDS_DE_A1 = [
       "zh": "奶奶",
       "ru": "бабушка"
     },
-    "examples": ["Meine Oma wohnt in München."],
+    "examples": [
+      "Meine Oma wohnt in München."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Omas"
@@ -12660,7 +13627,10 @@ const WORDS_DE_A1 = [
     "lemma": "Opa",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Opa",
       "ko": "할아버지",
@@ -12673,7 +13643,9 @@ const WORDS_DE_A1 = [
       "zh": "爷爷",
       "ru": "дедушка"
     },
-    "examples": ["Mein Opa ist 80 Jahre alt."],
+    "examples": [
+      "Mein Opa ist 80 Jahre alt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Opas"
@@ -12683,7 +13655,10 @@ const WORDS_DE_A1 = [
     "lemma": "Ordnung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Ordnung",
       "ko": "질서",
@@ -12696,7 +13671,9 @@ const WORDS_DE_A1 = [
       "zh": "秩序",
       "ru": "порядок"
     },
-    "examples": ["Das ist in Ordnung."],
+    "examples": [
+      "Das ist in Ordnung."
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -12706,7 +13683,11 @@ const WORDS_DE_A1 = [
     "lemma": "Ort",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "location", "personal_info"],
+    "tags": [
+      "exam",
+      "location",
+      "personal_info"
+    ],
     "meanings": {
       "de": "Ort",
       "ko": "장소",
@@ -12719,7 +13700,9 @@ const WORDS_DE_A1 = [
       "zh": "地点",
       "ru": "место"
     },
-    "examples": ["Der Ort liegt am See."],
+    "examples": [
+      "Der Ort liegt am See."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Orte"
@@ -12729,7 +13712,11 @@ const WORDS_DE_A1 = [
     "lemma": "Papier",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "office", "material"],
+    "tags": [
+      "exam",
+      "office",
+      "material"
+    ],
     "meanings": {
       "de": "Papier",
       "ko": "종이",
@@ -12742,7 +13729,9 @@ const WORDS_DE_A1 = [
       "zh": "纸",
       "ru": "бумага"
     },
-    "examples": ["Haben Sie Papier für den Drucker?"],
+    "examples": [
+      "Haben Sie Papier für den Drucker?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Papiere"
@@ -12752,7 +13741,11 @@ const WORDS_DE_A1 = [
     "lemma": "Papiere",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "official", "travel"],
+    "tags": [
+      "exam",
+      "official",
+      "travel"
+    ],
     "meanings": {
       "de": "Papiere",
       "ko": "서류",
@@ -12765,7 +13758,9 @@ const WORDS_DE_A1 = [
       "zh": "文件",
       "ru": "документы"
     },
-    "examples": ["Haben Sie Ihre Papiere dabei?"],
+    "examples": [
+      "Haben Sie Ihre Papiere dabei?"
+    ],
     "meta": {},
     "gender": "",
     "plural": "Papiere"
@@ -12775,7 +13770,11 @@ const WORDS_DE_A1 = [
     "lemma": "Partner",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "social", "family"],
+    "tags": [
+      "exam",
+      "social",
+      "family"
+    ],
     "meanings": {
       "de": "Partner",
       "ko": "파트너",
@@ -12788,7 +13787,9 @@ const WORDS_DE_A1 = [
       "zh": "伙伴",
       "ru": "партнер"
     },
-    "examples": ["Mein Partner kommt später."],
+    "examples": [
+      "Mein Partner kommt später."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Partner"
@@ -12798,7 +13799,11 @@ const WORDS_DE_A1 = [
     "lemma": "Partnerin",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "social", "family"],
+    "tags": [
+      "exam",
+      "social",
+      "family"
+    ],
     "meanings": {
       "de": "Partnerin",
       "ko": "여자 파트너",
@@ -12811,7 +13816,9 @@ const WORDS_DE_A1 = [
       "zh": "女伙伴",
       "ru": "партнерша"
     },
-    "examples": ["Das ist meine Partnerin."],
+    "examples": [
+      "Das ist meine Partnerin."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Partnerinnen"
@@ -12821,7 +13828,10 @@ const WORDS_DE_A1 = [
     "lemma": "Party",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure"],
+    "tags": [
+      "exam",
+      "leisure"
+    ],
     "meanings": {
       "de": "Party",
       "ko": "파티",
@@ -12834,7 +13844,9 @@ const WORDS_DE_A1 = [
       "zh": "派对",
       "ru": "вечеринка"
     },
-    "examples": ["Heute Abend ist eine Party."],
+    "examples": [
+      "Heute Abend ist eine Party."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Partys"
@@ -12844,7 +13856,11 @@ const WORDS_DE_A1 = [
     "lemma": "Pass",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "official"],
+    "tags": [
+      "exam",
+      "travel",
+      "official"
+    ],
     "meanings": {
       "de": "Pass",
       "ko": "여권",
@@ -12857,7 +13873,9 @@ const WORDS_DE_A1 = [
       "zh": "护照",
       "ru": "паспорт"
     },
-    "examples": ["Zeigen Sie mir bitte Ihren Pass."],
+    "examples": [
+      "Zeigen Sie mir bitte Ihren Pass."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Pässe"
@@ -12867,7 +13885,11 @@ const WORDS_DE_A1 = [
     "lemma": "Pause",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "work"],
+    "tags": [
+      "exam",
+      "time",
+      "work"
+    ],
     "meanings": {
       "de": "Pause",
       "ko": "휴식",
@@ -12880,7 +13902,9 @@ const WORDS_DE_A1 = [
       "zh": "休息",
       "ru": "пауза"
     },
-    "examples": ["Wir machen zehn Minuten Pause."],
+    "examples": [
+      "Wir machen zehn Minuten Pause."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Pausen"
@@ -12890,7 +13914,11 @@ const WORDS_DE_A1 = [
     "lemma": "Plan",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "travel"],
+    "tags": [
+      "exam",
+      "daily",
+      "travel"
+    ],
     "meanings": {
       "de": "Plan",
       "ko": "계획, 지도",
@@ -12903,7 +13931,9 @@ const WORDS_DE_A1 = [
       "zh": "计划",
       "ru": "план"
     },
-    "examples": ["Haben Sie einen Plan von der Stadt?"],
+    "examples": [
+      "Haben Sie einen Plan von der Stadt?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Pläne"
@@ -12913,7 +13943,11 @@ const WORDS_DE_A1 = [
     "lemma": "Platz",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "location", "city"],
+    "tags": [
+      "exam",
+      "location",
+      "city"
+    ],
     "meanings": {
       "de": "Platz",
       "ko": "광장",
@@ -12926,30 +13960,9 @@ const WORDS_DE_A1 = [
       "zh": "广场",
       "ru": "площадь"
     },
-    "examples": ["Der Platz ist sehr groß."],
-    "meta": {},
-    "gender": "der",
-    "plural": "Plätze"
-  },
-  {
-    "id": "platz_nm_2",
-    "lemma": "Platz",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": ["exam", "location"],
-    "meanings": {
-      "de": "Platz",
-      "ko": "자리",
-      "en": "seat",
-      "es": "asiento",
-      "fr": "place",
-      "it": "posto",
-      "pt": "lugar",
-      "ja": "席",
-      "zh": "座位",
-      "ru": "место"
-    },
-    "examples": ["Ist dieser Platz noch frei?"],
+    "examples": [
+      "Der Platz ist sehr groß."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Plätze"
@@ -12959,7 +13972,11 @@ const WORDS_DE_A1 = [
     "lemma": "Polizei",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society", "emergency"],
+    "tags": [
+      "exam",
+      "society",
+      "emergency"
+    ],
     "meanings": {
       "de": "Polizei",
       "ko": "경찰",
@@ -12972,7 +13989,9 @@ const WORDS_DE_A1 = [
       "zh": "警察",
       "ru": "полиция"
     },
-    "examples": ["Rufen Sie die Polizei!"],
+    "examples": [
+      "Rufen Sie die Polizei!"
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -12982,7 +14001,10 @@ const WORDS_DE_A1 = [
     "lemma": "Pommes frites",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Pommes frites",
       "ko": "감자튀김",
@@ -12995,7 +14017,9 @@ const WORDS_DE_A1 = [
       "zh": "薯条",
       "ru": "картофель фри"
     },
-    "examples": ["Ich esse gern Pommes frites."],
+    "examples": [
+      "Ich esse gern Pommes frites."
+    ],
     "meta": {},
     "gender": "",
     "plural": "Pommes frites"
@@ -13005,7 +14029,10 @@ const WORDS_DE_A1 = [
     "lemma": "Portion",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Portion",
       "ko": "인분",
@@ -13018,7 +14045,9 @@ const WORDS_DE_A1 = [
       "zh": "份",
       "ru": "порция"
     },
-    "examples": ["Eine Portion Pommes mit Ketchup, bitte."],
+    "examples": [
+      "Eine Portion Pommes mit Ketchup, bitte."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Portionen"
@@ -13028,7 +14057,11 @@ const WORDS_DE_A1 = [
     "lemma": "Post",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "communication", "city"],
+    "tags": [
+      "exam",
+      "communication",
+      "city"
+    ],
     "meanings": {
       "de": "Post",
       "ko": "우체국, 우편",
@@ -13041,7 +14074,9 @@ const WORDS_DE_A1 = [
       "zh": "邮局",
       "ru": "почта"
     },
-    "examples": ["Wo ist die Post?"],
+    "examples": [
+      "Wo ist die Post?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -13051,7 +14086,10 @@ const WORDS_DE_A1 = [
     "lemma": "Postleitzahl",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "personal_info"],
+    "tags": [
+      "exam",
+      "personal_info"
+    ],
     "meanings": {
       "de": "Postleitzahl",
       "ko": "우편번호",
@@ -13064,7 +14102,9 @@ const WORDS_DE_A1 = [
       "zh": "邮政编码",
       "ru": "почтовый индекс"
     },
-    "examples": ["Wie ist Ihre Postleitzahl?"],
+    "examples": [
+      "Wie ist Ihre Postleitzahl?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Postleitzahlen"
@@ -13074,7 +14114,11 @@ const WORDS_DE_A1 = [
     "lemma": "Praktikum",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "education"],
+    "tags": [
+      "exam",
+      "work",
+      "education"
+    ],
     "meanings": {
       "de": "Praktikum",
       "ko": "실습",
@@ -13087,7 +14131,9 @@ const WORDS_DE_A1 = [
       "zh": "实习",
       "ru": "практика"
     },
-    "examples": ["Ich mache ein Praktikum bei Siemens."],
+    "examples": [
+      "Ich mache ein Praktikum bei Siemens."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Praktika"
@@ -13097,7 +14143,11 @@ const WORDS_DE_A1 = [
     "lemma": "Praxis",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "health", "work"],
+    "tags": [
+      "exam",
+      "health",
+      "work"
+    ],
     "meanings": {
       "de": "Praxis",
       "ko": "진료소, 병원",
@@ -13110,7 +14160,9 @@ const WORDS_DE_A1 = [
       "zh": "诊所",
       "ru": "практика"
     },
-    "examples": ["Die Praxis ist ab 8 Uhr geöffnet."],
+    "examples": [
+      "Die Praxis ist ab 8 Uhr geöffnet."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Praxen"
@@ -13120,7 +14172,10 @@ const WORDS_DE_A1 = [
     "lemma": "Preis",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping"],
+    "tags": [
+      "exam",
+      "shopping"
+    ],
     "meanings": {
       "de": "Preis",
       "ko": "가격",
@@ -13133,7 +14188,9 @@ const WORDS_DE_A1 = [
       "zh": "价格",
       "ru": "цена"
     },
-    "examples": ["Der Preis ist hoch."],
+    "examples": [
+      "Der Preis ist hoch."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Preise"
@@ -13143,7 +14200,10 @@ const WORDS_DE_A1 = [
     "lemma": "Problem",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Problem",
       "ko": "문제",
@@ -13156,7 +14216,9 @@ const WORDS_DE_A1 = [
       "zh": "问题",
       "ru": "проблема"
     },
-    "examples": ["Ich habe ein Problem."],
+    "examples": [
+      "Ich habe ein Problem."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Probleme"
@@ -13166,7 +14228,11 @@ const WORDS_DE_A1 = [
     "lemma": "Prospekt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "media", "travel"],
+    "tags": [
+      "exam",
+      "media",
+      "travel"
+    ],
     "meanings": {
       "de": "Prospekt",
       "ko": "안내 책자",
@@ -13179,7 +14245,9 @@ const WORDS_DE_A1 = [
       "zh": "宣传册",
       "ru": "проспект"
     },
-    "examples": ["Bitte schicken Sie mir einen Prospekt."],
+    "examples": [
+      "Bitte schicken Sie mir einen Prospekt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Prospekte"
@@ -13189,7 +14257,10 @@ const WORDS_DE_A1 = [
     "lemma": "pünktlich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "pünktlich",
       "ko": "시간을 엄수하는",
@@ -13202,7 +14273,9 @@ const WORDS_DE_A1 = [
       "zh": "准时",
       "ru": "пунктуальный"
     },
-    "examples": ["Bitte seien Sie pünktlich."],
+    "examples": [
+      "Bitte seien Sie pünktlich."
+    ],
     "meta": {}
   },
   {
@@ -13210,7 +14283,10 @@ const WORDS_DE_A1 = [
     "lemma": "Rad",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport"],
+    "tags": [
+      "exam",
+      "transport"
+    ],
     "meanings": {
       "de": "Rad",
       "ko": "자전거",
@@ -13223,7 +14299,9 @@ const WORDS_DE_A1 = [
       "zh": "自行车",
       "ru": "велосипед"
     },
-    "examples": ["Ich fahre gern Rad."],
+    "examples": [
+      "Ich fahre gern Rad."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Räder"
@@ -13233,7 +14311,11 @@ const WORDS_DE_A1 = [
     "lemma": "rauchen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "health"],
+    "tags": [
+      "exam",
+      "daily",
+      "health"
+    ],
     "meanings": {
       "de": "rauchen",
       "ko": "담배를 피우다",
@@ -13246,7 +14328,9 @@ const WORDS_DE_A1 = [
       "zh": "吸烟",
       "ru": "курить"
     },
-    "examples": ["Hier dürfen Sie nicht rauchen."],
+    "examples": [
+      "Hier dürfen Sie nicht rauchen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich rauche",
@@ -13262,7 +14346,11 @@ const WORDS_DE_A1 = [
     "lemma": "Raum",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "location", "housing"],
+    "tags": [
+      "exam",
+      "location",
+      "housing"
+    ],
     "meanings": {
       "de": "Raum",
       "ko": "방",
@@ -13275,7 +14363,9 @@ const WORDS_DE_A1 = [
       "zh": "房间",
       "ru": "помещение"
     },
-    "examples": ["Der Unterricht ist in Raum 12."],
+    "examples": [
+      "Der Unterricht ist in Raum 12."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Räume"
@@ -13285,7 +14375,11 @@ const WORDS_DE_A1 = [
     "lemma": "Rechnung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "restaurant"],
+    "tags": [
+      "exam",
+      "shopping",
+      "restaurant"
+    ],
     "meanings": {
       "de": "Rechnung",
       "ko": "계산서",
@@ -13298,7 +14392,9 @@ const WORDS_DE_A1 = [
       "zh": "账单",
       "ru": "счет"
     },
-    "examples": ["Die Rechnung, bitte."],
+    "examples": [
+      "Die Rechnung, bitte."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Rechnungen"
@@ -13308,7 +14404,11 @@ const WORDS_DE_A1 = [
     "lemma": "rechts",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location", "direction"],
+    "tags": [
+      "exam",
+      "location",
+      "direction"
+    ],
     "meanings": {
       "de": "rechts",
       "ko": "오른쪽으로",
@@ -13321,7 +14421,9 @@ const WORDS_DE_A1 = [
       "zh": "向右",
       "ru": "справа"
     },
-    "examples": ["Da müssen Sie nach rechts fahren."],
+    "examples": [
+      "Da müssen Sie nach rechts fahren."
+    ],
     "meta": {}
   },
   {
@@ -13329,7 +14431,10 @@ const WORDS_DE_A1 = [
     "lemma": "regnen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "weather"],
+    "tags": [
+      "exam",
+      "weather"
+    ],
     "meanings": {
       "de": "regnen",
       "ko": "비가 오다",
@@ -13342,7 +14447,9 @@ const WORDS_DE_A1 = [
       "zh": "下雨",
       "ru": "идти (о дожде)"
     },
-    "examples": ["Es regnet heute."],
+    "examples": [
+      "Es regnet heute."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "es regnet",
@@ -13358,7 +14465,10 @@ const WORDS_DE_A1 = [
     "lemma": "Regen",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "weather"],
+    "tags": [
+      "exam",
+      "weather"
+    ],
     "meanings": {
       "de": "Regen",
       "ko": "비",
@@ -13371,7 +14481,9 @@ const WORDS_DE_A1 = [
       "zh": "雨",
       "ru": "дождь"
     },
-    "examples": ["Bei Regen gehe ich nicht spazieren."],
+    "examples": [
+      "Bei Regen gehe ich nicht spazieren."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -13381,7 +14493,10 @@ const WORDS_DE_A1 = [
     "lemma": "Reis",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Reis",
       "ko": "쌀",
@@ -13394,7 +14509,9 @@ const WORDS_DE_A1 = [
       "zh": "米饭",
       "ru": "рис"
     },
-    "examples": ["Ich esse gern Reis."],
+    "examples": [
+      "Ich esse gern Reis."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -13404,7 +14521,10 @@ const WORDS_DE_A1 = [
     "lemma": "reisen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "travel"],
+    "tags": [
+      "exam",
+      "travel"
+    ],
     "meanings": {
       "de": "reisen",
       "ko": "여행하다",
@@ -13417,7 +14537,9 @@ const WORDS_DE_A1 = [
       "zh": "旅行",
       "ru": "путешествовать"
     },
-    "examples": ["Ich reise gern nach Italien."],
+    "examples": [
+      "Ich reise gern nach Italien."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich reise",
@@ -13433,7 +14555,10 @@ const WORDS_DE_A1 = [
     "lemma": "Reise",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel"],
+    "tags": [
+      "exam",
+      "travel"
+    ],
     "meanings": {
       "de": "Reise",
       "ko": "여행",
@@ -13446,7 +14571,9 @@ const WORDS_DE_A1 = [
       "zh": "旅行",
       "ru": "путешествие"
     },
-    "examples": ["Gute Reise!"],
+    "examples": [
+      "Gute Reise!"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Reisen"
@@ -13456,7 +14583,11 @@ const WORDS_DE_A1 = [
     "lemma": "Reisebüro",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "city"],
+    "tags": [
+      "exam",
+      "travel",
+      "city"
+    ],
     "meanings": {
       "de": "Reisebüro",
       "ko": "여행사",
@@ -13469,7 +14600,9 @@ const WORDS_DE_A1 = [
       "zh": "旅行社",
       "ru": "турагентство"
     },
-    "examples": ["Wir buchen die Reise im Reisebüro."],
+    "examples": [
+      "Wir buchen die Reise im Reisebüro."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Reisebüros"
@@ -13479,7 +14612,11 @@ const WORDS_DE_A1 = [
     "lemma": "Reiseführer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "media"],
+    "tags": [
+      "exam",
+      "travel",
+      "media"
+    ],
     "meanings": {
       "de": "Reiseführer",
       "ko": "여행 가이드북",
@@ -13492,7 +14629,9 @@ const WORDS_DE_A1 = [
       "zh": "旅游指南",
       "ru": "путеводитель"
     },
-    "examples": ["Ich kaufe einen Reiseführer von Berlin."],
+    "examples": [
+      "Ich kaufe einen Reiseführer von Berlin."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Reiseführer"
@@ -13502,7 +14641,11 @@ const WORDS_DE_A1 = [
     "lemma": "reparieren",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "work"],
+    "tags": [
+      "exam",
+      "daily",
+      "work"
+    ],
     "meanings": {
       "de": "reparieren",
       "ko": "수리하다",
@@ -13515,7 +14658,9 @@ const WORDS_DE_A1 = [
       "zh": "修理",
       "ru": "ремонтировать"
     },
-    "examples": ["Können Sie das Fahrrad reparieren?"],
+    "examples": [
+      "Können Sie das Fahrrad reparieren?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich repariere",
@@ -13531,7 +14676,11 @@ const WORDS_DE_A1 = [
     "lemma": "Reparatur",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "service"],
+    "tags": [
+      "exam",
+      "daily",
+      "service"
+    ],
     "meanings": {
       "de": "Reparatur",
       "ko": "수리",
@@ -13544,7 +14693,9 @@ const WORDS_DE_A1 = [
       "zh": "修理",
       "ru": "ремонт"
     },
-    "examples": ["Die Reparatur ist sehr teuer."],
+    "examples": [
+      "Die Reparatur ist sehr teuer."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Reparaturen"
@@ -13554,7 +14705,11 @@ const WORDS_DE_A1 = [
     "lemma": "Restaurant",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "city"],
+    "tags": [
+      "exam",
+      "food",
+      "city"
+    ],
     "meanings": {
       "de": "Restaurant",
       "ko": "식당",
@@ -13567,7 +14722,9 @@ const WORDS_DE_A1 = [
       "zh": "餐厅",
       "ru": "ресторан"
     },
-    "examples": ["Wir essen heute im Restaurant."],
+    "examples": [
+      "Wir essen heute im Restaurant."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Restaurants"
@@ -13577,7 +14734,11 @@ const WORDS_DE_A1 = [
     "lemma": "Rezept",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "health", "food"],
+    "tags": [
+      "exam",
+      "health",
+      "food"
+    ],
     "meanings": {
       "de": "Rezept",
       "ko": "처방전, 조리법",
@@ -13590,7 +14751,9 @@ const WORDS_DE_A1 = [
       "zh": "处方, 食谱",
       "ru": "рецепт"
     },
-    "examples": ["Dieses Medikament bekommen Sie nur mit Rezept."],
+    "examples": [
+      "Dieses Medikament bekommen Sie nur mit Rezept."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Rezepte"
@@ -13600,7 +14763,11 @@ const WORDS_DE_A1 = [
     "lemma": "Rezeption",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "hotel"],
+    "tags": [
+      "exam",
+      "travel",
+      "hotel"
+    ],
     "meanings": {
       "de": "Rezeption",
       "ko": "프런트",
@@ -13613,7 +14780,9 @@ const WORDS_DE_A1 = [
       "zh": "接待处",
       "ru": "ресепшн"
     },
-    "examples": ["Geben Sie bitte den Schlüssel an der Rezeption ab."],
+    "examples": [
+      "Geben Sie bitte den Schlüssel an der Rezeption ab."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Rezeptionen"
@@ -13623,7 +14792,11 @@ const WORDS_DE_A1 = [
     "lemma": "richtig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "opinion"],
+    "tags": [
+      "exam",
+      "basic",
+      "opinion"
+    ],
     "meanings": {
       "de": "richtig",
       "ko": "맞는",
@@ -13636,7 +14809,9 @@ const WORDS_DE_A1 = [
       "zh": "正确",
       "ru": "правильный"
     },
-    "examples": ["Das ist richtig."],
+    "examples": [
+      "Das ist richtig."
+    ],
     "meta": {}
   },
   {
@@ -13644,7 +14819,10 @@ const WORDS_DE_A1 = [
     "lemma": "riechen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "perception"],
+    "tags": [
+      "exam",
+      "perception"
+    ],
     "meanings": {
       "de": "riechen",
       "ko": "냄새가 나다",
@@ -13657,7 +14835,9 @@ const WORDS_DE_A1 = [
       "zh": "闻",
       "ru": "пахнуть"
     },
-    "examples": ["Das Essen riecht gut."],
+    "examples": [
+      "Das Essen riecht gut."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich rieche",
@@ -13673,7 +14853,10 @@ const WORDS_DE_A1 = [
     "lemma": "ruhig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "ruhig",
       "ko": "조용한",
@@ -13686,7 +14869,9 @@ const WORDS_DE_A1 = [
       "zh": "安静",
       "ru": "спокойный"
     },
-    "examples": ["Ich möchte ein ruhiges Zimmer."],
+    "examples": [
+      "Ich möchte ein ruhiges Zimmer."
+    ],
     "meta": {}
   },
   {
@@ -13694,7 +14879,11 @@ const WORDS_DE_A1 = [
     "lemma": "Saft",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food", "drink"],
+    "tags": [
+      "exam",
+      "food",
+      "drink"
+    ],
     "meanings": {
       "de": "Saft",
       "ko": "주스",
@@ -13707,7 +14896,9 @@ const WORDS_DE_A1 = [
       "zh": "果汁",
       "ru": "сок"
     },
-    "examples": ["Ich trinke gern Orangensaft."],
+    "examples": [
+      "Ich trinke gern Orangensaft."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Säfte"
@@ -13717,7 +14908,11 @@ const WORDS_DE_A1 = [
     "lemma": "sagen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "basic"],
+    "tags": [
+      "exam",
+      "communication",
+      "basic"
+    ],
     "meanings": {
       "de": "sagen",
       "ko": "말하다",
@@ -13730,7 +14925,9 @@ const WORDS_DE_A1 = [
       "zh": "说",
       "ru": "сказать"
     },
-    "examples": ["Sag mal, wie heißt du?"],
+    "examples": [
+      "Sag mal, wie heißt du?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich sage",
@@ -13746,7 +14943,10 @@ const WORDS_DE_A1 = [
     "lemma": "Salat",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Salat",
       "ko": "샐러드",
@@ -13759,7 +14959,9 @@ const WORDS_DE_A1 = [
       "zh": "沙拉",
       "ru": "салат"
     },
-    "examples": ["Ich möchte gern einen Salat."],
+    "examples": [
+      "Ich möchte gern einen Salat."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Salate"
@@ -13769,7 +14971,10 @@ const WORDS_DE_A1 = [
     "lemma": "Salz",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Salz",
       "ko": "소금",
@@ -13782,7 +14987,9 @@ const WORDS_DE_A1 = [
       "zh": "盐",
       "ru": "соль"
     },
-    "examples": ["Herr Ober, kann ich bitte Salz haben?"],
+    "examples": [
+      "Herr Ober, kann ich bitte Salz haben?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -13792,7 +14999,11 @@ const WORDS_DE_A1 = [
     "lemma": "Satz",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "school", "communication"],
+    "tags": [
+      "exam",
+      "school",
+      "communication"
+    ],
     "meanings": {
       "de": "Satz",
       "ko": "문장",
@@ -13805,7 +15016,9 @@ const WORDS_DE_A1 = [
       "zh": "句子",
       "ru": "предложение"
     },
-    "examples": ["Den letzten Satz verstehe ich nicht."],
+    "examples": [
+      "Den letzten Satz verstehe ich nicht."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Sätze"
@@ -13815,7 +15028,11 @@ const WORDS_DE_A1 = [
     "lemma": "S-Bahn",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport", "city"],
+    "tags": [
+      "exam",
+      "transport",
+      "city"
+    ],
     "meanings": {
       "de": "S-Bahn",
       "ko": "도시 고속 철도",
@@ -13828,7 +15045,9 @@ const WORDS_DE_A1 = [
       "zh": "城市快铁",
       "ru": "городская электричка"
     },
-    "examples": ["Ich nehme die S-Bahn."],
+    "examples": [
+      "Ich nehme die S-Bahn."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "S-Bahnen"
@@ -13838,7 +15057,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schalter",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "public_service"],
+    "tags": [
+      "exam",
+      "travel",
+      "public_service"
+    ],
     "meanings": {
       "de": "Schalter",
       "ko": "창구",
@@ -13851,7 +15074,9 @@ const WORDS_DE_A1 = [
       "zh": "柜台",
       "ru": "окошко"
     },
-    "examples": ["Gehen Sie bitte zum Schalter 3."],
+    "examples": [
+      "Gehen Sie bitte zum Schalter 3."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schalter"
@@ -13861,7 +15086,10 @@ const WORDS_DE_A1 = [
     "lemma": "scheinen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "weather"],
+    "tags": [
+      "exam",
+      "weather"
+    ],
     "meanings": {
       "de": "scheinen",
       "ko": "빛나다",
@@ -13874,7 +15102,9 @@ const WORDS_DE_A1 = [
       "zh": "照耀",
       "ru": "светить"
     },
-    "examples": ["Die Sonne scheint."],
+    "examples": [
+      "Die Sonne scheint."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich scheine",
@@ -13890,7 +15120,11 @@ const WORDS_DE_A1 = [
     "lemma": "schicken",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "post"],
+    "tags": [
+      "exam",
+      "communication",
+      "post"
+    ],
     "meanings": {
       "de": "schicken",
       "ko": "보내다",
@@ -13903,7 +15137,9 @@ const WORDS_DE_A1 = [
       "zh": "寄",
       "ru": "посылать"
     },
-    "examples": ["Bitte schicken Sie mir eine E-Mail."],
+    "examples": [
+      "Bitte schicken Sie mir eine E-Mail."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schicke",
@@ -13919,7 +15155,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schild",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "traffic", "city"],
+    "tags": [
+      "exam",
+      "traffic",
+      "city"
+    ],
     "meanings": {
       "de": "Schild",
       "ko": "표지판",
@@ -13932,7 +15172,9 @@ const WORDS_DE_A1 = [
       "zh": "牌子",
       "ru": "вывеска"
     },
-    "examples": ["Haben Sie das Schild nicht gesehen?"],
+    "examples": [
+      "Haben Sie das Schild nicht gesehen?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Schilder"
@@ -13942,7 +15184,10 @@ const WORDS_DE_A1 = [
     "lemma": "Schinken",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Schinken",
       "ko": "햄",
@@ -13955,7 +15200,9 @@ const WORDS_DE_A1 = [
       "zh": "火腿",
       "ru": "ветчина"
     },
-    "examples": ["Ich möchte ein Brötchen mit Schinken."],
+    "examples": [
+      "Ich möchte ein Brötchen mit Schinken."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schinken"
@@ -13965,7 +15212,11 @@ const WORDS_DE_A1 = [
     "lemma": "schlafen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "basic"],
+    "tags": [
+      "exam",
+      "daily",
+      "basic"
+    ],
     "meanings": {
       "de": "schlafen",
       "ko": "자다",
@@ -13978,7 +15229,9 @@ const WORDS_DE_A1 = [
       "zh": "睡觉",
       "ru": "спать"
     },
-    "examples": ["Ich schlafe meistens acht Stunden."],
+    "examples": [
+      "Ich schlafe meistens acht Stunden."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schlafe",
@@ -13994,7 +15247,11 @@ const WORDS_DE_A1 = [
     "lemma": "schlecht",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "opinion"],
+    "tags": [
+      "exam",
+      "basic",
+      "opinion"
+    ],
     "meanings": {
       "de": "schlecht",
       "ko": "나쁜",
@@ -14007,7 +15264,9 @@ const WORDS_DE_A1 = [
       "zh": "坏",
       "ru": "плохой"
     },
-    "examples": ["Das Wetter ist schlecht."],
+    "examples": [
+      "Das Wetter ist schlecht."
+    ],
     "meta": {}
   },
   {
@@ -14015,7 +15274,11 @@ const WORDS_DE_A1 = [
     "lemma": "schließen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "action", "daily"],
+    "tags": [
+      "exam",
+      "action",
+      "daily"
+    ],
     "meanings": {
       "de": "schließen",
       "ko": "닫다",
@@ -14028,7 +15291,9 @@ const WORDS_DE_A1 = [
       "zh": "关闭",
       "ru": "закрывать"
     },
-    "examples": ["Bitte schließen Sie die Tür."],
+    "examples": [
+      "Bitte schließen Sie die Tür."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schließe",
@@ -14044,7 +15309,11 @@ const WORDS_DE_A1 = [
     "lemma": "geschlossen",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "daily", "status"],
+    "tags": [
+      "exam",
+      "daily",
+      "status"
+    ],
     "meanings": {
       "de": "geschlossen",
       "ko": "닫힌",
@@ -14057,7 +15326,9 @@ const WORDS_DE_A1 = [
       "zh": "关闭的",
       "ru": "закрытый"
     },
-    "examples": ["Die Bank ist am Samstag geschlossen."],
+    "examples": [
+      "Die Bank ist am Samstag geschlossen."
+    ],
     "meta": {}
   },
   {
@@ -14065,7 +15336,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schluss",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "Schluss",
       "ko": "끝",
@@ -14078,7 +15353,9 @@ const WORDS_DE_A1 = [
       "zh": "结束",
       "ru": "конец"
     },
-    "examples": ["Ich muss jetzt Schluss machen."],
+    "examples": [
+      "Ich muss jetzt Schluss machen."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schlüsse"
@@ -14088,7 +15365,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schlüssel",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "daily"],
+    "tags": [
+      "exam",
+      "housing",
+      "daily"
+    ],
     "meanings": {
       "de": "Schlüssel",
       "ko": "열쇠",
@@ -14101,7 +15382,9 @@ const WORDS_DE_A1 = [
       "zh": "钥匙",
       "ru": "ключ"
     },
-    "examples": ["Ich gebe Ihnen den Schlüssel."],
+    "examples": [
+      "Ich gebe Ihnen den Schlüssel."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schlüssel"
@@ -14111,7 +15394,11 @@ const WORDS_DE_A1 = [
     "lemma": "schmecken",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "food", "feeling"],
+    "tags": [
+      "exam",
+      "food",
+      "feeling"
+    ],
     "meanings": {
       "de": "schmecken",
       "ko": "맛이 나다",
@@ -14124,7 +15411,9 @@ const WORDS_DE_A1 = [
       "zh": "有味道",
       "ru": "быть вкусным"
     },
-    "examples": ["Das schmeckt gut."],
+    "examples": [
+      "Das schmeckt gut."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schmecke",
@@ -14140,7 +15429,10 @@ const WORDS_DE_A1 = [
     "lemma": "schnell",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "schnell",
       "ko": "빠른",
@@ -14153,7 +15445,9 @@ const WORDS_DE_A1 = [
       "zh": "快",
       "ru": "быстрый"
     },
-    "examples": ["Er fährt zu schnell."],
+    "examples": [
+      "Er fährt zu schnell."
+    ],
     "meta": {}
   },
   {
@@ -14161,7 +15455,11 @@ const WORDS_DE_A1 = [
     "lemma": "schon",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "schon",
       "ko": "이미, 벌써",
@@ -14174,7 +15472,9 @@ const WORDS_DE_A1 = [
       "zh": "已经",
       "ru": "уже"
     },
-    "examples": ["Ist das Essen schon fertig?"],
+    "examples": [
+      "Ist das Essen schon fertig?"
+    ],
     "meta": {}
   },
   {
@@ -14182,7 +15482,11 @@ const WORDS_DE_A1 = [
     "lemma": "schön",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description", "feeling"],
+    "tags": [
+      "exam",
+      "description",
+      "feeling"
+    ],
     "meanings": {
       "de": "schön",
       "ko": "아름다운",
@@ -14195,7 +15499,9 @@ const WORDS_DE_A1 = [
       "zh": "美丽",
       "ru": "красивый"
     },
-    "examples": ["Schöne Ferien!"],
+    "examples": [
+      "Schöne Ferien!"
+    ],
     "meta": {}
   },
   {
@@ -14203,7 +15509,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schrank",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "furniture"],
+    "tags": [
+      "exam",
+      "housing",
+      "furniture"
+    ],
     "meanings": {
       "de": "Schrank",
       "ko": "장, 옷장",
@@ -14216,7 +15526,9 @@ const WORDS_DE_A1 = [
       "zh": "柜子",
       "ru": "шкаф"
     },
-    "examples": ["Die Gläser stehen im Schrank."],
+    "examples": [
+      "Die Gläser stehen im Schrank."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schränke"
@@ -14226,7 +15538,11 @@ const WORDS_DE_A1 = [
     "lemma": "schreiben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "school"],
+    "tags": [
+      "exam",
+      "communication",
+      "school"
+    ],
     "meanings": {
       "de": "schreiben",
       "ko": "쓰다",
@@ -14239,7 +15555,9 @@ const WORDS_DE_A1 = [
       "zh": "写",
       "ru": "писать"
     },
-    "examples": ["Er schreibt einen Brief."],
+    "examples": [
+      "Er schreibt einen Brief."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schreibe",
@@ -14255,7 +15573,10 @@ const WORDS_DE_A1 = [
     "lemma": "Schuh",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "clothing"],
+    "tags": [
+      "exam",
+      "clothing"
+    ],
     "meanings": {
       "de": "Schuh",
       "ko": "신발",
@@ -14268,7 +15589,9 @@ const WORDS_DE_A1 = [
       "zh": "鞋",
       "ru": "ботинок"
     },
-    "examples": ["Zieh die Schuhe aus!"],
+    "examples": [
+      "Zieh die Schuhe aus!"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schuhe"
@@ -14278,7 +15601,10 @@ const WORDS_DE_A1 = [
     "lemma": "Schule",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education"],
+    "tags": [
+      "exam",
+      "education"
+    ],
     "meanings": {
       "de": "Schule",
       "ko": "학교",
@@ -14291,7 +15617,9 @@ const WORDS_DE_A1 = [
       "zh": "学校",
       "ru": "школа"
     },
-    "examples": ["Meine Tochter geht schon in die Schule."],
+    "examples": [
+      "Meine Tochter geht schon in die Schule."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Schulen"
@@ -14301,7 +15629,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schüler",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "people"],
+    "tags": [
+      "exam",
+      "education",
+      "people"
+    ],
     "meanings": {
       "de": "Schüler",
       "ko": "남학생",
@@ -14314,7 +15646,9 @@ const WORDS_DE_A1 = [
       "zh": "学生",
       "ru": "ученик"
     },
-    "examples": ["In meinem Kurs sind 15 Schüler."],
+    "examples": [
+      "In meinem Kurs sind 15 Schüler."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Schüler"
@@ -14324,7 +15658,10 @@ const WORDS_DE_A1 = [
     "lemma": "schwer",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "schwer",
       "ko": "무거운, 어려운",
@@ -14337,7 +15674,9 @@ const WORDS_DE_A1 = [
       "zh": "重, 难",
       "ru": "тяжелый"
     },
-    "examples": ["Ist der Koffer schwer?"],
+    "examples": [
+      "Ist der Koffer schwer?"
+    ],
     "meta": {}
   },
   {
@@ -14345,7 +15684,10 @@ const WORDS_DE_A1 = [
     "lemma": "Schwester",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Schwester",
       "ko": "여자 형제",
@@ -14358,7 +15700,9 @@ const WORDS_DE_A1 = [
       "zh": "姐妹",
       "ru": "сестра"
     },
-    "examples": ["Ich habe keine Schwester."],
+    "examples": [
+      "Ich habe keine Schwester."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Schwestern"
@@ -14368,7 +15712,11 @@ const WORDS_DE_A1 = [
     "lemma": "schwimmen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "sport", "leisure"],
+    "tags": [
+      "exam",
+      "sport",
+      "leisure"
+    ],
     "meanings": {
       "de": "schwimmen",
       "ko": "수영하다",
@@ -14381,7 +15729,9 @@ const WORDS_DE_A1 = [
       "zh": "游泳",
       "ru": "плавать"
     },
-    "examples": ["Ich schwimme jeden Tag einen Kilometer."],
+    "examples": [
+      "Ich schwimme jeden Tag einen Kilometer."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich schwimme",
@@ -14397,7 +15747,11 @@ const WORDS_DE_A1 = [
     "lemma": "Schwimmbad",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "sport", "city"],
+    "tags": [
+      "exam",
+      "sport",
+      "city"
+    ],
     "meanings": {
       "de": "Schwimmbad",
       "ko": "수영장",
@@ -14410,7 +15764,9 @@ const WORDS_DE_A1 = [
       "zh": "游泳池",
       "ru": "бассейн"
     },
-    "examples": ["Kommst du mit ins Schwimmbad?"],
+    "examples": [
+      "Kommst du mit ins Schwimmbad?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Schwimmbäder"
@@ -14420,7 +15776,11 @@ const WORDS_DE_A1 = [
     "lemma": "See",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "nature", "geography"],
+    "tags": [
+      "exam",
+      "nature",
+      "geography"
+    ],
     "meanings": {
       "de": "See",
       "ko": "호수",
@@ -14433,7 +15793,9 @@ const WORDS_DE_A1 = [
       "zh": "湖",
       "ru": "озеро"
     },
-    "examples": ["Komm, wir fahren zum See."],
+    "examples": [
+      "Komm, wir fahren zum See."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Seen"
@@ -14443,7 +15805,11 @@ const WORDS_DE_A1 = [
     "lemma": "sehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "perception", "basic"],
+    "tags": [
+      "exam",
+      "perception",
+      "basic"
+    ],
     "meanings": {
       "de": "sehen",
       "ko": "보다",
@@ -14456,7 +15822,9 @@ const WORDS_DE_A1 = [
       "zh": "看",
       "ru": "видеть"
     },
-    "examples": ["Ich sehe dich."],
+    "examples": [
+      "Ich sehe dich."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich sehe",
@@ -14472,7 +15840,11 @@ const WORDS_DE_A1 = [
     "lemma": "Sehenswürdigkeit",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "culture"],
+    "tags": [
+      "exam",
+      "travel",
+      "culture"
+    ],
     "meanings": {
       "de": "Sehenswürdigkeit",
       "ko": "명소",
@@ -14485,7 +15857,9 @@ const WORDS_DE_A1 = [
       "zh": "名胜",
       "ru": "достопримечательность"
     },
-    "examples": ["Welche Sehenswürdigkeiten gibt es in Berlin?"],
+    "examples": [
+      "Welche Sehenswürdigkeiten gibt es in Berlin?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Sehenswürdigkeiten"
@@ -14495,7 +15869,11 @@ const WORDS_DE_A1 = [
     "lemma": "sehr",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "degree"],
+    "tags": [
+      "exam",
+      "basic",
+      "degree"
+    ],
     "meanings": {
       "de": "sehr",
       "ko": "매우",
@@ -14508,7 +15886,9 @@ const WORDS_DE_A1 = [
       "zh": "很",
       "ru": "очень"
     },
-    "examples": ["Danke sehr!"],
+    "examples": [
+      "Danke sehr!"
+    ],
     "meta": {}
   },
   {
@@ -14516,7 +15896,11 @@ const WORDS_DE_A1 = [
     "lemma": "sein",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "grammar"],
+    "tags": [
+      "exam",
+      "basic",
+      "grammar"
+    ],
     "meanings": {
       "de": "sein",
       "ko": "이다, 있다",
@@ -14529,7 +15913,9 @@ const WORDS_DE_A1 = [
       "zh": "是",
       "ru": "быть"
     },
-    "examples": ["Ich bin Kellner."],
+    "examples": [
+      "Ich bin Kellner."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich bin",
@@ -14545,7 +15931,11 @@ const WORDS_DE_A1 = [
     "lemma": "sein",
     "pos": "Artikel",
     "cefr": "A1",
-    "tags": ["exam", "basic", "family"],
+    "tags": [
+      "exam",
+      "basic",
+      "family"
+    ],
     "meanings": {
       "de": "sein",
       "ko": "그의",
@@ -14558,7 +15948,9 @@ const WORDS_DE_A1 = [
       "zh": "他的",
       "ru": "его"
     },
-    "examples": ["Das ist sein Auto."],
+    "examples": [
+      "Das ist sein Auto."
+    ],
     "meta": {}
   },
   {
@@ -14566,7 +15958,11 @@ const WORDS_DE_A1 = [
     "lemma": "seit",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "seit",
       "ko": "~부터, ~이래로",
@@ -14579,7 +15975,9 @@ const WORDS_DE_A1 = [
       "zh": "自从",
       "ru": "с"
     },
-    "examples": ["Ich wohne seit drei Jahren in Köln."],
+    "examples": [
+      "Ich wohne seit drei Jahren in Köln."
+    ],
     "meta": {}
   },
   {
@@ -14587,7 +15985,11 @@ const WORDS_DE_A1 = [
     "lemma": "Seite",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "book"],
+    "tags": [
+      "exam",
+      "education",
+      "book"
+    ],
     "meanings": {
       "de": "Seite",
       "ko": "페이지, 쪽",
@@ -14600,7 +16002,9 @@ const WORDS_DE_A1 = [
       "zh": "页",
       "ru": "страница"
     },
-    "examples": ["Öffnen Sie das Buch auf Seite 12."],
+    "examples": [
+      "Öffnen Sie das Buch auf Seite 12."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Seiten"
@@ -14610,7 +16014,10 @@ const WORDS_DE_A1 = [
     "lemma": "selbst",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "selbst",
       "ko": "자신, 스스로",
@@ -14623,7 +16030,9 @@ const WORDS_DE_A1 = [
       "zh": "自己",
       "ru": "сам"
     },
-    "examples": ["Du musst das selbst machen."],
+    "examples": [
+      "Du musst das selbst machen."
+    ],
     "meta": {}
   },
   {
@@ -14631,7 +16040,11 @@ const WORDS_DE_A1 = [
     "lemma": "Service",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "service", "restaurant"],
+    "tags": [
+      "exam",
+      "service",
+      "restaurant"
+    ],
     "meanings": {
       "de": "Service",
       "ko": "서비스",
@@ -14644,7 +16057,9 @@ const WORDS_DE_A1 = [
       "zh": "服务",
       "ru": "обслуживание"
     },
-    "examples": ["Der Service war gut."],
+    "examples": [
+      "Der Service war gut."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Services"
@@ -14654,7 +16069,11 @@ const WORDS_DE_A1 = [
     "lemma": "setzen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "action", "daily"],
+    "tags": [
+      "exam",
+      "action",
+      "daily"
+    ],
     "meanings": {
       "de": "setzen",
       "ko": "앉히다, 놓다",
@@ -14667,7 +16086,9 @@ const WORDS_DE_A1 = [
       "zh": "放, 坐",
       "ru": "сажать"
     },
-    "examples": ["Setzen Sie sich doch!"],
+    "examples": [
+      "Setzen Sie sich doch!"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich setze",
@@ -14683,7 +16104,11 @@ const WORDS_DE_A1 = [
     "lemma": "sicher",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "opinion", "basic"],
+    "tags": [
+      "exam",
+      "opinion",
+      "basic"
+    ],
     "meanings": {
       "de": "sicher",
       "ko": "확실한, 안전한",
@@ -14696,7 +16121,9 @@ const WORDS_DE_A1 = [
       "zh": "确定, 安全",
       "ru": "уверенный, безопасный"
     },
-    "examples": ["Ich bin ganz sicher."],
+    "examples": [
+      "Ich bin ganz sicher."
+    ],
     "meta": {}
   },
   {
@@ -14704,7 +16131,10 @@ const WORDS_DE_A1 = [
     "lemma": "sie",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "sie",
       "ko": "그녀",
@@ -14717,49 +16147,9 @@ const WORDS_DE_A1 = [
       "zh": "她",
       "ru": "она"
     },
-    "examples": ["Das ist Laura. Sie kommt aus Italien."],
-    "meta": {}
-  },
-  {
-    "id": "sie_pron_2",
-    "lemma": "sie",
-    "pos": "Pronomen",
-    "cefr": "A1",
-    "tags": ["exam", "basic"],
-    "meanings": {
-      "de": "sie",
-      "ko": "그들",
-      "en": "they",
-      "es": "ellos/ellas",
-      "fr": "ils/elles",
-      "it": "loro",
-      "pt": "eles/elas",
-      "ja": "彼ら",
-      "zh": "他们",
-      "ru": "они"
-    },
-    "examples": ["Die Kinder spielen. Sie sind laut."],
-    "meta": {}
-  },
-  {
-    "id": "sie_pron_3",
-    "lemma": "Sie",
-    "pos": "Pronomen",
-    "cefr": "A1",
-    "tags": ["exam", "basic", "formal"],
-    "meanings": {
-      "de": "Sie",
-      "ko": "당신",
-      "en": "you",
-      "es": "usted/ustedes",
-      "fr": "vous",
-      "it": "Lei",
-      "pt": "o senhor/a senhora",
-      "ja": "あなた",
-      "zh": "您",
-      "ru": "Вы"
-    },
-    "examples": ["Wie heißen Sie, bitte?"],
+    "examples": [
+      "Das ist Laura. Sie kommt aus Italien."
+    ],
     "meta": {}
   },
   {
@@ -14767,7 +16157,11 @@ const WORDS_DE_A1 = [
     "lemma": "singen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "music"],
+    "tags": [
+      "exam",
+      "leisure",
+      "music"
+    ],
     "meanings": {
       "de": "singen",
       "ko": "노래하다",
@@ -14780,7 +16174,9 @@ const WORDS_DE_A1 = [
       "zh": "唱歌",
       "ru": "петь"
     },
-    "examples": ["Wir singen ein Lied."],
+    "examples": [
+      "Wir singen ein Lied."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich singe",
@@ -14796,7 +16192,10 @@ const WORDS_DE_A1 = [
     "lemma": "Situation",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Situation",
       "ko": "상황",
@@ -14809,7 +16208,9 @@ const WORDS_DE_A1 = [
       "zh": "情况",
       "ru": "ситуация"
     },
-    "examples": ["Das ist eine schwierige Situation."],
+    "examples": [
+      "Das ist eine schwierige Situation."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Situationen"
@@ -14819,7 +16220,11 @@ const WORDS_DE_A1 = [
     "lemma": "sitzen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "body"],
+    "tags": [
+      "exam",
+      "basic",
+      "body"
+    ],
     "meanings": {
       "de": "sitzen",
       "ko": "앉아 있다",
@@ -14832,7 +16237,9 @@ const WORDS_DE_A1 = [
       "zh": "坐",
       "ru": "сидеть"
     },
-    "examples": ["Wo sitzen Sie?"],
+    "examples": [
+      "Wo sitzen Sie?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich sitze",
@@ -14848,7 +16255,10 @@ const WORDS_DE_A1 = [
     "lemma": "so",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "so",
       "ko": "그렇게",
@@ -14861,7 +16271,9 @@ const WORDS_DE_A1 = [
       "zh": "这样",
       "ru": "так"
     },
-    "examples": ["Fahren Sie bitte nicht so schnell!"],
+    "examples": [
+      "Fahren Sie bitte nicht so schnell!"
+    ],
     "meta": {}
   },
   {
@@ -14869,7 +16281,11 @@ const WORDS_DE_A1 = [
     "lemma": "Sofa",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "furniture"],
+    "tags": [
+      "exam",
+      "housing",
+      "furniture"
+    ],
     "meanings": {
       "de": "Sofa",
       "ko": "소파",
@@ -14882,7 +16298,9 @@ const WORDS_DE_A1 = [
       "zh": "沙发",
       "ru": "диван"
     },
-    "examples": ["Das Sofa ist neu."],
+    "examples": [
+      "Das Sofa ist neu."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Sofas"
@@ -14892,7 +16310,11 @@ const WORDS_DE_A1 = [
     "lemma": "sofort",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "sofort",
       "ko": "즉시",
@@ -14905,7 +16327,9 @@ const WORDS_DE_A1 = [
       "zh": "立即",
       "ru": "немедленно"
     },
-    "examples": ["Bitte kommen Sie sofort."],
+    "examples": [
+      "Bitte kommen Sie sofort."
+    ],
     "meta": {}
   },
   {
@@ -14913,7 +16337,10 @@ const WORDS_DE_A1 = [
     "lemma": "Sohn",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Sohn",
       "ko": "아들",
@@ -14926,7 +16353,9 @@ const WORDS_DE_A1 = [
       "zh": "儿子",
       "ru": "сын"
     },
-    "examples": ["Das ist mein Sohn."],
+    "examples": [
+      "Das ist mein Sohn."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Söhne"
@@ -14936,7 +16365,11 @@ const WORDS_DE_A1 = [
     "lemma": "sollen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "obligation"],
+    "tags": [
+      "exam",
+      "basic",
+      "obligation"
+    ],
     "meanings": {
       "de": "sollen",
       "ko": "해야 하다",
@@ -14949,7 +16382,9 @@ const WORDS_DE_A1 = [
       "zh": "应该",
       "ru": "быть должным"
     },
-    "examples": ["Soll ich das Fenster öffnen?"],
+    "examples": [
+      "Soll ich das Fenster öffnen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich soll",
@@ -14965,7 +16400,11 @@ const WORDS_DE_A1 = [
     "lemma": "Sonne",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "weather", "nature"],
+    "tags": [
+      "exam",
+      "weather",
+      "nature"
+    ],
     "meanings": {
       "de": "Sonne",
       "ko": "태양",
@@ -14978,7 +16417,9 @@ const WORDS_DE_A1 = [
       "zh": "太阳",
       "ru": "солнце"
     },
-    "examples": ["Die Sonne scheint."],
+    "examples": [
+      "Die Sonne scheint."
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -14988,7 +16429,10 @@ const WORDS_DE_A1 = [
     "lemma": "spät",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "spät",
       "ko": "늦은",
@@ -15001,7 +16445,9 @@ const WORDS_DE_A1 = [
       "zh": "晚",
       "ru": "поздно"
     },
-    "examples": ["Es ist schon spät."],
+    "examples": [
+      "Es ist schon spät."
+    ],
     "meta": {}
   },
   {
@@ -15009,7 +16455,10 @@ const WORDS_DE_A1 = [
     "lemma": "später",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "später",
       "ko": "나중에",
@@ -15022,7 +16471,9 @@ const WORDS_DE_A1 = [
       "zh": "以后",
       "ru": "позже"
     },
-    "examples": ["Das machen wir später."],
+    "examples": [
+      "Das machen wir später."
+    ],
     "meta": {}
   },
   {
@@ -15030,7 +16481,11 @@ const WORDS_DE_A1 = [
     "lemma": "Spaß",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "leisure"],
+    "tags": [
+      "exam",
+      "feeling",
+      "leisure"
+    ],
     "meanings": {
       "de": "Spaß",
       "ko": "재미",
@@ -15043,7 +16498,9 @@ const WORDS_DE_A1 = [
       "zh": "乐趣",
       "ru": "удовольствие"
     },
-    "examples": ["Das macht Spaß."],
+    "examples": [
+      "Das macht Spaß."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -15053,7 +16510,11 @@ const WORDS_DE_A1 = [
     "lemma": "spazieren gehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "movement"],
+    "tags": [
+      "exam",
+      "leisure",
+      "movement"
+    ],
     "meanings": {
       "de": "spazieren gehen",
       "ko": "산책하다",
@@ -15066,7 +16527,9 @@ const WORDS_DE_A1 = [
       "zh": "散步",
       "ru": "гулять"
     },
-    "examples": ["Wir gehen sonntags oft spazieren."],
+    "examples": [
+      "Wir gehen sonntags oft spazieren."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich gehe spazieren",
@@ -15082,7 +16545,11 @@ const WORDS_DE_A1 = [
     "lemma": "Speisekarte",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "restaurant", "food"],
+    "tags": [
+      "exam",
+      "restaurant",
+      "food"
+    ],
     "meanings": {
       "de": "Speisekarte",
       "ko": "메뉴판",
@@ -15095,7 +16562,9 @@ const WORDS_DE_A1 = [
       "zh": "菜单",
       "ru": "меню"
     },
-    "examples": ["Bringen Sie mir bitte die Speisekarte."],
+    "examples": [
+      "Bringen Sie mir bitte die Speisekarte."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Speisekarten"
@@ -15105,7 +16574,11 @@ const WORDS_DE_A1 = [
     "lemma": "spielen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "sport"],
+    "tags": [
+      "exam",
+      "leisure",
+      "sport"
+    ],
     "meanings": {
       "de": "spielen",
       "ko": "놀다, 경기하다",
@@ -15118,7 +16591,9 @@ const WORDS_DE_A1 = [
       "zh": "玩",
       "ru": "играть"
     },
-    "examples": ["Die Kinder spielen draußen."],
+    "examples": [
+      "Die Kinder spielen draußen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich spiele",
@@ -15134,7 +16609,11 @@ const WORDS_DE_A1 = [
     "lemma": "Sport",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "sport"],
+    "tags": [
+      "exam",
+      "leisure",
+      "sport"
+    ],
     "meanings": {
       "de": "Sport",
       "ko": "스포츠",
@@ -15147,7 +16626,9 @@ const WORDS_DE_A1 = [
       "zh": "运动",
       "ru": "спорт"
     },
-    "examples": ["Ich mache viel Sport."],
+    "examples": [
+      "Ich mache viel Sport."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -15157,7 +16638,11 @@ const WORDS_DE_A1 = [
     "lemma": "Sprache",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "communication"],
+    "tags": [
+      "exam",
+      "education",
+      "communication"
+    ],
     "meanings": {
       "de": "Sprache",
       "ko": "언어",
@@ -15170,7 +16655,9 @@ const WORDS_DE_A1 = [
       "zh": "语言",
       "ru": "язык"
     },
-    "examples": ["Welche Sprachen sprechen Sie?"],
+    "examples": [
+      "Welche Sprachen sprechen Sie?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Sprachen"
@@ -15180,7 +16667,10 @@ const WORDS_DE_A1 = [
     "lemma": "sprechen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication"],
+    "tags": [
+      "exam",
+      "communication"
+    ],
     "meanings": {
       "de": "sprechen",
       "ko": "말하다",
@@ -15193,7 +16683,9 @@ const WORDS_DE_A1 = [
       "zh": "说",
       "ru": "говорить"
     },
-    "examples": ["Kann ich Herrn Klein sprechen?"],
+    "examples": [
+      "Kann ich Herrn Klein sprechen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich spreche",
@@ -15209,7 +16701,11 @@ const WORDS_DE_A1 = [
     "lemma": "Stadt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "location", "city"],
+    "tags": [
+      "exam",
+      "location",
+      "city"
+    ],
     "meanings": {
       "de": "Stadt",
       "ko": "도시",
@@ -15222,7 +16718,9 @@ const WORDS_DE_A1 = [
       "zh": "城市",
       "ru": "город"
     },
-    "examples": ["Heidelberg ist eine alte Stadt."],
+    "examples": [
+      "Heidelberg ist eine alte Stadt."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Städte"
@@ -15232,7 +16730,11 @@ const WORDS_DE_A1 = [
     "lemma": "Stadtplan",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "city"],
+    "tags": [
+      "exam",
+      "travel",
+      "city"
+    ],
     "meanings": {
       "de": "Stadtplan",
       "ko": "시내 지도",
@@ -15245,7 +16747,9 @@ const WORDS_DE_A1 = [
       "zh": "城市地图",
       "ru": "план города"
     },
-    "examples": ["Haben Sie einen Stadtplan von München?"],
+    "examples": [
+      "Haben Sie einen Stadtplan von München?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Stadtpläne"
@@ -15255,7 +16759,11 @@ const WORDS_DE_A1 = [
     "lemma": "Standesamt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "official", "family"],
+    "tags": [
+      "exam",
+      "official",
+      "family"
+    ],
     "meanings": {
       "de": "Standesamt",
       "ko": "호적 등기소",
@@ -15268,7 +16776,9 @@ const WORDS_DE_A1 = [
       "zh": "户籍登记处",
       "ru": "ЗАГС"
     },
-    "examples": ["Wir heiraten auf dem Standesamt."],
+    "examples": [
+      "Wir heiraten auf dem Standesamt."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Standesämter"
@@ -15278,7 +16788,10 @@ const WORDS_DE_A1 = [
     "lemma": "stark",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description"],
+    "tags": [
+      "exam",
+      "description"
+    ],
     "meanings": {
       "de": "stark",
       "ko": "강한",
@@ -15291,7 +16804,9 @@ const WORDS_DE_A1 = [
       "zh": "强",
       "ru": "сильный"
     },
-    "examples": ["Der Kaffee ist sehr stark."],
+    "examples": [
+      "Der Kaffee ist sehr stark."
+    ],
     "meta": {}
   },
   {
@@ -15299,7 +16814,11 @@ const WORDS_DE_A1 = [
     "lemma": "stehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "location", "position"],
+    "tags": [
+      "exam",
+      "location",
+      "position"
+    ],
     "meanings": {
       "de": "stehen",
       "ko": "서 있다",
@@ -15312,7 +16831,9 @@ const WORDS_DE_A1 = [
       "zh": "站立",
       "ru": "стоять"
     },
-    "examples": ["Der Bus steht an der Haltestelle."],
+    "examples": [
+      "Der Bus steht an der Haltestelle."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich stehe",
@@ -15328,7 +16849,11 @@ const WORDS_DE_A1 = [
     "lemma": "Stelle",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "location"],
+    "tags": [
+      "exam",
+      "work",
+      "location"
+    ],
     "meanings": {
       "de": "Stelle",
       "ko": "일자리, 장소",
@@ -15341,7 +16866,9 @@ const WORDS_DE_A1 = [
       "zh": "职位",
       "ru": "место"
     },
-    "examples": ["Ich habe eine neue Stelle."],
+    "examples": [
+      "Ich habe eine neue Stelle."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Stellen"
@@ -15351,7 +16878,11 @@ const WORDS_DE_A1 = [
     "lemma": "stellen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "action", "position"],
+    "tags": [
+      "exam",
+      "action",
+      "position"
+    ],
     "meanings": {
       "de": "stellen",
       "ko": "세워 놓다",
@@ -15364,7 +16895,9 @@ const WORDS_DE_A1 = [
       "zh": "放置",
       "ru": "ставить"
     },
-    "examples": ["Stell die Tasche bitte dorthin."],
+    "examples": [
+      "Stell die Tasche bitte dorthin."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich stelle",
@@ -15380,7 +16913,10 @@ const WORDS_DE_A1 = [
     "lemma": "stimmen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "stimmen",
       "ko": "맞다",
@@ -15393,7 +16929,9 @@ const WORDS_DE_A1 = [
       "zh": "对",
       "ru": "быть верным"
     },
-    "examples": ["Das stimmt."],
+    "examples": [
+      "Das stimmt."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich stimme",
@@ -15409,7 +16947,11 @@ const WORDS_DE_A1 = [
     "lemma": "Stock",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "location"],
+    "tags": [
+      "exam",
+      "housing",
+      "location"
+    ],
     "meanings": {
       "de": "Stock",
       "ko": "층",
@@ -15422,7 +16964,9 @@ const WORDS_DE_A1 = [
       "zh": "楼层",
       "ru": "этаж"
     },
-    "examples": ["Unsere Wohnung liegt im ersten Stock."],
+    "examples": [
+      "Unsere Wohnung liegt im ersten Stock."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Stockwerke"
@@ -15432,7 +16976,11 @@ const WORDS_DE_A1 = [
     "lemma": "stören",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "social"],
+    "tags": [
+      "exam",
+      "communication",
+      "social"
+    ],
     "meanings": {
       "de": "stören",
       "ko": "방해하다",
@@ -15445,7 +16993,9 @@ const WORDS_DE_A1 = [
       "zh": "打扰",
       "ru": "мешать"
     },
-    "examples": ["Störe ich?"],
+    "examples": [
+      "Störe ich?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich störe",
@@ -15461,7 +17011,11 @@ const WORDS_DE_A1 = [
     "lemma": "Straße",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "city", "location"],
+    "tags": [
+      "exam",
+      "city",
+      "location"
+    ],
     "meanings": {
       "de": "Straße",
       "ko": "거리",
@@ -15474,7 +17028,9 @@ const WORDS_DE_A1 = [
       "zh": "街道",
       "ru": "улица"
     },
-    "examples": ["In welcher Straße wohnen Sie?"],
+    "examples": [
+      "In welcher Straße wohnen Sie?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Straßen"
@@ -15484,7 +17040,11 @@ const WORDS_DE_A1 = [
     "lemma": "Straßenbahn",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport", "city"],
+    "tags": [
+      "exam",
+      "transport",
+      "city"
+    ],
     "meanings": {
       "de": "Straßenbahn",
       "ko": "전차",
@@ -15497,7 +17057,9 @@ const WORDS_DE_A1 = [
       "zh": "有轨电车",
       "ru": "трамвай"
     },
-    "examples": ["Wir fahren mit der Straßenbahn."],
+    "examples": [
+      "Wir fahren mit der Straßenbahn."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Straßenbahnen"
@@ -15507,7 +17069,11 @@ const WORDS_DE_A1 = [
     "lemma": "Stück",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "quantity", "food"],
+    "tags": [
+      "exam",
+      "quantity",
+      "food"
+    ],
     "meanings": {
       "de": "Stück",
       "ko": "조각",
@@ -15520,7 +17086,9 @@ const WORDS_DE_A1 = [
       "zh": "块",
       "ru": "кусок"
     },
-    "examples": ["Möchten Sie noch ein Stück Kuchen?"],
+    "examples": [
+      "Möchten Sie noch ein Stück Kuchen?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Stücke"
@@ -15530,7 +17098,11 @@ const WORDS_DE_A1 = [
     "lemma": "Student",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "people"],
+    "tags": [
+      "exam",
+      "education",
+      "people"
+    ],
     "meanings": {
       "de": "Student",
       "ko": "대학생 (남)",
@@ -15543,7 +17115,9 @@ const WORDS_DE_A1 = [
       "zh": "大学生",
       "ru": "студент"
     },
-    "examples": ["Ich bin Student."],
+    "examples": [
+      "Ich bin Student."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Studenten"
@@ -15553,7 +17127,11 @@ const WORDS_DE_A1 = [
     "lemma": "Studentin",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "people"],
+    "tags": [
+      "exam",
+      "education",
+      "people"
+    ],
     "meanings": {
       "de": "Studentin",
       "ko": "대학생 (여)",
@@ -15566,7 +17144,9 @@ const WORDS_DE_A1 = [
       "zh": "女大学生",
       "ru": "студентка"
     },
-    "examples": ["Sie ist Studentin."],
+    "examples": [
+      "Sie ist Studentin."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Studentinnen"
@@ -15576,7 +17156,10 @@ const WORDS_DE_A1 = [
     "lemma": "studieren",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "education"],
+    "tags": [
+      "exam",
+      "education"
+    ],
     "meanings": {
       "de": "studieren",
       "ko": "대학에 다니다, 전공하다",
@@ -15589,7 +17172,9 @@ const WORDS_DE_A1 = [
       "zh": "上大学",
       "ru": "учиться (в вузе)"
     },
-    "examples": ["Ich studiere in Mainz."],
+    "examples": [
+      "Ich studiere in Mainz."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich studiere",
@@ -15605,7 +17190,10 @@ const WORDS_DE_A1 = [
     "lemma": "Studium",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education"],
+    "tags": [
+      "exam",
+      "education"
+    ],
     "meanings": {
       "de": "Studium",
       "ko": "대학 학업",
@@ -15618,7 +17206,9 @@ const WORDS_DE_A1 = [
       "zh": "学业",
       "ru": "учеба"
     },
-    "examples": ["Das Studium dauert drei Jahre."],
+    "examples": [
+      "Das Studium dauert drei Jahre."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Studien"
@@ -15628,7 +17218,10 @@ const WORDS_DE_A1 = [
     "lemma": "Stuhl",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "furniture"],
+    "tags": [
+      "exam",
+      "furniture"
+    ],
     "meanings": {
       "de": "Stuhl",
       "ko": "의자",
@@ -15641,7 +17234,9 @@ const WORDS_DE_A1 = [
       "zh": "椅子",
       "ru": "стул"
     },
-    "examples": ["Ist der Stuhl frei?"],
+    "examples": [
+      "Ist der Stuhl frei?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Stühle"
@@ -15651,7 +17246,11 @@ const WORDS_DE_A1 = [
     "lemma": "suchen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "basic"],
+    "tags": [
+      "exam",
+      "daily",
+      "basic"
+    ],
     "meanings": {
       "de": "suchen",
       "ko": "찾다",
@@ -15664,7 +17263,9 @@ const WORDS_DE_A1 = [
       "zh": "寻找",
       "ru": "искать"
     },
-    "examples": ["Ich suche meine Brille."],
+    "examples": [
+      "Ich suche meine Brille."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich suche",
@@ -15680,7 +17281,11 @@ const WORDS_DE_A1 = [
     "lemma": "Supermarkt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "city"],
+    "tags": [
+      "exam",
+      "shopping",
+      "city"
+    ],
     "meanings": {
       "de": "Supermarkt",
       "ko": "슈퍼마켓",
@@ -15693,7 +17298,9 @@ const WORDS_DE_A1 = [
       "zh": "超市",
       "ru": "супермаркет"
     },
-    "examples": ["Im Supermarkt ist alles billiger."],
+    "examples": [
+      "Im Supermarkt ist alles billiger."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Supermärkte"
@@ -15703,7 +17310,10 @@ const WORDS_DE_A1 = [
     "lemma": "Suppe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Suppe",
       "ko": "수프",
@@ -15716,7 +17326,9 @@ const WORDS_DE_A1 = [
       "zh": "汤",
       "ru": "суп"
     },
-    "examples": ["Schmeckt dir die Suppe?"],
+    "examples": [
+      "Schmeckt dir die Suppe?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Suppen"
@@ -15726,7 +17338,11 @@ const WORDS_DE_A1 = [
     "lemma": "Tag",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "Tag",
       "ko": "날, 낮",
@@ -15739,7 +17355,9 @@ const WORDS_DE_A1 = [
       "zh": "天",
       "ru": "день"
     },
-    "examples": ["Guten Tag!"],
+    "examples": [
+      "Guten Tag!"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Tage"
@@ -15749,7 +17367,11 @@ const WORDS_DE_A1 = [
     "lemma": "tanken",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "transport", "travel"],
+    "tags": [
+      "exam",
+      "transport",
+      "travel"
+    ],
     "meanings": {
       "de": "tanken",
       "ko": "주유하다",
@@ -15762,7 +17384,9 @@ const WORDS_DE_A1 = [
       "zh": "加油",
       "ru": "заправляться"
     },
-    "examples": ["Ich muss tanken."],
+    "examples": [
+      "Ich muss tanken."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich tanke",
@@ -15778,7 +17402,10 @@ const WORDS_DE_A1 = [
     "lemma": "Tante",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Tante",
       "ko": "이모, 고모",
@@ -15791,7 +17418,9 @@ const WORDS_DE_A1 = [
       "zh": "阿姨",
       "ru": "тетя"
     },
-    "examples": ["Meine Tante wohnt in Berlin."],
+    "examples": [
+      "Meine Tante wohnt in Berlin."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Tanten"
@@ -15801,7 +17430,11 @@ const WORDS_DE_A1 = [
     "lemma": "tanzen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "hobby"],
+    "tags": [
+      "exam",
+      "leisure",
+      "hobby"
+    ],
     "meanings": {
       "de": "tanzen",
       "ko": "춤추다",
@@ -15814,7 +17447,9 @@ const WORDS_DE_A1 = [
       "zh": "跳舞",
       "ru": "танцевать"
     },
-    "examples": ["Tanzen Sie gern?"],
+    "examples": [
+      "Tanzen Sie gern?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich tanze",
@@ -15830,7 +17465,11 @@ const WORDS_DE_A1 = [
     "lemma": "Tasche",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "accessories"],
+    "tags": [
+      "exam",
+      "daily",
+      "accessories"
+    ],
     "meanings": {
       "de": "Tasche",
       "ko": "가방, 주머니",
@@ -15843,7 +17482,9 @@ const WORDS_DE_A1 = [
       "zh": "包",
       "ru": "сумка, карман"
     },
-    "examples": ["Ich habe die Schlüssel in der Tasche."],
+    "examples": [
+      "Ich habe die Schlüssel in der Tasche."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Taschen"
@@ -15853,7 +17494,11 @@ const WORDS_DE_A1 = [
     "lemma": "Taxi",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport", "city"],
+    "tags": [
+      "exam",
+      "transport",
+      "city"
+    ],
     "meanings": {
       "de": "Taxi",
       "ko": "택시",
@@ -15866,7 +17511,9 @@ const WORDS_DE_A1 = [
       "zh": "出租车",
       "ru": "такси"
     },
-    "examples": ["Bitte rufen Sie mir ein Taxi."],
+    "examples": [
+      "Bitte rufen Sie mir ein Taxi."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Taxis"
@@ -15876,7 +17523,10 @@ const WORDS_DE_A1 = [
     "lemma": "Tee",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "drink"],
+    "tags": [
+      "exam",
+      "drink"
+    ],
     "meanings": {
       "de": "Tee",
       "ko": "차",
@@ -15889,7 +17539,9 @@ const WORDS_DE_A1 = [
       "zh": "茶",
       "ru": "чай"
     },
-    "examples": ["Ich trinke morgens immer Tee."],
+    "examples": [
+      "Ich trinke morgens immer Tee."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Tees"
@@ -15899,7 +17551,10 @@ const WORDS_DE_A1 = [
     "lemma": "Teil",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "Teil",
       "ko": "부분",
@@ -15912,7 +17567,9 @@ const WORDS_DE_A1 = [
       "zh": "部分",
       "ru": "часть"
     },
-    "examples": ["Lies bitte auch den zweiten Teil."],
+    "examples": [
+      "Lies bitte auch den zweiten Teil."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Teile"
@@ -15922,7 +17579,10 @@ const WORDS_DE_A1 = [
     "lemma": "telefonieren",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication"],
+    "tags": [
+      "exam",
+      "communication"
+    ],
     "meanings": {
       "de": "telefonieren",
       "ko": "전화하다",
@@ -15935,7 +17595,9 @@ const WORDS_DE_A1 = [
       "zh": "打电话",
       "ru": "звонить по телефону"
     },
-    "examples": ["Darf ich mal telefonieren?"],
+    "examples": [
+      "Darf ich mal telefonieren?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich telefoniere",
@@ -15951,7 +17613,11 @@ const WORDS_DE_A1 = [
     "lemma": "Telefon",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "communication", "technology"],
+    "tags": [
+      "exam",
+      "communication",
+      "technology"
+    ],
     "meanings": {
       "de": "Telefon",
       "ko": "전화기",
@@ -15964,7 +17630,9 @@ const WORDS_DE_A1 = [
       "zh": "电话",
       "ru": "телефон"
     },
-    "examples": ["Haben Sie Telefon?"],
+    "examples": [
+      "Haben Sie Telefon?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Telefone"
@@ -15974,7 +17642,11 @@ const WORDS_DE_A1 = [
     "lemma": "Termin",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "work"],
+    "tags": [
+      "exam",
+      "time",
+      "work"
+    ],
     "meanings": {
       "de": "Termin",
       "ko": "약속, 일정",
@@ -15987,7 +17659,9 @@ const WORDS_DE_A1 = [
       "zh": "预约",
       "ru": "встреча"
     },
-    "examples": ["Ich habe heute einen Termin bei meiner Ärztin."],
+    "examples": [
+      "Ich habe heute einen Termin bei meiner Ärztin."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Termine"
@@ -15997,7 +17671,11 @@ const WORDS_DE_A1 = [
     "lemma": "teuer",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "money"],
+    "tags": [
+      "exam",
+      "shopping",
+      "money"
+    ],
     "meanings": {
       "de": "teuer",
       "ko": "비싼",
@@ -16010,7 +17688,9 @@ const WORDS_DE_A1 = [
       "zh": "贵",
       "ru": "дорогой"
     },
-    "examples": ["Das ist mir zu teuer."],
+    "examples": [
+      "Das ist mir zu teuer."
+    ],
     "meta": {}
   },
   {
@@ -16018,7 +17698,11 @@ const WORDS_DE_A1 = [
     "lemma": "Text",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "media"],
+    "tags": [
+      "exam",
+      "education",
+      "media"
+    ],
     "meanings": {
       "de": "Text",
       "ko": "텍스트",
@@ -16031,7 +17715,9 @@ const WORDS_DE_A1 = [
       "zh": "课文",
       "ru": "текст"
     },
-    "examples": ["Lesen Sie den Text."],
+    "examples": [
+      "Lesen Sie den Text."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Texte"
@@ -16041,7 +17727,11 @@ const WORDS_DE_A1 = [
     "lemma": "Thema",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "communication"],
+    "tags": [
+      "exam",
+      "education",
+      "communication"
+    ],
     "meanings": {
       "de": "Thema",
       "ko": "주제",
@@ -16054,7 +17744,9 @@ const WORDS_DE_A1 = [
       "zh": "题目",
       "ru": "тема"
     },
-    "examples": ["Wir sprechen heute über das Thema Essen."],
+    "examples": [
+      "Wir sprechen heute über das Thema Essen."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Themen"
@@ -16064,7 +17756,11 @@ const WORDS_DE_A1 = [
     "lemma": "Ticket",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "transport"],
+    "tags": [
+      "exam",
+      "travel",
+      "transport"
+    ],
     "meanings": {
       "de": "Ticket",
       "ko": "표",
@@ -16077,7 +17773,9 @@ const WORDS_DE_A1 = [
       "zh": "票",
       "ru": "билет"
     },
-    "examples": ["Wie viel kostet das Ticket?"],
+    "examples": [
+      "Wie viel kostet das Ticket?"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Tickets"
@@ -16087,7 +17785,11 @@ const WORDS_DE_A1 = [
     "lemma": "Tisch",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "furniture", "housing"],
+    "tags": [
+      "exam",
+      "furniture",
+      "housing"
+    ],
     "meanings": {
       "de": "Tisch",
       "ko": "책상",
@@ -16100,7 +17802,9 @@ const WORDS_DE_A1 = [
       "zh": "桌子",
       "ru": "стол"
     },
-    "examples": ["Das Essen steht auf dem Tisch."],
+    "examples": [
+      "Das Essen steht auf dem Tisch."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Tische"
@@ -16110,7 +17814,10 @@ const WORDS_DE_A1 = [
     "lemma": "Tochter",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Tochter",
       "ko": "딸",
@@ -16123,7 +17830,9 @@ const WORDS_DE_A1 = [
       "zh": "女儿",
       "ru": "дочь"
     },
-    "examples": ["Das ist meine Tochter."],
+    "examples": [
+      "Das ist meine Tochter."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Töchter"
@@ -16133,7 +17842,11 @@ const WORDS_DE_A1 = [
     "lemma": "Toilette",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "public_place"],
+    "tags": [
+      "exam",
+      "housing",
+      "public_place"
+    ],
     "meanings": {
       "de": "Toilette",
       "ko": "화장실",
@@ -16146,7 +17859,9 @@ const WORDS_DE_A1 = [
       "zh": "厕所",
       "ru": "туалет"
     },
-    "examples": ["Wo ist die Toilette?"],
+    "examples": [
+      "Wo ist die Toilette?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Toiletten"
@@ -16156,7 +17871,10 @@ const WORDS_DE_A1 = [
     "lemma": "Tomate",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "food"],
+    "tags": [
+      "exam",
+      "food"
+    ],
     "meanings": {
       "de": "Tomate",
       "ko": "토마토",
@@ -16169,7 +17887,9 @@ const WORDS_DE_A1 = [
       "zh": "西红柿",
       "ru": "помидор"
     },
-    "examples": ["Die Tomate ist rot."],
+    "examples": [
+      "Die Tomate ist rot."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Tomaten"
@@ -16179,7 +17899,11 @@ const WORDS_DE_A1 = [
     "lemma": "tot",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "life", "status"],
+    "tags": [
+      "exam",
+      "life",
+      "status"
+    ],
     "meanings": {
       "de": "tot",
       "ko": "죽은",
@@ -16192,7 +17916,9 @@ const WORDS_DE_A1 = [
       "zh": "死",
       "ru": "мертвый"
     },
-    "examples": ["Sein Großvater ist schon lange tot."],
+    "examples": [
+      "Sein Großvater ist schon lange tot."
+    ],
     "meta": {}
   },
   {
@@ -16200,7 +17926,11 @@ const WORDS_DE_A1 = [
     "lemma": "total",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "degree", "basic"],
+    "tags": [
+      "exam",
+      "degree",
+      "basic"
+    ],
     "meanings": {
       "de": "total",
       "ko": "완전히",
@@ -16213,7 +17943,9 @@ const WORDS_DE_A1 = [
       "zh": "完全",
       "ru": "полный"
     },
-    "examples": ["Das ist total falsch."],
+    "examples": [
+      "Das ist total falsch."
+    ],
     "meta": {}
   },
   {
@@ -16221,7 +17953,11 @@ const WORDS_DE_A1 = [
     "lemma": "Treppe",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "building"],
+    "tags": [
+      "exam",
+      "housing",
+      "building"
+    ],
     "meanings": {
       "de": "Treppe",
       "ko": "계단",
@@ -16234,7 +17970,9 @@ const WORDS_DE_A1 = [
       "zh": "楼梯",
       "ru": "лестница"
     },
-    "examples": ["Die Treppe ist steil."],
+    "examples": [
+      "Die Treppe ist steil."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Treppen"
@@ -16244,7 +17982,11 @@ const WORDS_DE_A1 = [
     "lemma": "trinken",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "drink", "daily"],
+    "tags": [
+      "exam",
+      "drink",
+      "daily"
+    ],
     "meanings": {
       "de": "trinken",
       "ko": "마시다",
@@ -16257,7 +17999,9 @@ const WORDS_DE_A1 = [
       "zh": "喝",
       "ru": "пить"
     },
-    "examples": ["Möchtest du etwas trinken?"],
+    "examples": [
+      "Möchtest du etwas trinken?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich trinke",
@@ -16273,7 +18017,11 @@ const WORDS_DE_A1 = [
     "lemma": "Tschüss",
     "pos": "Interjektion",
     "cefr": "A1",
-    "tags": ["exam", "communication", "greeting"],
+    "tags": [
+      "exam",
+      "communication",
+      "greeting"
+    ],
     "meanings": {
       "de": "Tschüss",
       "ko": "안녕히 가세요",
@@ -16286,7 +18034,9 @@ const WORDS_DE_A1 = [
       "zh": "再见",
       "ru": "пока"
     },
-    "examples": ["Tschüss, bis morgen!"],
+    "examples": [
+      "Tschüss, bis morgen!"
+    ],
     "meta": {}
   },
   {
@@ -16294,7 +18044,11 @@ const WORDS_DE_A1 = [
     "lemma": "tun",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "activity"],
+    "tags": [
+      "exam",
+      "basic",
+      "activity"
+    ],
     "meanings": {
       "de": "tun",
       "ko": "하다",
@@ -16307,7 +18061,9 @@ const WORDS_DE_A1 = [
       "zh": "做",
       "ru": "делать"
     },
-    "examples": ["Ich habe heute viel zu tun."],
+    "examples": [
+      "Ich habe heute viel zu tun."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich tue",
@@ -16323,7 +18079,11 @@ const WORDS_DE_A1 = [
     "lemma": "über",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "location", "topic"],
+    "tags": [
+      "exam",
+      "location",
+      "topic"
+    ],
     "meanings": {
       "de": "über",
       "ko": "위에",
@@ -16336,7 +18096,10 @@ const WORDS_DE_A1 = [
       "zh": "在上方",
       "ru": "над"
     },
-    "examples": ["Die Lampe hängt über dem Tisch.", "Wir sprechen über das Wetter."],
+    "examples": [
+      "Die Lampe hängt über dem Tisch.",
+      "Wir sprechen über das Wetter."
+    ],
     "meta": {}
   },
   {
@@ -16344,7 +18107,10 @@ const WORDS_DE_A1 = [
     "lemma": "überall",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location"],
+    "tags": [
+      "exam",
+      "location"
+    ],
     "meanings": {
       "de": "überall",
       "ko": "어디에나",
@@ -16357,7 +18123,9 @@ const WORDS_DE_A1 = [
       "zh": "到处",
       "ru": "везде"
     },
-    "examples": ["Ich habe überall gesucht."],
+    "examples": [
+      "Ich habe überall gesucht."
+    ],
     "meta": {}
   },
   {
@@ -16365,7 +18133,10 @@ const WORDS_DE_A1 = [
     "lemma": "übermorgen",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time"],
+    "tags": [
+      "exam",
+      "time"
+    ],
     "meanings": {
       "de": "übermorgen",
       "ko": "모레",
@@ -16378,7 +18149,9 @@ const WORDS_DE_A1 = [
       "zh": "后天",
       "ru": "послезавтра"
     },
-    "examples": ["Ich komme übermorgen."],
+    "examples": [
+      "Ich komme übermorgen."
+    ],
     "meta": {}
   },
   {
@@ -16386,7 +18159,11 @@ const WORDS_DE_A1 = [
     "lemma": "übernachten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "travel", "housing"],
+    "tags": [
+      "exam",
+      "travel",
+      "housing"
+    ],
     "meanings": {
       "de": "übernachten",
       "ko": "숙박하다",
@@ -16399,7 +18176,9 @@ const WORDS_DE_A1 = [
       "zh": "过夜",
       "ru": "ночевать"
     },
-    "examples": ["Wir haben im Hotel übernachtet."],
+    "examples": [
+      "Wir haben im Hotel übernachtet."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich übernachte",
@@ -16415,7 +18194,11 @@ const WORDS_DE_A1 = [
     "lemma": "Überweisung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "finance", "business"],
+    "tags": [
+      "exam",
+      "finance",
+      "business"
+    ],
     "meanings": {
       "de": "Überweisung",
       "ko": "이체",
@@ -16428,7 +18211,9 @@ const WORDS_DE_A1 = [
       "zh": "转账",
       "ru": "перевод"
     },
-    "examples": ["Sie können per Überweisung bezahlen."],
+    "examples": [
+      "Sie können per Überweisung bezahlen."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Überweisungen"
@@ -16438,7 +18223,11 @@ const WORDS_DE_A1 = [
     "lemma": "Uhr",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "object"],
+    "tags": [
+      "exam",
+      "time",
+      "object"
+    ],
     "meanings": {
       "de": "Uhr",
       "ko": "시계",
@@ -16451,7 +18240,10 @@ const WORDS_DE_A1 = [
       "zh": "钟",
       "ru": "часы"
     },
-    "examples": ["Meine Uhr ist kaputt.", "Es ist vier Uhr."],
+    "examples": [
+      "Meine Uhr ist kaputt.",
+      "Es ist vier Uhr."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Uhren"
@@ -16461,7 +18253,11 @@ const WORDS_DE_A1 = [
     "lemma": "um",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "time", "location"],
+    "tags": [
+      "exam",
+      "time",
+      "location"
+    ],
     "meanings": {
       "de": "um",
       "ko": "에, 주위에",
@@ -16474,7 +18270,10 @@ const WORDS_DE_A1 = [
       "zh": "在, 围绕",
       "ru": "в, вокруг"
     },
-    "examples": ["Der Zug kommt um 10 Uhr.", "Wir gehen um das Haus."],
+    "examples": [
+      "Der Zug kommt um 10 Uhr.",
+      "Wir gehen um das Haus."
+    ],
     "meta": {}
   },
   {
@@ -16482,7 +18281,11 @@ const WORDS_DE_A1 = [
     "lemma": "umsteigen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "transport", "travel"],
+    "tags": [
+      "exam",
+      "transport",
+      "travel"
+    ],
     "meanings": {
       "de": "umsteigen",
       "ko": "갈아타다",
@@ -16495,7 +18298,9 @@ const WORDS_DE_A1 = [
       "zh": "换乘",
       "ru": "делать пересадку"
     },
-    "examples": ["Sie müssen in München umsteigen."],
+    "examples": [
+      "Sie müssen in München umsteigen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich steige um",
@@ -16511,7 +18316,11 @@ const WORDS_DE_A1 = [
     "lemma": "umziehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "housing", "life"],
+    "tags": [
+      "exam",
+      "housing",
+      "life"
+    ],
     "meanings": {
       "de": "umziehen",
       "ko": "이사하다",
@@ -16524,7 +18333,9 @@ const WORDS_DE_A1 = [
       "zh": "搬家",
       "ru": "переезжать"
     },
-    "examples": ["Wir sind letzten Monat umgezogen."],
+    "examples": [
+      "Wir sind letzten Monat umgezogen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich ziehe um",
@@ -16540,7 +18351,10 @@ const WORDS_DE_A1 = [
     "lemma": "und",
     "pos": "Konjunktion",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "und",
       "ko": "그리고",
@@ -16553,7 +18367,9 @@ const WORDS_DE_A1 = [
       "zh": "和",
       "ru": "и"
     },
-    "examples": ["Ich habe einen Bruder und eine Schwester."],
+    "examples": [
+      "Ich habe einen Bruder und eine Schwester."
+    ],
     "meta": {}
   },
   {
@@ -16561,7 +18377,11 @@ const WORDS_DE_A1 = [
     "lemma": "Unterricht",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "education", "school"],
+    "tags": [
+      "exam",
+      "education",
+      "school"
+    ],
     "meanings": {
       "de": "Unterricht",
       "ko": "수업",
@@ -16574,7 +18394,9 @@ const WORDS_DE_A1 = [
       "zh": "课",
       "ru": "занятие"
     },
-    "examples": ["Der Unterricht beginnt um 8 Uhr."],
+    "examples": [
+      "Der Unterricht beginnt um 8 Uhr."
+    ],
     "meta": {},
     "gender": "der",
     "plural": ""
@@ -16584,7 +18406,11 @@ const WORDS_DE_A1 = [
     "lemma": "unterschreiben",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "official", "work"],
+    "tags": [
+      "exam",
+      "official",
+      "work"
+    ],
     "meanings": {
       "de": "unterschreiben",
       "ko": "서명하다",
@@ -16597,7 +18423,9 @@ const WORDS_DE_A1 = [
       "zh": "签名",
       "ru": "подписывать"
     },
-    "examples": ["Bitte unterschreiben Sie hier."],
+    "examples": [
+      "Bitte unterschreiben Sie hier."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich unterschreibe",
@@ -16613,7 +18441,11 @@ const WORDS_DE_A1 = [
     "lemma": "Unterschrift",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "official", "work"],
+    "tags": [
+      "exam",
+      "official",
+      "work"
+    ],
     "meanings": {
       "de": "Unterschrift",
       "ko": "서명",
@@ -16626,7 +18458,9 @@ const WORDS_DE_A1 = [
       "zh": "签名",
       "ru": "подпись"
     },
-    "examples": ["Hier fehlt noch Ihre Unterschrift."],
+    "examples": [
+      "Hier fehlt noch Ihre Unterschrift."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Unterschriften"
@@ -16636,7 +18470,11 @@ const WORDS_DE_A1 = [
     "lemma": "Untersuchung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "health", "medical"],
+    "tags": [
+      "exam",
+      "health",
+      "medical"
+    ],
     "meanings": {
       "de": "Untersuchung",
       "ko": "검사",
@@ -16649,7 +18487,9 @@ const WORDS_DE_A1 = [
       "zh": "检查",
       "ru": "обследование"
     },
-    "examples": ["Die Untersuchung dauert nur zehn Minuten."],
+    "examples": [
+      "Die Untersuchung dauert nur zehn Minuten."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Untersuchungen"
@@ -16659,7 +18499,11 @@ const WORDS_DE_A1 = [
     "lemma": "Urlaub",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "leisure", "travel"],
+    "tags": [
+      "exam",
+      "leisure",
+      "travel"
+    ],
     "meanings": {
       "de": "Urlaub",
       "ko": "휴가",
@@ -16672,7 +18516,9 @@ const WORDS_DE_A1 = [
       "zh": "休假",
       "ru": "отпуск"
     },
-    "examples": ["Ich habe drei Wochen Urlaub."],
+    "examples": [
+      "Ich habe drei Wochen Urlaub."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Urlaube"
@@ -16682,7 +18528,10 @@ const WORDS_DE_A1 = [
     "lemma": "Vater",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Vater",
       "ko": "아버지",
@@ -16695,7 +18544,9 @@ const WORDS_DE_A1 = [
       "zh": "父亲",
       "ru": "отец"
     },
-    "examples": ["Mein Vater ist Arzt."],
+    "examples": [
+      "Mein Vater ist Arzt."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Väter"
@@ -16705,7 +18556,11 @@ const WORDS_DE_A1 = [
     "lemma": "verboten",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "rules", "society"],
+    "tags": [
+      "exam",
+      "rules",
+      "society"
+    ],
     "meanings": {
       "de": "verboten",
       "ko": "금지된",
@@ -16718,7 +18573,9 @@ const WORDS_DE_A1 = [
       "zh": "禁止",
       "ru": "запрещено"
     },
-    "examples": ["Rauchen ist hier verboten."],
+    "examples": [
+      "Rauchen ist hier verboten."
+    ],
     "meta": {}
   },
   {
@@ -16726,7 +18583,11 @@ const WORDS_DE_A1 = [
     "lemma": "verdienen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "work", "money"],
+    "tags": [
+      "exam",
+      "work",
+      "money"
+    ],
     "meanings": {
       "de": "verdienen",
       "ko": "벌다",
@@ -16739,7 +18600,9 @@ const WORDS_DE_A1 = [
       "zh": "挣",
       "ru": "зарабатывать"
     },
-    "examples": ["Er verdient viel Geld."],
+    "examples": [
+      "Er verdient viel Geld."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich verdiene",
@@ -16755,7 +18618,11 @@ const WORDS_DE_A1 = [
     "lemma": "Verein",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "society", "leisure"],
+    "tags": [
+      "exam",
+      "society",
+      "leisure"
+    ],
     "meanings": {
       "de": "Verein",
       "ko": "클럽, 동호회",
@@ -16768,7 +18635,9 @@ const WORDS_DE_A1 = [
       "zh": "协会",
       "ru": "клуб"
     },
-    "examples": ["Ich bin im Sportverein."],
+    "examples": [
+      "Ich bin im Sportverein."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Vereine"
@@ -16778,7 +18647,11 @@ const WORDS_DE_A1 = [
     "lemma": "verheiratet",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "family", "personal_info"],
+    "tags": [
+      "exam",
+      "family",
+      "personal_info"
+    ],
     "meanings": {
       "de": "verheiratet",
       "ko": "기혼의",
@@ -16791,7 +18664,9 @@ const WORDS_DE_A1 = [
       "zh": "已婚",
       "ru": "женатый"
     },
-    "examples": ["Ich bin verheiratet."],
+    "examples": [
+      "Ich bin verheiratet."
+    ],
     "meta": {}
   },
   {
@@ -16799,7 +18674,11 @@ const WORDS_DE_A1 = [
     "lemma": "verkaufen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "business"],
+    "tags": [
+      "exam",
+      "shopping",
+      "business"
+    ],
     "meanings": {
       "de": "verkaufen",
       "ko": "팔다",
@@ -16812,7 +18691,9 @@ const WORDS_DE_A1 = [
       "zh": "卖",
       "ru": "продавать"
     },
-    "examples": ["Ich verkaufe mein Auto."],
+    "examples": [
+      "Ich verkaufe mein Auto."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich verkaufe",
@@ -16828,7 +18709,11 @@ const WORDS_DE_A1 = [
     "lemma": "Verkäufer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "work", "shopping"],
+    "tags": [
+      "exam",
+      "work",
+      "shopping"
+    ],
     "meanings": {
       "de": "Verkäufer",
       "ko": "판매원",
@@ -16841,7 +18726,9 @@ const WORDS_DE_A1 = [
       "zh": "售货员",
       "ru": "продавец"
     },
-    "examples": ["Der Verkäufer ist sehr nett."],
+    "examples": [
+      "Der Verkäufer ist sehr nett."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Verkäufer"
@@ -16851,7 +18738,11 @@ const WORDS_DE_A1 = [
     "lemma": "vermieten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "housing", "business"],
+    "tags": [
+      "exam",
+      "housing",
+      "business"
+    ],
     "meanings": {
       "de": "vermieten",
       "ko": "임대하다",
@@ -16864,7 +18755,9 @@ const WORDS_DE_A1 = [
       "zh": "出租",
       "ru": "сдавать в аренду"
     },
-    "examples": ["Wir vermieten ein Zimmer."],
+    "examples": [
+      "Wir vermieten ein Zimmer."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich vermiete",
@@ -16880,7 +18773,10 @@ const WORDS_DE_A1 = [
     "lemma": "Vermieter",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing"],
+    "tags": [
+      "exam",
+      "housing"
+    ],
     "meanings": {
       "de": "Vermieter",
       "ko": "집주인",
@@ -16893,7 +18789,9 @@ const WORDS_DE_A1 = [
       "zh": "房东",
       "ru": "арендодатель"
     },
-    "examples": ["Unser Vermieter ist sehr freundlich."],
+    "examples": [
+      "Unser Vermieter ist sehr freundlich."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Vermieter"
@@ -16903,7 +18801,11 @@ const WORDS_DE_A1 = [
     "lemma": "verstehen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "basic"],
+    "tags": [
+      "exam",
+      "communication",
+      "basic"
+    ],
     "meanings": {
       "de": "verstehen",
       "ko": "이해하다",
@@ -16916,7 +18818,9 @@ const WORDS_DE_A1 = [
       "zh": "懂",
       "ru": "понимать"
     },
-    "examples": ["Ich verstehe dich nicht."],
+    "examples": [
+      "Ich verstehe dich nicht."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich verstehe",
@@ -16932,7 +18836,10 @@ const WORDS_DE_A1 = [
     "lemma": "Verwandte",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "family"],
+    "tags": [
+      "exam",
+      "family"
+    ],
     "meanings": {
       "de": "Verwandte",
       "ko": "친척",
@@ -16945,7 +18852,9 @@ const WORDS_DE_A1 = [
       "zh": "亲戚",
       "ru": "родственник"
     },
-    "examples": ["Wir besuchen unsere Verwandten."],
+    "examples": [
+      "Wir besuchen unsere Verwandten."
+    ],
     "meta": {},
     "gender": "",
     "plural": "Verwandte"
@@ -16955,7 +18864,11 @@ const WORDS_DE_A1 = [
     "lemma": "viel",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "quantity", "basic"],
+    "tags": [
+      "exam",
+      "quantity",
+      "basic"
+    ],
     "meanings": {
       "de": "viel",
       "ko": "많은",
@@ -16968,7 +18881,9 @@ const WORDS_DE_A1 = [
       "zh": "多",
       "ru": "много"
     },
-    "examples": ["Ich habe viel Arbeit."],
+    "examples": [
+      "Ich habe viel Arbeit."
+    ],
     "meta": {}
   },
   {
@@ -16976,7 +18891,11 @@ const WORDS_DE_A1 = [
     "lemma": "vielleicht",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "probability"],
+    "tags": [
+      "exam",
+      "basic",
+      "probability"
+    ],
     "meanings": {
       "de": "vielleicht",
       "ko": "아마도",
@@ -16989,7 +18908,9 @@ const WORDS_DE_A1 = [
       "zh": "也许",
       "ru": "может быть"
     },
-    "examples": ["Vielleicht komme ich morgen."],
+    "examples": [
+      "Vielleicht komme ich morgen."
+    ],
     "meta": {}
   },
   {
@@ -16997,7 +18918,11 @@ const WORDS_DE_A1 = [
     "lemma": "von",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "basic", "origin"],
+    "tags": [
+      "exam",
+      "basic",
+      "origin"
+    ],
     "meanings": {
       "de": "von",
       "ko": "의, 로부터",
@@ -17010,7 +18935,9 @@ const WORDS_DE_A1 = [
       "zh": "从",
       "ru": "от, из"
     },
-    "examples": ["Das Auto von meinem Bruder."],
+    "examples": [
+      "Das Auto von meinem Bruder."
+    ],
     "meta": {}
   },
   {
@@ -17018,7 +18945,11 @@ const WORDS_DE_A1 = [
     "lemma": "vor",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "location", "time"],
+    "tags": [
+      "exam",
+      "location",
+      "time"
+    ],
     "meanings": {
       "de": "vor",
       "ko": "앞에, 전에",
@@ -17031,7 +18962,9 @@ const WORDS_DE_A1 = [
       "zh": "在前面, 在之前",
       "ru": "перед, до"
     },
-    "examples": ["Wir treffen uns vor dem Kino."],
+    "examples": [
+      "Wir treffen uns vor dem Kino."
+    ],
     "meta": {}
   },
   {
@@ -17039,7 +18972,10 @@ const WORDS_DE_A1 = [
     "lemma": "Vorname",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "personal_info"],
+    "tags": [
+      "exam",
+      "personal_info"
+    ],
     "meanings": {
       "de": "Vorname",
       "ko": "이름",
@@ -17052,7 +18988,9 @@ const WORDS_DE_A1 = [
       "zh": "名字",
       "ru": "имя"
     },
-    "examples": ["Mein Vorname ist Thomas."],
+    "examples": [
+      "Mein Vorname ist Thomas."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Vornamen"
@@ -17062,7 +19000,11 @@ const WORDS_DE_A1 = [
     "lemma": "Vorsicht",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "warning", "safety"],
+    "tags": [
+      "exam",
+      "warning",
+      "safety"
+    ],
     "meanings": {
       "de": "Vorsicht",
       "ko": "주의",
@@ -17075,7 +19017,9 @@ const WORDS_DE_A1 = [
       "zh": "小心",
       "ru": "осторожно"
     },
-    "examples": ["Vorsicht! Der Hund beißt."],
+    "examples": [
+      "Vorsicht! Der Hund beißt."
+    ],
     "meta": {},
     "gender": "die",
     "plural": ""
@@ -17085,7 +19029,11 @@ const WORDS_DE_A1 = [
     "lemma": "vorstellen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "social", "communication"],
+    "tags": [
+      "exam",
+      "social",
+      "communication"
+    ],
     "meanings": {
       "de": "vorstellen",
       "ko": "소개하다",
@@ -17098,7 +19046,9 @@ const WORDS_DE_A1 = [
       "zh": "介绍",
       "ru": "представлять"
     },
-    "examples": ["Darf ich Ihnen meine Frau vorstellen?"],
+    "examples": [
+      "Darf ich Ihnen meine Frau vorstellen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich stelle vor",
@@ -17114,7 +19064,11 @@ const WORDS_DE_A1 = [
     "lemma": "wann",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "question"],
+    "tags": [
+      "exam",
+      "time",
+      "question"
+    ],
     "meanings": {
       "de": "wann",
       "ko": "언제",
@@ -17127,7 +19081,9 @@ const WORDS_DE_A1 = [
       "zh": "什么时候",
       "ru": "когда"
     },
-    "examples": ["Wann kommst du?"],
+    "examples": [
+      "Wann kommst du?"
+    ],
     "meta": {}
   },
   {
@@ -17135,7 +19091,11 @@ const WORDS_DE_A1 = [
     "lemma": "warten",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "activity"],
+    "tags": [
+      "exam",
+      "basic",
+      "activity"
+    ],
     "meanings": {
       "de": "warten",
       "ko": "기다리다",
@@ -17148,7 +19108,9 @@ const WORDS_DE_A1 = [
       "zh": "等",
       "ru": "ждать"
     },
-    "examples": ["Ich warte auf den Bus."],
+    "examples": [
+      "Ich warte auf den Bus."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich warte",
@@ -17164,7 +19126,11 @@ const WORDS_DE_A1 = [
     "lemma": "warum",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "question"
+    ],
     "meanings": {
       "de": "warum",
       "ko": "왜",
@@ -17177,7 +19143,9 @@ const WORDS_DE_A1 = [
       "zh": "为什么",
       "ru": "почему"
     },
-    "examples": ["Warum kommst du nicht?"],
+    "examples": [
+      "Warum kommst du nicht?"
+    ],
     "meta": {}
   },
   {
@@ -17185,7 +19153,11 @@ const WORDS_DE_A1 = [
     "lemma": "was",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "question"
+    ],
     "meanings": {
       "de": "was",
       "ko": "무엇",
@@ -17198,7 +19170,9 @@ const WORDS_DE_A1 = [
       "zh": "什么",
       "ru": "что"
     },
-    "examples": ["Was ist das?"],
+    "examples": [
+      "Was ist das?"
+    ],
     "meta": {}
   },
   {
@@ -17206,7 +19180,11 @@ const WORDS_DE_A1 = [
     "lemma": "waschen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "daily", "hygiene"],
+    "tags": [
+      "exam",
+      "daily",
+      "hygiene"
+    ],
     "meanings": {
       "de": "waschen",
       "ko": "씻다",
@@ -17219,7 +19197,9 @@ const WORDS_DE_A1 = [
       "zh": "洗",
       "ru": "мыть"
     },
-    "examples": ["Ich muss meine Hände waschen."],
+    "examples": [
+      "Ich muss meine Hände waschen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich wasche",
@@ -17235,7 +19215,11 @@ const WORDS_DE_A1 = [
     "lemma": "Wasser",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "drink", "nature"],
+    "tags": [
+      "exam",
+      "drink",
+      "nature"
+    ],
     "meanings": {
       "de": "Wasser",
       "ko": "물",
@@ -17248,7 +19232,9 @@ const WORDS_DE_A1 = [
       "zh": "水",
       "ru": "вода"
     },
-    "examples": ["Ein Glas Wasser, bitte."],
+    "examples": [
+      "Ein Glas Wasser, bitte."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -17258,7 +19244,11 @@ const WORDS_DE_A1 = [
     "lemma": "weg",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "location"],
+    "tags": [
+      "exam",
+      "basic",
+      "location"
+    ],
     "meanings": {
       "de": "weg",
       "ko": "없어진, 멀리",
@@ -17271,7 +19261,9 @@ const WORDS_DE_A1 = [
       "zh": "离开",
       "ru": "прочь"
     },
-    "examples": ["Meine Tasche ist weg."],
+    "examples": [
+      "Meine Tasche ist weg."
+    ],
     "meta": {}
   },
   {
@@ -17279,7 +19271,11 @@ const WORDS_DE_A1 = [
     "lemma": "Weg",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "location", "traffic"],
+    "tags": [
+      "exam",
+      "location",
+      "traffic"
+    ],
     "meanings": {
       "de": "Weg",
       "ko": "길",
@@ -17292,7 +19288,9 @@ const WORDS_DE_A1 = [
       "zh": "路",
       "ru": "путь"
     },
-    "examples": ["Können Sie mir den Weg zeigen?"],
+    "examples": [
+      "Können Sie mir den Weg zeigen?"
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Wege"
@@ -17302,7 +19300,11 @@ const WORDS_DE_A1 = [
     "lemma": "weh tun",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "health", "feeling"],
+    "tags": [
+      "exam",
+      "health",
+      "feeling"
+    ],
     "meanings": {
       "de": "weh tun",
       "ko": "아프다",
@@ -17315,7 +19317,9 @@ const WORDS_DE_A1 = [
       "zh": "痛",
       "ru": "болеть"
     },
-    "examples": ["Mein Kopf tut weh."],
+    "examples": [
+      "Mein Kopf tut weh."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "es tut weh",
@@ -17331,7 +19335,10 @@ const WORDS_DE_A1 = [
     "lemma": "weiblich",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "personal_info"],
+    "tags": [
+      "exam",
+      "personal_info"
+    ],
     "meanings": {
       "de": "weiblich",
       "ko": "여성의",
@@ -17344,7 +19351,9 @@ const WORDS_DE_A1 = [
       "zh": "女性",
       "ru": "женский"
     },
-    "examples": ["Kreuzen Sie bitte an: weiblich oder männlich."],
+    "examples": [
+      "Kreuzen Sie bitte an: weiblich oder männlich."
+    ],
     "meta": {}
   },
   {
@@ -17352,7 +19361,11 @@ const WORDS_DE_A1 = [
     "lemma": "Wein",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "drink", "alcohol"],
+    "tags": [
+      "exam",
+      "drink",
+      "alcohol"
+    ],
     "meanings": {
       "de": "Wein",
       "ko": "와인",
@@ -17365,7 +19378,9 @@ const WORDS_DE_A1 = [
       "zh": "葡萄酒",
       "ru": "вино"
     },
-    "examples": ["Ich trinke gern Rotwein."],
+    "examples": [
+      "Ich trinke gern Rotwein."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Weine"
@@ -17375,7 +19390,11 @@ const WORDS_DE_A1 = [
     "lemma": "weit",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "location", "distance"],
+    "tags": [
+      "exam",
+      "location",
+      "distance"
+    ],
     "meanings": {
       "de": "weit",
       "ko": "먼",
@@ -17388,7 +19407,9 @@ const WORDS_DE_A1 = [
       "zh": "远",
       "ru": "далекий"
     },
-    "examples": ["Der Bahnhof ist nicht weit."],
+    "examples": [
+      "Der Bahnhof ist nicht weit."
+    ],
     "meta": {}
   },
   {
@@ -17396,7 +19417,11 @@ const WORDS_DE_A1 = [
     "lemma": "weiter",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "action"],
+    "tags": [
+      "exam",
+      "basic",
+      "action"
+    ],
     "meanings": {
       "de": "weiter",
       "ko": "계속",
@@ -17409,7 +19434,9 @@ const WORDS_DE_A1 = [
       "zh": "继续",
       "ru": "дальше"
     },
-    "examples": ["Lesen Sie bitte weiter."],
+    "examples": [
+      "Lesen Sie bitte weiter."
+    ],
     "meta": {}
   },
   {
@@ -17417,7 +19444,11 @@ const WORDS_DE_A1 = [
     "lemma": "Welt",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "nature", "society"],
+    "tags": [
+      "exam",
+      "nature",
+      "society"
+    ],
     "meanings": {
       "de": "Welt",
       "ko": "세계",
@@ -17430,7 +19461,9 @@ const WORDS_DE_A1 = [
       "zh": "世界",
       "ru": "мир"
     },
-    "examples": ["Er reist um die Welt."],
+    "examples": [
+      "Er reist um die Welt."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Welten"
@@ -17440,7 +19473,11 @@ const WORDS_DE_A1 = [
     "lemma": "wenig",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "quantity", "basic"],
+    "tags": [
+      "exam",
+      "quantity",
+      "basic"
+    ],
     "meanings": {
       "de": "wenig",
       "ko": "적은",
@@ -17453,7 +19490,9 @@ const WORDS_DE_A1 = [
       "zh": "少",
       "ru": "мало"
     },
-    "examples": ["Ich habe nur wenig Zeit."],
+    "examples": [
+      "Ich habe nur wenig Zeit."
+    ],
     "meta": {}
   },
   {
@@ -17461,7 +19500,11 @@ const WORDS_DE_A1 = [
     "lemma": "wer",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "question"
+    ],
     "meanings": {
       "de": "wer",
       "ko": "누구",
@@ -17474,7 +19517,9 @@ const WORDS_DE_A1 = [
       "zh": "谁",
       "ru": "кто"
     },
-    "examples": ["Wer ist das?"],
+    "examples": [
+      "Wer ist das?"
+    ],
     "meta": {}
   },
   {
@@ -17482,7 +19527,11 @@ const WORDS_DE_A1 = [
     "lemma": "werden",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "grammar"],
+    "tags": [
+      "exam",
+      "basic",
+      "grammar"
+    ],
     "meanings": {
       "de": "werden",
       "ko": "되다",
@@ -17495,7 +19544,9 @@ const WORDS_DE_A1 = [
       "zh": "变得",
       "ru": "становиться"
     },
-    "examples": ["Mein Sohn will Arzt werden."],
+    "examples": [
+      "Mein Sohn will Arzt werden."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich werde",
@@ -17511,7 +19562,11 @@ const WORDS_DE_A1 = [
     "lemma": "Wetter",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "weather", "nature"],
+    "tags": [
+      "exam",
+      "weather",
+      "nature"
+    ],
     "meanings": {
       "de": "Wetter",
       "ko": "날씨",
@@ -17524,7 +19579,9 @@ const WORDS_DE_A1 = [
       "zh": "天气",
       "ru": "погода"
     },
-    "examples": ["Das Wetter ist heute gut."],
+    "examples": [
+      "Das Wetter ist heute gut."
+    ],
     "meta": {},
     "gender": "das",
     "plural": ""
@@ -17534,7 +19591,11 @@ const WORDS_DE_A1 = [
     "lemma": "wichtig",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "basic", "opinion"],
+    "tags": [
+      "exam",
+      "basic",
+      "opinion"
+    ],
     "meanings": {
       "de": "wichtig",
       "ko": "중요한",
@@ -17547,7 +19608,9 @@ const WORDS_DE_A1 = [
       "zh": "重要",
       "ru": "важный"
     },
-    "examples": ["Das ist sehr wichtig."],
+    "examples": [
+      "Das ist sehr wichtig."
+    ],
     "meta": {}
   },
   {
@@ -17555,7 +19618,11 @@ const WORDS_DE_A1 = [
     "lemma": "wie",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "question"
+    ],
     "meanings": {
       "de": "wie",
       "ko": "어떻게",
@@ -17568,7 +19635,9 @@ const WORDS_DE_A1 = [
       "zh": "怎样",
       "ru": "как"
     },
-    "examples": ["Wie heißt du?"],
+    "examples": [
+      "Wie heißt du?"
+    ],
     "meta": {}
   },
   {
@@ -17576,7 +19645,11 @@ const WORDS_DE_A1 = [
     "lemma": "wieder",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "wieder",
       "ko": "다시",
@@ -17589,7 +19662,9 @@ const WORDS_DE_A1 = [
       "zh": "再",
       "ru": "снова"
     },
-    "examples": ["Er ist schon wieder krank."],
+    "examples": [
+      "Er ist schon wieder krank."
+    ],
     "meta": {}
   },
   {
@@ -17597,7 +19672,11 @@ const WORDS_DE_A1 = [
     "lemma": "wiederholen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "communication", "education"],
+    "tags": [
+      "exam",
+      "communication",
+      "education"
+    ],
     "meanings": {
       "de": "wiederholen",
       "ko": "반복하다",
@@ -17610,7 +19689,9 @@ const WORDS_DE_A1 = [
       "zh": "重复",
       "ru": "повторять"
     },
-    "examples": ["Können Sie das bitte wiederholen?"],
+    "examples": [
+      "Können Sie das bitte wiederholen?"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich wiederhole",
@@ -17626,7 +19707,11 @@ const WORDS_DE_A1 = [
     "lemma": "willkommen",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "greeting", "basic"],
+    "tags": [
+      "exam",
+      "greeting",
+      "basic"
+    ],
     "meanings": {
       "de": "willkommen",
       "ko": "환영하는",
@@ -17639,7 +19724,9 @@ const WORDS_DE_A1 = [
       "zh": "欢迎",
       "ru": "добро пожаловать"
     },
-    "examples": ["Herzlich willkommen in Berlin!"],
+    "examples": [
+      "Herzlich willkommen in Berlin!"
+    ],
     "meta": {}
   },
   {
@@ -17647,7 +19734,10 @@ const WORDS_DE_A1 = [
     "lemma": "Wind",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "weather"],
+    "tags": [
+      "exam",
+      "weather"
+    ],
     "meanings": {
       "de": "Wind",
       "ko": "바람",
@@ -17660,7 +19750,9 @@ const WORDS_DE_A1 = [
       "zh": "风",
       "ru": "ветер"
     },
-    "examples": ["Der Wind ist heute sehr stark."],
+    "examples": [
+      "Der Wind ist heute sehr stark."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Winde"
@@ -17670,7 +19762,10 @@ const WORDS_DE_A1 = [
     "lemma": "wir",
     "pos": "Pronomen",
     "cefr": "A1",
-    "tags": ["exam", "basic"],
+    "tags": [
+      "exam",
+      "basic"
+    ],
     "meanings": {
       "de": "wir",
       "ko": "우리",
@@ -17683,7 +19778,9 @@ const WORDS_DE_A1 = [
       "zh": "我们",
       "ru": "мы"
     },
-    "examples": ["Wir lernen Deutsch."],
+    "examples": [
+      "Wir lernen Deutsch."
+    ],
     "meta": {}
   },
   {
@@ -17691,7 +19788,11 @@ const WORDS_DE_A1 = [
     "lemma": "wissen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "mind"],
+    "tags": [
+      "exam",
+      "basic",
+      "mind"
+    ],
     "meanings": {
       "de": "wissen",
       "ko": "알다",
@@ -17704,7 +19805,9 @@ const WORDS_DE_A1 = [
       "zh": "知道",
       "ru": "знать"
     },
-    "examples": ["Ich weiß es nicht."],
+    "examples": [
+      "Ich weiß es nicht."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich weiß",
@@ -17720,7 +19823,12 @@ const WORDS_DE_A1 = [
     "lemma": "wo",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "location", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "location",
+      "question"
+    ],
     "meanings": {
       "de": "wo",
       "ko": "어디에",
@@ -17733,7 +19841,9 @@ const WORDS_DE_A1 = [
       "zh": "哪里",
       "ru": "где"
     },
-    "examples": ["Wo wohnen Sie?"],
+    "examples": [
+      "Wo wohnen Sie?"
+    ],
     "meta": {}
   },
   {
@@ -17741,7 +19851,11 @@ const WORDS_DE_A1 = [
     "lemma": "Woche",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "Woche",
       "ko": "주",
@@ -17754,7 +19868,9 @@ const WORDS_DE_A1 = [
       "zh": "周",
       "ru": "неделя"
     },
-    "examples": ["Ich habe eine Woche Urlaub."],
+    "examples": [
+      "Ich habe eine Woche Urlaub."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Wochen"
@@ -17764,7 +19880,11 @@ const WORDS_DE_A1 = [
     "lemma": "Wochenende",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "leisure"],
+    "tags": [
+      "exam",
+      "time",
+      "leisure"
+    ],
     "meanings": {
       "de": "Wochenende",
       "ko": "주말",
@@ -17777,7 +19897,9 @@ const WORDS_DE_A1 = [
       "zh": "周末",
       "ru": "выходные"
     },
-    "examples": ["Schönes Wochenende!"],
+    "examples": [
+      "Schönes Wochenende!"
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Wochenenden"
@@ -17787,7 +19909,12 @@ const WORDS_DE_A1 = [
     "lemma": "woher",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "origin", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "origin",
+      "question"
+    ],
     "meanings": {
       "de": "woher",
       "ko": "어디서",
@@ -17800,7 +19927,9 @@ const WORDS_DE_A1 = [
       "zh": "从哪里",
       "ru": "откуда"
     },
-    "examples": ["Woher kommen Sie?"],
+    "examples": [
+      "Woher kommen Sie?"
+    ],
     "meta": {}
   },
   {
@@ -17808,7 +19937,12 @@ const WORDS_DE_A1 = [
     "lemma": "wohin",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "direction", "question"],
+    "tags": [
+      "exam",
+      "basic",
+      "direction",
+      "question"
+    ],
     "meanings": {
       "de": "wohin",
       "ko": "어디로",
@@ -17821,7 +19955,9 @@ const WORDS_DE_A1 = [
       "zh": "去哪里",
       "ru": "куда"
     },
-    "examples": ["Wohin gehst du?"],
+    "examples": [
+      "Wohin gehst du?"
+    ],
     "meta": {}
   },
   {
@@ -17829,7 +19965,11 @@ const WORDS_DE_A1 = [
     "lemma": "wohnen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "housing", "basic"],
+    "tags": [
+      "exam",
+      "housing",
+      "basic"
+    ],
     "meanings": {
       "de": "wohnen",
       "ko": "살다",
@@ -17842,7 +19982,9 @@ const WORDS_DE_A1 = [
       "zh": "居住",
       "ru": "жить"
     },
-    "examples": ["Ich wohne in München."],
+    "examples": [
+      "Ich wohne in München."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich wohne",
@@ -17858,7 +20000,10 @@ const WORDS_DE_A1 = [
     "lemma": "Wohnung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing"],
+    "tags": [
+      "exam",
+      "housing"
+    ],
     "meanings": {
       "de": "Wohnung",
       "ko": "아파트",
@@ -17871,7 +20016,9 @@ const WORDS_DE_A1 = [
       "zh": "公寓",
       "ru": "квартира"
     },
-    "examples": ["Meine Wohnung ist sehr groß."],
+    "examples": [
+      "Meine Wohnung ist sehr groß."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Wohnungen"
@@ -17881,7 +20028,11 @@ const WORDS_DE_A1 = [
     "lemma": "wollen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "wish"],
+    "tags": [
+      "exam",
+      "basic",
+      "wish"
+    ],
     "meanings": {
       "de": "wollen",
       "ko": "원하다",
@@ -17894,7 +20045,9 @@ const WORDS_DE_A1 = [
       "zh": "想",
       "ru": "хотеть"
     },
-    "examples": ["Ich will Deutsch lernen."],
+    "examples": [
+      "Ich will Deutsch lernen."
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich will",
@@ -17910,7 +20063,11 @@ const WORDS_DE_A1 = [
     "lemma": "Wort",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "language", "communication"],
+    "tags": [
+      "exam",
+      "language",
+      "communication"
+    ],
     "meanings": {
       "de": "Wort",
       "ko": "단어",
@@ -17923,7 +20080,9 @@ const WORDS_DE_A1 = [
       "zh": "词",
       "ru": "слово"
     },
-    "examples": ["Ich kenne das Wort nicht."],
+    "examples": [
+      "Ich kenne das Wort nicht."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Wörter"
@@ -17933,7 +20092,11 @@ const WORDS_DE_A1 = [
     "lemma": "wunderbar",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "description", "feeling"],
+    "tags": [
+      "exam",
+      "description",
+      "feeling"
+    ],
     "meanings": {
       "de": "wunderbar",
       "ko": "아주 멋진",
@@ -17946,7 +20109,9 @@ const WORDS_DE_A1 = [
       "zh": "极好的",
       "ru": "чудесный"
     },
-    "examples": ["Das Essen war wunderbar."],
+    "examples": [
+      "Das Essen war wunderbar."
+    ],
     "meta": {}
   },
   {
@@ -17954,7 +20119,11 @@ const WORDS_DE_A1 = [
     "lemma": "zahlen",
     "pos": "Verb",
     "cefr": "A1",
-    "tags": ["exam", "shopping", "money"],
+    "tags": [
+      "exam",
+      "shopping",
+      "money"
+    ],
     "meanings": {
       "de": "zahlen",
       "ko": "지불하다",
@@ -17967,7 +20136,9 @@ const WORDS_DE_A1 = [
       "zh": "付款",
       "ru": "платить"
     },
-    "examples": ["Zahlen, bitte!"],
+    "examples": [
+      "Zahlen, bitte!"
+    ],
     "meta": {},
     "conj": {
       "pres_ich": "ich zahle",
@@ -17983,7 +20154,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zeit",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "time", "basic"],
+    "tags": [
+      "exam",
+      "time",
+      "basic"
+    ],
     "meanings": {
       "de": "Zeit",
       "ko": "시간",
@@ -17996,7 +20171,9 @@ const WORDS_DE_A1 = [
       "zh": "时间",
       "ru": "время"
     },
-    "examples": ["Ich habe heute keine Zeit."],
+    "examples": [
+      "Ich habe heute keine Zeit."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Zeiten"
@@ -18006,7 +20183,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zeitung",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "media", "daily"],
+    "tags": [
+      "exam",
+      "media",
+      "daily"
+    ],
     "meanings": {
       "de": "Zeitung",
       "ko": "신문",
@@ -18019,7 +20200,9 @@ const WORDS_DE_A1 = [
       "zh": "报纸",
       "ru": "газета"
     },
-    "examples": ["Ich lese die Zeitung."],
+    "examples": [
+      "Ich lese die Zeitung."
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Zeitungen"
@@ -18029,7 +20212,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zigarette",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "daily", "shopping"],
+    "tags": [
+      "exam",
+      "daily",
+      "shopping"
+    ],
     "meanings": {
       "de": "Zigarette",
       "ko": "담배",
@@ -18042,7 +20229,9 @@ const WORDS_DE_A1 = [
       "zh": "香烟",
       "ru": "сигарета"
     },
-    "examples": ["Haben Sie Zigaretten?"],
+    "examples": [
+      "Haben Sie Zigaretten?"
+    ],
     "meta": {},
     "gender": "die",
     "plural": "Zigaretten"
@@ -18052,7 +20241,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zimmer",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "housing", "hotel"],
+    "tags": [
+      "exam",
+      "housing",
+      "hotel"
+    ],
     "meanings": {
       "de": "Zimmer",
       "ko": "방",
@@ -18065,7 +20258,9 @@ const WORDS_DE_A1 = [
       "zh": "房间",
       "ru": "комната"
     },
-    "examples": ["Ich möchte ein Zimmer reservieren."],
+    "examples": [
+      "Ich möchte ein Zimmer reservieren."
+    ],
     "meta": {},
     "gender": "das",
     "plural": "Zimmer"
@@ -18075,7 +20270,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zoll",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "travel", "official"],
+    "tags": [
+      "exam",
+      "travel",
+      "official"
+    ],
     "meanings": {
       "de": "Zoll",
       "ko": "세관",
@@ -18088,7 +20287,9 @@ const WORDS_DE_A1 = [
       "zh": "海关",
       "ru": "таможня"
     },
-    "examples": ["Wir müssen durch den Zoll."],
+    "examples": [
+      "Wir müssen durch den Zoll."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Zölle"
@@ -18098,7 +20299,11 @@ const WORDS_DE_A1 = [
     "lemma": "zu",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "location", "basic"],
+    "tags": [
+      "exam",
+      "location",
+      "basic"
+    ],
     "meanings": {
       "de": "zu",
       "ko": "로",
@@ -18111,7 +20316,9 @@ const WORDS_DE_A1 = [
       "zh": "去",
       "ru": "к"
     },
-    "examples": ["Ich gehe zu Fuß."],
+    "examples": [
+      "Ich gehe zu Fuß."
+    ],
     "meta": {}
   },
   {
@@ -18119,7 +20326,11 @@ const WORDS_DE_A1 = [
     "lemma": "zufrieden",
     "pos": "Adjektiv",
     "cefr": "A1",
-    "tags": ["exam", "feeling", "opinion"],
+    "tags": [
+      "exam",
+      "feeling",
+      "opinion"
+    ],
     "meanings": {
       "de": "zufrieden",
       "ko": "만족한",
@@ -18132,7 +20343,9 @@ const WORDS_DE_A1 = [
       "zh": "满意",
       "ru": "довольный"
     },
-    "examples": ["Ich bin mit der Wohnung zufrieden."],
+    "examples": [
+      "Ich bin mit der Wohnung zufrieden."
+    ],
     "meta": {}
   },
   {
@@ -18140,7 +20353,11 @@ const WORDS_DE_A1 = [
     "lemma": "Zug",
     "pos": "Nomen",
     "cefr": "A1",
-    "tags": ["exam", "transport", "travel"],
+    "tags": [
+      "exam",
+      "transport",
+      "travel"
+    ],
     "meanings": {
       "de": "Zug",
       "ko": "기차",
@@ -18153,7 +20370,9 @@ const WORDS_DE_A1 = [
       "zh": "火车",
       "ru": "поезд"
     },
-    "examples": ["Ich fahre gern mit dem Zug."],
+    "examples": [
+      "Ich fahre gern mit dem Zug."
+    ],
     "meta": {},
     "gender": "der",
     "plural": "Züge"
@@ -18163,7 +20382,11 @@ const WORDS_DE_A1 = [
     "lemma": "zurück",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "location", "direction"],
+    "tags": [
+      "exam",
+      "location",
+      "direction"
+    ],
     "meanings": {
       "de": "zurück",
       "ko": "뒤로, 되돌아",
@@ -18176,7 +20399,9 @@ const WORDS_DE_A1 = [
       "zh": "回",
       "ru": "назад"
     },
-    "examples": ["Eine Fahrkarte nach Frankfurt und zurück, bitte."],
+    "examples": [
+      "Eine Fahrkarte nach Frankfurt und zurück, bitte."
+    ],
     "meta": {}
   },
   {
@@ -18184,7 +20409,11 @@ const WORDS_DE_A1 = [
     "lemma": "zusammen",
     "pos": "Adverb",
     "cefr": "A1",
-    "tags": ["exam", "basic", "social"],
+    "tags": [
+      "exam",
+      "basic",
+      "social"
+    ],
     "meanings": {
       "de": "zusammen",
       "ko": "함께",
@@ -18197,7 +20426,9 @@ const WORDS_DE_A1 = [
       "zh": "一起",
       "ru": "вместе"
     },
-    "examples": ["Zahlen bitte! Zusammen oder getrennt?"],
+    "examples": [
+      "Zahlen bitte! Zusammen oder getrennt?"
+    ],
     "meta": {}
   },
   {
@@ -18205,7 +20436,11 @@ const WORDS_DE_A1 = [
     "lemma": "zwischen",
     "pos": "Präposition",
     "cefr": "A1",
-    "tags": ["exam", "location", "time"],
+    "tags": [
+      "exam",
+      "location",
+      "time"
+    ],
     "meanings": {
       "de": "zwischen",
       "ko": "사이에",
@@ -18218,7 +20453,9 @@ const WORDS_DE_A1 = [
       "zh": "在之间",
       "ru": "между"
     },
-    "examples": ["Heidelberg liegt zwischen Frankfurt und Stuttgart."],
+    "examples": [
+      "Heidelberg liegt zwischen Frankfurt und Stuttgart."
+    ],
     "meta": {}
   }
 ];

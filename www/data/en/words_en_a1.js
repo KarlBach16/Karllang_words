@@ -1331,7 +1331,7 @@ const WORDS_EN_A1 = [
   {
     "id": "en_61",
     "lemma": "even",
-    "pos": "Verb",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2171,7 +2171,7 @@ const WORDS_EN_A1 = [
   {
     "id": "en_94",
     "lemma": "better",
-    "pos": "Verb",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2219,32 +2219,6 @@ const WORDS_EN_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "en_97",
-    "lemma": "things",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "것들",
-      "en": "things",
-      "de": "die Dinge",
-      "es": "las cosas",
-      "fr": "les choses",
-      "it": "le cose",
-      "pt": "as coisas",
-      "ja": "物",
-      "zh": "东西",
-      "ru": "вещи"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "things"
   },
   {
     "id": "en_98",
@@ -2324,31 +2298,6 @@ const WORDS_EN_A1 = [
     "infinitive": "long",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_102",
-    "lemma": "years",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "년",
-      "en": "year",
-      "de": "das Jahr",
-      "es": "el año",
-      "fr": "l'année",
-      "it": "l'anno",
-      "pt": "o ano",
-      "ja": "年",
-      "zh": "年",
-      "ru": "год"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "years"
   },
   {
     "id": "en_103",
@@ -2537,32 +2486,6 @@ const WORDS_EN_A1 = [
     "infinitive": "feel",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_111",
-    "lemma": "guys",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "남자들",
-      "en": "guys",
-      "de": "die Jungs",
-      "es": "los chicos",
-      "fr": "les gars",
-      "it": "i ragazzi",
-      "pt": "os rapazes",
-      "ja": "男たち",
-      "zh": "男人们",
-      "ru": "парни"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "guys"
   },
   {
     "id": "en_112",
@@ -7398,32 +7321,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_325",
-    "lemma": "eyes",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "눈",
-      "en": "eye",
-      "de": "das Auge",
-      "es": "el ojo",
-      "fr": "l'oeil",
-      "it": "l'occhio",
-      "pt": "o olho",
-      "ja": "目",
-      "zh": "眼睛",
-      "ru": "глаз"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "eyes"
-  },
-  {
     "id": "en_326",
     "lemma": "shut",
     "pos": "Verb",
@@ -7529,31 +7426,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_331",
-    "lemma": "times",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "시간",
-      "en": "time",
-      "de": "die Zeit",
-      "es": "el tiempo",
-      "fr": "le temps",
-      "it": "il tempo",
-      "pt": "o tempo",
-      "ja": "時間",
-      "zh": "时间",
-      "ru": "время"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "times"
-  },
-  {
     "id": "en_332",
     "lemma": "check",
     "pos": "Verb",
@@ -7580,56 +7452,6 @@ const WORDS_EN_A1 = [
     "infinitive": "check",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_334",
-    "lemma": "hands",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "손",
-      "en": "hand",
-      "de": "die Hand",
-      "es": "la mano",
-      "fr": "la main",
-      "it": "la mano",
-      "pt": "a mão",
-      "ja": "手",
-      "zh": "手",
-      "ru": "рука"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "hands"
-  },
-  {
-    "id": "en_335",
-    "lemma": "minutes",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "분",
-      "en": "minute",
-      "de": "die Minute",
-      "es": "el minuto",
-      "fr": "la minute",
-      "it": "il minuto",
-      "pt": "o minuto",
-      "ja": "分",
-      "zh": "分钟",
-      "ru": "минута"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "minutes"
   },
   {
     "id": "en_336",
@@ -12201,58 +12023,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_536",
-    "lemma": "parents",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "부모",
-      "en": "parents",
-      "de": "die Eltern",
-      "es": "los padres",
-      "fr": "les parents",
-      "it": "i genitori",
-      "pt": "os pais",
-      "ja": "両親",
-      "zh": "父母",
-      "ru": "родители"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "parents"
-  },
-  {
-    "id": "en_538",
-    "lemma": "sounds",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "소리",
-      "en": "sound",
-      "de": "der Laut",
-      "es": "el sonido",
-      "fr": "le son",
-      "it": "il suono",
-      "pt": "o som",
-      "ja": "音",
-      "zh": "声音",
-      "ru": "звук"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "sounds"
-  },
-  {
     "id": "en_539",
     "lemma": "serious",
     "pos": "Adjektiv",
@@ -14589,31 +14359,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_642",
-    "lemma": "weeks",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "주",
-      "en": "week",
-      "de": "die Woche",
-      "es": "la semana",
-      "fr": "la semaine",
-      "it": "la settimana",
-      "pt": "a semana",
-      "ja": "週",
-      "zh": "周",
-      "ru": "неделя"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "weeks"
-  },
-  {
     "id": "en_644",
     "lemma": "date",
     "pos": "Nomen",
@@ -15532,31 +15277,6 @@ const WORDS_EN_A1 = [
     "infinitive": "wonder",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_686",
-    "lemma": "questions",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "질문",
-      "en": "question",
-      "de": "die Frage",
-      "es": "la pregunta",
-      "fr": "la question",
-      "it": "la domanda",
-      "pt": "a pergunta",
-      "ja": "質問",
-      "zh": "问题",
-      "ru": "вопрос"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "questions"
   },
   {
     "id": "en_687",
@@ -19879,32 +19599,6 @@ const WORDS_EN_A1 = [
     "plural": "lunches"
   },
   {
-    "id": "en_883",
-    "lemma": "miles",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "travel"
-    ],
-    "meanings": {
-      "ko": "마일",
-      "en": "mile",
-      "de": "die Meile",
-      "es": "la milla",
-      "fr": "le mille",
-      "it": "il miglio",
-      "pt": "a milha",
-      "ja": "マイル",
-      "zh": "英里",
-      "ru": "миля"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "miles"
-  },
-  {
     "id": "en_884",
     "lemma": "radio",
     "pos": "Nomen",
@@ -22537,32 +22231,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1002",
-    "lemma": "calls",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "전화",
-      "en": "call",
-      "de": "der Anruf",
-      "es": "la llamada",
-      "fr": "l'appel",
-      "it": "la chiamata",
-      "pt": "a chamada",
-      "ja": "電話",
-      "zh": "电话",
-      "ru": "звонок"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "calls"
-  },
-  {
     "id": "en_1003",
     "lemma": "spent",
     "pos": "Adjektiv",
@@ -23475,32 +23143,6 @@ const WORDS_EN_A1 = [
     "plural": "teachers"
   },
   {
-    "id": "en_1044",
-    "lemma": "cops",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "경찰",
-      "en": "cop",
-      "de": "der Polizist",
-      "es": "el policía",
-      "fr": "le policier",
-      "it": "il poliziotto",
-      "pt": "o policial",
-      "ja": "警察",
-      "zh": "警察",
-      "ru": "полицейский"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "cops"
-  },
-  {
     "id": "en_1045",
     "lemma": "sake",
     "pos": "Nomen",
@@ -23525,32 +23167,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "sakes"
-  },
-  {
-    "id": "en_1046",
-    "lemma": "loves",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "사랑",
-      "en": "love",
-      "de": "die Liebe",
-      "es": "el amor",
-      "fr": "l'amour",
-      "it": "l'amore",
-      "pt": "o amor",
-      "ja": "愛",
-      "zh": "爱",
-      "ru": "любовь"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "loves"
   },
   {
     "id": "en_1047",
@@ -25289,31 +24905,6 @@ const WORDS_EN_A1 = [
     "plural": "supports"
   },
   {
-    "id": "en_1125",
-    "lemma": "rules",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "규칙",
-      "en": "rules",
-      "de": "die Regeln",
-      "es": "las reglas",
-      "fr": "les règles",
-      "it": "le regole",
-      "pt": "as regras",
-      "ja": "ルール",
-      "zh": "规则",
-      "ru": "правила"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "rules"
-  },
-  {
     "id": "en_1126",
     "lemma": "partner",
     "pos": "Nomen",
@@ -26447,31 +26038,6 @@ const WORDS_EN_A1 = [
     "plural": "moons"
   },
   {
-    "id": "en_1183",
-    "lemma": "arms",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "팔",
-      "en": "arm",
-      "de": "der Arm",
-      "es": "el brazo",
-      "fr": "le bras",
-      "it": "il braccio",
-      "pt": "o braço",
-      "ja": "腕",
-      "zh": "手臂",
-      "ru": "рука"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "arms"
-  },
-  {
     "id": "en_1184",
     "lemma": "address",
     "pos": "Nomen",
@@ -26950,32 +26516,6 @@ const WORDS_EN_A1 = [
     "plural": "–"
   },
   {
-    "id": "en_1204",
-    "lemma": "drugs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "약물",
-      "en": "drug",
-      "de": "das Medikament",
-      "es": "la droga",
-      "fr": "le médicament",
-      "it": "il farmaco",
-      "pt": "a droga",
-      "ja": "薬",
-      "zh": "药物",
-      "ru": "лекарство"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "drugs"
-  },
-  {
     "id": "en_1205",
     "lemma": "type",
     "pos": "Nomen",
@@ -27027,31 +26567,6 @@ const WORDS_EN_A1 = [
     "infinitive": "type",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1207",
-    "lemma": "rings",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "반지",
-      "en": "ring",
-      "de": "der Ring",
-      "es": "el anillo",
-      "fr": "la bague",
-      "it": "l'anello",
-      "pt": "o anel",
-      "ja": "指輪",
-      "zh": "戒指",
-      "ru": "кольцо"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "rings"
   },
   {
     "id": "en_1208",
@@ -27212,31 +26727,6 @@ const WORDS_EN_A1 = [
     "irregular": null
   },
   {
-    "id": "en_1214",
-    "lemma": "books",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "책",
-      "en": "book",
-      "de": "das Buch",
-      "es": "el libro",
-      "fr": "le livre",
-      "it": "il libro",
-      "pt": "o livro",
-      "ja": "本",
-      "zh": "书",
-      "ru": "книга"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "books"
-  },
-  {
     "id": "en_1215",
     "lemma": "further",
     "pos": "Adjektiv",
@@ -27284,31 +26774,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "actions"
-  },
-  {
-    "id": "en_1218",
-    "lemma": "orders",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "명령",
-      "en": "order",
-      "de": "der Befehl",
-      "es": "la orden",
-      "fr": "l'ordre",
-      "it": "l'ordine",
-      "pt": "a ordem",
-      "ja": "命令",
-      "zh": "命令",
-      "ru": "приказ"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "orders"
   },
   {
     "id": "en_1219",
@@ -27411,31 +26876,6 @@ const WORDS_EN_A1 = [
     "infinitive": "nick",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1224",
-    "lemma": "pictures",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "그림",
-      "en": "picture",
-      "de": "das Bild",
-      "es": "la imagen",
-      "fr": "l'image",
-      "it": "l'immagine",
-      "pt": "a imagem",
-      "ja": "絵",
-      "zh": "图片",
-      "ru": "картина"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "pictures"
   },
   {
     "id": "en_1225",
@@ -27945,32 +27385,6 @@ const WORDS_EN_A1 = [
     "plural": "narrators"
   },
   {
-    "id": "en_1247",
-    "lemma": "feelings",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "감정",
-      "en": "feelings",
-      "de": "die Gefühle",
-      "es": "los sentimientos",
-      "fr": "les sentiments",
-      "it": "i sentimenti",
-      "pt": "os sentimentos",
-      "ja": "感情",
-      "zh": "感受",
-      "ru": "чувства"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "feelings"
-  },
-  {
     "id": "en_1248",
     "lemma": "enemy",
     "pos": "Nomen",
@@ -28046,31 +27460,6 @@ const WORDS_EN_A1 = [
     "infinitive": "battle",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1251",
-    "lemma": "dollars",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "달러",
-      "en": "dollars",
-      "de": "die Dollar",
-      "es": "los dólares",
-      "fr": "les dollars",
-      "it": "i dollari",
-      "pt": "os dólares",
-      "ja": "ドル",
-      "zh": "美元",
-      "ru": "доллары"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "dollars"
   },
   {
     "id": "en_1252",
@@ -28347,31 +27736,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "–"
-  },
-  {
-    "id": "en_1264",
-    "lemma": "legs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "다리",
-      "en": "legs",
-      "de": "die Beine",
-      "es": "las piernas",
-      "fr": "les jambes",
-      "it": "le gambe",
-      "pt": "as pernas",
-      "ja": "脚",
-      "zh": "腿",
-      "ru": "ноги"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "legs"
   },
   {
     "id": "en_1265",
@@ -28705,32 +28069,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1278",
-    "lemma": "names",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "이름",
-      "en": "name",
-      "de": "der Name",
-      "es": "el nombre",
-      "fr": "le nom",
-      "it": "il nome",
-      "pt": "o nome",
-      "ja": "名前",
-      "zh": "名字",
-      "ru": "имя"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "names"
-  },
-  {
     "id": "en_1279",
     "lemma": "witness",
     "pos": "Nomen",
@@ -28996,32 +28334,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1292",
-    "lemma": "ways",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "방법",
-      "en": "way",
-      "de": "der Weg",
-      "es": "el camino",
-      "fr": "le chemin",
-      "it": "il modo",
-      "pt": "o caminho",
-      "ja": "方法",
-      "zh": "方法",
-      "ru": "способ"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "ways"
-  },
-  {
     "id": "en_1293",
     "lemma": "sergeant",
     "pos": "Nomen",
@@ -29281,32 +28593,6 @@ const WORDS_EN_A1 = [
     "irregular": null
   },
   {
-    "id": "en_1306",
-    "lemma": "places",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "장소",
-      "en": "place",
-      "de": "der Ort",
-      "es": "el lugar",
-      "fr": "le lieu",
-      "it": "il luogo",
-      "pt": "o lugar",
-      "ja": "場所",
-      "zh": "地方",
-      "ru": "место"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "places"
-  },
-  {
     "id": "en_1307",
     "lemma": "writing",
     "pos": "Nomen",
@@ -29330,58 +28616,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "writings"
-  },
-  {
-    "id": "en_1308",
-    "lemma": "brothers",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "형제",
-      "en": "brother",
-      "de": "der Bruder",
-      "es": "el hermano",
-      "fr": "le frère",
-      "it": "il fratello",
-      "pt": "o irmão",
-      "ja": "兄弟",
-      "zh": "兄弟",
-      "ru": "брат"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "brothers"
-  },
-  {
-    "id": "en_1309",
-    "lemma": "starts",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "시작",
-      "en": "start",
-      "de": "der Anfang",
-      "es": "el comienzo",
-      "fr": "le début",
-      "it": "l'inizio",
-      "pt": "o começo",
-      "ja": "始まり",
-      "zh": "开始",
-      "ru": "начало"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "starts"
   },
   {
     "id": "en_1310",
@@ -30980,32 +30214,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1378",
-    "lemma": "animals",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "동물",
-      "en": "animal",
-      "de": "das Tier",
-      "es": "el animal",
-      "fr": "l'animal",
-      "it": "l'animale",
-      "pt": "o animal",
-      "ja": "動物",
-      "zh": "动物",
-      "ru": "животное"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "animals"
-  },
-  {
     "id": "en_1379",
     "lemma": "flight",
     "pos": "Nomen",
@@ -31529,32 +30737,6 @@ const WORDS_EN_A1 = [
     "plural": "mommies"
   },
   {
-    "id": "en_1401",
-    "lemma": "dogs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개",
-      "en": "dog",
-      "de": "der Hund",
-      "es": "el perro",
-      "fr": "le chien",
-      "it": "il cane",
-      "pt": "o cão",
-      "ja": "犬",
-      "zh": "狗",
-      "ru": "собака"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "dogs"
-  },
-  {
     "id": "en_1402",
     "lemma": "wild",
     "pos": "Adjektiv",
@@ -31706,31 +30888,6 @@ const WORDS_EN_A1 = [
     "infinitive": "camp",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1410",
-    "lemma": "guns",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "총",
-      "en": "gun",
-      "de": "die Waffe",
-      "es": "la pistola",
-      "fr": "le pistolet",
-      "it": "la pistola",
-      "pt": "a arma",
-      "ja": "銃",
-      "zh": "枪",
-      "ru": "пистолет"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "guns"
   },
   {
     "id": "en_1411",
@@ -31885,32 +31042,6 @@ const WORDS_EN_A1 = [
     "plural": "majesties"
   },
   {
-    "id": "en_1418",
-    "lemma": "flowers",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "꽃",
-      "en": "flower",
-      "de": "die Blume",
-      "es": "la flor",
-      "fr": "la fleur",
-      "it": "il fiore",
-      "pt": "a flor",
-      "ja": "花",
-      "zh": "花",
-      "ru": "цветок"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "flowers"
-  },
-  {
     "id": "en_1419",
     "lemma": "famous",
     "pos": "Adjektiv",
@@ -32009,32 +31140,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "drivers"
-  },
-  {
-    "id": "en_1423",
-    "lemma": "keys",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "열쇠",
-      "en": "key",
-      "de": "der Schlüssel",
-      "es": "la llave",
-      "fr": "la clé",
-      "it": "la chiave",
-      "pt": "a chave",
-      "ja": "鍵",
-      "zh": "钥匙",
-      "ru": "ключ"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "keys"
   },
   {
     "id": "en_1424",
@@ -33501,58 +32606,6 @@ const WORDS_EN_A1 = [
     "plural": "languages"
   },
   {
-    "id": "en_1501",
-    "lemma": "cars",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "자동차",
-      "en": "car",
-      "de": "das Auto",
-      "es": "el coche",
-      "fr": "la voiture",
-      "it": "l'auto",
-      "pt": "o carro",
-      "ja": "車",
-      "zh": "汽车",
-      "ru": "автомобиль"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "cars"
-  },
-  {
-    "id": "en_1502",
-    "lemma": "folks",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "사람들",
-      "en": "people",
-      "de": "die Leute",
-      "es": "la gente",
-      "fr": "les gens",
-      "it": "la gente",
-      "pt": "as pessoas",
-      "ja": "人々",
-      "zh": "人们",
-      "ru": "люди"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "folk or folks"
-  },
-  {
     "id": "en_1505",
     "lemma": "fellow",
     "pos": "Nomen",
@@ -33651,31 +32704,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "grandmas"
-  },
-  {
-    "id": "en_1509",
-    "lemma": "shows",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "공연",
-      "en": "show",
-      "de": "die Show",
-      "es": "el espectáculo",
-      "fr": "le spectacle",
-      "it": "lo spettacolo",
-      "pt": "o espetáculo",
-      "ja": "ショー",
-      "zh": "演出",
-      "ru": "шоу"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "shows"
   },
   {
     "id": "en_1510",
@@ -34611,31 +33639,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1549",
-    "lemma": "weapons",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "무기",
-      "en": "weapon",
-      "de": "die Waffe",
-      "es": "el arma",
-      "fr": "l'arme",
-      "it": "l'arma",
-      "pt": "a arma",
-      "ja": "武器",
-      "zh": "武器",
-      "ru": "оружие"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "weapons"
-  },
-  {
     "id": "en_1550",
     "lemma": "practice",
     "pos": "Verb",
@@ -34945,32 +33948,6 @@ const WORDS_EN_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "en_1565",
-    "lemma": "plays",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "연극",
-      "en": "play",
-      "de": "das Schauspiel",
-      "es": "la obra",
-      "fr": "la pièce",
-      "it": "la commedia",
-      "pt": "a peça",
-      "ja": "劇",
-      "zh": "戏剧",
-      "ru": "пьеса"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "plays"
   },
   {
     "id": "en_1566",
@@ -35836,32 +34813,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1603",
-    "lemma": "screams",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "비명",
-      "en": "scream",
-      "de": "der Schrei",
-      "es": "el grito",
-      "fr": "le cri",
-      "it": "l'urlo",
-      "pt": "o grito",
-      "ja": "悲鳴",
-      "zh": "尖叫",
-      "ru": "крик"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "screams"
-  },
-  {
     "id": "en_1604",
     "lemma": "serve",
     "pos": "Verb",
@@ -35914,32 +34865,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "serves"
-  },
-  {
-    "id": "en_1606",
-    "lemma": "ideas",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "생각",
-      "en": "idea",
-      "de": "die Idee",
-      "es": "la idea",
-      "fr": "l'idée",
-      "it": "l'idea",
-      "pt": "a ideia",
-      "ja": "考え",
-      "zh": "想法",
-      "ru": "идея"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "ideas"
   },
   {
     "id": "en_1607",
@@ -36098,31 +35023,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "packs"
-  },
-  {
-    "id": "en_1613",
-    "lemma": "soldiers",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "군인",
-      "en": "soldier",
-      "de": "der Soldat",
-      "es": "el soldado",
-      "fr": "le soldat",
-      "it": "il soldato",
-      "pt": "o soldado",
-      "ja": "兵士",
-      "zh": "士兵",
-      "ru": "солдат"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "soldiers"
   },
   {
     "id": "en_1614",
@@ -36875,56 +35775,6 @@ const WORDS_EN_A1 = [
     "infinitive": "fake",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1645",
-    "lemma": "records",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "기록",
-      "en": "record",
-      "de": "die Aufzeichnung",
-      "es": "el registro",
-      "fr": "le dossier",
-      "it": "il registro",
-      "pt": "o registro",
-      "ja": "記録",
-      "zh": "记录",
-      "ru": "запись"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "records"
-  },
-  {
-    "id": "en_1647",
-    "lemma": "numbers",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "숫자",
-      "en": "number",
-      "de": "die Zahl",
-      "es": "el número",
-      "fr": "le nombre",
-      "it": "il numero",
-      "pt": "o número",
-      "ja": "数字",
-      "zh": "数字",
-      "ru": "число"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "numbers"
   },
   {
     "id": "en_1648",
@@ -37965,32 +36815,6 @@ const WORDS_EN_A1 = [
     "irregular": null
   },
   {
-    "id": "en_1701",
-    "lemma": "balls",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "공",
-      "en": "ball",
-      "de": "der Ball",
-      "es": "la pelota",
-      "fr": "la balle",
-      "it": "la palla",
-      "pt": "a bola",
-      "ja": "ボール",
-      "zh": "球",
-      "ru": "мяч"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "balls"
-  },
-  {
     "id": "en_1702",
     "lemma": "universe",
     "pos": "Nomen",
@@ -38067,32 +36891,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "opinions"
-  },
-  {
-    "id": "en_1705",
-    "lemma": "movies",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "영화",
-      "en": "movie",
-      "de": "der Film",
-      "es": "la película",
-      "fr": "le film",
-      "it": "il film",
-      "pt": "o filme",
-      "ja": "映画",
-      "zh": "电影",
-      "ru": "фильм"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "movies"
   },
   {
     "id": "en_1706",
@@ -38434,31 +37232,6 @@ const WORDS_EN_A1 = [
     "infinitive": "base",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1723",
-    "lemma": "matters",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "물질",
-      "en": "matter",
-      "de": "die Materie",
-      "es": "la materia",
-      "fr": "la matière",
-      "it": "la materia",
-      "pt": "a matéria",
-      "ja": "物質",
-      "zh": "物质",
-      "ru": "вещество"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "matters"
   },
   {
     "id": "en_1724",
@@ -38877,58 +37650,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1743",
-    "lemma": "students",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "학생",
-      "en": "student",
-      "de": "der Schüler",
-      "es": "el estudiante",
-      "fr": "l'étudiant",
-      "it": "lo studente",
-      "pt": "o estudante",
-      "ja": "学生",
-      "zh": "学生",
-      "ru": "студент"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "students"
-  },
-  {
-    "id": "en_1744",
-    "lemma": "birds",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "새",
-      "en": "bird",
-      "de": "der Vogel",
-      "es": "el pájaro",
-      "fr": "l'oiseau",
-      "it": "l'uccello",
-      "pt": "o pássaro",
-      "ja": "鳥",
-      "zh": "鸟",
-      "ru": "птица"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "birds"
-  },
-  {
     "id": "en_1745",
     "lemma": "social",
     "pos": "Nomen",
@@ -39001,31 +37722,6 @@ const WORDS_EN_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "en_1748",
-    "lemma": "bodies",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "신체",
-      "en": "body",
-      "de": "der Körper",
-      "es": "el cuerpo",
-      "fr": "le corps",
-      "it": "il corpo",
-      "pt": "o corpo",
-      "ja": "体",
-      "zh": "身体",
-      "ru": "тело"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "bodies"
   },
   {
     "id": "en_1749",
@@ -39294,32 +37990,6 @@ const WORDS_EN_A1 = [
     "plural": "purposes"
   },
   {
-    "id": "en_1761",
-    "lemma": "letters",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "편지",
-      "en": "letter",
-      "de": "der Brief",
-      "es": "la carta",
-      "fr": "la lettre",
-      "it": "la lettera",
-      "pt": "a carta",
-      "ja": "手紙",
-      "zh": "信",
-      "ru": "письмо"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "letters"
-  },
-  {
     "id": "en_1762",
     "lemma": "opening",
     "pos": "Nomen",
@@ -39424,32 +38094,6 @@ const WORDS_EN_A1 = [
     "infinitive": "season",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1767",
-    "lemma": "ends",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "끝",
-      "en": "end",
-      "de": "das Ende",
-      "es": "el final",
-      "fr": "la fin",
-      "it": "la fine",
-      "pt": "o fim",
-      "ja": "終わり",
-      "zh": "结束",
-      "ru": "конец"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "ends"
   },
   {
     "id": "en_1768",
@@ -39609,31 +38253,6 @@ const WORDS_EN_A1 = [
     "infinitive": "issue",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1775",
-    "lemma": "thousands",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "천",
-      "en": "thousand",
-      "de": "die tausend",
-      "es": "el mil",
-      "fr": "le mille",
-      "it": "il mille",
-      "pt": "o mil",
-      "ja": "千",
-      "zh": "千",
-      "ru": "тысяча"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "thousands"
   },
   {
     "id": "en_1776",
@@ -42623,32 +41242,6 @@ const WORDS_EN_A1 = [
     "plural": "digs"
   },
   {
-    "id": "en_1911",
-    "lemma": "drinks",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "음료",
-      "en": "drinks",
-      "de": "die Getränke",
-      "es": "las bebidas",
-      "fr": "les boissons",
-      "it": "le bevande",
-      "pt": "as bebidas",
-      "ja": "飲料",
-      "zh": "饮料",
-      "ru": "напитки"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "drinks"
-  },
-  {
     "id": "en_1912",
     "lemma": "buried",
     "pos": "Adjektiv",
@@ -42829,83 +41422,6 @@ const WORDS_EN_A1 = [
     "infinitive": "stomach",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1919",
-    "lemma": "changes",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "변화",
-      "en": "changes",
-      "de": "die Veränderungen",
-      "es": "los cambios",
-      "fr": "les changements",
-      "it": "i cambiamenti",
-      "pt": "as mudanças",
-      "ja": "変化",
-      "zh": "变化",
-      "ru": "изменения"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "changes"
-  },
-  {
-    "id": "en_1920",
-    "lemma": "details",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "세부사항",
-      "en": "details",
-      "de": "die Details",
-      "es": "los detalles",
-      "fr": "les détails",
-      "it": "i dettagli",
-      "pt": "os detalhes",
-      "ja": "詳細",
-      "zh": "细节",
-      "ru": "детали"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "details"
-  },
-  {
-    "id": "en_1921",
-    "lemma": "thoughts",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "생각",
-      "en": "thoughts",
-      "de": "die Gedanken",
-      "es": "los pensamientos",
-      "fr": "les pensées",
-      "it": "i pensieri",
-      "pt": "os pensamentos",
-      "ja": "思考",
-      "zh": "思想",
-      "ru": "мысли"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "thoughts"
   },
   {
     "id": "en_1922",
@@ -43610,32 +42126,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_1952",
-    "lemma": "tickets",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "표",
-      "en": "ticket",
-      "de": "das Ticket",
-      "es": "el boleto",
-      "fr": "le billet",
-      "it": "il biglietto",
-      "pt": "o bilhete",
-      "ja": "チケット",
-      "zh": "票",
-      "ru": "билет"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "tickets"
-  },
-  {
     "id": "en_1953",
     "lemma": "forest",
     "pos": "Nomen",
@@ -43660,32 +42150,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "forests"
-  },
-  {
-    "id": "en_1954",
-    "lemma": "eggs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "계란",
-      "en": "egg",
-      "de": "das Ei",
-      "es": "el huevo",
-      "fr": "l'œuf",
-      "it": "l'uovo",
-      "pt": "o ovo",
-      "ja": "卵",
-      "zh": "蛋",
-      "ru": "яйцо"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "eggs"
   },
   {
     "id": "en_1955",
@@ -43966,32 +42430,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "owners"
-  },
-  {
-    "id": "en_1968",
-    "lemma": "points",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "점",
-      "en": "point",
-      "de": "der Punkt",
-      "es": "el punto",
-      "fr": "le point",
-      "it": "il punto",
-      "pt": "o ponto",
-      "ja": "ポイント",
-      "zh": "分数",
-      "ru": "очко"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "points"
   },
   {
     "id": "en_1969",
@@ -44428,31 +42866,6 @@ const WORDS_EN_A1 = [
     "infinitive": "pair",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "en_1993",
-    "lemma": "runs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "달리기",
-      "en": "run",
-      "de": "der Lauf",
-      "es": "la carrera",
-      "fr": "la course",
-      "it": "la corsa",
-      "pt": "a corrida",
-      "ja": "走り",
-      "zh": "跑步",
-      "ru": "бег"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "runs"
   },
   {
     "id": "en_1994",
@@ -45246,56 +43659,6 @@ const WORDS_EN_A1 = [
     "meta": {}
   },
   {
-    "id": "en_2033",
-    "lemma": "victims",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "피해자",
-      "en": "victims",
-      "de": "die Opfer",
-      "es": "las víctimas",
-      "fr": "les victimes",
-      "it": "le vittime",
-      "pt": "as vítimas",
-      "ja": "被害者",
-      "zh": "受害者",
-      "ru": "жертвы"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "victims"
-  },
-  {
-    "id": "en_2034",
-    "lemma": "bones",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "뼈",
-      "en": "bones",
-      "de": "die Knochen",
-      "es": "los huesos",
-      "fr": "les os",
-      "it": "le ossa",
-      "pt": "os ossos",
-      "ja": "骨",
-      "zh": "骨头",
-      "ru": "кости"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "bones"
-  },
-  {
     "id": "en_2035",
     "lemma": "plant",
     "pos": "Nomen",
@@ -46047,32 +44410,6 @@ const WORDS_EN_A1 = [
     "examples": [],
     "meta": {},
     "plural": "airports"
-  },
-  {
-    "id": "en_2070",
-    "lemma": "jobs",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "일자리",
-      "en": "job",
-      "de": "der Job",
-      "es": "el trabajo",
-      "fr": "l'emploi",
-      "it": "il lavoro",
-      "pt": "o emprego",
-      "ja": "仕事",
-      "zh": "工作",
-      "ru": "работа"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "jobs"
   },
   {
     "id": "en_2071",
