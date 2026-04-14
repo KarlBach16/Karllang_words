@@ -37,6 +37,10 @@ const WORDS_NL_A1_SAFE = typeof WORDS_NL_A1 !== "undefined" ? WORDS_NL_A1 : [];
 const WORDS_NL_A2_SAFE = typeof WORDS_NL_A2 !== "undefined" ? WORDS_NL_A2 : [];
 const WORDS_NL_B1_SAFE = typeof WORDS_NL_B1 !== "undefined" ? WORDS_NL_B1 : [];
 const WORDS_NL_B2_SAFE = typeof WORDS_NL_B2 !== "undefined" ? WORDS_NL_B2 : [];
+const WORDS_RU_A1_SAFE = typeof WORDS_RU_A1 !== "undefined" ? WORDS_RU_A1 : [];
+const WORDS_RU_A2_SAFE = typeof WORDS_RU_A2 !== "undefined" ? WORDS_RU_A2 : [];
+const WORDS_RU_B1_SAFE = typeof WORDS_RU_B1 !== "undefined" ? WORDS_RU_B1 : [];
+const WORDS_RU_B2_SAFE = typeof WORDS_RU_B2 !== "undefined" ? WORDS_RU_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -92,6 +96,13 @@ const ALL_WORDS_NL = [
   ...WORDS_NL_A2_SAFE,
   ...WORDS_NL_B1_SAFE,
   ...WORDS_NL_B2_SAFE,
+];
+
+const ALL_WORDS_RU = [
+  ...WORDS_RU_A1_SAFE,
+  ...WORDS_RU_A2_SAFE,
+  ...WORDS_RU_B1_SAFE,
+  ...WORDS_RU_B2_SAFE,
 ];
 
 /* ============================================
@@ -184,8 +195,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ko"]
-  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl"];
+  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "ko"]
+  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -1725,6 +1736,9 @@ function applyTranslations() {
       if (code === "nl") {
         return t().study_lang_nl || localName || "Nederlands";
       }
+      if (code === "ru") {
+        return t().study_lang_ru || localName || "Русский";
+      }
       if (code === "ko") {
         return t().study_lang_ko || localName || "한국어";
       }
@@ -1790,6 +1804,7 @@ function applyTranslations() {
     pt: pack.study_lang_pt || "Português",
     pl: pack.study_lang_pl || "Polski",
     nl: pack.study_lang_nl || "Nederlands",
+    ru: pack.study_lang_ru || "Русский",
     ko: pack.study_lang_ko || "한국어",
   };
 
@@ -1881,6 +1896,7 @@ function getAllWords() {
   if (study === "pt") return ALL_WORDS_PT || [];
   if (study === "pl") return ALL_WORDS_PL || [];
   if (study === "nl") return ALL_WORDS_NL || [];
+  if (study === "ru") return ALL_WORDS_RU || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
@@ -3243,6 +3259,7 @@ function getTtsLangCode(studyLang) {
   if (target === "es") return "es-ES";
   if (target === "pl") return "pl-PL";
   if (target === "nl") return "nl-NL";
+  if (target === "ru") return "ru-RU";
   return "de-DE";
 }
 

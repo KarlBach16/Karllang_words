@@ -71,6 +71,7 @@ start_screen_hint: "",
     study_lang_pt: "포르투갈어",
     study_lang_pl: "폴란드어",
     study_lang_nl: "네덜란드어",
+    study_lang_ru: "러시아어",
 
     /* 설정 뷰 라벨 */
     settings_title: "설정",
@@ -214,6 +215,7 @@ en: {
     study_lang_pt: "Portuguese",
     study_lang_pl: "Polish",
     study_lang_nl: "Dutch",
+    study_lang_ru: "Russian",
 
     /* 설정 */
     settings_title: "Settings",
@@ -358,6 +360,7 @@ de: {
     study_lang_pt: "Portugiesisch",
     study_lang_pl: "Polnisch",
     study_lang_nl: "Niederländisch",
+    study_lang_ru: "Russisch",
 
     /* 설정 */
     settings_title: "Einstellungen",
@@ -503,6 +506,7 @@ es: {
     study_lang_pt: "Portugués",
     study_lang_pl: "Polaco",
     study_lang_nl: "Neerlandés",
+    study_lang_ru: "Ruso",
 
     /* 설정 */
     settings_title: "Ajustes",
@@ -649,6 +653,7 @@ fr: {
     study_lang_pt: "Portugais",
     study_lang_pl: "Polonais",
     study_lang_nl: "Néerlandais",
+    study_lang_ru: "Russe",
 
     /* 설정 */
     settings_title: "Paramètres",
@@ -791,6 +796,7 @@ it: {
     study_lang_pt: "Portoghese",
     study_lang_pl: "Polacco",
     study_lang_nl: "Olandese",
+    study_lang_ru: "Russo",
 
     /* 설정 */
     settings_title: "Impostazioni",
@@ -933,6 +939,7 @@ pt: {
     study_lang_pt: "Português",
     study_lang_pl: "Polonês",
     study_lang_nl: "Neerlandês",
+    study_lang_ru: "Russo",
 
     /* 설정 */
     settings_title: "Configurações",
@@ -1075,6 +1082,7 @@ ja: {
     study_lang_pt: "ポルトガル語",
     study_lang_pl: "ポーランド語",
     study_lang_nl: "オランダ語",
+    study_lang_ru: "ロシア語",
 
     /* 설정 */
     settings_title: "設定",
@@ -1217,6 +1225,7 @@ zh: {
     study_lang_pt: "葡萄牙语",
     study_lang_pl: "波兰语",
     study_lang_nl: "荷兰语",
+    study_lang_ru: "俄语",
 
     /* 설정 */
     settings_title: "设置",
@@ -1359,6 +1368,7 @@ ru: {
     study_lang_pt: "Португальский",
     study_lang_pl: "Польский",
     study_lang_nl: "Нидерландский",
+    study_lang_ru: "Русский",
 
     /* 설정 */
     settings_title: "Настройки",
