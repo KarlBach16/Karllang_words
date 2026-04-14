@@ -197,12 +197,22 @@ const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
   ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "ko"]
   : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru"];
+const UI_LANG_CODES = ["ko", "en", "de", "es", "fr", "it", "pt", "ja", "zh", "ru"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
   if (!ALLOWED_STUDY_LANGS.includes(lang)) {
     SETTINGS.studyLang = "de";
     // 저장값까지 즉시 정리 (다음 실행 때도 유지되도록)
+    saveSettings();
+  }
+}
+
+function sanitizeUiLang() {
+  const lang = (SETTINGS.uiLang || "ko").toLowerCase();
+  if (!UI_LANG_CODES.includes(lang)) {
+    SETTINGS.uiLang = "ko";
+    CURRENT_LANG = SETTINGS.uiLang;
     saveSettings();
   }
 }
@@ -874,7 +884,8 @@ function loadSettings() {
     SETTINGS.uiLang = guessed;
     CURRENT_LANG = SETTINGS.uiLang;
 
-    // ✅ v1: 학습 언어 강제 정리(안전장치)
+    // ✅ UI/학습 언어 강제 정리(안전장치)
+    sanitizeUiLang();
     sanitizeStudyLang();
 
     return;
@@ -892,8 +903,8 @@ function loadSettings() {
 
     CURRENT_LANG = SETTINGS.uiLang || "ko";
 
-    // ✅ v1: 저장값에 en/ko가 남아있어도 de로 강제 정리
-    // (반드시 아래 'study' 계산보다 먼저!)
+    // ✅ 저장값 강제 정리
+    sanitizeUiLang();
     sanitizeStudyLang();
 
     // ✅ 단어 데이터 버전이 바뀌었으면, 해당 학습 언어 데이터 초기화
@@ -914,6 +925,7 @@ function loadSettings() {
     CURRENT_LANG = SETTINGS.uiLang || "ko";
 
     // ✅ 파싱 실패 시에도 강제 정리
+    sanitizeUiLang();
     sanitizeStudyLang();
   }
 }
@@ -1297,7 +1309,7 @@ function updateStudyStartSummary() {
 function populateUiLangSelect(selectEl) {
   selectEl.innerHTML = "";
 
-  for (const code in LANG_META) {
+  for (const code of UI_LANG_CODES) {
     const opt = document.createElement("option");
     opt.value = code;
     opt.textContent = LANG_META[code].name_local;
