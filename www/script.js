@@ -29,6 +29,10 @@ const WORDS_PT_A1_SAFE = typeof WORDS_PT_A1 !== "undefined" ? WORDS_PT_A1 : [];
 const WORDS_PT_A2_SAFE = typeof WORDS_PT_A2 !== "undefined" ? WORDS_PT_A2 : [];
 const WORDS_PT_B1_SAFE = typeof WORDS_PT_B1 !== "undefined" ? WORDS_PT_B1 : [];
 const WORDS_PT_B2_SAFE = typeof WORDS_PT_B2 !== "undefined" ? WORDS_PT_B2 : [];
+const WORDS_PL_A1_SAFE = typeof WORDS_PL_A1 !== "undefined" ? WORDS_PL_A1 : [];
+const WORDS_PL_A2_SAFE = typeof WORDS_PL_A2 !== "undefined" ? WORDS_PL_A2 : [];
+const WORDS_PL_B1_SAFE = typeof WORDS_PL_B1 !== "undefined" ? WORDS_PL_B1 : [];
+const WORDS_PL_B2_SAFE = typeof WORDS_PL_B2 !== "undefined" ? WORDS_PL_B2 : [];
 const WORDS_NL_A1_SAFE = typeof WORDS_NL_A1 !== "undefined" ? WORDS_NL_A1 : [];
 const WORDS_NL_A2_SAFE = typeof WORDS_NL_A2 !== "undefined" ? WORDS_NL_A2 : [];
 const WORDS_NL_B1_SAFE = typeof WORDS_NL_B1 !== "undefined" ? WORDS_NL_B1 : [];
@@ -74,6 +78,13 @@ const ALL_WORDS_PT = [
   ...WORDS_PT_A2_SAFE,
   ...WORDS_PT_B1_SAFE,
   ...WORDS_PT_B2_SAFE,
+];
+
+const ALL_WORDS_PL = [
+  ...WORDS_PL_A1_SAFE,
+  ...WORDS_PL_A2_SAFE,
+  ...WORDS_PL_B1_SAFE,
+  ...WORDS_PL_B2_SAFE,
 ];
 
 const ALL_WORDS_NL = [
@@ -173,8 +184,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "pt", "nl", "ko"]
-  : ["de", "es", "en", "fr", "it", "pt", "nl"];
+  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ko"]
+  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl"];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -245,6 +256,7 @@ const LANG_META = {
   fr: { name_local: "Français", name_en: "French" },
   it: { name_local: "Italiano", name_en: "Italian" },
   pt: { name_local: "Português", name_en: "Portuguese" },
+  pl: { name_local: "Polski", name_en: "Polish" },
   nl: { name_local: "Nederlands", name_en: "Dutch" },
   ja: { name_local: "日本語", name_en: "Japanese" },
   zh: { name_local: "中文", name_en: "Chinese" },
@@ -1707,6 +1719,9 @@ function applyTranslations() {
       if (code === "pt") {
         return t().study_lang_pt || localName || "Português";
       }
+      if (code === "pl") {
+        return t().study_lang_pl || localName || "Polski";
+      }
       if (code === "nl") {
         return t().study_lang_nl || localName || "Nederlands";
       }
@@ -1773,6 +1788,7 @@ function applyTranslations() {
     fr: pack.study_lang_fr || "Français",
     it: pack.study_lang_it || "Italiano",
     pt: pack.study_lang_pt || "Português",
+    pl: pack.study_lang_pl || "Polski",
     nl: pack.study_lang_nl || "Nederlands",
     ko: pack.study_lang_ko || "한국어",
   };
@@ -1863,6 +1879,7 @@ function getAllWords() {
   if (study === "fr") return ALL_WORDS_FR || [];
   if (study === "it") return ALL_WORDS_IT || [];
   if (study === "pt") return ALL_WORDS_PT || [];
+  if (study === "pl") return ALL_WORDS_PL || [];
   if (study === "nl") return ALL_WORDS_NL || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
@@ -3224,6 +3241,7 @@ function getTtsLangCode(studyLang) {
   if (target === "en") return "en-US";
   if (target === "ko") return "ko-KR";
   if (target === "es") return "es-ES";
+  if (target === "pl") return "pl-PL";
   if (target === "nl") return "nl-NL";
   return "de-DE";
 }
