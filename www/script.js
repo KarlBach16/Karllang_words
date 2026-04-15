@@ -41,6 +41,10 @@ const WORDS_RU_A1_SAFE = typeof WORDS_RU_A1 !== "undefined" ? WORDS_RU_A1 : [];
 const WORDS_RU_A2_SAFE = typeof WORDS_RU_A2 !== "undefined" ? WORDS_RU_A2 : [];
 const WORDS_RU_B1_SAFE = typeof WORDS_RU_B1 !== "undefined" ? WORDS_RU_B1 : [];
 const WORDS_RU_B2_SAFE = typeof WORDS_RU_B2 !== "undefined" ? WORDS_RU_B2 : [];
+const WORDS_SV_A1_SAFE = typeof WORDS_SV_A1 !== "undefined" ? WORDS_SV_A1 : [];
+const WORDS_SV_A2_SAFE = typeof WORDS_SV_A2 !== "undefined" ? WORDS_SV_A2 : [];
+const WORDS_SV_B1_SAFE = typeof WORDS_SV_B1 !== "undefined" ? WORDS_SV_B1 : [];
+const WORDS_SV_B2_SAFE = typeof WORDS_SV_B2 !== "undefined" ? WORDS_SV_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -103,6 +107,13 @@ const ALL_WORDS_RU = [
   ...WORDS_RU_A2_SAFE,
   ...WORDS_RU_B1_SAFE,
   ...WORDS_RU_B2_SAFE,
+];
+
+const ALL_WORDS_SV = [
+  ...WORDS_SV_A1_SAFE,
+  ...WORDS_SV_A2_SAFE,
+  ...WORDS_SV_B1_SAFE,
+  ...WORDS_SV_B2_SAFE,
 ];
 
 /* ============================================
@@ -195,8 +206,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "ko"]
-  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru"];
+  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko"]
+  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv"];
 const UI_LANG_CODES = ["ko", "en", "de", "es", "fr", "it", "pt", "ja", "zh", "ru"];
 
 function sanitizeStudyLang() {
@@ -282,6 +293,7 @@ const LANG_META = {
   ja: { name_local: "日本語", name_en: "Japanese" },
   zh: { name_local: "中文", name_en: "Chinese" },
   ru: { name_local: "Русский", name_en: "Russian" },
+  sv: { name_local: "Svenska", name_en: "Swedish" },
 };
 
 // ✅ UI 언어 드롭다운 라벨: UI 언어 기준으로 이름 바꾸기
@@ -1771,6 +1783,9 @@ function applyTranslations() {
       if (code === "ru") {
         return t().study_lang_ru || localName || "Русский";
       }
+      if (code === "sv") {
+        return t().study_lang_sv || localName || "Svenska";
+      }
       if (code === "ko") {
         return t().study_lang_ko || localName || "한국어";
       }
@@ -1837,6 +1852,7 @@ function applyTranslations() {
     pl: pack.study_lang_pl || "Polski",
     nl: pack.study_lang_nl || "Nederlands",
     ru: pack.study_lang_ru || "Русский",
+    sv: pack.study_lang_sv || "Svenska",
     ko: pack.study_lang_ko || "한국어",
   };
 
@@ -1929,6 +1945,7 @@ function getAllWords() {
   if (study === "pl") return ALL_WORDS_PL || [];
   if (study === "nl") return ALL_WORDS_NL || [];
   if (study === "ru") return ALL_WORDS_RU || [];
+  if (study === "sv") return ALL_WORDS_SV || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
@@ -2448,6 +2465,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "rzeczownik",
       nl: "zelfstandig naamwoord",
       ru: "существительное",
+      sv: "substantiv",
       ja: "名詞",
       zh: "名词",
     },
@@ -2462,6 +2480,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "czasownik",
       nl: "werkwoord",
       ru: "глагол",
+      sv: "verb",
       ja: "動詞",
       zh: "动词",
     },
@@ -2476,6 +2495,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "przymiotnik",
       nl: "bijvoeglijk naamwoord",
       ru: "прилагательное",
+      sv: "adjektiv",
       ja: "形容詞",
       zh: "形容词",
     },
@@ -2490,6 +2510,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "przysłówek",
       nl: "bijwoord",
       ru: "наречие",
+      sv: "adverb",
       ja: "副詞",
       zh: "副词",
     },
@@ -2504,6 +2525,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "zaimek",
       nl: "voornaamwoord",
       ru: "местоимение",
+      sv: "pronomen",
       ja: "代名詞",
       zh: "代词",
     },
@@ -2518,6 +2540,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "rodzajnik",
       nl: "lidwoord",
       ru: "артикль",
+      sv: "artikel",
       ja: "冠詞",
       zh: "冠词",
     },
@@ -2532,6 +2555,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "przyimek",
       nl: "voorzetsel",
       ru: "предлог",
+      sv: "preposition",
       ja: "前置詞",
       zh: "介词",
     },
@@ -2546,6 +2570,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "spójnik",
       nl: "voegwoord",
       ru: "союз",
+      sv: "konjunktion",
       ja: "接続詞",
       zh: "连词",
     },
@@ -2560,6 +2585,7 @@ function getPosLabelForLang(posKey, lang) {
       pl: "wykrzyknik",
       nl: "tussenwerpsel",
       ru: "междометие",
+      sv: "interjektion",
       ja: "間投詞",
       zh: "感叹词",
     },
@@ -2586,17 +2612,12 @@ function getPosWithMeaning(word) {
   const studyLabel = posKey
     ? getPosLabelForLang(posKey, studyLang) || rawPos
     : rawPos;
-
-  const uiLabel = posKey ? getPosLabelForLang(posKey, uiLang) : "";
+  const uiLabel = posKey
+    ? getPosLabelForLang(posKey, uiLang) || studyLabel || rawPos
+    : (studyLabel || rawPos);
 
   if (studyLabel && uiLabel && studyLabel !== uiLabel) {
     return `${studyLabel} ${uiLabel}`;
-  }
-
-  if (studyLabel && uiLabel) {
-    const studyLangName = getUiLangLabel(studyLang, uiLang);
-    const uiLangName = getUiLangLabel(uiLang, uiLang);
-    return `${studyLangName}(${studyLabel}) ${uiLangName}(${uiLabel})`;
   }
 
   return studyLabel || uiLabel || rawPos;
@@ -3370,6 +3391,7 @@ function getTtsLangCode(studyLang) {
   if (target === "pl") return "pl-PL";
   if (target === "nl") return "nl-NL";
   if (target === "ru") return "ru-RU";
+  if (target === "sv") return "sv-SE";
   return "de-DE";
 }
 

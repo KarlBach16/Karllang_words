@@ -65,5 +65,20 @@ const LANG_CONFIG = {
       hyphen_variants: ["‐", "-", "–"],
       space_variants: [" ", " "]
     }
+  },
+  sv: {
+    input_rules: {
+      case_sensitive: false,
+      article_required: false,
+      accents_optional: false
+    },
+    orthography: {
+      capitalization: "NONE"
+    },
+    punctuation_normalize: {
+      apostrophe_variants: ["'", "'"],
+      hyphen_variants: ["‐", "-", "–"],
+      space_variants: [" ", " "]
+    }
   }
 };
