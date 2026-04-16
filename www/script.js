@@ -49,6 +49,10 @@ const WORDS_KO_A1_SAFE = typeof WORDS_KO_A1 !== "undefined" ? WORDS_KO_A1 : [];
 const WORDS_KO_A2_SAFE = typeof WORDS_KO_A2 !== "undefined" ? WORDS_KO_A2 : [];
 const WORDS_KO_B1_SAFE = typeof WORDS_KO_B1 !== "undefined" ? WORDS_KO_B1 : [];
 const WORDS_KO_B2_SAFE = typeof WORDS_KO_B2 !== "undefined" ? WORDS_KO_B2 : [];
+const WORDS_JA_A1_SAFE = typeof WORDS_JA_A1 !== "undefined" ? WORDS_JA_A1 : [];
+const WORDS_JA_A2_SAFE = typeof WORDS_JA_A2 !== "undefined" ? WORDS_JA_A2 : [];
+const WORDS_JA_B1_SAFE = typeof WORDS_JA_B1 !== "undefined" ? WORDS_JA_B1 : [];
+const WORDS_JA_B2_SAFE = typeof WORDS_JA_B2 !== "undefined" ? WORDS_JA_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -124,6 +128,12 @@ const ALL_WORDS_KO = [
   ...WORDS_KO_A2_SAFE,
   ...WORDS_KO_B1_SAFE,
   ...WORDS_KO_B2_SAFE,
+];
+const ALL_WORDS_JA = [
+  ...WORDS_JA_A1_SAFE,
+  ...WORDS_JA_A2_SAFE,
+  ...WORDS_JA_B1_SAFE,
+  ...WORDS_JA_B2_SAFE,
 ];
 
 /* ============================================
@@ -216,8 +226,8 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko"]
-  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko"];
+  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko", "ja"]
+  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko", "ja"];
 const UI_LANG_CODES = ["ko", "en", "de", "es", "fr", "it", "pt", "ja", "zh", "ru"];
 
 function sanitizeStudyLang() {
@@ -1871,6 +1881,7 @@ function applyTranslations() {
     ru: pack.study_lang_ru || "Русский",
     sv: pack.study_lang_sv || "Svenska",
     ko: pack.study_lang_ko || "한국어",
+    ja: pack.study_lang_ja || "日本語",
   };
 
   if (DOM.startStudyLang) {
@@ -1964,6 +1975,7 @@ function getAllWords() {
   if (study === "ru") return ALL_WORDS_RU || [];
   if (study === "sv") return ALL_WORDS_SV || [];
   if (study === "ko") return ALL_WORDS_KO || [];
+  if (study === "ja") return ALL_WORDS_JA || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
@@ -3410,6 +3422,7 @@ function getTtsLangCode(studyLang) {
   if (target === "nl") return "nl-NL";
   if (target === "ru") return "ru-RU";
   if (target === "sv") return "sv-SE";
+  if (target === "ja") return "ja-JP";
   return "de-DE";
 }
 
