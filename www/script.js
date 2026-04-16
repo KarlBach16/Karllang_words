@@ -45,6 +45,10 @@ const WORDS_SV_A1_SAFE = typeof WORDS_SV_A1 !== "undefined" ? WORDS_SV_A1 : [];
 const WORDS_SV_A2_SAFE = typeof WORDS_SV_A2 !== "undefined" ? WORDS_SV_A2 : [];
 const WORDS_SV_B1_SAFE = typeof WORDS_SV_B1 !== "undefined" ? WORDS_SV_B1 : [];
 const WORDS_SV_B2_SAFE = typeof WORDS_SV_B2 !== "undefined" ? WORDS_SV_B2 : [];
+const WORDS_KO_A1_SAFE = typeof WORDS_KO_A1 !== "undefined" ? WORDS_KO_A1 : [];
+const WORDS_KO_A2_SAFE = typeof WORDS_KO_A2 !== "undefined" ? WORDS_KO_A2 : [];
+const WORDS_KO_B1_SAFE = typeof WORDS_KO_B1 !== "undefined" ? WORDS_KO_B1 : [];
+const WORDS_KO_B2_SAFE = typeof WORDS_KO_B2 !== "undefined" ? WORDS_KO_B2 : [];
 
 const ALL_WORDS_DE = [
   ...WORDS_DE_A1_SAFE,
@@ -114,6 +118,12 @@ const ALL_WORDS_SV = [
   ...WORDS_SV_A2_SAFE,
   ...WORDS_SV_B1_SAFE,
   ...WORDS_SV_B2_SAFE,
+];
+const ALL_WORDS_KO = [
+  ...WORDS_KO_A1_SAFE,
+  ...WORDS_KO_A2_SAFE,
+  ...WORDS_KO_B1_SAFE,
+  ...WORDS_KO_B2_SAFE,
 ];
 
 /* ============================================
@@ -207,7 +217,7 @@ const DEFAULT_SETTINGS = {
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
   ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko"]
-  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv"];
+  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko"];
 const UI_LANG_CODES = ["ko", "en", "de", "es", "fr", "it", "pt", "ja", "zh", "ru"];
 
 function sanitizeStudyLang() {
@@ -719,6 +729,12 @@ function cacheDOM() {
     B1: document.getElementById("cefrCountB1"),
     B2: document.getElementById("cefrCountB2"),
   };
+  DOM.cefrLabels = {
+    A1: document.querySelector('.cefr-row[data-level="A1"] .cefr-label'),
+    A2: document.querySelector('.cefr-row[data-level="A2"] .cefr-label'),
+    B1: document.querySelector('.cefr-row[data-level="B1"] .cefr-label'),
+    B2: document.querySelector('.cefr-row[data-level="B2"] .cefr-label'),
+  };
 
   // 단어장
   DOM.wordbookList = document.getElementById("wordbookList");
@@ -1123,11 +1139,10 @@ function isEastAsiaStudy() {
 }
 
 /**
- * CEFR 값("all", "A1"~"C2")을
- *   - 기본: CEFR 그대로
- *   - 학습언어가 동아시아일 때:
- *        · UI도 동아시아  → "초급 1 (A1)" 식
- *        · UI는 비동아시아 → "Beginner 1 (A1)" 식
+ * CEFR 값 표시용 포맷터
+ * - 기본(비 동아시아 학습언어): A1/A2/B1/B2 그대로
+ * - 동아시아 학습언어(ko/zh/ja): 표시만 초급1/2, 중급1/2 계열로 변환
+ * - 내부 저장/필터 값은 A1/A2/B1/B2 유지
  */
 function formatCefrLabelForDisplay(rawValue, pack) {
   const vRaw = (rawValue || "").toString();
@@ -1148,7 +1163,7 @@ function formatCefrLabelForDisplay(rawValue, pack) {
     return pack.new_word_cefr_all || "All levels";
   }
 
-  const KNOWN = ["A1", "A2", "B1", "B2", "C1", "C2"];
+  const KNOWN = ["A1", "A2", "B1", "B2"];
   if (!KNOWN.includes(v)) {
     // 이상한 값이 들어오면 그냥 원문 돌려보냄
     return v;
@@ -1159,8 +1174,8 @@ function formatCefrLabelForDisplay(rawValue, pack) {
     return v;
   }
 
-  // 숫자(1/2) 결정: A1/B1/C1 → 1, A2/B2/C2 → 2
-  const num = v === "A1" || v === "B1" || v === "C1" ? "1" : "2";
+  // 숫자(1/2) 결정: A1/B1 → 1, A2/B2 → 2
+  const num = v === "A1" || v === "B1" ? "1" : "2";
 
   let grade = "";
 
@@ -1174,10 +1189,6 @@ function formatCefrLabelForDisplay(rawValue, pack) {
       if (lang === "ko") grade = "중급";
       else if (lang === "zh") grade = "中级";
       else if (lang === "ja") grade = "中級";
-    } else if (v === "C1" || v === "C2") {
-      if (lang === "ko") grade = "고급";
-      else if (lang === "zh") grade = "高级";
-      else if (lang === "ja") grade = "上級";
     }
   } else {
     // UI가 비동아시아일 때: Beginner / Intermediate / Advanced
@@ -1189,10 +1200,6 @@ function formatCefrLabelForDisplay(rawValue, pack) {
       if (lang === "de") grade = "Mittelstufe";
       else if (lang === "es") grade = "Intermedio";
       else grade = "Intermediate";
-    } else if (v === "C1" || v === "C2") {
-      if (lang === "de") grade = "Fortgeschritten";
-      else if (lang === "es") grade = "Avanzado";
-      else grade = "Advanced";
     }
   }
 
@@ -1200,16 +1207,25 @@ function formatCefrLabelForDisplay(rawValue, pack) {
   if (!grade) return v;
 
   // 예:
-  //  - ko UI + ko 학습: "초급 1 (A1)"
-  //  - en UI + ko 학습: "Beginner 1 (A1)"
-  //  - de UI + ko 학습: "Anfänger 1 (A1)"
-  return `${grade} ${num} (${v})`;
+  //  - ko UI + ko 학습: "초급 1"
+  //  - en UI + ko 학습: "Beginner 1"
+  //  - de UI + ko 학습: "Anfänger 1"
+  return `${grade} ${num}`;
 }
 
 // ✅ CEFR 값 표시용 공통 헬퍼
 function getCefrDisplayLabel(value) {
   const pack = t() || {};
   return formatCefrLabelForDisplay(value, pack);
+}
+
+function refreshCefrRowLabels() {
+  if (!DOM.cefrLabels) return;
+  ["A1", "A2", "B1", "B2"].forEach((lvl) => {
+    const el = DOM.cefrLabels[lvl];
+    if (!el) return;
+    el.textContent = getCefrDisplayLabel(lvl);
+  });
 }
 
 // ✅ 학습 시작 요약 문구 (모드 + 목표 + CEFR)
@@ -1623,6 +1639,7 @@ function applyTranslations() {
       opt.textContent = getCefrDisplayLabel(v);
     });
   }
+  refreshCefrRowLabels();
 
   // 틀린 단어 뷰
   if (DOM.vocabViewTitle) {
@@ -1946,6 +1963,7 @@ function getAllWords() {
   if (study === "nl") return ALL_WORDS_NL || [];
   if (study === "ru") return ALL_WORDS_RU || [];
   if (study === "sv") return ALL_WORDS_SV || [];
+  if (study === "ko") return ALL_WORDS_KO || [];
   if (study === "es") return ALL_WORDS_ES || [];
   if (study === "de") return ALL_WORDS_DE || [];
   return ALL_WORDS_DE || [];
