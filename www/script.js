@@ -2481,15 +2481,17 @@ function normalizePosKey(rawPos) {
   if (!rawPos) return "";
   const s = rawPos.toString().trim().toLowerCase();
 
-  if (["nomen", "noun"].includes(s)) return "noun";
-  if (["verb", "verben"].includes(s)) return "verb";
-  if (["adjektiv", "adjective"].includes(s)) return "adj";
-  if (["adverb"].includes(s)) return "adv";
-  if (["pronomen", "pronoun"].includes(s)) return "pron";
-  if (["artikel", "article"].includes(s)) return "art";
+  if (["nomen", "noun", "명사", "名詞"].includes(s)) return "noun";
+  if (["verb", "verben", "동사", "動詞"].includes(s)) return "verb";
+  if (["adjektiv", "adjective", "형용사", "形容詞"].includes(s))
+    return "adj";
+  if (["adverb", "부사", "副詞"].includes(s)) return "adv";
+  if (["pronomen", "pronoun", "대명사", "代名詞"].includes(s)) return "pron";
+  if (["artikel", "article", "관사", "冠詞"].includes(s)) return "art";
   if (["präposition", "praeposition", "preposition"].includes(s)) return "prep";
   if (["konjunktion", "conjunction"].includes(s)) return "conj";
   if (["interjektion", "interjection"].includes(s)) return "interj";
+  if (["partikel", "particle"].includes(s)) return "part";
 
   return "";
 }
@@ -2630,6 +2632,21 @@ function getPosLabelForLang(posKey, lang) {
       sv: "interjektion",
       ja: "間投詞",
       zh: "感叹词",
+    },
+    part: {
+      de: "Partikel",
+      en: "particle",
+      ko: "조사",
+      es: "partícula",
+      fr: "particule",
+      it: "particella",
+      pt: "partícula",
+      pl: "partykuła",
+      nl: "partikel",
+      ru: "частица",
+      sv: "partikel",
+      ja: "助詞",
+      zh: "助词",
     },
   };
 
