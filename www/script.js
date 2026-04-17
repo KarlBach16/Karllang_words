@@ -1215,10 +1215,24 @@ function formatCefrLabelForDisplay(rawValue, pack) {
     if (v === "A1" || v === "A2") {
       if (lang === "de") grade = "Anfänger";
       else if (lang === "es") grade = "Principiante";
+      else if (lang === "fr") grade = "Débutant";
+      else if (lang === "it") grade = "Principiante";
+      else if (lang === "pt") grade = "Iniciante";
+      else if (lang === "ru") grade = "Начальный";
+      else if (lang === "nl") grade = "Beginner";
+      else if (lang === "pl") grade = "Początkujący";
+      else if (lang === "sv") grade = "Nybörjare";
       else grade = "Beginner";
     } else if (v === "B1" || v === "B2") {
       if (lang === "de") grade = "Mittelstufe";
       else if (lang === "es") grade = "Intermedio";
+      else if (lang === "fr") grade = "Intermédiaire";
+      else if (lang === "it") grade = "Intermedio";
+      else if (lang === "pt") grade = "Intermediário";
+      else if (lang === "ru") grade = "Средний";
+      else if (lang === "nl") grade = "Gemiddeld";
+      else if (lang === "pl") grade = "Średniozaawansowany";
+      else if (lang === "sv") grade = "Mellan";
       else grade = "Intermediate";
     }
   }
