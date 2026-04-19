@@ -280,12 +280,7 @@ let TTS_READY = false;
 let TTS_VOICE = null;
 let TTS_WARNED_UNSUPPORTED = false;
 const NativeTTS = window.Capacitor
-  ? (window.Capacitor.Plugins &&
-      (window.Capacitor.Plugins.TextToSpeech ||
-        window.Capacitor.Plugins.TTS ||
-        window.Capacitor.Plugins.SpeechSynthesis)) ||
-    window.Capacitor.TextToSpeech ||
-    null
+  ? (window.Capacitor.Plugins && window.Capacitor.Plugins.NativeTTS) || null
   : null;
 // ✅ 일반 학습 세션에서 뽑은 단어들 공유용
 let LAST_STUDY_WORD_IDS = [];
@@ -3493,11 +3488,19 @@ function getTtsLangCode(studyLang) {
 }
 
 function hasNativeTtsSupport() {
+  if (!NativeTTS) return false;
+
   const platform =
     window.Capacitor && typeof window.Capacitor.getPlatform === "function"
       ? window.Capacitor.getPlatform()
       : "web";
-  return platform === "android" && !!(NativeTTS && typeof NativeTTS.speak === "function");
+  const isNativeRuntime = platform === "android" || platform === "ios";
+  return (
+    isNativeRuntime &&
+    typeof NativeTTS.speak === "function" &&
+    typeof NativeTTS.stop === "function" &&
+    typeof NativeTTS.isAvailable === "function"
+  );
 }
 
 // 🔊 스피커 버튼 활성/비활성 반영
@@ -3654,34 +3657,18 @@ function initTtsVoices() {
   }
 }
 
-function speakGerman(text) {
-  if (!text) return;
-  if (SETTINGS.soundEnabled === false) return;
-
-  const targetLangCode = getTtsLangCode(SETTINGS.studyLang || "de");
-  const targetLang = (SETTINGS.studyLang || "de").toLowerCase();
-  const hasWebSpeech = "speechSynthesis" in window;
-
-  // 가능하면 Web Speech(voice 선택 가능)를 우선 사용해 여성 보이스 선호를 적용
-  const preferWebSpeech = hasWebSpeech;
-
-  // 1) 네이티브 TTS 플러그인 우선 (단, 영어는 Web Speech 우선)
-  if (!preferWebSpeech && hasNativeTtsSupport()) {
-    NativeTTS.speak({
-      text,
-      lang: targetLangCode,
-      rate: 1.0,
-      pitch: 1.0,
-      volume: 1.0,
-    })
-      .then(() => {})
-      .catch((e) => {
-        console.warn("Native TTS failed, fallback to Web Speech", e);
-      });
-    return;
+async function isNativeTtsAvailable(lang) {
+  if (!hasNativeTtsSupport()) return false;
+  try {
+    const ret = await NativeTTS.isAvailable({ lang });
+    return !!(ret && ret.available);
+  } catch (e) {
+    console.warn("Native TTS isAvailable failed", e);
+    return false;
   }
+}
 
-  // 2) Web Speech fallback
+function speakWithWebSpeech(text, targetLang, targetLangCode) {
   if (!("speechSynthesis" in window)) {
     TTS_SUPPORTED = false;
     TTS_READY = false;
@@ -3713,7 +3700,7 @@ function speakGerman(text) {
     utter.voice = TTS_VOICE;
     utter.lang = TTS_VOICE.lang || "de-DE";
   } else {
-    utter.lang = getTtsLangCode(targetLang);
+    utter.lang = targetLangCode;
   }
 
   utter.rate = 0.95;
@@ -3724,6 +3711,37 @@ function speakGerman(text) {
 
   window.speechSynthesis.cancel();
   window.speechSynthesis.speak(utter);
+}
+
+function speakGerman(text) {
+  if (!text) return;
+  if (SETTINGS.soundEnabled === false) return;
+
+  const targetLangCode = getTtsLangCode(SETTINGS.studyLang || "de");
+  const targetLang = (SETTINGS.studyLang || "de").toLowerCase();
+
+  // 1) 앱(iOS/Android)에서는 네이티브 TTS 우선
+  if (hasNativeTtsSupport()) {
+    isNativeTtsAvailable(targetLangCode)
+      .then((available) => {
+        if (!available) {
+          speakWithWebSpeech(text, targetLang, targetLangCode);
+          return;
+        }
+        return NativeTTS.speak({ text, lang: targetLangCode }).catch((e) => {
+          console.warn("Native TTS failed, fallback to Web Speech", e);
+          speakWithWebSpeech(text, targetLang, targetLangCode);
+        });
+      })
+      .catch((e) => {
+        console.warn("Native TTS availability check failed", e);
+        speakWithWebSpeech(text, targetLang, targetLangCode);
+      });
+    return;
+  }
+
+  // 2) 웹/PWA에서는 기존 Web Speech fallback 유지
+  speakWithWebSpeech(text, targetLang, targetLangCode);
 }
 
 function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
