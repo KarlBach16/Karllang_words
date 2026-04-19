@@ -4795,6 +4795,10 @@ function handleConfirm() {
         pack.no_words_today || "오늘은 학습할 단어가 없습니다.";
       return;
     }
+    logEvent("start_session", {
+      lang: SETTINGS.studyLang,
+      mode: SETTINGS.mode,
+    });
     showNextQuestion();
     return;
   }
@@ -5324,6 +5328,10 @@ function saveStats(statsForCurrentLang) {
 
 function showEndStats() {
   setPhase("FINISHED");
+  logEvent("complete_session", {
+    lang: SETTINGS.studyLang,
+    mode: SETTINGS.mode,
+  });
   DOM.mainCard.style.display = "none";
   DOM.endStatsArea.style.display = "block";
 
@@ -5993,6 +6001,17 @@ async function openFeedbackMail() {
   window.location.href = href;
 }
 
+async function logEvent(name, params = {}) {
+  const nativeAnalytics = window.Capacitor?.Plugins?.NativeAnalytics;
+  if (window.Capacitor?.isNativePlatform?.() && nativeAnalytics?.logEvent) {
+    try {
+      await nativeAnalytics.logEvent({ name, params });
+    } catch (e) {
+      console.error("[analytics] error", e);
+    }
+  }
+}
+
 /* ============================================
    ========== 12. EVENT BINDINGS ==============
    ============================================ */
@@ -6327,6 +6346,9 @@ function attachEvents() {
   if (DOM.settingsStudyLang) {
     DOM.settingsStudyLang.addEventListener("change", () => {
       SETTINGS.studyLang = DOM.settingsStudyLang.value;
+      logEvent("select_study_language", {
+        lang: SETTINGS.studyLang,
+      });
       saveSettings();
       initTtsVoices();
 
