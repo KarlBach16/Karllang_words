@@ -236,9 +236,48 @@ const DEFAULT_SETTINGS = {
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
 const ALLOWED_STUDY_LANGS = ENABLE_MULTI_STUDY_LANG
-  ? ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko", "ja", "zh"]
-  : ["de", "es", "en", "fr", "it", "pt", "pl", "nl", "ru", "sv", "ko", "ja", "zh"];
-const UI_LANG_CODES = ["ko", "en", "de", "es", "fr", "it", "pt", "ja", "zh", "ru"];
+  ? [
+      "de",
+      "es",
+      "en",
+      "fr",
+      "it",
+      "pt",
+      "pl",
+      "nl",
+      "ru",
+      "sv",
+      "ko",
+      "ja",
+      "zh",
+    ]
+  : [
+      "de",
+      "es",
+      "en",
+      "fr",
+      "it",
+      "pt",
+      "pl",
+      "nl",
+      "ru",
+      "sv",
+      "ko",
+      "ja",
+      "zh",
+    ];
+const UI_LANG_CODES = [
+  "ko",
+  "en",
+  "de",
+  "es",
+  "fr",
+  "it",
+  "pt",
+  "ja",
+  "zh",
+  "ru",
+];
 
 function sanitizeStudyLang() {
   const lang = (SETTINGS.studyLang || "de").toLowerCase();
@@ -633,7 +672,10 @@ function handleAndroidBack() {
 
   // 3) 학습 세션 진행 중이면 → 확인 후 홈으로
   if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
-    const msg = trKey("confirm.exit_session", "지금 학습을 끝내고 홈으로 돌아갈까요?");
+    const msg = trKey(
+      "confirm.exit_session",
+      "지금 학습을 끝내고 홈으로 돌아갈까요?",
+    );
     if (window.confirm(msg)) {
       showReadyState();
       showView("study");
@@ -2514,8 +2556,7 @@ function normalizePosKey(rawPos) {
 
   if (["nomen", "noun", "명사", "名詞"].includes(s)) return "noun";
   if (["verb", "verben", "동사", "動詞"].includes(s)) return "verb";
-  if (["adjektiv", "adjective", "형용사", "形容詞"].includes(s))
-    return "adj";
+  if (["adjektiv", "adjective", "형용사", "形容詞"].includes(s)) return "adj";
   if (["adverb", "부사", "副詞"].includes(s)) return "adv";
   if (["pronomen", "pronoun", "대명사", "代名詞"].includes(s)) return "pron";
   if (["artikel", "article", "관사", "冠詞"].includes(s)) return "art";
@@ -2704,7 +2745,7 @@ function getPosWithMeaning(word) {
     : rawPos;
   const uiLabel = posKey
     ? getPosLabelForLang(posKey, uiLang) || studyLabel || rawPos
-    : (studyLabel || rawPos);
+    : studyLabel || rawPos;
 
   if (studyLabel && uiLabel && studyLabel !== uiLabel) {
     return `${studyLabel} ${uiLabel}`;
@@ -3521,12 +3562,12 @@ function pickTtsVoiceForLang(voices, studyLang) {
     lang === "de"
       ? ["de-"]
       : lang === "en"
-        ? ["en-us", "en-gb", "en-"]
-        : lang === "ko"
-          ? ["ko-"]
-          : lang === "es"
-            ? ["es-"]
-            : [lang + "-"];
+      ? ["en-us", "en-gb", "en-"]
+      : lang === "ko"
+      ? ["ko-"]
+      : lang === "es"
+      ? ["es-"]
+      : [lang + "-"];
 
   const lower = (s) => (s || "").toLowerCase();
   const badNameTokens = [
@@ -6032,7 +6073,8 @@ function attachEvents() {
 
       const clickedInMenu = DOM.sideMenu.contains(target);
       const clickedToggle =
-        DOM.menuToggle && (target === DOM.menuToggle || DOM.menuToggle.contains(target));
+        DOM.menuToggle &&
+        (target === DOM.menuToggle || DOM.menuToggle.contains(target));
       if (!clickedInMenu && !clickedToggle) {
         closeMenu();
       }
