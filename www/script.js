@@ -523,6 +523,22 @@ function getUiLangLabel(code, uiLang) {
   }
 }
 
+function getFeedbackButtonLabel(uiLang) {
+  const map = {
+    ko: "피드백 보내기",
+    en: "Send Feedback",
+    de: "Feedback senden",
+    es: "Enviar comentarios",
+    fr: "Envoyer un retour",
+    it: "Invia feedback",
+    pt: "Enviar feedback",
+    ja: "フィードバックを送る",
+    zh: "发送反馈",
+    ru: "Отправить отзыв",
+  };
+  return map[uiLang] || map.en;
+}
+
 function refreshUiLangSelectLabels() {
   const uiLang = CURRENT_LANG || "ko";
   [DOM.startUiLang, DOM.settingsUiLang].forEach((select) => {
@@ -784,6 +800,7 @@ function cacheDOM() {
   DOM.soundToggleLabel = document.getElementById("soundToggleLabel");
   DOM.hapticToggle = document.getElementById("hapticToggle");
   DOM.hapticToggleLabel = document.getElementById("hapticToggleLabel");
+  DOM.settingsFeedbackBtn = document.getElementById("settingsFeedbackBtn");
 
   // 사용자 뷰 제목/라벨
   DOM.userViewTitle = document.querySelector("#userView .view-title");
@@ -1890,6 +1907,11 @@ function applyTranslations() {
   // 진동(햅틱) 토글 라벨
   if (DOM.hapticToggleLabel) {
     DOM.hapticToggleLabel.textContent = trKey("settings.haptic.label", "진동");
+  }
+  if (DOM.settingsFeedbackBtn) {
+    DOM.settingsFeedbackBtn.textContent = getFeedbackButtonLabel(
+      CURRENT_LANG || "en",
+    );
   }
 
   // 학습 언어 드롭다운 표시용 텍스트
@@ -5829,6 +5851,89 @@ function showView(view) {
   }
 }
 
+function detectOsName() {
+  const ua = (navigator.userAgent || "").toLowerCase();
+
+  if (ua.includes("android")) return "Android";
+  if (ua.includes("iphone") || ua.includes("ipad") || ua.includes("ipod"))
+    return "iOS";
+  if (ua.includes("windows nt")) return "Windows";
+  if (ua.includes("mac os x")) return "macOS";
+  if (ua.includes("linux")) return "Linux";
+  return "unknown";
+}
+
+function detectDeviceName() {
+  const ua = (navigator.userAgent || "").toLowerCase();
+
+  if (ua.includes("iphone")) return "iPhone";
+  if (ua.includes("ipad")) return "iPad";
+  if (ua.includes("android")) return "Android device";
+
+  if (window.Capacitor && typeof window.Capacitor.getPlatform === "function") {
+    const platform = window.Capacitor.getPlatform();
+    if (platform) return platform;
+  }
+
+  return "unknown";
+}
+
+let FEEDBACK_APP_VERSION_CACHE = null;
+
+async function getAppVersionForFeedback() {
+  if (FEEDBACK_APP_VERSION_CACHE) return FEEDBACK_APP_VERSION_CACHE;
+
+  if (NativeApp && typeof NativeApp.getInfo === "function") {
+    try {
+      const info = await NativeApp.getInfo();
+      const nativeVersion = info && (info.version || info.build);
+      if (nativeVersion) {
+        FEEDBACK_APP_VERSION_CACHE = String(nativeVersion);
+        return FEEDBACK_APP_VERSION_CACHE;
+      }
+    } catch (e) {}
+  }
+
+  if (typeof window !== "undefined") {
+    if (window.APP_VERSION) {
+      FEEDBACK_APP_VERSION_CACHE = String(window.APP_VERSION);
+      return FEEDBACK_APP_VERSION_CACHE;
+    }
+    if (window.__APP_VERSION__) {
+      FEEDBACK_APP_VERSION_CACHE = String(window.__APP_VERSION__);
+      return FEEDBACK_APP_VERSION_CACHE;
+    }
+  }
+
+  FEEDBACK_APP_VERSION_CACHE = "unknown";
+  return FEEDBACK_APP_VERSION_CACHE;
+}
+
+async function openFeedbackMail() {
+  const to = "karllang.app@gmail.com";
+  const subject = "KarlLang Feedback";
+  const uiLang = SETTINGS.uiLang || CURRENT_LANG || "unknown";
+  const studyLang = SETTINGS.studyLang || "unknown";
+  const appVersion = await getAppVersionForFeedback();
+  const device = detectDeviceName();
+  const os = detectOsName();
+
+  const body =
+    `App version: ${appVersion}\n` +
+    `UI language: ${uiLang}\n` +
+    `Study language: ${studyLang}\n` +
+    `Device: ${device}\n` +
+    `OS: ${os}\n\n` +
+    "Feedback:\n";
+
+  const href =
+    `mailto:${encodeURIComponent(to)}` +
+    `?subject=${encodeURIComponent(subject)}` +
+    `&body=${encodeURIComponent(body)}`;
+
+  window.location.href = href;
+}
+
 /* ============================================
    ========== 12. EVENT BINDINGS ==============
    ============================================ */
@@ -6137,6 +6242,10 @@ function attachEvents() {
 
       DOM.hapticToggle.classList.toggle("is-on", SETTINGS.hapticEnabled);
     });
+  }
+
+  if (DOM.settingsFeedbackBtn) {
+    DOM.settingsFeedbackBtn.addEventListener("click", openFeedbackMail);
   }
 
   if (DOM.settingsUiLang) {
