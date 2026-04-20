@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2550080438",
+    "project_id": "karllang-eb699",
+    "storage_bucket": "karllang-eb699.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2550080438:android:3a8399a1aa32dc98bfd717",
+        "android_client_info": {
+          "package_name": "com.karllang.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKp6HSunf805cgUAakjF6cxYr7yP00Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
