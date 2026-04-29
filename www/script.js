@@ -155,6 +155,8 @@ const STORAGE_KEYS = {
   SRS_PREFIX: "karllang_word_", // 여기는 그대로 두고
   STATS: "karllang_stats_v4", // ✅ 언어별 통계용 새 버전
   WORD_STATS: "karllang_word_stats_v4", // ✅ 언어별 북마크/틀린단어용 새 버전
+  DAILY_SUMMARY: "karllang_daily_summary_v1",
+  ATTENDANCE: "karllang_attendance_v1",
 };
 
 // HTML 안전하게 만들기용
@@ -308,6 +310,14 @@ const APP_STATE = {
   totalTarget: 0,
   newCount: 0,
   reviewCount: 0,
+  sessionMode: null,
+  sessionCorrectCount: 0,
+  sessionWrongCount: 0,
+  sessionHardCount: 0,
+  sessionNormalCount: 0,
+  sessionEasyCount: 0,
+  sessionSummarySaved: false,
+  sessionWrongWords: [],
   currentView: "study",
 };
 
@@ -333,6 +343,8 @@ let TRAINING_MODE_KIND = "none"; // "typing" | "copy" | "mix"
 let TRAINING_MIX_WORDS = []; // Mix 모드에서 쓸 단어 리스트
 let TRAINING_MIX_INDEX = 0; // 현재 몇 번째 단어인지
 let TRAINING_MIX_STEP = 0; // 0=카드, 1=카피, 2=타이핑
+let WRONG_PRACTICE_ACTIVE = false;
+let WRONG_PRACTICE_PREVIOUS_MODE = null;
 
 // 🔹 깜지(반복 따라쓰기) 모드 상태
 let TRAINING_CRAM_WORDS = []; // 깜지 대상 단어 리스트
@@ -776,9 +788,17 @@ function cacheDOM() {
   // 통계
   DOM.endStatsArea = document.getElementById("endStatsArea");
   DOM.endTitle = document.getElementById("endTitle");
+  DOM.endSummaryTitle = document.getElementById("endSummaryTitle");
   DOM.endTotal = document.getElementById("endTotal");
   DOM.endNew = document.getElementById("endNew");
   DOM.endReview = document.getElementById("endReview");
+  DOM.endCorrect = document.getElementById("endCorrect");
+  DOM.endWrong = document.getElementById("endWrong");
+  DOM.endEasy = document.getElementById("endEasy");
+  DOM.endWrongWordsBlock = document.getElementById("endWrongWordsBlock");
+  DOM.endWrongWordsTitle = document.getElementById("endWrongWordsTitle");
+  DOM.endWrongWordsList = document.getElementById("endWrongWordsList");
+  DOM.trainWrongBtn = document.getElementById("trainWrongBtn");
   DOM.restartBtn = document.getElementById("restartBtn");
 
   // 사용자 설정
@@ -788,6 +808,8 @@ function cacheDOM() {
   DOM.newWordCefrSelect = document.getElementById("newWordCefrSelect");
   DOM.newWordCategoryLabel = document.getElementById("newWordCategoryLabel");
   DOM.newWordCategorySelect = document.getElementById("newWordCategorySelect");
+  DOM.attendanceTitle = document.getElementById("attendanceTitle");
+  DOM.attendanceWeek = document.getElementById("attendanceWeek");
 
   // CEFR 진행도
   DOM.cefrBars = {
@@ -1650,6 +1672,8 @@ function applyTranslations() {
       "학습 설정",
     );
 
+  renderAttendance();
+
   // 사용자 설정 라벨
   if (DOM.modeLabel) {
     DOM.modeLabel.textContent = trKey("study.mode_label", "모드");
@@ -2192,6 +2216,102 @@ function nowDay() {
   return Math.floor(Date.now() / (1000 * 60 * 60 * 24));
 }
 
+function getLocalDateKey(date = new Date()) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const d = String(date.getDate()).padStart(2, "0");
+  return `${y}-${m}-${d}`;
+}
+
+function shiftLocalDate(date, days) {
+  const next = new Date(date);
+  next.setDate(next.getDate() + days);
+  return next;
+}
+
+function getWeekStartMonday(date = new Date()) {
+  const start = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  const day = start.getDay();
+  const diff = day === 0 ? -6 : 1 - day;
+  start.setDate(start.getDate() + diff);
+  return start;
+}
+
+function getAttendanceDates() {
+  const raw = safeGet(STORAGE_KEYS.ATTENDANCE);
+  if (!raw) return [];
+
+  try {
+    const parsed = JSON.parse(raw);
+    if (!parsed || !Array.isArray(parsed.dates)) return [];
+    return parsed.dates
+      .filter((date) => /^\d{4}-\d{2}-\d{2}$/.test(String(date)))
+      .sort();
+  } catch {
+    return [];
+  }
+}
+
+function saveAttendanceDates(dates) {
+  const uniqueDates = Array.from(new Set(dates)).sort();
+  safeSet(
+    STORAGE_KEYS.ATTENDANCE,
+    JSON.stringify({
+      dates: uniqueDates,
+    }),
+  );
+}
+
+function recordAttendanceForStudyStart() {
+  const today = getLocalDateKey();
+  const dates = getAttendanceDates();
+  if (dates.includes(today)) return;
+  dates.push(today);
+  saveAttendanceDates(dates);
+  renderAttendance();
+}
+
+function renderAttendance() {
+  if (!DOM.attendanceWeek) return;
+
+  const dates = getAttendanceDates();
+  const set = new Set(dates);
+  const weekStart = getWeekStartMonday();
+  const weekDates = Array.from({ length: 7 }, (_, idx) =>
+    getLocalDateKey(shiftLocalDate(weekStart, idx)),
+  );
+  const weekdayLabels = trKey("attendance_weekdays", "월 화 수 목 금 토 일")
+    .split(/\s+/)
+    .filter(Boolean);
+
+  if (DOM.attendanceTitle) {
+    DOM.attendanceTitle.textContent = trKey("attendance_title", "출석");
+  }
+
+  DOM.attendanceWeek.innerHTML = "";
+  weekDates.forEach((date, idx) => {
+    const item = document.createElement("div");
+    item.className = "attendance-day";
+    if (set.has(date)) {
+      item.classList.add("is-attended");
+    }
+    if (date === getLocalDateKey()) {
+      item.classList.add("is-today");
+    }
+
+    const label = document.createElement("div");
+    label.className = "attendance-day-label";
+    label.textContent = weekdayLabels[idx] || "";
+
+    const dot = document.createElement("div");
+    dot.className = "attendance-dot";
+
+    item.appendChild(label);
+    item.appendChild(dot);
+    DOM.attendanceWeek.appendChild(item);
+  });
+}
+
 /**
  * SETTINGS에 맞게 큐 구성
  */
@@ -2256,6 +2376,7 @@ function buildQueue() {
     APP_STATE.completed = 0;
     APP_STATE.newCount = 0;
     APP_STATE.reviewCount = 0;
+    resetSessionReport();
 
     return; // 🔚 여기서 끝. 아래 SRS 새 뽑기 로직은 건너뜀
   }
@@ -2341,6 +2462,7 @@ function buildQueue() {
   APP_STATE.completed = 0;
   APP_STATE.newCount = 0;
   APP_STATE.reviewCount = 0;
+  resetSessionReport();
 
   // ✅ 오늘 세션 세트 저장 (모드 공유용)
   LAST_STUDY_WORD_IDS = queue.map((item) => String(item.word.id));
@@ -2481,14 +2603,27 @@ function setPhase(phase) {
   APP_STATE.phase = phase;
 }
 
+function resetSessionReport() {
+  APP_STATE.sessionMode = SETTINGS.mode;
+  APP_STATE.sessionCorrectCount = 0;
+  APP_STATE.sessionWrongCount = 0;
+  APP_STATE.sessionHardCount = 0;
+  APP_STATE.sessionNormalCount = 0;
+  APP_STATE.sessionEasyCount = 0;
+  APP_STATE.sessionSummarySaved = false;
+  APP_STATE.sessionWrongWords = [];
+}
+
 function showReadyState() {
   setPhase("READY");
+  restoreWrongPracticeMode();
   APP_STATE.currentCard = null;
   APP_STATE.queue = [];
   APP_STATE.completed = 0;
   APP_STATE.totalTarget = 0;
   APP_STATE.newCount = 0;
   APP_STATE.reviewCount = 0;
+  resetSessionReport();
 
   if (DOM.mainCard) {
     DOM.mainCard.style.display = "block";
@@ -3177,6 +3312,8 @@ function showNextQuestion() {
     const isTrainingMode =
       (APP_STATE && APP_STATE.currentView === "training") ||
       (typeof TRAINING_MODE_ACTIVE !== "undefined" && TRAINING_MODE_ACTIVE) ||
+      (typeof WRONG_PRACTICE_ACTIVE !== "undefined" &&
+        WRONG_PRACTICE_ACTIVE) ||
       (typeof TRAINING_MODE_KIND !== "undefined" &&
         TRAINING_MODE_KIND !== "none");
 
@@ -3746,7 +3883,14 @@ function speakWithWebSpeech(text, targetLang, targetLangCode) {
 
   utter.rate = 0.95;
   utter.pitch = 1;
-  utter.onerror = () => {
+  utter.onerror = (event) => {
+    const error = event && event.error ? String(event.error) : "";
+    // macOS/Safari/Chrome can report the previous utterance as canceled or
+    // interrupted when we call cancel() before starting a new one. Playback of
+    // the new utterance can still succeed, so this is not an unsupported state.
+    if (error === "canceled" || error === "interrupted") {
+      return;
+    }
     showTtsWarning();
   };
 
@@ -3888,6 +4032,8 @@ function applyAnswerResult(isCorrect, item) {
   const word = item.word;
   const german = buildGermanForm(word);
   const meaningText = getMeaning(word);
+
+  item._sessionAnswerCorrect = isCorrect === true;
 
   // 피드백 텍스트
   if (DOM.feedback) {
@@ -4780,6 +4926,11 @@ function handleConfirm() {
     return;
   }
 
+  if (WRONG_PRACTICE_ACTIVE && APP_STATE.phase === "ANSWER") {
+    advanceWrongPracticeStep();
+    return;
+  }
+
   // 🔻 여기부터는 기존 코드 그대로 유지
   // 🔹 훈련소에서 정답 화면(ANSWER)일 때는 "다음" 버튼으로 스텝/단어 이동
   if (TRAINING_MODE_ACTIVE && APP_STATE.phase === "ANSWER") {
@@ -4799,6 +4950,7 @@ function handleConfirm() {
       lang: SETTINGS.studyLang,
       mode: SETTINGS.mode,
     });
+    recordAttendanceForStudyStart();
     showNextQuestion();
     return;
   }
@@ -4886,8 +5038,12 @@ function handleConfirm() {
     applyAnswerEffect(true);
 
     setPhase("ANSWER");
-    DOM.ratingArea.style.display = TRAINING_MODE_ACTIVE ? "none" : "block";
-    DOM.mainBtn.style.display = TRAINING_MODE_ACTIVE ? "inline-block" : "none";
+    const isPracticeFlow = TRAINING_MODE_ACTIVE || WRONG_PRACTICE_ACTIVE;
+    DOM.ratingArea.style.display = isPracticeFlow ? "none" : "block";
+    DOM.mainBtn.style.display = isPracticeFlow ? "inline-block" : "none";
+    if (isPracticeFlow) {
+      DOM.mainBtn.textContent = pack.next || "다음";
+    }
     DOM.skipBtn.style.display = "none";
     return;
   }
@@ -4922,6 +5078,53 @@ function handleSkip() {
 
   incrementWrongAttempt(item.word.id);
   applyAnswerResult(false, item);
+}
+
+function getSessionReportWordLabel(word) {
+  if (!word) return "";
+
+  const uiText = getMeaning(word);
+  const studyText =
+    getPrimaryStudyText(word) ||
+    buildGermanForm(word) ||
+    word.lemma ||
+    "";
+
+  if (uiText && studyText) {
+    return `${uiText} - ${studyText}`;
+  }
+  return uiText || studyText || "";
+}
+
+function recordSessionResult(item, rating) {
+  if (!item || !item.word) return;
+
+  if (rating === "hard") {
+    APP_STATE.sessionHardCount = (APP_STATE.sessionHardCount || 0) + 1;
+  } else if (rating === "normal") {
+    APP_STATE.sessionNormalCount = (APP_STATE.sessionNormalCount || 0) + 1;
+  } else if (rating === "easy") {
+    APP_STATE.sessionEasyCount = (APP_STATE.sessionEasyCount || 0) + 1;
+  }
+
+  const wasHardForSession = item._sessionAnswerCorrect === false || rating === "hard";
+  if (wasHardForSession) {
+    const id = String(item.word.id);
+    const existing = (APP_STATE.sessionWrongWords || []).some(
+      (word) => String(word.id) === id,
+    );
+    if (!existing) {
+      APP_STATE.sessionWrongWords.push(item.word);
+    }
+  }
+
+  if (APP_STATE.sessionMode === "typing_de") {
+    if (item._sessionAnswerCorrect === false) {
+      APP_STATE.sessionWrongCount = (APP_STATE.sessionWrongCount || 0) + 1;
+    } else {
+      APP_STATE.sessionCorrectCount = (APP_STATE.sessionCorrectCount || 0) + 1;
+    }
+  }
 }
 
 /**
@@ -4978,6 +5181,8 @@ function handleRating(rating) {
     APP_STATE.reviewCount += 1;
   }
   saveStats(stats);
+
+  recordSessionResult(item, rating);
 
   const wordId = String(item.word.id);
   setWordStatsById(wordId, (s) => ({
@@ -5326,40 +5531,308 @@ function saveStats(statsForCurrentLang) {
   safeSet(STORAGE_KEYS.STATS, JSON.stringify(base));
 }
 
+function getEmptyDailySummary(day = nowDay()) {
+  return {
+    day,
+    total: 0,
+    newCount: 0,
+    reviewCount: 0,
+    correct: 0,
+    wrong: 0,
+    hard: 0,
+    normal: 0,
+    easy: 0,
+  };
+}
+
+function getDailySummary() {
+  const lang = getCurrentStudyLang();
+  const today = nowDay();
+  const raw = safeGet(STORAGE_KEYS.DAILY_SUMMARY);
+
+  if (!raw) return getEmptyDailySummary(today);
+
+  try {
+    const parsed = JSON.parse(raw);
+    const byLang = parsed && parsed[lang];
+    if (!byLang || byLang.day !== today) {
+      return getEmptyDailySummary(today);
+    }
+
+    return {
+      ...getEmptyDailySummary(today),
+      ...byLang,
+      day: today,
+    };
+  } catch {
+    return getEmptyDailySummary(today);
+  }
+}
+
+function saveDailySummary(summary) {
+  const lang = getCurrentStudyLang();
+  let base = {};
+  const raw = safeGet(STORAGE_KEYS.DAILY_SUMMARY);
+
+  if (raw) {
+    try {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed === "object") {
+        base = parsed;
+      }
+    } catch {
+      base = {};
+    }
+  }
+
+  base[lang] = {
+    ...getEmptyDailySummary(summary.day || nowDay()),
+    ...summary,
+  };
+  safeSet(STORAGE_KEYS.DAILY_SUMMARY, JSON.stringify(base));
+}
+
+function addCurrentSessionToDailySummary() {
+  const summary = getDailySummary();
+  if (APP_STATE.sessionSummarySaved) {
+    return summary;
+  }
+
+  summary.total += APP_STATE.completed || 0;
+  summary.newCount += APP_STATE.newCount || 0;
+  summary.reviewCount += APP_STATE.reviewCount || 0;
+  summary.correct += APP_STATE.sessionCorrectCount || 0;
+  summary.wrong += APP_STATE.sessionWrongCount || 0;
+  summary.hard += APP_STATE.sessionHardCount || 0;
+  summary.normal += APP_STATE.sessionNormalCount || 0;
+  summary.easy += APP_STATE.sessionEasyCount || 0;
+
+  saveDailySummary(summary);
+  APP_STATE.sessionSummarySaved = true;
+  return summary;
+}
+
 function showEndStats() {
   setPhase("FINISHED");
   logEvent("complete_session", {
     lang: SETTINGS.studyLang,
     mode: SETTINGS.mode,
+    correct: APP_STATE.sessionCorrectCount || 0,
+    wrong: APP_STATE.sessionWrongCount || 0,
   });
   DOM.mainCard.style.display = "none";
   DOM.endStatsArea.style.display = "block";
 
   const pack = t() || {};
-  DOM.endTitle.textContent =
-    pack.summary_title || pack.completed_title || "오늘 학습 요약";
+  const dailySummary = addCurrentSessionToDailySummary();
+  DOM.endTitle.innerHTML =
+    '<span class="end-title-check">✓</span> ' +
+    '<span class="end-title-text"></span>';
+  const endTitleText = DOM.endTitle.querySelector(".end-title-text");
+  if (endTitleText) {
+    endTitleText.textContent =
+      pack.session_done_title ||
+      pack.summary_title ||
+      pack.completed_title ||
+      "학습 완료";
+  }
 
-  DOM.endTotal.textContent =
-    (pack.summary_total || pack.total_completed || "총 학습 카드") +
-    ": " +
-    APP_STATE.completed +
-    (CURRENT_LANG === "en" ? "" : "개");
+  if (DOM.endSummaryTitle) {
+    DOM.endSummaryTitle.textContent =
+      pack.summary_block_title || "오늘 요약";
+  }
 
-  DOM.endNew.textContent =
-    (pack.summary_new || pack.new_words || "새로 배운 단어") +
-    ": " +
-    APP_STATE.newCount +
-    (CURRENT_LANG === "en" ? "" : "개");
+  const isTypingSession = APP_STATE.sessionMode === "typing_de";
+  const countUnit = CURRENT_LANG === "en" ? "" : "개";
+  const renderSummaryLine = (el, label, value, valueClass = "") => {
+    if (!el) return;
+    el.className = "end-line";
+    el.style.display = "flex";
+    el.innerHTML =
+      '<span class="end-line-label"></span>' +
+      '<span class="end-line-value"></span>';
 
-  DOM.endReview.textContent =
-    (pack.summary_review || pack.reviewed_words || "복습 단어") +
-    ": " +
-    APP_STATE.reviewCount +
-    (CURRENT_LANG === "en" ? "" : "개");
+    const labelEl = el.querySelector(".end-line-label");
+    const valueEl = el.querySelector(".end-line-value");
+    if (labelEl) labelEl.textContent = label;
+    if (valueEl) {
+      valueEl.textContent = String(value) + countUnit;
+      if (valueClass) valueEl.classList.add(valueClass);
+    }
+  };
+
+  renderSummaryLine(
+    DOM.endTotal,
+    pack.summary_total || pack.total_completed || "학습 단어",
+    dailySummary.total,
+  );
+  renderSummaryLine(
+    DOM.endNew,
+    pack.summary_new || pack.new_words || "새로 배운 단어",
+    dailySummary.newCount,
+  );
+  renderSummaryLine(
+    DOM.endReview,
+    pack.summary_review || pack.reviewed_words || "복습 단어",
+    dailySummary.reviewCount,
+  );
+
+  if (isTypingSession) {
+    renderSummaryLine(
+      DOM.endCorrect,
+      pack.summary_correct || "정답",
+      dailySummary.correct || 0,
+    );
+
+    renderSummaryLine(
+      DOM.endWrong,
+      pack.summary_wrong || "오답",
+      dailySummary.wrong || 0,
+    );
+
+    if (DOM.endEasy) {
+      DOM.endEasy.style.display = "none";
+      DOM.endEasy.textContent = "";
+    }
+  } else {
+    renderSummaryLine(
+      DOM.endCorrect,
+      pack.hard || "어려움",
+      dailySummary.hard || 0,
+      "end-value-hard",
+    );
+
+    renderSummaryLine(
+      DOM.endWrong,
+      pack.normal || "보통",
+      dailySummary.normal || 0,
+      "end-value-normal",
+    );
+
+    renderSummaryLine(
+      DOM.endEasy,
+      pack.easy || "쉬움",
+      dailySummary.easy || 0,
+      "end-value-easy",
+    );
+  }
+
+  const wrongWords = APP_STATE.sessionWrongWords || [];
+  if (DOM.endWrongWordsBlock && DOM.endWrongWordsList) {
+    DOM.endWrongWordsList.innerHTML = "";
+    if (wrongWords.length > 0) {
+      DOM.endWrongWordsBlock.style.display = "block";
+      if (DOM.endWrongWordsTitle) {
+        DOM.endWrongWordsTitle.textContent =
+          pack.summary_wrong_words_title ||
+          "어려웠던 단어";
+      }
+
+      const visibleWrongWords = wrongWords.slice(0, 5);
+      visibleWrongWords.forEach((word) => {
+        const li = document.createElement("li");
+        li.textContent = getSessionReportWordLabel(word);
+        DOM.endWrongWordsList.appendChild(li);
+      });
+
+      if (wrongWords.length > visibleWrongWords.length) {
+        const li = document.createElement("li");
+        li.className = "end-word-more";
+        const remainingCount = wrongWords.length - visibleWrongWords.length;
+        li.textContent = trKey("common_list_more", "...외 {n}개").replace(
+          "{n}",
+          String(remainingCount),
+        );
+        DOM.endWrongWordsList.appendChild(li);
+      }
+    } else {
+      DOM.endWrongWordsBlock.style.display = "none";
+    }
+  }
+
+  if (DOM.trainWrongBtn) {
+    DOM.trainWrongBtn.textContent =
+      pack.train_wrong_words || "어려운 단어 연습";
+    DOM.trainWrongBtn.style.display =
+      wrongWords.length > 0 ? "inline-block" : "none";
+  }
 
   DOM.restartBtn.textContent = pack.restart || "다시 시작";
 
   updateCefrProgress();
+}
+
+function restoreWrongPracticeMode() {
+  if (WRONG_PRACTICE_PREVIOUS_MODE) {
+    SETTINGS.mode = WRONG_PRACTICE_PREVIOUS_MODE;
+    WRONG_PRACTICE_PREVIOUS_MODE = null;
+    hydrateSettingsToUI();
+    applyTranslations();
+  }
+  WRONG_PRACTICE_ACTIVE = false;
+}
+
+function finishWrongPractice() {
+  restoreWrongPracticeMode();
+  LAST_STUDY_WORD_IDS = [];
+  LAST_STUDY_META = { day: null, filterKey: null };
+  showReadyState();
+  showView("study");
+}
+
+function advanceWrongPracticeStep() {
+  if (!WRONG_PRACTICE_ACTIVE) return;
+
+  if (APP_STATE.queue && APP_STATE.queue.length > 0) {
+    APP_STATE.queue.shift();
+  }
+  APP_STATE.completed = (APP_STATE.completed || 0) + 1;
+
+  if (!APP_STATE.queue || APP_STATE.queue.length === 0) {
+    finishWrongPractice();
+    return;
+  }
+
+  updateProgressBar();
+  showNextQuestion();
+}
+
+function startWrongWordsTraining() {
+  const words = APP_STATE.sessionWrongWords || [];
+  if (!words.length) return;
+
+  TRAINING_MODE_ACTIVE = false;
+  TRAINING_MODE_KIND = "none";
+  TRAINING_MIX_WORDS = [];
+  TRAINING_MIX_INDEX = 0;
+  TRAINING_MIX_STEP = 0;
+  TRAINING_CRAM_WORDS = [];
+  TRAINING_CRAM_INDEX = 0;
+  TRAINING_CRAM_REPEAT_INDEX = 0;
+
+  WRONG_PRACTICE_ACTIVE = true;
+  WRONG_PRACTICE_PREVIOUS_MODE = SETTINGS.mode;
+
+  SETTINGS.mode = "copy";
+  hydrateSettingsToUI();
+  applyTranslations();
+
+  APP_STATE.queue = words.map((word) => {
+    const state = getWordState(word);
+    return {
+      word,
+      state,
+      isNew: !!state.isNew,
+    };
+  });
+  APP_STATE.currentCard = null;
+  APP_STATE.totalTarget = APP_STATE.queue.length;
+  APP_STATE.completed = 0;
+  APP_STATE.newCount = 0;
+  APP_STATE.reviewCount = 0;
+
+  showView("study");
+  showNextQuestion();
 }
 
 function belongsToCurrentStudyLang(word) {
@@ -5894,6 +6367,7 @@ function showView(view) {
   if (view === "study") {
     updateProgressBar();
   } else if (view === "user") {
+    renderAttendance();
     updateCefrProgress();
   } else if (view === "mistakes") {
     renderMistakes();
@@ -6211,6 +6685,10 @@ function attachEvents() {
 
       showReadyState();
     });
+  }
+
+  if (DOM.trainWrongBtn) {
+    DOM.trainWrongBtn.addEventListener("click", startWrongWordsTraining);
   }
 
   if (DOM.modeSelect) {

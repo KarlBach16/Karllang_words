@@ -157,12 +157,29 @@
 
     <section id="endStatsArea" class="end-stats" style="display:none;">
         <h2 id="endTitle" class="end-title">오늘 학습 요약</h2>
-        <p id="endTotal" class="end-line"></p>
-        <p id="endNew" class="end-line"></p>
-        <p id="endReview" class="end-line"></p>
+        <div id="endSummaryBlock" class="end-frame end-summary-frame">
+            <h3 id="endSummaryTitle" class="end-subtitle">오늘 요약</h3>
+            <p id="endTotal" class="end-line"></p>
+            <p id="endNew" class="end-line"></p>
+            <p id="endReview" class="end-line"></p>
+            <p id="endCorrect" class="end-line"></p>
+            <p id="endWrong" class="end-line"></p>
+            <p id="endEasy" class="end-line"></p>
+        </div>
+        <div id="endWrongWordsBlock" class="end-frame end-wrong-frame" style="display:none;">
+            <h3 id="endWrongWordsTitle" class="end-subtitle">
+                어려웠던 단어
+            </h3>
+            <ul id="endWrongWordsList" class="end-word-list"></ul>
+        </div>
         <button id="restartBtn" class="btn btn-primary">
             다시 시작
         </button>
+        <div class="end-actions">
+            <button id="trainWrongBtn" class="btn btn-primary" style="display:none;">
+                어려운 단어 연습
+            </button>
+        </div>
     </section>
 </section>
 
@@ -234,39 +251,48 @@
     </div>
 </div>
 
+                <section id="attendanceCard" class="attendance-card">
+                    <div class="attendance-header">
+                        <h3 id="attendanceTitle" class="attendance-title">출석</h3>
+                    </div>
+                    <div id="attendanceWeek" class="attendance-week" aria-label="이번 주 출석"></div>
+                </section>
+
                 <!-- ✅ CEFR 진척도가 아래로 내려온 버전 -->
-                <h3 class="section-title" id="userCefrTitle">CEFR 단어 진척도</h3>
-                <div id="cefrProgress" class="cefr-progress">
-                    <!-- A1 ~ C2 고정 6줄 -->
-                    <div class="cefr-row" data-level="A1">
-                        <span class="cefr-label">A1</span>
-                        <div class="cefr-bar">
-                            <div class="cefr-bar-inner" id="cefrBarA1"></div>
+                <section class="cefr-card">
+                    <h3 class="cefr-card-title" id="userCefrTitle">CEFR 단어 진척도</h3>
+                    <div id="cefrProgress" class="cefr-progress">
+                        <!-- A1 ~ C2 고정 6줄 -->
+                        <div class="cefr-row" data-level="A1">
+                            <span class="cefr-label">A1</span>
+                            <div class="cefr-bar">
+                                <div class="cefr-bar-inner" id="cefrBarA1"></div>
+                            </div>
+                            <span class="cefr-count" id="cefrCountA1">0/0 (0%)</span>
                         </div>
-                        <span class="cefr-count" id="cefrCountA1">0/0 (0%)</span>
-                    </div>
-                    <div class="cefr-row" data-level="A2">
-                        <span class="cefr-label">A2</span>
-                        <div class="cefr-bar">
-                            <div class="cefr-bar-inner" id="cefrBarA2"></div>
+                        <div class="cefr-row" data-level="A2">
+                            <span class="cefr-label">A2</span>
+                            <div class="cefr-bar">
+                                <div class="cefr-bar-inner" id="cefrBarA2"></div>
+                            </div>
+                            <span class="cefr-count" id="cefrCountA2">0/0 (0%)</span>
                         </div>
-                        <span class="cefr-count" id="cefrCountA2">0/0 (0%)</span>
-                    </div>
-                    <div class="cefr-row" data-level="B1">
-                        <span class="cefr-label">B1</span>
-                        <div class="cefr-bar">
-                            <div class="cefr-bar-inner" id="cefrBarB1"></div>
+                        <div class="cefr-row" data-level="B1">
+                            <span class="cefr-label">B1</span>
+                            <div class="cefr-bar">
+                                <div class="cefr-bar-inner" id="cefrBarB1"></div>
+                            </div>
+                            <span class="cefr-count" id="cefrCountB1">0/0 (0%)</span>
                         </div>
-                        <span class="cefr-count" id="cefrCountB1">0/0 (0%)</span>
-                    </div>
-                    <div class="cefr-row" data-level="B2">
-                        <span class="cefr-label">B2</span>
-                        <div class="cefr-bar">
-                            <div class="cefr-bar-inner" id="cefrBarB2"></div>
+                        <div class="cefr-row" data-level="B2">
+                            <span class="cefr-label">B2</span>
+                            <div class="cefr-bar">
+                                <div class="cefr-bar-inner" id="cefrBarB2"></div>
+                            </div>
+                            <span class="cefr-count" id="cefrCountB2">0/0 (0%)</span>
                         </div>
-                        <span class="cefr-count" id="cefrCountB2">0/0 (0%)</span>
                     </div>
-                </div>
+                </section>
             </section>
 
 <section id="trainingView" class="view view-section">
@@ -309,7 +335,7 @@
     </div>
 
     <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
-    <div class="control-group" style="margin-top: 14px;">
+    <div class="control-group">
         <label for="trainingModeSelect">훈련 모드</label>
         <select id="trainingModeSelect">
             <option value="cram">크램 </option>

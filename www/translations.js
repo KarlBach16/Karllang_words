@@ -47,6 +47,8 @@ start_screen_hint: "",
     user_cefr_title: "CEFR 단어 진척도",
     user_level_title_cjk: "단어 진척도",
     user_settings_title: "학습 설정",
+    attendance_title: "출석",
+    attendance_weekdays: "월 화 수 목 금 토 일",
 
     /* 학습 설정 */
     mode: "모드",
@@ -111,10 +113,16 @@ start_screen_hint: "",
     progress_template: "{done}/{total} ({left}개 남음) [Lv.{level}]",
 
     /* 세션 요약 */
+    session_done_title: "학습 완료",
+    summary_block_title: "오늘 요약",
     summary_title: "오늘 학습 요약",
-    summary_total: "총 학습 카드",
+    summary_total: "학습 단어",
     summary_new: "새로 배운 단어",
     summary_review: "복습 단어",
+    summary_correct: "정답",
+    summary_wrong: "오답",
+    summary_wrong_words_title: "어려웠던 단어",
+    train_wrong_words: "어려운 단어 연습",
     restart: "다시 시작",
     no_words_today: "오늘은 학습할 단어가 없습니다.",
 
@@ -194,6 +202,8 @@ en: {
     user_cefr_title: "CEFR vocabulary progress",
     user_level_title_cjk: "Word Level Progress",
     user_settings_title: "Study settings",
+    attendance_title: "Attendance",
+    attendance_weekdays: "Mon Tue Wed Thu Fri Sat Sun",
 
     /* 학습 설정 */
     mode: "Mode",
@@ -259,10 +269,16 @@ en: {
     progress_template: "{done}/{total} ({left} left) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "Study complete",
+    summary_block_title: "Today's summary",
     summary_title: "Study summary",
-    summary_total: "Total cards studied",
+    summary_total: "Words studied",
     summary_new: "New words",
     summary_review: "Reviewed words",
+    summary_correct: "Correct",
+    summary_wrong: "Wrong",
+    summary_wrong_words_title: "Hard words",
+    train_wrong_words: "Practice hard words",
     restart: "Restart",
     no_words_today: "No cards to study today.",
 
@@ -342,6 +358,8 @@ de: {
     user_cefr_title: "CEFR-Wortschatzfortschritt",
     user_level_title_cjk: "Wortschatzfortschritt",
     user_settings_title: "Lerneinstellungen",
+    attendance_title: "Anwesenheit",
+    attendance_weekdays: "Mo Di Mi Do Fr Sa So",
 
     /* 학습 설정 */
     mode: "Modus",
@@ -407,10 +425,16 @@ de: {
     progress_template: "{done}/{total} ({left} übrig) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "Lernen abgeschlossen",
+    summary_block_title: "Heutige Zusammenfassung",
     summary_title: "Lernzusammenfassung",
-    summary_total: "Insgesamt gelernt",
+    summary_total: "Gelernte Wörter",
     summary_new: "Neue Wörter",
     summary_review: "Wiederholte Wörter",
+    summary_correct: "Richtig",
+    summary_wrong: "Falsch",
+    summary_wrong_words_title: "Schwierige Wörter",
+    train_wrong_words: "Schwierige Wörter üben",
     restart: "Neu starten",
     no_words_today: "Heute gibt es keine Karten zum Lernen.",
 
@@ -491,6 +515,8 @@ es: {
     user_cefr_title: "Progreso de vocabulario CEFR",
     user_level_title_cjk: "Progreso de vocabulario",
     user_settings_title: "Ajustes de estudio",
+    attendance_title: "Asistencia",
+    attendance_weekdays: "Lun Mar Mié Jue Vie Sáb Dom",
 
     /* 학습 설정 */
     mode: "Modo",
@@ -556,10 +582,16 @@ es: {
     progress_template: "{done}/{total} ({left} restantes) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "Estudio completado",
+    summary_block_title: "Resumen de hoy",
     summary_title: "Resumen del estudio de hoy",
-    summary_total: "Tarjetas estudiadas en total",
+    summary_total: "Palabras estudiadas",
     summary_new: "Palabras nuevas",
     summary_review: "Palabras repasadas",
+    summary_correct: "Correctas",
+    summary_wrong: "Incorrectas",
+    summary_wrong_words_title: "Palabras difíciles",
+    train_wrong_words: "Practicar palabras difíciles",
     restart: "Reiniciar",
     no_words_today: "Hoy no hay tarjetas para estudiar.",
 
@@ -641,6 +673,8 @@ fr: {
     user_cefr_title: "Progression du vocabulaire CECR",
     user_level_title_cjk: "Progression du vocabulaire",
     user_settings_title: "Paramètres d’étude",
+    attendance_title: "Présence",
+    attendance_weekdays: "Lun Mar Mer Jeu Ven Sam Dim",
 
     /* 학습 설정 */
     mode: "Mode",
@@ -706,10 +740,16 @@ fr: {
     progress_template: "{done}/{total} ({left} restant(s)) [Nv.{level}]",
 
     /* 요약 */
+    session_done_title: "Étude terminée",
+    summary_block_title: "Résumé du jour",
     summary_title: "Résumé de l’étude",
-    summary_total: "Cartes étudiées au total",
+    summary_total: "Mots étudiés",
     summary_new: "Nouveaux mots",
     summary_review: "Mots révisés",
+    summary_correct: "Justes",
+    summary_wrong: "Faux",
+    summary_wrong_words_title: "Mots difficiles",
+    train_wrong_words: "S’entraîner avec les mots difficiles",
     restart: "Recommencer",
     no_words_today: "Aucune carte à étudier aujourd’hui.",
 
@@ -787,6 +827,8 @@ it: {
     user_cefr_title: "Progressi del vocabolario QCER",
     user_level_title_cjk: "Progressi del vocabolario",
     user_settings_title: "Impostazioni di studio",
+    attendance_title: "Presenza",
+    attendance_weekdays: "Lun Mar Mer Gio Ven Sab Dom",
 
     /* 학습 설정 */
     mode: "Modalità",
@@ -852,10 +894,16 @@ it: {
     progress_template: "{done}/{total} ({left} rimanenti) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "Studio completato",
+    summary_block_title: "Riepilogo di oggi",
     summary_title: "Riepilogo dello studio",
-    summary_total: "Carte studiate in totale",
+    summary_total: "Parole studiate",
     summary_new: "Nuove parole",
     summary_review: "Parole ripassate",
+    summary_correct: "Corrette",
+    summary_wrong: "Sbagliate",
+    summary_wrong_words_title: "Parole difficili",
+    train_wrong_words: "Esercita le parole difficili",
     restart: "Ricomincia",
     no_words_today: "Oggi non ci sono carte da studiare.",
 
@@ -933,6 +981,8 @@ pt: {
     user_cefr_title: "Progresso de vocabulário CEFR",
     user_level_title_cjk: "Progresso de vocabulário",
     user_settings_title: "Configurações de estudo",
+    attendance_title: "Presença",
+    attendance_weekdays: "Seg Ter Qua Qui Sex Sáb Dom",
 
     /* 학습 설정 */
     mode: "Modo",
@@ -998,10 +1048,16 @@ pt: {
     progress_template: "{done}/{total} ({left} restantes) [Nv.{level}]",
 
     /* 요약 */
+    session_done_title: "Estudo concluído",
+    summary_block_title: "Resumo de hoje",
     summary_title: "Resumo do estudo",
-    summary_total: "Cartas estudadas no total",
+    summary_total: "Palavras estudadas",
     summary_new: "Novas palavras",
     summary_review: "Palavras revisadas",
+    summary_correct: "Corretas",
+    summary_wrong: "Erradas",
+    summary_wrong_words_title: "Palavras difíceis",
+    train_wrong_words: "Praticar palavras difíceis",
     restart: "Reiniciar",
     no_words_today: "Hoje não há cartas para estudar.",
 
@@ -1079,6 +1135,8 @@ ja: {
     user_cefr_title: "CEFR 語彙の進捗",
     user_level_title_cjk: "語彙の進捗",
     user_settings_title: "学習設定",
+    attendance_title: "出席",
+    attendance_weekdays: "月 火 水 木 金 土 日",
 
     /* 학습 설정 */
     mode: "モード",
@@ -1144,10 +1202,16 @@ ja: {
     progress_template: "{done}/{total} (残り {left}) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "学習完了",
+    summary_block_title: "今日のまとめ",
     summary_title: "今日の学習まとめ",
-    summary_total: "学習したカードの合計",
+    summary_total: "学習した単語",
     summary_new: "新しく覚えた単語",
     summary_review: "復習した単語",
+    summary_correct: "正解",
+    summary_wrong: "不正解",
+    summary_wrong_words_title: "難しかった単語",
+    train_wrong_words: "難しい単語を練習",
     restart: "もう一度",
     no_words_today: "今日は学習するカードがありません。",
 
@@ -1225,6 +1289,8 @@ zh: {
     user_cefr_title: "CEFR 词汇进度",
     user_level_title_cjk: "词汇进度",
     user_settings_title: "学习设置",
+    attendance_title: "出勤",
+    attendance_weekdays: "周一 周二 周三 周四 周五 周六 周日",
 
     /* 학습 설정 */
     mode: "模式",
@@ -1290,10 +1356,16 @@ zh: {
     progress_template: "{done}/{total} (剩余 {left}) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "学习完成",
+    summary_block_title: "今日总结",
     summary_title: "学习总结",
-    summary_total: "总共学习的卡片",
+    summary_total: "已学单词",
     summary_new: "新学的单词",
     summary_review: "复习的单词",
+    summary_correct: "正确",
+    summary_wrong: "错误",
+    summary_wrong_words_title: "困难单词",
+    train_wrong_words: "练习困难单词",
     restart: "重新开始",
     no_words_today: "今天没有要学习的卡片。",
 
@@ -1371,6 +1443,8 @@ ru: {
     user_cefr_title: "Прогресс по словарю CEFR",
     user_level_title_cjk: "Прогресс словарного запаса",
     user_settings_title: "Настройки обучения",
+    attendance_title: "Посещаемость",
+    attendance_weekdays: "Пн Вт Ср Чт Пт Сб Вс",
 
     /* 학습 설정 */
     mode: "Режим",
@@ -1436,10 +1510,16 @@ ru: {
     progress_template: "{done}/{total} (осталось {left}) [Lv.{level}]",
 
     /* 요약 */
+    session_done_title: "Обучение завершено",
+    summary_block_title: "Итоги за сегодня",
     summary_title: "Итоги обучения",
-    summary_total: "Всего изучено карточек",
+    summary_total: "Изученные слова",
     summary_new: "Новые слова",
     summary_review: "Повторённые слова",
+    summary_correct: "Верно",
+    summary_wrong: "Ошибки",
+    summary_wrong_words_title: "Сложные слова",
+    train_wrong_words: "Тренировать сложные слова",
     restart: "Начать заново",
     no_words_today: "Сегодня нет карточек для изучения.",
 
