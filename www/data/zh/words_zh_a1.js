@@ -25,7 +25,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yī"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yī"
+    }
   },
   {
     "id": "zh_2",
@@ -52,7 +55,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "qī"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "qī"
+    }
   },
   {
     "id": "zh_3",
@@ -79,7 +85,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "sān"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "sān"
+    }
   },
   {
     "id": "zh_4",
@@ -106,7 +115,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shàngwǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shàngwǔ"
+    }
   },
   {
     "id": "zh_5",
@@ -133,7 +145,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xiàwǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xiàwǔ"
+    }
   },
   {
     "id": "zh_6",
@@ -161,7 +176,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "下雨",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "xiàyǔ"
+    }
   },
   {
     "id": "zh_7",
@@ -188,7 +206,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "dōngxi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "dōngxi"
+    }
   },
   {
     "id": "zh_8",
@@ -215,7 +236,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "zhōngwǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "zhōngwǔ"
+    }
   },
   {
     "id": "zh_9",
@@ -242,7 +266,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "Zhōngguó"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "Zhōngguó"
+    }
   },
   {
     "id": "zh_10",
@@ -269,7 +296,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "jiǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "jiǔ"
+    }
   },
   {
     "id": "zh_11",
@@ -296,7 +326,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shū"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shū"
+    }
   },
   {
     "id": "zh_12",
@@ -324,7 +357,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "买",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "mǎi"
+    }
   },
   {
     "id": "zh_13",
@@ -351,7 +387,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "èr"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "èr"
+    }
   },
   {
     "id": "zh_14",
@@ -378,7 +417,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "wǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "wǔ"
+    }
   },
   {
     "id": "zh_15",
@@ -403,6 +445,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "xiē"
+    },
+    "reading": {
+      "zh": "xiē"
     }
   },
   {
@@ -430,7 +475,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "rén"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "rén"
+    }
   },
   {
     "id": "zh_17",
@@ -457,7 +505,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shénme"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shénme"
+    }
   },
   {
     "id": "zh_18",
@@ -484,7 +535,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "jīntiān"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "jīntiān"
+    }
   },
   {
     "id": "zh_19",
@@ -511,7 +565,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "tā"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "tā"
+    }
   },
   {
     "id": "zh_20",
@@ -539,7 +596,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "住",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "zhù"
+    }
   },
   {
     "id": "zh_21",
@@ -566,7 +626,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "nǐ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "nǐ"
+    }
   },
   {
     "id": "zh_22",
@@ -594,7 +657,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "做",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "zuò"
+    }
   },
   {
     "id": "zh_23",
@@ -621,7 +687,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "érzi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "érzi"
+    }
   },
   {
     "id": "zh_24",
@@ -648,7 +717,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xiānsheng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xiānsheng"
+    }
   },
   {
     "id": "zh_25",
@@ -675,7 +747,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "bā"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "bā"
+    }
   },
   {
     "id": "zh_26",
@@ -702,7 +777,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "liù"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "liù"
+    }
   },
   {
     "id": "zh_27",
@@ -730,7 +808,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "再见",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "zàijiàn"
+    }
   },
   {
     "id": "zh_28",
@@ -758,7 +839,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "写",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "xiě"
+    }
   },
   {
     "id": "zh_29",
@@ -783,6 +867,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "lěng"
+    },
+    "reading": {
+      "zh": "lěng"
     }
   },
   {
@@ -808,6 +895,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "jǐ"
+    },
+    "reading": {
+      "zh": "jǐ"
     }
   },
   {
@@ -835,7 +925,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "chūzūchē"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "chūzūchē"
+    }
   },
   {
     "id": "zh_32",
@@ -862,7 +955,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "fēnzhōng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "fēnzhōng"
+    }
   },
   {
     "id": "zh_33",
@@ -889,7 +985,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "qiánmiàn"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "qiánmiàn"
+    }
   },
   {
     "id": "zh_34",
@@ -916,7 +1015,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "Běijīng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "Běijīng"
+    }
   },
   {
     "id": "zh_35",
@@ -943,7 +1045,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yīshēng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yīshēng"
+    }
   },
   {
     "id": "zh_36",
@@ -970,7 +1075,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yīyuàn"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yīyuàn"
+    }
   },
   {
     "id": "zh_37",
@@ -997,7 +1105,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shí"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shí"
+    }
   },
   {
     "id": "zh_38",
@@ -1025,7 +1136,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "去",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "qù"
+    }
   },
   {
     "id": "zh_39",
@@ -1053,7 +1167,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "叫",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "jiào"
+    }
   },
   {
     "id": "zh_40",
@@ -1080,7 +1197,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "hào"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "hào"
+    }
   },
   {
     "id": "zh_41",
@@ -1108,7 +1228,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "吃",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "chī"
+    }
   },
   {
     "id": "zh_42",
@@ -1135,7 +1258,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "tóngxué"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "tóngxué"
+    }
   },
   {
     "id": "zh_43",
@@ -1162,7 +1288,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "míngzi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "míngzi"
+    }
   },
   {
     "id": "zh_44",
@@ -1189,7 +1318,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "hòumian"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "hòumian"
+    }
   },
   {
     "id": "zh_45",
@@ -1217,7 +1349,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "听",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "tīng"
+    }
   },
   {
     "id": "zh_46",
@@ -1242,6 +1377,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "nǎa"
+    },
+    "reading": {
+      "zh": "nǎa"
     }
   },
   {
@@ -1269,7 +1407,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "nǎr"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "nǎr"
+    }
   },
   {
     "id": "zh_48",
@@ -1296,7 +1437,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shāngdiàn"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shāngdiàn"
+    }
   },
   {
     "id": "zh_49",
@@ -1324,7 +1468,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "喂",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "wèi"
+    }
   },
   {
     "id": "zh_50",
@@ -1352,7 +1499,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "喜欢",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "xǐhuan"
+    }
   },
   {
     "id": "zh_51",
@@ -1380,7 +1530,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "喝",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "hē"
+    }
   },
   {
     "id": "zh_52",
@@ -1407,7 +1560,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "sì"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "sì"
+    }
   },
   {
     "id": "zh_53",
@@ -1435,7 +1591,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "回",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "huí"
+    }
   },
   {
     "id": "zh_54",
@@ -1463,7 +1622,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "坐",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "zuò"
+    }
   },
   {
     "id": "zh_55",
@@ -1490,7 +1652,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "kuài"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "kuài"
+    }
   },
   {
     "id": "zh_56",
@@ -1515,6 +1680,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "duō"
+    },
+    "reading": {
+      "zh": "duō"
     }
   },
   {
@@ -1540,6 +1708,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "duōshao"
+    },
+    "reading": {
+      "zh": "duōshao"
     }
   },
   {
@@ -1565,6 +1736,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "dà, dài"
+    },
+    "reading": {
+      "zh": "dà, dài"
     }
   },
   {
@@ -1592,7 +1766,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "tiānqì"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "tiānqì"
+    }
   },
   {
     "id": "zh_60",
@@ -1617,6 +1794,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "tài"
+    },
+    "reading": {
+      "zh": "tài"
     }
   },
   {
@@ -1644,7 +1824,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "nǚ'ér"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "nǚ'ér"
+    }
   },
   {
     "id": "zh_62",
@@ -1671,7 +1854,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "tā"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "tā"
+    }
   },
   {
     "id": "zh_63",
@@ -1696,6 +1882,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "hǎo"
+    },
+    "reading": {
+      "zh": "hǎo"
     }
   },
   {
@@ -1723,7 +1912,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "māma"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "māma"
+    }
   },
   {
     "id": "zh_65",
@@ -1750,7 +1942,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "zì"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "zì"
+    }
   },
   {
     "id": "zh_66",
@@ -1778,7 +1973,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "学习",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "xuéxí"
+    }
   },
   {
     "id": "zh_67",
@@ -1805,7 +2003,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xuéxiào"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xuéxiào"
+    }
   },
   {
     "id": "zh_68",
@@ -1832,7 +2033,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xuésheng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xuésheng"
+    }
   },
   {
     "id": "zh_69",
@@ -1859,7 +2063,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "jiā"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "jiā"
+    }
   },
   {
     "id": "zh_70",
@@ -1887,7 +2094,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "对不起",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "duìbuqǐ"
+    }
   },
   {
     "id": "zh_71",
@@ -1912,6 +2122,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "xiǎo"
+    },
+    "reading": {
+      "zh": "xiǎo"
     }
   },
   {
@@ -1939,7 +2152,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xiǎojie"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xiǎojie"
+    }
   },
   {
     "id": "zh_73",
@@ -1964,6 +2180,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "shǎo"
+    },
+    "reading": {
+      "zh": "shǎo"
     }
   },
   {
@@ -1991,7 +2210,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "suì"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "suì"
+    }
   },
   {
     "id": "zh_75",
@@ -2018,7 +2240,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "gōngzuò"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "gōngzuò"
+    }
   },
   {
     "id": "zh_76",
@@ -2045,7 +2270,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "nián"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "nián"
+    }
   },
   {
     "id": "zh_77",
@@ -2073,7 +2301,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "开",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "kāi"
+    }
   },
   {
     "id": "zh_78",
@@ -2101,7 +2332,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "想",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "xiǎng"
+    }
   },
   {
     "id": "zh_79",
@@ -2128,7 +2362,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "wǒ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "wǒ"
+    }
   },
   {
     "id": "zh_80",
@@ -2155,7 +2392,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "wǒmen"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "wǒmen"
+    }
   },
   {
     "id": "zh_81",
@@ -2183,7 +2423,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "打电话",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "dǎ diànhuà"
+    }
   },
   {
     "id": "zh_82",
@@ -2210,7 +2453,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shíhou"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shíhou"
+    }
   },
   {
     "id": "zh_83",
@@ -2237,7 +2483,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "míngtiān"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "míngtiān"
+    }
   },
   {
     "id": "zh_84",
@@ -2264,7 +2513,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xīngqī"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xīngqī"
+    }
   },
   {
     "id": "zh_85",
@@ -2291,7 +2543,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "zuótiān"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "zuótiān"
+    }
   },
   {
     "id": "zh_86",
@@ -2319,7 +2574,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "是",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "shì"
+    }
   },
   {
     "id": "zh_87",
@@ -2346,7 +2604,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yuè"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yuè"
+    }
   },
   {
     "id": "zh_88",
@@ -2374,7 +2635,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "有",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "yǒu"
+    }
   },
   {
     "id": "zh_89",
@@ -2401,7 +2665,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "péngyou"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "péngyou"
+    }
   },
   {
     "id": "zh_90",
@@ -2429,7 +2696,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "来",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "lái"
+    }
   },
   {
     "id": "zh_91",
@@ -2456,7 +2726,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "bēizi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "bēizi"
+    }
   },
   {
     "id": "zh_92",
@@ -2483,7 +2756,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "zhuōzi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "zhuōzi"
+    }
   },
   {
     "id": "zh_93",
@@ -2510,7 +2786,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yǐzi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yǐzi"
+    }
   },
   {
     "id": "zh_94",
@@ -2537,7 +2816,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shuǐ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shuǐ"
+    }
   },
   {
     "id": "zh_95",
@@ -2564,7 +2846,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shuǐguǒ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shuǐguǒ"
+    }
   },
   {
     "id": "zh_96",
@@ -2591,7 +2876,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "Hànyǔ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "Hànyǔ"
+    }
   },
   {
     "id": "zh_97",
@@ -2619,7 +2907,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "没有",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "méiyǒu"
+    }
   },
   {
     "id": "zh_98",
@@ -2644,6 +2935,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "piàoliang"
+    },
+    "reading": {
+      "zh": "piàoliang"
     }
   },
   {
@@ -2669,6 +2963,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "rè"
+    },
+    "reading": {
+      "zh": "rè"
     }
   },
   {
@@ -2697,7 +2994,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "爱",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "ài"
+    }
   },
   {
     "id": "zh_101",
@@ -2724,7 +3024,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "bàba"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "bàba"
+    }
   },
   {
     "id": "zh_102",
@@ -2751,7 +3054,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "gǒu"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "gǒu"
+    }
   },
   {
     "id": "zh_103",
@@ -2778,7 +3084,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "māo"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "māo"
+    }
   },
   {
     "id": "zh_104",
@@ -2805,7 +3114,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xiànzài"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xiànzài"
+    }
   },
   {
     "id": "zh_105",
@@ -2832,7 +3144,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "diànyǐng"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "diànyǐng"
+    }
   },
   {
     "id": "zh_106",
@@ -2859,7 +3174,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "diànnǎo"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "diànnǎo"
+    }
   },
   {
     "id": "zh_107",
@@ -2886,7 +3204,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "diànshì"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "diànshì"
+    }
   },
   {
     "id": "zh_108",
@@ -2914,7 +3235,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "看",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "kàn"
+    }
   },
   {
     "id": "zh_109",
@@ -2942,7 +3266,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "看见",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "kànjiàn"
+    }
   },
   {
     "id": "zh_110",
@@ -2970,7 +3297,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "睡觉",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "shuì jiào"
+    }
   },
   {
     "id": "zh_111",
@@ -2997,7 +3327,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "mǐfàn"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "mǐfàn"
+    }
   },
   {
     "id": "zh_112",
@@ -3024,7 +3357,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "lǎoshī"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "lǎoshī"
+    }
   },
   {
     "id": "zh_113",
@@ -3051,7 +3387,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "píngguǒ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "píngguǒ"
+    }
   },
   {
     "id": "zh_114",
@@ -3078,7 +3417,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "chá"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "chá"
+    }
   },
   {
     "id": "zh_115",
@@ -3105,7 +3447,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "cài"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "cài"
+    }
   },
   {
     "id": "zh_116",
@@ -3132,7 +3477,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "yīfu"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "yīfu"
+    }
   },
   {
     "id": "zh_117",
@@ -3160,7 +3508,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "认识",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "rènshi"
+    }
   },
   {
     "id": "zh_118",
@@ -3188,7 +3539,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "说",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "shuō"
+    }
   },
   {
     "id": "zh_119",
@@ -3216,7 +3570,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "请",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "qǐng"
+    }
   },
   {
     "id": "zh_120",
@@ -3244,7 +3601,10 @@ const WORDS_ZH_A1 = [
     },
     "infinitive": "读",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "zh": "dú"
+    }
   },
   {
     "id": "zh_121",
@@ -3271,7 +3631,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "shéi"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "shéi"
+    }
   },
   {
     "id": "zh_122",
@@ -3298,7 +3661,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "xièxie"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "xièxie"
+    }
   },
   {
     "id": "zh_123",
@@ -3325,7 +3691,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "zhè"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "zhè"
+    }
   },
   {
     "id": "zh_124",
@@ -3352,7 +3721,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "nà"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "nà"
+    }
   },
   {
     "id": "zh_125",
@@ -3379,7 +3751,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "dōu"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "dōu"
+    }
   },
   {
     "id": "zh_126",
@@ -3406,7 +3781,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "lǐ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "lǐ"
+    }
   },
   {
     "id": "zh_127",
@@ -3433,7 +3811,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "qián"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "qián"
+    }
   },
   {
     "id": "zh_128",
@@ -3460,7 +3841,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "fēijī"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "fēijī"
+    }
   },
   {
     "id": "zh_129",
@@ -3487,7 +3871,10 @@ const WORDS_ZH_A1 = [
       "zh_pinyin": "fàndiàn"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "zh": "fàndiàn"
+    }
   },
   {
     "id": "zh_130",
@@ -3512,6 +3899,9 @@ const WORDS_ZH_A1 = [
     "examples": [],
     "meta": {
       "zh_pinyin": "gāoxìng"
+    },
+    "reading": {
+      "zh": "gāoxìng"
     }
   }
 ];

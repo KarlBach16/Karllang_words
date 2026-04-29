@@ -2114,6 +2114,26 @@ function getMeaning(word, options) {
   return text.trim();
 }
 
+// Optional reading/romanization accessor (schema extension)
+// Priority: reading map -> legacy meta fallback.
+function getReadingForLang(word, langCode) {
+  if (!word) return "";
+  const lang = (langCode || "").toLowerCase();
+  const reading = word.reading;
+  if (reading && typeof reading === "object") {
+    const v = reading[lang];
+    if (typeof v === "string" && v.trim()) return v.trim();
+  }
+  const meta = word.meta || {};
+  if (lang === "ja" && typeof meta.ja_reading === "string" && meta.ja_reading.trim()) {
+    return meta.ja_reading.trim();
+  }
+  if (lang === "zh" && typeof meta.zh_pinyin === "string" && meta.zh_pinyin.trim()) {
+    return meta.zh_pinyin.trim();
+  }
+  return "";
+}
+
 function getSrsKey(wordId, langOverride) {
   const lang = (langOverride || getCurrentStudyLang() || "de").toLowerCase();
   // 예: karllang_word_de_101, karllang_word_en_101

@@ -1,4 +1,4 @@
-// RU B1 generated from ru_v2 canonical dataset
+// RU B1 generated from release candidate
 const WORDS_RU_B1 = [
   {
     "id": "ru_1373",
@@ -25,7 +25,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́рки"
+    "plural": "ма́рки",
+    "reading": {
+      "ru": "marka"
+    }
   },
   {
     "id": "ru_1374",
@@ -51,7 +54,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "гру́зы"
+    "plural": "гру́зы",
+    "reading": {
+      "ru": "gruz"
+    }
   },
   {
     "id": "ru_1375",
@@ -78,7 +84,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "записать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zapisat"
+    }
   },
   {
     "id": "ru_1376",
@@ -104,7 +113,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ди́ски"
+    "plural": "ди́ски",
+    "reading": {
+      "ru": "disk"
+    }
   },
   {
     "id": "ru_1378",
@@ -131,7 +143,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прятаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pryatatsya"
+    }
   },
   {
     "id": "ru_1379",
@@ -155,7 +170,10 @@ const WORDS_RU_B1 = [
       "zh": "今天的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "segodnyashniy"
+    }
   },
   {
     "id": "ru_1380",
@@ -181,7 +199,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прису́тствия"
+    "plural": "прису́тствия",
+    "reading": {
+      "ru": "prisutstvie"
+    }
   },
   {
     "id": "ru_1381",
@@ -207,7 +228,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ху́дшие"
+    "plural": "ху́дшие",
+    "reading": {
+      "ru": "khudshee"
+    }
   },
   {
     "id": "ru_1383",
@@ -233,7 +257,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "реда́кторы"
+    "plural": "реда́кторы",
+    "reading": {
+      "ru": "redaktor"
+    }
   },
   {
     "id": "ru_1384",
@@ -258,7 +285,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сове́тники"
+    "plural": "сове́тники",
+    "reading": {
+      "ru": "sovetnik"
+    }
   },
   {
     "id": "ru_1385",
@@ -284,7 +314,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сала́ты"
+    "plural": "сала́ты",
+    "reading": {
+      "ru": "salat"
+    }
   },
   {
     "id": "ru_1386",
@@ -311,7 +344,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "ненавидеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "nenavidet"
+    }
   },
   {
     "id": "ru_1387",
@@ -338,7 +374,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "строить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "stroit"
+    }
   },
   {
     "id": "ru_1389",
@@ -364,7 +403,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "помешать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pomeshat"
+    }
   },
   {
     "id": "ru_1390",
@@ -390,7 +432,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "молча́ния"
+    "plural": "молча́ния",
+    "reading": {
+      "ru": "molchanie"
+    }
   },
   {
     "id": "ru_1391",
@@ -414,7 +459,10 @@ const WORDS_RU_B1 = [
       "zh": "长的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "dlinnyy"
+    }
   },
   {
     "id": "ru_1392",
@@ -438,7 +486,10 @@ const WORDS_RU_B1 = [
       "zh": "热的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "goryachiy"
+    }
   },
   {
     "id": "ru_1393",
@@ -462,7 +513,10 @@ const WORDS_RU_B1 = [
       "zh": "长期的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "dolgiy"
+    }
   },
   {
     "id": "ru_1394",
@@ -488,7 +542,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "чемода́ны"
+    "plural": "чемода́ны",
+    "reading": {
+      "ru": "chemodan"
+    }
   },
   {
     "id": "ru_1395",
@@ -512,7 +569,10 @@ const WORDS_RU_B1 = [
       "zh": "美国的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "amerikanskiy"
+    }
   },
   {
     "id": "ru_1396",
@@ -539,7 +599,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "захватить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zakhvatit"
+    }
   },
   {
     "id": "ru_1397",
@@ -565,7 +628,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "спасе́ния"
+    "plural": "спасе́ния",
+    "reading": {
+      "ru": "spasenie"
+    }
   },
   {
     "id": "ru_1398",
@@ -592,7 +658,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "паро́ли"
+    "plural": "паро́ли",
+    "reading": {
+      "ru": "parol"
+    }
   },
   {
     "id": "ru_1399",
@@ -617,7 +686,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "га́сы"
+    "plural": "га́сы",
+    "reading": {
+      "ru": "gas"
+    }
   },
   {
     "id": "ru_1401",
@@ -643,7 +715,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "у́ши"
+    "plural": "у́ши",
+    "reading": {
+      "ru": "ukho"
+    }
   },
   {
     "id": "ru_1402",
@@ -670,7 +745,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "блю́да"
+    "plural": "блю́да",
+    "reading": {
+      "ru": "blyudo"
+    }
   },
   {
     "id": "ru_1403",
@@ -694,7 +772,10 @@ const WORDS_RU_B1 = [
       "zh": "讨人喜欢的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "simpatichnyy"
+    }
   },
   {
     "id": "ru_1405",
@@ -721,7 +802,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сдаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sdatsya"
+    }
   },
   {
     "id": "ru_1406",
@@ -746,7 +830,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ло́ри"
+    "plural": "ло́ри",
+    "reading": {
+      "ru": "lori"
+    }
   },
   {
     "id": "ru_1407",
@@ -772,7 +859,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "наси́лия"
+    "plural": "наси́лия",
+    "reading": {
+      "ru": "nasilie"
+    }
   },
   {
     "id": "ru_1408",
@@ -799,7 +889,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повесить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "povesit"
+    }
   },
   {
     "id": "ru_1409",
@@ -824,7 +917,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "гра́фы"
+    "plural": "гра́фы",
+    "reading": {
+      "ru": "graf"
+    }
   },
   {
     "id": "ru_1411",
@@ -851,7 +947,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "спосо́бности"
+    "plural": "спосо́бности",
+    "reading": {
+      "ru": "sposobnost"
+    }
   },
   {
     "id": "ru_1412",
@@ -877,7 +976,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "поте́ри"
+    "plural": "поте́ри",
+    "reading": {
+      "ru": "poterya"
+    }
   },
   {
     "id": "ru_1413",
@@ -905,7 +1007,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "уезжать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uezzhat"
+    }
   },
   {
     "id": "ru_1414",
@@ -931,7 +1036,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "досье́"
+    "plural": "досье́",
+    "reading": {
+      "ru": "dose"
+    }
   },
   {
     "id": "ru_1415",
@@ -959,7 +1067,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сотрудничать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sotrudnichat"
+    }
   },
   {
     "id": "ru_1417",
@@ -984,7 +1095,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "би́твы"
+    "plural": "би́твы",
+    "reading": {
+      "ru": "bitva"
+    }
   },
   {
     "id": "ru_1418",
@@ -1011,7 +1125,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ве́рсии"
+    "plural": "ве́рсии",
+    "reading": {
+      "ru": "versiya"
+    }
   },
   {
     "id": "ru_1419",
@@ -1037,7 +1154,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "объявле́ния"
+    "plural": "объявле́ния",
+    "reading": {
+      "ru": "obyavlenie"
+    }
   },
   {
     "id": "ru_1421",
@@ -1063,7 +1183,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "та́йны"
+    "plural": "та́йны",
+    "reading": {
+      "ru": "tayna"
+    }
   },
   {
     "id": "ru_1423",
@@ -1087,7 +1210,10 @@ const WORDS_RU_B1 = [
       "zh": "心脏的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "serdechnyy"
+    }
   },
   {
     "id": "ru_1424",
@@ -1113,7 +1239,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "не́рвы"
+    "plural": "не́рвы",
+    "reading": {
+      "ru": "nervy"
+    }
   },
   {
     "id": "ru_1426",
@@ -1139,7 +1268,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сла́бости"
+    "plural": "сла́бости",
+    "reading": {
+      "ru": "slabost"
+    }
   },
   {
     "id": "ru_1427",
@@ -1163,7 +1295,10 @@ const WORDS_RU_B1 = [
       "zh": "美妙的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "chudesnyy"
+    }
   },
   {
     "id": "ru_1428",
@@ -1187,7 +1322,10 @@ const WORDS_RU_B1 = [
       "zh": "世界的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "mirovoy"
+    }
   },
   {
     "id": "ru_1429",
@@ -1212,7 +1350,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мировы́е"
+    "plural": "мировы́е",
+    "reading": {
+      "ru": "mirovoy"
+    }
   },
   {
     "id": "ru_1430",
@@ -1238,7 +1379,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "возвраще́ния"
+    "plural": "возвраще́ния",
+    "reading": {
+      "ru": "vozvrashchenie"
+    }
   },
   {
     "id": "ru_1431",
@@ -1264,7 +1408,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "про́сьбы"
+    "plural": "про́сьбы",
+    "reading": {
+      "ru": "prosba"
+    }
   },
   {
     "id": "ru_1432",
@@ -1288,7 +1435,10 @@ const WORDS_RU_B1 = [
       "zh": "特别的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "osobennyy"
+    }
   },
   {
     "id": "ru_1433",
@@ -1314,7 +1464,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "храни́лища"
+    "plural": "храни́лища",
+    "reading": {
+      "ru": "khranilishche"
+    }
   },
   {
     "id": "ru_1434",
@@ -1341,7 +1494,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "преследовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "presledovat"
+    }
   },
   {
     "id": "ru_1435",
@@ -1367,7 +1523,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сре́дства"
+    "plural": "сре́дства",
+    "reading": {
+      "ru": "sredstvo"
+    }
   },
   {
     "id": "ru_1436",
@@ -1391,7 +1550,10 @@ const WORDS_RU_B1 = [
       "zh": "蓝色"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "siniy"
+    }
   },
   {
     "id": "ru_1438",
@@ -1418,7 +1580,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "спуститься",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "spustitsya"
+    }
   },
   {
     "id": "ru_1439",
@@ -1444,7 +1609,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мгнове́ния"
+    "plural": "мгнове́ния",
+    "reading": {
+      "ru": "mgnovenie"
+    }
   },
   {
     "id": "ru_1441",
@@ -1468,7 +1636,10 @@ const WORDS_RU_B1 = [
       "zh": "浅蓝色"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "goluboy"
+    }
   },
   {
     "id": "ru_1442",
@@ -1493,7 +1664,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "голубы́е"
+    "plural": "голубы́е",
+    "reading": {
+      "ru": "goluboy"
+    }
   },
   {
     "id": "ru_1443",
@@ -1519,7 +1693,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мальчи́шки"
+    "plural": "мальчи́шки",
+    "reading": {
+      "ru": "malchishka"
+    }
   },
   {
     "id": "ru_1444",
@@ -1545,7 +1722,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "алкого́ли"
+    "plural": "алкого́ли",
+    "reading": {
+      "ru": "alkogol"
+    }
   },
   {
     "id": "ru_1445",
@@ -1570,7 +1750,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "нару́чники"
+    "plural": "нару́чники",
+    "reading": {
+      "ru": "naruchniki"
+    }
   },
   {
     "id": "ru_1446",
@@ -1595,7 +1778,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подкрепле́ния"
+    "plural": "подкрепле́ния",
+    "reading": {
+      "ru": "podkreplenie"
+    }
   },
   {
     "id": "ru_1447",
@@ -1621,7 +1807,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "призы́"
+    "plural": "призы́",
+    "reading": {
+      "ru": "priz"
+    }
   },
   {
     "id": "ru_1448",
@@ -1647,7 +1836,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ра́ны"
+    "plural": "ра́ны",
+    "reading": {
+      "ru": "rana"
+    }
   },
   {
     "id": "ru_1449",
@@ -1674,7 +1866,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "поли́тики"
+    "plural": "поли́тики",
+    "reading": {
+      "ru": "politika"
+    }
   },
   {
     "id": "ru_1450",
@@ -1701,7 +1896,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "уладить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uladit"
+    }
   },
   {
     "id": "ru_1451",
@@ -1728,7 +1926,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прогуляться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "progulyatsya"
+    }
   },
   {
     "id": "ru_1452",
@@ -1754,7 +1955,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "балы́"
+    "plural": "балы́",
+    "reading": {
+      "ru": "bal"
+    }
   },
   {
     "id": "ru_1453",
@@ -1781,7 +1985,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вставать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vstavat"
+    }
   },
   {
     "id": "ru_1454",
@@ -1808,7 +2015,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пу́нкты"
+    "plural": "пу́нкты",
+    "reading": {
+      "ru": "punkt"
+    }
   },
   {
     "id": "ru_1455",
@@ -1834,7 +2044,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выступать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vystupat"
+    }
   },
   {
     "id": "ru_1456",
@@ -1862,7 +2075,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "описать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "opisat"
+    }
   },
   {
     "id": "ru_1457",
@@ -1889,7 +2105,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повидаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "povidatsya"
+    }
   },
   {
     "id": "ru_1459",
@@ -1916,7 +2135,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "присесть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prisest"
+    }
   },
   {
     "id": "ru_1460",
@@ -1940,7 +2162,10 @@ const WORDS_RU_B1 = [
       "zh": "亲戚的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "rodnoy"
+    }
   },
   {
     "id": "ru_1461",
@@ -1966,7 +2191,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "альбо́мы"
+    "plural": "альбо́мы",
+    "reading": {
+      "ru": "albom"
+    }
   },
   {
     "id": "ru_1463",
@@ -1990,7 +2218,10 @@ const WORDS_RU_B1 = [
       "zh": "下一个"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "ocherednoy"
+    }
   },
   {
     "id": "ru_1464",
@@ -2018,7 +2249,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обеспечить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obespechit"
+    }
   },
   {
     "id": "ru_1465",
@@ -2043,7 +2277,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "лову́шки"
+    "plural": "лову́шки",
+    "reading": {
+      "ru": "lovushka"
+    }
   },
   {
     "id": "ru_1468",
@@ -2069,7 +2306,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "победи́тели"
+    "plural": "победи́тели",
+    "reading": {
+      "ru": "pobeditel"
+    }
   },
   {
     "id": "ru_1469",
@@ -2095,7 +2335,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "гря́зи"
+    "plural": "гря́зи",
+    "reading": {
+      "ru": "gryaz"
+    }
   },
   {
     "id": "ru_1470",
@@ -2119,7 +2362,10 @@ const WORDS_RU_B1 = [
       "zh": "脏"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "gryaznyy"
+    }
   },
   {
     "id": "ru_1471",
@@ -2144,7 +2390,10 @@ const WORDS_RU_B1 = [
       "zh": "工作的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "rabochiy"
+    }
   },
   {
     "id": "ru_1472",
@@ -2171,7 +2420,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "рабо́чие"
+    "plural": "рабо́чие",
+    "reading": {
+      "ru": "rabochiy"
+    }
   },
   {
     "id": "ru_1473",
@@ -2198,7 +2450,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "колле́ги"
+    "plural": "колле́ги",
+    "reading": {
+      "ru": "kollega"
+    }
   },
   {
     "id": "ru_1474",
@@ -2222,7 +2477,10 @@ const WORDS_RU_B1 = [
       "zh": "军事的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "voennyy"
+    }
   },
   {
     "id": "ru_1475",
@@ -2249,7 +2507,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "спрятать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "spryatat"
+    }
   },
   {
     "id": "ru_1477",
@@ -2276,7 +2537,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вмешиваться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vmeshivatsya"
+    }
   },
   {
     "id": "ru_1478",
@@ -2301,7 +2565,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "си́мволы"
+    "plural": "си́мволы",
+    "reading": {
+      "ru": "simvol"
+    }
   },
   {
     "id": "ru_1480",
@@ -2325,7 +2592,10 @@ const WORDS_RU_B1 = [
       "zh": "打算"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "nameren"
+    }
   },
   {
     "id": "ru_1481",
@@ -2352,7 +2622,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "осмотреть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "osmotret"
+    }
   },
   {
     "id": "ru_1482",
@@ -2379,7 +2652,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поужинать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pouzhinat"
+    }
   },
   {
     "id": "ru_1483",
@@ -2404,7 +2680,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "созда́ния"
+    "plural": "созда́ния",
+    "reading": {
+      "ru": "sozdanie"
+    }
   },
   {
     "id": "ru_1484",
@@ -2428,7 +2707,10 @@ const WORDS_RU_B1 = [
       "zh": "右边的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "pravyy"
+    }
   },
   {
     "id": "ru_1485",
@@ -2455,7 +2737,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отвести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otvesti"
+    }
   },
   {
     "id": "ru_1488",
@@ -2482,7 +2767,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "мести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "mesti"
+    }
   },
   {
     "id": "ru_1490",
@@ -2509,7 +2797,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "успеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uspet"
+    }
   },
   {
     "id": "ru_1491",
@@ -2535,7 +2826,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "лжецы́"
+    "plural": "лжецы́",
+    "reading": {
+      "ru": "lzhets"
+    }
   },
   {
     "id": "ru_1493",
@@ -2560,7 +2854,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "врата́"
+    "plural": "врата́",
+    "reading": {
+      "ru": "vrata"
+    }
   },
   {
     "id": "ru_1497",
@@ -2585,7 +2882,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дря́ни"
+    "plural": "дря́ни",
+    "reading": {
+      "ru": "dryan"
+    }
   },
   {
     "id": "ru_1498",
@@ -2611,7 +2911,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дворы́"
+    "plural": "дворы́",
+    "reading": {
+      "ru": "dvor"
+    }
   },
   {
     "id": "ru_1499",
@@ -2635,7 +2938,10 @@ const WORDS_RU_B1 = [
       "zh": "移动的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "mobilnyy"
+    }
   },
   {
     "id": "ru_1500",
@@ -2660,7 +2966,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "красо́тки"
+    "plural": "красо́тки",
+    "reading": {
+      "ru": "krasotka"
+    }
   },
   {
     "id": "ru_1501",
@@ -2687,7 +2996,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "убираться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ubiratsya"
+    }
   },
   {
     "id": "ru_1502",
@@ -2711,7 +3023,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ста́рины"
+    "plural": "ста́рины",
+    "reading": {
+      "ru": "starina"
+    }
   },
   {
     "id": "ru_1503",
@@ -2738,7 +3053,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "собирать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sobirat"
+    }
   },
   {
     "id": "ru_1504",
@@ -2765,7 +3083,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "бросать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "brosat"
+    }
   },
   {
     "id": "ru_1506",
@@ -2792,7 +3113,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ско́рые"
+    "plural": "ско́рые",
+    "reading": {
+      "ru": "skoraya"
+    }
   },
   {
     "id": "ru_1509",
@@ -2818,7 +3142,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кла́дбища"
+    "plural": "кла́дбища",
+    "reading": {
+      "ru": "kladbishche"
+    }
   },
   {
     "id": "ru_1510",
@@ -2843,7 +3170,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "це́лые"
+    "plural": "це́лые",
+    "reading": {
+      "ru": "tseloe"
+    }
   },
   {
     "id": "ru_1512",
@@ -2868,7 +3198,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "де́йствия"
+    "plural": "де́йствия",
+    "reading": {
+      "ru": "deystvie"
+    }
   },
   {
     "id": "ru_1514",
@@ -2893,7 +3226,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "чемпио́ны"
+    "plural": "чемпио́ны",
+    "reading": {
+      "ru": "chempion"
+    }
   },
   {
     "id": "ru_1515",
@@ -2920,7 +3256,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вынести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vynesti"
+    }
   },
   {
     "id": "ru_1516",
@@ -2946,7 +3285,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заня́тия"
+    "plural": "заня́тия",
+    "reading": {
+      "ru": "zanyatie"
+    }
   },
   {
     "id": "ru_1518",
@@ -2973,7 +3315,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "у́лицы"
+    "plural": "у́лицы",
+    "reading": {
+      "ru": "ulitsa"
+    }
   },
   {
     "id": "ru_1521",
@@ -2999,7 +3344,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́йя"
+    "plural": "ма́йя",
+    "reading": {
+      "ru": "mayya"
+    }
   },
   {
     "id": "ru_1522",
@@ -3026,7 +3374,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "организовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "organizovat"
+    }
   },
   {
     "id": "ru_1523",
@@ -3051,7 +3402,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "преиму́щества"
+    "plural": "преиму́щества",
+    "reading": {
+      "ru": "preimushchestvo"
+    }
   },
   {
     "id": "ru_1524",
@@ -3077,7 +3431,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "губерна́торы"
+    "plural": "губерна́торы",
+    "reading": {
+      "ru": "gubernator"
+    }
   },
   {
     "id": "ru_1525",
@@ -3103,7 +3460,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сни́мки"
+    "plural": "сни́мки",
+    "reading": {
+      "ru": "snimok"
+    }
   },
   {
     "id": "ru_1526",
@@ -3129,7 +3489,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "образова́ния"
+    "plural": "образова́ния",
+    "reading": {
+      "ru": "obrazovanie"
+    }
   },
   {
     "id": "ru_1527",
@@ -3156,7 +3519,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "больни́цы"
+    "plural": "больни́цы",
+    "reading": {
+      "ru": "bolnitsa"
+    }
   },
   {
     "id": "ru_1528",
@@ -3182,7 +3548,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "превратить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prevratit"
+    }
   },
   {
     "id": "ru_1529",
@@ -3208,7 +3577,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "писа́тели"
+    "plural": "писа́тели",
+    "reading": {
+      "ru": "pisatel"
+    }
   },
   {
     "id": "ru_1530",
@@ -3232,7 +3604,10 @@ const WORDS_RU_B1 = [
       "zh": "干净"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "chistyy"
+    }
   },
   {
     "id": "ru_1531",
@@ -3258,7 +3633,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "то́лпы"
+    "plural": "то́лпы",
+    "reading": {
+      "ru": "tolpa"
+    }
   },
   {
     "id": "ru_1533",
@@ -3284,7 +3662,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "скла́ды"
+    "plural": "скла́ды",
+    "reading": {
+      "ru": "sklad"
+    }
   },
   {
     "id": "ru_1534",
@@ -3309,7 +3690,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "гри́ны"
+    "plural": "гри́ны",
+    "reading": {
+      "ru": "grin"
+    }
   },
   {
     "id": "ru_1535",
@@ -3336,7 +3720,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "спрятаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "spryatatsya"
+    }
   },
   {
     "id": "ru_1536",
@@ -3361,7 +3748,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заклина́ния"
+    "plural": "заклина́ния",
+    "reading": {
+      "ru": "zaklinanie"
+    }
   },
   {
     "id": "ru_1537",
@@ -3385,7 +3775,10 @@ const WORDS_RU_B1 = [
       "zh": "甜的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "sladkiy"
+    }
   },
   {
     "id": "ru_1538",
@@ -3411,7 +3804,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*дна"
+    "plural": "*дна",
+    "reading": {
+      "ru": "dno"
+    }
   },
   {
     "id": "ru_1539",
@@ -3438,7 +3834,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "опера́торы"
+    "plural": "опера́торы",
+    "reading": {
+      "ru": "operator"
+    }
   },
   {
     "id": "ru_1540",
@@ -3465,7 +3864,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сме́ны"
+    "plural": "сме́ны",
+    "reading": {
+      "ru": "smena"
+    }
   },
   {
     "id": "ru_1541",
@@ -3489,7 +3891,10 @@ const WORDS_RU_B1 = [
       "zh": "共同的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "obshchiy"
+    }
   },
   {
     "id": "ru_1542",
@@ -3515,7 +3920,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "роста́"
+    "plural": "роста́",
+    "reading": {
+      "ru": "rost"
+    }
   },
   {
     "id": "ru_1543",
@@ -3541,7 +3949,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "реце́пты"
+    "plural": "реце́пты",
+    "reading": {
+      "ru": "retsept"
+    }
   },
   {
     "id": "ru_1544",
@@ -3567,7 +3978,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бока́лы"
+    "plural": "бока́лы",
+    "reading": {
+      "ru": "bokal"
+    }
   },
   {
     "id": "ru_1546",
@@ -3593,7 +4007,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́ксимумы"
+    "plural": "ма́ксимумы",
+    "reading": {
+      "ru": "maksimum"
+    }
   },
   {
     "id": "ru_1547",
@@ -3618,7 +4035,10 @@ const WORDS_RU_B1 = [
       "zh": "当地的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "mestnyy"
+    }
   },
   {
     "id": "ru_1548",
@@ -3645,7 +4065,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ме́стные"
+    "plural": "ме́стные",
+    "reading": {
+      "ru": "mestnyy"
+    }
   },
   {
     "id": "ru_1549",
@@ -3671,7 +4094,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "катастро́фы"
+    "plural": "катастро́фы",
+    "reading": {
+      "ru": "katastrofa"
+    }
   },
   {
     "id": "ru_1551",
@@ -3697,7 +4123,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ла́нчи"
+    "plural": "ла́нчи",
+    "reading": {
+      "ru": "lanch"
+    }
   },
   {
     "id": "ru_1552",
@@ -3723,7 +4152,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зу́бы"
+    "plural": "зу́бы",
+    "reading": {
+      "ru": "zub"
+    }
   },
   {
     "id": "ru_1553",
@@ -3750,7 +4182,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "измениться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "izmenitsya"
+    }
   },
   {
     "id": "ru_1554",
@@ -3777,7 +4212,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "аллерги́и"
+    "plural": "аллерги́и",
+    "reading": {
+      "ru": "allergiya"
+    }
   },
   {
     "id": "ru_1555",
@@ -3801,7 +4239,10 @@ const WORDS_RU_B1 = [
       "zh": "双重的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "dvoynoy"
+    }
   },
   {
     "id": "ru_1556",
@@ -3829,7 +4270,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поменять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pomenyat"
+    }
   },
   {
     "id": "ru_1557",
@@ -3854,7 +4298,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "неуда́чники"
+    "plural": "неуда́чники",
+    "reading": {
+      "ru": "neudachnik"
+    }
   },
   {
     "id": "ru_1559",
@@ -3880,7 +4327,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тва́ри"
+    "plural": "тва́ри",
+    "reading": {
+      "ru": "tvar"
+    }
   },
   {
     "id": "ru_1560",
@@ -3906,7 +4356,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "преда́тели"
+    "plural": "преда́тели",
+    "reading": {
+      "ru": "predatel"
+    }
   },
   {
     "id": "ru_1561",
@@ -3932,7 +4385,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "су́тки"
+    "plural": "су́тки",
+    "reading": {
+      "ru": "sutki"
+    }
   },
   {
     "id": "ru_1562",
@@ -3958,7 +4414,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ста́рые"
+    "plural": "ста́рые",
+    "reading": {
+      "ru": "staroe"
+    }
   },
   {
     "id": "ru_1564",
@@ -3984,7 +4443,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пи́рсы"
+    "plural": "пи́рсы",
+    "reading": {
+      "ru": "pirs"
+    }
   },
   {
     "id": "ru_1567",
@@ -4009,7 +4471,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фанта́стики"
+    "plural": "фанта́стики",
+    "reading": {
+      "ru": "fantastika"
+    }
   },
   {
     "id": "ru_1568",
@@ -4035,7 +4500,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "чо́ны"
+    "plural": "чо́ны",
+    "reading": {
+      "ru": "chon"
+    }
   },
   {
     "id": "ru_1569",
@@ -4062,7 +4530,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подарить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podarit"
+    }
   },
   {
     "id": "ru_1570",
@@ -4089,7 +4560,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "разделить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "razdelit"
+    }
   },
   {
     "id": "ru_1571",
@@ -4115,7 +4589,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подде́ржки"
+    "plural": "подде́ржки",
+    "reading": {
+      "ru": "podderzhka"
+    }
   },
   {
     "id": "ru_1574",
@@ -4140,7 +4617,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сою́зы"
+    "plural": "сою́зы",
+    "reading": {
+      "ru": "soyuz"
+    }
   },
   {
     "id": "ru_1575",
@@ -4166,7 +4646,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "на́дписи"
+    "plural": "на́дписи",
+    "reading": {
+      "ru": "nadpis"
+    }
   },
   {
     "id": "ru_1576",
@@ -4192,7 +4675,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бума́жники"
+    "plural": "бума́жники",
+    "reading": {
+      "ru": "bumazhnik"
+    }
   },
   {
     "id": "ru_1577",
@@ -4218,7 +4704,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "весе́лья"
+    "plural": "весе́лья",
+    "reading": {
+      "ru": "vesele"
+    }
   },
   {
     "id": "ru_1578",
@@ -4242,7 +4731,10 @@ const WORDS_RU_B1 = [
       "zh": "城市的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "gorodskoy"
+    }
   },
   {
     "id": "ru_1580",
@@ -4269,7 +4761,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "карье́ры"
+    "plural": "карье́ры",
+    "reading": {
+      "ru": "karera"
+    }
   },
   {
     "id": "ru_1581",
@@ -4294,7 +4789,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кри́зисы"
+    "plural": "кри́зисы",
+    "reading": {
+      "ru": "krizis"
+    }
   },
   {
     "id": "ru_1582",
@@ -4320,7 +4818,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "го́рдости"
+    "plural": "го́рдости",
+    "reading": {
+      "ru": "gordost"
+    }
   },
   {
     "id": "ru_1583",
@@ -4346,7 +4847,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кокте́йли"
+    "plural": "кокте́йли",
+    "reading": {
+      "ru": "kokteyl"
+    }
   },
   {
     "id": "ru_1584",
@@ -4372,7 +4876,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "отчёты"
+    "plural": "отчёты",
+    "reading": {
+      "ru": "otchyot"
+    }
   },
   {
     "id": "ru_1586",
@@ -4399,7 +4906,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "видеться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "videtsya"
+    }
   },
   {
     "id": "ru_1587",
@@ -4423,7 +4933,10 @@ const WORDS_RU_B1 = [
       "zh": "特别的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "osobyy"
+    }
   },
   {
     "id": "ru_1588",
@@ -4449,7 +4962,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "обуче́ния"
+    "plural": "обуче́ния",
+    "reading": {
+      "ru": "obuchenie"
+    }
   },
   {
     "id": "ru_1589",
@@ -4475,7 +4991,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "медве́ди"
+    "plural": "медве́ди",
+    "reading": {
+      "ru": "medved"
+    }
   },
   {
     "id": "ru_1590",
@@ -4501,7 +5020,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "су́мки"
+    "plural": "су́мки",
+    "reading": {
+      "ru": "sumka"
+    }
   },
   {
     "id": "ru_1591",
@@ -4527,7 +5049,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обмануть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obmanut"
+    }
   },
   {
     "id": "ru_1593",
@@ -4554,7 +5079,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "уснуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "usnut"
+    }
   },
   {
     "id": "ru_1594",
@@ -4578,7 +5106,10 @@ const WORDS_RU_B1 = [
       "zh": "不错"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "neplokhoy"
+    }
   },
   {
     "id": "ru_1595",
@@ -4605,7 +5136,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "злиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zlitsya"
+    }
   },
   {
     "id": "ru_1597",
@@ -4631,7 +5165,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "блàгода́рности"
+    "plural": "блàгода́рности",
+    "reading": {
+      "ru": "blagodarnost"
+    }
   },
   {
     "id": "ru_1598",
@@ -4657,7 +5194,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "достичь",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "dostich"
+    }
   },
   {
     "id": "ru_1599",
@@ -4683,7 +5223,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "присматривать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prismatrivat"
+    }
   },
   {
     "id": "ru_1601",
@@ -4706,7 +5249,10 @@ const WORDS_RU_B1 = [
       "zh": "惊人的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "potryasayushchiy"
+    }
   },
   {
     "id": "ru_1603",
@@ -4732,7 +5278,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "предотвратить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "predotvratit"
+    }
   },
   {
     "id": "ru_1604",
@@ -4758,7 +5307,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "уще́рбы"
+    "plural": "уще́рбы",
+    "reading": {
+      "ru": "ushcherb"
+    }
   },
   {
     "id": "ru_1606",
@@ -4785,7 +5337,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пожениться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozhenitsya"
+    }
   },
   {
     "id": "ru_1607",
@@ -4812,7 +5367,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "расписа́ния"
+    "plural": "расписа́ния",
+    "reading": {
+      "ru": "raspisanie"
+    }
   },
   {
     "id": "ru_1608",
@@ -4838,7 +5396,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выпустить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vypustit"
+    }
   },
   {
     "id": "ru_1610",
@@ -4864,7 +5425,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "я́йца"
+    "plural": "я́йца",
+    "reading": {
+      "ru": "yaytso"
+    }
   },
   {
     "id": "ru_1612",
@@ -4889,7 +5453,10 @@ const WORDS_RU_B1 = [
       "zh": "俄罗斯的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "russkiy"
+    }
   },
   {
     "id": "ru_1614",
@@ -4916,7 +5483,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пля́жи"
+    "plural": "пля́жи",
+    "reading": {
+      "ru": "plyazh"
+    }
   },
   {
     "id": "ru_1615",
@@ -4942,7 +5512,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отрицать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otritsat"
+    }
   },
   {
     "id": "ru_1616",
@@ -4968,7 +5541,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "се́йфы"
+    "plural": "се́йфы",
+    "reading": {
+      "ru": "seyf"
+    }
   },
   {
     "id": "ru_1617",
@@ -4993,7 +5569,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "продю́серы"
+    "plural": "продю́серы",
+    "reading": {
+      "ru": "prodyuser"
+    }
   },
   {
     "id": "ru_1618",
@@ -5020,7 +5599,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "уважать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uvazhat"
+    }
   },
   {
     "id": "ru_1619",
@@ -5046,7 +5628,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "оправда́ния"
+    "plural": "оправда́ния",
+    "reading": {
+      "ru": "opravdanie"
+    }
   },
   {
     "id": "ru_1620",
@@ -5073,7 +5658,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фо́нды"
+    "plural": "фо́нды",
+    "reading": {
+      "ru": "fond"
+    }
   },
   {
     "id": "ru_1621",
@@ -5099,7 +5687,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бабу́ли"
+    "plural": "бабу́ли",
+    "reading": {
+      "ru": "babulya"
+    }
   },
   {
     "id": "ru_1622",
@@ -5126,7 +5717,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "кормить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "kormit"
+    }
   },
   {
     "id": "ru_1624",
@@ -5152,7 +5746,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "о́бщие"
+    "plural": "о́бщие",
+    "reading": {
+      "ru": "obshchee"
+    }
   },
   {
     "id": "ru_1625",
@@ -5179,7 +5776,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "са́йты"
+    "plural": "са́йты",
+    "reading": {
+      "ru": "sayt"
+    }
   },
   {
     "id": "ru_1627",
@@ -5205,7 +5805,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пле́чи"
+    "plural": "пле́чи",
+    "reading": {
+      "ru": "plecho"
+    }
   },
   {
     "id": "ru_1628",
@@ -5232,7 +5835,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "перенести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "perenesti"
+    }
   },
   {
     "id": "ru_1629",
@@ -5258,7 +5864,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "цветки́"
+    "plural": "цветки́",
+    "reading": {
+      "ru": "tsvetok"
+    }
   },
   {
     "id": "ru_1630",
@@ -5283,7 +5892,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ка́ры"
+    "plural": "ка́ры",
+    "reading": {
+      "ru": "kara"
+    }
   },
   {
     "id": "ru_1631",
@@ -5310,7 +5922,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прожить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prozhit"
+    }
   },
   {
     "id": "ru_1632",
@@ -5337,7 +5952,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "благодарить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "blagodarit"
+    }
   },
   {
     "id": "ru_1633",
@@ -5365,7 +5983,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "договориться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "dogovoritsya"
+    }
   },
   {
     "id": "ru_1634",
@@ -5392,7 +6013,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "предоставить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "predostavit"
+    }
   },
   {
     "id": "ru_1635",
@@ -5420,7 +6044,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подготовить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podgotovit"
+    }
   },
   {
     "id": "ru_1636",
@@ -5446,7 +6073,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "откры́тия"
+    "plural": "откры́тия",
+    "reading": {
+      "ru": "otkrytie"
+    }
   },
   {
     "id": "ru_1637",
@@ -5473,7 +6103,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заснуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zasnut"
+    }
   },
   {
     "id": "ru_1638",
@@ -5499,7 +6132,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "расска́зы"
+    "plural": "расска́зы",
+    "reading": {
+      "ru": "rasskaz"
+    }
   },
   {
     "id": "ru_1639",
@@ -5523,7 +6159,10 @@ const WORDS_RU_B1 = [
       "zh": "儿童的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "detskiy"
+    }
   },
   {
     "id": "ru_1640",
@@ -5549,7 +6188,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "паны́"
+    "plural": "паны́",
+    "reading": {
+      "ru": "pan"
+    }
   },
   {
     "id": "ru_1641",
@@ -5575,7 +6217,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "во́лки"
+    "plural": "во́лки",
+    "reading": {
+      "ru": "volk"
+    }
   },
   {
     "id": "ru_1642",
@@ -5599,7 +6244,10 @@ const WORDS_RU_B1 = [
       "zh": "有趣的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "interesnyy"
+    }
   },
   {
     "id": "ru_1643",
@@ -5626,7 +6274,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подхо́ды"
+    "plural": "подхо́ды",
+    "reading": {
+      "ru": "podkhod"
+    }
   },
   {
     "id": "ru_1644",
@@ -5653,7 +6304,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "познакомить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poznakomit"
+    }
   },
   {
     "id": "ru_1645",
@@ -5680,7 +6334,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́тчи"
+    "plural": "ма́тчи",
+    "reading": {
+      "ru": "match"
+    }
   },
   {
     "id": "ru_1647",
@@ -5707,7 +6364,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отпраздновать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otprazdnovat"
+    }
   },
   {
     "id": "ru_1648",
@@ -5733,7 +6393,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тра́вмы"
+    "plural": "тра́вмы",
+    "reading": {
+      "ru": "travma"
+    }
   },
   {
     "id": "ru_1649",
@@ -5759,7 +6422,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*борьбы́"
+    "plural": "*борьбы́",
+    "reading": {
+      "ru": "borba"
+    }
   },
   {
     "id": "ru_1651",
@@ -5783,7 +6449,10 @@ const WORDS_RU_B1 = [
       "zh": "应该的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "polozheno"
+    }
   },
   {
     "id": "ru_1652",
@@ -5809,7 +6478,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ко́нкурсы"
+    "plural": "ко́нкурсы",
+    "reading": {
+      "ru": "konkurs"
+    }
   },
   {
     "id": "ru_1653",
@@ -5834,7 +6506,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "па́ки"
+    "plural": "па́ки",
+    "reading": {
+      "ru": "pak"
+    }
   },
   {
     "id": "ru_1654",
@@ -5861,7 +6536,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "хотеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "khotet"
+    }
   },
   {
     "id": "ru_1655",
@@ -5887,7 +6565,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "беспоря́дки"
+    "plural": "беспоря́дки",
+    "reading": {
+      "ru": "besporyadok"
+    }
   },
   {
     "id": "ru_1656",
@@ -5913,7 +6594,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шары́"
+    "plural": "шары́",
+    "reading": {
+      "ru": "shar"
+    }
   },
   {
     "id": "ru_1657",
@@ -5940,7 +6624,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обвинить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obvinit"
+    }
   },
   {
     "id": "ru_1658",
@@ -5966,7 +6653,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дива́ны"
+    "plural": "дива́ны",
+    "reading": {
+      "ru": "divan"
+    }
   },
   {
     "id": "ru_1659",
@@ -5992,7 +6682,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ряды́"
+    "plural": "ряды́",
+    "reading": {
+      "ru": "ryad"
+    }
   },
   {
     "id": "ru_1660",
@@ -6017,7 +6710,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вселе́нные"
+    "plural": "вселе́нные",
+    "reading": {
+      "ru": "vselennaya"
+    }
   },
   {
     "id": "ru_1661",
@@ -6042,7 +6738,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "саха́ры"
+    "plural": "саха́ры",
+    "reading": {
+      "ru": "sakhara"
+    }
   },
   {
     "id": "ru_1662",
@@ -6067,7 +6766,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "го́льфы"
+    "plural": "го́льфы",
+    "reading": {
+      "ru": "golf"
+    }
   },
   {
     "id": "ru_1664",
@@ -6094,7 +6796,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выбросить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vybrosit"
+    }
   },
   {
     "id": "ru_1665",
@@ -6119,7 +6824,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "со́вести"
+    "plural": "со́вести",
+    "reading": {
+      "ru": "sovest"
+    }
   },
   {
     "id": "ru_1666",
@@ -6143,7 +6851,10 @@ const WORDS_RU_B1 = [
       "zh": "不足为奇"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "neudivitelno"
+    }
   },
   {
     "id": "ru_1667",
@@ -6168,7 +6879,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "а́кты"
+    "plural": "а́кты",
+    "reading": {
+      "ru": "akt"
+    }
   },
   {
     "id": "ru_1668",
@@ -6193,7 +6907,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ба́нды"
+    "plural": "ба́нды",
+    "reading": {
+      "ru": "banda"
+    }
   },
   {
     "id": "ru_1669",
@@ -6218,7 +6935,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "описа́ния"
+    "plural": "описа́ния",
+    "reading": {
+      "ru": "opisanie"
+    }
   },
   {
     "id": "ru_1670",
@@ -6242,7 +6962,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "эфи́ры"
+    "plural": "эфи́ры",
+    "reading": {
+      "ru": "efir"
+    }
   },
   {
     "id": "ru_1671",
@@ -6269,7 +6992,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "оплатить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "oplatit"
+    }
   },
   {
     "id": "ru_1672",
@@ -6293,7 +7019,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ха́осы"
+    "plural": "ха́осы",
+    "reading": {
+      "ru": "khaos"
+    }
   },
   {
     "id": "ru_1673",
@@ -6318,7 +7047,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "испыта́ния"
+    "plural": "испыта́ния",
+    "reading": {
+      "ru": "ispytanie"
+    }
   },
   {
     "id": "ru_1674",
@@ -6344,7 +7076,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ли́фты"
+    "plural": "ли́фты",
+    "reading": {
+      "ru": "lift"
+    }
   },
   {
     "id": "ru_1675",
@@ -6370,7 +7105,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "переживать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "perezhivat"
+    }
   },
   {
     "id": "ru_1676",
@@ -6395,7 +7133,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прикры́тия"
+    "plural": "прикры́тия",
+    "reading": {
+      "ru": "prikrytie"
+    }
   },
   {
     "id": "ru_1677",
@@ -6422,7 +7163,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "лететь",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "letet"
+    }
   },
   {
     "id": "ru_1678",
@@ -6449,7 +7193,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поискать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poiskat"
+    }
   },
   {
     "id": "ru_1679",
@@ -6472,7 +7219,10 @@ const WORDS_RU_B1 = [
       "zh": "决定"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "resheno"
+    }
   },
   {
     "id": "ru_1680",
@@ -6497,7 +7247,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "но́ры"
+    "plural": "но́ры",
+    "reading": {
+      "ru": "nora"
+    }
   },
   {
     "id": "ru_1681",
@@ -6523,7 +7276,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проникнуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proniknut"
+    }
   },
   {
     "id": "ru_1682",
@@ -6549,7 +7305,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зве́ри"
+    "plural": "зве́ри",
+    "reading": {
+      "ru": "zver"
+    }
   },
   {
     "id": "ru_1683",
@@ -6574,7 +7333,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "экспериме́нты"
+    "plural": "экспериме́нты",
+    "reading": {
+      "ru": "eksperiment"
+    }
   },
   {
     "id": "ru_1685",
@@ -6599,7 +7361,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "департа́менты"
+    "plural": "департа́менты",
+    "reading": {
+      "ru": "departament"
+    }
   },
   {
     "id": "ru_1688",
@@ -6624,7 +7389,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фана́ты"
+    "plural": "фана́ты",
+    "reading": {
+      "ru": "fanat"
+    }
   },
   {
     "id": "ru_1690",
@@ -6648,7 +7416,10 @@ const WORDS_RU_B1 = [
       "zh": "法国的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "frantsuzskiy"
+    }
   },
   {
     "id": "ru_1691",
@@ -6674,7 +7445,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "францу́зские"
+    "plural": "францу́зские",
+    "reading": {
+      "ru": "frantsuzskiy"
+    }
   },
   {
     "id": "ru_1692",
@@ -6699,7 +7473,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ми́лости"
+    "plural": "ми́лости",
+    "reading": {
+      "ru": "milost"
+    }
   },
   {
     "id": "ru_1693",
@@ -6726,7 +7503,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "открывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otkryvat"
+    }
   },
   {
     "id": "ru_1694",
@@ -6751,7 +7531,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "крети́ны"
+    "plural": "крети́ны",
+    "reading": {
+      "ru": "kretin"
+    }
   },
   {
     "id": "ru_1696",
@@ -6777,7 +7560,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выслушать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vyslushat"
+    }
   },
   {
     "id": "ru_1699",
@@ -6802,7 +7588,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сце́ны"
+    "plural": "сце́ны",
+    "reading": {
+      "ru": "stsena"
+    }
   },
   {
     "id": "ru_1700",
@@ -6827,7 +7616,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сканда́лы"
+    "plural": "сканда́лы",
+    "reading": {
+      "ru": "skandal"
+    }
   },
   {
     "id": "ru_1701",
@@ -6853,7 +7645,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "удалить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "udalit"
+    }
   },
   {
     "id": "ru_1702",
@@ -6877,7 +7672,10 @@ const WORDS_RU_B1 = [
       "zh": "快的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "bystryy"
+    }
   },
   {
     "id": "ru_1703",
@@ -6904,7 +7702,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сжечь",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "szhech"
+    }
   },
   {
     "id": "ru_1704",
@@ -6930,7 +7731,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "леге́нды"
+    "plural": "леге́нды",
+    "reading": {
+      "ru": "legenda"
+    }
   },
   {
     "id": "ru_1705",
@@ -6957,7 +7761,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поболтать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poboltat"
+    }
   },
   {
     "id": "ru_1706",
@@ -6984,7 +7791,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "понадобиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ponadobitsya"
+    }
   },
   {
     "id": "ru_1708",
@@ -7010,7 +7820,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ору́дия"
+    "plural": "ору́дия",
+    "reading": {
+      "ru": "orudie"
+    }
   },
   {
     "id": "ru_1710",
@@ -7036,7 +7849,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "озёра"
+    "plural": "озёра",
+    "reading": {
+      "ru": "ozero"
+    }
   },
   {
     "id": "ru_1711",
@@ -7062,7 +7878,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ко́пии"
+    "plural": "ко́пии",
+    "reading": {
+      "ru": "kopiya"
+    }
   },
   {
     "id": "ru_1712",
@@ -7086,7 +7905,10 @@ const WORDS_RU_B1 = [
       "zh": "家庭的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "semeynyy"
+    }
   },
   {
     "id": "ru_1713",
@@ -7112,7 +7934,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подва́лы"
+    "plural": "подва́лы",
+    "reading": {
+      "ru": "podval"
+    }
   },
   {
     "id": "ru_1714",
@@ -7138,7 +7963,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "улы́бки"
+    "plural": "улы́бки",
+    "reading": {
+      "ru": "ulybka"
+    }
   },
   {
     "id": "ru_1716",
@@ -7165,7 +7993,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "перекусить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "perekusit"
+    }
   },
   {
     "id": "ru_1718",
@@ -7192,7 +8023,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мото́ры"
+    "plural": "мото́ры",
+    "reading": {
+      "ru": "motor"
+    }
   },
   {
     "id": "ru_1719",
@@ -7219,7 +8053,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "одолжить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "odolzhit"
+    }
   },
   {
     "id": "ru_1721",
@@ -7246,7 +8083,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бензи́ны"
+    "plural": "бензи́ны",
+    "reading": {
+      "ru": "benzin"
+    }
   },
   {
     "id": "ru_1722",
@@ -7272,7 +8112,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "брати́шки"
+    "plural": "брати́шки",
+    "reading": {
+      "ru": "bratishka"
+    }
   },
   {
     "id": "ru_1723",
@@ -7299,7 +8142,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "представлять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "predstavlyat"
+    }
   },
   {
     "id": "ru_1725",
@@ -7325,7 +8171,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пя́тна"
+    "plural": "пя́тна",
+    "reading": {
+      "ru": "pyatno"
+    }
   },
   {
     "id": "ru_1726",
@@ -7352,7 +8201,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "статьи́"
+    "plural": "статьи́",
+    "reading": {
+      "ru": "statya"
+    }
   },
   {
     "id": "ru_1727",
@@ -7378,7 +8230,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пасы́"
+    "plural": "пасы́",
+    "reading": {
+      "ru": "pas"
+    }
   },
   {
     "id": "ru_1729",
@@ -7404,7 +8259,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ро́ки"
+    "plural": "ро́ки",
+    "reading": {
+      "ru": "rok"
+    }
   },
   {
     "id": "ru_1731",
@@ -7431,7 +8289,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "продолжаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prodolzhatsya"
+    }
   },
   {
     "id": "ru_1732",
@@ -7455,7 +8316,10 @@ const WORDS_RU_B1 = [
       "zh": "毕业的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "vypusknoy"
+    }
   },
   {
     "id": "ru_1733",
@@ -7481,7 +8345,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пиджаки́"
+    "plural": "пиджаки́",
+    "reading": {
+      "ru": "pidzhak"
+    }
   },
   {
     "id": "ru_1734",
@@ -7507,7 +8374,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "о́быски"
+    "plural": "о́быски",
+    "reading": {
+      "ru": "obysk"
+    }
   },
   {
     "id": "ru_1735",
@@ -7533,7 +8403,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пило́ты"
+    "plural": "пило́ты",
+    "reading": {
+      "ru": "pilot"
+    }
   },
   {
     "id": "ru_1736",
@@ -7559,7 +8432,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "жа́лости"
+    "plural": "жа́лости",
+    "reading": {
+      "ru": "zhalost"
+    }
   },
   {
     "id": "ru_1737",
@@ -7583,7 +8459,10 @@ const WORDS_RU_B1 = [
       "zh": "新鲜的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "svezhiy"
+    }
   },
   {
     "id": "ru_1738",
@@ -7610,7 +8489,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "съездить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sezdit"
+    }
   },
   {
     "id": "ru_1739",
@@ -7637,7 +8519,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проходить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prokhodit"
+    }
   },
   {
     "id": "ru_1740",
@@ -7663,7 +8548,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "не́нависти"
+    "plural": "не́нависти",
+    "reading": {
+      "ru": "nenavist"
+    }
   },
   {
     "id": "ru_1741",
@@ -7689,7 +8577,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "напи́тки"
+    "plural": "напи́тки",
+    "reading": {
+      "ru": "napitok"
+    }
   },
   {
     "id": "ru_1742",
@@ -7716,7 +8607,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "перевести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "perevesti"
+    }
   },
   {
     "id": "ru_1743",
@@ -7743,7 +8637,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "свалить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "svalit"
+    }
   },
   {
     "id": "ru_1744",
@@ -7769,7 +8666,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "протоко́лы"
+    "plural": "протоко́лы",
+    "reading": {
+      "ru": "protokol"
+    }
   },
   {
     "id": "ru_1745",
@@ -7796,7 +8696,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*восто́ки"
+    "plural": "*восто́ки",
+    "reading": {
+      "ru": "vostok"
+    }
   },
   {
     "id": "ru_1746",
@@ -7822,7 +8725,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "по́лдни"
+    "plural": "по́лдни",
+    "reading": {
+      "ru": "polden"
+    }
   },
   {
     "id": "ru_1747",
@@ -7849,7 +8755,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "запомнить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zapomnit"
+    }
   },
   {
     "id": "ru_1748",
@@ -7876,7 +8785,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "переспать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "perespat"
+    }
   },
   {
     "id": "ru_1749",
@@ -7902,7 +8814,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пиани́но"
+    "plural": "пиани́но",
+    "reading": {
+      "ru": "pianino"
+    }
   },
   {
     "id": "ru_1750",
@@ -7928,7 +8843,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "да́ты"
+    "plural": "да́ты",
+    "reading": {
+      "ru": "data"
+    }
   },
   {
     "id": "ru_1751",
@@ -7954,7 +8872,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сте́ны"
+    "plural": "сте́ны",
+    "reading": {
+      "ru": "stena"
+    }
   },
   {
     "id": "ru_1752",
@@ -7980,7 +8901,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кры́сы"
+    "plural": "кры́сы",
+    "reading": {
+      "ru": "krysa"
+    }
   },
   {
     "id": "ru_1754",
@@ -8006,7 +8930,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "слу́хи"
+    "plural": "слу́хи",
+    "reading": {
+      "ru": "slukh"
+    }
   },
   {
     "id": "ru_1755",
@@ -8032,7 +8959,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "века́"
+    "plural": "века́",
+    "reading": {
+      "ru": "vek"
+    }
   },
   {
     "id": "ru_1756",
@@ -8060,7 +8990,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подвезти",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podvezti"
+    }
   },
   {
     "id": "ru_1757",
@@ -8087,7 +9020,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "напугать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "napugat"
+    }
   },
   {
     "id": "ru_1759",
@@ -8114,7 +9050,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "связать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "svyazat"
+    }
   },
   {
     "id": "ru_1760",
@@ -8141,7 +9080,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "молиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "molitsya"
+    }
   },
   {
     "id": "ru_1763",
@@ -8167,7 +9109,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "очистить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ochistit"
+    }
   },
   {
     "id": "ru_1766",
@@ -8193,7 +9138,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заключить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zaklyuchit"
+    }
   },
   {
     "id": "ru_1768",
@@ -8219,7 +9167,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "облегче́ния"
+    "plural": "облегче́ния",
+    "reading": {
+      "ru": "oblegchenie"
+    }
   },
   {
     "id": "ru_1769",
@@ -8246,7 +9197,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "собраться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sobratsya"
+    }
   },
   {
     "id": "ru_1770",
@@ -8271,7 +9225,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сте́рвы"
+    "plural": "сте́рвы",
+    "reading": {
+      "ru": "sterva"
+    }
   },
   {
     "id": "ru_1771",
@@ -8297,7 +9254,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "специали́сты"
+    "plural": "специали́сты",
+    "reading": {
+      "ru": "spetsialist"
+    }
   },
   {
     "id": "ru_1773",
@@ -8321,7 +9281,10 @@ const WORDS_RU_B1 = [
       "zh": "有趣的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "smeshnoy"
+    }
   },
   {
     "id": "ru_1774",
@@ -8348,7 +9311,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "остано́вки"
+    "plural": "остано́вки",
+    "reading": {
+      "ru": "ostanovka"
+    }
   },
   {
     "id": "ru_1775",
@@ -8374,7 +9340,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "дозвониться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "dozvonitsya"
+    }
   },
   {
     "id": "ru_1776",
@@ -8400,7 +9369,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "авеню́"
+    "plural": "авеню́",
+    "reading": {
+      "ru": "avenyu"
+    }
   },
   {
     "id": "ru_1777",
@@ -8427,7 +9399,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ты́сячи"
+    "plural": "ты́сячи",
+    "reading": {
+      "ru": "tysyacha"
+    }
   },
   {
     "id": "ru_1779",
@@ -8453,7 +9428,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "забо́ты"
+    "plural": "забо́ты",
+    "reading": {
+      "ru": "zabota"
+    }
   },
   {
     "id": "ru_1780",
@@ -8479,7 +9457,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "отка́зы"
+    "plural": "отка́зы",
+    "reading": {
+      "ru": "otkaz"
+    }
   },
   {
     "id": "ru_1782",
@@ -8504,7 +9485,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "значки́"
+    "plural": "значки́",
+    "reading": {
+      "ru": "znachok"
+    }
   },
   {
     "id": "ru_1783",
@@ -8530,7 +9514,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ремо́нты"
+    "plural": "ремо́нты",
+    "reading": {
+      "ru": "remont"
+    }
   },
   {
     "id": "ru_1784",
@@ -8557,7 +9544,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "наслаждаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "naslazhdatsya"
+    }
   },
   {
     "id": "ru_1785",
@@ -8583,7 +9573,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ме́тоды"
+    "plural": "ме́тоды",
+    "reading": {
+      "ru": "metod"
+    }
   },
   {
     "id": "ru_1787",
@@ -8610,7 +9603,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "велосипе́ды"
+    "plural": "велосипе́ды",
+    "reading": {
+      "ru": "velosiped"
+    }
   },
   {
     "id": "ru_1789",
@@ -8633,7 +9629,10 @@ const WORDS_RU_B1 = [
       "zh": "注定"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "suzhdeno"
+    }
   },
   {
     "id": "ru_1790",
@@ -8660,7 +9659,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "задержать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zaderzhat"
+    }
   },
   {
     "id": "ru_1791",
@@ -8686,7 +9688,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шпио́ны"
+    "plural": "шпио́ны",
+    "reading": {
+      "ru": "shpion"
+    }
   },
   {
     "id": "ru_1794",
@@ -8713,7 +9718,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "повыше́ния"
+    "plural": "повыше́ния",
+    "reading": {
+      "ru": "povyshenie"
+    }
   },
   {
     "id": "ru_1796",
@@ -8737,7 +9745,10 @@ const WORDS_RU_B1 = [
       "zh": "男性的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "muzhskoy"
+    }
   },
   {
     "id": "ru_1797",
@@ -8764,7 +9775,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выступить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vystupit"
+    }
   },
   {
     "id": "ru_1798",
@@ -8790,7 +9804,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ри́сы"
+    "plural": "ри́сы",
+    "reading": {
+      "ru": "ris"
+    }
   },
   {
     "id": "ru_1799",
@@ -8817,7 +9834,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "относиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otnositsya"
+    }
   },
   {
     "id": "ru_1803",
@@ -8843,7 +9863,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "охо́тники"
+    "plural": "охо́тники",
+    "reading": {
+      "ru": "okhotnik"
+    }
   },
   {
     "id": "ru_1804",
@@ -8869,7 +9892,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "приро́ды"
+    "plural": "приро́ды",
+    "reading": {
+      "ru": "priroda"
+    }
   },
   {
     "id": "ru_1805",
@@ -8896,7 +9922,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "охра́нники"
+    "plural": "охра́нники",
+    "reading": {
+      "ru": "okhrannik"
+    }
   },
   {
     "id": "ru_1806",
@@ -8923,7 +9952,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "стараться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "staratsya"
+    }
   },
   {
     "id": "ru_1807",
@@ -8949,7 +9981,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ко́сти"
+    "plural": "ко́сти",
+    "reading": {
+      "ru": "kost"
+    }
   },
   {
     "id": "ru_1809",
@@ -8975,7 +10010,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кры́ши"
+    "plural": "кры́ши",
+    "reading": {
+      "ru": "krysha"
+    }
   },
   {
     "id": "ru_1810",
@@ -9002,7 +10040,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "берега́"
+    "plural": "берега́",
+    "reading": {
+      "ru": "bereg"
+    }
   },
   {
     "id": "ru_1816",
@@ -9027,7 +10068,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "похище́ния"
+    "plural": "похище́ния",
+    "reading": {
+      "ru": "pokhishchenie"
+    }
   },
   {
     "id": "ru_1817",
@@ -9054,7 +10098,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "появиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poyavitsya"
+    }
   },
   {
     "id": "ru_1819",
@@ -9079,7 +10126,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вампи́ры"
+    "plural": "вампи́ры",
+    "reading": {
+      "ru": "vampir"
+    }
   },
   {
     "id": "ru_1820",
@@ -9106,7 +10156,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фа́йлы"
+    "plural": "фа́йлы",
+    "reading": {
+      "ru": "fayl"
+    }
   },
   {
     "id": "ru_1821",
@@ -9133,7 +10186,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "догадаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "dogadatsya"
+    }
   },
   {
     "id": "ru_1822",
@@ -9157,7 +10213,10 @@ const WORDS_RU_B1 = [
       "zh": "最坏的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "khudshiy"
+    }
   },
   {
     "id": "ru_1823",
@@ -9182,7 +10241,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мила́шки"
+    "plural": "мила́шки",
+    "reading": {
+      "ru": "milashka"
+    }
   },
   {
     "id": "ru_1824",
@@ -9208,7 +10270,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "побере́жья"
+    "plural": "побере́жья",
+    "reading": {
+      "ru": "poberezhe"
+    }
   },
   {
     "id": "ru_1825",
@@ -9233,7 +10298,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "недоразуме́ния"
+    "plural": "недоразуме́ния",
+    "reading": {
+      "ru": "nedorazumenie"
+    }
   },
   {
     "id": "ru_1827",
@@ -9258,7 +10326,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ту́ры"
+    "plural": "ту́ры",
+    "reading": {
+      "ru": "tur"
+    }
   },
   {
     "id": "ru_1828",
@@ -9283,7 +10354,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "изображе́ния"
+    "plural": "изображе́ния",
+    "reading": {
+      "ru": "izobrazhenie"
+    }
   },
   {
     "id": "ru_1829",
@@ -9307,7 +10381,10 @@ const WORDS_RU_B1 = [
       "zh": "电话的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "telefonnyy"
+    }
   },
   {
     "id": "ru_1830",
@@ -9334,7 +10411,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прочесть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prochest"
+    }
   },
   {
     "id": "ru_1831",
@@ -9360,7 +10440,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "направле́ния"
+    "plural": "направле́ния",
+    "reading": {
+      "ru": "napravlenie"
+    }
   },
   {
     "id": "ru_1832",
@@ -9385,7 +10468,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "брасле́ты"
+    "plural": "брасле́ты",
+    "reading": {
+      "ru": "braslet"
+    }
   },
   {
     "id": "ru_1833",
@@ -9410,7 +10496,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "портре́ты"
+    "plural": "портре́ты",
+    "reading": {
+      "ru": "portret"
+    }
   },
   {
     "id": "ru_1834",
@@ -9435,7 +10524,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "обма́ны"
+    "plural": "обма́ны",
+    "reading": {
+      "ru": "obman"
+    }
   },
   {
     "id": "ru_1835",
@@ -9460,7 +10552,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пораже́ния"
+    "plural": "пораже́ния",
+    "reading": {
+      "ru": "porazhenie"
+    }
   },
   {
     "id": "ru_1836",
@@ -9487,7 +10582,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "составить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sostavit"
+    }
   },
   {
     "id": "ru_1839",
@@ -9514,7 +10612,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "потратить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "potratit"
+    }
   },
   {
     "id": "ru_1840",
@@ -9539,7 +10640,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бра́тцы"
+    "plural": "бра́тцы",
+    "reading": {
+      "ru": "bratets"
+    }
   },
   {
     "id": "ru_1842",
@@ -9564,7 +10668,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ава́рии"
+    "plural": "ава́рии",
+    "reading": {
+      "ru": "avariya"
+    }
   },
   {
     "id": "ru_1843",
@@ -9589,7 +10696,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "духи́"
+    "plural": "духи́",
+    "reading": {
+      "ru": "dukhi"
+    }
   },
   {
     "id": "ru_1844",
@@ -9616,7 +10726,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "спешить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "speshit"
+    }
   },
   {
     "id": "ru_1846",
@@ -9641,7 +10754,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "новички́"
+    "plural": "новички́",
+    "reading": {
+      "ru": "novichok"
+    }
   },
   {
     "id": "ru_1847",
@@ -9666,7 +10782,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зо́ны"
+    "plural": "зо́ны",
+    "reading": {
+      "ru": "zona"
+    }
   },
   {
     "id": "ru_1848",
@@ -9689,7 +10808,10 @@ const WORDS_RU_B1 = [
       "zh": "合适的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "podkhodyashchiy"
+    }
   },
   {
     "id": "ru_1849",
@@ -9714,7 +10836,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фло́ты"
+    "plural": "фло́ты",
+    "reading": {
+      "ru": "flot"
+    }
   },
   {
     "id": "ru_1850",
@@ -9740,7 +10865,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "музе́и"
+    "plural": "музе́и",
+    "reading": {
+      "ru": "muzey"
+    }
   },
   {
     "id": "ru_1851",
@@ -9766,7 +10894,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ко́смосы"
+    "plural": "ко́смосы",
+    "reading": {
+      "ru": "kosmos"
+    }
   },
   {
     "id": "ru_1852",
@@ -9793,7 +10924,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "привезти",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "privezti"
+    }
   },
   {
     "id": "ru_1853",
@@ -9819,7 +10953,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "случа́йности"
+    "plural": "случа́йности",
+    "reading": {
+      "ru": "sluchaynost"
+    }
   },
   {
     "id": "ru_1854",
@@ -9846,7 +10983,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "режи́мы"
+    "plural": "режи́мы",
+    "reading": {
+      "ru": "rezhim"
+    }
   },
   {
     "id": "ru_1855",
@@ -9871,7 +11011,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "га́зы"
+    "plural": "га́зы",
+    "reading": {
+      "ru": "gaza"
+    }
   },
   {
     "id": "ru_1856",
@@ -9897,7 +11040,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "хиру́рги"
+    "plural": "хиру́рги",
+    "reading": {
+      "ru": "khirurg"
+    }
   },
   {
     "id": "ru_1857",
@@ -9923,7 +11069,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ба́зы"
+    "plural": "ба́зы",
+    "reading": {
+      "ru": "baza"
+    }
   },
   {
     "id": "ru_1858",
@@ -9949,7 +11098,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сериа́лы"
+    "plural": "сериа́лы",
+    "reading": {
+      "ru": "serial"
+    }
   },
   {
     "id": "ru_1859",
@@ -9977,7 +11129,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проверять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proveryat"
+    }
   },
   {
     "id": "ru_1860",
@@ -10004,7 +11159,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "расстаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "rasstatsya"
+    }
   },
   {
     "id": "ru_1861",
@@ -10030,7 +11188,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пре́ссы"
+    "plural": "пре́ссы",
+    "reading": {
+      "ru": "pressa"
+    }
   },
   {
     "id": "ru_1862",
@@ -10056,7 +11217,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "то́ны"
+    "plural": "то́ны",
+    "reading": {
+      "ru": "ton"
+    }
   },
   {
     "id": "ru_1863",
@@ -10082,7 +11246,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "брю́ки"
+    "plural": "брю́ки",
+    "reading": {
+      "ru": "bryuki"
+    }
   },
   {
     "id": "ru_1864",
@@ -10108,7 +11275,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "аппара́ты"
+    "plural": "аппара́ты",
+    "reading": {
+      "ru": "apparat"
+    }
   },
   {
     "id": "ru_1867",
@@ -10134,7 +11304,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "э́ли"
+    "plural": "э́ли",
+    "reading": {
+      "ru": "el"
+    }
   },
   {
     "id": "ru_1869",
@@ -10161,7 +11334,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вспоминать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vspominat"
+    }
   },
   {
     "id": "ru_1870",
@@ -10185,7 +11361,10 @@ const WORDS_RU_B1 = [
       "zh": "真实的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "vernyy"
+    }
   },
   {
     "id": "ru_1871",
@@ -10211,7 +11390,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кани́кулы"
+    "plural": "кани́кулы",
+    "reading": {
+      "ru": "kanikuly"
+    }
   },
   {
     "id": "ru_1872",
@@ -10235,7 +11417,10 @@ const WORDS_RU_B1 = [
       "zh": "盲的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "slepoy"
+    }
   },
   {
     "id": "ru_1873",
@@ -10260,7 +11445,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "черепа́"
+    "plural": "черепа́",
+    "reading": {
+      "ru": "cherep"
+    }
   },
   {
     "id": "ru_1875",
@@ -10287,7 +11475,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "посидеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "posidet"
+    }
   },
   {
     "id": "ru_1876",
@@ -10313,7 +11504,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "запро́сы"
+    "plural": "запро́сы",
+    "reading": {
+      "ru": "zapros"
+    }
   },
   {
     "id": "ru_1877",
@@ -10340,7 +11534,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пообедать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poobedat"
+    }
   },
   {
     "id": "ru_1878",
@@ -10365,7 +11562,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "со́ни"
+    "plural": "со́ни",
+    "reading": {
+      "ru": "sonya"
+    }
   },
   {
     "id": "ru_1880",
@@ -10391,7 +11591,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "наблюде́ния"
+    "plural": "наблюде́ния",
+    "reading": {
+      "ru": "nablyudenie"
+    }
   },
   {
     "id": "ru_1881",
@@ -10417,7 +11620,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "комите́ты"
+    "plural": "комите́ты",
+    "reading": {
+      "ru": "komitet"
+    }
   },
   {
     "id": "ru_1882",
@@ -10443,7 +11649,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ку́хни"
+    "plural": "ку́хни",
+    "reading": {
+      "ru": "kukhnya"
+    }
   },
   {
     "id": "ru_1884",
@@ -10468,7 +11677,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кенты́"
+    "plural": "кенты́",
+    "reading": {
+      "ru": "kent"
+    }
   },
   {
     "id": "ru_1885",
@@ -10494,7 +11706,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сокро́вища"
+    "plural": "сокро́вища",
+    "reading": {
+      "ru": "sokrovishche"
+    }
   },
   {
     "id": "ru_1886",
@@ -10521,7 +11736,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обидеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obidet"
+    }
   },
   {
     "id": "ru_1888",
@@ -10547,7 +11765,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "взорвать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vzorvat"
+    }
   },
   {
     "id": "ru_1890",
@@ -10572,7 +11793,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "стрелки́"
+    "plural": "стрелки́",
+    "reading": {
+      "ru": "strelok"
+    }
   },
   {
     "id": "ru_1891",
@@ -10596,7 +11820,10 @@ const WORDS_RU_B1 = [
       "zh": "外来的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "chuzhoy"
+    }
   },
   {
     "id": "ru_1892",
@@ -10622,7 +11849,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "чужи́е"
+    "plural": "чужи́е",
+    "reading": {
+      "ru": "chuzhoy"
+    }
   },
   {
     "id": "ru_1893",
@@ -10647,7 +11877,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ви́дения"
+    "plural": "ви́дения",
+    "reading": {
+      "ru": "videnie"
+    }
   },
   {
     "id": "ru_1894",
@@ -10674,7 +11907,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "схватить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "skhvatit"
+    }
   },
   {
     "id": "ru_1896",
@@ -10700,7 +11936,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ме́лочи"
+    "plural": "ме́лочи",
+    "reading": {
+      "ru": "meloch"
+    }
   },
   {
     "id": "ru_1897",
@@ -10725,7 +11964,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тупи́цы"
+    "plural": "тупи́цы",
+    "reading": {
+      "ru": "tupitsa"
+    }
   },
   {
     "id": "ru_1899",
@@ -10752,7 +11994,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отметить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otmetit"
+    }
   },
   {
     "id": "ru_1900",
@@ -10779,7 +12024,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выключить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vyklyuchit"
+    }
   },
   {
     "id": "ru_1901",
@@ -10806,7 +12054,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отойти",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otoyti"
+    }
   },
   {
     "id": "ru_1902",
@@ -10833,7 +12084,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "приготовиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prigotovitsya"
+    }
   },
   {
     "id": "ru_1903",
@@ -10859,7 +12113,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "послы́"
+    "plural": "послы́",
+    "reading": {
+      "ru": "posol"
+    }
   },
   {
     "id": "ru_1904",
@@ -10885,7 +12142,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "репута́ции"
+    "plural": "репута́ции",
+    "reading": {
+      "ru": "reputatsiya"
+    }
   },
   {
     "id": "ru_1905",
@@ -10911,7 +12171,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ожере́лья"
+    "plural": "ожере́лья",
+    "reading": {
+      "ru": "ozherele"
+    }
   },
   {
     "id": "ru_1906",
@@ -10937,7 +12200,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ви́ки"
+    "plural": "ви́ки",
+    "reading": {
+      "ru": "viki"
+    }
   },
   {
     "id": "ru_1907",
@@ -10963,7 +12229,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "запустить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zapustit"
+    }
   },
   {
     "id": "ru_1908",
@@ -10989,7 +12258,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "уве́ренности"
+    "plural": "уве́ренности",
+    "reading": {
+      "ru": "uverennost"
+    }
   },
   {
     "id": "ru_1909",
@@ -11015,7 +12287,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сту́ки"
+    "plural": "сту́ки",
+    "reading": {
+      "ru": "stuk"
+    }
   },
   {
     "id": "ru_1910",
@@ -11041,7 +12316,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "полоте́нца"
+    "plural": "полоте́нца",
+    "reading": {
+      "ru": "polotentse"
+    }
   },
   {
     "id": "ru_1911",
@@ -11067,7 +12345,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шра́мы"
+    "plural": "шра́мы",
+    "reading": {
+      "ru": "shram"
+    }
   },
   {
     "id": "ru_1912",
@@ -11093,7 +12374,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кресты́"
+    "plural": "кресты́",
+    "reading": {
+      "ru": "krest"
+    }
   },
   {
     "id": "ru_1913",
@@ -11119,7 +12403,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тра́ты"
+    "plural": "тра́ты",
+    "reading": {
+      "ru": "trata"
+    }
   },
   {
     "id": "ru_1915",
@@ -11145,7 +12432,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "руба́шки"
+    "plural": "руба́шки",
+    "reading": {
+      "ru": "rubashka"
+    }
   },
   {
     "id": "ru_1916",
@@ -11168,7 +12458,10 @@ const WORDS_RU_B1 = [
       "zh": "神的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "bozhiy"
+    }
   },
   {
     "id": "ru_1917",
@@ -11194,7 +12487,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "произвести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proizvesti"
+    }
   },
   {
     "id": "ru_1918",
@@ -11219,7 +12515,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "существова́ния"
+    "plural": "существова́ния",
+    "reading": {
+      "ru": "sushchestvovanie"
+    }
   },
   {
     "id": "ru_1919",
@@ -11245,7 +12544,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фо́ны"
+    "plural": "фо́ны",
+    "reading": {
+      "ru": "fon"
+    }
   },
   {
     "id": "ru_1920",
@@ -11271,7 +12573,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отдавать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otdavat"
+    }
   },
   {
     "id": "ru_1921",
@@ -11297,7 +12602,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дымы́"
+    "plural": "дымы́",
+    "reading": {
+      "ru": "dym"
+    }
   },
   {
     "id": "ru_1922",
@@ -11323,7 +12631,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заставлять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zastavlyat"
+    }
   },
   {
     "id": "ru_1924",
@@ -11348,7 +12659,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пло́ти"
+    "plural": "пло́ти",
+    "reading": {
+      "ru": "plot"
+    }
   },
   {
     "id": "ru_1925",
@@ -11374,7 +12688,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "га́дости"
+    "plural": "га́дости",
+    "reading": {
+      "ru": "gadost"
+    }
   },
   {
     "id": "ru_1926",
@@ -11400,7 +12717,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прию́ты"
+    "plural": "прию́ты",
+    "reading": {
+      "ru": "priyut"
+    }
   },
   {
     "id": "ru_1929",
@@ -11425,7 +12745,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "наде́лы"
+    "plural": "наде́лы",
+    "reading": {
+      "ru": "nadel"
+    }
   },
   {
     "id": "ru_1931",
@@ -11452,7 +12775,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ста́нции"
+    "plural": "ста́нции",
+    "reading": {
+      "ru": "stantsiya"
+    }
   },
   {
     "id": "ru_1932",
@@ -11480,7 +12806,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "зарабатывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zarabatyvat"
+    }
   },
   {
     "id": "ru_1933",
@@ -11506,7 +12835,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бардаки́"
+    "plural": "бардаки́",
+    "reading": {
+      "ru": "bardak"
+    }
   },
   {
     "id": "ru_1936",
@@ -11531,7 +12863,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пе́нисы"
+    "plural": "пе́нисы",
+    "reading": {
+      "ru": "penis"
+    }
   },
   {
     "id": "ru_1937",
@@ -11558,7 +12893,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "успокоить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uspokoit"
+    }
   },
   {
     "id": "ru_1938",
@@ -11584,7 +12922,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "режиссёры"
+    "plural": "режиссёры",
+    "reading": {
+      "ru": "rezhissyor"
+    }
   },
   {
     "id": "ru_1939",
@@ -11610,7 +12951,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ба́ки"
+    "plural": "ба́ки",
+    "reading": {
+      "ru": "bak"
+    }
   },
   {
     "id": "ru_1941",
@@ -11637,7 +12981,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "забывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zabyvat"
+    }
   },
   {
     "id": "ru_1942",
@@ -11661,7 +13008,10 @@ const WORDS_RU_B1 = [
       "zh": "复杂的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "slozhnyy"
+    }
   },
   {
     "id": "ru_1943",
@@ -11686,7 +13036,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "помога́лы"
+    "plural": "помога́лы",
+    "reading": {
+      "ru": "pomogala"
+    }
   },
   {
     "id": "ru_1945",
@@ -11711,7 +13064,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "правосу́дия"
+    "plural": "правосу́дия",
+    "reading": {
+      "ru": "pravosudie"
+    }
   },
   {
     "id": "ru_1946",
@@ -11737,7 +13093,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пи́лы"
+    "plural": "пи́лы",
+    "reading": {
+      "ru": "pila"
+    }
   },
   {
     "id": "ru_1947",
@@ -11762,7 +13121,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "представи́тели"
+    "plural": "представи́тели",
+    "reading": {
+      "ru": "predstavitel"
+    }
   },
   {
     "id": "ru_1948",
@@ -11788,7 +13150,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "у́мницы"
+    "plural": "у́мницы",
+    "reading": {
+      "ru": "umnitsa"
+    }
   },
   {
     "id": "ru_1949",
@@ -11814,7 +13179,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "помеще́ния"
+    "plural": "помеще́ния",
+    "reading": {
+      "ru": "pomeshchenie"
+    }
   },
   {
     "id": "ru_1950",
@@ -11841,7 +13209,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "устраивать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ustraivat"
+    }
   },
   {
     "id": "ru_1951",
@@ -11866,7 +13237,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "предчу́вствия"
+    "plural": "предчу́вствия",
+    "reading": {
+      "ru": "predchuvstvie"
+    }
   },
   {
     "id": "ru_1952",
@@ -11892,7 +13266,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ru": "krasnoe"
+    }
   },
   {
     "id": "ru_1953",
@@ -11917,7 +13294,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кро́лики"
+    "plural": "кро́лики",
+    "reading": {
+      "ru": "krolik"
+    }
   },
   {
     "id": "ru_1954",
@@ -11944,7 +13324,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "су́ммы"
+    "plural": "су́ммы",
+    "reading": {
+      "ru": "summa"
+    }
   },
   {
     "id": "ru_1955",
@@ -11969,7 +13352,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́тушки"
+    "plural": "ма́тушки",
+    "reading": {
+      "ru": "matushka"
+    }
   },
   {
     "id": "ru_1956",
@@ -11996,7 +13382,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подготовиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podgotovitsya"
+    }
   },
   {
     "id": "ru_1957",
@@ -12022,7 +13411,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бума́ги"
+    "plural": "бума́ги",
+    "reading": {
+      "ru": "bumaga"
+    }
   },
   {
     "id": "ru_1958",
@@ -12047,7 +13439,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "произво́дства"
+    "plural": "произво́дства",
+    "reading": {
+      "ru": "proizvodstvo"
+    }
   },
   {
     "id": "ru_1959",
@@ -12074,7 +13469,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обнаружить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obnaruzhit"
+    }
   },
   {
     "id": "ru_1962",
@@ -12101,7 +13499,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отложить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otlozhit"
+    }
   },
   {
     "id": "ru_1963",
@@ -12126,7 +13527,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сте́пени"
+    "plural": "сте́пени",
+    "reading": {
+      "ru": "stepen"
+    }
   },
   {
     "id": "ru_1965",
@@ -12153,7 +13557,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отключить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otklyuchit"
+    }
   },
   {
     "id": "ru_1966",
@@ -12177,7 +13584,10 @@ const WORDS_RU_B1 = [
       "zh": "有趣的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "zabavnyy"
+    }
   },
   {
     "id": "ru_1967",
@@ -12203,7 +13613,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "што́рмы"
+    "plural": "што́рмы",
+    "reading": {
+      "ru": "shtorm"
+    }
   },
   {
     "id": "ru_1968",
@@ -12229,7 +13642,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "реда́кции"
+    "plural": "реда́кции",
+    "reading": {
+      "ru": "redaktsiya"
+    }
   },
   {
     "id": "ru_1969",
@@ -12256,7 +13672,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "внести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vnesti"
+    }
   },
   {
     "id": "ru_1972",
@@ -12282,7 +13701,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "при́были"
+    "plural": "при́были",
+    "reading": {
+      "ru": "pribyl"
+    }
   },
   {
     "id": "ru_1973",
@@ -12306,7 +13728,10 @@ const WORDS_RU_B1 = [
       "zh": "诚实的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "chestnyy"
+    }
   },
   {
     "id": "ru_1974",
@@ -12333,7 +13758,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "игнорировать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ignorirovat"
+    }
   },
   {
     "id": "ru_1975",
@@ -12359,7 +13787,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "коро́вы"
+    "plural": "коро́вы",
+    "reading": {
+      "ru": "korova"
+    }
   },
   {
     "id": "ru_1976",
@@ -12386,7 +13817,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "избегать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "izbegat"
+    }
   },
   {
     "id": "ru_1977",
@@ -12410,7 +13844,10 @@ const WORDS_RU_B1 = [
       "zh": "学校的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "shkolnyy"
+    }
   },
   {
     "id": "ru_1978",
@@ -12437,7 +13874,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сломать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "slomat"
+    }
   },
   {
     "id": "ru_1979",
@@ -12464,7 +13904,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "жалеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zhalet"
+    }
   },
   {
     "id": "ru_1980",
@@ -12488,7 +13931,10 @@ const WORDS_RU_B1 = [
       "zh": "深的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "glubokiy"
+    }
   },
   {
     "id": "ru_1983",
@@ -12515,7 +13961,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "почитать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pochitat"
+    }
   },
   {
     "id": "ru_1984",
@@ -12542,7 +13991,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "оказать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "okazat"
+    }
   },
   {
     "id": "ru_1985",
@@ -12567,7 +14019,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "синдро́мы"
+    "plural": "синдро́мы",
+    "reading": {
+      "ru": "sindrom"
+    }
   },
   {
     "id": "ru_1986",
@@ -12593,7 +14048,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "те́ксты"
+    "plural": "те́ксты",
+    "reading": {
+      "ru": "tekst"
+    }
   },
   {
     "id": "ru_1987",
@@ -12619,7 +14077,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "по́черки"
+    "plural": "по́черки",
+    "reading": {
+      "ru": "pocherk"
+    }
   },
   {
     "id": "ru_1990",
@@ -12646,7 +14107,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "веселиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "veselitsya"
+    }
   },
   {
     "id": "ru_1991",
@@ -12671,7 +14135,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "справедли́вости"
+    "plural": "справедли́вости",
+    "reading": {
+      "ru": "spravedlivost"
+    }
   },
   {
     "id": "ru_1992",
@@ -12697,7 +14164,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "буты́лки"
+    "plural": "буты́лки",
+    "reading": {
+      "ru": "butylka"
+    }
   },
   {
     "id": "ru_1993",
@@ -12724,7 +14194,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "увеличить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uvelichit"
+    }
   },
   {
     "id": "ru_1994",
@@ -12750,7 +14223,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шкафы́"
+    "plural": "шкафы́",
+    "reading": {
+      "ru": "shkaf"
+    }
   },
   {
     "id": "ru_1996",
@@ -12775,7 +14251,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фо́кусы"
+    "plural": "фо́кусы",
+    "reading": {
+      "ru": "fokus"
+    }
   },
   {
     "id": "ru_1997",
@@ -12799,7 +14278,10 @@ const WORDS_RU_B1 = [
       "zh": "可怕的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "strashnyy"
+    }
   },
   {
     "id": "ru_1998",
@@ -12825,7 +14307,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "го́ры"
+    "plural": "го́ры",
+    "reading": {
+      "ru": "gora"
+    }
   },
   {
     "id": "ru_1999",
@@ -12852,7 +14337,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "мечтать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "mechtat"
+    }
   },
   {
     "id": "ru_2001",
@@ -12877,7 +14365,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вдо́хи"
+    "plural": "вдо́хи",
+    "reading": {
+      "ru": "vdokh"
+    }
   },
   {
     "id": "ru_2002",
@@ -12902,7 +14393,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "лесбия́нки"
+    "plural": "лесбия́нки",
+    "reading": {
+      "ru": "lesbiyanka"
+    }
   },
   {
     "id": "ru_2003",
@@ -12926,7 +14420,10 @@ const WORDS_RU_B1 = [
       "zh": "冷的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "kholodnyy"
+    }
   },
   {
     "id": "ru_2004",
@@ -12952,7 +14449,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выбираться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vybiratsya"
+    }
   },
   {
     "id": "ru_2005",
@@ -12977,7 +14477,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мерза́вцы"
+    "plural": "мерза́вцы",
+    "reading": {
+      "ru": "merzavets"
+    }
   },
   {
     "id": "ru_2006",
@@ -13003,7 +14506,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "спекта́кли"
+    "plural": "спекта́кли",
+    "reading": {
+      "ru": "spektakl"
+    }
   },
   {
     "id": "ru_2007",
@@ -13029,7 +14535,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "одея́ла"
+    "plural": "одея́ла",
+    "reading": {
+      "ru": "odeyalo"
+    }
   },
   {
     "id": "ru_2009",
@@ -13053,7 +14562,10 @@ const WORDS_RU_B1 = [
       "zh": "富有的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "bogatyy"
+    }
   },
   {
     "id": "ru_2012",
@@ -13078,7 +14590,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "воображе́ния"
+    "plural": "воображе́ния",
+    "reading": {
+      "ru": "voobrazhenie"
+    }
   },
   {
     "id": "ru_2013",
@@ -13105,7 +14620,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заполнить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zapolnit"
+    }
   },
   {
     "id": "ru_2014",
@@ -13132,7 +14650,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "нанести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "nanesti"
+    }
   },
   {
     "id": "ru_2015",
@@ -13157,7 +14678,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "премье́р-мини́стры"
+    "plural": "премье́р-мини́стры",
+    "reading": {
+      "ru": "premer-ministr"
+    }
   },
   {
     "id": "ru_2016",
@@ -13182,7 +14706,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "замести́тели"
+    "plural": "замести́тели",
+    "reading": {
+      "ru": "zamestitel"
+    }
   },
   {
     "id": "ru_2017",
@@ -13209,7 +14736,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прояснить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proyasnit"
+    }
   },
   {
     "id": "ru_2018",
@@ -13233,7 +14763,10 @@ const WORDS_RU_B1 = [
       "zh": "危险的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "opasnyy"
+    }
   },
   {
     "id": "ru_2019",
@@ -13259,7 +14792,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "желу́дки"
+    "plural": "желу́дки",
+    "reading": {
+      "ru": "zheludok"
+    }
   },
   {
     "id": "ru_2020",
@@ -13285,7 +14821,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "племя́нники"
+    "plural": "племя́нники",
+    "reading": {
+      "ru": "plemyannik"
+    }
   },
   {
     "id": "ru_2022",
@@ -13312,7 +14851,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выкинуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vykinut"
+    }
   },
   {
     "id": "ru_2023",
@@ -13337,7 +14879,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "се́ты"
+    "plural": "се́ты",
+    "reading": {
+      "ru": "set"
+    }
   },
   {
     "id": "ru_2024",
@@ -13364,7 +14909,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "ловить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "lovit"
+    }
   },
   {
     "id": "ru_2025",
@@ -13390,7 +14938,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "спеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "spet"
+    }
   },
   {
     "id": "ru_2026",
@@ -13416,7 +14967,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "согла́сия"
+    "plural": "согла́сия",
+    "reading": {
+      "ru": "soglasie"
+    }
   },
   {
     "id": "ru_2027",
@@ -13443,7 +14997,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вылечить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vylechit"
+    }
   },
   {
     "id": "ru_2028",
@@ -13469,7 +15026,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вы́пуски"
+    "plural": "вы́пуски",
+    "reading": {
+      "ru": "vypusk"
+    }
   },
   {
     "id": "ru_2029",
@@ -13494,7 +15054,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "реко́рды"
+    "plural": "реко́рды",
+    "reading": {
+      "ru": "rekord"
+    }
   },
   {
     "id": "ru_2030",
@@ -13520,7 +15083,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "чи́пы"
+    "plural": "чи́пы",
+    "reading": {
+      "ru": "chip"
+    }
   },
   {
     "id": "ru_2031",
@@ -13547,7 +15113,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "ужинать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "uzhinat"
+    }
   },
   {
     "id": "ru_2032",
@@ -13572,7 +15141,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́ршалы"
+    "plural": "ма́ршалы",
+    "reading": {
+      "ru": "marshal"
+    }
   },
   {
     "id": "ru_2033",
@@ -13598,7 +15170,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "диа́гнозы"
+    "plural": "диа́гнозы",
+    "reading": {
+      "ru": "diagnoz"
+    }
   },
   {
     "id": "ru_2034",
@@ -13624,7 +15199,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "хо́бби"
+    "plural": "хо́бби",
+    "reading": {
+      "ru": "khobbi"
+    }
   },
   {
     "id": "ru_2035",
@@ -13650,7 +15228,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шля́пы"
+    "plural": "шля́пы",
+    "reading": {
+      "ru": "shlyapa"
+    }
   },
   {
     "id": "ru_2036",
@@ -13675,7 +15256,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "приве́тики"
+    "plural": "приве́тики",
+    "reading": {
+      "ru": "privetik"
+    }
   },
   {
     "id": "ru_2037",
@@ -13702,7 +15286,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "казаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "kazatsya"
+    }
   },
   {
     "id": "ru_2038",
@@ -13727,7 +15314,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тупики́"
+    "plural": "тупики́",
+    "reading": {
+      "ru": "tupik"
+    }
   },
   {
     "id": "ru_2039",
@@ -13752,7 +15342,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "разры́вы"
+    "plural": "разры́вы",
+    "reading": {
+      "ru": "razryv"
+    }
   },
   {
     "id": "ru_2041",
@@ -13776,7 +15369,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "челове́чества"
+    "plural": "челове́чества",
+    "reading": {
+      "ru": "chelovechestvo"
+    }
   },
   {
     "id": "ru_2042",
@@ -13801,7 +15397,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ребя́тки"
+    "plural": "ребя́тки",
+    "reading": {
+      "ru": "rebyatki"
+    }
   },
   {
     "id": "ru_2043",
@@ -13827,7 +15426,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вторже́ния"
+    "plural": "вторже́ния",
+    "reading": {
+      "ru": "vtorzhenie"
+    }
   },
   {
     "id": "ru_2044",
@@ -13853,7 +15455,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "стволы́"
+    "plural": "стволы́",
+    "reading": {
+      "ru": "stvol"
+    }
   },
   {
     "id": "ru_2045",
@@ -13880,7 +15485,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "опознать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "opoznat"
+    }
   },
   {
     "id": "ru_2046",
@@ -13906,7 +15514,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "слу́шания"
+    "plural": "слу́шания",
+    "reading": {
+      "ru": "slushanie"
+    }
   },
   {
     "id": "ru_2047",
@@ -13932,7 +15543,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "напа́сти"
+    "plural": "напа́сти",
+    "reading": {
+      "ru": "napast"
+    }
   },
   {
     "id": "ru_2050",
@@ -13958,7 +15572,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "па́рки"
+    "plural": "па́рки",
+    "reading": {
+      "ru": "parka"
+    }
   },
   {
     "id": "ru_2051",
@@ -13984,7 +15601,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "свитера́"
+    "plural": "свитера́",
+    "reading": {
+      "ru": "sviter"
+    }
   },
   {
     "id": "ru_2052",
@@ -14010,7 +15630,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "псы"
+    "plural": "псы",
+    "reading": {
+      "ru": "pyos"
+    }
   },
   {
     "id": "ru_2053",
@@ -14037,7 +15660,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "шутить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "shutit"
+    }
   },
   {
     "id": "ru_2054",
@@ -14064,7 +15690,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прыгать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prygat"
+    }
   },
   {
     "id": "ru_2055",
@@ -14088,7 +15717,10 @@ const WORDS_RU_B1 = [
       "zh": "性感的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "seksualnyy"
+    }
   },
   {
     "id": "ru_2056",
@@ -14114,7 +15746,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вирджи́нии"
+    "plural": "вирджи́нии",
+    "reading": {
+      "ru": "virdzhiniya"
+    }
   },
   {
     "id": "ru_2057",
@@ -14141,7 +15776,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "забирать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zabirat"
+    }
   },
   {
     "id": "ru_2059",
@@ -14166,7 +15804,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заключе́ния"
+    "plural": "заключе́ния",
+    "reading": {
+      "ru": "zaklyuchenie"
+    }
   },
   {
     "id": "ru_2060",
@@ -14192,7 +15833,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "па́ртии"
+    "plural": "па́ртии",
+    "reading": {
+      "ru": "partiya"
+    }
   },
   {
     "id": "ru_2061",
@@ -14216,7 +15860,10 @@ const WORDS_RU_B1 = [
       "zh": "蜂蜜的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "medovyy"
+    }
   },
   {
     "id": "ru_2062",
@@ -14243,7 +15890,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "взломать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vzlomat"
+    }
   },
   {
     "id": "ru_2063",
@@ -14270,7 +15920,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "создавать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sozdavat"
+    }
   },
   {
     "id": "ru_2064",
@@ -14295,7 +15948,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прогре́ссы"
+    "plural": "прогре́ссы",
+    "reading": {
+      "ru": "progress"
+    }
   },
   {
     "id": "ru_2065",
@@ -14318,7 +15974,10 @@ const WORDS_RU_B1 = [
       "zh": "主要的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "osnovnoy"
+    }
   },
   {
     "id": "ru_2066",
@@ -14344,7 +16003,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "львы́"
+    "plural": "львы́",
+    "reading": {
+      "ru": "lev"
+    }
   },
   {
     "id": "ru_2067",
@@ -14371,7 +16033,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "оценить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otsenit"
+    }
   },
   {
     "id": "ru_2068",
@@ -14398,7 +16063,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "рисовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "risovat"
+    }
   },
   {
     "id": "ru_2070",
@@ -14425,7 +16093,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "торопиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "toropitsya"
+    }
   },
   {
     "id": "ru_2071",
@@ -14449,7 +16120,10 @@ const WORDS_RU_B1 = [
       "zh": "短"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "korotkiy"
+    }
   },
   {
     "id": "ru_2072",
@@ -14475,7 +16149,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "печа́ти"
+    "plural": "печа́ти",
+    "reading": {
+      "ru": "pechat"
+    }
   },
   {
     "id": "ru_2073",
@@ -14501,7 +16178,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кандида́ты"
+    "plural": "кандида́ты",
+    "reading": {
+      "ru": "kandidat"
+    }
   },
   {
     "id": "ru_2074",
@@ -14527,7 +16207,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ды́ры"
+    "plural": "ды́ры",
+    "reading": {
+      "ru": "dyra"
+    }
   },
   {
     "id": "ru_2075",
@@ -14552,7 +16235,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ми́нусы"
+    "plural": "ми́нусы",
+    "reading": {
+      "ru": "minus"
+    }
   },
   {
     "id": "ru_2076",
@@ -14578,7 +16264,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "спо́ры"
+    "plural": "спо́ры",
+    "reading": {
+      "ru": "spor"
+    }
   },
   {
     "id": "ru_2077",
@@ -14603,7 +16292,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "папа́ши"
+    "plural": "папа́ши",
+    "reading": {
+      "ru": "papasha"
+    }
   },
   {
     "id": "ru_2078",
@@ -14629,7 +16321,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "лаборато́рии"
+    "plural": "лаборато́рии",
+    "reading": {
+      "ru": "laboratoriya"
+    }
   },
   {
     "id": "ru_2079",
@@ -14657,7 +16352,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "присутствовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prisutstvovat"
+    }
   },
   {
     "id": "ru_2080",
@@ -14684,7 +16382,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "объявить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obyavit"
+    }
   },
   {
     "id": "ru_2081",
@@ -14711,7 +16412,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "рекла́мы"
+    "plural": "рекла́мы",
+    "reading": {
+      "ru": "reklama"
+    }
   },
   {
     "id": "ru_2082",
@@ -14735,7 +16439,10 @@ const WORDS_RU_B1 = [
       "zh": "自由的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "svobodnyy"
+    }
   },
   {
     "id": "ru_2083",
@@ -14761,7 +16468,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ру́чки"
+    "plural": "ру́чки",
+    "reading": {
+      "ru": "ruchka"
+    }
   },
   {
     "id": "ru_2084",
@@ -14788,7 +16498,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сомневаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "somnevatsya"
+    }
   },
   {
     "id": "ru_2085",
@@ -14814,7 +16527,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "управля́ющие"
+    "plural": "управля́ющие",
+    "reading": {
+      "ru": "upravlyayushchiy"
+    }
   },
   {
     "id": "ru_2086",
@@ -14841,7 +16557,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "становиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "stanovitsya"
+    }
   },
   {
     "id": "ru_2087",
@@ -14867,7 +16586,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "резюме́"
+    "plural": "резюме́",
+    "reading": {
+      "ru": "rezyume"
+    }
   },
   {
     "id": "ru_2088",
@@ -14894,7 +16616,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "присмотреть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prismotret"
+    }
   },
   {
     "id": "ru_2089",
@@ -14920,7 +16645,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бока́"
+    "plural": "бока́",
+    "reading": {
+      "ru": "bok"
+    }
   },
   {
     "id": "ru_2090",
@@ -14947,7 +16675,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "напряже́ния"
+    "plural": "напряже́ния",
+    "reading": {
+      "ru": "napryazhenie"
+    }
   },
   {
     "id": "ru_2091",
@@ -14973,7 +16704,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "отпеча́тки"
+    "plural": "отпеча́тки",
+    "reading": {
+      "ru": "otpechatok"
+    }
   },
   {
     "id": "ru_2092",
@@ -14999,7 +16733,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ге́рры"
+    "plural": "ге́рры",
+    "reading": {
+      "ru": "gerr"
+    }
   },
   {
     "id": "ru_2093",
@@ -15024,7 +16761,10 @@ const WORDS_RU_B1 = [
       "zh": "私人的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "chastnyy"
+    }
   },
   {
     "id": "ru_2095",
@@ -15049,7 +16789,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "роды́"
+    "plural": "роды́",
+    "reading": {
+      "ru": "rod"
+    }
   },
   {
     "id": "ru_2096",
@@ -15076,7 +16819,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повеселиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poveselitsya"
+    }
   },
   {
     "id": "ru_2097",
@@ -15102,7 +16848,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "спи́ны"
+    "plural": "спи́ны",
+    "reading": {
+      "ru": "spina"
+    }
   },
   {
     "id": "ru_2098",
@@ -15129,7 +16878,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "давить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "davit"
+    }
   },
   {
     "id": "ru_2100",
@@ -15154,7 +16906,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "говнюки́"
+    "plural": "говнюки́",
+    "reading": {
+      "ru": "govnyuk"
+    }
   },
   {
     "id": "ru_2101",
@@ -15180,7 +16935,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "юри́сты"
+    "plural": "юри́сты",
+    "reading": {
+      "ru": "yurist"
+    }
   },
   {
     "id": "ru_2103",
@@ -15206,7 +16964,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "награ́ды"
+    "plural": "награ́ды",
+    "reading": {
+      "ru": "nagrada"
+    }
   },
   {
     "id": "ru_2104",
@@ -15233,7 +16994,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "переодеться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pereodetsya"
+    }
   },
   {
     "id": "ru_2105",
@@ -15257,7 +17021,10 @@ const WORDS_RU_B1 = [
       "zh": "愚蠢的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "duratskiy"
+    }
   },
   {
     "id": "ru_2106",
@@ -15283,7 +17050,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "рабо́тники"
+    "plural": "рабо́тники",
+    "reading": {
+      "ru": "rabotnik"
+    }
   },
   {
     "id": "ru_2107",
@@ -15310,7 +17080,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пожить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozhit"
+    }
   },
   {
     "id": "ru_2108",
@@ -15337,7 +17110,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обойти",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "oboyti"
+    }
   },
   {
     "id": "ru_2109",
@@ -15364,7 +17140,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "рассмотреть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "rassmotret"
+    }
   },
   {
     "id": "ru_2110",
@@ -15390,7 +17169,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "багажи́"
+    "plural": "багажи́",
+    "reading": {
+      "ru": "bagazh"
+    }
   },
   {
     "id": "ru_2111",
@@ -15417,7 +17199,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "делиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "delitsya"
+    }
   },
   {
     "id": "ru_2112",
@@ -15441,7 +17226,10 @@ const WORDS_RU_B1 = [
       "zh": "醉的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "pyanyy"
+    }
   },
   {
     "id": "ru_2113",
@@ -15467,7 +17255,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пья́ные"
+    "plural": "пья́ные",
+    "reading": {
+      "ru": "pyanyy"
+    }
   },
   {
     "id": "ru_2114",
@@ -15493,7 +17284,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мы́ши"
+    "plural": "мы́ши",
+    "reading": {
+      "ru": "mysh"
+    }
   },
   {
     "id": "ru_2115",
@@ -15519,7 +17313,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "синьо́ры"
+    "plural": "синьо́ры",
+    "reading": {
+      "ru": "sinora"
+    }
   },
   {
     "id": "ru_2116",
@@ -15546,7 +17343,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прикрыть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prikryt"
+    }
   },
   {
     "id": "ru_2117",
@@ -15572,7 +17372,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "журнали́сты"
+    "plural": "журнали́сты",
+    "reading": {
+      "ru": "zhurnalist"
+    }
   },
   {
     "id": "ru_2118",
@@ -15595,7 +17398,10 @@ const WORDS_RU_B1 = [
       "zh": "被诅咒的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "proklyatyy"
+    }
   },
   {
     "id": "ru_2119",
@@ -15622,7 +17428,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отвлечь",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otvlech"
+    }
   },
   {
     "id": "ru_2120",
@@ -15648,7 +17457,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "де́тства"
+    "plural": "де́тства",
+    "reading": {
+      "ru": "detstvo"
+    }
   },
   {
     "id": "ru_2121",
@@ -15674,7 +17486,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*жары́"
+    "plural": "*жары́",
+    "reading": {
+      "ru": "zhar"
+    }
   },
   {
     "id": "ru_2122",
@@ -15698,7 +17513,10 @@ const WORDS_RU_B1 = [
       "zh": "熟悉的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "znakomyy"
+    }
   },
   {
     "id": "ru_2123",
@@ -15725,7 +17543,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "задуматься",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zadumatsya"
+    }
   },
   {
     "id": "ru_2124",
@@ -15752,7 +17573,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "разбираться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "razbiratsya"
+    }
   },
   {
     "id": "ru_2125",
@@ -15778,7 +17602,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пески́"
+    "plural": "пески́",
+    "reading": {
+      "ru": "pesok"
+    }
   },
   {
     "id": "ru_2127",
@@ -15804,7 +17631,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тради́ции"
+    "plural": "тради́ции",
+    "reading": {
+      "ru": "traditsiya"
+    }
   },
   {
     "id": "ru_2128",
@@ -15829,7 +17659,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вы́пивки"
+    "plural": "вы́пивки",
+    "reading": {
+      "ru": "vypivka"
+    }
   },
   {
     "id": "ru_2129",
@@ -15856,7 +17689,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "уговорить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ugovorit"
+    }
   },
   {
     "id": "ru_2130",
@@ -15883,7 +17719,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сработать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "srabotat"
+    }
   },
   {
     "id": "ru_2131",
@@ -15910,7 +17749,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сохранять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sokhranyat"
+    }
   },
   {
     "id": "ru_2132",
@@ -15937,7 +17779,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "понравиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ponravitsya"
+    }
   },
   {
     "id": "ru_2133",
@@ -15964,7 +17809,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заходить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zakhodit"
+    }
   },
   {
     "id": "ru_2134",
@@ -15991,7 +17839,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "значить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "znachit"
+    }
   },
   {
     "id": "ru_2136",
@@ -16018,7 +17869,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отдыхать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otdykhat"
+    }
   },
   {
     "id": "ru_2137",
@@ -16044,7 +17898,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сеньо́ры"
+    "plural": "сеньо́ры",
+    "reading": {
+      "ru": "senora"
+    }
   },
   {
     "id": "ru_2138",
@@ -16071,7 +17928,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обойтись",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "oboytis"
+    }
   },
   {
     "id": "ru_2139",
@@ -16096,7 +17956,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "негодя́и"
+    "plural": "негодя́и",
+    "reading": {
+      "ru": "negodyay"
+    }
   },
   {
     "id": "ru_2141",
@@ -16122,7 +17985,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "со́товые"
+    "plural": "со́товые",
+    "reading": {
+      "ru": "sotovyy"
+    }
   },
   {
     "id": "ru_2142",
@@ -16149,7 +18015,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "наказать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "nakazat"
+    }
   },
   {
     "id": "ru_2143",
@@ -16173,7 +18042,10 @@ const WORDS_RU_B1 = [
       "zh": "家的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "domashniy"
+    }
   },
   {
     "id": "ru_2144",
@@ -16199,7 +18071,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "го́спитали"
+    "plural": "го́спитали",
+    "reading": {
+      "ru": "gospital"
+    }
   },
   {
     "id": "ru_2145",
@@ -16225,7 +18100,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "хо́ллы"
+    "plural": "хо́ллы",
+    "reading": {
+      "ru": "kholl"
+    }
   },
   {
     "id": "ru_2146",
@@ -16251,7 +18129,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "рису́нки"
+    "plural": "рису́нки",
+    "reading": {
+      "ru": "risunok"
+    }
   },
   {
     "id": "ru_2147",
@@ -16278,7 +18159,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "страхо́вки"
+    "plural": "страхо́вки",
+    "reading": {
+      "ru": "strakhovka"
+    }
   },
   {
     "id": "ru_2148",
@@ -16305,7 +18189,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сотру́дники"
+    "plural": "сотру́дники",
+    "reading": {
+      "ru": "sotrudnik"
+    }
   },
   {
     "id": "ru_2149",
@@ -16331,7 +18218,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "края́"
+    "plural": "края́",
+    "reading": {
+      "ru": "kray"
+    }
   },
   {
     "id": "ru_2150",
@@ -16357,7 +18247,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пре́данности"
+    "plural": "пре́данности",
+    "reading": {
+      "ru": "predannost"
+    }
   },
   {
     "id": "ru_2152",
@@ -16383,7 +18276,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прохо́ды"
+    "plural": "прохо́ды",
+    "reading": {
+      "ru": "prokhod"
+    }
   },
   {
     "id": "ru_2153",
@@ -16410,7 +18306,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "нали́чные"
+    "plural": "нали́чные",
+    "reading": {
+      "ru": "nalichnye"
+    }
   },
   {
     "id": "ru_2154",
@@ -16436,7 +18335,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "шле́мы"
+    "plural": "шле́мы",
+    "reading": {
+      "ru": "shlem"
+    }
   },
   {
     "id": "ru_2155",
@@ -16462,7 +18364,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сопротивле́ния"
+    "plural": "сопротивле́ния",
+    "reading": {
+      "ru": "soprotivlenie"
+    }
   },
   {
     "id": "ru_2156",
@@ -16489,7 +18394,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "обя́занности"
+    "plural": "обя́занности",
+    "reading": {
+      "ru": "obyazannost"
+    }
   },
   {
     "id": "ru_2157",
@@ -16516,7 +18424,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "америка́нцы"
+    "plural": "америка́нцы",
+    "reading": {
+      "ru": "amerikanets"
+    }
   },
   {
     "id": "ru_2158",
@@ -16543,7 +18454,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "организа́ции"
+    "plural": "организа́ции",
+    "reading": {
+      "ru": "organizatsiya"
+    }
   },
   {
     "id": "ru_2161",
@@ -16570,7 +18484,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "по́чты"
+    "plural": "по́чты",
+    "reading": {
+      "ru": "pochta"
+    }
   },
   {
     "id": "ru_2162",
@@ -16597,7 +18514,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "охотиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "okhotitsya"
+    }
   },
   {
     "id": "ru_2163",
@@ -16623,7 +18543,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*чепухи́"
+    "plural": "*чепухи́",
+    "reading": {
+      "ru": "chepukha"
+    }
   },
   {
     "id": "ru_2164",
@@ -16650,7 +18573,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отказать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otkazat"
+    }
   },
   {
     "id": "ru_2165",
@@ -16674,7 +18600,10 @@ const WORDS_RU_B1 = [
       "zh": "备用的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "zapasnoy"
+    }
   },
   {
     "id": "ru_2166",
@@ -16701,7 +18630,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обедать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obedat"
+    }
   },
   {
     "id": "ru_2167",
@@ -16727,7 +18659,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сто́уны"
+    "plural": "сто́уны",
+    "reading": {
+      "ru": "stoun"
+    }
   },
   {
     "id": "ru_2169",
@@ -16753,7 +18688,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бла́га"
+    "plural": "бла́га",
+    "reading": {
+      "ru": "blago"
+    }
   },
   {
     "id": "ru_2170",
@@ -16779,7 +18717,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "слу́ги"
+    "plural": "слу́ги",
+    "reading": {
+      "ru": "sluga"
+    }
   },
   {
     "id": "ru_2171",
@@ -16803,7 +18744,10 @@ const WORDS_RU_B1 = [
       "zh": "崭新的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "novenkiy"
+    }
   },
   {
     "id": "ru_2172",
@@ -16829,7 +18773,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ученики́"
+    "plural": "ученики́",
+    "reading": {
+      "ru": "uchenik"
+    }
   },
   {
     "id": "ru_2173",
@@ -16855,7 +18802,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "во́роты"
+    "plural": "во́роты",
+    "reading": {
+      "ru": "vorot"
+    }
   },
   {
     "id": "ru_2174",
@@ -16879,7 +18829,10 @@ const WORDS_RU_B1 = [
       "zh": "真实的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "realnyy"
+    }
   },
   {
     "id": "ru_2175",
@@ -16906,7 +18859,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "изучить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "izuchit"
+    }
   },
   {
     "id": "ru_2177",
@@ -16931,7 +18887,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ru": "beloe"
+    }
   },
   {
     "id": "ru_2178",
@@ -16954,7 +18913,10 @@ const WORDS_RU_B1 = [
       "zh": "可怜的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "zhalkiy"
+    }
   },
   {
     "id": "ru_2179",
@@ -16979,7 +18941,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "счастли́вчики"
+    "plural": "счастли́вчики",
+    "reading": {
+      "ru": "schastlivchik"
+    }
   },
   {
     "id": "ru_2180",
@@ -17006,7 +18971,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выдать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vydat"
+    }
   },
   {
     "id": "ru_2181",
@@ -17029,7 +18997,10 @@ const WORDS_RU_B1 = [
       "zh": "司法的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "sudebnyy"
+    }
   },
   {
     "id": "ru_2182",
@@ -17056,7 +19027,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поздороваться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozdorovatsya"
+    }
   },
   {
     "id": "ru_2183",
@@ -17079,7 +19053,10 @@ const WORDS_RU_B1 = [
       "zh": "宏伟的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "velikolepnyy"
+    }
   },
   {
     "id": "ru_2184",
@@ -17104,7 +19081,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сиде́нья"
+    "plural": "сиде́нья",
+    "reading": {
+      "ru": "sidene"
+    }
   },
   {
     "id": "ru_2185",
@@ -17129,7 +19109,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "исключе́ния"
+    "plural": "исключе́ния",
+    "reading": {
+      "ru": "isklyuchenie"
+    }
   },
   {
     "id": "ru_2188",
@@ -17154,7 +19137,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "не́льсоны"
+    "plural": "не́льсоны",
+    "reading": {
+      "ru": "nelson"
+    }
   },
   {
     "id": "ru_2189",
@@ -17180,7 +19166,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "экра́ны"
+    "plural": "экра́ны",
+    "reading": {
+      "ru": "ekran"
+    }
   },
   {
     "id": "ru_2190",
@@ -17205,7 +19194,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ри́тмы"
+    "plural": "ри́тмы",
+    "reading": {
+      "ru": "ritm"
+    }
   },
   {
     "id": "ru_2191",
@@ -17230,7 +19222,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "наря́ды"
+    "plural": "наря́ды",
+    "reading": {
+      "ru": "naryad"
+    }
   },
   {
     "id": "ru_2192",
@@ -17256,7 +19251,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подтвержде́ния"
+    "plural": "подтвержде́ния",
+    "reading": {
+      "ru": "podtverzhdenie"
+    }
   },
   {
     "id": "ru_2193",
@@ -17279,7 +19277,10 @@ const WORDS_RU_B1 = [
       "zh": "光荣的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "slavnyy"
+    }
   },
   {
     "id": "ru_2195",
@@ -17304,7 +19305,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бедня́ги"
+    "plural": "бедня́ги",
+    "reading": {
+      "ru": "bednyaga"
+    }
   },
   {
     "id": "ru_2196",
@@ -17330,7 +19334,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "люби́тели"
+    "plural": "люби́тели",
+    "reading": {
+      "ru": "lyubitel"
+    }
   },
   {
     "id": "ru_2197",
@@ -17355,7 +19362,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "руково́дства"
+    "plural": "руково́дства",
+    "reading": {
+      "ru": "rukovodstvo"
+    }
   },
   {
     "id": "ru_2198",
@@ -17381,7 +19391,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "карма́ны"
+    "plural": "карма́ны",
+    "reading": {
+      "ru": "karman"
+    }
   },
   {
     "id": "ru_2199",
@@ -17408,7 +19421,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "улыбаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ulybatsya"
+    }
   },
   {
     "id": "ru_2200",
@@ -17434,7 +19450,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "я́блоки"
+    "plural": "я́блоки",
+    "reading": {
+      "ru": "yabloko"
+    }
   },
   {
     "id": "ru_2201",
@@ -17461,7 +19480,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "праздновать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prazdnovat"
+    }
   },
   {
     "id": "ru_2202",
@@ -17487,7 +19509,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "персона́жи"
+    "plural": "персона́жи",
+    "reading": {
+      "ru": "personazh"
+    }
   },
   {
     "id": "ru_2203",
@@ -17514,7 +19539,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "изучать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "izuchat"
+    }
   },
   {
     "id": "ru_2204",
@@ -17540,7 +19568,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "процеду́ры"
+    "plural": "процеду́ры",
+    "reading": {
+      "ru": "protsedura"
+    }
   },
   {
     "id": "ru_2205",
@@ -17565,7 +19596,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "гробы́"
+    "plural": "гробы́",
+    "reading": {
+      "ru": "grob"
+    }
   },
   {
     "id": "ru_2206",
@@ -17592,7 +19626,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "положиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "polozhitsya"
+    }
   },
   {
     "id": "ru_2208",
@@ -17619,7 +19656,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "но̀утбу́ки"
+    "plural": "но̀утбу́ки",
+    "reading": {
+      "ru": "noutbuk"
+    }
   },
   {
     "id": "ru_2210",
@@ -17644,7 +19684,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "да́мочки"
+    "plural": "да́мочки",
+    "reading": {
+      "ru": "damochka"
+    }
   },
   {
     "id": "ru_2211",
@@ -17671,7 +19714,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проявить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proyavit"
+    }
   },
   {
     "id": "ru_2212",
@@ -17696,7 +19742,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фо́рды"
+    "plural": "фо́рды",
+    "reading": {
+      "ru": "ford"
+    }
   },
   {
     "id": "ru_2213",
@@ -17722,7 +19771,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "поколе́ния"
+    "plural": "поколе́ния",
+    "reading": {
+      "ru": "pokolenie"
+    }
   },
   {
     "id": "ru_2214",
@@ -17749,7 +19801,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "готовиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "gotovitsya"
+    }
   },
   {
     "id": "ru_2215",
@@ -17775,7 +19830,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сопротивляться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "soprotivlyatsya"
+    }
   },
   {
     "id": "ru_2216",
@@ -17801,7 +19859,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "консте́бли"
+    "plural": "консте́бли",
+    "reading": {
+      "ru": "konstebl"
+    }
   },
   {
     "id": "ru_2217",
@@ -17827,7 +19888,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "микрофо́ны"
+    "plural": "микрофо́ны",
+    "reading": {
+      "ru": "mikrofon"
+    }
   },
   {
     "id": "ru_2218",
@@ -17851,7 +19915,10 @@ const WORDS_RU_B1 = [
       "zh": "其他"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "inoy"
+    }
   },
   {
     "id": "ru_2219",
@@ -17878,7 +19945,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "жаловаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zhalovatsya"
+    }
   },
   {
     "id": "ru_2220",
@@ -17901,7 +19971,10 @@ const WORDS_RU_B1 = [
       "zh": "战斗的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "boevoy"
+    }
   },
   {
     "id": "ru_2221",
@@ -17928,7 +20001,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "голосовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "golosovat"
+    }
   },
   {
     "id": "ru_2222",
@@ -17955,7 +20031,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "противостоять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "protivostoyat"
+    }
   },
   {
     "id": "ru_2224",
@@ -17980,7 +20059,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дра́ки"
+    "plural": "дра́ки",
+    "reading": {
+      "ru": "draka"
+    }
   },
   {
     "id": "ru_2227",
@@ -18007,7 +20089,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "разбить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "razbit"
+    }
   },
   {
     "id": "ru_2228",
@@ -18034,7 +20119,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "произнести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proiznesti"
+    }
   },
   {
     "id": "ru_2229",
@@ -18060,7 +20148,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "свести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "svesti"
+    }
   },
   {
     "id": "ru_2232",
@@ -18084,7 +20175,10 @@ const WORDS_RU_B1 = [
       "zh": "厚"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "tolstyy"
+    }
   },
   {
     "id": "ru_2233",
@@ -18110,7 +20204,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ru": "bri"
+    }
   },
   {
     "id": "ru_2234",
@@ -18136,7 +20233,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пти́чки"
+    "plural": "пти́чки",
+    "reading": {
+      "ru": "ptichka"
+    }
   },
   {
     "id": "ru_2235",
@@ -18163,7 +20263,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "про́пуски"
+    "plural": "про́пуски",
+    "reading": {
+      "ru": "propusk"
+    }
   },
   {
     "id": "ru_2236",
@@ -18190,7 +20293,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отнести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otnesti"
+    }
   },
   {
     "id": "ru_2237",
@@ -18218,7 +20324,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вступить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vstupit"
+    }
   },
   {
     "id": "ru_2238",
@@ -18244,7 +20353,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ми́ги"
+    "plural": "ми́ги",
+    "reading": {
+      "ru": "mig"
+    }
   },
   {
     "id": "ru_2239",
@@ -18271,7 +20383,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "свиде́тельства"
+    "plural": "свиде́тельства",
+    "reading": {
+      "ru": "svidetelstvo"
+    }
   },
   {
     "id": "ru_2240",
@@ -18295,7 +20410,10 @@ const WORDS_RU_B1 = [
       "zh": "连续的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "seriynyy"
+    }
   },
   {
     "id": "ru_2241",
@@ -18321,7 +20439,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "трахнуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "trakhnut"
+    }
   },
   {
     "id": "ru_2242",
@@ -18346,7 +20467,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вѝце-президе́нты"
+    "plural": "вѝце-президе́нты",
+    "reading": {
+      "ru": "vitse-prezident"
+    }
   },
   {
     "id": "ru_2243",
@@ -18373,7 +20497,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заехать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zaekhat"
+    }
   },
   {
     "id": "ru_2244",
@@ -18400,7 +20527,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "лечить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "lechit"
+    }
   },
   {
     "id": "ru_2245",
@@ -18427,7 +20557,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "постараться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "postaratsya"
+    }
   },
   {
     "id": "ru_2246",
@@ -18452,7 +20585,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ве́лики"
+    "plural": "ве́лики",
+    "reading": {
+      "ru": "velik"
+    }
   },
   {
     "id": "ru_2247",
@@ -18479,7 +20615,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ре́ки"
+    "plural": "ре́ки",
+    "reading": {
+      "ru": "reka"
+    }
   },
   {
     "id": "ru_2248",
@@ -18505,7 +20644,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "расстоя́ния"
+    "plural": "расстоя́ния",
+    "reading": {
+      "ru": "rasstoyanie"
+    }
   },
   {
     "id": "ru_2249",
@@ -18532,7 +20674,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "рискнуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "risknut"
+    }
   },
   {
     "id": "ru_2250",
@@ -18558,7 +20703,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "предположе́ния"
+    "plural": "предположе́ния",
+    "reading": {
+      "ru": "predpolozhenie"
+    }
   },
   {
     "id": "ru_2251",
@@ -18583,7 +20731,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "цари́"
+    "plural": "цари́",
+    "reading": {
+      "ru": "tsar"
+    }
   },
   {
     "id": "ru_2253",
@@ -18611,7 +20762,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "разрешить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "razreshit"
+    }
   },
   {
     "id": "ru_2254",
@@ -18637,7 +20791,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ли́стья^△"
+    "plural": "ли́стья^△",
+    "reading": {
+      "ru": "list"
+    }
   },
   {
     "id": "ru_2255",
@@ -18663,7 +20820,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "совеща́ния"
+    "plural": "совеща́ния",
+    "reading": {
+      "ru": "soveshchanie"
+    }
   },
   {
     "id": "ru_2256",
@@ -18689,7 +20849,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "драко́ны"
+    "plural": "драко́ны",
+    "reading": {
+      "ru": "drakon"
+    }
   },
   {
     "id": "ru_2257",
@@ -18715,7 +20878,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "коле́ни"
+    "plural": "коле́ни",
+    "reading": {
+      "ru": "koleno"
+    }
   },
   {
     "id": "ru_2258",
@@ -18741,7 +20907,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "удостовере́ния"
+    "plural": "удостовере́ния",
+    "reading": {
+      "ru": "udostoverenie"
+    }
   },
   {
     "id": "ru_2260",
@@ -18767,7 +20936,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "компози́торы"
+    "plural": "компози́торы",
+    "reading": {
+      "ru": "kompozitor"
+    }
   },
   {
     "id": "ru_2261",
@@ -18791,7 +20963,10 @@ const WORDS_RU_B1 = [
       "zh": "坚固的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "krepkiy"
+    }
   },
   {
     "id": "ru_2264",
@@ -18819,7 +20994,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "посетить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "posetit"
+    }
   },
   {
     "id": "ru_2265",
@@ -18846,7 +21024,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обвинять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obvinyat"
+    }
   },
   {
     "id": "ru_2266",
@@ -18872,7 +21053,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "жюри́"
+    "plural": "жюри́",
+    "reading": {
+      "ru": "zhyuri"
+    }
   },
   {
     "id": "ru_2268",
@@ -18897,7 +21081,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "би́нго"
+    "plural": "би́нго",
+    "reading": {
+      "ru": "bingo"
+    }
   },
   {
     "id": "ru_2271",
@@ -18924,7 +21111,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "копать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "kopat"
+    }
   },
   {
     "id": "ru_2272",
@@ -18950,7 +21140,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зре́лища"
+    "plural": "зре́лища",
+    "reading": {
+      "ru": "zrelishche"
+    }
   },
   {
     "id": "ru_2273",
@@ -18976,7 +21169,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "министе́рства"
+    "plural": "министе́рства",
+    "reading": {
+      "ru": "ministerstvo"
+    }
   },
   {
     "id": "ru_2275",
@@ -19000,7 +21196,10 @@ const WORDS_RU_B1 = [
       "zh": "困难的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "trudnyy"
+    }
   },
   {
     "id": "ru_2276",
@@ -19026,7 +21225,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "че́тверти"
+    "plural": "че́тверти",
+    "reading": {
+      "ru": "chetvert"
+    }
   },
   {
     "id": "ru_2278",
@@ -19052,7 +21254,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "конве́рты"
+    "plural": "конве́рты",
+    "reading": {
+      "ru": "konvert"
+    }
   },
   {
     "id": "ru_2279",
@@ -19078,7 +21283,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "соревнова́ния"
+    "plural": "соревнова́ния",
+    "reading": {
+      "ru": "sorevnovanie"
+    }
   },
   {
     "id": "ru_2280",
@@ -19105,7 +21313,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "нервничать",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "nervnichat"
+    }
   },
   {
     "id": "ru_2283",
@@ -19131,7 +21342,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ремни́"
+    "plural": "ремни́",
+    "reading": {
+      "ru": "remen"
+    }
   },
   {
     "id": "ru_2284",
@@ -19157,7 +21371,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "мѐстонахожде́ния"
+    "plural": "мѐстонахожде́ния",
+    "reading": {
+      "ru": "mestonakhozhdenie"
+    }
   },
   {
     "id": "ru_2285",
@@ -19182,7 +21399,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "го́вна"
+    "plural": "го́вна",
+    "reading": {
+      "ru": "govno"
+    }
   },
   {
     "id": "ru_2286",
@@ -19208,7 +21428,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "испо́льзования"
+    "plural": "испо́льзования",
+    "reading": {
+      "ru": "ispolzovanie"
+    }
   },
   {
     "id": "ru_2287",
@@ -19234,7 +21457,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "соста́вы"
+    "plural": "соста́вы",
+    "reading": {
+      "ru": "sostav"
+    }
   },
   {
     "id": "ru_2289",
@@ -19260,7 +21486,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "оста́нки"
+    "plural": "оста́нки",
+    "reading": {
+      "ru": "ostanki"
+    }
   },
   {
     "id": "ru_2291",
@@ -19285,7 +21514,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "лу́ки"
+    "plural": "лу́ки",
+    "reading": {
+      "ru": "luka"
+    }
   },
   {
     "id": "ru_2292",
@@ -19311,7 +21543,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ци́рки"
+    "plural": "ци́рки",
+    "reading": {
+      "ru": "tsirk"
+    }
   },
   {
     "id": "ru_2293",
@@ -19338,7 +21573,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обнять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obnyat"
+    }
   },
   {
     "id": "ru_2294",
@@ -19363,7 +21601,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вскры́тия"
+    "plural": "вскры́тия",
+    "reading": {
+      "ru": "vskrytie"
+    }
   },
   {
     "id": "ru_2295",
@@ -19388,7 +21629,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "любо́вники"
+    "plural": "любо́вники",
+    "reading": {
+      "ru": "lyubovnik"
+    }
   },
   {
     "id": "ru_2296",
@@ -19414,7 +21658,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*пламена́"
+    "plural": "*пламена́",
+    "reading": {
+      "ru": "plamya"
+    }
   },
   {
     "id": "ru_2297",
@@ -19441,7 +21688,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пожертвовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozhertvovat"
+    }
   },
   {
     "id": "ru_2298",
@@ -19467,7 +21717,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повидать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "povidat"
+    }
   },
   {
     "id": "ru_2299",
@@ -19493,7 +21746,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ru": "neobkhodimoe"
+    }
   },
   {
     "id": "ru_2300",
@@ -19517,7 +21773,10 @@ const WORDS_RU_B1 = [
       "zh": "受尊敬的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "uvazhaemyy"
+    }
   },
   {
     "id": "ru_2301",
@@ -19542,7 +21801,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "*дома́шние"
+    "plural": "*дома́шние",
+    "reading": {
+      "ru": "domashnee"
+    }
   },
   {
     "id": "ru_2302",
@@ -19568,7 +21830,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "переда́чи"
+    "plural": "переда́чи",
+    "reading": {
+      "ru": "peredacha"
+    }
   },
   {
     "id": "ru_2304",
@@ -19594,7 +21859,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ку́чки"
+    "plural": "ку́чки",
+    "reading": {
+      "ru": "kuchka"
+    }
   },
   {
     "id": "ru_2305",
@@ -19618,7 +21886,10 @@ const WORDS_RU_B1 = [
       "zh": "小的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "malyy"
+    }
   },
   {
     "id": "ru_2306",
@@ -19643,7 +21914,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ма́лые"
+    "plural": "ма́лые",
+    "reading": {
+      "ru": "malyy"
+    }
   },
   {
     "id": "ru_2307",
@@ -19668,7 +21942,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ня́ни"
+    "plural": "ня́ни",
+    "reading": {
+      "ru": "nyanya"
+    }
   },
   {
     "id": "ru_2308",
@@ -19694,7 +21971,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ухо́ды"
+    "plural": "ухо́ды",
+    "reading": {
+      "ru": "ukhod"
+    }
   },
   {
     "id": "ru_2309",
@@ -19720,7 +22000,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "о́бласти"
+    "plural": "о́бласти",
+    "reading": {
+      "ru": "oblast"
+    }
   },
   {
     "id": "ru_2311",
@@ -19747,7 +22030,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "охранять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "okhranyat"
+    }
   },
   {
     "id": "ru_2312",
@@ -19774,7 +22060,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "профессиона́лы"
+    "plural": "профессиона́лы",
+    "reading": {
+      "ru": "professional"
+    }
   },
   {
     "id": "ru_2314",
@@ -19799,7 +22088,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "за́говоры"
+    "plural": "за́говоры",
+    "reading": {
+      "ru": "zagovor"
+    }
   },
   {
     "id": "ru_2316",
@@ -19826,7 +22118,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поторопиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "potoropitsya"
+    }
   },
   {
     "id": "ru_2317",
@@ -19853,7 +22148,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обдумать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obdumat"
+    }
   },
   {
     "id": "ru_2319",
@@ -19881,7 +22179,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "заявить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zayavit"
+    }
   },
   {
     "id": "ru_2320",
@@ -19908,7 +22209,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "руководи́тели"
+    "plural": "руководи́тели",
+    "reading": {
+      "ru": "rukovoditel"
+    }
   },
   {
     "id": "ru_2321",
@@ -19936,7 +22240,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "ввести",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vvesti"
+    }
   },
   {
     "id": "ru_2322",
@@ -19962,7 +22269,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проследить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prosledit"
+    }
   },
   {
     "id": "ru_2323",
@@ -19989,7 +22299,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "довериться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "doveritsya"
+    }
   },
   {
     "id": "ru_2324",
@@ -20016,7 +22329,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заво́ды"
+    "plural": "заво́ды",
+    "reading": {
+      "ru": "zavod"
+    }
   },
   {
     "id": "ru_2325",
@@ -20043,7 +22359,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "стереть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "steret"
+    }
   },
   {
     "id": "ru_2326",
@@ -20069,7 +22388,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "скоти́ны"
+    "plural": "скоти́ны",
+    "reading": {
+      "ru": "skotina"
+    }
   },
   {
     "id": "ru_2327",
@@ -20096,7 +22418,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "напоминать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "napominat"
+    }
   },
   {
     "id": "ru_2328",
@@ -20121,7 +22446,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прова́лы"
+    "plural": "прова́лы",
+    "reading": {
+      "ru": "proval"
+    }
   },
   {
     "id": "ru_2329",
@@ -20146,7 +22474,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "инциде́нты"
+    "plural": "инциде́нты",
+    "reading": {
+      "ru": "intsident"
+    }
   },
   {
     "id": "ru_2330",
@@ -20173,7 +22504,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "входить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vkhodit"
+    }
   },
   {
     "id": "ru_2331",
@@ -20200,7 +22534,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "упасть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "upast"
+    }
   },
   {
     "id": "ru_2333",
@@ -20225,7 +22562,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "па́сти"
+    "plural": "па́сти",
+    "reading": {
+      "ru": "past"
+    }
   },
   {
     "id": "ru_2334",
@@ -20251,7 +22591,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пасть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "past"
+    }
   },
   {
     "id": "ru_2335",
@@ -20276,7 +22619,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "проститу́тки"
+    "plural": "проститу́тки",
+    "reading": {
+      "ru": "prostitutka"
+    }
   },
   {
     "id": "ru_2339",
@@ -20302,7 +22648,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "подде́лки"
+    "plural": "подде́лки",
+    "reading": {
+      "ru": "poddelka"
+    }
   },
   {
     "id": "ru_2340",
@@ -20328,7 +22677,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "расстро́йства"
+    "plural": "расстро́йства",
+    "reading": {
+      "ru": "rasstroystvo"
+    }
   },
   {
     "id": "ru_2341",
@@ -20354,7 +22706,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "паде́ния"
+    "plural": "паде́ния",
+    "reading": {
+      "ru": "padenie"
+    }
   },
   {
     "id": "ru_2342",
@@ -20380,7 +22735,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пото́ки"
+    "plural": "пото́ки",
+    "reading": {
+      "ru": "potok"
+    }
   },
   {
     "id": "ru_2343",
@@ -20405,7 +22763,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "завеща́ния"
+    "plural": "завеща́ния",
+    "reading": {
+      "ru": "zaveshchanie"
+    }
   },
   {
     "id": "ru_2344",
@@ -20431,7 +22792,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бло́ки"
+    "plural": "бло́ки",
+    "reading": {
+      "ru": "blok"
+    }
   },
   {
     "id": "ru_2345",
@@ -20456,7 +22820,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тату́"
+    "plural": "тату́",
+    "reading": {
+      "ru": "tatu"
+    }
   },
   {
     "id": "ru_2346",
@@ -20479,7 +22846,10 @@ const WORDS_RU_B1 = [
       "zh": "好的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "lady"
+    }
   },
   {
     "id": "ru_2348",
@@ -20506,7 +22876,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повернуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "povernut"
+    }
   },
   {
     "id": "ru_2349",
@@ -20532,7 +22905,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "погибнуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pogibnut"
+    }
   },
   {
     "id": "ru_2351",
@@ -20560,7 +22936,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "приезжать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "priezzhat"
+    }
   },
   {
     "id": "ru_2352",
@@ -20585,7 +22964,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "по́ни"
+    "plural": "по́ни",
+    "reading": {
+      "ru": "poni"
+    }
   },
   {
     "id": "ru_2353",
@@ -20612,7 +22994,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "портить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "portit"
+    }
   },
   {
     "id": "ru_2354",
@@ -20638,7 +23023,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пя́тницы"
+    "plural": "пя́тницы",
+    "reading": {
+      "ru": "pyatnitsa"
+    }
   },
   {
     "id": "ru_2355",
@@ -20663,7 +23051,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "покло́нники"
+    "plural": "покло́нники",
+    "reading": {
+      "ru": "poklonnik"
+    }
   },
   {
     "id": "ru_2356",
@@ -20688,7 +23079,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "герои́ны"
+    "plural": "герои́ны",
+    "reading": {
+      "ru": "geroin"
+    }
   },
   {
     "id": "ru_2358",
@@ -20715,7 +23109,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "убегать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ubegat"
+    }
   },
   {
     "id": "ru_2360",
@@ -20742,7 +23139,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "потанцевать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "potantsevat"
+    }
   },
   {
     "id": "ru_2361",
@@ -20768,7 +23168,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сюже́ты"
+    "plural": "сюже́ты",
+    "reading": {
+      "ru": "syuzhet"
+    }
   },
   {
     "id": "ru_2362",
@@ -20795,7 +23198,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пустить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pustit"
+    }
   },
   {
     "id": "ru_2363",
@@ -20821,7 +23227,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ку́клы"
+    "plural": "ку́клы",
+    "reading": {
+      "ru": "kukla"
+    }
   },
   {
     "id": "ru_2364",
@@ -20847,7 +23256,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дере́вни"
+    "plural": "дере́вни",
+    "reading": {
+      "ru": "derevnya"
+    }
   },
   {
     "id": "ru_2365",
@@ -20873,7 +23285,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фина́лы"
+    "plural": "фина́лы",
+    "reading": {
+      "ru": "final"
+    }
   },
   {
     "id": "ru_2366",
@@ -20900,7 +23315,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проиграть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proigrat"
+    }
   },
   {
     "id": "ru_2368",
@@ -20925,7 +23343,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "де́тские"
+    "plural": "де́тские",
+    "reading": {
+      "ru": "detskie"
+    }
   },
   {
     "id": "ru_2371",
@@ -20952,7 +23373,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ка́чества"
+    "plural": "ка́чества",
+    "reading": {
+      "ru": "kachestvo"
+    }
   },
   {
     "id": "ru_2372",
@@ -20979,7 +23403,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "разбудить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "razbudit"
+    }
   },
   {
     "id": "ru_2373",
@@ -21004,7 +23431,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "че́лси"
+    "plural": "че́лси",
+    "reading": {
+      "ru": "chelsi"
+    }
   },
   {
     "id": "ru_2374",
@@ -21028,7 +23458,10 @@ const WORDS_RU_B1 = [
       "zh": "弱"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "slabyy"
+    }
   },
   {
     "id": "ru_2375",
@@ -21054,7 +23487,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "студе́нты"
+    "plural": "студе́нты",
+    "reading": {
+      "ru": "student"
+    }
   },
   {
     "id": "ru_2376",
@@ -21079,7 +23515,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заце́пки"
+    "plural": "заце́пки",
+    "reading": {
+      "ru": "zatsepka"
+    }
   },
   {
     "id": "ru_2377",
@@ -21105,7 +23544,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выдержать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vyderzhat"
+    }
   },
   {
     "id": "ru_2378",
@@ -21131,7 +23573,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "осмо́тры"
+    "plural": "осмо́тры",
+    "reading": {
+      "ru": "osmotr"
+    }
   },
   {
     "id": "ru_2379",
@@ -21156,7 +23601,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зага́дки"
+    "plural": "зага́дки",
+    "reading": {
+      "ru": "zagadka"
+    }
   },
   {
     "id": "ru_2380",
@@ -21181,7 +23629,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "механи́змы"
+    "plural": "механи́змы",
+    "reading": {
+      "ru": "mekhanizm"
+    }
   },
   {
     "id": "ru_2381",
@@ -21206,7 +23657,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кислоро́ды"
+    "plural": "кислоро́ды",
+    "reading": {
+      "ru": "kislorod"
+    }
   },
   {
     "id": "ru_2382",
@@ -21231,7 +23685,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "усы́"
+    "plural": "усы́",
+    "reading": {
+      "ru": "usy"
+    }
   },
   {
     "id": "ru_2383",
@@ -21258,7 +23715,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "вызывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vyzyvat"
+    }
   },
   {
     "id": "ru_2384",
@@ -21284,7 +23744,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сдаваться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sdavatsya"
+    }
   },
   {
     "id": "ru_2385",
@@ -21310,7 +23773,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "угрожать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ugrozhat"
+    }
   },
   {
     "id": "ru_2387",
@@ -21335,7 +23801,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "укры́тия"
+    "plural": "укры́тия",
+    "reading": {
+      "ru": "ukrytie"
+    }
   },
   {
     "id": "ru_2388",
@@ -21361,7 +23830,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "конфли́кты"
+    "plural": "конфли́кты",
+    "reading": {
+      "ru": "konflikt"
+    }
   },
   {
     "id": "ru_2390",
@@ -21387,7 +23859,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "онла́йны"
+    "plural": "онла́йны",
+    "reading": {
+      "ru": "onlayn"
+    }
   },
   {
     "id": "ru_2392",
@@ -21413,7 +23888,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "освобожде́ния"
+    "plural": "освобожде́ния",
+    "reading": {
+      "ru": "osvobozhdenie"
+    }
   },
   {
     "id": "ru_2393",
@@ -21438,7 +23916,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тро́ны"
+    "plural": "тро́ны",
+    "reading": {
+      "ru": "tron"
+    }
   },
   {
     "id": "ru_2394",
@@ -21465,7 +23946,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "похоронить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pokhoronit"
+    }
   },
   {
     "id": "ru_2395",
@@ -21489,7 +23973,10 @@ const WORDS_RU_B1 = [
       "zh": "女性的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "zhenskiy"
+    }
   },
   {
     "id": "ru_2396",
@@ -21514,7 +24001,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дети́шки"
+    "plural": "дети́шки",
+    "reading": {
+      "ru": "detishki"
+    }
   },
   {
     "id": "ru_2397",
@@ -21540,7 +24030,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "козлы́"
+    "plural": "козлы́",
+    "reading": {
+      "ru": "kozyol"
+    }
   },
   {
     "id": "ru_2398",
@@ -21567,7 +24060,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "целовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "tselovat"
+    }
   },
   {
     "id": "ru_2399",
@@ -21593,7 +24089,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "дета́ли"
+    "plural": "дета́ли",
+    "reading": {
+      "ru": "detal"
+    }
   },
   {
     "id": "ru_2401",
@@ -21619,7 +24118,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кузи́ны"
+    "plural": "кузи́ны",
+    "reading": {
+      "ru": "kuzina"
+    }
   },
   {
     "id": "ru_2403",
@@ -21646,7 +24148,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "труды́"
+    "plural": "труды́",
+    "reading": {
+      "ru": "trud"
+    }
   },
   {
     "id": "ru_2405",
@@ -21672,7 +24177,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "до́ли"
+    "plural": "до́ли",
+    "reading": {
+      "ru": "dolya"
+    }
   },
   {
     "id": "ru_2406",
@@ -21699,7 +24207,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "получиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poluchitsya"
+    }
   },
   {
     "id": "ru_2408",
@@ -21727,7 +24238,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "проехать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "proekhat"
+    }
   },
   {
     "id": "ru_2409",
@@ -21754,7 +24268,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подержать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poderzhat"
+    }
   },
   {
     "id": "ru_2410",
@@ -21782,7 +24299,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "прокатиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prokatitsya"
+    }
   },
   {
     "id": "ru_2411",
@@ -21808,7 +24328,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "засунуть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zasunut"
+    }
   },
   {
     "id": "ru_2412",
@@ -21835,7 +24358,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сотру́дничества"
+    "plural": "сотру́дничества",
+    "reading": {
+      "ru": "sotrudnichestvo"
+    }
   },
   {
     "id": "ru_2413",
@@ -21862,7 +24388,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "приносить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prinosit"
+    }
   },
   {
     "id": "ru_2414",
@@ -21887,7 +24416,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ра́нчо"
+    "plural": "ра́нчо",
+    "reading": {
+      "ru": "rancho"
+    }
   },
   {
     "id": "ru_2415",
@@ -21913,7 +24445,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "я́рости"
+    "plural": "я́рости",
+    "reading": {
+      "ru": "yarost"
+    }
   },
   {
     "id": "ru_2416",
@@ -21937,7 +24472,10 @@ const WORDS_RU_B1 = [
       "zh": "美味的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "vkusnyy"
+    }
   },
   {
     "id": "ru_2417",
@@ -21964,7 +24502,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "рюкзаки́"
+    "plural": "рюкзаки́",
+    "reading": {
+      "ru": "ryukzak"
+    }
   },
   {
     "id": "ru_2418",
@@ -21990,7 +24531,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бере́менности"
+    "plural": "бере́менности",
+    "reading": {
+      "ru": "beremennost"
+    }
   },
   {
     "id": "ru_2419",
@@ -22017,7 +24561,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подставить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podstavit"
+    }
   },
   {
     "id": "ru_2420",
@@ -22041,7 +24588,10 @@ const WORDS_RU_B1 = [
       "zh": "医疗的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "meditsinskiy"
+    }
   },
   {
     "id": "ru_2421",
@@ -22068,7 +24618,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фестива́ли"
+    "plural": "фестива́ли",
+    "reading": {
+      "ru": "festival"
+    }
   },
   {
     "id": "ru_2422",
@@ -22091,7 +24644,10 @@ const WORDS_RU_B1 = [
       "zh": "地区的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "okruzhnoy"
+    }
   },
   {
     "id": "ru_2423",
@@ -22118,7 +24674,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "те́хники"
+    "plural": "те́хники",
+    "reading": {
+      "ru": "tekhnika"
+    }
   },
   {
     "id": "ru_2424",
@@ -22145,7 +24704,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "бывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "byvat"
+    }
   },
   {
     "id": "ru_2426",
@@ -22172,7 +24734,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обратить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obratit"
+    }
   },
   {
     "id": "ru_2428",
@@ -22199,7 +24764,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "подавать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "podavat"
+    }
   },
   {
     "id": "ru_2429",
@@ -22225,7 +24793,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "пове́рхности"
+    "plural": "пове́рхности",
+    "reading": {
+      "ru": "poverkhnost"
+    }
   },
   {
     "id": "ru_2430",
@@ -22251,7 +24822,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вдо́вы"
+    "plural": "вдо́вы",
+    "reading": {
+      "ru": "vdova"
+    }
   },
   {
     "id": "ru_2431",
@@ -22278,7 +24852,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сто́имости"
+    "plural": "сто́имости",
+    "reading": {
+      "ru": "stoimost"
+    }
   },
   {
     "id": "ru_2432",
@@ -22305,7 +24882,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "заведе́ния"
+    "plural": "заведе́ния",
+    "reading": {
+      "ru": "zavedenie"
+    }
   },
   {
     "id": "ru_2433",
@@ -22332,7 +24912,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "завершить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "zavershit"
+    }
   },
   {
     "id": "ru_2434",
@@ -22359,7 +24942,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "радоваться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "radovatsya"
+    }
   },
   {
     "id": "ru_2435",
@@ -22386,7 +24972,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поздравить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozdravit"
+    }
   },
   {
     "id": "ru_2436",
@@ -22413,7 +25002,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "институ́ты"
+    "plural": "институ́ты",
+    "reading": {
+      "ru": "institut"
+    }
   },
   {
     "id": "ru_2437",
@@ -22439,7 +25031,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "кло́уны"
+    "plural": "кло́уны",
+    "reading": {
+      "ru": "kloun"
+    }
   },
   {
     "id": "ru_2438",
@@ -22466,7 +25061,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "вкла́ды"
+    "plural": "вкла́ды",
+    "reading": {
+      "ru": "vklad"
+    }
   },
   {
     "id": "ru_2439",
@@ -22492,7 +25090,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сме́си"
+    "plural": "сме́си",
+    "reading": {
+      "ru": "smes"
+    }
   },
   {
     "id": "ru_2440",
@@ -22519,7 +25120,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выставить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vystavit"
+    }
   },
   {
     "id": "ru_2441",
@@ -22543,7 +25147,10 @@ const WORDS_RU_B1 = [
       "zh": "主要的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "vedushchiy"
+    }
   },
   {
     "id": "ru_2442",
@@ -22570,7 +25177,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "веду́щие"
+    "plural": "веду́щие",
+    "reading": {
+      "ru": "vedushchiy"
+    }
   },
   {
     "id": "ru_2443",
@@ -22596,7 +25206,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "волше́бники"
+    "plural": "волше́бники",
+    "reading": {
+      "ru": "volshebnik"
+    }
   },
   {
     "id": "ru_2444",
@@ -22623,7 +25236,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "повлиять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "povliyat"
+    }
   },
   {
     "id": "ru_2445",
@@ -22650,7 +25266,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "причинять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "prichinyat"
+    }
   },
   {
     "id": "ru_2446",
@@ -22677,7 +25296,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "проду́кты"
+    "plural": "проду́кты",
+    "reading": {
+      "ru": "produkt"
+    }
   },
   {
     "id": "ru_2447",
@@ -22704,7 +25326,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "позволять",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pozvolyat"
+    }
   },
   {
     "id": "ru_2448",
@@ -22731,7 +25356,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "сбросить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sbrosit"
+    }
   },
   {
     "id": "ru_2449",
@@ -22757,7 +25385,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "короле́вства"
+    "plural": "короле́вства",
+    "reading": {
+      "ru": "korolevstvo"
+    }
   },
   {
     "id": "ru_2450",
@@ -22781,7 +25412,10 @@ const WORDS_RU_B1 = [
       "zh": "秘密的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "sekretnyy"
+    }
   },
   {
     "id": "ru_2451",
@@ -22807,7 +25441,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сумасше́ствия"
+    "plural": "сумасше́ствия",
+    "reading": {
+      "ru": "sumasshestvie"
+    }
   },
   {
     "id": "ru_2452",
@@ -22834,7 +25471,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "существовать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "sushchestvovat"
+    }
   },
   {
     "id": "ru_2453",
@@ -22860,7 +25500,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "удостовериться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "udostoveritsya"
+    }
   },
   {
     "id": "ru_2456",
@@ -22886,7 +25529,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "но́жницы"
+    "plural": "но́жницы",
+    "reading": {
+      "ru": "nozhnitsy"
+    }
   },
   {
     "id": "ru_2457",
@@ -22913,7 +25559,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "угостить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "ugostit"
+    }
   },
   {
     "id": "ru_2458",
@@ -22939,7 +25588,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "веро́ники"
+    "plural": "веро́ники",
+    "reading": {
+      "ru": "veronika"
+    }
   },
   {
     "id": "ru_2460",
@@ -22965,7 +25617,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "во́лны"
+    "plural": "во́лны",
+    "reading": {
+      "ru": "volna"
+    }
   },
   {
     "id": "ru_2462",
@@ -22991,7 +25646,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "инфе́кции"
+    "plural": "инфе́кции",
+    "reading": {
+      "ru": "infektsiya"
+    }
   },
   {
     "id": "ru_2463",
@@ -23017,7 +25675,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "фра́зы"
+    "plural": "фра́зы",
+    "reading": {
+      "ru": "fraza"
+    }
   },
   {
     "id": "ru_2464",
@@ -23043,7 +25704,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ста́рты"
+    "plural": "ста́рты",
+    "reading": {
+      "ru": "start"
+    }
   },
   {
     "id": "ru_2465",
@@ -23070,7 +25734,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "выносить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "vynosit"
+    }
   },
   {
     "id": "ru_2467",
@@ -23096,7 +25763,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "аппети́ты"
+    "plural": "аппети́ты",
+    "reading": {
+      "ru": "appetit"
+    }
   },
   {
     "id": "ru_2468",
@@ -23123,7 +25793,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "пообщаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "poobshchatsya"
+    }
   },
   {
     "id": "ru_2469",
@@ -23149,7 +25822,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "продолже́ния"
+    "plural": "продолже́ния",
+    "reading": {
+      "ru": "prodolzhenie"
+    }
   },
   {
     "id": "ru_2471",
@@ -23174,7 +25850,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "нали́чия"
+    "plural": "нали́чия",
+    "reading": {
+      "ru": "nalichie"
+    }
   },
   {
     "id": "ru_2472",
@@ -23200,7 +25879,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "обезья́ны"
+    "plural": "обезья́ны",
+    "reading": {
+      "ru": "obezyana"
+    }
   },
   {
     "id": "ru_2473",
@@ -23226,7 +25908,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "допросить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "doprosit"
+    }
   },
   {
     "id": "ru_2474",
@@ -23252,7 +25937,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "местоположе́ния"
+    "plural": "местоположе́ния",
+    "reading": {
+      "ru": "mestopolozhenie"
+    }
   },
   {
     "id": "ru_2475",
@@ -23278,7 +25966,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "сеа́нсы"
+    "plural": "сеа́нсы",
+    "reading": {
+      "ru": "seans"
+    }
   },
   {
     "id": "ru_2476",
@@ -23304,7 +25995,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ю́ноши"
+    "plural": "ю́ноши",
+    "reading": {
+      "ru": "yunosha"
+    }
   },
   {
     "id": "ru_2477",
@@ -23330,7 +26024,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "льды"
+    "plural": "льды",
+    "reading": {
+      "ru": "lyod"
+    }
   },
   {
     "id": "ru_2478",
@@ -23357,7 +26054,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "отыскать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "otyskat"
+    }
   },
   {
     "id": "ru_2479",
@@ -23382,7 +26082,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "моше́нники"
+    "plural": "моше́нники",
+    "reading": {
+      "ru": "moshennik"
+    }
   },
   {
     "id": "ru_2480",
@@ -23408,7 +26111,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "че́стности"
+    "plural": "че́стности",
+    "reading": {
+      "ru": "chestnost"
+    }
   },
   {
     "id": "ru_2481",
@@ -23432,7 +26138,10 @@ const WORDS_RU_B1 = [
       "zh": "不正常的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "nenormalnyy"
+    }
   },
   {
     "id": "ru_2482",
@@ -23459,7 +26168,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "обманывать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "obmanyvat"
+    }
   },
   {
     "id": "ru_2483",
@@ -23484,7 +26196,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бу́ри"
+    "plural": "бу́ри",
+    "reading": {
+      "ru": "burya"
+    }
   },
   {
     "id": "ru_2484",
@@ -23508,7 +26223,10 @@ const WORDS_RU_B1 = [
       "zh": "免费的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "besplatnyy"
+    }
   },
   {
     "id": "ru_2485",
@@ -23534,7 +26252,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "экипа́жи"
+    "plural": "экипа́жи",
+    "reading": {
+      "ru": "ekipazh"
+    }
   },
   {
     "id": "ru_2486",
@@ -23560,7 +26281,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ве́рности"
+    "plural": "ве́рности",
+    "reading": {
+      "ru": "vernost"
+    }
   },
   {
     "id": "ru_2487",
@@ -23587,7 +26311,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "насладиться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "nasladitsya"
+    }
   },
   {
     "id": "ru_2488",
@@ -23612,7 +26339,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "прослу́шивания"
+    "plural": "прослу́шивания",
+    "reading": {
+      "ru": "proslushivanie"
+    }
   },
   {
     "id": "ru_2489",
@@ -23639,7 +26369,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "хватать",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "khvatat"
+    }
   },
   {
     "id": "ru_2490",
@@ -23665,7 +26398,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "тьмы"
+    "plural": "тьмы",
+    "reading": {
+      "ru": "tma"
+    }
   },
   {
     "id": "ru_2491",
@@ -23689,7 +26425,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ка́зни"
+    "plural": "ка́зни",
+    "reading": {
+      "ru": "kazn"
+    }
   },
   {
     "id": "ru_2492",
@@ -23713,7 +26452,10 @@ const WORDS_RU_B1 = [
       "zh": "普通的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "ryadovoy"
+    }
   },
   {
     "id": "ru_2493",
@@ -23737,7 +26479,10 @@ const WORDS_RU_B1 = [
       "zh": "有名的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "znamenityy"
+    }
   },
   {
     "id": "ru_2494",
@@ -23761,7 +26506,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "авгу́сты"
+    "plural": "авгу́сты",
+    "reading": {
+      "ru": "avgusta"
+    }
   },
   {
     "id": "ru_2495",
@@ -23787,7 +26535,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "зре́ния"
+    "plural": "зре́ния",
+    "reading": {
+      "ru": "zrenie"
+    }
   },
   {
     "id": "ru_2496",
@@ -23814,7 +26565,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "поместить",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "pomestit"
+    }
   },
   {
     "id": "ru_2497",
@@ -23840,7 +26594,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "террито́рии"
+    "plural": "террито́рии",
+    "reading": {
+      "ru": "territoriya"
+    }
   },
   {
     "id": "ru_2498",
@@ -23866,7 +26623,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "церемо́нии"
+    "plural": "церемо́нии",
+    "reading": {
+      "ru": "tseremoniya"
+    }
   },
   {
     "id": "ru_2499",
@@ -23890,7 +26650,10 @@ const WORDS_RU_B1 = [
       "zh": "安静的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "tikhiy"
+    }
   },
   {
     "id": "ru_2504",
@@ -23917,7 +26680,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "повара́"
+    "plural": "повара́",
+    "reading": {
+      "ru": "povar"
+    }
   },
   {
     "id": "ru_2505",
@@ -23942,7 +26708,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "ра́унды"
+    "plural": "ра́унды",
+    "reading": {
+      "ru": "raund"
+    }
   },
   {
     "id": "ru_2506",
@@ -23968,7 +26737,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "привы́чки"
+    "plural": "привы́чки",
+    "reading": {
+      "ru": "privychka"
+    }
   },
   {
     "id": "ru_2507",
@@ -23994,7 +26766,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "иму́щества"
+    "plural": "иму́щества",
+    "reading": {
+      "ru": "imushchestvo"
+    }
   },
   {
     "id": "ru_2508",
@@ -24020,7 +26795,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "моби́льники"
+    "plural": "моби́льники",
+    "reading": {
+      "ru": "mobilnik"
+    }
   },
   {
     "id": "ru_2509",
@@ -24046,7 +26824,10 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "придерживаться",
     "reflexive": true,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "priderzhivatsya"
+    }
   },
   {
     "id": "ru_2510",
@@ -24070,7 +26851,10 @@ const WORDS_RU_B1 = [
       "zh": "后面的"
     },
     "examples": [],
-    "meta": {}
+    "meta": {},
+    "reading": {
+      "ru": "zadniy"
+    }
   },
   {
     "id": "ru_2511",
@@ -24096,7 +26880,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "бага́жники"
+    "plural": "бага́жники",
+    "reading": {
+      "ru": "bagazhnik"
+    }
   },
   {
     "id": "ru_2512",
@@ -24122,7 +26909,10 @@ const WORDS_RU_B1 = [
     "examples": [],
     "meta": {},
     "article": "",
-    "plural": "игру́шки"
+    "plural": "игру́шки",
+    "reading": {
+      "ru": "igrushka"
+    }
   },
   {
     "id": "ru_2514",
@@ -24149,6 +26939,9 @@ const WORDS_RU_B1 = [
     "meta": {},
     "infinitive": "одеть",
     "reflexive": false,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ru": "odet"
+    }
   }
 ];

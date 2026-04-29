@@ -1,4 +1,4 @@
-// JA A1 generated from ja_release_candidate_v1.json
+// JA A1 generated from release candidate
 const WORDS_JA_A1 = [
   {
     "id": "ja_1",
@@ -25,7 +25,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あさって"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あさって"
+    }
   },
   {
     "id": "ja_2",
@@ -52,7 +55,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あそこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あそこ"
+    }
   },
   {
     "id": "ja_3",
@@ -79,7 +85,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あちら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あちら"
+    }
   },
   {
     "id": "ja_4",
@@ -106,7 +115,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あっち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あっち"
+    }
   },
   {
     "id": "ja_5",
@@ -133,7 +145,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あなた"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あなた"
+    }
   },
   {
     "id": "ja_6",
@@ -158,6 +173,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あの"
+    },
+    "reading": {
+      "ja": "あの"
     }
   },
   {
@@ -186,7 +204,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "あびる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あびる"
+    }
   },
   {
     "id": "ja_8",
@@ -214,7 +235,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "ある",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ある"
+    }
   },
   {
     "id": "ja_9",
@@ -241,7 +265,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あれ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あれ"
+    }
   },
   {
     "id": "ja_10",
@@ -266,6 +293,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "いい"
+    },
+    "reading": {
+      "ja": "いい"
     }
   },
   {
@@ -293,7 +323,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いす"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いす"
+    }
   },
   {
     "id": "ja_12",
@@ -320,7 +353,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いろいろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いろいろ"
+    }
   },
   {
     "id": "ja_13",
@@ -345,6 +381,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おいしい"
+    },
+    "reading": {
+      "ja": "おいしい"
     }
   },
   {
@@ -372,7 +411,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おなか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おなか"
+    }
   },
   {
     "id": "ja_15",
@@ -399,7 +441,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おばあさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おばあさん"
+    }
   },
   {
     "id": "ja_16",
@@ -426,7 +471,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おまわりさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おまわりさん"
+    }
   },
   {
     "id": "ja_17",
@@ -451,6 +499,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おもしろい"
+    },
+    "reading": {
+      "ja": "おもしろい"
     }
   },
   {
@@ -478,7 +529,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おにいさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おにいさん"
+    }
   },
   {
     "id": "ja_19",
@@ -505,7 +559,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おねえさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おねえさん"
+    }
   },
   {
     "id": "ja_20",
@@ -532,7 +589,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おべんとう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おべんとう"
+    }
   },
   {
     "id": "ja_21",
@@ -559,7 +619,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おてあらい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おてあらい"
+    }
   },
   {
     "id": "ja_22",
@@ -586,7 +649,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おかあさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おかあさん"
+    }
   },
   {
     "id": "ja_23",
@@ -613,7 +679,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おとうさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おとうさん"
+    }
   },
   {
     "id": "ja_24",
@@ -640,7 +709,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おさら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おさら"
+    }
   },
   {
     "id": "ja_25",
@@ -667,7 +739,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おちゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おちゃ"
+    }
   },
   {
     "id": "ja_26",
@@ -694,7 +769,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おかし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おかし"
+    }
   },
   {
     "id": "ja_27",
@@ -721,7 +799,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おさけ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おさけ"
+    }
   },
   {
     "id": "ja_28",
@@ -748,7 +829,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おかね"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おかね"
+    }
   },
   {
     "id": "ja_29",
@@ -775,7 +859,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おふろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おふろ"
+    }
   },
   {
     "id": "ja_30",
@@ -803,7 +890,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "かかる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かかる"
+    }
   },
   {
     "id": "ja_31",
@@ -830,7 +920,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かぎ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かぎ"
+    }
   },
   {
     "id": "ja_32",
@@ -858,7 +951,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "かける",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かける"
+    }
   },
   {
     "id": "ja_33",
@@ -885,7 +981,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かばん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かばん"
+    }
   },
   {
     "id": "ja_34",
@@ -910,6 +1009,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "かわいい"
+    },
+    "reading": {
+      "ja": "かわいい"
     }
   },
   {
@@ -935,6 +1037,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "きれい"
+    },
+    "reading": {
+      "ja": "きれい"
     }
   },
   {
@@ -962,7 +1067,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ここ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ここ"
+    }
   },
   {
     "id": "ja_37",
@@ -989,7 +1097,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こちら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こちら"
+    }
   },
   {
     "id": "ja_38",
@@ -1016,7 +1127,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こっち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こっち"
+    }
   },
   {
     "id": "ja_39",
@@ -1041,6 +1155,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "この"
+    },
+    "reading": {
+      "ja": "この"
     }
   },
   {
@@ -1068,7 +1185,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "これ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "これ"
+    }
   },
   {
     "id": "ja_41",
@@ -1093,6 +1213,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "こんな"
+    },
+    "reading": {
+      "ja": "こんな"
     }
   },
   {
@@ -1120,7 +1243,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "さらいねん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "さらいねん"
+    }
   },
   {
     "id": "ja_43",
@@ -1147,7 +1273,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しょうゆ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しょうゆ"
+    }
   },
   {
     "id": "ja_44",
@@ -1175,7 +1304,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "する",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "する"
+    }
   },
   {
     "id": "ja_45",
@@ -1202,7 +1334,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せっけん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せっけん"
+    }
   },
   {
     "id": "ja_46",
@@ -1229,7 +1364,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "そこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "そこ"
+    }
   },
   {
     "id": "ja_47",
@@ -1256,7 +1394,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "そちら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "そちら"
+    }
   },
   {
     "id": "ja_48",
@@ -1283,7 +1424,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "そっち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "そっち"
+    }
   },
   {
     "id": "ja_49",
@@ -1308,6 +1452,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "その"
+    },
+    "reading": {
+      "ja": "その"
     }
   },
   {
@@ -1335,7 +1482,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "そば"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "そば"
+    }
   },
   {
     "id": "ja_51",
@@ -1362,7 +1512,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "それ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "それ"
+    }
   },
   {
     "id": "ja_52",
@@ -1387,6 +1540,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "たいへん"
+    },
+    "reading": {
+      "ja": "たいへん"
     }
   },
   {
@@ -1414,7 +1570,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たて"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たて"
+    }
   },
   {
     "id": "ja_54",
@@ -1441,7 +1600,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たばこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たばこ"
+    }
   },
   {
     "id": "ja_55",
@@ -1468,7 +1630,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ちゃわん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ちゃわん"
+    }
   },
   {
     "id": "ja_56",
@@ -1496,7 +1661,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "つける",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つける"
+    }
   },
   {
     "id": "ja_57",
@@ -1521,6 +1689,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "つまらない"
+    },
+    "reading": {
+      "ja": "つまらない"
     }
   },
   {
@@ -1549,7 +1720,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "できる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "できる"
+    }
   },
   {
     "id": "ja_59",
@@ -1576,7 +1750,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "とりにく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "とりにく"
+    }
   },
   {
     "id": "ja_60",
@@ -1603,7 +1780,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どこ"
+    }
   },
   {
     "id": "ja_61",
@@ -1630,7 +1810,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どちら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どちら"
+    }
   },
   {
     "id": "ja_62",
@@ -1657,7 +1840,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どっち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どっち"
+    }
   },
   {
     "id": "ja_63",
@@ -1684,7 +1870,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どなた"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どなた"
+    }
   },
   {
     "id": "ja_64",
@@ -1711,7 +1900,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どれ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どれ"
+    }
   },
   {
     "id": "ja_65",
@@ -1739,7 +1931,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "なる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "なる"
+    }
   },
   {
     "id": "ja_66",
@@ -1767,7 +1962,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "はく",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はく"
+    }
   },
   {
     "id": "ja_67",
@@ -1794,7 +1992,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はし"
+    }
   },
   {
     "id": "ja_68",
@@ -1821,7 +2022,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ふろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ふろ"
+    }
   },
   {
     "id": "ja_69",
@@ -1848,7 +2052,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ほか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ほか"
+    }
   },
   {
     "id": "ja_70",
@@ -1875,7 +2082,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ほんとう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ほんとう"
+    }
   },
   {
     "id": "ja_71",
@@ -1900,6 +2110,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "まずい"
+    },
+    "reading": {
+      "ja": "まずい"
     }
   },
   {
@@ -1925,6 +2138,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "まっすぐ"
+    },
+    "reading": {
+      "ja": "まっすぐ"
     }
   },
   {
@@ -1952,7 +2168,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "みんな"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "みんな"
+    }
   },
   {
     "id": "ja_74",
@@ -1980,7 +2199,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "やる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "やる"
+    }
   },
   {
     "id": "ja_75",
@@ -2005,6 +2227,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "りっぱ"
+    },
+    "reading": {
+      "ja": "りっぱ"
     }
   },
   {
@@ -2032,7 +2257,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "アパート"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "アパート"
+    }
   },
   {
     "id": "ja_77",
@@ -2059,7 +2287,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "エレベーター"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "エレベーター"
+    }
   },
   {
     "id": "ja_78",
@@ -2086,7 +2317,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "カップ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "カップ"
+    }
   },
   {
     "id": "ja_79",
@@ -2113,7 +2347,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "カメラ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "カメラ"
+    }
   },
   {
     "id": "ja_80",
@@ -2140,7 +2377,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "カレンダー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "カレンダー"
+    }
   },
   {
     "id": "ja_81",
@@ -2167,7 +2407,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "カレー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "カレー"
+    }
   },
   {
     "id": "ja_82",
@@ -2194,7 +2437,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "キロ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "キロ"
+    }
   },
   {
     "id": "ja_83",
@@ -2221,7 +2467,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "キログラム"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "キログラム"
+    }
   },
   {
     "id": "ja_84",
@@ -2248,7 +2497,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "キロメートル"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "キロメートル"
+    }
   },
   {
     "id": "ja_85",
@@ -2275,7 +2527,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ギター"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ギター"
+    }
   },
   {
     "id": "ja_86",
@@ -2302,7 +2557,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "クラス"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "クラス"
+    }
   },
   {
     "id": "ja_87",
@@ -2329,7 +2587,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "グラム"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "グラム"
+    }
   },
   {
     "id": "ja_88",
@@ -2356,7 +2617,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "コップ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "コップ"
+    }
   },
   {
     "id": "ja_89",
@@ -2384,7 +2648,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "コピーする",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "コピーする"
+    }
   },
   {
     "id": "ja_90",
@@ -2411,7 +2678,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "コート"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "コート"
+    }
   },
   {
     "id": "ja_91",
@@ -2438,7 +2708,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "コーヒー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "コーヒー"
+    }
   },
   {
     "id": "ja_92",
@@ -2465,7 +2738,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "シャツ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "シャツ"
+    }
   },
   {
     "id": "ja_93",
@@ -2492,7 +2768,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "シャワー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "シャワー"
+    }
   },
   {
     "id": "ja_94",
@@ -2519,7 +2798,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "スカート"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "スカート"
+    }
   },
   {
     "id": "ja_95",
@@ -2546,7 +2828,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ストーブ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ストーブ"
+    }
   },
   {
     "id": "ja_96",
@@ -2573,7 +2858,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "スプーン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "スプーン"
+    }
   },
   {
     "id": "ja_97",
@@ -2600,7 +2888,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "スポーツ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "スポーツ"
+    }
   },
   {
     "id": "ja_98",
@@ -2627,7 +2918,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "スリッパ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "スリッパ"
+    }
   },
   {
     "id": "ja_99",
@@ -2654,7 +2948,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ズボン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ズボン"
+    }
   },
   {
     "id": "ja_100",
@@ -2681,7 +2978,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "セーター"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "セーター"
+    }
   },
   {
     "id": "ja_101",
@@ -2708,7 +3008,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ゼロ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ゼロ"
+    }
   },
   {
     "id": "ja_102",
@@ -2735,7 +3038,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "タクシー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "タクシー"
+    }
   },
   {
     "id": "ja_103",
@@ -2762,7 +3068,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "テスト"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "テスト"
+    }
   },
   {
     "id": "ja_104",
@@ -2789,7 +3098,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "テレビ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "テレビ"
+    }
   },
   {
     "id": "ja_105",
@@ -2816,7 +3128,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "テーブル"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "テーブル"
+    }
   },
   {
     "id": "ja_106",
@@ -2843,7 +3158,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "テープ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "テープ"
+    }
   },
   {
     "id": "ja_107",
@@ -2870,7 +3188,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "テープレコーダー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "テープレコーダー"
+    }
   },
   {
     "id": "ja_108",
@@ -2897,7 +3218,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "デパート"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "デパート"
+    }
   },
   {
     "id": "ja_109",
@@ -2924,7 +3248,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "トイレ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "トイレ"
+    }
   },
   {
     "id": "ja_110",
@@ -2951,7 +3278,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ドア"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ドア"
+    }
   },
   {
     "id": "ja_111",
@@ -2978,7 +3308,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ナイフ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ナイフ"
+    }
   },
   {
     "id": "ja_112",
@@ -3005,7 +3338,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ニュース"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ニュース"
+    }
   },
   {
     "id": "ja_113",
@@ -3032,7 +3368,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ネクタイ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ネクタイ"
+    }
   },
   {
     "id": "ja_114",
@@ -3059,7 +3398,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ノート"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ノート"
+    }
   },
   {
     "id": "ja_115",
@@ -3086,7 +3428,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ハンカチ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ハンカチ"
+    }
   },
   {
     "id": "ja_116",
@@ -3113,7 +3458,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "バス"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "バス"
+    }
   },
   {
     "id": "ja_117",
@@ -3140,7 +3488,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "バター"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "バター"
+    }
   },
   {
     "id": "ja_118",
@@ -3167,7 +3518,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "パン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "パン"
+    }
   },
   {
     "id": "ja_119",
@@ -3194,7 +3548,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "パーティー"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "パーティー"
+    }
   },
   {
     "id": "ja_120",
@@ -3221,7 +3578,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "フィルム"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "フィルム"
+    }
   },
   {
     "id": "ja_121",
@@ -3248,7 +3608,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "フォーク"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "フォーク"
+    }
   },
   {
     "id": "ja_122",
@@ -3275,7 +3638,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "プール"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "プール"
+    }
   },
   {
     "id": "ja_123",
@@ -3302,7 +3668,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ベッド"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ベッド"
+    }
   },
   {
     "id": "ja_124",
@@ -3329,7 +3698,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ペット"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ペット"
+    }
   },
   {
     "id": "ja_125",
@@ -3356,7 +3728,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ペン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ペン"
+    }
   },
   {
     "id": "ja_126",
@@ -3383,7 +3758,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ページ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ページ"
+    }
   },
   {
     "id": "ja_127",
@@ -3410,7 +3788,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ホテル"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ホテル"
+    }
   },
   {
     "id": "ja_128",
@@ -3437,7 +3818,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ボタン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ボタン"
+    }
   },
   {
     "id": "ja_129",
@@ -3464,7 +3848,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ボールペン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ボールペン"
+    }
   },
   {
     "id": "ja_130",
@@ -3491,7 +3878,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ポケット"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ポケット"
+    }
   },
   {
     "id": "ja_131",
@@ -3518,7 +3908,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ポスト"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ポスト"
+    }
   },
   {
     "id": "ja_132",
@@ -3545,7 +3938,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "マッチ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "マッチ"
+    }
   },
   {
     "id": "ja_133",
@@ -3572,7 +3968,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "メートル"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "メートル"
+    }
   },
   {
     "id": "ja_134",
@@ -3599,7 +3998,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ラジオ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ラジオ"
+    }
   },
   {
     "id": "ja_135",
@@ -3626,7 +4028,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ラジオカセット"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ラジオカセット"
+    }
   },
   {
     "id": "ja_136",
@@ -3653,7 +4058,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ラジカセ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ラジカセ"
+    }
   },
   {
     "id": "ja_137",
@@ -3680,7 +4088,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "レコード"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "レコード"
+    }
   },
   {
     "id": "ja_138",
@@ -3707,7 +4118,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "レストラン"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "レストラン"
+    }
   },
   {
     "id": "ja_139",
@@ -3734,7 +4148,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ワイシャツ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ワイシャツ"
+    }
   },
   {
     "id": "ja_140",
@@ -3761,7 +4178,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ひとつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ひとつ"
+    }
   },
   {
     "id": "ja_141",
@@ -3788,7 +4208,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ひとり"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ひとり"
+    }
   },
   {
     "id": "ja_142",
@@ -3815,7 +4238,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いちにち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いちにち"
+    }
   },
   {
     "id": "ja_143",
@@ -3842,7 +4268,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おととし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おととし"
+    }
   },
   {
     "id": "ja_144",
@@ -3869,7 +4298,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おととい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おととい"
+    }
   },
   {
     "id": "ja_145",
@@ -3896,7 +4328,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ひとつき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ひとつき"
+    }
   },
   {
     "id": "ja_146",
@@ -3923,7 +4358,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いっしょ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いっしょ"
+    }
   },
   {
     "id": "ja_147",
@@ -3950,7 +4388,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ななつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ななつ"
+    }
   },
   {
     "id": "ja_148",
@@ -3977,7 +4418,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "なのか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "なのか"
+    }
   },
   {
     "id": "ja_149",
@@ -4004,7 +4448,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まんねんひつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まんねんひつ"
+    }
   },
   {
     "id": "ja_150",
@@ -4029,6 +4476,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "じょうぶ"
+    },
+    "reading": {
+      "ja": "じょうぶ"
     }
   },
   {
@@ -4056,7 +4506,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "みっつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "みっつ"
+    }
   },
   {
     "id": "ja_152",
@@ -4083,7 +4536,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "みっか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "みっか"
+    }
   },
   {
     "id": "ja_153",
@@ -4111,7 +4567,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "上げる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あげる"
+    }
   },
   {
     "id": "ja_154",
@@ -4136,6 +4595,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "じょうず"
+    },
+    "reading": {
+      "ja": "じょうず"
     }
   },
   {
@@ -4163,7 +4625,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "うわぎ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "うわぎ"
+    }
   },
   {
     "id": "ja_156",
@@ -4188,6 +4653,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "へた"
+    },
+    "reading": {
+      "ja": "へた"
     }
   },
   {
@@ -4215,7 +4683,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "りょうしん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "りょうしん"
+    }
   },
   {
     "id": "ja_158",
@@ -4243,7 +4714,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "並ぶ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ならぶ"
+    }
   },
   {
     "id": "ja_159",
@@ -4271,7 +4745,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "並べる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ならべる"
+    }
   },
   {
     "id": "ja_160",
@@ -4296,6 +4773,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "まるい"
+    },
+    "reading": {
+      "ja": "まるい"
     }
   },
   {
@@ -4324,7 +4804,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "乗る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "のる"
+    }
   },
   {
     "id": "ja_162",
@@ -4351,7 +4834,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ここのつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ここのつ"
+    }
   },
   {
     "id": "ja_163",
@@ -4378,7 +4864,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ここのか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ここのか"
+    }
   },
   {
     "id": "ja_164",
@@ -4405,7 +4894,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ふたつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ふたつ"
+    }
   },
   {
     "id": "ja_165",
@@ -4432,7 +4924,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ふたり"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ふたり"
+    }
   },
   {
     "id": "ja_166",
@@ -4459,7 +4954,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はつか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はつか"
+    }
   },
   {
     "id": "ja_167",
@@ -4486,7 +4984,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はたち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はたち"
+    }
   },
   {
     "id": "ja_168",
@@ -4513,7 +5014,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ふつか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ふつか"
+    }
   },
   {
     "id": "ja_169",
@@ -4540,7 +5044,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いつつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いつつ"
+    }
   },
   {
     "id": "ja_170",
@@ -4567,7 +5074,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いつか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いつか"
+    }
   },
   {
     "id": "ja_171",
@@ -4594,7 +5104,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こうさてん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こうさてん"
+    }
   },
   {
     "id": "ja_172",
@@ -4621,7 +5134,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こうばん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こうばん"
+    }
   },
   {
     "id": "ja_173",
@@ -4648,7 +5164,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ことし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ことし"
+    }
   },
   {
     "id": "ja_174",
@@ -4675,7 +5194,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きょう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きょう"
+    }
   },
   {
     "id": "ja_175",
@@ -4702,7 +5224,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こんばん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こんばん"
+    }
   },
   {
     "id": "ja_176",
@@ -4729,7 +5254,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こんげつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こんげつ"
+    }
   },
   {
     "id": "ja_177",
@@ -4756,7 +5284,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "けさ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "けさ"
+    }
   },
   {
     "id": "ja_178",
@@ -4783,7 +5314,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こんしゅう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こんしゅう"
+    }
   },
   {
     "id": "ja_179",
@@ -4810,7 +5344,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しごと"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しごと"
+    }
   },
   {
     "id": "ja_180",
@@ -4837,7 +5374,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "やすみ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "やすみ"
+    }
   },
   {
     "id": "ja_181",
@@ -4865,7 +5405,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "休む",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "やすむ"
+    }
   },
   {
     "id": "ja_182",
@@ -4893,7 +5436,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "会う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あう"
+    }
   },
   {
     "id": "ja_183",
@@ -4920,7 +5466,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かいしゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かいしゃ"
+    }
   },
   {
     "id": "ja_184",
@@ -4947,7 +5496,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おばさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おばさん"
+    }
   },
   {
     "id": "ja_185",
@@ -4972,6 +5524,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ひくい"
+    },
+    "reading": {
+      "ja": "ひくい"
     }
   },
   {
@@ -5000,7 +5555,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "住む",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "すむ"
+    }
   },
   {
     "id": "ja_187",
@@ -5028,7 +5586,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "作る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つくる"
+    }
   },
   {
     "id": "ja_188",
@@ -5055,7 +5616,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "さくぶん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "さくぶん"
+    }
   },
   {
     "id": "ja_189",
@@ -5083,7 +5647,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "使う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つかう"
+    }
   },
   {
     "id": "ja_190",
@@ -5108,6 +5675,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "べんり"
+    },
+    "reading": {
+      "ja": "べんり"
     }
   },
   {
@@ -5136,7 +5706,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "借りる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かりる"
+    }
   },
   {
     "id": "ja_192",
@@ -5164,7 +5737,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "働く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はたらく"
+    }
   },
   {
     "id": "ja_193",
@@ -5189,6 +5765,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "げんき"
+    },
+    "reading": {
+      "ja": "げんき"
     }
   },
   {
@@ -5216,7 +5795,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きょうだい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きょうだい"
+    }
   },
   {
     "id": "ja_195",
@@ -5243,7 +5825,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せんげつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せんげつ"
+    }
   },
   {
     "id": "ja_196",
@@ -5270,7 +5855,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せんせい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せんせい"
+    }
   },
   {
     "id": "ja_197",
@@ -5297,7 +5885,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せんしゅう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せんしゅう"
+    }
   },
   {
     "id": "ja_198",
@@ -5325,7 +5916,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "入る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はいる"
+    }
   },
   {
     "id": "ja_199",
@@ -5353,7 +5947,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "入れる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "いれる"
+    }
   },
   {
     "id": "ja_200",
@@ -5380,7 +5977,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いりぐち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いりぐち"
+    }
   },
   {
     "id": "ja_201",
@@ -5407,7 +6007,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぜんぶ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぜんぶ"
+    }
   },
   {
     "id": "ja_202",
@@ -5434,7 +6037,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "やっつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "やっつ"
+    }
   },
   {
     "id": "ja_203",
@@ -5461,7 +6067,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ようか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ようか"
+    }
   },
   {
     "id": "ja_204",
@@ -5488,7 +6097,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "やおや"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "やおや"
+    }
   },
   {
     "id": "ja_205",
@@ -5515,7 +6127,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こうえん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こうえん"
+    }
   },
   {
     "id": "ja_206",
@@ -5542,7 +6157,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "むっつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "むっつ"
+    }
   },
   {
     "id": "ja_207",
@@ -5569,7 +6187,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "むいか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "むいか"
+    }
   },
   {
     "id": "ja_208",
@@ -5596,7 +6217,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しゃしん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しゃしん"
+    }
   },
   {
     "id": "ja_209",
@@ -5621,6 +6245,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "つめたい"
+    },
+    "reading": {
+      "ja": "つめたい"
     }
   },
   {
@@ -5648,7 +6275,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "れいぞうこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "れいぞうこ"
+    }
   },
   {
     "id": "ja_211",
@@ -5676,7 +6306,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "出かける",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "でかける"
+    }
   },
   {
     "id": "ja_212",
@@ -5704,7 +6337,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "出す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "だす"
+    }
   },
   {
     "id": "ja_213",
@@ -5732,7 +6368,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "出る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "でる"
+    }
   },
   {
     "id": "ja_214",
@@ -5759,7 +6398,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "でぐち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "でぐち"
+    }
   },
   {
     "id": "ja_215",
@@ -5787,7 +6429,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "分かる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "わかる"
+    }
   },
   {
     "id": "ja_216",
@@ -5815,7 +6460,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "切る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "きる"
+    }
   },
   {
     "id": "ja_217",
@@ -5842,7 +6490,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きって"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きって"
+    }
   },
   {
     "id": "ja_218",
@@ -5869,7 +6520,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きっぷ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きっぷ"
+    }
   },
   {
     "id": "ja_219",
@@ -5896,7 +6550,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はじめ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はじめ"
+    }
   },
   {
     "id": "ja_220",
@@ -5923,7 +6580,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "べんきょう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "べんきょう"
+    }
   },
   {
     "id": "ja_221",
@@ -5950,7 +6610,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どうぶつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どうぶつ"
+    }
   },
   {
     "id": "ja_222",
@@ -5978,7 +6641,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "勤める",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つとめる"
+    }
   },
   {
     "id": "ja_223",
@@ -6005,7 +6671,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いしゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いしゃ"
+    }
   },
   {
     "id": "ja_224",
@@ -6032,7 +6701,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "とおか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "とおか"
+    }
   },
   {
     "id": "ja_225",
@@ -6059,7 +6731,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ごぜん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ごぜん"
+    }
   },
   {
     "id": "ja_226",
@@ -6086,7 +6761,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ごご"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ごご"
+    }
   },
   {
     "id": "ja_227",
@@ -6113,7 +6791,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はんぶん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はんぶん"
+    }
   },
   {
     "id": "ja_228",
@@ -6138,6 +6819,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あぶない"
+    },
+    "reading": {
+      "ja": "あぶない"
     }
   },
   {
@@ -6165,7 +6849,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きょねん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きょねん"
+    }
   },
   {
     "id": "ja_230",
@@ -6192,7 +6879,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ともだち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ともだち"
+    }
   },
   {
     "id": "ja_231",
@@ -6219,7 +6909,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おばさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おばさん"
+    }
   },
   {
     "id": "ja_232",
@@ -6247,7 +6940,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "取る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "とる"
+    }
   },
   {
     "id": "ja_233",
@@ -6272,6 +6968,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ふるい"
+    },
+    "reading": {
+      "ja": "ふるい"
     }
   },
   {
@@ -6299,7 +6998,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "だいどころ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "だいどころ"
+    }
   },
   {
     "id": "ja_235",
@@ -6324,6 +7026,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おなじ"
+    },
+    "reading": {
+      "ja": "おなじ"
     }
   },
   {
@@ -6351,7 +7056,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "なまえ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "なまえ"
+    }
   },
   {
     "id": "ja_237",
@@ -6378,7 +7086,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "むこう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "むこう"
+    }
   },
   {
     "id": "ja_238",
@@ -6406,7 +7117,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "吸う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "すう"
+    }
   },
   {
     "id": "ja_239",
@@ -6434,7 +7148,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "吹く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ふく"
+    }
   },
   {
     "id": "ja_240",
@@ -6462,7 +7179,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "呼ぶ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "よぶ"
+    }
   },
   {
     "id": "ja_241",
@@ -6490,7 +7210,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "咲く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "さく"
+    }
   },
   {
     "id": "ja_242",
@@ -6517,7 +7240,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "もんだい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "もんだい"
+    }
   },
   {
     "id": "ja_243",
@@ -6544,7 +7270,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きっさてん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きっさてん"
+    }
   },
   {
     "id": "ja_244",
@@ -6571,7 +7300,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "よっつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "よっつ"
+    }
   },
   {
     "id": "ja_245",
@@ -6598,7 +7330,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "よっか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "よっか"
+    }
   },
   {
     "id": "ja_246",
@@ -6626,7 +7361,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "困る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "こまる"
+    }
   },
   {
     "id": "ja_247",
@@ -6653,7 +7391,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "としょかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "としょかん"
+    }
   },
   {
     "id": "ja_248",
@@ -6680,7 +7421,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "どようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "どようび"
+    }
   },
   {
     "id": "ja_249",
@@ -6707,7 +7451,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ちかてつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ちかてつ"
+    }
   },
   {
     "id": "ja_250",
@@ -6734,7 +7481,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ちず"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ちず"
+    }
   },
   {
     "id": "ja_251",
@@ -6762,7 +7512,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "売る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "うる"
+    }
   },
   {
     "id": "ja_252",
@@ -6789,7 +7542,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "なつやすみ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "なつやすみ"
+    }
   },
   {
     "id": "ja_253",
@@ -6816,7 +7572,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ゆうがた"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ゆうがた"
+    }
   },
   {
     "id": "ja_254",
@@ -6843,7 +7602,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ゆうはん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ゆうはん"
+    }
   },
   {
     "id": "ja_255",
@@ -6870,7 +7632,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "がいこく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "がいこく"
+    }
   },
   {
     "id": "ja_256",
@@ -6897,7 +7662,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "がいこくじん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "がいこくじん"
+    }
   },
   {
     "id": "ja_257",
@@ -6922,6 +7690,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おおい"
+    },
+    "reading": {
+      "ja": "おおい"
     }
   },
   {
@@ -6947,6 +7718,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おおきい"
+    },
+    "reading": {
+      "ja": "おおきい"
     }
   },
   {
@@ -6972,6 +7746,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "だいじょうぶ"
+    },
+    "reading": {
+      "ja": "だいじょうぶ"
     }
   },
   {
@@ -6999,7 +7776,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おとな"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おとな"
+    }
   },
   {
     "id": "ja_261",
@@ -7026,7 +7806,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たいしかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たいしかん"
+    }
   },
   {
     "id": "ja_262",
@@ -7051,6 +7834,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "たいせつ"
+    },
+    "reading": {
+      "ja": "たいせつ"
     }
   },
   {
@@ -7078,7 +7864,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おおぜい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おおぜい"
+    }
   },
   {
     "id": "ja_264",
@@ -7103,6 +7892,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "だいすき"
+    },
+    "reading": {
+      "ja": "だいすき"
     }
   },
   {
@@ -7130,7 +7922,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "だいがく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "だいがく"
+    }
   },
   {
     "id": "ja_266",
@@ -7157,7 +7952,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "てんき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "てんき"
+    }
   },
   {
     "id": "ja_267",
@@ -7182,6 +7980,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ふとい"
+    },
+    "reading": {
+      "ja": "ふとい"
     }
   },
   {
@@ -7209,7 +8010,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おくさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おくさん"
+    }
   },
   {
     "id": "ja_269",
@@ -7236,7 +8040,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おんなのこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おんなのこ"
+    }
   },
   {
     "id": "ja_270",
@@ -7261,6 +8068,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "すき"
+    },
+    "reading": {
+      "ja": "すき"
     }
   },
   {
@@ -7289,7 +8099,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "始まる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はじまる"
+    }
   },
   {
     "id": "ja_272",
@@ -7316,7 +8129,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はじめ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はじめ"
+    }
   },
   {
     "id": "ja_273",
@@ -7341,6 +8157,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "きらい"
+    },
+    "reading": {
+      "ja": "きらい"
     }
   },
   {
@@ -7368,7 +8187,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こども"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こども"
+    }
   },
   {
     "id": "ja_275",
@@ -7395,7 +8217,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じびき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じびき"
+    }
   },
   {
     "id": "ja_276",
@@ -7422,7 +8247,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "がっこう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "がっこう"
+    }
   },
   {
     "id": "ja_277",
@@ -7449,7 +8277,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "がくせい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "がくせい"
+    }
   },
   {
     "id": "ja_278",
@@ -7474,6 +8305,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "やすい"
+    },
+    "reading": {
+      "ja": "やすい"
     }
   },
   {
@@ -7501,7 +8335,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かてい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かてい"
+    }
   },
   {
     "id": "ja_280",
@@ -7528,7 +8365,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かぞく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かぞく"
+    }
   },
   {
     "id": "ja_281",
@@ -7555,7 +8395,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しゅくだい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しゅくだい"
+    }
   },
   {
     "id": "ja_282",
@@ -7580,6 +8423,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "さむい"
+    },
+    "reading": {
+      "ja": "さむい"
     }
   },
   {
@@ -7608,7 +8454,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "寝る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ねる"
+    }
   },
   {
     "id": "ja_284",
@@ -7635,7 +8484,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ふうとう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ふうとう"
+    }
   },
   {
     "id": "ja_285",
@@ -7660,6 +8512,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ちいさい"
+    },
+    "reading": {
+      "ja": "ちいさい"
     }
   },
   {
@@ -7685,6 +8540,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ちいさな"
+    },
+    "reading": {
+      "ja": "ちいさな"
     }
   },
   {
@@ -7710,6 +8568,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "すくない"
+    },
+    "reading": {
+      "ja": "すくない"
     }
   },
   {
@@ -7738,7 +8599,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "居る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "いる"
+    }
   },
   {
     "id": "ja_289",
@@ -7766,7 +8630,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "帰る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かえる"
+    }
   },
   {
     "id": "ja_290",
@@ -7793,7 +8660,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぼうし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぼうし"
+    }
   },
   {
     "id": "ja_291",
@@ -7818,6 +8688,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ひろい"
+    },
+    "reading": {
+      "ja": "ひろい"
     }
   },
   {
@@ -7846,7 +8719,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "座る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "すわる"
+    }
   },
   {
     "id": "ja_293",
@@ -7873,7 +8749,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ろうか"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ろうか"
+    }
   },
   {
     "id": "ja_294",
@@ -7900,7 +8779,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たてもの"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たてもの"
+    }
   },
   {
     "id": "ja_295",
@@ -7925,6 +8807,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "よわい"
+    },
+    "reading": {
+      "ja": "よわい"
     }
   },
   {
@@ -7950,6 +8835,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "つよい"
+    },
+    "reading": {
+      "ja": "つよい"
     }
   },
   {
@@ -7978,7 +8866,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "弾く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ひく"
+    }
   },
   {
     "id": "ja_298",
@@ -8006,7 +8897,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "待つ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "まつ"
+    }
   },
   {
     "id": "ja_299",
@@ -8033,7 +8927,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "うしろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "うしろ"
+    }
   },
   {
     "id": "ja_300",
@@ -8060,7 +8957,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ごはん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ごはん"
+    }
   },
   {
     "id": "ja_301",
@@ -8088,7 +8988,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "忘れる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "わすれる"
+    }
   },
   {
     "id": "ja_302",
@@ -8113,6 +9016,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "いそがしい"
+    },
+    "reading": {
+      "ja": "いそがしい"
     }
   },
   {
@@ -8138,6 +9044,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "わるい"
+    },
+    "reading": {
+      "ja": "わるい"
     }
   },
   {
@@ -8165,7 +9074,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "いみ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "いみ"
+    }
   },
   {
     "id": "ja_305",
@@ -8192,7 +9104,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "てがみ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "てがみ"
+    }
   },
   {
     "id": "ja_306",
@@ -8220,7 +9135,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "押す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おす"
+    }
   },
   {
     "id": "ja_307",
@@ -8248,7 +9166,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "持つ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "もつ"
+    }
   },
   {
     "id": "ja_308",
@@ -8275,7 +9196,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "そうじ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "そうじ"
+    }
   },
   {
     "id": "ja_309",
@@ -8302,7 +9226,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じゅぎょう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じゅぎょう"
+    }
   },
   {
     "id": "ja_310",
@@ -8330,7 +9257,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "撮る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "とる"
+    }
   },
   {
     "id": "ja_311",
@@ -8358,7 +9288,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "教える",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おしえる"
+    }
   },
   {
     "id": "ja_312",
@@ -8385,7 +9318,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きょうしつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きょうしつ"
+    }
   },
   {
     "id": "ja_313",
@@ -8412,7 +9348,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "さんぽ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "さんぽ"
+    }
   },
   {
     "id": "ja_314",
@@ -8439,7 +9378,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぶんしょう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぶんしょう"
+    }
   },
   {
     "id": "ja_315",
@@ -8466,7 +9408,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "りょうり"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "りょうり"
+    }
   },
   {
     "id": "ja_316",
@@ -8491,6 +9436,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あたらしい"
+    },
+    "reading": {
+      "ja": "あたらしい"
     }
   },
   {
@@ -8518,7 +9466,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しんぶん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しんぶん"
+    }
   },
   {
     "id": "ja_318",
@@ -8545,7 +9496,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "りょこう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "りょこう"
+    }
   },
   {
     "id": "ja_319",
@@ -8572,7 +9526,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "にちようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "にちようび"
+    }
   },
   {
     "id": "ja_320",
@@ -8597,6 +9554,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "はやい"
+    },
+    "reading": {
+      "ja": "はやい"
     }
   },
   {
@@ -8622,6 +9582,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あかるい"
+    },
+    "reading": {
+      "ja": "あかるい"
     }
   },
   {
@@ -8649,7 +9612,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あした"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あした"
+    }
   },
   {
     "id": "ja_323",
@@ -8674,6 +9640,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "やさしい"
+    },
+    "reading": {
+      "ja": "やさしい"
     }
   },
   {
@@ -8701,7 +9670,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "えいが"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "えいが"
+    }
   },
   {
     "id": "ja_325",
@@ -8728,7 +9700,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "えいがかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "えいがかん"
+    }
   },
   {
     "id": "ja_326",
@@ -8755,7 +9730,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ゆうべ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ゆうべ"
+    }
   },
   {
     "id": "ja_327",
@@ -8782,7 +9760,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きのう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きのう"
+    }
   },
   {
     "id": "ja_328",
@@ -8809,7 +9790,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ひるごはん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ひるごはん"
+    }
   },
   {
     "id": "ja_329",
@@ -8836,7 +9820,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "とけい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "とけい"
+    }
   },
   {
     "id": "ja_330",
@@ -8863,7 +9850,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じかん"
+    }
   },
   {
     "id": "ja_331",
@@ -8890,7 +9880,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ばんごはん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ばんごはん"
+    }
   },
   {
     "id": "ja_332",
@@ -8917,7 +9910,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はれ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はれ"
+    }
   },
   {
     "id": "ja_333",
@@ -8945,7 +9941,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "晴れる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はれる"
+    }
   },
   {
     "id": "ja_334",
@@ -8970,6 +9969,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あつい"
+    },
+    "reading": {
+      "ja": "あつい"
     }
   },
   {
@@ -8995,6 +9997,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あたたかい"
+    },
+    "reading": {
+      "ja": "あたたかい"
     }
   },
   {
@@ -9020,6 +10025,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "くらい"
+    },
+    "reading": {
+      "ja": "くらい"
     }
   },
   {
@@ -9047,7 +10055,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "くもり"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "くもり"
+    }
   },
   {
     "id": "ja_338",
@@ -9075,7 +10086,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "曇る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "くもる"
+    }
   },
   {
     "id": "ja_339",
@@ -9103,7 +10117,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "曲る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "まがる"
+    }
   },
   {
     "id": "ja_340",
@@ -9131,7 +10148,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "書く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かく"
+    }
   },
   {
     "id": "ja_341",
@@ -9158,7 +10178,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "げつようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "げつようび"
+    }
   },
   {
     "id": "ja_342",
@@ -9183,6 +10206,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ゆうめい"
+    },
+    "reading": {
+      "ja": "ゆうめい"
     }
   },
   {
@@ -9210,7 +10236,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "あさごはん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "あさごはん"
+    }
   },
   {
     "id": "ja_344",
@@ -9237,7 +10266,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "もくようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "もくようび"
+    }
   },
   {
     "id": "ja_345",
@@ -9264,7 +10296,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ほんだな"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ほんだな"
+    }
   },
   {
     "id": "ja_346",
@@ -9292,7 +10327,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "来る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "くる"
+    }
   },
   {
     "id": "ja_347",
@@ -9319,7 +10357,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "らいねん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "らいねん"
+    }
   },
   {
     "id": "ja_348",
@@ -9346,7 +10387,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "らいげつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "らいげつ"
+    }
   },
   {
     "id": "ja_349",
@@ -9373,7 +10417,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "らいしゅう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "らいしゅう"
+    }
   },
   {
     "id": "ja_350",
@@ -9400,7 +10447,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "くだもの"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "くだもの"
+    }
   },
   {
     "id": "ja_351",
@@ -9425,6 +10475,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "たのしい"
+    },
+    "reading": {
+      "ja": "たのしい"
     }
   },
   {
@@ -9450,6 +10503,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ほしい"
+    },
+    "reading": {
+      "ja": "ほしい"
     }
   },
   {
@@ -9478,7 +10534,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "歌う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "うたう"
+    }
   },
   {
     "id": "ja_354",
@@ -9506,7 +10565,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "止まる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "とまる"
+    }
   },
   {
     "id": "ja_355",
@@ -9534,7 +10596,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "歩く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あるく"
+    }
   },
   {
     "id": "ja_356",
@@ -9562,7 +10627,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "死ぬ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "しぬ"
+    }
   },
   {
     "id": "ja_357",
@@ -9589,7 +10657,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいねん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいねん"
+    }
   },
   {
     "id": "ja_358",
@@ -9616,7 +10687,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいにち"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいにち"
+    }
   },
   {
     "id": "ja_359",
@@ -9643,7 +10717,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいばん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいばん"
+    }
   },
   {
     "id": "ja_360",
@@ -9670,7 +10747,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいげつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいげつ"
+    }
   },
   {
     "id": "ja_361",
@@ -9697,7 +10777,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいあさ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいあさ"
+    }
   },
   {
     "id": "ja_362",
@@ -9724,7 +10807,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "まいしゅう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "まいしゅう"
+    }
   },
   {
     "id": "ja_363",
@@ -9751,7 +10837,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "すいようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "すいようび"
+    }
   },
   {
     "id": "ja_364",
@@ -9776,6 +10865,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "きたない"
+    },
+    "reading": {
+      "ja": "きたない"
     }
   },
   {
@@ -9804,7 +10896,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "泳ぐ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "およぐ"
+    }
   },
   {
     "id": "ja_366",
@@ -9831,7 +10926,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ようふく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ようふく"
+    }
   },
   {
     "id": "ja_367",
@@ -9859,7 +10957,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "洗う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あらう"
+    }
   },
   {
     "id": "ja_368",
@@ -9886,7 +10987,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せんたく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せんたく"
+    }
   },
   {
     "id": "ja_369",
@@ -9914,7 +11018,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "消える",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "きえる"
+    }
   },
   {
     "id": "ja_370",
@@ -9942,7 +11049,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "消す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "けす"
+    }
   },
   {
     "id": "ja_371",
@@ -9967,6 +11077,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "すずしい"
+    },
+    "reading": {
+      "ja": "すずしい"
     }
   },
   {
@@ -9995,7 +11108,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "渡す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "わたす"
+    }
   },
   {
     "id": "ja_373",
@@ -10023,7 +11139,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "渡る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "わたる"
+    }
   },
   {
     "id": "ja_374",
@@ -10048,6 +11167,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ぬるい"
+    },
+    "reading": {
+      "ja": "ぬるい"
     }
   },
   {
@@ -10075,7 +11197,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かんじ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かんじ"
+    }
   },
   {
     "id": "ja_376",
@@ -10102,7 +11227,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かようび"
+    }
   },
   {
     "id": "ja_377",
@@ -10129,7 +11257,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はいざら"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はいざら"
+    }
   },
   {
     "id": "ja_378",
@@ -10157,7 +11288,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "無くす",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "なくす"
+    }
   },
   {
     "id": "ja_379",
@@ -10182,6 +11316,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あつい"
+    },
+    "reading": {
+      "ja": "あつい"
     }
   },
   {
@@ -10209,7 +11346,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぎゅうにゅう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぎゅうにゅう"
+    }
   },
   {
     "id": "ja_381",
@@ -10236,7 +11376,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぎゅうにく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぎゅうにく"
+    }
   },
   {
     "id": "ja_382",
@@ -10261,6 +11404,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "せまい"
+    },
+    "reading": {
+      "ja": "せまい"
     }
   },
   {
@@ -10288,7 +11434,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "げんかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "げんかん"
+    }
   },
   {
     "id": "ja_384",
@@ -10313,6 +11462,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あまい"
+    },
+    "reading": {
+      "ja": "あまい"
     }
   },
   {
@@ -10341,7 +11493,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "生まれる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "うまれる"
+    }
   },
   {
     "id": "ja_386",
@@ -10368,7 +11523,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せいと"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せいと"
+    }
   },
   {
     "id": "ja_387",
@@ -10395,7 +11553,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おとこのこ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おとこのこ"
+    }
   },
   {
     "id": "ja_388",
@@ -10422,7 +11583,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "りゅうがくせい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "りゅうがくせい"
+    }
   },
   {
     "id": "ja_389",
@@ -10449,7 +11613,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ばんごう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ばんごう"
+    }
   },
   {
     "id": "ja_390",
@@ -10477,7 +11644,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "疲れる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つかれる"
+    }
   },
   {
     "id": "ja_391",
@@ -10504,7 +11674,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "びょうき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "びょうき"
+    }
   },
   {
     "id": "ja_392",
@@ -10531,7 +11704,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "びょういん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "びょういん"
+    }
   },
   {
     "id": "ja_393",
@@ -10556,6 +11732,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "いたい"
+    },
+    "reading": {
+      "ja": "いたい"
     }
   },
   {
@@ -10584,7 +11763,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "登る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "のぼる"
+    }
   },
   {
     "id": "ja_395",
@@ -10609,6 +11791,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "しろい"
+    },
+    "reading": {
+      "ja": "しろい"
     }
   },
   {
@@ -10636,7 +11821,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "みなさん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "みなさん"
+    }
   },
   {
     "id": "ja_397",
@@ -10663,7 +11851,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "めがね"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "めがね"
+    }
   },
   {
     "id": "ja_398",
@@ -10691,7 +11882,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "着く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "つく"
+    }
   },
   {
     "id": "ja_399",
@@ -10719,7 +11913,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "着る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "きる"
+    }
   },
   {
     "id": "ja_400",
@@ -10747,7 +11944,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "知る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "しる"
+    }
   },
   {
     "id": "ja_401",
@@ -10772,6 +11972,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "みじかい"
+    },
+    "reading": {
+      "ja": "みじかい"
     }
   },
   {
@@ -10799,7 +12002,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "さとう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "さとう"
+    }
   },
   {
     "id": "ja_403",
@@ -10827,7 +12033,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "磨く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "みがく"
+    }
   },
   {
     "id": "ja_404",
@@ -10855,7 +12064,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "立つ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "たつ"
+    }
   },
   {
     "id": "ja_405",
@@ -10883,7 +12095,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "答える",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "こたえる"
+    }
   },
   {
     "id": "ja_406",
@@ -10910,7 +12125,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "こうちゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "こうちゃ"
+    }
   },
   {
     "id": "ja_407",
@@ -10935,6 +12153,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ほそい"
+    },
+    "reading": {
+      "ja": "ほそい"
     }
   },
   {
@@ -10963,7 +12184,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "終わる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おわる"
+    }
   },
   {
     "id": "ja_409",
@@ -10990,7 +12214,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "けっこん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "けっこん"
+    }
   },
   {
     "id": "ja_410",
@@ -11015,6 +12242,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "けっこう"
+    },
+    "reading": {
+      "ja": "けっこう"
     }
   },
   {
@@ -11043,7 +12273,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "締める",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "しめる"
+    }
   },
   {
     "id": "ja_412",
@@ -11071,7 +12304,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "置く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おく"
+    }
   },
   {
     "id": "ja_413",
@@ -11099,7 +12335,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "習う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ならう"
+    }
   },
   {
     "id": "ja_414",
@@ -11127,7 +12366,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "聞く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "きく"
+    }
   },
   {
     "id": "ja_415",
@@ -11154,7 +12396,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "せびろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "せびろ"
+    }
   },
   {
     "id": "ja_416",
@@ -11182,7 +12427,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "脱ぐ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ぬぐ"
+    }
   },
   {
     "id": "ja_417",
@@ -11209,7 +12457,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じぶん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じぶん"
+    }
   },
   {
     "id": "ja_418",
@@ -11236,7 +12487,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じどうしゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じどうしゃ"
+    }
   },
   {
     "id": "ja_419",
@@ -11263,7 +12517,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じてんしゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じてんしゃ"
+    }
   },
   {
     "id": "ja_420",
@@ -11290,7 +12547,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かびん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かびん"
+    }
   },
   {
     "id": "ja_421",
@@ -11315,6 +12575,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "わかい"
+    },
+    "reading": {
+      "ja": "わかい"
     }
   },
   {
@@ -11342,7 +12605,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "えいご"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "えいご"
+    }
   },
   {
     "id": "ja_423",
@@ -11369,7 +12635,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ちゃいろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ちゃいろ"
+    }
   },
   {
     "id": "ja_424",
@@ -11396,7 +12665,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "にもつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "にもつ"
+    }
   },
   {
     "id": "ja_425",
@@ -11423,7 +12695,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "はがき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "はがき"
+    }
   },
   {
     "id": "ja_426",
@@ -11448,6 +12723,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "うすい"
+    },
+    "reading": {
+      "ja": "うすい"
     }
   },
   {
@@ -11476,7 +12754,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "行く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "いく"
+    }
   },
   {
     "id": "ja_428",
@@ -11504,7 +12785,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "要る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "いる"
+    }
   },
   {
     "id": "ja_429",
@@ -11532,7 +12816,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "見せる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "みせる"
+    }
   },
   {
     "id": "ja_430",
@@ -11560,7 +12847,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "覚える",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おぼえる"
+    }
   },
   {
     "id": "ja_431",
@@ -11588,7 +12878,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "言う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "いう"
+    }
   },
   {
     "id": "ja_432",
@@ -11615,7 +12908,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ことば"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ことば"
+    }
   },
   {
     "id": "ja_433",
@@ -11643,7 +12939,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "話す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はなす"
+    }
   },
   {
     "id": "ja_434",
@@ -11670,7 +12969,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たんじょうび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たんじょうび"
+    }
   },
   {
     "id": "ja_435",
@@ -11698,7 +13000,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "読む",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "よむ"
+    }
   },
   {
     "id": "ja_436",
@@ -11725,7 +13030,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "けいかん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "けいかん"
+    }
   },
   {
     "id": "ja_437",
@@ -11752,7 +13060,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぶたにく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぶたにく"
+    }
   },
   {
     "id": "ja_438",
@@ -11779,7 +13090,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "さいふ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "さいふ"
+    }
   },
   {
     "id": "ja_439",
@@ -11806,7 +13120,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かいもの"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かいもの"
+    }
   },
   {
     "id": "ja_440",
@@ -11834,7 +13151,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "買う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かう"
+    }
   },
   {
     "id": "ja_441",
@@ -11862,7 +13182,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "貸す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かす"
+    }
   },
   {
     "id": "ja_442",
@@ -11890,7 +13213,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "貼る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はる"
+    }
   },
   {
     "id": "ja_443",
@@ -11915,6 +13241,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "にぎやか"
+    },
+    "reading": {
+      "ja": "にぎやか"
     }
   },
   {
@@ -11942,7 +13271,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しつもん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しつもん"
+    }
   },
   {
     "id": "ja_445",
@@ -11967,6 +13299,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あかい"
+    },
+    "reading": {
+      "ja": "あかい"
     }
   },
   {
@@ -11995,7 +13330,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "走る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "はしる"
+    }
   },
   {
     "id": "ja_447",
@@ -12023,7 +13361,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "起きる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おきる"
+    }
   },
   {
     "id": "ja_448",
@@ -12048,6 +13389,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "かるい"
+    },
+    "reading": {
+      "ja": "かるい"
     }
   },
   {
@@ -12073,6 +13417,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "からい"
+    },
+    "reading": {
+      "ja": "からい"
     }
   },
   {
@@ -12100,7 +13447,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "じしょ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "じしょ"
+    }
   },
   {
     "id": "ja_451",
@@ -12125,6 +13475,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ちかい"
+    },
+    "reading": {
+      "ja": "ちかい"
     }
   },
   {
@@ -12152,7 +13505,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ちかく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ちかく"
+    }
   },
   {
     "id": "ja_453",
@@ -12180,7 +13536,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "返す",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "かえす"
+    }
   },
   {
     "id": "ja_454",
@@ -12205,6 +13564,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "はやい"
+    },
+    "reading": {
+      "ja": "はやい"
     }
   },
   {
@@ -12230,6 +13592,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おそい"
+    },
+    "reading": {
+      "ja": "おそい"
     }
   },
   {
@@ -12258,7 +13623,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "遊ぶ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あそぶ"
+    }
   },
   {
     "id": "ja_457",
@@ -12286,7 +13654,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "違う",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ちがう"
+    }
   },
   {
     "id": "ja_458",
@@ -12311,6 +13682,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "とおい"
+    },
+    "reading": {
+      "ja": "とおい"
     }
   },
   {
@@ -12338,7 +13712,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "へや"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "へや"
+    }
   },
   {
     "id": "ja_460",
@@ -12365,7 +13742,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ゆうびんきょく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ゆうびんきょく"
+    }
   },
   {
     "id": "ja_461",
@@ -12390,6 +13770,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "おもい"
+    },
+    "reading": {
+      "ja": "おもい"
     }
   },
   {
@@ -12417,7 +13800,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "やさい"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "やさい"
+    }
   },
   {
     "id": "ja_463",
@@ -12444,7 +13830,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きんようび"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きんようび"
+    }
   },
   {
     "id": "ja_464",
@@ -12471,7 +13860,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "えんぴつ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "えんぴつ"
+    }
   },
   {
     "id": "ja_465",
@@ -12498,7 +13890,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ぎんこう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ぎんこう"
+    }
   },
   {
     "id": "ja_466",
@@ -12523,6 +13918,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "ながい"
+    },
+    "reading": {
+      "ja": "ながい"
     }
   },
   {
@@ -12551,7 +13949,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "閉まる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "しまる"
+    }
   },
   {
     "id": "ja_468",
@@ -12579,7 +13980,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "閉める",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "しめる"
+    }
   },
   {
     "id": "ja_469",
@@ -12607,7 +14011,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "開く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あく"
+    }
   },
   {
     "id": "ja_470",
@@ -12635,7 +14042,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "開ける",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "あける"
+    }
   },
   {
     "id": "ja_471",
@@ -12663,7 +14073,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "降りる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "おりる"
+    }
   },
   {
     "id": "ja_472",
@@ -12691,7 +14104,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "降る",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "ふる"
+    }
   },
   {
     "id": "ja_473",
@@ -12718,7 +14134,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かいだん"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かいだん"
+    }
   },
   {
     "id": "ja_474",
@@ -12745,7 +14164,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ざっし"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ざっし"
+    }
   },
   {
     "id": "ja_475",
@@ -12770,6 +14192,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "むずかしい"
+    },
+    "reading": {
+      "ja": "むずかしい"
     }
   },
   {
@@ -12797,7 +14222,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "でんき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "でんき"
+    }
   },
   {
     "id": "ja_477",
@@ -12824,7 +14252,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "でんわ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "でんわ"
+    }
   },
   {
     "id": "ja_478",
@@ -12851,7 +14282,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "でんしゃ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "でんしゃ"
+    }
   },
   {
     "id": "ja_479",
@@ -12876,6 +14310,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "あおい"
+    },
+    "reading": {
+      "ja": "あおい"
     }
   },
   {
@@ -12901,6 +14338,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "しずか"
+    },
+    "reading": {
+      "ja": "しずか"
     }
   },
   {
@@ -12928,7 +14368,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "くつした"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "くつした"
+    }
   },
   {
     "id": "ja_482",
@@ -12955,7 +14398,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "おんがく"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "おんがく"
+    }
   },
   {
     "id": "ja_483",
@@ -12983,7 +14429,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "頼む",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "たのむ"
+    }
   },
   {
     "id": "ja_484",
@@ -13010,7 +14459,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "かぜ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "かぜ"
+    }
   },
   {
     "id": "ja_485",
@@ -13038,7 +14490,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "飛ぶ",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "とぶ"
+    }
   },
   {
     "id": "ja_486",
@@ -13065,7 +14520,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "ひこうき"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "ひこうき"
+    }
   },
   {
     "id": "ja_487",
@@ -13093,7 +14551,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "食べる",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "たべる"
+    }
   },
   {
     "id": "ja_488",
@@ -13120,7 +14581,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "たべもの"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "たべもの"
+    }
   },
   {
     "id": "ja_489",
@@ -13147,7 +14611,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "しょくどう"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "しょくどう"
+    }
   },
   {
     "id": "ja_490",
@@ -13174,7 +14641,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "のみもの"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "のみもの"
+    }
   },
   {
     "id": "ja_491",
@@ -13202,7 +14672,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "飲む",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "のむ"
+    }
   },
   {
     "id": "ja_492",
@@ -13227,6 +14700,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "たかい"
+    },
+    "reading": {
+      "ja": "たかい"
     }
   },
   {
@@ -13255,7 +14731,10 @@ const WORDS_JA_A1 = [
     },
     "infinitive": "鳴く",
     "reflexive": false,
-    "irregular": false
+    "irregular": false,
+    "reading": {
+      "ja": "なく"
+    }
   },
   {
     "id": "ja_494",
@@ -13282,7 +14761,10 @@ const WORDS_JA_A1 = [
       "ja_reading": "きいろ"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ja": "きいろ"
+    }
   },
   {
     "id": "ja_495",
@@ -13307,6 +14789,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "きいろい"
+    },
+    "reading": {
+      "ja": "きいろい"
     }
   },
   {
@@ -13332,6 +14817,9 @@ const WORDS_JA_A1 = [
     "examples": [],
     "meta": {
       "ja_reading": "くろい"
+    },
+    "reading": {
+      "ja": "くろい"
     }
   }
 ];

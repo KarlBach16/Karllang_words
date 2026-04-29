@@ -1,4 +1,4 @@
-// KO A1 generated from ko_v2 canonical dataset
+// KO A1 generated from release candidate
 const WORDS_KO_A1 = [
   {
     "id": "ko_3447",
@@ -25,7 +25,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "감기 증상을 치료하기 위해 먹는 약."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gamgiyak"
+    }
   },
   {
     "id": "ko_3448",
@@ -53,7 +56,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "감다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gamda"
+    }
   },
   {
     "id": "ko_3524",
@@ -80,7 +86,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 정도나 수준에 아주 가깝게 다다른 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geoui"
+    }
   },
   {
     "id": "ko_3525",
@@ -107,7 +116,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람의 부탁이나 제안을 받아들이지 않고 물리치는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geojeol"
+    }
   },
   {
     "id": "ko_3567",
@@ -134,7 +146,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빛깔이 숯이나 밤하늘처럼 어두운 색."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geomjeong"
+    }
   },
   {
     "id": "ko_3627",
@@ -161,7 +176,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 상태가 끊이지 않고 이어짐."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyesok"
+    }
   },
   {
     "id": "ko_3766",
@@ -188,7 +206,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 남서부에 위치한 큰 도시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwangju"
+    }
   },
   {
     "id": "ko_3792",
@@ -215,7 +236,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "교통수단을 이용할 때 드는 돈."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyotongbi"
+    }
   },
   {
     "id": "ko_3855",
@@ -243,7 +267,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "굳다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gutda"
+    }
   },
   {
     "id": "ko_3872",
@@ -270,7 +297,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "귀에 거는 장신구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwigeoli"
+    }
   },
   {
     "id": "ko_3876",
@@ -298,7 +328,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "귀여워하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gwiyeowohada"
+    }
   },
   {
     "id": "ko_3980",
@@ -325,7 +358,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학기나 학년의 마지막에 치르는 시험."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gimalsiheom"
+    }
   },
   {
     "id": "ko_4013",
@@ -352,7 +388,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기차가 서고 승객이 타고 내리는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gichayeok"
+    }
   },
   {
     "id": "ko_4014",
@@ -379,7 +418,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기차를 타기 위해 필요한 표."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gichapyo"
+    }
   },
   {
     "id": "ko_4077",
@@ -406,7 +448,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 송이의 꽃을 한데 묶어 만든 묶음."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkotdabal"
+    }
   },
   {
     "id": "ko_4078",
@@ -433,7 +478,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "꽃을 꽂아 두는 데 쓰는 병 모양의 그릇."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkotbyeong"
+    }
   },
   {
     "id": "ko_4081",
@@ -460,7 +508,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "꽃이나 화분 등을 파는 가게."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkotjip"
+    }
   },
   {
     "id": "ko_4108",
@@ -488,7 +539,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "끼다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kkida"
+    }
   },
   {
     "id": "ko_4111",
@@ -515,7 +569,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "말하는 사람이 자신을 가리킬 때 쓰는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "na"
+    }
   },
   {
     "id": "ko_4149",
@@ -540,6 +597,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "몸매가 가늘고 보기 좋게 예쁘다."
+    },
+    "reading": {
+      "ko": "nalssinhada"
     }
   },
   {
@@ -567,7 +627,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namdaemun"
+    }
   },
   {
     "id": "ko_4165",
@@ -594,7 +657,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서울에 있는 유명한 산의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namsan"
+    }
   },
   {
     "id": "ko_4178",
@@ -621,7 +687,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "낮에 잠깐 자는 잠"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "natjam"
+    }
   },
   {
     "id": "ko_4231",
@@ -648,7 +717,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "순서나 차례에서 네 번째가 되는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "netjjae"
+    }
   },
   {
     "id": "ko_4265",
@@ -675,7 +747,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 팀이 공을 상대편 골대에 넣어 점수를 얻는 운동 경기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nonggu"
+    }
   },
   {
     "id": "ko_4332",
@@ -702,7 +777,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "옷의 구김을 펴기 위해 다리미로 문지르는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "darimjil"
+    }
   },
   {
     "id": "ko_4334",
@@ -729,7 +807,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "순서나 차례에서 다섯 번째가 되는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daseotjjae"
+    }
   },
   {
     "id": "ko_4336",
@@ -756,7 +837,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 가지 종류나 형태가 많고 다른 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dayang"
+    }
   },
   {
     "id": "ko_4341",
@@ -783,7 +867,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "오늘이 지나고 바로 이어지는 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daeumnal"
+    }
   },
   {
     "id": "ko_4418",
@@ -810,7 +897,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 남동부에 있는 광역시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daegu"
+    }
   },
   {
     "id": "ko_4444",
@@ -837,7 +927,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 중부에 있는 광역시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daejeon"
+    }
   },
   {
     "id": "ko_4516",
@@ -864,7 +957,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "유럽 중부에 있는 나라의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dokil"
+    }
   },
   {
     "id": "ko_4522",
@@ -891,7 +987,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돼지고기를 튀겨서 만든 일본 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongaseu"
+    }
   },
   {
     "id": "ko_4539",
@@ -918,7 +1017,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름이자 그 주변 지역."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongdaemun"
+    }
   },
   {
     "id": "ko_4591",
@@ -945,7 +1047,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "순서에서 첫째 다음의 두 번째."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "duljjae"
+    }
   },
   {
     "id": "ko_4706",
@@ -972,7 +1077,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "유럽과 아시아에 걸쳐 있는 세계에서 가장 큰 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "reosia"
+    }
   },
   {
     "id": "ko_4746",
@@ -999,7 +1107,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다양한 물건을 파는 큰 규모의 상점."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mateu"
+    }
   },
   {
     "id": "ko_4773",
@@ -1026,7 +1137,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동남아시아에 있는 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "malreisia"
+    }
   },
   {
     "id": "ko_4799",
@@ -1053,7 +1167,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해마다 돌아오는 모든 해."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maenyeon"
+    }
   },
   {
     "id": "ko_4801",
@@ -1080,7 +1197,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "달마다 돌아오는 모든 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maedal"
+    }
   },
   {
     "id": "ko_4808",
@@ -1107,7 +1227,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "주마다 돌아오는 모든 주."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maeju"
+    }
   },
   {
     "id": "ko_4810",
@@ -1134,7 +1257,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "표를 파는 곳이나 창구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maepyoso"
+    }
   },
   {
     "id": "ko_4826",
@@ -1161,7 +1287,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 순서에서 다른 것보다 앞선 때."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "meonjeo"
+    }
   },
   {
     "id": "ko_4881",
@@ -1188,7 +1317,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "추위를 막기 위해 목에 두르는 천."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mokdori"
+    }
   },
   {
     "id": "ko_4907",
@@ -1215,7 +1347,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아시아 대륙에 있는 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "monggol"
+    }
   },
   {
     "id": "ko_4971",
@@ -1242,7 +1377,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "북아메리카에 있는 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "miguk"
+    }
   },
   {
     "id": "ko_4984",
@@ -1269,7 +1407,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "잘못한 일에 대해 마음이 편치 않고 부끄러운 느낌."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mian"
+    }
   },
   {
     "id": "ko_4987",
@@ -1296,7 +1437,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "미역을 넣고 끓인 국으로, 생일이나 출산 후에 먹는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "miyeokguk"
+    }
   },
   {
     "id": "ko_5055",
@@ -1323,7 +1467,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다리 중간이나 무릎 위까지 오는 짧은 바지"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "banbaji"
+    }
   },
   {
     "id": "ko_5072",
@@ -1351,7 +1498,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "받아쓰다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "batasseuda"
+    }
   },
   {
     "id": "ko_5124",
@@ -1378,7 +1528,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바로 조금 전의 시간을 나타내는 말"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "banggeum"
+    }
   },
   {
     "id": "ko_5159",
@@ -1405,7 +1558,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "배가 아프거나 설사를 하는 등 소화 기관에 문제가 생긴 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "baetal"
+    }
   },
   {
     "id": "ko_5200",
@@ -1432,7 +1588,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동남아시아에 있는 나라의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "beteunam"
+    }
   },
   {
     "id": "ko_5221",
@@ -1459,7 +1618,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아픈 사람을 찾아가 위로하고 살피는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "byeongmunan"
+    }
   },
   {
     "id": "ko_5315",
@@ -1486,7 +1648,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 남동쪽에 있는 큰 도시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "busan"
+    }
   },
   {
     "id": "ko_5322",
@@ -1513,7 +1678,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈이 아주 많은 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "buja"
+    }
   },
   {
     "id": "ko_5354",
@@ -1540,7 +1708,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "떡볶이, 김밥처럼 간단하게 먹을 수 있는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bunsik"
+    }
   },
   {
     "id": "ko_5460",
@@ -1567,7 +1738,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빵을 만들어서 파는 가게."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ppangjip"
+    }
   },
   {
     "id": "ko_5475",
@@ -1594,7 +1768,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "네 개의 길이 서로 만나는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sageori"
+    }
   },
   {
     "id": "ko_5520",
@@ -1621,7 +1798,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "투명하고 달콤한 맛이 나는 탄산음료의 한 종류."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saida"
+    }
   },
   {
     "id": "ko_5523",
@@ -1648,7 +1828,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건이나 옷의 크기를 나타내는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saijeu"
+    }
   },
   {
     "id": "ko_5562",
@@ -1675,7 +1858,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "길이 세 갈래로 갈라지는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "samgeori"
+    }
   },
   {
     "id": "ko_5563",
@@ -1702,7 +1888,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돼지고기 부위 중 살과 비계가 세 겹으로 된 고기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "samgyeopsal"
+    }
   },
   {
     "id": "ko_5591",
@@ -1729,7 +1918,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 담거나 포장하는 데 쓰는 네모난 통."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sangja"
+    }
   },
   {
     "id": "ko_5658",
@@ -1756,7 +1948,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국의 수도이자 가장 큰 도시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seoul"
+    }
   },
   {
     "id": "ko_5677",
@@ -1781,6 +1976,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 시원하고 상쾌한 느낌이 있다."
+    },
+    "reading": {
+      "ko": "seonseonhada"
     }
   },
   {
@@ -1808,7 +2006,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "설날에 어른들께 절을 하며 새해 인사를 드리는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sebae"
+    }
   },
   {
     "id": "ko_5749",
@@ -1835,7 +2036,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "순서에서 세 번째에 해당하는 사람이나 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "setjjae"
+    }
   },
   {
     "id": "ko_5754",
@@ -1862,7 +2066,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소의 고기를 말하며 사람들이 먹는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sogogi"
+    }
   },
   {
     "id": "ko_5800",
@@ -1889,7 +2096,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식이 잘 소화되지 않을 때 먹는 약."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sohwaje"
+    }
   },
   {
     "id": "ko_5864",
@@ -1916,7 +2126,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "수영할 때 입는 옷."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "suyeongbok"
+    }
   },
   {
     "id": "ko_5876",
@@ -1943,7 +2156,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "간단한 메모나 일정을 적는 작은 책."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sucheop"
+    }
   },
   {
     "id": "ko_5891",
@@ -1970,7 +2186,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "부드러운 두부와 해물 등을 넣어 끓인 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sundubujjigae"
+    }
   },
   {
     "id": "ko_5920",
@@ -1997,7 +2216,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "목이나 머리에 두르는 천으로 된 장식품."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seukapeu"
+    }
   },
   {
     "id": "ko_5929",
@@ -2024,7 +2246,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "길고 가는 면을 삶아 소스와 함께 먹는 이탈리아 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seupageti"
+    }
   },
   {
     "id": "ko_5945",
@@ -2051,7 +2276,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "수업이나 기차 운행 등의 시간을 정해 놓은 표."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "siganpyo"
+    }
   },
   {
     "id": "ko_5954",
@@ -2076,6 +2304,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "레몬이나 식초처럼 혀에 닿을 때 신맛이 느껴지는 상태."
+    },
+    "reading": {
+      "ko": "sida"
     }
   },
   {
@@ -2103,7 +2334,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "개인의 신분을 증명하는 데 사용하는 카드나 문서."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sinbunjeung"
+    }
   },
   {
     "id": "ko_6108",
@@ -2128,6 +2362,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "날씨가 조금 춥고 서늘하거나, 태도가 차갑고 정이 없다."
+    },
+    "reading": {
+      "ko": "ssalssalhada"
     }
   },
   {
@@ -2155,7 +2392,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들에게 어떤 사실이나 정보를 알려주기 위해 만든 글."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "annaemun"
+    }
   },
   {
     "id": "ko_6183",
@@ -2182,7 +2422,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아무 탈 없이 편안하고 평화로운 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "annyeong"
+    }
   },
   {
     "id": "ko_6247",
@@ -2209,7 +2452,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "약을 만들고 파는 일을 전문으로 하는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yaksa"
+    }
   },
   {
     "id": "ko_6270",
@@ -2236,7 +2482,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서양 음식을 파는 식당을 말합니다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yangsikjip"
+    }
   },
   {
     "id": "ko_6275",
@@ -2263,7 +2512,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "칫솔과 치약을 사용하여 이를 닦는 행위입니다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yangchijil"
+    }
   },
   {
     "id": "ko_6368",
@@ -2291,7 +2543,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "여쭙다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yeojjupda"
+    }
   },
   {
     "id": "ko_6372",
@@ -2318,7 +2573,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여행을 가려고 정한 장소."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeohaengji"
+    }
   },
   {
     "id": "ko_6401",
@@ -2345,7 +2603,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 해의 마지막 시기나 기간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeonmal"
+    }
   },
   {
     "id": "ko_6434",
@@ -2372,7 +2633,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아무것도 없는 상태를 나타내는 숫자"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeong"
+    }
   },
   {
     "id": "ko_6435",
@@ -2399,7 +2663,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "유럽 대륙 서쪽에 있는 섬나라의 이름"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeongguk"
+    }
   },
   {
     "id": "ko_6438",
@@ -2426,7 +2693,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 사거나 돈을 냈다는 것을 증명하는 종이"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeongsujeung"
+    }
   },
   {
     "id": "ko_6460",
@@ -2453,7 +2723,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "표나 물건을 미리 사 두는 것"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yemae"
+    }
   },
   {
     "id": "ko_6496",
@@ -2478,6 +2751,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "만들어지거나 시작된 지 긴 시간이 지난 상태."
+    },
+    "reading": {
+      "ko": "oraedoeda"
     }
   },
   {
@@ -2505,7 +2781,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "편지나 글을 보낼 때 자기 이름을 쓰고 덧붙이는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "olrim"
+    }
   },
   {
     "id": "ko_6543",
@@ -2532,7 +2811,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "옷을 걸어두는 데 쓰는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "otgeoli"
+    }
   },
   {
     "id": "ko_6544",
@@ -2559,7 +2841,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "옷을 넣어 보관하는 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "otjang"
+    }
   },
   {
     "id": "ko_6608",
@@ -2586,7 +2871,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밀가루로 만든 굵은 면을 뜨거운 국물에 넣어 먹는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "udong"
+    }
   },
   {
     "id": "ko_6642",
@@ -2613,7 +2901,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 남동쪽에 위치한 광역시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ulsan"
+    }
   },
   {
     "id": "ko_6661",
@@ -2640,7 +2931,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "1년을 12로 나눈 기간 중 하나."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "wol"
+    }
   },
   {
     "id": "ko_6716",
@@ -2667,7 +2961,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 길을 건널 수 있도록 도로 위에 만든 다리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yukgyo"
+    }
   },
   {
     "id": "ko_6721",
@@ -2694,7 +2991,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "윷가락을 던져 말을 움직여 승부를 겨루는 한국의 전통 놀이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yutnoli"
+    }
   },
   {
     "id": "ko_6800",
@@ -2721,7 +3021,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "이사할 때 옮겨야 하는 물건들."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "isatjim"
+    }
   },
   {
     "id": "ko_6849",
@@ -2748,7 +3051,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동남아시아에 있는 섬들로 이루어진 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "indonesia"
+    }
   },
   {
     "id": "ko_6870",
@@ -2775,7 +3081,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 서쪽에 있는 큰 도시의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "incheon"
+    }
   },
   {
     "id": "ko_6883",
@@ -2802,7 +3111,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아시아 동쪽에 있는 섬나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ilbon"
+    }
   },
   {
     "id": "ko_6893",
@@ -2829,7 +3141,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일본 음식을 파는 식당."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ilsikjip"
+    }
   },
   {
     "id": "ko_6938",
@@ -2856,7 +3171,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "공연장이나 경기장 등에 들어갈 때 필요한 표."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ipjanggwon"
+    }
   },
   {
     "id": "ko_6940",
@@ -2883,7 +3201,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에 들어가기 위해 치르는 시험."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "iphaksiheom"
+    }
   },
   {
     "id": "ko_6958",
@@ -2910,7 +3231,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람에게 자신을 소개하는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jagisogae"
+    }
   },
   {
     "id": "ko_6963",
@@ -2937,7 +3261,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 넣으면 물건이 자동으로 나오는 기계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jadongpanmaegi"
+    }
   },
   {
     "id": "ko_7042",
@@ -2964,7 +3291,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "당면과 여러 채소를 볶아 만든 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "japchae"
+    }
   },
   {
     "id": "ko_7095",
@@ -2991,7 +3321,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 아껴서 모아 두거나 은행에 맡기는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeogeum"
+    }
   },
   {
     "id": "ko_7236",
@@ -3018,7 +3351,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "뼈, 관절, 근육 등의 질병이나 손상을 치료하는 의학 분야."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeonghyeongoegwa"
+    }
   },
   {
     "id": "ko_7237",
@@ -3045,7 +3381,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "틀림없이 바르고 올바름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeonghwak"
+    }
   },
   {
     "id": "ko_7266",
@@ -3072,7 +3411,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 남쪽에 있는 큰 섬으로 유명한 관광지."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jejudo"
+    }
   },
   {
     "id": "ko_7287",
@@ -3099,7 +3441,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "위험하거나 좋지 않은 일이 생기지 않도록 마음을 쓰는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "josim"
+    }
   },
   {
     "id": "ko_7314",
@@ -3126,7 +3471,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사물이나 현상을 나누는 갈래나 부류."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jongryu"
+    }
   },
   {
     "id": "ko_7359",
@@ -3153,7 +3501,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "이레 동안의 기간, 즉 일요일부터 토요일까지의 칠 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "juil"
+    }
   },
   {
     "id": "ko_7370",
@@ -3180,7 +3531,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빨간색과 노란색을 섞은 것과 같은 색."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "juhwangsaek"
+    }
   },
   {
     "id": "ko_7389",
@@ -3207,7 +3561,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아시아 동부에 있는 나라의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jungguk"
+    }
   },
   {
     "id": "ko_7430",
@@ -3234,7 +3591,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "정해진 시간보다 늦게 도착하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jigak"
+    }
   },
   {
     "id": "ko_7489",
@@ -3261,7 +3621,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지하철이 서고 사람들이 타고 내리는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jihacheolyeok"
+    }
   },
   {
     "id": "ko_7535",
@@ -3288,7 +3651,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "새집으로 이사한 것을 축하하기 위해 친구나 친척을 초대하는 잔치."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jipdeuli"
+    }
   },
   {
     "id": "ko_7554",
@@ -3315,7 +3681,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해산물과 채소를 넣고 얼큰하게 끓인 중국식 면 요리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jjamppong"
+    }
   },
   {
     "id": "ko_7632",
@@ -3342,7 +3711,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "책을 꽂아 두는 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chaekjang"
+    }
   },
   {
     "id": "ko_7643",
@@ -3369,7 +3741,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "만의 천 배가 되는 수."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheonman"
+    }
   },
   {
     "id": "ko_7652",
@@ -3396,7 +3771,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여럿 중에서 가장 먼저이거나 가장 중요한 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheotjjae"
+    }
   },
   {
     "id": "ko_7668",
@@ -3423,7 +3801,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바둑판처럼 네모난 모양이 반복되는 무늬."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chekeumunui"
+    }
   },
   {
     "id": "ko_7674",
@@ -3450,7 +3831,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "초대를 알리는 글이나 종이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chodaejang"
+    }
   },
   {
     "id": "ko_7743",
@@ -3477,7 +3861,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "수업이나 모임에 참석하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chulseok"
+    }
   },
   {
     "id": "ko_7785",
@@ -3504,7 +3891,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "닭고기를 튀겨서 만든 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chikin"
+    }
   },
   {
     "id": "ko_7813",
@@ -3531,7 +3921,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "북아메리카 대륙 북쪽에 있는 큰 나라의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kaenada"
+    }
   },
   {
     "id": "ko_7820",
@@ -3558,7 +3951,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "커피나 다른 음료를 마실 수 있는 가게."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "keopisyop"
+    }
   },
   {
     "id": "ko_7825",
@@ -3585,7 +3981,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밀가루, 설탕, 달걀 등으로 만들어 구운 달콤한 서양 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "keikeu"
+    }
   },
   {
     "id": "ko_7843",
@@ -3612,7 +4011,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "코에서 흘러나오는 끈적끈적한 액체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kotmul"
+    }
   },
   {
     "id": "ko_7880",
@@ -3639,7 +4041,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돼지고기를 튀겨 새콤달콤한 소스를 부어 먹는 중국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "tangsuyuk"
+    }
   },
   {
     "id": "ko_7881",
@@ -3666,7 +4071,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동남아시아에 있는 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "taeguk"
+    }
   },
   {
     "id": "ko_7883",
@@ -3693,7 +4101,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국의 국기 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "taegeukgi"
+    }
   },
   {
     "id": "ko_7890",
@@ -3720,7 +4131,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 고객에게 직접 배달해 주는 서비스"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "taekbae"
+    }
   },
   {
     "id": "ko_7903",
@@ -3747,7 +4161,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "테니스를 칠 수 있도록 만들어 놓은 장소"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "teniseujang"
+    }
   },
   {
     "id": "ko_7942",
@@ -3775,7 +4192,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "튀기다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "twigida"
+    }
   },
   {
     "id": "ko_8001",
@@ -3802,7 +4222,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "이용하기 쉽고 편한 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pyeonri"
+    }
   },
   {
     "id": "ko_8003",
@@ -3829,7 +4252,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸이나 마음이 불편함 없이 편하고 안정된 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pyeonan"
+    }
   },
   {
     "id": "ko_8008",
@@ -3854,6 +4280,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "(높임말) 몸이 아프거나 건강하지 못하다."
+    },
+    "reading": {
+      "ko": "pyeonchanda"
     }
   },
   {
@@ -3881,7 +4310,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 볶거나 지질 때 사용하는 납작한 냄비."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "peuraipaen"
+    }
   },
   {
     "id": "ko_8063",
@@ -3908,7 +4340,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "유럽 서부에 있는 나라의 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "peurangseu"
+    }
   },
   {
     "id": "ko_8099",
@@ -3935,7 +4370,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "맑은 하늘과 같은 푸른색."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haneulsaek"
+    }
   },
   {
     "id": "ko_8105",
@@ -3962,7 +4400,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남의 집에서 숙식을 하는 대가로 내는 돈."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hasukbi"
+    }
   },
   {
     "id": "ko_8131",
@@ -3989,7 +4430,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 서울을 가로질러 흐르는 큰 강 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hangang"
+    }
   },
   {
     "id": "ko_8135",
@@ -4016,7 +4460,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동아시아에 있는 대한민국이라는 나라 이름."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanguk"
+    }
   },
   {
     "id": "ko_8152",
@@ -4043,7 +4490,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국 음식을 파는 식당."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hansikjip"
+    }
   },
   {
     "id": "ko_8154",
@@ -4070,7 +4520,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국의 전통적인 건축 양식으로 지은 집."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanok"
+    }
   },
   {
     "id": "ko_8162",
@@ -4097,7 +4550,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람에게 음식이나 술을 대접하는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanteok"
+    }
   },
   {
     "id": "ko_8176",
@@ -4124,7 +4580,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "비행기를 탈 수 있는 표."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanggonggwon"
+    }
   },
   {
     "id": "ko_8236",
@@ -4151,7 +4610,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "운동 기구를 갖추고 사람들이 운동하는 장소."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "helseukeulreop"
+    }
   },
   {
     "id": "ko_8285",
@@ -4179,7 +4641,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "화내다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "hwanaeda"
+    }
   },
   {
     "id": "ko_8317",
@@ -4206,7 +4671,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 나라의 돈을 다른 나라의 돈으로 바꾸는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hwanjeon"
+    }
   },
   {
     "id": "ko_8332",
@@ -4233,7 +4701,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "회사에서 일하는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hoesawon"
+    }
   },
   {
     "id": "ko_8359",
@@ -4260,7 +4731,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 잠시 쉬거나 기다릴 수 있도록 마련된 방."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyugesil"
+    }
   },
   {
     "id": "ko_8360",
@@ -4287,7 +4761,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "가지고 다니면서 통화할 수 있는 전화기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyudaepon"
+    }
   },
   {
     "id": "ko_8100",
@@ -4316,7 +4793,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "hada"
+    }
   },
   {
     "id": "ko_6946",
@@ -4342,6 +4822,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 특성, 상태 등을 가지고 있음을 나타냅니다."
+    },
+    "reading": {
+      "ko": "itda"
     }
   },
   {
@@ -4371,7 +4854,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "되다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "doeda"
+    }
   },
   {
     "id": "ko_6330",
@@ -4397,6 +4883,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 존재하지 않거나 가지고 있지 않은 상태이다."
+    },
+    "reading": {
+      "ko": "eopda"
     }
   },
   {
@@ -4425,7 +4914,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "생각하고 말하며 사회생활을 하는 존재."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saram"
+    }
   },
   {
     "id": "ko_6145",
@@ -4451,6 +4943,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 내용이 옳지 않거나 그렇지 않다."
+    },
+    "reading": {
+      "ko": "anida"
     }
   },
   {
@@ -4480,7 +4975,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "보다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "boda"
+    }
   },
   {
     "id": "ko_4654",
@@ -4508,7 +5006,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 일어나거나 진행되는 시간적인 순간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ttae"
+    }
   },
   {
     "id": "ko_3494",
@@ -4534,6 +5035,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "서로 비교하여 차이가 없거나 비슷하다."
+    },
+    "reading": {
+      "ko": "gatda"
     }
   },
   {
@@ -4563,7 +5067,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gada"
+    }
   },
   {
     "id": "ko_4770",
@@ -4591,7 +5098,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "생각이나 느낌을 소리나 글자로 나타내는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mal"
+    }
   },
   {
     "id": "ko_6877",
@@ -4619,7 +5129,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 목적을 가지고 하는 활동이나 해야 할 과제."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "il"
+    }
   },
   {
     "id": "ko_4779",
@@ -4648,7 +5161,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "말하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "malhada"
+    }
   },
   {
     "id": "ko_6492",
@@ -4677,7 +5193,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "oda"
+    }
   },
   {
     "id": "ko_6203",
@@ -4706,7 +5225,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "알다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "alda"
+    }
   },
   {
     "id": "ko_3898",
@@ -4732,6 +5254,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "앞서 말한 내용이나 상황과 같거나 그와 비슷한 상태"
+    },
+    "reading": {
+      "ko": "geureotda"
     }
   },
   {
@@ -4758,6 +5283,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "부피나 넓이, 키 등이 보통보다 넓거나 높다."
+    },
+    "reading": {
+      "ko": "keuda"
     }
   },
   {
@@ -4784,6 +5312,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "수나 양이 보통보다 훨씬 더 많거나 풍부하다."
+    },
+    "reading": {
+      "ko": "manda"
     }
   },
   {
@@ -4810,6 +5341,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 대상이나 상황이 마음에 들거나 만족스럽다."
+    },
+    "reading": {
+      "ko": "jotda"
     }
   },
   {
@@ -4839,7 +5373,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "받다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "batda"
+    }
   },
   {
     "id": "ko_7531",
@@ -4867,7 +5404,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 살기 위해 지은 건물이나 공간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jip"
+    }
   },
   {
     "id": "ko_4131",
@@ -4896,7 +5436,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "나오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "naoda"
+    }
   },
   {
     "id": "ko_4946",
@@ -4924,7 +5467,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해결해야 할 어려운 일이나 질문."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "munje"
+    }
   },
   {
     "id": "ko_5549",
@@ -4953,7 +5499,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "살다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "salda"
+    }
   },
   {
     "id": "ko_5622",
@@ -4982,7 +5531,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "생각하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "saenggakhada"
+    }
   },
   {
     "id": "ko_4864",
@@ -5011,7 +5563,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "모르다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "moreuda"
+    }
   },
   {
     "id": "ko_5802",
@@ -5039,7 +5594,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 물건이나 공간의 안쪽 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sok"
+    }
   },
   {
     "id": "ko_4754",
@@ -5068,7 +5626,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "만들다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "mandeulda"
+    }
   },
   {
     "id": "ko_6218",
@@ -5096,7 +5657,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 것의 바로 맞은편이나 진행하는 방향을 가리키는 위치."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ap"
+    }
   },
   {
     "id": "ko_4822",
@@ -5125,7 +5689,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "먹다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "meokda"
+    }
   },
   {
     "id": "ko_5619",
@@ -5153,7 +5720,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 것에 대해 마음속으로 헤아리거나 판단하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saenggak"
+    }
   },
   {
     "id": "ko_6286",
@@ -5179,6 +5749,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양에 대해 묻거나 말할 때 쓴다."
+    },
+    "reading": {
+      "ko": "eotteotda"
     }
   },
   {
@@ -5207,7 +5780,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "성별이 여성인 사람을 가리키는 가장 일반적인 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeoja"
+    }
   },
   {
     "id": "ko_4594",
@@ -5235,7 +5811,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 것의 뒷부분이나 시간적으로 나중을 이르는 말"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dwi"
+    }
   },
   {
     "id": "ko_4609",
@@ -5264,7 +5843,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "듣다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "deutda"
+    }
   },
   {
     "id": "ko_4611",
@@ -5293,7 +5875,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "들다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "deulda"
+    }
   },
   {
     "id": "ko_3413",
@@ -5322,7 +5907,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "가지다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gajida"
+    }
   },
   {
     "id": "ko_6162",
@@ -5350,7 +5938,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아직 어른이 되지 않은 어린 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ai"
+    }
   },
   {
     "id": "ko_5944",
@@ -5378,7 +5969,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 진행되는 동안의 길이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sigan"
+    }
   },
   {
     "id": "ko_7334",
@@ -5407,7 +6001,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "주다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "juda"
+    }
   },
   {
     "id": "ko_4116",
@@ -5436,7 +6033,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "nada"
+    }
   },
   {
     "id": "ko_6777",
@@ -5462,6 +6062,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양이 '이와 같다'는 것을 나타내는 말."
+    },
+    "reading": {
+      "ko": "ireotda"
     }
   },
   {
@@ -5490,7 +6093,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자식을 낳아 기른 여자 부모를 이르는 말이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eomeoni"
+    }
   },
   {
     "id": "ko_4288",
@@ -5518,7 +6124,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사물을 보고 빛을 느끼는 몸의 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nun"
+    }
   },
   {
     "id": "ko_4340",
@@ -5546,7 +6155,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 순서의 바로 뒤."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daeum"
+    }
   },
   {
     "id": "ko_7121",
@@ -5574,7 +6186,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 시간이나 시점보다 앞선 때"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeon"
+    }
   },
   {
     "id": "ko_3690",
@@ -5602,7 +6217,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 위치나 공간을 나타내는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "got"
+    }
   },
   {
     "id": "ko_6175",
@@ -5630,7 +6248,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 물체나 공간의 바깥쪽이 아닌 내부."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "an"
+    }
   },
   {
     "id": "ko_6669",
@@ -5658,7 +6279,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 것의 높은 쪽이나 윗부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "wi"
+    }
   },
   {
     "id": "ko_6626",
@@ -5686,7 +6310,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸을 움직여 건강을 좋게 하거나 즐기는 활동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "undong"
+    }
   },
   {
     "id": "ko_8112",
@@ -5714,7 +6341,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학생들이 모여 공부하고 배우는 교육 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hakgyo"
+    }
   },
   {
     "id": "ko_5982",
@@ -5743,7 +6373,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "시작하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sijakhada"
+    }
   },
   {
     "id": "ko_4521",
@@ -5771,7 +6404,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 사거나 서비스를 이용할 때 내는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "don"
+    }
   },
   {
     "id": "ko_4144",
@@ -5799,7 +6435,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 뜨고 지는 동안의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nal"
+    }
   },
   {
     "id": "ko_7786",
@@ -5827,7 +6466,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서로 가깝게 지내며 마음을 나누는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chingu"
+    }
   },
   {
     "id": "ko_4733",
@@ -5855,7 +6497,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "생각이나 감정을 느끼는 사람의 정신적인 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maeum"
+    }
   },
   {
     "id": "ko_8347",
@@ -5883,7 +6528,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 일어난 뒤의 시간이나 순서."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hu"
+    }
   },
   {
     "id": "ko_6157",
@@ -5911,7 +6559,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자녀를 낳은 남자 부모를 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "abeoji"
+    }
   },
   {
     "id": "ko_4167",
@@ -5939,7 +6590,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어른이 된 남성 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namja"
+    }
   },
   {
     "id": "ko_4894",
@@ -5967,7 +6621,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물의 전체적인 신체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mom"
+    }
   },
   {
     "id": "ko_6316",
@@ -5995,7 +6652,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물의 머리 앞쪽 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eolgul"
+    }
   },
   {
     "id": "ko_4616",
@@ -6024,7 +6684,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "들어가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "deuleogada"
+    }
   },
   {
     "id": "ko_4329",
@@ -6050,6 +6713,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "서로 같지 않거나 차이가 있는 상태."
+    },
+    "reading": {
+      "ko": "dareuda"
     }
   },
   {
@@ -6078,7 +6744,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "마시거나 씻는 데 사용하는 투명한 액체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mul"
+    }
   },
   {
     "id": "ko_4751",
@@ -6107,7 +6776,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "만나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "mannada"
+    }
   },
   {
     "id": "ko_4186",
@@ -6136,7 +6808,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "내다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "naeda"
+    }
   },
   {
     "id": "ko_6119",
@@ -6165,7 +6840,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "쓰다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sseuda"
+    }
   },
   {
     "id": "ko_6793",
@@ -6193,7 +6871,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "말하고 있는 바로 이 때나 기회."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ibeon"
+    }
   },
   {
     "id": "ko_4030",
@@ -6221,7 +6902,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 다니거나 차가 다니도록 만들어진 곳"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gil"
+    }
   },
   {
     "id": "ko_5637",
@@ -6249,7 +6933,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 살아가면서 하는 모든 활동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saenghwal"
+    }
   },
   {
     "id": "ko_7434",
@@ -6277,7 +6964,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "현재의 시간이나 바로 이 순간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jigeum"
+    }
   },
   {
     "id": "ko_5519",
@@ -6305,7 +6995,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 물체나 사람의 중간에 있는 공간이나 관계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sai"
+    }
   },
   {
     "id": "ko_6610",
@@ -6333,7 +7026,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국 사람들이 자신들의 나라를 친근하게 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "urinara"
+    }
   },
   {
     "id": "ko_6199",
@@ -6362,7 +7058,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "앉다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "anda"
+    }
   },
   {
     "id": "ko_7638",
@@ -6390,7 +7089,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 시간의 시작."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheoeum"
+    }
   },
   {
     "id": "ko_5811",
@@ -6418,7 +7120,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "팔 끝에 붙어 물건을 잡거나 만지는 데 쓰는 신체 부위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "son"
+    }
   },
   {
     "id": "ko_3893",
@@ -6446,7 +7151,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "과거의 어떤 특정한 시점."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geuttae"
+    }
   },
   {
     "id": "ko_7614",
@@ -6475,7 +7183,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "찾다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chatda"
+    }
   },
   {
     "id": "ko_4112",
@@ -6504,7 +7215,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "나가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "nagada"
+    }
   },
   {
     "id": "ko_6806",
@@ -6532,7 +7246,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 사실이나 사건에 대해 말하는 내용."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "iyagi"
+    }
   },
   {
     "id": "ko_5485",
@@ -6561,7 +7278,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "사다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sada"
+    }
   },
   {
     "id": "ko_7036",
@@ -6590,7 +7310,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잡다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "japda"
+    }
   },
   {
     "id": "ko_5676",
@@ -6618,7 +7341,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학생을 가르치는 사람을 높여 부르는 호칭."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seonsaengnim"
+    }
   },
   {
     "id": "ko_5646",
@@ -6647,7 +7373,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "서다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "seoda"
+    }
   },
   {
     "id": "ko_6375",
@@ -6675,7 +7404,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "인류 사회가 시간의 흐름에 따라 변해 온 과정."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeoksa"
+    }
   },
   {
     "id": "ko_6913",
@@ -6704,7 +7436,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "읽다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ikda"
+    }
   },
   {
     "id": "ko_4549",
@@ -6732,7 +7467,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 계속되는 시간의 길이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongan"
+    }
   },
   {
     "id": "ko_7624",
@@ -6760,7 +7498,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글이나 그림이 인쇄되어 묶여 있는 종이 묶음."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chaek"
+    }
   },
   {
     "id": "ko_6895",
@@ -6789,7 +7530,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "일어나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ileonada"
+    }
   },
   {
     "id": "ko_5983",
@@ -6817,7 +7561,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 사고파는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sijang"
+    }
   },
   {
     "id": "ko_4228",
@@ -6846,7 +7593,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "넣다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "neotda"
+    }
   },
   {
     "id": "ko_7411",
@@ -6872,6 +7622,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "가치나 의미가 커서 소중하고 꼭 필요하다."
+    },
+    "reading": {
+      "ko": "jungyohada"
     }
   },
   {
@@ -6898,6 +7651,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "하거나 풀기 힘들어서 쉽지 않다."
+    },
+    "reading": {
+      "ko": "eoryeopda"
     }
   },
   {
@@ -6926,7 +7682,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸을 움직이거나 어떤 일을 할 수 있는 능력."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "him"
+    }
   },
   {
     "id": "ko_4118",
@@ -6954,7 +7713,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일정한 영토와 국민, 주권을 가진 정치적 공동체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nara"
+    }
   },
   {
     "id": "ko_5307",
@@ -6983,7 +7745,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "부르다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "bureuda"
+    }
   },
   {
     "id": "ko_6971",
@@ -7011,7 +7776,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 앉거나 물건을 놓을 수 있는 공간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jari"
+    }
   },
   {
     "id": "ko_7372",
@@ -7040,7 +7808,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "죽다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jukda"
+    }
   },
   {
     "id": "ko_6278",
@@ -7068,7 +7839,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 사실이나 생각에 대해 말하는 내용이나 대화를 말합니다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yaegi"
+    }
   },
   {
     "id": "ko_8121",
@@ -7096,7 +7870,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 가르침을 받고 배우는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haksaeng"
+    }
   },
   {
     "id": "ko_6323",
@@ -7124,7 +7901,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "(비격식) 자녀가 자신의 어머니를 부르거나 가리키는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eomma"
+    }
   },
   {
     "id": "ko_6787",
@@ -7152,7 +7932,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 사물을 다른 것과 구별하여 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ireum"
+    }
   },
   {
     "id": "ko_8094",
@@ -7180,7 +7963,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "수를 셀 때 첫 번째를 나타내는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hana"
+    }
   },
   {
     "id": "ko_4194",
@@ -7209,7 +7995,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "내리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "naerida"
+    }
   },
   {
     "id": "ko_5912",
@@ -7235,6 +8024,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하거나 이해하기에 어렵지 않은 상태."
+    },
+    "reading": {
+      "ko": "swipda"
     }
   },
   {
@@ -7261,6 +8053,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 꼭 있어야 하거나 해야 한다."
+    },
+    "reading": {
+      "ko": "pilyohada"
     }
   },
   {
@@ -7290,7 +8085,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "생기다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "saenggida"
+    }
   },
   {
     "id": "ko_5515",
@@ -7319,7 +8117,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "사용하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sayonghada"
+    }
   },
   {
     "id": "ko_4169",
@@ -7347,7 +8148,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼한 여자에게 배우자가 되는 남자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nampyeon"
+    }
   },
   {
     "id": "ko_4618",
@@ -7376,7 +8180,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "들어오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "deuleooda"
+    }
   },
   {
     "id": "ko_5046",
@@ -7404,7 +8211,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 공간이나 범위의 안쪽이 아닌 바깥쪽."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bak"
+    }
   },
   {
     "id": "ko_7000",
@@ -7430,6 +8240,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "크기나 부피, 정도가 보통보다 덜한."
+    },
+    "reading": {
+      "ko": "jakda"
     }
   },
   {
@@ -7459,7 +8272,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "타다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "tada"
+    }
   },
   {
     "id": "ko_3397",
@@ -7487,7 +8303,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 공간이나 물체의 중심이 되는 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gaunde"
+    }
   },
   {
     "id": "ko_5230",
@@ -7516,7 +8335,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "보내다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "bonaeda"
+    }
   },
   {
     "id": "ko_5109",
@@ -7544,7 +8366,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 지고 어두워지는 저녁부터 해가 뜨기 전까지의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bam"
+    }
   },
   {
     "id": "ko_4276",
@@ -7570,6 +8395,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "위로 길게 뻗어 있거나 기준보다 위쪽에 있는 상태."
+    },
+    "reading": {
+      "ko": "nopda"
     }
   },
   {
@@ -7598,7 +8426,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "정보를 처리하고 저장하는 데 사용하는 전자 기기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "keompyuteo"
+    }
   },
   {
     "id": "ko_4326",
@@ -7627,7 +8458,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "다니다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "danida"
+    }
   },
   {
     "id": "ko_6421",
@@ -7656,7 +8490,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "열다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yeolda"
+    }
   },
   {
     "id": "ko_4814",
@@ -7684,7 +8521,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물의 몸에서 가장 위에 있는 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "meori"
+    }
   },
   {
     "id": "ko_4954",
@@ -7713,7 +8553,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "묻다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "mutda"
+    }
   },
   {
     "id": "ko_6147",
@@ -7741,7 +8584,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼하여 낳은 남자아이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "adeul"
+    }
   },
   {
     "id": "ko_3965",
@@ -7770,7 +8616,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "기다리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gidarida"
+    }
   },
   {
     "id": "ko_6490",
@@ -7798,7 +8647,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금 우리가 살고 있는 이 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oneul"
+    }
   },
   {
     "id": "ko_5123",
@@ -7826,7 +8678,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "집 안에서 잠을 자거나 생활하는 공간"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bang"
+    }
   },
   {
     "id": "ko_6168",
@@ -7854,7 +8709,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 뜨고 낮이 시작되는 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "achim"
+    }
   },
   {
     "id": "ko_6648",
@@ -7883,7 +8741,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "웃다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "utda"
+    }
   },
   {
     "id": "ko_4657",
@@ -7912,7 +8773,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "떠나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "tteonada"
+    }
   },
   {
     "id": "ko_6153",
@@ -7938,6 +8802,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "보거나 들었을 때 마음이 즐겁고 기분이 좋다."
+    },
+    "reading": {
+      "ko": "areumdapda"
     }
   },
   {
@@ -7966,7 +8833,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 사물의 마지막 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkeut"
+    }
   },
   {
     "id": "ko_6923",
@@ -7994,7 +8864,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "얼굴에 있는, 음식을 먹고 말하는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ip"
+    }
   },
   {
     "id": "ko_6448",
@@ -8022,7 +8895,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "움직이는 그림과 소리로 이야기를 보여 주는 예술 작품"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeonghwa"
+    }
   },
   {
     "id": "ko_8088",
@@ -8050,7 +8926,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 것을 꼭 있어야 하거나 해야 하는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pilyo"
+    }
   },
   {
     "id": "ko_8098",
@@ -8078,7 +8957,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "땅 위로 넓게 펼쳐진 푸른 공간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haneul"
+    }
   },
   {
     "id": "ko_5118",
@@ -8106,7 +8988,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "쌀을 쪄서 만든 음식이나 하루 세끼 먹는 식사."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bap"
+    }
   },
   {
     "id": "ko_6926",
@@ -8135,7 +9020,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "입다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ipda"
+    }
   },
   {
     "id": "ko_3905",
@@ -8163,7 +9051,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "연필이나 붓 등으로 그린 이미지."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geurim"
+    }
   },
   {
     "id": "ko_4729",
@@ -8192,7 +9083,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "마시다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "masida"
+    }
   },
   {
     "id": "ko_7775",
@@ -8221,7 +9115,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "치다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chida"
+    }
   },
   {
     "id": "ko_8276",
@@ -8249,7 +9146,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람과 함께 있지 않고 자기만 있는 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "honja"
+    }
   },
   {
     "id": "ko_6821",
@@ -8277,7 +9177,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바로 이 시점이나 때."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ije"
+    }
   },
   {
     "id": "ko_3780",
@@ -8305,7 +9208,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대학교에서 학생들을 가르치는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyosu"
+    }
   },
   {
     "id": "ko_5900",
@@ -8333,7 +9239,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "곡식이나 과일 등을 발효시켜 만든 알코올 음료."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sul"
+    }
   },
   {
     "id": "ko_5489",
@@ -8361,7 +9270,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 사람이나 대상을 매우 아끼고 좋아하는 마음."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sarang"
+    }
   },
   {
     "id": "ko_7165",
@@ -8389,7 +9301,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "멀리 있는 사람과 소리를 통해 이야기할 수 있는 통신 수단."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeonhwa"
+    }
   },
   {
     "id": "ko_4104",
@@ -8418,7 +9333,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "끝나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kkeutnada"
+    }
   },
   {
     "id": "ko_4533",
@@ -8447,7 +9365,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "돌아오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dolaoda"
+    }
   },
   {
     "id": "ko_6158",
@@ -8475,7 +9396,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "(비격식) 자녀가 자신의 아버지를 친근하게 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "appa"
+    }
   },
   {
     "id": "ko_8147",
@@ -8503,7 +9427,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일을 한 차례 하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanbeon"
+    }
   },
   {
     "id": "ko_3394",
@@ -8531,7 +9458,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸의 목 아래와 배 위의 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gaseum"
+    }
   },
   {
     "id": "ko_4033",
@@ -8557,6 +9487,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건의 길이가 보통보다 더 크다"
+    },
+    "reading": {
+      "ko": "gilda"
     }
   },
   {
@@ -8585,7 +9518,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 만들거나 서비스를 제공하여 돈을 버는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hoesa"
+    }
   },
   {
     "id": "ko_4782",
@@ -8613,7 +9549,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식이나 음료에서 느껴지는 고유한 느낌."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mat"
+    }
   },
   {
     "id": "ko_6502",
@@ -8642,7 +9581,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "오르다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "oreuda"
+    }
   },
   {
     "id": "ko_6731",
@@ -8670,7 +9612,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 먹을 수 있도록 만든 모든 종류의 먹을거리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eumsik"
+    }
   },
   {
     "id": "ko_6594",
@@ -8698,7 +9643,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금으로부터 그리 멀지 않은 지난날부터 현재까지의 기간"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yojeum"
+    }
   },
   {
     "id": "ko_3635",
@@ -8726,7 +9674,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "앞으로 할 일에 대해 미리 생각하고 정해 놓은 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyehoek"
+    }
   },
   {
     "id": "ko_6319",
@@ -8754,7 +9705,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "수량이나 가격을 물을 때 쓰는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eolma"
+    }
   },
   {
     "id": "ko_6144",
@@ -8782,7 +9736,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼하여 남자의 짝이 된 여자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "anae"
+    }
   },
   {
     "id": "ko_3410",
@@ -8810,7 +9767,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "함께 사는 부모, 자녀, 형제자매 등 혈연으로 맺어진 사람들."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gajok"
+    }
   },
   {
     "id": "ko_4280",
@@ -8839,7 +9799,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "놓다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "notda"
+    }
   },
   {
     "id": "ko_7568",
@@ -8867,7 +9830,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 물건을 싣고 다니는 교통수단."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cha"
+    }
   },
   {
     "id": "ko_4259",
@@ -8896,7 +9862,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "놀다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "nolda"
+    }
   },
   {
     "id": "ko_4499",
@@ -8924,7 +9893,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "많은 사람이 모여 살며 상업, 문화 시설이 발달한 큰 지역."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dosi"
+    }
   },
   {
     "id": "ko_4132",
@@ -8952,7 +9924,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 태어난 때부터 지금까지 살아온 햇수."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nai"
+    }
   },
   {
     "id": "ko_5016",
@@ -8981,7 +9956,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "바꾸다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "bakkuda"
+    }
   },
   {
     "id": "ko_7324",
@@ -9010,7 +9988,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "좋아하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jotahada"
+    }
   },
   {
     "id": "ko_3902",
@@ -9039,7 +10020,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "그리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geurida"
+    }
   },
   {
     "id": "ko_5154",
@@ -9068,7 +10052,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "배우다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "baeuda"
+    }
   },
   {
     "id": "ko_6452",
@@ -9096,7 +10083,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 대상의 바로 가까운 쪽이나 방향"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeop"
+    }
   },
   {
     "id": "ko_6148",
@@ -9124,7 +10114,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 기준보다 낮은 쪽이나 위치."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "arae"
+    }
   },
   {
     "id": "ko_5144",
@@ -9152,7 +10145,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물의 몸통 앞부분에 있는 소화 기관이 있는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bae"
+    }
   },
   {
     "id": "ko_5541",
@@ -9180,7 +10176,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "땅 위로 높이 솟아오른 큰 덩어리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "san"
+    }
   },
   {
     "id": "ko_4939",
@@ -9208,7 +10207,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글이나 말에서 뜻을 나타내는 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mun"
+    }
   },
   {
     "id": "ko_4076",
@@ -9236,7 +10238,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "식물의 줄기나 가지 끝에 피어나는 아름다운 모양과 향기를 가진 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkot"
+    }
   },
   {
     "id": "ko_3892",
@@ -9264,7 +10269,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 진행되는 동안의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geudongan"
+    }
   },
   {
     "id": "ko_5026",
@@ -9292,7 +10300,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "공기가 움직여서 생기는 자연 현상."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "baram"
+    }
   },
   {
     "id": "ko_7024",
@@ -9321,7 +10332,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잘하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jalhada"
+    }
   },
   {
     "id": "ko_4236",
@@ -9349,7 +10363,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "가락에 맞추어 부르는 말이나 소리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "norae"
+    }
   },
   {
     "id": "ko_5020",
@@ -9377,7 +10394,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지구 표면의 대부분을 덮고 있는 매우 넓고 깊은 소금물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bada"
+    }
   },
   {
     "id": "ko_8396",
@@ -9403,6 +10423,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하거나 견디기가 어렵고 고통스럽다."
+    },
+    "reading": {
+      "ko": "himdeulda"
     }
   },
   {
@@ -9431,7 +10454,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지식이나 기술을 배우고 익히는 활동"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gongbu"
+    }
   },
   {
     "id": "ko_4905",
@@ -9460,7 +10486,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "못하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "mothada"
+    }
   },
   {
     "id": "ko_6309",
@@ -9488,7 +10517,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여자가 자신보다 나이가 많은 여자를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eonni"
+    }
   },
   {
     "id": "ko_5360",
@@ -9516,7 +10548,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물질이 타면서 빛과 열을 내는 현상."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bul"
+    }
   },
   {
     "id": "ko_8116",
@@ -9544,7 +10579,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 학생들의 교육 단계를 나누는 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haknyeon"
+    }
   },
   {
     "id": "ko_6023",
@@ -9572,7 +10610,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "세상의 여러 소식을 인쇄하여 매일 발행하는 종이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sinmun"
+    }
   },
   {
     "id": "ko_6829",
@@ -9601,7 +10642,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "이해하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ihaehada"
+    }
   },
   {
     "id": "ko_5675",
@@ -9629,7 +10673,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학생을 가르치는 사람을 높여 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seonsaeng"
+    }
   },
   {
     "id": "ko_4529",
@@ -9658,7 +10705,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "돌아가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dolagada"
+    }
   },
   {
     "id": "ko_3984",
@@ -9686,7 +10736,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 상황에 대해 마음이 느끼는 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gibun"
+    }
   },
   {
     "id": "ko_6542",
@@ -9714,7 +10767,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸을 가리거나 꾸미기 위해 입는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ot"
+    }
   },
   {
     "id": "ko_4088",
@@ -9742,7 +10798,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "잠자는 동안에 머릿속에서 일어나는 일이나 이루고 싶은 희망."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kkum"
+    }
   },
   {
     "id": "ko_8166",
@@ -9770,7 +10829,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아버지나 어머니의 어머니를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "halmeoni"
+    }
   },
   {
     "id": "ko_8335",
@@ -9798,7 +10860,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 사람이 모여 어떤 문제에 대해 의논하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hoeui"
+    }
   },
   {
     "id": "ko_6807",
@@ -9827,7 +10892,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "이야기하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "iyagihada"
+    }
   },
   {
     "id": "ko_4121",
@@ -9855,7 +10923,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "땅에 뿌리를 박고 줄기와 가지가 있는 식물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namu"
+    }
   },
   {
     "id": "ko_6960",
@@ -9884,7 +10955,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "자다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jada"
+    }
   },
   {
     "id": "ko_3557",
@@ -9913,7 +10987,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "걷다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geotda"
+    }
   },
   {
     "id": "ko_6774",
@@ -9941,7 +11018,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바로 이 시간이나 순간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ittae"
+    }
   },
   {
     "id": "ko_4958",
@@ -9969,7 +11049,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 만들거나 자연에 있는, 만질 수 있는 모든 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mulgeon"
+    }
   },
   {
     "id": "ko_5074",
@@ -9997,7 +11080,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물이 몸을 지탱하고 걷는 데 쓰는 신체 부위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bal"
+    }
   },
   {
     "id": "ko_5981",
@@ -10026,7 +11112,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "시작되다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sijakdoeda"
+    }
   },
   {
     "id": "ko_4772",
@@ -10055,7 +11144,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "말다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "malda"
+    }
   },
   {
     "id": "ko_5697",
@@ -10084,7 +11176,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "설명하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "seolmyeonghada"
+    }
   },
   {
     "id": "ko_6734",
@@ -10112,7 +11207,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소리를 이용하여 아름다움이나 감정을 표현하는 예술."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eumak"
+    }
   },
   {
     "id": "ko_6170",
@@ -10138,6 +11236,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 고통스럽거나 좋지 않은 상태."
+    },
+    "reading": {
+      "ko": "apeuda"
     }
   },
   {
@@ -10164,6 +11265,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "수나 양이 많지 않고 적은 상태."
+    },
+    "reading": {
+      "ko": "jeokda"
     }
   },
   {
@@ -10192,7 +11296,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하늘에서 물방울이 떨어지는 현상."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bi"
+    }
   },
   {
     "id": "ko_3676",
@@ -10220,7 +11327,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자신이 태어나서 자란 곳이나 부모님이 사시는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gohyang"
+    }
   },
   {
     "id": "ko_4260",
@@ -10249,7 +11359,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "놀라다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "nolrada"
+    }
   },
   {
     "id": "ko_6640",
@@ -10278,7 +11391,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "울다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ulda"
+    }
   },
   {
     "id": "ko_6724",
@@ -10306,7 +11422,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 저금하거나 빌려주고 환전하는 등의 금융 업무를 하는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eunhaeng"
+    }
   },
   {
     "id": "ko_7446",
@@ -10335,7 +11454,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "지내다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jinaeda"
+    }
   },
   {
     "id": "ko_3595",
@@ -10363,7 +11485,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남자와 여자가 부부가 되는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeolhon"
+    }
   },
   {
     "id": "ko_4544",
@@ -10391,7 +11516,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자기보다 나이가 어린 형제나 자매."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongsaeng"
+    }
   },
   {
     "id": "ko_6518",
@@ -10419,7 +11547,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하루 중 낮 열두 시부터 밤 열두 시까지의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ohu"
+    }
   },
   {
     "id": "ko_5451",
@@ -10445,6 +11576,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "움직이는 속도가 보통보다 더 빠르거나 시간이 일찍 되다."
+    },
+    "reading": {
+      "ko": "ppareuda"
     }
   },
   {
@@ -10473,7 +11607,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "갓 태어나 아직 어린 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "agi"
+    }
   },
   {
     "id": "ko_6165",
@@ -10501,7 +11638,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼한 남자를 부르거나 나이가 많은 남자를 친근하게 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ajeossi"
+    }
   },
   {
     "id": "ko_6487",
@@ -10529,7 +11669,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금으로부터 아주 오래전의 시간이나 시기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yetnal"
+    }
   },
   {
     "id": "ko_4646",
@@ -10557,7 +11700,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "부모에게서 태어난 여자인 자녀."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ttal"
+    }
   },
   {
     "id": "ko_4741",
@@ -10585,7 +11731,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 순서에서 맨 끝이 되는 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "majimak"
+    }
   },
   {
     "id": "ko_5224",
@@ -10613,7 +11762,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아픈 사람을 치료하고 돌보는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "byeongwon"
+    }
   },
   {
     "id": "ko_3613",
@@ -10641,7 +11793,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사회의 질서를 유지하고 범죄를 예방하는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeongchal"
+    }
   },
   {
     "id": "ko_7096",
@@ -10669,7 +11824,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 지고 어두워지는 시간이나 그 시간에 먹는 식사."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeonyeok"
+    }
   },
   {
     "id": "ko_4216",
@@ -10695,6 +11853,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "공간이나 면적이 크고 여유가 있다."
+    },
+    "reading": {
+      "ko": "neopda"
     }
   },
   {
@@ -10723,7 +11884,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지식이나 능력을 평가하기 위해 치르는 검사."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "siheom"
+    }
   },
   {
     "id": "ko_7025",
@@ -10751,7 +11915,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸과 마음을 쉬게 하기 위해 눈을 감고 의식을 잃는 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jam"
+    }
   },
   {
     "id": "ko_3536",
@@ -10779,7 +11946,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸이나 정신에 아무런 병이나 이상이 없는 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geongang"
+    }
   },
   {
     "id": "ko_3363",
@@ -10805,6 +11975,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "공간적으로나 시간적으로 거리가 멀지 않다"
+    },
+    "reading": {
+      "ko": "gakkapda"
     }
   },
   {
@@ -10833,7 +12006,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 살거나 일하기 위해 지은 큰 구조물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geonmul"
+    }
   },
   {
     "id": "ko_6561",
@@ -10861,7 +12037,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자신이 살고 있는 나라가 아닌 다른 나라."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oeguk"
+    }
   },
   {
     "id": "ko_5009",
@@ -10889,7 +12068,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 물건이나 공간의 가장 아래쪽 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mit"
+    }
   },
   {
     "id": "ko_6290",
@@ -10917,7 +12099,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "나이가 들어 몸과 마음이 다 자란 사람이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eoreun"
+    }
   },
   {
     "id": "ko_7986",
@@ -10946,7 +12131,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "팔다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "palda"
+    }
   },
   {
     "id": "ko_6909",
@@ -10975,7 +12163,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "일하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ilhada"
+    }
   },
   {
     "id": "ko_7278",
@@ -11003,7 +12194,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "양이나 정도가 적은 분량."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jogeum"
+    }
   },
   {
     "id": "ko_7965",
@@ -11031,7 +12225,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "공동의 목표를 위해 함께 일하는 사람들의 모임."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "tim"
+    }
   },
   {
     "id": "ko_5309",
@@ -11059,7 +12256,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자식을 낳아 기른 아버지와 어머니를 함께 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bumo"
+    }
   },
   {
     "id": "ko_6528",
@@ -11088,7 +12288,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "올라가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "olragada"
+    }
   },
   {
     "id": "ko_3889",
@@ -11116,7 +12319,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "과거에 있었던 특정한 날이나 미래의 특정한 날"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geunal"
+    }
   },
   {
     "id": "ko_4397",
@@ -11144,7 +12350,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "담뱃잎을 말아서 불을 붙여 피우는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dambae"
+    }
   },
   {
     "id": "ko_8167",
@@ -11172,7 +12381,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아버지나 어머니의 아버지를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "halabeoji"
+    }
   },
   {
     "id": "ko_7887",
@@ -11201,7 +12413,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "태어나다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "taeeonada"
+    }
   },
   {
     "id": "ko_8316",
@@ -11229,7 +12444,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "병에 걸려 치료를 받거나 돌봄이 필요한 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hwanja"
+    }
   },
   {
     "id": "ko_7079",
@@ -11255,6 +12473,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "즐겁고 흥미를 느끼게 하는 상태."
+    },
+    "reading": {
+      "ko": "jaemiitda"
     }
   },
   {
@@ -11284,7 +12505,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "가르치다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gareuchida"
+    }
   },
   {
     "id": "ko_4464",
@@ -11312,7 +12536,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 사람 이상이 서로 이야기를 주고받는 것"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daehwa"
+    }
   },
   {
     "id": "ko_6539",
@@ -11340,7 +12567,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금 지나고 있는 해나 다가올 해."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "olhae"
+    }
   },
   {
     "id": "ko_8252",
@@ -11368,7 +12598,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남자가 자기보다 나이가 많은 남자를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyeong"
+    }
   },
   {
     "id": "ko_4861",
@@ -11396,7 +12629,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 범위 안에 있는 모든 사람이나 사물"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "modu"
+    }
   },
   {
     "id": "ko_3558",
@@ -11425,7 +12661,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "걸다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geolda"
+    }
   },
   {
     "id": "ko_4828",
@@ -11451,6 +12690,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "공간적으로나 시간적으로 거리가 많이 떨어져 있다."
+    },
+    "reading": {
+      "ko": "meolda"
     }
   },
   {
@@ -11479,7 +12721,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "많은 사람을 태우고 정해진 노선을 다니는 큰 자동차."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "beoseu"
+    }
   },
   {
     "id": "ko_5528",
@@ -11507,7 +12752,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "카메라로 찍어 종이나 화면에 나타낸 모습."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sajin"
+    }
   },
   {
     "id": "ko_7261",
@@ -11535,7 +12783,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여럿 가운데에서 가장 으뜸이거나 첫째."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeil"
+    }
   },
   {
     "id": "ko_6279",
@@ -11564,7 +12815,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "얘기하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yaegihada"
+    }
   },
   {
     "id": "ko_4331",
@@ -11592,7 +12846,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 동물의 몸에서 몸통을 지탱하고 움직이게 하는 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dari"
+    }
   },
   {
     "id": "ko_8180",
@@ -11620,7 +12877,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "낮에 하늘에 떠서 빛과 열을 내는 둥근 천체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hae"
+    }
   },
   {
     "id": "ko_6915",
@@ -11649,7 +12909,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잃다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ilda"
+    }
   },
   {
     "id": "ko_5421",
@@ -11675,6 +12938,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "서로 비교했을 때 모양이나 성질 등이 거의 같다."
+    },
+    "reading": {
+      "ko": "biseuthada"
     }
   },
   {
@@ -11704,7 +12970,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "사랑하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "saranghada"
+    }
   },
   {
     "id": "ko_6357",
@@ -11732,7 +13001,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사계절 중 가장 더운 계절"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeoreum"
+    }
   },
   {
     "id": "ko_6082",
@@ -11758,6 +13030,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 마음에 들지 않거나 좋지 않은 느낌이 들다."
+    },
+    "reading": {
+      "ko": "silda"
     }
   },
   {
@@ -11786,7 +13061,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 사고팔 때 내는 돈."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gap"
+    }
   },
   {
     "id": "ko_6962",
@@ -11814,7 +13092,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "엔진의 힘으로 움직이는 바퀴 달린 운송 수단."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jadongcha"
+    }
   },
   {
     "id": "ko_6296",
@@ -11842,7 +13123,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아직 어른이 되지 않은 어린 사람을 높여 부르는 말이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eorini"
+    }
   },
   {
     "id": "ko_3705",
@@ -11871,7 +13155,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "공부하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gongbuhada"
+    }
   },
   {
     "id": "ko_4352",
@@ -11900,7 +13187,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "닦다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dakda"
+    }
   },
   {
     "id": "ko_4775",
@@ -11928,7 +13218,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "'말'의 높임말로, 남의 말을 높여 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "malsseum"
+    }
   },
   {
     "id": "ko_3767",
@@ -11954,6 +13247,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "나쁘지 않고 보통 이상으로 좋거나 문제가 없는 상태."
+    },
+    "reading": {
+      "ko": "gwaenchanda"
     }
   },
   {
@@ -11982,7 +13278,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "슬프거나 아플 때 눈에서 흐르는 물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nunmul"
+    }
   },
   {
     "id": "ko_7357",
@@ -12010,7 +13309,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 물건이나 가게, 집 등을 소유하거나 관리하는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "juin"
+    }
   },
   {
     "id": "ko_5047",
@@ -12038,7 +13340,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "전체를 똑같이 둘로 나눈 것 중 하나."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ban"
+    }
   },
   {
     "id": "ko_3869",
@@ -12066,7 +13371,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소리를 듣는 역할을 하는 머리 양쪽에 있는 신체 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwi"
+    }
   },
   {
     "id": "ko_6285",
@@ -12092,6 +13400,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양을 묻거나 나타내는 말이다."
+    },
+    "reading": {
+      "ko": "eotteohada"
     }
   },
   {
@@ -12120,7 +13431,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 가구가 한 건물에 모여 살 수 있도록 지은 주택."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "apateu"
+    }
   },
   {
     "id": "ko_7552",
@@ -12146,6 +13460,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "길이, 시간, 기간 등이 길지 않고 짧은 상태."
+    },
+    "reading": {
+      "ko": "jjapda"
     }
   },
   {
@@ -12172,6 +13489,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "다른 사람의 도움이나 친절에 대해 마음이 즐겁고 감사하다"
+    },
+    "reading": {
+      "ko": "gomapda"
     }
   },
   {
@@ -12198,6 +13518,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "할 일이 많아서 여유가 없는 상태."
+    },
+    "reading": {
+      "ko": "bappeuda"
     }
   },
   {
@@ -12224,6 +13547,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "좋지 않거나 옳지 않은 상태에 있다."
+    },
+    "reading": {
+      "ko": "nappeuda"
     }
   },
   {
@@ -12252,7 +13578,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "즐거움을 얻기 위해 규칙에 따라 하는 놀이나 오락."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geim"
+    }
   },
   {
     "id": "ko_7012",
@@ -12280,7 +13609,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "액체를 담아 마시는 데 쓰는 그릇."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jan"
+    }
   },
   {
     "id": "ko_6945",
@@ -12309,7 +13641,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "있다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "itda"
+    }
   },
   {
     "id": "ko_4192",
@@ -12338,7 +13673,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "내려오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "naeryeooda"
+    }
   },
   {
     "id": "ko_5815",
@@ -12366,7 +13704,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 장소에 찾아온 사람이나 물건을 사러 온 사람"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sonnim"
+    }
   },
   {
     "id": "ko_4301",
@@ -12394,7 +13735,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "새롭게 일어난 일이나 소식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nyuseu"
+    }
   },
   {
     "id": "ko_5861",
@@ -12422,7 +13766,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 선생님이 학생들을 가르치는 시간이나 과정."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sueop"
+    }
   },
   {
     "id": "ko_3577",
@@ -12450,7 +13797,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사계절 중 가장 추운 계절로 눈이 내리기도 한다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeoul"
+    }
   },
   {
     "id": "ko_7773",
@@ -12478,7 +13828,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "건물의 바닥에서 천장까지의 한 칸 또는 여러 겹으로 쌓인 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheung"
+    }
   },
   {
     "id": "ko_6004",
@@ -12506,7 +13859,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하루에 정해진 시간에 음식을 먹는 일이나 그 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "siksa"
+    }
   },
   {
     "id": "ko_6185",
@@ -12535,7 +13891,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "안다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "anda"
+    }
   },
   {
     "id": "ko_6947",
@@ -12564,7 +13923,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잊다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "itda"
+    }
   },
   {
     "id": "ko_7909",
@@ -12592,7 +13954,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소리와 함께 움직이는 영상을 볼 수 있는 전자 기기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "telrebijeon"
+    }
   },
   {
     "id": "ko_6137",
@@ -12621,7 +13986,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "씻다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ssitda"
+    }
   },
   {
     "id": "ko_4318",
@@ -12647,6 +14015,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 일어나는 시기가 다른 것보다 뒤처지거나 더디다."
+    },
+    "reading": {
+      "ko": "neutda"
     }
   },
   {
@@ -12675,7 +14046,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람에게 소식이나 안부를 전하기 위해 쓰는 글."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pyeonji"
+    }
   },
   {
     "id": "ko_7985",
@@ -12703,7 +14077,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어깨부터 손목까지 이어지는 사람의 신체 부위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pal"
+    }
   },
   {
     "id": "ko_5695",
@@ -12731,7 +14108,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 대상을 남이 잘 알 수 있도록 이야기하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seolmyeong"
+    }
   },
   {
     "id": "ko_7963",
@@ -12759,7 +14139,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "영상과 소리를 볼 수 있는 전자 기기로 텔레비전의 줄임말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "tibeui"
+    }
   },
   {
     "id": "ko_5286",
@@ -12787,7 +14170,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "겨울 다음에 오고 여름 전에 오는 따뜻한 계절."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bom"
+    }
   },
   {
     "id": "ko_4176",
@@ -12813,6 +14199,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "키나 높이가 보통보다 아래에 있거나 정도가 약함."
+    },
+    "reading": {
+      "ko": "natda"
     }
   },
   {
@@ -12841,7 +14230,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "목과 팔이 연결되는 몸의 윗부분입니다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eokkae"
+    }
   },
   {
     "id": "ko_5312",
@@ -12869,7 +14261,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼하여 짝을 이룬 남자와 여자를 함께 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bubu"
+    }
   },
   {
     "id": "ko_6370",
@@ -12897,7 +14292,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "집을 떠나 다른 곳으로 가서 구경하거나 쉬는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeohaeng"
+    }
   },
   {
     "id": "ko_3692",
@@ -12925,7 +14323,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "둥근 모양으로 운동이나 놀이에 쓰는 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gong"
+    }
   },
   {
     "id": "ko_6511",
@@ -12953,7 +14354,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 다섯 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "owol"
+    }
   },
   {
     "id": "ko_5911",
@@ -12982,7 +14386,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "쉬다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "swida"
+    }
   },
   {
     "id": "ko_3730",
@@ -13010,7 +14417,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "책이나 교재에서 내용을 나누는 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwa"
+    }
   },
   {
     "id": "ko_6508",
@@ -13038,7 +14448,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여자가 자신보다 나이가 많은 남자 형제를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oppa"
+    }
   },
   {
     "id": "ko_7420",
@@ -13064,6 +14477,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "마음이 매우 기쁘고 유쾌하다."
+    },
+    "reading": {
+      "ko": "jeulgeopda"
     }
   },
   {
@@ -13092,7 +14508,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 네 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sawol"
+    }
   },
   {
     "id": "ko_6104",
@@ -13121,7 +14540,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "싸우다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ssauda"
+    }
   },
   {
     "id": "ko_6466",
@@ -13147,6 +14569,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "보기에 즐겁고 아름다운 느낌이 있다."
+    },
+    "reading": {
+      "ko": "yeppeuda"
     }
   },
   {
@@ -13175,7 +14600,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "현재의 시간보다 뒤에 오는 시간이나 때."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "najung"
+    }
   },
   {
     "id": "ko_4785",
@@ -13201,6 +14629,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 좋아서 먹기에 즐거운 상태"
+    },
+    "reading": {
+      "ko": "matitda"
     }
   },
   {
@@ -13229,7 +14660,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날짜를 묻거나 많지 않은 날을 이르는 말"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "myeochil"
+    }
   },
   {
     "id": "ko_6999",
@@ -13257,7 +14691,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금으로부터 바로 지난 해."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jaknyeon"
+    }
   },
   {
     "id": "ko_4189",
@@ -13286,7 +14723,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "내려가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "naeryeogada"
+    }
   },
   {
     "id": "ko_6123",
@@ -13314,7 +14754,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "더러워서 버려야 할 물건이나 쓸모없는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sseuregi"
+    }
   },
   {
     "id": "ko_3644",
@@ -13342,7 +14785,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동물의 살로 만든 음식 재료."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gogi"
+    }
   },
   {
     "id": "ko_3409",
@@ -13371,7 +14817,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "가져오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gajyeooda"
+    }
   },
   {
     "id": "ko_4158",
@@ -13399,7 +14848,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남자와 여자를 함께 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namnyeo"
+    }
   },
   {
     "id": "ko_7375",
@@ -13427,7 +14879,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일을 하기 위해 미리 필요한 것을 갖추는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "junbi"
+    }
   },
   {
     "id": "ko_3821",
@@ -13455,7 +14910,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 열두 달 중 아홉 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "guwol"
+    }
   },
   {
     "id": "ko_4780",
@@ -13481,6 +14939,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "물이나 공기 등이 깨끗하고 투명하다."
+    },
+    "reading": {
+      "ko": "makda"
     }
   },
   {
@@ -13509,7 +14970,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 여섯 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yuwol"
+    }
   },
   {
     "id": "ko_8228",
@@ -13537,7 +15001,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸통의 가운데 부분으로 배와 등 사이를 말한다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "heori"
+    }
   },
   {
     "id": "ko_5603",
@@ -13565,7 +15032,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날개가 있고 하늘을 날아다니는 동물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sae"
+    }
   },
   {
     "id": "ko_6440",
@@ -13593,7 +15063,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "영국과 미국 등 여러 나라에서 사용하는 언어"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeongeo"
+    }
   },
   {
     "id": "ko_4428",
@@ -13622,7 +15095,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "대답하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "daedaphada"
+    }
   },
   {
     "id": "ko_5197",
@@ -13651,7 +15127,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "벗다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "beotda"
+    }
   },
   {
     "id": "ko_7378",
@@ -13680,7 +15159,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "준비하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "junbihada"
+    }
   },
   {
     "id": "ko_4534",
@@ -13709,7 +15191,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "돕다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dopda"
+    }
   },
   {
     "id": "ko_4371",
@@ -13737,7 +15222,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밤하늘에 뜨는 둥근 모양의 천체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dal"
+    }
   },
   {
     "id": "ko_5525",
@@ -13765,7 +15253,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "회사의 모든 업무를 책임지고 관리하는 가장 높은 직위의 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sajang"
+    }
   },
   {
     "id": "ko_5567",
@@ -13793,7 +15284,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 세 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "samwol"
+    }
   },
   {
     "id": "ko_7863",
@@ -13821,7 +15315,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 물건의 위아래 길이를 나타내는 정도"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ki"
+    }
   },
   {
     "id": "ko_3532",
@@ -13849,7 +15346,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "좋지 않은 일이 생길까 봐 마음을 졸이는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geokjeong"
+    }
   },
   {
     "id": "ko_3597",
@@ -13878,7 +15378,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "결혼하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gyeolhonhada"
+    }
   },
   {
     "id": "ko_4286",
@@ -13906,7 +15409,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남자가 자기보다 나이가 많은 여자 형제를 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nuna"
+    }
   },
   {
     "id": "ko_7523",
@@ -13934,7 +15440,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "모르는 것을 묻거나 의논하기 위해 하는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jilmun"
+    }
   },
   {
     "id": "ko_3933",
@@ -13962,7 +15471,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 곳에서 멀지 않은 가까운 곳"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geuncheo"
+    }
   },
   {
     "id": "ko_5310",
@@ -13990,7 +15502,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자식을 낳아 기른 아버지와 어머니를 높여 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bumonim"
+    }
   },
   {
     "id": "ko_3630",
@@ -14019,7 +15534,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "계시다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gyesida"
+    }
   },
   {
     "id": "ko_5437",
@@ -14047,7 +15565,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날개를 이용하여 하늘을 날아다니는 교통수단."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bihaenggi"
+    }
   },
   {
     "id": "ko_4690",
@@ -14073,6 +15594,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "온도가 높아서 만지면 뜨거운 느낌이 들다."
+    },
+    "reading": {
+      "ko": "tteugeopda"
     }
   },
   {
@@ -14101,7 +15625,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 떠서 밝은 아침부터 저녁까지의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nat"
+    }
   },
   {
     "id": "ko_7564",
@@ -14130,7 +15657,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "찍다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jjikda"
+    }
   },
   {
     "id": "ko_3389",
@@ -14156,6 +15686,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "물건의 무게가 적게 나가다"
+    },
+    "reading": {
+      "ko": "gabyeopda"
     }
   },
   {
@@ -14184,7 +15717,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하루 중 밤 열두 시부터 낮 열두 시까지의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ojeon"
+    }
   },
   {
     "id": "ko_3358",
@@ -14212,7 +15748,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 팔거나 서비스를 제공하는 작은 건물이나 장소"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gage"
+    }
   },
   {
     "id": "ko_6248",
@@ -14239,7 +15778,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람과 앞으로 할 일에 대해 미리 정해 놓는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yaksok"
+    }
   },
   {
     "id": "ko_6852",
@@ -14266,7 +15808,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "윗사람에게 존경을 표하며 고개를 숙이는 행동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "insa"
+    }
   },
   {
     "id": "ko_5757",
@@ -14293,7 +15838,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식의 맛을 짜게 하는 하얀 가루 양념."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sogeum"
+    }
   },
   {
     "id": "ko_6991",
@@ -14320,7 +15868,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 바퀴로 되어 있고 페달을 밟아 움직이는 탈것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jajeongeo"
+    }
   },
   {
     "id": "ko_4879",
@@ -14347,7 +15898,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "머리와 몸통을 이어주는 신체 부위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mok"
+    }
   },
   {
     "id": "ko_8079",
@@ -14375,7 +15929,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "피우다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "piuda"
+    }
   },
   {
     "id": "ko_3791",
@@ -14402,7 +15959,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이나 차가 오고 가는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyotong"
+    }
   },
   {
     "id": "ko_3519",
@@ -14429,7 +15989,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 다니는 길이나 도로."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geori"
+    }
   },
   {
     "id": "ko_5368",
@@ -14457,7 +16020,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "불다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "bulda"
+    }
   },
   {
     "id": "ko_8138",
@@ -14484,7 +16050,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국어를 표기하기 위해 만든 고유한 문자 체계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hangeul"
+    }
   },
   {
     "id": "ko_3399",
@@ -14511,7 +16080,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여름과 겨울 사이에 있는 계절."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gaeul"
+    }
   },
   {
     "id": "ko_4203",
@@ -14538,7 +16110,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "오늘이 지나고 찾아오는 다음 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "naeil"
+    }
   },
   {
     "id": "ko_5812",
@@ -14565,7 +16140,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "손바닥 끝에 붙어 있는 다섯 개의 가늘고 긴 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "songarak"
+    }
   },
   {
     "id": "ko_4148",
@@ -14592,7 +16170,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기온, 바람, 비 등 대기의 상태."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nalssi"
+    }
   },
   {
     "id": "ko_4541",
@@ -14619,7 +16200,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 아닌 살아 움직이는 생물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongmul"
+    }
   },
   {
     "id": "ko_6749",
@@ -14646,7 +16230,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "병을 치료하고 건강을 돌보는 일을 하는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "uisa"
+    }
   },
   {
     "id": "ko_3537",
@@ -14671,6 +16258,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 병 없이 튼튼하고 좋다."
+    },
+    "reading": {
+      "ko": "geonganghada"
     }
   },
   {
@@ -14699,7 +16289,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "도착하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dochakhada"
+    }
   },
   {
     "id": "ko_5219",
@@ -14726,7 +16319,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "액체를 담는 데 쓰는 유리나 플라스틱 용기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "byeong"
+    }
   },
   {
     "id": "ko_4639",
@@ -14751,6 +16347,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "춥지 않고 기분 좋게 온도가 높은 상태."
+    },
+    "reading": {
+      "ko": "ttatteuthada"
     }
   },
   {
@@ -14778,7 +16377,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 팀이 발로 공을 차서 상대방 골에 넣는 운동 경기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chukgu"
+    }
   },
   {
     "id": "ko_5103",
@@ -14803,6 +16405,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "빛이 많아서 환하거나 색깔이 연하고 선명한 상태."
+    },
+    "reading": {
+      "ko": "bakda"
     }
   },
   {
@@ -14830,7 +16435,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 일어나거나 어떤 것이 있는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jangso"
+    }
   },
   {
     "id": "ko_7108",
@@ -14858,7 +16466,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "적다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jeokda"
+    }
   },
   {
     "id": "ko_7829",
@@ -14885,7 +16496,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "얼굴 중앙에 있어 냄새를 맡고 숨을 쉬는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ko"
+    }
   },
   {
     "id": "ko_3645",
@@ -14912,7 +16526,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "중학교를 졸업한 학생들이 다니는 학교."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "godeunghakgyo"
+    }
   },
   {
     "id": "ko_3781",
@@ -14939,7 +16556,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학생들이 수업을 듣는 방."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyosil"
+    }
   },
   {
     "id": "ko_5214",
@@ -14966,7 +16586,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밤하늘에 빛나는 작은 천체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "byeol"
+    }
   },
   {
     "id": "ko_5271",
@@ -14991,6 +16614,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "여러 가지가 뒤섞여서 간단하지 않거나 질서가 없는 상태."
+    },
+    "reading": {
+      "ko": "bokjaphada"
     }
   },
   {
@@ -15018,7 +16644,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빛의 파장에 따라 다르게 보이는 물체의 성질."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saek"
+    }
   },
   {
     "id": "ko_4672",
@@ -15043,6 +16672,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "둘 이상의 것이 서로 조금도 다르지 않고 같다."
+    },
+    "reading": {
+      "ko": "ttokgatda"
     }
   },
   {
@@ -15071,7 +16703,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "말씀하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "malsseumhada"
+    }
   },
   {
     "id": "ko_5257",
@@ -15098,7 +16733,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "특별하지 않고 흔하거나 평범한 상태나 정도."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "botong"
+    }
   },
   {
     "id": "ko_5999",
@@ -15125,7 +16763,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 받고 음식을 만들어 파는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sikdang"
+    }
   },
   {
     "id": "ko_5753",
@@ -15153,7 +16794,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "소개하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sogaehada"
+    }
   },
   {
     "id": "ko_7793",
@@ -15180,7 +16824,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 열두 달 중 일곱 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chilwol"
+    }
   },
   {
     "id": "ko_6097",
@@ -15207,7 +16854,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 해의 열두 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sipiwol"
+    }
   },
   {
     "id": "ko_7824",
@@ -15234,7 +16884,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물이나 음료를 마실 때 사용하는 작은 그릇."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "keop"
+    }
   },
   {
     "id": "ko_7317",
@@ -15261,7 +16914,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글씨를 쓰거나 그림을 그리는 데 쓰는 얇은 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jongi"
+    }
   },
   {
     "id": "ko_7077",
@@ -15288,7 +16944,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "즐겁고 유쾌한 느낌이나 기분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jaemi"
+    }
   },
   {
     "id": "ko_4663",
@@ -15315,7 +16974,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "쌀이나 다른 곡물 가루로 만든 한국의 전통 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "tteok"
+    }
   },
   {
     "id": "ko_4105",
@@ -15343,7 +17005,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "끝내다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kkeutnaeda"
+    }
   },
   {
     "id": "ko_4427",
@@ -15370,7 +17035,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "질문이나 부름에 대한 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daedap"
+    }
   },
   {
     "id": "ko_5980",
@@ -15397,7 +17065,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 행동이 처음으로 이루어지는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sijak"
+    }
   },
   {
     "id": "ko_6905",
@@ -15424,7 +17095,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "7일 동안의 기간을 이르는 말이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "iljuil"
+    }
   },
   {
     "id": "ko_7756",
@@ -15451,7 +17125,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음악에 맞춰 몸을 움직이는 동작."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chum"
+    }
   },
   {
     "id": "ko_4607",
@@ -15479,7 +17156,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "드리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "deurida"
+    }
   },
   {
     "id": "ko_4053",
@@ -15504,6 +17184,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "더러운 것이 없이 아주 맑고 흠이 없다."
+    },
+    "reading": {
+      "ko": "kkaekkeuthada"
     }
   },
   {
@@ -15532,7 +17215,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "물어보다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "muleoboda"
+    }
   },
   {
     "id": "ko_4985",
@@ -15557,6 +17243,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "잘못한 일에 대해 마음이 편치 않고 부끄러운 감정을 느끼다."
+    },
+    "reading": {
+      "ko": "mianhada"
     }
   },
   {
@@ -15584,7 +17273,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어려운 일이나 상황 때문에 생기는 마음의 부담감."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seuteureseu"
+    }
   },
   {
     "id": "ko_3733",
@@ -15611,7 +17303,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "나무에서 열리는 달콤하고 맛있는 열매."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwail"
+    }
   },
   {
     "id": "ko_5976",
@@ -15638,7 +17333,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 열 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "siwol"
+    }
   },
   {
     "id": "ko_5041",
@@ -15665,7 +17363,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "옛날 물건이나 예술품 등을 모아 전시하는 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bakmulgwan"
+    }
   },
   {
     "id": "ko_7988",
@@ -15692,7 +17393,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 중 여덟 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "palwol"
+    }
   },
   {
     "id": "ko_3388",
@@ -15719,7 +17423,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 넣어 가지고 다니는 주머니"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gabang"
+    }
   },
   {
     "id": "ko_3901",
@@ -15746,7 +17453,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식이나 물건을 담는 데 쓰는 용기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geureut"
+    }
   },
   {
     "id": "ko_3497",
@@ -15773,7 +17483,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람과 친하게 지내는 동물로, 짖는 소리를 낸다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gae"
+    }
   },
   {
     "id": "ko_4699",
@@ -15800,7 +17513,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소리 방송을 듣는 데 사용하는 전자 기기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "radio"
+    }
   },
   {
     "id": "ko_5139",
@@ -15827,7 +17543,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 수업을 쉬는 기간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "banghak"
+    }
   },
   {
     "id": "ko_4168",
@@ -15854,7 +17573,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 뜨는 동쪽을 기준으로 오른쪽 방향."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namjjok"
+    }
   },
   {
     "id": "ko_5614",
@@ -15881,7 +17603,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물체가 가지고 있는 여러 가지 빛깔."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saekkkal"
+    }
   },
   {
     "id": "ko_6587",
@@ -15908,7 +17633,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 만드는 일이나 만들어진 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yori"
+    }
   },
   {
     "id": "ko_6699",
@@ -15933,6 +17661,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "많은 사람에게 널리 알려져 있다."
+    },
+    "reading": {
+      "ko": "yumyeonghada"
     }
   },
   {
@@ -15960,7 +17691,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 나라에서 온 사람"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oegukin"
+    }
   },
   {
     "id": "ko_5321",
@@ -15987,7 +17721,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남의 아내를 높여 부르거나 자기 아내를 겸손하게 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "buin"
+    }
   },
   {
     "id": "ko_4678",
@@ -16015,7 +17752,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "뛰다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ttwida"
+    }
   },
   {
     "id": "ko_5888",
@@ -16042,7 +17782,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 학생들에게 집에서 하도록 내주는 공부."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sukje"
+    }
   },
   {
     "id": "ko_6612",
@@ -16069,7 +17812,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "비나 햇빛을 가리기 위해 쓰는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "usan"
+    }
   },
   {
     "id": "ko_7442",
@@ -16096,7 +17842,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바로 전에 지나간 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jinandal"
+    }
   },
   {
     "id": "ko_7627",
@@ -16123,7 +17872,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "공부하거나 일을 할 때 쓰는 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chaeksang"
+    }
   },
   {
     "id": "ko_7758",
@@ -16148,6 +17900,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 낮아서 몸이 차갑게 느껴지는 상태."
+    },
+    "reading": {
+      "ko": "chupda"
     }
   },
   {
@@ -16173,6 +17928,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "물체의 무게가 많이 나가다."
+    },
+    "reading": {
+      "ko": "mugeopda"
     }
   },
   {
@@ -16200,7 +17958,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "잠을 자기 위해 방에 놓는 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chimdae"
+    }
   },
   {
     "id": "ko_5946",
@@ -16227,7 +17988,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "시간을 알려주는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sigye"
+    }
   },
   {
     "id": "ko_6950",
@@ -16254,7 +18018,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "식물의 줄기나 가지에 붙어 있는 납작하고 푸른 부분."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ip"
+    }
   },
   {
     "id": "ko_5930",
@@ -16281,7 +18048,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸을 움직여 건강을 지키거나 즐거움을 얻는 활동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seupocheu"
+    }
   },
   {
     "id": "ko_3797",
@@ -16308,7 +18078,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기독교인들이 모여 예배를 드리는 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyohoe"
+    }
   },
   {
     "id": "ko_8282",
@@ -16335,7 +18108,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이나 사람 때문에 마음이 불쾌하고 성나는 감정."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hwa"
+    }
   },
   {
     "id": "ko_6898",
@@ -16362,7 +18138,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 해의 첫 번째 달이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ilwol"
+    }
   },
   {
     "id": "ko_4498",
@@ -16389,7 +18168,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "책을 빌리거나 읽을 수 있도록 많은 책을 모아둔 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "doseogwan"
+    }
   },
   {
     "id": "ko_5672",
@@ -16416,7 +18198,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람에게 고마움이나 축하의 마음을 표현하기 위해 주는 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seonmul"
+    }
   },
   {
     "id": "ko_6166",
@@ -16443,7 +18228,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "결혼한 여자를 부르거나 나이가 많은 여자를 친근하게 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ajumeoni"
+    }
   },
   {
     "id": "ko_6687",
@@ -16470,7 +18258,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해롭거나 좋지 않은 일이 생길 가능성이 있는 상태"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "wiheom"
+    }
   },
   {
     "id": "ko_7486",
@@ -16497,7 +18288,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "땅 아래에 있는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jiha"
+    }
   },
   {
     "id": "ko_7488",
@@ -16524,7 +18318,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "도시에서 땅속으로 다니는 기차."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jihacheol"
+    }
   },
   {
     "id": "ko_5499",
@@ -16551,7 +18348,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "회사나 기관에서 사무를 보는 방."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "samusil"
+    }
   },
   {
     "id": "ko_6816",
@@ -16578,7 +18378,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년 열두 달 중에서 두 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "iwol"
+    }
   },
   {
     "id": "ko_6897",
@@ -16605,7 +18408,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 주의 마지막 날로 쉬는 날이다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ilyoil"
+    }
   },
   {
     "id": "ko_3471",
@@ -16632,7 +18438,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물이 흐르는 크고 긴 자연적인 길."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gang"
+    }
   },
   {
     "id": "ko_5422",
@@ -16657,6 +18466,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "물건의 가격이나 비용이 보통보다 높다."
+    },
+    "reading": {
+      "ko": "bissada"
     }
   },
   {
@@ -16684,7 +18496,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸의 중심에서 왼편에 해당하는 방향."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oenjjok"
+    }
   },
   {
     "id": "ko_7891",
@@ -16711,7 +18526,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 내고 원하는 곳까지 탈 수 있는 자동차"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "taeksi"
+    }
   },
   {
     "id": "ko_5975",
@@ -16736,6 +18554,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "덥지 않고 상쾌한 느낌이 들거나 답답함이 풀려 마음이 후련하다."
+    },
+    "reading": {
+      "ko": "siwonhada"
     }
   },
   {
@@ -16764,7 +18585,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "않다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "anda"
+    }
   },
   {
     "id": "ko_7041",
@@ -16791,7 +18615,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 글과 그림을 모아 정기적으로 발행하는 책."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "japji"
+    }
   },
   {
     "id": "ko_4467",
@@ -16818,7 +18645,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "다른 사람의 집을 높여 부르는 말"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daek"
+    }
   },
   {
     "id": "ko_5048",
@@ -16843,6 +18673,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 소식을 만나거나 듣게 되어 마음이 즐겁고 기쁘다."
+    },
+    "reading": {
+      "ko": "bangapda"
     }
   },
   {
@@ -16871,7 +18704,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "다녀오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "danyeooda"
+    }
   },
   {
     "id": "ko_5410",
@@ -16898,7 +18734,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "움직이는 영상이나 소리를 기록하거나 재생하는 장치 또는 영상물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bidio"
+    }
   },
   {
     "id": "ko_6406",
@@ -16925,7 +18764,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 기술이나 능력을 익히기 위해 반복하여 훈련하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeonseup"
+    }
   },
   {
     "id": "ko_6505",
@@ -16952,7 +18794,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸의 중심에서 오른편에 해당하는 방향."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oreunjjok"
+    }
   },
   {
     "id": "ko_7451",
@@ -16979,7 +18824,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "땅의 모양이나 위치 등을 그림으로 나타낸 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jido"
+    }
   },
   {
     "id": "ko_8292",
@@ -17006,7 +18854,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "용변을 보거나 몸을 씻는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hwajangsil"
+    }
   },
   {
     "id": "ko_7337",
@@ -17033,7 +18884,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 주일의 마지막인 토요일과 일요일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jumal"
+    }
   },
   {
     "id": "ko_4184",
@@ -17060,7 +18914,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금으로부터 다음 해."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "naenyeon"
+    }
   },
   {
     "id": "ko_4461",
@@ -17087,7 +18944,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대학교에 다니면서 공부하는 학생"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daehaksaeng"
+    }
   },
   {
     "id": "ko_4369",
@@ -17115,7 +18975,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "닫다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "datda"
+    }
   },
   {
     "id": "ko_5636",
@@ -17142,7 +19005,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람이 태어난 날을 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saengil"
+    }
   },
   {
     "id": "ko_3560",
@@ -17170,7 +19036,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "걸어가다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geoleogada"
+    }
   },
   {
     "id": "ko_5163",
@@ -17197,7 +19066,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 종류의 상품을 파는 크고 높은 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "baekhwajeom"
+    }
   },
   {
     "id": "ko_6184",
@@ -17222,6 +19094,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 편안하고 아무 탈 없이 지내다."
+    },
+    "reading": {
+      "ko": "annyeonghada"
     }
   },
   {
@@ -17250,7 +19125,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "출발하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chulbalhada"
+    }
   },
   {
     "id": "ko_3662",
@@ -17277,7 +19155,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "집에서 기르며 사람과 함께 사는 작은 동물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "goyangi"
+    }
   },
   {
     "id": "ko_7412",
@@ -17304,7 +19185,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "초등학교를 졸업한 학생들이 다니는 교육 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "junghakgyo"
+    }
   },
   {
     "id": "ko_8393",
@@ -17331,7 +19215,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "눈처럼 밝고 깨끗한 색."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "huinsaek"
+    }
   },
   {
     "id": "ko_3392",
@@ -17358,7 +19245,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "노래를 직업으로 하는 사람"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gasu"
+    }
   },
   {
     "id": "ko_6244",
@@ -17385,7 +19275,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "정확한 수치가 아닌 대략적인 수량이나 정도."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yak"
+    }
   },
   {
     "id": "ko_7607",
@@ -17412,7 +19305,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "건물 벽에 빛이나 공기가 들어오도록 만든 구멍."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "changmun"
+    }
   },
   {
     "id": "ko_6619",
@@ -17439,7 +19335,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소의 젖을 짜서 마시는 하얀 액체."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "uyu"
+    }
   },
   {
     "id": "ko_8039",
@@ -17466,7 +19365,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기차나 영화 등을 이용할 수 있는 종이 조각."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pyo"
+    }
   },
   {
     "id": "ko_6098",
@@ -17493,7 +19395,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 해의 열한 번째 달."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sipilwol"
+    }
   },
   {
     "id": "ko_3523",
@@ -17520,7 +19425,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물체의 모습을 비추어 볼 수 있게 만든 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geoul"
+    }
   },
   {
     "id": "ko_5459",
@@ -17547,7 +19455,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밀가루를 반죽하여 발효시킨 후 구워 만든 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ppang"
+    }
   },
   {
     "id": "ko_6689",
@@ -17572,6 +19483,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "해롭거나 좋지 않은 일이 생길 가능성이 많다"
+    },
+    "reading": {
+      "ko": "wiheomhada"
     }
   },
   {
@@ -17600,7 +19514,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "졸업하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "joleophada"
+    }
   },
   {
     "id": "ko_5319",
@@ -17627,7 +19544,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 만들고 조리하는 공간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bueok"
+    }
   },
   {
     "id": "ko_5344",
@@ -17654,7 +19574,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "동서남북 네 방위 중 남쪽의 반대 방향."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bukjjok"
+    }
   },
   {
     "id": "ko_5839",
@@ -17681,7 +19604,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소의 고기를 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "soegogi"
+    }
   },
   {
     "id": "ko_7330",
@@ -17708,7 +19634,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "7일로 이루어진 시간의 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ju"
+    }
   },
   {
     "id": "ko_7804",
@@ -17735,7 +19664,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 내거나 게임을 할 때 사용하는 종이나 플라스틱 조각."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kadeu"
+    }
   },
   {
     "id": "ko_4361",
@@ -17762,7 +19694,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "뜻을 가지고 홀로 쓰이거나 문장을 이루는 말의 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daneo"
+    }
   },
   {
     "id": "ko_4502",
@@ -17790,7 +19725,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "도와주다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "dowajuda"
+    }
   },
   {
     "id": "ko_6026",
@@ -17817,7 +19755,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "발을 보호하고 꾸미기 위해 발에 신는 물건."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sinbal"
+    }
   },
   {
     "id": "ko_4038",
@@ -17844,7 +19785,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "배추나 무 등을 소금에 절여 양념에 버무려 만든 한국의 대표적인 발효 음식"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gimchi"
+    }
   },
   {
     "id": "ko_4146",
@@ -17872,7 +19816,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "날다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "nalda"
+    }
   },
   {
     "id": "ko_5702",
@@ -17899,7 +19846,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "단맛을 내는 흰색 가루로 음식에 넣어 먹는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seoltang"
+    }
   },
   {
     "id": "ko_6103",
@@ -17924,6 +19874,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "물건의 가격이 비싸지 않고 저렴한."
+    },
+    "reading": {
+      "ko": "ssada"
     }
   },
   {
@@ -17951,7 +19904,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "오늘보다 바로 앞선 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eoje"
+    }
   },
   {
     "id": "ko_7186",
@@ -17978,7 +19934,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하루 중 낮에 먹는 끼니."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeomsim"
+    }
   },
   {
     "id": "ko_7810",
@@ -18005,7 +19964,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 자르거나 물건을 깎을 때 사용하는 날카로운 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kal"
+    }
   },
   {
     "id": "ko_5932",
@@ -18030,6 +19992,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "마음이 아프고 괴로운 감정이 들다."
+    },
+    "reading": {
+      "ko": "seulpeuda"
     }
   },
   {
@@ -18057,7 +20022,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "앉을 수 있도록 만든 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "uija"
+    }
   },
   {
     "id": "ko_7806",
@@ -18084,7 +20052,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사진이나 동영상을 찍을 때 사용하는 기계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kamera"
+    }
   },
   {
     "id": "ko_7917",
@@ -18111,7 +20082,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일주일 중 금요일 다음 날이자 일요일 전날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "toyoil"
+    }
   },
   {
     "id": "ko_3614",
@@ -18138,7 +20112,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "경찰 기관에서 일하는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeongchalgwan"
+    }
   },
   {
     "id": "ko_3920",
@@ -18165,7 +20142,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "연극이나 영화를 볼 수 있는 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geukjang"
+    }
   },
   {
     "id": "ko_6498",
@@ -18192,7 +20172,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 있은 후 시간이 많이 흐른 동안."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oraenman"
+    }
   },
   {
     "id": "ko_6167",
@@ -18219,7 +20202,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "(비격식) 결혼한 여자를 친근하게 부르거나 나이 든 여자를 낮춰 부르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ajumma"
+    }
   },
   {
     "id": "ko_7719",
@@ -18247,7 +20233,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "추다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chuda"
+    }
   },
   {
     "id": "ko_7827",
@@ -18275,7 +20264,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "켜다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kyeoda"
+    }
   },
   {
     "id": "ko_3726",
@@ -18302,7 +20294,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "비행기가 뜨고 내리는 시설이 있는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gonghang"
+    }
   },
   {
     "id": "ko_3854",
@@ -18329,7 +20324,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "군대에 소속되어 나라를 지키는 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gunin"
+    }
   },
   {
     "id": "ko_7780",
@@ -18356,7 +20354,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "허리부터 다리까지 덮는 여성 의류."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chima"
+    }
   },
   {
     "id": "ko_8273",
@@ -18383,7 +20384,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈을 내고 잠을 자거나 쉴 수 있는 큰 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hotel"
+    }
   },
   {
     "id": "ko_4048",
@@ -18411,7 +20415,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "깎다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kkakda"
+    }
   },
   {
     "id": "ko_7655",
@@ -18438,7 +20445,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "더러운 곳을 깨끗하게 만드는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheongso"
+    }
   },
   {
     "id": "ko_3535",
@@ -18466,7 +20476,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "걱정하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geokjeonghada"
+    }
   },
   {
     "id": "ko_3804",
@@ -18493,7 +20506,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하늘에 떠 있는 물방울이나 얼음 알갱이의 덩어리."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gureum"
+    }
   },
   {
     "id": "ko_4091",
@@ -18521,7 +20537,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "끄다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "kkeuda"
+    }
   },
   {
     "id": "ko_3632",
@@ -18548,7 +20567,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일 년을 기후에 따라 나눈 시기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyejeol"
+    }
   },
   {
     "id": "ko_6628",
@@ -18575,7 +20597,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교나 공원에서 운동 경기를 하거나 뛰어노는 넓은 마당."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "undongjang"
+    }
   },
   {
     "id": "ko_4557",
@@ -18602,7 +20627,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 뜨는 방향"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dongjjok"
+    }
   },
   {
     "id": "ko_7028",
@@ -18629,7 +20657,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "매우 짧은 동안의 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jamkkan"
+    }
   },
   {
     "id": "ko_6593",
@@ -18656,7 +20687,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "지금으로부터 그리 멀지 않은 지난날부터 현재까지의 기간"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yojeueum"
+    }
   },
   {
     "id": "ko_6916",
@@ -18684,7 +20718,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잃어버리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "ileobeorida"
+    }
   },
   {
     "id": "ko_7290",
@@ -18709,6 +20746,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "소리가 나지 않거나 시끄럽지 않다."
+    },
+    "reading": {
+      "ko": "joyonghada"
     }
   },
   {
@@ -18736,7 +20776,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국의 고유한 전통 의상."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanbok"
+    }
   },
   {
     "id": "ko_4700",
@@ -18763,7 +20806,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "국물에 면을 넣어 끓여 먹는 인스턴트 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ramyeon"
+    }
   },
   {
     "id": "ko_5036",
@@ -18790,7 +20836,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "허리부터 다리까지 덮는 옷."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "baji"
+    }
   },
   {
     "id": "ko_6084",
@@ -18818,7 +20867,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "싫어하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sileohada"
+    }
   },
   {
     "id": "ko_7906",
@@ -18845,7 +20897,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 놓거나 음식을 먹을 때 사용하는 평평한 판과 다리로 이루어진 가구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "teibeul"
+    }
   },
   {
     "id": "ko_8070",
@@ -18870,6 +20925,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 지쳐서 쉬고 싶은 느낌이 들다."
+    },
+    "reading": {
+      "ko": "pigonhada"
     }
   },
   {
@@ -18897,7 +20955,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "중국에서 만들어진 글자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hanja"
+    }
   },
   {
     "id": "ko_5942",
@@ -18924,7 +20985,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "많은 사람이 모여 사는 크고 번화한 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "si"
+    }
   },
   {
     "id": "ko_6177",
@@ -18951,7 +21015,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "시력이 좋지 않거나 눈을 보호하기 위해 쓰는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "angyeong"
+    }
   },
   {
     "id": "ko_6249",
@@ -18979,7 +21046,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "약속하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yaksokhada"
+    }
   },
   {
     "id": "ko_7765",
@@ -19006,7 +21076,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여가 시간에 즐거움을 얻기 위해 반복적으로 하는 활동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chwimi"
+    }
   },
   {
     "id": "ko_4478",
@@ -19031,6 +21104,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 높아서 몸이 뜨겁게 느껴지다."
+    },
+    "reading": {
+      "ko": "deopda"
     }
   },
   {
@@ -19058,7 +21134,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "두 팀이 방망이와 공을 사용하여 점수를 내는 운동 경기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yagu"
+    }
   },
   {
     "id": "ko_6761",
@@ -19085,7 +21164,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "입 안에 있는, 음식을 씹는 데 쓰는 뼈."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "i"
+    }
   },
   {
     "id": "ko_3800",
@@ -19112,7 +21194,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "흥미로운 것을 보거나 경치를 즐기는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gugyeong"
+    }
   },
   {
     "id": "ko_6021",
@@ -19140,7 +21225,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "신다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "sinda"
+    }
   },
   {
     "id": "ko_7328",
@@ -19165,6 +21253,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 잘못을 저질러 미안한 마음이 들다."
+    },
+    "reading": {
+      "ko": "joesonghada"
     }
   },
   {
@@ -19193,7 +21284,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "크다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "keuda"
+    }
   },
   {
     "id": "ko_5634",
@@ -19220,7 +21314,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "먹기 위해 잡은 물고기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saengseon"
+    }
   },
   {
     "id": "ko_7469",
@@ -19248,7 +21345,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "지우다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jiuda"
+    }
   },
   {
     "id": "ko_7305",
@@ -19275,7 +21375,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 정해진 교육 과정을 모두 마침."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "joleop"
+    }
   },
   {
     "id": "ko_4387",
@@ -19302,7 +21405,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날개가 있지만 잘 날지 못하고 알을 낳는 새."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dak"
+    }
   },
   {
     "id": "ko_4811",
@@ -19329,7 +21435,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "보리 등을 발효시켜 만든 술의 한 종류."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maekju"
+    }
   },
   {
     "id": "ko_3773",
@@ -19356,7 +21465,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에서 학생들을 가르치기 위해 사용하는 책."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyogwaseo"
+    }
   },
   {
     "id": "ko_4562",
@@ -19383,7 +21495,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸이 뚱뚱하고 코가 납작한 가축"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dwaeji"
+    }
   },
   {
     "id": "ko_5863",
@@ -19410,7 +21525,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물속에서 팔다리를 움직여 몸을 앞으로 나아가게 하는 운동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "suyeong"
+    }
   },
   {
     "id": "ko_6948",
@@ -19438,7 +21556,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잊어버리다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "iteobeorida"
+    }
   },
   {
     "id": "ko_4012",
@@ -19465,7 +21586,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "많은 사람이나 짐을 싣고 철로 위를 달리는 교통수단."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gicha"
+    }
   },
   {
     "id": "ko_6010",
@@ -19492,7 +21616,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "식사를 할 때 음식을 놓고 사용하는 탁자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "siktak"
+    }
   },
   {
     "id": "ko_3714",
@@ -19519,7 +21646,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 쉬거나 운동할 수 있도록 꾸며 놓은 넓은 장소."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gongwon"
+    }
   },
   {
     "id": "ko_6186",
@@ -19547,7 +21677,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "안되다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "andoeda"
+    }
   },
   {
     "id": "ko_4153",
@@ -19574,7 +21707,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "특정한 날을 가리키는 숫자나 표현."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "naljja"
+    }
   },
   {
     "id": "ko_5617",
@@ -19601,7 +21737,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빵 사이에 고기나 채소 등을 넣어 만든 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "saendeuwichi"
+    }
   },
   {
     "id": "ko_3566",
@@ -19628,7 +21767,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빛깔이 숯처럼 아주 어두운 색."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geomeunsaek"
+    }
   },
   {
     "id": "ko_5661",
@@ -19655,7 +21797,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "해가 지는 쪽의 방향."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seojjok"
+    }
   },
   {
     "id": "ko_3615",
@@ -19682,7 +21827,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "경찰관들이 근무하는 건물이나 사무실."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeongchalseo"
+    }
   },
   {
     "id": "ko_3802",
@@ -19709,7 +21857,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "가죽으로 만들고 정장과 함께 신는 신발."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gudu"
+    }
   },
   {
     "id": "ko_5479",
@@ -19736,7 +21887,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "둥글고 붉거나 푸른색을 띠는 달콤한 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sagwa"
+    }
   },
   {
     "id": "ko_6369",
@@ -19763,7 +21917,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에 다니는 여성 학생."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeohaksaeng"
+    }
   },
   {
     "id": "ko_4213",
@@ -19790,7 +21947,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식이나 음료를 차갑게 보관하는 가전제품."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "naengjanggo"
+    }
   },
   {
     "id": "ko_3446",
@@ -19817,7 +21977,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "코막힘, 기침, 열 등이 나는 병."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gamgi"
+    }
   },
   {
     "id": "ko_3596",
@@ -19844,7 +22007,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "남자와 여자가 부부가 되는 것을 축하하는 의식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeolhonsik"
+    }
   },
   {
     "id": "ko_4238",
@@ -19872,7 +22038,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "노래하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "noraehada"
+    }
   },
   {
     "id": "ko_4317",
@@ -19900,7 +22069,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "늦다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "neutda"
+    }
   },
   {
     "id": "ko_6415",
@@ -19927,7 +22099,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 때 사용하는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeonpil"
+    }
   },
   {
     "id": "ko_6634",
@@ -19954,7 +22129,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자동차나 기차 등을 움직여 목적지까지 가는 행위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "unjeon"
+    }
   },
   {
     "id": "ko_5363",
@@ -19981,7 +22159,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "얇게 썬 소고기를 양념하여 구워 먹는 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bulgogi"
+    }
   },
   {
     "id": "ko_4887",
@@ -20008,7 +22189,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸을 깨끗하게 씻는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mokyok"
+    }
   },
   {
     "id": "ko_7167",
@@ -20035,7 +22219,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "전화를 걸 때 사용하는 고유한 숫자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeonhwabeonho"
+    }
   },
   {
     "id": "ko_3454",
@@ -20060,6 +22247,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "고마운 마음을 가지고 있다."
+    },
+    "reading": {
+      "ko": "gamsahada"
     }
   },
   {
@@ -20087,7 +22277,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돈이나 카드 등을 넣어 가지고 다니는 작은 주머니."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jigap"
+    }
   },
   {
     "id": "ko_7788",
@@ -20112,6 +22305,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "남을 대하는 태도가 상냥하고 부드러운 성질이 있다."
+    },
+    "reading": {
+      "ko": "chinjeolhada"
     }
   },
   {
@@ -20137,6 +22333,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "어떤 일의 수준이나 정도가 보통보다 낮거나 좋지 않다."
+    },
+    "reading": {
+      "ko": "mothada"
     }
   },
   {
@@ -20165,7 +22364,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "걸어오다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "geoleooda"
+    }
   },
   {
     "id": "ko_4874",
@@ -20192,7 +22394,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "햇빛이나 추위 등을 막기 위해 머리에 쓰는 물건"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "moja"
+    }
   },
   {
     "id": "ko_5794",
@@ -20219,7 +22424,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 사람이 앉을 수 있도록 길게 만든 의자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sopa"
+    }
   },
   {
     "id": "ko_6374",
@@ -20246,7 +22454,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기차나 지하철, 버스 등이 서는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeok"
+    }
   },
   {
     "id": "ko_6854",
@@ -20274,7 +22485,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "인사하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "insahada"
+    }
   },
   {
     "id": "ko_6350",
@@ -20301,7 +22515,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "외국 여행을 할 때 신분을 증명하는 공식 문서"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeogwon"
+    }
   },
   {
     "id": "ko_6424",
@@ -20328,7 +22545,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자물쇠를 잠그거나 여는 데 쓰는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeolsoe"
+    }
   },
   {
     "id": "ko_6500",
@@ -20355,7 +22575,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "껍질이 주황색이고 달콤한 맛이 나는 둥근 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "orenji"
+    }
   },
   {
     "id": "ko_4320",
@@ -20382,7 +22605,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 범위 안에 있는 모든 것이나 전부."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "da"
+    }
   },
   {
     "id": "ko_5180",
@@ -20409,7 +22635,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "순서나 대상을 구별하기 위해 붙이는 숫자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "beonho"
+    }
   },
   {
     "id": "ko_5857",
@@ -20436,7 +22665,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여름에 먹는 크고 둥근 모양의 달콤한 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "subak"
+    }
   },
   {
     "id": "ko_3734",
@@ -20463,7 +22695,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밀가루나 설탕 등으로 만들어 간식으로 먹는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gwaja"
+    }
   },
   {
     "id": "ko_4459",
@@ -20490,7 +22725,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "고등학교를 졸업한 학생들이 전문적인 지식을 배우는 교육 기관"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daehakgyo"
+    }
   },
   {
     "id": "ko_4563",
@@ -20517,7 +22755,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "돼지의 살을 식용으로 쓰는 고기"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dwaejigogi"
+    }
   },
   {
     "id": "ko_7168",
@@ -20545,7 +22786,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "전화하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jeonhwahada"
+    }
   },
   {
     "id": "ko_5843",
@@ -20572,7 +22816,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물기를 닦거나 몸을 씻을 때 쓰는 천."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sugeon"
+    }
   },
   {
     "id": "ko_6267",
@@ -20599,7 +22846,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "서양식으로 만든 정장 옷으로, 주로 남자가 입는 옷입니다."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yangbok"
+    }
   },
   {
     "id": "ko_7034",
@@ -20627,7 +22877,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잠자다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jamjada"
+    }
   },
   {
     "id": "ko_7197",
@@ -20654,7 +22907,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 집어 먹을 때 사용하는 두 개의 막대기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeotgarak"
+    }
   },
   {
     "id": "ko_8078",
@@ -20681,7 +22937,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "건반을 눌러 소리를 내는 서양 악기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "piano"
+    }
   },
   {
     "id": "ko_7734",
@@ -20709,7 +22968,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "축하하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chukhahada"
+    }
   },
   {
     "id": "ko_3991",
@@ -20736,7 +22998,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교나 회사에서 학생들이나 직원들이 함께 생활하는 건물."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gisuksa"
+    }
   },
   {
     "id": "ko_5547",
@@ -20763,7 +23028,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "건강이나 기분 전환을 위해 가볍게 걷는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sanchaek"
+    }
   },
   {
     "id": "ko_6629",
@@ -20791,7 +23059,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "운동하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "undonghada"
+    }
   },
   {
     "id": "ko_6665",
@@ -20818,7 +23089,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일요일 다음으로 오는 한 주의 첫째 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "wolyoil"
+    }
   },
   {
     "id": "ko_7348",
@@ -20845,7 +23119,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "집이나 건물이 있는 위치를 나타내는 정보"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "juso"
+    }
   },
   {
     "id": "ko_7976",
@@ -20872,7 +23149,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 사람이 모여 즐겁게 시간을 보내는 모임."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pati"
+    }
   },
   {
     "id": "ko_4374",
@@ -20897,6 +23177,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "설탕이나 꿀처럼 맛이 좋다."
+    },
+    "reading": {
+      "ko": "dalda"
     }
   },
   {
@@ -20925,7 +23208,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "청소하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "cheongsohada"
+    }
   },
   {
     "id": "ko_3453",
@@ -20953,7 +23239,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "감사하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "gamsahada"
+    }
   },
   {
     "id": "ko_4630",
@@ -20980,7 +23269,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "산을 오르내리는 운동이나 활동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "deungsan"
+    }
   },
   {
     "id": "ko_4835",
@@ -21007,7 +23299,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "식당에서 손님에게 제공하는 음식의 종류와 가격을 적어 놓은 목록."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "menyu"
+    }
   },
   {
     "id": "ko_6562",
@@ -21034,7 +23329,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자기 나라의 말이 아닌 다른 나라의 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oegukeo"
+    }
   },
   {
     "id": "ko_6990",
@@ -21061,7 +23359,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "춘장에 여러 재료를 넣고 볶아 만든 소스를 면에 비벼 먹는 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jajangmyeon"
+    }
   },
   {
     "id": "ko_7413",
@@ -21088,7 +23389,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "중학교에서 공부하는 학생."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "junghaksaeng"
+    }
   },
   {
     "id": "ko_8362",
@@ -21115,7 +23419,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일하지 않고 쉬는 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyuil"
+    }
   },
   {
     "id": "ko_4381",
@@ -21142,7 +23449,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날짜, 요일, 기념일 등을 알 수 있게 만든 표."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dalryeok"
+    }
   },
   {
     "id": "ko_5796",
@@ -21169,7 +23479,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "기분 전환이나 놀이를 위해 야외로 나가는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sopung"
+    }
   },
   {
     "id": "ko_7757",
@@ -21197,7 +23510,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "춤추다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chumchuda"
+    }
   },
   {
     "id": "ko_7902",
@@ -21224,7 +23540,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "라켓으로 공을 쳐서 네트를 넘기는 운동"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "teniseu"
+    }
   },
   {
     "id": "ko_3720",
@@ -21251,7 +23570,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 수 있도록 만든 종이 묶음."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gongchaek"
+    }
   },
   {
     "id": "ko_5660",
@@ -21278,7 +23600,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "책을 파는 가게를 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seojeom"
+    }
   },
   {
     "id": "ko_6263",
@@ -21305,7 +23630,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "발에 신어 발을 보호하고 따뜻하게 하는 옷."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yangmal"
+    }
   },
   {
     "id": "ko_7675",
@@ -21333,7 +23661,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "초대하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "chodaehada"
+    }
   },
   {
     "id": "ko_6407",
@@ -21361,7 +23692,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "연습하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yeonseuphada"
+    }
   },
   {
     "id": "ko_3616",
@@ -21388,7 +23722,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자연이나 주변 환경이 눈에 보이는 모습."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeongchi"
+    }
   },
   {
     "id": "ko_5091",
@@ -21415,7 +23752,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글자나 단어를 소리 내어 말하는 방식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "baleum"
+    }
   },
   {
     "id": "ko_7078",
@@ -21440,6 +23780,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "흥미나 즐거움을 느끼지 못하고 지루하다."
+    },
+    "reading": {
+      "ko": "jaemieopda"
     }
   },
   {
@@ -21467,7 +23810,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "과일이나 채소를 짜서 만든 음료"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "juseu"
+    }
   },
   {
     "id": "ko_7841",
@@ -21494,7 +23840,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "달콤하고 톡 쏘는 맛이 나는 검은색 탄산음료."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "kolra"
+    }
   },
   {
     "id": "ko_4170",
@@ -21521,7 +23870,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교에 다니는 남자 학생."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namhaksaeng"
+    }
   },
   {
     "id": "ko_6005",
@@ -21549,7 +23901,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "식사하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "siksahada"
+    }
   },
   {
     "id": "ko_6622",
@@ -21576,7 +23931,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "편지나 소포를 보내거나 받을 수 있는 국가 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ucheguk"
+    }
   },
   {
     "id": "ko_3674",
@@ -21601,6 +23959,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "배가 비어 음식을 먹고 싶은 느낌이 있다."
+    },
+    "reading": {
+      "ko": "gopeuda"
     }
   },
   {
@@ -21628,7 +23989,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대사가 근무하며 외교 업무를 보는 기관."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "daesagwan"
+    }
   },
   {
     "id": "ko_5146",
@@ -21653,6 +24017,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "밥을 먹고 싶은 느낌이 들다."
+    },
+    "reading": {
+      "ko": "baegopeuda"
     }
   },
   {
@@ -21681,7 +24048,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "여행하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yeohaenghada"
+    }
   },
   {
     "id": "ko_7206",
@@ -21708,7 +24078,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "버스나 기차가 서는 곳."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeongryujang"
+    }
   },
   {
     "id": "ko_4812",
@@ -21733,6 +24106,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "고추나 후추처럼 혀를 자극하여 화끈거리는 맛이 있다."
+    },
+    "reading": {
+      "ko": "maepda"
     }
   },
   {
@@ -21760,7 +24136,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자기보다 나이가 어린 여자 형제"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yeodongsaeng"
+    }
   },
   {
     "id": "ko_6494",
@@ -21787,7 +24166,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 일이 있은 후 시간이 많이 흐른 동안."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "oraeganman"
+    }
   },
   {
     "id": "ko_7188",
@@ -21814,7 +24196,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "점심을 먹기 위해 정해진 시간."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jeomsimsigan"
+    }
   },
   {
     "id": "ko_8363",
@@ -21841,7 +24226,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "코를 풀거나 더러운 것을 닦을 때 쓰는 얇은 종이."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyuji"
+    }
   },
   {
     "id": "ko_7882",
@@ -21868,7 +24256,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한국의 전통 무술이자 스포츠."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "taegwondo"
+    }
   },
   {
     "id": "ko_8206",
@@ -21895,7 +24286,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빵 사이에 고기 패티와 채소 등을 넣어 만든 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haembeogeo"
+    }
   },
   {
     "id": "ko_3452",
@@ -21922,7 +24316,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "고마움을 느끼는 마음이나 그 표현."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gamsa"
+    }
   },
   {
     "id": "ko_5913",
@@ -21949,7 +24346,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "식료품과 여러 생활용품을 파는 큰 상점."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "syupeomaket"
+    }
   },
   {
     "id": "ko_5405",
@@ -21976,7 +24376,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸이나 물건을 씻을 때 쓰는 세정제."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "binu"
+    }
   },
   {
     "id": "ko_5738",
@@ -22003,7 +24406,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "얼굴을 물로 씻는 행위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sesu"
+    }
   },
   {
     "id": "ko_7560",
@@ -22030,7 +24436,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "국보다 건더기가 많고 국물이 적은 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jjigae"
+    }
   },
   {
     "id": "ko_4230",
@@ -22057,7 +24466,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "양복 셔츠의 목 부분에 매는 긴 천 조각."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "nektai"
+    }
   },
   {
     "id": "ko_4806",
@@ -22084,7 +24496,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "날마다 돌아오는 모든 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "maeil"
+    }
   },
   {
     "id": "ko_7038",
@@ -22112,7 +24527,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "잡수시다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "japsusida"
+    }
   },
   {
     "id": "ko_8136",
@@ -22139,7 +24557,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "대한민국 사람들이 사용하는 언어를 일상적으로 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hangukmal"
+    }
   },
   {
     "id": "ko_3623",
@@ -22166,7 +24587,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "닭이 낳는, 껍데기가 있는 둥근 알."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gyeran"
+    }
   },
   {
     "id": "ko_6340",
@@ -22193,7 +24617,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "실내 온도를 시원하게 조절하는 기계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "eeokeon"
+    }
   },
   {
     "id": "ko_7673",
@@ -22220,7 +24647,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 사람에게 오라고 요청하는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chodae"
+    }
   },
   {
     "id": "ko_5526",
@@ -22247,7 +24677,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "단어의 뜻을 찾아볼 수 있는 책."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sajeon"
+    }
   },
   {
     "id": "ko_6057",
@@ -22274,7 +24707,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "예의에 어긋나거나 무례한 행동."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "silrye"
+    }
   },
   {
     "id": "ko_6246",
@@ -22301,7 +24737,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "약을 팔고 조제하는 가게."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yakguk"
+    }
   },
   {
     "id": "ko_7444",
@@ -22328,7 +24767,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "바로 전에 지나간 주."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jinanju"
+    }
   },
   {
     "id": "ko_3434",
@@ -22355,7 +24797,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "병원에서 아픈 사람을 돌보고 치료를 돕는 직업을 가진 사람."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ganhosa"
+    }
   },
   {
     "id": "ko_3646",
@@ -22382,7 +24827,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "고등학교에 다니는 학생."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "godeunghaksaeng"
+    }
   },
   {
     "id": "ko_4388",
@@ -22409,7 +24857,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "닭의 살을 식용으로 쓰는 고기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dakgogi"
+    }
   },
   {
     "id": "ko_5899",
@@ -22436,7 +24887,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "음식을 떠먹을 때 사용하는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "sutgarak"
+    }
   },
   {
     "id": "ko_6592",
@@ -22463,7 +24917,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일주일의 각 날을 이르는 말"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "yoil"
+    }
   },
   {
     "id": "ko_7524",
@@ -22491,7 +24948,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "질문하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "jilmunhada"
+    }
   },
   {
     "id": "ko_7782",
@@ -22518,7 +24978,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "이를 닦을 때 사용하는 세정제."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chiyak"
+    }
   },
   {
     "id": "ko_3944",
@@ -22545,7 +25008,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "목요일 다음 날이자 토요일 전의 요일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "geumyoil"
+    }
   },
   {
     "id": "ko_4037",
@@ -22572,7 +25038,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "김에 밥과 여러 재료를 넣고 말아서 만든 한국 음식"
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gimbap"
+    }
   },
   {
     "id": "ko_5018",
@@ -22599,7 +25068,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "노란색 껍질을 가진 길고 부드러운 열대 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "banana"
+    }
   },
   {
     "id": "ko_5867",
@@ -22626,7 +25098,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 주의 세 번째 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "suyoil"
+    }
   },
   {
     "id": "ko_6638",
@@ -22654,7 +25129,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "운전하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "unjeonhada"
+    }
   },
   {
     "id": "ko_4244",
@@ -22681,7 +25159,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 수 있는 종이 묶음."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "noteu"
+    }
   },
   {
     "id": "ko_4647",
@@ -22708,7 +25189,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "붉고 달콤한 맛이 나는 작은 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ttalgi"
+    }
   },
   {
     "id": "ko_7693",
@@ -22735,7 +25219,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "카카오 열매로 만든 달콤한 서양 과자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chokolrit"
+    }
   },
   {
     "id": "ko_8080",
@@ -22762,7 +25249,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "밀가루 반죽 위에 토마토소스와 치즈 등을 얹어 구운 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "pija"
+    }
   },
   {
     "id": "ko_4234",
@@ -22789,7 +25279,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "개나리나 병아리 같은 색깔."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "noransaek"
+    }
   },
   {
     "id": "ko_4377",
@@ -22816,7 +25309,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "미국, 캐나다 등 여러 나라에서 사용하는 화폐 단위."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dalreo"
+    }
   },
   {
     "id": "ko_7801",
@@ -22843,7 +25339,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "이를 닦을 때 사용하는 작은 솔."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chitsol"
+    }
   },
   {
     "id": "ko_8026",
@@ -22870,7 +25369,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "둥글고 작은 열매가 송이로 열리는 보라색 또는 초록색 과일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "podo"
+    }
   },
   {
     "id": "ko_3718",
@@ -22897,7 +25399,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "길거리나 공공장소에 설치되어 누구나 사용할 수 있는 전화."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gongjungjeonhwa"
+    }
   },
   {
     "id": "ko_5152",
@@ -22922,6 +25427,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "음식을 많이 먹어서 더 이상 먹을 수 없는 상태."
+    },
+    "reading": {
+      "ko": "baebureuda"
     }
   },
   {
@@ -22949,7 +25457,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "몸에 물을 뿌려 씻는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "syawo"
+    }
   },
   {
     "id": "ko_5744",
@@ -22976,7 +25487,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "옷이나 이불 등을 자동으로 빨아주는 기계."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "setakgi"
+    }
   },
   {
     "id": "ko_4161",
@@ -23003,7 +25517,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "자기보다 나이가 어린 남자 형제."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "namdongsaeng"
+    }
   },
   {
     "id": "ko_4510",
@@ -23030,7 +25547,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어떤 장소나 목적지에 다다르는 것."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "dochak"
+    }
   },
   {
     "id": "ko_5841",
@@ -23057,7 +25577,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "물건을 사기 위해 가게를 돌아다니는 일."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "syoping"
+    }
   },
   {
     "id": "ko_5923",
@@ -23084,7 +25607,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "눈 위에서 미끄러지듯 타는 운동 기구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "seuki"
+    }
   },
   {
     "id": "ko_6630",
@@ -23111,7 +25637,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "운동할 때 신는 편안하고 가벼운 신발."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "undonghwa"
+    }
   },
   {
     "id": "ko_7548",
@@ -23136,6 +25665,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 소금처럼 짠 느낌이 있다."
+    },
+    "reading": {
+      "ko": "jjada"
     }
   },
   {
@@ -23163,7 +25695,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "어린 학생들이 처음으로 다니는 학교."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chodeunghakgyo"
+    }
   },
   {
     "id": "ko_3729",
@@ -23190,7 +25725,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "법으로 정해 모든 사람이 쉬는 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "gonghyuil"
+    }
   },
   {
     "id": "ko_5285",
@@ -23217,7 +25755,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "잉크가 든 작은 볼이 회전하며 글씨를 쓰는 필기도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bolpen"
+    }
   },
   {
     "id": "ko_5455",
@@ -23244,7 +25785,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "빨강과 같은 색을 이르는 말."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ppalgansaek"
+    }
   },
   {
     "id": "ko_7654",
@@ -23271,7 +25815,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "파란색 데님 천으로 만든 바지."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "cheongbaji"
+    }
   },
   {
     "id": "ko_8204",
@@ -23298,7 +25845,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "손에 들고 다니며 통화하거나 메시지를 보내는 전화기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "haendeupon"
+    }
   },
   {
     "id": "ko_8364",
@@ -23325,7 +25875,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "휴지나 쓰레기를 버리는 통."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hyujitong"
+    }
   },
   {
     "id": "ko_7794",
@@ -23352,7 +25905,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "학교나 학원에서 글씨를 쓰고 그림을 그리는 판."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "chilpan"
+    }
   },
   {
     "id": "ko_7851",
@@ -23379,7 +25935,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "예수님의 탄생을 기념하는 12월 25일의 명절."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "keuriseumaseu"
+    }
   },
   {
     "id": "ko_4886",
@@ -23406,7 +25965,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "한 주의 네 번째 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "mokyoil"
+    }
   },
   {
     "id": "ko_7468",
@@ -23433,7 +25995,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "연필이나 펜으로 쓴 글씨를 지우는 데 쓰는 도구."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jiugae"
+    }
   },
   {
     "id": "ko_5865",
@@ -23460,7 +26025,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "사람들이 수영을 할 수 있도록 만들어 놓은 시설."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "suyeongjang"
+    }
   },
   {
     "id": "ko_6884",
@@ -23487,7 +26055,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일본 사람들이 사용하는 언어."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "ilboneo"
+    }
   },
   {
     "id": "ko_3438",
@@ -23514,7 +26085,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "소나 돼지의 뼈에 붙어 있는 살코기."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "galbi"
+    }
   },
   {
     "id": "ko_7062",
@@ -23541,7 +26115,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "아름다운 꽃을 피우는 식물의 한 종류."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "jangmi"
+    }
   },
   {
     "id": "ko_7970",
@@ -23568,7 +26145,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "하늘이나 바다와 같은 색깔을 나타내는 명칭."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "paransaek"
+    }
   },
   {
     "id": "ko_4211",
@@ -23595,7 +26175,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "차가운 육수에 면을 넣어 만든 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "naengmyeon"
+    }
   },
   {
     "id": "ko_5418",
@@ -23622,7 +26205,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "여러 가지 나물과 고기 등을 넣고 고추장에 비벼 먹는 한국 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "bibimbap"
+    }
   },
   {
     "id": "ko_8290",
@@ -23649,7 +26235,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "일주일 중 월요일 다음 날."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "hwayoil"
+    }
   },
   {
     "id": "ko_5673",
@@ -23677,7 +26266,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "선물하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "seonmulhada"
+    }
   },
   {
     "id": "ko_6164",
@@ -23704,7 +26296,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "우유, 설탕 등을 얼려 만든 차갑고 달콤한 음식."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "aiseukeurim"
+    }
   },
   {
     "id": "ko_6589",
@@ -23732,7 +26327,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "요리하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "yorihada"
+    }
   },
   {
     "id": "ko_4784",
@@ -23757,6 +26355,9 @@ const WORDS_KO_A1 = [
     "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 좋지 않다."
+    },
+    "reading": {
+      "ko": "mateopda"
     }
   },
   {
@@ -23785,7 +26386,10 @@ const WORDS_KO_A1 = [
     },
     "infinitive": "실례하다",
     "reflexive": null,
-    "irregular": null
+    "irregular": null,
+    "reading": {
+      "ko": "silryehada"
+    }
   },
   {
     "id": "ko_7390",
@@ -23812,7 +26416,10 @@ const WORDS_KO_A1 = [
       "ko_gloss": "중국 사람들이 사용하는 언어."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "junggukeo"
+    }
   },
   {
     "id": "ko_5532",
@@ -23839,6 +26446,9 @@ const WORDS_KO_A1 = [
       "ko_gloss": "설탕을 주재료로 하여 만든 달콤한 과자."
     },
     "article": "",
-    "plural": ""
+    "plural": "",
+    "reading": {
+      "ko": "satang"
+    }
   }
 ];
