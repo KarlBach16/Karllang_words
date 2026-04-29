@@ -2134,6 +2134,26 @@ function getReadingForLang(word, langCode) {
   return "";
 }
 
+function hasKanji(text) {
+  if (!text || typeof text !== "string") return false;
+  return /[\u4E00-\u9FFF]/.test(text);
+}
+
+function hasCjkHan(text) {
+  if (!text || typeof text !== "string") return false;
+  return /[\u3400-\u4DBF\u4E00-\u9FFF]/.test(text);
+}
+
+function hasHangul(text) {
+  if (!text || typeof text !== "string") return false;
+  return /[\uAC00-\uD7A3]/.test(text);
+}
+
+function hasCyrillic(text) {
+  if (!text || typeof text !== "string") return false;
+  return /[\u0400-\u04FF]/.test(text);
+}
+
 function getSrsKey(wordId, langOverride) {
   const lang = (langOverride || getCurrentStudyLang() || "de").toLowerCase();
   // 예: karllang_word_de_101, karllang_word_en_101
@@ -3920,15 +3940,45 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
     smallMeaning = fullGerman || "";
   }
 
+  const studyLang = (SETTINGS.studyLang || "de").toLowerCase();
+  const rawLemma = (word && word.lemma) || "";
+  const readingValue =
+    studyLang === "ja"
+      ? hasKanji(rawLemma)
+        ? getReadingForLang(word, "ja")
+        : ""
+      : studyLang === "zh"
+      ? hasCjkHan(rawLemma)
+        ? getReadingForLang(word, "zh")
+        : ""
+      : studyLang === "ko"
+      ? hasHangul(rawLemma)
+        ? getReadingForLang(word, "ko")
+        : ""
+      : studyLang === "ru"
+      ? hasCyrillic(rawLemma)
+        ? getReadingForLang(word, "ru")
+        : ""
+      : "";
+  const readingLineHtml = readingValue
+    ? '<div class="answer-reading-row"><span class="answer-reading-text">' +
+      escapeHtml(readingValue) +
+      "</span></div>"
+    : "";
+  const readingBeforeMeaning = SETTINGS.mode === "card" ? "" : readingLineHtml;
+  const readingAfterMeaning = SETTINGS.mode === "card" ? readingLineHtml : "";
+
   DOM.questionDisplay.innerHTML =
     '<span class="answer-text answer-main">' +
-    mainText +
+    escapeHtml(mainText) +
     "</span>" +
+    readingBeforeMeaning +
     '<div class="answer-meaning-row">' +
     '<span class="answer-meaning-text">' +
-    smallMeaning +
+    escapeHtml(smallMeaning) +
     "</span>" +
     "</div>" +
+    readingAfterMeaning +
     '<div class="answer-line answer-actions">' +
     '<button class="icon-btn speaker-icon" id="speakerBtn" type="button" aria-label="발음 듣기"></button>' +
     '<button class="icon-btn info-icon" id="detailBtn" type="button" aria-label="자세히 보기">i</button>' +
@@ -4180,6 +4230,56 @@ function getExtraDetailForWord(word) {
         labelBase = "Base form";
     }
     lines.push(`${labelBase}: ${base}`);
+  }
+
+  // 읽기/로마니제이션 (언어별 reading map)
+  const reading =
+    studyLang === "ja"
+      ? hasKanji(base)
+        ? getReadingForLang(word, studyLang)
+        : ""
+      : studyLang === "zh"
+      ? hasCjkHan(base)
+        ? getReadingForLang(word, studyLang)
+        : ""
+      : getReadingForLang(word, studyLang);
+  if (reading) {
+    let labelReading;
+    switch (uiLang) {
+      case "ko":
+        labelReading = "읽기";
+        break;
+      case "en":
+        labelReading = "Reading";
+        break;
+      case "de":
+        labelReading = "Lesung";
+        break;
+      case "es":
+        labelReading = "Lectura";
+        break;
+      case "fr":
+        labelReading = "Lecture";
+        break;
+      case "it":
+        labelReading = "Lettura";
+        break;
+      case "pt":
+        labelReading = "Leitura";
+        break;
+      case "ja":
+        labelReading = "読み";
+        break;
+      case "zh":
+        labelReading = "读音";
+        break;
+      case "ru":
+        labelReading = "Чтение";
+        break;
+      default:
+        labelReading = "Reading";
+    }
+    lines.push(`${labelReading}: ${reading}`);
   }
 
   // 복수형 (명사만)

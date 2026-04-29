@@ -1414,6 +1414,18 @@ body {
     margin-bottom: 8px;
 }
 
+.answer-reading-row {
+    margin-top: -2px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.answer-reading-text {
+    font-size: 0.92rem;
+    color: #5f6b7a;
+    letter-spacing: 0.01em;
+}
+
 .answer-actions {
     margin-top: 28px;
 }
