@@ -96,6 +96,7 @@ input, textarea {
     --color-hard: #FF3D00;            /* Orange-Red */
     --safe-top: env(safe-area-inset-top);
     --safe-bottom: env(safe-area-inset-bottom);
+    --bottom-nav-height: 60px;
 }
 
 /* ===== 기본 ===== */
@@ -202,8 +203,8 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    height: calc(64px + env(safe-area-inset-bottom, 0px));
-    padding: 6px 8px calc(6px + env(safe-area-inset-bottom, 0px));
+    height: var(--bottom-nav-height);
+    padding: 5px 8px 4px;
     display: grid;
     grid-template-columns: repeat(5, minmax(0, 1fr));
     gap: 2px;
@@ -1584,7 +1585,7 @@ textarea {
 }
 
 #app {
-    padding-bottom: calc(82px + env(safe-area-inset-bottom, 0px));
+    padding-bottom: calc(var(--bottom-nav-height) + 12px);
 }
 
 /* 인트로 상태 */
