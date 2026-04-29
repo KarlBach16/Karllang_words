@@ -676,13 +676,7 @@ function handleAndroidBack() {
     return;
   }
 
-  // 2) 사이드 메뉴 열려 있으면 닫기
-  if (DOM.sideMenu && DOM.sideMenu.classList.contains("open")) {
-    closeMenu();
-    return;
-  }
-
-  // 3) 학습 세션 진행 중이면 → 확인 후 홈으로
+  // 2) 학습 세션 진행 중이면 → 확인 후 학습 시작 상태로
   if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
     const msg = trKey(
       "confirm.exit_session",
@@ -695,7 +689,17 @@ function handleAndroidBack() {
     return;
   }
 
-  // 4) 세션 완료(FINISHED) 또는 다른 뷰에 있으면 → Study 뷰로
+  // 3) 단어 하위 화면에서는 → 단어 허브로
+  if (
+    APP_STATE.currentView === "mistakes" ||
+    APP_STATE.currentView === "bookmark" ||
+    APP_STATE.currentView === "search"
+  ) {
+    showView("words");
+    return;
+  }
+
+  // 4) 세션 완료(FINISHED) 또는 다른 탭에 있으면 → Study 뷰로
   if (APP_STATE.phase === "FINISHED" || APP_STATE.currentView !== "study") {
     showView("study");
     return;
@@ -746,22 +750,13 @@ function cacheDOM() {
   DOM.app = document.getElementById("app");
   DOM.appTitle = document.getElementById("appTitle");
 
-  // 헤더 & 메뉴
-  DOM.header = document.querySelector(".header");
-  DOM.menuToggle = document.getElementById("menuToggle");
-  DOM.sideMenu = document.getElementById("sideMenu");
-  DOM.sideMenuOverlay = document.getElementById("sideMenuOverlay");
-  DOM.navUser = document.getElementById("navUser");
-  DOM.navStudy = document.getElementById("navStudy");
-  DOM.navTraining = document.getElementById("navTraining");
-  DOM.navVocab = document.getElementById("navVocab");
-  DOM.navSearch = document.getElementById("navSearch");
-  DOM.navSettings = document.getElementById("navSettings");
+  DOM.bottomTabs = document.querySelectorAll(".bottom-tab");
 
   // 뷰
   DOM.studyView = document.getElementById("studyView");
   DOM.userView = document.getElementById("userView");
   DOM.trainingView = document.getElementById("trainingView");
+  DOM.wordHubView = document.getElementById("wordHubView");
   DOM.vocabView = document.getElementById("vocabView");
   DOM.searchView = document.getElementById("searchView");
   DOM.settingsView = document.getElementById("settingsView");
@@ -832,6 +827,13 @@ function cacheDOM() {
   };
 
   // 단어장
+  DOM.wordHubTitle = document.getElementById("wordHubTitle");
+  DOM.wordHubMistakes = document.getElementById("wordHubMistakes");
+  DOM.wordHubBookmark = document.getElementById("wordHubBookmark");
+  DOM.wordHubSearch = document.getElementById("wordHubSearch");
+  DOM.wordHubMistakesLabel = document.getElementById("wordHubMistakesLabel");
+  DOM.wordHubBookmarkLabel = document.getElementById("wordHubBookmarkLabel");
+  DOM.wordHubSearchLabel = document.getElementById("wordHubSearchLabel");
   DOM.wordbookList = document.getElementById("wordbookList");
   DOM.wordbookDesc = document.querySelector("#vocabView .section-description");
 
@@ -842,9 +844,6 @@ function cacheDOM() {
   DOM.bookmarkDesc = document.querySelector(
     "#bookmarkView .section-description",
   );
-
-  // 사이드 메뉴 - 북마크
-  DOM.navBookmark = document.getElementById("navBookmark");
 
   // 검색
   DOM.searchMode = document.getElementById("searchMode");
@@ -968,54 +967,6 @@ function detectInitialUiLang() {
 
   return "en"; // 기본값
 }
-// 사이드 메뉴 버튼 터치/클릭 눌림 피드백
-function setupSideMenuPressFeedback() {
-  if (!DOM.sideMenu) return;
-
-  const items = DOM.sideMenu.querySelectorAll(".side-item");
-  if (!items || !items.length) return;
-
-  items.forEach((btn) => {
-    // 터치 디바이스
-    btn.addEventListener(
-      "touchstart",
-      () => {
-        btn.classList.add("pressing");
-      },
-      { passive: true },
-    );
-
-    btn.addEventListener(
-      "touchend",
-      () => {
-        setTimeout(() => btn.classList.remove("pressing"), 120);
-      },
-      { passive: true },
-    );
-
-    btn.addEventListener(
-      "touchcancel",
-      () => {
-        btn.classList.remove("pressing");
-      },
-      { passive: true },
-    );
-
-    // 데스크탑 / 브라우저용 (마우스)
-    btn.addEventListener("mousedown", () => {
-      btn.classList.add("pressing");
-    });
-
-    btn.addEventListener("mouseup", () => {
-      btn.classList.remove("pressing");
-    });
-
-    btn.addEventListener("mouseleave", () => {
-      btn.classList.remove("pressing");
-    });
-  });
-}
-
 function loadSettings() {
   const raw = safeGet(STORAGE_KEYS.SETTINGS);
 
@@ -1114,6 +1065,12 @@ const I18N_KEYS = {
   "menu.bookmark": "menu_bookmark",
   "menu.search": "menu_search",
   "menu.settings": "menu_settings",
+  "bottom.training": "bottom_training",
+  "bottom.words": "bottom_words",
+  "word_hub.title": "word_hub_title",
+  "word_hub.mistakes": "word_hub_mistakes",
+  "word_hub.bookmark": "word_hub_bookmark",
+  "word_hub.search": "word_hub_search",
 
   /* ----- 훈련소 뷰 ----- */
   "training.title": "training_title",
@@ -1608,42 +1565,39 @@ function applyTranslations() {
     DOM.ratingButtons[2].textContent = trKey("difficulty.easy", "쉬움");
   }
 
-  // 메뉴
-  if (DOM.navUser)
-    DOM.navUser.querySelector("span").textContent = trKey(
-      "menu.user",
-      "사용자",
+  // 하단 탭 / 단어 허브
+  if (DOM.bottomTabs && DOM.bottomTabs.length) {
+    const labels = {
+      user: trKey("menu.user", "홈"),
+      study: trKey("menu.study", "학습"),
+      training: trKey("bottom.training", "훈련"),
+      words: trKey("bottom.words", "단어"),
+      settings: trKey("menu.settings", "설정"),
+    };
+    DOM.bottomTabs.forEach((tab) => {
+      const label = tab.querySelector("span");
+      const view = tab.dataset.view;
+      if (label && labels[view]) label.textContent = labels[view];
+    });
+  }
+  if (DOM.wordHubTitle) {
+    DOM.wordHubTitle.textContent = trKey("word_hub.title", "단어");
+  }
+  if (DOM.wordHubMistakesLabel) {
+    DOM.wordHubMistakesLabel.textContent = trKey(
+      "word_hub.mistakes",
+      "어려운 단어",
     );
-  if (DOM.navStudy)
-    DOM.navStudy.querySelector("span").textContent = trKey(
-      "menu.study",
-      "학습",
-    );
-  if (DOM.navTraining)
-    DOM.navTraining.querySelector("span").textContent = trKey(
-      "menu.training",
-      "훈련소",
-    );
-  if (DOM.navVocab)
-    DOM.navVocab.querySelector("span").textContent = trKey(
-      "menu.mistakes",
-      "틀린 단어",
-    );
-  if (DOM.navBookmark)
-    DOM.navBookmark.querySelector("span").textContent = trKey(
-      "menu.bookmark",
+  }
+  if (DOM.wordHubBookmarkLabel) {
+    DOM.wordHubBookmarkLabel.textContent = trKey(
+      "word_hub.bookmark",
       "북마크",
     );
-  if (DOM.navSearch)
-    DOM.navSearch.querySelector("span").textContent = trKey(
-      "menu.search",
-      "단어 검색",
-    );
-  if (DOM.navSettings)
-    DOM.navSettings.querySelector("span").textContent = trKey(
-      "menu.settings",
-      "설정",
-    );
+  }
+  if (DOM.wordHubSearchLabel) {
+    DOM.wordHubSearchLabel.textContent = trKey("word_hub.search", "검색");
+  }
 
   // 사용자 뷰 제목들
   if (DOM.userViewTitle)
@@ -6290,41 +6244,59 @@ function clearSearchView() {
    ========== 11. NAVIGATION / VIEWS ==========
    ============================================ */
 
-function openMenu() {
-  if (!DOM.sideMenu) return;
-  DOM.sideMenu.classList.add("open");
-  if (DOM.sideMenuOverlay) {
-    DOM.sideMenuOverlay.style.display = "block";
+function getBottomNavView(view) {
+  if (view === "mistakes" || view === "bookmark" || view === "search") {
+    return "words";
   }
+  return view;
 }
 
-function closeMenu() {
-  if (!DOM.sideMenu) return;
-  DOM.sideMenu.classList.remove("open");
-  if (DOM.sideMenuOverlay) {
-    DOM.sideMenuOverlay.style.display = "none";
+function updateBottomNavActive(view) {
+  if (!DOM.bottomTabs || !DOM.bottomTabs.length) return;
+  const activeView = getBottomNavView(view);
+  DOM.bottomTabs.forEach((tab) => {
+    tab.classList.toggle("active", tab.dataset.view === activeView);
+  });
+}
+
+function goToStudyFromNav() {
+  const prevView = APP_STATE.currentView;
+
+  TRAINING_MODE_ACTIVE = false;
+  TRAINING_MODE_KIND = "none";
+  TRAINING_MIX_WORDS = [];
+  TRAINING_MIX_INDEX = 0;
+  TRAINING_MIX_STEP = 0;
+
+  TRAINING_CRAM_WORDS = [];
+  TRAINING_CRAM_INDEX = 0;
+  TRAINING_CRAM_REPEAT_INDEX = 0;
+  TRAINING_CRAM_REPEAT_TOTAL = 3;
+
+  if (prevView !== "user") {
+    LAST_STUDY_WORD_IDS = [];
+    LAST_STUDY_META = { day: null, filterKey: null };
   }
+
+  showView("study");
+  showReadyState();
 }
 
 function showView(view) {
   const prevView = APP_STATE.currentView; // 🔹 이전 뷰 기억
   APP_STATE.currentView = view;
+  updateBottomNavActive(view);
 
   // 🔹 검색 뷰에서 나갈 때 검색 상태 초기화
   if (prevView === "search" && view !== "search") {
     clearSearchView();
   }
 
-  // 1) 메뉴 열려 있었는지 체크
-  const wasMenuOpen = DOM.sideMenu && DOM.sideMenu.classList.contains("open");
-
-  // 2) 메뉴/오버레이 먼저 닫기
-  closeMenu();
-
   const views = {
     study: DOM.studyView,
     user: DOM.userView,
     training: DOM.trainingView,
+    words: DOM.wordHubView,
     mistakes: DOM.vocabView,
     bookmark: DOM.bookmarkView,
     search: DOM.searchView,
@@ -6333,7 +6305,7 @@ function showView(view) {
 
   let targetEl = null;
 
-  // 3) 전부 숨기고, 해당 view만 보이게
+  // 1) 전부 숨기고, 해당 view만 보이게
   Object.keys(views).forEach((key) => {
     const el = views[key];
     if (!el) return;
@@ -6348,22 +6320,14 @@ function showView(view) {
     }
   });
 
-  // 4) 메뉴에서 온 경우엔 transition 없이 즉시 표시
+  // 2) 해당 뷰 표시
   if (targetEl) {
-    if (wasMenuOpen) {
-      targetEl.style.transition = "none";
+    requestAnimationFrame(() => {
       targetEl.classList.add("active");
-      requestAnimationFrame(() => {
-        targetEl.style.transition = "";
-      });
-    } else {
-      requestAnimationFrame(() => {
-        targetEl.classList.add("active");
-      });
-    }
+    });
   }
 
-  // 5) 기존 후처리 로직 그대로 유지
+  // 3) 기존 후처리 로직 그대로 유지
   if (view === "study") {
     updateProgressBar();
   } else if (view === "user") {
@@ -6530,86 +6494,6 @@ function attachEvents() {
     });
   }
 
-  // 헤더 / 메뉴
-  if (DOM.menuToggle) {
-    DOM.menuToggle.addEventListener("click", () => {
-      if (DOM.sideMenu.classList.contains("open")) {
-        closeMenu();
-      } else {
-        openMenu();
-      }
-    });
-  }
-  if (DOM.sideMenuOverlay) {
-    const onOverlayClose = (e) => {
-      if (e) {
-        e.preventDefault();
-        e.stopPropagation();
-      }
-      closeMenu();
-    };
-    DOM.sideMenuOverlay.addEventListener("click", onOverlayClose);
-    DOM.sideMenuOverlay.addEventListener("touchstart", onOverlayClose, {
-      passive: false,
-    });
-    DOM.sideMenuOverlay.addEventListener("pointerdown", onOverlayClose);
-  }
-
-  // Android WebView 일부 환경에서 overlay click이 누락되는 경우 대비
-  document.addEventListener(
-    "pointerdown",
-    (e) => {
-      if (!DOM.sideMenu || !DOM.sideMenu.classList.contains("open")) return;
-
-      const target = e.target;
-      if (!target) return;
-
-      const clickedInMenu = DOM.sideMenu.contains(target);
-      const clickedToggle =
-        DOM.menuToggle &&
-        (target === DOM.menuToggle || DOM.menuToggle.contains(target));
-      if (!clickedInMenu && !clickedToggle) {
-        closeMenu();
-      }
-    },
-    true,
-  );
-
-  if (DOM.navStudy) {
-    DOM.navStudy.addEventListener("click", () => {
-      const prevView = APP_STATE.currentView; // 🔹 학습 들어오기 직전 화면
-
-      // 🔹 훈련소 강제 종료
-      TRAINING_MODE_ACTIVE = false;
-      TRAINING_MODE_KIND = "none";
-      TRAINING_MIX_WORDS = [];
-      TRAINING_MIX_INDEX = 0;
-      TRAINING_MIX_STEP = 0;
-
-      // 🔹 깜지 상태 리셋
-      TRAINING_CRAM_WORDS = [];
-      TRAINING_CRAM_INDEX = 0;
-      TRAINING_CRAM_REPEAT_INDEX = 0;
-      TRAINING_CRAM_REPEAT_TOTAL = 3;
-
-      // 🔹 'user'(홈)에서 온 게 아니면 → 오늘 세트 버리고 새로 시작
-      if (prevView !== "user") {
-        LAST_STUDY_WORD_IDS = [];
-        LAST_STUDY_META = { day: null, filterKey: null };
-      }
-
-      showView("study");
-      showReadyState();
-    });
-  }
-  if (DOM.navUser)
-    DOM.navUser.addEventListener("click", () => showView("user"));
-  if (DOM.navTraining)
-    DOM.navTraining.addEventListener("click", () => {
-      showView("training");
-      // TODO: 나중에 훈련소 초기 렌더 함수 들어감 (예: renderTrainingHome())
-    });
-
   if (DOM.masteryMainBtn) {
     DOM.masteryMainBtn.addEventListener("click", () => {
       // 훈련소 정답 화면에서만 작동
@@ -6627,14 +6511,24 @@ function attachEvents() {
       DOM.masteryMainBtn.classList.add("mastery-done");
     });
   }
-  if (DOM.navVocab)
-    DOM.navVocab.addEventListener("click", () => showView("mistakes"));
-  if (DOM.navBookmark)
-    DOM.navBookmark.addEventListener("click", () => showView("bookmark"));
-  if (DOM.navSearch)
-    DOM.navSearch.addEventListener("click", () => showView("search"));
-  if (DOM.navSettings)
-    DOM.navSettings.addEventListener("click", () => showView("settings"));
+  if (DOM.bottomTabs && DOM.bottomTabs.length) {
+    DOM.bottomTabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const view = tab.dataset.view;
+        if (view === "study") {
+          goToStudyFromNav();
+          return;
+        }
+        if (view) showView(view);
+      });
+    });
+  }
+  if (DOM.wordHubMistakes)
+    DOM.wordHubMistakes.addEventListener("click", () => showView("mistakes"));
+  if (DOM.wordHubBookmark)
+    DOM.wordHubBookmark.addEventListener("click", () => showView("bookmark"));
+  if (DOM.wordHubSearch)
+    DOM.wordHubSearch.addEventListener("click", () => showView("search"));
 
   if (DOM.mainBtn) DOM.mainBtn.addEventListener("click", handleConfirm);
   if (DOM.skipBtn) DOM.skipBtn.addEventListener("click", handleSkip);
@@ -6653,19 +6547,6 @@ function attachEvents() {
       }
     });
 
-    // 🔹 키보드 올라올 때(포커스) 헤더 숨김
-    DOM.answerInput.addEventListener("focus", () => {
-      if (DOM.header) {
-        DOM.header.classList.add("header-hidden");
-      }
-    });
-
-    // 🔹 포커스 빠지면 헤더 복구
-    DOM.answerInput.addEventListener("blur", () => {
-      if (DOM.header) {
-        DOM.header.classList.remove("header-hidden");
-      }
-    });
   }
 
   if (DOM.ratingButtons) {
@@ -6981,7 +6862,6 @@ function init() {
   ensureMasteryMainBtn();
   // ✅ 현재 UI 언어 기준으로 드롭다운 라벨 맞추기
   refreshUiLangSelectLabels();
-  setupSideMenuPressFeedback();
   attachEvents();
   initTtsVoices();
   applyTranslations();

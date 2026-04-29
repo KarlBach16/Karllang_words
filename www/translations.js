@@ -22,6 +22,12 @@ start_screen_hint: "",
     menu_bookmark: "북마크",
     menu_search: "단어 검색",
     menu_settings: "설정",
+    bottom_training: "훈련",
+    bottom_words: "단어",
+    word_hub_title: "단어",
+    word_hub_mistakes: "어려운 단어",
+    word_hub_bookmark: "북마크",
+    word_hub_search: "검색",
 
             /* 훈련소 */
     training_title: "훈련소",
@@ -177,6 +183,12 @@ en: {
     menu_bookmark: "Bookmarks",
     menu_search: "Search",
     menu_settings: "Settings",
+    bottom_training: "Drill",
+    bottom_words: "Words",
+    word_hub_title: "Words",
+    word_hub_mistakes: "Difficult words",
+    word_hub_bookmark: "Bookmarks",
+    word_hub_search: "Search",
 
         /* Training */
     training_title: "Drill",
@@ -333,6 +345,12 @@ de: {
     menu_bookmark: "Lesezeichen",
     menu_search: "Wörtersuche",
     menu_settings: "Einstellungen",
+    bottom_training: "Üben",
+    bottom_words: "Wörter",
+    word_hub_title: "Wörter",
+    word_hub_mistakes: "Schwierige Wörter",
+    word_hub_bookmark: "Lesezeichen",
+    word_hub_search: "Suche",
 
             /* Training */
     training_title: "Wiederholen",
@@ -490,6 +508,12 @@ es: {
     menu_bookmark: "Marcadores",
     menu_search: "Búsqueda de palabras",
     menu_settings: "Ajustes",
+    bottom_training: "Entrenar",
+    bottom_words: "Palabras",
+    word_hub_title: "Palabras",
+    word_hub_mistakes: "Palabras difíciles",
+    word_hub_bookmark: "Marcadores",
+    word_hub_search: "Buscar",
     
             /* Entrenamiento */
     training_title: "Entrenamiento",
@@ -648,6 +672,12 @@ fr: {
     menu_bookmark: "Favoris",
     menu_search: "Recherche de mots",
     menu_settings: "Paramètres",
+    bottom_training: "Exercer",
+    bottom_words: "Mots",
+    word_hub_title: "Mots",
+    word_hub_mistakes: "Mots difficiles",
+    word_hub_bookmark: "Favoris",
+    word_hub_search: "Recherche",
     
             /* Entraînement */
     training_title: "Entraînement",
@@ -802,6 +832,12 @@ it: {
     menu_bookmark: "Preferiti",
     menu_search: "Ricerca parole",
     menu_settings: "Impostazioni",
+    bottom_training: "Allena",
+    bottom_words: "Parole",
+    word_hub_title: "Parole",
+    word_hub_mistakes: "Parole difficili",
+    word_hub_bookmark: "Preferiti",
+    word_hub_search: "Cerca",
 
             /* Allenamento */
     training_title: "Allenamento",
@@ -956,6 +992,12 @@ pt: {
     menu_bookmark: "Favoritos",
     menu_search: "Busca de palavras",
     menu_settings: "Configurações",
+    bottom_training: "Treino",
+    bottom_words: "Palavras",
+    word_hub_title: "Palavras",
+    word_hub_mistakes: "Palavras difíceis",
+    word_hub_bookmark: "Favoritos",
+    word_hub_search: "Buscar",
 
             /* Treino */
     training_title: "Treino",
@@ -1110,6 +1152,12 @@ ja: {
     menu_bookmark: "ブックマーク",
     menu_search: "単語検索",
     menu_settings: "設定",
+    bottom_training: "練習",
+    bottom_words: "単語",
+    word_hub_title: "単語",
+    word_hub_mistakes: "難しい単語",
+    word_hub_bookmark: "ブックマーク",
+    word_hub_search: "検索",
 
             /* トレーニング */
     training_title: "トレーニング",
@@ -1264,6 +1312,12 @@ zh: {
     menu_bookmark: "收藏",
     menu_search: "单词搜索",
     menu_settings: "设置",
+    bottom_training: "训练",
+    bottom_words: "单词",
+    word_hub_title: "单词",
+    word_hub_mistakes: "困难单词",
+    word_hub_bookmark: "收藏",
+    word_hub_search: "搜索",
 
             /* 训练 */
     training_title: "训练",
@@ -1418,6 +1472,12 @@ ru: {
     menu_bookmark: "Избранное",
     menu_search: "Поиск слов",
     menu_settings: "Настройки",
+    bottom_training: "Трен.",
+    bottom_words: "Слова",
+    word_hub_title: "Слова",
+    word_hub_mistakes: "Сложные слова",
+    word_hub_bookmark: "Избранное",
+    word_hub_search: "Поиск",
 
             /* Тренировка */
     training_title: "Тренировка",
