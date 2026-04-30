@@ -6206,7 +6206,8 @@ const WORDS_JA_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "대학생",

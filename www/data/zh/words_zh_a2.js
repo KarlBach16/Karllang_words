@@ -194,7 +194,8 @@ const WORDS_ZH_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일, 사건",
@@ -2435,7 +2436,8 @@ const WORDS_ZH_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "생일",
@@ -3177,7 +3179,8 @@ const WORDS_ZH_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "수업",

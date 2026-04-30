@@ -318,7 +318,8 @@ const WORDS_ZH_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "책",
@@ -848,7 +849,8 @@ const WORDS_ZH_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "쓰다",
@@ -2021,7 +2023,8 @@ const WORDS_ZH_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "공부하다",
@@ -3705,7 +3708,8 @@ const WORDS_ZH_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "읽다, 공부하다",
@@ -3955,6 +3959,7 @@ const WORDS_ZH_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {

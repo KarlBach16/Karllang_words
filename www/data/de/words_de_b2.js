@@ -4890,6 +4890,7 @@ const WORDS_DE_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -11653,7 +11654,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -19031,7 +19033,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답하다",
@@ -19942,7 +19945,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "인사",
@@ -20577,7 +20581,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화난",
@@ -23637,7 +23642,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "작별인사",
@@ -27063,7 +27069,8 @@ const WORDS_DE_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이름을 붙이다",

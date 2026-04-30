@@ -2206,7 +2206,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "ansprechen",
@@ -2732,7 +2733,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "ärgerlich",
@@ -2943,6 +2945,7 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "daily",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -4366,7 +4369,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "sich bedanken",
@@ -5990,6 +5994,7 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "daily",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -6776,7 +6781,8 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "bitte",
@@ -8217,7 +8223,8 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "danke",
@@ -12926,7 +12933,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "sich erkundigen",
@@ -15774,7 +15782,8 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "sich freuen",
@@ -15924,7 +15933,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "frieren",
@@ -19015,7 +19025,8 @@ const WORDS_DE_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "grüßen",
@@ -36766,7 +36777,8 @@ const WORDS_DE_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "spüren",

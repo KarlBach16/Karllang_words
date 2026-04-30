@@ -278,6 +278,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -2543,6 +2544,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -3473,6 +3475,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -5815,6 +5818,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -6588,6 +6592,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "travel"
     ],
     "meanings": {
@@ -7550,6 +7555,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -9477,6 +9483,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -9902,6 +9909,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -13703,6 +13711,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -14623,6 +14632,7 @@ const WORDS_ZH_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {

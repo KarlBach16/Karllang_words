@@ -1,4 +1,4 @@
-// ES A1 generated from es_v2 canonical dataset
+// ES A1 generated from release candidate
 const WORDS_ES_A1 = [
   {
     "id": "es_1",
@@ -299,7 +299,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -780,7 +781,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -1256,7 +1258,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구의",
@@ -1544,7 +1547,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이름",
@@ -2228,7 +2232,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "정말로",
@@ -2594,7 +2599,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "안녕",
@@ -3101,7 +3107,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "행복한",
@@ -4400,7 +4407,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "결말",
@@ -8471,7 +8479,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -8893,7 +8902,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "답변",
@@ -9105,7 +9115,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "기쁘게 하다",
@@ -9636,7 +9647,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "듣다",
@@ -10834,7 +10846,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬픈",
@@ -11339,7 +11352,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말",
@@ -12011,7 +12025,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말해진",
@@ -12859,7 +12874,8 @@ const WORDS_ES_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "요청하다",
@@ -15049,7 +15065,8 @@ const WORDS_ES_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "거짓말",
@@ -16235,7 +16252,8 @@ const WORDS_ES_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -16699,7 +16717,8 @@ const WORDS_ES_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻다",
@@ -17270,7 +17289,8 @@ const WORDS_ES_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "원하다",

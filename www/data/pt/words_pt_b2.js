@@ -29941,6 +29941,7 @@ const WORDS_PT_B2 = [
     "tags": [
       "exam",
       "basic",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -30820,7 +30821,8 @@ const WORDS_PT_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "남자 이름",
@@ -32854,7 +32856,8 @@ const WORDS_PT_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -37223,7 +37226,8 @@ const WORDS_PT_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "철자를 말하다",

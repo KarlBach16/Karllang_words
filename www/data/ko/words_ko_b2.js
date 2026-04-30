@@ -968,7 +968,8 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "smalltalk"
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "길어지다",
@@ -3050,7 +3051,8 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "지름길",
@@ -9914,6 +9916,7 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -10663,6 +10666,7 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -13834,6 +13838,7 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -15706,7 +15711,8 @@ const WORDS_KO_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "smalltalk"
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "미역",

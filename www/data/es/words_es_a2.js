@@ -109,6 +109,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -183,6 +184,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily",
       "travel"
     ],
@@ -289,6 +291,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -495,6 +498,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -1034,6 +1038,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -1289,6 +1294,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -2384,6 +2390,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -2642,7 +2649,9 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "basic",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답하다",
@@ -2745,6 +2754,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -3104,6 +3114,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -3594,6 +3605,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -4657,6 +4669,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily",
       "work"
     ],
@@ -4761,7 +4774,8 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "담화",
@@ -5719,7 +5733,8 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "거짓말하는",
@@ -7056,7 +7071,8 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "거짓말하다",
@@ -17472,6 +17488,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -18945,7 +18962,8 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사하는",
@@ -24847,6 +24865,7 @@ const WORDS_ES_A2 = [
     "cefr": "A2",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {

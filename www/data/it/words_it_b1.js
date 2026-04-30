@@ -2016,7 +2016,8 @@ const WORDS_IT_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻힌",
@@ -6619,7 +6620,8 @@ const WORDS_IT_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화난",
@@ -20419,7 +20421,8 @@ const WORDS_IT_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",
@@ -26089,7 +26092,8 @@ const WORDS_IT_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "용서하다",

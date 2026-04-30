@@ -2710,7 +2710,8 @@ const WORDS_IT_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -14389,7 +14390,8 @@ const WORDS_IT_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -19234,7 +19236,8 @@ const WORDS_IT_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사하는",
@@ -30891,7 +30894,8 @@ const WORDS_IT_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "콧물 묻은",

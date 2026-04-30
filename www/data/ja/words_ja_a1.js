@@ -2632,7 +2632,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "학급, 수업",
@@ -3502,7 +3503,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "노트, 공책",
@@ -4526,7 +4528,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "일곱 개",
@@ -4557,7 +4560,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "7일",
@@ -4679,7 +4683,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "3일",
@@ -6044,7 +6049,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "선생님",
@@ -6794,7 +6800,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "공부",
@@ -8522,7 +8529,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "학교",
@@ -8553,7 +8561,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "학생",
@@ -9542,7 +9551,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "수업",
@@ -10494,7 +10504,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "쓰다",
@@ -11918,7 +11929,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "학생",
@@ -11981,7 +11993,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "유학생",
@@ -13449,7 +13462,8 @@ const WORDS_JA_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "work"
     ],
     "meanings": {
       "ko": "읽다",

@@ -14411,7 +14411,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻다",
@@ -27152,7 +27153,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "다시 말하다",
@@ -27826,7 +27828,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감언이설",
@@ -33268,7 +33271,8 @@ const WORDS_FR_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -36816,6 +36820,7 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -41597,7 +41602,8 @@ const WORDS_FR_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "다시 말하다",
@@ -50708,7 +50714,8 @@ const WORDS_FR_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -62419,7 +62426,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "하이햇",
@@ -64048,7 +64056,8 @@ const WORDS_FR_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",
@@ -67260,6 +67269,7 @@ const WORDS_FR_B2 = [
     "tags": [
       "exam",
       "daily",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -73519,7 +73529,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친한 사람",
@@ -73699,7 +73710,8 @@ const WORDS_FR_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "멧돼지 같은",

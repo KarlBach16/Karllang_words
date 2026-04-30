@@ -97,7 +97,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "안녕",
@@ -446,7 +447,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -652,7 +654,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이야기하다",
@@ -712,7 +715,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -852,7 +856,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이름",
@@ -3370,7 +3375,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -3574,7 +3580,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻다",
@@ -4153,7 +4160,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답",
@@ -5259,6 +5267,7 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -8142,7 +8151,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "듣다",
@@ -8605,7 +8615,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -8665,7 +8676,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "요청하다",
@@ -9187,7 +9199,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이야기하다",
@@ -9594,7 +9607,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답하다",
@@ -12568,7 +12582,8 @@ const WORDS_RU_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "부르다",

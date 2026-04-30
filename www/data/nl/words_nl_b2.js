@@ -2543,7 +2543,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "경청하다",
@@ -2967,7 +2968,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "좋아하다",
@@ -5241,7 +5243,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬픈",
@@ -8449,7 +8452,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하는",
@@ -14775,7 +14779,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬픈",
@@ -16711,7 +16716,8 @@ const WORDS_NL_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "변명",
@@ -21507,7 +21513,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -22724,7 +22731,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사 인사",
@@ -25492,7 +25500,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -28971,7 +28980,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사할 줄 모르는",
@@ -39516,7 +39526,8 @@ const WORDS_NL_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "기쁘게 하다",
@@ -41167,7 +41178,8 @@ const WORDS_NL_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "전 남자친구",
@@ -43025,7 +43037,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "여자 이름",
@@ -49378,7 +49391,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화난",
@@ -53741,7 +53755,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -57433,7 +57448,8 @@ const WORDS_NL_B2 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "기쁘게 하다",

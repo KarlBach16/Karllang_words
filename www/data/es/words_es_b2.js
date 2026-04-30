@@ -682,6 +682,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -4116,6 +4117,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -5442,6 +5444,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -5668,6 +5671,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -8254,6 +8258,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "travel"
     ],
     "meanings": {
@@ -9020,6 +9025,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -9451,6 +9457,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -10742,6 +10749,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -13229,6 +13237,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -13689,6 +13698,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -15756,6 +15766,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -16234,6 +16245,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -16668,6 +16680,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "travel"
     ],
     "meanings": {
@@ -18257,6 +18270,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -20881,6 +20895,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -20905,6 +20920,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -21520,6 +21536,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "travel"
     ],
     "meanings": {
@@ -21546,6 +21563,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "smalltalk"
     ],
     "meanings": {
@@ -21798,6 +21816,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -22234,6 +22253,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -22666,6 +22686,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -24116,6 +24137,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {
@@ -24418,6 +24440,7 @@ const WORDS_ES_B2 = [
     "cefr": "B2",
     "tags": [
       "exam",
+      "daily",
       "work"
     ],
     "meanings": {

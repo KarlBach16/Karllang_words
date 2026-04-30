@@ -1,4 +1,4 @@
-// FR A1 generated from fr_v2 canonical dataset
+// FR A1 generated from release candidate
 const WORDS_FR_A1 = [
   {
     "id": "fr_1",
@@ -8,7 +8,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "동쪽",
@@ -35,7 +36,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "동쪽의",
@@ -355,7 +357,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -676,7 +679,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "동일함",
@@ -1020,7 +1024,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "편도",
@@ -1205,7 +1210,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다",
@@ -1759,7 +1765,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "미안한",
@@ -2158,7 +2165,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이름",
@@ -2237,7 +2245,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "안녕",
@@ -2773,7 +2782,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일",
@@ -2880,7 +2890,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "자동차",
@@ -3121,7 +3132,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -3148,7 +3160,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "내일",
@@ -3681,7 +3694,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일부",
@@ -4056,7 +4070,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "도시",
@@ -4272,7 +4287,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일",
@@ -4380,7 +4396,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "기차",
@@ -4943,7 +4960,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "오른쪽의",
@@ -4968,7 +4986,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "법",
@@ -5341,7 +5360,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "책상",
@@ -5476,7 +5496,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "요구하다",
@@ -5663,7 +5684,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "학교",
@@ -6568,7 +6590,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "국가",
@@ -6859,7 +6882,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "계획",
@@ -7075,7 +7099,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일하다",
@@ -7452,7 +7477,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "행복한",
@@ -7612,7 +7638,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -7667,7 +7694,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "길",
@@ -8731,7 +8759,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "시장",
@@ -9019,7 +9048,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "길",
@@ -9287,7 +9317,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "책",
@@ -10551,7 +10582,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일반적인",
@@ -10628,7 +10660,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "거리",
@@ -10736,7 +10769,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "보스",
@@ -10763,7 +10797,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "변호사",
@@ -11001,7 +11036,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "여행",
@@ -11434,7 +11470,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "기념일",
@@ -11725,7 +11762,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "비행기",
@@ -11858,7 +11896,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "배",
@@ -12309,7 +12348,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "왼쪽의",
@@ -12334,7 +12374,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "왼쪽",
@@ -12468,7 +12509,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답",
@@ -12820,7 +12862,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "원하다",
@@ -13248,7 +13291,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "법",
@@ -13542,7 +13586,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "목표",
@@ -13673,7 +13718,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "수업",
@@ -13700,7 +13746,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "우체국",
@@ -14078,7 +14125,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "듣다",
@@ -14133,7 +14181,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬픈",
@@ -14158,7 +14207,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "오른쪽",
@@ -14212,7 +14262,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -14322,7 +14373,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "파일",
@@ -14941,7 +14993,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "책임 있는",
@@ -15153,7 +15206,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "쓰다",
@@ -15529,7 +15583,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "길",
@@ -15556,7 +15611,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "회의",
@@ -15583,7 +15639,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "오솔길",
@@ -16037,7 +16094,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "고객",
@@ -16442,7 +16500,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일곱",
@@ -16655,7 +16714,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대답하다",
@@ -16710,7 +16770,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "비행",
@@ -17219,7 +17280,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "변명",
@@ -17589,7 +17651,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "고등학교",
@@ -17725,7 +17788,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "은행",
@@ -18126,7 +18190,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "북쪽",
@@ -18153,7 +18218,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "여자 친구",
@@ -18286,7 +18352,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "역할",
@@ -18523,7 +18590,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "직원",
@@ -18761,7 +18829,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "남쪽",
@@ -18869,7 +18938,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "구역",
@@ -18923,7 +18993,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "용서하다",
@@ -19297,7 +19368,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "계획",
@@ -20045,7 +20117,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "만남",
@@ -20265,7 +20338,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "해결책",
@@ -20343,7 +20417,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "컴퓨터",
@@ -21064,7 +21139,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -21252,7 +21328,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "정지 표지판",
@@ -21570,7 +21647,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -21893,7 +21971,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "계약",
@@ -22054,7 +22133,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "대학교",
@@ -22422,7 +22502,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "목표물",
@@ -22553,7 +22634,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "택시",
@@ -22922,7 +23004,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사하다",
@@ -23598,7 +23681,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "거짓말하다",
@@ -23862,7 +23946,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "다리",
@@ -24532,7 +24617,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "기업",
@@ -24611,7 +24697,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "유일한",
@@ -26238,7 +26325,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "금요일",
@@ -26293,7 +26381,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일출",
@@ -26398,7 +26487,8 @@ const WORDS_FR_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "대학교",
@@ -27361,7 +27451,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "서쪽",
@@ -27388,7 +27479,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "서쪽",
@@ -27522,7 +27614,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "토요일",
@@ -28055,7 +28148,8 @@ const WORDS_FR_A1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "상표",

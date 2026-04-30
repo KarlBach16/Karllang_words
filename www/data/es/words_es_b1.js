@@ -137,7 +137,9 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "basic",
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "산책하다",
@@ -266,6 +268,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "work"
     ],
     "meanings": {
@@ -625,7 +628,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "학교의",
@@ -673,7 +677,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "오분의 일",
@@ -804,6 +809,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -1190,6 +1196,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -1293,7 +1300,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일본의",
@@ -1858,6 +1866,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -2189,6 +2198,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "work"
     ],
     "meanings": {
@@ -2865,6 +2875,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -3257,6 +3268,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -3462,6 +3474,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "daily"
     ],
     "meanings": {
@@ -6555,6 +6568,7 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "basic",
       "travel"
     ],
     "meanings": {
@@ -11609,7 +11623,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화하다",
@@ -15266,7 +15281,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻다",
@@ -16106,7 +16122,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",
@@ -18163,7 +18180,8 @@ const WORDS_ES_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",

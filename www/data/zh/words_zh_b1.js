@@ -154,7 +154,8 @@ const WORDS_ZH_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일반적인",
@@ -5355,7 +5356,8 @@ const WORDS_ZH_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "반, 학급",
@@ -5601,7 +5603,8 @@ const WORDS_ZH_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "travel"
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "유학하다",
@@ -7630,7 +7633,8 @@ const WORDS_ZH_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "일어나다",

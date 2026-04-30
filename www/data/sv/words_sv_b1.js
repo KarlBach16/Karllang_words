@@ -784,7 +784,8 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "반역",
@@ -2847,7 +2848,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "다리",
@@ -2901,7 +2903,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "표현",
@@ -3540,7 +3543,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "길",
@@ -5685,7 +5689,8 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "basic"
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "묻힌",
@@ -7261,7 +7266,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "여자 친구",
@@ -7888,7 +7894,8 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "역겨운",
@@ -9288,7 +9295,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "거리",
@@ -10593,7 +10601,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",
@@ -11045,7 +11054,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "동쪽",
@@ -11750,7 +11760,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "항구",
@@ -12015,7 +12026,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "비행",
@@ -14157,6 +14169,7 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
+      "travel",
       "work"
     ],
     "meanings": {
@@ -14839,7 +14852,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "동쪽",
@@ -15212,7 +15226,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "적당한",
@@ -18154,7 +18169,8 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "브리지",
@@ -18552,6 +18568,7 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
+      "smalltalk",
       "work"
     ],
     "meanings": {
@@ -19813,7 +19830,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이름",
@@ -20576,7 +20594,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대화",
@@ -23189,7 +23208,8 @@ const WORDS_SV_B1 = [
     "cefr": "B1",
     "tags": [
       "exam",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -23528,7 +23548,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "여행",
@@ -23689,7 +23710,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬픈",
@@ -26822,7 +26844,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "좋아요",
@@ -28257,7 +28280,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "가장 친한 친구",
@@ -31836,7 +31860,8 @@ const WORDS_SV_B1 = [
     "tags": [
       "exam",
       "basic",
-      "daily"
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "여행",
