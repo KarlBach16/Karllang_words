@@ -97,6 +97,7 @@ input, textarea {
     --safe-top: env(safe-area-inset-top);
     --safe-bottom: env(safe-area-inset-bottom);
     --bottom-nav-height: 60px;
+    --bottom-nav-offset: max(10px, var(--safe-bottom));
 }
 
 /* ===== 기본 ===== */
@@ -217,7 +218,7 @@ body {
     margin-top: 0;
     flex: 1;
     min-height: 0;
-    padding: 0 16px calc(var(--bottom-nav-height) + 12px);
+    padding: 0 16px calc(var(--bottom-nav-height) + var(--bottom-nav-offset) + 12px);
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -227,7 +228,7 @@ body {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: var(--bottom-nav-offset);
     height: var(--bottom-nav-height);
     padding: 5px 8px 4px;
     display: grid;
@@ -1604,6 +1605,14 @@ textarea {
 
     /* 로고(심볼) 시각 중심을 화면 중앙에 맞추기 위해 아래로 보정 */
     transform: translateY(34px);
+}
+
+body.state-intro:not(.intro-ready) #introScreen .start-content {
+    visibility: hidden;
+}
+
+body.state-intro.intro-ready #introScreen .start-content {
+    visibility: visible;
 }
 
 /* 3. HTML에 인라인 스타일이 있지만, 혹시 몰라 SVG 정렬 보장 */

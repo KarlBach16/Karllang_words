@@ -14384,34 +14384,6 @@ const WORDS_EN_A1 = [
     "plural": "dates"
   },
   {
-    "id": "en_645",
-    "lemma": "date",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "날짜를 쓰다",
-      "en": "date",
-      "de": "datieren",
-      "es": "fechar",
-      "fr": "dater",
-      "it": "datare",
-      "pt": "datar",
-      "ja": "日付を書く",
-      "zh": "标注日期",
-      "ru": "датировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "date",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "en_646",
     "lemma": "fall",
     "pos": "Verb",

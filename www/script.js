@@ -670,6 +670,35 @@ const NativeApp = window.Capacitor
 let LAST_BACK_TIME = 0;
 const FORCE_START_SCREEN_FOR_DESIGN = false;
 
+function prepareIntroVisual() {
+  const body = document.body;
+  const logo = document.querySelector("#introScreen .hero-logo");
+  if (!body || !logo) {
+    if (body) body.classList.add("intro-ready");
+    return;
+  }
+
+  let revealed = false;
+  const reveal = () => {
+    if (revealed) return;
+    revealed = true;
+    body.classList.add("intro-ready");
+  };
+
+  if (logo.complete && logo.naturalWidth > 0) {
+    if (typeof logo.decode === "function") {
+      logo.decode().then(reveal).catch(reveal);
+    } else {
+      reveal();
+    }
+    return;
+  }
+
+  logo.addEventListener("load", reveal, { once: true });
+  logo.addEventListener("error", reveal, { once: true });
+  setTimeout(reveal, 700);
+}
+
 function handleAndroidBack() {
   // 1) 단어 상세 오버레이 열려 있으면 닫기
   if (DOM.detailOverlay && DOM.detailOverlay.classList.contains("active")) {
@@ -7061,6 +7090,8 @@ function init() {
 
 // ===== 인트로 / 시작 화면 + 초기화 제어 =====
 document.addEventListener("DOMContentLoaded", () => {
+  prepareIntroVisual();
+
   // 1) 공통 초기화 (DOM 캐시, 이벤트 바인딩, 번역 적용 등)
   init();
 
