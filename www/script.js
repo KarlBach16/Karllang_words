@@ -5034,9 +5034,9 @@ function handleConfirm() {
         pack.no_words_today || "오늘은 학습할 단어가 없습니다.";
       return;
     }
-    logEvent("start_session", {
-      lang: SETTINGS.studyLang,
-      mode: SETTINGS.mode,
+    logAnalyticsEvent("start_session", {
+      ...getSessionAnalyticsParams(),
+      target_count: APP_STATE.totalTarget,
     });
     recordAttendanceForStudyStart();
     showNextQuestion();
@@ -5702,11 +5702,15 @@ function addCurrentSessionToDailySummary() {
 
 function showEndStats() {
   setPhase("FINISHED");
-  logEvent("complete_session", {
-    lang: SETTINGS.studyLang,
-    mode: SETTINGS.mode,
-    correct: APP_STATE.sessionCorrectCount || 0,
-    wrong: APP_STATE.sessionWrongCount || 0,
+  logAnalyticsEvent("complete_session", {
+    ...getSessionAnalyticsParams(),
+    total_count: APP_STATE.completed || 0,
+    new_count: APP_STATE.newCount || 0,
+    review_count: APP_STATE.reviewCount || 0,
+    hard_count: APP_STATE.sessionHardCount || 0,
+    normal_count: APP_STATE.sessionNormalCount || 0,
+    easy_count: APP_STATE.sessionEasyCount || 0,
+    mistake_count: APP_STATE.sessionWrongCount || 0,
   });
   DOM.mainCard.style.display = "none";
   DOM.endStatsArea.style.display = "block";
@@ -6573,7 +6577,7 @@ async function openFeedbackMail() {
   window.location.href = href;
 }
 
-async function logEvent(name, params = {}) {
+async function logAnalyticsEvent(name, params = {}) {
   const nativeAnalytics = window.Capacitor?.Plugins?.NativeAnalytics;
   if (window.Capacitor?.isNativePlatform?.() && nativeAnalytics?.logEvent) {
     try {
@@ -6582,6 +6586,35 @@ async function logEvent(name, params = {}) {
       console.error("[analytics] error", e);
     }
   }
+}
+
+function getSessionAnalyticsParams() {
+  return {
+    study_lang: SETTINGS.studyLang,
+    ui_lang: CURRENT_LANG,
+    mode: SETTINGS.mode,
+    cefr: SETTINGS.newWordCefr,
+    category: SETTINGS.newWordCategory,
+  };
+}
+
+function getTabAnalyticsName(view) {
+  const map = {
+    user: "home",
+    study: "study",
+    training: "training",
+    words: "words",
+    settings: "settings",
+  };
+  return map[view] || null;
+}
+
+function logLanguageChange(eventName, fromLang, toLang) {
+  if (!fromLang || !toLang || fromLang === toLang) return;
+  logAnalyticsEvent(eventName, {
+    from_lang: fromLang,
+    to_lang: toLang,
+  });
 }
 
 /* ============================================
@@ -6616,15 +6649,27 @@ function attachEvents() {
   // 시작 화면: UI 언어 변경 시 즉시 미리보기
   if (DOM.startUiLang) {
     DOM.startUiLang.addEventListener("change", () => {
+      const fromLang = CURRENT_LANG || SETTINGS.uiLang;
       const tempLang = DOM.startUiLang.value;
 
       // SETTINGS는 아직 확정(저장) 안 하고,
       // CURRENT_LANG만 바꿔서 "미리보기"만 적용
       CURRENT_LANG = tempLang;
+      logLanguageChange("change_ui_language", fromLang, tempLang);
 
       // 번역 다시 적용 → 시작화면/학습화면 라벨, 버튼, 문구 전부 갱신
       applyTranslations();
       updateStudyStartSummary();
+    });
+  }
+
+  if (DOM.startStudyLang) {
+    DOM.startStudyLang.addEventListener("change", () => {
+      const fromLang =
+        DOM.startStudyLang.dataset.analyticsValue || SETTINGS.studyLang;
+      const toLang = DOM.startStudyLang.value;
+      DOM.startStudyLang.dataset.analyticsValue = toLang;
+      logLanguageChange("change_study_language", fromLang, toLang);
     });
   }
 
@@ -6649,6 +6694,14 @@ function attachEvents() {
     DOM.bottomTabs.forEach((tab) => {
       tab.addEventListener("click", () => {
         const view = tab.dataset.view;
+        const tabName = getTabAnalyticsName(view);
+        const willMove =
+          view === "study"
+            ? APP_STATE.currentView !== "study"
+            : APP_STATE.currentView !== view;
+        if (tabName && willMove) {
+          logAnalyticsEvent("select_tab", { tab: tabName });
+        }
         if (view === "study") {
           goToStudyFromNav();
           return;
@@ -6822,7 +6875,10 @@ function attachEvents() {
 
   if (DOM.settingsUiLang) {
     DOM.settingsUiLang.addEventListener("change", () => {
-      SETTINGS.uiLang = DOM.settingsUiLang.value;
+      const fromLang = SETTINGS.uiLang;
+      const toLang = DOM.settingsUiLang.value;
+      logLanguageChange("change_ui_language", fromLang, toLang);
+      SETTINGS.uiLang = toLang;
       CURRENT_LANG = SETTINGS.uiLang;
       saveSettings();
 
@@ -6838,10 +6894,10 @@ function attachEvents() {
 
   if (DOM.settingsStudyLang) {
     DOM.settingsStudyLang.addEventListener("change", () => {
-      SETTINGS.studyLang = DOM.settingsStudyLang.value;
-      logEvent("select_study_language", {
-        lang: SETTINGS.studyLang,
-      });
+      const fromLang = SETTINGS.studyLang;
+      const toLang = DOM.settingsStudyLang.value;
+      logLanguageChange("change_study_language", fromLang, toLang);
+      SETTINGS.studyLang = toLang;
       saveSettings();
       initTtsVoices();
 

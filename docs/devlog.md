@@ -63,6 +63,80 @@
 - `node --check www/translations.js`
 - `git diff --check`
 
+## 2026-04-30 - Firebase Analytics 이벤트 정리
+
+### 목적
+
+- Firebase Analytics 이벤트를 실제 사용자 행동 중심으로 정리했다.
+- 테스트 이벤트와 자동 렌더링에서 발생할 수 있는 불필요한 이벤트를 제거했다.
+- 세션 시작/완료, 언어 변경, 하단 탭 이동처럼 제품 판단에 필요한 이벤트만 남겼다.
+
+### 이벤트 정리
+
+- `test_event` 호출이 남아 있지 않은지 확인했다.
+- 기존 `logEvent` 직접 호출을 `logAnalyticsEvent` 래퍼로 정리했다.
+- Firebase/NativeAnalytics가 없어도 앱이 죽지 않도록 네이티브 플러그인 존재 여부를 확인한 뒤 이벤트를 보낸다.
+- 단어 ID는 Firebase로 보내지 않도록 유지했다.
+- 문제 하나마다 이벤트를 보내는 로직은 추가하지 않았다.
+- `applyTranslations`, `hydrateSettingsToUI` 같은 자동 UI 동기화 함수에서는 이벤트를 보내지 않도록 유지했다.
+
+### 세션 이벤트
+
+- 일반 학습 시작 버튼을 눌러 실제 학습 큐가 만들어지고, 학습할 단어가 있을 때만 `start_session`을 보낸다.
+- `start_session` 파라미터를 보강했다.
+  - `study_lang`
+  - `ui_lang`
+  - `mode`
+  - `cefr`
+  - `category`
+  - `target_count`
+- 학습 세션 완료 시 `complete_session`을 보낸다.
+- `complete_session` 파라미터를 보강했다.
+  - `study_lang`
+  - `ui_lang`
+  - `mode`
+  - `cefr`
+  - `category`
+  - `total_count`
+  - `new_count`
+  - `review_count`
+  - `hard_count`
+  - `normal_count`
+  - `easy_count`
+  - `mistake_count`
+
+### 언어 변경 이벤트
+
+- 기존 `select_study_language` 이벤트를 제거했다.
+- 사용자가 실제 select를 변경했을 때만 언어 변경 이벤트를 보내도록 했다.
+- UI 언어 변경은 `change_ui_language`로 기록한다.
+- 학습 언어 변경은 `change_study_language`로 기록한다.
+- 두 이벤트 모두 `from_lang`, `to_lang`만 보낸다.
+
+### 하단 탭 이벤트
+
+- 사용자가 하단 탭을 눌러 실제 화면 이동이 일어날 때만 `select_tab`을 보낸다.
+- 같은 탭을 다시 누르는 경우에는 이벤트를 보내지 않도록 했다.
+- 탭 값은 다음 중 하나로 제한했다.
+  - `home`
+  - `study`
+  - `training`
+  - `words`
+  - `settings`
+
+### iOS/Android 동기화
+
+- 실기기 테스트를 위해 Capacitor 웹 에셋을 iOS/Android 프로젝트에 동기화했다.
+- iOS 버전/빌드 값은 현재 릴리스 준비 상태에 맞게 유지했다.
+  - `MARKETING_VERSION = 1.2.0`
+  - `CURRENT_PROJECT_VERSION = 4`
+
+### 검증
+
+- `node --check www/script.js`
+- `git diff --check`
+- `test_event`, `select_study_language` 잔여 참조 검색
+
 ## 2026-04-29 - 홈 출석 카드와 상태 프레임 정리
 
 ### 목적
