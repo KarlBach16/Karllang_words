@@ -1,4 +1,4 @@
-// PL B1 generated from pl_v2 canonical dataset
+// PL B1 generated from release candidate
 const WORDS_PL_B1 = [
   {
     "id": "pl_1169",
@@ -139,7 +139,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "백작",
@@ -348,7 +349,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "직선",
@@ -2980,7 +2982,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시민 민병대",
@@ -10249,7 +10252,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이온",
@@ -10791,7 +10795,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "멜",
@@ -11217,7 +11222,8 @@ const WORDS_PL_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "봉건적인",
@@ -13719,7 +13725,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "사형 집행인",
@@ -13877,7 +13884,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "희생",
@@ -16441,7 +16449,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "카이",
@@ -18980,7 +18989,8 @@ const WORDS_PL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "그란데",

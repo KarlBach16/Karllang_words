@@ -1,4 +1,4 @@
-// PL B2 generated from pl_v2 canonical dataset
+// PL B2 generated from release candidate
 const WORDS_PL_B2 = [
   {
     "id": "pl_2009",
@@ -1613,7 +1613,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "농부",
@@ -1638,7 +1639,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "알루미늄",
@@ -2167,7 +2169,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부",
@@ -5142,7 +5145,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "칸",
@@ -5453,7 +5457,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전선",
@@ -8709,7 +8714,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포자",
@@ -10985,7 +10991,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "카이사르",
@@ -18177,7 +18184,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이식",
@@ -21829,7 +21837,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무한",
@@ -23337,7 +23346,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "피제수",
@@ -23600,7 +23610,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "증후군",
@@ -23675,7 +23686,8 @@ const WORDS_PL_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "베타",
@@ -26217,7 +26229,8 @@ const WORDS_PL_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고귀한",

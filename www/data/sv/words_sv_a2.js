@@ -1,4 +1,4 @@
-// SV A2 generated from sv_v2 canonical dataset
+// SV A2 generated from release candidate
 const WORDS_SV_A2 = [
   {
     "id": "sv_633",
@@ -17893,7 +17893,8 @@ const WORDS_SV_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "그리스 문자 뮤",

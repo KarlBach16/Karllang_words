@@ -1,6 +1,4 @@
-// ⚠️ 이 파일은 scripts/merge_b1_tags.js로 자동 생성되었습니다.
-// WORDS_DE_B1 + b1_tags_all.json 태그 머지 버전입니다.
-
+// DE B1 generated from release candidate
 const WORDS_DE_B1 = [
   {
     "lemma": "abbiegen",
@@ -42,7 +40,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Abbildung",
@@ -191,7 +190,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "abhängen",
@@ -224,7 +224,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "abhängig",
@@ -551,7 +552,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Abschnitt",
@@ -580,7 +582,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Absicht",
@@ -609,7 +612,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "absolut",
@@ -879,7 +883,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ähnlich",
@@ -1084,7 +1089,8 @@ const WORDS_DE_B1 = [
     "pos": "Partikel",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "aller-",
@@ -1109,7 +1115,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "allerdings",
@@ -1134,7 +1141,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "allgemein",
@@ -1269,7 +1277,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "als ob",
@@ -1381,7 +1390,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "alternativ",
@@ -1658,7 +1668,9 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "andererseits",
@@ -1717,7 +1729,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "anfangs",
@@ -3601,7 +3614,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "auseinander",
@@ -8501,7 +8515,8 @@ const WORDS_DE_B1 = [
     "pos": "Pronomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "derselbe",
@@ -11155,7 +11170,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "einzig-",
@@ -11262,7 +11278,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Elektro-",
@@ -11411,7 +11428,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "endgültig",
@@ -11466,7 +11484,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "entdecken",
@@ -11787,7 +11806,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "unentschieden",
@@ -11812,7 +11832,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "sich entschließen",
@@ -11845,7 +11866,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "entschlossen",
@@ -11930,7 +11952,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "entstehen",
@@ -12206,7 +12229,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Ereignis",
@@ -12235,7 +12259,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sich ereignen",
@@ -12268,7 +12293,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "erfahren",
@@ -12331,7 +12357,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "erfinden",
@@ -12364,7 +12391,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Erfindung",
@@ -12509,7 +12537,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "erfüllen",
@@ -12610,7 +12639,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "erhöhen",
@@ -12831,7 +12861,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "erkennen",
@@ -13028,7 +13059,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "erleichtern",
@@ -13123,7 +13155,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ernst",
@@ -13148,7 +13181,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ernsthaft",
@@ -13173,7 +13207,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Ernte",
@@ -13236,7 +13271,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Eröffnung",
@@ -13359,7 +13395,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "ersetzen",
@@ -13392,7 +13429,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Ersatz",
@@ -13540,7 +13578,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Erzählung",
@@ -13716,7 +13755,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "eventuell",
@@ -13853,7 +13893,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "extrem",
@@ -14112,7 +14153,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Faktor",
@@ -14141,7 +14183,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fall",
@@ -14399,7 +14442,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "fassen",
@@ -14496,7 +14540,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Feld",
@@ -14612,7 +14657,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "fest",
@@ -14671,7 +14717,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Festplatte",
@@ -14734,7 +14781,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "festnehmen",
@@ -14767,7 +14815,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "flach",
@@ -14792,7 +14841,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fläche",
@@ -14933,7 +14983,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "fliehen",
@@ -14966,7 +15017,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Flucht",
@@ -15023,7 +15075,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "fließen",
@@ -15056,7 +15109,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "flüssig",
@@ -15146,7 +15200,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Folge",
@@ -15175,7 +15230,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "folgend",
@@ -15328,7 +15384,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Form",
@@ -15417,7 +15474,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fortschritt",
@@ -15446,7 +15504,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "fortsetzen",
@@ -15479,7 +15538,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fortsetzung",
@@ -15508,7 +15568,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Forum",
@@ -15565,7 +15626,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fotografie",
@@ -15648,7 +15710,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Freiheit",
@@ -15830,7 +15893,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Friede",
@@ -16294,7 +16358,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "gar",
@@ -16559,7 +16624,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gebiet",
@@ -16776,7 +16842,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gedicht",
@@ -16859,7 +16926,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "geeignet",
@@ -16948,7 +17016,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gefängnis",
@@ -17007,7 +17076,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Gegner",
@@ -17066,7 +17136,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gegensatz",
@@ -17095,7 +17166,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gegenstand",
@@ -17243,7 +17315,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Gelegenheit",
@@ -17272,7 +17345,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "gelingen",
@@ -17305,7 +17379,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "gelten",
@@ -17364,7 +17439,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gemeinschaft",
@@ -17569,7 +17645,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "genügen",
@@ -17628,7 +17705,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "gerecht",
@@ -17653,7 +17731,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "gering",
@@ -17678,7 +17757,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "gesamt-",
@@ -17703,7 +17783,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "geschehen",
@@ -17736,7 +17817,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Geschichte",
@@ -17791,7 +17873,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Geschlecht",
@@ -17908,7 +17991,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Gesellschaft",
@@ -17937,7 +18021,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Gesetz",
@@ -17992,7 +18077,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gewalt",
@@ -18199,7 +18285,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "gewöhnlich",
@@ -18288,7 +18375,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Gift",
@@ -18317,7 +18405,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "giftig",
@@ -18425,7 +18514,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "gleichberechtigt",
@@ -18450,7 +18540,9 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "gleichzeitig",
@@ -18475,7 +18567,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Gold",
@@ -18502,7 +18595,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Golf",
@@ -18529,7 +18623,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Gott",
@@ -18558,7 +18653,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Grafik",
@@ -18671,7 +18767,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "greifen",
@@ -18830,7 +18927,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Grund",
@@ -18859,7 +18957,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "gründlich",
@@ -18884,7 +18983,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Grundstück",
@@ -19069,7 +19169,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "hageln",
@@ -19427,7 +19528,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "häufig",
@@ -19452,7 +19554,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Haupt-",
@@ -19627,7 +19730,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Heim",
@@ -19744,7 +19848,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Held",
@@ -19803,7 +19908,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "herausfinden",
@@ -19892,7 +19998,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Herkunft",
@@ -19949,7 +20056,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "herunter-",
@@ -19974,7 +20082,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "herunterfahren",
@@ -20038,7 +20147,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "heutig-",
@@ -20157,7 +20267,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "hinterher",
@@ -20182,7 +20293,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "hinweisen",
@@ -20215,7 +20327,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Hinweis",
@@ -20244,7 +20357,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "historisch",
@@ -20297,7 +20411,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Höhe",
@@ -20324,7 +20439,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "hochladen",
@@ -20357,7 +20473,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "höchstens",
@@ -20412,7 +20529,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Bauernhof",
@@ -20554,7 +20672,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Hörer",
@@ -20583,7 +20703,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Zuhörer",
@@ -20845,7 +20967,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ideal",
@@ -20870,7 +20993,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "illegal",
@@ -20955,7 +21079,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "indem",
@@ -20980,7 +21105,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "individuell",
@@ -21095,7 +21221,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Inhalt",
@@ -21176,7 +21303,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "inner-",
@@ -21201,7 +21329,8 @@ const WORDS_DE_B1 = [
     "pos": "Präposition",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "innerhalb",
@@ -21256,7 +21385,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "insgesamt",
@@ -21281,7 +21411,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "installieren",
@@ -21314,7 +21445,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Institut",
@@ -21343,7 +21475,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "integrieren",
@@ -21376,7 +21509,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Integration",
@@ -21405,7 +21539,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Intelligenz",
@@ -21432,7 +21567,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "intensiv",
@@ -21457,7 +21593,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Intensivkurs",
@@ -21486,7 +21623,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "interessiert",
@@ -21511,7 +21649,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "interkulturell",
@@ -21536,7 +21675,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "inzwischen",
@@ -21729,7 +21869,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "je",
@@ -21754,7 +21895,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "je ... desto",
@@ -21831,7 +21973,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "jedoch",
@@ -21856,7 +21999,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "jemals",
@@ -21881,7 +22025,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "jeweils",
@@ -22113,7 +22258,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "kämpfen",
@@ -22146,7 +22292,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kampf",
@@ -22175,7 +22322,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kanal",
@@ -22204,7 +22352,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kandidat",
@@ -22293,7 +22442,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kapitel",
@@ -22600,7 +22750,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kassette",
@@ -22689,7 +22840,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Katastrophe",
@@ -22834,7 +22986,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "kaum",
@@ -22949,7 +23102,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "klären",
@@ -23008,7 +23162,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Klassenarbeit",
@@ -23105,7 +23260,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "klicken",
@@ -23138,7 +23294,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Klick",
@@ -23167,7 +23324,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Klima",
@@ -23418,7 +23576,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "knapp",
@@ -23652,7 +23811,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "komplett",
@@ -23677,7 +23837,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "kompliziert",
@@ -23792,7 +23953,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Konflikt",
@@ -23821,7 +23983,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "König",
@@ -23908,7 +24071,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "konsumieren",
@@ -23941,7 +24105,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Konsum",
@@ -24156,7 +24321,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "körperlich",
@@ -24181,7 +24347,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "korrekt",
@@ -24236,7 +24403,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "korrigieren",
@@ -24361,7 +24529,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Kraft",
@@ -24420,7 +24589,10 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Kraftwerk",
@@ -24621,7 +24793,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kreis",
@@ -24650,7 +24823,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kreuz",
@@ -24679,7 +24853,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kriminal-",
@@ -24706,7 +24881,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kriminalpolizei",
@@ -24733,7 +24909,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Krise",
@@ -24796,7 +24973,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kritik",
@@ -24825,7 +25003,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "kritisch",
@@ -24944,7 +25123,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Künstler",
@@ -24973,7 +25153,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "künstlich",
@@ -25028,7 +25209,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Kursleiter",
@@ -25087,7 +25269,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "kürzlich",
@@ -25300,7 +25483,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Landwirtschaft",
@@ -25391,7 +25575,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Länge",
@@ -25418,7 +25603,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "längst",
@@ -25563,7 +25749,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Laufwerk",
@@ -25622,7 +25809,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Lautsprecher",
@@ -25830,7 +26018,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "leisten",
@@ -25957,7 +26146,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Lerner",
@@ -25986,7 +26176,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Leser",
@@ -26041,7 +26232,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Lexikon",
@@ -26240,7 +26432,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Literatur",
@@ -26327,7 +26520,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "sich lohnen",
@@ -26421,7 +26615,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "löschen",
@@ -26454,7 +26649,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "lösen",
@@ -26487,7 +26683,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Magazin",
@@ -26632,7 +26829,8 @@ const WORDS_DE_B1 = [
     "pos": "Pronomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "manch-",
@@ -26657,7 +26855,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Mangel",
@@ -26716,7 +26915,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Märchen",
@@ -26803,7 +27003,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "markieren",
@@ -26866,7 +27067,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Matura",
@@ -26893,7 +27095,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Mauer",
@@ -26922,7 +27125,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "maximal",
@@ -26975,7 +27179,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Mehrheit",
@@ -27058,7 +27263,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "meist-",
@@ -27083,7 +27289,10 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Meldung",
@@ -27112,7 +27321,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "menschlich",
@@ -27227,7 +27437,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Methode",
@@ -27346,7 +27557,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Migrant",
@@ -27375,7 +27587,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Migration",
@@ -27428,7 +27641,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Minderheit",
@@ -27457,7 +27671,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "minimal",
@@ -27516,7 +27731,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "miss-",
@@ -27598,7 +27814,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Mitglied",
@@ -27661,7 +27878,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "mitten",
@@ -27686,7 +27904,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "mittler-",
@@ -27711,7 +27930,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "mittlerweile",
@@ -27792,7 +28012,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Mobilität",
@@ -27821,7 +28042,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Modell",
@@ -27850,7 +28072,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Möglichkeit",
@@ -27879,7 +28102,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "möglichst",
@@ -27934,7 +28158,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Mühe",
@@ -28019,7 +28244,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "mündlich",
@@ -28075,7 +28301,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "musikalisch",
@@ -28156,7 +28383,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "nachdem",
@@ -28271,7 +28499,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Nachhilfe",
@@ -28300,7 +28529,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "nachschlagen",
@@ -28389,7 +28619,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Nachteil",
@@ -28566,7 +28797,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "sich nähern",
@@ -28599,7 +28831,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Nahrungsmittel",
@@ -28628,7 +28861,9 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "de": "nämlich",
@@ -28684,7 +28919,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "national",
@@ -28821,7 +29057,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "negativ",
@@ -28902,7 +29139,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "work"
     ],
     "meanings": {
       "de": "Netzwerk",
@@ -28931,7 +29170,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Neuigkeit",
@@ -28960,7 +29200,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "neulich",
@@ -29015,7 +29256,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "niedrig",
@@ -29040,7 +29282,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "nirgendwo",
@@ -29091,7 +29334,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "nochmals",
@@ -29116,7 +29360,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "normalerweise",
@@ -29141,7 +29386,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Not-",
@@ -29288,7 +29534,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "nötig",
@@ -29339,7 +29586,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "nutzen",
@@ -29372,7 +29620,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "nützen",
@@ -29405,7 +29654,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ober-",
@@ -29460,7 +29710,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Öffentlichkeit",
@@ -29518,7 +29769,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Opfer",
@@ -29573,7 +29825,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Orchester",
@@ -29723,7 +29976,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Vorort",
@@ -29752,7 +30006,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Ozean",
@@ -29837,7 +30092,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Paradies",
@@ -29864,7 +30120,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "parallel",
@@ -29950,7 +30207,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Parlament",
@@ -29979,7 +30237,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Partei",
@@ -30008,7 +30267,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "passiv",
@@ -30211,7 +30471,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Pensionist",
@@ -30240,7 +30501,8 @@ const WORDS_DE_B1 = [
     "pos": "Präposition",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "per",
@@ -30295,7 +30557,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "work"
     ],
     "meanings": {
       "de": "Personalien",
@@ -30322,7 +30586,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Personenstand",
@@ -30619,7 +30884,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Plakat",
@@ -30704,7 +30970,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Politik",
@@ -30731,7 +30998,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Politiker",
@@ -30760,7 +31028,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "politisch",
@@ -30939,7 +31208,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Presse",
@@ -31022,7 +31292,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Professor",
@@ -31051,7 +31322,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Profi",
@@ -31106,7 +31378,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "protestieren",
@@ -31139,7 +31412,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Protest",
@@ -31168,7 +31442,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Prozess",
@@ -31197,7 +31472,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Publikum",
@@ -31224,7 +31500,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Punkt",
@@ -31281,7 +31558,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "quer",
@@ -31368,7 +31646,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Rand",
@@ -31566,7 +31845,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "reagieren",
@@ -31599,7 +31879,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Reaktion",
@@ -31626,7 +31907,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "realisieren",
@@ -31659,7 +31941,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "realistisch",
@@ -31684,7 +31967,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Realität",
@@ -31773,7 +32057,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "recht",
@@ -31798,7 +32083,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Recht",
@@ -31851,7 +32138,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Rede",
@@ -31912,7 +32200,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Referat",
@@ -31939,7 +32229,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Reform",
@@ -31994,7 +32285,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Regel",
@@ -32021,7 +32313,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "regelmäßig",
@@ -32046,7 +32339,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "regeln",
@@ -32107,7 +32401,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "regional",
@@ -32192,7 +32487,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Reihenfolge",
@@ -32253,7 +32549,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Reklame",
@@ -32280,7 +32577,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Rekord",
@@ -32307,7 +32605,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "relativ",
@@ -32332,7 +32631,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Religion",
@@ -32359,7 +32659,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Reportage",
@@ -32386,7 +32688,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "de": "Reporter",
@@ -32469,7 +32773,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "retten",
@@ -32502,7 +32807,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Richter",
@@ -32583,7 +32889,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Risiko",
@@ -32664,7 +32971,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "rück-",
@@ -32717,7 +33025,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Rückkehr",
@@ -32938,7 +33247,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Saal",
@@ -33131,7 +33441,8 @@ const WORDS_DE_B1 = [
     "pos": "Pronomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sämtliche",
@@ -33184,7 +33495,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Sänger",
@@ -33266,7 +33578,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schaden",
@@ -33299,7 +33612,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schaden",
@@ -33326,7 +33640,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schädlich",
@@ -33447,7 +33762,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schätzen",
@@ -33515,7 +33831,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schauspieler",
@@ -33720,7 +34037,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schießen",
@@ -33954,7 +34272,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schließlich",
@@ -34215,7 +34534,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schrift",
@@ -34242,7 +34562,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schriftlich",
@@ -34267,7 +34588,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schriftsteller",
@@ -34385,7 +34707,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schützen",
@@ -34418,7 +34741,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schutz",
@@ -34563,7 +34887,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "schwierig",
@@ -34588,7 +34913,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Schwierigkeit",
@@ -34649,7 +34975,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "seitdem",
@@ -34674,7 +35001,8 @@ const WORDS_DE_B1 = [
     "pos": "Pronomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "selb-",
@@ -34751,7 +35079,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "selten",
@@ -34830,7 +35159,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "senden",
@@ -34863,7 +35193,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Senior",
@@ -34890,7 +35221,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "senkrecht",
@@ -34943,7 +35275,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Sicherheit",
@@ -34970,7 +35303,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sichern",
@@ -35003,7 +35337,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sichtbar",
@@ -35028,7 +35363,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Sieg",
@@ -35055,7 +35391,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "siegen",
@@ -35088,7 +35425,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Sieger",
@@ -35115,7 +35453,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sinken",
@@ -35148,7 +35487,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Sinn",
@@ -35175,7 +35515,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sinnvoll",
@@ -35228,7 +35569,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sobald",
@@ -35281,7 +35623,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sodass",
@@ -35306,7 +35649,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "sofern",
@@ -35331,7 +35675,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sogar",
@@ -35356,7 +35701,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sogenannt",
@@ -35381,7 +35727,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "solange",
@@ -35406,7 +35753,8 @@ const WORDS_DE_B1 = [
     "pos": "Pronomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "solch-",
@@ -35431,7 +35779,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Soldat",
@@ -35628,7 +35977,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "soviel",
@@ -35653,7 +36003,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sowieso",
@@ -35678,7 +36029,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sowohl ... als auch",
@@ -35703,7 +36055,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sozial",
@@ -35754,7 +36107,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "spätestens",
@@ -35807,7 +36161,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "speichern",
@@ -35924,7 +36279,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Spezial-",
@@ -35979,7 +36335,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "speziell",
@@ -36032,7 +36389,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Spieler",
@@ -36113,7 +36471,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Sportart",
@@ -36140,7 +36499,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Sportler",
@@ -36167,7 +36527,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Fremdsprache",
@@ -36194,7 +36555,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Muttersprache",
@@ -36221,7 +36584,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zweitsprache",
@@ -36435,7 +36799,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Stadion",
@@ -36462,7 +36827,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "städtisch",
@@ -36487,7 +36853,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "stammen",
@@ -36520,7 +36887,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ständig",
@@ -36545,7 +36913,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Standpunkt",
@@ -36600,7 +36969,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "treu",
@@ -36744,7 +37114,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "trotzdem",
@@ -36882,7 +37253,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Übung",
@@ -36909,7 +37281,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "überfahren",
@@ -36942,7 +37315,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "überhaupt",
@@ -37035,7 +37409,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "unterschiedlich",
@@ -37060,7 +37435,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "unterstreichen",
@@ -37127,7 +37503,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "de": "Unterstützung",
@@ -37188,7 +37565,9 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "work"
     ],
     "meanings": {
       "de": "Urkunde",
@@ -37215,7 +37594,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Ursache",
@@ -37242,7 +37622,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "verursachen",
@@ -37275,7 +37656,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "ursprünglich",
@@ -37300,7 +37682,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Urteil",
@@ -37505,7 +37888,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sich verändern",
@@ -37592,7 +37976,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sich verbessern",
@@ -37625,7 +38010,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "verbieten",
@@ -37658,7 +38044,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Verbot",
@@ -37747,7 +38134,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Verständnis",
@@ -37808,7 +38196,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "versteckt",
@@ -37867,7 +38256,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Versuch",
@@ -38080,7 +38470,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "verurteilen",
@@ -38201,7 +38592,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "verwenden",
@@ -38297,7 +38689,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "verzichten",
@@ -38412,7 +38805,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "virtuell",
@@ -38437,7 +38831,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Virus",
@@ -38520,7 +38915,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "völlig",
@@ -38545,7 +38941,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "voneinander",
@@ -38596,7 +38993,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "vor allem",
@@ -38621,7 +39019,9 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "voraus",
@@ -38646,7 +39046,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Voraussetzung",
@@ -38673,7 +39074,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "voraussichtlich",
@@ -38698,7 +39100,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sich vorbereiten",
@@ -38731,7 +39134,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Vorbereitung",
@@ -38758,7 +39162,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "vorder-",
@@ -38845,7 +39250,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "vorher",
@@ -38870,7 +39276,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "vorhin",
@@ -38895,7 +39302,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "vorkommen",
@@ -38928,7 +39336,10 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "vorläufig",
@@ -38987,7 +39398,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "vorschlagen",
@@ -39020,7 +39432,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Vorschrift",
@@ -39082,7 +39495,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Vorstellung",
@@ -39137,7 +39551,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Vorteil",
@@ -39164,7 +39579,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Vortrag",
@@ -39245,7 +39661,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "waagerecht",
@@ -39296,7 +39713,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "wachsen",
@@ -39357,7 +39775,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wahl",
@@ -39410,7 +39829,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wahrheit",
@@ -39463,7 +39883,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "wahrscheinlich",
@@ -39544,7 +39965,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "warnen",
@@ -39694,7 +40116,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "de": "weder ... noch",
@@ -39754,7 +40177,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "sich weigern",
@@ -39787,7 +40211,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "-weise",
@@ -39900,7 +40325,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Werbung",
@@ -39961,7 +40387,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "Werk",
@@ -39988,7 +40415,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wert",
@@ -40015,7 +40443,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "wertlos",
@@ -40040,7 +40469,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "weshalb",
@@ -40155,7 +40585,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "widersprechen",
@@ -40188,7 +40619,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wiederholung",
@@ -40215,7 +40647,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Wiese",
@@ -40328,7 +40761,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "de": "wirken",
@@ -40361,7 +40795,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wirkung",
@@ -40388,7 +40823,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wirklichkeit",
@@ -40443,7 +40879,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Wissen",
@@ -40470,7 +40907,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wissenschaft",
@@ -40497,7 +40935,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wissenschaftler",
@@ -40524,7 +40963,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Wohnsitz",
@@ -40551,7 +40991,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "worüber",
@@ -40576,7 +41017,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "worum",
@@ -40629,7 +41071,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Wunder",
@@ -40716,7 +41159,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Anzahl",
@@ -40771,7 +41215,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zahlreich",
@@ -40824,7 +41269,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zeichen",
@@ -40913,7 +41359,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zeichnung",
@@ -40940,7 +41387,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zeile",
@@ -40995,7 +41443,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zeuge",
@@ -41050,7 +41499,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zirkus",
@@ -41077,7 +41527,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zivilstand",
@@ -41104,7 +41555,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Zone",
@@ -41165,7 +41617,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zufall",
@@ -41192,7 +41645,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "zufällig",
@@ -41217,7 +41671,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zugang",
@@ -41244,7 +41699,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zugänglich",
@@ -41332,7 +41788,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zukunft",
@@ -41359,7 +41816,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zukünftig",
@@ -41384,7 +41842,8 @@ const WORDS_DE_B1 = [
     "pos": "Adverb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zunächst",
@@ -41533,7 +41992,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zusagen",
@@ -41594,7 +42054,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zusammenfassen",
@@ -41627,7 +42088,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zusammenhang",
@@ -41654,7 +42116,8 @@ const WORDS_DE_B1 = [
     "pos": "Adjektiv",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zusätzlich",
@@ -41775,7 +42238,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zustand",
@@ -41828,7 +42292,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "Zustimmung",
@@ -41937,7 +42402,8 @@ const WORDS_DE_B1 = [
     "pos": "Konjunktion",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zwar",
@@ -41962,7 +42428,8 @@ const WORDS_DE_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "de": "Zweifel",
@@ -41989,7 +42456,8 @@ const WORDS_DE_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "de": "zwingen",
@@ -42018,7 +42486,3 @@ const WORDS_DE_B1 = [
     "id": "zwingen_v_1"
   }
 ];
-
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { WORDS_DE_B1 };
-}

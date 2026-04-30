@@ -3007,7 +3007,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "고대",
@@ -6946,7 +6947,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "에테르",
@@ -7003,7 +7005,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "혼돈",
@@ -15353,7 +15356,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인류",
@@ -26409,7 +26413,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "처형",
@@ -26490,7 +26495,8 @@ const WORDS_RU_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아우구스타",

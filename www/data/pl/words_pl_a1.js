@@ -1,4 +1,4 @@
-// PL A1 generated from pl_v2 canonical dataset
+// PL A1 generated from release candidate
 const WORDS_PL_A1 = [
   {
     "id": "pl_1",
@@ -9583,7 +9583,8 @@ const WORDS_PL_A1 = [
     "pos": "Nomen",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "산",

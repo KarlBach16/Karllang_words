@@ -6,7 +6,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "늦어지다",
@@ -37,7 +38,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "독하다",
@@ -65,7 +67,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뜰",
@@ -95,7 +98,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "명단",
@@ -125,7 +129,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무의미하다",
@@ -153,7 +158,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "문구",
@@ -183,7 +190,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "미만",
@@ -213,7 +221,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "백색",
@@ -243,7 +252,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비바람",
@@ -273,7 +283,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사기",
@@ -303,7 +314,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사망하다",
@@ -334,7 +346,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사무직",
@@ -364,7 +377,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소질",
@@ -394,7 +408,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "솜",
@@ -424,7 +439,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식생활",
@@ -454,7 +470,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "실",
@@ -484,7 +501,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "연구실",
@@ -514,7 +532,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유머",
@@ -544,7 +563,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "의류",
@@ -574,7 +595,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "잊혀지다",
@@ -605,7 +627,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "적응",
@@ -635,7 +658,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "정리되다",
@@ -666,7 +690,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "창피하다",
@@ -694,7 +719,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "토론하다",
@@ -725,7 +751,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "하나하나",
@@ -755,7 +782,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "합하다",
@@ -786,7 +814,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "핸드백",
@@ -816,7 +845,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가정교사",
@@ -846,7 +876,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공통적",
@@ -874,7 +905,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교육자",
@@ -904,7 +936,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교재",
@@ -934,7 +967,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "길어지다",
@@ -965,7 +999,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "깨소금",
@@ -995,7 +1030,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "놓아두다",
@@ -1026,7 +1062,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대접하다",
@@ -1057,7 +1094,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "뛰어내리다",
@@ -1088,7 +1126,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무궁화",
@@ -1118,7 +1157,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "바이러스",
@@ -1148,7 +1188,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "방바닥",
@@ -1178,7 +1219,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "번거롭다",
@@ -1206,7 +1248,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사냥",
@@ -1236,7 +1279,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사회생활",
@@ -1266,7 +1310,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "심리적",
@@ -1294,7 +1339,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "위로",
@@ -1324,7 +1370,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이용자",
@@ -1354,7 +1401,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "입력하다",
@@ -1385,7 +1433,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자격증",
@@ -1415,7 +1464,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "진료",
@@ -1445,7 +1495,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "창가",
@@ -1475,7 +1526,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초조하다",
@@ -1503,7 +1555,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "함께하다",
@@ -1534,7 +1587,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "합격하다",
@@ -1565,7 +1619,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "화장지",
@@ -1595,7 +1650,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "공통되다",
@@ -1626,7 +1682,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "나들이",
@@ -1656,7 +1713,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "녹이다",
@@ -1687,7 +1745,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "눈가",
@@ -1717,7 +1776,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "도망",
@@ -1747,7 +1807,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "방면",
@@ -1777,7 +1838,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "법적",
@@ -1805,7 +1867,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "벤치",
@@ -1835,7 +1898,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "빗줄기",
@@ -1865,7 +1929,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "순진하다",
@@ -1893,7 +1958,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "심심하다",
@@ -1921,7 +1987,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "어려워지다",
@@ -1952,7 +2019,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "올라서다",
@@ -1983,7 +2051,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "장애인",
@@ -2013,7 +2082,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재활용품",
@@ -2043,7 +2113,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "저러다",
@@ -2074,7 +2145,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정반대",
@@ -2104,7 +2176,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "진동",
@@ -2134,7 +2207,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "추천",
@@ -2164,7 +2238,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "학점",
@@ -2194,7 +2269,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "한가하다",
@@ -2222,7 +2298,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "환영하다",
@@ -2253,7 +2331,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "간접적",
@@ -2281,7 +2360,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경영하다",
@@ -2312,7 +2392,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "그리움",
@@ -2342,7 +2423,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그사이",
@@ -2372,7 +2454,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기념하다",
@@ -2403,7 +2486,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "독립하다",
@@ -2434,7 +2518,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "들이마시다",
@@ -2465,7 +2550,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뛰어오르다",
@@ -2496,7 +2582,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "문밖",
@@ -2526,7 +2614,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "방송하다",
@@ -2557,7 +2646,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보충하다",
@@ -2588,7 +2678,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "불완전하다",
@@ -2616,7 +2707,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "불평",
@@ -2646,7 +2738,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "붐비다",
@@ -2677,7 +2770,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "서명",
@@ -2707,7 +2801,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "손등",
@@ -2737,7 +2832,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "요리사",
@@ -2767,7 +2863,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "원서",
@@ -2797,7 +2894,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이론적",
@@ -2825,7 +2923,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "임신하다",
@@ -2856,7 +2955,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "자취",
@@ -2886,7 +2986,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잠그다",
@@ -2917,7 +3018,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장례",
@@ -2947,7 +3049,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지름길",
@@ -2977,7 +3080,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지진",
@@ -3007,7 +3111,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "참석자",
@@ -3037,7 +3142,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "창구",
@@ -3067,7 +3173,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "최저",
@@ -3097,7 +3205,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "코미디",
@@ -3127,7 +3236,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "필수",
@@ -3157,7 +3267,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "횟수",
@@ -3187,7 +3299,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "흐리다",
@@ -3218,7 +3331,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가능",
@@ -3248,7 +3362,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "값싸다",
@@ -3276,7 +3391,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "긴장감",
@@ -3306,7 +3422,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뒤편",
@@ -3336,7 +3453,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "매달다",
@@ -3367,7 +3485,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "문제되다",
@@ -3398,7 +3517,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "불이익",
@@ -3428,7 +3548,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "불필요하다",
@@ -3456,7 +3577,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "산부인과",
@@ -3486,7 +3608,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "새우다",
@@ -3517,7 +3640,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "서명하다",
@@ -3548,7 +3672,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "쓸데없다",
@@ -3576,7 +3701,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아스팔트",
@@ -3606,7 +3732,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "알코올",
@@ -3636,7 +3763,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "웃음소리",
@@ -3666,7 +3794,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인쇄",
@@ -3696,7 +3825,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잔디",
@@ -3726,7 +3856,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전세",
@@ -3756,7 +3887,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "조깅",
@@ -3786,7 +3918,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "퇴직금",
@@ -3816,7 +3949,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가만있다",
@@ -3847,7 +3981,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "간편하다",
@@ -3875,7 +4010,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "감동적",
@@ -3903,7 +4039,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교복",
@@ -3933,7 +4070,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "귀가하다",
@@ -3964,7 +4102,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "날아다니다",
@@ -3995,7 +4134,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "마음씨",
@@ -4025,7 +4165,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "몸매",
@@ -4055,7 +4196,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무관심",
@@ -4085,7 +4227,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반짝이다",
@@ -4116,7 +4259,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "분주하다",
@@ -4144,7 +4288,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비판적",
@@ -4172,7 +4317,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뺏다",
@@ -4203,7 +4349,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수도꼭지",
@@ -4233,7 +4380,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "싸구려",
@@ -4263,7 +4411,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "엉터리",
@@ -4293,7 +4442,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "위법",
@@ -4323,7 +4473,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "육체적",
@@ -4351,7 +4502,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "음력",
@@ -4381,7 +4533,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잔디밭",
@@ -4411,7 +4564,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전문직",
@@ -4441,7 +4595,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제출",
@@ -4471,7 +4626,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "채점",
@@ -4501,7 +4657,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "침착하다",
@@ -4529,7 +4686,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "캄캄하다",
@@ -4557,7 +4715,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "타자기",
@@ -4587,7 +4746,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포인트",
@@ -4617,7 +4777,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포크",
@@ -4647,7 +4808,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한밤중",
@@ -4677,7 +4839,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "효도",
@@ -4707,7 +4870,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "관람객",
@@ -4737,7 +4901,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "귀가",
@@ -4767,7 +4933,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그리워하다",
@@ -4798,7 +4965,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "뒷문",
@@ -4828,7 +4996,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "딸아이",
@@ -4858,7 +5027,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "만족스럽다",
@@ -4886,7 +5056,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "미움",
@@ -4916,7 +5087,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "바가지",
@@ -4946,7 +5118,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "발끝",
@@ -4976,7 +5149,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "병실",
@@ -5006,7 +5180,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "봉사하다",
@@ -5037,7 +5212,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "비행장",
@@ -5067,7 +5243,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "습기",
@@ -5097,7 +5274,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예보",
@@ -5127,7 +5305,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "용감하다",
@@ -5155,7 +5334,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "위험성",
@@ -5185,7 +5365,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "익다",
@@ -5213,7 +5394,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재학",
@@ -5243,7 +5425,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전시하다",
@@ -5274,7 +5457,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정기적",
@@ -5302,7 +5486,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "종교적",
@@ -5330,7 +5515,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주관적",
@@ -5358,7 +5544,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "직장인",
@@ -5388,7 +5575,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "진심",
@@ -5418,7 +5606,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "천국",
@@ -5448,7 +5637,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "큰절",
@@ -5478,7 +5668,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "후회",
@@ -5508,7 +5699,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "강조",
@@ -5538,7 +5730,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "게시판",
@@ -5568,7 +5761,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공통점",
@@ -5598,7 +5792,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "과외",
@@ -5628,7 +5823,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교내",
@@ -5658,7 +5854,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "내적",
@@ -5686,7 +5883,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "마라톤",
@@ -5716,7 +5914,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "매스컴",
@@ -5746,7 +5945,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "밤새",
@@ -5776,7 +5976,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "별일",
@@ -5806,7 +6007,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보내오다",
@@ -5837,7 +6039,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부채",
@@ -5867,7 +6070,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "사업가",
@@ -5897,7 +6102,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수고",
@@ -5927,7 +6133,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "시금치",
@@ -5957,7 +6164,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신청서",
@@ -5987,7 +6195,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아랫사람",
@@ -6017,7 +6226,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "앨범",
@@ -6047,7 +6257,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "여전하다",
@@ -6075,7 +6286,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "영남",
@@ -6105,7 +6317,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "옥상",
@@ -6135,7 +6348,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "일자리",
@@ -6165,7 +6379,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자매",
@@ -6195,7 +6410,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전시장",
@@ -6225,7 +6441,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "절약",
@@ -6255,7 +6472,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정오",
@@ -6285,7 +6503,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "제대하다",
@@ -6316,7 +6535,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "즉석",
@@ -6346,7 +6566,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "추측",
@@ -6376,7 +6597,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "충고",
@@ -6406,7 +6628,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "팩시밀리",
@@ -6436,7 +6659,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "한낮",
@@ -6466,7 +6690,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "간호",
@@ -6496,7 +6721,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "건너",
@@ -6526,7 +6752,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "겁나다",
@@ -6557,7 +6784,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "금메달",
@@ -6587,7 +6815,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "눈감다",
@@ -6618,7 +6847,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "눈뜨다",
@@ -6649,7 +6879,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대입",
@@ -6679,7 +6910,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "도마",
@@ -6709,7 +6941,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동화책",
@@ -6739,7 +6972,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "땅바닥",
@@ -6769,7 +7003,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "모집하다",
@@ -6800,7 +7035,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "밤색",
@@ -6830,7 +7066,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "배우자",
@@ -6860,7 +7097,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "속상하다",
@@ -6888,7 +7126,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "수입되다",
@@ -6919,7 +7159,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "수입품",
@@ -6949,7 +7191,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식기",
@@ -6979,7 +7222,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "싼값",
@@ -7009,7 +7253,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안부",
@@ -7039,7 +7284,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "양주",
@@ -7069,7 +7316,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "영화배우",
@@ -7099,7 +7347,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "용서",
@@ -7129,7 +7378,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "우편",
@@ -7159,7 +7409,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정장",
@@ -7189,7 +7440,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "좁히다",
@@ -7220,7 +7472,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지워지다",
@@ -7251,7 +7504,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지저분하다",
@@ -7279,7 +7533,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "진통",
@@ -7309,7 +7564,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "찬성하다",
@@ -7340,7 +7596,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "참석",
@@ -7370,7 +7627,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "최고급",
@@ -7400,7 +7658,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "최상",
@@ -7430,7 +7689,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "최악",
@@ -7460,7 +7720,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "출국",
@@ -7490,7 +7751,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "친해지다",
@@ -7521,7 +7783,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "코끝",
@@ -7551,7 +7814,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "햄",
@@ -7581,7 +7845,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "가로수",
@@ -7611,7 +7876,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "개다",
@@ -7642,7 +7908,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고급스럽다",
@@ -7670,7 +7937,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고소하다",
@@ -7698,7 +7966,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공주",
@@ -7728,7 +7997,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "깨어지다",
@@ -7759,7 +8029,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "되돌아보다",
@@ -7790,7 +8061,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무용가",
@@ -7820,7 +8092,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "반기다",
@@ -7851,7 +8125,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사투리",
@@ -7881,7 +8156,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "상금",
@@ -7911,7 +8188,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수저",
@@ -7941,7 +8219,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식욕",
@@ -7971,7 +8250,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "앞바다",
@@ -8001,7 +8281,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "얄밉다",
@@ -8029,7 +8310,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양상추",
@@ -8059,7 +8341,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "연기하다",
@@ -8090,7 +8373,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "온라인",
@@ -8120,7 +8404,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "외갓집",
@@ -8150,7 +8435,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유능하다",
@@ -8178,7 +8464,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유적지",
@@ -8208,7 +8495,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "응답하다",
@@ -8239,7 +8527,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "이롭다",
@@ -8267,7 +8556,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "입사",
@@ -8297,7 +8587,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재활용",
@@ -8327,7 +8618,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제삿날",
@@ -8357,7 +8649,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주름살",
@@ -8387,7 +8680,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "참고하다",
@@ -8418,7 +8712,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "철학적",
@@ -8446,7 +8741,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "추천하다",
@@ -8477,7 +8773,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "판매되다",
@@ -8508,7 +8805,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포근하다",
@@ -8536,7 +8834,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "하나님",
@@ -8566,7 +8865,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "학력",
@@ -8596,7 +8896,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "한정하다",
@@ -8627,7 +8928,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "향상되다",
@@ -8658,7 +8960,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가톨릭",
@@ -8688,7 +8991,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "건조하다",
@@ -8716,7 +9020,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "걷기",
@@ -8746,7 +9051,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공통",
@@ -8776,7 +9082,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국가적",
@@ -8804,7 +9111,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "귓속",
@@ -8834,7 +9142,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그래픽",
@@ -8864,7 +9173,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "근교",
@@ -8894,7 +9204,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기초적",
@@ -8922,7 +9233,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "다양성",
@@ -8952,7 +9264,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "대상자",
@@ -8982,7 +9295,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동그라미",
@@ -9012,7 +9326,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "떠나오다",
@@ -9043,7 +9358,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "레이저",
@@ -9073,7 +9389,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보수적",
@@ -9101,7 +9418,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "불확실하다",
@@ -9129,7 +9447,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "비만",
@@ -9159,7 +9478,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "빗방울",
@@ -9189,7 +9509,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사회자",
@@ -9219,7 +9540,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "시들다",
@@ -9250,7 +9572,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "시디",
@@ -9280,7 +9603,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신사",
@@ -9310,7 +9634,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "야하다",
@@ -9338,7 +9663,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "온종일",
@@ -9368,7 +9694,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "왕비",
@@ -9398,7 +9725,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "운반",
@@ -9428,7 +9756,10 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk",
+      "work"
     ],
     "meanings": {
       "ko": "장모님",
@@ -9458,7 +9789,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "저울",
@@ -9488,7 +9820,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지폐",
@@ -9518,7 +9851,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "촛불",
@@ -9548,7 +9882,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "출퇴근",
@@ -9578,7 +9913,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "통역",
@@ -9608,7 +9944,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "혼잣말",
@@ -9638,7 +9975,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "효도하다",
@@ -9669,7 +10007,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "건넌방",
@@ -9699,7 +10038,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "굉장하다",
@@ -9727,7 +10067,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "기업인",
@@ -9757,7 +10099,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "긴장되다",
@@ -9788,7 +10131,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "깨끗해지다",
@@ -9819,7 +10163,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "낚싯대",
@@ -9849,7 +10194,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "냇물",
@@ -9879,7 +10225,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "단골",
@@ -9909,7 +10256,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대",
@@ -9939,7 +10287,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "더러워지다",
@@ -9970,7 +10319,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "데우다",
@@ -10001,7 +10352,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동그랗다",
@@ -10029,7 +10381,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뛰어나오다",
@@ -10060,7 +10413,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "레저",
@@ -10090,7 +10444,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "로터리",
@@ -10120,7 +10475,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무덥다",
@@ -10148,7 +10504,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반대편",
@@ -10178,7 +10535,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "발바닥",
@@ -10208,7 +10566,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "발톱",
@@ -10238,7 +10597,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "밝아지다",
@@ -10269,7 +10630,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "분명해지다",
@@ -10300,7 +10662,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "산길",
@@ -10330,7 +10693,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "심각해지다",
@@ -10361,7 +10725,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "씻기다",
@@ -10392,7 +10758,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "안심하다",
@@ -10423,7 +10790,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "약수",
@@ -10453,7 +10821,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "약품",
@@ -10483,7 +10852,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양보",
@@ -10513,7 +10883,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양옆",
@@ -10543,7 +10914,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "여왕",
@@ -10573,7 +10945,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "연기되다",
@@ -10604,7 +10977,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "올라타다",
@@ -10635,7 +11009,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이다음",
@@ -10665,7 +11040,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잡수다",
@@ -10696,7 +11072,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장사꾼",
@@ -10726,7 +11103,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "집중하다",
@@ -10757,7 +11135,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "짜증스럽다",
@@ -10785,7 +11164,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "천재",
@@ -10815,7 +11195,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초여름",
@@ -10845,7 +11226,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "초저녁",
@@ -10875,7 +11257,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "충돌하다",
@@ -10906,7 +11289,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "코트",
@@ -10936,7 +11320,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "피곤",
@@ -10966,7 +11351,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "학비",
@@ -10996,7 +11382,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "효자",
@@ -11026,7 +11413,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "감소되다",
@@ -11057,7 +11445,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "강변",
@@ -11087,7 +11476,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "공연되다",
@@ -11118,7 +11508,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "괴로워하다",
@@ -11149,7 +11540,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "까먹다",
@@ -11180,7 +11572,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "깡패",
@@ -11210,7 +11603,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "낚시꾼",
@@ -11240,7 +11634,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "다양해지다",
@@ -11271,7 +11666,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "등록하다",
@@ -11302,7 +11698,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뛰놀다",
@@ -11333,7 +11730,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "라켓",
@@ -11363,7 +11761,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "마요네즈",
@@ -11393,7 +11792,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "만세",
@@ -11423,7 +11823,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "만화가",
@@ -11453,7 +11854,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "머리말",
@@ -11483,7 +11885,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "면접",
@@ -11513,7 +11916,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "몸속",
@@ -11543,7 +11948,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무책임하다",
@@ -11571,7 +11977,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반짝거리다",
@@ -11602,7 +12009,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "밤새우다",
@@ -11633,7 +12041,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "번지",
@@ -11663,7 +12072,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사립",
@@ -11693,7 +12103,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사생활",
@@ -11723,7 +12134,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사이사이",
@@ -11753,7 +12165,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "생활수준",
@@ -11783,7 +12196,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "서툴다",
@@ -11811,7 +12225,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "석사",
@@ -11841,7 +12256,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "성당",
@@ -11871,7 +12287,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "속마음",
@@ -11901,7 +12318,9 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "손잡다",
@@ -11932,7 +12351,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "숙녀",
@@ -11962,7 +12382,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "순하다",
@@ -11990,7 +12411,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시댁",
@@ -12020,7 +12442,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신체적",
@@ -12048,7 +12471,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "쓴맛",
@@ -12078,7 +12502,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "얼마간",
@@ -12108,7 +12533,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "올여름",
@@ -12138,7 +12564,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "외제",
@@ -12168,7 +12595,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "욕하다",
@@ -12199,7 +12627,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "음반",
@@ -12229,7 +12658,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "의논",
@@ -12259,7 +12689,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자살하다",
@@ -12290,7 +12721,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자연적",
@@ -12318,7 +12750,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장례식",
@@ -12348,7 +12781,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재수",
@@ -12378,7 +12812,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전구",
@@ -12408,7 +12843,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전문점",
@@ -12438,7 +12874,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전통문화",
@@ -12468,7 +12905,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주전자",
@@ -12498,7 +12936,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "찬성",
@@ -12528,7 +12967,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "촌스럽다",
@@ -12556,7 +12996,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "컨디션",
@@ -12586,7 +13027,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "코스모스",
@@ -12616,7 +13058,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "토론자",
@@ -12646,7 +13089,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "페인트",
@@ -12676,7 +13120,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평상시",
@@ -12706,7 +13151,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "학교생활",
@@ -12736,7 +13182,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "해물",
@@ -12766,7 +13213,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "혼나다",
@@ -12797,7 +13245,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "감정적",
@@ -12825,7 +13274,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "강북",
@@ -12855,7 +13306,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "고무신",
@@ -12885,7 +13337,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "관람",
@@ -12915,7 +13368,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교외",
@@ -12945,7 +13399,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교육비",
@@ -12975,7 +13430,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "기억되다",
@@ -13006,7 +13462,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "까다",
@@ -13037,7 +13494,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "꽃씨",
@@ -13067,7 +13526,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "꾸준하다",
@@ -13095,7 +13555,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "난방",
@@ -13125,7 +13587,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "내용물",
@@ -13155,7 +13618,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "녹화",
@@ -13185,7 +13649,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뒷골목",
@@ -13215,7 +13680,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "들어주다",
@@ -13246,7 +13712,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뛰어놀다",
@@ -13277,7 +13744,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "라이벌",
@@ -13307,7 +13775,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무관심하다",
@@ -13335,7 +13804,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무사하다",
@@ -13363,7 +13833,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "번역하다",
@@ -13394,7 +13865,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "병아리",
@@ -13424,7 +13896,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부피",
@@ -13454,7 +13927,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비기다",
@@ -13485,7 +13959,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "생활용품",
@@ -13515,7 +13991,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "섹시하다",
@@ -13543,7 +14020,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소비하다",
@@ -13574,7 +14052,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수리하다",
@@ -13605,7 +14084,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식료품",
@@ -13635,7 +14115,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식히다",
@@ -13666,7 +14147,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "얼리다",
@@ -13697,7 +14179,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "올가을",
@@ -13727,7 +14210,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "와이셔츠",
@@ -13757,7 +14241,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "윗사람",
@@ -13787,7 +14272,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이민",
@@ -13817,7 +14303,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인제",
@@ -13847,7 +14334,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "입사하다",
@@ -13878,7 +14366,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "재우다",
@@ -13909,7 +14398,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "전시되다",
@@ -13940,7 +14430,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "졸리다",
@@ -13971,7 +14462,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "졸음",
@@ -14001,7 +14493,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지능",
@@ -14031,7 +14524,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "쩔쩔매다",
@@ -14062,7 +14556,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "추가되다",
@@ -14093,7 +14588,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "치료법",
@@ -14123,7 +14619,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "큰아들",
@@ -14153,7 +14650,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "특급",
@@ -14183,7 +14681,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "풀어지다",
@@ -14214,7 +14713,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "한겨울",
@@ -14244,7 +14744,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한평생",
@@ -14274,7 +14775,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "해수욕장",
@@ -14304,7 +14806,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "호실",
@@ -14334,7 +14838,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "흐려지다",
@@ -14365,7 +14870,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "희망하다",
@@ -14396,7 +14902,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "힘들어하다",
@@ -14427,7 +14934,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "강의하다",
@@ -14458,7 +14966,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공연하다",
@@ -14489,7 +14998,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "귤",
@@ -14519,7 +15029,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "내과",
@@ -14549,7 +15060,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무지개",
@@ -14579,7 +15091,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "문법",
@@ -14609,7 +15122,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "볶음",
@@ -14639,7 +15153,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "볼링",
@@ -14669,7 +15184,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비둘기",
@@ -14699,7 +15215,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "생활비",
@@ -14729,7 +15246,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "시대적",
@@ -14757,7 +15275,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "앞문",
@@ -14787,7 +15306,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인도",
@@ -14817,7 +15337,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "추가하다",
@@ -14848,7 +15369,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "탁구",
@@ -14878,7 +15400,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "현대적",
@@ -14906,7 +15429,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "늦가을",
@@ -14936,7 +15460,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "못생기다",
@@ -14964,7 +15489,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "영화관",
@@ -14994,7 +15521,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예술적",
@@ -15022,7 +15550,10 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk",
+      "work"
     ],
     "meanings": {
       "ko": "장모",
@@ -15052,7 +15583,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "튀김",
@@ -15082,7 +15614,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "고궁",
@@ -15112,7 +15645,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "단추",
@@ -15142,7 +15676,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대중적",
@@ -15170,7 +15705,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "미역",
@@ -15200,7 +15736,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반말",
@@ -15230,7 +15767,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "분홍색",
@@ -15260,7 +15798,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "작은아버지",
@@ -15290,7 +15830,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "초순",
@@ -15320,7 +15862,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "퇴원하다",
@@ -15351,7 +15894,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "하순",
@@ -15381,7 +15926,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기혼",
@@ -15411,7 +15957,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "도장",
@@ -15441,7 +15988,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "삼계탕",
@@ -15471,7 +16019,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예약하다",
@@ -15502,7 +16051,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "천둥",
@@ -15532,7 +16082,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "퇴원",
@@ -15562,7 +16113,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "게으르다",
@@ -15590,7 +16142,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기념품",
@@ -15620,7 +16173,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "단풍",
@@ -15650,7 +16204,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "문학적",
@@ -15678,7 +16233,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "미끄럽다",
@@ -15706,7 +16262,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "복숭아",
@@ -15736,7 +16293,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "외아들",
@@ -15766,7 +16324,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장인",
@@ -15796,7 +16355,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "동서남북",
@@ -15826,7 +16387,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "외할아버지",
@@ -15856,7 +16419,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "입국",
@@ -15886,7 +16450,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "체육관",
@@ -15916,7 +16481,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "최소",
@@ -15946,7 +16512,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "칼국수",
@@ -15976,7 +16543,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "큰아버지",
@@ -16006,7 +16575,8 @@ const WORDS_KO_B2 = [
     "pos": "형용사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국민적",
@@ -16034,7 +16604,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국제선",
@@ -16064,7 +16635,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동양인",
@@ -16094,7 +16666,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안과",
@@ -16124,7 +16697,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "예식장",
@@ -16154,7 +16728,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "월세",
@@ -16184,7 +16759,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "진찰",
@@ -16214,7 +16790,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "큰딸",
@@ -16244,7 +16821,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "결석",
@@ -16274,7 +16852,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "독감",
@@ -16304,7 +16883,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보라색",
@@ -16334,7 +16914,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "연두색",
@@ -16364,7 +16945,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "온돌",
@@ -16394,7 +16976,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "출입국",
@@ -16424,7 +17007,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "클래식",
@@ -16454,7 +17038,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "팝송",
@@ -16484,7 +17069,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "팩스",
@@ -16514,7 +17100,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "국내선",
@@ -16544,7 +17132,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "떡국",
@@ -16574,7 +17163,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "시외버스",
@@ -16604,7 +17194,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "야구장",
@@ -16634,7 +17225,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "작은아들",
@@ -16664,7 +17256,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "형수",
@@ -16694,7 +17288,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "관광버스",
@@ -16724,7 +17319,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "그저께",
@@ -16754,7 +17351,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "냉방",
@@ -16784,7 +17382,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "눈병",
@@ -16814,7 +17413,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "배추김치",
@@ -16844,7 +17444,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "색연필",
@@ -16874,7 +17475,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소아과",
@@ -16904,7 +17506,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양력",
@@ -16934,7 +17537,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "작은어머니",
@@ -16964,7 +17568,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "축구장",
@@ -16994,7 +17599,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "한글날",
@@ -17024,7 +17630,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한식",
@@ -17054,7 +17661,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "복사기",
@@ -17084,7 +17692,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아드님",
@@ -17114,7 +17723,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "결석하다",
@@ -17145,7 +17755,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기념일",
@@ -17175,7 +17786,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "내후년",
@@ -17205,7 +17817,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "따님",
@@ -17235,7 +17848,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식품점",
@@ -17265,7 +17879,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "약혼녀",
@@ -17295,7 +17910,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어저께",
@@ -17325,7 +17941,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예습",
@@ -17355,7 +17972,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예습하다",
@@ -17386,7 +18004,8 @@ const WORDS_KO_B2 = [
     "pos": "동사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "출석하다",
@@ -17417,7 +18036,9 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "큰어머니",
@@ -17447,7 +18068,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "분필",
@@ -17477,7 +18099,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "약혼자",
@@ -17507,7 +18130,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "외과",
@@ -17537,7 +18161,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제과점",
@@ -17567,7 +18192,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중식",
@@ -17597,7 +18223,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "케첩",
@@ -17627,7 +18254,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "편의점",
@@ -17657,7 +18285,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "미용실",
@@ -17687,7 +18316,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일식",
@@ -17717,7 +18347,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "작은딸",
@@ -17747,7 +18378,8 @@ const WORDS_KO_B2 = [
     "pos": "명사",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초등학생",

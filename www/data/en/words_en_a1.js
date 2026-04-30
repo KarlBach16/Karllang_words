@@ -1,4 +1,4 @@
-// EN A1 generated from en_v2 canonical dataset
+// EN A1 generated from release candidate
 const WORDS_EN_A1 = [
   {
     "id": "en_1",
@@ -32251,7 +32251,8 @@ const WORDS_EN_A1 = [
     "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "알고있는듯한",
@@ -32325,7 +32326,8 @@ const WORDS_EN_A1 = [
     "pos": "Verb",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "몰아붙이다",
@@ -32809,7 +32811,8 @@ const WORDS_EN_A1 = [
     "pos": "Verb",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "보지 못하게 하다",
@@ -38591,7 +38594,8 @@ const WORDS_EN_A1 = [
     "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "구분하기 어려운",
@@ -39414,7 +39418,8 @@ const WORDS_EN_A1 = [
     "pos": "Verb",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "용감하게 맞서다",
@@ -39779,7 +39784,9 @@ const WORDS_EN_A1 = [
     "pos": "Verb",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "풍화되다",
@@ -42259,7 +42266,8 @@ const WORDS_EN_A1 = [
     "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "~의 대상이 되는",
@@ -42282,7 +42290,8 @@ const WORDS_EN_A1 = [
     "pos": "Verb",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "~을 겪게 하다",
@@ -42743,7 +42752,8 @@ const WORDS_EN_A1 = [
     "pos": "Nomen",
     "cefr": "A1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "살인자",

@@ -1,4 +1,4 @@
-// DE B2 generated from de_v2 canonical dataset
+// DE B2 generated from release candidate
 const WORDS_DE_B2 = [
   {
     "id": "de_586",
@@ -2359,7 +2359,8 @@ const WORDS_DE_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "묵시록",
@@ -20156,7 +20157,8 @@ const WORDS_DE_B2 = [
     "pos": "Verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "약탈하다",
@@ -22133,7 +22135,8 @@ const WORDS_DE_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "온화함",
@@ -25848,7 +25851,8 @@ const WORDS_DE_B2 = [
     "pos": "Verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "익사시키다",
@@ -35224,7 +35228,8 @@ const WORDS_DE_B2 = [
     "pos": "Verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "출혈로 죽다",

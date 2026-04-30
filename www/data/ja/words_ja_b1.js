@@ -6,7 +6,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여기저기",
@@ -36,7 +37,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나머지, 뒤",
@@ -66,7 +68,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "안 된다, 나쁘다",
@@ -94,7 +98,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장난, 못된 짓",
@@ -124,7 +129,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "하나, 일",
@@ -154,7 +160,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "양치질, 가글",
@@ -184,7 +191,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "으르렁거리다, 신음하다",
@@ -215,7 +223,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시끄럽다, 귀찮다",
@@ -243,7 +252,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "수다, 수다쟁이",
@@ -273,7 +283,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "할아버지, 노인",
@@ -303,7 +315,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "서로, 상호",
@@ -333,7 +346,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "점심, 낮",
@@ -363,7 +377,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "배, 복부",
@@ -393,7 +409,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "불쌍하다, 가엾다",
@@ -421,7 +438,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사랑스럽다, 귀엽다",
@@ -449,7 +467,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "꽉 끼다, 힘들다",
@@ -477,7 +496,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인색함, 구두쇠",
@@ -507,7 +527,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다, 수다 떨다",
@@ -538,7 +560,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "멋지다, 훌륭하다",
@@ -566,7 +589,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "각자, 각각",
@@ -596,7 +620,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무료, 평범한",
@@ -624,7 +649,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "참을 수 없다, 견딜 수 없다",
@@ -652,7 +678,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "터무니없는",
@@ -680,7 +707,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어떤",
@@ -708,7 +736,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가위",
@@ -738,7 +767,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제멋대로",
@@ -766,7 +796,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아이스크림",
@@ -796,7 +827,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "다리미",
@@ -826,7 +858,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아웃",
@@ -856,7 +889,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "앨범",
@@ -886,7 +920,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잉크",
@@ -916,7 +951,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "위스키",
@@ -946,7 +982,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "에너지",
@@ -976,7 +1013,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "엔진",
@@ -1006,7 +1044,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사무실",
@@ -1036,7 +1075,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "오버, 코트",
@@ -1066,7 +1106,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "차",
@@ -1096,7 +1137,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "카드",
@@ -1126,7 +1168,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주장",
@@ -1156,7 +1199,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "캠프",
@@ -1186,7 +1230,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "클래식",
@@ -1216,7 +1261,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "크리스마스",
@@ -1246,7 +1292,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "크림",
@@ -1276,7 +1323,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유리잔",
@@ -1306,7 +1354,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "운동장",
@@ -1336,7 +1385,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "그룹",
@@ -1366,7 +1416,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "케이스",
@@ -1396,7 +1447,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "게임",
@@ -1426,7 +1478,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "복사",
@@ -1456,7 +1509,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "코치",
@@ -1486,7 +1540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "코드",
@@ -1516,7 +1571,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "골",
@@ -1546,7 +1602,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사인",
@@ -1576,7 +1633,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "서비스",
@@ -1606,7 +1664,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제트기",
@@ -1636,7 +1695,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주스",
@@ -1666,7 +1726,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "청바지",
@@ -1696,7 +1757,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스위치",
@@ -1726,7 +1788,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스키",
@@ -1756,7 +1819,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스케이트",
@@ -1786,7 +1850,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스타일, 몸매",
@@ -1816,7 +1881,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스탠드",
@@ -1846,7 +1912,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스타",
@@ -1876,7 +1943,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "연설, 발표",
@@ -1906,7 +1975,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수프",
@@ -1936,7 +2006,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세트",
@@ -1966,7 +2037,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "센터, 중심",
@@ -1996,7 +2068,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소파",
@@ -2026,7 +2099,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "타자기",
@@ -2056,7 +2130,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "타월, 수건",
@@ -2086,7 +2161,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "춤",
@@ -2116,7 +2192,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기회",
@@ -2146,7 +2223,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "치즈",
@@ -2176,7 +2254,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "팀",
@@ -2206,7 +2285,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "텐트",
@@ -2236,7 +2316,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "데모, 시위",
@@ -2266,7 +2347,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "데이트",
@@ -2296,7 +2378,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "톱, 최고",
@@ -2326,7 +2409,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "트럼프, 카드",
@@ -2356,7 +2440,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "터널",
@@ -2386,7 +2471,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "드라이브",
@@ -2416,7 +2502,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "드라마",
@@ -2446,7 +2533,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "드레스",
@@ -2476,7 +2564,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "노크",
@@ -2506,7 +2595,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아니오",
@@ -2536,7 +2626,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "하이킹",
@@ -2566,7 +2657,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잘생김",
@@ -2594,7 +2686,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "바이올린",
@@ -2624,7 +2717,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가방",
@@ -2654,7 +2748,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "파이프",
@@ -2684,7 +2779,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "파일럿, 조종사",
@@ -2714,7 +2810,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "패스, 통과",
@@ -2744,7 +2841,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여권",
@@ -2774,7 +2872,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "퍼센트",
@@ -2804,7 +2903,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비디오",
@@ -2834,7 +2934,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "맥주",
@@ -2864,7 +2966,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "피크닉, 소풍",
@@ -2894,7 +2997,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "핀",
@@ -2924,7 +3028,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "브레이크",
@@ -2954,7 +3059,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "플러스, 이점",
@@ -2984,7 +3090,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "플랜, 계획",
@@ -3014,7 +3121,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "프로, 전문가",
@@ -3044,7 +3152,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "벨트",
@@ -3074,7 +3183,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "벤치",
@@ -3104,7 +3214,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "페인트",
@@ -3134,7 +3245,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소년",
@@ -3164,7 +3276,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "보트",
@@ -3194,7 +3307,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마이크",
@@ -3224,7 +3338,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마스터, 달인",
@@ -3254,7 +3369,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "엄마",
@@ -3284,7 +3400,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마켓, 시장",
@@ -3314,7 +3431,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실수",
@@ -3344,7 +3462,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "우유",
@@ -3374,7 +3493,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "메모",
@@ -3404,7 +3524,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "멤버, 회원",
@@ -3434,7 +3555,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유머",
@@ -3464,7 +3586,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요트",
@@ -3494,7 +3617,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유럽",
@@ -3524,7 +3648,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "라켓",
@@ -3554,7 +3679,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "로켓",
@@ -3584,7 +3710,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "와인",
@@ -3614,7 +3741,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "각자, 한 사람 한 사람",
@@ -3644,7 +3772,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한 집, 일가",
@@ -3674,7 +3803,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일생, 평생",
@@ -3704,7 +3834,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "가장, 제일",
@@ -3734,7 +3865,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한순간",
@@ -3764,7 +3896,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일종, 한 종류",
@@ -3794,7 +3927,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일치",
@@ -3824,7 +3958,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일반",
@@ -3854,7 +3989,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한마디",
@@ -3884,7 +4020,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "상경, 도쿄행",
@@ -3914,7 +4051,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "훌륭함, 최상",
@@ -3942,7 +4080,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실력 향상",
@@ -3972,7 +4111,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주시다, ~해 주시다",
@@ -4003,7 +4143,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "내리다, 인출하다",
@@ -4034,7 +4175,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "하행, 내려감",
@@ -4064,7 +4207,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "불리함",
@@ -4092,7 +4236,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불안함",
@@ -4120,7 +4265,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불평",
@@ -4150,7 +4296,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불행",
@@ -4180,7 +4327,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신기함, 불가사의",
@@ -4208,7 +4356,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "부정, 부당함",
@@ -4238,7 +4387,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불만",
@@ -4266,7 +4416,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불편함, 부자유",
@@ -4294,7 +4445,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "부족",
@@ -4324,7 +4476,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "주다, 부여하다",
@@ -4355,7 +4509,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세상",
@@ -4385,7 +4540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세기",
@@ -4415,7 +4571,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세상, 세간",
@@ -4445,7 +4602,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "환전",
@@ -4475,7 +4633,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중고",
@@ -4505,7 +4664,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중앙",
@@ -4535,7 +4695,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중학교",
@@ -4565,7 +4726,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중심",
@@ -4595,7 +4757,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중지, 취소",
@@ -4625,7 +4788,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주부",
@@ -4655,7 +4819,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주장",
@@ -4685,7 +4850,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "주의, 원칙",
@@ -4715,7 +4882,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주요함",
@@ -4743,7 +4911,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "태우다, 싣다",
@@ -4774,7 +4943,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "승객",
@@ -4804,7 +4974,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예보",
@@ -4834,7 +5005,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예기, 예상",
@@ -4864,7 +5036,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예측",
@@ -4894,7 +5067,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예산",
@@ -4924,7 +5098,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예방",
@@ -4954,7 +5129,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사건",
@@ -4984,7 +5160,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사무",
@@ -5014,7 +5191,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사실",
@@ -5044,7 +5222,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사정, 상황",
@@ -5074,7 +5253,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사태, 상황",
@@ -5104,7 +5284,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "스무 살",
@@ -5134,7 +5315,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "교환",
@@ -5164,7 +5346,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "교제, 사귐",
@@ -5194,7 +5377,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인공",
@@ -5224,7 +5408,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인기",
@@ -5254,7 +5439,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "인물",
@@ -5284,7 +5470,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인생",
@@ -5314,7 +5501,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인종",
@@ -5344,7 +5532,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인파, 혼잡",
@@ -5374,7 +5563,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "인간",
@@ -5404,7 +5594,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인류",
@@ -5434,7 +5625,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이번",
@@ -5464,7 +5656,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "앞으로, 향후",
@@ -5494,7 +5687,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "타인, 남",
@@ -5524,7 +5719,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "교제, 사귐",
@@ -5554,7 +5750,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "붙이다, 달다",
@@ -5585,7 +5782,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대리",
@@ -5615,7 +5813,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "대표",
@@ -5645,7 +5844,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대금, 요금",
@@ -5675,7 +5875,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "이전",
@@ -5705,7 +5906,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이래, 이후",
@@ -5735,7 +5937,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "동료, 친구",
@@ -5765,7 +5969,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "맡기다",
@@ -5796,7 +6001,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기업",
@@ -5826,7 +6032,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "휴식",
@@ -5856,7 +6063,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "휴가",
@@ -5886,7 +6094,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "회합, 모임",
@@ -5916,7 +6125,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "회원",
@@ -5946,7 +6156,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "회계, 계산",
@@ -5976,7 +6187,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전통",
@@ -6006,7 +6218,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "늘리다, 펴다",
@@ -6037,7 +6250,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "늘어나다, 자라다",
@@ -6068,7 +6282,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "여쭙다, 찾아뵙다",
@@ -6099,7 +6314,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어울리다",
@@ -6130,7 +6346,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "위치",
@@ -6160,7 +6377,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주택, 주거",
@@ -6190,7 +6408,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주민",
@@ -6220,7 +6439,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "체온",
@@ -6250,7 +6470,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "체육",
@@ -6280,7 +6501,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "뭔가, 무엇",
@@ -6310,7 +6532,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여분, 잉여",
@@ -6340,7 +6563,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여유",
@@ -6370,7 +6594,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "작품",
@@ -6400,7 +6625,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "작가",
@@ -6430,7 +6656,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "작곡",
@@ -6460,7 +6687,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "work"
     ],
     "meanings": {
       "ko": "작업",
@@ -6490,7 +6719,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "작법, 예절",
@@ -6520,7 +6750,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "작물",
@@ -6550,7 +6781,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사용",
@@ -6580,7 +6812,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공급",
@@ -6610,7 +6843,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "의뢰, 부탁",
@@ -6640,7 +6874,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가치",
@@ -6670,7 +6905,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가격, 값",
@@ -6700,7 +6936,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "소식, 편지",
@@ -6730,7 +6967,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "보존, 저장",
@@ -6760,7 +6998,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "보증, 보장",
@@ -6790,7 +7029,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "믿다",
@@ -6821,7 +7061,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "신앙",
@@ -6851,7 +7092,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신호",
@@ -6881,7 +7123,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신용, 신뢰",
@@ -6911,7 +7154,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신뢰",
@@ -6941,7 +7185,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수정",
@@ -6971,7 +7216,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수리",
@@ -7001,7 +7247,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "배우",
@@ -7031,7 +7278,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "개인",
@@ -7061,7 +7309,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쓰러뜨리다, 넘어뜨리다",
@@ -7092,7 +7341,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "후보",
@@ -7122,7 +7372,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "빚, 차금",
@@ -7152,7 +7403,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가격, 값",
@@ -7182,7 +7434,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "정류장",
@@ -7212,7 +7465,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "건강",
@@ -7242,7 +7496,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "우연",
@@ -7272,7 +7527,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "갖추다, 대비하다",
@@ -7303,7 +7559,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경향, 추세",
@@ -7333,7 +7590,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "일, 작용",
@@ -7363,7 +7621,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "뛰어나다, 우수하다",
@@ -7394,7 +7654,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "우승",
@@ -7424,7 +7685,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "우수",
@@ -7454,7 +7716,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요전날, 며칠 전",
@@ -7484,7 +7747,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "광경, 장면",
@@ -7514,7 +7778,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "극복",
@@ -7544,7 +7809,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "면허, 허가",
@@ -7574,7 +7840,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "입장",
@@ -7604,7 +7871,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "전부, 모든 것",
@@ -7634,7 +7902,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전체",
@@ -7664,7 +7933,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "전원",
@@ -7694,7 +7964,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전국",
@@ -7724,7 +7995,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공평",
@@ -7754,7 +8026,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "공동, 협동",
@@ -7784,7 +8057,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공통",
@@ -7814,7 +8088,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "구체",
@@ -7844,7 +8119,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전형",
@@ -7874,7 +8150,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "내용",
@@ -7904,7 +8181,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "모험",
@@ -7934,7 +8212,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "농담, 장난",
@@ -7964,7 +8243,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "냉정",
@@ -7994,7 +8274,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "얼다",
@@ -8025,7 +8306,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "처리",
@@ -8055,7 +8337,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "만남, 조우",
@@ -8085,7 +8369,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "만나다, 마주치다",
@@ -8116,7 +8402,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사건, 일",
@@ -8146,7 +8433,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "출판",
@@ -8176,7 +8464,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "출신",
@@ -8206,7 +8495,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나누다",
@@ -8237,7 +8527,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "분석",
@@ -8267,7 +8558,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "분야",
@@ -8297,7 +8589,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조각, 천 조각",
@@ -8327,7 +8620,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잘리다, 끊어지다",
@@ -8358,7 +8652,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "베다, 깎다",
@@ -8389,7 +8684,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "형사",
@@ -8419,7 +8715,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "열차",
@@ -8449,7 +8746,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "판단",
@@ -8479,7 +8777,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이별, 헤어짐",
@@ -8509,7 +8808,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영리함, 똑똑함",
@@ -8537,7 +8837,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "이익",
@@ -8567,7 +8868,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "도착",
@@ -8597,7 +8899,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제도",
@@ -8627,7 +8930,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제한",
@@ -8657,7 +8961,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자극",
@@ -8687,7 +8992,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전자",
@@ -8717,7 +9023,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전진",
@@ -8747,7 +9054,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "깨다, 나누다",
@@ -8778,7 +9087,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "극장",
@@ -8808,7 +9118,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "더하다, 가하다",
@@ -8839,7 +9150,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "더해지다, 참가하다",
@@ -8870,7 +9182,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정도, 가감",
@@ -8900,7 +9213,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "뒤떨어지다, 못하다",
@@ -8931,7 +9245,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "돕다, 구하다",
@@ -8962,7 +9277,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조수",
@@ -8992,7 +9308,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "노력",
@@ -9022,7 +9339,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "노동",
@@ -9052,7 +9371,10 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk",
+      "work"
     ],
     "meanings": {
       "ko": "효과가 있다, 듣다",
@@ -9083,7 +9405,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "효과",
@@ -9113,7 +9436,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "용기",
@@ -9143,7 +9467,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "움직이다, 작동시키다",
@@ -9174,7 +9499,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "동사",
@@ -9204,7 +9530,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "계산, 셈",
@@ -9234,7 +9561,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "임무, 역할",
@@ -9264,7 +9592,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "승리, 이김",
@@ -9294,7 +9623,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "기세, 힘",
@@ -9324,7 +9654,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "근무, 직무",
@@ -9354,7 +9685,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "권하다, 추천하다",
@@ -9385,7 +9717,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "냄새, 향기",
@@ -9415,7 +9748,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "꾸러미, 포장",
@@ -9445,7 +9779,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화학",
@@ -9475,7 +9810,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화장",
@@ -9505,7 +9842,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "구별",
@@ -9535,7 +9873,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의사",
@@ -9565,7 +9904,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "의료",
@@ -9595,7 +9935,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "절반, 중간",
@@ -9625,7 +9966,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "협력",
@@ -9655,7 +9997,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "단위",
@@ -9685,7 +10028,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "단순함",
@@ -9713,7 +10057,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "단어",
@@ -9743,7 +10088,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "박사",
@@ -9773,7 +10119,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "박물관",
@@ -9803,7 +10150,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "차지하다, 점유하다",
@@ -9834,7 +10182,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인쇄",
@@ -9864,7 +10213,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인상",
@@ -9894,7 +10244,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "귀찮음, 성가심",
@@ -9922,7 +10273,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "떠나다, 지나가다",
@@ -9953,7 +10306,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "참가",
@@ -9983,7 +10337,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "참고",
@@ -10013,7 +10368,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "미치다, 끼치다",
@@ -10044,7 +10400,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "친구",
@@ -10074,7 +10431,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "우정",
@@ -10104,7 +10463,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쌍둥이",
@@ -10134,7 +10494,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "반항",
@@ -10164,7 +10525,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "거두다, 납부하다",
@@ -10195,7 +10557,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "수입",
@@ -10225,7 +10588,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수확",
@@ -10255,7 +10619,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "집어 들다, 다루다",
@@ -10286,7 +10651,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "떨어지다, 얻어지다",
@@ -10317,7 +10683,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "받다, 수령하다",
@@ -10348,7 +10715,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "때리다, 두드리다",
@@ -10379,7 +10747,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "외치다, 소리 지르다",
@@ -10410,7 +10779,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가능함",
@@ -10438,7 +10808,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "꾸짖다, 야단치다",
@@ -10469,7 +10840,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "맞추다, 합치다",
@@ -10500,7 +10872,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신호",
@@ -10530,7 +10903,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "합격",
@@ -10560,7 +10934,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "합계",
@@ -10590,7 +10965,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "동일",
@@ -10620,7 +10996,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "동료",
@@ -10650,7 +11027,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "동시",
@@ -10680,7 +11058,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "동일, 마찬가지",
@@ -10710,7 +11089,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "명인, 달인",
@@ -10740,7 +11120,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "토하다, 내뱉다",
@@ -10771,7 +11152,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "맞은편",
@@ -10801,7 +11183,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "향하다, 향해 있다",
@@ -10832,7 +11216,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "향하게 하다, 돌리다",
@@ -10863,7 +11248,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "짖다, 울부짖다",
@@ -10894,7 +11280,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "부정",
@@ -10924,7 +11311,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "포함하다, 담다",
@@ -10955,7 +11343,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흡수",
@@ -10985,7 +11374,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주위, 주변",
@@ -11015,7 +11405,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아군, 편",
@@ -11045,7 +11436,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "호흡",
@@ -11075,7 +11468,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "명하다, 명령하다",
@@ -11106,7 +11500,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "명령",
@@ -11136,7 +11531,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불쌍함, 가련함",
@@ -11164,7 +11560,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유일",
@@ -11194,7 +11591,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상인",
@@ -11224,7 +11622,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "상품",
@@ -11254,7 +11653,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "장사, 사업",
@@ -11284,7 +11685,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "질문, 물음",
@@ -11314,7 +11716,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기쁨, 즐거움",
@@ -11344,7 +11747,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "싸움, 말다툼",
@@ -11374,7 +11778,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "영업",
@@ -11404,7 +11810,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "솜씨 좋음, 능숙함",
@@ -11432,7 +11839,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "돌리다, 회전시키다",
@@ -11463,7 +11871,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주위, 주변",
@@ -11493,7 +11902,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "회복",
@@ -11523,7 +11933,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "단체",
@@ -11553,7 +11964,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "곤란, 어려움",
@@ -11583,7 +11995,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "둘러싸다, 에워싸다",
@@ -11614,7 +12027,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "국회",
@@ -11644,7 +12058,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "국경",
@@ -11674,7 +12089,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "국가",
@@ -11704,7 +12120,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "국민",
@@ -11734,7 +12151,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "국어, 일본어",
@@ -11764,7 +12182,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "토지, 땅",
@@ -11794,7 +12213,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "토요일",
@@ -11824,7 +12244,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "선물, 기념품",
@@ -11854,7 +12275,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지하",
@@ -11884,7 +12306,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지위",
@@ -11914,7 +12337,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "지구, 지역",
@@ -11944,7 +12368,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "지역",
@@ -11974,7 +12399,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지평선",
@@ -12004,7 +12430,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "지방",
@@ -12034,7 +12462,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지구",
@@ -12064,7 +12493,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "~에 근거하다, ~에 기초하다",
@@ -12095,7 +12525,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기본",
@@ -12125,7 +12556,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보고",
@@ -12155,7 +12587,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장면, 상황",
@@ -12185,7 +12618,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "늘다, 증가하다",
@@ -12216,7 +12650,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "증가",
@@ -12246,7 +12681,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "팔리다",
@@ -12277,7 +12713,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "변화",
@@ -12307,7 +12744,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "변경",
@@ -12337,7 +12775,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "저녁, 어젯밤",
@@ -12367,7 +12806,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "풀다, 떼다, 놓치다",
@@ -12398,7 +12838,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "외출",
@@ -12428,7 +12869,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한밤중",
@@ -12458,7 +12900,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "새벽, 동틀 녘",
@@ -12488,7 +12931,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "열중, 몰두",
@@ -12518,7 +12962,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "대회",
@@ -12548,7 +12994,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "태반, 대부분",
@@ -12578,7 +13025,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "힘들다, 어렵다",
@@ -12606,7 +13054,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "집주인, 건물주",
@@ -12636,7 +13085,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대전",
@@ -12666,7 +13116,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대기, 공기",
@@ -12696,7 +13147,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대통령",
@@ -12726,7 +13178,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대신, 장관",
@@ -12756,7 +13209,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대부분",
@@ -12786,7 +13240,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대륙",
@@ -12816,7 +13271,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "날씨",
@@ -12846,7 +13302,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "천연, 자연",
@@ -12876,7 +13333,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "태양",
@@ -12906,7 +13364,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "부인, 사모님",
@@ -12936,7 +13395,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "부부",
@@ -12966,7 +13426,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잃다",
@@ -12997,7 +13458,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실망",
@@ -13027,7 +13489,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실업",
@@ -13057,7 +13520,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "기묘하다, 이상하다",
@@ -13085,7 +13549,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "계약",
@@ -13115,7 +13580,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "장학금",
@@ -13145,7 +13611,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "빼앗다",
@@ -13176,7 +13643,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "여배우",
@@ -13206,7 +13674,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여자",
@@ -13236,7 +13705,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여왕",
@@ -13266,7 +13736,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "취향, 기호",
@@ -13296,7 +13767,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "좋아하다, 선호하다",
@@ -13327,7 +13800,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자매",
@@ -13357,7 +13831,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "시작",
@@ -13387,7 +13862,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "위원",
@@ -13417,7 +13893,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "약혼",
@@ -13447,7 +13924,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "싫어하다",
@@ -13478,7 +13957,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "기쁘다",
@@ -13506,7 +13986,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "존재",
@@ -13536,7 +14017,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "배우다",
@@ -13567,7 +14049,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "학문",
@@ -13597,7 +14080,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "학기",
@@ -13627,7 +14111,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "학습",
@@ -13657,7 +14142,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "학자",
@@ -13687,7 +14173,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "우주",
@@ -13717,7 +14204,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지키다, 보호하다",
@@ -13748,7 +14236,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "안정",
@@ -13778,7 +14267,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "완료",
@@ -13808,7 +14298,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "완전",
@@ -13838,7 +14329,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "완성",
@@ -13868,7 +14360,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "종교",
@@ -13898,7 +14391,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "좋다, 괜찮다",
@@ -13926,7 +14421,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "보석",
@@ -13956,7 +14452,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실시",
@@ -13986,7 +14483,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실현",
@@ -14016,7 +14514,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실행",
@@ -14046,7 +14545,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실제",
@@ -14076,7 +14576,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실험",
@@ -14106,7 +14607,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "가사, 집안일",
@@ -14136,7 +14639,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가구",
@@ -14166,7 +14670,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "집세",
@@ -14196,7 +14701,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "용이하다, 쉽다",
@@ -14224,7 +14730,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "숙박",
@@ -14254,7 +14761,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "기부",
@@ -14284,7 +14792,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "심판",
@@ -14314,7 +14823,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "~에 대해, ~에 맞서다",
@@ -14345,7 +14856,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대상",
@@ -14375,7 +14887,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전공",
@@ -14405,7 +14918,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "존경",
@@ -14435,7 +14949,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "존중",
@@ -14465,7 +14980,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소포",
@@ -14495,7 +15011,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "오두막, 헛간",
@@ -14525,7 +15042,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "밀",
@@ -14555,7 +15073,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소녀",
@@ -14585,7 +15104,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소년",
@@ -14615,7 +15135,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "앉다, 종사하다",
@@ -14646,7 +15167,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "취직",
@@ -14676,7 +15198,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "졸음, 낮잠",
@@ -14706,7 +15230,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "거실",
@@ -14736,7 +15261,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "닿다, 도착하다",
@@ -14767,7 +15293,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지붕",
@@ -14797,7 +15324,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "(신발, 바지 등을) 신다, 입다",
@@ -14828,7 +15356,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "좌우",
@@ -14858,7 +15387,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "거대함",
@@ -14886,7 +15416,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "차별",
@@ -14916,7 +15447,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "시장 (장소)",
@@ -14946,7 +15478,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "희망",
@@ -14976,7 +15509,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "귀가",
@@ -15006,7 +15540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상식",
@@ -15036,7 +15571,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평평함",
@@ -15064,7 +15600,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "평화",
@@ -15094,7 +15631,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평균",
@@ -15124,7 +15662,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평등",
@@ -15154,7 +15693,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연중",
@@ -15184,7 +15724,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연대, 시대",
@@ -15214,7 +15755,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "노인",
@@ -15244,7 +15786,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세월",
@@ -15274,7 +15817,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연간",
@@ -15304,7 +15848,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연령",
@@ -15334,7 +15879,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "행복",
@@ -15364,7 +15910,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "행운",
@@ -15394,7 +15941,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "어리다",
@@ -15422,7 +15971,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "넓어지다, 퍼지다",
@@ -15453,7 +16003,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "광고",
@@ -15483,7 +16034,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "좌석",
@@ -15513,7 +16065,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연기",
@@ -15543,7 +16096,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "건축",
@@ -15573,7 +16127,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "건설",
@@ -15603,7 +16158,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "도시락",
@@ -15633,7 +16190,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "당기다, 끌다",
@@ -15664,7 +16222,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "인용",
@@ -15694,7 +16253,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "은퇴",
@@ -15724,7 +16284,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "(줄 등을) 치다, 펴다",
@@ -15755,7 +16316,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "강력함",
@@ -15783,7 +16345,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "강도",
@@ -15813,7 +16376,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "강조",
@@ -15843,7 +16407,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "맞다, 해당하다",
@@ -15874,7 +16439,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "맞히다, 대다",
@@ -15905,7 +16471,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영향",
@@ -15935,7 +16502,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "역할",
@@ -15965,7 +16533,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "후자",
@@ -15995,7 +16564,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "따르다, 복종하다",
@@ -16026,7 +16596,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사촌",
@@ -16056,7 +16627,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "얻다, 획득하다",
@@ -16087,7 +16659,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "특기, 장기",
@@ -16117,7 +16690,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "미묘함, 애매함",
@@ -16145,7 +16719,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "미소 짓다",
@@ -16176,7 +16751,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "철야",
@@ -16206,7 +16782,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "철저함",
@@ -16236,7 +16813,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "심리",
@@ -16266,7 +16844,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "심장",
@@ -16296,7 +16875,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "필사적임",
@@ -16324,7 +16904,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "응하다, 따르다",
@@ -16355,7 +16936,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "쾌적함",
@@ -16383,7 +16965,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "추억",
@@ -16413,7 +16996,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사상",
@@ -16443,7 +17027,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "게으름 피우다",
@@ -16474,7 +17059,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "급격함",
@@ -16502,7 +17088,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "급속함",
@@ -16530,7 +17117,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "성격",
@@ -16560,7 +17148,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연인",
@@ -16590,7 +17179,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "두려워하다",
@@ -16621,7 +17211,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "무섭다, 두렵다",
@@ -16649,7 +17240,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공포",
@@ -16679,7 +17271,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "환자",
@@ -16709,7 +17302,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "고민하다, 괴로워하다",
@@ -16740,7 +17334,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "욕설, 험담",
@@ -16770,7 +17365,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "악마",
@@ -16800,7 +17396,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "슬퍼하다",
@@ -16831,7 +17428,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비극",
@@ -16861,7 +17459,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정보",
@@ -16891,7 +17490,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상상",
@@ -16921,7 +17521,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유쾌함",
@@ -16949,7 +17550,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의외의",
@@ -16977,7 +17579,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의지",
@@ -17007,7 +17610,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의사",
@@ -17037,7 +17641,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의식",
@@ -17067,7 +17672,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "사랑하다",
@@ -17098,7 +17704,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "애정",
@@ -17128,7 +17735,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느낌",
@@ -17158,7 +17766,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -17189,7 +17798,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "감동",
@@ -17219,7 +17829,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "감탄",
@@ -17249,7 +17860,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "감정",
@@ -17279,7 +17891,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "감각",
@@ -17309,7 +17922,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사",
@@ -17339,7 +17953,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "태도",
@@ -17369,7 +17984,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신중함",
@@ -17397,7 +18013,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "성인",
@@ -17427,7 +18044,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "성공",
@@ -17457,7 +18075,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "성적",
@@ -17487,7 +18106,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "성장",
@@ -17517,7 +18137,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "참음",
@@ -17547,7 +18168,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "싸움",
@@ -17577,7 +18199,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "싸우다",
@@ -17608,7 +18231,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "되돌리다",
@@ -17639,7 +18263,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "도움",
@@ -17669,7 +18294,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마술",
@@ -17699,7 +18325,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수단",
@@ -17729,7 +18356,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수술",
@@ -17759,7 +18387,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수고",
@@ -17789,7 +18418,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "재능",
@@ -17819,7 +18449,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "다루다",
@@ -17850,7 +18481,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비판",
@@ -17880,7 +18512,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비평",
@@ -17910,7 +18543,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "승인",
@@ -17940,7 +18574,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기술자",
@@ -17970,7 +18605,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "투표",
@@ -18000,7 +18636,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "뽑다",
@@ -18031,7 +18668,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "빠지다",
@@ -18062,7 +18700,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "안다",
@@ -18093,7 +18732,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "품다",
@@ -18124,7 +18764,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "저항",
@@ -18154,7 +18795,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "담당",
@@ -18184,7 +18826,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "박수",
@@ -18214,7 +18857,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "초대하다",
@@ -18245,7 +18889,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "확대",
@@ -18275,7 +18920,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "들어 올리다",
@@ -18306,7 +18952,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가리키다",
@@ -18337,7 +18984,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "지도",
@@ -18367,7 +19015,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흔들다",
@@ -18398,7 +19047,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "붙잡히다",
@@ -18429,7 +19079,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "걸리다",
@@ -18460,7 +19111,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "추천",
@@ -18490,7 +19142,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "게시",
@@ -18520,7 +19173,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잡다",
@@ -18551,7 +19205,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "그리다",
@@ -18582,7 +19237,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제출",
@@ -18612,7 +19268,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제안",
@@ -18642,7 +19299,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "바꾸다",
@@ -18673,7 +19331,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쥐다",
@@ -18704,7 +19363,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "악수",
@@ -18734,7 +19394,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "원조",
@@ -18764,7 +19425,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "손해",
@@ -18794,7 +19456,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쏘다",
@@ -18825,7 +19488,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조작",
@@ -18855,7 +19519,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지탱하다",
@@ -18886,7 +19551,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지출",
@@ -18916,7 +19582,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지점",
@@ -18946,7 +19613,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지불",
@@ -18976,7 +19644,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지불하다",
@@ -19007,7 +19676,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "지배",
@@ -19037,7 +19707,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "개선",
@@ -19067,7 +19738,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공격",
@@ -19097,7 +19769,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "놓다, 풀어주다",
@@ -19128,7 +19801,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "정부",
@@ -19158,7 +19832,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "고향",
@@ -19188,7 +19863,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "구하다, 살리다",
@@ -19219,7 +19895,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "구조",
@@ -19249,7 +19926,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "교사",
@@ -19279,7 +19957,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "교수",
@@ -19309,7 +19988,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "교과서",
@@ -19339,7 +20019,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경의, 존경",
@@ -19369,7 +20050,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세다",
@@ -19400,7 +20082,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "숫자",
@@ -19430,7 +20113,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정리",
@@ -19460,7 +20144,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불평, 불만",
@@ -19490,7 +20175,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "문자, 글자",
@@ -19520,7 +20206,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "문명",
@@ -19550,7 +20237,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요금",
@@ -19580,7 +20268,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "거절하다, 사양하다",
@@ -19611,7 +20300,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "새로운, 새롭게",
@@ -19639,7 +20329,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신선한",
@@ -19667,7 +20358,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "여러분, 각처",
@@ -19697,7 +20389,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "방향",
@@ -19727,7 +20420,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "방법",
@@ -19757,7 +20452,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "낮, 일중",
@@ -19787,7 +20483,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "날짜",
@@ -19817,7 +20514,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "햇빛, 일광",
@@ -19847,7 +20545,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일상",
@@ -19877,7 +20576,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일요일",
@@ -19907,7 +20607,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "일본",
@@ -19937,7 +20638,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "오르다, 떠오르다",
@@ -19968,7 +20670,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불빛, 등불",
@@ -19998,7 +20701,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "새다, 바뀌다",
@@ -20029,7 +20733,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "분명한, 명확한",
@@ -20057,7 +20762,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "모레",
@@ -20087,7 +20793,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "명확한",
@@ -20115,7 +20822,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "점심",
@@ -20145,7 +20853,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시각, 시간",
@@ -20175,7 +20884,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시기",
@@ -20205,7 +20915,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평소, 평상시",
@@ -20235,7 +20946,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "경기",
@@ -20265,7 +20978,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "암기",
@@ -20295,7 +21009,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "생활, 살림",
@@ -20325,7 +21040,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "살다, 생활하다",
@@ -20356,7 +21072,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "저녁, 연말",
@@ -20386,7 +21104,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요일",
@@ -20416,7 +21135,10 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "서류",
@@ -20446,7 +21168,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "바꾸다, 교환하다",
@@ -20477,7 +21200,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한창, 도중",
@@ -20507,7 +21231,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "최저, 최악",
@@ -20537,7 +21262,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "최종",
@@ -20567,7 +21293,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "최고",
@@ -20597,7 +21324,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "월요일",
@@ -20627,7 +21355,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유리한",
@@ -20655,7 +21384,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유효한",
@@ -20683,7 +21413,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유능한",
@@ -20711,7 +21442,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "복장",
@@ -20741,7 +21474,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "바람, 희망",
@@ -20771,7 +21505,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "바라다, 희망하다",
@@ -20802,7 +21537,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기대",
@@ -20832,7 +21568,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기간",
@@ -20862,7 +21599,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "목요일",
@@ -20892,7 +21630,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "미래",
@@ -20922,7 +21661,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "본인",
@@ -20952,7 +21692,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "정말, 사실",
@@ -20982,7 +21723,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "진짜, 본물",
@@ -21012,7 +21754,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "재료",
@@ -21042,7 +21785,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조건",
@@ -21072,7 +21816,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영양",
@@ -21102,7 +21847,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장마",
@@ -21132,7 +21878,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식물",
@@ -21162,7 +21909,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "검사",
@@ -21192,7 +21940,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "검토",
@@ -21222,7 +21971,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "상관하다",
@@ -21253,7 +22003,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "구성",
@@ -21283,7 +22034,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "다양한",
@@ -21311,7 +22063,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "모습, 상황",
@@ -21341,7 +22094,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무늬, 모양",
@@ -21371,7 +22125,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "권리",
@@ -21401,7 +22156,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가로지르다",
@@ -21432,7 +22188,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "횡단",
@@ -21462,7 +22219,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "기분",
@@ -21492,7 +22250,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기계",
@@ -21522,7 +22281,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기능",
@@ -21552,7 +22312,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기관",
@@ -21582,7 +22343,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "부족하다",
@@ -21613,7 +22375,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결석",
@@ -21643,7 +22406,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결점",
@@ -21673,7 +22437,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가수",
@@ -21703,7 +22468,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "환영",
@@ -21733,7 +22499,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정오",
@@ -21763,7 +22530,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정식의",
@@ -21791,7 +22559,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정직한",
@@ -21819,7 +22588,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정확한",
@@ -21847,7 +22617,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무기",
@@ -21877,7 +22648,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "보도",
@@ -21907,7 +22679,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사망",
@@ -21937,7 +22710,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "남기다",
@@ -21968,7 +22743,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나머지",
@@ -21998,7 +22774,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "죽이다",
@@ -22029,7 +22806,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어머니",
@@ -22059,7 +22837,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비교",
@@ -22089,7 +22868,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "담요",
@@ -22119,7 +22899,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "마음에 들다",
@@ -22150,7 +22931,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "불쌍한",
@@ -22178,7 +22960,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "깨닫다",
@@ -22209,7 +22992,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기후",
@@ -22239,7 +23023,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기온",
@@ -22269,7 +23054,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수준",
@@ -22299,7 +23085,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영구",
@@ -22329,7 +23116,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영원",
@@ -22359,7 +23147,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "구하다",
@@ -22390,7 +23179,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "오염",
@@ -22420,7 +23210,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "규칙",
@@ -22450,7 +23241,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결정",
@@ -22480,7 +23272,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결심",
@@ -22510,7 +23303,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "가라앉다",
@@ -22541,7 +23335,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "붓다",
@@ -22572,7 +23367,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주문",
@@ -22602,7 +23398,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주목",
@@ -22632,7 +23429,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수영",
@@ -22662,7 +23460,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "활동",
@@ -22692,7 +23491,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "활기",
@@ -22722,7 +23522,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "활용",
@@ -22752,7 +23553,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흘리다",
@@ -22783,7 +23585,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흐름",
@@ -22813,7 +23616,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흐르다",
@@ -22844,7 +23648,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유행",
@@ -22874,7 +23679,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "샤워하다",
@@ -22905,7 +23712,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "해외",
@@ -22935,7 +23743,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소비",
@@ -22965,7 +23774,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소방",
@@ -22995,7 +23805,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "심각한",
@@ -23023,7 +23834,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "혼란",
@@ -23053,7 +23865,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "혼잡",
@@ -23083,7 +23896,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "청결한",
@@ -23111,7 +23925,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마치다",
@@ -23142,7 +23957,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정체",
@@ -23172,7 +23988,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "줄이다",
@@ -23203,7 +24020,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "줄다",
@@ -23234,7 +24052,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "온도",
@@ -23264,7 +24083,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "온난한",
@@ -23292,7 +24112,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "가득 차다",
@@ -23323,7 +24144,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "만족",
@@ -23353,7 +24175,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "물에 빠지다",
@@ -23384,7 +24207,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "체류",
@@ -23414,7 +24238,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연주",
@@ -23444,7 +24269,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연기",
@@ -23474,7 +24300,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연설",
@@ -23504,7 +24331,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "격렬하다",
@@ -23532,7 +24360,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "진하다",
@@ -23560,7 +24389,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화요일",
@@ -23590,7 +24420,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화재",
@@ -23620,7 +24451,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무사",
@@ -23650,7 +24482,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무료",
@@ -23680,7 +24513,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무시",
@@ -23710,7 +24544,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "낭비",
@@ -23740,7 +24575,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "열중",
@@ -23770,7 +24606,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "열대",
@@ -23800,7 +24637,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "열심",
@@ -23830,7 +24668,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "타다",
@@ -23861,7 +24700,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "폭발",
@@ -23891,7 +24731,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "아버지",
@@ -23921,7 +24762,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "사물",
@@ -23951,7 +24793,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "물가",
@@ -23981,7 +24824,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이야기",
@@ -24011,7 +24855,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소리",
@@ -24041,7 +24886,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "특징",
@@ -24071,7 +24917,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "범인",
@@ -24101,7 +24948,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "범죄",
@@ -24131,7 +24979,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상태",
@@ -24161,7 +25010,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상황",
@@ -24191,7 +25041,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "미치다",
@@ -24222,7 +25073,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "독특",
@@ -24252,7 +25104,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "독립",
@@ -24282,7 +25135,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "독신",
@@ -24312,7 +25166,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "왕자",
@@ -24342,7 +25197,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "왕",
@@ -24372,7 +25228,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나타내다",
@@ -24403,7 +25260,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나타나다",
@@ -24434,7 +25292,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현대",
@@ -24464,7 +25323,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현재",
@@ -24494,7 +25354,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현장",
@@ -24524,7 +25385,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현실",
@@ -24554,7 +25416,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현상",
@@ -24584,7 +25447,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현금",
@@ -24614,7 +25478,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이상",
@@ -24644,7 +25509,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이해",
@@ -24674,7 +25540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "환경",
@@ -24704,7 +25571,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "생물",
@@ -24734,7 +25602,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "출생",
@@ -24764,7 +25633,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "천, 반죽",
@@ -24794,7 +25664,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조심",
@@ -24824,7 +25695,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사과",
@@ -24854,7 +25726,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "신청하다",
@@ -24885,7 +25758,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "남자",
@@ -24915,7 +25789,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "남자아이",
@@ -24945,7 +25821,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화가",
@@ -24975,7 +25852,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "유학",
@@ -25005,7 +25883,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이상",
@@ -25035,7 +25914,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의심하다",
@@ -25066,7 +25946,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의문",
@@ -25096,7 +25977,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "피로",
@@ -25126,7 +26008,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "증상",
@@ -25156,7 +26039,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "통증",
@@ -25186,7 +26070,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발전",
@@ -25216,7 +26101,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발명",
@@ -25246,7 +26132,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발행",
@@ -25276,7 +26163,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "발표",
@@ -25306,7 +26195,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발견",
@@ -25336,7 +26226,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발차",
@@ -25366,7 +26257,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "발달",
@@ -25396,7 +26288,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "등산",
@@ -25426,7 +26319,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한창때",
@@ -25456,7 +26350,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "감독",
@@ -25486,7 +26381,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "목표",
@@ -25516,7 +26413,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "목적",
@@ -25544,7 +26442,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "직접",
@@ -25574,7 +26473,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상당한",
@@ -25602,7 +26502,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상대",
@@ -25632,7 +26533,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상속",
@@ -25662,7 +26564,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "생략하다, 줄이다",
@@ -25693,7 +26596,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "곧은",
@@ -25721,7 +26625,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "새빨간",
@@ -25749,7 +26654,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "흉내",
@@ -25779,7 +26685,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "진지한",
@@ -25807,7 +26714,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "성실한",
@@ -25835,7 +26743,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경치",
@@ -25865,7 +26774,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "바라보다",
@@ -25896,7 +26806,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수면",
@@ -25926,7 +26837,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "순간",
@@ -25956,7 +26868,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "소식, 알림",
@@ -25986,7 +26899,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지사",
@@ -26016,7 +26930,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지혜",
@@ -26046,7 +26961,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지능",
@@ -26076,7 +26992,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지식",
@@ -26106,7 +27023,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "석유",
@@ -26136,7 +27054,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "석탄",
@@ -26166,7 +27085,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "사막",
@@ -26196,7 +27116,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "찢다, 깨다",
@@ -26227,7 +27148,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "파산",
@@ -26257,7 +27179,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "딱딱한",
@@ -26285,7 +27208,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "경화, 동전",
@@ -26315,7 +27240,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "확인하다",
@@ -26346,7 +27272,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "확실한",
@@ -26374,7 +27301,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "확인",
@@ -26404,7 +27332,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "나타내다, 보이다",
@@ -26435,7 +27364,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예의",
@@ -26465,7 +27395,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "축하",
@@ -26495,7 +27426,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "축하하다",
@@ -26526,7 +27458,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신경",
@@ -26556,7 +27489,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금지",
@@ -26586,7 +27520,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금연",
@@ -26616,7 +27551,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "과목",
@@ -26646,7 +27582,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비밀",
@@ -26676,7 +27613,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "옮기다",
@@ -26707,7 +27645,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "이동",
@@ -26737,7 +27676,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정도",
@@ -26767,7 +27707,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "세금",
@@ -26797,7 +27738,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "종류",
@@ -26827,7 +27769,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "벌다",
@@ -26858,7 +27801,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "곡물",
@@ -26888,7 +27832,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쌓이다",
@@ -26919,7 +27864,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "적극적인",
@@ -26947,7 +27893,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "온화한, 잔잔한",
@@ -26975,7 +27922,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "빈자리, 여유",
@@ -27005,7 +27953,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "입장",
@@ -27035,7 +27984,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "훌륭한",
@@ -27063,7 +28013,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경기",
@@ -27093,7 +28044,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "웃음",
@@ -27123,7 +28075,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "웃는 얼굴",
@@ -27153,7 +28106,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "같다, 동등하다",
@@ -27181,7 +28136,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "근육",
@@ -27211,7 +28167,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "답안지",
@@ -27241,7 +28198,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "관리",
@@ -27271,7 +28229,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "절약",
@@ -27301,7 +28260,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "범위",
@@ -27331,7 +28291,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조잡한, 소홀한",
@@ -27359,7 +28320,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정신",
@@ -27389,7 +28351,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "납득, 이해",
@@ -27419,7 +28382,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "마치다, 끝내다",
@@ -27450,7 +28414,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "짜다, 엮다",
@@ -27481,7 +28446,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조합",
@@ -27511,7 +28477,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조직",
@@ -27541,7 +28508,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "흐르다, 지나다",
@@ -27572,7 +28540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경영",
@@ -27602,7 +28571,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경유",
@@ -27632,7 +28602,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "묶다, 맺다",
@@ -27663,7 +28634,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결국",
@@ -27693,7 +28665,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결과",
@@ -27723,7 +28696,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "결론",
@@ -27753,7 +28727,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "급료, 월급",
@@ -27783,7 +28758,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "회화, 그림",
@@ -27813,7 +28789,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "절대",
@@ -27843,7 +28820,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "멸종",
@@ -27873,7 +28851,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "계속, 다음",
@@ -27903,7 +28882,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유지",
@@ -27933,7 +28913,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "긴장",
@@ -27963,7 +28944,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "잇다, 연결하다",
@@ -27994,7 +28976,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "반복하다",
@@ -28025,7 +29009,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "벌하다, 처벌하다",
@@ -28056,7 +29041,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "서명",
@@ -28086,7 +29072,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "(병에) 걸리다",
@@ -28117,7 +29104,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "미인",
@@ -28147,7 +29135,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의무",
@@ -28177,7 +29166,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "늙음, 노화",
@@ -28207,7 +29198,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "노인",
@@ -28237,7 +29229,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "생각",
@@ -28267,7 +29260,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "고려",
@@ -28297,7 +29291,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "직업",
@@ -28327,7 +29322,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "자라다, 성장하다",
@@ -28358,7 +29354,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "능력",
@@ -28388,7 +29385,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "썩다",
@@ -28419,7 +29417,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "자동",
@@ -28449,7 +29448,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자랑",
@@ -28479,7 +29479,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자살",
@@ -28509,7 +29510,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자연",
@@ -28539,7 +29541,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자신",
@@ -28569,7 +29572,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "냄새나다, 고약하다",
@@ -28597,7 +29602,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "이르다, 도달하다",
@@ -28628,7 +29634,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "무대",
@@ -28658,7 +29665,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "항공",
@@ -28688,7 +29696,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연극, 연기",
@@ -28718,7 +29727,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잔디",
@@ -28748,7 +29758,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "예술",
@@ -28778,7 +29789,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "괴롭다, 힘들다",
@@ -28806,7 +29818,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "괴로워하다, 고통받다",
@@ -28837,7 +29850,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "고생, 수고",
@@ -28867,7 +29881,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "서투름, 싫어함",
@@ -28895,7 +29911,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "고통",
@@ -28925,7 +29942,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "막대함, 엄청남",
@@ -28953,7 +29971,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "과자",
@@ -28983,7 +30002,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "저자",
@@ -29013,7 +30033,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "충치",
@@ -29043,7 +30064,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "감, 가는 길",
@@ -29073,7 +30096,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "예의, 행실",
@@ -29103,7 +30127,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "행동",
@@ -29133,7 +30159,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "위성",
@@ -29163,7 +30190,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "충돌",
@@ -29193,7 +30221,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의복, 옷",
@@ -29223,7 +30252,10 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "나타내다, 표현하다",
@@ -29254,7 +30286,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "표정",
@@ -29284,7 +30317,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "표현",
@@ -29314,7 +30348,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "표면",
@@ -29344,7 +30380,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "(모자 등을) 쓰다, 뒤집어쓰다",
@@ -29375,7 +30412,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "피해",
@@ -29405,7 +30443,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "재판",
@@ -29435,7 +30474,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장치",
@@ -29465,7 +30505,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "배신하다",
@@ -29496,7 +30538,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제품",
@@ -29526,7 +30569,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제조",
@@ -29556,7 +30600,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "칭찬하다",
@@ -29587,7 +30632,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요구",
@@ -29617,7 +30663,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요점",
@@ -29647,7 +30694,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요소",
@@ -29677,7 +30725,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "덮다, 가리다",
@@ -29708,7 +30757,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "보다",
@@ -29739,7 +30789,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "훌륭함, 멋짐",
@@ -29767,7 +30818,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "짐작, 예상",
@@ -29797,7 +30849,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "문병, 위문",
@@ -29827,7 +30880,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "견해",
@@ -29857,7 +30911,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "배웅, 보류",
@@ -29887,7 +30943,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "깨우다",
@@ -29918,7 +30975,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "깨다",
@@ -29949,7 +31007,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "각오",
@@ -29979,7 +31038,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "친하다",
@@ -30007,7 +31067,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "절친",
@@ -30037,7 +31098,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "친척",
@@ -30067,7 +31129,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "관광",
@@ -30097,7 +31160,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "관객",
@@ -30127,7 +31191,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "관찰",
@@ -30157,7 +31222,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "풀다",
@@ -30188,7 +31254,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "풀리다",
@@ -30219,7 +31286,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "해결",
@@ -30249,7 +31317,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "해석",
@@ -30279,7 +31348,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "닿다, 언급하다",
@@ -30310,7 +31380,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "언어",
@@ -30340,7 +31411,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "재다, 측정하다",
@@ -30371,7 +31443,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "계산",
@@ -30401,7 +31474,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "훈련",
@@ -30431,7 +31505,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기사",
@@ -30461,7 +31536,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기입",
@@ -30491,7 +31567,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기념",
@@ -30521,7 +31598,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기억",
@@ -30551,7 +31629,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기자",
@@ -30581,7 +31660,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기록",
@@ -30611,7 +31691,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "방문",
@@ -30641,7 +31722,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "설비",
@@ -30671,7 +31753,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "설계",
@@ -30701,7 +31784,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "용서하다, 허락하다",
@@ -30732,7 +31817,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "허가",
@@ -30762,7 +31848,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "호소하다, 고소하다",
@@ -30793,7 +31880,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "진찰",
@@ -30823,7 +31911,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "증명",
@@ -30853,7 +31942,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평가",
@@ -30883,7 +31973,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평판",
@@ -30913,7 +32004,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시험, 시도",
@@ -30943,7 +32035,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "시험하다, 시도하다",
@@ -30974,7 +32067,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "채우다, 줄이다",
@@ -31005,7 +32099,10 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "서로 이야기하다, 의논하다",
@@ -31036,7 +32133,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "화제",
@@ -31066,7 +32164,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "자세하다",
@@ -31094,7 +32193,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "자랑, 긍지",
@@ -31124,7 +32224,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "인정하다, 알아보다",
@@ -31155,7 +32256,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "탄생",
@@ -31185,7 +32287,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "권유하다, 유혹하다",
@@ -31216,7 +32319,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이야기하다, 말하다",
@@ -31247,7 +32352,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어학",
@@ -31277,7 +32383,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실수, 오류",
@@ -31307,7 +32414,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "오해",
@@ -31337,7 +32445,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "읽기, 독해",
@@ -31367,7 +32476,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "독서",
@@ -31397,7 +32507,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "상태, 컨디션",
@@ -31427,7 +32538,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "조사",
@@ -31457,7 +32569,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "청구",
@@ -31487,7 +32600,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "논하다",
@@ -31518,7 +32632,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "논쟁",
@@ -31548,7 +32663,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "논문",
@@ -31578,7 +32694,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "포기하다",
@@ -31609,7 +32726,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "강연",
@@ -31639,7 +32757,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "경고",
@@ -31669,7 +32788,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "의논, 논의",
@@ -31699,7 +32819,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily"
     ],
     "meanings": {
       "ko": "양보하다, 물려주다",
@@ -31730,7 +32852,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "풍부하다, 풍요롭다",
@@ -31758,7 +32881,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "풍부함",
@@ -31786,7 +32910,9 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "호화롭다",
@@ -31814,7 +32940,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "패배",
@@ -31844,7 +32972,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "재산",
@@ -31874,7 +33003,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "공헌",
@@ -31904,7 +33034,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "가난하다",
@@ -31932,7 +33063,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "판매",
@@ -31962,7 +33094,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "비난하다, 책망하다",
@@ -31993,7 +33126,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "책임",
@@ -32023,7 +33157,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "저금",
@@ -32053,7 +33188,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "귀중하다",
@@ -32081,7 +33217,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "대출, 빌려줌",
@@ -32111,7 +33248,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비용, 경비",
@@ -32141,7 +33279,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "현명한, 영리한",
@@ -32169,7 +33308,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "사치, 호화",
@@ -32199,7 +33339,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "선물하다, 증정하다",
@@ -32230,7 +33371,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "일어나다, 발생하다",
@@ -32261,7 +33404,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "넘다, 초과하다",
@@ -32292,7 +33436,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "넘다, 이사하다",
@@ -32323,7 +33468,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신체, 몸",
@@ -32353,7 +33499,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "신장, 키",
@@ -32383,7 +33530,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "넘어지다",
@@ -32414,7 +33562,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "빛나다, 반짝이다",
@@ -32445,7 +33594,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "치다",
@@ -32476,7 +33626,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "그만두다, 사직하다",
@@ -32507,7 +33658,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "농가, 농부",
@@ -32537,7 +33689,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "농업, 농사",
@@ -32567,7 +33720,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주변, 근처",
@@ -32597,7 +33751,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "마중, 맞이",
@@ -32627,7 +33782,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "요즘, 최근",
@@ -32657,7 +33813,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "말하다, 진술하다",
@@ -32688,7 +33846,10 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "daily",
+      "travel"
     ],
     "meanings": {
       "ko": "미아, 길 잃은 아이",
@@ -32718,7 +33879,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "폐, 민폐",
@@ -32748,7 +33910,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "따라잡다",
@@ -32779,7 +33942,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "쫓다, 추적하다",
@@ -32810,7 +33974,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지루함, 따분함",
@@ -32840,7 +34005,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "거스르다, 반항하다",
@@ -32871,7 +34037,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "~하자마자, 순간",
@@ -32901,7 +34068,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "통하다, 이해되다",
@@ -32932,7 +34100,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "통과시키다, 관통하다",
@@ -32963,7 +34132,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "길, 거리, ~대로",
@@ -32993,7 +34164,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "지나가다, 통과하다",
@@ -33024,7 +34197,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "통신, 연락",
@@ -33054,7 +34228,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "통학",
@@ -33084,7 +34259,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "통행, 통과",
@@ -33114,7 +34290,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "통과, 경유",
@@ -33144,7 +34321,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "속도",
@@ -33174,7 +34352,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "동반자, 일행",
@@ -33204,7 +34384,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "연속, 계속",
@@ -33234,7 +34415,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주간, ~주 (기간)",
@@ -33264,7 +34446,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "진행하다, 추진하다",
@@ -33295,7 +34478,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "진학",
@@ -33325,7 +34509,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "진보, 발전",
@@ -33355,7 +34540,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "지각",
@@ -33385,7 +34571,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "(시간을) 보내다",
@@ -33416,7 +34603,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "과거",
@@ -33446,7 +34634,9 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "travel"
     ],
     "meanings": {
       "ko": "도로, 길",
@@ -33476,7 +34666,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "도달하다, 달성하다",
@@ -33507,7 +34698,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "차이, 다름",
@@ -33537,7 +34729,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "위반",
@@ -33567,7 +34760,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "적합하다, 알맞다",
@@ -33598,7 +34792,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "적절함, 적합함",
@@ -33628,7 +34823,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "적당함, 적절한 정도",
@@ -33658,7 +34854,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "선수",
@@ -33688,7 +34885,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "선택",
@@ -33718,7 +34916,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "피하다, 회피하다",
@@ -33749,7 +34948,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "방해, 폐",
@@ -33779,7 +34979,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "부분, 일부",
@@ -33809,7 +35010,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "우편, 우체국",
@@ -33839,7 +35041,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "도시, 도회",
@@ -33869,7 +35072,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "도시",
@@ -33899,7 +35103,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "배달",
@@ -33929,7 +35134,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "취하다, 멀미하다",
@@ -33960,7 +35166,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중대함, 중요함",
@@ -33990,7 +35197,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중요함",
@@ -34020,7 +35228,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "중시, 중요하게 여김",
@@ -34050,7 +35259,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금고",
@@ -34080,7 +35290,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "부자",
@@ -34110,7 +35321,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금요일",
@@ -34140,7 +35352,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금융",
@@ -34170,7 +35383,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "금액",
@@ -34200,7 +35414,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "철도",
@@ -34230,7 +35445,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "날카롭다",
@@ -34258,7 +35474,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "장기",
@@ -34288,7 +35505,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "닫다",
@@ -34319,7 +35537,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시작",
@@ -34349,7 +35568,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "실수",
@@ -34379,7 +35599,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "~에 관하다",
@@ -34410,7 +35631,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "관심",
@@ -34440,7 +35662,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "관련",
@@ -34470,7 +35693,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "막다",
@@ -34501,7 +35725,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "내리다",
@@ -34532,7 +35757,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "제한하다",
@@ -34563,7 +35789,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "한계",
@@ -34593,7 +35820,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "제외하다",
@@ -34624,7 +35852,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "쾌활하다",
@@ -34652,7 +35881,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장애",
@@ -34682,7 +35912,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "숨기다",
@@ -34713,7 +35944,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "숨다",
@@ -34744,7 +35976,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "모임",
@@ -34774,7 +36007,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "집중",
@@ -34804,7 +36038,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "집단",
@@ -34834,7 +36069,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "고용하다",
@@ -34865,7 +36101,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "떼어놓다",
@@ -34896,7 +36133,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "떨어지다",
@@ -34927,7 +36165,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이혼",
@@ -34957,7 +36196,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "분위기",
@@ -34987,7 +36227,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전자",
@@ -35017,7 +36258,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수요",
@@ -35047,7 +36289,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "떨리다",
@@ -35078,7 +36321,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "비상",
@@ -35108,7 +36352,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "귀찮다, 번거롭다",
@@ -35136,7 +36381,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "받다, 먹다 (겸양어)",
@@ -35167,7 +36413,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "정상",
@@ -35197,7 +36444,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "순서",
@@ -35227,7 +36475,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "순조롭다",
@@ -35255,7 +36504,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "맡기다",
@@ -35286,7 +36536,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "두통",
@@ -35316,7 +36567,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의지하다",
@@ -35347,7 +36599,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소원, 바람",
@@ -35377,7 +36630,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "바라다, 빌다",
@@ -35408,7 +36662,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "목욕",
@@ -35438,7 +36693,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "풍경",
@@ -35468,7 +36724,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "날리다",
@@ -35499,7 +36756,9 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "뛰쳐나가다",
@@ -35530,7 +36789,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "비행",
@@ -35560,7 +36820,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "먹다",
@@ -35591,7 +36852,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "식탁",
@@ -35621,7 +36883,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "식품",
@@ -35651,7 +36914,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "식량",
@@ -35681,7 +36945,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "식욕",
@@ -35711,7 +36976,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "기르다",
@@ -35742,7 +37008,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "질리다",
@@ -35773,7 +37040,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "수상",
@@ -35803,7 +37071,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "수도",
@@ -35833,7 +37102,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "향기",
@@ -35863,7 +37133,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "바보",
@@ -35893,7 +37164,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "안 된다, 소용없다",
@@ -35921,7 +37193,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "주차",
@@ -35951,7 +37224,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "소동, 소란",
@@ -35981,7 +37255,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "소음",
@@ -36011,7 +37286,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "골절",
@@ -36041,7 +37317,8 @@ const WORDS_JA_B1 = [
     "pos": "形容詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "고가, 비싸다",
@@ -36069,7 +37346,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "고속",
@@ -36099,7 +37377,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "머리카락",
@@ -36129,7 +37408,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "매력",
@@ -36159,7 +37439,8 @@ const WORDS_JA_B1 = [
     "pos": "名詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "칠판",
@@ -36189,7 +37470,8 @@ const WORDS_JA_B1 = [
     "pos": "動詞",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "입 다물다",

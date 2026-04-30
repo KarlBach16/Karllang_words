@@ -1,4 +1,4 @@
-// IT A2 generated from pt_v2 canonical dataset
+// PT A2 generated from release candidate
 const WORDS_PT_A2 = [
   {
     "id": "pt_1084",
@@ -9649,7 +9649,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "다리 갑옷",
@@ -10975,7 +10976,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "엽",
@@ -16612,7 +16614,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "죄수",
@@ -17061,7 +17064,8 @@ const WORDS_PT_A2 = [
     "pos": "Adjektiv",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "로망스어의",
@@ -17137,7 +17141,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "장애물",
@@ -25457,7 +25462,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "왕좌",
@@ -28750,7 +28756,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "둘레",
@@ -29040,7 +29047,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "화성",
@@ -30959,7 +30967,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "창",
@@ -31249,7 +31258,8 @@ const WORDS_PT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "토네이도",
@@ -31376,7 +31386,8 @@ const WORDS_PT_A2 = [
     "pos": "Verb",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "터지다",

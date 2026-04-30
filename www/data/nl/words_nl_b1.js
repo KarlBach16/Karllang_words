@@ -1,4 +1,4 @@
-// NL B1 generated from nl_v2 canonical dataset
+// NL B1 generated from release candidate
 const WORDS_NL_B1 = [
   {
     "id": "nl_2669",
@@ -14256,7 +14256,8 @@ const WORDS_NL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "영안실",
@@ -14574,7 +14575,8 @@ const WORDS_NL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유대인 공동체",
@@ -14599,7 +14601,8 @@ const WORDS_NL_B1 = [
     "pos": "Verb",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "전쟁하다",
@@ -24583,7 +24586,8 @@ const WORDS_NL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "은하수",
@@ -25140,7 +25144,8 @@ const WORDS_NL_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "구원",

@@ -1,4 +1,4 @@
-// DE A1 v1.0 (702 unique lemmas, vs A2/B1...)
+// DE A1 generated from release candidate
 const WORDS_DE_A1 = [
   {
     "id": "ab_prep_1",
@@ -1564,7 +1564,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "daily"
     ],
     "meanings": {
       "de": "Auge",
@@ -1768,7 +1768,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Ausländer",
@@ -1796,7 +1796,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "ausländisch",
@@ -1856,7 +1856,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Aussage",
@@ -2102,7 +2102,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "technology"
+      "basic"
     ],
     "meanings": {
       "de": "automatisch",
@@ -2128,7 +2128,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Baby",
@@ -2156,8 +2156,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Bäckerei",
@@ -2359,7 +2358,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing"
+      "basic"
     ],
     "meanings": {
       "de": "Balkon",
@@ -2387,7 +2386,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Banane",
@@ -2415,8 +2414,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "finance",
-      "city"
+      "work"
     ],
     "meanings": {
       "de": "Bank",
@@ -2444,7 +2442,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "bar",
@@ -2470,7 +2468,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "basic"
     ],
     "meanings": {
       "de": "Bauch",
@@ -2498,7 +2496,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "nature"
+      "basic"
     ],
     "meanings": {
       "de": "Baum",
@@ -2675,7 +2673,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "basic"
     ],
     "meanings": {
       "de": "Bein",
@@ -2757,7 +2755,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "Bekannter",
@@ -3136,7 +3134,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping"
+      "smalltalk"
     ],
     "meanings": {
       "de": "billig",
@@ -3162,7 +3160,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Birne",
@@ -3270,7 +3268,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Bitte",
@@ -3298,7 +3296,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "bitten",
@@ -3332,7 +3330,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "bitter",
@@ -3450,7 +3448,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling"
+      "smalltalk"
     ],
     "meanings": {
       "de": "böse",
@@ -3538,7 +3536,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Brief",
@@ -3566,8 +3564,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Briefmarke",
@@ -3687,7 +3684,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Bruder",
@@ -3715,8 +3713,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "school",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Buch",
@@ -3836,7 +3833,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Butter",
@@ -3864,8 +3861,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Café",
@@ -3893,8 +3889,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "technology"
+      "basic"
     ],
     "meanings": {
       "de": "CD",
@@ -4006,8 +4001,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "formal"
+      "basic"
     ],
     "meanings": {
       "de": "Dame",
@@ -4035,7 +4029,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "daneben",
@@ -4117,7 +4111,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "smalltalk"
     ],
     "meanings": {
       "de": "danken",
@@ -4207,7 +4201,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "dauern",
@@ -4320,7 +4314,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Disko",
@@ -4406,8 +4400,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "Dorf",
@@ -4462,7 +4455,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "draußen",
@@ -4678,8 +4671,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "Durst",
@@ -4771,8 +4763,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Ecke",
@@ -4800,7 +4791,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Ehefrau",
@@ -4828,7 +4819,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Ehemann",
@@ -4856,7 +4847,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Ei",
@@ -4963,8 +4954,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "building"
+      "basic"
     ],
     "meanings": {
       "de": "Eingang",
@@ -5027,8 +5017,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "einladen",
@@ -5062,8 +5051,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Einladung",
@@ -5152,8 +5140,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Eintritt",
@@ -5210,7 +5197,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Eltern",
@@ -5238,8 +5225,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "technology"
+      "work"
     ],
     "meanings": {
       "de": "E-Mail",
@@ -5331,8 +5317,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "enden",
@@ -5366,8 +5351,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "Ende",
@@ -5395,8 +5379,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "entschuldigen",
@@ -5430,8 +5413,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "social"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Entschuldigung",
@@ -5514,8 +5496,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "school"
+      "basic"
     ],
     "meanings": {
       "de": "erklären",
@@ -5584,7 +5565,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Erwachsene",
@@ -5612,8 +5593,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "erzählen",
@@ -5911,7 +5891,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "daily"
     ],
     "meanings": {
       "de": "Familie",
@@ -5939,7 +5919,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Familienname",
@@ -5967,7 +5947,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "Familienstand",
@@ -6082,8 +6062,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "culture"
+      "basic"
     ],
     "meanings": {
       "de": "Feiertag",
@@ -6111,8 +6090,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "feiern",
@@ -6210,7 +6188,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "fernsehen",
@@ -6297,7 +6275,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health"
+      "basic"
     ],
     "meanings": {
       "de": "Fieber",
@@ -6324,8 +6302,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "media"
+      "basic"
     ],
     "meanings": {
       "de": "Film",
@@ -6415,7 +6392,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Fisch",
@@ -6443,8 +6420,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Flasche",
@@ -6472,7 +6448,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "daily"
     ],
     "meanings": {
       "de": "Fleisch",
@@ -6680,8 +6656,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "media"
+      "basic"
     ],
     "meanings": {
       "de": "Foto",
@@ -6744,8 +6719,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "school"
+      "basic"
     ],
     "meanings": {
       "de": "Frage",
@@ -6828,7 +6802,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure"
+      "daily"
     ],
     "meanings": {
       "de": "Freizeit",
@@ -6917,7 +6891,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Freund",
@@ -6945,7 +6919,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Freundin",
@@ -6973,8 +6947,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "history"
+      "basic"
     ],
     "meanings": {
       "de": "früher",
@@ -7118,7 +7091,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "basic"
     ],
     "meanings": {
       "de": "Fuß",
@@ -7146,8 +7119,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "sport"
+      "basic"
     ],
     "meanings": {
       "de": "Fußball",
@@ -7174,8 +7146,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Garten",
@@ -7267,7 +7238,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "geboren",
@@ -7293,7 +7264,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "daily"
     ],
     "meanings": {
       "de": "Geburtsjahr",
@@ -7321,7 +7292,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "Geburtsort",
@@ -7349,8 +7320,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "celebration",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "Geburtstag",
@@ -7378,8 +7348,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "opinion",
-      "feeling"
+      "smalltalk"
     ],
     "meanings": {
       "de": "gefallen",
@@ -7509,8 +7478,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "finance"
+      "basic",
+      "daily"
     ],
     "meanings": {
       "de": "Geld",
@@ -7538,7 +7507,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Gemüse",
@@ -7648,8 +7617,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "city"
+      "daily"
     ],
     "meanings": {
       "de": "Geschäft",
@@ -7677,8 +7645,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "celebration",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Geschenk",
@@ -7706,7 +7673,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Geschwister",
@@ -7734,7 +7701,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Gespräch",
@@ -7762,7 +7729,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "daily"
     ],
     "meanings": {
       "de": "gestern",
@@ -7788,7 +7755,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health"
+      "smalltalk"
     ],
     "meanings": {
       "de": "gesund",
@@ -7814,7 +7781,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "daily"
     ],
     "meanings": {
       "de": "Getränk",
@@ -7842,8 +7809,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health",
-      "measurement"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Gewicht",
@@ -7871,8 +7837,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "sport"
+      "basic"
     ],
     "meanings": {
       "de": "gewinnen",
@@ -7906,8 +7871,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "music"
+      "basic"
     ],
     "meanings": {
       "de": "Gitarre",
@@ -7935,8 +7899,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "kitchen"
+      "basic"
     ],
     "meanings": {
       "de": "Glas",
@@ -8084,7 +8047,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling"
+      "smalltalk"
     ],
     "meanings": {
       "de": "glücklich",
@@ -8110,8 +8073,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "celebration",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Glückwunsch",
@@ -8139,8 +8101,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather",
-      "measurement"
+      "basic"
     ],
     "meanings": {
       "de": "Grad",
@@ -8168,8 +8129,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "celebration",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "gratulieren",
@@ -8203,8 +8163,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "grillen",
@@ -8265,8 +8224,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "clothing"
+      "basic"
     ],
     "meanings": {
       "de": "Größe",
@@ -8294,7 +8252,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Gruppe",
@@ -8322,7 +8280,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Gruß",
@@ -8377,7 +8335,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping"
+      "smalltalk"
     ],
     "meanings": {
       "de": "günstig",
@@ -8430,7 +8388,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "basic"
     ],
     "meanings": {
       "de": "Haar",
@@ -8492,7 +8450,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Hähnchen",
@@ -8695,7 +8653,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body"
+      "daily"
     ],
     "meanings": {
       "de": "Hand",
@@ -8723,8 +8681,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "technology",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Handy",
@@ -8781,7 +8738,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "school"
+      "daily",
+      "work"
     ],
     "meanings": {
       "de": "Hausaufgabe",
@@ -8896,7 +8854,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "daily"
     ],
     "meanings": {
       "de": "Heimat",
@@ -8924,8 +8882,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "heiraten",
@@ -9029,7 +8986,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "travel"
     ],
     "meanings": {
       "de": "hell",
@@ -9055,8 +9012,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "kitchen"
+      "basic"
     ],
     "meanings": {
       "de": "Herd",
@@ -9084,8 +9040,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "title"
+      "basic"
     ],
     "meanings": {
       "de": "Herr",
@@ -9113,8 +9068,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "celebration"
+      "basic"
     ],
     "meanings": {
       "de": "herzlich",
@@ -9223,7 +9177,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "hinten",
@@ -9249,7 +9203,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Hobby",
@@ -9277,8 +9231,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "measurement",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "hoch",
@@ -9304,8 +9257,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family",
-      "celebration"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Hochzeit",
@@ -9460,8 +9412,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "Hunger",
@@ -9677,7 +9628,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "international",
@@ -9703,8 +9654,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "technology",
-      "media"
+      "basic"
     ],
     "meanings": {
       "de": "Internet",
@@ -9759,7 +9709,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "clothing"
+      "basic"
     ],
     "meanings": {
       "de": "Jacke",
@@ -9868,7 +9818,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Jugendliche",
@@ -9896,7 +9846,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "smalltalk"
     ],
     "meanings": {
       "de": "jung",
@@ -9922,8 +9872,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "people",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Junge",
@@ -9951,8 +9900,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "drink"
+      "basic"
     ],
     "meanings": {
       "de": "Kaffee",
@@ -10274,8 +10222,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Kindergarten",
@@ -10303,8 +10250,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Kino",
@@ -10332,8 +10278,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Kiosk",
@@ -10417,8 +10362,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "clothing",
-      "shopping"
+      "basic",
+      "daily"
     ],
     "meanings": {
       "de": "Kleidung",
@@ -10664,8 +10609,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "body",
-      "health"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Kopf",
@@ -10790,8 +10735,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "food"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Küche",
@@ -10877,8 +10822,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "kitchen"
+      "basic"
     ],
     "meanings": {
       "de": "Kühlschrank",
@@ -10906,8 +10850,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "culture",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "kulturell",
@@ -10933,8 +10876,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family",
-      "social"
+      "travel"
     ],
     "meanings": {
       "de": "kümmern",
@@ -10997,7 +10939,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education"
+      "basic"
     ],
     "meanings": {
       "de": "Kurs",
@@ -11025,7 +10967,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "kurz",
@@ -11086,8 +11028,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "city"
+      "daily"
     ],
     "meanings": {
       "de": "Laden",
@@ -11115,8 +11056,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "geography",
-      "society"
+      "travel"
     ],
     "meanings": {
       "de": "Land",
@@ -11144,7 +11084,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "lang",
@@ -11170,7 +11110,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "basic",
+      "daily"
     ],
     "meanings": {
       "de": "lange",
@@ -11196,7 +11137,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "langsam",
@@ -11257,8 +11198,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description",
-      "sound"
+      "basic"
     ],
     "meanings": {
       "de": "laut",
@@ -11319,7 +11259,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Leben",
@@ -11347,8 +11287,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Lebensmittel",
@@ -11376,7 +11315,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "ledig",
@@ -11466,7 +11405,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "leicht",
@@ -11519,8 +11458,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description",
-      "sound"
+      "basic"
     ],
     "meanings": {
       "de": "leise",
@@ -11581,8 +11519,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "lesen",
@@ -11643,8 +11580,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "people",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Leute",
@@ -11701,8 +11637,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "lieb",
@@ -11728,8 +11663,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "lieben",
@@ -11790,8 +11724,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "preference"
+      "basic"
     ],
     "meanings": {
       "de": "Lieblingsfilm",
@@ -11819,8 +11752,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "music",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Lied",
@@ -11883,8 +11815,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "direction"
+      "travel"
     ],
     "meanings": {
       "de": "links",
@@ -11910,7 +11841,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "transport"
+      "basic"
     ],
     "meanings": {
       "de": "Lkw",
@@ -11938,8 +11869,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "school",
-      "problem_solving"
+      "basic"
     ],
     "meanings": {
       "de": "Lösung",
@@ -11967,8 +11897,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "lustig",
@@ -12029,8 +11958,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "people",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Mädchen",
@@ -12085,8 +12013,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "people",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Mann",
@@ -12114,7 +12041,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "männlich",
@@ -12140,8 +12067,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "city"
+      "work"
     ],
     "meanings": {
       "de": "Markt",
@@ -12169,8 +12095,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "technology",
-      "household"
+      "basic"
     ],
     "meanings": {
       "de": "Maschine",
@@ -12280,8 +12205,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "frequency"
+      "basic"
     ],
     "meanings": {
       "de": "meistens",
@@ -12307,8 +12231,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "people",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Mensch",
@@ -12371,8 +12294,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "drink"
+      "basic"
     ],
     "meanings": {
       "de": "Milch",
@@ -12462,8 +12384,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "movement"
+      "basic"
     ],
     "meanings": {
       "de": "mitkommen",
@@ -12497,8 +12418,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "activity",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "mitmachen",
@@ -13323,8 +13243,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Nummer",
@@ -13378,7 +13297,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "oben",
@@ -13404,7 +13323,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Obst",
@@ -13520,8 +13439,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "frequency",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "oft",
@@ -13573,7 +13491,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Öl",
@@ -13601,7 +13519,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Oma",
@@ -13629,7 +13547,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Opa",
@@ -13685,8 +13603,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "Ort",
@@ -13714,8 +13631,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "office",
-      "material"
+      "basic"
     ],
     "meanings": {
       "de": "Papier",
@@ -13772,8 +13688,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Partner",
@@ -13801,8 +13716,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Partnerin",
@@ -13830,7 +13744,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Party",
@@ -13945,8 +13859,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Platz",
@@ -13974,8 +13887,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society",
-      "emergency"
+      "basic"
     ],
     "meanings": {
       "de": "Polizei",
@@ -14003,7 +13915,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Pommes frites",
@@ -14031,7 +13943,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "travel"
     ],
     "meanings": {
       "de": "Portion",
@@ -14059,8 +13971,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "city"
+      "work"
     ],
     "meanings": {
       "de": "Post",
@@ -14088,7 +13999,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "Postleitzahl",
@@ -14174,7 +14085,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping"
+      "basic"
     ],
     "meanings": {
       "de": "Preis",
@@ -14259,7 +14170,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "pünktlich",
@@ -14285,7 +14196,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "transport"
+      "travel"
     ],
     "meanings": {
       "de": "Rad",
@@ -14348,8 +14259,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "housing"
+      "daily"
     ],
     "meanings": {
       "de": "Raum",
@@ -14377,8 +14287,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "restaurant"
+      "basic"
     ],
     "meanings": {
       "de": "Rechnung",
@@ -14406,8 +14315,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "direction"
+      "travel"
     ],
     "meanings": {
       "de": "rechts",
@@ -14433,7 +14341,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather"
+      "basic"
     ],
     "meanings": {
       "de": "regnen",
@@ -14467,7 +14375,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather"
+      "basic"
     ],
     "meanings": {
       "de": "Regen",
@@ -14495,7 +14403,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Reis",
@@ -14707,8 +14615,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Restaurant",
@@ -14736,8 +14643,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Rezept",
@@ -14821,7 +14727,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "perception"
+      "basic"
     ],
     "meanings": {
       "de": "riechen",
@@ -14855,7 +14761,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "ruhig",
@@ -14881,8 +14787,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "drink"
+      "basic"
     ],
     "meanings": {
       "de": "Saft",
@@ -14945,7 +14850,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Salat",
@@ -14973,7 +14878,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Salz",
@@ -15001,8 +14906,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "school",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Satz",
@@ -15030,8 +14934,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "transport",
-      "city"
+      "travel"
     ],
     "meanings": {
       "de": "S-Bahn",
@@ -15088,7 +14991,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather"
+      "basic"
     ],
     "meanings": {
       "de": "scheinen",
@@ -15122,8 +15025,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "post"
+      "basic"
     ],
     "meanings": {
       "de": "schicken",
@@ -15157,8 +15059,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "traffic",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Schild",
@@ -15186,7 +15087,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Schinken",
@@ -15396,8 +15297,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "schmecken",
@@ -15431,7 +15331,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "schnell",
@@ -15484,8 +15384,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "schön",
@@ -15511,8 +15410,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "furniture"
+      "basic"
     ],
     "meanings": {
       "de": "Schrank",
@@ -15540,8 +15438,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "school"
+      "basic"
     ],
     "meanings": {
       "de": "schreiben",
@@ -15575,7 +15472,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "clothing"
+      "basic"
     ],
     "meanings": {
       "de": "Schuh",
@@ -15603,7 +15500,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education"
+      "basic"
     ],
     "meanings": {
       "de": "Schule",
@@ -15631,8 +15528,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "people"
+      "basic"
     ],
     "meanings": {
       "de": "Schüler",
@@ -15660,7 +15556,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "smalltalk"
     ],
     "meanings": {
       "de": "schwer",
@@ -15686,7 +15582,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "daily"
     ],
     "meanings": {
       "de": "Schwester",
@@ -15714,8 +15610,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "sport",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "schwimmen",
@@ -15749,8 +15644,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "sport",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Schwimmbad",
@@ -15778,8 +15672,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "nature",
-      "geography"
+      "basic"
     ],
     "meanings": {
       "de": "See",
@@ -15987,8 +15880,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "book"
+      "basic"
     ],
     "meanings": {
       "de": "Seite",
@@ -16042,8 +15934,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "service",
-      "restaurant"
+      "basic"
     ],
     "meanings": {
       "de": "Service",
@@ -16159,8 +16050,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "music"
+      "basic"
     ],
     "meanings": {
       "de": "singen",
@@ -16283,8 +16173,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "furniture"
+      "basic"
     ],
     "meanings": {
       "de": "Sofa",
@@ -16339,7 +16228,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Sohn",
@@ -16402,8 +16291,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather",
-      "nature"
+      "basic"
     ],
     "meanings": {
       "de": "Sonne",
@@ -16431,7 +16319,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "spät",
@@ -16457,7 +16345,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "später",
@@ -16483,8 +16371,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Spaß",
@@ -16512,8 +16399,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "movement"
+      "basic"
     ],
     "meanings": {
       "de": "spazieren gehen",
@@ -16547,8 +16433,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "restaurant",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Speisekarte",
@@ -16576,8 +16461,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "sport"
+      "basic"
     ],
     "meanings": {
       "de": "spielen",
@@ -16611,8 +16495,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "sport"
+      "travel"
     ],
     "meanings": {
       "de": "Sport",
@@ -16640,8 +16523,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Sprache",
@@ -16669,7 +16551,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "smalltalk"
     ],
     "meanings": {
       "de": "sprechen",
@@ -16703,8 +16585,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "city"
+      "travel"
     ],
     "meanings": {
       "de": "Stadt",
@@ -16761,8 +16642,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "official",
-      "family"
+      "work"
     ],
     "meanings": {
       "de": "Standesamt",
@@ -16790,7 +16670,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description"
+      "basic"
     ],
     "meanings": {
       "de": "stark",
@@ -16816,8 +16696,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "position"
+      "basic"
     ],
     "meanings": {
       "de": "stehen",
@@ -16880,8 +16759,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "action",
-      "position"
+      "basic"
     ],
     "meanings": {
       "de": "stellen",
@@ -16949,8 +16827,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "Stock",
@@ -16978,8 +16855,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "social"
+      "basic"
     ],
     "meanings": {
       "de": "stören",
@@ -17013,8 +16889,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "city",
-      "location"
+      "travel"
     ],
     "meanings": {
       "de": "Straße",
@@ -17042,8 +16917,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "transport",
-      "city"
+      "basic"
     ],
     "meanings": {
       "de": "Straßenbahn",
@@ -17071,8 +16945,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "quantity",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Stück",
@@ -17100,8 +16973,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "people"
+      "basic"
     ],
     "meanings": {
       "de": "Student",
@@ -17129,8 +17001,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "people"
+      "basic"
     ],
     "meanings": {
       "de": "Studentin",
@@ -17158,7 +17029,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education"
+      "basic"
     ],
     "meanings": {
       "de": "studieren",
@@ -17192,7 +17063,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education"
+      "basic"
     ],
     "meanings": {
       "de": "Studium",
@@ -17220,7 +17091,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "furniture"
+      "basic"
     ],
     "meanings": {
       "de": "Stuhl",
@@ -17283,8 +17154,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "city"
+      "work"
     ],
     "meanings": {
       "de": "Supermarkt",
@@ -17312,7 +17182,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Suppe",
@@ -17404,7 +17274,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Tante",
@@ -17432,8 +17302,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "leisure",
-      "hobby"
+      "basic"
     ],
     "meanings": {
       "de": "tanzen",
@@ -17496,8 +17365,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "transport",
-      "city"
+      "travel"
     ],
     "meanings": {
       "de": "Taxi",
@@ -17525,7 +17393,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "drink"
+      "basic"
     ],
     "meanings": {
       "de": "Tee",
@@ -17581,7 +17449,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "telefonieren",
@@ -17615,8 +17483,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "technology"
+      "basic"
     ],
     "meanings": {
       "de": "Telefon",
@@ -17673,8 +17540,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "money"
+      "basic"
     ],
     "meanings": {
       "de": "teuer",
@@ -17700,8 +17566,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "media"
+      "basic"
     ],
     "meanings": {
       "de": "Text",
@@ -17729,8 +17594,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Thema",
@@ -17787,8 +17651,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "furniture",
-      "housing"
+      "basic"
     ],
     "meanings": {
       "de": "Tisch",
@@ -17816,7 +17679,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Tochter",
@@ -17844,8 +17707,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "public_place"
+      "basic"
     ],
     "meanings": {
       "de": "Toilette",
@@ -17873,7 +17735,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "food"
+      "basic"
     ],
     "meanings": {
       "de": "Tomate",
@@ -17901,8 +17763,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "life",
-      "status"
+      "basic"
     ],
     "meanings": {
       "de": "tot",
@@ -17955,8 +17816,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "building"
+      "basic"
     ],
     "meanings": {
       "de": "Treppe",
@@ -18019,8 +17879,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "greeting"
+      "basic"
     ],
     "meanings": {
       "de": "Tschüss",
@@ -18081,8 +17940,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "topic"
+      "basic"
     ],
     "meanings": {
       "de": "über",
@@ -18109,7 +17967,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location"
+      "smalltalk"
     ],
     "meanings": {
       "de": "überall",
@@ -18135,7 +17993,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time"
+      "daily"
     ],
     "meanings": {
       "de": "übermorgen",
@@ -18196,8 +18054,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "finance",
-      "business"
+      "basic"
     ],
     "meanings": {
       "de": "Überweisung",
@@ -18225,8 +18082,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "object"
+      "basic"
     ],
     "meanings": {
       "de": "Uhr",
@@ -18255,8 +18111,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "location"
+      "basic"
     ],
     "meanings": {
       "de": "um",
@@ -18318,8 +18173,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "life"
+      "basic"
     ],
     "meanings": {
       "de": "umziehen",
@@ -18379,8 +18233,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "education",
-      "school"
+      "basic"
     ],
     "meanings": {
       "de": "Unterricht",
@@ -18472,8 +18325,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health",
-      "medical"
+      "basic"
     ],
     "meanings": {
       "de": "Untersuchung",
@@ -18530,7 +18382,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Vater",
@@ -18558,8 +18411,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "rules",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "verboten",
@@ -18620,8 +18472,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "society",
-      "leisure"
+      "basic"
     ],
     "meanings": {
       "de": "Verein",
@@ -18649,8 +18500,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "verheiratet",
@@ -18676,8 +18526,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "business"
+      "basic"
     ],
     "meanings": {
       "de": "verkaufen",
@@ -18740,8 +18589,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "business"
+      "basic"
     ],
     "meanings": {
       "de": "vermieten",
@@ -18775,7 +18623,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing"
+      "basic"
     ],
     "meanings": {
       "de": "Vermieter",
@@ -18838,7 +18686,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "family"
+      "basic"
     ],
     "meanings": {
       "de": "Verwandte",
@@ -18947,8 +18795,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "time"
+      "basic"
     ],
     "meanings": {
       "de": "vor",
@@ -18974,7 +18821,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "smalltalk"
     ],
     "meanings": {
       "de": "Vorname",
@@ -19002,8 +18849,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "warning",
-      "safety"
+      "basic"
     ],
     "meanings": {
       "de": "Vorsicht",
@@ -19031,8 +18877,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "social",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "vorstellen",
@@ -19066,8 +18911,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "question"
+      "smalltalk"
     ],
     "meanings": {
       "de": "wann",
@@ -19217,8 +19061,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "drink",
-      "nature"
+      "daily"
     ],
     "meanings": {
       "de": "Wasser",
@@ -19273,8 +19116,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "traffic"
+      "basic"
     ],
     "meanings": {
       "de": "Weg",
@@ -19302,8 +19144,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "health",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "weh tun",
@@ -19337,7 +19178,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "personal_info"
+      "basic"
     ],
     "meanings": {
       "de": "weiblich",
@@ -19363,8 +19204,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "drink",
-      "alcohol"
+      "basic"
     ],
     "meanings": {
       "de": "Wein",
@@ -19392,8 +19232,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "distance"
+      "basic"
     ],
     "meanings": {
       "de": "weit",
@@ -19446,8 +19285,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "nature",
-      "society"
+      "basic"
     ],
     "meanings": {
       "de": "Welt",
@@ -19564,8 +19402,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather",
-      "nature"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Wetter",
@@ -19674,8 +19512,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "communication",
-      "education"
+      "daily"
     ],
     "meanings": {
       "de": "wiederholen",
@@ -19736,7 +19573,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "weather"
+      "basic"
     ],
     "meanings": {
       "de": "Wind",
@@ -19882,8 +19719,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "time",
-      "leisure"
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "de": "Wochenende",
@@ -20002,7 +19839,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing"
+      "basic"
     ],
     "meanings": {
       "de": "Wohnung",
@@ -20065,8 +19902,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "language",
-      "communication"
+      "basic"
     ],
     "meanings": {
       "de": "Wort",
@@ -20094,8 +19930,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "description",
-      "feeling"
+      "basic"
     ],
     "meanings": {
       "de": "wunderbar",
@@ -20121,8 +19956,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "shopping",
-      "money"
+      "basic"
     ],
     "meanings": {
       "de": "zahlen",
@@ -20243,8 +20077,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "housing",
-      "hotel"
+      "daily"
     ],
     "meanings": {
       "de": "Zimmer",
@@ -20328,8 +20161,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "feeling",
-      "opinion"
+      "basic"
     ],
     "meanings": {
       "de": "zufrieden",
@@ -20384,8 +20216,7 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "direction"
+      "basic"
     ],
     "meanings": {
       "de": "zurück",
@@ -20438,8 +20269,8 @@ const WORDS_DE_A1 = [
     "cefr": "A1",
     "tags": [
       "exam",
-      "location",
-      "time"
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "de": "zwischen",
@@ -20459,6 +20290,3 @@ const WORDS_DE_A1 = [
     "meta": {}
   }
 ];
-if (typeof module !== "undefined" && module.exports) {
-  module.exports.WORDS_DE_A1 = WORDS_DE_A1;
-}

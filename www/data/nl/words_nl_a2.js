@@ -1,4 +1,4 @@
-// NL A2 generated from nl_v2 canonical dataset
+// NL A2 generated from release candidate
 const WORDS_NL_A2 = [
   {
     "id": "nl_1113",
@@ -30716,7 +30716,8 @@ const WORDS_NL_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "섭정",

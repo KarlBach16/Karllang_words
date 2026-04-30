@@ -1,4 +1,4 @@
-// SV B2 generated from sv_v2 canonical dataset
+// SV B2 generated from release candidate
 const WORDS_SV_B2 = [
   {
     "id": "sv_2883",
@@ -2075,7 +2075,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "티탄",
@@ -2153,7 +2154,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "여신",
@@ -2310,7 +2312,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제국",
@@ -2614,7 +2617,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아드레날린",
@@ -2639,7 +2643,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "구원",
@@ -4145,7 +4150,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "확신",
@@ -5575,7 +5581,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "창",
@@ -5861,7 +5868,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "갑옷",
@@ -7482,7 +7490,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식물군",
@@ -8736,7 +8745,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소변",
@@ -12508,7 +12518,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "원자폭탄",
@@ -15285,7 +15296,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "유혈극",
@@ -15363,7 +15375,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사이비 종교",
@@ -17595,7 +17608,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "역병",
@@ -18504,7 +18518,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비애",
@@ -20544,7 +20559,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사격",
@@ -20831,7 +20847,8 @@ const WORDS_SV_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정신병의",
@@ -23519,7 +23536,8 @@ const WORDS_SV_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자비로운",
@@ -23569,7 +23587,8 @@ const WORDS_SV_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "피상적인",
@@ -23924,7 +23943,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "엽총",
@@ -24904,7 +24924,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "미덕",
@@ -25242,7 +25263,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "궤도",
@@ -25293,7 +25315,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "웜홀",
@@ -25318,7 +25341,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신성함",
@@ -26712,7 +26736,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "소아성애자",
@@ -26737,7 +26762,8 @@ const WORDS_SV_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "소아성애의",
@@ -26787,7 +26813,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "예언자",
@@ -26942,7 +26969,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "황폐",
@@ -26993,7 +27021,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "총상",
@@ -27044,7 +27073,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "권리",
@@ -27122,7 +27152,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "위업",
@@ -27147,7 +27178,8 @@ const WORDS_SV_B2 = [
     "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "체포된",
@@ -27275,7 +27307,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아편",
@@ -28782,7 +28815,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보복",
@@ -29253,7 +29287,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정신병원",
@@ -29718,7 +29753,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "왕도마뱀",
@@ -33012,7 +33048,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "습지",
@@ -34645,7 +34682,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반란",
@@ -36420,7 +36458,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "공모",
@@ -36524,7 +36563,8 @@ const WORDS_SV_B2 = [
     "pos": "Nomen",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인공물",

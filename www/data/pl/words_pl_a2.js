@@ -1,4 +1,4 @@
-// PL A2 generated from pl_v2 canonical dataset
+// PL A2 generated from release candidate
 const WORDS_PL_A2 = [
   {
     "id": "pl_435",
@@ -12903,7 +12903,8 @@ const WORDS_PL_A2 = [
     "pos": "Adjektiv",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "라흐족과 관련된",

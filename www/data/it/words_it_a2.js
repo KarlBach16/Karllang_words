@@ -1,4 +1,4 @@
-// IT A2 generated from it_v2 canonical dataset
+// IT A2 generated from release candidate
 const WORDS_IT_A2 = [
   {
     "id": "it_14734",
@@ -10635,7 +10635,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "직선",
@@ -10660,7 +10661,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "베다",
@@ -11555,7 +11557,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이온",
@@ -13257,7 +13260,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "반지름",
@@ -14472,7 +14476,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "알리바이",
@@ -17226,7 +17231,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "2분음표",
@@ -17385,7 +17391,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "질량",
@@ -21200,7 +21207,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "심장마비",
@@ -21330,7 +21338,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "외상",
@@ -21431,7 +21440,8 @@ const WORDS_IT_A2 = [
     "pos": "Adjektiv",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이교도의",
@@ -21454,7 +21464,8 @@ const WORDS_IT_A2 = [
     "pos": "Nomen",
     "cefr": "A2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이교도",

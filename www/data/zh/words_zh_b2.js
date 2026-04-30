@@ -6,7 +6,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "모든 것",
@@ -34,7 +35,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "단지, 그러나",
@@ -65,7 +67,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전공, 전문 분야",
@@ -95,7 +98,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전문적인",
@@ -123,7 +127,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "세기",
@@ -153,7 +158,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잃다, 버리다",
@@ -184,7 +190,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "엄격하다",
@@ -212,7 +219,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "심각하다",
@@ -240,7 +248,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "풍부하다, 풍부하게 하다",
@@ -268,7 +277,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "생각, 아이디어",
@@ -298,7 +308,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "들다, 들다",
@@ -329,7 +340,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "개최하다",
@@ -360,7 +372,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "거행하다, 개최하다",
@@ -391,7 +404,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "탁구",
@@ -421,7 +435,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "탑승하다",
@@ -452,7 +467,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "아마도",
@@ -483,7 +499,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "어지럽다, 혼란",
@@ -511,7 +528,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "그래서, 그리하여",
@@ -542,7 +560,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "구름",
@@ -572,7 +591,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "서로",
@@ -603,7 +623,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인터넷",
@@ -633,7 +654,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아시아",
@@ -663,7 +685,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "건네다, 지불하다",
@@ -694,7 +717,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교류하다, 소통하다",
@@ -725,7 +749,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교통",
@@ -755,7 +780,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "경극",
@@ -785,7 +811,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "친척",
@@ -815,7 +842,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "여전히",
@@ -846,7 +874,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "여태껏, 줄곧",
@@ -877,7 +906,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "세심하다, 꼼꼼하다",
@@ -905,7 +935,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지불하다",
@@ -936,7 +967,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가격",
@@ -966,7 +998,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "임무, 과제",
@@ -996,7 +1029,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "부분, 몫",
@@ -1026,7 +1060,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장점",
@@ -1056,7 +1091,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "우수하다",
@@ -1084,7 +1120,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "팩스",
@@ -1114,7 +1151,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "슬프다",
@@ -1142,7 +1180,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예상하다, 평가하다",
@@ -1173,7 +1212,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "낮다",
@@ -1201,7 +1241,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "작가",
@@ -1231,7 +1272,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "작용, 효과",
@@ -1261,7 +1303,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "저자, 작가",
@@ -1291,7 +1334,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사용하다",
@@ -1322,7 +1366,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예를 들어",
@@ -1353,7 +1398,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보호하다",
@@ -1384,7 +1430,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보증하다, 보장하다",
@@ -1415,7 +1462,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "봉투",
@@ -1445,7 +1493,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자신감, 신념",
@@ -1475,7 +1524,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정보, 소식",
@@ -1505,7 +1555,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "둘 (사람)",
@@ -1535,7 +1586,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수리하다",
@@ -1566,7 +1618,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "넘어지다, 붓다",
@@ -1597,7 +1650,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가짜의, 휴가",
@@ -1625,7 +1679,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "멈추다, 주차하다",
@@ -1656,7 +1711,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가끔, 이따금",
@@ -1687,7 +1743,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "어린이",
@@ -1717,7 +1774,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "허락하다, 허용하다",
@@ -1748,7 +1806,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "빛, 밝다",
@@ -1778,7 +1837,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "무료의",
@@ -1806,7 +1866,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "입구",
@@ -1836,7 +1897,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "전부의, 모든",
@@ -1864,7 +1926,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "킬로미터",
@@ -1894,7 +1957,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공통의, 함께",
@@ -1922,7 +1986,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "관건적인, 중요한",
@@ -1950,7 +2015,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "흥분하다, 신나다",
@@ -1978,7 +2044,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그중에서",
@@ -2009,7 +2076,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "다음으로, 그 다음",
@@ -2040,7 +2108,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양성하다, 형성하다",
@@ -2071,7 +2140,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안, 내부",
@@ -2101,7 +2171,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "내용",
@@ -2131,7 +2202,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "침착하다, 냉정하다",
@@ -2159,7 +2231,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정시의, 시간을 지키는",
@@ -2187,7 +2260,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정확하다",
@@ -2215,7 +2289,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "시원하다",
@@ -2243,7 +2318,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "줄이다, 감소하다",
@@ -2274,7 +2350,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "다이어트하다, 살을 빼다",
@@ -2305,7 +2382,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "출발하다",
@@ -2336,7 +2414,9 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "출장 가다",
@@ -2367,7 +2447,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "나타나다, 출현하다",
@@ -2398,7 +2479,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "태어나다",
@@ -2429,7 +2511,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "칼",
@@ -2459,7 +2542,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "막, 방금",
@@ -2487,7 +2571,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "판단하다",
@@ -2518,7 +2603,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "도처에, 곳곳에",
@@ -2549,7 +2635,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "도대체, 결국",
@@ -2580,7 +2667,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "남다",
@@ -2611,7 +2699,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "힘, 기력",
@@ -2641,7 +2730,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "쿵푸, 기술",
@@ -2671,7 +2761,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "주유소",
@@ -2701,7 +2792,9 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "work"
     ],
     "meanings": {
       "ko": "야근하다, 초과 근무하다",
@@ -2732,7 +2825,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동작, 행동",
@@ -2762,7 +2856,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "용감하다",
@@ -2790,7 +2885,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "숟가락",
@@ -2820,7 +2916,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "만두 (찐빵)",
@@ -2850,7 +2947,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "차이, 구별",
@@ -2880,7 +2978,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "매우, 충분히",
@@ -2911,7 +3010,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "꼭, 절대로",
@@ -2942,7 +3042,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "박사",
@@ -2972,7 +3073,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "통화 중이다",
@@ -3003,7 +3105,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "화장실",
@@ -3033,7 +3136,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인상",
@@ -3063,7 +3167,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "위험하다",
@@ -3091,7 +3196,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "그러나, 오히려",
@@ -3122,7 +3228,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "대단하다, 심하다",
@@ -3150,7 +3257,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "압력, 스트레스",
@@ -3180,7 +3288,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "화장실",
@@ -3210,7 +3319,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "두껍다, 후하다",
@@ -3238,7 +3348,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "원인, 이유",
@@ -3268,7 +3379,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "원래의, 알고 보니",
@@ -3296,7 +3408,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "용서하다",
@@ -3327,7 +3440,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "부엌",
@@ -3357,7 +3472,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "참관하다, 방문하다",
@@ -3388,7 +3504,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "적시에, 때맞춰",
@@ -3416,7 +3533,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "우호적인, 친한",
@@ -3444,7 +3562,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk",
+      "travel"
     ],
     "meanings": {
       "ko": "우정",
@@ -3474,7 +3594,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반대하다",
@@ -3505,7 +3626,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "발전하다",
@@ -3536,7 +3658,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "발생하다, 일어나다",
@@ -3567,7 +3690,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가져가다, 얻다",
@@ -3598,7 +3722,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "참을 수 없다",
@@ -3629,7 +3754,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "받다, 당하다",
@@ -3660,7 +3786,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "그 외에, 또 다른",
@@ -3688,7 +3815,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가련한, 불쌍한",
@@ -3716,7 +3844,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아쉽다, 유감이다",
@@ -3744,7 +3873,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그러나, 하지만",
@@ -3775,7 +3905,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대, 플랫폼, (기계 세는 단위)",
@@ -3805,7 +3936,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잎",
@@ -3835,7 +3967,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "번호",
@@ -3865,7 +3998,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "놀라다",
@@ -3896,7 +4030,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "각, 각각의",
@@ -3924,7 +4059,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "합격하다, 자격이 있다",
@@ -3952,7 +4088,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "적합하다, 알맞다",
@@ -3980,7 +4117,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동정",
@@ -4010,7 +4148,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동시에",
@@ -4041,7 +4180,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "후회하다",
@@ -4072,7 +4212,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "그렇지 않으면",
@@ -4103,7 +4244,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "끌어당기다, 유치하다",
@@ -4134,7 +4276,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주위, 주변",
@@ -4164,7 +4307,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "맛",
@@ -4194,7 +4338,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "우리 (듣는 사람 포함)",
@@ -4224,7 +4369,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기침하다",
@@ -4255,7 +4401,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "짜다",
@@ -4283,7 +4430,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소리 나다, 울리다",
@@ -4314,7 +4462,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "판매원",
@@ -4344,7 +4493,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상의하다, 의논하다",
@@ -4375,7 +4525,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "회상하다, 추억하다",
@@ -4406,7 +4557,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "그러므로, 따라서",
@@ -4437,7 +4589,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "졸리다, 곤경에 처하다",
@@ -4465,7 +4618,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "어려움, 곤란",
@@ -4495,7 +4649,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국적",
@@ -4525,7 +4680,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국제적인",
@@ -4553,7 +4709,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주소",
@@ -4583,7 +4740,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "장소, 지점",
@@ -4613,7 +4771,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지구",
@@ -4643,7 +4802,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "마당, 장소, (경기 세는 단위)",
@@ -4673,7 +4833,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "견지하다, 고수하다",
@@ -4704,7 +4865,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "쓰레기통",
@@ -4734,7 +4896,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기초, 기반",
@@ -4764,7 +4927,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교통 체증",
@@ -4794,7 +4958,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비닐봉투",
@@ -4824,7 +4989,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "빈칸을 채우다",
@@ -4855,7 +5021,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "증가하다, 늘리다",
@@ -4886,7 +5053,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "복사하다",
@@ -4917,7 +5085,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "복잡하다",
@@ -4945,7 +5114,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "충분하다",
@@ -4973,7 +5143,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대사관",
@@ -5003,7 +5174,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의사",
@@ -5033,7 +5205,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "아마도, 대략",
@@ -5061,7 +5234,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대략, 약",
@@ -5092,7 +5266,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "실망하다",
@@ -5120,7 +5295,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "실패하다",
@@ -5151,7 +5327,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상금, 보너스",
@@ -5181,7 +5358,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "이점, 장점",
@@ -5211,7 +5389,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "존재하다, 저축하다",
@@ -5242,7 +5421,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "손자",
@@ -5272,7 +5452,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "학기",
@@ -5302,7 +5483,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안전하다",
@@ -5330,7 +5512,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안배하다, 계획하다",
@@ -5361,7 +5544,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "완전히, 전적으로",
@@ -5389,7 +5573,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "정말로, 솔직히",
@@ -5417,7 +5602,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "실제, 현실",
@@ -5445,7 +5631,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "거실",
@@ -5475,7 +5662,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수줍어하다",
@@ -5503,7 +5691,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가구",
@@ -5533,7 +5722,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부치다, 보내다",
@@ -5564,7 +5754,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비밀번호",
@@ -5594,7 +5785,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "부유한",
@@ -5622,7 +5814,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "겨울 방학",
@@ -5652,7 +5845,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "대화",
@@ -5682,7 +5876,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "맞은편, 건너편",
@@ -5712,7 +5907,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "가이드, 관광 안내원",
@@ -5742,7 +5938,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장래, 미래",
@@ -5772,7 +5969,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "존중하다",
@@ -5803,7 +6001,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "젊은이, 총각",
@@ -5833,7 +6032,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "간식",
@@ -5863,7 +6063,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소설",
@@ -5893,7 +6094,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "맛보다",
@@ -5924,7 +6126,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "특히",
@@ -5955,7 +6158,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "임금, 급여",
@@ -5985,7 +6189,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "좌우, 대략",
@@ -6015,7 +6220,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초콜릿",
@@ -6045,7 +6251,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "거의, 비슷하다",
@@ -6073,7 +6280,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "잘생기다, 멋지다",
@@ -6101,7 +6309,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사부, 기술자",
@@ -6131,7 +6340,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "하다, 마르다, 간섭하다",
@@ -6162,7 +6372,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "건배하다",
@@ -6193,7 +6404,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "평소, 평상시",
@@ -6223,7 +6435,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "나이, 연령",
@@ -6253,7 +6466,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "게다가, 또한",
@@ -6284,7 +6498,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "행복하다",
@@ -6312,7 +6527,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유머러스하다",
@@ -6340,7 +6556,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "광고",
@@ -6370,7 +6587,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "방송",
@@ -6400,7 +6618,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "응모하다, 지원하다",
@@ -6431,7 +6650,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "바닥, 밑",
@@ -6461,7 +6681,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "좌석, (산, 건물 세는 단위)",
@@ -6491,7 +6712,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "좌석",
@@ -6521,7 +6743,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "건의하다, 제안하다",
@@ -6552,7 +6775,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "즐겁다, 기쁘다",
@@ -6580,7 +6804,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "농담하다",
@@ -6611,7 +6836,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "하다, 만들다, 다루다",
@@ -6642,7 +6868,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "야기하다, 일으키다",
@@ -6673,7 +6900,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "피아노를 치다",
@@ -6704,7 +6932,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그때, 당시에",
@@ -6732,7 +6961,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "종종, 흔히",
@@ -6760,7 +6990,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "변호사",
@@ -6790,7 +7021,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "득의양양하다, 우쭐하다",
@@ -6818,7 +7050,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기분, 마음",
@@ -6848,7 +7081,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "의심하다",
@@ -6879,7 +7113,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "태도",
@@ -6909,7 +7144,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "성별",
@@ -6939,7 +7175,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "성격",
@@ -6969,7 +7206,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "요약하다, 결론짓다",
@@ -7000,7 +7238,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상황",
@@ -7030,7 +7269,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "유쾌하다, 즐겁다",
@@ -7058,7 +7298,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "의견",
@@ -7088,7 +7329,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "감동하다",
@@ -7119,7 +7361,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "감정",
@@ -7149,7 +7392,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "느끼다",
@@ -7180,7 +7424,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "감사하다",
@@ -7211,7 +7456,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "게으르다",
@@ -7239,7 +7485,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "성공하다",
@@ -7270,7 +7517,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "쓰다, 착용하다",
@@ -7301,7 +7549,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "집주인",
@@ -7331,7 +7580,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "모든, 소유하다",
@@ -7362,7 +7612,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인쇄하다",
@@ -7393,7 +7644,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "꾸미다, 단장하다",
@@ -7424,7 +7676,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "방해하다",
@@ -7455,7 +7708,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "할인하다",
@@ -7486,7 +7740,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인사하다",
@@ -7517,7 +7772,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "주사를 맞다",
@@ -7548,7 +7804,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "던지다",
@@ -7579,7 +7836,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비판하다",
@@ -7610,7 +7868,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기술",
@@ -7640,7 +7899,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "간호사",
@@ -7670,7 +7930,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신청하다",
@@ -7701,7 +7962,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "들어 올리다",
@@ -7732,7 +7994,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안다",
@@ -7763,7 +8026,9 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "미안하다",
@@ -7791,7 +8056,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "담배를 피우다",
@@ -7822,7 +8088,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "당기다",
@@ -7853,7 +8120,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "거절하다",
@@ -7884,7 +8152,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "모집하다",
@@ -7915,7 +8184,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "걸다",
@@ -7946,7 +8216,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가리키다",
@@ -7977,7 +8248,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "제때에",
@@ -8005,7 +8277,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "곧추세우다",
@@ -8036,7 +8309,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "떨어지다",
@@ -8067,7 +8341,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "배열하다",
@@ -8098,7 +8373,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "줄 서다",
@@ -8129,7 +8405,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "받아들이다",
@@ -8160,7 +8437,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "계속하다",
@@ -8191,7 +8469,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "밀다",
@@ -8222,7 +8501,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "연기하다",
@@ -8253,7 +8533,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "들다",
@@ -8284,7 +8565,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "제공하다",
@@ -8315,7 +8597,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "앞당기다",
@@ -8346,7 +8629,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상기시키다",
@@ -8377,7 +8661,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "닦다",
@@ -8408,7 +8693,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "지지하다",
@@ -8439,7 +8725,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "받다",
@@ -8470,7 +8757,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "수입",
@@ -8500,7 +8788,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정리하다",
@@ -8531,7 +8820,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "변화시키다",
@@ -8562,7 +8852,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포기하다",
@@ -8593,7 +8884,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "여름 방학을 하다",
@@ -8624,7 +8916,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "긴장을 풀다",
@@ -8655,7 +8948,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고의적인",
@@ -8683,7 +8977,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "효과",
@@ -8713,7 +9008,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교수",
@@ -8743,7 +9039,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교육",
@@ -8773,7 +9070,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "산책하다",
@@ -8804,7 +9102,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "숫자",
@@ -8834,7 +9133,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수량",
@@ -8864,7 +9164,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "두드리다",
@@ -8895,7 +9196,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정리하다",
@@ -8926,7 +9228,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "문장, 글",
@@ -8956,7 +9259,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "방향",
@@ -8986,7 +9290,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "방법",
@@ -9016,7 +9321,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "측면, 방면",
@@ -9046,7 +9352,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "여행하다",
@@ -9077,7 +9384,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "없다",
@@ -9108,7 +9416,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지루하다",
@@ -9136,7 +9445,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "일기",
@@ -9166,7 +9476,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보통화 (표준 중국어)",
@@ -9196,7 +9507,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "보편적이다, 일반적이다",
@@ -9224,7 +9536,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경치",
@@ -9254,7 +9567,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "일시적인",
@@ -9282,7 +9596,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "따뜻하다",
@@ -9310,7 +9625,9 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "가장 좋다",
@@ -9338,7 +9655,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재미있다",
@@ -9366,7 +9684,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "원래",
@@ -9394,7 +9713,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잡지",
@@ -9424,7 +9744,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "재료",
@@ -9454,7 +9775,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "조건",
@@ -9484,7 +9806,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "늦다, 시간이 부족하다",
@@ -9515,7 +9838,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "시간이 충분하다",
@@ -9546,7 +9870,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "과일 주스",
@@ -9576,7 +9901,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "표준",
@@ -9606,7 +9932,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "모양, 모습",
@@ -9636,7 +9963,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "다리",
@@ -9666,7 +9994,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "꿈꾸다",
@@ -9697,7 +10026,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "훌륭하다",
@@ -9725,7 +10055,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "숲",
@@ -9755,7 +10086,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그루 (식물 세는 단위)",
@@ -9783,7 +10115,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식물",
@@ -9813,7 +10146,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지우개",
@@ -9843,7 +10177,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "마침, 딱 맞다",
@@ -9871,7 +10206,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정상적이다",
@@ -9899,7 +10235,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정식의, 공식적인",
@@ -9927,7 +10264,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "정확하다",
@@ -9955,7 +10293,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "죽다",
@@ -9986,7 +10325,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "어머니",
@@ -10016,7 +10357,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예를 들어",
@@ -10044,7 +10386,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "졸업하다",
@@ -10075,7 +10418,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "털",
@@ -10105,7 +10449,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "수건",
@@ -10135,7 +10480,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "민족",
@@ -10165,7 +10511,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "기후",
@@ -10195,7 +10542,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "영원한",
@@ -10223,7 +10571,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "땀",
@@ -10253,7 +10603,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "오염",
@@ -10283,7 +10634,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "국",
@@ -10313,7 +10665,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소파",
@@ -10343,7 +10696,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "법률",
@@ -10373,7 +10727,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "활동",
@@ -10403,7 +10758,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "활발한",
@@ -10431,7 +10787,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유창한",
@@ -10459,7 +10816,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유행하다",
@@ -10490,7 +10848,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "낭만적인",
@@ -10518,7 +10877,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "낭비하다",
@@ -10549,7 +10909,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "해양",
@@ -10579,7 +10940,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "소식",
@@ -10609,7 +10971,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "깊은",
@@ -10637,7 +11000,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "온도",
@@ -10667,7 +11031,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가득 찬",
@@ -10695,7 +11060,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공연하다",
@@ -10726,7 +11092,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "배우",
@@ -10756,7 +11123,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "흥분시키다",
@@ -10787,7 +11155,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "불",
@@ -10817,7 +11186,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "오리구이",
@@ -10847,7 +11217,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "걱정스러운",
@@ -10875,7 +11246,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "번화한",
@@ -10903,7 +11275,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "그러나",
@@ -10931,7 +11304,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비추다",
@@ -10962,7 +11336,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "익숙한",
@@ -10990,7 +11365,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사랑",
@@ -11020,7 +11396,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "아버지",
@@ -11050,7 +11428,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "치약",
@@ -11080,7 +11459,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "특징",
@@ -11110,7 +11490,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "추측하다",
@@ -11141,7 +11522,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "현금",
@@ -11171,7 +11553,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이발",
@@ -11201,7 +11584,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이상적인",
@@ -11229,7 +11613,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이해하다",
@@ -11260,7 +11645,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "심지어",
@@ -11288,7 +11674,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "생명",
@@ -11318,7 +11705,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "사업",
@@ -11348,7 +11737,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "생활",
@@ -11378,7 +11768,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "신청하다",
@@ -11409,7 +11800,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "남기다",
@@ -11440,7 +11832,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "탑승권",
@@ -11470,7 +11863,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "퍼센트",
@@ -11500,7 +11894,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "피부",
@@ -11530,7 +11925,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "소금",
@@ -11560,7 +11956,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상자",
@@ -11590,7 +11987,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "목적",
@@ -11620,7 +12018,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "직접적인",
@@ -11648,7 +12047,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "반대되는",
@@ -11676,7 +12076,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동일한",
@@ -11704,7 +12105,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "절약하다",
@@ -11735,7 +12137,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "견해",
@@ -11765,7 +12168,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "진정한",
@@ -11793,7 +12197,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "안경",
@@ -11823,7 +12228,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "지식",
@@ -11853,7 +12259,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "문자 메시지",
@@ -11883,7 +12290,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "생수",
@@ -11913,7 +12321,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "연구하다",
@@ -11944,7 +12353,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "깨진",
@@ -11972,7 +12382,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "석사",
@@ -12002,7 +12413,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "확실한",
@@ -12030,7 +12442,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "일요일",
@@ -12060,7 +12473,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예의",
@@ -12090,7 +12504,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사회",
@@ -12120,7 +12535,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "축하하다",
@@ -12151,7 +12567,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "금지하다",
@@ -12182,7 +12599,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "과학",
@@ -12212,7 +12630,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초",
@@ -12242,7 +12661,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "임대하다",
@@ -12273,7 +12693,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "적극적인",
@@ -12301,7 +12722,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "축적하다",
@@ -12332,7 +12754,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "조금",
@@ -12360,7 +12783,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "결국",
@@ -12388,7 +12812,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가난한",
@@ -12416,7 +12841,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비어 있는",
@@ -12444,7 +12870,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공기",
@@ -12474,7 +12901,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "창문",
@@ -12504,7 +12932,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경쟁하다",
@@ -12535,7 +12964,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "뜻밖에",
@@ -12563,7 +12993,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "농담",
@@ -12593,7 +13024,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부합하다",
@@ -12624,7 +13056,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "어리석은",
@@ -12652,7 +13085,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "답",
@@ -12682,7 +13116,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비자",
@@ -12712,7 +13147,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "관리하다",
@@ -12743,7 +13179,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "부주의한",
@@ -12771,7 +13208,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "훌륭한",
@@ -12799,7 +13237,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "설탕",
@@ -12829,7 +13268,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "긴장한",
@@ -12857,7 +13297,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "약속",
@@ -12887,7 +13328,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경험하다",
@@ -12918,7 +13360,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경제",
@@ -12948,7 +13391,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경험",
@@ -12978,7 +13422,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "결과",
@@ -13008,7 +13453,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "계속하다",
@@ -13039,7 +13485,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부족하다",
@@ -13070,7 +13517,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "단점",
@@ -13100,7 +13548,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "테니스",
@@ -13130,7 +13579,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "웹사이트",
@@ -13160,7 +13610,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "아름다운",
@@ -13188,7 +13639,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부러워하다",
@@ -13219,7 +13671,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "배드민턴",
@@ -13249,7 +13702,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "번역하다",
@@ -13280,7 +13734,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "호랑이",
@@ -13310,7 +13765,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고려하다",
@@ -13341,7 +13797,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "그리고",
@@ -13369,7 +13826,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "인내심 있는",
@@ -13397,7 +13855,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "직업",
@@ -13427,7 +13886,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "연락하다",
@@ -13458,7 +13918,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "모임",
@@ -13488,7 +13949,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "배",
@@ -13518,7 +13980,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "확실하다",
@@ -13546,7 +14009,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "팔",
@@ -13576,7 +14040,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "능력",
@@ -13606,7 +14071,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "더럽다",
@@ -13634,7 +14100,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "벗다",
@@ -13665,7 +14132,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "성질, 성격",
@@ -13695,7 +14163,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자신감",
@@ -13725,7 +14194,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자연스럽다",
@@ -13753,7 +14223,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "적어도",
@@ -13781,7 +14252,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "항공편",
@@ -13811,7 +14283,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예술",
@@ -13841,7 +14314,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "명절, 절기",
@@ -13871,7 +14345,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "절약하다",
@@ -13902,7 +14377,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "쓰다, 괴롭다",
@@ -13930,7 +14406,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "얻다, 획득하다",
@@ -13961,7 +14438,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "유명하다",
@@ -13989,7 +14467,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "포도",
@@ -14019,7 +14498,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "괜찮다",
@@ -14047,7 +14527,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "칭찬하다",
@@ -14078,7 +14559,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양식, 서식",
@@ -14108,7 +14590,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "공연하다, 연기하다",
@@ -14139,7 +14622,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "표시하다, 나타내다",
@@ -14170,7 +14654,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "양말",
@@ -14200,7 +14685,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "토마토",
@@ -14230,7 +14716,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "만약",
@@ -14258,7 +14745,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "관중",
@@ -14288,7 +14776,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "규정하다",
@@ -14319,7 +14808,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "설명하다",
@@ -14350,7 +14840,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "경찰",
@@ -14380,7 +14871,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "계획",
@@ -14410,7 +14902,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "싫어하다",
@@ -14441,7 +14934,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "토론하다",
@@ -14472,7 +14966,9 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel",
+      "work"
     ],
     "meanings": {
       "ko": "기자",
@@ -14502,7 +14998,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "많다, 많은",
@@ -14530,7 +15027,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "증명하다",
@@ -14561,7 +15059,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "단어, 어휘",
@@ -14591,7 +15090,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "성실하다, 정직하다",
@@ -14619,7 +15119,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "상세하다",
@@ -14647,7 +15148,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "언어",
@@ -14677,7 +15179,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "오해하다",
@@ -14708,7 +15211,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "설명하다",
@@ -14739,7 +15243,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "이야기하다",
@@ -14770,7 +15275,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "책임지다, 책임감 있다",
@@ -14798,7 +15304,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "책임",
@@ -14828,7 +15335,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "품질",
@@ -14858,7 +15366,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "쇼핑하다",
@@ -14889,7 +15398,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "벌다",
@@ -14920,7 +15430,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "이기다",
@@ -14951,7 +15462,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "따라잡다, 서두르다",
@@ -14982,7 +15494,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초과하다, 넘어서다",
@@ -15013,7 +15526,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "번, 차례",
@@ -15043,7 +15557,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "거리",
@@ -15073,7 +15588,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "basic"
     ],
     "meanings": {
       "ko": "눕다",
@@ -15104,7 +15620,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "돌다, 바꾸다",
@@ -15135,7 +15652,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "가볍다",
@@ -15163,7 +15681,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "편안하다, 가볍다",
@@ -15191,7 +15710,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "지다, 운반하다",
@@ -15222,7 +15742,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "힘들다, 고생스럽다",
@@ -15250,7 +15771,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "맵다",
@@ -15278,7 +15800,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "과정",
@@ -15308,7 +15831,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "진행하다",
@@ -15339,7 +15863,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잇다, 연결하다",
@@ -15370,7 +15895,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "길을 잃다",
@@ -15401,7 +15927,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "적합하다, 어울리다",
@@ -15432,7 +15959,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "적응하다",
@@ -15463,7 +15991,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "통지하다, 알리다",
@@ -15494,7 +16023,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "통과하다",
@@ -15525,7 +16055,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "구경하다, 거닐다",
@@ -15556,7 +16087,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "속도",
@@ -15586,7 +16118,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "번, 차례",
@@ -15616,7 +16149,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "사과하다",
@@ -15647,7 +16181,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "초대하다",
@@ -15678,7 +16213,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "우체국",
@@ -15708,7 +16244,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "교외",
@@ -15738,7 +16275,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "부분",
@@ -15768,7 +16306,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "시다, 시큼하다",
@@ -15796,7 +16335,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "깨다",
@@ -15827,7 +16367,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "무겁다",
@@ -15855,7 +16396,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "다시",
@@ -15883,7 +16425,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "요점, 중점",
@@ -15913,7 +16456,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "중시하다",
@@ -15944,7 +16488,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "열쇠",
@@ -15974,7 +16519,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "오류, 실수",
@@ -16004,7 +16550,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "거울",
@@ -16034,7 +16581,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "만리장성",
@@ -16064,7 +16612,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "장강",
@@ -16094,7 +16643,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "독서하다, 읽다",
@@ -16125,7 +16675,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "햇빛, 햇살",
@@ -16155,7 +16706,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "낮추다, 내리다",
@@ -16186,7 +16738,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "착륙하다, 내리다",
@@ -16217,7 +16770,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "동반하다, 함께하다",
@@ -16248,7 +16802,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "마음대로, 아무렇게나",
@@ -16276,7 +16831,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "괴롭다, 불편하다",
@@ -16304,7 +16860,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "잔돈",
@@ -16334,7 +16891,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "페이지, 쪽",
@@ -16364,7 +16922,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "김에, 겸사겸사",
@@ -16392,7 +16951,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "순조롭다",
@@ -16420,7 +16980,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "순서",
@@ -16450,7 +17011,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고객",
@@ -16480,7 +17042,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "예습하다",
@@ -16511,7 +17074,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "식당",
@@ -16541,7 +17105,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "만두",
@@ -16571,7 +17136,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "비스킷, 과자",
@@ -16601,7 +17167,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "우선, 먼저",
@@ -16629,7 +17196,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "수도",
@@ -16659,7 +17227,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "향기롭다, 맛있다",
@@ -16687,7 +17256,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "덤벙대다, 대충하다",
@@ -16715,7 +17285,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "자랑스럽다, 거만하다",
@@ -16743,7 +17314,9 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "daily",
+      "smalltalk"
     ],
     "meanings": {
       "ko": "속이다, 사기 치다",
@@ -16774,7 +17347,8 @@ const WORDS_ZH_B2 = [
     "pos": "noun",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "고속도로",
@@ -16804,7 +17378,8 @@ const WORDS_ZH_B2 = [
     "pos": "adjective",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "귀찮다, 번거롭다",
@@ -16832,7 +17407,8 @@ const WORDS_ZH_B2 = [
     "pos": "verb",
     "cefr": "B2",
     "tags": [
-      "exam"
+      "exam",
+      "work"
     ],
     "meanings": {
       "ko": "격려하다",

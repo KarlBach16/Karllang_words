@@ -1,4 +1,4 @@
-// SV B1 generated from sv_v2 canonical dataset
+// SV B1 generated from release candidate
 const WORDS_SV_B1 = [
   {
     "id": "sv_1655",
@@ -3166,7 +3166,8 @@ const WORDS_SV_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "이온",
@@ -6020,7 +6021,8 @@ const WORDS_SV_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "능동태",
@@ -8577,7 +8579,8 @@ const WORDS_SV_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "travel"
     ],
     "meanings": {
       "ko": "매복",
@@ -8968,7 +8971,8 @@ const WORDS_SV_B1 = [
     "pos": "Nomen",
     "cefr": "B1",
     "tags": [
-      "exam"
+      "exam",
+      "daily"
     ],
     "meanings": {
       "ko": "그리핀",
