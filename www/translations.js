@@ -7,6 +7,8 @@ const TRANSLATIONS = {
 ko: {
 app_title: "KarlLang",
 start_tagline: "",
+start_title: "언어 설정",
+start_description: "앱에서 사용할 언어와 학습할 언어를 선택하세요.",
 start_ui_label: "UI 언어",
 start_study_label: "학습 언어",
 start: "시작",
@@ -168,6 +170,8 @@ start_screen_hint: "",
 en: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Language settings",
+    start_description: "Choose the language for the app and the language you want to study.",
     start_ui_label: "UI language",
     start_study_label: "Study language",
     start: "Start",
@@ -330,6 +334,8 @@ en: {
 de: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Spracheinstellungen",
+    start_description: "Wähle die App-Sprache und die Sprache, die du lernen möchtest.",
     start_ui_label: "UI-Sprache",
     start_study_label: "Lernsprache",
     start: "Start",
@@ -493,6 +499,8 @@ de: {
 es: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Configuración de idioma",
+    start_description: "Elige el idioma de la app y el idioma que quieres estudiar.",
     start_ui_label: "Idioma de la interfaz",
     start_study_label: "Idioma de estudio",
     start: "Iniciar",
@@ -657,6 +665,8 @@ es: {
 fr: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Réglages de langue",
+    start_description: "Choisissez la langue de l’app et la langue à étudier.",
     start_ui_label: "Langue de l’interface",
     start_study_label: "Langue d’étude",
     start: "Commencer",
@@ -817,6 +827,8 @@ fr: {
 it: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Impostazioni lingua",
+    start_description: "Scegli la lingua dell’app e la lingua che vuoi studiare.",
     start_ui_label: "Lingua dell’interfaccia",
     start_study_label: "Lingua di studio",
     start: "Inizia",
@@ -977,6 +989,8 @@ it: {
 pt: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Configurações de idioma",
+    start_description: "Escolha o idioma do app e o idioma que quer estudar.",
     start_ui_label: "Idioma da interface",
     start_study_label: "Idioma de estudo",
     start: "Iniciar",
@@ -1137,6 +1151,8 @@ pt: {
 ja: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "言語設定",
+    start_description: "アプリで使う言語と学習する言語を選んでください。",
     start_ui_label: "UI 言語",
     start_study_label: "学習言語",
     start: "スタート",
@@ -1297,6 +1313,8 @@ ja: {
 zh: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "语言设置",
+    start_description: "选择应用使用的语言和要学习的语言。",
     start_ui_label: "界面语言",
     start_study_label: "学习语言",
     start: "开始",
@@ -1457,6 +1475,8 @@ zh: {
 ru: {
     app_title: "KarlLang",
     start_tagline: "",
+    start_title: "Настройки языка",
+    start_description: "Выберите язык приложения и язык для изучения.",
     start_ui_label: "Язык интерфейса",
     start_study_label: "Язык обучения",
     start: "Начать",

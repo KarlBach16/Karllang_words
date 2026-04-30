@@ -668,6 +668,7 @@ const NativeApp = window.Capacitor
   : null;
 
 let LAST_BACK_TIME = 0;
+const FORCE_START_SCREEN_FOR_DESIGN = false;
 
 function handleAndroidBack() {
   // 1) 단어 상세 오버레이 열려 있으면 닫기
@@ -742,6 +743,8 @@ function cacheDOM() {
   DOM.startUiLang = document.getElementById("startUiLang");
   DOM.startStudyLang = document.getElementById("startStudyLang");
   DOM.startAppBtn = document.getElementById("startAppBtn");
+  DOM.startTitle = document.getElementById("startTitle");
+  DOM.startDescription = document.getElementById("startDescription");
   DOM.startTagline = document.querySelector(".tagline");
   DOM.startUiLabel = document.querySelector("label[for='startUiLang']");
   DOM.startStudyLabel = document.querySelector("label[for='startStudyLang']");
@@ -1108,6 +1111,8 @@ const I18N_KEYS = {
   "common.start": "start",
 
   "study.start_tagline": "start_tagline",
+  "study.start_title": "start_title",
+  "study.start_description": "start_description",
   "study.start_ui_label": "start_ui_label",
   "study.start_study_label": "start_study_label",
   "study.start_prompt": "start_prompt",
@@ -1505,6 +1510,15 @@ function applyTranslations() {
   }
 
   // 시작 화면
+  if (DOM.startTitle) {
+    DOM.startTitle.textContent = trKey("study.start_title", "언어 설정");
+  }
+  if (DOM.startDescription) {
+    DOM.startDescription.textContent = trKey(
+      "study.start_description",
+      "앱에서 사용할 언어와 학습할 언어를 선택하세요.",
+    );
+  }
   if (DOM.startTagline) {
     DOM.startTagline.textContent = trKey(
       "study.start_tagline",
@@ -7016,8 +7030,12 @@ document.addEventListener("DOMContentLoaded", () => {
     window.scrollTo(0, 0);
   }
 
-  // ✅ 첫 실행 여부: SETTINGS.seenOnboarding 으로 분기
-  if (SETTINGS.seenOnboarding) {
+  // ✅ 시작 화면 디자인 작업 중에는 언어 선택 화면을 강제로 노출
+  if (FORCE_START_SCREEN_FOR_DESIGN && startScreen) {
+    showScreen(startScreen);
+    body.classList.add("state-start");
+    body.classList.remove("state-intro");
+  } else if (SETTINGS.seenOnboarding) {
     // ----- 재방문 유저 -----
     if (introScreen && appScreen) {
       // 1) 짧게 인트로 보여주고

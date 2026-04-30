@@ -173,12 +173,22 @@ body {
 /* ===== 시작 화면 ===== */
 .start-header {
     text-align: center;
-    margin-bottom: 8px;
+    margin: 0 auto 4px;
+    max-width: 320px;
+}
+
+.start-title {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 750;
+    line-height: 1.2;
+    color: var(--color-text-dark);
 }
 
 .tagline {
-    margin: 6px 0 0;
+    margin: 10px 0 0;
     font-size: 14px;
+    line-height: 1.45;
     color: var(--color-neutral-medium);
 }
 
@@ -187,7 +197,20 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 20px;
+    gap: 18px;
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+.start-language-card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 18px 16px 16px;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 8px;
+    background: #ffffff;
 }
 
 .app-main {
@@ -330,6 +353,12 @@ body {
     box-shadow: 0 0 0 3px rgba(0, 200, 83, 0.18) !important;
 }
 /* 설정 화면 전용: 라벨과 컨트롤 가로 정렬 */
+#settingsView {
+    position: relative;
+    min-height: calc(100dvh - var(--safe-top) - var(--bottom-nav-height) - 56px);
+    padding-bottom: 58px;
+}
+
 #settingsView .control-group {
     flex-direction: row;
     justify-content: space-between;
@@ -363,6 +392,23 @@ body {
 #settingsView .control-group .toggle-switch {
     flex: 0 0 auto;   /* ✅ 120px 고정폭 제거 – 내용(트랙)만큼만 차지 */
     /* justify-content: flex-start;  ← 이 줄은 아예 지워도 됨 (기본값이라 의미 없음) */
+}
+
+#settingsView .settings-feedback-btn {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    width: auto;
+    min-width: 136px;
+    min-height: 40px;
+    margin: 0;
+    padding: 9px 18px;
+    display: block;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: none;
+    transform: translateX(-50%);
 }
 
 /* 훈련소 화면: 훈련 모드/단어 수 드롭다운 가로 정렬 */
