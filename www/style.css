@@ -710,6 +710,21 @@ body {
     color: var(--color-text-dark);
 }
 
+.system-toast {
+    min-height: 18px;
+    margin: 8px auto 0;
+    font-size: 13px;
+    line-height: 1.35;
+    text-align: center;
+    color: var(--color-neutral-medium);
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.system-toast.visible {
+    opacity: 1;
+}
+
 .copy-answer-line {
     display: flex;
     justify-content: center;

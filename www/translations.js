@@ -133,6 +133,8 @@ start_screen_hint: "",
     train_wrong_words: "어려운 단어 연습",
     restart: "다시 시작",
     no_words_today: "오늘은 학습할 단어가 없습니다.",
+    "confirm.exit_session": "학습을 종료하고 학습 시작 화면으로 돌아갈까요?",
+    "back.exit_hint": "한 번 더 누르면 앱이 종료됩니다.",
 
     /* 난이도 평가 */
     difficulty_prompt: "난이도를 평가해 주세요:",
@@ -297,6 +299,8 @@ en: {
     train_wrong_words: "Practice hard words",
     restart: "Restart",
     no_words_today: "No cards to study today.",
+    "confirm.exit_session": "End this session and return to the study start screen?",
+    "back.exit_hint": "Press once more to exit the app.",
 
     /* 난이도 */
     difficulty_prompt: "Rate the difficulty:",
@@ -461,6 +465,8 @@ de: {
     train_wrong_words: "Schwierige Wörter üben",
     restart: "Neu starten",
     no_words_today: "Heute gibt es keine Karten zum Lernen.",
+    "confirm.exit_session": "Diese Sitzung beenden und zum Lernstartbildschirm zurückkehren?",
+    "back.exit_hint": "Noch einmal drücken, um die App zu beenden.",
 
     /* 난이도 */
     difficulty_prompt: "Bewerte die Schwierigkeit:",
@@ -626,6 +632,8 @@ es: {
     train_wrong_words: "Practicar palabras difíciles",
     restart: "Reiniciar",
     no_words_today: "Hoy no hay tarjetas para estudiar.",
+    "confirm.exit_session": "¿Terminar esta sesión y volver a la pantalla de inicio del estudio?",
+    "back.exit_hint": "Pulsa una vez más para salir de la app.",
 
     /* 난이도 */
     difficulty_prompt: "Valora la dificultad:",
@@ -792,6 +800,8 @@ fr: {
     train_wrong_words: "S’entraîner avec les mots difficiles",
     restart: "Recommencer",
     no_words_today: "Aucune carte à étudier aujourd’hui.",
+    "confirm.exit_session": "Terminer cette session et revenir à l’écran de démarrage de l’étude ?",
+    "back.exit_hint": "Appuyez encore une fois pour quitter l’application.",
 
     /* 난이도 */
     difficulty_prompt: "Évalue la difficulté :",
@@ -954,6 +964,8 @@ it: {
     train_wrong_words: "Esercita le parole difficili",
     restart: "Ricomincia",
     no_words_today: "Oggi non ci sono carte da studiare.",
+    "confirm.exit_session": "Terminare questa sessione e tornare alla schermata iniziale dello studio?",
+    "back.exit_hint": "Premi ancora una volta per uscire dall’app.",
 
     /* 난이도 */
     difficulty_prompt: "Valuta la difficoltà:",
@@ -1116,6 +1128,8 @@ pt: {
     train_wrong_words: "Praticar palavras difíceis",
     restart: "Reiniciar",
     no_words_today: "Hoje não há cartas para estudar.",
+    "confirm.exit_session": "Encerrar esta sessão e voltar à tela inicial de estudo?",
+    "back.exit_hint": "Pressione mais uma vez para sair do app.",
 
     /* 난이도 */
     difficulty_prompt: "Avalie a dificuldade:",
@@ -1278,6 +1292,8 @@ ja: {
     train_wrong_words: "難しい単語を練習",
     restart: "もう一度",
     no_words_today: "今日は学習するカードがありません。",
+    "confirm.exit_session": "このセッションを終了して学習開始画面に戻りますか？",
+    "back.exit_hint": "もう一度押すとアプリを終了します。",
 
     /* 난이도 */
     difficulty_prompt: "難易度を評価してください：",
@@ -1440,6 +1456,8 @@ zh: {
     train_wrong_words: "练习困难单词",
     restart: "重新开始",
     no_words_today: "今天没有要学习的卡片。",
+    "confirm.exit_session": "结束本次学习并返回学习开始界面吗？",
+    "back.exit_hint": "再按一次将退出应用。",
 
     /* 난이도 */
     difficulty_prompt: "请评价难度：",
@@ -1602,6 +1620,8 @@ ru: {
     train_wrong_words: "Тренировать сложные слова",
     restart: "Начать заново",
     no_words_today: "Сегодня нет карточек для изучения.",
+    "confirm.exit_session": "Завершить эту сессию и вернуться к экрану начала обучения?",
+    "back.exit_hint": "Нажмите ещё раз, чтобы закрыть приложение.",
 
     /* 난이도 */
     difficulty_prompt: "Оцените сложность:",

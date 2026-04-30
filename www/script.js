@@ -699,6 +699,18 @@ function prepareIntroVisual() {
   setTimeout(reveal, 700);
 }
 
+function showSystemToast(message, duration = 1500) {
+  if (!DOM.systemToast) return;
+  DOM.systemToast.textContent = message;
+  DOM.systemToast.classList.add("visible");
+  setTimeout(() => {
+    if (DOM.systemToast && DOM.systemToast.textContent === message) {
+      DOM.systemToast.textContent = "";
+      DOM.systemToast.classList.remove("visible");
+    }
+  }, duration);
+}
+
 function handleAndroidBack() {
   // 1) 단어 상세 오버레이 열려 있으면 닫기
   if (DOM.detailOverlay && DOM.detailOverlay.classList.contains("active")) {
@@ -710,7 +722,7 @@ function handleAndroidBack() {
   if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
     const msg = trKey(
       "confirm.exit_session",
-      "지금 학습을 끝내고 홈으로 돌아갈까요?",
+      "학습을 종료하고 학습 시작 화면으로 돌아갈까요?",
     );
     if (window.confirm(msg)) {
       showReadyState();
@@ -730,7 +742,13 @@ function handleAndroidBack() {
   }
 
   // 4) 세션 완료(FINISHED) 또는 다른 탭에 있으면 → Study 뷰로
-  if (APP_STATE.phase === "FINISHED" || APP_STATE.currentView !== "study") {
+  if (APP_STATE.phase === "FINISHED") {
+    showReadyState();
+    showView("study");
+    return;
+  }
+
+  if (APP_STATE.currentView !== "study") {
     showView("study");
     return;
   }
@@ -744,14 +762,7 @@ function handleAndroidBack() {
   } else {
     LAST_BACK_TIME = now;
     const msg = trKey("back.exit_hint", "한 번 더 누르면 앱이 종료됩니다.");
-    if (DOM.feedback) {
-      DOM.feedback.textContent = msg;
-      setTimeout(() => {
-        if (DOM.feedback.textContent === msg) {
-          DOM.feedback.textContent = "";
-        }
-      }, 1500);
-    }
+    showSystemToast(msg);
   }
 }
 
@@ -806,6 +817,7 @@ function cacheDOM() {
   DOM.answerInput = document.getElementById("answerInput");
   DOM.copyGhost = document.getElementById("copyGhost");
   DOM.feedback = document.getElementById("feedback");
+  DOM.systemToast = document.getElementById("systemToast");
   DOM.mainBtn = document.getElementById("mainBtn");
   DOM.skipBtn = document.getElementById("skipBtn");
   DOM.ratingArea = document.getElementById("ratingArea");
