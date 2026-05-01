@@ -48,7 +48,11 @@ public class NativeTTSPlugin extends Plugin implements TextToSpeech.OnInitListen
         }
 
         Locale locale = Locale.forLanguageTag(langTag);
-        tts.setLanguage(locale);
+        int setResult = tts.setLanguage(locale);
+        if (setResult == TextToSpeech.LANG_MISSING_DATA || setResult == TextToSpeech.LANG_NOT_SUPPORTED) {
+            call.reject("Language not supported: " + langTag);
+            return;
+        }
         tts.stop();
         tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, "karllang-native-tts");
         call.resolve();

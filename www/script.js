@@ -3704,7 +3704,10 @@ function getTtsLangCode(studyLang) {
   const target = (studyLang || "de").toLowerCase();
   if (target === "en") return "en-US";
   if (target === "ko") return "ko-KR";
+  if (target === "fr") return "fr-FR";
+  if (target === "it") return "it-IT";
   if (target === "es") return "es-ES";
+  if (target === "pt") return "pt-PT";
   if (target === "pl") return "pl-PL";
   if (target === "nl") return "nl-NL";
   if (target === "ru") return "ru-RU";
