@@ -334,6 +334,7 @@
         <label for="trainingModeSelect">훈련 모드</label>
         <select id="trainingModeSelect">
             <option value="cram">크램 </option>
+            <option value="word_drop">Word Drop</option>
         </select>
     </div>
 
@@ -355,6 +356,37 @@
     <!-- 🔹 나중에 결과/요약 보여줄 자리 -->
     <div id="trainingSummary" class="section-description" style="margin-top: 16px;">
         <!-- 세션 끝난 뒤에 "총 n단어 훈련" 같은 요약 들어갈 자리 -->
+    </div>
+</section>
+
+<section id="wordDropView" class="view view-section" style="display:none;">
+    <div class="word-drop-shell">
+        <div class="word-drop-progress" aria-hidden="true">
+            <div id="wordDropProgressBar" class="word-drop-progress-bar"></div>
+        </div>
+
+        <div id="wordDropArena" class="word-drop-arena">
+            <div id="wordDropWord" class="word-drop-word"></div>
+            <div id="wordDropGameOver" class="word-drop-game-over" style="display:none;">
+                <h2>Word Drop 종료</h2>
+                <p id="wordDropFinalScore"></p>
+                <div id="wordDropMistakes" class="word-drop-mistakes"></div>
+                <div class="word-drop-actions">
+                    <button id="wordDropRestartBtn" class="btn btn-primary" type="button">다시 시작</button>
+                    <button id="wordDropReviewBtn" class="btn btn-secondary" type="button">복습하기</button>
+                </div>
+            </div>
+        </div>
+
+        <input
+            id="wordDropInput"
+            class="word-drop-input"
+            type="text"
+            autocomplete="off"
+            autocapitalize="none"
+            spellcheck="false"
+            placeholder="떨어지는 단어 입력"
+        />
     </div>
 </section>
 

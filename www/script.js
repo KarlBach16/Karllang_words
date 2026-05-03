@@ -345,6 +345,7 @@ let TRAINING_MIX_INDEX = 0; // 현재 몇 번째 단어인지
 let TRAINING_MIX_STEP = 0; // 0=카드, 1=카피, 2=타이핑
 let WRONG_PRACTICE_ACTIVE = false;
 let WRONG_PRACTICE_PREVIOUS_MODE = null;
+let WRONG_PRACTICE_RETURN_VIEW = "study";
 
 // 🔹 깜지(반복 따라쓰기) 모드 상태
 let TRAINING_CRAM_WORDS = []; // 깜지 대상 단어 리스트
@@ -353,6 +354,30 @@ let TRAINING_CRAM_REPEAT_TOTAL = 3; // 이 단어를 몇 번 쓸 건지 (1/3/5)
 let TRAINING_CRAM_REPEAT_INDEX = 0; // 현재 몇 회째인지 (0-based)
 // 현재 단어에서 "정말 모르겠다" 두 번째 확인 허용용 플래그
 let TRAINING_CRAM_GIVEUP_ARMED = false;
+const WORD_DROP_STATE = {
+  active: false,
+  rafId: null,
+  currentWord: null,
+  currentText: "",
+  yPosition: 0,
+  score: 0,
+  targetCount: 10,
+  completedCount: 0,
+  correctCount: 0,
+  missedCount: 0,
+  lane: 1,
+  resolving: false,
+  speed: 48,
+  startedAt: 0,
+  lastFrameAt: 0,
+  recentIds: [],
+  mistakeWords: [],
+  pools: {
+    allWords: [],
+    mistakeWords: [],
+    bookmarkedWords: [],
+  },
+};
 const DOM = {};
 
 // ===== UI 언어 메타 정보 =====
@@ -959,6 +984,16 @@ function cacheDOM() {
   DOM.trainingCountSelect = document.getElementById("trainingCountSelect");
   DOM.trainingStartBtn = document.getElementById("trainingStartBtn");
   DOM.trainingSummary = document.getElementById("trainingSummary");
+  DOM.wordDropView = document.getElementById("wordDropView");
+  DOM.wordDropProgressBar = document.getElementById("wordDropProgressBar");
+  DOM.wordDropArena = document.getElementById("wordDropArena");
+  DOM.wordDropWord = document.getElementById("wordDropWord");
+  DOM.wordDropInput = document.getElementById("wordDropInput");
+  DOM.wordDropGameOver = document.getElementById("wordDropGameOver");
+  DOM.wordDropFinalScore = document.getElementById("wordDropFinalScore");
+  DOM.wordDropMistakes = document.getElementById("wordDropMistakes");
+  DOM.wordDropRestartBtn = document.getElementById("wordDropRestartBtn");
+  DOM.wordDropReviewBtn = document.getElementById("wordDropReviewBtn");
 }
 
 /* ============================================
@@ -1842,6 +1877,8 @@ function applyTranslations() {
     Array.from(DOM.trainingModeSelect.options).forEach((opt) => {
       if (opt.value === "cram") {
         opt.textContent = trKey("training.mode_cram", "깜지 (반복 따라쓰기)");
+      } else if (opt.value === "word_drop") {
+        opt.textContent = trKey("training.mode_word_drop", "Word Drop");
       }
     });
   }
@@ -2047,6 +2084,16 @@ function updateTrainingSummaryPreview() {
 
   // 선택된 게 하나라도 있는지 체크
   const hasAnySource = useMistakes || useHard || useBookmark;
+
+  if (
+    DOM.trainingModeSelect &&
+    DOM.trainingModeSelect.value === "word_drop"
+  ) {
+    summaryEl.style.color = "#6b7280";
+    summaryEl.textContent =
+      "Word Drop: 오답·북마크 단어를 섞고 부족하면 일반 단어로 보충합니다.";
+    return;
+  }
 
   // ----------------------------------------------------
   // [경우 1] 아무것도 선택 안 함 → 경고 (빨간색) & 시작 버튼 잠금
@@ -5341,8 +5388,382 @@ function handleRating(rating) {
   }
 }
 
+function getWordDropText(word) {
+  return (buildGermanForm(word) || getPrimaryStudyText(word) || "").trim();
+}
+
+function dedupeWordsById(words) {
+  const seen = new Set();
+  const result = [];
+  words.forEach((word) => {
+    if (!word || word.id == null) return;
+    const id = String(word.id);
+    if (seen.has(id)) return;
+    seen.add(id);
+    result.push(word);
+  });
+  return result;
+}
+
+function buildWordDropPools() {
+  const statsById = getWordStatsAll();
+  const allWords = dedupeWordsById(
+    getAllWords()
+      .filter((word) => belongsToCurrentStudyLang(word))
+      .filter((word) => getWordDropText(word).length > 0),
+  );
+
+  const mistakeWords = [];
+  const bookmarkedWords = [];
+
+  allWords.forEach((word) => {
+    const stats = statsById[String(word.id)] || {};
+    if ((stats.wrongAttempts || 0) > 0) {
+      mistakeWords.push(word);
+    }
+    if (stats.bookmarked) {
+      bookmarkedWords.push(word);
+    }
+  });
+
+  return {
+    allWords,
+    mistakeWords: dedupeWordsById(mistakeWords),
+    bookmarkedWords: dedupeWordsById(bookmarkedWords),
+  };
+}
+
+function pickNonRecent(pool, recentIds) {
+  if (!pool || pool.length === 0) return null;
+  const recent = new Set((recentIds || []).map((id) => String(id)));
+  const filtered = pool.filter((word) => !recent.has(String(word.id)));
+  const source = filtered.length > 0 ? filtered : pool;
+  return source[Math.floor(Math.random() * source.length)] || null;
+}
+
+function pickWordForDrop({ allWords, mistakeWords, bookmarkedWords, score }) {
+  if (!allWords || allWords.length === 0) return null;
+
+  let ratio;
+  if (score < 10) {
+    ratio = { normal: 0.8, mistake: 0.15, bookmark: 0.05 };
+  } else if (score < 30) {
+    ratio = { normal: 0.6, mistake: 0.3, bookmark: 0.1 };
+  } else {
+    ratio = { normal: 0.45, mistake: 0.4, bookmark: 0.15 };
+  }
+
+  const r = Math.random();
+  let poolType;
+  if (r < ratio.mistake) {
+    poolType = "mistake";
+  } else if (r < ratio.mistake + ratio.bookmark) {
+    poolType = "bookmark";
+  } else {
+    poolType = "normal";
+  }
+
+  let pool = allWords;
+  if (poolType === "mistake" && mistakeWords.length > 0) {
+    pool = mistakeWords;
+  } else if (poolType === "bookmark" && bookmarkedWords.length > 0) {
+    pool = bookmarkedWords;
+  }
+
+  return pickNonRecent(pool, WORD_DROP_STATE.recentIds);
+}
+
+function updateWordDropHud() {
+  if (DOM.wordDropProgressBar) {
+    const ratio =
+      WORD_DROP_STATE.targetCount > 0
+        ? WORD_DROP_STATE.completedCount / WORD_DROP_STATE.targetCount
+        : 0;
+    const percent = Math.max(0, Math.min(100, ratio * 100));
+    DOM.wordDropProgressBar.style.width = `${percent}%`;
+  }
+}
+
+function getWordDropTargetCount() {
+  if (DOM.trainingCountSelect && DOM.trainingCountSelect.value) {
+    const value = parseInt(DOM.trainingCountSelect.value, 10);
+    if (!Number.isNaN(value) && value > 0) return value;
+  }
+  return 10;
+}
+
+function completeWordDropItem({ missed }) {
+  if (WORD_DROP_STATE.resolving) return;
+  WORD_DROP_STATE.resolving = true;
+  WORD_DROP_STATE.completedCount += 1;
+  if (missed) {
+    WORD_DROP_STATE.missedCount += 1;
+  } else {
+    WORD_DROP_STATE.correctCount += 1;
+    WORD_DROP_STATE.score += 1;
+  }
+
+  updateWordDropHud();
+
+  const finishOrNext = () => {
+    WORD_DROP_STATE.resolving = false;
+    if (!WORD_DROP_STATE.active) return;
+
+    if (WORD_DROP_STATE.completedCount >= WORD_DROP_STATE.targetCount) {
+      endWordDrop();
+      return;
+    }
+
+    setNextWordDropWord();
+  };
+
+  if (missed) {
+    playWordDropMissEffect();
+    setTimeout(finishOrNext, 90);
+  } else {
+    playWordDropHitEffect();
+    setTimeout(finishOrNext, 130);
+  }
+}
+
+function focusWordDropInput() {
+  if (!WORD_DROP_STATE.active || !DOM.wordDropInput) return;
+  DOM.wordDropInput.focus({ preventScroll: true });
+}
+
+function setNextWordDropWord() {
+  const word = pickWordForDrop({
+    ...WORD_DROP_STATE.pools,
+    score: WORD_DROP_STATE.score,
+  });
+
+  if (!word) {
+    endWordDrop();
+    return;
+  }
+
+  WORD_DROP_STATE.currentWord = word;
+  WORD_DROP_STATE.currentText = getWordDropText(word);
+  WORD_DROP_STATE.yPosition = 0;
+  WORD_DROP_STATE.lane = Math.floor(Math.random() * 3);
+  WORD_DROP_STATE.speed = Math.min(
+    150,
+    48 +
+      WORD_DROP_STATE.score * 3 +
+      Math.floor((Date.now() - WORD_DROP_STATE.startedAt) / 10000) * 4,
+  );
+  WORD_DROP_STATE.recentIds.push(String(word.id));
+  WORD_DROP_STATE.recentIds = WORD_DROP_STATE.recentIds.slice(-3);
+
+  if (DOM.wordDropWord) {
+    DOM.wordDropWord.textContent = WORD_DROP_STATE.currentText;
+    DOM.wordDropWord.classList.remove("word-drop-hit");
+    DOM.wordDropWord.style.left = getWordDropLaneLeft();
+    DOM.wordDropWord.style.setProperty("--word-drop-y", "0px");
+    DOM.wordDropWord.style.transform = "translate(-50%, 0px)";
+  }
+  if (DOM.wordDropInput) {
+    DOM.wordDropInput.value = "";
+  }
+  updateWordDropHud();
+  focusWordDropInput();
+}
+
+function playWordDropHitEffect() {
+  if (!DOM.wordDropWord) return;
+  DOM.wordDropWord.classList.remove("word-drop-hit");
+  DOM.wordDropWord.style.setProperty(
+    "--word-drop-y",
+    `${WORD_DROP_STATE.yPosition}px`,
+  );
+  void DOM.wordDropWord.offsetWidth;
+  DOM.wordDropWord.classList.add("word-drop-hit");
+}
+
+function playWordDropMissEffect() {
+  if (!DOM.wordDropInput) return;
+  DOM.wordDropInput.classList.remove("word-drop-input-miss");
+  void DOM.wordDropInput.offsetWidth;
+  DOM.wordDropInput.classList.add("word-drop-input-miss");
+  setTimeout(() => {
+    if (DOM.wordDropInput) {
+      DOM.wordDropInput.classList.remove("word-drop-input-miss");
+    }
+  }, 140);
+}
+
+function getWordDropLaneLeft() {
+  const arenaWidth = DOM.wordDropArena ? DOM.wordDropArena.clientWidth : 360;
+  const safeWidth = Math.max(120, arenaWidth - 32);
+  const wordWidth = DOM.wordDropWord
+    ? Math.min(DOM.wordDropWord.offsetWidth || 0, safeWidth)
+    : 0;
+  const halfWord = Math.max(40, wordWidth / 2);
+  const sidePadding = 12;
+  const minCenter = halfWord + sidePadding;
+  const maxCenter = arenaWidth - halfWord - sidePadding;
+
+  if (WORD_DROP_STATE.lane === 0) {
+    return `${Math.max(arenaWidth * 0.16666, minCenter)}px`;
+  }
+  if (WORD_DROP_STATE.lane === 2) {
+    return `${Math.min(arenaWidth * 0.83333, maxCenter)}px`;
+  }
+  return "50%";
+}
+
+function recordWordDropMiss(word) {
+  if (!word || word.id == null) return;
+
+  const exists = WORD_DROP_STATE.mistakeWords.some(
+    (item) => String(item.id) === String(word.id),
+  );
+  if (!exists) {
+    WORD_DROP_STATE.mistakeWords.push(word);
+  }
+}
+
+function handleWordDropInput() {
+  if (!WORD_DROP_STATE.active || WORD_DROP_STATE.resolving || !DOM.wordDropInput)
+    return;
+  const typed = DOM.wordDropInput.value.trim();
+  if (!typed || typed !== WORD_DROP_STATE.currentText) return;
+
+  completeWordDropItem({ missed: false });
+}
+
+function runWordDropFrame(timestamp) {
+  if (!WORD_DROP_STATE.active) return;
+
+  if (!WORD_DROP_STATE.lastFrameAt) {
+    WORD_DROP_STATE.lastFrameAt = timestamp;
+  }
+
+  const dt = Math.min(40, timestamp - WORD_DROP_STATE.lastFrameAt);
+  WORD_DROP_STATE.lastFrameAt = timestamp;
+
+  if (WORD_DROP_STATE.resolving) {
+    WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
+    return;
+  }
+
+  WORD_DROP_STATE.yPosition += (WORD_DROP_STATE.speed * dt) / 1000;
+
+  const arenaHeight = DOM.wordDropArena ? DOM.wordDropArena.clientHeight : 360;
+  const wordHeight = DOM.wordDropWord ? DOM.wordDropWord.offsetHeight : 40;
+  const bottomLimit = Math.max(80, arenaHeight - wordHeight - 10);
+
+  if (WORD_DROP_STATE.yPosition >= bottomLimit) {
+    recordWordDropMiss(WORD_DROP_STATE.currentWord);
+    completeWordDropItem({ missed: true });
+  } else if (DOM.wordDropWord) {
+    DOM.wordDropWord.style.setProperty(
+      "--word-drop-y",
+      `${WORD_DROP_STATE.yPosition}px`,
+    );
+    DOM.wordDropWord.style.transform = `translate(-50%, ${WORD_DROP_STATE.yPosition}px)`;
+  }
+
+  WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
+}
+
+function stopWordDrop() {
+  WORD_DROP_STATE.active = false;
+  if (WORD_DROP_STATE.rafId) {
+    cancelAnimationFrame(WORD_DROP_STATE.rafId);
+    WORD_DROP_STATE.rafId = null;
+  }
+}
+
+function endWordDrop() {
+  stopWordDrop();
+
+  if (DOM.wordDropWord) {
+    DOM.wordDropWord.textContent = "";
+  }
+  if (DOM.wordDropInput) {
+    DOM.wordDropInput.value = "";
+  }
+  if (DOM.wordDropGameOver) {
+    DOM.wordDropGameOver.style.display = "flex";
+  }
+  if (DOM.wordDropFinalScore) {
+    DOM.wordDropFinalScore.textContent =
+      `정답 ${WORD_DROP_STATE.correctCount} · 놓침 ${WORD_DROP_STATE.missedCount}`;
+  }
+  if (DOM.wordDropMistakes) {
+    const words = WORD_DROP_STATE.mistakeWords.slice(0, 8);
+    DOM.wordDropMistakes.innerHTML = words.length
+      ? words
+          .map(
+            (word) =>
+              `<div>${escapeHtml(getSessionReportWordLabel(word))}</div>`,
+          )
+          .join("")
+      : "<div>이번 세션에서 놓친 단어가 없습니다.</div>";
+  }
+  if (DOM.wordDropReviewBtn) {
+    DOM.wordDropReviewBtn.style.display =
+      WORD_DROP_STATE.mistakeWords.length > 0 ? "inline-block" : "none";
+  }
+}
+
+function startWordDrop() {
+  const pools = buildWordDropPools();
+  if (!pools.allWords.length) {
+    if (DOM.trainingSummary) {
+      DOM.trainingSummary.style.color = "#e11d48";
+      DOM.trainingSummary.textContent = "Word Drop에 사용할 단어가 없습니다.";
+    }
+    return;
+  }
+
+  stopWordDrop();
+  TRAINING_MODE_ACTIVE = false;
+  TRAINING_MODE_KIND = "none";
+
+  WORD_DROP_STATE.active = true;
+  WORD_DROP_STATE.currentWord = null;
+  WORD_DROP_STATE.currentText = "";
+  WORD_DROP_STATE.yPosition = 0;
+  WORD_DROP_STATE.score = 0;
+  WORD_DROP_STATE.targetCount = getWordDropTargetCount();
+  WORD_DROP_STATE.completedCount = 0;
+  WORD_DROP_STATE.correctCount = 0;
+  WORD_DROP_STATE.missedCount = 0;
+  WORD_DROP_STATE.lane = 1;
+  WORD_DROP_STATE.resolving = false;
+  WORD_DROP_STATE.speed = 48;
+  WORD_DROP_STATE.startedAt = Date.now();
+  WORD_DROP_STATE.lastFrameAt = 0;
+  WORD_DROP_STATE.recentIds = [];
+  WORD_DROP_STATE.mistakeWords = [];
+  WORD_DROP_STATE.pools = pools;
+
+  if (DOM.wordDropGameOver) {
+    DOM.wordDropGameOver.style.display = "none";
+  }
+  if (DOM.wordDropInput) {
+    DOM.wordDropInput.value = "";
+  }
+
+  showView("wordDrop");
+  updateWordDropHud();
+  setNextWordDropWord();
+  WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
+}
+
 function handleTrainingStart() {
   const pack = t() || {};
+  const selectedTrainingMode =
+    DOM.trainingModeSelect && DOM.trainingModeSelect.value
+      ? DOM.trainingModeSelect.value
+      : "cram";
+
+  if (selectedTrainingMode === "word_drop") {
+    startWordDrop();
+    return;
+  }
 
   const useMistakes =
     DOM.trainingSourceMistakes &&
@@ -5909,11 +6330,13 @@ function restoreWrongPracticeMode() {
 }
 
 function finishWrongPractice() {
+  const returnView = WRONG_PRACTICE_RETURN_VIEW || "study";
+  WRONG_PRACTICE_RETURN_VIEW = "study";
   restoreWrongPracticeMode();
   LAST_STUDY_WORD_IDS = [];
   LAST_STUDY_META = { day: null, filterKey: null };
   showReadyState();
-  showView("study");
+  showView(returnView);
 }
 
 function advanceWrongPracticeStep() {
@@ -5933,7 +6356,7 @@ function advanceWrongPracticeStep() {
   showNextQuestion();
 }
 
-function startWrongWordsTraining() {
+function startWrongWordsTraining(returnView = "study") {
   const words = APP_STATE.sessionWrongWords || [];
   if (!words.length) return;
 
@@ -5948,6 +6371,7 @@ function startWrongWordsTraining() {
 
   WRONG_PRACTICE_ACTIVE = true;
   WRONG_PRACTICE_PREVIOUS_MODE = SETTINGS.mode;
+  WRONG_PRACTICE_RETURN_VIEW = returnView;
 
   SETTINGS.mode = "copy";
   hydrateSettingsToUI();
@@ -6427,6 +6851,9 @@ function clearSearchView() {
    ============================================ */
 
 function getBottomNavView(view) {
+  if (view === "wordDrop") {
+    return "training";
+  }
   if (view === "mistakes" || view === "bookmark" || view === "search") {
     return "words";
   }
@@ -6443,6 +6870,7 @@ function updateBottomNavActive(view) {
 
 function goToStudyFromNav() {
   const prevView = APP_STATE.currentView;
+  stopWordDrop();
 
   TRAINING_MODE_ACTIVE = false;
   TRAINING_MODE_KIND = "none";
@@ -6469,6 +6897,10 @@ function showView(view) {
   APP_STATE.currentView = view;
   updateBottomNavActive(view);
 
+  if (prevView === "wordDrop" && view !== "wordDrop") {
+    stopWordDrop();
+  }
+
   // 🔹 검색 뷰에서 나갈 때 검색 상태 초기화
   if (prevView === "search" && view !== "search") {
     clearSearchView();
@@ -6478,6 +6910,7 @@ function showView(view) {
     study: DOM.studyView,
     user: DOM.userView,
     training: DOM.trainingView,
+    wordDrop: DOM.wordDropView,
     words: DOM.wordHubView,
     mistakes: DOM.vocabView,
     bookmark: DOM.bookmarkView,
@@ -6535,6 +6968,8 @@ function showView(view) {
     handleSearch();
   } else if (view === "training") {
     updateTrainingSummaryPreview();
+  } else if (view === "wordDrop") {
+    focusWordDropInput();
   }
 }
 
@@ -6765,6 +7200,27 @@ function attachEvents() {
   if (DOM.skipBtn) DOM.skipBtn.addEventListener("click", handleSkip);
   if (DOM.trainingStartBtn) {
     DOM.trainingStartBtn.addEventListener("click", handleTrainingStart);
+  }
+
+  if (DOM.wordDropInput) {
+    DOM.wordDropInput.addEventListener("input", handleWordDropInput);
+    DOM.wordDropInput.addEventListener("blur", () => {
+      setTimeout(focusWordDropInput, 0);
+    });
+  }
+
+  if (DOM.wordDropRestartBtn) {
+    DOM.wordDropRestartBtn.addEventListener("click", startWordDrop);
+  }
+
+  if (DOM.wordDropReviewBtn) {
+    DOM.wordDropReviewBtn.addEventListener("click", () => {
+      stopWordDrop();
+      APP_STATE.sessionWrongWords = dedupeWordsById(
+        WORD_DROP_STATE.mistakeWords,
+      );
+      startWrongWordsTraining("training");
+    });
   }
 
   if (DOM.answerInput) {
