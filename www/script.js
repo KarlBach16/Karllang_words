@@ -157,6 +157,7 @@ const STORAGE_KEYS = {
   WORD_STATS: "karllang_word_stats_v4", // ✅ 언어별 북마크/틀린단어용 새 버전
   DAILY_SUMMARY: "karllang_daily_summary_v1",
   ATTENDANCE: "karllang_attendance_v1",
+  USER_DATA_SCHEMA: "karllang_user_data_schema_v1",
 };
 
 // HTML 안전하게 만들기용
@@ -218,9 +219,18 @@ function buildFirstLetterGhostHtmlForCram(full) {
 function getCurrentStudyLang() {
   return (SETTINGS.studyLang || "de").toLowerCase();
 }
-// 🔢 지금 사용하는 단어 세트 버전
-// 괴테 A1 50개 1차 버전 → v1
+// 앱 버전은 UI/기능 업데이트 추적용이다. 학습기록 리셋 조건으로 쓰지 않는다.
+const APP_VERSION = "1.0.0";
+
+if (typeof window !== "undefined") {
+  window.APP_VERSION = APP_VERSION;
+  window.__APP_VERSION__ = APP_VERSION;
+}
+
+// 🔢 지금 사용하는 단어 세트 버전.
+// 이 값이 바뀌어도 기본은 migration/보존이며, 단어 ID 체계가 깨질 때만 리셋한다.
 const DATA_VERSION = "goethe_a1_full_v1";
+const USER_DATA_SCHEMA_VERSION = "2";
 
 const DEFAULT_SETTINGS = {
   mode: "copy",
@@ -231,6 +241,7 @@ const DEFAULT_SETTINGS = {
   studyLang: "de",
   soundEnabled: true,
   newWordCategory: "all",
+  appVersion: APP_VERSION,
   dataVersion: DATA_VERSION,
   seenOnboarding: false,
   hapticEnabled: true,
@@ -1011,6 +1022,119 @@ function safeSet(key, value) {
     // ignore
   }
 }
+
+function parseStoredJson(raw, fallback = null) {
+  if (!raw) return fallback;
+  try {
+    return JSON.parse(raw);
+  } catch {
+    return fallback;
+  }
+}
+
+function getStoredStudyLangFallback() {
+  const parsed = parseStoredJson(safeGet(STORAGE_KEYS.SETTINGS), null);
+  const lang =
+    parsed && typeof parsed.studyLang === "string" ? parsed.studyLang : "de";
+  return lang.toLowerCase();
+}
+
+function looksLikeFlatStats(obj) {
+  return (
+    obj &&
+    typeof obj === "object" &&
+    (Object.prototype.hasOwnProperty.call(obj, "totalReviewed") ||
+      Object.prototype.hasOwnProperty.call(obj, "newLearned"))
+  );
+}
+
+function looksLikeWordStatEntry(obj) {
+  return (
+    obj &&
+    typeof obj === "object" &&
+    (Object.prototype.hasOwnProperty.call(obj, "bookmarked") ||
+      Object.prototype.hasOwnProperty.call(obj, "wrongAttempts") ||
+      Object.prototype.hasOwnProperty.call(obj, "hardCount") ||
+      Object.prototype.hasOwnProperty.call(obj, "lastWrongAt") ||
+      Object.prototype.hasOwnProperty.call(obj, "lastHardAt"))
+  );
+}
+
+function looksLikeFlatWordStats(obj) {
+  if (!obj || typeof obj !== "object" || Array.isArray(obj)) return false;
+  return Object.values(obj).some(looksLikeWordStatEntry);
+}
+
+function migrateJsonStorageKey({ fromKey, toKey, transform }) {
+  const current = parseStoredJson(safeGet(toKey), null);
+  if (current && typeof current === "object") return false;
+
+  const legacy = parseStoredJson(safeGet(fromKey), null);
+  if (!legacy || typeof legacy !== "object") return false;
+
+  const migrated = transform ? transform(legacy) : legacy;
+  safeSet(toKey, JSON.stringify(migrated));
+  return true;
+}
+
+function normalizeStatsStorageShape() {
+  const raw = safeGet(STORAGE_KEYS.STATS);
+  const parsed = parseStoredJson(raw, null);
+  if (!looksLikeFlatStats(parsed)) return false;
+
+  const lang = getStoredStudyLangFallback();
+  safeSet(STORAGE_KEYS.STATS, JSON.stringify({ [lang]: parsed }));
+  return true;
+}
+
+function normalizeWordStatsStorageShape() {
+  const raw = safeGet(STORAGE_KEYS.WORD_STATS);
+  const parsed = parseStoredJson(raw, null);
+  if (!looksLikeFlatWordStats(parsed)) return false;
+
+  const lang = getStoredStudyLangFallback();
+  safeSet(STORAGE_KEYS.WORD_STATS, JSON.stringify({ [lang]: parsed }));
+  return true;
+}
+
+function migrateUserData() {
+  const currentSchema = safeGet(STORAGE_KEYS.USER_DATA_SCHEMA);
+
+  // 예전 키나 단일언어 저장 구조가 남아 있으면 삭제하지 않고 현재 구조로 옮긴다.
+  migrateJsonStorageKey({
+    fromKey: "karllang_stats_v3",
+    toKey: STORAGE_KEYS.STATS,
+    transform: (legacy) =>
+      looksLikeFlatStats(legacy)
+        ? { [getStoredStudyLangFallback()]: legacy }
+        : legacy,
+  });
+
+  migrateJsonStorageKey({
+    fromKey: "karllang_word_stats_v3",
+    toKey: STORAGE_KEYS.WORD_STATS,
+    transform: (legacy) =>
+      looksLikeFlatWordStats(legacy)
+        ? { [getStoredStudyLangFallback()]: legacy }
+        : legacy,
+  });
+
+  normalizeStatsStorageShape();
+  normalizeWordStatsStorageShape();
+
+  if (currentSchema !== USER_DATA_SCHEMA_VERSION) {
+    safeSet(STORAGE_KEYS.USER_DATA_SCHEMA, USER_DATA_SCHEMA_VERSION);
+  }
+}
+
+function shouldResetLearningDataForDataVersion(previousVersion, nextVersion) {
+  if (!previousVersion || previousVersion === nextVersion) return false;
+
+  // 단어 ID 체계가 실제로 깨지는 버전만 여기에 명시한다.
+  // UI/기능 업데이트와 일반 단어 데이터 보강은 학습기록을 보존한다.
+  const wordIdBreakingChanges = new Set([]);
+  return wordIdBreakingChanges.has(`${previousVersion}->${nextVersion}`);
+}
 //학습 진도 초기화용
 function resetKarlLangData() {
   Object.keys(localStorage)
@@ -1043,6 +1167,8 @@ function detectInitialUiLang() {
   return "en"; // 기본값
 }
 function loadSettings() {
+  migrateUserData();
+
   const raw = safeGet(STORAGE_KEYS.SETTINGS);
 
   // 1) 첫 방문(저장값 없음)
@@ -1077,18 +1203,36 @@ function loadSettings() {
     sanitizeUiLang();
     sanitizeStudyLang();
 
-    // ✅ 단어 데이터 버전이 바뀌었으면, 해당 학습 언어 데이터 초기화
+    let shouldSaveSettings = false;
+
+    if (SETTINGS.appVersion !== APP_VERSION) {
+      SETTINGS.appVersion = APP_VERSION;
+      shouldSaveSettings = true;
+    }
+
+    // 단어 데이터 버전 변경은 기본적으로 기록을 보존한다.
+    // 단어 ID 체계가 깨지는 버전만 shouldResetLearningDataForDataVersion에 등록해 리셋한다.
     const study = (SETTINGS.studyLang || "de").toLowerCase();
-    if (!SETTINGS.dataVersion || SETTINGS.dataVersion !== DATA_VERSION) {
-      resetSrsForLang(study);
-      resetStatsForLang(study);
-      resetWordStatsForLang(study);
+    const previousDataVersion = SETTINGS.dataVersion || "";
+    if (previousDataVersion !== DATA_VERSION) {
+      if (
+        shouldResetLearningDataForDataVersion(previousDataVersion, DATA_VERSION)
+      ) {
+        resetSrsForLang(study);
+        resetStatsForLang(study);
+        resetWordStatsForLang(study);
+      }
 
       SETTINGS.dataVersion = DATA_VERSION;
-      saveSettings();
+      shouldSaveSettings = true;
     }
     if (typeof SETTINGS.seenOnboarding === "undefined") {
       SETTINGS.seenOnboarding = false;
+      shouldSaveSettings = true;
+    }
+
+    if (shouldSaveSettings) {
+      saveSettings();
     }
   } catch {
     SETTINGS = { ...DEFAULT_SETTINGS };

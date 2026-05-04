@@ -63,6 +63,47 @@
 - `node --check www/translations.js`
 - `git diff --check`
 
+## 2026-05-04 - 앱 업데이트 시 학습기록 보존
+
+### 목적
+
+- 앱 업데이트 후 SRS, 북마크, 틀린 단어, 전체 통계가 초기화될 수 있는 문제를 수정했다.
+- 서버 저장소를 붙이기 전까지 localStorage 기반 학습기록을 최대한 안정적으로 유지하도록 했다.
+
+### 원인
+
+- 기존에는 `SETTINGS.dataVersion !== DATA_VERSION`일 때 현재 학습 언어의 데이터를 바로 삭제했다.
+  - SRS 기록
+  - 전체 학습 통계
+  - 단어별 통계, 북마크, 오답 기록
+- 이 구조에서는 단순 UI 업데이트나 기능 추가 과정에서 `DATA_VERSION` 문자열이 바뀌기만 해도 유저 학습기록이 초기화될 수 있었다.
+
+### 변경
+
+- `APP_VERSION`과 `DATA_VERSION`을 분리했다.
+- `APP_VERSION`은 UI/기능 업데이트 추적용으로만 사용하고, 학습기록 리셋 조건으로 쓰지 않게 했다.
+- `DATA_VERSION`이 바뀌어도 기본 동작은 학습기록 보존으로 변경했다.
+- 단어 ID 체계가 실제로 깨지는 변경만 `shouldResetLearningDataForDataVersion()`에 명시해 선택적으로 리셋하도록 했다.
+- 기존 저장 구조를 최대한 살리는 localStorage migration을 추가했다.
+  - `karllang_stats_v3` → `karllang_stats_v4`
+  - `karllang_word_stats_v3` → `karllang_word_stats_v4`
+  - 단일언어 flat stats 구조 → 현재 언어별 stats 구조
+- migration 실행 여부를 추적하기 위한 user data schema 키를 추가했다.
+
+### 보존 대상
+
+- 단어별 SRS 진행도
+- 북마크
+- 틀린 단어/어려운 단어 통계
+- 전체 학습 통계
+- 일일 요약과 출석 데이터
+
+### 검증
+
+- `node --check www/script.js`
+- `node --check www/translations.js`
+- `git diff --check`
+
 ## 2026-05-04 - 앱 UI 계층 정리와 훈련소 레이아웃 다듬기
 
 ### 목적
