@@ -445,6 +445,21 @@ body {
     min-width: 0;
 }
 
+#trainingView .training-mode-group {
+    flex-wrap: wrap;
+}
+
+.training-mode-hint {
+    flex: 0 0 100%;
+    margin: 2px 0 0;
+    color: var(--color-neutral-medium);
+    font-size: 12px;
+    line-height: 1.25;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 /* 훈련소 첫 번째 control-group(훈련 모드) 위쪽 여백 줄이기 */
 #trainingView .training-target-section + .control-group {
     margin-top: 14px;

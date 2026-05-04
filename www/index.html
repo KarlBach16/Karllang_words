@@ -330,12 +330,13 @@
     </div>
 
     <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
-    <div class="control-group">
+    <div class="control-group training-mode-group">
         <label for="trainingModeSelect">훈련 모드</label>
         <select id="trainingModeSelect">
             <option value="cram">크램 </option>
             <option value="word_drop">Word Drop</option>
         </select>
+        <p id="trainingModeHint" class="training-mode-hint"></p>
     </div>
 
 <div class="control-group">
@@ -368,7 +369,7 @@
         <div id="wordDropArena" class="word-drop-arena">
             <div id="wordDropWord" class="word-drop-word"></div>
             <div id="wordDropGameOver" class="word-drop-game-over" style="display:none;">
-                <h2>Word Drop 종료</h2>
+                <h2 id="wordDropEndTitle">Word Drop 종료</h2>
                 <p id="wordDropFinalScore"></p>
                 <div id="wordDropMistakes" class="word-drop-mistakes"></div>
                 <div class="word-drop-actions">
@@ -385,7 +386,7 @@
             autocomplete="off"
             autocapitalize="none"
             spellcheck="false"
-            placeholder="떨어지는 단어 입력"
+            placeholder=""
         />
     </div>
 </section>

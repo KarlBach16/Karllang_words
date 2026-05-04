@@ -953,6 +953,7 @@ function cacheDOM() {
   DOM.trainingModeLabel = document.querySelector(
     "label[for='trainingModeSelect']",
   );
+  DOM.trainingModeHint = document.getElementById("trainingModeHint");
   DOM.trainingCountLabel = document.querySelector(
     "label[for='trainingCountSelect']",
   );
@@ -990,6 +991,7 @@ function cacheDOM() {
   DOM.wordDropWord = document.getElementById("wordDropWord");
   DOM.wordDropInput = document.getElementById("wordDropInput");
   DOM.wordDropGameOver = document.getElementById("wordDropGameOver");
+  DOM.wordDropEndTitle = document.getElementById("wordDropEndTitle");
   DOM.wordDropFinalScore = document.getElementById("wordDropFinalScore");
   DOM.wordDropMistakes = document.getElementById("wordDropMistakes");
   DOM.wordDropRestartBtn = document.getElementById("wordDropRestartBtn");
@@ -1160,6 +1162,9 @@ const I18N_KEYS = {
   "training.source_bookmark": "training_source_bookmark",
   "training.mode_label": "training_mode_label",
   "training.mode_cram": "training_mode_cram",
+  "training.mode_word_drop": "training_mode_word_drop",
+  "training.mode_hint_cram": "training_mode_hint_cram",
+  "training.mode_hint_word_drop": "training_mode_hint_word_drop",
   "training.count_label": "training_count_label",
   "training.count_unit": "training_count_unit",
   "training.start_button": "training_start_button",
@@ -1167,6 +1172,14 @@ const I18N_KEYS = {
   "training.done_simple": "training_done_simple",
   "training.done": "training_done",
   "training.cram_retry_hint": "cram_retry_hint",
+  "word_drop.end_title": "word_drop_end_title",
+  "word_drop.input_placeholder": "word_drop_input_placeholder",
+  "word_drop.result": "word_drop_result",
+  "word_drop.correct": "word_drop_correct",
+  "word_drop.missed": "word_drop_missed",
+  "word_drop.no_missed": "word_drop_no_missed",
+  "word_drop.restart": "word_drop_restart",
+  "word_drop.review": "word_drop_review",
 
   /* ----- 사용자 뷰 ----- */
   "user.title": "user_title",
@@ -1876,11 +1889,43 @@ function applyTranslations() {
   if (DOM.trainingModeSelect) {
     Array.from(DOM.trainingModeSelect.options).forEach((opt) => {
       if (opt.value === "cram") {
-        opt.textContent = trKey("training.mode_cram", "깜지 (반복 따라쓰기)");
+        opt.textContent = trKey(
+          "training.mode_cram",
+          getTrainingModeFallback("cram"),
+        );
       } else if (opt.value === "word_drop") {
-        opt.textContent = trKey("training.mode_word_drop", "Word Drop");
+        opt.textContent = trKey(
+          "training.mode_word_drop",
+          getTrainingModeFallback("word_drop"),
+        );
       }
     });
+  }
+  updateTrainingModeHint();
+
+  if (DOM.wordDropInput) {
+    DOM.wordDropInput.placeholder = trKey(
+      "word_drop.input_placeholder",
+      "떨어지는 단어 입력",
+    );
+  }
+  if (DOM.wordDropEndTitle) {
+    DOM.wordDropEndTitle.textContent = trKey(
+      "word_drop.end_title",
+      "Word Drop 종료",
+    );
+  }
+  if (DOM.wordDropRestartBtn) {
+    DOM.wordDropRestartBtn.textContent = trKey(
+      "word_drop.restart",
+      "다시 시작",
+    );
+  }
+  if (DOM.wordDropReviewBtn) {
+    DOM.wordDropReviewBtn.textContent = trKey(
+      "word_drop.review",
+      "복습하기",
+    );
   }
 
   // 🔹 훈련 단어 수 라벨 + 옵션 텍스트
@@ -1907,12 +1952,9 @@ function applyTranslations() {
     );
   }
 
-  // 🔹 밑에 설명: "최근 30일 기준 단어 중에서 ..."
+  // 🔹 하단 요약/결과 영역은 시작 전에는 비워 둔다.
   if (DOM.trainingSummary) {
-    DOM.trainingSummary.textContent = trKey(
-      "training.summary_hint",
-      "최근 30일 기준으로 선택한 단어들을 집중 훈련합니다.",
-    );
+    DOM.trainingSummary.textContent = "";
   }
   // 검색 뷰
   if (DOM.searchViewTitle) {
@@ -2064,9 +2106,52 @@ function applyTranslations() {
   }
 }
 
+function getTrainingModeFallback(mode) {
+  const lang = CURRENT_LANG || SETTINGS.uiLang || "ko";
+  if (mode === "word_drop") {
+    return lang === "ko" ? "워드 드롭" : "Word Drop";
+  }
+  return lang === "ko" ? "크램" : "Cram";
+}
+
+function getTrainingModeHintFallback(mode) {
+  const lang = CURRENT_LANG || SETTINGS.uiLang || "ko";
+  if (mode === "word_drop") {
+    return lang === "ko"
+      ? "오답·북마크 단어를 섞어 빠르게 타이핑하는 훈련입니다."
+      : "Type falling words quickly with wrong and bookmarked words mixed in.";
+  }
+  return lang === "ko"
+    ? "선택한 단어를 반복해서 따라 쓰며 익히는 훈련입니다."
+    : "Practice selected words by repeatedly typing them.";
+}
+
+function updateTrainingModeHint() {
+  if (!DOM.trainingModeHint) return;
+
+  const mode =
+    DOM.trainingModeSelect && DOM.trainingModeSelect.value
+      ? DOM.trainingModeSelect.value
+      : "cram";
+
+  if (mode === "word_drop") {
+    DOM.trainingModeHint.textContent = trKey(
+      "training.mode_hint_word_drop",
+      getTrainingModeHintFallback("word_drop"),
+    );
+  } else {
+    DOM.trainingModeHint.textContent = trKey(
+      "training.mode_hint_cram",
+      getTrainingModeHintFallback("cram"),
+    );
+  }
+}
+
 function updateTrainingSummaryPreview() {
   // 🚨 수정: 변수명을 DOM.trainingSummary로 통일 (형 코드 기준)
   const summaryEl = DOM.trainingSummary;
+
+  updateTrainingModeHint();
 
   // 요소 없으면 종료
   if (!summaryEl) return;
@@ -2090,8 +2175,7 @@ function updateTrainingSummaryPreview() {
     DOM.trainingModeSelect.value === "word_drop"
   ) {
     summaryEl.style.color = "#6b7280";
-    summaryEl.textContent =
-      "Word Drop: 오답·북마크 단어를 섞고 부족하면 일반 단어로 보충합니다.";
+    summaryEl.textContent = "";
     return;
   }
 
@@ -2116,10 +2200,7 @@ function updateTrainingSummaryPreview() {
   // ----------------------------------------------------
   summaryEl.style.color = "#666"; // 회색
 
-  summaryEl.textContent = trKey(
-    "training_summary_hint",
-    "선택한 단어들을 집중 훈련합니다.",
-  );
+  summaryEl.textContent = "";
 
   if (DOM.startTrainingBtn) DOM.startTrainingBtn.disabled = false;
 }
@@ -5624,6 +5705,23 @@ function recordWordDropMiss(word) {
   }
 }
 
+function formatWordDropResult() {
+  const fallback = `정답 ${WORD_DROP_STATE.correctCount} · 놓침 ${WORD_DROP_STATE.missedCount}`;
+  const template = trKey("word_drop.result", "");
+  if (template && template !== "word_drop.result") {
+    return template
+      .replace("{correct}", WORD_DROP_STATE.correctCount)
+      .replace("{missed}", WORD_DROP_STATE.missedCount);
+  }
+
+  const correctLabel = trKey("word_drop.correct", "정답");
+  const missedLabel = trKey("word_drop.missed", "놓침");
+  if (correctLabel && missedLabel) {
+    return `${correctLabel} ${WORD_DROP_STATE.correctCount} · ${missedLabel} ${WORD_DROP_STATE.missedCount}`;
+  }
+  return fallback;
+}
+
 function handleWordDropInput() {
   if (!WORD_DROP_STATE.active || WORD_DROP_STATE.resolving || !DOM.wordDropInput)
     return;
@@ -5692,8 +5790,7 @@ function endWordDrop() {
     DOM.wordDropGameOver.style.display = "flex";
   }
   if (DOM.wordDropFinalScore) {
-    DOM.wordDropFinalScore.textContent =
-      `정답 ${WORD_DROP_STATE.correctCount} · 놓침 ${WORD_DROP_STATE.missedCount}`;
+    DOM.wordDropFinalScore.textContent = formatWordDropResult();
   }
   if (DOM.wordDropMistakes) {
     const words = WORD_DROP_STATE.mistakeWords.slice(0, 8);
@@ -5704,7 +5801,9 @@ function endWordDrop() {
               `<div>${escapeHtml(getSessionReportWordLabel(word))}</div>`,
           )
           .join("")
-      : "<div>이번 세션에서 놓친 단어가 없습니다.</div>";
+      : `<div>${escapeHtml(
+          trKey("word_drop.no_missed", "이번 세션에서 놓친 단어가 없습니다."),
+        )}</div>`;
   }
   if (DOM.wordDropReviewBtn) {
     DOM.wordDropReviewBtn.style.display =
