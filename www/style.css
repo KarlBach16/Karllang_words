@@ -99,6 +99,7 @@ input, textarea {
     --bottom-nav-height: 60px;
     --bottom-nav-offset: 0px;
     --app-viewport-height: 100dvh;
+    --app-viewport-offset-top: 0px;
 }
 
 /* ===== 기본 ===== */
@@ -1818,13 +1819,22 @@ body.state-intro.intro-ready #introScreen .start-content {
 }
 
 body.word-drop-active #app {
+    position: fixed;
+    top: var(--app-viewport-offset-top);
+    left: 0;
+    right: 0;
     height: var(--app-viewport-height);
     min-height: var(--app-viewport-height);
+    padding: calc(var(--safe-top) + 8px) 0 0;
 }
 
 body.word-drop-active .app-main {
     padding: 0 16px 8px;
     overflow: hidden;
+}
+
+body.word-drop-active .word-drop-shell {
+    height: calc(var(--app-viewport-height) - var(--safe-top) - 20px);
 }
 
 body.word-drop-active .bottom-nav {

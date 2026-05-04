@@ -5678,12 +5678,15 @@ function stopWordDrop() {
 
 function endWordDrop() {
   stopWordDrop();
+  document.body.classList.remove("word-drop-active");
+  syncAppViewportHeight();
 
   if (DOM.wordDropWord) {
     DOM.wordDropWord.textContent = "";
   }
   if (DOM.wordDropInput) {
     DOM.wordDropInput.value = "";
+    DOM.wordDropInput.blur();
   }
   if (DOM.wordDropGameOver) {
     DOM.wordDropGameOver.style.display = "flex";
@@ -6978,15 +6981,20 @@ function showView(view) {
 }
 
 function syncAppViewportHeight() {
-  const height =
-    window.visualViewport && window.visualViewport.height
-      ? window.visualViewport.height
-      : window.innerHeight;
+  const viewport = window.visualViewport || null;
+  const height = viewport && viewport.height ? viewport.height : window.innerHeight;
+  const offsetTop = viewport && viewport.offsetTop ? viewport.offsetTop : 0;
 
   if (height && Number.isFinite(height)) {
     document.documentElement.style.setProperty(
       "--app-viewport-height",
       `${Math.round(height)}px`,
+    );
+  }
+  if (Number.isFinite(offsetTop)) {
+    document.documentElement.style.setProperty(
+      "--app-viewport-offset-top",
+      `${Math.round(offsetTop)}px`,
     );
   }
 }
