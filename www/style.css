@@ -608,12 +608,14 @@ body {
 /* ===== Word Drop MVP ===== */
 #wordDropView {
     width: 100%;
+    height: 100%;
+    min-height: 0;
 }
 
 .word-drop-shell {
     display: flex;
     flex-direction: column;
-    height: calc(var(--app-viewport-height) - var(--safe-top) - 40px);
+    height: 100%;
     min-height: 0;
     gap: 8px;
 }
@@ -636,7 +638,7 @@ body {
 .word-drop-arena {
     position: relative;
     flex: 1;
-    min-height: 160px;
+    min-height: 0;
     overflow: hidden;
     border: 1px solid var(--color-border-soft);
     border-radius: 8px;
@@ -1834,7 +1836,7 @@ body.word-drop-active .app-main {
 }
 
 body.word-drop-active .word-drop-shell {
-    height: calc(var(--app-viewport-height) - var(--safe-top) - 20px);
+    height: 100%;
 }
 
 body.word-drop-active .bottom-nav {
