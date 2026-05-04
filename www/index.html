@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="manifest" href="manifest.json">
     <link rel="apple-touch-icon" sizes="180x180" href="icon.png" />
-<meta name="theme-color" content="#ffffff">    
+<meta name="theme-color" content="#f5f6f7">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="mobile-web-app-capable" content="yes">
@@ -94,6 +94,9 @@
 
     <!-- 메인 앱 -->
     <div id="app" class="app-card">
+        <header id="appHeader" class="app-header">
+            <h1 id="appHeaderTitle" class="app-header-title">학습</h1>
+        </header>
         <main class="app-main">
             <!-- 학습 화면 -->
 <section id="studyView" class="view view-section">
@@ -182,9 +185,9 @@
             <section id="userView" class="view view-section" style="display:none;">
                 <h2 class="view-title">홈</h2>
 
-                <!-- ✅ 학습 설정이 위로 올라온 버전 -->
-                <h3 class="section-title" id="userSettingsTitle">학습 설정</h3>
 <div class="user-settings-grid">
+    <h3 class="settings-card-title" id="userSettingsTitle">학습 설정</h3>
+
     <!-- 1) 학습 모드 (순서: 카드 → 따라쓰기 → 타이핑) -->
     <div class="control-group">
         <label for="modeSelect">모드</label>
@@ -292,9 +295,6 @@
 
 <section id="trainingView" class="view view-section">
     <h2 class="view-title">훈련소</h2>
-    <p class="section-description">
-        틀린 단어 / 어려운 단어 / 북마크에서 골라 집중 훈련하는 모드입니다.
-    </p>
 
     <!-- 🔹 소스 선택(미스테이크 / 북마크) -->
     <!-- 🔹 소스 선택(토글 스위치) -->
@@ -329,26 +329,28 @@
         </div>
     </div>
 
-    <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
-    <div class="control-group training-mode-group">
-        <label for="trainingModeSelect">훈련 모드</label>
-        <select id="trainingModeSelect">
-            <option value="cram">크램 </option>
-            <option value="word_drop">Word Drop</option>
-        </select>
-        <p id="trainingModeHint" class="training-mode-hint"></p>
-    </div>
+    <div class="training-settings-card">
+        <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
+        <div class="control-group training-mode-group">
+            <label for="trainingModeSelect">훈련 모드</label>
+            <select id="trainingModeSelect">
+                <option value="cram">크램 </option>
+                <option value="word_drop">Word Drop</option>
+            </select>
+            <p id="trainingModeHint" class="training-mode-hint"></p>
+        </div>
 
-<div class="control-group">
-  <label for="trainingCountSelect">훈련 단어 수</label>
-<select id="trainingCountSelect">
-    <option value="5">5개</option>
-    <option value="10">10개</option>
-    <option value="20">20개</option>
-    <option value="30">30개</option>
-    <option value="50">50개</option>
-</select>
-</div>
+        <div class="control-group">
+            <label for="trainingCountSelect">훈련 단어 수</label>
+            <select id="trainingCountSelect">
+                <option value="5">5개</option>
+                <option value="10">10개</option>
+                <option value="20">20개</option>
+                <option value="30">30개</option>
+                <option value="50">50개</option>
+            </select>
+        </div>
+    </div>
     <!-- 🔹 세션 시작 버튼 -->
     <button id="trainingStartBtn" class="btn btn-primary" style="margin-top: 20px; width: 100%;">
         훈련 세션 시작
@@ -418,27 +420,18 @@
             <!-- 틀린 단어 화면 -->
             <section id="vocabView" class="view view-section" style="display:none;">
                 <h2 class="view-title">틀린 단어</h2>
-                <p class="section-description">
-                    자주 ‘어려움’으로 평가했거나 여러 번 틀린 단어들이 여기 모입니다.
-                </p>
                 <div id="wordbookList" class="wordbook-list"></div>
             </section>
 
 <!-- 북마크 화면 -->
 <section id="bookmarkView" class="view view-section" style="display:none;">
     <h2 class="view-title">북마크</h2>
-    <p class="section-description">
-        내가 따로 외우고 싶어서 북마크한 단어들이 여기 모입니다.
-    </p>
     <div id="bookmarkList" class="wordbook-list"></div>
 </section>
 
             <!-- 단어 검색 화면 -->
             <section id="searchView" class="view view-section" style="display:none;">
                 <h2 class="view-title">단어 검색</h2>
-                <p class="section-description">
-                    단어를 검색해서 의미와 CEFR 레벨을 확인할 수 있습니다.
-                </p>
 
                 <div class="control-group">
                     <label for="searchMode">검색 기준</label>
@@ -463,48 +456,55 @@
             <section id="settingsView" class="view view-section" style="display:none;">
                 <h2 class="view-title">설정</h2>
 
-                <div class="control-group">
-                    <label for="settingsUiLang">UI 언어</label>
-                    <select id="settingsUiLang"></select>
+                <div class="settings-card">
+                    <h3 class="settings-card-title" id="settingsLanguageTitle">언어 설정</h3>
+
+                    <div class="control-group">
+                        <label for="settingsUiLang">UI 언어</label>
+                        <select id="settingsUiLang"></select>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="settingsStudyLang">학습 언어</label>
+                        <select id="settingsStudyLang">
+                            <option value="de">Deutsch</option>
+                            <option value="es">Español</option>
+                            <option value="en">English</option>
+                            <option value="fr">Français</option>
+                            <option value="it">Italiano</option>
+                            <option value="pt">Português</option>
+                            <option value="ja">日本語</option>
+                            <option value="zh">中文</option>
+                            <option value="ko">한국어</option>
+                            <option value="pl">Polski</option>
+                            <option value="nl">Nederlands</option>
+                            <option value="ru">Русский</option>
+                            <option value="sv">Svenska</option>
+                        </select>
+                    </div>
                 </div>
 
-                <div class="control-group">
-                    <label for="settingsStudyLang">학습 언어</label>
-                    <!-- 설정 화면: 학습 언어 -->
-<select id="settingsStudyLang">
-    <option value="de">Deutsch</option>
-    <option value="es">Español</option>
-    <option value="en">English</option>
-    <option value="fr">Français</option>
-    <option value="it">Italiano</option>
-    <option value="pt">Português</option>
-    <option value="ja">日本語</option>
-    <option value="zh">中文</option>
-    <option value="ko">한국어</option>
-    <option value="pl">Polski</option>
-    <option value="nl">Nederlands</option>
-    <option value="ru">Русский</option>
-    <option value="sv">Svenska</option>
-</select>
+                <div class="settings-card">
+                    <h3 class="settings-card-title" id="settingsFeedbackTitle">피드백 설정</h3>
+
+                    <div class="control-group">
+                        <label id="soundToggleLabel">사운드</label>
+                        <button type="button" id="soundToggle" class="toggle-switch">
+                            <div class="toggle-track">
+                                <div class="toggle-knob"></div>
+                            </div>
+                        </button>
+                    </div>
+
+                    <div class="control-group">
+                        <label id="hapticToggleLabel">진동</label>
+                        <button type="button" id="hapticToggle" class="toggle-switch">
+                            <div class="toggle-track">
+                                <div class="toggle-knob"></div>
+                            </div>
+                        </button>
+                    </div>
                 </div>
-
-<div class="control-group">
-    <label id="soundToggleLabel">사운드</label>
-    <button type="button" id="soundToggle" class="toggle-switch">
-        <div class="toggle-track">
-            <div class="toggle-knob"></div>
-        </div>
-    </button>
-</div>
-
-<div class="control-group">
-    <label id="hapticToggleLabel">진동</label>
-    <button type="button" id="hapticToggle" class="toggle-switch">
-        <div class="toggle-track">
-            <div class="toggle-knob"></div>
-        </div>
-    </button>
-</div>
 
 <button
     type="button"

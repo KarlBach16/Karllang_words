@@ -82,8 +82,9 @@ input, textarea {
     /* 보조 액센트: Vibrant Blue (정보, 강조, 보조 액션) */
     --color-secondary: #2962FF;
     
-    /* 배경: Pure White */
+    /* 배경 레이어 */
     --color-background-start: #ffffff;
+    --color-app-background: #f5f6f7;
     
     /* 텍스트 컬러 */
     --color-text-dark: #212121;       /* Deep Charcoal (본문) */
@@ -123,7 +124,7 @@ body {
     align-items: stretch;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         "Helvetica Neue", Arial, sans-serif;
-    background: #ffffff;
+    background: var(--color-app-background);
     color: var(--color-text-dark);
     overflow: hidden;
 }
@@ -134,7 +135,7 @@ body {
 
     min-height: 100vh;
     min-height: 100dvh; /* iOS 키보드 대응 */
-    background: #ffffff;
+    background: var(--color-app-background);
     border-radius: 0;
     padding: 16px;
     box-shadow: none;
@@ -143,6 +144,11 @@ body {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
+}
+
+#introScreen,
+#startScreen {
+    background: #ffffff;
 }
 
 .divider {
@@ -225,6 +231,21 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
+.app-header {
+    flex: 0 0 auto;
+    padding: 0 16px 12px;
+    background: #ffffff;
+    border-bottom: 1px solid var(--color-border-soft);
+}
+
+.app-header-title {
+    margin: 0;
+    color: var(--color-text-dark);
+    font-size: 22px;
+    font-weight: 750;
+    line-height: 1.2;
+}
+
 /* ===== 하단 탭 ===== */
 .bottom-nav {
     position: absolute;
@@ -284,7 +305,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin-top: 16px;
+    margin-top: 10px;
 }
 
 .word-hub-item {
@@ -358,89 +379,113 @@ body {
 /* 설정 화면 전용: 라벨과 컨트롤 가로 정렬 */
 #settingsView {
     position: relative;
-    min-height: calc(100dvh - var(--safe-top) - var(--bottom-nav-height) - 56px);
-    padding-bottom: 58px;
+    min-height: 0;
+    padding-bottom: 0;
+}
+
+#settingsView .settings-card {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 14px 0;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+#settingsView .settings-card:first-of-type {
+    margin-top: 10px;
 }
 
 #settingsView .control-group {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 0;                 /* 살짝 줄여도 됨 */
+    padding: 10px 0;
     border-bottom: 1px solid var(--color-border-soft);
-    gap: 8px;                        /* 라벨 ↔ 컨트롤 사이 간격 */
+    gap: 10px;
 }
 
-#settingsView .control-group:last-child {
+#settingsView .settings-card .control-group:last-child {
     border-bottom: none;
 }
 
 #settingsView .control-group label {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
-    flex: 1 1 auto;                  /* 🔹 남은 공간 유연하게 */
-    min-width: 0;                    /* 🔹 줄바꿈 허용 */
+    flex: 1 1 auto;
+    min-width: 0;
     margin-right: 8px;
-    white-space: normal;             /* 필요하면 두 줄까지 내려가게 */
+    white-space: normal;
 }
 
 #settingsView .control-group select {
-    flex: 0 0 42%;                   /* 🔹 오른쪽 영역 대략 40% 정도 차지 */
-    max-width: 160px;                /* 🔹 너무 길게 안 늘어나게 상한선 */
+    flex: 0 0 52%;
+    max-width: 200px;
     width: 100%;
     min-width: 0;
+    padding: 8px 10px;
 }
 
 /* 설정 화면: 사운드/진동 토글 버튼 */
 #settingsView .control-group .toggle-switch {
-    flex: 0 0 auto;   /* ✅ 120px 고정폭 제거 – 내용(트랙)만큼만 차지 */
-    /* justify-content: flex-start;  ← 이 줄은 아예 지워도 됨 (기본값이라 의미 없음) */
+    flex: 0 0 auto;
 }
 
 #settingsView .settings-feedback-btn {
-    position: absolute;
-    left: 50%;
-    bottom: 10px;
+    position: static;
     width: auto;
     min-width: 136px;
     min-height: 40px;
-    margin: 0;
+    margin: 14px auto 0;
     padding: 9px 18px;
     display: block;
     border-radius: 999px;
     font-size: 14px;
     font-weight: 600;
     box-shadow: none;
-    transform: translateX(-50%);
 }
 
 /* 훈련소 화면: 훈련 모드/단어 수 드롭다운 가로 정렬 */
-#trainingView .control-group {
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 0;
-    border-bottom: 1px solid var(--color-border-soft);
-    gap: 8px;
-    min-height: 56px; 
+#trainingView .training-settings-card {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 14px;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 10px;
+    background: #ffffff;
 }
 
-#trainingView .control-group:last-of-type {
+#trainingView .control-group {
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--color-border-soft);
+    gap: 10px;
+    min-height: 52px;
+}
+
+#trainingView .training-settings-card .control-group {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(118px, 46%);
+    column-gap: 10px;
+    row-gap: 4px;
+}
+
+#trainingView .training-settings-card .control-group:last-child {
     border-bottom: none;
 }
 
 #trainingView .control-group label {
     font-size: 15px;
     font-weight: 500;
-    flex: 1 1 auto;          /* 🔹 라벨은 유연하게 */
     min-width: 0;
-    margin-right: 8px;
-    white-space: normal;     /* 긴 라벨은 줄바꿈 */
+    margin-right: 0;
+    line-height: 1.25;
+    white-space: normal;
 }
 
 #trainingView .control-group select {
-    flex: 0 0 50%;           /* 🔹 오른쪽 영역 반쯤 사용 */
-    max-width: 190px;        /* 🔹 상한선 */
     width: 100%;
     min-width: 0;
 }
@@ -450,24 +495,18 @@ body {
 }
 
 .training-mode-hint {
-    flex: 0 0 100%;
+    grid-column: 1 / -1;
     margin: 2px 0 0;
     color: var(--color-neutral-medium);
     font-size: 12px;
-    line-height: 1.25;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-/* 훈련소 첫 번째 control-group(훈련 모드) 위쪽 여백 줄이기 */
-#trainingView .training-target-section + .control-group {
-    margin-top: 14px;
+    line-height: 1.35;
+    white-space: normal;
+    overflow-wrap: anywhere;
 }
 
 /* 검색 입력 래퍼 */
 #searchView .control-group {
-    margin-top: 12px;
+    margin-top: 10px;
     margin-bottom: 10px;
     flex-direction: row;
     align-items: center;
@@ -584,7 +623,7 @@ body {
 
 /* ===== 학습 카드 (문제 표시 영역) ===== */
 .card {
-    margin-top: 12px;
+    margin-top: 10px;
     background: #ffffff;
     /* 라운드 16px (명료성) */
     border-radius: 16px;
@@ -1095,10 +1134,7 @@ body {
 
 /* ===== 사용자 / 설정 / 검색 뷰 ===== */
 .view-title {
-    margin: 0 0 8px;
-    font-size: 20px;
-    font-weight: 700;
-    color: var(--color-text-dark);
+    display: none;
 }
 
 .section-title {
@@ -1116,20 +1152,50 @@ body {
 }
 
 .user-settings-grid {
-    margin-top: 8px;              /* 상단 전체 여유 조금만 늘리고 */
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 14px 0;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 10px;
+    background: #ffffff;
+}
 
-    /* 🔹 가로, 세로 간격 분리해서 조절 */
-    row-gap: 26px;                /* 각 행(설정 항목 줄) 사이 간격 */
-    column-gap: 16px;             /* 좌우 칼럼 간격 */
+.settings-card-title {
+    margin: 0 0 2px;
+    color: var(--color-text-dark);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.25;
 }
 
 .user-settings-grid .control-group {
     min-width: 0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid var(--color-border-soft);
+}
 
-    /* 🔹 라벨 ↔ 드롭다운/토글 간격만 살짝 줄이기 */
-    gap: 4px;                     /* 기본 6px → 4px 정도로 타이트하게 */
+.user-settings-grid .control-group:last-child {
+    border-bottom: none;
+}
+
+.user-settings-grid .control-group label {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.user-settings-grid .control-group select {
+    flex: 0 0 52%;
+    max-width: 200px;
+    min-width: 0;
+    width: 100%;
+    padding: 8px 10px;
 }
 
 /* ===== 출석 카드 ===== */
@@ -1267,7 +1333,7 @@ body {
 
 /* ===== 단어장 / 검색 결과 ===== */
 .wordbook-list {
-    margin-top: 12px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     gap: 0;
@@ -1467,7 +1533,7 @@ body {
 .training-target-section {
     display: flex;
     flex-direction: column;
-    margin-top: 16px;
+    margin-top: 10px;
     padding: 14px 16px;
     border: 1px solid var(--color-border-soft);
     border-radius: 8px;
@@ -1665,12 +1731,6 @@ body {
     padding-right: 0;
 }
 
-#vocabView .section-description,
-#bookmarkView .section-description,
-#searchView .section-description {
-    margin-bottom: 4px;
-}
-
 /* ===== 카드 정답/오답 이펙트 ===== */
 .card.card-correct {
     /* 아주 연한 Green Background */
@@ -1833,6 +1893,11 @@ body.state-intro.intro-ready #introScreen .start-content {
     min-height: var(--app-viewport-height);
     padding: calc(var(--safe-top) + 24px) 0 0;
     overflow: hidden;
+    background: #ffffff;
+}
+
+#app .app-main {
+    background: var(--color-app-background);
 }
 
 body.word-drop-active #app {
@@ -1848,6 +1913,10 @@ body.word-drop-active #app {
 body.word-drop-active .app-main {
     padding: 0 16px 8px;
     overflow: hidden;
+}
+
+body.word-drop-active .app-header {
+    display: none;
 }
 
 body.word-drop-active .word-drop-shell {

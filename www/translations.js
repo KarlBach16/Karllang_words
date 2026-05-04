@@ -99,6 +99,8 @@ start_screen_hint: "",
 
     /* 설정 뷰 라벨 */
     settings_title: "설정",
+    settings_language_title: "언어 설정",
+    settings_feedback_title: "피드백 설정",
     settings_ui_lang_label: "UI 언어",
     settings_study_lang_label: "학습 언어",
     sound_label: "사운드",
@@ -275,6 +277,8 @@ en: {
 
     /* 설정 */
     settings_title: "Settings",
+    settings_language_title: "Language",
+    settings_feedback_title: "Feedback",
     settings_ui_lang_label: "UI language",
     settings_study_lang_label: "Study language",
     sound_label: "Sound",
@@ -452,6 +456,8 @@ de: {
 
     /* 설정 */
     settings_title: "Einstellungen",
+    settings_language_title: "Sprache",
+    settings_feedback_title: "Feedback",
     settings_ui_lang_label: "UI-Sprache",
     settings_study_lang_label: "Lernsprache",
     sound_label: "Ton",
@@ -630,6 +636,8 @@ es: {
 
     /* 설정 */
     settings_title: "Ajustes",
+    settings_language_title: "Idioma",
+    settings_feedback_title: "Respuesta",
     settings_ui_lang_label: "Idioma de la interfaz",
     settings_study_lang_label: "Idioma de estudio",
     sound_label: "Sonido",
@@ -809,6 +817,8 @@ fr: {
 
     /* 설정 */
     settings_title: "Paramètres",
+    settings_language_title: "Langue",
+    settings_feedback_title: "Retours",
     settings_ui_lang_label: "Langue de l’interface",
     settings_study_lang_label: "Langue d’étude",
     sound_label: "Son",
@@ -984,6 +994,8 @@ it: {
 
     /* 설정 */
     settings_title: "Impostazioni",
+    settings_language_title: "Lingua",
+    settings_feedback_title: "Feedback",
     settings_ui_lang_label: "Lingua dell’interfaccia",
     settings_study_lang_label: "Lingua di studio",
     sound_label: "Suono",
@@ -1159,6 +1171,8 @@ pt: {
 
     /* 설정 */
     settings_title: "Configurações",
+    settings_language_title: "Idioma",
+    settings_feedback_title: "Feedback",
     settings_ui_lang_label: "Idioma da interface",
     settings_study_lang_label: "Idioma de estudo",
     sound_label: "Som",
@@ -1334,6 +1348,8 @@ ja: {
 
     /* 설정 */
     settings_title: "設定",
+    settings_language_title: "言語設定",
+    settings_feedback_title: "フィードバック設定",
     settings_ui_lang_label: "UI 言語",
     settings_study_lang_label: "学習言語",
     sound_label: "サウンド",
@@ -1509,6 +1525,8 @@ zh: {
 
     /* 설정 */
     settings_title: "设置",
+    settings_language_title: "语言设置",
+    settings_feedback_title: "反馈设置",
     settings_ui_lang_label: "界面语言",
     settings_study_lang_label: "学习语言",
     sound_label: "声音",
@@ -1684,6 +1702,8 @@ ru: {
 
     /* 설정 */
     settings_title: "Настройки",
+    settings_language_title: "Язык",
+    settings_feedback_title: "Обратная связь",
     settings_ui_lang_label: "Язык интерфейса",
     settings_study_lang_label: "Язык обучения",
     sound_label: "Звук",

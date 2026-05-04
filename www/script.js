@@ -817,6 +817,8 @@ function cacheDOM() {
   // 메인 래퍼
   DOM.app = document.getElementById("app");
   DOM.appTitle = document.getElementById("appTitle");
+  DOM.appHeader = document.getElementById("appHeader");
+  DOM.appHeaderTitle = document.getElementById("appHeaderTitle");
 
   DOM.bottomTabs = document.querySelectorAll(".bottom-tab");
 
@@ -904,15 +906,11 @@ function cacheDOM() {
   DOM.wordHubBookmarkLabel = document.getElementById("wordHubBookmarkLabel");
   DOM.wordHubSearchLabel = document.getElementById("wordHubSearchLabel");
   DOM.wordbookList = document.getElementById("wordbookList");
-  DOM.wordbookDesc = document.querySelector("#vocabView .section-description");
 
   // 북마크 뷰
   DOM.bookmarkView = document.getElementById("bookmarkView");
   DOM.bookmarkList = document.getElementById("bookmarkList");
   DOM.bookmarkViewTitle = document.querySelector("#bookmarkView .view-title");
-  DOM.bookmarkDesc = document.querySelector(
-    "#bookmarkView .section-description",
-  );
 
   // 검색
   DOM.searchMode = document.getElementById("searchMode");
@@ -923,6 +921,8 @@ function cacheDOM() {
   // 설정 뷰
   DOM.settingsUiLang = document.getElementById("settingsUiLang");
   DOM.settingsStudyLang = document.getElementById("settingsStudyLang");
+  DOM.settingsLanguageTitle = document.getElementById("settingsLanguageTitle");
+  DOM.settingsFeedbackTitle = document.getElementById("settingsFeedbackTitle");
   DOM.soundToggle = document.getElementById("soundToggle");
   DOM.soundToggleLabel = document.getElementById("soundToggleLabel");
   DOM.hapticToggle = document.getElementById("hapticToggle");
@@ -946,9 +946,6 @@ function cacheDOM() {
 
   DOM.vocabViewTitle = document.querySelector("#vocabView .view-title");
   DOM.trainingViewTitle = document.querySelector("#trainingView .view-title");
-  DOM.trainingDesc = document.querySelector(
-    "#trainingView .section-description",
-  );
   DOM.trainingTargetLabel = document.getElementById("trainingTargetLabel");
   DOM.trainingModeLabel = document.querySelector(
     "label[for='trainingModeSelect']",
@@ -958,9 +955,6 @@ function cacheDOM() {
     "label[for='trainingCountSelect']",
   );
   DOM.searchViewTitle = document.querySelector("#searchView .view-title");
-  DOM.searchViewDesc = document.querySelector(
-    "#searchView .section-description",
-  );
   DOM.settingsViewTitle = document.querySelector("#settingsView .view-title");
   DOM.settingsUiLangLabel = document.querySelector(
     "label[for='settingsUiLang']",
@@ -1155,7 +1149,6 @@ const I18N_KEYS = {
 
   /* ----- 훈련소 뷰 ----- */
   "training.title": "training_title",
-  "training.desc": "training_desc",
   "training.target_label": "training_target_label",
   "training.source_mistakes": "training_source_mistakes",
   "training.source_hard": "training_source_hard",
@@ -1189,6 +1182,8 @@ const I18N_KEYS = {
 
   /* ----- 설정 뷰 ----- */
   "settings.title": "settings_title",
+  "settings.language_title": "settings_language_title",
+  "settings.feedback_title": "settings_feedback_title",
   "settings.ui_lang_label": "settings_ui_lang_label",
   "settings.study_lang_label": "settings_study_lang_label",
   "settings.sound.label": "sound_label",
@@ -1238,15 +1233,12 @@ const I18N_KEYS = {
 
   /* ----- 틀린 단어 / 북마크 / 검색 타이틀 ----- */
   "mistakes.title": "mistakes_title",
-  "mistakes.desc": "mistakes_desc",
   "mistakes.empty": "mistakes_empty",
 
   "bookmark.title": "bookmark_title",
-  "bookmark.desc": "bookmark_desc",
   "bookmark.empty": "bookmark_empty",
 
   "search.title": "search_title",
-  "search.desc": "search_desc",
   "search.mode_label": "search_mode_label",
   "search.placeholder": "search_placeholder",
   "search.empty": "search_empty",
@@ -1814,33 +1806,15 @@ function applyTranslations() {
   if (DOM.vocabViewTitle) {
     DOM.vocabViewTitle.textContent = trKey("mistakes.title", "틀린 단어");
   }
-  if (DOM.wordbookDesc) {
-    DOM.wordbookDesc.textContent = trKey(
-      "mistakes.desc",
-      DOM.wordbookDesc.textContent,
-    );
-  }
 
   // 북마크 뷰
   if (DOM.bookmarkViewTitle) {
     DOM.bookmarkViewTitle.textContent = trKey("bookmark.title", "북마크");
   }
-  if (DOM.bookmarkDesc) {
-    DOM.bookmarkDesc.textContent = trKey(
-      "bookmark.desc",
-      DOM.bookmarkDesc.textContent,
-    );
-  }
 
   // 훈련소 뷰
   if (DOM.trainingViewTitle) {
     DOM.trainingViewTitle.textContent = trKey("training.title", "훈련소");
-  }
-  if (DOM.trainingDesc) {
-    DOM.trainingDesc.textContent = trKey(
-      "training.desc",
-      "틀린 단어·북마크 단어를 카드/타이핑/게임으로 집중 훈련하는 모드입니다.",
-    );
   }
 
   // 🔹 훈련 대상 라벨
@@ -1902,6 +1876,7 @@ function applyTranslations() {
     });
   }
   updateTrainingModeHint();
+  updateAppHeader();
 
   if (DOM.wordDropInput) {
     DOM.wordDropInput.placeholder = trKey(
@@ -1959,12 +1934,6 @@ function applyTranslations() {
   // 검색 뷰
   if (DOM.searchViewTitle) {
     DOM.searchViewTitle.textContent = trKey("search.title", "단어 검색");
-  }
-  if (DOM.searchViewDesc) {
-    DOM.searchViewDesc.textContent = trKey(
-      "search.desc",
-      DOM.searchViewDesc.textContent,
-    );
   }
   if (DOM.searchLabel) {
     DOM.searchLabel.textContent = trKey("search.mode_label", "검색 기준");
@@ -2036,6 +2005,18 @@ function applyTranslations() {
   // 설정 뷰
   if (DOM.settingsViewTitle)
     DOM.settingsViewTitle.textContent = trKey("settings.title", "설정");
+  if (DOM.settingsLanguageTitle) {
+    DOM.settingsLanguageTitle.textContent = trKey(
+      "settings.language_title",
+      "언어 설정",
+    );
+  }
+  if (DOM.settingsFeedbackTitle) {
+    DOM.settingsFeedbackTitle.textContent = trKey(
+      "settings.feedback_title",
+      "피드백 설정",
+    );
+  }
 
   if (DOM.settingsUiLangLabel)
     DOM.settingsUiLangLabel.textContent = trKey(
@@ -6963,6 +6944,30 @@ function getBottomNavView(view) {
   return view;
 }
 
+function getAppHeaderTitle(view) {
+  const titles = {
+    study: trKey("menu.study", "학습"),
+    user: trKey("user.title", "홈"),
+    training: trKey("training.title", "훈련소"),
+    wordDrop: trKey(
+      "training.mode_word_drop",
+      getTrainingModeFallback("word_drop"),
+    ),
+    words: trKey("word_hub.title", "단어"),
+    mistakes: trKey("mistakes.title", "틀린 단어"),
+    bookmark: trKey("bookmark.title", "북마크"),
+    search: trKey("search.title", "단어 검색"),
+    settings: trKey("settings.title", "설정"),
+  };
+
+  return titles[view] || titles.study;
+}
+
+function updateAppHeader(view = APP_STATE.currentView) {
+  if (!DOM.appHeaderTitle) return;
+  DOM.appHeaderTitle.textContent = getAppHeaderTitle(view);
+}
+
 function updateBottomNavActive(view) {
   if (!DOM.bottomTabs || !DOM.bottomTabs.length) return;
   const activeView = getBottomNavView(view);
@@ -7000,6 +7005,7 @@ function showView(view) {
   APP_STATE.currentView = view;
   document.body.classList.toggle("word-drop-active", view === "wordDrop");
   syncAppViewportHeight();
+  updateAppHeader(view);
   updateBottomNavActive(view);
 
   if (prevView === "wordDrop" && view !== "wordDrop") {
