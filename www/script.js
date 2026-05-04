@@ -5528,6 +5528,7 @@ function completeWordDropItem({ missed }) {
 
 function focusWordDropInput() {
   if (!WORD_DROP_STATE.active || !DOM.wordDropInput) return;
+  syncAppViewportHeight();
   DOM.wordDropInput.focus({ preventScroll: true });
 }
 
@@ -6895,6 +6896,8 @@ function goToStudyFromNav() {
 function showView(view) {
   const prevView = APP_STATE.currentView; // 🔹 이전 뷰 기억
   APP_STATE.currentView = view;
+  document.body.classList.toggle("word-drop-active", view === "wordDrop");
+  syncAppViewportHeight();
   updateBottomNavActive(view);
 
   if (prevView === "wordDrop" && view !== "wordDrop") {
@@ -6969,7 +6972,22 @@ function showView(view) {
   } else if (view === "training") {
     updateTrainingSummaryPreview();
   } else if (view === "wordDrop") {
+    syncAppViewportHeight();
     focusWordDropInput();
+  }
+}
+
+function syncAppViewportHeight() {
+  const height =
+    window.visualViewport && window.visualViewport.height
+      ? window.visualViewport.height
+      : window.innerHeight;
+
+  if (height && Number.isFinite(height)) {
+    document.documentElement.style.setProperty(
+      "--app-viewport-height",
+      `${Math.round(height)}px`,
+    );
   }
 }
 
@@ -7540,6 +7558,7 @@ function init() {
   // 1. 기존 앱 공통 초기화 -----------------------------
   cacheDOM();
   loadSettings();
+  syncAppViewportHeight();
 
   if (DOM.startUiLang) {
     populateUiLangSelect(DOM.startUiLang);
@@ -7565,6 +7584,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 1) 공통 초기화 (DOM 캐시, 이벤트 바인딩, 번역 적용 등)
   init();
+
+  window.addEventListener("resize", syncAppViewportHeight);
+  window.addEventListener("orientationchange", syncAppViewportHeight);
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener("resize", syncAppViewportHeight);
+    window.visualViewport.addEventListener("scroll", syncAppViewportHeight);
+  }
 
   const body = document.body;
 
