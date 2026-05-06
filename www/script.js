@@ -334,6 +334,7 @@ const APP_STATE = {
 
 let SETTINGS = { ...DEFAULT_SETTINGS };
 let CURRENT_LANG = "ko";
+let SHARE_CARD_CACHE = null;
 // 🔊 TTS 상태 플래그 (구형 Android WebView 대응)
 let TTS_SUPPORTED = false;
 let TTS_READY = false;
@@ -1010,6 +1011,14 @@ function cacheDOM() {
   DOM.wordDropMistakes = document.getElementById("wordDropMistakes");
   DOM.wordDropRestartBtn = document.getElementById("wordDropRestartBtn");
   DOM.wordDropReviewBtn = document.getElementById("wordDropReviewBtn");
+  DOM.endShareOpenBtn = document.getElementById("endShareOpenBtn");
+  DOM.wordDropShareOpenBtn = document.getElementById("wordDropShareOpenBtn");
+  DOM.shareCardOverlay = document.getElementById("shareCardOverlay");
+  DOM.shareCardTitle = document.getElementById("shareCardTitle");
+  DOM.shareCardPreview = document.getElementById("shareCardPreview");
+  DOM.shareCardSaveBtn = document.getElementById("shareCardSaveBtn");
+  DOM.shareCardNativeBtn = document.getElementById("shareCardNativeBtn");
+  DOM.shareCardCloseBtn = document.getElementById("shareCardCloseBtn");
 }
 
 /* ============================================
@@ -1403,6 +1412,16 @@ const I18N_KEYS = {
   "summary.total": "summary_total",
   "summary.new": "summary_new",
   "summary.review": "summary_review",
+  "summary.share_title": "share_card_title",
+  "summary.share_save": "share_card_save",
+  "summary.share_native": "share_card_native",
+  "summary.share_open": "share_card_open",
+  "summary.share_saved": "share_card_saved",
+  "summary.share_failed": "share_card_failed",
+  "summary.share_tagline": "share_card_tagline",
+  "summary.share_difficult": "share_card_difficult",
+  "summary.share_no_difficult": "share_card_no_difficult",
+  "summary.share_mode": "share_card_mode",
   "summary.restart": "restart",
   "summary.no_words_today": "no_words_today",
   "study.copy_check_spelling": "copy_check_spelling",
@@ -2056,6 +2075,23 @@ function applyTranslations() {
       "복습하기",
     );
   }
+  if (DOM.shareCardSaveBtn) {
+    DOM.shareCardSaveBtn.textContent = trKey("summary.share_save", "이미지 저장");
+  }
+  if (DOM.shareCardNativeBtn) {
+    DOM.shareCardNativeBtn.textContent = trKey(
+      "summary.share_native",
+      "공유하기",
+    );
+  }
+  if (DOM.shareCardTitle) {
+    DOM.shareCardTitle.textContent = trKey("summary.share_open", "공유 이미지");
+  }
+  [DOM.endShareOpenBtn, DOM.wordDropShareOpenBtn].forEach((btn) => {
+    if (btn) {
+      btn.textContent = trKey("summary.share_open", "공유 이미지 만들기");
+    }
+  });
 
   // 🔹 훈련 단어 수 라벨 + 옵션 텍스트
   if (DOM.trainingCountLabel) {
@@ -2470,6 +2506,26 @@ function hasHangul(text) {
 function hasCyrillic(text) {
   if (!text || typeof text !== "string") return false;
   return /[\u0400-\u04FF]/.test(text);
+}
+
+function getStudyReadingValue(word) {
+  if (!word) return "";
+  const studyLang = (SETTINGS.studyLang || "de").toLowerCase();
+  const rawLemma = (word.lemma || "").trim();
+
+  if (studyLang === "ja") {
+    return hasKanji(rawLemma) ? getReadingForLang(word, "ja") : "";
+  }
+  if (studyLang === "zh") {
+    return hasCjkHan(rawLemma) ? getReadingForLang(word, "zh") : "";
+  }
+  if (studyLang === "ko") {
+    return hasHangul(rawLemma) ? getReadingForLang(word, "ko") : "";
+  }
+  if (studyLang === "ru") {
+    return hasCyrillic(rawLemma) ? getReadingForLang(word, "ru") : "";
+  }
+  return "";
 }
 
 function getSrsKey(wordId, langOverride) {
@@ -2959,6 +3015,7 @@ function showReadyState() {
   if (DOM.endStatsArea) {
     DOM.endStatsArea.style.display = "none";
   }
+  closeShareCardModal();
   const pack = t() || {};
 
   // [Gemini Fix] 시작 화면에서는 배지 강제로 끄기 (직접 ID 조회)
@@ -3386,6 +3443,15 @@ function showCramQuestion() {
 
   // 🔚 더 이상 훈련할 단어가 없으면 세션 종료
   if (!word) {
+    const cramTotal = TRAINING_CRAM_WORDS.length || TRAINING_CRAM_INDEX || 0;
+    const cramWrong = (APP_STATE.sessionWrongWords || []).length;
+    addTrainingSessionToDailySummary({
+      mode: "cram",
+      total: cramTotal,
+      correct: Math.max(0, cramTotal - cramWrong),
+      wrong: cramWrong,
+      words: APP_STATE.sessionWrongWords || [],
+    });
     TRAINING_MODE_ACTIVE = false;
     TRAINING_MODE_KIND = "none";
     TRAINING_CRAM_WORDS = [];
@@ -3569,6 +3635,9 @@ function handleCramSubmit() {
   applyAnswerEffect(false);
 
   // markWordMastered() 호출 안 함
+  if (!(APP_STATE.sessionWrongWords || []).some((w) => String(w.id) === String(word.id))) {
+    APP_STATE.sessionWrongWords.push(word);
+  }
   TRAINING_CRAM_REPEAT_INDEX = 0;
   TRAINING_CRAM_INDEX++;
   APP_STATE.completed = TRAINING_CRAM_INDEX;
@@ -4276,45 +4345,28 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
     smallMeaning = fullGerman || "";
   }
 
-  const studyLang = (SETTINGS.studyLang || "de").toLowerCase();
-  const rawLemma = (word && word.lemma) || "";
-  const readingValue =
-    studyLang === "ja"
-      ? hasKanji(rawLemma)
-        ? getReadingForLang(word, "ja")
-        : ""
-      : studyLang === "zh"
-      ? hasCjkHan(rawLemma)
-        ? getReadingForLang(word, "zh")
-        : ""
-      : studyLang === "ko"
-      ? hasHangul(rawLemma)
-        ? getReadingForLang(word, "ko")
-        : ""
-      : studyLang === "ru"
-      ? hasCyrillic(rawLemma)
-        ? getReadingForLang(word, "ru")
-        : ""
-      : "";
+  const readingValue = getStudyReadingValue(word);
   const readingLineHtml = readingValue
     ? '<div class="answer-reading-row"><span class="answer-reading-text">' +
       escapeHtml(readingValue) +
       "</span></div>"
     : "";
-  const readingBeforeMeaning = SETTINGS.mode === "card" ? "" : readingLineHtml;
-  const readingAfterMeaning = SETTINGS.mode === "card" ? readingLineHtml : "";
+  const meaningLineHtml =
+    '<div class="answer-meaning-row">' +
+    '<span class="answer-meaning-text">' +
+    escapeHtml(smallMeaning) +
+    "</span>" +
+    "</div>";
+  const answerSubHtml =
+    SETTINGS.mode === "card"
+      ? meaningLineHtml + readingLineHtml
+      : readingLineHtml + meaningLineHtml;
 
   DOM.questionDisplay.innerHTML =
     '<span class="answer-text answer-main">' +
     escapeHtml(mainText) +
     "</span>" +
-    readingBeforeMeaning +
-    '<div class="answer-meaning-row">' +
-    '<span class="answer-meaning-text">' +
-    escapeHtml(smallMeaning) +
-    "</span>" +
-    "</div>" +
-    readingAfterMeaning +
+    answerSubHtml +
     '<div class="answer-line answer-actions">' +
     '<button class="icon-btn speaker-icon" id="speakerBtn" type="button" aria-label="발음 듣기"></button>' +
     '<button class="icon-btn info-icon" id="detailBtn" type="button" aria-label="자세히 보기">i</button>' +
@@ -5410,38 +5462,10 @@ function handleConfirm() {
       return;
     }
 
-    const stats = getWordStatsById(String(word.id));
-
-    DOM.feedback.innerHTML =
-      '<div class="copy-answer-line">' +
-      '<button class="icon-btn speaker-icon" id="copySpeakerBtn" type="button" aria-label="발음 듣기"></button>' +
-      '<button class="icon-btn info-icon" id="copyDetailBtn" type="button" aria-label="자세히 보기">i</button>' +
-      '<button class="icon-btn bookmark-btn" id="copyBookmarkBtn" type="button" aria-label="단어장에 추가">' +
-      (stats.bookmarked ? "★" : "☆") +
-      "</button>" +
-      "</div>" +
-      '<div class="copy-feedback-msg">' +
-      (pack.copy_ok || pack.correct || "정확합니다") +
-      "</div>";
-
-    const btnSpeak = document.getElementById("copySpeakerBtn");
-    if (btnSpeak) {
-      btnSpeak.addEventListener("click", () => speakGerman(speakText));
+    renderAnswerWithSpeaker(speakText, getMeaning(word), word);
+    if (DOM.feedback) {
+      DOM.feedback.textContent = pack.copy_ok || pack.correct || "정확합니다";
     }
-
-    const btnBookmark = document.getElementById("copyBookmarkBtn");
-    if (btnBookmark) {
-      btnBookmark.addEventListener("click", () =>
-        toggleBookmark(String(word.id)),
-      );
-    }
-
-    const btnDetail = document.getElementById("copyDetailBtn");
-    if (btnDetail) {
-      btnDetail.addEventListener("click", () => openWordDetail(word));
-    }
-
-    updateTtsUiState();
 
     speakGerman(speakText);
 
@@ -6177,6 +6201,13 @@ function endWordDrop() {
   stopWordDrop();
   document.body.classList.remove("word-drop-active");
   syncAppViewportHeight();
+  const dailySummary = addTrainingSessionToDailySummary({
+    mode: "word_drop",
+    total: WORD_DROP_STATE.completedCount || 0,
+    correct: WORD_DROP_STATE.correctCount || 0,
+    wrong: WORD_DROP_STATE.missedCount || 0,
+    words: WORD_DROP_STATE.mistakeWords || [],
+  });
 
   if (DOM.wordDropWord) {
     DOM.wordDropWord.textContent = "";
@@ -6209,6 +6240,7 @@ function endWordDrop() {
     DOM.wordDropReviewBtn.style.display =
       WORD_DROP_STATE.mistakeWords.length > 0 ? "inline-block" : "none";
   }
+  prepareShareCard(dailySummary);
 }
 
 function startWordDrop() {
@@ -6250,6 +6282,7 @@ function startWordDrop() {
   if (DOM.wordDropGameOver) {
     DOM.wordDropGameOver.style.display = "none";
   }
+  closeShareCardModal();
   if (DOM.wordDropWord) {
     DOM.wordDropWord.textContent = "";
   }
@@ -6482,6 +6515,7 @@ function handleTrainingStart() {
   APP_STATE.completed = 0;
   APP_STATE.newCount = 0;
   APP_STATE.reviewCount = 0;
+  APP_STATE.sessionWrongWords = [];
 
   if (DOM.trainingSummary) {
     DOM.trainingSummary.style.color = "#6b7280";
@@ -6606,6 +6640,8 @@ function getEmptyDailySummary(day = nowDay()) {
     hard: 0,
     normal: 0,
     easy: 0,
+    modeCounts: {},
+    difficultWords: [],
   };
 }
 
@@ -6656,6 +6692,48 @@ function saveDailySummary(summary) {
   safeSet(STORAGE_KEYS.DAILY_SUMMARY, JSON.stringify(base));
 }
 
+function getSessionModeKey(mode) {
+  if (mode === "typing_de") return "typing";
+  if (mode === "copy") return "copy";
+  if (mode === "card") return "card";
+  if (mode === "cram") return "cram";
+  if (mode === "word_drop") return "word_drop";
+  return "study";
+}
+
+function addDailyModeCount(summary, mode, count) {
+  const key = getSessionModeKey(mode);
+  const amount = Number(count) || 0;
+  if (!amount) return;
+
+  summary.modeCounts =
+    summary.modeCounts && typeof summary.modeCounts === "object"
+      ? summary.modeCounts
+      : {};
+  summary.modeCounts[key] = (summary.modeCounts[key] || 0) + amount;
+}
+
+function addDailyDifficultWords(summary, words) {
+  if (!Array.isArray(words) || !words.length) return;
+
+  const current = Array.isArray(summary.difficultWords)
+    ? summary.difficultWords.slice()
+    : [];
+  const seen = new Set(current.map((item) => String(item.id || item.label)));
+
+  words.forEach((word) => {
+    if (!word) return;
+    const id = String(word.id || getSessionReportWordLabel(word));
+    if (!id || seen.has(id)) return;
+    const label = getSessionReportWordLabel(word);
+    if (!label) return;
+    current.push({ id, label });
+    seen.add(id);
+  });
+
+  summary.difficultWords = current.slice(0, 12);
+}
+
 function addCurrentSessionToDailySummary() {
   const summary = getDailySummary();
   if (APP_STATE.sessionSummarySaved) {
@@ -6670,10 +6748,329 @@ function addCurrentSessionToDailySummary() {
   summary.hard += APP_STATE.sessionHardCount || 0;
   summary.normal += APP_STATE.sessionNormalCount || 0;
   summary.easy += APP_STATE.sessionEasyCount || 0;
+  addDailyModeCount(summary, APP_STATE.sessionMode, APP_STATE.completed || 0);
+  addDailyDifficultWords(summary, APP_STATE.sessionWrongWords || []);
 
   saveDailySummary(summary);
   APP_STATE.sessionSummarySaved = true;
   return summary;
+}
+
+function addTrainingSessionToDailySummary({ mode, total, correct, wrong, words }) {
+  const summary = getDailySummary();
+  const count = Number(total) || 0;
+  summary.total += count;
+  summary.reviewCount += count;
+  summary.correct += Number(correct) || 0;
+  summary.wrong += Number(wrong) || 0;
+  addDailyModeCount(summary, mode, count);
+  addDailyDifficultWords(summary, words || []);
+  saveDailySummary(summary);
+  return summary;
+}
+
+function getShareStudyLangLabel() {
+  const pack = t() || {};
+  const code = (SETTINGS.studyLang || "de").toLowerCase();
+  const map = {
+    de: pack.study_lang_de || "German",
+    es: pack.study_lang_es || "Spanish",
+    en: pack.study_lang_en || "English",
+    fr: pack.study_lang_fr || "French",
+    it: pack.study_lang_it || "Italian",
+    pt: pack.study_lang_pt || "Portuguese",
+    pl: pack.study_lang_pl || "Polish",
+    nl: pack.study_lang_nl || "Dutch",
+    ru: pack.study_lang_ru || "Russian",
+    sv: pack.study_lang_sv || "Swedish",
+    ko: pack.study_lang_ko || "Korean",
+    ja: pack.study_lang_ja || "Japanese",
+    zh: pack.study_lang_zh || "Chinese",
+  };
+  return map[code] || code.toUpperCase();
+}
+
+function getShareModeLabel(mode) {
+  if (mode === "word_drop") {
+    return trKey("training.mode_word_drop", "Word Drop");
+  }
+  if (mode === "cram") {
+    return trKey("training.mode_cram", "Cram");
+  }
+  if (mode === "typing") {
+    return trKey("typing_mode", "Typing");
+  }
+  if (mode === "copy") {
+    return trKey("copy_mode", "Copy");
+  }
+  if (mode === "card") {
+    return trKey("card_mode", "Cards");
+  }
+  return trKey("menu.study", "Study");
+}
+
+function getTopShareModes(summary) {
+  const counts =
+    summary && summary.modeCounts && typeof summary.modeCounts === "object"
+      ? summary.modeCounts
+      : {};
+  return Object.entries(counts)
+    .filter(([, count]) => Number(count) > 0)
+    .sort((a, b) => Number(b[1]) - Number(a[1]))
+    .slice(0, 2)
+    .map(([mode]) => getShareModeLabel(mode));
+}
+
+function getShareCardData(summary = getDailySummary()) {
+  const pack = t() || {};
+  const topModes = getTopShareModes(summary);
+  const difficultWords = Array.isArray(summary.difficultWords)
+    ? summary.difficultWords.slice(0, 3).map((item) => item.label).filter(Boolean)
+    : [];
+
+  return {
+    title: trKey("summary.share_title", "오늘의 회상 훈련"),
+    lang: getShareStudyLangLabel(),
+    mode: topModes.length ? topModes.join(" + ") : getShareModeLabel("study"),
+    total: summary.total || 0,
+    correct: summary.correct || 0,
+    review: summary.reviewCount || 0,
+    difficultWords,
+    difficultTitle: trKey("summary.share_difficult", "어려웠던 단어"),
+    noDifficultText: trKey(
+      "summary.share_no_difficult",
+      "오늘 어려웠던 단어 없음",
+    ),
+    modeTitle: trKey("summary.share_mode", "주요 모드"),
+    totalLabel: pack.summary_total || "학습 단어",
+    correctLabel: pack.summary_correct || pack.correct || "정답",
+    reviewLabel: pack.summary_review || "복습 단어",
+    tagline: trKey("summary.share_tagline", "Type it. Remember it."),
+    date: getLocalDateKey(),
+  };
+}
+
+function drawShareText(ctx, text, x, y, maxWidth, lineHeight) {
+  const raw = String(text || "").trim();
+  const words = /\s/.test(raw) ? raw.split(/\s+/) : Array.from(raw);
+  let line = "";
+  let currentY = y;
+
+  words.forEach((word) => {
+    const glue = /\s/.test(raw) ? " " : "";
+    if (ctx.measureText(word).width > maxWidth) {
+      Array.from(word).forEach((ch) => {
+        const nextChar = line ? `${line}${ch}` : ch;
+        if (ctx.measureText(nextChar).width > maxWidth && line) {
+          ctx.fillText(line, x, currentY);
+          line = ch;
+          currentY += lineHeight;
+        } else {
+          line = nextChar;
+        }
+      });
+      return;
+    }
+    const next = line ? `${line}${glue}${word}` : word;
+    if (ctx.measureText(next).width > maxWidth && line) {
+      ctx.fillText(line, x, currentY);
+      line = word;
+      currentY += lineHeight;
+    } else {
+      line = next;
+    }
+  });
+
+  if (line) {
+    ctx.fillText(line, x, currentY);
+  }
+  return currentY;
+}
+
+function createShareCardDataUrl(summary = getDailySummary()) {
+  const data = getShareCardData(summary);
+  const canvas = document.createElement("canvas");
+  canvas.width = 1080;
+  canvas.height = 1350;
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return "";
+
+  ctx.fillStyle = "#f5f6f7";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.fillStyle = "#ffffff";
+  roundRectPath(ctx, 72, 72, 936, 1206, 44);
+  ctx.fill();
+
+  ctx.fillStyle = "#00C853";
+  roundRectPath(ctx, 72, 72, 936, 18, 9);
+  ctx.fill();
+
+  ctx.fillStyle = "#111827";
+  ctx.font =
+    '700 52px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  ctx.fillText("KarlLang", 128, 178);
+
+  ctx.fillStyle = "#6b7280";
+  ctx.font =
+    '500 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  ctx.fillText(data.date, 128, 226);
+
+  ctx.fillStyle = "#111827";
+  ctx.font =
+    '800 74px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  drawShareText(ctx, data.title, 128, 340, 824, 82);
+
+  ctx.fillStyle = "#eff6ff";
+  roundRectPath(ctx, 128, 424, 824, 92, 28);
+  ctx.fill();
+  ctx.fillStyle = "#2962FF";
+  ctx.font =
+    '700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  drawShareText(ctx, `${data.lang} · ${data.modeTitle}: ${data.mode}`, 168, 480, 744, 40);
+
+  const statY = 650;
+  drawShareStat(ctx, 128, statY, data.total, data.totalLabel);
+  drawShareStat(ctx, 418, statY, data.correct, data.correctLabel);
+  drawShareStat(ctx, 708, statY, data.review, data.reviewLabel);
+
+  ctx.strokeStyle = "rgba(17, 24, 39, 0.08)";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(128, 860);
+  ctx.lineTo(952, 860);
+  ctx.stroke();
+
+  ctx.fillStyle = "#6b7280";
+  ctx.font =
+    '700 30px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  ctx.fillText(data.difficultTitle, 128, 940);
+
+  ctx.fillStyle = "#111827";
+  ctx.font =
+    '700 42px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  const difficult = data.difficultWords.length
+    ? data.difficultWords.join(" · ")
+    : data.noDifficultText;
+  drawShareText(ctx, difficult, 128, 1010, 824, 54);
+
+  ctx.fillStyle = "#00C853";
+  roundRectPath(ctx, 128, 1148, 824, 74, 37);
+  ctx.fill();
+  ctx.fillStyle = "#ffffff";
+  ctx.font =
+    '800 32px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  ctx.textAlign = "center";
+  ctx.fillText(data.tagline, 540, 1196);
+  ctx.textAlign = "left";
+
+  return canvas.toDataURL("image/png");
+}
+
+function roundRectPath(ctx, x, y, width, height, radius) {
+  const r = Math.min(radius, width / 2, height / 2);
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.lineTo(x + width - r, y);
+  ctx.quadraticCurveTo(x + width, y, x + width, y + r);
+  ctx.lineTo(x + width, y + height - r);
+  ctx.quadraticCurveTo(x + width, y + height, x + width - r, y + height);
+  ctx.lineTo(x + r, y + height);
+  ctx.quadraticCurveTo(x, y + height, x, y + height - r);
+  ctx.lineTo(x, y + r);
+  ctx.quadraticCurveTo(x, y, x + r, y);
+  ctx.closePath();
+}
+
+function drawShareStat(ctx, x, y, value, label) {
+  ctx.fillStyle = "#111827";
+  ctx.font =
+    '800 72px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  ctx.fillText(String(value || 0), x, y);
+  ctx.fillStyle = "#6b7280";
+  ctx.font =
+    '600 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+  drawShareText(ctx, label, x, y + 46, 220, 34);
+}
+
+function prepareShareCard(summary = getDailySummary()) {
+  const dataUrl = createShareCardDataUrl(summary);
+  if (!dataUrl) return;
+
+  SHARE_CARD_CACHE = { dataUrl, summary };
+}
+
+function openShareCardModal() {
+  if (!DOM.shareCardOverlay || !DOM.shareCardPreview) return;
+
+  const dataUrl =
+    (SHARE_CARD_CACHE && SHARE_CARD_CACHE.dataUrl) || createShareCardDataUrl();
+  if (!dataUrl) return;
+
+  SHARE_CARD_CACHE = SHARE_CARD_CACHE || { dataUrl, summary: getDailySummary() };
+  DOM.shareCardPreview.src = dataUrl;
+  if (DOM.shareCardNativeBtn) {
+    DOM.shareCardNativeBtn.style.display =
+      navigator.share && window.File ? "inline-block" : "none";
+  }
+  DOM.shareCardOverlay.classList.add("active");
+}
+
+function closeShareCardModal() {
+  if (!DOM.shareCardOverlay) return;
+  DOM.shareCardOverlay.classList.remove("active");
+}
+
+function downloadShareCardImage() {
+  const dataUrl =
+    (SHARE_CARD_CACHE && SHARE_CARD_CACHE.dataUrl) || createShareCardDataUrl();
+  if (!dataUrl) return;
+  const a = document.createElement("a");
+  a.href = dataUrl;
+  a.download = `karllang-${getLocalDateKey()}.png`;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  showSystemToast(trKey("summary.share_saved", "이미지를 저장했습니다."));
+}
+
+function dataUrlToBlob(dataUrl) {
+  const parts = dataUrl.split(",");
+  const mime = (parts[0].match(/:(.*?);/) || [])[1] || "image/png";
+  const binary = atob(parts[1] || "");
+  const len = binary.length;
+  const bytes = new Uint8Array(len);
+  for (let i = 0; i < len; i++) {
+    bytes[i] = binary.charCodeAt(i);
+  }
+  return new Blob([bytes], { type: mime });
+}
+
+async function shareCardImage() {
+  const dataUrl =
+    (SHARE_CARD_CACHE && SHARE_CARD_CACHE.dataUrl) || createShareCardDataUrl();
+  if (!dataUrl || !navigator.share || !window.File) {
+    downloadShareCardImage();
+    return;
+  }
+
+  try {
+    const file = new File([dataUrlToBlob(dataUrl)], "karllang.png", {
+      type: "image/png",
+    });
+    if (navigator.canShare && !navigator.canShare({ files: [file] })) {
+      downloadShareCardImage();
+      return;
+    }
+    await navigator.share({
+      title: "KarlLang",
+      text: "KarlLang",
+      files: [file],
+    });
+  } catch (error) {
+    if (error && error.name === "AbortError") return;
+    showSystemToast(trKey("summary.share_failed", "공유하지 못했습니다."));
+  }
 }
 
 function showEndStats() {
@@ -6824,6 +7221,8 @@ function showEndStats() {
     DOM.trainWrongBtn.style.display =
       wrongWords.length > 0 ? "inline-block" : "none";
   }
+
+  prepareShareCard(dailySummary);
 
   DOM.restartBtn.textContent = pack.restart || "다시 시작";
 
@@ -7812,6 +8211,38 @@ function attachEvents() {
       );
       startWrongWordsTraining("training");
     });
+  }
+
+  if (DOM.shareCardSaveBtn) {
+    DOM.shareCardSaveBtn.addEventListener("click", downloadShareCardImage);
+  }
+
+  if (DOM.shareCardNativeBtn) {
+    DOM.shareCardNativeBtn.addEventListener("click", shareCardImage);
+  }
+
+  if (DOM.endShareOpenBtn) {
+    DOM.endShareOpenBtn.addEventListener("click", openShareCardModal);
+  }
+
+  if (DOM.wordDropShareOpenBtn) {
+    DOM.wordDropShareOpenBtn.addEventListener("click", openShareCardModal);
+  }
+
+  if (DOM.shareCardOverlay) {
+    const onShareBackdropClick = (e) => {
+      if (
+        e.target === DOM.shareCardOverlay ||
+        e.target.classList.contains("detail-backdrop")
+      ) {
+        closeShareCardModal();
+      }
+    };
+    DOM.shareCardOverlay.addEventListener("click", onShareBackdropClick);
+  }
+
+  if (DOM.shareCardCloseBtn) {
+    DOM.shareCardCloseBtn.addEventListener("click", closeShareCardModal);
   }
 
   if (DOM.answerInput) {

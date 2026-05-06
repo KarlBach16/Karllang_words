@@ -177,6 +177,7 @@
             <button id="trainWrongBtn" class="btn btn-primary" style="display:none;">
                 어려운 단어 연습
             </button>
+            <button id="endShareOpenBtn" class="share-card-open-btn" type="button">공유 이미지 만들기</button>
         </div>
     </section>
 </section>
@@ -379,7 +380,10 @@
                 <div id="wordDropMistakes" class="word-drop-mistakes"></div>
                 <div class="word-drop-actions">
                     <button id="wordDropRestartBtn" class="btn btn-primary" type="button">다시 시작</button>
-                    <button id="wordDropReviewBtn" class="btn btn-secondary" type="button">복습하기</button>
+                    <div class="word-drop-secondary-actions">
+                        <button id="wordDropReviewBtn" class="btn btn-secondary" type="button">복습하기</button>
+                        <button id="wordDropShareOpenBtn" class="share-card-open-btn" type="button">공유 이미지 만들기</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -568,6 +572,21 @@
             <span class="detail-label">기타</span>
             <span class="detail-value" id="detailExtra"></span>
           </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="shareCardOverlay" class="detail-overlay share-card-overlay">
+      <div class="detail-backdrop"></div>
+      <div class="detail-panel share-card-modal">
+        <div class="detail-header">
+          <div class="detail-title" id="shareCardTitle">공유 이미지</div>
+          <button type="button" id="shareCardCloseBtn" class="detail-close-btn">×</button>
+        </div>
+        <img id="shareCardPreview" class="share-card-preview" alt="KarlLang share card preview" />
+        <div class="share-card-actions">
+          <button id="shareCardSaveBtn" class="btn btn-primary" type="button">이미지 저장</button>
+          <button id="shareCardNativeBtn" class="btn btn-secondary" type="button">공유하기</button>
         </div>
       </div>
     </div>
