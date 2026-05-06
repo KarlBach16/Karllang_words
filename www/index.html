@@ -151,6 +151,68 @@
             </div>
         </div>
     </article>
+
+    <div class="user-settings-grid study-settings-grid">
+        <!-- 1) 학습 모드 (순서: 카드 → 따라쓰기 → 타이핑) -->
+        <div class="control-group">
+            <label for="modeSelect">모드</label>
+            <select id="modeSelect">
+                <option value="card">카드 모드</option>
+                <option value="copy">따라쓰기 모드</option>
+                <option value="typing_de">타이핑 모드</option>
+            </select>
+        </div>
+
+        <!-- 2) 목표 개수 -->
+        <div class="control-group">
+            <label for="goalSelectTyping">입력 목표</label>
+            <select id="goalSelectTyping">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="50">50</option>
+            </select>
+        </div>
+
+        <div class="control-group">
+            <label for="goalSelectCard">카드 목표</label>
+            <select id="goalSelectCard">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="50">50</option>
+            </select>
+        </div>
+
+        <!-- 3) 카테고리 -->
+        <div class="control-group">
+            <label for="newWordCategorySelect" id="newWordCategoryLabel">
+                카테고리
+            </label>
+            <select id="newWordCategorySelect">
+                <option value="all">전체</option>
+                <option value="exam">시험</option>
+                <option value="daily">일상</option>
+                <option value="travel">여행</option>
+                <option value="work">직장</option>
+                <option value="basic">기초</option>
+            </select>
+        </div>
+
+        <!-- 4) 레벨 -->
+        <div class="control-group">
+            <label for="newWordCefrSelect">레벨</label>
+            <select id="newWordCefrSelect">
+                <option value="all">전체 레벨</option>
+                <option value="A1">A1</option>
+                <option value="A2">A2</option>
+                <option value="B1">B1</option>
+                <option value="B2">B2</option>
+            </select>
+        </div>
+    </div>
     <div id="systemToast" class="system-toast" aria-live="polite"></div>
 
     <section id="endStatsArea" class="end-stats" style="display:none;">
@@ -185,70 +247,6 @@
                         <!-- 사용자 화면 -->
             <section id="userView" class="view view-section" style="display:none;">
                 <h2 class="view-title">홈</h2>
-
-<div class="user-settings-grid">
-    <h3 class="settings-card-title" id="userSettingsTitle">학습 설정</h3>
-
-    <!-- 1) 학습 모드 (순서: 카드 → 따라쓰기 → 타이핑) -->
-    <div class="control-group">
-        <label for="modeSelect">모드</label>
-        <select id="modeSelect">
-            <option value="card">카드 모드</option>
-            <option value="copy">따라쓰기 모드</option>
-            <option value="typing_de">타이핑 모드</option>
-        </select>
-    </div>
-
-    <!-- 2) 목표 개수 -->
-    <div class="control-group">
-        <label for="goalSelectTyping">입력 목표</label>
-        <select id="goalSelectTyping">
-            <option value="5">5</option>
-            <option value="10">10</option>
-            <option value="20">20</option>
-            <option value="30">30</option>
-            <option value="50">50</option>
-        </select>
-    </div>
-
-    <div class="control-group">
-        <label for="goalSelectCard">카드 목표</label>
-        <select id="goalSelectCard">
-            <option value="5">5</option>
-            <option value="10">10</option>
-            <option value="20">20</option>
-            <option value="30">30</option>
-            <option value="50">50</option>
-        </select>
-    </div>
-
-    <!-- 3) 🔁 카테고리 먼저 (좌측) -->
-    <div class="control-group">
-        <label for="newWordCategorySelect" id="newWordCategoryLabel">
-            카테고리
-        </label>
-<select id="newWordCategorySelect">
-    <option value="all">전체</option>
-    <option value="exam">시험</option>
-    <option value="daily">일상</option>   <!-- smalltalk → daily 로 변경 -->
-    <option value="travel">여행</option>
-    <option value="work">직장</option>
-    <option value="basic">기초</option>   <!-- basic도 선택할 수 있게 추가 -->
-</select>
-    </div>
-
-    <!-- 4) 그 다음 레벨 (우측) -->
-    <div class="control-group">
-        <label for="newWordCefrSelect">레벨</label>
-        <select id="newWordCefrSelect">
-            <option value="all">전체 레벨</option>
-            <option value="A1">A1</option>
-            <option value="A2">A2</option>
-            <option value="B1">B1</option>
-            <option value="B2">B2</option>
-        </select>
-    </div>
-</div>
 
                 <section id="attendanceCard" class="attendance-card">
                     <div class="attendance-header">

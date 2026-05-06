@@ -242,9 +242,9 @@ body {
 .app-header-title {
     margin: 0;
     color: var(--color-text-dark);
-    font-size: 22px;
-    font-weight: 750;
-    line-height: 1.2;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 1.15;
 }
 
 /* ===== 하단 탭 ===== */
@@ -356,7 +356,8 @@ body {
 }
 
 .control-group label {
-    font-weight: 600;
+    font-weight: 650;
+    line-height: 1.25;
 }
 
 .control-group select {
@@ -412,8 +413,8 @@ body {
 }
 
 #settingsView .control-group label {
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 650;
     flex: 1 1 auto;
     min-width: 0;
     margin-right: 8px;
@@ -449,7 +450,7 @@ body {
 
 /* 훈련소 화면: 훈련 모드/단어 수 드롭다운 가로 정렬 */
 #trainingView .training-settings-card {
-    margin-top: 14px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     padding: 0 14px;
@@ -478,8 +479,8 @@ body {
 }
 
 #trainingView .control-group label {
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 650;
     min-width: 0;
     margin-right: 0;
     line-height: 1.25;
@@ -554,8 +555,9 @@ body {
     border: none;
     border-radius: 999px;
     padding: 12px 16px;
-    font-size: 16px;
-    font-weight: 700; /* Bold 강조 */
+    font-size: 15px;
+    font-weight: 750;
+    line-height: 1.2;
     cursor: pointer;
     transition: transform 0.05s ease, box-shadow 0.05s ease, opacity 0.1s ease;
 }
@@ -641,8 +643,9 @@ body {
 }
 
 .question {
-    font-size: 28px;
-    font-weight: 700; /* Bold */
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.18;
     text-align: center;
     margin-bottom: 12px;
     color: var(--color-text-dark);
@@ -868,7 +871,9 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 /* ===== 힌트 영역 ===== */
 .hint {
-    font-size: 12px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.35;
     color: var(--color-neutral-medium); /* Medium Gray */
     min-height: 18px;
     text-align: center;
@@ -953,8 +958,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
     margin-top: 10px;
     min-height: 20px;
     text-align: center;
-    font-size: 15px;
-    font-weight: 700; /* Bold */
+    font-size: 14px;
+    font-weight: 750;
     color: var(--color-text-dark);
 }
 
@@ -1015,7 +1020,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .progress-text {
     display: none;  /* 상단 텍스트도 숨김 */
-    font-size: 13px;
+    font-size: 12px;
+    font-weight: 650;
     text-align: center;
     color: var(--color-neutral-medium);
 }
@@ -1074,7 +1080,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
     margin-top: 0;
     margin-bottom: 8px;
     color: var(--color-text-dark);
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .end-title-check {
@@ -1136,8 +1142,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .end-subtitle {
     margin: 0 0 10px;
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 800;
     color: var(--color-text-dark);
 }
 
@@ -1285,7 +1291,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
     margin: 0 0 2px;
     color: var(--color-text-dark);
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 1.25;
 }
 
@@ -1306,8 +1312,9 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 .user-settings-grid .control-group label {
     flex: 1 1 auto;
     min-width: 0;
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 650;
+    line-height: 1.25;
 }
 
 .user-settings-grid .control-group select {
@@ -1318,10 +1325,14 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
     padding: 8px 10px;
 }
 
+.study-settings-grid {
+    margin: 12px 0 0;
+}
+
 /* ===== 출석 카드 ===== */
 .attendance-card {
     width: 100%;
-    margin: 22px 0 18px;
+    margin: 10px 0 0;
     padding: 14px 16px;
     border: 1px solid var(--color-border-soft);
     border-radius: 8px;
@@ -1338,8 +1349,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .attendance-title {
     margin: 0;
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 800;
     color: var(--color-text-dark);
 }
 
@@ -1382,7 +1393,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 /* ===== CEFR 진행도 ===== */
 .cefr-card {
     width: 100%;
-    margin: 18px 0 14px;
+    margin: 12px 0 0;
     padding: 14px 16px;
     border: 1px solid var(--color-border-soft);
     border-radius: 8px;
@@ -1392,8 +1403,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .cefr-card-title {
     margin: 0 0 12px;
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 800;
     color: var(--color-text-dark);
 }
 
@@ -1490,7 +1501,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 }
 
 .wordbook-word {
-    font-weight: 700;
+    font-weight: 750;
 }
 
 .wordbook-meta {
@@ -1653,7 +1664,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 .training-target-section {
     display: flex;
     flex-direction: column;
-    margin-top: 10px;
+    margin-top: 12px;
     padding: 14px 16px;
     border: 1px solid var(--color-border-soft);
     border-radius: 8px;
@@ -1663,7 +1674,7 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .training-target-section .section-label {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 800;
     margin-bottom: 10px;
     color: var(--color-text-dark);
 }
@@ -1682,8 +1693,8 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 }
 
 .training-source-row span {
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 650;
     color: var(--color-text-dark);
 }
 /* ===== 단어 디테일 팝업 ===== */
@@ -2060,13 +2071,13 @@ body.word-drop-keyboard-active .bottom-nav {
     display: none;
 }
 
-body.study-keyboard-active .app-main,
-body.training-cram-active .app-main {
+body.native-platform.study-keyboard-active .app-main,
+body.native-platform.training-cram-active .app-main {
     padding-bottom: calc(var(--safe-bottom) + 12px);
 }
 
-body.study-keyboard-active .bottom-nav,
-body.training-cram-active .bottom-nav {
+body.native-platform.study-keyboard-active .bottom-nav,
+body.native-platform.training-cram-active .bottom-nav {
     display: none;
 }
 

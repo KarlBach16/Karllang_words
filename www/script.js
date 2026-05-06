@@ -856,6 +856,7 @@ function cacheDOM() {
   DOM.progressText = document.getElementById("progress");
   DOM.sessionProgress = document.getElementById("sessionProgress");
   DOM.mainCard = document.getElementById("mainCard");
+  DOM.studySettingsGrid = document.querySelector(".study-settings-grid");
   DOM.studySummaryText = document.getElementById("studySummaryText");
   DOM.questionDisplay = document.getElementById("questionDisplay");
   DOM.hintDisplay = document.getElementById("hintDisplay");
@@ -950,7 +951,6 @@ function cacheDOM() {
 
   // 사용자 뷰 제목/라벨
   DOM.userViewTitle = document.querySelector("#userView .view-title");
-  DOM.userSettingsTitle = document.getElementById("userSettingsTitle");
   DOM.userCefrTitle = document.getElementById("userCefrTitle");
 
   DOM.modeLabel = document.querySelector("label[for='modeSelect']");
@@ -1422,6 +1422,8 @@ const I18N_KEYS = {
   "summary.share_difficult": "share_card_difficult",
   "summary.share_no_difficult": "share_card_no_difficult",
   "summary.share_mode": "share_card_mode",
+  "summary.share_accuracy": "share_card_accuracy",
+  "summary.share_streak": "share_card_streak",
   "summary.restart": "restart",
   "summary.no_words_today": "no_words_today",
   "study.copy_check_spelling": "copy_check_spelling",
@@ -1887,12 +1889,6 @@ function applyTranslations() {
       );
     }
   }
-
-  if (DOM.userSettingsTitle)
-    DOM.userSettingsTitle.textContent = trKey(
-      "user.settings_title",
-      "학습 설정",
-    );
 
   renderAttendance();
 
@@ -2639,6 +2635,24 @@ function recordAttendanceForStudyStart() {
   renderAttendance();
 }
 
+function getLearningStreakDays(summary = getDailySummary()) {
+  const dates = getAttendanceDates();
+  if (summary && Number(summary.total) > 0) {
+    dates.push(getLocalDateKey());
+  }
+
+  const set = new Set(dates);
+  let streak = 0;
+  let cursor = new Date();
+
+  while (set.has(getLocalDateKey(cursor))) {
+    streak += 1;
+    cursor = shiftLocalDate(cursor, -1);
+  }
+
+  return streak;
+}
+
 function renderAttendance() {
   if (!DOM.attendanceWeek) return;
 
@@ -2969,7 +2983,14 @@ function updateProgressBar() {
 }
 function setPhase(phase) {
   APP_STATE.phase = phase;
+  updateStudySettingsVisibility();
   updateKeyboardModeChrome();
+}
+
+function updateStudySettingsVisibility() {
+  if (!DOM.studySettingsGrid) return;
+  DOM.studySettingsGrid.style.display =
+    APP_STATE.phase === "READY" ? "flex" : "none";
 }
 
 function isKeyboardStudyPhase() {
@@ -2984,6 +3005,14 @@ function isKeyboardStudyPhase() {
 
 function updateKeyboardModeChrome() {
   document.body.classList.toggle("study-keyboard-active", isKeyboardStudyPhase());
+}
+
+function updateRuntimeChromeClass() {
+  const isNative =
+    !!(window.Capacitor &&
+      typeof window.Capacitor.isNativePlatform === "function" &&
+      window.Capacitor.isNativePlatform());
+  document.body.classList.toggle("native-platform", isNative);
 }
 
 function resetSessionReport() {
@@ -6827,14 +6856,18 @@ function getShareCardData(summary = getDailySummary()) {
   const difficultWords = Array.isArray(summary.difficultWords)
     ? summary.difficultWords.slice(0, 3).map((item) => item.label).filter(Boolean)
     : [];
+  const total = Number(summary.total) || 0;
+  const correct = Number(summary.correct) || 0;
+  const accuracy = total > 0 ? `${Math.round((correct / total) * 100)}%` : "0%";
+  const streakDays = getLearningStreakDays(summary);
 
   return {
-    title: trKey("summary.share_title", "오늘의 회상 훈련"),
+    title: trKey("summary.share_title", "오늘의 단어 훈련"),
     lang: getShareStudyLangLabel(),
     mode: topModes.length ? topModes.join(" + ") : getShareModeLabel("study"),
-    total: summary.total || 0,
-    correct: summary.correct || 0,
-    review: summary.reviewCount || 0,
+    total,
+    accuracy,
+    streak: streakDays,
     difficultWords,
     difficultTitle: trKey("summary.share_difficult", "어려웠던 단어"),
     noDifficultText: trKey(
@@ -6843,8 +6876,8 @@ function getShareCardData(summary = getDailySummary()) {
     ),
     modeTitle: trKey("summary.share_mode", "주요 모드"),
     totalLabel: pack.summary_total || "학습 단어",
-    correctLabel: pack.summary_correct || pack.correct || "정답",
-    reviewLabel: pack.summary_review || "복습 단어",
+    accuracyLabel: trKey("summary.share_accuracy", "정답률"),
+    streakLabel: trKey("summary.share_streak", "연속 학습"),
     tagline: trKey("summary.share_tagline", "Type it. Remember it."),
     date: getLocalDateKey(),
   };
@@ -6902,8 +6935,8 @@ function createShareCardDataUrl(summary = getDailySummary()) {
   roundRectPath(ctx, 72, 72, 936, 1206, 44);
   ctx.fill();
 
-  ctx.fillStyle = "#00C853";
-  roundRectPath(ctx, 72, 72, 936, 18, 9);
+  ctx.fillStyle = "#2962FF";
+  roundRectPath(ctx, 128, 112, 824, 4, 2);
   ctx.fill();
 
   ctx.fillStyle = "#111827";
@@ -6931,8 +6964,8 @@ function createShareCardDataUrl(summary = getDailySummary()) {
 
   const statY = 650;
   drawShareStat(ctx, 128, statY, data.total, data.totalLabel);
-  drawShareStat(ctx, 418, statY, data.correct, data.correctLabel);
-  drawShareStat(ctx, 708, statY, data.review, data.reviewLabel);
+  drawShareStat(ctx, 418, statY, data.accuracy, data.accuracyLabel);
+  drawShareStat(ctx, 708, statY, data.streak, data.streakLabel);
 
   ctx.strokeStyle = "rgba(17, 24, 39, 0.08)";
   ctx.lineWidth = 2;
@@ -6954,14 +6987,18 @@ function createShareCardDataUrl(summary = getDailySummary()) {
     : data.noDifficultText;
   drawShareText(ctx, difficult, 128, 1010, 824, 54);
 
-  ctx.fillStyle = "#00C853";
-  roundRectPath(ctx, 128, 1148, 824, 74, 37);
-  ctx.fill();
-  ctx.fillStyle = "#ffffff";
+  ctx.strokeStyle = "rgba(0, 200, 83, 0.28)";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(128, 1142);
+  ctx.lineTo(952, 1142);
+  ctx.stroke();
+
+  ctx.fillStyle = "#00A846";
   ctx.font =
-    '800 32px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
+    '800 28px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
   ctx.textAlign = "center";
-  ctx.fillText(data.tagline, 540, 1196);
+  ctx.fillText(data.tagline, 540, 1204);
   ctx.textAlign = "left";
 
   return canvas.toDataURL("image/png");
@@ -8269,10 +8306,6 @@ function attachEvents() {
 
   if (DOM.restartBtn) {
     DOM.restartBtn.addEventListener("click", () => {
-      // ✅ 완전 새 세션: 오늘 세트 초기화
-      LAST_STUDY_WORD_IDS = [];
-      LAST_STUDY_META = { day: null, filterKey: null };
-
       showReadyState();
     });
   }
@@ -8561,6 +8594,7 @@ function ensureMasteryMainBtn() {
 function init() {
   // 1. 기존 앱 공통 초기화 -----------------------------
   cacheDOM();
+  updateRuntimeChromeClass();
   loadSettings();
   syncAppViewportHeight();
 
