@@ -382,6 +382,8 @@ const WORD_DROP_STATE = {
   missedCount: 0,
   lane: 1,
   resolving: false,
+  composing: false,
+  clearUntil: 0,
   speed: 48,
   startedAt: 0,
   lastFrameAt: 0,
@@ -2911,6 +2913,21 @@ function updateProgressBar() {
 }
 function setPhase(phase) {
   APP_STATE.phase = phase;
+  updateKeyboardModeChrome();
+}
+
+function isKeyboardStudyPhase() {
+  return (
+    APP_STATE.currentView === "study" &&
+    APP_STATE.phase === "QUESTION" &&
+    (SETTINGS.mode === "typing_de" ||
+      SETTINGS.mode === "copy" ||
+      TRAINING_MODE_KIND === "cram")
+  );
+}
+
+function updateKeyboardModeChrome() {
+  document.body.classList.toggle("study-keyboard-active", isKeyboardStudyPhase());
 }
 
 function resetSessionReport() {
@@ -5850,6 +5867,10 @@ function hideWordDropReadyMessage() {
   }
 }
 
+function updateWordDropKeyboardChrome(active) {
+  document.body.classList.toggle("word-drop-keyboard-active", !!active);
+}
+
 function beginWordDropGameplay() {
   if (!WORD_DROP_STATE.pendingStart) return;
 
@@ -5858,6 +5879,7 @@ function beginWordDropGameplay() {
   WORD_DROP_STATE.startedAt = Date.now();
   WORD_DROP_STATE.lastFrameAt = 0;
   hideWordDropReadyMessage();
+  updateWordDropKeyboardChrome(true);
 
   setNextWordDropWord();
   WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
@@ -5912,6 +5934,7 @@ function cancelWordDropCountdown() {
     WORD_DROP_STATE.countdownTimerId = null;
   }
   WORD_DROP_STATE.countdownValue = 0;
+  updateWordDropKeyboardChrome(false);
   if (WORD_DROP_STATE.pendingStart && !WORD_DROP_STATE.active) {
     setWordDropReadyMessage(getWordDropTapToStartText());
   }
@@ -6035,13 +6058,65 @@ function formatWordDropResult() {
   return fallback;
 }
 
-function handleWordDropInput() {
-  if (!WORD_DROP_STATE.active || WORD_DROP_STATE.resolving || !DOM.wordDropInput)
-    return;
-  const typed = DOM.wordDropInput.value.trim();
-  if (!typed || typed !== WORD_DROP_STATE.currentText) return;
+function getComparableWordDropInputValue() {
+  if (!DOM.wordDropInput) return "";
+  return DOM.wordDropInput.value.trim().normalize("NFC");
+}
+
+function getComparableWordDropCurrentText() {
+  return (WORD_DROP_STATE.currentText || "").trim().normalize("NFC");
+}
+
+function checkWordDropAnswer() {
+  if (!WORD_DROP_STATE.active || !DOM.wordDropInput) {
+    return false;
+  }
+
+  if (WORD_DROP_STATE.clearUntil && Date.now() < WORD_DROP_STATE.clearUntil) {
+    DOM.wordDropInput.value = "";
+    return false;
+  }
+
+  if (WORD_DROP_STATE.resolving) return false;
+
+  const typed = getComparableWordDropInputValue();
+  const target = getComparableWordDropCurrentText();
+  if (!typed || typed !== target) return false;
+
+  // Korean/Japanese/Chinese IMEs can keep the final character in composition
+  // until Enter/Space. If the visible value already matches, accept it now.
+  WORD_DROP_STATE.composing = false;
+  WORD_DROP_STATE.clearUntil = Date.now() + 260;
+  DOM.wordDropInput.value = "";
+  requestAnimationFrame(() => {
+    if (DOM.wordDropInput && Date.now() < WORD_DROP_STATE.clearUntil) {
+      DOM.wordDropInput.value = "";
+    }
+  });
+  setTimeout(() => {
+    if (DOM.wordDropInput && Date.now() < WORD_DROP_STATE.clearUntil) {
+      DOM.wordDropInput.value = "";
+    }
+  }, 80);
+  setTimeout(() => {
+    if (DOM.wordDropInput && Date.now() < WORD_DROP_STATE.clearUntil) {
+      DOM.wordDropInput.value = "";
+    }
+  }, 180);
 
   completeWordDropItem({ missed: false });
+  return true;
+}
+
+function handleWordDropInput() {
+  checkWordDropAnswer();
+}
+
+function scheduleWordDropAnswerCheck() {
+  checkWordDropAnswer();
+  requestAnimationFrame(checkWordDropAnswer);
+  setTimeout(checkWordDropAnswer, 0);
+  setTimeout(checkWordDropAnswer, 40);
 }
 
 function runWordDropFrame(timestamp) {
@@ -6095,6 +6170,7 @@ function stopWordDrop() {
     WORD_DROP_STATE.rafId = null;
   }
   hideWordDropReadyMessage();
+  updateWordDropKeyboardChrome(false);
 }
 
 function endWordDrop() {
@@ -6108,6 +6184,7 @@ function endWordDrop() {
   if (DOM.wordDropInput) {
     DOM.wordDropInput.value = "";
     DOM.wordDropInput.blur();
+    DOM.wordDropInput.style.display = "none";
   }
   if (DOM.wordDropGameOver) {
     DOM.wordDropGameOver.style.display = "flex";
@@ -6161,6 +6238,8 @@ function startWordDrop() {
   WORD_DROP_STATE.missedCount = 0;
   WORD_DROP_STATE.lane = 1;
   WORD_DROP_STATE.resolving = false;
+  WORD_DROP_STATE.composing = false;
+  WORD_DROP_STATE.clearUntil = 0;
   WORD_DROP_STATE.speed = WORD_DROP_BASE_SPEED;
   WORD_DROP_STATE.startedAt = 0;
   WORD_DROP_STATE.lastFrameAt = 0;
@@ -6176,6 +6255,7 @@ function startWordDrop() {
   }
   if (DOM.wordDropInput) {
     DOM.wordDropInput.value = "";
+    DOM.wordDropInput.style.display = "";
   }
 
   showView("wordDrop");
@@ -7292,6 +7372,14 @@ function getBottomNavView(view) {
 }
 
 function getAppHeaderTitle(view) {
+  if (
+    view === "study" &&
+    TRAINING_MODE_ACTIVE &&
+    TRAINING_MODE_KIND === "cram"
+  ) {
+    return trKey("training.mode_cram", getTrainingModeFallback("cram"));
+  }
+
   const titles = {
     study: trKey("menu.study", "학습"),
     user: trKey("user.title", "홈"),
@@ -7351,6 +7439,13 @@ function showView(view) {
   const prevView = APP_STATE.currentView; // 🔹 이전 뷰 기억
   APP_STATE.currentView = view;
   document.body.classList.toggle("word-drop-active", view === "wordDrop");
+  document.body.classList.toggle(
+    "training-cram-active",
+    view === "study" &&
+      TRAINING_MODE_ACTIVE &&
+      TRAINING_MODE_KIND === "cram",
+  );
+  updateKeyboardModeChrome();
   syncAppViewportHeight();
   updateAppHeader(view);
   updateBottomNavActive(view);
@@ -7428,7 +7523,9 @@ function showView(view) {
     updateTrainingSummaryPreview();
   } else if (view === "wordDrop") {
     syncAppViewportHeight();
-    focusWordDropInput();
+    if (!WORD_DROP_STATE.pendingStart) {
+      focusWordDropInput();
+    }
   }
 }
 
@@ -7682,10 +7779,21 @@ function attachEvents() {
 
   if (DOM.wordDropInput) {
     DOM.wordDropInput.addEventListener("input", handleWordDropInput);
+    DOM.wordDropInput.addEventListener("compositionstart", () => {
+      WORD_DROP_STATE.composing = true;
+    });
+    DOM.wordDropInput.addEventListener("compositionend", () => {
+      WORD_DROP_STATE.composing = false;
+      scheduleWordDropAnswerCheck();
+    });
     DOM.wordDropInput.addEventListener("focus", handleWordDropInputFocus);
     DOM.wordDropInput.addEventListener("blur", () => {
       if (WORD_DROP_STATE.pendingStart && !WORD_DROP_STATE.active) {
         cancelWordDropCountdown();
+        return;
+      }
+      if (WORD_DROP_STATE.active) {
+        updateWordDropKeyboardChrome(false);
         return;
       }
       setTimeout(focusWordDropInput, 0);

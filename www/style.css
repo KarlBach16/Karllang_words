@@ -55,6 +55,7 @@ button:focus-visible,
     width: 100%;
     max-width: 100%;   /* 🔹 기기 폭 전체 사용 - 프레임 제거 */
     margin: 0;         /* 🔹 좌우 여백 제거 */
+    background: #ffffff;
 }
 
 * {
@@ -124,7 +125,7 @@ body {
     align-items: stretch;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
         "Helvetica Neue", Arial, sans-serif;
-    background: var(--color-app-background);
+    background: #ffffff;
     color: var(--color-text-dark);
     overflow: hidden;
 }
@@ -135,7 +136,7 @@ body {
 
     min-height: 100vh;
     min-height: 100dvh; /* iOS 키보드 대응 */
-    background: var(--color-app-background);
+    background: #ffffff;
     border-radius: 0;
     padding: 16px;
     box-shadow: none;
@@ -681,6 +682,10 @@ body {
     background: #eef0f2;
 }
 
+body:not(.word-drop-active) #wordDropView .word-drop-progress {
+    margin-top: 10px;
+}
+
 .word-drop-progress-bar {
     width: 0;
     height: 100%;
@@ -717,6 +722,10 @@ body {
     overflow-wrap: break-word;
     word-break: break-word;
     will-change: transform;
+}
+
+.word-drop-word:empty {
+    display: none;
 }
 
 .word-drop-word.word-drop-hit {
@@ -1938,7 +1947,7 @@ body.word-drop-active #app {
 }
 
 body.word-drop-active .app-main {
-    padding: 0 16px 8px;
+    padding: 0 16px calc(var(--bottom-nav-height) + var(--safe-bottom) + 12px);
     overflow: hidden;
 }
 
@@ -1950,7 +1959,30 @@ body.word-drop-active .word-drop-shell {
     height: 100%;
 }
 
-body.word-drop-active .bottom-nav {
+body.word-drop-active:not(.word-drop-keyboard-active) .word-drop-arena {
+    flex: 0 1 auto;
+    height: min(48vh, 360px);
+}
+
+body.word-drop-keyboard-active .app-main {
+    padding: 0 16px 8px;
+}
+
+body.word-drop-keyboard-active .word-drop-arena {
+    flex: 1;
+}
+
+body.word-drop-keyboard-active .bottom-nav {
+    display: none;
+}
+
+body.study-keyboard-active .app-main,
+body.training-cram-active .app-main {
+    padding-bottom: calc(var(--safe-bottom) + 12px);
+}
+
+body.study-keyboard-active .bottom-nav,
+body.training-cram-active .bottom-nav {
     display: none;
 }
 
