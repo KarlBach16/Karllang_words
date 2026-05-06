@@ -367,7 +367,11 @@ let TRAINING_CRAM_REPEAT_INDEX = 0; // 현재 몇 회째인지 (0-based)
 let TRAINING_CRAM_GIVEUP_ARMED = false;
 const WORD_DROP_STATE = {
   active: false,
+  pendingStart: false,
   rafId: null,
+  startTimerId: null,
+  countdownTimerId: null,
+  countdownValue: 0,
   currentWord: null,
   currentText: "",
   yPosition: 0,
@@ -389,6 +393,7 @@ const WORD_DROP_STATE = {
     bookmarkedWords: [],
   },
 };
+const WORD_DROP_BASE_SPEED = 48;
 const DOM = {};
 
 // ===== UI 언어 메타 정보 =====
@@ -994,6 +999,8 @@ function cacheDOM() {
   DOM.wordDropProgressBar = document.getElementById("wordDropProgressBar");
   DOM.wordDropArena = document.getElementById("wordDropArena");
   DOM.wordDropWord = document.getElementById("wordDropWord");
+  DOM.wordDropReady = document.getElementById("wordDropReady");
+  DOM.wordDropReadyText = document.getElementById("wordDropReadyText");
   DOM.wordDropInput = document.getElementById("wordDropInput");
   DOM.wordDropGameOver = document.getElementById("wordDropGameOver");
   DOM.wordDropEndTitle = document.getElementById("wordDropEndTitle");
@@ -1317,6 +1324,7 @@ const I18N_KEYS = {
   "word_drop.no_missed": "word_drop_no_missed",
   "word_drop.restart": "word_drop_restart",
   "word_drop.review": "word_drop_review",
+  "word_drop.tap_to_start": "word_drop_tap_to_start",
 
   /* ----- 사용자 뷰 ----- */
   "user.title": "user_title",
@@ -5611,12 +5619,82 @@ function dedupeWordsById(words) {
   return result;
 }
 
+function getNormalizedCefrLevel(word) {
+  const level = (word && word.cefr ? word.cefr : "")
+    .toString()
+    .trim()
+    .toUpperCase();
+  return ["A1", "A2", "B1", "B2"].includes(level) ? level : "";
+}
+
+function getWordDropNormalLevels(allWords, statsById) {
+  const selected = (SETTINGS.newWordCefr || "all").toString().toUpperCase();
+  const levels = new Set();
+
+  if (["A1", "A2", "B1", "B2"].includes(selected)) {
+    levels.add(selected);
+  }
+
+  const studiedCountByLevel = {};
+  const recentReviewedByLevel = {};
+
+  allWords.forEach((word) => {
+    const cefr = getNormalizedCefrLevel(word);
+    if (!cefr) return;
+
+    const state = getWordState(word);
+    const stats = statsById[String(word.id)] || {};
+    const totalViews = stats.totalViews || 0;
+    const studied =
+      state.isNew === false ||
+      (state.lastReviewed || 0) > 0 ||
+      totalViews > 0 ||
+      (stats.level || 0) > 0;
+
+    if (!studied) return;
+
+    studiedCountByLevel[cefr] =
+      (studiedCountByLevel[cefr] || 0) + Math.max(1, totalViews);
+
+    if (state.lastReviewed) {
+      recentReviewedByLevel[cefr] = Math.max(
+        recentReviewedByLevel[cefr] || 0,
+        state.lastReviewed,
+      );
+    }
+  });
+
+  const mostStudied = Object.entries(studiedCountByLevel).sort(
+    (a, b) => b[1] - a[1],
+  )[0];
+  if (mostStudied) {
+    levels.add(mostStudied[0]);
+  }
+
+  const mostRecent = Object.entries(recentReviewedByLevel).sort(
+    (a, b) => b[1] - a[1],
+  )[0];
+  if (mostRecent) {
+    levels.add(mostRecent[0]);
+  }
+
+  if (levels.size === 0) {
+    levels.add("A1");
+  }
+
+  return levels;
+}
+
 function buildWordDropPools() {
   const statsById = getWordStatsAll();
   const allWords = dedupeWordsById(
     getAllWords()
       .filter((word) => belongsToCurrentStudyLang(word))
       .filter((word) => getWordDropText(word).length > 0),
+  );
+  const normalLevels = getWordDropNormalLevels(allWords, statsById);
+  const normalWords = allWords.filter((word) =>
+    normalLevels.has(getNormalizedCefrLevel(word)),
   );
 
   const mistakeWords = [];
@@ -5634,6 +5712,7 @@ function buildWordDropPools() {
 
   return {
     allWords,
+    normalWords: normalWords.length > 0 ? normalWords : allWords,
     mistakeWords: dedupeWordsById(mistakeWords),
     bookmarkedWords: dedupeWordsById(bookmarkedWords),
   };
@@ -5647,7 +5726,13 @@ function pickNonRecent(pool, recentIds) {
   return source[Math.floor(Math.random() * source.length)] || null;
 }
 
-function pickWordForDrop({ allWords, mistakeWords, bookmarkedWords, score }) {
+function pickWordForDrop({
+  allWords,
+  normalWords,
+  mistakeWords,
+  bookmarkedWords,
+  score,
+}) {
   if (!allWords || allWords.length === 0) return null;
 
   let ratio;
@@ -5669,7 +5754,9 @@ function pickWordForDrop({ allWords, mistakeWords, bookmarkedWords, score }) {
     poolType = "normal";
   }
 
-  let pool = allWords;
+  const fallbackPool =
+    normalWords && normalWords.length > 0 ? normalWords : allWords;
+  let pool = fallbackPool;
   if (poolType === "mistake" && mistakeWords.length > 0) {
     pool = mistakeWords;
   } else if (poolType === "bookmark" && bookmarkedWords.length > 0) {
@@ -5733,9 +5820,115 @@ function completeWordDropItem({ missed }) {
 }
 
 function focusWordDropInput() {
-  if (!WORD_DROP_STATE.active || !DOM.wordDropInput) return;
+  if (
+    (!WORD_DROP_STATE.active && !WORD_DROP_STATE.pendingStart) ||
+    !DOM.wordDropInput
+  ) {
+    return;
+  }
   syncAppViewportHeight();
   DOM.wordDropInput.focus({ preventScroll: true });
+}
+
+function setWordDropReadyMessage(text, { counting = false } = {}) {
+  if (DOM.wordDropReady) {
+    DOM.wordDropReady.classList.add("is-visible");
+    DOM.wordDropReady.classList.toggle("is-counting", counting);
+  }
+  if (DOM.wordDropReadyText) {
+    DOM.wordDropReadyText.textContent = text;
+  }
+}
+
+function getWordDropTapToStartText() {
+  return trKey("word_drop.tap_to_start", "입력창을 터치하세요");
+}
+
+function hideWordDropReadyMessage() {
+  if (DOM.wordDropReady) {
+    DOM.wordDropReady.classList.remove("is-visible", "is-counting");
+  }
+}
+
+function beginWordDropGameplay() {
+  if (!WORD_DROP_STATE.pendingStart) return;
+
+  WORD_DROP_STATE.pendingStart = false;
+  WORD_DROP_STATE.active = true;
+  WORD_DROP_STATE.startedAt = Date.now();
+  WORD_DROP_STATE.lastFrameAt = 0;
+  hideWordDropReadyMessage();
+
+  setNextWordDropWord();
+  WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
+}
+
+function startWordDropCountdown() {
+  if (WORD_DROP_STATE.startTimerId) {
+    clearTimeout(WORD_DROP_STATE.startTimerId);
+    WORD_DROP_STATE.startTimerId = null;
+  }
+  if (WORD_DROP_STATE.countdownTimerId) return;
+
+  WORD_DROP_STATE.countdownValue = 3;
+  setWordDropReadyMessage(String(WORD_DROP_STATE.countdownValue), {
+    counting: true,
+  });
+
+  WORD_DROP_STATE.countdownTimerId = setInterval(() => {
+    if (!WORD_DROP_STATE.pendingStart) {
+      clearInterval(WORD_DROP_STATE.countdownTimerId);
+      WORD_DROP_STATE.countdownTimerId = null;
+      return;
+    }
+
+    WORD_DROP_STATE.countdownValue -= 1;
+    if (WORD_DROP_STATE.countdownValue > 0) {
+      setWordDropReadyMessage(String(WORD_DROP_STATE.countdownValue), {
+        counting: true,
+      });
+      return;
+    }
+
+    clearInterval(WORD_DROP_STATE.countdownTimerId);
+    WORD_DROP_STATE.countdownTimerId = null;
+    syncAppViewportHeight();
+    beginWordDropGameplay();
+  }, 650);
+}
+
+function prepareWordDropInputFocus() {
+  if (!WORD_DROP_STATE.pendingStart || !DOM.wordDropInput) return;
+  syncAppViewportHeight();
+}
+
+function cancelWordDropCountdown() {
+  if (WORD_DROP_STATE.startTimerId) {
+    clearTimeout(WORD_DROP_STATE.startTimerId);
+    WORD_DROP_STATE.startTimerId = null;
+  }
+  if (WORD_DROP_STATE.countdownTimerId) {
+    clearInterval(WORD_DROP_STATE.countdownTimerId);
+    WORD_DROP_STATE.countdownTimerId = null;
+  }
+  WORD_DROP_STATE.countdownValue = 0;
+  if (WORD_DROP_STATE.pendingStart && !WORD_DROP_STATE.active) {
+    setWordDropReadyMessage(getWordDropTapToStartText());
+  }
+}
+
+function handleWordDropInputFocus() {
+  if (!WORD_DROP_STATE.pendingStart || WORD_DROP_STATE.active) return;
+
+  if (WORD_DROP_STATE.startTimerId) {
+    clearTimeout(WORD_DROP_STATE.startTimerId);
+    WORD_DROP_STATE.startTimerId = null;
+  }
+  WORD_DROP_STATE.startTimerId = setTimeout(() => {
+    WORD_DROP_STATE.startTimerId = null;
+    syncAppViewportHeight();
+    startWordDropCountdown();
+  }, 260);
 }
 
 function setNextWordDropWord() {
@@ -5753,12 +5946,7 @@ function setNextWordDropWord() {
   WORD_DROP_STATE.currentText = getWordDropText(word);
   WORD_DROP_STATE.yPosition = 0;
   WORD_DROP_STATE.lane = Math.floor(Math.random() * 3);
-  WORD_DROP_STATE.speed = Math.min(
-    150,
-    48 +
-      WORD_DROP_STATE.score * 3 +
-      Math.floor((Date.now() - WORD_DROP_STATE.startedAt) / 10000) * 4,
-  );
+  WORD_DROP_STATE.speed = WORD_DROP_BASE_SPEED;
   WORD_DROP_STATE.recentIds.push(String(word.id));
   WORD_DROP_STATE.recentIds = WORD_DROP_STATE.recentIds.slice(-3);
 
@@ -5893,10 +6081,20 @@ function runWordDropFrame(timestamp) {
 
 function stopWordDrop() {
   WORD_DROP_STATE.active = false;
+  WORD_DROP_STATE.pendingStart = false;
+  if (WORD_DROP_STATE.startTimerId) {
+    clearTimeout(WORD_DROP_STATE.startTimerId);
+    WORD_DROP_STATE.startTimerId = null;
+  }
+  if (WORD_DROP_STATE.countdownTimerId) {
+    clearInterval(WORD_DROP_STATE.countdownTimerId);
+    WORD_DROP_STATE.countdownTimerId = null;
+  }
   if (WORD_DROP_STATE.rafId) {
     cancelAnimationFrame(WORD_DROP_STATE.rafId);
     WORD_DROP_STATE.rafId = null;
   }
+  hideWordDropReadyMessage();
 }
 
 function endWordDrop() {
@@ -5950,7 +6148,9 @@ function startWordDrop() {
   TRAINING_MODE_ACTIVE = false;
   TRAINING_MODE_KIND = "none";
 
-  WORD_DROP_STATE.active = true;
+  WORD_DROP_STATE.active = false;
+  WORD_DROP_STATE.pendingStart = true;
+  WORD_DROP_STATE.countdownValue = 0;
   WORD_DROP_STATE.currentWord = null;
   WORD_DROP_STATE.currentText = "";
   WORD_DROP_STATE.yPosition = 0;
@@ -5961,8 +6161,8 @@ function startWordDrop() {
   WORD_DROP_STATE.missedCount = 0;
   WORD_DROP_STATE.lane = 1;
   WORD_DROP_STATE.resolving = false;
-  WORD_DROP_STATE.speed = 48;
-  WORD_DROP_STATE.startedAt = Date.now();
+  WORD_DROP_STATE.speed = WORD_DROP_BASE_SPEED;
+  WORD_DROP_STATE.startedAt = 0;
   WORD_DROP_STATE.lastFrameAt = 0;
   WORD_DROP_STATE.recentIds = [];
   WORD_DROP_STATE.mistakeWords = [];
@@ -5971,14 +6171,17 @@ function startWordDrop() {
   if (DOM.wordDropGameOver) {
     DOM.wordDropGameOver.style.display = "none";
   }
+  if (DOM.wordDropWord) {
+    DOM.wordDropWord.textContent = "";
+  }
   if (DOM.wordDropInput) {
     DOM.wordDropInput.value = "";
   }
 
   showView("wordDrop");
   updateWordDropHud();
-  setNextWordDropWord();
-  WORD_DROP_STATE.rafId = requestAnimationFrame(runWordDropFrame);
+  setWordDropReadyMessage(getWordDropTapToStartText());
+  prepareWordDropInputFocus();
 }
 
 function handleTrainingStart() {
@@ -7479,7 +7682,12 @@ function attachEvents() {
 
   if (DOM.wordDropInput) {
     DOM.wordDropInput.addEventListener("input", handleWordDropInput);
+    DOM.wordDropInput.addEventListener("focus", handleWordDropInputFocus);
     DOM.wordDropInput.addEventListener("blur", () => {
+      if (WORD_DROP_STATE.pendingStart && !WORD_DROP_STATE.active) {
+        cancelWordDropCountdown();
+        return;
+      }
       setTimeout(focusWordDropInput, 0);
     });
   }

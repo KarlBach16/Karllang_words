@@ -60,6 +60,7 @@ start_screen_hint: "",
     word_drop_no_missed: "이번 세션에서 놓친 단어가 없습니다.",
     word_drop_restart: "다시 시작",
     word_drop_review: "복습하기",
+    word_drop_tap_to_start: "입력창을 터치하세요",
 
     /* 사용자 뷰 */
     user_title: "홈",
@@ -237,6 +238,7 @@ en: {
     word_drop_no_missed: "No missed words this session.",
     word_drop_restart: "Restart",
     word_drop_review: "Review",
+    word_drop_tap_to_start: "Tap the input field",
     cram_retry_hint: "Try once more.",
 
     /* 사용자 뷰 */
@@ -417,6 +419,7 @@ de: {
     word_drop_no_missed: "In dieser Sitzung hast du kein Wort verpasst.",
     word_drop_restart: "Neu starten",
     word_drop_review: "Wiederholen",
+    word_drop_tap_to_start: "Tippe auf das Eingabefeld",
 
     /* 사용자 뷰 */
     user_title: "Startseite",
@@ -597,6 +600,7 @@ es: {
     word_drop_no_missed: "No perdiste ninguna palabra en esta sesión.",
     word_drop_restart: "Reiniciar",
     word_drop_review: "Repasar",
+    word_drop_tap_to_start: "Toca el campo de texto",
 
     /* 사용자 뷰 */
     user_title: "Inicio",
@@ -778,6 +782,7 @@ fr: {
     word_drop_no_missed: "Aucun mot manqué dans cette session.",
     word_drop_restart: "Recommencer",
     word_drop_review: "Réviser",
+    word_drop_tap_to_start: "Touche le champ de saisie",
 
     /* 사용자 뷰 */
     user_title: "Accueil",
@@ -955,6 +960,7 @@ it: {
     word_drop_no_missed: "Nessuna parola mancata in questa sessione.",
     word_drop_restart: "Ricomincia",
     word_drop_review: "Ripassa",
+    word_drop_tap_to_start: "Tocca il campo di input",
 
     /* 사용자 뷰 */
     user_title: "Home",
@@ -1132,6 +1138,7 @@ pt: {
     word_drop_no_missed: "Nenhuma palavra perdida nesta sessão.",
     word_drop_restart: "Reiniciar",
     word_drop_review: "Revisar",
+    word_drop_tap_to_start: "Toque no campo de entrada",
 
     /* 사용자 뷰 */
     user_title: "Início",
@@ -1309,6 +1316,7 @@ ja: {
     word_drop_no_missed: "このセッションで見逃した単語はありません。",
     word_drop_restart: "もう一度",
     word_drop_review: "復習する",
+    word_drop_tap_to_start: "入力欄をタップ",
 
     /* 사용자 뷰 */
     user_title: "ホーム",
@@ -1486,6 +1494,7 @@ zh: {
     word_drop_no_missed: "本次训练没有错过的单词。",
     word_drop_restart: "重新开始",
     word_drop_review: "复习",
+    word_drop_tap_to_start: "点击输入框",
 
     /* 사용자 뷰 */
     user_title: "首页",
@@ -1663,6 +1672,7 @@ ru: {
     word_drop_no_missed: "В этой сессии нет пропущенных слов.",
     word_drop_restart: "Начать заново",
     word_drop_review: "Повторить",
+    word_drop_tap_to_start: "Нажмите поле ввода",
     
     /* 사용자 뷰 */
     user_title: "Главная",
