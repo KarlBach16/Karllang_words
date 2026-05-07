@@ -10784,32 +10784,6 @@ const WORDS_RU_B2 = [
     }
   },
   {
-    "id": "ru_2951",
-    "lemma": "сраный",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "빌어먹을",
-      "en": "shitty",
-      "de": "scheiße",
-      "es": "de mierda",
-      "ru": "сраный",
-      "it": "di merda",
-      "pt": "de merda",
-      "ja": "最悪の",
-      "zh": "糟糕的"
-    },
-    "examples": [],
-    "meta": {},
-    "reading": {
-      "ru": "sranyy"
-    }
-  },
-  {
     "id": "ru_2952",
     "lemma": "кинжал",
     "pos": "Nomen",

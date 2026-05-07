@@ -11979,57 +11979,6 @@ const WORDS_PT_A2 = [
     "plural": "ritmos"
   },
   {
-    "id": "pt_1590",
-    "lemma": "puto",
-    "pos": "Adjektiv",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "work"
-    ],
-    "meanings": {
-      "ko": "타락한",
-      "en": "corrupt",
-      "de": "korrupt",
-      "es": "corrupto",
-      "fr": "corrompu",
-      "it": "corrotto",
-      "pt": "puto",
-      "ja": "堕落した",
-      "zh": "腐败的",
-      "ru": "испорченный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "pt_1591",
-    "lemma": "puto",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "소년",
-      "en": "boy",
-      "de": "der Junge",
-      "es": "el chico",
-      "fr": "le garçon",
-      "it": "il ragazzo",
-      "pt": "o puto",
-      "ja": "少年",
-      "zh": "男孩",
-      "ru": "мальчик"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "o",
-    "plural": "putos"
-  },
-  {
     "id": "pt_1592",
     "lemma": "pulso",
     "pos": "Nomen",

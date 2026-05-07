@@ -10365,32 +10365,6 @@ const WORDS_NL_B2 = [
     "plural": "ellebogen"
   },
   {
-    "id": "nl_4940",
-    "lemma": "bullshit",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "헛소리",
-      "en": "nonsense",
-      "de": "der Unsinn",
-      "es": "la tontería",
-      "nl": "de bullshit",
-      "it": "la sciocchezza",
-      "pt": "a bobagem",
-      "ja": "でたらめ",
-      "zh": "胡说",
-      "ru": "чушь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
-  },
-  {
     "id": "nl_4941",
     "lemma": "chemo",
     "pos": "Nomen",

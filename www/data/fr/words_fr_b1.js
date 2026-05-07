@@ -17783,58 +17783,6 @@ const WORDS_FR_B1 = [
     "plural": "correspondances"
   },
   {
-    "id": "fr_4588",
-    "lemma": "chienne",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "bitch",
-      "de": "die Hündin",
-      "es": "la perra",
-      "fr": "la chienne",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "雌犬",
-      "zh": "母狗",
-      "ru": "сука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "chiennes"
-  },
-  {
-    "id": "fr_4589",
-    "lemma": "chienne",
-    "pos": "Adjektiv",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily",
-      "smalltalk"
-    ],
-    "meanings": {
-      "ko": "개 같은",
-      "en": "dog-like",
-      "de": "hündisch",
-      "es": "canina",
-      "fr": "chienne",
-      "it": "canina",
-      "pt": "canina",
-      "ja": "犬のような",
-      "zh": "犬的",
-      "ru": "собачий"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "fr_4590",
     "lemma": "conte",
     "pos": "Nomen",
@@ -18911,56 +18859,6 @@ const WORDS_FR_B1 = [
     "infinitive": "décevoir",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "fr_4633",
-    "lemma": "conne",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "바보",
-      "en": "idiot",
-      "de": "die Idiotin",
-      "es": "la idiota",
-      "fr": "la conne",
-      "it": "l'idiota",
-      "pt": "a idiota",
-      "ja": "馬鹿",
-      "zh": "笨蛋",
-      "ru": "идиотка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "connes"
-  },
-  {
-    "id": "fr_4634",
-    "lemma": "conne",
-    "pos": "Adjektiv",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "멍청한",
-      "en": "stupid",
-      "de": "dumm",
-      "es": "estúpida",
-      "fr": "conne",
-      "it": "stupida",
-      "pt": "estúpida",
-      "ja": "ばかな",
-      "zh": "愚蠢的",
-      "ru": "глупая"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "fr_4635",
@@ -22936,30 +22834,6 @@ const WORDS_FR_B1 = [
       "ja": "酔った",
       "zh": "醉的",
       "ru": "пьяный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "fr_4812",
-    "lemma": "merdique",
-    "pos": "Adjektiv",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "형편없는",
-      "en": "shitty",
-      "de": "mies",
-      "es": "malo",
-      "fr": "merdique",
-      "it": "schifoso",
-      "pt": "ruim",
-      "ja": "ひどい",
-      "zh": "糟糕的",
-      "ru": "дерьмовый"
     },
     "examples": [],
     "meta": {}
@@ -55461,34 +55335,6 @@ const WORDS_FR_B1 = [
     "meta": {},
     "article": "le",
     "plural": "minous"
-  },
-  {
-    "id": "fr_6188",
-    "lemma": "emmerder",
-    "pos": "Verb",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "짜증나게 하다",
-      "en": "annoy",
-      "de": "ärgern",
-      "es": "molestar",
-      "fr": "emmerder",
-      "it": "infastidire",
-      "pt": "aborrecer",
-      "ja": "いらいらさせる",
-      "zh": "惹恼",
-      "ru": "раздражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "emmerder",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "fr_6189",

@@ -3662,34 +3662,6 @@ const WORDS_RU_A1 = [
     }
   },
   {
-    "id": "ru_140",
-    "lemma": "дерьмо",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "ru": "дерьмо",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "クソ",
-      "zh": "狗屎"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*де́рьма",
-    "reading": {
-      "ru": "dermo"
-    }
-  },
-  {
     "id": "ru_141",
     "lemma": "начать",
     "pos": "Verb",
@@ -11318,34 +11290,6 @@ const WORDS_RU_A1 = [
     "plural": "туале́ты",
     "reading": {
       "ru": "tualet"
-    }
-  },
-  {
-    "id": "ru_425",
-    "lemma": "сука",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "bitch",
-      "de": "die Hündin",
-      "es": "la perra",
-      "ru": "сука",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "雌犬",
-      "zh": "母狗"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "су́ки",
-    "reading": {
-      "ru": "suka"
     }
   },
   {

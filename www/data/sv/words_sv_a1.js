@@ -5310,33 +5310,6 @@ const WORDS_SV_A1 = [
     "plural": "ansikten"
   },
   {
-    "id": "sv_220",
-    "lemma": "jävel",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개자식",
-      "en": "son of a bitch",
-      "de": "der Bastard",
-      "es": "el bastardo",
-      "sv": "en jävel",
-      "it": "il bastardo",
-      "pt": "o bastardo",
-      "ja": "ろくでなし",
-      "zh": "狗娘养的",
-      "ru": "ублюдок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "jävlar"
-  },
-  {
     "id": "sv_221",
     "lemma": "allvar",
     "pos": "Nomen",
@@ -13565,33 +13538,6 @@ const WORDS_SV_A1 = [
     "meta": {},
     "article": "en",
     "plural": "dörrar"
-  },
-  {
-    "id": "sv_541",
-    "lemma": "hora",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "매춘부",
-      "en": "whore",
-      "de": "die Hure",
-      "es": "la puta",
-      "sv": "en hora",
-      "it": "la prostituta",
-      "pt": "a prostituta",
-      "ja": "売春婦",
-      "zh": "妓女",
-      "ru": "проститутка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "horor"
   },
   {
     "id": "sv_542",

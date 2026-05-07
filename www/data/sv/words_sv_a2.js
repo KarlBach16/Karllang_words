@@ -10431,32 +10431,6 @@ const WORDS_SV_A2 = [
     "plural": "främlingar"
   },
   {
-    "id": "sv_1031",
-    "lemma": "subba",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "못된 여자",
-      "en": "bitch",
-      "de": "die Zicke",
-      "es": "la arpía",
-      "sv": "en subba",
-      "it": "la stronza",
-      "pt": "a vadia",
-      "ja": "意地悪な女",
-      "zh": "泼妇",
-      "ru": "стерва"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "subbor"
-  },
-  {
     "id": "sv_1032",
     "lemma": "förändring",
     "pos": "Nomen",
@@ -16985,32 +16959,6 @@ const WORDS_SV_A2 = [
     "meta": {},
     "article": "en",
     "plural": "stationer"
-  },
-  {
-    "id": "sv_1279",
-    "lemma": "rövhål",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개자식",
-      "en": "asshole",
-      "de": "das Arschloch",
-      "es": "el imbécil",
-      "sv": "ett rövhål",
-      "it": "lo stronzo",
-      "pt": "o idiota",
-      "ja": "ろくでなし",
-      "zh": "混蛋",
-      "ru": "мудак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "rövhål"
   },
   {
     "id": "sv_1280",

@@ -2160,33 +2160,6 @@ const WORDS_PL_B1 = [
     "plural": "leki"
   },
   {
-    "id": "pl_1256",
-    "lemma": "jebać",
-    "pos": "Verb",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성교하다",
-      "en": "fuck",
-      "de": "ficken",
-      "es": "follar",
-      "pl": "jebać",
-      "it": "fottere",
-      "pt": "foder",
-      "ja": "ファックする",
-      "zh": "干",
-      "ru": "ебать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "jebać",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "pl_1257",
     "lemma": "świętować",
     "pos": "Verb",
@@ -7899,32 +7872,6 @@ const WORDS_PL_B1 = [
     "plural": ""
   },
   {
-    "id": "pl_1491",
-    "lemma": "dupa",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "엉덩이",
-      "en": "butt",
-      "de": "der Arsch",
-      "es": "el culo",
-      "pl": "dupa",
-      "it": "il culo",
-      "pt": "a bunda",
-      "ja": "ケツ",
-      "zh": "屁股",
-      "ru": "задница"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": ""
-  },
-  {
     "id": "pl_1492",
     "lemma": "wybierać",
     "pos": "Verb",
@@ -9123,32 +9070,6 @@ const WORDS_PL_B1 = [
     "meta": {},
     "article": "",
     "plural": "wilki"
-  },
-  {
-    "id": "pl_1537",
-    "lemma": "skurwysyn",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개자식",
-      "en": "bastard",
-      "de": "der Hurensohn",
-      "es": "el cabrón",
-      "pl": "skurwysyn",
-      "it": "il bastardo",
-      "pt": "o filho da puta",
-      "ja": "野郎",
-      "zh": "混蛋",
-      "ru": "сукин сын"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "skurwysyny"
   },
   {
     "id": "pl_1538",

@@ -1093,33 +1093,6 @@ const WORDS_PT_B1 = [
     "meta": {}
   },
   {
-    "id": "pt_2539",
-    "lemma": "cadela",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "bitch",
-      "de": "die Hündin",
-      "es": "la perra",
-      "fr": "la chienne",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "雌犬",
-      "zh": "母狗",
-      "ru": "сука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "a",
-    "plural": "cães"
-  },
-  {
     "id": "pt_2540",
     "lemma": "lucro",
     "pos": "Nomen",

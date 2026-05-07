@@ -10523,32 +10523,6 @@ const WORDS_FR_A2 = [
     "plural": "véhicules"
   },
   {
-    "id": "fr_2178",
-    "lemma": "emmerde",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "골칫거리",
-      "en": "trouble",
-      "de": "der Ärger",
-      "es": "el lío",
-      "fr": "l'emmerde",
-      "it": "il casino",
-      "pt": "a encrenca",
-      "ja": "厄介事",
-      "zh": "麻烦",
-      "ru": "неприятность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": "emmerdes"
-  },
-  {
     "id": "fr_2179",
     "lemma": "estomac",
     "pos": "Nomen",
@@ -21253,32 +21227,6 @@ const WORDS_FR_A2 = [
     "plural": "pannes"
   },
   {
-    "id": "fr_2686",
-    "lemma": "enculé",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개새끼",
-      "en": "asshole",
-      "de": "der Arschloch",
-      "es": "el hijo de puta",
-      "fr": "l'enculé",
-      "it": "il stronzo",
-      "pt": "o filho da puta",
-      "ja": "クソ野郎",
-      "zh": "混蛋",
-      "ru": "мудак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": "enculés"
-  },
-  {
     "id": "fr_2687",
     "lemma": "renvoyer",
     "pos": "Verb",
@@ -23811,32 +23759,6 @@ const WORDS_FR_A2 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "fr_2811",
-    "lemma": "garce",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "갈보",
-      "en": "bitch",
-      "de": "die Schlampe",
-      "es": "la puta",
-      "fr": "la garce",
-      "it": "la stronza",
-      "pt": "a vaca",
-      "ja": "ビッチ",
-      "zh": "贱人",
-      "ru": "стерва"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "garces"
   },
   {
     "id": "fr_2812",

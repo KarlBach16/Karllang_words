@@ -2939,33 +2939,6 @@ const WORDS_FR_A1 = [
     "irregular": null
   },
   {
-    "id": "fr_148",
-    "lemma": "merde",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "fr": "la merde",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "くそ",
-      "zh": "屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "merdes"
-  },
-  {
     "id": "fr_151",
     "lemma": "idée",
     "pos": "Nomen",
@@ -19708,32 +19681,6 @@ const WORDS_FR_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "fr_1092",
-    "lemma": "connard",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "멍청이",
-      "en": "asshole",
-      "de": "der Idiot",
-      "es": "el imbécil",
-      "fr": "le connard",
-      "it": "lo stronzo",
-      "pt": "o idiota",
-      "ja": "馬鹿野郎",
-      "zh": "混蛋",
-      "ru": "мудак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "le",
-    "plural": "connards"
   },
   {
     "id": "fr_1094",

@@ -12418,33 +12418,6 @@ const WORDS_ES_A1 = [
     "plural": "bases"
   },
   {
-    "id": "es_656",
-    "lemma": "perra",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "female dog",
-      "de": "die Hündin",
-      "es": "la perra",
-      "fr": "la chienne",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "メスの犬",
-      "zh": "母狗",
-      "ru": "сука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "perras"
-  },
-  {
     "id": "es_657",
     "lemma": "encuentro",
     "pos": "Nomen",

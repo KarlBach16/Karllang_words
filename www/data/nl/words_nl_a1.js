@@ -11363,33 +11363,6 @@ const WORDS_NL_A1 = [
     "plural": "stommen"
   },
   {
-    "id": "nl_447",
-    "lemma": "shit",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "젠장",
-      "en": "shit",
-      "de": "der Mist",
-      "es": "la mierda",
-      "nl": "de shit",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "くそ",
-      "zh": "狗屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
-  },
-  {
     "id": "nl_448",
     "lemma": "trekken",
     "pos": "Verb",
@@ -15635,33 +15608,6 @@ const WORDS_NL_A1 = [
     "meta": {},
     "article": "de",
     "plural": "sla's"
-  },
-  {
-    "id": "nl_615",
-    "lemma": "lul",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "고추",
-      "en": "dick",
-      "de": "der Schwanz",
-      "es": "el pene",
-      "nl": "de lul",
-      "it": "il cazzo",
-      "pt": "o pau",
-      "ja": "ちんこ",
-      "zh": "鸡巴",
-      "ru": "член"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lullen"
   },
   {
     "id": "nl_616",
@@ -25369,33 +25315,6 @@ const WORDS_NL_A1 = [
     "meta": {},
     "article": "de",
     "plural": "schotten"
-  },
-  {
-    "id": "nl_997",
-    "lemma": "neuken",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성교하다",
-      "en": "fuck",
-      "de": "ficken",
-      "es": "follar",
-      "nl": "neuken",
-      "it": "scopare",
-      "pt": "foder",
-      "ja": "ファックする",
-      "zh": "性交",
-      "ru": "трахаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "neuken",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "nl_998",

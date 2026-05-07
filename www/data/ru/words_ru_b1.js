@@ -9211,34 +9211,6 @@ const WORDS_RU_B1 = [
     }
   },
   {
-    "id": "ru_1770",
-    "lemma": "стерва",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "악녀",
-      "en": "bitch",
-      "de": "die Zicke",
-      "es": "la perra",
-      "ru": "стерва",
-      "it": "la stronza",
-      "pt": "a vadia",
-      "ja": "意地悪な女",
-      "zh": "泼妇"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сте́рвы",
-    "reading": {
-      "ru": "sterva"
-    }
-  },
-  {
     "id": "ru_1771",
     "lemma": "специалист",
     "pos": "Nomen",
@@ -21386,34 +21358,6 @@ const WORDS_RU_B1 = [
     "plural": "мѐстонахожде́ния",
     "reading": {
       "ru": "mestonakhozhdenie"
-    }
-  },
-  {
-    "id": "ru_2285",
-    "lemma": "говно",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "ru": "говно",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "クソ",
-      "zh": "屎"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "го́вна",
-    "reading": {
-      "ru": "govno"
     }
   },
   {

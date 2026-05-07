@@ -111,11 +111,12 @@ start_screen_hint: "",
     study_reminder_label: "학습 알림",
     study_reminder_enabled: "매일 저녁 학습 알림을 보냅니다.",
     study_reminder_denied: "알림 권한이 허용되지 않았습니다.",
+    study_reminder_open_settings: "기기 설정에서 알림을 허용해 주세요.",
     study_reminder_unsupported: "앱에서만 알림을 사용할 수 있습니다.",
     study_reminder_time_label: "알림 시간",
     study_reminder_notification_title: "KarlLang",
     study_reminder_notification_body:
-      "기억은 생각보다 빨리 흐려져요. 오늘 단어를 한 번만 다시 붙잡아보세요.",
+      "기억은 생각보다 빨리 흐려져요. 오늘 배운 단어를 한 번만 다시 떠올려보세요.",
     
     /* 모드 라벨 */
     typing_mode: "타이핑",
@@ -312,6 +313,7 @@ en: {
     study_reminder_label: "Study reminder",
     study_reminder_enabled: "A daily evening reminder is on.",
     study_reminder_denied: "Notification permission was not allowed.",
+    study_reminder_open_settings: "Allow notifications in device settings.",
     study_reminder_unsupported: "Reminders are available only in the app.",
     study_reminder_time_label: "Reminder time",
     study_reminder_notification_title: "KarlLang",
@@ -514,6 +516,8 @@ de: {
     study_reminder_label: "Lernerinnerung",
     study_reminder_enabled: "Die tägliche Erinnerung am Abend ist aktiv.",
     study_reminder_denied: "Benachrichtigungen wurden nicht erlaubt.",
+    study_reminder_open_settings:
+      "Erlaube Benachrichtigungen in den Geräteeinstellungen.",
     study_reminder_unsupported: "Erinnerungen sind nur in der App verfügbar.",
     study_reminder_time_label: "Erinnerungszeit",
     study_reminder_notification_title: "KarlLang",
@@ -717,6 +721,8 @@ es: {
     study_reminder_label: "Recordatorio",
     study_reminder_enabled: "El recordatorio diario de la noche está activo.",
     study_reminder_denied: "No se permitió el permiso de notificaciones.",
+    study_reminder_open_settings:
+      "Activa las notificaciones en los ajustes del dispositivo.",
     study_reminder_unsupported:
       "Los recordatorios solo están disponibles en la app.",
     study_reminder_time_label: "Hora del recordatorio",
@@ -922,6 +928,8 @@ fr: {
     study_reminder_label: "Rappel d’étude",
     study_reminder_enabled: "Le rappel quotidien du soir est activé.",
     study_reminder_denied: "L’autorisation de notification n’a pas été accordée.",
+    study_reminder_open_settings:
+      "Autorisez les notifications dans les réglages de l’appareil.",
     study_reminder_unsupported:
       "Les rappels sont disponibles uniquement dans l’app.",
     study_reminder_time_label: "Heure du rappel",
@@ -1123,6 +1131,8 @@ it: {
     study_reminder_label: "Promemoria",
     study_reminder_enabled: "Il promemoria serale giornaliero è attivo.",
     study_reminder_denied: "Il permesso per le notifiche non è stato concesso.",
+    study_reminder_open_settings:
+      "Consenti le notifiche nelle impostazioni del dispositivo.",
     study_reminder_unsupported:
       "I promemoria sono disponibili solo nell’app.",
     study_reminder_time_label: "Ora promemoria",
@@ -1325,6 +1335,8 @@ pt: {
     study_reminder_label: "Lembrete",
     study_reminder_enabled: "O lembrete diário à noite está ativo.",
     study_reminder_denied: "A permissão de notificações não foi concedida.",
+    study_reminder_open_settings:
+      "Permita notificações nas definições do dispositivo.",
     study_reminder_unsupported:
       "Lembretes estão disponíveis apenas no app.",
     study_reminder_time_label: "Hora do lembrete",
@@ -1526,6 +1538,7 @@ ja: {
     study_reminder_label: "学習リマインダー",
     study_reminder_enabled: "毎晩の学習リマインダーをオンにしました。",
     study_reminder_denied: "通知の許可がありません。",
+    study_reminder_open_settings: "端末の設定で通知を許可してください。",
     study_reminder_unsupported: "リマインダーはアプリでのみ利用できます。",
     study_reminder_time_label: "通知時間",
     study_reminder_notification_title: "KarlLang",
@@ -1726,6 +1739,7 @@ zh: {
     study_reminder_label: "学习提醒",
     study_reminder_enabled: "每日晚间学习提醒已开启。",
     study_reminder_denied: "未允许通知权限。",
+    study_reminder_open_settings: "请在设备设置中允许通知。",
     study_reminder_unsupported: "提醒仅可在应用内使用。",
     study_reminder_time_label: "提醒时间",
     study_reminder_notification_title: "KarlLang",
@@ -1926,6 +1940,8 @@ ru: {
     study_reminder_label: "Напоминание",
     study_reminder_enabled: "Ежедневное вечернее напоминание включено.",
     study_reminder_denied: "Разрешение на уведомления не предоставлено.",
+    study_reminder_open_settings:
+      "Разрешите уведомления в настройках устройства.",
     study_reminder_unsupported:
       "Напоминания доступны только в приложении.",
     study_reminder_time_label: "Время напоминания",

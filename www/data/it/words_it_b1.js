@@ -3802,33 +3802,6 @@ const WORDS_IT_B1 = [
     "meta": {}
   },
   {
-    "id": "it_16446",
-    "lemma": "fottere",
-    "pos": "Verb",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성교하다",
-      "en": "to fuck",
-      "de": "ficken",
-      "es": "follar",
-      "fr": "baiser",
-      "it": "fottere",
-      "pt": "foder",
-      "ja": "性交する",
-      "zh": "性交",
-      "ru": "трахаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fottere",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "it_16447",
     "lemma": "sentiero",
     "pos": "Nomen",
@@ -34320,32 +34293,6 @@ const WORDS_IT_B1 = [
     "meta": {},
     "article": "il",
     "plural": ""
-  },
-  {
-    "id": "it_17941",
-    "lemma": "cagna",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "bitch",
-      "de": "die Hündin",
-      "es": "la perra",
-      "fr": "la chienne",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "雌犬",
-      "zh": "母狗",
-      "ru": "сука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "cagne"
   },
   {
     "id": "it_17942",

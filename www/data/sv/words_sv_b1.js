@@ -25649,33 +25649,6 @@ const WORDS_SV_B1 = [
     "meta": {}
   },
   {
-    "id": "sv_2643",
-    "lemma": "piss",
-    "pos": "Nomen",
-    "cefr": "B1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "오줌",
-      "en": "piss",
-      "de": "der Urin",
-      "es": "el orín",
-      "sv": "ett piss",
-      "it": "la pipì",
-      "pt": "o xixi",
-      "ja": "小便",
-      "zh": "尿",
-      "ru": "моча"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
-  },
-  {
     "id": "sv_2644",
     "lemma": "tråd",
     "pos": "Nomen",

@@ -11420,32 +11420,6 @@ const WORDS_FR_B2 = [
     "plural": "tapettes"
   },
   {
-    "id": "fr_6869",
-    "lemma": "fuck",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "가운데 손가락",
-      "en": "middle finger",
-      "de": "der Mittelfinger",
-      "es": "el dedo corazón",
-      "fr": "le fuck",
-      "it": "il dito medio",
-      "pt": "o dedo do meio",
-      "ja": "中指",
-      "zh": "中指",
-      "ru": "средний палец"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "le",
-    "plural": "fucks"
-  },
-  {
     "id": "fr_6870",
     "lemma": "inoffensif",
     "pos": "Adjektiv",
@@ -42997,33 +42971,6 @@ const WORDS_FR_B2 = [
     "meta": {}
   },
   {
-    "id": "fr_8196",
-    "lemma": "enculer",
-    "pos": "Verb",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "항문 성교하다",
-      "en": "sodomize",
-      "de": "sodomisieren",
-      "es": "sodomizar",
-      "fr": "enculer",
-      "it": "sodomizzare",
-      "pt": "sodomizar",
-      "ja": "ソドミーを行う",
-      "zh": "鸡奸",
-      "ru": "содомизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "enculer",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "fr_8197",
     "lemma": "envolé",
     "pos": "Adjektiv",
@@ -46293,32 +46240,6 @@ const WORDS_FR_B2 = [
     "meta": {},
     "article": "l'",
     "plural": "empoisonnements"
-  },
-  {
-    "id": "fr_8329",
-    "lemma": "shit",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "대마초",
-      "en": "hashish",
-      "de": "der Haschisch",
-      "es": "el hachís",
-      "fr": "le shit",
-      "it": "l'hashish",
-      "pt": "o haxixe",
-      "ja": "ハシシ",
-      "zh": "大麻",
-      "ru": "гашиш"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "le",
-    "plural": ""
   },
   {
     "id": "fr_8330",

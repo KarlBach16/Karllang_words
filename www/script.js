@@ -658,9 +658,20 @@ const NativeLocalNotifications = window.Capacitor
     window.Capacitor.LocalNotifications ||
     null
   : null;
+const NativeImageSaver = window.Capacitor
+  ? (window.Capacitor.Plugins && window.Capacitor.Plugins.NativeImageSaver) ||
+    window.Capacitor.NativeImageSaver ||
+    null
+  : null;
+const NativeAppSettings = window.Capacitor
+  ? (window.Capacitor.Plugins && window.Capacitor.Plugins.NativeAppSettings) ||
+    window.Capacitor.NativeAppSettings ||
+    null
+  : null;
 
 const STUDY_REMINDER_NOTIFICATION_ID = 20260507;
 const DEFAULT_STUDY_REMINDER_TIME = "20:30";
+let APP_LAYOUT_VIEWPORT_HEIGHT = 0;
 
 async function triggerHaptic(type) {
   // 설정에서 끄면 바로 무시
@@ -1376,6 +1387,7 @@ const I18N_KEYS = {
   "settings.reminder.label": "study_reminder_label",
   "settings.reminder.enabled": "study_reminder_enabled",
   "settings.reminder.denied": "study_reminder_denied",
+  "settings.reminder.open_settings": "study_reminder_open_settings",
   "settings.reminder.unsupported": "study_reminder_unsupported",
   "settings.reminder.time_label": "study_reminder_time_label",
   "settings.reminder.notification_title": "study_reminder_notification_title",
@@ -1585,130 +1597,10 @@ function refreshCefrRowLabels() {
   });
 }
 
-// ✅ 학습 시작 요약 문구 (모드 + 목표 + CEFR)
-//    - 화면에는 "READY" 상태에서만 보이게 제한
 function updateStudyStartSummary() {
-  const pack = t() || {};
-
-  // ✅ 훈련소(깜지) 모드에서는 요약 문구를 절대 노출하지 않음
-  //    중요: TRAINING_MODE_ACTIVE가 아직 선언 전일 수도 있으니 typeof로 안전 체크
-  const trainingOn =
-    (typeof TRAINING_MODE_ACTIVE !== "undefined" && TRAINING_MODE_ACTIVE) ||
-    (typeof TRAINING_MODE_KIND !== "undefined" &&
-      TRAINING_MODE_KIND === "cram");
-
-  if (trainingOn) {
-    if (DOM.studySummaryText) {
-      DOM.studySummaryText.textContent = "";
-      DOM.studySummaryText.style.display = "none";
-    }
-    return;
-  }
-
-  const mode = SETTINGS.mode;
-  const cefr = SETTINGS.newWordCefr || "all";
-  const target = SETTINGS.goalTyping || 5;
-  const ui = CURRENT_LANG || "ko";
-
-  // 모드 라벨(번역팩에서 가져옴)
-  let modeLabel;
-  if (mode === "typing_de") {
-    modeLabel = pack.typing_mode || "타이핑";
-  } else if (mode === "copy") {
-    modeLabel = pack.copy_mode || "따라쓰기";
-  } else {
-    modeLabel = pack.card_mode || "카드";
-  }
-
-  // CEFR/레벨 텍스트
-  const cefrText = getCefrDisplayLabel(cefr);
-  const isCjkStudy = isEastAsiaStudy();
-
-  let text = "";
-
-  if (isCjkStudy) {
-    // 🔹 학습 언어가 ko/ja/zh 쪽일 때: "레벨" 계열 텍스트
-    switch (ui) {
-      case "ko":
-        text = `모드: ${modeLabel} · 오늘 목표: ${target}개 · 단어 레벨: ${cefrText}`;
-        break;
-      case "ja":
-        text = `モード: ${modeLabel} · 目標: ${target} · レベル: ${cefrText}`;
-        break;
-      case "zh":
-        text = `模式: ${modeLabel} · 目标: ${target} · 等级: ${cefrText}`;
-        break;
-      case "en":
-        text = `Mode: ${modeLabel} · Goal: ${target} · Level: ${cefrText}`;
-        break;
-      case "de":
-        text = `Modus: ${modeLabel} · Ziel: ${target} · Niveau: ${cefrText}`;
-        break;
-      case "es":
-        text = `Modo: ${modeLabel} · Meta: ${target} · Nivel: ${cefrText}`;
-        break;
-      case "fr":
-        text = `Mode : ${modeLabel} · Objectif : ${target} · Niveau : ${cefrText}`;
-        break;
-      case "it":
-        text = `Modalità: ${modeLabel} · Obiettivo: ${target} · Livello: ${cefrText}`;
-        break;
-      case "pt":
-        text = `Modo: ${modeLabel} · Meta: ${target} · Nível: ${cefrText}`;
-        break;
-      case "ru":
-        text = `Режим: ${modeLabel} · Цель: ${target} · Уровень: ${cefrText}`;
-        break;
-      default:
-        text = `Mode: ${modeLabel} · Goal: ${target} · Level: ${cefrText}`;
-    }
-  } else {
-    // 🔹 학습 언어가 독일어/영어 등일 때: CEFR 그대로
-    switch (ui) {
-      case "ko":
-        text = `모드: ${modeLabel} · 오늘 목표: ${target}개 · CEFR: ${cefrText}`;
-        break;
-      case "en":
-        text = `Mode: ${modeLabel} · Goal: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "de":
-        text = `Modus: ${modeLabel} · Ziel: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "es":
-        text = `Modo: ${modeLabel} · Meta: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "fr":
-        text = `Mode : ${modeLabel} · Objectif : ${target} · CECR : ${cefrText}`;
-        break;
-      case "it":
-        text = `Modalità: ${modeLabel} · Obiettivo: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "pt":
-        text = `Modo: ${modeLabel} · Meta: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "ja":
-        text = `モード: ${modeLabel} · 目標: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "zh":
-        text = `模式: ${modeLabel} · 目标: ${target} · CEFR: ${cefrText}`;
-        break;
-      case "ru":
-        text = `Режим: ${modeLabel} · Цель: ${target} · CEFR: ${cefrText}`;
-        break;
-      default:
-        text = `Mode: ${modeLabel} · Goal: ${target} · CEFR: ${cefrText}`;
-    }
-  }
-
   if (!DOM.studySummaryText) return;
-
-  DOM.studySummaryText.textContent = text;
-
-  if (APP_STATE.phase === "READY") {
-    DOM.studySummaryText.style.display = "block";
-  } else {
-    DOM.studySummaryText.style.display = "none";
-  }
+  DOM.studySummaryText.textContent = "";
+  DOM.studySummaryText.style.display = "none";
 }
 
 function populateUiLangSelect(selectEl) {
@@ -3044,16 +2936,24 @@ function updateStudySettingsVisibility() {
 
 function isKeyboardStudyPhase() {
   return (
-    APP_STATE.currentView === "study" &&
-    APP_STATE.phase === "QUESTION" &&
-    (SETTINGS.mode === "typing_de" ||
-      SETTINGS.mode === "copy" ||
-      TRAINING_MODE_KIND === "cram")
+    (APP_STATE.currentView === "study" &&
+      APP_STATE.phase === "QUESTION" &&
+      (SETTINGS.mode === "typing_de" ||
+        SETTINGS.mode === "copy" ||
+        TRAINING_MODE_KIND === "cram")) ||
+    (APP_STATE.currentView === "search" &&
+      DOM.searchInput &&
+      document.activeElement === DOM.searchInput)
   );
 }
 
 function updateKeyboardModeChrome() {
   document.body.classList.toggle("study-keyboard-active", isKeyboardStudyPhase());
+  document.body.classList.toggle(
+    "study-session-active",
+    APP_STATE.currentView === "study" &&
+      (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER"),
+  );
 }
 
 function updateRuntimeChromeClass() {
@@ -3062,6 +2962,28 @@ function updateRuntimeChromeClass() {
       typeof window.Capacitor.isNativePlatform === "function" &&
       window.Capacitor.isNativePlatform());
   document.body.classList.toggle("native-platform", isNative);
+}
+
+function focusInputWithoutScroll(inputEl) {
+  if (!inputEl || typeof inputEl.focus !== "function") return;
+  try {
+    inputEl.focus({ preventScroll: true });
+  } catch {
+    inputEl.focus();
+  }
+}
+
+function refocusAnswerInputForTyping() {
+  if (
+    APP_STATE.currentView !== "study" ||
+    APP_STATE.phase !== "QUESTION" ||
+    SETTINGS.mode !== "typing_de" ||
+    !DOM.answerInput ||
+    DOM.answerInput.disabled
+  ) {
+    return;
+  }
+  focusInputWithoutScroll(DOM.answerInput);
 }
 
 function isNativePlatform() {
@@ -3133,7 +3055,7 @@ function getStudyReminderNotificationText() {
     title: trKey("settings.reminder.notification_title", "KarlLang"),
     body: trKey(
       "settings.reminder.notification_body",
-      "기억은 생각보다 빨리 흐려져요. 오늘 단어를 한 번만 다시 붙잡아보세요.",
+      "기억은 생각보다 빨리 흐려져요. 오늘 배운 단어를 한 번만 다시 떠올려보세요.",
     ),
   };
 }
@@ -3149,6 +3071,34 @@ async function cancelStudyReminderNotification() {
   }
 }
 
+async function getStudyReminderPermissionDisplay() {
+  if (!isStudyReminderSupported()) return "unsupported";
+  try {
+    const permission = await NativeLocalNotifications.checkPermissions();
+    return permission && permission.display ? permission.display : "prompt";
+  } catch {
+    return "unknown";
+  }
+}
+
+function canOpenNativeAppSettings() {
+  return !!(
+    isNativePlatform() &&
+    NativeAppSettings &&
+    typeof NativeAppSettings.openAppSettings === "function"
+  );
+}
+
+async function openNativeAppSettings() {
+  if (!canOpenNativeAppSettings()) return false;
+  try {
+    await NativeAppSettings.openAppSettings();
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 async function scheduleStudyReminderNotification({ requestPermission = true } = {}) {
   if (!isStudyReminderSupported()) return false;
 
@@ -3156,6 +3106,9 @@ async function scheduleStudyReminderNotification({ requestPermission = true } = 
     let permission = await NativeLocalNotifications.checkPermissions();
     if (permission.display !== "granted" && requestPermission) {
       permission = await NativeLocalNotifications.requestPermissions();
+      if (permission.display !== "granted") {
+        permission = await NativeLocalNotifications.checkPermissions();
+      }
     }
     if (permission.display !== "granted") return false;
 
@@ -3218,11 +3171,28 @@ async function setStudyReminderEnabled(enabled) {
   saveSettings();
   updateStudyReminderToggle();
 
+  if (scheduled) {
+    showSystemToast(
+      trKey("settings.reminder.enabled", "매일 저녁 학습 알림을 보냅니다."),
+    );
+    return;
+  }
+
+  const permissionDisplay = await getStudyReminderPermissionDisplay();
   showSystemToast(
-    scheduled
-      ? trKey("settings.reminder.enabled", "매일 저녁 학습 알림을 보냅니다.")
+    permissionDisplay === "denied"
+      ? trKey(
+          "settings.reminder.open_settings",
+          "기기 설정에서 알림을 허용해 주세요.",
+        )
       : trKey("settings.reminder.denied", "알림 권한이 허용되지 않았습니다."),
   );
+
+  if (permissionDisplay === "denied") {
+    setTimeout(() => {
+      openNativeAppSettings();
+    }, 350);
+  }
 }
 
 function ensureStudyReminderSchedule() {
@@ -3770,7 +3740,7 @@ function showCramQuestion() {
     DOM.answerInput.disabled = false;
     DOM.answerInput.value = "";
     DOM.answerInput.placeholder = "";
-    DOM.answerInput.focus();
+    focusInputWithoutScroll(DOM.answerInput);
   }
 
   // 버튼 / 난이도 영역
@@ -3829,7 +3799,7 @@ function handleCramSubmit() {
 
       inputEl.value = "";
       inputEl.placeholder = "";
-      inputEl.focus();
+      focusInputWithoutScroll(inputEl);
 
       if (DOM.feedback) {
         DOM.feedback.textContent = "";
@@ -3865,7 +3835,7 @@ function handleCramSubmit() {
 
     applyAnswerEffect(false);
 
-    inputEl.focus();
+    focusInputWithoutScroll(inputEl);
     if (value) {
       inputEl.select();
     }
@@ -4065,7 +4035,9 @@ function showNextQuestion() {
         // 모바일에서 키보드 올라오면 화면 튀는 문제 방지:
         // copy 모드에서는 자동 포커스 제거 (타이핑만 자동 포커스)
         if (SETTINGS.mode === "typing_de") {
-          DOM.answerInput.focus();
+          focusInputWithoutScroll(DOM.answerInput);
+          requestAnimationFrame(refocusAnswerInputForTyping);
+          setTimeout(refocusAnswerInputForTyping, 80);
         }
       }
 
@@ -5217,7 +5189,7 @@ function evaluateTypingAnswer(userInput, item) {
       DOM.feedback.textContent = pack.type_answer || "정답을 입력해 주세요.";
     }
     if (DOM.answerInput) {
-      DOM.answerInput.focus();
+      focusInputWithoutScroll(DOM.answerInput);
     }
     return "retry";
   }
@@ -5264,7 +5236,7 @@ function evaluateTypingAnswer(userInput, item) {
   // ---- 작은 헬퍼: 선택 영역 ----
   function selectAll() {
     if (!DOM.answerInput) return;
-    DOM.answerInput.focus();
+    focusInputWithoutScroll(DOM.answerInput);
     DOM.answerInput.setSelectionRange(0, inputNorm.length);
   }
 
@@ -5272,7 +5244,7 @@ function evaluateTypingAnswer(userInput, item) {
     if (!DOM.answerInput) return;
     const firstSpaceIdx = inputNorm.indexOf(" ");
     const end = firstSpaceIdx === -1 ? inputNorm.length : firstSpaceIdx;
-    DOM.answerInput.focus();
+    focusInputWithoutScroll(DOM.answerInput);
     DOM.answerInput.setSelectionRange(0, end);
   }
 
@@ -5285,7 +5257,7 @@ function evaluateTypingAnswer(userInput, item) {
       return;
     }
     const start = firstSpaceIdx + 1;
-    DOM.answerInput.focus();
+    focusInputWithoutScroll(DOM.answerInput);
     DOM.answerInput.setSelectionRange(start, inputNorm.length);
   }
 
@@ -5681,7 +5653,7 @@ function handleConfirm() {
 
     if (!userInput) {
       DOM.feedback.textContent = pack.type_answer || "정답을 입력해 주세요.";
-      DOM.answerInput.focus();
+      focusInputWithoutScroll(DOM.answerInput);
       return;
     }
 
@@ -5702,7 +5674,7 @@ function handleConfirm() {
         "철자를 다시 확인하세요.",
       );
 
-      DOM.answerInput.focus();
+      focusInputWithoutScroll(DOM.answerInput);
       return;
     }
 
@@ -6161,6 +6133,7 @@ function startWordDropCountdown() {
   if (WORD_DROP_STATE.countdownTimerId) return;
 
   WORD_DROP_STATE.countdownValue = 3;
+  updateWordDropKeyboardChrome(true);
   setWordDropReadyMessage(String(WORD_DROP_STATE.countdownValue), {
     counting: true,
   });
@@ -6209,7 +6182,13 @@ function cancelWordDropCountdown() {
 }
 
 function handleWordDropInputFocus() {
-  if (!WORD_DROP_STATE.pendingStart || WORD_DROP_STATE.active) return;
+  if (WORD_DROP_STATE.active) {
+    updateWordDropKeyboardChrome(true);
+    return;
+  }
+  if (!WORD_DROP_STATE.pendingStart) return;
+
+  updateWordDropKeyboardChrome(true);
 
   if (WORD_DROP_STATE.startTimerId) {
     clearTimeout(WORD_DROP_STATE.startTimerId);
@@ -6372,6 +6351,7 @@ function checkWordDropAnswer() {
     }
   }, 180);
 
+  speakGerman(WORD_DROP_STATE.currentText);
   completeWordDropItem({ missed: false });
   return true;
 }
@@ -7146,10 +7126,6 @@ function createShareCardDataUrl(summary = getDailySummary()) {
   ctx.fillStyle = "#f5f6f7";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-  ctx.fillStyle = "#ffffff";
-  roundRectPath(ctx, 72, 72, 936, 1206, 44);
-  ctx.fill();
-
   ctx.fillStyle = "#2962FF";
   roundRectPath(ctx, 128, 112, 824, 4, 2);
   ctx.fill();
@@ -7273,10 +7249,40 @@ function closeShareCardModal() {
   DOM.shareCardOverlay.classList.remove("active");
 }
 
-function downloadShareCardImage() {
+function canUseNativeImageSaver() {
+  return !!(
+    isNativePlatform() &&
+    NativeImageSaver &&
+    typeof NativeImageSaver.saveImage === "function"
+  );
+}
+
+async function saveShareCardImageNative(dataUrl) {
+  if (!canUseNativeImageSaver()) return false;
+  await NativeImageSaver.saveImage({
+    dataUrl,
+    filename: `karllang-${getLocalDateKey()}.png`,
+  });
+  return true;
+}
+
+async function downloadShareCardImage() {
   const dataUrl =
     (SHARE_CARD_CACHE && SHARE_CARD_CACHE.dataUrl) || createShareCardDataUrl();
   if (!dataUrl) return;
+
+  if (canUseNativeImageSaver()) {
+    try {
+      await saveShareCardImageNative(dataUrl);
+      showSystemToast(trKey("summary.share_saved", "이미지를 저장했습니다."));
+      return;
+    } catch (error) {
+      console.warn("Native image save failed", error);
+      showSystemToast(trKey("summary.share_failed", "공유하지 못했습니다."));
+      return;
+    }
+  }
+
   const a = document.createElement("a");
   a.href = dataUrl;
   a.download = `karllang-${getLocalDateKey()}.png`;
@@ -7496,6 +7502,19 @@ function finishWrongPractice() {
   WRONG_PRACTICE_RETURN_VIEW = "study";
   restoreWrongPracticeMode();
   clearStudyWordSetCache();
+
+  if (returnView === "study") {
+    showView("study");
+    setPhase("FINISHED");
+    if (DOM.mainCard) {
+      DOM.mainCard.style.display = "none";
+    }
+    if (DOM.endStatsArea) {
+      DOM.endStatsArea.style.display = "block";
+    }
+    return;
+  }
+
   showReadyState();
   showView(returnView);
 }
@@ -7520,6 +7539,11 @@ function advanceWrongPracticeStep() {
 function startWrongWordsTraining(returnView = "study") {
   const words = APP_STATE.sessionWrongWords || [];
   if (!words.length) return;
+  const safeReturnView =
+    typeof returnView === "string" &&
+    ["study", "training", "wordDrop"].includes(returnView)
+      ? returnView
+      : "study";
 
   TRAINING_MODE_ACTIVE = false;
   TRAINING_MODE_KIND = "none";
@@ -7532,7 +7556,7 @@ function startWrongWordsTraining(returnView = "study") {
 
   WRONG_PRACTICE_ACTIVE = true;
   WRONG_PRACTICE_PREVIOUS_MODE = SETTINGS.mode;
-  WRONG_PRACTICE_RETURN_VIEW = returnView;
+  WRONG_PRACTICE_RETURN_VIEW = safeReturnView;
 
   SETTINGS.mode = "copy";
   hydrateSettingsToUI();
@@ -8182,12 +8206,22 @@ function syncAppViewportHeight() {
   const viewport = window.visualViewport || null;
   const height = viewport && viewport.height ? viewport.height : window.innerHeight;
   const offsetTop = viewport && viewport.offsetTop ? viewport.offsetTop : 0;
+  const isStudyKeyboard =
+    document.body.classList.contains("study-keyboard-active") ||
+    document.body.classList.contains("training-cram-active");
 
   if (height && Number.isFinite(height)) {
     document.documentElement.style.setProperty(
       "--app-viewport-height",
       `${Math.round(height)}px`,
     );
+    if (!isStudyKeyboard || height > APP_LAYOUT_VIEWPORT_HEIGHT) {
+      APP_LAYOUT_VIEWPORT_HEIGHT = Math.max(APP_LAYOUT_VIEWPORT_HEIGHT, height);
+      document.documentElement.style.setProperty(
+        "--app-layout-height",
+        `${Math.round(APP_LAYOUT_VIEWPORT_HEIGHT)}px`,
+      );
+    }
   }
   if (Number.isFinite(offsetTop)) {
     document.documentElement.style.setProperty(
@@ -8524,7 +8558,9 @@ function attachEvents() {
   }
 
   if (DOM.trainWrongBtn) {
-    DOM.trainWrongBtn.addEventListener("click", startWrongWordsTraining);
+    DOM.trainWrongBtn.addEventListener("click", () =>
+      startWrongWordsTraining("study"),
+    );
   }
 
   if (DOM.modeSelect) {
@@ -8666,12 +8702,23 @@ function attachEvents() {
           SETTINGS.studyReminderEnabled = false;
           saveSettings();
           updateStudyReminderToggle();
+          const permissionDisplay = await getStudyReminderPermissionDisplay();
           showSystemToast(
-            trKey(
-              "settings.reminder.denied",
-              "알림 권한이 허용되지 않았습니다.",
-            ),
+            permissionDisplay === "denied"
+              ? trKey(
+                  "settings.reminder.open_settings",
+                  "기기 설정에서 알림을 허용해 주세요.",
+                )
+              : trKey(
+                  "settings.reminder.denied",
+                  "알림 권한이 허용되지 않았습니다.",
+                ),
           );
+          if (permissionDisplay === "denied") {
+            setTimeout(() => {
+              openNativeAppSettings();
+            }, 350);
+          }
         }
       }
     });
@@ -8725,6 +8772,14 @@ function attachEvents() {
 
   if (DOM.searchInput) {
     DOM.searchInput.addEventListener("input", handleSearch);
+    DOM.searchInput.addEventListener("focus", () => {
+      updateKeyboardModeChrome();
+      syncAppViewportHeight();
+    });
+    DOM.searchInput.addEventListener("blur", () => {
+      updateKeyboardModeChrome();
+      syncAppViewportHeight();
+    });
   }
   if (DOM.searchMode) {
     DOM.searchMode.addEventListener("change", handleSearch);

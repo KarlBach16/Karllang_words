@@ -2948,32 +2948,6 @@ const WORDS_PL_A1 = [
     "irregular": null
   },
   {
-    "id": "pl_156",
-    "lemma": "gówno",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "pl": "gówno",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "うんこ",
-      "zh": "屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "gówna"
-  },
-  {
     "id": "pl_157",
     "lemma": "zadzwonić",
     "pos": "Verb",

@@ -6509,32 +6509,6 @@ const WORDS_PL_A2 = [
     "plural": "odbiory"
   },
   {
-    "id": "pl_689",
-    "lemma": "suka",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암캐",
-      "en": "female dog",
-      "de": "die Hündin",
-      "es": "la perra",
-      "pl": "suka",
-      "it": "la cagna",
-      "pt": "a cadela",
-      "ja": "雌犬",
-      "zh": "母狗",
-      "ru": "сука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "suki"
-  },
-  {
     "id": "pl_690",
     "lemma": "ilość",
     "pos": "Nomen",

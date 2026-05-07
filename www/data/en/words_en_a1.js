@@ -42950,33 +42950,6 @@ const WORDS_EN_A1 = [
     "plural": "pockets"
   },
   {
-    "id": "en_1995",
-    "lemma": "pocket",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "주머니에넣다",
-      "en": "put in pocket",
-      "de": "einstecken",
-      "es": "embolsar",
-      "fr": "mettre en poche",
-      "it": "intascare",
-      "pt": "embolsar",
-      "ja": "ポケットに入れる",
-      "zh": "放入口袋",
-      "ru": "класть в карман"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pocket",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "en_1996",
     "lemma": "farm",
     "pos": "Nomen",

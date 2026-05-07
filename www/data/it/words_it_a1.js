@@ -1064,33 +1064,6 @@ const WORDS_IT_A1 = [
     "plural": ""
   },
   {
-    "id": "it_13659",
-    "lemma": "cazzo",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "페니스",
-      "en": "penis",
-      "de": "der Schwanz",
-      "es": "el pene",
-      "fr": "le pénis",
-      "it": "il cazzo",
-      "pt": "o pênis",
-      "ja": "ペニス",
-      "zh": "阴茎",
-      "ru": "член"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "cazzi"
-  },
-  {
     "id": "it_13660",
     "lemma": "giorno",
     "pos": "Nomen",
@@ -3585,33 +3558,6 @@ const WORDS_IT_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "it_13760",
-    "lemma": "merda",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "fr": "la merde",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "クソ",
-      "zh": "屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "merde"
   },
   {
     "id": "it_13761",
@@ -6863,33 +6809,6 @@ const WORDS_IT_A1 = [
     "plural": "mandati"
   },
   {
-    "id": "it_13923",
-    "lemma": "puttana",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "매춘부",
-      "en": "prostitute",
-      "de": "die Prostituierte",
-      "es": "la prostituta",
-      "fr": "la prostituée",
-      "it": "la puttana",
-      "pt": "a prostituta",
-      "ja": "売春婦",
-      "zh": "妓女",
-      "ru": "проститутка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "puttane"
-  },
-  {
     "id": "it_13924",
     "lemma": "inizio",
     "pos": "Nomen",
@@ -9850,58 +9769,6 @@ const WORDS_IT_A1 = [
     },
     "examples": [],
     "meta": {}
-  },
-  {
-    "id": "it_14053",
-    "lemma": "stronzo",
-    "pos": "Adjektiv",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "짜증나는",
-      "en": "annoying",
-      "de": "ärgerlich",
-      "es": "desagradable",
-      "fr": "désagréable",
-      "it": "stronzo",
-      "pt": "irritante",
-      "ja": "嫌な",
-      "zh": "讨厌的",
-      "ru": "раздражающий"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
-    "id": "it_14054",
-    "lemma": "stronzo",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "der Scheiß",
-      "es": "la mierda",
-      "fr": "la merde",
-      "it": "lo stronzo",
-      "pt": "a merda",
-      "ja": "うんち",
-      "zh": "屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": "stronzi"
   },
   {
     "id": "it_14055",
@@ -22205,32 +22072,6 @@ const WORDS_IT_A1 = [
     "plural": ""
   },
   {
-    "id": "it_14592",
-    "lemma": "vaffanculo",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "욕설",
-      "en": "fuck off",
-      "de": "Fick dich",
-      "es": "vete a la mierda",
-      "fr": "va te faire foutre",
-      "it": "il vaffanculo",
-      "pt": "vai se foder",
-      "ja": "くそくらえ",
-      "zh": "去你的",
-      "ru": "пошел на хуй"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "vaffanculi"
-  },
-  {
     "id": "it_14593",
     "lemma": "grandioso",
     "pos": "Adjektiv",
@@ -24136,33 +23977,6 @@ const WORDS_IT_A1 = [
     "meta": {},
     "article": "il",
     "plural": ""
-  },
-  {
-    "id": "it_14687",
-    "lemma": "troia",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "암퇘지",
-      "en": "sow",
-      "de": "die Sau",
-      "es": "la cerda",
-      "fr": "la truie",
-      "it": "la troia",
-      "pt": "a porca",
-      "ja": "雌豚",
-      "zh": "母猪",
-      "ru": "свинья"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "troie"
   },
   {
     "id": "it_14688",

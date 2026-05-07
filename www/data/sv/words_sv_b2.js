@@ -15555,32 +15555,6 @@ const WORDS_SV_B2 = [
     "plural": "nypor"
   },
   {
-    "id": "sv_3492",
-    "lemma": "luder",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "매춘부",
-      "en": "whore",
-      "de": "die Hure",
-      "es": "la puta",
-      "sv": "ett luder",
-      "it": "la puttana",
-      "pt": "a prostituta",
-      "ja": "売春婦",
-      "zh": "妓女",
-      "ru": "шлюха"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "luder"
-  },
-  {
     "id": "sv_3493",
     "lemma": "skärm",
     "pos": "Nomen",
@@ -28194,32 +28168,6 @@ const WORDS_SV_B2 = [
     "meta": {},
     "article": "en",
     "plural": "herdar"
-  },
-  {
-    "id": "sv_4053",
-    "lemma": "knull",
-    "pos": "Nomen",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성관계",
-      "en": "fuck",
-      "de": "der Fick",
-      "es": "el polvo",
-      "sv": "ett knull",
-      "it": "il sesso",
-      "pt": "o sexo",
-      "ja": "性交",
-      "zh": "性交",
-      "ru": "секс"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "knull"
   },
   {
     "id": "sv_4054",
@@ -41188,30 +41136,6 @@ const WORDS_SV_B2 = [
     "meta": {},
     "article": "en",
     "plural": "vandrare"
-  },
-  {
-    "id": "sv_4559",
-    "lemma": "fucking",
-    "pos": "Adjektiv",
-    "cefr": "B2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "빌어먹을",
-      "en": "fucking",
-      "de": "verdammt",
-      "es": "jodido",
-      "sv": "fucking",
-      "it": "fottuto",
-      "pt": "fodido",
-      "ja": "くそ",
-      "zh": "该死的",
-      "ru": "чертов"
-    },
-    "examples": [],
-    "meta": {}
   },
   {
     "id": "sv_4560",

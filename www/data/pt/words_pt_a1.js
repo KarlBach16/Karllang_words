@@ -2011,33 +2011,6 @@ const WORDS_PT_A1 = [
     "plural": "novos"
   },
   {
-    "id": "pt_90",
-    "lemma": "merda",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "똥",
-      "en": "shit",
-      "de": "die Scheiße",
-      "es": "la mierda",
-      "fr": "la merde",
-      "it": "la merda",
-      "pt": "a merda",
-      "ja": "くそ",
-      "zh": "狗屎",
-      "ru": "дерьмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "a",
-    "plural": ""
-  },
-  {
     "id": "pt_91",
     "lemma": "primeiro",
     "pos": "Adjektiv",
@@ -6837,33 +6810,6 @@ const WORDS_PT_A1 = [
     "infinitive": "ligar",
     "reflexive": false,
     "irregular": null
-  },
-  {
-    "id": "pt_296",
-    "lemma": "porra",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "곤봉",
-      "en": "club",
-      "de": "die Keule",
-      "es": "la porra",
-      "fr": "la massue",
-      "it": "la clava",
-      "pt": "a porra",
-      "ja": "棍棒",
-      "zh": "棍棒",
-      "ru": "дубина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "a",
-    "plural": ""
   },
   {
     "id": "pt_297",
@@ -18049,33 +17995,6 @@ const WORDS_PT_A1 = [
     "plural": "malas"
   },
   {
-    "id": "pt_728",
-    "lemma": "foder",
-    "pos": "Verb",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "성교하다",
-      "en": "fuck",
-      "de": "ficken",
-      "es": "joder",
-      "fr": "baiser",
-      "it": "fottere",
-      "pt": "foder",
-      "ja": "セックスする",
-      "zh": "操",
-      "ru": "трахаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "foder",
-    "reflexive": false,
-    "irregular": null
-  },
-  {
     "id": "pt_729",
     "lemma": "leve",
     "pos": "Adjektiv",
@@ -21023,32 +20942,6 @@ const WORDS_PT_A1 = [
     "meta": {},
     "article": "a",
     "plural": ""
-  },
-  {
-    "id": "pt_850",
-    "lemma": "caralho",
-    "pos": "Nomen",
-    "cefr": "A1",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "페니스",
-      "en": "penis",
-      "de": "der Schwanz",
-      "es": "el carajo",
-      "fr": "le pénis",
-      "it": "il pene",
-      "pt": "o caralho",
-      "ja": "ペニス",
-      "zh": "阴茎",
-      "ru": "член"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "o",
-    "plural": "caralhos"
   },
   {
     "id": "pt_853",

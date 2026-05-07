@@ -17429,31 +17429,6 @@ const WORDS_NL_A2 = [
     "plural": "daden"
   },
   {
-    "id": "nl_1810",
-    "lemma": "kut",
-    "pos": "Adjektiv",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "basic",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "끔찍한",
-      "en": "awful",
-      "de": "schrecklich",
-      "es": "horrible",
-      "nl": "kut",
-      "it": "terribile",
-      "pt": "horrível",
-      "ja": "ひどい",
-      "zh": "糟糕的",
-      "ru": "ужасный"
-    },
-    "examples": [],
-    "meta": {}
-  },
-  {
     "id": "nl_1811",
     "lemma": "knop",
     "pos": "Nomen",
@@ -25792,32 +25767,6 @@ const WORDS_NL_A2 = [
     "irregular": null
   },
   {
-    "id": "nl_2139",
-    "lemma": "flikker",
-    "pos": "Nomen",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "개자식",
-      "en": "asshole",
-      "de": "das Arschloch",
-      "es": "el gilipollas",
-      "nl": "de flikker",
-      "it": "lo stronzo",
-      "pt": "o idiota",
-      "ja": "ろくでなし",
-      "zh": "混蛋",
-      "ru": "ублюдок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "flikkers"
-  },
-  {
     "id": "nl_2140",
     "lemma": "schoppen",
     "pos": "Verb",
@@ -25951,33 +25900,6 @@ const WORDS_NL_A2 = [
     "meta": {},
     "article": "de",
     "plural": "koks"
-  },
-  {
-    "id": "nl_2145",
-    "lemma": "hoeren",
-    "pos": "Verb",
-    "cefr": "A2",
-    "tags": [
-      "exam",
-      "daily"
-    ],
-    "meanings": {
-      "ko": "매춘하다",
-      "en": "whore",
-      "de": "prostituieren",
-      "es": "prostituir",
-      "nl": "hoeren",
-      "it": "prostituire",
-      "pt": "prostituir",
-      "ja": "売春する",
-      "zh": "卖淫",
-      "ru": "проституировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hoeren",
-    "reflexive": false,
-    "irregular": null
   },
   {
     "id": "nl_2146",
