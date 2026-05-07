@@ -245,6 +245,8 @@ const DEFAULT_SETTINGS = {
   dataVersion: DATA_VERSION,
   seenOnboarding: false,
   hapticEnabled: true,
+  studyReminderEnabled: false,
+  studyReminderTime: "20:30",
 };
 // ✅ v1: 학습 언어는 독일어/스페인어 노출/허용
 const ENABLE_MULTI_STUDY_LANG = false;
@@ -650,6 +652,15 @@ const NativeHaptics = window.Capacitor
     window.Capacitor.Haptics ||
     null
   : null;
+const NativeLocalNotifications = window.Capacitor
+  ? (window.Capacitor.Plugins &&
+      window.Capacitor.Plugins.LocalNotifications) ||
+    window.Capacitor.LocalNotifications ||
+    null
+  : null;
+
+const STUDY_REMINDER_NOTIFICATION_ID = 20260507;
+const DEFAULT_STUDY_REMINDER_TIME = "20:30";
 
 async function triggerHaptic(type) {
   // 설정에서 끄면 바로 무시
@@ -894,6 +905,7 @@ function cacheDOM() {
   DOM.newWordCefrSelect = document.getElementById("newWordCefrSelect");
   DOM.newWordCategoryLabel = document.getElementById("newWordCategoryLabel");
   DOM.newWordCategorySelect = document.getElementById("newWordCategorySelect");
+  DOM.newWordSetBtn = document.getElementById("newWordSetBtn");
   DOM.attendanceTitle = document.getElementById("attendanceTitle");
   DOM.attendanceWeek = document.getElementById("attendanceWeek");
 
@@ -947,6 +959,14 @@ function cacheDOM() {
   DOM.soundToggleLabel = document.getElementById("soundToggleLabel");
   DOM.hapticToggle = document.getElementById("hapticToggle");
   DOM.hapticToggleLabel = document.getElementById("hapticToggleLabel");
+  DOM.studyReminderToggle = document.getElementById("studyReminderToggle");
+  DOM.studyReminderToggleLabel = document.getElementById(
+    "studyReminderToggleLabel",
+  );
+  DOM.studyReminderTime = document.getElementById("studyReminderTime");
+  DOM.studyReminderTimeLabel = document.getElementById(
+    "studyReminderTimeLabel",
+  );
   DOM.settingsFeedbackBtn = document.getElementById("settingsFeedbackBtn");
 
   // 사용자 뷰 제목/라벨
@@ -1353,6 +1373,13 @@ const I18N_KEYS = {
   "sound.on": "sound_on",
   "sound.off": "sound_off",
   "settings.haptic.label": "haptic_label",
+  "settings.reminder.label": "study_reminder_label",
+  "settings.reminder.enabled": "study_reminder_enabled",
+  "settings.reminder.denied": "study_reminder_denied",
+  "settings.reminder.unsupported": "study_reminder_unsupported",
+  "settings.reminder.time_label": "study_reminder_time_label",
+  "settings.reminder.notification_title": "study_reminder_notification_title",
+  "settings.reminder.notification_body": "study_reminder_notification_body",
 
   /* ----- 시작 화면 / 학습 메인 ----- */
   "common.start": "start",
@@ -1393,6 +1420,8 @@ const I18N_KEYS = {
   "study.category.basic": "category_basic",
   "study.category.travel": "category_travel",
   "study.category.work": "category_work",
+  "study.new_word_set": "new_word_set",
+  "study.new_word_set_ready": "new_word_set_ready",
 
   /* ----- 틀린 단어 / 북마크 / 검색 타이틀 ----- */
   "mistakes.title": "mistakes_title",
@@ -1928,6 +1957,9 @@ function applyTranslations() {
       opt.textContent = getCategoryLabel(v);
     });
   }
+  if (DOM.newWordSetBtn) {
+    DOM.newWordSetBtn.textContent = trKey("study.new_word_set", "새 단어 세트");
+  }
 
   // 모드 선택 옵션
   if (DOM.modeSelect) {
@@ -2223,6 +2255,18 @@ function applyTranslations() {
   // 진동(햅틱) 토글 라벨
   if (DOM.hapticToggleLabel) {
     DOM.hapticToggleLabel.textContent = trKey("settings.haptic.label", "진동");
+  }
+  if (DOM.studyReminderToggleLabel) {
+    DOM.studyReminderToggleLabel.textContent = trKey(
+      "settings.reminder.label",
+      "학습 알림",
+    );
+  }
+  if (DOM.studyReminderTimeLabel) {
+    DOM.studyReminderTimeLabel.textContent = trKey(
+      "settings.reminder.time_label",
+      "알림 시간",
+    );
   }
   if (DOM.settingsFeedbackBtn) {
     DOM.settingsFeedbackBtn.textContent = getFeedbackButtonLabel(
@@ -2854,6 +2898,11 @@ function buildQueue() {
   };
 }
 
+function clearStudyWordSetCache() {
+  LAST_STUDY_WORD_IDS = [];
+  LAST_STUDY_META = { day: null, filterKey: null };
+}
+
 /* ============================================
    ========== 6. STUDY VIEW / QUESTION =========
    ============================================ */
@@ -3013,6 +3062,172 @@ function updateRuntimeChromeClass() {
       typeof window.Capacitor.isNativePlatform === "function" &&
       window.Capacitor.isNativePlatform());
   document.body.classList.toggle("native-platform", isNative);
+}
+
+function isNativePlatform() {
+  return !!(
+    window.Capacitor &&
+    typeof window.Capacitor.isNativePlatform === "function" &&
+    window.Capacitor.isNativePlatform()
+  );
+}
+
+function isStudyReminderSupported() {
+  return isNativePlatform() && !!NativeLocalNotifications;
+}
+
+function normalizeReminderTime(value) {
+  const raw = String(value || "").trim();
+  const match = raw.match(/^(\d{1,2}):(\d{2})$/);
+  if (!match) return DEFAULT_STUDY_REMINDER_TIME;
+
+  const hour = Number(match[1]);
+  const minute = Number(match[2]);
+  if (hour < 0 || hour > 23 || minute < 0 || minute > 59) {
+    return DEFAULT_STUDY_REMINDER_TIME;
+  }
+  return `${String(hour).padStart(2, "0")}:${String(minute).padStart(2, "0")}`;
+}
+
+function formatReminderTimeLabel(time) {
+  const normalized = normalizeReminderTime(time);
+  const [hourRaw, minuteRaw] = normalized.split(":");
+  const hour = Number(hourRaw);
+  const suffix = hour < 12 ? "AM" : "PM";
+  const displayHour = hour % 12 || 12;
+  return `${suffix} ${String(displayHour).padStart(2, "0")}:${minuteRaw}`;
+}
+
+function populateStudyReminderTimeSelect() {
+  if (!DOM.studyReminderTime) return;
+
+  const current = normalizeReminderTime(
+    SETTINGS.studyReminderTime || DEFAULT_STUDY_REMINDER_TIME,
+  );
+  DOM.studyReminderTime.innerHTML = "";
+
+  for (let hour = 0; hour < 24; hour += 1) {
+    for (const minute of [0, 30]) {
+      const value = `${String(hour).padStart(2, "0")}:${String(minute).padStart(
+        2,
+        "0",
+      )}`;
+      const option = document.createElement("option");
+      option.value = value;
+      option.textContent = formatReminderTimeLabel(value);
+      DOM.studyReminderTime.appendChild(option);
+    }
+  }
+
+  DOM.studyReminderTime.value = current;
+}
+
+function getStudyReminderTimeParts() {
+  const time = normalizeReminderTime(SETTINGS.studyReminderTime);
+  const [hour, minute] = time.split(":").map((part) => Number(part));
+  return { hour, minute, time };
+}
+
+function getStudyReminderNotificationText() {
+  return {
+    title: trKey("settings.reminder.notification_title", "KarlLang"),
+    body: trKey(
+      "settings.reminder.notification_body",
+      "기억은 생각보다 빨리 흐려져요. 오늘 단어를 한 번만 다시 붙잡아보세요.",
+    ),
+  };
+}
+
+async function cancelStudyReminderNotification() {
+  if (!isStudyReminderSupported()) return;
+  try {
+    await NativeLocalNotifications.cancel({
+      notifications: [{ id: STUDY_REMINDER_NOTIFICATION_ID }],
+    });
+  } catch {
+    // ignore
+  }
+}
+
+async function scheduleStudyReminderNotification({ requestPermission = true } = {}) {
+  if (!isStudyReminderSupported()) return false;
+
+  try {
+    let permission = await NativeLocalNotifications.checkPermissions();
+    if (permission.display !== "granted" && requestPermission) {
+      permission = await NativeLocalNotifications.requestPermissions();
+    }
+    if (permission.display !== "granted") return false;
+
+    const text = getStudyReminderNotificationText();
+    const reminderTime = getStudyReminderTimeParts();
+    await cancelStudyReminderNotification();
+    await NativeLocalNotifications.schedule({
+      notifications: [
+        {
+          id: STUDY_REMINDER_NOTIFICATION_ID,
+          title: text.title,
+          body: text.body,
+          schedule: {
+            on: {
+              hour: reminderTime.hour,
+              minute: reminderTime.minute,
+            },
+            repeats: true,
+          },
+        },
+      ],
+    });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function updateStudyReminderToggle() {
+  if (!DOM.studyReminderToggle) return;
+  DOM.studyReminderToggle.classList.toggle(
+    "is-on",
+    SETTINGS.studyReminderEnabled === true,
+  );
+}
+
+async function setStudyReminderEnabled(enabled) {
+  if (!isStudyReminderSupported()) {
+    SETTINGS.studyReminderEnabled = false;
+    saveSettings();
+    updateStudyReminderToggle();
+    showSystemToast(
+      trKey("settings.reminder.unsupported", "앱에서만 알림을 사용할 수 있습니다."),
+    );
+    return;
+  }
+
+  if (!enabled) {
+    SETTINGS.studyReminderEnabled = false;
+    saveSettings();
+    updateStudyReminderToggle();
+    await cancelStudyReminderNotification();
+    return;
+  }
+
+  const scheduled = await scheduleStudyReminderNotification({
+    requestPermission: true,
+  });
+  SETTINGS.studyReminderEnabled = scheduled;
+  saveSettings();
+  updateStudyReminderToggle();
+
+  showSystemToast(
+    scheduled
+      ? trKey("settings.reminder.enabled", "매일 저녁 학습 알림을 보냅니다.")
+      : trKey("settings.reminder.denied", "알림 권한이 허용되지 않았습니다."),
+  );
+}
+
+function ensureStudyReminderSchedule() {
+  if (!SETTINGS.studyReminderEnabled || !isStudyReminderSupported()) return;
+  scheduleStudyReminderNotification({ requestPermission: false });
 }
 
 function resetSessionReport() {
@@ -7280,8 +7495,7 @@ function finishWrongPractice() {
   const returnView = WRONG_PRACTICE_RETURN_VIEW || "study";
   WRONG_PRACTICE_RETURN_VIEW = "study";
   restoreWrongPracticeMode();
-  LAST_STUDY_WORD_IDS = [];
-  LAST_STUDY_META = { day: null, filterKey: null };
+  clearStudyWordSetCache();
   showReadyState();
   showView(returnView);
 }
@@ -7863,8 +8077,7 @@ function goToStudyFromNav() {
   TRAINING_CRAM_REPEAT_TOTAL = 3;
 
   if (prevView !== "user") {
-    LAST_STUDY_WORD_IDS = [];
-    LAST_STUDY_META = { day: null, filterKey: null };
+    clearStudyWordSetCache();
   }
 
   showView("study");
@@ -8325,6 +8538,17 @@ function attachEvents() {
     });
   }
 
+  if (DOM.newWordSetBtn) {
+    DOM.newWordSetBtn.addEventListener("click", () => {
+      clearStudyWordSetCache();
+      showReadyState();
+      updateStudyStartSummary();
+      showSystemToast(
+        trKey("study.new_word_set_ready", "다음 시작 때 새 단어 세트를 뽑습니다."),
+      );
+    });
+  }
+
   if (DOM.goalSelectTyping) {
     DOM.goalSelectTyping.addEventListener("change", () => {
       const v = parseInt(DOM.goalSelectTyping.value, 10) || 5;
@@ -8334,8 +8558,7 @@ function attachEvents() {
       updateStudyStartSummary();
 
       // 🔹 판 갈아엎는 행위 → 세트 리셋
-      LAST_STUDY_WORD_IDS = [];
-      LAST_STUDY_META = { day: null, filterKey: null };
+      clearStudyWordSetCache();
 
       if (APP_STATE.phase !== "READY") {
         showReadyState();
@@ -8352,8 +8575,7 @@ function attachEvents() {
       updateStudyStartSummary();
 
       // 🔹 마찬가지로 세트 리셋
-      LAST_STUDY_WORD_IDS = [];
-      LAST_STUDY_META = { day: null, filterKey: null };
+      clearStudyWordSetCache();
 
       if (APP_STATE.phase !== "READY") {
         showReadyState();
@@ -8369,8 +8591,7 @@ function attachEvents() {
       updateStudyStartSummary();
 
       // 🔹 다른 레벨 공부하겠다는 뜻 → 세트 리셋
-      LAST_STUDY_WORD_IDS = [];
-      LAST_STUDY_META = { day: null, filterKey: null };
+      clearStudyWordSetCache();
 
       if (APP_STATE.phase !== "READY") {
         showReadyState();
@@ -8385,8 +8606,7 @@ function attachEvents() {
       updateStudyStartSummary();
 
       // 🔹 다른 카테고리 → 세트 리셋
-      LAST_STUDY_WORD_IDS = [];
-      LAST_STUDY_META = { day: null, filterKey: null };
+      clearStudyWordSetCache();
 
       if (APP_STATE.phase !== "READY") {
         showReadyState();
@@ -8421,6 +8641,39 @@ function attachEvents() {
       }
 
       DOM.hapticToggle.classList.toggle("is-on", SETTINGS.hapticEnabled);
+    });
+  }
+
+  if (DOM.studyReminderToggle) {
+    DOM.studyReminderToggle.addEventListener("click", () => {
+      setStudyReminderEnabled(SETTINGS.studyReminderEnabled !== true);
+    });
+  }
+
+  if (DOM.studyReminderTime) {
+    DOM.studyReminderTime.addEventListener("change", async () => {
+      SETTINGS.studyReminderTime = normalizeReminderTime(
+        DOM.studyReminderTime.value,
+      );
+      DOM.studyReminderTime.value = SETTINGS.studyReminderTime;
+      saveSettings();
+
+      if (SETTINGS.studyReminderEnabled === true) {
+        const scheduled = await scheduleStudyReminderNotification({
+          requestPermission: false,
+        });
+        if (!scheduled) {
+          SETTINGS.studyReminderEnabled = false;
+          saveSettings();
+          updateStudyReminderToggle();
+          showSystemToast(
+            trKey(
+              "settings.reminder.denied",
+              "알림 권한이 허용되지 않았습니다.",
+            ),
+          );
+        }
+      }
     });
   }
 
@@ -8566,6 +8819,14 @@ function hydrateSettingsToUI() {
       DOM.hapticToggle.classList.remove("is-on");
     }
   }
+  SETTINGS.studyReminderTime = normalizeReminderTime(
+    SETTINGS.studyReminderTime,
+  );
+  populateStudyReminderTimeSelect();
+  if (DOM.studyReminderTime) {
+    DOM.studyReminderTime.value = SETTINGS.studyReminderTime;
+  }
+  updateStudyReminderToggle();
 }
 
 function ensureMasteryMainBtn() {
@@ -8604,6 +8865,7 @@ function init() {
   if (DOM.settingsUiLang) {
     populateUiLangSelect(DOM.settingsUiLang);
   }
+  populateStudyReminderTimeSelect();
 
   hydrateSettingsToUI();
   ensureMasteryMainBtn();
@@ -8614,6 +8876,7 @@ function init() {
   applyTranslations();
   updateCefrProgress();
   updateStudyStartSummary();
+  ensureStudyReminderSchedule();
 }
 
 // ===== 인트로 / 시작 화면 + 초기화 제어 =====

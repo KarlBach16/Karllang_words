@@ -212,6 +212,12 @@
                 <option value="B2">B2</option>
             </select>
         </div>
+
+        <div class="study-settings-action">
+            <button id="newWordSetBtn" class="btn study-new-set-btn" type="button">
+                새 단어 세트
+            </button>
+        </div>
     </div>
     <div id="systemToast" class="system-toast" aria-live="polite"></div>
 
@@ -508,6 +514,20 @@
                                 <div class="toggle-knob"></div>
                             </div>
                         </button>
+                    </div>
+
+                    <div class="control-group">
+                        <label id="studyReminderToggleLabel">학습 알림</label>
+                        <button type="button" id="studyReminderToggle" class="toggle-switch">
+                            <div class="toggle-track">
+                                <div class="toggle-knob"></div>
+                            </div>
+                        </button>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="studyReminderTime" id="studyReminderTimeLabel">알림 시간</label>
+                        <select id="studyReminderTime"></select>
                     </div>
                 </div>
 

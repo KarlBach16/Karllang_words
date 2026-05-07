@@ -1329,6 +1329,26 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
     margin: 12px 0 0;
 }
 
+.study-settings-action {
+    padding: 10px 0 12px;
+}
+
+.study-new-set-btn {
+    width: 100%;
+    min-height: 38px;
+    padding: 9px 12px;
+    border: 1px solid rgba(41, 98, 255, 0.28);
+    background: #ffffff;
+    color: var(--color-secondary);
+    box-shadow: none;
+    font-size: 14px;
+    font-weight: 750;
+}
+
+.study-new-set-btn:active {
+    box-shadow: none;
+}
+
 /* ===== 출석 카드 ===== */
 .attendance-card {
     width: 100%;

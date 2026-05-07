@@ -84,6 +84,8 @@ start_screen_hint: "",
     category_basic: "기초",
     category_travel: "여행",
     category_work: "직장",
+    new_word_set: "새 단어 세트",
+    new_word_set_ready: "다음 시작 때 새 단어 세트를 뽑습니다.",
     study_lang_en: "영어",
     study_lang_ko: "한국어",
     study_lang_de: "독일어",
@@ -106,6 +108,14 @@ start_screen_hint: "",
     settings_study_lang_label: "학습 언어",
     sound_label: "사운드",
     haptic_label: "진동",
+    study_reminder_label: "학습 알림",
+    study_reminder_enabled: "매일 저녁 학습 알림을 보냅니다.",
+    study_reminder_denied: "알림 권한이 허용되지 않았습니다.",
+    study_reminder_unsupported: "앱에서만 알림을 사용할 수 있습니다.",
+    study_reminder_time_label: "알림 시간",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "기억은 생각보다 빨리 흐려져요. 오늘 단어를 한 번만 다시 붙잡아보세요.",
     
     /* 모드 라벨 */
     typing_mode: "타이핑",
@@ -275,6 +285,8 @@ en: {
     category_basic: "Basic",
     category_travel: "Travel",
     category_work: "Work",
+    new_word_set: "New word set",
+    new_word_set_ready: "A new word set will be picked on the next start.",
     study_lang_en: "English",
     study_lang_ko: "Korean",
     study_lang_de: "German",
@@ -297,6 +309,14 @@ en: {
     settings_study_lang_label: "Study language",
     sound_label: "Sound",
     haptic_label: "Vibration",
+    study_reminder_label: "Study reminder",
+    study_reminder_enabled: "A daily evening reminder is on.",
+    study_reminder_denied: "Notification permission was not allowed.",
+    study_reminder_unsupported: "Reminders are available only in the app.",
+    study_reminder_time_label: "Reminder time",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "Memory fades faster than you think. Keep one word alive today.",
     
     /* 모드 */
     typing_mode: "Typing",
@@ -467,6 +487,8 @@ de: {
     category_basic: "Grundwortschatz",
     category_travel: "Reise",
     category_work: "Arbeit",
+    new_word_set: "Neues Wortset",
+    new_word_set_ready: "Beim nächsten Start wird ein neues Wortset gewählt.",
     study_lang_en: "Englisch",
     study_lang_ko: "Koreanisch",
     study_lang_de: "Deutsch",
@@ -489,6 +511,14 @@ de: {
     settings_study_lang_label: "Lernsprache",
     sound_label: "Ton",
     haptic_label: "Vibration",
+    study_reminder_label: "Lernerinnerung",
+    study_reminder_enabled: "Die tägliche Erinnerung am Abend ist aktiv.",
+    study_reminder_denied: "Benachrichtigungen wurden nicht erlaubt.",
+    study_reminder_unsupported: "Erinnerungen sind nur in der App verfügbar.",
+    study_reminder_time_label: "Erinnerungszeit",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "Erinnerungen verblassen schneller, als du denkst. Halte heute ein Wort fest.",
     
     /* 모드 */
     typing_mode: "Tippen",
@@ -660,6 +690,8 @@ es: {
     category_basic: "Básico",
     category_travel: "Viaje",
     category_work: "Trabajo",
+    new_word_set: "Nuevo grupo de palabras",
+    new_word_set_ready: "Se elegirá un nuevo grupo de palabras al iniciar.",
     study_lang_en: "Inglés",
     study_lang_ko: "Coreano",
     study_lang_de: "Alemán",
@@ -682,6 +714,15 @@ es: {
     settings_study_lang_label: "Idioma de estudio",
     sound_label: "Sonido",
     haptic_label: "Vibración",
+    study_reminder_label: "Recordatorio",
+    study_reminder_enabled: "El recordatorio diario de la noche está activo.",
+    study_reminder_denied: "No se permitió el permiso de notificaciones.",
+    study_reminder_unsupported:
+      "Los recordatorios solo están disponibles en la app.",
+    study_reminder_time_label: "Hora del recordatorio",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "La memoria se desvanece más rápido de lo que crees. Conserva una palabra hoy.",
     
     /* 모드 */
     typing_mode: "Escribir",
@@ -854,6 +895,8 @@ fr: {
     category_basic: "De base",
     category_travel: "Voyage",
     category_work: "Travail",
+    new_word_set: "Nouveau lot de mots",
+    new_word_set_ready: "Un nouveau lot de mots sera choisi au prochain départ.",
     study_lang_en: "Anglais",
     study_lang_ko: "Coréen",
     study_lang_de: "Allemand",
@@ -876,6 +919,15 @@ fr: {
     settings_study_lang_label: "Langue d’étude",
     sound_label: "Son",
     haptic_label: "Vibrations",
+    study_reminder_label: "Rappel d’étude",
+    study_reminder_enabled: "Le rappel quotidien du soir est activé.",
+    study_reminder_denied: "L’autorisation de notification n’a pas été accordée.",
+    study_reminder_unsupported:
+      "Les rappels sont disponibles uniquement dans l’app.",
+    study_reminder_time_label: "Heure du rappel",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "La mémoire s’efface plus vite qu’on ne le pense. Garde un mot vivant aujourd’hui.",
 
     /* 모드 */
     typing_mode: "Saisie",
@@ -1044,6 +1096,8 @@ it: {
     category_basic: "Base",
     category_travel: "Viaggio",
     category_work: "Lavoro",
+    new_word_set: "Nuovo set di parole",
+    new_word_set_ready: "Al prossimo avvio verrà scelto un nuovo set di parole.",
     study_lang_en: "Inglese",
     study_lang_ko: "Coreano",
     study_lang_de: "Tedesco",
@@ -1066,6 +1120,15 @@ it: {
     settings_study_lang_label: "Lingua di studio",
     sound_label: "Suono",
     haptic_label: "Vibrazione",
+    study_reminder_label: "Promemoria",
+    study_reminder_enabled: "Il promemoria serale giornaliero è attivo.",
+    study_reminder_denied: "Il permesso per le notifiche non è stato concesso.",
+    study_reminder_unsupported:
+      "I promemoria sono disponibili solo nell’app.",
+    study_reminder_time_label: "Ora promemoria",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "La memoria svanisce più in fretta di quanto pensi. Tieni viva una parola oggi.",
 
     /* 모드 */
     typing_mode: "Scrittura",
@@ -1234,6 +1297,9 @@ pt: {
     category_basic: "Básico",
     category_travel: "Viagem",
     category_work: "Trabalho",
+    new_word_set: "Novo conjunto de palavras",
+    new_word_set_ready:
+      "Um novo conjunto de palavras será escolhido no próximo início.",
     study_lang_en: "Inglês",
     study_lang_ko: "Coreano",
     study_lang_de: "Alemão",
@@ -1256,6 +1322,15 @@ pt: {
     settings_study_lang_label: "Idioma de estudo",
     sound_label: "Som",
     haptic_label: "Vibração",
+    study_reminder_label: "Lembrete",
+    study_reminder_enabled: "O lembrete diário à noite está ativo.",
+    study_reminder_denied: "A permissão de notificações não foi concedida.",
+    study_reminder_unsupported:
+      "Lembretes estão disponíveis apenas no app.",
+    study_reminder_time_label: "Hora do lembrete",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "A memória desaparece mais rápido do que parece. Mantenha uma palavra viva hoje.",
 
     /* 모드 */
     typing_mode: "Digitação",
@@ -1424,6 +1499,8 @@ ja: {
     category_basic: "基礎",
     category_travel: "旅行",
     category_work: "仕事",
+    new_word_set: "新しい単語セット",
+    new_word_set_ready: "次の開始時に新しい単語セットを選びます。",
     study_lang_en: "英語",
     study_lang_ko: "韓国語",
     study_lang_de: "ドイツ語",
@@ -1446,6 +1523,14 @@ ja: {
     settings_study_lang_label: "学習言語",
     sound_label: "サウンド",
     haptic_label: "バイブレーション",
+    study_reminder_label: "学習リマインダー",
+    study_reminder_enabled: "毎晩の学習リマインダーをオンにしました。",
+    study_reminder_denied: "通知の許可がありません。",
+    study_reminder_unsupported: "リマインダーはアプリでのみ利用できます。",
+    study_reminder_time_label: "通知時間",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "記憶は思ったより早く薄れます。今日も単語をひとつ思い出しましょう。",
 
     /* 모드 */
     typing_mode: "タイピング",
@@ -1614,6 +1699,8 @@ zh: {
     category_basic: "基础",
     category_travel: "旅行",
     category_work: "工作",
+    new_word_set: "新单词组",
+    new_word_set_ready: "下次开始时会选择新的单词组。",
     study_lang_en: "英语",
     study_lang_ko: "韩语",
     study_lang_de: "德语",
@@ -1636,6 +1723,14 @@ zh: {
     settings_study_lang_label: "学习语言",
     sound_label: "声音",
     haptic_label: "振动",
+    study_reminder_label: "学习提醒",
+    study_reminder_enabled: "每日晚间学习提醒已开启。",
+    study_reminder_denied: "未允许通知权限。",
+    study_reminder_unsupported: "提醒仅可在应用内使用。",
+    study_reminder_time_label: "提醒时间",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "记忆消退得比想象更快。今天再留住一个单词吧。",
     
     /* 모드 */
     typing_mode: "输入",
@@ -1804,6 +1899,8 @@ ru: {
     category_basic: "Базовое",
     category_travel: "Путешествия",
     category_work: "Работа",
+    new_word_set: "Новый набор слов",
+    new_word_set_ready: "При следующем старте будет выбран новый набор слов.",
     study_lang_en: "Английский",
     study_lang_ko: "Корейский",
     study_lang_de: "Немецкий",
@@ -1826,6 +1923,15 @@ ru: {
     settings_study_lang_label: "Язык обучения",
     sound_label: "Звук",
     haptic_label: "Вибрация",
+    study_reminder_label: "Напоминание",
+    study_reminder_enabled: "Ежедневное вечернее напоминание включено.",
+    study_reminder_denied: "Разрешение на уведомления не предоставлено.",
+    study_reminder_unsupported:
+      "Напоминания доступны только в приложении.",
+    study_reminder_time_label: "Время напоминания",
+    study_reminder_notification_title: "KarlLang",
+    study_reminder_notification_body:
+      "Память тускнеет быстрее, чем кажется. Удержи сегодня хотя бы одно слово.",
     
     /* 모드 */
     typing_mode: "Ввод",
