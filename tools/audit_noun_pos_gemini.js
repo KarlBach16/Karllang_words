@@ -20,8 +20,8 @@ const ALLOWED_POS = [
 const ARTICLE_PREFIXES = {
   de: /^(der|die|das)\s+/i,
   es: /^(el|la|lo|los|las)\s+|^tod[ao]s?\s+(el|la|los|las)\s+/i,
-  fr: /^(le|la|les)\s+|^l['’]\S|^tout(?:e|es|s)?\s+(le|la|les)\s+/i,
-  it: /^(il|lo|la|i|gli|le)\s+|^l['’]\S|^tutt[oaie]?\s+(il|lo|la|i|gli|le)\s+/i,
+  fr: /^(le|la|les)\s+(?!l['’])|^l['’]\S|^tout(?:e|es|s)?\s+(le|la|les)\s+/i,
+  it: /^(il|lo|la|i|gli|le)\s+(?!l['’])|^l['’]\S|^tutt[oaie]?\s+(il|lo|la|i|gli|le)\s+/i,
   pt: /^(o|a|os|as)\s+|^tod[ao]s?\s+(o|a|os|as)\s+/i,
 };
 

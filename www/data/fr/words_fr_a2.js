@@ -30182,7 +30182,7 @@ const WORDS_FR_A2 = [
       "en": "heritage",
       "de": "das Erbe",
       "es": "la herencia",
-      "fr": "le l'héritage",
+      "fr": "l'héritage",
       "it": "l'eredità",
       "pt": "a herança",
       "ja": "遺産",

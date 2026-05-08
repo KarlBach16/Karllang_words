@@ -4596,7 +4596,7 @@ const WORDS_SV_B2 = [
     "meanings": {
       "ko": "바로 그",
       "en": "the very",
-      "de": "der die das",
+      "de": "eben jener",
       "es": "el mismo",
       "sv": "självaste",
       "it": "il medesimo",
