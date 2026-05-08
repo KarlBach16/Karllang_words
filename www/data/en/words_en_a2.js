@@ -2,6 +2,7 @@
 const WORDS_EN_A2 = [
   {
     "id": "en_2075",
+    "lang": "en",
     "lemma": "scare",
     "pos": "Verb",
     "cefr": "A2",
@@ -21,15 +22,11 @@ const WORDS_EN_A2 = [
       "ja": "驚かす",
       "zh": "吓唬",
       "ru": "пугать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2076",
+    "lang": "en",
     "lemma": "scare",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50,12 +47,11 @@ const WORDS_EN_A2 = [
       "zh": "惊吓",
       "ru": "испуг"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scares"
   },
   {
     "id": "en_2077",
+    "lang": "en",
     "lemma": "pleased",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -75,12 +71,11 @@ const WORDS_EN_A2 = [
       "ja": "満足した",
       "zh": "满意的",
       "ru": "доволен"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2078",
+    "lang": "en",
     "lemma": "period",
     "pos": "Nomen",
     "cefr": "A2",
@@ -101,12 +96,11 @@ const WORDS_EN_A2 = [
       "zh": "时期",
       "ru": "период"
     },
-    "examples": [],
-    "meta": {},
     "plural": "periods"
   },
   {
     "id": "en_2079",
+    "lang": "en",
     "lemma": "political",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -125,12 +119,11 @@ const WORDS_EN_A2 = [
       "ja": "政治的な",
       "zh": "政治的",
       "ru": "политический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2080",
+    "lang": "en",
     "lemma": "player",
     "pos": "Nomen",
     "cefr": "A2",
@@ -151,12 +144,11 @@ const WORDS_EN_A2 = [
       "zh": "运动员",
       "ru": "игрок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "players"
   },
   {
     "id": "en_2082",
+    "lang": "en",
     "lemma": "repeat",
     "pos": "Verb",
     "cefr": "A2",
@@ -176,15 +168,11 @@ const WORDS_EN_A2 = [
       "ja": "繰り返す",
       "zh": "重复",
       "ru": "повторять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "repeat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2083",
+    "lang": "en",
     "lemma": "repeat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -204,12 +192,11 @@ const WORDS_EN_A2 = [
       "zh": "重复",
       "ru": "повторение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "repeats"
   },
   {
     "id": "en_2085",
+    "lang": "en",
     "lemma": "statement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -229,12 +216,11 @@ const WORDS_EN_A2 = [
       "zh": "陈述",
       "ru": "заявление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "statements"
   },
   {
     "id": "en_2086",
+    "lang": "en",
     "lemma": "suck",
     "pos": "Verb",
     "cefr": "A2",
@@ -254,15 +240,11 @@ const WORDS_EN_A2 = [
       "ja": "吸う",
       "zh": "吸",
       "ru": "сосать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "suck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2087",
+    "lang": "en",
     "lemma": "younger",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -282,12 +264,11 @@ const WORDS_EN_A2 = [
       "ja": "より若い",
       "zh": "更年轻的",
       "ru": "моложе"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2090",
+    "lang": "en",
     "lemma": "delicious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -307,12 +288,11 @@ const WORDS_EN_A2 = [
       "ja": "おいしい",
       "zh": "美味的",
       "ru": "вкусный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2091",
+    "lang": "en",
     "lemma": "particular",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -331,12 +311,11 @@ const WORDS_EN_A2 = [
       "ja": "特定の",
       "zh": "特定的",
       "ru": "особый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2093",
+    "lang": "en",
     "lemma": "proper",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -356,12 +335,11 @@ const WORDS_EN_A2 = [
       "ja": "正しい",
       "zh": "正确的",
       "ru": "правильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2094",
+    "lang": "en",
     "lemma": "bath",
     "pos": "Nomen",
     "cefr": "A2",
@@ -382,12 +360,11 @@ const WORDS_EN_A2 = [
       "zh": "浴缸",
       "ru": "ванна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "baths"
   },
   {
     "id": "en_2095",
+    "lang": "en",
     "lemma": "bath",
     "pos": "Verb",
     "cefr": "A2",
@@ -406,15 +383,11 @@ const WORDS_EN_A2 = [
       "ja": "入浴させる",
       "zh": "洗澡",
       "ru": "купать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bath",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2096",
+    "lang": "en",
     "lemma": "site",
     "pos": "Nomen",
     "cefr": "A2",
@@ -435,12 +408,11 @@ const WORDS_EN_A2 = [
       "zh": "地点",
       "ru": "место"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sites"
   },
   {
     "id": "en_2097",
+    "lang": "en",
     "lemma": "site",
     "pos": "Verb",
     "cefr": "A2",
@@ -459,15 +431,11 @@ const WORDS_EN_A2 = [
       "ja": "配置する",
       "zh": "放置",
       "ru": "размещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "site",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2098",
+    "lang": "en",
     "lemma": "knowledge",
     "pos": "Nomen",
     "cefr": "A2",
@@ -487,12 +455,11 @@ const WORDS_EN_A2 = [
       "zh": "知识",
       "ru": "знание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "knowledges"
   },
   {
     "id": "en_2100",
+    "lang": "en",
     "lemma": "celebrate",
     "pos": "Verb",
     "cefr": "A2",
@@ -512,15 +479,11 @@ const WORDS_EN_A2 = [
       "ja": "祝う",
       "zh": "庆祝",
       "ru": "праздновать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "celebrate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2101",
+    "lang": "en",
     "lemma": "map",
     "pos": "Nomen",
     "cefr": "A2",
@@ -542,12 +505,11 @@ const WORDS_EN_A2 = [
       "zh": "地图",
       "ru": "карта"
     },
-    "examples": [],
-    "meta": {},
     "plural": "maps"
   },
   {
     "id": "en_2102",
+    "lang": "en",
     "lemma": "map",
     "pos": "Verb",
     "cefr": "A2",
@@ -567,15 +529,11 @@ const WORDS_EN_A2 = [
       "ja": "地図を描く",
       "zh": "绘制地图",
       "ru": "составлять карту"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "map",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2103",
+    "lang": "en",
     "lemma": "horn",
     "pos": "Nomen",
     "cefr": "A2",
@@ -596,12 +554,11 @@ const WORDS_EN_A2 = [
       "zh": "角",
       "ru": "рог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "horns"
   },
   {
     "id": "en_2104",
+    "lang": "en",
     "lemma": "pity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -621,12 +578,11 @@ const WORDS_EN_A2 = [
       "zh": "同情",
       "ru": "жалость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pities"
   },
   {
     "id": "en_2107",
+    "lang": "en",
     "lemma": "ashamed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -646,12 +602,11 @@ const WORDS_EN_A2 = [
       "ja": "恥ずかしい",
       "zh": "羞愧的",
       "ru": "стыдящийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2108",
+    "lang": "en",
     "lemma": "assume",
     "pos": "Verb",
     "cefr": "A2",
@@ -670,15 +625,11 @@ const WORDS_EN_A2 = [
       "ja": "仮定する",
       "zh": "假设",
       "ru": "предполагать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assume",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2109",
+    "lang": "en",
     "lemma": "glasses",
     "pos": "Nomen",
     "cefr": "A2",
@@ -699,12 +650,11 @@ const WORDS_EN_A2 = [
       "zh": "眼镜",
       "ru": "очки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "glasses"
   },
   {
     "id": "en_2110",
+    "lang": "en",
     "lemma": "rise",
     "pos": "Nomen",
     "cefr": "A2",
@@ -724,12 +674,11 @@ const WORDS_EN_A2 = [
       "zh": "上升",
       "ru": "подъем"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rises"
   },
   {
     "id": "en_2111",
+    "lang": "en",
     "lemma": "rise",
     "pos": "Verb",
     "cefr": "A2",
@@ -749,15 +698,11 @@ const WORDS_EN_A2 = [
       "ja": "立ち上がる",
       "zh": "站起来",
       "ru": "вставать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2112",
+    "lang": "en",
     "lemma": "fixed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -776,12 +721,11 @@ const WORDS_EN_A2 = [
       "ja": "固定された",
       "zh": "固定的",
       "ru": "неподвижный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2113",
+    "lang": "en",
     "lemma": "request",
     "pos": "Nomen",
     "cefr": "A2",
@@ -801,12 +745,11 @@ const WORDS_EN_A2 = [
       "zh": "请求",
       "ru": "просьба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "requests"
   },
   {
     "id": "en_2114",
+    "lang": "en",
     "lemma": "request",
     "pos": "Verb",
     "cefr": "A2",
@@ -825,15 +768,11 @@ const WORDS_EN_A2 = [
       "ja": "要求する",
       "zh": "请求",
       "ru": "просить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "request",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2117",
+    "lang": "en",
     "lemma": "data",
     "pos": "Nomen",
     "cefr": "A2",
@@ -853,12 +792,11 @@ const WORDS_EN_A2 = [
       "zh": "数据",
       "ru": "данные"
     },
-    "examples": [],
-    "meta": {},
     "plural": "data"
   },
   {
     "id": "en_2119",
+    "lang": "en",
     "lemma": "jury",
     "pos": "Nomen",
     "cefr": "A2",
@@ -878,12 +816,11 @@ const WORDS_EN_A2 = [
       "zh": "陪审团",
       "ru": "присяжные"
     },
-    "examples": [],
-    "meta": {},
     "plural": "juries"
   },
   {
     "id": "en_2120",
+    "lang": "en",
     "lemma": "positive",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -902,12 +839,11 @@ const WORDS_EN_A2 = [
       "ja": "肯定的な",
       "zh": "积极的",
       "ru": "положительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2121",
+    "lang": "en",
     "lemma": "positive",
     "pos": "Nomen",
     "cefr": "A2",
@@ -928,12 +864,11 @@ const WORDS_EN_A2 = [
       "zh": "积极方面",
       "ru": "положительная сторона"
     },
-    "examples": [],
-    "meta": {},
     "plural": "positives"
   },
   {
     "id": "en_2122",
+    "lang": "en",
     "lemma": "attorney",
     "pos": "Nomen",
     "cefr": "A2",
@@ -953,12 +888,11 @@ const WORDS_EN_A2 = [
       "zh": "律师",
       "ru": "адвокат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "attorneys"
   },
   {
     "id": "en_2123",
+    "lang": "en",
     "lemma": "direction",
     "pos": "Nomen",
     "cefr": "A2",
@@ -979,12 +913,11 @@ const WORDS_EN_A2 = [
       "zh": "方向",
       "ru": "направление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "directions"
   },
   {
     "id": "en_2126",
+    "lang": "en",
     "lemma": "location",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1005,12 +938,11 @@ const WORDS_EN_A2 = [
       "zh": "位置",
       "ru": "место"
     },
-    "examples": [],
-    "meta": {},
     "plural": "locations"
   },
   {
     "id": "en_2128",
+    "lang": "en",
     "lemma": "useless",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1029,12 +961,11 @@ const WORDS_EN_A2 = [
       "ja": "役に立たない",
       "zh": "无用的",
       "ru": "бесполезный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2129",
+    "lang": "en",
     "lemma": "grant",
     "pos": "Verb",
     "cefr": "A2",
@@ -1053,15 +984,11 @@ const WORDS_EN_A2 = [
       "ja": "与える",
       "zh": "给予",
       "ru": "давать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grant",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2130",
+    "lang": "en",
     "lemma": "grant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1081,12 +1008,11 @@ const WORDS_EN_A2 = [
       "zh": "补助金",
       "ru": "грант"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grants"
   },
   {
     "id": "en_2131",
+    "lang": "en",
     "lemma": "saving",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1107,12 +1033,11 @@ const WORDS_EN_A2 = [
       "zh": "储蓄",
       "ru": "сбережение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "savings"
   },
   {
     "id": "en_2132",
+    "lang": "en",
     "lemma": "meal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1133,12 +1058,11 @@ const WORDS_EN_A2 = [
       "zh": "饭",
       "ru": "прием пищи"
     },
-    "examples": [],
-    "meta": {},
     "plural": "meals"
   },
   {
     "id": "en_2133",
+    "lang": "en",
     "lemma": "deliver",
     "pos": "Verb",
     "cefr": "A2",
@@ -1158,15 +1082,11 @@ const WORDS_EN_A2 = [
       "ja": "配達する",
       "zh": "送达",
       "ru": "доставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "deliver",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2135",
+    "lang": "en",
     "lemma": "temple",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1187,12 +1107,11 @@ const WORDS_EN_A2 = [
       "zh": "寺庙",
       "ru": "храм"
     },
-    "examples": [],
-    "meta": {},
     "plural": "temples"
   },
   {
     "id": "en_2136",
+    "lang": "en",
     "lemma": "scary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1212,12 +1131,11 @@ const WORDS_EN_A2 = [
       "ja": "怖い",
       "zh": "可怕的",
       "ru": "страшный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2138",
+    "lang": "en",
     "lemma": "regular",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1236,12 +1154,11 @@ const WORDS_EN_A2 = [
       "ja": "定期的な",
       "zh": "规律的",
       "ru": "регулярный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2139",
+    "lang": "en",
     "lemma": "regular",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1262,12 +1179,11 @@ const WORDS_EN_A2 = [
       "zh": "常客",
       "ru": "постоянный клиент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "regulars"
   },
   {
     "id": "en_2140",
+    "lang": "en",
     "lemma": "official",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1286,12 +1202,11 @@ const WORDS_EN_A2 = [
       "ja": "公式的な",
       "zh": "官方的",
       "ru": "официальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2141",
+    "lang": "en",
     "lemma": "official",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1311,12 +1226,11 @@ const WORDS_EN_A2 = [
       "zh": "官员",
       "ru": "чиновник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "officials"
   },
   {
     "id": "en_2142",
+    "lang": "en",
     "lemma": "jacket",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1337,12 +1251,11 @@ const WORDS_EN_A2 = [
       "zh": "夹克",
       "ru": "куртка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jackets"
   },
   {
     "id": "en_2144",
+    "lang": "en",
     "lemma": "switch",
     "pos": "Verb",
     "cefr": "A2",
@@ -1362,15 +1275,11 @@ const WORDS_EN_A2 = [
       "ja": "切り替える",
       "zh": "切换",
       "ru": "переключать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "switch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2145",
+    "lang": "en",
     "lemma": "switch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1391,12 +1300,11 @@ const WORDS_EN_A2 = [
       "zh": "开关",
       "ru": "выключатель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "switches"
   },
   {
     "id": "en_2146",
+    "lang": "en",
     "lemma": "grave",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1415,12 +1323,11 @@ const WORDS_EN_A2 = [
       "ja": "深刻な",
       "zh": "严重的",
       "ru": "серьезный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2147",
+    "lang": "en",
     "lemma": "grave",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1440,12 +1347,11 @@ const WORDS_EN_A2 = [
       "zh": "坟墓",
       "ru": "могила"
     },
-    "examples": [],
-    "meta": {},
     "plural": "graves"
   },
   {
     "id": "en_2148",
+    "lang": "en",
     "lemma": "chase",
     "pos": "Verb",
     "cefr": "A2",
@@ -1465,15 +1371,11 @@ const WORDS_EN_A2 = [
       "ja": "追いかける",
       "zh": "追赶",
       "ru": "преследовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chase",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2149",
+    "lang": "en",
     "lemma": "chase",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1493,12 +1395,11 @@ const WORDS_EN_A2 = [
       "zh": "追逐",
       "ru": "погоня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chases"
   },
   {
     "id": "en_2150",
+    "lang": "en",
     "lemma": "role",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1519,12 +1420,11 @@ const WORDS_EN_A2 = [
       "zh": "角色",
       "ru": "роль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "roles"
   },
   {
     "id": "en_2151",
+    "lang": "en",
     "lemma": "odd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1544,12 +1444,11 @@ const WORDS_EN_A2 = [
       "ja": "奇妙な",
       "zh": "奇怪的",
       "ru": "странный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2152",
+    "lang": "en",
     "lemma": "sexy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1568,12 +1467,11 @@ const WORDS_EN_A2 = [
       "ja": "セクシーな",
       "zh": "性感的",
       "ru": "сексуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2155",
+    "lang": "en",
     "lemma": "tall",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1593,12 +1491,11 @@ const WORDS_EN_A2 = [
       "ja": "背が高い",
       "zh": "高的",
       "ru": "высокий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2156",
+    "lang": "en",
     "lemma": "confused",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1618,12 +1515,11 @@ const WORDS_EN_A2 = [
       "ja": "混乱した",
       "zh": "困惑的",
       "ru": "запутанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2157",
+    "lang": "en",
     "lemma": "affair",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1643,12 +1539,11 @@ const WORDS_EN_A2 = [
       "zh": "事务",
       "ru": "дело"
     },
-    "examples": [],
-    "meta": {},
     "plural": "affairs"
   },
   {
     "id": "en_2158",
+    "lang": "en",
     "lemma": "television",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1669,12 +1564,11 @@ const WORDS_EN_A2 = [
       "zh": "电视",
       "ru": "телевизор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "televisions"
   },
   {
     "id": "en_2159",
+    "lang": "en",
     "lemma": "shock",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1695,12 +1589,11 @@ const WORDS_EN_A2 = [
       "zh": "冲击",
       "ru": "шок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shocks"
   },
   {
     "id": "en_2160",
+    "lang": "en",
     "lemma": "shock",
     "pos": "Verb",
     "cefr": "A2",
@@ -1720,15 +1613,11 @@ const WORDS_EN_A2 = [
       "ja": "驚かせる",
       "zh": "震惊",
       "ru": "шокировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shock",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2161",
+    "lang": "en",
     "lemma": "pizza",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1749,12 +1638,11 @@ const WORDS_EN_A2 = [
       "zh": "披萨",
       "ru": "пицца"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pizzas"
   },
   {
     "id": "en_2162",
+    "lang": "en",
     "lemma": "image",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1774,12 +1662,11 @@ const WORDS_EN_A2 = [
       "zh": "图像",
       "ru": "изображение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "images"
   },
   {
     "id": "en_2164",
+    "lang": "en",
     "lemma": "golden",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1799,12 +1686,11 @@ const WORDS_EN_A2 = [
       "ja": "金色の",
       "zh": "金色的",
       "ru": "золотой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2166",
+    "lang": "en",
     "lemma": "patients",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1824,12 +1710,11 @@ const WORDS_EN_A2 = [
       "zh": "患者们",
       "ru": "пациенты"
     },
-    "examples": [],
-    "meta": {},
     "plural": "patients"
   },
   {
     "id": "en_2167",
+    "lang": "en",
     "lemma": "sexual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1848,12 +1733,11 @@ const WORDS_EN_A2 = [
       "ja": "性的な",
       "zh": "性的",
       "ru": "сексуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2168",
+    "lang": "en",
     "lemma": "suffer",
     "pos": "Verb",
     "cefr": "A2",
@@ -1873,15 +1757,11 @@ const WORDS_EN_A2 = [
       "ja": "苦しむ",
       "zh": "遭受",
       "ru": "страдать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "suffer",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2169",
+    "lang": "en",
     "lemma": "plate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1902,12 +1782,11 @@ const WORDS_EN_A2 = [
       "zh": "盘子",
       "ru": "тарелка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "plates"
   },
   {
     "id": "en_2171",
+    "lang": "en",
     "lemma": "appear",
     "pos": "Verb",
     "cefr": "A2",
@@ -1927,15 +1806,11 @@ const WORDS_EN_A2 = [
       "ja": "見える",
       "zh": "出现",
       "ru": "появляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "appear",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2172",
+    "lang": "en",
     "lemma": "chocolate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -1956,12 +1831,11 @@ const WORDS_EN_A2 = [
       "zh": "巧克力",
       "ru": "шоколад"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chocolates"
   },
   {
     "id": "en_2173",
+    "lang": "en",
     "lemma": "clever",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1980,12 +1854,11 @@ const WORDS_EN_A2 = [
       "ja": "賢い",
       "zh": "聪明的",
       "ru": "умный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2174",
+    "lang": "en",
     "lemma": "mercy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2005,12 +1878,11 @@ const WORDS_EN_A2 = [
       "zh": "怜悯",
       "ru": "милосердие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mercies"
   },
   {
     "id": "en_2175",
+    "lang": "en",
     "lemma": "shots",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2030,12 +1902,11 @@ const WORDS_EN_A2 = [
       "zh": "射击",
       "ru": "выстрелы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shots"
   },
   {
     "id": "en_2176",
+    "lang": "en",
     "lemma": "dealing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2056,12 +1927,11 @@ const WORDS_EN_A2 = [
       "zh": "交易",
       "ru": "сделка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dealings"
   },
   {
     "id": "en_2177",
+    "lang": "en",
     "lemma": "trap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2082,12 +1952,11 @@ const WORDS_EN_A2 = [
       "zh": "陷阱",
       "ru": "ловушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traps"
   },
   {
     "id": "en_2179",
+    "lang": "en",
     "lemma": "charges",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2108,12 +1977,11 @@ const WORDS_EN_A2 = [
       "zh": "费用",
       "ru": "сборы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "charges"
   },
   {
     "id": "en_2180",
+    "lang": "en",
     "lemma": "bang",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2134,12 +2002,11 @@ const WORDS_EN_A2 = [
       "zh": "砰声",
       "ru": "взрыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bangs"
   },
   {
     "id": "en_2181",
+    "lang": "en",
     "lemma": "bang",
     "pos": "Verb",
     "cefr": "A2",
@@ -2159,15 +2026,11 @@ const WORDS_EN_A2 = [
       "ja": "ドンと鳴る",
       "zh": "砰地响",
       "ru": "стучать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bang",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2182",
+    "lang": "en",
     "lemma": "poison",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2188,12 +2051,11 @@ const WORDS_EN_A2 = [
       "zh": "毒药",
       "ru": "яд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "poisons"
   },
   {
     "id": "en_2183",
+    "lang": "en",
     "lemma": "poison",
     "pos": "Verb",
     "cefr": "A2",
@@ -2213,15 +2075,11 @@ const WORDS_EN_A2 = [
       "ja": "毒を盛る",
       "zh": "下毒",
       "ru": "отравлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "poison",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2184",
+    "lang": "en",
     "lemma": "butt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2242,12 +2100,11 @@ const WORDS_EN_A2 = [
       "zh": "屁股",
       "ru": "ягодицы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "butts"
   },
   {
     "id": "en_2185",
+    "lang": "en",
     "lemma": "butt",
     "pos": "Verb",
     "cefr": "A2",
@@ -2267,15 +2124,11 @@ const WORDS_EN_A2 = [
       "ja": "頭で突く",
       "zh": "用头撞",
       "ru": "бодать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "butt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2186",
+    "lang": "en",
     "lemma": "babies",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2296,12 +2149,11 @@ const WORDS_EN_A2 = [
       "zh": "婴儿",
       "ru": "младенцы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "babies"
   },
   {
     "id": "en_2187",
+    "lang": "en",
     "lemma": "yellow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2322,12 +2174,11 @@ const WORDS_EN_A2 = [
       "zh": "黄色",
       "ru": "жёлтый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "yellows"
   },
   {
     "id": "en_2188",
+    "lang": "en",
     "lemma": "yellow",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2347,12 +2198,11 @@ const WORDS_EN_A2 = [
       "ja": "黄色い",
       "zh": "黄色的",
       "ru": "жёлтый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2189",
+    "lang": "en",
     "lemma": "soup",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2373,12 +2223,11 @@ const WORDS_EN_A2 = [
       "zh": "汤",
       "ru": "суп"
     },
-    "examples": [],
-    "meta": {},
     "plural": "soups"
   },
   {
     "id": "en_2190",
+    "lang": "en",
     "lemma": "mystery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2398,12 +2247,11 @@ const WORDS_EN_A2 = [
       "zh": "谜团",
       "ru": "тайна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mysteries"
   },
   {
     "id": "en_2191",
+    "lang": "en",
     "lemma": "wound",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2424,12 +2272,11 @@ const WORDS_EN_A2 = [
       "zh": "伤口",
       "ru": "рана"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wounds"
   },
   {
     "id": "en_2192",
+    "lang": "en",
     "lemma": "wound",
     "pos": "Verb",
     "cefr": "A2",
@@ -2449,15 +2296,11 @@ const WORDS_EN_A2 = [
       "ja": "傷つける",
       "zh": "伤害",
       "ru": "ранить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wound",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2193",
+    "lang": "en",
     "lemma": "traffic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2478,12 +2321,11 @@ const WORDS_EN_A2 = [
       "zh": "交通",
       "ru": "движение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traffic"
   },
   {
     "id": "en_2194",
+    "lang": "en",
     "lemma": "traffic",
     "pos": "Verb",
     "cefr": "A2",
@@ -2502,15 +2344,11 @@ const WORDS_EN_A2 = [
       "ja": "取引する",
       "zh": "贩运",
       "ru": "торговать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "traffic",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2195",
+    "lang": "en",
     "lemma": "courage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2531,12 +2369,11 @@ const WORDS_EN_A2 = [
       "zh": "勇气",
       "ru": "мужество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2196",
+    "lang": "en",
     "lemma": "hunt",
     "pos": "Verb",
     "cefr": "A2",
@@ -2556,15 +2393,11 @@ const WORDS_EN_A2 = [
       "ja": "探す",
       "zh": "搜寻",
       "ru": "искать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hunt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2197",
+    "lang": "en",
     "lemma": "hunt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2585,12 +2418,11 @@ const WORDS_EN_A2 = [
       "zh": "狩猎",
       "ru": "охота"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hunts"
   },
   {
     "id": "en_2198",
+    "lang": "en",
     "lemma": "indian",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2611,12 +2443,11 @@ const WORDS_EN_A2 = [
       "zh": "印度人",
       "ru": "индиец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "indians"
   },
   {
     "id": "en_2199",
+    "lang": "en",
     "lemma": "rat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2637,12 +2468,11 @@ const WORDS_EN_A2 = [
       "zh": "老鼠",
       "ru": "крыса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rats"
   },
   {
     "id": "en_2201",
+    "lang": "en",
     "lemma": "italian",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2662,12 +2492,11 @@ const WORDS_EN_A2 = [
       "zh": "意大利人",
       "ru": "итальянец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "italians"
   },
   {
     "id": "en_2202",
+    "lang": "en",
     "lemma": "italian",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2686,12 +2515,11 @@ const WORDS_EN_A2 = [
       "ja": "イタリアの",
       "zh": "意大利的",
       "ru": "итальянский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2203",
+    "lang": "en",
     "lemma": "disease",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2712,12 +2540,11 @@ const WORDS_EN_A2 = [
       "zh": "疾病",
       "ru": "болезнь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "diseases"
   },
   {
     "id": "en_2205",
+    "lang": "en",
     "lemma": "winner",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2738,12 +2565,11 @@ const WORDS_EN_A2 = [
       "zh": "赢家",
       "ru": "победитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "winners"
   },
   {
     "id": "en_2206",
+    "lang": "en",
     "lemma": "council",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2763,12 +2589,11 @@ const WORDS_EN_A2 = [
       "zh": "委员会",
       "ru": "совет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "councils"
   },
   {
     "id": "en_2207",
+    "lang": "en",
     "lemma": "appointment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2788,12 +2613,11 @@ const WORDS_EN_A2 = [
       "zh": "约定",
       "ru": "встреча"
     },
-    "examples": [],
-    "meta": {},
     "plural": "appointments"
   },
   {
     "id": "en_2208",
+    "lang": "en",
     "lemma": "crack",
     "pos": "Verb",
     "cefr": "A2",
@@ -2813,15 +2637,11 @@ const WORDS_EN_A2 = [
       "ja": "ひびが入る",
       "zh": "裂开",
       "ru": "трескаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "crack",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2209",
+    "lang": "en",
     "lemma": "crack",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2842,12 +2662,11 @@ const WORDS_EN_A2 = [
       "zh": "裂纹",
       "ru": "трещина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cracks"
   },
   {
     "id": "en_2210",
+    "lang": "en",
     "lemma": "threat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2867,12 +2686,11 @@ const WORDS_EN_A2 = [
       "zh": "威胁",
       "ru": "угроза"
     },
-    "examples": [],
-    "meta": {},
     "plural": "threats"
   },
   {
     "id": "en_2211",
+    "lang": "en",
     "lemma": "physical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2891,12 +2709,11 @@ const WORDS_EN_A2 = [
       "ja": "身体的な",
       "zh": "身体的",
       "ru": "физический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2212",
+    "lang": "en",
     "lemma": "nation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2916,12 +2733,11 @@ const WORDS_EN_A2 = [
       "zh": "国家",
       "ru": "нация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nations"
   },
   {
     "id": "en_2214",
+    "lang": "en",
     "lemma": "source",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2941,12 +2757,11 @@ const WORDS_EN_A2 = [
       "zh": "来源",
       "ru": "источник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sources"
   },
   {
     "id": "en_2215",
+    "lang": "en",
     "lemma": "healthy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2966,12 +2781,11 @@ const WORDS_EN_A2 = [
       "ja": "健康的な",
       "zh": "健康的",
       "ru": "здоровый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2216",
+    "lang": "en",
     "lemma": "victory",
     "pos": "Nomen",
     "cefr": "A2",
@@ -2992,12 +2806,11 @@ const WORDS_EN_A2 = [
       "zh": "胜利",
       "ru": "победа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "victories"
   },
   {
     "id": "en_2219",
+    "lang": "en",
     "lemma": "disgusting",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3016,12 +2829,11 @@ const WORDS_EN_A2 = [
       "ja": "嫌な",
       "zh": "令人厌恶的",
       "ru": "отвратительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2220",
+    "lang": "en",
     "lemma": "palace",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3042,12 +2854,11 @@ const WORDS_EN_A2 = [
       "zh": "宫殿",
       "ru": "дворец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "palaces"
   },
   {
     "id": "en_2221",
+    "lang": "en",
     "lemma": "neighborhood",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3068,12 +2879,11 @@ const WORDS_EN_A2 = [
       "zh": "邻近地区",
       "ru": "соседство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "neighborhoods"
   },
   {
     "id": "en_2222",
+    "lang": "en",
     "lemma": "march",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3093,12 +2903,11 @@ const WORDS_EN_A2 = [
       "zh": "行进",
       "ru": "марш"
     },
-    "examples": [],
-    "meta": {},
     "plural": "marches"
   },
   {
     "id": "en_2223",
+    "lang": "en",
     "lemma": "march",
     "pos": "Verb",
     "cefr": "A2",
@@ -3117,15 +2926,11 @@ const WORDS_EN_A2 = [
       "ja": "行進する",
       "zh": "行进",
       "ru": "маршировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "march",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2225",
+    "lang": "en",
     "lemma": "midnight",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3146,12 +2951,11 @@ const WORDS_EN_A2 = [
       "zh": "午夜",
       "ru": "полночь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "midnights"
   },
   {
     "id": "en_2228",
+    "lang": "en",
     "lemma": "advantage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3171,12 +2975,11 @@ const WORDS_EN_A2 = [
       "zh": "优势",
       "ru": "преимущество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "advantages"
   },
   {
     "id": "en_2230",
+    "lang": "en",
     "lemma": "pure",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3195,12 +2998,11 @@ const WORDS_EN_A2 = [
       "ja": "純粋な",
       "zh": "纯净的",
       "ru": "чистый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2231",
+    "lang": "en",
     "lemma": "aside",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3220,12 +3022,11 @@ const WORDS_EN_A2 = [
       "zh": "旁白",
       "ru": "замечание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "asides"
   },
   {
     "id": "en_2232",
+    "lang": "en",
     "lemma": "jerk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3246,12 +3047,11 @@ const WORDS_EN_A2 = [
       "zh": "猛拉",
       "ru": "рывок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jerks"
   },
   {
     "id": "en_2233",
+    "lang": "en",
     "lemma": "jerk",
     "pos": "Verb",
     "cefr": "A2",
@@ -3271,15 +3071,11 @@ const WORDS_EN_A2 = [
       "ja": "急に動く",
       "zh": "猛拉",
       "ru": "дергать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "jerk",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2234",
+    "lang": "en",
     "lemma": "mail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3300,12 +3096,11 @@ const WORDS_EN_A2 = [
       "zh": "邮件",
       "ru": "почта"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2235",
+    "lang": "en",
     "lemma": "mail",
     "pos": "Verb",
     "cefr": "A2",
@@ -3325,15 +3120,11 @@ const WORDS_EN_A2 = [
       "ja": "郵送する",
       "zh": "邮寄",
       "ru": "отправлять по почте"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2236",
+    "lang": "en",
     "lemma": "dawn",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3354,12 +3145,11 @@ const WORDS_EN_A2 = [
       "zh": "黎明",
       "ru": "рассвет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dawns"
   },
   {
     "id": "en_2237",
+    "lang": "en",
     "lemma": "dawn",
     "pos": "Verb",
     "cefr": "A2",
@@ -3378,15 +3168,11 @@ const WORDS_EN_A2 = [
       "ja": "明け方になる",
       "zh": "开始明白",
       "ru": "начинать понимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dawn",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2238",
+    "lang": "en",
     "lemma": "effect",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3406,12 +3192,11 @@ const WORDS_EN_A2 = [
       "zh": "效果",
       "ru": "эффект"
     },
-    "examples": [],
-    "meta": {},
     "plural": "effects"
   },
   {
     "id": "en_2239",
+    "lang": "en",
     "lemma": "effect",
     "pos": "Verb",
     "cefr": "A2",
@@ -3430,15 +3215,11 @@ const WORDS_EN_A2 = [
       "ja": "もたらす",
       "zh": "实现",
       "ru": "осуществлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "effect",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2240",
+    "lang": "en",
     "lemma": "spell",
     "pos": "Verb",
     "cefr": "A2",
@@ -3457,15 +3238,11 @@ const WORDS_EN_A2 = [
       "ja": "綴る",
       "zh": "拼写",
       "ru": "произносить по буквам"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spell",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2241",
+    "lang": "en",
     "lemma": "spell",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3486,12 +3263,11 @@ const WORDS_EN_A2 = [
       "zh": "时期",
       "ru": "период"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spells"
   },
   {
     "id": "en_2242",
+    "lang": "en",
     "lemma": "wood",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3512,12 +3288,11 @@ const WORDS_EN_A2 = [
       "zh": "木头",
       "ru": "дерево"
     },
-    "examples": [],
-    "meta": {},
     "plural": "woods"
   },
   {
     "id": "en_2245",
+    "lang": "en",
     "lemma": "awake",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3537,12 +3312,11 @@ const WORDS_EN_A2 = [
       "ja": "目覚めた",
       "zh": "清醒的",
       "ru": "бодрствующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2246",
+    "lang": "en",
     "lemma": "awake",
     "pos": "Verb",
     "cefr": "A2",
@@ -3562,15 +3336,11 @@ const WORDS_EN_A2 = [
       "ja": "目覚める",
       "zh": "唤醒",
       "ru": "пробуждаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "awake",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2247",
+    "lang": "en",
     "lemma": "vacation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3591,12 +3361,11 @@ const WORDS_EN_A2 = [
       "zh": "假期",
       "ru": "отпуск"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vacations"
   },
   {
     "id": "en_2248",
+    "lang": "en",
     "lemma": "vacation",
     "pos": "Verb",
     "cefr": "A2",
@@ -3616,15 +3385,11 @@ const WORDS_EN_A2 = [
       "ja": "休暇を取る",
       "zh": "度假",
       "ru": "отдыхать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vacation",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2249",
+    "lang": "en",
     "lemma": "violence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3644,12 +3409,11 @@ const WORDS_EN_A2 = [
       "zh": "暴力",
       "ru": "насилие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "violences"
   },
   {
     "id": "en_2250",
+    "lang": "en",
     "lemma": "grandmother",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3670,12 +3434,11 @@ const WORDS_EN_A2 = [
       "zh": "祖母",
       "ru": "бабушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grandmothers"
   },
   {
     "id": "en_2251",
+    "lang": "en",
     "lemma": "modern",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3694,12 +3457,11 @@ const WORDS_EN_A2 = [
       "ja": "現代的な",
       "zh": "现代的",
       "ru": "современный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2252",
+    "lang": "en",
     "lemma": "firm",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3719,12 +3481,11 @@ const WORDS_EN_A2 = [
       "zh": "公司",
       "ru": "фирма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "firms"
   },
   {
     "id": "en_2253",
+    "lang": "en",
     "lemma": "firm",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3744,12 +3505,11 @@ const WORDS_EN_A2 = [
       "ja": "堅い",
       "zh": "坚硬的",
       "ru": "твёрдый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2255",
+    "lang": "en",
     "lemma": "prime",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3768,12 +3528,11 @@ const WORDS_EN_A2 = [
       "ja": "最高の",
       "zh": "最好的",
       "ru": "первоклассный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2256",
+    "lang": "en",
     "lemma": "prime",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3793,12 +3552,11 @@ const WORDS_EN_A2 = [
       "zh": "黄金时期",
       "ru": "расцвет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "primes"
   },
   {
     "id": "en_2257",
+    "lang": "en",
     "lemma": "prime",
     "pos": "Verb",
     "cefr": "A2",
@@ -3817,15 +3575,11 @@ const WORDS_EN_A2 = [
       "ja": "準備する",
       "zh": "准备",
       "ru": "подготавливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prime",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2258",
+    "lang": "en",
     "lemma": "talent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3845,12 +3599,11 @@ const WORDS_EN_A2 = [
       "zh": "才能",
       "ru": "талант"
     },
-    "examples": [],
-    "meta": {},
     "plural": "talents"
   },
   {
     "id": "en_2261",
+    "lang": "en",
     "lemma": "piano",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3870,12 +3623,11 @@ const WORDS_EN_A2 = [
       "zh": "钢琴",
       "ru": "пианино"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pianos"
   },
   {
     "id": "en_2262",
+    "lang": "en",
     "lemma": "license",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3895,12 +3647,11 @@ const WORDS_EN_A2 = [
       "zh": "许可证",
       "ru": "лицензия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "licenses"
   },
   {
     "id": "en_2263",
+    "lang": "en",
     "lemma": "license",
     "pos": "Verb",
     "cefr": "A2",
@@ -3919,15 +3670,11 @@ const WORDS_EN_A2 = [
       "ja": "許可する",
       "zh": "授权",
       "ru": "лицензировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "license",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2264",
+    "lang": "en",
     "lemma": "cooking",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3948,12 +3695,11 @@ const WORDS_EN_A2 = [
       "zh": "烹饪",
       "ru": "готовка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2265",
+    "lang": "en",
     "lemma": "honour",
     "pos": "Nomen",
     "cefr": "A2",
@@ -3973,12 +3719,11 @@ const WORDS_EN_A2 = [
       "zh": "荣誉",
       "ru": "честь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "honours"
   },
   {
     "id": "en_2266",
+    "lang": "en",
     "lemma": "honour",
     "pos": "Verb",
     "cefr": "A2",
@@ -3997,15 +3742,11 @@ const WORDS_EN_A2 = [
       "ja": "敬う",
       "zh": "尊敬",
       "ru": "чтить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "honour",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2267",
+    "lang": "en",
     "lemma": "concern",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4025,12 +3766,11 @@ const WORDS_EN_A2 = [
       "zh": "担忧",
       "ru": "озабоченность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "concerns"
   },
   {
     "id": "en_2268",
+    "lang": "en",
     "lemma": "concern",
     "pos": "Verb",
     "cefr": "A2",
@@ -4049,15 +3789,11 @@ const WORDS_EN_A2 = [
       "ja": "関係する",
       "zh": "涉及",
       "ru": "касаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "concern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2270",
+    "lang": "en",
     "lemma": "available",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4076,12 +3812,11 @@ const WORDS_EN_A2 = [
       "ja": "利用可能な",
       "zh": "可用的",
       "ru": "доступный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2271",
+    "lang": "en",
     "lemma": "factory",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4101,12 +3836,11 @@ const WORDS_EN_A2 = [
       "zh": "工厂",
       "ru": "завод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "factories"
   },
   {
     "id": "en_2273",
+    "lang": "en",
     "lemma": "value",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4126,12 +3860,11 @@ const WORDS_EN_A2 = [
       "zh": "价值",
       "ru": "ценность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "values"
   },
   {
     "id": "en_2274",
+    "lang": "en",
     "lemma": "value",
     "pos": "Verb",
     "cefr": "A2",
@@ -4150,15 +3883,11 @@ const WORDS_EN_A2 = [
       "ja": "大切にする",
       "zh": "重视",
       "ru": "ценить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "value",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2275",
+    "lang": "en",
     "lemma": "central",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4177,12 +3906,11 @@ const WORDS_EN_A2 = [
       "ja": "中央の",
       "zh": "中央的",
       "ru": "центральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2276",
+    "lang": "en",
     "lemma": "union",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4202,12 +3930,11 @@ const WORDS_EN_A2 = [
       "zh": "联合",
       "ru": "союз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "unions"
   },
   {
     "id": "en_2277",
+    "lang": "en",
     "lemma": "mirror",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4228,12 +3955,11 @@ const WORDS_EN_A2 = [
       "zh": "镜子",
       "ru": "зеркало"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mirrors"
   },
   {
     "id": "en_2278",
+    "lang": "en",
     "lemma": "mirror",
     "pos": "Verb",
     "cefr": "A2",
@@ -4252,15 +3978,11 @@ const WORDS_EN_A2 = [
       "ja": "反映する",
       "zh": "反映",
       "ru": "отражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mirror",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2279",
+    "lang": "en",
     "lemma": "studio",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4281,12 +4003,11 @@ const WORDS_EN_A2 = [
       "zh": "工作室",
       "ru": "студия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "studios"
   },
   {
     "id": "en_2280",
+    "lang": "en",
     "lemma": "media",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4306,12 +4027,11 @@ const WORDS_EN_A2 = [
       "zh": "媒体",
       "ru": "средства"
     },
-    "examples": [],
-    "meta": {},
     "plural": "media"
   },
   {
     "id": "en_2281",
+    "lang": "en",
     "lemma": "taxi",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4332,12 +4052,11 @@ const WORDS_EN_A2 = [
       "zh": "出租车",
       "ru": "такси"
     },
-    "examples": [],
-    "meta": {},
     "plural": "taxis"
   },
   {
     "id": "en_2282",
+    "lang": "en",
     "lemma": "taxi",
     "pos": "Verb",
     "cefr": "A2",
@@ -4356,15 +4075,11 @@ const WORDS_EN_A2 = [
       "ja": "走行する",
       "zh": "滑行",
       "ru": "рулить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "taxi",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2283",
+    "lang": "en",
     "lemma": "dies",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4384,12 +4099,11 @@ const WORDS_EN_A2 = [
       "zh": "骰子",
       "ru": "кость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dies"
   },
   {
     "id": "en_2284",
+    "lang": "en",
     "lemma": "iron",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4409,12 +4123,11 @@ const WORDS_EN_A2 = [
       "zh": "铁",
       "ru": "железо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "irons"
   },
   {
     "id": "en_2285",
+    "lang": "en",
     "lemma": "iron",
     "pos": "Verb",
     "cefr": "A2",
@@ -4433,15 +4146,11 @@ const WORDS_EN_A2 = [
       "ja": "アイロンをかける",
       "zh": "熨烫",
       "ru": "гладить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "iron",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2287",
+    "lang": "en",
     "lemma": "desire",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4461,12 +4170,11 @@ const WORDS_EN_A2 = [
       "zh": "欲望",
       "ru": "желание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "desires"
   },
   {
     "id": "en_2288",
+    "lang": "en",
     "lemma": "desire",
     "pos": "Verb",
     "cefr": "A2",
@@ -4485,15 +4193,11 @@ const WORDS_EN_A2 = [
       "ja": "望む",
       "zh": "渴望",
       "ru": "желать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "desire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2289",
+    "lang": "en",
     "lemma": "rob",
     "pos": "Verb",
     "cefr": "A2",
@@ -4512,15 +4216,11 @@ const WORDS_EN_A2 = [
       "ja": "奪う",
       "zh": "抢劫",
       "ru": "грабить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rob",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2291",
+    "lang": "en",
     "lemma": "monkey",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4541,12 +4241,11 @@ const WORDS_EN_A2 = [
       "zh": "猴子",
       "ru": "обезьяна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "monkeys"
   },
   {
     "id": "en_2293",
+    "lang": "en",
     "lemma": "pride",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4566,12 +4265,11 @@ const WORDS_EN_A2 = [
       "zh": "骄傲",
       "ru": "гордость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prides"
   },
   {
     "id": "en_2295",
+    "lang": "en",
     "lemma": "miracle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4591,12 +4289,11 @@ const WORDS_EN_A2 = [
       "zh": "奇迹",
       "ru": "чудо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "miracles"
   },
   {
     "id": "en_2296",
+    "lang": "en",
     "lemma": "swim",
     "pos": "Verb",
     "cefr": "A2",
@@ -4616,15 +4313,11 @@ const WORDS_EN_A2 = [
       "ja": "泳ぐ",
       "zh": "游泳",
       "ru": "плыть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "swim",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2297",
+    "lang": "en",
     "lemma": "swim",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4645,12 +4338,11 @@ const WORDS_EN_A2 = [
       "zh": "游泳",
       "ru": "плавание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "swims"
   },
   {
     "id": "en_2299",
+    "lang": "en",
     "lemma": "christian",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4670,12 +4362,11 @@ const WORDS_EN_A2 = [
       "zh": "基督徒",
       "ru": "христианин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "christians"
   },
   {
     "id": "en_2300",
+    "lang": "en",
     "lemma": "christian",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4694,12 +4385,11 @@ const WORDS_EN_A2 = [
       "ja": "キリスト教の",
       "zh": "基督教的",
       "ru": "христианский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2301",
+    "lang": "en",
     "lemma": "hook",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4720,12 +4410,11 @@ const WORDS_EN_A2 = [
       "zh": "钩子",
       "ru": "крючок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hooks"
   },
   {
     "id": "en_2302",
+    "lang": "en",
     "lemma": "hook",
     "pos": "Verb",
     "cefr": "A2",
@@ -4745,15 +4434,11 @@ const WORDS_EN_A2 = [
       "ja": "引っかける",
       "zh": "钩住",
       "ru": "зацеплять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hook",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2303",
+    "lang": "en",
     "lemma": "beating",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4773,12 +4458,11 @@ const WORDS_EN_A2 = [
       "zh": "打击",
       "ru": "удар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beatings"
   },
   {
     "id": "en_2304",
+    "lang": "en",
     "lemma": "protection",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4799,12 +4483,11 @@ const WORDS_EN_A2 = [
       "zh": "保护",
       "ru": "защита"
     },
-    "examples": [],
-    "meta": {},
     "plural": "protections"
   },
   {
     "id": "en_2305",
+    "lang": "en",
     "lemma": "treatment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4825,12 +4508,11 @@ const WORDS_EN_A2 = [
       "zh": "治疗",
       "ru": "лечение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "treatments"
   },
   {
     "id": "en_2306",
+    "lang": "en",
     "lemma": "ear",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4851,12 +4533,11 @@ const WORDS_EN_A2 = [
       "zh": "耳朵",
       "ru": "ухо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ears"
   },
   {
     "id": "en_2308",
+    "lang": "en",
     "lemma": "metal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4877,12 +4558,11 @@ const WORDS_EN_A2 = [
       "zh": "金属",
       "ru": "металл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "metals"
   },
   {
     "id": "en_2309",
+    "lang": "en",
     "lemma": "disappear",
     "pos": "Verb",
     "cefr": "A2",
@@ -4902,15 +4582,11 @@ const WORDS_EN_A2 = [
       "ja": "消える",
       "zh": "消失",
       "ru": "исчезать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "disappear",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2310",
+    "lang": "en",
     "lemma": "grateful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4931,12 +4607,11 @@ const WORDS_EN_A2 = [
       "ja": "感謝している",
       "zh": "感谢的",
       "ru": "благодарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2311",
+    "lang": "en",
     "lemma": "treasure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -4957,12 +4632,11 @@ const WORDS_EN_A2 = [
       "zh": "宝藏",
       "ru": "сокровище"
     },
-    "examples": [],
-    "meta": {},
     "plural": "treasures"
   },
   {
     "id": "en_2312",
+    "lang": "en",
     "lemma": "treasure",
     "pos": "Verb",
     "cefr": "A2",
@@ -4982,15 +4656,11 @@ const WORDS_EN_A2 = [
       "ja": "大切にする",
       "zh": "珍视",
       "ru": "ценить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "treasure",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2313",
+    "lang": "en",
     "lemma": "rescue",
     "pos": "Verb",
     "cefr": "A2",
@@ -5010,15 +4680,11 @@ const WORDS_EN_A2 = [
       "ja": "救出する",
       "zh": "救援",
       "ru": "спасать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rescue",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2314",
+    "lang": "en",
     "lemma": "rescue",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5039,12 +4705,11 @@ const WORDS_EN_A2 = [
       "zh": "救援",
       "ru": "спасение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rescues"
   },
   {
     "id": "en_2315",
+    "lang": "en",
     "lemma": "capable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5064,12 +4729,11 @@ const WORDS_EN_A2 = [
       "ja": "できる",
       "zh": "有能的",
       "ru": "способный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2316",
+    "lang": "en",
     "lemma": "chatter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5090,12 +4754,11 @@ const WORDS_EN_A2 = [
       "zh": "闲聊",
       "ru": "болтовня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2317",
+    "lang": "en",
     "lemma": "chatter",
     "pos": "Verb",
     "cefr": "A2",
@@ -5115,15 +4778,11 @@ const WORDS_EN_A2 = [
       "ja": "おしゃべりする",
       "zh": "闲聊",
       "ru": "болтать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chatter",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2318",
+    "lang": "en",
     "lemma": "result",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5144,12 +4803,11 @@ const WORDS_EN_A2 = [
       "zh": "结果",
       "ru": "результат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "results"
   },
   {
     "id": "en_2319",
+    "lang": "en",
     "lemma": "result",
     "pos": "Verb",
     "cefr": "A2",
@@ -5169,15 +4827,11 @@ const WORDS_EN_A2 = [
       "ja": "もたらす",
       "zh": "导致",
       "ru": "приводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "result",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2320",
+    "lang": "en",
     "lemma": "suffering",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5198,12 +4852,11 @@ const WORDS_EN_A2 = [
       "zh": "痛苦",
       "ru": "страдание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sufferings"
   },
   {
     "id": "en_2322",
+    "lang": "en",
     "lemma": "governor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5223,12 +4876,11 @@ const WORDS_EN_A2 = [
       "zh": "州长",
       "ru": "губернатор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "governors"
   },
   {
     "id": "en_2324",
+    "lang": "en",
     "lemma": "text",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5249,12 +4901,11 @@ const WORDS_EN_A2 = [
       "zh": "文本",
       "ru": "текст"
     },
-    "examples": [],
-    "meta": {},
     "plural": "texts"
   },
   {
     "id": "en_2325",
+    "lang": "en",
     "lemma": "text",
     "pos": "Verb",
     "cefr": "A2",
@@ -5274,15 +4925,11 @@ const WORDS_EN_A2 = [
       "ja": "メッセージを送る",
       "zh": "发送短信",
       "ru": "отправить сообщение"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "text",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2326",
+    "lang": "en",
     "lemma": "remove",
     "pos": "Verb",
     "cefr": "A2",
@@ -5302,15 +4949,11 @@ const WORDS_EN_A2 = [
       "ja": "取り除く",
       "zh": "移除",
       "ru": "удалить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "remove",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2328",
+    "lang": "en",
     "lemma": "performance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5330,12 +4973,11 @@ const WORDS_EN_A2 = [
       "zh": "表演",
       "ru": "представление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "performances"
   },
   {
     "id": "en_2329",
+    "lang": "en",
     "lemma": "stronger",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5354,12 +4996,11 @@ const WORDS_EN_A2 = [
       "ja": "より強い",
       "zh": "更强",
       "ru": "сильнее"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2330",
+    "lang": "en",
     "lemma": "rate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5380,12 +5021,11 @@ const WORDS_EN_A2 = [
       "zh": "速率",
       "ru": "скорость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rates"
   },
   {
     "id": "en_2331",
+    "lang": "en",
     "lemma": "rate",
     "pos": "Verb",
     "cefr": "A2",
@@ -5404,15 +5044,11 @@ const WORDS_EN_A2 = [
       "ja": "評価する",
       "zh": "评价",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2332",
+    "lang": "en",
     "lemma": "scream",
     "pos": "Verb",
     "cefr": "A2",
@@ -5432,15 +5068,11 @@ const WORDS_EN_A2 = [
       "ja": "叫ぶ",
       "zh": "尖叫",
       "ru": "кричать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scream",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2333",
+    "lang": "en",
     "lemma": "scream",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5461,12 +5093,11 @@ const WORDS_EN_A2 = [
       "zh": "尖叫声",
       "ru": "крик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "screams"
   },
   {
     "id": "en_2334",
+    "lang": "en",
     "lemma": "desert",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5487,12 +5118,11 @@ const WORDS_EN_A2 = [
       "zh": "沙漠",
       "ru": "пустыня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "deserts"
   },
   {
     "id": "en_2335",
+    "lang": "en",
     "lemma": "desert",
     "pos": "Verb",
     "cefr": "A2",
@@ -5511,15 +5141,11 @@ const WORDS_EN_A2 = [
       "ja": "見捨てる",
       "zh": "抛弃",
       "ru": "покидать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "desert",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2336",
+    "lang": "en",
     "lemma": "vehicle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5540,12 +5166,11 @@ const WORDS_EN_A2 = [
       "zh": "车辆",
       "ru": "транспортное средство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vehicles"
   },
   {
     "id": "en_2337",
+    "lang": "en",
     "lemma": "illegal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5564,12 +5189,11 @@ const WORDS_EN_A2 = [
       "ja": "違法の",
       "zh": "非法的",
       "ru": "незаконный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2338",
+    "lang": "en",
     "lemma": "unbelievable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5588,12 +5212,11 @@ const WORDS_EN_A2 = [
       "ja": "信じられない",
       "zh": "难以置信的",
       "ru": "невероятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2339",
+    "lang": "en",
     "lemma": "zero",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5613,12 +5236,11 @@ const WORDS_EN_A2 = [
       "zh": "零",
       "ru": "ноль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "zeros or zeroes"
   },
   {
     "id": "en_2341",
+    "lang": "en",
     "lemma": "dean",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5638,12 +5260,11 @@ const WORDS_EN_A2 = [
       "zh": "院长",
       "ru": "декан"
     },
-    "examples": [],
-    "meta": {},
     "plural": "deans"
   },
   {
     "id": "en_2342",
+    "lang": "en",
     "lemma": "curious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5663,12 +5284,11 @@ const WORDS_EN_A2 = [
       "ja": "好奇心のある",
       "zh": "好奇的",
       "ru": "любопытный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2343",
+    "lang": "en",
     "lemma": "candy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5689,12 +5309,11 @@ const WORDS_EN_A2 = [
       "zh": "糖果",
       "ru": "конфета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "candies"
   },
   {
     "id": "en_2345",
+    "lang": "en",
     "lemma": "bone",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5715,12 +5334,11 @@ const WORDS_EN_A2 = [
       "zh": "骨头",
       "ru": "кость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bones"
   },
   {
     "id": "en_2347",
+    "lang": "en",
     "lemma": "edge",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5741,12 +5359,11 @@ const WORDS_EN_A2 = [
       "zh": "边缘",
       "ru": "край"
     },
-    "examples": [],
-    "meta": {},
     "plural": "edges"
   },
   {
     "id": "en_2349",
+    "lang": "en",
     "lemma": "load",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5767,12 +5384,11 @@ const WORDS_EN_A2 = [
       "zh": "负载",
       "ru": "груз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "loads"
   },
   {
     "id": "en_2350",
+    "lang": "en",
     "lemma": "load",
     "pos": "Verb",
     "cefr": "A2",
@@ -5792,15 +5408,11 @@ const WORDS_EN_A2 = [
       "ja": "積む",
       "zh": "装载",
       "ru": "грузить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "load",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2352",
+    "lang": "en",
     "lemma": "boom",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5821,12 +5433,11 @@ const WORDS_EN_A2 = [
       "zh": "轰鸣声",
       "ru": "гром"
     },
-    "examples": [],
-    "meta": {},
     "plural": "booms"
   },
   {
     "id": "en_2354",
+    "lang": "en",
     "lemma": "former",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5845,12 +5456,11 @@ const WORDS_EN_A2 = [
       "ja": "以前の",
       "zh": "以前的",
       "ru": "бывший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2355",
+    "lang": "en",
     "lemma": "holiday",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5871,12 +5481,11 @@ const WORDS_EN_A2 = [
       "zh": "假日",
       "ru": "праздник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "holidays"
   },
   {
     "id": "en_2359",
+    "lang": "en",
     "lemma": "sue",
     "pos": "Verb",
     "cefr": "A2",
@@ -5895,15 +5504,11 @@ const WORDS_EN_A2 = [
       "ja": "訴える",
       "zh": "起诉",
       "ru": "подавать в суд"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sue",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2361",
+    "lang": "en",
     "lemma": "arrive",
     "pos": "Verb",
     "cefr": "A2",
@@ -5923,15 +5528,11 @@ const WORDS_EN_A2 = [
       "ja": "到着する",
       "zh": "到达",
       "ru": "прибывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "arrive",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2363",
+    "lang": "en",
     "lemma": "remains",
     "pos": "Nomen",
     "cefr": "A2",
@@ -5951,12 +5552,11 @@ const WORDS_EN_A2 = [
       "zh": "遗骸",
       "ru": "останки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "remains"
   },
   {
     "id": "en_2364",
+    "lang": "en",
     "lemma": "decent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5976,12 +5576,11 @@ const WORDS_EN_A2 = [
       "ja": "まともな",
       "zh": "体面的",
       "ru": "приличный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2366",
+    "lang": "en",
     "lemma": "tip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6002,12 +5601,11 @@ const WORDS_EN_A2 = [
       "zh": "尖端",
       "ru": "кончик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tips"
   },
   {
     "id": "en_2368",
+    "lang": "en",
     "lemma": "fail",
     "pos": "Verb",
     "cefr": "A2",
@@ -6026,15 +5624,11 @@ const WORDS_EN_A2 = [
       "ja": "失敗する",
       "zh": "失败",
       "ru": "терпеть неудачу"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2369",
+    "lang": "en",
     "lemma": "bride",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6055,12 +5649,11 @@ const WORDS_EN_A2 = [
       "zh": "新娘",
       "ru": "невеста"
     },
-    "examples": [],
-    "meta": {},
     "plural": "brides"
   },
   {
     "id": "en_2371",
+    "lang": "en",
     "lemma": "penny",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6080,12 +5673,11 @@ const WORDS_EN_A2 = [
       "zh": "便士",
       "ru": "пенни"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pence or pennies"
   },
   {
     "id": "en_2372",
+    "lang": "en",
     "lemma": "claim",
     "pos": "Verb",
     "cefr": "A2",
@@ -6104,15 +5696,11 @@ const WORDS_EN_A2 = [
       "ja": "主張する",
       "zh": "声称",
       "ru": "утверждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "claim",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2373",
+    "lang": "en",
     "lemma": "claim",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6132,12 +5720,11 @@ const WORDS_EN_A2 = [
       "zh": "声称",
       "ru": "утверждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "claims"
   },
   {
     "id": "en_2374",
+    "lang": "en",
     "lemma": "friendship",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6158,12 +5745,11 @@ const WORDS_EN_A2 = [
       "zh": "友谊",
       "ru": "дружба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "friendships"
   },
   {
     "id": "en_2375",
+    "lang": "en",
     "lemma": "desperate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6182,12 +5768,11 @@ const WORDS_EN_A2 = [
       "ja": "絶望的な",
       "zh": "绝望的",
       "ru": "отчаянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2376",
+    "lang": "en",
     "lemma": "flower",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6208,12 +5793,11 @@ const WORDS_EN_A2 = [
       "zh": "花",
       "ru": "цветок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flowers"
   },
   {
     "id": "en_2377",
+    "lang": "en",
     "lemma": "flower",
     "pos": "Verb",
     "cefr": "A2",
@@ -6232,15 +5816,11 @@ const WORDS_EN_A2 = [
       "ja": "咲く",
       "zh": "开花",
       "ru": "цвести"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flower",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2378",
+    "lang": "en",
     "lemma": "dramatic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6259,12 +5839,11 @@ const WORDS_EN_A2 = [
       "ja": "劇的な",
       "zh": "戏剧性的",
       "ru": "драматический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2379",
+    "lang": "en",
     "lemma": "refuse",
     "pos": "Verb",
     "cefr": "A2",
@@ -6283,15 +5862,11 @@ const WORDS_EN_A2 = [
       "ja": "拒否する",
       "zh": "拒绝",
       "ru": "отказывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "refuse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2380",
+    "lang": "en",
     "lemma": "refuse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6311,12 +5886,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2381",
+    "lang": "en",
     "lemma": "solve",
     "pos": "Verb",
     "cefr": "A2",
@@ -6335,15 +5909,11 @@ const WORDS_EN_A2 = [
       "ja": "解く",
       "zh": "解决",
       "ru": "решать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "solve",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2382",
+    "lang": "en",
     "lemma": "theme",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6363,12 +5933,11 @@ const WORDS_EN_A2 = [
       "zh": "主题",
       "ru": "тема"
     },
-    "examples": [],
-    "meta": {},
     "plural": "themes"
   },
   {
     "id": "en_2384",
+    "lang": "en",
     "lemma": "loving",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6388,12 +5957,11 @@ const WORDS_EN_A2 = [
       "ja": "愛情のある",
       "zh": "充满爱的",
       "ru": "любящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2385",
+    "lang": "en",
     "lemma": "dragon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6413,12 +5981,11 @@ const WORDS_EN_A2 = [
       "zh": "龙",
       "ru": "дракон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dragons"
   },
   {
     "id": "en_2386",
+    "lang": "en",
     "lemma": "chuck",
     "pos": "Verb",
     "cefr": "A2",
@@ -6437,15 +6004,11 @@ const WORDS_EN_A2 = [
       "ja": "投げる",
       "zh": "扔",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chuck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2388",
+    "lang": "en",
     "lemma": "surface",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6466,12 +6029,11 @@ const WORDS_EN_A2 = [
       "zh": "表面",
       "ru": "поверхность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "surfaces"
   },
   {
     "id": "en_2389",
+    "lang": "en",
     "lemma": "surface",
     "pos": "Verb",
     "cefr": "A2",
@@ -6490,15 +6052,11 @@ const WORDS_EN_A2 = [
       "ja": "浮かぶ",
       "zh": "浮现",
       "ru": "всплывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "surface",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2390",
+    "lang": "en",
     "lemma": "false",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6517,12 +6075,11 @@ const WORDS_EN_A2 = [
       "ja": "偽の",
       "zh": "虚假的",
       "ru": "ложный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2391",
+    "lang": "en",
     "lemma": "cast",
     "pos": "Verb",
     "cefr": "A2",
@@ -6541,15 +6098,11 @@ const WORDS_EN_A2 = [
       "ja": "投げかける",
       "zh": "投射",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cast",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2392",
+    "lang": "en",
     "lemma": "cast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6569,12 +6122,11 @@ const WORDS_EN_A2 = [
       "zh": "演员阵容",
       "ru": "актёрский состав"
     },
-    "examples": [],
-    "meta": {},
     "plural": "casts"
   },
   {
     "id": "en_2393",
+    "lang": "en",
     "lemma": "junior",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6593,12 +6145,11 @@ const WORDS_EN_A2 = [
       "ja": "より若い",
       "zh": "更年轻的",
       "ru": "младший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2394",
+    "lang": "en",
     "lemma": "junior",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6618,12 +6169,11 @@ const WORDS_EN_A2 = [
       "zh": "年轻人",
       "ru": "младший"
     },
-    "examples": [],
-    "meta": {},
     "plural": "juniors"
   },
   {
     "id": "en_2395",
+    "lang": "en",
     "lemma": "silent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6642,12 +6192,11 @@ const WORDS_EN_A2 = [
       "ja": "静かな",
       "zh": "安静的",
       "ru": "молчаливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2396",
+    "lang": "en",
     "lemma": "egg",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6668,12 +6217,11 @@ const WORDS_EN_A2 = [
       "zh": "鸡蛋",
       "ru": "яйцо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "eggs"
   },
   {
     "id": "en_2397",
+    "lang": "en",
     "lemma": "egg",
     "pos": "Verb",
     "cefr": "A2",
@@ -6692,15 +6240,11 @@ const WORDS_EN_A2 = [
       "ja": "卵を投げる",
       "zh": "扔鸡蛋",
       "ru": "бросать яйца"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "egg",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2398",
+    "lang": "en",
     "lemma": "punch",
     "pos": "Verb",
     "cefr": "A2",
@@ -6719,15 +6263,11 @@ const WORDS_EN_A2 = [
       "ja": "殴る",
       "zh": "打拳",
       "ru": "бить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "punch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2399",
+    "lang": "en",
     "lemma": "punch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6747,12 +6287,11 @@ const WORDS_EN_A2 = [
       "zh": "拳击",
       "ru": "удар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "punches"
   },
   {
     "id": "en_2401",
+    "lang": "en",
     "lemma": "intelligence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6772,12 +6311,11 @@ const WORDS_EN_A2 = [
       "zh": "智力",
       "ru": "интеллект"
     },
-    "examples": [],
-    "meta": {},
     "plural": "intelligences"
   },
   {
     "id": "en_2402",
+    "lang": "en",
     "lemma": "borrow",
     "pos": "Verb",
     "cefr": "A2",
@@ -6797,15 +6335,11 @@ const WORDS_EN_A2 = [
       "ja": "借りる",
       "zh": "借用",
       "ru": "брать взаймы"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "borrow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2403",
+    "lang": "en",
     "lemma": "winning",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6825,12 +6359,11 @@ const WORDS_EN_A2 = [
       "zh": "胜利",
       "ru": "победа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "winnings"
   },
   {
     "id": "en_2405",
+    "lang": "en",
     "lemma": "popular",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6850,12 +6383,11 @@ const WORDS_EN_A2 = [
       "ja": "人気のある",
       "zh": "受欢迎的",
       "ru": "популярный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2406",
+    "lang": "en",
     "lemma": "witch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6876,12 +6408,11 @@ const WORDS_EN_A2 = [
       "zh": "女巫",
       "ru": "ведьма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "witches"
   },
   {
     "id": "en_2407",
+    "lang": "en",
     "lemma": "convinced",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6900,12 +6431,11 @@ const WORDS_EN_A2 = [
       "ja": "確信している",
       "zh": "确信的",
       "ru": "убеждённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2408",
+    "lang": "en",
     "lemma": "warn",
     "pos": "Verb",
     "cefr": "A2",
@@ -6925,15 +6455,11 @@ const WORDS_EN_A2 = [
       "ja": "警告する",
       "zh": "警告",
       "ru": "предупреждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "warn",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2409",
+    "lang": "en",
     "lemma": "announcer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6954,12 +6480,11 @@ const WORDS_EN_A2 = [
       "zh": "播音员",
       "ru": "диктор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "announcers"
   },
   {
     "id": "en_2410",
+    "lang": "en",
     "lemma": "champagne",
     "pos": "Nomen",
     "cefr": "A2",
@@ -6980,12 +6505,11 @@ const WORDS_EN_A2 = [
       "zh": "香槟",
       "ru": "шампанское"
     },
-    "examples": [],
-    "meta": {},
     "plural": "champagnes"
   },
   {
     "id": "en_2411",
+    "lang": "en",
     "lemma": "champagne",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7004,12 +6528,11 @@ const WORDS_EN_A2 = [
       "ja": "シャンパン色の",
       "zh": "香槟色的",
       "ru": "цвета шампанского"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2415",
+    "lang": "en",
     "lemma": "stranger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7030,12 +6553,11 @@ const WORDS_EN_A2 = [
       "zh": "陌生人",
       "ru": "незнакомец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strangers"
   },
   {
     "id": "en_2417",
+    "lang": "en",
     "lemma": "presence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7055,12 +6577,11 @@ const WORDS_EN_A2 = [
       "zh": "存在",
       "ru": "присутствие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "presences"
   },
   {
     "id": "en_2418",
+    "lang": "en",
     "lemma": "tear",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7081,12 +6602,11 @@ const WORDS_EN_A2 = [
       "zh": "撕裂",
       "ru": "разрыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tears"
   },
   {
     "id": "en_2419",
+    "lang": "en",
     "lemma": "tear",
     "pos": "Verb",
     "cefr": "A2",
@@ -7106,15 +6626,11 @@ const WORDS_EN_A2 = [
       "ja": "裂く",
       "zh": "撕裂",
       "ru": "рвать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tear",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2420",
+    "lang": "en",
     "lemma": "internet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7135,12 +6651,11 @@ const WORDS_EN_A2 = [
       "zh": "互联网",
       "ru": "интернет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "internets"
   },
   {
     "id": "en_2421",
+    "lang": "en",
     "lemma": "technology",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7161,12 +6676,11 @@ const WORDS_EN_A2 = [
       "zh": "技术",
       "ru": "технология"
     },
-    "examples": [],
-    "meta": {},
     "plural": "technologies"
   },
   {
     "id": "en_2423",
+    "lang": "en",
     "lemma": "toast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7187,12 +6701,11 @@ const WORDS_EN_A2 = [
       "zh": "吐司",
       "ru": "тост"
     },
-    "examples": [],
-    "meta": {},
     "plural": "toasts"
   },
   {
     "id": "en_2424",
+    "lang": "en",
     "lemma": "toast",
     "pos": "Verb",
     "cefr": "A2",
@@ -7212,15 +6725,11 @@ const WORDS_EN_A2 = [
       "ja": "焼く",
       "zh": "烤",
       "ru": "поджаривать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "toast",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2425",
+    "lang": "en",
     "lemma": "wise",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7239,12 +6748,11 @@ const WORDS_EN_A2 = [
       "ja": "賢い",
       "zh": "聪慧",
       "ru": "мудрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2429",
+    "lang": "en",
     "lemma": "wolf",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7265,12 +6773,11 @@ const WORDS_EN_A2 = [
       "zh": "狼",
       "ru": "волк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wolves"
   },
   {
     "id": "en_2430",
+    "lang": "en",
     "lemma": "precious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7289,12 +6796,11 @@ const WORDS_EN_A2 = [
       "ja": "貴重な",
       "zh": "珍贵",
       "ru": "драгоценный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2432",
+    "lang": "en",
     "lemma": "coast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7315,12 +6821,11 @@ const WORDS_EN_A2 = [
       "zh": "海岸",
       "ru": "побережье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "coasts"
   },
   {
     "id": "en_2433",
+    "lang": "en",
     "lemma": "coast",
     "pos": "Verb",
     "cefr": "A2",
@@ -7339,15 +6844,11 @@ const WORDS_EN_A2 = [
       "ja": "滑る",
       "zh": "滑行",
       "ru": "скользить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "coast",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2434",
+    "lang": "en",
     "lemma": "material",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7367,12 +6868,11 @@ const WORDS_EN_A2 = [
       "zh": "材料",
       "ru": "материал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "materials"
   },
   {
     "id": "en_2435",
+    "lang": "en",
     "lemma": "material",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7391,12 +6891,11 @@ const WORDS_EN_A2 = [
       "ja": "物質的な",
       "zh": "物质的",
       "ru": "материальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2436",
+    "lang": "en",
     "lemma": "uniform",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7416,12 +6915,11 @@ const WORDS_EN_A2 = [
       "zh": "制服",
       "ru": "форма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "uniforms"
   },
   {
     "id": "en_2437",
+    "lang": "en",
     "lemma": "uniform",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7440,12 +6938,11 @@ const WORDS_EN_A2 = [
       "ja": "均一な",
       "zh": "一致的",
       "ru": "однородный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2438",
+    "lang": "en",
     "lemma": "hated",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7464,12 +6961,11 @@ const WORDS_EN_A2 = [
       "ja": "嫌われた",
       "zh": "被憎恨的",
       "ru": "ненавидимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2439",
+    "lang": "en",
     "lemma": "rice",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7490,12 +6986,11 @@ const WORDS_EN_A2 = [
       "zh": "米",
       "ru": "рис"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rices"
   },
   {
     "id": "en_2440",
+    "lang": "en",
     "lemma": "exchange",
     "pos": "Verb",
     "cefr": "A2",
@@ -7514,15 +7009,11 @@ const WORDS_EN_A2 = [
       "ja": "交換する",
       "zh": "交换",
       "ru": "обменивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "exchange",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2441",
+    "lang": "en",
     "lemma": "exchange",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7542,12 +7033,11 @@ const WORDS_EN_A2 = [
       "zh": "交换",
       "ru": "обмен"
     },
-    "examples": [],
-    "meta": {},
     "plural": "exchanges"
   },
   {
     "id": "en_2443",
+    "lang": "en",
     "lemma": "convince",
     "pos": "Verb",
     "cefr": "A2",
@@ -7566,15 +7056,11 @@ const WORDS_EN_A2 = [
       "ja": "説得する",
       "zh": "说服",
       "ru": "убеждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "convince",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2444",
+    "lang": "en",
     "lemma": "beast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7595,12 +7081,11 @@ const WORDS_EN_A2 = [
       "zh": "野兽",
       "ru": "зверь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beasts"
   },
   {
     "id": "en_2446",
+    "lang": "en",
     "lemma": "cow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7621,12 +7106,11 @@ const WORDS_EN_A2 = [
       "zh": "母牛",
       "ru": "корова"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cows"
   },
   {
     "id": "en_2449",
+    "lang": "en",
     "lemma": "drag",
     "pos": "Verb",
     "cefr": "A2",
@@ -7646,15 +7130,11 @@ const WORDS_EN_A2 = [
       "ja": "引く",
       "zh": "拖",
       "ru": "тащить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drag",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2450",
+    "lang": "en",
     "lemma": "drag",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7674,12 +7154,11 @@ const WORDS_EN_A2 = [
       "zh": "令人厌烦的事",
       "ru": "скука"
     },
-    "examples": [],
-    "meta": {},
     "plural": "drags"
   },
   {
     "id": "en_2451",
+    "lang": "en",
     "lemma": "cab",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7700,12 +7179,11 @@ const WORDS_EN_A2 = [
       "zh": "出租车",
       "ru": "такси"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cabs"
   },
   {
     "id": "en_2452",
+    "lang": "en",
     "lemma": "ordinary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7724,12 +7202,11 @@ const WORDS_EN_A2 = [
       "ja": "普通の",
       "zh": "普通的",
       "ru": "обычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2453",
+    "lang": "en",
     "lemma": "successful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7748,12 +7225,11 @@ const WORDS_EN_A2 = [
       "ja": "成功した",
       "zh": "成功的",
       "ru": "успешный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2454",
+    "lang": "en",
     "lemma": "eve",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7774,12 +7250,11 @@ const WORDS_EN_A2 = [
       "zh": "前夜",
       "ru": "канун"
     },
-    "examples": [],
-    "meta": {},
     "plural": "eves"
   },
   {
     "id": "en_2458",
+    "lang": "en",
     "lemma": "creature",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7799,12 +7274,11 @@ const WORDS_EN_A2 = [
       "zh": "生物",
       "ru": "существо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "creatures"
   },
   {
     "id": "en_2459",
+    "lang": "en",
     "lemma": "fourth",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7823,12 +7297,11 @@ const WORDS_EN_A2 = [
       "ja": "4番目の",
       "zh": "第四的",
       "ru": "четвёртый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2460",
+    "lang": "en",
     "lemma": "fourth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7848,12 +7321,11 @@ const WORDS_EN_A2 = [
       "zh": "四分之一",
       "ru": "четверть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fourths"
   },
   {
     "id": "en_2461",
+    "lang": "en",
     "lemma": "separate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7872,12 +7344,11 @@ const WORDS_EN_A2 = [
       "ja": "分離した",
       "zh": "分开的",
       "ru": "отдельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2462",
+    "lang": "en",
     "lemma": "separate",
     "pos": "Verb",
     "cefr": "A2",
@@ -7896,15 +7367,11 @@ const WORDS_EN_A2 = [
       "ja": "分ける",
       "zh": "分开",
       "ru": "разделять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "separate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2463",
+    "lang": "en",
     "lemma": "shift",
     "pos": "Verb",
     "cefr": "A2",
@@ -7924,15 +7391,11 @@ const WORDS_EN_A2 = [
       "ja": "移動する",
       "zh": "移动",
       "ru": "смещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shift",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2464",
+    "lang": "en",
     "lemma": "shift",
     "pos": "Nomen",
     "cefr": "A2",
@@ -7953,12 +7416,11 @@ const WORDS_EN_A2 = [
       "zh": "移动",
       "ru": "смещение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shifts"
   },
   {
     "id": "en_2465",
+    "lang": "en",
     "lemma": "exact",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7977,12 +7439,11 @@ const WORDS_EN_A2 = [
       "ja": "正確な",
       "zh": "精确的",
       "ru": "точный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2467",
+    "lang": "en",
     "lemma": "goal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8003,12 +7464,11 @@ const WORDS_EN_A2 = [
       "zh": "目标",
       "ru": "цель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "goals"
   },
   {
     "id": "en_2468",
+    "lang": "en",
     "lemma": "expert",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8028,12 +7488,11 @@ const WORDS_EN_A2 = [
       "zh": "专家",
       "ru": "эксперт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "experts"
   },
   {
     "id": "en_2469",
+    "lang": "en",
     "lemma": "expert",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8052,12 +7511,11 @@ const WORDS_EN_A2 = [
       "ja": "熟練した",
       "zh": "熟练的",
       "ru": "опытный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2470",
+    "lang": "en",
     "lemma": "direct",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8076,12 +7534,11 @@ const WORDS_EN_A2 = [
       "ja": "直接的な",
       "zh": "直接的",
       "ru": "прямой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2471",
+    "lang": "en",
     "lemma": "direct",
     "pos": "Verb",
     "cefr": "A2",
@@ -8101,15 +7558,11 @@ const WORDS_EN_A2 = [
       "ja": "指示する",
       "zh": "指导",
       "ru": "направлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "direct",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2472",
+    "lang": "en",
     "lemma": "score",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8129,12 +7582,11 @@ const WORDS_EN_A2 = [
       "zh": "分数",
       "ru": "очки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scores"
   },
   {
     "id": "en_2473",
+    "lang": "en",
     "lemma": "score",
     "pos": "Verb",
     "cefr": "A2",
@@ -8153,15 +7605,11 @@ const WORDS_EN_A2 = [
       "ja": "得点する",
       "zh": "得分",
       "ru": "забивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "score",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2474",
+    "lang": "en",
     "lemma": "row",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8182,12 +7630,11 @@ const WORDS_EN_A2 = [
       "zh": "行",
       "ru": "ряд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rows"
   },
   {
     "id": "en_2475",
+    "lang": "en",
     "lemma": "row",
     "pos": "Verb",
     "cefr": "A2",
@@ -8207,15 +7654,11 @@ const WORDS_EN_A2 = [
       "ja": "漕ぐ",
       "zh": "划船",
       "ru": "грести"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "row",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2476",
+    "lang": "en",
     "lemma": "marks",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8236,12 +7679,11 @@ const WORDS_EN_A2 = [
       "zh": "标记",
       "ru": "отметки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "marks"
   },
   {
     "id": "en_2478",
+    "lang": "en",
     "lemma": "receive",
     "pos": "Verb",
     "cefr": "A2",
@@ -8261,15 +7703,11 @@ const WORDS_EN_A2 = [
       "ja": "受け取る",
       "zh": "接收",
       "ru": "получать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "receive",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2479",
+    "lang": "en",
     "lemma": "series",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8289,12 +7727,11 @@ const WORDS_EN_A2 = [
       "zh": "系列",
       "ru": "серия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "series"
   },
   {
     "id": "en_2480",
+    "lang": "en",
     "lemma": "section",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8314,12 +7751,11 @@ const WORDS_EN_A2 = [
       "zh": "部分",
       "ru": "раздел"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sections"
   },
   {
     "id": "en_2481",
+    "lang": "en",
     "lemma": "section",
     "pos": "Verb",
     "cefr": "A2",
@@ -8338,15 +7774,11 @@ const WORDS_EN_A2 = [
       "ja": "分割する",
       "zh": "分割",
       "ru": "разделять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "section",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2482",
+    "lang": "en",
     "lemma": "pilot",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8367,12 +7799,11 @@ const WORDS_EN_A2 = [
       "zh": "飞行员",
       "ru": "пилот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pilots"
   },
   {
     "id": "en_2483",
+    "lang": "en",
     "lemma": "pilot",
     "pos": "Verb",
     "cefr": "A2",
@@ -8392,15 +7823,11 @@ const WORDS_EN_A2 = [
       "ja": "操縦する",
       "zh": "驾驶",
       "ru": "пилотировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pilot",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2484",
+    "lang": "en",
     "lemma": "darkness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8420,12 +7847,11 @@ const WORDS_EN_A2 = [
       "zh": "黑暗",
       "ru": "темнота"
     },
-    "examples": [],
-    "meta": {},
     "plural": "darknesses"
   },
   {
     "id": "en_2485",
+    "lang": "en",
     "lemma": "sale",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8446,12 +7872,11 @@ const WORDS_EN_A2 = [
       "zh": "销售",
       "ru": "продажа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sales"
   },
   {
     "id": "en_2486",
+    "lang": "en",
     "lemma": "destiny",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8471,12 +7896,11 @@ const WORDS_EN_A2 = [
       "zh": "命运",
       "ru": "судьба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "destinies"
   },
   {
     "id": "en_2487",
+    "lang": "en",
     "lemma": "cure",
     "pos": "Verb",
     "cefr": "A2",
@@ -8495,15 +7919,11 @@ const WORDS_EN_A2 = [
       "ja": "治療する",
       "zh": "治疗",
       "ru": "лечить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cure",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2488",
+    "lang": "en",
     "lemma": "cure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8523,12 +7943,11 @@ const WORDS_EN_A2 = [
       "zh": "治疗法",
       "ru": "лекарство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cures"
   },
   {
     "id": "en_2489",
+    "lang": "en",
     "lemma": "rare",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8547,12 +7966,11 @@ const WORDS_EN_A2 = [
       "ja": "珍しい",
       "zh": "罕见的",
       "ru": "редкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2490",
+    "lang": "en",
     "lemma": "grade",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8572,12 +7990,11 @@ const WORDS_EN_A2 = [
       "zh": "成绩",
       "ru": "оценка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grades"
   },
   {
     "id": "en_2491",
+    "lang": "en",
     "lemma": "grade",
     "pos": "Verb",
     "cefr": "A2",
@@ -8596,15 +8013,11 @@ const WORDS_EN_A2 = [
       "ja": "評価する",
       "zh": "评分",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grade",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2492",
+    "lang": "en",
     "lemma": "juice",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8625,12 +8038,11 @@ const WORDS_EN_A2 = [
       "zh": "果汁",
       "ru": "сок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "juices"
   },
   {
     "id": "en_2493",
+    "lang": "en",
     "lemma": "juice",
     "pos": "Verb",
     "cefr": "A2",
@@ -8650,15 +8062,11 @@ const WORDS_EN_A2 = [
       "ja": "搾る",
       "zh": "榨取",
       "ru": "выжимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "juice",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2494",
+    "lang": "en",
     "lemma": "wide",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8677,12 +8085,11 @@ const WORDS_EN_A2 = [
       "ja": "広い",
       "zh": "宽的",
       "ru": "широкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2495",
+    "lang": "en",
     "lemma": "tower",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8703,12 +8110,11 @@ const WORDS_EN_A2 = [
       "zh": "塔",
       "ru": "башня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "towers"
   },
   {
     "id": "en_2496",
+    "lang": "en",
     "lemma": "tower",
     "pos": "Verb",
     "cefr": "A2",
@@ -8727,15 +8133,11 @@ const WORDS_EN_A2 = [
       "ja": "そびえ立つ",
       "zh": "耸立",
       "ru": "возвышаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tower",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2497",
+    "lang": "en",
     "lemma": "solution",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8755,12 +8157,11 @@ const WORDS_EN_A2 = [
       "zh": "解决方案",
       "ru": "решение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "solutions"
   },
   {
     "id": "en_2498",
+    "lang": "en",
     "lemma": "schedule",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8781,12 +8182,11 @@ const WORDS_EN_A2 = [
       "zh": "日程",
       "ru": "расписание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "schedules"
   },
   {
     "id": "en_2499",
+    "lang": "en",
     "lemma": "schedule",
     "pos": "Verb",
     "cefr": "A2",
@@ -8806,15 +8206,11 @@ const WORDS_EN_A2 = [
       "ja": "予定する",
       "zh": "安排",
       "ru": "планировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schedule",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2500",
+    "lang": "en",
     "lemma": "explosion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8834,12 +8230,11 @@ const WORDS_EN_A2 = [
       "zh": "爆炸",
       "ru": "взрыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "explosions"
   },
   {
     "id": "en_2501",
+    "lang": "en",
     "lemma": "wheel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8860,12 +8255,11 @@ const WORDS_EN_A2 = [
       "zh": "轮子",
       "ru": "колесо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wheels"
   },
   {
     "id": "en_2502",
+    "lang": "en",
     "lemma": "wheel",
     "pos": "Verb",
     "cefr": "A2",
@@ -8884,15 +8278,11 @@ const WORDS_EN_A2 = [
       "ja": "転がす",
       "zh": "推动",
       "ru": "катить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wheel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2503",
+    "lang": "en",
     "lemma": "cigarette",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8912,12 +8302,11 @@ const WORDS_EN_A2 = [
       "zh": "香烟",
       "ru": "сигарета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cigarettes"
   },
   {
     "id": "en_2504",
+    "lang": "en",
     "lemma": "fruit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8938,12 +8327,11 @@ const WORDS_EN_A2 = [
       "zh": "水果",
       "ru": "фрукт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fruits"
   },
   {
     "id": "en_2505",
+    "lang": "en",
     "lemma": "talks",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8965,12 +8353,11 @@ const WORDS_EN_A2 = [
       "zh": "谈话",
       "ru": "переговоры"
     },
-    "examples": [],
-    "meta": {},
     "plural": "talks"
   },
   {
     "id": "en_2506",
+    "lang": "en",
     "lemma": "sacrifice",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8990,12 +8377,11 @@ const WORDS_EN_A2 = [
       "zh": "牺牲",
       "ru": "жертва"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sacrifices"
   },
   {
     "id": "en_2507",
+    "lang": "en",
     "lemma": "sacrifice",
     "pos": "Verb",
     "cefr": "A2",
@@ -9014,15 +8400,11 @@ const WORDS_EN_A2 = [
       "ja": "犠牲にする",
       "zh": "牺牲",
       "ru": "жертвовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sacrifice",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2508",
+    "lang": "en",
     "lemma": "range",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9042,12 +8424,11 @@ const WORDS_EN_A2 = [
       "zh": "范围",
       "ru": "диапазон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ranges"
   },
   {
     "id": "en_2509",
+    "lang": "en",
     "lemma": "range",
     "pos": "Verb",
     "cefr": "A2",
@@ -9066,15 +8447,11 @@ const WORDS_EN_A2 = [
       "ja": "及ぶ",
       "zh": "延伸",
       "ru": "простираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "range",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2510",
+    "lang": "en",
     "lemma": "button",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9095,12 +8472,11 @@ const WORDS_EN_A2 = [
       "zh": "纽扣",
       "ru": "пуговица"
     },
-    "examples": [],
-    "meta": {},
     "plural": "buttons"
   },
   {
     "id": "en_2511",
+    "lang": "en",
     "lemma": "button",
     "pos": "Verb",
     "cefr": "A2",
@@ -9119,15 +8495,11 @@ const WORDS_EN_A2 = [
       "ja": "ボタンをかける",
       "zh": "扣上",
       "ru": "застегивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "button",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2513",
+    "lang": "en",
     "lemma": "prisoner",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9147,12 +8519,11 @@ const WORDS_EN_A2 = [
       "zh": "囚犯",
       "ru": "заключенный"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prisoners"
   },
   {
     "id": "en_2514",
+    "lang": "en",
     "lemma": "pie",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9173,12 +8544,11 @@ const WORDS_EN_A2 = [
       "zh": "馅饼",
       "ru": "пирог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pies"
   },
   {
     "id": "en_2515",
+    "lang": "en",
     "lemma": "effort",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9198,12 +8568,11 @@ const WORDS_EN_A2 = [
       "zh": "努力",
       "ru": "усилие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "efforts"
   },
   {
     "id": "en_2516",
+    "lang": "en",
     "lemma": "youth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9223,12 +8592,11 @@ const WORDS_EN_A2 = [
       "zh": "青年",
       "ru": "молодость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "youths"
   },
   {
     "id": "en_2517",
+    "lang": "en",
     "lemma": "pot",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9249,12 +8617,11 @@ const WORDS_EN_A2 = [
       "zh": "锅",
       "ru": "горшок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pots"
   },
   {
     "id": "en_2519",
+    "lang": "en",
     "lemma": "garage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9274,12 +8641,11 @@ const WORDS_EN_A2 = [
       "zh": "车库",
       "ru": "гараж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "garages"
   },
   {
     "id": "en_2520",
+    "lang": "en",
     "lemma": "ambulance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9300,12 +8666,11 @@ const WORDS_EN_A2 = [
       "zh": "救护车",
       "ru": "скорая помощь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ambulances"
   },
   {
     "id": "en_2523",
+    "lang": "en",
     "lemma": "sin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9325,12 +8690,11 @@ const WORDS_EN_A2 = [
       "zh": "罪",
       "ru": "грех"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sins"
   },
   {
     "id": "en_2524",
+    "lang": "en",
     "lemma": "sin",
     "pos": "Verb",
     "cefr": "A2",
@@ -9349,15 +8713,11 @@ const WORDS_EN_A2 = [
       "ja": "罪を犯す",
       "zh": "犯罪",
       "ru": "грешить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2525",
+    "lang": "en",
     "lemma": "progress",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9377,12 +8737,11 @@ const WORDS_EN_A2 = [
       "zh": "进步",
       "ru": "прогресс"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2526",
+    "lang": "en",
     "lemma": "progress",
     "pos": "Verb",
     "cefr": "A2",
@@ -9402,15 +8761,11 @@ const WORDS_EN_A2 = [
       "ja": "進む",
       "zh": "进展",
       "ru": "продвигаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "progress",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2527",
+    "lang": "en",
     "lemma": "unusual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9430,12 +8785,11 @@ const WORDS_EN_A2 = [
       "ja": "珍しい",
       "zh": "不寻常",
       "ru": "необычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2528",
+    "lang": "en",
     "lemma": "county",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9455,12 +8809,11 @@ const WORDS_EN_A2 = [
       "zh": "县",
       "ru": "округ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "counties"
   },
   {
     "id": "en_2529",
+    "lang": "en",
     "lemma": "stairs",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9481,12 +8834,11 @@ const WORDS_EN_A2 = [
       "zh": "楼梯",
       "ru": "лестница"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stairs"
   },
   {
     "id": "en_2530",
+    "lang": "en",
     "lemma": "campaign",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9507,12 +8859,11 @@ const WORDS_EN_A2 = [
       "zh": "活动",
       "ru": "кампания"
     },
-    "examples": [],
-    "meta": {},
     "plural": "campaigns"
   },
   {
     "id": "en_2531",
+    "lang": "en",
     "lemma": "campaign",
     "pos": "Verb",
     "cefr": "A2",
@@ -9532,15 +8883,11 @@ const WORDS_EN_A2 = [
       "ja": "キャンペーンをする",
       "zh": "开展活动",
       "ru": "проводить кампанию"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "campaign",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2532",
+    "lang": "en",
     "lemma": "vision",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9560,12 +8907,11 @@ const WORDS_EN_A2 = [
       "zh": "视力",
       "ru": "зрение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "visions"
   },
   {
     "id": "en_2533",
+    "lang": "en",
     "lemma": "reporter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9586,12 +8932,11 @@ const WORDS_EN_A2 = [
       "zh": "记者",
       "ru": "репортер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reporters"
   },
   {
     "id": "en_2534",
+    "lang": "en",
     "lemma": "equipment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9612,12 +8957,11 @@ const WORDS_EN_A2 = [
       "zh": "设备",
       "ru": "оборудование"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2536",
+    "lang": "en",
     "lemma": "mass",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9637,12 +8981,11 @@ const WORDS_EN_A2 = [
       "zh": "质量",
       "ru": "масса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "masses"
   },
   {
     "id": "en_2537",
+    "lang": "en",
     "lemma": "alien",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9663,12 +9006,11 @@ const WORDS_EN_A2 = [
       "zh": "外星人",
       "ru": "инопланетянин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aliens"
   },
   {
     "id": "en_2538",
+    "lang": "en",
     "lemma": "alien",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9688,12 +9030,11 @@ const WORDS_EN_A2 = [
       "ja": "異質な",
       "zh": "陌生的",
       "ru": "чужой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2540",
+    "lang": "en",
     "lemma": "route",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9714,12 +9055,11 @@ const WORDS_EN_A2 = [
       "zh": "路线",
       "ru": "маршрут"
     },
-    "examples": [],
-    "meta": {},
     "plural": "routes"
   },
   {
     "id": "en_2541",
+    "lang": "en",
     "lemma": "route",
     "pos": "Verb",
     "cefr": "A2",
@@ -9739,15 +9079,11 @@ const WORDS_EN_A2 = [
       "ja": "送る",
       "zh": "引导",
       "ru": "направлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "route",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2542",
+    "lang": "en",
     "lemma": "defend",
     "pos": "Verb",
     "cefr": "A2",
@@ -9767,15 +9103,11 @@ const WORDS_EN_A2 = [
       "ja": "守る",
       "zh": "防守",
       "ru": "защищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "defend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2543",
+    "lang": "en",
     "lemma": "trace",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9795,12 +9127,11 @@ const WORDS_EN_A2 = [
       "zh": "痕迹",
       "ru": "след"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traces"
   },
   {
     "id": "en_2544",
+    "lang": "en",
     "lemma": "trace",
     "pos": "Verb",
     "cefr": "A2",
@@ -9819,15 +9150,11 @@ const WORDS_EN_A2 = [
       "ja": "追跡する",
       "zh": "追踪",
       "ru": "отслеживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trace",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2545",
+    "lang": "en",
     "lemma": "nasty",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9847,12 +9174,11 @@ const WORDS_EN_A2 = [
       "ja": "不快な",
       "zh": "令人厌恶的",
       "ru": "противный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2547",
+    "lang": "en",
     "lemma": "magazine",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9873,12 +9199,11 @@ const WORDS_EN_A2 = [
       "zh": "杂志",
       "ru": "журнал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "magazines"
   },
   {
     "id": "en_2549",
+    "lang": "en",
     "lemma": "dump",
     "pos": "Verb",
     "cefr": "A2",
@@ -9898,15 +9223,11 @@ const WORDS_EN_A2 = [
       "ja": "捨てる",
       "zh": "倾倒",
       "ru": "выбрасывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dump",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2550",
+    "lang": "en",
     "lemma": "dump",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9927,12 +9248,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾场",
       "ru": "свалка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dumps"
   },
   {
     "id": "en_2551",
+    "lang": "en",
     "lemma": "rude",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9952,12 +9272,11 @@ const WORDS_EN_A2 = [
       "ja": "失礼な",
       "zh": "粗鲁的",
       "ru": "грубый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2552",
+    "lang": "en",
     "lemma": "clue",
     "pos": "Nomen",
     "cefr": "A2",
@@ -9977,12 +9296,11 @@ const WORDS_EN_A2 = [
       "zh": "线索",
       "ru": "подсказка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clues"
   },
   {
     "id": "en_2553",
+    "lang": "en",
     "lemma": "clue",
     "pos": "Verb",
     "cefr": "A2",
@@ -10001,15 +9319,11 @@ const WORDS_EN_A2 = [
       "ja": "知らせる",
       "zh": "告知",
       "ru": "информировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "clue",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2554",
+    "lang": "en",
     "lemma": "merry",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10029,12 +9343,11 @@ const WORDS_EN_A2 = [
       "ja": "陽気な",
       "zh": "欢乐的",
       "ru": "веселый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2555",
+    "lang": "en",
     "lemma": "zone",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10055,12 +9368,11 @@ const WORDS_EN_A2 = [
       "zh": "区域",
       "ru": "зона"
     },
-    "examples": [],
-    "meta": {},
     "plural": "zones"
   },
   {
     "id": "en_2556",
+    "lang": "en",
     "lemma": "zone",
     "pos": "Verb",
     "cefr": "A2",
@@ -10080,15 +9392,11 @@ const WORDS_EN_A2 = [
       "ja": "区分する",
       "zh": "划分",
       "ru": "разделять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zone",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2557",
+    "lang": "en",
     "lemma": "senior",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10107,12 +9415,11 @@ const WORDS_EN_A2 = [
       "ja": "上級の",
       "zh": "高级的",
       "ru": "старший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2558",
+    "lang": "en",
     "lemma": "senior",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10132,12 +9439,11 @@ const WORDS_EN_A2 = [
       "zh": "高年级学生",
       "ru": "старшеклассник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "seniors"
   },
   {
     "id": "en_2560",
+    "lang": "en",
     "lemma": "freeze",
     "pos": "Verb",
     "cefr": "A2",
@@ -10157,15 +9463,11 @@ const WORDS_EN_A2 = [
       "ja": "凍らせる",
       "zh": "冻结",
       "ru": "замораживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "freeze",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2561",
+    "lang": "en",
     "lemma": "freeze",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10185,12 +9487,11 @@ const WORDS_EN_A2 = [
       "zh": "冻冷期",
       "ru": "мороз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "freezes"
   },
   {
     "id": "en_2562",
+    "lang": "en",
     "lemma": "emperor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10210,12 +9511,11 @@ const WORDS_EN_A2 = [
       "zh": "皇帝",
       "ru": "император"
     },
-    "examples": [],
-    "meta": {},
     "plural": "emperors"
   },
   {
     "id": "en_2563",
+    "lang": "en",
     "lemma": "incident",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10235,12 +9535,11 @@ const WORDS_EN_A2 = [
       "zh": "事件",
       "ru": "происшествие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "incidents"
   },
   {
     "id": "en_2564",
+    "lang": "en",
     "lemma": "snake",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10261,12 +9560,11 @@ const WORDS_EN_A2 = [
       "zh": "蛇",
       "ru": "змея"
     },
-    "examples": [],
-    "meta": {},
     "plural": "snakes"
   },
   {
     "id": "en_2565",
+    "lang": "en",
     "lemma": "snake",
     "pos": "Verb",
     "cefr": "A2",
@@ -10285,15 +9583,11 @@ const WORDS_EN_A2 = [
       "ja": "蛇行する",
       "zh": "蜿蜒",
       "ru": "извиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "snake",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2566",
+    "lang": "en",
     "lemma": "actor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10313,12 +9607,11 @@ const WORDS_EN_A2 = [
       "zh": "演员",
       "ru": "актер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "actors"
   },
   {
     "id": "en_2567",
+    "lang": "en",
     "lemma": "newspaper",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10339,12 +9632,11 @@ const WORDS_EN_A2 = [
       "zh": "报纸",
       "ru": "газета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "newspapers"
   },
   {
     "id": "en_2568",
+    "lang": "en",
     "lemma": "sentence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10364,12 +9656,11 @@ const WORDS_EN_A2 = [
       "zh": "句子",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sentences"
   },
   {
     "id": "en_2569",
+    "lang": "en",
     "lemma": "sentence",
     "pos": "Verb",
     "cefr": "A2",
@@ -10388,15 +9679,11 @@ const WORDS_EN_A2 = [
       "ja": "判決を下す",
       "zh": "判刑",
       "ru": "приговаривать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sentence",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2571",
+    "lang": "en",
     "lemma": "friendly",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10416,12 +9703,11 @@ const WORDS_EN_A2 = [
       "ja": "友好的な",
       "zh": "友好的",
       "ru": "дружелюбный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2573",
+    "lang": "en",
     "lemma": "chosen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10440,12 +9726,11 @@ const WORDS_EN_A2 = [
       "ja": "選ばれた",
       "zh": "被选中的",
       "ru": "выбранный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2574",
+    "lang": "en",
     "lemma": "engaged",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10464,12 +9749,11 @@ const WORDS_EN_A2 = [
       "ja": "没頭した",
       "zh": "专注的",
       "ru": "увлеченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2575",
+    "lang": "en",
     "lemma": "charming",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10489,12 +9773,11 @@ const WORDS_EN_A2 = [
       "ja": "魅力的な",
       "zh": "迷人的",
       "ru": "очаровательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2576",
+    "lang": "en",
     "lemma": "anger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10515,12 +9798,11 @@ const WORDS_EN_A2 = [
       "zh": "愤怒",
       "ru": "гнев"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2577",
+    "lang": "en",
     "lemma": "anger",
     "pos": "Verb",
     "cefr": "A2",
@@ -10540,15 +9822,11 @@ const WORDS_EN_A2 = [
       "ja": "怒らせる",
       "zh": "激怒",
       "ru": "сердить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anger",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2578",
+    "lang": "en",
     "lemma": "learning",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10568,12 +9846,11 @@ const WORDS_EN_A2 = [
       "zh": "学习",
       "ru": "обучение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2579",
+    "lang": "en",
     "lemma": "spy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10593,12 +9870,11 @@ const WORDS_EN_A2 = [
       "zh": "间谍",
       "ru": "шпион"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spies"
   },
   {
     "id": "en_2580",
+    "lang": "en",
     "lemma": "spy",
     "pos": "Verb",
     "cefr": "A2",
@@ -10617,15 +9893,11 @@ const WORDS_EN_A2 = [
       "ja": "スパイする",
       "zh": "刺探",
       "ru": "шпионить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spy",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2581",
+    "lang": "en",
     "lemma": "sharp",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10645,12 +9917,11 @@ const WORDS_EN_A2 = [
       "ja": "鋭い",
       "zh": "锋利",
       "ru": "острый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2583",
+    "lang": "en",
     "lemma": "shadow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10671,12 +9942,11 @@ const WORDS_EN_A2 = [
       "zh": "影子",
       "ru": "тень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shadows"
   },
   {
     "id": "en_2584",
+    "lang": "en",
     "lemma": "shadow",
     "pos": "Verb",
     "cefr": "A2",
@@ -10695,15 +9965,11 @@ const WORDS_EN_A2 = [
       "ja": "後をつける",
       "zh": "跟踪",
       "ru": "следить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shadow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2586",
+    "lang": "en",
     "lemma": "warrant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10723,12 +9989,11 @@ const WORDS_EN_A2 = [
       "zh": "令状",
       "ru": "ордер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "warrants"
   },
   {
     "id": "en_2587",
+    "lang": "en",
     "lemma": "warrant",
     "pos": "Verb",
     "cefr": "A2",
@@ -10747,15 +10012,11 @@ const WORDS_EN_A2 = [
       "ja": "保証する",
       "zh": "保证",
       "ru": "гарантировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "warrant",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2588",
+    "lang": "en",
     "lemma": "elevator",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10776,12 +10037,11 @@ const WORDS_EN_A2 = [
       "zh": "电梯",
       "ru": "лифт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "elevators"
   },
   {
     "id": "en_2589",
+    "lang": "en",
     "lemma": "kingdom",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10801,12 +10061,11 @@ const WORDS_EN_A2 = [
       "zh": "王国",
       "ru": "королевство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "kingdoms"
   },
   {
     "id": "en_2590",
+    "lang": "en",
     "lemma": "squad",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10827,12 +10086,11 @@ const WORDS_EN_A2 = [
       "zh": "队伍",
       "ru": "команда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "squads"
   },
   {
     "id": "en_2591",
+    "lang": "en",
     "lemma": "shoulder",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10853,12 +10111,11 @@ const WORDS_EN_A2 = [
       "zh": "肩膀",
       "ru": "плечо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shoulders"
   },
   {
     "id": "en_2592",
+    "lang": "en",
     "lemma": "shoulder",
     "pos": "Verb",
     "cefr": "A2",
@@ -10877,15 +10134,11 @@ const WORDS_EN_A2 = [
       "ja": "押す",
       "zh": "推动",
       "ru": "толкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shoulder",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2593",
+    "lang": "en",
     "lemma": "wave",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10906,12 +10159,11 @@ const WORDS_EN_A2 = [
       "zh": "波浪",
       "ru": "волна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "waves"
   },
   {
     "id": "en_2594",
+    "lang": "en",
     "lemma": "wave",
     "pos": "Verb",
     "cefr": "A2",
@@ -10931,15 +10183,11 @@ const WORDS_EN_A2 = [
       "ja": "振る",
       "zh": "挥动",
       "ru": "махать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wave",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2596",
+    "lang": "en",
     "lemma": "attitude",
     "pos": "Nomen",
     "cefr": "A2",
@@ -10960,12 +10208,11 @@ const WORDS_EN_A2 = [
       "zh": "态度",
       "ru": "отношение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "attitudes"
   },
   {
     "id": "en_2598",
+    "lang": "en",
     "lemma": "negative",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10985,12 +10232,11 @@ const WORDS_EN_A2 = [
       "ja": "否定的",
       "zh": "消极",
       "ru": "отрицательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2599",
+    "lang": "en",
     "lemma": "negative",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11010,12 +10256,11 @@ const WORDS_EN_A2 = [
       "zh": "底片",
       "ru": "негатив"
     },
-    "examples": [],
-    "meta": {},
     "plural": "negatives"
   },
   {
     "id": "en_2600",
+    "lang": "en",
     "lemma": "screen",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11036,12 +10281,11 @@ const WORDS_EN_A2 = [
       "zh": "屏幕",
       "ru": "экран"
     },
-    "examples": [],
-    "meta": {},
     "plural": "screens"
   },
   {
     "id": "en_2601",
+    "lang": "en",
     "lemma": "screen",
     "pos": "Verb",
     "cefr": "A2",
@@ -11060,15 +10304,11 @@ const WORDS_EN_A2 = [
       "ja": "検査する",
       "zh": "检查",
       "ru": "проверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "screen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2603",
+    "lang": "en",
     "lemma": "bored",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11088,12 +10328,11 @@ const WORDS_EN_A2 = [
       "ja": "退屈した",
       "zh": "无聊",
       "ru": "скучный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2605",
+    "lang": "en",
     "lemma": "similar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11113,12 +10352,11 @@ const WORDS_EN_A2 = [
       "ja": "似ている",
       "zh": "相似的",
       "ru": "похожий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2606",
+    "lang": "en",
     "lemma": "understanding",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11139,12 +10377,11 @@ const WORDS_EN_A2 = [
       "zh": "理解",
       "ru": "понимание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "understandings"
   },
   {
     "id": "en_2607",
+    "lang": "en",
     "lemma": "understanding",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11163,12 +10400,11 @@ const WORDS_EN_A2 = [
       "ja": "思いやりのある",
       "zh": "体谅的",
       "ru": "понимающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2609",
+    "lang": "en",
     "lemma": "chain",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11189,12 +10425,11 @@ const WORDS_EN_A2 = [
       "zh": "链条",
       "ru": "цепь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chains"
   },
   {
     "id": "en_2610",
+    "lang": "en",
     "lemma": "chain",
     "pos": "Verb",
     "cefr": "A2",
@@ -11213,15 +10448,11 @@ const WORDS_EN_A2 = [
       "ja": "つなぐ",
       "zh": "连接",
       "ru": "связывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chain",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2611",
+    "lang": "en",
     "lemma": "bull",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11242,12 +10473,11 @@ const WORDS_EN_A2 = [
       "zh": "公牛",
       "ru": "бык"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bulls"
   },
   {
     "id": "en_2612",
+    "lang": "en",
     "lemma": "robin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11267,12 +10497,11 @@ const WORDS_EN_A2 = [
       "zh": "知更鸟",
       "ru": "малиновка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "robins"
   },
   {
     "id": "en_2613",
+    "lang": "en",
     "lemma": "collect",
     "pos": "Verb",
     "cefr": "A2",
@@ -11292,15 +10521,11 @@ const WORDS_EN_A2 = [
       "ja": "集める",
       "zh": "收集",
       "ru": "собирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "collect",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2614",
+    "lang": "en",
     "lemma": "gorgeous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11320,12 +10545,11 @@ const WORDS_EN_A2 = [
       "ja": "美しい",
       "zh": "华丽的",
       "ru": "великолепный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2615",
+    "lang": "en",
     "lemma": "passion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11346,12 +10570,11 @@ const WORDS_EN_A2 = [
       "zh": "激情",
       "ru": "страсть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "passions"
   },
   {
     "id": "en_2616",
+    "lang": "en",
     "lemma": "writer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11372,12 +10595,11 @@ const WORDS_EN_A2 = [
       "zh": "作家",
       "ru": "писатель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "writers"
   },
   {
     "id": "en_2617",
+    "lang": "en",
     "lemma": "empire",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11397,12 +10619,11 @@ const WORDS_EN_A2 = [
       "zh": "帝国",
       "ru": "империя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "empires"
   },
   {
     "id": "en_2618",
+    "lang": "en",
     "lemma": "international",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11422,12 +10643,11 @@ const WORDS_EN_A2 = [
       "ja": "国際的な",
       "zh": "国际的",
       "ru": "международный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2619",
+    "lang": "en",
     "lemma": "international",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11447,12 +10667,11 @@ const WORDS_EN_A2 = [
       "zh": "国际比赛",
       "ru": "международный матч"
     },
-    "examples": [],
-    "meta": {},
     "plural": "internationals"
   },
   {
     "id": "en_2620",
+    "lang": "en",
     "lemma": "curse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11472,12 +10691,11 @@ const WORDS_EN_A2 = [
       "zh": "诅咒",
       "ru": "проклятие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "curses"
   },
   {
     "id": "en_2621",
+    "lang": "en",
     "lemma": "curse",
     "pos": "Verb",
     "cefr": "A2",
@@ -11496,15 +10714,11 @@ const WORDS_EN_A2 = [
       "ja": "呪う",
       "zh": "诅咒",
       "ru": "ругаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "curse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2622",
+    "lang": "en",
     "lemma": "hire",
     "pos": "Verb",
     "cefr": "A2",
@@ -11524,15 +10738,11 @@ const WORDS_EN_A2 = [
       "ja": "雇う",
       "zh": "雇用",
       "ru": "нанимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2628",
+    "lang": "en",
     "lemma": "estate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11552,12 +10762,11 @@ const WORDS_EN_A2 = [
       "zh": "地产",
       "ru": "имущество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "estates"
   },
   {
     "id": "en_2630",
+    "lang": "en",
     "lemma": "device",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11578,12 +10787,11 @@ const WORDS_EN_A2 = [
       "zh": "装置",
       "ru": "устройство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "devices"
   },
   {
     "id": "en_2631",
+    "lang": "en",
     "lemma": "troops",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11603,12 +10811,11 @@ const WORDS_EN_A2 = [
       "zh": "军队",
       "ru": "войска"
     },
-    "examples": [],
-    "meta": {},
     "plural": "troops"
   },
   {
     "id": "en_2632",
+    "lang": "en",
     "lemma": "hug",
     "pos": "Verb",
     "cefr": "A2",
@@ -11628,15 +10835,11 @@ const WORDS_EN_A2 = [
       "ja": "抱く",
       "zh": "拥抱",
       "ru": "обнимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hug",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2633",
+    "lang": "en",
     "lemma": "hug",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11657,12 +10860,11 @@ const WORDS_EN_A2 = [
       "zh": "拥抱",
       "ru": "объятие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hugs"
   },
   {
     "id": "en_2634",
+    "lang": "en",
     "lemma": "design",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11683,12 +10885,11 @@ const WORDS_EN_A2 = [
       "zh": "设计",
       "ru": "дизайн"
     },
-    "examples": [],
-    "meta": {},
     "plural": "designs"
   },
   {
     "id": "en_2635",
+    "lang": "en",
     "lemma": "design",
     "pos": "Verb",
     "cefr": "A2",
@@ -11708,15 +10909,11 @@ const WORDS_EN_A2 = [
       "ja": "設計する",
       "zh": "设计",
       "ru": "проектировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "design",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2636",
+    "lang": "en",
     "lemma": "movement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11737,12 +10934,11 @@ const WORDS_EN_A2 = [
       "zh": "运动",
       "ru": "движение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "movements"
   },
   {
     "id": "en_2637",
+    "lang": "en",
     "lemma": "thunder",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11763,12 +10959,11 @@ const WORDS_EN_A2 = [
       "zh": "雷声",
       "ru": "гром"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2638",
+    "lang": "en",
     "lemma": "thunder",
     "pos": "Verb",
     "cefr": "A2",
@@ -11788,15 +10983,11 @@ const WORDS_EN_A2 = [
       "ja": "ゴロゴロ鳴る",
       "zh": "打雷",
       "ru": "греметь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "thunder",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2639",
+    "lang": "en",
     "lemma": "object",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11816,12 +11007,11 @@ const WORDS_EN_A2 = [
       "zh": "物体",
       "ru": "объект"
     },
-    "examples": [],
-    "meta": {},
     "plural": "objects"
   },
   {
     "id": "en_2640",
+    "lang": "en",
     "lemma": "object",
     "pos": "Verb",
     "cefr": "A2",
@@ -11840,15 +11030,11 @@ const WORDS_EN_A2 = [
       "ja": "反対する",
       "zh": "反对",
       "ru": "возражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "object",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2641",
+    "lang": "en",
     "lemma": "loser",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11869,12 +11055,11 @@ const WORDS_EN_A2 = [
       "zh": "失败者",
       "ru": "проигравший"
     },
-    "examples": [],
-    "meta": {},
     "plural": "losers"
   },
   {
     "id": "en_2642",
+    "lang": "en",
     "lemma": "pen",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11895,12 +11080,11 @@ const WORDS_EN_A2 = [
       "zh": "笔",
       "ru": "ручка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pens"
   },
   {
     "id": "en_2643",
+    "lang": "en",
     "lemma": "pen",
     "pos": "Verb",
     "cefr": "A2",
@@ -11919,15 +11103,11 @@ const WORDS_EN_A2 = [
       "ja": "書く",
       "zh": "写",
       "ru": "писать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2644",
+    "lang": "en",
     "lemma": "politics",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11947,12 +11127,11 @@ const WORDS_EN_A2 = [
       "zh": "政治",
       "ru": "политика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "politics"
   },
   {
     "id": "en_2645",
+    "lang": "en",
     "lemma": "alcohol",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11973,12 +11152,11 @@ const WORDS_EN_A2 = [
       "zh": "酒精",
       "ru": "алкоголь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "alcohols"
   },
   {
     "id": "en_2646",
+    "lang": "en",
     "lemma": "climb",
     "pos": "Verb",
     "cefr": "A2",
@@ -11998,15 +11176,11 @@ const WORDS_EN_A2 = [
       "ja": "登る",
       "zh": "爬",
       "ru": "взбираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "climb",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2647",
+    "lang": "en",
     "lemma": "climb",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12027,12 +11201,11 @@ const WORDS_EN_A2 = [
       "zh": "攀登",
       "ru": "восхождение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "climbs"
   },
   {
     "id": "en_2649",
+    "lang": "en",
     "lemma": "conference",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12052,12 +11225,11 @@ const WORDS_EN_A2 = [
       "zh": "会议",
       "ru": "конференция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "conferences"
   },
   {
     "id": "en_2650",
+    "lang": "en",
     "lemma": "provide",
     "pos": "Verb",
     "cefr": "A2",
@@ -12077,15 +11249,11 @@ const WORDS_EN_A2 = [
       "ja": "提供する",
       "zh": "提供",
       "ru": "предоставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "provide",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2651",
+    "lang": "en",
     "lemma": "seek",
     "pos": "Verb",
     "cefr": "A2",
@@ -12104,15 +11272,11 @@ const WORDS_EN_A2 = [
       "ja": "探す",
       "zh": "寻找",
       "ru": "искать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "seek",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2653",
+    "lang": "en",
     "lemma": "earn",
     "pos": "Verb",
     "cefr": "A2",
@@ -12132,15 +11296,11 @@ const WORDS_EN_A2 = [
       "ja": "稼ぐ",
       "zh": "赚",
       "ru": "зарабатывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "earn",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2654",
+    "lang": "en",
     "lemma": "trash",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12161,12 +11321,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2656",
+    "lang": "en",
     "lemma": "valley",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12186,12 +11345,11 @@ const WORDS_EN_A2 = [
       "zh": "山谷",
       "ru": "долина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "valleys"
   },
   {
     "id": "en_2657",
+    "lang": "en",
     "lemma": "fashion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12211,12 +11369,11 @@ const WORDS_EN_A2 = [
       "zh": "时尚",
       "ru": "мода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fashions"
   },
   {
     "id": "en_2658",
+    "lang": "en",
     "lemma": "fashion",
     "pos": "Verb",
     "cefr": "A2",
@@ -12235,15 +11392,11 @@ const WORDS_EN_A2 = [
       "ja": "作る",
       "zh": "制作",
       "ru": "создавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fashion",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2659",
+    "lang": "en",
     "lemma": "episode",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12263,12 +11416,11 @@ const WORDS_EN_A2 = [
       "zh": "插曲",
       "ru": "эпизод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "episodes"
   },
   {
     "id": "en_2660",
+    "lang": "en",
     "lemma": "prize",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12288,12 +11440,11 @@ const WORDS_EN_A2 = [
       "zh": "奖品",
       "ru": "приз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prizes"
   },
   {
     "id": "en_2663",
+    "lang": "en",
     "lemma": "wanting",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12312,12 +11463,11 @@ const WORDS_EN_A2 = [
       "ja": "不十分な",
       "zh": "不足的",
       "ru": "недостаточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2664",
+    "lang": "en",
     "lemma": "debt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12337,12 +11487,11 @@ const WORDS_EN_A2 = [
       "zh": "债务",
       "ru": "долг"
     },
-    "examples": [],
-    "meta": {},
     "plural": "debts"
   },
   {
     "id": "en_2666",
+    "lang": "en",
     "lemma": "wire",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12362,12 +11511,11 @@ const WORDS_EN_A2 = [
       "zh": "电线",
       "ru": "провод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wires"
   },
   {
     "id": "en_2667",
+    "lang": "en",
     "lemma": "wire",
     "pos": "Verb",
     "cefr": "A2",
@@ -12386,15 +11534,11 @@ const WORDS_EN_A2 = [
       "ja": "配線する",
       "zh": "接线",
       "ru": "подключать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2668",
+    "lang": "en",
     "lemma": "circle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12414,12 +11558,11 @@ const WORDS_EN_A2 = [
       "zh": "圆形",
       "ru": "круг"
     },
-    "examples": [],
-    "meta": {},
     "plural": "circles"
   },
   {
     "id": "en_2669",
+    "lang": "en",
     "lemma": "circle",
     "pos": "Verb",
     "cefr": "A2",
@@ -12439,15 +11582,11 @@ const WORDS_EN_A2 = [
       "ja": "回転する",
       "zh": "绕圈",
       "ru": "кружить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "circle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2670",
+    "lang": "en",
     "lemma": "approach",
     "pos": "Verb",
     "cefr": "A2",
@@ -12466,15 +11605,11 @@ const WORDS_EN_A2 = [
       "ja": "近づく",
       "zh": "接近",
       "ru": "приближаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "approach",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2671",
+    "lang": "en",
     "lemma": "approach",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12494,12 +11629,11 @@ const WORDS_EN_A2 = [
       "zh": "方法",
       "ru": "подход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "approaches"
   },
   {
     "id": "en_2672",
+    "lang": "en",
     "lemma": "stock",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12519,12 +11653,11 @@ const WORDS_EN_A2 = [
       "zh": "库存",
       "ru": "запас"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stocks"
   },
   {
     "id": "en_2673",
+    "lang": "en",
     "lemma": "stock",
     "pos": "Verb",
     "cefr": "A2",
@@ -12543,15 +11676,11 @@ const WORDS_EN_A2 = [
       "ja": "備蓄する",
       "zh": "储备",
       "ru": "запасать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stock",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2674",
+    "lang": "en",
     "lemma": "stock",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12571,12 +11700,11 @@ const WORDS_EN_A2 = [
       "ja": "標準的な",
       "zh": "标准的",
       "ru": "стандартный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2676",
+    "lang": "en",
     "lemma": "percent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12596,12 +11724,11 @@ const WORDS_EN_A2 = [
       "zh": "百分比",
       "ru": "процент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "percent"
   },
   {
     "id": "en_2677",
+    "lang": "en",
     "lemma": "tail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12622,12 +11749,11 @@ const WORDS_EN_A2 = [
       "zh": "尾巴",
       "ru": "хвост"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tails"
   },
   {
     "id": "en_2679",
+    "lang": "en",
     "lemma": "education",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12648,12 +11774,11 @@ const WORDS_EN_A2 = [
       "zh": "教育",
       "ru": "образование"
     },
-    "examples": [],
-    "meta": {},
     "plural": "educations"
   },
   {
     "id": "en_2680",
+    "lang": "en",
     "lemma": "library",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12674,12 +11799,11 @@ const WORDS_EN_A2 = [
       "zh": "图书馆",
       "ru": "библиотека"
     },
-    "examples": [],
-    "meta": {},
     "plural": "libraries"
   },
   {
     "id": "en_2684",
+    "lang": "en",
     "lemma": "tank",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12700,12 +11824,11 @@ const WORDS_EN_A2 = [
       "zh": "油箱",
       "ru": "бак"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tanks"
   },
   {
     "id": "en_2686",
+    "lang": "en",
     "lemma": "authority",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12725,12 +11848,11 @@ const WORDS_EN_A2 = [
       "zh": "权威",
       "ru": "авторитет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "authorities"
   },
   {
     "id": "en_2687",
+    "lang": "en",
     "lemma": "current",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12749,12 +11871,11 @@ const WORDS_EN_A2 = [
       "ja": "現在の",
       "zh": "当前的",
       "ru": "текущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2688",
+    "lang": "en",
     "lemma": "current",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12775,12 +11896,11 @@ const WORDS_EN_A2 = [
       "zh": "流动",
       "ru": "течение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "currents"
   },
   {
     "id": "en_2689",
+    "lang": "en",
     "lemma": "failure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12801,12 +11921,11 @@ const WORDS_EN_A2 = [
       "zh": "失败",
       "ru": "неудача"
     },
-    "examples": [],
-    "meta": {},
     "plural": "failures"
   },
   {
     "id": "en_2690",
+    "lang": "en",
     "lemma": "nightmare",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12827,12 +11946,11 @@ const WORDS_EN_A2 = [
       "zh": "噩梦",
       "ru": "кошмар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nightmares"
   },
   {
     "id": "en_2691",
+    "lang": "en",
     "lemma": "glory",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12852,12 +11970,11 @@ const WORDS_EN_A2 = [
       "zh": "荣耀",
       "ru": "слава"
     },
-    "examples": [],
-    "meta": {},
     "plural": "glories"
   },
   {
     "id": "en_2693",
+    "lang": "en",
     "lemma": "apple",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12878,12 +11995,11 @@ const WORDS_EN_A2 = [
       "zh": "苹果",
       "ru": "яблоко"
     },
-    "examples": [],
-    "meta": {},
     "plural": "apples"
   },
   {
     "id": "en_2696",
+    "lang": "en",
     "lemma": "rope",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12904,12 +12020,11 @@ const WORDS_EN_A2 = [
       "zh": "绳子",
       "ru": "веревка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ropes"
   },
   {
     "id": "en_2697",
+    "lang": "en",
     "lemma": "rope",
     "pos": "Verb",
     "cefr": "A2",
@@ -12928,15 +12043,11 @@ const WORDS_EN_A2 = [
       "ja": "結ぶ",
       "zh": "绑",
       "ru": "связывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rope",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2698",
+    "lang": "en",
     "lemma": "duck",
     "pos": "Nomen",
     "cefr": "A2",
@@ -12957,12 +12068,11 @@ const WORDS_EN_A2 = [
       "zh": "鸭子",
       "ru": "утка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ducks"
   },
   {
     "id": "en_2699",
+    "lang": "en",
     "lemma": "duck",
     "pos": "Verb",
     "cefr": "A2",
@@ -12981,15 +12091,11 @@ const WORDS_EN_A2 = [
       "ja": "かがむ",
       "zh": "躲避",
       "ru": "пригибаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "duck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2700",
+    "lang": "en",
     "lemma": "reputation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13009,12 +12115,11 @@ const WORDS_EN_A2 = [
       "zh": "名声",
       "ru": "репутация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reputations"
   },
   {
     "id": "en_2701",
+    "lang": "en",
     "lemma": "confidence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13034,12 +12139,11 @@ const WORDS_EN_A2 = [
       "zh": "信心",
       "ru": "уверенность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "confidences"
   },
   {
     "id": "en_2702",
+    "lang": "en",
     "lemma": "yard",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13060,12 +12164,11 @@ const WORDS_EN_A2 = [
       "zh": "院子",
       "ru": "двор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "yards"
   },
   {
     "id": "en_2703",
+    "lang": "en",
     "lemma": "beloved",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13084,12 +12187,11 @@ const WORDS_EN_A2 = [
       "ja": "愛される",
       "zh": "心爱的",
       "ru": "любимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2704",
+    "lang": "en",
     "lemma": "lack",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13109,12 +12211,11 @@ const WORDS_EN_A2 = [
       "zh": "缺乏",
       "ru": "недостаток"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lacks"
   },
   {
     "id": "en_2705",
+    "lang": "en",
     "lemma": "lack",
     "pos": "Verb",
     "cefr": "A2",
@@ -13133,15 +12234,11 @@ const WORDS_EN_A2 = [
       "ja": "欠ける",
       "zh": "缺少",
       "ru": "не хватать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lack",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2706",
+    "lang": "en",
     "lemma": "actual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13160,12 +12257,11 @@ const WORDS_EN_A2 = [
       "ja": "実際の",
       "zh": "实际的",
       "ru": "действительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2709",
+    "lang": "en",
     "lemma": "mental",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13184,12 +12280,11 @@ const WORDS_EN_A2 = [
       "ja": "精神的な",
       "zh": "精神的",
       "ru": "умственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2710",
+    "lang": "en",
     "lemma": "salt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13210,12 +12305,11 @@ const WORDS_EN_A2 = [
       "zh": "盐",
       "ru": "соль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "salts"
   },
   {
     "id": "en_2711",
+    "lang": "en",
     "lemma": "salt",
     "pos": "Verb",
     "cefr": "A2",
@@ -13235,15 +12329,11 @@ const WORDS_EN_A2 = [
       "ja": "塩をふる",
       "zh": "加盐",
       "ru": "солить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "salt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2712",
+    "lang": "en",
     "lemma": "flesh",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13263,12 +12353,11 @@ const WORDS_EN_A2 = [
       "zh": "肉体",
       "ru": "плоть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fleshes"
   },
   {
     "id": "en_2714",
+    "lang": "en",
     "lemma": "secure",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13288,12 +12377,11 @@ const WORDS_EN_A2 = [
       "ja": "安全な",
       "zh": "安全的",
       "ru": "безопасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2716",
+    "lang": "en",
     "lemma": "federal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13312,12 +12400,11 @@ const WORDS_EN_A2 = [
       "ja": "連邦の",
       "zh": "联邦的",
       "ru": "федеральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2717",
+    "lang": "en",
     "lemma": "sand",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13338,12 +12425,11 @@ const WORDS_EN_A2 = [
       "zh": "沙子",
       "ru": "песок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sands"
   },
   {
     "id": "en_2718",
+    "lang": "en",
     "lemma": "sand",
     "pos": "Verb",
     "cefr": "A2",
@@ -13363,15 +12449,11 @@ const WORDS_EN_A2 = [
       "ja": "やすりをかける",
       "zh": "打磨",
       "ru": "шлифовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sand",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2719",
+    "lang": "en",
     "lemma": "emotional",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13390,12 +12472,11 @@ const WORDS_EN_A2 = [
       "ja": "感情的な",
       "zh": "情绪化的",
       "ru": "эмоциональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2720",
+    "lang": "en",
     "lemma": "setting",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13416,12 +12497,11 @@ const WORDS_EN_A2 = [
       "zh": "设置",
       "ru": "настройка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "settings"
   },
   {
     "id": "en_2721",
+    "lang": "en",
     "lemma": "senator",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13441,12 +12521,11 @@ const WORDS_EN_A2 = [
       "zh": "参议员",
       "ru": "сенатор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "senators"
   },
   {
     "id": "en_2723",
+    "lang": "en",
     "lemma": "robbery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13466,12 +12545,11 @@ const WORDS_EN_A2 = [
       "zh": "抢劫",
       "ru": "грабеж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "robberies"
   },
   {
     "id": "en_2724",
+    "lang": "en",
     "lemma": "reward",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13491,12 +12569,11 @@ const WORDS_EN_A2 = [
       "zh": "奖励",
       "ru": "награда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rewards"
   },
   {
     "id": "en_2725",
+    "lang": "en",
     "lemma": "reward",
     "pos": "Verb",
     "cefr": "A2",
@@ -13515,15 +12592,11 @@ const WORDS_EN_A2 = [
       "ja": "報酬を与える",
       "zh": "奖励",
       "ru": "награждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reward",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2726",
+    "lang": "en",
     "lemma": "theater",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13543,12 +12616,11 @@ const WORDS_EN_A2 = [
       "zh": "剧院",
       "ru": "театр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "theaters"
   },
   {
     "id": "en_2727",
+    "lang": "en",
     "lemma": "commit",
     "pos": "Verb",
     "cefr": "A2",
@@ -13567,15 +12639,11 @@ const WORDS_EN_A2 = [
       "ja": "犯す",
       "zh": "犯",
       "ru": "совершать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "commit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2728",
+    "lang": "en",
     "lemma": "extraordinary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13594,12 +12662,11 @@ const WORDS_EN_A2 = [
       "ja": "並外れた",
       "zh": "非凡的",
       "ru": "необычайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2730",
+    "lang": "en",
     "lemma": "opposite",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13618,12 +12685,11 @@ const WORDS_EN_A2 = [
       "ja": "反対の",
       "zh": "相反的",
       "ru": "противоположный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2731",
+    "lang": "en",
     "lemma": "opposite",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13643,12 +12709,11 @@ const WORDS_EN_A2 = [
       "zh": "相反",
       "ru": "противоположность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "opposites"
   },
   {
     "id": "en_2734",
+    "lang": "en",
     "lemma": "chat",
     "pos": "Verb",
     "cefr": "A2",
@@ -13668,15 +12733,11 @@ const WORDS_EN_A2 = [
       "ja": "おしゃべりする",
       "zh": "闲聊",
       "ru": "болтать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2735",
+    "lang": "en",
     "lemma": "chat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13697,12 +12758,11 @@ const WORDS_EN_A2 = [
       "zh": "闲聊",
       "ru": "беседа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chats"
   },
   {
     "id": "en_2737",
+    "lang": "en",
     "lemma": "mummy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13722,12 +12782,11 @@ const WORDS_EN_A2 = [
       "zh": "木乃伊",
       "ru": "мумия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mummies"
   },
   {
     "id": "en_2738",
+    "lang": "en",
     "lemma": "bay",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13748,12 +12807,11 @@ const WORDS_EN_A2 = [
       "zh": "海湾",
       "ru": "залив"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bays"
   },
   {
     "id": "en_2739",
+    "lang": "en",
     "lemma": "slip",
     "pos": "Verb",
     "cefr": "A2",
@@ -13773,15 +12831,11 @@ const WORDS_EN_A2 = [
       "ja": "滑る",
       "zh": "滑动",
       "ru": "скользить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2740",
+    "lang": "en",
     "lemma": "slip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13802,12 +12856,11 @@ const WORDS_EN_A2 = [
       "zh": "错误",
       "ru": "ошибка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "slips"
   },
   {
     "id": "en_2741",
+    "lang": "en",
     "lemma": "alert",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13826,12 +12879,11 @@ const WORDS_EN_A2 = [
       "ja": "注意深い",
       "zh": "警惕的",
       "ru": "бдительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2742",
+    "lang": "en",
     "lemma": "alert",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13851,12 +12903,11 @@ const WORDS_EN_A2 = [
       "zh": "警报",
       "ru": "тревога"
     },
-    "examples": [],
-    "meta": {},
     "plural": "alerts"
   },
   {
     "id": "en_2743",
+    "lang": "en",
     "lemma": "alert",
     "pos": "Verb",
     "cefr": "A2",
@@ -13875,15 +12926,11 @@ const WORDS_EN_A2 = [
       "ja": "警告する",
       "zh": "警告",
       "ru": "предупреждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "alert",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2744",
+    "lang": "en",
     "lemma": "detail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13903,12 +12950,11 @@ const WORDS_EN_A2 = [
       "zh": "细节",
       "ru": "деталь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "details"
   },
   {
     "id": "en_2745",
+    "lang": "en",
     "lemma": "detail",
     "pos": "Verb",
     "cefr": "A2",
@@ -13927,15 +12973,11 @@ const WORDS_EN_A2 = [
       "ja": "詳しく説明する",
       "zh": "详述",
       "ru": "подробно описывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "detail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2746",
+    "lang": "en",
     "lemma": "pink",
     "pos": "Nomen",
     "cefr": "A2",
@@ -13956,12 +12998,11 @@ const WORDS_EN_A2 = [
       "zh": "粉红色",
       "ru": "розовый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pinks"
   },
   {
     "id": "en_2747",
+    "lang": "en",
     "lemma": "pink",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13981,12 +13022,11 @@ const WORDS_EN_A2 = [
       "ja": "ピンク色の",
       "zh": "粉红色的",
       "ru": "розовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2748",
+    "lang": "en",
     "lemma": "accepted",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14005,12 +13045,11 @@ const WORDS_EN_A2 = [
       "ja": "認められた",
       "zh": "被接受的",
       "ru": "принятый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2749",
+    "lang": "en",
     "lemma": "background",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14030,12 +13069,11 @@ const WORDS_EN_A2 = [
       "zh": "背景",
       "ru": "фон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "backgrounds"
   },
   {
     "id": "en_2751",
+    "lang": "en",
     "lemma": "garbage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14056,12 +13094,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2752",
+    "lang": "en",
     "lemma": "panic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14081,12 +13118,11 @@ const WORDS_EN_A2 = [
       "zh": "恐慌",
       "ru": "паника"
     },
-    "examples": [],
-    "meta": {},
     "plural": "panics"
   },
   {
     "id": "en_2753",
+    "lang": "en",
     "lemma": "panic",
     "pos": "Verb",
     "cefr": "A2",
@@ -14105,15 +13141,11 @@ const WORDS_EN_A2 = [
       "ja": "パニックになる",
       "zh": "惊慌失措",
       "ru": "паниковать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "panic",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2755",
+    "lang": "en",
     "lemma": "belt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14134,12 +13166,11 @@ const WORDS_EN_A2 = [
       "zh": "腰带",
       "ru": "ремень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "belts"
   },
   {
     "id": "en_2757",
+    "lang": "en",
     "lemma": "agreement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14159,12 +13190,11 @@ const WORDS_EN_A2 = [
       "zh": "协议",
       "ru": "соглашение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "agreements"
   },
   {
     "id": "en_2758",
+    "lang": "en",
     "lemma": "ability",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14185,12 +13215,11 @@ const WORDS_EN_A2 = [
       "zh": "能力",
       "ru": "способность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "abilities"
   },
   {
     "id": "en_2759",
+    "lang": "en",
     "lemma": "tiger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14211,12 +13240,11 @@ const WORDS_EN_A2 = [
       "zh": "老虎",
       "ru": "тигр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tigers"
   },
   {
     "id": "en_2761",
+    "lang": "en",
     "lemma": "culture",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14236,12 +13264,11 @@ const WORDS_EN_A2 = [
       "zh": "文化",
       "ru": "культура"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cultures"
   },
   {
     "id": "en_2762",
+    "lang": "en",
     "lemma": "culture",
     "pos": "Verb",
     "cefr": "A2",
@@ -14260,15 +13287,11 @@ const WORDS_EN_A2 = [
       "ja": "培養する",
       "zh": "培养",
       "ru": "культивировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "culture",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2764",
+    "lang": "en",
     "lemma": "task",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14289,12 +13312,11 @@ const WORDS_EN_A2 = [
       "zh": "任务",
       "ru": "задача"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tasks"
   },
   {
     "id": "en_2765",
+    "lang": "en",
     "lemma": "task",
     "pos": "Verb",
     "cefr": "A2",
@@ -14313,15 +13335,11 @@ const WORDS_EN_A2 = [
       "ja": "課す",
       "zh": "分配",
       "ru": "поручать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "task",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2766",
+    "lang": "en",
     "lemma": "solid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14341,12 +13359,11 @@ const WORDS_EN_A2 = [
       "ja": "固い",
       "zh": "坚固的",
       "ru": "твёрдый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2767",
+    "lang": "en",
     "lemma": "solid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14366,12 +13383,11 @@ const WORDS_EN_A2 = [
       "zh": "固体",
       "ru": "твёрдое тело"
     },
-    "examples": [],
-    "meta": {},
     "plural": "solids"
   },
   {
     "id": "en_2768",
+    "lang": "en",
     "lemma": "doll",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14392,12 +13408,11 @@ const WORDS_EN_A2 = [
       "zh": "娃娃",
       "ru": "кукла"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dolls"
   },
   {
     "id": "en_2769",
+    "lang": "en",
     "lemma": "intend",
     "pos": "Verb",
     "cefr": "A2",
@@ -14416,15 +13431,11 @@ const WORDS_EN_A2 = [
       "ja": "意図する",
       "zh": "打算",
       "ru": "намереваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "intend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2770",
+    "lang": "en",
     "lemma": "district",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14445,12 +13456,11 @@ const WORDS_EN_A2 = [
       "zh": "地区",
       "ru": "округ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "districts"
   },
   {
     "id": "en_2773",
+    "lang": "en",
     "lemma": "ignore",
     "pos": "Verb",
     "cefr": "A2",
@@ -14469,15 +13479,11 @@ const WORDS_EN_A2 = [
       "ja": "無視する",
       "zh": "忽视",
       "ru": "игнорировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ignore",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2774",
+    "lang": "en",
     "lemma": "useful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14496,12 +13502,11 @@ const WORDS_EN_A2 = [
       "ja": "役に立つ",
       "zh": "有用的",
       "ru": "полезный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2775",
+    "lang": "en",
     "lemma": "attempt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14521,12 +13526,11 @@ const WORDS_EN_A2 = [
       "zh": "尝试",
       "ru": "попытка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "attempts"
   },
   {
     "id": "en_2776",
+    "lang": "en",
     "lemma": "attempt",
     "pos": "Verb",
     "cefr": "A2",
@@ -14545,15 +13549,11 @@ const WORDS_EN_A2 = [
       "ja": "試みる",
       "zh": "尝试",
       "ru": "пытаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "attempt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2778",
+    "lang": "en",
     "lemma": "cutting",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14572,12 +13572,11 @@ const WORDS_EN_A2 = [
       "ja": "傷つける",
       "zh": "伤人的",
       "ru": "обидный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2779",
+    "lang": "en",
     "lemma": "guarantee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14597,12 +13596,11 @@ const WORDS_EN_A2 = [
       "zh": "保证",
       "ru": "гарантия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guarantees"
   },
   {
     "id": "en_2780",
+    "lang": "en",
     "lemma": "guarantee",
     "pos": "Verb",
     "cefr": "A2",
@@ -14621,15 +13619,11 @@ const WORDS_EN_A2 = [
       "ja": "保証する",
       "zh": "保证",
       "ru": "гарантировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "guarantee",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2781",
+    "lang": "en",
     "lemma": "gather",
     "pos": "Verb",
     "cefr": "A2",
@@ -14649,15 +13643,11 @@ const WORDS_EN_A2 = [
       "ja": "集まる",
       "zh": "聚集",
       "ru": "собираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gather",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2782",
+    "lang": "en",
     "lemma": "policy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14677,12 +13667,11 @@ const WORDS_EN_A2 = [
       "zh": "政策",
       "ru": "политика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "policies"
   },
   {
     "id": "en_2783",
+    "lang": "en",
     "lemma": "violent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14701,12 +13690,11 @@ const WORDS_EN_A2 = [
       "ja": "暴力的な",
       "zh": "暴力的",
       "ru": "насильственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2784",
+    "lang": "en",
     "lemma": "maid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14726,12 +13714,11 @@ const WORDS_EN_A2 = [
       "zh": "女仆",
       "ru": "служанка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "maids"
   },
   {
     "id": "en_2786",
+    "lang": "en",
     "lemma": "childhood",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14751,12 +13738,11 @@ const WORDS_EN_A2 = [
       "zh": "童年",
       "ru": "детство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2787",
+    "lang": "en",
     "lemma": "bow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14776,12 +13762,11 @@ const WORDS_EN_A2 = [
       "zh": "弓",
       "ru": "лук"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bows"
   },
   {
     "id": "en_2788",
+    "lang": "en",
     "lemma": "bow",
     "pos": "Verb",
     "cefr": "A2",
@@ -14800,15 +13785,11 @@ const WORDS_EN_A2 = [
       "ja": "弓で演奏する",
       "zh": "用弓拉奏",
       "ru": "играть смычком"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2789",
+    "lang": "en",
     "lemma": "chick",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14829,12 +13810,11 @@ const WORDS_EN_A2 = [
       "zh": "小鸡",
       "ru": "цыпленок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chicks"
   },
   {
     "id": "en_2790",
+    "lang": "en",
     "lemma": "disaster",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14854,12 +13834,11 @@ const WORDS_EN_A2 = [
       "zh": "灾难",
       "ru": "катастрофа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "disasters"
   },
   {
     "id": "en_2791",
+    "lang": "en",
     "lemma": "revolution",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14879,12 +13858,11 @@ const WORDS_EN_A2 = [
       "zh": "革命",
       "ru": "революция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "revolutions"
   },
   {
     "id": "en_2792",
+    "lang": "en",
     "lemma": "demon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14904,12 +13882,11 @@ const WORDS_EN_A2 = [
       "zh": "恶魔",
       "ru": "демон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "demons"
   },
   {
     "id": "en_2793",
+    "lang": "en",
     "lemma": "coincidence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -14929,12 +13906,11 @@ const WORDS_EN_A2 = [
       "zh": "巧合",
       "ru": "совпадение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "coincidences"
   },
   {
     "id": "en_2795",
+    "lang": "en",
     "lemma": "thin",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14954,12 +13930,11 @@ const WORDS_EN_A2 = [
       "ja": "薄い",
       "zh": "薄的",
       "ru": "тонкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2796",
+    "lang": "en",
     "lemma": "thin",
     "pos": "Verb",
     "cefr": "A2",
@@ -14978,15 +13953,11 @@ const WORDS_EN_A2 = [
       "ja": "薄くなる",
       "zh": "变薄",
       "ru": "становиться тоньше"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "thin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2798",
+    "lang": "en",
     "lemma": "crown",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15006,12 +13977,11 @@ const WORDS_EN_A2 = [
       "zh": "王冠",
       "ru": "корона"
     },
-    "examples": [],
-    "meta": {},
     "plural": "crowns"
   },
   {
     "id": "en_2799",
+    "lang": "en",
     "lemma": "crown",
     "pos": "Verb",
     "cefr": "A2",
@@ -15030,15 +14000,11 @@ const WORDS_EN_A2 = [
       "ja": "王冠をかぶせる",
       "zh": "加冕",
       "ru": "коронировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "crown",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2804",
+    "lang": "en",
     "lemma": "potential",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15057,12 +14023,11 @@ const WORDS_EN_A2 = [
       "ja": "潜在的な",
       "zh": "潜在的",
       "ru": "потенциальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2806",
+    "lang": "en",
     "lemma": "guitar",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15083,12 +14048,11 @@ const WORDS_EN_A2 = [
       "zh": "吉他",
       "ru": "гитара"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guitars"
   },
   {
     "id": "en_2807",
+    "lang": "en",
     "lemma": "committee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15108,12 +14072,11 @@ const WORDS_EN_A2 = [
       "zh": "委员会",
       "ru": "комитет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "committees"
   },
   {
     "id": "en_2808",
+    "lang": "en",
     "lemma": "dozen",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15134,12 +14097,11 @@ const WORDS_EN_A2 = [
       "zh": "一打",
       "ru": "дюжина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dozens"
   },
   {
     "id": "en_2809",
+    "lang": "en",
     "lemma": "delivery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15160,12 +14122,11 @@ const WORDS_EN_A2 = [
       "zh": "送货",
       "ru": "доставка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "deliveries"
   },
   {
     "id": "en_2810",
+    "lang": "en",
     "lemma": "advance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15185,12 +14146,11 @@ const WORDS_EN_A2 = [
       "zh": "进展",
       "ru": "продвижение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "advances"
   },
   {
     "id": "en_2811",
+    "lang": "en",
     "lemma": "advance",
     "pos": "Verb",
     "cefr": "A2",
@@ -15209,15 +14169,11 @@ const WORDS_EN_A2 = [
       "ja": "進む",
       "zh": "前进",
       "ru": "продвигаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "advance",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2813",
+    "lang": "en",
     "lemma": "hunter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15238,12 +14194,11 @@ const WORDS_EN_A2 = [
       "zh": "猎人",
       "ru": "охотник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hunters"
   },
   {
     "id": "en_2814",
+    "lang": "en",
     "lemma": "latest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15262,12 +14217,11 @@ const WORDS_EN_A2 = [
       "ja": "最新の",
       "zh": "最近的",
       "ru": "самый свежий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2815",
+    "lang": "en",
     "lemma": "latest",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15287,12 +14241,11 @@ const WORDS_EN_A2 = [
       "zh": "最新消息",
       "ru": "последние новости"
     },
-    "examples": [],
-    "meta": {},
     "plural": "latests"
   },
   {
     "id": "en_2816",
+    "lang": "en",
     "lemma": "swing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15313,12 +14266,11 @@ const WORDS_EN_A2 = [
       "zh": "秋千",
       "ru": "качели"
     },
-    "examples": [],
-    "meta": {},
     "plural": "swings"
   },
   {
     "id": "en_2817",
+    "lang": "en",
     "lemma": "capital",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15338,12 +14290,11 @@ const WORDS_EN_A2 = [
       "zh": "首都",
       "ru": "столица"
     },
-    "examples": [],
-    "meta": {},
     "plural": "capitals"
   },
   {
     "id": "en_2818",
+    "lang": "en",
     "lemma": "capital",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15362,12 +14313,11 @@ const WORDS_EN_A2 = [
       "ja": "重要な",
       "zh": "重要的",
       "ru": "важный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2819",
+    "lang": "en",
     "lemma": "dirt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15388,12 +14338,11 @@ const WORDS_EN_A2 = [
       "zh": "土壤",
       "ru": "грязь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dirts"
   },
   {
     "id": "en_2820",
+    "lang": "en",
     "lemma": "whistle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15414,12 +14363,11 @@ const WORDS_EN_A2 = [
       "zh": "口哨",
       "ru": "свист"
     },
-    "examples": [],
-    "meta": {},
     "plural": "whistles"
   },
   {
     "id": "en_2821",
+    "lang": "en",
     "lemma": "whistle",
     "pos": "Verb",
     "cefr": "A2",
@@ -15439,15 +14387,11 @@ const WORDS_EN_A2 = [
       "ja": "口笛を吹く",
       "zh": "吹口哨",
       "ru": "свистеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "whistle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2823",
+    "lang": "en",
     "lemma": "deny",
     "pos": "Verb",
     "cefr": "A2",
@@ -15466,15 +14410,11 @@ const WORDS_EN_A2 = [
       "ja": "否定する",
       "zh": "否认",
       "ru": "отрицать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "deny",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2824",
+    "lang": "en",
     "lemma": "urgent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15493,12 +14433,11 @@ const WORDS_EN_A2 = [
       "ja": "緊急の",
       "zh": "紧急的",
       "ru": "срочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2825",
+    "lang": "en",
     "lemma": "behavior",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15518,12 +14457,11 @@ const WORDS_EN_A2 = [
       "zh": "行为",
       "ru": "поведение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "behaviors"
   },
   {
     "id": "en_2826",
+    "lang": "en",
     "lemma": "mixed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15543,12 +14481,11 @@ const WORDS_EN_A2 = [
       "ja": "混ざった",
       "zh": "混合的",
       "ru": "смешанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2828",
+    "lang": "en",
     "lemma": "assure",
     "pos": "Verb",
     "cefr": "A2",
@@ -15568,15 +14505,11 @@ const WORDS_EN_A2 = [
       "ja": "確認させる",
       "zh": "保证",
       "ru": "уверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assure",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2829",
+    "lang": "en",
     "lemma": "subtitles",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15597,12 +14530,11 @@ const WORDS_EN_A2 = [
       "zh": "字幕",
       "ru": "субтитры"
     },
-    "examples": [],
-    "meta": {},
     "plural": "subtitles"
   },
   {
     "id": "en_2830",
+    "lang": "en",
     "lemma": "explanation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15623,12 +14555,11 @@ const WORDS_EN_A2 = [
       "zh": "解释",
       "ru": "объяснение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "explanations"
   },
   {
     "id": "en_2832",
+    "lang": "en",
     "lemma": "unique",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15648,12 +14579,11 @@ const WORDS_EN_A2 = [
       "ja": "ユニークな",
       "zh": "独特的",
       "ru": "уникальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2833",
+    "lang": "en",
     "lemma": "billion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15673,12 +14603,11 @@ const WORDS_EN_A2 = [
       "zh": "十亿",
       "ru": "миллиард"
     },
-    "examples": [],
-    "meta": {},
     "plural": "billions"
   },
   {
     "id": "en_2834",
+    "lang": "en",
     "lemma": "duke",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15698,12 +14627,11 @@ const WORDS_EN_A2 = [
       "zh": "公爵",
       "ru": "герцог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dukes"
   },
   {
     "id": "en_2836",
+    "lang": "en",
     "lemma": "slave",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15723,12 +14651,11 @@ const WORDS_EN_A2 = [
       "zh": "奴隶",
       "ru": "раб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "slaves"
   },
   {
     "id": "en_2837",
+    "lang": "en",
     "lemma": "slave",
     "pos": "Verb",
     "cefr": "A2",
@@ -15748,15 +14675,11 @@ const WORDS_EN_A2 = [
       "ja": "懸命に働く",
       "zh": "辛苦工作",
       "ru": "работать усердно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slave",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2838",
+    "lang": "en",
     "lemma": "agents",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15777,12 +14700,11 @@ const WORDS_EN_A2 = [
       "zh": "代理人",
       "ru": "агент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "agents"
   },
   {
     "id": "en_2839",
+    "lang": "en",
     "lemma": "carol",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15803,12 +14725,11 @@ const WORDS_EN_A2 = [
       "zh": "颂歌",
       "ru": "песнь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "carols"
   },
   {
     "id": "en_2840",
+    "lang": "en",
     "lemma": "carol",
     "pos": "Verb",
     "cefr": "A2",
@@ -15828,15 +14749,11 @@ const WORDS_EN_A2 = [
       "ja": "楽しく歌う",
       "zh": "欢乐地唱歌",
       "ru": "петь радостно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "carol",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2841",
+    "lang": "en",
     "lemma": "cruel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15856,12 +14773,11 @@ const WORDS_EN_A2 = [
       "ja": "残酷な",
       "zh": "残忍的",
       "ru": "жестокий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2842",
+    "lang": "en",
     "lemma": "mask",
     "pos": "Nomen",
     "cefr": "A2",
@@ -15882,12 +14798,11 @@ const WORDS_EN_A2 = [
       "zh": "面具",
       "ru": "маска"
     },
-    "examples": [],
-    "meta": {},
     "plural": "masks"
   },
   {
     "id": "en_2843",
+    "lang": "en",
     "lemma": "mask",
     "pos": "Verb",
     "cefr": "A2",
@@ -15907,15 +14822,11 @@ const WORDS_EN_A2 = [
       "ja": "隠す",
       "zh": "掩盖",
       "ru": "скрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mask",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2844",
+    "lang": "en",
     "lemma": "behave",
     "pos": "Verb",
     "cefr": "A2",
@@ -15935,15 +14846,11 @@ const WORDS_EN_A2 = [
       "ja": "振る舞う",
       "zh": "表现",
       "ru": "вести себя"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "behave",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2845",
+    "lang": "en",
     "lemma": "bury",
     "pos": "Verb",
     "cefr": "A2",
@@ -15964,15 +14871,11 @@ const WORDS_EN_A2 = [
       "ja": "埋める",
       "zh": "埋葬",
       "ru": "хоронить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bury",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2846",
+    "lang": "en",
     "lemma": "massive",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15992,12 +14895,11 @@ const WORDS_EN_A2 = [
       "ja": "巨大な",
       "zh": "巨大的",
       "ru": "массивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2847",
+    "lang": "en",
     "lemma": "pathetic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16016,12 +14918,11 @@ const WORDS_EN_A2 = [
       "ja": "哀れな",
       "zh": "可怜的",
       "ru": "жалкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2848",
+    "lang": "en",
     "lemma": "species",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16041,12 +14942,11 @@ const WORDS_EN_A2 = [
       "zh": "物种",
       "ru": "вид"
     },
-    "examples": [],
-    "meta": {},
     "plural": "species"
   },
   {
     "id": "en_2849",
+    "lang": "en",
     "lemma": "loan",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16067,12 +14967,11 @@ const WORDS_EN_A2 = [
       "zh": "贷款",
       "ru": "кредит"
     },
-    "examples": [],
-    "meta": {},
     "plural": "loans"
   },
   {
     "id": "en_2850",
+    "lang": "en",
     "lemma": "loan",
     "pos": "Verb",
     "cefr": "A2",
@@ -16092,15 +14991,11 @@ const WORDS_EN_A2 = [
       "ja": "貸す",
       "zh": "借出",
       "ru": "одалживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "loan",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2851",
+    "lang": "en",
     "lemma": "struggle",
     "pos": "Verb",
     "cefr": "A2",
@@ -16119,15 +15014,11 @@ const WORDS_EN_A2 = [
       "ja": "奮闘する",
       "zh": "奋力",
       "ru": "бороться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "struggle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2852",
+    "lang": "en",
     "lemma": "struggle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16147,12 +15038,11 @@ const WORDS_EN_A2 = [
       "zh": "斗争",
       "ru": "борьба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "struggles"
   },
   {
     "id": "en_2853",
+    "lang": "en",
     "lemma": "dish",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16173,12 +15063,11 @@ const WORDS_EN_A2 = [
       "zh": "盘子",
       "ru": "тарелка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dishes"
   },
   {
     "id": "en_2857",
+    "lang": "en",
     "lemma": "channel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16198,12 +15087,11 @@ const WORDS_EN_A2 = [
       "zh": "频道",
       "ru": "канал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "channels"
   },
   {
     "id": "en_2858",
+    "lang": "en",
     "lemma": "channel",
     "pos": "Verb",
     "cefr": "A2",
@@ -16222,15 +15110,11 @@ const WORDS_EN_A2 = [
       "ja": "導く",
       "zh": "引导",
       "ru": "направлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "channel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2860",
+    "lang": "en",
     "lemma": "swimming",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16251,12 +15135,11 @@ const WORDS_EN_A2 = [
       "zh": "游泳",
       "ru": "плавание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2861",
+    "lang": "en",
     "lemma": "daily",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16276,12 +15159,11 @@ const WORDS_EN_A2 = [
       "ja": "毎日の",
       "zh": "每日的",
       "ru": "ежедневный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2862",
+    "lang": "en",
     "lemma": "basement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16302,12 +15184,11 @@ const WORDS_EN_A2 = [
       "zh": "地下室",
       "ru": "подвал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "basements"
   },
   {
     "id": "en_2863",
+    "lang": "en",
     "lemma": "quarter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16327,12 +15208,11 @@ const WORDS_EN_A2 = [
       "zh": "四分之一",
       "ru": "четверть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "quarters"
   },
   {
     "id": "en_2864",
+    "lang": "en",
     "lemma": "quarter",
     "pos": "Verb",
     "cefr": "A2",
@@ -16351,15 +15231,11 @@ const WORDS_EN_A2 = [
       "ja": "四等分する",
       "zh": "四等分",
       "ru": "делить на четыре"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "quarter",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2865",
+    "lang": "en",
     "lemma": "bound",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16378,12 +15254,11 @@ const WORDS_EN_A2 = [
       "ja": "確実な",
       "zh": "必然的",
       "ru": "неизбежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2866",
+    "lang": "en",
     "lemma": "bound",
     "pos": "Verb",
     "cefr": "A2",
@@ -16403,15 +15278,11 @@ const WORDS_EN_A2 = [
       "ja": "跳ぶ",
       "zh": "跳跃",
       "ru": "прыгать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bound",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2867",
+    "lang": "en",
     "lemma": "navy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16432,12 +15303,11 @@ const WORDS_EN_A2 = [
       "zh": "深蓝色",
       "ru": "темно-синий"
     },
-    "examples": [],
-    "meta": {},
     "plural": "navies"
   },
   {
     "id": "en_2868",
+    "lang": "en",
     "lemma": "article",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16457,12 +15327,11 @@ const WORDS_EN_A2 = [
       "zh": "文章",
       "ru": "статья"
     },
-    "examples": [],
-    "meta": {},
     "plural": "articles"
   },
   {
     "id": "en_2869",
+    "lang": "en",
     "lemma": "guide",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16483,12 +15352,11 @@ const WORDS_EN_A2 = [
       "zh": "导游",
       "ru": "гид"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guides"
   },
   {
     "id": "en_2870",
+    "lang": "en",
     "lemma": "guide",
     "pos": "Verb",
     "cefr": "A2",
@@ -16508,15 +15376,11 @@ const WORDS_EN_A2 = [
       "ja": "案内する",
       "zh": "引导",
       "ru": "направлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "guide",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2871",
+    "lang": "en",
     "lemma": "accused",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16536,12 +15400,11 @@ const WORDS_EN_A2 = [
       "zh": "被告",
       "ru": "обвиняемый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "accused"
   },
   {
     "id": "en_2872",
+    "lang": "en",
     "lemma": "transfer",
     "pos": "Verb",
     "cefr": "A2",
@@ -16560,15 +15423,11 @@ const WORDS_EN_A2 = [
       "ja": "移す",
       "zh": "转移",
       "ru": "передавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "transfer",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2873",
+    "lang": "en",
     "lemma": "transfer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16588,12 +15447,11 @@ const WORDS_EN_A2 = [
       "zh": "转移",
       "ru": "передача"
     },
-    "examples": [],
-    "meta": {},
     "plural": "transfers"
   },
   {
     "id": "en_2874",
+    "lang": "en",
     "lemma": "guts",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16613,12 +15471,11 @@ const WORDS_EN_A2 = [
       "zh": "内脏",
       "ru": "кишки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guts"
   },
   {
     "id": "en_2875",
+    "lang": "en",
     "lemma": "quality",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16638,12 +15495,11 @@ const WORDS_EN_A2 = [
       "zh": "质量",
       "ru": "качество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "qualities"
   },
   {
     "id": "en_2877",
+    "lang": "en",
     "lemma": "roman",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16662,12 +15518,11 @@ const WORDS_EN_A2 = [
       "ja": "ローマの",
       "zh": "罗马的",
       "ru": "римский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2878",
+    "lang": "en",
     "lemma": "greater",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16686,12 +15541,11 @@ const WORDS_EN_A2 = [
       "ja": "より大きい",
       "zh": "更大的",
       "ru": "больший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2880",
+    "lang": "en",
     "lemma": "couch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16712,12 +15566,11 @@ const WORDS_EN_A2 = [
       "zh": "沙发",
       "ru": "диван"
     },
-    "examples": [],
-    "meta": {},
     "plural": "couches"
   },
   {
     "id": "en_2881",
+    "lang": "en",
     "lemma": "cheer",
     "pos": "Verb",
     "cefr": "A2",
@@ -16736,15 +15589,11 @@ const WORDS_EN_A2 = [
       "ja": "歓声を上げる",
       "zh": "欢呼",
       "ru": "приветствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cheer",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2882",
+    "lang": "en",
     "lemma": "cheer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16764,12 +15613,11 @@ const WORDS_EN_A2 = [
       "zh": "欢呼",
       "ru": "приветствие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cheers"
   },
   {
     "id": "en_2883",
+    "lang": "en",
     "lemma": "shoe",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16790,12 +15638,11 @@ const WORDS_EN_A2 = [
       "zh": "鞋",
       "ru": "туфля"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shoes"
   },
   {
     "id": "en_2885",
+    "lang": "en",
     "lemma": "title",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16815,12 +15662,11 @@ const WORDS_EN_A2 = [
       "zh": "标题",
       "ru": "название"
     },
-    "examples": [],
-    "meta": {},
     "plural": "titles"
   },
   {
     "id": "en_2887",
+    "lang": "en",
     "lemma": "shy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16839,12 +15685,11 @@ const WORDS_EN_A2 = [
       "ja": "恥ずかしがりの",
       "zh": "害羞的",
       "ru": "застенчивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2888",
+    "lang": "en",
     "lemma": "punishment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16864,12 +15709,11 @@ const WORDS_EN_A2 = [
       "zh": "惩罚",
       "ru": "наказание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "punishments"
   },
   {
     "id": "en_2890",
+    "lang": "en",
     "lemma": "closet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16890,12 +15734,11 @@ const WORDS_EN_A2 = [
       "zh": "衣柜",
       "ru": "шкаф"
     },
-    "examples": [],
-    "meta": {},
     "plural": "closets"
   },
   {
     "id": "en_2892",
+    "lang": "en",
     "lemma": "fever",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16915,12 +15758,11 @@ const WORDS_EN_A2 = [
       "zh": "发烧",
       "ru": "лихорадка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fevers"
   },
   {
     "id": "en_2893",
+    "lang": "en",
     "lemma": "coward",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16940,12 +15782,11 @@ const WORDS_EN_A2 = [
       "zh": "懦夫",
       "ru": "трус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cowards"
   },
   {
     "id": "en_2894",
+    "lang": "en",
     "lemma": "flash",
     "pos": "Nomen",
     "cefr": "A2",
@@ -16965,12 +15806,11 @@ const WORDS_EN_A2 = [
       "zh": "闪光",
       "ru": "вспышка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flashes"
   },
   {
     "id": "en_2895",
+    "lang": "en",
     "lemma": "flash",
     "pos": "Verb",
     "cefr": "A2",
@@ -16989,15 +15829,11 @@ const WORDS_EN_A2 = [
       "ja": "ひらめく",
       "zh": "闪烁",
       "ru": "сверкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flash",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2899",
+    "lang": "en",
     "lemma": "bowl",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17018,12 +15854,11 @@ const WORDS_EN_A2 = [
       "zh": "碗",
       "ru": "миска"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bowls"
   },
   {
     "id": "en_2900",
+    "lang": "en",
     "lemma": "bowl",
     "pos": "Verb",
     "cefr": "A2",
@@ -17043,15 +15878,11 @@ const WORDS_EN_A2 = [
       "ja": "ボウリングをする",
       "zh": "打保龄球",
       "ru": "играть в боулинг"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bowl",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2901",
+    "lang": "en",
     "lemma": "supply",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17072,12 +15903,11 @@ const WORDS_EN_A2 = [
       "zh": "供应",
       "ru": "запас"
     },
-    "examples": [],
-    "meta": {},
     "plural": "supplies"
   },
   {
     "id": "en_2902",
+    "lang": "en",
     "lemma": "supply",
     "pos": "Verb",
     "cefr": "A2",
@@ -17097,15 +15927,11 @@ const WORDS_EN_A2 = [
       "ja": "供給する",
       "zh": "供应",
       "ru": "поставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "supply",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2903",
+    "lang": "en",
     "lemma": "sensitive",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17125,12 +15951,11 @@ const WORDS_EN_A2 = [
       "ja": "敏感な",
       "zh": "敏感的",
       "ru": "чувствительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2904",
+    "lang": "en",
     "lemma": "dollar",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17150,12 +15975,11 @@ const WORDS_EN_A2 = [
       "zh": "美元",
       "ru": "доллар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dollars"
   },
   {
     "id": "en_2905",
+    "lang": "en",
     "lemma": "tone",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17176,12 +16000,11 @@ const WORDS_EN_A2 = [
       "zh": "音色",
       "ru": "тон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tones"
   },
   {
     "id": "en_2906",
+    "lang": "en",
     "lemma": "tone",
     "pos": "Verb",
     "cefr": "A2",
@@ -17200,15 +16023,11 @@ const WORDS_EN_A2 = [
       "ja": "音色を与える",
       "zh": "给予音色",
       "ru": "тонировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tone",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2908",
+    "lang": "en",
     "lemma": "cheating",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17228,12 +16047,11 @@ const WORDS_EN_A2 = [
       "zh": "作弊",
       "ru": "обман"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2909",
+    "lang": "en",
     "lemma": "confess",
     "pos": "Verb",
     "cefr": "A2",
@@ -17252,15 +16070,11 @@ const WORDS_EN_A2 = [
       "ja": "告白する",
       "zh": "承认",
       "ru": "признаваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "confess",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2910",
+    "lang": "en",
     "lemma": "demand",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17280,12 +16094,11 @@ const WORDS_EN_A2 = [
       "zh": "需求",
       "ru": "спрос"
     },
-    "examples": [],
-    "meta": {},
     "plural": "demands"
   },
   {
     "id": "en_2911",
+    "lang": "en",
     "lemma": "demand",
     "pos": "Verb",
     "cefr": "A2",
@@ -17304,15 +16117,11 @@ const WORDS_EN_A2 = [
       "ja": "要求する",
       "zh": "要求",
       "ru": "требовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "demand",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2912",
+    "lang": "en",
     "lemma": "museum",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17333,12 +16142,11 @@ const WORDS_EN_A2 = [
       "zh": "博物馆",
       "ru": "музей"
     },
-    "examples": [],
-    "meta": {},
     "plural": "museums"
   },
   {
     "id": "en_2913",
+    "lang": "en",
     "lemma": "unknown",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17357,12 +16165,11 @@ const WORDS_EN_A2 = [
       "ja": "未知の",
       "zh": "未知的",
       "ru": "неизвестный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2914",
+    "lang": "en",
     "lemma": "drama",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17382,12 +16189,11 @@ const WORDS_EN_A2 = [
       "zh": "戏剧",
       "ru": "драма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dramas"
   },
   {
     "id": "en_2915",
+    "lang": "en",
     "lemma": "suspicious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17406,12 +16212,11 @@ const WORDS_EN_A2 = [
       "ja": "疑わしい",
       "zh": "可疑的",
       "ru": "подозрительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2916",
+    "lang": "en",
     "lemma": "adult",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17432,12 +16237,11 @@ const WORDS_EN_A2 = [
       "zh": "成人",
       "ru": "взрослый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "adults"
   },
   {
     "id": "en_2917",
+    "lang": "en",
     "lemma": "frightened",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17457,12 +16261,11 @@ const WORDS_EN_A2 = [
       "ja": "怖がっている",
       "zh": "害怕的",
       "ru": "испуганный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2918",
+    "lang": "en",
     "lemma": "steady",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17482,12 +16285,11 @@ const WORDS_EN_A2 = [
       "ja": "安定した",
       "zh": "稳定的",
       "ru": "устойчивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2919",
+    "lang": "en",
     "lemma": "steady",
     "pos": "Verb",
     "cefr": "A2",
@@ -17506,15 +16308,11 @@ const WORDS_EN_A2 = [
       "ja": "安定させる",
       "zh": "稳定",
       "ru": "стабилизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "steady",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2921",
+    "lang": "en",
     "lemma": "sandwich",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17535,12 +16333,11 @@ const WORDS_EN_A2 = [
       "zh": "三明治",
       "ru": "бутерброд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sandwiches"
   },
   {
     "id": "en_2922",
+    "lang": "en",
     "lemma": "sandwich",
     "pos": "Verb",
     "cefr": "A2",
@@ -17559,15 +16356,11 @@ const WORDS_EN_A2 = [
       "ja": "挟む",
       "zh": "夹在中间",
       "ru": "зажимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sandwich",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2924",
+    "lang": "en",
     "lemma": "joint",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17588,12 +16381,11 @@ const WORDS_EN_A2 = [
       "zh": "关节",
       "ru": "сустав"
     },
-    "examples": [],
-    "meta": {},
     "plural": "joints"
   },
   {
     "id": "en_2926",
+    "lang": "en",
     "lemma": "package",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17614,12 +16406,11 @@ const WORDS_EN_A2 = [
       "zh": "包裹",
       "ru": "пакет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "packages"
   },
   {
     "id": "en_2927",
+    "lang": "en",
     "lemma": "package",
     "pos": "Verb",
     "cefr": "A2",
@@ -17639,15 +16430,11 @@ const WORDS_EN_A2 = [
       "ja": "梱包する",
       "zh": "包装",
       "ru": "упаковывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "package",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2929",
+    "lang": "en",
     "lemma": "possibility",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17667,12 +16454,11 @@ const WORDS_EN_A2 = [
       "zh": "可能性",
       "ru": "возможность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "possibilities"
   },
   {
     "id": "en_2930",
+    "lang": "en",
     "lemma": "civil",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17691,12 +16477,11 @@ const WORDS_EN_A2 = [
       "ja": "市民の",
       "zh": "民间的",
       "ru": "гражданский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2932",
+    "lang": "en",
     "lemma": "baseball",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17717,12 +16502,11 @@ const WORDS_EN_A2 = [
       "zh": "棒球",
       "ru": "бейсбол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "baseballs"
   },
   {
     "id": "en_2933",
+    "lang": "en",
     "lemma": "express",
     "pos": "Verb",
     "cefr": "A2",
@@ -17742,15 +16526,11 @@ const WORDS_EN_A2 = [
       "ja": "表現する",
       "zh": "表达",
       "ru": "выражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "express",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2934",
+    "lang": "en",
     "lemma": "express",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17770,12 +16550,11 @@ const WORDS_EN_A2 = [
       "ja": "速い",
       "zh": "快速",
       "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2935",
+    "lang": "en",
     "lemma": "miserable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17794,12 +16573,11 @@ const WORDS_EN_A2 = [
       "ja": "惨めな",
       "zh": "悲惨",
       "ru": "жалкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2936",
+    "lang": "en",
     "lemma": "lion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17820,12 +16598,11 @@ const WORDS_EN_A2 = [
       "zh": "狮子",
       "ru": "лев"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lions"
   },
   {
     "id": "en_2937",
+    "lang": "en",
     "lemma": "shine",
     "pos": "Verb",
     "cefr": "A2",
@@ -17845,15 +16622,11 @@ const WORDS_EN_A2 = [
       "ja": "輝く",
       "zh": "闪耀",
       "ru": "сиять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shine",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2938",
+    "lang": "en",
     "lemma": "shine",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17874,12 +16647,11 @@ const WORDS_EN_A2 = [
       "zh": "光泽",
       "ru": "блеск"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_2939",
+    "lang": "en",
     "lemma": "assault",
     "pos": "Verb",
     "cefr": "A2",
@@ -17898,15 +16670,11 @@ const WORDS_EN_A2 = [
       "ja": "襲撃する",
       "zh": "袭击",
       "ru": "нападать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assault",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2943",
+    "lang": "en",
     "lemma": "argue",
     "pos": "Verb",
     "cefr": "A2",
@@ -17926,15 +16694,11 @@ const WORDS_EN_A2 = [
       "ja": "議論する",
       "zh": "争论",
       "ru": "спорить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "argue",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2944",
+    "lang": "en",
     "lemma": "trail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -17955,12 +16719,11 @@ const WORDS_EN_A2 = [
       "zh": "小径",
       "ru": "тропа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "trails"
   },
   {
     "id": "en_2945",
+    "lang": "en",
     "lemma": "trail",
     "pos": "Verb",
     "cefr": "A2",
@@ -17980,15 +16743,11 @@ const WORDS_EN_A2 = [
       "ja": "後をつける",
       "zh": "跟踪",
       "ru": "следовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2946",
+    "lang": "en",
     "lemma": "option",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18008,12 +16767,11 @@ const WORDS_EN_A2 = [
       "zh": "选项",
       "ru": "вариант"
     },
-    "examples": [],
-    "meta": {},
     "plural": "options"
   },
   {
     "id": "en_2947",
+    "lang": "en",
     "lemma": "recall",
     "pos": "Verb",
     "cefr": "A2",
@@ -18032,15 +16790,11 @@ const WORDS_EN_A2 = [
       "ja": "思い出す",
       "zh": "回忆",
       "ru": "вспоминать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "recall",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2948",
+    "lang": "en",
     "lemma": "recall",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18060,12 +16814,11 @@ const WORDS_EN_A2 = [
       "zh": "回忆",
       "ru": "воспоминание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "recalls"
   },
   {
     "id": "en_2949",
+    "lang": "en",
     "lemma": "collection",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18086,12 +16839,11 @@ const WORDS_EN_A2 = [
       "zh": "收集",
       "ru": "коллекция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "collections"
   },
   {
     "id": "en_2950",
+    "lang": "en",
     "lemma": "accent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18112,12 +16864,11 @@ const WORDS_EN_A2 = [
       "zh": "口音",
       "ru": "акцент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "accents"
   },
   {
     "id": "en_2953",
+    "lang": "en",
     "lemma": "embarrassed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18137,12 +16888,11 @@ const WORDS_EN_A2 = [
       "ja": "恥ずかしい",
       "zh": "尴尬",
       "ru": "смущённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2954",
+    "lang": "en",
     "lemma": "mobile",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18163,12 +16913,11 @@ const WORDS_EN_A2 = [
       "zh": "手机",
       "ru": "мобильный телефон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mobiles"
   },
   {
     "id": "en_2955",
+    "lang": "en",
     "lemma": "mobile",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18187,12 +16936,11 @@ const WORDS_EN_A2 = [
       "ja": "動く",
       "zh": "可移动",
       "ru": "мобильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2956",
+    "lang": "en",
     "lemma": "customer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18213,12 +16961,11 @@ const WORDS_EN_A2 = [
       "zh": "顾客",
       "ru": "клиент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "customers"
   },
   {
     "id": "en_2957",
+    "lang": "en",
     "lemma": "sec",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18239,12 +16986,11 @@ const WORDS_EN_A2 = [
       "zh": "秒",
       "ru": "секунда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "secs"
   },
   {
     "id": "en_2958",
+    "lang": "en",
     "lemma": "charity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18264,12 +17010,11 @@ const WORDS_EN_A2 = [
       "zh": "慈善",
       "ru": "благотворительность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "charities"
   },
   {
     "id": "en_2960",
+    "lang": "en",
     "lemma": "flag",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18289,12 +17034,11 @@ const WORDS_EN_A2 = [
       "zh": "旗帜",
       "ru": "флаг"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flags"
   },
   {
     "id": "en_2961",
+    "lang": "en",
     "lemma": "flag",
     "pos": "Verb",
     "cefr": "A2",
@@ -18314,15 +17058,11 @@ const WORDS_EN_A2 = [
       "ja": "印をつける",
       "zh": "标记",
       "ru": "отмечать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flag",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2962",
+    "lang": "en",
     "lemma": "balance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18342,12 +17082,11 @@ const WORDS_EN_A2 = [
       "zh": "平衡",
       "ru": "баланс"
     },
-    "examples": [],
-    "meta": {},
     "plural": "balances"
   },
   {
     "id": "en_2963",
+    "lang": "en",
     "lemma": "balance",
     "pos": "Verb",
     "cefr": "A2",
@@ -18366,15 +17105,11 @@ const WORDS_EN_A2 = [
       "ja": "バランスを取る",
       "zh": "平衡",
       "ru": "уравновешивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "balance",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2966",
+    "lang": "en",
     "lemma": "wallet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18395,12 +17130,11 @@ const WORDS_EN_A2 = [
       "zh": "钱包",
       "ru": "кошелек"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wallets"
   },
   {
     "id": "en_2967",
+    "lang": "en",
     "lemma": "shout",
     "pos": "Verb",
     "cefr": "A2",
@@ -18420,15 +17154,11 @@ const WORDS_EN_A2 = [
       "ja": "叫ぶ",
       "zh": "喊叫",
       "ru": "кричать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shout",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2968",
+    "lang": "en",
     "lemma": "shout",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18449,12 +17179,11 @@ const WORDS_EN_A2 = [
       "zh": "喊声",
       "ru": "крик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shouts"
   },
   {
     "id": "en_2969",
+    "lang": "en",
     "lemma": "impression",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18474,12 +17203,11 @@ const WORDS_EN_A2 = [
       "zh": "印象",
       "ru": "впечатление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "impressions"
   },
   {
     "id": "en_2971",
+    "lang": "en",
     "lemma": "favour",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18499,12 +17227,11 @@ const WORDS_EN_A2 = [
       "zh": "恩惠",
       "ru": "одолжение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "favours"
   },
   {
     "id": "en_2972",
+    "lang": "en",
     "lemma": "favour",
     "pos": "Verb",
     "cefr": "A2",
@@ -18523,15 +17250,11 @@ const WORDS_EN_A2 = [
       "ja": "好む",
       "zh": "偏好",
       "ru": "отдавать предпочтение"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "favour",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2973",
+    "lang": "en",
     "lemma": "reaction",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18551,12 +17274,11 @@ const WORDS_EN_A2 = [
       "zh": "反应",
       "ru": "реакция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reactions"
   },
   {
     "id": "en_2974",
+    "lang": "en",
     "lemma": "network",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18576,12 +17298,11 @@ const WORDS_EN_A2 = [
       "zh": "网络",
       "ru": "сеть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "networks"
   },
   {
     "id": "en_2975",
+    "lang": "en",
     "lemma": "network",
     "pos": "Verb",
     "cefr": "A2",
@@ -18601,15 +17322,11 @@ const WORDS_EN_A2 = [
       "ja": "ネットワークを構築する",
       "zh": "建立人脉",
       "ru": "налаживать связи"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "network",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2976",
+    "lang": "en",
     "lemma": "version",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18629,12 +17346,11 @@ const WORDS_EN_A2 = [
       "zh": "版本",
       "ru": "версия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "versions"
   },
   {
     "id": "en_2977",
+    "lang": "en",
     "lemma": "concert",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18654,12 +17370,11 @@ const WORDS_EN_A2 = [
       "zh": "音乐会",
       "ru": "концерт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "concerts"
   },
   {
     "id": "en_2978",
+    "lang": "en",
     "lemma": "concert",
     "pos": "Verb",
     "cefr": "A2",
@@ -18678,15 +17393,11 @@ const WORDS_EN_A2 = [
       "ja": "協力する",
       "zh": "协商",
       "ru": "согласовывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "concert",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2979",
+    "lang": "en",
     "lemma": "gear",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18706,12 +17417,11 @@ const WORDS_EN_A2 = [
       "zh": "装备",
       "ru": "снаряжение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gears"
   },
   {
     "id": "en_2981",
+    "lang": "en",
     "lemma": "diamond",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18731,12 +17441,11 @@ const WORDS_EN_A2 = [
       "zh": "钻石",
       "ru": "алмаз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "diamonds"
   },
   {
     "id": "en_2982",
+    "lang": "en",
     "lemma": "defeat",
     "pos": "Verb",
     "cefr": "A2",
@@ -18755,15 +17464,11 @@ const WORDS_EN_A2 = [
       "ja": "倒す",
       "zh": "击败",
       "ru": "побеждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "defeat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2983",
+    "lang": "en",
     "lemma": "defeat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18783,12 +17488,11 @@ const WORDS_EN_A2 = [
       "zh": "失败",
       "ru": "поражение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "defeats"
   },
   {
     "id": "en_2984",
+    "lang": "en",
     "lemma": "lane",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18809,12 +17513,11 @@ const WORDS_EN_A2 = [
       "zh": "车道",
       "ru": "полоса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lanes"
   },
   {
     "id": "en_2985",
+    "lang": "en",
     "lemma": "blast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18834,12 +17537,11 @@ const WORDS_EN_A2 = [
       "zh": "爆炸",
       "ru": "взрыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "blasts"
   },
   {
     "id": "en_2986",
+    "lang": "en",
     "lemma": "blast",
     "pos": "Verb",
     "cefr": "A2",
@@ -18858,15 +17560,11 @@ const WORDS_EN_A2 = [
       "ja": "大きな音を出す",
       "zh": "发出巨响",
       "ru": "издавать громкий звук"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blast",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_2987",
+    "lang": "en",
     "lemma": "wounded",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18886,12 +17584,11 @@ const WORDS_EN_A2 = [
       "zh": "伤者",
       "ru": "раненые"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wounded"
   },
   {
     "id": "en_2988",
+    "lang": "en",
     "lemma": "wounded",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18910,12 +17607,11 @@ const WORDS_EN_A2 = [
       "ja": "傷ついた",
       "zh": "受伤的",
       "ru": "раненый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2991",
+    "lang": "en",
     "lemma": "ceremony",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18935,12 +17631,11 @@ const WORDS_EN_A2 = [
       "zh": "仪式",
       "ru": "церемония"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ceremonies"
   },
   {
     "id": "en_2992",
+    "lang": "en",
     "lemma": "league",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18960,12 +17655,11 @@ const WORDS_EN_A2 = [
       "zh": "联赛",
       "ru": "лига"
     },
-    "examples": [],
-    "meta": {},
     "plural": "leagues"
   },
   {
     "id": "en_2994",
+    "lang": "en",
     "lemma": "orange",
     "pos": "Nomen",
     "cefr": "A2",
@@ -18986,12 +17680,11 @@ const WORDS_EN_A2 = [
       "zh": "橙子",
       "ru": "апельсин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "oranges"
   },
   {
     "id": "en_2995",
+    "lang": "en",
     "lemma": "orange",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19011,12 +17704,11 @@ const WORDS_EN_A2 = [
       "ja": "オレンジ色の",
       "zh": "橙色的",
       "ru": "оранжевый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2996",
+    "lang": "en",
     "lemma": "specific",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19035,12 +17727,11 @@ const WORDS_EN_A2 = [
       "ja": "具体的な",
       "zh": "具体的",
       "ru": "конкретный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_2998",
+    "lang": "en",
     "lemma": "plastic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19061,12 +17752,11 @@ const WORDS_EN_A2 = [
       "zh": "塑料",
       "ru": "пластик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "plastics"
   },
   {
     "id": "en_2999",
+    "lang": "en",
     "lemma": "plastic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19085,12 +17775,11 @@ const WORDS_EN_A2 = [
       "ja": "プラスチック製の",
       "zh": "塑料的",
       "ru": "пластиковый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3000",
+    "lang": "en",
     "lemma": "crisis",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19110,12 +17799,11 @@ const WORDS_EN_A2 = [
       "zh": "危机",
       "ru": "кризис"
     },
-    "examples": [],
-    "meta": {},
     "plural": "crises"
   },
   {
     "id": "en_3001",
+    "lang": "en",
     "lemma": "fifth",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19134,12 +17822,11 @@ const WORDS_EN_A2 = [
       "ja": "5番目の",
       "zh": "第五的",
       "ru": "пятый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3002",
+    "lang": "en",
     "lemma": "fifth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19159,12 +17846,11 @@ const WORDS_EN_A2 = [
       "zh": "五分之一",
       "ru": "пятая часть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fifths"
   },
   {
     "id": "en_3003",
+    "lang": "en",
     "lemma": "term",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19184,12 +17870,11 @@ const WORDS_EN_A2 = [
       "zh": "术语",
       "ru": "термин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "terms"
   },
   {
     "id": "en_3004",
+    "lang": "en",
     "lemma": "term",
     "pos": "Verb",
     "cefr": "A2",
@@ -19208,15 +17893,11 @@ const WORDS_EN_A2 = [
       "ja": "呼ぶ",
       "zh": "称呼",
       "ru": "называть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "term",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3005",
+    "lang": "en",
     "lemma": "self",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19236,12 +17917,11 @@ const WORDS_EN_A2 = [
       "zh": "自我",
       "ru": "личность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "selves"
   },
   {
     "id": "en_3006",
+    "lang": "en",
     "lemma": "offering",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19261,12 +17941,11 @@ const WORDS_EN_A2 = [
       "zh": "供品",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "offerings"
   },
   {
     "id": "en_3007",
+    "lang": "en",
     "lemma": "bud",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19287,12 +17966,11 @@ const WORDS_EN_A2 = [
       "zh": "花蕾",
       "ru": "почка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "buds"
   },
   {
     "id": "en_3008",
+    "lang": "en",
     "lemma": "bud",
     "pos": "Verb",
     "cefr": "A2",
@@ -19311,15 +17989,11 @@ const WORDS_EN_A2 = [
       "ja": "つぼみが出る",
       "zh": "发芽",
       "ru": "распускаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bud",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3010",
+    "lang": "en",
     "lemma": "rip",
     "pos": "Verb",
     "cefr": "A2",
@@ -19339,15 +18013,11 @@ const WORDS_EN_A2 = [
       "ja": "裂く",
       "zh": "撕裂",
       "ru": "рвать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3011",
+    "lang": "en",
     "lemma": "mysterious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19366,12 +18036,11 @@ const WORDS_EN_A2 = [
       "ja": "神秘的な",
       "zh": "神秘的",
       "ru": "таинственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3012",
+    "lang": "en",
     "lemma": "entrance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19392,12 +18061,11 @@ const WORDS_EN_A2 = [
       "zh": "入口",
       "ru": "вход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "entrances"
   },
   {
     "id": "en_3013",
+    "lang": "en",
     "lemma": "tunnel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19418,12 +18086,11 @@ const WORDS_EN_A2 = [
       "zh": "隧道",
       "ru": "туннель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tunnels"
   },
   {
     "id": "en_3014",
+    "lang": "en",
     "lemma": "tunnel",
     "pos": "Verb",
     "cefr": "A2",
@@ -19442,15 +18109,11 @@ const WORDS_EN_A2 = [
       "ja": "トンネルを掘る",
       "zh": "挖隧道",
       "ru": "прокладывать туннель"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tunnel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3016",
+    "lang": "en",
     "lemma": "neighbor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19471,12 +18134,11 @@ const WORDS_EN_A2 = [
       "zh": "邻居",
       "ru": "сосед"
     },
-    "examples": [],
-    "meta": {},
     "plural": "neighbors"
   },
   {
     "id": "en_3017",
+    "lang": "en",
     "lemma": "sweat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19497,12 +18159,11 @@ const WORDS_EN_A2 = [
       "zh": "汗",
       "ru": "пот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3018",
+    "lang": "en",
     "lemma": "sweat",
     "pos": "Verb",
     "cefr": "A2",
@@ -19522,15 +18183,11 @@ const WORDS_EN_A2 = [
       "ja": "汗をかく",
       "zh": "出汗",
       "ru": "потеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sweat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3024",
+    "lang": "en",
     "lemma": "teddy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19551,12 +18208,11 @@ const WORDS_EN_A2 = [
       "zh": "泰迪熊",
       "ru": "плюшевый медведь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "teddies"
   },
   {
     "id": "en_3026",
+    "lang": "en",
     "lemma": "comfort",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19577,12 +18233,11 @@ const WORDS_EN_A2 = [
       "zh": "舒适",
       "ru": "комфорт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "comforts"
   },
   {
     "id": "en_3027",
+    "lang": "en",
     "lemma": "comfort",
     "pos": "Verb",
     "cefr": "A2",
@@ -19602,15 +18257,11 @@ const WORDS_EN_A2 = [
       "ja": "慰める",
       "zh": "安慰",
       "ru": "утешать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "comfort",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3028",
+    "lang": "en",
     "lemma": "mason",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19630,12 +18281,11 @@ const WORDS_EN_A2 = [
       "zh": "石匠",
       "ru": "каменщик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "masons"
   },
   {
     "id": "en_3030",
+    "lang": "en",
     "lemma": "surrender",
     "pos": "Verb",
     "cefr": "A2",
@@ -19654,15 +18304,11 @@ const WORDS_EN_A2 = [
       "ja": "降伏する",
       "zh": "投降",
       "ru": "сдаваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "surrender",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3031",
+    "lang": "en",
     "lemma": "surrender",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19682,12 +18328,11 @@ const WORDS_EN_A2 = [
       "zh": "投降",
       "ru": "капитуляция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "surrenders"
   },
   {
     "id": "en_3032",
+    "lang": "en",
     "lemma": "gym",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19708,12 +18353,11 @@ const WORDS_EN_A2 = [
       "zh": "健身房",
       "ru": "спортзал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gyms"
   },
   {
     "id": "en_3033",
+    "lang": "en",
     "lemma": "kitty",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19734,12 +18378,11 @@ const WORDS_EN_A2 = [
       "zh": "小猫",
       "ru": "котёнок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "kitties"
   },
   {
     "id": "en_3034",
+    "lang": "en",
     "lemma": "crush",
     "pos": "Verb",
     "cefr": "A2",
@@ -19759,15 +18402,11 @@ const WORDS_EN_A2 = [
       "ja": "つぶす",
       "zh": "压碎",
       "ru": "раздавить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "crush",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3035",
+    "lang": "en",
     "lemma": "crush",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19788,12 +18427,11 @@ const WORDS_EN_A2 = [
       "zh": "暗恋",
       "ru": "влюбленность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "crushes"
   },
   {
     "id": "en_3037",
+    "lang": "en",
     "lemma": "pee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19814,12 +18452,11 @@ const WORDS_EN_A2 = [
       "zh": "尿液",
       "ru": "моча"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pee"
   },
   {
     "id": "en_3038",
+    "lang": "en",
     "lemma": "pee",
     "pos": "Verb",
     "cefr": "A2",
@@ -19839,15 +18476,11 @@ const WORDS_EN_A2 = [
       "ja": "排尿する",
       "zh": "排尿",
       "ru": "мочиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pee",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3039",
+    "lang": "en",
     "lemma": "stress",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19868,12 +18501,11 @@ const WORDS_EN_A2 = [
       "zh": "压力",
       "ru": "стресс"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stresses"
   },
   {
     "id": "en_3040",
+    "lang": "en",
     "lemma": "stress",
     "pos": "Verb",
     "cefr": "A2",
@@ -19893,15 +18525,11 @@ const WORDS_EN_A2 = [
       "ja": "強調する",
       "zh": "强调",
       "ru": "подчёркивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stress",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3041",
+    "lang": "en",
     "lemma": "cave",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19922,12 +18550,11 @@ const WORDS_EN_A2 = [
       "zh": "洞穴",
       "ru": "пещера"
     },
-    "examples": [],
-    "meta": {},
     "plural": "caves"
   },
   {
     "id": "en_3043",
+    "lang": "en",
     "lemma": "wing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -19948,12 +18575,11 @@ const WORDS_EN_A2 = [
       "zh": "翅膀",
       "ru": "крыло"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wings"
   },
   {
     "id": "en_3044",
+    "lang": "en",
     "lemma": "arrange",
     "pos": "Verb",
     "cefr": "A2",
@@ -19973,15 +18599,11 @@ const WORDS_EN_A2 = [
       "ja": "整理する",
       "zh": "整理",
       "ru": "расставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "arrange",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3045",
+    "lang": "en",
     "lemma": "comrade",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20002,12 +18624,11 @@ const WORDS_EN_A2 = [
       "zh": "同志",
       "ru": "товарищ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "comrades"
   },
   {
     "id": "en_3046",
+    "lang": "en",
     "lemma": "noble",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20027,12 +18648,11 @@ const WORDS_EN_A2 = [
       "zh": "贵族",
       "ru": "дворянин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nobles"
   },
   {
     "id": "en_3047",
+    "lang": "en",
     "lemma": "noble",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20051,12 +18671,11 @@ const WORDS_EN_A2 = [
       "ja": "高貴な",
       "zh": "高尚的",
       "ru": "благородный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3049",
+    "lang": "en",
     "lemma": "launch",
     "pos": "Verb",
     "cefr": "A2",
@@ -20076,15 +18695,11 @@ const WORDS_EN_A2 = [
       "ja": "投げる",
       "zh": "投掷",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "launch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3050",
+    "lang": "en",
     "lemma": "legend",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20104,12 +18719,11 @@ const WORDS_EN_A2 = [
       "zh": "传说",
       "ru": "легенда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "legends"
   },
   {
     "id": "en_3051",
+    "lang": "en",
     "lemma": "mix",
     "pos": "Verb",
     "cefr": "A2",
@@ -20129,15 +18743,11 @@ const WORDS_EN_A2 = [
       "ja": "混ぜる",
       "zh": "混合",
       "ru": "смешивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mix",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3052",
+    "lang": "en",
     "lemma": "mix",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20158,12 +18768,11 @@ const WORDS_EN_A2 = [
       "zh": "混合物",
       "ru": "смесь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mixes"
   },
   {
     "id": "en_3053",
+    "lang": "en",
     "lemma": "golf",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20184,12 +18793,11 @@ const WORDS_EN_A2 = [
       "zh": "高尔夫",
       "ru": "гольф"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3054",
+    "lang": "en",
     "lemma": "golf",
     "pos": "Verb",
     "cefr": "A2",
@@ -20209,15 +18817,11 @@ const WORDS_EN_A2 = [
       "ja": "ゴルフをする",
       "zh": "打高尔夫",
       "ru": "играть в гольф"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "golf",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3055",
+    "lang": "en",
     "lemma": "imagination",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20237,12 +18841,11 @@ const WORDS_EN_A2 = [
       "zh": "想象力",
       "ru": "воображение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "imaginations"
   },
   {
     "id": "en_3056",
+    "lang": "en",
     "lemma": "fox",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20263,12 +18866,11 @@ const WORDS_EN_A2 = [
       "zh": "狐狸",
       "ru": "лиса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "foxes"
   },
   {
     "id": "en_3057",
+    "lang": "en",
     "lemma": "fox",
     "pos": "Verb",
     "cefr": "A2",
@@ -20287,15 +18889,11 @@ const WORDS_EN_A2 = [
       "ja": "だます",
       "zh": "欺骗",
       "ru": "обманывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fox",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3058",
+    "lang": "en",
     "lemma": "butter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20316,12 +18914,11 @@ const WORDS_EN_A2 = [
       "zh": "黄油",
       "ru": "масло"
     },
-    "examples": [],
-    "meta": {},
     "plural": "butters"
   },
   {
     "id": "en_3059",
+    "lang": "en",
     "lemma": "butter",
     "pos": "Verb",
     "cefr": "A2",
@@ -20340,15 +18937,11 @@ const WORDS_EN_A2 = [
       "ja": "バターを塗る",
       "zh": "涂黄油",
       "ru": "намазывать масло"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "butter",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3060",
+    "lang": "en",
     "lemma": "tax",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20368,12 +18961,11 @@ const WORDS_EN_A2 = [
       "zh": "税",
       "ru": "налог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "taxes"
   },
   {
     "id": "en_3061",
+    "lang": "en",
     "lemma": "tax",
     "pos": "Verb",
     "cefr": "A2",
@@ -20392,15 +18984,11 @@ const WORDS_EN_A2 = [
       "ja": "税金を課す",
       "zh": "征税",
       "ru": "облагать налогом"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tax",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3062",
+    "lang": "en",
     "lemma": "gross",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20419,12 +19007,11 @@ const WORDS_EN_A2 = [
       "ja": "総額の",
       "zh": "总的",
       "ru": "валовой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3064",
+    "lang": "en",
     "lemma": "insist",
     "pos": "Verb",
     "cefr": "A2",
@@ -20443,15 +19030,11 @@ const WORDS_EN_A2 = [
       "ja": "主張する",
       "zh": "坚持",
       "ru": "настаивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "insist",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3065",
+    "lang": "en",
     "lemma": "classic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20470,12 +19053,11 @@ const WORDS_EN_A2 = [
       "ja": "典型的な",
       "zh": "经典的",
       "ru": "классический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3066",
+    "lang": "en",
     "lemma": "classic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20495,12 +19077,11 @@ const WORDS_EN_A2 = [
       "zh": "经典",
       "ru": "классик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "classics"
   },
   {
     "id": "en_3067",
+    "lang": "en",
     "lemma": "selfish",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20519,12 +19100,11 @@ const WORDS_EN_A2 = [
       "ja": "利己的な",
       "zh": "自私的",
       "ru": "эгоистичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3068",
+    "lang": "en",
     "lemma": "skull",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20544,12 +19124,11 @@ const WORDS_EN_A2 = [
       "zh": "头骨",
       "ru": "череп"
     },
-    "examples": [],
-    "meta": {},
     "plural": "skulls"
   },
   {
     "id": "en_3069",
+    "lang": "en",
     "lemma": "bat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20570,12 +19149,11 @@ const WORDS_EN_A2 = [
       "zh": "蝙蝠",
       "ru": "летучая мышь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bats"
   },
   {
     "id": "en_3070",
+    "lang": "en",
     "lemma": "bat",
     "pos": "Verb",
     "cefr": "A2",
@@ -20595,15 +19173,11 @@ const WORDS_EN_A2 = [
       "ja": "打つ",
       "zh": "挥打",
       "ru": "ударять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3071",
+    "lang": "en",
     "lemma": "print",
     "pos": "Verb",
     "cefr": "A2",
@@ -20622,15 +19196,11 @@ const WORDS_EN_A2 = [
       "ja": "印刷する",
       "zh": "打印",
       "ru": "печатать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "print",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3072",
+    "lang": "en",
     "lemma": "print",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20650,12 +19220,11 @@ const WORDS_EN_A2 = [
       "zh": "印刷品",
       "ru": "отпечаток"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prints"
   },
   {
     "id": "en_3073",
+    "lang": "en",
     "lemma": "champion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20675,12 +19244,11 @@ const WORDS_EN_A2 = [
       "zh": "冠军",
       "ru": "чемпион"
     },
-    "examples": [],
-    "meta": {},
     "plural": "champions"
   },
   {
     "id": "en_3074",
+    "lang": "en",
     "lemma": "champion",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20699,12 +19267,11 @@ const WORDS_EN_A2 = [
       "ja": "最高の",
       "zh": "最好的",
       "ru": "чемпионский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3075",
+    "lang": "en",
     "lemma": "champion",
     "pos": "Verb",
     "cefr": "A2",
@@ -20723,15 +19290,11 @@ const WORDS_EN_A2 = [
       "ja": "支持する",
       "zh": "拥护",
       "ru": "поддерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "champion",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3077",
+    "lang": "en",
     "lemma": "therapy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20751,12 +19314,11 @@ const WORDS_EN_A2 = [
       "zh": "治疗",
       "ru": "терапия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "therapies"
   },
   {
     "id": "en_3079",
+    "lang": "en",
     "lemma": "lifetime",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20776,12 +19338,11 @@ const WORDS_EN_A2 = [
       "zh": "一生",
       "ru": "жизнь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lifetimes"
   },
   {
     "id": "en_3080",
+    "lang": "en",
     "lemma": "sauce",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20802,12 +19363,11 @@ const WORDS_EN_A2 = [
       "zh": "酱汁",
       "ru": "соус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sauces"
   },
   {
     "id": "en_3081",
+    "lang": "en",
     "lemma": "experiment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20827,12 +19387,11 @@ const WORDS_EN_A2 = [
       "zh": "实验",
       "ru": "эксперимент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "experiments"
   },
   {
     "id": "en_3082",
+    "lang": "en",
     "lemma": "experiment",
     "pos": "Verb",
     "cefr": "A2",
@@ -20851,15 +19410,11 @@ const WORDS_EN_A2 = [
       "ja": "実験する",
       "zh": "做实验",
       "ru": "экспериментировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "experiment",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3083",
+    "lang": "en",
     "lemma": "describe",
     "pos": "Verb",
     "cefr": "A2",
@@ -20879,15 +19434,11 @@ const WORDS_EN_A2 = [
       "ja": "説明する",
       "zh": "描述",
       "ru": "описывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "describe",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3084",
+    "lang": "en",
     "lemma": "grass",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20908,12 +19459,11 @@ const WORDS_EN_A2 = [
       "zh": "草",
       "ru": "трава"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grasses"
   },
   {
     "id": "en_3085",
+    "lang": "en",
     "lemma": "cheat",
     "pos": "Verb",
     "cefr": "A2",
@@ -20932,15 +19482,11 @@ const WORDS_EN_A2 = [
       "ja": "カンニングする",
       "zh": "作弊",
       "ru": "обманывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cheat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3086",
+    "lang": "en",
     "lemma": "cheat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -20961,12 +19507,11 @@ const WORDS_EN_A2 = [
       "zh": "骗子",
       "ru": "мошенник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cheats"
   },
   {
     "id": "en_3087",
+    "lang": "en",
     "lemma": "attend",
     "pos": "Verb",
     "cefr": "A2",
@@ -20986,15 +19531,11 @@ const WORDS_EN_A2 = [
       "ja": "出席する",
       "zh": "参加",
       "ru": "посещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "attend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3088",
+    "lang": "en",
     "lemma": "homework",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21015,12 +19556,11 @@ const WORDS_EN_A2 = [
       "zh": "家庭作业",
       "ru": "домашнее задание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3089",
+    "lang": "en",
     "lemma": "servant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21040,12 +19580,11 @@ const WORDS_EN_A2 = [
       "zh": "仆人",
       "ru": "слуга"
     },
-    "examples": [],
-    "meta": {},
     "plural": "servants"
   },
   {
     "id": "en_3090",
+    "lang": "en",
     "lemma": "cap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21066,12 +19605,11 @@ const WORDS_EN_A2 = [
       "zh": "帽子",
       "ru": "кепка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "caps"
   },
   {
     "id": "en_3091",
+    "lang": "en",
     "lemma": "cap",
     "pos": "Verb",
     "cefr": "A2",
@@ -21091,15 +19629,11 @@ const WORDS_EN_A2 = [
       "ja": "かぶせる",
       "zh": "盖住",
       "ru": "накрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3092",
+    "lang": "en",
     "lemma": "bible",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21119,12 +19653,11 @@ const WORDS_EN_A2 = [
       "zh": "圣经",
       "ru": "библия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bibles"
   },
   {
     "id": "en_3093",
+    "lang": "en",
     "lemma": "steel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21145,12 +19678,11 @@ const WORDS_EN_A2 = [
       "zh": "钢",
       "ru": "сталь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3094",
+    "lang": "en",
     "lemma": "wipe",
     "pos": "Verb",
     "cefr": "A2",
@@ -21170,15 +19702,11 @@ const WORDS_EN_A2 = [
       "ja": "拭く",
       "zh": "擦拭",
       "ru": "вытирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wipe",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3095",
+    "lang": "en",
     "lemma": "wipe",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21199,12 +19727,11 @@ const WORDS_EN_A2 = [
       "zh": "湿巾",
       "ru": "салфетка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wipes"
   },
   {
     "id": "en_3097",
+    "lang": "en",
     "lemma": "generation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21224,12 +19751,11 @@ const WORDS_EN_A2 = [
       "zh": "一代",
       "ru": "поколение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "generations"
   },
   {
     "id": "en_3098",
+    "lang": "en",
     "lemma": "cabin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21250,12 +19776,11 @@ const WORDS_EN_A2 = [
       "zh": "船舱",
       "ru": "каюта"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cabins"
   },
   {
     "id": "en_3100",
+    "lang": "en",
     "lemma": "financial",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21274,12 +19799,11 @@ const WORDS_EN_A2 = [
       "ja": "財政の",
       "zh": "财务的",
       "ru": "финансовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3101",
+    "lang": "en",
     "lemma": "industry",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21299,12 +19823,11 @@ const WORDS_EN_A2 = [
       "zh": "工业",
       "ru": "промышленность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "industries"
   },
   {
     "id": "en_3102",
+    "lang": "en",
     "lemma": "bond",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21324,12 +19847,11 @@ const WORDS_EN_A2 = [
       "zh": "纽带",
       "ru": "связь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bonds"
   },
   {
     "id": "en_3103",
+    "lang": "en",
     "lemma": "bond",
     "pos": "Verb",
     "cefr": "A2",
@@ -21349,15 +19871,11 @@ const WORDS_EN_A2 = [
       "ja": "結合する",
       "zh": "结合",
       "ru": "связывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bond",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3104",
+    "lang": "en",
     "lemma": "sheep",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21378,12 +19896,11 @@ const WORDS_EN_A2 = [
       "zh": "羊",
       "ru": "овца"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sheep"
   },
   {
     "id": "en_3106",
+    "lang": "en",
     "lemma": "deck",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21404,12 +19921,11 @@ const WORDS_EN_A2 = [
       "zh": "甲板",
       "ru": "палуба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "decks"
   },
   {
     "id": "en_3107",
+    "lang": "en",
     "lemma": "deck",
     "pos": "Verb",
     "cefr": "A2",
@@ -21428,15 +19944,11 @@ const WORDS_EN_A2 = [
       "ja": "飾る",
       "zh": "装饰",
       "ru": "украшать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "deck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3109",
+    "lang": "en",
     "lemma": "script",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21456,12 +19968,11 @@ const WORDS_EN_A2 = [
       "zh": "剧本",
       "ru": "сценарий"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scripts"
   },
   {
     "id": "en_3110",
+    "lang": "en",
     "lemma": "brand",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21482,12 +19993,11 @@ const WORDS_EN_A2 = [
       "zh": "品牌",
       "ru": "бренд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "brands"
   },
   {
     "id": "en_3112",
+    "lang": "en",
     "lemma": "degree",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21507,12 +20017,11 @@ const WORDS_EN_A2 = [
       "zh": "度",
       "ru": "градус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "degrees"
   },
   {
     "id": "en_3113",
+    "lang": "en",
     "lemma": "painful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21531,12 +20040,11 @@ const WORDS_EN_A2 = [
       "ja": "痛い",
       "zh": "疼痛的",
       "ru": "болезненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3114",
+    "lang": "en",
     "lemma": "religion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21556,12 +20064,11 @@ const WORDS_EN_A2 = [
       "zh": "宗教",
       "ru": "религия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "religions"
   },
   {
     "id": "en_3116",
+    "lang": "en",
     "lemma": "influence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21581,12 +20088,11 @@ const WORDS_EN_A2 = [
       "zh": "影响",
       "ru": "влияние"
     },
-    "examples": [],
-    "meta": {},
     "plural": "influences"
   },
   {
     "id": "en_3117",
+    "lang": "en",
     "lemma": "influence",
     "pos": "Verb",
     "cefr": "A2",
@@ -21605,15 +20111,11 @@ const WORDS_EN_A2 = [
       "ja": "影響する",
       "zh": "影响",
       "ru": "влиять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "influence",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3118",
+    "lang": "en",
     "lemma": "fuel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21634,12 +20136,11 @@ const WORDS_EN_A2 = [
       "zh": "燃料",
       "ru": "топливо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fuels"
   },
   {
     "id": "en_3119",
+    "lang": "en",
     "lemma": "fuel",
     "pos": "Verb",
     "cefr": "A2",
@@ -21659,15 +20160,11 @@ const WORDS_EN_A2 = [
       "ja": "燃料を供給する",
       "zh": "供应燃料",
       "ru": "заправлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fuel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3120",
+    "lang": "en",
     "lemma": "drawing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21688,12 +20185,11 @@ const WORDS_EN_A2 = [
       "zh": "画",
       "ru": "рисунок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "drawings"
   },
   {
     "id": "en_3121",
+    "lang": "en",
     "lemma": "rabbit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21714,12 +20210,11 @@ const WORDS_EN_A2 = [
       "zh": "兔子",
       "ru": "кролик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rabbits"
   },
   {
     "id": "en_3122",
+    "lang": "en",
     "lemma": "exercise",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21740,12 +20235,11 @@ const WORDS_EN_A2 = [
       "zh": "锻炼",
       "ru": "упражнение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "exercises"
   },
   {
     "id": "en_3123",
+    "lang": "en",
     "lemma": "exercise",
     "pos": "Verb",
     "cefr": "A2",
@@ -21764,15 +20258,11 @@ const WORDS_EN_A2 = [
       "ja": "行使する",
       "zh": "行使",
       "ru": "осуществлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "exercise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3124",
+    "lang": "en",
     "lemma": "attractive",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21791,12 +20281,11 @@ const WORDS_EN_A2 = [
       "ja": "魅力的な",
       "zh": "有吸引力的",
       "ru": "привлекательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3125",
+    "lang": "en",
     "lemma": "touching",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21815,12 +20304,11 @@ const WORDS_EN_A2 = [
       "ja": "感動的な",
       "zh": "感人的",
       "ru": "трогательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3126",
+    "lang": "en",
     "lemma": "virus",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21840,12 +20328,11 @@ const WORDS_EN_A2 = [
       "zh": "病毒",
       "ru": "вирус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "viruses"
   },
   {
     "id": "en_3127",
+    "lang": "en",
     "lemma": "realise",
     "pos": "Verb",
     "cefr": "A2",
@@ -21864,15 +20351,11 @@ const WORDS_EN_A2 = [
       "ja": "気づく",
       "zh": "意识到",
       "ru": "осознавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "realise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3130",
+    "lang": "en",
     "lemma": "blessed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21891,12 +20374,11 @@ const WORDS_EN_A2 = [
       "ja": "祝福された",
       "zh": "被祝福的",
       "ru": "благословенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3131",
+    "lang": "en",
     "lemma": "plain",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21915,12 +20397,11 @@ const WORDS_EN_A2 = [
       "ja": "明白な",
       "zh": "清楚的",
       "ru": "ясный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3132",
+    "lang": "en",
     "lemma": "plain",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21940,12 +20421,11 @@ const WORDS_EN_A2 = [
       "zh": "平原",
       "ru": "равнина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "plains"
   },
   {
     "id": "en_3133",
+    "lang": "en",
     "lemma": "recent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21964,12 +20444,11 @@ const WORDS_EN_A2 = [
       "ja": "最近の",
       "zh": "最近的",
       "ru": "недавний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3134",
+    "lang": "en",
     "lemma": "footsteps",
     "pos": "Nomen",
     "cefr": "A2",
@@ -21990,12 +20469,11 @@ const WORDS_EN_A2 = [
       "zh": "脚印",
       "ru": "следы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "footsteps"
   },
   {
     "id": "en_3135",
+    "lang": "en",
     "lemma": "sacred",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22014,12 +20492,11 @@ const WORDS_EN_A2 = [
       "ja": "神聖な",
       "zh": "神圣的",
       "ru": "священный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3136",
+    "lang": "en",
     "lemma": "removed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22038,12 +20515,11 @@ const WORDS_EN_A2 = [
       "ja": "離れた",
       "zh": "分离的",
       "ru": "отдаленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3137",
+    "lang": "en",
     "lemma": "wasted",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22063,12 +20539,11 @@ const WORDS_EN_A2 = [
       "ja": "無駄にされた",
       "zh": "浪费的",
       "ru": "потраченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3138",
+    "lang": "en",
     "lemma": "jewish",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22087,12 +20562,11 @@ const WORDS_EN_A2 = [
       "ja": "ユダヤ人の",
       "zh": "犹太人的",
       "ru": "еврейский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3139",
+    "lang": "en",
     "lemma": "robot",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22112,12 +20586,11 @@ const WORDS_EN_A2 = [
       "zh": "机器人",
       "ru": "робот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "robots"
   },
   {
     "id": "en_3140",
+    "lang": "en",
     "lemma": "crystal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22137,12 +20610,11 @@ const WORDS_EN_A2 = [
       "zh": "晶体",
       "ru": "кристалл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "crystals"
   },
   {
     "id": "en_3141",
+    "lang": "en",
     "lemma": "confirm",
     "pos": "Verb",
     "cefr": "A2",
@@ -22161,15 +20633,11 @@ const WORDS_EN_A2 = [
       "ja": "確認する",
       "zh": "确认",
       "ru": "подтверждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "confirm",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3142",
+    "lang": "en",
     "lemma": "lad",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22190,12 +20658,11 @@ const WORDS_EN_A2 = [
       "zh": "男孩",
       "ru": "мальчик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lads"
   },
   {
     "id": "en_3143",
+    "lang": "en",
     "lemma": "mile",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22215,12 +20682,11 @@ const WORDS_EN_A2 = [
       "zh": "英里",
       "ru": "миля"
     },
-    "examples": [],
-    "meta": {},
     "plural": "miles"
   },
   {
     "id": "en_3144",
+    "lang": "en",
     "lemma": "division",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22240,12 +20706,11 @@ const WORDS_EN_A2 = [
       "zh": "分割",
       "ru": "разделение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "divisions"
   },
   {
     "id": "en_3145",
+    "lang": "en",
     "lemma": "scratch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22266,12 +20731,11 @@ const WORDS_EN_A2 = [
       "zh": "划痕",
       "ru": "царапина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scratches"
   },
   {
     "id": "en_3146",
+    "lang": "en",
     "lemma": "scratch",
     "pos": "Verb",
     "cefr": "A2",
@@ -22291,15 +20755,11 @@ const WORDS_EN_A2 = [
       "ja": "引っ掻く",
       "zh": "划",
       "ru": "царапать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scratch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3148",
+    "lang": "en",
     "lemma": "ending",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22319,12 +20779,11 @@ const WORDS_EN_A2 = [
       "zh": "结尾",
       "ru": "конец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "endings"
   },
   {
     "id": "en_3149",
+    "lang": "en",
     "lemma": "contest",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22344,12 +20803,11 @@ const WORDS_EN_A2 = [
       "zh": "竞争",
       "ru": "соревнование"
     },
-    "examples": [],
-    "meta": {},
     "plural": "contests"
   },
   {
     "id": "en_3150",
+    "lang": "en",
     "lemma": "contest",
     "pos": "Verb",
     "cefr": "A2",
@@ -22368,15 +20826,11 @@ const WORDS_EN_A2 = [
       "ja": "競う",
       "zh": "竞争",
       "ru": "соревноваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "contest",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3151",
+    "lang": "en",
     "lemma": "valuable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22395,12 +20849,11 @@ const WORDS_EN_A2 = [
       "ja": "貴重な",
       "zh": "宝贵的",
       "ru": "ценный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3152",
+    "lang": "en",
     "lemma": "valuable",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22420,12 +20873,11 @@ const WORDS_EN_A2 = [
       "zh": "贵重物品",
       "ru": "ценность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "valuables"
   },
   {
     "id": "en_3153",
+    "lang": "en",
     "lemma": "distant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22444,12 +20896,11 @@ const WORDS_EN_A2 = [
       "ja": "遠い",
       "zh": "遥远的",
       "ru": "далекий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3154",
+    "lang": "en",
     "lemma": "motion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22469,12 +20920,11 @@ const WORDS_EN_A2 = [
       "zh": "运动",
       "ru": "движение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "motions"
   },
   {
     "id": "en_3155",
+    "lang": "en",
     "lemma": "motion",
     "pos": "Verb",
     "cefr": "A2",
@@ -22493,15 +20943,11 @@ const WORDS_EN_A2 = [
       "ja": "身振りする",
       "zh": "示意",
       "ru": "жестикулировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "motion",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3156",
+    "lang": "en",
     "lemma": "electricity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22521,12 +20967,11 @@ const WORDS_EN_A2 = [
       "zh": "电",
       "ru": "электричество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3157",
+    "lang": "en",
     "lemma": "centre",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22546,12 +20991,11 @@ const WORDS_EN_A2 = [
       "zh": "中心",
       "ru": "центр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "centres"
   },
   {
     "id": "en_3158",
+    "lang": "en",
     "lemma": "centre",
     "pos": "Verb",
     "cefr": "A2",
@@ -22570,15 +21014,11 @@ const WORDS_EN_A2 = [
       "ja": "中央に置く",
       "zh": "居中",
       "ru": "центрировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "centre",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3160",
+    "lang": "en",
     "lemma": "seal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22598,12 +21038,11 @@ const WORDS_EN_A2 = [
       "zh": "海豹",
       "ru": "тюлень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "seals"
   },
   {
     "id": "en_3161",
+    "lang": "en",
     "lemma": "seal",
     "pos": "Verb",
     "cefr": "A2",
@@ -22623,15 +21062,11 @@ const WORDS_EN_A2 = [
       "ja": "密閉する",
       "zh": "密封",
       "ru": "запечатывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "seal",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3162",
+    "lang": "en",
     "lemma": "standard",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22651,12 +21086,11 @@ const WORDS_EN_A2 = [
       "ja": "標準的な",
       "zh": "标准的",
       "ru": "стандартный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3163",
+    "lang": "en",
     "lemma": "standard",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22676,12 +21110,11 @@ const WORDS_EN_A2 = [
       "zh": "标准",
       "ru": "стандарт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "standards"
   },
   {
     "id": "en_3164",
+    "lang": "en",
     "lemma": "inform",
     "pos": "Verb",
     "cefr": "A2",
@@ -22700,15 +21133,11 @@ const WORDS_EN_A2 = [
       "ja": "知らせる",
       "zh": "通知",
       "ru": "информировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inform",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3165",
+    "lang": "en",
     "lemma": "gentle",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22727,12 +21156,11 @@ const WORDS_EN_A2 = [
       "ja": "優しい",
       "zh": "温柔的",
       "ru": "мягкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3166",
+    "lang": "en",
     "lemma": "status",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22752,12 +21180,11 @@ const WORDS_EN_A2 = [
       "zh": "地位",
       "ru": "статус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "statuses"
   },
   {
     "id": "en_3167",
+    "lang": "en",
     "lemma": "purse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22777,12 +21204,11 @@ const WORDS_EN_A2 = [
       "zh": "钱包",
       "ru": "кошелек"
     },
-    "examples": [],
-    "meta": {},
     "plural": "purses"
   },
   {
     "id": "en_3168",
+    "lang": "en",
     "lemma": "purse",
     "pos": "Verb",
     "cefr": "A2",
@@ -22801,15 +21227,11 @@ const WORDS_EN_A2 = [
       "ja": "唇をすぼめる",
       "zh": "撅嘴",
       "ru": "сжимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "purse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3171",
+    "lang": "en",
     "lemma": "charged",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22828,12 +21250,11 @@ const WORDS_EN_A2 = [
       "ja": "緊張した",
       "zh": "紧张的",
       "ru": "напряженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3172",
+    "lang": "en",
     "lemma": "buck",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22853,12 +21274,11 @@ const WORDS_EN_A2 = [
       "zh": "公鹿",
       "ru": "самец оленя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bucks"
   },
   {
     "id": "en_3173",
+    "lang": "en",
     "lemma": "buck",
     "pos": "Verb",
     "cefr": "A2",
@@ -22877,15 +21297,11 @@ const WORDS_EN_A2 = [
       "ja": "振り落とす",
       "zh": "甩掉",
       "ru": "сбрасывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "buck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3174",
+    "lang": "en",
     "lemma": "construction",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22905,12 +21321,11 @@ const WORDS_EN_A2 = [
       "zh": "建设",
       "ru": "строительство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "constructions"
   },
   {
     "id": "en_3175",
+    "lang": "en",
     "lemma": "confession",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22930,12 +21345,11 @@ const WORDS_EN_A2 = [
       "zh": "认罪",
       "ru": "признание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "confessions"
   },
   {
     "id": "en_3176",
+    "lang": "en",
     "lemma": "trigger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -22956,12 +21370,11 @@ const WORDS_EN_A2 = [
       "zh": "扳机",
       "ru": "спусковой крючок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "triggers"
   },
   {
     "id": "en_3177",
+    "lang": "en",
     "lemma": "trigger",
     "pos": "Verb",
     "cefr": "A2",
@@ -22980,15 +21393,11 @@ const WORDS_EN_A2 = [
       "ja": "引き起こす",
       "zh": "引发",
       "ru": "вызывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trigger",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3179",
+    "lang": "en",
     "lemma": "exit",
     "pos": "Verb",
     "cefr": "A2",
@@ -23008,15 +21417,11 @@ const WORDS_EN_A2 = [
       "ja": "出る",
       "zh": "离开",
       "ru": "выходить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "exit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3180",
+    "lang": "en",
     "lemma": "exit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23037,12 +21442,11 @@ const WORDS_EN_A2 = [
       "zh": "出口",
       "ru": "выход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "exits"
   },
   {
     "id": "en_3181",
+    "lang": "en",
     "lemma": "response",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23062,12 +21466,11 @@ const WORDS_EN_A2 = [
       "zh": "回应",
       "ru": "ответ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "responses"
   },
   {
     "id": "en_3182",
+    "lang": "en",
     "lemma": "cancel",
     "pos": "Verb",
     "cefr": "A2",
@@ -23087,15 +21490,11 @@ const WORDS_EN_A2 = [
       "ja": "キャンセルする",
       "zh": "取消",
       "ru": "отменять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cancel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3183",
+    "lang": "en",
     "lemma": "argument",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23115,12 +21514,11 @@ const WORDS_EN_A2 = [
       "zh": "争论",
       "ru": "спор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "arguments"
   },
   {
     "id": "en_3184",
+    "lang": "en",
     "lemma": "principal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23139,12 +21537,11 @@ const WORDS_EN_A2 = [
       "ja": "主要な",
       "zh": "主要的",
       "ru": "главный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3185",
+    "lang": "en",
     "lemma": "principal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23165,12 +21562,11 @@ const WORDS_EN_A2 = [
       "zh": "校长",
       "ru": "директор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "principals"
   },
   {
     "id": "en_3186",
+    "lang": "en",
     "lemma": "turkey",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23191,12 +21587,11 @@ const WORDS_EN_A2 = [
       "zh": "火鸡",
       "ru": "индюк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "turkeys"
   },
   {
     "id": "en_3187",
+    "lang": "en",
     "lemma": "clinic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23217,12 +21612,11 @@ const WORDS_EN_A2 = [
       "zh": "诊所",
       "ru": "клиника"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clinics"
   },
   {
     "id": "en_3190",
+    "lang": "en",
     "lemma": "vice",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23242,12 +21636,11 @@ const WORDS_EN_A2 = [
       "zh": "恶习",
       "ru": "порок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vices"
   },
   {
     "id": "en_3192",
+    "lang": "en",
     "lemma": "toy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23268,12 +21661,11 @@ const WORDS_EN_A2 = [
       "zh": "玩具",
       "ru": "игрушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "toys"
   },
   {
     "id": "en_3193",
+    "lang": "en",
     "lemma": "toy",
     "pos": "Verb",
     "cefr": "A2",
@@ -23292,15 +21684,11 @@ const WORDS_EN_A2 = [
       "ja": "いじる",
       "zh": "玩耍",
       "ru": "играть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "toy",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3194",
+    "lang": "en",
     "lemma": "everyday",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23320,12 +21708,11 @@ const WORDS_EN_A2 = [
       "ja": "日常的な",
       "zh": "日常的",
       "ru": "повседневный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3195",
+    "lang": "en",
     "lemma": "generous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23344,12 +21731,11 @@ const WORDS_EN_A2 = [
       "ja": "寛大な",
       "zh": "慷慨的",
       "ru": "щедрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3196",
+    "lang": "en",
     "lemma": "gain",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23369,12 +21755,11 @@ const WORDS_EN_A2 = [
       "zh": "收益",
       "ru": "прибыль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gains"
   },
   {
     "id": "en_3197",
+    "lang": "en",
     "lemma": "gain",
     "pos": "Verb",
     "cefr": "A2",
@@ -23394,15 +21779,11 @@ const WORDS_EN_A2 = [
       "ja": "得る",
       "zh": "获得",
       "ru": "получать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gain",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3198",
+    "lang": "en",
     "lemma": "idiots",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23422,12 +21803,11 @@ const WORDS_EN_A2 = [
       "zh": "白痴",
       "ru": "идиот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "idiots"
   },
   {
     "id": "en_3200",
+    "lang": "en",
     "lemma": "jungle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23448,12 +21828,11 @@ const WORDS_EN_A2 = [
       "zh": "丛林",
       "ru": "джунгли"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jungles"
   },
   {
     "id": "en_3201",
+    "lang": "en",
     "lemma": "link",
     "pos": "Verb",
     "cefr": "A2",
@@ -23473,15 +21852,11 @@ const WORDS_EN_A2 = [
       "ja": "つなぐ",
       "zh": "连接",
       "ru": "соединять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "link",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3202",
+    "lang": "en",
     "lemma": "link",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23502,12 +21877,11 @@ const WORDS_EN_A2 = [
       "zh": "链接",
       "ru": "связь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "links"
   },
   {
     "id": "en_3204",
+    "lang": "en",
     "lemma": "underground",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23528,12 +21902,11 @@ const WORDS_EN_A2 = [
       "zh": "地铁",
       "ru": "метро"
     },
-    "examples": [],
-    "meta": {},
     "plural": "undergrounds"
   },
   {
     "id": "en_3205",
+    "lang": "en",
     "lemma": "mistress",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23553,12 +21926,11 @@ const WORDS_EN_A2 = [
       "zh": "女主人",
       "ru": "хозяйка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mistresses"
   },
   {
     "id": "en_3207",
+    "lang": "en",
     "lemma": "product",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23579,12 +21951,11 @@ const WORDS_EN_A2 = [
       "zh": "产品",
       "ru": "продукт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "products"
   },
   {
     "id": "en_3208",
+    "lang": "en",
     "lemma": "beef",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23605,12 +21976,11 @@ const WORDS_EN_A2 = [
       "zh": "牛肉",
       "ru": "говядина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beefs"
   },
   {
     "id": "en_3210",
+    "lang": "en",
     "lemma": "religious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23629,12 +21999,11 @@ const WORDS_EN_A2 = [
       "ja": "宗教的な",
       "zh": "宗教的",
       "ru": "религиозный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3212",
+    "lang": "en",
     "lemma": "identify",
     "pos": "Verb",
     "cefr": "A2",
@@ -23653,15 +22022,11 @@ const WORDS_EN_A2 = [
       "ja": "特定する",
       "zh": "识别",
       "ru": "определять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "identify",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3213",
+    "lang": "en",
     "lemma": "chip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23682,12 +22047,11 @@ const WORDS_EN_A2 = [
       "zh": "碎片",
       "ru": "осколок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chips"
   },
   {
     "id": "en_3214",
+    "lang": "en",
     "lemma": "chip",
     "pos": "Verb",
     "cefr": "A2",
@@ -23707,15 +22071,11 @@ const WORDS_EN_A2 = [
       "ja": "欠ける",
       "zh": "破裂",
       "ru": "откалываться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3215",
+    "lang": "en",
     "lemma": "surveillance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23735,12 +22095,11 @@ const WORDS_EN_A2 = [
       "zh": "监视",
       "ru": "наблюдение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "surveillances"
   },
   {
     "id": "en_3216",
+    "lang": "en",
     "lemma": "vampire",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23760,12 +22119,11 @@ const WORDS_EN_A2 = [
       "zh": "吸血鬼",
       "ru": "вампир"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vampires"
   },
   {
     "id": "en_3217",
+    "lang": "en",
     "lemma": "routine",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23785,12 +22143,11 @@ const WORDS_EN_A2 = [
       "ja": "日常的な",
       "zh": "日常的",
       "ru": "обычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3218",
+    "lang": "en",
     "lemma": "routine",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23811,12 +22168,11 @@ const WORDS_EN_A2 = [
       "zh": "日常",
       "ru": "распорядок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "routines"
   },
   {
     "id": "en_3222",
+    "lang": "en",
     "lemma": "temperature",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23836,12 +22192,11 @@ const WORDS_EN_A2 = [
       "zh": "温度",
       "ru": "температура"
     },
-    "examples": [],
-    "meta": {},
     "plural": "temperatures"
   },
   {
     "id": "en_3224",
+    "lang": "en",
     "lemma": "tribe",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23861,12 +22216,11 @@ const WORDS_EN_A2 = [
       "zh": "部落",
       "ru": "племя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tribes"
   },
   {
     "id": "en_3225",
+    "lang": "en",
     "lemma": "deputy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23886,12 +22240,11 @@ const WORDS_EN_A2 = [
       "zh": "副手",
       "ru": "заместитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "deputies"
   },
   {
     "id": "en_3226",
+    "lang": "en",
     "lemma": "headquarters",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23911,12 +22264,11 @@ const WORDS_EN_A2 = [
       "zh": "总部",
       "ru": "штаб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "headquarters"
   },
   {
     "id": "en_3227",
+    "lang": "en",
     "lemma": "equal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23935,12 +22287,11 @@ const WORDS_EN_A2 = [
       "ja": "等しい",
       "zh": "相等的",
       "ru": "равный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3228",
+    "lang": "en",
     "lemma": "equal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23960,12 +22311,11 @@ const WORDS_EN_A2 = [
       "zh": "平等的人",
       "ru": "равный"
     },
-    "examples": [],
-    "meta": {},
     "plural": "equals"
   },
   {
     "id": "en_3229",
+    "lang": "en",
     "lemma": "equal",
     "pos": "Verb",
     "cefr": "A2",
@@ -23984,15 +22334,11 @@ const WORDS_EN_A2 = [
       "ja": "等しい",
       "zh": "等于",
       "ru": "равняться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "equal",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3231",
+    "lang": "en",
     "lemma": "reckon",
     "pos": "Verb",
     "cefr": "A2",
@@ -24011,15 +22357,11 @@ const WORDS_EN_A2 = [
       "ja": "思う",
       "zh": "认为",
       "ru": "думать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reckon",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3232",
+    "lang": "en",
     "lemma": "related",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24038,12 +22380,11 @@ const WORDS_EN_A2 = [
       "ja": "関連した",
       "zh": "相关的",
       "ru": "связанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3233",
+    "lang": "en",
     "lemma": "chill",
     "pos": "Verb",
     "cefr": "A2",
@@ -24063,15 +22404,11 @@ const WORDS_EN_A2 = [
       "ja": "冷やす",
       "zh": "冷却",
       "ru": "охлаждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chill",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3234",
+    "lang": "en",
     "lemma": "chill",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24092,12 +22429,11 @@ const WORDS_EN_A2 = [
       "zh": "寒冷",
       "ru": "озноб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chills"
   },
   {
     "id": "en_3237",
+    "lang": "en",
     "lemma": "spit",
     "pos": "Verb",
     "cefr": "A2",
@@ -24117,15 +22453,11 @@ const WORDS_EN_A2 = [
       "ja": "吐く",
       "zh": "吐痰",
       "ru": "плевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3239",
+    "lang": "en",
     "lemma": "makeup",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24145,12 +22477,11 @@ const WORDS_EN_A2 = [
       "zh": "构成",
       "ru": "состав"
     },
-    "examples": [],
-    "meta": {},
     "plural": "makeups"
   },
   {
     "id": "en_3240",
+    "lang": "en",
     "lemma": "bug",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24171,12 +22502,11 @@ const WORDS_EN_A2 = [
       "zh": "昆虫",
       "ru": "насекомое"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bugs"
   },
   {
     "id": "en_3243",
+    "lang": "en",
     "lemma": "nerve",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24196,12 +22526,11 @@ const WORDS_EN_A2 = [
       "zh": "神经",
       "ru": "нерв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nerves"
   },
   {
     "id": "en_3244",
+    "lang": "en",
     "lemma": "stake",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24221,12 +22550,11 @@ const WORDS_EN_A2 = [
       "zh": "木桩",
       "ru": "кол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stakes"
   },
   {
     "id": "en_3245",
+    "lang": "en",
     "lemma": "stake",
     "pos": "Verb",
     "cefr": "A2",
@@ -24245,15 +22573,11 @@ const WORDS_EN_A2 = [
       "ja": "杭を打つ",
       "zh": "打桩",
       "ru": "вбивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stake",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3246",
+    "lang": "en",
     "lemma": "port",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24274,12 +22598,11 @@ const WORDS_EN_A2 = [
       "zh": "港口",
       "ru": "порт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ports"
   },
   {
     "id": "en_3249",
+    "lang": "en",
     "lemma": "nephew",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24300,12 +22623,11 @@ const WORDS_EN_A2 = [
       "zh": "侄子",
       "ru": "племянник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nephews"
   },
   {
     "id": "en_3253",
+    "lang": "en",
     "lemma": "landing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24326,12 +22648,11 @@ const WORDS_EN_A2 = [
       "zh": "着陆",
       "ru": "посадка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "landings"
   },
   {
     "id": "en_3254",
+    "lang": "en",
     "lemma": "traitor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24351,12 +22672,11 @@ const WORDS_EN_A2 = [
       "zh": "叛徒",
       "ru": "предатель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traitors"
   },
   {
     "id": "en_3255",
+    "lang": "en",
     "lemma": "outfit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24377,12 +22697,11 @@ const WORDS_EN_A2 = [
       "zh": "服装",
       "ru": "наряд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "outfits"
   },
   {
     "id": "en_3256",
+    "lang": "en",
     "lemma": "outfit",
     "pos": "Verb",
     "cefr": "A2",
@@ -24401,15 +22720,11 @@ const WORDS_EN_A2 = [
       "ja": "装備する",
       "zh": "装备",
       "ru": "снаряжать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "outfit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3257",
+    "lang": "en",
     "lemma": "bail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24429,12 +22744,11 @@ const WORDS_EN_A2 = [
       "zh": "保释金",
       "ru": "залог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bails"
   },
   {
     "id": "en_3258",
+    "lang": "en",
     "lemma": "bail",
     "pos": "Verb",
     "cefr": "A2",
@@ -24453,15 +22767,11 @@ const WORDS_EN_A2 = [
       "ja": "保釈する",
       "zh": "交保释金",
       "ru": "вносить залог"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3260",
+    "lang": "en",
     "lemma": "patience",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24481,12 +22791,11 @@ const WORDS_EN_A2 = [
       "zh": "耐心",
       "ru": "терпение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3261",
+    "lang": "en",
     "lemma": "recording",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24507,12 +22816,11 @@ const WORDS_EN_A2 = [
       "zh": "录音",
       "ru": "запись"
     },
-    "examples": [],
-    "meta": {},
     "plural": "recordings"
   },
   {
     "id": "en_3262",
+    "lang": "en",
     "lemma": "foolish",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24531,12 +22839,11 @@ const WORDS_EN_A2 = [
       "ja": "愚かな",
       "zh": "愚蠢的",
       "ru": "глупый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3264",
+    "lang": "en",
     "lemma": "costume",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24557,12 +22864,11 @@ const WORDS_EN_A2 = [
       "zh": "服装",
       "ru": "костюм"
     },
-    "examples": [],
-    "meta": {},
     "plural": "costumes"
   },
   {
     "id": "en_3265",
+    "lang": "en",
     "lemma": "costume",
     "pos": "Verb",
     "cefr": "A2",
@@ -24581,15 +22887,11 @@ const WORDS_EN_A2 = [
       "ja": "衣装を着せる",
       "zh": "穿上服装",
       "ru": "одевать в костюм"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "costume",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3266",
+    "lang": "en",
     "lemma": "injured",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24608,12 +22910,11 @@ const WORDS_EN_A2 = [
       "ja": "けがした",
       "zh": "受伤的",
       "ru": "раненый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3267",
+    "lang": "en",
     "lemma": "pet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24634,12 +22935,11 @@ const WORDS_EN_A2 = [
       "zh": "宠物",
       "ru": "домашнее животное"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pets"
   },
   {
     "id": "en_3268",
+    "lang": "en",
     "lemma": "pet",
     "pos": "Verb",
     "cefr": "A2",
@@ -24659,15 +22959,11 @@ const WORDS_EN_A2 = [
       "ja": "撫でる",
       "zh": "抚摸",
       "ru": "гладить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pet",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3269",
+    "lang": "en",
     "lemma": "cage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24688,12 +22984,11 @@ const WORDS_EN_A2 = [
       "zh": "笼子",
       "ru": "клетка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cages"
   },
   {
     "id": "en_3270",
+    "lang": "en",
     "lemma": "cage",
     "pos": "Verb",
     "cefr": "A2",
@@ -24712,15 +23007,11 @@ const WORDS_EN_A2 = [
       "ja": "閉じ込める",
       "zh": "关进笼子",
       "ru": "заключать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cage",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3272",
+    "lang": "en",
     "lemma": "awkward",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24739,12 +23030,11 @@ const WORDS_EN_A2 = [
       "ja": "ぎこちない",
       "zh": "尴尬的",
       "ru": "неловкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3273",
+    "lang": "en",
     "lemma": "pattern",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24764,12 +23054,11 @@ const WORDS_EN_A2 = [
       "zh": "图案",
       "ru": "узор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "patterns"
   },
   {
     "id": "en_3274",
+    "lang": "en",
     "lemma": "pattern",
     "pos": "Verb",
     "cefr": "A2",
@@ -24788,15 +23077,11 @@ const WORDS_EN_A2 = [
       "ja": "パターン化する",
       "zh": "按模式制作",
       "ru": "моделировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pattern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3275",
+    "lang": "en",
     "lemma": "filthy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24816,12 +23101,11 @@ const WORDS_EN_A2 = [
       "ja": "汚い",
       "zh": "肮脏的",
       "ru": "грязный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3277",
+    "lang": "en",
     "lemma": "concentrate",
     "pos": "Verb",
     "cefr": "A2",
@@ -24840,15 +23124,11 @@ const WORDS_EN_A2 = [
       "ja": "集中する",
       "zh": "集中",
       "ru": "концентрироваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "concentrate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3278",
+    "lang": "en",
     "lemma": "concentrate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24868,12 +23148,11 @@ const WORDS_EN_A2 = [
       "zh": "浓缩液",
       "ru": "концентрат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "concentrates"
   },
   {
     "id": "en_3280",
+    "lang": "en",
     "lemma": "aim",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24894,12 +23173,11 @@ const WORDS_EN_A2 = [
       "zh": "目标",
       "ru": "цель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aims"
   },
   {
     "id": "en_3281",
+    "lang": "en",
     "lemma": "aim",
     "pos": "Verb",
     "cefr": "A2",
@@ -24919,15 +23197,11 @@ const WORDS_EN_A2 = [
       "ja": "狙う",
       "zh": "瞄准",
       "ru": "целиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aim",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3284",
+    "lang": "en",
     "lemma": "thick",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24946,12 +23220,11 @@ const WORDS_EN_A2 = [
       "ja": "厚い",
       "zh": "厚的",
       "ru": "толстый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3285",
+    "lang": "en",
     "lemma": "sport",
     "pos": "Nomen",
     "cefr": "A2",
@@ -24972,12 +23245,11 @@ const WORDS_EN_A2 = [
       "zh": "运动",
       "ru": "спорт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sports"
   },
   {
     "id": "en_3286",
+    "lang": "en",
     "lemma": "sport",
     "pos": "Verb",
     "cefr": "A2",
@@ -24996,15 +23268,11 @@ const WORDS_EN_A2 = [
       "ja": "着用する",
       "zh": "穿着",
       "ru": "носить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sport",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3287",
+    "lang": "en",
     "lemma": "basic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25023,12 +23291,11 @@ const WORDS_EN_A2 = [
       "ja": "基本的な",
       "zh": "基本的",
       "ru": "основной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3288",
+    "lang": "en",
     "lemma": "basic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25048,12 +23315,11 @@ const WORDS_EN_A2 = [
       "zh": "基础",
       "ru": "основы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "basics"
   },
   {
     "id": "en_3289",
+    "lang": "en",
     "lemma": "electric",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25073,12 +23339,11 @@ const WORDS_EN_A2 = [
       "ja": "電気の",
       "zh": "电的",
       "ru": "электрический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3290",
+    "lang": "en",
     "lemma": "pleasant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25098,12 +23363,11 @@ const WORDS_EN_A2 = [
       "ja": "楽しい",
       "zh": "愉快的",
       "ru": "приятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3291",
+    "lang": "en",
     "lemma": "cliff",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25123,12 +23387,11 @@ const WORDS_EN_A2 = [
       "zh": "悬崖",
       "ru": "утес"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cliffs"
   },
   {
     "id": "en_3292",
+    "lang": "en",
     "lemma": "nail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25149,12 +23412,11 @@ const WORDS_EN_A2 = [
       "zh": "钉子",
       "ru": "гвоздь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nails"
   },
   {
     "id": "en_3293",
+    "lang": "en",
     "lemma": "nail",
     "pos": "Verb",
     "cefr": "A2",
@@ -25173,15 +23435,11 @@ const WORDS_EN_A2 = [
       "ja": "釘付けにする",
       "zh": "钉住",
       "ru": "прибивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3294",
+    "lang": "en",
     "lemma": "environment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25202,12 +23460,11 @@ const WORDS_EN_A2 = [
       "zh": "环境",
       "ru": "окружающая среда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "environments"
   },
   {
     "id": "en_3295",
+    "lang": "en",
     "lemma": "western",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25226,12 +23483,11 @@ const WORDS_EN_A2 = [
       "ja": "西の",
       "zh": "西方的",
       "ru": "западный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3296",
+    "lang": "en",
     "lemma": "western",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25251,12 +23507,11 @@ const WORDS_EN_A2 = [
       "zh": "西部片",
       "ru": "вестерн"
     },
-    "examples": [],
-    "meta": {},
     "plural": "westerns"
   },
   {
     "id": "en_3297",
+    "lang": "en",
     "lemma": "average",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25275,12 +23530,11 @@ const WORDS_EN_A2 = [
       "ja": "平均的な",
       "zh": "平均的",
       "ru": "средний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3298",
+    "lang": "en",
     "lemma": "average",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25300,12 +23554,11 @@ const WORDS_EN_A2 = [
       "zh": "平均",
       "ru": "среднее"
     },
-    "examples": [],
-    "meta": {},
     "plural": "averages"
   },
   {
     "id": "en_3300",
+    "lang": "en",
     "lemma": "ease",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25326,12 +23579,11 @@ const WORDS_EN_A2 = [
       "zh": "舒适",
       "ru": "легкость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3301",
+    "lang": "en",
     "lemma": "ease",
     "pos": "Verb",
     "cefr": "A2",
@@ -25351,15 +23603,11 @@ const WORDS_EN_A2 = [
       "ja": "緩和する",
       "zh": "缓解",
       "ru": "облегчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ease",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3302",
+    "lang": "en",
     "lemma": "interrupt",
     "pos": "Verb",
     "cefr": "A2",
@@ -25379,15 +23627,11 @@ const WORDS_EN_A2 = [
       "ja": "邪魔する",
       "zh": "打断",
       "ru": "прерывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "interrupt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3304",
+    "lang": "en",
     "lemma": "satisfied",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25407,12 +23651,11 @@ const WORDS_EN_A2 = [
       "ja": "満足した",
       "zh": "满意的",
       "ru": "довольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3305",
+    "lang": "en",
     "lemma": "beep",
     "pos": "Verb",
     "cefr": "A2",
@@ -25431,15 +23674,11 @@ const WORDS_EN_A2 = [
       "ja": "ビープ音を出す",
       "zh": "发出哔声",
       "ru": "пищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beep",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3306",
+    "lang": "en",
     "lemma": "beep",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25459,12 +23698,11 @@ const WORDS_EN_A2 = [
       "zh": "哔声",
       "ru": "писк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beeps"
   },
   {
     "id": "en_3308",
+    "lang": "en",
     "lemma": "anniversary",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25485,12 +23723,11 @@ const WORDS_EN_A2 = [
       "zh": "周年纪念",
       "ru": "годовщина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "anniversaries"
   },
   {
     "id": "en_3309",
+    "lang": "en",
     "lemma": "election",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25510,12 +23747,11 @@ const WORDS_EN_A2 = [
       "zh": "选举",
       "ru": "выборы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "elections"
   },
   {
     "id": "en_3310",
+    "lang": "en",
     "lemma": "warrior",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25535,12 +23771,11 @@ const WORDS_EN_A2 = [
       "zh": "战士",
       "ru": "воин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "warriors"
   },
   {
     "id": "en_3311",
+    "lang": "en",
     "lemma": "fetch",
     "pos": "Verb",
     "cefr": "A2",
@@ -25560,15 +23795,11 @@ const WORDS_EN_A2 = [
       "ja": "持ってくる",
       "zh": "取来",
       "ru": "приносить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fetch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3315",
+    "lang": "en",
     "lemma": "complex",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25587,12 +23818,11 @@ const WORDS_EN_A2 = [
       "ja": "複雑な",
       "zh": "复杂的",
       "ru": "сложный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3318",
+    "lang": "en",
     "lemma": "replace",
     "pos": "Verb",
     "cefr": "A2",
@@ -25611,15 +23841,11 @@ const WORDS_EN_A2 = [
       "ja": "置き換える",
       "zh": "替换",
       "ru": "заменять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "replace",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3319",
+    "lang": "en",
     "lemma": "prayer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25640,12 +23866,11 @@ const WORDS_EN_A2 = [
       "zh": "祈祷",
       "ru": "молитва"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prayers"
   },
   {
     "id": "en_3320",
+    "lang": "en",
     "lemma": "skip",
     "pos": "Verb",
     "cefr": "A2",
@@ -25665,15 +23890,11 @@ const WORDS_EN_A2 = [
       "ja": "飛ばす",
       "zh": "跳过",
       "ru": "пропускать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "skip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3321",
+    "lang": "en",
     "lemma": "guilt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25693,12 +23914,11 @@ const WORDS_EN_A2 = [
       "zh": "内疚",
       "ru": "вина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3322",
+    "lang": "en",
     "lemma": "tune",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25719,12 +23939,11 @@ const WORDS_EN_A2 = [
       "zh": "曲调",
       "ru": "мелодия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tunes"
   },
   {
     "id": "en_3323",
+    "lang": "en",
     "lemma": "tune",
     "pos": "Verb",
     "cefr": "A2",
@@ -25743,15 +23962,11 @@ const WORDS_EN_A2 = [
       "ja": "調律する",
       "zh": "调音",
       "ru": "настраивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tune",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3324",
+    "lang": "en",
     "lemma": "woo",
     "pos": "Verb",
     "cefr": "A2",
@@ -25770,15 +23985,11 @@ const WORDS_EN_A2 = [
       "ja": "求愛する",
       "zh": "追求",
       "ru": "ухаживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "woo",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3326",
+    "lang": "en",
     "lemma": "conscience",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25798,12 +24009,11 @@ const WORDS_EN_A2 = [
       "zh": "良心",
       "ru": "совесть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "consciences"
   },
   {
     "id": "en_3328",
+    "lang": "en",
     "lemma": "smaller",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25822,12 +24032,11 @@ const WORDS_EN_A2 = [
       "ja": "より小さい",
       "zh": "更小的",
       "ru": "меньше"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3329",
+    "lang": "en",
     "lemma": "determined",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25846,12 +24055,11 @@ const WORDS_EN_A2 = [
       "ja": "決意した",
       "zh": "坚定的",
       "ru": "решительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3330",
+    "lang": "en",
     "lemma": "hail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25872,12 +24080,11 @@ const WORDS_EN_A2 = [
       "zh": "冰雹",
       "ru": "град"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hail"
   },
   {
     "id": "en_3331",
+    "lang": "en",
     "lemma": "hail",
     "pos": "Verb",
     "cefr": "A2",
@@ -25896,15 +24103,11 @@ const WORDS_EN_A2 = [
       "ja": "称賛する",
       "zh": "欢呼",
       "ru": "приветствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3332",
+    "lang": "en",
     "lemma": "unhappy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25923,12 +24126,11 @@ const WORDS_EN_A2 = [
       "ja": "不幸な",
       "zh": "不幸的",
       "ru": "несчастный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3333",
+    "lang": "en",
     "lemma": "booth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -25949,12 +24151,11 @@ const WORDS_EN_A2 = [
       "zh": "摊位",
       "ru": "киоск"
     },
-    "examples": [],
-    "meta": {},
     "plural": "booths"
   },
   {
     "id": "en_3334",
+    "lang": "en",
     "lemma": "pour",
     "pos": "Verb",
     "cefr": "A2",
@@ -25974,15 +24175,11 @@ const WORDS_EN_A2 = [
       "ja": "注ぐ",
       "zh": "倒",
       "ru": "наливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pour",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3337",
+    "lang": "en",
     "lemma": "wrap",
     "pos": "Verb",
     "cefr": "A2",
@@ -26002,15 +24199,11 @@ const WORDS_EN_A2 = [
       "ja": "包む",
       "zh": "包裹",
       "ru": "оборачивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wrap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3340",
+    "lang": "en",
     "lemma": "behalf",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26030,12 +24223,11 @@ const WORDS_EN_A2 = [
       "zh": "代表",
       "ru": "представительство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "behalves"
   },
   {
     "id": "en_3341",
+    "lang": "en",
     "lemma": "reasonable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26054,12 +24246,11 @@ const WORDS_EN_A2 = [
       "ja": "合理的な",
       "zh": "合理的",
       "ru": "разумный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3342",
+    "lang": "en",
     "lemma": "trunk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26080,12 +24271,11 @@ const WORDS_EN_A2 = [
       "zh": "树干",
       "ru": "ствол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "trunks"
   },
   {
     "id": "en_3344",
+    "lang": "en",
     "lemma": "festival",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26106,12 +24296,11 @@ const WORDS_EN_A2 = [
       "zh": "节日",
       "ru": "фестиваль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "festivals"
   },
   {
     "id": "en_3345",
+    "lang": "en",
     "lemma": "tradition",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26131,12 +24320,11 @@ const WORDS_EN_A2 = [
       "zh": "传统",
       "ru": "традиция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traditions"
   },
   {
     "id": "en_3347",
+    "lang": "en",
     "lemma": "motive",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26156,12 +24344,11 @@ const WORDS_EN_A2 = [
       "zh": "动机",
       "ru": "мотив"
     },
-    "examples": [],
-    "meta": {},
     "plural": "motives"
   },
   {
     "id": "en_3349",
+    "lang": "en",
     "lemma": "bishop",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26181,12 +24368,11 @@ const WORDS_EN_A2 = [
       "zh": "主教",
       "ru": "епископ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bishops"
   },
   {
     "id": "en_3350",
+    "lang": "en",
     "lemma": "dealer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26207,12 +24393,11 @@ const WORDS_EN_A2 = [
       "zh": "经销商",
       "ru": "дилер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dealers"
   },
   {
     "id": "en_3351",
+    "lang": "en",
     "lemma": "defendant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26232,12 +24417,11 @@ const WORDS_EN_A2 = [
       "zh": "被告",
       "ru": "подсудимый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "defendants"
   },
   {
     "id": "en_3352",
+    "lang": "en",
     "lemma": "backup",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26258,12 +24442,11 @@ const WORDS_EN_A2 = [
       "zh": "备份",
       "ru": "резервная копия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "backups"
   },
   {
     "id": "en_3355",
+    "lang": "en",
     "lemma": "benefit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26284,12 +24467,11 @@ const WORDS_EN_A2 = [
       "zh": "好处",
       "ru": "выгода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "benefits"
   },
   {
     "id": "en_3357",
+    "lang": "en",
     "lemma": "adventure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26310,12 +24492,11 @@ const WORDS_EN_A2 = [
       "zh": "冒险",
       "ru": "приключение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "adventures"
   },
   {
     "id": "en_3359",
+    "lang": "en",
     "lemma": "territory",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26335,12 +24516,11 @@ const WORDS_EN_A2 = [
       "zh": "领土",
       "ru": "территория"
     },
-    "examples": [],
-    "meta": {},
     "plural": "territories"
   },
   {
     "id": "en_3360",
+    "lang": "en",
     "lemma": "apology",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26361,12 +24541,11 @@ const WORDS_EN_A2 = [
       "zh": "道歉",
       "ru": "извинение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "apologies"
   },
   {
     "id": "en_3361",
+    "lang": "en",
     "lemma": "unlike",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26386,12 +24565,11 @@ const WORDS_EN_A2 = [
       "ja": "異なる",
       "zh": "不同",
       "ru": "непохожий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3363",
+    "lang": "en",
     "lemma": "clay",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26412,12 +24590,11 @@ const WORDS_EN_A2 = [
       "zh": "粘土",
       "ru": "глина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clays"
   },
   {
     "id": "en_3364",
+    "lang": "en",
     "lemma": "pipe",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26438,12 +24615,11 @@ const WORDS_EN_A2 = [
       "zh": "管子",
       "ru": "труба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pipes"
   },
   {
     "id": "en_3366",
+    "lang": "en",
     "lemma": "gray",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26464,12 +24640,11 @@ const WORDS_EN_A2 = [
       "zh": "灰色",
       "ru": "серый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grays"
   },
   {
     "id": "en_3367",
+    "lang": "en",
     "lemma": "gray",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26489,12 +24664,11 @@ const WORDS_EN_A2 = [
       "ja": "灰色の",
       "zh": "灰色的",
       "ru": "серый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3368",
+    "lang": "en",
     "lemma": "gray",
     "pos": "Verb",
     "cefr": "A2",
@@ -26513,15 +24687,11 @@ const WORDS_EN_A2 = [
       "ja": "灰色になる",
       "zh": "变灰色",
       "ru": "седеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gray",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3369",
+    "lang": "en",
     "lemma": "goods",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26542,12 +24712,11 @@ const WORDS_EN_A2 = [
       "zh": "商品",
       "ru": "товары"
     },
-    "examples": [],
-    "meta": {},
     "plural": "goods"
   },
   {
     "id": "en_3370",
+    "lang": "en",
     "lemma": "favourite",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26567,12 +24736,11 @@ const WORDS_EN_A2 = [
       "ja": "お気に入りの",
       "zh": "最喜欢的",
       "ru": "любимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3371",
+    "lang": "en",
     "lemma": "favourite",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26593,12 +24761,11 @@ const WORDS_EN_A2 = [
       "zh": "最喜欢的人",
       "ru": "любимец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "favourites"
   },
   {
     "id": "en_3372",
+    "lang": "en",
     "lemma": "salad",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26619,12 +24786,11 @@ const WORDS_EN_A2 = [
       "zh": "沙拉",
       "ru": "салат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "salads"
   },
   {
     "id": "en_3373",
+    "lang": "en",
     "lemma": "loyal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26643,12 +24809,11 @@ const WORDS_EN_A2 = [
       "ja": "忠実な",
       "zh": "忠诚的",
       "ru": "верный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3374",
+    "lang": "en",
     "lemma": "atmosphere",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26668,12 +24833,11 @@ const WORDS_EN_A2 = [
       "zh": "大气",
       "ru": "атмосфера"
     },
-    "examples": [],
-    "meta": {},
     "plural": "atmospheres"
   },
   {
     "id": "en_3375",
+    "lang": "en",
     "lemma": "dropping",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26693,12 +24857,11 @@ const WORDS_EN_A2 = [
       "zh": "粪便",
       "ru": "помет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "droppings"
   },
   {
     "id": "en_3377",
+    "lang": "en",
     "lemma": "mouse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26719,12 +24882,11 @@ const WORDS_EN_A2 = [
       "zh": "鼠",
       "ru": "мышь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mice"
   },
   {
     "id": "en_3379",
+    "lang": "en",
     "lemma": "downtown",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26745,12 +24907,11 @@ const WORDS_EN_A2 = [
       "zh": "市中心",
       "ru": "центр города"
     },
-    "examples": [],
-    "meta": {},
     "plural": "downtowns"
   },
   {
     "id": "en_3381",
+    "lang": "en",
     "lemma": "pit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26771,12 +24932,11 @@ const WORDS_EN_A2 = [
       "zh": "坑",
       "ru": "яма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pits"
   },
   {
     "id": "en_3383",
+    "lang": "en",
     "lemma": "rotten",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26796,12 +24956,11 @@ const WORDS_EN_A2 = [
       "ja": "腐った",
       "zh": "腐烂的",
       "ru": "гнилой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3384",
+    "lang": "en",
     "lemma": "paradise",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26822,12 +24981,11 @@ const WORDS_EN_A2 = [
       "zh": "天堂",
       "ru": "рай"
     },
-    "examples": [],
-    "meta": {},
     "plural": "paradises"
   },
   {
     "id": "en_3385",
+    "lang": "en",
     "lemma": "meantime",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26848,12 +25006,11 @@ const WORDS_EN_A2 = [
       "zh": "同时",
       "ru": "тем временем"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3386",
+    "lang": "en",
     "lemma": "organization",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26874,12 +25031,11 @@ const WORDS_EN_A2 = [
       "zh": "组织",
       "ru": "организация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "organizations"
   },
   {
     "id": "en_3388",
+    "lang": "en",
     "lemma": "exam",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26899,12 +25055,11 @@ const WORDS_EN_A2 = [
       "zh": "考试",
       "ru": "экзамен"
     },
-    "examples": [],
-    "meta": {},
     "plural": "exams"
   },
   {
     "id": "en_3389",
+    "lang": "en",
     "lemma": "cock",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26925,12 +25080,11 @@ const WORDS_EN_A2 = [
       "zh": "公鸡",
       "ru": "петух"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cocks"
   },
   {
     "id": "en_3391",
+    "lang": "en",
     "lemma": "fairy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26951,12 +25105,11 @@ const WORDS_EN_A2 = [
       "zh": "仙女",
       "ru": "фея"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fairies"
   },
   {
     "id": "en_3393",
+    "lang": "en",
     "lemma": "comment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -26977,12 +25130,11 @@ const WORDS_EN_A2 = [
       "zh": "评论",
       "ru": "комментарий"
     },
-    "examples": [],
-    "meta": {},
     "plural": "comments"
   },
   {
     "id": "en_3394",
+    "lang": "en",
     "lemma": "comment",
     "pos": "Verb",
     "cefr": "A2",
@@ -27002,15 +25154,11 @@ const WORDS_EN_A2 = [
       "ja": "コメントする",
       "zh": "评论",
       "ru": "комментировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "comment",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3395",
+    "lang": "en",
     "lemma": "activity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27031,12 +25179,11 @@ const WORDS_EN_A2 = [
       "zh": "活动",
       "ru": "деятельность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "activities"
   },
   {
     "id": "en_3396",
+    "lang": "en",
     "lemma": "frame",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27057,12 +25204,11 @@ const WORDS_EN_A2 = [
       "zh": "框架",
       "ru": "рама"
     },
-    "examples": [],
-    "meta": {},
     "plural": "frames"
   },
   {
     "id": "en_3397",
+    "lang": "en",
     "lemma": "frame",
     "pos": "Verb",
     "cefr": "A2",
@@ -27082,15 +25228,11 @@ const WORDS_EN_A2 = [
       "ja": "構成する",
       "zh": "构成",
       "ru": "составлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "frame",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3398",
+    "lang": "en",
     "lemma": "knight",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27110,12 +25252,11 @@ const WORDS_EN_A2 = [
       "zh": "骑士",
       "ru": "рыцарь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "knights"
   },
   {
     "id": "en_3399",
+    "lang": "en",
     "lemma": "habit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27136,12 +25277,11 @@ const WORDS_EN_A2 = [
       "zh": "习惯",
       "ru": "привычка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "habits"
   },
   {
     "id": "en_3400",
+    "lang": "en",
     "lemma": "shelter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27162,12 +25302,11 @@ const WORDS_EN_A2 = [
       "zh": "避难所",
       "ru": "убежище"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shelters"
   },
   {
     "id": "en_3401",
+    "lang": "en",
     "lemma": "shelter",
     "pos": "Verb",
     "cefr": "A2",
@@ -27187,15 +25326,11 @@ const WORDS_EN_A2 = [
       "ja": "保護する",
       "zh": "保护",
       "ru": "защищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shelter",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3402",
+    "lang": "en",
     "lemma": "flow",
     "pos": "Verb",
     "cefr": "A2",
@@ -27215,15 +25350,11 @@ const WORDS_EN_A2 = [
       "ja": "流れる",
       "zh": "流动",
       "ru": "течь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3403",
+    "lang": "en",
     "lemma": "flow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27244,12 +25375,11 @@ const WORDS_EN_A2 = [
       "zh": "流量",
       "ru": "поток"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flows"
   },
   {
     "id": "en_3405",
+    "lang": "en",
     "lemma": "prevent",
     "pos": "Verb",
     "cefr": "A2",
@@ -27269,15 +25399,11 @@ const WORDS_EN_A2 = [
       "ja": "防ぐ",
       "zh": "防止",
       "ru": "предотвращать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prevent",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3406",
+    "lang": "en",
     "lemma": "lend",
     "pos": "Verb",
     "cefr": "A2",
@@ -27297,15 +25423,11 @@ const WORDS_EN_A2 = [
       "ja": "貸す",
       "zh": "借给",
       "ru": "одалживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3409",
+    "lang": "en",
     "lemma": "sample",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27326,12 +25448,11 @@ const WORDS_EN_A2 = [
       "zh": "样本",
       "ru": "образец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "samples"
   },
   {
     "id": "en_3410",
+    "lang": "en",
     "lemma": "sample",
     "pos": "Verb",
     "cefr": "A2",
@@ -27350,15 +25471,11 @@ const WORDS_EN_A2 = [
       "ja": "試食する",
       "zh": "品尝",
       "ru": "пробовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sample",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3411",
+    "lang": "en",
     "lemma": "strip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27379,12 +25496,11 @@ const WORDS_EN_A2 = [
       "zh": "条纹",
       "ru": "полоса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strips"
   },
   {
     "id": "en_3412",
+    "lang": "en",
     "lemma": "strip",
     "pos": "Verb",
     "cefr": "A2",
@@ -27404,15 +25520,11 @@ const WORDS_EN_A2 = [
       "ja": "脱ぐ",
       "zh": "脱掉",
       "ru": "раздевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "strip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3414",
+    "lang": "en",
     "lemma": "monk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27432,12 +25544,11 @@ const WORDS_EN_A2 = [
       "zh": "僧侣",
       "ru": "монах"
     },
-    "examples": [],
-    "meta": {},
     "plural": "monks"
   },
   {
     "id": "en_3415",
+    "lang": "en",
     "lemma": "produce",
     "pos": "Verb",
     "cefr": "A2",
@@ -27457,15 +25568,11 @@ const WORDS_EN_A2 = [
       "ja": "生産する",
       "zh": "生产",
       "ru": "производить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "produce",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3416",
+    "lang": "en",
     "lemma": "produce",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27486,12 +25593,11 @@ const WORDS_EN_A2 = [
       "zh": "农产品",
       "ru": "продукция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3417",
+    "lang": "en",
     "lemma": "annoying",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27511,12 +25617,11 @@ const WORDS_EN_A2 = [
       "ja": "うるさい",
       "zh": "烦人的",
       "ru": "раздражающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3418",
+    "lang": "en",
     "lemma": "judgment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27536,12 +25641,11 @@ const WORDS_EN_A2 = [
       "zh": "判断力",
       "ru": "суждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "judgments"
   },
   {
     "id": "en_3419",
+    "lang": "en",
     "lemma": "laundry",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27562,12 +25666,11 @@ const WORDS_EN_A2 = [
       "zh": "洗衣物",
       "ru": "белье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "laundries"
   },
   {
     "id": "en_3420",
+    "lang": "en",
     "lemma": "lousy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27586,12 +25689,11 @@ const WORDS_EN_A2 = [
       "ja": "ひどい",
       "zh": "糟糕的",
       "ru": "паршивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3422",
+    "lang": "en",
     "lemma": "existence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27611,12 +25713,11 @@ const WORDS_EN_A2 = [
       "zh": "存在",
       "ru": "существование"
     },
-    "examples": [],
-    "meta": {},
     "plural": "existences"
   },
   {
     "id": "en_3423",
+    "lang": "en",
     "lemma": "belly",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27637,12 +25738,11 @@ const WORDS_EN_A2 = [
       "zh": "肚子",
       "ru": "живот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bellies"
   },
   {
     "id": "en_3424",
+    "lang": "en",
     "lemma": "tries",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27663,12 +25763,11 @@ const WORDS_EN_A2 = [
       "zh": "尝试",
       "ru": "попытка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tries"
   },
   {
     "id": "en_3425",
+    "lang": "en",
     "lemma": "foster",
     "pos": "Verb",
     "cefr": "A2",
@@ -27687,15 +25786,11 @@ const WORDS_EN_A2 = [
       "ja": "育成する",
       "zh": "培养",
       "ru": "поощрять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "foster",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3426",
+    "lang": "en",
     "lemma": "ward",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27716,12 +25811,11 @@ const WORDS_EN_A2 = [
       "zh": "病房",
       "ru": "палата"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wards"
   },
   {
     "id": "en_3427",
+    "lang": "en",
     "lemma": "ward",
     "pos": "Verb",
     "cefr": "A2",
@@ -27741,15 +25835,11 @@ const WORDS_EN_A2 = [
       "ja": "防ぐ",
       "zh": "阻挡",
       "ru": "отражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ward",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3429",
+    "lang": "en",
     "lemma": "actress",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27770,12 +25860,11 @@ const WORDS_EN_A2 = [
       "zh": "女演员",
       "ru": "актриса"
     },
-    "examples": [],
-    "meta": {},
     "plural": "actresses"
   },
   {
     "id": "en_3430",
+    "lang": "en",
     "lemma": "chairman",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27796,12 +25885,11 @@ const WORDS_EN_A2 = [
       "zh": "主席",
       "ru": "председатель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chairmen"
   },
   {
     "id": "en_3431",
+    "lang": "en",
     "lemma": "individual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27820,12 +25908,11 @@ const WORDS_EN_A2 = [
       "ja": "個別の",
       "zh": "个别的",
       "ru": "индивидуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3432",
+    "lang": "en",
     "lemma": "individual",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27846,12 +25933,11 @@ const WORDS_EN_A2 = [
       "zh": "个人",
       "ru": "личность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "individuals"
   },
   {
     "id": "en_3434",
+    "lang": "en",
     "lemma": "tattoo",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27872,12 +25958,11 @@ const WORDS_EN_A2 = [
       "zh": "纹身",
       "ru": "татуировка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tattoos"
   },
   {
     "id": "en_3436",
+    "lang": "en",
     "lemma": "fence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27898,12 +25983,11 @@ const WORDS_EN_A2 = [
       "zh": "栅栏",
       "ru": "забор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fences"
   },
   {
     "id": "en_3437",
+    "lang": "en",
     "lemma": "fence",
     "pos": "Verb",
     "cefr": "A2",
@@ -27923,15 +26007,11 @@ const WORDS_EN_A2 = [
       "ja": "柵で囲む",
       "zh": "围栏",
       "ru": "огораживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fence",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3438",
+    "lang": "en",
     "lemma": "sink",
     "pos": "Verb",
     "cefr": "A2",
@@ -27951,15 +26031,11 @@ const WORDS_EN_A2 = [
       "ja": "沈む",
       "zh": "下沉",
       "ru": "тонуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sink",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3439",
+    "lang": "en",
     "lemma": "sink",
     "pos": "Nomen",
     "cefr": "A2",
@@ -27980,12 +26056,11 @@ const WORDS_EN_A2 = [
       "zh": "水槽",
       "ru": "раковина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sinks"
   },
   {
     "id": "en_3441",
+    "lang": "en",
     "lemma": "confident",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28005,12 +26080,11 @@ const WORDS_EN_A2 = [
       "ja": "自信のある",
       "zh": "自信的",
       "ru": "уверенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3442",
+    "lang": "en",
     "lemma": "mistaken",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28030,12 +26104,11 @@ const WORDS_EN_A2 = [
       "ja": "間違った",
       "zh": "错误的",
       "ru": "ошибочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3443",
+    "lang": "en",
     "lemma": "limit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28055,12 +26128,11 @@ const WORDS_EN_A2 = [
       "zh": "限制",
       "ru": "предел"
     },
-    "examples": [],
-    "meta": {},
     "plural": "limits"
   },
   {
     "id": "en_3444",
+    "lang": "en",
     "lemma": "limit",
     "pos": "Verb",
     "cefr": "A2",
@@ -28079,15 +26151,11 @@ const WORDS_EN_A2 = [
       "ja": "制限する",
       "zh": "限制",
       "ru": "ограничивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "limit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3445",
+    "lang": "en",
     "lemma": "uncomfortable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28107,12 +26175,11 @@ const WORDS_EN_A2 = [
       "ja": "不快な",
       "zh": "不舒服的",
       "ru": "неудобный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3447",
+    "lang": "en",
     "lemma": "policeman",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28133,12 +26200,11 @@ const WORDS_EN_A2 = [
       "zh": "警察",
       "ru": "полицейский"
     },
-    "examples": [],
-    "meta": {},
     "plural": "policemen"
   },
   {
     "id": "en_3449",
+    "lang": "en",
     "lemma": "greek",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28159,12 +26225,11 @@ const WORDS_EN_A2 = [
       "zh": "希腊人",
       "ru": "грек"
     },
-    "examples": [],
-    "meta": {},
     "plural": "greeks"
   },
   {
     "id": "en_3450",
+    "lang": "en",
     "lemma": "greek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28184,12 +26249,11 @@ const WORDS_EN_A2 = [
       "ja": "ギリシャの",
       "zh": "希腊的",
       "ru": "греческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3452",
+    "lang": "en",
     "lemma": "underwear",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28210,12 +26274,11 @@ const WORDS_EN_A2 = [
       "zh": "内衣",
       "ru": "нижнее белье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3453",
+    "lang": "en",
     "lemma": "reveal",
     "pos": "Verb",
     "cefr": "A2",
@@ -28234,15 +26297,11 @@ const WORDS_EN_A2 = [
       "ja": "明かす",
       "zh": "揭露",
       "ru": "раскрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reveal",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3455",
+    "lang": "en",
     "lemma": "personality",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28263,12 +26322,11 @@ const WORDS_EN_A2 = [
       "zh": "性格",
       "ru": "личность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "personalities"
   },
   {
     "id": "en_3456",
+    "lang": "en",
     "lemma": "wives",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28289,12 +26347,11 @@ const WORDS_EN_A2 = [
       "zh": "妻子",
       "ru": "жена"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wives"
   },
   {
     "id": "en_3457",
+    "lang": "en",
     "lemma": "colour",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28315,12 +26372,11 @@ const WORDS_EN_A2 = [
       "zh": "颜色",
       "ru": "цвет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "colours"
   },
   {
     "id": "en_3458",
+    "lang": "en",
     "lemma": "colour",
     "pos": "Verb",
     "cefr": "A2",
@@ -28340,15 +26396,11 @@ const WORDS_EN_A2 = [
       "ja": "色を塗る",
       "zh": "着色",
       "ru": "раскрашивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "colour",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3459",
+    "lang": "en",
     "lemma": "worker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28369,12 +26421,11 @@ const WORDS_EN_A2 = [
       "zh": "工人",
       "ru": "рабочий"
     },
-    "examples": [],
-    "meta": {},
     "plural": "workers"
   },
   {
     "id": "en_3462",
+    "lang": "en",
     "lemma": "intelligent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28394,12 +26445,11 @@ const WORDS_EN_A2 = [
       "ja": "知的な",
       "zh": "聪明的",
       "ru": "умный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3463",
+    "lang": "en",
     "lemma": "worrying",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28419,12 +26469,11 @@ const WORDS_EN_A2 = [
       "ja": "心配な",
       "zh": "令人担忧的",
       "ru": "тревожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3465",
+    "lang": "en",
     "lemma": "impact",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28445,12 +26494,11 @@ const WORDS_EN_A2 = [
       "zh": "影响",
       "ru": "воздействие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "impacts"
   },
   {
     "id": "en_3466",
+    "lang": "en",
     "lemma": "impact",
     "pos": "Verb",
     "cefr": "A2",
@@ -28470,15 +26518,11 @@ const WORDS_EN_A2 = [
       "ja": "影響を与える",
       "zh": "影响",
       "ru": "воздействовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "impact",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3467",
+    "lang": "en",
     "lemma": "relief",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28499,12 +26543,11 @@ const WORDS_EN_A2 = [
       "zh": "安慰",
       "ru": "облегчение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reliefs"
   },
   {
     "id": "en_3468",
+    "lang": "en",
     "lemma": "host",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28525,12 +26568,11 @@ const WORDS_EN_A2 = [
       "zh": "主人",
       "ru": "хозяин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hosts"
   },
   {
     "id": "en_3469",
+    "lang": "en",
     "lemma": "host",
     "pos": "Verb",
     "cefr": "A2",
@@ -28550,15 +26592,11 @@ const WORDS_EN_A2 = [
       "ja": "主催する",
       "zh": "举办",
       "ru": "организовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "host",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3470",
+    "lang": "en",
     "lemma": "footage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28578,12 +26616,11 @@ const WORDS_EN_A2 = [
       "zh": "镜头",
       "ru": "кадры"
     },
-    "examples": [],
-    "meta": {},
     "plural": "footages"
   },
   {
     "id": "en_3471",
+    "lang": "en",
     "lemma": "odds",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28603,12 +26640,11 @@ const WORDS_EN_A2 = [
       "zh": "几率",
       "ru": "шансы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "odds"
   },
   {
     "id": "en_3472",
+    "lang": "en",
     "lemma": "patrol",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28628,12 +26664,11 @@ const WORDS_EN_A2 = [
       "zh": "巡逻",
       "ru": "патруль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "patrols"
   },
   {
     "id": "en_3473",
+    "lang": "en",
     "lemma": "patrol",
     "pos": "Verb",
     "cefr": "A2",
@@ -28652,15 +26687,11 @@ const WORDS_EN_A2 = [
       "ja": "巡回する",
       "zh": "巡逻",
       "ru": "патрулировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "patrol",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3474",
+    "lang": "en",
     "lemma": "circus",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28681,12 +26712,11 @@ const WORDS_EN_A2 = [
       "zh": "马戏团",
       "ru": "цирк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "circuses"
   },
   {
     "id": "en_3475",
+    "lang": "en",
     "lemma": "mud",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28707,12 +26737,11 @@ const WORDS_EN_A2 = [
       "zh": "泥土",
       "ru": "грязь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3477",
+    "lang": "en",
     "lemma": "occasion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28732,12 +26761,11 @@ const WORDS_EN_A2 = [
       "zh": "场合",
       "ru": "случай"
     },
-    "examples": [],
-    "meta": {},
     "plural": "occasions"
   },
   {
     "id": "en_3478",
+    "lang": "en",
     "lemma": "occasion",
     "pos": "Verb",
     "cefr": "A2",
@@ -28756,15 +26784,11 @@ const WORDS_EN_A2 = [
       "ja": "引き起こす",
       "zh": "引起",
       "ru": "вызывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "occasion",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3479",
+    "lang": "en",
     "lemma": "sets",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28785,12 +26809,11 @@ const WORDS_EN_A2 = [
       "zh": "套",
       "ru": "наборы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sets"
   },
   {
     "id": "en_3480",
+    "lang": "en",
     "lemma": "pulse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28810,12 +26833,11 @@ const WORDS_EN_A2 = [
       "zh": "脉搏",
       "ru": "пульс"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pulses"
   },
   {
     "id": "en_3481",
+    "lang": "en",
     "lemma": "pulse",
     "pos": "Verb",
     "cefr": "A2",
@@ -28834,15 +26856,11 @@ const WORDS_EN_A2 = [
       "ja": "鼓動する",
       "zh": "跳动",
       "ru": "пульсировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pulse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3482",
+    "lang": "en",
     "lemma": "ad",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28863,12 +26881,11 @@ const WORDS_EN_A2 = [
       "zh": "广告",
       "ru": "объявление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ads"
   },
   {
     "id": "en_3483",
+    "lang": "en",
     "lemma": "invented",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28887,12 +26904,11 @@ const WORDS_EN_A2 = [
       "ja": "作られた",
       "zh": "虚构的",
       "ru": "выдуманный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3485",
+    "lang": "en",
     "lemma": "auntie",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28913,12 +26929,11 @@ const WORDS_EN_A2 = [
       "zh": "阿姨",
       "ru": "тётя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aunties"
   },
   {
     "id": "en_3486",
+    "lang": "en",
     "lemma": "cloud",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28939,12 +26954,11 @@ const WORDS_EN_A2 = [
       "zh": "云",
       "ru": "облако"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clouds"
   },
   {
     "id": "en_3487",
+    "lang": "en",
     "lemma": "cloud",
     "pos": "Verb",
     "cefr": "A2",
@@ -28963,15 +26977,11 @@ const WORDS_EN_A2 = [
       "ja": "曇らせる",
       "zh": "使模糊",
       "ru": "затемнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cloud",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3490",
+    "lang": "en",
     "lemma": "signature",
     "pos": "Nomen",
     "cefr": "A2",
@@ -28991,12 +27001,11 @@ const WORDS_EN_A2 = [
       "zh": "签名",
       "ru": "подпись"
     },
-    "examples": [],
-    "meta": {},
     "plural": "signatures"
   },
   {
     "id": "en_3491",
+    "lang": "en",
     "lemma": "signature",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29015,12 +27024,11 @@ const WORDS_EN_A2 = [
       "ja": "特徴的な",
       "zh": "标志性的",
       "ru": "характерный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3492",
+    "lang": "en",
     "lemma": "complain",
     "pos": "Verb",
     "cefr": "A2",
@@ -29039,15 +27047,11 @@ const WORDS_EN_A2 = [
       "ja": "不平を言う",
       "zh": "抱怨",
       "ru": "жаловаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "complain",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3494",
+    "lang": "en",
     "lemma": "blah",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29067,12 +27071,11 @@ const WORDS_EN_A2 = [
       "ja": "退屈な",
       "zh": "乏味的",
       "ru": "скучный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3495",
+    "lang": "en",
     "lemma": "monitor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29093,12 +27096,11 @@ const WORDS_EN_A2 = [
       "zh": "显示器",
       "ru": "монитор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "monitors"
   },
   {
     "id": "en_3496",
+    "lang": "en",
     "lemma": "monitor",
     "pos": "Verb",
     "cefr": "A2",
@@ -29117,15 +27119,11 @@ const WORDS_EN_A2 = [
       "ja": "監視する",
       "zh": "监视",
       "ru": "контролировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "monitor",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3500",
+    "lang": "en",
     "lemma": "pat",
     "pos": "Verb",
     "cefr": "A2",
@@ -29145,15 +27143,11 @@ const WORDS_EN_A2 = [
       "ja": "軽く叩く",
       "zh": "轻拍",
       "ru": "похлопать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3501",
+    "lang": "en",
     "lemma": "pat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29174,12 +27168,11 @@ const WORDS_EN_A2 = [
       "zh": "轻拍",
       "ru": "похлопывание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pats"
   },
   {
     "id": "en_3503",
+    "lang": "en",
     "lemma": "yell",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29200,12 +27193,11 @@ const WORDS_EN_A2 = [
       "zh": "叫声",
       "ru": "крик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "yells"
   },
   {
     "id": "en_3504",
+    "lang": "en",
     "lemma": "yell",
     "pos": "Verb",
     "cefr": "A2",
@@ -29225,15 +27217,11 @@ const WORDS_EN_A2 = [
       "ja": "叫ぶ",
       "zh": "大喊",
       "ru": "кричать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "yell",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3506",
+    "lang": "en",
     "lemma": "smooth",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29253,12 +27241,11 @@ const WORDS_EN_A2 = [
       "ja": "滑らかな",
       "zh": "光滑的",
       "ru": "гладкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3507",
+    "lang": "en",
     "lemma": "resist",
     "pos": "Verb",
     "cefr": "A2",
@@ -29277,15 +27264,11 @@ const WORDS_EN_A2 = [
       "ja": "抵抗する",
       "zh": "抵抗",
       "ru": "сопротивляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "resist",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3509",
+    "lang": "en",
     "lemma": "fantasy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29305,12 +27288,11 @@ const WORDS_EN_A2 = [
       "zh": "幻想",
       "ru": "фантазия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fantasies"
   },
   {
     "id": "en_3511",
+    "lang": "en",
     "lemma": "passport",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29331,12 +27313,11 @@ const WORDS_EN_A2 = [
       "zh": "护照",
       "ru": "паспорт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "passports"
   },
   {
     "id": "en_3512",
+    "lang": "en",
     "lemma": "pitch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29357,12 +27338,11 @@ const WORDS_EN_A2 = [
       "zh": "投掷",
       "ru": "бросок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pitches"
   },
   {
     "id": "en_3513",
+    "lang": "en",
     "lemma": "pitch",
     "pos": "Verb",
     "cefr": "A2",
@@ -29382,15 +27362,11 @@ const WORDS_EN_A2 = [
       "ja": "投げる",
       "zh": "投掷",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pitch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3514",
+    "lang": "en",
     "lemma": "hammer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29411,12 +27387,11 @@ const WORDS_EN_A2 = [
       "zh": "锤子",
       "ru": "молоток"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hammers"
   },
   {
     "id": "en_3517",
+    "lang": "en",
     "lemma": "noon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29437,12 +27412,11 @@ const WORDS_EN_A2 = [
       "zh": "中午",
       "ru": "полдень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "noons"
   },
   {
     "id": "en_3518",
+    "lang": "en",
     "lemma": "helicopter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29463,12 +27437,11 @@ const WORDS_EN_A2 = [
       "zh": "直升机",
       "ru": "вертолет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "helicopters"
   },
   {
     "id": "en_3520",
+    "lang": "en",
     "lemma": "spin",
     "pos": "Verb",
     "cefr": "A2",
@@ -29488,15 +27461,11 @@ const WORDS_EN_A2 = [
       "ja": "回転する",
       "zh": "旋转",
       "ru": "вращаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3521",
+    "lang": "en",
     "lemma": "spin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29517,12 +27486,11 @@ const WORDS_EN_A2 = [
       "zh": "旋转",
       "ru": "вращение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spins"
   },
   {
     "id": "en_3523",
+    "lang": "en",
     "lemma": "charm",
     "pos": "Verb",
     "cefr": "A2",
@@ -29541,15 +27509,11 @@ const WORDS_EN_A2 = [
       "ja": "魅了する",
       "zh": "迷住",
       "ru": "очаровывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "charm",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3524",
+    "lang": "en",
     "lemma": "slap",
     "pos": "Verb",
     "cefr": "A2",
@@ -29569,15 +27533,11 @@ const WORDS_EN_A2 = [
       "ja": "叩く",
       "zh": "打耳光",
       "ru": "ударить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3525",
+    "lang": "en",
     "lemma": "apply",
     "pos": "Verb",
     "cefr": "A2",
@@ -29597,15 +27557,11 @@ const WORDS_EN_A2 = [
       "ja": "適用する",
       "zh": "应用",
       "ru": "применять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "apply",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3527",
+    "lang": "en",
     "lemma": "discover",
     "pos": "Verb",
     "cefr": "A2",
@@ -29624,15 +27580,11 @@ const WORDS_EN_A2 = [
       "ja": "発見する",
       "zh": "发现",
       "ru": "открывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "discover",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3528",
+    "lang": "en",
     "lemma": "previous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29651,12 +27603,11 @@ const WORDS_EN_A2 = [
       "ja": "前の",
       "zh": "以前的",
       "ru": "предыдущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3529",
+    "lang": "en",
     "lemma": "kit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29677,12 +27628,11 @@ const WORDS_EN_A2 = [
       "zh": "工具包",
       "ru": "набор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "kits"
   },
   {
     "id": "en_3530",
+    "lang": "en",
     "lemma": "authorities",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29702,12 +27652,11 @@ const WORDS_EN_A2 = [
       "zh": "当局",
       "ru": "органы власти"
     },
-    "examples": [],
-    "meta": {},
     "plural": "authorities"
   },
   {
     "id": "en_3531",
+    "lang": "en",
     "lemma": "photograph",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29728,12 +27677,11 @@ const WORDS_EN_A2 = [
       "zh": "照片",
       "ru": "фотография"
     },
-    "examples": [],
-    "meta": {},
     "plural": "photographs"
   },
   {
     "id": "en_3532",
+    "lang": "en",
     "lemma": "photograph",
     "pos": "Verb",
     "cefr": "A2",
@@ -29753,17 +27701,13 @@ const WORDS_EN_A2 = [
       "ja": "写真を撮る",
       "zh": "拍照",
       "ru": "фотографировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "photograph",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3534",
+    "lang": "en",
     "lemma": "fifty",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29780,15 +27724,13 @@ const WORDS_EN_A2 = [
       "ja": "50",
       "zh": "五十",
       "ru": "пятьдесят"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "fifties"
+    }
   },
   {
     "id": "en_3536",
+    "lang": "en",
     "lemma": "farewell",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29807,12 +27749,11 @@ const WORDS_EN_A2 = [
       "zh": "告别",
       "ru": "прощание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "farewells"
   },
   {
     "id": "en_3538",
+    "lang": "en",
     "lemma": "represent",
     "pos": "Verb",
     "cefr": "A2",
@@ -29831,15 +27772,11 @@ const WORDS_EN_A2 = [
       "ja": "代表する",
       "zh": "代表",
       "ru": "представлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "represent",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3539",
+    "lang": "en",
     "lemma": "deaf",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29859,12 +27796,11 @@ const WORDS_EN_A2 = [
       "ja": "聾の",
       "zh": "聋的",
       "ru": "глухой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3540",
+    "lang": "en",
     "lemma": "offense",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29884,12 +27820,11 @@ const WORDS_EN_A2 = [
       "zh": "犯罪",
       "ru": "преступление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "offenses"
   },
   {
     "id": "en_3541",
+    "lang": "en",
     "lemma": "citizen",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29909,12 +27844,11 @@ const WORDS_EN_A2 = [
       "zh": "公民",
       "ru": "гражданин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "citizens"
   },
   {
     "id": "en_3542",
+    "lang": "en",
     "lemma": "clown",
     "pos": "Nomen",
     "cefr": "A2",
@@ -29935,12 +27869,11 @@ const WORDS_EN_A2 = [
       "zh": "小丑",
       "ru": "клоун"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clowns"
   },
   {
     "id": "en_3543",
+    "lang": "en",
     "lemma": "clown",
     "pos": "Verb",
     "cefr": "A2",
@@ -29959,15 +27892,11 @@ const WORDS_EN_A2 = [
       "ja": "ふざける",
       "zh": "开玩笑",
       "ru": "валять дурака"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "clown",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3544",
+    "lang": "en",
     "lemma": "snap",
     "pos": "Verb",
     "cefr": "A2",
@@ -29987,15 +27916,11 @@ const WORDS_EN_A2 = [
       "ja": "折る",
       "zh": "折断",
       "ru": "сломать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "snap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3545",
+    "lang": "en",
     "lemma": "hood",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30016,14 +27941,13 @@ const WORDS_EN_A2 = [
       "zh": "兜帽",
       "ru": "капюшон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hoods"
   },
   {
     "id": "en_3546",
+    "lang": "en",
     "lemma": "twelve",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30040,15 +27964,13 @@ const WORDS_EN_A2 = [
       "ja": "12",
       "zh": "十二",
       "ru": "двенадцать"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "twelves"
+    }
   },
   {
     "id": "en_3548",
+    "lang": "en",
     "lemma": "humanity",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30066,12 +27988,11 @@ const WORDS_EN_A2 = [
       "zh": "人类",
       "ru": "человечество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "humanities"
   },
   {
     "id": "en_3549",
+    "lang": "en",
     "lemma": "producer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30091,12 +28012,11 @@ const WORDS_EN_A2 = [
       "zh": "生产者",
       "ru": "производитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "producers"
   },
   {
     "id": "en_3551",
+    "lang": "en",
     "lemma": "extreme",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30115,12 +28035,11 @@ const WORDS_EN_A2 = [
       "ja": "極端な",
       "zh": "极端的",
       "ru": "экстремальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3552",
+    "lang": "en",
     "lemma": "extreme",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30140,12 +28059,11 @@ const WORDS_EN_A2 = [
       "zh": "极端",
       "ru": "крайность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "extremes"
   },
   {
     "id": "en_3553",
+    "lang": "en",
     "lemma": "profile",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30165,12 +28083,11 @@ const WORDS_EN_A2 = [
       "zh": "简介",
       "ru": "профиль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "profiles"
   },
   {
     "id": "en_3555",
+    "lang": "en",
     "lemma": "oxygen",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30190,12 +28107,11 @@ const WORDS_EN_A2 = [
       "zh": "氧气",
       "ru": "кислород"
     },
-    "examples": [],
-    "meta": {},
     "plural": "oxygens"
   },
   {
     "id": "en_3557",
+    "lang": "en",
     "lemma": "shed",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30216,12 +28132,11 @@ const WORDS_EN_A2 = [
       "zh": "棚屋",
       "ru": "сарай"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sheds"
   },
   {
     "id": "en_3558",
+    "lang": "en",
     "lemma": "minor",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30240,12 +28155,11 @@ const WORDS_EN_A2 = [
       "ja": "軽微な",
       "zh": "轻微的",
       "ru": "незначительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3561",
+    "lang": "en",
     "lemma": "ex",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30266,12 +28180,11 @@ const WORDS_EN_A2 = [
       "zh": "前任",
       "ru": "бывший"
     },
-    "examples": [],
-    "meta": {},
     "plural": "exes"
   },
   {
     "id": "en_3563",
+    "lang": "en",
     "lemma": "theatre",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30292,12 +28205,11 @@ const WORDS_EN_A2 = [
       "zh": "剧院",
       "ru": "театр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "theatres"
   },
   {
     "id": "en_3564",
+    "lang": "en",
     "lemma": "scientific",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30316,12 +28228,11 @@ const WORDS_EN_A2 = [
       "ja": "科学的な",
       "zh": "科学的",
       "ru": "научный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3567",
+    "lang": "en",
     "lemma": "rocket",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30342,12 +28253,11 @@ const WORDS_EN_A2 = [
       "zh": "火箭",
       "ru": "ракета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rockets"
   },
   {
     "id": "en_3569",
+    "lang": "en",
     "lemma": "math",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30367,12 +28277,11 @@ const WORDS_EN_A2 = [
       "zh": "数学",
       "ru": "математика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "maths"
   },
   {
     "id": "en_3570",
+    "lang": "en",
     "lemma": "stubborn",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30392,12 +28301,11 @@ const WORDS_EN_A2 = [
       "ja": "頑固な",
       "zh": "固执的",
       "ru": "упрямый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3572",
+    "lang": "en",
     "lemma": "intense",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30416,12 +28324,11 @@ const WORDS_EN_A2 = [
       "ja": "激しい",
       "zh": "强烈的",
       "ru": "интенсивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3573",
+    "lang": "en",
     "lemma": "grey",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30442,12 +28349,11 @@ const WORDS_EN_A2 = [
       "zh": "灰色",
       "ru": "серый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "greys"
   },
   {
     "id": "en_3574",
+    "lang": "en",
     "lemma": "grey",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30467,12 +28373,11 @@ const WORDS_EN_A2 = [
       "ja": "灰色の",
       "zh": "灰色的",
       "ru": "серый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3575",
+    "lang": "en",
     "lemma": "grey",
     "pos": "Verb",
     "cefr": "A2",
@@ -30492,15 +28397,11 @@ const WORDS_EN_A2 = [
       "ja": "灰色になる",
       "zh": "变灰",
       "ru": "седеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grey",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3576",
+    "lang": "en",
     "lemma": "terrorist",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30520,12 +28421,11 @@ const WORDS_EN_A2 = [
       "zh": "恐怖分子",
       "ru": "террорист"
     },
-    "examples": [],
-    "meta": {},
     "plural": "terrorists"
   },
   {
     "id": "en_3577",
+    "lang": "en",
     "lemma": "angle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30545,12 +28445,11 @@ const WORDS_EN_A2 = [
       "zh": "角度",
       "ru": "угол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "angles"
   },
   {
     "id": "en_3579",
+    "lang": "en",
     "lemma": "invitation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30571,12 +28470,11 @@ const WORDS_EN_A2 = [
       "zh": "邀请",
       "ru": "приглашение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "invitations"
   },
   {
     "id": "en_3580",
+    "lang": "en",
     "lemma": "respond",
     "pos": "Verb",
     "cefr": "A2",
@@ -30595,15 +28493,11 @@ const WORDS_EN_A2 = [
       "ja": "応答する",
       "zh": "回应",
       "ru": "отвечать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "respond",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3581",
+    "lang": "en",
     "lemma": "thirty",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30623,12 +28517,11 @@ const WORDS_EN_A2 = [
       "zh": "30",
       "ru": "тридцать"
     },
-    "examples": [],
-    "meta": {},
     "plural": "thirties"
   },
   {
     "id": "en_3582",
+    "lang": "en",
     "lemma": "procedure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30648,12 +28541,11 @@ const WORDS_EN_A2 = [
       "zh": "程序",
       "ru": "процедура"
     },
-    "examples": [],
-    "meta": {},
     "plural": "procedures"
   },
   {
     "id": "en_3584",
+    "lang": "en",
     "lemma": "absolute",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30672,12 +28564,11 @@ const WORDS_EN_A2 = [
       "ja": "絶対的な",
       "zh": "绝对的",
       "ru": "абсолютный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3585",
+    "lang": "en",
     "lemma": "investigate",
     "pos": "Verb",
     "cefr": "A2",
@@ -30696,15 +28587,11 @@ const WORDS_EN_A2 = [
       "ja": "調査する",
       "zh": "调查",
       "ru": "расследовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "investigate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3586",
+    "lang": "en",
     "lemma": "tragedy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30724,12 +28611,11 @@ const WORDS_EN_A2 = [
       "zh": "悲剧",
       "ru": "трагедия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tragedies"
   },
   {
     "id": "en_3587",
+    "lang": "en",
     "lemma": "stable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30748,12 +28634,11 @@ const WORDS_EN_A2 = [
       "ja": "安定した",
       "zh": "稳定的",
       "ru": "стабильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3588",
+    "lang": "en",
     "lemma": "stable",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30774,12 +28659,11 @@ const WORDS_EN_A2 = [
       "zh": "马厩",
       "ru": "конюшня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stables"
   },
   {
     "id": "en_3589",
+    "lang": "en",
     "lemma": "session",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30799,12 +28683,11 @@ const WORDS_EN_A2 = [
       "zh": "会议",
       "ru": "сеанс"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sessions"
   },
   {
     "id": "en_3590",
+    "lang": "en",
     "lemma": "capture",
     "pos": "Verb",
     "cefr": "A2",
@@ -30823,15 +28706,11 @@ const WORDS_EN_A2 = [
       "ja": "捕らえる",
       "zh": "捕获",
       "ru": "захватить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "capture",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3591",
+    "lang": "en",
     "lemma": "capture",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30851,12 +28730,11 @@ const WORDS_EN_A2 = [
       "zh": "捕获",
       "ru": "захват"
     },
-    "examples": [],
-    "meta": {},
     "plural": "captures"
   },
   {
     "id": "en_3593",
+    "lang": "en",
     "lemma": "stretch",
     "pos": "Verb",
     "cefr": "A2",
@@ -30876,15 +28754,11 @@ const WORDS_EN_A2 = [
       "ja": "伸ばす",
       "zh": "拉伸",
       "ru": "растягивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stretch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3594",
+    "lang": "en",
     "lemma": "stretch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30905,12 +28779,11 @@ const WORDS_EN_A2 = [
       "zh": "伸展",
       "ru": "растяжка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stretches"
   },
   {
     "id": "en_3595",
+    "lang": "en",
     "lemma": "bush",
     "pos": "Nomen",
     "cefr": "A2",
@@ -30931,12 +28804,11 @@ const WORDS_EN_A2 = [
       "zh": "灌木",
       "ru": "куст"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bushes"
   },
   {
     "id": "en_3597",
+    "lang": "en",
     "lemma": "unable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30955,12 +28827,11 @@ const WORDS_EN_A2 = [
       "ja": "できない",
       "zh": "无法",
       "ru": "неспособный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3600",
+    "lang": "en",
     "lemma": "increase",
     "pos": "Verb",
     "cefr": "A2",
@@ -30979,15 +28850,11 @@ const WORDS_EN_A2 = [
       "ja": "増える",
       "zh": "增加",
       "ru": "увеличиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "increase",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3601",
+    "lang": "en",
     "lemma": "increase",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31007,12 +28874,11 @@ const WORDS_EN_A2 = [
       "zh": "增长",
       "ru": "увеличение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "increases"
   },
   {
     "id": "en_3604",
+    "lang": "en",
     "lemma": "highest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31031,12 +28897,11 @@ const WORDS_EN_A2 = [
       "ja": "最も高い",
       "zh": "最高的",
       "ru": "самый высокий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3607",
+    "lang": "en",
     "lemma": "chop",
     "pos": "Verb",
     "cefr": "A2",
@@ -31056,15 +28921,11 @@ const WORDS_EN_A2 = [
       "ja": "切る",
       "zh": "砍",
       "ru": "рубить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chop",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3608",
+    "lang": "en",
     "lemma": "chop",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31084,12 +28945,11 @@ const WORDS_EN_A2 = [
       "zh": "砍的动作",
       "ru": "удар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chops"
   },
   {
     "id": "en_3610",
+    "lang": "en",
     "lemma": "shocked",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31109,12 +28969,11 @@ const WORDS_EN_A2 = [
       "ja": "驚いた",
       "zh": "震惊的",
       "ru": "потрясённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3613",
+    "lang": "en",
     "lemma": "commercial",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31133,12 +28992,11 @@ const WORDS_EN_A2 = [
       "ja": "商業的な",
       "zh": "商业的",
       "ru": "коммерческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3614",
+    "lang": "en",
     "lemma": "commercial",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31158,12 +29016,11 @@ const WORDS_EN_A2 = [
       "zh": "广告",
       "ru": "реклама"
     },
-    "examples": [],
-    "meta": {},
     "plural": "commercials"
   },
   {
     "id": "en_3615",
+    "lang": "en",
     "lemma": "escort",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31183,12 +29040,11 @@ const WORDS_EN_A2 = [
       "zh": "护卫",
       "ru": "эскорт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "escorts"
   },
   {
     "id": "en_3616",
+    "lang": "en",
     "lemma": "escort",
     "pos": "Verb",
     "cefr": "A2",
@@ -31207,15 +29063,11 @@ const WORDS_EN_A2 = [
       "ja": "護衛する",
       "zh": "护送",
       "ru": "сопровождать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "escort",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3617",
+    "lang": "en",
     "lemma": "engagement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31235,12 +29087,11 @@ const WORDS_EN_A2 = [
       "zh": "约定",
       "ru": "обязательство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "engagements"
   },
   {
     "id": "en_3618",
+    "lang": "en",
     "lemma": "corpse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31260,12 +29111,11 @@ const WORDS_EN_A2 = [
       "zh": "尸体",
       "ru": "труп"
     },
-    "examples": [],
-    "meta": {},
     "plural": "corpses"
   },
   {
     "id": "en_3619",
+    "lang": "en",
     "lemma": "worthy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31284,12 +29134,11 @@ const WORDS_EN_A2 = [
       "ja": "価値のある",
       "zh": "值得的",
       "ru": "достойный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3620",
+    "lang": "en",
     "lemma": "scale",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31309,12 +29158,11 @@ const WORDS_EN_A2 = [
       "zh": "规模",
       "ru": "масштаб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scales"
   },
   {
     "id": "en_3621",
+    "lang": "en",
     "lemma": "scale",
     "pos": "Verb",
     "cefr": "A2",
@@ -31333,15 +29181,11 @@ const WORDS_EN_A2 = [
       "ja": "登る",
       "zh": "攀登",
       "ru": "взбираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scale",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3623",
+    "lang": "en",
     "lemma": "threatening",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31360,12 +29204,11 @@ const WORDS_EN_A2 = [
       "ja": "脅迫的な",
       "zh": "威胁的",
       "ru": "угрожающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3624",
+    "lang": "en",
     "lemma": "academy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31385,12 +29228,11 @@ const WORDS_EN_A2 = [
       "zh": "学院",
       "ru": "академия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "academies"
   },
   {
     "id": "en_3626",
+    "lang": "en",
     "lemma": "hop",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31411,12 +29253,11 @@ const WORDS_EN_A2 = [
       "zh": "小跳跃",
       "ru": "прыжок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hops"
   },
   {
     "id": "en_3627",
+    "lang": "en",
     "lemma": "hop",
     "pos": "Verb",
     "cefr": "A2",
@@ -31436,15 +29277,11 @@ const WORDS_EN_A2 = [
       "ja": "跳ねる",
       "zh": "跳跃",
       "ru": "прыгать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hop",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3629",
+    "lang": "en",
     "lemma": "furniture",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31465,12 +29302,11 @@ const WORDS_EN_A2 = [
       "zh": "家具",
       "ru": "мебель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "furnitures"
   },
   {
     "id": "en_3631",
+    "lang": "en",
     "lemma": "engineer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31491,12 +29327,11 @@ const WORDS_EN_A2 = [
       "zh": "工程师",
       "ru": "инженер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "engineers"
   },
   {
     "id": "en_3632",
+    "lang": "en",
     "lemma": "engineer",
     "pos": "Verb",
     "cefr": "A2",
@@ -31516,15 +29351,11 @@ const WORDS_EN_A2 = [
       "ja": "設計する",
       "zh": "设计",
       "ru": "конструировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "engineer",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3635",
+    "lang": "en",
     "lemma": "shark",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31545,12 +29376,11 @@ const WORDS_EN_A2 = [
       "zh": "鲨鱼",
       "ru": "акула"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sharks"
   },
   {
     "id": "en_3636",
+    "lang": "en",
     "lemma": "transport",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31571,12 +29401,11 @@ const WORDS_EN_A2 = [
       "zh": "运输",
       "ru": "транспорт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "transports"
   },
   {
     "id": "en_3637",
+    "lang": "en",
     "lemma": "transport",
     "pos": "Verb",
     "cefr": "A2",
@@ -31596,15 +29425,11 @@ const WORDS_EN_A2 = [
       "ja": "運ぶ",
       "zh": "运输",
       "ru": "перевозить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "transport",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3638",
+    "lang": "en",
     "lemma": "population",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31624,12 +29449,11 @@ const WORDS_EN_A2 = [
       "zh": "人口",
       "ru": "население"
     },
-    "examples": [],
-    "meta": {},
     "plural": "populations"
   },
   {
     "id": "en_3639",
+    "lang": "en",
     "lemma": "creepy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31649,12 +29473,11 @@ const WORDS_EN_A2 = [
       "ja": "気味悪い",
       "zh": "令人毛骨悚然的",
       "ru": "жуткий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3640",
+    "lang": "en",
     "lemma": "sneak",
     "pos": "Verb",
     "cefr": "A2",
@@ -31674,15 +29497,11 @@ const WORDS_EN_A2 = [
       "ja": "こっそり行く",
       "zh": "偷偷溜走",
       "ru": "красться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sneak",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3641",
+    "lang": "en",
     "lemma": "studies",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31702,12 +29521,11 @@ const WORDS_EN_A2 = [
       "zh": "学习",
       "ru": "учеба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "studies"
   },
   {
     "id": "en_3642",
+    "lang": "en",
     "lemma": "destruction",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31727,12 +29545,11 @@ const WORDS_EN_A2 = [
       "zh": "破坏",
       "ru": "разрушение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "destructions"
   },
   {
     "id": "en_3643",
+    "lang": "en",
     "lemma": "protected",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31751,12 +29568,11 @@ const WORDS_EN_A2 = [
       "ja": "保護された",
       "zh": "受保护的",
       "ru": "защищённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3645",
+    "lang": "en",
     "lemma": "lightning",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31777,12 +29593,11 @@ const WORDS_EN_A2 = [
       "zh": "闪电",
       "ru": "молния"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3646",
+    "lang": "en",
     "lemma": "shell",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31803,12 +29618,11 @@ const WORDS_EN_A2 = [
       "zh": "贝壳",
       "ru": "раковина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shells"
   },
   {
     "id": "en_3648",
+    "lang": "en",
     "lemma": "chamber",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31829,12 +29643,11 @@ const WORDS_EN_A2 = [
       "zh": "房间",
       "ru": "палата"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chambers"
   },
   {
     "id": "en_3651",
+    "lang": "en",
     "lemma": "romance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31855,12 +29668,11 @@ const WORDS_EN_A2 = [
       "zh": "浪漫",
       "ru": "романтика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "romances"
   },
   {
     "id": "en_3652",
+    "lang": "en",
     "lemma": "instance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31880,12 +29692,11 @@ const WORDS_EN_A2 = [
       "zh": "例子",
       "ru": "пример"
     },
-    "examples": [],
-    "meta": {},
     "plural": "instances"
   },
   {
     "id": "en_3654",
+    "lang": "en",
     "lemma": "exhausted",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31905,12 +29716,11 @@ const WORDS_EN_A2 = [
       "ja": "疲れ果てた",
       "zh": "筋疲力尽的",
       "ru": "истощённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3655",
+    "lang": "en",
     "lemma": "testify",
     "pos": "Verb",
     "cefr": "A2",
@@ -31929,15 +29739,11 @@ const WORDS_EN_A2 = [
       "ja": "証言する",
       "zh": "作证",
       "ru": "свидетельствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "testify",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3656",
+    "lang": "en",
     "lemma": "walker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31958,12 +29764,11 @@ const WORDS_EN_A2 = [
       "zh": "行人",
       "ru": "пешеход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "walkers"
   },
   {
     "id": "en_3657",
+    "lang": "en",
     "lemma": "pin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -31984,12 +29789,11 @@ const WORDS_EN_A2 = [
       "zh": "针",
       "ru": "булавка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pins"
   },
   {
     "id": "en_3658",
+    "lang": "en",
     "lemma": "pin",
     "pos": "Verb",
     "cefr": "A2",
@@ -32009,15 +29813,11 @@ const WORDS_EN_A2 = [
       "ja": "留める",
       "zh": "固定",
       "ru": "прикалывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3659",
+    "lang": "en",
     "lemma": "drill",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32038,12 +29838,11 @@ const WORDS_EN_A2 = [
       "zh": "钻头",
       "ru": "дрель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "drills"
   },
   {
     "id": "en_3660",
+    "lang": "en",
     "lemma": "drill",
     "pos": "Verb",
     "cefr": "A2",
@@ -32063,15 +29862,11 @@ const WORDS_EN_A2 = [
       "ja": "穴を開ける",
       "zh": "钻孔",
       "ru": "сверлить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drill",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3661",
+    "lang": "en",
     "lemma": "experienced",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32090,12 +29885,11 @@ const WORDS_EN_A2 = [
       "ja": "経験豊富な",
       "zh": "有经验的",
       "ru": "опытный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3662",
+    "lang": "en",
     "lemma": "necklace",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32116,12 +29910,11 @@ const WORDS_EN_A2 = [
       "zh": "项链",
       "ru": "ожерелье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "necklaces"
   },
   {
     "id": "en_3663",
+    "lang": "en",
     "lemma": "loyalty",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32141,12 +29934,11 @@ const WORDS_EN_A2 = [
       "zh": "忠诚",
       "ru": "верность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "loyalties"
   },
   {
     "id": "en_3664",
+    "lang": "en",
     "lemma": "junk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32167,12 +29959,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "junks"
   },
   {
     "id": "en_3666",
+    "lang": "en",
     "lemma": "southern",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32192,12 +29983,11 @@ const WORDS_EN_A2 = [
       "ja": "南の",
       "zh": "南方的",
       "ru": "южный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3669",
+    "lang": "en",
     "lemma": "liver",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32217,12 +30007,11 @@ const WORDS_EN_A2 = [
       "zh": "肝脏",
       "ru": "печень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "livers"
   },
   {
     "id": "en_3670",
+    "lang": "en",
     "lemma": "serving",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32243,12 +30032,11 @@ const WORDS_EN_A2 = [
       "zh": "一份",
       "ru": "порция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "servings"
   },
   {
     "id": "en_3672",
+    "lang": "en",
     "lemma": "surgeon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32268,12 +30056,11 @@ const WORDS_EN_A2 = [
       "zh": "外科医生",
       "ru": "хирург"
     },
-    "examples": [],
-    "meta": {},
     "plural": "surgeons"
   },
   {
     "id": "en_3674",
+    "lang": "en",
     "lemma": "jazz",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32294,12 +30081,11 @@ const WORDS_EN_A2 = [
       "zh": "爵士乐",
       "ru": "джаз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3677",
+    "lang": "en",
     "lemma": "typical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32318,12 +30104,11 @@ const WORDS_EN_A2 = [
       "ja": "典型的な",
       "zh": "典型的",
       "ru": "типичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3678",
+    "lang": "en",
     "lemma": "obey",
     "pos": "Verb",
     "cefr": "A2",
@@ -32342,15 +30127,11 @@ const WORDS_EN_A2 = [
       "ja": "従う",
       "zh": "服从",
       "ru": "повиноваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "obey",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3679",
+    "lang": "en",
     "lemma": "dancer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32371,12 +30152,11 @@ const WORDS_EN_A2 = [
       "zh": "舞者",
       "ru": "танцор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dancers"
   },
   {
     "id": "en_3680",
+    "lang": "en",
     "lemma": "remote",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32395,12 +30175,11 @@ const WORDS_EN_A2 = [
       "ja": "遠い",
       "zh": "遥远的",
       "ru": "удаленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3681",
+    "lang": "en",
     "lemma": "remote",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32421,12 +30200,11 @@ const WORDS_EN_A2 = [
       "zh": "遥控器",
       "ru": "пульт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "remotes"
   },
   {
     "id": "en_3687",
+    "lang": "en",
     "lemma": "strategy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32446,12 +30224,11 @@ const WORDS_EN_A2 = [
       "zh": "策略",
       "ru": "стратегия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strategies"
   },
   {
     "id": "en_3688",
+    "lang": "en",
     "lemma": "parent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32471,12 +30248,11 @@ const WORDS_EN_A2 = [
       "zh": "父母",
       "ru": "родитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "parents"
   },
   {
     "id": "en_3689",
+    "lang": "en",
     "lemma": "parent",
     "pos": "Verb",
     "cefr": "A2",
@@ -32495,15 +30271,11 @@ const WORDS_EN_A2 = [
       "ja": "子育てする",
       "zh": "养育",
       "ru": "воспитывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "parent",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3690",
+    "lang": "en",
     "lemma": "album",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32524,12 +30296,11 @@ const WORDS_EN_A2 = [
       "zh": "专辑",
       "ru": "альбом"
     },
-    "examples": [],
-    "meta": {},
     "plural": "albums"
   },
   {
     "id": "en_3691",
+    "lang": "en",
     "lemma": "rubbish",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32550,12 +30321,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3692",
+    "lang": "en",
     "lemma": "rubbish",
     "pos": "Verb",
     "cefr": "A2",
@@ -32574,15 +30344,11 @@ const WORDS_EN_A2 = [
       "ja": "批判する",
       "zh": "批评",
       "ru": "критиковать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rubbish",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3693",
+    "lang": "en",
     "lemma": "helpful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32602,12 +30368,11 @@ const WORDS_EN_A2 = [
       "ja": "役に立つ",
       "zh": "有帮助的",
       "ru": "полезный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3694",
+    "lang": "en",
     "lemma": "powder",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32628,12 +30393,11 @@ const WORDS_EN_A2 = [
       "zh": "粉末",
       "ru": "порошок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "powders"
   },
   {
     "id": "en_3695",
+    "lang": "en",
     "lemma": "powder",
     "pos": "Verb",
     "cefr": "A2",
@@ -32652,15 +30416,11 @@ const WORDS_EN_A2 = [
       "ja": "粉にする",
       "zh": "磨成粉",
       "ru": "измельчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "powder",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3696",
+    "lang": "en",
     "lemma": "sync",
     "pos": "Verb",
     "cefr": "A2",
@@ -32680,15 +30440,11 @@ const WORDS_EN_A2 = [
       "ja": "同期する",
       "zh": "同步",
       "ru": "синхронизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sync",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3699",
+    "lang": "en",
     "lemma": "fort",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32708,12 +30464,11 @@ const WORDS_EN_A2 = [
       "zh": "堡垒",
       "ru": "форт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "forts"
   },
   {
     "id": "en_3701",
+    "lang": "en",
     "lemma": "alley",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32734,12 +30489,11 @@ const WORDS_EN_A2 = [
       "zh": "小巷",
       "ru": "переулок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "alleys"
   },
   {
     "id": "en_3702",
+    "lang": "en",
     "lemma": "supper",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32760,12 +30514,11 @@ const WORDS_EN_A2 = [
       "zh": "晚餐",
       "ru": "ужин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "suppers"
   },
   {
     "id": "en_3703",
+    "lang": "en",
     "lemma": "penis",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32785,12 +30538,11 @@ const WORDS_EN_A2 = [
       "zh": "阴茎",
       "ru": "пенис"
     },
-    "examples": [],
-    "meta": {},
     "plural": "penises or penes"
   },
   {
     "id": "en_3704",
+    "lang": "en",
     "lemma": "pole",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32811,12 +30563,11 @@ const WORDS_EN_A2 = [
       "zh": "杆",
       "ru": "столб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "poles"
   },
   {
     "id": "en_3706",
+    "lang": "en",
     "lemma": "scientist",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32836,12 +30587,11 @@ const WORDS_EN_A2 = [
       "zh": "科学家",
       "ru": "учёный"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scientists"
   },
   {
     "id": "en_3707",
+    "lang": "en",
     "lemma": "fighter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32862,12 +30612,11 @@ const WORDS_EN_A2 = [
       "zh": "战士",
       "ru": "боец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fighters"
   },
   {
     "id": "en_3708",
+    "lang": "en",
     "lemma": "highway",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32888,12 +30637,11 @@ const WORDS_EN_A2 = [
       "zh": "高速公路",
       "ru": "шоссе"
     },
-    "examples": [],
-    "meta": {},
     "plural": "highways"
   },
   {
     "id": "en_3709",
+    "lang": "en",
     "lemma": "blade",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32914,12 +30662,11 @@ const WORDS_EN_A2 = [
       "zh": "刀片",
       "ru": "лезвие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "blades"
   },
   {
     "id": "en_3711",
+    "lang": "en",
     "lemma": "diet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32940,12 +30687,11 @@ const WORDS_EN_A2 = [
       "zh": "饮食",
       "ru": "диета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "diets"
   },
   {
     "id": "en_3712",
+    "lang": "en",
     "lemma": "diet",
     "pos": "Verb",
     "cefr": "A2",
@@ -32965,15 +30711,11 @@ const WORDS_EN_A2 = [
       "ja": "ダイエットする",
       "zh": "节食",
       "ru": "сидеть на диете"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "diet",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3715",
+    "lang": "en",
     "lemma": "jet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -32993,12 +30735,11 @@ const WORDS_EN_A2 = [
       "zh": "喷流",
       "ru": "струя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jets"
   },
   {
     "id": "en_3716",
+    "lang": "en",
     "lemma": "jet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33018,12 +30759,11 @@ const WORDS_EN_A2 = [
       "ja": "漆黒の",
       "zh": "乌黑的",
       "ru": "чёрный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3718",
+    "lang": "en",
     "lemma": "widow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33043,12 +30783,11 @@ const WORDS_EN_A2 = [
       "zh": "寡妇",
       "ru": "вдова"
     },
-    "examples": [],
-    "meta": {},
     "plural": "widows"
   },
   {
     "id": "en_3719",
+    "lang": "en",
     "lemma": "liberty",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33068,12 +30807,11 @@ const WORDS_EN_A2 = [
       "zh": "自由",
       "ru": "свобода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "liberties"
   },
   {
     "id": "en_3720",
+    "lang": "en",
     "lemma": "moral",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33092,12 +30830,11 @@ const WORDS_EN_A2 = [
       "ja": "道徳的な",
       "zh": "道德的",
       "ru": "моральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3721",
+    "lang": "en",
     "lemma": "moral",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33117,12 +30854,11 @@ const WORDS_EN_A2 = [
       "zh": "道德",
       "ru": "мораль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "morals"
   },
   {
     "id": "en_3722",
+    "lang": "en",
     "lemma": "award",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33142,12 +30878,11 @@ const WORDS_EN_A2 = [
       "zh": "奖",
       "ru": "награда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "awards"
   },
   {
     "id": "en_3723",
+    "lang": "en",
     "lemma": "award",
     "pos": "Verb",
     "cefr": "A2",
@@ -33166,15 +30901,11 @@ const WORDS_EN_A2 = [
       "ja": "授与する",
       "zh": "颁奖",
       "ru": "присуждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "award",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3724",
+    "lang": "en",
     "lemma": "grief",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33194,12 +30925,11 @@ const WORDS_EN_A2 = [
       "zh": "悲伤",
       "ru": "горе"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3725",
+    "lang": "en",
     "lemma": "thirsty",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33219,12 +30949,11 @@ const WORDS_EN_A2 = [
       "ja": "喉が渇いた",
       "zh": "口渴的",
       "ru": "жаждущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3726",
+    "lang": "en",
     "lemma": "random",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33243,12 +30972,11 @@ const WORDS_EN_A2 = [
       "ja": "ランダムな",
       "zh": "随机的",
       "ru": "случайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3728",
+    "lang": "en",
     "lemma": "intention",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33268,12 +30996,11 @@ const WORDS_EN_A2 = [
       "zh": "意图",
       "ru": "намерение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "intentions"
   },
   {
     "id": "en_3729",
+    "lang": "en",
     "lemma": "active",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33292,12 +31019,11 @@ const WORDS_EN_A2 = [
       "ja": "活動的な",
       "zh": "活跃的",
       "ru": "активный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3731",
+    "lang": "en",
     "lemma": "trauma",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33317,12 +31043,11 @@ const WORDS_EN_A2 = [
       "zh": "创伤",
       "ru": "травма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "traumas"
   },
   {
     "id": "en_3732",
+    "lang": "en",
     "lemma": "headache",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33343,12 +31068,11 @@ const WORDS_EN_A2 = [
       "zh": "头痛",
       "ru": "головная боль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "headaches"
   },
   {
     "id": "en_3733",
+    "lang": "en",
     "lemma": "knee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33369,12 +31093,11 @@ const WORDS_EN_A2 = [
       "zh": "膝盖",
       "ru": "колено"
     },
-    "examples": [],
-    "meta": {},
     "plural": "knees"
   },
   {
     "id": "en_3734",
+    "lang": "en",
     "lemma": "knee",
     "pos": "Verb",
     "cefr": "A2",
@@ -33393,15 +31116,11 @@ const WORDS_EN_A2 = [
       "ja": "膝で打つ",
       "zh": "用膝盖击打",
       "ru": "ударить коленом"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "knee",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3736",
+    "lang": "en",
     "lemma": "novel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33420,12 +31139,11 @@ const WORDS_EN_A2 = [
       "ja": "新しい",
       "zh": "新颖的",
       "ru": "новый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3737",
+    "lang": "en",
     "lemma": "novel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33445,12 +31163,11 @@ const WORDS_EN_A2 = [
       "zh": "小说",
       "ru": "роман"
     },
-    "examples": [],
-    "meta": {},
     "plural": "novels"
   },
   {
     "id": "en_3740",
+    "lang": "en",
     "lemma": "invisible",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33469,12 +31186,11 @@ const WORDS_EN_A2 = [
       "ja": "見えない",
       "zh": "看不见的",
       "ru": "невидимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3741",
+    "lang": "en",
     "lemma": "internal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33493,12 +31209,11 @@ const WORDS_EN_A2 = [
       "ja": "内部の",
       "zh": "内部的",
       "ru": "внутренний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3742",
+    "lang": "en",
     "lemma": "peaceful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33517,12 +31232,11 @@ const WORDS_EN_A2 = [
       "ja": "平和な",
       "zh": "和平的",
       "ru": "мирный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3744",
+    "lang": "en",
     "lemma": "talented",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33541,12 +31255,11 @@ const WORDS_EN_A2 = [
       "ja": "才能のある",
       "zh": "有才华的",
       "ru": "талантливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3745",
+    "lang": "en",
     "lemma": "aid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33566,12 +31279,11 @@ const WORDS_EN_A2 = [
       "zh": "援助",
       "ru": "помощь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aids"
   },
   {
     "id": "en_3746",
+    "lang": "en",
     "lemma": "aid",
     "pos": "Verb",
     "cefr": "A2",
@@ -33590,15 +31302,11 @@ const WORDS_EN_A2 = [
       "ja": "助ける",
       "zh": "帮助",
       "ru": "помогать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aid",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3747",
+    "lang": "en",
     "lemma": "elephant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33619,12 +31327,11 @@ const WORDS_EN_A2 = [
       "zh": "大象",
       "ru": "слон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "elephants"
   },
   {
     "id": "en_3749",
+    "lang": "en",
     "lemma": "core",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33644,12 +31351,11 @@ const WORDS_EN_A2 = [
       "zh": "核心",
       "ru": "ядро"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cores"
   },
   {
     "id": "en_3750",
+    "lang": "en",
     "lemma": "core",
     "pos": "Verb",
     "cefr": "A2",
@@ -33668,15 +31374,11 @@ const WORDS_EN_A2 = [
       "ja": "芯を取る",
       "zh": "去核",
       "ru": "удалять сердцевину"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "core",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3751",
+    "lang": "en",
     "lemma": "serial",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33696,12 +31398,11 @@ const WORDS_EN_A2 = [
       "zh": "连续剧",
       "ru": "сериал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "serials"
   },
   {
     "id": "en_3752",
+    "lang": "en",
     "lemma": "serial",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33720,12 +31421,11 @@ const WORDS_EN_A2 = [
       "ja": "連続的な",
       "zh": "连续的",
       "ru": "последовательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3753",
+    "lang": "en",
     "lemma": "divine",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33744,12 +31444,11 @@ const WORDS_EN_A2 = [
       "ja": "神聖な",
       "zh": "神圣的",
       "ru": "божественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3754",
+    "lang": "en",
     "lemma": "jam",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33770,12 +31469,11 @@ const WORDS_EN_A2 = [
       "zh": "果酱",
       "ru": "варенье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jams"
   },
   {
     "id": "en_3755",
+    "lang": "en",
     "lemma": "jam",
     "pos": "Verb",
     "cefr": "A2",
@@ -33795,15 +31493,11 @@ const WORDS_EN_A2 = [
       "ja": "詰まらせる",
       "zh": "卡住",
       "ru": "заклинивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "jam",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3756",
+    "lang": "en",
     "lemma": "goat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33824,12 +31518,11 @@ const WORDS_EN_A2 = [
       "zh": "山羊",
       "ru": "коза"
     },
-    "examples": [],
-    "meta": {},
     "plural": "goats"
   },
   {
     "id": "en_3757",
+    "lang": "en",
     "lemma": "opera",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33849,12 +31542,11 @@ const WORDS_EN_A2 = [
       "zh": "歌剧",
       "ru": "опера"
     },
-    "examples": [],
-    "meta": {},
     "plural": "operas"
   },
   {
     "id": "en_3759",
+    "lang": "en",
     "lemma": "objection",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33874,12 +31566,11 @@ const WORDS_EN_A2 = [
       "zh": "反对",
       "ru": "возражение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "objections"
   },
   {
     "id": "en_3760",
+    "lang": "en",
     "lemma": "whiskey",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33900,12 +31591,11 @@ const WORDS_EN_A2 = [
       "zh": "威士忌",
       "ru": "виски"
     },
-    "examples": [],
-    "meta": {},
     "plural": "whiskeys or whiskies"
   },
   {
     "id": "en_3761",
+    "lang": "en",
     "lemma": "resistance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33925,12 +31615,11 @@ const WORDS_EN_A2 = [
       "zh": "抵抗",
       "ru": "сопротивление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "resistances"
   },
   {
     "id": "en_3764",
+    "lang": "en",
     "lemma": "brief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33950,12 +31639,11 @@ const WORDS_EN_A2 = [
       "ja": "短い",
       "zh": "简短的",
       "ru": "краткий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3765",
+    "lang": "en",
     "lemma": "brief",
     "pos": "Nomen",
     "cefr": "A2",
@@ -33975,12 +31663,11 @@ const WORDS_EN_A2 = [
       "zh": "摘要",
       "ru": "краткое изложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "briefs"
   },
   {
     "id": "en_3766",
+    "lang": "en",
     "lemma": "brief",
     "pos": "Verb",
     "cefr": "A2",
@@ -33999,15 +31686,11 @@ const WORDS_EN_A2 = [
       "ja": "報告する",
       "zh": "通知",
       "ru": "информировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "brief",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3767",
+    "lang": "en",
     "lemma": "punish",
     "pos": "Verb",
     "cefr": "A2",
@@ -34026,15 +31709,11 @@ const WORDS_EN_A2 = [
       "ja": "罰する",
       "zh": "惩罚",
       "ru": "наказывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "punish",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3768",
+    "lang": "en",
     "lemma": "eternal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34053,12 +31732,11 @@ const WORDS_EN_A2 = [
       "ja": "永遠の",
       "zh": "永恒的",
       "ru": "вечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3769",
+    "lang": "en",
     "lemma": "fabulous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34078,12 +31756,11 @@ const WORDS_EN_A2 = [
       "ja": "素晴らしい",
       "zh": "极好的",
       "ru": "сказочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3772",
+    "lang": "en",
     "lemma": "cooked",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34103,12 +31780,11 @@ const WORDS_EN_A2 = [
       "ja": "調理された",
       "zh": "煮过的",
       "ru": "вареный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3775",
+    "lang": "en",
     "lemma": "tend",
     "pos": "Verb",
     "cefr": "A2",
@@ -34127,15 +31803,11 @@ const WORDS_EN_A2 = [
       "ja": "傾向がある",
       "zh": "倾向于",
       "ru": "иметь тенденцию"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3776",
+    "lang": "en",
     "lemma": "tap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34156,12 +31828,11 @@ const WORDS_EN_A2 = [
       "zh": "水龙头",
       "ru": "кран"
     },
-    "examples": [],
-    "meta": {},
     "plural": "taps"
   },
   {
     "id": "en_3777",
+    "lang": "en",
     "lemma": "tap",
     "pos": "Verb",
     "cefr": "A2",
@@ -34181,15 +31852,11 @@ const WORDS_EN_A2 = [
       "ja": "叩く",
       "zh": "轻敲",
       "ru": "постукивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3778",
+    "lang": "en",
     "lemma": "soap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34210,12 +31877,11 @@ const WORDS_EN_A2 = [
       "zh": "肥皂",
       "ru": "мыло"
     },
-    "examples": [],
-    "meta": {},
     "plural": "soaps"
   },
   {
     "id": "en_3779",
+    "lang": "en",
     "lemma": "soap",
     "pos": "Verb",
     "cefr": "A2",
@@ -34234,15 +31900,11 @@ const WORDS_EN_A2 = [
       "ja": "石鹸をつける",
       "zh": "涂肥皂",
       "ru": "намыливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "soap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3780",
+    "lang": "en",
     "lemma": "locker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34263,12 +31925,11 @@ const WORDS_EN_A2 = [
       "zh": "储物柜",
       "ru": "шкафчик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lockers"
   },
   {
     "id": "en_3781",
+    "lang": "en",
     "lemma": "development",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34288,12 +31949,11 @@ const WORDS_EN_A2 = [
       "zh": "发展",
       "ru": "развитие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "developments"
   },
   {
     "id": "en_3783",
+    "lang": "en",
     "lemma": "prick",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34313,12 +31973,11 @@ const WORDS_EN_A2 = [
       "zh": "刺痛",
       "ru": "укол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pricks"
   },
   {
     "id": "en_3784",
+    "lang": "en",
     "lemma": "prick",
     "pos": "Verb",
     "cefr": "A2",
@@ -34337,15 +31996,11 @@ const WORDS_EN_A2 = [
       "ja": "刺す",
       "zh": "刺",
       "ru": "колоть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prick",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3785",
+    "lang": "en",
     "lemma": "global",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34365,12 +32020,11 @@ const WORDS_EN_A2 = [
       "ja": "世界的な",
       "zh": "全球的",
       "ru": "глобальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3786",
+    "lang": "en",
     "lemma": "string",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34391,12 +32045,11 @@ const WORDS_EN_A2 = [
       "zh": "绳子",
       "ru": "веревка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strings"
   },
   {
     "id": "en_3787",
+    "lang": "en",
     "lemma": "bitter",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34416,12 +32069,11 @@ const WORDS_EN_A2 = [
       "ja": "苦い",
       "zh": "苦的",
       "ru": "горький"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3789",
+    "lang": "en",
     "lemma": "corn",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34442,12 +32094,11 @@ const WORDS_EN_A2 = [
       "zh": "玉米",
       "ru": "кукуруза"
     },
-    "examples": [],
-    "meta": {},
     "plural": "corns"
   },
   {
     "id": "en_3791",
+    "lang": "en",
     "lemma": "tent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34468,12 +32119,11 @@ const WORDS_EN_A2 = [
       "zh": "帐篷",
       "ru": "палатка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tents"
   },
   {
     "id": "en_3795",
+    "lang": "en",
     "lemma": "propose",
     "pos": "Verb",
     "cefr": "A2",
@@ -34492,15 +32142,11 @@ const WORDS_EN_A2 = [
       "ja": "提案する",
       "zh": "提议",
       "ru": "предлагать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "propose",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3796",
+    "lang": "en",
     "lemma": "granny",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34521,12 +32167,11 @@ const WORDS_EN_A2 = [
       "zh": "奶奶",
       "ru": "бабушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grannies"
   },
   {
     "id": "en_3798",
+    "lang": "en",
     "lemma": "abuse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34546,12 +32191,11 @@ const WORDS_EN_A2 = [
       "zh": "虐待",
       "ru": "жестокое обращение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "abuses"
   },
   {
     "id": "en_3799",
+    "lang": "en",
     "lemma": "abuse",
     "pos": "Verb",
     "cefr": "A2",
@@ -34570,15 +32214,11 @@ const WORDS_EN_A2 = [
       "ja": "虐待する",
       "zh": "虐待",
       "ru": "жестоко обращаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abuse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3801",
+    "lang": "en",
     "lemma": "survival",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34598,12 +32238,11 @@ const WORDS_EN_A2 = [
       "zh": "生存",
       "ru": "выживание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "survivals"
   },
   {
     "id": "en_3803",
+    "lang": "en",
     "lemma": "bend",
     "pos": "Verb",
     "cefr": "A2",
@@ -34623,15 +32262,11 @@ const WORDS_EN_A2 = [
       "ja": "曲げる",
       "zh": "弯曲",
       "ru": "сгибать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3804",
+    "lang": "en",
     "lemma": "bend",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34652,12 +32287,11 @@ const WORDS_EN_A2 = [
       "zh": "弯曲",
       "ru": "изгиб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bends"
   },
   {
     "id": "en_3805",
+    "lang": "en",
     "lemma": "review",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34677,12 +32311,11 @@ const WORDS_EN_A2 = [
       "zh": "评价",
       "ru": "рецензия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reviews"
   },
   {
     "id": "en_3806",
+    "lang": "en",
     "lemma": "review",
     "pos": "Verb",
     "cefr": "A2",
@@ -34701,15 +32334,11 @@ const WORDS_EN_A2 = [
       "ja": "検討する",
       "zh": "审查",
       "ru": "проверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "review",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3807",
+    "lang": "en",
     "lemma": "connect",
     "pos": "Verb",
     "cefr": "A2",
@@ -34729,15 +32358,11 @@ const WORDS_EN_A2 = [
       "ja": "つなぐ",
       "zh": "连接",
       "ru": "соединять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "connect",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3808",
+    "lang": "en",
     "lemma": "elder",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34757,12 +32382,11 @@ const WORDS_EN_A2 = [
       "ja": "年上の",
       "zh": "年长的",
       "ru": "старший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3809",
+    "lang": "en",
     "lemma": "elder",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34783,12 +32407,11 @@ const WORDS_EN_A2 = [
       "zh": "长者",
       "ru": "старший"
     },
-    "examples": [],
-    "meta": {},
     "plural": "elders"
   },
   {
     "id": "en_3810",
+    "lang": "en",
     "lemma": "beard",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34809,12 +32432,11 @@ const WORDS_EN_A2 = [
       "zh": "胡须",
       "ru": "борода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beards"
   },
   {
     "id": "en_3812",
+    "lang": "en",
     "lemma": "salary",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34834,12 +32456,11 @@ const WORDS_EN_A2 = [
       "zh": "薪水",
       "ru": "зарплата"
     },
-    "examples": [],
-    "meta": {},
     "plural": "salaries"
   },
   {
     "id": "en_3814",
+    "lang": "en",
     "lemma": "disturb",
     "pos": "Verb",
     "cefr": "A2",
@@ -34859,15 +32480,11 @@ const WORDS_EN_A2 = [
       "ja": "邪魔する",
       "zh": "打扰",
       "ru": "беспокоить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "disturb",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3815",
+    "lang": "en",
     "lemma": "pro",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34888,12 +32505,11 @@ const WORDS_EN_A2 = [
       "zh": "专家",
       "ru": "профессионал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pros"
   },
   {
     "id": "en_3816",
+    "lang": "en",
     "lemma": "maintain",
     "pos": "Verb",
     "cefr": "A2",
@@ -34913,15 +32529,11 @@ const WORDS_EN_A2 = [
       "ja": "維持する",
       "zh": "维持",
       "ru": "поддерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "maintain",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3819",
+    "lang": "en",
     "lemma": "possession",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34941,12 +32553,11 @@ const WORDS_EN_A2 = [
       "zh": "财产",
       "ru": "имущество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "possessions"
   },
   {
     "id": "en_3823",
+    "lang": "en",
     "lemma": "upper",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34966,12 +32577,11 @@ const WORDS_EN_A2 = [
       "ja": "上部の",
       "zh": "上面的",
       "ru": "верхний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3826",
+    "lang": "en",
     "lemma": "tale",
     "pos": "Nomen",
     "cefr": "A2",
@@ -34992,12 +32602,11 @@ const WORDS_EN_A2 = [
       "zh": "故事",
       "ru": "сказка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tales"
   },
   {
     "id": "en_3827",
+    "lang": "en",
     "lemma": "profit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35017,12 +32626,11 @@ const WORDS_EN_A2 = [
       "zh": "利润",
       "ru": "прибыль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "profits"
   },
   {
     "id": "en_3828",
+    "lang": "en",
     "lemma": "profit",
     "pos": "Verb",
     "cefr": "A2",
@@ -35041,15 +32649,11 @@ const WORDS_EN_A2 = [
       "ja": "利益を得る",
       "zh": "获利",
       "ru": "получать прибыль"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "profit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3829",
+    "lang": "en",
     "lemma": "colleague",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35070,12 +32674,11 @@ const WORDS_EN_A2 = [
       "zh": "同事",
       "ru": "коллега"
     },
-    "examples": [],
-    "meta": {},
     "plural": "colleagues"
   },
   {
     "id": "en_3830",
+    "lang": "en",
     "lemma": "warehouse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35095,12 +32698,11 @@ const WORDS_EN_A2 = [
       "zh": "仓库",
       "ru": "склад"
     },
-    "examples": [],
-    "meta": {},
     "plural": "warehouses"
   },
   {
     "id": "en_3831",
+    "lang": "en",
     "lemma": "hostage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35120,12 +32722,11 @@ const WORDS_EN_A2 = [
       "zh": "人质",
       "ru": "заложник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hostages"
   },
   {
     "id": "en_3832",
+    "lang": "en",
     "lemma": "shore",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35146,12 +32747,11 @@ const WORDS_EN_A2 = [
       "zh": "海岸",
       "ru": "берег"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shores"
   },
   {
     "id": "en_3833",
+    "lang": "en",
     "lemma": "shore",
     "pos": "Verb",
     "cefr": "A2",
@@ -35170,17 +32770,13 @@ const WORDS_EN_A2 = [
       "ja": "支える",
       "zh": "支撑",
       "ru": "подпирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shore",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3835",
+    "lang": "en",
     "lemma": "fifteen",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35197,15 +32793,13 @@ const WORDS_EN_A2 = [
       "ja": "15",
       "zh": "十五",
       "ru": "пятнадцать"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "fifteens"
+    }
   },
   {
     "id": "en_3837",
+    "lang": "en",
     "lemma": "net",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35224,12 +32818,11 @@ const WORDS_EN_A2 = [
       "zh": "网",
       "ru": "сеть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nets"
   },
   {
     "id": "en_3838",
+    "lang": "en",
     "lemma": "net",
     "pos": "Verb",
     "cefr": "A2",
@@ -35248,15 +32841,11 @@ const WORDS_EN_A2 = [
       "ja": "網で捕える",
       "zh": "用网捕捉",
       "ru": "ловить сетью"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "net",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3839",
+    "lang": "en",
     "lemma": "net",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35275,12 +32864,11 @@ const WORDS_EN_A2 = [
       "ja": "純利益の",
       "zh": "净的",
       "ru": "чистый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3840",
+    "lang": "en",
     "lemma": "insult",
     "pos": "Verb",
     "cefr": "A2",
@@ -35299,15 +32887,11 @@ const WORDS_EN_A2 = [
       "ja": "侮辱する",
       "zh": "侮辱",
       "ru": "оскорблять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "insult",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3841",
+    "lang": "en",
     "lemma": "insult",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35327,12 +32911,11 @@ const WORDS_EN_A2 = [
       "zh": "侮辱",
       "ru": "оскорбление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "insults"
   },
   {
     "id": "en_3843",
+    "lang": "en",
     "lemma": "lemon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35353,12 +32936,11 @@ const WORDS_EN_A2 = [
       "zh": "柠檬",
       "ru": "лимон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lemons"
   },
   {
     "id": "en_3844",
+    "lang": "en",
     "lemma": "heal",
     "pos": "Verb",
     "cefr": "A2",
@@ -35377,15 +32959,11 @@ const WORDS_EN_A2 = [
       "ja": "治る",
       "zh": "痊愈",
       "ru": "исцеляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "heal",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3846",
+    "lang": "en",
     "lemma": "honeymoon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35406,12 +32984,11 @@ const WORDS_EN_A2 = [
       "zh": "蜜月",
       "ru": "медовый месяц"
     },
-    "examples": [],
-    "meta": {},
     "plural": "honeymoons"
   },
   {
     "id": "en_3847",
+    "lang": "en",
     "lemma": "honeymoon",
     "pos": "Verb",
     "cefr": "A2",
@@ -35431,15 +33008,11 @@ const WORDS_EN_A2 = [
       "ja": "新婚旅行に行く",
       "zh": "度蜜月",
       "ru": "ехать в медовый месяц"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "honeymoon",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3848",
+    "lang": "en",
     "lemma": "appeal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35459,12 +33032,11 @@ const WORDS_EN_A2 = [
       "zh": "呼吁",
       "ru": "призыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "appeals"
   },
   {
     "id": "en_3849",
+    "lang": "en",
     "lemma": "appeal",
     "pos": "Verb",
     "cefr": "A2",
@@ -35483,15 +33055,11 @@ const WORDS_EN_A2 = [
       "ja": "訴える",
       "zh": "呼吁",
       "ru": "призывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "appeal",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3851",
+    "lang": "en",
     "lemma": "critical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35510,12 +33078,11 @@ const WORDS_EN_A2 = [
       "ja": "批判的な",
       "zh": "批判的",
       "ru": "критический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3852",
+    "lang": "en",
     "lemma": "crane",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35536,12 +33103,11 @@ const WORDS_EN_A2 = [
       "zh": "鹤",
       "ru": "журавль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cranes"
   },
   {
     "id": "en_3853",
+    "lang": "en",
     "lemma": "crane",
     "pos": "Verb",
     "cefr": "A2",
@@ -35560,15 +33126,11 @@ const WORDS_EN_A2 = [
       "ja": "首を伸ばす",
       "zh": "伸长脖子",
       "ru": "вытягивать шею"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "crane",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3854",
+    "lang": "en",
     "lemma": "enormous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35588,12 +33150,11 @@ const WORDS_EN_A2 = [
       "ja": "巨大な",
       "zh": "巨大的",
       "ru": "огромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3855",
+    "lang": "en",
     "lemma": "testimony",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35613,12 +33174,11 @@ const WORDS_EN_A2 = [
       "zh": "证词",
       "ru": "показание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "testimonies"
   },
   {
     "id": "en_3856",
+    "lang": "en",
     "lemma": "praise",
     "pos": "Verb",
     "cefr": "A2",
@@ -35638,15 +33198,11 @@ const WORDS_EN_A2 = [
       "ja": "褒める",
       "zh": "赞美",
       "ru": "хвалить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "praise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3857",
+    "lang": "en",
     "lemma": "praise",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35667,12 +33223,11 @@ const WORDS_EN_A2 = [
       "zh": "赞美",
       "ru": "похвала"
     },
-    "examples": [],
-    "meta": {},
     "plural": "praises"
   },
   {
     "id": "en_3860",
+    "lang": "en",
     "lemma": "commission",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35692,12 +33247,11 @@ const WORDS_EN_A2 = [
       "zh": "委员会",
       "ru": "комиссия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "commissions"
   },
   {
     "id": "en_3861",
+    "lang": "en",
     "lemma": "commission",
     "pos": "Verb",
     "cefr": "A2",
@@ -35716,15 +33270,11 @@ const WORDS_EN_A2 = [
       "ja": "委託する",
       "zh": "委托",
       "ru": "поручать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "commission",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3864",
+    "lang": "en",
     "lemma": "fraud",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35744,12 +33294,11 @@ const WORDS_EN_A2 = [
       "zh": "欺诈",
       "ru": "мошенничество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "frauds"
   },
   {
     "id": "en_3865",
+    "lang": "en",
     "lemma": "branch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35770,12 +33319,11 @@ const WORDS_EN_A2 = [
       "zh": "树枝",
       "ru": "ветка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "branches"
   },
   {
     "id": "en_3867",
+    "lang": "en",
     "lemma": "bout",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35795,12 +33343,11 @@ const WORDS_EN_A2 = [
       "zh": "发作",
       "ru": "приступ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bouts"
   },
   {
     "id": "en_3870",
+    "lang": "en",
     "lemma": "raw",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35820,12 +33367,11 @@ const WORDS_EN_A2 = [
       "ja": "生の",
       "zh": "生的",
       "ru": "сырой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3871",
+    "lang": "en",
     "lemma": "muscle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35846,12 +33392,11 @@ const WORDS_EN_A2 = [
       "zh": "肌肉",
       "ru": "мышца"
     },
-    "examples": [],
-    "meta": {},
     "plural": "muscles"
   },
   {
     "id": "en_3872",
+    "lang": "en",
     "lemma": "muscle",
     "pos": "Verb",
     "cefr": "A2",
@@ -35870,15 +33415,11 @@ const WORDS_EN_A2 = [
       "ja": "力ずくで進む",
       "zh": "强行推进",
       "ru": "пробиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "muscle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3874",
+    "lang": "en",
     "lemma": "tense",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35898,12 +33439,11 @@ const WORDS_EN_A2 = [
       "ja": "張り詰めた",
       "zh": "紧张的",
       "ru": "напряженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3875",
+    "lang": "en",
     "lemma": "tense",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35923,12 +33463,11 @@ const WORDS_EN_A2 = [
       "zh": "时态",
       "ru": "время"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tenses"
   },
   {
     "id": "en_3876",
+    "lang": "en",
     "lemma": "tense",
     "pos": "Verb",
     "cefr": "A2",
@@ -35948,15 +33487,11 @@ const WORDS_EN_A2 = [
       "ja": "張り詰める",
       "zh": "绷紧",
       "ru": "напрягать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tense",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3878",
+    "lang": "en",
     "lemma": "management",
     "pos": "Nomen",
     "cefr": "A2",
@@ -35976,12 +33511,11 @@ const WORDS_EN_A2 = [
       "zh": "管理",
       "ru": "управление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "managements"
   },
   {
     "id": "en_3879",
+    "lang": "en",
     "lemma": "assignment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36001,12 +33535,11 @@ const WORDS_EN_A2 = [
       "zh": "任务",
       "ru": "задание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "assignments"
   },
   {
     "id": "en_3881",
+    "lang": "en",
     "lemma": "blonde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36026,12 +33559,11 @@ const WORDS_EN_A2 = [
       "ja": "金髪の",
       "zh": "金色的",
       "ru": "белокурый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3882",
+    "lang": "en",
     "lemma": "comedy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36051,12 +33583,11 @@ const WORDS_EN_A2 = [
       "zh": "喜剧",
       "ru": "комедия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "comedies"
   },
   {
     "id": "en_3883",
+    "lang": "en",
     "lemma": "stroke",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36076,12 +33607,11 @@ const WORDS_EN_A2 = [
       "zh": "中风",
       "ru": "инсульт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strokes"
   },
   {
     "id": "en_3884",
+    "lang": "en",
     "lemma": "stroke",
     "pos": "Verb",
     "cefr": "A2",
@@ -36101,15 +33631,11 @@ const WORDS_EN_A2 = [
       "ja": "撫でる",
       "zh": "抚摸",
       "ru": "гладить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stroke",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3886",
+    "lang": "en",
     "lemma": "facility",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36129,12 +33655,11 @@ const WORDS_EN_A2 = [
       "zh": "设施",
       "ru": "учреждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "facilities"
   },
   {
     "id": "en_3887",
+    "lang": "en",
     "lemma": "appropriate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36153,12 +33678,11 @@ const WORDS_EN_A2 = [
       "ja": "適切な",
       "zh": "恰当的",
       "ru": "надлежащий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3889",
+    "lang": "en",
     "lemma": "remarkable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36177,12 +33701,11 @@ const WORDS_EN_A2 = [
       "ja": "注目すべき",
       "zh": "值得注意的",
       "ru": "примечательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3891",
+    "lang": "en",
     "lemma": "symbol",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36202,12 +33725,11 @@ const WORDS_EN_A2 = [
       "zh": "符号",
       "ru": "символ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "symbols"
   },
   {
     "id": "en_3892",
+    "lang": "en",
     "lemma": "motor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36228,12 +33750,11 @@ const WORDS_EN_A2 = [
       "zh": "马达",
       "ru": "мотор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "motors"
   },
   {
     "id": "en_3893",
+    "lang": "en",
     "lemma": "motor",
     "pos": "Verb",
     "cefr": "A2",
@@ -36253,15 +33774,11 @@ const WORDS_EN_A2 = [
       "ja": "車で移動する",
       "zh": "驾车旅行",
       "ru": "ездить на автомобиле"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "motor",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3895",
+    "lang": "en",
     "lemma": "ambassador",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36281,12 +33798,11 @@ const WORDS_EN_A2 = [
       "zh": "大使",
       "ru": "посол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ambassadors"
   },
   {
     "id": "en_3897",
+    "lang": "en",
     "lemma": "pile",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36307,12 +33823,11 @@ const WORDS_EN_A2 = [
       "zh": "堆",
       "ru": "куча"
     },
-    "examples": [],
-    "meta": {},
     "plural": "piles"
   },
   {
     "id": "en_3898",
+    "lang": "en",
     "lemma": "pile",
     "pos": "Verb",
     "cefr": "A2",
@@ -36332,15 +33847,11 @@ const WORDS_EN_A2 = [
       "ja": "積む",
       "zh": "堆积",
       "ru": "складывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pile",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3899",
+    "lang": "en",
     "lemma": "soda",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36361,12 +33872,11 @@ const WORDS_EN_A2 = [
       "zh": "苏打",
       "ru": "сода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sodas"
   },
   {
     "id": "en_3906",
+    "lang": "en",
     "lemma": "magnificent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36385,12 +33895,11 @@ const WORDS_EN_A2 = [
       "ja": "壮大な",
       "zh": "宏伟的",
       "ru": "великолепный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3907",
+    "lang": "en",
     "lemma": "steak",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36411,12 +33920,11 @@ const WORDS_EN_A2 = [
       "zh": "牛排",
       "ru": "стейк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "steaks"
   },
   {
     "id": "en_3908",
+    "lang": "en",
     "lemma": "tube",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36437,12 +33945,11 @@ const WORDS_EN_A2 = [
       "zh": "管",
       "ru": "трубка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tubes"
   },
   {
     "id": "en_3911",
+    "lang": "en",
     "lemma": "superior",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36461,12 +33968,11 @@ const WORDS_EN_A2 = [
       "ja": "優れた",
       "zh": "更好的",
       "ru": "лучший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3912",
+    "lang": "en",
     "lemma": "superior",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36486,12 +33992,11 @@ const WORDS_EN_A2 = [
       "zh": "上级",
       "ru": "начальник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "superiors"
   },
   {
     "id": "en_3913",
+    "lang": "en",
     "lemma": "pan",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36512,12 +34017,11 @@ const WORDS_EN_A2 = [
       "zh": "平底锅",
       "ru": "сковорода"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pans"
   },
   {
     "id": "en_3914",
+    "lang": "en",
     "lemma": "pan",
     "pos": "Verb",
     "cefr": "A2",
@@ -36537,15 +34041,11 @@ const WORDS_EN_A2 = [
       "ja": "パンする",
       "zh": "摇摄",
       "ru": "панорамировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pan",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3915",
+    "lang": "en",
     "lemma": "expression",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36567,12 +34067,11 @@ const WORDS_EN_A2 = [
       "zh": "表情",
       "ru": "выражение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "expressions"
   },
   {
     "id": "en_3916",
+    "lang": "en",
     "lemma": "throne",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36592,12 +34091,11 @@ const WORDS_EN_A2 = [
       "zh": "王座",
       "ru": "трон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "thrones"
   },
   {
     "id": "en_3917",
+    "lang": "en",
     "lemma": "deadly",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36616,12 +34114,11 @@ const WORDS_EN_A2 = [
       "ja": "致命的な",
       "zh": "致命的",
       "ru": "смертельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3918",
+    "lang": "en",
     "lemma": "bee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36642,12 +34139,11 @@ const WORDS_EN_A2 = [
       "zh": "蜜蜂",
       "ru": "пчела"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bees"
   },
   {
     "id": "en_3919",
+    "lang": "en",
     "lemma": "tooth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36668,12 +34164,11 @@ const WORDS_EN_A2 = [
       "zh": "牙齿",
       "ru": "зуб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "teeth"
   },
   {
     "id": "en_3920",
+    "lang": "en",
     "lemma": "depressed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36692,12 +34187,11 @@ const WORDS_EN_A2 = [
       "ja": "落ち込んだ",
       "zh": "沮丧的",
       "ru": "подавленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3922",
+    "lang": "en",
     "lemma": "wicked",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36716,12 +34210,11 @@ const WORDS_EN_A2 = [
       "ja": "邪悪な",
       "zh": "邪恶的",
       "ru": "злой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3924",
+    "lang": "en",
     "lemma": "native",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36740,12 +34233,11 @@ const WORDS_EN_A2 = [
       "ja": "生まれつきの",
       "zh": "本地的",
       "ru": "родной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3925",
+    "lang": "en",
     "lemma": "native",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36765,12 +34257,11 @@ const WORDS_EN_A2 = [
       "zh": "本地人",
       "ru": "туземец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "natives"
   },
   {
     "id": "en_3927",
+    "lang": "en",
     "lemma": "poetry",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36790,12 +34281,11 @@ const WORDS_EN_A2 = [
       "zh": "诗歌",
       "ru": "поэзия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3928",
+    "lang": "en",
     "lemma": "multiple",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36814,12 +34304,11 @@ const WORDS_EN_A2 = [
       "ja": "複数の",
       "zh": "多个的",
       "ru": "множественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3930",
+    "lang": "en",
     "lemma": "cable",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36840,12 +34329,11 @@ const WORDS_EN_A2 = [
       "zh": "电缆",
       "ru": "кабель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cables"
   },
   {
     "id": "en_3932",
+    "lang": "en",
     "lemma": "buzz",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36866,12 +34354,11 @@ const WORDS_EN_A2 = [
       "zh": "嗡嗡声",
       "ru": "жужжание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "buzzes"
   },
   {
     "id": "en_3933",
+    "lang": "en",
     "lemma": "buzz",
     "pos": "Verb",
     "cefr": "A2",
@@ -36891,15 +34378,11 @@ const WORDS_EN_A2 = [
       "ja": "ブンブン鳴る",
       "zh": "嗡嗡叫",
       "ru": "жужжать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "buzz",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3936",
+    "lang": "en",
     "lemma": "goddess",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36919,12 +34402,11 @@ const WORDS_EN_A2 = [
       "zh": "女神",
       "ru": "богиня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "goddesses"
   },
   {
     "id": "en_3937",
+    "lang": "en",
     "lemma": "chin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36945,12 +34427,11 @@ const WORDS_EN_A2 = [
       "zh": "下巴",
       "ru": "подбородок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chins"
   },
   {
     "id": "en_3938",
+    "lang": "en",
     "lemma": "anxious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36969,12 +34450,11 @@ const WORDS_EN_A2 = [
       "ja": "不安な",
       "zh": "焦虑的",
       "ru": "тревожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3940",
+    "lang": "en",
     "lemma": "basketball",
     "pos": "Nomen",
     "cefr": "A2",
@@ -36994,12 +34474,11 @@ const WORDS_EN_A2 = [
       "zh": "篮球",
       "ru": "баскетбол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "basketballs"
   },
   {
     "id": "en_3943",
+    "lang": "en",
     "lemma": "musical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37018,12 +34497,11 @@ const WORDS_EN_A2 = [
       "ja": "音楽的な",
       "zh": "音乐的",
       "ru": "музыкальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3944",
+    "lang": "en",
     "lemma": "musical",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37043,12 +34521,11 @@ const WORDS_EN_A2 = [
       "zh": "音乐剧",
       "ru": "мюзикл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "musicals"
   },
   {
     "id": "en_3945",
+    "lang": "en",
     "lemma": "slide",
     "pos": "Verb",
     "cefr": "A2",
@@ -37068,15 +34545,11 @@ const WORDS_EN_A2 = [
       "ja": "滑る",
       "zh": "滑动",
       "ru": "скользить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slide",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3946",
+    "lang": "en",
     "lemma": "slide",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37097,12 +34570,11 @@ const WORDS_EN_A2 = [
       "zh": "滑梯",
       "ru": "горка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "slides"
   },
   {
     "id": "en_3947",
+    "lang": "en",
     "lemma": "ultimate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37121,12 +34593,11 @@ const WORDS_EN_A2 = [
       "ja": "最終的な",
       "zh": "最终的",
       "ru": "окончательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3948",
+    "lang": "en",
     "lemma": "pork",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37147,12 +34618,11 @@ const WORDS_EN_A2 = [
       "zh": "猪肉",
       "ru": "свинина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "porks"
   },
   {
     "id": "en_3949",
+    "lang": "en",
     "lemma": "communication",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37172,12 +34642,11 @@ const WORDS_EN_A2 = [
       "zh": "沟通",
       "ru": "коммуникация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "communications"
   },
   {
     "id": "en_3950",
+    "lang": "en",
     "lemma": "payment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37198,12 +34667,11 @@ const WORDS_EN_A2 = [
       "zh": "付款",
       "ru": "платеж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "payments"
   },
   {
     "id": "en_3951",
+    "lang": "en",
     "lemma": "structure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37223,12 +34691,11 @@ const WORDS_EN_A2 = [
       "zh": "结构",
       "ru": "структура"
     },
-    "examples": [],
-    "meta": {},
     "plural": "structures"
   },
   {
     "id": "en_3952",
+    "lang": "en",
     "lemma": "structure",
     "pos": "Verb",
     "cefr": "A2",
@@ -37247,15 +34714,11 @@ const WORDS_EN_A2 = [
       "ja": "構成する",
       "zh": "组织",
       "ru": "структурировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "structure",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3953",
+    "lang": "en",
     "lemma": "paperwork",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37276,12 +34739,11 @@ const WORDS_EN_A2 = [
       "zh": "文书工作",
       "ru": "бумажная работа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3954",
+    "lang": "en",
     "lemma": "obsessed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37300,12 +34762,11 @@ const WORDS_EN_A2 = [
       "ja": "夢中の",
       "zh": "着迷的",
       "ru": "одержимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3955",
+    "lang": "en",
     "lemma": "lazy",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37325,12 +34786,11 @@ const WORDS_EN_A2 = [
       "ja": "怠け者の",
       "zh": "懒惰的",
       "ru": "ленивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3958",
+    "lang": "en",
     "lemma": "squeeze",
     "pos": "Verb",
     "cefr": "A2",
@@ -37350,15 +34810,11 @@ const WORDS_EN_A2 = [
       "ja": "絞る",
       "zh": "挤压",
       "ru": "сжимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "squeeze",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3959",
+    "lang": "en",
     "lemma": "magical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37377,12 +34833,11 @@ const WORDS_EN_A2 = [
       "ja": "魔法の",
       "zh": "魔法的",
       "ru": "волшебный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3961",
+    "lang": "en",
     "lemma": "admire",
     "pos": "Verb",
     "cefr": "A2",
@@ -37401,15 +34856,11 @@ const WORDS_EN_A2 = [
       "ja": "賞賛する",
       "zh": "钦佩",
       "ru": "восхищаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "admire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3962",
+    "lang": "en",
     "lemma": "madness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37429,12 +34880,11 @@ const WORDS_EN_A2 = [
       "zh": "疯狂",
       "ru": "безумие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "madnesses"
   },
   {
     "id": "en_3964",
+    "lang": "en",
     "lemma": "entry",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37455,12 +34905,11 @@ const WORDS_EN_A2 = [
       "zh": "入口",
       "ru": "вход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "entries"
   },
   {
     "id": "en_3965",
+    "lang": "en",
     "lemma": "injury",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37480,12 +34929,11 @@ const WORDS_EN_A2 = [
       "zh": "伤害",
       "ru": "травма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "injuries"
   },
   {
     "id": "en_3966",
+    "lang": "en",
     "lemma": "burden",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37505,12 +34953,11 @@ const WORDS_EN_A2 = [
       "zh": "负担",
       "ru": "бремя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "burdens"
   },
   {
     "id": "en_3967",
+    "lang": "en",
     "lemma": "burden",
     "pos": "Verb",
     "cefr": "A2",
@@ -37529,15 +34976,11 @@ const WORDS_EN_A2 = [
       "ja": "負担をかける",
       "zh": "负担",
       "ru": "обременять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "burden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3968",
+    "lang": "en",
     "lemma": "manner",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37557,12 +35000,11 @@ const WORDS_EN_A2 = [
       "zh": "方式",
       "ru": "манера"
     },
-    "examples": [],
-    "meta": {},
     "plural": "manners"
   },
   {
     "id": "en_3969",
+    "lang": "en",
     "lemma": "freezing",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37582,12 +35024,11 @@ const WORDS_EN_A2 = [
       "ja": "凍るような",
       "zh": "冰冷的",
       "ru": "ледяной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3971",
+    "lang": "en",
     "lemma": "mount",
     "pos": "Verb",
     "cefr": "A2",
@@ -37607,15 +35048,11 @@ const WORDS_EN_A2 = [
       "ja": "乗る",
       "zh": "骑",
       "ru": "взбираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mount",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3972",
+    "lang": "en",
     "lemma": "mount",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37636,12 +35073,11 @@ const WORDS_EN_A2 = [
       "zh": "山",
       "ru": "гора"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mounts"
   },
   {
     "id": "en_3973",
+    "lang": "en",
     "lemma": "battery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37662,12 +35098,11 @@ const WORDS_EN_A2 = [
       "zh": "电池",
       "ru": "батарея"
     },
-    "examples": [],
-    "meta": {},
     "plural": "batteries"
   },
   {
     "id": "en_3974",
+    "lang": "en",
     "lemma": "dessert",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37688,12 +35123,11 @@ const WORDS_EN_A2 = [
       "zh": "甜点",
       "ru": "десерт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "desserts"
   },
   {
     "id": "en_3975",
+    "lang": "en",
     "lemma": "pound",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37713,12 +35147,11 @@ const WORDS_EN_A2 = [
       "zh": "英镑",
       "ru": "фунт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pounds"
   },
   {
     "id": "en_3976",
+    "lang": "en",
     "lemma": "pound",
     "pos": "Verb",
     "cefr": "A2",
@@ -37738,15 +35171,11 @@ const WORDS_EN_A2 = [
       "ja": "たたく",
       "zh": "敲打",
       "ru": "колотить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pound",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3977",
+    "lang": "en",
     "lemma": "motel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37767,12 +35196,11 @@ const WORDS_EN_A2 = [
       "zh": "汽车旅馆",
       "ru": "мотель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "motels"
   },
   {
     "id": "en_3978",
+    "lang": "en",
     "lemma": "cinema",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37793,12 +35221,11 @@ const WORDS_EN_A2 = [
       "zh": "电影院",
       "ru": "кинотеатр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cinemas"
   },
   {
     "id": "en_3979",
+    "lang": "en",
     "lemma": "fond",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37818,12 +35245,11 @@ const WORDS_EN_A2 = [
       "ja": "好きな",
       "zh": "喜欢的",
       "ru": "любящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_3980",
+    "lang": "en",
     "lemma": "rifle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37843,12 +35269,11 @@ const WORDS_EN_A2 = [
       "zh": "步枪",
       "ru": "винтовка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rifles"
   },
   {
     "id": "en_3981",
+    "lang": "en",
     "lemma": "rifle",
     "pos": "Verb",
     "cefr": "A2",
@@ -37867,15 +35292,11 @@ const WORDS_EN_A2 = [
       "ja": "探る",
       "zh": "翻找",
       "ru": "рыться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rifle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3983",
+    "lang": "en",
     "lemma": "statue",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37895,12 +35316,11 @@ const WORDS_EN_A2 = [
       "zh": "雕像",
       "ru": "статуя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "statues"
   },
   {
     "id": "en_3984",
+    "lang": "en",
     "lemma": "fridge",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37921,12 +35341,11 @@ const WORDS_EN_A2 = [
       "zh": "冰箱",
       "ru": "холодильник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fridges"
   },
   {
     "id": "en_3985",
+    "lang": "en",
     "lemma": "brick",
     "pos": "Nomen",
     "cefr": "A2",
@@ -37947,12 +35366,11 @@ const WORDS_EN_A2 = [
       "zh": "砖",
       "ru": "кирпич"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bricks"
   },
   {
     "id": "en_3986",
+    "lang": "en",
     "lemma": "abandon",
     "pos": "Verb",
     "cefr": "A2",
@@ -37971,15 +35389,11 @@ const WORDS_EN_A2 = [
       "ja": "捨てる",
       "zh": "放弃",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abandon",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3988",
+    "lang": "en",
     "lemma": "lap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38000,12 +35414,11 @@ const WORDS_EN_A2 = [
       "zh": "膝盖",
       "ru": "колени"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_3989",
+    "lang": "en",
     "lemma": "lap",
     "pos": "Verb",
     "cefr": "A2",
@@ -38024,15 +35437,11 @@ const WORDS_EN_A2 = [
       "ja": "舐める",
       "zh": "舔",
       "ru": "лизать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3991",
+    "lang": "en",
     "lemma": "recommend",
     "pos": "Verb",
     "cefr": "A2",
@@ -38052,15 +35461,11 @@ const WORDS_EN_A2 = [
       "ja": "勧める",
       "zh": "推荐",
       "ru": "рекомендовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "recommend",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3992",
+    "lang": "en",
     "lemma": "brush",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38081,12 +35486,11 @@ const WORDS_EN_A2 = [
       "zh": "刷子",
       "ru": "щетка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "brushes"
   },
   {
     "id": "en_3993",
+    "lang": "en",
     "lemma": "brush",
     "pos": "Verb",
     "cefr": "A2",
@@ -38106,15 +35510,11 @@ const WORDS_EN_A2 = [
       "ja": "磨く",
       "zh": "刷",
       "ru": "чистить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "brush",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3994",
+    "lang": "en",
     "lemma": "pill",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38135,12 +35535,11 @@ const WORDS_EN_A2 = [
       "zh": "药片",
       "ru": "таблетка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pills"
   },
   {
     "id": "en_3995",
+    "lang": "en",
     "lemma": "concept",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38160,12 +35559,11 @@ const WORDS_EN_A2 = [
       "zh": "概念",
       "ru": "концепция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "concepts"
   },
   {
     "id": "en_3996",
+    "lang": "en",
     "lemma": "delay",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38186,12 +35584,11 @@ const WORDS_EN_A2 = [
       "zh": "延迟",
       "ru": "задержка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "delays"
   },
   {
     "id": "en_3997",
+    "lang": "en",
     "lemma": "delay",
     "pos": "Verb",
     "cefr": "A2",
@@ -38211,15 +35608,11 @@ const WORDS_EN_A2 = [
       "ja": "遅延させる",
       "zh": "延迟",
       "ru": "задерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "delay",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_3999",
+    "lang": "en",
     "lemma": "rub",
     "pos": "Verb",
     "cefr": "A2",
@@ -38239,15 +35632,11 @@ const WORDS_EN_A2 = [
       "ja": "こする",
       "zh": "摩擦",
       "ru": "тереть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rub",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4000",
+    "lang": "en",
     "lemma": "rub",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38267,12 +35656,11 @@ const WORDS_EN_A2 = [
       "zh": "按摩",
       "ru": "массаж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rubs"
   },
   {
     "id": "en_4001",
+    "lang": "en",
     "lemma": "mall",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38293,12 +35681,11 @@ const WORDS_EN_A2 = [
       "zh": "购物中心",
       "ru": "торговый центр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "malls"
   },
   {
     "id": "en_4002",
+    "lang": "en",
     "lemma": "soil",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38319,12 +35706,11 @@ const WORDS_EN_A2 = [
       "zh": "土壤",
       "ru": "почва"
     },
-    "examples": [],
-    "meta": {},
     "plural": "soils"
   },
   {
     "id": "en_4003",
+    "lang": "en",
     "lemma": "soil",
     "pos": "Verb",
     "cefr": "A2",
@@ -38344,15 +35730,11 @@ const WORDS_EN_A2 = [
       "ja": "汚す",
       "zh": "弄脏",
       "ru": "пачкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "soil",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4004",
+    "lang": "en",
     "lemma": "complaint",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38372,12 +35754,11 @@ const WORDS_EN_A2 = [
       "zh": "投诉",
       "ru": "жалоба"
     },
-    "examples": [],
-    "meta": {},
     "plural": "complaints"
   },
   {
     "id": "en_4005",
+    "lang": "en",
     "lemma": "sail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38398,12 +35779,11 @@ const WORDS_EN_A2 = [
       "zh": "帆",
       "ru": "парус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sails"
   },
   {
     "id": "en_4006",
+    "lang": "en",
     "lemma": "sail",
     "pos": "Verb",
     "cefr": "A2",
@@ -38423,15 +35803,11 @@ const WORDS_EN_A2 = [
       "ja": "航海する",
       "zh": "航海",
       "ru": "плыть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4007",
+    "lang": "en",
     "lemma": "baker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38452,12 +35828,11 @@ const WORDS_EN_A2 = [
       "zh": "面包师",
       "ru": "пекарь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bakers"
   },
   {
     "id": "en_4009",
+    "lang": "en",
     "lemma": "bucket",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38478,12 +35853,11 @@ const WORDS_EN_A2 = [
       "zh": "桶",
       "ru": "ведро"
     },
-    "examples": [],
-    "meta": {},
     "plural": "buckets"
   },
   {
     "id": "en_4010",
+    "lang": "en",
     "lemma": "description",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38503,12 +35877,11 @@ const WORDS_EN_A2 = [
       "zh": "描述",
       "ru": "описание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "descriptions"
   },
   {
     "id": "en_4011",
+    "lang": "en",
     "lemma": "badge",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38529,12 +35902,11 @@ const WORDS_EN_A2 = [
       "zh": "徽章",
       "ru": "значок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "badges"
   },
   {
     "id": "en_4013",
+    "lang": "en",
     "lemma": "measure",
     "pos": "Verb",
     "cefr": "A2",
@@ -38553,15 +35925,11 @@ const WORDS_EN_A2 = [
       "ja": "測定する",
       "zh": "测量",
       "ru": "измерять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "measure",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4014",
+    "lang": "en",
     "lemma": "measure",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38581,12 +35949,11 @@ const WORDS_EN_A2 = [
       "zh": "措施",
       "ru": "мера"
     },
-    "examples": [],
-    "meta": {},
     "plural": "measures"
   },
   {
     "id": "en_4015",
+    "lang": "en",
     "lemma": "hip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38607,12 +35974,11 @@ const WORDS_EN_A2 = [
       "zh": "臀部",
       "ru": "бедро"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hips"
   },
   {
     "id": "en_4016",
+    "lang": "en",
     "lemma": "hip",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38631,12 +35997,11 @@ const WORDS_EN_A2 = [
       "ja": "流行の",
       "zh": "时尚的",
       "ru": "модный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4017",
+    "lang": "en",
     "lemma": "function",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38656,12 +36021,11 @@ const WORDS_EN_A2 = [
       "zh": "功能",
       "ru": "функция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "functions"
   },
   {
     "id": "en_4018",
+    "lang": "en",
     "lemma": "function",
     "pos": "Verb",
     "cefr": "A2",
@@ -38680,15 +36044,11 @@ const WORDS_EN_A2 = [
       "ja": "機能する",
       "zh": "运作",
       "ru": "функционировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "function",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4019",
+    "lang": "en",
     "lemma": "foundation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38708,12 +36068,11 @@ const WORDS_EN_A2 = [
       "zh": "基础",
       "ru": "основание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "foundations"
   },
   {
     "id": "en_4020",
+    "lang": "en",
     "lemma": "labor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38734,12 +36093,11 @@ const WORDS_EN_A2 = [
       "zh": "劳动",
       "ru": "труд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "labors"
   },
   {
     "id": "en_4021",
+    "lang": "en",
     "lemma": "labor",
     "pos": "Verb",
     "cefr": "A2",
@@ -38759,15 +36117,11 @@ const WORDS_EN_A2 = [
       "ja": "働く",
       "zh": "劳动",
       "ru": "трудиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "labor",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4022",
+    "lang": "en",
     "lemma": "waiter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38788,12 +36142,11 @@ const WORDS_EN_A2 = [
       "zh": "服务员",
       "ru": "официант"
     },
-    "examples": [],
-    "meta": {},
     "plural": "waiters"
   },
   {
     "id": "en_4023",
+    "lang": "en",
     "lemma": "homeless",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38812,12 +36165,11 @@ const WORDS_EN_A2 = [
       "ja": "ホームレスの",
       "zh": "无家可归的",
       "ru": "бездомный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4024",
+    "lang": "en",
     "lemma": "unfortunate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38836,12 +36188,11 @@ const WORDS_EN_A2 = [
       "ja": "不幸な",
       "zh": "不幸的",
       "ru": "несчастный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4025",
+    "lang": "en",
     "lemma": "log",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38862,12 +36213,11 @@ const WORDS_EN_A2 = [
       "zh": "原木",
       "ru": "бревно"
     },
-    "examples": [],
-    "meta": {},
     "plural": "logs"
   },
   {
     "id": "en_4026",
+    "lang": "en",
     "lemma": "log",
     "pos": "Verb",
     "cefr": "A2",
@@ -38887,15 +36237,11 @@ const WORDS_EN_A2 = [
       "ja": "伐木する",
       "zh": "砍伐",
       "ru": "валить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "log",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4028",
+    "lang": "en",
     "lemma": "combat",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38915,12 +36261,11 @@ const WORDS_EN_A2 = [
       "zh": "战斗",
       "ru": "боевые действия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "combats"
   },
   {
     "id": "en_4029",
+    "lang": "en",
     "lemma": "combat",
     "pos": "Verb",
     "cefr": "A2",
@@ -38939,15 +36284,11 @@ const WORDS_EN_A2 = [
       "ja": "戦う",
       "zh": "对抗",
       "ru": "бороться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "combat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4030",
+    "lang": "en",
     "lemma": "poem",
     "pos": "Nomen",
     "cefr": "A2",
@@ -38967,12 +36308,11 @@ const WORDS_EN_A2 = [
       "zh": "诗",
       "ru": "стихотворение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "poems"
   },
   {
     "id": "en_4031",
+    "lang": "en",
     "lemma": "polish",
     "pos": "Verb",
     "cefr": "A2",
@@ -38992,15 +36332,11 @@ const WORDS_EN_A2 = [
       "ja": "磨く",
       "zh": "抛光",
       "ru": "полировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "polish",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4032",
+    "lang": "en",
     "lemma": "polish",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39021,12 +36357,11 @@ const WORDS_EN_A2 = [
       "zh": "抛光剂",
       "ru": "полироль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "polishes"
   },
   {
     "id": "en_4033",
+    "lang": "en",
     "lemma": "polish",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39045,12 +36380,11 @@ const WORDS_EN_A2 = [
       "ja": "ポーランドの",
       "zh": "波兰的",
       "ru": "польский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4034",
+    "lang": "en",
     "lemma": "weed",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39071,12 +36405,11 @@ const WORDS_EN_A2 = [
       "zh": "杂草",
       "ru": "сорняк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "weeds"
   },
   {
     "id": "en_4036",
+    "lang": "en",
     "lemma": "satellite",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39096,12 +36429,11 @@ const WORDS_EN_A2 = [
       "zh": "卫星",
       "ru": "спутник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "satellites"
   },
   {
     "id": "en_4037",
+    "lang": "en",
     "lemma": "jersey",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39122,12 +36454,11 @@ const WORDS_EN_A2 = [
       "zh": "运动衫",
       "ru": "трикотаж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "jerseys"
   },
   {
     "id": "en_4038",
+    "lang": "en",
     "lemma": "eagle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39147,12 +36478,11 @@ const WORDS_EN_A2 = [
       "zh": "鹰",
       "ru": "орёл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "eagles"
   },
   {
     "id": "en_4040",
+    "lang": "en",
     "lemma": "privacy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39172,12 +36502,11 @@ const WORDS_EN_A2 = [
       "zh": "隐私",
       "ru": "приватность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "privacies"
   },
   {
     "id": "en_4041",
+    "lang": "en",
     "lemma": "chapter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39197,12 +36526,11 @@ const WORDS_EN_A2 = [
       "zh": "章节",
       "ru": "глава"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chapters"
   },
   {
     "id": "en_4042",
+    "lang": "en",
     "lemma": "wisdom",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39222,12 +36550,11 @@ const WORDS_EN_A2 = [
       "zh": "智慧",
       "ru": "мудрость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4043",
+    "lang": "en",
     "lemma": "flip",
     "pos": "Verb",
     "cefr": "A2",
@@ -39247,15 +36574,11 @@ const WORDS_EN_A2 = [
       "ja": "ひっくり返す",
       "zh": "翻转",
       "ru": "переворачивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4044",
+    "lang": "en",
     "lemma": "flip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39276,12 +36599,11 @@ const WORDS_EN_A2 = [
       "zh": "翻转",
       "ru": "переворот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flips"
   },
   {
     "id": "en_4046",
+    "lang": "en",
     "lemma": "barn",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39302,12 +36624,11 @@ const WORDS_EN_A2 = [
       "zh": "谷仓",
       "ru": "сарай"
     },
-    "examples": [],
-    "meta": {},
     "plural": "barns"
   },
   {
     "id": "en_4047",
+    "lang": "en",
     "lemma": "farmer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39328,12 +36649,11 @@ const WORDS_EN_A2 = [
       "zh": "农民",
       "ru": "фермер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "farmers"
   },
   {
     "id": "en_4048",
+    "lang": "en",
     "lemma": "clan",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39353,12 +36673,11 @@ const WORDS_EN_A2 = [
       "zh": "氏族",
       "ru": "клан"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clans"
   },
   {
     "id": "en_4049",
+    "lang": "en",
     "lemma": "budget",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39378,12 +36697,11 @@ const WORDS_EN_A2 = [
       "zh": "预算",
       "ru": "бюджет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "budgets"
   },
   {
     "id": "en_4050",
+    "lang": "en",
     "lemma": "budget",
     "pos": "Verb",
     "cefr": "A2",
@@ -39402,15 +36720,11 @@ const WORDS_EN_A2 = [
       "ja": "予算を立てる",
       "zh": "编制预算",
       "ru": "планировать бюджет"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "budget",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4051",
+    "lang": "en",
     "lemma": "pub",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39431,12 +36745,11 @@ const WORDS_EN_A2 = [
       "zh": "酒吧",
       "ru": "паб"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pubs"
   },
   {
     "id": "en_4052",
+    "lang": "en",
     "lemma": "temporary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39455,12 +36768,11 @@ const WORDS_EN_A2 = [
       "ja": "一時的な",
       "zh": "临时的",
       "ru": "временный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4053",
+    "lang": "en",
     "lemma": "effective",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39479,12 +36791,11 @@ const WORDS_EN_A2 = [
       "ja": "効果的な",
       "zh": "有效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4054",
+    "lang": "en",
     "lemma": "lamb",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39505,12 +36816,11 @@ const WORDS_EN_A2 = [
       "zh": "羊羔",
       "ru": "ягненок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lambs"
   },
   {
     "id": "en_4055",
+    "lang": "en",
     "lemma": "plot",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39530,12 +36840,11 @@ const WORDS_EN_A2 = [
       "zh": "情节",
       "ru": "сюжет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "plots"
   },
   {
     "id": "en_4056",
+    "lang": "en",
     "lemma": "plot",
     "pos": "Verb",
     "cefr": "A2",
@@ -39554,15 +36863,11 @@ const WORDS_EN_A2 = [
       "ja": "企てる",
       "zh": "密谋",
       "ru": "замышлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "plot",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4057",
+    "lang": "en",
     "lemma": "proposal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39582,12 +36887,11 @@ const WORDS_EN_A2 = [
       "zh": "提议",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "proposals"
   },
   {
     "id": "en_4059",
+    "lang": "en",
     "lemma": "blessing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39608,12 +36912,11 @@ const WORDS_EN_A2 = [
       "zh": "祝福",
       "ru": "благословение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "blessings"
   },
   {
     "id": "en_4060",
+    "lang": "en",
     "lemma": "rage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39634,12 +36937,11 @@ const WORDS_EN_A2 = [
       "zh": "愤怒",
       "ru": "ярость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rages"
   },
   {
     "id": "en_4061",
+    "lang": "en",
     "lemma": "rage",
     "pos": "Verb",
     "cefr": "A2",
@@ -39659,15 +36961,11 @@ const WORDS_EN_A2 = [
       "ja": "激怒する",
       "zh": "大怒",
       "ru": "бушевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rage",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4062",
+    "lang": "en",
     "lemma": "basis",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39687,12 +36985,11 @@ const WORDS_EN_A2 = [
       "zh": "基础",
       "ru": "основание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bases"
   },
   {
     "id": "en_4063",
+    "lang": "en",
     "lemma": "manners",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39713,12 +37010,11 @@ const WORDS_EN_A2 = [
       "zh": "礼仪",
       "ru": "манеры"
     },
-    "examples": [],
-    "meta": {},
     "plural": "manners"
   },
   {
     "id": "en_4064",
+    "lang": "en",
     "lemma": "recover",
     "pos": "Verb",
     "cefr": "A2",
@@ -39738,15 +37034,11 @@ const WORDS_EN_A2 = [
       "ja": "回復する",
       "zh": "恢复",
       "ru": "выздоравливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "recover",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4065",
+    "lang": "en",
     "lemma": "twist",
     "pos": "Verb",
     "cefr": "A2",
@@ -39766,15 +37058,11 @@ const WORDS_EN_A2 = [
       "ja": "ねじる",
       "zh": "扭转",
       "ru": "крутить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "twist",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4066",
+    "lang": "en",
     "lemma": "leak",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39795,12 +37083,11 @@ const WORDS_EN_A2 = [
       "zh": "泄漏",
       "ru": "утечка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "leaks"
   },
   {
     "id": "en_4067",
+    "lang": "en",
     "lemma": "leak",
     "pos": "Verb",
     "cefr": "A2",
@@ -39820,15 +37107,11 @@ const WORDS_EN_A2 = [
       "ja": "漏れる",
       "zh": "泄露",
       "ru": "протекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "leak",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4068",
+    "lang": "en",
     "lemma": "item",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39848,12 +37131,11 @@ const WORDS_EN_A2 = [
       "zh": "项目",
       "ru": "предмет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "items"
   },
   {
     "id": "en_4071",
+    "lang": "en",
     "lemma": "inner",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39872,12 +37154,11 @@ const WORDS_EN_A2 = [
       "ja": "内部の",
       "zh": "内部的",
       "ru": "внутренний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4074",
+    "lang": "en",
     "lemma": "affect",
     "pos": "Verb",
     "cefr": "A2",
@@ -39896,15 +37177,11 @@ const WORDS_EN_A2 = [
       "ja": "影響する",
       "zh": "影响",
       "ru": "влиять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "affect",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4076",
+    "lang": "en",
     "lemma": "forbidden",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39923,12 +37200,11 @@ const WORDS_EN_A2 = [
       "ja": "禁止された",
       "zh": "禁止的",
       "ru": "запрещенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4077",
+    "lang": "en",
     "lemma": "patch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -39949,12 +37225,11 @@ const WORDS_EN_A2 = [
       "zh": "补丁",
       "ru": "заплата"
     },
-    "examples": [],
-    "meta": {},
     "plural": "patches"
   },
   {
     "id": "en_4078",
+    "lang": "en",
     "lemma": "patch",
     "pos": "Verb",
     "cefr": "A2",
@@ -39973,15 +37248,11 @@ const WORDS_EN_A2 = [
       "ja": "修繕する",
       "zh": "修补",
       "ru": "чинить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "patch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4083",
+    "lang": "en",
     "lemma": "humor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40002,12 +37273,11 @@ const WORDS_EN_A2 = [
       "zh": "幽默",
       "ru": "юмор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "humors"
   },
   {
     "id": "en_4085",
+    "lang": "en",
     "lemma": "e-mail",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40028,12 +37298,11 @@ const WORDS_EN_A2 = [
       "zh": "电子邮件",
       "ru": "электронная почта"
     },
-    "examples": [],
-    "meta": {},
     "plural": "e-mails"
   },
   {
     "id": "en_4086",
+    "lang": "en",
     "lemma": "rocky",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40053,12 +37322,11 @@ const WORDS_EN_A2 = [
       "ja": "岩の多い",
       "zh": "多石的",
       "ru": "каменистый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4087",
+    "lang": "en",
     "lemma": "creative",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40077,12 +37345,11 @@ const WORDS_EN_A2 = [
       "ja": "創造的な",
       "zh": "有创意的",
       "ru": "творческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4088",
+    "lang": "en",
     "lemma": "betray",
     "pos": "Verb",
     "cefr": "A2",
@@ -40101,15 +37368,11 @@ const WORDS_EN_A2 = [
       "ja": "裏切る",
       "zh": "背叛",
       "ru": "предать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "betray",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4090",
+    "lang": "en",
     "lemma": "various",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40128,12 +37391,11 @@ const WORDS_EN_A2 = [
       "ja": "様々な",
       "zh": "各种各样的",
       "ru": "различный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4091",
+    "lang": "en",
     "lemma": "discovery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40153,12 +37415,11 @@ const WORDS_EN_A2 = [
       "zh": "发现",
       "ru": "открытие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "discoveries"
   },
   {
     "id": "en_4092",
+    "lang": "en",
     "lemma": "cowboy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40179,12 +37440,11 @@ const WORDS_EN_A2 = [
       "zh": "牛仔",
       "ru": "ковбой"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cowboys"
   },
   {
     "id": "en_4093",
+    "lang": "en",
     "lemma": "delighted",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40204,12 +37464,11 @@ const WORDS_EN_A2 = [
       "ja": "喜んでいる",
       "zh": "高兴的",
       "ru": "восхищённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4094",
+    "lang": "en",
     "lemma": "dive",
     "pos": "Verb",
     "cefr": "A2",
@@ -40229,15 +37488,11 @@ const WORDS_EN_A2 = [
       "ja": "飛び込む",
       "zh": "潜水",
       "ru": "нырять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dive",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4095",
+    "lang": "en",
     "lemma": "radar",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40257,12 +37512,11 @@ const WORDS_EN_A2 = [
       "zh": "雷达",
       "ru": "радар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "radars"
   },
   {
     "id": "en_4096",
+    "lang": "en",
     "lemma": "prosecutor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40282,12 +37536,11 @@ const WORDS_EN_A2 = [
       "zh": "检察官",
       "ru": "прокурор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "prosecutors"
   },
   {
     "id": "en_4097",
+    "lang": "en",
     "lemma": "amber",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40308,12 +37561,11 @@ const WORDS_EN_A2 = [
       "zh": "琥珀色",
       "ru": "янтарь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ambers"
   },
   {
     "id": "en_4099",
+    "lang": "en",
     "lemma": "vast",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40332,12 +37584,11 @@ const WORDS_EN_A2 = [
       "ja": "広大な",
       "zh": "广阔的",
       "ru": "огромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4100",
+    "lang": "en",
     "lemma": "cookie",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40358,12 +37609,11 @@ const WORDS_EN_A2 = [
       "zh": "饼干",
       "ru": "печенье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cookies"
   },
   {
     "id": "en_4101",
+    "lang": "en",
     "lemma": "finest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40382,12 +37632,11 @@ const WORDS_EN_A2 = [
       "ja": "最高の",
       "zh": "最好的",
       "ru": "лучший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4102",
+    "lang": "en",
     "lemma": "pump",
     "pos": "Verb",
     "cefr": "A2",
@@ -40407,15 +37656,11 @@ const WORDS_EN_A2 = [
       "ja": "ポンプで送る",
       "zh": "泵送",
       "ru": "качать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pump",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4103",
+    "lang": "en",
     "lemma": "pump",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40436,12 +37681,11 @@ const WORDS_EN_A2 = [
       "zh": "泵",
       "ru": "насос"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pumps"
   },
   {
     "id": "en_4104",
+    "lang": "en",
     "lemma": "counter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40462,12 +37706,11 @@ const WORDS_EN_A2 = [
       "zh": "柜台",
       "ru": "прилавок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "counters"
   },
   {
     "id": "en_4105",
+    "lang": "en",
     "lemma": "coin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40488,12 +37731,11 @@ const WORDS_EN_A2 = [
       "zh": "硬币",
       "ru": "монета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "coins"
   },
   {
     "id": "en_4106",
+    "lang": "en",
     "lemma": "coin",
     "pos": "Verb",
     "cefr": "A2",
@@ -40512,15 +37754,11 @@ const WORDS_EN_A2 = [
       "ja": "造語する",
       "zh": "创造",
       "ru": "придумать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "coin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4107",
+    "lang": "en",
     "lemma": "warren",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40541,12 +37779,11 @@ const WORDS_EN_A2 = [
       "zh": "兔窝",
       "ru": "кроличья нора"
     },
-    "examples": [],
-    "meta": {},
     "plural": "warrens"
   },
   {
     "id": "en_4109",
+    "lang": "en",
     "lemma": "marine",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40565,12 +37802,11 @@ const WORDS_EN_A2 = [
       "ja": "海の",
       "zh": "海洋的",
       "ru": "морской"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4110",
+    "lang": "en",
     "lemma": "marine",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40590,12 +37826,11 @@ const WORDS_EN_A2 = [
       "zh": "海军陆战队员",
       "ru": "морской пехотинец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "marines"
   },
   {
     "id": "en_4111",
+    "lang": "en",
     "lemma": "illness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40616,12 +37851,11 @@ const WORDS_EN_A2 = [
       "zh": "疾病",
       "ru": "болезнь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "illnesses"
   },
   {
     "id": "en_4112",
+    "lang": "en",
     "lemma": "sack",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40642,12 +37876,11 @@ const WORDS_EN_A2 = [
       "zh": "袋子",
       "ru": "мешок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sacks"
   },
   {
     "id": "en_4113",
+    "lang": "en",
     "lemma": "sack",
     "pos": "Verb",
     "cefr": "A2",
@@ -40667,15 +37900,11 @@ const WORDS_EN_A2 = [
       "ja": "解雇する",
       "zh": "解雇",
       "ru": "уволить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sack",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4114",
+    "lang": "en",
     "lemma": "bid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40695,12 +37924,11 @@ const WORDS_EN_A2 = [
       "zh": "出价",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bids"
   },
   {
     "id": "en_4115",
+    "lang": "en",
     "lemma": "bid",
     "pos": "Verb",
     "cefr": "A2",
@@ -40719,15 +37947,11 @@ const WORDS_EN_A2 = [
       "ja": "入札する",
       "zh": "出价",
       "ru": "делать ставку"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bid",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4116",
+    "lang": "en",
     "lemma": "require",
     "pos": "Verb",
     "cefr": "A2",
@@ -40747,15 +37971,11 @@ const WORDS_EN_A2 = [
       "ja": "必要とする",
       "zh": "需要",
       "ru": "требовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "require",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4117",
+    "lang": "en",
     "lemma": "largest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40774,12 +37994,11 @@ const WORDS_EN_A2 = [
       "ja": "最大の",
       "zh": "最大的",
       "ru": "самый большой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4118",
+    "lang": "en",
     "lemma": "achieve",
     "pos": "Verb",
     "cefr": "A2",
@@ -40798,15 +38017,11 @@ const WORDS_EN_A2 = [
       "ja": "達成する",
       "zh": "实现",
       "ru": "достичь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "achieve",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4120",
+    "lang": "en",
     "lemma": "nest",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40827,12 +38042,11 @@ const WORDS_EN_A2 = [
       "zh": "巢",
       "ru": "гнездо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nests"
   },
   {
     "id": "en_4121",
+    "lang": "en",
     "lemma": "nest",
     "pos": "Verb",
     "cefr": "A2",
@@ -40852,15 +38066,11 @@ const WORDS_EN_A2 = [
       "ja": "巣を作る",
       "zh": "筑巢",
       "ru": "гнездиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nest",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4122",
+    "lang": "en",
     "lemma": "palm",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40881,12 +38091,11 @@ const WORDS_EN_A2 = [
       "zh": "棕榈树",
       "ru": "пальма"
     },
-    "examples": [],
-    "meta": {},
     "plural": "palms"
   },
   {
     "id": "en_4123",
+    "lang": "en",
     "lemma": "constant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -40905,12 +38114,11 @@ const WORDS_EN_A2 = [
       "ja": "絶え間ない",
       "zh": "持续的",
       "ru": "постоянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4124",
+    "lang": "en",
     "lemma": "constant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40930,12 +38138,11 @@ const WORDS_EN_A2 = [
       "zh": "常数",
       "ru": "константа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "constants"
   },
   {
     "id": "en_4125",
+    "lang": "en",
     "lemma": "boo",
     "pos": "Nomen",
     "cefr": "A2",
@@ -40956,12 +38163,11 @@ const WORDS_EN_A2 = [
       "zh": "嘘声",
       "ru": "свист"
     },
-    "examples": [],
-    "meta": {},
     "plural": "boos"
   },
   {
     "id": "en_4126",
+    "lang": "en",
     "lemma": "boo",
     "pos": "Verb",
     "cefr": "A2",
@@ -40980,15 +38186,11 @@ const WORDS_EN_A2 = [
       "ja": "ブーイングする",
       "zh": "发出嘘声",
       "ru": "освистать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boo",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4127",
+    "lang": "en",
     "lemma": "medication",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41009,12 +38211,11 @@ const WORDS_EN_A2 = [
       "zh": "药物",
       "ru": "лекарство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "medications"
   },
   {
     "id": "en_4128",
+    "lang": "en",
     "lemma": "gravity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41034,12 +38235,11 @@ const WORDS_EN_A2 = [
       "zh": "重力",
       "ru": "гравитация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gravities"
   },
   {
     "id": "en_4129",
+    "lang": "en",
     "lemma": "booze",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41059,12 +38259,11 @@ const WORDS_EN_A2 = [
       "zh": "酒",
       "ru": "спиртное"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4130",
+    "lang": "en",
     "lemma": "booze",
     "pos": "Verb",
     "cefr": "A2",
@@ -41083,15 +38282,11 @@ const WORDS_EN_A2 = [
       "ja": "酒を飲む",
       "zh": "喝酒",
       "ru": "пить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "booze",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4131",
+    "lang": "en",
     "lemma": "analysis",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41111,12 +38306,11 @@ const WORDS_EN_A2 = [
       "zh": "分析",
       "ru": "анализ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "analyses"
   },
   {
     "id": "en_4134",
+    "lang": "en",
     "lemma": "employee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41137,12 +38331,11 @@ const WORDS_EN_A2 = [
       "zh": "员工",
       "ru": "сотрудник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "employees"
   },
   {
     "id": "en_4135",
+    "lang": "en",
     "lemma": "vodka",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41162,12 +38355,11 @@ const WORDS_EN_A2 = [
       "zh": "伏特加",
       "ru": "водка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vodkas"
   },
   {
     "id": "en_4136",
+    "lang": "en",
     "lemma": "solar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41186,12 +38378,11 @@ const WORDS_EN_A2 = [
       "ja": "太陽の",
       "zh": "太阳的",
       "ru": "солнечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4138",
+    "lang": "en",
     "lemma": "height",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41212,12 +38403,11 @@ const WORDS_EN_A2 = [
       "zh": "高度",
       "ru": "высота"
     },
-    "examples": [],
-    "meta": {},
     "plural": "heights"
   },
   {
     "id": "en_4141",
+    "lang": "en",
     "lemma": "terrified",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41237,12 +38427,11 @@ const WORDS_EN_A2 = [
       "ja": "非常に怖い",
       "zh": "惊恐的",
       "ru": "испуганный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4142",
+    "lang": "en",
     "lemma": "suitcase",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41263,12 +38452,11 @@ const WORDS_EN_A2 = [
       "zh": "行李箱",
       "ru": "чемодан"
     },
-    "examples": [],
-    "meta": {},
     "plural": "suitcases"
   },
   {
     "id": "en_4143",
+    "lang": "en",
     "lemma": "chemical",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41288,12 +38476,11 @@ const WORDS_EN_A2 = [
       "zh": "化学物质",
       "ru": "химическое вещество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "chemicals"
   },
   {
     "id": "en_4144",
+    "lang": "en",
     "lemma": "chemical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41312,12 +38499,11 @@ const WORDS_EN_A2 = [
       "ja": "化学的な",
       "zh": "化学的",
       "ru": "химический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4145",
+    "lang": "en",
     "lemma": "advanced",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41336,12 +38522,11 @@ const WORDS_EN_A2 = [
       "ja": "高度な",
       "zh": "先进的",
       "ru": "продвинутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4146",
+    "lang": "en",
     "lemma": "fund",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41361,12 +38546,11 @@ const WORDS_EN_A2 = [
       "zh": "基金",
       "ru": "фонд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "funds"
   },
   {
     "id": "en_4147",
+    "lang": "en",
     "lemma": "fund",
     "pos": "Verb",
     "cefr": "A2",
@@ -41385,15 +38569,11 @@ const WORDS_EN_A2 = [
       "ja": "資金を提供する",
       "zh": "资助",
       "ru": "финансировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fund",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4149",
+    "lang": "en",
     "lemma": "web",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41414,12 +38594,11 @@ const WORDS_EN_A2 = [
       "zh": "蜘蛛网",
       "ru": "паутина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "webs"
   },
   {
     "id": "en_4151",
+    "lang": "en",
     "lemma": "phase",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41439,12 +38618,11 @@ const WORDS_EN_A2 = [
       "zh": "阶段",
       "ru": "фаза"
     },
-    "examples": [],
-    "meta": {},
     "plural": "phases"
   },
   {
     "id": "en_4152",
+    "lang": "en",
     "lemma": "phase",
     "pos": "Verb",
     "cefr": "A2",
@@ -41463,15 +38641,11 @@ const WORDS_EN_A2 = [
       "ja": "段階的に導入する",
       "zh": "逐步引入",
       "ru": "вводить постепенно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "phase",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4153",
+    "lang": "en",
     "lemma": "fleet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41491,12 +38665,11 @@ const WORDS_EN_A2 = [
       "zh": "舰队",
       "ru": "флот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fleets"
   },
   {
     "id": "en_4154",
+    "lang": "en",
     "lemma": "lame",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41515,12 +38688,11 @@ const WORDS_EN_A2 = [
       "ja": "足を引きずる",
       "zh": "跛的",
       "ru": "хромой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4156",
+    "lang": "en",
     "lemma": "editor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41540,12 +38712,11 @@ const WORDS_EN_A2 = [
       "zh": "编辑",
       "ru": "редактор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "editors"
   },
   {
     "id": "en_4157",
+    "lang": "en",
     "lemma": "whip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41565,12 +38736,11 @@ const WORDS_EN_A2 = [
       "zh": "鞭子",
       "ru": "кнут"
     },
-    "examples": [],
-    "meta": {},
     "plural": "whips"
   },
   {
     "id": "en_4158",
+    "lang": "en",
     "lemma": "whip",
     "pos": "Verb",
     "cefr": "A2",
@@ -41589,15 +38759,11 @@ const WORDS_EN_A2 = [
       "ja": "鞭打つ",
       "zh": "鞭打",
       "ru": "хлестать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "whip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4159",
+    "lang": "en",
     "lemma": "region",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41618,12 +38784,11 @@ const WORDS_EN_A2 = [
       "zh": "地区",
       "ru": "регион"
     },
-    "examples": [],
-    "meta": {},
     "plural": "regions"
   },
   {
     "id": "en_4160",
+    "lang": "en",
     "lemma": "temper",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41643,12 +38808,11 @@ const WORDS_EN_A2 = [
       "zh": "脾气",
       "ru": "характер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tempers"
   },
   {
     "id": "en_4162",
+    "lang": "en",
     "lemma": "discussion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41668,12 +38832,11 @@ const WORDS_EN_A2 = [
       "zh": "讨论",
       "ru": "обсуждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "discussions"
   },
   {
     "id": "en_4164",
+    "lang": "en",
     "lemma": "operate",
     "pos": "Verb",
     "cefr": "A2",
@@ -41692,15 +38855,11 @@ const WORDS_EN_A2 = [
       "ja": "操作する",
       "zh": "操作",
       "ru": "управлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "operate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4165",
+    "lang": "en",
     "lemma": "sunshine",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41720,12 +38879,11 @@ const WORDS_EN_A2 = [
       "zh": "阳光",
       "ru": "солнечный свет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4166",
+    "lang": "en",
     "lemma": "undercover",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41744,12 +38902,11 @@ const WORDS_EN_A2 = [
       "ja": "秘密の",
       "zh": "秘密的",
       "ru": "тайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4167",
+    "lang": "en",
     "lemma": "horror",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41769,12 +38926,11 @@ const WORDS_EN_A2 = [
       "zh": "恐怖",
       "ru": "ужас"
     },
-    "examples": [],
-    "meta": {},
     "plural": "horrors"
   },
   {
     "id": "en_4168",
+    "lang": "en",
     "lemma": "smash",
     "pos": "Verb",
     "cefr": "A2",
@@ -41793,15 +38949,11 @@ const WORDS_EN_A2 = [
       "ja": "壊す",
       "zh": "砸碎",
       "ru": "разбивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "smash",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4169",
+    "lang": "en",
     "lemma": "smash",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41821,12 +38973,11 @@ const WORDS_EN_A2 = [
       "zh": "大成功",
       "ru": "успех"
     },
-    "examples": [],
-    "meta": {},
     "plural": "smashes"
   },
   {
     "id": "en_4170",
+    "lang": "en",
     "lemma": "contrary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41845,12 +38996,11 @@ const WORDS_EN_A2 = [
       "ja": "反対の",
       "zh": "相反的",
       "ru": "противоположный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4171",
+    "lang": "en",
     "lemma": "roses",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41870,12 +39020,11 @@ const WORDS_EN_A2 = [
       "zh": "玫瑰",
       "ru": "розы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "roses"
   },
   {
     "id": "en_4172",
+    "lang": "en",
     "lemma": "poker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41896,12 +39045,11 @@ const WORDS_EN_A2 = [
       "zh": "扑克",
       "ru": "покер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pokers"
   },
   {
     "id": "en_4173",
+    "lang": "en",
     "lemma": "korean",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41920,12 +39068,11 @@ const WORDS_EN_A2 = [
       "ja": "韓国の",
       "zh": "韩国的",
       "ru": "корейский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4174",
+    "lang": "en",
     "lemma": "focused",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41944,12 +39091,11 @@ const WORDS_EN_A2 = [
       "ja": "集中した",
       "zh": "专注的",
       "ru": "сосредоточенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4175",
+    "lang": "en",
     "lemma": "tragic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -41968,12 +39114,11 @@ const WORDS_EN_A2 = [
       "ja": "悲劇的な",
       "zh": "悲剧的",
       "ru": "трагический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4177",
+    "lang": "en",
     "lemma": "entertainment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -41994,12 +39139,11 @@ const WORDS_EN_A2 = [
       "zh": "娱乐",
       "ru": "развлечение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "entertainments"
   },
   {
     "id": "en_4178",
+    "lang": "en",
     "lemma": "yells",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42019,12 +39163,11 @@ const WORDS_EN_A2 = [
       "zh": "叫声",
       "ru": "крики"
     },
-    "examples": [],
-    "meta": {},
     "plural": "yells"
   },
   {
     "id": "en_4179",
+    "lang": "en",
     "lemma": "crossing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42045,12 +39188,11 @@ const WORDS_EN_A2 = [
       "zh": "十字路口",
       "ru": "переход"
     },
-    "examples": [],
-    "meta": {},
     "plural": "crossings"
   },
   {
     "id": "en_4180",
+    "lang": "en",
     "lemma": "blanket",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42071,12 +39213,11 @@ const WORDS_EN_A2 = [
       "zh": "毯子",
       "ru": "одеяло"
     },
-    "examples": [],
-    "meta": {},
     "plural": "blankets"
   },
   {
     "id": "en_4181",
+    "lang": "en",
     "lemma": "blanket",
     "pos": "Verb",
     "cefr": "A2",
@@ -42095,15 +39236,11 @@ const WORDS_EN_A2 = [
       "ja": "覆う",
       "zh": "覆盖",
       "ru": "покрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blanket",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4182",
+    "lang": "en",
     "lemma": "blanket",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42122,12 +39259,11 @@ const WORDS_EN_A2 = [
       "ja": "包括的な",
       "zh": "全面的",
       "ru": "всеобъемлющий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4183",
+    "lang": "en",
     "lemma": "nut",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42148,12 +39284,11 @@ const WORDS_EN_A2 = [
       "zh": "坚果",
       "ru": "орех"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nuts"
   },
   {
     "id": "en_4186",
+    "lang": "en",
     "lemma": "limited",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42172,12 +39307,11 @@ const WORDS_EN_A2 = [
       "ja": "限定的な",
       "zh": "有限的",
       "ru": "ограниченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4187",
+    "lang": "en",
     "lemma": "paintings",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42197,12 +39331,11 @@ const WORDS_EN_A2 = [
       "zh": "绘画",
       "ru": "картина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "paintings"
   },
   {
     "id": "en_4188",
+    "lang": "en",
     "lemma": "sober",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42221,12 +39354,11 @@ const WORDS_EN_A2 = [
       "ja": "酔っていない",
       "zh": "清醒的",
       "ru": "трезвый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4190",
+    "lang": "en",
     "lemma": "intended",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42245,12 +39377,11 @@ const WORDS_EN_A2 = [
       "ja": "意図された",
       "zh": "有意的",
       "ru": "намеренный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4191",
+    "lang": "en",
     "lemma": "niece",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42271,12 +39402,11 @@ const WORDS_EN_A2 = [
       "zh": "侄女",
       "ru": "племянница"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nieces"
   },
   {
     "id": "en_4193",
+    "lang": "en",
     "lemma": "tennis",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42297,12 +39427,11 @@ const WORDS_EN_A2 = [
       "zh": "网球",
       "ru": "теннис"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4194",
+    "lang": "en",
     "lemma": "needle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42323,12 +39452,11 @@ const WORDS_EN_A2 = [
       "zh": "针",
       "ru": "игла"
     },
-    "examples": [],
-    "meta": {},
     "plural": "needles"
   },
   {
     "id": "en_4197",
+    "lang": "en",
     "lemma": "traditional",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42347,12 +39475,11 @@ const WORDS_EN_A2 = [
       "ja": "伝統的な",
       "zh": "传统的",
       "ru": "традиционный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4198",
+    "lang": "en",
     "lemma": "delicate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42371,12 +39498,11 @@ const WORDS_EN_A2 = [
       "ja": "繊細な",
       "zh": "精致的",
       "ru": "деликатный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4199",
+    "lang": "en",
     "lemma": "independent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42395,12 +39521,11 @@ const WORDS_EN_A2 = [
       "ja": "独立した",
       "zh": "独立的",
       "ru": "независимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4200",
+    "lang": "en",
     "lemma": "independent",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42420,12 +39545,11 @@ const WORDS_EN_A2 = [
       "zh": "独立的人",
       "ru": "независимый человек"
     },
-    "examples": [],
-    "meta": {},
     "plural": "independents"
   },
   {
     "id": "en_4201",
+    "lang": "en",
     "lemma": "grandson",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42446,12 +39570,11 @@ const WORDS_EN_A2 = [
       "zh": "孙子",
       "ru": "внук"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grandsons"
   },
   {
     "id": "en_4202",
+    "lang": "en",
     "lemma": "repair",
     "pos": "Verb",
     "cefr": "A2",
@@ -42471,15 +39594,11 @@ const WORDS_EN_A2 = [
       "ja": "修理する",
       "zh": "修理",
       "ru": "чинить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "repair",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4203",
+    "lang": "en",
     "lemma": "repair",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42500,12 +39619,11 @@ const WORDS_EN_A2 = [
       "zh": "修理",
       "ru": "ремонт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "repairs"
   },
   {
     "id": "en_4205",
+    "lang": "en",
     "lemma": "executive",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42525,12 +39643,11 @@ const WORDS_EN_A2 = [
       "zh": "主管",
       "ru": "руководитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "executives"
   },
   {
     "id": "en_4206",
+    "lang": "en",
     "lemma": "weakness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42550,12 +39667,11 @@ const WORDS_EN_A2 = [
       "zh": "弱点",
       "ru": "слабость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "weaknesses"
   },
   {
     "id": "en_4208",
+    "lang": "en",
     "lemma": "european",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42576,12 +39692,11 @@ const WORDS_EN_A2 = [
       "zh": "欧洲人",
       "ru": "европеец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "europeans"
   },
   {
     "id": "en_4209",
+    "lang": "en",
     "lemma": "european",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42600,12 +39715,11 @@ const WORDS_EN_A2 = [
       "ja": "ヨーロッパの",
       "zh": "欧洲的",
       "ru": "европейский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4210",
+    "lang": "en",
     "lemma": "method",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42625,12 +39739,11 @@ const WORDS_EN_A2 = [
       "zh": "方法",
       "ru": "метод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "methods"
   },
   {
     "id": "en_4211",
+    "lang": "en",
     "lemma": "tool",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42651,12 +39764,11 @@ const WORDS_EN_A2 = [
       "zh": "工具",
       "ru": "инструмент"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tools"
   },
   {
     "id": "en_4214",
+    "lang": "en",
     "lemma": "permit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42677,12 +39789,11 @@ const WORDS_EN_A2 = [
       "zh": "许可证",
       "ru": "разрешение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "permits"
   },
   {
     "id": "en_4215",
+    "lang": "en",
     "lemma": "permit",
     "pos": "Verb",
     "cefr": "A2",
@@ -42701,15 +39812,11 @@ const WORDS_EN_A2 = [
       "ja": "許可する",
       "zh": "允许",
       "ru": "разрешать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "permit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4216",
+    "lang": "en",
     "lemma": "towel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42730,12 +39837,11 @@ const WORDS_EN_A2 = [
       "zh": "毛巾",
       "ru": "полотенце"
     },
-    "examples": [],
-    "meta": {},
     "plural": "towels"
   },
   {
     "id": "en_4217",
+    "lang": "en",
     "lemma": "daisy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42756,12 +39862,11 @@ const WORDS_EN_A2 = [
       "zh": "雏菊",
       "ru": "маргаритка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "daisies"
   },
   {
     "id": "en_4218",
+    "lang": "en",
     "lemma": "spider",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42782,12 +39887,11 @@ const WORDS_EN_A2 = [
       "zh": "蜘蛛",
       "ru": "паук"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spiders"
   },
   {
     "id": "en_4219",
+    "lang": "en",
     "lemma": "northern",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42806,12 +39910,11 @@ const WORDS_EN_A2 = [
       "ja": "北の",
       "zh": "北方的",
       "ru": "северный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4221",
+    "lang": "en",
     "lemma": "zoo",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42832,12 +39935,11 @@ const WORDS_EN_A2 = [
       "zh": "动物园",
       "ru": "зоопарк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "zoos"
   },
   {
     "id": "en_4223",
+    "lang": "en",
     "lemma": "con",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42857,12 +39959,11 @@ const WORDS_EN_A2 = [
       "zh": "缺点",
       "ru": "недостаток"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cons"
   },
   {
     "id": "en_4224",
+    "lang": "en",
     "lemma": "con",
     "pos": "Verb",
     "cefr": "A2",
@@ -42881,15 +39982,11 @@ const WORDS_EN_A2 = [
       "ja": "詐欺する",
       "zh": "欺骗",
       "ru": "обманывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "con",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4225",
+    "lang": "en",
     "lemma": "technique",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42909,12 +40006,11 @@ const WORDS_EN_A2 = [
       "zh": "技巧",
       "ru": "техника"
     },
-    "examples": [],
-    "meta": {},
     "plural": "techniques"
   },
   {
     "id": "en_4228",
+    "lang": "en",
     "lemma": "bunny",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42935,12 +40031,11 @@ const WORDS_EN_A2 = [
       "zh": "兔子",
       "ru": "кролик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bunnies"
   },
   {
     "id": "en_4230",
+    "lang": "en",
     "lemma": "skill",
     "pos": "Nomen",
     "cefr": "A2",
@@ -42961,12 +40056,11 @@ const WORDS_EN_A2 = [
       "zh": "技能",
       "ru": "навык"
     },
-    "examples": [],
-    "meta": {},
     "plural": "skills"
   },
   {
     "id": "en_4233",
+    "lang": "en",
     "lemma": "petty",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -42985,12 +40079,11 @@ const WORDS_EN_A2 = [
       "ja": "つまらない",
       "zh": "琐碎的",
       "ru": "мелочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4234",
+    "lang": "en",
     "lemma": "massage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43011,12 +40104,11 @@ const WORDS_EN_A2 = [
       "zh": "按摩",
       "ru": "массаж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "massages"
   },
   {
     "id": "en_4235",
+    "lang": "en",
     "lemma": "massage",
     "pos": "Verb",
     "cefr": "A2",
@@ -43036,15 +40128,11 @@ const WORDS_EN_A2 = [
       "ja": "マッサージする",
       "zh": "按摩",
       "ru": "массировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "massage",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4236",
+    "lang": "en",
     "lemma": "menu",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43065,12 +40153,11 @@ const WORDS_EN_A2 = [
       "zh": "菜单",
       "ru": "меню"
     },
-    "examples": [],
-    "meta": {},
     "plural": "menus"
   },
   {
     "id": "en_4237",
+    "lang": "en",
     "lemma": "diary",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43090,12 +40177,11 @@ const WORDS_EN_A2 = [
       "zh": "日记",
       "ru": "дневник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "diaries"
   },
   {
     "id": "en_4239",
+    "lang": "en",
     "lemma": "wagon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43115,12 +40201,11 @@ const WORDS_EN_A2 = [
       "zh": "马车",
       "ru": "повозка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wagons"
   },
   {
     "id": "en_4240",
+    "lang": "en",
     "lemma": "audition",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43140,12 +40225,11 @@ const WORDS_EN_A2 = [
       "zh": "试镜",
       "ru": "прослушивание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "auditions"
   },
   {
     "id": "en_4241",
+    "lang": "en",
     "lemma": "audition",
     "pos": "Verb",
     "cefr": "A2",
@@ -43164,15 +40248,11 @@ const WORDS_EN_A2 = [
       "ja": "オーディションを受ける",
       "zh": "参加试镜",
       "ru": "проходить прослушивание"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "audition",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4243",
+    "lang": "en",
     "lemma": "mexican",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43191,12 +40271,11 @@ const WORDS_EN_A2 = [
       "ja": "メキシコの",
       "zh": "墨西哥的",
       "ru": "мексиканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4244",
+    "lang": "en",
     "lemma": "casino",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43217,12 +40296,11 @@ const WORDS_EN_A2 = [
       "zh": "赌场",
       "ru": "казино"
     },
-    "examples": [],
-    "meta": {},
     "plural": "casinos or casinoes"
   },
   {
     "id": "en_4245",
+    "lang": "en",
     "lemma": "bacon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43243,12 +40321,11 @@ const WORDS_EN_A2 = [
       "zh": "培根",
       "ru": "бекон"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bacons"
   },
   {
     "id": "en_4246",
+    "lang": "en",
     "lemma": "dutch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43267,12 +40344,11 @@ const WORDS_EN_A2 = [
       "ja": "オランダの",
       "zh": "荷兰的",
       "ru": "нидерландский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4248",
+    "lang": "en",
     "lemma": "promotion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43292,12 +40368,11 @@ const WORDS_EN_A2 = [
       "zh": "晋升",
       "ru": "повышение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "promotions"
   },
   {
     "id": "en_4249",
+    "lang": "en",
     "lemma": "click",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43318,12 +40393,11 @@ const WORDS_EN_A2 = [
       "zh": "点击",
       "ru": "клик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clicks"
   },
   {
     "id": "en_4250",
+    "lang": "en",
     "lemma": "click",
     "pos": "Verb",
     "cefr": "A2",
@@ -43343,15 +40417,11 @@ const WORDS_EN_A2 = [
       "ja": "クリックする",
       "zh": "点击",
       "ru": "щелкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "click",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4251",
+    "lang": "en",
     "lemma": "forgiveness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43371,12 +40441,11 @@ const WORDS_EN_A2 = [
       "zh": "原谅",
       "ru": "прощение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "forgivenesses"
   },
   {
     "id": "en_4252",
+    "lang": "en",
     "lemma": "burst",
     "pos": "Verb",
     "cefr": "A2",
@@ -43396,15 +40465,11 @@ const WORDS_EN_A2 = [
       "ja": "破裂する",
       "zh": "爆裂",
       "ru": "лопаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "burst",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4253",
+    "lang": "en",
     "lemma": "burst",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43425,12 +40490,11 @@ const WORDS_EN_A2 = [
       "zh": "爆炸",
       "ru": "взрыв"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bursts"
   },
   {
     "id": "en_4254",
+    "lang": "en",
     "lemma": "permanent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43449,12 +40513,11 @@ const WORDS_EN_A2 = [
       "ja": "永久的な",
       "zh": "永久的",
       "ru": "постоянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4255",
+    "lang": "en",
     "lemma": "interfere",
     "pos": "Verb",
     "cefr": "A2",
@@ -43473,15 +40536,11 @@ const WORDS_EN_A2 = [
       "ja": "干渉する",
       "zh": "干涉",
       "ru": "вмешиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "interfere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4256",
+    "lang": "en",
     "lemma": "sunny",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43501,12 +40560,11 @@ const WORDS_EN_A2 = [
       "ja": "晴れた",
       "zh": "晴朗的",
       "ru": "солнечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4257",
+    "lang": "en",
     "lemma": "packing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43527,12 +40585,11 @@ const WORDS_EN_A2 = [
       "zh": "包装材料",
       "ru": "упаковка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "packings"
   },
   {
     "id": "en_4259",
+    "lang": "en",
     "lemma": "questioning",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43552,12 +40609,11 @@ const WORDS_EN_A2 = [
       "zh": "审问",
       "ru": "допрос"
     },
-    "examples": [],
-    "meta": {},
     "plural": "questionings"
   },
   {
     "id": "en_4260",
+    "lang": "en",
     "lemma": "unfair",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43576,12 +40632,11 @@ const WORDS_EN_A2 = [
       "ja": "不公正な",
       "zh": "不公平的",
       "ru": "несправедливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4262",
+    "lang": "en",
     "lemma": "polite",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43600,12 +40655,11 @@ const WORDS_EN_A2 = [
       "ja": "丁寧な",
       "zh": "礼貌的",
       "ru": "вежливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4263",
+    "lang": "en",
     "lemma": "swallow",
     "pos": "Verb",
     "cefr": "A2",
@@ -43625,15 +40679,11 @@ const WORDS_EN_A2 = [
       "ja": "飲み込む",
       "zh": "吞咽",
       "ru": "глотать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "swallow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4264",
+    "lang": "en",
     "lemma": "swallow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43654,12 +40704,11 @@ const WORDS_EN_A2 = [
       "zh": "燕子",
       "ru": "ласточка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "swallows"
   },
   {
     "id": "en_4265",
+    "lang": "en",
     "lemma": "conduct",
     "pos": "Verb",
     "cefr": "A2",
@@ -43678,15 +40727,11 @@ const WORDS_EN_A2 = [
       "ja": "実行する",
       "zh": "进行",
       "ru": "проводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "conduct",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4266",
+    "lang": "en",
     "lemma": "conduct",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43706,12 +40751,11 @@ const WORDS_EN_A2 = [
       "zh": "行为",
       "ru": "поведение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "conducts"
   },
   {
     "id": "en_4268",
+    "lang": "en",
     "lemma": "sheet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43732,12 +40776,11 @@ const WORDS_EN_A2 = [
       "zh": "床单",
       "ru": "простыня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sheets"
   },
   {
     "id": "en_4269",
+    "lang": "en",
     "lemma": "fried",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43757,12 +40800,11 @@ const WORDS_EN_A2 = [
       "ja": "揚げた",
       "zh": "炸的",
       "ru": "жареный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4270",
+    "lang": "en",
     "lemma": "avenue",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43783,12 +40825,11 @@ const WORDS_EN_A2 = [
       "zh": "林荫大道",
       "ru": "авеню"
     },
-    "examples": [],
-    "meta": {},
     "plural": "avenues"
   },
   {
     "id": "en_4271",
+    "lang": "en",
     "lemma": "reverse",
     "pos": "Verb",
     "cefr": "A2",
@@ -43809,15 +40850,11 @@ const WORDS_EN_A2 = [
       "ja": "逆にする",
       "zh": "反向",
       "ru": "развернуться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reverse",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4272",
+    "lang": "en",
     "lemma": "reverse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43837,12 +40874,11 @@ const WORDS_EN_A2 = [
       "zh": "反面",
       "ru": "обратная сторона"
     },
-    "examples": [],
-    "meta": {},
     "plural": "reverses"
   },
   {
     "id": "en_4274",
+    "lang": "en",
     "lemma": "ford",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43863,12 +40899,11 @@ const WORDS_EN_A2 = [
       "zh": "浅滩",
       "ru": "брод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fords"
   },
   {
     "id": "en_4275",
+    "lang": "en",
     "lemma": "ford",
     "pos": "Verb",
     "cefr": "A2",
@@ -43888,15 +40923,11 @@ const WORDS_EN_A2 = [
       "ja": "浅瀬を渡る",
       "zh": "涉水",
       "ru": "переходить вброд"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ford",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4277",
+    "lang": "en",
     "lemma": "investment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43916,12 +40947,11 @@ const WORDS_EN_A2 = [
       "zh": "投资",
       "ru": "инвестиция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "investments"
   },
   {
     "id": "en_4278",
+    "lang": "en",
     "lemma": "absurd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -43940,12 +40970,11 @@ const WORDS_EN_A2 = [
       "ja": "不合理な",
       "zh": "荒谬的",
       "ru": "абсурдный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4279",
+    "lang": "en",
     "lemma": "potato",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43966,12 +40995,11 @@ const WORDS_EN_A2 = [
       "zh": "土豆",
       "ru": "картофель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "potatoes"
   },
   {
     "id": "en_4281",
+    "lang": "en",
     "lemma": "ruby",
     "pos": "Nomen",
     "cefr": "A2",
@@ -43991,12 +41019,11 @@ const WORDS_EN_A2 = [
       "zh": "红宝石",
       "ru": "рубин"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rubies"
   },
   {
     "id": "en_4282",
+    "lang": "en",
     "lemma": "tag",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44018,12 +41045,11 @@ const WORDS_EN_A2 = [
       "zh": "标签",
       "ru": "ярлык"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tags"
   },
   {
     "id": "en_4283",
+    "lang": "en",
     "lemma": "tag",
     "pos": "Verb",
     "cefr": "A2",
@@ -44044,15 +41070,11 @@ const WORDS_EN_A2 = [
       "ja": "タグを付ける",
       "zh": "贴标签",
       "ru": "помечать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tag",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4284",
+    "lang": "en",
     "lemma": "ram",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44073,12 +41095,11 @@ const WORDS_EN_A2 = [
       "zh": "公羊",
       "ru": "баран"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rams"
   },
   {
     "id": "en_4285",
+    "lang": "en",
     "lemma": "ram",
     "pos": "Verb",
     "cefr": "A2",
@@ -44097,15 +41118,11 @@ const WORDS_EN_A2 = [
       "ja": "衝突させる",
       "zh": "撞击",
       "ru": "таранить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ram",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4287",
+    "lang": "en",
     "lemma": "hooked",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -44124,12 +41141,11 @@ const WORDS_EN_A2 = [
       "ja": "中毒した",
       "zh": "上瘾的",
       "ru": "зависимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4288",
+    "lang": "en",
     "lemma": "ranch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44150,12 +41166,11 @@ const WORDS_EN_A2 = [
       "zh": "牧场",
       "ru": "ранчо"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ranches"
   },
   {
     "id": "en_4289",
+    "lang": "en",
     "lemma": "ranch",
     "pos": "Verb",
     "cefr": "A2",
@@ -44174,15 +41189,11 @@ const WORDS_EN_A2 = [
       "ja": "牧場を経営する",
       "zh": "经营牧场",
       "ru": "заниматься скотоводством"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ranch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4290",
+    "lang": "en",
     "lemma": "safer",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -44202,12 +41213,11 @@ const WORDS_EN_A2 = [
       "ja": "より安全な",
       "zh": "更安全的",
       "ru": "более безопасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4293",
+    "lang": "en",
     "lemma": "ash",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44228,12 +41238,11 @@ const WORDS_EN_A2 = [
       "zh": "灰烬",
       "ru": "зола"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ashes"
   },
   {
     "id": "en_4294",
+    "lang": "en",
     "lemma": "leather",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44254,12 +41263,11 @@ const WORDS_EN_A2 = [
       "zh": "皮革",
       "ru": "кожа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "leathers"
   },
   {
     "id": "en_4298",
+    "lang": "en",
     "lemma": "conspiracy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44279,12 +41287,11 @@ const WORDS_EN_A2 = [
       "zh": "阴谋",
       "ru": "заговор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "conspiracies"
   },
   {
     "id": "en_4299",
+    "lang": "en",
     "lemma": "guardian",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44304,12 +41311,11 @@ const WORDS_EN_A2 = [
       "zh": "监护人",
       "ru": "опекун"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guardians"
   },
   {
     "id": "en_4302",
+    "lang": "en",
     "lemma": "terror",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44329,12 +41335,11 @@ const WORDS_EN_A2 = [
       "zh": "恐怖",
       "ru": "террор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "terrors"
   },
   {
     "id": "en_4303",
+    "lang": "en",
     "lemma": "misunderstanding",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44354,12 +41359,11 @@ const WORDS_EN_A2 = [
       "zh": "误解",
       "ru": "недоразумение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "misunderstandings"
   },
   {
     "id": "en_4304",
+    "lang": "en",
     "lemma": "tire",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44380,12 +41384,11 @@ const WORDS_EN_A2 = [
       "zh": "轮胎",
       "ru": "шина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tires"
   },
   {
     "id": "en_4305",
+    "lang": "en",
     "lemma": "tire",
     "pos": "Verb",
     "cefr": "A2",
@@ -44405,15 +41408,11 @@ const WORDS_EN_A2 = [
       "ja": "疲れる",
       "zh": "疲劳",
       "ru": "утомляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4307",
+    "lang": "en",
     "lemma": "parade",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44433,12 +41432,11 @@ const WORDS_EN_A2 = [
       "zh": "游行",
       "ru": "парад"
     },
-    "examples": [],
-    "meta": {},
     "plural": "parades"
   },
   {
     "id": "en_4308",
+    "lang": "en",
     "lemma": "parade",
     "pos": "Verb",
     "cefr": "A2",
@@ -44457,15 +41455,11 @@ const WORDS_EN_A2 = [
       "ja": "パレードする",
       "zh": "游行",
       "ru": "парадировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "parade",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4309",
+    "lang": "en",
     "lemma": "halt",
     "pos": "Verb",
     "cefr": "A2",
@@ -44485,15 +41479,11 @@ const WORDS_EN_A2 = [
       "ja": "止まる",
       "zh": "停止",
       "ru": "остановиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "halt",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4310",
+    "lang": "en",
     "lemma": "immunity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44514,12 +41504,11 @@ const WORDS_EN_A2 = [
       "zh": "免疫",
       "ru": "иммунитет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "immunities"
   },
   {
     "id": "en_4312",
+    "lang": "en",
     "lemma": "steam",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44540,12 +41529,11 @@ const WORDS_EN_A2 = [
       "zh": "蒸汽",
       "ru": "пар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "steams"
   },
   {
     "id": "en_4313",
+    "lang": "en",
     "lemma": "steam",
     "pos": "Verb",
     "cefr": "A2",
@@ -44565,15 +41553,11 @@ const WORDS_EN_A2 = [
       "ja": "蒸す",
       "zh": "蒸",
       "ru": "готовить на пару"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "steam",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4314",
+    "lang": "en",
     "lemma": "pearl",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44593,12 +41577,11 @@ const WORDS_EN_A2 = [
       "zh": "珍珠",
       "ru": "жемчуг"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pearls"
   },
   {
     "id": "en_4316",
+    "lang": "en",
     "lemma": "soccer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44619,12 +41602,11 @@ const WORDS_EN_A2 = [
       "zh": "足球",
       "ru": "футбол"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4317",
+    "lang": "en",
     "lemma": "priority",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44644,12 +41626,11 @@ const WORDS_EN_A2 = [
       "zh": "优先级",
       "ru": "приоритет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "priorities"
   },
   {
     "id": "en_4319",
+    "lang": "en",
     "lemma": "happier",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -44669,12 +41650,11 @@ const WORDS_EN_A2 = [
       "ja": "より幸せな",
       "zh": "更快乐的",
       "ru": "счастливее"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4321",
+    "lang": "en",
     "lemma": "root",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44695,12 +41675,11 @@ const WORDS_EN_A2 = [
       "zh": "根",
       "ru": "корень"
     },
-    "examples": [],
-    "meta": {},
     "plural": "roots"
   },
   {
     "id": "en_4323",
+    "lang": "en",
     "lemma": "larger",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -44720,12 +41699,11 @@ const WORDS_EN_A2 = [
       "ja": "より大きい",
       "zh": "更大的",
       "ru": "больше"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4324",
+    "lang": "en",
     "lemma": "boot",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44746,12 +41724,11 @@ const WORDS_EN_A2 = [
       "zh": "靴子",
       "ru": "сапог"
     },
-    "examples": [],
-    "meta": {},
     "plural": "boots"
   },
   {
     "id": "en_4325",
+    "lang": "en",
     "lemma": "boot",
     "pos": "Verb",
     "cefr": "A2",
@@ -44770,15 +41747,11 @@ const WORDS_EN_A2 = [
       "ja": "追い出す",
       "zh": "驱逐",
       "ru": "выгонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boot",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4326",
+    "lang": "en",
     "lemma": "conflict",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44798,12 +41771,11 @@ const WORDS_EN_A2 = [
       "zh": "冲突",
       "ru": "конфликт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "conflicts"
   },
   {
     "id": "en_4327",
+    "lang": "en",
     "lemma": "conflict",
     "pos": "Verb",
     "cefr": "A2",
@@ -44822,15 +41794,11 @@ const WORDS_EN_A2 = [
       "ja": "衝突する",
       "zh": "冲突",
       "ru": "конфликтовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "conflict",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4328",
+    "lang": "en",
     "lemma": "cherry",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44851,12 +41819,11 @@ const WORDS_EN_A2 = [
       "zh": "樱桃",
       "ru": "вишня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cherries"
   },
   {
     "id": "en_4330",
+    "lang": "en",
     "lemma": "celebration",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44877,12 +41844,11 @@ const WORDS_EN_A2 = [
       "zh": "庆祝",
       "ru": "праздник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "celebrations"
   },
   {
     "id": "en_4332",
+    "lang": "en",
     "lemma": "unconscious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -44901,12 +41867,11 @@ const WORDS_EN_A2 = [
       "ja": "意識不明の",
       "zh": "无意识的",
       "ru": "бессознательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4333",
+    "lang": "en",
     "lemma": "cattle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44927,12 +41892,11 @@ const WORDS_EN_A2 = [
       "zh": "牲畜",
       "ru": "скот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4335",
+    "lang": "en",
     "lemma": "fee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -44953,12 +41917,11 @@ const WORDS_EN_A2 = [
       "zh": "费用",
       "ru": "сбор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fees"
   },
   {
     "id": "en_4336",
+    "lang": "en",
     "lemma": "recognise",
     "pos": "Verb",
     "cefr": "A2",
@@ -44977,15 +41940,11 @@ const WORDS_EN_A2 = [
       "ja": "認識する",
       "zh": "认识",
       "ru": "узнавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "recognise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4337",
+    "lang": "en",
     "lemma": "wade",
     "pos": "Verb",
     "cefr": "A2",
@@ -45005,15 +41964,11 @@ const WORDS_EN_A2 = [
       "ja": "水を歩く",
       "zh": "涉水",
       "ru": "брести"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wade",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4341",
+    "lang": "en",
     "lemma": "register",
     "pos": "Verb",
     "cefr": "A2",
@@ -45033,15 +41988,11 @@ const WORDS_EN_A2 = [
       "ja": "登録する",
       "zh": "注册",
       "ru": "регистрировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "register",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4342",
+    "lang": "en",
     "lemma": "register",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45061,12 +42012,11 @@ const WORDS_EN_A2 = [
       "zh": "登记簿",
       "ru": "реестр"
     },
-    "examples": [],
-    "meta": {},
     "plural": "registers"
   },
   {
     "id": "en_4344",
+    "lang": "en",
     "lemma": "ideal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45085,12 +42035,11 @@ const WORDS_EN_A2 = [
       "ja": "理想的な",
       "zh": "理想的",
       "ru": "идеальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4345",
+    "lang": "en",
     "lemma": "ideal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45110,12 +42059,11 @@ const WORDS_EN_A2 = [
       "zh": "理想",
       "ru": "идеал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ideals"
   },
   {
     "id": "en_4346",
+    "lang": "en",
     "lemma": "turtle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45136,12 +42084,11 @@ const WORDS_EN_A2 = [
       "zh": "乌龟",
       "ru": "черепаха"
     },
-    "examples": [],
-    "meta": {},
     "plural": "turtles"
   },
   {
     "id": "en_4347",
+    "lang": "en",
     "lemma": "spoil",
     "pos": "Verb",
     "cefr": "A2",
@@ -45161,15 +42108,11 @@ const WORDS_EN_A2 = [
       "ja": "腐る",
       "zh": "变坏",
       "ru": "портиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spoil",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4348",
+    "lang": "en",
     "lemma": "candidate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45189,12 +42132,11 @@ const WORDS_EN_A2 = [
       "zh": "候选人",
       "ru": "кандидат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "candidates"
   },
   {
     "id": "en_4351",
+    "lang": "en",
     "lemma": "explode",
     "pos": "Verb",
     "cefr": "A2",
@@ -45214,15 +42156,11 @@ const WORDS_EN_A2 = [
       "ja": "爆発する",
       "zh": "爆炸",
       "ru": "взрываться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "explode",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4352",
+    "lang": "en",
     "lemma": "immediate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45241,12 +42179,11 @@ const WORDS_EN_A2 = [
       "ja": "即座の",
       "zh": "立即的",
       "ru": "немедленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4353",
+    "lang": "en",
     "lemma": "hunger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45267,12 +42204,11 @@ const WORDS_EN_A2 = [
       "zh": "饥饿",
       "ru": "голод"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hungers"
   },
   {
     "id": "en_4354",
+    "lang": "en",
     "lemma": "closest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45291,12 +42227,11 @@ const WORDS_EN_A2 = [
       "ja": "最も近い",
       "zh": "最近的",
       "ru": "ближайший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4355",
+    "lang": "en",
     "lemma": "combination",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45316,12 +42251,11 @@ const WORDS_EN_A2 = [
       "zh": "组合",
       "ru": "комбинация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "combinations"
   },
   {
     "id": "en_4356",
+    "lang": "en",
     "lemma": "nanny",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45342,12 +42276,11 @@ const WORDS_EN_A2 = [
       "zh": "保姆",
       "ru": "няня"
     },
-    "examples": [],
-    "meta": {},
     "plural": "nannies"
   },
   {
     "id": "en_4357",
+    "lang": "en",
     "lemma": "develop",
     "pos": "Verb",
     "cefr": "A2",
@@ -45366,15 +42299,11 @@ const WORDS_EN_A2 = [
       "ja": "発展させる",
       "zh": "发展",
       "ru": "развивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "develop",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4359",
+    "lang": "en",
     "lemma": "severe",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45393,12 +42322,11 @@ const WORDS_EN_A2 = [
       "ja": "厳しい",
       "zh": "严重的",
       "ru": "суровый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4360",
+    "lang": "en",
     "lemma": "organized",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45418,12 +42346,11 @@ const WORDS_EN_A2 = [
       "ja": "整理された",
       "zh": "有序的",
       "ru": "организованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4361",
+    "lang": "en",
     "lemma": "gut",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45444,12 +42371,11 @@ const WORDS_EN_A2 = [
       "zh": "肚子",
       "ru": "живот"
     },
-    "examples": [],
-    "meta": {},
     "plural": "guts"
   },
   {
     "id": "en_4362",
+    "lang": "en",
     "lemma": "gut",
     "pos": "Verb",
     "cefr": "A2",
@@ -45468,15 +42394,11 @@ const WORDS_EN_A2 = [
       "ja": "内臓を取り除く",
       "zh": "去内脏",
       "ru": "потрошить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gut",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4363",
+    "lang": "en",
     "lemma": "splendid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45495,12 +42417,11 @@ const WORDS_EN_A2 = [
       "ja": "素晴らしい",
       "zh": "壮丽的",
       "ru": "великолепный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4364",
+    "lang": "en",
     "lemma": "vulnerable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45519,12 +42440,11 @@ const WORDS_EN_A2 = [
       "ja": "傷つきやすい",
       "zh": "易受伤害的",
       "ru": "уязвимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4365",
+    "lang": "en",
     "lemma": "vital",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45543,12 +42463,11 @@ const WORDS_EN_A2 = [
       "ja": "重要な",
       "zh": "至关重要的",
       "ru": "жизненно важный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4368",
+    "lang": "en",
     "lemma": "drawer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45569,12 +42488,11 @@ const WORDS_EN_A2 = [
       "zh": "抽屉",
       "ru": "ящик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "drawers"
   },
   {
     "id": "en_4369",
+    "lang": "en",
     "lemma": "retreat",
     "pos": "Verb",
     "cefr": "A2",
@@ -45593,15 +42511,11 @@ const WORDS_EN_A2 = [
       "ja": "後退する",
       "zh": "撤退",
       "ru": "отступать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "retreat",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4371",
+    "lang": "en",
     "lemma": "pillow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45622,12 +42536,11 @@ const WORDS_EN_A2 = [
       "zh": "枕头",
       "ru": "подушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "pillows"
   },
   {
     "id": "en_4372",
+    "lang": "en",
     "lemma": "ace",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45648,12 +42561,11 @@ const WORDS_EN_A2 = [
       "zh": "王牌",
       "ru": "туз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aces"
   },
   {
     "id": "en_4373",
+    "lang": "en",
     "lemma": "cart",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45674,12 +42586,11 @@ const WORDS_EN_A2 = [
       "zh": "车",
       "ru": "тележка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "carts"
   },
   {
     "id": "en_4374",
+    "lang": "en",
     "lemma": "cart",
     "pos": "Verb",
     "cefr": "A2",
@@ -45699,15 +42610,11 @@ const WORDS_EN_A2 = [
       "ja": "運ぶ",
       "zh": "运输",
       "ru": "везти"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cart",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4375",
+    "lang": "en",
     "lemma": "nap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45728,12 +42635,11 @@ const WORDS_EN_A2 = [
       "zh": "小睡",
       "ru": "дремота"
     },
-    "examples": [],
-    "meta": {},
     "plural": "naps"
   },
   {
     "id": "en_4376",
+    "lang": "en",
     "lemma": "nap",
     "pos": "Verb",
     "cefr": "A2",
@@ -45753,15 +42659,11 @@ const WORDS_EN_A2 = [
       "ja": "昼寝をする",
       "zh": "打盹",
       "ru": "дремать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4377",
+    "lang": "en",
     "lemma": "ham",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45782,12 +42684,11 @@ const WORDS_EN_A2 = [
       "zh": "火腿",
       "ru": "ветчина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hams"
   },
   {
     "id": "en_4378",
+    "lang": "en",
     "lemma": "announce",
     "pos": "Verb",
     "cefr": "A2",
@@ -45807,15 +42708,11 @@ const WORDS_EN_A2 = [
       "ja": "発表する",
       "zh": "宣布",
       "ru": "объявлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "announce",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4379",
+    "lang": "en",
     "lemma": "galaxy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45835,12 +42732,11 @@ const WORDS_EN_A2 = [
       "zh": "星系",
       "ru": "галактика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "galaxies"
   },
   {
     "id": "en_4382",
+    "lang": "en",
     "lemma": "luggage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45861,12 +42757,11 @@ const WORDS_EN_A2 = [
       "zh": "行李",
       "ru": "багаж"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4383",
+    "lang": "en",
     "lemma": "groom",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45887,12 +42782,11 @@ const WORDS_EN_A2 = [
       "zh": "新郎",
       "ru": "жених"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grooms"
   },
   {
     "id": "en_4384",
+    "lang": "en",
     "lemma": "groom",
     "pos": "Verb",
     "cefr": "A2",
@@ -45912,15 +42806,11 @@ const WORDS_EN_A2 = [
       "ja": "手入れする",
       "zh": "梳理",
       "ru": "ухаживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "groom",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4385",
+    "lang": "en",
     "lemma": "lighter",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -45939,12 +42829,11 @@ const WORDS_EN_A2 = [
       "ja": "より軽い",
       "zh": "更轻的",
       "ru": "легче"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4386",
+    "lang": "en",
     "lemma": "lighter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45965,12 +42854,11 @@ const WORDS_EN_A2 = [
       "zh": "打火机",
       "ru": "зажигалка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lighters"
   },
   {
     "id": "en_4388",
+    "lang": "en",
     "lemma": "alliance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -45990,12 +42878,11 @@ const WORDS_EN_A2 = [
       "zh": "联盟",
       "ru": "союз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "alliances"
   },
   {
     "id": "en_4389",
+    "lang": "en",
     "lemma": "clothing",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46016,12 +42903,11 @@ const WORDS_EN_A2 = [
       "zh": "衣服",
       "ru": "одежда"
     },
-    "examples": [],
-    "meta": {},
     "plural": "clothings"
   },
   {
     "id": "en_4390",
+    "lang": "en",
     "lemma": "drown",
     "pos": "Verb",
     "cefr": "A2",
@@ -46040,15 +42926,11 @@ const WORDS_EN_A2 = [
       "ja": "溺れる",
       "zh": "溺水",
       "ru": "тонуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drown",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4391",
+    "lang": "en",
     "lemma": "alike",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46067,12 +42949,11 @@ const WORDS_EN_A2 = [
       "ja": "似ている",
       "zh": "相似的",
       "ru": "похожий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4392",
+    "lang": "en",
     "lemma": "relative",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46091,12 +42972,11 @@ const WORDS_EN_A2 = [
       "ja": "相対的な",
       "zh": "相对的",
       "ru": "относительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4393",
+    "lang": "en",
     "lemma": "relative",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46117,12 +42997,11 @@ const WORDS_EN_A2 = [
       "zh": "亲戚",
       "ru": "родственник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "relatives"
   },
   {
     "id": "en_4395",
+    "lang": "en",
     "lemma": "burger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46143,12 +43022,11 @@ const WORDS_EN_A2 = [
       "zh": "汉堡",
       "ru": "бургер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "burgers"
   },
   {
     "id": "en_4396",
+    "lang": "en",
     "lemma": "dough",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46169,12 +43047,11 @@ const WORDS_EN_A2 = [
       "zh": "面团",
       "ru": "тесто"
     },
-    "examples": [],
-    "meta": {},
     "plural": "doughs"
   },
   {
     "id": "en_4397",
+    "lang": "en",
     "lemma": "wreck",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46194,12 +43071,11 @@ const WORDS_EN_A2 = [
       "zh": "残骸",
       "ru": "обломки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wrecks"
   },
   {
     "id": "en_4398",
+    "lang": "en",
     "lemma": "wreck",
     "pos": "Verb",
     "cefr": "A2",
@@ -46218,15 +43094,11 @@ const WORDS_EN_A2 = [
       "ja": "破壊する",
       "zh": "摧毁",
       "ru": "разрушать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wreck",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4399",
+    "lang": "en",
     "lemma": "approve",
     "pos": "Verb",
     "cefr": "A2",
@@ -46245,15 +43117,11 @@ const WORDS_EN_A2 = [
       "ja": "承認する",
       "zh": "批准",
       "ru": "одобрять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "approve",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4401",
+    "lang": "en",
     "lemma": "spiritual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46272,12 +43140,11 @@ const WORDS_EN_A2 = [
       "ja": "精神的な",
       "zh": "精神的",
       "ru": "духовный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4403",
+    "lang": "en",
     "lemma": "stab",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46297,12 +43164,11 @@ const WORDS_EN_A2 = [
       "zh": "刺伤",
       "ru": "удар ножом"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stabs"
   },
   {
     "id": "en_4404",
+    "lang": "en",
     "lemma": "stab",
     "pos": "Verb",
     "cefr": "A2",
@@ -46321,15 +43187,11 @@ const WORDS_EN_A2 = [
       "ja": "刺す",
       "zh": "刺",
       "ru": "колоть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stab",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4405",
+    "lang": "en",
     "lemma": "inch",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46349,12 +43211,11 @@ const WORDS_EN_A2 = [
       "zh": "英寸",
       "ru": "дюйм"
     },
-    "examples": [],
-    "meta": {},
     "plural": "inches"
   },
   {
     "id": "en_4406",
+    "lang": "en",
     "lemma": "inch",
     "pos": "Verb",
     "cefr": "A2",
@@ -46373,15 +43234,11 @@ const WORDS_EN_A2 = [
       "ja": "ゆっくり動く",
       "zh": "缓慢移动",
       "ru": "медленно двигаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inch",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4409",
+    "lang": "en",
     "lemma": "unexpected",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46401,12 +43258,11 @@ const WORDS_EN_A2 = [
       "ja": "予期しない",
       "zh": "意外的",
       "ru": "неожиданный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4410",
+    "lang": "en",
     "lemma": "arrival",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46427,12 +43283,11 @@ const WORDS_EN_A2 = [
       "zh": "到达",
       "ru": "прибытие"
     },
-    "examples": [],
-    "meta": {},
     "plural": "arrivals"
   },
   {
     "id": "en_4411",
+    "lang": "en",
     "lemma": "basket",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46453,12 +43308,11 @@ const WORDS_EN_A2 = [
       "zh": "篮子",
       "ru": "корзина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "baskets"
   },
   {
     "id": "en_4413",
+    "lang": "en",
     "lemma": "scandal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46478,12 +43332,11 @@ const WORDS_EN_A2 = [
       "zh": "丑闻",
       "ru": "скандал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scandals"
   },
   {
     "id": "en_4414",
+    "lang": "en",
     "lemma": "stink",
     "pos": "Verb",
     "cefr": "A2",
@@ -46503,15 +43356,11 @@ const WORDS_EN_A2 = [
       "ja": "悪臭がする",
       "zh": "发臭",
       "ru": "вонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stink",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4415",
+    "lang": "en",
     "lemma": "stink",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46532,12 +43381,11 @@ const WORDS_EN_A2 = [
       "zh": "恶臭",
       "ru": "вонь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "stinks"
   },
   {
     "id": "en_4417",
+    "lang": "en",
     "lemma": "shield",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46557,12 +43405,11 @@ const WORDS_EN_A2 = [
       "zh": "盾牌",
       "ru": "щит"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shields"
   },
   {
     "id": "en_4418",
+    "lang": "en",
     "lemma": "shield",
     "pos": "Verb",
     "cefr": "A2",
@@ -46582,15 +43429,11 @@ const WORDS_EN_A2 = [
       "ja": "守る",
       "zh": "保护",
       "ru": "защищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shield",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4419",
+    "lang": "en",
     "lemma": "shooter",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46610,12 +43453,11 @@ const WORDS_EN_A2 = [
       "zh": "射手",
       "ru": "стрелок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shooters"
   },
   {
     "id": "en_4420",
+    "lang": "en",
     "lemma": "instant",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46636,12 +43478,11 @@ const WORDS_EN_A2 = [
       "zh": "瞬间",
       "ru": "мгновение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "instants"
   },
   {
     "id": "en_4422",
+    "lang": "en",
     "lemma": "rehearsal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46661,12 +43502,11 @@ const WORDS_EN_A2 = [
       "zh": "排练",
       "ru": "репетиция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rehearsals"
   },
   {
     "id": "en_4423",
+    "lang": "en",
     "lemma": "disturbing",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46685,12 +43525,11 @@ const WORDS_EN_A2 = [
       "ja": "不安にさせる",
       "zh": "令人不安的",
       "ru": "тревожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4424",
+    "lang": "en",
     "lemma": "scan",
     "pos": "Verb",
     "cefr": "A2",
@@ -46710,15 +43549,11 @@ const WORDS_EN_A2 = [
       "ja": "スキャンする",
       "zh": "扫描",
       "ru": "сканировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scan",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4425",
+    "lang": "en",
     "lemma": "electronic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46738,12 +43573,11 @@ const WORDS_EN_A2 = [
       "ja": "電子の",
       "zh": "电子的",
       "ru": "электронный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4426",
+    "lang": "en",
     "lemma": "republic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46763,12 +43597,11 @@ const WORDS_EN_A2 = [
       "zh": "共和国",
       "ru": "республика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "republics"
   },
   {
     "id": "en_4427",
+    "lang": "en",
     "lemma": "overnight",
     "pos": "Verb",
     "cefr": "A2",
@@ -46788,15 +43621,11 @@ const WORDS_EN_A2 = [
       "ja": "一晩泊まる",
       "zh": "过夜",
       "ru": "ночевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overnight",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4428",
+    "lang": "en",
     "lemma": "counsel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46817,12 +43646,11 @@ const WORDS_EN_A2 = [
       "zh": "忠告",
       "ru": "совет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "counsels"
   },
   {
     "id": "en_4429",
+    "lang": "en",
     "lemma": "counsel",
     "pos": "Verb",
     "cefr": "A2",
@@ -46842,15 +43670,11 @@ const WORDS_EN_A2 = [
       "ja": "助言する",
       "zh": "劝告",
       "ru": "советовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "counsel",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4430",
+    "lang": "en",
     "lemma": "bait",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46871,12 +43695,11 @@ const WORDS_EN_A2 = [
       "zh": "饵料",
       "ru": "приманка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "baits"
   },
   {
     "id": "en_4431",
+    "lang": "en",
     "lemma": "bait",
     "pos": "Verb",
     "cefr": "A2",
@@ -46895,15 +43718,11 @@ const WORDS_EN_A2 = [
       "ja": "餌をつける",
       "zh": "用饵引诱",
       "ru": "приманивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bait",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4432",
+    "lang": "en",
     "lemma": "dignity",
     "pos": "Nomen",
     "cefr": "A2",
@@ -46923,12 +43742,11 @@ const WORDS_EN_A2 = [
       "zh": "尊严",
       "ru": "достоинство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4433",
+    "lang": "en",
     "lemma": "lean",
     "pos": "Verb",
     "cefr": "A2",
@@ -46948,15 +43766,11 @@ const WORDS_EN_A2 = [
       "ja": "もたれかかる",
       "zh": "靠",
       "ru": "опираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lean",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4434",
+    "lang": "en",
     "lemma": "lean",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -46976,12 +43790,11 @@ const WORDS_EN_A2 = [
       "ja": "痩せた",
       "zh": "瘦的",
       "ru": "худой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4437",
+    "lang": "en",
     "lemma": "gossip",
     "pos": "Verb",
     "cefr": "A2",
@@ -47001,15 +43814,11 @@ const WORDS_EN_A2 = [
       "ja": "噂話をする",
       "zh": "闲聊",
       "ru": "сплетничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gossip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4438",
+    "lang": "en",
     "lemma": "humble",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47029,12 +43838,11 @@ const WORDS_EN_A2 = [
       "ja": "謙虚な",
       "zh": "谦虚的",
       "ru": "скромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4440",
+    "lang": "en",
     "lemma": "economy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47055,12 +43863,11 @@ const WORDS_EN_A2 = [
       "zh": "经济",
       "ru": "экономика"
     },
-    "examples": [],
-    "meta": {},
     "plural": "economies"
   },
   {
     "id": "en_4441",
+    "lang": "en",
     "lemma": "worlds",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47080,12 +43887,11 @@ const WORDS_EN_A2 = [
       "zh": "世界",
       "ru": "миры"
     },
-    "examples": [],
-    "meta": {},
     "plural": "worlds"
   },
   {
     "id": "en_4442",
+    "lang": "en",
     "lemma": "impress",
     "pos": "Verb",
     "cefr": "A2",
@@ -47105,15 +43911,11 @@ const WORDS_EN_A2 = [
       "ja": "感動させる",
       "zh": "给人留下深刻印象",
       "ru": "производить впечатление"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "impress",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4443",
+    "lang": "en",
     "lemma": "tissue",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47134,12 +43936,11 @@ const WORDS_EN_A2 = [
       "zh": "纸巾",
       "ru": "салфетка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tissues"
   },
   {
     "id": "en_4444",
+    "lang": "en",
     "lemma": "threaten",
     "pos": "Verb",
     "cefr": "A2",
@@ -47159,15 +43960,11 @@ const WORDS_EN_A2 = [
       "ja": "脅す",
       "zh": "威胁",
       "ru": "угрожать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "threaten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4445",
+    "lang": "en",
     "lemma": "bump",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47188,12 +43985,11 @@ const WORDS_EN_A2 = [
       "zh": "碰撞",
       "ru": "удар"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bumps"
   },
   {
     "id": "en_4446",
+    "lang": "en",
     "lemma": "bump",
     "pos": "Verb",
     "cefr": "A2",
@@ -47213,15 +44009,11 @@ const WORDS_EN_A2 = [
       "ja": "ぶつかる",
       "zh": "碰",
       "ru": "сталкиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bump",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4447",
+    "lang": "en",
     "lemma": "supreme",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47240,12 +44032,11 @@ const WORDS_EN_A2 = [
       "ja": "最高の",
       "zh": "最高的",
       "ru": "верховный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4449",
+    "lang": "en",
     "lemma": "excitement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47266,12 +44057,11 @@ const WORDS_EN_A2 = [
       "zh": "兴奋",
       "ru": "возбуждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "excitements"
   },
   {
     "id": "en_4450",
+    "lang": "en",
     "lemma": "mankind",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47291,12 +44081,11 @@ const WORDS_EN_A2 = [
       "zh": "人类",
       "ru": "человечество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4451",
+    "lang": "en",
     "lemma": "document",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47316,12 +44105,11 @@ const WORDS_EN_A2 = [
       "zh": "文件",
       "ru": "документ"
     },
-    "examples": [],
-    "meta": {},
     "plural": "documents"
   },
   {
     "id": "en_4452",
+    "lang": "en",
     "lemma": "document",
     "pos": "Verb",
     "cefr": "A2",
@@ -47340,15 +44128,11 @@ const WORDS_EN_A2 = [
       "ja": "記録する",
       "zh": "记录",
       "ru": "документировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "document",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4453",
+    "lang": "en",
     "lemma": "broad",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47368,12 +44152,11 @@ const WORDS_EN_A2 = [
       "ja": "広い",
       "zh": "宽",
       "ru": "широкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4455",
+    "lang": "en",
     "lemma": "vessel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47394,12 +44177,11 @@ const WORDS_EN_A2 = [
       "zh": "容器",
       "ru": "сосуд"
     },
-    "examples": [],
-    "meta": {},
     "plural": "vessels"
   },
   {
     "id": "en_4457",
+    "lang": "en",
     "lemma": "dale",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47420,12 +44202,11 @@ const WORDS_EN_A2 = [
       "zh": "山谷",
       "ru": "долина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dales"
   },
   {
     "id": "en_4460",
+    "lang": "en",
     "lemma": "foul",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47445,12 +44226,11 @@ const WORDS_EN_A2 = [
       "ja": "悪臭の",
       "zh": "恶臭的",
       "ru": "вонючий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4461",
+    "lang": "en",
     "lemma": "stare",
     "pos": "Verb",
     "cefr": "A2",
@@ -47470,15 +44250,11 @@ const WORDS_EN_A2 = [
       "ja": "じっと見つめる",
       "zh": "凝视",
       "ru": "пристально смотреть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4463",
+    "lang": "en",
     "lemma": "hut",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47499,12 +44275,11 @@ const WORDS_EN_A2 = [
       "zh": "小屋",
       "ru": "хижина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "huts"
   },
   {
     "id": "en_4468",
+    "lang": "en",
     "lemma": "puppy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47525,12 +44300,11 @@ const WORDS_EN_A2 = [
       "zh": "小狗",
       "ru": "щенок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "puppies"
   },
   {
     "id": "en_4470",
+    "lang": "en",
     "lemma": "announcement",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47550,12 +44324,11 @@ const WORDS_EN_A2 = [
       "zh": "公告",
       "ru": "объявление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "announcements"
   },
   {
     "id": "en_4471",
+    "lang": "en",
     "lemma": "oath",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47575,12 +44348,11 @@ const WORDS_EN_A2 = [
       "zh": "誓言",
       "ru": "клятва"
     },
-    "examples": [],
-    "meta": {},
     "plural": "oaths"
   },
   {
     "id": "en_4472",
+    "lang": "en",
     "lemma": "mob",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47601,12 +44373,11 @@ const WORDS_EN_A2 = [
       "zh": "暴民",
       "ru": "толпа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "mobs"
   },
   {
     "id": "en_4473",
+    "lang": "en",
     "lemma": "mob",
     "pos": "Verb",
     "cefr": "A2",
@@ -47625,15 +44396,11 @@ const WORDS_EN_A2 = [
       "ja": "群がる",
       "zh": "聚集",
       "ru": "собираться толпой"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mob",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4474",
+    "lang": "en",
     "lemma": "cotton",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47654,12 +44421,11 @@ const WORDS_EN_A2 = [
       "zh": "棉",
       "ru": "хлопок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cottons"
   },
   {
     "id": "en_4475",
+    "lang": "en",
     "lemma": "deposit",
     "pos": "Verb",
     "cefr": "A2",
@@ -47678,15 +44444,11 @@ const WORDS_EN_A2 = [
       "ja": "預ける",
       "zh": "存放",
       "ru": "откладывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "deposit",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4476",
+    "lang": "en",
     "lemma": "deposit",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47706,12 +44468,11 @@ const WORDS_EN_A2 = [
       "zh": "存款",
       "ru": "депозит"
     },
-    "examples": [],
-    "meta": {},
     "plural": "deposits"
   },
   {
     "id": "en_4478",
+    "lang": "en",
     "lemma": "injuries",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47731,12 +44492,11 @@ const WORDS_EN_A2 = [
       "zh": "伤害",
       "ru": "травмы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "injuries"
   },
   {
     "id": "en_4481",
+    "lang": "en",
     "lemma": "advise",
     "pos": "Verb",
     "cefr": "A2",
@@ -47755,15 +44515,11 @@ const WORDS_EN_A2 = [
       "ja": "助言する",
       "zh": "建议",
       "ru": "советовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "advise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4482",
+    "lang": "en",
     "lemma": "gig",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47784,12 +44540,11 @@ const WORDS_EN_A2 = [
       "zh": "演出",
       "ru": "концерт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gigs"
   },
   {
     "id": "en_4483",
+    "lang": "en",
     "lemma": "gig",
     "pos": "Verb",
     "cefr": "A2",
@@ -47808,15 +44563,11 @@ const WORDS_EN_A2 = [
       "ja": "演奏する",
       "zh": "表演",
       "ru": "выступать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gig",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4484",
+    "lang": "en",
     "lemma": "lecture",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47836,12 +44587,11 @@ const WORDS_EN_A2 = [
       "zh": "讲座",
       "ru": "лекция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lectures"
   },
   {
     "id": "en_4485",
+    "lang": "en",
     "lemma": "lecture",
     "pos": "Verb",
     "cefr": "A2",
@@ -47860,15 +44610,11 @@ const WORDS_EN_A2 = [
       "ja": "講義する",
       "zh": "讲课",
       "ru": "читать лекцию"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lecture",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4486",
+    "lang": "en",
     "lemma": "skinny",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47888,12 +44634,11 @@ const WORDS_EN_A2 = [
       "ja": "痩せた",
       "zh": "瘦的",
       "ru": "худой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4488",
+    "lang": "en",
     "lemma": "include",
     "pos": "Verb",
     "cefr": "A2",
@@ -47912,15 +44657,11 @@ const WORDS_EN_A2 = [
       "ja": "含む",
       "zh": "包括",
       "ru": "включать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "include",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4489",
+    "lang": "en",
     "lemma": "infected",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -47939,12 +44680,11 @@ const WORDS_EN_A2 = [
       "ja": "感染した",
       "zh": "感染的",
       "ru": "инфицированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4490",
+    "lang": "en",
     "lemma": "assistance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47964,12 +44704,11 @@ const WORDS_EN_A2 = [
       "zh": "帮助",
       "ru": "помощь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "assistances"
   },
   {
     "id": "en_4491",
+    "lang": "en",
     "lemma": "solo",
     "pos": "Nomen",
     "cefr": "A2",
@@ -47989,12 +44728,11 @@ const WORDS_EN_A2 = [
       "zh": "独奏",
       "ru": "соло"
     },
-    "examples": [],
-    "meta": {},
     "plural": "solos or soli"
   },
   {
     "id": "en_4492",
+    "lang": "en",
     "lemma": "solo",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48014,12 +44752,11 @@ const WORDS_EN_A2 = [
       "ja": "独りの",
       "zh": "独自的",
       "ru": "одиночный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4493",
+    "lang": "en",
     "lemma": "solo",
     "pos": "Verb",
     "cefr": "A2",
@@ -48038,15 +44775,11 @@ const WORDS_EN_A2 = [
       "ja": "ソロで歌う",
       "zh": "独唱",
       "ru": "петь соло"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "solo",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4496",
+    "lang": "en",
     "lemma": "lamp",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48067,12 +44800,11 @@ const WORDS_EN_A2 = [
       "zh": "灯",
       "ru": "лампа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lamps"
   },
   {
     "id": "en_4497",
+    "lang": "en",
     "lemma": "practical",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48091,12 +44823,11 @@ const WORDS_EN_A2 = [
       "ja": "実用的な",
       "zh": "实用的",
       "ru": "практичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4498",
+    "lang": "en",
     "lemma": "marked",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48115,12 +44846,11 @@ const WORDS_EN_A2 = [
       "ja": "明らかな",
       "zh": "明显的",
       "ru": "заметный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4499",
+    "lang": "en",
     "lemma": "adorable",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48140,12 +44870,11 @@ const WORDS_EN_A2 = [
       "ja": "愛らしい",
       "zh": "可爱的",
       "ru": "обаятельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4500",
+    "lang": "en",
     "lemma": "rubber",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48166,12 +44895,11 @@ const WORDS_EN_A2 = [
       "zh": "橡胶",
       "ru": "резина"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rubbers"
   },
   {
     "id": "en_4501",
+    "lang": "en",
     "lemma": "purple",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48192,12 +44920,11 @@ const WORDS_EN_A2 = [
       "zh": "紫色",
       "ru": "фиолетовый"
     },
-    "examples": [],
-    "meta": {},
     "plural": "purples"
   },
   {
     "id": "en_4502",
+    "lang": "en",
     "lemma": "purple",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48217,12 +44944,11 @@ const WORDS_EN_A2 = [
       "ja": "紫の",
       "zh": "紫色的",
       "ru": "фиолетовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4505",
+    "lang": "en",
     "lemma": "personnel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48242,12 +44968,11 @@ const WORDS_EN_A2 = [
       "zh": "人员",
       "ru": "персонал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4506",
+    "lang": "en",
     "lemma": "beam",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48267,12 +44992,11 @@ const WORDS_EN_A2 = [
       "zh": "光束",
       "ru": "луч"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beams"
   },
   {
     "id": "en_4508",
+    "lang": "en",
     "lemma": "poet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48292,12 +45016,11 @@ const WORDS_EN_A2 = [
       "zh": "诗人",
       "ru": "поэт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "poets"
   },
   {
     "id": "en_4510",
+    "lang": "en",
     "lemma": "arrow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48318,12 +45041,11 @@ const WORDS_EN_A2 = [
       "zh": "箭",
       "ru": "стрела"
     },
-    "examples": [],
-    "meta": {},
     "plural": "arrows"
   },
   {
     "id": "en_4511",
+    "lang": "en",
     "lemma": "counselor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48343,12 +45065,11 @@ const WORDS_EN_A2 = [
       "zh": "顾问",
       "ru": "советник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "counselors"
   },
   {
     "id": "en_4512",
+    "lang": "en",
     "lemma": "carpet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48369,12 +45090,11 @@ const WORDS_EN_A2 = [
       "zh": "地毯",
       "ru": "ковер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "carpets"
   },
   {
     "id": "en_4514",
+    "lang": "en",
     "lemma": "journalist",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48394,12 +45114,11 @@ const WORDS_EN_A2 = [
       "zh": "记者",
       "ru": "журналист"
     },
-    "examples": [],
-    "meta": {},
     "plural": "journalists"
   },
   {
     "id": "en_4515",
+    "lang": "en",
     "lemma": "operator",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48419,12 +45138,11 @@ const WORDS_EN_A2 = [
       "zh": "操作员",
       "ru": "оператор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "operators"
   },
   {
     "id": "en_4516",
+    "lang": "en",
     "lemma": "rely",
     "pos": "Verb",
     "cefr": "A2",
@@ -48443,15 +45161,11 @@ const WORDS_EN_A2 = [
       "ja": "頼る",
       "zh": "依靠",
       "ru": "полагаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rely",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4517",
+    "lang": "en",
     "lemma": "eastern",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48470,12 +45184,11 @@ const WORDS_EN_A2 = [
       "ja": "東の",
       "zh": "东方的",
       "ru": "восточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4518",
+    "lang": "en",
     "lemma": "shave",
     "pos": "Verb",
     "cefr": "A2",
@@ -48495,15 +45208,11 @@ const WORDS_EN_A2 = [
       "ja": "剃る",
       "zh": "刮胡子",
       "ru": "бриться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shave",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4519",
+    "lang": "en",
     "lemma": "shave",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48523,12 +45232,11 @@ const WORDS_EN_A2 = [
       "zh": "剃须",
       "ru": "бритье"
     },
-    "examples": [],
-    "meta": {},
     "plural": "shaves"
   },
   {
     "id": "en_4520",
+    "lang": "en",
     "lemma": "toss",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48549,12 +45257,11 @@ const WORDS_EN_A2 = [
       "zh": "投掷",
       "ru": "бросок"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tosses"
   },
   {
     "id": "en_4521",
+    "lang": "en",
     "lemma": "toss",
     "pos": "Verb",
     "cefr": "A2",
@@ -48574,15 +45281,11 @@ const WORDS_EN_A2 = [
       "ja": "投げる",
       "zh": "轻轻抛",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "toss",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4522",
+    "lang": "en",
     "lemma": "lip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48603,12 +45306,11 @@ const WORDS_EN_A2 = [
       "zh": "嘴唇",
       "ru": "губа"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lips"
   },
   {
     "id": "en_4523",
+    "lang": "en",
     "lemma": "acid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48628,12 +45330,11 @@ const WORDS_EN_A2 = [
       "zh": "酸",
       "ru": "кислота"
     },
-    "examples": [],
-    "meta": {},
     "plural": "acids"
   },
   {
     "id": "en_4524",
+    "lang": "en",
     "lemma": "acid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48652,12 +45353,11 @@ const WORDS_EN_A2 = [
       "ja": "酸性の",
       "zh": "酸性的",
       "ru": "кислотный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4525",
+    "lang": "en",
     "lemma": "anonymous",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48676,12 +45376,11 @@ const WORDS_EN_A2 = [
       "ja": "匿名の",
       "zh": "匿名的",
       "ru": "анонимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4526",
+    "lang": "en",
     "lemma": "inn",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48702,12 +45401,11 @@ const WORDS_EN_A2 = [
       "zh": "客栈",
       "ru": "гостиница"
     },
-    "examples": [],
-    "meta": {},
     "plural": "inns"
   },
   {
     "id": "en_4527",
+    "lang": "en",
     "lemma": "oldest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48726,12 +45424,11 @@ const WORDS_EN_A2 = [
       "ja": "最も古い",
       "zh": "最古老的",
       "ru": "самый старый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4528",
+    "lang": "en",
     "lemma": "breast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48751,12 +45448,11 @@ const WORDS_EN_A2 = [
       "zh": "胸部",
       "ru": "грудь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "breasts"
   },
   {
     "id": "en_4530",
+    "lang": "en",
     "lemma": "sixth",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -48775,12 +45471,11 @@ const WORDS_EN_A2 = [
       "ja": "6番目の",
       "zh": "第六的",
       "ru": "шестой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4531",
+    "lang": "en",
     "lemma": "sixth",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48800,12 +45495,11 @@ const WORDS_EN_A2 = [
       "zh": "六分之一",
       "ru": "одна шестая"
     },
-    "examples": [],
-    "meta": {},
     "plural": "sixths"
   },
   {
     "id": "en_4532",
+    "lang": "en",
     "lemma": "error",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48825,12 +45519,11 @@ const WORDS_EN_A2 = [
       "zh": "错误",
       "ru": "ошибка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "errors"
   },
   {
     "id": "en_4535",
+    "lang": "en",
     "lemma": "roommate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48850,12 +45543,11 @@ const WORDS_EN_A2 = [
       "zh": "室友",
       "ru": "сосед по комнате"
     },
-    "examples": [],
-    "meta": {},
     "plural": "roommates"
   },
   {
     "id": "en_4536",
+    "lang": "en",
     "lemma": "visitor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48875,12 +45567,11 @@ const WORDS_EN_A2 = [
       "zh": "访客",
       "ru": "посетитель"
     },
-    "examples": [],
-    "meta": {},
     "plural": "visitors"
   },
   {
     "id": "en_4538",
+    "lang": "en",
     "lemma": "commitment",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48900,12 +45591,11 @@ const WORDS_EN_A2 = [
       "zh": "承诺",
       "ru": "обязательство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "commitments"
   },
   {
     "id": "en_4539",
+    "lang": "en",
     "lemma": "react",
     "pos": "Verb",
     "cefr": "A2",
@@ -48924,15 +45614,11 @@ const WORDS_EN_A2 = [
       "ja": "反応する",
       "zh": "反应",
       "ru": "реагировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "react",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4541",
+    "lang": "en",
     "lemma": "protest",
     "pos": "Verb",
     "cefr": "A2",
@@ -48951,15 +45637,11 @@ const WORDS_EN_A2 = [
       "ja": "抗議する",
       "zh": "抗议",
       "ru": "протестовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "protest",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4542",
+    "lang": "en",
     "lemma": "protest",
     "pos": "Nomen",
     "cefr": "A2",
@@ -48979,12 +45661,11 @@ const WORDS_EN_A2 = [
       "zh": "抗议",
       "ru": "протест"
     },
-    "examples": [],
-    "meta": {},
     "plural": "protests"
   },
   {
     "id": "en_4543",
+    "lang": "en",
     "lemma": "misery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49004,12 +45685,11 @@ const WORDS_EN_A2 = [
       "zh": "痛苦",
       "ru": "страдание"
     },
-    "examples": [],
-    "meta": {},
     "plural": "miseries"
   },
   {
     "id": "en_4544",
+    "lang": "en",
     "lemma": "theft",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49029,12 +45709,11 @@ const WORDS_EN_A2 = [
       "zh": "盗窃",
       "ru": "кража"
     },
-    "examples": [],
-    "meta": {},
     "plural": "thefts"
   },
   {
     "id": "en_4545",
+    "lang": "en",
     "lemma": "embrace",
     "pos": "Verb",
     "cefr": "A2",
@@ -49053,15 +45732,11 @@ const WORDS_EN_A2 = [
       "ja": "抱擁する",
       "zh": "拥抱",
       "ru": "обнимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "embrace",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4546",
+    "lang": "en",
     "lemma": "harsh",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49080,12 +45755,11 @@ const WORDS_EN_A2 = [
       "ja": "厳しい",
       "zh": "严厉的",
       "ru": "суровый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4547",
+    "lang": "en",
     "lemma": "communicate",
     "pos": "Verb",
     "cefr": "A2",
@@ -49104,15 +45778,11 @@ const WORDS_EN_A2 = [
       "ja": "コミュニケーションする",
       "zh": "交流",
       "ru": "общаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "communicate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4549",
+    "lang": "en",
     "lemma": "faithful",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49131,12 +45801,11 @@ const WORDS_EN_A2 = [
       "ja": "忠実な",
       "zh": "忠实的",
       "ru": "верный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4550",
+    "lang": "en",
     "lemma": "flame",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49156,12 +45825,11 @@ const WORDS_EN_A2 = [
       "zh": "火焰",
       "ru": "пламя"
     },
-    "examples": [],
-    "meta": {},
     "plural": "flames"
   },
   {
     "id": "en_4553",
+    "lang": "en",
     "lemma": "silk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49182,12 +45850,11 @@ const WORDS_EN_A2 = [
       "zh": "丝绸",
       "ru": "шелк"
     },
-    "examples": [],
-    "meta": {},
     "plural": "silks"
   },
   {
     "id": "en_4554",
+    "lang": "en",
     "lemma": "photographer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49208,12 +45875,11 @@ const WORDS_EN_A2 = [
       "zh": "摄影师",
       "ru": "фотограф"
     },
-    "examples": [],
-    "meta": {},
     "plural": "photographers"
   },
   {
     "id": "en_4555",
+    "lang": "en",
     "lemma": "cemetery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49234,12 +45900,11 @@ const WORDS_EN_A2 = [
       "zh": "墓地",
       "ru": "кладбище"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cemeteries"
   },
   {
     "id": "en_4556",
+    "lang": "en",
     "lemma": "rear",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49259,12 +45924,11 @@ const WORDS_EN_A2 = [
       "zh": "后部",
       "ru": "задняя часть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rears"
   },
   {
     "id": "en_4558",
+    "lang": "en",
     "lemma": "banana",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49285,12 +45949,11 @@ const WORDS_EN_A2 = [
       "zh": "香蕉",
       "ru": "банан"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bananas"
   },
   {
     "id": "en_4559",
+    "lang": "en",
     "lemma": "emotion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49311,12 +45974,11 @@ const WORDS_EN_A2 = [
       "zh": "情感",
       "ru": "эмоция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "emotions"
   },
   {
     "id": "en_4561",
+    "lang": "en",
     "lemma": "chap",
     "pos": "Verb",
     "cefr": "A2",
@@ -49335,15 +45997,11 @@ const WORDS_EN_A2 = [
       "ja": "ひび割れる",
       "zh": "皲裂",
       "ru": "трескаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4565",
+    "lang": "en",
     "lemma": "bin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49364,12 +46022,11 @@ const WORDS_EN_A2 = [
       "zh": "垃圾桶",
       "ru": "мусорный бак"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bins"
   },
   {
     "id": "en_4566",
+    "lang": "en",
     "lemma": "bin",
     "pos": "Verb",
     "cefr": "A2",
@@ -49389,15 +46046,11 @@ const WORDS_EN_A2 = [
       "ja": "捨てる",
       "zh": "扔掉",
       "ru": "выбросить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bin",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4569",
+    "lang": "en",
     "lemma": "gum",
     "pos": "Verb",
     "cefr": "A2",
@@ -49417,15 +46070,11 @@ const WORDS_EN_A2 = [
       "ja": "噛む",
       "zh": "咀嚼",
       "ru": "жевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gum",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4570",
+    "lang": "en",
     "lemma": "crushed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49445,12 +46094,11 @@ const WORDS_EN_A2 = [
       "ja": "つぶされた",
       "zh": "压碎的",
       "ru": "раздавленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4572",
+    "lang": "en",
     "lemma": "content",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49471,12 +46119,11 @@ const WORDS_EN_A2 = [
       "zh": "内容物",
       "ru": "содержимое"
     },
-    "examples": [],
-    "meta": {},
     "plural": "contents"
   },
   {
     "id": "en_4573",
+    "lang": "en",
     "lemma": "content",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49496,12 +46143,11 @@ const WORDS_EN_A2 = [
       "ja": "満足した",
       "zh": "满足的",
       "ru": "довольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4575",
+    "lang": "en",
     "lemma": "corporal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49521,12 +46167,11 @@ const WORDS_EN_A2 = [
       "zh": "下士",
       "ru": "капрал"
     },
-    "examples": [],
-    "meta": {},
     "plural": "corporals"
   },
   {
     "id": "en_4577",
+    "lang": "en",
     "lemma": "rap",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49547,12 +46192,11 @@ const WORDS_EN_A2 = [
       "zh": "敲击",
       "ru": "стук"
     },
-    "examples": [],
-    "meta": {},
     "plural": "raps"
   },
   {
     "id": "en_4578",
+    "lang": "en",
     "lemma": "rap",
     "pos": "Verb",
     "cefr": "A2",
@@ -49572,15 +46216,11 @@ const WORDS_EN_A2 = [
       "ja": "ノックする",
       "zh": "敲击",
       "ru": "стучать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rap",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4579",
+    "lang": "en",
     "lemma": "hopeless",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49599,12 +46239,11 @@ const WORDS_EN_A2 = [
       "ja": "絶望的な",
       "zh": "绝望的",
       "ru": "безнадежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4580",
+    "lang": "en",
     "lemma": "debate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49624,12 +46263,11 @@ const WORDS_EN_A2 = [
       "zh": "辩论",
       "ru": "дебаты"
     },
-    "examples": [],
-    "meta": {},
     "plural": "debates"
   },
   {
     "id": "en_4581",
+    "lang": "en",
     "lemma": "debate",
     "pos": "Verb",
     "cefr": "A2",
@@ -49648,15 +46286,11 @@ const WORDS_EN_A2 = [
       "ja": "討論する",
       "zh": "辩论",
       "ru": "обсуждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "debate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4582",
+    "lang": "en",
     "lemma": "era",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49676,12 +46310,11 @@ const WORDS_EN_A2 = [
       "zh": "时代",
       "ru": "эпоха"
     },
-    "examples": [],
-    "meta": {},
     "plural": "eras"
   },
   {
     "id": "en_4583",
+    "lang": "en",
     "lemma": "ton",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49701,12 +46334,11 @@ const WORDS_EN_A2 = [
       "zh": "吨",
       "ru": "тонна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tons"
   },
   {
     "id": "en_4584",
+    "lang": "en",
     "lemma": "liquid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49726,12 +46358,11 @@ const WORDS_EN_A2 = [
       "zh": "液体",
       "ru": "жидкость"
     },
-    "examples": [],
-    "meta": {},
     "plural": "liquids"
   },
   {
     "id": "en_4585",
+    "lang": "en",
     "lemma": "liquid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49750,12 +46381,11 @@ const WORDS_EN_A2 = [
       "ja": "液体の",
       "zh": "液态的",
       "ru": "жидкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4586",
+    "lang": "en",
     "lemma": "swell",
     "pos": "Verb",
     "cefr": "A2",
@@ -49775,15 +46405,11 @@ const WORDS_EN_A2 = [
       "ja": "膨らむ",
       "zh": "肿胀",
       "ru": "опухать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "swell",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4587",
+    "lang": "en",
     "lemma": "feast",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49804,12 +46430,11 @@ const WORDS_EN_A2 = [
       "zh": "盛宴",
       "ru": "пир"
     },
-    "examples": [],
-    "meta": {},
     "plural": "feasts"
   },
   {
     "id": "en_4588",
+    "lang": "en",
     "lemma": "feast",
     "pos": "Verb",
     "cefr": "A2",
@@ -49829,15 +46454,11 @@ const WORDS_EN_A2 = [
       "ja": "盛宴を開く",
       "zh": "举办盛宴",
       "ru": "пировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "feast",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4590",
+    "lang": "en",
     "lemma": "application",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49857,12 +46478,11 @@ const WORDS_EN_A2 = [
       "zh": "申请",
       "ru": "заявление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "applications"
   },
   {
     "id": "en_4591",
+    "lang": "en",
     "lemma": "profession",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49882,12 +46502,11 @@ const WORDS_EN_A2 = [
       "zh": "职业",
       "ru": "профессия"
     },
-    "examples": [],
-    "meta": {},
     "plural": "professions"
   },
   {
     "id": "en_4592",
+    "lang": "en",
     "lemma": "bench",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49908,12 +46527,11 @@ const WORDS_EN_A2 = [
       "zh": "长椅",
       "ru": "скамья"
     },
-    "examples": [],
-    "meta": {},
     "plural": "benches"
   },
   {
     "id": "en_4595",
+    "lang": "en",
     "lemma": "scout",
     "pos": "Nomen",
     "cefr": "A2",
@@ -49934,12 +46552,11 @@ const WORDS_EN_A2 = [
       "zh": "侦察兵",
       "ru": "разведчик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scouts"
   },
   {
     "id": "en_4596",
+    "lang": "en",
     "lemma": "scout",
     "pos": "Verb",
     "cefr": "A2",
@@ -49959,15 +46576,11 @@ const WORDS_EN_A2 = [
       "ja": "偵察する",
       "zh": "侦察",
       "ru": "разведывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scout",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4597",
+    "lang": "en",
     "lemma": "keen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -49986,12 +46599,11 @@ const WORDS_EN_A2 = [
       "ja": "熱心な",
       "zh": "热心的",
       "ru": "увлеченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4600",
+    "lang": "en",
     "lemma": "aircraft",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50011,12 +46623,11 @@ const WORDS_EN_A2 = [
       "zh": "飞机",
       "ru": "самолет"
     },
-    "examples": [],
-    "meta": {},
     "plural": "aircraft"
   },
   {
     "id": "en_4601",
+    "lang": "en",
     "lemma": "aggressive",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50035,12 +46646,11 @@ const WORDS_EN_A2 = [
       "ja": "攻撃的な",
       "zh": "好斗的",
       "ru": "агрессивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4602",
+    "lang": "en",
     "lemma": "pale",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50060,12 +46670,11 @@ const WORDS_EN_A2 = [
       "ja": "青白い",
       "zh": "苍白的",
       "ru": "бледный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4603",
+    "lang": "en",
     "lemma": "pale",
     "pos": "Verb",
     "cefr": "A2",
@@ -50084,15 +46693,11 @@ const WORDS_EN_A2 = [
       "ja": "青白くなる",
       "zh": "变苍白",
       "ru": "бледнеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pale",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4605",
+    "lang": "en",
     "lemma": "significant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50111,12 +46716,11 @@ const WORDS_EN_A2 = [
       "ja": "重要な",
       "zh": "重要的",
       "ru": "значительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4607",
+    "lang": "en",
     "lemma": "visual",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50135,12 +46739,11 @@ const WORDS_EN_A2 = [
       "ja": "視覚的な",
       "zh": "视觉的",
       "ru": "визуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4608",
+    "lang": "en",
     "lemma": "embassy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50160,12 +46763,11 @@ const WORDS_EN_A2 = [
       "zh": "大使馆",
       "ru": "посольство"
     },
-    "examples": [],
-    "meta": {},
     "plural": "embassies"
   },
   {
     "id": "en_4609",
+    "lang": "en",
     "lemma": "defence",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50185,12 +46787,11 @@ const WORDS_EN_A2 = [
       "zh": "防御",
       "ru": "защита"
     },
-    "examples": [],
-    "meta": {},
     "plural": "defences"
   },
   {
     "id": "en_4611",
+    "lang": "en",
     "lemma": "display",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50210,12 +46811,11 @@ const WORDS_EN_A2 = [
       "zh": "展示",
       "ru": "выставка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "displays"
   },
   {
     "id": "en_4612",
+    "lang": "en",
     "lemma": "display",
     "pos": "Verb",
     "cefr": "A2",
@@ -50234,15 +46834,11 @@ const WORDS_EN_A2 = [
       "ja": "展示する",
       "zh": "展示",
       "ru": "выставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "display",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4613",
+    "lang": "en",
     "lemma": "fame",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50262,12 +46858,11 @@ const WORDS_EN_A2 = [
       "zh": "名声",
       "ru": "слава"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4615",
+    "lang": "en",
     "lemma": "wolves",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50288,12 +46883,11 @@ const WORDS_EN_A2 = [
       "zh": "狼群",
       "ru": "волки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "wolves"
   },
   {
     "id": "en_4617",
+    "lang": "en",
     "lemma": "twin",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50314,12 +46908,11 @@ const WORDS_EN_A2 = [
       "zh": "双胞胎",
       "ru": "близнец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "twins"
   },
   {
     "id": "en_4618",
+    "lang": "en",
     "lemma": "sorrow",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50339,12 +46932,11 @@ const WORDS_EN_A2 = [
       "zh": "悲伤",
       "ru": "печаль"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4620",
+    "lang": "en",
     "lemma": "vault",
     "pos": "Verb",
     "cefr": "A2",
@@ -50363,15 +46955,11 @@ const WORDS_EN_A2 = [
       "ja": "飛び越える",
       "zh": "跳过",
       "ru": "прыгать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vault",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4621",
+    "lang": "en",
     "lemma": "quote",
     "pos": "Verb",
     "cefr": "A2",
@@ -50390,15 +46978,11 @@ const WORDS_EN_A2 = [
       "ja": "引用する",
       "zh": "引用",
       "ru": "цитировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "quote",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4622",
+    "lang": "en",
     "lemma": "quote",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50418,12 +47002,11 @@ const WORDS_EN_A2 = [
       "zh": "引文",
       "ru": "цитата"
     },
-    "examples": [],
-    "meta": {},
     "plural": "quotes"
   },
   {
     "id": "en_4623",
+    "lang": "en",
     "lemma": "penalty",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50443,12 +47026,11 @@ const WORDS_EN_A2 = [
       "zh": "罚款",
       "ru": "штраф"
     },
-    "examples": [],
-    "meta": {},
     "plural": "penalties"
   },
   {
     "id": "en_4624",
+    "lang": "en",
     "lemma": "bargain",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50469,12 +47051,11 @@ const WORDS_EN_A2 = [
       "zh": "交易",
       "ru": "сделка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "bargains"
   },
   {
     "id": "en_4625",
+    "lang": "en",
     "lemma": "bargain",
     "pos": "Verb",
     "cefr": "A2",
@@ -50493,15 +47074,11 @@ const WORDS_EN_A2 = [
       "ja": "値切る",
       "zh": "讨价还价",
       "ru": "торговаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bargain",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4626",
+    "lang": "en",
     "lemma": "pepper",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50522,12 +47099,11 @@ const WORDS_EN_A2 = [
       "zh": "辣椒",
       "ru": "перец"
     },
-    "examples": [],
-    "meta": {},
     "plural": "peppers"
   },
   {
     "id": "en_4627",
+    "lang": "en",
     "lemma": "speaker",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50547,12 +47123,11 @@ const WORDS_EN_A2 = [
       "zh": "演讲者",
       "ru": "оратор"
     },
-    "examples": [],
-    "meta": {},
     "plural": "speakers"
   },
   {
     "id": "en_4628",
+    "lang": "en",
     "lemma": "compare",
     "pos": "Verb",
     "cefr": "A2",
@@ -50571,15 +47146,11 @@ const WORDS_EN_A2 = [
       "ja": "比較する",
       "zh": "比较",
       "ru": "сравнивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "compare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4629",
+    "lang": "en",
     "lemma": "helmet",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50600,12 +47171,11 @@ const WORDS_EN_A2 = [
       "zh": "头盔",
       "ru": "шлем"
     },
-    "examples": [],
-    "meta": {},
     "plural": "helmets"
   },
   {
     "id": "en_4630",
+    "lang": "en",
     "lemma": "scar",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50626,12 +47196,11 @@ const WORDS_EN_A2 = [
       "zh": "疤痕",
       "ru": "шрам"
     },
-    "examples": [],
-    "meta": {},
     "plural": "scars"
   },
   {
     "id": "en_4631",
+    "lang": "en",
     "lemma": "scar",
     "pos": "Verb",
     "cefr": "A2",
@@ -50650,15 +47219,11 @@ const WORDS_EN_A2 = [
       "ja": "傷跡をつける",
       "zh": "留下疤痕",
       "ru": "оставлять шрам"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scar",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4633",
+    "lang": "en",
     "lemma": "fuss",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50678,12 +47243,11 @@ const WORDS_EN_A2 = [
       "zh": "骚动",
       "ru": "суета"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fusses"
   },
   {
     "id": "en_4635",
+    "lang": "en",
     "lemma": "envelope",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50704,12 +47268,11 @@ const WORDS_EN_A2 = [
       "zh": "信封",
       "ru": "конверт"
     },
-    "examples": [],
-    "meta": {},
     "plural": "envelopes"
   },
   {
     "id": "en_4638",
+    "lang": "en",
     "lemma": "african",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50728,12 +47291,11 @@ const WORDS_EN_A2 = [
       "ja": "アフリカの",
       "zh": "非洲的",
       "ru": "африканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4640",
+    "lang": "en",
     "lemma": "honored",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50752,12 +47314,11 @@ const WORDS_EN_A2 = [
       "ja": "尊敬される",
       "zh": "受尊敬的",
       "ru": "почтенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4641",
+    "lang": "en",
     "lemma": "oven",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50778,12 +47339,11 @@ const WORDS_EN_A2 = [
       "zh": "烤箱",
       "ru": "печь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ovens"
   },
   {
     "id": "en_4644",
+    "lang": "en",
     "lemma": "collar",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50804,12 +47364,11 @@ const WORDS_EN_A2 = [
       "zh": "衣领",
       "ru": "воротник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "collars"
   },
   {
     "id": "en_4646",
+    "lang": "en",
     "lemma": "mere",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50828,12 +47387,11 @@ const WORDS_EN_A2 = [
       "ja": "単なる",
       "zh": "仅仅",
       "ru": "простой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4647",
+    "lang": "en",
     "lemma": "belief",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50853,12 +47411,11 @@ const WORDS_EN_A2 = [
       "zh": "信念",
       "ru": "убеждение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "beliefs"
   },
   {
     "id": "en_4648",
+    "lang": "en",
     "lemma": "storage",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50879,12 +47436,11 @@ const WORDS_EN_A2 = [
       "zh": "储存",
       "ru": "хранение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "storages"
   },
   {
     "id": "en_4649",
+    "lang": "en",
     "lemma": "rusty",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50904,12 +47460,11 @@ const WORDS_EN_A2 = [
       "ja": "錆びた",
       "zh": "生锈的",
       "ru": "ржавый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4654",
+    "lang": "en",
     "lemma": "sum",
     "pos": "Verb",
     "cefr": "A2",
@@ -50928,15 +47483,11 @@ const WORDS_EN_A2 = [
       "ja": "合計する",
       "zh": "求和",
       "ru": "суммировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sum",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4655",
+    "lang": "en",
     "lemma": "dedicated",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -50955,12 +47506,11 @@ const WORDS_EN_A2 = [
       "ja": "献身的な",
       "zh": "专注的",
       "ru": "преданный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4656",
+    "lang": "en",
     "lemma": "ladder",
     "pos": "Nomen",
     "cefr": "A2",
@@ -50981,12 +47531,11 @@ const WORDS_EN_A2 = [
       "zh": "梯子",
       "ru": "лестница"
     },
-    "examples": [],
-    "meta": {},
     "plural": "ladders"
   },
   {
     "id": "en_4657",
+    "lang": "en",
     "lemma": "alternative",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51005,12 +47554,11 @@ const WORDS_EN_A2 = [
       "ja": "代替の",
       "zh": "替代的",
       "ru": "альтернативный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4658",
+    "lang": "en",
     "lemma": "alternative",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51030,12 +47578,11 @@ const WORDS_EN_A2 = [
       "zh": "替代方案",
       "ru": "альтернатива"
     },
-    "examples": [],
-    "meta": {},
     "plural": "alternatives"
   },
   {
     "id": "en_4659",
+    "lang": "en",
     "lemma": "raid",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51055,12 +47602,11 @@ const WORDS_EN_A2 = [
       "zh": "突袭",
       "ru": "набег"
     },
-    "examples": [],
-    "meta": {},
     "plural": "raids"
   },
   {
     "id": "en_4660",
+    "lang": "en",
     "lemma": "raid",
     "pos": "Verb",
     "cefr": "A2",
@@ -51079,15 +47625,11 @@ const WORDS_EN_A2 = [
       "ja": "襲撃する",
       "zh": "突袭",
       "ru": "совершать набег"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "raid",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4661",
+    "lang": "en",
     "lemma": "corporate",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51106,12 +47648,11 @@ const WORDS_EN_A2 = [
       "ja": "企業の",
       "zh": "公司的",
       "ru": "корпоративный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4662",
+    "lang": "en",
     "lemma": "folk",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51132,12 +47673,11 @@ const WORDS_EN_A2 = [
       "zh": "人民",
       "ru": "люди"
     },
-    "examples": [],
-    "meta": {},
     "plural": "folk or folks"
   },
   {
     "id": "en_4665",
+    "lang": "en",
     "lemma": "smarter",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51157,12 +47697,11 @@ const WORDS_EN_A2 = [
       "ja": "より賢い",
       "zh": "更聪明的",
       "ru": "умнее"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4666",
+    "lang": "en",
     "lemma": "chess",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51182,12 +47721,11 @@ const WORDS_EN_A2 = [
       "zh": "国际象棋",
       "ru": "шахматы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4667",
+    "lang": "en",
     "lemma": "cruise",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51208,12 +47746,11 @@ const WORDS_EN_A2 = [
       "zh": "游轮旅行",
       "ru": "круиз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cruises"
   },
   {
     "id": "en_4668",
+    "lang": "en",
     "lemma": "cruise",
     "pos": "Verb",
     "cefr": "A2",
@@ -51233,15 +47770,11 @@ const WORDS_EN_A2 = [
       "ja": "クルーズする",
       "zh": "乘游轮旅行",
       "ru": "совершать круиз"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cruise",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4669",
+    "lang": "en",
     "lemma": "primary",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51260,12 +47793,11 @@ const WORDS_EN_A2 = [
       "ja": "主要な",
       "zh": "主要的",
       "ru": "первичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4671",
+    "lang": "en",
     "lemma": "rhythm",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51285,12 +47817,11 @@ const WORDS_EN_A2 = [
       "zh": "节奏",
       "ru": "ритм"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rhythms"
   },
   {
     "id": "en_4672",
+    "lang": "en",
     "lemma": "drum",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51311,12 +47842,11 @@ const WORDS_EN_A2 = [
       "zh": "鼓",
       "ru": "барабан"
     },
-    "examples": [],
-    "meta": {},
     "plural": "drums"
   },
   {
     "id": "en_4673",
+    "lang": "en",
     "lemma": "drum",
     "pos": "Verb",
     "cefr": "A2",
@@ -51335,15 +47865,11 @@ const WORDS_EN_A2 = [
       "ja": "ドラムを叩く",
       "zh": "敲鼓",
       "ru": "барабанить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drum",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4675",
+    "lang": "en",
     "lemma": "motorcycle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51364,12 +47890,11 @@ const WORDS_EN_A2 = [
       "zh": "摩托车",
       "ru": "мотоцикл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "motorcycles"
   },
   {
     "id": "en_4677",
+    "lang": "en",
     "lemma": "barrel",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51390,12 +47915,11 @@ const WORDS_EN_A2 = [
       "zh": "桶",
       "ru": "бочка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "barrels"
   },
   {
     "id": "en_4679",
+    "lang": "en",
     "lemma": "cargo",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51416,12 +47940,11 @@ const WORDS_EN_A2 = [
       "zh": "货物",
       "ru": "груз"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cargos or cargoes"
   },
   {
     "id": "en_4681",
+    "lang": "en",
     "lemma": "shove",
     "pos": "Verb",
     "cefr": "A2",
@@ -51441,15 +47964,11 @@ const WORDS_EN_A2 = [
       "ja": "押す",
       "zh": "推",
       "ru": "толкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shove",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4683",
+    "lang": "en",
     "lemma": "trailer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51470,12 +47989,11 @@ const WORDS_EN_A2 = [
       "zh": "拖车",
       "ru": "прицеп"
     },
-    "examples": [],
-    "meta": {},
     "plural": "trailers"
   },
   {
     "id": "en_4684",
+    "lang": "en",
     "lemma": "cannon",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51495,12 +48013,11 @@ const WORDS_EN_A2 = [
       "zh": "大炮",
       "ru": "пушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cannons"
   },
   {
     "id": "en_4685",
+    "lang": "en",
     "lemma": "cannon",
     "pos": "Verb",
     "cefr": "A2",
@@ -51519,15 +48036,11 @@ const WORDS_EN_A2 = [
       "ja": "衝突する",
       "zh": "碰撞",
       "ru": "сталкиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cannon",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4687",
+    "lang": "en",
     "lemma": "arse",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51547,12 +48060,11 @@ const WORDS_EN_A2 = [
       "zh": "臀部",
       "ru": "ягодицы"
     },
-    "examples": [],
-    "meta": {},
     "plural": "arses"
   },
   {
     "id": "en_4688",
+    "lang": "en",
     "lemma": "ally",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51572,12 +48084,11 @@ const WORDS_EN_A2 = [
       "zh": "盟国",
       "ru": "союзник"
     },
-    "examples": [],
-    "meta": {},
     "plural": "allies"
   },
   {
     "id": "en_4689",
+    "lang": "en",
     "lemma": "ally",
     "pos": "Verb",
     "cefr": "A2",
@@ -51596,15 +48107,11 @@ const WORDS_EN_A2 = [
       "ja": "同盟を結ぶ",
       "zh": "结盟",
       "ru": "союзничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ally",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4690",
+    "lang": "en",
     "lemma": "wee",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51624,12 +48131,11 @@ const WORDS_EN_A2 = [
       "ja": "とても小さい",
       "zh": "极小的",
       "ru": "крошечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4691",
+    "lang": "en",
     "lemma": "wee",
     "pos": "Verb",
     "cefr": "A2",
@@ -51648,15 +48154,11 @@ const WORDS_EN_A2 = [
       "ja": "排尿する",
       "zh": "排尿",
       "ru": "мочиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wee",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4693",
+    "lang": "en",
     "lemma": "dull",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51676,12 +48178,11 @@ const WORDS_EN_A2 = [
       "ja": "先の丸い",
       "zh": "钝的",
       "ru": "тупой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4694",
+    "lang": "en",
     "lemma": "dull",
     "pos": "Verb",
     "cefr": "A2",
@@ -51700,15 +48201,11 @@ const WORDS_EN_A2 = [
       "ja": "丸くする",
       "zh": "使变钝",
       "ru": "затупить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dull",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4695",
+    "lang": "en",
     "lemma": "teenage",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51728,12 +48225,11 @@ const WORDS_EN_A2 = [
       "ja": "十代の",
       "zh": "青少年的",
       "ru": "подростковый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4696",
+    "lang": "en",
     "lemma": "cooperate",
     "pos": "Verb",
     "cefr": "A2",
@@ -51753,15 +48249,11 @@ const WORDS_EN_A2 = [
       "ja": "協力する",
       "zh": "合作",
       "ru": "сотрудничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cooperate",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4698",
+    "lang": "en",
     "lemma": "worthless",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -51780,12 +48272,11 @@ const WORDS_EN_A2 = [
       "ja": "価値のない",
       "zh": "无价值的",
       "ru": "бесценный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4699",
+    "lang": "en",
     "lemma": "kindness",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51806,12 +48297,11 @@ const WORDS_EN_A2 = [
       "zh": "善良",
       "ru": "доброта"
     },
-    "examples": [],
-    "meta": {},
     "plural": "kindnesses"
   },
   {
     "id": "en_4702",
+    "lang": "en",
     "lemma": "grip",
     "pos": "Verb",
     "cefr": "A2",
@@ -51831,15 +48321,11 @@ const WORDS_EN_A2 = [
       "ja": "しっかり握る",
       "zh": "紧握",
       "ru": "схватить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grip",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4703",
+    "lang": "en",
     "lemma": "grip",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51860,12 +48346,11 @@ const WORDS_EN_A2 = [
       "zh": "握法",
       "ru": "хватка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "grips"
   },
   {
     "id": "en_4705",
+    "lang": "en",
     "lemma": "rumor",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51886,12 +48371,11 @@ const WORDS_EN_A2 = [
       "zh": "谣言",
       "ru": "слух"
     },
-    "examples": [],
-    "meta": {},
     "plural": "rumors"
   },
   {
     "id": "en_4707",
+    "lang": "en",
     "lemma": "skirt",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51912,12 +48396,11 @@ const WORDS_EN_A2 = [
       "zh": "裙子",
       "ru": "юбка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "skirts"
   },
   {
     "id": "en_4709",
+    "lang": "en",
     "lemma": "frog",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51938,12 +48421,11 @@ const WORDS_EN_A2 = [
       "zh": "青蛙",
       "ru": "лягушка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "frogs"
   },
   {
     "id": "en_4710",
+    "lang": "en",
     "lemma": "perfume",
     "pos": "Nomen",
     "cefr": "A2",
@@ -51964,12 +48446,11 @@ const WORDS_EN_A2 = [
       "zh": "香水",
       "ru": "духи"
     },
-    "examples": [],
-    "meta": {},
     "plural": "perfumes"
   },
   {
     "id": "en_4711",
+    "lang": "en",
     "lemma": "perfume",
     "pos": "Verb",
     "cefr": "A2",
@@ -51989,15 +48470,11 @@ const WORDS_EN_A2 = [
       "ja": "香りをつける",
       "zh": "使芬芳",
       "ru": "ароматизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "perfume",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4714",
+    "lang": "en",
     "lemma": "association",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52017,12 +48494,11 @@ const WORDS_EN_A2 = [
       "zh": "协会",
       "ru": "ассоциация"
     },
-    "examples": [],
-    "meta": {},
     "plural": "associations"
   },
   {
     "id": "en_4715",
+    "lang": "en",
     "lemma": "spike",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52043,12 +48519,11 @@ const WORDS_EN_A2 = [
       "zh": "钉子",
       "ru": "гвоздь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spikes"
   },
   {
     "id": "en_4716",
+    "lang": "en",
     "lemma": "spike",
     "pos": "Verb",
     "cefr": "A2",
@@ -52068,17 +48543,13 @@ const WORDS_EN_A2 = [
       "ja": "大きな釘で固定する",
       "zh": "用大钉子固定",
       "ru": "прибивать большими гвоздями"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spike",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4717",
+    "lang": "en",
     "lemma": "eleven",
-    "pos": "Nomen",
+    "pos": "Numerale",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -52095,13 +48566,11 @@ const WORDS_EN_A2 = [
       "ja": "11",
       "zh": "11",
       "ru": "одиннадцать"
-    },
-    "examples": [],
-    "meta": {},
-    "plural": "elevens"
+    }
   },
   {
     "id": "en_4718",
+    "lang": "en",
     "lemma": "gallery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52122,12 +48591,11 @@ const WORDS_EN_A2 = [
       "zh": "画廊",
       "ru": "галерея"
     },
-    "examples": [],
-    "meta": {},
     "plural": "galleries"
   },
   {
     "id": "en_4719",
+    "lang": "en",
     "lemma": "ginger",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52148,12 +48616,11 @@ const WORDS_EN_A2 = [
       "zh": "生姜",
       "ru": "имбирь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "gingers"
   },
   {
     "id": "en_4721",
+    "lang": "en",
     "lemma": "fist",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52174,12 +48641,11 @@ const WORDS_EN_A2 = [
       "zh": "拳头",
       "ru": "кулак"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fists"
   },
   {
     "id": "en_4723",
+    "lang": "en",
     "lemma": "improve",
     "pos": "Verb",
     "cefr": "A2",
@@ -52198,15 +48664,11 @@ const WORDS_EN_A2 = [
       "ja": "改善する",
       "zh": "改进",
       "ru": "улучшаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "improve",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4724",
+    "lang": "en",
     "lemma": "creation",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52226,12 +48688,11 @@ const WORDS_EN_A2 = [
       "zh": "创作",
       "ru": "творение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "creations"
   },
   {
     "id": "en_4725",
+    "lang": "en",
     "lemma": "infection",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52251,12 +48712,11 @@ const WORDS_EN_A2 = [
       "zh": "感染",
       "ru": "инфекция"
     },
-    "examples": [],
-    "meta": {},
     "plural": "infections"
   },
   {
     "id": "en_4726",
+    "lang": "en",
     "lemma": "strikes",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52276,12 +48736,11 @@ const WORDS_EN_A2 = [
       "zh": "罢工",
       "ru": "забастовки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "strikes"
   },
   {
     "id": "en_4727",
+    "lang": "en",
     "lemma": "tension",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52301,12 +48760,11 @@ const WORDS_EN_A2 = [
       "zh": "紧张",
       "ru": "напряжение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tensions"
   },
   {
     "id": "en_4728",
+    "lang": "en",
     "lemma": "whistles",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52326,12 +48784,11 @@ const WORDS_EN_A2 = [
       "zh": "哨子",
       "ru": "свистки"
     },
-    "examples": [],
-    "meta": {},
     "plural": "whistles"
   },
   {
     "id": "en_4730",
+    "lang": "en",
     "lemma": "certificate",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52351,12 +48808,11 @@ const WORDS_EN_A2 = [
       "zh": "证书",
       "ru": "сертификат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "certificates"
   },
   {
     "id": "en_4732",
+    "lang": "en",
     "lemma": "bold",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52375,12 +48831,11 @@ const WORDS_EN_A2 = [
       "ja": "大胆な",
       "zh": "大胆的",
       "ru": "смелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4736",
+    "lang": "en",
     "lemma": "suspended",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52399,12 +48854,11 @@ const WORDS_EN_A2 = [
       "ja": "中断された",
       "zh": "暂停的",
       "ru": "приостановленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4737",
+    "lang": "en",
     "lemma": "affected",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52423,12 +48877,11 @@ const WORDS_EN_A2 = [
       "ja": "影響を受けた",
       "zh": "受影响的",
       "ru": "затронутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4738",
+    "lang": "en",
     "lemma": "envy",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52448,12 +48901,11 @@ const WORDS_EN_A2 = [
       "zh": "嫉妒",
       "ru": "зависть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "envies"
   },
   {
     "id": "en_4739",
+    "lang": "en",
     "lemma": "envy",
     "pos": "Verb",
     "cefr": "A2",
@@ -52472,15 +48924,11 @@ const WORDS_EN_A2 = [
       "ja": "嫉妬する",
       "zh": "嫉妒",
       "ru": "завидовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "envy",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4740",
+    "lang": "en",
     "lemma": "whale",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52500,12 +48948,11 @@ const WORDS_EN_A2 = [
       "zh": "鲸鱼",
       "ru": "кит"
     },
-    "examples": [],
-    "meta": {},
     "plural": "whales"
   },
   {
     "id": "en_4742",
+    "lang": "en",
     "lemma": "dial",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52526,12 +48973,11 @@ const WORDS_EN_A2 = [
       "zh": "刻度盘",
       "ru": "циферблат"
     },
-    "examples": [],
-    "meta": {},
     "plural": "dials"
   },
   {
     "id": "en_4743",
+    "lang": "en",
     "lemma": "dial",
     "pos": "Verb",
     "cefr": "A2",
@@ -52550,15 +48996,11 @@ const WORDS_EN_A2 = [
       "ja": "ダイヤルする",
       "zh": "拨号",
       "ru": "набирать номер"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dial",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4745",
+    "lang": "en",
     "lemma": "controlled",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52577,12 +49019,11 @@ const WORDS_EN_A2 = [
       "ja": "制御された",
       "zh": "受控的",
       "ru": "контролируемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4746",
+    "lang": "en",
     "lemma": "lung",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52602,12 +49043,11 @@ const WORDS_EN_A2 = [
       "zh": "肺",
       "ru": "легкое"
     },
-    "examples": [],
-    "meta": {},
     "plural": "lungs"
   },
   {
     "id": "en_4748",
+    "lang": "en",
     "lemma": "coal",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52627,12 +49067,11 @@ const WORDS_EN_A2 = [
       "zh": "煤炭",
       "ru": "уголь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "coals"
   },
   {
     "id": "en_4749",
+    "lang": "en",
     "lemma": "upside",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52652,12 +49091,11 @@ const WORDS_EN_A2 = [
       "zh": "优点",
       "ru": "преимущество"
     },
-    "examples": [],
-    "meta": {},
     "plural": "upsides"
   },
   {
     "id": "en_4751",
+    "lang": "en",
     "lemma": "paranoid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52676,12 +49114,11 @@ const WORDS_EN_A2 = [
       "ja": "被害妄想的な",
       "zh": "偏执的",
       "ru": "параноидный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4755",
+    "lang": "en",
     "lemma": "villa",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52702,12 +49139,11 @@ const WORDS_EN_A2 = [
       "zh": "别墅",
       "ru": "вилла"
     },
-    "examples": [],
-    "meta": {},
     "plural": "villas"
   },
   {
     "id": "en_4757",
+    "lang": "en",
     "lemma": "filling",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52727,12 +49163,11 @@ const WORDS_EN_A2 = [
       "zh": "填充物",
       "ru": "начинка"
     },
-    "examples": [],
-    "meta": {},
     "plural": "fillings"
   },
   {
     "id": "en_4758",
+    "lang": "en",
     "lemma": "filling",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52752,12 +49187,11 @@ const WORDS_EN_A2 = [
       "ja": "満腹感のある",
       "zh": "令人饱腹的",
       "ru": "сытный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4759",
+    "lang": "en",
     "lemma": "comic",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52777,12 +49211,11 @@ const WORDS_EN_A2 = [
       "zh": "喜剧演员",
       "ru": "комик"
     },
-    "examples": [],
-    "meta": {},
     "plural": "comics"
   },
   {
     "id": "en_4760",
+    "lang": "en",
     "lemma": "faint",
     "pos": "Verb",
     "cefr": "A2",
@@ -52801,15 +49234,11 @@ const WORDS_EN_A2 = [
       "ja": "気を失う",
       "zh": "昏迷",
       "ru": "терять сознание"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "faint",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4761",
+    "lang": "en",
     "lemma": "faint",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52828,12 +49257,11 @@ const WORDS_EN_A2 = [
       "ja": "かすかな",
       "zh": "微弱的",
       "ru": "слабый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4762",
+    "lang": "en",
     "lemma": "recovery",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52853,12 +49281,11 @@ const WORDS_EN_A2 = [
       "zh": "恢复",
       "ru": "выздоровление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "recoveries"
   },
   {
     "id": "en_4763",
+    "lang": "en",
     "lemma": "volunteer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52878,12 +49305,11 @@ const WORDS_EN_A2 = [
       "zh": "志愿者",
       "ru": "волонтер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "volunteers"
   },
   {
     "id": "en_4764",
+    "lang": "en",
     "lemma": "volunteer",
     "pos": "Verb",
     "cefr": "A2",
@@ -52902,15 +49328,11 @@ const WORDS_EN_A2 = [
       "ja": "ボランティアをする",
       "zh": "自愿参加",
       "ru": "добровольно предлагать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "volunteer",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4765",
+    "lang": "en",
     "lemma": "tech",
     "pos": "Nomen",
     "cefr": "A2",
@@ -52931,12 +49353,11 @@ const WORDS_EN_A2 = [
       "zh": "技术",
       "ru": "технология"
     },
-    "examples": [],
-    "meta": {},
     "plural": "techs"
   },
   {
     "id": "en_4767",
+    "lang": "en",
     "lemma": "narrow",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -52956,12 +49377,11 @@ const WORDS_EN_A2 = [
       "ja": "狭い",
       "zh": "狭窄的",
       "ru": "узкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4768",
+    "lang": "en",
     "lemma": "narrow",
     "pos": "Verb",
     "cefr": "A2",
@@ -52980,15 +49400,11 @@ const WORDS_EN_A2 = [
       "ja": "狭くなる",
       "zh": "变窄",
       "ru": "сужаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "narrow",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4769",
+    "lang": "en",
     "lemma": "forbid",
     "pos": "Verb",
     "cefr": "A2",
@@ -53007,15 +49423,11 @@ const WORDS_EN_A2 = [
       "ja": "禁止する",
       "zh": "禁止",
       "ru": "запрещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "forbid",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4770",
+    "lang": "en",
     "lemma": "perspective",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53035,12 +49447,11 @@ const WORDS_EN_A2 = [
       "zh": "观点",
       "ru": "перспектива"
     },
-    "examples": [],
-    "meta": {},
     "plural": "perspectives"
   },
   {
     "id": "en_4771",
+    "lang": "en",
     "lemma": "neat",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53060,12 +49471,11 @@ const WORDS_EN_A2 = [
       "ja": "きちんとした",
       "zh": "整洁的",
       "ru": "аккуратный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4772",
+    "lang": "en",
     "lemma": "pierce",
     "pos": "Verb",
     "cefr": "A2",
@@ -53084,15 +49494,11 @@ const WORDS_EN_A2 = [
       "ja": "貫く",
       "zh": "刺穿",
       "ru": "пронзать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pierce",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4773",
+    "lang": "en",
     "lemma": "observe",
     "pos": "Verb",
     "cefr": "A2",
@@ -53111,15 +49517,11 @@ const WORDS_EN_A2 = [
       "ja": "観察する",
       "zh": "观察",
       "ru": "наблюдать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "observe",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4774",
+    "lang": "en",
     "lemma": "cycle",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53139,12 +49541,11 @@ const WORDS_EN_A2 = [
       "zh": "循环",
       "ru": "цикл"
     },
-    "examples": [],
-    "meta": {},
     "plural": "cycles"
   },
   {
     "id": "en_4775",
+    "lang": "en",
     "lemma": "cycle",
     "pos": "Verb",
     "cefr": "A2",
@@ -53165,15 +49566,11 @@ const WORDS_EN_A2 = [
       "ja": "自転車に乗る",
       "zh": "骑自行车",
       "ru": "ездить на велосипеде"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cycle",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4778",
+    "lang": "en",
     "lemma": "goose",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53194,12 +49591,11 @@ const WORDS_EN_A2 = [
       "zh": "鹅",
       "ru": "гусь"
     },
-    "examples": [],
-    "meta": {},
     "plural": "geese"
   },
   {
     "id": "en_4780",
+    "lang": "en",
     "lemma": "conclusion",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53219,12 +49615,11 @@ const WORDS_EN_A2 = [
       "zh": "结论",
       "ru": "заключение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "conclusions"
   },
   {
     "id": "en_4781",
+    "lang": "en",
     "lemma": "designer",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53245,12 +49640,11 @@ const WORDS_EN_A2 = [
       "zh": "设计师",
       "ru": "дизайнер"
     },
-    "examples": [],
-    "meta": {},
     "plural": "designers"
   },
   {
     "id": "en_4782",
+    "lang": "en",
     "lemma": "importance",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53270,12 +49664,11 @@ const WORDS_EN_A2 = [
       "zh": "重要性",
       "ru": "важность"
     },
-    "examples": [],
-    "meta": {},
     "plural": "–"
   },
   {
     "id": "en_4783",
+    "lang": "en",
     "lemma": "spots",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53296,12 +49689,11 @@ const WORDS_EN_A2 = [
       "zh": "斑点",
       "ru": "пятна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "spots"
   },
   {
     "id": "en_4785",
+    "lang": "en",
     "lemma": "sweep",
     "pos": "Verb",
     "cefr": "A2",
@@ -53321,15 +49713,11 @@ const WORDS_EN_A2 = [
       "ja": "掃く",
       "zh": "扫",
       "ru": "подметать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sweep",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4786",
+    "lang": "en",
     "lemma": "communist",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53349,12 +49737,11 @@ const WORDS_EN_A2 = [
       "zh": "共产主义者",
       "ru": "коммунист"
     },
-    "examples": [],
-    "meta": {},
     "plural": "communists"
   },
   {
     "id": "en_4787",
+    "lang": "en",
     "lemma": "communist",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53373,12 +49760,11 @@ const WORDS_EN_A2 = [
       "ja": "共産主義の",
       "zh": "共产主义的",
       "ru": "коммунистический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4789",
+    "lang": "en",
     "lemma": "blackmail",
     "pos": "Verb",
     "cefr": "A2",
@@ -53397,15 +49783,11 @@ const WORDS_EN_A2 = [
       "ja": "脅迫する",
       "zh": "勒索",
       "ru": "шантажировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blackmail",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4790",
+    "lang": "en",
     "lemma": "risky",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53425,12 +49807,11 @@ const WORDS_EN_A2 = [
       "ja": "危険な",
       "zh": "危险的",
       "ru": "рискованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4791",
+    "lang": "en",
     "lemma": "glorious",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53449,12 +49830,11 @@ const WORDS_EN_A2 = [
       "ja": "栄光ある",
       "zh": "光荣的",
       "ru": "славный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4792",
+    "lang": "en",
     "lemma": "hatred",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53474,12 +49854,11 @@ const WORDS_EN_A2 = [
       "zh": "仇恨",
       "ru": "ненависть"
     },
-    "examples": [],
-    "meta": {},
     "plural": "hatreds"
   },
   {
     "id": "en_4798",
+    "lang": "en",
     "lemma": "blank",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53499,12 +49878,11 @@ const WORDS_EN_A2 = [
       "ja": "空白の",
       "zh": "空白的",
       "ru": "пустой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4799",
+    "lang": "en",
     "lemma": "blank",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53524,12 +49902,11 @@ const WORDS_EN_A2 = [
       "zh": "空白处",
       "ru": "пропуск"
     },
-    "examples": [],
-    "meta": {},
     "plural": "blanks"
   },
   {
     "id": "en_4800",
+    "lang": "en",
     "lemma": "tender",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53549,12 +49926,11 @@ const WORDS_EN_A2 = [
       "ja": "柔らかい",
       "zh": "柔软的",
       "ru": "нежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4801",
+    "lang": "en",
     "lemma": "tender",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53574,12 +49950,11 @@ const WORDS_EN_A2 = [
       "zh": "投标",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tenders"
   },
   {
     "id": "en_4802",
+    "lang": "en",
     "lemma": "tender",
     "pos": "Verb",
     "cefr": "A2",
@@ -53598,15 +49973,11 @@ const WORDS_EN_A2 = [
       "ja": "提出する",
       "zh": "提交",
       "ru": "предлагать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tender",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4803",
+    "lang": "en",
     "lemma": "tub",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53627,12 +49998,11 @@ const WORDS_EN_A2 = [
       "zh": "浴缸",
       "ru": "ванна"
     },
-    "examples": [],
-    "meta": {},
     "plural": "tubs"
   },
   {
     "id": "en_4806",
+    "lang": "en",
     "lemma": "slight",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -53651,12 +50021,11 @@ const WORDS_EN_A2 = [
       "ja": "わずかな",
       "zh": "轻微的",
       "ru": "небольшой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "en_4807",
+    "lang": "en",
     "lemma": "slight",
     "pos": "Verb",
     "cefr": "A2",
@@ -53675,15 +50044,11 @@ const WORDS_EN_A2 = [
       "ja": "軽視する",
       "zh": "轻视",
       "ru": "пренебрегать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slight",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "en_4808",
+    "lang": "en",
     "lemma": "slight",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53703,12 +50068,11 @@ const WORDS_EN_A2 = [
       "zh": "冒犯",
       "ru": "оскорбление"
     },
-    "examples": [],
-    "meta": {},
     "plural": "slights"
   },
   {
     "id": "en_4809",
+    "lang": "en",
     "lemma": "addition",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53728,12 +50092,11 @@ const WORDS_EN_A2 = [
       "zh": "加法",
       "ru": "сложение"
     },
-    "examples": [],
-    "meta": {},
     "plural": "additions"
   },
   {
     "id": "en_4810",
+    "lang": "en",
     "lemma": "campus",
     "pos": "Nomen",
     "cefr": "A2",
@@ -53753,8 +50116,6 @@ const WORDS_EN_A2 = [
       "zh": "校园",
       "ru": "кампус"
     },
-    "examples": [],
-    "meta": {},
     "plural": "campuses"
   }
 ];

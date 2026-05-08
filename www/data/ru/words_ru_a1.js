@@ -1,6 +1,7 @@
 const WORDS_RU_A1 = [
   {
     "id": "ru_1",
+    "lang": "ru",
     "lemma": "есть",
     "pos": "Verb",
     "cefr": "A1",
@@ -21,17 +22,13 @@ const WORDS_RU_A1 = [
       "zh": "吃",
       "fr": "manger"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "есть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "est"
     }
   },
   {
     "id": "ru_2",
+    "lang": "ru",
     "lemma": "быть",
     "pos": "Verb",
     "cefr": "A1",
@@ -52,25 +49,25 @@ const WORDS_RU_A1 = [
       "zh": "是",
       "fr": "être"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "быть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "byt"
     }
   },
   {
     "id": "ru_3",
+    "lang": "ru",
     "lemma": "раз",
     "pos": "Nomen",
+    "plural": "разы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "raz"
+    },
     "meanings": {
       "ko": "번",
       "en": "time",
@@ -81,20 +78,15 @@ const WORDS_RU_A1 = [
       "pt": "a vez",
       "ja": "回",
       "zh": "次",
-      "fr": "temps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "разы́",
-    "reading": {
-      "ru": "raz"
+      "fr": "le temps"
     }
   },
   {
     "id": "ru_5",
+    "lang": "ru",
     "lemma": "привет",
     "pos": "Nomen",
+    "plural": "приве́ты",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -102,6 +94,9 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "privet"
+    },
     "meanings": {
       "ko": "안녕",
       "en": "hello",
@@ -114,24 +109,31 @@ const WORDS_RU_A1 = [
       "zh": "你好",
       "fr": "bonjour"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "приве́ты",
-    "reading": {
-      "ru": "privet"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ru_7",
+    "lang": "ru",
     "lemma": "правда",
     "pos": "Nomen",
+    "plural": "пра́вды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pravda"
+    },
     "meanings": {
       "ko": "진실",
       "en": "truth",
@@ -142,18 +144,12 @@ const WORDS_RU_A1 = [
       "pt": "a verdade",
       "ja": "真実",
       "zh": "真相",
-      "fr": "vérité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пра́вды",
-    "reading": {
-      "ru": "pravda"
+      "fr": "la vérité"
     }
   },
   {
     "id": "ru_8",
+    "lang": "ru",
     "lemma": "сказать",
     "pos": "Verb",
     "cefr": "A1",
@@ -174,17 +170,13 @@ const WORDS_RU_A1 = [
       "zh": "说",
       "fr": "dire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сказать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "skazat"
     }
   },
   {
     "id": "ru_9",
+    "lang": "ru",
     "lemma": "сделать",
     "pos": "Verb",
     "cefr": "A1",
@@ -205,19 +197,16 @@ const WORDS_RU_A1 = [
       "zh": "做",
       "fr": "faire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сделать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "sdelat"
     }
   },
   {
     "id": "ru_10",
+    "lang": "ru",
     "lemma": "дело",
     "pos": "Nomen",
+    "plural": "дела́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -225,6 +214,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "delo"
+    },
     "meanings": {
       "ko": "일",
       "en": "business",
@@ -235,26 +227,24 @@ const WORDS_RU_A1 = [
       "pt": "o negócio",
       "ja": "事",
       "zh": "事情",
-      "fr": "affaires"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "дела́",
-    "reading": {
-      "ru": "delo"
+      "fr": "les affaires"
     }
   },
   {
     "id": "ru_11",
+    "lang": "ru",
     "lemma": "день",
     "pos": "Nomen",
+    "plural": "дни",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "den"
+    },
     "meanings": {
       "ko": "낮",
       "en": "day",
@@ -265,18 +255,12 @@ const WORDS_RU_A1 = [
       "pt": "o dia",
       "ja": "日",
       "zh": "天",
-      "fr": "jour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "дни",
-    "reading": {
-      "ru": "den"
+      "fr": "le jour"
     }
   },
   {
     "id": "ru_12",
+    "lang": "ru",
     "lemma": "делать",
     "pos": "Verb",
     "cefr": "A1",
@@ -297,25 +281,25 @@ const WORDS_RU_A1 = [
       "zh": "做",
       "fr": "faire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "делать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "delat"
     }
   },
   {
     "id": "ru_14",
+    "lang": "ru",
     "lemma": "мистер",
     "pos": "Nomen",
+    "plural": "ми́стеры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mister"
+    },
     "meanings": {
       "ko": "미스터",
       "en": "mister",
@@ -328,16 +312,15 @@ const WORDS_RU_A1 = [
       "zh": "先生",
       "fr": "monsieur"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ми́стеры",
-    "reading": {
-      "ru": "mister"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_16",
+    "lang": "ru",
     "lemma": "такой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -357,14 +340,13 @@ const WORDS_RU_A1 = [
       "zh": "这样的",
       "fr": "tel"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "takoy"
     }
   },
   {
     "id": "ru_17",
+    "lang": "ru",
     "lemma": "человек",
     "pos": "Nomen",
     "cefr": "A1",
@@ -373,6 +355,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chelovek"
+    },
     "meanings": {
       "ko": "사람",
       "en": "person",
@@ -383,26 +368,24 @@ const WORDS_RU_A1 = [
       "pt": "a pessoa",
       "ja": "人",
       "zh": "人",
-      "fr": "personne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "chelovek"
+      "fr": "la personne"
     }
   },
   {
     "id": "ru_18",
+    "lang": "ru",
     "lemma": "мама",
     "pos": "Nomen",
+    "plural": "ма́мы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mama"
+    },
     "meanings": {
       "ko": "엄마",
       "en": "mom",
@@ -413,26 +396,24 @@ const WORDS_RU_A1 = [
       "pt": "a mãe",
       "ja": "ママ",
       "zh": "妈妈",
-      "fr": "maman"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ма́мы",
-    "reading": {
-      "ru": "mama"
+      "fr": "la maman"
     }
   },
   {
     "id": "ru_19",
+    "lang": "ru",
     "lemma": "отец",
     "pos": "Nomen",
+    "plural": "отцы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "otets"
+    },
     "meanings": {
       "ko": "아버지",
       "en": "father",
@@ -443,20 +424,15 @@ const WORDS_RU_A1 = [
       "pt": "o pai",
       "ja": "父",
       "zh": "父亲",
-      "fr": "père"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "отцы́",
-    "reading": {
-      "ru": "otets"
+      "fr": "le père"
     }
   },
   {
     "id": "ru_20",
+    "lang": "ru",
     "lemma": "друг",
     "pos": "Nomen",
+    "plural": "друзья́^△",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -464,6 +440,9 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "drug"
+    },
     "meanings": {
       "ko": "친구",
       "en": "friend",
@@ -474,18 +453,12 @@ const WORDS_RU_A1 = [
       "pt": "o amigo",
       "ja": "友達",
       "zh": "朋友",
-      "fr": "ami"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "друзья́^△",
-    "reading": {
-      "ru": "drug"
+      "fr": "l'ami"
     }
   },
   {
     "id": "ru_22",
+    "lang": "ru",
     "lemma": "помочь",
     "pos": "Verb",
     "cefr": "A1",
@@ -506,25 +479,25 @@ const WORDS_RU_A1 = [
       "zh": "帮助",
       "fr": "aider"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "помочь",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pomoch"
     }
   },
   {
     "id": "ru_23",
+    "lang": "ru",
     "lemma": "место",
     "pos": "Nomen",
+    "plural": "места́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mesto"
+    },
     "meanings": {
       "ko": "장소",
       "en": "place",
@@ -535,18 +508,12 @@ const WORDS_RU_A1 = [
       "pt": "o lugar",
       "ja": "場所",
       "zh": "地方",
-      "fr": "place"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "места́",
-    "reading": {
-      "ru": "mesto"
+      "fr": "la place"
     }
   },
   {
     "id": "ru_24",
+    "lang": "ru",
     "lemma": "знать",
     "pos": "Verb",
     "cefr": "A1",
@@ -567,25 +534,25 @@ const WORDS_RU_A1 = [
       "zh": "知道",
       "fr": "savoir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "знать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "znat"
     }
   },
   {
     "id": "ru_25",
+    "lang": "ru",
     "lemma": "парень",
     "pos": "Nomen",
+    "plural": "па́рни",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "paren"
+    },
     "meanings": {
       "ko": "남자",
       "en": "guy",
@@ -596,20 +563,15 @@ const WORDS_RU_A1 = [
       "pt": "o rapaz",
       "ja": "男",
       "zh": "男孩",
-      "fr": "gars"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "па́рни",
-    "reading": {
-      "ru": "paren"
+      "fr": "le gars"
     }
   },
   {
     "id": "ru_26",
+    "lang": "ru",
     "lemma": "деньги",
     "pos": "Nomen",
+    "plural": "де́ньги",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -617,6 +579,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "dengi"
+    },
     "meanings": {
       "ko": "돈",
       "en": "money",
@@ -627,26 +592,24 @@ const WORDS_RU_A1 = [
       "pt": "o dinheiro",
       "ja": "お金",
       "zh": "钱",
-      "fr": "argent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "де́ньги",
-    "reading": {
-      "ru": "dengi"
+      "fr": "l'argent"
     }
   },
   {
     "id": "ru_27",
+    "lang": "ru",
     "lemma": "доктор",
     "pos": "Nomen",
+    "plural": "доктора́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "doktor"
+    },
     "meanings": {
       "ko": "의사",
       "en": "doctor",
@@ -657,18 +620,12 @@ const WORDS_RU_A1 = [
       "pt": "o médico",
       "ja": "医者",
       "zh": "医生",
-      "fr": "docteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "доктора́",
-    "reading": {
-      "ru": "doktor"
+      "fr": "le docteur"
     }
   },
   {
     "id": "ru_28",
+    "lang": "ru",
     "lemma": "поговорить",
     "pos": "Verb",
     "cefr": "A1",
@@ -690,17 +647,13 @@ const WORDS_RU_A1 = [
       "zh": "谈话",
       "fr": "parler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "поговорить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pogovorit"
     }
   },
   {
     "id": "ru_29",
+    "lang": "ru",
     "lemma": "найти",
     "pos": "Verb",
     "cefr": "A1",
@@ -721,17 +674,13 @@ const WORDS_RU_A1 = [
       "zh": "找到",
       "fr": "trouver"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "найти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "nayti"
     }
   },
   {
     "id": "ru_30",
+    "lang": "ru",
     "lemma": "говорить",
     "pos": "Verb",
     "cefr": "A1",
@@ -753,17 +702,13 @@ const WORDS_RU_A1 = [
       "zh": "说话",
       "fr": "parler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "говорить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "govorit"
     }
   },
   {
     "id": "ru_31",
+    "lang": "ru",
     "lemma": "какой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -783,22 +728,25 @@ const WORDS_RU_A1 = [
       "zh": "什么样",
       "fr": "quel genre de"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "kakoy"
     }
   },
   {
     "id": "ru_32",
+    "lang": "ru",
     "lemma": "дом",
     "pos": "Nomen",
+    "plural": "дома́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dom"
+    },
     "meanings": {
       "ko": "집",
       "en": "house",
@@ -809,26 +757,24 @@ const WORDS_RU_A1 = [
       "pt": "a casa",
       "ja": "家",
       "zh": "房子",
-      "fr": "maison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "дома́",
-    "reading": {
-      "ru": "dom"
+      "fr": "la maison"
     }
   },
   {
     "id": "ru_33",
+    "lang": "ru",
     "lemma": "папа",
     "pos": "Nomen",
+    "plural": "па́пы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "papa"
+    },
     "meanings": {
       "ko": "아빠",
       "en": "dad",
@@ -839,18 +785,12 @@ const WORDS_RU_A1 = [
       "pt": "o pai",
       "ja": "パパ",
       "zh": "爸爸",
-      "fr": "papa"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "па́пы",
-    "reading": {
-      "ru": "papa"
+      "fr": "le papa"
     }
   },
   {
     "id": "ru_35",
+    "lang": "ru",
     "lemma": "каждый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -870,16 +810,16 @@ const WORDS_RU_A1 = [
       "zh": "每个",
       "fr": "chaque"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "kazhdyy"
     }
   },
   {
     "id": "ru_36",
+    "lang": "ru",
     "lemma": "имя",
     "pos": "Nomen",
+    "plural": "имена́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -887,6 +827,9 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "imya"
+    },
     "meanings": {
       "ko": "이름",
       "en": "name",
@@ -897,26 +840,24 @@ const WORDS_RU_A1 = [
       "pt": "o nome",
       "ja": "名前",
       "zh": "名字",
-      "fr": "nom"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "имена́",
-    "reading": {
-      "ru": "imya"
+      "fr": "le nom"
     }
   },
   {
     "id": "ru_37",
+    "lang": "ru",
     "lemma": "мать",
     "pos": "Nomen",
+    "plural": "ма́тери",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mat"
+    },
     "meanings": {
       "ko": "어머니",
       "en": "mother",
@@ -927,18 +868,12 @@ const WORDS_RU_A1 = [
       "pt": "a mãe",
       "ja": "母",
       "zh": "母亲",
-      "fr": "mère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ма́тери",
-    "reading": {
-      "ru": "mat"
+      "fr": "la mère"
     }
   },
   {
     "id": "ru_38",
+    "lang": "ru",
     "lemma": "идти",
     "pos": "Verb",
     "cefr": "A1",
@@ -959,17 +894,13 @@ const WORDS_RU_A1 = [
       "zh": "走",
       "fr": "aller"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "идти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "idti"
     }
   },
   {
     "id": "ru_39",
+    "lang": "ru",
     "lemma": "другой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -989,14 +920,13 @@ const WORDS_RU_A1 = [
       "zh": "其他",
       "fr": "autre"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "drugoy"
     }
   },
   {
     "id": "ru_40",
+    "lang": "ru",
     "lemma": "видеть",
     "pos": "Verb",
     "cefr": "A1",
@@ -1017,25 +947,25 @@ const WORDS_RU_A1 = [
       "zh": "看",
       "fr": "voir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "видеть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "videt"
     }
   },
   {
     "id": "ru_41",
+    "lang": "ru",
     "lemma": "вопрос",
     "pos": "Nomen",
+    "plural": "вопро́сы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vopros"
+    },
     "meanings": {
       "ko": "질문",
       "en": "question",
@@ -1046,20 +976,15 @@ const WORDS_RU_A1 = [
       "pt": "a pergunta",
       "ja": "質問",
       "zh": "问题",
-      "fr": "question"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вопро́сы",
-    "reading": {
-      "ru": "vopros"
+      "fr": "la question"
     }
   },
   {
     "id": "ru_42",
+    "lang": "ru",
     "lemma": "работа",
     "pos": "Nomen",
+    "plural": "рабо́ты",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1067,6 +992,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "rabota"
+    },
     "meanings": {
       "ko": "일",
       "en": "work",
@@ -1077,26 +1005,24 @@ const WORDS_RU_A1 = [
       "pt": "o trabalho",
       "ja": "仕事",
       "zh": "工作",
-      "fr": "travail"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "рабо́ты",
-    "reading": {
-      "ru": "rabota"
+      "fr": "le travail"
     }
   },
   {
     "id": "ru_43",
+    "lang": "ru",
     "lemma": "сын",
     "pos": "Nomen",
+    "plural": "сыновья́^△",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "syn"
+    },
     "meanings": {
       "ko": "아들",
       "en": "son",
@@ -1107,26 +1033,24 @@ const WORDS_RU_A1 = [
       "pt": "o filho",
       "ja": "息子",
       "zh": "儿子",
-      "fr": "fils"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сыновья́^△",
-    "reading": {
-      "ru": "syn"
+      "fr": "le fils"
     }
   },
   {
     "id": "ru_44",
+    "lang": "ru",
     "lemma": "пора",
     "pos": "Nomen",
+    "plural": "по́ры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pora"
+    },
     "meanings": {
       "ko": "때",
       "en": "time",
@@ -1137,18 +1061,12 @@ const WORDS_RU_A1 = [
       "pt": "o tempo",
       "ja": "時",
       "zh": "时间",
-      "fr": "temps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "по́ры",
-    "reading": {
-      "ru": "pora"
+      "fr": "le temps"
     }
   },
   {
     "id": "ru_45",
+    "lang": "ru",
     "lemma": "жить",
     "pos": "Verb",
     "cefr": "A1",
@@ -1169,17 +1087,13 @@ const WORDS_RU_A1 = [
       "zh": "生活",
       "fr": "vivre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "жить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zhit"
     }
   },
   {
     "id": "ru_46",
+    "lang": "ru",
     "lemma": "убить",
     "pos": "Verb",
     "cefr": "A1",
@@ -1200,25 +1114,25 @@ const WORDS_RU_A1 = [
       "zh": "杀死",
       "fr": "tuer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "убить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ubit"
     }
   },
   {
     "id": "ru_47",
+    "lang": "ru",
     "lemma": "ночь",
     "pos": "Nomen",
+    "plural": "но́чи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "noch"
+    },
     "meanings": {
       "ko": "밤",
       "en": "night",
@@ -1229,26 +1143,24 @@ const WORDS_RU_A1 = [
       "pt": "a noite",
       "ja": "夜",
       "zh": "夜晚",
-      "fr": "nuit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "но́чи",
-    "reading": {
-      "ru": "noch"
+      "fr": "la nuit"
     }
   },
   {
     "id": "ru_48",
+    "lang": "ru",
     "lemma": "брат",
     "pos": "Nomen",
+    "plural": "бра́тья // бра́ты^△",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "brat"
+    },
     "meanings": {
       "ko": "형제",
       "en": "brother",
@@ -1259,25 +1171,23 @@ const WORDS_RU_A1 = [
       "pt": "o irmão",
       "ja": "兄弟",
       "zh": "兄弟",
-      "fr": "frère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бра́тья // бра́ты^△",
-    "reading": {
-      "ru": "brat"
+      "fr": "le frère"
     }
   },
   {
     "id": "ru_49",
+    "lang": "ru",
     "lemma": "мир",
     "pos": "Nomen",
+    "plural": "*миры́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "mir"
+    },
     "meanings": {
       "ko": "평화",
       "en": "peace",
@@ -1288,26 +1198,24 @@ const WORDS_RU_A1 = [
       "pt": "a paz",
       "ja": "平和",
       "zh": "和平",
-      "fr": "paix"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*миры́",
-    "reading": {
-      "ru": "mir"
+      "fr": "la paix"
     }
   },
   {
     "id": "ru_50",
+    "lang": "ru",
     "lemma": "помощь",
     "pos": "Nomen",
+    "plural": "по́мощи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pomoshch"
+    },
     "meanings": {
       "ko": "도움",
       "en": "help",
@@ -1318,18 +1226,12 @@ const WORDS_RU_A1 = [
       "pt": "a ajuda",
       "ja": "助け",
       "zh": "帮助",
-      "fr": "aide"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "по́мощи",
-    "reading": {
-      "ru": "pomoshch"
+      "fr": "l'aide"
     }
   },
   {
     "id": "ru_51",
+    "lang": "ru",
     "lemma": "увидеть",
     "pos": "Verb",
     "cefr": "A1",
@@ -1350,17 +1252,13 @@ const WORDS_RU_A1 = [
       "zh": "看到",
       "fr": "voir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "увидеть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "uvidet"
     }
   },
   {
     "id": "ru_52",
+    "lang": "ru",
     "lemma": "пойти",
     "pos": "Verb",
     "cefr": "A1",
@@ -1381,17 +1279,13 @@ const WORDS_RU_A1 = [
       "zh": "去",
       "fr": "aller"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "пойти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "poyti"
     }
   },
   {
     "id": "ru_53",
+    "lang": "ru",
     "lemma": "работать",
     "pos": "Verb",
     "cefr": "A1",
@@ -1413,25 +1307,25 @@ const WORDS_RU_A1 = [
       "zh": "工作",
       "fr": "travail"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "работать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "rabotat"
     }
   },
   {
     "id": "ru_54",
+    "lang": "ru",
     "lemma": "дверь",
     "pos": "Nomen",
+    "plural": "две́ри",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dver"
+    },
     "meanings": {
       "ko": "문",
       "en": "door",
@@ -1442,26 +1336,24 @@ const WORDS_RU_A1 = [
       "pt": "a porta",
       "ja": "ドア",
       "zh": "门",
-      "fr": "porte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "две́ри",
-    "reading": {
-      "ru": "dver"
+      "fr": "la porte"
     }
   },
   {
     "id": "ru_55",
+    "lang": "ru",
     "lemma": "женщина",
     "pos": "Nomen",
+    "plural": "же́нщины",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zhenshchina"
+    },
     "meanings": {
       "ko": "여자",
       "en": "woman",
@@ -1472,26 +1364,24 @@ const WORDS_RU_A1 = [
       "pt": "a mulher",
       "ja": "女性",
       "zh": "女人",
-      "fr": "femme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "же́нщины",
-    "reading": {
-      "ru": "zhenshchina"
+      "fr": "la femme"
     }
   },
   {
     "id": "ru_56",
+    "lang": "ru",
     "lemma": "номер",
     "pos": "Nomen",
+    "plural": "номера́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nomer"
+    },
     "meanings": {
       "ko": "번호",
       "en": "number",
@@ -1502,26 +1392,24 @@ const WORDS_RU_A1 = [
       "pt": "o número",
       "ja": "番号",
       "zh": "号码",
-      "fr": "nombre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "номера́",
-    "reading": {
-      "ru": "nomer"
+      "fr": "le nombre"
     }
   },
   {
     "id": "ru_57",
+    "lang": "ru",
     "lemma": "проблема",
     "pos": "Nomen",
+    "plural": "пробле́мы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "problema"
+    },
     "meanings": {
       "ko": "문제",
       "en": "problem",
@@ -1532,25 +1420,23 @@ const WORDS_RU_A1 = [
       "pt": "o problema",
       "ja": "問題",
       "zh": "问题",
-      "fr": "problème"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пробле́мы",
-    "reading": {
-      "ru": "problema"
+      "fr": "le problème"
     }
   },
   {
     "id": "ru_58",
+    "lang": "ru",
     "lemma": "чёрт",
     "pos": "Nomen",
+    "plural": "че́рти",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "chyort"
+    },
     "meanings": {
       "ko": "악마",
       "en": "devil",
@@ -1561,18 +1447,12 @@ const WORDS_RU_A1 = [
       "pt": "o diabo",
       "ja": "悪魔",
       "zh": "魔鬼",
-      "fr": "diable"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "че́рти",
-    "reading": {
-      "ru": "chyort"
+      "fr": "le diable"
     }
   },
   {
     "id": "ru_59",
+    "lang": "ru",
     "lemma": "хороший",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1593,14 +1473,13 @@ const WORDS_RU_A1 = [
       "zh": "好",
       "fr": "bon"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "khoroshiy"
     }
   },
   {
     "id": "ru_60",
+    "lang": "ru",
     "lemma": "вернуться",
     "pos": "Verb",
     "cefr": "A1",
@@ -1621,17 +1500,13 @@ const WORDS_RU_A1 = [
       "zh": "返回",
       "fr": "retour"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "вернуться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "vernutsya"
     }
   },
   {
     "id": "ru_61",
+    "lang": "ru",
     "lemma": "последний",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1651,14 +1526,13 @@ const WORDS_RU_A1 = [
       "zh": "最后",
       "fr": "dernier"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "posledniy"
     }
   },
   {
     "id": "ru_62",
+    "lang": "ru",
     "lemma": "узнать",
     "pos": "Verb",
     "cefr": "A1",
@@ -1679,25 +1553,25 @@ const WORDS_RU_A1 = [
       "zh": "发现",
       "fr": "découvrir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "узнать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "uznat"
     }
   },
   {
     "id": "ru_63",
+    "lang": "ru",
     "lemma": "права",
     "pos": "Nomen",
+    "plural": "права́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "prava"
+    },
     "meanings": {
       "ko": "운전면허증",
       "en": "driver's license",
@@ -1708,18 +1582,12 @@ const WORDS_RU_A1 = [
       "pt": "a carteira de motorista",
       "ja": "運転免許証",
       "zh": "驾驶执照",
-      "fr": "permis de conduire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "права́",
-    "reading": {
-      "ru": "prava"
+      "fr": "le permis de conduire"
     }
   },
   {
     "id": "ru_64",
+    "lang": "ru",
     "lemma": "дети",
     "pos": "Nomen",
     "cefr": "A1",
@@ -1728,6 +1596,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "deti"
+    },
     "meanings": {
       "ko": "아이들",
       "en": "children",
@@ -1738,26 +1609,24 @@ const WORDS_RU_A1 = [
       "pt": "as crianças",
       "ja": "子供たち",
       "zh": "孩子们",
-      "fr": "enfants"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "deti"
+      "fr": "les enfants"
     }
   },
   {
     "id": "ru_65",
+    "lang": "ru",
     "lemma": "жена",
     "pos": "Nomen",
+    "plural": "жёны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zhena"
+    },
     "meanings": {
       "ko": "아내",
       "en": "wife",
@@ -1768,26 +1637,24 @@ const WORDS_RU_A1 = [
       "pt": "a esposa",
       "ja": "妻",
       "zh": "妻子",
-      "fr": "femme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "жёны",
-    "reading": {
-      "ru": "zhena"
+      "fr": "la femme"
     }
   },
   {
     "id": "ru_66",
+    "lang": "ru",
     "lemma": "глаза",
     "pos": "Nomen",
+    "plural": "глаза́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "glaza"
+    },
     "meanings": {
       "ko": "눈",
       "en": "eyes",
@@ -1798,25 +1665,23 @@ const WORDS_RU_A1 = [
       "pt": "os olhos",
       "ja": "目",
       "zh": "眼睛",
-      "fr": "yeux"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "глаза́",
-    "reading": {
-      "ru": "glaza"
+      "fr": "les yeux"
     }
   },
   {
     "id": "ru_67",
+    "lang": "ru",
     "lemma": "чувак",
     "pos": "Nomen",
+    "plural": "чуваки́",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "chuvak"
+    },
     "meanings": {
       "ko": "친구",
       "en": "dude",
@@ -1827,18 +1692,12 @@ const WORDS_RU_A1 = [
       "pt": "o cara",
       "ja": "やつ",
       "zh": "伙计",
-      "fr": "mec"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "чуваки́",
-    "reading": {
-      "ru": "chuvak"
+      "fr": "le mec"
     }
   },
   {
     "id": "ru_68",
+    "lang": "ru",
     "lemma": "взять",
     "pos": "Verb",
     "cefr": "A1",
@@ -1859,25 +1718,25 @@ const WORDS_RU_A1 = [
       "zh": "拿",
       "fr": "prendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "взять",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "vzyat"
     }
   },
   {
     "id": "ru_69",
+    "lang": "ru",
     "lemma": "часть",
     "pos": "Nomen",
+    "plural": "ча́сти",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chast"
+    },
     "meanings": {
       "ko": "부분",
       "en": "part",
@@ -1888,18 +1747,12 @@ const WORDS_RU_A1 = [
       "pt": "a parte",
       "ja": "部分",
       "zh": "部分",
-      "fr": "partie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ча́сти",
-    "reading": {
-      "ru": "chast"
+      "fr": "la partie"
     }
   },
   {
     "id": "ru_70",
+    "lang": "ru",
     "lemma": "стать",
     "pos": "Verb",
     "cefr": "A1",
@@ -1920,17 +1773,13 @@ const WORDS_RU_A1 = [
       "zh": "成为",
       "fr": "devenir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "стать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "stat"
     }
   },
   {
     "id": "ru_72",
+    "lang": "ru",
     "lemma": "дорогая",
     "pos": "Nomen",
     "cefr": "A1",
@@ -1939,6 +1788,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dorogaya"
+    },
     "meanings": {
       "ko": "여보",
       "en": "darling",
@@ -1949,26 +1801,24 @@ const WORDS_RU_A1 = [
       "pt": "a querida",
       "ja": "ダーリン",
       "zh": "亲爱的",
-      "fr": "chéri"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "dorogaya"
+      "fr": "le chéri"
     }
   },
   {
     "id": "ru_73",
+    "lang": "ru",
     "lemma": "слова",
     "pos": "Nomen",
+    "plural": "слова́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "slova"
+    },
     "meanings": {
       "ko": "말",
       "en": "words",
@@ -1979,26 +1829,24 @@ const WORDS_RU_A1 = [
       "pt": "as palavras",
       "ja": "言葉",
       "zh": "话语",
-      "fr": "mots"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "слова́",
-    "reading": {
-      "ru": "slova"
+      "fr": "les mots"
     }
   },
   {
     "id": "ru_74",
+    "lang": "ru",
     "lemma": "сердце",
     "pos": "Nomen",
+    "plural": "сердца́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "serdtse"
+    },
     "meanings": {
       "ko": "심장",
       "en": "heart",
@@ -2009,26 +1857,24 @@ const WORDS_RU_A1 = [
       "pt": "o coração",
       "ja": "心臓",
       "zh": "心脏",
-      "fr": "cœur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сердца́",
-    "reading": {
-      "ru": "serdtse"
+      "fr": "le cœur"
     }
   },
   {
     "id": "ru_75",
+    "lang": "ru",
     "lemma": "момент",
     "pos": "Nomen",
+    "plural": "моме́нты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "moment"
+    },
     "meanings": {
       "ko": "순간",
       "en": "moment",
@@ -2039,26 +1885,24 @@ const WORDS_RU_A1 = [
       "pt": "o momento",
       "ja": "瞬間",
       "zh": "时刻",
-      "fr": "moment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "моме́нты",
-    "reading": {
-      "ru": "moment"
+      "fr": "le moment"
     }
   },
   {
     "id": "ru_76",
+    "lang": "ru",
     "lemma": "утро",
     "pos": "Nomen",
+    "plural": "у́тра",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "utro"
+    },
     "meanings": {
       "ko": "아침",
       "en": "morning",
@@ -2069,25 +1913,23 @@ const WORDS_RU_A1 = [
       "pt": "a manhã",
       "ja": "朝",
       "zh": "早晨",
-      "fr": "matin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "у́тра",
-    "reading": {
-      "ru": "utro"
+      "fr": "le matin"
     }
   },
   {
     "id": "ru_77",
+    "lang": "ru",
     "lemma": "ох",
     "pos": "Nomen",
+    "plural": "о́хи",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "okh"
+    },
     "meanings": {
       "ko": "신음",
       "en": "groan",
@@ -2100,16 +1942,15 @@ const WORDS_RU_A1 = [
       "zh": "呻吟",
       "fr": "gémir"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "о́хи",
-    "reading": {
-      "ru": "okh"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_78",
+    "lang": "ru",
     "lemma": "большой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2130,14 +1971,13 @@ const WORDS_RU_A1 = [
       "zh": "大",
       "fr": "grand"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "bolshoy"
     }
   },
   {
     "id": "ru_80",
+    "lang": "ru",
     "lemma": "уйти",
     "pos": "Verb",
     "cefr": "A1",
@@ -2158,25 +1998,25 @@ const WORDS_RU_A1 = [
       "zh": "离开",
       "fr": "laisser"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "уйти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "uyti"
     }
   },
   {
     "id": "ru_81",
+    "lang": "ru",
     "lemma": "любовь",
     "pos": "Nomen",
+    "plural": "любви́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "lyubov"
+    },
     "meanings": {
       "ko": "사랑",
       "en": "love",
@@ -2187,26 +2027,24 @@ const WORDS_RU_A1 = [
       "pt": "o amor",
       "ja": "愛",
       "zh": "爱",
-      "fr": "amour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "любви́",
-    "reading": {
-      "ru": "lyubov"
+      "fr": "l'amour"
     }
   },
   {
     "id": "ru_82",
+    "lang": "ru",
     "lemma": "дочь",
     "pos": "Nomen",
+    "plural": "до́чери",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "doch"
+    },
     "meanings": {
       "ko": "딸",
       "en": "daughter",
@@ -2217,18 +2055,12 @@ const WORDS_RU_A1 = [
       "pt": "a filha",
       "ja": "娘",
       "zh": "女儿",
-      "fr": "fille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "до́чери",
-    "reading": {
-      "ru": "doch"
+      "fr": "la fille"
     }
   },
   {
     "id": "ru_83",
+    "lang": "ru",
     "lemma": "новый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2249,14 +2081,13 @@ const WORDS_RU_A1 = [
       "zh": "新",
       "fr": "nouveau"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "novyy"
     }
   },
   {
     "id": "ru_84",
+    "lang": "ru",
     "lemma": "дать",
     "pos": "Verb",
     "cefr": "A1",
@@ -2277,25 +2108,25 @@ const WORDS_RU_A1 = [
       "zh": "给",
       "fr": "donner"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "дать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "dat"
     }
   },
   {
     "id": "ru_85",
+    "lang": "ru",
     "lemma": "девушка",
     "pos": "Nomen",
+    "plural": "де́вушки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "devushka"
+    },
     "meanings": {
       "ko": "소녀",
       "en": "girl",
@@ -2306,26 +2137,24 @@ const WORDS_RU_A1 = [
       "pt": "a garota",
       "ja": "少女",
       "zh": "女孩",
-      "fr": "fille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "де́вушки",
-    "reading": {
-      "ru": "devushka"
+      "fr": "la fille"
     }
   },
   {
     "id": "ru_86",
+    "lang": "ru",
     "lemma": "вечер",
     "pos": "Nomen",
+    "plural": "вечера́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vecher"
+    },
     "meanings": {
       "ko": "저녁",
       "en": "evening",
@@ -2336,26 +2165,24 @@ const WORDS_RU_A1 = [
       "pt": "a noite",
       "ja": "夕方",
       "zh": "晚上",
-      "fr": "soir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вечера́",
-    "reading": {
-      "ru": "vecher"
+      "fr": "le soir"
     }
   },
   {
     "id": "ru_87",
+    "lang": "ru",
     "lemma": "шанс",
     "pos": "Nomen",
+    "plural": "ша́нсы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "shans"
+    },
     "meanings": {
       "ko": "기회",
       "en": "chance",
@@ -2366,18 +2193,12 @@ const WORDS_RU_A1 = [
       "pt": "a chance",
       "ja": "チャンス",
       "zh": "机会",
-      "fr": "chance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ша́нсы",
-    "reading": {
-      "ru": "shans"
+      "fr": "la chance"
     }
   },
   {
     "id": "ru_88",
+    "lang": "ru",
     "lemma": "понять",
     "pos": "Verb",
     "cefr": "A1",
@@ -2398,17 +2219,13 @@ const WORDS_RU_A1 = [
       "zh": "理解",
       "fr": "comprendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "понять",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ponyat"
     }
   },
   {
     "id": "ru_89",
+    "lang": "ru",
     "lemma": "рассказать",
     "pos": "Verb",
     "cefr": "A1",
@@ -2429,17 +2246,13 @@ const WORDS_RU_A1 = [
       "zh": "讲述",
       "fr": "dire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "рассказать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "rasskazat"
     }
   },
   {
     "id": "ru_90",
+    "lang": "ru",
     "lemma": "никого",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2459,14 +2272,13 @@ const WORDS_RU_A1 = [
       "zh": "没人",
       "fr": "personne"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nikogo"
     }
   },
   {
     "id": "ru_91",
+    "lang": "ru",
     "lemma": "самый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2486,14 +2298,13 @@ const WORDS_RU_A1 = [
       "zh": "最",
       "fr": "plus"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "samyy"
     }
   },
   {
     "id": "ru_92",
+    "lang": "ru",
     "lemma": "поверить",
     "pos": "Verb",
     "cefr": "A1",
@@ -2514,25 +2325,25 @@ const WORDS_RU_A1 = [
       "zh": "相信",
       "fr": "croire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "поверить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "poverit"
     }
   },
   {
     "id": "ru_93",
+    "lang": "ru",
     "lemma": "слово",
     "pos": "Nomen",
+    "plural": "слова́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "slovo"
+    },
     "meanings": {
       "ko": "단어",
       "en": "word",
@@ -2543,18 +2354,12 @@ const WORDS_RU_A1 = [
       "pt": "a palavra",
       "ja": "単語",
       "zh": "单词",
-      "fr": "mot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "слова́",
-    "reading": {
-      "ru": "slovo"
+      "fr": "le mot"
     }
   },
   {
     "id": "ru_94",
+    "lang": "ru",
     "lemma": "получить",
     "pos": "Verb",
     "cefr": "A1",
@@ -2575,17 +2380,13 @@ const WORDS_RU_A1 = [
       "zh": "收到",
       "fr": "recevoir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "получить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "poluchit"
     }
   },
   {
     "id": "ru_95",
+    "lang": "ru",
     "lemma": "посмотреть",
     "pos": "Verb",
     "cefr": "A1",
@@ -2606,25 +2407,25 @@ const WORDS_RU_A1 = [
       "zh": "看",
       "fr": "regarder"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "посмотреть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "posmotret"
     }
   },
   {
     "id": "ru_96",
+    "lang": "ru",
     "lemma": "тело",
     "pos": "Nomen",
+    "plural": "тела́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "telo"
+    },
     "meanings": {
       "ko": "몸",
       "en": "body",
@@ -2635,26 +2436,24 @@ const WORDS_RU_A1 = [
       "pt": "o corpo",
       "ja": "体",
       "zh": "身体",
-      "fr": "corps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "тела́",
-    "reading": {
-      "ru": "telo"
+      "fr": "le corps"
     }
   },
   {
     "id": "ru_97",
+    "lang": "ru",
     "lemma": "лицо",
     "pos": "Nomen",
+    "plural": "ли́ца",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "litso"
+    },
     "meanings": {
       "ko": "얼굴",
       "en": "face",
@@ -2665,26 +2464,24 @@ const WORDS_RU_A1 = [
       "pt": "o rosto",
       "ja": "顔",
       "zh": "脸",
-      "fr": "visage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ли́ца",
-    "reading": {
-      "ru": "litso"
+      "fr": "le visage"
     }
   },
   {
     "id": "ru_98",
+    "lang": "ru",
     "lemma": "телефон",
     "pos": "Nomen",
+    "plural": "телефо́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "telefon"
+    },
     "meanings": {
       "ko": "전화",
       "en": "telephone",
@@ -2695,25 +2492,23 @@ const WORDS_RU_A1 = [
       "pt": "o telefone",
       "ja": "電話",
       "zh": "电话",
-      "fr": "téléphone"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "телефо́ны",
-    "reading": {
-      "ru": "telefon"
+      "fr": "le téléphone"
     }
   },
   {
     "id": "ru_99",
+    "lang": "ru",
     "lemma": "честь",
     "pos": "Nomen",
+    "plural": "*че́сти",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "chest"
+    },
     "meanings": {
       "ko": "명예",
       "en": "honor",
@@ -2724,26 +2519,24 @@ const WORDS_RU_A1 = [
       "pt": "a honra",
       "ja": "名誉",
       "zh": "荣誉",
-      "fr": "honneur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*че́сти",
-    "reading": {
-      "ru": "chest"
+      "fr": "l'honneur"
     }
   },
   {
     "id": "ru_100",
+    "lang": "ru",
     "lemma": "господин",
     "pos": "Nomen",
+    "plural": "господа́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "gospodin"
+    },
     "meanings": {
       "ko": "госпо인",
       "en": "sir",
@@ -2756,24 +2549,27 @@ const WORDS_RU_A1 = [
       "zh": "先生",
       "fr": "monsieur"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "господа́",
-    "reading": {
-      "ru": "gospodin"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_101",
+    "lang": "ru",
     "lemma": "план",
     "pos": "Nomen",
+    "plural": "пла́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "plan"
+    },
     "meanings": {
       "ko": "계획",
       "en": "plan",
@@ -2784,26 +2580,24 @@ const WORDS_RU_A1 = [
       "pt": "o plano",
       "ja": "計画",
       "zh": "计划",
-      "fr": "plan"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пла́ны",
-    "reading": {
-      "ru": "plan"
+      "fr": "le plan"
     }
   },
   {
     "id": "ru_102",
+    "lang": "ru",
     "lemma": "час",
     "pos": "Nomen",
+    "plural": "часы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chas"
+    },
     "meanings": {
       "ko": "시간",
       "en": "hour",
@@ -2814,26 +2608,24 @@ const WORDS_RU_A1 = [
       "pt": "a hora",
       "ja": "時間",
       "zh": "小时",
-      "fr": "heure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "часы́",
-    "reading": {
-      "ru": "chas"
+      "fr": "l'heure"
     }
   },
   {
     "id": "ru_103",
+    "lang": "ru",
     "lemma": "сестра",
     "pos": "Nomen",
+    "plural": "сёстры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sestra"
+    },
     "meanings": {
       "ko": "여동생",
       "en": "sister",
@@ -2844,20 +2636,15 @@ const WORDS_RU_A1 = [
       "pt": "a irmã",
       "ja": "姉妹",
       "zh": "姐妹",
-      "fr": "sœur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сёстры",
-    "reading": {
-      "ru": "sestra"
+      "fr": "la sœur"
     }
   },
   {
     "id": "ru_104",
+    "lang": "ru",
     "lemma": "город",
     "pos": "Nomen",
+    "plural": "города́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2865,6 +2652,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "gorod"
+    },
     "meanings": {
       "ko": "도시",
       "en": "city",
@@ -2875,26 +2665,24 @@ const WORDS_RU_A1 = [
       "pt": "a cidade",
       "ja": "都市",
       "zh": "城市",
-      "fr": "ville"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "города́",
-    "reading": {
-      "ru": "gorod"
+      "fr": "la ville"
     }
   },
   {
     "id": "ru_105",
+    "lang": "ru",
     "lemma": "внимание",
     "pos": "Nomen",
+    "plural": "внима́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vnimanie"
+    },
     "meanings": {
       "ko": "주의",
       "en": "attention",
@@ -2905,26 +2693,24 @@ const WORDS_RU_A1 = [
       "pt": "a atenção",
       "ja": "注意",
       "zh": "注意",
-      "fr": "attention"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "внима́ния",
-    "reading": {
-      "ru": "vnimanie"
+      "fr": "l'attention"
     }
   },
   {
     "id": "ru_107",
+    "lang": "ru",
     "lemma": "семья",
     "pos": "Nomen",
+    "plural": "се́мьи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "semya"
+    },
     "meanings": {
       "ko": "가족",
       "en": "family",
@@ -2935,26 +2721,24 @@ const WORDS_RU_A1 = [
       "pt": "a família",
       "ja": "家族",
       "zh": "家庭",
-      "fr": "famille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "се́мьи",
-    "reading": {
-      "ru": "semya"
+      "fr": "la famille"
     }
   },
   {
     "id": "ru_108",
+    "lang": "ru",
     "lemma": "конец",
     "pos": "Nomen",
+    "plural": "концы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "konets"
+    },
     "meanings": {
       "ko": "끝",
       "en": "end",
@@ -2965,18 +2749,12 @@ const WORDS_RU_A1 = [
       "pt": "o fim",
       "ja": "終わり",
       "zh": "结束",
-      "fr": "fin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "концы́",
-    "reading": {
-      "ru": "konets"
+      "fr": "la fin"
     }
   },
   {
     "id": "ru_109",
+    "lang": "ru",
     "lemma": "думать",
     "pos": "Verb",
     "cefr": "A1",
@@ -2997,17 +2775,13 @@ const WORDS_RU_A1 = [
       "zh": "思考",
       "fr": "penser"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "думать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "dumat"
     }
   },
   {
     "id": "ru_110",
+    "lang": "ru",
     "lemma": "спать",
     "pos": "Verb",
     "cefr": "A1",
@@ -3028,17 +2802,13 @@ const WORDS_RU_A1 = [
       "zh": "睡觉",
       "fr": "dormir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "спать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "spat"
     }
   },
   {
     "id": "ru_111",
+    "lang": "ru",
     "lemma": "остаться",
     "pos": "Verb",
     "cefr": "A1",
@@ -3059,25 +2829,25 @@ const WORDS_RU_A1 = [
       "zh": "留下",
       "fr": "rester"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "остаться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "ostatsya"
     }
   },
   {
     "id": "ru_113",
+    "lang": "ru",
     "lemma": "оружие",
     "pos": "Nomen",
+    "plural": "*ору́жия",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "oruzhie"
+    },
     "meanings": {
       "ko": "무기",
       "en": "weapon",
@@ -3088,18 +2858,12 @@ const WORDS_RU_A1 = [
       "pt": "a arma",
       "ja": "武器",
       "zh": "武器",
-      "fr": "arme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*ору́жия",
-    "reading": {
-      "ru": "oruzhie"
+      "fr": "l'arme"
     }
   },
   {
     "id": "ru_114",
+    "lang": "ru",
     "lemma": "дорогой",
     "pos": "Nomen",
     "cefr": "A1",
@@ -3108,6 +2872,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dorogoy"
+    },
     "meanings": {
       "ko": "소중한 사람",
       "en": "dear one",
@@ -3118,18 +2885,12 @@ const WORDS_RU_A1 = [
       "pt": "o querido",
       "ja": "大切な人",
       "zh": "亲爱的",
-      "fr": "cher"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "dorogoy"
+      "fr": "le cher"
     }
   },
   {
     "id": "ru_115",
+    "lang": "ru",
     "lemma": "дорогой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3150,22 +2911,25 @@ const WORDS_RU_A1 = [
       "zh": "昂贵的",
       "fr": "cher"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "dorogoy"
     }
   },
   {
     "id": "ru_116",
+    "lang": "ru",
     "lemma": "полиция",
     "pos": "Nomen",
+    "plural": "поли́ции",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "politsiya"
+    },
     "meanings": {
       "ko": "경찰",
       "en": "police",
@@ -3176,18 +2940,12 @@ const WORDS_RU_A1 = [
       "pt": "a polícia",
       "ja": "警察",
       "zh": "警察",
-      "fr": "police"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "поли́ции",
-    "reading": {
-      "ru": "politsiya"
+      "fr": "la police"
     }
   },
   {
     "id": "ru_117",
+    "lang": "ru",
     "lemma": "ждать",
     "pos": "Verb",
     "cefr": "A1",
@@ -3208,24 +2966,24 @@ const WORDS_RU_A1 = [
       "zh": "等待",
       "fr": "attendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ждать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zhdat"
     }
   },
   {
     "id": "ru_118",
+    "lang": "ru",
     "lemma": "способ",
     "pos": "Nomen",
+    "plural": "спо́собы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "sposob"
+    },
     "meanings": {
       "ko": "방법",
       "en": "method",
@@ -3236,18 +2994,12 @@ const WORDS_RU_A1 = [
       "pt": "o método",
       "ja": "方法",
       "zh": "方法",
-      "fr": "méthode"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "спо́собы",
-    "reading": {
-      "ru": "sposob"
+      "fr": "la méthode"
     }
   },
   {
     "id": "ru_119",
+    "lang": "ru",
     "lemma": "смотреть",
     "pos": "Verb",
     "cefr": "A1",
@@ -3268,17 +3020,13 @@ const WORDS_RU_A1 = [
       "zh": "看",
       "fr": "regarder"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "смотреть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "smotret"
     }
   },
   {
     "id": "ru_120",
+    "lang": "ru",
     "lemma": "единственный",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3298,22 +3046,25 @@ const WORDS_RU_A1 = [
       "zh": "唯一的",
       "fr": "seulement"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "edinstvennyy"
     }
   },
   {
     "id": "ru_121",
+    "lang": "ru",
     "lemma": "муж",
     "pos": "Nomen",
+    "plural": "мужья́^△",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "muzh"
+    },
     "meanings": {
       "ko": "남편",
       "en": "husband",
@@ -3324,25 +3075,23 @@ const WORDS_RU_A1 = [
       "pt": "o marido",
       "ja": "夫",
       "zh": "丈夫",
-      "fr": "mari"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мужья́^△",
-    "reading": {
-      "ru": "muzh"
+      "fr": "le mari"
     }
   },
   {
     "id": "ru_123",
+    "lang": "ru",
     "lemma": "смог",
     "pos": "Nomen",
+    "plural": "*смо́ги",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "smog"
+    },
     "meanings": {
       "ko": "스모그",
       "en": "smog",
@@ -3353,18 +3102,12 @@ const WORDS_RU_A1 = [
       "pt": "o nevoeiro",
       "ja": "スモッグ",
       "zh": "烟雾",
-      "fr": "smog"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*смо́ги",
-    "reading": {
-      "ru": "smog"
+      "fr": "le smog"
     }
   },
   {
     "id": "ru_124",
+    "lang": "ru",
     "lemma": "играть",
     "pos": "Verb",
     "cefr": "A1",
@@ -3373,9 +3116,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "igrat"
+    },
     "meanings": {
       "ko": "놀다",
-      "en": "to play",
+      "en": "play",
       "de": "spielen",
       "es": "jugar",
       "ru": "играть",
@@ -3384,26 +3130,23 @@ const WORDS_RU_A1 = [
       "ja": "遊ぶ",
       "zh": "玩",
       "fr": "jouer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "играть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "igrat"
     }
   },
   {
     "id": "ru_126",
+    "lang": "ru",
     "lemma": "новости",
     "pos": "Nomen",
+    "plural": "но́вости",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "novosti"
+    },
     "meanings": {
       "ko": "뉴스",
       "en": "news",
@@ -3414,18 +3157,12 @@ const WORDS_RU_A1 = [
       "pt": "as notícias",
       "ja": "ニュース",
       "zh": "新闻",
-      "fr": "nouvelles"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "но́вости",
-    "reading": {
-      "ru": "novosti"
+      "fr": "les nouvelles"
     }
   },
   {
     "id": "ru_127",
+    "lang": "ru",
     "lemma": "добрый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3446,22 +3183,25 @@ const WORDS_RU_A1 = [
       "zh": "善良的",
       "fr": "sorte"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "dobryy"
     }
   },
   {
     "id": "ru_128",
+    "lang": "ru",
     "lemma": "мальчик",
     "pos": "Nomen",
+    "plural": "ма́льчики",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "malchik"
+    },
     "meanings": {
       "ko": "소년",
       "en": "boy",
@@ -3472,20 +3212,15 @@ const WORDS_RU_A1 = [
       "pt": "o menino",
       "ja": "少年",
       "zh": "男孩",
-      "fr": "garçon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ма́льчики",
-    "reading": {
-      "ru": "malchik"
+      "fr": "le garçon"
     }
   },
   {
     "id": "ru_129",
+    "lang": "ru",
     "lemma": "приятель",
     "pos": "Nomen",
+    "plural": "прия́тели",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3493,6 +3228,9 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "priyatel"
+    },
     "meanings": {
       "ko": "친구",
       "en": "friend",
@@ -3503,26 +3241,24 @@ const WORDS_RU_A1 = [
       "pt": "o amigo",
       "ja": "友人",
       "zh": "朋友",
-      "fr": "ami"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "прия́тели",
-    "reading": {
-      "ru": "priyatel"
+      "fr": "l'ami"
     }
   },
   {
     "id": "ru_130",
+    "lang": "ru",
     "lemma": "мужчина",
     "pos": "Nomen",
+    "plural": "мужчи́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "muzhchina"
+    },
     "meanings": {
       "ko": "남자",
       "en": "man",
@@ -3533,18 +3269,12 @@ const WORDS_RU_A1 = [
       "pt": "o homem",
       "ja": "男性",
       "zh": "男人",
-      "fr": "homme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мужчи́ны",
-    "reading": {
-      "ru": "muzhchina"
+      "fr": "l'homme"
     }
   },
   {
     "id": "ru_131",
+    "lang": "ru",
     "lemma": "вернуть",
     "pos": "Verb",
     "cefr": "A1",
@@ -3553,9 +3283,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vernut"
+    },
     "meanings": {
       "ko": "돌려주다",
-      "en": "to return",
+      "en": "return",
       "de": "zurückgeben",
       "es": "devolver",
       "ru": "вернуть",
@@ -3564,26 +3297,23 @@ const WORDS_RU_A1 = [
       "ja": "返す",
       "zh": "归还",
       "fr": "retourner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "вернуть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "vernut"
     }
   },
   {
     "id": "ru_132",
+    "lang": "ru",
     "lemma": "смерть",
     "pos": "Nomen",
+    "plural": "сме́рти",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "smert"
+    },
     "meanings": {
       "ko": "죽음",
       "en": "death",
@@ -3594,26 +3324,24 @@ const WORDS_RU_A1 = [
       "pt": "a morte",
       "ja": "死",
       "zh": "死亡",
-      "fr": "mort"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сме́рти",
-    "reading": {
-      "ru": "smert"
+      "fr": "la mort"
     }
   },
   {
     "id": "ru_134",
+    "lang": "ru",
     "lemma": "решение",
     "pos": "Nomen",
+    "plural": "реше́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "reshenie"
+    },
     "meanings": {
       "ko": "결정",
       "en": "decision",
@@ -3624,26 +3352,24 @@ const WORDS_RU_A1 = [
       "pt": "a decisão",
       "ja": "決定",
       "zh": "决定",
-      "fr": "décision"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "реше́ния",
-    "reading": {
-      "ru": "reshenie"
+      "fr": "la décision"
     }
   },
   {
     "id": "ru_135",
+    "lang": "ru",
     "lemma": "путь",
     "pos": "Nomen",
+    "plural": "пути́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "put"
+    },
     "meanings": {
       "ko": "길",
       "en": "path",
@@ -3654,26 +3380,24 @@ const WORDS_RU_A1 = [
       "pt": "o caminho",
       "ja": "道",
       "zh": "路",
-      "fr": "chemin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пути́",
-    "reading": {
-      "ru": "put"
+      "fr": "le chemin"
     }
   },
   {
     "id": "ru_136",
+    "lang": "ru",
     "lemma": "история",
     "pos": "Nomen",
+    "plural": "исто́рии",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "istoriya"
+    },
     "meanings": {
       "ko": "역사",
       "en": "history",
@@ -3684,18 +3408,12 @@ const WORDS_RU_A1 = [
       "pt": "a história",
       "ja": "歴史",
       "zh": "历史",
-      "fr": "histoire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "исто́рии",
-    "reading": {
-      "ru": "istoriya"
+      "fr": "l'histoire"
     }
   },
   {
     "id": "ru_137",
+    "lang": "ru",
     "lemma": "спросить",
     "pos": "Verb",
     "cefr": "A1",
@@ -3705,9 +3423,12 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "sprosit"
+    },
     "meanings": {
       "ko": "묻다",
-      "en": "to ask",
+      "en": "ask",
       "de": "fragen",
       "es": "preguntar",
       "ru": "спросить",
@@ -3716,26 +3437,23 @@ const WORDS_RU_A1 = [
       "ja": "尋ねる",
       "zh": "问",
       "fr": "demander"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "спросить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "sprosit"
     }
   },
   {
     "id": "ru_138",
+    "lang": "ru",
     "lemma": "вина",
     "pos": "Nomen",
+    "plural": "ви́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vina"
+    },
     "meanings": {
       "ko": "죄",
       "en": "guilt",
@@ -3746,26 +3464,24 @@ const WORDS_RU_A1 = [
       "pt": "a culpa",
       "ja": "罪",
       "zh": "罪过",
-      "fr": "culpabilité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ви́ны",
-    "reading": {
-      "ru": "vina"
+      "fr": "la culpabilité"
     }
   },
   {
     "id": "ru_139",
+    "lang": "ru",
     "lemma": "шоу",
     "pos": "Nomen",
+    "plural": "шо́у",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "shou"
+    },
     "meanings": {
       "ko": "쇼",
       "en": "show",
@@ -3776,18 +3492,12 @@ const WORDS_RU_A1 = [
       "pt": "o show",
       "ja": "ショー",
       "zh": "表演",
-      "fr": "spectacle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "шо́у",
-    "reading": {
-      "ru": "shou"
+      "fr": "le spectacle"
     }
   },
   {
     "id": "ru_141",
+    "lang": "ru",
     "lemma": "начать",
     "pos": "Verb",
     "cefr": "A1",
@@ -3796,9 +3506,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nachat"
+    },
     "meanings": {
       "ko": "시작하다",
-      "en": "to begin",
+      "en": "begin",
       "de": "beginnen",
       "es": "empezar",
       "ru": "начать",
@@ -3807,26 +3520,23 @@ const WORDS_RU_A1 = [
       "ja": "始める",
       "zh": "开始",
       "fr": "commencer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "начать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "nachat"
     }
   },
   {
     "id": "ru_142",
+    "lang": "ru",
     "lemma": "добро",
     "pos": "Nomen",
+    "plural": "*добра́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dobro"
+    },
     "meanings": {
       "ko": "선",
       "en": "good",
@@ -3839,16 +3549,15 @@ const WORDS_RU_A1 = [
       "zh": "善",
       "fr": "bon"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*добра́",
-    "reading": {
-      "ru": "dobro"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_143",
+    "lang": "ru",
     "lemma": "спасти",
     "pos": "Verb",
     "cefr": "A1",
@@ -3857,9 +3566,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "spasti"
+    },
     "meanings": {
       "ko": "구하다",
-      "en": "to save",
+      "en": "save",
       "de": "retten",
       "es": "salvar",
       "ru": "спасти",
@@ -3868,18 +3580,11 @@ const WORDS_RU_A1 = [
       "ja": "救う",
       "zh": "拯救",
       "fr": "sauver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "спасти",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "spasti"
     }
   },
   {
     "id": "ru_144",
+    "lang": "ru",
     "lemma": "оставить",
     "pos": "Verb",
     "cefr": "A1",
@@ -3888,9 +3593,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "ostavit"
+    },
     "meanings": {
       "ko": "남기다",
-      "en": "to leave",
+      "en": "leave",
       "de": "verlassen",
       "es": "dejar",
       "ru": "оставить",
@@ -3899,18 +3607,11 @@ const WORDS_RU_A1 = [
       "ja": "残す",
       "zh": "留下",
       "fr": "partir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "оставить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "ostavit"
     }
   },
   {
     "id": "ru_145",
+    "lang": "ru",
     "lemma": "милый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3931,22 +3632,25 @@ const WORDS_RU_A1 = [
       "zh": "亲爱的",
       "fr": "cher"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "milyy"
     }
   },
   {
     "id": "ru_146",
+    "lang": "ru",
     "lemma": "случай",
     "pos": "Nomen",
+    "plural": "слу́чаи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sluchay"
+    },
     "meanings": {
       "ko": "경우",
       "en": "case",
@@ -3957,25 +3661,23 @@ const WORDS_RU_A1 = [
       "pt": "o caso",
       "ja": "場合",
       "zh": "情况",
-      "fr": "cas"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "слу́чаи",
-    "reading": {
-      "ru": "sluchay"
+      "fr": "le cas"
     }
   },
   {
     "id": "ru_147",
+    "lang": "ru",
     "lemma": "убийство",
     "pos": "Nomen",
+    "plural": "уби́йства",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "ubiystvo"
+    },
     "meanings": {
       "ko": "살인",
       "en": "murder",
@@ -3986,18 +3688,12 @@ const WORDS_RU_A1 = [
       "pt": "o assassinato",
       "ja": "殺人",
       "zh": "谋杀",
-      "fr": "meurtre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "уби́йства",
-    "reading": {
-      "ru": "ubiystvo"
+      "fr": "le meurtre"
     }
   },
   {
     "id": "ru_148",
+    "lang": "ru",
     "lemma": "использовать",
     "pos": "Verb",
     "cefr": "A1",
@@ -4006,9 +3702,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "ispolzovat"
+    },
     "meanings": {
       "ko": "사용하다",
-      "en": "to use",
+      "en": "use",
       "de": "benutzen",
       "es": "usar",
       "ru": "использовать",
@@ -4017,18 +3716,11 @@ const WORDS_RU_A1 = [
       "ja": "使う",
       "zh": "使用",
       "fr": "utiliser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "использовать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "ispolzovat"
     }
   },
   {
     "id": "ru_149",
+    "lang": "ru",
     "lemma": "невозможно",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4049,22 +3741,25 @@ const WORDS_RU_A1 = [
       "zh": "不可能的",
       "fr": "impossible"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nevozmozhno"
     }
   },
   {
     "id": "ru_150",
+    "lang": "ru",
     "lemma": "господа",
     "pos": "Nomen",
+    "plural": "господа́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "gospoda"
+    },
     "meanings": {
       "ko": "신사 여러분",
       "en": "gentlemen",
@@ -4077,24 +3772,27 @@ const WORDS_RU_A1 = [
       "zh": "先生们",
       "fr": "messieurs"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "господа́",
-    "reading": {
-      "ru": "gospoda"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_151",
+    "lang": "ru",
     "lemma": "свет",
     "pos": "Nomen",
+    "plural": "*све́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "svet"
+    },
     "meanings": {
       "ko": "세상",
       "en": "world",
@@ -4105,18 +3803,12 @@ const WORDS_RU_A1 = [
       "pt": "o mundo",
       "ja": "世界",
       "zh": "世界",
-      "fr": "monde"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*све́ты",
-    "reading": {
-      "ru": "svet"
+      "fr": "le monde"
     }
   },
   {
     "id": "ru_152",
+    "lang": "ru",
     "lemma": "иметь",
     "pos": "Verb",
     "cefr": "A1",
@@ -4137,25 +3829,25 @@ const WORDS_RU_A1 = [
       "zh": "有",
       "fr": "avoir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "иметь",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "imet"
     }
   },
   {
     "id": "ru_153",
+    "lang": "ru",
     "lemma": "другое",
     "pos": "Nomen",
+    "plural": "други́е",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "drugoe"
+    },
     "meanings": {
       "ko": "다른 것",
       "en": "another thing",
@@ -4166,26 +3858,31 @@ const WORDS_RU_A1 = [
       "pt": "outra coisa",
       "ja": "他の物",
       "zh": "别的东西",
-      "fr": "autre chose"
+      "fr": "l'autre chose"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "други́е",
-    "reading": {
-      "ru": "drugoe"
+    "meta": {
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ru_154",
+    "lang": "ru",
     "lemma": "девочка",
     "pos": "Nomen",
+    "plural": "де́вочки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "devochka"
+    },
     "meanings": {
       "ko": "소녀",
       "en": "girl",
@@ -4196,26 +3893,24 @@ const WORDS_RU_A1 = [
       "pt": "a menina",
       "ja": "女の子",
       "zh": "女孩",
-      "fr": "fille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "де́вочки",
-    "reading": {
-      "ru": "devochka"
+      "fr": "la fille"
     }
   },
   {
     "id": "ru_155",
+    "lang": "ru",
     "lemma": "сообщение",
     "pos": "Nomen",
+    "plural": "сообще́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "soobshchenie"
+    },
     "meanings": {
       "ko": "메시지",
       "en": "message",
@@ -4226,25 +3921,23 @@ const WORDS_RU_A1 = [
       "pt": "a mensagem",
       "ja": "メッセージ",
       "zh": "消息",
-      "fr": "message"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сообще́ния",
-    "reading": {
-      "ru": "soobshchenie"
+      "fr": "le message"
     }
   },
   {
     "id": "ru_156",
+    "lang": "ru",
     "lemma": "агент",
     "pos": "Nomen",
+    "plural": "аге́нты",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ru": "agent"
+    },
     "meanings": {
       "ko": "요원",
       "en": "agent",
@@ -4255,20 +3948,15 @@ const WORDS_RU_A1 = [
       "pt": "o agente",
       "ja": "エージェント",
       "zh": "代理人",
-      "fr": "agent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "аге́нты",
-    "reading": {
-      "ru": "agent"
+      "fr": "l'agent"
     }
   },
   {
     "id": "ru_157",
+    "lang": "ru",
     "lemma": "ответ",
     "pos": "Nomen",
+    "plural": "отве́ты",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4276,6 +3964,9 @@ const WORDS_RU_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ru": "otvet"
+    },
     "meanings": {
       "ko": "대답",
       "en": "answer",
@@ -4286,26 +3977,24 @@ const WORDS_RU_A1 = [
       "pt": "a resposta",
       "ja": "答え",
       "zh": "答案",
-      "fr": "réponse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "отве́ты",
-    "reading": {
-      "ru": "otvet"
+      "fr": "la réponse"
     }
   },
   {
     "id": "ru_158",
+    "lang": "ru",
     "lemma": "детектив",
     "pos": "Nomen",
+    "plural": "детекти́вы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "detektiv"
+    },
     "meanings": {
       "ko": "탐정",
       "en": "detective",
@@ -4316,26 +4005,24 @@ const WORDS_RU_A1 = [
       "pt": "o detetive",
       "ja": "探偵",
       "zh": "侦探",
-      "fr": "détective"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "детекти́вы",
-    "reading": {
-      "ru": "detektiv"
+      "fr": "le détective"
     }
   },
   {
     "id": "ru_159",
+    "lang": "ru",
     "lemma": "родители",
     "pos": "Nomen",
+    "plural": "роди́тели",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "roditeli"
+    },
     "meanings": {
       "ko": "부모님",
       "en": "parents",
@@ -4346,18 +4033,12 @@ const WORDS_RU_A1 = [
       "pt": "os pais",
       "ja": "両親",
       "zh": "父母",
-      "fr": "parents"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "роди́тели",
-    "reading": {
-      "ru": "roditeli"
+      "fr": "les parents"
     }
   },
   {
     "id": "ru_160",
+    "lang": "ru",
     "lemma": "показать",
     "pos": "Verb",
     "cefr": "A1",
@@ -4378,17 +4059,13 @@ const WORDS_RU_A1 = [
       "zh": "展示",
       "fr": "spectacle"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "показать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pokazat"
     }
   },
   {
     "id": "ru_161",
+    "lang": "ru",
     "lemma": "мэм",
     "pos": "Nomen",
     "cefr": "A1",
@@ -4397,28 +4074,31 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mem"
+    },
     "meanings": {
       "ko": "부인",
       "en": "madam",
       "de": "die Dame",
-      "es": "señora",
+      "es": "la señora",
       "ru": "мэм",
       "it": "signora",
-      "pt": "senhora",
+      "pt": "a senhora",
       "ja": "マダム",
       "zh": "夫人",
       "fr": "madame"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "mem"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "it": true
+      }
     }
   },
   {
     "id": "ru_162",
+    "lang": "ru",
     "lemma": "маленький",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4439,14 +4119,13 @@ const WORDS_RU_A1 = [
       "zh": "小",
       "fr": "petit"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "malenkiy"
     }
   },
   {
     "id": "ru_163",
+    "lang": "ru",
     "lemma": "забрать",
     "pos": "Verb",
     "cefr": "A1",
@@ -4467,25 +4146,25 @@ const WORDS_RU_A1 = [
       "zh": "带走",
       "fr": "emporter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "забрать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zabrat"
     }
   },
   {
     "id": "ru_164",
+    "lang": "ru",
     "lemma": "пол",
     "pos": "Nomen",
+    "plural": "полы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pol"
+    },
     "meanings": {
       "ko": "바닥",
       "en": "floor",
@@ -4496,18 +4175,12 @@ const WORDS_RU_A1 = [
       "pt": "o chão",
       "ja": "床",
       "zh": "地板",
-      "fr": "étage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "полы́",
-    "reading": {
-      "ru": "pol"
+      "fr": "l'étage"
     }
   },
   {
     "id": "ru_165",
+    "lang": "ru",
     "lemma": "остановить",
     "pos": "Verb",
     "cefr": "A1",
@@ -4528,24 +4201,24 @@ const WORDS_RU_A1 = [
       "zh": "停止",
       "fr": "stop"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "остановить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ostanovit"
     }
   },
   {
     "id": "ru_166",
+    "lang": "ru",
     "lemma": "убийца",
     "pos": "Nomen",
+    "plural": "уби́йцы",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "ubiytsa"
+    },
     "meanings": {
       "ko": "살인자",
       "en": "killer",
@@ -4556,48 +4229,46 @@ const WORDS_RU_A1 = [
       "pt": "o assassino",
       "ja": "殺人者",
       "zh": "杀手",
-      "fr": "tueur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "уби́йцы",
-    "reading": {
-      "ru": "ubiytsa"
+      "fr": "le tueur"
     }
   },
   {
     "id": "ru_167",
+    "lang": "ru",
     "lemma": "мадам",
     "pos": "Nomen",
+    "plural": "мада́м",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "madam"
+    },
     "meanings": {
       "ko": "마담",
       "en": "madam",
       "de": "die Dame",
-      "es": "señora",
+      "es": "la señora",
       "ru": "мадам",
       "it": "signora",
-      "pt": "senhora",
+      "pt": "a senhora",
       "ja": "マダム",
       "zh": "夫人",
       "fr": "madame"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мада́м",
-    "reading": {
-      "ru": "madam"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "it": true
+      }
     }
   },
   {
     "id": "ru_168",
+    "lang": "ru",
     "lemma": "выйти",
     "pos": "Verb",
     "cefr": "A1",
@@ -4618,25 +4289,25 @@ const WORDS_RU_A1 = [
       "zh": "出去",
       "fr": "sortir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "выйти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "vyyti"
     }
   },
   {
     "id": "ru_169",
+    "lang": "ru",
     "lemma": "возможность",
     "pos": "Nomen",
+    "plural": "возмо́жности",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vozmozhnost"
+    },
     "meanings": {
       "ko": "가능성",
       "en": "opportunity",
@@ -4647,26 +4318,24 @@ const WORDS_RU_A1 = [
       "pt": "a oportunidade",
       "ja": "機会",
       "zh": "机会",
-      "fr": "opportunité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "возмо́жности",
-    "reading": {
-      "ru": "vozmozhnost"
+      "fr": "l'opportunité"
     }
   },
   {
     "id": "ru_170",
+    "lang": "ru",
     "lemma": "ужин",
     "pos": "Nomen",
+    "plural": "у́жины",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "uzhin"
+    },
     "meanings": {
       "ko": "저녁 식사",
       "en": "dinner",
@@ -4677,18 +4346,12 @@ const WORDS_RU_A1 = [
       "pt": "o jantar",
       "ja": "夕食",
       "zh": "晚餐",
-      "fr": "dîner"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "у́жины",
-    "reading": {
-      "ru": "uzhin"
+      "fr": "le dîner"
     }
   },
   {
     "id": "ru_171",
+    "lang": "ru",
     "lemma": "купить",
     "pos": "Verb",
     "cefr": "A1",
@@ -4709,17 +4372,13 @@ const WORDS_RU_A1 = [
       "zh": "买",
       "fr": "acheter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "купить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "kupit"
     }
   },
   {
     "id": "ru_172",
+    "lang": "ru",
     "lemma": "позвонить",
     "pos": "Verb",
     "cefr": "A1",
@@ -4740,17 +4399,13 @@ const WORDS_RU_A1 = [
       "zh": "打电话",
       "fr": "appeler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "позвонить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pozvonit"
     }
   },
   {
     "id": "ru_173",
+    "lang": "ru",
     "lemma": "любой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4771,22 +4426,25 @@ const WORDS_RU_A1 = [
       "zh": "任何",
       "fr": "tout"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "lyuboy"
     }
   },
   {
     "id": "ru_174",
+    "lang": "ru",
     "lemma": "выбор",
     "pos": "Nomen",
+    "plural": "вы́боры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vybor"
+    },
     "meanings": {
       "ko": "선택",
       "en": "choice",
@@ -4797,18 +4455,12 @@ const WORDS_RU_A1 = [
       "pt": "a escolha",
       "ja": "選択",
       "zh": "选择",
-      "fr": "choix"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вы́боры",
-    "reading": {
-      "ru": "vybor"
+      "fr": "le choix"
     }
   },
   {
     "id": "ru_175",
+    "lang": "ru",
     "lemma": "настоящий",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4829,14 +4481,13 @@ const WORDS_RU_A1 = [
       "zh": "真的",
       "fr": "réel"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nastoyashchiy"
     }
   },
   {
     "id": "ru_176",
+    "lang": "ru",
     "lemma": "встретиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -4857,17 +4508,13 @@ const WORDS_RU_A1 = [
       "zh": "见面",
       "fr": "rencontrer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "встретиться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "vstretitsya"
     }
   },
   {
     "id": "ru_177",
+    "lang": "ru",
     "lemma": "известно",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4888,22 +4535,25 @@ const WORDS_RU_A1 = [
       "zh": "已知",
       "fr": "connu"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "izvestno"
     }
   },
   {
     "id": "ru_178",
+    "lang": "ru",
     "lemma": "боль",
     "pos": "Nomen",
+    "plural": "бо́ли",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "bol"
+    },
     "meanings": {
       "ko": "고통",
       "en": "pain",
@@ -4914,18 +4564,12 @@ const WORDS_RU_A1 = [
       "pt": "a dor",
       "ja": "痛み",
       "zh": "疼痛",
-      "fr": "douleur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бо́ли",
-    "reading": {
-      "ru": "bol"
+      "fr": "la douleur"
     }
   },
   {
     "id": "ru_179",
+    "lang": "ru",
     "lemma": "выпить",
     "pos": "Verb",
     "cefr": "A1",
@@ -4946,17 +4590,13 @@ const WORDS_RU_A1 = [
       "zh": "喝",
       "fr": "boire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "выпить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "vypit"
     }
   },
   {
     "id": "ru_180",
+    "lang": "ru",
     "lemma": "представить",
     "pos": "Verb",
     "cefr": "A1",
@@ -4977,25 +4617,25 @@ const WORDS_RU_A1 = [
       "zh": "呈现",
       "fr": "présent"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "представить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "predstavit"
     }
   },
   {
     "id": "ru_181",
+    "lang": "ru",
     "lemma": "малыш",
     "pos": "Nomen",
+    "plural": "малыши́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "malysh"
+    },
     "meanings": {
       "ko": "아이",
       "en": "child",
@@ -5006,26 +4646,24 @@ const WORDS_RU_A1 = [
       "pt": "a criança",
       "ja": "子供",
       "zh": "孩子",
-      "fr": "enfant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "малыши́",
-    "reading": {
-      "ru": "malysh"
+      "fr": "l'enfant"
     }
   },
   {
     "id": "ru_182",
+    "lang": "ru",
     "lemma": "речь",
     "pos": "Nomen",
+    "plural": "ре́чи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "rech"
+    },
     "meanings": {
       "ko": "연설",
       "en": "speech",
@@ -5036,26 +4674,24 @@ const WORDS_RU_A1 = [
       "pt": "o discurso",
       "ja": "スピーチ",
       "zh": "演讲",
-      "fr": "discours"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ре́чи",
-    "reading": {
-      "ru": "rech"
+      "fr": "le discours"
     }
   },
   {
     "id": "ru_183",
+    "lang": "ru",
     "lemma": "президент",
     "pos": "Nomen",
+    "plural": "президе́нты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "prezident"
+    },
     "meanings": {
       "ko": "대통령",
       "en": "president",
@@ -5066,18 +4702,12 @@ const WORDS_RU_A1 = [
       "pt": "o presidente",
       "ja": "大統領",
       "zh": "总统",
-      "fr": "président"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "президе́нты",
-    "reading": {
-      "ru": "prezident"
+      "fr": "le président"
     }
   },
   {
     "id": "ru_184",
+    "lang": "ru",
     "lemma": "умереть",
     "pos": "Verb",
     "cefr": "A1",
@@ -5085,9 +4715,12 @@ const WORDS_RU_A1 = [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "umeret"
+    },
     "meanings": {
       "ko": "죽다",
-      "en": "to die",
+      "en": "die",
       "de": "sterben",
       "es": "morir",
       "ru": "умереть",
@@ -5096,18 +4729,11 @@ const WORDS_RU_A1 = [
       "ja": "死ぬ",
       "zh": "死",
       "fr": "mourir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "умереть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "umeret"
     }
   },
   {
     "id": "ru_185",
+    "lang": "ru",
     "lemma": "искать",
     "pos": "Verb",
     "cefr": "A1",
@@ -5116,9 +4742,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "iskat"
+    },
     "meanings": {
       "ko": "찾다",
-      "en": "to search",
+      "en": "search",
       "de": "suchen",
       "es": "buscar",
       "ru": "искать",
@@ -5127,25 +4756,22 @@ const WORDS_RU_A1 = [
       "ja": "探す",
       "zh": "寻找",
       "fr": "chercher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "искать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "iskat"
     }
   },
   {
     "id": "ru_186",
+    "lang": "ru",
     "lemma": "пистолет",
     "pos": "Nomen",
+    "plural": "пистоле́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "pistolet"
+    },
     "meanings": {
       "ko": "권총",
       "en": "pistol",
@@ -5156,18 +4782,12 @@ const WORDS_RU_A1 = [
       "pt": "a pistola",
       "ja": "ピストル",
       "zh": "手枪",
-      "fr": "pistolet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пистоле́ты",
-    "reading": {
-      "ru": "pistolet"
+      "fr": "le pistolet"
     }
   },
   {
     "id": "ru_188",
+    "lang": "ru",
     "lemma": "принять",
     "pos": "Verb",
     "cefr": "A1",
@@ -5176,9 +4796,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "prinyat"
+    },
     "meanings": {
       "ko": "받아들이다",
-      "en": "to accept",
+      "en": "accept",
       "de": "annehmen",
       "es": "aceptar",
       "ru": "принять",
@@ -5187,26 +4810,23 @@ const WORDS_RU_A1 = [
       "ja": "受け入れる",
       "zh": "接受",
       "fr": "accepter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "принять",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "prinyat"
     }
   },
   {
     "id": "ru_189",
+    "lang": "ru",
     "lemma": "босс",
     "pos": "Nomen",
+    "plural": "бо́ссы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "boss"
+    },
     "meanings": {
       "ko": "상사",
       "en": "boss",
@@ -5217,18 +4837,12 @@ const WORDS_RU_A1 = [
       "pt": "o chefe",
       "ja": "上司",
       "zh": "老板",
-      "fr": "patron"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бо́ссы",
-    "reading": {
-      "ru": "boss"
+      "fr": "le patron"
     }
   },
   {
     "id": "ru_190",
+    "lang": "ru",
     "lemma": "держать",
     "pos": "Verb",
     "cefr": "A1",
@@ -5237,9 +4851,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "derzhat"
+    },
     "meanings": {
       "ko": "잡다",
-      "en": "to hold",
+      "en": "hold",
       "de": "halten",
       "es": "sostener",
       "ru": "держать",
@@ -5248,26 +4865,23 @@ const WORDS_RU_A1 = [
       "ja": "持つ",
       "zh": "拿着",
       "fr": "tenir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "держать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "derzhat"
     }
   },
   {
     "id": "ru_191",
+    "lang": "ru",
     "lemma": "фильм",
     "pos": "Nomen",
+    "plural": "фи́льмы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "film"
+    },
     "meanings": {
       "ko": "영화",
       "en": "film",
@@ -5278,26 +4892,24 @@ const WORDS_RU_A1 = [
       "pt": "o filme",
       "ja": "映画",
       "zh": "电影",
-      "fr": "film"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "фи́льмы",
-    "reading": {
-      "ru": "film"
+      "fr": "le film"
     }
   },
   {
     "id": "ru_192",
+    "lang": "ru",
     "lemma": "причина",
     "pos": "Nomen",
+    "plural": "причи́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "prichina"
+    },
     "meanings": {
       "ko": "이유",
       "en": "reason",
@@ -5308,18 +4920,12 @@ const WORDS_RU_A1 = [
       "pt": "a razão",
       "ja": "理由",
       "zh": "原因",
-      "fr": "raison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "причи́ны",
-    "reading": {
-      "ru": "prichina"
+      "fr": "la raison"
     }
   },
   {
     "id": "ru_193",
+    "lang": "ru",
     "lemma": "подумать",
     "pos": "Verb",
     "cefr": "A1",
@@ -5328,9 +4934,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "podumat"
+    },
     "meanings": {
       "ko": "생각하다",
-      "en": "to think",
+      "en": "think",
       "de": "denken",
       "es": "pensar",
       "ru": "подумать",
@@ -5339,18 +4948,11 @@ const WORDS_RU_A1 = [
       "ja": "考える",
       "zh": "思考",
       "fr": "penser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "подумать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "podumat"
     }
   },
   {
     "id": "ru_194",
+    "lang": "ru",
     "lemma": "вести",
     "pos": "Verb",
     "cefr": "A1",
@@ -5371,25 +4973,25 @@ const WORDS_RU_A1 = [
       "zh": "引导",
       "fr": "mener"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "вести",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "vesti"
     }
   },
   {
     "id": "ru_195",
+    "lang": "ru",
     "lemma": "вещь",
     "pos": "Nomen",
+    "plural": "ве́щи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "veshch"
+    },
     "meanings": {
       "ko": "물건",
       "en": "thing",
@@ -5400,20 +5002,15 @@ const WORDS_RU_A1 = [
       "pt": "a coisa",
       "ja": "物",
       "zh": "东西",
-      "fr": "chose"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ве́щи",
-    "reading": {
-      "ru": "veshch"
+      "fr": "la chose"
     }
   },
   {
     "id": "ru_196",
+    "lang": "ru",
     "lemma": "право",
     "pos": "Nomen",
+    "plural": "права́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5421,6 +5018,9 @@ const WORDS_RU_A1 = [
       "travel",
       "work"
     ],
+    "reading": {
+      "ru": "pravo"
+    },
     "meanings": {
       "ko": "권리",
       "en": "right",
@@ -5431,26 +5031,24 @@ const WORDS_RU_A1 = [
       "pt": "o direito",
       "ja": "権利",
       "zh": "权利",
-      "fr": "droit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "права́",
-    "reading": {
-      "ru": "pravo"
+      "fr": "le droit"
     }
   },
   {
     "id": "ru_197",
+    "lang": "ru",
     "lemma": "подарок",
     "pos": "Nomen",
+    "plural": "пода́рки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "podarok"
+    },
     "meanings": {
       "ko": "선물",
       "en": "gift",
@@ -5461,18 +5059,12 @@ const WORDS_RU_A1 = [
       "pt": "o presente",
       "ja": "贈り物",
       "zh": "礼物",
-      "fr": "cadeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пода́рки",
-    "reading": {
-      "ru": "podarok"
+      "fr": "le cadeau"
     }
   },
   {
     "id": "ru_198",
+    "lang": "ru",
     "lemma": "позволить",
     "pos": "Verb",
     "cefr": "A1",
@@ -5481,9 +5073,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pozvolit"
+    },
     "meanings": {
       "ko": "허락하다",
-      "en": "to allow",
+      "en": "allow",
       "de": "erlauben",
       "es": "permitir",
       "ru": "позволить",
@@ -5492,26 +5087,23 @@ const WORDS_RU_A1 = [
       "ja": "許す",
       "zh": "允许",
       "fr": "permettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "позволить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "pozvolit"
     }
   },
   {
     "id": "ru_199",
+    "lang": "ru",
     "lemma": "предложение",
     "pos": "Nomen",
+    "plural": "предложе́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "predlozhenie"
+    },
     "meanings": {
       "ko": "제안",
       "en": "offer",
@@ -5524,24 +5116,27 @@ const WORDS_RU_A1 = [
       "zh": "提议",
       "fr": "offrir"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "предложе́ния",
-    "reading": {
-      "ru": "predlozhenie"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_200",
+    "lang": "ru",
     "lemma": "месяц",
     "pos": "Nomen",
+    "plural": "ме́сяцы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mesyats"
+    },
     "meanings": {
       "ko": "달",
       "en": "month",
@@ -5552,18 +5147,12 @@ const WORDS_RU_A1 = [
       "pt": "o mês",
       "ja": "月",
       "zh": "月",
-      "fr": "mois"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ме́сяцы",
-    "reading": {
-      "ru": "mesyats"
+      "fr": "le mois"
     }
   },
   {
     "id": "ru_201",
+    "lang": "ru",
     "lemma": "проверить",
     "pos": "Verb",
     "cefr": "A1",
@@ -5572,9 +5161,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "proverit"
+    },
     "meanings": {
       "ko": "확인하다",
-      "en": "to check",
+      "en": "check",
       "de": "prüfen",
       "es": "comprobar",
       "ru": "проверить",
@@ -5583,26 +5175,23 @@ const WORDS_RU_A1 = [
       "ja": "確認する",
       "zh": "检查",
       "fr": "vérifier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "проверить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "proverit"
     }
   },
   {
     "id": "ru_202",
+    "lang": "ru",
     "lemma": "голос",
     "pos": "Nomen",
+    "plural": "голоса́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "golos"
+    },
     "meanings": {
       "ko": "목소리",
       "en": "voice",
@@ -5613,18 +5202,12 @@ const WORDS_RU_A1 = [
       "pt": "a voz",
       "ja": "声",
       "zh": "声音",
-      "fr": "voix"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "голоса́",
-    "reading": {
-      "ru": "golos"
+      "fr": "la voix"
     }
   },
   {
     "id": "ru_203",
+    "lang": "ru",
     "lemma": "провести",
     "pos": "Verb",
     "cefr": "A1",
@@ -5633,9 +5216,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "provesti"
+    },
     "meanings": {
       "ko": "수행하다",
-      "en": "to conduct",
+      "en": "conduct",
       "de": "durchführen",
       "es": "conducir",
       "ru": "провести",
@@ -5644,26 +5230,23 @@ const WORDS_RU_A1 = [
       "ja": "実施する",
       "zh": "进行",
       "fr": "conduire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "провести",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "provesti"
     }
   },
   {
     "id": "ru_204",
+    "lang": "ru",
     "lemma": "игра",
     "pos": "Nomen",
+    "plural": "и́гры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "igra"
+    },
     "meanings": {
       "ko": "게임",
       "en": "game",
@@ -5674,18 +5257,12 @@ const WORDS_RU_A1 = [
       "pt": "o jogo",
       "ja": "ゲーム",
       "zh": "游戏",
-      "fr": "jeu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "и́гры",
-    "reading": {
-      "ru": "igra"
+      "fr": "le jeu"
     }
   },
   {
     "id": "ru_205",
+    "lang": "ru",
     "lemma": "познакомиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -5694,9 +5271,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "poznakomitsya"
+    },
     "meanings": {
       "ko": "알게 되다",
-      "en": "to get acquainted",
+      "en": "get acquainted",
       "de": "kennenlernen",
       "es": "conocer",
       "ru": "познакомиться",
@@ -5705,26 +5285,23 @@ const WORDS_RU_A1 = [
       "ja": "知り合う",
       "zh": "认识",
       "fr": "faire connaissance"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "познакомиться",
-    "reflexive": true,
-    "irregular": null,
-    "reading": {
-      "ru": "poznakomitsya"
     }
   },
   {
     "id": "ru_206",
+    "lang": "ru",
     "lemma": "корабль",
     "pos": "Nomen",
+    "plural": "корабли́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ru": "korabl"
+    },
     "meanings": {
       "ko": "배",
       "en": "ship",
@@ -5735,26 +5312,24 @@ const WORDS_RU_A1 = [
       "pt": "o navio",
       "ja": "船",
       "zh": "船",
-      "fr": "bateau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "корабли́",
-    "reading": {
-      "ru": "korabl"
+      "fr": "le bateau"
     }
   },
   {
     "id": "ru_207",
+    "lang": "ru",
     "lemma": "письмо",
     "pos": "Nomen",
+    "plural": "пи́сьма",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pismo"
+    },
     "meanings": {
       "ko": "편지",
       "en": "letter",
@@ -5765,26 +5340,24 @@ const WORDS_RU_A1 = [
       "pt": "a carta",
       "ja": "手紙",
       "zh": "信",
-      "fr": "lettre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пи́сьма",
-    "reading": {
-      "ru": "pismo"
+      "fr": "la lettre"
     }
   },
   {
     "id": "ru_208",
+    "lang": "ru",
     "lemma": "молодец",
     "pos": "Nomen",
+    "plural": "мо́лодцы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "molodets"
+    },
     "meanings": {
       "ko": "훌륭한 사람",
       "en": "good fellow",
@@ -5795,18 +5368,12 @@ const WORDS_RU_A1 = [
       "pt": "o bravo",
       "ja": "勇敢な人",
       "zh": "好样的",
-      "fr": "bonhomme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мо́лодцы",
-    "reading": {
-      "ru": "molodets"
+      "fr": "le bonhomme"
     }
   },
   {
     "id": "ru_210",
+    "lang": "ru",
     "lemma": "нечего",
     "pos": "Nomen",
     "cefr": "A1",
@@ -5815,6 +5382,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nechego"
+    },
     "meanings": {
       "ko": "할 것이 없다",
       "en": "nothing to do",
@@ -5827,24 +5397,31 @@ const WORDS_RU_A1 = [
       "zh": "没什么",
       "fr": "rien à faire"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "nechego"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ru_211",
+    "lang": "ru",
     "lemma": "вид",
     "pos": "Nomen",
+    "plural": "ви́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vid"
+    },
     "meanings": {
       "ko": "모습",
       "en": "appearance",
@@ -5855,18 +5432,12 @@ const WORDS_RU_A1 = [
       "pt": "a aparência",
       "ja": "外観",
       "zh": "外观",
-      "fr": "apparence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ви́ды",
-    "reading": {
-      "ru": "vid"
+      "fr": "l'apparence"
     }
   },
   {
     "id": "ru_212",
+    "lang": "ru",
     "lemma": "никакой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5887,22 +5458,25 @@ const WORDS_RU_A1 = [
       "zh": "任何",
       "fr": "aucun"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nikakoy"
     }
   },
   {
     "id": "ru_213",
+    "lang": "ru",
     "lemma": "связь",
     "pos": "Nomen",
+    "plural": "свя́зи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "svyaz"
+    },
     "meanings": {
       "ko": "연결",
       "en": "connection",
@@ -5913,26 +5487,24 @@ const WORDS_RU_A1 = [
       "pt": "a conexão",
       "ja": "接続",
       "zh": "连接",
-      "fr": "connexion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "свя́зи",
-    "reading": {
-      "ru": "svyaz"
+      "fr": "la connexion"
     }
   },
   {
     "id": "ru_214",
+    "lang": "ru",
     "lemma": "список",
     "pos": "Nomen",
+    "plural": "спи́ски",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "spisok"
+    },
     "meanings": {
       "ko": "목록",
       "en": "list",
@@ -5943,18 +5515,12 @@ const WORDS_RU_A1 = [
       "pt": "a lista",
       "ja": "リスト",
       "zh": "列表",
-      "fr": "liste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "спи́ски",
-    "reading": {
-      "ru": "spisok"
+      "fr": "la liste"
     }
   },
   {
     "id": "ru_215",
+    "lang": "ru",
     "lemma": "весело",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5975,14 +5541,13 @@ const WORDS_RU_A1 = [
       "zh": "愉快的",
       "fr": "joyeux"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "veselo"
     }
   },
   {
     "id": "ru_216",
+    "lang": "ru",
     "lemma": "сидеть",
     "pos": "Verb",
     "cefr": "A1",
@@ -6003,17 +5568,13 @@ const WORDS_RU_A1 = [
       "zh": "坐",
       "fr": "s'asseoir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сидеть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "sidet"
     }
   },
   {
     "id": "ru_217",
+    "lang": "ru",
     "lemma": "объяснить",
     "pos": "Verb",
     "cefr": "A1",
@@ -6034,25 +5595,25 @@ const WORDS_RU_A1 = [
       "zh": "解释",
       "fr": "expliquer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "объяснить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "obyasnit"
     }
   },
   {
     "id": "ru_218",
+    "lang": "ru",
     "lemma": "свидание",
     "pos": "Nomen",
+    "plural": "свида́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "svidanie"
+    },
     "meanings": {
       "ko": "데이트",
       "en": "date",
@@ -6063,18 +5624,12 @@ const WORDS_RU_A1 = [
       "pt": "o encontro",
       "ja": "デート",
       "zh": "约会",
-      "fr": "date"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "свида́ния",
-    "reading": {
-      "ru": "svidanie"
+      "fr": "la date"
     }
   },
   {
     "id": "ru_219",
+    "lang": "ru",
     "lemma": "прийти",
     "pos": "Verb",
     "cefr": "A1",
@@ -6095,25 +5650,25 @@ const WORDS_RU_A1 = [
       "zh": "来",
       "fr": "venir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "прийти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "priyti"
     }
   },
   {
     "id": "ru_220",
+    "lang": "ru",
     "lemma": "чувство",
     "pos": "Nomen",
+    "plural": "чу́вства",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chuvstvo"
+    },
     "meanings": {
       "ko": "감정",
       "en": "feeling",
@@ -6124,26 +5679,24 @@ const WORDS_RU_A1 = [
       "pt": "o sentimento",
       "ja": "感情",
       "zh": "感觉",
-      "fr": "sentiment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "чу́вства",
-    "reading": {
-      "ru": "chuvstvo"
+      "fr": "le sentiment"
     }
   },
   {
     "id": "ru_221",
+    "lang": "ru",
     "lemma": "сынок",
     "pos": "Nomen",
+    "plural": "сынки́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "synok"
+    },
     "meanings": {
       "ko": "아들",
       "en": "sonny",
@@ -6154,26 +5707,24 @@ const WORDS_RU_A1 = [
       "pt": "o filhinho",
       "ja": "坊や",
       "zh": "小儿子",
-      "fr": "gamin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сынки́",
-    "reading": {
-      "ru": "synok"
+      "fr": "le gamin"
     }
   },
   {
     "id": "ru_222",
+    "lang": "ru",
     "lemma": "дядя",
     "pos": "Nomen",
+    "plural": "дя́ди",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dyadya"
+    },
     "meanings": {
       "ko": "삼촌",
       "en": "uncle",
@@ -6184,26 +5735,24 @@ const WORDS_RU_A1 = [
       "pt": "o tio",
       "ja": "おじ",
       "zh": "叔叔",
-      "fr": "oncle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "дя́ди",
-    "reading": {
-      "ru": "dyadya"
+      "fr": "l'oncle"
     }
   },
   {
     "id": "ru_223",
+    "lang": "ru",
     "lemma": "сон",
     "pos": "Nomen",
+    "plural": "сны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "son"
+    },
     "meanings": {
       "ko": "잠",
       "en": "sleep",
@@ -6216,16 +5765,15 @@ const WORDS_RU_A1 = [
       "zh": "睡眠",
       "fr": "dormir"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сны",
-    "reading": {
-      "ru": "son"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_224",
+    "lang": "ru",
     "lemma": "ехать",
     "pos": "Verb",
     "cefr": "A1",
@@ -6247,17 +5795,13 @@ const WORDS_RU_A1 = [
       "zh": "乘车",
       "fr": "rouler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ехать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ekhat"
     }
   },
   {
     "id": "ru_225",
+    "lang": "ru",
     "lemma": "старый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6278,22 +5822,25 @@ const WORDS_RU_A1 = [
       "zh": "老的",
       "fr": "vieux"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "staryy"
     }
   },
   {
     "id": "ru_226",
+    "lang": "ru",
     "lemma": "фото",
     "pos": "Nomen",
+    "plural": "фо́то",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "foto"
+    },
     "meanings": {
       "ko": "사진",
       "en": "photo",
@@ -6304,18 +5851,12 @@ const WORDS_RU_A1 = [
       "pt": "a foto",
       "ja": "写真",
       "zh": "照片",
-      "fr": "photo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "фо́то",
-    "reading": {
-      "ru": "foto"
+      "fr": "la photo"
     }
   },
   {
     "id": "ru_227",
+    "lang": "ru",
     "lemma": "пройти",
     "pos": "Verb",
     "cefr": "A1",
@@ -6336,17 +5877,13 @@ const WORDS_RU_A1 = [
       "zh": "经过",
       "fr": "passer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "пройти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "proyti"
     }
   },
   {
     "id": "ru_228",
+    "lang": "ru",
     "lemma": "заниматься",
     "pos": "Verb",
     "cefr": "A1",
@@ -6367,25 +5904,25 @@ const WORDS_RU_A1 = [
       "zh": "学习",
       "fr": "étudier"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "заниматься",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "zanimatsya"
     }
   },
   {
     "id": "ru_229",
+    "lang": "ru",
     "lemma": "пара",
     "pos": "Nomen",
+    "plural": "па́ры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "para"
+    },
     "meanings": {
       "ko": "쌍",
       "en": "pair",
@@ -6396,26 +5933,24 @@ const WORDS_RU_A1 = [
       "pt": "o par",
       "ja": "ペア",
       "zh": "一对",
-      "fr": "paire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "па́ры",
-    "reading": {
-      "ru": "para"
+      "fr": "la paire"
     }
   },
   {
     "id": "ru_230",
+    "lang": "ru",
     "lemma": "глаз",
     "pos": "Nomen",
+    "plural": "глаза́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "glaz"
+    },
     "meanings": {
       "ko": "눈",
       "en": "eye",
@@ -6426,26 +5961,24 @@ const WORDS_RU_A1 = [
       "pt": "o olho",
       "ja": "目",
       "zh": "眼睛",
-      "fr": "œil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "глаза́",
-    "reading": {
-      "ru": "glaz"
+      "fr": "l'œil"
     }
   },
   {
     "id": "ru_231",
+    "lang": "ru",
     "lemma": "волосы",
     "pos": "Nomen",
+    "plural": "во́лосы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "volosy"
+    },
     "meanings": {
       "ko": "머리카락",
       "en": "hair",
@@ -6456,18 +5989,12 @@ const WORDS_RU_A1 = [
       "pt": "o cabelo",
       "ja": "髪",
       "zh": "头发",
-      "fr": "cheveux"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "во́лосы",
-    "reading": {
-      "ru": "volosy"
+      "fr": "les cheveux"
     }
   },
   {
     "id": "ru_232",
+    "lang": "ru",
     "lemma": "защитить",
     "pos": "Verb",
     "cefr": "A1",
@@ -6488,17 +6015,13 @@ const WORDS_RU_A1 = [
       "zh": "保护",
       "fr": "protéger"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "защитить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zashchitit"
     }
   },
   {
     "id": "ru_233",
+    "lang": "ru",
     "lemma": "будущее",
     "pos": "Nomen",
     "cefr": "A1",
@@ -6507,6 +6030,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "budushchee"
+    },
     "meanings": {
       "ko": "미래",
       "en": "future",
@@ -6517,26 +6043,24 @@ const WORDS_RU_A1 = [
       "pt": "o futuro",
       "ja": "未来",
       "zh": "未来",
-      "fr": "futur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "budushchee"
+      "fr": "le futur"
     }
   },
   {
     "id": "ru_234",
+    "lang": "ru",
     "lemma": "слава",
     "pos": "Nomen",
+    "plural": "сла́вы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "slava"
+    },
     "meanings": {
       "ko": "영광",
       "en": "glory",
@@ -6547,26 +6071,24 @@ const WORDS_RU_A1 = [
       "pt": "a glória",
       "ja": "栄光",
       "zh": "荣耀",
-      "fr": "gloire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сла́вы",
-    "reading": {
-      "ru": "slava"
+      "fr": "la gloire"
     }
   },
   {
     "id": "ru_235",
+    "lang": "ru",
     "lemma": "огонь",
     "pos": "Nomen",
+    "plural": "огни́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "ogon"
+    },
     "meanings": {
       "ko": "불",
       "en": "fire",
@@ -6577,26 +6099,24 @@ const WORDS_RU_A1 = [
       "pt": "o fogo",
       "ja": "火",
       "zh": "火",
-      "fr": "feu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "огни́",
-    "reading": {
-      "ru": "ogon"
+      "fr": "le feu"
     }
   },
   {
     "id": "ru_236",
+    "lang": "ru",
     "lemma": "силы",
     "pos": "Nomen",
+    "plural": "си́лы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sily"
+    },
     "meanings": {
       "ko": "힘",
       "en": "strength",
@@ -6607,26 +6127,24 @@ const WORDS_RU_A1 = [
       "pt": "a força",
       "ja": "力",
       "zh": "力量",
-      "fr": "force"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "си́лы",
-    "reading": {
-      "ru": "sily"
+      "fr": "la force"
     }
   },
   {
     "id": "ru_237",
+    "lang": "ru",
     "lemma": "шеф",
     "pos": "Nomen",
+    "plural": "ше́фы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "shef"
+    },
     "meanings": {
       "ko": "사장",
       "en": "boss",
@@ -6637,25 +6155,23 @@ const WORDS_RU_A1 = [
       "pt": "o chefe",
       "ja": "上司",
       "zh": "老板",
-      "fr": "patron"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ше́фы",
-    "reading": {
-      "ru": "shef"
+      "fr": "le patron"
     }
   },
   {
     "id": "ru_238",
+    "lang": "ru",
     "lemma": "суд",
     "pos": "Nomen",
+    "plural": "суды́",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ru": "sud"
+    },
     "meanings": {
       "ko": "법원",
       "en": "court",
@@ -6666,18 +6182,12 @@ const WORDS_RU_A1 = [
       "pt": "o tribunal",
       "ja": "裁判所",
       "zh": "法院",
-      "fr": "cour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "суды́",
-    "reading": {
-      "ru": "sud"
+      "fr": "la cour"
     }
   },
   {
     "id": "ru_239",
+    "lang": "ru",
     "lemma": "попробовать",
     "pos": "Verb",
     "cefr": "A1",
@@ -6698,17 +6208,13 @@ const WORDS_RU_A1 = [
       "zh": "尝试",
       "fr": "essayer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "попробовать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "poprobovat"
     }
   },
   {
     "id": "ru_240",
+    "lang": "ru",
     "lemma": "услышать",
     "pos": "Verb",
     "cefr": "A1",
@@ -6729,25 +6235,25 @@ const WORDS_RU_A1 = [
       "zh": "听到",
       "fr": "entendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "услышать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "uslyshat"
     }
   },
   {
     "id": "ru_241",
+    "lang": "ru",
     "lemma": "смысл",
     "pos": "Nomen",
+    "plural": "смы́слы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "smysl"
+    },
     "meanings": {
       "ko": "의미",
       "en": "meaning",
@@ -6758,18 +6264,12 @@ const WORDS_RU_A1 = [
       "pt": "o sentido",
       "ja": "意味",
       "zh": "意义",
-      "fr": "sens"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "смы́слы",
-    "reading": {
-      "ru": "smysl"
+      "fr": "le sens"
     }
   },
   {
     "id": "ru_242",
+    "lang": "ru",
     "lemma": "хорошее",
     "pos": "Nomen",
     "cefr": "A1",
@@ -6778,6 +6278,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "khoroshee"
+    },
     "meanings": {
       "ko": "좋은 것",
       "en": "good thing",
@@ -6788,18 +6291,12 @@ const WORDS_RU_A1 = [
       "pt": "o bem",
       "ja": "良いこと",
       "zh": "好事",
-      "fr": "bien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "khoroshee"
+      "fr": "le bien"
     }
   },
   {
     "id": "ru_244",
+    "lang": "ru",
     "lemma": "стоять",
     "pos": "Verb",
     "cefr": "A1",
@@ -6820,17 +6317,13 @@ const WORDS_RU_A1 = [
       "zh": "站立",
       "fr": "se tenir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "стоять",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "stoyat"
     }
   },
   {
     "id": "ru_245",
+    "lang": "ru",
     "lemma": "плевать",
     "pos": "Verb",
     "cefr": "A1",
@@ -6851,25 +6344,25 @@ const WORDS_RU_A1 = [
       "zh": "吐痰",
       "fr": "cracher"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "плевать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "plevat"
     }
   },
   {
     "id": "ru_246",
+    "lang": "ru",
     "lemma": "ключ",
     "pos": "Nomen",
+    "plural": "ключи́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "klyuch"
+    },
     "meanings": {
       "ko": "열쇠",
       "en": "key",
@@ -6880,18 +6373,12 @@ const WORDS_RU_A1 = [
       "pt": "a chave",
       "ja": "鍵",
       "zh": "钥匙",
-      "fr": "clé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ключи́",
-    "reading": {
-      "ru": "klyuch"
+      "fr": "la clé"
     }
   },
   {
     "id": "ru_247",
+    "lang": "ru",
     "lemma": "верить",
     "pos": "Verb",
     "cefr": "A1",
@@ -6912,17 +6399,13 @@ const WORDS_RU_A1 = [
       "zh": "相信",
       "fr": "croire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "верить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "verit"
     }
   },
   {
     "id": "ru_248",
+    "lang": "ru",
     "lemma": "слышать",
     "pos": "Verb",
     "cefr": "A1",
@@ -6943,17 +6426,13 @@ const WORDS_RU_A1 = [
       "zh": "听见",
       "fr": "entendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "слышать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "slyshat"
     }
   },
   {
     "id": "ru_250",
+    "lang": "ru",
     "lemma": "пить",
     "pos": "Verb",
     "cefr": "A1",
@@ -6974,17 +6453,13 @@ const WORDS_RU_A1 = [
       "zh": "喝",
       "fr": "boire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "пить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pit"
     }
   },
   {
     "id": "ru_251",
+    "lang": "ru",
     "lemma": "заставить",
     "pos": "Verb",
     "cefr": "A1",
@@ -7005,25 +6480,25 @@ const WORDS_RU_A1 = [
       "zh": "强迫",
       "fr": "force"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "заставить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zastavit"
     }
   },
   {
     "id": "ru_252",
+    "lang": "ru",
     "lemma": "рот",
     "pos": "Nomen",
+    "plural": "рты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "rot"
+    },
     "meanings": {
       "ko": "입",
       "en": "mouth",
@@ -7034,26 +6509,24 @@ const WORDS_RU_A1 = [
       "pt": "a boca",
       "ja": "口",
       "zh": "嘴",
-      "fr": "bouche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "рты",
-    "reading": {
-      "ru": "rot"
+      "fr": "la bouche"
     }
   },
   {
     "id": "ru_254",
+    "lang": "ru",
     "lemma": "разговор",
     "pos": "Nomen",
+    "plural": "разгово́ры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "razgovor"
+    },
     "meanings": {
       "ko": "대화",
       "en": "conversation",
@@ -7064,26 +6537,24 @@ const WORDS_RU_A1 = [
       "pt": "a conversa",
       "ja": "会話",
       "zh": "对话",
-      "fr": "conversation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "разгово́ры",
-    "reading": {
-      "ru": "razgovor"
+      "fr": "la conversation"
     }
   },
   {
     "id": "ru_255",
+    "lang": "ru",
     "lemma": "звонок",
     "pos": "Nomen",
+    "plural": "звонки́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zvonok"
+    },
     "meanings": {
       "ko": "벨",
       "en": "bell",
@@ -7094,18 +6565,12 @@ const WORDS_RU_A1 = [
       "pt": "a campainha",
       "ja": "ベル",
       "zh": "铃",
-      "fr": "cloche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "звонки́",
-    "reading": {
-      "ru": "zvonok"
+      "fr": "la cloche"
     }
   },
   {
     "id": "ru_256",
+    "lang": "ru",
     "lemma": "необходимо",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7126,21 +6591,24 @@ const WORDS_RU_A1 = [
       "zh": "必要的",
       "fr": "nécessaire"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "neobkhodimo"
     }
   },
   {
     "id": "ru_257",
+    "lang": "ru",
     "lemma": "адвокат",
     "pos": "Nomen",
+    "plural": "адвока́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ru": "advokat"
+    },
     "meanings": {
       "ko": "변호사",
       "en": "lawyer",
@@ -7151,26 +6619,24 @@ const WORDS_RU_A1 = [
       "pt": "o advogado",
       "ja": "弁護士",
       "zh": "律师",
-      "fr": "avocat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "адвока́ты",
-    "reading": {
-      "ru": "advokat"
+      "fr": "l'avocat"
     }
   },
   {
     "id": "ru_258",
+    "lang": "ru",
     "lemma": "стоп",
     "pos": "Nomen",
+    "plural": "сто́пы",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "stop"
+    },
     "meanings": {
       "ko": "히치하이킹",
       "en": "hitchhiking",
@@ -7181,18 +6647,12 @@ const WORDS_RU_A1 = [
       "pt": "a carona",
       "ja": "ヒッチハイク",
       "zh": "搭便车",
-      "fr": "auto-stop"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сто́пы",
-    "reading": {
-      "ru": "stop"
+      "fr": "l'auto-stop"
     }
   },
   {
     "id": "ru_260",
+    "lang": "ru",
     "lemma": "оставаться",
     "pos": "Verb",
     "cefr": "A1",
@@ -7213,17 +6673,13 @@ const WORDS_RU_A1 = [
       "zh": "留下",
       "fr": "rester"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "оставаться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "ostavatsya"
     }
   },
   {
     "id": "ru_261",
+    "lang": "ru",
     "lemma": "ходить",
     "pos": "Verb",
     "cefr": "A1",
@@ -7244,17 +6700,13 @@ const WORDS_RU_A1 = [
       "zh": "走路",
       "fr": "marcher"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ходить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "khodit"
     }
   },
   {
     "id": "ru_262",
+    "lang": "ru",
     "lemma": "изменить",
     "pos": "Verb",
     "cefr": "A1",
@@ -7275,24 +6727,24 @@ const WORDS_RU_A1 = [
       "zh": "改变",
       "fr": "changer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "изменить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "izmenit"
     }
   },
   {
     "id": "ru_263",
+    "lang": "ru",
     "lemma": "король",
     "pos": "Nomen",
+    "plural": "короли́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "korol"
+    },
     "meanings": {
       "ko": "왕",
       "en": "king",
@@ -7303,26 +6755,24 @@ const WORDS_RU_A1 = [
       "pt": "o rei",
       "ja": "王",
       "zh": "国王",
-      "fr": "roi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "короли́",
-    "reading": {
-      "ru": "korol"
+      "fr": "le roi"
     }
   },
   {
     "id": "ru_264",
+    "lang": "ru",
     "lemma": "народ",
     "pos": "Nomen",
+    "plural": "наро́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "narod"
+    },
     "meanings": {
       "ko": "국민",
       "en": "people",
@@ -7333,25 +6783,23 @@ const WORDS_RU_A1 = [
       "pt": "o povo",
       "ja": "国民",
       "zh": "人民",
-      "fr": "gens"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "наро́ды",
-    "reading": {
-      "ru": "narod"
+      "fr": "les gens"
     }
   },
   {
     "id": "ru_265",
+    "lang": "ru",
     "lemma": "секс",
     "pos": "Nomen",
+    "plural": "се́ксы",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "seks"
+    },
     "meanings": {
       "ko": "성",
       "en": "sex",
@@ -7362,18 +6810,12 @@ const WORDS_RU_A1 = [
       "pt": "o sexo",
       "ja": "性",
       "zh": "性",
-      "fr": "sexe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "се́ксы",
-    "reading": {
-      "ru": "seks"
+      "fr": "le sexe"
     }
   },
   {
     "id": "ru_266",
+    "lang": "ru",
     "lemma": "попасть",
     "pos": "Verb",
     "cefr": "A1",
@@ -7394,25 +6836,25 @@ const WORDS_RU_A1 = [
       "zh": "击中",
       "fr": "frapper"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "попасть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "popast"
     }
   },
   {
     "id": "ru_267",
+    "lang": "ru",
     "lemma": "цель",
     "pos": "Nomen",
+    "plural": "це́ли",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "tsel"
+    },
     "meanings": {
       "ko": "목표",
       "en": "goal",
@@ -7423,26 +6865,24 @@ const WORDS_RU_A1 = [
       "pt": "o objetivo",
       "ja": "目標",
       "zh": "目标",
-      "fr": "but"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "це́ли",
-    "reading": {
-      "ru": "tsel"
+      "fr": "le but"
     }
   },
   {
     "id": "ru_268",
+    "lang": "ru",
     "lemma": "месье",
     "pos": "Nomen",
+    "plural": "месье́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mese"
+    },
     "meanings": {
       "ko": "씨",
       "en": "monsieur",
@@ -7455,24 +6895,27 @@ const WORDS_RU_A1 = [
       "zh": "先生",
       "fr": "monsieur"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "месье́",
-    "reading": {
-      "ru": "mese"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_269",
+    "lang": "ru",
     "lemma": "выход",
     "pos": "Nomen",
+    "plural": "вы́ходы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vykhod"
+    },
     "meanings": {
       "ko": "출구",
       "en": "exit",
@@ -7483,26 +6926,24 @@ const WORDS_RU_A1 = [
       "pt": "a saída",
       "ja": "出口",
       "zh": "出口",
-      "fr": "sortie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вы́ходы",
-    "reading": {
-      "ru": "vykhod"
+      "fr": "la sortie"
     }
   },
   {
     "id": "ru_270",
+    "lang": "ru",
     "lemma": "платье",
     "pos": "Nomen",
+    "plural": "пла́тья",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "plate"
+    },
     "meanings": {
       "ko": "드레스",
       "en": "dress",
@@ -7513,18 +6954,12 @@ const WORDS_RU_A1 = [
       "pt": "o vestido",
       "ja": "ドレス",
       "zh": "连衣裙",
-      "fr": "robe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пла́тья",
-    "reading": {
-      "ru": "plate"
+      "fr": "la robe"
     }
   },
   {
     "id": "ru_271",
+    "lang": "ru",
     "lemma": "поехать",
     "pos": "Verb",
     "cefr": "A1",
@@ -7534,9 +6969,12 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "poekhat"
+    },
     "meanings": {
       "ko": "가다",
-      "en": "to go",
+      "en": "go",
       "de": "fahren",
       "es": "ir",
       "ru": "поехать",
@@ -7545,18 +6983,11 @@ const WORDS_RU_A1 = [
       "ja": "行く",
       "zh": "去",
       "fr": "aller"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "поехать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "poekhat"
     }
   },
   {
     "id": "ru_272",
+    "lang": "ru",
     "lemma": "отличный",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7577,22 +7008,25 @@ const WORDS_RU_A1 = [
       "zh": "优秀的",
       "fr": "excellent"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "otlichnyy"
     }
   },
   {
     "id": "ru_273",
+    "lang": "ru",
     "lemma": "ребёнок",
     "pos": "Nomen",
+    "plural": "де́ти^△",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "rebyonok"
+    },
     "meanings": {
       "ko": "아이",
       "en": "child",
@@ -7603,26 +7037,24 @@ const WORDS_RU_A1 = [
       "pt": "a criança",
       "ja": "子供",
       "zh": "孩子",
-      "fr": "enfant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "де́ти^△",
-    "reading": {
-      "ru": "rebyonok"
+      "fr": "l'enfant"
     }
   },
   {
     "id": "ru_274",
+    "lang": "ru",
     "lemma": "первое",
     "pos": "Nomen",
+    "plural": "пе́рвые",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pervoe"
+    },
     "meanings": {
       "ko": "첫 번째 요리",
       "en": "first course",
@@ -7633,18 +7065,12 @@ const WORDS_RU_A1 = [
       "pt": "o primeiro prato",
       "ja": "最初の一品",
       "zh": "第一道菜",
-      "fr": "entrée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пе́рвые",
-    "reading": {
-      "ru": "pervoe"
+      "fr": "l'entrée"
     }
   },
   {
     "id": "ru_275",
+    "lang": "ru",
     "lemma": "выяснить",
     "pos": "Verb",
     "cefr": "A1",
@@ -7653,9 +7079,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vyyasnit"
+    },
     "meanings": {
       "ko": "알아내다",
-      "en": "to find out",
+      "en": "find out",
       "de": "herausfinden",
       "es": "averiguar",
       "ru": "выяснить",
@@ -7664,25 +7093,22 @@ const WORDS_RU_A1 = [
       "ja": "解明する",
       "zh": "查明",
       "fr": "découvrir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "выяснить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "vyyasnit"
     }
   },
   {
     "id": "ru_276",
+    "lang": "ru",
     "lemma": "ник",
     "pos": "Nomen",
+    "plural": "ни́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "nik"
+    },
     "meanings": {
       "ko": "닉네임",
       "en": "nickname",
@@ -7693,20 +7119,15 @@ const WORDS_RU_A1 = [
       "pt": "o apelido",
       "ja": "ニックネーム",
       "zh": "昵称",
-      "fr": "surnom"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ни́ки",
-    "reading": {
-      "ru": "nik"
+      "fr": "le surnom"
     }
   },
   {
     "id": "ru_277",
+    "lang": "ru",
     "lemma": "офис",
     "pos": "Nomen",
+    "plural": "о́фисы",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7714,6 +7135,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "ofis"
+    },
     "meanings": {
       "ko": "사무실",
       "en": "office",
@@ -7724,25 +7148,23 @@ const WORDS_RU_A1 = [
       "pt": "o escritório",
       "ja": "オフィス",
       "zh": "办公室",
-      "fr": "bureau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "о́фисы",
-    "reading": {
-      "ru": "ofis"
+      "fr": "le bureau"
     }
   },
   {
     "id": "ru_278",
+    "lang": "ru",
     "lemma": "течение",
     "pos": "Nomen",
+    "plural": "тече́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "techenie"
+    },
     "meanings": {
       "ko": "흐름",
       "en": "current",
@@ -7755,16 +7177,15 @@ const WORDS_RU_A1 = [
       "zh": "水流",
       "fr": "actuel"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "тече́ния",
-    "reading": {
-      "ru": "techenie"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_279",
+    "lang": "ru",
     "lemma": "забыть",
     "pos": "Verb",
     "cefr": "A1",
@@ -7773,9 +7194,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zabyt"
+    },
     "meanings": {
       "ko": "잊다",
-      "en": "to forget",
+      "en": "forget",
       "de": "vergessen",
       "es": "olvidar",
       "ru": "забыть",
@@ -7784,26 +7208,23 @@ const WORDS_RU_A1 = [
       "ja": "忘れる",
       "zh": "忘记",
       "fr": "oublier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "забыть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "zabyt"
     }
   },
   {
     "id": "ru_280",
+    "lang": "ru",
     "lemma": "правила",
     "pos": "Nomen",
+    "plural": "пра́вила",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pravila"
+    },
     "meanings": {
       "ko": "규칙",
       "en": "rules",
@@ -7814,26 +7235,24 @@ const WORDS_RU_A1 = [
       "pt": "as regras",
       "ja": "規則",
       "zh": "规则",
-      "fr": "règles"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пра́вила",
-    "reading": {
-      "ru": "pravila"
+      "fr": "les règles"
     }
   },
   {
     "id": "ru_281",
+    "lang": "ru",
     "lemma": "совет",
     "pos": "Nomen",
+    "plural": "сове́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sovet"
+    },
     "meanings": {
       "ko": "조언",
       "en": "advice",
@@ -7844,18 +7263,12 @@ const WORDS_RU_A1 = [
       "pt": "o conselho",
       "ja": "助言",
       "zh": "建议",
-      "fr": "conseil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сове́ты",
-    "reading": {
-      "ru": "sovet"
+      "fr": "le conseil"
     }
   },
   {
     "id": "ru_282",
+    "lang": "ru",
     "lemma": "целый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7875,21 +7288,24 @@ const WORDS_RU_A1 = [
       "zh": "整个的",
       "fr": "entier"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "tselyy"
     }
   },
   {
     "id": "ru_283",
+    "lang": "ru",
     "lemma": "удар",
     "pos": "Nomen",
+    "plural": "уда́ры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "udar"
+    },
     "meanings": {
       "ko": "타격",
       "en": "hit",
@@ -7902,24 +7318,27 @@ const WORDS_RU_A1 = [
       "zh": "打击",
       "fr": "frapper"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "уда́ры",
-    "reading": {
-      "ru": "udar"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_284",
+    "lang": "ru",
     "lemma": "адрес",
     "pos": "Nomen",
+    "plural": "адреса́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "adres"
+    },
     "meanings": {
       "ko": "주소",
       "en": "address",
@@ -7930,25 +7349,23 @@ const WORDS_RU_A1 = [
       "pt": "o endereço",
       "ja": "住所",
       "zh": "地址",
-      "fr": "adresse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "адреса́",
-    "reading": {
-      "ru": "adres"
+      "fr": "l'adresse"
     }
   },
   {
     "id": "ru_285",
+    "lang": "ru",
     "lemma": "разница",
     "pos": "Nomen",
+    "plural": "ра́зницы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "raznitsa"
+    },
     "meanings": {
       "ko": "차이",
       "en": "difference",
@@ -7959,18 +7376,12 @@ const WORDS_RU_A1 = [
       "pt": "a diferença",
       "ja": "違い",
       "zh": "区别",
-      "fr": "différence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ра́зницы",
-    "reading": {
-      "ru": "raznitsa"
+      "fr": "la différence"
     }
   },
   {
     "id": "ru_286",
+    "lang": "ru",
     "lemma": "открыть",
     "pos": "Verb",
     "cefr": "A1",
@@ -7979,9 +7390,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "otkryt"
+    },
     "meanings": {
       "ko": "열다",
-      "en": "to open",
+      "en": "open",
       "de": "öffnen",
       "es": "abrir",
       "ru": "открыть",
@@ -7990,18 +7404,11 @@ const WORDS_RU_A1 = [
       "ja": "開ける",
       "zh": "打开",
       "fr": "ouvrir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "открыть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "otkryt"
     }
   },
   {
     "id": "ru_287",
+    "lang": "ru",
     "lemma": "новое",
     "pos": "Nomen",
     "cefr": "A1",
@@ -8010,6 +7417,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "novoe"
+    },
     "meanings": {
       "ko": "새로운 것",
       "en": "something new",
@@ -8020,18 +7430,12 @@ const WORDS_RU_A1 = [
       "pt": "o novo",
       "ja": "新しいもの",
       "zh": "新事物",
-      "fr": "nouveauté"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "novoe"
+      "fr": "la nouveauté"
     }
   },
   {
     "id": "ru_288",
+    "lang": "ru",
     "lemma": "доверять",
     "pos": "Verb",
     "cefr": "A1",
@@ -8040,9 +7444,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "doveryat"
+    },
     "meanings": {
       "ko": "신뢰하다",
-      "en": "to trust",
+      "en": "trust",
       "de": "vertrauen",
       "es": "confiar",
       "ru": "доверять",
@@ -8051,26 +7458,23 @@ const WORDS_RU_A1 = [
       "ja": "信頼する",
       "zh": "信任",
       "fr": "se fier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "доверять",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "doveryat"
     }
   },
   {
     "id": "ru_289",
+    "lang": "ru",
     "lemma": "встреча",
     "pos": "Nomen",
+    "plural": "встре́чи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vstrecha"
+    },
     "meanings": {
       "ko": "만남",
       "en": "meeting",
@@ -8081,18 +7485,12 @@ const WORDS_RU_A1 = [
       "pt": "o encontro",
       "ja": "会議",
       "zh": "会议",
-      "fr": "réunion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "встре́чи",
-    "reading": {
-      "ru": "vstrecha"
+      "fr": "la réunion"
     }
   },
   {
     "id": "ru_290",
+    "lang": "ru",
     "lemma": "убивать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8100,9 +7498,12 @@ const WORDS_RU_A1 = [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "ubivat"
+    },
     "meanings": {
       "ko": "죽이다",
-      "en": "to kill",
+      "en": "kill",
       "de": "töten",
       "es": "matar",
       "ru": "убивать",
@@ -8111,26 +7512,23 @@ const WORDS_RU_A1 = [
       "ja": "殺す",
       "zh": "杀死",
       "fr": "tuer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "убивать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "ubivat"
     }
   },
   {
     "id": "ru_291",
+    "lang": "ru",
     "lemma": "обед",
     "pos": "Nomen",
+    "plural": "обе́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "obed"
+    },
     "meanings": {
       "ko": "점심",
       "en": "lunch",
@@ -8141,26 +7539,24 @@ const WORDS_RU_A1 = [
       "pt": "o almoço",
       "ja": "昼食",
       "zh": "午餐",
-      "fr": "déjeuner"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "обе́ды",
-    "reading": {
-      "ru": "obed"
+      "fr": "le déjeuner"
     }
   },
   {
     "id": "ru_292",
+    "lang": "ru",
     "lemma": "видео",
     "pos": "Nomen",
+    "plural": "ви́део",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "video"
+    },
     "meanings": {
       "ko": "비디오",
       "en": "video",
@@ -8171,18 +7567,12 @@ const WORDS_RU_A1 = [
       "pt": "o vídeo",
       "ja": "ビデオ",
       "zh": "视频",
-      "fr": "vidéo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ви́део",
-    "reading": {
-      "ru": "video"
+      "fr": "la vidéo"
     }
   },
   {
     "id": "ru_293",
+    "lang": "ru",
     "lemma": "подождать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8191,9 +7581,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "podozhdat"
+    },
     "meanings": {
       "ko": "기다리다",
-      "en": "to wait",
+      "en": "wait",
       "de": "warten",
       "es": "esperar",
       "ru": "подождать",
@@ -8202,18 +7595,11 @@ const WORDS_RU_A1 = [
       "ja": "待つ",
       "zh": "等待",
       "fr": "attendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "подождать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "podozhdat"
     }
   },
   {
     "id": "ru_294",
+    "lang": "ru",
     "lemma": "многое",
     "pos": "Nomen",
     "cefr": "A1",
@@ -8222,6 +7608,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mnogoe"
+    },
     "meanings": {
       "ko": "많은 것",
       "en": "many things",
@@ -8229,29 +7618,34 @@ const WORDS_RU_A1 = [
       "es": "muchas cosas",
       "ru": "многое",
       "it": "molte cose",
-      "pt": "muitas coisas",
+      "pt": "as muitas coisas",
       "ja": "多くのこと",
       "zh": "许多",
-      "fr": "nombreuses choses"
+      "fr": "les nombreuses choses"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "mnogoe"
+    "meta": {
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ru_296",
+    "lang": "ru",
     "lemma": "сезон",
     "pos": "Nomen",
+    "plural": "сезо́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sezon"
+    },
     "meanings": {
       "ko": "계절",
       "en": "season",
@@ -8262,26 +7656,24 @@ const WORDS_RU_A1 = [
       "pt": "a estação",
       "ja": "季節",
       "zh": "季节",
-      "fr": "saison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сезо́ны",
-    "reading": {
-      "ru": "sezon"
+      "fr": "la saison"
     }
   },
   {
     "id": "ru_297",
+    "lang": "ru",
     "lemma": "голова",
     "pos": "Nomen",
+    "plural": "го́ловы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "golova"
+    },
     "meanings": {
       "ko": "머리",
       "en": "head",
@@ -8292,18 +7684,12 @@ const WORDS_RU_A1 = [
       "pt": "a cabeça",
       "ja": "頭",
       "zh": "头",
-      "fr": "tête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "го́ловы",
-    "reading": {
-      "ru": "golova"
+      "fr": "la tête"
     }
   },
   {
     "id": "ru_298",
+    "lang": "ru",
     "lemma": "заняться",
     "pos": "Verb",
     "cefr": "A1",
@@ -8324,25 +7710,25 @@ const WORDS_RU_A1 = [
       "zh": "开始",
       "fr": "commencer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "заняться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "zanyatsya"
     }
   },
   {
     "id": "ru_299",
+    "lang": "ru",
     "lemma": "кино",
     "pos": "Nomen",
+    "plural": "кино́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "kino"
+    },
     "meanings": {
       "ko": "영화",
       "en": "cinema",
@@ -8353,26 +7739,24 @@ const WORDS_RU_A1 = [
       "pt": "o cinema",
       "ja": "映画",
       "zh": "电影",
-      "fr": "cinéma"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "кино́",
-    "reading": {
-      "ru": "kino"
+      "fr": "le cinéma"
     }
   },
   {
     "id": "ru_300",
+    "lang": "ru",
     "lemma": "магазин",
     "pos": "Nomen",
+    "plural": "магази́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "magazin"
+    },
     "meanings": {
       "ko": "상점",
       "en": "shop",
@@ -8383,18 +7767,12 @@ const WORDS_RU_A1 = [
       "pt": "a loja",
       "ja": "店",
       "zh": "商店",
-      "fr": "magasin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "магази́ны",
-    "reading": {
-      "ru": "magazin"
+      "fr": "le magasin"
     }
   },
   {
     "id": "ru_301",
+    "lang": "ru",
     "lemma": "слушать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8416,25 +7794,25 @@ const WORDS_RU_A1 = [
       "zh": "听",
       "fr": "écouter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "слушать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "slushat"
     }
   },
   {
     "id": "ru_302",
+    "lang": "ru",
     "lemma": "бизнес",
     "pos": "Nomen",
+    "plural": "би́знесы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "biznes"
+    },
     "meanings": {
       "ko": "사업",
       "en": "business",
@@ -8445,18 +7823,12 @@ const WORDS_RU_A1 = [
       "pt": "o negócio",
       "ja": "ビジネス",
       "zh": "商业",
-      "fr": "affaires"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "би́знесы",
-    "reading": {
-      "ru": "biznes"
+      "fr": "les affaires"
     }
   },
   {
     "id": "ru_303",
+    "lang": "ru",
     "lemma": "уехать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8478,25 +7850,25 @@ const WORDS_RU_A1 = [
       "zh": "乘车离开",
       "fr": "partir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "уехать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "uekhat"
     }
   },
   {
     "id": "ru_304",
+    "lang": "ru",
     "lemma": "шаг",
     "pos": "Nomen",
+    "plural": "шаги́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "shag"
+    },
     "meanings": {
       "ko": "걸음",
       "en": "step",
@@ -8507,18 +7879,12 @@ const WORDS_RU_A1 = [
       "pt": "o passo",
       "ja": "歩み",
       "zh": "步",
-      "fr": "pas"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "шаги́",
-    "reading": {
-      "ru": "shag"
+      "fr": "le pas"
     }
   },
   {
     "id": "ru_305",
+    "lang": "ru",
     "lemma": "готово",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8539,14 +7905,13 @@ const WORDS_RU_A1 = [
       "zh": "准备好",
       "fr": "prêt"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "gotovo"
     }
   },
   {
     "id": "ru_306",
+    "lang": "ru",
     "lemma": "плохой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8567,22 +7932,25 @@ const WORDS_RU_A1 = [
       "zh": "坏",
       "fr": "mauvais"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "plokhoy"
     }
   },
   {
     "id": "ru_307",
+    "lang": "ru",
     "lemma": "офицер",
     "pos": "Nomen",
+    "plural": "офице́ры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "ofitser"
+    },
     "meanings": {
       "ko": "장교",
       "en": "officer",
@@ -8593,26 +7961,24 @@ const WORDS_RU_A1 = [
       "pt": "o oficial",
       "ja": "将校",
       "zh": "军官",
-      "fr": "officier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "офице́ры",
-    "reading": {
-      "ru": "ofitser"
+      "fr": "l'officier"
     }
   },
   {
     "id": "ru_308",
+    "lang": "ru",
     "lemma": "сюрприз",
     "pos": "Nomen",
+    "plural": "сюрпри́зы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "syurpriz"
+    },
     "meanings": {
       "ko": "놀라움",
       "en": "surprise",
@@ -8623,26 +7989,24 @@ const WORDS_RU_A1 = [
       "pt": "a surpresa",
       "ja": "驚き",
       "zh": "惊喜",
-      "fr": "surprise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сюрпри́зы",
-    "reading": {
-      "ru": "syurpriz"
+      "fr": "la surprise"
     }
   },
   {
     "id": "ru_309",
+    "lang": "ru",
     "lemma": "вода",
     "pos": "Nomen",
+    "plural": "во́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "voda"
+    },
     "meanings": {
       "ko": "물",
       "en": "water",
@@ -8653,18 +8017,12 @@ const WORDS_RU_A1 = [
       "pt": "a água",
       "ja": "水",
       "zh": "水",
-      "fr": "eau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "во́ды",
-    "reading": {
-      "ru": "voda"
+      "fr": "l'eau"
     }
   },
   {
     "id": "ru_310",
+    "lang": "ru",
     "lemma": "полный",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8685,14 +8043,13 @@ const WORDS_RU_A1 = [
       "zh": "满",
       "fr": "plein"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "polnyy"
     }
   },
   {
     "id": "ru_311",
+    "lang": "ru",
     "lemma": "доказать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8713,24 +8070,24 @@ const WORDS_RU_A1 = [
       "zh": "证明",
       "fr": "prouver"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "доказать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "dokazat"
     }
   },
   {
     "id": "ru_312",
+    "lang": "ru",
     "lemma": "война",
     "pos": "Nomen",
+    "plural": "во́йны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "voyna"
+    },
     "meanings": {
       "ko": "전쟁",
       "en": "war",
@@ -8741,26 +8098,24 @@ const WORDS_RU_A1 = [
       "pt": "a guerra",
       "ja": "戦争",
       "zh": "战争",
-      "fr": "guerre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "во́йны",
-    "reading": {
-      "ru": "voyna"
+      "fr": "la guerre"
     }
   },
   {
     "id": "ru_313",
+    "lang": "ru",
     "lemma": "мысль",
     "pos": "Nomen",
+    "plural": "мы́сли",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mysl"
+    },
     "meanings": {
       "ko": "생각",
       "en": "thought",
@@ -8771,26 +8126,24 @@ const WORDS_RU_A1 = [
       "pt": "o pensamento",
       "ja": "思考",
       "zh": "思想",
-      "fr": "pensée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мы́сли",
-    "reading": {
-      "ru": "mysl"
+      "fr": "la pensée"
     }
   },
   {
     "id": "ru_314",
+    "lang": "ru",
     "lemma": "большинство",
     "pos": "Nomen",
+    "plural": "*большинства́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "bolshinstvo"
+    },
     "meanings": {
       "ko": "대다수",
       "en": "majority",
@@ -8801,18 +8154,12 @@ const WORDS_RU_A1 = [
       "pt": "a maioria",
       "ja": "大多数",
       "zh": "大多数",
-      "fr": "majorité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*большинства́",
-    "reading": {
-      "ru": "bolshinstvo"
+      "fr": "la majorité"
     }
   },
   {
     "id": "ru_315",
+    "lang": "ru",
     "lemma": "продолжать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8833,17 +8180,13 @@ const WORDS_RU_A1 = [
       "zh": "继续",
       "fr": "continuer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "продолжать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "prodolzhat"
     }
   },
   {
     "id": "ru_316",
+    "lang": "ru",
     "lemma": "двигаться",
     "pos": "Verb",
     "cefr": "A1",
@@ -8864,17 +8207,13 @@ const WORDS_RU_A1 = [
       "zh": "移动",
       "fr": "bouger"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "двигаться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "dvigatsya"
     }
   },
   {
     "id": "ru_317",
+    "lang": "ru",
     "lemma": "чувствовать",
     "pos": "Verb",
     "cefr": "A1",
@@ -8896,17 +8235,13 @@ const WORDS_RU_A1 = [
       "zh": "感觉",
       "fr": "sentir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "чувствовать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "chuvstvovat"
     }
   },
   {
     "id": "ru_319",
+    "lang": "ru",
     "lemma": "любить",
     "pos": "Verb",
     "cefr": "A1",
@@ -8927,17 +8262,13 @@ const WORDS_RU_A1 = [
       "zh": "爱",
       "fr": "amour"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "любить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "lyubit"
     }
   },
   {
     "id": "ru_321",
+    "lang": "ru",
     "lemma": "попросить",
     "pos": "Verb",
     "cefr": "A1",
@@ -8959,17 +8290,13 @@ const WORDS_RU_A1 = [
       "zh": "请求",
       "fr": "demander"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "попросить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "poprosit"
     }
   },
   {
     "id": "ru_322",
+    "lang": "ru",
     "lemma": "главный",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8990,22 +8317,25 @@ const WORDS_RU_A1 = [
       "zh": "主要",
       "fr": "principal"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "glavnyy"
     }
   },
   {
     "id": "ru_324",
+    "lang": "ru",
     "lemma": "мнение",
     "pos": "Nomen",
+    "plural": "мне́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mnenie"
+    },
     "meanings": {
       "ko": "의견",
       "en": "opinion",
@@ -9016,26 +8346,24 @@ const WORDS_RU_A1 = [
       "pt": "a opinião",
       "ja": "意見",
       "zh": "意见",
-      "fr": "avis"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мне́ния",
-    "reading": {
-      "ru": "mnenie"
+      "fr": "l'avis"
     }
   },
   {
     "id": "ru_326",
+    "lang": "ru",
     "lemma": "постой",
     "pos": "Nomen",
+    "plural": "посто́и",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ru": "postoy"
+    },
     "meanings": {
       "ko": "숙박",
       "en": "lodging",
@@ -9046,26 +8374,24 @@ const WORDS_RU_A1 = [
       "pt": "o alojamento",
       "ja": "宿泊",
       "zh": "住宿",
-      "fr": "logement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "посто́и",
-    "reading": {
-      "ru": "postoy"
+      "fr": "le logement"
     }
   },
   {
     "id": "ru_327",
+    "lang": "ru",
     "lemma": "вечеринка",
     "pos": "Nomen",
+    "plural": "вечери́нки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vecherinka"
+    },
     "meanings": {
       "ko": "파티",
       "en": "party",
@@ -9076,26 +8402,24 @@ const WORDS_RU_A1 = [
       "pt": "a festa",
       "ja": "パーティー",
       "zh": "派对",
-      "fr": "fête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вечери́нки",
-    "reading": {
-      "ru": "vecherinka"
+      "fr": "la fête"
     }
   },
   {
     "id": "ru_328",
+    "lang": "ru",
     "lemma": "ошибка",
     "pos": "Nomen",
+    "plural": "оши́бки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "oshibka"
+    },
     "meanings": {
       "ko": "실수",
       "en": "mistake",
@@ -9106,26 +8430,24 @@ const WORDS_RU_A1 = [
       "pt": "o erro",
       "ja": "間違い",
       "zh": "错误",
-      "fr": "erreur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "оши́бки",
-    "reading": {
-      "ru": "oshibka"
+      "fr": "l'erreur"
     }
   },
   {
     "id": "ru_329",
+    "lang": "ru",
     "lemma": "профессор",
     "pos": "Nomen",
+    "plural": "профессора́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "professor"
+    },
     "meanings": {
       "ko": "교수",
       "en": "professor",
@@ -9136,25 +8458,23 @@ const WORDS_RU_A1 = [
       "pt": "o professor",
       "ja": "教授",
       "zh": "教授",
-      "fr": "professeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "профессора́",
-    "reading": {
-      "ru": "professor"
+      "fr": "le professeur"
     }
   },
   {
     "id": "ru_330",
+    "lang": "ru",
     "lemma": "поле",
     "pos": "Nomen",
+    "plural": "поля́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "pole"
+    },
     "meanings": {
       "ko": "들판",
       "en": "field",
@@ -9165,26 +8485,24 @@ const WORDS_RU_A1 = [
       "pt": "o campo",
       "ja": "野原",
       "zh": "田野",
-      "fr": "champ"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "поля́",
-    "reading": {
-      "ru": "pole"
+      "fr": "le champ"
     }
   },
   {
     "id": "ru_331",
+    "lang": "ru",
     "lemma": "музыка",
     "pos": "Nomen",
+    "plural": "му́зыки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "muzyka"
+    },
     "meanings": {
       "ko": "음악",
       "en": "music",
@@ -9195,26 +8513,24 @@ const WORDS_RU_A1 = [
       "pt": "a música",
       "ja": "音楽",
       "zh": "音乐",
-      "fr": "musique"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "му́зыки",
-    "reading": {
-      "ru": "muzyka"
+      "fr": "la musique"
     }
   },
   {
     "id": "ru_332",
+    "lang": "ru",
     "lemma": "бабушка",
     "pos": "Nomen",
+    "plural": "ба́бушки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "babushka"
+    },
     "meanings": {
       "ko": "할머니",
       "en": "grandmother",
@@ -9225,18 +8541,12 @@ const WORDS_RU_A1 = [
       "pt": "a avó",
       "ja": "祖母",
       "zh": "祖母",
-      "fr": "grand-mère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ба́бушки",
-    "reading": {
-      "ru": "babushka"
+      "fr": "la grand-mère"
     }
   },
   {
     "id": "ru_335",
+    "lang": "ru",
     "lemma": "отдать",
     "pos": "Verb",
     "cefr": "A1",
@@ -9257,25 +8567,25 @@ const WORDS_RU_A1 = [
       "zh": "归还",
       "fr": "rendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "отдать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "otdat"
     }
   },
   {
     "id": "ru_338",
+    "lang": "ru",
     "lemma": "комната",
     "pos": "Nomen",
+    "plural": "ко́мнаты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "komnata"
+    },
     "meanings": {
       "ko": "방",
       "en": "room",
@@ -9286,18 +8596,12 @@ const WORDS_RU_A1 = [
       "pt": "o quarto",
       "ja": "部屋",
       "zh": "房间",
-      "fr": "chambre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ко́мнаты",
-    "reading": {
-      "ru": "komnata"
+      "fr": "la chambre"
     }
   },
   {
     "id": "ru_339",
+    "lang": "ru",
     "lemma": "закончить",
     "pos": "Verb",
     "cefr": "A1",
@@ -9318,25 +8622,25 @@ const WORDS_RU_A1 = [
       "zh": "完成",
       "fr": "finir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "закончить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zakonchit"
     }
   },
   {
     "id": "ru_340",
+    "lang": "ru",
     "lemma": "врач",
     "pos": "Nomen",
+    "plural": "врачи́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vrach"
+    },
     "meanings": {
       "ko": "의사",
       "en": "doctor",
@@ -9347,26 +8651,24 @@ const WORDS_RU_A1 = [
       "pt": "o médico",
       "ja": "医者",
       "zh": "医生",
-      "fr": "docteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "врачи́",
-    "reading": {
-      "ru": "vrach"
+      "fr": "le docteur"
     }
   },
   {
     "id": "ru_341",
+    "lang": "ru",
     "lemma": "роль",
     "pos": "Nomen",
+    "plural": "ро́ли",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "rol"
+    },
     "meanings": {
       "ko": "역할",
       "en": "role",
@@ -9377,26 +8679,24 @@ const WORDS_RU_A1 = [
       "pt": "o papel",
       "ja": "役割",
       "zh": "角色",
-      "fr": "rôle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ро́ли",
-    "reading": {
-      "ru": "rol"
+      "fr": "le rôle"
     }
   },
   {
     "id": "ru_342",
+    "lang": "ru",
     "lemma": "порядок",
     "pos": "Nomen",
+    "plural": "поря́дки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "poryadok"
+    },
     "meanings": {
       "ko": "질서",
       "en": "order",
@@ -9407,26 +8707,24 @@ const WORDS_RU_A1 = [
       "pt": "a ordem",
       "ja": "秩序",
       "zh": "秩序",
-      "fr": "ordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "поря́дки",
-    "reading": {
-      "ru": "poryadok"
+      "fr": "l'ordre"
     }
   },
   {
     "id": "ru_343",
+    "lang": "ru",
     "lemma": "группа",
     "pos": "Nomen",
+    "plural": "гру́ппы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "gruppa"
+    },
     "meanings": {
       "ko": "그룹",
       "en": "group",
@@ -9437,26 +8735,24 @@ const WORDS_RU_A1 = [
       "pt": "o grupo",
       "ja": "グループ",
       "zh": "组",
-      "fr": "groupe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "гру́ппы",
-    "reading": {
-      "ru": "gruppa"
+      "fr": "le groupe"
     }
   },
   {
     "id": "ru_344",
+    "lang": "ru",
     "lemma": "кольцо",
     "pos": "Nomen",
+    "plural": "ко́льца",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "koltso"
+    },
     "meanings": {
       "ko": "반지",
       "en": "ring",
@@ -9467,18 +8763,12 @@ const WORDS_RU_A1 = [
       "pt": "o anel",
       "ja": "指輪",
       "zh": "戒指",
-      "fr": "bague"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ко́льца",
-    "reading": {
-      "ru": "koltso"
+      "fr": "la bague"
     }
   },
   {
     "id": "ru_345",
+    "lang": "ru",
     "lemma": "разговаривать",
     "pos": "Verb",
     "cefr": "A1",
@@ -9500,25 +8790,25 @@ const WORDS_RU_A1 = [
       "zh": "说话",
       "fr": "parler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "разговаривать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "razgovarivat"
     }
   },
   {
     "id": "ru_347",
+    "lang": "ru",
     "lemma": "закон",
     "pos": "Nomen",
+    "plural": "зако́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "zakon"
+    },
     "meanings": {
       "ko": "법",
       "en": "law",
@@ -9529,26 +8819,24 @@ const WORDS_RU_A1 = [
       "pt": "a lei",
       "ja": "法律",
       "zh": "法律",
-      "fr": "loi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "зако́ны",
-    "reading": {
-      "ru": "zakon"
+      "fr": "la loi"
     }
   },
   {
     "id": "ru_348",
+    "lang": "ru",
     "lemma": "член",
     "pos": "Nomen",
+    "plural": "чле́ны",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "chlen"
+    },
     "meanings": {
       "ko": "회원",
       "en": "member",
@@ -9559,20 +8847,15 @@ const WORDS_RU_A1 = [
       "pt": "o membro",
       "ja": "メンバー",
       "zh": "成员",
-      "fr": "membre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "чле́ны",
-    "reading": {
-      "ru": "chlen"
+      "fr": "le membre"
     }
   },
   {
     "id": "ru_349",
+    "lang": "ru",
     "lemma": "такси",
     "pos": "Nomen",
+    "plural": "такси́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9580,6 +8863,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "taksi"
+    },
     "meanings": {
       "ko": "택시",
       "en": "taxi",
@@ -9590,26 +8876,24 @@ const WORDS_RU_A1 = [
       "pt": "o táxi",
       "ja": "タクシー",
       "zh": "出租车",
-      "fr": "taxi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "такси́",
-    "reading": {
-      "ru": "taksi"
+      "fr": "le taxi"
     }
   },
   {
     "id": "ru_350",
+    "lang": "ru",
     "lemma": "серия",
     "pos": "Nomen",
+    "plural": "се́рии",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "seriya"
+    },
     "meanings": {
       "ko": "시리즈",
       "en": "series",
@@ -9620,18 +8904,12 @@ const WORDS_RU_A1 = [
       "pt": "a série",
       "ja": "シリーズ",
       "zh": "系列",
-      "fr": "série"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "се́рии",
-    "reading": {
-      "ru": "seriya"
+      "fr": "la série"
     }
   },
   {
     "id": "ru_351",
+    "lang": "ru",
     "lemma": "молодой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9652,22 +8930,25 @@ const WORDS_RU_A1 = [
       "zh": "年轻的",
       "fr": "jeune"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "molodoy"
     }
   },
   {
     "id": "ru_352",
+    "lang": "ru",
     "lemma": "шутка",
     "pos": "Nomen",
+    "plural": "шу́тки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "shutka"
+    },
     "meanings": {
       "ko": "농담",
       "en": "joke",
@@ -9678,18 +8959,12 @@ const WORDS_RU_A1 = [
       "pt": "a piada",
       "ja": "冗談",
       "zh": "笑话",
-      "fr": "blague"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "шу́тки",
-    "reading": {
-      "ru": "shutka"
+      "fr": "la blague"
     }
   },
   {
     "id": "ru_353",
+    "lang": "ru",
     "lemma": "уходить",
     "pos": "Verb",
     "cefr": "A1",
@@ -9710,17 +8985,13 @@ const WORDS_RU_A1 = [
       "zh": "离开",
       "fr": "partir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "уходить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ukhodit"
     }
   },
   {
     "id": "ru_354",
+    "lang": "ru",
     "lemma": "снять",
     "pos": "Verb",
     "cefr": "A1",
@@ -9741,17 +9012,13 @@ const WORDS_RU_A1 = [
       "zh": "移除",
       "fr": "enlever"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "снять",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "snyat"
     }
   },
   {
     "id": "ru_355",
+    "lang": "ru",
     "lemma": "разобраться",
     "pos": "Verb",
     "cefr": "A1",
@@ -9772,17 +9039,13 @@ const WORDS_RU_A1 = [
       "zh": "整理",
       "fr": "régler"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "разобраться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "razobratsya"
     }
   },
   {
     "id": "ru_357",
+    "lang": "ru",
     "lemma": "едем",
     "pos": "Nomen",
     "cefr": "A1",
@@ -9790,6 +9053,9 @@ const WORDS_RU_A1 = [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "edem"
+    },
     "meanings": {
       "ko": "에덴",
       "en": "Eden",
@@ -9800,20 +9066,15 @@ const WORDS_RU_A1 = [
       "pt": "o Éden",
       "ja": "エデン",
       "zh": "伊甸",
-      "fr": "Éden"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "edem"
+      "fr": "l'Éden"
     }
   },
   {
     "id": "ru_358",
+    "lang": "ru",
     "lemma": "директор",
     "pos": "Nomen",
+    "plural": "директора́",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9821,6 +9082,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "direktor"
+    },
     "meanings": {
       "ko": "이사",
       "en": "director",
@@ -9831,26 +9095,24 @@ const WORDS_RU_A1 = [
       "pt": "o diretor",
       "ja": "ディレクター",
       "zh": "董事",
-      "fr": "directeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "директора́",
-    "reading": {
-      "ru": "direktor"
+      "fr": "le directeur"
     }
   },
   {
     "id": "ru_359",
+    "lang": "ru",
     "lemma": "сигнал",
     "pos": "Nomen",
+    "plural": "сигна́лы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "signal"
+    },
     "meanings": {
       "ko": "신호",
       "en": "signal",
@@ -9861,18 +9123,12 @@ const WORDS_RU_A1 = [
       "pt": "o sinal",
       "ja": "信号",
       "zh": "信号",
-      "fr": "signal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "сигна́лы",
-    "reading": {
-      "ru": "signal"
+      "fr": "le signal"
     }
   },
   {
     "id": "ru_360",
+    "lang": "ru",
     "lemma": "легче",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9893,14 +9149,13 @@ const WORDS_RU_A1 = [
       "zh": "更容易",
       "fr": "plus facile"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "legche"
     }
   },
   {
     "id": "ru_361",
+    "lang": "ru",
     "lemma": "ответить",
     "pos": "Verb",
     "cefr": "A1",
@@ -9922,17 +9177,13 @@ const WORDS_RU_A1 = [
       "zh": "回答",
       "fr": "réponse"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ответить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "otvetit"
     }
   },
   {
     "id": "ru_362",
+    "lang": "ru",
     "lemma": "принести",
     "pos": "Verb",
     "cefr": "A1",
@@ -9953,25 +9204,25 @@ const WORDS_RU_A1 = [
       "zh": "带来",
       "fr": "apporter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "принести",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "prinesti"
     }
   },
   {
     "id": "ru_363",
+    "lang": "ru",
     "lemma": "секрет",
     "pos": "Nomen",
+    "plural": "секре́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sekret"
+    },
     "meanings": {
       "ko": "비밀",
       "en": "secret",
@@ -9982,26 +9233,24 @@ const WORDS_RU_A1 = [
       "pt": "o segredo",
       "ja": "秘密",
       "zh": "秘密",
-      "fr": "secret"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "секре́ты",
-    "reading": {
-      "ru": "sekret"
+      "fr": "le secret"
     }
   },
   {
     "id": "ru_364",
+    "lang": "ru",
     "lemma": "приказ",
     "pos": "Nomen",
+    "plural": "прика́зы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "prikaz"
+    },
     "meanings": {
       "ko": "명령",
       "en": "order",
@@ -10012,18 +9261,12 @@ const WORDS_RU_A1 = [
       "pt": "a ordem",
       "ja": "命令",
       "zh": "命令",
-      "fr": "ordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "прика́зы",
-    "reading": {
-      "ru": "prikaz"
+      "fr": "l'ordre"
     }
   },
   {
     "id": "ru_365",
+    "lang": "ru",
     "lemma": "бросить",
     "pos": "Verb",
     "cefr": "A1",
@@ -10044,19 +9287,16 @@ const WORDS_RU_A1 = [
       "zh": "扔",
       "fr": "jeter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "бросить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "brosit"
     }
   },
   {
     "id": "ru_366",
+    "lang": "ru",
     "lemma": "компания",
     "pos": "Nomen",
+    "plural": "компа́нии",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10064,6 +9304,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "kompaniya"
+    },
     "meanings": {
       "ko": "회사",
       "en": "company",
@@ -10074,18 +9317,12 @@ const WORDS_RU_A1 = [
       "pt": "a empresa",
       "ja": "会社",
       "zh": "公司",
-      "fr": "compagnie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "компа́нии",
-    "reading": {
-      "ru": "kompaniya"
+      "fr": "la compagnie"
     }
   },
   {
     "id": "ru_367",
+    "lang": "ru",
     "lemma": "прекрасный",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10106,22 +9343,25 @@ const WORDS_RU_A1 = [
       "zh": "美丽的",
       "fr": "beau"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "prekrasnyy"
     }
   },
   {
     "id": "ru_369",
+    "lang": "ru",
     "lemma": "память",
     "pos": "Nomen",
+    "plural": "па́мяти",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pamyat"
+    },
     "meanings": {
       "ko": "기억",
       "en": "memory",
@@ -10132,26 +9372,24 @@ const WORDS_RU_A1 = [
       "pt": "a memória",
       "ja": "記憶",
       "zh": "记忆",
-      "fr": "mémoire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "па́мяти",
-    "reading": {
-      "ru": "pamyat"
+      "fr": "la mémoire"
     }
   },
   {
     "id": "ru_370",
+    "lang": "ru",
     "lemma": "старик",
     "pos": "Nomen",
+    "plural": "старики́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "starik"
+    },
     "meanings": {
       "ko": "노인",
       "en": "old man",
@@ -10162,18 +9400,12 @@ const WORDS_RU_A1 = [
       "pt": "o velho",
       "ja": "老人",
       "zh": "老人",
-      "fr": "vieil homme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "старики́",
-    "reading": {
-      "ru": "starik"
+      "fr": "le vieil homme"
     }
   },
   {
     "id": "ru_371",
+    "lang": "ru",
     "lemma": "избавиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -10194,25 +9426,25 @@ const WORDS_RU_A1 = [
       "zh": "摆脱",
       "fr": "se débarrasser"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "избавиться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "izbavitsya"
     }
   },
   {
     "id": "ru_372",
+    "lang": "ru",
     "lemma": "информация",
     "pos": "Nomen",
+    "plural": "информа́ции",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "informatsiya"
+    },
     "meanings": {
       "ko": "정보",
       "en": "information",
@@ -10223,18 +9455,12 @@ const WORDS_RU_A1 = [
       "pt": "a informação",
       "ja": "情報",
       "zh": "信息",
-      "fr": "information"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "информа́ции",
-    "reading": {
-      "ru": "informatsiya"
+      "fr": "l'information"
     }
   },
   {
     "id": "ru_373",
+    "lang": "ru",
     "lemma": "встречаться",
     "pos": "Verb",
     "cefr": "A1",
@@ -10255,25 +9481,25 @@ const WORDS_RU_A1 = [
       "zh": "见面",
       "fr": "rencontrer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "встречаться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "vstrechatsya"
     }
   },
   {
     "id": "ru_375",
+    "lang": "ru",
     "lemma": "мозг",
     "pos": "Nomen",
+    "plural": "мозги́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "mozg"
+    },
     "meanings": {
       "ko": "뇌",
       "en": "brain",
@@ -10284,18 +9510,12 @@ const WORDS_RU_A1 = [
       "pt": "o cérebro",
       "ja": "脳",
       "zh": "大脑",
-      "fr": "cerveau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "мозги́",
-    "reading": {
-      "ru": "mozg"
+      "fr": "le cerveau"
     }
   },
   {
     "id": "ru_376",
+    "lang": "ru",
     "lemma": "читать",
     "pos": "Verb",
     "cefr": "A1",
@@ -10316,25 +9536,25 @@ const WORDS_RU_A1 = [
       "zh": "阅读",
       "fr": "lire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "читать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "chitat"
     }
   },
   {
     "id": "ru_378",
+    "lang": "ru",
     "lemma": "стол",
     "pos": "Nomen",
+    "plural": "столы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "stol"
+    },
     "meanings": {
       "ko": "테이블",
       "en": "table",
@@ -10345,26 +9565,24 @@ const WORDS_RU_A1 = [
       "pt": "a mesa",
       "ja": "テーブル",
       "zh": "桌子",
-      "fr": "table"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "столы́",
-    "reading": {
-      "ru": "stol"
+      "fr": "la table"
     }
   },
   {
     "id": "ru_380",
+    "lang": "ru",
     "lemma": "боб",
     "pos": "Nomen",
+    "plural": "бобы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "bob"
+    },
     "meanings": {
       "ko": "콩",
       "en": "bean",
@@ -10375,26 +9593,24 @@ const WORDS_RU_A1 = [
       "pt": "o feijão",
       "ja": "豆",
       "zh": "豆",
-      "fr": "haricot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бобы́",
-    "reading": {
-      "ru": "bob"
+      "fr": "le haricot"
     }
   },
   {
     "id": "ru_381",
+    "lang": "ru",
     "lemma": "ложь",
     "pos": "Nomen",
+    "plural": "лжи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "lozh"
+    },
     "meanings": {
       "ko": "거짓말",
       "en": "lie",
@@ -10407,16 +9623,15 @@ const WORDS_RU_A1 = [
       "zh": "谎言",
       "fr": "mentir"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "лжи",
-    "reading": {
-      "ru": "lozh"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_382",
+    "lang": "ru",
     "lemma": "взглянуть",
     "pos": "Verb",
     "cefr": "A1",
@@ -10437,17 +9652,13 @@ const WORDS_RU_A1 = [
       "zh": "看一眼",
       "fr": "regard"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "взглянуть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "vzglyanut"
     }
   },
   {
     "id": "ru_383",
+    "lang": "ru",
     "lemma": "писать",
     "pos": "Verb",
     "cefr": "A1",
@@ -10468,17 +9679,13 @@ const WORDS_RU_A1 = [
       "zh": "写",
       "fr": "écrire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "писать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pisat"
     }
   },
   {
     "id": "ru_384",
+    "lang": "ru",
     "lemma": "передать",
     "pos": "Verb",
     "cefr": "A1",
@@ -10499,17 +9706,13 @@ const WORDS_RU_A1 = [
       "zh": "传递",
       "fr": "remettre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "передать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "peredat"
     }
   },
   {
     "id": "ru_385",
+    "lang": "ru",
     "lemma": "войти",
     "pos": "Verb",
     "cefr": "A1",
@@ -10530,24 +9733,24 @@ const WORDS_RU_A1 = [
       "zh": "进入",
       "fr": "entrer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "войти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "voyti"
     }
   },
   {
     "id": "ru_386",
+    "lang": "ru",
     "lemma": "бобби",
     "pos": "Nomen",
+    "plural": "бо́бби",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "bobbi"
+    },
     "meanings": {
       "ko": "보비",
       "en": "Bobby",
@@ -10560,16 +9763,15 @@ const WORDS_RU_A1 = [
       "zh": "鲍比",
       "fr": "Bobby"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бо́бби",
-    "reading": {
-      "ru": "bobbi"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ru_387",
+    "lang": "ru",
     "lemma": "настоящее",
     "pos": "Nomen",
     "cefr": "A1",
@@ -10578,6 +9780,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nastoyashchee"
+    },
     "meanings": {
       "ko": "현재",
       "en": "present",
@@ -10588,18 +9793,12 @@ const WORDS_RU_A1 = [
       "pt": "o presente",
       "ja": "現在",
       "zh": "现在",
-      "fr": "présent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "nastoyashchee"
+      "fr": "le présent"
     }
   },
   {
     "id": "ru_388",
+    "lang": "ru",
     "lemma": "настоящее",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10620,22 +9819,25 @@ const WORDS_RU_A1 = [
       "zh": "真实的",
       "fr": "réel"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nastoyashchee"
     }
   },
   {
     "id": "ru_389",
+    "lang": "ru",
     "lemma": "класс",
     "pos": "Nomen",
+    "plural": "кла́ссы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "klass"
+    },
     "meanings": {
       "ko": "학급",
       "en": "class",
@@ -10646,18 +9848,12 @@ const WORDS_RU_A1 = [
       "pt": "a classe",
       "ja": "クラス",
       "zh": "班级",
-      "fr": "classe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "кла́ссы",
-    "reading": {
-      "ru": "klass"
+      "fr": "la classe"
     }
   },
   {
     "id": "ru_390",
+    "lang": "ru",
     "lemma": "убедиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -10678,25 +9874,25 @@ const WORDS_RU_A1 = [
       "zh": "确认",
       "fr": "s'assurer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "убедиться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "ubeditsya"
     }
   },
   {
     "id": "ru_391",
+    "lang": "ru",
     "lemma": "факт",
     "pos": "Nomen",
+    "plural": "фа́кты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "fakt"
+    },
     "meanings": {
       "ko": "사실",
       "en": "fact",
@@ -10707,18 +9903,12 @@ const WORDS_RU_A1 = [
       "pt": "o fato",
       "ja": "事実",
       "zh": "事实",
-      "fr": "fait"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "фа́кты",
-    "reading": {
-      "ru": "fakt"
+      "fr": "le fait"
     }
   },
   {
     "id": "ru_392",
+    "lang": "ru",
     "lemma": "уничтожить",
     "pos": "Verb",
     "cefr": "A1",
@@ -10738,25 +9928,25 @@ const WORDS_RU_A1 = [
       "zh": "摧毁",
       "fr": "détruire"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "уничтожить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "unichtozhit"
     }
   },
   {
     "id": "ru_393",
+    "lang": "ru",
     "lemma": "учитель",
     "pos": "Nomen",
+    "plural": "учителя́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "uchitel"
+    },
     "meanings": {
       "ko": "선생님",
       "en": "teacher",
@@ -10767,18 +9957,12 @@ const WORDS_RU_A1 = [
       "pt": "o professor",
       "ja": "先生",
       "zh": "老师",
-      "fr": "professeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "учителя́",
-    "reading": {
-      "ru": "uchitel"
+      "fr": "le professeur"
     }
   },
   {
     "id": "ru_394",
+    "lang": "ru",
     "lemma": "полно",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10799,14 +9983,13 @@ const WORDS_RU_A1 = [
       "zh": "足够",
       "fr": "assez"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "polno"
     }
   },
   {
     "id": "ru_395",
+    "lang": "ru",
     "lemma": "бежать",
     "pos": "Verb",
     "cefr": "A1",
@@ -10827,25 +10010,25 @@ const WORDS_RU_A1 = [
       "zh": "跑",
       "fr": "courir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "бежать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "bezhat"
     }
   },
   {
     "id": "ru_396",
+    "lang": "ru",
     "lemma": "данные",
     "pos": "Nomen",
+    "plural": "да́нные",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "dannye"
+    },
     "meanings": {
       "ko": "데이터",
       "en": "data",
@@ -10856,26 +10039,24 @@ const WORDS_RU_A1 = [
       "pt": "os dados",
       "ja": "データ",
       "zh": "数据",
-      "fr": "données"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "да́нные",
-    "reading": {
-      "ru": "dannye"
+      "fr": "les données"
     }
   },
   {
     "id": "ru_397",
+    "lang": "ru",
     "lemma": "запах",
     "pos": "Nomen",
+    "plural": "за́пахи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zapakh"
+    },
     "meanings": {
       "ko": "냄새",
       "en": "smell",
@@ -10886,25 +10067,23 @@ const WORDS_RU_A1 = [
       "pt": "o cheiro",
       "ja": "匂い",
       "zh": "气味",
-      "fr": "odeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "за́пахи",
-    "reading": {
-      "ru": "zapakh"
+      "fr": "l'odeur"
     }
   },
   {
     "id": "ru_398",
+    "lang": "ru",
     "lemma": "придурок",
     "pos": "Nomen",
+    "plural": "приду́рки",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ru": "pridurok"
+    },
     "meanings": {
       "ko": "바보",
       "en": "idiot",
@@ -10915,26 +10094,24 @@ const WORDS_RU_A1 = [
       "pt": "o idiota",
       "ja": "馬鹿",
       "zh": "白痴",
-      "fr": "idiot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "приду́рки",
-    "reading": {
-      "ru": "pridurok"
+      "fr": "l'idiot"
     }
   },
   {
     "id": "ru_399",
+    "lang": "ru",
     "lemma": "окно",
     "pos": "Nomen",
+    "plural": "о́кна",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "okno"
+    },
     "meanings": {
       "ko": "창문",
       "en": "window",
@@ -10945,26 +10122,24 @@ const WORDS_RU_A1 = [
       "pt": "a janela",
       "ja": "窓",
       "zh": "窗户",
-      "fr": "fenêtre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "о́кна",
-    "reading": {
-      "ru": "okno"
+      "fr": "la fenêtre"
     }
   },
   {
     "id": "ru_400",
+    "lang": "ru",
     "lemma": "костюм",
     "pos": "Nomen",
+    "plural": "костю́мы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "kostyum"
+    },
     "meanings": {
       "ko": "정장",
       "en": "suit",
@@ -10975,18 +10150,12 @@ const WORDS_RU_A1 = [
       "pt": "o terno",
       "ja": "スーツ",
       "zh": "西装",
-      "fr": "costume"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "костю́мы",
-    "reading": {
-      "ru": "kostyum"
+      "fr": "le costume"
     }
   },
   {
     "id": "ru_401",
+    "lang": "ru",
     "lemma": "обсудить",
     "pos": "Verb",
     "cefr": "A1",
@@ -11007,17 +10176,13 @@ const WORDS_RU_A1 = [
       "zh": "讨论",
       "fr": "discuter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "обсудить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "obsudit"
     }
   },
   {
     "id": "ru_402",
+    "lang": "ru",
     "lemma": "принимать",
     "pos": "Verb",
     "cefr": "A1",
@@ -11038,25 +10203,25 @@ const WORDS_RU_A1 = [
       "zh": "接受",
       "fr": "accepter"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "принимать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "prinimat"
     }
   },
   {
     "id": "ru_403",
+    "lang": "ru",
     "lemma": "море",
     "pos": "Nomen",
+    "plural": "моря́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ru": "more"
+    },
     "meanings": {
       "ko": "바다",
       "en": "sea",
@@ -11067,26 +10232,24 @@ const WORDS_RU_A1 = [
       "pt": "o mar",
       "ja": "海",
       "zh": "海",
-      "fr": "mer"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "моря́",
-    "reading": {
-      "ru": "more"
+      "fr": "la mer"
     }
   },
   {
     "id": "ru_404",
+    "lang": "ru",
     "lemma": "ситуация",
     "pos": "Nomen",
+    "plural": "ситуа́ции",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "situatsiya"
+    },
     "meanings": {
       "ko": "상황",
       "en": "situation",
@@ -11097,26 +10260,24 @@ const WORDS_RU_A1 = [
       "pt": "a situação",
       "ja": "状況",
       "zh": "情况",
-      "fr": "situation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ситуа́ции",
-    "reading": {
-      "ru": "situatsiya"
+      "fr": "la situation"
     }
   },
   {
     "id": "ru_405",
+    "lang": "ru",
     "lemma": "рождество",
     "pos": "Nomen",
+    "plural": "*рождества́",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "rozhdestvo"
+    },
     "meanings": {
       "ko": "크리스마스",
       "en": "Christmas",
@@ -11129,16 +10290,16 @@ const WORDS_RU_A1 = [
       "zh": "圣诞节",
       "fr": "Noël"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*рождества́",
-    "reading": {
-      "ru": "rozhdestvo"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ru_406",
+    "lang": "ru",
     "lemma": "платить",
     "pos": "Verb",
     "cefr": "A1",
@@ -11160,17 +10321,13 @@ const WORDS_RU_A1 = [
       "zh": "支付",
       "fr": "payer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "платить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "platit"
     }
   },
   {
     "id": "ru_407",
+    "lang": "ru",
     "lemma": "помогать",
     "pos": "Verb",
     "cefr": "A1",
@@ -11191,25 +10348,25 @@ const WORDS_RU_A1 = [
       "zh": "帮助",
       "fr": "aider"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "помогать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "pomogat"
     }
   },
   {
     "id": "ru_408",
+    "lang": "ru",
     "lemma": "новость",
     "pos": "Nomen",
+    "plural": "но́вости",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "novost"
+    },
     "meanings": {
       "ko": "소식",
       "en": "news",
@@ -11220,18 +10377,12 @@ const WORDS_RU_A1 = [
       "pt": "a notícia",
       "ja": "ニュース",
       "zh": "消息",
-      "fr": "nouvelles"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "но́вости",
-    "reading": {
-      "ru": "novost"
+      "fr": "les nouvelles"
     }
   },
   {
     "id": "ru_409",
+    "lang": "ru",
     "lemma": "достать",
     "pos": "Verb",
     "cefr": "A1",
@@ -11252,24 +10403,24 @@ const WORDS_RU_A1 = [
       "zh": "得到",
       "fr": "obtenir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "достать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "dostat"
     }
   },
   {
     "id": "ru_411",
+    "lang": "ru",
     "lemma": "расследование",
     "pos": "Nomen",
+    "plural": "рассле́дования",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ru": "rassledovanie"
+    },
     "meanings": {
       "ko": "수사",
       "en": "investigation",
@@ -11280,18 +10431,12 @@ const WORDS_RU_A1 = [
       "pt": "a investigação",
       "ja": "調査",
       "zh": "调查",
-      "fr": "enquête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "рассле́дования",
-    "reading": {
-      "ru": "rassledovanie"
+      "fr": "l'enquête"
     }
   },
   {
     "id": "ru_412",
+    "lang": "ru",
     "lemma": "предложить",
     "pos": "Verb",
     "cefr": "A1",
@@ -11312,25 +10457,25 @@ const WORDS_RU_A1 = [
       "zh": "提供",
       "fr": "offrir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "предложить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "predlozhit"
     }
   },
   {
     "id": "ru_413",
+    "lang": "ru",
     "lemma": "уровень",
     "pos": "Nomen",
+    "plural": "у́ровни",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "uroven"
+    },
     "meanings": {
       "ko": "수준",
       "en": "level",
@@ -11341,26 +10486,24 @@ const WORDS_RU_A1 = [
       "pt": "o nível",
       "ja": "レベル",
       "zh": "水平",
-      "fr": "niveau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "у́ровни",
-    "reading": {
-      "ru": "uroven"
+      "fr": "le niveau"
     }
   },
   {
     "id": "ru_414",
+    "lang": "ru",
     "lemma": "собака",
     "pos": "Nomen",
+    "plural": "соба́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sobaka"
+    },
     "meanings": {
       "ko": "개",
       "en": "dog",
@@ -11371,26 +10514,24 @@ const WORDS_RU_A1 = [
       "pt": "o cão",
       "ja": "犬",
       "zh": "狗",
-      "fr": "chien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "соба́ки",
-    "reading": {
-      "ru": "sobaka"
+      "fr": "le chien"
     }
   },
   {
     "id": "ru_415",
+    "lang": "ru",
     "lemma": "знак",
     "pos": "Nomen",
+    "plural": "зна́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "znak"
+    },
     "meanings": {
       "ko": "표지",
       "en": "sign",
@@ -11401,26 +10542,24 @@ const WORDS_RU_A1 = [
       "pt": "o sinal",
       "ja": "記号",
       "zh": "符号",
-      "fr": "signe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "зна́ки",
-    "reading": {
-      "ru": "znak"
+      "fr": "le signe"
     }
   },
   {
     "id": "ru_416",
+    "lang": "ru",
     "lemma": "начало",
     "pos": "Nomen",
+    "plural": "нача́ла",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nachalo"
+    },
     "meanings": {
       "ko": "시작",
       "en": "beginning",
@@ -11431,26 +10570,24 @@ const WORDS_RU_A1 = [
       "pt": "o começo",
       "ja": "始まり",
       "zh": "开始",
-      "fr": "début"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "нача́ла",
-    "reading": {
-      "ru": "nachalo"
+      "fr": "le début"
     }
   },
   {
     "id": "ru_417",
+    "lang": "ru",
     "lemma": "клуб",
     "pos": "Nomen",
+    "plural": "клу́бы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "klub"
+    },
     "meanings": {
       "ko": "클럽",
       "en": "club",
@@ -11461,26 +10598,24 @@ const WORDS_RU_A1 = [
       "pt": "o clube",
       "ja": "クラブ",
       "zh": "俱乐部",
-      "fr": "club"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "клу́бы",
-    "reading": {
-      "ru": "klub"
+      "fr": "le club"
     }
   },
   {
     "id": "ru_418",
+    "lang": "ru",
     "lemma": "супер",
     "pos": "Nomen",
+    "plural": "су́перы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "super"
+    },
     "meanings": {
       "ko": "겉표지",
       "en": "dust jacket",
@@ -11491,18 +10626,12 @@ const WORDS_RU_A1 = [
       "pt": "a sobrecapa",
       "ja": "カバー",
       "zh": "护封",
-      "fr": "jaquette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "су́перы",
-    "reading": {
-      "ru": "super"
+      "fr": "la jaquette"
     }
   },
   {
     "id": "ru_419",
+    "lang": "ru",
     "lemma": "супер",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11523,22 +10652,25 @@ const WORDS_RU_A1 = [
       "zh": "超级",
       "fr": "super"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "super"
     }
   },
   {
     "id": "ru_420",
+    "lang": "ru",
     "lemma": "неправда",
     "pos": "Nomen",
+    "plural": "непра́вды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nepravda"
+    },
     "meanings": {
       "ko": "거짓",
       "en": "untruth",
@@ -11549,18 +10681,12 @@ const WORDS_RU_A1 = [
       "pt": "a mentira",
       "ja": "嘘",
       "zh": "谎言",
-      "fr": "mensonge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "непра́вды",
-    "reading": {
-      "ru": "nepravda"
+      "fr": "le mensonge"
     }
   },
   {
     "id": "ru_421",
+    "lang": "ru",
     "lemma": "неправда",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11581,16 +10707,16 @@ const WORDS_RU_A1 = [
       "zh": "不真实",
       "fr": "faux"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nepravda"
     }
   },
   {
     "id": "ru_422",
+    "lang": "ru",
     "lemma": "доступ",
     "pos": "Nomen",
+    "plural": "до́ступы",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11598,6 +10724,9 @@ const WORDS_RU_A1 = [
       "daily",
       "work"
     ],
+    "reading": {
+      "ru": "dostup"
+    },
     "meanings": {
       "ko": "접근",
       "en": "access",
@@ -11608,26 +10737,24 @@ const WORDS_RU_A1 = [
       "pt": "o acesso",
       "ja": "アクセス",
       "zh": "访问",
-      "fr": "accès"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "до́ступы",
-    "reading": {
-      "ru": "dostup"
+      "fr": "l'accès"
     }
   },
   {
     "id": "ru_423",
+    "lang": "ru",
     "lemma": "куча",
     "pos": "Nomen",
+    "plural": "ку́чи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "kucha"
+    },
     "meanings": {
       "ko": "더미",
       "en": "pile",
@@ -11638,20 +10765,15 @@ const WORDS_RU_A1 = [
       "pt": "a pilha",
       "ja": "山",
       "zh": "堆",
-      "fr": "tas"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ку́чи",
-    "reading": {
-      "ru": "kucha"
+      "fr": "le tas"
     }
   },
   {
     "id": "ru_424",
+    "lang": "ru",
     "lemma": "туалет",
     "pos": "Nomen",
+    "plural": "туале́ты",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11659,6 +10781,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "tualet"
+    },
     "meanings": {
       "ko": "화장실",
       "en": "toilet",
@@ -11669,26 +10794,24 @@ const WORDS_RU_A1 = [
       "pt": "o banheiro",
       "ja": "トイレ",
       "zh": "厕所",
-      "fr": "toilettes"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "туале́ты",
-    "reading": {
-      "ru": "tualet"
+      "fr": "les toilettes"
     }
   },
   {
     "id": "ru_426",
+    "lang": "ru",
     "lemma": "песня",
     "pos": "Nomen",
+    "plural": "пе́сни",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "pesnya"
+    },
     "meanings": {
       "ko": "노래",
       "en": "song",
@@ -11699,18 +10822,12 @@ const WORDS_RU_A1 = [
       "pt": "a canção",
       "ja": "歌",
       "zh": "歌曲",
-      "fr": "chanson"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "пе́сни",
-    "reading": {
-      "ru": "pesnya"
+      "fr": "la chanson"
     }
   },
   {
     "id": "ru_427",
+    "lang": "ru",
     "lemma": "небольшой",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11731,22 +10848,25 @@ const WORDS_RU_A1 = [
       "zh": "小的",
       "fr": "petit"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "nebolshoy"
     }
   },
   {
     "id": "ru_428",
+    "lang": "ru",
     "lemma": "запись",
     "pos": "Nomen",
+    "plural": "за́писи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zapis"
+    },
     "meanings": {
       "ko": "기록",
       "en": "record",
@@ -11757,26 +10877,24 @@ const WORDS_RU_A1 = [
       "pt": "o registro",
       "ja": "記録",
       "zh": "记录",
-      "fr": "enregistrement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "за́писи",
-    "reading": {
-      "ru": "zapis"
+      "fr": "l'enregistrement"
     }
   },
   {
     "id": "ru_429",
+    "lang": "ru",
     "lemma": "состояние",
     "pos": "Nomen",
+    "plural": "состоя́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sostoyanie"
+    },
     "meanings": {
       "ko": "상태",
       "en": "state",
@@ -11787,18 +10905,12 @@ const WORDS_RU_A1 = [
       "pt": "o estado",
       "ja": "状態",
       "zh": "状态",
-      "fr": "état"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "состоя́ния",
-    "reading": {
-      "ru": "sostoyanie"
+      "fr": "l'état"
     }
   },
   {
     "id": "ru_430",
+    "lang": "ru",
     "lemma": "белый",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11819,22 +10931,25 @@ const WORDS_RU_A1 = [
       "zh": "白色",
       "fr": "blanc"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "belyy"
     }
   },
   {
     "id": "ru_431",
+    "lang": "ru",
     "lemma": "белый",
     "pos": "Nomen",
+    "plural": "бе́лые",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "belyy"
+    },
     "meanings": {
       "ko": "흰버섯",
       "en": "porcini mushroom",
@@ -11845,18 +10960,12 @@ const WORDS_RU_A1 = [
       "pt": "o cogumelo porcini",
       "ja": "ポルチーニ茸",
       "zh": "牛肝菌",
-      "fr": "cèpe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бе́лые",
-    "reading": {
-      "ru": "belyy"
+      "fr": "le cèpe"
     }
   },
   {
     "id": "ru_432",
+    "lang": "ru",
     "lemma": "зайти",
     "pos": "Verb",
     "cefr": "A1",
@@ -11877,25 +10986,25 @@ const WORDS_RU_A1 = [
       "zh": "顺便拜访",
       "fr": "passer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "зайти",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zayti"
     }
   },
   {
     "id": "ru_433",
+    "lang": "ru",
     "lemma": "центр",
     "pos": "Nomen",
+    "plural": "це́нтры",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "tsentr"
+    },
     "meanings": {
       "ko": "중심",
       "en": "center",
@@ -11906,26 +11015,24 @@ const WORDS_RU_A1 = [
       "pt": "o centro",
       "ja": "中心",
       "zh": "中心",
-      "fr": "centre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "це́нтры",
-    "reading": {
-      "ru": "tsentr"
+      "fr": "le centre"
     }
   },
   {
     "id": "ru_434",
+    "lang": "ru",
     "lemma": "дружище",
     "pos": "Nomen",
+    "plural": "дружи́щи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "druzhishche"
+    },
     "meanings": {
       "ko": "친구",
       "en": "buddy",
@@ -11936,18 +11043,12 @@ const WORDS_RU_A1 = [
       "pt": "o amigo",
       "ja": "相棒",
       "zh": "哥们",
-      "fr": "copain"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "дружи́щи",
-    "reading": {
-      "ru": "druzhishche"
+      "fr": "le copain"
     }
   },
   {
     "id": "ru_435",
+    "lang": "ru",
     "lemma": "исправить",
     "pos": "Verb",
     "cefr": "A1",
@@ -11969,25 +11070,25 @@ const WORDS_RU_A1 = [
       "zh": "改正",
       "fr": "correct"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "исправить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "ispravit"
     }
   },
   {
     "id": "ru_436",
+    "lang": "ru",
     "lemma": "желание",
     "pos": "Nomen",
+    "plural": "жела́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zhelanie"
+    },
     "meanings": {
       "ko": "욕망",
       "en": "desire",
@@ -11998,26 +11099,24 @@ const WORDS_RU_A1 = [
       "pt": "o desejo",
       "ja": "願望",
       "zh": "愿望",
-      "fr": "désir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "жела́ния",
-    "reading": {
-      "ru": "zhelanie"
+      "fr": "le désir"
     }
   },
   {
     "id": "ru_437",
+    "lang": "ru",
     "lemma": "книга",
     "pos": "Nomen",
+    "plural": "кни́ги",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "kniga"
+    },
     "meanings": {
       "ko": "책",
       "en": "book",
@@ -12028,18 +11127,12 @@ const WORDS_RU_A1 = [
       "pt": "o livro",
       "ja": "本",
       "zh": "书",
-      "fr": "livre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "кни́ги",
-    "reading": {
-      "ru": "kniga"
+      "fr": "le livre"
     }
   },
   {
     "id": "ru_438",
+    "lang": "ru",
     "lemma": "добраться",
     "pos": "Verb",
     "cefr": "A1",
@@ -12061,25 +11154,25 @@ const WORDS_RU_A1 = [
       "zh": "到达",
       "fr": "arriver"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "добраться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "dobratsya"
     }
   },
   {
     "id": "ru_439",
+    "lang": "ru",
     "lemma": "нос",
     "pos": "Nomen",
+    "plural": "носы́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nos"
+    },
     "meanings": {
       "ko": "코",
       "en": "nose",
@@ -12090,26 +11183,24 @@ const WORDS_RU_A1 = [
       "pt": "o nariz",
       "ja": "鼻",
       "zh": "鼻子",
-      "fr": "nez"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "носы́",
-    "reading": {
-      "ru": "nos"
+      "fr": "le nez"
     }
   },
   {
     "id": "ru_441",
+    "lang": "ru",
     "lemma": "сила",
     "pos": "Nomen",
+    "plural": "си́лы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sila"
+    },
     "meanings": {
       "ko": "힘",
       "en": "strength",
@@ -12120,26 +11211,24 @@ const WORDS_RU_A1 = [
       "pt": "a força",
       "ja": "力",
       "zh": "力量",
-      "fr": "force"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "си́лы",
-    "reading": {
-      "ru": "sila"
+      "fr": "la force"
     }
   },
   {
     "id": "ru_442",
+    "lang": "ru",
     "lemma": "рука",
     "pos": "Nomen",
+    "plural": "ру́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "ruka"
+    },
     "meanings": {
       "ko": "손",
       "en": "hand",
@@ -12150,26 +11239,24 @@ const WORDS_RU_A1 = [
       "pt": "a mão",
       "ja": "手",
       "zh": "手",
-      "fr": "main"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ру́ки",
-    "reading": {
-      "ru": "ruka"
+      "fr": "la main"
     }
   },
   {
     "id": "ru_443",
+    "lang": "ru",
     "lemma": "взгляд",
     "pos": "Nomen",
+    "plural": "взгля́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vzglyad"
+    },
     "meanings": {
       "ko": "시선",
       "en": "gaze",
@@ -12180,26 +11267,24 @@ const WORDS_RU_A1 = [
       "pt": "o olhar",
       "ja": "視線",
       "zh": "眼神",
-      "fr": "regard"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "взгля́ды",
-    "reading": {
-      "ru": "vzglyad"
+      "fr": "le regard"
     }
   },
   {
     "id": "ru_444",
+    "lang": "ru",
     "lemma": "судья",
     "pos": "Nomen",
+    "plural": "су́дьи",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "sudya"
+    },
     "meanings": {
       "ko": "판사",
       "en": "judge",
@@ -12210,26 +11295,24 @@ const WORDS_RU_A1 = [
       "pt": "o juiz",
       "ja": "裁判官",
       "zh": "法官",
-      "fr": "juge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "су́дьи",
-    "reading": {
-      "ru": "sudya"
+      "fr": "le juge"
     }
   },
   {
     "id": "ru_445",
+    "lang": "ru",
     "lemma": "чушь",
     "pos": "Nomen",
+    "plural": "чу́ши",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chush"
+    },
     "meanings": {
       "ko": "헛소리",
       "en": "nonsense",
@@ -12240,26 +11323,24 @@ const WORDS_RU_A1 = [
       "pt": "o disparate",
       "ja": "馬鹿げたこと",
       "zh": "胡说",
-      "fr": "non-sens"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "чу́ши",
-    "reading": {
-      "ru": "chush"
+      "fr": "le non-sens"
     }
   },
   {
     "id": "ru_446",
+    "lang": "ru",
     "lemma": "система",
     "pos": "Nomen",
+    "plural": "систе́мы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "sistema"
+    },
     "meanings": {
       "ko": "시스템",
       "en": "system",
@@ -12270,20 +11351,15 @@ const WORDS_RU_A1 = [
       "pt": "o sistema",
       "ja": "システム",
       "zh": "系统",
-      "fr": "système"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "систе́мы",
-    "reading": {
-      "ru": "sistema"
+      "fr": "le système"
     }
   },
   {
     "id": "ru_447",
+    "lang": "ru",
     "lemma": "еда",
     "pos": "Nomen",
+    "plural": "*е́ды",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12291,6 +11367,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "eda"
+    },
     "meanings": {
       "ko": "음식",
       "en": "food",
@@ -12301,26 +11380,24 @@ const WORDS_RU_A1 = [
       "pt": "a comida",
       "ja": "食べ物",
       "zh": "食物",
-      "fr": "nourriture"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*е́ды",
-    "reading": {
-      "ru": "eda"
+      "fr": "la nourriture"
     }
   },
   {
     "id": "ru_448",
+    "lang": "ru",
     "lemma": "док",
     "pos": "Nomen",
+    "plural": "до́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ru": "dok"
+    },
     "meanings": {
       "ko": "부두",
       "en": "dock",
@@ -12331,26 +11408,24 @@ const WORDS_RU_A1 = [
       "pt": "o cais",
       "ja": "ドック",
       "zh": "码头",
-      "fr": "quai"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "до́ки",
-    "reading": {
-      "ru": "dok"
+      "fr": "le quai"
     }
   },
   {
     "id": "ru_449",
+    "lang": "ru",
     "lemma": "нож",
     "pos": "Nomen",
+    "plural": "ножи́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "nozh"
+    },
     "meanings": {
       "ko": "칼",
       "en": "knife",
@@ -12361,18 +11436,12 @@ const WORDS_RU_A1 = [
       "pt": "a faca",
       "ja": "ナイフ",
       "zh": "刀",
-      "fr": "couteau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ножи́",
-    "reading": {
-      "ru": "nozh"
+      "fr": "le couteau"
     }
   },
   {
     "id": "ru_450",
+    "lang": "ru",
     "lemma": "написать",
     "pos": "Verb",
     "cefr": "A1",
@@ -12381,9 +11450,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "napisat"
+    },
     "meanings": {
       "ko": "쓰다",
-      "en": "to write",
+      "en": "write",
       "de": "schreiben",
       "es": "escribir",
       "ru": "написать",
@@ -12392,26 +11464,23 @@ const WORDS_RU_A1 = [
       "ja": "書く",
       "zh": "写",
       "fr": "écrire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "написать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "napisat"
     }
   },
   {
     "id": "ru_451",
+    "lang": "ru",
     "lemma": "чай",
     "pos": "Nomen",
+    "plural": "чаи́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "chay"
+    },
     "meanings": {
       "ko": "차",
       "en": "tea",
@@ -12422,18 +11491,12 @@ const WORDS_RU_A1 = [
       "pt": "o chá",
       "ja": "お茶",
       "zh": "茶",
-      "fr": "thé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "чаи́",
-    "reading": {
-      "ru": "chay"
+      "fr": "le thé"
     }
   },
   {
     "id": "ru_452",
+    "lang": "ru",
     "lemma": "остальное",
     "pos": "Nomen",
     "cefr": "A1",
@@ -12454,9 +11517,6 @@ const WORDS_RU_A1 = [
       "zh": "其余",
       "fr": "le reste"
     },
-    "examples": [],
-    "meta": {},
-    "article": "",
     "plural": "остальны́е",
     "reading": {
       "ru": "ostalnoe"
@@ -12464,14 +11524,19 @@ const WORDS_RU_A1 = [
   },
   {
     "id": "ru_453",
+    "lang": "ru",
     "lemma": "брак",
     "pos": "Nomen",
+    "plural": "бра́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "brak"
+    },
     "meanings": {
       "ko": "결혼",
       "en": "marriage",
@@ -12482,18 +11547,12 @@ const WORDS_RU_A1 = [
       "pt": "o casamento",
       "ja": "結婚",
       "zh": "婚姻",
-      "fr": "mariage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "бра́ки",
-    "reading": {
-      "ru": "brak"
+      "fr": "le mariage"
     }
   },
   {
     "id": "ru_454",
+    "lang": "ru",
     "lemma": "потерять",
     "pos": "Verb",
     "cefr": "A1",
@@ -12502,9 +11561,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "poteryat"
+    },
     "meanings": {
       "ko": "잃다",
-      "en": "to lose",
+      "en": "lose",
       "de": "verlieren",
       "es": "perder",
       "ru": "потерять",
@@ -12513,26 +11575,23 @@ const WORDS_RU_A1 = [
       "ja": "失う",
       "zh": "失去",
       "fr": "perdre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "потерять",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "poteryat"
     }
   },
   {
     "id": "ru_455",
+    "lang": "ru",
     "lemma": "звук",
     "pos": "Nomen",
+    "plural": "зву́ки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zvuk"
+    },
     "meanings": {
       "ko": "소리",
       "en": "sound",
@@ -12543,18 +11602,12 @@ const WORDS_RU_A1 = [
       "pt": "o som",
       "ja": "音",
       "zh": "声音",
-      "fr": "son"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "зву́ки",
-    "reading": {
-      "ru": "zvuk"
+      "fr": "le son"
     }
   },
   {
     "id": "ru_456",
+    "lang": "ru",
     "lemma": "выглядеть",
     "pos": "Verb",
     "cefr": "A1",
@@ -12563,9 +11616,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vyglyadet"
+    },
     "meanings": {
       "ko": "보이다",
-      "en": "to look",
+      "en": "look",
       "de": "aussehen",
       "es": "parecer",
       "ru": "выглядеть",
@@ -12574,26 +11630,23 @@ const WORDS_RU_A1 = [
       "ja": "見える",
       "zh": "看起来",
       "fr": "regarder"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "выглядеть",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "vyglyadet"
     }
   },
   {
     "id": "ru_457",
+    "lang": "ru",
     "lemma": "вкус",
     "pos": "Nomen",
+    "plural": "вку́сы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "vkus"
+    },
     "meanings": {
       "ko": "맛",
       "en": "taste",
@@ -12604,26 +11657,24 @@ const WORDS_RU_A1 = [
       "pt": "o sabor",
       "ja": "味",
       "zh": "味道",
-      "fr": "goût"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "вку́сы",
-    "reading": {
-      "ru": "vkus"
+      "fr": "le goût"
     }
   },
   {
     "id": "ru_459",
+    "lang": "ru",
     "lemma": "поезд",
     "pos": "Nomen",
+    "plural": "поезда́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ru": "poezd"
+    },
     "meanings": {
       "ko": "기차",
       "en": "train",
@@ -12634,20 +11685,15 @@ const WORDS_RU_A1 = [
       "pt": "o trem",
       "ja": "電車",
       "zh": "火车",
-      "fr": "train"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "поезда́",
-    "reading": {
-      "ru": "poezd"
+      "fr": "le train"
     }
   },
   {
     "id": "ru_460",
+    "lang": "ru",
     "lemma": "пиво",
     "pos": "Nomen",
+    "plural": "*пи́ва",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12655,6 +11701,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "pivo"
+    },
     "meanings": {
       "ko": "맥주",
       "en": "beer",
@@ -12665,18 +11714,12 @@ const WORDS_RU_A1 = [
       "pt": "a cerveja",
       "ja": "ビール",
       "zh": "啤酒",
-      "fr": "bière"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*пи́ва",
-    "reading": {
-      "ru": "pivo"
+      "fr": "la bière"
     }
   },
   {
     "id": "ru_461",
+    "lang": "ru",
     "lemma": "устроить",
     "pos": "Verb",
     "cefr": "A1",
@@ -12685,9 +11728,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "ustroit"
+    },
     "meanings": {
       "ko": "준비하다",
-      "en": "to arrange",
+      "en": "arrange",
       "de": "arrangieren",
       "es": "organizar",
       "ru": "устроить",
@@ -12696,26 +11742,23 @@ const WORDS_RU_A1 = [
       "ja": "手配する",
       "zh": "安排",
       "fr": "arranger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "устроить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "ustroit"
     }
   },
   {
     "id": "ru_462",
+    "lang": "ru",
     "lemma": "безумие",
     "pos": "Nomen",
+    "plural": "безу́мия",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "bezumie"
+    },
     "meanings": {
       "ko": "광기",
       "en": "madness",
@@ -12726,18 +11769,12 @@ const WORDS_RU_A1 = [
       "pt": "a loucura",
       "ja": "狂気",
       "zh": "疯狂",
-      "fr": "folie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "безу́мия",
-    "reading": {
-      "ru": "bezumie"
+      "fr": "la folie"
     }
   },
   {
     "id": "ru_463",
+    "lang": "ru",
     "lemma": "решить",
     "pos": "Verb",
     "cefr": "A1",
@@ -12746,9 +11783,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "reshit"
+    },
     "meanings": {
       "ko": "결정하다",
-      "en": "to decide",
+      "en": "decide",
       "de": "entscheiden",
       "es": "decidir",
       "ru": "решить",
@@ -12757,26 +11797,23 @@ const WORDS_RU_A1 = [
       "ja": "決める",
       "zh": "决定",
       "fr": "décider"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "решить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "reshit"
     }
   },
   {
     "id": "ru_464",
+    "lang": "ru",
     "lemma": "солдат",
     "pos": "Nomen",
+    "plural": "солда́ты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "soldat"
+    },
     "meanings": {
       "ko": "군인",
       "en": "soldier",
@@ -12787,18 +11824,12 @@ const WORDS_RU_A1 = [
       "pt": "o soldado",
       "ja": "兵士",
       "zh": "士兵",
-      "fr": "soldat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "солда́ты",
-    "reading": {
-      "ru": "soldat"
+      "fr": "le soldat"
     }
   },
   {
     "id": "ru_465",
+    "lang": "ru",
     "lemma": "проще",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12819,22 +11850,25 @@ const WORDS_RU_A1 = [
       "zh": "更简单",
       "fr": "plus simple"
     },
-    "examples": [],
-    "meta": {},
     "reading": {
       "ru": "proshche"
     }
   },
   {
     "id": "ru_466",
+    "lang": "ru",
     "lemma": "дедушка",
     "pos": "Nomen",
+    "plural": "де́душки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dedushka"
+    },
     "meanings": {
       "ko": "할아버지",
       "en": "grandfather",
@@ -12845,18 +11879,12 @@ const WORDS_RU_A1 = [
       "pt": "o avô",
       "ja": "祖父",
       "zh": "爷爷",
-      "fr": "grand-père"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "де́душки",
-    "reading": {
-      "ru": "dedushka"
+      "fr": "le grand-père"
     }
   },
   {
     "id": "ru_467",
+    "lang": "ru",
     "lemma": "отправить",
     "pos": "Verb",
     "cefr": "A1",
@@ -12877,25 +11905,25 @@ const WORDS_RU_A1 = [
       "zh": "发送",
       "fr": "envoyer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "отправить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "otpravit"
     }
   },
   {
     "id": "ru_468",
+    "lang": "ru",
     "lemma": "здание",
     "pos": "Nomen",
+    "plural": "зда́ния",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zdanie"
+    },
     "meanings": {
       "ko": "건물",
       "en": "building",
@@ -12906,18 +11934,12 @@ const WORDS_RU_A1 = [
       "pt": "o edifício",
       "ja": "建物",
       "zh": "建筑物",
-      "fr": "bâtiment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "зда́ния",
-    "reading": {
-      "ru": "zdanie"
+      "fr": "le bâtiment"
     }
   },
   {
     "id": "ru_469",
+    "lang": "ru",
     "lemma": "защищать",
     "pos": "Verb",
     "cefr": "A1",
@@ -12938,17 +11960,13 @@ const WORDS_RU_A1 = [
       "zh": "保护",
       "fr": "protéger"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "защищать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zashchishchat"
     }
   },
   {
     "id": "ru_470",
+    "lang": "ru",
     "lemma": "называть",
     "pos": "Verb",
     "cefr": "A1",
@@ -12970,25 +11988,25 @@ const WORDS_RU_A1 = [
       "zh": "命名",
       "fr": "nom"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "называть",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "nazyvat"
     }
   },
   {
     "id": "ru_471",
+    "lang": "ru",
     "lemma": "долг",
     "pos": "Nomen",
+    "plural": "долги́",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "dolg"
+    },
     "meanings": {
       "ko": "빚",
       "en": "debt",
@@ -12999,18 +12017,12 @@ const WORDS_RU_A1 = [
       "pt": "a dívida",
       "ja": "借金",
       "zh": "债务",
-      "fr": "dette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "долги́",
-    "reading": {
-      "ru": "dolg"
+      "fr": "la dette"
     }
   },
   {
     "id": "ru_472",
+    "lang": "ru",
     "lemma": "случиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -13031,19 +12043,16 @@ const WORDS_RU_A1 = [
       "zh": "发生",
       "fr": "arriver"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "случиться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "sluchitsya"
     }
   },
   {
     "id": "ru_473",
+    "lang": "ru",
     "lemma": "счёт",
     "pos": "Nomen",
+    "plural": "счёты",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13051,6 +12060,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "schyot"
+    },
     "meanings": {
       "ko": "계산서",
       "en": "bill",
@@ -13061,18 +12073,12 @@ const WORDS_RU_A1 = [
       "pt": "a conta",
       "ja": "勘定",
       "zh": "账单",
-      "fr": "facture"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "счёты",
-    "reading": {
-      "ru": "schyot"
+      "fr": "la facture"
     }
   },
   {
     "id": "ru_474",
+    "lang": "ru",
     "lemma": "возвращаться",
     "pos": "Verb",
     "cefr": "A1",
@@ -13093,25 +12099,25 @@ const WORDS_RU_A1 = [
       "zh": "返回",
       "fr": "retour"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "возвращаться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "vozvrashchatsya"
     }
   },
   {
     "id": "ru_476",
+    "lang": "ru",
     "lemma": "инспектор",
     "pos": "Nomen",
+    "plural": "инспе́кторы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "inspektor"
+    },
     "meanings": {
       "ko": "조사관",
       "en": "inspector",
@@ -13122,26 +12128,24 @@ const WORDS_RU_A1 = [
       "pt": "o inspetor",
       "ja": "検査官",
       "zh": "检查员",
-      "fr": "inspecteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "инспе́кторы",
-    "reading": {
-      "ru": "inspektor"
+      "fr": "l'inspecteur"
     }
   },
   {
     "id": "ru_477",
+    "lang": "ru",
     "lemma": "земля",
     "pos": "Nomen",
+    "plural": "зе́мли",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zemlya"
+    },
     "meanings": {
       "ko": "지구",
       "en": "earth",
@@ -13152,18 +12156,12 @@ const WORDS_RU_A1 = [
       "pt": "a terra",
       "ja": "地球",
       "zh": "地球",
-      "fr": "terre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "зе́мли",
-    "reading": {
-      "ru": "zemlya"
+      "fr": "la terre"
     }
   },
   {
     "id": "ru_478",
+    "lang": "ru",
     "lemma": "сходить",
     "pos": "Verb",
     "cefr": "A1",
@@ -13184,24 +12182,24 @@ const WORDS_RU_A1 = [
       "zh": "下去",
       "fr": "descendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сходить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "skhodit"
     }
   },
   {
     "id": "ru_479",
+    "lang": "ru",
     "lemma": "плюс",
     "pos": "Nomen",
+    "plural": "плю́сы",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "plyus"
+    },
     "meanings": {
       "ko": "더하기",
       "en": "plus",
@@ -13212,18 +12210,12 @@ const WORDS_RU_A1 = [
       "pt": "o mais",
       "ja": "プラス",
       "zh": "加",
-      "fr": "plus"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "плю́сы",
-    "reading": {
-      "ru": "plyus"
+      "fr": "le plus"
     }
   },
   {
     "id": "ru_480",
+    "lang": "ru",
     "lemma": "стрелять",
     "pos": "Verb",
     "cefr": "A1",
@@ -13244,17 +12236,13 @@ const WORDS_RU_A1 = [
       "zh": "射击",
       "fr": "tirer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "стрелять",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "strelyat"
     }
   },
   {
     "id": "ru_481",
+    "lang": "ru",
     "lemma": "решать",
     "pos": "Verb",
     "cefr": "A1",
@@ -13275,17 +12263,13 @@ const WORDS_RU_A1 = [
       "zh": "决定",
       "fr": "décider"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "решать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "reshat"
     }
   },
   {
     "id": "ru_482",
+    "lang": "ru",
     "lemma": "заплатить",
     "pos": "Verb",
     "cefr": "A1",
@@ -13307,17 +12291,13 @@ const WORDS_RU_A1 = [
       "zh": "支付",
       "fr": "payer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "заплатить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "zaplatit"
     }
   },
   {
     "id": "ru_483",
+    "lang": "ru",
     "lemma": "сообщить",
     "pos": "Verb",
     "cefr": "A1",
@@ -13338,17 +12318,13 @@ const WORDS_RU_A1 = [
       "zh": "通知",
       "fr": "informer"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сообщить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "soobshchit"
     }
   },
   {
     "id": "ru_484",
+    "lang": "ru",
     "lemma": "справиться",
     "pos": "Verb",
     "cefr": "A1",
@@ -13369,25 +12345,25 @@ const WORDS_RU_A1 = [
       "zh": "应付",
       "fr": "faire face"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "справиться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "spravitsya"
     }
   },
   {
     "id": "ru_485",
+    "lang": "ru",
     "lemma": "поцелуй",
     "pos": "Nomen",
+    "plural": "поцелу́и",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "potseluy"
+    },
     "meanings": {
       "ko": "키스",
       "en": "kiss",
@@ -13398,25 +12374,23 @@ const WORDS_RU_A1 = [
       "pt": "o beijo",
       "ja": "キス",
       "zh": "吻",
-      "fr": "baiser"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "поцелу́и",
-    "reading": {
-      "ru": "potseluy"
+      "fr": "le baiser"
     }
   },
   {
     "id": "ru_486",
+    "lang": "ru",
     "lemma": "тест",
     "pos": "Nomen",
+    "plural": "те́сты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ru": "test"
+    },
     "meanings": {
       "ko": "시험",
       "en": "test",
@@ -13427,18 +12401,12 @@ const WORDS_RU_A1 = [
       "pt": "o teste",
       "ja": "テスト",
       "zh": "考试",
-      "fr": "test"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "те́сты",
-    "reading": {
-      "ru": "test"
+      "fr": "le test"
     }
   },
   {
     "id": "ru_487",
+    "lang": "ru",
     "lemma": "прошлое",
     "pos": "Nomen",
     "cefr": "A1",
@@ -13447,6 +12415,9 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "proshloe"
+    },
     "meanings": {
       "ko": "과거",
       "en": "past",
@@ -13457,26 +12428,24 @@ const WORDS_RU_A1 = [
       "pt": "o passado",
       "ja": "過去",
       "zh": "过去",
-      "fr": "passé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ru": "proshloe"
+      "fr": "le passé"
     }
   },
   {
     "id": "ru_488",
+    "lang": "ru",
     "lemma": "код",
     "pos": "Nomen",
+    "plural": "ко́ды",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "kod"
+    },
     "meanings": {
       "ko": "코드",
       "en": "code",
@@ -13487,18 +12456,12 @@ const WORDS_RU_A1 = [
       "pt": "o código",
       "ja": "コード",
       "zh": "代码",
-      "fr": "code"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ко́ды",
-    "reading": {
-      "ru": "kod"
+      "fr": "le code"
     }
   },
   {
     "id": "ru_489",
+    "lang": "ru",
     "lemma": "выбраться",
     "pos": "Verb",
     "cefr": "A1",
@@ -13519,17 +12482,13 @@ const WORDS_RU_A1 = [
       "zh": "摆脱",
       "fr": "sortir"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "выбраться",
-    "reflexive": true,
-    "irregular": null,
     "reading": {
       "ru": "vybratsya"
     }
   },
   {
     "id": "ru_490",
+    "lang": "ru",
     "lemma": "продать",
     "pos": "Verb",
     "cefr": "A1",
@@ -13551,17 +12510,13 @@ const WORDS_RU_A1 = [
       "zh": "卖",
       "fr": "vendre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "продать",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "prodat"
     }
   },
   {
     "id": "ru_491",
+    "lang": "ru",
     "lemma": "поставить",
     "pos": "Verb",
     "cefr": "A1",
@@ -13582,25 +12537,25 @@ const WORDS_RU_A1 = [
       "zh": "放",
       "fr": "mettre"
     },
-    "examples": [],
-    "meta": {},
-    "infinitive": "поставить",
-    "reflexive": false,
-    "irregular": null,
     "reading": {
       "ru": "postavit"
     }
   },
   {
     "id": "ru_492",
+    "lang": "ru",
     "lemma": "клиент",
     "pos": "Nomen",
+    "plural": "клие́нты",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ru": "klient"
+    },
     "meanings": {
       "ko": "고객",
       "en": "client",
@@ -13611,26 +12566,24 @@ const WORDS_RU_A1 = [
       "pt": "o cliente",
       "ja": "顧客",
       "zh": "客户",
-      "fr": "client"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "клие́нты",
-    "reading": {
-      "ru": "klient"
+      "fr": "le client"
     }
   },
   {
     "id": "ru_493",
+    "lang": "ru",
     "lemma": "здоровье",
     "pos": "Nomen",
+    "plural": "*здоро́вья",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zdorove"
+    },
     "meanings": {
       "ko": "건강",
       "en": "health",
@@ -13641,18 +12594,12 @@ const WORDS_RU_A1 = [
       "pt": "a saúde",
       "ja": "健康",
       "zh": "健康",
-      "fr": "santé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "*здоро́вья",
-    "reading": {
-      "ru": "zdorove"
+      "fr": "la santé"
     }
   },
   {
     "id": "ru_494",
+    "lang": "ru",
     "lemma": "рассказывать",
     "pos": "Verb",
     "cefr": "A1",
@@ -13661,9 +12608,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "rasskazyvat"
+    },
     "meanings": {
       "ko": "이야기하다",
-      "en": "to tell",
+      "en": "tell",
       "de": "erzählen",
       "es": "contar",
       "ru": "рассказывать",
@@ -13672,18 +12622,11 @@ const WORDS_RU_A1 = [
       "ja": "話す",
       "zh": "讲述",
       "fr": "dire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "рассказывать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "rasskazyvat"
     }
   },
   {
     "id": "ru_496",
+    "lang": "ru",
     "lemma": "сбежать",
     "pos": "Verb",
     "cefr": "A1",
@@ -13692,9 +12635,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "sbezhat"
+    },
     "meanings": {
       "ko": "도망치다",
-      "en": "to run away",
+      "en": "run away",
       "de": "weglaufen",
       "es": "huir",
       "ru": "сбежать",
@@ -13703,18 +12649,11 @@ const WORDS_RU_A1 = [
       "ja": "逃げる",
       "zh": "逃跑",
       "fr": "fuir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "сбежать",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "sbezhat"
     }
   },
   {
     "id": "ru_497",
+    "lang": "ru",
     "lemma": "прекратить",
     "pos": "Verb",
     "cefr": "A1",
@@ -13723,9 +12662,12 @@ const WORDS_RU_A1 = [
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "prekratit"
+    },
     "meanings": {
       "ko": "멈추다",
-      "en": "to stop",
+      "en": "stop",
       "de": "aufhören",
       "es": "parar",
       "ru": "прекратить",
@@ -13734,20 +12676,14 @@ const WORDS_RU_A1 = [
       "ja": "止める",
       "zh": "停止",
       "fr": "arrêter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "прекратить",
-    "reflexive": false,
-    "irregular": null,
-    "reading": {
-      "ru": "prekratit"
     }
   },
   {
     "id": "ru_498",
+    "lang": "ru",
     "lemma": "бар",
     "pos": "Nomen",
+    "plural": "ба́ры",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13755,6 +12691,9 @@ const WORDS_RU_A1 = [
       "daily",
       "travel"
     ],
+    "reading": {
+      "ru": "bar"
+    },
     "meanings": {
       "ko": "바",
       "en": "bar",
@@ -13765,26 +12704,24 @@ const WORDS_RU_A1 = [
       "pt": "o bar",
       "ja": "バー",
       "zh": "酒吧",
-      "fr": "bar"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "ба́ры",
-    "reading": {
-      "ru": "bar"
+      "fr": "le bar"
     }
   },
   {
     "id": "ru_500",
+    "lang": "ru",
     "lemma": "завтрак",
     "pos": "Nomen",
+    "plural": "за́втраки",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ru": "zavtrak"
+    },
     "meanings": {
       "ko": "아침 식사",
       "en": "breakfast",
@@ -13795,14 +12732,7 @@ const WORDS_RU_A1 = [
       "pt": "o café da manhã",
       "ja": "朝食",
       "zh": "早餐",
-      "fr": "petit déjeuner"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "",
-    "plural": "за́втраки",
-    "reading": {
-      "ru": "zavtrak"
+      "fr": "le petit déjeuner"
     }
   }
 ];

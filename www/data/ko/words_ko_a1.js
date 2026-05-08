@@ -1,13 +1,17 @@
 const WORDS_KO_A1 = [
   {
     "id": "ko_3447",
+    "lang": "ko",
     "lemma": "감기약",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gamgiyak"
+    },
     "meanings": {
       "ko": "감기약",
       "en": "cold medicine",
@@ -18,22 +22,17 @@ const WORDS_KO_A1 = [
       "ja": "風邪薬",
       "zh": "感冒药",
       "ru": "лекарство от простуды",
-      "fr": "médicament contre le rhume"
+      "fr": "le médicament contre le rhume"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "감기 증상을 치료하기 위해 먹는 약."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gamgiyak"
     }
   },
   {
     "id": "ko_3448",
+    "lang": "ko",
     "lemma": "감다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -51,26 +50,26 @@ const WORDS_KO_A1 = [
       "ru": "закрывать глаза",
       "fr": "fermer les yeux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "눈꺼풀을 내려 눈을 덮다."
     },
-    "infinitive": "감다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gamda"
     }
   },
   {
     "id": "ko_3524",
+    "lang": "ko",
     "lemma": "거의",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geoui"
+    },
     "meanings": {
       "ko": "거의",
       "en": "almost",
@@ -83,25 +82,23 @@ const WORDS_KO_A1 = [
       "ru": "почти",
       "fr": "presque"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 정도나 수준에 아주 가깝게 다다른 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geoui"
     }
   },
   {
     "id": "ko_3525",
+    "lang": "ko",
     "lemma": "거절",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geojeol"
+    },
     "meanings": {
       "ko": "거절",
       "en": "refusal",
@@ -112,27 +109,25 @@ const WORDS_KO_A1 = [
       "ja": "拒絶",
       "zh": "拒绝",
       "ru": "отказ",
-      "fr": "refus"
+      "fr": "le refus"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람의 부탁이나 제안을 받아들이지 않고 물리치는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geojeol"
     }
   },
   {
     "id": "ko_3567",
+    "lang": "ko",
     "lemma": "검정",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geomjeong"
+    },
     "meanings": {
       "ko": "검정",
       "en": "black color",
@@ -143,27 +138,25 @@ const WORDS_KO_A1 = [
       "ja": "黒色",
       "zh": "黑色",
       "ru": "чёрный цвет",
-      "fr": "noir"
+      "fr": "le noir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빛깔이 숯이나 밤하늘처럼 어두운 색."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geomjeong"
     }
   },
   {
     "id": "ko_3627",
+    "lang": "ko",
     "lemma": "계속",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyesok"
+    },
     "meanings": {
       "ko": "계속",
       "en": "continuation",
@@ -174,27 +167,25 @@ const WORDS_KO_A1 = [
       "ja": "継続",
       "zh": "继续",
       "ru": "продолжение",
-      "fr": "continuation"
+      "fr": "la continuation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 상태가 끊이지 않고 이어짐."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyesok"
     }
   },
   {
     "id": "ko_3766",
+    "lang": "ko",
     "lemma": "광주",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwangju"
+    },
     "meanings": {
       "ko": "광주",
       "en": "Gwangju",
@@ -207,25 +198,30 @@ const WORDS_KO_A1 = [
       "ru": "Кванджу",
       "fr": "Gwangju"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 남서부에 위치한 큰 도시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwangju"
+      "ko_gloss": "대한민국 남서부에 위치한 큰 도시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_3792",
+    "lang": "ko",
     "lemma": "교통비",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gyotongbi"
+    },
     "meanings": {
       "ko": "교통비",
       "en": "transportation cost",
@@ -236,22 +232,17 @@ const WORDS_KO_A1 = [
       "ja": "交通費",
       "zh": "交通费",
       "ru": "транспортные расходы",
-      "fr": "coût du transport"
+      "fr": "le coût du transport"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "교통수단을 이용할 때 드는 돈."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyotongbi"
     }
   },
   {
     "id": "ko_3855",
+    "lang": "ko",
     "lemma": "굳다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -269,26 +260,26 @@ const WORDS_KO_A1 = [
       "ru": "затвердевать",
       "fr": "durcir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물렁하던 것이 단단하게 변하다."
     },
-    "infinitive": "굳다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gutda"
     }
   },
   {
     "id": "ko_3872",
+    "lang": "ko",
     "lemma": "귀걸이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwigeoli"
+    },
     "meanings": {
       "ko": "귀걸이",
       "en": "earring",
@@ -299,22 +290,17 @@ const WORDS_KO_A1 = [
       "ja": "イヤリング",
       "zh": "耳环",
       "ru": "серьга",
-      "fr": "boucle d'oreille"
+      "fr": "la boucle d'oreille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "귀에 거는 장신구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwigeoli"
     }
   },
   {
     "id": "ko_3876",
+    "lang": "ko",
     "lemma": "귀여워하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -332,26 +318,26 @@ const WORDS_KO_A1 = [
       "ru": "обожать",
       "fr": "adorer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 대상을 귀엽게 여기고 사랑하다."
     },
-    "infinitive": "귀여워하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gwiyeowohada"
     }
   },
   {
     "id": "ko_3980",
+    "lang": "ko",
     "lemma": "기말시험",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gimalsiheom"
+    },
     "meanings": {
       "ko": "기말시험",
       "en": "final exam",
@@ -362,27 +348,25 @@ const WORDS_KO_A1 = [
       "ja": "期末試験",
       "zh": "期末考试",
       "ru": "выпускной экзамен",
-      "fr": "examen final"
+      "fr": "l'examen final"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학기나 학년의 마지막에 치르는 시험."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gimalsiheom"
     }
   },
   {
     "id": "ko_4013",
+    "lang": "ko",
     "lemma": "기차역",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gichayeok"
+    },
     "meanings": {
       "ko": "기차역",
       "en": "train station",
@@ -393,27 +377,25 @@ const WORDS_KO_A1 = [
       "ja": "駅",
       "zh": "火车站",
       "ru": "железнодорожная станция",
-      "fr": "gare"
+      "fr": "la gare"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기차가 서고 승객이 타고 내리는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gichayeok"
     }
   },
   {
     "id": "ko_4014",
+    "lang": "ko",
     "lemma": "기차표",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gichapyo"
+    },
     "meanings": {
       "ko": "기차표",
       "en": "train ticket",
@@ -424,27 +406,25 @@ const WORDS_KO_A1 = [
       "ja": "電車賃",
       "zh": "火车票",
       "ru": "железнодорожный билет",
-      "fr": "billet de train"
+      "fr": "le billet de train"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기차를 타기 위해 필요한 표."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gichapyo"
     }
   },
   {
     "id": "ko_4077",
+    "lang": "ko",
     "lemma": "꽃다발",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kkotdabal"
+    },
     "meanings": {
       "ko": "꽃다발",
       "en": "bouquet",
@@ -455,27 +435,25 @@ const WORDS_KO_A1 = [
       "ja": "花束",
       "zh": "花束",
       "ru": "букет",
-      "fr": "bouquet"
+      "fr": "le bouquet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 송이의 꽃을 한데 묶어 만든 묶음."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkotdabal"
     }
   },
   {
     "id": "ko_4078",
+    "lang": "ko",
     "lemma": "꽃병",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "kkotbyeong"
+    },
     "meanings": {
       "ko": "꽃병",
       "en": "flower vase",
@@ -486,28 +464,26 @@ const WORDS_KO_A1 = [
       "ja": "花瓶",
       "zh": "花瓶",
       "ru": "ваза для цветов",
-      "fr": "vase à fleurs"
+      "fr": "le vase à fleurs"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "꽃을 꽂아 두는 데 쓰는 병 모양의 그릇."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkotbyeong"
     }
   },
   {
     "id": "ko_4081",
+    "lang": "ko",
     "lemma": "꽃집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "kkotjip"
+    },
     "meanings": {
       "ko": "꽃집",
       "en": "flower shop",
@@ -518,22 +494,17 @@ const WORDS_KO_A1 = [
       "ja": "花屋",
       "zh": "花店",
       "ru": "цветочный магазин",
-      "fr": "fleuriste"
+      "fr": "le fleuriste"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "꽃이나 화분 등을 파는 가게."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkotjip"
     }
   },
   {
     "id": "ko_4108",
+    "lang": "ko",
     "lemma": "끼다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -551,26 +522,26 @@ const WORDS_KO_A1 = [
       "ru": "надевать",
       "fr": "porter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "장갑, 반지, 안경 등을 손이나 몸에 걸거나 넣다."
     },
-    "infinitive": "끼다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kkida"
     }
   },
   {
     "id": "ko_4111",
+    "lang": "ko",
     "lemma": "나",
-    "pos": "명사",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "na"
+    },
     "meanings": {
       "ko": "나",
       "en": "I",
@@ -583,20 +554,15 @@ const WORDS_KO_A1 = [
       "ru": "я",
       "fr": "je"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "말하는 사람이 자신을 가리킬 때 쓰는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "na"
     }
   },
   {
     "id": "ko_4149",
+    "lang": "ko",
     "lemma": "날씬하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -614,7 +580,6 @@ const WORDS_KO_A1 = [
       "ru": "стройный",
       "fr": "mince"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸매가 가늘고 보기 좋게 예쁘다."
     },
@@ -624,13 +589,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4160",
+    "lang": "ko",
     "lemma": "남대문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "namdaemun"
+    },
     "meanings": {
       "ko": "남대문",
       "en": "Namdaemun",
@@ -643,25 +612,26 @@ const WORDS_KO_A1 = [
       "ru": "Намдэмун",
       "fr": "Namdaemun"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namdaemun"
+      "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4165",
+    "lang": "ko",
     "lemma": "남산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "namsan"
+    },
     "meanings": {
       "ko": "남산",
       "en": "Namsan",
@@ -674,25 +644,26 @@ const WORDS_KO_A1 = [
       "ru": "Намсан",
       "fr": "Namsan"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "서울에 있는 유명한 산의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namsan"
+      "ko_gloss": "서울에 있는 유명한 산의 이름.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4178",
+    "lang": "ko",
     "lemma": "낮잠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "natjam"
+    },
     "meanings": {
       "ko": "낮잠",
       "en": "nap",
@@ -703,27 +674,25 @@ const WORDS_KO_A1 = [
       "ja": "昼寝",
       "zh": "午睡",
       "ru": "дневной сон",
-      "fr": "sieste"
+      "fr": "la sieste"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "낮에 잠깐 자는 잠"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "natjam"
     }
   },
   {
     "id": "ko_4231",
+    "lang": "ko",
     "lemma": "넷째",
-    "pos": "명사",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "netjjae"
+    },
     "meanings": {
       "ko": "넷째",
       "en": "fourth",
@@ -736,25 +705,23 @@ const WORDS_KO_A1 = [
       "ru": "четвёртый",
       "fr": "quatrième"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "순서나 차례에서 네 번째가 되는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "netjjae"
     }
   },
   {
     "id": "ko_4265",
+    "lang": "ko",
     "lemma": "농구",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "nonggu"
+    },
     "meanings": {
       "ko": "농구",
       "en": "basketball",
@@ -765,27 +732,25 @@ const WORDS_KO_A1 = [
       "ja": "バスケットボール",
       "zh": "篮球",
       "ru": "баскетбол",
-      "fr": "basket"
+      "fr": "le basket"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 팀이 공을 상대편 골대에 넣어 점수를 얻는 운동 경기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nonggu"
     }
   },
   {
     "id": "ko_4332",
+    "lang": "ko",
     "lemma": "다림질",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "darimjil"
+    },
     "meanings": {
       "ko": "다림질",
       "en": "ironing",
@@ -796,27 +761,25 @@ const WORDS_KO_A1 = [
       "ja": "アイロンがけ",
       "zh": "熨烫",
       "ru": "глажка",
-      "fr": "repassage"
+      "fr": "le repassage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옷의 구김을 펴기 위해 다리미로 문지르는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "darimjil"
     }
   },
   {
     "id": "ko_4334",
+    "lang": "ko",
     "lemma": "다섯째",
-    "pos": "명사",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daseotjjae"
+    },
     "meanings": {
       "ko": "다섯째",
       "en": "fifth",
@@ -829,25 +792,23 @@ const WORDS_KO_A1 = [
       "ru": "пятый",
       "fr": "cinquième"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "순서나 차례에서 다섯 번째가 되는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daseotjjae"
     }
   },
   {
     "id": "ko_4336",
+    "lang": "ko",
     "lemma": "다양",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dayang"
+    },
     "meanings": {
       "ko": "다양",
       "en": "diversity",
@@ -858,22 +819,17 @@ const WORDS_KO_A1 = [
       "ja": "多様性",
       "zh": "多样性",
       "ru": "разнообразие",
-      "fr": "diversité"
+      "fr": "la diversité"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 가지 종류나 형태가 많고 다른 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dayang"
     }
   },
   {
     "id": "ko_4341",
+    "lang": "ko",
     "lemma": "다음날",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -891,25 +847,26 @@ const WORDS_KO_A1 = [
       "ru": "следующий день",
       "fr": "le lendemain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "오늘이 지나고 바로 이어지는 날."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "daeumnal"
     }
   },
   {
     "id": "ko_4418",
+    "lang": "ko",
     "lemma": "대구",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daegu"
+    },
     "meanings": {
       "ko": "대구",
       "en": "Daegu",
@@ -922,25 +879,30 @@ const WORDS_KO_A1 = [
       "ru": "Тэгу",
       "fr": "Daegu"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 남동부에 있는 광역시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daegu"
+      "ko_gloss": "대한민국 남동부에 있는 광역시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_4444",
+    "lang": "ko",
     "lemma": "대전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daejeon"
+    },
     "meanings": {
       "ko": "대전",
       "en": "Daejeon",
@@ -953,26 +915,31 @@ const WORDS_KO_A1 = [
       "ru": "Тэджон",
       "fr": "Daejeon"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 중부에 있는 광역시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daejeon"
+      "ko_gloss": "대한민국 중부에 있는 광역시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_4516",
+    "lang": "ko",
     "lemma": "독일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "dokil"
+    },
     "meanings": {
       "ko": "독일",
       "en": "Germany",
@@ -983,27 +950,29 @@ const WORDS_KO_A1 = [
       "ja": "ドイツ",
       "zh": "德国",
       "ru": "Германия",
-      "fr": "Allemagne"
+      "fr": "l'Allemagne"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "유럽 중부에 있는 나라의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dokil"
+      "ko_gloss": "유럽 중부에 있는 나라의 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_4522",
+    "lang": "ko",
     "lemma": "돈가스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dongaseu"
+    },
     "meanings": {
       "ko": "돈가스",
       "en": "pork cutlet",
@@ -1014,27 +983,25 @@ const WORDS_KO_A1 = [
       "ja": "とんかつ",
       "zh": "炸猪排",
       "ru": "свиная отбивная",
-      "fr": "escalope de porc"
+      "fr": "l'escalope de porc"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돼지고기를 튀겨서 만든 일본 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongaseu"
     }
   },
   {
     "id": "ko_4539",
+    "lang": "ko",
     "lemma": "동대문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dongdaemun"
+    },
     "meanings": {
       "ko": "동대문",
       "en": "Dongdaemun",
@@ -1047,25 +1014,26 @@ const WORDS_KO_A1 = [
       "ru": "Тондэмун",
       "fr": "Dongdaemun"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름이자 그 주변 지역."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongdaemun"
+      "ko_gloss": "서울에 있는 조선 시대의 큰 문 이름이자 그 주변 지역.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4591",
+    "lang": "ko",
     "lemma": "둘째",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "duljjae"
+    },
     "meanings": {
       "ko": "둘째",
       "en": "second",
@@ -1076,27 +1044,25 @@ const WORDS_KO_A1 = [
       "ja": "二番目",
       "zh": "第二",
       "ru": "второй",
-      "fr": "deuxième"
+      "fr": "le deuxième"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "순서에서 첫째 다음의 두 번째."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "duljjae"
     }
   },
   {
     "id": "ko_4706",
+    "lang": "ko",
     "lemma": "러시아",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "reosia"
+    },
     "meanings": {
       "ko": "러시아",
       "en": "Russia",
@@ -1107,27 +1073,29 @@ const WORDS_KO_A1 = [
       "ja": "ロシア",
       "zh": "俄罗斯",
       "ru": "Россия",
-      "fr": "Russie"
+      "fr": "la Russie"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "유럽과 아시아에 걸쳐 있는 세계에서 가장 큰 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "reosia"
+      "ko_gloss": "유럽과 아시아에 걸쳐 있는 세계에서 가장 큰 나라 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_4746",
+    "lang": "ko",
     "lemma": "마트",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "mateu"
+    },
     "meanings": {
       "ko": "마트",
       "en": "supermarket",
@@ -1138,27 +1106,25 @@ const WORDS_KO_A1 = [
       "ja": "スーパーマーケット",
       "zh": "超市",
       "ru": "супермаркет",
-      "fr": "supermarché"
+      "fr": "le supermarché"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다양한 물건을 파는 큰 규모의 상점."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mateu"
     }
   },
   {
     "id": "ko_4773",
+    "lang": "ko",
     "lemma": "말레이시아",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "malreisia"
+    },
     "meanings": {
       "ko": "말레이시아",
       "en": "Malaysia",
@@ -1169,27 +1135,29 @@ const WORDS_KO_A1 = [
       "ja": "マレーシア",
       "zh": "马来西亚",
       "ru": "Малайзия",
-      "fr": "Malaisie"
+      "fr": "la Malaisie"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "동남아시아에 있는 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "malreisia"
+      "ko_gloss": "동남아시아에 있는 나라 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_4799",
+    "lang": "ko",
     "lemma": "매년",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "maenyeon"
+    },
     "meanings": {
       "ko": "매년",
       "en": "every year",
@@ -1202,25 +1170,26 @@ const WORDS_KO_A1 = [
       "ru": "каждый год",
       "fr": "chaque année"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "해마다 돌아오는 모든 해."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maenyeon"
+      "ko_gloss": "해마다 돌아오는 모든 해.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4801",
+    "lang": "ko",
     "lemma": "매달",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "maedal"
+    },
     "meanings": {
       "ko": "매달",
       "en": "every month",
@@ -1233,26 +1202,27 @@ const WORDS_KO_A1 = [
       "ru": "каждый месяц",
       "fr": "chaque mois"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "달마다 돌아오는 모든 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maedal"
+      "ko_gloss": "달마다 돌아오는 모든 달.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4808",
+    "lang": "ko",
     "lemma": "매주",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "maeju"
+    },
     "meanings": {
       "ko": "매주",
       "en": "every week",
@@ -1265,26 +1235,27 @@ const WORDS_KO_A1 = [
       "ru": "каждую неделю",
       "fr": "chaque semaine"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "주마다 돌아오는 모든 주."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maeju"
+      "ko_gloss": "주마다 돌아오는 모든 주.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4810",
+    "lang": "ko",
     "lemma": "매표소",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "ko": "maepyoso"
+    },
     "meanings": {
       "ko": "매표소",
       "en": "ticket office",
@@ -1295,27 +1266,25 @@ const WORDS_KO_A1 = [
       "ja": "切符売り場",
       "zh": "售票处",
       "ru": "билетная касса",
-      "fr": "guichet"
+      "fr": "le guichet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "표를 파는 곳이나 창구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maepyoso"
     }
   },
   {
     "id": "ko_4826",
+    "lang": "ko",
     "lemma": "먼저",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "meonjeo"
+    },
     "meanings": {
       "ko": "먼저",
       "en": "first",
@@ -1326,27 +1295,25 @@ const WORDS_KO_A1 = [
       "ja": "まず",
       "zh": "首先",
       "ru": "сначала",
-      "fr": "premier"
+      "fr": "le premier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 순서에서 다른 것보다 앞선 때."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "meonjeo"
     }
   },
   {
     "id": "ko_4881",
+    "lang": "ko",
     "lemma": "목도리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "mokdori"
+    },
     "meanings": {
       "ko": "목도리",
       "en": "scarf",
@@ -1357,27 +1324,25 @@ const WORDS_KO_A1 = [
       "ja": "マフラー",
       "zh": "围巾",
       "ru": "шарф",
-      "fr": "écharpe"
+      "fr": "l'écharpe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "추위를 막기 위해 목에 두르는 천."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mokdori"
     }
   },
   {
     "id": "ko_4907",
+    "lang": "ko",
     "lemma": "몽골",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "monggol"
+    },
     "meanings": {
       "ko": "몽골",
       "en": "Mongolia",
@@ -1388,27 +1353,28 @@ const WORDS_KO_A1 = [
       "ja": "モンゴル",
       "zh": "蒙古",
       "ru": "Монголия",
-      "fr": "Mongolie"
+      "fr": "la Mongolie"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "아시아 대륙에 있는 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "monggol"
+      "ko_gloss": "아시아 대륙에 있는 나라 이름.",
+      "noArticleMeanings": {
+        "es": true
+      }
     }
   },
   {
     "id": "ko_4971",
+    "lang": "ko",
     "lemma": "미국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "miguk"
+    },
     "meanings": {
       "ko": "미국",
       "en": "United States",
@@ -1419,27 +1385,25 @@ const WORDS_KO_A1 = [
       "ja": "アメリカ",
       "zh": "美国",
       "ru": "США",
-      "fr": "États-Unis"
+      "fr": "les États-Unis"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "북아메리카에 있는 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "miguk"
     }
   },
   {
     "id": "ko_4984",
+    "lang": "ko",
     "lemma": "미안",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mian"
+    },
     "meanings": {
       "ko": "미안",
       "en": "apology",
@@ -1450,27 +1414,25 @@ const WORDS_KO_A1 = [
       "ja": "申し訳なさ",
       "zh": "抱歉",
       "ru": "извинение",
-      "fr": "excuses"
+      "fr": "les excuses"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잘못한 일에 대해 마음이 편치 않고 부끄러운 느낌."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mian"
     }
   },
   {
     "id": "ko_4987",
+    "lang": "ko",
     "lemma": "미역국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "miyeokguk"
+    },
     "meanings": {
       "ko": "미역국",
       "en": "seaweed soup",
@@ -1481,27 +1443,25 @@ const WORDS_KO_A1 = [
       "ja": "わかめスープ",
       "zh": "海带汤",
       "ru": "суп из водорослей",
-      "fr": "soupe d'algues"
+      "fr": "la soupe d'algues"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "미역을 넣고 끓인 국으로, 생일이나 출산 후에 먹는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "miyeokguk"
     }
   },
   {
     "id": "ko_5055",
+    "lang": "ko",
     "lemma": "반바지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "banbaji"
+    },
     "meanings": {
       "ko": "반바지",
       "en": "shorts",
@@ -1512,22 +1472,17 @@ const WORDS_KO_A1 = [
       "ja": "半ズボン",
       "zh": "短裤",
       "ru": "шорты",
-      "fr": "short"
+      "fr": "le short"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다리 중간이나 무릎 위까지 오는 짧은 바지"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "banbaji"
     }
   },
   {
     "id": "ko_5072",
+    "lang": "ko",
     "lemma": "받아쓰다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1546,26 +1501,26 @@ const WORDS_KO_A1 = [
       "ru": "записывать под диктовку",
       "fr": "noter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람이 말하는 것을 듣고 그대로 글로 적다."
     },
-    "infinitive": "받아쓰다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "batasseuda"
     }
   },
   {
     "id": "ko_5124",
+    "lang": "ko",
     "lemma": "방금",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "banggeum"
+    },
     "meanings": {
       "ko": "방금",
       "en": "just now",
@@ -1578,25 +1533,26 @@ const WORDS_KO_A1 = [
       "ru": "только что",
       "fr": "à l'instant"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "바로 조금 전의 시간을 나타내는 말"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "banggeum"
+      "ko_gloss": "바로 조금 전의 시간을 나타내는 말",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_5159",
+    "lang": "ko",
     "lemma": "배탈",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "baetal"
+    },
     "meanings": {
       "ko": "배탈",
       "en": "stomachache",
@@ -1607,27 +1563,25 @@ const WORDS_KO_A1 = [
       "ja": "腹痛",
       "zh": "肚子疼",
       "ru": "расстройство желудка",
-      "fr": "mal de ventre"
+      "fr": "le mal de ventre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "배가 아프거나 설사를 하는 등 소화 기관에 문제가 생긴 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "baetal"
     }
   },
   {
     "id": "ko_5200",
+    "lang": "ko",
     "lemma": "베트남",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "beteunam"
+    },
     "meanings": {
       "ko": "베트남",
       "en": "Vietnam",
@@ -1638,27 +1592,29 @@ const WORDS_KO_A1 = [
       "ja": "ベトナム",
       "zh": "越南",
       "ru": "Вьетнам",
-      "fr": "Viêt Nam"
+      "fr": "le Viêt Nam"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "동남아시아에 있는 나라의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "beteunam"
+      "ko_gloss": "동남아시아에 있는 나라의 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_5221",
+    "lang": "ko",
     "lemma": "병문안",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "byeongmunan"
+    },
     "meanings": {
       "ko": "병문안",
       "en": "hospital visit",
@@ -1669,27 +1625,25 @@ const WORDS_KO_A1 = [
       "ja": "病気見舞い",
       "zh": "探病",
       "ru": "посещение больного",
-      "fr": "visite à l'hôpital"
+      "fr": "la visite à l'hôpital"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아픈 사람을 찾아가 위로하고 살피는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "byeongmunan"
     }
   },
   {
     "id": "ko_5315",
+    "lang": "ko",
     "lemma": "부산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "busan"
+    },
     "meanings": {
       "ko": "부산",
       "en": "Busan",
@@ -1702,25 +1656,30 @@ const WORDS_KO_A1 = [
       "ru": "Пусан",
       "fr": "Busan"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 남동쪽에 있는 큰 도시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "busan"
+      "ko_gloss": "대한민국 남동쪽에 있는 큰 도시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_5322",
+    "lang": "ko",
     "lemma": "부자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "buja"
+    },
     "meanings": {
       "ko": "부자",
       "en": "rich person",
@@ -1731,27 +1690,25 @@ const WORDS_KO_A1 = [
       "ja": "金持ち",
       "zh": "富人",
       "ru": "богач",
-      "fr": "riche"
+      "fr": "le riche"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈이 아주 많은 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "buja"
     }
   },
   {
     "id": "ko_5354",
+    "lang": "ko",
     "lemma": "분식",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "bunsik"
+    },
     "meanings": {
       "ko": "분식",
       "en": "flour based food",
@@ -1762,27 +1719,25 @@ const WORDS_KO_A1 = [
       "ja": "粉食",
       "zh": "面食",
       "ru": "мучные блюда",
-      "fr": "plat farineux"
+      "fr": "le plat farineux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "떡볶이, 김밥처럼 간단하게 먹을 수 있는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bunsik"
     }
   },
   {
     "id": "ko_5460",
+    "lang": "ko",
     "lemma": "빵집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ppangjip"
+    },
     "meanings": {
       "ko": "빵집",
       "en": "bakery",
@@ -1793,27 +1748,25 @@ const WORDS_KO_A1 = [
       "ja": "パン屋",
       "zh": "面包店",
       "ru": "пекарня",
-      "fr": "boulangerie"
+      "fr": "la boulangerie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빵을 만들어서 파는 가게."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ppangjip"
     }
   },
   {
     "id": "ko_5475",
+    "lang": "ko",
     "lemma": "사거리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sageori"
+    },
     "meanings": {
       "ko": "사거리",
       "en": "intersection",
@@ -1824,27 +1777,25 @@ const WORDS_KO_A1 = [
       "ja": "交差点",
       "zh": "十字路口",
       "ru": "перекресток",
-      "fr": "carrefour"
+      "fr": "le carrefour"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "네 개의 길이 서로 만나는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sageori"
     }
   },
   {
     "id": "ko_5520",
+    "lang": "ko",
     "lemma": "사이다",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saida"
+    },
     "meanings": {
       "ko": "사이다",
       "en": "cider",
@@ -1855,27 +1806,25 @@ const WORDS_KO_A1 = [
       "ja": "サイダー",
       "zh": "汽水",
       "ru": "сидр",
-      "fr": "cidre"
+      "fr": "le cidre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "투명하고 달콤한 맛이 나는 탄산음료의 한 종류."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saida"
     }
   },
   {
     "id": "ko_5523",
+    "lang": "ko",
     "lemma": "사이즈",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saijeu"
+    },
     "meanings": {
       "ko": "사이즈",
       "en": "size",
@@ -1886,27 +1835,25 @@ const WORDS_KO_A1 = [
       "ja": "サイズ",
       "zh": "尺寸",
       "ru": "размер",
-      "fr": "taille"
+      "fr": "la taille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건이나 옷의 크기를 나타내는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saijeu"
     }
   },
   {
     "id": "ko_5562",
+    "lang": "ko",
     "lemma": "삼거리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "samgeori"
+    },
     "meanings": {
       "ko": "삼거리",
       "en": "three way intersection",
@@ -1917,27 +1864,25 @@ const WORDS_KO_A1 = [
       "ja": "三叉路",
       "zh": "三岔路口",
       "ru": "развилка",
-      "fr": "carrefour à trois voies"
+      "fr": "le carrefour à trois voies"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "길이 세 갈래로 갈라지는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "samgeori"
     }
   },
   {
     "id": "ko_5563",
+    "lang": "ko",
     "lemma": "삼겹살",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "samgyeopsal"
+    },
     "meanings": {
       "ko": "삼겹살",
       "en": "pork belly",
@@ -1948,27 +1893,25 @@ const WORDS_KO_A1 = [
       "ja": "サムギョプサル",
       "zh": "五花肉",
       "ru": "свиная грудинка",
-      "fr": "poitrine de porc"
+      "fr": "la poitrine de porc"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돼지고기 부위 중 살과 비계가 세 겹으로 된 고기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "samgyeopsal"
     }
   },
   {
     "id": "ko_5591",
+    "lang": "ko",
     "lemma": "상자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sangja"
+    },
     "meanings": {
       "ko": "상자",
       "en": "box",
@@ -1979,27 +1922,25 @@ const WORDS_KO_A1 = [
       "ja": "箱",
       "zh": "箱子",
       "ru": "коробка",
-      "fr": "boîte"
+      "fr": "la boîte"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 담거나 포장하는 데 쓰는 네모난 통."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sangja"
     }
   },
   {
     "id": "ko_5658",
+    "lang": "ko",
     "lemma": "서울",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seoul"
+    },
     "meanings": {
       "ko": "서울",
       "en": "Seoul",
@@ -2012,20 +1953,22 @@ const WORDS_KO_A1 = [
       "ru": "Сеул",
       "fr": "Séoul"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국의 수도이자 가장 큰 도시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seoul"
+      "ko_gloss": "대한민국의 수도이자 가장 큰 도시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_5677",
+    "lang": "ko",
     "lemma": "선선하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2043,7 +1986,6 @@ const WORDS_KO_A1 = [
       "ru": "прохладный",
       "fr": "frais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 시원하고 상쾌한 느낌이 있다."
     },
@@ -2053,14 +1995,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5736",
+    "lang": "ko",
     "lemma": "세배",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ko": "sebae"
+    },
     "meanings": {
       "ko": "세배",
       "en": "New Year's bow",
@@ -2071,27 +2017,25 @@ const WORDS_KO_A1 = [
       "ja": "歳拝",
       "zh": "拜年",
       "ru": "новогодний поклон",
-      "fr": "salut du Nouvel An"
+      "fr": "le salut du Nouvel An"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "설날에 어른들께 절을 하며 새해 인사를 드리는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sebae"
     }
   },
   {
     "id": "ko_5749",
+    "lang": "ko",
     "lemma": "셋째",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "setjjae"
+    },
     "meanings": {
       "ko": "셋째",
       "en": "third",
@@ -2102,27 +2046,25 @@ const WORDS_KO_A1 = [
       "ja": "三番目",
       "zh": "老三",
       "ru": "третий",
-      "fr": "troisième"
+      "fr": "le troisième"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "순서에서 세 번째에 해당하는 사람이나 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "setjjae"
     }
   },
   {
     "id": "ko_5754",
+    "lang": "ko",
     "lemma": "소고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sogogi"
+    },
     "meanings": {
       "ko": "소고기",
       "en": "beef",
@@ -2133,27 +2075,25 @@ const WORDS_KO_A1 = [
       "ja": "牛肉",
       "zh": "牛肉",
       "ru": "говядина",
-      "fr": "bœuf"
+      "fr": "le bœuf"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소의 고기를 말하며 사람들이 먹는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sogogi"
     }
   },
   {
     "id": "ko_5800",
+    "lang": "ko",
     "lemma": "소화제",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sohwaje"
+    },
     "meanings": {
       "ko": "소화제",
       "en": "digestive medicine",
@@ -2164,27 +2104,25 @@ const WORDS_KO_A1 = [
       "ja": "消化剤",
       "zh": "助消化药",
       "ru": "пищеварительное средство",
-      "fr": "médicament digestif"
+      "fr": "le médicament digestif"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식이 잘 소화되지 않을 때 먹는 약."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sohwaje"
     }
   },
   {
     "id": "ko_5864",
+    "lang": "ko",
     "lemma": "수영복",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "suyeongbok"
+    },
     "meanings": {
       "ko": "수영복",
       "en": "swimsuit",
@@ -2195,27 +2133,25 @@ const WORDS_KO_A1 = [
       "ja": "水着",
       "zh": "泳衣",
       "ru": "купальник",
-      "fr": "maillot de bain"
+      "fr": "le maillot de bain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수영할 때 입는 옷."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "suyeongbok"
     }
   },
   {
     "id": "ko_5876",
+    "lang": "ko",
     "lemma": "수첩",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sucheop"
+    },
     "meanings": {
       "ko": "수첩",
       "en": "notebook",
@@ -2226,27 +2162,25 @@ const WORDS_KO_A1 = [
       "ja": "手帳",
       "zh": "笔记本",
       "ru": "блокнот",
-      "fr": "cahier"
+      "fr": "le cahier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "간단한 메모나 일정을 적는 작은 책."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sucheop"
     }
   },
   {
     "id": "ko_5891",
+    "lang": "ko",
     "lemma": "순두부찌개",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sundubujjigae"
+    },
     "meanings": {
       "ko": "순두부찌개",
       "en": "soft tofu stew",
@@ -2257,27 +2191,25 @@ const WORDS_KO_A1 = [
       "ja": "スンドゥブチゲ",
       "zh": "嫩豆腐汤",
       "ru": "суп из мягкого тофу",
-      "fr": "ragoût de tofu soyeux"
+      "fr": "le ragoût de tofu soyeux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "부드러운 두부와 해물 등을 넣어 끓인 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sundubujjigae"
     }
   },
   {
     "id": "ko_5920",
+    "lang": "ko",
     "lemma": "스카프",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "seukapeu"
+    },
     "meanings": {
       "ko": "스카프",
       "en": "scarf",
@@ -2288,27 +2220,25 @@ const WORDS_KO_A1 = [
       "ja": "スカーフ",
       "zh": "围巾",
       "ru": "шарф",
-      "fr": "écharpe"
+      "fr": "l'écharpe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "목이나 머리에 두르는 천으로 된 장식품."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seukapeu"
     }
   },
   {
     "id": "ko_5929",
+    "lang": "ko",
     "lemma": "스파게티",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "seupageti"
+    },
     "meanings": {
       "ko": "스파게티",
       "en": "spaghetti",
@@ -2319,27 +2249,25 @@ const WORDS_KO_A1 = [
       "ja": "スパゲッティ",
       "zh": "意大利面",
       "ru": "спагетти",
-      "fr": "spaghetti"
+      "fr": "les spaghetti"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "길고 가는 면을 삶아 소스와 함께 먹는 이탈리아 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seupageti"
     }
   },
   {
     "id": "ko_5945",
+    "lang": "ko",
     "lemma": "시간표",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "siganpyo"
+    },
     "meanings": {
       "ko": "시간표",
       "en": "timetable",
@@ -2350,22 +2278,17 @@ const WORDS_KO_A1 = [
       "ja": "時刻表",
       "zh": "时间表",
       "ru": "расписание",
-      "fr": "horaire"
+      "fr": "l'horaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수업이나 기차 운행 등의 시간을 정해 놓은 표."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "siganpyo"
     }
   },
   {
     "id": "ko_5954",
+    "lang": "ko",
     "lemma": "시다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2383,7 +2306,6 @@ const WORDS_KO_A1 = [
       "ru": "кислый",
       "fr": "aigre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "레몬이나 식초처럼 혀에 닿을 때 신맛이 느껴지는 상태."
     },
@@ -2393,13 +2315,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6029",
+    "lang": "ko",
     "lemma": "신분증",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "sinbunjeung"
+    },
     "meanings": {
       "ko": "신분증",
       "en": "identification card",
@@ -2410,22 +2336,17 @@ const WORDS_KO_A1 = [
       "ja": "身分証明書",
       "zh": "身份证",
       "ru": "удостоверение личности",
-      "fr": "carte d'identité"
+      "fr": "la carte d'identité"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "개인의 신분을 증명하는 데 사용하는 카드나 문서."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sinbunjeung"
     }
   },
   {
     "id": "ko_6108",
+    "lang": "ko",
     "lemma": "쌀쌀하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2443,7 +2364,6 @@ const WORDS_KO_A1 = [
       "ru": "прохладный",
       "fr": "frais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날씨가 조금 춥고 서늘하거나, 태도가 차갑고 정이 없다."
     },
@@ -2453,13 +2373,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6181",
+    "lang": "ko",
     "lemma": "안내문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "annaemun"
+    },
     "meanings": {
       "ko": "안내문",
       "en": "notice",
@@ -2470,27 +2394,25 @@ const WORDS_KO_A1 = [
       "ja": "案内文",
       "zh": "通知",
       "ru": "объявление",
-      "fr": "avis"
+      "fr": "l'avis"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들에게 어떤 사실이나 정보를 알려주기 위해 만든 글."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "annaemun"
     }
   },
   {
     "id": "ko_6183",
+    "lang": "ko",
     "lemma": "안녕",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "annyeong"
+    },
     "meanings": {
       "ko": "안녕",
       "en": "peace",
@@ -2501,27 +2423,25 @@ const WORDS_KO_A1 = [
       "ja": "平安",
       "zh": "平安",
       "ru": "мир",
-      "fr": "paix"
+      "fr": "la paix"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아무 탈 없이 편안하고 평화로운 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "annyeong"
     }
   },
   {
     "id": "ko_6247",
+    "lang": "ko",
     "lemma": "약사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yaksa"
+    },
     "meanings": {
       "ko": "약사",
       "en": "pharmacist",
@@ -2532,28 +2452,26 @@ const WORDS_KO_A1 = [
       "ja": "薬剤師",
       "zh": "药剂师",
       "ru": "фармацевт",
-      "fr": "pharmacien"
+      "fr": "le pharmacien"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "약을 만들고 파는 일을 전문으로 하는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yaksa"
     }
   },
   {
     "id": "ko_6270",
+    "lang": "ko",
     "lemma": "양식집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk",
       "travel"
     ],
+    "reading": {
+      "ko": "yangsikjip"
+    },
     "meanings": {
       "ko": "양식집",
       "en": "Western restaurant",
@@ -2564,27 +2482,25 @@ const WORDS_KO_A1 = [
       "ja": "洋食店",
       "zh": "西餐厅",
       "ru": "ресторан западной кухни",
-      "fr": "restaurant occidental"
+      "fr": "le restaurant occidental"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서양 음식을 파는 식당을 말합니다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yangsikjip"
     }
   },
   {
     "id": "ko_6275",
+    "lang": "ko",
     "lemma": "양치질",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yangchijil"
+    },
     "meanings": {
       "ko": "양치질",
       "en": "brushing teeth",
@@ -2595,22 +2511,17 @@ const WORDS_KO_A1 = [
       "ja": "歯磨き",
       "zh": "刷牙",
       "ru": "чистка зубов",
-      "fr": "brossage de dents"
+      "fr": "le brossage de dents"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "칫솔과 치약을 사용하여 이를 닦는 행위입니다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yangchijil"
     }
   },
   {
     "id": "ko_6368",
+    "lang": "ko",
     "lemma": "여쭙다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2628,26 +2539,26 @@ const WORDS_KO_A1 = [
       "ru": "почтительно спрашивать",
       "fr": "demander respectueusement"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "윗사람에게 어떤 내용을 공손하게 묻다."
     },
-    "infinitive": "여쭙다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "yeojjupda"
     }
   },
   {
     "id": "ko_6372",
+    "lang": "ko",
     "lemma": "여행지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "yeohaengji"
+    },
     "meanings": {
       "ko": "여행지",
       "en": "travel destination",
@@ -2658,27 +2569,25 @@ const WORDS_KO_A1 = [
       "ja": "旅行先",
       "zh": "旅游目的地",
       "ru": "место назначения",
-      "fr": "destination de voyage"
+      "fr": "la destination de voyage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여행을 가려고 정한 장소."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeohaengji"
     }
   },
   {
     "id": "ko_6401",
+    "lang": "ko",
     "lemma": "연말",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "yeonmal"
+    },
     "meanings": {
       "ko": "연말",
       "en": "year end",
@@ -2689,27 +2598,25 @@ const WORDS_KO_A1 = [
       "ja": "年末",
       "zh": "年末",
       "ru": "конец года",
-      "fr": "fin d'année"
+      "fr": "la fin d'année"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 해의 마지막 시기나 기간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeonmal"
     }
   },
   {
     "id": "ko_6434",
+    "lang": "ko",
     "lemma": "영",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeong"
+    },
     "meanings": {
       "ko": "영",
       "en": "zero",
@@ -2720,27 +2627,25 @@ const WORDS_KO_A1 = [
       "ja": "ゼロ",
       "zh": "零",
       "ru": "ноль",
-      "fr": "zéro"
+      "fr": "le zéro"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아무것도 없는 상태를 나타내는 숫자"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeong"
     }
   },
   {
     "id": "ko_6435",
+    "lang": "ko",
     "lemma": "영국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeongguk"
+    },
     "meanings": {
       "ko": "영국",
       "en": "United Kingdom",
@@ -2751,27 +2656,25 @@ const WORDS_KO_A1 = [
       "ja": "イギリス",
       "zh": "英国",
       "ru": "Великобритания",
-      "fr": "Royaume-Uni"
+      "fr": "le Royaume-Uni"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "유럽 대륙 서쪽에 있는 섬나라의 이름"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeongguk"
     }
   },
   {
     "id": "ko_6438",
+    "lang": "ko",
     "lemma": "영수증",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeongsujeung"
+    },
     "meanings": {
       "ko": "영수증",
       "en": "receipt",
@@ -2782,27 +2685,25 @@ const WORDS_KO_A1 = [
       "ja": "領収書",
       "zh": "收据",
       "ru": "квитанция",
-      "fr": "reçu"
+      "fr": "le reçu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 사거나 돈을 냈다는 것을 증명하는 종이"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeongsujeung"
     }
   },
   {
     "id": "ko_6460",
+    "lang": "ko",
     "lemma": "예매",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yemae"
+    },
     "meanings": {
       "ko": "예매",
       "en": "advance purchase",
@@ -2813,22 +2714,17 @@ const WORDS_KO_A1 = [
       "ja": "前売り",
       "zh": "预售",
       "ru": "предварительная покупка",
-      "fr": "achat anticipé"
+      "fr": "l'achat anticipé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "표나 물건을 미리 사 두는 것"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yemae"
     }
   },
   {
     "id": "ko_6496",
+    "lang": "ko",
     "lemma": "오래되다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2846,7 +2742,6 @@ const WORDS_KO_A1 = [
       "ru": "старый",
       "fr": "vieux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "만들어지거나 시작된 지 긴 시간이 지난 상태."
     },
@@ -2856,13 +2751,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6535",
+    "lang": "ko",
     "lemma": "올림",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "olrim"
+    },
     "meanings": {
       "ko": "올림",
       "en": "sincerely",
@@ -2875,25 +2774,26 @@ const WORDS_KO_A1 = [
       "ru": "с уважением",
       "fr": "sincèrement"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "편지나 글을 보낼 때 자기 이름을 쓰고 덧붙이는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "olrim"
+      "ko_gloss": "편지나 글을 보낼 때 자기 이름을 쓰고 덧붙이는 말.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6543",
+    "lang": "ko",
     "lemma": "옷걸이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "otgeoli"
+    },
     "meanings": {
       "ko": "옷걸이",
       "en": "hanger",
@@ -2904,27 +2804,25 @@ const WORDS_KO_A1 = [
       "ja": "ハンガー",
       "zh": "衣架",
       "ru": "вешалка",
-      "fr": "cintre"
+      "fr": "le cintre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옷을 걸어두는 데 쓰는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "otgeoli"
     }
   },
   {
     "id": "ko_6544",
+    "lang": "ko",
     "lemma": "옷장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "otjang"
+    },
     "meanings": {
       "ko": "옷장",
       "en": "wardrobe",
@@ -2935,27 +2833,25 @@ const WORDS_KO_A1 = [
       "ja": "洋服ダンス",
       "zh": "衣柜",
       "ru": "шкаф",
-      "fr": "armoire"
+      "fr": "l'armoire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옷을 넣어 보관하는 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "otjang"
     }
   },
   {
     "id": "ko_6608",
+    "lang": "ko",
     "lemma": "우동",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "udong"
+    },
     "meanings": {
       "ko": "우동",
       "en": "udon",
@@ -2966,27 +2862,25 @@ const WORDS_KO_A1 = [
       "ja": "うどん",
       "zh": "乌冬面",
       "ru": "удон",
-      "fr": "udon"
+      "fr": "l'udon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밀가루로 만든 굵은 면을 뜨거운 국물에 넣어 먹는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "udong"
     }
   },
   {
     "id": "ko_6642",
+    "lang": "ko",
     "lemma": "울산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ulsan"
+    },
     "meanings": {
       "ko": "울산",
       "en": "Ulsan",
@@ -2999,25 +2893,30 @@ const WORDS_KO_A1 = [
       "ru": "Ульсан",
       "fr": "Ulsan"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 남동쪽에 위치한 광역시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ulsan"
+      "ko_gloss": "대한민국 남동쪽에 위치한 광역시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6661",
+    "lang": "ko",
     "lemma": "월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "wol"
+    },
     "meanings": {
       "ko": "월",
       "en": "month",
@@ -3028,27 +2927,25 @@ const WORDS_KO_A1 = [
       "ja": "月",
       "zh": "月",
       "ru": "месяц",
-      "fr": "mois"
+      "fr": "le mois"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "1년을 12로 나눈 기간 중 하나."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "wol"
     }
   },
   {
     "id": "ko_6716",
+    "lang": "ko",
     "lemma": "육교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yukgyo"
+    },
     "meanings": {
       "ko": "육교",
       "en": "overpass",
@@ -3059,27 +2956,25 @@ const WORDS_KO_A1 = [
       "ja": "歩道橋",
       "zh": "人行天桥",
       "ru": "пешеходный мост",
-      "fr": "passage supérieur"
+      "fr": "le passage supérieur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 길을 건널 수 있도록 도로 위에 만든 다리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yukgyo"
     }
   },
   {
     "id": "ko_6721",
+    "lang": "ko",
     "lemma": "윷놀이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yutnoli"
+    },
     "meanings": {
       "ko": "윷놀이",
       "en": "Yut Nori",
@@ -3092,25 +2987,26 @@ const WORDS_KO_A1 = [
       "ru": "ютнори",
       "fr": "Yut Nori"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "윷가락을 던져 말을 움직여 승부를 겨루는 한국의 전통 놀이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yutnoli"
+      "ko_gloss": "윷가락을 던져 말을 움직여 승부를 겨루는 한국의 전통 놀이.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6800",
+    "lang": "ko",
     "lemma": "이삿짐",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "isatjim"
+    },
     "meanings": {
       "ko": "이삿짐",
       "en": "moving belongings",
@@ -3121,27 +3017,25 @@ const WORDS_KO_A1 = [
       "ja": "引っ越し荷物",
       "zh": "搬家行李",
       "ru": "вещи для переезда",
-      "fr": "affaires de déménagement"
+      "fr": "les affaires de déménagement"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "이사할 때 옮겨야 하는 물건들."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "isatjim"
     }
   },
   {
     "id": "ko_6849",
+    "lang": "ko",
     "lemma": "인도네시아",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "indonesia"
+    },
     "meanings": {
       "ko": "인도네시아",
       "en": "Indonesia",
@@ -3152,27 +3046,29 @@ const WORDS_KO_A1 = [
       "ja": "インドネシア",
       "zh": "印度尼西亚",
       "ru": "Индонезия",
-      "fr": "Indonésie"
+      "fr": "l'Indonésie"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "동남아시아에 있는 섬들로 이루어진 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "indonesia"
+      "ko_gloss": "동남아시아에 있는 섬들로 이루어진 나라 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6870",
+    "lang": "ko",
     "lemma": "인천",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "incheon"
+    },
     "meanings": {
       "ko": "인천",
       "en": "Incheon",
@@ -3185,26 +3081,31 @@ const WORDS_KO_A1 = [
       "ru": "Инчхон",
       "fr": "Incheon"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국 서쪽에 있는 큰 도시의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "incheon"
+      "ko_gloss": "대한민국 서쪽에 있는 큰 도시의 이름.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6883",
+    "lang": "ko",
     "lemma": "일본",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "ilbon"
+    },
     "meanings": {
       "ko": "일본",
       "en": "Japan",
@@ -3215,28 +3116,30 @@ const WORDS_KO_A1 = [
       "ja": "日本",
       "zh": "日本",
       "ru": "Япония",
-      "fr": "Japon"
+      "fr": "le Japon"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "아시아 동쪽에 있는 섬나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ilbon"
+      "ko_gloss": "아시아 동쪽에 있는 섬나라 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6893",
+    "lang": "ko",
     "lemma": "일식집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "ilsikjip"
+    },
     "meanings": {
       "ko": "일식집",
       "en": "Japanese restaurant",
@@ -3247,27 +3150,25 @@ const WORDS_KO_A1 = [
       "ja": "日本料理店",
       "zh": "日式餐厅",
       "ru": "японский ресторан",
-      "fr": "restaurant japonais"
+      "fr": "le restaurant japonais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일본 음식을 파는 식당."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ilsikjip"
     }
   },
   {
     "id": "ko_6938",
+    "lang": "ko",
     "lemma": "입장권",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "ipjanggwon"
+    },
     "meanings": {
       "ko": "입장권",
       "en": "admission ticket",
@@ -3278,27 +3179,25 @@ const WORDS_KO_A1 = [
       "ja": "入場券",
       "zh": "门票",
       "ru": "входной билет",
-      "fr": "billet d'entrée"
+      "fr": "le billet d'entrée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공연장이나 경기장 등에 들어갈 때 필요한 표."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ipjanggwon"
     }
   },
   {
     "id": "ko_6940",
+    "lang": "ko",
     "lemma": "입학시험",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "iphaksiheom"
+    },
     "meanings": {
       "ko": "입학시험",
       "en": "entrance exam",
@@ -3309,27 +3208,25 @@ const WORDS_KO_A1 = [
       "ja": "入学試験",
       "zh": "入学考试",
       "ru": "вступительный экзамен",
-      "fr": "examen d'entrée"
+      "fr": "l'examen d'entrée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에 들어가기 위해 치르는 시험."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "iphaksiheom"
     }
   },
   {
     "id": "ko_6958",
+    "lang": "ko",
     "lemma": "자기소개",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jagisogae"
+    },
     "meanings": {
       "ko": "자기소개",
       "en": "self-introduction",
@@ -3340,27 +3237,25 @@ const WORDS_KO_A1 = [
       "ja": "自己紹介",
       "zh": "自我介绍",
       "ru": "самопрезентация",
-      "fr": "présentation de soi"
+      "fr": "la présentation de soi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 자신을 소개하는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jagisogae"
     }
   },
   {
     "id": "ko_6963",
+    "lang": "ko",
     "lemma": "자동판매기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jadongpanmaegi"
+    },
     "meanings": {
       "ko": "자동판매기",
       "en": "vending machine",
@@ -3371,27 +3266,25 @@ const WORDS_KO_A1 = [
       "ja": "自動販売機",
       "zh": "自动售货机",
       "ru": "торговый автомат",
-      "fr": "distributeur automatique"
+      "fr": "le distributeur automatique"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 넣으면 물건이 자동으로 나오는 기계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jadongpanmaegi"
     }
   },
   {
     "id": "ko_7042",
+    "lang": "ko",
     "lemma": "잡채",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "japchae"
+    },
     "meanings": {
       "ko": "잡채",
       "en": "Japchae",
@@ -3402,27 +3295,25 @@ const WORDS_KO_A1 = [
       "ja": "チャプチェ",
       "zh": "杂菜",
       "ru": "чапчхэ",
-      "fr": "Japchae"
+      "fr": "le Japchae"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "당면과 여러 채소를 볶아 만든 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "japchae"
     }
   },
   {
     "id": "ko_7095",
+    "lang": "ko",
     "lemma": "저금",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeogeum"
+    },
     "meanings": {
       "ko": "저금",
       "en": "savings",
@@ -3433,27 +3324,25 @@ const WORDS_KO_A1 = [
       "ja": "貯金",
       "zh": "存款",
       "ru": "сбережения",
-      "fr": "économies"
+      "fr": "les économies"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 아껴서 모아 두거나 은행에 맡기는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeogeum"
     }
   },
   {
     "id": "ko_7236",
+    "lang": "ko",
     "lemma": "정형외과",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeonghyeongoegwa"
+    },
     "meanings": {
       "ko": "정형외과",
       "en": "orthopedics",
@@ -3464,27 +3353,25 @@ const WORDS_KO_A1 = [
       "ja": "整形外科",
       "zh": "骨科",
       "ru": "ортопедия",
-      "fr": "orthopédie"
+      "fr": "l'orthopédie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "뼈, 관절, 근육 등의 질병이나 손상을 치료하는 의학 분야."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeonghyeongoegwa"
     }
   },
   {
     "id": "ko_7237",
+    "lang": "ko",
     "lemma": "정확",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeonghwak"
+    },
     "meanings": {
       "ko": "정확",
       "en": "accuracy",
@@ -3495,27 +3382,25 @@ const WORDS_KO_A1 = [
       "ja": "正確さ",
       "zh": "准确",
       "ru": "точность",
-      "fr": "précision"
+      "fr": "la précision"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "틀림없이 바르고 올바름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeonghwak"
     }
   },
   {
     "id": "ko_7266",
+    "lang": "ko",
     "lemma": "제주도",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jejudo"
+    },
     "meanings": {
       "ko": "제주도",
       "en": "Jeju Island",
@@ -3526,27 +3411,25 @@ const WORDS_KO_A1 = [
       "ja": "済州島",
       "zh": "济州岛",
       "ru": "остров Чеджу",
-      "fr": "île de Jeju"
+      "fr": "l'île de Jeju"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대한민국 남쪽에 있는 큰 섬으로 유명한 관광지."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jejudo"
     }
   },
   {
     "id": "ko_7287",
+    "lang": "ko",
     "lemma": "조심",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "josim"
+    },
     "meanings": {
       "ko": "조심",
       "en": "caution",
@@ -3557,27 +3440,25 @@ const WORDS_KO_A1 = [
       "ja": "注意",
       "zh": "小心",
       "ru": "осторожность",
-      "fr": "prudence"
+      "fr": "la prudence"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "위험하거나 좋지 않은 일이 생기지 않도록 마음을 쓰는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "josim"
     }
   },
   {
     "id": "ko_7314",
+    "lang": "ko",
     "lemma": "종류",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jongryu"
+    },
     "meanings": {
       "ko": "종류",
       "en": "type",
@@ -3588,22 +3469,17 @@ const WORDS_KO_A1 = [
       "ja": "種類",
       "zh": "种类",
       "ru": "вид",
-      "fr": "type"
+      "fr": "le type"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사물이나 현상을 나누는 갈래나 부류."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jongryu"
     }
   },
   {
     "id": "ko_7359",
+    "lang": "ko",
     "lemma": "주일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3611,6 +3487,9 @@ const WORDS_KO_A1 = [
       "smalltalk",
       "work"
     ],
+    "reading": {
+      "ko": "juil"
+    },
     "meanings": {
       "ko": "주일",
       "en": "week",
@@ -3621,27 +3500,25 @@ const WORDS_KO_A1 = [
       "ja": "週",
       "zh": "周",
       "ru": "неделя",
-      "fr": "semaine"
+      "fr": "la semaine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "이레 동안의 기간, 즉 일요일부터 토요일까지의 칠 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "juil"
     }
   },
   {
     "id": "ko_7370",
+    "lang": "ko",
     "lemma": "주황색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "juhwangsaek"
+    },
     "meanings": {
       "ko": "주황색",
       "en": "orange color",
@@ -3652,27 +3529,25 @@ const WORDS_KO_A1 = [
       "ja": "オレンジ色",
       "zh": "橙色",
       "ru": "оранжевый цвет",
-      "fr": "orange"
+      "fr": "l'orange"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빨간색과 노란색을 섞은 것과 같은 색."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "juhwangsaek"
     }
   },
   {
     "id": "ko_7389",
+    "lang": "ko",
     "lemma": "중국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jungguk"
+    },
     "meanings": {
       "ko": "중국",
       "en": "China",
@@ -3683,27 +3558,29 @@ const WORDS_KO_A1 = [
       "ja": "中国",
       "zh": "中国",
       "ru": "Китай",
-      "fr": "Chine"
+      "fr": "la Chine"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "아시아 동부에 있는 나라의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jungguk"
+      "ko_gloss": "아시아 동부에 있는 나라의 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_7430",
+    "lang": "ko",
     "lemma": "지각",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jigak"
+    },
     "meanings": {
       "ko": "지각",
       "en": "lateness",
@@ -3714,27 +3591,25 @@ const WORDS_KO_A1 = [
       "ja": "遅刻",
       "zh": "迟到",
       "ru": "опоздание",
-      "fr": "retard"
+      "fr": "le retard"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "정해진 시간보다 늦게 도착하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jigak"
     }
   },
   {
     "id": "ko_7489",
+    "lang": "ko",
     "lemma": "지하철역",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "jihacheolyeok"
+    },
     "meanings": {
       "ko": "지하철역",
       "en": "subway station",
@@ -3745,27 +3620,25 @@ const WORDS_KO_A1 = [
       "ja": "地下鉄駅",
       "zh": "地铁站",
       "ru": "станция метро",
-      "fr": "station de métro"
+      "fr": "la station de métro"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지하철이 서고 사람들이 타고 내리는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jihacheolyeok"
     }
   },
   {
     "id": "ko_7535",
+    "lang": "ko",
     "lemma": "집들이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "jipdeuli"
+    },
     "meanings": {
       "ko": "집들이",
       "en": "housewarming party",
@@ -3776,27 +3649,25 @@ const WORDS_KO_A1 = [
       "ja": "新築祝い",
       "zh": "乔迁派对",
       "ru": "новоселье",
-      "fr": "pendaison de crémaillère"
+      "fr": "la pendaison de crémaillère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "새집으로 이사한 것을 축하하기 위해 친구나 친척을 초대하는 잔치."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jipdeuli"
     }
   },
   {
     "id": "ko_7554",
+    "lang": "ko",
     "lemma": "짬뽕",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jjamppong"
+    },
     "meanings": {
       "ko": "짬뽕",
       "en": "jjamppong",
@@ -3807,28 +3678,26 @@ const WORDS_KO_A1 = [
       "ja": "チャンポン",
       "zh": "韩国海鲜面",
       "ru": "чамппон",
-      "fr": "jjamppong"
+      "fr": "le jjamppong"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해산물과 채소를 넣고 얼큰하게 끓인 중국식 면 요리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jjamppong"
     }
   },
   {
     "id": "ko_7632",
+    "lang": "ko",
     "lemma": "책장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk",
       "work"
     ],
+    "reading": {
+      "ko": "chaekjang"
+    },
     "meanings": {
       "ko": "책장",
       "en": "bookshelf",
@@ -3839,27 +3708,25 @@ const WORDS_KO_A1 = [
       "ja": "本棚",
       "zh": "书架",
       "ru": "книжный шкаф",
-      "fr": "bibliothèque"
+      "fr": "la bibliothèque"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "책을 꽂아 두는 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chaekjang"
     }
   },
   {
     "id": "ko_7643",
+    "lang": "ko",
     "lemma": "천만",
-    "pos": "명사",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cheonman"
+    },
     "meanings": {
       "ko": "천만",
       "en": "ten million",
@@ -3872,20 +3739,18 @@ const WORDS_KO_A1 = [
       "ru": "десять миллионов",
       "fr": "dix millions"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "만의 천 배가 되는 수."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cheonman"
+      "ko_gloss": "만의 천 배가 되는 수.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_7652",
+    "lang": "ko",
     "lemma": "첫째",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3903,25 +3768,26 @@ const WORDS_KO_A1 = [
       "ru": "первый",
       "fr": "le premier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여럿 중에서 가장 먼저이거나 가장 중요한 것."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "cheotjjae"
     }
   },
   {
     "id": "ko_7668",
+    "lang": "ko",
     "lemma": "체크무늬",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "chekeumunui"
+    },
     "meanings": {
       "ko": "체크무늬",
       "en": "checkered pattern",
@@ -3932,27 +3798,25 @@ const WORDS_KO_A1 = [
       "ja": "チェック柄",
       "zh": "格子图案",
       "ru": "клетчатый узор",
-      "fr": "motif à carreaux"
+      "fr": "le motif à carreaux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "바둑판처럼 네모난 모양이 반복되는 무늬."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chekeumunui"
     }
   },
   {
     "id": "ko_7674",
+    "lang": "ko",
     "lemma": "초대장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "chodaejang"
+    },
     "meanings": {
       "ko": "초대장",
       "en": "invitation card",
@@ -3963,27 +3827,25 @@ const WORDS_KO_A1 = [
       "ja": "招待状",
       "zh": "请柬",
       "ru": "приглашение",
-      "fr": "invitation"
+      "fr": "l'invitation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "초대를 알리는 글이나 종이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chodaejang"
     }
   },
   {
     "id": "ko_7743",
+    "lang": "ko",
     "lemma": "출석",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chulseok"
+    },
     "meanings": {
       "ko": "출석",
       "en": "attendance",
@@ -3994,27 +3856,25 @@ const WORDS_KO_A1 = [
       "ja": "出席",
       "zh": "出席",
       "ru": "посещаемость",
-      "fr": "présence"
+      "fr": "la présence"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수업이나 모임에 참석하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chulseok"
     }
   },
   {
     "id": "ko_7785",
+    "lang": "ko",
     "lemma": "치킨",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chikin"
+    },
     "meanings": {
       "ko": "치킨",
       "en": "fried chicken",
@@ -4025,27 +3885,25 @@ const WORDS_KO_A1 = [
       "ja": "フライドチキン",
       "zh": "炸鸡",
       "ru": "жареная курица",
-      "fr": "poulet frit"
+      "fr": "le poulet frit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "닭고기를 튀겨서 만든 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chikin"
     }
   },
   {
     "id": "ko_7813",
+    "lang": "ko",
     "lemma": "캐나다",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kaenada"
+    },
     "meanings": {
       "ko": "캐나다",
       "en": "Canada",
@@ -4056,27 +3914,29 @@ const WORDS_KO_A1 = [
       "ja": "カナダ",
       "zh": "加拿大",
       "ru": "Канада",
-      "fr": "Canada"
+      "fr": "le Canada"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "북아메리카 대륙 북쪽에 있는 큰 나라의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kaenada"
+      "ko_gloss": "북아메리카 대륙 북쪽에 있는 큰 나라의 이름.",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_7820",
+    "lang": "ko",
     "lemma": "커피숍",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "keopisyop"
+    },
     "meanings": {
       "ko": "커피숍",
       "en": "coffee shop",
@@ -4087,27 +3947,25 @@ const WORDS_KO_A1 = [
       "ja": "コーヒーショップ",
       "zh": "咖啡店",
       "ru": "кофейня",
-      "fr": "café"
+      "fr": "le café"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "커피나 다른 음료를 마실 수 있는 가게."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "keopisyop"
     }
   },
   {
     "id": "ko_7825",
+    "lang": "ko",
     "lemma": "케이크",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "keikeu"
+    },
     "meanings": {
       "ko": "케이크",
       "en": "cake",
@@ -4118,27 +3976,25 @@ const WORDS_KO_A1 = [
       "ja": "ケーキ",
       "zh": "蛋糕",
       "ru": "торт",
-      "fr": "gâteau"
+      "fr": "le gâteau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밀가루, 설탕, 달걀 등으로 만들어 구운 달콤한 서양 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "keikeu"
     }
   },
   {
     "id": "ko_7843",
+    "lang": "ko",
     "lemma": "콧물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kotmul"
+    },
     "meanings": {
       "ko": "콧물",
       "en": "snot",
@@ -4149,27 +4005,25 @@ const WORDS_KO_A1 = [
       "ja": "鼻水",
       "zh": "鼻涕",
       "ru": "насморк",
-      "fr": "morve"
+      "fr": "la morve"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "코에서 흘러나오는 끈적끈적한 액체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kotmul"
     }
   },
   {
     "id": "ko_7880",
+    "lang": "ko",
     "lemma": "탕수육",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "tangsuyuk"
+    },
     "meanings": {
       "ko": "탕수육",
       "en": "tangsuyuk",
@@ -4180,27 +4034,25 @@ const WORDS_KO_A1 = [
       "ja": "タンスユク",
       "zh": "糖醋肉",
       "ru": "тансуюк",
-      "fr": "tangsuyuk"
+      "fr": "le tangsuyuk"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돼지고기를 튀겨 새콤달콤한 소스를 부어 먹는 중국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "tangsuyuk"
     }
   },
   {
     "id": "ko_7881",
+    "lang": "ko",
     "lemma": "태국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "taeguk"
+    },
     "meanings": {
       "ko": "태국",
       "en": "Thailand",
@@ -4211,27 +4063,25 @@ const WORDS_KO_A1 = [
       "ja": "タイ",
       "zh": "泰国",
       "ru": "Таиланд",
-      "fr": "Thaïlande"
+      "fr": "la Thaïlande"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "동남아시아에 있는 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "taeguk"
     }
   },
   {
     "id": "ko_7883",
+    "lang": "ko",
     "lemma": "태극기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "taegeukgi"
+    },
     "meanings": {
       "ko": "태극기",
       "en": "Taegeukgi",
@@ -4244,25 +4094,26 @@ const WORDS_KO_A1 = [
       "ru": "Тхэгыкки",
       "fr": "Taegeukgi"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "대한민국의 국기 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "taegeukgi"
+      "ko_gloss": "대한민국의 국기 이름.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_7890",
+    "lang": "ko",
     "lemma": "택배",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "taekbae"
+    },
     "meanings": {
       "ko": "택배",
       "en": "parcel delivery",
@@ -4273,27 +4124,25 @@ const WORDS_KO_A1 = [
       "ja": "宅配便",
       "zh": "快递",
       "ru": "доставка посылок",
-      "fr": "livraison de colis"
+      "fr": "la livraison de colis"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 고객에게 직접 배달해 주는 서비스"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "taekbae"
     }
   },
   {
     "id": "ko_7903",
+    "lang": "ko",
     "lemma": "테니스장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "teniseujang"
+    },
     "meanings": {
       "ko": "테니스장",
       "en": "tennis court",
@@ -4304,30 +4153,28 @@ const WORDS_KO_A1 = [
       "ja": "テニスコート",
       "zh": "网球场",
       "ru": "теннисный корт",
-      "fr": "court de tennis"
+      "fr": "le court de tennis"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "테니스를 칠 수 있도록 만들어 놓은 장소"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "teniseujang"
     }
   },
   {
     "id": "ko_7942",
+    "lang": "ko",
     "lemma": "튀기다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "twigida"
+    },
     "meanings": {
       "ko": "튀기다",
-      "en": "to splash",
+      "en": "splash",
       "de": "spritzen",
       "es": "salpicar",
       "it": "schizzare",
@@ -4337,26 +4184,23 @@ const WORDS_KO_A1 = [
       "ru": "брызгать",
       "fr": "éclabousser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물이나 기름 같은 액체가 밖으로 흩어져 나가게 하다."
-    },
-    "infinitive": "튀기다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "twigida"
     }
   },
   {
     "id": "ko_8001",
+    "lang": "ko",
     "lemma": "편리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pyeonri"
+    },
     "meanings": {
       "ko": "편리",
       "en": "convenience",
@@ -4367,27 +4211,25 @@ const WORDS_KO_A1 = [
       "ja": "便利",
       "zh": "便利",
       "ru": "удобство",
-      "fr": "commodité"
+      "fr": "la commodité"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "이용하기 쉽고 편한 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pyeonri"
     }
   },
   {
     "id": "ko_8003",
+    "lang": "ko",
     "lemma": "편안",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pyeonan"
+    },
     "meanings": {
       "ko": "편안",
       "en": "comfort",
@@ -4398,22 +4240,17 @@ const WORDS_KO_A1 = [
       "ja": "快適さ",
       "zh": "舒适",
       "ru": "комфорт",
-      "fr": "confort"
+      "fr": "le confort"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 불편함 없이 편하고 안정된 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pyeonan"
     }
   },
   {
     "id": "ko_8008",
+    "lang": "ko",
     "lemma": "편찮다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4431,7 +4268,6 @@ const WORDS_KO_A1 = [
       "ru": "нездоровый",
       "fr": "indisposé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "(높임말) 몸이 아프거나 건강하지 못하다."
     },
@@ -4441,13 +4277,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8062",
+    "lang": "ko",
     "lemma": "프라이팬",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "peuraipaen"
+    },
     "meanings": {
       "ko": "프라이팬",
       "en": "frying pan",
@@ -4458,27 +4298,25 @@ const WORDS_KO_A1 = [
       "ja": "フライパン",
       "zh": "平底锅",
       "ru": "сковорода",
-      "fr": "poêle"
+      "fr": "la poêle"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 볶거나 지질 때 사용하는 납작한 냄비."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "peuraipaen"
     }
   },
   {
     "id": "ko_8063",
+    "lang": "ko",
     "lemma": "프랑스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "peurangseu"
+    },
     "meanings": {
       "ko": "프랑스",
       "en": "France",
@@ -4489,27 +4327,25 @@ const WORDS_KO_A1 = [
       "ja": "フランス",
       "zh": "法国",
       "ru": "Франция",
-      "fr": "France"
+      "fr": "la France"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "유럽 서부에 있는 나라의 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "peurangseu"
     }
   },
   {
     "id": "ko_8099",
+    "lang": "ko",
     "lemma": "하늘색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "haneulsaek"
+    },
     "meanings": {
       "ko": "하늘색",
       "en": "sky blue",
@@ -4520,27 +4356,25 @@ const WORDS_KO_A1 = [
       "ja": "空色",
       "zh": "天蓝色",
       "ru": "небесно-голубой",
-      "fr": "bleu ciel"
+      "fr": "le bleu ciel"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "맑은 하늘과 같은 푸른색."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haneulsaek"
     }
   },
   {
     "id": "ko_8105",
+    "lang": "ko",
     "lemma": "하숙비",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hasukbi"
+    },
     "meanings": {
       "ko": "하숙비",
       "en": "boarding fee",
@@ -4551,27 +4385,25 @@ const WORDS_KO_A1 = [
       "ja": "下宿代",
       "zh": "寄宿费",
       "ru": "плата за пансион",
-      "fr": "frais de pension"
+      "fr": "les frais de pension"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남의 집에서 숙식을 하는 대가로 내는 돈."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hasukbi"
     }
   },
   {
     "id": "ko_8131",
+    "lang": "ko",
     "lemma": "한강",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hangang"
+    },
     "meanings": {
       "ko": "한강",
       "en": "Han River",
@@ -4582,27 +4414,25 @@ const WORDS_KO_A1 = [
       "ja": "漢江",
       "zh": "汉江",
       "ru": "река Ханган",
-      "fr": "fleuve Han"
+      "fr": "le fleuve Han"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대한민국 서울을 가로질러 흐르는 큰 강 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hangang"
     }
   },
   {
     "id": "ko_8135",
+    "lang": "ko",
     "lemma": "한국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hanguk"
+    },
     "meanings": {
       "ko": "한국",
       "en": "Korea",
@@ -4613,27 +4443,25 @@ const WORDS_KO_A1 = [
       "ja": "韓国",
       "zh": "韩国",
       "ru": "Корея",
-      "fr": "Corée"
+      "fr": "la Corée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "동아시아에 있는 대한민국이라는 나라 이름."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanguk"
     }
   },
   {
     "id": "ko_8152",
+    "lang": "ko",
     "lemma": "한식집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hansikjip"
+    },
     "meanings": {
       "ko": "한식집",
       "en": "Korean restaurant",
@@ -4644,27 +4472,25 @@ const WORDS_KO_A1 = [
       "ja": "韓国料理店",
       "zh": "韩国餐厅",
       "ru": "корейский ресторан",
-      "fr": "restaurant coréen"
+      "fr": "le restaurant coréen"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한국 음식을 파는 식당."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hansikjip"
     }
   },
   {
     "id": "ko_8154",
+    "lang": "ko",
     "lemma": "한옥",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hanok"
+    },
     "meanings": {
       "ko": "한옥",
       "en": "hanok",
@@ -4677,25 +4503,26 @@ const WORDS_KO_A1 = [
       "ru": "ханок",
       "fr": "hanok"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "한국의 전통적인 건축 양식으로 지은 집."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanok"
+      "ko_gloss": "한국의 전통적인 건축 양식으로 지은 집.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_8162",
+    "lang": "ko",
     "lemma": "한턱",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "hanteok"
+    },
     "meanings": {
       "ko": "한턱",
       "en": "treat",
@@ -4706,27 +4533,25 @@ const WORDS_KO_A1 = [
       "ja": "おごり",
       "zh": "请客",
       "ru": "угощение",
-      "fr": "une gâterie"
+      "fr": "la gâterie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 음식이나 술을 대접하는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanteok"
     }
   },
   {
     "id": "ko_8176",
+    "lang": "ko",
     "lemma": "항공권",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "hanggonggwon"
+    },
     "meanings": {
       "ko": "항공권",
       "en": "airline ticket",
@@ -4737,27 +4562,25 @@ const WORDS_KO_A1 = [
       "ja": "航空券",
       "zh": "机票",
       "ru": "авиабилет",
-      "fr": "un billet d'avion"
+      "fr": "le billet d'avion"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "비행기를 탈 수 있는 표."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanggonggwon"
     }
   },
   {
     "id": "ko_8236",
+    "lang": "ko",
     "lemma": "헬스클럽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "helseukeulreop"
+    },
     "meanings": {
       "ko": "헬스클럽",
       "en": "health club",
@@ -4768,22 +4591,17 @@ const WORDS_KO_A1 = [
       "ja": "ヘルスクラブ",
       "zh": "健身俱乐部",
       "ru": "фитнес-клуб",
-      "fr": "un club de sport"
+      "fr": "le club de sport"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "운동 기구를 갖추고 사람들이 운동하는 장소."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "helseukeulreop"
     }
   },
   {
     "id": "ko_8285",
+    "lang": "ko",
     "lemma": "화내다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4801,21 +4619,18 @@ const WORDS_KO_A1 = [
       "ru": "сердиться",
       "fr": "se fâcher"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 사람 때문에 성이 나서 그 감정을 밖으로 드러내다."
     },
-    "infinitive": "화내다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "hwanaeda"
     }
   },
   {
     "id": "ko_8317",
+    "lang": "ko",
     "lemma": "환전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4833,25 +4648,26 @@ const WORDS_KO_A1 = [
       "ru": "обмен валюты",
       "fr": "le change"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 나라의 돈을 다른 나라의 돈으로 바꾸는 것."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "hwanjeon"
     }
   },
   {
     "id": "ko_8332",
+    "lang": "ko",
     "lemma": "회사원",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "hoesawon"
+    },
     "meanings": {
       "ko": "회사원",
       "en": "office worker",
@@ -4862,27 +4678,25 @@ const WORDS_KO_A1 = [
       "ja": "会社員",
       "zh": "公司职员",
       "ru": "офисный работник",
-      "fr": "un employé de bureau"
+      "fr": "l'employé de bureau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "회사에서 일하는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hoesawon"
     }
   },
   {
     "id": "ko_8359",
+    "lang": "ko",
     "lemma": "휴게실",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyugesil"
+    },
     "meanings": {
       "ko": "휴게실",
       "en": "lounge",
@@ -4893,27 +4707,25 @@ const WORDS_KO_A1 = [
       "ja": "休憩室",
       "zh": "休息室",
       "ru": "комната отдыха",
-      "fr": "un salon"
+      "fr": "le salon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 잠시 쉬거나 기다릴 수 있도록 마련된 방."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyugesil"
     }
   },
   {
     "id": "ko_8360",
+    "lang": "ko",
     "lemma": "휴대폰",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyudaepon"
+    },
     "meanings": {
       "ko": "휴대폰",
       "en": "mobile phone",
@@ -4924,22 +4736,17 @@ const WORDS_KO_A1 = [
       "ja": "携帯電話",
       "zh": "手机",
       "ru": "мобильный телефон",
-      "fr": "un portable"
+      "fr": "le portable"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가지고 다니면서 통화할 수 있는 전화기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyudaepon"
     }
   },
   {
     "id": "ko_8100",
+    "lang": "ko",
     "lemma": "하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4957,21 +4764,18 @@ const WORDS_KO_A1 = [
       "ru": "делать",
       "fr": "faire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 행동이나 일을 이루거나 만들어 내는 것."
     },
-    "infinitive": "하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "hada"
     }
   },
   {
     "id": "ko_6946",
+    "lang": "ko",
     "lemma": "있다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4989,7 +4793,6 @@ const WORDS_KO_A1 = [
       "ru": "быть",
       "fr": "exister"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 특성, 상태 등을 가지고 있음을 나타냅니다."
     },
@@ -4999,8 +4802,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4564",
+    "lang": "ko",
     "lemma": "되다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5018,21 +4822,18 @@ const WORDS_KO_A1 = [
       "ru": "становиться",
       "fr": "devenir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 결과로 바뀌거나 이루어지다"
     },
-    "infinitive": "되다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "doeda"
     }
   },
   {
     "id": "ko_6330",
+    "lang": "ko",
     "lemma": "없다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5050,7 +4851,6 @@ const WORDS_KO_A1 = [
       "ru": "отсутствовать",
       "fr": "ne pas exister"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 존재하지 않거나 가지고 있지 않은 상태이다."
     },
@@ -5060,13 +4860,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5488",
+    "lang": "ko",
     "lemma": "사람",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saram"
+    },
     "meanings": {
       "ko": "사람",
       "en": "person",
@@ -5077,22 +4881,17 @@ const WORDS_KO_A1 = [
       "ja": "人",
       "zh": "人",
       "ru": "человек",
-      "fr": "une personne"
+      "fr": "la personne"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생각하고 말하며 사회생활을 하는 존재."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saram"
     }
   },
   {
     "id": "ko_6145",
+    "lang": "ko",
     "lemma": "아니다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5110,7 +4909,6 @@ const WORDS_KO_A1 = [
       "ru": "не быть",
       "fr": "ne pas être"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 내용이 옳지 않거나 그렇지 않다."
     },
@@ -5120,8 +4918,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5233",
+    "lang": "ko",
     "lemma": "보다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5139,21 +4938,18 @@ const WORDS_KO_A1 = [
       "ru": "смотреть",
       "fr": "voir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "눈으로 사물이나 현상을 인지하는 행동."
     },
-    "infinitive": "보다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "boda"
     }
   },
   {
     "id": "ko_4654",
+    "lang": "ko",
     "lemma": "때",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5171,20 +4967,18 @@ const WORDS_KO_A1 = [
       "ru": "время",
       "fr": "le temps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 일어나거나 진행되는 시간적인 순간."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "ttae"
     }
   },
   {
     "id": "ko_3494",
+    "lang": "ko",
     "lemma": "같다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5202,7 +4996,6 @@ const WORDS_KO_A1 = [
       "ru": "быть одинаковым",
       "fr": "être le même"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서로 비교하여 차이가 없거나 비슷하다."
     },
@@ -5212,8 +5005,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3372",
+    "lang": "ko",
     "lemma": "가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5231,26 +5025,26 @@ const WORDS_KO_A1 = [
       "ru": "идти",
       "fr": "aller"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소로 이동하거나 움직이다"
     },
-    "infinitive": "가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gada"
     }
   },
   {
     "id": "ko_4770",
+    "lang": "ko",
     "lemma": "말",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mal"
+    },
     "meanings": {
       "ko": "말",
       "en": "word",
@@ -5261,22 +5055,17 @@ const WORDS_KO_A1 = [
       "ja": "言葉",
       "zh": "话",
       "ru": "слово",
-      "fr": "un mot"
+      "fr": "le mot"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생각이나 느낌을 소리나 글자로 나타내는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mal"
     }
   },
   {
     "id": "ko_6877",
+    "lang": "ko",
     "lemma": "일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5295,20 +5084,18 @@ const WORDS_KO_A1 = [
       "ru": "работа",
       "fr": "le travail"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 목적을 가지고 하는 활동이나 해야 할 과제."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "il"
     }
   },
   {
     "id": "ko_4779",
+    "lang": "ko",
     "lemma": "말하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5326,21 +5113,18 @@ const WORDS_KO_A1 = [
       "ru": "говорить",
       "fr": "parler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생각이나 느낌을 소리 내어 표현하다."
     },
-    "infinitive": "말하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "malhada"
     }
   },
   {
     "id": "ko_6492",
+    "lang": "ko",
     "lemma": "오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5358,21 +5142,18 @@ const WORDS_KO_A1 = [
       "ru": "приходить",
       "fr": "venir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소나 사람에게 가까이 다가오거나 도착하는 것."
     },
-    "infinitive": "오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "oda"
     }
   },
   {
     "id": "ko_6203",
+    "lang": "ko",
     "lemma": "알다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5390,21 +5171,18 @@ const WORDS_KO_A1 = [
       "ru": "знать",
       "fr": "savoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 정보를 머릿속에 가지고 있다."
     },
-    "infinitive": "알다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "alda"
     }
   },
   {
     "id": "ko_3898",
+    "lang": "ko",
     "lemma": "그렇다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5422,7 +5200,6 @@ const WORDS_KO_A1 = [
       "ru": "быть таким",
       "fr": "être ainsi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "앞서 말한 내용이나 상황과 같거나 그와 비슷한 상태"
     },
@@ -5432,8 +5209,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7850",
+    "lang": "ko",
     "lemma": "크다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5451,7 +5229,6 @@ const WORDS_KO_A1 = [
       "ru": "большой",
       "fr": "grand"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "부피나 넓이, 키 등이 보통보다 넓거나 높다."
     },
@@ -5461,8 +5238,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4768",
+    "lang": "ko",
     "lemma": "많다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5480,7 +5258,6 @@ const WORDS_KO_A1 = [
       "ru": "много",
       "fr": "beaucoup de"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수나 양이 보통보다 훨씬 더 많거나 풍부하다."
     },
@@ -5490,8 +5267,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7322",
+    "lang": "ko",
     "lemma": "좋다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5509,7 +5287,6 @@ const WORDS_KO_A1 = [
       "ru": "хороший",
       "fr": "bon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 대상이나 상황이 마음에 들거나 만족스럽다."
     },
@@ -5519,8 +5296,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5070",
+    "lang": "ko",
     "lemma": "받다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5538,27 +5316,27 @@ const WORDS_KO_A1 = [
       "ru": "получать",
       "fr": "recevoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람이 주는 것을 가지게 되다."
     },
-    "infinitive": "받다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "batda"
     }
   },
   {
     "id": "ko_7531",
+    "lang": "ko",
     "lemma": "집",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ko": "jip"
+    },
     "meanings": {
       "ko": "집",
       "en": "house",
@@ -5569,22 +5347,17 @@ const WORDS_KO_A1 = [
       "ja": "家",
       "zh": "房子",
       "ru": "дом",
-      "fr": "une maison"
+      "fr": "la maison"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 살기 위해 지은 건물이나 공간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jip"
     }
   },
   {
     "id": "ko_4131",
+    "lang": "ko",
     "lemma": "나오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5602,26 +5375,26 @@ const WORDS_KO_A1 = [
       "ru": "выходить",
       "fr": "sortir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 공간의 안에서 밖으로 이동하거나 나타나다."
     },
-    "infinitive": "나오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "naoda"
     }
   },
   {
     "id": "ko_4946",
+    "lang": "ko",
     "lemma": "문제",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "munje"
+    },
     "meanings": {
       "ko": "문제",
       "en": "problem",
@@ -5632,22 +5405,17 @@ const WORDS_KO_A1 = [
       "ja": "問題",
       "zh": "问题",
       "ru": "проблема",
-      "fr": "problème"
+      "fr": "le problème"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해결해야 할 어려운 일이나 질문."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "munje"
     }
   },
   {
     "id": "ko_5549",
+    "lang": "ko",
     "lemma": "살다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5665,21 +5433,18 @@ const WORDS_KO_A1 = [
       "ru": "жить",
       "fr": "vivre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생명을 유지하며 존재하거나 어떤 장소에서 생활하다."
     },
-    "infinitive": "살다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "salda"
     }
   },
   {
     "id": "ko_5622",
+    "lang": "ko",
     "lemma": "생각하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5697,21 +5462,18 @@ const WORDS_KO_A1 = [
       "ru": "думать",
       "fr": "penser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것에 대해 마음속으로 헤아리거나 판단하다."
     },
-    "infinitive": "생각하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "saenggakhada"
     }
   },
   {
     "id": "ko_4864",
+    "lang": "ko",
     "lemma": "모르다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5729,21 +5491,18 @@ const WORDS_KO_A1 = [
       "ru": "не знать",
       "fr": "ne pas savoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 방법을 알지 못하다"
     },
-    "infinitive": "모르다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "moreuda"
     }
   },
   {
     "id": "ko_5802",
+    "lang": "ko",
     "lemma": "속",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5761,20 +5520,18 @@ const WORDS_KO_A1 = [
       "ru": "внутри",
       "fr": "l'intérieur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 공간의 안쪽 부분."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "sok"
     }
   },
   {
     "id": "ko_4754",
+    "lang": "ko",
     "lemma": "만들다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5792,21 +5549,18 @@ const WORDS_KO_A1 = [
       "ru": "делать",
       "fr": "faire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "재료를 사용하여 어떤 물건이나 작품을 새롭게 이루어 내다."
     },
-    "infinitive": "만들다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "mandeulda"
     }
   },
   {
     "id": "ko_6218",
+    "lang": "ko",
     "lemma": "앞",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5824,20 +5578,18 @@ const WORDS_KO_A1 = [
       "ru": "перед",
       "fr": "le devant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것의 바로 맞은편이나 진행하는 방향을 가리키는 위치."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "ap"
     }
   },
   {
     "id": "ko_4822",
+    "lang": "ko",
     "lemma": "먹다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5855,21 +5607,18 @@ const WORDS_KO_A1 = [
       "ru": "есть",
       "fr": "manger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식이나 약 등을 입을 통해 몸속으로 들여보내다."
     },
-    "infinitive": "먹다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "meokda"
     }
   },
   {
     "id": "ko_5619",
+    "lang": "ko",
     "lemma": "생각",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5887,20 +5636,18 @@ const WORDS_KO_A1 = [
       "ru": "мысль",
       "fr": "la pensée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것에 대해 마음속으로 헤아리거나 판단하는 것."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "saenggak"
     }
   },
   {
     "id": "ko_6286",
+    "lang": "ko",
     "lemma": "어떻다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5918,7 +5665,6 @@ const WORDS_KO_A1 = [
       "ru": "как",
       "fr": "comment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양에 대해 묻거나 말할 때 쓴다."
     },
@@ -5928,13 +5674,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6364",
+    "lang": "ko",
     "lemma": "여자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeoja"
+    },
     "meanings": {
       "ko": "여자",
       "en": "woman",
@@ -5945,22 +5695,17 @@ const WORDS_KO_A1 = [
       "ja": "女性",
       "zh": "女人",
       "ru": "женщина",
-      "fr": "femme"
+      "fr": "la femme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "성별이 여성인 사람을 가리키는 가장 일반적인 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeoja"
     }
   },
   {
     "id": "ko_4594",
+    "lang": "ko",
     "lemma": "뒤",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5978,20 +5723,18 @@ const WORDS_KO_A1 = [
       "ru": "сзади",
       "fr": "l'arrière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것의 뒷부분이나 시간적으로 나중을 이르는 말"
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "dwi"
     }
   },
   {
     "id": "ko_4609",
+    "lang": "ko",
     "lemma": "듣다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6009,21 +5752,18 @@ const WORDS_KO_A1 = [
       "ru": "слушать",
       "fr": "écouter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리나 말을 귀로 받아들이다."
     },
-    "infinitive": "듣다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "deutda"
     }
   },
   {
     "id": "ko_4611",
+    "lang": "ko",
     "lemma": "들다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6041,21 +5781,18 @@ const WORDS_KO_A1 = [
       "ru": "держать",
       "fr": "tenir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 손에 잡고 위로 올리거나 옮기다."
     },
-    "infinitive": "들다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "deulda"
     }
   },
   {
     "id": "ko_3413",
+    "lang": "ko",
     "lemma": "가지다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6073,26 +5810,26 @@ const WORDS_KO_A1 = [
       "ru": "иметь",
       "fr": "avoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 권리 등을 소유하거나 지니고 있다."
     },
-    "infinitive": "가지다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gajida"
     }
   },
   {
     "id": "ko_6162",
+    "lang": "ko",
     "lemma": "아이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ai"
+    },
     "meanings": {
       "ko": "아이",
       "en": "child",
@@ -6103,27 +5840,25 @@ const WORDS_KO_A1 = [
       "ja": "子供",
       "zh": "孩子",
       "ru": "ребёнок",
-      "fr": "enfant"
+      "fr": "l'enfant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아직 어른이 되지 않은 어린 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ai"
     }
   },
   {
     "id": "ko_5944",
+    "lang": "ko",
     "lemma": "시간",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sigan"
+    },
     "meanings": {
       "ko": "시간",
       "en": "time",
@@ -6134,22 +5869,17 @@ const WORDS_KO_A1 = [
       "ja": "時間",
       "zh": "时间",
       "ru": "время",
-      "fr": "temps"
+      "fr": "le temps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 진행되는 동안의 길이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sigan"
     }
   },
   {
     "id": "ko_7334",
+    "lang": "ko",
     "lemma": "주다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6167,21 +5897,18 @@ const WORDS_KO_A1 = [
       "ru": "давать",
       "fr": "donner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 마음을 다른 사람에게 건네다."
     },
-    "infinitive": "주다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "juda"
     }
   },
   {
     "id": "ko_4116",
+    "lang": "ko",
     "lemma": "나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6199,21 +5926,18 @@ const WORDS_KO_A1 = [
       "ru": "появляться",
       "fr": "apparaître"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "없던 것이 생겨 밖으로 나오거나 나타나는 상태가 되다."
     },
-    "infinitive": "나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "nada"
     }
   },
   {
     "id": "ko_6777",
+    "lang": "ko",
     "lemma": "이렇다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6231,7 +5955,6 @@ const WORDS_KO_A1 = [
       "ru": "такой",
       "fr": "être comme ça"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양이 '이와 같다'는 것을 나타내는 말."
     },
@@ -6241,13 +5964,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6298",
+    "lang": "ko",
     "lemma": "어머니",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eomeoni"
+    },
     "meanings": {
       "ko": "어머니",
       "en": "mother",
@@ -6258,27 +5985,25 @@ const WORDS_KO_A1 = [
       "ja": "母",
       "zh": "母亲",
       "ru": "мать",
-      "fr": "mère"
+      "fr": "la mère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자식을 낳아 기른 여자 부모를 이르는 말이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eomeoni"
     }
   },
   {
     "id": "ko_4288",
+    "lang": "ko",
     "lemma": "눈",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nun"
+    },
     "meanings": {
       "ko": "눈",
       "en": "eye",
@@ -6289,27 +6014,25 @@ const WORDS_KO_A1 = [
       "ja": "目",
       "zh": "眼睛",
       "ru": "глаз",
-      "fr": "œil"
+      "fr": "l'œil"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사물을 보고 빛을 느끼는 몸의 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nun"
     }
   },
   {
     "id": "ko_4340",
+    "lang": "ko",
     "lemma": "다음",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daeum"
+    },
     "meanings": {
       "ko": "다음",
       "en": "next",
@@ -6320,27 +6043,25 @@ const WORDS_KO_A1 = [
       "ja": "次",
       "zh": "下一个",
       "ru": "следующий",
-      "fr": "prochain"
+      "fr": "le prochain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 순서의 바로 뒤."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daeum"
     }
   },
   {
     "id": "ko_7121",
+    "lang": "ko",
     "lemma": "전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeon"
+    },
     "meanings": {
       "ko": "전",
       "en": "before",
@@ -6351,27 +6072,25 @@ const WORDS_KO_A1 = [
       "ja": "前",
       "zh": "之前",
       "ru": "до",
-      "fr": "avant"
+      "fr": "l'avant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 시간이나 시점보다 앞선 때"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeon"
     }
   },
   {
     "id": "ko_3690",
+    "lang": "ko",
     "lemma": "곳",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "got"
+    },
     "meanings": {
       "ko": "곳",
       "en": "place",
@@ -6382,22 +6101,17 @@ const WORDS_KO_A1 = [
       "ja": "場所",
       "zh": "地方",
       "ru": "место",
-      "fr": "endroit"
+      "fr": "l'endroit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 위치나 공간을 나타내는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "got"
     }
   },
   {
     "id": "ko_6175",
+    "lang": "ko",
     "lemma": "안",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6415,20 +6129,18 @@ const WORDS_KO_A1 = [
       "ru": "внутри",
       "fr": "l'intérieur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물체나 공간의 바깥쪽이 아닌 내부."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "an"
     }
   },
   {
     "id": "ko_6669",
+    "lang": "ko",
     "lemma": "위",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6446,25 +6158,26 @@ const WORDS_KO_A1 = [
       "ru": "верх",
       "fr": "le haut"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것의 높은 쪽이나 윗부분."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "wi"
     }
   },
   {
     "id": "ko_6626",
+    "lang": "ko",
     "lemma": "운동",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "undong"
+    },
     "meanings": {
       "ko": "운동",
       "en": "exercise",
@@ -6475,28 +6188,26 @@ const WORDS_KO_A1 = [
       "ja": "運動",
       "zh": "运动",
       "ru": "спорт",
-      "fr": "exercice"
+      "fr": "l'exercice"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸을 움직여 건강을 좋게 하거나 즐기는 활동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "undong"
     }
   },
   {
     "id": "ko_8112",
+    "lang": "ko",
     "lemma": "학교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "hakgyo"
+    },
     "meanings": {
       "ko": "학교",
       "en": "school",
@@ -6507,22 +6218,17 @@ const WORDS_KO_A1 = [
       "ja": "学校",
       "zh": "学校",
       "ru": "школа",
-      "fr": "école"
+      "fr": "l'école"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학생들이 모여 공부하고 배우는 교육 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hakgyo"
     }
   },
   {
     "id": "ko_5982",
+    "lang": "ko",
     "lemma": "시작하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6540,26 +6246,26 @@ const WORDS_KO_A1 = [
       "ru": "начинать",
       "fr": "commencer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 행동을 처음으로 하다."
     },
-    "infinitive": "시작하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sijakhada"
     }
   },
   {
     "id": "ko_4521",
+    "lang": "ko",
     "lemma": "돈",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "don"
+    },
     "meanings": {
       "ko": "돈",
       "en": "money",
@@ -6570,27 +6276,25 @@ const WORDS_KO_A1 = [
       "ja": "お金",
       "zh": "钱",
       "ru": "деньги",
-      "fr": "argent"
+      "fr": "l'argent"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 사거나 서비스를 이용할 때 내는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "don"
     }
   },
   {
     "id": "ko_4144",
+    "lang": "ko",
     "lemma": "날",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nal"
+    },
     "meanings": {
       "ko": "날",
       "en": "day",
@@ -6601,27 +6305,25 @@ const WORDS_KO_A1 = [
       "ja": "日",
       "zh": "天",
       "ru": "день",
-      "fr": "jour"
+      "fr": "le jour"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 뜨고 지는 동안의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nal"
     }
   },
   {
     "id": "ko_7786",
+    "lang": "ko",
     "lemma": "친구",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chingu"
+    },
     "meanings": {
       "ko": "친구",
       "en": "friend",
@@ -6632,27 +6334,25 @@ const WORDS_KO_A1 = [
       "ja": "友達",
       "zh": "朋友",
       "ru": "друг",
-      "fr": "ami"
+      "fr": "l'ami"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서로 가깝게 지내며 마음을 나누는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chingu"
     }
   },
   {
     "id": "ko_4733",
+    "lang": "ko",
     "lemma": "마음",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "maeum"
+    },
     "meanings": {
       "ko": "마음",
       "en": "mind",
@@ -6663,27 +6363,25 @@ const WORDS_KO_A1 = [
       "ja": "心",
       "zh": "心",
       "ru": "разум",
-      "fr": "esprit"
+      "fr": "l'esprit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생각이나 감정을 느끼는 사람의 정신적인 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maeum"
     }
   },
   {
     "id": "ko_8347",
+    "lang": "ko",
     "lemma": "후",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hu"
+    },
     "meanings": {
       "ko": "후",
       "en": "aftermath",
@@ -6694,27 +6392,25 @@ const WORDS_KO_A1 = [
       "ja": "後",
       "zh": "以后",
       "ru": "последствие",
-      "fr": "conséquences"
+      "fr": "les conséquences"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 일어난 뒤의 시간이나 순서."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hu"
     }
   },
   {
     "id": "ko_6157",
+    "lang": "ko",
     "lemma": "아버지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "abeoji"
+    },
     "meanings": {
       "ko": "아버지",
       "en": "father",
@@ -6725,27 +6421,25 @@ const WORDS_KO_A1 = [
       "ja": "父",
       "zh": "父亲",
       "ru": "отец",
-      "fr": "père"
+      "fr": "le père"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자녀를 낳은 남자 부모를 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "abeoji"
     }
   },
   {
     "id": "ko_4167",
+    "lang": "ko",
     "lemma": "남자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "namja"
+    },
     "meanings": {
       "ko": "남자",
       "en": "man",
@@ -6756,27 +6450,25 @@ const WORDS_KO_A1 = [
       "ja": "男",
       "zh": "男人",
       "ru": "мужчина",
-      "fr": "homme"
+      "fr": "l'homme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어른이 된 남성 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namja"
     }
   },
   {
     "id": "ko_4894",
+    "lang": "ko",
     "lemma": "몸",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mom"
+    },
     "meanings": {
       "ko": "몸",
       "en": "body",
@@ -6787,27 +6479,25 @@ const WORDS_KO_A1 = [
       "ja": "体",
       "zh": "身体",
       "ru": "тело",
-      "fr": "corps"
+      "fr": "le corps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물의 전체적인 신체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mom"
     }
   },
   {
     "id": "ko_6316",
+    "lang": "ko",
     "lemma": "얼굴",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eolgul"
+    },
     "meanings": {
       "ko": "얼굴",
       "en": "face",
@@ -6818,22 +6508,17 @@ const WORDS_KO_A1 = [
       "ja": "顔",
       "zh": "脸",
       "ru": "лицо",
-      "fr": "visage"
+      "fr": "le visage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물의 머리 앞쪽 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eolgul"
     }
   },
   {
     "id": "ko_4616",
+    "lang": "ko",
     "lemma": "들어가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6851,21 +6536,18 @@ const WORDS_KO_A1 = [
       "ru": "входить",
       "fr": "entrer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 공간의 안쪽으로 이동하다."
     },
-    "infinitive": "들어가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "deuleogada"
     }
   },
   {
     "id": "ko_4329",
+    "lang": "ko",
     "lemma": "다르다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6883,7 +6565,6 @@ const WORDS_KO_A1 = [
       "ru": "другой",
       "fr": "différent"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서로 같지 않거나 차이가 있는 상태."
     },
@@ -6893,13 +6574,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4956",
+    "lang": "ko",
     "lemma": "물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mul"
+    },
     "meanings": {
       "ko": "물",
       "en": "water",
@@ -6910,22 +6595,17 @@ const WORDS_KO_A1 = [
       "ja": "水",
       "zh": "水",
       "ru": "вода",
-      "fr": "eau"
+      "fr": "l'eau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "마시거나 씻는 데 사용하는 투명한 액체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mul"
     }
   },
   {
     "id": "ko_4751",
+    "lang": "ko",
     "lemma": "만나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6943,21 +6623,18 @@ const WORDS_KO_A1 = [
       "ru": "встречать",
       "fr": "rencontrer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 대상을 마주하여 보거나 함께 있게 되다."
     },
-    "infinitive": "만나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "mannada"
     }
   },
   {
     "id": "ko_4186",
+    "lang": "ko",
     "lemma": "내다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6975,21 +6652,18 @@ const WORDS_KO_A1 = [
       "ru": "платить",
       "fr": "payer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈이나 비용을 지불하다."
     },
-    "infinitive": "내다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "naeda"
     }
   },
   {
     "id": "ko_6119",
+    "lang": "ko",
     "lemma": "쓰다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7008,26 +6682,26 @@ const WORDS_KO_A1 = [
       "ru": "писать",
       "fr": "écrire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글자나 문장을 종이 등에 기록하다."
     },
-    "infinitive": "쓰다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sseuda"
     }
   },
   {
     "id": "ko_6793",
+    "lang": "ko",
     "lemma": "이번",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ibeon"
+    },
     "meanings": {
       "ko": "이번",
       "en": "occasion",
@@ -7038,28 +6712,26 @@ const WORDS_KO_A1 = [
       "ja": "今回",
       "zh": "这次",
       "ru": "случай",
-      "fr": "occasion"
+      "fr": "l'occasion"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "말하고 있는 바로 이 때나 기회."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ibeon"
     }
   },
   {
     "id": "ko_4030",
+    "lang": "ko",
     "lemma": "길",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "gil"
+    },
     "meanings": {
       "ko": "길",
       "en": "road",
@@ -7070,27 +6742,25 @@ const WORDS_KO_A1 = [
       "ja": "道",
       "zh": "路",
       "ru": "дорога",
-      "fr": "route"
+      "fr": "la route"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 다니거나 차가 다니도록 만들어진 곳"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gil"
     }
   },
   {
     "id": "ko_5637",
+    "lang": "ko",
     "lemma": "생활",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saenghwal"
+    },
     "meanings": {
       "ko": "생활",
       "en": "life",
@@ -7101,27 +6771,25 @@ const WORDS_KO_A1 = [
       "ja": "生活",
       "zh": "生活",
       "ru": "жизнь",
-      "fr": "vie"
+      "fr": "la vie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 살아가면서 하는 모든 활동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saenghwal"
     }
   },
   {
     "id": "ko_7434",
+    "lang": "ko",
     "lemma": "지금",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jigeum"
+    },
     "meanings": {
       "ko": "지금",
       "en": "present",
@@ -7132,27 +6800,25 @@ const WORDS_KO_A1 = [
       "ja": "今",
       "zh": "现在",
       "ru": "настоящее",
-      "fr": "présent"
+      "fr": "le présent"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "현재의 시간이나 바로 이 순간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jigeum"
     }
   },
   {
     "id": "ko_5519",
+    "lang": "ko",
     "lemma": "사이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sai"
+    },
     "meanings": {
       "ko": "사이",
       "en": "space",
@@ -7163,28 +6829,26 @@ const WORDS_KO_A1 = [
       "ja": "間",
       "zh": "之间",
       "ru": "пространство",
-      "fr": "espace"
+      "fr": "l'espace"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 물체나 사람의 중간에 있는 공간이나 관계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sai"
     }
   },
   {
     "id": "ko_6610",
+    "lang": "ko",
     "lemma": "우리나라",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "urinara"
+    },
     "meanings": {
       "ko": "우리나라",
       "en": "our country",
@@ -7197,20 +6861,20 @@ const WORDS_KO_A1 = [
       "ru": "наша страна",
       "fr": "notre pays"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "한국 사람들이 자신들의 나라를 친근하게 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "urinara"
+      "ko_gloss": "한국 사람들이 자신들의 나라를 친근하게 부르는 말.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6199",
+    "lang": "ko",
     "lemma": "앉다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7228,26 +6892,26 @@ const WORDS_KO_A1 = [
       "ru": "сидеть",
       "fr": "s'asseoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "엉덩이를 바닥이나 의자에 대고 몸을 세우다."
     },
-    "infinitive": "앉다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "anda"
     }
   },
   {
     "id": "ko_7638",
+    "lang": "ko",
     "lemma": "처음",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cheoeum"
+    },
     "meanings": {
       "ko": "처음",
       "en": "beginning",
@@ -7258,27 +6922,25 @@ const WORDS_KO_A1 = [
       "ja": "最初",
       "zh": "开始",
       "ru": "начало",
-      "fr": "début"
+      "fr": "le début"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 시간의 시작."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cheoeum"
     }
   },
   {
     "id": "ko_5811",
+    "lang": "ko",
     "lemma": "손",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "son"
+    },
     "meanings": {
       "ko": "손",
       "en": "hand",
@@ -7289,27 +6951,25 @@ const WORDS_KO_A1 = [
       "ja": "手",
       "zh": "手",
       "ru": "рука",
-      "fr": "main"
+      "fr": "la main"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "팔 끝에 붙어 물건을 잡거나 만지는 데 쓰는 신체 부위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "son"
     }
   },
   {
     "id": "ko_3893",
+    "lang": "ko",
     "lemma": "그때",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geuttae"
+    },
     "meanings": {
       "ko": "그때",
       "en": "then",
@@ -7322,20 +6982,18 @@ const WORDS_KO_A1 = [
       "ru": "тогда",
       "fr": "alors"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "과거의 어떤 특정한 시점."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geuttae"
+      "ko_gloss": "과거의 어떤 특정한 시점.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_7614",
+    "lang": "ko",
     "lemma": "찾다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7353,21 +7011,18 @@ const WORDS_KO_A1 = [
       "ru": "искать",
       "fr": "trouver"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잃어버린 것이나 원하는 것을 발견하려고 노력하다."
     },
-    "infinitive": "찾다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chatda"
     }
   },
   {
     "id": "ko_4112",
+    "lang": "ko",
     "lemma": "나가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7385,26 +7040,26 @@ const WORDS_KO_A1 = [
       "ru": "выходить",
       "fr": "sortir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소의 안에서 밖으로 향하여 움직이다."
     },
-    "infinitive": "나가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "nagada"
     }
   },
   {
     "id": "ko_6806",
+    "lang": "ko",
     "lemma": "이야기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "iyagi"
+    },
     "meanings": {
       "ko": "이야기",
       "en": "story",
@@ -7415,22 +7070,17 @@ const WORDS_KO_A1 = [
       "ja": "物語",
       "zh": "故事",
       "ru": "история",
-      "fr": "histoire"
+      "fr": "l'histoire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 사건에 대해 말하는 내용."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "iyagi"
     }
   },
   {
     "id": "ko_5485",
+    "lang": "ko",
     "lemma": "사다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7448,21 +7098,18 @@ const WORDS_KO_A1 = [
       "ru": "покупать",
       "fr": "acheter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 내고 물건을 자기 것으로 만드는 행동."
     },
-    "infinitive": "사다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sada"
     }
   },
   {
     "id": "ko_7036",
+    "lang": "ko",
     "lemma": "잡다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7480,27 +7127,27 @@ const WORDS_KO_A1 = [
       "ru": "ловить",
       "fr": "attraper"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "손으로 어떤 대상을 쥐거나 붙들다."
     },
-    "infinitive": "잡다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "japda"
     }
   },
   {
     "id": "ko_5676",
+    "lang": "ko",
     "lemma": "선생님",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "seonsaengnim"
+    },
     "meanings": {
       "ko": "선생님",
       "en": "teacher",
@@ -7511,22 +7158,17 @@ const WORDS_KO_A1 = [
       "ja": "先生",
       "zh": "老师",
       "ru": "учитель",
-      "fr": "professeur"
+      "fr": "le professeur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학생을 가르치는 사람을 높여 부르는 호칭."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seonsaengnim"
     }
   },
   {
     "id": "ko_5646",
+    "lang": "ko",
     "lemma": "서다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7544,26 +7186,26 @@ const WORDS_KO_A1 = [
       "ru": "стоять",
       "fr": "se tenir debout"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발을 땅에 대고 몸을 곧게 세우다."
     },
-    "infinitive": "서다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "seoda"
     }
   },
   {
     "id": "ko_6375",
+    "lang": "ko",
     "lemma": "역사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeoksa"
+    },
     "meanings": {
       "ko": "역사",
       "en": "history",
@@ -7574,22 +7216,17 @@ const WORDS_KO_A1 = [
       "ja": "歴史",
       "zh": "历史",
       "ru": "история",
-      "fr": "histoire"
+      "fr": "l'histoire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "인류 사회가 시간의 흐름에 따라 변해 온 과정."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeoksa"
     }
   },
   {
     "id": "ko_6913",
+    "lang": "ko",
     "lemma": "읽다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7608,26 +7245,26 @@ const WORDS_KO_A1 = [
       "ru": "читать",
       "fr": "lire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글이나 책의 내용을 눈으로 보고 이해하다."
     },
-    "infinitive": "읽다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ikda"
     }
   },
   {
     "id": "ko_4549",
+    "lang": "ko",
     "lemma": "동안",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dongan"
+    },
     "meanings": {
       "ko": "동안",
       "en": "duration",
@@ -7638,28 +7275,26 @@ const WORDS_KO_A1 = [
       "ja": "間",
       "zh": "期间",
       "ru": "продолжительность",
-      "fr": "durée"
+      "fr": "la durée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 계속되는 시간의 길이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongan"
     }
   },
   {
     "id": "ko_7624",
+    "lang": "ko",
     "lemma": "책",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "chaek"
+    },
     "meanings": {
       "ko": "책",
       "en": "book",
@@ -7670,22 +7305,17 @@ const WORDS_KO_A1 = [
       "ja": "本",
       "zh": "书",
       "ru": "книга",
-      "fr": "livre"
+      "fr": "le livre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글이나 그림이 인쇄되어 묶여 있는 종이 묶음."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chaek"
     }
   },
   {
     "id": "ko_6895",
+    "lang": "ko",
     "lemma": "일어나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7704,26 +7334,26 @@ const WORDS_KO_A1 = [
       "ru": "вставать",
       "fr": "se lever"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잠에서 깨어 잠자리에서 몸을 일으키거나 앉았다가 서다."
     },
-    "infinitive": "일어나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ileonada"
     }
   },
   {
     "id": "ko_5983",
+    "lang": "ko",
     "lemma": "시장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sijang"
+    },
     "meanings": {
       "ko": "시장",
       "en": "market",
@@ -7734,22 +7364,17 @@ const WORDS_KO_A1 = [
       "ja": "市場",
       "zh": "市场",
       "ru": "рынок",
-      "fr": "marché"
+      "fr": "le marché"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 사고파는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sijang"
     }
   },
   {
     "id": "ko_4228",
+    "lang": "ko",
     "lemma": "넣다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7767,21 +7392,18 @@ const WORDS_KO_A1 = [
       "ru": "класть",
       "fr": "mettre dans"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건을 안으로 들어가게 하다."
     },
-    "infinitive": "넣다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "neotda"
     }
   },
   {
     "id": "ko_7411",
+    "lang": "ko",
     "lemma": "중요하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7799,7 +7421,6 @@ const WORDS_KO_A1 = [
       "ru": "важный",
       "fr": "important"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가치나 의미가 커서 소중하고 꼭 필요하다."
     },
@@ -7809,8 +7430,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6289",
+    "lang": "ko",
     "lemma": "어렵다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7828,7 +7450,6 @@ const WORDS_KO_A1 = [
       "ru": "трудный",
       "fr": "difficile"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하거나 풀기 힘들어서 쉽지 않다."
     },
@@ -7838,13 +7459,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8394",
+    "lang": "ko",
     "lemma": "힘",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "him"
+    },
     "meanings": {
       "ko": "힘",
       "en": "strength",
@@ -7855,28 +7480,26 @@ const WORDS_KO_A1 = [
       "ja": "力",
       "zh": "力量",
       "ru": "сила",
-      "fr": "force"
+      "fr": "la force"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸을 움직이거나 어떤 일을 할 수 있는 능력."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "him"
     }
   },
   {
     "id": "ko_4118",
+    "lang": "ko",
     "lemma": "나라",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "nara"
+    },
     "meanings": {
       "ko": "나라",
       "en": "country",
@@ -7887,22 +7510,17 @@ const WORDS_KO_A1 = [
       "ja": "国",
       "zh": "国家",
       "ru": "страна",
-      "fr": "pays"
+      "fr": "le pays"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일정한 영토와 국민, 주권을 가진 정치적 공동체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nara"
     }
   },
   {
     "id": "ko_5307",
+    "lang": "ko",
     "lemma": "부르다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7920,26 +7538,26 @@ const WORDS_KO_A1 = [
       "ru": "звать",
       "fr": "appeler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리를 내어 어떤 사람을 오게 하거나 주의를 끌다. 또는 노래를 하다."
     },
-    "infinitive": "부르다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "bureuda"
     }
   },
   {
     "id": "ko_6971",
+    "lang": "ko",
     "lemma": "자리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jari"
+    },
     "meanings": {
       "ko": "자리",
       "en": "seat",
@@ -7950,22 +7568,17 @@ const WORDS_KO_A1 = [
       "ja": "席",
       "zh": "座位",
       "ru": "место",
-      "fr": "siège"
+      "fr": "le siège"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 앉거나 물건을 놓을 수 있는 공간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jari"
     }
   },
   {
     "id": "ko_7372",
+    "lang": "ko",
     "lemma": "죽다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7983,26 +7596,26 @@ const WORDS_KO_A1 = [
       "ru": "умирать",
       "fr": "mourir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "생명이 끊어져 더 이상 살 수 없게 되다."
     },
-    "infinitive": "죽다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jukda"
     }
   },
   {
     "id": "ko_6278",
+    "lang": "ko",
     "lemma": "얘기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yaegi"
+    },
     "meanings": {
       "ko": "얘기",
       "en": "talk",
@@ -8013,28 +7626,26 @@ const WORDS_KO_A1 = [
       "ja": "話",
       "zh": "谈话",
       "ru": "разговор",
-      "fr": "conversation"
+      "fr": "la conversation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 생각에 대해 말하는 내용이나 대화를 말합니다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yaegi"
     }
   },
   {
     "id": "ko_8121",
+    "lang": "ko",
     "lemma": "학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "haksaeng"
+    },
     "meanings": {
       "ko": "학생",
       "en": "student",
@@ -8045,27 +7656,25 @@ const WORDS_KO_A1 = [
       "ja": "学生",
       "zh": "学生",
       "ru": "студент",
-      "fr": "étudiant"
+      "fr": "l'étudiant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 가르침을 받고 배우는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haksaeng"
     }
   },
   {
     "id": "ko_6323",
+    "lang": "ko",
     "lemma": "엄마",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eomma"
+    },
     "meanings": {
       "ko": "엄마",
       "en": "mom",
@@ -8076,27 +7685,25 @@ const WORDS_KO_A1 = [
       "ja": "ママ",
       "zh": "妈妈",
       "ru": "мама",
-      "fr": "maman"
+      "fr": "la maman"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "(비격식) 자녀가 자신의 어머니를 부르거나 가리키는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eomma"
     }
   },
   {
     "id": "ko_6787",
+    "lang": "ko",
     "lemma": "이름",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ireum"
+    },
     "meanings": {
       "ko": "이름",
       "en": "name",
@@ -8107,27 +7714,25 @@ const WORDS_KO_A1 = [
       "ja": "名前",
       "zh": "名字",
       "ru": "имя",
-      "fr": "nom"
+      "fr": "le nom"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 사물을 다른 것과 구별하여 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ireum"
     }
   },
   {
     "id": "ko_8094",
+    "lang": "ko",
     "lemma": "하나",
-    "pos": "명사",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hana"
+    },
     "meanings": {
       "ko": "하나",
       "en": "one",
@@ -8140,20 +7745,18 @@ const WORDS_KO_A1 = [
       "ru": "один",
       "fr": "un"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "수를 셀 때 첫 번째를 나타내는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hana"
+      "ko_gloss": "수를 셀 때 첫 번째를 나타내는 말.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4194",
+    "lang": "ko",
     "lemma": "내리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8171,21 +7774,18 @@ const WORDS_KO_A1 = [
       "ru": "спускаться",
       "fr": "descendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "높은 곳에서 낮은 곳으로 가거나 떨어지다."
     },
-    "infinitive": "내리다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "naerida"
     }
   },
   {
     "id": "ko_5912",
+    "lang": "ko",
     "lemma": "쉽다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8203,7 +7803,6 @@ const WORDS_KO_A1 = [
       "ru": "лёгкий",
       "fr": "facile"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하거나 이해하기에 어렵지 않은 상태."
     },
@@ -8213,8 +7812,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8090",
+    "lang": "ko",
     "lemma": "필요하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8232,7 +7832,6 @@ const WORDS_KO_A1 = [
       "ru": "необходимый",
       "fr": "nécessaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 꼭 있어야 하거나 해야 한다."
     },
@@ -8242,8 +7841,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5625",
+    "lang": "ko",
     "lemma": "생기다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8261,21 +7861,18 @@ const WORDS_KO_A1 = [
       "ru": "появляться",
       "fr": "apparaître"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "없던 것이 새로 만들어지거나 나타나다."
     },
-    "infinitive": "생기다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "saenggida"
     }
   },
   {
     "id": "ko_5515",
+    "lang": "ko",
     "lemma": "사용하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8293,26 +7890,26 @@ const WORDS_KO_A1 = [
       "ru": "использовать",
       "fr": "utiliser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건이나 도구를 목적에 맞게 쓰는 것."
     },
-    "infinitive": "사용하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sayonghada"
     }
   },
   {
     "id": "ko_4169",
+    "lang": "ko",
     "lemma": "남편",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nampyeon"
+    },
     "meanings": {
       "ko": "남편",
       "en": "husband",
@@ -8323,22 +7920,17 @@ const WORDS_KO_A1 = [
       "ja": "夫",
       "zh": "丈夫",
       "ru": "муж",
-      "fr": "mari"
+      "fr": "le mari"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "결혼한 여자에게 배우자가 되는 남자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nampyeon"
     }
   },
   {
     "id": "ko_4618",
+    "lang": "ko",
     "lemma": "들어오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8356,26 +7948,26 @@ const WORDS_KO_A1 = [
       "ru": "входить",
       "fr": "entrer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밖에서 안으로 들어오는 움직임을 나타내는 동사."
     },
-    "infinitive": "들어오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "deuleooda"
     }
   },
   {
     "id": "ko_5046",
+    "lang": "ko",
     "lemma": "밖",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bak"
+    },
     "meanings": {
       "ko": "밖",
       "en": "outside",
@@ -8388,20 +7980,18 @@ const WORDS_KO_A1 = [
       "ru": "снаружи",
       "fr": "dehors"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "어떤 공간이나 범위의 안쪽이 아닌 바깥쪽."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bak"
+      "ko_gloss": "어떤 공간이나 범위의 안쪽이 아닌 바깥쪽.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_7000",
+    "lang": "ko",
     "lemma": "작다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8419,7 +8009,6 @@ const WORDS_KO_A1 = [
       "ru": "маленький",
       "fr": "petit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "크기나 부피, 정도가 보통보다 덜한."
     },
@@ -8429,8 +8018,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7867",
+    "lang": "ko",
     "lemma": "타다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8448,26 +8038,26 @@ const WORDS_KO_A1 = [
       "ru": "ехать",
       "fr": "monter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자동차, 기차, 비행기 등에 올라타고 이동하다"
     },
-    "infinitive": "타다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "tada"
     }
   },
   {
     "id": "ko_3397",
+    "lang": "ko",
     "lemma": "가운데",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gaunde"
+    },
     "meanings": {
       "ko": "가운데",
       "en": "middle",
@@ -8478,22 +8068,17 @@ const WORDS_KO_A1 = [
       "ja": "真ん中",
       "zh": "中间",
       "ru": "середина",
-      "fr": "milieu"
+      "fr": "le milieu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 공간이나 물체의 중심이 되는 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gaunde"
     }
   },
   {
     "id": "ko_5230",
+    "lang": "ko",
     "lemma": "보내다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8511,26 +8096,26 @@ const WORDS_KO_A1 = [
       "ru": "отправлять",
       "fr": "envoyer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 물건을 어떤 곳으로 가게 하거나 전달하다."
     },
-    "infinitive": "보내다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "bonaeda"
     }
   },
   {
     "id": "ko_5109",
+    "lang": "ko",
     "lemma": "밤",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bam"
+    },
     "meanings": {
       "ko": "밤",
       "en": "night",
@@ -8541,22 +8126,17 @@ const WORDS_KO_A1 = [
       "ja": "夜",
       "zh": "夜晚",
       "ru": "ночь",
-      "fr": "nuit"
+      "fr": "la nuit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 지고 어두워지는 저녁부터 해가 뜨기 전까지의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bam"
     }
   },
   {
     "id": "ko_4276",
+    "lang": "ko",
     "lemma": "높다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8574,7 +8154,6 @@ const WORDS_KO_A1 = [
       "ru": "высокий",
       "fr": "haut"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "위로 길게 뻗어 있거나 기준보다 위쪽에 있는 상태."
     },
@@ -8584,14 +8163,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7823",
+    "lang": "ko",
     "lemma": "컴퓨터",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "keompyuteo"
+    },
     "meanings": {
       "ko": "컴퓨터",
       "en": "computer",
@@ -8602,22 +8185,17 @@ const WORDS_KO_A1 = [
       "ja": "コンピューター",
       "zh": "电脑",
       "ru": "компьютер",
-      "fr": "ordinateur"
+      "fr": "l'ordinateur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "정보를 처리하고 저장하는 데 사용하는 전자 기기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "keompyuteo"
     }
   },
   {
     "id": "ko_4326",
+    "lang": "ko",
     "lemma": "다니다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8635,21 +8213,18 @@ const WORDS_KO_A1 = [
       "ru": "посещать",
       "fr": "assister"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 곳을 일정한 목적을 가지고 계속 오고 가다."
     },
-    "infinitive": "다니다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "danida"
     }
   },
   {
     "id": "ko_6421",
+    "lang": "ko",
     "lemma": "열다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8667,26 +8242,26 @@ const WORDS_KO_A1 = [
       "ru": "открывать",
       "fr": "ouvrir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "닫힌 것을 트거나 펼쳐서 통하게 하다."
     },
-    "infinitive": "열다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "yeolda"
     }
   },
   {
     "id": "ko_4814",
+    "lang": "ko",
     "lemma": "머리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "meori"
+    },
     "meanings": {
       "ko": "머리",
       "en": "head",
@@ -8697,22 +8272,17 @@ const WORDS_KO_A1 = [
       "ja": "頭",
       "zh": "头",
       "ru": "голова",
-      "fr": "tête"
+      "fr": "la tête"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물의 몸에서 가장 위에 있는 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "meori"
     }
   },
   {
     "id": "ko_4954",
+    "lang": "ko",
     "lemma": "묻다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8730,26 +8300,26 @@ const WORDS_KO_A1 = [
       "ru": "спрашивать",
       "fr": "demander"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "궁금한 것을 알기 위해 다른 사람에게 질문하다."
     },
-    "infinitive": "묻다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "mutda"
     }
   },
   {
     "id": "ko_6147",
+    "lang": "ko",
     "lemma": "아들",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "adeul"
+    },
     "meanings": {
       "ko": "아들",
       "en": "son",
@@ -8760,22 +8330,17 @@ const WORDS_KO_A1 = [
       "ja": "息子",
       "zh": "儿子",
       "ru": "сын",
-      "fr": "fils"
+      "fr": "le fils"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "결혼하여 낳은 남자아이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "adeul"
     }
   },
   {
     "id": "ko_3965",
+    "lang": "ko",
     "lemma": "기다리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8793,26 +8358,26 @@ const WORDS_KO_A1 = [
       "ru": "ждать",
       "fr": "attendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 일이 오기를 바라며 시간을 보내다."
     },
-    "infinitive": "기다리다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gidarida"
     }
   },
   {
     "id": "ko_6490",
+    "lang": "ko",
     "lemma": "오늘",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "oneul"
+    },
     "meanings": {
       "ko": "오늘",
       "en": "today",
@@ -8825,25 +8390,26 @@ const WORDS_KO_A1 = [
       "ru": "сегодня",
       "fr": "aujourd'hui"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "지금 우리가 살고 있는 이 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oneul"
+      "ko_gloss": "지금 우리가 살고 있는 이 날.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_5123",
+    "lang": "ko",
     "lemma": "방",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bang"
+    },
     "meanings": {
       "ko": "방",
       "en": "room",
@@ -8854,27 +8420,25 @@ const WORDS_KO_A1 = [
       "ja": "部屋",
       "zh": "房间",
       "ru": "комната",
-      "fr": "pièce"
+      "fr": "la pièce"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "집 안에서 잠을 자거나 생활하는 공간"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bang"
     }
   },
   {
     "id": "ko_6168",
+    "lang": "ko",
     "lemma": "아침",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "achim"
+    },
     "meanings": {
       "ko": "아침",
       "en": "morning",
@@ -8885,22 +8449,17 @@ const WORDS_KO_A1 = [
       "ja": "朝",
       "zh": "早晨",
       "ru": "утро",
-      "fr": "matin"
+      "fr": "le matin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 뜨고 낮이 시작되는 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "achim"
     }
   },
   {
     "id": "ko_6648",
+    "lang": "ko",
     "lemma": "웃다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8918,21 +8477,18 @@ const WORDS_KO_A1 = [
       "ru": "смеяться",
       "fr": "rire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기쁘거나 즐거울 때 입꼬리를 올리며 소리를 내거나 표정을 짓다."
     },
-    "infinitive": "웃다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "utda"
     }
   },
   {
     "id": "ko_4657",
+    "lang": "ko",
     "lemma": "떠나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8950,21 +8506,18 @@ const WORDS_KO_A1 = [
       "ru": "уезжать",
       "fr": "partir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소나 상황에서 벗어나 다른 곳으로 가다."
     },
-    "infinitive": "떠나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "tteonada"
     }
   },
   {
     "id": "ko_6153",
+    "lang": "ko",
     "lemma": "아름답다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8982,7 +8535,6 @@ const WORDS_KO_A1 = [
       "ru": "красивый",
       "fr": "beau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "보거나 들었을 때 마음이 즐겁고 기분이 좋다."
     },
@@ -8992,13 +8544,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4103",
+    "lang": "ko",
     "lemma": "끝",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kkeut"
+    },
     "meanings": {
       "ko": "끝",
       "en": "end",
@@ -9009,27 +8565,25 @@ const WORDS_KO_A1 = [
       "ja": "終わり",
       "zh": "结束",
       "ru": "конец",
-      "fr": "fin"
+      "fr": "la fin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 사물의 마지막 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkeut"
     }
   },
   {
     "id": "ko_6923",
+    "lang": "ko",
     "lemma": "입",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ip"
+    },
     "meanings": {
       "ko": "입",
       "en": "mouth",
@@ -9040,27 +8594,25 @@ const WORDS_KO_A1 = [
       "ja": "口",
       "zh": "嘴",
       "ru": "рот",
-      "fr": "bouche"
+      "fr": "la bouche"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "얼굴에 있는, 음식을 먹고 말하는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ip"
     }
   },
   {
     "id": "ko_6448",
+    "lang": "ko",
     "lemma": "영화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeonghwa"
+    },
     "meanings": {
       "ko": "영화",
       "en": "movie",
@@ -9071,27 +8623,25 @@ const WORDS_KO_A1 = [
       "ja": "映画",
       "zh": "电影",
       "ru": "фильм",
-      "fr": "film"
+      "fr": "le film"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "움직이는 그림과 소리로 이야기를 보여 주는 예술 작품"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeonghwa"
     }
   },
   {
     "id": "ko_8088",
+    "lang": "ko",
     "lemma": "필요",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pilyo"
+    },
     "meanings": {
       "ko": "필요",
       "en": "need",
@@ -9102,27 +8652,25 @@ const WORDS_KO_A1 = [
       "ja": "必要",
       "zh": "需要",
       "ru": "необходимость",
-      "fr": "besoin"
+      "fr": "le besoin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것을 꼭 있어야 하거나 해야 하는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pilyo"
     }
   },
   {
     "id": "ko_8098",
+    "lang": "ko",
     "lemma": "하늘",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "haneul"
+    },
     "meanings": {
       "ko": "하늘",
       "en": "sky",
@@ -9133,27 +8681,25 @@ const WORDS_KO_A1 = [
       "ja": "空",
       "zh": "天空",
       "ru": "небо",
-      "fr": "ciel"
+      "fr": "le ciel"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "땅 위로 넓게 펼쳐진 푸른 공간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haneul"
     }
   },
   {
     "id": "ko_5118",
+    "lang": "ko",
     "lemma": "밥",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bap"
+    },
     "meanings": {
       "ko": "밥",
       "en": "rice",
@@ -9164,22 +8710,17 @@ const WORDS_KO_A1 = [
       "ja": "ご飯",
       "zh": "米饭",
       "ru": "рис",
-      "fr": "riz"
+      "fr": "le riz"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "쌀을 쪄서 만든 음식이나 하루 세끼 먹는 식사."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bap"
     }
   },
   {
     "id": "ko_6926",
+    "lang": "ko",
     "lemma": "입다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9197,26 +8738,26 @@ const WORDS_KO_A1 = [
       "ru": "носить",
       "fr": "porter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옷이나 신발 등을 몸에 걸치다."
     },
-    "infinitive": "입다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ipda"
     }
   },
   {
     "id": "ko_3905",
+    "lang": "ko",
     "lemma": "그림",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geurim"
+    },
     "meanings": {
       "ko": "그림",
       "en": "picture",
@@ -9227,22 +8768,17 @@ const WORDS_KO_A1 = [
       "ja": "絵",
       "zh": "图画",
       "ru": "картина",
-      "fr": "image"
+      "fr": "l'image"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "연필이나 붓 등으로 그린 이미지."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geurim"
     }
   },
   {
     "id": "ko_4729",
+    "lang": "ko",
     "lemma": "마시다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9260,21 +8796,18 @@ const WORDS_KO_A1 = [
       "ru": "пить",
       "fr": "boire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물이나 음료수 같은 액체를 입으로 들이켜다."
     },
-    "infinitive": "마시다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "masida"
     }
   },
   {
     "id": "ko_7775",
+    "lang": "ko",
     "lemma": "치다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9292,26 +8825,26 @@ const WORDS_KO_A1 = [
       "ru": "бить",
       "fr": "frapper"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "손이나 도구로 어떤 대상을 세게 부딪치게 하는 행동."
     },
-    "infinitive": "치다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chida"
     }
   },
   {
     "id": "ko_8276",
+    "lang": "ko",
     "lemma": "혼자",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "honja"
+    },
     "meanings": {
       "ko": "혼자",
       "en": "alone",
@@ -9324,25 +8857,26 @@ const WORDS_KO_A1 = [
       "ru": "один",
       "fr": "seul"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "다른 사람과 함께 있지 않고 자기만 있는 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "honja"
+      "ko_gloss": "다른 사람과 함께 있지 않고 자기만 있는 상태.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6821",
+    "lang": "ko",
     "lemma": "이제",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ije"
+    },
     "meanings": {
       "ko": "이제",
       "en": "now",
@@ -9355,25 +8889,26 @@ const WORDS_KO_A1 = [
       "ru": "сейчас",
       "fr": "maintenant"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "바로 이 시점이나 때."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ije"
+      "ko_gloss": "바로 이 시점이나 때.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_3780",
+    "lang": "ko",
     "lemma": "교수",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyosu"
+    },
     "meanings": {
       "ko": "교수",
       "en": "professor",
@@ -9384,27 +8919,25 @@ const WORDS_KO_A1 = [
       "ja": "教授",
       "zh": "教授",
       "ru": "профессор",
-      "fr": "professeur"
+      "fr": "le professeur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대학교에서 학생들을 가르치는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyosu"
     }
   },
   {
     "id": "ko_5900",
+    "lang": "ko",
     "lemma": "술",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sul"
+    },
     "meanings": {
       "ko": "술",
       "en": "alcohol",
@@ -9415,27 +8948,25 @@ const WORDS_KO_A1 = [
       "ja": "酒",
       "zh": "酒",
       "ru": "алкоголь",
-      "fr": "alcool"
+      "fr": "l'alcool"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "곡식이나 과일 등을 발효시켜 만든 알코올 음료."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sul"
     }
   },
   {
     "id": "ko_5489",
+    "lang": "ko",
     "lemma": "사랑",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sarang"
+    },
     "meanings": {
       "ko": "사랑",
       "en": "love",
@@ -9446,27 +8977,25 @@ const WORDS_KO_A1 = [
       "ja": "愛",
       "zh": "爱",
       "ru": "любовь",
-      "fr": "amour"
+      "fr": "l'amour"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 대상을 매우 아끼고 좋아하는 마음."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sarang"
     }
   },
   {
     "id": "ko_7165",
+    "lang": "ko",
     "lemma": "전화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeonhwa"
+    },
     "meanings": {
       "ko": "전화",
       "en": "phone",
@@ -9477,22 +9006,17 @@ const WORDS_KO_A1 = [
       "ja": "電話",
       "zh": "电话",
       "ru": "телефон",
-      "fr": "téléphone"
+      "fr": "le téléphone"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "멀리 있는 사람과 소리를 통해 이야기할 수 있는 통신 수단."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeonhwa"
     }
   },
   {
     "id": "ko_4104",
+    "lang": "ko",
     "lemma": "끝나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9510,21 +9034,18 @@ const WORDS_KO_A1 = [
       "ru": "заканчиваться",
       "fr": "fin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 과정이 마지막에 이르러 더 이상 계속되지 않는 상태가 되다."
     },
-    "infinitive": "끝나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kkeutnada"
     }
   },
   {
     "id": "ko_4533",
+    "lang": "ko",
     "lemma": "돌아오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9542,26 +9063,26 @@ const WORDS_KO_A1 = [
       "ru": "возвращаться",
       "fr": "retourner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "갔던 곳에서 다시 원래 있던 곳으로 오다."
     },
-    "infinitive": "돌아오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dolaoda"
     }
   },
   {
     "id": "ko_6158",
+    "lang": "ko",
     "lemma": "아빠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "appa"
+    },
     "meanings": {
       "ko": "아빠",
       "en": "dad",
@@ -9572,27 +9093,25 @@ const WORDS_KO_A1 = [
       "ja": "お父さん",
       "zh": "爸爸",
       "ru": "папа",
-      "fr": "papa"
+      "fr": "le papa"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "(비격식) 자녀가 자신의 아버지를 친근하게 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "appa"
     }
   },
   {
     "id": "ko_8147",
+    "lang": "ko",
     "lemma": "한번",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hanbeon"
+    },
     "meanings": {
       "ko": "한번",
       "en": "once",
@@ -9605,25 +9124,26 @@ const WORDS_KO_A1 = [
       "ru": "один раз",
       "fr": "une fois"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "어떤 일을 한 차례 하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanbeon"
+      "ko_gloss": "어떤 일을 한 차례 하는 것.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_3394",
+    "lang": "ko",
     "lemma": "가슴",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gaseum"
+    },
     "meanings": {
       "ko": "가슴",
       "en": "chest",
@@ -9634,22 +9154,17 @@ const WORDS_KO_A1 = [
       "ja": "胸",
       "zh": "胸部",
       "ru": "грудь",
-      "fr": "poitrine"
+      "fr": "la poitrine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸의 목 아래와 배 위의 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gaseum"
     }
   },
   {
     "id": "ko_4033",
+    "lang": "ko",
     "lemma": "길다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9667,7 +9182,6 @@ const WORDS_KO_A1 = [
       "ru": "длинный",
       "fr": "long"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건의 길이가 보통보다 더 크다"
     },
@@ -9677,14 +9191,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8331",
+    "lang": "ko",
     "lemma": "회사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "hoesa"
+    },
     "meanings": {
       "ko": "회사",
       "en": "company",
@@ -9695,27 +9213,25 @@ const WORDS_KO_A1 = [
       "ja": "会社",
       "zh": "公司",
       "ru": "компания",
-      "fr": "entreprise"
+      "fr": "l'entreprise"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 만들거나 서비스를 제공하여 돈을 버는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hoesa"
     }
   },
   {
     "id": "ko_4782",
+    "lang": "ko",
     "lemma": "맛",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mat"
+    },
     "meanings": {
       "ko": "맛",
       "en": "taste",
@@ -9726,22 +9242,17 @@ const WORDS_KO_A1 = [
       "ja": "味",
       "zh": "味道",
       "ru": "вкус",
-      "fr": "goût"
+      "fr": "le goût"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식이나 음료에서 느껴지는 고유한 느낌."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mat"
     }
   },
   {
     "id": "ko_6502",
+    "lang": "ko",
     "lemma": "오르다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9759,26 +9270,26 @@ const WORDS_KO_A1 = [
       "ru": "подниматься",
       "fr": "grimper"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "낮은 곳에서 높은 곳으로 움직이거나 위치가 높아지는 것."
     },
-    "infinitive": "오르다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "oreuda"
     }
   },
   {
     "id": "ko_6731",
+    "lang": "ko",
     "lemma": "음식",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eumsik"
+    },
     "meanings": {
       "ko": "음식",
       "en": "food",
@@ -9789,27 +9300,25 @@ const WORDS_KO_A1 = [
       "ja": "食べ物",
       "zh": "食物",
       "ru": "еда",
-      "fr": "nourriture"
+      "fr": "la nourriture"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 먹을 수 있도록 만든 모든 종류의 먹을거리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eumsik"
     }
   },
   {
     "id": "ko_6594",
+    "lang": "ko",
     "lemma": "요즘",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yojeum"
+    },
     "meanings": {
       "ko": "요즘",
       "en": "recently",
@@ -9822,26 +9331,27 @@ const WORDS_KO_A1 = [
       "ru": "недавно",
       "fr": "récemment"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "지금으로부터 그리 멀지 않은 지난날부터 현재까지의 기간"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yojeum"
+      "ko_gloss": "지금으로부터 그리 멀지 않은 지난날부터 현재까지의 기간",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_3635",
+    "lang": "ko",
     "lemma": "계획",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "gyehoek"
+    },
     "meanings": {
       "ko": "계획",
       "en": "plan",
@@ -9852,27 +9362,25 @@ const WORDS_KO_A1 = [
       "ja": "計画",
       "zh": "计划",
       "ru": "план",
-      "fr": "plan"
+      "fr": "le plan"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "앞으로 할 일에 대해 미리 생각하고 정해 놓은 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyehoek"
     }
   },
   {
     "id": "ko_6319",
+    "lang": "ko",
     "lemma": "얼마",
-    "pos": "명사",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eolma"
+    },
     "meanings": {
       "ko": "얼마",
       "en": "how much",
@@ -9885,25 +9393,23 @@ const WORDS_KO_A1 = [
       "ru": "сколько",
       "fr": "combien"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수량이나 가격을 물을 때 쓰는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eolma"
     }
   },
   {
     "id": "ko_6144",
+    "lang": "ko",
     "lemma": "아내",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "anae"
+    },
     "meanings": {
       "ko": "아내",
       "en": "wife",
@@ -9914,27 +9420,25 @@ const WORDS_KO_A1 = [
       "ja": "妻",
       "zh": "妻子",
       "ru": "жена",
-      "fr": "femme"
+      "fr": "la femme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "결혼하여 남자의 짝이 된 여자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "anae"
     }
   },
   {
     "id": "ko_3410",
+    "lang": "ko",
     "lemma": "가족",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gajok"
+    },
     "meanings": {
       "ko": "가족",
       "en": "family",
@@ -9945,22 +9449,17 @@ const WORDS_KO_A1 = [
       "ja": "家族",
       "zh": "家庭",
       "ru": "семья",
-      "fr": "famille"
+      "fr": "la famille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "함께 사는 부모, 자녀, 형제자매 등 혈연으로 맺어진 사람들."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gajok"
     }
   },
   {
     "id": "ko_4280",
+    "lang": "ko",
     "lemma": "놓다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9978,26 +9477,26 @@ const WORDS_KO_A1 = [
       "ru": "класть",
       "fr": "poser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "손에 쥐고 있던 것을 바닥이나 다른 곳에 두는 것."
     },
-    "infinitive": "놓다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "notda"
     }
   },
   {
     "id": "ko_7568",
+    "lang": "ko",
     "lemma": "차",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cha"
+    },
     "meanings": {
       "ko": "차",
       "en": "car",
@@ -10008,22 +9507,17 @@ const WORDS_KO_A1 = [
       "ja": "車",
       "zh": "车",
       "ru": "машина",
-      "fr": "voiture"
+      "fr": "la voiture"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 물건을 싣고 다니는 교통수단."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cha"
     }
   },
   {
     "id": "ko_4259",
+    "lang": "ko",
     "lemma": "놀다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10041,27 +9535,27 @@ const WORDS_KO_A1 = [
       "ru": "играть",
       "fr": "jouer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "즐겁게 시간을 보내거나 일을 하지 않고 쉬다."
     },
-    "infinitive": "놀다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "nolda"
     }
   },
   {
     "id": "ko_4499",
+    "lang": "ko",
     "lemma": "도시",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "dosi"
+    },
     "meanings": {
       "ko": "도시",
       "en": "city",
@@ -10072,27 +9566,25 @@ const WORDS_KO_A1 = [
       "ja": "都市",
       "zh": "城市",
       "ru": "город",
-      "fr": "ville"
+      "fr": "la ville"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "많은 사람이 모여 살며 상업, 문화 시설이 발달한 큰 지역."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dosi"
     }
   },
   {
     "id": "ko_4132",
+    "lang": "ko",
     "lemma": "나이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nai"
+    },
     "meanings": {
       "ko": "나이",
       "en": "age",
@@ -10103,22 +9595,17 @@ const WORDS_KO_A1 = [
       "ja": "年齢",
       "zh": "年龄",
       "ru": "возраст",
-      "fr": "âge"
+      "fr": "l'âge"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 태어난 때부터 지금까지 살아온 햇수."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nai"
     }
   },
   {
     "id": "ko_5016",
+    "lang": "ko",
     "lemma": "바꾸다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10136,21 +9623,18 @@ const WORDS_KO_A1 = [
       "ru": "обменивать",
       "fr": "échanger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것을 다른 것으로 교환하거나 원래의 상태와 다르게 만들다."
     },
-    "infinitive": "바꾸다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "bakkuda"
     }
   },
   {
     "id": "ko_7324",
+    "lang": "ko",
     "lemma": "좋아하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10168,21 +9652,18 @@ const WORDS_KO_A1 = [
       "ru": "нравиться",
       "fr": "aimer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 대상이나 사람에게 좋은 감정을 느끼다."
     },
-    "infinitive": "좋아하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jotahada"
     }
   },
   {
     "id": "ko_3902",
+    "lang": "ko",
     "lemma": "그리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10200,21 +9681,18 @@ const WORDS_KO_A1 = [
       "ru": "рисовать",
       "fr": "dessiner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "연필이나 붓 등으로 그림이나 글씨를 만들다."
     },
-    "infinitive": "그리다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geurida"
     }
   },
   {
     "id": "ko_5154",
+    "lang": "ko",
     "lemma": "배우다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10232,26 +9710,26 @@ const WORDS_KO_A1 = [
       "ru": "учиться",
       "fr": "apprendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지식이나 기술을 익히거나 습득하는 것."
     },
-    "infinitive": "배우다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "baeuda"
     }
   },
   {
     "id": "ko_6452",
+    "lang": "ko",
     "lemma": "옆",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeop"
+    },
     "meanings": {
       "ko": "옆",
       "en": "side",
@@ -10262,27 +9740,25 @@ const WORDS_KO_A1 = [
       "ja": "側",
       "zh": "旁边",
       "ru": "сторона",
-      "fr": "côté"
+      "fr": "le côté"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 대상의 바로 가까운 쪽이나 방향"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeop"
     }
   },
   {
     "id": "ko_6148",
+    "lang": "ko",
     "lemma": "아래",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "arae"
+    },
     "meanings": {
       "ko": "아래",
       "en": "below",
@@ -10295,25 +9771,23 @@ const WORDS_KO_A1 = [
       "ru": "внизу",
       "fr": "en dessous"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 기준보다 낮은 쪽이나 위치."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "arae"
     }
   },
   {
     "id": "ko_5144",
+    "lang": "ko",
     "lemma": "배",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bae"
+    },
     "meanings": {
       "ko": "배",
       "en": "belly",
@@ -10324,27 +9798,25 @@ const WORDS_KO_A1 = [
       "ja": "腹",
       "zh": "肚子",
       "ru": "живот",
-      "fr": "ventre"
+      "fr": "le ventre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물의 몸통 앞부분에 있는 소화 기관이 있는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bae"
     }
   },
   {
     "id": "ko_5541",
+    "lang": "ko",
     "lemma": "산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "san"
+    },
     "meanings": {
       "ko": "산",
       "en": "mountain",
@@ -10355,27 +9827,25 @@ const WORDS_KO_A1 = [
       "ja": "山",
       "zh": "山",
       "ru": "гора",
-      "fr": "montagne"
+      "fr": "la montagne"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "땅 위로 높이 솟아오른 큰 덩어리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "san"
     }
   },
   {
     "id": "ko_4939",
+    "lang": "ko",
     "lemma": "문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mun"
+    },
     "meanings": {
       "ko": "문",
       "en": "word",
@@ -10386,27 +9856,25 @@ const WORDS_KO_A1 = [
       "ja": "単語",
       "zh": "词",
       "ru": "слово",
-      "fr": "mot"
+      "fr": "le mot"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글이나 말에서 뜻을 나타내는 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mun"
     }
   },
   {
     "id": "ko_4076",
+    "lang": "ko",
     "lemma": "꽃",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kkot"
+    },
     "meanings": {
       "ko": "꽃",
       "en": "flower",
@@ -10417,27 +9885,25 @@ const WORDS_KO_A1 = [
       "ja": "花",
       "zh": "花",
       "ru": "цветок",
-      "fr": "fleur"
+      "fr": "la fleur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "식물의 줄기나 가지 끝에 피어나는 아름다운 모양과 향기를 가진 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkot"
     }
   },
   {
     "id": "ko_3892",
+    "lang": "ko",
     "lemma": "그동안",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geudongan"
+    },
     "meanings": {
       "ko": "그동안",
       "en": "meanwhile",
@@ -10450,25 +9916,23 @@ const WORDS_KO_A1 = [
       "ru": "тем временем",
       "fr": "pendant ce temps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 진행되는 동안의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geudongan"
     }
   },
   {
     "id": "ko_5026",
+    "lang": "ko",
     "lemma": "바람",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "baram"
+    },
     "meanings": {
       "ko": "바람",
       "en": "wind",
@@ -10479,22 +9943,17 @@ const WORDS_KO_A1 = [
       "ja": "風",
       "zh": "风",
       "ru": "ветер",
-      "fr": "vent"
+      "fr": "le vent"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공기가 움직여서 생기는 자연 현상."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "baram"
     }
   },
   {
     "id": "ko_7024",
+    "lang": "ko",
     "lemma": "잘하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10512,26 +9971,26 @@ const WORDS_KO_A1 = [
       "ru": "хорошо делать",
       "fr": "bien faire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 행동을 훌륭하게 해내다."
     },
-    "infinitive": "잘하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jalhada"
     }
   },
   {
     "id": "ko_4236",
+    "lang": "ko",
     "lemma": "노래",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "norae"
+    },
     "meanings": {
       "ko": "노래",
       "en": "song",
@@ -10542,27 +10001,25 @@ const WORDS_KO_A1 = [
       "ja": "歌",
       "zh": "歌曲",
       "ru": "песня",
-      "fr": "chanson"
+      "fr": "la chanson"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가락에 맞추어 부르는 말이나 소리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "norae"
     }
   },
   {
     "id": "ko_5020",
+    "lang": "ko",
     "lemma": "바다",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bada"
+    },
     "meanings": {
       "ko": "바다",
       "en": "sea",
@@ -10573,22 +10030,17 @@ const WORDS_KO_A1 = [
       "ja": "海",
       "zh": "海",
       "ru": "море",
-      "fr": "mer"
+      "fr": "la mer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지구 표면의 대부분을 덮고 있는 매우 넓고 깊은 소금물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bada"
     }
   },
   {
     "id": "ko_8396",
+    "lang": "ko",
     "lemma": "힘들다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10606,7 +10058,6 @@ const WORDS_KO_A1 = [
       "ru": "трудный",
       "fr": "difficile"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하거나 견디기가 어렵고 고통스럽다."
     },
@@ -10616,14 +10067,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3704",
+    "lang": "ko",
     "lemma": "공부",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "gongbu"
+    },
     "meanings": {
       "ko": "공부",
       "en": "study",
@@ -10636,20 +10091,18 @@ const WORDS_KO_A1 = [
       "ru": "учёба",
       "fr": "étudier"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "지식이나 기술을 배우고 익히는 활동"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gongbu"
+      "ko_gloss": "지식이나 기술을 배우고 익히는 활동",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4905",
+    "lang": "ko",
     "lemma": "못하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10667,26 +10120,26 @@ const WORDS_KO_A1 = [
       "ru": "не мочь",
       "fr": "ne pas pouvoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 할 능력이 없거나 잘하지 못하는 것."
     },
-    "infinitive": "못하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "mothada"
     }
   },
   {
     "id": "ko_6309",
+    "lang": "ko",
     "lemma": "언니",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eonni"
+    },
     "meanings": {
       "ko": "언니",
       "en": "older sister",
@@ -10697,27 +10150,25 @@ const WORDS_KO_A1 = [
       "ja": "姉",
       "zh": "姐姐",
       "ru": "старшая сестра",
-      "fr": "sœur aînée"
+      "fr": "la sœur aînée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여자가 자신보다 나이가 많은 여자를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eonni"
     }
   },
   {
     "id": "ko_5360",
+    "lang": "ko",
     "lemma": "불",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bul"
+    },
     "meanings": {
       "ko": "불",
       "en": "fire",
@@ -10728,27 +10179,25 @@ const WORDS_KO_A1 = [
       "ja": "火",
       "zh": "火",
       "ru": "огонь",
-      "fr": "feu"
+      "fr": "le feu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물질이 타면서 빛과 열을 내는 현상."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bul"
     }
   },
   {
     "id": "ko_8116",
+    "lang": "ko",
     "lemma": "학년",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "haknyeon"
+    },
     "meanings": {
       "ko": "학년",
       "en": "grade",
@@ -10759,27 +10208,25 @@ const WORDS_KO_A1 = [
       "ja": "学年",
       "zh": "年级",
       "ru": "класс",
-      "fr": "classe"
+      "fr": "la classe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 학생들의 교육 단계를 나누는 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haknyeon"
     }
   },
   {
     "id": "ko_6023",
+    "lang": "ko",
     "lemma": "신문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sinmun"
+    },
     "meanings": {
       "ko": "신문",
       "en": "newspaper",
@@ -10790,22 +10237,17 @@ const WORDS_KO_A1 = [
       "ja": "新聞",
       "zh": "报纸",
       "ru": "газета",
-      "fr": "journal"
+      "fr": "le journal"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "세상의 여러 소식을 인쇄하여 매일 발행하는 종이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sinmun"
     }
   },
   {
     "id": "ko_6829",
+    "lang": "ko",
     "lemma": "이해하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10823,27 +10265,27 @@ const WORDS_KO_A1 = [
       "ru": "понимать",
       "fr": "comprendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 상황의 내용을 깨달아 알다."
     },
-    "infinitive": "이해하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ihaehada"
     }
   },
   {
     "id": "ko_5675",
+    "lang": "ko",
     "lemma": "선생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "seonsaeng"
+    },
     "meanings": {
       "ko": "선생",
       "en": "teacher",
@@ -10854,22 +10296,17 @@ const WORDS_KO_A1 = [
       "ja": "先生",
       "zh": "老师",
       "ru": "учитель",
-      "fr": "professeur"
+      "fr": "le professeur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학생을 가르치는 사람을 높여 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seonsaeng"
     }
   },
   {
     "id": "ko_4529",
+    "lang": "ko",
     "lemma": "돌아가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10887,26 +10324,26 @@ const WORDS_KO_A1 = [
       "ru": "возвращаться",
       "fr": "retourner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "있던 곳으로 다시 가다."
     },
-    "infinitive": "돌아가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dolagada"
     }
   },
   {
     "id": "ko_3984",
+    "lang": "ko",
     "lemma": "기분",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gibun"
+    },
     "meanings": {
       "ko": "기분",
       "en": "feeling",
@@ -10917,27 +10354,25 @@ const WORDS_KO_A1 = [
       "ja": "気分",
       "zh": "心情",
       "ru": "настроение",
-      "fr": "sentiment"
+      "fr": "le sentiment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 상황에 대해 마음이 느끼는 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gibun"
     }
   },
   {
     "id": "ko_6542",
+    "lang": "ko",
     "lemma": "옷",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ot"
+    },
     "meanings": {
       "ko": "옷",
       "en": "clothes",
@@ -10948,27 +10383,25 @@ const WORDS_KO_A1 = [
       "ja": "服",
       "zh": "衣服",
       "ru": "одежда",
-      "fr": "vêtements"
+      "fr": "les vêtements"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸을 가리거나 꾸미기 위해 입는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ot"
     }
   },
   {
     "id": "ko_4088",
+    "lang": "ko",
     "lemma": "꿈",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kkum"
+    },
     "meanings": {
       "ko": "꿈",
       "en": "dream",
@@ -10979,27 +10412,25 @@ const WORDS_KO_A1 = [
       "ja": "夢",
       "zh": "梦",
       "ru": "мечта",
-      "fr": "rêve"
+      "fr": "le rêve"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잠자는 동안에 머릿속에서 일어나는 일이나 이루고 싶은 희망."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kkum"
     }
   },
   {
     "id": "ko_8166",
+    "lang": "ko",
     "lemma": "할머니",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "halmeoni"
+    },
     "meanings": {
       "ko": "할머니",
       "en": "grandmother",
@@ -11010,28 +10441,26 @@ const WORDS_KO_A1 = [
       "ja": "おばあさん",
       "zh": "奶奶",
       "ru": "бабушка",
-      "fr": "grand-mère"
+      "fr": "la grand-mère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아버지나 어머니의 어머니를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "halmeoni"
     }
   },
   {
     "id": "ko_8335",
+    "lang": "ko",
     "lemma": "회의",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "hoeui"
+    },
     "meanings": {
       "ko": "회의",
       "en": "meeting",
@@ -11042,22 +10471,17 @@ const WORDS_KO_A1 = [
       "ja": "会議",
       "zh": "会议",
       "ru": "совещание",
-      "fr": "réunion"
+      "fr": "la réunion"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 사람이 모여 어떤 문제에 대해 의논하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hoeui"
     }
   },
   {
     "id": "ko_6807",
+    "lang": "ko",
     "lemma": "이야기하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11075,26 +10499,26 @@ const WORDS_KO_A1 = [
       "ru": "говорить",
       "fr": "parler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사실이나 사건에 대해 다른 사람에게 말하다."
     },
-    "infinitive": "이야기하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "iyagihada"
     }
   },
   {
     "id": "ko_4121",
+    "lang": "ko",
     "lemma": "나무",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "namu"
+    },
     "meanings": {
       "ko": "나무",
       "en": "tree",
@@ -11105,22 +10529,17 @@ const WORDS_KO_A1 = [
       "ja": "木",
       "zh": "树",
       "ru": "дерево",
-      "fr": "arbre"
+      "fr": "l'arbre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "땅에 뿌리를 박고 줄기와 가지가 있는 식물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namu"
     }
   },
   {
     "id": "ko_6960",
+    "lang": "ko",
     "lemma": "자다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11138,21 +10557,18 @@ const WORDS_KO_A1 = [
       "ru": "спать",
       "fr": "dormir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸과 마음을 쉬게 하려고 눈을 감고 누워 있다."
     },
-    "infinitive": "자다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jada"
     }
   },
   {
     "id": "ko_3557",
+    "lang": "ko",
     "lemma": "걷다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11170,26 +10586,26 @@ const WORDS_KO_A1 = [
       "ru": "идти",
       "fr": "marcher"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발을 사용하여 한 발씩 앞으로 나아가며 움직이다."
     },
-    "infinitive": "걷다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geotda"
     }
   },
   {
     "id": "ko_6774",
+    "lang": "ko",
     "lemma": "이때",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ittae"
+    },
     "meanings": {
       "ko": "이때",
       "en": "this time",
@@ -11202,25 +10618,23 @@ const WORDS_KO_A1 = [
       "ru": "это время",
       "fr": "cette fois"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "바로 이 시간이나 순간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ittae"
     }
   },
   {
     "id": "ko_4958",
+    "lang": "ko",
     "lemma": "물건",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mulgeon"
+    },
     "meanings": {
       "ko": "물건",
       "en": "thing",
@@ -11231,27 +10645,25 @@ const WORDS_KO_A1 = [
       "ja": "物",
       "zh": "东西",
       "ru": "вещь",
-      "fr": "chose"
+      "fr": "la chose"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 만들거나 자연에 있는, 만질 수 있는 모든 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mulgeon"
     }
   },
   {
     "id": "ko_5074",
+    "lang": "ko",
     "lemma": "발",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bal"
+    },
     "meanings": {
       "ko": "발",
       "en": "foot",
@@ -11262,22 +10674,17 @@ const WORDS_KO_A1 = [
       "ja": "足",
       "zh": "脚",
       "ru": "нога",
-      "fr": "pied"
+      "fr": "le pied"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물이 몸을 지탱하고 걷는 데 쓰는 신체 부위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bal"
     }
   },
   {
     "id": "ko_5981",
+    "lang": "ko",
     "lemma": "시작되다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11295,21 +10702,18 @@ const WORDS_KO_A1 = [
       "ru": "начинаться",
       "fr": "commencer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 행동이 처음으로 이루어지게 되다."
     },
-    "infinitive": "시작되다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sijakdoeda"
     }
   },
   {
     "id": "ko_4772",
+    "lang": "ko",
     "lemma": "말다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11327,21 +10731,18 @@ const WORDS_KO_A1 = [
       "ru": "прекращать",
       "fr": "arrêter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 행동을 하지 않도록 금지하거나 멈추게 하다."
     },
-    "infinitive": "말다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "malda"
     }
   },
   {
     "id": "ko_5697",
+    "lang": "ko",
     "lemma": "설명하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11359,26 +10760,26 @@ const WORDS_KO_A1 = [
       "ru": "объяснять",
       "fr": "expliquer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 대상을 남이 잘 알 수 있도록 이야기하다."
     },
-    "infinitive": "설명하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "seolmyeonghada"
     }
   },
   {
     "id": "ko_6734",
+    "lang": "ko",
     "lemma": "음악",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eumak"
+    },
     "meanings": {
       "ko": "음악",
       "en": "music",
@@ -11389,22 +10790,17 @@ const WORDS_KO_A1 = [
       "ja": "音楽",
       "zh": "音乐",
       "ru": "музыка",
-      "fr": "musique"
+      "fr": "la musique"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리를 이용하여 아름다움이나 감정을 표현하는 예술."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eumak"
     }
   },
   {
     "id": "ko_6170",
+    "lang": "ko",
     "lemma": "아프다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11422,7 +10818,6 @@ const WORDS_KO_A1 = [
       "ru": "больной",
       "fr": "malade"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 고통스럽거나 좋지 않은 상태."
     },
@@ -11432,8 +10827,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7109",
+    "lang": "ko",
     "lemma": "적다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11451,7 +10847,6 @@ const WORDS_KO_A1 = [
       "ru": "мало",
       "fr": "peu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "수나 양이 많지 않고 적은 상태."
     },
@@ -11461,13 +10856,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5399",
+    "lang": "ko",
     "lemma": "비",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bi"
+    },
     "meanings": {
       "ko": "비",
       "en": "rain",
@@ -11478,27 +10877,25 @@ const WORDS_KO_A1 = [
       "ja": "雨",
       "zh": "雨",
       "ru": "дождь",
-      "fr": "pluie"
+      "fr": "la pluie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하늘에서 물방울이 떨어지는 현상."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bi"
     }
   },
   {
     "id": "ko_3676",
+    "lang": "ko",
     "lemma": "고향",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gohyang"
+    },
     "meanings": {
       "ko": "고향",
       "en": "hometown",
@@ -11509,22 +10906,17 @@ const WORDS_KO_A1 = [
       "ja": "故郷",
       "zh": "故乡",
       "ru": "родной город",
-      "fr": "ville natale"
+      "fr": "la ville natale"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자신이 태어나서 자란 곳이나 부모님이 사시는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gohyang"
     }
   },
   {
     "id": "ko_4260",
+    "lang": "ko",
     "lemma": "놀라다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11542,21 +10934,18 @@ const WORDS_KO_A1 = [
       "ru": "удивляться",
       "fr": "être surpris"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "예상하지 못한 일이나 갑작스러운 상황에 마음이 깜짝하다."
     },
-    "infinitive": "놀라다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "nolrada"
     }
   },
   {
     "id": "ko_6640",
+    "lang": "ko",
     "lemma": "울다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11574,27 +10963,27 @@ const WORDS_KO_A1 = [
       "ru": "плакать",
       "fr": "pleurer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "슬프거나 아플 때 눈물을 흘리며 소리를 내다."
     },
-    "infinitive": "울다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ulda"
     }
   },
   {
     "id": "ko_6724",
+    "lang": "ko",
     "lemma": "은행",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "eunhaeng"
+    },
     "meanings": {
       "ko": "은행",
       "en": "bank",
@@ -11605,22 +10994,17 @@ const WORDS_KO_A1 = [
       "ja": "銀行",
       "zh": "银行",
       "ru": "банк",
-      "fr": "banque"
+      "fr": "la banque"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 저금하거나 빌려주고 환전하는 등의 금융 업무를 하는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eunhaeng"
     }
   },
   {
     "id": "ko_7446",
+    "lang": "ko",
     "lemma": "지내다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11638,26 +11022,26 @@ const WORDS_KO_A1 = [
       "ru": "проводить время",
       "fr": "passer du temps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 기간을 보내거나 생활하다."
     },
-    "infinitive": "지내다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jinaeda"
     }
   },
   {
     "id": "ko_3595",
+    "lang": "ko",
     "lemma": "결혼",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyeolhon"
+    },
     "meanings": {
       "ko": "결혼",
       "en": "marriage",
@@ -11668,27 +11052,25 @@ const WORDS_KO_A1 = [
       "ja": "結婚",
       "zh": "结婚",
       "ru": "брак",
-      "fr": "mariage"
+      "fr": "le mariage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남자와 여자가 부부가 되는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeolhon"
     }
   },
   {
     "id": "ko_4544",
+    "lang": "ko",
     "lemma": "동생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dongsaeng"
+    },
     "meanings": {
       "ko": "동생",
       "en": "younger sibling",
@@ -11701,25 +11083,26 @@ const WORDS_KO_A1 = [
       "ru": "младший брат или сестра",
       "fr": "frère ou sœur cadet"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "자기보다 나이가 어린 형제나 자매."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongsaeng"
+      "ko_gloss": "자기보다 나이가 어린 형제나 자매.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6518",
+    "lang": "ko",
     "lemma": "오후",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ohu"
+    },
     "meanings": {
       "ko": "오후",
       "en": "afternoon",
@@ -11730,22 +11113,17 @@ const WORDS_KO_A1 = [
       "ja": "午後",
       "zh": "下午",
       "ru": "после полудня",
-      "fr": "après-midi"
+      "fr": "l'après-midi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하루 중 낮 열두 시부터 밤 열두 시까지의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ohu"
     }
   },
   {
     "id": "ko_5451",
+    "lang": "ko",
     "lemma": "빠르다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11763,7 +11141,6 @@ const WORDS_KO_A1 = [
       "ru": "быстрый",
       "fr": "rapide"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "움직이는 속도가 보통보다 더 빠르거나 시간이 일찍 되다."
     },
@@ -11773,13 +11150,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6139",
+    "lang": "ko",
     "lemma": "아기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "agi"
+    },
     "meanings": {
       "ko": "아기",
       "en": "baby",
@@ -11790,27 +11171,25 @@ const WORDS_KO_A1 = [
       "ja": "赤ちゃん",
       "zh": "婴儿",
       "ru": "ребенок",
-      "fr": "bébé"
+      "fr": "le bébé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "갓 태어나 아직 어린 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "agi"
     }
   },
   {
     "id": "ko_6165",
+    "lang": "ko",
     "lemma": "아저씨",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ajeossi"
+    },
     "meanings": {
       "ko": "아저씨",
       "en": "mister",
@@ -11823,20 +11202,18 @@ const WORDS_KO_A1 = [
       "ru": "дядя",
       "fr": "monsieur"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "결혼한 남자를 부르거나 나이가 많은 남자를 친근하게 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ajeossi"
+      "ko_gloss": "결혼한 남자를 부르거나 나이가 많은 남자를 친근하게 부르는 말.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6487",
+    "lang": "ko",
     "lemma": "옛날",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11854,25 +11231,26 @@ const WORDS_KO_A1 = [
       "ru": "старые времена",
       "fr": "le passé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지금으로부터 아주 오래전의 시간이나 시기."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "yetnal"
     }
   },
   {
     "id": "ko_4646",
+    "lang": "ko",
     "lemma": "딸",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ttal"
+    },
     "meanings": {
       "ko": "딸",
       "en": "daughter",
@@ -11883,27 +11261,25 @@ const WORDS_KO_A1 = [
       "ja": "娘",
       "zh": "女儿",
       "ru": "дочь",
-      "fr": "fille"
+      "fr": "la fille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "부모에게서 태어난 여자인 자녀."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ttal"
     }
   },
   {
     "id": "ko_4741",
+    "lang": "ko",
     "lemma": "마지막",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "majimak"
+    },
     "meanings": {
       "ko": "마지막",
       "en": "last",
@@ -11914,27 +11290,25 @@ const WORDS_KO_A1 = [
       "ja": "最後",
       "zh": "最后",
       "ru": "конец",
-      "fr": "dernier"
+      "fr": "le dernier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 순서에서 맨 끝이 되는 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "majimak"
     }
   },
   {
     "id": "ko_5224",
+    "lang": "ko",
     "lemma": "병원",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "byeongwon"
+    },
     "meanings": {
       "ko": "병원",
       "en": "hospital",
@@ -11945,27 +11319,25 @@ const WORDS_KO_A1 = [
       "ja": "病院",
       "zh": "医院",
       "ru": "больница",
-      "fr": "hôpital"
+      "fr": "l'hôpital"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아픈 사람을 치료하고 돌보는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "byeongwon"
     }
   },
   {
     "id": "ko_3613",
+    "lang": "ko",
     "lemma": "경찰",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyeongchal"
+    },
     "meanings": {
       "ko": "경찰",
       "en": "police",
@@ -11976,27 +11348,25 @@ const WORDS_KO_A1 = [
       "ja": "警察",
       "zh": "警察",
       "ru": "полиция",
-      "fr": "police"
+      "fr": "la police"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사회의 질서를 유지하고 범죄를 예방하는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeongchal"
     }
   },
   {
     "id": "ko_7096",
+    "lang": "ko",
     "lemma": "저녁",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeonyeok"
+    },
     "meanings": {
       "ko": "저녁",
       "en": "evening",
@@ -12007,22 +11377,17 @@ const WORDS_KO_A1 = [
       "ja": "夕方",
       "zh": "晚上",
       "ru": "вечер",
-      "fr": "soir"
+      "fr": "le soir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 지고 어두워지는 시간이나 그 시간에 먹는 식사."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeonyeok"
     }
   },
   {
     "id": "ko_4216",
+    "lang": "ko",
     "lemma": "넓다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12040,7 +11405,6 @@ const WORDS_KO_A1 = [
       "ru": "широкий",
       "fr": "large"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공간이나 면적이 크고 여유가 있다."
     },
@@ -12050,13 +11414,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5995",
+    "lang": "ko",
     "lemma": "시험",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "siheom"
+    },
     "meanings": {
       "ko": "시험",
       "en": "exam",
@@ -12067,27 +11435,25 @@ const WORDS_KO_A1 = [
       "ja": "試験",
       "zh": "考试",
       "ru": "экзамен",
-      "fr": "examen"
+      "fr": "l'examen"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지식이나 능력을 평가하기 위해 치르는 검사."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "siheom"
     }
   },
   {
     "id": "ko_7025",
+    "lang": "ko",
     "lemma": "잠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jam"
+    },
     "meanings": {
       "ko": "잠",
       "en": "sleep",
@@ -12098,27 +11464,25 @@ const WORDS_KO_A1 = [
       "ja": "睡眠",
       "zh": "睡眠",
       "ru": "сон",
-      "fr": "sommeil"
+      "fr": "le sommeil"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸과 마음을 쉬게 하기 위해 눈을 감고 의식을 잃는 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jam"
     }
   },
   {
     "id": "ko_3536",
+    "lang": "ko",
     "lemma": "건강",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geongang"
+    },
     "meanings": {
       "ko": "건강",
       "en": "health",
@@ -12129,22 +11493,17 @@ const WORDS_KO_A1 = [
       "ja": "健康",
       "zh": "健康",
       "ru": "здоровье",
-      "fr": "santé"
+      "fr": "la santé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 정신에 아무런 병이나 이상이 없는 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geongang"
     }
   },
   {
     "id": "ko_3363",
+    "lang": "ko",
     "lemma": "가깝다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12162,7 +11521,6 @@ const WORDS_KO_A1 = [
       "ru": "близкий",
       "fr": "près"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공간적으로나 시간적으로 거리가 멀지 않다"
     },
@@ -12172,13 +11530,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3547",
+    "lang": "ko",
     "lemma": "건물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geonmul"
+    },
     "meanings": {
       "ko": "건물",
       "en": "building",
@@ -12189,27 +11551,25 @@ const WORDS_KO_A1 = [
       "ja": "建物",
       "zh": "建筑",
       "ru": "здание",
-      "fr": "bâtiment"
+      "fr": "le bâtiment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 살거나 일하기 위해 지은 큰 구조물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geonmul"
     }
   },
   {
     "id": "ko_6561",
+    "lang": "ko",
     "lemma": "외국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "oeguk"
+    },
     "meanings": {
       "ko": "외국",
       "en": "foreign country",
@@ -12220,27 +11580,25 @@ const WORDS_KO_A1 = [
       "ja": "外国",
       "zh": "外国",
       "ru": "заграница",
-      "fr": "pays étranger"
+      "fr": "le pays étranger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자신이 살고 있는 나라가 아닌 다른 나라."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oeguk"
     }
   },
   {
     "id": "ko_5009",
+    "lang": "ko",
     "lemma": "밑",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mit"
+    },
     "meanings": {
       "ko": "밑",
       "en": "bottom",
@@ -12251,27 +11609,25 @@ const WORDS_KO_A1 = [
       "ja": "下",
       "zh": "底部",
       "ru": "низ",
-      "fr": "fond"
+      "fr": "le fond"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 공간의 가장 아래쪽 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mit"
     }
   },
   {
     "id": "ko_6290",
+    "lang": "ko",
     "lemma": "어른",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eoreun"
+    },
     "meanings": {
       "ko": "어른",
       "en": "adult",
@@ -12282,22 +11638,17 @@ const WORDS_KO_A1 = [
       "ja": "大人",
       "zh": "成人",
       "ru": "взрослый",
-      "fr": "adulte"
+      "fr": "l'adulte"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "나이가 들어 몸과 마음이 다 자란 사람이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eoreun"
     }
   },
   {
     "id": "ko_7986",
+    "lang": "ko",
     "lemma": "팔다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12315,21 +11666,18 @@ const WORDS_KO_A1 = [
       "ru": "продавать",
       "fr": "vendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 돈을 받고 다른 사람에게 주다."
     },
-    "infinitive": "팔다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "palda"
     }
   },
   {
     "id": "ko_6909",
+    "lang": "ko",
     "lemma": "일하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12348,26 +11696,26 @@ const WORDS_KO_A1 = [
       "ru": "работать",
       "fr": "travailler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 목적을 가지고 몸이나 정신을 움직여 활동하다."
     },
-    "infinitive": "일하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ilhada"
     }
   },
   {
     "id": "ko_7278",
+    "lang": "ko",
     "lemma": "조금",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jogeum"
+    },
     "meanings": {
       "ko": "조금",
       "en": "little",
@@ -12380,25 +11728,23 @@ const WORDS_KO_A1 = [
       "ru": "немного",
       "fr": "peu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "양이나 정도가 적은 분량."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jogeum"
     }
   },
   {
     "id": "ko_7965",
+    "lang": "ko",
     "lemma": "팀",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "tim"
+    },
     "meanings": {
       "ko": "팀",
       "en": "team",
@@ -12409,27 +11755,25 @@ const WORDS_KO_A1 = [
       "ja": "チーム",
       "zh": "团队",
       "ru": "команда",
-      "fr": "équipe"
+      "fr": "l'équipe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공동의 목표를 위해 함께 일하는 사람들의 모임."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "tim"
     }
   },
   {
     "id": "ko_5309",
+    "lang": "ko",
     "lemma": "부모",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bumo"
+    },
     "meanings": {
       "ko": "부모",
       "en": "parents",
@@ -12440,22 +11784,17 @@ const WORDS_KO_A1 = [
       "ja": "両親",
       "zh": "父母",
       "ru": "родители",
-      "fr": "parents"
+      "fr": "les parents"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자식을 낳아 기른 아버지와 어머니를 함께 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bumo"
     }
   },
   {
     "id": "ko_6528",
+    "lang": "ko",
     "lemma": "올라가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12473,26 +11812,26 @@ const WORDS_KO_A1 = [
       "ru": "подниматься",
       "fr": "monter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "낮은 곳에서 높은 곳으로 움직여 가다."
     },
-    "infinitive": "올라가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "olragada"
     }
   },
   {
     "id": "ko_3889",
+    "lang": "ko",
     "lemma": "그날",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geunal"
+    },
     "meanings": {
       "ko": "그날",
       "en": "that day",
@@ -12505,25 +11844,23 @@ const WORDS_KO_A1 = [
       "ru": "тот день",
       "fr": "ce jour-là"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "과거에 있었던 특정한 날이나 미래의 특정한 날"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geunal"
     }
   },
   {
     "id": "ko_4397",
+    "lang": "ko",
     "lemma": "담배",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dambae"
+    },
     "meanings": {
       "ko": "담배",
       "en": "cigarette",
@@ -12534,27 +11871,25 @@ const WORDS_KO_A1 = [
       "ja": "タバコ",
       "zh": "香烟",
       "ru": "сигарета",
-      "fr": "cigarette"
+      "fr": "la cigarette"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "담뱃잎을 말아서 불을 붙여 피우는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dambae"
     }
   },
   {
     "id": "ko_8167",
+    "lang": "ko",
     "lemma": "할아버지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "halabeoji"
+    },
     "meanings": {
       "ko": "할아버지",
       "en": "grandfather",
@@ -12565,22 +11900,17 @@ const WORDS_KO_A1 = [
       "ja": "祖父",
       "zh": "祖父",
       "ru": "дедушка",
-      "fr": "grand-père"
+      "fr": "le grand-père"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아버지나 어머니의 아버지를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "halabeoji"
     }
   },
   {
     "id": "ko_7887",
+    "lang": "ko",
     "lemma": "태어나다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12598,26 +11928,26 @@ const WORDS_KO_A1 = [
       "ru": "родиться",
       "fr": "naître"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "세상에 처음으로 나오다"
     },
-    "infinitive": "태어나다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "taeeonada"
     }
   },
   {
     "id": "ko_8316",
+    "lang": "ko",
     "lemma": "환자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hwanja"
+    },
     "meanings": {
       "ko": "환자",
       "en": "patient",
@@ -12628,22 +11958,17 @@ const WORDS_KO_A1 = [
       "ja": "患者",
       "zh": "病人",
       "ru": "пациент",
-      "fr": "patient"
+      "fr": "le patient"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "병에 걸려 치료를 받거나 돌봄이 필요한 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hwanja"
     }
   },
   {
     "id": "ko_7079",
+    "lang": "ko",
     "lemma": "재미있다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12661,7 +11986,6 @@ const WORDS_KO_A1 = [
       "ru": "интересный",
       "fr": "intéressant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "즐겁고 흥미를 느끼게 하는 상태."
     },
@@ -12671,8 +11995,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3382",
+    "lang": "ko",
     "lemma": "가르치다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12690,26 +12015,26 @@ const WORDS_KO_A1 = [
       "ru": "учить",
       "fr": "enseigner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지식이나 기술 등을 배우게 하다"
     },
-    "infinitive": "가르치다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gareuchida"
     }
   },
   {
     "id": "ko_4464",
+    "lang": "ko",
     "lemma": "대화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daehwa"
+    },
     "meanings": {
       "ko": "대화",
       "en": "conversation",
@@ -12720,27 +12045,25 @@ const WORDS_KO_A1 = [
       "ja": "会話",
       "zh": "对话",
       "ru": "разговор",
-      "fr": "conversation"
+      "fr": "la conversation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 사람 이상이 서로 이야기를 주고받는 것"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daehwa"
     }
   },
   {
     "id": "ko_6539",
+    "lang": "ko",
     "lemma": "올해",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "olhae"
+    },
     "meanings": {
       "ko": "올해",
       "en": "this year",
@@ -12753,25 +12076,23 @@ const WORDS_KO_A1 = [
       "ru": "этот год",
       "fr": "cette année"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지금 지나고 있는 해나 다가올 해."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "olhae"
     }
   },
   {
     "id": "ko_8252",
+    "lang": "ko",
     "lemma": "형",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyeong"
+    },
     "meanings": {
       "ko": "형",
       "en": "older brother",
@@ -12782,27 +12103,25 @@ const WORDS_KO_A1 = [
       "ja": "兄",
       "zh": "哥哥",
       "ru": "старший брат",
-      "fr": "grand frère"
+      "fr": "le grand frère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남자가 자기보다 나이가 많은 남자를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyeong"
     }
   },
   {
     "id": "ko_4861",
+    "lang": "ko",
     "lemma": "모두",
-    "pos": "명사",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "modu"
+    },
     "meanings": {
       "ko": "모두",
       "en": "all",
@@ -12815,20 +12134,15 @@ const WORDS_KO_A1 = [
       "ru": "все",
       "fr": "tous"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 범위 안에 있는 모든 사람이나 사물"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "modu"
     }
   },
   {
     "id": "ko_3558",
+    "lang": "ko",
     "lemma": "걸다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12846,21 +12160,18 @@ const WORDS_KO_A1 = [
       "ru": "вешать",
       "fr": "pendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건을 다른 곳에 매달리게 하다."
     },
-    "infinitive": "걸다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geolda"
     }
   },
   {
     "id": "ko_4828",
+    "lang": "ko",
     "lemma": "멀다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12878,7 +12189,6 @@ const WORDS_KO_A1 = [
       "ru": "далеко",
       "fr": "loin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공간적으로나 시간적으로 거리가 많이 떨어져 있다."
     },
@@ -12888,14 +12198,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5171",
+    "lang": "ko",
     "lemma": "버스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "beoseu"
+    },
     "meanings": {
       "ko": "버스",
       "en": "bus",
@@ -12906,27 +12220,25 @@ const WORDS_KO_A1 = [
       "ja": "バス",
       "zh": "公交车",
       "ru": "автобус",
-      "fr": "bus"
+      "fr": "le bus"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "많은 사람을 태우고 정해진 노선을 다니는 큰 자동차."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "beoseu"
     }
   },
   {
     "id": "ko_5528",
+    "lang": "ko",
     "lemma": "사진",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sajin"
+    },
     "meanings": {
       "ko": "사진",
       "en": "photo",
@@ -12937,28 +12249,26 @@ const WORDS_KO_A1 = [
       "ja": "写真",
       "zh": "照片",
       "ru": "фотография",
-      "fr": "photo"
+      "fr": "la photo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "카메라로 찍어 종이나 화면에 나타낸 모습."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sajin"
     }
   },
   {
     "id": "ko_7261",
+    "lang": "ko",
     "lemma": "제일",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "jeil"
+    },
     "meanings": {
       "ko": "제일",
       "en": "first",
@@ -12969,22 +12279,17 @@ const WORDS_KO_A1 = [
       "ja": "一番",
       "zh": "第一",
       "ru": "первый",
-      "fr": "premier"
+      "fr": "le premier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여럿 가운데에서 가장 으뜸이거나 첫째."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeil"
     }
   },
   {
     "id": "ko_6279",
+    "lang": "ko",
     "lemma": "얘기하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13002,26 +12307,26 @@ const WORDS_KO_A1 = [
       "ru": "говорить",
       "fr": "parler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 내용에 대해 다른 사람과 말을 주고받는 행동입니다."
     },
-    "infinitive": "얘기하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "yaegihada"
     }
   },
   {
     "id": "ko_4331",
+    "lang": "ko",
     "lemma": "다리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dari"
+    },
     "meanings": {
       "ko": "다리",
       "en": "leg",
@@ -13032,27 +12337,25 @@ const WORDS_KO_A1 = [
       "ja": "足",
       "zh": "腿",
       "ru": "нога",
-      "fr": "jambe"
+      "fr": "la jambe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 동물의 몸에서 몸통을 지탱하고 움직이게 하는 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dari"
     }
   },
   {
     "id": "ko_8180",
+    "lang": "ko",
     "lemma": "해",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hae"
+    },
     "meanings": {
       "ko": "해",
       "en": "sun",
@@ -13063,22 +12366,17 @@ const WORDS_KO_A1 = [
       "ja": "太陽",
       "zh": "太阳",
       "ru": "солнце",
-      "fr": "soleil"
+      "fr": "le soleil"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "낮에 하늘에 떠서 빛과 열을 내는 둥근 천체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hae"
     }
   },
   {
     "id": "ko_6915",
+    "lang": "ko",
     "lemma": "잃다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13096,21 +12394,18 @@ const WORDS_KO_A1 = [
       "ru": "терять",
       "fr": "perdre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가지고 있던 것이나 소중한 것을 더 이상 가지지 못하게 되다."
     },
-    "infinitive": "잃다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ilda"
     }
   },
   {
     "id": "ko_5421",
+    "lang": "ko",
     "lemma": "비슷하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13128,7 +12423,6 @@ const WORDS_KO_A1 = [
       "ru": "похожий",
       "fr": "similaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서로 비교했을 때 모양이나 성질 등이 거의 같다."
     },
@@ -13138,8 +12432,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5491",
+    "lang": "ko",
     "lemma": "사랑하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13157,26 +12452,26 @@ const WORDS_KO_A1 = [
       "ru": "любить",
       "fr": "aimer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 대상을 매우 아끼고 좋아하는 마음을 가지는 행동."
     },
-    "infinitive": "사랑하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "saranghada"
     }
   },
   {
     "id": "ko_6357",
+    "lang": "ko",
     "lemma": "여름",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeoreum"
+    },
     "meanings": {
       "ko": "여름",
       "en": "summer",
@@ -13187,22 +12482,17 @@ const WORDS_KO_A1 = [
       "ja": "夏",
       "zh": "夏天",
       "ru": "лето",
-      "fr": "été"
+      "fr": "l'été"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사계절 중 가장 더운 계절"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeoreum"
     }
   },
   {
     "id": "ko_6082",
+    "lang": "ko",
     "lemma": "싫다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13220,7 +12510,6 @@ const WORDS_KO_A1 = [
       "ru": "не нравиться",
       "fr": "ne pas aimer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 것이 마음에 들지 않거나 좋지 않은 느낌이 들다."
     },
@@ -13230,13 +12519,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3469",
+    "lang": "ko",
     "lemma": "값",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gap"
+    },
     "meanings": {
       "ko": "값",
       "en": "price",
@@ -13247,28 +12540,26 @@ const WORDS_KO_A1 = [
       "ja": "価格",
       "zh": "价格",
       "ru": "цена",
-      "fr": "prix"
+      "fr": "le prix"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 사고팔 때 내는 돈."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gap"
     }
   },
   {
     "id": "ko_6962",
+    "lang": "ko",
     "lemma": "자동차",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "jadongcha"
+    },
     "meanings": {
       "ko": "자동차",
       "en": "car",
@@ -13279,27 +12570,25 @@ const WORDS_KO_A1 = [
       "ja": "自動車",
       "zh": "汽车",
       "ru": "автомобиль",
-      "fr": "voiture"
+      "fr": "la voiture"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "엔진의 힘으로 움직이는 바퀴 달린 운송 수단."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jadongcha"
     }
   },
   {
     "id": "ko_6296",
+    "lang": "ko",
     "lemma": "어린이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eorini"
+    },
     "meanings": {
       "ko": "어린이",
       "en": "child",
@@ -13310,22 +12599,17 @@ const WORDS_KO_A1 = [
       "ja": "子供",
       "zh": "儿童",
       "ru": "ребенок",
-      "fr": "enfant"
+      "fr": "l'enfant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아직 어른이 되지 않은 어린 사람을 높여 부르는 말이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eorini"
     }
   },
   {
     "id": "ko_3705",
+    "lang": "ko",
     "lemma": "공부하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13344,21 +12628,18 @@ const WORDS_KO_A1 = [
       "ru": "учиться",
       "fr": "étudier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지식이나 기술을 배우고 익히다"
     },
-    "infinitive": "공부하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gongbuhada"
     }
   },
   {
     "id": "ko_4352",
+    "lang": "ko",
     "lemma": "닦다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13376,26 +12657,26 @@ const WORDS_KO_A1 = [
       "ru": "вытирать",
       "fr": "essuyer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "더러운 것을 문질러 깨끗하게 만들다."
     },
-    "infinitive": "닦다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dakda"
     }
   },
   {
     "id": "ko_4775",
+    "lang": "ko",
     "lemma": "말씀",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "malsseum"
+    },
     "meanings": {
       "ko": "말씀",
       "en": "word",
@@ -13406,22 +12687,17 @@ const WORDS_KO_A1 = [
       "ja": "言葉",
       "zh": "话",
       "ru": "слово",
-      "fr": "mot"
+      "fr": "le mot"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "'말'의 높임말로, 남의 말을 높여 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "malsseum"
     }
   },
   {
     "id": "ko_3767",
+    "lang": "ko",
     "lemma": "괜찮다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13439,7 +12715,6 @@ const WORDS_KO_A1 = [
       "ru": "нормально",
       "fr": "d'accord"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "나쁘지 않고 보통 이상으로 좋거나 문제가 없는 상태."
     },
@@ -13449,13 +12724,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4294",
+    "lang": "ko",
     "lemma": "눈물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nunmul"
+    },
     "meanings": {
       "ko": "눈물",
       "en": "tear",
@@ -13466,27 +12745,25 @@ const WORDS_KO_A1 = [
       "ja": "涙",
       "zh": "眼泪",
       "ru": "слеза",
-      "fr": "larme"
+      "fr": "la larme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "슬프거나 아플 때 눈에서 흐르는 물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nunmul"
     }
   },
   {
     "id": "ko_7357",
+    "lang": "ko",
     "lemma": "주인",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "juin"
+    },
     "meanings": {
       "ko": "주인",
       "en": "owner",
@@ -13497,27 +12774,25 @@ const WORDS_KO_A1 = [
       "ja": "飼い主",
       "zh": "主人",
       "ru": "хозяин",
-      "fr": "propriétaire"
+      "fr": "le propriétaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건이나 가게, 집 등을 소유하거나 관리하는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "juin"
     }
   },
   {
     "id": "ko_5047",
+    "lang": "ko",
     "lemma": "반",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ban"
+    },
     "meanings": {
       "ko": "반",
       "en": "half",
@@ -13528,27 +12803,25 @@ const WORDS_KO_A1 = [
       "ja": "半分",
       "zh": "一半",
       "ru": "половина",
-      "fr": "moitié"
+      "fr": "la moitié"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "전체를 똑같이 둘로 나눈 것 중 하나."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ban"
     }
   },
   {
     "id": "ko_3869",
+    "lang": "ko",
     "lemma": "귀",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwi"
+    },
     "meanings": {
       "ko": "귀",
       "en": "ear",
@@ -13559,22 +12832,17 @@ const WORDS_KO_A1 = [
       "ja": "耳",
       "zh": "耳朵",
       "ru": "ухо",
-      "fr": "oreille"
+      "fr": "l'oreille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리를 듣는 역할을 하는 머리 양쪽에 있는 신체 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwi"
     }
   },
   {
     "id": "ko_6285",
+    "lang": "ko",
     "lemma": "어떠하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13592,7 +12860,6 @@ const WORDS_KO_A1 = [
       "ru": "какой",
       "fr": "comment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 상태나 모양을 묻거나 나타내는 말이다."
     },
@@ -13602,13 +12869,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6169",
+    "lang": "ko",
     "lemma": "아파트",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "apateu"
+    },
     "meanings": {
       "ko": "아파트",
       "en": "apartment",
@@ -13619,22 +12890,17 @@ const WORDS_KO_A1 = [
       "ja": "アパート",
       "zh": "公寓",
       "ru": "квартира",
-      "fr": "appartement"
+      "fr": "l'appartement"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 가구가 한 건물에 모여 살 수 있도록 지은 주택."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "apateu"
     }
   },
   {
     "id": "ko_7552",
+    "lang": "ko",
     "lemma": "짧다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13652,7 +12918,6 @@ const WORDS_KO_A1 = [
       "ru": "короткий",
       "fr": "court"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "길이, 시간, 기간 등이 길지 않고 짧은 상태."
     },
@@ -13662,8 +12927,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3650",
+    "lang": "ko",
     "lemma": "고맙다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13681,7 +12947,6 @@ const WORDS_KO_A1 = [
       "ru": "благодарный",
       "fr": "reconnaissant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람의 도움이나 친절에 대해 마음이 즐겁고 감사하다"
     },
@@ -13691,8 +12956,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5032",
+    "lang": "ko",
     "lemma": "바쁘다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13710,7 +12976,6 @@ const WORDS_KO_A1 = [
       "ru": "занятой",
       "fr": "occupé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "할 일이 많아서 여유가 없는 상태."
     },
@@ -13720,8 +12985,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4127",
+    "lang": "ko",
     "lemma": "나쁘다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13739,7 +13005,6 @@ const WORDS_KO_A1 = [
       "ru": "плохой",
       "fr": "mauvais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "좋지 않거나 옳지 않은 상태에 있다."
     },
@@ -13749,13 +13014,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3576",
+    "lang": "ko",
     "lemma": "게임",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geim"
+    },
     "meanings": {
       "ko": "게임",
       "en": "game",
@@ -13766,27 +13035,25 @@ const WORDS_KO_A1 = [
       "ja": "ゲーム",
       "zh": "游戏",
       "ru": "игра",
-      "fr": "jeu"
+      "fr": "le jeu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "즐거움을 얻기 위해 규칙에 따라 하는 놀이나 오락."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geim"
     }
   },
   {
     "id": "ko_7012",
+    "lang": "ko",
     "lemma": "잔",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jan"
+    },
     "meanings": {
       "ko": "잔",
       "en": "cup",
@@ -13797,22 +13064,17 @@ const WORDS_KO_A1 = [
       "ja": "コップ",
       "zh": "杯子",
       "ru": "чашка",
-      "fr": "tasse"
+      "fr": "la tasse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "액체를 담아 마시는 데 쓰는 그릇."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jan"
     }
   },
   {
     "id": "ko_6945",
+    "lang": "ko",
     "lemma": "있다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13830,21 +13092,18 @@ const WORDS_KO_A1 = [
       "ru": "существовать",
       "fr": "exister"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소에 존재하거나 머무르는 것을 나타냅니다."
     },
-    "infinitive": "있다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "itda"
     }
   },
   {
     "id": "ko_4192",
+    "lang": "ko",
     "lemma": "내려오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13862,26 +13121,26 @@ const WORDS_KO_A1 = [
       "ru": "спускаться",
       "fr": "descendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "높은 곳에서 낮은 곳으로 오다."
     },
-    "infinitive": "내려오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "naeryeooda"
     }
   },
   {
     "id": "ko_5815",
+    "lang": "ko",
     "lemma": "손님",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sonnim"
+    },
     "meanings": {
       "ko": "손님",
       "en": "guest",
@@ -13892,27 +13151,25 @@ const WORDS_KO_A1 = [
       "ja": "客",
       "zh": "客人",
       "ru": "гость",
-      "fr": "invité"
+      "fr": "l'invité"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소에 찾아온 사람이나 물건을 사러 온 사람"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sonnim"
     }
   },
   {
     "id": "ko_4301",
+    "lang": "ko",
     "lemma": "뉴스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nyuseu"
+    },
     "meanings": {
       "ko": "뉴스",
       "en": "news",
@@ -13923,28 +13180,26 @@ const WORDS_KO_A1 = [
       "ja": "ニュース",
       "zh": "新闻",
       "ru": "новости",
-      "fr": "nouvelles"
+      "fr": "les nouvelles"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "새롭게 일어난 일이나 소식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nyuseu"
     }
   },
   {
     "id": "ko_5861",
+    "lang": "ko",
     "lemma": "수업",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "sueop"
+    },
     "meanings": {
       "ko": "수업",
       "en": "class",
@@ -13955,27 +13210,25 @@ const WORDS_KO_A1 = [
       "ja": "授業",
       "zh": "课程",
       "ru": "урок",
-      "fr": "classe"
+      "fr": "la classe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 선생님이 학생들을 가르치는 시간이나 과정."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sueop"
     }
   },
   {
     "id": "ko_3577",
+    "lang": "ko",
     "lemma": "겨울",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyeoul"
+    },
     "meanings": {
       "ko": "겨울",
       "en": "winter",
@@ -13986,27 +13239,25 @@ const WORDS_KO_A1 = [
       "ja": "冬",
       "zh": "冬天",
       "ru": "зима",
-      "fr": "hiver"
+      "fr": "l'hiver"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사계절 중 가장 추운 계절로 눈이 내리기도 한다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeoul"
     }
   },
   {
     "id": "ko_7773",
+    "lang": "ko",
     "lemma": "층",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cheung"
+    },
     "meanings": {
       "ko": "층",
       "en": "floor",
@@ -14017,27 +13268,25 @@ const WORDS_KO_A1 = [
       "ja": "階",
       "zh": "层",
       "ru": "этаж",
-      "fr": "étage"
+      "fr": "l'étage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "건물의 바닥에서 천장까지의 한 칸 또는 여러 겹으로 쌓인 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cheung"
     }
   },
   {
     "id": "ko_6004",
+    "lang": "ko",
     "lemma": "식사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "siksa"
+    },
     "meanings": {
       "ko": "식사",
       "en": "meal",
@@ -14048,22 +13297,17 @@ const WORDS_KO_A1 = [
       "ja": "食事",
       "zh": "餐",
       "ru": "еда",
-      "fr": "repas"
+      "fr": "le repas"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하루에 정해진 시간에 음식을 먹는 일이나 그 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "siksa"
     }
   },
   {
     "id": "ko_6185",
+    "lang": "ko",
     "lemma": "안다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14081,21 +13325,18 @@ const WORDS_KO_A1 = [
       "ru": "обнимать",
       "fr": "étreindre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "팔로 상대방을 감싸 몸에 바싹 대다."
     },
-    "infinitive": "안다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "anda"
     }
   },
   {
     "id": "ko_6947",
+    "lang": "ko",
     "lemma": "잊다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14113,26 +13354,26 @@ const WORDS_KO_A1 = [
       "ru": "забывать",
       "fr": "oublier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기억하고 있던 것을 더 이상 기억하지 못하다."
     },
-    "infinitive": "잊다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "itda"
     }
   },
   {
     "id": "ko_7909",
+    "lang": "ko",
     "lemma": "텔레비전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "telrebijeon"
+    },
     "meanings": {
       "ko": "텔레비전",
       "en": "television",
@@ -14143,22 +13384,17 @@ const WORDS_KO_A1 = [
       "ja": "テレビ",
       "zh": "电视",
       "ru": "телевизор",
-      "fr": "télévision"
+      "fr": "la télévision"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리와 함께 움직이는 영상을 볼 수 있는 전자 기기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "telrebijeon"
     }
   },
   {
     "id": "ko_6137",
+    "lang": "ko",
     "lemma": "씻다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14176,21 +13412,18 @@ const WORDS_KO_A1 = [
       "ru": "мыть",
       "fr": "laver"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 물건의 더러운 것을 물로 깨끗하게 하다."
     },
-    "infinitive": "씻다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ssitda"
     }
   },
   {
     "id": "ko_4318",
+    "lang": "ko",
     "lemma": "늦다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14208,7 +13441,6 @@ const WORDS_KO_A1 = [
       "ru": "поздний",
       "fr": "tardif"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 일어나는 시기가 다른 것보다 뒤처지거나 더디다."
     },
@@ -14218,13 +13450,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8007",
+    "lang": "ko",
     "lemma": "편지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pyeonji"
+    },
     "meanings": {
       "ko": "편지",
       "en": "letter",
@@ -14235,27 +13471,25 @@ const WORDS_KO_A1 = [
       "ja": "手紙",
       "zh": "信",
       "ru": "письмо",
-      "fr": "lettre"
+      "fr": "la lettre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 소식이나 안부를 전하기 위해 쓰는 글."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pyeonji"
     }
   },
   {
     "id": "ko_7985",
+    "lang": "ko",
     "lemma": "팔",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pal"
+    },
     "meanings": {
       "ko": "팔",
       "en": "arm",
@@ -14266,27 +13500,25 @@ const WORDS_KO_A1 = [
       "ja": "腕",
       "zh": "胳膊",
       "ru": "рука",
-      "fr": "bras"
+      "fr": "le bras"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어깨부터 손목까지 이어지는 사람의 신체 부위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pal"
     }
   },
   {
     "id": "ko_5695",
+    "lang": "ko",
     "lemma": "설명",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seolmyeong"
+    },
     "meanings": {
       "ko": "설명",
       "en": "explanation",
@@ -14297,27 +13529,25 @@ const WORDS_KO_A1 = [
       "ja": "説明",
       "zh": "说明",
       "ru": "объяснение",
-      "fr": "explication"
+      "fr": "l'explication"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 대상을 남이 잘 알 수 있도록 이야기하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seolmyeong"
     }
   },
   {
     "id": "ko_7963",
+    "lang": "ko",
     "lemma": "티브이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "tibeui"
+    },
     "meanings": {
       "ko": "티브이",
       "en": "TV",
@@ -14328,27 +13558,25 @@ const WORDS_KO_A1 = [
       "ja": "テレビ",
       "zh": "电视",
       "ru": "телевизор",
-      "fr": "télévision"
+      "fr": "la télévision"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "영상과 소리를 볼 수 있는 전자 기기로 텔레비전의 줄임말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "tibeui"
     }
   },
   {
     "id": "ko_5286",
+    "lang": "ko",
     "lemma": "봄",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bom"
+    },
     "meanings": {
       "ko": "봄",
       "en": "spring",
@@ -14359,22 +13587,17 @@ const WORDS_KO_A1 = [
       "ja": "春",
       "zh": "春天",
       "ru": "весна",
-      "fr": "printemps"
+      "fr": "le printemps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "겨울 다음에 오고 여름 전에 오는 따뜻한 계절."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bom"
     }
   },
   {
     "id": "ko_4176",
+    "lang": "ko",
     "lemma": "낮다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14392,7 +13615,6 @@ const WORDS_KO_A1 = [
       "ru": "низкий",
       "fr": "bas"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "키나 높이가 보통보다 아래에 있거나 정도가 약함."
     },
@@ -14402,13 +13624,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6281",
+    "lang": "ko",
     "lemma": "어깨",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eokkae"
+    },
     "meanings": {
       "ko": "어깨",
       "en": "shoulder",
@@ -14419,27 +13645,25 @@ const WORDS_KO_A1 = [
       "ja": "肩",
       "zh": "肩膀",
       "ru": "плечо",
-      "fr": "épaule"
+      "fr": "l'épaule"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "목과 팔이 연결되는 몸의 윗부분입니다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eokkae"
     }
   },
   {
     "id": "ko_5312",
+    "lang": "ko",
     "lemma": "부부",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bubu"
+    },
     "meanings": {
       "ko": "부부",
       "en": "couple",
@@ -14450,28 +13674,26 @@ const WORDS_KO_A1 = [
       "ja": "夫婦",
       "zh": "夫妇",
       "ru": "супруги",
-      "fr": "couple"
+      "fr": "le couple"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "결혼하여 짝을 이룬 남자와 여자를 함께 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bubu"
     }
   },
   {
     "id": "ko_6370",
+    "lang": "ko",
     "lemma": "여행",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ko": "yeohaeng"
+    },
     "meanings": {
       "ko": "여행",
       "en": "travel",
@@ -14484,25 +13706,26 @@ const WORDS_KO_A1 = [
       "ru": "путешествие",
       "fr": "voyager"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "집을 떠나 다른 곳으로 가서 구경하거나 쉬는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeohaeng"
+      "ko_gloss": "집을 떠나 다른 곳으로 가서 구경하거나 쉬는 일.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_3692",
+    "lang": "ko",
     "lemma": "공",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gong"
+    },
     "meanings": {
       "ko": "공",
       "en": "ball",
@@ -14513,27 +13736,25 @@ const WORDS_KO_A1 = [
       "ja": "ボール",
       "zh": "球",
       "ru": "мяч",
-      "fr": "balle"
+      "fr": "la balle"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "둥근 모양으로 운동이나 놀이에 쓰는 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gong"
     }
   },
   {
     "id": "ko_6511",
+    "lang": "ko",
     "lemma": "오월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "owol"
+    },
     "meanings": {
       "ko": "오월",
       "en": "May",
@@ -14546,20 +13767,21 @@ const WORDS_KO_A1 = [
       "ru": "май",
       "fr": "mai"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 다섯 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "owol"
+      "ko_gloss": "일 년 중 다섯 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_5911",
+    "lang": "ko",
     "lemma": "쉬다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14577,26 +13799,26 @@ const WORDS_KO_A1 = [
       "ru": "отдыхать",
       "fr": "se reposer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일이나 활동을 멈추고 몸이나 마음을 편안하게 하는 것."
     },
-    "infinitive": "쉬다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "swida"
     }
   },
   {
     "id": "ko_3730",
+    "lang": "ko",
     "lemma": "과",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwa"
+    },
     "meanings": {
       "ko": "과",
       "en": "chapter",
@@ -14607,27 +13829,25 @@ const WORDS_KO_A1 = [
       "ja": "章",
       "zh": "章",
       "ru": "глава",
-      "fr": "chapitre"
+      "fr": "le chapitre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "책이나 교재에서 내용을 나누는 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwa"
     }
   },
   {
     "id": "ko_6508",
+    "lang": "ko",
     "lemma": "오빠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "oppa"
+    },
     "meanings": {
       "ko": "오빠",
       "en": "older brother",
@@ -14638,22 +13858,17 @@ const WORDS_KO_A1 = [
       "ja": "兄",
       "zh": "哥哥",
       "ru": "старший брат",
-      "fr": "frère aîné"
+      "fr": "le frère aîné"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여자가 자신보다 나이가 많은 남자 형제를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oppa"
     }
   },
   {
     "id": "ko_7420",
+    "lang": "ko",
     "lemma": "즐겁다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14671,7 +13886,6 @@ const WORDS_KO_A1 = [
       "ru": "радостный",
       "fr": "joyeux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "마음이 매우 기쁘고 유쾌하다."
     },
@@ -14681,13 +13895,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5517",
+    "lang": "ko",
     "lemma": "사월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sawol"
+    },
     "meanings": {
       "ko": "사월",
       "en": "April",
@@ -14700,20 +13918,21 @@ const WORDS_KO_A1 = [
       "ru": "апрель",
       "fr": "avril"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 네 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sawol"
+      "ko_gloss": "일 년 중 네 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_6104",
+    "lang": "ko",
     "lemma": "싸우다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14731,21 +13950,18 @@ const WORDS_KO_A1 = [
       "ru": "драться",
       "fr": "se battre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서로 의견이 달라 다투거나 주먹 등으로 때리며 겨루는 것."
     },
-    "infinitive": "싸우다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ssauda"
     }
   },
   {
     "id": "ko_6466",
+    "lang": "ko",
     "lemma": "예쁘다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14763,7 +13979,6 @@ const WORDS_KO_A1 = [
       "ru": "красивый",
       "fr": "joli"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "보기에 즐겁고 아름다운 느낌이 있다."
     },
@@ -14773,13 +13988,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4133",
+    "lang": "ko",
     "lemma": "나중",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "najung"
+    },
     "meanings": {
       "ko": "나중",
       "en": "later",
@@ -14792,20 +14011,15 @@ const WORDS_KO_A1 = [
       "ru": "позже",
       "fr": "plus tard"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "현재의 시간보다 뒤에 오는 시간이나 때."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "najung"
     }
   },
   {
     "id": "ko_4785",
+    "lang": "ko",
     "lemma": "맛있다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14823,7 +14037,6 @@ const WORDS_KO_A1 = [
       "ru": "вкусный",
       "fr": "délicieux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 좋아서 먹기에 즐거운 상태"
     },
@@ -14833,13 +14046,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4842",
+    "lang": "ko",
     "lemma": "며칠",
-    "pos": "명사",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "myeochil"
+    },
     "meanings": {
       "ko": "며칠",
       "en": "how many days",
@@ -14852,20 +14069,15 @@ const WORDS_KO_A1 = [
       "ru": "сколько дней",
       "fr": "combien de jours"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날짜를 묻거나 많지 않은 날을 이르는 말"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "myeochil"
     }
   },
   {
     "id": "ko_6999",
+    "lang": "ko",
     "lemma": "작년",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14883,20 +14095,18 @@ const WORDS_KO_A1 = [
       "ru": "прошлый год",
       "fr": "l'année dernière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지금으로부터 바로 지난 해."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "jaknyeon"
     }
   },
   {
     "id": "ko_4189",
+    "lang": "ko",
     "lemma": "내려가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14914,27 +14124,27 @@ const WORDS_KO_A1 = [
       "ru": "спускаться",
       "fr": "descendre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "높은 곳에서 낮은 곳으로 이동함."
     },
-    "infinitive": "내려가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "naeryeogada"
     }
   },
   {
     "id": "ko_6123",
+    "lang": "ko",
     "lemma": "쓰레기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "sseuregi"
+    },
     "meanings": {
       "ko": "쓰레기",
       "en": "trash",
@@ -14945,27 +14155,25 @@ const WORDS_KO_A1 = [
       "ja": "ゴミ",
       "zh": "垃圾",
       "ru": "мусор",
-      "fr": "déchets"
+      "fr": "les déchets"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "더러워서 버려야 할 물건이나 쓸모없는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sseuregi"
     }
   },
   {
     "id": "ko_3644",
+    "lang": "ko",
     "lemma": "고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gogi"
+    },
     "meanings": {
       "ko": "고기",
       "en": "meat",
@@ -14976,22 +14184,17 @@ const WORDS_KO_A1 = [
       "ja": "肉",
       "zh": "肉",
       "ru": "мясо",
-      "fr": "viande"
+      "fr": "la viande"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "동물의 살로 만든 음식 재료."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gogi"
     }
   },
   {
     "id": "ko_3409",
+    "lang": "ko",
     "lemma": "가져오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15009,26 +14212,26 @@ const WORDS_KO_A1 = [
       "ru": "приносить",
       "fr": "apporter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 물건을 가지고 있는 곳으로 오다."
     },
-    "infinitive": "가져오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gajyeooda"
     }
   },
   {
     "id": "ko_4158",
+    "lang": "ko",
     "lemma": "남녀",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "namnyeo"
+    },
     "meanings": {
       "ko": "남녀",
       "en": "man and woman",
@@ -15041,25 +14244,30 @@ const WORDS_KO_A1 = [
       "ru": "мужчина и женщина",
       "fr": "homme et femme"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "남자와 여자를 함께 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namnyeo"
+      "ko_gloss": "남자와 여자를 함께 이르는 말.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_7375",
+    "lang": "ko",
     "lemma": "준비",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "junbi"
+    },
     "meanings": {
       "ko": "준비",
       "en": "preparation",
@@ -15070,27 +14278,25 @@ const WORDS_KO_A1 = [
       "ja": "準備",
       "zh": "准备",
       "ru": "подготовка",
-      "fr": "préparation"
+      "fr": "la préparation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하기 위해 미리 필요한 것을 갖추는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "junbi"
     }
   },
   {
     "id": "ko_3821",
+    "lang": "ko",
     "lemma": "구월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "guwol"
+    },
     "meanings": {
       "ko": "구월",
       "en": "September",
@@ -15103,20 +14309,21 @@ const WORDS_KO_A1 = [
       "ru": "сентябрь",
       "fr": "septembre"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 열두 달 중 아홉 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "guwol"
+      "ko_gloss": "일 년 열두 달 중 아홉 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_4780",
+    "lang": "ko",
     "lemma": "맑다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15134,7 +14341,6 @@ const WORDS_KO_A1 = [
       "ru": "ясный",
       "fr": "clair"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물이나 공기 등이 깨끗하고 투명하다."
     },
@@ -15144,13 +14350,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6704",
+    "lang": "ko",
     "lemma": "유월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yuwol"
+    },
     "meanings": {
       "ko": "유월",
       "en": "June",
@@ -15163,25 +14373,29 @@ const WORDS_KO_A1 = [
       "ru": "июнь",
       "fr": "juin"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 여섯 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yuwol"
+      "ko_gloss": "일 년 중 여섯 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_8228",
+    "lang": "ko",
     "lemma": "허리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "heori"
+    },
     "meanings": {
       "ko": "허리",
       "en": "waist",
@@ -15192,27 +14406,25 @@ const WORDS_KO_A1 = [
       "ja": "腰",
       "zh": "腰",
       "ru": "талия",
-      "fr": "taille"
+      "fr": "la taille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸통의 가운데 부분으로 배와 등 사이를 말한다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "heori"
     }
   },
   {
     "id": "ko_5603",
+    "lang": "ko",
     "lemma": "새",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sae"
+    },
     "meanings": {
       "ko": "새",
       "en": "bird",
@@ -15223,27 +14435,25 @@ const WORDS_KO_A1 = [
       "ja": "鳥",
       "zh": "鸟",
       "ru": "птица",
-      "fr": "oiseau"
+      "fr": "l'oiseau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날개가 있고 하늘을 날아다니는 동물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sae"
     }
   },
   {
     "id": "ko_6440",
+    "lang": "ko",
     "lemma": "영어",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeongeo"
+    },
     "meanings": {
       "ko": "영어",
       "en": "English",
@@ -15254,22 +14464,17 @@ const WORDS_KO_A1 = [
       "ja": "英語",
       "zh": "英语",
       "ru": "английский язык",
-      "fr": "anglais"
+      "fr": "l'anglais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "영국과 미국 등 여러 나라에서 사용하는 언어"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeongeo"
     }
   },
   {
     "id": "ko_4428",
+    "lang": "ko",
     "lemma": "대답하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15287,21 +14492,18 @@ const WORDS_KO_A1 = [
       "ru": "отвечать",
       "fr": "répondre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "질문이나 부름에 대해 말을 하다."
     },
-    "infinitive": "대답하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "daedaphada"
     }
   },
   {
     "id": "ko_5197",
+    "lang": "ko",
     "lemma": "벗다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15319,21 +14521,18 @@ const WORDS_KO_A1 = [
       "ru": "снимать",
       "fr": "enlever"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸에 걸치거나 신고 있던 것을 몸에서 떼어내다."
     },
-    "infinitive": "벗다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "beotda"
     }
   },
   {
     "id": "ko_7378",
+    "lang": "ko",
     "lemma": "준비하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15351,21 +14550,18 @@ const WORDS_KO_A1 = [
       "ru": "готовить",
       "fr": "préparer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일을 하거나 물건을 사용하기 위해 미리 갖추어 놓다."
     },
-    "infinitive": "준비하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "junbihada"
     }
   },
   {
     "id": "ko_4534",
+    "lang": "ko",
     "lemma": "돕다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15383,26 +14579,26 @@ const WORDS_KO_A1 = [
       "ru": "помогать",
       "fr": "aider"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람이 어떤 일을 잘할 수 있도록 거들거나 힘을 보태다."
     },
-    "infinitive": "돕다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dopda"
     }
   },
   {
     "id": "ko_4371",
+    "lang": "ko",
     "lemma": "달",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dal"
+    },
     "meanings": {
       "ko": "달",
       "en": "moon",
@@ -15413,27 +14609,25 @@ const WORDS_KO_A1 = [
       "ja": "月",
       "zh": "月亮",
       "ru": "луна",
-      "fr": "lune"
+      "fr": "la lune"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밤하늘에 뜨는 둥근 모양의 천체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dal"
     }
   },
   {
     "id": "ko_5525",
+    "lang": "ko",
     "lemma": "사장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sajang"
+    },
     "meanings": {
       "ko": "사장",
       "en": "president",
@@ -15444,27 +14638,25 @@ const WORDS_KO_A1 = [
       "ja": "社長",
       "zh": "社长",
       "ru": "президент",
-      "fr": "président"
+      "fr": "le président"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "회사의 모든 업무를 책임지고 관리하는 가장 높은 직위의 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sajang"
     }
   },
   {
     "id": "ko_5567",
+    "lang": "ko",
     "lemma": "삼월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "samwol"
+    },
     "meanings": {
       "ko": "삼월",
       "en": "March",
@@ -15477,25 +14669,29 @@ const WORDS_KO_A1 = [
       "ru": "март",
       "fr": "mars"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 세 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "samwol"
+      "ko_gloss": "일 년 중 세 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_7863",
+    "lang": "ko",
     "lemma": "키",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ki"
+    },
     "meanings": {
       "ko": "키",
       "en": "height",
@@ -15506,27 +14702,25 @@ const WORDS_KO_A1 = [
       "ja": "身長",
       "zh": "身高",
       "ru": "рост",
-      "fr": "taille"
+      "fr": "la taille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 물건의 위아래 길이를 나타내는 정도"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ki"
     }
   },
   {
     "id": "ko_3532",
+    "lang": "ko",
     "lemma": "걱정",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geokjeong"
+    },
     "meanings": {
       "ko": "걱정",
       "en": "worry",
@@ -15537,22 +14731,17 @@ const WORDS_KO_A1 = [
       "ja": "心配",
       "zh": "担心",
       "ru": "беспокойство",
-      "fr": "souci"
+      "fr": "le souci"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "좋지 않은 일이 생길까 봐 마음을 졸이는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geokjeong"
     }
   },
   {
     "id": "ko_3597",
+    "lang": "ko",
     "lemma": "결혼하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15570,26 +14759,26 @@ const WORDS_KO_A1 = [
       "ru": "жениться",
       "fr": "épouser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남자와 여자가 부부가 되다."
     },
-    "infinitive": "결혼하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gyeolhonhada"
     }
   },
   {
     "id": "ko_4286",
+    "lang": "ko",
     "lemma": "누나",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nuna"
+    },
     "meanings": {
       "ko": "누나",
       "en": "older sister",
@@ -15600,27 +14789,25 @@ const WORDS_KO_A1 = [
       "ja": "姉",
       "zh": "姐姐",
       "ru": "старшая сестра",
-      "fr": "sœur aînée"
+      "fr": "la sœur aînée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남자가 자기보다 나이가 많은 여자 형제를 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nuna"
     }
   },
   {
     "id": "ko_7523",
+    "lang": "ko",
     "lemma": "질문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jilmun"
+    },
     "meanings": {
       "ko": "질문",
       "en": "question",
@@ -15631,27 +14818,25 @@ const WORDS_KO_A1 = [
       "ja": "質問",
       "zh": "问题",
       "ru": "вопрос",
-      "fr": "question"
+      "fr": "la question"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "모르는 것을 묻거나 의논하기 위해 하는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jilmun"
     }
   },
   {
     "id": "ko_3933",
+    "lang": "ko",
     "lemma": "근처",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geuncheo"
+    },
     "meanings": {
       "ko": "근처",
       "en": "near",
@@ -15664,25 +14849,26 @@ const WORDS_KO_A1 = [
       "ru": "близость",
       "fr": "près"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "어떤 곳에서 멀지 않은 가까운 곳"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geuncheo"
+      "ko_gloss": "어떤 곳에서 멀지 않은 가까운 곳",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_5310",
+    "lang": "ko",
     "lemma": "부모님",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bumonim"
+    },
     "meanings": {
       "ko": "부모님",
       "en": "parents",
@@ -15693,22 +14879,17 @@ const WORDS_KO_A1 = [
       "ja": "両親",
       "zh": "父母",
       "ru": "родители",
-      "fr": "parents"
+      "fr": "les parents"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자식을 낳아 기른 아버지와 어머니를 높여 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bumonim"
     }
   },
   {
     "id": "ko_3630",
+    "lang": "ko",
     "lemma": "계시다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15726,26 +14907,26 @@ const WORDS_KO_A1 = [
       "ru": "быть",
       "fr": "être"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "'있다'의 높임말로, 사람이 어떤 장소에 머무르다."
     },
-    "infinitive": "계시다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gyesida"
     }
   },
   {
     "id": "ko_5437",
+    "lang": "ko",
     "lemma": "비행기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bihaenggi"
+    },
     "meanings": {
       "ko": "비행기",
       "en": "airplane",
@@ -15756,22 +14937,17 @@ const WORDS_KO_A1 = [
       "ja": "飛行機",
       "zh": "飞机",
       "ru": "самолет",
-      "fr": "avion"
+      "fr": "l'avion"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날개를 이용하여 하늘을 날아다니는 교통수단."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bihaenggi"
     }
   },
   {
     "id": "ko_4690",
+    "lang": "ko",
     "lemma": "뜨겁다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15789,7 +14965,6 @@ const WORDS_KO_A1 = [
       "ru": "горячий",
       "fr": "chaud"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "온도가 높아서 만지면 뜨거운 느낌이 들다."
     },
@@ -15799,13 +14974,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4175",
+    "lang": "ko",
     "lemma": "낮",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nat"
+    },
     "meanings": {
       "ko": "낮",
       "en": "daytime",
@@ -15816,22 +14995,17 @@ const WORDS_KO_A1 = [
       "ja": "昼",
       "zh": "白天",
       "ru": "день",
-      "fr": "journée"
+      "fr": "la journée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 떠서 밝은 아침부터 저녁까지의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nat"
     }
   },
   {
     "id": "ko_7564",
+    "lang": "ko",
     "lemma": "찍다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15849,21 +15023,18 @@ const WORDS_KO_A1 = [
       "ru": "снимать",
       "fr": "prendre une photo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사진기나 카메라로 어떤 장면을 기록하다."
     },
-    "infinitive": "찍다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jjikda"
     }
   },
   {
     "id": "ko_3389",
+    "lang": "ko",
     "lemma": "가볍다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15881,7 +15052,6 @@ const WORDS_KO_A1 = [
       "ru": "легкий",
       "fr": "lumière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건의 무게가 적게 나가다"
     },
@@ -15891,13 +15061,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6513",
+    "lang": "ko",
     "lemma": "오전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ojeon"
+    },
     "meanings": {
       "ko": "오전",
       "en": "morning",
@@ -15908,27 +15082,25 @@ const WORDS_KO_A1 = [
       "ja": "午前",
       "zh": "上午",
       "ru": "утро",
-      "fr": "matin"
+      "fr": "le matin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하루 중 밤 열두 시부터 낮 열두 시까지의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ojeon"
     }
   },
   {
     "id": "ko_3358",
+    "lang": "ko",
     "lemma": "가게",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gage"
+    },
     "meanings": {
       "ko": "가게",
       "en": "store",
@@ -15939,27 +15111,25 @@ const WORDS_KO_A1 = [
       "ja": "店",
       "zh": "商店",
       "ru": "магазин",
-      "fr": "magasin"
+      "fr": "le magasin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 팔거나 서비스를 제공하는 작은 건물이나 장소"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gage"
     }
   },
   {
     "id": "ko_6248",
+    "lang": "ko",
     "lemma": "약속",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yaksok"
+    },
     "meanings": {
       "ko": "약속",
       "en": "promise",
@@ -15970,27 +15140,25 @@ const WORDS_KO_A1 = [
       "ja": "約束",
       "zh": "承诺",
       "ru": "обещание",
-      "fr": "promesse"
+      "fr": "la promesse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람과 앞으로 할 일에 대해 미리 정해 놓는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yaksok"
     }
   },
   {
     "id": "ko_6852",
+    "lang": "ko",
     "lemma": "인사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "insa"
+    },
     "meanings": {
       "ko": "인사",
       "en": "greeting",
@@ -16001,27 +15169,25 @@ const WORDS_KO_A1 = [
       "ja": "挨拶",
       "zh": "问候",
       "ru": "приветствие",
-      "fr": "salutation"
+      "fr": "la salutation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "윗사람에게 존경을 표하며 고개를 숙이는 행동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "insa"
     }
   },
   {
     "id": "ko_5757",
+    "lang": "ko",
     "lemma": "소금",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sogeum"
+    },
     "meanings": {
       "ko": "소금",
       "en": "salt",
@@ -16032,27 +15198,25 @@ const WORDS_KO_A1 = [
       "ja": "塩",
       "zh": "盐",
       "ru": "соль",
-      "fr": "sel"
+      "fr": "le sel"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛을 짜게 하는 하얀 가루 양념."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sogeum"
     }
   },
   {
     "id": "ko_6991",
+    "lang": "ko",
     "lemma": "자전거",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "jajeongeo"
+    },
     "meanings": {
       "ko": "자전거",
       "en": "bicycle",
@@ -16063,27 +15227,25 @@ const WORDS_KO_A1 = [
       "ja": "自転車",
       "zh": "自行车",
       "ru": "велосипед",
-      "fr": "vélo"
+      "fr": "le vélo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 바퀴로 되어 있고 페달을 밟아 움직이는 탈것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jajeongeo"
     }
   },
   {
     "id": "ko_4879",
+    "lang": "ko",
     "lemma": "목",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mok"
+    },
     "meanings": {
       "ko": "목",
       "en": "neck",
@@ -16094,22 +15256,17 @@ const WORDS_KO_A1 = [
       "ja": "首",
       "zh": "脖子",
       "ru": "шея",
-      "fr": "cou"
+      "fr": "le cou"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "머리와 몸통을 이어주는 신체 부위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mok"
     }
   },
   {
     "id": "ko_8079",
+    "lang": "ko",
     "lemma": "피우다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16127,26 +15284,26 @@ const WORDS_KO_A1 = [
       "ru": "заставить цвести",
       "fr": "faire fleurir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "불을 붙이거나 꽃이 피게 만드는 행동."
     },
-    "infinitive": "피우다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "piuda"
     }
   },
   {
     "id": "ko_3791",
+    "lang": "ko",
     "lemma": "교통",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyotong"
+    },
     "meanings": {
       "ko": "교통",
       "en": "traffic",
@@ -16157,27 +15314,25 @@ const WORDS_KO_A1 = [
       "ja": "交通",
       "zh": "交通",
       "ru": "движение",
-      "fr": "circulation"
+      "fr": "la circulation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이나 차가 오고 가는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyotong"
     }
   },
   {
     "id": "ko_3519",
+    "lang": "ko",
     "lemma": "거리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "geori"
+    },
     "meanings": {
       "ko": "거리",
       "en": "street",
@@ -16188,22 +15343,17 @@ const WORDS_KO_A1 = [
       "ja": "通り",
       "zh": "街道",
       "ru": "улица",
-      "fr": "rue"
+      "fr": "la rue"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 다니는 길이나 도로."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geori"
     }
   },
   {
     "id": "ko_5368",
+    "lang": "ko",
     "lemma": "불다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16221,26 +15371,26 @@ const WORDS_KO_A1 = [
       "ru": "дуть",
       "fr": "souffler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "바람이 움직이거나 입으로 공기를 내보내는 행동"
     },
-    "infinitive": "불다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "bulda"
     }
   },
   {
     "id": "ko_8138",
+    "lang": "ko",
     "lemma": "한글",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hangeul"
+    },
     "meanings": {
       "ko": "한글",
       "en": "Hangeul",
@@ -16251,27 +15401,25 @@ const WORDS_KO_A1 = [
       "ja": "ハングル",
       "zh": "韩文",
       "ru": "хангыль",
-      "fr": "Hangeul"
+      "fr": "le Hangeul"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한국어를 표기하기 위해 만든 고유한 문자 체계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hangeul"
     }
   },
   {
     "id": "ko_3399",
+    "lang": "ko",
     "lemma": "가을",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gaeul"
+    },
     "meanings": {
       "ko": "가을",
       "en": "autumn",
@@ -16282,28 +15430,26 @@ const WORDS_KO_A1 = [
       "ja": "秋",
       "zh": "秋天",
       "ru": "осень",
-      "fr": "automne"
+      "fr": "l'automne"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여름과 겨울 사이에 있는 계절."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gaeul"
     }
   },
   {
     "id": "ko_4203",
+    "lang": "ko",
     "lemma": "내일",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
+    "reading": {
+      "ko": "naeil"
+    },
     "meanings": {
       "ko": "내일",
       "en": "tomorrow",
@@ -16316,25 +15462,23 @@ const WORDS_KO_A1 = [
       "ru": "завтра",
       "fr": "demain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "오늘이 지나고 찾아오는 다음 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "naeil"
     }
   },
   {
     "id": "ko_5812",
+    "lang": "ko",
     "lemma": "손가락",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "songarak"
+    },
     "meanings": {
       "ko": "손가락",
       "en": "finger",
@@ -16345,28 +15489,26 @@ const WORDS_KO_A1 = [
       "ja": "指",
       "zh": "手指",
       "ru": "палец",
-      "fr": "doigt"
+      "fr": "le doigt"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "손바닥 끝에 붙어 있는 다섯 개의 가늘고 긴 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "songarak"
     }
   },
   {
     "id": "ko_4148",
+    "lang": "ko",
     "lemma": "날씨",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "nalssi"
+    },
     "meanings": {
       "ko": "날씨",
       "en": "weather",
@@ -16377,27 +15519,25 @@ const WORDS_KO_A1 = [
       "ja": "天気",
       "zh": "天气",
       "ru": "погода",
-      "fr": "temps"
+      "fr": "le temps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기온, 바람, 비 등 대기의 상태."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nalssi"
     }
   },
   {
     "id": "ko_4541",
+    "lang": "ko",
     "lemma": "동물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dongmul"
+    },
     "meanings": {
       "ko": "동물",
       "en": "animal",
@@ -16408,27 +15548,25 @@ const WORDS_KO_A1 = [
       "ja": "動物",
       "zh": "动物",
       "ru": "животное",
-      "fr": "animal"
+      "fr": "l'animal"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 아닌 살아 움직이는 생물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongmul"
     }
   },
   {
     "id": "ko_6749",
+    "lang": "ko",
     "lemma": "의사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "uisa"
+    },
     "meanings": {
       "ko": "의사",
       "en": "doctor",
@@ -16439,22 +15577,17 @@ const WORDS_KO_A1 = [
       "ja": "医者",
       "zh": "医生",
       "ru": "врач",
-      "fr": "médecin"
+      "fr": "le médecin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "병을 치료하고 건강을 돌보는 일을 하는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "uisa"
     }
   },
   {
     "id": "ko_3537",
+    "lang": "ko",
     "lemma": "건강하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16472,7 +15605,6 @@ const WORDS_KO_A1 = [
       "ru": "здоровый",
       "fr": "sain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 병 없이 튼튼하고 좋다."
     },
@@ -16482,8 +15614,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4511",
+    "lang": "ko",
     "lemma": "도착하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16501,26 +15634,26 @@ const WORDS_KO_A1 = [
       "ru": "прибывать",
       "fr": "arriver"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소나 목적지에 다다르다."
     },
-    "infinitive": "도착하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dochakhada"
     }
   },
   {
     "id": "ko_5219",
+    "lang": "ko",
     "lemma": "병",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "byeong"
+    },
     "meanings": {
       "ko": "병",
       "en": "bottle",
@@ -16531,22 +15664,17 @@ const WORDS_KO_A1 = [
       "ja": "瓶",
       "zh": "瓶子",
       "ru": "бутылка",
-      "fr": "bouteille"
+      "fr": "la bouteille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "액체를 담는 데 쓰는 유리나 플라스틱 용기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "byeong"
     }
   },
   {
     "id": "ko_4639",
+    "lang": "ko",
     "lemma": "따뜻하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16564,7 +15692,6 @@ const WORDS_KO_A1 = [
       "ru": "тёплый",
       "fr": "chaud"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "춥지 않고 기분 좋게 온도가 높은 상태."
     },
@@ -16574,13 +15701,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7728",
+    "lang": "ko",
     "lemma": "축구",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chukgu"
+    },
     "meanings": {
       "ko": "축구",
       "en": "soccer",
@@ -16591,22 +15722,17 @@ const WORDS_KO_A1 = [
       "ja": "サッカー",
       "zh": "足球",
       "ru": "футбол",
-      "fr": "football"
+      "fr": "le football"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 팀이 발로 공을 차서 상대방 골에 넣는 운동 경기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chukgu"
     }
   },
   {
     "id": "ko_5103",
+    "lang": "ko",
     "lemma": "밝다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16624,7 +15750,6 @@ const WORDS_KO_A1 = [
       "ru": "яркий",
       "fr": "lumineux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빛이 많아서 환하거나 색깔이 연하고 선명한 상태."
     },
@@ -16634,13 +15759,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7066",
+    "lang": "ko",
     "lemma": "장소",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jangso"
+    },
     "meanings": {
       "ko": "장소",
       "en": "place",
@@ -16651,22 +15780,17 @@ const WORDS_KO_A1 = [
       "ja": "場所",
       "zh": "地方",
       "ru": "место",
-      "fr": "endroit"
+      "fr": "l'endroit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 일어나거나 어떤 것이 있는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jangso"
     }
   },
   {
     "id": "ko_7108",
+    "lang": "ko",
     "lemma": "적다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16685,26 +15809,26 @@ const WORDS_KO_A1 = [
       "ru": "писать",
       "fr": "écrire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글씨나 내용을 종이 등에 쓰는 것."
     },
-    "infinitive": "적다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jeokda"
     }
   },
   {
     "id": "ko_7829",
+    "lang": "ko",
     "lemma": "코",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ko"
+    },
     "meanings": {
       "ko": "코",
       "en": "nose",
@@ -16715,28 +15839,26 @@ const WORDS_KO_A1 = [
       "ja": "鼻",
       "zh": "鼻子",
       "ru": "нос",
-      "fr": "nez"
+      "fr": "le nez"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "얼굴 중앙에 있어 냄새를 맡고 숨을 쉬는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ko"
     }
   },
   {
     "id": "ko_3645",
+    "lang": "ko",
     "lemma": "고등학교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "godeunghakgyo"
+    },
     "meanings": {
       "ko": "고등학교",
       "en": "high school",
@@ -16747,27 +15869,25 @@ const WORDS_KO_A1 = [
       "ja": "高校",
       "zh": "高中",
       "ru": "старшая школа",
-      "fr": "lycée"
+      "fr": "le lycée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "중학교를 졸업한 학생들이 다니는 학교."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "godeunghakgyo"
     }
   },
   {
     "id": "ko_3781",
+    "lang": "ko",
     "lemma": "교실",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "gyosil"
+    },
     "meanings": {
       "ko": "교실",
       "en": "classroom",
@@ -16778,27 +15898,25 @@ const WORDS_KO_A1 = [
       "ja": "教室",
       "zh": "教室",
       "ru": "класс",
-      "fr": "salle de classe"
+      "fr": "la salle de classe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학생들이 수업을 듣는 방."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyosil"
     }
   },
   {
     "id": "ko_5214",
+    "lang": "ko",
     "lemma": "별",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "byeol"
+    },
     "meanings": {
       "ko": "별",
       "en": "star",
@@ -16809,22 +15927,17 @@ const WORDS_KO_A1 = [
       "ja": "星",
       "zh": "星星",
       "ru": "звезда",
-      "fr": "étoile"
+      "fr": "l'étoile"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밤하늘에 빛나는 작은 천체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "byeol"
     }
   },
   {
     "id": "ko_5271",
+    "lang": "ko",
     "lemma": "복잡하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16842,7 +15955,6 @@ const WORDS_KO_A1 = [
       "ru": "сложный",
       "fr": "complexe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 가지가 뒤섞여서 간단하지 않거나 질서가 없는 상태."
     },
@@ -16852,13 +15964,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5613",
+    "lang": "ko",
     "lemma": "색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saek"
+    },
     "meanings": {
       "ko": "색",
       "en": "color",
@@ -16869,22 +15985,17 @@ const WORDS_KO_A1 = [
       "ja": "色",
       "zh": "颜色",
       "ru": "цвет",
-      "fr": "couleur"
+      "fr": "la couleur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빛의 파장에 따라 다르게 보이는 물체의 성질."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saek"
     }
   },
   {
     "id": "ko_4672",
+    "lang": "ko",
     "lemma": "똑같다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16902,7 +16013,6 @@ const WORDS_KO_A1 = [
       "ru": "одинаковый",
       "fr": "même"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "둘 이상의 것이 서로 조금도 다르지 않고 같다."
     },
@@ -16912,8 +16022,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4777",
+    "lang": "ko",
     "lemma": "말씀하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16931,26 +16042,26 @@ const WORDS_KO_A1 = [
       "ru": "говорить",
       "fr": "parler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "'말하다'의 높임말로, 윗사람이 말하는 것을 높여 이르는 말."
     },
-    "infinitive": "말씀하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "malsseumhada"
     }
   },
   {
     "id": "ko_5257",
+    "lang": "ko",
     "lemma": "보통",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "botong"
+    },
     "meanings": {
       "ko": "보통",
       "en": "usual",
@@ -16963,25 +16074,26 @@ const WORDS_KO_A1 = [
       "ru": "обычно",
       "fr": "habituel"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "특별하지 않고 흔하거나 평범한 상태나 정도."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "botong"
+      "ko_gloss": "특별하지 않고 흔하거나 평범한 상태나 정도.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_5999",
+    "lang": "ko",
     "lemma": "식당",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sikdang"
+    },
     "meanings": {
       "ko": "식당",
       "en": "restaurant",
@@ -16992,22 +16104,17 @@ const WORDS_KO_A1 = [
       "ja": "レストラン",
       "zh": "餐厅",
       "ru": "ресторан",
-      "fr": "restaurant"
+      "fr": "le restaurant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 받고 음식을 만들어 파는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sikdang"
     }
   },
   {
     "id": "ko_5753",
+    "lang": "ko",
     "lemma": "소개하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17025,26 +16132,26 @@ const WORDS_KO_A1 = [
       "ru": "представлять",
       "fr": "présenter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "모르는 사람이나 사물을 다른 사람에게 알려주다."
     },
-    "infinitive": "소개하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sogaehada"
     }
   },
   {
     "id": "ko_7793",
+    "lang": "ko",
     "lemma": "칠월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chilwol"
+    },
     "meanings": {
       "ko": "칠월",
       "en": "July",
@@ -17057,25 +16164,29 @@ const WORDS_KO_A1 = [
       "ru": "июль",
       "fr": "juillet"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 열두 달 중 일곱 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chilwol"
+      "ko_gloss": "일 년 열두 달 중 일곱 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_6097",
+    "lang": "ko",
     "lemma": "십이월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sipiwol"
+    },
     "meanings": {
       "ko": "십이월",
       "en": "December",
@@ -17088,25 +16199,29 @@ const WORDS_KO_A1 = [
       "ru": "декабрь",
       "fr": "décembre"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "한 해의 열두 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sipiwol"
+      "ko_gloss": "한 해의 열두 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_7824",
+    "lang": "ko",
     "lemma": "컵",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "keop"
+    },
     "meanings": {
       "ko": "컵",
       "en": "cup",
@@ -17117,27 +16232,25 @@ const WORDS_KO_A1 = [
       "ja": "コップ",
       "zh": "杯子",
       "ru": "чашка",
-      "fr": "tasse"
+      "fr": "la tasse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물이나 음료를 마실 때 사용하는 작은 그릇."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "keop"
     }
   },
   {
     "id": "ko_7317",
+    "lang": "ko",
     "lemma": "종이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jongi"
+    },
     "meanings": {
       "ko": "종이",
       "en": "paper",
@@ -17148,27 +16261,25 @@ const WORDS_KO_A1 = [
       "ja": "紙",
       "zh": "纸",
       "ru": "бумага",
-      "fr": "papier"
+      "fr": "le papier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글씨를 쓰거나 그림을 그리는 데 쓰는 얇은 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jongi"
     }
   },
   {
     "id": "ko_7077",
+    "lang": "ko",
     "lemma": "재미",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jaemi"
+    },
     "meanings": {
       "ko": "재미",
       "en": "fun",
@@ -17179,27 +16290,25 @@ const WORDS_KO_A1 = [
       "ja": "面白さ",
       "zh": "趣味",
       "ru": "интерес",
-      "fr": "amusement"
+      "fr": "l'amusement"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "즐겁고 유쾌한 느낌이나 기분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jaemi"
     }
   },
   {
     "id": "ko_4663",
+    "lang": "ko",
     "lemma": "떡",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "tteok"
+    },
     "meanings": {
       "ko": "떡",
       "en": "rice cake",
@@ -17210,22 +16319,17 @@ const WORDS_KO_A1 = [
       "ja": "餅",
       "zh": "年糕",
       "ru": "рисовый пирог",
-      "fr": "gâteau de riz"
+      "fr": "le gâteau de riz"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "쌀이나 다른 곡물 가루로 만든 한국의 전통 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "tteok"
     }
   },
   {
     "id": "ko_4105",
+    "lang": "ko",
     "lemma": "끝내다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17243,26 +16347,26 @@ const WORDS_KO_A1 = [
       "ru": "заканчивать",
       "fr": "finir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 과정을 마지막까지 하여 마치는 행동을 하다."
     },
-    "infinitive": "끝내다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kkeutnaeda"
     }
   },
   {
     "id": "ko_4427",
+    "lang": "ko",
     "lemma": "대답",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "daedap"
+    },
     "meanings": {
       "ko": "대답",
       "en": "answer",
@@ -17273,27 +16377,25 @@ const WORDS_KO_A1 = [
       "ja": "答え",
       "zh": "回答",
       "ru": "ответ",
-      "fr": "réponse"
+      "fr": "la réponse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "질문이나 부름에 대한 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daedap"
     }
   },
   {
     "id": "ko_5980",
+    "lang": "ko",
     "lemma": "시작",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sijak"
+    },
     "meanings": {
       "ko": "시작",
       "en": "start",
@@ -17304,28 +16406,26 @@ const WORDS_KO_A1 = [
       "ja": "始まり",
       "zh": "开始",
       "ru": "начало",
-      "fr": "début"
+      "fr": "le début"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 행동이 처음으로 이루어지는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sijak"
     }
   },
   {
     "id": "ko_6905",
+    "lang": "ko",
     "lemma": "일주일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "iljuil"
+    },
     "meanings": {
       "ko": "일주일",
       "en": "week",
@@ -17336,27 +16436,25 @@ const WORDS_KO_A1 = [
       "ja": "一週間",
       "zh": "一周",
       "ru": "неделя",
-      "fr": "semaine"
+      "fr": "la semaine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "7일 동안의 기간을 이르는 말이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "iljuil"
     }
   },
   {
     "id": "ko_7756",
+    "lang": "ko",
     "lemma": "춤",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chum"
+    },
     "meanings": {
       "ko": "춤",
       "en": "dance",
@@ -17367,22 +16465,17 @@ const WORDS_KO_A1 = [
       "ja": "踊り",
       "zh": "舞蹈",
       "ru": "танец",
-      "fr": "danse"
+      "fr": "la danse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음악에 맞춰 몸을 움직이는 동작."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chum"
     }
   },
   {
     "id": "ko_4607",
+    "lang": "ko",
     "lemma": "드리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17400,21 +16493,18 @@ const WORDS_KO_A1 = [
       "ru": "давать",
       "fr": "donner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "윗사람에게 무엇을 주거나 어떤 행동을 하다"
     },
-    "infinitive": "드리다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "deurida"
     }
   },
   {
     "id": "ko_4053",
+    "lang": "ko",
     "lemma": "깨끗하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17432,7 +16522,6 @@ const WORDS_KO_A1 = [
       "ru": "чистый",
       "fr": "propre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "더러운 것이 없이 아주 맑고 흠이 없다."
     },
@@ -17442,8 +16531,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4965",
+    "lang": "ko",
     "lemma": "물어보다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17461,21 +16551,18 @@ const WORDS_KO_A1 = [
       "ru": "спрашивать",
       "fr": "demander"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "궁금한 것을 알기 위해 다른 사람에게 질문하다."
     },
-    "infinitive": "물어보다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "muleoboda"
     }
   },
   {
     "id": "ko_4985",
+    "lang": "ko",
     "lemma": "미안하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17493,7 +16580,6 @@ const WORDS_KO_A1 = [
       "ru": "извиняться",
       "fr": "désolé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잘못한 일에 대해 마음이 편치 않고 부끄러운 감정을 느끼다."
     },
@@ -17503,13 +16589,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5928",
+    "lang": "ko",
     "lemma": "스트레스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seuteureseu"
+    },
     "meanings": {
       "ko": "스트레스",
       "en": "stress",
@@ -17520,27 +16610,25 @@ const WORDS_KO_A1 = [
       "ja": "ストレス",
       "zh": "压力",
       "ru": "стресс",
-      "fr": "stress"
+      "fr": "le stress"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어려운 일이나 상황 때문에 생기는 마음의 부담감."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seuteureseu"
     }
   },
   {
     "id": "ko_3733",
+    "lang": "ko",
     "lemma": "과일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwail"
+    },
     "meanings": {
       "ko": "과일",
       "en": "fruit",
@@ -17551,27 +16639,25 @@ const WORDS_KO_A1 = [
       "ja": "果物",
       "zh": "水果",
       "ru": "фрукт",
-      "fr": "fruit"
+      "fr": "le fruit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "나무에서 열리는 달콤하고 맛있는 열매."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwail"
     }
   },
   {
     "id": "ko_5976",
+    "lang": "ko",
     "lemma": "시월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "siwol"
+    },
     "meanings": {
       "ko": "시월",
       "en": "October",
@@ -17584,25 +16670,29 @@ const WORDS_KO_A1 = [
       "ru": "октябрь",
       "fr": "octobre"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 열 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "siwol"
+      "ko_gloss": "일 년 중 열 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_5041",
+    "lang": "ko",
     "lemma": "박물관",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bakmulgwan"
+    },
     "meanings": {
       "ko": "박물관",
       "en": "museum",
@@ -17613,27 +16703,25 @@ const WORDS_KO_A1 = [
       "ja": "博物館",
       "zh": "博物馆",
       "ru": "музей",
-      "fr": "musée"
+      "fr": "le musée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옛날 물건이나 예술품 등을 모아 전시하는 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bakmulgwan"
     }
   },
   {
     "id": "ko_7988",
+    "lang": "ko",
     "lemma": "팔월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "palwol"
+    },
     "meanings": {
       "ko": "팔월",
       "en": "August",
@@ -17646,25 +16734,29 @@ const WORDS_KO_A1 = [
       "ru": "август",
       "fr": "août"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 중 여덟 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "palwol"
+      "ko_gloss": "일 년 중 여덟 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_3388",
+    "lang": "ko",
     "lemma": "가방",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gabang"
+    },
     "meanings": {
       "ko": "가방",
       "en": "bag",
@@ -17675,27 +16767,25 @@ const WORDS_KO_A1 = [
       "ja": "カバン",
       "zh": "包",
       "ru": "сумка",
-      "fr": "sac"
+      "fr": "le sac"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 넣어 가지고 다니는 주머니"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gabang"
     }
   },
   {
     "id": "ko_3901",
+    "lang": "ko",
     "lemma": "그릇",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geureut"
+    },
     "meanings": {
       "ko": "그릇",
       "en": "bowl",
@@ -17706,27 +16796,25 @@ const WORDS_KO_A1 = [
       "ja": "器",
       "zh": "碗",
       "ru": "миска",
-      "fr": "bol"
+      "fr": "le bol"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식이나 물건을 담는 데 쓰는 용기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geureut"
     }
   },
   {
     "id": "ko_3497",
+    "lang": "ko",
     "lemma": "개",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gae"
+    },
     "meanings": {
       "ko": "개",
       "en": "dog",
@@ -17737,27 +16825,25 @@ const WORDS_KO_A1 = [
       "ja": "犬",
       "zh": "狗",
       "ru": "собака",
-      "fr": "chien"
+      "fr": "le chien"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람과 친하게 지내는 동물로, 짖는 소리를 낸다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gae"
     }
   },
   {
     "id": "ko_4699",
+    "lang": "ko",
     "lemma": "라디오",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "radio"
+    },
     "meanings": {
       "ko": "라디오",
       "en": "radio",
@@ -17768,27 +16854,25 @@ const WORDS_KO_A1 = [
       "ja": "ラジオ",
       "zh": "收音机",
       "ru": "радио",
-      "fr": "radio"
+      "fr": "la radio"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리 방송을 듣는 데 사용하는 전자 기기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "radio"
     }
   },
   {
     "id": "ko_5139",
+    "lang": "ko",
     "lemma": "방학",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "banghak"
+    },
     "meanings": {
       "ko": "방학",
       "en": "vacation",
@@ -17799,27 +16883,25 @@ const WORDS_KO_A1 = [
       "ja": "休暇",
       "zh": "假期",
       "ru": "каникулы",
-      "fr": "vacances"
+      "fr": "les vacances"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 수업을 쉬는 기간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "banghak"
     }
   },
   {
     "id": "ko_4168",
+    "lang": "ko",
     "lemma": "남쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "namjjok"
+    },
     "meanings": {
       "ko": "남쪽",
       "en": "south",
@@ -17830,27 +16912,25 @@ const WORDS_KO_A1 = [
       "ja": "南",
       "zh": "南",
       "ru": "юг",
-      "fr": "sud"
+      "fr": "le sud"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 뜨는 동쪽을 기준으로 오른쪽 방향."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namjjok"
     }
   },
   {
     "id": "ko_5614",
+    "lang": "ko",
     "lemma": "색깔",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saekkkal"
+    },
     "meanings": {
       "ko": "색깔",
       "en": "color",
@@ -17861,27 +16941,25 @@ const WORDS_KO_A1 = [
       "ja": "色",
       "zh": "颜色",
       "ru": "цвет",
-      "fr": "couleur"
+      "fr": "la couleur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물체가 가지고 있는 여러 가지 빛깔."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saekkkal"
     }
   },
   {
     "id": "ko_6587",
+    "lang": "ko",
     "lemma": "요리",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yori"
+    },
     "meanings": {
       "ko": "요리",
       "en": "cooking",
@@ -17892,22 +16970,17 @@ const WORDS_KO_A1 = [
       "ja": "料理",
       "zh": "烹饪",
       "ru": "кулинария",
-      "fr": "cuisine"
+      "fr": "la cuisine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 만드는 일이나 만들어진 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yori"
     }
   },
   {
     "id": "ko_6699",
+    "lang": "ko",
     "lemma": "유명하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17925,7 +16998,6 @@ const WORDS_KO_A1 = [
       "ru": "известный",
       "fr": "célèbre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "많은 사람에게 널리 알려져 있다."
     },
@@ -17935,13 +17007,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6563",
+    "lang": "ko",
     "lemma": "외국인",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "oegukin"
+    },
     "meanings": {
       "ko": "외국인",
       "en": "foreigner",
@@ -17952,27 +17028,25 @@ const WORDS_KO_A1 = [
       "ja": "外国人",
       "zh": "外国人",
       "ru": "иностранец",
-      "fr": "étranger"
+      "fr": "l'étranger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 나라에서 온 사람"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oegukin"
     }
   },
   {
     "id": "ko_5321",
+    "lang": "ko",
     "lemma": "부인",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "buin"
+    },
     "meanings": {
       "ko": "부인",
       "en": "wife",
@@ -17983,22 +17057,17 @@ const WORDS_KO_A1 = [
       "ja": "妻",
       "zh": "妻子",
       "ru": "жена",
-      "fr": "femme"
+      "fr": "la femme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남의 아내를 높여 부르거나 자기 아내를 겸손하게 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "buin"
     }
   },
   {
     "id": "ko_4678",
+    "lang": "ko",
     "lemma": "뛰다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18016,27 +17085,27 @@ const WORDS_KO_A1 = [
       "ru": "бежать",
       "fr": "courir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "심장이나 맥박이 규칙적으로 움직이다."
     },
-    "infinitive": "뛰다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "ttwida"
     }
   },
   {
     "id": "ko_5888",
+    "lang": "ko",
     "lemma": "숙제",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
+    "reading": {
+      "ko": "sukje"
+    },
     "meanings": {
       "ko": "숙제",
       "en": "homework",
@@ -18047,27 +17116,25 @@ const WORDS_KO_A1 = [
       "ja": "宿題",
       "zh": "作业",
       "ru": "домашнее задание",
-      "fr": "devoirs"
+      "fr": "les devoirs"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 학생들에게 집에서 하도록 내주는 공부."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sukje"
     }
   },
   {
     "id": "ko_6612",
+    "lang": "ko",
     "lemma": "우산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "usan"
+    },
     "meanings": {
       "ko": "우산",
       "en": "umbrella",
@@ -18078,22 +17145,17 @@ const WORDS_KO_A1 = [
       "ja": "傘",
       "zh": "雨伞",
       "ru": "зонт",
-      "fr": "parapluie"
+      "fr": "le parapluie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "비나 햇빛을 가리기 위해 쓰는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "usan"
     }
   },
   {
     "id": "ko_7442",
+    "lang": "ko",
     "lemma": "지난달",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18111,25 +17173,26 @@ const WORDS_KO_A1 = [
       "ru": "прошлый месяц",
       "fr": "le mois dernier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "바로 전에 지나간 달."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "jinandal"
     }
   },
   {
     "id": "ko_7627",
+    "lang": "ko",
     "lemma": "책상",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chaeksang"
+    },
     "meanings": {
       "ko": "책상",
       "en": "desk",
@@ -18140,22 +17203,17 @@ const WORDS_KO_A1 = [
       "ja": "机",
       "zh": "书桌",
       "ru": "письменный стол",
-      "fr": "bureau"
+      "fr": "le bureau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공부하거나 일을 할 때 쓰는 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chaeksang"
     }
   },
   {
     "id": "ko_7758",
+    "lang": "ko",
     "lemma": "춥다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18173,7 +17231,6 @@ const WORDS_KO_A1 = [
       "ru": "холодный",
       "fr": "froid"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 낮아서 몸이 차갑게 느껴지는 상태."
     },
@@ -18183,8 +17240,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4911",
+    "lang": "ko",
     "lemma": "무겁다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18202,7 +17260,6 @@ const WORDS_KO_A1 = [
       "ru": "тяжелый",
       "fr": "lourd"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물체의 무게가 많이 나가다."
     },
@@ -18212,13 +17269,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7797",
+    "lang": "ko",
     "lemma": "침대",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chimdae"
+    },
     "meanings": {
       "ko": "침대",
       "en": "bed",
@@ -18229,27 +17290,25 @@ const WORDS_KO_A1 = [
       "ja": "ベッド",
       "zh": "床",
       "ru": "кровать",
-      "fr": "lit"
+      "fr": "le lit"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잠을 자기 위해 방에 놓는 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chimdae"
     }
   },
   {
     "id": "ko_5946",
+    "lang": "ko",
     "lemma": "시계",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sigye"
+    },
     "meanings": {
       "ko": "시계",
       "en": "clock",
@@ -18260,27 +17319,25 @@ const WORDS_KO_A1 = [
       "ja": "時計",
       "zh": "时钟",
       "ru": "часы",
-      "fr": "horloge"
+      "fr": "l'horloge"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "시간을 알려주는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sigye"
     }
   },
   {
     "id": "ko_6950",
+    "lang": "ko",
     "lemma": "잎",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ip"
+    },
     "meanings": {
       "ko": "잎",
       "en": "leaf",
@@ -18291,27 +17348,25 @@ const WORDS_KO_A1 = [
       "ja": "葉",
       "zh": "叶子",
       "ru": "лист",
-      "fr": "feuille"
+      "fr": "la feuille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "식물의 줄기나 가지에 붙어 있는 납작하고 푸른 부분."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ip"
     }
   },
   {
     "id": "ko_5930",
+    "lang": "ko",
     "lemma": "스포츠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "seupocheu"
+    },
     "meanings": {
       "ko": "스포츠",
       "en": "sports",
@@ -18322,27 +17377,25 @@ const WORDS_KO_A1 = [
       "ja": "スポーツ",
       "zh": "体育",
       "ru": "спорт",
-      "fr": "sport"
+      "fr": "le sport"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸을 움직여 건강을 지키거나 즐거움을 얻는 활동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seupocheu"
     }
   },
   {
     "id": "ko_3797",
+    "lang": "ko",
     "lemma": "교회",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyohoe"
+    },
     "meanings": {
       "ko": "교회",
       "en": "church",
@@ -18353,27 +17406,25 @@ const WORDS_KO_A1 = [
       "ja": "教会",
       "zh": "教堂",
       "ru": "церковь",
-      "fr": "église"
+      "fr": "l'église"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기독교인들이 모여 예배를 드리는 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyohoe"
     }
   },
   {
     "id": "ko_8282",
+    "lang": "ko",
     "lemma": "화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hwa"
+    },
     "meanings": {
       "ko": "화",
       "en": "anger",
@@ -18384,27 +17435,25 @@ const WORDS_KO_A1 = [
       "ja": "怒り",
       "zh": "愤怒",
       "ru": "гнев",
-      "fr": "colère"
+      "fr": "la colère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이나 사람 때문에 마음이 불쾌하고 성나는 감정."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hwa"
     }
   },
   {
     "id": "ko_6898",
+    "lang": "ko",
     "lemma": "일월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ilwol"
+    },
     "meanings": {
       "ko": "일월",
       "en": "January",
@@ -18417,25 +17466,29 @@ const WORDS_KO_A1 = [
       "ru": "январь",
       "fr": "janvier"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "한 해의 첫 번째 달이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ilwol"
+      "ko_gloss": "한 해의 첫 번째 달이다.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_4498",
+    "lang": "ko",
     "lemma": "도서관",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "doseogwan"
+    },
     "meanings": {
       "ko": "도서관",
       "en": "library",
@@ -18446,27 +17499,25 @@ const WORDS_KO_A1 = [
       "ja": "図書館",
       "zh": "图书馆",
       "ru": "библиотека",
-      "fr": "bibliothèque"
+      "fr": "la bibliothèque"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "책을 빌리거나 읽을 수 있도록 많은 책을 모아둔 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "doseogwan"
     }
   },
   {
     "id": "ko_5672",
+    "lang": "ko",
     "lemma": "선물",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seonmul"
+    },
     "meanings": {
       "ko": "선물",
       "en": "gift",
@@ -18477,27 +17528,25 @@ const WORDS_KO_A1 = [
       "ja": "プレゼント",
       "zh": "礼物",
       "ru": "подарок",
-      "fr": "cadeau"
+      "fr": "le cadeau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 고마움이나 축하의 마음을 표현하기 위해 주는 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seonmul"
     }
   },
   {
     "id": "ko_6166",
+    "lang": "ko",
     "lemma": "아주머니",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ajumeoni"
+    },
     "meanings": {
       "ko": "아주머니",
       "en": "middle-aged woman",
@@ -18508,27 +17557,25 @@ const WORDS_KO_A1 = [
       "ja": "おばさん",
       "zh": "大妈",
       "ru": "женщина",
-      "fr": "femme d'âge moyen"
+      "fr": "la femme d'âge moyen"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "결혼한 여자를 부르거나 나이가 많은 여자를 친근하게 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ajumeoni"
     }
   },
   {
     "id": "ko_6687",
+    "lang": "ko",
     "lemma": "위험",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "wiheom"
+    },
     "meanings": {
       "ko": "위험",
       "en": "danger",
@@ -18539,27 +17586,25 @@ const WORDS_KO_A1 = [
       "ja": "危険",
       "zh": "危险",
       "ru": "опасность",
-      "fr": "danger"
+      "fr": "le danger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해롭거나 좋지 않은 일이 생길 가능성이 있는 상태"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "wiheom"
     }
   },
   {
     "id": "ko_7486",
+    "lang": "ko",
     "lemma": "지하",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jiha"
+    },
     "meanings": {
       "ko": "지하",
       "en": "underground",
@@ -18570,27 +17615,25 @@ const WORDS_KO_A1 = [
       "ja": "地下",
       "zh": "地下",
       "ru": "подземелье",
-      "fr": "souterrain"
+      "fr": "le souterrain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "땅 아래에 있는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jiha"
     }
   },
   {
     "id": "ko_7488",
+    "lang": "ko",
     "lemma": "지하철",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "jihacheol"
+    },
     "meanings": {
       "ko": "지하철",
       "en": "subway",
@@ -18601,27 +17644,25 @@ const WORDS_KO_A1 = [
       "ja": "地下鉄",
       "zh": "地铁",
       "ru": "метро",
-      "fr": "métro"
+      "fr": "le métro"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "도시에서 땅속으로 다니는 기차."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jihacheol"
     }
   },
   {
     "id": "ko_5499",
+    "lang": "ko",
     "lemma": "사무실",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "samusil"
+    },
     "meanings": {
       "ko": "사무실",
       "en": "office",
@@ -18632,27 +17673,25 @@ const WORDS_KO_A1 = [
       "ja": "オフィス",
       "zh": "办公室",
       "ru": "офис",
-      "fr": "bureau"
+      "fr": "le bureau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "회사나 기관에서 사무를 보는 방."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "samusil"
     }
   },
   {
     "id": "ko_6816",
+    "lang": "ko",
     "lemma": "이월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "iwol"
+    },
     "meanings": {
       "ko": "이월",
       "en": "February",
@@ -18665,25 +17704,29 @@ const WORDS_KO_A1 = [
       "ru": "февраль",
       "fr": "février"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "일 년 열두 달 중에서 두 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "iwol"
+      "ko_gloss": "일 년 열두 달 중에서 두 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_6897",
+    "lang": "ko",
     "lemma": "일요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ilyoil"
+    },
     "meanings": {
       "ko": "일요일",
       "en": "Sunday",
@@ -18694,27 +17737,25 @@ const WORDS_KO_A1 = [
       "ja": "日曜日",
       "zh": "星期日",
       "ru": "воскресенье",
-      "fr": "dimanche"
+      "fr": "le dimanche"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 주의 마지막 날로 쉬는 날이다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ilyoil"
     }
   },
   {
     "id": "ko_3471",
+    "lang": "ko",
     "lemma": "강",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gang"
+    },
     "meanings": {
       "ko": "강",
       "en": "river",
@@ -18725,22 +17766,17 @@ const WORDS_KO_A1 = [
       "ja": "川",
       "zh": "河流",
       "ru": "река",
-      "fr": "rivière"
+      "fr": "la rivière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물이 흐르는 크고 긴 자연적인 길."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gang"
     }
   },
   {
     "id": "ko_5422",
+    "lang": "ko",
     "lemma": "비싸다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18758,7 +17794,6 @@ const WORDS_KO_A1 = [
       "ru": "дорогой",
       "fr": "cher"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건의 가격이나 비용이 보통보다 높다."
     },
@@ -18768,13 +17803,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6582",
+    "lang": "ko",
     "lemma": "왼쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "oenjjok"
+    },
     "meanings": {
       "ko": "왼쪽",
       "en": "left",
@@ -18785,27 +17824,25 @@ const WORDS_KO_A1 = [
       "ja": "左",
       "zh": "左边",
       "ru": "левая сторона",
-      "fr": "gauche"
+      "fr": "la gauche"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸의 중심에서 왼편에 해당하는 방향."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oenjjok"
     }
   },
   {
     "id": "ko_7891",
+    "lang": "ko",
     "lemma": "택시",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "taeksi"
+    },
     "meanings": {
       "ko": "택시",
       "en": "taxi",
@@ -18816,22 +17853,17 @@ const WORDS_KO_A1 = [
       "ja": "タクシー",
       "zh": "出租车",
       "ru": "такси",
-      "fr": "taxi"
+      "fr": "le taxi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 내고 원하는 곳까지 탈 수 있는 자동차"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "taeksi"
     }
   },
   {
     "id": "ko_5975",
+    "lang": "ko",
     "lemma": "시원하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18849,7 +17881,6 @@ const WORDS_KO_A1 = [
       "ru": "прохладный",
       "fr": "frais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "덥지 않고 상쾌한 느낌이 들거나 답답함이 풀려 마음이 후련하다."
     },
@@ -18859,8 +17890,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6201",
+    "lang": "ko",
     "lemma": "않다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18878,26 +17910,26 @@ const WORDS_KO_A1 = [
       "ru": "не",
       "fr": "pas"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "앞의 말에 부정이나 반대의 뜻을 더하는 보조 동사."
     },
-    "infinitive": "않다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "anda"
     }
   },
   {
     "id": "ko_7041",
+    "lang": "ko",
     "lemma": "잡지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "japji"
+    },
     "meanings": {
       "ko": "잡지",
       "en": "magazine",
@@ -18908,27 +17940,25 @@ const WORDS_KO_A1 = [
       "ja": "雑誌",
       "zh": "杂志",
       "ru": "журнал",
-      "fr": "magazine"
+      "fr": "le magazine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 글과 그림을 모아 정기적으로 발행하는 책."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "japji"
     }
   },
   {
     "id": "ko_4467",
+    "lang": "ko",
     "lemma": "댁",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "daek"
+    },
     "meanings": {
       "ko": "댁",
       "en": "house",
@@ -18939,22 +17969,17 @@ const WORDS_KO_A1 = [
       "ja": "家",
       "zh": "家",
       "ru": "дом",
-      "fr": "maison"
+      "fr": "la maison"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람의 집을 높여 부르는 말"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daek"
     }
   },
   {
     "id": "ko_5048",
+    "lang": "ko",
     "lemma": "반갑다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18972,7 +17997,6 @@ const WORDS_KO_A1 = [
       "ru": "рад",
       "fr": "content"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 소식을 만나거나 듣게 되어 마음이 즐겁고 기쁘다."
     },
@@ -18982,8 +18006,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4325",
+    "lang": "ko",
     "lemma": "다녀오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19001,26 +18026,26 @@ const WORDS_KO_A1 = [
       "ru": "сходить и вернуться",
       "fr": "aller et revenir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 곳에 갔다가 다시 원래 있던 곳으로 돌아오다."
     },
-    "infinitive": "다녀오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "danyeooda"
     }
   },
   {
     "id": "ko_5410",
+    "lang": "ko",
     "lemma": "비디오",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bidio"
+    },
     "meanings": {
       "ko": "비디오",
       "en": "video",
@@ -19031,27 +18056,25 @@ const WORDS_KO_A1 = [
       "ja": "ビデオ",
       "zh": "视频",
       "ru": "видео",
-      "fr": "vidéo"
+      "fr": "la vidéo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "움직이는 영상이나 소리를 기록하거나 재생하는 장치 또는 영상물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bidio"
     }
   },
   {
     "id": "ko_6406",
+    "lang": "ko",
     "lemma": "연습",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeonseup"
+    },
     "meanings": {
       "ko": "연습",
       "en": "practice",
@@ -19062,27 +18085,25 @@ const WORDS_KO_A1 = [
       "ja": "練習",
       "zh": "练习",
       "ru": "упражнение",
-      "fr": "pratique"
+      "fr": "la pratique"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 기술이나 능력을 익히기 위해 반복하여 훈련하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeonseup"
     }
   },
   {
     "id": "ko_6505",
+    "lang": "ko",
     "lemma": "오른쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "oreunjjok"
+    },
     "meanings": {
       "ko": "오른쪽",
       "en": "right",
@@ -19093,27 +18114,25 @@ const WORDS_KO_A1 = [
       "ja": "右",
       "zh": "右边",
       "ru": "правая сторона",
-      "fr": "droite"
+      "fr": "la droite"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸의 중심에서 오른편에 해당하는 방향."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oreunjjok"
     }
   },
   {
     "id": "ko_7451",
+    "lang": "ko",
     "lemma": "지도",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "jido"
+    },
     "meanings": {
       "ko": "지도",
       "en": "map",
@@ -19124,27 +18143,25 @@ const WORDS_KO_A1 = [
       "ja": "地図",
       "zh": "地图",
       "ru": "карта",
-      "fr": "carte"
+      "fr": "la carte"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "땅의 모양이나 위치 등을 그림으로 나타낸 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jido"
     }
   },
   {
     "id": "ko_8292",
+    "lang": "ko",
     "lemma": "화장실",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "hwajangsil"
+    },
     "meanings": {
       "ko": "화장실",
       "en": "restroom",
@@ -19155,28 +18172,26 @@ const WORDS_KO_A1 = [
       "ja": "トイレ",
       "zh": "厕所",
       "ru": "туалет",
-      "fr": "toilettes"
+      "fr": "les toilettes"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "용변을 보거나 몸을 씻는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hwajangsil"
     }
   },
   {
     "id": "ko_7337",
+    "lang": "ko",
     "lemma": "주말",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "jumal"
+    },
     "meanings": {
       "ko": "주말",
       "en": "weekend",
@@ -19187,22 +18202,17 @@ const WORDS_KO_A1 = [
       "ja": "週末",
       "zh": "周末",
       "ru": "выходные",
-      "fr": "week-end"
+      "fr": "le week-end"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 주일의 마지막인 토요일과 일요일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jumal"
     }
   },
   {
     "id": "ko_4184",
+    "lang": "ko",
     "lemma": "내년",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19220,26 +18230,27 @@ const WORDS_KO_A1 = [
       "ru": "следующий год",
       "fr": "l'année prochaine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지금으로부터 다음 해."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "naenyeon"
     }
   },
   {
     "id": "ko_4461",
+    "lang": "ko",
     "lemma": "대학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "daehaksaeng"
+    },
     "meanings": {
       "ko": "대학생",
       "en": "university student",
@@ -19250,22 +18261,17 @@ const WORDS_KO_A1 = [
       "ja": "大学生",
       "zh": "大学生",
       "ru": "студент университета",
-      "fr": "étudiant"
+      "fr": "l'étudiant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대학교에 다니면서 공부하는 학생"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daehaksaeng"
     }
   },
   {
     "id": "ko_4369",
+    "lang": "ko",
     "lemma": "닫다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19283,26 +18289,26 @@ const WORDS_KO_A1 = [
       "ru": "закрывать",
       "fr": "fermer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "문이나 창문 등을 열려 있지 않게 하다."
     },
-    "infinitive": "닫다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "datda"
     }
   },
   {
     "id": "ko_5636",
+    "lang": "ko",
     "lemma": "생일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saengil"
+    },
     "meanings": {
       "ko": "생일",
       "en": "birthday",
@@ -19313,22 +18319,17 @@ const WORDS_KO_A1 = [
       "ja": "誕生日",
       "zh": "生日",
       "ru": "день рождения",
-      "fr": "anniversaire"
+      "fr": "l'anniversaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람이 태어난 날을 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saengil"
     }
   },
   {
     "id": "ko_3560",
+    "lang": "ko",
     "lemma": "걸어가다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19346,26 +18347,26 @@ const WORDS_KO_A1 = [
       "ru": "идти",
       "fr": "marcher"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발을 움직여 어떤 장소로 이동하다."
     },
-    "infinitive": "걸어가다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geoleogada"
     }
   },
   {
     "id": "ko_5163",
+    "lang": "ko",
     "lemma": "백화점",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "baekhwajeom"
+    },
     "meanings": {
       "ko": "백화점",
       "en": "department store",
@@ -19376,22 +18377,17 @@ const WORDS_KO_A1 = [
       "ja": "デパート",
       "zh": "百货商店",
       "ru": "универмаг",
-      "fr": "grand magasin"
+      "fr": "le grand magasin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 종류의 상품을 파는 크고 높은 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "baekhwajeom"
     }
   },
   {
     "id": "ko_6184",
+    "lang": "ko",
     "lemma": "안녕하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19409,7 +18405,6 @@ const WORDS_KO_A1 = [
       "ru": "хорошо",
       "fr": "bien"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 편안하고 아무 탈 없이 지내다."
     },
@@ -19419,8 +18414,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7741",
+    "lang": "ko",
     "lemma": "출발하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19438,26 +18434,26 @@ const WORDS_KO_A1 = [
       "ru": "отправляться",
       "fr": "partir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소에서 떠나거나 일을 시작하다."
     },
-    "infinitive": "출발하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chulbalhada"
     }
   },
   {
     "id": "ko_3662",
+    "lang": "ko",
     "lemma": "고양이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "goyangi"
+    },
     "meanings": {
       "ko": "고양이",
       "en": "cat",
@@ -19468,28 +18464,26 @@ const WORDS_KO_A1 = [
       "ja": "猫",
       "zh": "猫",
       "ru": "кошка",
-      "fr": "chat"
+      "fr": "le chat"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "집에서 기르며 사람과 함께 사는 작은 동물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "goyangi"
     }
   },
   {
     "id": "ko_7412",
+    "lang": "ko",
     "lemma": "중학교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "junghakgyo"
+    },
     "meanings": {
       "ko": "중학교",
       "en": "middle school",
@@ -19500,27 +18494,25 @@ const WORDS_KO_A1 = [
       "ja": "中学校",
       "zh": "中学",
       "ru": "средняя школа",
-      "fr": "collège"
+      "fr": "le collège"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "초등학교를 졸업한 학생들이 다니는 교육 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "junghakgyo"
     }
   },
   {
     "id": "ko_8393",
+    "lang": "ko",
     "lemma": "흰색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "huinsaek"
+    },
     "meanings": {
       "ko": "흰색",
       "en": "white",
@@ -19531,27 +18523,25 @@ const WORDS_KO_A1 = [
       "ja": "白",
       "zh": "白色",
       "ru": "белый",
-      "fr": "blanc"
+      "fr": "le blanc"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "눈처럼 밝고 깨끗한 색."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "huinsaek"
     }
   },
   {
     "id": "ko_3392",
+    "lang": "ko",
     "lemma": "가수",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gasu"
+    },
     "meanings": {
       "ko": "가수",
       "en": "singer",
@@ -19562,27 +18552,25 @@ const WORDS_KO_A1 = [
       "ja": "歌手",
       "zh": "歌手",
       "ru": "певец",
-      "fr": "chanteur"
+      "fr": "le chanteur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "노래를 직업으로 하는 사람"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gasu"
     }
   },
   {
     "id": "ko_6244",
+    "lang": "ko",
     "lemma": "약",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yak"
+    },
     "meanings": {
       "ko": "약",
       "en": "about",
@@ -19595,25 +18583,23 @@ const WORDS_KO_A1 = [
       "ru": "около",
       "fr": "environ"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "정확한 수치가 아닌 대략적인 수량이나 정도."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yak"
     }
   },
   {
     "id": "ko_7607",
+    "lang": "ko",
     "lemma": "창문",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "changmun"
+    },
     "meanings": {
       "ko": "창문",
       "en": "window",
@@ -19624,27 +18610,25 @@ const WORDS_KO_A1 = [
       "ja": "窓",
       "zh": "窗户",
       "ru": "окно",
-      "fr": "fenêtre"
+      "fr": "la fenêtre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "건물 벽에 빛이나 공기가 들어오도록 만든 구멍."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "changmun"
     }
   },
   {
     "id": "ko_6619",
+    "lang": "ko",
     "lemma": "우유",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "uyu"
+    },
     "meanings": {
       "ko": "우유",
       "en": "milk",
@@ -19655,27 +18639,25 @@ const WORDS_KO_A1 = [
       "ja": "牛乳",
       "zh": "牛奶",
       "ru": "молоко",
-      "fr": "lait"
+      "fr": "le lait"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소의 젖을 짜서 마시는 하얀 액체."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "uyu"
     }
   },
   {
     "id": "ko_8039",
+    "lang": "ko",
     "lemma": "표",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "pyo"
+    },
     "meanings": {
       "ko": "표",
       "en": "ticket",
@@ -19686,27 +18668,25 @@ const WORDS_KO_A1 = [
       "ja": "チケット",
       "zh": "票",
       "ru": "билет",
-      "fr": "billet"
+      "fr": "le billet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기차나 영화 등을 이용할 수 있는 종이 조각."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pyo"
     }
   },
   {
     "id": "ko_6098",
+    "lang": "ko",
     "lemma": "십일월",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sipilwol"
+    },
     "meanings": {
       "ko": "십일월",
       "en": "November",
@@ -19719,25 +18699,29 @@ const WORDS_KO_A1 = [
       "ru": "ноябрь",
       "fr": "novembre"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "한 해의 열한 번째 달."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sipilwol"
+      "ko_gloss": "한 해의 열한 번째 달.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_3523",
+    "lang": "ko",
     "lemma": "거울",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geoul"
+    },
     "meanings": {
       "ko": "거울",
       "en": "mirror",
@@ -19748,27 +18732,25 @@ const WORDS_KO_A1 = [
       "ja": "鏡",
       "zh": "镜子",
       "ru": "зеркало",
-      "fr": "miroir"
+      "fr": "le miroir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물체의 모습을 비추어 볼 수 있게 만든 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geoul"
     }
   },
   {
     "id": "ko_5459",
+    "lang": "ko",
     "lemma": "빵",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ppang"
+    },
     "meanings": {
       "ko": "빵",
       "en": "bread",
@@ -19779,22 +18761,17 @@ const WORDS_KO_A1 = [
       "ja": "パン",
       "zh": "面包",
       "ru": "хлеб",
-      "fr": "pain"
+      "fr": "le pain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밀가루를 반죽하여 발효시킨 후 구워 만든 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ppang"
     }
   },
   {
     "id": "ko_6689",
+    "lang": "ko",
     "lemma": "위험하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19812,7 +18789,6 @@ const WORDS_KO_A1 = [
       "ru": "опасный",
       "fr": "dangereux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해롭거나 좋지 않은 일이 생길 가능성이 많다"
     },
@@ -19822,8 +18798,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7307",
+    "lang": "ko",
     "lemma": "졸업하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19841,27 +18818,27 @@ const WORDS_KO_A1 = [
       "ru": "оканчивать",
       "fr": "se diplômer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 정해진 모든 교육 과정을 마치다."
     },
-    "infinitive": "졸업하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "joleophada"
     }
   },
   {
     "id": "ko_5319",
+    "lang": "ko",
     "lemma": "부엌",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "bueok"
+    },
     "meanings": {
       "ko": "부엌",
       "en": "kitchen",
@@ -19872,27 +18849,25 @@ const WORDS_KO_A1 = [
       "ja": "台所",
       "zh": "厨房",
       "ru": "кухня",
-      "fr": "cuisine"
+      "fr": "la cuisine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 만들고 조리하는 공간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bueok"
     }
   },
   {
     "id": "ko_5344",
+    "lang": "ko",
     "lemma": "북쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "bukjjok"
+    },
     "meanings": {
       "ko": "북쪽",
       "en": "north",
@@ -19903,27 +18878,25 @@ const WORDS_KO_A1 = [
       "ja": "北",
       "zh": "北方",
       "ru": "север",
-      "fr": "nord"
+      "fr": "le nord"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "동서남북 네 방위 중 남쪽의 반대 방향."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bukjjok"
     }
   },
   {
     "id": "ko_5839",
+    "lang": "ko",
     "lemma": "쇠고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "soegogi"
+    },
     "meanings": {
       "ko": "쇠고기",
       "en": "beef",
@@ -19934,28 +18907,26 @@ const WORDS_KO_A1 = [
       "ja": "牛肉",
       "zh": "牛肉",
       "ru": "говядина",
-      "fr": "bœuf"
+      "fr": "le bœuf"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소의 고기를 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "soegogi"
     }
   },
   {
     "id": "ko_7330",
+    "lang": "ko",
     "lemma": "주",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "ju"
+    },
     "meanings": {
       "ko": "주",
       "en": "week",
@@ -19966,27 +18937,25 @@ const WORDS_KO_A1 = [
       "ja": "週",
       "zh": "周",
       "ru": "неделя",
-      "fr": "semaine"
+      "fr": "la semaine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "7일로 이루어진 시간의 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ju"
     }
   },
   {
     "id": "ko_7804",
+    "lang": "ko",
     "lemma": "카드",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "kadeu"
+    },
     "meanings": {
       "ko": "카드",
       "en": "card",
@@ -19997,27 +18966,25 @@ const WORDS_KO_A1 = [
       "ja": "カード",
       "zh": "卡",
       "ru": "карта",
-      "fr": "carte"
+      "fr": "la carte"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 내거나 게임을 할 때 사용하는 종이나 플라스틱 조각."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kadeu"
     }
   },
   {
     "id": "ko_4361",
+    "lang": "ko",
     "lemma": "단어",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daneo"
+    },
     "meanings": {
       "ko": "단어",
       "en": "word",
@@ -20028,22 +18995,17 @@ const WORDS_KO_A1 = [
       "ja": "単語",
       "zh": "单词",
       "ru": "слово",
-      "fr": "mot"
+      "fr": "le mot"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "뜻을 가지고 홀로 쓰이거나 문장을 이루는 말의 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daneo"
     }
   },
   {
     "id": "ko_4502",
+    "lang": "ko",
     "lemma": "도와주다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20061,26 +19023,26 @@ const WORDS_KO_A1 = [
       "ru": "помогать",
       "fr": "aider"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람이 어떤 일을 하거나 어려움을 겪을 때 힘을 보태다."
     },
-    "infinitive": "도와주다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "dowajuda"
     }
   },
   {
     "id": "ko_6026",
+    "lang": "ko",
     "lemma": "신발",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sinbal"
+    },
     "meanings": {
       "ko": "신발",
       "en": "shoe",
@@ -20091,27 +19053,25 @@ const WORDS_KO_A1 = [
       "ja": "靴",
       "zh": "鞋子",
       "ru": "ботинок",
-      "fr": "chaussure"
+      "fr": "la chaussure"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발을 보호하고 꾸미기 위해 발에 신는 물건."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sinbal"
     }
   },
   {
     "id": "ko_4038",
+    "lang": "ko",
     "lemma": "김치",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gimchi"
+    },
     "meanings": {
       "ko": "김치",
       "en": "kimchi",
@@ -20122,22 +19082,17 @@ const WORDS_KO_A1 = [
       "ja": "キムチ",
       "zh": "泡菜",
       "ru": "кимчи",
-      "fr": "kimchi"
+      "fr": "le kimchi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "배추나 무 등을 소금에 절여 양념에 버무려 만든 한국의 대표적인 발효 음식"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gimchi"
     }
   },
   {
     "id": "ko_4146",
+    "lang": "ko",
     "lemma": "날다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20155,26 +19110,26 @@ const WORDS_KO_A1 = [
       "ru": "летать",
       "fr": "voler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "공중에 떠서 움직이거나 이동하다."
     },
-    "infinitive": "날다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "nalda"
     }
   },
   {
     "id": "ko_5702",
+    "lang": "ko",
     "lemma": "설탕",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seoltang"
+    },
     "meanings": {
       "ko": "설탕",
       "en": "sugar",
@@ -20185,22 +19140,17 @@ const WORDS_KO_A1 = [
       "ja": "砂糖",
       "zh": "糖",
       "ru": "сахар",
-      "fr": "sucre"
+      "fr": "le sucre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "단맛을 내는 흰색 가루로 음식에 넣어 먹는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seoltang"
     }
   },
   {
     "id": "ko_6103",
+    "lang": "ko",
     "lemma": "싸다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20218,7 +19168,6 @@ const WORDS_KO_A1 = [
       "ru": "дешевый",
       "fr": "bon marché"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건의 가격이 비싸지 않고 저렴한."
     },
@@ -20228,13 +19177,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6303",
+    "lang": "ko",
     "lemma": "어제",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "eoje"
+    },
     "meanings": {
       "ko": "어제",
       "en": "yesterday",
@@ -20247,25 +19200,23 @@ const WORDS_KO_A1 = [
       "ru": "вчера",
       "fr": "hier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "오늘보다 바로 앞선 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eoje"
     }
   },
   {
     "id": "ko_7186",
+    "lang": "ko",
     "lemma": "점심",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeomsim"
+    },
     "meanings": {
       "ko": "점심",
       "en": "lunch",
@@ -20276,27 +19227,25 @@ const WORDS_KO_A1 = [
       "ja": "昼食",
       "zh": "午餐",
       "ru": "обед",
-      "fr": "déjeuner"
+      "fr": "le déjeuner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하루 중 낮에 먹는 끼니."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeomsim"
     }
   },
   {
     "id": "ko_7810",
+    "lang": "ko",
     "lemma": "칼",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kal"
+    },
     "meanings": {
       "ko": "칼",
       "en": "knife",
@@ -20307,22 +19256,17 @@ const WORDS_KO_A1 = [
       "ja": "ナイフ",
       "zh": "刀",
       "ru": "нож",
-      "fr": "couteau"
+      "fr": "le couteau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 자르거나 물건을 깎을 때 사용하는 날카로운 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kal"
     }
   },
   {
     "id": "ko_5932",
+    "lang": "ko",
     "lemma": "슬프다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20340,7 +19284,6 @@ const WORDS_KO_A1 = [
       "ru": "грустный",
       "fr": "triste"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "마음이 아프고 괴로운 감정이 들다."
     },
@@ -20350,13 +19293,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6756",
+    "lang": "ko",
     "lemma": "의자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "uija"
+    },
     "meanings": {
       "ko": "의자",
       "en": "chair",
@@ -20367,27 +19314,25 @@ const WORDS_KO_A1 = [
       "ja": "椅子",
       "zh": "椅子",
       "ru": "стул",
-      "fr": "chaise"
+      "fr": "la chaise"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "앉을 수 있도록 만든 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "uija"
     }
   },
   {
     "id": "ko_7806",
+    "lang": "ko",
     "lemma": "카메라",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kamera"
+    },
     "meanings": {
       "ko": "카메라",
       "en": "camera",
@@ -20398,27 +19343,25 @@ const WORDS_KO_A1 = [
       "ja": "カメラ",
       "zh": "相机",
       "ru": "камера",
-      "fr": "caméra"
+      "fr": "la caméra"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사진이나 동영상을 찍을 때 사용하는 기계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kamera"
     }
   },
   {
     "id": "ko_7917",
+    "lang": "ko",
     "lemma": "토요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "toyoil"
+    },
     "meanings": {
       "ko": "토요일",
       "en": "Saturday",
@@ -20429,27 +19372,25 @@ const WORDS_KO_A1 = [
       "ja": "土曜日",
       "zh": "星期六",
       "ru": "суббота",
-      "fr": "samedi"
+      "fr": "le samedi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일주일 중 금요일 다음 날이자 일요일 전날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "toyoil"
     }
   },
   {
     "id": "ko_3614",
+    "lang": "ko",
     "lemma": "경찰관",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "gyeongchalgwan"
+    },
     "meanings": {
       "ko": "경찰관",
       "en": "police officer",
@@ -20460,28 +19401,26 @@ const WORDS_KO_A1 = [
       "ja": "警察官",
       "zh": "警察",
       "ru": "полицейский",
-      "fr": "policier"
+      "fr": "le policier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "경찰 기관에서 일하는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeongchalgwan"
     }
   },
   {
     "id": "ko_3920",
+    "lang": "ko",
     "lemma": "극장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "geukjang"
+    },
     "meanings": {
       "ko": "극장",
       "en": "theater",
@@ -20492,28 +19431,26 @@ const WORDS_KO_A1 = [
       "ja": "劇場",
       "zh": "剧院",
       "ru": "театр",
-      "fr": "théâtre"
+      "fr": "le théâtre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "연극이나 영화를 볼 수 있는 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geukjang"
     }
   },
   {
     "id": "ko_6498",
+    "lang": "ko",
     "lemma": "오랜만",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ko": "oraenman"
+    },
     "meanings": {
       "ko": "오랜만",
       "en": "long time",
@@ -20526,25 +19463,30 @@ const WORDS_KO_A1 = [
       "ru": "долгое время",
       "fr": "longtemps"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "어떤 일이 있은 후 시간이 많이 흐른 동안."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oraenman"
+      "ko_gloss": "어떤 일이 있은 후 시간이 많이 흐른 동안.",
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ko_6167",
+    "lang": "ko",
     "lemma": "아줌마",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ajumma"
+    },
     "meanings": {
       "ko": "아줌마",
       "en": "aunt",
@@ -20555,22 +19497,17 @@ const WORDS_KO_A1 = [
       "ja": "おばさん",
       "zh": "阿姨",
       "ru": "тётя",
-      "fr": "tante"
+      "fr": "la tante"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "(비격식) 결혼한 여자를 친근하게 부르거나 나이 든 여자를 낮춰 부르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ajumma"
     }
   },
   {
     "id": "ko_7719",
+    "lang": "ko",
     "lemma": "추다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20588,21 +19525,18 @@ const WORDS_KO_A1 = [
       "ru": "танцевать",
       "fr": "danser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음악에 맞춰 몸을 흔들거나 움직이는 동작을 하다."
     },
-    "infinitive": "추다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chuda"
     }
   },
   {
     "id": "ko_7827",
+    "lang": "ko",
     "lemma": "켜다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20620,26 +19554,26 @@ const WORDS_KO_A1 = [
       "ru": "включать",
       "fr": "allumer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "불이나 기계 등을 작동하게 하다."
     },
-    "infinitive": "켜다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kyeoda"
     }
   },
   {
     "id": "ko_3726",
+    "lang": "ko",
     "lemma": "공항",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gonghang"
+    },
     "meanings": {
       "ko": "공항",
       "en": "airport",
@@ -20650,27 +19584,25 @@ const WORDS_KO_A1 = [
       "ja": "空港",
       "zh": "机场",
       "ru": "аэропорт",
-      "fr": "aéroport"
+      "fr": "l'aéroport"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "비행기가 뜨고 내리는 시설이 있는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gonghang"
     }
   },
   {
     "id": "ko_3854",
+    "lang": "ko",
     "lemma": "군인",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gunin"
+    },
     "meanings": {
       "ko": "군인",
       "en": "soldier",
@@ -20681,27 +19613,25 @@ const WORDS_KO_A1 = [
       "ja": "兵士",
       "zh": "士兵",
       "ru": "солдат",
-      "fr": "soldat"
+      "fr": "le soldat"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "군대에 소속되어 나라를 지키는 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gunin"
     }
   },
   {
     "id": "ko_7780",
+    "lang": "ko",
     "lemma": "치마",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chima"
+    },
     "meanings": {
       "ko": "치마",
       "en": "skirt",
@@ -20712,27 +19642,25 @@ const WORDS_KO_A1 = [
       "ja": "スカート",
       "zh": "裙子",
       "ru": "юбка",
-      "fr": "jupe"
+      "fr": "la jupe"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "허리부터 다리까지 덮는 여성 의류."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chima"
     }
   },
   {
     "id": "ko_8273",
+    "lang": "ko",
     "lemma": "호텔",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "hotel"
+    },
     "meanings": {
       "ko": "호텔",
       "en": "hotel",
@@ -20743,22 +19671,17 @@ const WORDS_KO_A1 = [
       "ja": "ホテル",
       "zh": "酒店",
       "ru": "отель",
-      "fr": "hôtel"
+      "fr": "l'hôtel"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈을 내고 잠을 자거나 쉴 수 있는 큰 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hotel"
     }
   },
   {
     "id": "ko_4048",
+    "lang": "ko",
     "lemma": "깎다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20776,26 +19699,26 @@ const WORDS_KO_A1 = [
       "ru": "резать",
       "fr": "couper"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "칼로 껍질을 벗기거나, 길이를 짧게 하거나, 값을 내리다."
     },
-    "infinitive": "깎다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kkakda"
     }
   },
   {
     "id": "ko_7655",
+    "lang": "ko",
     "lemma": "청소",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cheongso"
+    },
     "meanings": {
       "ko": "청소",
       "en": "cleaning",
@@ -20806,22 +19729,17 @@ const WORDS_KO_A1 = [
       "ja": "掃除",
       "zh": "清洁",
       "ru": "уборка",
-      "fr": "nettoyage"
+      "fr": "le nettoyage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "더러운 곳을 깨끗하게 만드는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cheongso"
     }
   },
   {
     "id": "ko_3535",
+    "lang": "ko",
     "lemma": "걱정하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20839,26 +19757,26 @@ const WORDS_KO_A1 = [
       "ru": "беспокоиться",
       "fr": "s'inquiéter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "좋지 않은 일이 생길까 봐 마음을 졸이다."
     },
-    "infinitive": "걱정하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geokjeonghada"
     }
   },
   {
     "id": "ko_3804",
+    "lang": "ko",
     "lemma": "구름",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gureum"
+    },
     "meanings": {
       "ko": "구름",
       "en": "cloud",
@@ -20869,22 +19787,17 @@ const WORDS_KO_A1 = [
       "ja": "雲",
       "zh": "云",
       "ru": "облако",
-      "fr": "nuage"
+      "fr": "le nuage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하늘에 떠 있는 물방울이나 얼음 알갱이의 덩어리."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gureum"
     }
   },
   {
     "id": "ko_4091",
+    "lang": "ko",
     "lemma": "끄다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20902,26 +19815,26 @@ const WORDS_KO_A1 = [
       "ru": "выключить",
       "fr": "éteindre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "불이나 전등, 기계 등의 작동을 멈추게 하다."
     },
-    "infinitive": "끄다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "kkeuda"
     }
   },
   {
     "id": "ko_3632",
+    "lang": "ko",
     "lemma": "계절",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyejeol"
+    },
     "meanings": {
       "ko": "계절",
       "en": "season",
@@ -20932,27 +19845,25 @@ const WORDS_KO_A1 = [
       "ja": "季節",
       "zh": "季节",
       "ru": "сезон",
-      "fr": "saison"
+      "fr": "la saison"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일 년을 기후에 따라 나눈 시기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyejeol"
     }
   },
   {
     "id": "ko_6628",
+    "lang": "ko",
     "lemma": "운동장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "undongjang"
+    },
     "meanings": {
       "ko": "운동장",
       "en": "playground",
@@ -20963,27 +19874,25 @@ const WORDS_KO_A1 = [
       "ja": "運動場",
       "zh": "操场",
       "ru": "спортивная площадка",
-      "fr": "aire de jeux"
+      "fr": "l'aire de jeux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교나 공원에서 운동 경기를 하거나 뛰어노는 넓은 마당."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "undongjang"
     }
   },
   {
     "id": "ko_4557",
+    "lang": "ko",
     "lemma": "동쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "dongjjok"
+    },
     "meanings": {
       "ko": "동쪽",
       "en": "east",
@@ -20994,27 +19903,25 @@ const WORDS_KO_A1 = [
       "ja": "東",
       "zh": "东方",
       "ru": "восток",
-      "fr": "est"
+      "fr": "l'est"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 뜨는 방향"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dongjjok"
     }
   },
   {
     "id": "ko_7028",
+    "lang": "ko",
     "lemma": "잠깐",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jamkkan"
+    },
     "meanings": {
       "ko": "잠깐",
       "en": "moment",
@@ -21025,27 +19932,25 @@ const WORDS_KO_A1 = [
       "ja": "瞬間",
       "zh": "瞬间",
       "ru": "момент",
-      "fr": "moment"
+      "fr": "le moment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "매우 짧은 동안의 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jamkkan"
     }
   },
   {
     "id": "ko_6593",
+    "lang": "ko",
     "lemma": "요즈음",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yojeueum"
+    },
     "meanings": {
       "ko": "요즈음",
       "en": "recently",
@@ -21058,28 +19963,26 @@ const WORDS_KO_A1 = [
       "ru": "недавно",
       "fr": "récemment"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "지금으로부터 그리 멀지 않은 지난날부터 현재까지의 기간"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yojeueum"
     }
   },
   {
     "id": "ko_6916",
+    "lang": "ko",
     "lemma": "잃어버리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ileobeorida"
+    },
     "meanings": {
       "ko": "잃어버리다",
-      "en": "to lose",
+      "en": "lose",
       "de": "verlieren",
       "es": "perder",
       "it": "perdere",
@@ -21089,21 +19992,15 @@ const WORDS_KO_A1 = [
       "ru": "терять",
       "fr": "perdre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가지고 있던 물건이나 소중한 것을 실수로 놓치거나 잃게 되다."
-    },
-    "infinitive": "잃어버리다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "ileobeorida"
     }
   },
   {
     "id": "ko_7290",
+    "lang": "ko",
     "lemma": "조용하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21121,7 +20018,6 @@ const WORDS_KO_A1 = [
       "ru": "тихий",
       "fr": "silencieux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소리가 나지 않거나 시끄럽지 않다."
     },
@@ -21131,13 +20027,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8148",
+    "lang": "ko",
     "lemma": "한복",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hanbok"
+    },
     "meanings": {
       "ko": "한복",
       "en": "Hanbok",
@@ -21148,84 +20048,75 @@ const WORDS_KO_A1 = [
       "ja": "韓服",
       "zh": "韩服",
       "ru": "ханбок",
-      "fr": "Hanbok"
+      "fr": "le Hanbok"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한국의 고유한 전통 의상."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanbok"
     }
   },
   {
     "id": "ko_4700",
+    "lang": "ko",
     "lemma": "라면",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ramyeon"
+    },
     "meanings": {
       "ko": "라면",
       "en": "ramen",
-      "de": "Ramen",
-      "es": "ramen",
-      "it": "ramen",
-      "pt": "ramen",
+      "de": "die Ramen",
+      "es": "el ramen",
+      "it": "il ramen",
+      "pt": "o ramen",
       "ja": "ラーメン",
       "zh": "拉面",
       "ru": "лапша",
-      "fr": "ramen"
+      "fr": "le ramen"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "국물에 면을 넣어 끓여 먹는 인스턴트 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ramyeon"
     }
   },
   {
     "id": "ko_5036",
+    "lang": "ko",
     "lemma": "바지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "baji"
+    },
     "meanings": {
       "ko": "바지",
       "en": "pants",
-      "de": "Hose",
-      "es": "pantalones",
-      "it": "pantaloni",
-      "pt": "calças",
+      "de": "die Hose",
+      "es": "los pantalones",
+      "it": "i pantaloni",
+      "pt": "as calças",
       "ja": "ズボン",
       "zh": "裤子",
       "ru": "брюки",
-      "fr": "pantalon"
+      "fr": "le pantalon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "허리부터 다리까지 덮는 옷."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "baji"
     }
   },
   {
     "id": "ko_6084",
+    "lang": "ko",
     "lemma": "싫어하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21243,52 +20134,47 @@ const WORDS_KO_A1 = [
       "ru": "не любить",
       "fr": "ne pas aimer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람이나 사물을 좋아하지 않고 미워하는 마음을 가지다."
     },
-    "infinitive": "싫어하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sileohada"
     }
   },
   {
     "id": "ko_7906",
+    "lang": "ko",
     "lemma": "테이블",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "teibeul"
+    },
     "meanings": {
       "ko": "테이블",
       "en": "table",
-      "de": "Tisch",
-      "es": "mesa",
-      "it": "tavolo",
-      "pt": "mesa",
+      "de": "der Tisch",
+      "es": "la mesa",
+      "it": "il tavolo",
+      "pt": "a mesa",
       "ja": "テーブル",
       "zh": "桌子",
       "ru": "стол",
-      "fr": "table"
+      "fr": "la table"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 놓거나 음식을 먹을 때 사용하는 평평한 판과 다리로 이루어진 가구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "teibeul"
     }
   },
   {
     "id": "ko_8070",
+    "lang": "ko",
     "lemma": "피곤하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21306,7 +20192,6 @@ const WORDS_KO_A1 = [
       "ru": "уставший",
       "fr": "fatigué"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 마음이 지쳐서 쉬고 싶은 느낌이 들다."
     },
@@ -21316,44 +20201,46 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_8155",
+    "lang": "ko",
     "lemma": "한자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hanja"
+    },
     "meanings": {
       "ko": "한자",
       "en": "Chinese character",
-      "de": "chinesisches Schriftzeichen",
-      "es": "carácter chino",
-      "it": "carattere cinese",
-      "pt": "caractere chinês",
+      "de": "das chinesische Schriftzeichen",
+      "es": "el carácter chino",
+      "it": "il carattere cinese",
+      "pt": "o caractere chinês",
       "ja": "漢字",
       "zh": "汉字",
       "ru": "китайский иероглиф",
-      "fr": "caractère chinois"
+      "fr": "le caractère chinois"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "중국에서 만들어진 글자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hanja"
     }
   },
   {
     "id": "ko_5942",
+    "lang": "ko",
     "lemma": "시",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "si"
+    },
     "meanings": {
       "ko": "시",
       "en": "city",
@@ -21364,27 +20251,25 @@ const WORDS_KO_A1 = [
       "ja": "市",
       "zh": "市",
       "ru": "город",
-      "fr": "ville"
+      "fr": "la ville"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "많은 사람이 모여 사는 크고 번화한 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "si"
     }
   },
   {
     "id": "ko_6177",
+    "lang": "ko",
     "lemma": "안경",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "angyeong"
+    },
     "meanings": {
       "ko": "안경",
       "en": "glasses",
@@ -21395,30 +20280,28 @@ const WORDS_KO_A1 = [
       "ja": "眼鏡",
       "zh": "眼镜",
       "ru": "очки",
-      "fr": "lunettes"
+      "fr": "les lunettes"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "시력이 좋지 않거나 눈을 보호하기 위해 쓰는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "angyeong"
     }
   },
   {
     "id": "ko_6249",
+    "lang": "ko",
     "lemma": "약속하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yaksokhada"
+    },
     "meanings": {
       "ko": "약속하다",
-      "en": "to promise",
+      "en": "promise",
       "de": "versprechen",
       "es": "prometer",
       "it": "promettere",
@@ -21428,26 +20311,23 @@ const WORDS_KO_A1 = [
       "ru": "обещать",
       "fr": "promettre"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람과 앞으로 할 일에 대해 미리 정하고 지키기로 말하다."
-    },
-    "infinitive": "약속하다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "yaksokhada"
     }
   },
   {
     "id": "ko_7765",
+    "lang": "ko",
     "lemma": "취미",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chwimi"
+    },
     "meanings": {
       "ko": "취미",
       "en": "hobby",
@@ -21458,22 +20338,17 @@ const WORDS_KO_A1 = [
       "ja": "趣味",
       "zh": "爱好",
       "ru": "хобби",
-      "fr": "hobby"
+      "fr": "le hobby"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여가 시간에 즐거움을 얻기 위해 반복적으로 하는 활동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chwimi"
     }
   },
   {
     "id": "ko_4478",
+    "lang": "ko",
     "lemma": "덥다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21491,7 +20366,6 @@ const WORDS_KO_A1 = [
       "ru": "жаркий",
       "fr": "chaud"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날씨나 기온이 높아서 몸이 뜨겁게 느껴지다."
     },
@@ -21501,13 +20375,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6238",
+    "lang": "ko",
     "lemma": "야구",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yagu"
+    },
     "meanings": {
       "ko": "야구",
       "en": "baseball",
@@ -21518,27 +20396,25 @@ const WORDS_KO_A1 = [
       "ja": "野球",
       "zh": "棒球",
       "ru": "бейсбол",
-      "fr": "baseball"
+      "fr": "le baseball"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "두 팀이 방망이와 공을 사용하여 점수를 내는 운동 경기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yagu"
     }
   },
   {
     "id": "ko_6761",
+    "lang": "ko",
     "lemma": "이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "i"
+    },
     "meanings": {
       "ko": "이",
       "en": "tooth",
@@ -21549,27 +20425,25 @@ const WORDS_KO_A1 = [
       "ja": "歯",
       "zh": "牙齿",
       "ru": "зуб",
-      "fr": "dent"
+      "fr": "la dent"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "입 안에 있는, 음식을 씹는 데 쓰는 뼈."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "i"
     }
   },
   {
     "id": "ko_3800",
+    "lang": "ko",
     "lemma": "구경",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gugyeong"
+    },
     "meanings": {
       "ko": "구경",
       "en": "sightseeing",
@@ -21580,22 +20454,17 @@ const WORDS_KO_A1 = [
       "ja": "見物",
       "zh": "观光",
       "ru": "осмотр достопримечательностей",
-      "fr": "visite"
+      "fr": "la visite"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "흥미로운 것을 보거나 경치를 즐기는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gugyeong"
     }
   },
   {
     "id": "ko_6021",
+    "lang": "ko",
     "lemma": "신다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21613,21 +20482,18 @@ const WORDS_KO_A1 = [
       "ru": "носить",
       "fr": "porter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발이나 다리에 신발, 양말, 바지 등을 착용하다."
     },
-    "infinitive": "신다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "sinda"
     }
   },
   {
     "id": "ko_7328",
+    "lang": "ko",
     "lemma": "죄송하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21645,7 +20511,6 @@ const WORDS_KO_A1 = [
       "ru": "извиняться",
       "fr": "désolé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 잘못을 저질러 미안한 마음이 들다."
     },
@@ -21655,8 +20520,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7849",
+    "lang": "ko",
     "lemma": "크다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21674,26 +20540,26 @@ const WORDS_KO_A1 = [
       "ru": "быть большим",
       "fr": "grand"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 크기가 점점 자라거나 늘어나는 상태."
     },
-    "infinitive": "크다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "keuda"
     }
   },
   {
     "id": "ko_5634",
+    "lang": "ko",
     "lemma": "생선",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saengseon"
+    },
     "meanings": {
       "ko": "생선",
       "en": "fish",
@@ -21704,22 +20570,17 @@ const WORDS_KO_A1 = [
       "ja": "魚",
       "zh": "鱼",
       "ru": "рыба",
-      "fr": "poisson"
+      "fr": "le poisson"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "먹기 위해 잡은 물고기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saengseon"
     }
   },
   {
     "id": "ko_7469",
+    "lang": "ko",
     "lemma": "지우다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21737,26 +20598,26 @@ const WORDS_KO_A1 = [
       "ru": "стирать",
       "fr": "effacer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "쓴 글씨나 그려진 그림 등을 없애다."
     },
-    "infinitive": "지우다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jiuda"
     }
   },
   {
     "id": "ko_7305",
+    "lang": "ko",
     "lemma": "졸업",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "joleop"
+    },
     "meanings": {
       "ko": "졸업",
       "en": "graduation",
@@ -21767,27 +20628,25 @@ const WORDS_KO_A1 = [
       "ja": "卒業",
       "zh": "毕业",
       "ru": "выпуск",
-      "fr": "diplôme"
+      "fr": "le diplôme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 정해진 교육 과정을 모두 마침."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "joleop"
     }
   },
   {
     "id": "ko_4387",
+    "lang": "ko",
     "lemma": "닭",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dak"
+    },
     "meanings": {
       "ko": "닭",
       "en": "chicken",
@@ -21798,27 +20657,25 @@ const WORDS_KO_A1 = [
       "ja": "鶏",
       "zh": "鸡",
       "ru": "курица",
-      "fr": "poulet"
+      "fr": "le poulet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날개가 있지만 잘 날지 못하고 알을 낳는 새."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dak"
     }
   },
   {
     "id": "ko_4811",
+    "lang": "ko",
     "lemma": "맥주",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "maekju"
+    },
     "meanings": {
       "ko": "맥주",
       "en": "beer",
@@ -21829,27 +20686,25 @@ const WORDS_KO_A1 = [
       "ja": "ビール",
       "zh": "啤酒",
       "ru": "пиво",
-      "fr": "bière"
+      "fr": "la bière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "보리 등을 발효시켜 만든 술의 한 종류."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maekju"
     }
   },
   {
     "id": "ko_3773",
+    "lang": "ko",
     "lemma": "교과서",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyogwaseo"
+    },
     "meanings": {
       "ko": "교과서",
       "en": "textbook",
@@ -21860,27 +20715,25 @@ const WORDS_KO_A1 = [
       "ja": "教科書",
       "zh": "教科书",
       "ru": "учебник",
-      "fr": "manuel"
+      "fr": "le manuel"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에서 학생들을 가르치기 위해 사용하는 책."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyogwaseo"
     }
   },
   {
     "id": "ko_4562",
+    "lang": "ko",
     "lemma": "돼지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dwaeji"
+    },
     "meanings": {
       "ko": "돼지",
       "en": "pig",
@@ -21891,27 +20744,25 @@ const WORDS_KO_A1 = [
       "ja": "豚",
       "zh": "猪",
       "ru": "свинья",
-      "fr": "cochon"
+      "fr": "le cochon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이 뚱뚱하고 코가 납작한 가축"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dwaeji"
     }
   },
   {
     "id": "ko_5863",
+    "lang": "ko",
     "lemma": "수영",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "suyeong"
+    },
     "meanings": {
       "ko": "수영",
       "en": "swimming",
@@ -21922,22 +20773,17 @@ const WORDS_KO_A1 = [
       "ja": "水泳",
       "zh": "游泳",
       "ru": "плавание",
-      "fr": "natation"
+      "fr": "la natation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물속에서 팔다리를 움직여 몸을 앞으로 나아가게 하는 운동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "suyeong"
     }
   },
   {
     "id": "ko_6948",
+    "lang": "ko",
     "lemma": "잊어버리다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -21955,26 +20801,26 @@ const WORDS_KO_A1 = [
       "ru": "забывать",
       "fr": "oublier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기억하고 있던 것을 완전히 기억하지 못하게 되다."
     },
-    "infinitive": "잊어버리다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "iteobeorida"
     }
   },
   {
     "id": "ko_4012",
+    "lang": "ko",
     "lemma": "기차",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gicha"
+    },
     "meanings": {
       "ko": "기차",
       "en": "train",
@@ -21985,58 +20831,54 @@ const WORDS_KO_A1 = [
       "ja": "汽車",
       "zh": "火车",
       "ru": "поезд",
-      "fr": "train"
+      "fr": "le train"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "많은 사람이나 짐을 싣고 철로 위를 달리는 교통수단."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gicha"
     }
   },
   {
     "id": "ko_6010",
+    "lang": "ko",
     "lemma": "식탁",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "siktak"
+    },
     "meanings": {
       "ko": "식탁",
       "en": "dining table",
       "de": "der Esstisch",
       "es": "la mesa de comedor",
       "it": "il tavolo da pranzo",
-      "pt": "mesa de jantar",
+      "pt": "a mesa de jantar",
       "ja": "食卓",
       "zh": "餐桌",
       "ru": "обеденный стол",
-      "fr": "table à manger"
+      "fr": "la table à manger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "식사를 할 때 음식을 놓고 사용하는 탁자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "siktak"
     }
   },
   {
     "id": "ko_3714",
+    "lang": "ko",
     "lemma": "공원",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gongwon"
+    },
     "meanings": {
       "ko": "공원",
       "en": "park",
@@ -22047,22 +20889,17 @@ const WORDS_KO_A1 = [
       "ja": "公園",
       "zh": "公园",
       "ru": "парк",
-      "fr": "parc"
+      "fr": "le parc"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 쉬거나 운동할 수 있도록 꾸며 놓은 넓은 장소."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gongwon"
     }
   },
   {
     "id": "ko_6186",
+    "lang": "ko",
     "lemma": "안되다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22080,57 +20917,55 @@ const WORDS_KO_A1 = [
       "ru": "не получаться",
       "fr": "échouer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 이루어지지 않거나 불가능하다."
     },
-    "infinitive": "안되다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "andoeda"
     }
   },
   {
     "id": "ko_4153",
+    "lang": "ko",
     "lemma": "날짜",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "naljja"
+    },
     "meanings": {
       "ko": "날짜",
       "en": "date",
-      "de": "Datum",
-      "es": "fecha",
-      "it": "data",
-      "pt": "data",
+      "de": "das Datum",
+      "es": "la fecha",
+      "it": "la data",
+      "pt": "a data",
       "ja": "日付",
       "zh": "日期",
       "ru": "дата",
-      "fr": "date"
+      "fr": "la date"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "특정한 날을 가리키는 숫자나 표현."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "naljja"
     }
   },
   {
     "id": "ko_5617",
+    "lang": "ko",
     "lemma": "샌드위치",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "saendeuwichi"
+    },
     "meanings": {
       "ko": "샌드위치",
       "en": "sandwich",
@@ -22141,27 +20976,25 @@ const WORDS_KO_A1 = [
       "ja": "サンドイッチ",
       "zh": "三明治",
       "ru": "сэндвич",
-      "fr": "sandwich"
+      "fr": "le sandwich"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빵 사이에 고기나 채소 등을 넣어 만든 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "saendeuwichi"
     }
   },
   {
     "id": "ko_3566",
+    "lang": "ko",
     "lemma": "검은색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geomeunsaek"
+    },
     "meanings": {
       "ko": "검은색",
       "en": "black",
@@ -22172,28 +21005,26 @@ const WORDS_KO_A1 = [
       "ja": "黒",
       "zh": "黑色",
       "ru": "черный",
-      "fr": "noir"
+      "fr": "le noir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빛깔이 숯처럼 아주 어두운 색."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geomeunsaek"
     }
   },
   {
     "id": "ko_5661",
+    "lang": "ko",
     "lemma": "서쪽",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk",
       "travel"
     ],
+    "reading": {
+      "ko": "seojjok"
+    },
     "meanings": {
       "ko": "서쪽",
       "en": "west",
@@ -22204,27 +21035,25 @@ const WORDS_KO_A1 = [
       "ja": "西",
       "zh": "西方",
       "ru": "запад",
-      "fr": "ouest"
+      "fr": "l'ouest"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "해가 지는 쪽의 방향."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seojjok"
     }
   },
   {
     "id": "ko_3615",
+    "lang": "ko",
     "lemma": "경찰서",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "gyeongchalseo"
+    },
     "meanings": {
       "ko": "경찰서",
       "en": "police station",
@@ -22235,27 +21064,25 @@ const WORDS_KO_A1 = [
       "ja": "警察署",
       "zh": "警察局",
       "ru": "полицейский участок",
-      "fr": "commissariat de police"
+      "fr": "le commissariat de police"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "경찰관들이 근무하는 건물이나 사무실."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeongchalseo"
     }
   },
   {
     "id": "ko_3802",
+    "lang": "ko",
     "lemma": "구두",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gudu"
+    },
     "meanings": {
       "ko": "구두",
       "en": "dress shoe",
@@ -22266,27 +21093,25 @@ const WORDS_KO_A1 = [
       "ja": "革靴",
       "zh": "皮鞋",
       "ru": "туфли",
-      "fr": "chaussure de ville"
+      "fr": "la chaussure de ville"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가죽으로 만들고 정장과 함께 신는 신발."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gudu"
     }
   },
   {
     "id": "ko_5479",
+    "lang": "ko",
     "lemma": "사과",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sagwa"
+    },
     "meanings": {
       "ko": "사과",
       "en": "apple",
@@ -22297,28 +21122,26 @@ const WORDS_KO_A1 = [
       "ja": "リンゴ",
       "zh": "苹果",
       "ru": "яблоко",
-      "fr": "pomme"
+      "fr": "la pomme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "둥글고 붉거나 푸른색을 띠는 달콤한 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sagwa"
     }
   },
   {
     "id": "ko_6369",
+    "lang": "ko",
     "lemma": "여학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "yeohaksaeng"
+    },
     "meanings": {
       "ko": "여학생",
       "en": "female student",
@@ -22329,27 +21152,25 @@ const WORDS_KO_A1 = [
       "ja": "女子学生",
       "zh": "女学生",
       "ru": "ученица",
-      "fr": "étudiante"
+      "fr": "l'étudiante"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에 다니는 여성 학생."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeohaksaeng"
     }
   },
   {
     "id": "ko_4213",
+    "lang": "ko",
     "lemma": "냉장고",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "naengjanggo"
+    },
     "meanings": {
       "ko": "냉장고",
       "en": "refrigerator",
@@ -22360,27 +21181,25 @@ const WORDS_KO_A1 = [
       "ja": "冷蔵庫",
       "zh": "冰箱",
       "ru": "холодильник",
-      "fr": "réfrigérateur"
+      "fr": "le réfrigérateur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식이나 음료를 차갑게 보관하는 가전제품."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "naengjanggo"
     }
   },
   {
     "id": "ko_3446",
+    "lang": "ko",
     "lemma": "감기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gamgi"
+    },
     "meanings": {
       "ko": "감기",
       "en": "cold",
@@ -22391,27 +21210,25 @@ const WORDS_KO_A1 = [
       "ja": "風邪",
       "zh": "感冒",
       "ru": "простуда",
-      "fr": "rhume"
+      "fr": "le rhume"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "코막힘, 기침, 열 등이 나는 병."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gamgi"
     }
   },
   {
     "id": "ko_3596",
+    "lang": "ko",
     "lemma": "결혼식",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "gyeolhonsik"
+    },
     "meanings": {
       "ko": "결혼식",
       "en": "wedding",
@@ -22422,22 +21239,17 @@ const WORDS_KO_A1 = [
       "ja": "結婚式",
       "zh": "婚礼",
       "ru": "свадьба",
-      "fr": "mariage"
+      "fr": "le mariage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남자와 여자가 부부가 되는 것을 축하하는 의식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeolhonsik"
     }
   },
   {
     "id": "ko_4238",
+    "lang": "ko",
     "lemma": "노래하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22455,29 +21267,29 @@ const WORDS_KO_A1 = [
       "ru": "петь",
       "fr": "chanter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "가락에 맞추어 말이나 소리를 내다."
     },
-    "infinitive": "노래하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "noraehada"
     }
   },
   {
     "id": "ko_4317",
+    "lang": "ko",
     "lemma": "늦다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "neutda"
+    },
     "meanings": {
       "ko": "늦다",
-      "en": "to be late",
+      "en": "be late",
       "de": "zu spät sein",
       "es": "llegar tarde",
       "it": "essere in ritardo",
@@ -22487,26 +21299,23 @@ const WORDS_KO_A1 = [
       "ru": "опаздывать",
       "fr": "être en retard"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "정해진 시간보다 뒤에 오거나 어떤 시기를 놓치다."
-    },
-    "infinitive": "늦다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "neutda"
     }
   },
   {
     "id": "ko_6415",
+    "lang": "ko",
     "lemma": "연필",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeonpil"
+    },
     "meanings": {
       "ko": "연필",
       "en": "pencil",
@@ -22517,27 +21326,25 @@ const WORDS_KO_A1 = [
       "ja": "鉛筆",
       "zh": "铅笔",
       "ru": "карандаш",
-      "fr": "crayon"
+      "fr": "le crayon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 때 사용하는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeonpil"
     }
   },
   {
     "id": "ko_6634",
+    "lang": "ko",
     "lemma": "운전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "unjeon"
+    },
     "meanings": {
       "ko": "운전",
       "en": "driving",
@@ -22548,27 +21355,25 @@ const WORDS_KO_A1 = [
       "ja": "運転",
       "zh": "驾驶",
       "ru": "вождение",
-      "fr": "conduite"
+      "fr": "la conduite"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자동차나 기차 등을 움직여 목적지까지 가는 행위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "unjeon"
     }
   },
   {
     "id": "ko_5363",
+    "lang": "ko",
     "lemma": "불고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bulgogi"
+    },
     "meanings": {
       "ko": "불고기",
       "en": "bulgogi",
@@ -22579,27 +21384,25 @@ const WORDS_KO_A1 = [
       "ja": "プルコギ",
       "zh": "烤肉",
       "ru": "пулькоги",
-      "fr": "bulgogi"
+      "fr": "le bulgogi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "얇게 썬 소고기를 양념하여 구워 먹는 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bulgogi"
     }
   },
   {
     "id": "ko_4887",
+    "lang": "ko",
     "lemma": "목욕",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "mokyok"
+    },
     "meanings": {
       "ko": "목욕",
       "en": "bath",
@@ -22610,27 +21413,25 @@ const WORDS_KO_A1 = [
       "ja": "入浴",
       "zh": "洗澡",
       "ru": "купание",
-      "fr": "bain"
+      "fr": "le bain"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸을 깨끗하게 씻는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mokyok"
     }
   },
   {
     "id": "ko_7167",
+    "lang": "ko",
     "lemma": "전화번호",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeonhwabeonho"
+    },
     "meanings": {
       "ko": "전화번호",
       "en": "phone number",
@@ -22641,22 +21442,17 @@ const WORDS_KO_A1 = [
       "ja": "電話番号",
       "zh": "电话号码",
       "ru": "номер телефона",
-      "fr": "numéro de téléphone"
+      "fr": "le numéro de téléphone"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "전화를 걸 때 사용하는 고유한 숫자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeonhwabeonho"
     }
   },
   {
     "id": "ko_3454",
+    "lang": "ko",
     "lemma": "감사하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22674,7 +21470,6 @@ const WORDS_KO_A1 = [
       "ru": "благодарный",
       "fr": "reconnaissant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고마운 마음을 가지고 있다."
     },
@@ -22684,13 +21479,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7431",
+    "lang": "ko",
     "lemma": "지갑",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jigap"
+    },
     "meanings": {
       "ko": "지갑",
       "en": "wallet",
@@ -22701,22 +21500,17 @@ const WORDS_KO_A1 = [
       "ja": "財布",
       "zh": "钱包",
       "ru": "кошелёк",
-      "fr": "portefeuille"
+      "fr": "le portefeuille"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돈이나 카드 등을 넣어 가지고 다니는 작은 주머니."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jigap"
     }
   },
   {
     "id": "ko_7788",
+    "lang": "ko",
     "lemma": "친절하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22734,7 +21528,6 @@ const WORDS_KO_A1 = [
       "ru": "добрый",
       "fr": "gentil"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "남을 대하는 태도가 상냥하고 부드러운 성질이 있다."
     },
@@ -22744,8 +21537,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4906",
+    "lang": "ko",
     "lemma": "못하다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22763,7 +21557,6 @@ const WORDS_KO_A1 = [
       "ru": "не мочь",
       "fr": "ne pas pouvoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일의 수준이나 정도가 보통보다 낮거나 좋지 않다."
     },
@@ -22773,8 +21566,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_3561",
+    "lang": "ko",
     "lemma": "걸어오다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22792,26 +21586,26 @@ const WORDS_KO_A1 = [
       "ru": "приходить пешком",
       "fr": "venir à pied"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발을 움직여 말하는 사람 쪽으로 오다."
     },
-    "infinitive": "걸어오다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "geoleooda"
     }
   },
   {
     "id": "ko_4874",
+    "lang": "ko",
     "lemma": "모자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "moja"
+    },
     "meanings": {
       "ko": "모자",
       "en": "hat",
@@ -22822,27 +21616,25 @@ const WORDS_KO_A1 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "шляпа",
-      "fr": "chapeau"
+      "fr": "le chapeau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "햇빛이나 추위 등을 막기 위해 머리에 쓰는 물건"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "moja"
     }
   },
   {
     "id": "ko_5794",
+    "lang": "ko",
     "lemma": "소파",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sopa"
+    },
     "meanings": {
       "ko": "소파",
       "en": "sofa",
@@ -22853,27 +21645,25 @@ const WORDS_KO_A1 = [
       "ja": "ソファ",
       "zh": "沙发",
       "ru": "диван",
-      "fr": "sofa"
+      "fr": "le sofa"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 사람이 앉을 수 있도록 길게 만든 의자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sopa"
     }
   },
   {
     "id": "ko_6374",
+    "lang": "ko",
     "lemma": "역",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "yeok"
+    },
     "meanings": {
       "ko": "역",
       "en": "station",
@@ -22884,22 +21674,17 @@ const WORDS_KO_A1 = [
       "ja": "駅",
       "zh": "站",
       "ru": "станция",
-      "fr": "station"
+      "fr": "la station"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기차나 지하철, 버스 등이 서는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeok"
     }
   },
   {
     "id": "ko_6854",
+    "lang": "ko",
     "lemma": "인사하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -22917,26 +21702,26 @@ const WORDS_KO_A1 = [
       "ru": "приветствовать",
       "fr": "saluer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람을 만나거나 헤어질 때 말이나 행동으로 예의를 표하다."
     },
-    "infinitive": "인사하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "insahada"
     }
   },
   {
     "id": "ko_6350",
+    "lang": "ko",
     "lemma": "여권",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ko": "yeogwon"
+    },
     "meanings": {
       "ko": "여권",
       "en": "passport",
@@ -22947,27 +21732,25 @@ const WORDS_KO_A1 = [
       "ja": "パスポート",
       "zh": "护照",
       "ru": "паспорт",
-      "fr": "passeport"
+      "fr": "le passeport"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "외국 여행을 할 때 신분을 증명하는 공식 문서"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeogwon"
     }
   },
   {
     "id": "ko_6424",
+    "lang": "ko",
     "lemma": "열쇠",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yeolsoe"
+    },
     "meanings": {
       "ko": "열쇠",
       "en": "key",
@@ -22978,27 +21761,25 @@ const WORDS_KO_A1 = [
       "ja": "鍵",
       "zh": "钥匙",
       "ru": "ключ",
-      "fr": "clé"
+      "fr": "la clé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자물쇠를 잠그거나 여는 데 쓰는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeolsoe"
     }
   },
   {
     "id": "ko_6500",
+    "lang": "ko",
     "lemma": "오렌지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "orenji"
+    },
     "meanings": {
       "ko": "오렌지",
       "en": "orange",
@@ -23009,27 +21790,25 @@ const WORDS_KO_A1 = [
       "ja": "オレンジ",
       "zh": "橙子",
       "ru": "апельсин",
-      "fr": "orange"
+      "fr": "l'orange"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "껍질이 주황색이고 달콤한 맛이 나는 둥근 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "orenji"
     }
   },
   {
     "id": "ko_4320",
+    "lang": "ko",
     "lemma": "다",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "da"
+    },
     "meanings": {
       "ko": "다",
       "en": "all",
@@ -23042,25 +21821,23 @@ const WORDS_KO_A1 = [
       "ru": "все",
       "fr": "tout"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 범위 안에 있는 모든 것이나 전부."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "da"
     }
   },
   {
     "id": "ko_5180",
+    "lang": "ko",
     "lemma": "번호",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "beonho"
+    },
     "meanings": {
       "ko": "번호",
       "en": "number",
@@ -23071,27 +21848,25 @@ const WORDS_KO_A1 = [
       "ja": "番号",
       "zh": "号码",
       "ru": "номер",
-      "fr": "numéro"
+      "fr": "le numéro"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "순서나 대상을 구별하기 위해 붙이는 숫자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "beonho"
     }
   },
   {
     "id": "ko_5857",
+    "lang": "ko",
     "lemma": "수박",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "subak"
+    },
     "meanings": {
       "ko": "수박",
       "en": "watermelon",
@@ -23102,27 +21877,25 @@ const WORDS_KO_A1 = [
       "ja": "スイカ",
       "zh": "西瓜",
       "ru": "арбуз",
-      "fr": "pastèque"
+      "fr": "la pastèque"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여름에 먹는 크고 둥근 모양의 달콤한 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "subak"
     }
   },
   {
     "id": "ko_3734",
+    "lang": "ko",
     "lemma": "과자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gwaja"
+    },
     "meanings": {
       "ko": "과자",
       "en": "snack",
@@ -23133,27 +21906,25 @@ const WORDS_KO_A1 = [
       "ja": "お菓子",
       "zh": "零食",
       "ru": "печенье",
-      "fr": "collation"
+      "fr": "la collation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밀가루나 설탕 등으로 만들어 간식으로 먹는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gwaja"
     }
   },
   {
     "id": "ko_4459",
+    "lang": "ko",
     "lemma": "대학교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daehakgyo"
+    },
     "meanings": {
       "ko": "대학교",
       "en": "university",
@@ -23164,27 +21935,25 @@ const WORDS_KO_A1 = [
       "ja": "大学",
       "zh": "大学",
       "ru": "университет",
-      "fr": "université"
+      "fr": "l'université"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고등학교를 졸업한 학생들이 전문적인 지식을 배우는 교육 기관"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daehakgyo"
     }
   },
   {
     "id": "ko_4563",
+    "lang": "ko",
     "lemma": "돼지고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dwaejigogi"
+    },
     "meanings": {
       "ko": "돼지고기",
       "en": "pork",
@@ -23195,22 +21964,17 @@ const WORDS_KO_A1 = [
       "ja": "豚肉",
       "zh": "猪肉",
       "ru": "свинина",
-      "fr": "porc"
+      "fr": "le porc"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "돼지의 살을 식용으로 쓰는 고기"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dwaejigogi"
     }
   },
   {
     "id": "ko_7168",
+    "lang": "ko",
     "lemma": "전화하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23228,26 +21992,26 @@ const WORDS_KO_A1 = [
       "ru": "звонить",
       "fr": "appeler"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "전화기를 사용하여 다른 사람과 이야기하다."
     },
-    "infinitive": "전화하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jeonhwahada"
     }
   },
   {
     "id": "ko_5843",
+    "lang": "ko",
     "lemma": "수건",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "sugeon"
+    },
     "meanings": {
       "ko": "수건",
       "en": "towel",
@@ -23258,27 +22022,25 @@ const WORDS_KO_A1 = [
       "ja": "タオル",
       "zh": "毛巾",
       "ru": "полотенце",
-      "fr": "serviette"
+      "fr": "la serviette"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물기를 닦거나 몸을 씻을 때 쓰는 천."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sugeon"
     }
   },
   {
     "id": "ko_6267",
+    "lang": "ko",
     "lemma": "양복",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yangbok"
+    },
     "meanings": {
       "ko": "양복",
       "en": "suit",
@@ -23289,22 +22051,17 @@ const WORDS_KO_A1 = [
       "ja": "背広",
       "zh": "西装",
       "ru": "костюм",
-      "fr": "costume"
+      "fr": "le costume"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "서양식으로 만든 정장 옷으로, 주로 남자가 입는 옷입니다."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yangbok"
     }
   },
   {
     "id": "ko_7034",
+    "lang": "ko",
     "lemma": "잠자다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23322,26 +22079,26 @@ const WORDS_KO_A1 = [
       "ru": "спать",
       "fr": "dormir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "눈을 감고 의식을 잃은 채 쉬는 행동."
     },
-    "infinitive": "잠자다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jamjada"
     }
   },
   {
     "id": "ko_7197",
+    "lang": "ko",
     "lemma": "젓가락",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeotgarak"
+    },
     "meanings": {
       "ko": "젓가락",
       "en": "chopsticks",
@@ -23352,27 +22109,25 @@ const WORDS_KO_A1 = [
       "ja": "箸",
       "zh": "筷子",
       "ru": "палочки",
-      "fr": "baguettes"
+      "fr": "les baguettes"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 집어 먹을 때 사용하는 두 개의 막대기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeotgarak"
     }
   },
   {
     "id": "ko_8078",
+    "lang": "ko",
     "lemma": "피아노",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "piano"
+    },
     "meanings": {
       "ko": "피아노",
       "en": "piano",
@@ -23383,22 +22138,17 @@ const WORDS_KO_A1 = [
       "ja": "ピアノ",
       "zh": "钢琴",
       "ru": "пианино",
-      "fr": "piano"
+      "fr": "le piano"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "건반을 눌러 소리를 내는 서양 악기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "piano"
     }
   },
   {
     "id": "ko_7734",
+    "lang": "ko",
     "lemma": "축하하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23416,26 +22166,26 @@ const WORDS_KO_A1 = [
       "ru": "праздновать",
       "fr": "célébrer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "좋은 일이 있을 때 기쁨을 함께 나누다."
     },
-    "infinitive": "축하하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chukhahada"
     }
   },
   {
     "id": "ko_3991",
+    "lang": "ko",
     "lemma": "기숙사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gisuksa"
+    },
     "meanings": {
       "ko": "기숙사",
       "en": "dormitory",
@@ -23446,27 +22196,25 @@ const WORDS_KO_A1 = [
       "ja": "寮",
       "zh": "宿舍",
       "ru": "общежитие",
-      "fr": "dortoir"
+      "fr": "le dortoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교나 회사에서 학생들이나 직원들이 함께 생활하는 건물."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gisuksa"
     }
   },
   {
     "id": "ko_5547",
+    "lang": "ko",
     "lemma": "산책",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sanchaek"
+    },
     "meanings": {
       "ko": "산책",
       "en": "walk",
@@ -23479,20 +22227,18 @@ const WORDS_KO_A1 = [
       "ru": "прогулка",
       "fr": "marcher"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "건강이나 기분 전환을 위해 가볍게 걷는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sanchaek"
+      "ko_gloss": "건강이나 기분 전환을 위해 가볍게 걷는 일.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_6629",
+    "lang": "ko",
     "lemma": "운동하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23510,26 +22256,26 @@ const WORDS_KO_A1 = [
       "ru": "тренироваться",
       "fr": "s'exercer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "건강을 위해 몸을 움직이거나 스포츠를 즐기다."
     },
-    "infinitive": "운동하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "undonghada"
     }
   },
   {
     "id": "ko_6665",
+    "lang": "ko",
     "lemma": "월요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "wolyoil"
+    },
     "meanings": {
       "ko": "월요일",
       "en": "Monday",
@@ -23540,27 +22286,25 @@ const WORDS_KO_A1 = [
       "ja": "月曜日",
       "zh": "星期一",
       "ru": "понедельник",
-      "fr": "lundi"
+      "fr": "le lundi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일요일 다음으로 오는 한 주의 첫째 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "wolyoil"
     }
   },
   {
     "id": "ko_7348",
+    "lang": "ko",
     "lemma": "주소",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "juso"
+    },
     "meanings": {
       "ko": "주소",
       "en": "address",
@@ -23571,27 +22315,25 @@ const WORDS_KO_A1 = [
       "ja": "住所",
       "zh": "地址",
       "ru": "адрес",
-      "fr": "adresse"
+      "fr": "l'adresse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "집이나 건물이 있는 위치를 나타내는 정보"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "juso"
     }
   },
   {
     "id": "ko_7976",
+    "lang": "ko",
     "lemma": "파티",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pati"
+    },
     "meanings": {
       "ko": "파티",
       "en": "party",
@@ -23602,22 +22344,17 @@ const WORDS_KO_A1 = [
       "ja": "パーティー",
       "zh": "派对",
       "ru": "вечеринка",
-      "fr": "fête"
+      "fr": "la fête"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 사람이 모여 즐겁게 시간을 보내는 모임."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pati"
     }
   },
   {
     "id": "ko_4374",
+    "lang": "ko",
     "lemma": "달다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23635,7 +22372,6 @@ const WORDS_KO_A1 = [
       "ru": "сладкий",
       "fr": "doux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "설탕이나 꿀처럼 맛이 좋다."
     },
@@ -23645,8 +22381,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7658",
+    "lang": "ko",
     "lemma": "청소하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23664,21 +22401,18 @@ const WORDS_KO_A1 = [
       "ru": "убирать",
       "fr": "nettoyer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "더러운 곳을 깨끗하게 만들다."
     },
-    "infinitive": "청소하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "cheongsohada"
     }
   },
   {
     "id": "ko_3453",
+    "lang": "ko",
     "lemma": "감사하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23697,26 +22431,26 @@ const WORDS_KO_A1 = [
       "ru": "быть благодарным",
       "fr": "être reconnaissant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고마운 마음을 표현하거나 느끼다."
     },
-    "infinitive": "감사하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "gamsahada"
     }
   },
   {
     "id": "ko_4630",
+    "lang": "ko",
     "lemma": "등산",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "deungsan"
+    },
     "meanings": {
       "ko": "등산",
       "en": "mountain climbing",
@@ -23727,27 +22461,25 @@ const WORDS_KO_A1 = [
       "ja": "登山",
       "zh": "登山",
       "ru": "альпинизм",
-      "fr": "alpinisme"
+      "fr": "l'alpinisme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "산을 오르내리는 운동이나 활동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "deungsan"
     }
   },
   {
     "id": "ko_4835",
+    "lang": "ko",
     "lemma": "메뉴",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "menyu"
+    },
     "meanings": {
       "ko": "메뉴",
       "en": "menu",
@@ -23758,27 +22490,25 @@ const WORDS_KO_A1 = [
       "ja": "メニュー",
       "zh": "菜单",
       "ru": "меню",
-      "fr": "menu"
+      "fr": "le menu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "식당에서 손님에게 제공하는 음식의 종류와 가격을 적어 놓은 목록."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "menyu"
     }
   },
   {
     "id": "ko_6562",
+    "lang": "ko",
     "lemma": "외국어",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "oegukeo"
+    },
     "meanings": {
       "ko": "외국어",
       "en": "foreign language",
@@ -23789,27 +22519,25 @@ const WORDS_KO_A1 = [
       "ja": "外国語",
       "zh": "外语",
       "ru": "иностранный язык",
-      "fr": "langue étrangère"
+      "fr": "la langue étrangère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자기 나라의 말이 아닌 다른 나라의 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oegukeo"
     }
   },
   {
     "id": "ko_6990",
+    "lang": "ko",
     "lemma": "자장면",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jajangmyeon"
+    },
     "meanings": {
       "ko": "자장면",
       "en": "jjajangmyeon",
@@ -23820,28 +22548,26 @@ const WORDS_KO_A1 = [
       "ja": "ジャージャー麺",
       "zh": "炸酱面",
       "ru": "чачжанмён",
-      "fr": "jjajangmyeon"
+      "fr": "le jjajangmyeon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "춘장에 여러 재료를 넣고 볶아 만든 소스를 면에 비벼 먹는 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jajangmyeon"
     }
   },
   {
     "id": "ko_7413",
+    "lang": "ko",
     "lemma": "중학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "junghaksaeng"
+    },
     "meanings": {
       "ko": "중학생",
       "en": "middle school student",
@@ -23852,27 +22578,25 @@ const WORDS_KO_A1 = [
       "ja": "中学生",
       "zh": "初中生",
       "ru": "ученик средней школы",
-      "fr": "collégien"
+      "fr": "le collégien"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "중학교에서 공부하는 학생."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "junghaksaeng"
     }
   },
   {
     "id": "ko_8362",
+    "lang": "ko",
     "lemma": "휴일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyuil"
+    },
     "meanings": {
       "ko": "휴일",
       "en": "holiday",
@@ -23883,27 +22607,25 @@ const WORDS_KO_A1 = [
       "ja": "休日",
       "zh": "假日",
       "ru": "выходной",
-      "fr": "jour férié"
+      "fr": "le jour férié"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일하지 않고 쉬는 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyuil"
     }
   },
   {
     "id": "ko_4381",
+    "lang": "ko",
     "lemma": "달력",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dalryeok"
+    },
     "meanings": {
       "ko": "달력",
       "en": "calendar",
@@ -23914,27 +22636,25 @@ const WORDS_KO_A1 = [
       "ja": "カレンダー",
       "zh": "日历",
       "ru": "календарь",
-      "fr": "calendrier"
+      "fr": "le calendrier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날짜, 요일, 기념일 등을 알 수 있게 만든 표."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dalryeok"
     }
   },
   {
     "id": "ko_5796",
+    "lang": "ko",
     "lemma": "소풍",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sopung"
+    },
     "meanings": {
       "ko": "소풍",
       "en": "picnic",
@@ -23945,22 +22665,17 @@ const WORDS_KO_A1 = [
       "ja": "遠足",
       "zh": "野餐",
       "ru": "пикник",
-      "fr": "pique-nique"
+      "fr": "le pique-nique"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "기분 전환이나 놀이를 위해 야외로 나가는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sopung"
     }
   },
   {
     "id": "ko_7757",
+    "lang": "ko",
     "lemma": "춤추다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -23978,26 +22693,26 @@ const WORDS_KO_A1 = [
       "ru": "танцевать",
       "fr": "danser"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음악에 맞춰 몸을 움직이는 동작을 하다."
     },
-    "infinitive": "춤추다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chumchuda"
     }
   },
   {
     "id": "ko_7902",
+    "lang": "ko",
     "lemma": "테니스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "teniseu"
+    },
     "meanings": {
       "ko": "테니스",
       "en": "tennis",
@@ -24008,27 +22723,25 @@ const WORDS_KO_A1 = [
       "ja": "テニス",
       "zh": "网球",
       "ru": "теннис",
-      "fr": "tennis"
+      "fr": "le tennis"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "라켓으로 공을 쳐서 네트를 넘기는 운동"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "teniseu"
     }
   },
   {
     "id": "ko_3720",
+    "lang": "ko",
     "lemma": "공책",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gongchaek"
+    },
     "meanings": {
       "ko": "공책",
       "en": "notebook",
@@ -24039,27 +22752,25 @@ const WORDS_KO_A1 = [
       "ja": "ノート",
       "zh": "笔记本",
       "ru": "тетрадь",
-      "fr": "cahier"
+      "fr": "le cahier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 수 있도록 만든 종이 묶음."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gongchaek"
     }
   },
   {
     "id": "ko_5660",
+    "lang": "ko",
     "lemma": "서점",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seojeom"
+    },
     "meanings": {
       "ko": "서점",
       "en": "bookstore",
@@ -24070,27 +22781,25 @@ const WORDS_KO_A1 = [
       "ja": "書店",
       "zh": "书店",
       "ru": "книжный магазин",
-      "fr": "librairie"
+      "fr": "la librairie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "책을 파는 가게를 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "seojeom"
     }
   },
   {
     "id": "ko_6263",
+    "lang": "ko",
     "lemma": "양말",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yangmal"
+    },
     "meanings": {
       "ko": "양말",
       "en": "sock",
@@ -24101,22 +22810,17 @@ const WORDS_KO_A1 = [
       "ja": "靴下",
       "zh": "袜子",
       "ru": "носок",
-      "fr": "chaussette"
+      "fr": "la chaussette"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "발에 신어 발을 보호하고 따뜻하게 하는 옷."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yangmal"
     }
   },
   {
     "id": "ko_7675",
+    "lang": "ko",
     "lemma": "초대하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24134,21 +22838,18 @@ const WORDS_KO_A1 = [
       "ru": "приглашать",
       "fr": "inviter"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람에게 오라고 요청하다."
     },
-    "infinitive": "초대하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "chodaehada"
     }
   },
   {
     "id": "ko_6407",
+    "lang": "ko",
     "lemma": "연습하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24166,26 +22867,26 @@ const WORDS_KO_A1 = [
       "ru": "практиковать",
       "fr": "pratiquer"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 기술이나 능력을 익히기 위해 반복하여 훈련하다."
     },
-    "infinitive": "연습하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "yeonseuphada"
     }
   },
   {
     "id": "ko_3616",
+    "lang": "ko",
     "lemma": "경치",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyeongchi"
+    },
     "meanings": {
       "ko": "경치",
       "en": "scenery",
@@ -24196,27 +22897,25 @@ const WORDS_KO_A1 = [
       "ja": "景色",
       "zh": "风景",
       "ru": "пейзаж",
-      "fr": "paysage"
+      "fr": "le paysage"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자연이나 주변 환경이 눈에 보이는 모습."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeongchi"
     }
   },
   {
     "id": "ko_5091",
+    "lang": "ko",
     "lemma": "발음",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "baleum"
+    },
     "meanings": {
       "ko": "발음",
       "en": "pronunciation",
@@ -24227,22 +22926,17 @@ const WORDS_KO_A1 = [
       "ja": "発音",
       "zh": "发音",
       "ru": "произношение",
-      "fr": "prononciation"
+      "fr": "la prononciation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글자나 단어를 소리 내어 말하는 방식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "baleum"
     }
   },
   {
     "id": "ko_7078",
+    "lang": "ko",
     "lemma": "재미없다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24260,7 +22954,6 @@ const WORDS_KO_A1 = [
       "ru": "скучный",
       "fr": "ennuyeux"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "흥미나 즐거움을 느끼지 못하고 지루하다."
     },
@@ -24270,13 +22963,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7349",
+    "lang": "ko",
     "lemma": "주스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "juseu"
+    },
     "meanings": {
       "ko": "주스",
       "en": "juice",
@@ -24287,27 +22984,25 @@ const WORDS_KO_A1 = [
       "ja": "ジュース",
       "zh": "果汁",
       "ru": "сок",
-      "fr": "jus"
+      "fr": "le jus"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "과일이나 채소를 짜서 만든 음료"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "juseu"
     }
   },
   {
     "id": "ko_7841",
+    "lang": "ko",
     "lemma": "콜라",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "kolra"
+    },
     "meanings": {
       "ko": "콜라",
       "en": "cola",
@@ -24318,28 +23013,26 @@ const WORDS_KO_A1 = [
       "ja": "コーラ",
       "zh": "可乐",
       "ru": "кола",
-      "fr": "cola"
+      "fr": "le cola"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "달콤하고 톡 쏘는 맛이 나는 검은색 탄산음료."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "kolra"
     }
   },
   {
     "id": "ko_4170",
+    "lang": "ko",
     "lemma": "남학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "namhaksaeng"
+    },
     "meanings": {
       "ko": "남학생",
       "en": "male student",
@@ -24350,22 +23043,17 @@ const WORDS_KO_A1 = [
       "ja": "男子学生",
       "zh": "男学生",
       "ru": "ученик",
-      "fr": "étudiant"
+      "fr": "l'étudiant"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교에 다니는 남자 학생."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namhaksaeng"
     }
   },
   {
     "id": "ko_6005",
+    "lang": "ko",
     "lemma": "식사하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24383,26 +23071,26 @@ const WORDS_KO_A1 = [
       "ru": "есть",
       "fr": "manger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하루에 정해진 시간에 음식을 먹다."
     },
-    "infinitive": "식사하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "siksahada"
     }
   },
   {
     "id": "ko_6622",
+    "lang": "ko",
     "lemma": "우체국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "ucheguk"
+    },
     "meanings": {
       "ko": "우체국",
       "en": "post office",
@@ -24413,22 +23101,17 @@ const WORDS_KO_A1 = [
       "ja": "郵便局",
       "zh": "邮局",
       "ru": "почта",
-      "fr": "poste"
+      "fr": "la poste"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "편지나 소포를 보내거나 받을 수 있는 국가 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ucheguk"
     }
   },
   {
     "id": "ko_3674",
+    "lang": "ko",
     "lemma": "고프다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24446,7 +23129,6 @@ const WORDS_KO_A1 = [
       "ru": "голодный",
       "fr": "affamé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "배가 비어 음식을 먹고 싶은 느낌이 있다."
     },
@@ -24456,13 +23138,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_4437",
+    "lang": "ko",
     "lemma": "대사관",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "daesagwan"
+    },
     "meanings": {
       "ko": "대사관",
       "en": "embassy",
@@ -24473,22 +23159,17 @@ const WORDS_KO_A1 = [
       "ja": "大使館",
       "zh": "大使馆",
       "ru": "посольство",
-      "fr": "ambassade"
+      "fr": "l'ambassade"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대사가 근무하며 외교 업무를 보는 기관."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "daesagwan"
     }
   },
   {
     "id": "ko_5146",
+    "lang": "ko",
     "lemma": "배고프다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24506,7 +23187,6 @@ const WORDS_KO_A1 = [
       "ru": "голодный",
       "fr": "affamé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밥을 먹고 싶은 느낌이 들다."
     },
@@ -24516,8 +23196,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6373",
+    "lang": "ko",
     "lemma": "여행하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24535,26 +23216,26 @@ const WORDS_KO_A1 = [
       "ru": "путешествовать",
       "fr": "voyager"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 곳을 돌아다니며 구경하거나 쉬는 활동을 하다."
     },
-    "infinitive": "여행하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "yeohaenghada"
     }
   },
   {
     "id": "ko_7206",
+    "lang": "ko",
     "lemma": "정류장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jeongryujang"
+    },
     "meanings": {
       "ko": "정류장",
       "en": "stop",
@@ -24565,22 +23246,17 @@ const WORDS_KO_A1 = [
       "ja": "停留所",
       "zh": "站",
       "ru": "остановка",
-      "fr": "arrêt"
+      "fr": "l'arrêt"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "버스나 기차가 서는 곳."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeongryujang"
     }
   },
   {
     "id": "ko_4812",
+    "lang": "ko",
     "lemma": "맵다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -24598,7 +23274,6 @@ const WORDS_KO_A1 = [
       "ru": "острый",
       "fr": "épicé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고추나 후추처럼 혀를 자극하여 화끈거리는 맛이 있다."
     },
@@ -24608,14 +23283,18 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6354",
+    "lang": "ko",
     "lemma": "여동생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "yeodongsaeng"
+    },
     "meanings": {
       "ko": "여동생",
       "en": "younger sister",
@@ -24626,28 +23305,26 @@ const WORDS_KO_A1 = [
       "ja": "妹",
       "zh": "妹妹",
       "ru": "младшая сестра",
-      "fr": "sœur cadette"
+      "fr": "la sœur cadette"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자기보다 나이가 어린 여자 형제"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yeodongsaeng"
     }
   },
   {
     "id": "ko_6494",
+    "lang": "ko",
     "lemma": "오래간만",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ko": "oraeganman"
+    },
     "meanings": {
       "ko": "오래간만",
       "en": "after a long time",
@@ -24660,25 +23337,23 @@ const WORDS_KO_A1 = [
       "ru": "спустя долгое время",
       "fr": "après longtemps"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 일이 있은 후 시간이 많이 흐른 동안."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "oraeganman"
     }
   },
   {
     "id": "ko_7188",
+    "lang": "ko",
     "lemma": "점심시간",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "jeomsimsigan"
+    },
     "meanings": {
       "ko": "점심시간",
       "en": "lunchtime",
@@ -24689,27 +23364,25 @@ const WORDS_KO_A1 = [
       "ja": "昼休み",
       "zh": "午餐时间",
       "ru": "обеденное время",
-      "fr": "heure du déjeuner"
+      "fr": "l'heure du déjeuner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "점심을 먹기 위해 정해진 시간."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jeomsimsigan"
     }
   },
   {
     "id": "ko_8363",
+    "lang": "ko",
     "lemma": "휴지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyuji"
+    },
     "meanings": {
       "ko": "휴지",
       "en": "tissue",
@@ -24720,27 +23393,25 @@ const WORDS_KO_A1 = [
       "ja": "ティッシュ",
       "zh": "纸巾",
       "ru": "бумажная салфетка",
-      "fr": "mouchoir"
+      "fr": "le mouchoir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "코를 풀거나 더러운 것을 닦을 때 쓰는 얇은 종이."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyuji"
     }
   },
   {
     "id": "ko_7882",
+    "lang": "ko",
     "lemma": "태권도",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "taegwondo"
+    },
     "meanings": {
       "ko": "태권도",
       "en": "Taekwondo",
@@ -24751,27 +23422,25 @@ const WORDS_KO_A1 = [
       "ja": "テコンドー",
       "zh": "跆拳道",
       "ru": "Тхэквондо",
-      "fr": "Taekwondo"
+      "fr": "le Taekwondo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한국의 전통 무술이자 스포츠."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "taegwondo"
     }
   },
   {
     "id": "ko_8206",
+    "lang": "ko",
     "lemma": "햄버거",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "haembeogeo"
+    },
     "meanings": {
       "ko": "햄버거",
       "en": "hamburger",
@@ -24782,27 +23451,25 @@ const WORDS_KO_A1 = [
       "ja": "ハンバーガー",
       "zh": "汉堡包",
       "ru": "гамбургер",
-      "fr": "hamburger"
+      "fr": "le hamburger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빵 사이에 고기 패티와 채소 등을 넣어 만든 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haembeogeo"
     }
   },
   {
     "id": "ko_3452",
+    "lang": "ko",
     "lemma": "감사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gamsa"
+    },
     "meanings": {
       "ko": "감사",
       "en": "gratitude",
@@ -24813,27 +23480,25 @@ const WORDS_KO_A1 = [
       "ja": "感謝",
       "zh": "感谢",
       "ru": "благодарность",
-      "fr": "gratitude"
+      "fr": "la gratitude"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고마움을 느끼는 마음이나 그 표현."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gamsa"
     }
   },
   {
     "id": "ko_5913",
+    "lang": "ko",
     "lemma": "슈퍼마켓",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ko": "syupeomaket"
+    },
     "meanings": {
       "ko": "슈퍼마켓",
       "en": "supermarket",
@@ -24844,27 +23509,25 @@ const WORDS_KO_A1 = [
       "ja": "スーパーマーケット",
       "zh": "超市",
       "ru": "супермаркет",
-      "fr": "supermarché"
+      "fr": "le supermarché"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "식료품과 여러 생활용품을 파는 큰 상점."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "syupeomaket"
     }
   },
   {
     "id": "ko_5405",
+    "lang": "ko",
     "lemma": "비누",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "binu"
+    },
     "meanings": {
       "ko": "비누",
       "en": "soap",
@@ -24875,27 +23538,25 @@ const WORDS_KO_A1 = [
       "ja": "石鹸",
       "zh": "肥皂",
       "ru": "мыло",
-      "fr": "savon"
+      "fr": "le savon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸이나 물건을 씻을 때 쓰는 세정제."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "binu"
     }
   },
   {
     "id": "ko_5738",
+    "lang": "ko",
     "lemma": "세수",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "sesu"
+    },
     "meanings": {
       "ko": "세수",
       "en": "washing face",
@@ -24908,25 +23569,27 @@ const WORDS_KO_A1 = [
       "ru": "умывание",
       "fr": "le lavage du visage"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "얼굴을 물로 씻는 행위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sesu"
+      "ko_gloss": "얼굴을 물로 씻는 행위.",
+      "noArticleMeanings": {
+        "es": true,
+        "pt": true
+      }
     }
   },
   {
     "id": "ko_7560",
+    "lang": "ko",
     "lemma": "찌개",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jjigae"
+    },
     "meanings": {
       "ko": "찌개",
       "en": "stew",
@@ -24937,27 +23600,25 @@ const WORDS_KO_A1 = [
       "ja": "チゲ",
       "zh": "炖菜",
       "ru": "рагу",
-      "fr": "ragoût"
+      "fr": "le ragoût"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "국보다 건더기가 많고 국물이 적은 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jjigae"
     }
   },
   {
     "id": "ko_4230",
+    "lang": "ko",
     "lemma": "넥타이",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "nektai"
+    },
     "meanings": {
       "ko": "넥타이",
       "en": "tie",
@@ -24968,27 +23629,25 @@ const WORDS_KO_A1 = [
       "ja": "ネクタイ",
       "zh": "领带",
       "ru": "галстук",
-      "fr": "cravate"
+      "fr": "la cravate"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "양복 셔츠의 목 부분에 매는 긴 천 조각."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "nektai"
     }
   },
   {
     "id": "ko_4806",
+    "lang": "ko",
     "lemma": "매일",
-    "pos": "명사",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "maeil"
+    },
     "meanings": {
       "ko": "매일",
       "en": "every day",
@@ -25001,28 +23660,26 @@ const WORDS_KO_A1 = [
       "ru": "каждый день",
       "fr": "chaque jour"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "날마다 돌아오는 모든 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "maeil"
     }
   },
   {
     "id": "ko_7038",
+    "lang": "ko",
     "lemma": "잡수시다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "japsusida"
+    },
     "meanings": {
       "ko": "잡수시다",
-      "en": "to eat (honorific)",
+      "en": "eat (honorific)",
       "de": "essen (höflich)",
       "es": "comer (respetuoso)",
       "it": "mangiare (onorifico)",
@@ -25032,26 +23689,23 @@ const WORDS_KO_A1 = [
       "ru": "есть (вежливо)",
       "fr": "manger"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "(높임말) 음식을 먹거나 마시다."
-    },
-    "infinitive": "잡수시다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "japsusida"
     }
   },
   {
     "id": "ko_8136",
+    "lang": "ko",
     "lemma": "한국말",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hangukmal"
+    },
     "meanings": {
       "ko": "한국말",
       "en": "Korean language",
@@ -25062,27 +23716,25 @@ const WORDS_KO_A1 = [
       "ja": "韓国語",
       "zh": "韩语",
       "ru": "корейский язык",
-      "fr": "langue coréenne"
+      "fr": "la langue coréenne"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "대한민국 사람들이 사용하는 언어를 일상적으로 이르는 말."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hangukmal"
     }
   },
   {
     "id": "ko_3623",
+    "lang": "ko",
     "lemma": "계란",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gyeran"
+    },
     "meanings": {
       "ko": "계란",
       "en": "egg",
@@ -25093,27 +23745,25 @@ const WORDS_KO_A1 = [
       "ja": "卵",
       "zh": "鸡蛋",
       "ru": "яйцо",
-      "fr": "œuf"
+      "fr": "l'œuf"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "닭이 낳는, 껍데기가 있는 둥근 알."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gyeran"
     }
   },
   {
     "id": "ko_6340",
+    "lang": "ko",
     "lemma": "에어컨",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "eeokeon"
+    },
     "meanings": {
       "ko": "에어컨",
       "en": "air conditioner",
@@ -25124,27 +23774,25 @@ const WORDS_KO_A1 = [
       "ja": "エアコン",
       "zh": "空调",
       "ru": "кондиционер",
-      "fr": "climatiseur"
+      "fr": "le climatiseur"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "실내 온도를 시원하게 조절하는 기계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "eeokeon"
     }
   },
   {
     "id": "ko_7673",
+    "lang": "ko",
     "lemma": "초대",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chodae"
+    },
     "meanings": {
       "ko": "초대",
       "en": "invitation",
@@ -25155,27 +23803,25 @@ const WORDS_KO_A1 = [
       "ja": "招待",
       "zh": "邀请",
       "ru": "приглашение",
-      "fr": "invitation"
+      "fr": "l'invitation"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 사람에게 오라고 요청하는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chodae"
     }
   },
   {
     "id": "ko_5526",
+    "lang": "ko",
     "lemma": "사전",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sajeon"
+    },
     "meanings": {
       "ko": "사전",
       "en": "dictionary",
@@ -25186,27 +23832,25 @@ const WORDS_KO_A1 = [
       "ja": "辞書",
       "zh": "词典",
       "ru": "словарь",
-      "fr": "dictionnaire"
+      "fr": "le dictionnaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "단어의 뜻을 찾아볼 수 있는 책."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sajeon"
     }
   },
   {
     "id": "ko_6057",
+    "lang": "ko",
     "lemma": "실례",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "silrye"
+    },
     "meanings": {
       "ko": "실례",
       "en": "discourtesy",
@@ -25217,27 +23861,25 @@ const WORDS_KO_A1 = [
       "ja": "無礼",
       "zh": "失礼",
       "ru": "невежливость",
-      "fr": "impolitesse"
+      "fr": "l'impolitesse"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "예의에 어긋나거나 무례한 행동."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "silrye"
     }
   },
   {
     "id": "ko_6246",
+    "lang": "ko",
     "lemma": "약국",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yakguk"
+    },
     "meanings": {
       "ko": "약국",
       "en": "pharmacy",
@@ -25248,22 +23890,17 @@ const WORDS_KO_A1 = [
       "ja": "薬局",
       "zh": "药店",
       "ru": "аптека",
-      "fr": "pharmacie"
+      "fr": "la pharmacie"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "약을 팔고 조제하는 가게."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yakguk"
     }
   },
   {
     "id": "ko_7444",
+    "lang": "ko",
     "lemma": "지난주",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -25282,25 +23919,26 @@ const WORDS_KO_A1 = [
       "ru": "прошлая неделя",
       "fr": "la semaine dernière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "바로 전에 지나간 주."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "jinanju"
     }
   },
   {
     "id": "ko_3434",
+    "lang": "ko",
     "lemma": "간호사",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ganhosa"
+    },
     "meanings": {
       "ko": "간호사",
       "en": "nurse",
@@ -25311,28 +23949,26 @@ const WORDS_KO_A1 = [
       "ja": "看護師",
       "zh": "护士",
       "ru": "медсестра",
-      "fr": "infirmière"
+      "fr": "l'infirmière"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "병원에서 아픈 사람을 돌보고 치료를 돕는 직업을 가진 사람."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ganhosa"
     }
   },
   {
     "id": "ko_3646",
+    "lang": "ko",
     "lemma": "고등학생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "godeunghaksaeng"
+    },
     "meanings": {
       "ko": "고등학생",
       "en": "high school student",
@@ -25343,27 +23979,25 @@ const WORDS_KO_A1 = [
       "ja": "高校生",
       "zh": "高中生",
       "ru": "старшеклассник",
-      "fr": "lycéen"
+      "fr": "le lycéen"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "고등학교에 다니는 학생."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "godeunghaksaeng"
     }
   },
   {
     "id": "ko_4388",
+    "lang": "ko",
     "lemma": "닭고기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ko": "dakgogi"
+    },
     "meanings": {
       "ko": "닭고기",
       "en": "chicken meat",
@@ -25374,27 +24008,25 @@ const WORDS_KO_A1 = [
       "ja": "鶏肉",
       "zh": "鸡肉",
       "ru": "куриное мясо",
-      "fr": "viande de poulet"
+      "fr": "la viande de poulet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "닭의 살을 식용으로 쓰는 고기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dakgogi"
     }
   },
   {
     "id": "ko_5899",
+    "lang": "ko",
     "lemma": "숟가락",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "sutgarak"
+    },
     "meanings": {
       "ko": "숟가락",
       "en": "spoon",
@@ -25405,28 +24037,26 @@ const WORDS_KO_A1 = [
       "ja": "スプーン",
       "zh": "勺子",
       "ru": "ложка",
-      "fr": "cuillère"
+      "fr": "la cuillère"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 떠먹을 때 사용하는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "sutgarak"
     }
   },
   {
     "id": "ko_6592",
+    "lang": "ko",
     "lemma": "요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "yoil"
+    },
     "meanings": {
       "ko": "요일",
       "en": "day of the week",
@@ -25437,22 +24067,17 @@ const WORDS_KO_A1 = [
       "ja": "曜日",
       "zh": "星期",
       "ru": "день недели",
-      "fr": "jour de la semaine"
+      "fr": "le jour de la semaine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일주일의 각 날을 이르는 말"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "yoil"
     }
   },
   {
     "id": "ko_7524",
+    "lang": "ko",
     "lemma": "질문하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -25470,26 +24095,26 @@ const WORDS_KO_A1 = [
       "ru": "спрашивать",
       "fr": "demander"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "궁금한 점이나 알고 싶은 것을 묻다."
     },
-    "infinitive": "질문하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "jilmunhada"
     }
   },
   {
     "id": "ko_7782",
+    "lang": "ko",
     "lemma": "치약",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chiyak"
+    },
     "meanings": {
       "ko": "치약",
       "en": "toothpaste",
@@ -25500,27 +24125,25 @@ const WORDS_KO_A1 = [
       "ja": "歯磨き粉",
       "zh": "牙膏",
       "ru": "зубная паста",
-      "fr": "dentifrice"
+      "fr": "le dentifrice"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "이를 닦을 때 사용하는 세정제."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chiyak"
     }
   },
   {
     "id": "ko_3944",
+    "lang": "ko",
     "lemma": "금요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "geumyoil"
+    },
     "meanings": {
       "ko": "금요일",
       "en": "Friday",
@@ -25531,27 +24154,25 @@ const WORDS_KO_A1 = [
       "ja": "金曜日",
       "zh": "星期五",
       "ru": "пятница",
-      "fr": "vendredi"
+      "fr": "le vendredi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "목요일 다음 날이자 토요일 전의 요일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "geumyoil"
     }
   },
   {
     "id": "ko_4037",
+    "lang": "ko",
     "lemma": "김밥",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gimbap"
+    },
     "meanings": {
       "ko": "김밥",
       "en": "kimbap",
@@ -25562,27 +24183,25 @@ const WORDS_KO_A1 = [
       "ja": "キンパ",
       "zh": "紫菜包饭",
       "ru": "кимбап",
-      "fr": "kimbap"
+      "fr": "le kimbap"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "김에 밥과 여러 재료를 넣고 말아서 만든 한국 음식"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gimbap"
     }
   },
   {
     "id": "ko_5018",
+    "lang": "ko",
     "lemma": "바나나",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "banana"
+    },
     "meanings": {
       "ko": "바나나",
       "en": "banana",
@@ -25593,27 +24212,25 @@ const WORDS_KO_A1 = [
       "ja": "バナナ",
       "zh": "香蕉",
       "ru": "банан",
-      "fr": "banane"
+      "fr": "la banane"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "노란색 껍질을 가진 길고 부드러운 열대 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "banana"
     }
   },
   {
     "id": "ko_5867",
+    "lang": "ko",
     "lemma": "수요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "suyoil"
+    },
     "meanings": {
       "ko": "수요일",
       "en": "Wednesday",
@@ -25624,22 +24241,17 @@ const WORDS_KO_A1 = [
       "ja": "水曜日",
       "zh": "星期三",
       "ru": "среда",
-      "fr": "mercredi"
+      "fr": "le mercredi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 주의 세 번째 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "suyoil"
     }
   },
   {
     "id": "ko_6638",
+    "lang": "ko",
     "lemma": "운전하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -25657,26 +24269,26 @@ const WORDS_KO_A1 = [
       "ru": "водить",
       "fr": "conduire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자동차나 기차 등을 움직여 목적지까지 가다."
     },
-    "infinitive": "운전하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "unjeonhada"
     }
   },
   {
     "id": "ko_4244",
+    "lang": "ko",
     "lemma": "노트",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "noteu"
+    },
     "meanings": {
       "ko": "노트",
       "en": "notebook",
@@ -25687,27 +24299,25 @@ const WORDS_KO_A1 = [
       "ja": "ノート",
       "zh": "笔记本",
       "ru": "тетрадь",
-      "fr": "cahier"
+      "fr": "le cahier"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "글씨를 쓰거나 그림을 그릴 수 있는 종이 묶음."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "noteu"
     }
   },
   {
     "id": "ko_4647",
+    "lang": "ko",
     "lemma": "딸기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "ttalgi"
+    },
     "meanings": {
       "ko": "딸기",
       "en": "strawberry",
@@ -25718,27 +24328,25 @@ const WORDS_KO_A1 = [
       "ja": "イチゴ",
       "zh": "草莓",
       "ru": "клубника",
-      "fr": "fraise"
+      "fr": "la fraise"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "붉고 달콤한 맛이 나는 작은 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "ttalgi"
     }
   },
   {
     "id": "ko_7693",
+    "lang": "ko",
     "lemma": "초콜릿",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chokolrit"
+    },
     "meanings": {
       "ko": "초콜릿",
       "en": "chocolate",
@@ -25749,27 +24357,25 @@ const WORDS_KO_A1 = [
       "ja": "チョコレート",
       "zh": "巧克力",
       "ru": "шоколад",
-      "fr": "chocolat"
+      "fr": "le chocolat"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "카카오 열매로 만든 달콤한 서양 과자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chokolrit"
     }
   },
   {
     "id": "ko_8080",
+    "lang": "ko",
     "lemma": "피자",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "pija"
+    },
     "meanings": {
       "ko": "피자",
       "en": "pizza",
@@ -25780,27 +24386,25 @@ const WORDS_KO_A1 = [
       "ja": "ピザ",
       "zh": "披萨",
       "ru": "пицца",
-      "fr": "pizza"
+      "fr": "la pizza"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "밀가루 반죽 위에 토마토소스와 치즈 등을 얹어 구운 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "pija"
     }
   },
   {
     "id": "ko_4234",
+    "lang": "ko",
     "lemma": "노란색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "noransaek"
+    },
     "meanings": {
       "ko": "노란색",
       "en": "yellow",
@@ -25811,27 +24415,25 @@ const WORDS_KO_A1 = [
       "ja": "黄色",
       "zh": "黄色",
       "ru": "желтый",
-      "fr": "jaune"
+      "fr": "le jaune"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "개나리나 병아리 같은 색깔."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "noransaek"
     }
   },
   {
     "id": "ko_4377",
+    "lang": "ko",
     "lemma": "달러",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dalreo"
+    },
     "meanings": {
       "ko": "달러",
       "en": "dollar",
@@ -25842,89 +24444,83 @@ const WORDS_KO_A1 = [
       "ja": "ドル",
       "zh": "美元",
       "ru": "доллар",
-      "fr": "dollar"
+      "fr": "le dollar"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "미국, 캐나다 등 여러 나라에서 사용하는 화폐 단위."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dalreo"
     }
   },
   {
     "id": "ko_7801",
+    "lang": "ko",
     "lemma": "칫솔",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chitsol"
+    },
     "meanings": {
       "ko": "칫솔",
       "en": "toothbrush",
-      "de": "Zahnbürste",
-      "es": "cepillo de dientes",
-      "it": "spazzolino da denti",
-      "pt": "escova de dentes",
+      "de": "die Zahnbürste",
+      "es": "el cepillo de dientes",
+      "it": "lo spazzolino da denti",
+      "pt": "a escova de dentes",
       "ja": "歯ブラシ",
       "zh": "牙刷",
       "ru": "зубная щетка",
-      "fr": "brosse à dents"
+      "fr": "la brosse à dents"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "이를 닦을 때 사용하는 작은 솔."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chitsol"
     }
   },
   {
     "id": "ko_8026",
+    "lang": "ko",
     "lemma": "포도",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "podo"
+    },
     "meanings": {
       "ko": "포도",
       "en": "grape",
-      "de": "Traube",
-      "es": "uva",
-      "it": "uva",
-      "pt": "uva",
+      "de": "die Traube",
+      "es": "la uva",
+      "it": "l'uva",
+      "pt": "a uva",
       "ja": "ぶどう",
       "zh": "葡萄",
       "ru": "виноград",
-      "fr": "raisin"
+      "fr": "le raisin"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "둥글고 작은 열매가 송이로 열리는 보라색 또는 초록색 과일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "podo"
     }
   },
   {
     "id": "ko_3718",
+    "lang": "ko",
     "lemma": "공중전화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gongjungjeonhwa"
+    },
     "meanings": {
       "ko": "공중전화",
       "en": "public phone",
@@ -25935,22 +24531,17 @@ const WORDS_KO_A1 = [
       "ja": "公衆電話",
       "zh": "公共电话",
       "ru": "общественный телефон",
-      "fr": "téléphone public"
+      "fr": "le téléphone public"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "길거리나 공공장소에 설치되어 누구나 사용할 수 있는 전화."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gongjungjeonhwa"
     }
   },
   {
     "id": "ko_5152",
+    "lang": "ko",
     "lemma": "배부르다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -25968,7 +24559,6 @@ const WORDS_KO_A1 = [
       "ru": "сытый",
       "fr": "rassasié"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식을 많이 먹어서 더 이상 먹을 수 없는 상태."
     },
@@ -25978,13 +24568,17 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_5643",
+    "lang": "ko",
     "lemma": "샤워",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "syawo"
+    },
     "meanings": {
       "ko": "샤워",
       "en": "shower",
@@ -25995,27 +24589,25 @@ const WORDS_KO_A1 = [
       "ja": "シャワー",
       "zh": "淋浴",
       "ru": "душ",
-      "fr": "douche"
+      "fr": "la douche"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "몸에 물을 뿌려 씻는 일."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "syawo"
     }
   },
   {
     "id": "ko_5744",
+    "lang": "ko",
     "lemma": "세탁기",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "setakgi"
+    },
     "meanings": {
       "ko": "세탁기",
       "en": "washing machine",
@@ -26026,28 +24618,26 @@ const WORDS_KO_A1 = [
       "ja": "洗濯機",
       "zh": "洗衣机",
       "ru": "стиральная машина",
-      "fr": "machine à laver"
+      "fr": "la machine à laver"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "옷이나 이불 등을 자동으로 빨아주는 기계."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "setakgi"
     }
   },
   {
     "id": "ko_4161",
+    "lang": "ko",
     "lemma": "남동생",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ko": "namdongsaeng"
+    },
     "meanings": {
       "ko": "남동생",
       "en": "younger brother",
@@ -26058,27 +24648,25 @@ const WORDS_KO_A1 = [
       "ja": "弟",
       "zh": "弟弟",
       "ru": "младший брат",
-      "fr": "frère cadet"
+      "fr": "le frère cadet"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "자기보다 나이가 어린 남자 형제."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "namdongsaeng"
     }
   },
   {
     "id": "ko_4510",
+    "lang": "ko",
     "lemma": "도착",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "dochak"
+    },
     "meanings": {
       "ko": "도착",
       "en": "arrival",
@@ -26089,22 +24677,17 @@ const WORDS_KO_A1 = [
       "ja": "到着",
       "zh": "到达",
       "ru": "прибытие",
-      "fr": "arrivée"
+      "fr": "l'arrivée"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어떤 장소나 목적지에 다다르는 것."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "dochak"
     }
   },
   {
     "id": "ko_5841",
+    "lang": "ko",
     "lemma": "쇼핑",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26122,20 +24705,18 @@ const WORDS_KO_A1 = [
       "ru": "шопинг",
       "fr": "le shopping"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "물건을 사기 위해 가게를 돌아다니는 일."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "syoping"
     }
   },
   {
     "id": "ko_5923",
+    "lang": "ko",
     "lemma": "스키",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26153,20 +24734,18 @@ const WORDS_KO_A1 = [
       "ru": "лыжи",
       "fr": "le ski"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "눈 위에서 미끄러지듯 타는 운동 기구."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "seuki"
     }
   },
   {
     "id": "ko_6630",
+    "lang": "ko",
     "lemma": "운동화",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26184,20 +24763,18 @@ const WORDS_KO_A1 = [
       "ru": "кроссовки",
       "fr": "les baskets"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "운동할 때 신는 편안하고 가벼운 신발."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "undonghwa"
     }
   },
   {
     "id": "ko_7548",
+    "lang": "ko",
     "lemma": "짜다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26215,7 +24792,6 @@ const WORDS_KO_A1 = [
       "ru": "солёный",
       "fr": "salé"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 소금처럼 짠 느낌이 있다."
     },
@@ -26225,76 +24801,76 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_7676",
+    "lang": "ko",
     "lemma": "초등학교",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ko": "chodeunghakgyo"
+    },
     "meanings": {
       "ko": "초등학교",
       "en": "elementary school",
-      "de": "Grundschule",
-      "es": "escuela primaria",
-      "it": "scuola elementare",
-      "pt": "escola primária",
+      "de": "die Grundschule",
+      "es": "la escuela primaria",
+      "it": "la scuola elementare",
+      "pt": "a escola primária",
       "ja": "小学校",
       "zh": "小学",
       "ru": "начальная школа",
       "fr": "l'école primaire"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "어린 학생들이 처음으로 다니는 학교."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chodeunghakgyo"
     }
   },
   {
     "id": "ko_3729",
+    "lang": "ko",
     "lemma": "공휴일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "gonghyuil"
+    },
     "meanings": {
       "ko": "공휴일",
       "en": "public holiday",
-      "de": "Feiertag",
-      "es": "día festivo",
-      "it": "festa pubblica",
-      "pt": "feriado público",
+      "de": "der Feiertag",
+      "es": "el día festivo",
+      "it": "la festa pubblica",
+      "pt": "o feriado público",
       "ja": "祝日",
       "zh": "公共假日",
       "ru": "государственный праздник",
-      "fr": "un jour férié"
+      "fr": "le jour férié"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "법으로 정해 모든 사람이 쉬는 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "gonghyuil"
     }
   },
   {
     "id": "ko_5285",
+    "lang": "ko",
     "lemma": "볼펜",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bolpen"
+    },
     "meanings": {
       "ko": "볼펜",
       "en": "ballpoint pen",
@@ -26305,22 +24881,17 @@ const WORDS_KO_A1 = [
       "ja": "ボールペン",
       "zh": "圆珠笔",
       "ru": "шариковая ручка",
-      "fr": "un stylo"
+      "fr": "le stylo"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "잉크가 든 작은 볼이 회전하며 글씨를 쓰는 필기도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bolpen"
     }
   },
   {
     "id": "ko_5455",
+    "lang": "ko",
     "lemma": "빨간색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26338,25 +24909,26 @@ const WORDS_KO_A1 = [
       "ru": "красный цвет",
       "fr": "le rouge"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "빨강과 같은 색을 이르는 말."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "ppalgansaek"
     }
   },
   {
     "id": "ko_7654",
+    "lang": "ko",
     "lemma": "청바지",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "cheongbaji"
+    },
     "meanings": {
       "ko": "청바지",
       "en": "jeans",
@@ -26367,27 +24939,25 @@ const WORDS_KO_A1 = [
       "ja": "ジーンズ",
       "zh": "牛仔裤",
       "ru": "джинсы",
-      "fr": "un jean"
+      "fr": "le jean"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "파란색 데님 천으로 만든 바지."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "cheongbaji"
     }
   },
   {
     "id": "ko_8204",
+    "lang": "ko",
     "lemma": "핸드폰",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "haendeupon"
+    },
     "meanings": {
       "ko": "핸드폰",
       "en": "cell phone",
@@ -26398,27 +24968,25 @@ const WORDS_KO_A1 = [
       "ja": "携帯電話",
       "zh": "手机",
       "ru": "мобильный телефон",
-      "fr": "un portable"
+      "fr": "le portable"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "손에 들고 다니며 통화하거나 메시지를 보내는 전화기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "haendeupon"
     }
   },
   {
     "id": "ko_8364",
+    "lang": "ko",
     "lemma": "휴지통",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hyujitong"
+    },
     "meanings": {
       "ko": "휴지통",
       "en": "trash can",
@@ -26429,27 +24997,25 @@ const WORDS_KO_A1 = [
       "ja": "ゴミ箱",
       "zh": "垃圾桶",
       "ru": "мусорное ведро",
-      "fr": "une poubelle"
+      "fr": "la poubelle"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "휴지나 쓰레기를 버리는 통."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hyujitong"
     }
   },
   {
     "id": "ko_7794",
+    "lang": "ko",
     "lemma": "칠판",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "chilpan"
+    },
     "meanings": {
       "ko": "칠판",
       "en": "blackboard",
@@ -26460,27 +25026,25 @@ const WORDS_KO_A1 = [
       "ja": "黒板",
       "zh": "黑板",
       "ru": "доска",
-      "fr": "un tableau noir"
+      "fr": "le tableau noir"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "학교나 학원에서 글씨를 쓰고 그림을 그리는 판."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "chilpan"
     }
   },
   {
     "id": "ko_7851",
+    "lang": "ko",
     "lemma": "크리스마스",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "keuriseumaseu"
+    },
     "meanings": {
       "ko": "크리스마스",
       "en": "Christmas",
@@ -26493,25 +25057,26 @@ const WORDS_KO_A1 = [
       "ru": "Рождество",
       "fr": "Noël"
     },
-    "examples": [],
     "meta": {
-      "ko_gloss": "예수님의 탄생을 기념하는 12월 25일의 명절."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "keuriseumaseu"
+      "ko_gloss": "예수님의 탄생을 기념하는 12월 25일의 명절.",
+      "noArticleMeanings": {
+        "fr": true
+      }
     }
   },
   {
     "id": "ko_4886",
+    "lang": "ko",
     "lemma": "목요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "mokyoil"
+    },
     "meanings": {
       "ko": "목요일",
       "en": "Thursday",
@@ -26522,27 +25087,25 @@ const WORDS_KO_A1 = [
       "ja": "木曜日",
       "zh": "星期四",
       "ru": "четверг",
-      "fr": "jeudi"
+      "fr": "le jeudi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "한 주의 네 번째 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "mokyoil"
     }
   },
   {
     "id": "ko_7468",
+    "lang": "ko",
     "lemma": "지우개",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jiugae"
+    },
     "meanings": {
       "ko": "지우개",
       "en": "eraser",
@@ -26553,27 +25116,25 @@ const WORDS_KO_A1 = [
       "ja": "消しゴム",
       "zh": "橡皮擦",
       "ru": "ластик",
-      "fr": "une gomme"
+      "fr": "la gomme"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "연필이나 펜으로 쓴 글씨를 지우는 데 쓰는 도구."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jiugae"
     }
   },
   {
     "id": "ko_5865",
+    "lang": "ko",
     "lemma": "수영장",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "suyeongjang"
+    },
     "meanings": {
       "ko": "수영장",
       "en": "swimming pool",
@@ -26584,22 +25145,17 @@ const WORDS_KO_A1 = [
       "ja": "プール",
       "zh": "游泳池",
       "ru": "бассейн",
-      "fr": "une piscine"
+      "fr": "la piscine"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "사람들이 수영을 할 수 있도록 만들어 놓은 시설."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "suyeongjang"
     }
   },
   {
     "id": "ko_6884",
+    "lang": "ko",
     "lemma": "일본어",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26617,25 +25173,26 @@ const WORDS_KO_A1 = [
       "ru": "японский язык",
       "fr": "le japonais"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일본 사람들이 사용하는 언어."
     },
-    "article": "",
-    "plural": "",
     "reading": {
       "ko": "ilboneo"
     }
   },
   {
     "id": "ko_3438",
+    "lang": "ko",
     "lemma": "갈비",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "galbi"
+    },
     "meanings": {
       "ko": "갈비",
       "en": "ribs",
@@ -26646,27 +25203,25 @@ const WORDS_KO_A1 = [
       "ja": "カルビ",
       "zh": "排骨",
       "ru": "рёбра",
-      "fr": "des côtes"
+      "fr": "les côtes"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "소나 돼지의 뼈에 붙어 있는 살코기."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "galbi"
     }
   },
   {
     "id": "ko_7062",
+    "lang": "ko",
     "lemma": "장미",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "jangmi"
+    },
     "meanings": {
       "ko": "장미",
       "en": "rose",
@@ -26677,120 +25232,112 @@ const WORDS_KO_A1 = [
       "ja": "バラ",
       "zh": "玫瑰",
       "ru": "роза",
-      "fr": "une rose"
+      "fr": "la rose"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "아름다운 꽃을 피우는 식물의 한 종류."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "jangmi"
     }
   },
   {
     "id": "ko_7970",
+    "lang": "ko",
     "lemma": "파란색",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "paransaek"
+    },
     "meanings": {
       "ko": "파란색",
       "en": "blue",
-      "de": "blau",
-      "es": "azul",
-      "it": "blu",
-      "pt": "azul",
+      "de": "das Blau",
+      "es": "el azul",
+      "it": "il blu",
+      "pt": "o azul",
       "ja": "青色",
       "zh": "蓝色",
       "ru": "синий",
       "fr": "le bleu"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "하늘이나 바다와 같은 색깔을 나타내는 명칭."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "paransaek"
     }
   },
   {
     "id": "ko_4211",
+    "lang": "ko",
     "lemma": "냉면",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "naengmyeon"
+    },
     "meanings": {
       "ko": "냉면",
       "en": "cold noodles",
-      "de": "kalte Nudelsuppe",
-      "es": "sopa fría de fideos",
-      "it": "noodles freddi",
-      "pt": "macarrão frio",
+      "de": "die kalte Nudelsuppe",
+      "es": "la sopa fría de fideos",
+      "it": "i noodles freddi",
+      "pt": "o macarrão frio",
       "ja": "冷麺",
       "zh": "冷面",
       "ru": "холодная лапша",
-      "fr": "des nouilles froides"
+      "fr": "les nouilles froides"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "차가운 육수에 면을 넣어 만든 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "naengmyeon"
     }
   },
   {
     "id": "ko_5418",
+    "lang": "ko",
     "lemma": "비빔밥",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "bibimbap"
+    },
     "meanings": {
       "ko": "비빔밥",
       "en": "mixed rice",
-      "de": "Bibimbap",
-      "es": "bibimbap",
-      "it": "bibimbap",
-      "pt": "bibimbap",
+      "de": "das Bibimbap",
+      "es": "el bibimbap",
+      "it": "il bibimbap",
+      "pt": "o bibimbap",
       "ja": "ビビンバ",
       "zh": "石锅拌饭",
       "ru": "пибимпап",
-      "fr": "bibimbap"
+      "fr": "le bibimbap"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "여러 가지 나물과 고기 등을 넣고 고추장에 비벼 먹는 한국 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "bibimbap"
     }
   },
   {
     "id": "ko_8290",
+    "lang": "ko",
     "lemma": "화요일",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "hwayoil"
+    },
     "meanings": {
       "ko": "화요일",
       "en": "Tuesday",
@@ -26801,30 +25348,28 @@ const WORDS_KO_A1 = [
       "ja": "火曜日",
       "zh": "星期二",
       "ru": "вторник",
-      "fr": "mardi"
+      "fr": "le mardi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "일주일 중 월요일 다음 날."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "hwayoil"
     }
   },
   {
     "id": "ko_5673",
+    "lang": "ko",
     "lemma": "선물하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "seonmulhada"
+    },
     "meanings": {
       "ko": "선물하다",
-      "en": "to give a gift",
+      "en": "give a gift",
       "de": "schenken",
       "es": "regalar",
       "it": "regalare",
@@ -26834,26 +25379,23 @@ const WORDS_KO_A1 = [
       "ru": "дарить подарок",
       "fr": "offrir un cadeau"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "다른 사람에게 고마움이나 축하의 마음을 표현하기 위해 물건을 주다."
-    },
-    "infinitive": "선물하다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "seonmulhada"
     }
   },
   {
     "id": "ko_6164",
+    "lang": "ko",
     "lemma": "아이스크림",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "aiseukeurim"
+    },
     "meanings": {
       "ko": "아이스크림",
       "en": "ice cream",
@@ -26864,30 +25406,28 @@ const WORDS_KO_A1 = [
       "ja": "アイスクリーム",
       "zh": "冰淇淋",
       "ru": "мороженое",
-      "fr": "une glace"
+      "fr": "la glace"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "우유, 설탕 등을 얼려 만든 차갑고 달콤한 음식."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "aiseukeurim"
     }
   },
   {
     "id": "ko_6589",
+    "lang": "ko",
     "lemma": "요리하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "yorihada"
+    },
     "meanings": {
       "ko": "요리하다",
-      "en": "to cook",
+      "en": "cook",
       "de": "kochen",
       "es": "cocinar",
       "it": "cucinare",
@@ -26897,21 +25437,15 @@ const WORDS_KO_A1 = [
       "ru": "готовить",
       "fr": "cuisiner"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "재료를 사용하여 음식을 만들다."
-    },
-    "infinitive": "요리하다",
-    "reflexive": null,
-    "irregular": null,
-    "reading": {
-      "ko": "yorihada"
     }
   },
   {
     "id": "ko_4784",
+    "lang": "ko",
     "lemma": "맛없다",
-    "pos": "형용사",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26929,7 +25463,6 @@ const WORDS_KO_A1 = [
       "ru": "невкусный",
       "fr": "fade"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "음식의 맛이 좋지 않다."
     },
@@ -26939,8 +25472,9 @@ const WORDS_KO_A1 = [
   },
   {
     "id": "ko_6058",
+    "lang": "ko",
     "lemma": "실례하다",
-    "pos": "동사",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -26958,57 +25492,55 @@ const WORDS_KO_A1 = [
       "ru": "извиняться",
       "fr": "excusez-moi"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "예의에 어긋나는 행동을 하거나 남에게 폐를 끼치다."
     },
-    "infinitive": "실례하다",
-    "reflexive": null,
-    "irregular": null,
     "reading": {
       "ko": "silryehada"
     }
   },
   {
     "id": "ko_7390",
+    "lang": "ko",
     "lemma": "중국어",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "junggukeo"
+    },
     "meanings": {
       "ko": "중국어",
       "en": "Chinese language",
-      "de": "Chinesisch",
-      "es": "idioma chino",
-      "it": "lingua cinese",
-      "pt": "língua chinesa",
+      "de": "das Chinesisch",
+      "es": "el idioma chino",
+      "it": "la lingua cinese",
+      "pt": "a língua chinesa",
       "ja": "中国語",
       "zh": "中文",
       "ru": "китайский язык",
       "fr": "le chinois"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "중국 사람들이 사용하는 언어."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "junggukeo"
     }
   },
   {
     "id": "ko_5532",
+    "lang": "ko",
     "lemma": "사탕",
-    "pos": "명사",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ko": "satang"
+    },
     "meanings": {
       "ko": "사탕",
       "en": "candy",
@@ -27019,16 +25551,10 @@ const WORDS_KO_A1 = [
       "ja": "キャンディー",
       "zh": "糖果",
       "ru": "конфета",
-      "fr": "un bonbon"
+      "fr": "le bonbon"
     },
-    "examples": [],
     "meta": {
       "ko_gloss": "설탕을 주재료로 하여 만든 달콤한 과자."
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ko": "satang"
     }
   }
 ];

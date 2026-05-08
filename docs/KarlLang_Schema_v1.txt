@@ -221,12 +221,20 @@ meanings: {
 규칙:
 	•	key = UI 언어 코드
 	•	value = UI에 표시되는 뜻 한 줄
+	•	value는 대표뜻 1개만 저장한다
+	•	❌ 쉼표/세미콜론/슬래시로 동의어·복수 뜻을 나열하지 않는다
+	•	❌ “휴식, 휴일”, “rest, holiday”, “das Wort, die Sprache”
+	•	✅ “휴식”, “rest”, “das Wort”
+	•	다의어는 MVP에서 한 엔트리에 여러 뜻을 억지로 넣지 않는다. 필요한 경우 sense-level entry로 분리한다.
 	•	❌ 빈 문자열 "" 절대 금지 (dev/release 공통) — 모르면 key 자체를 생략한다
 	•	❌ 설명문 / 괄호 태그((m), (f), (v), 품사표기) / 문법 노트 / 예문 금지
 	•	설명이 필요하면 sense.label 사용
 	•	영어 동사 뜻은 절대 to 붙이지 않음 (go, be, have, eat)
 	•	관사 언어(de/es/fr/it/pt)는 자연스러운 UI 표시를 위해 관사 포함 허용
-	•	예: de "die Prüfung", es "el examen", fr "l'examen", it "la dichiarazione", pt "a declaração"
+	•	예: de "die Prüfung", es "el examen" / "lo bueno", fr "l'examen", it "la dichiarazione", pt "a declaração"
+	•	"todo el cuerpo", "tout le corps", "tutto il corpo", "todo o corpo"처럼 수식어 뒤에 관사가 포함되는 자연 표현도 허용한다
+	•	단, 고유명사/부사구/형용사구/수사/고정표현처럼 타깃 언어에서 관사가 자연스럽지 않은 경우는 관사를 강제하지 않는다
+	•	관사가 없는 것이 의도된 예외는 meta.noArticleMeanings에 표시할 수 있다
 	•	단, 정답 판정/검색/중복검사/QC 비교는 관사 제거 정규화 문자열을 사용
 
 10개 키 정책:

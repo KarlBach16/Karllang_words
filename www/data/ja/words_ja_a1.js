@@ -2,544 +2,533 @@
 const WORDS_JA_A1 = [
   {
     "id": "ja_1",
+    "lang": "ja",
     "lemma": "あさって",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "あさって"
+    },
     "meanings": {
       "ko": "모레",
       "en": "day after tomorrow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あさって",
-      "zh": "",
-      "ru": ""
+      "de": "übermorgen",
+      "es": "pasado mañana",
+      "fr": "après-demain",
+      "it": "dopodomani",
+      "pt": "depois de amanhã",
+      "zh": "后天",
+      "ru": "послезавтра"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あさって"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あさって"
     }
   },
   {
     "id": "ja_2",
+    "lang": "ja",
     "lemma": "あそこ",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あそこ"
+    },
     "meanings": {
       "ko": "저기",
       "en": "over there",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あそこ",
-      "zh": "",
-      "ru": ""
+      "de": "dort drüben",
+      "es": "allí",
+      "fr": "là-bas",
+      "it": "là",
+      "pt": "lá",
+      "zh": "那里",
+      "ru": "там"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あそこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あそこ"
     }
   },
   {
     "id": "ja_3",
+    "lang": "ja",
     "lemma": "あちら",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あちら"
+    },
     "meanings": {
       "ko": "저쪽",
       "en": "that way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あちら",
-      "zh": "",
-      "ru": ""
+      "de": "dorthin",
+      "es": "hacia allá",
+      "fr": "par là",
+      "it": "là",
+      "pt": "para lá",
+      "zh": "那边",
+      "ru": "туда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あちら"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あちら"
     }
   },
   {
     "id": "ja_4",
+    "lang": "ja",
     "lemma": "あっち",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あっち"
+    },
     "meanings": {
       "ko": "저쪽",
       "en": "that way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あっち",
-      "zh": "",
-      "ru": ""
+      "de": "dorthin",
+      "es": "hacia allá",
+      "fr": "par là",
+      "it": "là",
+      "pt": "para lá",
+      "zh": "那边",
+      "ru": "туда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あっち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あっち"
     }
   },
   {
     "id": "ja_5",
+    "lang": "ja",
     "lemma": "あなた",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "あなた"
+    },
     "meanings": {
       "ko": "당신",
       "en": "you",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あなた",
-      "zh": "",
-      "ru": ""
+      "de": "Sie",
+      "es": "usted",
+      "fr": "vous",
+      "it": "tu",
+      "pt": "você",
+      "zh": "你",
+      "ru": "вы"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あなた"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あなた"
     }
   },
   {
     "id": "ja_6",
+    "lang": "ja",
     "lemma": "あの",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あの"
+    },
     "meanings": {
       "ko": "저",
       "en": "that",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あの",
-      "zh": "",
-      "ru": ""
+      "de": "jener",
+      "es": "aquel",
+      "fr": "ce",
+      "it": "quel",
+      "pt": "aquele",
+      "zh": "那个",
+      "ru": "тот"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あの"
-    },
-    "reading": {
-      "ja": "あの"
     }
   },
   {
     "id": "ja_7",
+    "lang": "ja",
     "lemma": "あびる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "샤워하다, 목욕하다",
-      "en": "shower, bathe",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "あびる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あびる"
-    },
-    "infinitive": "あびる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "あびる"
+    },
+    "meanings": {
+      "ko": "샤워하다",
+      "en": "shower",
+      "ja": "あびる",
+      "de": "duschen",
+      "es": "ducharse",
+      "fr": "prendre une douche",
+      "it": "fare la doccia",
+      "pt": "tomar banho",
+      "zh": "淋浴",
+      "ru": "принимать душ"
+    },
+    "meta": {
+      "ja_reading": "あびる"
     }
   },
   {
     "id": "ja_8",
+    "lang": "ja",
     "lemma": "ある",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "있다",
-      "en": "exist, be",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ある",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ある"
-    },
-    "infinitive": "ある",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ある"
+    },
+    "meanings": {
+      "ko": "있다",
+      "en": "exist",
+      "ja": "ある",
+      "de": "sein",
+      "es": "haber",
+      "fr": "y avoir",
+      "it": "esserci",
+      "pt": "haver",
+      "zh": "有",
+      "ru": "быть"
+    },
+    "meta": {
+      "ja_reading": "ある"
     }
   },
   {
     "id": "ja_9",
+    "lang": "ja",
     "lemma": "あれ",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あれ"
+    },
     "meanings": {
       "ko": "저것",
       "en": "that",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "あれ",
-      "zh": "",
-      "ru": ""
+      "de": "das da",
+      "es": "aquello",
+      "fr": "cela",
+      "it": "quello",
+      "pt": "aquilo",
+      "zh": "那个",
+      "ru": "то"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あれ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あれ"
     }
   },
   {
     "id": "ja_10",
+    "lang": "ja",
     "lemma": "いい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いい"
+    },
     "meanings": {
       "ko": "좋다",
       "en": "good",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "いい",
-      "zh": "",
-      "ru": ""
+      "de": "gut",
+      "es": "bueno",
+      "fr": "bon",
+      "it": "buono",
+      "pt": "bom",
+      "zh": "好",
+      "ru": "хороший"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いい"
-    },
-    "reading": {
-      "ja": "いい"
     }
   },
   {
     "id": "ja_11",
+    "lang": "ja",
     "lemma": "いす",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いす"
+    },
     "meanings": {
       "ko": "의자",
       "en": "chair",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "いす",
-      "zh": "",
-      "ru": ""
+      "de": "der Stuhl",
+      "es": "la silla",
+      "fr": "la chaise",
+      "it": "la sedia",
+      "pt": "a cadeira",
+      "zh": "椅子",
+      "ru": "стул"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いす"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いす"
     }
   },
   {
     "id": "ja_12",
+    "lang": "ja",
     "lemma": "いろいろ",
-    "pos": "名詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いろいろ"
+    },
     "meanings": {
       "ko": "여러 가지",
       "en": "various",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "いろいろ",
-      "zh": "",
-      "ru": ""
+      "de": "verschiedene",
+      "es": "varios",
+      "fr": "divers",
+      "it": "vari",
+      "pt": "vários",
+      "zh": "各种各样",
+      "ru": "различный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いろいろ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いろいろ"
     }
   },
   {
     "id": "ja_13",
+    "lang": "ja",
     "lemma": "おいしい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おいしい"
+    },
     "meanings": {
       "ko": "맛있다",
       "en": "delicious",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "おいしい",
-      "zh": "",
-      "ru": ""
+      "de": "lecker",
+      "es": "delicioso",
+      "fr": "délicieux",
+      "it": "delizioso",
+      "pt": "delicioso",
+      "zh": "美味",
+      "ru": "вкусный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おいしい"
-    },
-    "reading": {
-      "ja": "おいしい"
     }
   },
   {
     "id": "ja_14",
+    "lang": "ja",
     "lemma": "おなか",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "おなか"
+    },
     "meanings": {
       "ko": "배",
       "en": "stomach",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "おなか",
-      "zh": "",
-      "ru": ""
+      "de": "der Bauch",
+      "es": "el estómago",
+      "fr": "le ventre",
+      "it": "lo stomaco",
+      "pt": "o estômago",
+      "zh": "肚子",
+      "ru": "живот"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おなか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おなか"
     }
   },
   {
     "id": "ja_15",
+    "lang": "ja",
     "lemma": "おばあさん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おばあさん"
+    },
     "meanings": {
       "ko": "할머니",
       "en": "grandmother",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "おばあさん",
-      "zh": "",
-      "ru": ""
+      "de": "die Großmutter",
+      "es": "la abuela",
+      "fr": "la grand-mère",
+      "it": "la nonna",
+      "pt": "a avó",
+      "zh": "奶奶",
+      "ru": "бабушка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おばあさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おばあさん"
     }
   },
   {
     "id": "ja_16",
+    "lang": "ja",
     "lemma": "おまわりさん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ja": "おまわりさん"
+    },
     "meanings": {
       "ko": "경찰관",
       "en": "police officer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "おまわりさん",
-      "zh": "",
-      "ru": ""
+      "de": "der Polizist",
+      "es": "el policía",
+      "fr": "le policier",
+      "it": "il poliziotto",
+      "pt": "o policial",
+      "zh": "警察",
+      "ru": "полицейский"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おまわりさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おまわりさん"
     }
   },
   {
     "id": "ja_17",
+    "lang": "ja",
     "lemma": "おもしろい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "재미있다",
-      "en": "interesting, funny",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "おもしろい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おもしろい"
-    },
     "reading": {
       "ja": "おもしろい"
+    },
+    "meanings": {
+      "ko": "재미있다",
+      "en": "interesting",
+      "ja": "おもしろい",
+      "de": "interessant",
+      "es": "interesante",
+      "fr": "intéressant",
+      "it": "interessante",
+      "pt": "interessante",
+      "zh": "有趣",
+      "ru": "интересный"
+    },
+    "meta": {
+      "ja_reading": "おもしろい"
     }
   },
   {
     "id": "ja_18",
+    "lang": "ja",
     "lemma": "お兄さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "형, 오빠",
-      "en": "older brother",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "お兄さん",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おにいさん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "おにいさん"
+    },
+    "meanings": {
+      "ko": "형",
+      "en": "older brother",
+      "ja": "お兄さん",
+      "de": "der ältere Bruder",
+      "es": "el hermano mayor",
+      "fr": "le grand frère",
+      "it": "il fratello maggiore",
+      "pt": "o irmão mais velho",
+      "zh": "哥哥",
+      "ru": "старший брат"
+    },
+    "meta": {
+      "ja_reading": "おにいさん"
     }
   },
   {
     "id": "ja_19",
+    "lang": "ja",
     "lemma": "お姉さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -547,7353 +536,7144 @@ const WORDS_JA_A1 = [
       "daily",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "누나, 언니",
-      "en": "older sister",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "お姉さん",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おねえさん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "おねえさん"
+    },
+    "meanings": {
+      "ko": "누나",
+      "en": "older sister",
+      "ja": "お姉さん",
+      "de": "die ältere Schwester",
+      "es": "la hermana mayor",
+      "fr": "la grande sœur",
+      "it": "la sorella maggiore",
+      "pt": "a irmã mais velha",
+      "zh": "姐姐",
+      "ru": "старшая сестра"
+    },
+    "meta": {
+      "ja_reading": "おねえさん"
     }
   },
   {
     "id": "ja_20",
+    "lang": "ja",
     "lemma": "お弁当",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "おべんとう"
+    },
     "meanings": {
       "ko": "도시락",
       "en": "lunch box",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お弁当",
-      "zh": "",
-      "ru": ""
+      "de": "die Bento-Box",
+      "es": "la fiambrera",
+      "fr": "la boîte-repas",
+      "it": "il bento",
+      "pt": "a marmita",
+      "zh": "便当",
+      "ru": "бэнто"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おべんとう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おべんとう"
     }
   },
   {
     "id": "ja_21",
+    "lang": "ja",
     "lemma": "お手洗い",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "おてあらい"
+    },
     "meanings": {
       "ko": "화장실",
       "en": "restroom",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お手洗い",
-      "zh": "",
-      "ru": ""
+      "de": "die Toilette",
+      "es": "el baño",
+      "fr": "les toilettes",
+      "it": "il bagno",
+      "pt": "o banheiro",
+      "zh": "洗手间",
+      "ru": "туалет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おてあらい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おてあらい"
     }
   },
   {
     "id": "ja_22",
+    "lang": "ja",
     "lemma": "お母さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おかあさん"
+    },
     "meanings": {
       "ko": "어머니",
       "en": "mother",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お母さん",
-      "zh": "",
-      "ru": ""
+      "de": "die Mutter",
+      "es": "la madre",
+      "fr": "la mère",
+      "it": "la madre",
+      "pt": "a mãe",
+      "zh": "妈妈",
+      "ru": "мама"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おかあさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おかあさん"
     }
   },
   {
     "id": "ja_23",
+    "lang": "ja",
     "lemma": "お父さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おとうさん"
+    },
     "meanings": {
       "ko": "아버지",
       "en": "father",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お父さん",
-      "zh": "",
-      "ru": ""
+      "de": "der Vater",
+      "es": "el padre",
+      "fr": "le père",
+      "it": "il padre",
+      "pt": "o pai",
+      "zh": "爸爸",
+      "ru": "папа"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おとうさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おとうさん"
     }
   },
   {
     "id": "ja_24",
+    "lang": "ja",
     "lemma": "お皿",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おさら"
+    },
     "meanings": {
       "ko": "접시",
       "en": "plate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お皿",
-      "zh": "",
-      "ru": ""
+      "de": "der Teller",
+      "es": "el plato",
+      "fr": "l'assiette",
+      "it": "il piatto",
+      "pt": "o prato",
+      "zh": "盘子",
+      "ru": "тарелка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おさら"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おさら"
     }
   },
   {
     "id": "ja_25",
+    "lang": "ja",
     "lemma": "お茶",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おちゃ"
+    },
     "meanings": {
       "ko": "차",
       "en": "tea",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お茶",
-      "zh": "",
-      "ru": ""
+      "de": "der Tee",
+      "es": "el té",
+      "fr": "le thé",
+      "it": "il tè",
+      "pt": "o chá",
+      "zh": "茶",
+      "ru": "чай"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おちゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おちゃ"
     }
   },
   {
     "id": "ja_26",
+    "lang": "ja",
     "lemma": "お菓子",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "과자",
-      "en": "sweets, snack",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "お菓子",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おかし"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "おかし"
+    },
+    "meanings": {
+      "ko": "과자",
+      "en": "sweets",
+      "ja": "お菓子",
+      "de": "die Süßigkeit",
+      "es": "el dulce",
+      "fr": "le bonbon",
+      "it": "il dolce",
+      "pt": "o doce",
+      "zh": "零食",
+      "ru": "сладость"
+    },
+    "meta": {
+      "ja_reading": "おかし"
     }
   },
   {
     "id": "ja_27",
+    "lang": "ja",
     "lemma": "お酒",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おさけ"
+    },
     "meanings": {
       "ko": "술",
       "en": "alcohol",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お酒",
-      "zh": "",
-      "ru": ""
+      "de": "der Alkohol",
+      "es": "el alcohol",
+      "fr": "l'alcool",
+      "it": "l'alcol",
+      "pt": "o álcool",
+      "zh": "酒",
+      "ru": "алкоголь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おさけ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おさけ"
     }
   },
   {
     "id": "ja_28",
+    "lang": "ja",
     "lemma": "お金",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おかね"
+    },
     "meanings": {
       "ko": "돈",
       "en": "money",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お金",
-      "zh": "",
-      "ru": ""
+      "de": "das Geld",
+      "es": "el dinero",
+      "fr": "l'argent",
+      "it": "il denaro",
+      "pt": "o dinheiro",
+      "zh": "钱",
+      "ru": "деньги"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おかね"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おかね"
     }
   },
   {
     "id": "ja_29",
+    "lang": "ja",
     "lemma": "お風呂",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おふろ"
+    },
     "meanings": {
       "ko": "목욕",
       "en": "bath",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "お風呂",
-      "zh": "",
-      "ru": ""
+      "de": "das Bad",
+      "es": "el baño",
+      "fr": "le bain",
+      "it": "il bagno",
+      "pt": "o banho",
+      "zh": "浴室",
+      "ru": "ванна"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おふろ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おふろ"
     }
   },
   {
     "id": "ja_30",
+    "lang": "ja",
     "lemma": "かかる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "걸리다",
-      "en": "take, hang",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "かかる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かかる"
-    },
-    "infinitive": "かかる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "かかる"
+    },
+    "meanings": {
+      "ko": "걸리다",
+      "en": "take",
+      "ja": "かかる",
+      "de": "dauern",
+      "es": "tardar",
+      "fr": "prendre du temps",
+      "it": "volerci",
+      "pt": "levar tempo",
+      "zh": "花费",
+      "ru": "занимать время"
+    },
+    "meta": {
+      "ja_reading": "かかる"
     }
   },
   {
     "id": "ja_31",
+    "lang": "ja",
     "lemma": "かぎ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かぎ"
+    },
     "meanings": {
       "ko": "열쇠",
       "en": "key",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "かぎ",
-      "zh": "",
-      "ru": ""
+      "de": "der Schlüssel",
+      "es": "la llave",
+      "fr": "la clé",
+      "it": "la chiave",
+      "pt": "a chave",
+      "zh": "钥匙",
+      "ru": "ключ"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かぎ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かぎ"
     }
   },
   {
     "id": "ja_32",
+    "lang": "ja",
     "lemma": "かける",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "걸다, (전화를) 걸다",
-      "en": "hang, call",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "かける",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かける"
-    },
-    "infinitive": "かける",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "かける"
+    },
+    "meanings": {
+      "ko": "걸다",
+      "en": "hang",
+      "ja": "かける",
+      "de": "aufhängen",
+      "es": "colgar",
+      "fr": "accrocher",
+      "it": "appendere",
+      "pt": "pendurar",
+      "zh": "挂",
+      "ru": "вешать"
+    },
+    "meta": {
+      "ja_reading": "かける"
     }
   },
   {
     "id": "ja_33",
+    "lang": "ja",
     "lemma": "かばん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "かばん"
+    },
     "meanings": {
       "ko": "가방",
       "en": "bag",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "かばん",
-      "zh": "",
-      "ru": ""
+      "de": "die Tasche",
+      "es": "el bolso",
+      "fr": "le sac",
+      "it": "la borsa",
+      "pt": "a bolsa",
+      "zh": "包",
+      "ru": "сумка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かばん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かばん"
     }
   },
   {
     "id": "ja_34",
+    "lang": "ja",
     "lemma": "かわいい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かわいい"
+    },
     "meanings": {
       "ko": "귀엽다",
       "en": "cute",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "かわいい",
-      "zh": "",
-      "ru": ""
+      "de": "süß",
+      "es": "lindo",
+      "fr": "mignon",
+      "it": "carino",
+      "pt": "fofo",
+      "zh": "可爱",
+      "ru": "милый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かわいい"
-    },
-    "reading": {
-      "ja": "かわいい"
     }
   },
   {
     "id": "ja_35",
+    "lang": "ja",
     "lemma": "きれい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "예쁘다, 깨끗하다",
-      "en": "beautiful, clean",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "きれい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "きれい"
-    },
     "reading": {
       "ja": "きれい"
+    },
+    "meanings": {
+      "ko": "예쁘다",
+      "en": "beautiful",
+      "ja": "きれい",
+      "de": "schön",
+      "es": "bonito",
+      "fr": "beau",
+      "it": "bello",
+      "pt": "bonito",
+      "zh": "漂亮",
+      "ru": "красивый"
+    },
+    "meta": {
+      "ja_reading": "きれい"
     }
   },
   {
     "id": "ja_36",
+    "lang": "ja",
     "lemma": "ここ",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ここ"
+    },
     "meanings": {
       "ko": "여기",
       "en": "here",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ここ",
-      "zh": "",
-      "ru": ""
+      "de": "hier",
+      "es": "aquí",
+      "fr": "ici",
+      "it": "qui",
+      "pt": "aqui",
+      "zh": "这里",
+      "ru": "здесь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ここ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ここ"
     }
   },
   {
     "id": "ja_37",
+    "lang": "ja",
     "lemma": "こちら",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こちら"
+    },
     "meanings": {
       "ko": "이쪽",
       "en": "this way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "こちら",
-      "zh": "",
-      "ru": ""
+      "de": "hierher",
+      "es": "por aquí",
+      "fr": "par ici",
+      "it": "qui",
+      "pt": "para cá",
+      "zh": "这边",
+      "ru": "сюда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こちら"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こちら"
     }
   },
   {
     "id": "ja_38",
+    "lang": "ja",
     "lemma": "こっち",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こっち"
+    },
     "meanings": {
       "ko": "이쪽",
       "en": "this way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "こっち",
-      "zh": "",
-      "ru": ""
+      "de": "hierher",
+      "es": "por aquí",
+      "fr": "par ici",
+      "it": "qui",
+      "pt": "para cá",
+      "zh": "这边",
+      "ru": "сюда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こっち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こっち"
     }
   },
   {
     "id": "ja_39",
+    "lang": "ja",
     "lemma": "この",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "この"
+    },
     "meanings": {
       "ko": "이",
       "en": "this",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "この",
-      "zh": "",
-      "ru": ""
+      "de": "dieser",
+      "es": "este",
+      "fr": "ce",
+      "it": "questo",
+      "pt": "este",
+      "zh": "这个",
+      "ru": "этот"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "この"
-    },
-    "reading": {
-      "ja": "この"
     }
   },
   {
     "id": "ja_40",
+    "lang": "ja",
     "lemma": "これ",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "これ"
+    },
     "meanings": {
       "ko": "이것",
       "en": "this",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "これ",
-      "zh": "",
-      "ru": ""
+      "de": "dies",
+      "es": "esto",
+      "fr": "ceci",
+      "it": "questo",
+      "pt": "isto",
+      "zh": "这个",
+      "ru": "это"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "これ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "これ"
     }
   },
   {
     "id": "ja_41",
+    "lang": "ja",
     "lemma": "こんな",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "이런",
-      "en": "such, like",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "こんな",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "こんな"
-    },
     "reading": {
       "ja": "こんな"
+    },
+    "meanings": {
+      "ko": "이런",
+      "en": "such",
+      "ja": "こんな",
+      "de": "so ein",
+      "es": "así",
+      "fr": "tel",
+      "it": "così",
+      "pt": "assim",
+      "zh": "这样",
+      "ru": "такой"
+    },
+    "meta": {
+      "ja_reading": "こんな"
     }
   },
   {
     "id": "ja_42",
+    "lang": "ja",
     "lemma": "さ来年",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "さらいねん"
+    },
     "meanings": {
       "ko": "내후년",
       "en": "year after",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "さ来年",
-      "zh": "",
-      "ru": ""
+      "de": "übernächstes Jahr",
+      "es": "el año que viene",
+      "fr": "l'année d'après",
+      "it": "l'anno prossimo",
+      "pt": "o ano que vem",
+      "zh": "后年",
+      "ru": "через год"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "さらいねん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "さらいねん"
+      "ja_reading": "さらいねん",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "ja_43",
+    "lang": "ja",
     "lemma": "しょうゆ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しょうゆ"
+    },
     "meanings": {
       "ko": "간장",
       "en": "soy sauce",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "しょうゆ",
-      "zh": "",
-      "ru": ""
+      "de": "die Sojasauce",
+      "es": "la salsa de soja",
+      "fr": "la sauce soja",
+      "it": "la salsa di soia",
+      "pt": "o molho de soja",
+      "zh": "酱油",
+      "ru": "соевый соус"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しょうゆ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しょうゆ"
     }
   },
   {
     "id": "ja_44",
+    "lang": "ja",
     "lemma": "する",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "する"
+    },
     "meanings": {
       "ko": "하다",
       "en": "do",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "する",
-      "zh": "",
-      "ru": ""
+      "de": "tun",
+      "es": "hacer",
+      "fr": "faire",
+      "it": "fare",
+      "pt": "fazer",
+      "zh": "做",
+      "ru": "делать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "する"
-    },
-    "infinitive": "する",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "する"
     }
   },
   {
     "id": "ja_45",
+    "lang": "ja",
     "lemma": "せっけん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "せっけん"
+    },
     "meanings": {
       "ko": "비누",
       "en": "soap",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "せっけん",
-      "zh": "",
-      "ru": ""
+      "de": "die Seife",
+      "es": "el jabón",
+      "fr": "le savon",
+      "it": "il sapone",
+      "pt": "o sabonete",
+      "zh": "肥皂",
+      "ru": "мыло"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せっけん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せっけん"
     }
   },
   {
     "id": "ja_46",
+    "lang": "ja",
     "lemma": "そこ",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "そこ"
+    },
     "meanings": {
       "ko": "거기",
       "en": "there",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "そこ",
-      "zh": "",
-      "ru": ""
+      "de": "dort",
+      "es": "ahí",
+      "fr": "là",
+      "it": "lì",
+      "pt": "aí",
+      "zh": "那里",
+      "ru": "там"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "そこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "そこ"
     }
   },
   {
     "id": "ja_47",
+    "lang": "ja",
     "lemma": "そちら",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "そちら"
+    },
     "meanings": {
       "ko": "그쪽",
       "en": "that way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "そちら",
-      "zh": "",
-      "ru": ""
+      "de": "dorthin",
+      "es": "hacia allí",
+      "fr": "par là",
+      "it": "lì",
+      "pt": "para lá",
+      "zh": "那边",
+      "ru": "туда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "そちら"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "そちら"
     }
   },
   {
     "id": "ja_48",
+    "lang": "ja",
     "lemma": "そっち",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "そっち"
+    },
     "meanings": {
       "ko": "그쪽",
       "en": "that way",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "そっち",
-      "zh": "",
-      "ru": ""
+      "de": "dorthin",
+      "es": "hacia allí",
+      "fr": "par là",
+      "it": "lì",
+      "pt": "para lá",
+      "zh": "那边",
+      "ru": "туда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "そっち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "そっち"
     }
   },
   {
     "id": "ja_49",
+    "lang": "ja",
     "lemma": "その",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "その"
+    },
     "meanings": {
       "ko": "그",
       "en": "that",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "その",
-      "zh": "",
-      "ru": ""
+      "de": "jener",
+      "es": "ese",
+      "fr": "ce",
+      "it": "quel",
+      "pt": "esse",
+      "zh": "那个",
+      "ru": "тот"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "その"
-    },
-    "reading": {
-      "ja": "その"
     }
   },
   {
     "id": "ja_50",
+    "lang": "ja",
     "lemma": "そば",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "そば"
+    },
     "meanings": {
       "ko": "옆",
       "en": "near",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "そば",
-      "zh": "",
-      "ru": ""
+      "de": "die Nähe",
+      "es": "cerca",
+      "fr": "la proximité",
+      "it": "vicino",
+      "pt": "perto",
+      "zh": "旁边",
+      "ru": "рядом"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "そば"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "そば"
     }
   },
   {
     "id": "ja_51",
+    "lang": "ja",
     "lemma": "それ",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "それ"
+    },
     "meanings": {
       "ko": "그것",
       "en": "that",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "それ",
-      "zh": "",
-      "ru": ""
+      "de": "das",
+      "es": "eso",
+      "fr": "cela",
+      "it": "quello",
+      "pt": "isso",
+      "zh": "那个",
+      "ru": "то"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "それ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "それ"
     }
   },
   {
     "id": "ja_52",
+    "lang": "ja",
     "lemma": "たいへん",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "힘들다, 심각하다",
-      "en": "difficult, serious",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "たいへん",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "たいへん"
-    },
     "reading": {
       "ja": "たいへん"
+    },
+    "meanings": {
+      "ko": "힘들다",
+      "en": "difficult",
+      "ja": "たいへん",
+      "de": "schwierig",
+      "es": "difícil",
+      "fr": "difficile",
+      "it": "difficile",
+      "pt": "difícil",
+      "zh": "困难",
+      "ru": "трудный"
+    },
+    "meta": {
+      "ja_reading": "たいへん"
     }
   },
   {
     "id": "ja_53",
+    "lang": "ja",
     "lemma": "たて",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たて"
+    },
     "meanings": {
       "ko": "세로",
       "en": "vertical",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "たて",
-      "zh": "",
-      "ru": ""
+      "de": "die Vertikale",
+      "es": "la vertical",
+      "fr": "la verticale",
+      "it": "la verticale",
+      "pt": "a vertical",
+      "zh": "垂直",
+      "ru": "вертикаль"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たて"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たて"
     }
   },
   {
     "id": "ja_54",
+    "lang": "ja",
     "lemma": "たばこ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "たばこ"
+    },
     "meanings": {
       "ko": "담배",
       "en": "cigarette",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "たばこ",
-      "zh": "",
-      "ru": ""
+      "de": "die Zigarette",
+      "es": "el cigarrillo",
+      "fr": "la cigarette",
+      "it": "la sigaretta",
+      "pt": "o cigarro",
+      "zh": "香烟",
+      "ru": "сигарета"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たばこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たばこ"
     }
   },
   {
     "id": "ja_55",
+    "lang": "ja",
     "lemma": "ちゃわん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "밥그릇, 찻잔",
-      "en": "rice bowl",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ちゃわん",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちゃわん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ちゃわん"
+    },
+    "meanings": {
+      "ko": "밥그릇",
+      "en": "rice bowl",
+      "ja": "ちゃわん",
+      "de": "die Reisschale",
+      "es": "el cuenco de arroz",
+      "fr": "le bol à riz",
+      "it": "la ciotola di riso",
+      "pt": "a tigela de arroz",
+      "zh": "饭碗",
+      "ru": "чаша для риса"
+    },
+    "meta": {
+      "ja_reading": "ちゃわん"
     }
   },
   {
     "id": "ja_56",
+    "lang": "ja",
     "lemma": "つける",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "켜다, 붙이다",
-      "en": "turn on",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "つける",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "つける"
-    },
-    "infinitive": "つける",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "つける"
+    },
+    "meanings": {
+      "ko": "켜다",
+      "en": "turn on",
+      "ja": "つける",
+      "de": "einschalten",
+      "es": "encender",
+      "fr": "allumer",
+      "it": "accendere",
+      "pt": "ligar",
+      "zh": "打开",
+      "ru": "включать"
+    },
+    "meta": {
+      "ja_reading": "つける"
     }
   },
   {
     "id": "ja_57",
+    "lang": "ja",
     "lemma": "つまらない",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "재미없다, 시시하다",
-      "en": "boring, dull",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "つまらない",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "つまらない"
-    },
     "reading": {
       "ja": "つまらない"
+    },
+    "meanings": {
+      "ko": "재미없다",
+      "en": "boring",
+      "ja": "つまらない",
+      "de": "langweilig",
+      "es": "aburrido",
+      "fr": "ennuyeux",
+      "it": "noioso",
+      "pt": "chato",
+      "zh": "无聊",
+      "ru": "скучный"
+    },
+    "meta": {
+      "ja_reading": "つまらない"
     }
   },
   {
     "id": "ja_58",
+    "lang": "ja",
     "lemma": "できる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "할 수 있다, 완성되다",
-      "en": "be able to",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "できる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "できる"
-    },
-    "infinitive": "できる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "できる"
+    },
+    "meanings": {
+      "ko": "할 수 있다",
+      "en": "be able to",
+      "ja": "できる",
+      "de": "können",
+      "es": "poder",
+      "fr": "pouvoir",
+      "it": "potere",
+      "pt": "poder",
+      "zh": "能",
+      "ru": "мочь"
+    },
+    "meta": {
+      "ja_reading": "できる"
     }
   },
   {
     "id": "ja_59",
+    "lang": "ja",
     "lemma": "とり肉",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "とりにく"
+    },
     "meanings": {
       "ko": "닭고기",
       "en": "chicken meat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "とり肉",
-      "zh": "",
-      "ru": ""
+      "de": "das Hühnerfleisch",
+      "es": "la carne de pollo",
+      "fr": "la viande de poulet",
+      "it": "la carne di pollo",
+      "pt": "a carne de frango",
+      "zh": "鸡肉",
+      "ru": "куриное мясо"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "とりにく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "とりにく"
     }
   },
   {
     "id": "ja_60",
+    "lang": "ja",
     "lemma": "どこ",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "どこ"
+    },
     "meanings": {
       "ko": "어디",
       "en": "where",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "どこ",
-      "zh": "",
-      "ru": ""
+      "de": "wo",
+      "es": "dónde",
+      "fr": "où",
+      "it": "dove",
+      "pt": "onde",
+      "zh": "哪里",
+      "ru": "где"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "どこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "どこ"
     }
   },
   {
     "id": "ja_61",
+    "lang": "ja",
     "lemma": "どちら",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "어느 쪽, 어느 분",
-      "en": "which, where",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "どちら",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "どちら"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "どちら"
+    },
+    "meanings": {
+      "ko": "어느 쪽",
+      "en": "which",
+      "ja": "どちら",
+      "de": "welcher",
+      "es": "cuál",
+      "fr": "lequel",
+      "it": "quale",
+      "pt": "qual",
+      "zh": "哪个",
+      "ru": "который"
+    },
+    "meta": {
+      "ja_reading": "どちら"
     }
   },
   {
     "id": "ja_62",
+    "lang": "ja",
     "lemma": "どっち",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "どっち"
+    },
     "meanings": {
       "ko": "어느 쪽",
       "en": "which",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "どっち",
-      "zh": "",
-      "ru": ""
+      "de": "welcher",
+      "es": "cuál",
+      "fr": "lequel",
+      "it": "quale",
+      "pt": "qual",
+      "zh": "哪个",
+      "ru": "который"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "どっち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "どっち"
     }
   },
   {
     "id": "ja_63",
+    "lang": "ja",
     "lemma": "どなた",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "누구 (존칭)",
-      "en": "who (polite)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "どなた",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "どなた"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "どなた"
+    },
+    "meanings": {
+      "ko": "누구",
+      "en": "who",
+      "ja": "どなた",
+      "de": "wer",
+      "es": "quién",
+      "fr": "qui",
+      "it": "chi",
+      "pt": "quem",
+      "zh": "哪位",
+      "ru": "кто"
+    },
+    "meta": {
+      "ja_reading": "どなた"
     }
   },
   {
     "id": "ja_64",
+    "lang": "ja",
     "lemma": "どれ",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "どれ"
+    },
     "meanings": {
       "ko": "어느 것",
       "en": "which one",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "どれ",
-      "zh": "",
-      "ru": ""
+      "de": "welcher",
+      "es": "cuál",
+      "fr": "lequel",
+      "it": "quale",
+      "pt": "qual",
+      "zh": "哪个",
+      "ru": "который"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "どれ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "どれ"
     }
   },
   {
     "id": "ja_65",
+    "lang": "ja",
     "lemma": "なる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "なる"
+    },
     "meanings": {
       "ko": "되다",
       "en": "become",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "なる",
-      "zh": "",
-      "ru": ""
+      "de": "werden",
+      "es": "volverse",
+      "fr": "devenir",
+      "it": "diventare",
+      "pt": "tornar-se",
+      "zh": "成为",
+      "ru": "становиться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "なる"
-    },
-    "infinitive": "なる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "なる"
     }
   },
   {
     "id": "ja_66",
+    "lang": "ja",
     "lemma": "はく",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "(바지 등을) 입다, (신발을) 신다",
-      "en": "wear (bottoms",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "はく",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はく"
-    },
-    "infinitive": "はく",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "はく"
+    },
+    "meanings": {
+      "ko": "입다",
+      "en": "wear",
+      "ja": "はく",
+      "de": "anziehen",
+      "es": "ponerse",
+      "fr": "porter",
+      "it": "indossare",
+      "pt": "vestir",
+      "zh": "穿",
+      "ru": "надевать"
+    },
+    "meta": {
+      "ja_reading": "はく"
     }
   },
   {
     "id": "ja_67",
+    "lang": "ja",
     "lemma": "はし",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はし"
+    },
     "meanings": {
       "ko": "젓가락",
       "en": "chopsticks",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "はし",
-      "zh": "",
-      "ru": ""
+      "de": "die Essstäbchen",
+      "es": "los palillos",
+      "fr": "les baguettes",
+      "it": "le bacchette",
+      "pt": "os pauzinhos",
+      "zh": "筷子",
+      "ru": "палочки для еды"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はし"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はし"
     }
   },
   {
     "id": "ja_68",
+    "lang": "ja",
     "lemma": "ふろ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "목욕, 욕조",
-      "en": "bath",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ふろ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ふろ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ふろ"
+    },
+    "meanings": {
+      "ko": "목욕",
+      "en": "bath",
+      "ja": "ふろ",
+      "de": "das Bad",
+      "es": "el baño",
+      "fr": "le bain",
+      "it": "il bagno",
+      "pt": "o banho",
+      "zh": "浴缸",
+      "ru": "ванна"
+    },
+    "meta": {
+      "ja_reading": "ふろ"
     }
   },
   {
     "id": "ja_69",
+    "lang": "ja",
     "lemma": "ほか",
-    "pos": "名詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "그 외, 다른 것",
-      "en": "other, besides",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ほか",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ほか"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ほか"
+    },
+    "meanings": {
+      "ko": "그 외",
+      "en": "other",
+      "ja": "ほか",
+      "de": "andere",
+      "es": "otro",
+      "fr": "l'autre",
+      "it": "altro",
+      "pt": "outro",
+      "zh": "其他",
+      "ru": "другой"
+    },
+    "meta": {
+      "ja_reading": "ほか"
     }
   },
   {
     "id": "ja_70",
+    "lang": "ja",
     "lemma": "ほんとう",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "사실, 정말",
-      "en": "truth, really",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ほんとう",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ほんとう"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ほんとう"
+    },
+    "meanings": {
+      "ko": "사실",
+      "en": "truth",
+      "ja": "ほんとう",
+      "de": "die Wahrheit",
+      "es": "la verdad",
+      "fr": "la vérité",
+      "it": "la verità",
+      "pt": "a verdade",
+      "zh": "真实",
+      "ru": "правда"
+    },
+    "meta": {
+      "ja_reading": "ほんとう"
     }
   },
   {
     "id": "ja_71",
+    "lang": "ja",
     "lemma": "まずい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
-    "meanings": {
-      "ko": "맛없다, 서투르다",
-      "en": "bad",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "まずい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "まずい"
-    },
     "reading": {
       "ja": "まずい"
+    },
+    "meanings": {
+      "ko": "맛없다",
+      "en": "bad",
+      "ja": "まずい",
+      "de": "schlecht",
+      "es": "malo",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "pt": "ruim",
+      "zh": "难吃",
+      "ru": "невкусный"
+    },
+    "meta": {
+      "ja_reading": "まずい"
     }
   },
   {
     "id": "ja_72",
+    "lang": "ja",
     "lemma": "まっすぐ",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "곧장, 똑바로",
-      "en": "straight",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "まっすぐ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "まっすぐ"
-    },
     "reading": {
       "ja": "まっすぐ"
+    },
+    "meanings": {
+      "ko": "곧장",
+      "en": "straight",
+      "ja": "まっすぐ",
+      "de": "geradeaus",
+      "es": "recto",
+      "fr": "tout droit",
+      "it": "dritto",
+      "pt": "reto",
+      "zh": "直",
+      "ru": "прямо"
+    },
+    "meta": {
+      "ja_reading": "まっすぐ"
     }
   },
   {
     "id": "ja_73",
+    "lang": "ja",
     "lemma": "みんな",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "모두, 다",
-      "en": "everyone, all",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "みんな",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "みんな"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "みんな"
+    },
+    "meanings": {
+      "ko": "모두",
+      "en": "everyone",
+      "ja": "みんな",
+      "de": "alle",
+      "es": "todos",
+      "fr": "tout le monde",
+      "it": "tutti",
+      "pt": "todos",
+      "zh": "大家",
+      "ru": "все"
+    },
+    "meta": {
+      "ja_reading": "みんな"
     }
   },
   {
     "id": "ja_74",
+    "lang": "ja",
     "lemma": "やる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "하다, 주다 (낮춤말)",
-      "en": "do, give",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "やる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "やる"
-    },
-    "infinitive": "やる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "やる"
+    },
+    "meanings": {
+      "ko": "하다",
+      "en": "do",
+      "ja": "やる",
+      "de": "tun",
+      "es": "hacer",
+      "fr": "faire",
+      "it": "fare",
+      "pt": "fazer",
+      "zh": "做",
+      "ru": "делать"
+    },
+    "meta": {
+      "ja_reading": "やる"
     }
   },
   {
     "id": "ja_75",
+    "lang": "ja",
     "lemma": "りっぱ",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "훌륭하다, 멋지다",
-      "en": "splendid, fine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "りっぱ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "りっぱ"
-    },
     "reading": {
       "ja": "りっぱ"
+    },
+    "meanings": {
+      "ko": "훌륭하다",
+      "en": "splendid",
+      "ja": "りっぱ",
+      "de": "prächtig",
+      "es": "espléndido",
+      "fr": "splendide",
+      "it": "splendido",
+      "pt": "esplêndido",
+      "zh": "优秀",
+      "ru": "великолепный"
+    },
+    "meta": {
+      "ja_reading": "りっぱ"
     }
   },
   {
     "id": "ja_76",
+    "lang": "ja",
     "lemma": "アパート",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "アパート"
+    },
     "meanings": {
       "ko": "아파트",
       "en": "apartment",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "アパート",
-      "zh": "",
-      "ru": ""
+      "de": "die Wohnung",
+      "es": "el apartamento",
+      "fr": "l'appartement",
+      "it": "l'appartamento",
+      "pt": "o apartamento",
+      "zh": "公寓",
+      "ru": "квартира"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "アパート"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "アパート"
     }
   },
   {
     "id": "ja_77",
+    "lang": "ja",
     "lemma": "エレベーター",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "エレベーター"
+    },
     "meanings": {
       "ko": "엘리베이터",
       "en": "elevator",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "エレベーター",
-      "zh": "",
-      "ru": ""
+      "de": "der Aufzug",
+      "es": "el ascensor",
+      "fr": "l'ascenseur",
+      "it": "l'ascensore",
+      "pt": "o elevador",
+      "zh": "电梯",
+      "ru": "лифт"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "エレベーター"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "エレベーター"
     }
   },
   {
     "id": "ja_78",
+    "lang": "ja",
     "lemma": "カップ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "カップ"
+    },
     "meanings": {
       "ko": "컵",
       "en": "cup",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "カップ",
-      "zh": "",
-      "ru": ""
+      "de": "die Tasse",
+      "es": "la taza",
+      "fr": "la tasse",
+      "it": "la tazza",
+      "pt": "a xícara",
+      "zh": "杯子",
+      "ru": "чашка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "カップ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "カップ"
     }
   },
   {
     "id": "ja_79",
+    "lang": "ja",
     "lemma": "カメラ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "カメラ"
+    },
     "meanings": {
       "ko": "카메라",
       "en": "camera",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "カメラ",
-      "zh": "",
-      "ru": ""
+      "de": "die Kamera",
+      "es": "la cámara",
+      "fr": "l'appareil photo",
+      "it": "la macchina fotografica",
+      "pt": "a câmera",
+      "zh": "相机",
+      "ru": "камера"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "カメラ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "カメラ"
     }
   },
   {
     "id": "ja_80",
+    "lang": "ja",
     "lemma": "カレンダー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "カレンダー"
+    },
     "meanings": {
       "ko": "달력",
       "en": "calendar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "カレンダー",
-      "zh": "",
-      "ru": ""
+      "de": "der Kalender",
+      "es": "el calendario",
+      "fr": "le calendrier",
+      "it": "il calendario",
+      "pt": "o calendário",
+      "zh": "日历",
+      "ru": "календарь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "カレンダー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "カレンダー"
     }
   },
   {
     "id": "ja_81",
+    "lang": "ja",
     "lemma": "カレー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "カレー"
+    },
     "meanings": {
       "ko": "카레",
       "en": "curry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "カレー",
-      "zh": "",
-      "ru": ""
+      "de": "das Curry",
+      "es": "el curry",
+      "fr": "le curry",
+      "it": "il curry",
+      "pt": "o caril",
+      "zh": "咖喱",
+      "ru": "карри"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "カレー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "カレー"
     }
   },
   {
     "id": "ja_82",
+    "lang": "ja",
     "lemma": "キロ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "キロ"
+    },
     "meanings": {
       "ko": "킬로",
       "en": "kilo",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "キロ",
-      "zh": "",
-      "ru": ""
+      "de": "das Kilo",
+      "es": "el kilo",
+      "fr": "le kilo",
+      "it": "il chilo",
+      "pt": "o quilo",
+      "zh": "公斤",
+      "ru": "килограмм"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "キロ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "キロ"
     }
   },
   {
     "id": "ja_83",
+    "lang": "ja",
     "lemma": "キログラム",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "キログラム"
+    },
     "meanings": {
       "ko": "킬로그램",
       "en": "kilogram",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "キログラム",
-      "zh": "",
-      "ru": ""
+      "de": "das Kilogramm",
+      "es": "el kilogramo",
+      "fr": "le kilogramme",
+      "it": "il chilogrammo",
+      "pt": "o quilograma",
+      "zh": "公斤",
+      "ru": "килограмм"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "キログラム"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "キログラム"
     }
   },
   {
     "id": "ja_84",
+    "lang": "ja",
     "lemma": "キロメートル",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "キロメートル"
+    },
     "meanings": {
       "ko": "킬로미터",
       "en": "kilometer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "キロメートル",
-      "zh": "",
-      "ru": ""
+      "de": "der Kilometer",
+      "es": "el kilómetro",
+      "fr": "le kilomètre",
+      "it": "il chilometro",
+      "pt": "o quilômetro",
+      "zh": "公里",
+      "ru": "километр"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "キロメートル"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "キロメートル"
     }
   },
   {
     "id": "ja_85",
+    "lang": "ja",
     "lemma": "ギター",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ギター"
+    },
     "meanings": {
       "ko": "기타",
       "en": "guitar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ギター",
-      "zh": "",
-      "ru": ""
+      "de": "die Gitarre",
+      "es": "la guitarra",
+      "fr": "la guitare",
+      "it": "la chitarra",
+      "pt": "a guitarra",
+      "zh": "吉他",
+      "ru": "гитара"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ギター"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ギター"
     }
   },
   {
     "id": "ja_86",
+    "lang": "ja",
     "lemma": "クラス",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
-    "meanings": {
-      "ko": "학급, 수업",
-      "en": "class",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "クラス",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "クラス"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "クラス"
+    },
+    "meanings": {
+      "ko": "학급",
+      "en": "class",
+      "ja": "クラス",
+      "de": "die Klasse",
+      "es": "la clase",
+      "fr": "la classe",
+      "it": "la classe",
+      "pt": "a aula",
+      "zh": "班级",
+      "ru": "класс"
+    },
+    "meta": {
+      "ja_reading": "クラス"
     }
   },
   {
     "id": "ja_87",
+    "lang": "ja",
     "lemma": "グラム",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "グラム"
+    },
     "meanings": {
       "ko": "그램",
       "en": "gram",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "グラム",
-      "zh": "",
-      "ru": ""
+      "de": "das Gramm",
+      "es": "el gramo",
+      "fr": "le gramme",
+      "it": "il grammo",
+      "pt": "o grama",
+      "zh": "克",
+      "ru": "грамм"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "グラム"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "グラム"
     }
   },
   {
     "id": "ja_88",
+    "lang": "ja",
     "lemma": "コップ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "컵",
-      "en": "glass, cup",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "コップ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "コップ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "コップ"
+    },
+    "meanings": {
+      "ko": "컵",
+      "en": "glass",
+      "ja": "コップ",
+      "de": "das Glas",
+      "es": "el vaso",
+      "fr": "le verre",
+      "it": "il bicchiere",
+      "pt": "o copo",
+      "zh": "杯子",
+      "ru": "стакан"
+    },
+    "meta": {
+      "ja_reading": "コップ"
     }
   },
   {
     "id": "ja_89",
+    "lang": "ja",
     "lemma": "コピーする",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "コピーする"
+    },
     "meanings": {
       "ko": "복사하다",
       "en": "copy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "コピーする",
-      "zh": "",
-      "ru": ""
+      "de": "kopieren",
+      "es": "copiar",
+      "fr": "copier",
+      "it": "copiare",
+      "pt": "copiar",
+      "zh": "复印",
+      "ru": "копировать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "コピーする"
-    },
-    "infinitive": "コピーする",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "コピーする"
     }
   },
   {
     "id": "ja_90",
+    "lang": "ja",
     "lemma": "コート",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "コート"
+    },
     "meanings": {
       "ko": "코트",
       "en": "coat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "コート",
-      "zh": "",
-      "ru": ""
+      "de": "der Mantel",
+      "es": "el abrigo",
+      "fr": "le manteau",
+      "it": "il cappotto",
+      "pt": "o casaco",
+      "zh": "外套",
+      "ru": "пальто"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "コート"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "コート"
     }
   },
   {
     "id": "ja_91",
+    "lang": "ja",
     "lemma": "コーヒー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "コーヒー"
+    },
     "meanings": {
       "ko": "커피",
       "en": "coffee",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "コーヒー",
-      "zh": "",
-      "ru": ""
+      "de": "der Kaffee",
+      "es": "el café",
+      "fr": "le café",
+      "it": "il caffè",
+      "pt": "o café",
+      "zh": "咖啡",
+      "ru": "кофе"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "コーヒー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "コーヒー"
     }
   },
   {
     "id": "ja_92",
+    "lang": "ja",
     "lemma": "シャツ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "シャツ"
+    },
     "meanings": {
       "ko": "셔츠",
       "en": "shirt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "シャツ",
-      "zh": "",
-      "ru": ""
+      "de": "das Hemd",
+      "es": "la camisa",
+      "fr": "la chemise",
+      "it": "la camicia",
+      "pt": "a camisa",
+      "zh": "衬衫",
+      "ru": "рубашка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "シャツ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "シャツ"
     }
   },
   {
     "id": "ja_93",
+    "lang": "ja",
     "lemma": "シャワー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "シャワー"
+    },
     "meanings": {
       "ko": "샤워",
       "en": "shower",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "シャワー",
-      "zh": "",
-      "ru": ""
+      "de": "die Dusche",
+      "es": "la ducha",
+      "fr": "la douche",
+      "it": "la doccia",
+      "pt": "o chuveiro",
+      "zh": "淋浴",
+      "ru": "душ"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "シャワー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "シャワー"
     }
   },
   {
     "id": "ja_94",
+    "lang": "ja",
     "lemma": "スカート",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "スカート"
+    },
     "meanings": {
       "ko": "스커트",
       "en": "skirt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "スカート",
-      "zh": "",
-      "ru": ""
+      "de": "der Rock",
+      "es": "la falda",
+      "fr": "la jupe",
+      "it": "la gonna",
+      "pt": "a saia",
+      "zh": "裙子",
+      "ru": "юбка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "スカート"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "スカート"
     }
   },
   {
     "id": "ja_95",
+    "lang": "ja",
     "lemma": "ストーブ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "난로",
-      "en": "stove, heater",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ストーブ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ストーブ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ストーブ"
+    },
+    "meanings": {
+      "ko": "난로",
+      "en": "stove",
+      "ja": "ストーブ",
+      "de": "der Ofen",
+      "es": "la estufa",
+      "fr": "le poêle",
+      "it": "la stufa",
+      "pt": "o fogão",
+      "zh": "火炉",
+      "ru": "печь"
+    },
+    "meta": {
+      "ja_reading": "ストーブ"
     }
   },
   {
     "id": "ja_96",
+    "lang": "ja",
     "lemma": "スプーン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "スプーン"
+    },
     "meanings": {
       "ko": "스푼",
       "en": "spoon",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "スプーン",
-      "zh": "",
-      "ru": ""
+      "de": "der Löffel",
+      "es": "la cuchara",
+      "fr": "la cuillère",
+      "it": "il cucchiaio",
+      "pt": "a colher",
+      "zh": "勺子",
+      "ru": "ложка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "スプーン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "スプーン"
     }
   },
   {
     "id": "ja_97",
+    "lang": "ja",
     "lemma": "スポーツ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "スポーツ"
+    },
     "meanings": {
       "ko": "스포츠",
       "en": "sport",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "スポーツ",
-      "zh": "",
-      "ru": ""
+      "de": "der Sport",
+      "es": "el deporte",
+      "fr": "le sport",
+      "it": "lo sport",
+      "pt": "o esporte",
+      "zh": "运动",
+      "ru": "спорт"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "スポーツ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "スポーツ"
     }
   },
   {
     "id": "ja_98",
+    "lang": "ja",
     "lemma": "スリッパ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "スリッパ"
+    },
     "meanings": {
       "ko": "슬리퍼",
       "en": "slippers",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "スリッパ",
-      "zh": "",
-      "ru": ""
+      "de": "der Pantoffel",
+      "es": "la zapatilla",
+      "fr": "la pantoufle",
+      "it": "la pantofola",
+      "pt": "o chinelo",
+      "zh": "拖鞋",
+      "ru": "тапочки"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "スリッパ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "スリッパ"
     }
   },
   {
     "id": "ja_99",
+    "lang": "ja",
     "lemma": "ズボン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "바지",
-      "en": "trousers, pants",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ズボン",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ズボン"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ズボン"
+    },
+    "meanings": {
+      "ko": "바지",
+      "en": "trousers",
+      "ja": "ズボン",
+      "de": "die Hose",
+      "es": "los pantalones",
+      "fr": "le pantalon",
+      "it": "i pantaloni",
+      "pt": "as calças",
+      "zh": "裤子",
+      "ru": "брюки"
+    },
+    "meta": {
+      "ja_reading": "ズボン"
     }
   },
   {
     "id": "ja_100",
+    "lang": "ja",
     "lemma": "セーター",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "セーター"
+    },
     "meanings": {
       "ko": "스웨터",
       "en": "sweater",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "セーター",
-      "zh": "",
-      "ru": ""
+      "de": "der Pullover",
+      "es": "el suéter",
+      "fr": "le pull",
+      "it": "il maglione",
+      "pt": "o suéter",
+      "zh": "毛衣",
+      "ru": "свитер"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "セーター"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "セーター"
     }
   },
   {
     "id": "ja_101",
+    "lang": "ja",
     "lemma": "ゼロ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "제로, 영",
-      "en": "zero",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ゼロ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ゼロ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ゼロ"
+    },
+    "meanings": {
+      "ko": "제로",
+      "en": "zero",
+      "ja": "ゼロ",
+      "de": "die Null",
+      "es": "el cero",
+      "fr": "le zéro",
+      "it": "lo zero",
+      "pt": "o zero",
+      "zh": "零",
+      "ru": "ноль"
+    },
+    "meta": {
+      "ja_reading": "ゼロ"
     }
   },
   {
     "id": "ja_102",
+    "lang": "ja",
     "lemma": "タクシー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "タクシー"
+    },
     "meanings": {
       "ko": "택시",
       "en": "taxi",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "タクシー",
-      "zh": "",
-      "ru": ""
+      "de": "das Taxi",
+      "es": "el taxi",
+      "fr": "le taxi",
+      "it": "il taxi",
+      "pt": "o táxi",
+      "zh": "出租车",
+      "ru": "такси"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "タクシー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "タクシー"
     }
   },
   {
     "id": "ja_103",
+    "lang": "ja",
     "lemma": "テスト",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "テスト"
+    },
     "meanings": {
       "ko": "시험",
       "en": "test",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "テスト",
-      "zh": "",
-      "ru": ""
+      "de": "der Test",
+      "es": "el examen",
+      "fr": "le test",
+      "it": "il test",
+      "pt": "o teste",
+      "zh": "考试",
+      "ru": "тест"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "テスト"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "テスト"
     }
   },
   {
     "id": "ja_104",
+    "lang": "ja",
     "lemma": "テレビ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "テレビ"
+    },
     "meanings": {
       "ko": "텔레비전",
       "en": "television",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "テレビ",
-      "zh": "",
-      "ru": ""
+      "de": "der Fernseher",
+      "es": "la televisión",
+      "fr": "la télévision",
+      "it": "la televisione",
+      "pt": "a televisão",
+      "zh": "电视",
+      "ru": "телевизор"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "テレビ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "テレビ"
     }
   },
   {
     "id": "ja_105",
+    "lang": "ja",
     "lemma": "テーブル",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "テーブル"
+    },
     "meanings": {
       "ko": "테이블",
       "en": "table",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "テーブル",
-      "zh": "",
-      "ru": ""
+      "de": "der Tisch",
+      "es": "la mesa",
+      "fr": "la table",
+      "it": "il tavolo",
+      "pt": "a mesa",
+      "zh": "桌子",
+      "ru": "стол"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "テーブル"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "テーブル"
     }
   },
   {
     "id": "ja_106",
+    "lang": "ja",
     "lemma": "テープ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "テープ"
+    },
     "meanings": {
       "ko": "테이프",
       "en": "tape",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "テープ",
-      "zh": "",
-      "ru": ""
+      "de": "das Band",
+      "es": "la cinta",
+      "fr": "la bande",
+      "it": "il nastro",
+      "pt": "a fita",
+      "zh": "磁带",
+      "ru": "лента"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "テープ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "テープ"
     }
   },
   {
     "id": "ja_107",
+    "lang": "ja",
     "lemma": "テープレコーダー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "テープレコーダー"
+    },
     "meanings": {
       "ko": "테이프 레코더",
       "en": "tape recorder",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "テープレコーダー",
-      "zh": "",
-      "ru": ""
+      "de": "der Kassettenrekorder",
+      "es": "la grabadora",
+      "fr": "le magnétophone",
+      "it": "il registratore",
+      "pt": "o gravador",
+      "zh": "录音机",
+      "ru": "магнитофон"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "テープレコーダー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "テープレコーダー"
     }
   },
   {
     "id": "ja_108",
+    "lang": "ja",
     "lemma": "デパート",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "デパート"
+    },
     "meanings": {
       "ko": "백화점",
       "en": "department store",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "デパート",
-      "zh": "",
-      "ru": ""
+      "de": "das Kaufhaus",
+      "es": "el centro comercial",
+      "fr": "le grand magasin",
+      "it": "il grande magazzino",
+      "pt": "a loja de departamentos",
+      "zh": "百货商店",
+      "ru": "универмаг"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "デパート"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "デパート"
     }
   },
   {
     "id": "ja_109",
+    "lang": "ja",
     "lemma": "トイレ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "トイレ"
+    },
     "meanings": {
       "ko": "화장실",
       "en": "toilet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "トイレ",
-      "zh": "",
-      "ru": ""
+      "de": "die Toilette",
+      "es": "el inodoro",
+      "fr": "les toilettes",
+      "it": "il bagno",
+      "pt": "o banheiro",
+      "zh": "厕所",
+      "ru": "туалет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "トイレ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "トイレ"
     }
   },
   {
     "id": "ja_110",
+    "lang": "ja",
     "lemma": "ドア",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ドア"
+    },
     "meanings": {
       "ko": "문",
       "en": "door",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ドア",
-      "zh": "",
-      "ru": ""
+      "de": "die Tür",
+      "es": "la puerta",
+      "fr": "la porte",
+      "it": "la porta",
+      "pt": "a porta",
+      "zh": "门",
+      "ru": "дверь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ドア"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ドア"
     }
   },
   {
     "id": "ja_111",
+    "lang": "ja",
     "lemma": "ナイフ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "나이프, 칼",
-      "en": "knife",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ナイフ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ナイフ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ナイフ"
+    },
+    "meanings": {
+      "ko": "나이프",
+      "en": "knife",
+      "ja": "ナイフ",
+      "de": "das Messer",
+      "es": "el cuchillo",
+      "fr": "le couteau",
+      "it": "il coltello",
+      "pt": "a faca",
+      "zh": "刀",
+      "ru": "нож"
+    },
+    "meta": {
+      "ja_reading": "ナイフ"
     }
   },
   {
     "id": "ja_112",
+    "lang": "ja",
     "lemma": "ニュース",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ニュース"
+    },
     "meanings": {
       "ko": "뉴스",
       "en": "news",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ニュース",
-      "zh": "",
-      "ru": ""
+      "de": "die Nachrichten",
+      "es": "las noticias",
+      "fr": "les nouvelles",
+      "it": "le notizie",
+      "pt": "as notícias",
+      "zh": "新闻",
+      "ru": "новости"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ニュース"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ニュース"
     }
   },
   {
     "id": "ja_113",
+    "lang": "ja",
     "lemma": "ネクタイ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ネクタイ"
+    },
     "meanings": {
       "ko": "넥타이",
       "en": "necktie",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ネクタイ",
-      "zh": "",
-      "ru": ""
+      "de": "die Krawatte",
+      "es": "la corbata",
+      "fr": "la cravate",
+      "it": "la cravatta",
+      "pt": "a gravata",
+      "zh": "领带",
+      "ru": "галстук"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ネクタイ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ネクタイ"
     }
   },
   {
     "id": "ja_114",
+    "lang": "ja",
     "lemma": "ノート",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
-    "meanings": {
-      "ko": "노트, 공책",
-      "en": "notebook",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "ノート",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ノート"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ノート"
+    },
+    "meanings": {
+      "ko": "노트",
+      "en": "notebook",
+      "ja": "ノート",
+      "de": "das Notizbuch",
+      "es": "el cuaderno",
+      "fr": "le cahier",
+      "it": "il quaderno",
+      "pt": "o caderno",
+      "zh": "笔记本",
+      "ru": "тетрадь"
+    },
+    "meta": {
+      "ja_reading": "ノート"
     }
   },
   {
     "id": "ja_115",
+    "lang": "ja",
     "lemma": "ハンカチ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ハンカチ"
+    },
     "meanings": {
       "ko": "손수건",
       "en": "handkerchief",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ハンカチ",
-      "zh": "",
-      "ru": ""
+      "de": "das Taschentuch",
+      "es": "el pañuelo",
+      "fr": "le mouchoir",
+      "it": "il fazzoletto",
+      "pt": "o lenço",
+      "zh": "手帕",
+      "ru": "носовой платок"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ハンカチ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ハンカチ"
     }
   },
   {
     "id": "ja_116",
+    "lang": "ja",
     "lemma": "バス",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "バス"
+    },
     "meanings": {
       "ko": "버스",
       "en": "bus",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "バス",
-      "zh": "",
-      "ru": ""
+      "de": "der Bus",
+      "es": "el autobús",
+      "fr": "le bus",
+      "it": "l'autobus",
+      "pt": "o ônibus",
+      "zh": "公共汽车",
+      "ru": "автобус"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "バス"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "バス"
     }
   },
   {
     "id": "ja_117",
+    "lang": "ja",
     "lemma": "バター",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "バター"
+    },
     "meanings": {
       "ko": "버터",
       "en": "butter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "バター",
-      "zh": "",
-      "ru": ""
+      "de": "die Butter",
+      "es": "la mantequilla",
+      "fr": "le beurre",
+      "it": "il burro",
+      "pt": "a manteiga",
+      "zh": "黄油",
+      "ru": "масло"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "バター"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "バター"
     }
   },
   {
     "id": "ja_118",
+    "lang": "ja",
     "lemma": "パン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "パン"
+    },
     "meanings": {
       "ko": "빵",
       "en": "bread",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "パン",
-      "zh": "",
-      "ru": ""
+      "de": "das Brot",
+      "es": "el pan",
+      "fr": "le pain",
+      "it": "il pane",
+      "pt": "o pão",
+      "zh": "面包",
+      "ru": "хлеб"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "パン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "パン"
     }
   },
   {
     "id": "ja_119",
+    "lang": "ja",
     "lemma": "パーティー",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "パーティー"
+    },
     "meanings": {
       "ko": "파티",
       "en": "party",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "パーティー",
-      "zh": "",
-      "ru": ""
+      "de": "die Party",
+      "es": "la fiesta",
+      "fr": "la fête",
+      "it": "la festa",
+      "pt": "a festa",
+      "zh": "派对",
+      "ru": "вечеринка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "パーティー"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "パーティー"
     }
   },
   {
     "id": "ja_120",
+    "lang": "ja",
     "lemma": "フィルム",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "フィルム"
+    },
     "meanings": {
       "ko": "필름",
       "en": "film",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "フィルム",
-      "zh": "",
-      "ru": ""
+      "de": "der Film",
+      "es": "la película",
+      "fr": "le film",
+      "it": "la pellicola",
+      "pt": "o filme",
+      "zh": "胶卷",
+      "ru": "пленка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "フィルム"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "フィルム"
     }
   },
   {
     "id": "ja_121",
+    "lang": "ja",
     "lemma": "フォーク",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "フォーク"
+    },
     "meanings": {
       "ko": "포크",
       "en": "fork",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "フォーク",
-      "zh": "",
-      "ru": ""
+      "de": "die Gabel",
+      "es": "el tenedor",
+      "fr": "la fourchette",
+      "it": "la forchetta",
+      "pt": "o garfo",
+      "zh": "叉子",
+      "ru": "вилка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "フォーク"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "フォーク"
     }
   },
   {
     "id": "ja_122",
+    "lang": "ja",
     "lemma": "プール",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "プール"
+    },
     "meanings": {
       "ko": "수영장",
       "en": "pool",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "プール",
-      "zh": "",
-      "ru": ""
+      "de": "das Schwimmbad",
+      "es": "la piscina",
+      "fr": "la piscine",
+      "it": "la piscina",
+      "pt": "a piscina",
+      "zh": "游泳池",
+      "ru": "бассейн"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "プール"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "プール"
     }
   },
   {
     "id": "ja_123",
+    "lang": "ja",
     "lemma": "ベッド",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ベッド"
+    },
     "meanings": {
       "ko": "침대",
       "en": "bed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ベッド",
-      "zh": "",
-      "ru": ""
+      "de": "das Bett",
+      "es": "la cama",
+      "fr": "le lit",
+      "it": "il letto",
+      "pt": "a cama",
+      "zh": "床",
+      "ru": "кровать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ベッド"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ベッド"
     }
   },
   {
     "id": "ja_124",
+    "lang": "ja",
     "lemma": "ペット",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ペット"
+    },
     "meanings": {
       "ko": "애완동물",
       "en": "pet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ペット",
-      "zh": "",
-      "ru": ""
+      "de": "das Haustier",
+      "es": "la mascota",
+      "fr": "l'animal de compagnie",
+      "it": "l'animale domestico",
+      "pt": "o animal de estimação",
+      "zh": "宠物",
+      "ru": "домашнее животное"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ペット"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ペット"
     }
   },
   {
     "id": "ja_125",
+    "lang": "ja",
     "lemma": "ペン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ペン"
+    },
     "meanings": {
       "ko": "펜",
       "en": "pen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ペン",
-      "zh": "",
-      "ru": ""
+      "de": "der Stift",
+      "es": "el bolígrafo",
+      "fr": "le stylo",
+      "it": "la penna",
+      "pt": "a caneta",
+      "zh": "钢笔",
+      "ru": "ручка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ペン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ペン"
     }
   },
   {
     "id": "ja_126",
+    "lang": "ja",
     "lemma": "ページ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ページ"
+    },
     "meanings": {
       "ko": "페이지",
       "en": "page",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ページ",
-      "zh": "",
-      "ru": ""
+      "de": "die Seite",
+      "es": "la página",
+      "fr": "la page",
+      "it": "la pagina",
+      "pt": "a página",
+      "zh": "页",
+      "ru": "страница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ページ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ページ"
     }
   },
   {
     "id": "ja_127",
+    "lang": "ja",
     "lemma": "ホテル",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ホテル"
+    },
     "meanings": {
       "ko": "호텔",
       "en": "hotel",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ホテル",
-      "zh": "",
-      "ru": ""
+      "de": "das Hotel",
+      "es": "el hotel",
+      "fr": "l'hôtel",
+      "it": "l'hotel",
+      "pt": "o hotel",
+      "zh": "酒店",
+      "ru": "отель"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ホテル"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ホテル"
     }
   },
   {
     "id": "ja_128",
+    "lang": "ja",
     "lemma": "ボタン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ボタン"
+    },
     "meanings": {
       "ko": "단추",
       "en": "button",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ボタン",
-      "zh": "",
-      "ru": ""
+      "de": "der Knopf",
+      "es": "el botón",
+      "fr": "le bouton",
+      "it": "il bottone",
+      "pt": "o botão",
+      "zh": "按钮",
+      "ru": "кнопка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ボタン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ボタン"
     }
   },
   {
     "id": "ja_129",
+    "lang": "ja",
     "lemma": "ボールペン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ボールペン"
+    },
     "meanings": {
       "ko": "볼펜",
       "en": "ballpoint pen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ボールペン",
-      "zh": "",
-      "ru": ""
+      "de": "der Kugelschreiber",
+      "es": "el bolígrafo",
+      "fr": "le stylo à bille",
+      "it": "la penna a sfera",
+      "pt": "a caneta esferográfica",
+      "zh": "圆珠笔",
+      "ru": "шариковая ручка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ボールペン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ボールペン"
     }
   },
   {
     "id": "ja_130",
+    "lang": "ja",
     "lemma": "ポケット",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ポケット"
+    },
     "meanings": {
       "ko": "주머니",
       "en": "pocket",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ポケット",
-      "zh": "",
-      "ru": ""
+      "de": "die Tasche",
+      "es": "el bolsillo",
+      "fr": "la poche",
+      "it": "la tasca",
+      "pt": "o bolso",
+      "zh": "口袋",
+      "ru": "карман"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ポケット"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ポケット"
     }
   },
   {
     "id": "ja_131",
+    "lang": "ja",
     "lemma": "ポスト",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ポスト"
+    },
     "meanings": {
       "ko": "우체통",
       "en": "postbox",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ポスト",
-      "zh": "",
-      "ru": ""
+      "de": "der Briefkasten",
+      "es": "el buzón",
+      "fr": "la boîte aux lettres",
+      "it": "la cassetta delle lettere",
+      "pt": "a caixa de correio",
+      "zh": "邮筒",
+      "ru": "почтовый ящик"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ポスト"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ポスト"
     }
   },
   {
     "id": "ja_132",
+    "lang": "ja",
     "lemma": "マッチ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "マッチ"
+    },
     "meanings": {
       "ko": "성냥",
       "en": "match",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "マッチ",
-      "zh": "",
-      "ru": ""
+      "de": "das Streichholz",
+      "es": "el fósforo",
+      "fr": "l'allumette",
+      "it": "il fiammifero",
+      "pt": "o fósforo",
+      "zh": "火柴",
+      "ru": "спичка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "マッチ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "マッチ"
     }
   },
   {
     "id": "ja_133",
+    "lang": "ja",
     "lemma": "メートル",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "メートル"
+    },
     "meanings": {
       "ko": "미터",
       "en": "meter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "メートル",
-      "zh": "",
-      "ru": ""
+      "de": "der Meter",
+      "es": "el metro",
+      "fr": "le mètre",
+      "it": "il metro",
+      "pt": "o metro",
+      "zh": "米",
+      "ru": "метр"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "メートル"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "メートル"
     }
   },
   {
     "id": "ja_134",
+    "lang": "ja",
     "lemma": "ラジオ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ラジオ"
+    },
     "meanings": {
       "ko": "라디오",
       "en": "radio",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ラジオ",
-      "zh": "",
-      "ru": ""
+      "de": "das Radio",
+      "es": "la radio",
+      "fr": "la radio",
+      "it": "la radio",
+      "pt": "o rádio",
+      "zh": "收音机",
+      "ru": "радио"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ラジオ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ラジオ"
     }
   },
   {
     "id": "ja_135",
+    "lang": "ja",
     "lemma": "ラジオカセット",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ラジオカセット"
+    },
     "meanings": {
       "ko": "라디오 카세트",
       "en": "radio cassette",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ラジオカセット",
-      "zh": "",
-      "ru": ""
+      "de": "der Radiorekorder",
+      "es": "el radiocasete",
+      "fr": "le radiocassette",
+      "it": "il radiocassetta",
+      "pt": "o radiocassete",
+      "zh": "收录机",
+      "ru": "магнитола"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ラジオカセット"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ラジオカセット"
     }
   },
   {
     "id": "ja_136",
+    "lang": "ja",
     "lemma": "ラジカセ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ラジカセ"
+    },
     "meanings": {
       "ko": "라디오 카세트",
       "en": "boombox",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ラジカセ",
-      "zh": "",
-      "ru": ""
+      "de": "der Ghettoblaster",
+      "es": "el radiocasete",
+      "fr": "le radiocassette",
+      "it": "il radiocassetta",
+      "pt": "o radiocassete",
+      "zh": "收录机",
+      "ru": "магнитола"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ラジカセ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ラジカセ"
     }
   },
   {
     "id": "ja_137",
+    "lang": "ja",
     "lemma": "レコード",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "レコード"
+    },
     "meanings": {
       "ko": "레코드",
       "en": "record",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "レコード",
-      "zh": "",
-      "ru": ""
+      "de": "die Schallplatte",
+      "es": "el disco",
+      "fr": "le disque",
+      "it": "il disco",
+      "pt": "o disco",
+      "zh": "唱片",
+      "ru": "пластинка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "レコード"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "レコード"
     }
   },
   {
     "id": "ja_138",
+    "lang": "ja",
     "lemma": "レストラン",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "レストラン"
+    },
     "meanings": {
       "ko": "레스토랑",
       "en": "restaurant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "レストラン",
-      "zh": "",
-      "ru": ""
+      "de": "das Restaurant",
+      "es": "el restaurante",
+      "fr": "le restaurant",
+      "it": "il ristorante",
+      "pt": "o restaurante",
+      "zh": "餐厅",
+      "ru": "ресторан"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "レストラン"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "レストラン"
     }
   },
   {
     "id": "ja_139",
+    "lang": "ja",
     "lemma": "ワイシャツ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ワイシャツ"
+    },
     "meanings": {
       "ko": "와이셔츠",
       "en": "dress shirt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "ワイシャツ",
-      "zh": "",
-      "ru": ""
+      "de": "das Hemd",
+      "es": "la camisa",
+      "fr": "la chemise",
+      "it": "la camicia",
+      "pt": "a camisa",
+      "zh": "衬衫",
+      "ru": "рубашка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ワイシャツ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ワイシャツ"
     }
   },
   {
     "id": "ja_140",
+    "lang": "ja",
     "lemma": "一つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "ひとつ"
+    },
     "meanings": {
       "ko": "하나",
       "en": "one item",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一つ",
-      "zh": "",
-      "ru": ""
+      "de": "ein Stück",
+      "es": "uno",
+      "fr": "un",
+      "it": "uno",
+      "pt": "um",
+      "zh": "一个",
+      "ru": "один предмет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ひとつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ひとつ"
     }
   },
   {
     "id": "ja_141",
+    "lang": "ja",
     "lemma": "一人",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ひとり"
+    },
     "meanings": {
       "ko": "한 명",
       "en": "one person",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一人",
-      "zh": "",
-      "ru": ""
+      "de": "eine Person",
+      "es": "una persona",
+      "fr": "une personne",
+      "it": "una persona",
+      "pt": "uma pessoa",
+      "zh": "一个人",
+      "ru": "один человек"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ひとり"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ひとり"
     }
   },
   {
     "id": "ja_142",
+    "lang": "ja",
     "lemma": "一日",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いちにち"
+    },
     "meanings": {
       "ko": "하루",
       "en": "one day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一日",
-      "zh": "",
-      "ru": ""
+      "de": "ein Tag",
+      "es": "un día",
+      "fr": "un jour",
+      "it": "un giorno",
+      "pt": "um dia",
+      "zh": "一天",
+      "ru": "один день"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いちにち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いちにち"
     }
   },
   {
     "id": "ja_143",
+    "lang": "ja",
     "lemma": "一昨年",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ja": "おととし"
+    },
     "meanings": {
       "ko": "재작년",
       "en": "year before",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一昨年",
-      "zh": "",
-      "ru": ""
+      "de": "vorletztes Jahr",
+      "es": "el año pasado",
+      "fr": "l'année dernière",
+      "it": "l'anno scorso",
+      "pt": "o ano passado",
+      "zh": "前年",
+      "ru": "позапрошлый год"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "おととし"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おととし"
+      "ja_reading": "おととし",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "ja_144",
+    "lang": "ja",
     "lemma": "一昨日",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おととい"
+    },
     "meanings": {
       "ko": "그저께",
       "en": "day before",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一昨日",
-      "zh": "",
-      "ru": ""
+      "de": "vorgestern",
+      "es": "anteayer",
+      "fr": "avant-hier",
+      "it": "l'altro ieri",
+      "pt": "anteontem",
+      "zh": "前天",
+      "ru": "позавчера"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おととい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おととい"
     }
   },
   {
     "id": "ja_145",
+    "lang": "ja",
     "lemma": "一月",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ひとつき"
+    },
     "meanings": {
       "ko": "한 달",
       "en": "one month",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一月",
-      "zh": "",
-      "ru": ""
+      "de": "ein Monat",
+      "es": "un mes",
+      "fr": "un mois",
+      "it": "un mese",
+      "pt": "um mês",
+      "zh": "一个月",
+      "ru": "один месяц"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ひとつき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ひとつき"
     }
   },
   {
     "id": "ja_146",
+    "lang": "ja",
     "lemma": "一緒",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いっしょ"
+    },
     "meanings": {
       "ko": "함께",
       "en": "together",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "一緒",
-      "zh": "",
-      "ru": ""
+      "de": "zusammen",
+      "es": "juntos",
+      "fr": "ensemble",
+      "it": "insieme",
+      "pt": "juntos",
+      "zh": "一起",
+      "ru": "вместе"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いっしょ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いっしょ"
     }
   },
   {
     "id": "ja_147",
+    "lang": "ja",
     "lemma": "七つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "ななつ"
+    },
     "meanings": {
       "ko": "일곱 개",
       "en": "seven items",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "七つ",
-      "zh": "",
-      "ru": ""
+      "de": "sieben Stück",
+      "es": "siete",
+      "fr": "sept",
+      "it": "sette",
+      "pt": "sete",
+      "zh": "七个",
+      "ru": "семь предметов"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ななつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ななつ"
     }
   },
   {
     "id": "ja_148",
+    "lang": "ja",
     "lemma": "七日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "なのか"
+    },
     "meanings": {
       "ko": "7일",
       "en": "seventh day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "七日",
-      "zh": "",
-      "ru": ""
+      "de": "der siebte Tag",
+      "es": "el séptimo día",
+      "fr": "le septième jour",
+      "it": "il settimo giorno",
+      "pt": "o sétimo dia",
+      "zh": "七号",
+      "ru": "седьмое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "なのか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "なのか"
     }
   },
   {
     "id": "ja_149",
+    "lang": "ja",
     "lemma": "万年筆",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まんねんひつ"
+    },
     "meanings": {
       "ko": "만년필",
       "en": "fountain pen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "万年筆",
-      "zh": "",
-      "ru": ""
+      "de": "der Füllfederhalter",
+      "es": "la pluma estilográfica",
+      "fr": "le stylo-plume",
+      "it": "la penna stilografica",
+      "pt": "a caneta-tinteiro",
+      "zh": "钢笔",
+      "ru": "перьевая ручка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まんねんひつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まんねんひつ"
     }
   },
   {
     "id": "ja_150",
+    "lang": "ja",
     "lemma": "丈夫",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "튼튼한",
-      "en": "strong, durable",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "丈夫",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "じょうぶ"
-    },
     "reading": {
       "ja": "じょうぶ"
+    },
+    "meanings": {
+      "ko": "튼튼한",
+      "en": "strong",
+      "ja": "丈夫",
+      "de": "stark",
+      "es": "fuerte",
+      "fr": "solide",
+      "it": "robusto",
+      "pt": "forte",
+      "zh": "结实的",
+      "ru": "прочный"
+    },
+    "meta": {
+      "ja_reading": "じょうぶ"
     }
   },
   {
     "id": "ja_151",
+    "lang": "ja",
     "lemma": "三つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "みっつ"
+    },
     "meanings": {
       "ko": "세 개",
       "en": "three items",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "三つ",
-      "zh": "",
-      "ru": ""
+      "de": "drei Stück",
+      "es": "tres",
+      "fr": "trois",
+      "it": "tre",
+      "pt": "três",
+      "zh": "三个",
+      "ru": "три предмета"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みっつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "みっつ"
     }
   },
   {
     "id": "ja_152",
+    "lang": "ja",
     "lemma": "三日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "みっか"
+    },
     "meanings": {
       "ko": "3일",
       "en": "third day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "三日",
-      "zh": "",
-      "ru": ""
+      "de": "der dritte Tag",
+      "es": "el tercer día",
+      "fr": "le troisième jour",
+      "it": "il terzo giorno",
+      "pt": "o terceiro dia",
+      "zh": "三号",
+      "ru": "третье число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みっか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "みっか"
     }
   },
   {
     "id": "ja_153",
+    "lang": "ja",
     "lemma": "上げる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "올리다, 주다",
-      "en": "raise, give",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "上げる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あげる"
-    },
-    "infinitive": "上げる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "あげる"
+    },
+    "meanings": {
+      "ko": "올리다",
+      "en": "raise",
+      "ja": "上げる",
+      "de": "heben",
+      "es": "levantar",
+      "fr": "lever",
+      "it": "alzare",
+      "pt": "levantar",
+      "zh": "举起",
+      "ru": "поднимать"
+    },
+    "meta": {
+      "ja_reading": "あげる"
     }
   },
   {
     "id": "ja_154",
+    "lang": "ja",
     "lemma": "上手",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "じょうず"
+    },
     "meanings": {
       "ko": "능숙한",
       "en": "skillful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "上手",
-      "zh": "",
-      "ru": ""
+      "de": "geschickt",
+      "es": "hábil",
+      "fr": "habile",
+      "it": "abile",
+      "pt": "hábil",
+      "zh": "擅长",
+      "ru": "умелый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じょうず"
-    },
-    "reading": {
-      "ja": "じょうず"
     }
   },
   {
     "id": "ja_155",
+    "lang": "ja",
     "lemma": "上着",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "겉옷",
-      "en": "jacket, coat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "上着",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "うわぎ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "うわぎ"
+    },
+    "meanings": {
+      "ko": "겉옷",
+      "en": "jacket",
+      "ja": "上着",
+      "de": "die Jacke",
+      "es": "la chaqueta",
+      "fr": "la veste",
+      "it": "la giacca",
+      "pt": "o casaco",
+      "zh": "外套",
+      "ru": "куртка"
+    },
+    "meta": {
+      "ja_reading": "うわぎ"
     }
   },
   {
     "id": "ja_156",
+    "lang": "ja",
     "lemma": "下手",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "へた"
+    },
     "meanings": {
       "ko": "서투른",
       "en": "unskillful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "下手",
-      "zh": "",
-      "ru": ""
+      "de": "ungeschickt",
+      "es": "torpe",
+      "fr": "maladroit",
+      "it": "incapace",
+      "pt": "inábil",
+      "zh": "不擅长",
+      "ru": "неумелый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "へた"
-    },
-    "reading": {
-      "ja": "へた"
     }
   },
   {
     "id": "ja_157",
+    "lang": "ja",
     "lemma": "両親",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "りょうしん"
+    },
     "meanings": {
       "ko": "부모님",
       "en": "parents",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "両親",
-      "zh": "",
-      "ru": ""
+      "de": "die Eltern",
+      "es": "los padres",
+      "fr": "les parents",
+      "it": "i genitori",
+      "pt": "os pais",
+      "zh": "父母",
+      "ru": "родители"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "りょうしん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "りょうしん"
     }
   },
   {
     "id": "ja_158",
+    "lang": "ja",
     "lemma": "並ぶ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ならぶ"
+    },
     "meanings": {
       "ko": "줄 서다",
       "en": "line up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "並ぶ",
-      "zh": "",
-      "ru": ""
+      "de": "sich anstellen",
+      "es": "hacer cola",
+      "fr": "faire la queue",
+      "it": "mettersi in fila",
+      "pt": "fazer fila",
+      "zh": "排队",
+      "ru": "стоять в очереди"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ならぶ"
-    },
-    "infinitive": "並ぶ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "ならぶ"
     }
   },
   {
     "id": "ja_159",
+    "lang": "ja",
     "lemma": "並べる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "늘어놓다",
-      "en": "arrange, line",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "並べる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ならべる"
-    },
-    "infinitive": "並べる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ならべる"
+    },
+    "meanings": {
+      "ko": "늘어놓다",
+      "en": "arrange",
+      "ja": "並べる",
+      "de": "anordnen",
+      "es": "colocar",
+      "fr": "aligner",
+      "it": "disporre",
+      "pt": "arrumar",
+      "zh": "排列",
+      "ru": "расставлять"
+    },
+    "meta": {
+      "ja_reading": "ならべる"
     }
   },
   {
     "id": "ja_160",
+    "lang": "ja",
     "lemma": "丸い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "まるい"
+    },
     "meanings": {
       "ko": "둥글다",
       "en": "round",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "丸い",
-      "zh": "",
-      "ru": ""
+      "de": "rund",
+      "es": "redondo",
+      "fr": "rond",
+      "it": "rotondo",
+      "pt": "redondo",
+      "zh": "圆的",
+      "ru": "круглый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まるい"
-    },
-    "reading": {
-      "ja": "まるい"
     }
   },
   {
     "id": "ja_161",
+    "lang": "ja",
     "lemma": "乗る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "타다",
-      "en": "ride, get",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "乗る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "のる"
-    },
-    "infinitive": "乗る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "のる"
+    },
+    "meanings": {
+      "ko": "타다",
+      "en": "ride",
+      "ja": "乗る",
+      "de": "fahren",
+      "es": "subir",
+      "fr": "monter",
+      "it": "salire",
+      "pt": "embarcar",
+      "zh": "乘坐",
+      "ru": "садиться"
+    },
+    "meta": {
+      "ja_reading": "のる"
     }
   },
   {
     "id": "ja_162",
+    "lang": "ja",
     "lemma": "九つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ここのつ"
+    },
     "meanings": {
       "ko": "아홉 개",
       "en": "nine items",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "九つ",
-      "zh": "",
-      "ru": ""
+      "de": "neun Stück",
+      "es": "nueve",
+      "fr": "neuf",
+      "it": "nove",
+      "pt": "nove",
+      "zh": "九个",
+      "ru": "девять предметов"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ここのつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ここのつ"
     }
   },
   {
     "id": "ja_163",
+    "lang": "ja",
     "lemma": "九日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ここのか"
+    },
     "meanings": {
       "ko": "9일",
       "en": "ninth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "九日",
-      "zh": "",
-      "ru": ""
+      "de": "der neunte Tag",
+      "es": "el noveno día",
+      "fr": "le neuvième jour",
+      "it": "il nono giorno",
+      "pt": "o nono dia",
+      "zh": "九号",
+      "ru": "девятое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ここのか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ここのか"
     }
   },
   {
     "id": "ja_164",
+    "lang": "ja",
     "lemma": "二つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふたつ"
+    },
     "meanings": {
       "ko": "두 개",
       "en": "two items",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "二つ",
-      "zh": "",
-      "ru": ""
+      "de": "zwei Stück",
+      "es": "dos",
+      "fr": "deux",
+      "it": "due",
+      "pt": "dois",
+      "zh": "两个",
+      "ru": "два предмета"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふたつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ふたつ"
     }
   },
   {
     "id": "ja_165",
+    "lang": "ja",
     "lemma": "二人",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふたり"
+    },
     "meanings": {
       "ko": "두 명",
       "en": "two people",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "二人",
-      "zh": "",
-      "ru": ""
+      "de": "zwei Personen",
+      "es": "dos personas",
+      "fr": "deux personnes",
+      "it": "due persone",
+      "pt": "duas pessoas",
+      "zh": "两个人",
+      "ru": "два человека"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふたり"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ふたり"
     }
   },
   {
     "id": "ja_166",
+    "lang": "ja",
     "lemma": "二十日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はつか"
+    },
     "meanings": {
       "ko": "20일",
       "en": "twentieth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "二十日",
-      "zh": "",
-      "ru": ""
+      "de": "der zwanzigste Tag",
+      "es": "el vigésimo día",
+      "fr": "le vingtième jour",
+      "it": "il ventesimo giorno",
+      "pt": "o vigésimo dia",
+      "zh": "二十号",
+      "ru": "двадцатое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はつか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はつか"
     }
   },
   {
     "id": "ja_167",
+    "lang": "ja",
     "lemma": "二十歳",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
+    "reading": {
+      "ja": "はたち"
+    },
     "meanings": {
       "ko": "스무 살",
       "en": "twenty years old",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "二十歳",
-      "zh": "",
-      "ru": ""
+      "de": "zwanzig Jahre alt",
+      "es": "veinte años",
+      "fr": "vingt ans",
+      "it": "vent'anni",
+      "pt": "vinte anos",
+      "zh": "二十岁",
+      "ru": "двадцать лет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はたち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はたち"
     }
   },
   {
     "id": "ja_168",
+    "lang": "ja",
     "lemma": "二日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふつか"
+    },
     "meanings": {
       "ko": "이틀",
       "en": "second day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "二日",
-      "zh": "",
-      "ru": ""
+      "de": "der zweite Tag",
+      "es": "el segundo día",
+      "fr": "le deuxième jour",
+      "it": "il secondo giorno",
+      "pt": "o segundo dia",
+      "zh": "二号",
+      "ru": "второе число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふつか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ふつか"
     }
   },
   {
     "id": "ja_169",
+    "lang": "ja",
     "lemma": "五つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いつつ"
+    },
     "meanings": {
       "ko": "다섯 개",
       "en": "five items",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "五つ",
-      "zh": "",
-      "ru": ""
+      "de": "fünf Stück",
+      "es": "cinco",
+      "fr": "cinq",
+      "it": "cinque",
+      "pt": "cinco",
+      "zh": "五个",
+      "ru": "пять предметов"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いつつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いつつ"
     }
   },
   {
     "id": "ja_170",
+    "lang": "ja",
     "lemma": "五日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いつか"
+    },
     "meanings": {
       "ko": "5일",
       "en": "fifth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "五日",
-      "zh": "",
-      "ru": ""
+      "de": "der fünfte Tag",
+      "es": "el quinto día",
+      "fr": "le cinquième jour",
+      "it": "il quinto giorno",
+      "pt": "o quinto dia",
+      "zh": "五号",
+      "ru": "пятое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いつか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いつか"
     }
   },
   {
     "id": "ja_171",
+    "lang": "ja",
     "lemma": "交差点",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こうさてん"
+    },
     "meanings": {
       "ko": "교차로",
       "en": "intersection",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "交差点",
-      "zh": "",
-      "ru": ""
+      "de": "die Kreuzung",
+      "es": "el cruce",
+      "fr": "le carrefour",
+      "it": "l'incrocio",
+      "pt": "o cruzamento",
+      "zh": "十字路口",
+      "ru": "перекресток"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こうさてん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こうさてん"
     }
   },
   {
     "id": "ja_172",
+    "lang": "ja",
     "lemma": "交番",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こうばん"
+    },
     "meanings": {
       "ko": "파출소",
       "en": "police box",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "交番",
-      "zh": "",
-      "ru": ""
+      "de": "die Polizeiwache",
+      "es": "la comisaría",
+      "fr": "le poste de police",
+      "it": "la stazione di polizia",
+      "pt": "o posto policial",
+      "zh": "派出所",
+      "ru": "полицейский участок"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こうばん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こうばん"
     }
   },
   {
     "id": "ja_173",
+    "lang": "ja",
     "lemma": "今年",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ことし"
+    },
     "meanings": {
       "ko": "올해",
       "en": "this year",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今年",
-      "zh": "",
-      "ru": ""
+      "de": "dieses Jahr",
+      "es": "este año",
+      "fr": "cette année",
+      "it": "quest'anno",
+      "pt": "este ano",
+      "zh": "今年",
+      "ru": "этот год"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ことし"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ことし"
     }
   },
   {
     "id": "ja_174",
+    "lang": "ja",
     "lemma": "今日",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きょう"
+    },
     "meanings": {
       "ko": "오늘",
       "en": "today",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今日",
-      "zh": "",
-      "ru": ""
+      "de": "heute",
+      "es": "hoy",
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "pt": "hoje",
+      "zh": "今天",
+      "ru": "сегодня"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きょう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きょう"
     }
   },
   {
     "id": "ja_175",
+    "lang": "ja",
     "lemma": "今晩",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "こんばん"
+    },
     "meanings": {
       "ko": "오늘 밤",
       "en": "tonight",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今晩",
-      "zh": "",
-      "ru": ""
+      "de": "heute Abend",
+      "es": "esta noche",
+      "fr": "ce soir",
+      "it": "stasera",
+      "pt": "esta noite",
+      "zh": "今晚",
+      "ru": "сегодня вечером"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こんばん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こんばん"
     }
   },
   {
     "id": "ja_176",
+    "lang": "ja",
     "lemma": "今月",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "こんげつ"
+    },
     "meanings": {
       "ko": "이번 달",
       "en": "this month",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今月",
-      "zh": "",
-      "ru": ""
+      "de": "dieser Monat",
+      "es": "este mes",
+      "fr": "ce mois-ci",
+      "it": "questo mese",
+      "pt": "este mês",
+      "zh": "这个月",
+      "ru": "этот месяц"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こんげつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こんげつ"
     }
   },
   {
     "id": "ja_177",
+    "lang": "ja",
     "lemma": "今朝",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "けさ"
+    },
     "meanings": {
       "ko": "오늘 아침",
       "en": "this morning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今朝",
-      "zh": "",
-      "ru": ""
+      "de": "heute Morgen",
+      "es": "esta mañana",
+      "fr": "ce matin",
+      "it": "stamattina",
+      "pt": "esta manhã",
+      "zh": "今天早上",
+      "ru": "сегодня утром"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "けさ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "けさ"
     }
   },
   {
     "id": "ja_178",
+    "lang": "ja",
     "lemma": "今週",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "こんしゅう"
+    },
     "meanings": {
       "ko": "이번 주",
       "en": "this week",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "今週",
-      "zh": "",
-      "ru": ""
+      "de": "diese Woche",
+      "es": "esta semana",
+      "fr": "cette semaine",
+      "it": "questa settimana",
+      "pt": "esta semana",
+      "zh": "这周",
+      "ru": "эта неделя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こんしゅう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こんしゅう"
     }
   },
   {
     "id": "ja_179",
+    "lang": "ja",
     "lemma": "仕事",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "일",
-      "en": "work, job",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "仕事",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "しごと"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "しごと"
+    },
+    "meanings": {
+      "ko": "일",
+      "en": "work",
+      "ja": "仕事",
+      "de": "die Arbeit",
+      "es": "el trabajo",
+      "fr": "le travail",
+      "it": "il lavoro",
+      "pt": "o trabalho",
+      "zh": "工作",
+      "ru": "работа"
+    },
+    "meta": {
+      "ja_reading": "しごと"
     }
   },
   {
     "id": "ja_180",
+    "lang": "ja",
     "lemma": "休み",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "휴식, 휴일",
-      "en": "rest, holiday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "休み",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "やすみ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "やすみ"
+    },
+    "meanings": {
+      "ko": "휴식",
+      "en": "rest",
+      "ja": "休み",
+      "de": "die Pause",
+      "es": "el descanso",
+      "fr": "le repos",
+      "it": "il riposo",
+      "pt": "o descanso",
+      "zh": "休息",
+      "ru": "отдых"
+    },
+    "meta": {
+      "ja_reading": "やすみ"
     }
   },
   {
     "id": "ja_181",
+    "lang": "ja",
     "lemma": "休む",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "やすむ"
+    },
     "meanings": {
       "ko": "쉬다",
       "en": "rest",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "休む",
-      "zh": "",
-      "ru": ""
+      "de": "sich ausruhen",
+      "es": "descansar",
+      "fr": "se reposer",
+      "it": "riposare",
+      "pt": "descansar",
+      "zh": "休息",
+      "ru": "отдыхать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "やすむ"
-    },
-    "infinitive": "休む",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "やすむ"
     }
   },
   {
     "id": "ja_182",
+    "lang": "ja",
     "lemma": "会う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "あう"
+    },
     "meanings": {
       "ko": "만나다",
       "en": "meet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "会う",
-      "zh": "",
-      "ru": ""
+      "de": "treffen",
+      "es": "encontrarse",
+      "fr": "rencontrer",
+      "it": "incontrare",
+      "pt": "encontrar",
+      "zh": "见面",
+      "ru": "встречаться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あう"
-    },
-    "infinitive": "会う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "あう"
     }
   },
   {
     "id": "ja_183",
+    "lang": "ja",
     "lemma": "会社",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ja": "かいしゃ"
+    },
     "meanings": {
       "ko": "회사",
       "en": "company",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "会社",
-      "zh": "",
-      "ru": ""
+      "de": "die Firma",
+      "es": "la empresa",
+      "fr": "l'entreprise",
+      "it": "l'azienda",
+      "pt": "a empresa",
+      "zh": "公司",
+      "ru": "компания"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かいしゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かいしゃ"
     }
   },
   {
     "id": "ja_184",
+    "lang": "ja",
     "lemma": "伯母さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "아주머니, 이모",
-      "en": "aunt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "伯母さん",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おばさん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "おばさん"
+    },
+    "meanings": {
+      "ko": "아주머니",
+      "en": "aunt",
+      "ja": "伯母さん",
+      "de": "die Tante",
+      "es": "la tía",
+      "fr": "la tante",
+      "it": "la zia",
+      "pt": "a tia",
+      "zh": "阿姨",
+      "ru": "тетя"
+    },
+    "meta": {
+      "ja_reading": "おばさん"
     }
   },
   {
     "id": "ja_185",
+    "lang": "ja",
     "lemma": "低い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "낮은",
-      "en": "low, short",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "低い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ひくい"
-    },
     "reading": {
       "ja": "ひくい"
+    },
+    "meanings": {
+      "ko": "낮은",
+      "en": "low",
+      "ja": "低い",
+      "de": "niedrig",
+      "es": "bajo",
+      "fr": "bas",
+      "it": "basso",
+      "pt": "baixo",
+      "zh": "低的",
+      "ru": "низкий"
+    },
+    "meta": {
+      "ja_reading": "ひくい"
     }
   },
   {
     "id": "ja_186",
+    "lang": "ja",
     "lemma": "住む",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "살다",
-      "en": "live, reside",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "住む",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "すむ"
-    },
-    "infinitive": "住む",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "すむ"
+    },
+    "meanings": {
+      "ko": "살다",
+      "en": "live",
+      "ja": "住む",
+      "de": "wohnen",
+      "es": "vivir",
+      "fr": "habiter",
+      "it": "abitare",
+      "pt": "morar",
+      "zh": "居住",
+      "ru": "жить"
+    },
+    "meta": {
+      "ja_reading": "すむ"
     }
   },
   {
     "id": "ja_187",
+    "lang": "ja",
     "lemma": "作る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "만들다",
-      "en": "make, produce",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "作る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "つくる"
-    },
-    "infinitive": "作る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "つくる"
+    },
+    "meanings": {
+      "ko": "만들다",
+      "en": "make",
+      "ja": "作る",
+      "de": "machen",
+      "es": "hacer",
+      "fr": "faire",
+      "it": "fare",
+      "pt": "fazer",
+      "zh": "制作",
+      "ru": "делать"
+    },
+    "meta": {
+      "ja_reading": "つくる"
     }
   },
   {
     "id": "ja_188",
+    "lang": "ja",
     "lemma": "作文",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "작문",
-      "en": "composition, essay",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "作文",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "さくぶん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "さくぶん"
+    },
+    "meanings": {
+      "ko": "작문",
+      "en": "composition",
+      "ja": "作文",
+      "de": "der Aufsatz",
+      "es": "la redacción",
+      "fr": "la rédaction",
+      "it": "il tema",
+      "pt": "a redação",
+      "zh": "作文",
+      "ru": "сочинение"
+    },
+    "meta": {
+      "ja_reading": "さくぶん"
     }
   },
   {
     "id": "ja_189",
+    "lang": "ja",
     "lemma": "使う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "つかう"
+    },
     "meanings": {
       "ko": "사용하다",
       "en": "use",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "使う",
-      "zh": "",
-      "ru": ""
+      "de": "benutzen",
+      "es": "usar",
+      "fr": "utiliser",
+      "it": "usare",
+      "pt": "usar",
+      "zh": "使用",
+      "ru": "использовать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "つかう"
-    },
-    "infinitive": "使う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "つかう"
     }
   },
   {
     "id": "ja_190",
+    "lang": "ja",
     "lemma": "便利",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "べんり"
+    },
     "meanings": {
       "ko": "편리한",
       "en": "convenient",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "便利",
-      "zh": "",
-      "ru": ""
+      "de": "praktisch",
+      "es": "conveniente",
+      "fr": "pratique",
+      "it": "comodo",
+      "pt": "conveniente",
+      "zh": "方便的",
+      "ru": "удобный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "べんり"
-    },
-    "reading": {
-      "ja": "べんり"
     }
   },
   {
     "id": "ja_191",
+    "lang": "ja",
     "lemma": "借りる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かりる"
+    },
     "meanings": {
       "ko": "빌리다",
       "en": "borrow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "借りる",
-      "zh": "",
-      "ru": ""
+      "de": "leihen",
+      "es": "pedir prestado",
+      "fr": "emprunter",
+      "it": "prendere in prestito",
+      "pt": "pegar emprestado",
+      "zh": "借",
+      "ru": "брать в долг"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かりる"
-    },
-    "infinitive": "借りる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "かりる"
     }
   },
   {
     "id": "ja_192",
+    "lang": "ja",
     "lemma": "働く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "はたらく"
+    },
     "meanings": {
       "ko": "일하다",
       "en": "work",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "働く",
-      "zh": "",
-      "ru": ""
+      "de": "arbeiten",
+      "es": "trabajar",
+      "fr": "travailler",
+      "it": "lavorare",
+      "pt": "trabalhar",
+      "zh": "工作",
+      "ru": "работать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はたらく"
-    },
-    "infinitive": "働く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "はたらく"
     }
   },
   {
     "id": "ja_193",
+    "lang": "ja",
     "lemma": "元気",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "건강한, 활기찬",
-      "en": "healthy, energetic",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "元気",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "げんき"
-    },
     "reading": {
       "ja": "げんき"
+    },
+    "meanings": {
+      "ko": "건강한",
+      "en": "healthy",
+      "ja": "元気",
+      "de": "gesund",
+      "es": "sano",
+      "fr": "en forme",
+      "it": "in salute",
+      "pt": "saudável",
+      "zh": "健康的",
+      "ru": "здоровый"
+    },
+    "meta": {
+      "ja_reading": "げんき"
     }
   },
   {
     "id": "ja_194",
+    "lang": "ja",
     "lemma": "兄弟",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きょうだい"
+    },
     "meanings": {
       "ko": "형제",
       "en": "siblings",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "兄弟",
-      "zh": "",
-      "ru": ""
+      "de": "die Geschwister",
+      "es": "los hermanos",
+      "fr": "les frères et sœurs",
+      "it": "i fratelli",
+      "pt": "os irmãos",
+      "zh": "兄弟姐妹",
+      "ru": "братья и сестры"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きょうだい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きょうだい"
     }
   },
   {
     "id": "ja_195",
+    "lang": "ja",
     "lemma": "先月",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "せんげつ"
+    },
     "meanings": {
       "ko": "지난달",
       "en": "last month",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "先月",
-      "zh": "",
-      "ru": ""
+      "de": "der letzte Monat",
+      "es": "el mes pasado",
+      "fr": "le mois dernier",
+      "it": "il mese scorso",
+      "pt": "o mês passado",
+      "zh": "上个月",
+      "ru": "прошлый месяц"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せんげつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せんげつ"
     }
   },
   {
     "id": "ja_196",
+    "lang": "ja",
     "lemma": "先生",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "せんせい"
+    },
     "meanings": {
       "ko": "선생님",
       "en": "teacher",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "先生",
-      "zh": "",
-      "ru": ""
+      "de": "der Lehrer",
+      "es": "el profesor",
+      "fr": "le professeur",
+      "it": "il professore",
+      "pt": "o professor",
+      "zh": "老师",
+      "ru": "учитель"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せんせい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せんせい"
     }
   },
   {
     "id": "ja_197",
+    "lang": "ja",
     "lemma": "先週",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "せんしゅう"
+    },
     "meanings": {
       "ko": "지난주",
       "en": "last week",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "先週",
-      "zh": "",
-      "ru": ""
+      "de": "die letzte Woche",
+      "es": "la semana pasada",
+      "fr": "la semaine dernière",
+      "it": "la settimana scorsa",
+      "pt": "a semana passada",
+      "zh": "上周",
+      "ru": "прошлая неделя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せんしゅう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せんしゅう"
     }
   },
   {
     "id": "ja_198",
+    "lang": "ja",
     "lemma": "入る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はいる"
+    },
     "meanings": {
       "ko": "들어가다",
       "en": "enter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "入る",
-      "zh": "",
-      "ru": ""
+      "de": "eintreten",
+      "es": "entrar",
+      "fr": "entrer",
+      "it": "entrare",
+      "pt": "entrar",
+      "zh": "进入",
+      "ru": "входить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はいる"
-    },
-    "infinitive": "入る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "はいる"
     }
   },
   {
     "id": "ja_199",
+    "lang": "ja",
     "lemma": "入れる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いれる"
+    },
     "meanings": {
       "ko": "넣다",
       "en": "put in",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "入れる",
-      "zh": "",
-      "ru": ""
+      "de": "hineintun",
+      "es": "meter",
+      "fr": "mettre",
+      "it": "mettere dentro",
+      "pt": "colocar",
+      "zh": "放入",
+      "ru": "класть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いれる"
-    },
-    "infinitive": "入れる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "いれる"
     }
   },
   {
     "id": "ja_200",
+    "lang": "ja",
     "lemma": "入口",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いりぐち"
+    },
     "meanings": {
       "ko": "입구",
       "en": "entrance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "入口",
-      "zh": "",
-      "ru": ""
+      "de": "der Eingang",
+      "es": "la entrada",
+      "fr": "l'entrée",
+      "it": "l'ingresso",
+      "pt": "a entrada",
+      "zh": "入口",
+      "ru": "вход"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いりぐち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いりぐち"
     }
   },
   {
     "id": "ja_201",
+    "lang": "ja",
     "lemma": "全部",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぜんぶ"
+    },
     "meanings": {
       "ko": "전부",
       "en": "all",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "全部",
-      "zh": "",
-      "ru": ""
+      "de": "alles",
+      "es": "todo",
+      "fr": "le tout",
+      "it": "tutto",
+      "pt": "tudo",
+      "zh": "全部",
+      "ru": "всё"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "ぜんぶ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ぜんぶ"
+      "ja_reading": "ぜんぶ",
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ja_202",
+    "lang": "ja",
     "lemma": "八つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "やっつ"
+    },
     "meanings": {
       "ko": "여덟 개",
       "en": "eight things",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "八つ",
-      "zh": "",
-      "ru": ""
+      "de": "acht Stück",
+      "es": "ocho cosas",
+      "fr": "huit choses",
+      "it": "otto cose",
+      "pt": "oito coisas",
+      "zh": "八个",
+      "ru": "восемь штук"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "やっつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "やっつ"
     }
   },
   {
     "id": "ja_203",
+    "lang": "ja",
     "lemma": "八日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ようか"
+    },
     "meanings": {
       "ko": "8일",
       "en": "eighth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "八日",
-      "zh": "",
-      "ru": ""
+      "de": "der achte Tag",
+      "es": "el octavo día",
+      "fr": "le huitième jour",
+      "it": "l'ottavo giorno",
+      "pt": "o oitavo dia",
+      "zh": "八日",
+      "ru": "восьмое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ようか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ようか"
     }
   },
   {
     "id": "ja_204",
+    "lang": "ja",
     "lemma": "八百屋",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "やおや"
+    },
     "meanings": {
       "ko": "야채 가게",
       "en": "greengrocer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "八百屋",
-      "zh": "",
-      "ru": ""
+      "de": "der Gemüsehändler",
+      "es": "la verdulería",
+      "fr": "le marchand de légumes",
+      "it": "il fruttivendolo",
+      "pt": "o verdureiro",
+      "zh": "蔬菜店",
+      "ru": "овощной магазин"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "やおや"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "やおや"
     }
   },
   {
     "id": "ja_205",
+    "lang": "ja",
     "lemma": "公園",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こうえん"
+    },
     "meanings": {
       "ko": "공원",
       "en": "park",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "公園",
-      "zh": "",
-      "ru": ""
+      "de": "der Park",
+      "es": "el parque",
+      "fr": "le parc",
+      "it": "il parco",
+      "pt": "o parque",
+      "zh": "公园",
+      "ru": "парк"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こうえん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こうえん"
     }
   },
   {
     "id": "ja_206",
+    "lang": "ja",
     "lemma": "六つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "むっつ"
+    },
     "meanings": {
       "ko": "여섯 개",
       "en": "six things",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "六つ",
-      "zh": "",
-      "ru": ""
+      "de": "sechs Stück",
+      "es": "seis cosas",
+      "fr": "six choses",
+      "it": "sei cose",
+      "pt": "seis coisas",
+      "zh": "六个",
+      "ru": "шесть штук"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "むっつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "むっつ"
     }
   },
   {
     "id": "ja_207",
+    "lang": "ja",
     "lemma": "六日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "むいか"
+    },
     "meanings": {
       "ko": "6일",
       "en": "sixth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "六日",
-      "zh": "",
-      "ru": ""
+      "de": "der sechste Tag",
+      "es": "el sexto día",
+      "fr": "le sixième jour",
+      "it": "il sesto giorno",
+      "pt": "o sexto dia",
+      "zh": "六日",
+      "ru": "шестое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "むいか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "むいか"
     }
   },
   {
     "id": "ja_208",
+    "lang": "ja",
     "lemma": "写真",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しゃしん"
+    },
     "meanings": {
       "ko": "사진",
       "en": "photo",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "写真",
-      "zh": "",
-      "ru": ""
+      "de": "das Foto",
+      "es": "la foto",
+      "fr": "la photo",
+      "it": "la foto",
+      "pt": "a foto",
+      "zh": "照片",
+      "ru": "фотография"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しゃしん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しゃしん"
     }
   },
   {
     "id": "ja_209",
+    "lang": "ja",
     "lemma": "冷たい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "つめたい"
+    },
     "meanings": {
       "ko": "차갑다",
       "en": "cold",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "冷たい",
-      "zh": "",
-      "ru": ""
+      "de": "kalt",
+      "es": "frío",
+      "fr": "froid",
+      "it": "freddo",
+      "pt": "frio",
+      "zh": "冰冷的",
+      "ru": "холодный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "つめたい"
-    },
-    "reading": {
-      "ja": "つめたい"
     }
   },
   {
     "id": "ja_210",
+    "lang": "ja",
     "lemma": "冷蔵庫",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "れいぞうこ"
+    },
     "meanings": {
       "ko": "냉장고",
       "en": "refrigerator",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "冷蔵庫",
-      "zh": "",
-      "ru": ""
+      "de": "der Kühlschrank",
+      "es": "el refrigerador",
+      "fr": "le réfrigérateur",
+      "it": "il frigorifero",
+      "pt": "o refrigerador",
+      "zh": "冰箱",
+      "ru": "холодильник"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "れいぞうこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "れいぞうこ"
     }
   },
   {
     "id": "ja_211",
+    "lang": "ja",
     "lemma": "出かける",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "でかける"
+    },
     "meanings": {
       "ko": "외출하다",
       "en": "go out",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "出かける",
-      "zh": "",
-      "ru": ""
+      "de": "ausgehen",
+      "es": "salir",
+      "fr": "sortir",
+      "it": "uscire",
+      "pt": "sair",
+      "zh": "出门",
+      "ru": "выходить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "でかける"
-    },
-    "infinitive": "出かける",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "でかける"
     }
   },
   {
     "id": "ja_212",
+    "lang": "ja",
     "lemma": "出す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "だす"
+    },
     "meanings": {
       "ko": "내다",
       "en": "take out",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "出す",
-      "zh": "",
-      "ru": ""
+      "de": "herausnehmen",
+      "es": "sacar",
+      "fr": "sortir",
+      "it": "tirare fuori",
+      "pt": "tirar",
+      "zh": "取出",
+      "ru": "вынимать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "だす"
-    },
-    "infinitive": "出す",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "だす"
     }
   },
   {
     "id": "ja_213",
+    "lang": "ja",
     "lemma": "出る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "でる"
+    },
     "meanings": {
       "ko": "나가다",
       "en": "go out",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "出る",
-      "zh": "",
-      "ru": ""
+      "de": "hinausgehen",
+      "es": "salir",
+      "fr": "sortir",
+      "it": "uscire",
+      "pt": "sair",
+      "zh": "出去",
+      "ru": "выходить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "でる"
-    },
-    "infinitive": "出る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "でる"
     }
   },
   {
     "id": "ja_214",
+    "lang": "ja",
     "lemma": "出口",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "でぐち"
+    },
     "meanings": {
       "ko": "출구",
       "en": "exit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "出口",
-      "zh": "",
-      "ru": ""
+      "de": "der Ausgang",
+      "es": "la salida",
+      "fr": "la sortie",
+      "it": "l'uscita",
+      "pt": "a saída",
+      "zh": "出口",
+      "ru": "выход"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "でぐち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "でぐち"
     }
   },
   {
     "id": "ja_215",
+    "lang": "ja",
     "lemma": "分かる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "이해하다, 알다",
-      "en": "understand",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "分かる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "わかる"
-    },
-    "infinitive": "分かる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "わかる"
+    },
+    "meanings": {
+      "ko": "이해하다",
+      "en": "understand",
+      "ja": "分かる",
+      "de": "verstehen",
+      "es": "entender",
+      "fr": "comprendre",
+      "it": "capire",
+      "pt": "entender",
+      "zh": "明白",
+      "ru": "понимать"
+    },
+    "meta": {
+      "ja_reading": "わかる"
     }
   },
   {
     "id": "ja_216",
+    "lang": "ja",
     "lemma": "切る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きる"
+    },
     "meanings": {
       "ko": "자르다",
       "en": "cut",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "切る",
-      "zh": "",
-      "ru": ""
+      "de": "schneiden",
+      "es": "cortar",
+      "fr": "couper",
+      "it": "tagliare",
+      "pt": "cortar",
+      "zh": "切",
+      "ru": "резать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きる"
-    },
-    "infinitive": "切る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "きる"
     }
   },
   {
     "id": "ja_217",
+    "lang": "ja",
     "lemma": "切手",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "きって"
+    },
     "meanings": {
       "ko": "우표",
       "en": "stamp",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "切手",
-      "zh": "",
-      "ru": ""
+      "de": "die Briefmarke",
+      "es": "el sello",
+      "fr": "le timbre",
+      "it": "il francobollo",
+      "pt": "o selo",
+      "zh": "邮票",
+      "ru": "почтовая марка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きって"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きって"
     }
   },
   {
     "id": "ja_218",
+    "lang": "ja",
     "lemma": "切符",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "きっぷ"
+    },
     "meanings": {
       "ko": "표",
       "en": "ticket",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "切符",
-      "zh": "",
-      "ru": ""
+      "de": "die Fahrkarte",
+      "es": "el billete",
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pt": "o bilhete",
+      "zh": "票",
+      "ru": "билет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きっぷ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きっぷ"
     }
   },
   {
     "id": "ja_219",
+    "lang": "ja",
     "lemma": "初め",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はじめ"
+    },
     "meanings": {
       "ko": "처음",
       "en": "beginning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "初め",
-      "zh": "",
-      "ru": ""
+      "de": "der Anfang",
+      "es": "el principio",
+      "fr": "le début",
+      "it": "l'inizio",
+      "pt": "o começo",
+      "zh": "开始",
+      "ru": "начало"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はじめ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はじめ"
     }
   },
   {
     "id": "ja_220",
+    "lang": "ja",
     "lemma": "勉強",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "べんきょう"
+    },
     "meanings": {
       "ko": "공부",
       "en": "study",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "勉強",
-      "zh": "",
-      "ru": ""
+      "de": "das Studium",
+      "es": "el estudio",
+      "fr": "l'étude",
+      "it": "lo studio",
+      "pt": "o estudo",
+      "zh": "学习",
+      "ru": "учёба"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "べんきょう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "べんきょう"
     }
   },
   {
     "id": "ja_221",
+    "lang": "ja",
     "lemma": "動物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "どうぶつ"
+    },
     "meanings": {
       "ko": "동물",
       "en": "animal",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "動物",
-      "zh": "",
-      "ru": ""
+      "de": "das Tier",
+      "es": "el animal",
+      "fr": "l'animal",
+      "it": "l'animale",
+      "pt": "o animal",
+      "zh": "动物",
+      "ru": "животное"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "どうぶつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "どうぶつ"
     }
   },
   {
     "id": "ja_222",
+    "lang": "ja",
     "lemma": "勤める",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "つとめる"
+    },
     "meanings": {
       "ko": "근무하다",
       "en": "work for",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "勤める",
-      "zh": "",
-      "ru": ""
+      "de": "arbeiten",
+      "es": "trabajar para",
+      "fr": "travailler pour",
+      "it": "lavorare per",
+      "pt": "trabalhar para",
+      "zh": "工作",
+      "ru": "работать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "つとめる"
-    },
-    "infinitive": "勤める",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "つとめる"
     }
   },
   {
     "id": "ja_223",
+    "lang": "ja",
     "lemma": "医者",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いしゃ"
+    },
     "meanings": {
       "ko": "의사",
       "en": "doctor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "医者",
-      "zh": "",
-      "ru": ""
+      "de": "der Arzt",
+      "es": "el médico",
+      "fr": "le médecin",
+      "it": "il medico",
+      "pt": "o médico",
+      "zh": "医生",
+      "ru": "врач"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いしゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "いしゃ"
     }
   },
   {
     "id": "ja_224",
+    "lang": "ja",
     "lemma": "十日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "とおか"
+    },
     "meanings": {
       "ko": "10일",
       "en": "tenth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "十日",
-      "zh": "",
-      "ru": ""
+      "de": "der zehnte Tag",
+      "es": "el décimo día",
+      "fr": "le dixième jour",
+      "it": "il decimo giorno",
+      "pt": "o décimo dia",
+      "zh": "十日",
+      "ru": "десятое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "とおか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "とおか"
     }
   },
   {
     "id": "ja_225",
+    "lang": "ja",
     "lemma": "午前",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ごぜん"
+    },
     "meanings": {
       "ko": "오전",
       "en": "morning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "午前",
-      "zh": "",
-      "ru": ""
+      "de": "der Vormittag",
+      "es": "la mañana",
+      "fr": "le matin",
+      "it": "la mattina",
+      "pt": "a manhã",
+      "zh": "上午",
+      "ru": "утро"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ごぜん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ごぜん"
     }
   },
   {
     "id": "ja_226",
+    "lang": "ja",
     "lemma": "午後",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ごご"
+    },
     "meanings": {
       "ko": "오후",
       "en": "afternoon",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "午後",
-      "zh": "",
-      "ru": ""
+      "de": "der Nachmittag",
+      "es": "la tarde",
+      "fr": "l'après-midi",
+      "it": "il pomeriggio",
+      "pt": "a tarde",
+      "zh": "下午",
+      "ru": "после полудня"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ごご"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ごご"
     }
   },
   {
     "id": "ja_227",
+    "lang": "ja",
     "lemma": "半分",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はんぶん"
+    },
     "meanings": {
       "ko": "절반",
       "en": "half",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "半分",
-      "zh": "",
-      "ru": ""
+      "de": "die Hälfte",
+      "es": "la mitad",
+      "fr": "la moitié",
+      "it": "la metà",
+      "pt": "a metade",
+      "zh": "一半",
+      "ru": "половина"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はんぶん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はんぶん"
     }
   },
   {
     "id": "ja_228",
+    "lang": "ja",
     "lemma": "危ない",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あぶない"
+    },
     "meanings": {
       "ko": "위험하다",
       "en": "dangerous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "危ない",
-      "zh": "",
-      "ru": ""
+      "de": "gefährlich",
+      "es": "peligroso",
+      "fr": "dangereux",
+      "it": "pericoloso",
+      "pt": "perigoso",
+      "zh": "危险的",
+      "ru": "опасный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あぶない"
-    },
-    "reading": {
-      "ja": "あぶない"
     }
   },
   {
     "id": "ja_229",
+    "lang": "ja",
     "lemma": "去年",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きょねん"
+    },
     "meanings": {
       "ko": "작년",
       "en": "last year",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "去年",
-      "zh": "",
-      "ru": ""
+      "de": "letztes Jahr",
+      "es": "el año pasado",
+      "fr": "l'année dernière",
+      "it": "l'anno scorso",
+      "pt": "o ano passado",
+      "zh": "去年",
+      "ru": "прошлый год"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "きょねん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きょねん"
+      "ja_reading": "きょねん",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "ja_230",
+    "lang": "ja",
     "lemma": "友達",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "ともだち"
+    },
     "meanings": {
       "ko": "친구",
       "en": "friend",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "友達",
-      "zh": "",
-      "ru": ""
+      "de": "der Freund",
+      "es": "el amigo",
+      "fr": "l'ami",
+      "it": "l'amico",
+      "pt": "o amigo",
+      "zh": "朋友",
+      "ru": "друг"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ともだち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ともだち"
     }
   },
   {
     "id": "ja_231",
+    "lang": "ja",
     "lemma": "叔母さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おばさん"
+    },
     "meanings": {
       "ko": "아주머니",
       "en": "aunt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "叔母さん",
-      "zh": "",
-      "ru": ""
+      "de": "die Tante",
+      "es": "la tía",
+      "fr": "la tante",
+      "it": "la zia",
+      "pt": "a tia",
+      "zh": "阿姨",
+      "ru": "тётя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おばさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おばさん"
     }
   },
   {
     "id": "ja_232",
+    "lang": "ja",
     "lemma": "取る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "とる"
+    },
     "meanings": {
       "ko": "잡다",
       "en": "take",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "取る",
-      "zh": "",
-      "ru": ""
+      "de": "nehmen",
+      "es": "tomar",
+      "fr": "prendre",
+      "it": "prendere",
+      "pt": "pegar",
+      "zh": "拿",
+      "ru": "брать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "とる"
-    },
-    "infinitive": "取る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "とる"
     }
   },
   {
     "id": "ja_233",
+    "lang": "ja",
     "lemma": "古い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "오래되다, 낡다",
-      "en": "old",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "古い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ふるい"
-    },
     "reading": {
       "ja": "ふるい"
+    },
+    "meanings": {
+      "ko": "오래되다",
+      "en": "old",
+      "ja": "古い",
+      "de": "alt",
+      "es": "viejo",
+      "fr": "vieux",
+      "it": "vecchio",
+      "pt": "velho",
+      "zh": "旧的",
+      "ru": "старый"
+    },
+    "meta": {
+      "ja_reading": "ふるい"
     }
   },
   {
     "id": "ja_234",
+    "lang": "ja",
     "lemma": "台所",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "だいどころ"
+    },
     "meanings": {
       "ko": "부엌",
       "en": "kitchen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "台所",
-      "zh": "",
-      "ru": ""
+      "de": "die Küche",
+      "es": "la cocina",
+      "fr": "la cuisine",
+      "it": "la cucina",
+      "pt": "a cozinha",
+      "zh": "厨房",
+      "ru": "кухня"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "だいどころ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "だいどころ"
     }
   },
   {
     "id": "ja_235",
+    "lang": "ja",
     "lemma": "同じ",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おなじ"
+    },
     "meanings": {
       "ko": "같다",
       "en": "same",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "同じ",
-      "zh": "",
-      "ru": ""
+      "de": "gleich",
+      "es": "igual",
+      "fr": "même",
+      "it": "stesso",
+      "pt": "o mesmo",
+      "zh": "相同",
+      "ru": "одинаковый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おなじ"
-    },
-    "reading": {
-      "ja": "おなじ"
     }
   },
   {
     "id": "ja_236",
+    "lang": "ja",
     "lemma": "名前",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "なまえ"
+    },
     "meanings": {
       "ko": "이름",
       "en": "name",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "名前",
-      "zh": "",
-      "ru": ""
+      "de": "der Name",
+      "es": "el nombre",
+      "fr": "le nom",
+      "it": "il nome",
+      "pt": "o nome",
+      "zh": "名字",
+      "ru": "имя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "なまえ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "なまえ"
     }
   },
   {
     "id": "ja_237",
+    "lang": "ja",
     "lemma": "向こう",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "저쪽, 맞은편",
-      "en": "over there",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "向こう",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "むこう"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "むこう"
+    },
+    "meanings": {
+      "ko": "저쪽",
+      "en": "over there",
+      "ja": "向こう",
+      "de": "drüben",
+      "es": "allí",
+      "fr": "là-bas",
+      "it": "là",
+      "pt": "lá",
+      "zh": "对面",
+      "ru": "там"
+    },
+    "meta": {
+      "ja_reading": "むこう"
     }
   },
   {
     "id": "ja_238",
+    "lang": "ja",
     "lemma": "吸う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "すう"
+    },
     "meanings": {
       "ko": "피우다",
       "en": "smoke",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "吸う",
-      "zh": "",
-      "ru": ""
+      "de": "rauchen",
+      "es": "fumar",
+      "fr": "fumer",
+      "it": "fumare",
+      "pt": "fumar",
+      "zh": "吸",
+      "ru": "курить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "すう"
-    },
-    "infinitive": "吸う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "すう"
     }
   },
   {
     "id": "ja_239",
+    "lang": "ja",
     "lemma": "吹く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふく"
+    },
     "meanings": {
       "ko": "불다",
       "en": "blow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "吹く",
-      "zh": "",
-      "ru": ""
+      "de": "blasen",
+      "es": "soplar",
+      "fr": "souffler",
+      "it": "soffiare",
+      "pt": "soprar",
+      "zh": "吹",
+      "ru": "дуть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふく"
-    },
-    "infinitive": "吹く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "ふく"
     }
   },
   {
     "id": "ja_240",
+    "lang": "ja",
     "lemma": "呼ぶ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "よぶ"
+    },
     "meanings": {
       "ko": "부르다",
       "en": "call",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "呼ぶ",
-      "zh": "",
-      "ru": ""
+      "de": "rufen",
+      "es": "llamar",
+      "fr": "appeler",
+      "it": "chiamare",
+      "pt": "chamar",
+      "zh": "叫",
+      "ru": "звать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "よぶ"
-    },
-    "infinitive": "呼ぶ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "よぶ"
     }
   },
   {
     "id": "ja_241",
+    "lang": "ja",
     "lemma": "咲く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "さく"
+    },
     "meanings": {
       "ko": "피다",
       "en": "bloom",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "咲く",
-      "zh": "",
-      "ru": ""
+      "de": "blühen",
+      "es": "florecer",
+      "fr": "fleurir",
+      "it": "fiorire",
+      "pt": "florescer",
+      "zh": "开花",
+      "ru": "цвести"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "さく"
-    },
-    "infinitive": "咲く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "さく"
     }
   },
   {
     "id": "ja_242",
+    "lang": "ja",
     "lemma": "問題",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "もんだい"
+    },
     "meanings": {
       "ko": "문제",
       "en": "problem",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "問題",
-      "zh": "",
-      "ru": ""
+      "de": "das Problem",
+      "es": "el problema",
+      "fr": "le problème",
+      "it": "il problema",
+      "pt": "o problema",
+      "zh": "问题",
+      "ru": "проблема"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "もんだい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "もんだい"
     }
   },
   {
     "id": "ja_243",
+    "lang": "ja",
     "lemma": "喫茶店",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きっさてん"
+    },
     "meanings": {
       "ko": "찻집",
       "en": "coffee shop",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "喫茶店",
-      "zh": "",
-      "ru": ""
+      "de": "das Café",
+      "es": "la cafetería",
+      "fr": "le café",
+      "it": "il caffè",
+      "pt": "o café",
+      "zh": "咖啡馆",
+      "ru": "кафе"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きっさてん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きっさてん"
     }
   },
   {
     "id": "ja_244",
+    "lang": "ja",
     "lemma": "四つ",
-    "pos": "名詞",
+    "pos": "Numerale",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "よっつ"
+    },
     "meanings": {
       "ko": "네 개",
       "en": "four things",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "四つ",
-      "zh": "",
-      "ru": ""
+      "de": "vier Stück",
+      "es": "cuatro cosas",
+      "fr": "quatre choses",
+      "it": "quattro cose",
+      "pt": "quatro coisas",
+      "zh": "四个",
+      "ru": "четыре штуки"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "よっつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "よっつ"
     }
   },
   {
     "id": "ja_245",
+    "lang": "ja",
     "lemma": "四日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "よっか"
+    },
     "meanings": {
       "ko": "4일",
       "en": "fourth day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "四日",
-      "zh": "",
-      "ru": ""
+      "de": "der vierte Tag",
+      "es": "el cuarto día",
+      "fr": "le quatrième jour",
+      "it": "il quarto giorno",
+      "pt": "o quarto dia",
+      "zh": "四日",
+      "ru": "четвёртое число"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "よっか"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "よっか"
     }
   },
   {
     "id": "ja_246",
+    "lang": "ja",
     "lemma": "困る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こまる"
+    },
     "meanings": {
       "ko": "곤란하다",
       "en": "be troubled",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "困る",
-      "zh": "",
-      "ru": ""
+      "de": "in Schwierigkeiten sein",
+      "es": "tener problemas",
+      "fr": "être en difficulté",
+      "it": "essere in difficoltà",
+      "pt": "estar em apuros",
+      "zh": "困扰",
+      "ru": "быть в беде"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こまる"
-    },
-    "infinitive": "困る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "こまる"
     }
   },
   {
     "id": "ja_247",
+    "lang": "ja",
     "lemma": "図書館",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "としょかん"
+    },
     "meanings": {
       "ko": "도서관",
       "en": "library",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "図書館",
-      "zh": "",
-      "ru": ""
+      "de": "die Bibliothek",
+      "es": "la biblioteca",
+      "fr": "la bibliothèque",
+      "it": "la biblioteca",
+      "pt": "a biblioteca",
+      "zh": "图书馆",
+      "ru": "библиотека"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "としょかん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "としょかん"
     }
   },
   {
     "id": "ja_248",
+    "lang": "ja",
     "lemma": "土曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "どようび"
+    },
     "meanings": {
       "ko": "토요일",
       "en": "saturday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "土曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Samstag",
+      "es": "el sábado",
+      "fr": "le samedi",
+      "it": "il sabato",
+      "pt": "o sábado",
+      "zh": "星期六",
+      "ru": "суббота"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "どようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "どようび"
     }
   },
   {
     "id": "ja_249",
+    "lang": "ja",
     "lemma": "地下鉄",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ちかてつ"
+    },
     "meanings": {
       "ko": "지하철",
       "en": "subway",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "地下鉄",
-      "zh": "",
-      "ru": ""
+      "de": "die U-Bahn",
+      "es": "el metro",
+      "fr": "le métro",
+      "it": "la metropolitana",
+      "pt": "o metrô",
+      "zh": "地铁",
+      "ru": "метро"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ちかてつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ちかてつ"
     }
   },
   {
     "id": "ja_250",
+    "lang": "ja",
     "lemma": "地図",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ちず"
+    },
     "meanings": {
       "ko": "지도",
       "en": "map",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "地図",
-      "zh": "",
-      "ru": ""
+      "de": "die Karte",
+      "es": "el mapa",
+      "fr": "la carte",
+      "it": "la mappa",
+      "pt": "o mapa",
+      "zh": "地图",
+      "ru": "карта"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ちず"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ちず"
     }
   },
   {
     "id": "ja_251",
+    "lang": "ja",
     "lemma": "売る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "うる"
+    },
     "meanings": {
       "ko": "팔다",
       "en": "sell",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "売る",
-      "zh": "",
-      "ru": ""
+      "de": "verkaufen",
+      "es": "vender",
+      "fr": "vendre",
+      "it": "vendere",
+      "pt": "vender",
+      "zh": "卖",
+      "ru": "продавать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "うる"
-    },
-    "infinitive": "売る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "うる"
     }
   },
   {
     "id": "ja_252",
+    "lang": "ja",
     "lemma": "夏休み",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "なつやすみ"
+    },
     "meanings": {
       "ko": "여름방학",
       "en": "summer vacation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "夏休み",
-      "zh": "",
-      "ru": ""
+      "de": "die Sommerferien",
+      "es": "las vacaciones de verano",
+      "fr": "les vacances d'été",
+      "it": "le vacanze estive",
+      "pt": "as férias de verão",
+      "zh": "暑假",
+      "ru": "летние каникулы"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "なつやすみ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "なつやすみ"
     }
   },
   {
     "id": "ja_253",
+    "lang": "ja",
     "lemma": "夕方",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "저녁때, 해질 무렵",
-      "en": "evening",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "夕方",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ゆうがた"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ゆうがた"
+    },
+    "meanings": {
+      "ko": "저녁때",
+      "en": "evening",
+      "ja": "夕方",
+      "de": "der Abend",
+      "es": "la tarde",
+      "fr": "le soir",
+      "it": "la sera",
+      "pt": "a noite",
+      "zh": "傍晚",
+      "ru": "вечер"
+    },
+    "meta": {
+      "ja_reading": "ゆうがた"
     }
   },
   {
     "id": "ja_254",
+    "lang": "ja",
     "lemma": "夕飯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ゆうはん"
+    },
     "meanings": {
       "ko": "저녁밥",
       "en": "dinner",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "夕飯",
-      "zh": "",
-      "ru": ""
+      "de": "das Abendessen",
+      "es": "la cena",
+      "fr": "le dîner",
+      "it": "la cena",
+      "pt": "o jantar",
+      "zh": "晚饭",
+      "ru": "ужин"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ゆうはん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ゆうはん"
     }
   },
   {
     "id": "ja_255",
+    "lang": "ja",
     "lemma": "外国",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "がいこく"
+    },
     "meanings": {
       "ko": "외국",
       "en": "foreign country",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "外国",
-      "zh": "",
-      "ru": ""
+      "de": "das Ausland",
+      "es": "el país extranjero",
+      "fr": "le pays étranger",
+      "it": "il paese straniero",
+      "pt": "o país estrangeiro",
+      "zh": "外国",
+      "ru": "заграница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "がいこく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "がいこく"
     }
   },
   {
     "id": "ja_256",
+    "lang": "ja",
     "lemma": "外国人",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "がいこくじん"
+    },
     "meanings": {
       "ko": "외국인",
       "en": "foreigner",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "外国人",
-      "zh": "",
-      "ru": ""
+      "de": "der Ausländer",
+      "es": "el extranjero",
+      "fr": "l'étranger",
+      "it": "lo straniero",
+      "pt": "o estrangeiro",
+      "zh": "外国人",
+      "ru": "иностранец"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "がいこくじん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "がいこくじん"
     }
   },
   {
     "id": "ja_257",
+    "lang": "ja",
     "lemma": "多い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おおい"
+    },
     "meanings": {
       "ko": "많다",
       "en": "many",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "多い",
-      "zh": "",
-      "ru": ""
+      "de": "viele",
+      "es": "muchos",
+      "fr": "nombreux",
+      "it": "molti",
+      "pt": "muitos",
+      "zh": "多的",
+      "ru": "много"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おおい"
-    },
-    "reading": {
-      "ja": "おおい"
     }
   },
   {
     "id": "ja_258",
+    "lang": "ja",
     "lemma": "大きい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おおきい"
+    },
     "meanings": {
       "ko": "크다",
       "en": "big",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大きい",
-      "zh": "",
-      "ru": ""
+      "de": "groß",
+      "es": "grande",
+      "fr": "grand",
+      "it": "grande",
+      "pt": "grande",
+      "zh": "大的",
+      "ru": "большой"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おおきい"
-    },
-    "reading": {
-      "ja": "おおきい"
     }
   },
   {
     "id": "ja_259",
+    "lang": "ja",
     "lemma": "大丈夫",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "だいじょうぶ"
+    },
     "meanings": {
       "ko": "괜찮다",
       "en": "all right",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大丈夫",
-      "zh": "",
-      "ru": ""
+      "de": "in Ordnung",
+      "es": "bien",
+      "fr": "ça va",
+      "it": "a posto",
+      "pt": "tudo bem",
+      "zh": "没关系",
+      "ru": "в порядке"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "だいじょうぶ"
-    },
-    "reading": {
-      "ja": "だいじょうぶ"
     }
   },
   {
     "id": "ja_260",
+    "lang": "ja",
     "lemma": "大人",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おとな"
+    },
     "meanings": {
       "ko": "어른",
       "en": "adult",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大人",
-      "zh": "",
-      "ru": ""
+      "de": "der Erwachsene",
+      "es": "el adulto",
+      "fr": "l'adulte",
+      "it": "l'adulto",
+      "pt": "o adulto",
+      "zh": "大人",
+      "ru": "взрослый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おとな"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おとな"
     }
   },
   {
     "id": "ja_261",
+    "lang": "ja",
     "lemma": "大使館",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たいしかん"
+    },
     "meanings": {
       "ko": "대사관",
       "en": "embassy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大使館",
-      "zh": "",
-      "ru": ""
+      "de": "die Botschaft",
+      "es": "la embajada",
+      "fr": "l'ambassade",
+      "it": "l'ambasciata",
+      "pt": "a embaixada",
+      "zh": "大使馆",
+      "ru": "посольство"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たいしかん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たいしかん"
     }
   },
   {
     "id": "ja_262",
+    "lang": "ja",
     "lemma": "大切",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たいせつ"
+    },
     "meanings": {
       "ko": "소중하다",
       "en": "important",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大切",
-      "zh": "",
-      "ru": ""
+      "de": "wichtig",
+      "es": "importante",
+      "fr": "important",
+      "it": "importante",
+      "pt": "importante",
+      "zh": "重要",
+      "ru": "важный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たいせつ"
-    },
-    "reading": {
-      "ja": "たいせつ"
     }
   },
   {
     "id": "ja_263",
+    "lang": "ja",
     "lemma": "大勢",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おおぜい"
+    },
     "meanings": {
       "ko": "많은 사람",
       "en": "many people",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大勢",
-      "zh": "",
-      "ru": ""
+      "de": "viele Leute",
+      "es": "mucha gente",
+      "fr": "la foule",
+      "it": "molta gente",
+      "pt": "muitas pessoas",
+      "zh": "很多人",
+      "ru": "много людей"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "おおぜい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おおぜい"
+      "ja_reading": "おおぜい",
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
     }
   },
   {
     "id": "ja_264",
+    "lang": "ja",
     "lemma": "大好き",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7901,5375 +7681,5223 @@ const WORDS_JA_A1 = [
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "だいすき"
+    },
     "meanings": {
       "ko": "아주 좋아하다",
       "en": "love",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大好き",
-      "zh": "",
-      "ru": ""
+      "de": "sehr mögen",
+      "es": "encantar",
+      "fr": "adorer",
+      "it": "amare molto",
+      "pt": "amar",
+      "zh": "最喜欢",
+      "ru": "очень любить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "だいすき"
-    },
-    "reading": {
-      "ja": "だいすき"
     }
   },
   {
     "id": "ja_265",
+    "lang": "ja",
     "lemma": "大学",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "だいがく"
+    },
     "meanings": {
       "ko": "대학교",
       "en": "university",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "大学",
-      "zh": "",
-      "ru": ""
+      "de": "die Universität",
+      "es": "la universidad",
+      "fr": "l'université",
+      "it": "l'università",
+      "pt": "a universidade",
+      "zh": "大学",
+      "ru": "университет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "だいがく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "だいがく"
     }
   },
   {
     "id": "ja_266",
+    "lang": "ja",
     "lemma": "天気",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "てんき"
+    },
     "meanings": {
       "ko": "날씨",
       "en": "weather",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "天気",
-      "zh": "",
-      "ru": ""
+      "de": "das Wetter",
+      "es": "el tiempo",
+      "fr": "le temps",
+      "it": "il tempo",
+      "pt": "o tempo",
+      "zh": "天气",
+      "ru": "погода"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "てんき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "てんき"
     }
   },
   {
     "id": "ja_267",
+    "lang": "ja",
     "lemma": "太い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふとい"
+    },
     "meanings": {
       "ko": "굵다",
       "en": "thick",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "太い",
-      "zh": "",
-      "ru": ""
+      "de": "dick",
+      "es": "gordo",
+      "fr": "épais",
+      "it": "spesso",
+      "pt": "grosso",
+      "zh": "粗的",
+      "ru": "толстый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふとい"
-    },
-    "reading": {
-      "ja": "ふとい"
     }
   },
   {
     "id": "ja_268",
+    "lang": "ja",
     "lemma": "奥さん",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おくさん"
+    },
     "meanings": {
       "ko": "부인",
       "en": "wife",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "奥さん",
-      "zh": "",
-      "ru": ""
+      "de": "die Ehefrau",
+      "es": "la esposa",
+      "fr": "l'épouse",
+      "it": "la moglie",
+      "pt": "a esposa",
+      "zh": "夫人",
+      "ru": "жена"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おくさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おくさん"
     }
   },
   {
     "id": "ja_269",
+    "lang": "ja",
     "lemma": "女の子",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "おんなのこ"
+    },
     "meanings": {
       "ko": "여자아이",
       "en": "girl",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "女の子",
-      "zh": "",
-      "ru": ""
+      "de": "das Mädchen",
+      "es": "la niña",
+      "fr": "la fille",
+      "it": "la bambina",
+      "pt": "a menina",
+      "zh": "女孩",
+      "ru": "девочка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おんなのこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おんなのこ"
     }
   },
   {
     "id": "ja_270",
+    "lang": "ja",
     "lemma": "好き",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "좋아하다, 좋아함",
-      "en": "like, fond",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "好き",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "すき"
-    },
     "reading": {
       "ja": "すき"
+    },
+    "meanings": {
+      "ko": "좋아하다",
+      "en": "like",
+      "ja": "好き",
+      "de": "mögen",
+      "es": "gustar",
+      "fr": "aimer",
+      "it": "piacere",
+      "pt": "gostar",
+      "zh": "喜欢",
+      "ru": "нравиться"
+    },
+    "meta": {
+      "ja_reading": "すき"
     }
   },
   {
     "id": "ja_271",
+    "lang": "ja",
     "lemma": "始まる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "시작되다",
-      "en": "begin, start",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "始まる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はじまる"
-    },
-    "infinitive": "始まる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "はじまる"
+    },
+    "meanings": {
+      "ko": "시작되다",
+      "en": "begin",
+      "ja": "始まる",
+      "de": "beginnen",
+      "es": "empezar",
+      "fr": "commencer",
+      "it": "iniziare",
+      "pt": "começar",
+      "zh": "开始",
+      "ru": "начинаться"
+    },
+    "meta": {
+      "ja_reading": "はじまる"
     }
   },
   {
     "id": "ja_272",
+    "lang": "ja",
     "lemma": "始め",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "시작, 처음",
-      "en": "beginning, start",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "始め",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はじめ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "はじめ"
+    },
+    "meanings": {
+      "ko": "시작",
+      "en": "beginning",
+      "ja": "始め",
+      "de": "der Anfang",
+      "es": "el comienzo",
+      "fr": "le début",
+      "it": "l'inizio",
+      "pt": "o início",
+      "zh": "开始",
+      "ru": "начало"
+    },
+    "meta": {
+      "ja_reading": "はじめ"
     }
   },
   {
     "id": "ja_273",
+    "lang": "ja",
     "lemma": "嫌い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "싫어하다, 싫음",
-      "en": "dislike, hate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "嫌い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "きらい"
-    },
     "reading": {
       "ja": "きらい"
+    },
+    "meanings": {
+      "ko": "싫어하다",
+      "en": "dislike",
+      "ja": "嫌い",
+      "de": "nicht mögen",
+      "es": "no gustar",
+      "fr": "ne pas aimer",
+      "it": "non piacere",
+      "pt": "não gostar",
+      "zh": "讨厌",
+      "ru": "не любить"
+    },
+    "meta": {
+      "ja_reading": "きらい"
     }
   },
   {
     "id": "ja_274",
+    "lang": "ja",
     "lemma": "子供",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "아이, 자녀",
-      "en": "child",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "子供",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "こども"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "こども"
+    },
+    "meanings": {
+      "ko": "아이",
+      "en": "child",
+      "ja": "子供",
+      "de": "das Kind",
+      "es": "el niño",
+      "fr": "l'enfant",
+      "it": "il bambino",
+      "pt": "a criança",
+      "zh": "孩子",
+      "ru": "ребёнок"
+    },
+    "meta": {
+      "ja_reading": "こども"
     }
   },
   {
     "id": "ja_275",
+    "lang": "ja",
     "lemma": "字引",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "じびき"
+    },
     "meanings": {
       "ko": "사전",
       "en": "dictionary",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "字引",
-      "zh": "",
-      "ru": ""
+      "de": "das Wörterbuch",
+      "es": "el diccionario",
+      "fr": "le dictionnaire",
+      "it": "il dizionario",
+      "pt": "o dicionário",
+      "zh": "字典",
+      "ru": "словарь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じびき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "じびき"
     }
   },
   {
     "id": "ja_276",
+    "lang": "ja",
     "lemma": "学校",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "がっこう"
+    },
     "meanings": {
       "ko": "학교",
       "en": "school",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "学校",
-      "zh": "",
-      "ru": ""
+      "de": "die Schule",
+      "es": "la escuela",
+      "fr": "l'école",
+      "it": "la scuola",
+      "pt": "a escola",
+      "zh": "学校",
+      "ru": "школа"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "がっこう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "がっこう"
     }
   },
   {
     "id": "ja_277",
+    "lang": "ja",
     "lemma": "学生",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "がくせい"
+    },
     "meanings": {
       "ko": "학생",
       "en": "student",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "学生",
-      "zh": "",
-      "ru": ""
+      "de": "der Student",
+      "es": "el estudiante",
+      "fr": "l'étudiant",
+      "it": "lo studente",
+      "pt": "o estudante",
+      "zh": "学生",
+      "ru": "студент"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "がくせい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "がくせい"
     }
   },
   {
     "id": "ja_278",
+    "lang": "ja",
     "lemma": "安い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "싸다, 저렴하다",
-      "en": "cheap, inexpensive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "安い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "やすい"
-    },
     "reading": {
       "ja": "やすい"
+    },
+    "meanings": {
+      "ko": "싸다",
+      "en": "cheap",
+      "ja": "安い",
+      "de": "billig",
+      "es": "barato",
+      "fr": "bon marché",
+      "it": "economico",
+      "pt": "barato",
+      "zh": "便宜的",
+      "ru": "дешёвый"
+    },
+    "meta": {
+      "ja_reading": "やすい"
     }
   },
   {
     "id": "ja_279",
+    "lang": "ja",
     "lemma": "家庭",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "가정, 집안",
-      "en": "home, household",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "家庭",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かてい"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "かてい"
+    },
+    "meanings": {
+      "ko": "가정",
+      "en": "home",
+      "ja": "家庭",
+      "de": "das Zuhause",
+      "es": "el hogar",
+      "fr": "le foyer",
+      "it": "la casa",
+      "pt": "o lar",
+      "zh": "家庭",
+      "ru": "дом"
+    },
+    "meta": {
+      "ja_reading": "かてい"
     }
   },
   {
     "id": "ja_280",
+    "lang": "ja",
     "lemma": "家族",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "かぞく"
+    },
     "meanings": {
       "ko": "가족",
       "en": "family",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "家族",
-      "zh": "",
-      "ru": ""
+      "de": "die Familie",
+      "es": "la familia",
+      "fr": "la famille",
+      "it": "la famiglia",
+      "pt": "a família",
+      "zh": "家庭",
+      "ru": "семья"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かぞく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かぞく"
     }
   },
   {
     "id": "ja_281",
+    "lang": "ja",
     "lemma": "宿題",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
+    "reading": {
+      "ja": "しゅくだい"
+    },
     "meanings": {
       "ko": "숙제",
       "en": "homework",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "宿題",
-      "zh": "",
-      "ru": ""
+      "de": "die Hausaufgaben",
+      "es": "la tarea",
+      "fr": "les devoirs",
+      "it": "i compiti",
+      "pt": "o dever de casa",
+      "zh": "作业",
+      "ru": "домашнее задание"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しゅくだい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しゅくだい"
     }
   },
   {
     "id": "ja_282",
+    "lang": "ja",
     "lemma": "寒い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "춥다",
-      "en": "cold (weather)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "寒い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "さむい"
-    },
     "reading": {
       "ja": "さむい"
+    },
+    "meanings": {
+      "ko": "춥다",
+      "en": "cold",
+      "ja": "寒い",
+      "de": "kalt",
+      "es": "frío",
+      "fr": "froid",
+      "it": "freddo",
+      "pt": "frio",
+      "zh": "寒冷的",
+      "ru": "холодный"
+    },
+    "meta": {
+      "ja_reading": "さむい"
     }
   },
   {
     "id": "ja_283",
+    "lang": "ja",
     "lemma": "寝る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "자다, 눕다",
-      "en": "sleep, go to bed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "寝る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ねる"
-    },
-    "infinitive": "寝る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ねる"
+    },
+    "meanings": {
+      "ko": "자다",
+      "en": "sleep",
+      "ja": "寝る",
+      "de": "schlafen",
+      "es": "dormir",
+      "fr": "dormir",
+      "it": "dormire",
+      "pt": "dormir",
+      "zh": "睡觉",
+      "ru": "спать"
+    },
+    "meta": {
+      "ja_reading": "ねる"
     }
   },
   {
     "id": "ja_284",
+    "lang": "ja",
     "lemma": "封筒",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ふうとう"
+    },
     "meanings": {
       "ko": "봉투",
       "en": "envelope",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "封筒",
-      "zh": "",
-      "ru": ""
+      "de": "der Umschlag",
+      "es": "el sobre",
+      "fr": "l'enveloppe",
+      "it": "la busta",
+      "pt": "o envelope",
+      "zh": "信封",
+      "ru": "конверт"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ふうとう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ふうとう"
     }
   },
   {
     "id": "ja_285",
+    "lang": "ja",
     "lemma": "小さい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "작다",
-      "en": "small, little",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "小さい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちいさい"
-    },
     "reading": {
       "ja": "ちいさい"
+    },
+    "meanings": {
+      "ko": "작다",
+      "en": "small",
+      "ja": "小さい",
+      "de": "klein",
+      "es": "pequeño",
+      "fr": "petit",
+      "it": "piccolo",
+      "pt": "pequeno",
+      "zh": "小的",
+      "ru": "маленький"
+    },
+    "meta": {
+      "ja_reading": "ちいさい"
     }
   },
   {
     "id": "ja_286",
+    "lang": "ja",
     "lemma": "小さな",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "작은",
-      "en": "small, little",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "小さな",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちいさな"
-    },
     "reading": {
       "ja": "ちいさな"
+    },
+    "meanings": {
+      "ko": "작은",
+      "en": "small",
+      "ja": "小さな",
+      "de": "klein",
+      "es": "pequeño",
+      "fr": "petit",
+      "it": "piccolo",
+      "pt": "pequeno",
+      "zh": "小的",
+      "ru": "маленький"
+    },
+    "meta": {
+      "ja_reading": "ちいさな"
     }
   },
   {
     "id": "ja_287",
+    "lang": "ja",
     "lemma": "少ない",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "적다",
-      "en": "few, little",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "少ない",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "すくない"
-    },
     "reading": {
       "ja": "すくない"
+    },
+    "meanings": {
+      "ko": "적다",
+      "en": "few",
+      "ja": "少ない",
+      "de": "wenige",
+      "es": "pocos",
+      "fr": "peu nombreux",
+      "it": "pochi",
+      "pt": "poucos",
+      "zh": "少的",
+      "ru": "мало"
+    },
+    "meta": {
+      "ja_reading": "すくない"
     }
   },
   {
     "id": "ja_288",
+    "lang": "ja",
     "lemma": "居る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
-    "meanings": {
-      "ko": "있다 (사람, 동물)",
-      "en": "exist, be",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "居る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "いる"
-    },
-    "infinitive": "居る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "いる"
+    },
+    "meanings": {
+      "ko": "있다",
+      "en": "exist",
+      "ja": "居る",
+      "de": "sein",
+      "es": "estar",
+      "fr": "être",
+      "it": "essere",
+      "pt": "estar",
+      "zh": "在",
+      "ru": "быть"
+    },
+    "meta": {
+      "ja_reading": "いる"
     }
   },
   {
     "id": "ja_289",
+    "lang": "ja",
     "lemma": "帰る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "돌아가다, 돌아오다",
-      "en": "go back, return",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "帰る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かえる"
-    },
-    "infinitive": "帰る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "かえる"
+    },
+    "meanings": {
+      "ko": "돌아가다",
+      "en": "go back",
+      "ja": "帰る",
+      "de": "zurückkehren",
+      "es": "volver",
+      "fr": "rentrer",
+      "it": "tornare",
+      "pt": "voltar",
+      "zh": "回家",
+      "ru": "возвращаться"
+    },
+    "meta": {
+      "ja_reading": "かえる"
     }
   },
   {
     "id": "ja_290",
+    "lang": "ja",
     "lemma": "帽子",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "모자",
-      "en": "hat, cap",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "帽子",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ぼうし"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ぼうし"
+    },
+    "meanings": {
+      "ko": "모자",
+      "en": "hat",
+      "ja": "帽子",
+      "de": "der Hut",
+      "es": "el sombrero",
+      "fr": "le chapeau",
+      "it": "il cappello",
+      "pt": "o chapéu",
+      "zh": "帽子",
+      "ru": "шляпа"
+    },
+    "meta": {
+      "ja_reading": "ぼうし"
     }
   },
   {
     "id": "ja_291",
+    "lang": "ja",
     "lemma": "広い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "넓다",
-      "en": "wide, spacious",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "広い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ひろい"
-    },
     "reading": {
       "ja": "ひろい"
+    },
+    "meanings": {
+      "ko": "넓다",
+      "en": "wide",
+      "ja": "広い",
+      "de": "weit",
+      "es": "amplio",
+      "fr": "large",
+      "it": "ampio",
+      "pt": "largo",
+      "zh": "宽阔的",
+      "ru": "широкий"
+    },
+    "meta": {
+      "ja_reading": "ひろい"
     }
   },
   {
     "id": "ja_292",
+    "lang": "ja",
     "lemma": "座る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "すわる"
+    },
     "meanings": {
       "ko": "앉다",
       "en": "sit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "座る",
-      "zh": "",
-      "ru": ""
+      "de": "sitzen",
+      "es": "sentarse",
+      "fr": "s'asseoir",
+      "it": "sedersi",
+      "pt": "sentar",
+      "zh": "坐",
+      "ru": "сидеть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "すわる"
-    },
-    "infinitive": "座る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "すわる"
     }
   },
   {
     "id": "ja_293",
+    "lang": "ja",
     "lemma": "廊下",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "복도",
-      "en": "hallway, corridor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "廊下",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ろうか"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ろうか"
+    },
+    "meanings": {
+      "ko": "복도",
+      "en": "hallway",
+      "ja": "廊下",
+      "de": "der Flur",
+      "es": "el pasillo",
+      "fr": "le couloir",
+      "it": "il corridoio",
+      "pt": "o corredor",
+      "zh": "走廊",
+      "ru": "коридор"
+    },
+    "meta": {
+      "ja_reading": "ろうか"
     }
   },
   {
     "id": "ja_294",
+    "lang": "ja",
     "lemma": "建物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たてもの"
+    },
     "meanings": {
       "ko": "건물",
       "en": "building",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "建物",
-      "zh": "",
-      "ru": ""
+      "de": "das Gebäude",
+      "es": "el edificio",
+      "fr": "le bâtiment",
+      "it": "l'edificio",
+      "pt": "o edifício",
+      "zh": "建筑物",
+      "ru": "здание"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たてもの"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たてもの"
     }
   },
   {
     "id": "ja_295",
+    "lang": "ja",
     "lemma": "弱い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "よわい"
+    },
     "meanings": {
       "ko": "약하다",
       "en": "weak",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "弱い",
-      "zh": "",
-      "ru": ""
+      "de": "schwach",
+      "es": "débil",
+      "fr": "faible",
+      "it": "debole",
+      "pt": "fraco",
+      "zh": "弱的",
+      "ru": "слабый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "よわい"
-    },
-    "reading": {
-      "ja": "よわい"
     }
   },
   {
     "id": "ja_296",
+    "lang": "ja",
     "lemma": "強い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "강하다, 세다",
-      "en": "strong",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "強い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "つよい"
-    },
     "reading": {
       "ja": "つよい"
+    },
+    "meanings": {
+      "ko": "강하다",
+      "en": "strong",
+      "ja": "強い",
+      "de": "stark",
+      "es": "fuerte",
+      "fr": "fort",
+      "it": "forte",
+      "pt": "forte",
+      "zh": "强的",
+      "ru": "сильный"
+    },
+    "meta": {
+      "ja_reading": "つよい"
     }
   },
   {
     "id": "ja_297",
+    "lang": "ja",
     "lemma": "弾く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "(악기를) 연주하다",
-      "en": "play (instrument)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "弾く",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ひく"
-    },
-    "infinitive": "弾く",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ひく"
+    },
+    "meanings": {
+      "ko": "연주하다",
+      "en": "play",
+      "ja": "弾く",
+      "de": "spielen",
+      "es": "tocar",
+      "fr": "jouer",
+      "it": "suonare",
+      "pt": "tocar",
+      "zh": "弹奏",
+      "ru": "играть"
+    },
+    "meta": {
+      "ja_reading": "ひく"
     }
   },
   {
     "id": "ja_298",
+    "lang": "ja",
     "lemma": "待つ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "まつ"
+    },
     "meanings": {
       "ko": "기다리다",
       "en": "wait",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "待つ",
-      "zh": "",
-      "ru": ""
+      "de": "warten",
+      "es": "esperar",
+      "fr": "attendre",
+      "it": "aspettare",
+      "pt": "esperar",
+      "zh": "等待",
+      "ru": "ждать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まつ"
-    },
-    "infinitive": "待つ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "まつ"
     }
   },
   {
     "id": "ja_299",
+    "lang": "ja",
     "lemma": "後ろ",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "뒤, 뒤쪽",
-      "en": "back, behind",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "後ろ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "うしろ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "うしろ"
+    },
+    "meanings": {
+      "ko": "뒤",
+      "en": "back",
+      "ja": "後ろ",
+      "de": "hinten",
+      "es": "detrás",
+      "fr": "derrière",
+      "it": "dietro",
+      "pt": "atrás",
+      "zh": "后面",
+      "ru": "сзади"
+    },
+    "meta": {
+      "ja_reading": "うしろ"
     }
   },
   {
     "id": "ja_300",
+    "lang": "ja",
     "lemma": "御飯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "밥, 식사",
-      "en": "meal, rice",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "御飯",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ごはん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ごはん"
+    },
+    "meanings": {
+      "ko": "밥",
+      "en": "meal",
+      "ja": "御飯",
+      "de": "das Essen",
+      "es": "la comida",
+      "fr": "le repas",
+      "it": "il pasto",
+      "pt": "a refeição",
+      "zh": "饭",
+      "ru": "еда"
+    },
+    "meta": {
+      "ja_reading": "ごはん"
     }
   },
   {
     "id": "ja_301",
+    "lang": "ja",
     "lemma": "忘れる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "わすれる"
+    },
     "meanings": {
       "ko": "잊다",
       "en": "forget",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "忘れる",
-      "zh": "",
-      "ru": ""
+      "de": "vergessen",
+      "es": "olvidar",
+      "fr": "oublier",
+      "it": "dimenticare",
+      "pt": "esquecer",
+      "zh": "忘记",
+      "ru": "забывать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "わすれる"
-    },
-    "infinitive": "忘れる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "わすれる"
     }
   },
   {
     "id": "ja_302",
+    "lang": "ja",
     "lemma": "忙しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "いそがしい"
+    },
     "meanings": {
       "ko": "바쁘다",
       "en": "busy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "忙しい",
-      "zh": "",
-      "ru": ""
+      "de": "beschäftigt",
+      "es": "ocupado",
+      "fr": "occupé",
+      "it": "occupato",
+      "pt": "ocupado",
+      "zh": "忙碌",
+      "ru": "занятой"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いそがしい"
-    },
-    "reading": {
-      "ja": "いそがしい"
     }
   },
   {
     "id": "ja_303",
+    "lang": "ja",
     "lemma": "悪い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "わるい"
+    },
     "meanings": {
       "ko": "나쁘다",
       "en": "bad",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "悪い",
-      "zh": "",
-      "ru": ""
+      "de": "schlecht",
+      "es": "malo",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "pt": "mau",
+      "zh": "坏",
+      "ru": "плохой"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "わるい"
-    },
-    "reading": {
-      "ja": "わるい"
     }
   },
   {
     "id": "ja_304",
+    "lang": "ja",
     "lemma": "意味",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "의미, 뜻",
-      "en": "meaning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "意味",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "いみ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "いみ"
+    },
+    "meanings": {
+      "ko": "의미",
+      "en": "meaning",
+      "ja": "意味",
+      "de": "die Bedeutung",
+      "es": "el significado",
+      "fr": "la signification",
+      "it": "il significato",
+      "pt": "o significado",
+      "zh": "意思",
+      "ru": "значение"
+    },
+    "meta": {
+      "ja_reading": "いみ"
     }
   },
   {
     "id": "ja_305",
+    "lang": "ja",
     "lemma": "手紙",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "てがみ"
+    },
     "meanings": {
       "ko": "편지",
       "en": "letter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "手紙",
-      "zh": "",
-      "ru": ""
+      "de": "der Brief",
+      "es": "la carta",
+      "fr": "la lettre",
+      "it": "la lettera",
+      "pt": "a carta",
+      "zh": "信",
+      "ru": "письмо"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "てがみ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "てがみ"
     }
   },
   {
     "id": "ja_306",
+    "lang": "ja",
     "lemma": "押す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "누르다, 밀다",
-      "en": "push, press",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "押す",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おす"
-    },
-    "infinitive": "押す",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "おす"
+    },
+    "meanings": {
+      "ko": "누르다",
+      "en": "push",
+      "ja": "押す",
+      "de": "drücken",
+      "es": "empujar",
+      "fr": "pousser",
+      "it": "spingere",
+      "pt": "empurrar",
+      "zh": "推",
+      "ru": "толкать"
+    },
+    "meta": {
+      "ja_reading": "おす"
     }
   },
   {
     "id": "ja_307",
+    "lang": "ja",
     "lemma": "持つ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
-    "meanings": {
-      "ko": "가지다, 들다",
-      "en": "hold, carry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "持つ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "もつ"
-    },
-    "infinitive": "持つ",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "もつ"
+    },
+    "meanings": {
+      "ko": "가지다",
+      "en": "hold",
+      "ja": "持つ",
+      "de": "halten",
+      "es": "tener",
+      "fr": "tenir",
+      "it": "tenere",
+      "pt": "segurar",
+      "zh": "拿",
+      "ru": "держать"
+    },
+    "meta": {
+      "ja_reading": "もつ"
     }
   },
   {
     "id": "ja_308",
+    "lang": "ja",
     "lemma": "掃除",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "そうじ"
+    },
     "meanings": {
       "ko": "청소",
       "en": "cleaning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "掃除",
-      "zh": "",
-      "ru": ""
+      "de": "die Reinigung",
+      "es": "la limpieza",
+      "fr": "le nettoyage",
+      "it": "la pulizia",
+      "pt": "a limpeza",
+      "zh": "打扫",
+      "ru": "уборка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "そうじ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "そうじ"
     }
   },
   {
     "id": "ja_309",
+    "lang": "ja",
     "lemma": "授業",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
-    "meanings": {
-      "ko": "수업",
-      "en": "class, lesson",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "授業",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "じゅぎょう"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "じゅぎょう"
+    },
+    "meanings": {
+      "ko": "수업",
+      "en": "class",
+      "ja": "授業",
+      "de": "der Unterricht",
+      "es": "la clase",
+      "fr": "le cours",
+      "it": "la lezione",
+      "pt": "a aula",
+      "zh": "课",
+      "ru": "урок"
+    },
+    "meta": {
+      "ja_reading": "じゅぎょう"
     }
   },
   {
     "id": "ja_310",
+    "lang": "ja",
     "lemma": "撮る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "(사진을) 찍다",
-      "en": "take (photo)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "撮る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "とる"
-    },
-    "infinitive": "撮る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "とる"
+    },
+    "meanings": {
+      "ko": "찍다",
+      "en": "take",
+      "ja": "撮る",
+      "de": "fotografieren",
+      "es": "tomar una foto",
+      "fr": "prendre une photo",
+      "it": "scattare una foto",
+      "pt": "tirar uma foto",
+      "zh": "拍照",
+      "ru": "фотографировать"
+    },
+    "meta": {
+      "ja_reading": "とる"
     }
   },
   {
     "id": "ja_311",
+    "lang": "ja",
     "lemma": "教える",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "가르치다",
-      "en": "teach, tell",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "教える",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おしえる"
-    },
-    "infinitive": "教える",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "おしえる"
+    },
+    "meanings": {
+      "ko": "가르치다",
+      "en": "teach",
+      "ja": "教える",
+      "de": "lehren",
+      "es": "enseñar",
+      "fr": "enseigner",
+      "it": "insegnare",
+      "pt": "ensinar",
+      "zh": "教",
+      "ru": "учить"
+    },
+    "meta": {
+      "ja_reading": "おしえる"
     }
   },
   {
     "id": "ja_312",
+    "lang": "ja",
     "lemma": "教室",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きょうしつ"
+    },
     "meanings": {
       "ko": "교실",
       "en": "classroom",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "教室",
-      "zh": "",
-      "ru": ""
+      "de": "das Klassenzimmer",
+      "es": "el aula",
+      "fr": "la salle de classe",
+      "it": "l'aula",
+      "pt": "a sala de aula",
+      "zh": "教室",
+      "ru": "класс"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きょうしつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きょうしつ"
     }
   },
   {
     "id": "ja_313",
+    "lang": "ja",
     "lemma": "散歩",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "산책",
-      "en": "walk, stroll",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "散歩",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "さんぽ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "さんぽ"
+    },
+    "meanings": {
+      "ko": "산책",
+      "en": "walk",
+      "ja": "散歩",
+      "de": "der Spaziergang",
+      "es": "el paseo",
+      "fr": "la promenade",
+      "it": "la passeggiata",
+      "pt": "o passeio",
+      "zh": "散步",
+      "ru": "прогулка"
+    },
+    "meta": {
+      "ja_reading": "さんぽ"
     }
   },
   {
     "id": "ja_314",
+    "lang": "ja",
     "lemma": "文章",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "문장, 글",
-      "en": "sentence, text",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "文章",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ぶんしょう"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ぶんしょう"
+    },
+    "meanings": {
+      "ko": "문장",
+      "en": "sentence",
+      "ja": "文章",
+      "de": "der Satz",
+      "es": "la frase",
+      "fr": "la phrase",
+      "it": "la frase",
+      "pt": "a frase",
+      "zh": "文章",
+      "ru": "предложение"
+    },
+    "meta": {
+      "ja_reading": "ぶんしょう"
     }
   },
   {
     "id": "ja_315",
+    "lang": "ja",
     "lemma": "料理",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "요리",
-      "en": "cooking, dish",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "料理",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "りょうり"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "りょうり"
+    },
+    "meanings": {
+      "ko": "요리",
+      "en": "cooking",
+      "ja": "料理",
+      "de": "das Gericht",
+      "es": "la comida",
+      "fr": "la cuisine",
+      "it": "il piatto",
+      "pt": "a culinária",
+      "zh": "菜肴",
+      "ru": "блюдо"
+    },
+    "meta": {
+      "ja_reading": "りょうり"
     }
   },
   {
     "id": "ja_316",
+    "lang": "ja",
     "lemma": "新しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あたらしい"
+    },
     "meanings": {
       "ko": "새롭다",
       "en": "new",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "新しい",
-      "zh": "",
-      "ru": ""
+      "de": "neu",
+      "es": "nuevo",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "pt": "novo",
+      "zh": "新",
+      "ru": "новый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あたらしい"
-    },
-    "reading": {
-      "ja": "あたらしい"
     }
   },
   {
     "id": "ja_317",
+    "lang": "ja",
     "lemma": "新聞",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しんぶん"
+    },
     "meanings": {
       "ko": "신문",
       "en": "newspaper",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "新聞",
-      "zh": "",
-      "ru": ""
+      "de": "die Zeitung",
+      "es": "el periódico",
+      "fr": "le journal",
+      "it": "il giornale",
+      "pt": "o jornal",
+      "zh": "报纸",
+      "ru": "газета"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しんぶん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しんぶん"
     }
   },
   {
     "id": "ja_318",
+    "lang": "ja",
     "lemma": "旅行",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "여행",
-      "en": "travel, trip",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "旅行",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "りょこう"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "りょこう"
+    },
+    "meanings": {
+      "ko": "여행",
+      "en": "travel",
+      "ja": "旅行",
+      "de": "die Reise",
+      "es": "el viaje",
+      "fr": "le voyage",
+      "it": "il viaggio",
+      "pt": "a viagem",
+      "zh": "旅行",
+      "ru": "путешествие"
+    },
+    "meta": {
+      "ja_reading": "りょこう"
     }
   },
   {
     "id": "ja_319",
+    "lang": "ja",
     "lemma": "日曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "にちようび"
+    },
     "meanings": {
       "ko": "일요일",
       "en": "sunday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "日曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Sonntag",
+      "es": "el domingo",
+      "fr": "le dimanche",
+      "it": "la domenica",
+      "pt": "o domingo",
+      "zh": "星期日",
+      "ru": "воскресенье"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "にちようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "にちようび"
     }
   },
   {
     "id": "ja_320",
+    "lang": "ja",
     "lemma": "早い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "빠르다, 이르다",
-      "en": "fast, early",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "早い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はやい"
-    },
     "reading": {
       "ja": "はやい"
+    },
+    "meanings": {
+      "ko": "빠르다",
+      "en": "fast",
+      "ja": "早い",
+      "de": "schnell",
+      "es": "rápido",
+      "fr": "rapide",
+      "it": "veloce",
+      "pt": "rápido",
+      "zh": "快",
+      "ru": "быстрый"
+    },
+    "meta": {
+      "ja_reading": "はやい"
     }
   },
   {
     "id": "ja_321",
+    "lang": "ja",
     "lemma": "明るい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "밝다",
-      "en": "bright, cheerful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "明るい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あかるい"
-    },
     "reading": {
       "ja": "あかるい"
+    },
+    "meanings": {
+      "ko": "밝다",
+      "en": "bright",
+      "ja": "明るい",
+      "de": "hell",
+      "es": "brillante",
+      "fr": "lumineux",
+      "it": "luminoso",
+      "pt": "brilhante",
+      "zh": "明亮",
+      "ru": "яркий"
+    },
+    "meta": {
+      "ja_reading": "あかるい"
     }
   },
   {
     "id": "ja_322",
+    "lang": "ja",
     "lemma": "明日",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "あした"
+    },
     "meanings": {
       "ko": "내일",
       "en": "tomorrow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "明日",
-      "zh": "",
-      "ru": ""
+      "de": "morgen",
+      "es": "mañana",
+      "fr": "demain",
+      "it": "domani",
+      "pt": "amanhã",
+      "zh": "明天",
+      "ru": "завтра"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あした"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "あした"
     }
   },
   {
     "id": "ja_323",
+    "lang": "ja",
     "lemma": "易しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "쉽다",
-      "en": "easy, simple",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "易しい",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "やさしい"
-    },
     "reading": {
       "ja": "やさしい"
+    },
+    "meanings": {
+      "ko": "쉽다",
+      "en": "easy",
+      "ja": "易しい",
+      "de": "einfach",
+      "es": "fácil",
+      "fr": "facile",
+      "it": "facile",
+      "pt": "fácil",
+      "zh": "容易",
+      "ru": "легкий"
+    },
+    "meta": {
+      "ja_reading": "やさしい"
     }
   },
   {
     "id": "ja_324",
+    "lang": "ja",
     "lemma": "映画",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "영화",
-      "en": "movie, film",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "映画",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "えいが"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "えいが"
+    },
+    "meanings": {
+      "ko": "영화",
+      "en": "movie",
+      "ja": "映画",
+      "de": "der Film",
+      "es": "la película",
+      "fr": "le film",
+      "it": "il film",
+      "pt": "o filme",
+      "zh": "电影",
+      "ru": "фильм"
+    },
+    "meta": {
+      "ja_reading": "えいが"
     }
   },
   {
     "id": "ja_325",
+    "lang": "ja",
     "lemma": "映画館",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "영화관",
-      "en": "cinema, movie",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "映画館",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "えいがかん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "えいがかん"
+    },
+    "meanings": {
+      "ko": "영화관",
+      "en": "cinema",
+      "ja": "映画館",
+      "de": "das Kino",
+      "es": "el cine",
+      "fr": "le cinéma",
+      "it": "il cinema",
+      "pt": "o cinema",
+      "zh": "电影院",
+      "ru": "кинотеатр"
+    },
+    "meta": {
+      "ja_reading": "えいがかん"
     }
   },
   {
     "id": "ja_326",
+    "lang": "ja",
     "lemma": "昨夜",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "ゆうべ"
+    },
     "meanings": {
       "ko": "어젯밤",
       "en": "last night",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "昨夜",
-      "zh": "",
-      "ru": ""
+      "de": "gestern Abend",
+      "es": "anoche",
+      "fr": "hier soir",
+      "it": "ieri sera",
+      "pt": "ontem à noite",
+      "zh": "昨晚",
+      "ru": "вчера вечером"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ゆうべ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ゆうべ"
     }
   },
   {
     "id": "ja_327",
+    "lang": "ja",
     "lemma": "昨日",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "きのう"
+    },
     "meanings": {
       "ko": "어제",
       "en": "yesterday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "昨日",
-      "zh": "",
-      "ru": ""
+      "de": "gestern",
+      "es": "ayer",
+      "fr": "hier",
+      "it": "ieri",
+      "pt": "ontem",
+      "zh": "昨天",
+      "ru": "вчера"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きのう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きのう"
     }
   },
   {
     "id": "ja_328",
+    "lang": "ja",
     "lemma": "昼御飯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "점심밥, 점심",
-      "en": "lunch",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "昼御飯",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ひるごはん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ひるごはん"
+    },
+    "meanings": {
+      "ko": "점심밥",
+      "en": "lunch",
+      "ja": "昼御飯",
+      "de": "das Mittagessen",
+      "es": "el almuerzo",
+      "fr": "le déjeuner",
+      "it": "il pranzo",
+      "pt": "o almoço",
+      "zh": "午饭",
+      "ru": "обед"
+    },
+    "meta": {
+      "ja_reading": "ひるごはん"
     }
   },
   {
     "id": "ja_329",
+    "lang": "ja",
     "lemma": "時計",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "시계",
-      "en": "clock, watch",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "時計",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "とけい"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "とけい"
+    },
+    "meanings": {
+      "ko": "시계",
+      "en": "clock",
+      "ja": "時計",
+      "de": "die Uhr",
+      "es": "el reloj",
+      "fr": "la montre",
+      "it": "l'orologio",
+      "pt": "o relógio",
+      "zh": "钟表",
+      "ru": "часы"
+    },
+    "meta": {
+      "ja_reading": "とけい"
     }
   },
   {
     "id": "ja_330",
+    "lang": "ja",
     "lemma": "時間",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "시간",
-      "en": "time, hour",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "時間",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "じかん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "じかん"
+    },
+    "meanings": {
+      "ko": "시간",
+      "en": "time",
+      "ja": "時間",
+      "de": "die Zeit",
+      "es": "el tiempo",
+      "fr": "le temps",
+      "it": "il tempo",
+      "pt": "o tempo",
+      "zh": "时间",
+      "ru": "время"
+    },
+    "meta": {
+      "ja_reading": "じかん"
     }
   },
   {
     "id": "ja_331",
+    "lang": "ja",
     "lemma": "晩御飯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "저녁밥, 저녁",
-      "en": "dinner",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "晩御飯",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ばんごはん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ばんごはん"
+    },
+    "meanings": {
+      "ko": "저녁밥",
+      "en": "dinner",
+      "ja": "晩御飯",
+      "de": "das Abendessen",
+      "es": "la cena",
+      "fr": "le dîner",
+      "it": "la cena",
+      "pt": "o jantar",
+      "zh": "晚饭",
+      "ru": "ужин"
+    },
+    "meta": {
+      "ja_reading": "ばんごはん"
     }
   },
   {
     "id": "ja_332",
+    "lang": "ja",
     "lemma": "晴れ",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "맑음, 맑은 날씨",
-      "en": "clear weather",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "晴れ",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はれ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "はれ"
+    },
+    "meanings": {
+      "ko": "맑음",
+      "en": "clear weather",
+      "ja": "晴れ",
+      "de": "das klare Wetter",
+      "es": "el tiempo despejado",
+      "fr": "le temps clair",
+      "it": "il tempo sereno",
+      "pt": "o tempo limpo",
+      "zh": "晴天",
+      "ru": "ясная погода"
+    },
+    "meta": {
+      "ja_reading": "はれ"
     }
   },
   {
     "id": "ja_333",
+    "lang": "ja",
     "lemma": "晴れる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "(날씨가) 맑아지다",
-      "en": "clear up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "晴れる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はれる"
-    },
-    "infinitive": "晴れる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "はれる"
+    },
+    "meanings": {
+      "ko": "맑아지다",
+      "en": "clear up",
+      "ja": "晴れる",
+      "de": "aufklaren",
+      "es": "despejarse",
+      "fr": "s'éclaircir",
+      "it": "schiarirsi",
+      "pt": "clarear",
+      "zh": "放晴",
+      "ru": "проясняться"
+    },
+    "meta": {
+      "ja_reading": "はれる"
     }
   },
   {
     "id": "ja_334",
+    "lang": "ja",
     "lemma": "暑い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "덥다",
-      "en": "hot (weather)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "暑い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あつい"
-    },
     "reading": {
       "ja": "あつい"
+    },
+    "meanings": {
+      "ko": "덥다",
+      "en": "hot",
+      "ja": "暑い",
+      "de": "heiß",
+      "es": "caluroso",
+      "fr": "chaud",
+      "it": "caldo",
+      "pt": "quente",
+      "zh": "热",
+      "ru": "жаркий"
+    },
+    "meta": {
+      "ja_reading": "あつい"
     }
   },
   {
     "id": "ja_335",
+    "lang": "ja",
     "lemma": "暖かい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あたたかい"
+    },
     "meanings": {
       "ko": "따뜻하다",
       "en": "warm",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "暖かい",
-      "zh": "",
-      "ru": ""
+      "de": "warm",
+      "es": "cálido",
+      "fr": "chaud",
+      "it": "caldo",
+      "pt": "quente",
+      "zh": "温暖",
+      "ru": "теплый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あたたかい"
-    },
-    "reading": {
-      "ja": "あたたかい"
     }
   },
   {
     "id": "ja_336",
+    "lang": "ja",
     "lemma": "暗い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "어둡다",
-      "en": "dark, gloomy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "暗い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "くらい"
-    },
     "reading": {
       "ja": "くらい"
+    },
+    "meanings": {
+      "ko": "어둡다",
+      "en": "dark",
+      "ja": "暗い",
+      "de": "dunkel",
+      "es": "oscuro",
+      "fr": "sombre",
+      "it": "scuro",
+      "pt": "escuro",
+      "zh": "暗",
+      "ru": "темный"
+    },
+    "meta": {
+      "ja_reading": "くらい"
     }
   },
   {
     "id": "ja_337",
+    "lang": "ja",
     "lemma": "曇り",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "흐림, 흐린 날씨",
-      "en": "cloudy weather",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "曇り",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "くもり"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "くもり"
+    },
+    "meanings": {
+      "ko": "흐림",
+      "en": "cloudy weather",
+      "ja": "曇り",
+      "de": "die Bewölkung",
+      "es": "el tiempo nublado",
+      "fr": "le temps nuageux",
+      "it": "il tempo nuvoloso",
+      "pt": "o tempo nublado",
+      "zh": "阴天",
+      "ru": "пасмурная погода"
+    },
+    "meta": {
+      "ja_reading": "くもり"
     }
   },
   {
     "id": "ja_338",
+    "lang": "ja",
     "lemma": "曇る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "(날씨가) 흐려지다",
-      "en": "become cloudy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "曇る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "くもる"
-    },
-    "infinitive": "曇る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "くもる"
+    },
+    "meanings": {
+      "ko": "흐려지다",
+      "en": "become cloudy",
+      "ja": "曇る",
+      "de": "sich bewölken",
+      "es": "nublarse",
+      "fr": "se couvrir",
+      "it": "annuvolarsi",
+      "pt": "ficar nublado",
+      "zh": "变阴",
+      "ru": "пасмурнеть"
+    },
+    "meta": {
+      "ja_reading": "くもる"
     }
   },
   {
     "id": "ja_339",
+    "lang": "ja",
     "lemma": "曲る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "구부러지다, 돌다",
-      "en": "bend, turn",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "曲る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "まがる"
-    },
-    "infinitive": "曲る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "まがる"
+    },
+    "meanings": {
+      "ko": "구부러지다",
+      "en": "bend",
+      "ja": "曲る",
+      "de": "abbiegen",
+      "es": "girar",
+      "fr": "tourner",
+      "it": "girare",
+      "pt": "virar",
+      "zh": "转弯",
+      "ru": "поворачивать"
+    },
+    "meta": {
+      "ja_reading": "まがる"
     }
   },
   {
     "id": "ja_340",
+    "lang": "ja",
     "lemma": "書く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "かく"
+    },
     "meanings": {
       "ko": "쓰다",
       "en": "write",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "書く",
-      "zh": "",
-      "ru": ""
+      "de": "schreiben",
+      "es": "escribir",
+      "fr": "écrire",
+      "it": "scrivere",
+      "pt": "escrever",
+      "zh": "写",
+      "ru": "писать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かく"
-    },
-    "infinitive": "書く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "かく"
     }
   },
   {
     "id": "ja_341",
+    "lang": "ja",
     "lemma": "月曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "げつようび"
+    },
     "meanings": {
       "ko": "월요일",
       "en": "monday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "月曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Montag",
+      "es": "el lunes",
+      "fr": "le lundi",
+      "it": "il lunedì",
+      "pt": "a segunda-feira",
+      "zh": "星期一",
+      "ru": "понедельник"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "げつようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "げつようび"
     }
   },
   {
     "id": "ja_342",
+    "lang": "ja",
     "lemma": "有名",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ゆうめい"
+    },
     "meanings": {
       "ko": "유명하다",
       "en": "famous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "有名",
-      "zh": "",
-      "ru": ""
+      "de": "berühmt",
+      "es": "famoso",
+      "fr": "célèbre",
+      "it": "famoso",
+      "pt": "famoso",
+      "zh": "有名",
+      "ru": "известный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ゆうめい"
-    },
-    "reading": {
-      "ja": "ゆうめい"
     }
   },
   {
     "id": "ja_343",
+    "lang": "ja",
     "lemma": "朝御飯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "아침밥, 아침",
-      "en": "breakfast",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "朝御飯",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あさごはん"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "あさごはん"
+    },
+    "meanings": {
+      "ko": "아침밥",
+      "en": "breakfast",
+      "ja": "朝御飯",
+      "de": "das Frühstück",
+      "es": "el desayuno",
+      "fr": "le petit-déjeuner",
+      "it": "la colazione",
+      "pt": "o café da manhã",
+      "zh": "早饭",
+      "ru": "завтрак"
+    },
+    "meta": {
+      "ja_reading": "あさごはん"
     }
   },
   {
     "id": "ja_344",
+    "lang": "ja",
     "lemma": "木曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "もくようび"
+    },
     "meanings": {
       "ko": "목요일",
       "en": "thursday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "木曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Donnerstag",
+      "es": "el jueves",
+      "fr": "le jeudi",
+      "it": "il giovedì",
+      "pt": "a quinta-feira",
+      "zh": "星期四",
+      "ru": "четверг"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "もくようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "もくようび"
     }
   },
   {
     "id": "ja_345",
+    "lang": "ja",
     "lemma": "本棚",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "책장, 책꽂이",
-      "en": "bookshelf",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "本棚",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ほんだな"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ほんだな"
+    },
+    "meanings": {
+      "ko": "책장",
+      "en": "bookshelf",
+      "ja": "本棚",
+      "de": "das Bücherregal",
+      "es": "la estantería",
+      "fr": "l'étagère à livres",
+      "it": "la libreria",
+      "pt": "a estante",
+      "zh": "书架",
+      "ru": "книжная полка"
+    },
+    "meta": {
+      "ja_reading": "ほんだな"
     }
   },
   {
     "id": "ja_346",
+    "lang": "ja",
     "lemma": "来る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "くる"
+    },
     "meanings": {
       "ko": "오다",
       "en": "come",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "来る",
-      "zh": "",
-      "ru": ""
+      "de": "kommen",
+      "es": "venir",
+      "fr": "venir",
+      "it": "venire",
+      "pt": "vir",
+      "zh": "来",
+      "ru": "приходить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "くる"
-    },
-    "infinitive": "来る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "くる"
     }
   },
   {
     "id": "ja_347",
+    "lang": "ja",
     "lemma": "来年",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "らいねん"
+    },
     "meanings": {
       "ko": "내년",
       "en": "next year",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "来年",
-      "zh": "",
-      "ru": ""
+      "de": "nächstes Jahr",
+      "es": "el próximo año",
+      "fr": "l'année prochaine",
+      "it": "l'anno prossimo",
+      "pt": "o próximo ano",
+      "zh": "明年",
+      "ru": "следующий год"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "らいねん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "らいねん"
+      "ja_reading": "らいねん",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "ja_348",
+    "lang": "ja",
     "lemma": "来月",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "らいげつ"
+    },
     "meanings": {
       "ko": "다음 달",
       "en": "next month",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "来月",
-      "zh": "",
-      "ru": ""
+      "de": "der nächste Monat",
+      "es": "el próximo mes",
+      "fr": "le mois prochain",
+      "it": "il mese prossimo",
+      "pt": "o próximo mês",
+      "zh": "下个月",
+      "ru": "следующий месяц"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "らいげつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "らいげつ"
     }
   },
   {
     "id": "ja_349",
+    "lang": "ja",
     "lemma": "来週",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "らいしゅう"
+    },
     "meanings": {
       "ko": "다음 주",
       "en": "next week",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "来週",
-      "zh": "",
-      "ru": ""
+      "de": "die nächste Woche",
+      "es": "la próxima semana",
+      "fr": "la semaine prochaine",
+      "it": "la prossima settimana",
+      "pt": "a próxima semana",
+      "zh": "下周",
+      "ru": "следующая неделя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "らいしゅう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "らいしゅう"
     }
   },
   {
     "id": "ja_350",
+    "lang": "ja",
     "lemma": "果物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "くだもの"
+    },
     "meanings": {
       "ko": "과일",
       "en": "fruit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "果物",
-      "zh": "",
-      "ru": ""
+      "de": "das Obst",
+      "es": "la fruta",
+      "fr": "le fruit",
+      "it": "la frutta",
+      "pt": "a fruta",
+      "zh": "水果",
+      "ru": "фрукт"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "くだもの"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "くだもの"
     }
   },
   {
     "id": "ja_351",
+    "lang": "ja",
     "lemma": "楽しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たのしい"
+    },
     "meanings": {
       "ko": "즐거운",
       "en": "fun",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "楽しい",
-      "zh": "",
-      "ru": ""
+      "de": "lustig",
+      "es": "divertido",
+      "fr": "amusant",
+      "it": "divertente",
+      "pt": "divertido",
+      "zh": "愉快",
+      "ru": "веселый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たのしい"
-    },
-    "reading": {
-      "ja": "たのしい"
     }
   },
   {
     "id": "ja_352",
+    "lang": "ja",
     "lemma": "欲しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "ほしい"
+    },
     "meanings": {
       "ko": "갖고 싶은",
       "en": "want",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "欲しい",
-      "zh": "",
-      "ru": ""
+      "de": "wollen",
+      "es": "querer",
+      "fr": "vouloir",
+      "it": "volere",
+      "pt": "querer",
+      "zh": "想要",
+      "ru": "хотеть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ほしい"
-    },
-    "reading": {
-      "ja": "ほしい"
     }
   },
   {
     "id": "ja_353",
+    "lang": "ja",
     "lemma": "歌う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "うたう"
+    },
     "meanings": {
       "ko": "노래하다",
       "en": "sing",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "歌う",
-      "zh": "",
-      "ru": ""
+      "de": "singen",
+      "es": "cantar",
+      "fr": "chanter",
+      "it": "cantare",
+      "pt": "cantar",
+      "zh": "唱歌",
+      "ru": "петь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "うたう"
-    },
-    "infinitive": "歌う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "うたう"
     }
   },
   {
     "id": "ja_354",
+    "lang": "ja",
     "lemma": "止まる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "とまる"
+    },
     "meanings": {
       "ko": "멈추다",
       "en": "stop",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "止まる",
-      "zh": "",
-      "ru": ""
+      "de": "anhalten",
+      "es": "detenerse",
+      "fr": "s'arrêter",
+      "it": "fermarsi",
+      "pt": "parar",
+      "zh": "停止",
+      "ru": "останавливаться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "とまる"
-    },
-    "infinitive": "止まる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "とまる"
     }
   },
   {
     "id": "ja_355",
+    "lang": "ja",
     "lemma": "歩く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あるく"
+    },
     "meanings": {
       "ko": "걷다",
       "en": "walk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "歩く",
-      "zh": "",
-      "ru": ""
+      "de": "gehen",
+      "es": "caminar",
+      "fr": "marcher",
+      "it": "camminare",
+      "pt": "andar",
+      "zh": "走路",
+      "ru": "ходить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あるく"
-    },
-    "infinitive": "歩く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "あるく"
     }
   },
   {
     "id": "ja_356",
+    "lang": "ja",
     "lemma": "死ぬ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しぬ"
+    },
     "meanings": {
       "ko": "죽다",
       "en": "die",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "死ぬ",
-      "zh": "",
-      "ru": ""
+      "de": "sterben",
+      "es": "morir",
+      "fr": "mourir",
+      "it": "morire",
+      "pt": "morrer",
+      "zh": "死",
+      "ru": "умирать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しぬ"
-    },
-    "infinitive": "死ぬ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "しぬ"
     }
   },
   {
     "id": "ja_357",
+    "lang": "ja",
     "lemma": "毎年",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まいねん"
+    },
     "meanings": {
       "ko": "매년",
       "en": "every year",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎年",
-      "zh": "",
-      "ru": ""
+      "de": "jedes Jahr",
+      "es": "cada año",
+      "fr": "chaque année",
+      "it": "ogni anno",
+      "pt": "todo ano",
+      "zh": "每年",
+      "ru": "каждый год"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいねん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいねん"
     }
   },
   {
     "id": "ja_358",
+    "lang": "ja",
     "lemma": "毎日",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "まいにち"
+    },
     "meanings": {
       "ko": "매일",
       "en": "every day",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎日",
-      "zh": "",
-      "ru": ""
+      "de": "jeden Tag",
+      "es": "cada día",
+      "fr": "chaque jour",
+      "it": "ogni giorno",
+      "pt": "todo dia",
+      "zh": "每天",
+      "ru": "каждый день"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいにち"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいにち"
     }
   },
   {
     "id": "ja_359",
+    "lang": "ja",
     "lemma": "毎晩",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まいばん"
+    },
     "meanings": {
       "ko": "매일 밤",
       "en": "every night",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎晩",
-      "zh": "",
-      "ru": ""
+      "de": "jede Nacht",
+      "es": "cada noche",
+      "fr": "chaque nuit",
+      "it": "ogni notte",
+      "pt": "toda noite",
+      "zh": "每晚",
+      "ru": "каждую ночь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいばん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいばん"
     }
   },
   {
     "id": "ja_360",
+    "lang": "ja",
     "lemma": "毎月",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まいげつ"
+    },
     "meanings": {
       "ko": "매달",
       "en": "every month",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎月",
-      "zh": "",
-      "ru": ""
+      "de": "jeden Monat",
+      "es": "cada mes",
+      "fr": "chaque mois",
+      "it": "ogni mese",
+      "pt": "todo mês",
+      "zh": "每月",
+      "ru": "каждый месяц"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいげつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいげつ"
     }
   },
   {
     "id": "ja_361",
+    "lang": "ja",
     "lemma": "毎朝",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まいあさ"
+    },
     "meanings": {
       "ko": "매일 아침",
       "en": "every morning",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎朝",
-      "zh": "",
-      "ru": ""
+      "de": "jeden Morgen",
+      "es": "cada mañana",
+      "fr": "chaque matin",
+      "it": "ogni mattina",
+      "pt": "toda manhã",
+      "zh": "每天早上",
+      "ru": "каждое утро"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいあさ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいあさ"
     }
   },
   {
     "id": "ja_362",
+    "lang": "ja",
     "lemma": "毎週",
-    "pos": "名詞",
+    "pos": "Adverb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "まいしゅう"
+    },
     "meanings": {
       "ko": "매주",
       "en": "every week",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "毎週",
-      "zh": "",
-      "ru": ""
+      "de": "jede Woche",
+      "es": "cada semana",
+      "fr": "chaque semaine",
+      "it": "ogni settimana",
+      "pt": "toda semana",
+      "zh": "每周",
+      "ru": "каждую неделю"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "まいしゅう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "まいしゅう"
     }
   },
   {
     "id": "ja_363",
+    "lang": "ja",
     "lemma": "水曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "すいようび"
+    },
     "meanings": {
       "ko": "수요일",
       "en": "wednesday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "水曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Mittwoch",
+      "es": "el miércoles",
+      "fr": "le mercredi",
+      "it": "il mercoledì",
+      "pt": "a quarta-feira",
+      "zh": "星期三",
+      "ru": "среда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "すいようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "すいようび"
     }
   },
   {
     "id": "ja_364",
+    "lang": "ja",
     "lemma": "汚い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きたない"
+    },
     "meanings": {
       "ko": "더러운",
       "en": "dirty",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "汚い",
-      "zh": "",
-      "ru": ""
+      "de": "schmutzig",
+      "es": "sucio",
+      "fr": "sale",
+      "it": "sporco",
+      "pt": "sujo",
+      "zh": "脏",
+      "ru": "грязный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きたない"
-    },
-    "reading": {
-      "ja": "きたない"
     }
   },
   {
     "id": "ja_365",
+    "lang": "ja",
     "lemma": "泳ぐ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "およぐ"
+    },
     "meanings": {
       "ko": "수영하다",
       "en": "swim",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "泳ぐ",
-      "zh": "",
-      "ru": ""
+      "de": "schwimmen",
+      "es": "nadar",
+      "fr": "nager",
+      "it": "nuotare",
+      "pt": "nadar",
+      "zh": "游泳",
+      "ru": "плавать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "およぐ"
-    },
-    "infinitive": "泳ぐ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "およぐ"
     }
   },
   {
     "id": "ja_366",
+    "lang": "ja",
     "lemma": "洋服",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "travel"
     ],
+    "reading": {
+      "ja": "ようふく"
+    },
     "meanings": {
       "ko": "양복",
       "en": "western clothes",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "洋服",
-      "zh": "",
-      "ru": ""
+      "de": "die westliche Kleidung",
+      "es": "la ropa occidental",
+      "fr": "les vêtements occidentaux",
+      "it": "i vestiti occidentali",
+      "pt": "a roupa ocidental",
+      "zh": "西服",
+      "ru": "западная одежда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ようふく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ようふく"
     }
   },
   {
     "id": "ja_367",
+    "lang": "ja",
     "lemma": "洗う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あらう"
+    },
     "meanings": {
       "ko": "씻다",
       "en": "wash",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "洗う",
-      "zh": "",
-      "ru": ""
+      "de": "waschen",
+      "es": "lavar",
+      "fr": "laver",
+      "it": "lavare",
+      "pt": "lavar",
+      "zh": "洗",
+      "ru": "мыть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あらう"
-    },
-    "infinitive": "洗う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "あらう"
     }
   },
   {
     "id": "ja_368",
+    "lang": "ja",
     "lemma": "洗濯",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "せんたく"
+    },
     "meanings": {
       "ko": "세탁",
       "en": "laundry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "洗濯",
-      "zh": "",
-      "ru": ""
+      "de": "die Wäsche",
+      "es": "la colada",
+      "fr": "la lessive",
+      "it": "il bucato",
+      "pt": "a roupa suja",
+      "zh": "洗涤",
+      "ru": "стирка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せんたく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せんたく"
     }
   },
   {
     "id": "ja_369",
+    "lang": "ja",
     "lemma": "消える",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きえる"
+    },
     "meanings": {
       "ko": "사라지다",
       "en": "disappear",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "消える",
-      "zh": "",
-      "ru": ""
+      "de": "verschwinden",
+      "es": "desaparecer",
+      "fr": "disparaître",
+      "it": "scomparire",
+      "pt": "desaparecer",
+      "zh": "消失",
+      "ru": "исчезать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きえる"
-    },
-    "infinitive": "消える",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "きえる"
     }
   },
   {
     "id": "ja_370",
+    "lang": "ja",
     "lemma": "消す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "끄다, 지우다",
-      "en": "turn off",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "消す",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "けす"
-    },
-    "infinitive": "消す",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "けす"
+    },
+    "meanings": {
+      "ko": "끄다",
+      "en": "turn off",
+      "ja": "消す",
+      "de": "ausschalten",
+      "es": "apagar",
+      "fr": "éteindre",
+      "it": "spegnere",
+      "pt": "desligar",
+      "zh": "关闭",
+      "ru": "выключать"
+    },
+    "meta": {
+      "ja_reading": "けす"
     }
   },
   {
     "id": "ja_371",
+    "lang": "ja",
     "lemma": "涼しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "すずしい"
+    },
     "meanings": {
       "ko": "시원한",
       "en": "cool",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "涼しい",
-      "zh": "",
-      "ru": ""
+      "de": "kühl",
+      "es": "fresco",
+      "fr": "frais",
+      "it": "fresco",
+      "pt": "fresco",
+      "zh": "凉爽",
+      "ru": "прохладный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "すずしい"
-    },
-    "reading": {
-      "ja": "すずしい"
     }
   },
   {
     "id": "ja_372",
+    "lang": "ja",
     "lemma": "渡す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "わたす"
+    },
     "meanings": {
       "ko": "건네주다",
       "en": "hand over",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "渡す",
-      "zh": "",
-      "ru": ""
+      "de": "übergeben",
+      "es": "entregar",
+      "fr": "remettre",
+      "it": "consegnare",
+      "pt": "entregar",
+      "zh": "递给",
+      "ru": "передавать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "わたす"
-    },
-    "infinitive": "渡す",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "わたす"
     }
   },
   {
     "id": "ja_373",
+    "lang": "ja",
     "lemma": "渡る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "わたる"
+    },
     "meanings": {
       "ko": "건너다",
       "en": "cross",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "渡る",
-      "zh": "",
-      "ru": ""
+      "de": "überqueren",
+      "es": "cruzar",
+      "fr": "traverser",
+      "it": "attraversare",
+      "pt": "atravessar",
+      "zh": "渡过",
+      "ru": "пересекать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "わたる"
-    },
-    "infinitive": "渡る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "わたる"
     }
   },
   {
     "id": "ja_374",
+    "lang": "ja",
     "lemma": "温い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぬるい"
+    },
     "meanings": {
       "ko": "미지근한",
       "en": "lukewarm",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "温い",
-      "zh": "",
-      "ru": ""
+      "de": "lauwarm",
+      "es": "tibio",
+      "fr": "tiède",
+      "it": "tiepido",
+      "pt": "morno",
+      "zh": "温",
+      "ru": "теплый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぬるい"
-    },
-    "reading": {
-      "ja": "ぬるい"
     }
   },
   {
     "id": "ja_375",
+    "lang": "ja",
     "lemma": "漢字",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かんじ"
+    },
     "meanings": {
       "ko": "한자",
       "en": "kanji",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "漢字",
-      "zh": "",
-      "ru": ""
+      "de": "das Kanji",
+      "es": "el kanji",
+      "fr": "le kanji",
+      "it": "il kanji",
+      "pt": "o kanji",
+      "zh": "汉字",
+      "ru": "иероглиф"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かんじ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かんじ"
     }
   },
   {
     "id": "ja_376",
+    "lang": "ja",
     "lemma": "火曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "かようび"
+    },
     "meanings": {
       "ko": "화요일",
       "en": "tuesday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "火曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Dienstag",
+      "es": "el martes",
+      "fr": "le mardi",
+      "it": "il martedì",
+      "pt": "a terça-feira",
+      "zh": "星期二",
+      "ru": "вторник"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かようび"
     }
   },
   {
     "id": "ja_377",
+    "lang": "ja",
     "lemma": "灰皿",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はいざら"
+    },
     "meanings": {
       "ko": "재떨이",
       "en": "ashtray",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "灰皿",
-      "zh": "",
-      "ru": ""
+      "de": "der Aschenbecher",
+      "es": "el cenicero",
+      "fr": "le cendrier",
+      "it": "il posacenere",
+      "pt": "o cinzeiro",
+      "zh": "烟灰缸",
+      "ru": "пепельница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はいざら"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はいざら"
     }
   },
   {
     "id": "ja_378",
+    "lang": "ja",
     "lemma": "無くす",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "なくす"
+    },
     "meanings": {
       "ko": "잃어버리다",
       "en": "lose",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "無くす",
-      "zh": "",
-      "ru": ""
+      "de": "verlieren",
+      "es": "perder",
+      "fr": "perdre",
+      "it": "perdere",
+      "pt": "perder",
+      "zh": "丢失",
+      "ru": "терять"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "なくす"
-    },
-    "infinitive": "無くす",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "なくす"
     }
   },
   {
     "id": "ja_379",
+    "lang": "ja",
     "lemma": "熱い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あつい"
+    },
     "meanings": {
       "ko": "뜨거운",
       "en": "hot",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "熱い",
-      "zh": "",
-      "ru": ""
+      "de": "heiß",
+      "es": "caliente",
+      "fr": "chaud",
+      "it": "caldo",
+      "pt": "quente",
+      "zh": "热",
+      "ru": "горячий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あつい"
-    },
-    "reading": {
-      "ja": "あつい"
     }
   },
   {
     "id": "ja_380",
+    "lang": "ja",
     "lemma": "牛乳",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぎゅうにゅう"
+    },
     "meanings": {
       "ko": "우유",
       "en": "milk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "牛乳",
-      "zh": "",
-      "ru": ""
+      "de": "die Milch",
+      "es": "la leche",
+      "fr": "le lait",
+      "it": "il latte",
+      "pt": "o leite",
+      "zh": "牛奶",
+      "ru": "молоко"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぎゅうにゅう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ぎゅうにゅう"
     }
   },
   {
     "id": "ja_381",
+    "lang": "ja",
     "lemma": "牛肉",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぎゅうにく"
+    },
     "meanings": {
       "ko": "소고기",
       "en": "beef",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "牛肉",
-      "zh": "",
-      "ru": ""
+      "de": "das Rindfleisch",
+      "es": "la carne de res",
+      "fr": "le bœuf",
+      "it": "la carne di manzo",
+      "pt": "a carne bovina",
+      "zh": "牛肉",
+      "ru": "говядина"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぎゅうにく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ぎゅうにく"
     }
   },
   {
     "id": "ja_382",
+    "lang": "ja",
     "lemma": "狭い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "せまい"
+    },
     "meanings": {
       "ko": "좁은",
       "en": "narrow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "狭い",
-      "zh": "",
-      "ru": ""
+      "de": "eng",
+      "es": "estrecho",
+      "fr": "étroit",
+      "it": "stretto",
+      "pt": "estreito",
+      "zh": "狭窄",
+      "ru": "узкий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せまい"
-    },
-    "reading": {
-      "ja": "せまい"
     }
   },
   {
     "id": "ja_383",
+    "lang": "ja",
     "lemma": "玄関",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "げんかん"
+    },
     "meanings": {
       "ko": "현관",
       "en": "entrance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "玄関",
-      "zh": "",
-      "ru": ""
+      "de": "der Eingang",
+      "es": "la entrada",
+      "fr": "l'entrée",
+      "it": "l'ingresso",
+      "pt": "a entrada",
+      "zh": "玄关",
+      "ru": "вход"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "げんかん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "げんかん"
     }
   },
   {
     "id": "ja_384",
+    "lang": "ja",
     "lemma": "甘い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あまい"
+    },
     "meanings": {
       "ko": "달콤한",
       "en": "sweet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "甘い",
-      "zh": "",
-      "ru": ""
+      "de": "süß",
+      "es": "dulce",
+      "fr": "doux",
+      "it": "dolce",
+      "pt": "doce",
+      "zh": "甜",
+      "ru": "сладкий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あまい"
-    },
-    "reading": {
-      "ja": "あまい"
     }
   },
   {
     "id": "ja_385",
+    "lang": "ja",
     "lemma": "生まれる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "うまれる"
+    },
     "meanings": {
       "ko": "태어나다",
       "en": "be born",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "生まれる",
-      "zh": "",
-      "ru": ""
+      "de": "geboren werden",
+      "es": "nacer",
+      "fr": "naître",
+      "it": "nascere",
+      "pt": "nascer",
+      "zh": "出生",
+      "ru": "рождаться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "うまれる"
-    },
-    "infinitive": "生まれる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "うまれる"
     }
   },
   {
     "id": "ja_386",
+    "lang": "ja",
     "lemma": "生徒",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "せいと"
+    },
     "meanings": {
       "ko": "학생",
       "en": "student",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "生徒",
-      "zh": "",
-      "ru": ""
+      "de": "der Schüler",
+      "es": "el estudiante",
+      "fr": "l'élève",
+      "it": "lo studente",
+      "pt": "o aluno",
+      "zh": "学生",
+      "ru": "ученик"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せいと"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せいと"
     }
   },
   {
     "id": "ja_387",
+    "lang": "ja",
     "lemma": "男の子",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily",
       "travel"
     ],
+    "reading": {
+      "ja": "おとこのこ"
+    },
     "meanings": {
       "ko": "남자아이",
       "en": "boy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "男の子",
-      "zh": "",
-      "ru": ""
+      "de": "der Junge",
+      "es": "el niño",
+      "fr": "le garçon",
+      "it": "il ragazzo",
+      "pt": "o menino",
+      "zh": "男孩",
+      "ru": "мальчик"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おとこのこ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おとこのこ"
     }
   },
   {
     "id": "ja_388",
+    "lang": "ja",
     "lemma": "留学生",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "りゅうがくせい"
+    },
     "meanings": {
       "ko": "유학생",
       "en": "international student",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "留学生",
-      "zh": "",
-      "ru": ""
+      "de": "der Austauschstudent",
+      "es": "el estudiante internacional",
+      "fr": "l'étudiant étranger",
+      "it": "lo studente internazionale",
+      "pt": "o estudante internacional",
+      "zh": "留学生",
+      "ru": "иностранный студент"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "りゅうがくせい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "りゅうがくせい"
     }
   },
   {
     "id": "ja_389",
+    "lang": "ja",
     "lemma": "番号",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ばんごう"
+    },
     "meanings": {
       "ko": "번호",
       "en": "number",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "番号",
-      "zh": "",
-      "ru": ""
+      "de": "die Nummer",
+      "es": "el número",
+      "fr": "le numéro",
+      "it": "il numero",
+      "pt": "o número",
+      "zh": "号码",
+      "ru": "номер"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ばんごう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ばんごう"
     }
   },
   {
     "id": "ja_390",
+    "lang": "ja",
     "lemma": "疲れる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "つかれる"
+    },
     "meanings": {
       "ko": "피곤하다",
       "en": "get tired",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "疲れる",
-      "zh": "",
-      "ru": ""
+      "de": "müde werden",
+      "es": "cansarse",
+      "fr": "se fatiguer",
+      "it": "stancarsi",
+      "pt": "cansar",
+      "zh": "累",
+      "ru": "уставать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "つかれる"
-    },
-    "infinitive": "疲れる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "つかれる"
     }
   },
   {
     "id": "ja_391",
+    "lang": "ja",
     "lemma": "病気",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "びょうき"
+    },
     "meanings": {
       "ko": "병",
       "en": "illness",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "病気",
-      "zh": "",
-      "ru": ""
+      "de": "die Krankheit",
+      "es": "la enfermedad",
+      "fr": "la maladie",
+      "it": "la malattia",
+      "pt": "a doença",
+      "zh": "疾病",
+      "ru": "болезнь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "びょうき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "びょうき"
     }
   },
   {
     "id": "ja_392",
+    "lang": "ja",
     "lemma": "病院",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "びょういん"
+    },
     "meanings": {
       "ko": "병원",
       "en": "hospital",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "病院",
-      "zh": "",
-      "ru": ""
+      "de": "das Krankenhaus",
+      "es": "el hospital",
+      "fr": "l'hôpital",
+      "it": "l'ospedale",
+      "pt": "o hospital",
+      "zh": "医院",
+      "ru": "больница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "びょういん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "びょういん"
     }
   },
   {
     "id": "ja_393",
+    "lang": "ja",
     "lemma": "痛い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いたい"
+    },
     "meanings": {
       "ko": "아픈",
       "en": "painful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "痛い",
-      "zh": "",
-      "ru": ""
+      "de": "schmerzhaft",
+      "es": "doloroso",
+      "fr": "douloureux",
+      "it": "doloroso",
+      "pt": "doloroso",
+      "zh": "痛",
+      "ru": "больной"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いたい"
-    },
-    "reading": {
-      "ja": "いたい"
     }
   },
   {
     "id": "ja_394",
+    "lang": "ja",
     "lemma": "登る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "のぼる"
+    },
     "meanings": {
       "ko": "오르다",
       "en": "climb",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "登る",
-      "zh": "",
-      "ru": ""
+      "de": "klettern",
+      "es": "escalar",
+      "fr": "grimper",
+      "it": "scalare",
+      "pt": "escalar",
+      "zh": "爬",
+      "ru": "подниматься"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "のぼる"
-    },
-    "infinitive": "登る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "のぼる"
     }
   },
   {
     "id": "ja_395",
+    "lang": "ja",
     "lemma": "白い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しろい"
+    },
     "meanings": {
       "ko": "하얀",
       "en": "white",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "白い",
-      "zh": "",
-      "ru": ""
+      "de": "weiß",
+      "es": "blanco",
+      "fr": "blanc",
+      "it": "bianco",
+      "pt": "branco",
+      "zh": "白",
+      "ru": "белый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しろい"
-    },
-    "reading": {
-      "ja": "しろい"
     }
   },
   {
     "id": "ja_396",
+    "lang": "ja",
     "lemma": "皆さん",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "みなさん"
+    },
     "meanings": {
       "ko": "여러분",
       "en": "everyone",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "皆さん",
-      "zh": "",
-      "ru": ""
+      "de": "alle",
+      "es": "todos",
+      "fr": "tout le monde",
+      "it": "tutti",
+      "pt": "todos",
+      "zh": "大家",
+      "ru": "все"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みなさん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "みなさん"
     }
   },
   {
     "id": "ja_397",
+    "lang": "ja",
     "lemma": "眼鏡",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "めがね"
+    },
     "meanings": {
       "ko": "안경",
       "en": "glasses",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "眼鏡",
-      "zh": "",
-      "ru": ""
+      "de": "die Brille",
+      "es": "las gafas",
+      "fr": "les lunettes",
+      "it": "gli occhiali",
+      "pt": "os óculos",
+      "zh": "眼镜",
+      "ru": "очки"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "めがね"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "めがね"
     }
   },
   {
     "id": "ja_398",
+    "lang": "ja",
     "lemma": "着く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "つく"
+    },
     "meanings": {
       "ko": "도착하다",
       "en": "arrive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "着く",
-      "zh": "",
-      "ru": ""
+      "de": "ankommen",
+      "es": "llegar",
+      "fr": "arriver",
+      "it": "arrivare",
+      "pt": "chegar",
+      "zh": "到达",
+      "ru": "прибывать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "つく"
-    },
-    "infinitive": "着く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "つく"
     }
   },
   {
     "id": "ja_399",
+    "lang": "ja",
     "lemma": "着る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きる"
+    },
     "meanings": {
       "ko": "입다",
       "en": "wear",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "着る",
-      "zh": "",
-      "ru": ""
+      "de": "tragen",
+      "es": "vestir",
+      "fr": "porter",
+      "it": "indossare",
+      "pt": "vestir",
+      "zh": "穿",
+      "ru": "носить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きる"
-    },
-    "infinitive": "着る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "きる"
     }
   },
   {
     "id": "ja_400",
+    "lang": "ja",
     "lemma": "知る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しる"
+    },
     "meanings": {
       "ko": "알다",
       "en": "know",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "知る",
-      "zh": "",
-      "ru": ""
+      "de": "wissen",
+      "es": "saber",
+      "fr": "savoir",
+      "it": "sapere",
+      "pt": "saber",
+      "zh": "知道",
+      "ru": "знать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しる"
-    },
-    "infinitive": "知る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "しる"
     }
   },
   {
     "id": "ja_401",
+    "lang": "ja",
     "lemma": "短い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "みじかい"
+    },
     "meanings": {
       "ko": "짧은",
       "en": "short",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "短い",
-      "zh": "",
-      "ru": ""
+      "de": "kurz",
+      "es": "corto",
+      "fr": "court",
+      "it": "corto",
+      "pt": "curto",
+      "zh": "短",
+      "ru": "короткий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みじかい"
-    },
-    "reading": {
-      "ja": "みじかい"
     }
   },
   {
     "id": "ja_402",
+    "lang": "ja",
     "lemma": "砂糖",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "さとう"
+    },
     "meanings": {
       "ko": "설탕",
       "en": "sugar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "砂糖",
-      "zh": "",
-      "ru": ""
+      "de": "der Zucker",
+      "es": "el azúcar",
+      "fr": "le sucre",
+      "it": "lo zucchero",
+      "pt": "o açúcar",
+      "zh": "糖",
+      "ru": "сахар"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "さとう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "さとう"
     }
   },
   {
     "id": "ja_403",
+    "lang": "ja",
     "lemma": "磨く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "みがく"
+    },
     "meanings": {
       "ko": "닦다",
       "en": "brush",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "磨く",
-      "zh": "",
-      "ru": ""
+      "de": "bürsten",
+      "es": "cepillar",
+      "fr": "brosser",
+      "it": "spazzolare",
+      "pt": "escovar",
+      "zh": "刷",
+      "ru": "чистить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みがく"
-    },
-    "infinitive": "磨く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "みがく"
     }
   },
   {
     "id": "ja_404",
+    "lang": "ja",
     "lemma": "立つ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "たつ"
+    },
     "meanings": {
       "ko": "서다",
       "en": "stand",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "立つ",
-      "zh": "",
-      "ru": ""
+      "de": "stehen",
+      "es": "estar de pie",
+      "fr": "se tenir debout",
+      "it": "stare in piedi",
+      "pt": "ficar de pé",
+      "zh": "站立",
+      "ru": "стоять"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たつ"
-    },
-    "infinitive": "立つ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "たつ"
     }
   },
   {
     "id": "ja_405",
+    "lang": "ja",
     "lemma": "答える",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "こたえる"
+    },
     "meanings": {
       "ko": "대답하다",
       "en": "answer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "答える",
-      "zh": "",
-      "ru": ""
+      "de": "antworten",
+      "es": "responder",
+      "fr": "répondre",
+      "it": "rispondere",
+      "pt": "responder",
+      "zh": "回答",
+      "ru": "отвечать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こたえる"
-    },
-    "infinitive": "答える",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "こたえる"
     }
   },
   {
     "id": "ja_406",
+    "lang": "ja",
     "lemma": "紅茶",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "こうちゃ"
+    },
     "meanings": {
       "ko": "홍차",
       "en": "black tea",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "紅茶",
-      "zh": "",
-      "ru": ""
+      "de": "der Schwarztee",
+      "es": "el té negro",
+      "fr": "le thé noir",
+      "it": "il tè nero",
+      "pt": "o chá preto",
+      "zh": "红茶",
+      "ru": "черный чай"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "こうちゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "こうちゃ"
     }
   },
   {
     "id": "ja_407",
+    "lang": "ja",
     "lemma": "細い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ほそい"
+    },
     "meanings": {
       "ko": "가는",
       "en": "thin",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "細い",
-      "zh": "",
-      "ru": ""
+      "de": "dünn",
+      "es": "delgado",
+      "fr": "fin",
+      "it": "sottile",
+      "pt": "fino",
+      "zh": "细",
+      "ru": "тонкий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ほそい"
-    },
-    "reading": {
-      "ja": "ほそい"
     }
   },
   {
     "id": "ja_408",
+    "lang": "ja",
     "lemma": "終わる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "おわる"
+    },
     "meanings": {
       "ko": "끝나다",
       "en": "end",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "終わる",
-      "zh": "",
-      "ru": ""
+      "de": "enden",
+      "es": "terminar",
+      "fr": "finir",
+      "it": "finire",
+      "pt": "terminar",
+      "zh": "结束",
+      "ru": "заканчиваться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おわる"
-    },
-    "infinitive": "終わる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "おわる"
     }
   },
   {
     "id": "ja_409",
+    "lang": "ja",
     "lemma": "結婚",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "けっこん"
+    },
     "meanings": {
       "ko": "결혼",
       "en": "marriage",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "結婚",
-      "zh": "",
-      "ru": ""
+      "de": "die Ehe",
+      "es": "el matrimonio",
+      "fr": "le mariage",
+      "it": "il matrimonio",
+      "pt": "o casamento",
+      "zh": "结婚",
+      "ru": "брак"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "けっこん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "けっこん"
     }
   },
   {
     "id": "ja_410",
+    "lang": "ja",
     "lemma": "結構",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "けっこう"
+    },
     "meanings": {
       "ko": "괜찮은",
       "en": "fine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "結構",
-      "zh": "",
-      "ru": ""
+      "de": "in Ordnung",
+      "es": "bastante",
+      "fr": "assez",
+      "it": "abbastanza",
+      "pt": "bastante",
+      "zh": "相当",
+      "ru": "довольно"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "けっこう"
-    },
-    "reading": {
-      "ja": "けっこう"
     }
   },
   {
     "id": "ja_411",
+    "lang": "ja",
     "lemma": "締める",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しめる"
+    },
     "meanings": {
       "ko": "조이다",
       "en": "fasten",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "締める",
-      "zh": "",
-      "ru": ""
+      "de": "festziehen",
+      "es": "abrochar",
+      "fr": "attacher",
+      "it": "allacciare",
+      "pt": "apertar",
+      "zh": "系紧",
+      "ru": "застегивать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しめる"
-    },
-    "infinitive": "締める",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "しめる"
     }
   },
   {
     "id": "ja_412",
+    "lang": "ja",
     "lemma": "置く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おく"
+    },
     "meanings": {
       "ko": "놓다",
       "en": "put",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "置く",
-      "zh": "",
-      "ru": ""
+      "de": "legen",
+      "es": "poner",
+      "fr": "poser",
+      "it": "mettere",
+      "pt": "pôr",
+      "zh": "放置",
+      "ru": "класть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おく"
-    },
-    "infinitive": "置く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "おく"
     }
   },
   {
     "id": "ja_413",
+    "lang": "ja",
     "lemma": "習う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "ならう"
+    },
     "meanings": {
       "ko": "배우다",
       "en": "learn",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "習う",
-      "zh": "",
-      "ru": ""
+      "de": "lernen",
+      "es": "aprender",
+      "fr": "apprendre",
+      "it": "imparare",
+      "pt": "aprender",
+      "zh": "学习",
+      "ru": "учить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ならう"
-    },
-    "infinitive": "習う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "ならう"
     }
   },
   {
     "id": "ja_414",
+    "lang": "ja",
     "lemma": "聞く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "듣다, 묻다",
-      "en": "listen, ask",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "聞く",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "きく"
-    },
-    "infinitive": "聞く",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "きく"
+    },
+    "meanings": {
+      "ko": "듣다",
+      "en": "listen",
+      "ja": "聞く",
+      "de": "hören",
+      "es": "escuchar",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "pt": "ouvir",
+      "zh": "听",
+      "ru": "слушать"
+    },
+    "meta": {
+      "ja_reading": "きく"
     }
   },
   {
     "id": "ja_415",
+    "lang": "ja",
     "lemma": "背広",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "ja": "せびろ"
+    },
     "meanings": {
       "ko": "양복",
       "en": "business suit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "背広",
-      "zh": "",
-      "ru": ""
+      "de": "der Anzug",
+      "es": "el traje",
+      "fr": "le costume",
+      "it": "il completo",
+      "pt": "o terno",
+      "zh": "西装",
+      "ru": "деловой костюм"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "せびろ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "せびろ"
     }
   },
   {
     "id": "ja_416",
+    "lang": "ja",
     "lemma": "脱ぐ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぬぐ"
+    },
     "meanings": {
       "ko": "벗다",
       "en": "take off",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "脱ぐ",
-      "zh": "",
-      "ru": ""
+      "de": "ausziehen",
+      "es": "quitarse",
+      "fr": "enlever",
+      "it": "togliersi",
+      "pt": "tirar",
+      "zh": "脱",
+      "ru": "снимать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぬぐ"
-    },
-    "infinitive": "脱ぐ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "ぬぐ"
     }
   },
   {
     "id": "ja_417",
+    "lang": "ja",
     "lemma": "自分",
-    "pos": "名詞",
+    "pos": "Pronomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "じぶん"
+    },
     "meanings": {
       "ko": "자신",
       "en": "self",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "自分",
-      "zh": "",
-      "ru": ""
+      "de": "sich selbst",
+      "es": "uno mismo",
+      "fr": "soi-même",
+      "it": "se stesso",
+      "pt": "si mesmo",
+      "zh": "自己",
+      "ru": "себя"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じぶん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "じぶん"
     }
   },
   {
     "id": "ja_418",
+    "lang": "ja",
     "lemma": "自動車",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "じどうしゃ"
+    },
     "meanings": {
       "ko": "자동차",
       "en": "car",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "自動車",
-      "zh": "",
-      "ru": ""
+      "de": "das Auto",
+      "es": "el coche",
+      "fr": "la voiture",
+      "it": "l'automobile",
+      "pt": "o carro",
+      "zh": "汽车",
+      "ru": "автомобиль"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じどうしゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "じどうしゃ"
     }
   },
   {
     "id": "ja_419",
+    "lang": "ja",
     "lemma": "自転車",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "じてんしゃ"
+    },
     "meanings": {
       "ko": "자전거",
       "en": "bicycle",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "自転車",
-      "zh": "",
-      "ru": ""
+      "de": "das Fahrrad",
+      "es": "la bicicleta",
+      "fr": "le vélo",
+      "it": "la bicicletta",
+      "pt": "a bicicleta",
+      "zh": "自行车",
+      "ru": "велосипед"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じてんしゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "じてんしゃ"
     }
   },
   {
     "id": "ja_420",
+    "lang": "ja",
     "lemma": "花瓶",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かびん"
+    },
     "meanings": {
       "ko": "꽃병",
       "en": "flower vase",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "花瓶",
-      "zh": "",
-      "ru": ""
+      "de": "die Blumenvase",
+      "es": "el florero",
+      "fr": "le vase",
+      "it": "il vaso di fiori",
+      "pt": "o vaso de flores",
+      "zh": "花瓶",
+      "ru": "ваза для цветов"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かびん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かびん"
     }
   },
   {
     "id": "ja_421",
+    "lang": "ja",
     "lemma": "若い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "わかい"
+    },
     "meanings": {
       "ko": "젊은",
       "en": "young",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "若い",
-      "zh": "",
-      "ru": ""
+      "de": "jung",
+      "es": "joven",
+      "fr": "jeune",
+      "it": "giovane",
+      "pt": "jovem",
+      "zh": "年轻",
+      "ru": "молодой"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "わかい"
-    },
-    "reading": {
-      "ja": "わかい"
     }
   },
   {
     "id": "ja_422",
+    "lang": "ja",
     "lemma": "英語",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "えいご"
+    },
     "meanings": {
       "ko": "영어",
       "en": "english",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "英語",
-      "zh": "",
-      "ru": ""
+      "de": "Englisch",
+      "es": "el inglés",
+      "fr": "l'anglais",
+      "it": "l'inglese",
+      "pt": "o inglês",
+      "zh": "英语",
+      "ru": "английский язык"
     },
-    "examples": [],
     "meta": {
-      "ja_reading": "えいご"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "えいご"
+      "ja_reading": "えいご",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "ja_423",
+    "lang": "ja",
     "lemma": "茶色",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ちゃいろ"
+    },
     "meanings": {
       "ko": "갈색",
       "en": "brown",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "茶色",
-      "zh": "",
-      "ru": ""
+      "de": "das Braun",
+      "es": "el marrón",
+      "fr": "le marron",
+      "it": "il giallo",
+      "pt": "o marrom",
+      "zh": "棕色",
+      "ru": "коричневый цвет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ちゃいろ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ちゃいろ"
     }
   },
   {
     "id": "ja_424",
+    "lang": "ja",
     "lemma": "荷物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "にもつ"
+    },
     "meanings": {
       "ko": "짐",
       "en": "luggage",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "荷物",
-      "zh": "",
-      "ru": ""
+      "de": "das Gepäck",
+      "es": "el equipaje",
+      "fr": "les bagages",
+      "it": "il bagaglio",
+      "pt": "a bagagem",
+      "zh": "行李",
+      "ru": "багаж"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "にもつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "にもつ"
     }
   },
   {
     "id": "ja_425",
+    "lang": "ja",
     "lemma": "葉書",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "はがき"
+    },
     "meanings": {
       "ko": "엽서",
       "en": "postcard",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "葉書",
-      "zh": "",
-      "ru": ""
+      "de": "die Postkarte",
+      "es": "la postal",
+      "fr": "la carte postale",
+      "it": "la cartolina",
+      "pt": "o cartão postal",
+      "zh": "明信片",
+      "ru": "открытка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はがき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "はがき"
     }
   },
   {
     "id": "ja_426",
+    "lang": "ja",
     "lemma": "薄い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "얇다, 연하다",
-      "en": "thin, light",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "薄い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "うすい"
-    },
     "reading": {
       "ja": "うすい"
+    },
+    "meanings": {
+      "ko": "얇다",
+      "en": "thin",
+      "ja": "薄い",
+      "de": "dünn",
+      "es": "fino",
+      "fr": "fin",
+      "it": "sottile",
+      "pt": "fino",
+      "zh": "薄",
+      "ru": "тонкий"
+    },
+    "meta": {
+      "ja_reading": "うすい"
     }
   },
   {
     "id": "ja_427",
+    "lang": "ja",
     "lemma": "行く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いく"
+    },
     "meanings": {
       "ko": "가다",
       "en": "go",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "行く",
-      "zh": "",
-      "ru": ""
+      "de": "gehen",
+      "es": "ir",
+      "fr": "aller",
+      "it": "andare",
+      "pt": "ir",
+      "zh": "去",
+      "ru": "идти"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いく"
-    },
-    "infinitive": "行く",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "いく"
     }
   },
   {
     "id": "ja_428",
+    "lang": "ja",
     "lemma": "要る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "いる"
+    },
     "meanings": {
       "ko": "필요하다",
       "en": "need",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "要る",
-      "zh": "",
-      "ru": ""
+      "de": "brauchen",
+      "es": "necesitar",
+      "fr": "avoir besoin de",
+      "it": "aver bisogno di",
+      "pt": "precisar",
+      "zh": "需要",
+      "ru": "нуждаться"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いる"
-    },
-    "infinitive": "要る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "いる"
     }
   },
   {
     "id": "ja_429",
+    "lang": "ja",
     "lemma": "見せる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "みせる"
+    },
     "meanings": {
       "ko": "보여주다",
       "en": "show",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "見せる",
-      "zh": "",
-      "ru": ""
+      "de": "zeigen",
+      "es": "mostrar",
+      "fr": "montrer",
+      "it": "mostrare",
+      "pt": "mostrar",
+      "zh": "展示",
+      "ru": "показывать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "みせる"
-    },
-    "infinitive": "見せる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "みせる"
     }
   },
   {
     "id": "ja_430",
+    "lang": "ja",
     "lemma": "覚える",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
-    "meanings": {
-      "ko": "기억하다, 배우다",
-      "en": "remember, learn",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "覚える",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おぼえる"
-    },
-    "infinitive": "覚える",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "おぼえる"
+    },
+    "meanings": {
+      "ko": "기억하다",
+      "en": "remember",
+      "ja": "覚える",
+      "de": "sich erinnern",
+      "es": "recordar",
+      "fr": "se souvenir",
+      "it": "ricordare",
+      "pt": "lembrar",
+      "zh": "记住",
+      "ru": "помнить"
+    },
+    "meta": {
+      "ja_reading": "おぼえる"
     }
   },
   {
     "id": "ja_431",
+    "lang": "ja",
     "lemma": "言う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "いう"
+    },
     "meanings": {
       "ko": "말하다",
       "en": "say",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "言う",
-      "zh": "",
-      "ru": ""
+      "de": "sagen",
+      "es": "decir",
+      "fr": "dire",
+      "it": "dire",
+      "pt": "dizer",
+      "zh": "说",
+      "ru": "говорить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "いう"
-    },
-    "infinitive": "言う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "いう"
     }
   },
   {
     "id": "ja_432",
+    "lang": "ja",
     "lemma": "言葉",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "말, 언어",
-      "en": "word, language",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "言葉",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ことば"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ことば"
+    },
+    "meanings": {
+      "ko": "말",
+      "en": "word",
+      "ja": "言葉",
+      "de": "das Wort",
+      "es": "la palabra",
+      "fr": "le mot",
+      "it": "la parola",
+      "pt": "a palavra",
+      "zh": "词语",
+      "ru": "слово"
+    },
+    "meta": {
+      "ja_reading": "ことば"
     }
   },
   {
     "id": "ja_433",
+    "lang": "ja",
     "lemma": "話す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "이야기하다, 말하다",
-      "en": "speak, talk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "話す",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はなす"
-    },
-    "infinitive": "話す",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "はなす"
+    },
+    "meanings": {
+      "ko": "이야기하다",
+      "en": "speak",
+      "ja": "話す",
+      "de": "sprechen",
+      "es": "hablar",
+      "fr": "parler",
+      "it": "parlare",
+      "pt": "falar",
+      "zh": "说话",
+      "ru": "говорить"
+    },
+    "meta": {
+      "ja_reading": "はなす"
     }
   },
   {
     "id": "ja_434",
+    "lang": "ja",
     "lemma": "誕生日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "たんじょうび"
+    },
     "meanings": {
       "ko": "생일",
       "en": "birthday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "誕生日",
-      "zh": "",
-      "ru": ""
+      "de": "der Geburtstag",
+      "es": "el cumpleaños",
+      "fr": "l'anniversaire",
+      "it": "il compleanno",
+      "pt": "o aniversário",
+      "zh": "生日",
+      "ru": "день рождения"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たんじょうび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たんじょうび"
     }
   },
   {
     "id": "ja_435",
+    "lang": "ja",
     "lemma": "読む",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "work"
     ],
+    "reading": {
+      "ja": "よむ"
+    },
     "meanings": {
       "ko": "읽다",
       "en": "read",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "読む",
-      "zh": "",
-      "ru": ""
+      "de": "lesen",
+      "es": "leer",
+      "fr": "lire",
+      "it": "leggere",
+      "pt": "ler",
+      "zh": "读",
+      "ru": "читать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "よむ"
-    },
-    "infinitive": "読む",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "よむ"
     }
   },
   {
     "id": "ja_436",
+    "lang": "ja",
     "lemma": "警官",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ja": "けいかん"
+    },
     "meanings": {
       "ko": "경찰관",
       "en": "police officer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "警官",
-      "zh": "",
-      "ru": ""
+      "de": "der Polizist",
+      "es": "el policía",
+      "fr": "le policier",
+      "it": "il poliziotto",
+      "pt": "o policial",
+      "zh": "警察",
+      "ru": "полицейский"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "けいかん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "けいかん"
     }
   },
   {
     "id": "ja_437",
+    "lang": "ja",
     "lemma": "豚肉",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ぶたにく"
+    },
     "meanings": {
       "ko": "돼지고기",
       "en": "pork",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "豚肉",
-      "zh": "",
-      "ru": ""
+      "de": "das Schweinefleisch",
+      "es": "la carne de cerdo",
+      "fr": "le porc",
+      "it": "la carne di maiale",
+      "pt": "a carne de porco",
+      "zh": "猪肉",
+      "ru": "свинина"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぶたにく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ぶたにく"
     }
   },
   {
     "id": "ja_438",
+    "lang": "ja",
     "lemma": "財布",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "さいふ"
+    },
     "meanings": {
       "ko": "지갑",
       "en": "wallet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "財布",
-      "zh": "",
-      "ru": ""
+      "de": "die Brieftasche",
+      "es": "la cartera",
+      "fr": "le portefeuille",
+      "it": "il portafoglio",
+      "pt": "a carteira",
+      "zh": "钱包",
+      "ru": "кошелек"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "さいふ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "さいふ"
     }
   },
   {
     "id": "ja_439",
+    "lang": "ja",
     "lemma": "買い物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "쇼핑, 장보기",
-      "en": "shopping",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "買い物",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かいもの"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "かいもの"
+    },
+    "meanings": {
+      "ko": "쇼핑",
+      "en": "shopping",
+      "ja": "買い物",
+      "de": "der Einkauf",
+      "es": "la compra",
+      "fr": "le shopping",
+      "it": "lo shopping",
+      "pt": "as compras",
+      "zh": "购物",
+      "ru": "покупки"
+    },
+    "meta": {
+      "ja_reading": "かいもの"
     }
   },
   {
     "id": "ja_440",
+    "lang": "ja",
     "lemma": "買う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かう"
+    },
     "meanings": {
       "ko": "사다",
       "en": "buy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "買う",
-      "zh": "",
-      "ru": ""
+      "de": "kaufen",
+      "es": "comprar",
+      "fr": "acheter",
+      "it": "comprare",
+      "pt": "comprar",
+      "zh": "买",
+      "ru": "покупать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かう"
-    },
-    "infinitive": "買う",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "かう"
     }
   },
   {
     "id": "ja_441",
+    "lang": "ja",
     "lemma": "貸す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "かす"
+    },
     "meanings": {
       "ko": "빌려주다",
       "en": "lend",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "貸す",
-      "zh": "",
-      "ru": ""
+      "de": "leihen",
+      "es": "prestar",
+      "fr": "prêter",
+      "it": "prestare",
+      "pt": "emprestar",
+      "zh": "借出",
+      "ru": "одалживать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かす"
-    },
-    "infinitive": "貸す",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "かす"
     }
   },
   {
     "id": "ja_442",
+    "lang": "ja",
     "lemma": "貼る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "붙이다",
-      "en": "stick, paste",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "貼る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はる"
-    },
-    "infinitive": "貼る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "はる"
+    },
+    "meanings": {
+      "ko": "붙이다",
+      "en": "stick",
+      "ja": "貼る",
+      "de": "kleben",
+      "es": "pegar",
+      "fr": "coller",
+      "it": "incollare",
+      "pt": "colar",
+      "zh": "贴",
+      "ru": "клеить"
+    },
+    "meta": {
+      "ja_reading": "はる"
     }
   },
   {
     "id": "ja_443",
+    "lang": "ja",
     "lemma": "賑やか",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13277,118 +12905,117 @@ const WORDS_JA_A1 = [
       "smalltalk",
       "travel"
     ],
-    "meanings": {
-      "ko": "번화하다, 활기차다",
-      "en": "lively, bustling",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "賑やか",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "にぎやか"
-    },
     "reading": {
       "ja": "にぎやか"
+    },
+    "meanings": {
+      "ko": "번화하다",
+      "en": "lively",
+      "ja": "賑やか",
+      "de": "lebhaft",
+      "es": "animado",
+      "fr": "animé",
+      "it": "vivace",
+      "pt": "animado",
+      "zh": "热闹",
+      "ru": "оживленный"
+    },
+    "meta": {
+      "ja_reading": "にぎやか"
     }
   },
   {
     "id": "ja_444",
+    "lang": "ja",
     "lemma": "質問",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しつもん"
+    },
     "meanings": {
       "ko": "질문",
       "en": "question",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "質問",
-      "zh": "",
-      "ru": ""
+      "de": "die Frage",
+      "es": "la pregunta",
+      "fr": "la question",
+      "it": "la domanda",
+      "pt": "a pergunta",
+      "zh": "问题",
+      "ru": "вопрос"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しつもん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しつもん"
     }
   },
   {
     "id": "ja_445",
+    "lang": "ja",
     "lemma": "赤い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あかい"
+    },
     "meanings": {
       "ko": "빨갛다",
       "en": "red",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "赤い",
-      "zh": "",
-      "ru": ""
+      "de": "rot",
+      "es": "rojo",
+      "fr": "rouge",
+      "it": "rosso",
+      "pt": "vermelho",
+      "zh": "红",
+      "ru": "красный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あかい"
-    },
-    "reading": {
-      "ja": "あかい"
     }
   },
   {
     "id": "ja_446",
+    "lang": "ja",
     "lemma": "走る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "はしる"
+    },
     "meanings": {
       "ko": "달리다",
       "en": "run",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "走る",
-      "zh": "",
-      "ru": ""
+      "de": "rennen",
+      "es": "correr",
+      "fr": "courir",
+      "it": "correre",
+      "pt": "correr",
+      "zh": "跑",
+      "ru": "бегать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "はしる"
-    },
-    "infinitive": "走る",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "はしる"
     }
   },
   {
     "id": "ja_447",
+    "lang": "ja",
     "lemma": "起きる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13396,1070 +13023,1046 @@ const WORDS_JA_A1 = [
       "daily",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "일어나다, 발생하다",
-      "en": "wake up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "起きる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おきる"
-    },
-    "infinitive": "起きる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "おきる"
+    },
+    "meanings": {
+      "ko": "일어나다",
+      "en": "wake up",
+      "ja": "起きる",
+      "de": "aufwachen",
+      "es": "despertarse",
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "pt": "acordar",
+      "zh": "起床",
+      "ru": "просыпаться"
+    },
+    "meta": {
+      "ja_reading": "おきる"
     }
   },
   {
     "id": "ja_448",
+    "lang": "ja",
     "lemma": "軽い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かるい"
+    },
     "meanings": {
       "ko": "가볍다",
       "en": "light",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "軽い",
-      "zh": "",
-      "ru": ""
+      "de": "leicht",
+      "es": "ligero",
+      "fr": "léger",
+      "it": "leggero",
+      "pt": "leve",
+      "zh": "轻",
+      "ru": "легкий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かるい"
-    },
-    "reading": {
-      "ja": "かるい"
     }
   },
   {
     "id": "ja_449",
+    "lang": "ja",
     "lemma": "辛い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "맵다, 쓰다",
-      "en": "spicy, painful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "辛い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "からい"
-    },
     "reading": {
       "ja": "からい"
+    },
+    "meanings": {
+      "ko": "맵다",
+      "en": "spicy",
+      "ja": "辛い",
+      "de": "scharf",
+      "es": "picante",
+      "fr": "épicé",
+      "it": "piccante",
+      "pt": "picante",
+      "zh": "辣",
+      "ru": "острый"
+    },
+    "meta": {
+      "ja_reading": "からい"
     }
   },
   {
     "id": "ja_450",
+    "lang": "ja",
     "lemma": "辞書",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "じしょ"
+    },
     "meanings": {
       "ko": "사전",
       "en": "dictionary",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "辞書",
-      "zh": "",
-      "ru": ""
+      "de": "das Wörterbuch",
+      "es": "el diccionario",
+      "fr": "le dictionnaire",
+      "it": "il dizionario",
+      "pt": "o dicionário",
+      "zh": "词典",
+      "ru": "словарь"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "じしょ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "じしょ"
     }
   },
   {
     "id": "ja_451",
+    "lang": "ja",
     "lemma": "近い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "가깝다",
-      "en": "near, close",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "近い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちかい"
-    },
     "reading": {
       "ja": "ちかい"
+    },
+    "meanings": {
+      "ko": "가깝다",
+      "en": "near",
+      "ja": "近い",
+      "de": "nah",
+      "es": "cercano",
+      "fr": "proche",
+      "it": "vicino",
+      "pt": "perto",
+      "zh": "近",
+      "ru": "близкий"
+    },
+    "meta": {
+      "ja_reading": "ちかい"
     }
   },
   {
     "id": "ja_452",
+    "lang": "ja",
     "lemma": "近く",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "근처",
-      "en": "nearby, vicinity",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "近く",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちかく"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "ちかく"
+    },
+    "meanings": {
+      "ko": "근처",
+      "en": "nearby",
+      "ja": "近く",
+      "de": "die Nähe",
+      "es": "la cercanía",
+      "fr": "les environs",
+      "it": "la vicinanza",
+      "pt": "a proximidade",
+      "zh": "附近",
+      "ru": "поблизости"
+    },
+    "meta": {
+      "ja_reading": "ちかく"
     }
   },
   {
     "id": "ja_453",
+    "lang": "ja",
     "lemma": "返す",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "돌려주다",
-      "en": "return, give",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "返す",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かえす"
-    },
-    "infinitive": "返す",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "かえす"
+    },
+    "meanings": {
+      "ko": "돌려주다",
+      "en": "return",
+      "ja": "返す",
+      "de": "zurückgeben",
+      "es": "devolver",
+      "fr": "rendre",
+      "it": "restituire",
+      "pt": "devolver",
+      "zh": "归还",
+      "ru": "возвращать"
+    },
+    "meta": {
+      "ja_reading": "かえす"
     }
   },
   {
     "id": "ja_454",
+    "lang": "ja",
     "lemma": "速い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "빠르다",
-      "en": "fast, quick",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "速い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "はやい"
-    },
     "reading": {
       "ja": "はやい"
+    },
+    "meanings": {
+      "ko": "빠르다",
+      "en": "fast",
+      "ja": "速い",
+      "de": "schnell",
+      "es": "rápido",
+      "fr": "rapide",
+      "it": "veloce",
+      "pt": "rápido",
+      "zh": "快",
+      "ru": "быстрый"
+    },
+    "meta": {
+      "ja_reading": "はやい"
     }
   },
   {
     "id": "ja_455",
+    "lang": "ja",
     "lemma": "遅い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "느리다, 늦다",
-      "en": "slow, late",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "遅い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "おそい"
-    },
     "reading": {
       "ja": "おそい"
+    },
+    "meanings": {
+      "ko": "느리다",
+      "en": "slow",
+      "ja": "遅い",
+      "de": "langsam",
+      "es": "lento",
+      "fr": "lent",
+      "it": "lento",
+      "pt": "lento",
+      "zh": "慢",
+      "ru": "медленный"
+    },
+    "meta": {
+      "ja_reading": "おそい"
     }
   },
   {
     "id": "ja_456",
+    "lang": "ja",
     "lemma": "遊ぶ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "あそぶ"
+    },
     "meanings": {
       "ko": "놀다",
       "en": "play",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "遊ぶ",
-      "zh": "",
-      "ru": ""
+      "de": "spielen",
+      "es": "jugar",
+      "fr": "jouer",
+      "it": "giocare",
+      "pt": "brincar",
+      "zh": "玩",
+      "ru": "играть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "あそぶ"
-    },
-    "infinitive": "遊ぶ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "あそぶ"
     }
   },
   {
     "id": "ja_457",
+    "lang": "ja",
     "lemma": "違う",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "다르다, 틀리다",
-      "en": "differ, wrong",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "違う",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ちがう"
-    },
-    "infinitive": "違う",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ちがう"
+    },
+    "meanings": {
+      "ko": "다르다",
+      "en": "differ",
+      "ja": "違う",
+      "de": "sich unterscheiden",
+      "es": "ser diferente",
+      "fr": "être différent",
+      "it": "essere diverso",
+      "pt": "ser diferente",
+      "zh": "不同",
+      "ru": "отличаться"
+    },
+    "meta": {
+      "ja_reading": "ちがう"
     }
   },
   {
     "id": "ja_458",
+    "lang": "ja",
     "lemma": "遠い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "멀다",
-      "en": "far, distant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "遠い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "とおい"
-    },
     "reading": {
       "ja": "とおい"
+    },
+    "meanings": {
+      "ko": "멀다",
+      "en": "far",
+      "ja": "遠い",
+      "de": "weit",
+      "es": "lejano",
+      "fr": "lointain",
+      "it": "lontano",
+      "pt": "distante",
+      "zh": "远",
+      "ru": "далекий"
+    },
+    "meta": {
+      "ja_reading": "とおい"
     }
   },
   {
     "id": "ja_459",
+    "lang": "ja",
     "lemma": "部屋",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "へや"
+    },
     "meanings": {
       "ko": "방",
       "en": "room",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "部屋",
-      "zh": "",
-      "ru": ""
+      "de": "das Zimmer",
+      "es": "la habitación",
+      "fr": "la chambre",
+      "it": "la stanza",
+      "pt": "o quarto",
+      "zh": "房间",
+      "ru": "комната"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "へや"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "へや"
     }
   },
   {
     "id": "ja_460",
+    "lang": "ja",
     "lemma": "郵便局",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ja": "ゆうびんきょく"
+    },
     "meanings": {
       "ko": "우체국",
       "en": "post office",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "郵便局",
-      "zh": "",
-      "ru": ""
+      "de": "die Post",
+      "es": "la oficina de correos",
+      "fr": "la poste",
+      "it": "l'ufficio postale",
+      "pt": "os correios",
+      "zh": "邮局",
+      "ru": "почта"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ゆうびんきょく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ゆうびんきょく"
     }
   },
   {
     "id": "ja_461",
+    "lang": "ja",
     "lemma": "重い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おもい"
+    },
     "meanings": {
       "ko": "무겁다",
       "en": "heavy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "重い",
-      "zh": "",
-      "ru": ""
+      "de": "schwer",
+      "es": "pesado",
+      "fr": "lourd",
+      "it": "pesante",
+      "pt": "pesado",
+      "zh": "重",
+      "ru": "тяжелый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おもい"
-    },
-    "reading": {
-      "ja": "おもい"
     }
   },
   {
     "id": "ja_462",
+    "lang": "ja",
     "lemma": "野菜",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "やさい"
+    },
     "meanings": {
       "ko": "야채",
       "en": "vegetable",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "野菜",
-      "zh": "",
-      "ru": ""
+      "de": "das Gemüse",
+      "es": "la verdura",
+      "fr": "le légume",
+      "it": "la verdura",
+      "pt": "o vegetal",
+      "zh": "蔬菜",
+      "ru": "овощ"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "やさい"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "やさい"
     }
   },
   {
     "id": "ja_463",
+    "lang": "ja",
     "lemma": "金曜日",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きんようび"
+    },
     "meanings": {
       "ko": "금요일",
       "en": "friday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "金曜日",
-      "zh": "",
-      "ru": ""
+      "de": "der Freitag",
+      "es": "el viernes",
+      "fr": "le vendredi",
+      "it": "il venerdì",
+      "pt": "a sexta-feira",
+      "zh": "星期五",
+      "ru": "пятница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きんようび"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きんようび"
     }
   },
   {
     "id": "ja_464",
+    "lang": "ja",
     "lemma": "鉛筆",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "えんぴつ"
+    },
     "meanings": {
       "ko": "연필",
       "en": "pencil",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "鉛筆",
-      "zh": "",
-      "ru": ""
+      "de": "der Bleistift",
+      "es": "el lápiz",
+      "fr": "le crayon",
+      "it": "la matita",
+      "pt": "o lápis",
+      "zh": "铅笔",
+      "ru": "карандаш"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "えんぴつ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "えんぴつ"
     }
   },
   {
     "id": "ja_465",
+    "lang": "ja",
     "lemma": "銀行",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "ja": "ぎんこう"
+    },
     "meanings": {
       "ko": "은행",
       "en": "bank",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "銀行",
-      "zh": "",
-      "ru": ""
+      "de": "die Bank",
+      "es": "el banco",
+      "fr": "la banque",
+      "it": "la banca",
+      "pt": "o banco",
+      "zh": "银行",
+      "ru": "банк"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ぎんこう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ぎんこう"
     }
   },
   {
     "id": "ja_466",
+    "lang": "ja",
     "lemma": "長い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "travel"
     ],
+    "reading": {
+      "ja": "ながい"
+    },
     "meanings": {
       "ko": "길다",
       "en": "long",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "長い",
-      "zh": "",
-      "ru": ""
+      "de": "lang",
+      "es": "largo",
+      "fr": "long",
+      "it": "lungo",
+      "pt": "longo",
+      "zh": "长",
+      "ru": "длинный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ながい"
-    },
-    "reading": {
-      "ja": "ながい"
     }
   },
   {
     "id": "ja_467",
+    "lang": "ja",
     "lemma": "閉まる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "닫히다",
-      "en": "close (intransitive)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "閉まる",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "しまる"
-    },
-    "infinitive": "閉まる",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "しまる"
+    },
+    "meanings": {
+      "ko": "닫히다",
+      "en": "close",
+      "ja": "閉まる",
+      "de": "sich schließen",
+      "es": "cerrarse",
+      "fr": "se fermer",
+      "it": "chiudersi",
+      "pt": "fechar-se",
+      "zh": "关上",
+      "ru": "закрываться"
+    },
+    "meta": {
+      "ja_reading": "しまる"
     }
   },
   {
     "id": "ja_468",
+    "lang": "ja",
     "lemma": "閉める",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "닫다",
-      "en": "close (transitive)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "閉める",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "しめる"
-    },
-    "infinitive": "閉める",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "しめる"
+    },
+    "meanings": {
+      "ko": "닫다",
+      "en": "close",
+      "ja": "閉める",
+      "de": "schließen",
+      "es": "cerrar",
+      "fr": "fermer",
+      "it": "chiudere",
+      "pt": "fechar",
+      "zh": "关",
+      "ru": "закрывать"
+    },
+    "meta": {
+      "ja_reading": "しめる"
     }
   },
   {
     "id": "ja_469",
+    "lang": "ja",
     "lemma": "開く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "열리다",
-      "en": "open (intransitive)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "開く",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あく"
-    },
-    "infinitive": "開く",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "あく"
+    },
+    "meanings": {
+      "ko": "열리다",
+      "en": "open",
+      "ja": "開く",
+      "de": "sich öffnen",
+      "es": "abrirse",
+      "fr": "s'ouvrir",
+      "it": "aprirsi",
+      "pt": "abrir-se",
+      "zh": "打开",
+      "ru": "открываться"
+    },
+    "meta": {
+      "ja_reading": "あく"
     }
   },
   {
     "id": "ja_470",
+    "lang": "ja",
     "lemma": "開ける",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "열다",
-      "en": "open (transitive)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "開ける",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あける"
-    },
-    "infinitive": "開ける",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "あける"
+    },
+    "meanings": {
+      "ko": "열다",
+      "en": "open",
+      "ja": "開ける",
+      "de": "öffnen",
+      "es": "abrir",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "pt": "abrir",
+      "zh": "开",
+      "ru": "открывать"
+    },
+    "meta": {
+      "ja_reading": "あける"
     }
   },
   {
     "id": "ja_471",
+    "lang": "ja",
     "lemma": "降りる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おりる"
+    },
     "meanings": {
       "ko": "내리다",
       "en": "get off",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "降りる",
-      "zh": "",
-      "ru": ""
+      "de": "aussteigen",
+      "es": "bajar",
+      "fr": "descendre",
+      "it": "scendere",
+      "pt": "descer",
+      "zh": "下车",
+      "ru": "выходить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おりる"
-    },
-    "infinitive": "降りる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "おりる"
     }
   },
   {
     "id": "ja_472",
+    "lang": "ja",
     "lemma": "降る",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "내리다 (비, 눈)",
-      "en": "rain",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "降る",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "ふる"
-    },
-    "infinitive": "降る",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "ふる"
+    },
+    "meanings": {
+      "ko": "내리다",
+      "en": "rain",
+      "ja": "降る",
+      "de": "regnen",
+      "es": "llover",
+      "fr": "pleuvoir",
+      "it": "piovere",
+      "pt": "chover",
+      "zh": "下雨",
+      "ru": "идти дождь"
+    },
+    "meta": {
+      "ja_reading": "ふる"
     }
   },
   {
     "id": "ja_473",
+    "lang": "ja",
     "lemma": "階段",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "かいだん"
+    },
     "meanings": {
       "ko": "계단",
       "en": "stairs",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "階段",
-      "zh": "",
-      "ru": ""
+      "de": "die Treppe",
+      "es": "la escalera",
+      "fr": "l'escalier",
+      "it": "la scala",
+      "pt": "a escada",
+      "zh": "楼梯",
+      "ru": "лестница"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "かいだん"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "かいだん"
     }
   },
   {
     "id": "ja_474",
+    "lang": "ja",
     "lemma": "雑誌",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "ざっし"
+    },
     "meanings": {
       "ko": "잡지",
       "en": "magazine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "雑誌",
-      "zh": "",
-      "ru": ""
+      "de": "die Zeitschrift",
+      "es": "la revista",
+      "fr": "le magazine",
+      "it": "la rivista",
+      "pt": "a revista",
+      "zh": "杂志",
+      "ru": "журнал"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ざっし"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ざっし"
     }
   },
   {
     "id": "ja_475",
+    "lang": "ja",
     "lemma": "難しい",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "むずかしい"
+    },
     "meanings": {
       "ko": "어렵다",
       "en": "difficult",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "難しい",
-      "zh": "",
-      "ru": ""
+      "de": "schwierig",
+      "es": "difícil",
+      "fr": "difficile",
+      "it": "difficile",
+      "pt": "difícil",
+      "zh": "难",
+      "ru": "трудный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "むずかしい"
-    },
-    "reading": {
-      "ja": "むずかしい"
     }
   },
   {
     "id": "ja_476",
+    "lang": "ja",
     "lemma": "電気",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "전기, 불",
-      "en": "electricity, light",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "電気",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "でんき"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "でんき"
+    },
+    "meanings": {
+      "ko": "전기",
+      "en": "electricity",
+      "ja": "電気",
+      "de": "der Strom",
+      "es": "la electricidad",
+      "fr": "l'électricité",
+      "it": "l'elettricità",
+      "pt": "a eletricidade",
+      "zh": "电",
+      "ru": "электричество"
+    },
+    "meta": {
+      "ja_reading": "でんき"
     }
   },
   {
     "id": "ja_477",
+    "lang": "ja",
     "lemma": "電話",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "ja": "でんわ"
+    },
     "meanings": {
       "ko": "전화",
       "en": "telephone",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "電話",
-      "zh": "",
-      "ru": ""
+      "de": "das Telefon",
+      "es": "el teléfono",
+      "fr": "le téléphone",
+      "it": "il telefono",
+      "pt": "o telefone",
+      "zh": "电话",
+      "ru": "телефон"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "でんわ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "でんわ"
     }
   },
   {
     "id": "ja_478",
+    "lang": "ja",
     "lemma": "電車",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "ja": "でんしゃ"
+    },
     "meanings": {
       "ko": "전철",
       "en": "train",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "電車",
-      "zh": "",
-      "ru": ""
+      "de": "die Bahn",
+      "es": "el tren",
+      "fr": "le train",
+      "it": "il treno",
+      "pt": "o trem",
+      "zh": "电车",
+      "ru": "поезд"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "でんしゃ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "でんしゃ"
     }
   },
   {
     "id": "ja_479",
+    "lang": "ja",
     "lemma": "青い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "파랗다",
-      "en": "blue, green",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "青い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "あおい"
-    },
     "reading": {
       "ja": "あおい"
+    },
+    "meanings": {
+      "ko": "파랗다",
+      "en": "blue",
+      "ja": "青い",
+      "de": "blau",
+      "es": "azul",
+      "fr": "bleu",
+      "it": "blu",
+      "pt": "azul",
+      "zh": "蓝",
+      "ru": "синий"
+    },
+    "meta": {
+      "ja_reading": "あおい"
     }
   },
   {
     "id": "ja_480",
+    "lang": "ja",
     "lemma": "静か",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しずか"
+    },
     "meanings": {
       "ko": "조용하다",
       "en": "quiet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "静か",
-      "zh": "",
-      "ru": ""
+      "de": "ruhig",
+      "es": "tranquilo",
+      "fr": "calme",
+      "it": "tranquillo",
+      "pt": "tranquilo",
+      "zh": "安静",
+      "ru": "тихий"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しずか"
-    },
-    "reading": {
-      "ja": "しずか"
     }
   },
   {
     "id": "ja_481",
+    "lang": "ja",
     "lemma": "靴下",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "くつした"
+    },
     "meanings": {
       "ko": "양말",
       "en": "socks",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "靴下",
-      "zh": "",
-      "ru": ""
+      "de": "die Socken",
+      "es": "los calcetines",
+      "fr": "les chaussettes",
+      "it": "i calzini",
+      "pt": "as meias",
+      "zh": "袜子",
+      "ru": "носки"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "くつした"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "くつした"
     }
   },
   {
     "id": "ja_482",
+    "lang": "ja",
     "lemma": "音楽",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "おんがく"
+    },
     "meanings": {
       "ko": "음악",
       "en": "music",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "音楽",
-      "zh": "",
-      "ru": ""
+      "de": "die Musik",
+      "es": "la música",
+      "fr": "la musique",
+      "it": "la musica",
+      "pt": "a música",
+      "zh": "音乐",
+      "ru": "музыка"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "おんがく"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "おんがく"
     }
   },
   {
     "id": "ja_483",
+    "lang": "ja",
     "lemma": "頼む",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14467,416 +14070,402 @@ const WORDS_JA_A1 = [
       "daily",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "부탁하다, 주문하다",
-      "en": "ask, request",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "頼む",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "たのむ"
-    },
-    "infinitive": "頼む",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "たのむ"
+    },
+    "meanings": {
+      "ko": "부탁하다",
+      "en": "ask",
+      "ja": "頼む",
+      "de": "bitten",
+      "es": "pedir",
+      "fr": "demander",
+      "it": "chiedere",
+      "pt": "pedir",
+      "zh": "请求",
+      "ru": "просить"
+    },
+    "meta": {
+      "ja_reading": "たのむ"
     }
   },
   {
     "id": "ja_484",
+    "lang": "ja",
     "lemma": "風邪",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "감기",
-      "en": "cold (illness)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "風邪",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "かぜ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "かぜ"
+    },
+    "meanings": {
+      "ko": "감기",
+      "en": "cold",
+      "ja": "風邪",
+      "de": "die Erkältung",
+      "es": "el resfriado",
+      "fr": "le rhume",
+      "it": "il raffreddore",
+      "pt": "o resfriado",
+      "zh": "感冒",
+      "ru": "простуда"
+    },
+    "meta": {
+      "ja_reading": "かぜ"
     }
   },
   {
     "id": "ja_485",
+    "lang": "ja",
     "lemma": "飛ぶ",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "とぶ"
+    },
     "meanings": {
       "ko": "날다",
       "en": "fly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "飛ぶ",
-      "zh": "",
-      "ru": ""
+      "de": "fliegen",
+      "es": "volar",
+      "fr": "voler",
+      "it": "volare",
+      "pt": "voar",
+      "zh": "飞",
+      "ru": "летать"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "とぶ"
-    },
-    "infinitive": "飛ぶ",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "とぶ"
     }
   },
   {
     "id": "ja_486",
+    "lang": "ja",
     "lemma": "飛行機",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "ja": "ひこうき"
+    },
     "meanings": {
       "ko": "비행기",
       "en": "airplane",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "飛行機",
-      "zh": "",
-      "ru": ""
+      "de": "das Flugzeug",
+      "es": "el avión",
+      "fr": "l'avion",
+      "it": "l'aereo",
+      "pt": "o avião",
+      "zh": "飞机",
+      "ru": "самолет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "ひこうき"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "ひこうき"
     }
   },
   {
     "id": "ja_487",
+    "lang": "ja",
     "lemma": "食べる",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "たべる"
+    },
     "meanings": {
       "ko": "먹다",
       "en": "eat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "食べる",
-      "zh": "",
-      "ru": ""
+      "de": "essen",
+      "es": "comer",
+      "fr": "manger",
+      "it": "mangiare",
+      "pt": "comer",
+      "zh": "吃",
+      "ru": "есть"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たべる"
-    },
-    "infinitive": "食べる",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "たべる"
     }
   },
   {
     "id": "ja_488",
+    "lang": "ja",
     "lemma": "食べ物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "たべもの"
+    },
     "meanings": {
       "ko": "음식",
       "en": "food",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "食べ物",
-      "zh": "",
-      "ru": ""
+      "de": "das Essen",
+      "es": "la comida",
+      "fr": "la nourriture",
+      "it": "il cibo",
+      "pt": "a comida",
+      "zh": "食物",
+      "ru": "еда"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "たべもの"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "たべもの"
     }
   },
   {
     "id": "ja_489",
+    "lang": "ja",
     "lemma": "食堂",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "しょくどう"
+    },
     "meanings": {
       "ko": "식당",
       "en": "dining hall",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "食堂",
-      "zh": "",
-      "ru": ""
+      "de": "die Mensa",
+      "es": "el comedor",
+      "fr": "la cantine",
+      "it": "la mensa",
+      "pt": "o refeitório",
+      "zh": "食堂",
+      "ru": "столовая"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "しょくどう"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "しょくどう"
     }
   },
   {
     "id": "ja_490",
+    "lang": "ja",
     "lemma": "飲み物",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic",
       "daily"
     ],
-    "meanings": {
-      "ko": "음료수",
-      "en": "drink, beverage",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "飲み物",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "のみもの"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "ja": "のみもの"
+    },
+    "meanings": {
+      "ko": "음료수",
+      "en": "drink",
+      "ja": "飲み物",
+      "de": "das Getränk",
+      "es": "la bebida",
+      "fr": "la boisson",
+      "it": "la bevanda",
+      "pt": "a bebida",
+      "zh": "饮料",
+      "ru": "напиток"
+    },
+    "meta": {
+      "ja_reading": "のみもの"
     }
   },
   {
     "id": "ja_491",
+    "lang": "ja",
     "lemma": "飲む",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "ja": "のむ"
+    },
     "meanings": {
       "ko": "마시다",
       "en": "drink",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "飲む",
-      "zh": "",
-      "ru": ""
+      "de": "trinken",
+      "es": "beber",
+      "fr": "boire",
+      "it": "bere",
+      "pt": "beber",
+      "zh": "喝",
+      "ru": "пить"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "のむ"
-    },
-    "infinitive": "飲む",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "ja": "のむ"
     }
   },
   {
     "id": "ja_492",
+    "lang": "ja",
     "lemma": "高い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "높다, 비싸다",
-      "en": "high, expensive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "高い",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "たかい"
-    },
     "reading": {
       "ja": "たかい"
+    },
+    "meanings": {
+      "ko": "높다",
+      "en": "high",
+      "ja": "高い",
+      "de": "hoch",
+      "es": "alto",
+      "fr": "haut",
+      "it": "alto",
+      "pt": "alto",
+      "zh": "高",
+      "ru": "высокий"
+    },
+    "meta": {
+      "ja_reading": "たかい"
     }
   },
   {
     "id": "ja_493",
+    "lang": "ja",
     "lemma": "鳴く",
-    "pos": "動詞",
+    "pos": "Verb",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "울다 (동물)",
-      "en": "cry (animal)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "鳴く",
-      "zh": "",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "ja_reading": "なく"
-    },
-    "infinitive": "鳴く",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "ja": "なく"
+    },
+    "meanings": {
+      "ko": "울다",
+      "en": "cry",
+      "ja": "鳴く",
+      "de": "schreien",
+      "es": "piar",
+      "fr": "crier",
+      "it": "strillare",
+      "pt": "piar",
+      "zh": "叫",
+      "ru": "кричать"
+    },
+    "meta": {
+      "ja_reading": "なく"
     }
   },
   {
     "id": "ja_494",
+    "lang": "ja",
     "lemma": "黄色",
-    "pos": "名詞",
+    "pos": "Nomen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きいろ"
+    },
     "meanings": {
       "ko": "노란색",
       "en": "yellow color",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "黄色",
-      "zh": "",
-      "ru": ""
+      "de": "das Gelb",
+      "es": "el amarillo",
+      "fr": "le jaune",
+      "it": "il giallo",
+      "pt": "o amarelo",
+      "zh": "黄色",
+      "ru": "желтый цвет"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きいろ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "ja": "きいろ"
     }
   },
   {
     "id": "ja_495",
+    "lang": "ja",
     "lemma": "黄色い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "きいろい"
+    },
     "meanings": {
       "ko": "노랗다",
       "en": "yellow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "黄色い",
-      "zh": "",
-      "ru": ""
+      "de": "gelb",
+      "es": "amarillo",
+      "fr": "jaune",
+      "it": "giallo",
+      "pt": "amarelo",
+      "zh": "黄",
+      "ru": "желтый"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "きいろい"
-    },
-    "reading": {
-      "ja": "きいろい"
     }
   },
   {
     "id": "ja_496",
+    "lang": "ja",
     "lemma": "黒い",
-    "pos": "形容詞",
+    "pos": "Adjektiv",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "ja": "くろい"
+    },
     "meanings": {
       "ko": "검다",
       "en": "black",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
       "ja": "黒い",
-      "zh": "",
-      "ru": ""
+      "de": "schwarz",
+      "es": "negro",
+      "fr": "noir",
+      "it": "nero",
+      "pt": "preto",
+      "zh": "黑",
+      "ru": "черный"
     },
-    "examples": [],
     "meta": {
       "ja_reading": "くろい"
-    },
-    "reading": {
-      "ja": "くろい"
     }
   }
 ];

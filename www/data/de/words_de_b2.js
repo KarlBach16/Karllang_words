@@ -2,8 +2,12 @@
 const WORDS_DE_B2 = [
   {
     "id": "de_586",
+    "lang": "de",
     "lemma": "taktik",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "taktiken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20,17 +24,16 @@ const WORDS_DE_B2 = [
       "ja": "戦術",
       "zh": "战术",
       "ru": "тактика"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "taktiken"
+    }
   },
   {
     "id": "de_588",
+    "lang": "de",
     "lemma": "potenzial",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "potenziale",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -47,17 +50,16 @@ const WORDS_DE_B2 = [
       "ja": "可能性",
       "zh": "潜力",
       "ru": "потенциал"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "potenziale"
+    }
   },
   {
     "id": "de_590",
+    "lang": "de",
     "lemma": "anpassung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "anpassungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -75,17 +77,16 @@ const WORDS_DE_B2 = [
       "ja": "適応",
       "zh": "适应",
       "ru": "адаптация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anpassungen"
+    }
   },
   {
     "id": "de_592",
+    "lang": "de",
     "lemma": "ass",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "asse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -102,17 +103,15 @@ const WORDS_DE_B2 = [
       "ja": "エース",
       "zh": "王牌",
       "ru": "туз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "asse"
+    }
   },
   {
     "id": "de_600",
+    "lang": "de",
     "lemma": "gier",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -130,17 +129,16 @@ const WORDS_DE_B2 = [
       "ja": "貪欲",
       "zh": "贪婪",
       "ru": "жадность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_601",
+    "lang": "de",
     "lemma": "überzeugung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "überzeugungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -157,15 +155,11 @@ const WORDS_DE_B2 = [
       "ja": "信念",
       "zh": "信念",
       "ru": "убеждение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "überzeugungen"
+    }
   },
   {
     "id": "de_602",
+    "lang": "de",
     "lemma": "winzige",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -185,12 +179,11 @@ const WORDS_DE_B2 = [
       "ja": "極小の",
       "zh": "微小的",
       "ru": "крошечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_604",
+    "lang": "de",
     "lemma": "ausdenken",
     "pos": "Verb",
     "cefr": "B2",
@@ -210,17 +203,16 @@ const WORDS_DE_B2 = [
       "ja": "考え出す",
       "zh": "想出",
       "ru": "придумать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausdenken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_607",
+    "lang": "de",
     "lemma": "erzähler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "erzähler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -237,17 +229,16 @@ const WORDS_DE_B2 = [
       "ja": "語り手",
       "zh": "叙述者",
       "ru": "рассказчик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "erzähler"
+    }
   },
   {
     "id": "de_612",
+    "lang": "de",
     "lemma": "boom",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "booms",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -265,17 +256,16 @@ const WORDS_DE_B2 = [
       "ja": "好況",
       "zh": "繁荣",
       "ru": "бум"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "booms"
+    }
   },
   {
     "id": "de_615",
+    "lang": "de",
     "lemma": "ritt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ritte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -293,17 +283,16 @@ const WORDS_DE_B2 = [
       "ja": "乗馬",
       "zh": "骑马",
       "ru": "верховая езда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ritte"
+    }
   },
   {
     "id": "de_617",
+    "lang": "de",
     "lemma": "teich",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "teiche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -321,17 +310,16 @@ const WORDS_DE_B2 = [
       "ja": "池",
       "zh": "池塘",
       "ru": "пруд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "teiche"
+    }
   },
   {
     "id": "de_619",
+    "lang": "de",
     "lemma": "duell",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "duelle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -348,17 +336,16 @@ const WORDS_DE_B2 = [
       "ja": "決闘",
       "zh": "决斗",
       "ru": "дуэль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "duelle"
+    }
   },
   {
     "id": "de_622",
+    "lang": "de",
     "lemma": "wange",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "wangen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -376,15 +363,11 @@ const WORDS_DE_B2 = [
       "ja": "頬",
       "zh": "脸颊",
       "ru": "щека"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wangen"
+    }
   },
   {
     "id": "de_624",
+    "lang": "de",
     "lemma": "wiedergutmachen",
     "pos": "Verb",
     "cefr": "B2",
@@ -404,17 +387,16 @@ const WORDS_DE_B2 = [
       "ja": "補償する",
       "zh": "补偿",
       "ru": "компенсировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wiedergutmachen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_629",
+    "lang": "de",
     "lemma": "stoß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stöße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -432,15 +414,11 @@ const WORDS_DE_B2 = [
       "ja": "衝撃",
       "zh": "冲击",
       "ru": "удар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stöße"
+    }
   },
   {
     "id": "de_630",
+    "lang": "de",
     "lemma": "eingreifen",
     "pos": "Verb",
     "cefr": "B2",
@@ -460,15 +438,11 @@ const WORDS_DE_B2 = [
       "ja": "介入する",
       "zh": "干预",
       "ru": "вмешиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eingreifen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_631",
+    "lang": "de",
     "lemma": "enorm",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -488,14 +462,16 @@ const WORDS_DE_B2 = [
       "ja": "莫大な",
       "zh": "巨大的",
       "ru": "огромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_636",
+    "lang": "de",
     "lemma": "substanz",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "substanzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -512,17 +488,16 @@ const WORDS_DE_B2 = [
       "ja": "物質",
       "zh": "物质",
       "ru": "вещество"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "substanzen"
+    }
   },
   {
     "id": "de_644",
+    "lang": "de",
     "lemma": "schmetterling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schmetterlinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -540,15 +515,11 @@ const WORDS_DE_B2 = [
       "ja": "蝶",
       "zh": "蝴蝶",
       "ru": "бабочка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schmetterlinge"
+    }
   },
   {
     "id": "de_651",
+    "lang": "de",
     "lemma": "austauschen",
     "pos": "Verb",
     "cefr": "B2",
@@ -568,17 +539,16 @@ const WORDS_DE_B2 = [
       "ja": "交換する",
       "zh": "交换",
       "ru": "обменивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "austauschen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_656",
+    "lang": "de",
     "lemma": "medaille",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "medaillen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -595,15 +565,11 @@ const WORDS_DE_B2 = [
       "ja": "メダル",
       "zh": "奖牌",
       "ru": "медаль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "medaillen"
+    }
   },
   {
     "id": "de_658",
+    "lang": "de",
     "lemma": "anzünden",
     "pos": "Verb",
     "cefr": "B2",
@@ -622,17 +588,16 @@ const WORDS_DE_B2 = [
       "ja": "火をつける",
       "zh": "点燃",
       "ru": "зажигать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anzünden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_667",
+    "lang": "de",
     "lemma": "pirat",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "piraten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -650,15 +615,11 @@ const WORDS_DE_B2 = [
       "ja": "海賊",
       "zh": "海盗",
       "ru": "пират"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "piraten"
+    }
   },
   {
     "id": "de_674",
+    "lang": "de",
     "lemma": "bearbeiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -678,15 +639,11 @@ const WORDS_DE_B2 = [
       "ja": "処理する",
       "zh": "处理",
       "ru": "обрабатывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bearbeiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_677",
+    "lang": "de",
     "lemma": "ausgestellt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -705,14 +662,16 @@ const WORDS_DE_B2 = [
       "ja": "展示された",
       "zh": "展出的",
       "ru": "выставленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_679",
+    "lang": "de",
     "lemma": "orbit",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "orbits",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -729,17 +688,16 @@ const WORDS_DE_B2 = [
       "ja": "軌道",
       "zh": "轨道",
       "ru": "орбита"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "orbits"
+    }
   },
   {
     "id": "de_680",
+    "lang": "de",
     "lemma": "kapsel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kapseln",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -757,15 +715,11 @@ const WORDS_DE_B2 = [
       "ja": "カプセル",
       "zh": "胶囊",
       "ru": "капсула"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kapseln"
+    }
   },
   {
     "id": "de_681",
+    "lang": "de",
     "lemma": "unbewaffnet",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -784,14 +738,16 @@ const WORDS_DE_B2 = [
       "ja": "武装していない",
       "zh": "未武装的",
       "ru": "безоружный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_682",
+    "lang": "de",
     "lemma": "internat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "internate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -808,17 +764,16 @@ const WORDS_DE_B2 = [
       "ja": "寄宿学校",
       "zh": "寄宿学校",
       "ru": "интернат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "internate"
+    }
   },
   {
     "id": "de_684",
+    "lang": "de",
     "lemma": "mühle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mühlen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -835,17 +790,16 @@ const WORDS_DE_B2 = [
       "ja": "製粉所",
       "zh": "磨坊",
       "ru": "мельница"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mühlen"
+    }
   },
   {
     "id": "de_685",
+    "lang": "de",
     "lemma": "zeitalter",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "zeitalter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -862,17 +816,16 @@ const WORDS_DE_B2 = [
       "ja": "時代",
       "zh": "时代",
       "ru": "эпоха"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "zeitalter"
+    }
   },
   {
     "id": "de_688",
+    "lang": "de",
     "lemma": "prediger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "prediger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -889,15 +842,11 @@ const WORDS_DE_B2 = [
       "ja": "説教者",
       "zh": "传教士",
       "ru": "проповедник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "prediger"
+    }
   },
   {
     "id": "de_693",
+    "lang": "de",
     "lemma": "wegbringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -916,15 +865,11 @@ const WORDS_DE_B2 = [
       "ja": "運び去る",
       "zh": "带走",
       "ru": "уносить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegbringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_694",
+    "lang": "de",
     "lemma": "weiterhelfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -943,17 +888,16 @@ const WORDS_DE_B2 = [
       "ja": "さらに助ける",
       "zh": "进一步帮助",
       "ru": "помогать дальше"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weiterhelfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_695",
+    "lang": "de",
     "lemma": "verpflichtung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verpflichtungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -971,17 +915,16 @@ const WORDS_DE_B2 = [
       "ja": "義務",
       "zh": "义务",
       "ru": "обязательство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verpflichtungen"
+    }
   },
   {
     "id": "de_699",
+    "lang": "de",
     "lemma": "gegenleistung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gegenleistungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -998,17 +941,16 @@ const WORDS_DE_B2 = [
       "ja": "対価",
       "zh": "对价",
       "ru": "встречное предоставление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gegenleistungen"
+    }
   },
   {
     "id": "de_703",
+    "lang": "de",
     "lemma": "helfer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "helfer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1026,17 +968,16 @@ const WORDS_DE_B2 = [
       "ja": "助手",
       "zh": "帮手",
       "ru": "помощник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "helfer"
+    }
   },
   {
     "id": "de_704",
+    "lang": "de",
     "lemma": "aufstieg",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aufstiege",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1054,17 +995,16 @@ const WORDS_DE_B2 = [
       "ja": "上昇",
       "zh": "上升",
       "ru": "подъем"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aufstiege"
+    }
   },
   {
     "id": "de_708",
+    "lang": "de",
     "lemma": "hauptrolle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hauptrollen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1082,17 +1022,16 @@ const WORDS_DE_B2 = [
       "ja": "主役",
       "zh": "主角",
       "ru": "главная роль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hauptrollen"
+    }
   },
   {
     "id": "de_711",
+    "lang": "de",
     "lemma": "spanier",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "spanier",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1110,17 +1049,16 @@ const WORDS_DE_B2 = [
       "ja": "スペイン人",
       "zh": "西班牙人",
       "ru": "испанец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "spanier"
+    }
   },
   {
     "id": "de_718",
+    "lang": "de",
     "lemma": "scanner",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "scanner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1138,17 +1076,16 @@ const WORDS_DE_B2 = [
       "ja": "スキャナー",
       "zh": "扫描仪",
       "ru": "сканер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "scanner"
+    }
   },
   {
     "id": "de_723",
+    "lang": "de",
     "lemma": "stückchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "stückchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1166,17 +1103,16 @@ const WORDS_DE_B2 = [
       "ja": "小片",
       "zh": "小块",
       "ru": "кусочек"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "stückchen"
+    }
   },
   {
     "id": "de_724",
+    "lang": "de",
     "lemma": "provinz",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "provinzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1194,15 +1130,11 @@ const WORDS_DE_B2 = [
       "ja": "州",
       "zh": "省",
       "ru": "провинция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "provinzen"
+    }
   },
   {
     "id": "de_727",
+    "lang": "de",
     "lemma": "gesunden",
     "pos": "Verb",
     "cefr": "B2",
@@ -1222,17 +1154,15 @@ const WORDS_DE_B2 = [
       "ja": "回復する",
       "zh": "恢复",
       "ru": "выздоравливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gesunden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_730",
+    "lang": "de",
     "lemma": "elektrizität",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1250,17 +1180,16 @@ const WORDS_DE_B2 = [
       "ja": "電気",
       "zh": "电",
       "ru": "электричество"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_733",
+    "lang": "de",
     "lemma": "vaterland",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "vaterländer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1277,17 +1206,16 @@ const WORDS_DE_B2 = [
       "ja": "祖国",
       "zh": "祖国",
       "ru": "отечество"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "vaterländer"
+    }
   },
   {
     "id": "de_736",
+    "lang": "de",
     "lemma": "schleier",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schleier",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1304,15 +1232,11 @@ const WORDS_DE_B2 = [
       "ja": "ベール",
       "zh": "面纱",
       "ru": "завеса"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schleier"
+    }
   },
   {
     "id": "de_740",
+    "lang": "de",
     "lemma": "durchatmen",
     "pos": "Verb",
     "cefr": "B2",
@@ -1332,15 +1256,11 @@ const WORDS_DE_B2 = [
       "ja": "深く息をする",
       "zh": "深呼吸",
       "ru": "дышать глубоко"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durchatmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_741",
+    "lang": "de",
     "lemma": "stopfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -1359,17 +1279,16 @@ const WORDS_DE_B2 = [
       "ja": "詰め込む",
       "zh": "塞进",
       "ru": "набивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stopfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_743",
+    "lang": "de",
     "lemma": "übergabe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "übergaben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1387,17 +1306,16 @@ const WORDS_DE_B2 = [
       "ja": "引き継ぎ",
       "zh": "交接",
       "ru": "передача"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "übergaben"
+    }
   },
   {
     "id": "de_746",
+    "lang": "de",
     "lemma": "effekt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "effekte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1415,15 +1333,11 @@ const WORDS_DE_B2 = [
       "ja": "効果",
       "zh": "效果",
       "ru": "эффект"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "effekte"
+    }
   },
   {
     "id": "de_747",
+    "lang": "de",
     "lemma": "einlegen",
     "pos": "Verb",
     "cefr": "B2",
@@ -1442,17 +1356,16 @@ const WORDS_DE_B2 = [
       "ja": "挿入する",
       "zh": "插入",
       "ru": "вставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einlegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_748",
+    "lang": "de",
     "lemma": "verwirrung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verwirrungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1470,17 +1383,16 @@ const WORDS_DE_B2 = [
       "ja": "混乱",
       "zh": "混乱",
       "ru": "замешательство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verwirrungen"
+    }
   },
   {
     "id": "de_751",
+    "lang": "de",
     "lemma": "grundlage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "grundlagen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1498,17 +1410,16 @@ const WORDS_DE_B2 = [
       "ja": "基礎",
       "zh": "基础",
       "ru": "основание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "grundlagen"
+    }
   },
   {
     "id": "de_754",
+    "lang": "de",
     "lemma": "arena",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "arenen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1526,17 +1437,16 @@ const WORDS_DE_B2 = [
       "ja": "競技場",
       "zh": "竞技场",
       "ru": "арена"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "arenen"
+    }
   },
   {
     "id": "de_758",
+    "lang": "de",
     "lemma": "verfolgung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verfolgungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1553,17 +1463,16 @@ const WORDS_DE_B2 = [
       "ja": "追跡",
       "zh": "追击",
       "ru": "преследование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verfolgungen"
+    }
   },
   {
     "id": "de_760",
+    "lang": "de",
     "lemma": "exemplar",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "exemplare",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1581,15 +1490,11 @@ const WORDS_DE_B2 = [
       "ja": "標本",
       "zh": "标本",
       "ru": "экземпляр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "exemplare"
+    }
   },
   {
     "id": "de_763",
+    "lang": "de",
     "lemma": "finanzieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -1608,17 +1513,16 @@ const WORDS_DE_B2 = [
       "ja": "資金を調達する",
       "zh": "融资",
       "ru": "финансировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "finanzieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_764",
+    "lang": "de",
     "lemma": "anstalt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "anstalten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1636,17 +1540,16 @@ const WORDS_DE_B2 = [
       "ja": "施設",
       "zh": "设施",
       "ru": "учреждение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anstalten"
+    }
   },
   {
     "id": "de_766",
+    "lang": "de",
     "lemma": "pakt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pakte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1663,17 +1566,16 @@ const WORDS_DE_B2 = [
       "ja": "協定",
       "zh": "协议",
       "ru": "пакт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pakte"
+    }
   },
   {
     "id": "de_767",
+    "lang": "de",
     "lemma": "damm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "dämme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1691,17 +1593,16 @@ const WORDS_DE_B2 = [
       "ja": "堤防",
       "zh": "堤坝",
       "ru": "плотина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "dämme"
+    }
   },
   {
     "id": "de_768",
+    "lang": "de",
     "lemma": "laser",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "laser",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1719,15 +1620,11 @@ const WORDS_DE_B2 = [
       "ja": "レーザー",
       "zh": "激光",
       "ru": "лазер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "laser"
+    }
   },
   {
     "id": "de_771",
+    "lang": "de",
     "lemma": "versammeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -1747,15 +1644,11 @@ const WORDS_DE_B2 = [
       "ja": "集まる",
       "zh": "聚集",
       "ru": "собираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "versammeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_774",
+    "lang": "de",
     "lemma": "gedeckt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1774,12 +1667,11 @@ const WORDS_DE_B2 = [
       "ja": "落ち着いた",
       "zh": "沉着的",
       "ru": "сдержанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_778",
+    "lang": "de",
     "lemma": "helle",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1799,12 +1691,11 @@ const WORDS_DE_B2 = [
       "ja": "賢い",
       "zh": "聪明的",
       "ru": "умный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_780",
+    "lang": "de",
     "lemma": "vergrößern",
     "pos": "Verb",
     "cefr": "B2",
@@ -1824,17 +1715,16 @@ const WORDS_DE_B2 = [
       "ja": "拡大する",
       "zh": "扩大",
       "ru": "увеличивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vergrößern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_783",
+    "lang": "de",
     "lemma": "unterschlupf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "unterschlüpfe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1851,17 +1741,16 @@ const WORDS_DE_B2 = [
       "ja": "避難所",
       "zh": "避难所",
       "ru": "убежище"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "unterschlüpfe"
+    }
   },
   {
     "id": "de_784",
+    "lang": "de",
     "lemma": "besen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "besen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1879,15 +1768,11 @@ const WORDS_DE_B2 = [
       "ja": "ほうき",
       "zh": "扫帚",
       "ru": "метла"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "besen"
+    }
   },
   {
     "id": "de_786",
+    "lang": "de",
     "lemma": "vorwerfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -1907,17 +1792,16 @@ const WORDS_DE_B2 = [
       "ja": "非難する",
       "zh": "指责",
       "ru": "упрекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vorwerfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_788",
+    "lang": "de",
     "lemma": "tugend",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "tugenden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1934,17 +1818,16 @@ const WORDS_DE_B2 = [
       "ja": "徳",
       "zh": "美德",
       "ru": "добродетель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "tugenden"
+    }
   },
   {
     "id": "de_789",
+    "lang": "de",
     "lemma": "neuanfang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "neuanfänge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1962,17 +1845,16 @@ const WORDS_DE_B2 = [
       "ja": "新しい始まり",
       "zh": "新的开始",
       "ru": "новое начало"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "neuanfänge"
+    }
   },
   {
     "id": "de_793",
+    "lang": "de",
     "lemma": "senf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "senfe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -1990,15 +1872,11 @@ const WORDS_DE_B2 = [
       "ja": "マスタード",
       "zh": "芥末",
       "ru": "горчица"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "senfe"
+    }
   },
   {
     "id": "de_796",
+    "lang": "de",
     "lemma": "scherzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2017,17 +1895,16 @@ const WORDS_DE_B2 = [
       "ja": "冗談を言う",
       "zh": "开玩笑",
       "ru": "шутить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scherzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_799",
+    "lang": "de",
     "lemma": "schwiegersohn",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwiegersöhne",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2045,15 +1922,11 @@ const WORDS_DE_B2 = [
       "ja": "婿",
       "zh": "女婿",
       "ru": "зять"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwiegersöhne"
+    }
   },
   {
     "id": "de_802",
+    "lang": "de",
     "lemma": "bang",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2072,12 +1945,11 @@ const WORDS_DE_B2 = [
       "ja": "怖い",
       "zh": "害怕的",
       "ru": "испуганный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_806",
+    "lang": "de",
     "lemma": "bevorzugen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2097,17 +1969,16 @@ const WORDS_DE_B2 = [
       "ja": "好む",
       "zh": "偏好",
       "ru": "предпочитать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bevorzugen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_808",
+    "lang": "de",
     "lemma": "belästigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "belästigungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2125,15 +1996,11 @@ const WORDS_DE_B2 = [
       "ja": "嫌がらせ",
       "zh": "骚扰",
       "ru": "домогательство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "belästigungen"
+    }
   },
   {
     "id": "de_813",
+    "lang": "de",
     "lemma": "profitieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -2153,17 +2020,16 @@ const WORDS_DE_B2 = [
       "ja": "利益を得る",
       "zh": "获利",
       "ru": "извлекать выгоду"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "profitieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_817",
+    "lang": "de",
     "lemma": "canyon",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "canyons",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2181,15 +2047,11 @@ const WORDS_DE_B2 = [
       "ja": "峡谷",
       "zh": "峡谷",
       "ru": "каньон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "canyons"
+    }
   },
   {
     "id": "de_824",
+    "lang": "de",
     "lemma": "grinsen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2208,17 +2070,16 @@ const WORDS_DE_B2 = [
       "ja": "にやにや笑う",
       "zh": "咧嘴笑",
       "ru": "ухмыляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grinsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_826",
+    "lang": "de",
     "lemma": "bund",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bünde",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2235,15 +2096,11 @@ const WORDS_DE_B2 = [
       "ja": "連邦",
       "zh": "联邦",
       "ru": "федерация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bünde"
+    }
   },
   {
     "id": "de_827",
+    "lang": "de",
     "lemma": "provozieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -2263,15 +2120,11 @@ const WORDS_DE_B2 = [
       "ja": "挑発する",
       "zh": "挑衅",
       "ru": "провоцировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "provozieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_828",
+    "lang": "de",
     "lemma": "anrichten",
     "pos": "Verb",
     "cefr": "B2",
@@ -2290,15 +2143,11 @@ const WORDS_DE_B2 = [
       "ja": "被害をもたらす",
       "zh": "造成伤害",
       "ru": "причинять вред"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anrichten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_830",
+    "lang": "de",
     "lemma": "lehnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2318,17 +2167,16 @@ const WORDS_DE_B2 = [
       "ja": "傾ける",
       "zh": "倾斜",
       "ru": "наклонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lehnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_834",
+    "lang": "de",
     "lemma": "begleiter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "begleiter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2346,17 +2194,16 @@ const WORDS_DE_B2 = [
       "ja": "同伴者",
       "zh": "同伴",
       "ru": "спутник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "begleiter"
+    }
   },
   {
     "id": "de_837",
+    "lang": "de",
     "lemma": "apokalypse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "apokalypsen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2373,17 +2220,16 @@ const WORDS_DE_B2 = [
       "ja": "黙示録",
       "zh": "启示录",
       "ru": "апокалипсис"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "apokalypsen"
+    }
   },
   {
     "id": "de_838",
+    "lang": "de",
     "lemma": "knabe",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "knaben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2401,15 +2247,11 @@ const WORDS_DE_B2 = [
       "ja": "少年",
       "zh": "男孩",
       "ru": "мальчик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "knaben"
+    }
   },
   {
     "id": "de_839",
+    "lang": "de",
     "lemma": "eingebildet",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2428,12 +2270,11 @@ const WORDS_DE_B2 = [
       "ja": "うぬぼれた",
       "zh": "自负的",
       "ru": "самодовольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_842",
+    "lang": "de",
     "lemma": "reihen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2452,17 +2293,16 @@ const WORDS_DE_B2 = [
       "ja": "一列に並べる",
       "zh": "排成一行",
       "ru": "выстраивать в ряд"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reihen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_843",
+    "lang": "de",
     "lemma": "schwindler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwindler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2480,17 +2320,16 @@ const WORDS_DE_B2 = [
       "ja": "詐欺師",
       "zh": "骗子",
       "ru": "мошенник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwindler"
+    }
   },
   {
     "id": "de_844",
+    "lang": "de",
     "lemma": "maß",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "maße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2508,17 +2347,16 @@ const WORDS_DE_B2 = [
       "ja": "寸法",
       "zh": "尺度",
       "ru": "мера"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "maße"
+    }
   },
   {
     "id": "de_845",
+    "lang": "de",
     "lemma": "rechtsanwalt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "rae",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2536,17 +2374,15 @@ const WORDS_DE_B2 = [
       "ja": "弁護士",
       "zh": "律师",
       "ru": "адвокат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "rae"
+    }
   },
   {
     "id": "de_846",
+    "lang": "de",
     "lemma": "romantik",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2563,17 +2399,16 @@ const WORDS_DE_B2 = [
       "ja": "ロマン主義",
       "zh": "浪漫主义",
       "ru": "романтизм"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_849",
+    "lang": "de",
     "lemma": "nanny",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "nannys",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2590,17 +2425,16 @@ const WORDS_DE_B2 = [
       "ja": "ナニー",
       "zh": "保姆",
       "ru": "няня"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "nannys"
+    }
   },
   {
     "id": "de_850",
+    "lang": "de",
     "lemma": "haushälterin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "haushälterinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2618,15 +2452,11 @@ const WORDS_DE_B2 = [
       "ja": "家政婦",
       "zh": "女管家",
       "ru": "экономка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "haushälterinnen"
+    }
   },
   {
     "id": "de_851",
+    "lang": "de",
     "lemma": "gütig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2646,14 +2476,16 @@ const WORDS_DE_B2 = [
       "ja": "親切な",
       "zh": "善良的",
       "ru": "добрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_852",
+    "lang": "de",
     "lemma": "privatdetektiv",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "privatdetektive",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2671,15 +2503,11 @@ const WORDS_DE_B2 = [
       "ja": "私立探偵",
       "zh": "私家侦探",
       "ru": "частный детектив"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "privatdetektive"
+    }
   },
   {
     "id": "de_853",
+    "lang": "de",
     "lemma": "ansteckend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2699,12 +2527,11 @@ const WORDS_DE_B2 = [
       "ja": "伝染性の",
       "zh": "传染性的",
       "ru": "заразный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_855",
+    "lang": "de",
     "lemma": "gefüttert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2723,12 +2550,11 @@ const WORDS_DE_B2 = [
       "ja": "裏地のある",
       "zh": "有衬里的",
       "ru": "подбитый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_859",
+    "lang": "de",
     "lemma": "geistig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2748,12 +2574,11 @@ const WORDS_DE_B2 = [
       "ja": "精神的な",
       "zh": "精神的",
       "ru": "духовный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_860",
+    "lang": "de",
     "lemma": "niedergeschlagen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2773,12 +2598,11 @@ const WORDS_DE_B2 = [
       "ja": "落胆した",
       "zh": "沮丧的",
       "ru": "подавленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_861",
+    "lang": "de",
     "lemma": "herumlaufen",
     "pos": "Verb",
     "cefr": "B2",
@@ -2797,17 +2621,15 @@ const WORDS_DE_B2 = [
       "ja": "走り回る",
       "zh": "到处跑",
       "ru": "бегать туда-сюда"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herumlaufen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_863",
+    "lang": "de",
     "lemma": "morphium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2825,17 +2647,16 @@ const WORDS_DE_B2 = [
       "ja": "モルヒネ",
       "zh": "吗啡",
       "ru": "морфин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_865",
+    "lang": "de",
     "lemma": "bote",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "boten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2853,17 +2674,16 @@ const WORDS_DE_B2 = [
       "ja": "使者",
       "zh": "信使",
       "ru": "посланник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "boten"
+    }
   },
   {
     "id": "de_867",
+    "lang": "de",
     "lemma": "kooperation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kooperationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2881,17 +2701,16 @@ const WORDS_DE_B2 = [
       "ja": "協力",
       "zh": "合作",
       "ru": "сотрудничество"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kooperationen"
+    }
   },
   {
     "id": "de_868",
+    "lang": "de",
     "lemma": "schwerkraft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schwerkräfte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2908,17 +2727,16 @@ const WORDS_DE_B2 = [
       "ja": "重力",
       "zh": "重力",
       "ru": "гравитация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schwerkräfte"
+    }
   },
   {
     "id": "de_873",
+    "lang": "de",
     "lemma": "pulli",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pullis",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2936,17 +2754,16 @@ const WORDS_DE_B2 = [
       "ja": "セーター",
       "zh": "毛衣",
       "ru": "свитер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pullis"
+    }
   },
   {
     "id": "de_874",
+    "lang": "de",
     "lemma": "kiefer",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kiefern",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2963,15 +2780,11 @@ const WORDS_DE_B2 = [
       "ja": "松",
       "zh": "松树",
       "ru": "сосна"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kiefern"
+    }
   },
   {
     "id": "de_875",
+    "lang": "de",
     "lemma": "aufwecken",
     "pos": "Verb",
     "cefr": "B2",
@@ -2991,15 +2804,11 @@ const WORDS_DE_B2 = [
       "ja": "起こす",
       "zh": "唤醒",
       "ru": "будить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufwecken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_877",
+    "lang": "de",
     "lemma": "zaubern",
     "pos": "Verb",
     "cefr": "B2",
@@ -3019,15 +2828,11 @@ const WORDS_DE_B2 = [
       "ja": "魔法をする",
       "zh": "变魔术",
       "ru": "колдовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zaubern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_879",
+    "lang": "de",
     "lemma": "engagieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -3046,15 +2851,11 @@ const WORDS_DE_B2 = [
       "ja": "雇う",
       "zh": "雇用",
       "ru": "нанимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "engagieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_882",
+    "lang": "de",
     "lemma": "vermitteln",
     "pos": "Verb",
     "cefr": "B2",
@@ -3074,17 +2875,16 @@ const WORDS_DE_B2 = [
       "ja": "仲介する",
       "zh": "调解",
       "ru": "посредничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vermitteln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_884",
+    "lang": "de",
     "lemma": "vorgehensweise",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorgehensweisen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3102,17 +2902,16 @@ const WORDS_DE_B2 = [
       "ja": "進め方",
       "zh": "进行方式",
       "ru": "процедура"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorgehensweisen"
+    }
   },
   {
     "id": "de_886",
+    "lang": "de",
     "lemma": "spender",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "spender",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3130,15 +2929,11 @@ const WORDS_DE_B2 = [
       "ja": "寄付者",
       "zh": "捐献者",
       "ru": "донор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "spender"
+    }
   },
   {
     "id": "de_889",
+    "lang": "de",
     "lemma": "identisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3158,12 +2953,11 @@ const WORDS_DE_B2 = [
       "ja": "同一の",
       "zh": "相同的",
       "ru": "идентичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_891",
+    "lang": "de",
     "lemma": "bange",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3183,14 +2977,16 @@ const WORDS_DE_B2 = [
       "ja": "不安な",
       "zh": "焦虑的",
       "ru": "тревожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_892",
+    "lang": "de",
     "lemma": "gastgeber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gastgeber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3208,17 +3004,16 @@ const WORDS_DE_B2 = [
       "ja": "主人",
       "zh": "主人",
       "ru": "хозяин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gastgeber"
+    }
   },
   {
     "id": "de_893",
+    "lang": "de",
     "lemma": "innenstadt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "innenstädte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3236,17 +3031,16 @@ const WORDS_DE_B2 = [
       "ja": "都心",
       "zh": "市中心",
       "ru": "центр города"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "innenstädte"
+    }
   },
   {
     "id": "de_894",
+    "lang": "de",
     "lemma": "mitbewohnerin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mitbewohnerinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3263,15 +3057,11 @@ const WORDS_DE_B2 = [
       "ja": "女性ルームメイト",
       "zh": "女性室友",
       "ru": "соседка по комнате"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mitbewohnerinnen"
+    }
   },
   {
     "id": "de_896",
+    "lang": "de",
     "lemma": "schwindelig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3291,14 +3081,16 @@ const WORDS_DE_B2 = [
       "ja": "めまいがする",
       "zh": "眩晕的",
       "ru": "головокружительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_897",
+    "lang": "de",
     "lemma": "ratschlag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ratschläge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3316,17 +3108,15 @@ const WORDS_DE_B2 = [
       "ja": "助言",
       "zh": "建议",
       "ru": "совет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ratschläge"
+    }
   },
   {
     "id": "de_898",
+    "lang": "de",
     "lemma": "scham",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3344,17 +3134,16 @@ const WORDS_DE_B2 = [
       "ja": "恥",
       "zh": "羞愧",
       "ru": "стыд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_901",
+    "lang": "de",
     "lemma": "defekt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "defekte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3372,15 +3161,11 @@ const WORDS_DE_B2 = [
       "ja": "欠陥",
       "zh": "缺陷",
       "ru": "дефект"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "defekte"
+    }
   },
   {
     "id": "de_902",
+    "lang": "de",
     "lemma": "defekt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3400,12 +3185,11 @@ const WORDS_DE_B2 = [
       "ja": "壊れた",
       "zh": "损坏的",
       "ru": "неисправный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_904",
+    "lang": "de",
     "lemma": "talentiert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3425,14 +3209,16 @@ const WORDS_DE_B2 = [
       "ja": "才能のある",
       "zh": "有才华的",
       "ru": "талантливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_906",
+    "lang": "de",
     "lemma": "schaufel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schaufeln",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3450,17 +3236,16 @@ const WORDS_DE_B2 = [
       "ja": "シャベル",
       "zh": "铲子",
       "ru": "лопата"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schaufeln"
+    }
   },
   {
     "id": "de_907",
+    "lang": "de",
     "lemma": "vetter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "vettern",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3478,15 +3263,11 @@ const WORDS_DE_B2 = [
       "ja": "いとこ",
       "zh": "表哥",
       "ru": "кузен"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vettern"
+    }
   },
   {
     "id": "de_909",
+    "lang": "de",
     "lemma": "bestechen",
     "pos": "Verb",
     "cefr": "B2",
@@ -3505,17 +3286,16 @@ const WORDS_DE_B2 = [
       "ja": "賄賂を贈る",
       "zh": "贿赂",
       "ru": "подкупать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bestechen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_910",
+    "lang": "de",
     "lemma": "rücksitz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "rücksitze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3533,15 +3313,11 @@ const WORDS_DE_B2 = [
       "ja": "後部座席",
       "zh": "后座",
       "ru": "заднее сиденье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "rücksitze"
+    }
   },
   {
     "id": "de_912",
+    "lang": "de",
     "lemma": "verärgern",
     "pos": "Verb",
     "cefr": "B2",
@@ -3561,17 +3337,16 @@ const WORDS_DE_B2 = [
       "ja": "怒らせる",
       "zh": "惹恼",
       "ru": "раздражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verärgern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_914",
+    "lang": "de",
     "lemma": "management",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "managements",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3589,17 +3364,16 @@ const WORDS_DE_B2 = [
       "ja": "経営",
       "zh": "管理",
       "ru": "управление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "managements"
+    }
   },
   {
     "id": "de_918",
+    "lang": "de",
     "lemma": "würfel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "würfel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3617,17 +3391,15 @@ const WORDS_DE_B2 = [
       "ja": "サイコロ",
       "zh": "骰子",
       "ru": "кубик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "würfel"
+    }
   },
   {
     "id": "de_919",
+    "lang": "de",
     "lemma": "physik",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3644,15 +3416,11 @@ const WORDS_DE_B2 = [
       "ja": "物理学",
       "zh": "物理学",
       "ru": "физика"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_924",
+    "lang": "de",
     "lemma": "streben",
     "pos": "Verb",
     "cefr": "B2",
@@ -3672,15 +3440,11 @@ const WORDS_DE_B2 = [
       "ja": "努力する",
       "zh": "努力",
       "ru": "стремиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "streben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_926",
+    "lang": "de",
     "lemma": "durchstehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -3700,17 +3464,16 @@ const WORDS_DE_B2 = [
       "ja": "耐える",
       "zh": "忍耐",
       "ru": "выдержать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durchstehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_927",
+    "lang": "de",
     "lemma": "streik",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "streiks",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3728,15 +3491,11 @@ const WORDS_DE_B2 = [
       "ja": "ストライキ",
       "zh": "罢工",
       "ru": "забастовка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "streiks"
+    }
   },
   {
     "id": "de_928",
+    "lang": "de",
     "lemma": "weiterfahren",
     "pos": "Verb",
     "cefr": "B2",
@@ -3756,17 +3515,16 @@ const WORDS_DE_B2 = [
       "ja": "運転を続ける",
       "zh": "继续行驶",
       "ru": "продолжать ехать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weiterfahren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_931",
+    "lang": "de",
     "lemma": "korruption",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "korruptionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3783,17 +3541,16 @@ const WORDS_DE_B2 = [
       "ja": "腐敗",
       "zh": "腐败",
       "ru": "коррупция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "korruptionen"
+    }
   },
   {
     "id": "de_934",
+    "lang": "de",
     "lemma": "grube",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gruben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3811,17 +3568,16 @@ const WORDS_DE_B2 = [
       "ja": "穴",
       "zh": "坑",
       "ru": "яма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gruben"
+    }
   },
   {
     "id": "de_936",
+    "lang": "de",
     "lemma": "kamerad",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kameraden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3839,15 +3595,11 @@ const WORDS_DE_B2 = [
       "ja": "仲間",
       "zh": "同志",
       "ru": "товарищ"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kameraden"
+    }
   },
   {
     "id": "de_937",
+    "lang": "de",
     "lemma": "irrelevant",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3866,12 +3618,11 @@ const WORDS_DE_B2 = [
       "ja": "無関係の",
       "zh": "无关的",
       "ru": "неуместный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_938",
+    "lang": "de",
     "lemma": "ironisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3890,14 +3641,16 @@ const WORDS_DE_B2 = [
       "ja": "皮肉な",
       "zh": "讽刺的",
       "ru": "иронический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_939",
+    "lang": "de",
     "lemma": "stier",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stiere",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3915,17 +3668,16 @@ const WORDS_DE_B2 = [
       "ja": "雄牛",
       "zh": "公牛",
       "ru": "бык"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stiere"
+    }
   },
   {
     "id": "de_941",
+    "lang": "de",
     "lemma": "entschluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "entschlüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3943,15 +3695,11 @@ const WORDS_DE_B2 = [
       "ja": "決定",
       "zh": "决定",
       "ru": "решение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "entschlüsse"
+    }
   },
   {
     "id": "de_942",
+    "lang": "de",
     "lemma": "gescheitert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3971,14 +3719,16 @@ const WORDS_DE_B2 = [
       "ja": "失敗した",
       "zh": "失败的",
       "ru": "потерпевший неудачу"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_944",
+    "lang": "de",
     "lemma": "desaster",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "desaster",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -3996,15 +3746,11 @@ const WORDS_DE_B2 = [
       "ja": "大惨事",
       "zh": "灾难",
       "ru": "катастрофа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "desaster"
+    }
   },
   {
     "id": "de_945",
+    "lang": "de",
     "lemma": "wachsam",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4024,12 +3770,11 @@ const WORDS_DE_B2 = [
       "ja": "警戒している",
       "zh": "警惕的",
       "ru": "бдительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_947",
+    "lang": "de",
     "lemma": "gutmachen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4049,17 +3794,16 @@ const WORDS_DE_B2 = [
       "ja": "補償する",
       "zh": "补偿",
       "ru": "компенсировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gutmachen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_951",
+    "lang": "de",
     "lemma": "auslöser",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "auslöser",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4077,17 +3821,16 @@ const WORDS_DE_B2 = [
       "ja": "トリガー",
       "zh": "触发器",
       "ru": "спусковой механизм"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "auslöser"
+    }
   },
   {
     "id": "de_954",
+    "lang": "de",
     "lemma": "server",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "server",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4105,17 +3848,16 @@ const WORDS_DE_B2 = [
       "ja": "サーバー",
       "zh": "服务器",
       "ru": "сервер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "server"
+    }
   },
   {
     "id": "de_955",
+    "lang": "de",
     "lemma": "leibwächter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "leibwächter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4133,17 +3875,16 @@ const WORDS_DE_B2 = [
       "ja": "ボディーガード",
       "zh": "保镖",
       "ru": "телохранитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "leibwächter"
+    }
   },
   {
     "id": "de_962",
+    "lang": "de",
     "lemma": "handschuh",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "handschuhe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4161,17 +3902,16 @@ const WORDS_DE_B2 = [
       "ja": "手袋",
       "zh": "手套",
       "ru": "перчатка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "handschuhe"
+    }
   },
   {
     "id": "de_963",
+    "lang": "de",
     "lemma": "seide",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "seiden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4189,15 +3929,11 @@ const WORDS_DE_B2 = [
       "ja": "絹",
       "zh": "丝绸",
       "ru": "шелк"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "seiden"
+    }
   },
   {
     "id": "de_971",
+    "lang": "de",
     "lemma": "scannen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4217,15 +3953,11 @@ const WORDS_DE_B2 = [
       "ja": "スキャンする",
       "zh": "扫描",
       "ru": "сканировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scannen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_972",
+    "lang": "de",
     "lemma": "klatschen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4245,17 +3977,15 @@ const WORDS_DE_B2 = [
       "ja": "拍手する",
       "zh": "鼓掌",
       "ru": "хлопать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klatschen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_973",
+    "lang": "de",
     "lemma": "klatschen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4273,17 +4003,16 @@ const WORDS_DE_B2 = [
       "ja": "拍手",
       "zh": "掌声",
       "ru": "аплодисменты"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_975",
+    "lang": "de",
     "lemma": "häuschen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "häuschen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4301,17 +4030,16 @@ const WORDS_DE_B2 = [
       "ja": "小さな家",
       "zh": "小房子",
       "ru": "домик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "häuschen"
+    }
   },
   {
     "id": "de_976",
+    "lang": "de",
     "lemma": "vermittlung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vermittlungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4329,17 +4057,15 @@ const WORDS_DE_B2 = [
       "ja": "仲介",
       "zh": "调解",
       "ru": "посредничество"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vermittlungen"
+    }
   },
   {
     "id": "de_980",
+    "lang": "de",
     "lemma": "blei",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4357,15 +4083,11 @@ const WORDS_DE_B2 = [
       "ja": "鉛",
       "zh": "铅",
       "ru": "свинец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_981",
+    "lang": "de",
     "lemma": "gönnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4385,15 +4107,11 @@ const WORDS_DE_B2 = [
       "ja": "許す",
       "zh": "允许",
       "ru": "позволять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gönnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_982",
+    "lang": "de",
     "lemma": "erreichbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4413,14 +4131,16 @@ const WORDS_DE_B2 = [
       "ja": "連絡可能な",
       "zh": "可达到的",
       "ru": "доступный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_985",
+    "lang": "de",
     "lemma": "aufprall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aufpralle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4438,15 +4158,11 @@ const WORDS_DE_B2 = [
       "ja": "衝突",
       "zh": "碰撞",
       "ru": "удар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aufpralle"
+    }
   },
   {
     "id": "de_988",
+    "lang": "de",
     "lemma": "ausflippen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4465,17 +4181,16 @@ const WORDS_DE_B2 = [
       "ja": "怒る",
       "zh": "发怒",
       "ru": "бешеничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausflippen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_991",
+    "lang": "de",
     "lemma": "unterhose",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "unterhosen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4493,17 +4208,16 @@ const WORDS_DE_B2 = [
       "ja": "下着",
       "zh": "内裤",
       "ru": "нижнее белье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "unterhosen"
+    }
   },
   {
     "id": "de_992",
+    "lang": "de",
     "lemma": "instrumentalmusik",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "instrumentalmusiken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4520,17 +4234,16 @@ const WORDS_DE_B2 = [
       "ja": "器楽音楽",
       "zh": "器乐音乐",
       "ru": "инструментальная музыка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "instrumentalmusiken"
+    }
   },
   {
     "id": "de_993",
+    "lang": "de",
     "lemma": "heldin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "heldinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4547,15 +4260,11 @@ const WORDS_DE_B2 = [
       "ja": "女性英雄",
       "zh": "女英雄",
       "ru": "героиня"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "heldinnen"
+    }
   },
   {
     "id": "de_994",
+    "lang": "de",
     "lemma": "schluchzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4575,15 +4284,11 @@ const WORDS_DE_B2 = [
       "ja": "すすり泣く",
       "zh": "啜泣",
       "ru": "рыдать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schluchzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_998",
+    "lang": "de",
     "lemma": "bezeugen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4602,17 +4307,16 @@ const WORDS_DE_B2 = [
       "ja": "証明する",
       "zh": "证明",
       "ru": "свидетельствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bezeugen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_999",
+    "lang": "de",
     "lemma": "massage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "massagen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4630,17 +4334,16 @@ const WORDS_DE_B2 = [
       "ja": "マッサージ",
       "zh": "按摩",
       "ru": "массаж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "massagen"
+    }
   },
   {
     "id": "de_1000",
+    "lang": "de",
     "lemma": "pudding",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "puddinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4658,15 +4361,11 @@ const WORDS_DE_B2 = [
       "ja": "プディング",
       "zh": "布丁",
       "ru": "пудинг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "puddinge"
+    }
   },
   {
     "id": "de_1002",
+    "lang": "de",
     "lemma": "bedrohen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4686,17 +4385,16 @@ const WORDS_DE_B2 = [
       "ja": "脅かす",
       "zh": "威胁",
       "ru": "угрожать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bedrohen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1005",
+    "lang": "de",
     "lemma": "teilnehmer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "teilnehmer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4714,17 +4412,16 @@ const WORDS_DE_B2 = [
       "ja": "参加者",
       "zh": "参加者",
       "ru": "участник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "teilnehmer"
+    }
   },
   {
     "id": "de_1009",
+    "lang": "de",
     "lemma": "tabak",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tabake",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4742,15 +4439,11 @@ const WORDS_DE_B2 = [
       "ja": "タバコ",
       "zh": "烟草",
       "ru": "табак"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tabake"
+    }
   },
   {
     "id": "de_1011",
+    "lang": "de",
     "lemma": "adoptieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -4770,17 +4463,16 @@ const WORDS_DE_B2 = [
       "ja": "養子にする",
       "zh": "收养",
       "ru": "усыновлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "adoptieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1014",
+    "lang": "de",
     "lemma": "kodex",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kodexe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4797,15 +4489,11 @@ const WORDS_DE_B2 = [
       "ja": "法典",
       "zh": "法典",
       "ru": "кодекс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kodexe"
+    }
   },
   {
     "id": "de_1015",
+    "lang": "de",
     "lemma": "schonen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4825,15 +4513,11 @@ const WORDS_DE_B2 = [
       "ja": "大切にする",
       "zh": "爱惜",
       "ru": "щадить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schonen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1016",
+    "lang": "de",
     "lemma": "machtlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4852,14 +4536,16 @@ const WORDS_DE_B2 = [
       "ja": "無力な",
       "zh": "无力的",
       "ru": "бессильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1018",
+    "lang": "de",
     "lemma": "mythos",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "mythen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4876,15 +4562,11 @@ const WORDS_DE_B2 = [
       "ja": "神話",
       "zh": "神话",
       "ru": "миф"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "mythen"
+    }
   },
   {
     "id": "de_1019",
+    "lang": "de",
     "lemma": "verantworten",
     "pos": "Verb",
     "cefr": "B2",
@@ -4904,15 +4586,11 @@ const WORDS_DE_B2 = [
       "ja": "責任を負う",
       "zh": "负责",
       "ru": "отвечать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verantworten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1021",
+    "lang": "de",
     "lemma": "zurückbekommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -4932,17 +4610,16 @@ const WORDS_DE_B2 = [
       "ja": "取り戻す",
       "zh": "取回",
       "ru": "получить обратно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zurückbekommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1024",
+    "lang": "de",
     "lemma": "lebenszeichen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "lebenszeichen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4960,17 +4637,16 @@ const WORDS_DE_B2 = [
       "ja": "生存信号",
       "zh": "生命迹象",
       "ru": "признак жизни"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "lebenszeichen"
+    }
   },
   {
     "id": "de_1027",
+    "lang": "de",
     "lemma": "haustier",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "haustiere",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -4988,17 +4664,16 @@ const WORDS_DE_B2 = [
       "ja": "ペット",
       "zh": "宠物",
       "ru": "домашнее животное"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "haustiere"
+    }
   },
   {
     "id": "de_1029",
+    "lang": "de",
     "lemma": "gesichtsausdruck",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gesichtsausdrücke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5016,17 +4691,16 @@ const WORDS_DE_B2 = [
       "ja": "表情",
       "zh": "面部表情",
       "ru": "выражение лица"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gesichtsausdrücke"
+    }
   },
   {
     "id": "de_1031",
+    "lang": "de",
     "lemma": "element",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "elemente",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5044,17 +4718,16 @@ const WORDS_DE_B2 = [
       "ja": "要素",
       "zh": "元素",
       "ru": "элемент"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "elemente"
+    }
   },
   {
     "id": "de_1033",
+    "lang": "de",
     "lemma": "verlegenheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verlegenheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5072,17 +4745,16 @@ const WORDS_DE_B2 = [
       "ja": "困惑",
       "zh": "尴尬",
       "ru": "смущение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verlegenheiten"
+    }
   },
   {
     "id": "de_1036",
+    "lang": "de",
     "lemma": "bereitschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bereitschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5100,17 +4772,16 @@ const WORDS_DE_B2 = [
       "ja": "準備",
       "zh": "准备",
       "ru": "готовность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bereitschaften"
+    }
   },
   {
     "id": "de_1037",
+    "lang": "de",
     "lemma": "börse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "börsen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5127,17 +4798,16 @@ const WORDS_DE_B2 = [
       "ja": "証券取引所",
       "zh": "证券交易所",
       "ru": "биржа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "börsen"
+    }
   },
   {
     "id": "de_1038",
+    "lang": "de",
     "lemma": "aufsatz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aufsätze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5154,15 +4824,11 @@ const WORDS_DE_B2 = [
       "ja": "エッセイ",
       "zh": "论文",
       "ru": "сочинение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aufsätze"
+    }
   },
   {
     "id": "de_1041",
+    "lang": "de",
     "lemma": "gebildet",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5182,14 +4848,16 @@ const WORDS_DE_B2 = [
       "ja": "教養のある",
       "zh": "有教养的",
       "ru": "образованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1045",
+    "lang": "de",
     "lemma": "ausschuss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ausschüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5207,15 +4875,11 @@ const WORDS_DE_B2 = [
       "ja": "委員会",
       "zh": "委员会",
       "ru": "комитет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ausschüsse"
+    }
   },
   {
     "id": "de_1049",
+    "lang": "de",
     "lemma": "ausgelassen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5235,14 +4899,16 @@ const WORDS_DE_B2 = [
       "ja": "陽気な",
       "zh": "欢快的",
       "ru": "веселый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1051",
+    "lang": "de",
     "lemma": "tango",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tangos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5260,15 +4926,11 @@ const WORDS_DE_B2 = [
       "ja": "タンゴ",
       "zh": "探戈",
       "ru": "танго"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tangos"
+    }
   },
   {
     "id": "de_1052",
+    "lang": "de",
     "lemma": "respektlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5288,14 +4950,16 @@ const WORDS_DE_B2 = [
       "ja": "失礼な",
       "zh": "无礼的",
       "ru": "неуважительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1058",
+    "lang": "de",
     "lemma": "psychologie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "psychologien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5312,17 +4976,16 @@ const WORDS_DE_B2 = [
       "ja": "心理学",
       "zh": "心理学",
       "ru": "психология"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "psychologien"
+    }
   },
   {
     "id": "de_1061",
+    "lang": "de",
     "lemma": "belastung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "belastungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5340,17 +5003,16 @@ const WORDS_DE_B2 = [
       "ja": "負担",
       "zh": "负担",
       "ru": "нагрузка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "belastungen"
+    }
   },
   {
     "id": "de_1063",
+    "lang": "de",
     "lemma": "gespenst",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "gespenster",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5368,17 +5030,16 @@ const WORDS_DE_B2 = [
       "ja": "幽霊",
       "zh": "幽灵",
       "ru": "привидение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gespenster"
+    }
   },
   {
     "id": "de_1067",
+    "lang": "de",
     "lemma": "ursprung",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ursprünge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5396,17 +5057,16 @@ const WORDS_DE_B2 = [
       "ja": "起源",
       "zh": "起源",
       "ru": "происхождение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ursprünge"
+    }
   },
   {
     "id": "de_1071",
+    "lang": "de",
     "lemma": "terrasse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "terrassen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5424,17 +5084,16 @@ const WORDS_DE_B2 = [
       "ja": "テラス",
       "zh": "露台",
       "ru": "терраса"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "terrassen"
+    }
   },
   {
     "id": "de_1075",
+    "lang": "de",
     "lemma": "impuls",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "impulse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5452,17 +5111,16 @@ const WORDS_DE_B2 = [
       "ja": "衝動",
       "zh": "冲动",
       "ru": "импульс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "impulse"
+    }
   },
   {
     "id": "de_1077",
+    "lang": "de",
     "lemma": "peitsche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "peitschen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5479,17 +5137,16 @@ const WORDS_DE_B2 = [
       "ja": "鞭",
       "zh": "鞭子",
       "ru": "кнут"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "peitschen"
+    }
   },
   {
     "id": "de_1078",
+    "lang": "de",
     "lemma": "rebellion",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "rebellionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5506,17 +5163,16 @@ const WORDS_DE_B2 = [
       "ja": "反乱",
       "zh": "反叛",
       "ru": "восстание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "rebellionen"
+    }
   },
   {
     "id": "de_1079",
+    "lang": "de",
     "lemma": "seemann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "seemänner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5534,15 +5190,11 @@ const WORDS_DE_B2 = [
       "ja": "船乗り",
       "zh": "水手",
       "ru": "моряк"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "seemänner"
+    }
   },
   {
     "id": "de_1080",
+    "lang": "de",
     "lemma": "aufgeräumt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5562,14 +5214,16 @@ const WORDS_DE_B2 = [
       "ja": "片付いた",
       "zh": "整洁的",
       "ru": "аккуратный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1084",
+    "lang": "de",
     "lemma": "absturz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "abstürze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5586,15 +5240,11 @@ const WORDS_DE_B2 = [
       "ja": "墜落",
       "zh": "坠落",
       "ru": "крушение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "abstürze"
+    }
   },
   {
     "id": "de_1089",
+    "lang": "de",
     "lemma": "benachrichtigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -5613,17 +5263,16 @@ const WORDS_DE_B2 = [
       "ja": "知らせる",
       "zh": "通知",
       "ru": "уведомлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "benachrichtigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1090",
+    "lang": "de",
     "lemma": "kavallerie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kavallerien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5641,15 +5290,11 @@ const WORDS_DE_B2 = [
       "ja": "騎兵",
       "zh": "骑兵",
       "ru": "кавалерия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kavallerien"
+    }
   },
   {
     "id": "de_1092",
+    "lang": "de",
     "lemma": "weigern",
     "pos": "Verb",
     "cefr": "B2",
@@ -5669,17 +5314,15 @@ const WORDS_DE_B2 = [
       "ja": "拒否する",
       "zh": "拒绝",
       "ru": "отказывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weigern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1094",
+    "lang": "de",
     "lemma": "beifall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5697,17 +5340,16 @@ const WORDS_DE_B2 = [
       "ja": "拍手",
       "zh": "掌声",
       "ru": "аплодисменты"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_1096",
+    "lang": "de",
     "lemma": "resultat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "resultate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5725,15 +5367,11 @@ const WORDS_DE_B2 = [
       "ja": "結果",
       "zh": "结果",
       "ru": "результат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "resultate"
+    }
   },
   {
     "id": "de_1097",
+    "lang": "de",
     "lemma": "global",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5753,14 +5391,16 @@ const WORDS_DE_B2 = [
       "ja": "グローバルな",
       "zh": "全球的",
       "ru": "глобальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1102",
+    "lang": "de",
     "lemma": "beschützer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "beschützer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5778,17 +5418,16 @@ const WORDS_DE_B2 = [
       "ja": "保護者",
       "zh": "保护者",
       "ru": "защитник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "beschützer"
+    }
   },
   {
     "id": "de_1104",
+    "lang": "de",
     "lemma": "betrag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "beträge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5806,17 +5445,16 @@ const WORDS_DE_B2 = [
       "ja": "金額",
       "zh": "金额",
       "ru": "сумма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "beträge"
+    }
   },
   {
     "id": "de_1106",
+    "lang": "de",
     "lemma": "schlägerei",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schlägereien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5833,17 +5471,16 @@ const WORDS_DE_B2 = [
       "ja": "喧嘩",
       "zh": "打架",
       "ru": "драка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schlägereien"
+    }
   },
   {
     "id": "de_1107",
+    "lang": "de",
     "lemma": "bösewicht",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bösewichte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5861,15 +5498,11 @@ const WORDS_DE_B2 = [
       "ja": "悪役",
       "zh": "恶棍",
       "ru": "злодей"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bösewichte"
+    }
   },
   {
     "id": "de_1108",
+    "lang": "de",
     "lemma": "aufwachsen",
     "pos": "Verb",
     "cefr": "B2",
@@ -5889,15 +5522,11 @@ const WORDS_DE_B2 = [
       "ja": "成長する",
       "zh": "长大",
       "ru": "расти"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufwachsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1111",
+    "lang": "de",
     "lemma": "ermöglichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -5917,17 +5546,16 @@ const WORDS_DE_B2 = [
       "ja": "可能にする",
       "zh": "使能够",
       "ru": "позволять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ermöglichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1116",
+    "lang": "de",
     "lemma": "karton",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kartons",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5945,15 +5573,11 @@ const WORDS_DE_B2 = [
       "ja": "段ボール",
       "zh": "纸板",
       "ru": "картон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kartons"
+    }
   },
   {
     "id": "de_1117",
+    "lang": "de",
     "lemma": "verspätet",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5973,14 +5597,15 @@ const WORDS_DE_B2 = [
       "ja": "遅延した",
       "zh": "延迟的",
       "ru": "запоздалый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1118",
+    "lang": "de",
     "lemma": "obhut",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -5997,17 +5622,16 @@ const WORDS_DE_B2 = [
       "ja": "保護",
       "zh": "保护",
       "ru": "опека"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_1119",
+    "lang": "de",
     "lemma": "aufführung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "aufführungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6025,17 +5649,16 @@ const WORDS_DE_B2 = [
       "ja": "公演",
       "zh": "演出",
       "ru": "представление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "aufführungen"
+    }
   },
   {
     "id": "de_1120",
+    "lang": "de",
     "lemma": "fraß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "fraße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6053,17 +5676,16 @@ const WORDS_DE_B2 = [
       "ja": "飼料",
       "zh": "饲料",
       "ru": "корм"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "fraße"
+    }
   },
   {
     "id": "de_1124",
+    "lang": "de",
     "lemma": "häftling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "häftlinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6081,15 +5703,11 @@ const WORDS_DE_B2 = [
       "ja": "囚人",
       "zh": "囚犯",
       "ru": "заключенный"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "häftlinge"
+    }
   },
   {
     "id": "de_1126",
+    "lang": "de",
     "lemma": "unterschätzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -6109,15 +5727,11 @@ const WORDS_DE_B2 = [
       "ja": "過小評価する",
       "zh": "低估",
       "ru": "недооценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "unterschätzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1128",
+    "lang": "de",
     "lemma": "errichten",
     "pos": "Verb",
     "cefr": "B2",
@@ -6137,17 +5751,16 @@ const WORDS_DE_B2 = [
       "ja": "建てる",
       "zh": "建立",
       "ru": "возводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "errichten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1129",
+    "lang": "de",
     "lemma": "stapel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stapel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6165,17 +5778,16 @@ const WORDS_DE_B2 = [
       "ja": "積み重ね",
       "zh": "堆",
       "ru": "стопка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stapel"
+    }
   },
   {
     "id": "de_1132",
+    "lang": "de",
     "lemma": "übereinstimmung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "übereinstimmungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6192,17 +5804,16 @@ const WORDS_DE_B2 = [
       "ja": "一致",
       "zh": "一致",
       "ru": "согласие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "übereinstimmungen"
+    }
   },
   {
     "id": "de_1133",
+    "lang": "de",
     "lemma": "entwurf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "entwürfe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6219,15 +5830,11 @@ const WORDS_DE_B2 = [
       "ja": "草案",
       "zh": "草稿",
       "ru": "набросок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "entwürfe"
+    }
   },
   {
     "id": "de_1134",
+    "lang": "de",
     "lemma": "shoppen",
     "pos": "Verb",
     "cefr": "B2",
@@ -6247,17 +5854,16 @@ const WORDS_DE_B2 = [
       "ja": "買い物する",
       "zh": "购物",
       "ru": "делать покупки"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "shoppen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1136",
+    "lang": "de",
     "lemma": "anliegen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "anliegen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6275,17 +5881,16 @@ const WORDS_DE_B2 = [
       "ja": "要望",
       "zh": "请求",
       "ru": "просьба"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "anliegen"
+    }
   },
   {
     "id": "de_1138",
+    "lang": "de",
     "lemma": "täuschung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "täuschungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6302,15 +5907,11 @@ const WORDS_DE_B2 = [
       "ja": "欺き",
       "zh": "欺骗",
       "ru": "обман"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "täuschungen"
+    }
   },
   {
     "id": "de_1140",
+    "lang": "de",
     "lemma": "eliminieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -6329,15 +5930,11 @@ const WORDS_DE_B2 = [
       "ja": "排除する",
       "zh": "消除",
       "ru": "исключать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eliminieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1141",
+    "lang": "de",
     "lemma": "verstärken",
     "pos": "Verb",
     "cefr": "B2",
@@ -6356,17 +5953,16 @@ const WORDS_DE_B2 = [
       "ja": "強化する",
       "zh": "加强",
       "ru": "усиливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verstärken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1142",
+    "lang": "de",
     "lemma": "mithilfe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mithilfen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6384,17 +5980,16 @@ const WORDS_DE_B2 = [
       "ja": "助け",
       "zh": "帮助",
       "ru": "помощь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mithilfen"
+    }
   },
   {
     "id": "de_1143",
+    "lang": "de",
     "lemma": "packung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "packungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6412,15 +6007,11 @@ const WORDS_DE_B2 = [
       "ja": "包装",
       "zh": "包装",
       "ru": "упаковка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "packungen"
+    }
   },
   {
     "id": "de_1145",
+    "lang": "de",
     "lemma": "aufteilen",
     "pos": "Verb",
     "cefr": "B2",
@@ -6440,15 +6031,11 @@ const WORDS_DE_B2 = [
       "ja": "分ける",
       "zh": "分割",
       "ru": "разделять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufteilen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1146",
+    "lang": "de",
     "lemma": "unberechenbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6467,12 +6054,11 @@ const WORDS_DE_B2 = [
       "ja": "予測不可能な",
       "zh": "不可预测的",
       "ru": "непредсказуемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1148",
+    "lang": "de",
     "lemma": "vage",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6491,14 +6077,16 @@ const WORDS_DE_B2 = [
       "ja": "曖昧な",
       "zh": "模糊的",
       "ru": "неопределённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1149",
+    "lang": "de",
     "lemma": "hindernis",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "hindernisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6516,15 +6104,11 @@ const WORDS_DE_B2 = [
       "ja": "障害物",
       "zh": "障碍",
       "ru": "препятствие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "hindernisse"
+    }
   },
   {
     "id": "de_1152",
+    "lang": "de",
     "lemma": "gierig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6544,14 +6128,16 @@ const WORDS_DE_B2 = [
       "ja": "貪欲な",
       "zh": "贪心的",
       "ru": "жадный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1153",
+    "lang": "de",
     "lemma": "schreck",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schrecke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6569,17 +6155,16 @@ const WORDS_DE_B2 = [
       "ja": "恐怖",
       "zh": "惊吓",
       "ru": "испуг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schrecke"
+    }
   },
   {
     "id": "de_1158",
+    "lang": "de",
     "lemma": "lob",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "lobe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6597,15 +6182,11 @@ const WORDS_DE_B2 = [
       "ja": "賞賛",
       "zh": "赞美",
       "ru": "похвала"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "lobe"
+    }
   },
   {
     "id": "de_1161",
+    "lang": "de",
     "lemma": "frustriert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6624,14 +6205,16 @@ const WORDS_DE_B2 = [
       "ja": "落胆した",
       "zh": "沮丧的",
       "ru": "разочарованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1162",
+    "lang": "de",
     "lemma": "ohnmacht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ohnmachten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6649,15 +6232,11 @@ const WORDS_DE_B2 = [
       "ja": "失神",
       "zh": "昏迷",
       "ru": "обморок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ohnmachten"
+    }
   },
   {
     "id": "de_1166",
+    "lang": "de",
     "lemma": "kapieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -6677,17 +6256,16 @@ const WORDS_DE_B2 = [
       "ja": "理解する",
       "zh": "理解",
       "ru": "понимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kapieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1174",
+    "lang": "de",
     "lemma": "silvester",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "silvester",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6705,17 +6283,16 @@ const WORDS_DE_B2 = [
       "ja": "大晦日",
       "zh": "跨年夜",
       "ru": "канун Нового года"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "silvester"
+    }
   },
   {
     "id": "de_1177",
+    "lang": "de",
     "lemma": "schließfach",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "schließfächer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6733,15 +6310,11 @@ const WORDS_DE_B2 = [
       "ja": "ロッカー",
       "zh": "储物柜",
       "ru": "шкафчик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "schließfächer"
+    }
   },
   {
     "id": "de_1180",
+    "lang": "de",
     "lemma": "einhalten",
     "pos": "Verb",
     "cefr": "B2",
@@ -6761,17 +6334,16 @@ const WORDS_DE_B2 = [
       "ja": "守る",
       "zh": "遵守",
       "ru": "соблюдать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einhalten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1181",
+    "lang": "de",
     "lemma": "millionär",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "millionäre",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6788,17 +6360,16 @@ const WORDS_DE_B2 = [
       "ja": "百万長者",
       "zh": "百万富翁",
       "ru": "миллионер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "millionäre"
+    }
   },
   {
     "id": "de_1184",
+    "lang": "de",
     "lemma": "forscher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "forscher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6815,15 +6386,11 @@ const WORDS_DE_B2 = [
       "ja": "研究者",
       "zh": "研究者",
       "ru": "исследователь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "forscher"
+    }
   },
   {
     "id": "de_1186",
+    "lang": "de",
     "lemma": "begabt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6842,14 +6409,16 @@ const WORDS_DE_B2 = [
       "ja": "才能のある",
       "zh": "有才华的",
       "ru": "одарённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1187",
+    "lang": "de",
     "lemma": "design",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "designs",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6867,15 +6436,11 @@ const WORDS_DE_B2 = [
       "ja": "デザイン",
       "zh": "设计",
       "ru": "дизайн"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "designs"
+    }
   },
   {
     "id": "de_1190",
+    "lang": "de",
     "lemma": "entscheidend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6894,12 +6459,11 @@ const WORDS_DE_B2 = [
       "ja": "決定的な",
       "zh": "决定性的",
       "ru": "решающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1191",
+    "lang": "de",
     "lemma": "zurückhaben",
     "pos": "Verb",
     "cefr": "B2",
@@ -6918,17 +6482,16 @@ const WORDS_DE_B2 = [
       "ja": "取り戻す",
       "zh": "拿回",
       "ru": "получить обратно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zurückhaben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1192",
+    "lang": "de",
     "lemma": "nervensäge",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "nervensägen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6945,17 +6508,16 @@ const WORDS_DE_B2 = [
       "ja": "うるさい人",
       "zh": "讨厌的人",
       "ru": "надоедливый человек"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "nervensägen"
+    }
   },
   {
     "id": "de_1193",
+    "lang": "de",
     "lemma": "kuckuck",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kuckucke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -6973,17 +6535,16 @@ const WORDS_DE_B2 = [
       "ja": "カッコウ",
       "zh": "布谷鸟",
       "ru": "кукушка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kuckucke"
+    }
   },
   {
     "id": "de_1196",
+    "lang": "de",
     "lemma": "unabhängigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "unabhängigkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7000,17 +6561,16 @@ const WORDS_DE_B2 = [
       "ja": "独立",
       "zh": "独立",
       "ru": "независимость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "unabhängigkeiten"
+    }
   },
   {
     "id": "de_1199",
+    "lang": "de",
     "lemma": "lücke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lücken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7028,17 +6588,16 @@ const WORDS_DE_B2 = [
       "ja": "隙間",
       "zh": "缝隙",
       "ru": "щель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lücken"
+    }
   },
   {
     "id": "de_1203",
+    "lang": "de",
     "lemma": "weibchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "weibchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7055,17 +6614,16 @@ const WORDS_DE_B2 = [
       "ja": "メス",
       "zh": "母兽",
       "ru": "самка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "weibchen"
+    }
   },
   {
     "id": "de_1204",
+    "lang": "de",
     "lemma": "jahrestag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "jahrestage",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7083,15 +6641,11 @@ const WORDS_DE_B2 = [
       "ja": "記念日",
       "zh": "周年纪念",
       "ru": "годовщина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "jahrestage"
+    }
   },
   {
     "id": "de_1205",
+    "lang": "de",
     "lemma": "exzellent",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7111,12 +6665,11 @@ const WORDS_DE_B2 = [
       "ja": "優秀な",
       "zh": "卓越的",
       "ru": "отличный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1206",
+    "lang": "de",
     "lemma": "strahlen",
     "pos": "Verb",
     "cefr": "B2",
@@ -7135,17 +6688,16 @@ const WORDS_DE_B2 = [
       "ja": "輝く",
       "zh": "闪耀",
       "ru": "сиять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "strahlen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1208",
+    "lang": "de",
     "lemma": "depression",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "depressionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7163,15 +6715,11 @@ const WORDS_DE_B2 = [
       "ja": "抑うつ症",
       "zh": "抑郁症",
       "ru": "депрессия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "depressionen"
+    }
   },
   {
     "id": "de_1210",
+    "lang": "de",
     "lemma": "erwecken",
     "pos": "Verb",
     "cefr": "B2",
@@ -7191,17 +6739,16 @@ const WORDS_DE_B2 = [
       "ja": "目覚めさせる",
       "zh": "唤醒",
       "ru": "пробуждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erwecken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1211",
+    "lang": "de",
     "lemma": "männchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "männchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7219,15 +6766,11 @@ const WORDS_DE_B2 = [
       "ja": "オス",
       "zh": "雄性",
       "ru": "самец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "männchen"
+    }
   },
   {
     "id": "de_1212",
+    "lang": "de",
     "lemma": "senken",
     "pos": "Verb",
     "cefr": "B2",
@@ -7247,17 +6790,16 @@ const WORDS_DE_B2 = [
       "ja": "下げる",
       "zh": "降低",
       "ru": "опускать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "senken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1214",
+    "lang": "de",
     "lemma": "kommission",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kommissionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7274,15 +6816,11 @@ const WORDS_DE_B2 = [
       "ja": "委員会",
       "zh": "委员会",
       "ru": "комиссия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kommissionen"
+    }
   },
   {
     "id": "de_1219",
+    "lang": "de",
     "lemma": "abreißen",
     "pos": "Verb",
     "cefr": "B2",
@@ -7302,17 +6840,16 @@ const WORDS_DE_B2 = [
       "ja": "引き裂く",
       "zh": "撕掉",
       "ru": "отрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abreißen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1220",
+    "lang": "de",
     "lemma": "komödie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "komödien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7330,15 +6867,11 @@ const WORDS_DE_B2 = [
       "ja": "喜劇",
       "zh": "喜剧",
       "ru": "комедия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "komödien"
+    }
   },
   {
     "id": "de_1221",
+    "lang": "de",
     "lemma": "außergewöhnliche",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7358,12 +6891,11 @@ const WORDS_DE_B2 = [
       "ja": "並外れた",
       "zh": "非凡的",
       "ru": "необычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1222",
+    "lang": "de",
     "lemma": "hartes",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7383,14 +6915,16 @@ const WORDS_DE_B2 = [
       "ja": "硬い",
       "zh": "硬的",
       "ru": "твёрдый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1227",
+    "lang": "de",
     "lemma": "olive",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "oliven",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7408,17 +6942,16 @@ const WORDS_DE_B2 = [
       "ja": "オリーブ",
       "zh": "橄榄",
       "ru": "оливка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "oliven"
+    }
   },
   {
     "id": "de_1229",
+    "lang": "de",
     "lemma": "beteiligung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "beteiligungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7436,17 +6969,16 @@ const WORDS_DE_B2 = [
       "ja": "参加",
       "zh": "参与",
       "ru": "участие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "beteiligungen"
+    }
   },
   {
     "id": "de_1234",
+    "lang": "de",
     "lemma": "kapital",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kapitale",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7463,17 +6995,16 @@ const WORDS_DE_B2 = [
       "ja": "資本",
       "zh": "资本",
       "ru": "капитал"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kapitale"
+    }
   },
   {
     "id": "de_1236",
+    "lang": "de",
     "lemma": "attacke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "attacken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7490,17 +7021,16 @@ const WORDS_DE_B2 = [
       "ja": "攻撃",
       "zh": "攻击",
       "ru": "атака"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "attacken"
+    }
   },
   {
     "id": "de_1238",
+    "lang": "de",
     "lemma": "medium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "medien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7517,17 +7047,16 @@ const WORDS_DE_B2 = [
       "ja": "媒体",
       "zh": "媒介",
       "ru": "средство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "medien"
+    }
   },
   {
     "id": "de_1241",
+    "lang": "de",
     "lemma": "stockwerk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "stockwerke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7545,17 +7074,16 @@ const WORDS_DE_B2 = [
       "ja": "階",
       "zh": "楼层",
       "ru": "этаж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "stockwerke"
+    }
   },
   {
     "id": "de_1248",
+    "lang": "de",
     "lemma": "befreiung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "befreiungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7572,17 +7100,16 @@ const WORDS_DE_B2 = [
       "ja": "解放",
       "zh": "解放",
       "ru": "освобождение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "befreiungen"
+    }
   },
   {
     "id": "de_1249",
+    "lang": "de",
     "lemma": "anzahlung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "anzahlungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7600,15 +7127,11 @@ const WORDS_DE_B2 = [
       "ja": "頭金",
       "zh": "定金",
       "ru": "задаток"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anzahlungen"
+    }
   },
   {
     "id": "de_1250",
+    "lang": "de",
     "lemma": "komplex",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7628,14 +7151,16 @@ const WORDS_DE_B2 = [
       "ja": "複雑な",
       "zh": "复杂的",
       "ru": "сложный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1251",
+    "lang": "de",
     "lemma": "komplex",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "komplexe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7653,15 +7178,11 @@ const WORDS_DE_B2 = [
       "ja": "複合体",
       "zh": "综合体",
       "ru": "комплекс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "komplexe"
+    }
   },
   {
     "id": "de_1253",
+    "lang": "de",
     "lemma": "stinken",
     "pos": "Verb",
     "cefr": "B2",
@@ -7681,17 +7202,16 @@ const WORDS_DE_B2 = [
       "ja": "臭い",
       "zh": "发臭",
       "ru": "вонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stinken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1265",
+    "lang": "de",
     "lemma": "imperium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "imperien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7708,17 +7228,16 @@ const WORDS_DE_B2 = [
       "ja": "帝国",
       "zh": "帝国",
       "ru": "империя"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "imperien"
+    }
   },
   {
     "id": "de_1270",
+    "lang": "de",
     "lemma": "privileg",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "privilegien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7736,17 +7255,16 @@ const WORDS_DE_B2 = [
       "ja": "特権",
       "zh": "特权",
       "ru": "привилегия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "privilegien"
+    }
   },
   {
     "id": "de_1274",
+    "lang": "de",
     "lemma": "wirbel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "wirbel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7764,17 +7282,16 @@ const WORDS_DE_B2 = [
       "ja": "渦巻き",
       "zh": "漩涡",
       "ru": "вихрь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "wirbel"
+    }
   },
   {
     "id": "de_1277",
+    "lang": "de",
     "lemma": "behälter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "behälter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7792,15 +7309,11 @@ const WORDS_DE_B2 = [
       "ja": "容器",
       "zh": "容器",
       "ru": "контейнер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "behälter"
+    }
   },
   {
     "id": "de_1279",
+    "lang": "de",
     "lemma": "scheußlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7820,14 +7333,15 @@ const WORDS_DE_B2 = [
       "ja": "ひどい",
       "zh": "可怕的",
       "ru": "ужасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1287",
+    "lang": "de",
     "lemma": "morgengrauen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7845,17 +7359,16 @@ const WORDS_DE_B2 = [
       "ja": "夜明け",
       "zh": "黎明",
       "ru": "рассвет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1288",
+    "lang": "de",
     "lemma": "kristall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kristalle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7872,15 +7385,11 @@ const WORDS_DE_B2 = [
       "ja": "結晶",
       "zh": "晶体",
       "ru": "кристалл"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kristalle"
+    }
   },
   {
     "id": "de_1290",
+    "lang": "de",
     "lemma": "dulden",
     "pos": "Verb",
     "cefr": "B2",
@@ -7900,17 +7409,15 @@ const WORDS_DE_B2 = [
       "ja": "容認する",
       "zh": "容忍",
       "ru": "терпеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dulden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1292",
+    "lang": "de",
     "lemma": "unheil",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7928,17 +7435,16 @@ const WORDS_DE_B2 = [
       "ja": "災厄",
       "zh": "灾祸",
       "ru": "беда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1295",
+    "lang": "de",
     "lemma": "verwendung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verwendungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -7956,15 +7462,11 @@ const WORDS_DE_B2 = [
       "ja": "使用",
       "zh": "使用",
       "ru": "использование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verwendungen"
+    }
   },
   {
     "id": "de_1296",
+    "lang": "de",
     "lemma": "rauben",
     "pos": "Verb",
     "cefr": "B2",
@@ -7984,17 +7486,16 @@ const WORDS_DE_B2 = [
       "ja": "略奪する",
       "zh": "掠夺",
       "ru": "грабить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rauben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1300",
+    "lang": "de",
     "lemma": "evolution",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "evolutionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8012,17 +7513,16 @@ const WORDS_DE_B2 = [
       "ja": "進化",
       "zh": "进化",
       "ru": "эволюция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "evolutionen"
+    }
   },
   {
     "id": "de_1305",
+    "lang": "de",
     "lemma": "becken",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "becken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8039,15 +7539,11 @@ const WORDS_DE_B2 = [
       "ja": "骨盤",
       "zh": "骨盆",
       "ru": "таз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "becken"
+    }
   },
   {
     "id": "de_1307",
+    "lang": "de",
     "lemma": "unversehrt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8066,12 +7562,11 @@ const WORDS_DE_B2 = [
       "ja": "無傷の",
       "zh": "完好的",
       "ru": "невредимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1314",
+    "lang": "de",
     "lemma": "höhlen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8090,15 +7585,11 @@ const WORDS_DE_B2 = [
       "ja": "くり抜く",
       "zh": "挖空",
       "ru": "выдалбливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "höhlen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1317",
+    "lang": "de",
     "lemma": "schnarchen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8117,15 +7608,11 @@ const WORDS_DE_B2 = [
       "ja": "いびきをかく",
       "zh": "打鼾",
       "ru": "храпеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schnarchen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1325",
+    "lang": "de",
     "lemma": "sentimental",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8145,14 +7632,16 @@ const WORDS_DE_B2 = [
       "ja": "感情的な",
       "zh": "感伤的",
       "ru": "сентиментальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1329",
+    "lang": "de",
     "lemma": "cocktail",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "cocktails",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8170,15 +7659,11 @@ const WORDS_DE_B2 = [
       "ja": "カクテル",
       "zh": "鸡尾酒",
       "ru": "коктейль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "cocktails"
+    }
   },
   {
     "id": "de_1330",
+    "lang": "de",
     "lemma": "säubern",
     "pos": "Verb",
     "cefr": "B2",
@@ -8198,15 +7683,11 @@ const WORDS_DE_B2 = [
       "ja": "きれいにする",
       "zh": "清洁",
       "ru": "очищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "säubern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1332",
+    "lang": "de",
     "lemma": "unzählige",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8226,12 +7707,11 @@ const WORDS_DE_B2 = [
       "ja": "数えられない",
       "zh": "无数的",
       "ru": "бесчисленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1333",
+    "lang": "de",
     "lemma": "einbringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8251,15 +7731,11 @@ const WORDS_DE_B2 = [
       "ja": "もたらす",
       "zh": "带来",
       "ru": "приносить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einbringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1335",
+    "lang": "de",
     "lemma": "misstrauen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8279,17 +7755,15 @@ const WORDS_DE_B2 = [
       "ja": "疑う",
       "zh": "怀疑",
       "ru": "недоверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "misstrauen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1336",
+    "lang": "de",
     "lemma": "misstrauen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8306,17 +7780,15 @@ const WORDS_DE_B2 = [
       "ja": "不信",
       "zh": "不信任",
       "ru": "недоверие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1338",
+    "lang": "de",
     "lemma": "cash",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8334,15 +7806,11 @@ const WORDS_DE_B2 = [
       "ja": "現金",
       "zh": "现金",
       "ru": "наличные"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1342",
+    "lang": "de",
     "lemma": "hungern",
     "pos": "Verb",
     "cefr": "B2",
@@ -8361,15 +7829,11 @@ const WORDS_DE_B2 = [
       "ja": "飢える",
       "zh": "挨饿",
       "ru": "голодать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hungern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1347",
+    "lang": "de",
     "lemma": "beugen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8389,15 +7853,11 @@ const WORDS_DE_B2 = [
       "ja": "曲げる",
       "zh": "弯曲",
       "ru": "сгибать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beugen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1349",
+    "lang": "de",
     "lemma": "falten",
     "pos": "Verb",
     "cefr": "B2",
@@ -8417,15 +7877,11 @@ const WORDS_DE_B2 = [
       "ja": "折る",
       "zh": "折叠",
       "ru": "складывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "falten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1350",
+    "lang": "de",
     "lemma": "saugen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8445,17 +7901,16 @@ const WORDS_DE_B2 = [
       "ja": "吸う",
       "zh": "吸取",
       "ru": "всасывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "saugen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1356",
+    "lang": "de",
     "lemma": "fels",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "felsen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8473,15 +7928,11 @@ const WORDS_DE_B2 = [
       "ja": "岩",
       "zh": "岩石",
       "ru": "скала"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "felsen"
+    }
   },
   {
     "id": "de_1357",
+    "lang": "de",
     "lemma": "bohren",
     "pos": "Verb",
     "cefr": "B2",
@@ -8501,17 +7952,16 @@ const WORDS_DE_B2 = [
       "ja": "穴を開ける",
       "zh": "钻孔",
       "ru": "сверлить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bohren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1359",
+    "lang": "de",
     "lemma": "milliarde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "milliarden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8529,17 +7979,16 @@ const WORDS_DE_B2 = [
       "ja": "十億",
       "zh": "十亿",
       "ru": "миллиард"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "milliarden"
+    }
   },
   {
     "id": "de_1361",
+    "lang": "de",
     "lemma": "gorilla",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gorillas",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8557,15 +8006,11 @@ const WORDS_DE_B2 = [
       "ja": "ゴリラ",
       "zh": "大猩猩",
       "ru": "горилла"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gorillas"
+    }
   },
   {
     "id": "de_1363",
+    "lang": "de",
     "lemma": "kippen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8584,17 +8029,16 @@ const WORDS_DE_B2 = [
       "ja": "傾ける",
       "zh": "倾斜",
       "ru": "наклонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kippen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1371",
+    "lang": "de",
     "lemma": "hirsch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "hirsche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8612,17 +8056,16 @@ const WORDS_DE_B2 = [
       "ja": "鹿",
       "zh": "鹿",
       "ru": "олень"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "hirsche"
+    }
   },
   {
     "id": "de_1383",
+    "lang": "de",
     "lemma": "bemerkung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bemerkungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8640,17 +8083,16 @@ const WORDS_DE_B2 = [
       "ja": "指摘",
       "zh": "评论",
       "ru": "замечание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bemerkungen"
+    }
   },
   {
     "id": "de_1384",
+    "lang": "de",
     "lemma": "halskette",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "halsketten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8668,17 +8110,16 @@ const WORDS_DE_B2 = [
       "ja": "ネックレス",
       "zh": "项链",
       "ru": "ожерелье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "halsketten"
+    }
   },
   {
     "id": "de_1387",
+    "lang": "de",
     "lemma": "brei",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "breie",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8696,17 +8137,16 @@ const WORDS_DE_B2 = [
       "ja": "粥",
       "zh": "粥",
       "ru": "каша"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "breie"
+    }
   },
   {
     "id": "de_1391",
+    "lang": "de",
     "lemma": "expedition",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "expeditionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8723,17 +8163,16 @@ const WORDS_DE_B2 = [
       "ja": "遠征",
       "zh": "探险",
       "ru": "экспедиция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "expeditionen"
+    }
   },
   {
     "id": "de_1397",
+    "lang": "de",
     "lemma": "umfeld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "umfelder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8751,15 +8190,11 @@ const WORDS_DE_B2 = [
       "ja": "環境",
       "zh": "环境",
       "ru": "окружение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "umfelder"
+    }
   },
   {
     "id": "de_1399",
+    "lang": "de",
     "lemma": "vormachen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8779,17 +8214,16 @@ const WORDS_DE_B2 = [
       "ja": "見せる",
       "zh": "展示",
       "ru": "показывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vormachen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1402",
+    "lang": "de",
     "lemma": "seuche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "seuchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8806,15 +8240,11 @@ const WORDS_DE_B2 = [
       "ja": "疫病",
       "zh": "瘟疫",
       "ru": "чума"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "seuchen"
+    }
   },
   {
     "id": "de_1406",
+    "lang": "de",
     "lemma": "effektiv",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8833,12 +8263,11 @@ const WORDS_DE_B2 = [
       "ja": "効果的な",
       "zh": "有效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1408",
+    "lang": "de",
     "lemma": "auskommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -8858,17 +8287,15 @@ const WORDS_DE_B2 = [
       "ja": "足りる",
       "zh": "足够",
       "ru": "хватать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auskommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1409",
+    "lang": "de",
     "lemma": "auskommen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8886,17 +8313,16 @@ const WORDS_DE_B2 = [
       "ja": "生活費",
       "zh": "生活费",
       "ru": "пропитание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1411",
+    "lang": "de",
     "lemma": "nuss",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "nüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8914,17 +8340,16 @@ const WORDS_DE_B2 = [
       "ja": "ナッツ",
       "zh": "坚果",
       "ru": "орех"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "nüsse"
+    }
   },
   {
     "id": "de_1416",
+    "lang": "de",
     "lemma": "vereinigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vereinigungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8942,17 +8367,16 @@ const WORDS_DE_B2 = [
       "ja": "連合",
       "zh": "联合",
       "ru": "объединение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vereinigungen"
+    }
   },
   {
     "id": "de_1417",
+    "lang": "de",
     "lemma": "mittelpunkt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "mittelpunkte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -8969,15 +8393,11 @@ const WORDS_DE_B2 = [
       "ja": "中心",
       "zh": "中心",
       "ru": "центр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "mittelpunkte"
+    }
   },
   {
     "id": "de_1419",
+    "lang": "de",
     "lemma": "andeuten",
     "pos": "Verb",
     "cefr": "B2",
@@ -8996,17 +8416,16 @@ const WORDS_DE_B2 = [
       "ja": "ほのめかす",
       "zh": "暗示",
       "ru": "намекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "andeuten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1422",
+    "lang": "de",
     "lemma": "höflichkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "höflichkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9024,17 +8443,16 @@ const WORDS_DE_B2 = [
       "ja": "礼儀",
       "zh": "礼貌",
       "ru": "вежливость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "höflichkeiten"
+    }
   },
   {
     "id": "de_1423",
+    "lang": "de",
     "lemma": "aufzeichnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "aufzeichnungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9052,15 +8470,11 @@ const WORDS_DE_B2 = [
       "ja": "記録",
       "zh": "记录",
       "ru": "запись"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "aufzeichnungen"
+    }
   },
   {
     "id": "de_1424",
+    "lang": "de",
     "lemma": "aufsteigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -9080,15 +8494,11 @@ const WORDS_DE_B2 = [
       "ja": "上昇する",
       "zh": "上升",
       "ru": "подниматься"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufsteigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1425",
+    "lang": "de",
     "lemma": "gefällig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9108,12 +8518,11 @@ const WORDS_DE_B2 = [
       "ja": "親切な",
       "zh": "殷勤的",
       "ru": "услужливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1426",
+    "lang": "de",
     "lemma": "schlicht",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9133,12 +8542,11 @@ const WORDS_DE_B2 = [
       "ja": "素朴な",
       "zh": "朴素的",
       "ru": "простой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1427",
+    "lang": "de",
     "lemma": "ausgestattet",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9158,14 +8566,16 @@ const WORDS_DE_B2 = [
       "ja": "装備された",
       "zh": "配备的",
       "ru": "оборудованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1429",
+    "lang": "de",
     "lemma": "richterin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "richterinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9183,15 +8593,11 @@ const WORDS_DE_B2 = [
       "ja": "女性判事",
       "zh": "女法官",
       "ru": "судья"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "richterinnen"
+    }
   },
   {
     "id": "de_1432",
+    "lang": "de",
     "lemma": "schweben",
     "pos": "Verb",
     "cefr": "B2",
@@ -9211,17 +8617,16 @@ const WORDS_DE_B2 = [
       "ja": "浮かぶ",
       "zh": "漂浮",
       "ru": "парить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schweben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1438",
+    "lang": "de",
     "lemma": "eindringling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "eindringlinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9239,17 +8644,16 @@ const WORDS_DE_B2 = [
       "ja": "侵入者",
       "zh": "入侵者",
       "ru": "захватчик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "eindringlinge"
+    }
   },
   {
     "id": "de_1439",
+    "lang": "de",
     "lemma": "wahlkampf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "wahlkämpfe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9267,15 +8671,11 @@ const WORDS_DE_B2 = [
       "ja": "選挙運動",
       "zh": "竞选活动",
       "ru": "избирательная кампания"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "wahlkämpfe"
+    }
   },
   {
     "id": "de_1441",
+    "lang": "de",
     "lemma": "staunen",
     "pos": "Verb",
     "cefr": "B2",
@@ -9295,15 +8695,11 @@ const WORDS_DE_B2 = [
       "ja": "驚く",
       "zh": "惊叹",
       "ru": "удивляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "staunen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1443",
+    "lang": "de",
     "lemma": "lagern",
     "pos": "Verb",
     "cefr": "B2",
@@ -9323,15 +8719,11 @@ const WORDS_DE_B2 = [
       "ja": "保管する",
       "zh": "储存",
       "ru": "хранить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lagern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1447",
+    "lang": "de",
     "lemma": "gleichgültig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9351,14 +8743,16 @@ const WORDS_DE_B2 = [
       "ja": "無関心な",
       "zh": "冷漠的",
       "ru": "равнодушный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1448",
+    "lang": "de",
     "lemma": "gefangenschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gefangenschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9375,15 +8769,11 @@ const WORDS_DE_B2 = [
       "ja": "捕虜状態",
       "zh": "囚禁",
       "ru": "плен"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gefangenschaften"
+    }
   },
   {
     "id": "de_1450",
+    "lang": "de",
     "lemma": "westlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9403,12 +8793,11 @@ const WORDS_DE_B2 = [
       "ja": "西の",
       "zh": "西方的",
       "ru": "западный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1453",
+    "lang": "de",
     "lemma": "vorhanden",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9428,14 +8817,16 @@ const WORDS_DE_B2 = [
       "ja": "存在する",
       "zh": "存在的",
       "ru": "существующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1455",
+    "lang": "de",
     "lemma": "adoption",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "adoptionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9453,15 +8844,11 @@ const WORDS_DE_B2 = [
       "ja": "養子縁組",
       "zh": "收养",
       "ru": "усыновление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "adoptionen"
+    }
   },
   {
     "id": "de_1459",
+    "lang": "de",
     "lemma": "zart",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9481,14 +8868,16 @@ const WORDS_DE_B2 = [
       "ja": "柔らかい",
       "zh": "柔软的",
       "ru": "нежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1460",
+    "lang": "de",
     "lemma": "immunität",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "immunitäten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9506,15 +8895,11 @@ const WORDS_DE_B2 = [
       "ja": "免疫",
       "zh": "免疫",
       "ru": "иммунитет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "immunitäten"
+    }
   },
   {
     "id": "de_1462",
+    "lang": "de",
     "lemma": "borgen",
     "pos": "Verb",
     "cefr": "B2",
@@ -9534,15 +8919,11 @@ const WORDS_DE_B2 = [
       "ja": "借りる",
       "zh": "借",
       "ru": "брать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "borgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1464",
+    "lang": "de",
     "lemma": "zerreißen",
     "pos": "Verb",
     "cefr": "B2",
@@ -9562,17 +8943,16 @@ const WORDS_DE_B2 = [
       "ja": "裂く",
       "zh": "撕",
       "ru": "рвать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zerreißen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1469",
+    "lang": "de",
     "lemma": "phänomen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "phänomene",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9589,17 +8969,16 @@ const WORDS_DE_B2 = [
       "ja": "現象",
       "zh": "现象",
       "ru": "явление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "phänomene"
+    }
   },
   {
     "id": "de_1470",
+    "lang": "de",
     "lemma": "polizeirevier",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "polizeireviere",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9617,15 +8996,11 @@ const WORDS_DE_B2 = [
       "ja": "警察署",
       "zh": "警察局",
       "ru": "полицейский участок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "polizeireviere"
+    }
   },
   {
     "id": "de_1471",
+    "lang": "de",
     "lemma": "beklagen",
     "pos": "Verb",
     "cefr": "B2",
@@ -9644,17 +9019,16 @@ const WORDS_DE_B2 = [
       "ja": "不平を言う",
       "zh": "抱怨",
       "ru": "жаловаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beklagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1472",
+    "lang": "de",
     "lemma": "schurke",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schurken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9671,17 +9045,16 @@ const WORDS_DE_B2 = [
       "ja": "悪党",
       "zh": "恶棍",
       "ru": "негодяй"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schurken"
+    }
   },
   {
     "id": "de_1474",
+    "lang": "de",
     "lemma": "sonnenbrille",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sonnenbrillen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9699,17 +9072,15 @@ const WORDS_DE_B2 = [
       "ja": "サングラス",
       "zh": "太阳镜",
       "ru": "солнечные очки"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sonnenbrillen"
+    }
   },
   {
     "id": "de_1476",
+    "lang": "de",
     "lemma": "strenge",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9726,17 +9097,16 @@ const WORDS_DE_B2 = [
       "ja": "厳しさ",
       "zh": "严格",
       "ru": "строгость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_1477",
+    "lang": "de",
     "lemma": "phantom",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "phantome",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9753,17 +9123,16 @@ const WORDS_DE_B2 = [
       "ja": "幽霊",
       "zh": "幽灵",
       "ru": "привидение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "phantome"
+    }
   },
   {
     "id": "de_1483",
+    "lang": "de",
     "lemma": "kompass",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kompasse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9781,15 +9150,11 @@ const WORDS_DE_B2 = [
       "ja": "羅針盤",
       "zh": "指南针",
       "ru": "компас"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kompasse"
+    }
   },
   {
     "id": "de_1487",
+    "lang": "de",
     "lemma": "reiben",
     "pos": "Verb",
     "cefr": "B2",
@@ -9809,17 +9174,16 @@ const WORDS_DE_B2 = [
       "ja": "こする",
       "zh": "摩擦",
       "ru": "тереть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reiben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1491",
+    "lang": "de",
     "lemma": "kappe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kappen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9837,17 +9201,16 @@ const WORDS_DE_B2 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "кепка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kappen"
+    }
   },
   {
     "id": "de_1494",
+    "lang": "de",
     "lemma": "hebel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "hebel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9865,17 +9228,16 @@ const WORDS_DE_B2 = [
       "ja": "てこ",
       "zh": "杠杆",
       "ru": "рычаг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "hebel"
+    }
   },
   {
     "id": "de_1497",
+    "lang": "de",
     "lemma": "triumph",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "triumphe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9893,17 +9255,15 @@ const WORDS_DE_B2 = [
       "ja": "勝利",
       "zh": "胜利",
       "ru": "триумф"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "triumphe"
+    }
   },
   {
     "id": "de_1500",
+    "lang": "de",
     "lemma": "neid",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9921,15 +9281,11 @@ const WORDS_DE_B2 = [
       "ja": "嫉妬",
       "zh": "嫉妒",
       "ru": "зависть"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_1506",
+    "lang": "de",
     "lemma": "erweitern",
     "pos": "Verb",
     "cefr": "B2",
@@ -9949,17 +9305,16 @@ const WORDS_DE_B2 = [
       "ja": "拡大する",
       "zh": "扩大",
       "ru": "расширять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erweitern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1509",
+    "lang": "de",
     "lemma": "waffenstillstand",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "waffenstillstände",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -9976,17 +9331,15 @@ const WORDS_DE_B2 = [
       "ja": "休戦",
       "zh": "停火",
       "ru": "перемирие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "waffenstillstände"
+    }
   },
   {
     "id": "de_1512",
+    "lang": "de",
     "lemma": "lebensunterhalt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10004,17 +9357,16 @@ const WORDS_DE_B2 = [
       "ja": "生計",
       "zh": "生计",
       "ru": "пропитание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_1514",
+    "lang": "de",
     "lemma": "nummernschild",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "nummernschilder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10032,15 +9384,11 @@ const WORDS_DE_B2 = [
       "ja": "ナンバープレート",
       "zh": "车牌",
       "ru": "номерной знак"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "nummernschilder"
+    }
   },
   {
     "id": "de_1516",
+    "lang": "de",
     "lemma": "leidenschaftlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10059,14 +9407,16 @@ const WORDS_DE_B2 = [
       "ja": "情熱的な",
       "zh": "热情的",
       "ru": "страстный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1519",
+    "lang": "de",
     "lemma": "backe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "backen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10084,15 +9434,11 @@ const WORDS_DE_B2 = [
       "ja": "頬",
       "zh": "脸颊",
       "ru": "щека"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "backen"
+    }
   },
   {
     "id": "de_1522",
+    "lang": "de",
     "lemma": "fix",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10112,14 +9458,16 @@ const WORDS_DE_B2 = [
       "ja": "固定した",
       "zh": "固定的",
       "ru": "фиксированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1524",
+    "lang": "de",
     "lemma": "schwur",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwüre",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10136,17 +9484,16 @@ const WORDS_DE_B2 = [
       "ja": "誓い",
       "zh": "誓言",
       "ru": "клятва"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwüre"
+    }
   },
   {
     "id": "de_1527",
+    "lang": "de",
     "lemma": "anrufer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "anrufer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10164,17 +9511,16 @@ const WORDS_DE_B2 = [
       "ja": "電話をかける人",
       "zh": "来电者",
       "ru": "звонящий"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "anrufer"
+    }
   },
   {
     "id": "de_1528",
+    "lang": "de",
     "lemma": "rutsch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "rutsche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10191,15 +9537,11 @@ const WORDS_DE_B2 = [
       "ja": "滑り",
       "zh": "滑动",
       "ru": "скольжение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "rutsche"
+    }
   },
   {
     "id": "de_1530",
+    "lang": "de",
     "lemma": "bankrott",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10219,14 +9561,16 @@ const WORDS_DE_B2 = [
       "ja": "破産した",
       "zh": "破产的",
       "ru": "банкротный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1534",
+    "lang": "de",
     "lemma": "atemzug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "atemzüge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10244,17 +9588,16 @@ const WORDS_DE_B2 = [
       "ja": "呼吸",
       "zh": "呼吸",
       "ru": "дыхание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "atemzüge"
+    }
   },
   {
     "id": "de_1536",
+    "lang": "de",
     "lemma": "kopfgeld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kopfgelder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10271,17 +9614,16 @@ const WORDS_DE_B2 = [
       "ja": "懸賞金",
       "zh": "赏金",
       "ru": "награда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kopfgelder"
+    }
   },
   {
     "id": "de_1538",
+    "lang": "de",
     "lemma": "papagei",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "papageien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10299,17 +9641,16 @@ const WORDS_DE_B2 = [
       "ja": "オウム",
       "zh": "鹦鹉",
       "ru": "попугай"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "papageien"
+    }
   },
   {
     "id": "de_1542",
+    "lang": "de",
     "lemma": "ketchup",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ketchups",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10327,17 +9668,16 @@ const WORDS_DE_B2 = [
       "ja": "ケチャップ",
       "zh": "番茄酱",
       "ru": "кетчуп"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ketchups"
+    }
   },
   {
     "id": "de_1546",
+    "lang": "de",
     "lemma": "latte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "latten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10354,17 +9694,16 @@ const WORDS_DE_B2 = [
       "ja": "板",
       "zh": "木板",
       "ru": "доска"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "latten"
+    }
   },
   {
     "id": "de_1548",
+    "lang": "de",
     "lemma": "spitzname",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "spitznamen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10382,17 +9721,16 @@ const WORDS_DE_B2 = [
       "ja": "あだ名",
       "zh": "昵称",
       "ru": "прозвище"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "spitznamen"
+    }
   },
   {
     "id": "de_1552",
+    "lang": "de",
     "lemma": "angeber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "angeber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10410,15 +9748,11 @@ const WORDS_DE_B2 = [
       "ja": "自慢屋",
       "zh": "吹牛者",
       "ru": "хвастун"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "angeber"
+    }
   },
   {
     "id": "de_1554",
+    "lang": "de",
     "lemma": "einfangen",
     "pos": "Verb",
     "cefr": "B2",
@@ -10438,15 +9772,11 @@ const WORDS_DE_B2 = [
       "ja": "捕まえる",
       "zh": "捕捉",
       "ru": "поймать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einfangen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1556",
+    "lang": "de",
     "lemma": "grundlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10465,12 +9795,11 @@ const WORDS_DE_B2 = [
       "ja": "根拠のない",
       "zh": "毫无根据的",
       "ru": "беспочвенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1558",
+    "lang": "de",
     "lemma": "engen",
     "pos": "Verb",
     "cefr": "B2",
@@ -10489,17 +9818,16 @@ const WORDS_DE_B2 = [
       "ja": "狭くする",
       "zh": "使变窄",
       "ru": "сужать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "engen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1561",
+    "lang": "de",
     "lemma": "handwerk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "handwerke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10517,15 +9845,11 @@ const WORDS_DE_B2 = [
       "ja": "手工芸",
       "zh": "手工艺",
       "ru": "ремесло"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "handwerke"
+    }
   },
   {
     "id": "de_1562",
+    "lang": "de",
     "lemma": "lose",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10545,14 +9869,16 @@ const WORDS_DE_B2 = [
       "ja": "ゆるい",
       "zh": "松散的",
       "ru": "свободный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1566",
+    "lang": "de",
     "lemma": "truhe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "truhen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10570,17 +9896,16 @@ const WORDS_DE_B2 = [
       "ja": "箱",
       "zh": "箱子",
       "ru": "сундук"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "truhen"
+    }
   },
   {
     "id": "de_1569",
+    "lang": "de",
     "lemma": "scheinwerfer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "scheinwerfer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10598,15 +9923,11 @@ const WORDS_DE_B2 = [
       "ja": "ヘッドライト",
       "zh": "车灯",
       "ru": "фара"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "scheinwerfer"
+    }
   },
   {
     "id": "de_1572",
+    "lang": "de",
     "lemma": "tippen",
     "pos": "Verb",
     "cefr": "B2",
@@ -10626,17 +9947,16 @@ const WORDS_DE_B2 = [
       "ja": "叩く",
       "zh": "敲击",
       "ru": "постукивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tippen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1573",
+    "lang": "de",
     "lemma": "buchhaltung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "buchhaltungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10654,15 +9974,11 @@ const WORDS_DE_B2 = [
       "ja": "会計",
       "zh": "会计",
       "ru": "бухгалтерия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "buchhaltungen"
+    }
   },
   {
     "id": "de_1574",
+    "lang": "de",
     "lemma": "fügen",
     "pos": "Verb",
     "cefr": "B2",
@@ -10682,17 +9998,16 @@ const WORDS_DE_B2 = [
       "ja": "結合する",
       "zh": "结合",
       "ru": "соединять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fügen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1579",
+    "lang": "de",
     "lemma": "perle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "perlen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10710,17 +10025,16 @@ const WORDS_DE_B2 = [
       "ja": "真珠",
       "zh": "珍珠",
       "ru": "жемчуг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "perlen"
+    }
   },
   {
     "id": "de_1584",
+    "lang": "de",
     "lemma": "falke",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "falken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10738,17 +10052,16 @@ const WORDS_DE_B2 = [
       "ja": "鷹",
       "zh": "鹰",
       "ru": "сокол"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "falken"
+    }
   },
   {
     "id": "de_1588",
+    "lang": "de",
     "lemma": "gattin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gattinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10766,15 +10079,11 @@ const WORDS_DE_B2 = [
       "ja": "妻",
       "zh": "妻子",
       "ru": "супруга"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gattinnen"
+    }
   },
   {
     "id": "de_1589",
+    "lang": "de",
     "lemma": "östlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10794,14 +10103,16 @@ const WORDS_DE_B2 = [
       "ja": "東の",
       "zh": "东方的",
       "ru": "восточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1592",
+    "lang": "de",
     "lemma": "labyrinth",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "labyrinthe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10818,15 +10129,11 @@ const WORDS_DE_B2 = [
       "ja": "迷路",
       "zh": "迷宫",
       "ru": "лабиринт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "labyrinthe"
+    }
   },
   {
     "id": "de_1593",
+    "lang": "de",
     "lemma": "töricht",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10845,12 +10152,11 @@ const WORDS_DE_B2 = [
       "ja": "愚かな",
       "zh": "愚蠢的",
       "ru": "глупый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1594",
+    "lang": "de",
     "lemma": "ausrauben",
     "pos": "Verb",
     "cefr": "B2",
@@ -10869,15 +10175,11 @@ const WORDS_DE_B2 = [
       "ja": "略奪する",
       "zh": "掠夺",
       "ru": "грабить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausrauben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1595",
+    "lang": "de",
     "lemma": "lautlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10896,14 +10198,16 @@ const WORDS_DE_B2 = [
       "ja": "無音の",
       "zh": "无声的",
       "ru": "бесшумный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1596",
+    "lang": "de",
     "lemma": "zitat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "zitate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10921,17 +10225,16 @@ const WORDS_DE_B2 = [
       "ja": "引用文",
       "zh": "引用",
       "ru": "цитата"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "zitate"
+    }
   },
   {
     "id": "de_1602",
+    "lang": "de",
     "lemma": "heuchler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "heuchler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -10949,15 +10252,11 @@ const WORDS_DE_B2 = [
       "ja": "偽善者",
       "zh": "伪君子",
       "ru": "лицемер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "heuchler"
+    }
   },
   {
     "id": "de_1603",
+    "lang": "de",
     "lemma": "immun",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10977,14 +10276,16 @@ const WORDS_DE_B2 = [
       "ja": "免疫の",
       "zh": "免疫的",
       "ru": "иммунный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1604",
+    "lang": "de",
     "lemma": "temperament",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "temperamente",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11002,17 +10303,16 @@ const WORDS_DE_B2 = [
       "ja": "気質",
       "zh": "气质",
       "ru": "темперамент"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "temperamente"
+    }
   },
   {
     "id": "de_1605",
+    "lang": "de",
     "lemma": "boulevard",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "boulevards",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11030,17 +10330,16 @@ const WORDS_DE_B2 = [
       "ja": "大通り",
       "zh": "林荫大道",
       "ru": "бульвар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "boulevards"
+    }
   },
   {
     "id": "de_1606",
+    "lang": "de",
     "lemma": "umhang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "umhänge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11058,17 +10357,16 @@ const WORDS_DE_B2 = [
       "ja": "マント",
       "zh": "斗篷",
       "ru": "плащ"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "umhänge"
+    }
   },
   {
     "id": "de_1607",
+    "lang": "de",
     "lemma": "alarmanlage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "alarmanlagen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11086,15 +10384,11 @@ const WORDS_DE_B2 = [
       "ja": "警報装置",
       "zh": "警报装置",
       "ru": "сигнализация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "alarmanlagen"
+    }
   },
   {
     "id": "de_1609",
+    "lang": "de",
     "lemma": "wegrennen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11114,17 +10408,16 @@ const WORDS_DE_B2 = [
       "ja": "逃げ出す",
       "zh": "跑开",
       "ru": "убегать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegrennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1610",
+    "lang": "de",
     "lemma": "filmstar",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "filmstars",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11142,17 +10435,16 @@ const WORDS_DE_B2 = [
       "ja": "映画スター",
       "zh": "电影明星",
       "ru": "кинозвезда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "filmstars"
+    }
   },
   {
     "id": "de_1614",
+    "lang": "de",
     "lemma": "klippe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "klippen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11170,17 +10462,16 @@ const WORDS_DE_B2 = [
       "ja": "崖",
       "zh": "悬崖",
       "ru": "скала"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "klippen"
+    }
   },
   {
     "id": "de_1615",
+    "lang": "de",
     "lemma": "verurteilung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verurteilungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11197,17 +10488,16 @@ const WORDS_DE_B2 = [
       "ja": "有罪判決",
       "zh": "定罪",
       "ru": "приговор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verurteilungen"
+    }
   },
   {
     "id": "de_1616",
+    "lang": "de",
     "lemma": "umweg",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "umwege",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11225,17 +10515,15 @@ const WORDS_DE_B2 = [
       "ja": "迂回路",
       "zh": "绕路",
       "ru": "обход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "umwege"
+    }
   },
   {
     "id": "de_1618",
+    "lang": "de",
     "lemma": "urteilsvermögen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11252,17 +10540,16 @@ const WORDS_DE_B2 = [
       "ja": "判断力",
       "zh": "判断力",
       "ru": "суждение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1621",
+    "lang": "de",
     "lemma": "zwecke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "zwecken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11280,15 +10567,11 @@ const WORDS_DE_B2 = [
       "ja": "画鋲",
       "zh": "图钉",
       "ru": "кнопка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zwecken"
+    }
   },
   {
     "id": "de_1623",
+    "lang": "de",
     "lemma": "simpel",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11308,14 +10591,16 @@ const WORDS_DE_B2 = [
       "ja": "単純な",
       "zh": "简单的",
       "ru": "простой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1625",
+    "lang": "de",
     "lemma": "impfstoff",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "impfstoffe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11333,17 +10618,16 @@ const WORDS_DE_B2 = [
       "ja": "ワクチン",
       "zh": "疫苗",
       "ru": "вакцина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "impfstoffe"
+    }
   },
   {
     "id": "de_1626",
+    "lang": "de",
     "lemma": "bestechung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bestechungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11360,17 +10644,16 @@ const WORDS_DE_B2 = [
       "ja": "賄賂",
       "zh": "贿赂",
       "ru": "взятка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bestechungen"
+    }
   },
   {
     "id": "de_1628",
+    "lang": "de",
     "lemma": "verlauf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verläufe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11388,17 +10671,16 @@ const WORDS_DE_B2 = [
       "ja": "経過",
       "zh": "过程",
       "ru": "ход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verläufe"
+    }
   },
   {
     "id": "de_1631",
+    "lang": "de",
     "lemma": "journalistin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "journalistinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11416,17 +10698,16 @@ const WORDS_DE_B2 = [
       "ja": "女性記者",
       "zh": "女记者",
       "ru": "журналистка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "journalistinnen"
+    }
   },
   {
     "id": "de_1632",
+    "lang": "de",
     "lemma": "kasino",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kasinos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11444,15 +10725,11 @@ const WORDS_DE_B2 = [
       "ja": "カジノ",
       "zh": "赌场",
       "ru": "казино"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kasinos"
+    }
   },
   {
     "id": "de_1636",
+    "lang": "de",
     "lemma": "listen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11472,15 +10749,11 @@ const WORDS_DE_B2 = [
       "ja": "列挙する",
       "zh": "列举",
       "ru": "перечислять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "listen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1637",
+    "lang": "de",
     "lemma": "äußern",
     "pos": "Verb",
     "cefr": "B2",
@@ -11500,17 +10773,15 @@ const WORDS_DE_B2 = [
       "ja": "表現する",
       "zh": "表达",
       "ru": "выражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "äußern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1639",
+    "lang": "de",
     "lemma": "adrenalin",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11527,17 +10798,16 @@ const WORDS_DE_B2 = [
       "ja": "アドレナリン",
       "zh": "肾上腺素",
       "ru": "адреналин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1641",
+    "lang": "de",
     "lemma": "missbrauch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "missbräuche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11555,17 +10825,16 @@ const WORDS_DE_B2 = [
       "ja": "乱用",
       "zh": "滥用",
       "ru": "злоупотребление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "missbräuche"
+    }
   },
   {
     "id": "de_1642",
+    "lang": "de",
     "lemma": "seminar",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "seminare",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11583,15 +10852,11 @@ const WORDS_DE_B2 = [
       "ja": "セミナー",
       "zh": "研讨会",
       "ru": "семинар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "seminare"
+    }
   },
   {
     "id": "de_1643",
+    "lang": "de",
     "lemma": "biegen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11611,17 +10876,16 @@ const WORDS_DE_B2 = [
       "ja": "曲げる",
       "zh": "弯曲",
       "ru": "гнуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "biegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1644",
+    "lang": "de",
     "lemma": "demonstration",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "demonstrationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11639,17 +10903,16 @@ const WORDS_DE_B2 = [
       "ja": "デモンストレーション",
       "zh": "示威",
       "ru": "демонстрация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "demonstrationen"
+    }
   },
   {
     "id": "de_1647",
+    "lang": "de",
     "lemma": "konversation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "konversationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11668,15 +10931,11 @@ const WORDS_DE_B2 = [
       "ja": "会話",
       "zh": "对话",
       "ru": "разговор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "konversationen"
+    }
   },
   {
     "id": "de_1649",
+    "lang": "de",
     "lemma": "zurückverfolgen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11695,15 +10954,11 @@ const WORDS_DE_B2 = [
       "ja": "追跡する",
       "zh": "追踪",
       "ru": "отследить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zurückverfolgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1651",
+    "lang": "de",
     "lemma": "ausbrechen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11723,17 +10978,16 @@ const WORDS_DE_B2 = [
       "ja": "逃げ出す",
       "zh": "逃脱",
       "ru": "бежать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausbrechen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1652",
+    "lang": "de",
     "lemma": "traurigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "traurigkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11751,15 +11005,11 @@ const WORDS_DE_B2 = [
       "ja": "悲しみ",
       "zh": "悲伤",
       "ru": "грусть"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "traurigkeiten"
+    }
   },
   {
     "id": "de_1660",
+    "lang": "de",
     "lemma": "kauen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11779,15 +11029,11 @@ const WORDS_DE_B2 = [
       "ja": "噛む",
       "zh": "咀嚼",
       "ru": "жевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kauen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1661",
+    "lang": "de",
     "lemma": "erwachen",
     "pos": "Verb",
     "cefr": "B2",
@@ -11807,17 +11053,16 @@ const WORDS_DE_B2 = [
       "ja": "目覚める",
       "zh": "醒来",
       "ru": "пробуждаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erwachen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1665",
+    "lang": "de",
     "lemma": "angewohnheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "angewohnheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11835,17 +11080,15 @@ const WORDS_DE_B2 = [
       "ja": "習慣",
       "zh": "习惯",
       "ru": "привычка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "angewohnheiten"
+    }
   },
   {
     "id": "de_1666",
+    "lang": "de",
     "lemma": "sonnenlicht",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11863,17 +11106,16 @@ const WORDS_DE_B2 = [
       "ja": "日光",
       "zh": "阳光",
       "ru": "солнечный свет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1667",
+    "lang": "de",
     "lemma": "darlehen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "darlehen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11890,17 +11132,16 @@ const WORDS_DE_B2 = [
       "ja": "ローン",
       "zh": "贷款",
       "ru": "заём"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "darlehen"
+    }
   },
   {
     "id": "de_1668",
+    "lang": "de",
     "lemma": "standard",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "standards",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11917,17 +11158,16 @@ const WORDS_DE_B2 = [
       "ja": "基準",
       "zh": "标准",
       "ru": "стандарт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "standards"
+    }
   },
   {
     "id": "de_1670",
+    "lang": "de",
     "lemma": "vormittag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "vormittage",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11945,17 +11185,16 @@ const WORDS_DE_B2 = [
       "ja": "午前",
       "zh": "上午",
       "ru": "утро"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vormittage"
+    }
   },
   {
     "id": "de_1677",
+    "lang": "de",
     "lemma": "biene",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bienen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11973,15 +11212,11 @@ const WORDS_DE_B2 = [
       "ja": "蜂",
       "zh": "蜜蜂",
       "ru": "пчела"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bienen"
+    }
   },
   {
     "id": "de_1681",
+    "lang": "de",
     "lemma": "beheben",
     "pos": "Verb",
     "cefr": "B2",
@@ -12001,17 +11236,16 @@ const WORDS_DE_B2 = [
       "ja": "解決する",
       "zh": "解决",
       "ru": "устранять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beheben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1682",
+    "lang": "de",
     "lemma": "beschluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "beschlüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12029,17 +11263,16 @@ const WORDS_DE_B2 = [
       "ja": "決定",
       "zh": "决定",
       "ru": "решение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "beschlüsse"
+    }
   },
   {
     "id": "de_1683",
+    "lang": "de",
     "lemma": "ast",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "äste",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12057,15 +11290,11 @@ const WORDS_DE_B2 = [
       "ja": "枝",
       "zh": "树枝",
       "ru": "ветка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "äste"
+    }
   },
   {
     "id": "de_1684",
+    "lang": "de",
     "lemma": "hereinkommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -12085,17 +11314,16 @@ const WORDS_DE_B2 = [
       "ja": "入ってくる",
       "zh": "进来",
       "ru": "входить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hereinkommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1689",
+    "lang": "de",
     "lemma": "unruhe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "unruhen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12113,17 +11341,16 @@ const WORDS_DE_B2 = [
       "ja": "不安",
       "zh": "不安",
       "ru": "беспокойство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "unruhen"
+    }
   },
   {
     "id": "de_1696",
+    "lang": "de",
     "lemma": "ausmaß",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ausmaße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12141,17 +11368,16 @@ const WORDS_DE_B2 = [
       "ja": "規模",
       "zh": "规模",
       "ru": "масштаб"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ausmaße"
+    }
   },
   {
     "id": "de_1698",
+    "lang": "de",
     "lemma": "manuskript",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "manuskripte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12169,17 +11395,16 @@ const WORDS_DE_B2 = [
       "ja": "原稿",
       "zh": "手稿",
       "ru": "рукопись"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "manuskripte"
+    }
   },
   {
     "id": "de_1700",
+    "lang": "de",
     "lemma": "blutgruppe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "blutgruppen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12197,15 +11422,11 @@ const WORDS_DE_B2 = [
       "ja": "血液型",
       "zh": "血型",
       "ru": "группа крови"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "blutgruppen"
+    }
   },
   {
     "id": "de_1703",
+    "lang": "de",
     "lemma": "ausdrücklich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12225,12 +11446,11 @@ const WORDS_DE_B2 = [
       "ja": "明確な",
       "zh": "明确的",
       "ru": "явный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1705",
+    "lang": "de",
     "lemma": "ungeschickt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12250,12 +11470,11 @@ const WORDS_DE_B2 = [
       "ja": "不器用な",
       "zh": "笨拙的",
       "ru": "неловкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1708",
+    "lang": "de",
     "lemma": "ausweichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -12275,17 +11494,16 @@ const WORDS_DE_B2 = [
       "ja": "避ける",
       "zh": "躲避",
       "ru": "избегать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausweichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1710",
+    "lang": "de",
     "lemma": "gewissheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gewissheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12303,17 +11521,16 @@ const WORDS_DE_B2 = [
       "ja": "確実性",
       "zh": "确定性",
       "ru": "уверенность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gewissheiten"
+    }
   },
   {
     "id": "de_1711",
+    "lang": "de",
     "lemma": "klarheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "klarheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12331,15 +11548,11 @@ const WORDS_DE_B2 = [
       "ja": "明確さ",
       "zh": "清晰",
       "ru": "ясность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "klarheiten"
+    }
   },
   {
     "id": "de_1716",
+    "lang": "de",
     "lemma": "zuversichtlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12359,12 +11572,11 @@ const WORDS_DE_B2 = [
       "ja": "楽観的な",
       "zh": "乐观的",
       "ru": "уверенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1717",
+    "lang": "de",
     "lemma": "pumpen",
     "pos": "Verb",
     "cefr": "B2",
@@ -12384,15 +11596,11 @@ const WORDS_DE_B2 = [
       "ja": "ポンプする",
       "zh": "泵送",
       "ru": "качать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pumpen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1722",
+    "lang": "de",
     "lemma": "zäh",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12412,14 +11620,16 @@ const WORDS_DE_B2 = [
       "ja": "粘り強い",
       "zh": "韧性的",
       "ru": "вязкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1725",
+    "lang": "de",
     "lemma": "fußboden",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "fußböden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12437,15 +11647,11 @@ const WORDS_DE_B2 = [
       "ja": "床",
       "zh": "地板",
       "ru": "пол"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "fußböden"
+    }
   },
   {
     "id": "de_1727",
+    "lang": "de",
     "lemma": "ernten",
     "pos": "Verb",
     "cefr": "B2",
@@ -12465,17 +11671,16 @@ const WORDS_DE_B2 = [
       "ja": "収穫する",
       "zh": "收获",
       "ru": "собирать урожай"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ernten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1736",
+    "lang": "de",
     "lemma": "metapher",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "metaphern",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12492,15 +11697,11 @@ const WORDS_DE_B2 = [
       "ja": "隠喩",
       "zh": "隐喻",
       "ru": "метафора"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "metaphern"
+    }
   },
   {
     "id": "de_1738",
+    "lang": "de",
     "lemma": "starr",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12520,14 +11721,16 @@ const WORDS_DE_B2 = [
       "ja": "硬い",
       "zh": "僵硬的",
       "ru": "жесткий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1744",
+    "lang": "de",
     "lemma": "putzfrau",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "putzfrauen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12545,17 +11748,15 @@ const WORDS_DE_B2 = [
       "ja": "清掃婦",
       "zh": "清洁工",
       "ru": "уборщица"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "putzfrauen"
+    }
   },
   {
     "id": "de_1745",
+    "lang": "de",
     "lemma": "wohlstand",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12572,15 +11773,11 @@ const WORDS_DE_B2 = [
       "ja": "繁栄",
       "zh": "繁荣",
       "ru": "процветание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_1746",
+    "lang": "de",
     "lemma": "spitzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -12599,15 +11796,11 @@ const WORDS_DE_B2 = [
       "ja": "先端を立てる",
       "zh": "削尖",
       "ru": "заострять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spitzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1750",
+    "lang": "de",
     "lemma": "erfreuen",
     "pos": "Verb",
     "cefr": "B2",
@@ -12627,15 +11820,11 @@ const WORDS_DE_B2 = [
       "ja": "楽しむ",
       "zh": "享受",
       "ru": "наслаждаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erfreuen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1753",
+    "lang": "de",
     "lemma": "unterdrücken",
     "pos": "Verb",
     "cefr": "B2",
@@ -12654,17 +11843,16 @@ const WORDS_DE_B2 = [
       "ja": "抑圧する",
       "zh": "压制",
       "ru": "подавлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "unterdrücken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1754",
+    "lang": "de",
     "lemma": "straftat",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "straftaten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12681,17 +11869,16 @@ const WORDS_DE_B2 = [
       "ja": "犯罪行為",
       "zh": "犯罪",
       "ru": "преступление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "straftaten"
+    }
   },
   {
     "id": "de_1757",
+    "lang": "de",
     "lemma": "unterbrechung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "unterbrechungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12709,17 +11896,16 @@ const WORDS_DE_B2 = [
       "ja": "中断",
       "zh": "中断",
       "ru": "прерывание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "unterbrechungen"
+    }
   },
   {
     "id": "de_1759",
+    "lang": "de",
     "lemma": "gebrauch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gebräuche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12736,15 +11922,11 @@ const WORDS_DE_B2 = [
       "ja": "慣習",
       "zh": "习俗",
       "ru": "обычай"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gebräuche"
+    }
   },
   {
     "id": "de_1764",
+    "lang": "de",
     "lemma": "zusammenleben",
     "pos": "Verb",
     "cefr": "B2",
@@ -12764,15 +11946,11 @@ const WORDS_DE_B2 = [
       "ja": "一緒に暮らす",
       "zh": "同居",
       "ru": "сожительствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zusammenleben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1766",
+    "lang": "de",
     "lemma": "bevorzugt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12791,14 +11969,16 @@ const WORDS_DE_B2 = [
       "ja": "好まれた",
       "zh": "偏好的",
       "ru": "предпочитаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1768",
+    "lang": "de",
     "lemma": "krug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "krüge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12815,15 +11995,11 @@ const WORDS_DE_B2 = [
       "ja": "水差し",
       "zh": "水罐",
       "ru": "кувшин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "krüge"
+    }
   },
   {
     "id": "de_1770",
+    "lang": "de",
     "lemma": "spurlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12843,14 +12019,16 @@ const WORDS_DE_B2 = [
       "ja": "痕跡のない",
       "zh": "无迹可寻的",
       "ru": "бесследный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1771",
+    "lang": "de",
     "lemma": "reserve",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "reserven",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12868,17 +12046,16 @@ const WORDS_DE_B2 = [
       "ja": "備蓄",
       "zh": "储备",
       "ru": "резерв"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "reserven"
+    }
   },
   {
     "id": "de_1775",
+    "lang": "de",
     "lemma": "mentor",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "mentoren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12896,17 +12073,16 @@ const WORDS_DE_B2 = [
       "ja": "メンター",
       "zh": "导师",
       "ru": "наставник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "mentoren"
+    }
   },
   {
     "id": "de_1776",
+    "lang": "de",
     "lemma": "blues",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "blues",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -12923,15 +12099,11 @@ const WORDS_DE_B2 = [
       "ja": "ブルース",
       "zh": "布鲁斯",
       "ru": "блюз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "blues"
+    }
   },
   {
     "id": "de_1779",
+    "lang": "de",
     "lemma": "unzufrieden",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12951,12 +12123,11 @@ const WORDS_DE_B2 = [
       "ja": "不満足な",
       "zh": "不满意的",
       "ru": "недовольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1780",
+    "lang": "de",
     "lemma": "beschämt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12976,12 +12147,11 @@ const WORDS_DE_B2 = [
       "ja": "恥ずかしい",
       "zh": "羞愧的",
       "ru": "стыдящийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1781",
+    "lang": "de",
     "lemma": "lästig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13001,14 +12171,16 @@ const WORDS_DE_B2 = [
       "ja": "うるさい",
       "zh": "烦人的",
       "ru": "надоедливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1784",
+    "lang": "de",
     "lemma": "definition",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "definitionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13025,17 +12197,16 @@ const WORDS_DE_B2 = [
       "ja": "定義",
       "zh": "定义",
       "ru": "определение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "definitionen"
+    }
   },
   {
     "id": "de_1787",
+    "lang": "de",
     "lemma": "sekte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sekten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13052,15 +12223,11 @@ const WORDS_DE_B2 = [
       "ja": "宗派",
       "zh": "教派",
       "ru": "секта"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sekten"
+    }
   },
   {
     "id": "de_1790",
+    "lang": "de",
     "lemma": "beschlagnahmt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13079,14 +12246,16 @@ const WORDS_DE_B2 = [
       "ja": "押収された",
       "zh": "被没收的",
       "ru": "конфискованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1792",
+    "lang": "de",
     "lemma": "bug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "büge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13104,17 +12273,15 @@ const WORDS_DE_B2 = [
       "ja": "船首",
       "zh": "船首",
       "ru": "нос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "büge"
+    }
   },
   {
     "id": "de_1795",
+    "lang": "de",
     "lemma": "tapferkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13132,17 +12299,16 @@ const WORDS_DE_B2 = [
       "ja": "勇敢さ",
       "zh": "勇敢",
       "ru": "храбрость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_1801",
+    "lang": "de",
     "lemma": "klientin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "klientinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13160,15 +12326,11 @@ const WORDS_DE_B2 = [
       "ja": "依頼人",
       "zh": "委托人",
       "ru": "клиентка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "klientinnen"
+    }
   },
   {
     "id": "de_1803",
+    "lang": "de",
     "lemma": "verwöhnt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13187,14 +12349,16 @@ const WORDS_DE_B2 = [
       "ja": "甘やかされた",
       "zh": "被宠坏的",
       "ru": "избалованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1804",
+    "lang": "de",
     "lemma": "bekanntschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bekanntschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13212,17 +12376,16 @@ const WORDS_DE_B2 = [
       "ja": "知人",
       "zh": "熟人",
       "ru": "знакомство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bekanntschaften"
+    }
   },
   {
     "id": "de_1806",
+    "lang": "de",
     "lemma": "träger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "träger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13239,15 +12402,11 @@ const WORDS_DE_B2 = [
       "ja": "運搬者",
       "zh": "运输者",
       "ru": "носитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "träger"
+    }
   },
   {
     "id": "de_1808",
+    "lang": "de",
     "lemma": "finanziell",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13266,12 +12425,11 @@ const WORDS_DE_B2 = [
       "ja": "財政的な",
       "zh": "财务的",
       "ru": "финансовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1809",
+    "lang": "de",
     "lemma": "weitergeben",
     "pos": "Verb",
     "cefr": "B2",
@@ -13290,17 +12448,16 @@ const WORDS_DE_B2 = [
       "ja": "渡す",
       "zh": "传递",
       "ru": "передавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weitergeben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1810",
+    "lang": "de",
     "lemma": "schnecke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schnecken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13318,17 +12475,16 @@ const WORDS_DE_B2 = [
       "ja": "カタツムリ",
       "zh": "蜗牛",
       "ru": "улитка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schnecken"
+    }
   },
   {
     "id": "de_1815",
+    "lang": "de",
     "lemma": "haarschnitt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "haarschnitte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13345,17 +12501,16 @@ const WORDS_DE_B2 = [
       "ja": "ヘアカット",
       "zh": "发型",
       "ru": "стрижка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "haarschnitte"
+    }
   },
   {
     "id": "de_1817",
+    "lang": "de",
     "lemma": "pariser",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pariser",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13372,15 +12527,11 @@ const WORDS_DE_B2 = [
       "ja": "パリジャン",
       "zh": "巴黎人",
       "ru": "парижанин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pariser"
+    }
   },
   {
     "id": "de_1819",
+    "lang": "de",
     "lemma": "einmalig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13399,12 +12550,11 @@ const WORDS_DE_B2 = [
       "ja": "唯一の",
       "zh": "独一无二的",
       "ru": "уникальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1820",
+    "lang": "de",
     "lemma": "depressiv",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13424,14 +12574,16 @@ const WORDS_DE_B2 = [
       "ja": "抑うつ的な",
       "zh": "抑郁的",
       "ru": "депрессивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1823",
+    "lang": "de",
     "lemma": "notizbuch",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "notizbücher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13449,17 +12601,16 @@ const WORDS_DE_B2 = [
       "ja": "ノート",
       "zh": "笔记本",
       "ru": "записная книжка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "notizbücher"
+    }
   },
   {
     "id": "de_1824",
+    "lang": "de",
     "lemma": "wechselgeld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "wechselgelder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13477,15 +12628,11 @@ const WORDS_DE_B2 = [
       "ja": "釣り銭",
       "zh": "找零",
       "ru": "сдача"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "wechselgelder"
+    }
   },
   {
     "id": "de_1829",
+    "lang": "de",
     "lemma": "entziehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -13504,17 +12651,16 @@ const WORDS_DE_B2 = [
       "ja": "奪う",
       "zh": "剥夺",
       "ru": "лишать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entziehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1830",
+    "lang": "de",
     "lemma": "hupe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hupen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13532,17 +12678,16 @@ const WORDS_DE_B2 = [
       "ja": "クラクション",
       "zh": "喇叭",
       "ru": "гудок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hupen"
+    }
   },
   {
     "id": "de_1831",
+    "lang": "de",
     "lemma": "festland",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "festländer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13560,17 +12705,16 @@ const WORDS_DE_B2 = [
       "ja": "大陸",
       "zh": "大陆",
       "ru": "материк"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "festländer"
+    }
   },
   {
     "id": "de_1832",
+    "lang": "de",
     "lemma": "rückgrat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "rückgrate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13587,15 +12731,11 @@ const WORDS_DE_B2 = [
       "ja": "脊椎",
       "zh": "脊椎",
       "ru": "позвоночник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "rückgrate"
+    }
   },
   {
     "id": "de_1833",
+    "lang": "de",
     "lemma": "schmuggeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -13614,17 +12754,15 @@ const WORDS_DE_B2 = [
       "ja": "密輸する",
       "zh": "走私",
       "ru": "контрабандить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schmuggeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1834",
+    "lang": "de",
     "lemma": "knoblauch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13642,17 +12780,16 @@ const WORDS_DE_B2 = [
       "ja": "ニンニク",
       "zh": "大蒜",
       "ru": "чеснок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_1838",
+    "lang": "de",
     "lemma": "bettler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bettler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13669,17 +12806,16 @@ const WORDS_DE_B2 = [
       "ja": "乞食",
       "zh": "乞丐",
       "ru": "нищий"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bettler"
+    }
   },
   {
     "id": "de_1839",
+    "lang": "de",
     "lemma": "russe",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "russen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13697,17 +12833,16 @@ const WORDS_DE_B2 = [
       "ja": "ロシア人",
       "zh": "俄罗斯人",
       "ru": "русский"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "russen"
+    }
   },
   {
     "id": "de_1842",
+    "lang": "de",
     "lemma": "zeh",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zehen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13725,17 +12860,15 @@ const WORDS_DE_B2 = [
       "ja": "足の指",
       "zh": "脚趾",
       "ru": "палец ноги"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zehen"
+    }
   },
   {
     "id": "de_1848",
+    "lang": "de",
     "lemma": "dreizehn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13752,17 +12885,16 @@ const WORDS_DE_B2 = [
       "ja": "13",
       "zh": "13",
       "ru": "тринадцать"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_1852",
+    "lang": "de",
     "lemma": "zulassung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "zulassungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13780,17 +12912,16 @@ const WORDS_DE_B2 = [
       "ja": "許可",
       "zh": "许可",
       "ru": "допуск"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zulassungen"
+    }
   },
   {
     "id": "de_1855",
+    "lang": "de",
     "lemma": "territorium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "territorien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13807,15 +12938,11 @@ const WORDS_DE_B2 = [
       "ja": "領土",
       "zh": "领土",
       "ru": "территория"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "territorien"
+    }
   },
   {
     "id": "de_1858",
+    "lang": "de",
     "lemma": "improvisieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -13834,15 +12961,11 @@ const WORDS_DE_B2 = [
       "ja": "即興する",
       "zh": "即兴",
       "ru": "импровизировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "improvisieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1860",
+    "lang": "de",
     "lemma": "einschüchtern",
     "pos": "Verb",
     "cefr": "B2",
@@ -13862,15 +12985,11 @@ const WORDS_DE_B2 = [
       "ja": "脅す",
       "zh": "恐吓",
       "ru": "запугивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einschüchtern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1864",
+    "lang": "de",
     "lemma": "befördern",
     "pos": "Verb",
     "cefr": "B2",
@@ -13890,15 +13009,11 @@ const WORDS_DE_B2 = [
       "ja": "運ぶ",
       "zh": "运输",
       "ru": "перевозить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "befördern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1866",
+    "lang": "de",
     "lemma": "streicheln",
     "pos": "Verb",
     "cefr": "B2",
@@ -13918,17 +13033,16 @@ const WORDS_DE_B2 = [
       "ja": "撫でる",
       "zh": "抚摸",
       "ru": "гладить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "streicheln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1871",
+    "lang": "de",
     "lemma": "ablauf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "abläufe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13946,17 +13060,16 @@ const WORDS_DE_B2 = [
       "ja": "経過",
       "zh": "过程",
       "ru": "ход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "abläufe"
+    }
   },
   {
     "id": "de_1872",
+    "lang": "de",
     "lemma": "mikrofon",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "mikrofone",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -13974,17 +13087,16 @@ const WORDS_DE_B2 = [
       "ja": "マイク",
       "zh": "麦克风",
       "ru": "микрофон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "mikrofone"
+    }
   },
   {
     "id": "de_1877",
+    "lang": "de",
     "lemma": "verkleidung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verkleidungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14001,17 +13113,16 @@ const WORDS_DE_B2 = [
       "ja": "変装",
       "zh": "伪装",
       "ru": "маскировка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verkleidungen"
+    }
   },
   {
     "id": "de_1878",
+    "lang": "de",
     "lemma": "intensivstation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "intensivstationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14028,17 +13139,16 @@ const WORDS_DE_B2 = [
       "ja": "集中治療室",
       "zh": "重症监护室",
       "ru": "отделение интенсивной терапии"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "intensivstationen"
+    }
   },
   {
     "id": "de_1879",
+    "lang": "de",
     "lemma": "schlinge",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schlingen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14055,17 +13165,16 @@ const WORDS_DE_B2 = [
       "ja": "罠",
       "zh": "绞索",
       "ru": "петля"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schlingen"
+    }
   },
   {
     "id": "de_1880",
+    "lang": "de",
     "lemma": "list",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "listen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14082,17 +13191,16 @@ const WORDS_DE_B2 = [
       "ja": "策略",
       "zh": "诡计",
       "ru": "хитрость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "listen"
+    }
   },
   {
     "id": "de_1881",
+    "lang": "de",
     "lemma": "handvoll",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "handvoll",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14110,17 +13218,16 @@ const WORDS_DE_B2 = [
       "ja": "一握り",
       "zh": "一把",
       "ru": "пригоршня"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "handvoll"
+    }
   },
   {
     "id": "de_1883",
+    "lang": "de",
     "lemma": "beweisstück",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "beweisstücke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14137,17 +13244,16 @@ const WORDS_DE_B2 = [
       "ja": "証拠品",
       "zh": "证物",
       "ru": "вещественное доказательство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "beweisstücke"
+    }
   },
   {
     "id": "de_1887",
+    "lang": "de",
     "lemma": "stadium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "stadien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14164,17 +13270,16 @@ const WORDS_DE_B2 = [
       "ja": "段階",
       "zh": "阶段",
       "ru": "стадия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "stadien"
+    }
   },
   {
     "id": "de_1888",
+    "lang": "de",
     "lemma": "stau",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "staus",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14192,17 +13297,16 @@ const WORDS_DE_B2 = [
       "ja": "渋滞",
       "zh": "堵塞",
       "ru": "пробка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "staus"
+    }
   },
   {
     "id": "de_1891",
+    "lang": "de",
     "lemma": "erkenntnis",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "erkenntnisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14219,17 +13323,16 @@ const WORDS_DE_B2 = [
       "ja": "認識",
       "zh": "认识",
       "ru": "познание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "erkenntnisse"
+    }
   },
   {
     "id": "de_1892",
+    "lang": "de",
     "lemma": "kategorie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kategorien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14246,15 +13349,11 @@ const WORDS_DE_B2 = [
       "ja": "カテゴリー",
       "zh": "类别",
       "ru": "категория"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kategorien"
+    }
   },
   {
     "id": "de_1896",
+    "lang": "de",
     "lemma": "verschließen",
     "pos": "Verb",
     "cefr": "B2",
@@ -14274,15 +13373,11 @@ const WORDS_DE_B2 = [
       "ja": "鍵をかける",
       "zh": "锁上",
       "ru": "запирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verschließen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1897",
+    "lang": "de",
     "lemma": "angesagt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14302,14 +13397,16 @@ const WORDS_DE_B2 = [
       "ja": "流行している",
       "zh": "流行的",
       "ru": "модный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1898",
+    "lang": "de",
     "lemma": "western",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "western",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14327,17 +13424,16 @@ const WORDS_DE_B2 = [
       "ja": "西部劇",
       "zh": "西部片",
       "ru": "вестерн"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "western"
+    }
   },
   {
     "id": "de_1901",
+    "lang": "de",
     "lemma": "lehne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lehnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14355,17 +13451,16 @@ const WORDS_DE_B2 = [
       "ja": "背もたれ",
       "zh": "靠背",
       "ru": "спинка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lehnen"
+    }
   },
   {
     "id": "de_1912",
+    "lang": "de",
     "lemma": "freilassung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "freilassungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14382,15 +13477,11 @@ const WORDS_DE_B2 = [
       "ja": "釈放",
       "zh": "释放",
       "ru": "освобождение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "freilassungen"
+    }
   },
   {
     "id": "de_1913",
+    "lang": "de",
     "lemma": "sonderbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14409,14 +13500,16 @@ const WORDS_DE_B2 = [
       "ja": "奇妙な",
       "zh": "奇怪的",
       "ru": "странный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1914",
+    "lang": "de",
     "lemma": "fassade",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "fassaden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14434,17 +13527,16 @@ const WORDS_DE_B2 = [
       "ja": "ファサード",
       "zh": "建筑正面",
       "ru": "фасад"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fassaden"
+    }
   },
   {
     "id": "de_1915",
+    "lang": "de",
     "lemma": "anfrage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "anfragen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14462,15 +13554,11 @@ const WORDS_DE_B2 = [
       "ja": "問い合わせ",
       "zh": "询问",
       "ru": "запрос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anfragen"
+    }
   },
   {
     "id": "de_1917",
+    "lang": "de",
     "lemma": "solide",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14489,14 +13577,16 @@ const WORDS_DE_B2 = [
       "ja": "堅牢な",
       "zh": "坚固的",
       "ru": "прочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1919",
+    "lang": "de",
     "lemma": "klatsch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "klatsche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14513,15 +13603,11 @@ const WORDS_DE_B2 = [
       "ja": "噂話",
       "zh": "闲话",
       "ru": "сплетни"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "klatsche"
+    }
   },
   {
     "id": "de_1920",
+    "lang": "de",
     "lemma": "hartnäckig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14540,12 +13626,11 @@ const WORDS_DE_B2 = [
       "ja": "頑固な",
       "zh": "固执的",
       "ru": "упрямый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1924",
+    "lang": "de",
     "lemma": "unbemerkt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14564,12 +13649,11 @@ const WORDS_DE_B2 = [
       "ja": "気づかれない",
       "zh": "未被注意的",
       "ru": "незаметный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1927",
+    "lang": "de",
     "lemma": "schleifen",
     "pos": "Verb",
     "cefr": "B2",
@@ -14589,15 +13673,11 @@ const WORDS_DE_B2 = [
       "ja": "引きずる",
       "zh": "拖拽",
       "ru": "тащить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schleifen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1929",
+    "lang": "de",
     "lemma": "deprimierend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14616,14 +13696,16 @@ const WORDS_DE_B2 = [
       "ja": "落胆させる",
       "zh": "令人沮丧的",
       "ru": "угнетающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1932",
+    "lang": "de",
     "lemma": "pol",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pole",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14640,17 +13722,16 @@ const WORDS_DE_B2 = [
       "ja": "極",
       "zh": "极",
       "ru": "полюс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pole"
+    }
   },
   {
     "id": "de_1933",
+    "lang": "de",
     "lemma": "harmonie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "harmonien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14668,17 +13749,16 @@ const WORDS_DE_B2 = [
       "ja": "調和",
       "zh": "和谐",
       "ru": "гармония"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "harmonien"
+    }
   },
   {
     "id": "de_1934",
+    "lang": "de",
     "lemma": "kelch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kelche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14696,17 +13776,16 @@ const WORDS_DE_B2 = [
       "ja": "杯",
       "zh": "圣杯",
       "ru": "кубок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kelche"
+    }
   },
   {
     "id": "de_1935",
+    "lang": "de",
     "lemma": "hüter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "hüter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14724,17 +13803,16 @@ const WORDS_DE_B2 = [
       "ja": "守護者",
       "zh": "守护者",
       "ru": "хранитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "hüter"
+    }
   },
   {
     "id": "de_1940",
+    "lang": "de",
     "lemma": "leiste",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "leisten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14752,15 +13830,11 @@ const WORDS_DE_B2 = [
       "ja": "モールディング",
       "zh": "木条",
       "ru": "планка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "leisten"
+    }
   },
   {
     "id": "de_1941",
+    "lang": "de",
     "lemma": "aufgeklärt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14779,14 +13853,16 @@ const WORDS_DE_B2 = [
       "ja": "啓蒙された",
       "zh": "开明的",
       "ru": "просвещённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1943",
+    "lang": "de",
     "lemma": "außenministerium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "außenministerien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14803,17 +13879,16 @@ const WORDS_DE_B2 = [
       "ja": "外務省",
       "zh": "外交部",
       "ru": "министерство иностранных дел"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "außenministerien"
+    }
   },
   {
     "id": "de_1944",
+    "lang": "de",
     "lemma": "arrest",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "arreste",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14830,17 +13905,16 @@ const WORDS_DE_B2 = [
       "ja": "逮捕",
       "zh": "拘留",
       "ru": "арест"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "arreste"
+    }
   },
   {
     "id": "de_1946",
+    "lang": "de",
     "lemma": "lebensform",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lebensformen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14858,17 +13932,16 @@ const WORDS_DE_B2 = [
       "ja": "生活様式",
       "zh": "生活方式",
       "ru": "образ жизни"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lebensformen"
+    }
   },
   {
     "id": "de_1947",
+    "lang": "de",
     "lemma": "besetzung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "besetzungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14885,15 +13958,11 @@ const WORDS_DE_B2 = [
       "ja": "占領",
       "zh": "占领",
       "ru": "оккупация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "besetzungen"
+    }
   },
   {
     "id": "de_1949",
+    "lang": "de",
     "lemma": "kriminell",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14912,14 +13981,16 @@ const WORDS_DE_B2 = [
       "ja": "犯罪的",
       "zh": "犯罪的",
       "ru": "преступный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_1951",
+    "lang": "de",
     "lemma": "märtyrer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "märtyrer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14936,17 +14007,16 @@ const WORDS_DE_B2 = [
       "ja": "殉教者",
       "zh": "殉道者",
       "ru": "мученик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "märtyrer"
+    }
   },
   {
     "id": "de_1954",
+    "lang": "de",
     "lemma": "haupt",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "häupter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14964,17 +14034,16 @@ const WORDS_DE_B2 = [
       "ja": "頭",
       "zh": "头",
       "ru": "голова"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "häupter"
+    }
   },
   {
     "id": "de_1955",
+    "lang": "de",
     "lemma": "nachtschicht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "nachtschichten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -14992,17 +14061,16 @@ const WORDS_DE_B2 = [
       "ja": "夜勤",
       "zh": "夜班",
       "ru": "ночная смена"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "nachtschichten"
+    }
   },
   {
     "id": "de_1957",
+    "lang": "de",
     "lemma": "klebeband",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "klebebänder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15020,17 +14088,16 @@ const WORDS_DE_B2 = [
       "ja": "粘着テープ",
       "zh": "胶带",
       "ru": "клейкая лента"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "klebebänder"
+    }
   },
   {
     "id": "de_1960",
+    "lang": "de",
     "lemma": "ehering",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "eheringe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15048,17 +14115,15 @@ const WORDS_DE_B2 = [
       "ja": "結婚指輪",
       "zh": "结婚戒指",
       "ru": "обручальное кольцо"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "eheringe"
+    }
   },
   {
     "id": "de_1962",
+    "lang": "de",
     "lemma": "aufsehen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15075,15 +14140,11 @@ const WORDS_DE_B2 = [
       "ja": "センセーション",
       "zh": "轰动",
       "ru": "сенсация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1963",
+    "lang": "de",
     "lemma": "aufsehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -15103,17 +14164,15 @@ const WORDS_DE_B2 = [
       "ja": "顔を上げる",
       "zh": "抬头",
       "ru": "поднять взгляд"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufsehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_1964",
+    "lang": "de",
     "lemma": "heu",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15131,17 +14190,16 @@ const WORDS_DE_B2 = [
       "ja": "干し草",
       "zh": "干草",
       "ru": "сено"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_1965",
+    "lang": "de",
     "lemma": "schwarm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwärme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15159,17 +14217,16 @@ const WORDS_DE_B2 = [
       "ja": "群れ",
       "zh": "群",
       "ru": "рой"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwärme"
+    }
   },
   {
     "id": "de_1967",
+    "lang": "de",
     "lemma": "eule",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eulen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15187,17 +14244,16 @@ const WORDS_DE_B2 = [
       "ja": "フクロウ",
       "zh": "猫头鹰",
       "ru": "сова"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eulen"
+    }
   },
   {
     "id": "de_1968",
+    "lang": "de",
     "lemma": "mitteilung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mitteilungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15215,17 +14271,16 @@ const WORDS_DE_B2 = [
       "ja": "通知",
       "zh": "通知",
       "ru": "уведомление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mitteilungen"
+    }
   },
   {
     "id": "de_1970",
+    "lang": "de",
     "lemma": "erwägung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "erwägungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15243,17 +14298,15 @@ const WORDS_DE_B2 = [
       "ja": "考慮",
       "zh": "考虑",
       "ru": "рассмотрение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "erwägungen"
+    }
   },
   {
     "id": "de_1972",
+    "lang": "de",
     "lemma": "gunst",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15271,17 +14324,16 @@ const WORDS_DE_B2 = [
       "ja": "好意",
       "zh": "好感",
       "ru": "благосклонность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_1977",
+    "lang": "de",
     "lemma": "therapeut",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "therapeuten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15299,17 +14351,16 @@ const WORDS_DE_B2 = [
       "ja": "セラピスト",
       "zh": "治疗师",
       "ru": "терапевт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "therapeuten"
+    }
   },
   {
     "id": "de_1999",
+    "lang": "de",
     "lemma": "aufklärung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "aufklärungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15327,17 +14378,16 @@ const WORDS_DE_B2 = [
       "ja": "説明",
       "zh": "说明",
       "ru": "объяснение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "aufklärungen"
+    }
   },
   {
     "id": "de_2024",
+    "lang": "de",
     "lemma": "verzögerung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verzögerungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15355,17 +14405,16 @@ const WORDS_DE_B2 = [
       "ja": "遅延",
       "zh": "延迟",
       "ru": "задержка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verzögerungen"
+    }
   },
   {
     "id": "de_2027",
+    "lang": "de",
     "lemma": "ansprache",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ansprachen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15383,15 +14432,11 @@ const WORDS_DE_B2 = [
       "ja": "演説",
       "zh": "演讲",
       "ru": "речь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ansprachen"
+    }
   },
   {
     "id": "de_2032",
+    "lang": "de",
     "lemma": "unangebracht",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15411,14 +14456,16 @@ const WORDS_DE_B2 = [
       "ja": "不適切な",
       "zh": "不恰当的",
       "ru": "неуместный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2034",
+    "lang": "de",
     "lemma": "brenner",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "brenner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15436,15 +14483,11 @@ const WORDS_DE_B2 = [
       "ja": "バーナー",
       "zh": "燃烧器",
       "ru": "горелка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "brenner"
+    }
   },
   {
     "id": "de_2037",
+    "lang": "de",
     "lemma": "hintergehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -15464,17 +14507,16 @@ const WORDS_DE_B2 = [
       "ja": "だます",
       "zh": "欺骗",
       "ru": "обманывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hintergehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2038",
+    "lang": "de",
     "lemma": "reaktor",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "reaktoren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15491,17 +14533,16 @@ const WORDS_DE_B2 = [
       "ja": "原子炉",
       "zh": "反应堆",
       "ru": "реактор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "reaktoren"
+    }
   },
   {
     "id": "de_2046",
+    "lang": "de",
     "lemma": "vorlesung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorlesungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15519,17 +14560,16 @@ const WORDS_DE_B2 = [
       "ja": "講義",
       "zh": "讲座",
       "ru": "лекция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorlesungen"
+    }
   },
   {
     "id": "de_2050",
+    "lang": "de",
     "lemma": "lenkrad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "lenkräder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15547,17 +14587,16 @@ const WORDS_DE_B2 = [
       "ja": "ハンドル",
       "zh": "方向盘",
       "ru": "руль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "lenkräder"
+    }
   },
   {
     "id": "de_2052",
+    "lang": "de",
     "lemma": "amerikanerin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "amerikanerinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15575,17 +14614,16 @@ const WORDS_DE_B2 = [
       "ja": "アメリカ人女性",
       "zh": "美国女性",
       "ru": "американка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "amerikanerinnen"
+    }
   },
   {
     "id": "de_2054",
+    "lang": "de",
     "lemma": "gründer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gründer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15603,17 +14641,16 @@ const WORDS_DE_B2 = [
       "ja": "創設者",
       "zh": "创始人",
       "ru": "основатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gründer"
+    }
   },
   {
     "id": "de_2059",
+    "lang": "de",
     "lemma": "frühjahr",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "frühjahre",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15631,17 +14668,16 @@ const WORDS_DE_B2 = [
       "ja": "春",
       "zh": "春天",
       "ru": "весна"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "frühjahre"
+    }
   },
   {
     "id": "de_2061",
+    "lang": "de",
     "lemma": "stellvertreter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stellvertreter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15659,15 +14695,11 @@ const WORDS_DE_B2 = [
       "ja": "代理人",
       "zh": "代理人",
       "ru": "заместитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stellvertreter"
+    }
   },
   {
     "id": "de_2062",
+    "lang": "de",
     "lemma": "unvorstellbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15687,12 +14719,11 @@ const WORDS_DE_B2 = [
       "ja": "想像できない",
       "zh": "难以想象的",
       "ru": "немыслимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2068",
+    "lang": "de",
     "lemma": "ehrgeizig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15712,14 +14743,16 @@ const WORDS_DE_B2 = [
       "ja": "野心的な",
       "zh": "雄心勃勃的",
       "ru": "честолюбивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2071",
+    "lang": "de",
     "lemma": "atmung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "atmungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15737,15 +14770,11 @@ const WORDS_DE_B2 = [
       "ja": "呼吸",
       "zh": "呼吸",
       "ru": "дыхание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "atmungen"
+    }
   },
   {
     "id": "de_2072",
+    "lang": "de",
     "lemma": "kaltblütig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15764,12 +14793,11 @@ const WORDS_DE_B2 = [
       "ja": "冷血な",
       "zh": "冷血的",
       "ru": "хладнокровный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2077",
+    "lang": "de",
     "lemma": "zärtlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15789,14 +14817,16 @@ const WORDS_DE_B2 = [
       "ja": "優しい",
       "zh": "温柔的",
       "ru": "нежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2081",
+    "lang": "de",
     "lemma": "genesung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "genesungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15814,17 +14844,16 @@ const WORDS_DE_B2 = [
       "ja": "回復",
       "zh": "康复",
       "ru": "выздоровление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "genesungen"
+    }
   },
   {
     "id": "de_2082",
+    "lang": "de",
     "lemma": "auftraggeber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "auftraggeber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15842,17 +14871,16 @@ const WORDS_DE_B2 = [
       "ja": "発注者",
       "zh": "委托人",
       "ru": "заказчик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "auftraggeber"
+    }
   },
   {
     "id": "de_2083",
+    "lang": "de",
     "lemma": "zusammenbruch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zusammenbrüche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15869,17 +14897,16 @@ const WORDS_DE_B2 = [
       "ja": "崩壊",
       "zh": "崩溃",
       "ru": "крах"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zusammenbrüche"
+    }
   },
   {
     "id": "de_2084",
+    "lang": "de",
     "lemma": "pumpe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "pumpen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15897,15 +14924,11 @@ const WORDS_DE_B2 = [
       "ja": "ポンプ",
       "zh": "泵",
       "ru": "насос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "pumpen"
+    }
   },
   {
     "id": "de_2087",
+    "lang": "de",
     "lemma": "rankommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -15925,15 +14948,11 @@ const WORDS_DE_B2 = [
       "ja": "到達する",
       "zh": "到达",
       "ru": "добраться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rankommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2088",
+    "lang": "de",
     "lemma": "relevant",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15952,14 +14971,16 @@ const WORDS_DE_B2 = [
       "ja": "関連した",
       "zh": "相关的",
       "ru": "релевантный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2093",
+    "lang": "de",
     "lemma": "fledermaus",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "fledermäuse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15977,15 +14998,11 @@ const WORDS_DE_B2 = [
       "ja": "コウモリ",
       "zh": "蝙蝠",
       "ru": "летучая мышь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fledermäuse"
+    }
   },
   {
     "id": "de_2094",
+    "lang": "de",
     "lemma": "segnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16005,15 +15022,11 @@ const WORDS_DE_B2 = [
       "ja": "祝福する",
       "zh": "祝福",
       "ru": "благословлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "segnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2108",
+    "lang": "de",
     "lemma": "schmelzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16033,17 +15046,16 @@ const WORDS_DE_B2 = [
       "ja": "溶ける",
       "zh": "融化",
       "ru": "плавиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schmelzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2111",
+    "lang": "de",
     "lemma": "ära",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ären",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16061,15 +15073,11 @@ const WORDS_DE_B2 = [
       "ja": "時代",
       "zh": "时代",
       "ru": "эпоха"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ären"
+    }
   },
   {
     "id": "de_2113",
+    "lang": "de",
     "lemma": "einreichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16088,17 +15096,16 @@ const WORDS_DE_B2 = [
       "ja": "提出する",
       "zh": "提交",
       "ru": "подавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einreichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2114",
+    "lang": "de",
     "lemma": "zwilling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zwillinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16116,17 +15123,16 @@ const WORDS_DE_B2 = [
       "ja": "双子",
       "zh": "双胞胎",
       "ru": "близнец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zwillinge"
+    }
   },
   {
     "id": "de_2116",
+    "lang": "de",
     "lemma": "trophäe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "trophäen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16143,17 +15149,16 @@ const WORDS_DE_B2 = [
       "ja": "トロフィー",
       "zh": "奖杯",
       "ru": "трофей"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "trophäen"
+    }
   },
   {
     "id": "de_2121",
+    "lang": "de",
     "lemma": "komma",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kommas",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16171,17 +15176,16 @@ const WORDS_DE_B2 = [
       "ja": "コンマ",
       "zh": "逗号",
       "ru": "запятая"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kommas"
+    }
   },
   {
     "id": "de_2123",
+    "lang": "de",
     "lemma": "freundlichkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "freundlichkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16199,15 +15203,11 @@ const WORDS_DE_B2 = [
       "ja": "親切さ",
       "zh": "友善",
       "ru": "доброта"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "freundlichkeiten"
+    }
   },
   {
     "id": "de_2132",
+    "lang": "de",
     "lemma": "isolieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -16227,17 +15227,16 @@ const WORDS_DE_B2 = [
       "ja": "隔離する",
       "zh": "隔离",
       "ru": "изолировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "isolieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2133",
+    "lang": "de",
     "lemma": "flugplatz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "flugplätze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16255,17 +15254,16 @@ const WORDS_DE_B2 = [
       "ja": "飛行場",
       "zh": "飞行场",
       "ru": "аэродром"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "flugplätze"
+    }
   },
   {
     "id": "de_2135",
+    "lang": "de",
     "lemma": "lachs",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "lachse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16283,15 +15281,11 @@ const WORDS_DE_B2 = [
       "ja": "鮭",
       "zh": "三文鱼",
       "ru": "лосось"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "lachse"
+    }
   },
   {
     "id": "de_2141",
+    "lang": "de",
     "lemma": "aufbewahren",
     "pos": "Verb",
     "cefr": "B2",
@@ -16311,17 +15305,16 @@ const WORDS_DE_B2 = [
       "ja": "保管する",
       "zh": "保管",
       "ru": "хранить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufbewahren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2142",
+    "lang": "de",
     "lemma": "diamant",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "diamanten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16339,15 +15332,11 @@ const WORDS_DE_B2 = [
       "ja": "ダイヤモンド",
       "zh": "钻石",
       "ru": "алмаз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "diamanten"
+    }
   },
   {
     "id": "de_2143",
+    "lang": "de",
     "lemma": "herauskommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16367,15 +15356,11 @@ const WORDS_DE_B2 = [
       "ja": "出てくる",
       "zh": "出来",
       "ru": "выходить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herauskommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2146",
+    "lang": "de",
     "lemma": "angepasst",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16394,14 +15379,16 @@ const WORDS_DE_B2 = [
       "ja": "適応した",
       "zh": "适应的",
       "ru": "приспособленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2147",
+    "lang": "de",
     "lemma": "strick",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stricke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16419,15 +15406,11 @@ const WORDS_DE_B2 = [
       "ja": "ロープ",
       "zh": "绳子",
       "ru": "веревка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stricke"
+    }
   },
   {
     "id": "de_2150",
+    "lang": "de",
     "lemma": "bewältigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16447,17 +15430,16 @@ const WORDS_DE_B2 = [
       "ja": "克服する",
       "zh": "克服",
       "ru": "преодолевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bewältigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2151",
+    "lang": "de",
     "lemma": "fläschchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "fläschchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16475,17 +15457,16 @@ const WORDS_DE_B2 = [
       "ja": "小瓶",
       "zh": "小瓶",
       "ru": "бутылочка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "fläschchen"
+    }
   },
   {
     "id": "de_2153",
+    "lang": "de",
     "lemma": "lupe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lupen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16503,15 +15484,11 @@ const WORDS_DE_B2 = [
       "ja": "虫眼鏡",
       "zh": "放大镜",
       "ru": "лупа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lupen"
+    }
   },
   {
     "id": "de_2154",
+    "lang": "de",
     "lemma": "davonlaufen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16530,15 +15507,11 @@ const WORDS_DE_B2 = [
       "ja": "逃げ去る",
       "zh": "逃跑",
       "ru": "убегать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "davonlaufen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2157",
+    "lang": "de",
     "lemma": "befriedigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16558,17 +15531,16 @@ const WORDS_DE_B2 = [
       "ja": "満足させる",
       "zh": "满足",
       "ru": "удовлетворять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "befriedigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2165",
+    "lang": "de",
     "lemma": "waise",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "waisen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16586,17 +15558,16 @@ const WORDS_DE_B2 = [
       "ja": "孤児",
       "zh": "孤儿",
       "ru": "сирота"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "waisen"
+    }
   },
   {
     "id": "de_2173",
+    "lang": "de",
     "lemma": "bücherei",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "büchereien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16614,17 +15585,16 @@ const WORDS_DE_B2 = [
       "ja": "図書館",
       "zh": "图书馆",
       "ru": "библиотека"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "büchereien"
+    }
   },
   {
     "id": "de_2174",
+    "lang": "de",
     "lemma": "fallschirm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "fallschirme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16642,17 +15612,16 @@ const WORDS_DE_B2 = [
       "ja": "パラシュート",
       "zh": "降落伞",
       "ru": "парашют"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "fallschirme"
+    }
   },
   {
     "id": "de_2176",
+    "lang": "de",
     "lemma": "frachter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "frachter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16670,17 +15639,16 @@ const WORDS_DE_B2 = [
       "ja": "貨物船",
       "zh": "货轮",
       "ru": "грузовое судно"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "frachter"
+    }
   },
   {
     "id": "de_2177",
+    "lang": "de",
     "lemma": "komplize",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "komplizen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16697,17 +15665,16 @@ const WORDS_DE_B2 = [
       "ja": "共犯者",
       "zh": "共谋者",
       "ru": "сообщник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "komplizen"
+    }
   },
   {
     "id": "de_2183",
+    "lang": "de",
     "lemma": "chirurgie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "chirurgien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16725,15 +15692,11 @@ const WORDS_DE_B2 = [
       "ja": "外科",
       "zh": "外科",
       "ru": "хирургия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "chirurgien"
+    }
   },
   {
     "id": "de_2184",
+    "lang": "de",
     "lemma": "hüpfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -16753,17 +15716,16 @@ const WORDS_DE_B2 = [
       "ja": "ぴょんぴょん跳ねる",
       "zh": "跳跃",
       "ru": "прыгать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hüpfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2188",
+    "lang": "de",
     "lemma": "überprüfung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "überprüfungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16781,15 +15743,11 @@ const WORDS_DE_B2 = [
       "ja": "検査",
       "zh": "检查",
       "ru": "проверка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "überprüfungen"
+    }
   },
   {
     "id": "de_2193",
+    "lang": "de",
     "lemma": "zerbrechlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16809,14 +15767,16 @@ const WORDS_DE_B2 = [
       "ja": "壊れやすい",
       "zh": "易碎的",
       "ru": "хрупкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2194",
+    "lang": "de",
     "lemma": "riese",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "riesen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16834,15 +15794,11 @@ const WORDS_DE_B2 = [
       "ja": "巨人",
       "zh": "巨人",
       "ru": "великан"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "riesen"
+    }
   },
   {
     "id": "de_2200",
+    "lang": "de",
     "lemma": "liebenswürdig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16862,14 +15818,16 @@ const WORDS_DE_B2 = [
       "ja": "親切な",
       "zh": "和蔼的",
       "ru": "любезный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2201",
+    "lang": "de",
     "lemma": "säure",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "säuren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16887,15 +15845,11 @@ const WORDS_DE_B2 = [
       "ja": "酸",
       "zh": "酸",
       "ru": "кислота"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "säuren"
+    }
   },
   {
     "id": "de_2202",
+    "lang": "de",
     "lemma": "chaotisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16915,14 +15869,16 @@ const WORDS_DE_B2 = [
       "ja": "混沌とした",
       "zh": "混乱的",
       "ru": "хаотичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2204",
+    "lang": "de",
     "lemma": "besorgnis",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "besorgnisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16940,17 +15896,16 @@ const WORDS_DE_B2 = [
       "ja": "懸念",
       "zh": "担忧",
       "ru": "озабоченность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "besorgnisse"
+    }
   },
   {
     "id": "de_2205",
+    "lang": "de",
     "lemma": "grundschule",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "grundschulen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16968,17 +15923,16 @@ const WORDS_DE_B2 = [
       "ja": "小学校",
       "zh": "小学",
       "ru": "начальная школа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "grundschulen"
+    }
   },
   {
     "id": "de_2207",
+    "lang": "de",
     "lemma": "aufruf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aufrufe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -16996,17 +15950,16 @@ const WORDS_DE_B2 = [
       "ja": "呼びかけ",
       "zh": "呼吁",
       "ru": "призыв"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aufrufe"
+    }
   },
   {
     "id": "de_2209",
+    "lang": "de",
     "lemma": "schwelle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schwellen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17024,17 +15977,16 @@ const WORDS_DE_B2 = [
       "ja": "敷居",
       "zh": "门槛",
       "ru": "порог"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schwellen"
+    }
   },
   {
     "id": "de_2217",
+    "lang": "de",
     "lemma": "verschluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verschlüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17052,17 +16004,16 @@ const WORDS_DE_B2 = [
       "ja": "錠",
       "zh": "锁",
       "ru": "замок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verschlüsse"
+    }
   },
   {
     "id": "de_2224",
+    "lang": "de",
     "lemma": "intuition",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "intuitionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17079,17 +16030,15 @@ const WORDS_DE_B2 = [
       "ja": "直感",
       "zh": "直觉",
       "ru": "интуиция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "intuitionen"
+    }
   },
   {
     "id": "de_2225",
+    "lang": "de",
     "lemma": "terrorismus",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17106,17 +16055,16 @@ const WORDS_DE_B2 = [
       "ja": "テロ",
       "zh": "恐怖主义",
       "ru": "терроризм"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_2226",
+    "lang": "de",
     "lemma": "satellit",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "satelliten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17133,15 +16081,11 @@ const WORDS_DE_B2 = [
       "ja": "衛星",
       "zh": "卫星",
       "ru": "спутник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "satelliten"
+    }
   },
   {
     "id": "de_2229",
+    "lang": "de",
     "lemma": "schiefgehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17160,17 +16104,16 @@ const WORDS_DE_B2 = [
       "ja": "失敗する",
       "zh": "失败",
       "ru": "не удаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schiefgehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2230",
+    "lang": "de",
     "lemma": "pyjama",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pyjamas",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17188,17 +16131,16 @@ const WORDS_DE_B2 = [
       "ja": "パジャマ",
       "zh": "睡衣",
       "ru": "пижама"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pyjamas"
+    }
   },
   {
     "id": "de_2233",
+    "lang": "de",
     "lemma": "tätowierung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "tätowierungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17215,15 +16157,11 @@ const WORDS_DE_B2 = [
       "ja": "刺青",
       "zh": "纹身",
       "ru": "татуировка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "tätowierungen"
+    }
   },
   {
     "id": "de_2234",
+    "lang": "de",
     "lemma": "erleiden",
     "pos": "Verb",
     "cefr": "B2",
@@ -17242,17 +16180,16 @@ const WORDS_DE_B2 = [
       "ja": "被る",
       "zh": "遭受",
       "ru": "претерпевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erleiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2238",
+    "lang": "de",
     "lemma": "staubsauger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "staubsauger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17270,17 +16207,16 @@ const WORDS_DE_B2 = [
       "ja": "掃除機",
       "zh": "吸尘器",
       "ru": "пылесос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "staubsauger"
+    }
   },
   {
     "id": "de_2243",
+    "lang": "de",
     "lemma": "tablett",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "tabletts",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17298,15 +16234,11 @@ const WORDS_DE_B2 = [
       "ja": "盆",
       "zh": "托盘",
       "ru": "поднос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "tabletts"
+    }
   },
   {
     "id": "de_2248",
+    "lang": "de",
     "lemma": "wegkommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17326,15 +16258,11 @@ const WORDS_DE_B2 = [
       "ja": "去る",
       "zh": "离开",
       "ru": "уходить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegkommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2249",
+    "lang": "de",
     "lemma": "verabreden",
     "pos": "Verb",
     "cefr": "B2",
@@ -17354,15 +16282,11 @@ const WORDS_DE_B2 = [
       "ja": "約束する",
       "zh": "约定",
       "ru": "договариваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verabreden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2256",
+    "lang": "de",
     "lemma": "übermitteln",
     "pos": "Verb",
     "cefr": "B2",
@@ -17382,15 +16306,11 @@ const WORDS_DE_B2 = [
       "ja": "伝える",
       "zh": "传达",
       "ru": "передавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "übermitteln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2263",
+    "lang": "de",
     "lemma": "verkraften",
     "pos": "Verb",
     "cefr": "B2",
@@ -17410,17 +16330,16 @@ const WORDS_DE_B2 = [
       "ja": "耐える",
       "zh": "承受",
       "ru": "выносить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verkraften",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2266",
+    "lang": "de",
     "lemma": "kritiker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kritiker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17438,15 +16357,11 @@ const WORDS_DE_B2 = [
       "ja": "批評家",
       "zh": "评论家",
       "ru": "критик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kritiker"
+    }
   },
   {
     "id": "de_2269",
+    "lang": "de",
     "lemma": "klarmachen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17466,17 +16381,16 @@ const WORDS_DE_B2 = [
       "ja": "明確にする",
       "zh": "澄清",
       "ru": "уточнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klarmachen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2272",
+    "lang": "de",
     "lemma": "gummi",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gummi",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17494,17 +16408,16 @@ const WORDS_DE_B2 = [
       "ja": "ゴム",
       "zh": "橡胶",
       "ru": "резина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gummi"
+    }
   },
   {
     "id": "de_2281",
+    "lang": "de",
     "lemma": "romanze",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "romanzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17522,15 +16435,11 @@ const WORDS_DE_B2 = [
       "ja": "ロマンス",
       "zh": "浪漫",
       "ru": "романтика"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "romanzen"
+    }
   },
   {
     "id": "de_2282",
+    "lang": "de",
     "lemma": "fluchen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17550,17 +16459,16 @@ const WORDS_DE_B2 = [
       "ja": "呪う",
       "zh": "咒骂",
       "ru": "ругаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fluchen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2285",
+    "lang": "de",
     "lemma": "erfinder",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "erfinder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17578,15 +16486,11 @@ const WORDS_DE_B2 = [
       "ja": "発明家",
       "zh": "发明家",
       "ru": "изобретатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "erfinder"
+    }
   },
   {
     "id": "de_2286",
+    "lang": "de",
     "lemma": "unbesiegbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17606,14 +16510,16 @@ const WORDS_DE_B2 = [
       "ja": "無敵の",
       "zh": "无敌的",
       "ru": "непобедимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2291",
+    "lang": "de",
     "lemma": "stromausfall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stromausfälle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17630,17 +16536,16 @@ const WORDS_DE_B2 = [
       "ja": "停電",
       "zh": "停电",
       "ru": "отключение электричества"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stromausfälle"
+    }
   },
   {
     "id": "de_2292",
+    "lang": "de",
     "lemma": "zielscheibe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "zielscheiben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17658,15 +16563,11 @@ const WORDS_DE_B2 = [
       "ja": "的",
       "zh": "靶子",
       "ru": "мишень"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zielscheiben"
+    }
   },
   {
     "id": "de_2293",
+    "lang": "de",
     "lemma": "überschreiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -17685,15 +16586,11 @@ const WORDS_DE_B2 = [
       "ja": "超える",
       "zh": "超过",
       "ru": "превышать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "überschreiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2294",
+    "lang": "de",
     "lemma": "versenken",
     "pos": "Verb",
     "cefr": "B2",
@@ -17712,17 +16609,16 @@ const WORDS_DE_B2 = [
       "ja": "沈める",
       "zh": "沉没",
       "ru": "топить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "versenken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2296",
+    "lang": "de",
     "lemma": "kundin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kundinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17740,17 +16636,16 @@ const WORDS_DE_B2 = [
       "ja": "女性顧客",
       "zh": "女性客户",
       "ru": "клиентка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kundinnen"
+    }
   },
   {
     "id": "de_2297",
+    "lang": "de",
     "lemma": "portier",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "portiers",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17768,17 +16663,16 @@ const WORDS_DE_B2 = [
       "ja": "門番",
       "zh": "门卫",
       "ru": "портье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "portiers"
+    }
   },
   {
     "id": "de_2298",
+    "lang": "de",
     "lemma": "beobachter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "beobachter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17795,15 +16689,11 @@ const WORDS_DE_B2 = [
       "ja": "観察者",
       "zh": "观察者",
       "ru": "наблюдатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "beobachter"
+    }
   },
   {
     "id": "de_2299",
+    "lang": "de",
     "lemma": "beerdigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17822,15 +16712,11 @@ const WORDS_DE_B2 = [
       "ja": "埋葬する",
       "zh": "埋葬",
       "ru": "хоронить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beerdigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2306",
+    "lang": "de",
     "lemma": "emotionalen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17850,14 +16736,16 @@ const WORDS_DE_B2 = [
       "ja": "感情的な",
       "zh": "情感的",
       "ru": "эмоциональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2308",
+    "lang": "de",
     "lemma": "parfum",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "parfums",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17875,17 +16763,16 @@ const WORDS_DE_B2 = [
       "ja": "香水",
       "zh": "香水",
       "ru": "духи"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "parfums"
+    }
   },
   {
     "id": "de_2310",
+    "lang": "de",
     "lemma": "glücksspiel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "glücksspiele",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17902,15 +16789,11 @@ const WORDS_DE_B2 = [
       "ja": "ギャンブル",
       "zh": "赌博",
       "ru": "азартная игра"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "glücksspiele"
+    }
   },
   {
     "id": "de_2312",
+    "lang": "de",
     "lemma": "hinnehmen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17929,15 +16812,11 @@ const WORDS_DE_B2 = [
       "ja": "受け入れる",
       "zh": "接受",
       "ru": "принимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hinnehmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2314",
+    "lang": "de",
     "lemma": "belegen",
     "pos": "Verb",
     "cefr": "B2",
@@ -17956,17 +16835,16 @@ const WORDS_DE_B2 = [
       "ja": "証明する",
       "zh": "证明",
       "ru": "доказывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "belegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2316",
+    "lang": "de",
     "lemma": "hypnose",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hypnosen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -17983,15 +16861,11 @@ const WORDS_DE_B2 = [
       "ja": "催眠",
       "zh": "催眠",
       "ru": "гипноз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hypnosen"
+    }
   },
   {
     "id": "de_2318",
+    "lang": "de",
     "lemma": "schauspielern",
     "pos": "Verb",
     "cefr": "B2",
@@ -18011,15 +16885,11 @@ const WORDS_DE_B2 = [
       "ja": "演技する",
       "zh": "表演",
       "ru": "играть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schauspielern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2319",
+    "lang": "de",
     "lemma": "murmeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -18039,17 +16909,16 @@ const WORDS_DE_B2 = [
       "ja": "つぶやく",
       "zh": "嘟囔",
       "ru": "бормотать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "murmeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2325",
+    "lang": "de",
     "lemma": "glatze",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "glatzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18067,15 +16936,11 @@ const WORDS_DE_B2 = [
       "ja": "禿頭",
       "zh": "秃头",
       "ru": "лысина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "glatzen"
+    }
   },
   {
     "id": "de_2328",
+    "lang": "de",
     "lemma": "entschlüsseln",
     "pos": "Verb",
     "cefr": "B2",
@@ -18094,17 +16959,16 @@ const WORDS_DE_B2 = [
       "ja": "解読する",
       "zh": "解码",
       "ru": "расшифровывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entschlüsseln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2330",
+    "lang": "de",
     "lemma": "unentschieden",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "unentschieden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18121,17 +16985,16 @@ const WORDS_DE_B2 = [
       "ja": "引き分け",
       "zh": "平局",
       "ru": "ничья"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "unentschieden"
+    }
   },
   {
     "id": "de_2332",
+    "lang": "de",
     "lemma": "migräne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "migränen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18149,15 +17012,11 @@ const WORDS_DE_B2 = [
       "ja": "片頭痛",
       "zh": "偏头痛",
       "ru": "мигрень"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "migränen"
+    }
   },
   {
     "id": "de_2336",
+    "lang": "de",
     "lemma": "runtergehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -18177,17 +17036,16 @@ const WORDS_DE_B2 = [
       "ja": "下りる",
       "zh": "下去",
       "ru": "спускаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "runtergehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2337",
+    "lang": "de",
     "lemma": "amnesie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "amnesien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18205,17 +17063,16 @@ const WORDS_DE_B2 = [
       "ja": "健忘症",
       "zh": "失忆",
       "ru": "амнезия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "amnesien"
+    }
   },
   {
     "id": "de_2345",
+    "lang": "de",
     "lemma": "astronaut",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "astronauten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18233,15 +17090,11 @@ const WORDS_DE_B2 = [
       "ja": "宇宙飛行士",
       "zh": "宇航员",
       "ru": "космонавт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "astronauten"
+    }
   },
   {
     "id": "de_2349",
+    "lang": "de",
     "lemma": "genetisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18260,12 +17113,11 @@ const WORDS_DE_B2 = [
       "ja": "遺伝的な",
       "zh": "遗传的",
       "ru": "генетический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2351",
+    "lang": "de",
     "lemma": "unverändert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18285,14 +17137,16 @@ const WORDS_DE_B2 = [
       "ja": "変わらない",
       "zh": "不变的",
       "ru": "неизменный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2354",
+    "lang": "de",
     "lemma": "sehne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sehnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18310,17 +17164,16 @@ const WORDS_DE_B2 = [
       "ja": "腱",
       "zh": "肌腱",
       "ru": "сухожилие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sehnen"
+    }
   },
   {
     "id": "de_2356",
+    "lang": "de",
     "lemma": "kundschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kundschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18338,15 +17191,11 @@ const WORDS_DE_B2 = [
       "ja": "顧客",
       "zh": "客户",
       "ru": "клиентура"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kundschaften"
+    }
   },
   {
     "id": "de_2357",
+    "lang": "de",
     "lemma": "entfliehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -18366,15 +17215,11 @@ const WORDS_DE_B2 = [
       "ja": "逃げる",
       "zh": "逃脱",
       "ru": "убежать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entfliehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2360",
+    "lang": "de",
     "lemma": "verstopft",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18394,14 +17239,16 @@ const WORDS_DE_B2 = [
       "ja": "詰まった",
       "zh": "堵塞的",
       "ru": "забитый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2361",
+    "lang": "de",
     "lemma": "kürbis",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kürbisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18419,17 +17266,16 @@ const WORDS_DE_B2 = [
       "ja": "カボチャ",
       "zh": "南瓜",
       "ru": "тыква"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kürbisse"
+    }
   },
   {
     "id": "de_2362",
+    "lang": "de",
     "lemma": "kröte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kröten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18447,17 +17293,16 @@ const WORDS_DE_B2 = [
       "ja": "ヒキガエル",
       "zh": "蟾蜍",
       "ru": "жаба"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kröten"
+    }
   },
   {
     "id": "de_2365",
+    "lang": "de",
     "lemma": "grausamkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "grausamkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18474,17 +17319,16 @@ const WORDS_DE_B2 = [
       "ja": "残酷さ",
       "zh": "残忍",
       "ru": "жестокость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "grausamkeiten"
+    }
   },
   {
     "id": "de_2366",
+    "lang": "de",
     "lemma": "makler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "makler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18502,17 +17346,16 @@ const WORDS_DE_B2 = [
       "ja": "仲介人",
       "zh": "经纪人",
       "ru": "брокер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "makler"
+    }
   },
   {
     "id": "de_2367",
+    "lang": "de",
     "lemma": "kalb",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kälber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18530,17 +17373,16 @@ const WORDS_DE_B2 = [
       "ja": "子牛",
       "zh": "小牛",
       "ru": "телёнок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kälber"
+    }
   },
   {
     "id": "de_2368",
+    "lang": "de",
     "lemma": "schnur",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schnüre",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18558,15 +17400,11 @@ const WORDS_DE_B2 = [
       "ja": "紐",
       "zh": "绳子",
       "ru": "шнур"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schnüre"
+    }
   },
   {
     "id": "de_2372",
+    "lang": "de",
     "lemma": "einleiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -18586,15 +17424,11 @@ const WORDS_DE_B2 = [
       "ja": "開始する",
       "zh": "开始",
       "ru": "начинать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einleiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2374",
+    "lang": "de",
     "lemma": "demonstrieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -18614,17 +17448,16 @@ const WORDS_DE_B2 = [
       "ja": "実演する",
       "zh": "演示",
       "ru": "демонстрировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "demonstrieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2379",
+    "lang": "de",
     "lemma": "waschmaschine",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "waschmaschinen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18642,15 +17475,11 @@ const WORDS_DE_B2 = [
       "ja": "洗濯機",
       "zh": "洗衣机",
       "ru": "стиральная машина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "waschmaschinen"
+    }
   },
   {
     "id": "de_2384",
+    "lang": "de",
     "lemma": "moralisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18669,12 +17498,11 @@ const WORDS_DE_B2 = [
       "ja": "道徳的な",
       "zh": "道德的",
       "ru": "моральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2388",
+    "lang": "de",
     "lemma": "ausgebucht",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18694,14 +17522,16 @@ const WORDS_DE_B2 = [
       "ja": "売り切れた",
       "zh": "售罄的",
       "ru": "распроданный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2391",
+    "lang": "de",
     "lemma": "ständer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ständer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18719,17 +17549,16 @@ const WORDS_DE_B2 = [
       "ja": "スタンド",
       "zh": "支架",
       "ru": "подставка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ständer"
+    }
   },
   {
     "id": "de_2393",
+    "lang": "de",
     "lemma": "kessel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kessel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18747,15 +17576,11 @@ const WORDS_DE_B2 = [
       "ja": "やかん",
       "zh": "锅",
       "ru": "котел"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kessel"
+    }
   },
   {
     "id": "de_2394",
+    "lang": "de",
     "lemma": "korrupt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18774,14 +17599,16 @@ const WORDS_DE_B2 = [
       "ja": "腐敗した",
       "zh": "腐败的",
       "ru": "коррумпированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2397",
+    "lang": "de",
     "lemma": "cap",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "caps",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18791,7 +17618,7 @@ const WORDS_DE_B2 = [
     "meanings": {
       "ko": "모자",
       "en": "cap",
-      "de": "die Cap",
+      "de": "das Cap",
       "es": "la gorra",
       "fr": "la casquette",
       "it": "il berretto",
@@ -18799,17 +17626,16 @@ const WORDS_DE_B2 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "кепка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "caps"
+    }
   },
   {
     "id": "de_2398",
+    "lang": "de",
     "lemma": "eiscreme",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eiscremes",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18827,15 +17653,11 @@ const WORDS_DE_B2 = [
       "ja": "アイスクリーム",
       "zh": "冰淇淋",
       "ru": "мороженое"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eiscremes"
+    }
   },
   {
     "id": "de_2404",
+    "lang": "de",
     "lemma": "festgelegt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18855,14 +17677,16 @@ const WORDS_DE_B2 = [
       "ja": "定められた",
       "zh": "确定的",
       "ru": "установленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2405",
+    "lang": "de",
     "lemma": "wähler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "wähler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18879,17 +17703,16 @@ const WORDS_DE_B2 = [
       "ja": "投票者",
       "zh": "选民",
       "ru": "избиратель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "wähler"
+    }
   },
   {
     "id": "de_2409",
+    "lang": "de",
     "lemma": "fetzen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "fetzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18907,15 +17730,11 @@ const WORDS_DE_B2 = [
       "ja": "切れ端",
       "zh": "碎片",
       "ru": "лоскут"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "fetzen"
+    }
   },
   {
     "id": "de_2413",
+    "lang": "de",
     "lemma": "rausschmeißen",
     "pos": "Verb",
     "cefr": "B2",
@@ -18935,17 +17754,16 @@ const WORDS_DE_B2 = [
       "ja": "追い出す",
       "zh": "赶出去",
       "ru": "выбросить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rausschmeißen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2416",
+    "lang": "de",
     "lemma": "säge",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sägen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18963,17 +17781,16 @@ const WORDS_DE_B2 = [
       "ja": "のこぎり",
       "zh": "锯",
       "ru": "пила"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sägen"
+    }
   },
   {
     "id": "de_2417",
+    "lang": "de",
     "lemma": "ansatz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ansätze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -18990,17 +17807,16 @@ const WORDS_DE_B2 = [
       "ja": "アプローチ",
       "zh": "方法",
       "ru": "подход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ansätze"
+    }
   },
   {
     "id": "de_2420",
+    "lang": "de",
     "lemma": "verstoß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verstöße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19018,15 +17834,11 @@ const WORDS_DE_B2 = [
       "ja": "違反",
       "zh": "违反",
       "ru": "нарушение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verstöße"
+    }
   },
   {
     "id": "de_2423",
+    "lang": "de",
     "lemma": "erwidern",
     "pos": "Verb",
     "cefr": "B2",
@@ -19047,17 +17859,16 @@ const WORDS_DE_B2 = [
       "ja": "返答する",
       "zh": "回答",
       "ru": "возражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erwidern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2424",
+    "lang": "de",
     "lemma": "speicher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "speicher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19075,17 +17886,16 @@ const WORDS_DE_B2 = [
       "ja": "倉庫",
       "zh": "仓库",
       "ru": "хранилище"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "speicher"
+    }
   },
   {
     "id": "de_2426",
+    "lang": "de",
     "lemma": "periode",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "perioden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19102,15 +17912,11 @@ const WORDS_DE_B2 = [
       "ja": "時期",
       "zh": "时期",
       "ru": "период"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "perioden"
+    }
   },
   {
     "id": "de_2440",
+    "lang": "de",
     "lemma": "wiederfinden",
     "pos": "Verb",
     "cefr": "B2",
@@ -19130,17 +17936,16 @@ const WORDS_DE_B2 = [
       "ja": "再び見つける",
       "zh": "重新找到",
       "ru": "найти снова"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wiederfinden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2446",
+    "lang": "de",
     "lemma": "stecker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stecker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19158,17 +17963,16 @@ const WORDS_DE_B2 = [
       "ja": "プラグ",
       "zh": "插头",
       "ru": "штепсель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stecker"
+    }
   },
   {
     "id": "de_2447",
+    "lang": "de",
     "lemma": "republikaner",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "republikaner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19185,17 +17989,16 @@ const WORDS_DE_B2 = [
       "ja": "共和主義者",
       "zh": "共和主义者",
       "ru": "республиканец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "republikaner"
+    }
   },
   {
     "id": "de_2448",
+    "lang": "de",
     "lemma": "gottesdienst",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gottesdienste",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19213,17 +18016,16 @@ const WORDS_DE_B2 = [
       "ja": "礼拝",
       "zh": "礼拜",
       "ru": "богослужение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gottesdienste"
+    }
   },
   {
     "id": "de_2450",
+    "lang": "de",
     "lemma": "gebieter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gebieter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19241,17 +18043,16 @@ const WORDS_DE_B2 = [
       "ja": "支配者",
       "zh": "统治者",
       "ru": "повелитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gebieter"
+    }
   },
   {
     "id": "de_2456",
+    "lang": "de",
     "lemma": "beton",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "betons",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19269,15 +18070,11 @@ const WORDS_DE_B2 = [
       "ja": "コンクリート",
       "zh": "混凝土",
       "ru": "бетон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "betons"
+    }
   },
   {
     "id": "de_2458",
+    "lang": "de",
     "lemma": "ausreichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -19297,17 +18094,16 @@ const WORDS_DE_B2 = [
       "ja": "十分である",
       "zh": "足够",
       "ru": "хватать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausreichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2459",
+    "lang": "de",
     "lemma": "sabotage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sabotagen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19325,17 +18121,16 @@ const WORDS_DE_B2 = [
       "ja": "破壊行為",
       "zh": "破坏",
       "ru": "саботаж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sabotagen"
+    }
   },
   {
     "id": "de_2461",
+    "lang": "de",
     "lemma": "geburtstagsgeschenk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "geburtstagsgeschenke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19353,17 +18148,16 @@ const WORDS_DE_B2 = [
       "ja": "誕生日プレゼント",
       "zh": "生日礼物",
       "ru": "подарок на день рождения"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "geburtstagsgeschenke"
+    }
   },
   {
     "id": "de_2462",
+    "lang": "de",
     "lemma": "rotwein",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "rotweine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19381,17 +18175,16 @@ const WORDS_DE_B2 = [
       "ja": "赤ワイン",
       "zh": "红葡萄酒",
       "ru": "красное вино"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "rotweine"
+    }
   },
   {
     "id": "de_2472",
+    "lang": "de",
     "lemma": "taschengeld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "taschengelder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19409,17 +18202,16 @@ const WORDS_DE_B2 = [
       "ja": "お小遣い",
       "zh": "零花钱",
       "ru": "карманные деньги"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "taschengelder"
+    }
   },
   {
     "id": "de_2474",
+    "lang": "de",
     "lemma": "herzanfall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "herzanfälle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19437,17 +18229,16 @@ const WORDS_DE_B2 = [
       "ja": "心臓発作",
       "zh": "心脏病发作",
       "ru": "сердечный приступ"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "herzanfälle"
+    }
   },
   {
     "id": "de_2475",
+    "lang": "de",
     "lemma": "wirbelsäule",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "wirbelsäulen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19465,17 +18256,16 @@ const WORDS_DE_B2 = [
       "ja": "脊椎",
       "zh": "脊柱",
       "ru": "позвоночник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wirbelsäulen"
+    }
   },
   {
     "id": "de_2476",
+    "lang": "de",
     "lemma": "genuss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "genüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19493,17 +18283,16 @@ const WORDS_DE_B2 = [
       "ja": "喜び",
       "zh": "快乐",
       "ru": "удовольствие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "genüsse"
+    }
   },
   {
     "id": "de_2477",
+    "lang": "de",
     "lemma": "flyer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "flyer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19521,17 +18310,16 @@ const WORDS_DE_B2 = [
       "ja": "チラシ",
       "zh": "传单",
       "ru": "листовка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "flyer"
+    }
   },
   {
     "id": "de_2481",
+    "lang": "de",
     "lemma": "notwendigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "notwendigkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19549,17 +18337,16 @@ const WORDS_DE_B2 = [
       "ja": "必要性",
       "zh": "必要性",
       "ru": "необходимость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "notwendigkeiten"
+    }
   },
   {
     "id": "de_2484",
+    "lang": "de",
     "lemma": "korn",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "körner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19577,17 +18364,16 @@ const WORDS_DE_B2 = [
       "ja": "穀物",
       "zh": "谷物",
       "ru": "зерно"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "körner"
+    }
   },
   {
     "id": "de_2485",
+    "lang": "de",
     "lemma": "fülle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "füllen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19605,17 +18391,16 @@ const WORDS_DE_B2 = [
       "ja": "豊富",
       "zh": "丰富",
       "ru": "изобилие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "füllen"
+    }
   },
   {
     "id": "de_2490",
+    "lang": "de",
     "lemma": "inspektion",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "inspektionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19633,15 +18418,11 @@ const WORDS_DE_B2 = [
       "ja": "検査",
       "zh": "检查",
       "ru": "инспекция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "inspektionen"
+    }
   },
   {
     "id": "de_2493",
+    "lang": "de",
     "lemma": "überholt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19661,12 +18442,11 @@ const WORDS_DE_B2 = [
       "ja": "時代遅れの",
       "zh": "过时的",
       "ru": "устаревший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2494",
+    "lang": "de",
     "lemma": "wörtlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19686,14 +18466,16 @@ const WORDS_DE_B2 = [
       "ja": "文字通りの",
       "zh": "字面的",
       "ru": "буквальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2496",
+    "lang": "de",
     "lemma": "kontinent",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kontinente",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19711,17 +18493,16 @@ const WORDS_DE_B2 = [
       "ja": "大陸",
       "zh": "大陆",
       "ru": "континент"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kontinente"
+    }
   },
   {
     "id": "de_2499",
+    "lang": "de",
     "lemma": "wachs",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "wachse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19739,17 +18520,16 @@ const WORDS_DE_B2 = [
       "ja": "ワックス",
       "zh": "蜡",
       "ru": "воск"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "wachse"
+    }
   },
   {
     "id": "de_2500",
+    "lang": "de",
     "lemma": "eintrag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "einträge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19767,15 +18547,11 @@ const WORDS_DE_B2 = [
       "ja": "記入",
       "zh": "条目",
       "ru": "запись"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "einträge"
+    }
   },
   {
     "id": "de_2501",
+    "lang": "de",
     "lemma": "lindern",
     "pos": "Verb",
     "cefr": "B2",
@@ -19794,15 +18570,11 @@ const WORDS_DE_B2 = [
       "ja": "緩和する",
       "zh": "缓解",
       "ru": "облегчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lindern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2504",
+    "lang": "de",
     "lemma": "hinstellen",
     "pos": "Verb",
     "cefr": "B2",
@@ -19822,15 +18594,11 @@ const WORDS_DE_B2 = [
       "ja": "置く",
       "zh": "放置",
       "ru": "ставить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hinstellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2506",
+    "lang": "de",
     "lemma": "entsprechen",
     "pos": "Verb",
     "cefr": "B2",
@@ -19849,15 +18617,11 @@ const WORDS_DE_B2 = [
       "ja": "一致する",
       "zh": "相符",
       "ru": "соответствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entsprechen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2512",
+    "lang": "de",
     "lemma": "düster",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19877,14 +18641,16 @@ const WORDS_DE_B2 = [
       "ja": "暗い",
       "zh": "阴沉",
       "ru": "мрачный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2515",
+    "lang": "de",
     "lemma": "joghurt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "joghurts",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19902,17 +18668,16 @@ const WORDS_DE_B2 = [
       "ja": "ヨーグルト",
       "zh": "酸奶",
       "ru": "йогурт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "joghurts"
+    }
   },
   {
     "id": "de_2518",
+    "lang": "de",
     "lemma": "ellbogen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ellbogen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19930,17 +18695,16 @@ const WORDS_DE_B2 = [
       "ja": "肘",
       "zh": "肘部",
       "ru": "локоть"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ellbogen"
+    }
   },
   {
     "id": "de_2520",
+    "lang": "de",
     "lemma": "begrüßung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "begrüßungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -19959,15 +18723,11 @@ const WORDS_DE_B2 = [
       "ja": "挨拶",
       "zh": "问候",
       "ru": "приветствие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "begrüßungen"
+    }
   },
   {
     "id": "de_2521",
+    "lang": "de",
     "lemma": "dauerhaft",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19987,14 +18747,16 @@ const WORDS_DE_B2 = [
       "ja": "恒久的",
       "zh": "持久",
       "ru": "постоянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2522",
+    "lang": "de",
     "lemma": "windel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "windeln",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20011,17 +18773,16 @@ const WORDS_DE_B2 = [
       "ja": "おむつ",
       "zh": "尿布",
       "ru": "подгузник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "windeln"
+    }
   },
   {
     "id": "de_2524",
+    "lang": "de",
     "lemma": "blüte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "blüten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20039,15 +18800,11 @@ const WORDS_DE_B2 = [
       "ja": "花",
       "zh": "花",
       "ru": "цветок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "blüten"
+    }
   },
   {
     "id": "de_2525",
+    "lang": "de",
     "lemma": "ungefährlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20067,14 +18824,16 @@ const WORDS_DE_B2 = [
       "ja": "安全",
       "zh": "安全",
       "ru": "безопасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2526",
+    "lang": "de",
     "lemma": "versorgung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "versorgungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20092,17 +18851,16 @@ const WORDS_DE_B2 = [
       "ja": "供給",
       "zh": "供应",
       "ru": "снабжение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "versorgungen"
+    }
   },
   {
     "id": "de_2529",
+    "lang": "de",
     "lemma": "tagesanbruch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tagesanbrüche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20120,15 +18878,11 @@ const WORDS_DE_B2 = [
       "ja": "夜明け",
       "zh": "黎明",
       "ru": "рассвет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tagesanbrüche"
+    }
   },
   {
     "id": "de_2540",
+    "lang": "de",
     "lemma": "beitragen",
     "pos": "Verb",
     "cefr": "B2",
@@ -20148,15 +18902,11 @@ const WORDS_DE_B2 = [
       "ja": "貢献する",
       "zh": "贡献",
       "ru": "способствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beitragen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2542",
+    "lang": "de",
     "lemma": "plündern",
     "pos": "Verb",
     "cefr": "B2",
@@ -20175,17 +18925,16 @@ const WORDS_DE_B2 = [
       "ja": "略奪する",
       "zh": "掠夺",
       "ru": "грабить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "plündern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2551",
+    "lang": "de",
     "lemma": "mülleimer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "mülleimer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20203,15 +18952,11 @@ const WORDS_DE_B2 = [
       "ja": "ゴミ箱",
       "zh": "垃圾桶",
       "ru": "мусорное ведро"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "mülleimer"
+    }
   },
   {
     "id": "de_2552",
+    "lang": "de",
     "lemma": "definieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -20231,15 +18976,11 @@ const WORDS_DE_B2 = [
       "ja": "定義する",
       "zh": "定义",
       "ru": "определять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "definieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2557",
+    "lang": "de",
     "lemma": "verlängern",
     "pos": "Verb",
     "cefr": "B2",
@@ -20259,17 +19000,16 @@ const WORDS_DE_B2 = [
       "ja": "延長する",
       "zh": "延长",
       "ru": "продлевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verlängern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2558",
+    "lang": "de",
     "lemma": "schauspiel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "schauspiele",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20287,17 +19027,16 @@ const WORDS_DE_B2 = [
       "ja": "劇",
       "zh": "戏剧",
       "ru": "пьеса"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "schauspiele"
+    }
   },
   {
     "id": "de_2560",
+    "lang": "de",
     "lemma": "vers",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20315,17 +19054,16 @@ const WORDS_DE_B2 = [
       "ja": "詩",
       "zh": "诗",
       "ru": "стих"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verse"
+    }
   },
   {
     "id": "de_2561",
+    "lang": "de",
     "lemma": "getreide",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "getreide",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20343,17 +19081,16 @@ const WORDS_DE_B2 = [
       "ja": "穀物",
       "zh": "谷物",
       "ru": "зерно"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "getreide"
+    }
   },
   {
     "id": "de_2570",
+    "lang": "de",
     "lemma": "trommel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "trommeln",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20371,17 +19108,16 @@ const WORDS_DE_B2 = [
       "ja": "太鼓",
       "zh": "鼓",
       "ru": "барабан"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "trommeln"
+    }
   },
   {
     "id": "de_2574",
+    "lang": "de",
     "lemma": "logo",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "logos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20399,17 +19135,16 @@ const WORDS_DE_B2 = [
       "ja": "ロゴ",
       "zh": "标志",
       "ru": "логотип"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "logos"
+    }
   },
   {
     "id": "de_2575",
+    "lang": "de",
     "lemma": "lover",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "lover",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20426,15 +19161,11 @@ const WORDS_DE_B2 = [
       "ja": "恋人",
       "zh": "情人",
       "ru": "любовник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "lover"
+    }
   },
   {
     "id": "de_2577",
+    "lang": "de",
     "lemma": "wegzukommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -20454,15 +19185,11 @@ const WORDS_DE_B2 = [
       "ja": "去る",
       "zh": "离开",
       "ru": "уходить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegzukommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2579",
+    "lang": "de",
     "lemma": "mitzukommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -20482,17 +19209,16 @@ const WORDS_DE_B2 = [
       "ja": "一緒に行く",
       "zh": "一起去",
       "ru": "идти с собой"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mitzukommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2581",
+    "lang": "de",
     "lemma": "puzzle",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "puzzles",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20510,15 +19236,11 @@ const WORDS_DE_B2 = [
       "ja": "パズル",
       "zh": "拼图",
       "ru": "головоломка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "puzzles"
+    }
   },
   {
     "id": "de_2583",
+    "lang": "de",
     "lemma": "faulen",
     "pos": "Verb",
     "cefr": "B2",
@@ -20538,17 +19260,16 @@ const WORDS_DE_B2 = [
       "ja": "腐る",
       "zh": "腐烂",
       "ru": "гнить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "faulen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2590",
+    "lang": "de",
     "lemma": "pfiff",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pfiffe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20566,15 +19287,11 @@ const WORDS_DE_B2 = [
       "ja": "口笛",
       "zh": "口哨",
       "ru": "свист"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pfiffe"
+    }
   },
   {
     "id": "de_2595",
+    "lang": "de",
     "lemma": "zornig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20595,12 +19312,11 @@ const WORDS_DE_B2 = [
       "ja": "怒った",
       "zh": "愤怒的",
       "ru": "сердитый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2601",
+    "lang": "de",
     "lemma": "religiös",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20620,14 +19336,16 @@ const WORDS_DE_B2 = [
       "ja": "宗教的な",
       "zh": "宗教的",
       "ru": "религиозный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2603",
+    "lang": "de",
     "lemma": "elite",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eliten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20645,17 +19363,16 @@ const WORDS_DE_B2 = [
       "ja": "エリート",
       "zh": "精英",
       "ru": "элита"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eliten"
+    }
   },
   {
     "id": "de_2607",
+    "lang": "de",
     "lemma": "befugnis",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "befugnisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20672,17 +19389,16 @@ const WORDS_DE_B2 = [
       "ja": "権限",
       "zh": "权限",
       "ru": "полномочие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "befugnisse"
+    }
   },
   {
     "id": "de_2621",
+    "lang": "de",
     "lemma": "fährte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "fährten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20700,15 +19416,11 @@ const WORDS_DE_B2 = [
       "ja": "足跡",
       "zh": "足迹",
       "ru": "след"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fährten"
+    }
   },
   {
     "id": "de_2625",
+    "lang": "de",
     "lemma": "neigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -20728,17 +19440,16 @@ const WORDS_DE_B2 = [
       "ja": "傾く",
       "zh": "倾斜",
       "ru": "наклоняться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "neigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2626",
+    "lang": "de",
     "lemma": "kunstwerk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kunstwerke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20755,17 +19466,16 @@ const WORDS_DE_B2 = [
       "ja": "芸術作品",
       "zh": "艺术作品",
       "ru": "произведение искусства"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kunstwerke"
+    }
   },
   {
     "id": "de_2631",
+    "lang": "de",
     "lemma": "kamm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kämme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20783,17 +19493,16 @@ const WORDS_DE_B2 = [
       "ja": "櫛",
       "zh": "梳子",
       "ru": "расческа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kämme"
+    }
   },
   {
     "id": "de_2636",
+    "lang": "de",
     "lemma": "pelz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pelze",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20811,17 +19520,16 @@ const WORDS_DE_B2 = [
       "ja": "毛皮",
       "zh": "毛皮",
       "ru": "мех"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pelze"
+    }
   },
   {
     "id": "de_2637",
+    "lang": "de",
     "lemma": "regenbogen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "regenbogen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20839,15 +19547,11 @@ const WORDS_DE_B2 = [
       "ja": "虹",
       "zh": "彩虹",
       "ru": "радуга"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "regenbogen"
+    }
   },
   {
     "id": "de_2638",
+    "lang": "de",
     "lemma": "zitieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -20866,15 +19570,11 @@ const WORDS_DE_B2 = [
       "ja": "引用する",
       "zh": "引用",
       "ru": "цитировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zitieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2641",
+    "lang": "de",
     "lemma": "blamieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -20893,17 +19593,16 @@ const WORDS_DE_B2 = [
       "ja": "恥をかかせる",
       "zh": "使尴尬",
       "ru": "позорить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blamieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2645",
+    "lang": "de",
     "lemma": "freigabe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "freigaben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20920,17 +19619,15 @@ const WORDS_DE_B2 = [
       "ja": "承認",
       "zh": "批准",
       "ru": "одобрение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "freigaben"
+    }
   },
   {
     "id": "de_2649",
+    "lang": "de",
     "lemma": "mittelalter",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20947,17 +19644,16 @@ const WORDS_DE_B2 = [
       "ja": "中世",
       "zh": "中世纪",
       "ru": "Средневековье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_2650",
+    "lang": "de",
     "lemma": "skript",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "skripte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -20974,17 +19670,16 @@ const WORDS_DE_B2 = [
       "ja": "スクリプト",
       "zh": "讲义",
       "ru": "конспект"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "skripte"
+    }
   },
   {
     "id": "de_2653",
+    "lang": "de",
     "lemma": "geldbeutel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "geldbeutel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21002,17 +19697,16 @@ const WORDS_DE_B2 = [
       "ja": "財布",
       "zh": "钱包",
       "ru": "кошелек"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "geldbeutel"
+    }
   },
   {
     "id": "de_2658",
+    "lang": "de",
     "lemma": "motivation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "motivationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21030,17 +19724,16 @@ const WORDS_DE_B2 = [
       "ja": "動機",
       "zh": "动机",
       "ru": "мотивация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "motivationen"
+    }
   },
   {
     "id": "de_2663",
+    "lang": "de",
     "lemma": "konferenzraum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "konferenzräume",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21058,15 +19751,11 @@ const WORDS_DE_B2 = [
       "ja": "会議室",
       "zh": "会议室",
       "ru": "конференц-зал"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "konferenzräume"
+    }
   },
   {
     "id": "de_2664",
+    "lang": "de",
     "lemma": "beteiligen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21086,17 +19775,16 @@ const WORDS_DE_B2 = [
       "ja": "参加する",
       "zh": "参与",
       "ru": "участвовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beteiligen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2666",
+    "lang": "de",
     "lemma": "plattform",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "plattformen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21114,17 +19802,16 @@ const WORDS_DE_B2 = [
       "ja": "プラットフォーム",
       "zh": "平台",
       "ru": "платформа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "plattformen"
+    }
   },
   {
     "id": "de_2668",
+    "lang": "de",
     "lemma": "bündnis",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "bündnisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21142,17 +19829,16 @@ const WORDS_DE_B2 = [
       "ja": "同盟",
       "zh": "同盟",
       "ru": "союз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "bündnisse"
+    }
   },
   {
     "id": "de_2672",
+    "lang": "de",
     "lemma": "küken",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "küken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21170,17 +19856,16 @@ const WORDS_DE_B2 = [
       "ja": "ひよこ",
       "zh": "小鸡",
       "ru": "цыпленок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "küken"
+    }
   },
   {
     "id": "de_2676",
+    "lang": "de",
     "lemma": "lagerraum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "lagerräume",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21198,17 +19883,16 @@ const WORDS_DE_B2 = [
       "ja": "倉庫",
       "zh": "仓库",
       "ru": "складское помещение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "lagerräume"
+    }
   },
   {
     "id": "de_2677",
+    "lang": "de",
     "lemma": "spieß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "spieße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21225,17 +19909,16 @@ const WORDS_DE_B2 = [
       "ja": "槍",
       "zh": "矛",
       "ru": "копье"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "spieße"
+    }
   },
   {
     "id": "de_2678",
+    "lang": "de",
     "lemma": "knete",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kneten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21253,15 +19936,11 @@ const WORDS_DE_B2 = [
       "ja": "粘土",
       "zh": "黏土",
       "ru": "пластилин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kneten"
+    }
   },
   {
     "id": "de_2682",
+    "lang": "de",
     "lemma": "hinkommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21281,15 +19960,11 @@ const WORDS_DE_B2 = [
       "ja": "到着する",
       "zh": "到达",
       "ru": "прибывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hinkommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2683",
+    "lang": "de",
     "lemma": "leichtsinnig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21308,14 +19983,16 @@ const WORDS_DE_B2 = [
       "ja": "軽率な",
       "zh": "轻率的",
       "ru": "легкомысленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2686",
+    "lang": "de",
     "lemma": "aufseher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aufseher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21333,17 +20010,16 @@ const WORDS_DE_B2 = [
       "ja": "監視者",
       "zh": "监督者",
       "ru": "надзиратель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aufseher"
+    }
   },
   {
     "id": "de_2689",
+    "lang": "de",
     "lemma": "horde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "horden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21361,15 +20037,11 @@ const WORDS_DE_B2 = [
       "ja": "群れ",
       "zh": "群体",
       "ru": "орда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "horden"
+    }
   },
   {
     "id": "de_2691",
+    "lang": "de",
     "lemma": "sehnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21388,17 +20060,16 @@ const WORDS_DE_B2 = [
       "ja": "憧れる",
       "zh": "渴望",
       "ru": "тосковать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sehnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2693",
+    "lang": "de",
     "lemma": "doppelgänger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "doppelgänger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21415,17 +20086,16 @@ const WORDS_DE_B2 = [
       "ja": "分身",
       "zh": "分身",
       "ru": "двойник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "doppelgänger"
+    }
   },
   {
     "id": "de_2695",
+    "lang": "de",
     "lemma": "kinderzimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kinderzimmer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21443,15 +20113,11 @@ const WORDS_DE_B2 = [
       "ja": "子ども部屋",
       "zh": "儿童房",
       "ru": "детская комната"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kinderzimmer"
+    }
   },
   {
     "id": "de_2696",
+    "lang": "de",
     "lemma": "vorführen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21471,17 +20137,16 @@ const WORDS_DE_B2 = [
       "ja": "実演する",
       "zh": "演示",
       "ru": "демонстрировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vorführen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2698",
+    "lang": "de",
     "lemma": "vorwarnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorwarnungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21498,17 +20163,16 @@ const WORDS_DE_B2 = [
       "ja": "事前警告",
       "zh": "预先警告",
       "ru": "предварительное предупреждение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorwarnungen"
+    }
   },
   {
     "id": "de_2701",
+    "lang": "de",
     "lemma": "einschätzung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "einschätzungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21526,15 +20190,11 @@ const WORDS_DE_B2 = [
       "ja": "評価",
       "zh": "评估",
       "ru": "оценка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "einschätzungen"
+    }
   },
   {
     "id": "de_2702",
+    "lang": "de",
     "lemma": "vorspielen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21554,17 +20214,16 @@ const WORDS_DE_B2 = [
       "ja": "演奏する",
       "zh": "演奏",
       "ru": "исполнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vorspielen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2705",
+    "lang": "de",
     "lemma": "beihilfe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "beihilfen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21582,17 +20241,16 @@ const WORDS_DE_B2 = [
       "ja": "補助金",
       "zh": "补助金",
       "ru": "субсидия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "beihilfen"
+    }
   },
   {
     "id": "de_2706",
+    "lang": "de",
     "lemma": "unkraut",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "unkräuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21610,15 +20268,11 @@ const WORDS_DE_B2 = [
       "ja": "雑草",
       "zh": "杂草",
       "ru": "сорняк"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "unkräuter"
+    }
   },
   {
     "id": "de_2715",
+    "lang": "de",
     "lemma": "objektiv",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21637,14 +20291,16 @@ const WORDS_DE_B2 = [
       "ja": "客観的な",
       "zh": "客观的",
       "ru": "объективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2717",
+    "lang": "de",
     "lemma": "vorliebe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorlieben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21662,17 +20318,16 @@ const WORDS_DE_B2 = [
       "ja": "好み",
       "zh": "偏好",
       "ru": "предпочтение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorlieben"
+    }
   },
   {
     "id": "de_2720",
+    "lang": "de",
     "lemma": "ai",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ais",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21690,15 +20345,11 @@ const WORDS_DE_B2 = [
       "ja": "ナマケモノ",
       "zh": "树懒",
       "ru": "ленивец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ais"
+    }
   },
   {
     "id": "de_2721",
+    "lang": "de",
     "lemma": "abfeuern",
     "pos": "Verb",
     "cefr": "B2",
@@ -21717,15 +20368,11 @@ const WORDS_DE_B2 = [
       "ja": "発射する",
       "zh": "发射",
       "ru": "выстреливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abfeuern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2722",
+    "lang": "de",
     "lemma": "seufzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21745,17 +20392,16 @@ const WORDS_DE_B2 = [
       "ja": "ため息をつく",
       "zh": "叹气",
       "ru": "вздыхать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "seufzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2727",
+    "lang": "de",
     "lemma": "kommunist",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kommunisten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21772,17 +20418,16 @@ const WORDS_DE_B2 = [
       "ja": "共産主義者",
       "zh": "共产主义者",
       "ru": "коммунист"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kommunisten"
+    }
   },
   {
     "id": "de_2730",
+    "lang": "de",
     "lemma": "feuerwehrmann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "feuerwehrmänner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21800,17 +20445,16 @@ const WORDS_DE_B2 = [
       "ja": "消防士",
       "zh": "消防员",
       "ru": "пожарный"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "feuerwehrmänner"
+    }
   },
   {
     "id": "de_2731",
+    "lang": "de",
     "lemma": "kopfhörer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kopfhörer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21828,15 +20472,11 @@ const WORDS_DE_B2 = [
       "ja": "ヘッドフォン",
       "zh": "耳机",
       "ru": "наушники"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kopfhörer"
+    }
   },
   {
     "id": "de_2733",
+    "lang": "de",
     "lemma": "zugreifen",
     "pos": "Verb",
     "cefr": "B2",
@@ -21856,17 +20496,16 @@ const WORDS_DE_B2 = [
       "ja": "つかむ",
       "zh": "抓住",
       "ru": "схватить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zugreifen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2734",
+    "lang": "de",
     "lemma": "musical",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "musicals",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21884,17 +20523,16 @@ const WORDS_DE_B2 = [
       "ja": "ミュージカル",
       "zh": "音乐剧",
       "ru": "мюзикл"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "musicals"
+    }
   },
   {
     "id": "de_2740",
+    "lang": "de",
     "lemma": "appartement",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "appartements",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21912,17 +20550,16 @@ const WORDS_DE_B2 = [
       "ja": "アパート",
       "zh": "公寓",
       "ru": "апартамент"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "appartements"
+    }
   },
   {
     "id": "de_2743",
+    "lang": "de",
     "lemma": "entschädigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "entschädigungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21939,17 +20576,16 @@ const WORDS_DE_B2 = [
       "ja": "補償金",
       "zh": "赔偿金",
       "ru": "компенсация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "entschädigungen"
+    }
   },
   {
     "id": "de_2744",
+    "lang": "de",
     "lemma": "reiz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "reize",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21966,17 +20602,16 @@ const WORDS_DE_B2 = [
       "ja": "刺激",
       "zh": "刺激",
       "ru": "раздражитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "reize"
+    }
   },
   {
     "id": "de_2747",
+    "lang": "de",
     "lemma": "gatte",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gatten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -21994,17 +20629,16 @@ const WORDS_DE_B2 = [
       "ja": "夫",
       "zh": "丈夫",
       "ru": "муж"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gatten"
+    }
   },
   {
     "id": "de_2748",
+    "lang": "de",
     "lemma": "überblick",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "überblicke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22021,17 +20655,16 @@ const WORDS_DE_B2 = [
       "ja": "概要",
       "zh": "概览",
       "ru": "обзор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "überblicke"
+    }
   },
   {
     "id": "de_2749",
+    "lang": "de",
     "lemma": "lebensstil",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "lebensstile",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22048,15 +20681,11 @@ const WORDS_DE_B2 = [
       "ja": "ライフスタイル",
       "zh": "生活方式",
       "ru": "образ жизни"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "lebensstile"
+    }
   },
   {
     "id": "de_2751",
+    "lang": "de",
     "lemma": "wesentliche",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22075,12 +20704,11 @@ const WORDS_DE_B2 = [
       "ja": "本質的な",
       "zh": "本质的",
       "ru": "существенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2754",
+    "lang": "de",
     "lemma": "steigern",
     "pos": "Verb",
     "cefr": "B2",
@@ -22100,17 +20728,16 @@ const WORDS_DE_B2 = [
       "ja": "増やす",
       "zh": "增加",
       "ru": "увеличивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "steigern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2755",
+    "lang": "de",
     "lemma": "handbuch",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "handbücher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22127,17 +20754,15 @@ const WORDS_DE_B2 = [
       "ja": "ハンドブック",
       "zh": "手册",
       "ru": "справочник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "handbücher"
+    }
   },
   {
     "id": "de_2757",
+    "lang": "de",
     "lemma": "milde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22154,15 +20779,11 @@ const WORDS_DE_B2 = [
       "ja": "温和さ",
       "zh": "温和",
       "ru": "мягкость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_2758",
+    "lang": "de",
     "lemma": "milde",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22182,14 +20803,15 @@ const WORDS_DE_B2 = [
       "ja": "温和な",
       "zh": "温和的",
       "ru": "мягкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2759",
+    "lang": "de",
     "lemma": "perfektion",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22206,17 +20828,16 @@ const WORDS_DE_B2 = [
       "ja": "完璧さ",
       "zh": "完美",
       "ru": "совершенство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_2766",
+    "lang": "de",
     "lemma": "fakultät",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "fakultäten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22233,17 +20854,16 @@ const WORDS_DE_B2 = [
       "ja": "学部",
       "zh": "学院",
       "ru": "факультет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "fakultäten"
+    }
   },
   {
     "id": "de_2772",
+    "lang": "de",
     "lemma": "schlagzeile",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schlagzeilen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22261,17 +20881,16 @@ const WORDS_DE_B2 = [
       "ja": "見出し",
       "zh": "标题",
       "ru": "заголовок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schlagzeilen"
+    }
   },
   {
     "id": "de_2776",
+    "lang": "de",
     "lemma": "streichholz",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "streichhölzer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22289,17 +20908,16 @@ const WORDS_DE_B2 = [
       "ja": "マッチ",
       "zh": "火柴",
       "ru": "спичка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "streichhölzer"
+    }
   },
   {
     "id": "de_2780",
+    "lang": "de",
     "lemma": "verwalter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verwalter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22317,17 +20935,16 @@ const WORDS_DE_B2 = [
       "ja": "管理者",
       "zh": "管理员",
       "ru": "администратор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verwalter"
+    }
   },
   {
     "id": "de_2787",
+    "lang": "de",
     "lemma": "organismus",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "organismen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22344,17 +20961,16 @@ const WORDS_DE_B2 = [
       "ja": "有機体",
       "zh": "有机体",
       "ru": "организм"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "organismen"
+    }
   },
   {
     "id": "de_2788",
+    "lang": "de",
     "lemma": "potential",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "potentiale",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22371,17 +20987,16 @@ const WORDS_DE_B2 = [
       "ja": "可能性",
       "zh": "潜力",
       "ru": "потенциал"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "potentiale"
+    }
   },
   {
     "id": "de_2791",
+    "lang": "de",
     "lemma": "vorladung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorladungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22398,15 +21013,11 @@ const WORDS_DE_B2 = [
       "ja": "召喚状",
       "zh": "传票",
       "ru": "повестка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorladungen"
+    }
   },
   {
     "id": "de_2794",
+    "lang": "de",
     "lemma": "unterbringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -22426,17 +21037,16 @@ const WORDS_DE_B2 = [
       "ja": "宿泊させる",
       "zh": "提供住宿",
       "ru": "размещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "unterbringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2796",
+    "lang": "de",
     "lemma": "lebensversicherung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lebensversicherungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22453,17 +21063,16 @@ const WORDS_DE_B2 = [
       "ja": "生命保険",
       "zh": "人寿保险",
       "ru": "страховка жизни"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lebensversicherungen"
+    }
   },
   {
     "id": "de_2797",
+    "lang": "de",
     "lemma": "meisterschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "meisterschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22481,15 +21090,11 @@ const WORDS_DE_B2 = [
       "ja": "選手権",
       "zh": "锦标赛",
       "ru": "чемпионат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "meisterschaften"
+    }
   },
   {
     "id": "de_2799",
+    "lang": "de",
     "lemma": "aufgeweckt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22509,12 +21114,11 @@ const WORDS_DE_B2 = [
       "ja": "聡明な",
       "zh": "机灵的",
       "ru": "сообразительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2800",
+    "lang": "de",
     "lemma": "erkunden",
     "pos": "Verb",
     "cefr": "B2",
@@ -22534,15 +21138,11 @@ const WORDS_DE_B2 = [
       "ja": "探検する",
       "zh": "探索",
       "ru": "исследовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erkunden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2801",
+    "lang": "de",
     "lemma": "verwundbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22561,12 +21161,11 @@ const WORDS_DE_B2 = [
       "ja": "傷つきやすい",
       "zh": "易受伤的",
       "ru": "уязвимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2803",
+    "lang": "de",
     "lemma": "gekonnt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22586,12 +21185,11 @@ const WORDS_DE_B2 = [
       "ja": "巧妙な",
       "zh": "熟练的",
       "ru": "искусный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2806",
+    "lang": "de",
     "lemma": "beleidigend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22611,12 +21209,11 @@ const WORDS_DE_B2 = [
       "ja": "侮辱的な",
       "zh": "侮辱性的",
       "ru": "оскорбительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2807",
+    "lang": "de",
     "lemma": "vergnügt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22636,12 +21233,11 @@ const WORDS_DE_B2 = [
       "ja": "楽しい",
       "zh": "愉快的",
       "ru": "довольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2808",
+    "lang": "de",
     "lemma": "wischen",
     "pos": "Verb",
     "cefr": "B2",
@@ -22661,15 +21257,11 @@ const WORDS_DE_B2 = [
       "ja": "拭く",
       "zh": "擦",
       "ru": "вытирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wischen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2816",
+    "lang": "de",
     "lemma": "beladen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22688,12 +21280,11 @@ const WORDS_DE_B2 = [
       "ja": "積み込まれた",
       "zh": "装载的",
       "ru": "нагруженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2817",
+    "lang": "de",
     "lemma": "beladen",
     "pos": "Verb",
     "cefr": "B2",
@@ -22713,17 +21304,16 @@ const WORDS_DE_B2 = [
       "ja": "積み込む",
       "zh": "装载",
       "ru": "нагружать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beladen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2820",
+    "lang": "de",
     "lemma": "esszimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "esszimmer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22741,17 +21331,16 @@ const WORDS_DE_B2 = [
       "ja": "食堂",
       "zh": "餐厅",
       "ru": "столовая"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "esszimmer"
+    }
   },
   {
     "id": "de_2823",
+    "lang": "de",
     "lemma": "patriot",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "patrioten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22768,17 +21357,16 @@ const WORDS_DE_B2 = [
       "ja": "愛国者",
       "zh": "爱国者",
       "ru": "патриот"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "patrioten"
+    }
   },
   {
     "id": "de_2824",
+    "lang": "de",
     "lemma": "gehaltserhöhung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gehaltserhöhungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22796,17 +21384,16 @@ const WORDS_DE_B2 = [
       "ja": "給与引き上げ",
       "zh": "加薪",
       "ru": "повышение зарплаты"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gehaltserhöhungen"
+    }
   },
   {
     "id": "de_2826",
+    "lang": "de",
     "lemma": "kreuzfahrt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kreuzfahrten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22824,17 +21411,16 @@ const WORDS_DE_B2 = [
       "ja": "クルーズ旅行",
       "zh": "邮轮旅行",
       "ru": "круиз"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kreuzfahrten"
+    }
   },
   {
     "id": "de_2827",
+    "lang": "de",
     "lemma": "klon",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "klone",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22851,15 +21437,11 @@ const WORDS_DE_B2 = [
       "ja": "クローン",
       "zh": "克隆",
       "ru": "клон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "klone"
+    }
   },
   {
     "id": "de_2833",
+    "lang": "de",
     "lemma": "auszuführen",
     "pos": "Verb",
     "cefr": "B2",
@@ -22879,17 +21461,16 @@ const WORDS_DE_B2 = [
       "ja": "実行する",
       "zh": "执行",
       "ru": "выполнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auszuführen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2834",
+    "lang": "de",
     "lemma": "app",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "apps",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22907,15 +21488,11 @@ const WORDS_DE_B2 = [
       "ja": "アプリ",
       "zh": "应用程序",
       "ru": "приложение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "apps"
+    }
   },
   {
     "id": "de_2836",
+    "lang": "de",
     "lemma": "aufbringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -22935,15 +21512,11 @@ const WORDS_DE_B2 = [
       "ja": "怒らせる",
       "zh": "激怒",
       "ru": "раздражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufbringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2837",
+    "lang": "de",
     "lemma": "anstarren",
     "pos": "Verb",
     "cefr": "B2",
@@ -22963,17 +21536,15 @@ const WORDS_DE_B2 = [
       "ja": "じっと見つめる",
       "zh": "盯着看",
       "ru": "пристально смотреть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anstarren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2842",
+    "lang": "de",
     "lemma": "wachstum",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -22991,17 +21562,15 @@ const WORDS_DE_B2 = [
       "ja": "成長",
       "zh": "增长",
       "ru": "рост"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_2844",
+    "lang": "de",
     "lemma": "zufriedenheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23019,15 +21588,11 @@ const WORDS_DE_B2 = [
       "ja": "満足",
       "zh": "满足",
       "ru": "удовлетворение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_2848",
+    "lang": "de",
     "lemma": "beitreten",
     "pos": "Verb",
     "cefr": "B2",
@@ -23047,15 +21612,11 @@ const WORDS_DE_B2 = [
       "ja": "加入する",
       "zh": "加入",
       "ru": "присоединяться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beitreten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2851",
+    "lang": "de",
     "lemma": "physisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23075,12 +21636,11 @@ const WORDS_DE_B2 = [
       "ja": "身体的な",
       "zh": "身体的",
       "ru": "физический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2854",
+    "lang": "de",
     "lemma": "zurückschicken",
     "pos": "Verb",
     "cefr": "B2",
@@ -23100,15 +21660,11 @@ const WORDS_DE_B2 = [
       "ja": "送り返す",
       "zh": "寄回",
       "ru": "отправлять обратно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zurückschicken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2855",
+    "lang": "de",
     "lemma": "enthüllen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23128,17 +21684,15 @@ const WORDS_DE_B2 = [
       "ja": "明かす",
       "zh": "揭露",
       "ru": "раскрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "enthüllen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2856",
+    "lang": "de",
     "lemma": "bescheidenheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23156,15 +21710,11 @@ const WORDS_DE_B2 = [
       "ja": "謙虚さ",
       "zh": "谦虚",
       "ru": "скромность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_2859",
+    "lang": "de",
     "lemma": "hinhalten",
     "pos": "Verb",
     "cefr": "B2",
@@ -23184,17 +21734,16 @@ const WORDS_DE_B2 = [
       "ja": "差し出す",
       "zh": "伸出",
       "ru": "протягивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hinhalten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2862",
+    "lang": "de",
     "lemma": "schutzengel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schutzengel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23212,17 +21761,16 @@ const WORDS_DE_B2 = [
       "ja": "守護天使",
       "zh": "守护天使",
       "ru": "ангел-хранитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schutzengel"
+    }
   },
   {
     "id": "de_2865",
+    "lang": "de",
     "lemma": "weizen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "weizen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23240,17 +21788,16 @@ const WORDS_DE_B2 = [
       "ja": "小麦",
       "zh": "小麦",
       "ru": "пшеница"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "weizen"
+    }
   },
   {
     "id": "de_2866",
+    "lang": "de",
     "lemma": "gips",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gipse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23267,17 +21814,16 @@ const WORDS_DE_B2 = [
       "ja": "石膏",
       "zh": "石膏",
       "ru": "гипс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gipse"
+    }
   },
   {
     "id": "de_2868",
+    "lang": "de",
     "lemma": "eigenschaft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eigenschaften",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23294,15 +21840,11 @@ const WORDS_DE_B2 = [
       "ja": "特性",
       "zh": "特征",
       "ru": "характеристика"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eigenschaften"
+    }
   },
   {
     "id": "de_2871",
+    "lang": "de",
     "lemma": "preisen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23321,15 +21863,11 @@ const WORDS_DE_B2 = [
       "ja": "称賛する",
       "zh": "赞美",
       "ru": "хвалить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "preisen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2873",
+    "lang": "de",
     "lemma": "überreichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23349,17 +21887,16 @@ const WORDS_DE_B2 = [
       "ja": "手渡す",
       "zh": "递交",
       "ru": "вручать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "überreichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2874",
+    "lang": "de",
     "lemma": "elternteil",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "elternteile",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23377,15 +21914,11 @@ const WORDS_DE_B2 = [
       "ja": "親",
       "zh": "父母",
       "ru": "родитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "elternteile"
+    }
   },
   {
     "id": "de_2875",
+    "lang": "de",
     "lemma": "fallenlassen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23404,17 +21937,16 @@ const WORDS_DE_B2 = [
       "ja": "放棄する",
       "zh": "放弃",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fallenlassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2879",
+    "lang": "de",
     "lemma": "floß",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "flöße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23432,17 +21964,16 @@ const WORDS_DE_B2 = [
       "ja": "いかだ",
       "zh": "木筏",
       "ru": "плот"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "flöße"
+    }
   },
   {
     "id": "de_2882",
+    "lang": "de",
     "lemma": "porträt",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "porträts",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23460,15 +21991,11 @@ const WORDS_DE_B2 = [
       "ja": "肖像画",
       "zh": "肖像",
       "ru": "портрет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "porträts"
+    }
   },
   {
     "id": "de_2885",
+    "lang": "de",
     "lemma": "verachten",
     "pos": "Verb",
     "cefr": "B2",
@@ -23488,15 +22015,11 @@ const WORDS_DE_B2 = [
       "ja": "軽蔑する",
       "zh": "鄙视",
       "ru": "презирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verachten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2889",
+    "lang": "de",
     "lemma": "ausatmen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23516,15 +22039,11 @@ const WORDS_DE_B2 = [
       "ja": "息を吐く",
       "zh": "呼气",
       "ru": "выдыхать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausatmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2892",
+    "lang": "de",
     "lemma": "bessern",
     "pos": "Verb",
     "cefr": "B2",
@@ -23544,17 +22063,15 @@ const WORDS_DE_B2 = [
       "ja": "改善する",
       "zh": "改善",
       "ru": "улучшать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bessern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2894",
+    "lang": "de",
     "lemma": "spucke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23572,17 +22089,16 @@ const WORDS_DE_B2 = [
       "ja": "唾液",
       "zh": "唾液",
       "ru": "слюна"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_2896",
+    "lang": "de",
     "lemma": "pinguin",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pinguine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23600,15 +22116,11 @@ const WORDS_DE_B2 = [
       "ja": "ペンギン",
       "zh": "企鹅",
       "ru": "пингвин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pinguine"
+    }
   },
   {
     "id": "de_2901",
+    "lang": "de",
     "lemma": "durchschauen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23627,17 +22139,16 @@ const WORDS_DE_B2 = [
       "ja": "見抜く",
       "zh": "看穿",
       "ru": "видеть насквозь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durchschauen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2907",
+    "lang": "de",
     "lemma": "ade",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ades",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23656,17 +22167,16 @@ const WORDS_DE_B2 = [
       "ja": "別れ",
       "zh": "再见",
       "ru": "прощание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ades"
+    }
   },
   {
     "id": "de_2908",
+    "lang": "de",
     "lemma": "kleinstadt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kleinstädte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23684,17 +22194,16 @@ const WORDS_DE_B2 = [
       "ja": "小都市",
       "zh": "小城镇",
       "ru": "небольшой город"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kleinstädte"
+    }
   },
   {
     "id": "de_2912",
+    "lang": "de",
     "lemma": "abfindung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "abfindungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23711,17 +22220,16 @@ const WORDS_DE_B2 = [
       "ja": "退職金",
       "zh": "遣散费",
       "ru": "выходное пособие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "abfindungen"
+    }
   },
   {
     "id": "de_2915",
+    "lang": "de",
     "lemma": "hausarbeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hausarbeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23739,17 +22247,16 @@ const WORDS_DE_B2 = [
       "ja": "家事",
       "zh": "家务",
       "ru": "домашняя работа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hausarbeiten"
+    }
   },
   {
     "id": "de_2918",
+    "lang": "de",
     "lemma": "waschbecken",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "waschbecken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23767,17 +22274,16 @@ const WORDS_DE_B2 = [
       "ja": "洗面台",
       "zh": "洗脸盆",
       "ru": "раковина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "waschbecken"
+    }
   },
   {
     "id": "de_2921",
+    "lang": "de",
     "lemma": "szenario",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "szenarien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23795,17 +22301,16 @@ const WORDS_DE_B2 = [
       "ja": "シナリオ",
       "zh": "情景",
       "ru": "сценарий"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "szenarien"
+    }
   },
   {
     "id": "de_2923",
+    "lang": "de",
     "lemma": "haube",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hauben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23823,17 +22328,16 @@ const WORDS_DE_B2 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "шапка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hauben"
+    }
   },
   {
     "id": "de_2925",
+    "lang": "de",
     "lemma": "flöte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "flöten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23851,17 +22355,16 @@ const WORDS_DE_B2 = [
       "ja": "フルート",
       "zh": "长笛",
       "ru": "флейта"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "flöten"
+    }
   },
   {
     "id": "de_2928",
+    "lang": "de",
     "lemma": "eskorte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eskorten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23879,17 +22382,16 @@ const WORDS_DE_B2 = [
       "ja": "護衛",
       "zh": "护送",
       "ru": "эскорт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eskorten"
+    }
   },
   {
     "id": "de_2932",
+    "lang": "de",
     "lemma": "balken",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "balken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23907,17 +22409,16 @@ const WORDS_DE_B2 = [
       "ja": "梁",
       "zh": "梁",
       "ru": "балка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "balken"
+    }
   },
   {
     "id": "de_2935",
+    "lang": "de",
     "lemma": "acker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "äcker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -23935,15 +22436,11 @@ const WORDS_DE_B2 = [
       "ja": "畑",
       "zh": "田地",
       "ru": "поле"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "äcker"
+    }
   },
   {
     "id": "de_2936",
+    "lang": "de",
     "lemma": "medizinisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23962,12 +22459,11 @@ const WORDS_DE_B2 = [
       "ja": "医学的",
       "zh": "医学的",
       "ru": "медицинский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2937",
+    "lang": "de",
     "lemma": "zusammenreißen",
     "pos": "Verb",
     "cefr": "B2",
@@ -23986,15 +22482,11 @@ const WORDS_DE_B2 = [
       "ja": "気を取り直す",
       "zh": "振作起来",
       "ru": "взять себя в руки"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zusammenreißen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2938",
+    "lang": "de",
     "lemma": "bekloppt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24013,14 +22505,16 @@ const WORDS_DE_B2 = [
       "ja": "気狂い",
       "zh": "疯狂的",
       "ru": "сумасшедший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2939",
+    "lang": "de",
     "lemma": "takt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "takte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24037,15 +22531,11 @@ const WORDS_DE_B2 = [
       "ja": "小節",
       "zh": "小节",
       "ru": "такт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "takte"
+    }
   },
   {
     "id": "de_2940",
+    "lang": "de",
     "lemma": "vollbringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24064,17 +22554,16 @@ const WORDS_DE_B2 = [
       "ja": "成し遂げる",
       "zh": "完成",
       "ru": "совершить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vollbringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2942",
+    "lang": "de",
     "lemma": "wiedergutmachung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "wiedergutmachungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24091,15 +22580,11 @@ const WORDS_DE_B2 = [
       "ja": "賠償",
       "zh": "赔偿",
       "ru": "возмещение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wiedergutmachungen"
+    }
   },
   {
     "id": "de_2950",
+    "lang": "de",
     "lemma": "stinksauer",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24118,14 +22603,16 @@ const WORDS_DE_B2 = [
       "ja": "激怒した",
       "zh": "非常生气的",
       "ru": "в ярости"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2954",
+    "lang": "de",
     "lemma": "hebamme",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hebammen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24142,17 +22629,15 @@ const WORDS_DE_B2 = [
       "ja": "助産婦",
       "zh": "助产士",
       "ru": "акушерка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hebammen"
+    }
   },
   {
     "id": "de_2956",
+    "lang": "de",
     "lemma": "tau",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24170,17 +22655,16 @@ const WORDS_DE_B2 = [
       "ja": "露",
       "zh": "露水",
       "ru": "роса"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_2957",
+    "lang": "de",
     "lemma": "schwarzmarkt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwarzmärkte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24197,17 +22681,16 @@ const WORDS_DE_B2 = [
       "ja": "闇市場",
       "zh": "黑市",
       "ru": "чёрный рынок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwarzmärkte"
+    }
   },
   {
     "id": "de_2959",
+    "lang": "de",
     "lemma": "akku",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "akkus",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24225,17 +22708,16 @@ const WORDS_DE_B2 = [
       "ja": "バッテリー",
       "zh": "电池",
       "ru": "аккумулятор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "akkus"
+    }
   },
   {
     "id": "de_2960",
+    "lang": "de",
     "lemma": "inder",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "inder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24253,15 +22735,11 @@ const WORDS_DE_B2 = [
       "ja": "インド人",
       "zh": "印度人",
       "ru": "индиец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "inder"
+    }
   },
   {
     "id": "de_2963",
+    "lang": "de",
     "lemma": "hetzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24280,15 +22758,11 @@ const WORDS_DE_B2 = [
       "ja": "狩りをする",
       "zh": "狩猎",
       "ru": "охотиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hetzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2964",
+    "lang": "de",
     "lemma": "vorgeben",
     "pos": "Verb",
     "cefr": "B2",
@@ -24308,15 +22782,11 @@ const WORDS_DE_B2 = [
       "ja": "ふりをする",
       "zh": "假装",
       "ru": "притворяться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vorgeben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2966",
+    "lang": "de",
     "lemma": "unmittelbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24336,12 +22806,11 @@ const WORDS_DE_B2 = [
       "ja": "直接的な",
       "zh": "直接的",
       "ru": "непосредственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2968",
+    "lang": "de",
     "lemma": "grässlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24361,12 +22830,11 @@ const WORDS_DE_B2 = [
       "ja": "ひどい",
       "zh": "可怕的",
       "ru": "ужасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2970",
+    "lang": "de",
     "lemma": "beabsichtigt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24385,12 +22853,11 @@ const WORDS_DE_B2 = [
       "ja": "意図的な",
       "zh": "故意的",
       "ru": "намеренный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2972",
+    "lang": "de",
     "lemma": "nachvollziehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24410,15 +22877,11 @@ const WORDS_DE_B2 = [
       "ja": "理解する",
       "zh": "理解",
       "ru": "понимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nachvollziehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2974",
+    "lang": "de",
     "lemma": "einwandfrei",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24438,12 +22901,11 @@ const WORDS_DE_B2 = [
       "ja": "完璧な",
       "zh": "完美的",
       "ru": "безупречный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2975",
+    "lang": "de",
     "lemma": "schlampig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24462,12 +22924,11 @@ const WORDS_DE_B2 = [
       "ja": "ずさんな",
       "zh": "草率的",
       "ru": "небрежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2977",
+    "lang": "de",
     "lemma": "attraktive",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24487,14 +22948,16 @@ const WORDS_DE_B2 = [
       "ja": "魅力的な",
       "zh": "有吸引力的",
       "ru": "привлекательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2979",
+    "lang": "de",
     "lemma": "fitnessstudio",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "fitnessstudios",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24512,17 +22975,16 @@ const WORDS_DE_B2 = [
       "ja": "フィットネススタジオ",
       "zh": "健身房",
       "ru": "фитнес-студия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "fitnessstudios"
+    }
   },
   {
     "id": "de_2986",
+    "lang": "de",
     "lemma": "mahl",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "mähler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24540,15 +23002,11 @@ const WORDS_DE_B2 = [
       "ja": "食事",
       "zh": "餐食",
       "ru": "трапеза"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "mähler"
+    }
   },
   {
     "id": "de_2987",
+    "lang": "de",
     "lemma": "schaufeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -24568,17 +23026,16 @@ const WORDS_DE_B2 = [
       "ja": "シャベルで掘る",
       "zh": "用铲子挖",
       "ru": "копать лопатой"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schaufeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2988",
+    "lang": "de",
     "lemma": "krokodil",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "krokodile",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24596,15 +23053,11 @@ const WORDS_DE_B2 = [
       "ja": "ワニ",
       "zh": "鳄鱼",
       "ru": "крокодил"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "krokodile"
+    }
   },
   {
     "id": "de_2990",
+    "lang": "de",
     "lemma": "auslassen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24624,15 +23077,11 @@ const WORDS_DE_B2 = [
       "ja": "省く",
       "zh": "省略",
       "ru": "пропускать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auslassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_2991",
+    "lang": "de",
     "lemma": "unpassend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24652,14 +23101,16 @@ const WORDS_DE_B2 = [
       "ja": "不適切な",
       "zh": "不合适的",
       "ru": "неподходящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_2993",
+    "lang": "de",
     "lemma": "übergang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "übergänge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24677,17 +23128,16 @@ const WORDS_DE_B2 = [
       "ja": "移行",
       "zh": "过渡",
       "ru": "переход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "übergänge"
+    }
   },
   {
     "id": "de_2994",
+    "lang": "de",
     "lemma": "ankündigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ankündigungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24705,17 +23155,16 @@ const WORDS_DE_B2 = [
       "ja": "告知",
       "zh": "公告",
       "ru": "объявление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ankündigungen"
+    }
   },
   {
     "id": "de_3000",
+    "lang": "de",
     "lemma": "sitte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sitten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24733,17 +23182,16 @@ const WORDS_DE_B2 = [
       "ja": "習慣",
       "zh": "习俗",
       "ru": "обычай"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sitten"
+    }
   },
   {
     "id": "de_3003",
+    "lang": "de",
     "lemma": "reißverschluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "reißverschlüsse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24761,17 +23209,15 @@ const WORDS_DE_B2 = [
       "ja": "ジッパー",
       "zh": "拉链",
       "ru": "молния"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "reißverschlüsse"
+    }
   },
   {
     "id": "de_3004",
+    "lang": "de",
     "lemma": "entschlossenheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24788,17 +23234,16 @@ const WORDS_DE_B2 = [
       "ja": "決断力",
       "zh": "决心",
       "ru": "решительность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_3006",
+    "lang": "de",
     "lemma": "kameramann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kameramänner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24815,15 +23260,11 @@ const WORDS_DE_B2 = [
       "ja": "カメラマン",
       "zh": "摄像师",
       "ru": "оператор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kameramänner"
+    }
   },
   {
     "id": "de_3007",
+    "lang": "de",
     "lemma": "aufgehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24843,15 +23284,11 @@ const WORDS_DE_B2 = [
       "ja": "開く",
       "zh": "打开",
       "ru": "открываться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufgehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3009",
+    "lang": "de",
     "lemma": "zusammenkommen",
     "pos": "Verb",
     "cefr": "B2",
@@ -24871,15 +23308,11 @@ const WORDS_DE_B2 = [
       "ja": "集まる",
       "zh": "聚集",
       "ru": "собираться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zusammenkommen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3019",
+    "lang": "de",
     "lemma": "meckern",
     "pos": "Verb",
     "cefr": "B2",
@@ -24898,17 +23331,16 @@ const WORDS_DE_B2 = [
       "ja": "文句を言う",
       "zh": "抱怨",
       "ru": "жаловаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "meckern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3020",
+    "lang": "de",
     "lemma": "zebra",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "zebras",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24926,17 +23358,16 @@ const WORDS_DE_B2 = [
       "ja": "シマウマ",
       "zh": "斑马",
       "ru": "зебра"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "zebras"
+    }
   },
   {
     "id": "de_3022",
+    "lang": "de",
     "lemma": "hausmädchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "hausmädchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24954,17 +23385,16 @@ const WORDS_DE_B2 = [
       "ja": "家政婦",
       "zh": "女仆",
       "ru": "служанка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "hausmädchen"
+    }
   },
   {
     "id": "de_3023",
+    "lang": "de",
     "lemma": "vorgänger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "vorgänger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -24982,17 +23412,16 @@ const WORDS_DE_B2 = [
       "ja": "前任者",
       "zh": "前任者",
       "ru": "предшественник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vorgänger"
+    }
   },
   {
     "id": "de_3026",
+    "lang": "de",
     "lemma": "landstreicher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "landstreicher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25010,15 +23439,11 @@ const WORDS_DE_B2 = [
       "ja": "浮浪者",
       "zh": "流浪汉",
       "ru": "бродяга"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "landstreicher"
+    }
   },
   {
     "id": "de_3027",
+    "lang": "de",
     "lemma": "rechtmäßig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25037,14 +23462,16 @@ const WORDS_DE_B2 = [
       "ja": "合法的な",
       "zh": "合法的",
       "ru": "законный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3029",
+    "lang": "de",
     "lemma": "flanke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "flanken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25062,17 +23489,16 @@ const WORDS_DE_B2 = [
       "ja": "側面",
       "zh": "侧面",
       "ru": "фланг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "flanken"
+    }
   },
   {
     "id": "de_3035",
+    "lang": "de",
     "lemma": "übernahme",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "übernahmen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25090,17 +23516,16 @@ const WORDS_DE_B2 = [
       "ja": "買収",
       "zh": "收购",
       "ru": "поглощение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "übernahmen"
+    }
   },
   {
     "id": "de_3038",
+    "lang": "de",
     "lemma": "popmusik",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "popmusiken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25117,15 +23542,11 @@ const WORDS_DE_B2 = [
       "ja": "ポップミュージック",
       "zh": "流行音乐",
       "ru": "поп-музыка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "popmusiken"
+    }
   },
   {
     "id": "de_3040",
+    "lang": "de",
     "lemma": "aufdringlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25144,14 +23565,16 @@ const WORDS_DE_B2 = [
       "ja": "押し付けがましい",
       "zh": "令人厌烦的",
       "ru": "навязчивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3045",
+    "lang": "de",
     "lemma": "widerspruch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "widersprüche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25168,15 +23591,11 @@ const WORDS_DE_B2 = [
       "ja": "矛盾",
       "zh": "矛盾",
       "ru": "противоречие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "widersprüche"
+    }
   },
   {
     "id": "de_3048",
+    "lang": "de",
     "lemma": "griechisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25195,14 +23614,15 @@ const WORDS_DE_B2 = [
       "ja": "ギリシャの",
       "zh": "希腊的",
       "ru": "греческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3051",
+    "lang": "de",
     "lemma": "diabetes",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25220,17 +23640,16 @@ const WORDS_DE_B2 = [
       "ja": "糖尿病",
       "zh": "糖尿病",
       "ru": "диабет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_3053",
+    "lang": "de",
     "lemma": "spüle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "spülen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25248,17 +23667,16 @@ const WORDS_DE_B2 = [
       "ja": "流し台",
       "zh": "水槽",
       "ru": "раковина"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "spülen"
+    }
   },
   {
     "id": "de_3056",
+    "lang": "de",
     "lemma": "lebensgefahr",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lebensgefahren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25275,17 +23693,16 @@ const WORDS_DE_B2 = [
       "ja": "生命の危険",
       "zh": "生命危险",
       "ru": "смертельная опасность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lebensgefahren"
+    }
   },
   {
     "id": "de_3059",
+    "lang": "de",
     "lemma": "sammler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "sammler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25303,17 +23720,16 @@ const WORDS_DE_B2 = [
       "ja": "収集家",
       "zh": "收藏家",
       "ru": "коллекционер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "sammler"
+    }
   },
   {
     "id": "de_3063",
+    "lang": "de",
     "lemma": "grabstein",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "grabsteine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25331,17 +23747,16 @@ const WORDS_DE_B2 = [
       "ja": "墓石",
       "zh": "墓碑",
       "ru": "надгробие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "grabsteine"
+    }
   },
   {
     "id": "de_3064",
+    "lang": "de",
     "lemma": "reh",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "rehe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25359,17 +23774,16 @@ const WORDS_DE_B2 = [
       "ja": "ノロジカ",
       "zh": "獐",
       "ru": "косуля"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "rehe"
+    }
   },
   {
     "id": "de_3065",
+    "lang": "de",
     "lemma": "präsenz",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "präsenzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25386,17 +23800,16 @@ const WORDS_DE_B2 = [
       "ja": "存在",
       "zh": "存在",
       "ru": "присутствие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "präsenzen"
+    }
   },
   {
     "id": "de_3067",
+    "lang": "de",
     "lemma": "wahrnehmung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "wahrnehmungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25413,15 +23826,11 @@ const WORDS_DE_B2 = [
       "ja": "知覚",
       "zh": "知觉",
       "ru": "восприятие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wahrnehmungen"
+    }
   },
   {
     "id": "de_3068",
+    "lang": "de",
     "lemma": "gepflegt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25441,14 +23850,16 @@ const WORDS_DE_B2 = [
       "ja": "きちんとした",
       "zh": "整洁的",
       "ru": "аккуратный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3069",
+    "lang": "de",
     "lemma": "hautfarbe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hautfarben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25466,15 +23877,11 @@ const WORDS_DE_B2 = [
       "ja": "肌色",
       "zh": "肤色",
       "ru": "цвет кожи"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hautfarben"
+    }
   },
   {
     "id": "de_3071",
+    "lang": "de",
     "lemma": "abfangen",
     "pos": "Verb",
     "cefr": "B2",
@@ -25493,15 +23900,11 @@ const WORDS_DE_B2 = [
       "ja": "遮る",
       "zh": "拦截",
       "ru": "перехватить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abfangen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3073",
+    "lang": "de",
     "lemma": "geschwächt",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25520,14 +23923,16 @@ const WORDS_DE_B2 = [
       "ja": "弱められた",
       "zh": "削弱的",
       "ru": "ослабленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3075",
+    "lang": "de",
     "lemma": "öffnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "öffnungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25545,15 +23950,11 @@ const WORDS_DE_B2 = [
       "ja": "穴",
       "zh": "开口",
       "ru": "отверстие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "öffnungen"
+    }
   },
   {
     "id": "de_3076",
+    "lang": "de",
     "lemma": "heikel",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25572,14 +23973,16 @@ const WORDS_DE_B2 = [
       "ja": "厄介な",
       "zh": "棘手的",
       "ru": "щекотливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3081",
+    "lang": "de",
     "lemma": "karren",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "karren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25597,17 +24000,16 @@ const WORDS_DE_B2 = [
       "ja": "荷車",
       "zh": "车",
       "ru": "тачка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "karren"
+    }
   },
   {
     "id": "de_3083",
+    "lang": "de",
     "lemma": "recherche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "recherchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25624,15 +24026,11 @@ const WORDS_DE_B2 = [
       "ja": "調査",
       "zh": "调查",
       "ru": "исследование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "recherchen"
+    }
   },
   {
     "id": "de_3089",
+    "lang": "de",
     "lemma": "abtreten",
     "pos": "Verb",
     "cefr": "B2",
@@ -25651,17 +24049,16 @@ const WORDS_DE_B2 = [
       "ja": "蹴り出す",
       "zh": "踢开",
       "ru": "отступить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abtreten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3092",
+    "lang": "de",
     "lemma": "handlanger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "handlanger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25679,17 +24076,16 @@ const WORDS_DE_B2 = [
       "ja": "労働者",
       "zh": "帮手",
       "ru": "подсобный рабочий"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "handlanger"
+    }
   },
   {
     "id": "de_3093",
+    "lang": "de",
     "lemma": "bluff",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bluffs",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25707,15 +24103,11 @@ const WORDS_DE_B2 = [
       "ja": "はったり",
       "zh": "虚张声势",
       "ru": "блеф"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bluffs"
+    }
   },
   {
     "id": "de_3095",
+    "lang": "de",
     "lemma": "teilhaben",
     "pos": "Verb",
     "cefr": "B2",
@@ -25735,15 +24127,11 @@ const WORDS_DE_B2 = [
       "ja": "参加する",
       "zh": "参与",
       "ru": "участвовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "teilhaben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3097",
+    "lang": "de",
     "lemma": "liebenswert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25763,14 +24151,16 @@ const WORDS_DE_B2 = [
       "ja": "愛らしい",
       "zh": "可爱的",
       "ru": "милый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3098",
+    "lang": "de",
     "lemma": "jackpot",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "jackpots",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25788,15 +24178,11 @@ const WORDS_DE_B2 = [
       "ja": "ジャックポット",
       "zh": "头奖",
       "ru": "джекпот"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "jackpots"
+    }
   },
   {
     "id": "de_3099",
+    "lang": "de",
     "lemma": "gebären",
     "pos": "Verb",
     "cefr": "B2",
@@ -25816,15 +24202,11 @@ const WORDS_DE_B2 = [
       "ja": "産む",
       "zh": "生育",
       "ru": "рожать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gebären",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3110",
+    "lang": "de",
     "lemma": "schrauben",
     "pos": "Verb",
     "cefr": "B2",
@@ -25844,15 +24226,11 @@ const WORDS_DE_B2 = [
       "ja": "ねじる",
       "zh": "拧螺丝",
       "ru": "завинчивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schrauben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3114",
+    "lang": "de",
     "lemma": "ertränken",
     "pos": "Verb",
     "cefr": "B2",
@@ -25871,15 +24249,11 @@ const WORDS_DE_B2 = [
       "ja": "溺死させる",
       "zh": "淹死",
       "ru": "топить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ertränken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3116",
+    "lang": "de",
     "lemma": "gänzlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -25899,12 +24273,11 @@ const WORDS_DE_B2 = [
       "ja": "完全な",
       "zh": "完全的",
       "ru": "полный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3117",
+    "lang": "de",
     "lemma": "verfehlen",
     "pos": "Verb",
     "cefr": "B2",
@@ -25924,17 +24297,16 @@ const WORDS_DE_B2 = [
       "ja": "逃す",
       "zh": "错过",
       "ru": "промахиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verfehlen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3119",
+    "lang": "de",
     "lemma": "halsband",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "halsbänder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25952,17 +24324,16 @@ const WORDS_DE_B2 = [
       "ja": "首輪",
       "zh": "项圈",
       "ru": "ошейник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "halsbänder"
+    }
   },
   {
     "id": "de_3120",
+    "lang": "de",
     "lemma": "strömung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "strömungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -25980,15 +24351,11 @@ const WORDS_DE_B2 = [
       "ja": "流れ",
       "zh": "流动",
       "ru": "течение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "strömungen"
+    }
   },
   {
     "id": "de_3122",
+    "lang": "de",
     "lemma": "geborgen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -26007,12 +24374,11 @@ const WORDS_DE_B2 = [
       "ja": "安全な",
       "zh": "安全的",
       "ru": "безопасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3126",
+    "lang": "de",
     "lemma": "auferstehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26031,15 +24397,11 @@ const WORDS_DE_B2 = [
       "ja": "復活する",
       "zh": "复活",
       "ru": "воскресать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auferstehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3134",
+    "lang": "de",
     "lemma": "umfallen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26059,17 +24421,16 @@ const WORDS_DE_B2 = [
       "ja": "倒れる",
       "zh": "倒下",
       "ru": "падать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "umfallen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3137",
+    "lang": "de",
     "lemma": "gefäß",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "gefäße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26087,15 +24448,11 @@ const WORDS_DE_B2 = [
       "ja": "容器",
       "zh": "容器",
       "ru": "сосуд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gefäße"
+    }
   },
   {
     "id": "de_3144",
+    "lang": "de",
     "lemma": "artig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -26115,12 +24472,11 @@ const WORDS_DE_B2 = [
       "ja": "いい子の",
       "zh": "乖巧的",
       "ru": "послушный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3147",
+    "lang": "de",
     "lemma": "polieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -26140,17 +24496,16 @@ const WORDS_DE_B2 = [
       "ja": "磨く",
       "zh": "抛光",
       "ru": "полировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "polieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3149",
+    "lang": "de",
     "lemma": "diebin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "diebinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26167,15 +24522,11 @@ const WORDS_DE_B2 = [
       "ja": "女泥棒",
       "zh": "女贼",
       "ru": "воровка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "diebinnen"
+    }
   },
   {
     "id": "de_3151",
+    "lang": "de",
     "lemma": "anrühren",
     "pos": "Verb",
     "cefr": "B2",
@@ -26195,17 +24546,16 @@ const WORDS_DE_B2 = [
       "ja": "触れる",
       "zh": "触碰",
       "ru": "трогать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anrühren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3152",
+    "lang": "de",
     "lemma": "tornado",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tornados",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26222,17 +24572,16 @@ const WORDS_DE_B2 = [
       "ja": "竜巻",
       "zh": "龙卷风",
       "ru": "торнадо"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tornados"
+    }
   },
   {
     "id": "de_3154",
+    "lang": "de",
     "lemma": "demütigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "demütigungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26249,15 +24598,11 @@ const WORDS_DE_B2 = [
       "ja": "屈辱",
       "zh": "羞辱",
       "ru": "унижение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "demütigungen"
+    }
   },
   {
     "id": "de_3155",
+    "lang": "de",
     "lemma": "überspringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26277,17 +24622,16 @@ const WORDS_DE_B2 = [
       "ja": "飛び越える",
       "zh": "跳过",
       "ru": "прыгать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "überspringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3156",
+    "lang": "de",
     "lemma": "kapuze",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kapuzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26305,17 +24649,16 @@ const WORDS_DE_B2 = [
       "ja": "フード",
       "zh": "兜帽",
       "ru": "капюшон"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kapuzen"
+    }
   },
   {
     "id": "de_3158",
+    "lang": "de",
     "lemma": "fund",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "funde",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26333,17 +24676,16 @@ const WORDS_DE_B2 = [
       "ja": "発見物",
       "zh": "发现物",
       "ru": "находка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "funde"
+    }
   },
   {
     "id": "de_3161",
+    "lang": "de",
     "lemma": "gewand",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "gewänder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26361,15 +24703,11 @@ const WORDS_DE_B2 = [
       "ja": "衣服",
       "zh": "衣服",
       "ru": "одежда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gewänder"
+    }
   },
   {
     "id": "de_3162",
+    "lang": "de",
     "lemma": "einspringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26389,17 +24727,16 @@ const WORDS_DE_B2 = [
       "ja": "代わりをする",
       "zh": "代替",
       "ru": "подменять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "einspringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3163",
+    "lang": "de",
     "lemma": "ungeziefer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ungeziefer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26417,15 +24754,11 @@ const WORDS_DE_B2 = [
       "ja": "害虫",
       "zh": "害虫",
       "ru": "вредитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ungeziefer"
+    }
   },
   {
     "id": "de_3170",
+    "lang": "de",
     "lemma": "erneuern",
     "pos": "Verb",
     "cefr": "B2",
@@ -26445,15 +24778,11 @@ const WORDS_DE_B2 = [
       "ja": "更新する",
       "zh": "更新",
       "ru": "обновлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erneuern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3172",
+    "lang": "de",
     "lemma": "betonen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26472,17 +24801,16 @@ const WORDS_DE_B2 = [
       "ja": "強調する",
       "zh": "强调",
       "ru": "подчеркивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "betonen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3175",
+    "lang": "de",
     "lemma": "darsteller",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "darsteller",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26499,17 +24827,16 @@ const WORDS_DE_B2 = [
       "ja": "俳優",
       "zh": "演员",
       "ru": "актер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "darsteller"
+    }
   },
   {
     "id": "de_3176",
+    "lang": "de",
     "lemma": "proviant",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "proviante",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26527,17 +24854,16 @@ const WORDS_DE_B2 = [
       "ja": "食糧",
       "zh": "粮食",
       "ru": "провизия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "proviante"
+    }
   },
   {
     "id": "de_3177",
+    "lang": "de",
     "lemma": "ferkel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ferkel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26555,17 +24881,16 @@ const WORDS_DE_B2 = [
       "ja": "子豚",
       "zh": "小猪",
       "ru": "поросенок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ferkel"
+    }
   },
   {
     "id": "de_3178",
+    "lang": "de",
     "lemma": "klischee",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "klischees",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26583,15 +24908,11 @@ const WORDS_DE_B2 = [
       "ja": "ステレオタイプ",
       "zh": "陈词滥调",
       "ru": "клише"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "klischees"
+    }
   },
   {
     "id": "de_3181",
+    "lang": "de",
     "lemma": "verwöhnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26611,15 +24932,11 @@ const WORDS_DE_B2 = [
       "ja": "甘やかす",
       "zh": "溺爱",
       "ru": "баловать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verwöhnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3182",
+    "lang": "de",
     "lemma": "effizient",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -26639,14 +24956,16 @@ const WORDS_DE_B2 = [
       "ja": "効率的な",
       "zh": "高效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3183",
+    "lang": "de",
     "lemma": "eitelkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eitelkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26663,17 +24982,16 @@ const WORDS_DE_B2 = [
       "ja": "虚栄心",
       "zh": "虚荣心",
       "ru": "тщеславие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eitelkeiten"
+    }
   },
   {
     "id": "de_3185",
+    "lang": "de",
     "lemma": "kühler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kühler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26691,17 +25009,16 @@ const WORDS_DE_B2 = [
       "ja": "クーラー",
       "zh": "冷却器",
       "ru": "радиатор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kühler"
+    }
   },
   {
     "id": "de_3190",
+    "lang": "de",
     "lemma": "zündung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "zündungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26719,15 +25036,11 @@ const WORDS_DE_B2 = [
       "ja": "点火",
       "zh": "点火",
       "ru": "зажигание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "zündungen"
+    }
   },
   {
     "id": "de_3191",
+    "lang": "de",
     "lemma": "bestreiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -26746,17 +25059,16 @@ const WORDS_DE_B2 = [
       "ja": "否定する",
       "zh": "否认",
       "ru": "отрицать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bestreiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3196",
+    "lang": "de",
     "lemma": "aquarium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "aquarien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26774,17 +25086,16 @@ const WORDS_DE_B2 = [
       "ja": "水族館",
       "zh": "水族馆",
       "ru": "аквариум"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "aquarien"
+    }
   },
   {
     "id": "de_3198",
+    "lang": "de",
     "lemma": "wasserfall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "wasserfälle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26802,15 +25113,11 @@ const WORDS_DE_B2 = [
       "ja": "滝",
       "zh": "瀑布",
       "ru": "водопад"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "wasserfälle"
+    }
   },
   {
     "id": "de_3200",
+    "lang": "de",
     "lemma": "aushelfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -26830,17 +25137,16 @@ const WORDS_DE_B2 = [
       "ja": "一時的に手伝う",
       "zh": "临时帮助",
       "ru": "помогать временно"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aushelfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3202",
+    "lang": "de",
     "lemma": "spielfeld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "spielfelder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26858,15 +25164,11 @@ const WORDS_DE_B2 = [
       "ja": "競技場",
       "zh": "运动场",
       "ru": "игровое поле"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "spielfelder"
+    }
   },
   {
     "id": "de_3203",
+    "lang": "de",
     "lemma": "repräsentieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -26886,17 +25188,16 @@ const WORDS_DE_B2 = [
       "ja": "代表する",
       "zh": "代表",
       "ru": "представлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "repräsentieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3205",
+    "lang": "de",
     "lemma": "bademantel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bademäntel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26914,17 +25215,16 @@ const WORDS_DE_B2 = [
       "ja": "バスローブ",
       "zh": "浴袍",
       "ru": "халат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bademäntel"
+    }
   },
   {
     "id": "de_3213",
+    "lang": "de",
     "lemma": "millimeter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "millimeter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26942,15 +25242,11 @@ const WORDS_DE_B2 = [
       "ja": "ミリメートル",
       "zh": "毫米",
       "ru": "миллиметр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "millimeter"
+    }
   },
   {
     "id": "de_3214",
+    "lang": "de",
     "lemma": "babysitten",
     "pos": "Verb",
     "cefr": "B2",
@@ -26970,17 +25266,16 @@ const WORDS_DE_B2 = [
       "ja": "ベビーシッターをする",
       "zh": "照看小孩",
       "ru": "сидеть с детьми"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "babysitten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3217",
+    "lang": "de",
     "lemma": "schaum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schäume",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -26998,17 +25293,16 @@ const WORDS_DE_B2 = [
       "ja": "泡",
       "zh": "泡沫",
       "ru": "пена"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schäume"
+    }
   },
   {
     "id": "de_3220",
+    "lang": "de",
     "lemma": "pickel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pickel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27026,17 +25320,16 @@ const WORDS_DE_B2 = [
       "ja": "ニキビ",
       "zh": "痘痘",
       "ru": "прыщ"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pickel"
+    }
   },
   {
     "id": "de_3221",
+    "lang": "de",
     "lemma": "hauptstraße",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "hauptstraßen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27054,15 +25347,11 @@ const WORDS_DE_B2 = [
       "ja": "メインストリート",
       "zh": "主街",
       "ru": "главная улица"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "hauptstraßen"
+    }
   },
   {
     "id": "de_3222",
+    "lang": "de",
     "lemma": "benennen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27083,15 +25372,11 @@ const WORDS_DE_B2 = [
       "ja": "名前をつける",
       "zh": "命名",
       "ru": "называть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "benennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3224",
+    "lang": "de",
     "lemma": "anführen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27111,17 +25396,16 @@ const WORDS_DE_B2 = [
       "ja": "導く",
       "zh": "领导",
       "ru": "вести"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anführen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3227",
+    "lang": "de",
     "lemma": "bäcker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bäcker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27139,17 +25423,15 @@ const WORDS_DE_B2 = [
       "ja": "パン屋",
       "zh": "面包师",
       "ru": "пекарь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bäcker"
+    }
   },
   {
     "id": "de_3231",
+    "lang": "de",
     "lemma": "gespür",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27167,17 +25449,16 @@ const WORDS_DE_B2 = [
       "ja": "直感",
       "zh": "直觉",
       "ru": "интуиция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_3232",
+    "lang": "de",
     "lemma": "aktenkoffer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aktenkoffer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27195,17 +25476,16 @@ const WORDS_DE_B2 = [
       "ja": "ブリーフケース",
       "zh": "公文包",
       "ru": "портфель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aktenkoffer"
+    }
   },
   {
     "id": "de_3233",
+    "lang": "de",
     "lemma": "erdboden",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "erdböden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27223,17 +25503,16 @@ const WORDS_DE_B2 = [
       "ja": "土",
       "zh": "土壤",
       "ru": "земля"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "erdböden"
+    }
   },
   {
     "id": "de_3237",
+    "lang": "de",
     "lemma": "examen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "examina",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27250,15 +25529,11 @@ const WORDS_DE_B2 = [
       "ja": "試験",
       "zh": "考试",
       "ru": "экзамен"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "examina"
+    }
   },
   {
     "id": "de_3239",
+    "lang": "de",
     "lemma": "beben",
     "pos": "Verb",
     "cefr": "B2",
@@ -27278,17 +25553,16 @@ const WORDS_DE_B2 = [
       "ja": "震える",
       "zh": "颤动",
       "ru": "дрожать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3240",
+    "lang": "de",
     "lemma": "beben",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "beben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27306,17 +25580,16 @@ const WORDS_DE_B2 = [
       "ja": "地震",
       "zh": "地震",
       "ru": "землетрясение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "beben"
+    }
   },
   {
     "id": "de_3241",
+    "lang": "de",
     "lemma": "kanister",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kanister",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27334,17 +25607,16 @@ const WORDS_DE_B2 = [
       "ja": "キャニスター",
       "zh": "油桶",
       "ru": "канистра"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kanister"
+    }
   },
   {
     "id": "de_3244",
+    "lang": "de",
     "lemma": "tresen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tresen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27362,15 +25634,11 @@ const WORDS_DE_B2 = [
       "ja": "カウンター",
       "zh": "柜台",
       "ru": "стойка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tresen"
+    }
   },
   {
     "id": "de_3248",
+    "lang": "de",
     "lemma": "exklusiv",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -27390,14 +25658,16 @@ const WORDS_DE_B2 = [
       "ja": "排他的な",
       "zh": "排他的",
       "ru": "исключительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3255",
+    "lang": "de",
     "lemma": "toaster",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "toaster",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27415,15 +25685,11 @@ const WORDS_DE_B2 = [
       "ja": "トースター",
       "zh": "烤面包机",
       "ru": "тостер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "toaster"
+    }
   },
   {
     "id": "de_3256",
+    "lang": "de",
     "lemma": "bekennen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27442,17 +25708,16 @@ const WORDS_DE_B2 = [
       "ja": "告白する",
       "zh": "承认",
       "ru": "признаваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bekennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3258",
+    "lang": "de",
     "lemma": "bürgermeisterin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bürgermeisterinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27470,17 +25735,16 @@ const WORDS_DE_B2 = [
       "ja": "女性市長",
       "zh": "女市长",
       "ru": "женщина-мэр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bürgermeisterinnen"
+    }
   },
   {
     "id": "de_3259",
+    "lang": "de",
     "lemma": "honorar",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "honorare",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27498,15 +25762,11 @@ const WORDS_DE_B2 = [
       "ja": "謝金",
       "zh": "酬金",
       "ru": "гонорар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "honorare"
+    }
   },
   {
     "id": "de_3261",
+    "lang": "de",
     "lemma": "launisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -27525,12 +25785,11 @@ const WORDS_DE_B2 = [
       "ja": "気まぐれな",
       "zh": "喜怒无常的",
       "ru": "капризный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3266",
+    "lang": "de",
     "lemma": "weiterarbeiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -27550,17 +25809,16 @@ const WORDS_DE_B2 = [
       "ja": "働き続ける",
       "zh": "继续工作",
       "ru": "продолжать работать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weiterarbeiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3267",
+    "lang": "de",
     "lemma": "durchfall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "durchfälle",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27577,15 +25835,11 @@ const WORDS_DE_B2 = [
       "ja": "下痢",
       "zh": "腹泻",
       "ru": "понос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "durchfälle"
+    }
   },
   {
     "id": "de_3270",
+    "lang": "de",
     "lemma": "definiert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -27604,12 +25858,11 @@ const WORDS_DE_B2 = [
       "ja": "定義された",
       "zh": "确定的",
       "ru": "определённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3272",
+    "lang": "de",
     "lemma": "verschlingen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27629,17 +25882,16 @@ const WORDS_DE_B2 = [
       "ja": "飲み込む",
       "zh": "吞咽",
       "ru": "глотать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verschlingen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3273",
+    "lang": "de",
     "lemma": "schwan",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schwäne",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27657,15 +25909,11 @@ const WORDS_DE_B2 = [
       "ja": "白鳥",
       "zh": "天鹅",
       "ru": "лебедь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schwäne"
+    }
   },
   {
     "id": "de_3275",
+    "lang": "de",
     "lemma": "undankbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -27684,12 +25932,11 @@ const WORDS_DE_B2 = [
       "ja": "恩知らずの",
       "zh": "忘恩负义的",
       "ru": "неблагодарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3281",
+    "lang": "de",
     "lemma": "rutschen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27709,17 +25956,16 @@ const WORDS_DE_B2 = [
       "ja": "滑る",
       "zh": "滑动",
       "ru": "скользить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rutschen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3283",
+    "lang": "de",
     "lemma": "artillerie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "artillerien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27736,15 +25982,11 @@ const WORDS_DE_B2 = [
       "ja": "砲兵",
       "zh": "炮兵",
       "ru": "артиллерия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "artillerien"
+    }
   },
   {
     "id": "de_3284",
+    "lang": "de",
     "lemma": "hämmern",
     "pos": "Verb",
     "cefr": "B2",
@@ -27764,17 +26006,15 @@ const WORDS_DE_B2 = [
       "ja": "ハンマーで打つ",
       "zh": "锤击",
       "ru": "молотить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hämmern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3289",
+    "lang": "de",
     "lemma": "adel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27791,15 +26031,11 @@ const WORDS_DE_B2 = [
       "ja": "貴族",
       "zh": "贵族",
       "ru": "дворянство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_3290",
+    "lang": "de",
     "lemma": "kuscheln",
     "pos": "Verb",
     "cefr": "B2",
@@ -27819,17 +26055,16 @@ const WORDS_DE_B2 = [
       "ja": "抱き合う",
       "zh": "依偎",
       "ru": "прижиматься"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kuscheln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3295",
+    "lang": "de",
     "lemma": "muffin",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "muffins",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27846,15 +26081,11 @@ const WORDS_DE_B2 = [
       "ja": "マフィン",
       "zh": "松饼",
       "ru": "маффин"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "muffins"
+    }
   },
   {
     "id": "de_3296",
+    "lang": "de",
     "lemma": "offenbaren",
     "pos": "Verb",
     "cefr": "B2",
@@ -27873,17 +26104,16 @@ const WORDS_DE_B2 = [
       "ja": "明かす",
       "zh": "揭露",
       "ru": "раскрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "offenbaren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3298",
+    "lang": "de",
     "lemma": "naturtalent",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "naturtalente",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27901,17 +26131,16 @@ const WORDS_DE_B2 = [
       "ja": "天才",
       "zh": "天才",
       "ru": "природный талант"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "naturtalente"
+    }
   },
   {
     "id": "de_3299",
+    "lang": "de",
     "lemma": "streber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "streber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27929,17 +26158,16 @@ const WORDS_DE_B2 = [
       "ja": "努力家",
       "zh": "奋斗者",
       "ru": "честолюбец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "streber"
+    }
   },
   {
     "id": "de_3308",
+    "lang": "de",
     "lemma": "eiche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "eichen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -27957,15 +26185,11 @@ const WORDS_DE_B2 = [
       "ja": "樫",
       "zh": "橡树",
       "ru": "дуб"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "eichen"
+    }
   },
   {
     "id": "de_3309",
+    "lang": "de",
     "lemma": "schubsen",
     "pos": "Verb",
     "cefr": "B2",
@@ -27984,15 +26208,11 @@ const WORDS_DE_B2 = [
       "ja": "押す",
       "zh": "推",
       "ru": "толкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schubsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3310",
+    "lang": "de",
     "lemma": "brüsten",
     "pos": "Verb",
     "cefr": "B2",
@@ -28011,17 +26231,16 @@ const WORDS_DE_B2 = [
       "ja": "自慢する",
       "zh": "吹嘘",
       "ru": "хвастаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "brüsten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3311",
+    "lang": "de",
     "lemma": "espresso",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "espressos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28039,15 +26258,11 @@ const WORDS_DE_B2 = [
       "ja": "エスプレッソ",
       "zh": "浓缩咖啡",
       "ru": "эспрессо"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "espressos"
+    }
   },
   {
     "id": "de_3314",
+    "lang": "de",
     "lemma": "zwitschern",
     "pos": "Verb",
     "cefr": "B2",
@@ -28067,17 +26282,16 @@ const WORDS_DE_B2 = [
       "ja": "さえずる",
       "zh": "啾啾叫",
       "ru": "щебетать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zwitschern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3318",
+    "lang": "de",
     "lemma": "spatz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "spatzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28095,15 +26309,11 @@ const WORDS_DE_B2 = [
       "ja": "雀",
       "zh": "麻雀",
       "ru": "воробей"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "spatzen"
+    }
   },
   {
     "id": "de_3319",
+    "lang": "de",
     "lemma": "anschreien",
     "pos": "Verb",
     "cefr": "B2",
@@ -28122,15 +26332,11 @@ const WORDS_DE_B2 = [
       "ja": "怒鳴る",
       "zh": "对着喊",
       "ru": "кричать на"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anschreien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3320",
+    "lang": "de",
     "lemma": "zauberhaft",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28150,14 +26356,16 @@ const WORDS_DE_B2 = [
       "ja": "魔法のような",
       "zh": "神奇的",
       "ru": "волшебный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3321",
+    "lang": "de",
     "lemma": "krümel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "krümel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28175,15 +26383,11 @@ const WORDS_DE_B2 = [
       "ja": "パン粉",
       "zh": "面包屑",
       "ru": "крошка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "krümel"
+    }
   },
   {
     "id": "de_3325",
+    "lang": "de",
     "lemma": "wackeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -28203,15 +26407,11 @@ const WORDS_DE_B2 = [
       "ja": "揺れる",
       "zh": "摇晃",
       "ru": "качаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wackeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3326",
+    "lang": "de",
     "lemma": "interviewen",
     "pos": "Verb",
     "cefr": "B2",
@@ -28231,15 +26431,11 @@ const WORDS_DE_B2 = [
       "ja": "インタビューする",
       "zh": "采访",
       "ru": "интервьюировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "interviewen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3327",
+    "lang": "de",
     "lemma": "wiederherstellen",
     "pos": "Verb",
     "cefr": "B2",
@@ -28259,15 +26455,11 @@ const WORDS_DE_B2 = [
       "ja": "復旧する",
       "zh": "恢复",
       "ru": "восстанавливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wiederherstellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3328",
+    "lang": "de",
     "lemma": "kostbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28287,14 +26479,16 @@ const WORDS_DE_B2 = [
       "ja": "貴重な",
       "zh": "珍贵的",
       "ru": "драгоценный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3329",
+    "lang": "de",
     "lemma": "mumie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mumien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28311,17 +26505,16 @@ const WORDS_DE_B2 = [
       "ja": "ミイラ",
       "zh": "木乃伊",
       "ru": "мумия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mumien"
+    }
   },
   {
     "id": "de_3330",
+    "lang": "de",
     "lemma": "kittel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kittel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28339,17 +26532,16 @@ const WORDS_DE_B2 = [
       "ja": "作業着",
       "zh": "工作服",
       "ru": "халат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kittel"
+    }
   },
   {
     "id": "de_3331",
+    "lang": "de",
     "lemma": "kapitulation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kapitulationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28366,17 +26558,16 @@ const WORDS_DE_B2 = [
       "ja": "降伏",
       "zh": "投降",
       "ru": "капитуляция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kapitulationen"
+    }
   },
   {
     "id": "de_3332",
+    "lang": "de",
     "lemma": "schmied",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schmiede",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28394,15 +26585,11 @@ const WORDS_DE_B2 = [
       "ja": "鍛冶屋",
       "zh": "铁匠",
       "ru": "кузнец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schmiede"
+    }
   },
   {
     "id": "de_3336",
+    "lang": "de",
     "lemma": "schmieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -28422,17 +26609,16 @@ const WORDS_DE_B2 = [
       "ja": "塗る",
       "zh": "涂抹",
       "ru": "мазать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schmieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3341",
+    "lang": "de",
     "lemma": "darm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "därme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28450,17 +26636,16 @@ const WORDS_DE_B2 = [
       "ja": "腸",
       "zh": "肠",
       "ru": "кишка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "därme"
+    }
   },
   {
     "id": "de_3346",
+    "lang": "de",
     "lemma": "banker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "banker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28478,17 +26663,16 @@ const WORDS_DE_B2 = [
       "ja": "銀行家",
       "zh": "银行家",
       "ru": "банкир"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "banker"
+    }
   },
   {
     "id": "de_3352",
+    "lang": "de",
     "lemma": "arroganz",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "arroganzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28506,15 +26690,11 @@ const WORDS_DE_B2 = [
       "ja": "傲慢",
       "zh": "傲慢",
       "ru": "высокомерие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "arroganzen"
+    }
   },
   {
     "id": "de_3353",
+    "lang": "de",
     "lemma": "verletzlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28533,12 +26713,11 @@ const WORDS_DE_B2 = [
       "ja": "傷つきやすい",
       "zh": "易受伤的",
       "ru": "уязвимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3355",
+    "lang": "de",
     "lemma": "wegzunehmen",
     "pos": "Verb",
     "cefr": "B2",
@@ -28558,17 +26737,16 @@ const WORDS_DE_B2 = [
       "ja": "奪う",
       "zh": "夺走",
       "ru": "отнимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegzunehmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3360",
+    "lang": "de",
     "lemma": "dilemma",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "dilemmata",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28586,17 +26764,16 @@ const WORDS_DE_B2 = [
       "ja": "ジレンマ",
       "zh": "困境",
       "ru": "дилемма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "dilemmata"
+    }
   },
   {
     "id": "de_3365",
+    "lang": "de",
     "lemma": "sponsor",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "sponsoren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28614,17 +26791,16 @@ const WORDS_DE_B2 = [
       "ja": "スポンサー",
       "zh": "赞助商",
       "ru": "спонсор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "sponsoren"
+    }
   },
   {
     "id": "de_3366",
+    "lang": "de",
     "lemma": "durchsuchung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "durchsuchungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28641,15 +26817,11 @@ const WORDS_DE_B2 = [
       "ja": "捜索",
       "zh": "搜查",
       "ru": "обыск"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "durchsuchungen"
+    }
   },
   {
     "id": "de_3368",
+    "lang": "de",
     "lemma": "züchten",
     "pos": "Verb",
     "cefr": "B2",
@@ -28669,15 +26841,11 @@ const WORDS_DE_B2 = [
       "ja": "飼育する",
       "zh": "饲养",
       "ru": "разводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "züchten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3370",
+    "lang": "de",
     "lemma": "pflücken",
     "pos": "Verb",
     "cefr": "B2",
@@ -28697,15 +26865,11 @@ const WORDS_DE_B2 = [
       "ja": "摘む",
       "zh": "采摘",
       "ru": "срывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pflücken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3376",
+    "lang": "de",
     "lemma": "vielversprechend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28725,12 +26889,11 @@ const WORDS_DE_B2 = [
       "ja": "有望な",
       "zh": "有前景的",
       "ru": "многообещающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3377",
+    "lang": "de",
     "lemma": "pur",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28750,14 +26913,16 @@ const WORDS_DE_B2 = [
       "ja": "純粋な",
       "zh": "纯粹的",
       "ru": "чистый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3378",
+    "lang": "de",
     "lemma": "aschenbecher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aschenbecher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28774,15 +26939,11 @@ const WORDS_DE_B2 = [
       "ja": "灰皿",
       "zh": "烟灰缸",
       "ru": "пепельница"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aschenbecher"
+    }
   },
   {
     "id": "de_3380",
+    "lang": "de",
     "lemma": "undeutlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28802,14 +26963,16 @@ const WORDS_DE_B2 = [
       "ja": "不明瞭な",
       "zh": "不清楚的",
       "ru": "неясный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3382",
+    "lang": "de",
     "lemma": "fundament",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "fundamente",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28827,17 +26990,16 @@ const WORDS_DE_B2 = [
       "ja": "基礎",
       "zh": "基础",
       "ru": "основание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "fundamente"
+    }
   },
   {
     "id": "de_3386",
+    "lang": "de",
     "lemma": "klassenzimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "klassenzimmer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28855,15 +27017,11 @@ const WORDS_DE_B2 = [
       "ja": "教室",
       "zh": "教室",
       "ru": "класс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "klassenzimmer"
+    }
   },
   {
     "id": "de_3389",
+    "lang": "de",
     "lemma": "nachsichtig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28882,14 +27040,16 @@ const WORDS_DE_B2 = [
       "ja": "寛容な",
       "zh": "宽容的",
       "ru": "снисходительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3390",
+    "lang": "de",
     "lemma": "leihe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "leihen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28907,17 +27067,16 @@ const WORDS_DE_B2 = [
       "ja": "貸し出し",
       "zh": "出租",
       "ru": "аренда"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "leihen"
+    }
   },
   {
     "id": "de_3392",
+    "lang": "de",
     "lemma": "liebesleben",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "liebesleben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28934,15 +27093,11 @@ const WORDS_DE_B2 = [
       "ja": "恋愛生活",
       "zh": "爱情生活",
       "ru": "любовная жизнь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "liebesleben"
+    }
   },
   {
     "id": "de_3394",
+    "lang": "de",
     "lemma": "tüchtig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -28962,14 +27117,16 @@ const WORDS_DE_B2 = [
       "ja": "有能な",
       "zh": "能干的",
       "ru": "способный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3396",
+    "lang": "de",
     "lemma": "vorgang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "vorgänge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -28987,17 +27144,15 @@ const WORDS_DE_B2 = [
       "ja": "過程",
       "zh": "过程",
       "ru": "процесс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vorgänge"
+    }
   },
   {
     "id": "de_3399",
+    "lang": "de",
     "lemma": "vanille",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29015,17 +27170,15 @@ const WORDS_DE_B2 = [
       "ja": "バニラ",
       "zh": "香草",
       "ru": "ваниль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_3402",
+    "lang": "de",
     "lemma": "stroh",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29043,15 +27196,11 @@ const WORDS_DE_B2 = [
       "ja": "わら",
       "zh": "稻草",
       "ru": "солома"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_3403",
+    "lang": "de",
     "lemma": "eintauschen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29071,15 +27220,11 @@ const WORDS_DE_B2 = [
       "ja": "交換する",
       "zh": "交换",
       "ru": "обменивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eintauschen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3410",
+    "lang": "de",
     "lemma": "wiedererkennen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29099,17 +27244,16 @@ const WORDS_DE_B2 = [
       "ja": "再び認識する",
       "zh": "重新认出",
       "ru": "узнавать снова"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wiedererkennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3413",
+    "lang": "de",
     "lemma": "exempel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "exempel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29126,15 +27270,11 @@ const WORDS_DE_B2 = [
       "ja": "例",
       "zh": "例子",
       "ru": "пример"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "exempel"
+    }
   },
   {
     "id": "de_3415",
+    "lang": "de",
     "lemma": "entwerfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29153,17 +27293,16 @@ const WORDS_DE_B2 = [
       "ja": "設計する",
       "zh": "设计",
       "ru": "проектировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entwerfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3417",
+    "lang": "de",
     "lemma": "stellungnahme",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "stellungnahmen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29181,15 +27320,11 @@ const WORDS_DE_B2 = [
       "ja": "声明",
       "zh": "声明",
       "ru": "заявление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "stellungnahmen"
+    }
   },
   {
     "id": "de_3418",
+    "lang": "de",
     "lemma": "erlassen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29208,17 +27343,16 @@ const WORDS_DE_B2 = [
       "ja": "公布する",
       "zh": "颁布",
       "ru": "издавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erlassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3423",
+    "lang": "de",
     "lemma": "amateur",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "amateure",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29236,17 +27370,16 @@ const WORDS_DE_B2 = [
       "ja": "アマチュア",
       "zh": "业余爱好者",
       "ru": "любитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "amateure"
+    }
   },
   {
     "id": "de_3428",
+    "lang": "de",
     "lemma": "telefonat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "telefonate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29264,15 +27397,11 @@ const WORDS_DE_B2 = [
       "ja": "電話",
       "zh": "电话通话",
       "ru": "телефонный разговор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "telefonate"
+    }
   },
   {
     "id": "de_3430",
+    "lang": "de",
     "lemma": "geschmacklos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -29292,14 +27421,16 @@ const WORDS_DE_B2 = [
       "ja": "味気ない",
       "zh": "无味的",
       "ru": "безвкусный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3434",
+    "lang": "de",
     "lemma": "shampoo",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "shampoos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29317,15 +27448,11 @@ const WORDS_DE_B2 = [
       "ja": "シャンプー",
       "zh": "洗发水",
       "ru": "шампунь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "shampoos"
+    }
   },
   {
     "id": "de_3439",
+    "lang": "de",
     "lemma": "unwiderstehlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -29344,14 +27471,16 @@ const WORDS_DE_B2 = [
       "ja": "抵抗できない",
       "zh": "不可抗拒的",
       "ru": "неотразимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3440",
+    "lang": "de",
     "lemma": "umlaufbahn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "umlaufbahnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29368,17 +27497,16 @@ const WORDS_DE_B2 = [
       "ja": "軌道",
       "zh": "轨道",
       "ru": "орбита"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "umlaufbahnen"
+    }
   },
   {
     "id": "de_3442",
+    "lang": "de",
     "lemma": "splitter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "splitter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29396,15 +27524,11 @@ const WORDS_DE_B2 = [
       "ja": "破片",
       "zh": "碎片",
       "ru": "осколок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "splitter"
+    }
   },
   {
     "id": "de_3447",
+    "lang": "de",
     "lemma": "verjagen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29424,17 +27548,16 @@ const WORDS_DE_B2 = [
       "ja": "追い払う",
       "zh": "驱赶",
       "ru": "прогонять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verjagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3451",
+    "lang": "de",
     "lemma": "vegetarier",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "vegetarier",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29452,17 +27575,16 @@ const WORDS_DE_B2 = [
       "ja": "菜食主義者",
       "zh": "素食者",
       "ru": "вегетарианец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "vegetarier"
+    }
   },
   {
     "id": "de_3452",
+    "lang": "de",
     "lemma": "epidemie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "epidemien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29479,17 +27601,16 @@ const WORDS_DE_B2 = [
       "ja": "伝染病",
       "zh": "流行病",
       "ru": "эпидемия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "epidemien"
+    }
   },
   {
     "id": "de_3453",
+    "lang": "de",
     "lemma": "wurzel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "wurzeln",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29507,15 +27628,11 @@ const WORDS_DE_B2 = [
       "ja": "根",
       "zh": "根",
       "ru": "корень"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "wurzeln"
+    }
   },
   {
     "id": "de_3459",
+    "lang": "de",
     "lemma": "überweisen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29534,17 +27651,16 @@ const WORDS_DE_B2 = [
       "ja": "送金する",
       "zh": "转账",
       "ru": "переводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "überweisen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3463",
+    "lang": "de",
     "lemma": "bikini",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "bikinis",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29562,17 +27678,16 @@ const WORDS_DE_B2 = [
       "ja": "ビキニ",
       "zh": "比基尼",
       "ru": "бикини"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "bikinis"
+    }
   },
   {
     "id": "de_3468",
+    "lang": "de",
     "lemma": "gong",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "gongs",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29589,17 +27704,16 @@ const WORDS_DE_B2 = [
       "ja": "ゴング",
       "zh": "锣",
       "ru": "гонг"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "gongs"
+    }
   },
   {
     "id": "de_3470",
+    "lang": "de",
     "lemma": "cappuccino",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "cappuccino",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29617,17 +27731,16 @@ const WORDS_DE_B2 = [
       "ja": "カプチーノ",
       "zh": "卡布奇诺",
       "ru": "капучино"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "cappuccino"
+    }
   },
   {
     "id": "de_3474",
+    "lang": "de",
     "lemma": "bewunderung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bewunderungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29645,15 +27758,11 @@ const WORDS_DE_B2 = [
       "ja": "賞賛",
       "zh": "钦佩",
       "ru": "восхищение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bewunderungen"
+    }
   },
   {
     "id": "de_3476",
+    "lang": "de",
     "lemma": "hip",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -29672,12 +27781,11 @@ const WORDS_DE_B2 = [
       "ja": "流行の",
       "zh": "时髦的",
       "ru": "модный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_3477",
+    "lang": "de",
     "lemma": "überwältigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29696,17 +27804,16 @@ const WORDS_DE_B2 = [
       "ja": "圧倒する",
       "zh": "压倒",
       "ru": "подавлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "überwältigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3478",
+    "lang": "de",
     "lemma": "kaserne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kasernen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29724,17 +27831,16 @@ const WORDS_DE_B2 = [
       "ja": "兵舎",
       "zh": "兵营",
       "ru": "казарма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kasernen"
+    }
   },
   {
     "id": "de_3480",
+    "lang": "de",
     "lemma": "trompete",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "trompeten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29752,15 +27858,11 @@ const WORDS_DE_B2 = [
       "ja": "トランペット",
       "zh": "小号",
       "ru": "труба"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "trompeten"
+    }
   },
   {
     "id": "de_3485",
+    "lang": "de",
     "lemma": "erzielen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29780,15 +27882,11 @@ const WORDS_DE_B2 = [
       "ja": "達成する",
       "zh": "实现",
       "ru": "достигать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erzielen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3489",
+    "lang": "de",
     "lemma": "umhauen",
     "pos": "Verb",
     "cefr": "B2",
@@ -29808,17 +27906,15 @@ const WORDS_DE_B2 = [
       "ja": "倒す",
       "zh": "推倒",
       "ru": "валить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "umhauen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3490",
+    "lang": "de",
     "lemma": "barmherzigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29836,17 +27932,15 @@ const WORDS_DE_B2 = [
       "ja": "慈悲",
       "zh": "怜悯",
       "ru": "милосердие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_3492",
+    "lang": "de",
     "lemma": "verachtung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29863,17 +27957,16 @@ const WORDS_DE_B2 = [
       "ja": "軽蔑",
       "zh": "蔑视",
       "ru": "презрение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_3493",
+    "lang": "de",
     "lemma": "zylinder",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zylinder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29890,17 +27983,16 @@ const WORDS_DE_B2 = [
       "ja": "円柱",
       "zh": "圆柱",
       "ru": "цилиндр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zylinder"
+    }
   },
   {
     "id": "de_3494",
+    "lang": "de",
     "lemma": "provision",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "provisionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29918,17 +28010,16 @@ const WORDS_DE_B2 = [
       "ja": "手数料",
       "zh": "佣金",
       "ru": "комиссия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "provisionen"
+    }
   },
   {
     "id": "de_3495",
+    "lang": "de",
     "lemma": "disco",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "discos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -29946,15 +28037,11 @@ const WORDS_DE_B2 = [
       "ja": "ディスコ",
       "zh": "迪斯科舞厅",
       "ru": "дискотека"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "discos"
+    }
   },
   {
     "id": "de_3497",
+    "lang": "de",
     "lemma": "ähneln",
     "pos": "Verb",
     "cefr": "B2",
@@ -29974,15 +28061,11 @@ const WORDS_DE_B2 = [
       "ja": "似ている",
       "zh": "相似",
       "ru": "походить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ähneln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3498",
+    "lang": "de",
     "lemma": "großziehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30002,17 +28085,16 @@ const WORDS_DE_B2 = [
       "ja": "育てる",
       "zh": "养育",
       "ru": "воспитывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "großziehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_3501",
+    "lang": "de",
     "lemma": "anstrengung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "anstrengungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30030,15 +28112,11 @@ const WORDS_DE_B2 = [
       "ja": "努力",
       "zh": "努力",
       "ru": "усилие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "anstrengungen"
+    }
   },
   {
     "id": "de_6425",
+    "lang": "de",
     "lemma": "ununterbrochen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -30058,14 +28136,16 @@ const WORDS_DE_B2 = [
       "ja": "絶え間ない",
       "zh": "不间断的",
       "ru": "непрерывный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6428",
+    "lang": "de",
     "lemma": "beurteilung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "beurteilungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30083,17 +28163,16 @@ const WORDS_DE_B2 = [
       "ja": "評価",
       "zh": "评估",
       "ru": "оценка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "beurteilungen"
+    }
   },
   {
     "id": "de_6429",
+    "lang": "de",
     "lemma": "dämmerung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "dämmerungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30111,17 +28190,16 @@ const WORDS_DE_B2 = [
       "ja": "薄暮",
       "zh": "黄昏",
       "ru": "сумерки"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "dämmerungen"
+    }
   },
   {
     "id": "de_6432",
+    "lang": "de",
     "lemma": "lasagne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "lasagnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30139,15 +28217,11 @@ const WORDS_DE_B2 = [
       "ja": "ラザニア",
       "zh": "千层面",
       "ru": "лазанья"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "lasagnen"
+    }
   },
   {
     "id": "de_6435",
+    "lang": "de",
     "lemma": "meistern",
     "pos": "Verb",
     "cefr": "B2",
@@ -30167,15 +28241,11 @@ const WORDS_DE_B2 = [
       "ja": "克服する",
       "zh": "掌握",
       "ru": "овладеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "meistern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6444",
+    "lang": "de",
     "lemma": "selbstsüchtig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -30195,14 +28265,16 @@ const WORDS_DE_B2 = [
       "ja": "利己的な",
       "zh": "自私的",
       "ru": "эгоистичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6445",
+    "lang": "de",
     "lemma": "billard",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "billarde",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30220,17 +28292,16 @@ const WORDS_DE_B2 = [
       "ja": "ビリヤード",
       "zh": "台球",
       "ru": "бильярд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "billarde"
+    }
   },
   {
     "id": "de_6446",
+    "lang": "de",
     "lemma": "subjekt",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "subjekte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30247,15 +28318,11 @@ const WORDS_DE_B2 = [
       "ja": "主語",
       "zh": "主语",
       "ru": "подлежащее"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "subjekte"
+    }
   },
   {
     "id": "de_6452",
+    "lang": "de",
     "lemma": "traumhaft",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -30275,12 +28342,11 @@ const WORDS_DE_B2 = [
       "ja": "夢のような",
       "zh": "梦幻般的",
       "ru": "сказочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6454",
+    "lang": "de",
     "lemma": "obdachlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -30299,14 +28365,15 @@ const WORDS_DE_B2 = [
       "ja": "ホームレスの",
       "zh": "无家可归的",
       "ru": "бездомный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6457",
+    "lang": "de",
     "lemma": "gemurmel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30323,17 +28390,16 @@ const WORDS_DE_B2 = [
       "ja": "ぶつぶつ言う音",
       "zh": "嘟囔声",
       "ru": "бормотание"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_6463",
+    "lang": "de",
     "lemma": "jahrzehnt",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "jahrzehnte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30351,17 +28417,16 @@ const WORDS_DE_B2 = [
       "ja": "十年",
       "zh": "十年",
       "ru": "десятилетие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "jahrzehnte"
+    }
   },
   {
     "id": "de_6466",
+    "lang": "de",
     "lemma": "schnabel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schnäbel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30379,15 +28444,11 @@ const WORDS_DE_B2 = [
       "ja": "くちばし",
       "zh": "喙",
       "ru": "клюв"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schnäbel"
+    }
   },
   {
     "id": "de_6472",
+    "lang": "de",
     "lemma": "auszahlen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30407,17 +28468,16 @@ const WORDS_DE_B2 = [
       "ja": "支払う",
       "zh": "支付",
       "ru": "выплачивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auszahlen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6477",
+    "lang": "de",
     "lemma": "kaufmann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "kaufmänner",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30435,17 +28495,15 @@ const WORDS_DE_B2 = [
       "ja": "商人",
       "zh": "商人",
       "ru": "купец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "kaufmänner"
+    }
   },
   {
     "id": "de_6484",
+    "lang": "de",
     "lemma": "nachsicht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30462,15 +28520,11 @@ const WORDS_DE_B2 = [
       "ja": "寛容",
       "zh": "宽容",
       "ru": "снисходительность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6489",
+    "lang": "de",
     "lemma": "berücksichtigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30489,17 +28543,16 @@ const WORDS_DE_B2 = [
       "ja": "考慮する",
       "zh": "考虑",
       "ru": "учитывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "berücksichtigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6492",
+    "lang": "de",
     "lemma": "lotto",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "lottos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30517,17 +28570,16 @@ const WORDS_DE_B2 = [
       "ja": "宝くじ",
       "zh": "彩票",
       "ru": "лотерея"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "lottos"
+    }
   },
   {
     "id": "de_6493",
+    "lang": "de",
     "lemma": "entspannung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "entspannungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30545,17 +28597,16 @@ const WORDS_DE_B2 = [
       "ja": "リラックス",
       "zh": "放松",
       "ru": "расслабление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "entspannungen"
+    }
   },
   {
     "id": "de_6494",
+    "lang": "de",
     "lemma": "skelett",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "skelette",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30572,17 +28623,16 @@ const WORDS_DE_B2 = [
       "ja": "骨格",
       "zh": "骨骼",
       "ru": "скелет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "skelette"
+    }
   },
   {
     "id": "de_6496",
+    "lang": "de",
     "lemma": "finanzierung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "finanzierungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30599,17 +28649,16 @@ const WORDS_DE_B2 = [
       "ja": "資金調達",
       "zh": "融资",
       "ru": "финансирование"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "finanzierungen"
+    }
   },
   {
     "id": "de_6503",
+    "lang": "de",
     "lemma": "träumer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "träumer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30627,17 +28676,16 @@ const WORDS_DE_B2 = [
       "ja": "夢見る人",
       "zh": "梦想家",
       "ru": "мечтатель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "träumer"
+    }
   },
   {
     "id": "de_6506",
+    "lang": "de",
     "lemma": "sensation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "sensationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30654,15 +28702,11 @@ const WORDS_DE_B2 = [
       "ja": "センセーション",
       "zh": "轰动",
       "ru": "сенсация"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "sensationen"
+    }
   },
   {
     "id": "de_6507",
+    "lang": "de",
     "lemma": "verschenken",
     "pos": "Verb",
     "cefr": "B2",
@@ -30682,15 +28726,11 @@ const WORDS_DE_B2 = [
       "ja": "プレゼントする",
       "zh": "赠送",
       "ru": "дарить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verschenken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6508",
+    "lang": "de",
     "lemma": "ausgraben",
     "pos": "Verb",
     "cefr": "B2",
@@ -30710,17 +28750,15 @@ const WORDS_DE_B2 = [
       "ja": "掘り出す",
       "zh": "挖掘",
       "ru": "раскапывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ausgraben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6510",
+    "lang": "de",
     "lemma": "glaubwürdigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30737,15 +28775,11 @@ const WORDS_DE_B2 = [
       "ja": "信頼性",
       "zh": "可信度",
       "ru": "достоверность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6511",
+    "lang": "de",
     "lemma": "abschießen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30764,15 +28798,11 @@ const WORDS_DE_B2 = [
       "ja": "発射する",
       "zh": "发射",
       "ru": "стрелять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abschießen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6512",
+    "lang": "de",
     "lemma": "globale",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -30792,12 +28822,11 @@ const WORDS_DE_B2 = [
       "ja": "グローバルな",
       "zh": "全球的",
       "ru": "глобальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6513",
+    "lang": "de",
     "lemma": "zulegen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30816,15 +28845,11 @@ const WORDS_DE_B2 = [
       "ja": "増加する",
       "zh": "增加",
       "ru": "увеличиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zulegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6520",
+    "lang": "de",
     "lemma": "vollenden",
     "pos": "Verb",
     "cefr": "B2",
@@ -30844,17 +28869,16 @@ const WORDS_DE_B2 = [
       "ja": "完成する",
       "zh": "完成",
       "ru": "завершить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vollenden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6521",
+    "lang": "de",
     "lemma": "einsicht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "einsichten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30871,17 +28895,16 @@ const WORDS_DE_B2 = [
       "ja": "洞察",
       "zh": "洞察",
       "ru": "проницательность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "einsichten"
+    }
   },
   {
     "id": "de_6522",
+    "lang": "de",
     "lemma": "bankkonto",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "bankkonten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30899,17 +28922,16 @@ const WORDS_DE_B2 = [
       "ja": "銀行口座",
       "zh": "银行账户",
       "ru": "банковский счет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "bankkonten"
+    }
   },
   {
     "id": "de_6526",
+    "lang": "de",
     "lemma": "einverständnis",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "einverständnisse",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30927,17 +28949,16 @@ const WORDS_DE_B2 = [
       "ja": "同意",
       "zh": "同意",
       "ru": "согласие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "einverständnisse"
+    }
   },
   {
     "id": "de_6530",
+    "lang": "de",
     "lemma": "traktor",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "traktoren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -30955,15 +28976,11 @@ const WORDS_DE_B2 = [
       "ja": "トラクター",
       "zh": "拖拉机",
       "ru": "трактор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "traktoren"
+    }
   },
   {
     "id": "de_6531",
+    "lang": "de",
     "lemma": "versöhnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -30983,15 +29000,11 @@ const WORDS_DE_B2 = [
       "ja": "和解させる",
       "zh": "使和解",
       "ru": "примирять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "versöhnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6534",
+    "lang": "de",
     "lemma": "durchdringen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31010,15 +29023,11 @@ const WORDS_DE_B2 = [
       "ja": "貫く",
       "zh": "穿透",
       "ru": "пронизывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durchdringen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6535",
+    "lang": "de",
     "lemma": "bewerten",
     "pos": "Verb",
     "cefr": "B2",
@@ -31038,17 +29047,16 @@ const WORDS_DE_B2 = [
       "ja": "評価する",
       "zh": "评估",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bewerten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6539",
+    "lang": "de",
     "lemma": "manipulation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "manipulationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31065,17 +29073,16 @@ const WORDS_DE_B2 = [
       "ja": "操作",
       "zh": "操纵",
       "ru": "манипуляция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "manipulationen"
+    }
   },
   {
     "id": "de_6544",
+    "lang": "de",
     "lemma": "zeitraum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zeiträume",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31093,15 +29100,11 @@ const WORDS_DE_B2 = [
       "ja": "期間",
       "zh": "时期",
       "ru": "период"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zeiträume"
+    }
   },
   {
     "id": "de_6545",
+    "lang": "de",
     "lemma": "anklopfen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31120,17 +29123,16 @@ const WORDS_DE_B2 = [
       "ja": "ノックする",
       "zh": "敲门",
       "ru": "стучать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "anklopfen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6546",
+    "lang": "de",
     "lemma": "serviette",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "servietten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31148,17 +29150,16 @@ const WORDS_DE_B2 = [
       "ja": "ナプキン",
       "zh": "餐巾",
       "ru": "салфетка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "servietten"
+    }
   },
   {
     "id": "de_6548",
+    "lang": "de",
     "lemma": "pyramide",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "pyramiden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31176,15 +29177,11 @@ const WORDS_DE_B2 = [
       "ja": "ピラミッド",
       "zh": "金字塔",
       "ru": "пирамида"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "pyramiden"
+    }
   },
   {
     "id": "de_6549",
+    "lang": "de",
     "lemma": "belohnen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31203,17 +29200,16 @@ const WORDS_DE_B2 = [
       "ja": "報酬を与える",
       "zh": "奖励",
       "ru": "награждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "belohnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6550",
+    "lang": "de",
     "lemma": "ananas",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ananas",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31231,15 +29227,11 @@ const WORDS_DE_B2 = [
       "ja": "パイナップル",
       "zh": "菠萝",
       "ru": "ананас"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ananas"
+    }
   },
   {
     "id": "de_6551",
+    "lang": "de",
     "lemma": "herausfordern",
     "pos": "Verb",
     "cefr": "B2",
@@ -31258,17 +29250,16 @@ const WORDS_DE_B2 = [
       "ja": "挑戦する",
       "zh": "挑战",
       "ru": "вызывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herausfordern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6553",
+    "lang": "de",
     "lemma": "jacht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "jachten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31286,17 +29277,15 @@ const WORDS_DE_B2 = [
       "ja": "ヨット",
       "zh": "游艇",
       "ru": "яхта"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "jachten"
+    }
   },
   {
     "id": "de_6554",
+    "lang": "de",
     "lemma": "ultraschall",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31314,15 +29303,11 @@ const WORDS_DE_B2 = [
       "ja": "超音波",
       "zh": "超声波",
       "ru": "ультразвук"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_6558",
+    "lang": "de",
     "lemma": "abstreiten",
     "pos": "Verb",
     "cefr": "B2",
@@ -31341,15 +29326,11 @@ const WORDS_DE_B2 = [
       "ja": "否定する",
       "zh": "否认",
       "ru": "отрицать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abstreiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6559",
+    "lang": "de",
     "lemma": "hochziehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31368,17 +29349,16 @@ const WORDS_DE_B2 = [
       "ja": "引き上げる",
       "zh": "拉起",
       "ru": "тянуть вверх"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hochziehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6561",
+    "lang": "de",
     "lemma": "stempel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "stempel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31396,17 +29376,15 @@ const WORDS_DE_B2 = [
       "ja": "スタンプ",
       "zh": "印章",
       "ru": "печать"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "stempel"
+    }
   },
   {
     "id": "de_6563",
+    "lang": "de",
     "lemma": "asthma",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31424,17 +29402,15 @@ const WORDS_DE_B2 = [
       "ja": "喘息",
       "zh": "哮喘",
       "ru": "астма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_6569",
+    "lang": "de",
     "lemma": "vorrang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31451,17 +29427,16 @@ const WORDS_DE_B2 = [
       "ja": "優先権",
       "zh": "优先权",
       "ru": "приоритет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_6578",
+    "lang": "de",
     "lemma": "lagerfeuer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "lagerfeuer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31479,15 +29454,11 @@ const WORDS_DE_B2 = [
       "ja": "キャンプファイア",
       "zh": "篝火",
       "ru": "костер"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "lagerfeuer"
+    }
   },
   {
     "id": "de_6580",
+    "lang": "de",
     "lemma": "beistehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31507,17 +29478,16 @@ const WORDS_DE_B2 = [
       "ja": "助ける",
       "zh": "帮助",
       "ru": "помогать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beistehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6587",
+    "lang": "de",
     "lemma": "flüchtling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "flüchtlinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31534,17 +29504,16 @@ const WORDS_DE_B2 = [
       "ja": "難民",
       "zh": "难民",
       "ru": "беженец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "flüchtlinge"
+    }
   },
   {
     "id": "de_6588",
+    "lang": "de",
     "lemma": "gegengift",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "gegengifte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31561,15 +29530,11 @@ const WORDS_DE_B2 = [
       "ja": "解毒剤",
       "zh": "解毒剂",
       "ru": "противоядие"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "gegengifte"
+    }
   },
   {
     "id": "de_6589",
+    "lang": "de",
     "lemma": "schuften",
     "pos": "Verb",
     "cefr": "B2",
@@ -31589,17 +29554,16 @@ const WORDS_DE_B2 = [
       "ja": "懸命に働く",
       "zh": "辛苦工作",
       "ru": "работать тяжело"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schuften",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6590",
+    "lang": "de",
     "lemma": "strauß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "sträuße",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31617,17 +29581,16 @@ const WORDS_DE_B2 = [
       "ja": "花束",
       "zh": "花束",
       "ru": "букет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "sträuße"
+    }
   },
   {
     "id": "de_6592",
+    "lang": "de",
     "lemma": "aspekt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "aspekte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31645,17 +29608,16 @@ const WORDS_DE_B2 = [
       "ja": "側面",
       "zh": "方面",
       "ru": "аспект"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "aspekte"
+    }
   },
   {
     "id": "de_6593",
+    "lang": "de",
     "lemma": "rückzieher",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "rückzieher",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31673,15 +29635,11 @@ const WORDS_DE_B2 = [
       "ja": "撤回",
       "zh": "撤回",
       "ru": "отступление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "rückzieher"
+    }
   },
   {
     "id": "de_6595",
+    "lang": "de",
     "lemma": "unfreundlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -31701,14 +29659,16 @@ const WORDS_DE_B2 = [
       "ja": "不親切な",
       "zh": "不友好的",
       "ru": "недружелюбный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6602",
+    "lang": "de",
     "lemma": "minimum",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "minima",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31726,15 +29686,11 @@ const WORDS_DE_B2 = [
       "ja": "最小値",
       "zh": "最小值",
       "ru": "минимум"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "minima"
+    }
   },
   {
     "id": "de_6603",
+    "lang": "de",
     "lemma": "niesen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31754,17 +29710,16 @@ const WORDS_DE_B2 = [
       "ja": "くしゃみをする",
       "zh": "打喷嚏",
       "ru": "чихать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "niesen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6606",
+    "lang": "de",
     "lemma": "denker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "denker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31782,17 +29737,16 @@ const WORDS_DE_B2 = [
       "ja": "思想家",
       "zh": "思想家",
       "ru": "мыслитель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "denker"
+    }
   },
   {
     "id": "de_6614",
+    "lang": "de",
     "lemma": "trinker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "trinker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31810,17 +29764,16 @@ const WORDS_DE_B2 = [
       "ja": "飲み手",
       "zh": "饮酒者",
       "ru": "пьяница"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "trinker"
+    }
   },
   {
     "id": "de_6615",
+    "lang": "de",
     "lemma": "ungerechtigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "ungerechtigkeiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -31837,15 +29790,11 @@ const WORDS_DE_B2 = [
       "ja": "不正",
       "zh": "不公正",
       "ru": "несправедливость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "ungerechtigkeiten"
+    }
   },
   {
     "id": "de_6617",
+    "lang": "de",
     "lemma": "lauern",
     "pos": "Verb",
     "cefr": "B2",
@@ -31864,15 +29813,11 @@ const WORDS_DE_B2 = [
       "ja": "潜んで見守る",
       "zh": "潜伏观察",
       "ru": "подстерегать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lauern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6618",
+    "lang": "de",
     "lemma": "glotzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -31891,15 +29836,11 @@ const WORDS_DE_B2 = [
       "ja": "ぼんやり見つめる",
       "zh": "呆呆地看",
       "ru": "пялиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "glotzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6624",
+    "lang": "de",
     "lemma": "überglücklich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -31919,12 +29860,11 @@ const WORDS_DE_B2 = [
       "ja": "大喜びの",
       "zh": "欣喜若狂的",
       "ru": "в восторге"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6625",
+    "lang": "de",
     "lemma": "werten",
     "pos": "Verb",
     "cefr": "B2",
@@ -31943,15 +29883,11 @@ const WORDS_DE_B2 = [
       "ja": "評価する",
       "zh": "评估",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "werten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6627",
+    "lang": "de",
     "lemma": "ungelegen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -31970,12 +29906,11 @@ const WORDS_DE_B2 = [
       "ja": "不都合な",
       "zh": "不合时宜的",
       "ru": "неудобный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6628",
+    "lang": "de",
     "lemma": "primitiv",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -31994,12 +29929,11 @@ const WORDS_DE_B2 = [
       "ja": "原始的な",
       "zh": "原始的",
       "ru": "примитивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6631",
+    "lang": "de",
     "lemma": "verschwommen",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32019,14 +29953,16 @@ const WORDS_DE_B2 = [
       "ja": "ぼやけた",
       "zh": "模糊的",
       "ru": "размытый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6633",
+    "lang": "de",
     "lemma": "tyrann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "tyrannen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32043,17 +29979,16 @@ const WORDS_DE_B2 = [
       "ja": "暴君",
       "zh": "暴君",
       "ru": "тиран"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "tyrannen"
+    }
   },
   {
     "id": "de_6634",
+    "lang": "de",
     "lemma": "verbesserung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "verbesserungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32071,17 +30006,16 @@ const WORDS_DE_B2 = [
       "ja": "改善",
       "zh": "改进",
       "ru": "улучшение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "verbesserungen"
+    }
   },
   {
     "id": "de_6638",
+    "lang": "de",
     "lemma": "filter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "filter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32099,15 +30033,11 @@ const WORDS_DE_B2 = [
       "ja": "フィルター",
       "zh": "过滤器",
       "ru": "фильтр"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "filter"
+    }
   },
   {
     "id": "de_6639",
+    "lang": "de",
     "lemma": "durchsetzen",
     "pos": "Verb",
     "cefr": "B2",
@@ -32126,17 +30056,16 @@ const WORDS_DE_B2 = [
       "ja": "貫徹する",
       "zh": "贯彻",
       "ru": "проводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durchsetzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6641",
+    "lang": "de",
     "lemma": "durchgang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "durchgänge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32154,17 +30083,16 @@ const WORDS_DE_B2 = [
       "ja": "通路",
       "zh": "通道",
       "ru": "проход"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "durchgänge"
+    }
   },
   {
     "id": "de_6647",
+    "lang": "de",
     "lemma": "palme",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "palmen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32182,15 +30110,11 @@ const WORDS_DE_B2 = [
       "ja": "ヤシの木",
       "zh": "棕榈树",
       "ru": "пальма"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "palmen"
+    }
   },
   {
     "id": "de_6648",
+    "lang": "de",
     "lemma": "organisierte",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32210,14 +30134,16 @@ const WORDS_DE_B2 = [
       "ja": "組織された",
       "zh": "有组织的",
       "ru": "организованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6650",
+    "lang": "de",
     "lemma": "gemahlin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "gemahlinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32234,15 +30160,11 @@ const WORDS_DE_B2 = [
       "ja": "妻",
       "zh": "妻子",
       "ru": "супруга"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "gemahlinnen"
+    }
   },
   {
     "id": "de_6651",
+    "lang": "de",
     "lemma": "agieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -32262,15 +30184,11 @@ const WORDS_DE_B2 = [
       "ja": "行動する",
       "zh": "行动",
       "ru": "действовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "agieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6652",
+    "lang": "de",
     "lemma": "besteigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -32290,17 +30208,16 @@ const WORDS_DE_B2 = [
       "ja": "登る",
       "zh": "攀登",
       "ru": "подняться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "besteigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6658",
+    "lang": "de",
     "lemma": "schraube",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schrauben",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32318,15 +30235,11 @@ const WORDS_DE_B2 = [
       "ja": "ネジ",
       "zh": "螺钉",
       "ru": "винт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schrauben"
+    }
   },
   {
     "id": "de_6659",
+    "lang": "de",
     "lemma": "aufschneiden",
     "pos": "Verb",
     "cefr": "B2",
@@ -32346,17 +30259,16 @@ const WORDS_DE_B2 = [
       "ja": "開く",
       "zh": "打开",
       "ru": "открыть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufschneiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6666",
+    "lang": "de",
     "lemma": "viertelstunde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "viertelstunden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32374,15 +30286,11 @@ const WORDS_DE_B2 = [
       "ja": "15分",
       "zh": "一刻钟",
       "ru": "четверть часа"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "viertelstunden"
+    }
   },
   {
     "id": "de_6669",
+    "lang": "de",
     "lemma": "geizig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32402,12 +30310,11 @@ const WORDS_DE_B2 = [
       "ja": "けちな",
       "zh": "吝啬的",
       "ru": "скупой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6670",
+    "lang": "de",
     "lemma": "skeptisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32427,12 +30334,11 @@ const WORDS_DE_B2 = [
       "ja": "懐疑的な",
       "zh": "怀疑的",
       "ru": "скептический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6671",
+    "lang": "de",
     "lemma": "göttlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32451,14 +30357,16 @@ const WORDS_DE_B2 = [
       "ja": "神聖な",
       "zh": "神圣的",
       "ru": "божественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6676",
+    "lang": "de",
     "lemma": "verlag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "verlage",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32476,17 +30384,16 @@ const WORDS_DE_B2 = [
       "ja": "出版社",
       "zh": "出版社",
       "ru": "издательство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "verlage"
+    }
   },
   {
     "id": "de_6678",
+    "lang": "de",
     "lemma": "symptom",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "symptome",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32503,17 +30410,16 @@ const WORDS_DE_B2 = [
       "ja": "症状",
       "zh": "症状",
       "ru": "симптом"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "symptome"
+    }
   },
   {
     "id": "de_6680",
+    "lang": "de",
     "lemma": "geschick",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "geschicke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32531,17 +30437,16 @@ const WORDS_DE_B2 = [
       "ja": "技能",
       "zh": "技能",
       "ru": "умение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "geschicke"
+    }
   },
   {
     "id": "de_6682",
+    "lang": "de",
     "lemma": "familienmitglied",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "familienmitglieder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32559,17 +30464,16 @@ const WORDS_DE_B2 = [
       "ja": "家族構成員",
       "zh": "家庭成员",
       "ru": "член семьи"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "familienmitglieder"
+    }
   },
   {
     "id": "de_6685",
+    "lang": "de",
     "lemma": "abrechnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "abrechnungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32586,15 +30490,11 @@ const WORDS_DE_B2 = [
       "ja": "決済",
       "zh": "结算",
       "ru": "расчёт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "abrechnungen"
+    }
   },
   {
     "id": "de_6692",
+    "lang": "de",
     "lemma": "zucken",
     "pos": "Verb",
     "cefr": "B2",
@@ -32614,15 +30514,11 @@ const WORDS_DE_B2 = [
       "ja": "びくっとする",
       "zh": "抽搐",
       "ru": "вздрагивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zucken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6694",
+    "lang": "de",
     "lemma": "pennen",
     "pos": "Verb",
     "cefr": "B2",
@@ -32642,15 +30538,11 @@ const WORDS_DE_B2 = [
       "ja": "寝る",
       "zh": "睡觉",
       "ru": "спать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6697",
+    "lang": "de",
     "lemma": "verwirklichen",
     "pos": "Verb",
     "cefr": "B2",
@@ -32669,15 +30561,11 @@ const WORDS_DE_B2 = [
       "ja": "実現する",
       "zh": "实现",
       "ru": "осуществлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verwirklichen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6701",
+    "lang": "de",
     "lemma": "herzlos",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -32696,14 +30584,15 @@ const WORDS_DE_B2 = [
       "ja": "無情な",
       "zh": "无情的",
       "ru": "бессердечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6702",
+    "lang": "de",
     "lemma": "kosmos",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32721,17 +30610,16 @@ const WORDS_DE_B2 = [
       "ja": "宇宙",
       "zh": "宇宙",
       "ru": "космос"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_6703",
+    "lang": "de",
     "lemma": "kommode",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kommoden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32749,17 +30637,16 @@ const WORDS_DE_B2 = [
       "ja": "タンス",
       "zh": "梳妆台",
       "ru": "комод"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kommoden"
+    }
   },
   {
     "id": "de_6707",
+    "lang": "de",
     "lemma": "terminal",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "terminals",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32777,17 +30664,16 @@ const WORDS_DE_B2 = [
       "ja": "ターミナル",
       "zh": "终点站",
       "ru": "терминал"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "terminals"
+    }
   },
   {
     "id": "de_6709",
+    "lang": "de",
     "lemma": "endstation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "endstationen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32805,17 +30691,16 @@ const WORDS_DE_B2 = [
       "ja": "終点",
       "zh": "终点",
       "ru": "конечная станция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "endstationen"
+    }
   },
   {
     "id": "de_6710",
+    "lang": "de",
     "lemma": "betreuer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "betreuer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32833,17 +30718,16 @@ const WORDS_DE_B2 = [
       "ja": "担当者",
       "zh": "负责人",
       "ru": "опекун"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "betreuer"
+    }
   },
   {
     "id": "de_6712",
+    "lang": "de",
     "lemma": "neuling",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "neulinge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32861,17 +30745,16 @@ const WORDS_DE_B2 = [
       "ja": "初心者",
       "zh": "新手",
       "ru": "новичок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "neulinge"
+    }
   },
   {
     "id": "de_6716",
+    "lang": "de",
     "lemma": "thunfisch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "thunfische",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -32889,15 +30772,11 @@ const WORDS_DE_B2 = [
       "ja": "マグロ",
       "zh": "金枪鱼",
       "ru": "тунец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "thunfische"
+    }
   },
   {
     "id": "de_6717",
+    "lang": "de",
     "lemma": "verringern",
     "pos": "Verb",
     "cefr": "B2",
@@ -32917,15 +30796,11 @@ const WORDS_DE_B2 = [
       "ja": "減らす",
       "zh": "减少",
       "ru": "уменьшать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verringern",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6724",
+    "lang": "de",
     "lemma": "wärmen",
     "pos": "Verb",
     "cefr": "B2",
@@ -32945,15 +30820,11 @@ const WORDS_DE_B2 = [
       "ja": "温める",
       "zh": "温暖",
       "ru": "согревать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wärmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6725",
+    "lang": "de",
     "lemma": "verehren",
     "pos": "Verb",
     "cefr": "B2",
@@ -32973,15 +30844,11 @@ const WORDS_DE_B2 = [
       "ja": "尊敬する",
       "zh": "敬仰",
       "ru": "почитать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verehren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6727",
+    "lang": "de",
     "lemma": "feuchten",
     "pos": "Verb",
     "cefr": "B2",
@@ -33000,17 +30867,16 @@ const WORDS_DE_B2 = [
       "ja": "湿らせる",
       "zh": "弄湿",
       "ru": "увлажнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "feuchten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6730",
+    "lang": "de",
     "lemma": "prämie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "prämien",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33028,15 +30894,11 @@ const WORDS_DE_B2 = [
       "ja": "ボーナス",
       "zh": "奖金",
       "ru": "премия"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "prämien"
+    }
   },
   {
     "id": "de_6734",
+    "lang": "de",
     "lemma": "dreist",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -33055,14 +30917,16 @@ const WORDS_DE_B2 = [
       "ja": "厚かましい",
       "zh": "厚颜无耻",
       "ru": "наглый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6737",
+    "lang": "de",
     "lemma": "wanderer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "wanderer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33080,15 +30944,11 @@ const WORDS_DE_B2 = [
       "ja": "ハイカー",
       "zh": "登山者",
       "ru": "путешественник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "wanderer"
+    }
   },
   {
     "id": "de_6742",
+    "lang": "de",
     "lemma": "finster",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -33108,14 +30968,16 @@ const WORDS_DE_B2 = [
       "ja": "暗い",
       "zh": "黑暗",
       "ru": "мрачный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6743",
+    "lang": "de",
     "lemma": "kamel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kamele",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33133,15 +30995,11 @@ const WORDS_DE_B2 = [
       "ja": "ラクダ",
       "zh": "骆驼",
       "ru": "верблюд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kamele"
+    }
   },
   {
     "id": "de_6745",
+    "lang": "de",
     "lemma": "abwenden",
     "pos": "Verb",
     "cefr": "B2",
@@ -33160,17 +31018,15 @@ const WORDS_DE_B2 = [
       "ja": "背ける",
       "zh": "转向",
       "ru": "отворачивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abwenden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6747",
+    "lang": "de",
     "lemma": "kopfweh",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33188,17 +31044,16 @@ const WORDS_DE_B2 = [
       "ja": "頭痛",
       "zh": "头痛",
       "ru": "головная боль"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_6749",
+    "lang": "de",
     "lemma": "melone",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "melonen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33216,17 +31071,16 @@ const WORDS_DE_B2 = [
       "ja": "メロン",
       "zh": "甜瓜",
       "ru": "дыня"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "melonen"
+    }
   },
   {
     "id": "de_6751",
+    "lang": "de",
     "lemma": "prozedur",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "prozeduren",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33244,15 +31098,11 @@ const WORDS_DE_B2 = [
       "ja": "手順",
       "zh": "程序",
       "ru": "процедура"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "prozeduren"
+    }
   },
   {
     "id": "de_6753",
+    "lang": "de",
     "lemma": "heimgehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -33271,17 +31121,16 @@ const WORDS_DE_B2 = [
       "ja": "家に帰る",
       "zh": "回家",
       "ru": "идти домой"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "heimgehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6756",
+    "lang": "de",
     "lemma": "ohrring",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ohrringe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33299,17 +31148,16 @@ const WORDS_DE_B2 = [
       "ja": "イヤリング",
       "zh": "耳环",
       "ru": "серьга"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ohrringe"
+    }
   },
   {
     "id": "de_6758",
+    "lang": "de",
     "lemma": "architektur",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "architekturen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33326,17 +31174,15 @@ const WORDS_DE_B2 = [
       "ja": "建築",
       "zh": "建筑",
       "ru": "архитектура"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "architekturen"
+    }
   },
   {
     "id": "de_6762",
+    "lang": "de",
     "lemma": "neugierde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33354,17 +31200,16 @@ const WORDS_DE_B2 = [
       "ja": "好奇心",
       "zh": "好奇心",
       "ru": "любопытство"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6763",
+    "lang": "de",
     "lemma": "limit",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "limits",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33382,17 +31227,15 @@ const WORDS_DE_B2 = [
       "ja": "限界",
       "zh": "限制",
       "ru": "лимит"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "limits"
+    }
   },
   {
     "id": "de_6765",
+    "lang": "de",
     "lemma": "männlichkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33409,17 +31252,16 @@ const WORDS_DE_B2 = [
       "ja": "男らしさ",
       "zh": "男性气质",
       "ru": "мужественность"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6768",
+    "lang": "de",
     "lemma": "wohnmobil",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "wohnmobile",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33437,17 +31279,16 @@ const WORDS_DE_B2 = [
       "ja": "キャンピングカー",
       "zh": "房车",
       "ru": "дом на колесах"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "wohnmobile"
+    }
   },
   {
     "id": "de_6772",
+    "lang": "de",
     "lemma": "trümmer",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "trümmer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33465,17 +31306,16 @@ const WORDS_DE_B2 = [
       "ja": "瓦礫",
       "zh": "废墟",
       "ru": "обломки"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "trümmer"
+    }
   },
   {
     "id": "de_6777",
+    "lang": "de",
     "lemma": "fingerabdruck",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "fingerabdrücke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33492,17 +31332,16 @@ const WORDS_DE_B2 = [
       "ja": "指紋",
       "zh": "指纹",
       "ru": "отпечаток пальца"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "fingerabdrücke"
+    }
   },
   {
     "id": "de_6778",
+    "lang": "de",
     "lemma": "schokoriegel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schokoriegel",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33519,17 +31358,16 @@ const WORDS_DE_B2 = [
       "ja": "チョコレートバー",
       "zh": "巧克力棒",
       "ru": "шоколадный батончик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schokoriegel"
+    }
   },
   {
     "id": "de_6781",
+    "lang": "de",
     "lemma": "reservat",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "reservate",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33547,17 +31385,15 @@ const WORDS_DE_B2 = [
       "ja": "保護区",
       "zh": "保护区",
       "ru": "заповедник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "reservate"
+    }
   },
   {
     "id": "de_6782",
+    "lang": "de",
     "lemma": "selbstachtung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33575,17 +31411,16 @@ const WORDS_DE_B2 = [
       "ja": "自尊心",
       "zh": "自尊心",
       "ru": "самоуважение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6785",
+    "lang": "de",
     "lemma": "laterne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "laternen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33603,17 +31438,16 @@ const WORDS_DE_B2 = [
       "ja": "提灯",
       "zh": "灯笼",
       "ru": "фонарь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "laternen"
+    }
   },
   {
     "id": "de_6786",
+    "lang": "de",
     "lemma": "schreiber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schreiber",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33631,15 +31465,11 @@ const WORDS_DE_B2 = [
       "ja": "書記",
       "zh": "书记员",
       "ru": "писец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schreiber"
+    }
   },
   {
     "id": "de_6787",
+    "lang": "de",
     "lemma": "unvermeidlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -33659,14 +31489,16 @@ const WORDS_DE_B2 = [
       "ja": "避けられない",
       "zh": "不可避免的",
       "ru": "неизбежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6788",
+    "lang": "de",
     "lemma": "schürze",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schürzen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33684,17 +31516,16 @@ const WORDS_DE_B2 = [
       "ja": "エプロン",
       "zh": "围裙",
       "ru": "фартук"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schürzen"
+    }
   },
   {
     "id": "de_6790",
+    "lang": "de",
     "lemma": "jaguar",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "jaguare",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33712,17 +31543,16 @@ const WORDS_DE_B2 = [
       "ja": "ジャガー",
       "zh": "美洲豹",
       "ru": "ягуар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "jaguare"
+    }
   },
   {
     "id": "de_6793",
+    "lang": "de",
     "lemma": "institution",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "institutionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33740,15 +31570,11 @@ const WORDS_DE_B2 = [
       "ja": "機関",
       "zh": "机构",
       "ru": "учреждение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "institutionen"
+    }
   },
   {
     "id": "de_6797",
+    "lang": "de",
     "lemma": "edel",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -33768,12 +31594,11 @@ const WORDS_DE_B2 = [
       "ja": "高貴な",
       "zh": "高贵的",
       "ru": "благородный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6798",
+    "lang": "de",
     "lemma": "hocken",
     "pos": "Verb",
     "cefr": "B2",
@@ -33792,17 +31617,16 @@ const WORDS_DE_B2 = [
       "ja": "しゃがむ",
       "zh": "蹲下",
       "ru": "приседать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hocken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6800",
+    "lang": "de",
     "lemma": "organ",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "organe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33820,17 +31644,16 @@ const WORDS_DE_B2 = [
       "ja": "器官",
       "zh": "器官",
       "ru": "орган"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "organe"
+    }
   },
   {
     "id": "de_6801",
+    "lang": "de",
     "lemma": "brunch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "brunche",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33848,17 +31671,15 @@ const WORDS_DE_B2 = [
       "ja": "ブランチ",
       "zh": "早午餐",
       "ru": "бранч"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "brunche"
+    }
   },
   {
     "id": "de_6804",
+    "lang": "de",
     "lemma": "abwehr",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33876,17 +31697,16 @@ const WORDS_DE_B2 = [
       "ja": "防御",
       "zh": "防守",
       "ru": "оборона"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": ""
+    }
   },
   {
     "id": "de_6810",
+    "lang": "de",
     "lemma": "zweig",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "zweige",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33904,17 +31724,16 @@ const WORDS_DE_B2 = [
       "ja": "枝",
       "zh": "树枝",
       "ru": "ветка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "zweige"
+    }
   },
   {
     "id": "de_6813",
+    "lang": "de",
     "lemma": "schwiegertochter",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "schwiegertöchter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33932,17 +31751,16 @@ const WORDS_DE_B2 = [
       "ja": "嫁",
       "zh": "儿媳",
       "ru": "невестка"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "schwiegertöchter"
+    }
   },
   {
     "id": "de_6816",
+    "lang": "de",
     "lemma": "poet",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "poeten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33959,17 +31777,16 @@ const WORDS_DE_B2 = [
       "ja": "詩人",
       "zh": "诗人",
       "ru": "поэт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "poeten"
+    }
   },
   {
     "id": "de_6817",
+    "lang": "de",
     "lemma": "blockade",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "blockaden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -33986,17 +31803,16 @@ const WORDS_DE_B2 = [
       "ja": "封鎖",
       "zh": "封锁",
       "ru": "блокада"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "blockaden"
+    }
   },
   {
     "id": "de_6818",
+    "lang": "de",
     "lemma": "kollektion",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "kollektionen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34014,17 +31830,16 @@ const WORDS_DE_B2 = [
       "ja": "コレクション",
       "zh": "收藏",
       "ru": "коллекция"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "kollektionen"
+    }
   },
   {
     "id": "de_6819",
+    "lang": "de",
     "lemma": "sauna",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "saunen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34042,17 +31857,16 @@ const WORDS_DE_B2 = [
       "ja": "サウナ",
       "zh": "桑拿",
       "ru": "сауна"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "saunen"
+    }
   },
   {
     "id": "de_6820",
+    "lang": "de",
     "lemma": "geburtsurkunde",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "geburtsurkunden",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34069,15 +31883,11 @@ const WORDS_DE_B2 = [
       "ja": "出生証明書",
       "zh": "出生证明",
       "ru": "свидетельство о рождении"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "geburtsurkunden"
+    }
   },
   {
     "id": "de_6822",
+    "lang": "de",
     "lemma": "erfrieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -34097,17 +31907,15 @@ const WORDS_DE_B2 = [
       "ja": "凍死する",
       "zh": "冻死",
       "ru": "замерзнуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "erfrieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6824",
+    "lang": "de",
     "lemma": "schwefel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34125,17 +31933,16 @@ const WORDS_DE_B2 = [
       "ja": "硫黄",
       "zh": "硫磺",
       "ru": "сера"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": ""
+    }
   },
   {
     "id": "de_6827",
+    "lang": "de",
     "lemma": "nordpol",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "nordpole",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34153,15 +31960,11 @@ const WORDS_DE_B2 = [
       "ja": "北極",
       "zh": "北极",
       "ru": "Северный полюс"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "nordpole"
+    }
   },
   {
     "id": "de_6832",
+    "lang": "de",
     "lemma": "ablassen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34181,17 +31984,16 @@ const WORDS_DE_B2 = [
       "ja": "諦める",
       "zh": "放弃",
       "ru": "отказаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ablassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6834",
+    "lang": "de",
     "lemma": "begabung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "begabungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34209,17 +32011,16 @@ const WORDS_DE_B2 = [
       "ja": "才能",
       "zh": "才能",
       "ru": "талант"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "begabungen"
+    }
   },
   {
     "id": "de_6836",
+    "lang": "de",
     "lemma": "pilger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "pilger",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34237,15 +32038,11 @@ const WORDS_DE_B2 = [
       "ja": "巡礼者",
       "zh": "朝圣者",
       "ru": "паломник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "pilger"
+    }
   },
   {
     "id": "de_6839",
+    "lang": "de",
     "lemma": "bezwingen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34264,17 +32061,15 @@ const WORDS_DE_B2 = [
       "ja": "克服する",
       "zh": "克服",
       "ru": "преодолеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bezwingen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6841",
+    "lang": "de",
     "lemma": "hockey",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34292,17 +32087,16 @@ const WORDS_DE_B2 = [
       "ja": "ホッケー",
       "zh": "曲棍球",
       "ru": "хоккей"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": ""
+    }
   },
   {
     "id": "de_6842",
+    "lang": "de",
     "lemma": "missachtung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "missachtungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34320,17 +32114,16 @@ const WORDS_DE_B2 = [
       "ja": "軽視",
       "zh": "蔑视",
       "ru": "пренебрежение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "missachtungen"
+    }
   },
   {
     "id": "de_6844",
+    "lang": "de",
     "lemma": "ausbilder",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ausbilder",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34348,17 +32141,16 @@ const WORDS_DE_B2 = [
       "ja": "講師",
       "zh": "教练",
       "ru": "инструктор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ausbilder"
+    }
   },
   {
     "id": "de_6847",
+    "lang": "de",
     "lemma": "arbeitstag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "arbeitstage",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34376,15 +32168,11 @@ const WORDS_DE_B2 = [
       "ja": "勤務日",
       "zh": "工作日",
       "ru": "рабочий день"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "arbeitstage"
+    }
   },
   {
     "id": "de_6848",
+    "lang": "de",
     "lemma": "hergeben",
     "pos": "Verb",
     "cefr": "B2",
@@ -34403,17 +32191,16 @@ const WORDS_DE_B2 = [
       "ja": "手渡す",
       "zh": "交出",
       "ru": "передать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hergeben",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6850",
+    "lang": "de",
     "lemma": "siedler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "siedler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34430,15 +32217,11 @@ const WORDS_DE_B2 = [
       "ja": "入植者",
       "zh": "定居者",
       "ru": "поселенец"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "siedler"
+    }
   },
   {
     "id": "de_6851",
+    "lang": "de",
     "lemma": "bestehlen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34457,15 +32240,11 @@ const WORDS_DE_B2 = [
       "ja": "盗む",
       "zh": "偷窃",
       "ru": "воровать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bestehlen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6852",
+    "lang": "de",
     "lemma": "fälschen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34484,15 +32263,11 @@ const WORDS_DE_B2 = [
       "ja": "偽造する",
       "zh": "伪造",
       "ru": "подделать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fälschen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6854",
+    "lang": "de",
     "lemma": "hellen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34511,17 +32286,16 @@ const WORDS_DE_B2 = [
       "ja": "明るくなる",
       "zh": "变亮",
       "ru": "светлеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6860",
+    "lang": "de",
     "lemma": "apotheker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "apotheker",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34539,17 +32313,16 @@ const WORDS_DE_B2 = [
       "ja": "薬剤師",
       "zh": "药剂师",
       "ru": "фармацевт"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "apotheker"
+    }
   },
   {
     "id": "de_6865",
+    "lang": "de",
     "lemma": "schmuggler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "schmuggler",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34567,17 +32340,16 @@ const WORDS_DE_B2 = [
       "ja": "密輸業者",
       "zh": "走私犯",
       "ru": "контрабандист"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "schmuggler"
+    }
   },
   {
     "id": "de_6866",
+    "lang": "de",
     "lemma": "scooter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "scooter",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34595,17 +32367,16 @@ const WORDS_DE_B2 = [
       "ja": "スクーター",
       "zh": "滑板车",
       "ru": "самокат"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "scooter"
+    }
   },
   {
     "id": "de_6869",
+    "lang": "de",
     "lemma": "einwanderer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "einwanderer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34623,17 +32394,16 @@ const WORDS_DE_B2 = [
       "ja": "移民",
       "zh": "移民",
       "ru": "иммигрант"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "einwanderer"
+    }
   },
   {
     "id": "de_6870",
+    "lang": "de",
     "lemma": "badeanzug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "badeanzüge",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34651,15 +32421,11 @@ const WORDS_DE_B2 = [
       "ja": "水着",
       "zh": "泳衣",
       "ru": "купальник"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "badeanzüge"
+    }
   },
   {
     "id": "de_6874",
+    "lang": "de",
     "lemma": "vulgär",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -34678,12 +32444,11 @@ const WORDS_DE_B2 = [
       "ja": "下品な",
       "zh": "粗俗的",
       "ru": "вульгарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6876",
+    "lang": "de",
     "lemma": "campen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34703,15 +32468,11 @@ const WORDS_DE_B2 = [
       "ja": "キャンプする",
       "zh": "露营",
       "ru": "разбивать лагерь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "campen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6880",
+    "lang": "de",
     "lemma": "ungünstig",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -34731,12 +32492,11 @@ const WORDS_DE_B2 = [
       "ja": "不利な",
       "zh": "不利的",
       "ru": "неблагоприятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6881",
+    "lang": "de",
     "lemma": "komplexe",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -34755,14 +32515,16 @@ const WORDS_DE_B2 = [
       "ja": "複雑な",
       "zh": "复杂的",
       "ru": "сложный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6882",
+    "lang": "de",
     "lemma": "zimmermädchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "zimmermädchen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34780,17 +32542,16 @@ const WORDS_DE_B2 = [
       "ja": "客室係",
       "zh": "女服务员",
       "ru": "горничная"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "zimmermädchen"
+    }
   },
   {
     "id": "de_6885",
+    "lang": "de",
     "lemma": "mitfahrgelegenheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "mitfahrgelegenheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34808,15 +32569,11 @@ const WORDS_DE_B2 = [
       "ja": "相乗り",
       "zh": "搭车机会",
       "ru": "возможность подвезти"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "mitfahrgelegenheiten"
+    }
   },
   {
     "id": "de_6887",
+    "lang": "de",
     "lemma": "kandidieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -34835,17 +32592,16 @@ const WORDS_DE_B2 = [
       "ja": "立候補する",
       "zh": "参选",
       "ru": "баллотироваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kandidieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6897",
+    "lang": "de",
     "lemma": "kupfer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kupfer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34863,17 +32619,16 @@ const WORDS_DE_B2 = [
       "ja": "銅",
       "zh": "铜",
       "ru": "медь"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kupfer"
+    }
   },
   {
     "id": "de_6899",
+    "lang": "de",
     "lemma": "antenne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "antennen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34891,15 +32646,11 @@ const WORDS_DE_B2 = [
       "ja": "アンテナ",
       "zh": "天线",
       "ru": "антенна"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "antennen"
+    }
   },
   {
     "id": "de_6900",
+    "lang": "de",
     "lemma": "aufessen",
     "pos": "Verb",
     "cefr": "B2",
@@ -34918,15 +32669,11 @@ const WORDS_DE_B2 = [
       "ja": "食べ終わる",
       "zh": "吃完",
       "ru": "доедать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aufessen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6904",
+    "lang": "de",
     "lemma": "spendieren",
     "pos": "Verb",
     "cefr": "B2",
@@ -34945,17 +32692,16 @@ const WORDS_DE_B2 = [
       "ja": "おごる",
       "zh": "请客",
       "ru": "угощать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spendieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6907",
+    "lang": "de",
     "lemma": "autorin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "autorinnen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -34973,17 +32719,16 @@ const WORDS_DE_B2 = [
       "ja": "女性著者",
       "zh": "女作家",
       "ru": "авторша"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "autorinnen"
+    }
   },
   {
     "id": "de_6910",
+    "lang": "de",
     "lemma": "bezeichnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "bezeichnungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35001,17 +32746,16 @@ const WORDS_DE_B2 = [
       "ja": "呼称",
       "zh": "名称",
       "ru": "обозначение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "bezeichnungen"
+    }
   },
   {
     "id": "de_6912",
+    "lang": "de",
     "lemma": "leuchtturm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "leuchttürme",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35029,17 +32773,16 @@ const WORDS_DE_B2 = [
       "ja": "灯台",
       "zh": "灯塔",
       "ru": "маяк"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "leuchttürme"
+    }
   },
   {
     "id": "de_6913",
+    "lang": "de",
     "lemma": "kabinett",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "kabinette",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35056,17 +32799,16 @@ const WORDS_DE_B2 = [
       "ja": "小室",
       "zh": "小房间",
       "ru": "кабинет"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "kabinette"
+    }
   },
   {
     "id": "de_6915",
+    "lang": "de",
     "lemma": "auffahrt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "auffahrten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35084,15 +32826,11 @@ const WORDS_DE_B2 = [
       "ja": "進入路",
       "zh": "进入坡道",
       "ru": "въезд"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "auffahrten"
+    }
   },
   {
     "id": "de_6916",
+    "lang": "de",
     "lemma": "auffressen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35111,15 +32849,11 @@ const WORDS_DE_B2 = [
       "ja": "食べ尽くす",
       "zh": "吃光",
       "ru": "пожирать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "auffressen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6918",
+    "lang": "de",
     "lemma": "zusammenbrechen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35138,17 +32872,16 @@ const WORDS_DE_B2 = [
       "ja": "崩壊する",
       "zh": "崩溃",
       "ru": "рушиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zusammenbrechen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6920",
+    "lang": "de",
     "lemma": "ausblick",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "ausblicke",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35166,17 +32899,16 @@ const WORDS_DE_B2 = [
       "ja": "見晴らし",
       "zh": "景观",
       "ru": "вид"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "ausblicke"
+    }
   },
   {
     "id": "de_6922",
+    "lang": "de",
     "lemma": "berühmtheit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "berühmtheiten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35194,17 +32926,16 @@ const WORDS_DE_B2 = [
       "ja": "有名人",
       "zh": "名人",
       "ru": "знаменитость"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "berühmtheiten"
+    }
   },
   {
     "id": "de_6923",
+    "lang": "de",
     "lemma": "handschuhfach",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "handschuhfächer",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35222,15 +32953,11 @@ const WORDS_DE_B2 = [
       "ja": "グローブボックス",
       "zh": "手套箱",
       "ru": "бардачок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "handschuhfächer"
+    }
   },
   {
     "id": "de_6925",
+    "lang": "de",
     "lemma": "verbluten",
     "pos": "Verb",
     "cefr": "B2",
@@ -35249,15 +32976,11 @@ const WORDS_DE_B2 = [
       "ja": "失血死する",
       "zh": "失血而死",
       "ru": "истечь кровью"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verbluten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6926",
+    "lang": "de",
     "lemma": "kneifen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35277,17 +33000,16 @@ const WORDS_DE_B2 = [
       "ja": "つねる",
       "zh": "捏",
       "ru": "щипать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kneifen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6927",
+    "lang": "de",
     "lemma": "klassentreffen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "klassentreffen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35305,17 +33027,16 @@ const WORDS_DE_B2 = [
       "ja": "同窓会",
       "zh": "同学聚会",
       "ru": "встреча одноклассников"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "klassentreffen"
+    }
   },
   {
     "id": "de_6930",
+    "lang": "de",
     "lemma": "update",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "updates",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35333,17 +33054,16 @@ const WORDS_DE_B2 = [
       "ja": "アップデート",
       "zh": "更新",
       "ru": "обновление"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "updates"
+    }
   },
   {
     "id": "de_6931",
+    "lang": "de",
     "lemma": "hektar",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "hektare",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35360,15 +33080,11 @@ const WORDS_DE_B2 = [
       "ja": "ヘクタール",
       "zh": "公顷",
       "ru": "гектар"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "hektare"
+    }
   },
   {
     "id": "de_6934",
+    "lang": "de",
     "lemma": "miserabel",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35387,12 +33103,11 @@ const WORDS_DE_B2 = [
       "ja": "ひどい",
       "zh": "糟糕的",
       "ru": "жалкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6936",
+    "lang": "de",
     "lemma": "schaukeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -35411,15 +33126,11 @@ const WORDS_DE_B2 = [
       "ja": "揺れる",
       "zh": "摇晃",
       "ru": "качаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schaukeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6939",
+    "lang": "de",
     "lemma": "entlasten",
     "pos": "Verb",
     "cefr": "B2",
@@ -35439,15 +33150,11 @@ const WORDS_DE_B2 = [
       "ja": "軽くする",
       "zh": "减轻",
       "ru": "облегчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "entlasten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6943",
+    "lang": "de",
     "lemma": "bedeutend",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35467,12 +33174,11 @@ const WORDS_DE_B2 = [
       "ja": "重要な",
       "zh": "重要的",
       "ru": "значительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6944",
+    "lang": "de",
     "lemma": "weiterziehen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35491,17 +33197,16 @@ const WORDS_DE_B2 = [
       "ja": "先に進む",
       "zh": "继续前进",
       "ru": "продолжать путь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weiterziehen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6945",
+    "lang": "de",
     "lemma": "matte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "matten",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35519,17 +33224,16 @@ const WORDS_DE_B2 = [
       "ja": "マット",
       "zh": "垫子",
       "ru": "коврик"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "matten"
+    }
   },
   {
     "id": "de_6947",
+    "lang": "de",
     "lemma": "rampe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "rampen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35547,17 +33251,16 @@ const WORDS_DE_B2 = [
       "ja": "傾斜路",
       "zh": "坡道",
       "ru": "пандус"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "rampen"
+    }
   },
   {
     "id": "de_6948",
+    "lang": "de",
     "lemma": "waage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "waagen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35575,17 +33278,16 @@ const WORDS_DE_B2 = [
       "ja": "秤",
       "zh": "天平",
       "ru": "весы"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "waagen"
+    }
   },
   {
     "id": "de_6953",
+    "lang": "de",
     "lemma": "brocken",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "brocken",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35602,15 +33304,11 @@ const WORDS_DE_B2 = [
       "ja": "破片",
       "zh": "碎片",
       "ru": "кусок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "brocken"
+    }
   },
   {
     "id": "de_6955",
+    "lang": "de",
     "lemma": "machbar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35630,14 +33328,16 @@ const WORDS_DE_B2 = [
       "ja": "実行可能な",
       "zh": "可行的",
       "ru": "осуществимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6960",
+    "lang": "de",
     "lemma": "beleuchtung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "beleuchtungen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35655,15 +33355,11 @@ const WORDS_DE_B2 = [
       "ja": "照明",
       "zh": "照明",
       "ru": "освещение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "beleuchtungen"
+    }
   },
   {
     "id": "de_6961",
+    "lang": "de",
     "lemma": "zynisch",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35682,14 +33378,16 @@ const WORDS_DE_B2 = [
       "ja": "皮肉な",
       "zh": "愤世嫉俗的",
       "ru": "циничный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6965",
+    "lang": "de",
     "lemma": "salami",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "salami",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35707,17 +33405,16 @@ const WORDS_DE_B2 = [
       "ja": "サラミ",
       "zh": "萨拉米",
       "ru": "салями"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "salami"
+    }
   },
   {
     "id": "de_6966",
+    "lang": "de",
     "lemma": "hinterhof",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "hinterhöfe",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35735,17 +33432,16 @@ const WORDS_DE_B2 = [
       "ja": "裏庭",
       "zh": "后院",
       "ru": "задний двор"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "der",
-    "article": "der",
-    "plural": "hinterhöfe"
+    }
   },
   {
     "id": "de_6967",
+    "lang": "de",
     "lemma": "vorstellungskraft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "vorstellungskräfte",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35762,15 +33458,11 @@ const WORDS_DE_B2 = [
       "ja": "想像力",
       "zh": "想象力",
       "ru": "воображение"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "vorstellungskräfte"
+    }
   },
   {
     "id": "de_6973",
+    "lang": "de",
     "lemma": "tätigen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35790,15 +33482,11 @@ const WORDS_DE_B2 = [
       "ja": "実行する",
       "zh": "执行",
       "ru": "совершать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tätigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6975",
+    "lang": "de",
     "lemma": "hallen",
     "pos": "Verb",
     "cefr": "B2",
@@ -35817,17 +33505,16 @@ const WORDS_DE_B2 = [
       "ja": "響き渡る",
       "zh": "回响",
       "ru": "звучать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hallen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6976",
+    "lang": "de",
     "lemma": "aktentasche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "aktentaschen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35845,15 +33532,11 @@ const WORDS_DE_B2 = [
       "ja": "書類かばん",
       "zh": "公文包",
       "ru": "портфель"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "aktentaschen"
+    }
   },
   {
     "id": "de_6977",
+    "lang": "de",
     "lemma": "blinzeln",
     "pos": "Verb",
     "cefr": "B2",
@@ -35873,15 +33556,11 @@ const WORDS_DE_B2 = [
       "ja": "まばたきする",
       "zh": "眨眼",
       "ru": "мигать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blinzeln",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "de_6979",
+    "lang": "de",
     "lemma": "wortwörtlich",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35901,12 +33580,11 @@ const WORDS_DE_B2 = [
       "ja": "文字通りの",
       "zh": "字面的",
       "ru": "буквальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6981",
+    "lang": "de",
     "lemma": "zivilisiert",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -35926,14 +33604,16 @@ const WORDS_DE_B2 = [
       "ja": "文明化した",
       "zh": "文明的",
       "ru": "цивилизованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "de_6982",
+    "lang": "de",
     "lemma": "ventil",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "ventile",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35951,17 +33631,16 @@ const WORDS_DE_B2 = [
       "ja": "弁",
       "zh": "阀门",
       "ru": "клапан"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "das",
-    "article": "das",
-    "plural": "ventile"
+    }
   },
   {
     "id": "de_6986",
+    "lang": "de",
     "lemma": "brise",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "brisen",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -35979,11 +33658,6 @@ const WORDS_DE_B2 = [
       "ja": "そよ風",
       "zh": "微风",
       "ru": "ветерок"
-    },
-    "examples": [],
-    "meta": {},
-    "gender": "die",
-    "article": "die",
-    "plural": "brisen"
+    }
   }
 ];

@@ -2,6 +2,7 @@
 const WORDS_SV_A1 = [
   {
     "id": "sv_1",
+    "lang": "sv",
     "lemma": "bra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -20,15 +21,17 @@ const WORDS_SV_A1 = [
       "pt": "bom",
       "ja": "良い",
       "zh": "好",
-      "ru": "хороший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "хороший",
+      "fr": "bon"
+    }
   },
   {
     "id": "sv_2",
+    "lang": "sv",
     "lemma": "får",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "får",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -45,17 +48,17 @@ const WORDS_SV_A1 = [
       "pt": "a ovelha",
       "ja": "羊",
       "zh": "羊",
-      "ru": "овца"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "får"
+      "ru": "овца",
+      "fr": "le mouton"
+    }
   },
   {
     "id": "sv_3",
+    "lang": "sv",
     "lemma": "man",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "män",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -72,15 +75,13 @@ const WORDS_SV_A1 = [
       "pt": "o homem",
       "ja": "男",
       "zh": "男人",
-      "ru": "мужчина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "män"
+      "ru": "мужчина",
+      "fr": "l'homme"
+    }
   },
   {
     "id": "sv_4",
+    "lang": "sv",
     "lemma": "okej",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -99,15 +100,17 @@ const WORDS_SV_A1 = [
       "pt": "ok",
       "ja": "大丈夫",
       "zh": "好的",
-      "ru": "хорошо"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "хорошо",
+      "fr": "d'accord"
+    }
   },
   {
     "id": "sv_5",
+    "lang": "sv",
     "lemma": "tack",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tack",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -125,15 +128,13 @@ const WORDS_SV_A1 = [
       "pt": "o agradecimento",
       "ja": "感謝",
       "zh": "感谢",
-      "ru": "благодарность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tack"
+      "ru": "благодарность",
+      "fr": "le merci"
+    }
   },
   {
     "id": "sv_6",
+    "lang": "sv",
     "lemma": "få",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -152,13 +153,13 @@ const WORDS_SV_A1 = [
       "pt": "poucos",
       "ja": "少ない",
       "zh": "少",
-      "ru": "немногие"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "немногие",
+      "fr": "peu de"
+    }
   },
   {
     "id": "sv_7",
+    "lang": "sv",
     "lemma": "lite",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -177,13 +178,13 @@ const WORDS_SV_A1 = [
       "pt": "pouco",
       "ja": "少し",
       "zh": "一点",
-      "ru": "мало"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "мало",
+      "fr": "peu"
+    }
   },
   {
     "id": "sv_8",
+    "lang": "sv",
     "lemma": "sen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -202,15 +203,17 @@ const WORDS_SV_A1 = [
       "pt": "tarde",
       "ja": "遅い",
       "zh": "晚",
-      "ru": "поздний"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "поздний",
+      "fr": "tard"
+    }
   },
   {
     "id": "sv_9",
+    "lang": "sv",
     "lemma": "år",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "år",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -227,17 +230,17 @@ const WORDS_SV_A1 = [
       "pt": "o ano",
       "ja": "年",
       "zh": "年",
-      "ru": "год"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "år"
+      "ru": "год",
+      "fr": "l'année"
+    }
   },
   {
     "id": "sv_10",
+    "lang": "sv",
     "lemma": "mamma",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mammor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -254,17 +257,17 @@ const WORDS_SV_A1 = [
       "pt": "a mãe",
       "ja": "母",
       "zh": "妈妈",
-      "ru": "мама"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mammor"
+      "ru": "мама",
+      "fr": "la mère"
+    }
   },
   {
     "id": "sv_11",
+    "lang": "sv",
     "lemma": "pappa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "pappor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -281,15 +284,13 @@ const WORDS_SV_A1 = [
       "pt": "o pai",
       "ja": "父",
       "zh": "爸爸",
-      "ru": "папа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "pappor"
+      "ru": "папа",
+      "fr": "le père"
+    }
   },
   {
     "id": "sv_12",
+    "lang": "sv",
     "lemma": "andra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -308,13 +309,13 @@ const WORDS_SV_A1 = [
       "pt": "segundo",
       "ja": "第二の",
       "zh": "第二",
-      "ru": "второй"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "второй",
+      "fr": "deuxième"
+    }
   },
   {
     "id": "sv_13",
+    "lang": "sv",
     "lemma": "rätt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -334,15 +335,17 @@ const WORDS_SV_A1 = [
       "pt": "certo",
       "ja": "正しい",
       "zh": "对的",
-      "ru": "правильный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "правильный",
+      "fr": "correct"
+    }
   },
   {
     "id": "sv_14",
+    "lang": "sv",
     "lemma": "rätt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "rätter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -359,17 +362,17 @@ const WORDS_SV_A1 = [
       "pt": "o prato",
       "ja": "料理",
       "zh": "菜肴",
-      "ru": "блюдо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "rätter"
+      "ru": "блюдо",
+      "fr": "le plat"
+    }
   },
   {
     "id": "sv_15",
+    "lang": "sv",
     "lemma": "såg",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sågar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -386,17 +389,17 @@ const WORDS_SV_A1 = [
       "pt": "a serra",
       "ja": "のこぎり",
       "zh": "锯子",
-      "ru": "пила"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sågar"
+      "ru": "пила",
+      "fr": "la scie"
+    }
   },
   {
     "id": "sv_16",
+    "lang": "sv",
     "lemma": "låt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "låtar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -413,17 +416,17 @@ const WORDS_SV_A1 = [
       "pt": "a canção",
       "ja": "歌",
       "zh": "歌曲",
-      "ru": "песня"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "låtar"
+      "ru": "песня",
+      "fr": "la chanson"
+    }
   },
   {
     "id": "sv_17",
+    "lang": "sv",
     "lemma": "vår",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vårar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -440,15 +443,13 @@ const WORDS_SV_A1 = [
       "pt": "a primavera",
       "ja": "春",
       "zh": "春天",
-      "ru": "весна"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vårar"
+      "ru": "весна",
+      "fr": "le printemps"
+    }
   },
   {
     "id": "sv_18",
+    "lang": "sv",
     "lemma": "fel",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -467,15 +468,17 @@ const WORDS_SV_A1 = [
       "pt": "errado",
       "ja": "間違った",
       "zh": "错误的",
-      "ru": "неправильный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "неправильный",
+      "fr": "faux"
+    }
   },
   {
     "id": "sv_19",
+    "lang": "sv",
     "lemma": "fel",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "fel",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -492,17 +495,17 @@ const WORDS_SV_A1 = [
       "pt": "o erro",
       "ja": "間違い",
       "zh": "错误",
-      "ru": "ошибка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "fel"
+      "ru": "ошибка",
+      "fr": "l'erreur"
+    }
   },
   {
     "id": "sv_20",
+    "lang": "sv",
     "lemma": "hem",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hem",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -519,17 +522,17 @@ const WORDS_SV_A1 = [
       "pt": "o lar",
       "ja": "家",
       "zh": "家",
-      "ru": "дом"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hem"
+      "ru": "дом",
+      "fr": "la maison"
+    }
   },
   {
     "id": "sv_21",
+    "lang": "sv",
     "lemma": "dag",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "dagar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -546,17 +549,17 @@ const WORDS_SV_A1 = [
       "pt": "o dia",
       "ja": "日",
       "zh": "天",
-      "ru": "день"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "dagar"
+      "ru": "день",
+      "fr": "le jour"
+    }
   },
   {
     "id": "sv_22",
+    "lang": "sv",
     "lemma": "liv",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "liv",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -573,17 +576,17 @@ const WORDS_SV_A1 = [
       "pt": "a vida",
       "ja": "人生",
       "zh": "生活",
-      "ru": "жизнь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "liv"
+      "ru": "жизнь",
+      "fr": "la vie"
+    }
   },
   {
     "id": "sv_23",
+    "lang": "sv",
     "lemma": "tid",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tider",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -600,17 +603,17 @@ const WORDS_SV_A1 = [
       "pt": "o tempo",
       "ja": "時間",
       "zh": "时间",
-      "ru": "время"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tider"
+      "ru": "время",
+      "fr": "le temps"
+    }
   },
   {
     "id": "sv_24",
+    "lang": "sv",
     "lemma": "sätt",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "sätt",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -627,17 +630,17 @@ const WORDS_SV_A1 = [
       "pt": "a maneira",
       "ja": "方法",
       "zh": "方式",
-      "ru": "способ"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "sätt"
+      "ru": "способ",
+      "fr": "la manière"
+    }
   },
   {
     "id": "sv_25",
+    "lang": "sv",
     "lemma": "folk",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "folk",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -654,15 +657,13 @@ const WORDS_SV_A1 = [
       "pt": "as pessoas",
       "ja": "人々",
       "zh": "人们",
-      "ru": "люди"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "folk"
+      "ru": "люди",
+      "fr": "les gens"
+    }
   },
   {
     "id": "sv_26",
+    "lang": "sv",
     "lemma": "precis",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -681,15 +682,17 @@ const WORDS_SV_A1 = [
       "pt": "preciso",
       "ja": "正確な",
       "zh": "精确的",
-      "ru": "точный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "точный",
+      "fr": "précis"
+    }
   },
   {
     "id": "sv_27",
+    "lang": "sv",
     "lemma": "barn",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "barn",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -706,17 +709,17 @@ const WORDS_SV_A1 = [
       "pt": "a criança",
       "ja": "子供",
       "zh": "孩子",
-      "ru": "ребенок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "barn"
+      "ru": "ребенок",
+      "fr": "l'enfant"
+    }
   },
   {
     "id": "sv_29",
+    "lang": "sv",
     "lemma": "hjälp",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hjälpar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -733,15 +736,13 @@ const WORDS_SV_A1 = [
       "pt": "a ajuda",
       "ja": "助け",
       "zh": "帮助",
-      "ru": "помощь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hjälpar"
+      "ru": "помощь",
+      "fr": "l'aide"
+    }
   },
   {
     "id": "sv_30",
+    "lang": "sv",
     "lemma": "död",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -760,15 +761,17 @@ const WORDS_SV_A1 = [
       "pt": "morto",
       "ja": "死んだ",
       "zh": "死的",
-      "ru": "мертвый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "мертвый",
+      "fr": "mort"
+    }
   },
   {
     "id": "sv_31",
+    "lang": "sv",
     "lemma": "död",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "dödar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -785,17 +788,17 @@ const WORDS_SV_A1 = [
       "pt": "a morte",
       "ja": "死",
       "zh": "死亡",
-      "ru": "смерть"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "dödar"
+      "ru": "смерть",
+      "fr": "la mort"
+    }
   },
   {
     "id": "sv_32",
+    "lang": "sv",
     "lemma": "håll",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "håll",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -812,15 +815,13 @@ const WORDS_SV_A1 = [
       "pt": "a direção",
       "ja": "方向",
       "zh": "方向",
-      "ru": "направление"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "håll"
+      "ru": "направление",
+      "fr": "la direction"
+    }
   },
   {
     "id": "sv_33",
+    "lang": "sv",
     "lemma": "ledsen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -840,13 +841,13 @@ const WORDS_SV_A1 = [
       "pt": "triste",
       "ja": "悲しい",
       "zh": "悲伤的",
-      "ru": "грустный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "грустный",
+      "fr": "triste"
+    }
   },
   {
     "id": "sv_34",
+    "lang": "sv",
     "lemma": "god",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -865,13 +866,13 @@ const WORDS_SV_A1 = [
       "pt": "bom",
       "ja": "良い",
       "zh": "好的",
-      "ru": "хороший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "хороший",
+      "fr": "bon"
+    }
   },
   {
     "id": "sv_35",
+    "lang": "sv",
     "lemma": "samma",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -890,15 +891,17 @@ const WORDS_SV_A1 = [
       "pt": "mesmo",
       "ja": "同じ",
       "zh": "相同的",
-      "ru": "тот же"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "тот же",
+      "fr": "même"
+    }
   },
   {
     "id": "sv_36",
+    "lang": "sv",
     "lemma": "gud",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "gudar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -915,17 +918,17 @@ const WORDS_SV_A1 = [
       "pt": "o deus",
       "ja": "神",
       "zh": "神",
-      "ru": "бог"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "gudar"
+      "ru": "бог",
+      "fr": "le dieu"
+    }
   },
   {
     "id": "sv_37",
+    "lang": "sv",
     "lemma": "hand",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "händer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -942,17 +945,17 @@ const WORDS_SV_A1 = [
       "pt": "a mão",
       "ja": "手",
       "zh": "手",
-      "ru": "рука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "händer"
+      "ru": "рука",
+      "fr": "la main"
+    }
   },
   {
     "id": "sv_38",
+    "lang": "sv",
     "lemma": "problem",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "problem",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -969,17 +972,17 @@ const WORDS_SV_A1 = [
       "pt": "o problema",
       "ja": "問題",
       "zh": "问题",
-      "ru": "проблема"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "problem"
+      "ru": "проблема",
+      "fr": "le problème"
+    }
   },
   {
     "id": "sv_39",
+    "lang": "sv",
     "lemma": "vän",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vänner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -997,17 +1000,17 @@ const WORDS_SV_A1 = [
       "pt": "o amigo",
       "ja": "友達",
       "zh": "朋友",
-      "ru": "друг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vänner"
+      "ru": "друг",
+      "fr": "l'ami"
+    }
   },
   {
     "id": "sv_40",
+    "lang": "sv",
     "lemma": "sak",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "saker",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1024,17 +1027,17 @@ const WORDS_SV_A1 = [
       "pt": "a coisa",
       "ja": "物",
       "zh": "东西",
-      "ru": "вещь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "saker"
+      "ru": "вещь",
+      "fr": "la chose"
+    }
   },
   {
     "id": "sv_41",
+    "lang": "sv",
     "lemma": "far",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fäder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1051,15 +1054,13 @@ const WORDS_SV_A1 = [
       "pt": "o pai",
       "ja": "父",
       "zh": "父亲",
-      "ru": "отец"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fäder"
+      "ru": "отец",
+      "fr": "le père"
+    }
   },
   {
     "id": "sv_42",
+    "lang": "sv",
     "lemma": "kvar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1078,15 +1079,17 @@ const WORDS_SV_A1 = [
       "pt": "restante",
       "ja": "残っている",
       "zh": "剩余的",
-      "ru": "оставшийся"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "оставшийся",
+      "fr": "restant"
+    }
   },
   {
     "id": "sv_43",
+    "lang": "sv",
     "lemma": "väg",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vägar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1104,17 +1107,17 @@ const WORDS_SV_A1 = [
       "pt": "a estrada",
       "ja": "道",
       "zh": "路",
-      "ru": "дорога"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vägar"
+      "ru": "дорога",
+      "fr": "la route"
+    }
   },
   {
     "id": "sv_44",
+    "lang": "sv",
     "lemma": "kväll",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kvällar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1131,17 +1134,17 @@ const WORDS_SV_A1 = [
       "pt": "a noite",
       "ja": "夕方",
       "zh": "晚上",
-      "ru": "вечер"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kvällar"
+      "ru": "вечер",
+      "fr": "le soir"
+    }
   },
   {
     "id": "sv_45",
+    "lang": "sv",
     "lemma": "morgon",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "morgnar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1158,17 +1161,17 @@ const WORDS_SV_A1 = [
       "pt": "a manhã",
       "ja": "朝",
       "zh": "早上",
-      "ru": "утро"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "morgnar"
+      "ru": "утро",
+      "fr": "le matin"
+    }
   },
   {
     "id": "sv_46",
+    "lang": "sv",
     "lemma": "fråga",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "frågor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1185,17 +1188,17 @@ const WORDS_SV_A1 = [
       "pt": "a pergunta",
       "ja": "質問",
       "zh": "问题",
-      "ru": "вопрос"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "frågor"
+      "ru": "вопрос",
+      "fr": "la question"
+    }
   },
   {
     "id": "sv_47",
+    "lang": "sv",
     "lemma": "namn",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "namn",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1213,17 +1216,17 @@ const WORDS_SV_A1 = [
       "pt": "o nome",
       "ja": "名前",
       "zh": "名字",
-      "ru": "имя"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "namn"
+      "ru": "имя",
+      "fr": "le nom"
+    }
   },
   {
     "id": "sv_48",
+    "lang": "sv",
     "lemma": "tro",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1240,17 +1243,17 @@ const WORDS_SV_A1 = [
       "pt": "a crença",
       "ja": "信仰",
       "zh": "信仰",
-      "ru": "вера"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "вера",
+      "fr": "la croyance"
+    }
   },
   {
     "id": "sv_49",
+    "lang": "sv",
     "lemma": "fru",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fruar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1267,15 +1270,13 @@ const WORDS_SV_A1 = [
       "pt": "a esposa",
       "ja": "妻",
       "zh": "妻子",
-      "ru": "жена"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fruar"
+      "ru": "жена",
+      "fr": "la femme"
+    }
   },
   {
     "id": "sv_50",
+    "lang": "sv",
     "lemma": "slut",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1294,15 +1295,17 @@ const WORDS_SV_A1 = [
       "pt": "terminado",
       "ja": "終わった",
       "zh": "结束的",
-      "ru": "законченный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "законченный",
+      "fr": "fini"
+    }
   },
   {
     "id": "sv_51",
+    "lang": "sv",
     "lemma": "slut",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "slut",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1319,15 +1322,13 @@ const WORDS_SV_A1 = [
       "pt": "o fim",
       "ja": "終わり",
       "zh": "结束",
-      "ru": "конец"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "slut"
+      "ru": "конец",
+      "fr": "la fin"
+    }
   },
   {
     "id": "sv_52",
+    "lang": "sv",
     "lemma": "säker",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1346,15 +1347,17 @@ const WORDS_SV_A1 = [
       "pt": "seguro",
       "ja": "安全な",
       "zh": "安全的",
-      "ru": "безопасный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "безопасный",
+      "fr": "sûr"
+    }
   },
   {
     "id": "sv_53",
+    "lang": "sv",
     "lemma": "jobb",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "jobb",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1372,17 +1375,17 @@ const WORDS_SV_A1 = [
       "pt": "o trabalho",
       "ja": "仕事",
       "zh": "工作",
-      "ru": "работа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "jobb"
+      "ru": "работа",
+      "fr": "le travail"
+    }
   },
   {
     "id": "sv_54",
+    "lang": "sv",
     "lemma": "son",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "söner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1399,15 +1402,13 @@ const WORDS_SV_A1 = [
       "pt": "o filho",
       "ja": "息子",
       "zh": "儿子",
-      "ru": "сын"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "söner"
+      "ru": "сын",
+      "fr": "le fils"
+    }
   },
   {
     "id": "sv_55",
+    "lang": "sv",
     "lemma": "stor",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1426,13 +1427,13 @@ const WORDS_SV_A1 = [
       "pt": "grande",
       "ja": "大きい",
       "zh": "大",
-      "ru": "большой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "большой",
+      "fr": "grand"
+    }
   },
   {
     "id": "sv_56",
+    "lang": "sv",
     "lemma": "rädd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1451,13 +1452,13 @@ const WORDS_SV_A1 = [
       "pt": "com medo",
       "ja": "恐れている",
       "zh": "害怕",
-      "ru": "боящийся"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "боящийся",
+      "fr": "effrayé"
+    }
   },
   {
     "id": "sv_57",
+    "lang": "sv",
     "lemma": "sista",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1476,15 +1477,17 @@ const WORDS_SV_A1 = [
       "pt": "último",
       "ja": "最後の",
       "zh": "最后",
-      "ru": "последний"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "последний",
+      "fr": "dernier"
+    }
   },
   {
     "id": "sv_58",
+    "lang": "sv",
     "lemma": "del",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "delar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1501,15 +1504,13 @@ const WORDS_SV_A1 = [
       "pt": "a parte",
       "ja": "部分",
       "zh": "部分",
-      "ru": "часть"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "delar"
+      "ru": "часть",
+      "fr": "la partie"
+    }
   },
   {
     "id": "sv_59",
+    "lang": "sv",
     "lemma": "nästa",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1528,13 +1529,13 @@ const WORDS_SV_A1 = [
       "pt": "próximo",
       "ja": "次の",
       "zh": "下一个",
-      "ru": "следующий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "следующий",
+      "fr": "prochain"
+    }
   },
   {
     "id": "sv_60",
+    "lang": "sv",
     "lemma": "liten",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1553,15 +1554,17 @@ const WORDS_SV_A1 = [
       "pt": "pequeno",
       "ja": "小さい",
       "zh": "小",
-      "ru": "маленький"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "маленький",
+      "fr": "petit"
+    }
   },
   {
     "id": "sv_62",
+    "lang": "sv",
     "lemma": "familj",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "familjer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1578,15 +1581,13 @@ const WORDS_SV_A1 = [
       "pt": "a família",
       "ja": "家族",
       "zh": "家庭",
-      "ru": "семья"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "familjer"
+      "ru": "семья",
+      "fr": "la famille"
+    }
   },
   {
     "id": "sv_64",
+    "lang": "sv",
     "lemma": "kul",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1605,13 +1606,13 @@ const WORDS_SV_A1 = [
       "pt": "divertido",
       "ja": "楽しい",
       "zh": "有趣",
-      "ru": "веселый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "веселый",
+      "fr": "amusant"
+    }
   },
   {
     "id": "sv_65",
+    "lang": "sv",
     "lemma": "ensam",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1630,13 +1631,13 @@ const WORDS_SV_A1 = [
       "pt": "sozinho",
       "ja": "一人で",
       "zh": "独自",
-      "ru": "один"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "один",
+      "fr": "seul"
+    }
   },
   {
     "id": "sv_67",
+    "lang": "sv",
     "lemma": "redo",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1655,13 +1656,13 @@ const WORDS_SV_A1 = [
       "pt": "pronto",
       "ja": "準備ができた",
       "zh": "准备好",
-      "ru": "готовый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "готовый",
+      "fr": "prêt"
+    }
   },
   {
     "id": "sv_68",
+    "lang": "sv",
     "lemma": "ny",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1680,15 +1681,17 @@ const WORDS_SV_A1 = [
       "pt": "novo",
       "ja": "新しい",
       "zh": "新",
-      "ru": "новый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "новый",
+      "fr": "nouveau"
+    }
   },
   {
     "id": "sv_69",
+    "lang": "sv",
     "lemma": "plats",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "platser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1705,17 +1708,17 @@ const WORDS_SV_A1 = [
       "pt": "o lugar",
       "ja": "場所",
       "zh": "地方",
-      "ru": "место"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "platser"
+      "ru": "место",
+      "fr": "la place"
+    }
   },
   {
     "id": "sv_71",
+    "lang": "sv",
     "lemma": "kvinna",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kvinnor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1732,17 +1735,17 @@ const WORDS_SV_A1 = [
       "pt": "a mulher",
       "ja": "女性",
       "zh": "女人",
-      "ru": "женщина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kvinnor"
+      "ru": "женщина",
+      "fr": "la femme"
+    }
   },
   {
     "id": "sv_72",
+    "lang": "sv",
     "lemma": "älskling",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "älsklingar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1759,17 +1762,17 @@ const WORDS_SV_A1 = [
       "pt": "o querido",
       "ja": "ダーリン",
       "zh": "亲爱的",
-      "ru": "дорогой"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "älsklingar"
+      "ru": "дорогой",
+      "fr": "le chéri"
+    }
   },
   {
     "id": "sv_73",
+    "lang": "sv",
     "lemma": "bil",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bilar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1787,17 +1790,17 @@ const WORDS_SV_A1 = [
       "pt": "o carro",
       "ja": "車",
       "zh": "汽车",
-      "ru": "машина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bilar"
+      "ru": "машина",
+      "fr": "la voiture"
+    }
   },
   {
     "id": "sv_74",
+    "lang": "sv",
     "lemma": "bror",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bröder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1814,17 +1817,17 @@ const WORDS_SV_A1 = [
       "pt": "o irmão",
       "ja": "兄弟",
       "zh": "兄弟",
-      "ru": "брат"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bröder"
+      "ru": "брат",
+      "fr": "le frère"
+    }
   },
   {
     "id": "sv_75",
+    "lang": "sv",
     "lemma": "rör",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "rör",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1841,15 +1844,13 @@ const WORDS_SV_A1 = [
       "pt": "o tubo",
       "ja": "パイプ",
       "zh": "管",
-      "ru": "труба"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "rör"
+      "ru": "труба",
+      "fr": "le tuyau"
+    }
   },
   {
     "id": "sv_76",
+    "lang": "sv",
     "lemma": "glad",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1869,13 +1870,13 @@ const WORDS_SV_A1 = [
       "pt": "feliz",
       "ja": "幸せな",
       "zh": "快乐",
-      "ru": "счастливый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "счастливый",
+      "fr": "heureux"
+    }
   },
   {
     "id": "sv_77",
+    "lang": "sv",
     "lemma": "nära",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1894,15 +1895,17 @@ const WORDS_SV_A1 = [
       "pt": "perto",
       "ja": "近い",
       "zh": "近",
-      "ru": "близко"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "близко",
+      "fr": "proche"
+    }
   },
   {
     "id": "sv_78",
+    "lang": "sv",
     "lemma": "hus",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hus",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1919,17 +1922,17 @@ const WORDS_SV_A1 = [
       "pt": "a casa",
       "ja": "家",
       "zh": "房子",
-      "ru": "дом"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hus"
+      "ru": "дом",
+      "fr": "la maison"
+    }
   },
   {
     "id": "sv_79",
+    "lang": "sv",
     "lemma": "dotter",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "döttrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1946,17 +1949,17 @@ const WORDS_SV_A1 = [
       "pt": "a filha",
       "ja": "娘",
       "zh": "女儿",
-      "ru": "дочь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "döttrar"
+      "ru": "дочь",
+      "fr": "la fille"
+    }
   },
   {
     "id": "sv_80",
+    "lang": "sv",
     "lemma": "kille",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "killar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1973,17 +1976,17 @@ const WORDS_SV_A1 = [
       "pt": "o menino",
       "ja": "少年",
       "zh": "男孩",
-      "ru": "мальчик"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "killar"
+      "ru": "мальчик",
+      "fr": "le garçon"
+    }
   },
   {
     "id": "sv_81",
+    "lang": "sv",
     "lemma": "vilja",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "viljor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2000,17 +2003,17 @@ const WORDS_SV_A1 = [
       "pt": "a vontade",
       "ja": "意志",
       "zh": "意志",
-      "ru": "воля"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "viljor"
+      "ru": "воля",
+      "fr": "la volonté"
+    }
   },
   {
     "id": "sv_82",
+    "lang": "sv",
     "lemma": "lever",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "levrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2027,17 +2030,17 @@ const WORDS_SV_A1 = [
       "pt": "o fígado",
       "ja": "肝臓",
       "zh": "肝",
-      "ru": "печень"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "levrar"
+      "ru": "печень",
+      "fr": "le foie"
+    }
   },
   {
     "id": "sv_83",
+    "lang": "sv",
     "lemma": "natt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "nätter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2054,17 +2057,17 @@ const WORDS_SV_A1 = [
       "pt": "a noite",
       "ja": "夜",
       "zh": "夜晚",
-      "ru": "ночь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "nätter"
+      "ru": "ночь",
+      "fr": "la nuit"
+    }
   },
   {
     "id": "sv_84",
+    "lang": "sv",
     "lemma": "rum",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "rum",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2081,17 +2084,17 @@ const WORDS_SV_A1 = [
       "pt": "o quarto",
       "ja": "部屋",
       "zh": "房间",
-      "ru": "комната"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "rum"
+      "ru": "комната",
+      "fr": "la chambre"
+    }
   },
   {
     "id": "sv_85",
+    "lang": "sv",
     "lemma": "mor",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mödrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2108,17 +2111,17 @@ const WORDS_SV_A1 = [
       "pt": "a mãe",
       "ja": "母",
       "zh": "母亲",
-      "ru": "мать"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mödrar"
+      "ru": "мать",
+      "fr": "la mère"
+    }
   },
   {
     "id": "sv_86",
+    "lang": "sv",
     "lemma": "ord",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ord",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2135,17 +2138,17 @@ const WORDS_SV_A1 = [
       "pt": "a palavra",
       "ja": "単語",
       "zh": "单词",
-      "ru": "слово"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ord"
+      "ru": "слово",
+      "fr": "le mot"
+    }
   },
   {
     "id": "sv_88",
+    "lang": "sv",
     "lemma": "reda",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2162,15 +2165,13 @@ const WORDS_SV_A1 = [
       "pt": "a ordem",
       "ja": "秩序",
       "zh": "秩序",
-      "ru": "порядок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "порядок",
+      "fr": "l'ordre"
+    }
   },
   {
     "id": "sv_89",
+    "lang": "sv",
     "lemma": "ringa",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2189,13 +2190,13 @@ const WORDS_SV_A1 = [
       "pt": "pequeno",
       "ja": "小さい",
       "zh": "小的",
-      "ru": "маленький"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "маленький",
+      "fr": "petit"
+    }
   },
   {
     "id": "sv_91",
+    "lang": "sv",
     "lemma": "gammal",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2214,15 +2215,17 @@ const WORDS_SV_A1 = [
       "pt": "velho",
       "ja": "古い",
       "zh": "老的",
-      "ru": "старый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "старый",
+      "fr": "vieux"
+    }
   },
   {
     "id": "sv_92",
+    "lang": "sv",
     "lemma": "fara",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "faror",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2239,17 +2242,17 @@ const WORDS_SV_A1 = [
       "pt": "o perigo",
       "ja": "危険",
       "zh": "危险",
-      "ru": "опасность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "faror"
+      "ru": "опасность",
+      "fr": "le danger"
+    }
   },
   {
     "id": "sv_93",
+    "lang": "sv",
     "lemma": "par",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "par",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2266,15 +2269,13 @@ const WORDS_SV_A1 = [
       "pt": "o par",
       "ja": "ペア",
       "zh": "一对",
-      "ru": "пара"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "par"
+      "ru": "пара",
+      "fr": "la paire"
+    }
   },
   {
     "id": "sv_95",
+    "lang": "sv",
     "lemma": "tyst",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2293,13 +2294,13 @@ const WORDS_SV_A1 = [
       "pt": "silencioso",
       "ja": "静かな",
       "zh": "安静的",
-      "ru": "тихий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "тихий",
+      "fr": "silencieux"
+    }
   },
   {
     "id": "sv_97",
+    "lang": "sv",
     "lemma": "klar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2318,13 +2319,13 @@ const WORDS_SV_A1 = [
       "pt": "pronto",
       "ja": "準備ができた",
       "zh": "准备好的",
-      "ru": "готовый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "готовый",
+      "fr": "prêt"
+    }
   },
   {
     "id": "sv_98",
+    "lang": "sv",
     "lemma": "galen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2343,15 +2344,17 @@ const WORDS_SV_A1 = [
       "pt": "louco",
       "ja": "狂った",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сумасшедший",
+      "fr": "fou"
+    }
   },
   {
     "id": "sv_99",
+    "lang": "sv",
     "lemma": "syster",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "systrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2368,17 +2371,17 @@ const WORDS_SV_A1 = [
       "pt": "a irmã",
       "ja": "姉妹",
       "zh": "姐妹",
-      "ru": "сестра"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "systrar"
+      "ru": "сестра",
+      "fr": "la sœur"
+    }
   },
   {
     "id": "sv_100",
+    "lang": "sv",
     "lemma": "mat",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2395,17 +2398,17 @@ const WORDS_SV_A1 = [
       "pt": "a comida",
       "ja": "食べ物",
       "zh": "食物",
-      "ru": "еда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "еда",
+      "fr": "la nourriture"
+    }
   },
   {
     "id": "sv_102",
+    "lang": "sv",
     "lemma": "ring",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ringar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2422,17 +2425,17 @@ const WORDS_SV_A1 = [
       "pt": "o anel",
       "ja": "指輪",
       "zh": "戒指",
-      "ru": "кольцо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ringar"
+      "ru": "кольцо",
+      "fr": "l'anneau"
+    }
   },
   {
     "id": "sv_104",
+    "lang": "sv",
     "lemma": "idé",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "idéer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2449,15 +2452,13 @@ const WORDS_SV_A1 = [
       "pt": "a ideia",
       "ja": "アイデア",
       "zh": "主意",
-      "ru": "идея"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "idéer"
+      "ru": "идея",
+      "fr": "l'idée"
+    }
   },
   {
     "id": "sv_106",
+    "lang": "sv",
     "lemma": "lätt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2476,13 +2477,13 @@ const WORDS_SV_A1 = [
       "pt": "leve",
       "ja": "軽い",
       "zh": "轻的",
-      "ru": "легкий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "легкий",
+      "fr": "léger"
+    }
   },
   {
     "id": "sv_108",
+    "lang": "sv",
     "lemma": "lång",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2501,15 +2502,17 @@ const WORDS_SV_A1 = [
       "pt": "longo",
       "ja": "長い",
       "zh": "长的",
-      "ru": "длинный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "длинный",
+      "fr": "long"
+    }
   },
   {
     "id": "sv_110",
+    "lang": "sv",
     "lemma": "försök",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "försök",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2526,15 +2529,13 @@ const WORDS_SV_A1 = [
       "pt": "a tentativa",
       "ja": "試み",
       "zh": "尝试",
-      "ru": "попытка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "försök"
+      "ru": "попытка",
+      "fr": "la tentative"
+    }
   },
   {
     "id": "sv_111",
+    "lang": "sv",
     "lemma": "direkt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2553,15 +2554,17 @@ const WORDS_SV_A1 = [
       "pt": "direto",
       "ja": "直接の",
       "zh": "直接的",
-      "ru": "прямой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "прямой",
+      "fr": "direct"
+    }
   },
   {
     "id": "sv_115",
+    "lang": "sv",
     "lemma": "blod",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2578,15 +2581,13 @@ const WORDS_SV_A1 = [
       "pt": "o sangue",
       "ja": "血",
       "zh": "血",
-      "ru": "кровь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "кровь",
+      "fr": "le sang"
+    }
   },
   {
     "id": "sv_116",
+    "lang": "sv",
     "lemma": "perfekt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2605,15 +2606,17 @@ const WORDS_SV_A1 = [
       "pt": "perfeito",
       "ja": "完璧な",
       "zh": "完美的",
-      "ru": "идеальный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "идеальный",
+      "fr": "parfait"
+    }
   },
   {
     "id": "sv_117",
+    "lang": "sv",
     "lemma": "lära",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "läror",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2630,17 +2633,17 @@ const WORDS_SV_A1 = [
       "pt": "a teoria",
       "ja": "理論",
       "zh": "理论",
-      "ru": "теория"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "läror"
+      "ru": "теория",
+      "fr": "la théorie"
+    }
   },
   {
     "id": "sv_118",
+    "lang": "sv",
     "lemma": "vatten",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "vatten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2657,17 +2660,17 @@ const WORDS_SV_A1 = [
       "pt": "a água",
       "ja": "水",
       "zh": "水",
-      "ru": "вода"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "vatten"
+      "ru": "вода",
+      "fr": "l'eau"
+    }
   },
   {
     "id": "sv_119",
+    "lang": "sv",
     "lemma": "val",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "valar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2684,17 +2687,17 @@ const WORDS_SV_A1 = [
       "pt": "a baleia",
       "ja": "クジラ",
       "zh": "鲸鱼",
-      "ru": "кит"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "valar"
+      "ru": "кит",
+      "fr": "la baleine"
+    }
   },
   {
     "id": "sv_120",
+    "lang": "sv",
     "lemma": "flicka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "flickor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2711,15 +2714,13 @@ const WORDS_SV_A1 = [
       "pt": "a menina",
       "ja": "少女",
       "zh": "女孩",
-      "ru": "девочка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "flickor"
+      "ru": "девочка",
+      "fr": "la fille"
+    }
   },
   {
     "id": "sv_121",
+    "lang": "sv",
     "lemma": "vidare",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2738,15 +2739,17 @@ const WORDS_SV_A1 = [
       "pt": "mais longe",
       "ja": "さらに",
       "zh": "进一步",
-      "ru": "дальше"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "дальше",
+      "fr": "plus loin"
+    }
   },
   {
     "id": "sv_122",
+    "lang": "sv",
     "lemma": "före",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2763,17 +2766,17 @@ const WORDS_SV_A1 = [
       "pt": "as condições de esqui",
       "ja": "スキーの雪質",
       "zh": "滑雪条件",
-      "ru": "условия для катания на лыжах"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "условия для катания на лыжах",
+      "fr": "les conditions de ski"
+    }
   },
   {
     "id": "sv_123",
+    "lang": "sv",
     "lemma": "ursäkt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ursäkter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2791,15 +2794,13 @@ const WORDS_SV_A1 = [
       "pt": "a desculpa",
       "ja": "言い訳",
       "zh": "借口",
-      "ru": "извинение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ursäkter"
+      "ru": "извинение",
+      "fr": "l'excuse"
+    }
   },
   {
     "id": "sv_124",
+    "lang": "sv",
     "lemma": "fin",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2818,15 +2819,17 @@ const WORDS_SV_A1 = [
       "pt": "bom",
       "ja": "良い",
       "zh": "好的",
-      "ru": "хороший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "хороший",
+      "fr": "beau"
+    }
   },
   {
     "id": "sv_125",
+    "lang": "sv",
     "lemma": "herr",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "herrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2843,17 +2846,17 @@ const WORDS_SV_A1 = [
       "pt": "o senhor",
       "ja": "紳士",
       "zh": "先生",
-      "ru": "господин"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "herrar"
+      "ru": "господин",
+      "fr": "le monsieur"
+    }
   },
   {
     "id": "sv_126",
+    "lang": "sv",
     "lemma": "miss",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "missar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2870,17 +2873,17 @@ const WORDS_SV_A1 = [
       "pt": "a falha",
       "ja": "失敗",
       "zh": "失误",
-      "ru": "промах"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "missar"
+      "ru": "промах",
+      "fr": "l'échec"
+    }
   },
   {
     "id": "sv_127",
+    "lang": "sv",
     "lemma": "kapten",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kaptener",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2897,17 +2900,17 @@ const WORDS_SV_A1 = [
       "pt": "o capitão",
       "ja": "船長",
       "zh": "船长",
-      "ru": "капитан"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kaptener"
+      "ru": "капитан",
+      "fr": "le capitaine"
+    }
   },
   {
     "id": "sv_128",
+    "lang": "sv",
     "lemma": "kärlek",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kärlekar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2924,17 +2927,17 @@ const WORDS_SV_A1 = [
       "pt": "o amor",
       "ja": "愛",
       "zh": "爱",
-      "ru": "любовь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kärlekar"
+      "ru": "любовь",
+      "fr": "l'amour"
+    }
   },
   {
     "id": "sv_129",
+    "lang": "sv",
     "lemma": "roll",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "roller",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2952,15 +2955,13 @@ const WORDS_SV_A1 = [
       "pt": "o papel",
       "ja": "役割",
       "zh": "角色",
-      "ru": "роль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "roller"
+      "ru": "роль",
+      "fr": "le rôle"
+    }
   },
   {
     "id": "sv_130",
+    "lang": "sv",
     "lemma": "arg",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2980,13 +2981,13 @@ const WORDS_SV_A1 = [
       "pt": "zangado",
       "ja": "怒っている",
       "zh": "生气的",
-      "ru": "злой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "злой",
+      "fr": "en colère"
+    }
   },
   {
     "id": "sv_131",
+    "lang": "sv",
     "lemma": "lugn",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3005,15 +3006,17 @@ const WORDS_SV_A1 = [
       "pt": "calmo",
       "ja": "落ち着いた",
       "zh": "平静的",
-      "ru": "спокойный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "спокойный",
+      "fr": "calme"
+    }
   },
   {
     "id": "sv_132",
+    "lang": "sv",
     "lemma": "lugn",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3030,17 +3033,17 @@ const WORDS_SV_A1 = [
       "pt": "a calma",
       "ja": "平穏",
       "zh": "平静",
-      "ru": "спокойствие"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "спокойствие",
+      "fr": "le calme"
+    }
   },
   {
     "id": "sv_133",
+    "lang": "sv",
     "lemma": "tjej",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tjejer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3057,17 +3060,17 @@ const WORDS_SV_A1 = [
       "pt": "a menina",
       "ja": "女の子",
       "zh": "女孩",
-      "ru": "девочка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tjejer"
+      "ru": "девочка",
+      "fr": "la fille"
+    }
   },
   {
     "id": "sv_134",
+    "lang": "sv",
     "lemma": "the",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "theer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3084,15 +3087,13 @@ const WORDS_SV_A1 = [
       "pt": "o chá",
       "ja": "お茶",
       "zh": "茶",
-      "ru": "чай"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "theer"
+      "ru": "чай",
+      "fr": "le thé"
+    }
   },
   {
     "id": "sv_135",
+    "lang": "sv",
     "lemma": "vacker",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3111,15 +3112,17 @@ const WORDS_SV_A1 = [
       "pt": "bonito",
       "ja": "美しい",
       "zh": "美丽的",
-      "ru": "красивый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "красивый",
+      "fr": "beau"
+    }
   },
   {
     "id": "sv_136",
+    "lang": "sv",
     "lemma": "kompis",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kompisar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3137,17 +3140,17 @@ const WORDS_SV_A1 = [
       "pt": "o amigo",
       "ja": "友達",
       "zh": "朋友",
-      "ru": "друг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kompisar"
+      "ru": "друг",
+      "fr": "l'ami"
+    }
   },
   {
     "id": "sv_137",
+    "lang": "sv",
     "lemma": "idiot",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "idioter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3164,15 +3167,13 @@ const WORDS_SV_A1 = [
       "pt": "o idiota",
       "ja": "馬鹿",
       "zh": "白痴",
-      "ru": "идиот"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "idioter"
+      "ru": "идиот",
+      "fr": "l'idiot"
+    }
   },
   {
     "id": "sv_138",
+    "lang": "sv",
     "lemma": "satt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3191,13 +3192,13 @@ const WORDS_SV_A1 = [
       "pt": "compacto",
       "ja": "コンパクトな",
       "zh": "紧凑的",
-      "ru": "компактный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "компактный",
+      "fr": "compact"
+    }
   },
   {
     "id": "sv_139",
+    "lang": "sv",
     "lemma": "full",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3216,15 +3217,17 @@ const WORDS_SV_A1 = [
       "pt": "cheio",
       "ja": "いっぱいの",
       "zh": "满的",
-      "ru": "полный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "полный",
+      "fr": "plein"
+    }
   },
   {
     "id": "sv_140",
+    "lang": "sv",
     "lemma": "nummer",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "nummer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3241,15 +3244,13 @@ const WORDS_SV_A1 = [
       "pt": "o número",
       "ja": "数字",
       "zh": "数字",
-      "ru": "число"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "nummer"
+      "ru": "число",
+      "fr": "le numéro"
+    }
   },
   {
     "id": "sv_141",
+    "lang": "sv",
     "lemma": "snäll",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3268,15 +3269,17 @@ const WORDS_SV_A1 = [
       "pt": "gentil",
       "ja": "親切な",
       "zh": "友善的",
-      "ru": "добрый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "добрый",
+      "fr": "gentil"
+    }
   },
   {
     "id": "sv_142",
+    "lang": "sv",
     "lemma": "ställe",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ställen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3293,15 +3296,13 @@ const WORDS_SV_A1 = [
       "pt": "o lugar",
       "ja": "場所",
       "zh": "地方",
-      "ru": "место"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ställen"
+      "ru": "место",
+      "fr": "l'endroit"
+    }
   },
   {
     "id": "sv_143",
+    "lang": "sv",
     "lemma": "tänkt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3320,15 +3321,17 @@ const WORDS_SV_A1 = [
       "pt": "planejado",
       "ja": "計画された",
       "zh": "计划的",
-      "ru": "запланированный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "запланированный",
+      "fr": "prévu"
+    }
   },
   {
     "id": "sv_144",
+    "lang": "sv",
     "lemma": "sida",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sidor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3345,17 +3348,17 @@ const WORDS_SV_A1 = [
       "pt": "o lado",
       "ja": "側面",
       "zh": "侧面",
-      "ru": "сторона"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sidor"
+      "ru": "сторона",
+      "fr": "le côté"
+    }
   },
   {
     "id": "sv_145",
+    "lang": "sv",
     "lemma": "vecka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "veckor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3372,15 +3375,13 @@ const WORDS_SV_A1 = [
       "pt": "a semana",
       "ja": "週",
       "zh": "周",
-      "ru": "неделя"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "veckor"
+      "ru": "неделя",
+      "fr": "la semaine"
+    }
   },
   {
     "id": "sv_146",
+    "lang": "sv",
     "lemma": "ok",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3399,15 +3400,17 @@ const WORDS_SV_A1 = [
       "pt": "ok",
       "ja": "大丈夫な",
       "zh": "好的",
-      "ru": "хорошо"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "хорошо",
+      "fr": "d'accord"
+    }
   },
   {
     "id": "sv_147",
+    "lang": "sv",
     "lemma": "ok",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ok",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3424,17 +3427,17 @@ const WORDS_SV_A1 = [
       "pt": "o jugo",
       "ja": "くびき",
       "zh": "轭",
-      "ru": "ярмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ok"
+      "ru": "ярмо",
+      "fr": "le joug"
+    }
   },
   {
     "id": "sv_148",
+    "lang": "sv",
     "lemma": "typ",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "typer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3451,17 +3454,17 @@ const WORDS_SV_A1 = [
       "pt": "o tipo",
       "ja": "タイプ",
       "zh": "类型",
-      "ru": "тип"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "typer"
+      "ru": "тип",
+      "fr": "le type"
+    }
   },
   {
     "id": "sv_149",
+    "lang": "sv",
     "lemma": "hjärta",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hjärtan",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3478,17 +3481,17 @@ const WORDS_SV_A1 = [
       "pt": "o coração",
       "ja": "心臓",
       "zh": "心",
-      "ru": "сердце"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hjärtan"
+      "ru": "сердце",
+      "fr": "le cœur"
+    }
   },
   {
     "id": "sv_150",
+    "lang": "sv",
     "lemma": "misstag",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "misstag",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3505,15 +3508,13 @@ const WORDS_SV_A1 = [
       "pt": "o erro",
       "ja": "間違い",
       "zh": "错误",
-      "ru": "ошибка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "misstag"
+      "ru": "ошибка",
+      "fr": "l'erreur"
+    }
   },
   {
     "id": "sv_151",
+    "lang": "sv",
     "lemma": "grund",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3532,15 +3533,17 @@ const WORDS_SV_A1 = [
       "pt": "raso",
       "ja": "浅い",
       "zh": "浅的",
-      "ru": "мелкий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "мелкий",
+      "fr": "peu profond"
+    }
   },
   {
     "id": "sv_152",
+    "lang": "sv",
     "lemma": "grund",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "grunder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3557,15 +3560,13 @@ const WORDS_SV_A1 = [
       "pt": "o chão",
       "ja": "地面",
       "zh": "地面",
-      "ru": "земля"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "grunder"
+      "ru": "земля",
+      "fr": "le sol"
+    }
   },
   {
     "id": "sv_153",
+    "lang": "sv",
     "lemma": "låg",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3584,13 +3585,13 @@ const WORDS_SV_A1 = [
       "pt": "baixo",
       "ja": "低い",
       "zh": "低的",
-      "ru": "низкий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "низкий",
+      "fr": "bas"
+    }
   },
   {
     "id": "sv_154",
+    "lang": "sv",
     "lemma": "absolut",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3609,13 +3610,13 @@ const WORDS_SV_A1 = [
       "pt": "absoluto",
       "ja": "絶対的な",
       "zh": "绝对的",
-      "ru": "абсолютный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "абсолютный",
+      "fr": "absolu"
+    }
   },
   {
     "id": "sv_155",
+    "lang": "sv",
     "lemma": "själva",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3634,13 +3635,13 @@ const WORDS_SV_A1 = [
       "pt": "próprio",
       "ja": "それ自体",
       "zh": "本身",
-      "ru": "сам"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сам",
+      "fr": "même"
+    }
   },
   {
     "id": "sv_156",
+    "lang": "sv",
     "lemma": "välkommen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3659,15 +3660,16 @@ const WORDS_SV_A1 = [
       "pt": "bem-vindo",
       "ja": "歓迎された",
       "zh": "受欢迎的",
-      "ru": "добро пожаловать"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "добро пожаловать",
+      "fr": "bienvenu"
+    }
   },
   {
     "id": "sv_157",
+    "lang": "sv",
     "lemma": "välkommen",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3684,17 +3686,17 @@ const WORDS_SV_A1 = [
       "pt": "o bem-vindo",
       "ja": "歓迎",
       "zh": "欢迎",
-      "ru": "приветствие"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "приветствие",
+      "fr": "le bienvenu"
+    }
   },
   {
     "id": "sv_158",
+    "lang": "sv",
     "lemma": "sköt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skötar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3711,15 +3713,13 @@ const WORDS_SV_A1 = [
       "pt": "a rede de pesca",
       "ja": "漁網",
       "zh": "渔网",
-      "ru": "рыболовная сеть"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skötar"
+      "ru": "рыболовная сеть",
+      "fr": "le filet de pêche"
+    }
   },
   {
     "id": "sv_159",
+    "lang": "sv",
     "lemma": "kort",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3738,15 +3738,17 @@ const WORDS_SV_A1 = [
       "pt": "curto",
       "ja": "短い",
       "zh": "短的",
-      "ru": "короткий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "короткий",
+      "fr": "court"
+    }
   },
   {
     "id": "sv_160",
+    "lang": "sv",
     "lemma": "kort",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "kort",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3763,17 +3765,17 @@ const WORDS_SV_A1 = [
       "pt": "o cartão",
       "ja": "カード",
       "zh": "卡片",
-      "ru": "карта"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "kort"
+      "ru": "карта",
+      "fr": "la carte"
+    }
   },
   {
     "id": "sv_161",
+    "lang": "sv",
     "lemma": "person",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "personer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3790,17 +3792,17 @@ const WORDS_SV_A1 = [
       "pt": "a pessoa",
       "ja": "人",
       "zh": "人",
-      "ru": "человек"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "personer"
+      "ru": "человек",
+      "fr": "la personne"
+    }
   },
   {
     "id": "sv_162",
+    "lang": "sv",
     "lemma": "pojke",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "pojkar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3817,15 +3819,13 @@ const WORDS_SV_A1 = [
       "pt": "o menino",
       "ja": "少年",
       "zh": "男孩",
-      "ru": "мальчик"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "pojkar"
+      "ru": "мальчик",
+      "fr": "le garçon"
+    }
   },
   {
     "id": "sv_163",
+    "lang": "sv",
     "lemma": "tom",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3844,15 +3844,17 @@ const WORDS_SV_A1 = [
       "pt": "vazio",
       "ja": "空の",
       "zh": "空的",
-      "ru": "пустой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "пустой",
+      "fr": "vide"
+    }
   },
   {
     "id": "sv_164",
+    "lang": "sv",
     "lemma": "tom",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tomer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3870,15 +3872,13 @@ const WORDS_SV_A1 = [
       "pt": "o tomo",
       "ja": "大冊",
       "zh": "巨著",
-      "ru": "том"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tomer"
+      "ru": "том",
+      "fr": "le tome"
+    }
   },
   {
     "id": "sv_165",
+    "lang": "sv",
     "lemma": "skyldig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3897,13 +3897,13 @@ const WORDS_SV_A1 = [
       "pt": "culpado",
       "ja": "有罪の",
       "zh": "有罪的",
-      "ru": "виновный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "виновный",
+      "fr": "coupable"
+    }
   },
   {
     "id": "sv_166",
+    "lang": "sv",
     "lemma": "toppen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3922,13 +3922,13 @@ const WORDS_SV_A1 = [
       "pt": "ótimo",
       "ja": "素晴らしい",
       "zh": "极好的",
-      "ru": "отличный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "отличный",
+      "fr": "super"
+    }
   },
   {
     "id": "sv_167",
+    "lang": "sv",
     "lemma": "exakt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3947,15 +3947,17 @@ const WORDS_SV_A1 = [
       "pt": "exato",
       "ja": "正確な",
       "zh": "准确的",
-      "ru": "точный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "точный",
+      "fr": "exact"
+    }
   },
   {
     "id": "sv_168",
+    "lang": "sv",
     "lemma": "lycka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lyckor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3972,17 +3974,17 @@ const WORDS_SV_A1 = [
       "pt": "a felicidade",
       "ja": "幸福",
       "zh": "幸福",
-      "ru": "счастье"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lyckor"
+      "ru": "счастье",
+      "fr": "le bonheur"
+    }
   },
   {
     "id": "sv_169",
+    "lang": "sv",
     "lemma": "historia",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4000,17 +4002,17 @@ const WORDS_SV_A1 = [
       "pt": "a história",
       "ja": "歴史",
       "zh": "历史",
-      "ru": "история"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "история",
+      "fr": "l'histoire"
+    }
   },
   {
     "id": "sv_170",
+    "lang": "sv",
     "lemma": "skrev",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skrev",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4027,17 +4029,17 @@ const WORDS_SV_A1 = [
       "pt": "a virilha",
       "ja": "股",
       "zh": "胯部",
-      "ru": "промежность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skrev"
+      "ru": "промежность",
+      "fr": "l'entrejambe"
+    }
   },
   {
     "id": "sv_171",
+    "lang": "sv",
     "lemma": "stod",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stoder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4054,17 +4056,17 @@ const WORDS_SV_A1 = [
       "pt": "a estátua",
       "ja": "像",
       "zh": "雕像",
-      "ru": "статуя"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stoder"
+      "ru": "статуя",
+      "fr": "la statue"
+    }
   },
   {
     "id": "sv_172",
+    "lang": "sv",
     "lemma": "massa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "massor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4081,15 +4083,13 @@ const WORDS_SV_A1 = [
       "pt": "a massa",
       "ja": "質量",
       "zh": "质量",
-      "ru": "масса"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "massor"
+      "ru": "масса",
+      "fr": "la masse"
+    }
   },
   {
     "id": "sv_173",
+    "lang": "sv",
     "lemma": "små",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4108,15 +4108,17 @@ const WORDS_SV_A1 = [
       "pt": "pequeno",
       "ja": "小さい",
       "zh": "小的",
-      "ru": "маленький"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "маленький",
+      "fr": "petit"
+    }
   },
   {
     "id": "sv_174",
+    "lang": "sv",
     "lemma": "kropp",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kroppar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4133,17 +4135,17 @@ const WORDS_SV_A1 = [
       "pt": "o corpo",
       "ja": "体",
       "zh": "身体",
-      "ru": "тело"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kroppar"
+      "ru": "тело",
+      "fr": "le corps"
+    }
   },
   {
     "id": "sv_175",
+    "lang": "sv",
     "lemma": "bo",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bon",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4160,15 +4162,13 @@ const WORDS_SV_A1 = [
       "pt": "o ninho",
       "ja": "巣",
       "zh": "巢",
-      "ru": "гнездо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bon"
+      "ru": "гнездо",
+      "fr": "le nid"
+    }
   },
   {
     "id": "sv_176",
+    "lang": "sv",
     "lemma": "trött",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4187,13 +4187,13 @@ const WORDS_SV_A1 = [
       "pt": "cansado",
       "ja": "疲れた",
       "zh": "累的",
-      "ru": "усталый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "усталый",
+      "fr": "fatigué"
+    }
   },
   {
     "id": "sv_177",
+    "lang": "sv",
     "lemma": "sjuk",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4212,13 +4212,13 @@ const WORDS_SV_A1 = [
       "pt": "doente",
       "ja": "病気の",
       "zh": "生病的",
-      "ru": "больной"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "больной",
+      "fr": "malade"
+    }
   },
   {
     "id": "sv_178",
+    "lang": "sv",
     "lemma": "förra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4237,15 +4237,17 @@ const WORDS_SV_A1 = [
       "pt": "último",
       "ja": "前の",
       "zh": "上一个",
-      "ru": "прошлый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "прошлый",
+      "fr": "dernier"
+    }
   },
   {
     "id": "sv_179",
+    "lang": "sv",
     "lemma": "stick",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "stick",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4262,17 +4264,17 @@ const WORDS_SV_A1 = [
       "pt": "a picada",
       "ja": "刺し傷",
       "zh": "刺",
-      "ru": "укус"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "stick"
+      "ru": "укус",
+      "fr": "la piqûre"
+    }
   },
   {
     "id": "sv_180",
+    "lang": "sv",
     "lemma": "hälsa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4289,17 +4291,17 @@ const WORDS_SV_A1 = [
       "pt": "a saúde",
       "ja": "健康",
       "zh": "健康",
-      "ru": "здоровье"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "здоровье",
+      "fr": "la santé"
+    }
   },
   {
     "id": "sv_181",
+    "lang": "sv",
     "lemma": "aning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "aningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4316,17 +4318,17 @@ const WORDS_SV_A1 = [
       "pt": "a suspeita",
       "ja": "疑い",
       "zh": "怀疑",
-      "ru": "подозрение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "aningar"
+      "ru": "подозрение",
+      "fr": "le soupçon"
+    }
   },
   {
     "id": "sv_182",
+    "lang": "sv",
     "lemma": "gift",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "gifter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4343,15 +4345,13 @@ const WORDS_SV_A1 = [
       "pt": "o veneno",
       "ja": "毒",
       "zh": "毒药",
-      "ru": "яд"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "gifter"
+      "ru": "яд",
+      "fr": "le poison"
+    }
   },
   {
     "id": "sv_183",
+    "lang": "sv",
     "lemma": "gift",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4370,13 +4370,13 @@ const WORDS_SV_A1 = [
       "pt": "casado",
       "ja": "結婚している",
       "zh": "已婚的",
-      "ru": "женатый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "женатый",
+      "fr": "marié"
+    }
   },
   {
     "id": "sv_184",
+    "lang": "sv",
     "lemma": "dum",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4395,15 +4395,17 @@ const WORDS_SV_A1 = [
       "pt": "estúpido",
       "ja": "馬鹿な",
       "zh": "愚蠢的",
-      "ru": "глупый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "глупый",
+      "fr": "stupide"
+    }
   },
   {
     "id": "sv_185",
+    "lang": "sv",
     "lemma": "skada",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skador",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4420,17 +4422,17 @@ const WORDS_SV_A1 = [
       "pt": "o dano",
       "ja": "損害",
       "zh": "损害",
-      "ru": "ущерб"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skador"
+      "ru": "ущерб",
+      "fr": "le dommage"
+    }
   },
   {
     "id": "sv_186",
+    "lang": "sv",
     "lemma": "bevis",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bevis",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4447,17 +4449,17 @@ const WORDS_SV_A1 = [
       "pt": "a prova",
       "ja": "証拠",
       "zh": "证据",
-      "ru": "доказательство"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bevis"
+      "ru": "доказательство",
+      "fr": "la preuve"
+    }
   },
   {
     "id": "sv_187",
+    "lang": "sv",
     "lemma": "kaffe",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4474,17 +4476,17 @@ const WORDS_SV_A1 = [
       "pt": "o café",
       "ja": "コーヒー",
       "zh": "咖啡",
-      "ru": "кофе"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "кофе",
+      "fr": "le café"
+    }
   },
   {
     "id": "sv_188",
+    "lang": "sv",
     "lemma": "middag",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "middagar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4501,17 +4503,17 @@ const WORDS_SV_A1 = [
       "pt": "o meio-dia",
       "ja": "正午",
       "zh": "中午",
-      "ru": "полдень"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "middagar"
+      "ru": "полдень",
+      "fr": "le midi"
+    }
   },
   {
     "id": "sv_189",
+    "lang": "sv",
     "lemma": "dess",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "dess",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4528,17 +4530,17 @@ const WORDS_SV_A1 = [
       "pt": "o ré bemol",
       "ja": "変ニ",
       "zh": "降D",
-      "ru": "ре-бемоль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "dess"
+      "ru": "ре-бемоль",
+      "fr": "le ré bémol"
+    }
   },
   {
     "id": "sv_190",
+    "lang": "sv",
     "lemma": "synd",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "synder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4555,17 +4557,17 @@ const WORDS_SV_A1 = [
       "pt": "o pecado",
       "ja": "罪",
       "zh": "罪",
-      "ru": "грех"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "synder"
+      "ru": "грех",
+      "fr": "le péché"
+    }
   },
   {
     "id": "sv_191",
+    "lang": "sv",
     "lemma": "åtta",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "åttor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4582,17 +4584,17 @@ const WORDS_SV_A1 = [
       "pt": "o oito",
       "ja": "八",
       "zh": "八",
-      "ru": "восемь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "åttor"
+      "ru": "восемь",
+      "fr": "le huit"
+    }
   },
   {
     "id": "sv_192",
+    "lang": "sv",
     "lemma": "order",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "order",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4609,17 +4611,17 @@ const WORDS_SV_A1 = [
       "pt": "a ordem",
       "ja": "命令",
       "zh": "命令",
-      "ru": "приказ"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "order"
+      "ru": "приказ",
+      "fr": "l'ordre"
+    }
   },
   {
     "id": "sv_193",
+    "lang": "sv",
     "lemma": "skall",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skall",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4636,17 +4638,17 @@ const WORDS_SV_A1 = [
       "pt": "o som",
       "ja": "音",
       "zh": "声音",
-      "ru": "звук"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skall"
+      "ru": "звук",
+      "fr": "le son"
+    }
   },
   {
     "id": "sv_194",
+    "lang": "sv",
     "lemma": "polis",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "poliser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4663,15 +4665,13 @@ const WORDS_SV_A1 = [
       "pt": "a polícia",
       "ja": "警察",
       "zh": "警察",
-      "ru": "полиция"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "poliser"
+      "ru": "полиция",
+      "fr": "la police"
+    }
   },
   {
     "id": "sv_195",
+    "lang": "sv",
     "lemma": "annorlunda",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4690,15 +4690,17 @@ const WORDS_SV_A1 = [
       "pt": "diferente",
       "ja": "違う",
       "zh": "不同",
-      "ru": "другой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "другой",
+      "fr": "différent"
+    }
   },
   {
     "id": "sv_196",
+    "lang": "sv",
     "lemma": "ögonblick",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ögonblick",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4715,17 +4717,17 @@ const WORDS_SV_A1 = [
       "pt": "o momento",
       "ja": "瞬間",
       "zh": "时刻",
-      "ru": "момент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ögonblick"
+      "ru": "момент",
+      "fr": "le moment"
+    }
   },
   {
     "id": "sv_198",
+    "lang": "sv",
     "lemma": "dricka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "drickor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4742,17 +4744,17 @@ const WORDS_SV_A1 = [
       "pt": "a bebida",
       "ja": "飲み物",
       "zh": "饮料",
-      "ru": "напиток"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "drickor"
+      "ru": "напиток",
+      "fr": "la boisson"
+    }
   },
   {
     "id": "sv_199",
+    "lang": "sv",
     "lemma": "tjänst",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tjänster",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4770,17 +4772,17 @@ const WORDS_SV_A1 = [
       "pt": "o favor",
       "ja": "頼み",
       "zh": "帮忙",
-      "ru": "услуга"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tjänster"
+      "ru": "услуга",
+      "fr": "le service"
+    }
   },
   {
     "id": "sv_200",
+    "lang": "sv",
     "lemma": "början",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4797,15 +4799,13 @@ const WORDS_SV_A1 = [
       "pt": "o começo",
       "ja": "始まり",
       "zh": "开始",
-      "ru": "начало"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "начало",
+      "fr": "le début"
+    }
   },
   {
     "id": "sv_201",
+    "lang": "sv",
     "lemma": "ung",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4824,15 +4824,17 @@ const WORDS_SV_A1 = [
       "pt": "jovem",
       "ja": "若い",
       "zh": "年轻",
-      "ru": "молодой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "молодой",
+      "fr": "jeune"
+    }
   },
   {
     "id": "sv_202",
+    "lang": "sv",
     "lemma": "stund",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stunder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4849,17 +4851,24 @@ const WORDS_SV_A1 = [
       "pt": "um tempo",
       "ja": "しばらく",
       "zh": "一会儿",
-      "ru": "некоторое время"
+      "ru": "некоторое время",
+      "fr": "l'instant"
     },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stunder"
+    "meta": {
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true
+      }
+    }
   },
   {
     "id": "sv_203",
+    "lang": "sv",
     "lemma": "arbete",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "arbeten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4877,17 +4886,17 @@ const WORDS_SV_A1 = [
       "pt": "o trabalho",
       "ja": "仕事",
       "zh": "工作",
-      "ru": "работа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "arbeten"
+      "ru": "работа",
+      "fr": "le travail"
+    }
   },
   {
     "id": "sv_204",
+    "lang": "sv",
     "lemma": "resa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "resor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4905,17 +4914,17 @@ const WORDS_SV_A1 = [
       "pt": "a viagem",
       "ja": "旅行",
       "zh": "旅行",
-      "ru": "поездка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "resor"
+      "ru": "поездка",
+      "fr": "le voyage"
+    }
   },
   {
     "id": "sv_205",
+    "lang": "sv",
     "lemma": "land",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "länder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4933,15 +4942,13 @@ const WORDS_SV_A1 = [
       "pt": "o país",
       "ja": "国",
       "zh": "国家",
-      "ru": "страна"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "länder"
+      "ru": "страна",
+      "fr": "le pays"
+    }
   },
   {
     "id": "sv_206",
+    "lang": "sv",
     "lemma": "riktig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4960,15 +4967,17 @@ const WORDS_SV_A1 = [
       "pt": "correto",
       "ja": "正しい",
       "zh": "正确",
-      "ru": "правильный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "правильный",
+      "fr": "correct"
+    }
   },
   {
     "id": "sv_207",
+    "lang": "sv",
     "lemma": "agent",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "agenter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4985,15 +4994,13 @@ const WORDS_SV_A1 = [
       "pt": "o agente",
       "ja": "エージェント",
       "zh": "代理",
-      "ru": "агент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "agenter"
+      "ru": "агент",
+      "fr": "l'agent"
+    }
   },
   {
     "id": "sv_208",
+    "lang": "sv",
     "lemma": "orolig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5012,15 +5019,17 @@ const WORDS_SV_A1 = [
       "pt": "preocupado",
       "ja": "心配な",
       "zh": "担心",
-      "ru": "обеспокоенный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "обеспокоенный",
+      "fr": "inquiet"
+    }
   },
   {
     "id": "sv_209",
+    "lang": "sv",
     "lemma": "mord",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "mord",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5037,17 +5046,17 @@ const WORDS_SV_A1 = [
       "pt": "o assassinato",
       "ja": "殺人",
       "zh": "谋杀",
-      "ru": "убийство"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "mord"
+      "ru": "убийство",
+      "fr": "le meurtre"
+    }
   },
   {
     "id": "sv_210",
+    "lang": "sv",
     "lemma": "råd",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "råd",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5064,15 +5073,13 @@ const WORDS_SV_A1 = [
       "pt": "o conselho",
       "ja": "助言",
       "zh": "建议",
-      "ru": "совет"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "råd"
+      "ru": "совет",
+      "fr": "le conseil"
+    }
   },
   {
     "id": "sv_211",
+    "lang": "sv",
     "lemma": "dålig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5091,13 +5098,13 @@ const WORDS_SV_A1 = [
       "pt": "mau",
       "ja": "悪い",
       "zh": "坏",
-      "ru": "плохой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "плохой",
+      "fr": "mauvais"
+    }
   },
   {
     "id": "sv_212",
+    "lang": "sv",
     "lemma": "tvungen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5116,15 +5123,17 @@ const WORDS_SV_A1 = [
       "pt": "forçado",
       "ja": "強制された",
       "zh": "被迫",
-      "ru": "вынужденный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "вынужденный",
+      "fr": "forcé"
+    }
   },
   {
     "id": "sv_213",
+    "lang": "sv",
     "lemma": "krig",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "krig",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5141,17 +5150,17 @@ const WORDS_SV_A1 = [
       "pt": "a guerra",
       "ja": "戦争",
       "zh": "战争",
-      "ru": "война"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "krig"
+      "ru": "война",
+      "fr": "la guerre"
+    }
   },
   {
     "id": "sv_214",
+    "lang": "sv",
     "lemma": "huvud",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "huvuden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5168,15 +5177,13 @@ const WORDS_SV_A1 = [
       "pt": "a cabeça",
       "ja": "頭",
       "zh": "头",
-      "ru": "голова"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "huvuden"
+      "ru": "голова",
+      "fr": "la tête"
+    }
   },
   {
     "id": "sv_215",
+    "lang": "sv",
     "lemma": "smart",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5195,15 +5202,17 @@ const WORDS_SV_A1 = [
       "pt": "inteligente",
       "ja": "賢い",
       "zh": "聪明的",
-      "ru": "умный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "умный",
+      "fr": "intelligent"
+    }
   },
   {
     "id": "sv_216",
+    "lang": "sv",
     "lemma": "spring",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5220,17 +5229,17 @@ const WORDS_SV_A1 = [
       "pt": "a corrida",
       "ja": "走ること",
       "zh": "跑步",
-      "ru": "бег"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "бег",
+      "fr": "la course"
+    }
   },
   {
     "id": "sv_217",
+    "lang": "sv",
     "lemma": "timme",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "timmar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5247,17 +5256,17 @@ const WORDS_SV_A1 = [
       "pt": "a hora",
       "ja": "時間",
       "zh": "小时",
-      "ru": "час"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "timmar"
+      "ru": "час",
+      "fr": "l'heure"
+    }
   },
   {
     "id": "sv_218",
+    "lang": "sv",
     "lemma": "samtal",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "samtal",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5275,17 +5284,17 @@ const WORDS_SV_A1 = [
       "pt": "a conversa",
       "ja": "会話",
       "zh": "对话",
-      "ru": "разговор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "samtal"
+      "ru": "разговор",
+      "fr": "la conversation"
+    }
   },
   {
     "id": "sv_219",
+    "lang": "sv",
     "lemma": "ansikte",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ansikten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5302,17 +5311,17 @@ const WORDS_SV_A1 = [
       "pt": "o rosto",
       "ja": "顔",
       "zh": "脸",
-      "ru": "лицо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ansikten"
+      "ru": "лицо",
+      "fr": "le visage"
+    }
   },
   {
     "id": "sv_221",
+    "lang": "sv",
     "lemma": "allvar",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5329,17 +5338,17 @@ const WORDS_SV_A1 = [
       "pt": "a seriedade",
       "ja": "真剣さ",
       "zh": "严肃",
-      "ru": "серьёзность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "серьёзность",
+      "fr": "le sérieux"
+    }
   },
   {
     "id": "sv_222",
+    "lang": "sv",
     "lemma": "svar",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "svar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5357,17 +5366,17 @@ const WORDS_SV_A1 = [
       "pt": "a resposta",
       "ja": "答え",
       "zh": "答案",
-      "ru": "ответ"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "svar"
+      "ru": "ответ",
+      "fr": "la réponse"
+    }
   },
   {
     "id": "sv_223",
+    "lang": "sv",
     "lemma": "telefon",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "telefoner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5384,17 +5393,16 @@ const WORDS_SV_A1 = [
       "pt": "o telefone",
       "ja": "電話",
       "zh": "电话",
-      "ru": "телефон"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "telefoner"
+      "ru": "телефон",
+      "fr": "le téléphone"
+    }
   },
   {
     "id": "sv_224",
+    "lang": "sv",
     "lemma": "rummet",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5411,17 +5419,17 @@ const WORDS_SV_A1 = [
       "pt": "o quarto",
       "ja": "部屋",
       "zh": "房间",
-      "ru": "комната"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "комната",
+      "fr": "la pièce"
+    }
   },
   {
     "id": "sv_225",
+    "lang": "sv",
     "lemma": "läkare",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "läkare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5438,17 +5446,16 @@ const WORDS_SV_A1 = [
       "pt": "o médico",
       "ja": "医者",
       "zh": "医生",
-      "ru": "врач"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "läkare"
+      "ru": "врач",
+      "fr": "le médecin"
+    }
   },
   {
     "id": "sv_226",
+    "lang": "sv",
     "lemma": "tv",
     "pos": "Nomen",
+    "article": "en",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5465,17 +5472,17 @@ const WORDS_SV_A1 = [
       "pt": "a televisão",
       "ja": "テレビ",
       "zh": "电视",
-      "ru": "телевизор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": ""
+      "ru": "телевизор",
+      "fr": "la télévision"
+    }
   },
   {
     "id": "sv_227",
+    "lang": "sv",
     "lemma": "människa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "människor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5492,17 +5499,17 @@ const WORDS_SV_A1 = [
       "pt": "o humano",
       "ja": "人間",
       "zh": "人类",
-      "ru": "человек"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "människor"
+      "ru": "человек",
+      "fr": "l'être humain"
+    }
   },
   {
     "id": "sv_228",
+    "lang": "sv",
     "lemma": "herre",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "herrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5519,17 +5526,17 @@ const WORDS_SV_A1 = [
       "pt": "o senhor",
       "ja": "紳士",
       "zh": "绅士",
-      "ru": "джентльмен"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "herrar"
+      "ru": "джентльмен",
+      "fr": "le monsieur"
+    }
   },
   {
     "id": "sv_229",
+    "lang": "sv",
     "lemma": "chef",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "chefer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5547,17 +5554,17 @@ const WORDS_SV_A1 = [
       "pt": "o chefe",
       "ja": "上司",
       "zh": "老板",
-      "ru": "начальник"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "chefer"
+      "ru": "начальник",
+      "fr": "le chef"
+    }
   },
   {
     "id": "sv_230",
+    "lang": "sv",
     "lemma": "trots",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5574,17 +5581,17 @@ const WORDS_SV_A1 = [
       "pt": "o desafio",
       "ja": "反抗",
       "zh": "蔑视",
-      "ru": "вызов"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "вызов",
+      "fr": "le défi"
+    }
   },
   {
     "id": "sv_231",
+    "lang": "sv",
     "lemma": "fängelse",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "fängelser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5601,15 +5608,13 @@ const WORDS_SV_A1 = [
       "pt": "a prisão",
       "ja": "刑務所",
       "zh": "监狱",
-      "ru": "тюрьма"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "fängelser"
+      "ru": "тюрьма",
+      "fr": "la prison"
+    }
   },
   {
     "id": "sv_232",
+    "lang": "sv",
     "lemma": "trevlig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5628,15 +5633,17 @@ const WORDS_SV_A1 = [
       "pt": "agradável",
       "ja": "素敵な",
       "zh": "好的",
-      "ru": "приятный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "приятный",
+      "fr": "agréable"
+    }
   },
   {
     "id": "sv_233",
+    "lang": "sv",
     "lemma": "värld",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "världar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5653,17 +5660,17 @@ const WORDS_SV_A1 = [
       "pt": "o mundo",
       "ja": "世界",
       "zh": "世界",
-      "ru": "мир"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "världar"
+      "ru": "мир",
+      "fr": "le monde"
+    }
   },
   {
     "id": "sv_234",
+    "lang": "sv",
     "lemma": "information",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "informationer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5680,15 +5687,13 @@ const WORDS_SV_A1 = [
       "pt": "a informação",
       "ja": "情報",
       "zh": "信息",
-      "ru": "информация"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "informationer"
+      "ru": "информация",
+      "fr": "l'information"
+    }
   },
   {
     "id": "sv_235",
+    "lang": "sv",
     "lemma": "stark",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5707,13 +5712,13 @@ const WORDS_SV_A1 = [
       "pt": "forte",
       "ja": "強い",
       "zh": "强的",
-      "ru": "сильный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сильный",
+      "fr": "fort"
+    }
   },
   {
     "id": "sv_236",
+    "lang": "sv",
     "lemma": "fri",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5732,15 +5737,17 @@ const WORDS_SV_A1 = [
       "pt": "livre",
       "ja": "自由な",
       "zh": "自由的",
-      "ru": "свободный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "свободный",
+      "fr": "libre"
+    }
   },
   {
     "id": "sv_237",
+    "lang": "sv",
     "lemma": "hund",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hundar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5757,17 +5764,17 @@ const WORDS_SV_A1 = [
       "pt": "o cão",
       "ja": "犬",
       "zh": "狗",
-      "ru": "собака"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hundar"
+      "ru": "собака",
+      "fr": "le chien"
+    }
   },
   {
     "id": "sv_238",
+    "lang": "sv",
     "lemma": "röra",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "röror",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5784,17 +5791,17 @@ const WORDS_SV_A1 = [
       "pt": "a bagunça",
       "ja": "散らかり",
       "zh": "混乱",
-      "ru": "беспорядок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "röror"
+      "ru": "беспорядок",
+      "fr": "le désordre"
+    }
   },
   {
     "id": "sv_239",
+    "lang": "sv",
     "lemma": "max",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "maxar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5811,17 +5818,17 @@ const WORDS_SV_A1 = [
       "pt": "a aposta máxima",
       "ja": "最大賭け",
       "zh": "最大赌注",
-      "ru": "максимальная ставка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "maxar"
+      "ru": "максимальная ставка",
+      "fr": "la mise maximale"
+    }
   },
   {
     "id": "sv_240",
+    "lang": "sv",
     "lemma": "fart",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "farter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5838,17 +5845,17 @@ const WORDS_SV_A1 = [
       "pt": "a velocidade",
       "ja": "速度",
       "zh": "速度",
-      "ru": "скорость"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "farter"
+      "ru": "скорость",
+      "fr": "la vitesse"
+    }
   },
   {
     "id": "sv_241",
+    "lang": "sv",
     "lemma": "advokat",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "advokater",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5866,15 +5873,13 @@ const WORDS_SV_A1 = [
       "pt": "o advogado",
       "ja": "弁護士",
       "zh": "律师",
-      "ru": "адвокат"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "advokater"
+      "ru": "адвокат",
+      "fr": "l'avocat"
+    }
   },
   {
     "id": "sv_243",
+    "lang": "sv",
     "lemma": "hel",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5893,15 +5898,17 @@ const WORDS_SV_A1 = [
       "pt": "inteiro",
       "ja": "全体の",
       "zh": "整个的",
-      "ru": "целый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "целый",
+      "fr": "entier"
+    }
   },
   {
     "id": "sv_245",
+    "lang": "sv",
     "lemma": "fred",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "freder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5918,17 +5925,17 @@ const WORDS_SV_A1 = [
       "pt": "a paz",
       "ja": "平和",
       "zh": "和平",
-      "ru": "мир"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "freder"
+      "ru": "мир",
+      "fr": "la paix"
+    }
   },
   {
     "id": "sv_246",
+    "lang": "sv",
     "lemma": "vita",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vitor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5945,17 +5952,17 @@ const WORDS_SV_A1 = [
       "pt": "a clara de ovo",
       "ja": "卵白",
       "zh": "蛋清",
-      "ru": "яичный белок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vitor"
+      "ru": "яичный белок",
+      "fr": "le blanc d'œuf"
+    }
   },
   {
     "id": "sv_247",
+    "lang": "sv",
     "lemma": "dan",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "daner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5972,15 +5979,13 @@ const WORDS_SV_A1 = [
       "pt": "o dinamarquês",
       "ja": "デンマーク人",
       "zh": "丹麦人",
-      "ru": "датчанин"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "daner"
+      "ru": "датчанин",
+      "fr": "le Danois"
+    }
   },
   {
     "id": "sv_249",
+    "lang": "sv",
     "lemma": "svart",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5999,15 +6004,16 @@ const WORDS_SV_A1 = [
       "pt": "preto",
       "ja": "黒い",
       "zh": "黑色",
-      "ru": "чёрный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "чёрный",
+      "fr": "noir"
+    }
   },
   {
     "id": "sv_250",
+    "lang": "sv",
     "lemma": "svart",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6024,17 +6030,17 @@ const WORDS_SV_A1 = [
       "pt": "o preto",
       "ja": "黒色",
       "zh": "黑色",
-      "ru": "чёрный цвет"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "чёрный цвет",
+      "fr": "le noir"
+    }
   },
   {
     "id": "sv_251",
+    "lang": "sv",
     "lemma": "bär",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bär",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6051,15 +6057,13 @@ const WORDS_SV_A1 = [
       "pt": "a baga",
       "ja": "ベリー",
       "zh": "浆果",
-      "ru": "ягода"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bär"
+      "ru": "ягода",
+      "fr": "la baie"
+    }
   },
   {
     "id": "sv_252",
+    "lang": "sv",
     "lemma": "lycklig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6079,13 +6083,13 @@ const WORDS_SV_A1 = [
       "pt": "feliz",
       "ja": "幸せな",
       "zh": "快乐的",
-      "ru": "счастливый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "счастливый",
+      "fr": "heureux"
+    }
   },
   {
     "id": "sv_253",
+    "lang": "sv",
     "lemma": "intressant",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6104,13 +6108,13 @@ const WORDS_SV_A1 = [
       "pt": "interessante",
       "ja": "興味深い",
       "zh": "有趣的",
-      "ru": "интересный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "интересный",
+      "fr": "intéressant"
+    }
   },
   {
     "id": "sv_254",
+    "lang": "sv",
     "lemma": "levande",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6129,13 +6133,13 @@ const WORDS_SV_A1 = [
       "pt": "vivo",
       "ja": "生きている",
       "zh": "活着的",
-      "ru": "живой"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "живой",
+      "fr": "vivant"
+    }
   },
   {
     "id": "sv_255",
+    "lang": "sv",
     "lemma": "försiktig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6154,15 +6158,17 @@ const WORDS_SV_A1 = [
       "pt": "cuidadoso",
       "ja": "慎重な",
       "zh": "小心的",
-      "ru": "осторожный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "осторожный",
+      "fr": "prudent"
+    }
   },
   {
     "id": "sv_256",
+    "lang": "sv",
     "lemma": "planet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "planeter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6179,15 +6185,13 @@ const WORDS_SV_A1 = [
       "pt": "o planeta",
       "ja": "惑星",
       "zh": "行星",
-      "ru": "планета"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "planeter"
+      "ru": "планета",
+      "fr": "la planète"
+    }
   },
   {
     "id": "sv_257",
+    "lang": "sv",
     "lemma": "stolt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6206,15 +6210,17 @@ const WORDS_SV_A1 = [
       "pt": "orgulhoso",
       "ja": "誇りに思う",
       "zh": "骄傲的",
-      "ru": "гордый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "гордый",
+      "fr": "fier"
+    }
   },
   {
     "id": "sv_258",
+    "lang": "sv",
     "lemma": "tacka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tackor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6231,17 +6237,17 @@ const WORDS_SV_A1 = [
       "pt": "a ovelha",
       "ja": "雌羊",
       "zh": "母羊",
-      "ru": "овца"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tackor"
+      "ru": "овца",
+      "fr": "la brebis"
+    }
   },
   {
     "id": "sv_259",
+    "lang": "sv",
     "lemma": "mördare",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mördare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6258,17 +6264,17 @@ const WORDS_SV_A1 = [
       "pt": "o assassino",
       "ja": "殺人者",
       "zh": "杀人犯",
-      "ru": "убийца"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mördare"
+      "ru": "убийца",
+      "fr": "le meurtrier"
+    }
   },
   {
     "id": "sv_260",
+    "lang": "sv",
     "lemma": "meddelande",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "meddelanden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6285,17 +6291,17 @@ const WORDS_SV_A1 = [
       "pt": "a mensagem",
       "ja": "メッセージ",
       "zh": "消息",
-      "ru": "сообщение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "meddelanden"
+      "ru": "сообщение",
+      "fr": "le message"
+    }
   },
   {
     "id": "sv_261",
+    "lang": "sv",
     "lemma": "beslut",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "beslut",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6312,17 +6318,16 @@ const WORDS_SV_A1 = [
       "pt": "a decisão",
       "ja": "決定",
       "zh": "决定",
-      "ru": "решение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "beslut"
+      "ru": "решение",
+      "fr": "la décision"
+    }
   },
   {
     "id": "sv_262",
+    "lang": "sv",
     "lemma": "öl",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6339,17 +6344,17 @@ const WORDS_SV_A1 = [
       "pt": "a cerveja",
       "ja": "ビール",
       "zh": "啤酒",
-      "ru": "пиво"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "пиво",
+      "fr": "la bière"
+    }
   },
   {
     "id": "sv_263",
+    "lang": "sv",
     "lemma": "kontor",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "kontor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6367,17 +6372,17 @@ const WORDS_SV_A1 = [
       "pt": "o escritório",
       "ja": "オフィス",
       "zh": "办公室",
-      "ru": "офис"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "kontor"
+      "ru": "офис",
+      "fr": "le bureau"
+    }
   },
   {
     "id": "sv_264",
+    "lang": "sv",
     "lemma": "raring",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "raringar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6394,17 +6399,17 @@ const WORDS_SV_A1 = [
       "pt": "o querido",
       "ja": "ダーリン",
       "zh": "亲爱的",
-      "ru": "дорогой"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "raringar"
+      "ru": "дорогой",
+      "fr": "le chéri"
+    }
   },
   {
     "id": "sv_265",
+    "lang": "sv",
     "lemma": "anledning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "anledningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6421,17 +6426,17 @@ const WORDS_SV_A1 = [
       "pt": "a razão",
       "ja": "理由",
       "zh": "理由",
-      "ru": "причина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "anledningar"
+      "ru": "причина",
+      "fr": "la raison"
+    }
   },
   {
     "id": "sv_266",
+    "lang": "sv",
     "lemma": "mark",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "marker",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6448,17 +6453,17 @@ const WORDS_SV_A1 = [
       "pt": "o chão",
       "ja": "地面",
       "zh": "地面",
-      "ru": "земля"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "marker"
+      "ru": "земля",
+      "fr": "le sol"
+    }
   },
   {
     "id": "sv_267",
+    "lang": "sv",
     "lemma": "bland",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6475,15 +6480,13 @@ const WORDS_SV_A1 = [
       "pt": "a mistura",
       "ja": "混合物",
       "zh": "混合物",
-      "ru": "смесь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "смесь",
+      "fr": "le mélange"
+    }
   },
   {
     "id": "sv_268",
+    "lang": "sv",
     "lemma": "vänster",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6503,15 +6506,17 @@ const WORDS_SV_A1 = [
       "pt": "esquerdo",
       "ja": "左の",
       "zh": "左边的",
-      "ru": "левый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "левый",
+      "fr": "gauche"
+    }
   },
   {
     "id": "sv_269",
+    "lang": "sv",
     "lemma": "vänster",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vänstrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6529,17 +6534,17 @@ const WORDS_SV_A1 = [
       "pt": "o lado esquerdo",
       "ja": "左側",
       "zh": "左边",
-      "ru": "левая сторона"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vänstrar"
+      "ru": "левая сторона",
+      "fr": "la gauche"
+    }
   },
   {
     "id": "sv_270",
+    "lang": "sv",
     "lemma": "film",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "filmer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6556,15 +6561,13 @@ const WORDS_SV_A1 = [
       "pt": "o filme",
       "ja": "映画",
       "zh": "电影",
-      "ru": "фильм"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "filmer"
+      "ru": "фильм",
+      "fr": "le film"
+    }
   },
   {
     "id": "sv_271",
+    "lang": "sv",
     "lemma": "jättebra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6583,13 +6586,13 @@ const WORDS_SV_A1 = [
       "pt": "muito bom",
       "ja": "とても良い",
       "zh": "非常好",
-      "ru": "очень хорошо"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "очень хорошо",
+      "fr": "excellent"
+    }
   },
   {
     "id": "sv_272",
+    "lang": "sv",
     "lemma": "snygg",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6608,15 +6611,17 @@ const WORDS_SV_A1 = [
       "pt": "bonito",
       "ja": "格好良い",
       "zh": "好看的",
-      "ru": "красивый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "красивый",
+      "fr": "beau"
+    }
   },
   {
     "id": "sv_273",
+    "lang": "sv",
     "lemma": "hår",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hår",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6633,17 +6638,17 @@ const WORDS_SV_A1 = [
       "pt": "o cabelo",
       "ja": "髪",
       "zh": "头发",
-      "ru": "волос"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hår"
+      "ru": "волос",
+      "fr": "le cheveu"
+    }
   },
   {
     "id": "sv_274",
+    "lang": "sv",
     "lemma": "fest",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fester",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6660,17 +6665,17 @@ const WORDS_SV_A1 = [
       "pt": "a festa",
       "ja": "パーティー",
       "zh": "派对",
-      "ru": "вечеринка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fester"
+      "ru": "вечеринка",
+      "fr": "la fête"
+    }
   },
   {
     "id": "sv_275",
+    "lang": "sv",
     "lemma": "möte",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "möten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6688,17 +6693,17 @@ const WORDS_SV_A1 = [
       "pt": "a reunião",
       "ja": "会議",
       "zh": "会议",
-      "ru": "встреча"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "möten"
+      "ru": "встреча",
+      "fr": "la réunion"
+    }
   },
   {
     "id": "sv_276",
+    "lang": "sv",
     "lemma": "eld",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "eldar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6715,17 +6720,17 @@ const WORDS_SV_A1 = [
       "pt": "o fogo",
       "ja": "火",
       "zh": "火",
-      "ru": "огонь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "eldar"
+      "ru": "огонь",
+      "fr": "le feu"
+    }
   },
   {
     "id": "sv_277",
+    "lang": "sv",
     "lemma": "skål",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skålar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6742,15 +6747,13 @@ const WORDS_SV_A1 = [
       "pt": "a tigela",
       "ja": "ボウル",
       "zh": "碗",
-      "ru": "миска"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skålar"
+      "ru": "миска",
+      "fr": "le bol"
+    }
   },
   {
     "id": "sv_278",
+    "lang": "sv",
     "lemma": "försökt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6769,15 +6772,17 @@ const WORDS_SV_A1 = [
       "pt": "tentado",
       "ja": "試された",
       "zh": "尝试过的",
-      "ru": "попытавшийся"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "попытавшийся",
+      "fr": "essayé"
+    }
   },
   {
     "id": "sv_279",
+    "lang": "sv",
     "lemma": "bok",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "böcker",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6795,17 +6800,17 @@ const WORDS_SV_A1 = [
       "pt": "o livro",
       "ja": "本",
       "zh": "书",
-      "ru": "книга"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "böcker"
+      "ru": "книга",
+      "fr": "le livre"
+    }
   },
   {
     "id": "sv_280",
+    "lang": "sv",
     "lemma": "djur",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "djur",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6822,17 +6827,17 @@ const WORDS_SV_A1 = [
       "pt": "o animal",
       "ja": "動物",
       "zh": "动物",
-      "ru": "животное"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "djur"
+      "ru": "животное",
+      "fr": "l'animal"
+    }
   },
   {
     "id": "sv_281",
+    "lang": "sv",
     "lemma": "farbror",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "farbröder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6849,15 +6854,13 @@ const WORDS_SV_A1 = [
       "pt": "o tio paterno",
       "ja": "父方の叔父",
       "zh": "伯父",
-      "ru": "дядя по отцу"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "farbröder"
+      "ru": "дядя по отцу",
+      "fr": "l'oncle"
+    }
   },
   {
     "id": "sv_282",
+    "lang": "sv",
     "lemma": "duktig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6876,15 +6879,17 @@ const WORDS_SV_A1 = [
       "pt": "capaz",
       "ja": "有能な",
       "zh": "能干的",
-      "ru": "способный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "способный",
+      "fr": "capable"
+    }
   },
   {
     "id": "sv_283",
+    "lang": "sv",
     "lemma": "president",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "presidenter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6901,17 +6906,17 @@ const WORDS_SV_A1 = [
       "pt": "o presidente",
       "ja": "議長",
       "zh": "主席",
-      "ru": "председатель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "presidenter"
+      "ru": "председатель",
+      "fr": "le président"
+    }
   },
   {
     "id": "sv_284",
+    "lang": "sv",
     "lemma": "kontakt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kontakter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6928,15 +6933,13 @@ const WORDS_SV_A1 = [
       "pt": "o contato",
       "ja": "連絡",
       "zh": "联系",
-      "ru": "контакт"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kontakter"
+      "ru": "контакт",
+      "fr": "le contact"
+    }
   },
   {
     "id": "sv_285",
+    "lang": "sv",
     "lemma": "höger",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6956,15 +6959,17 @@ const WORDS_SV_A1 = [
       "pt": "direito",
       "ja": "右の",
       "zh": "右边的",
-      "ru": "правый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "правый",
+      "fr": "droit"
+    }
   },
   {
     "id": "sv_286",
+    "lang": "sv",
     "lemma": "höger",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "högrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6982,17 +6987,17 @@ const WORDS_SV_A1 = [
       "pt": "o lado direito",
       "ja": "右側",
       "zh": "右边",
-      "ru": "правая сторона"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "högrar"
+      "ru": "правая сторона",
+      "fr": "la droite"
+    }
   },
   {
     "id": "sv_287",
+    "lang": "sv",
     "lemma": "spel",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "spel",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7009,17 +7014,17 @@ const WORDS_SV_A1 = [
       "pt": "o jogo",
       "ja": "遊び",
       "zh": "游戏",
-      "ru": "игра"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "spel"
+      "ru": "игра",
+      "fr": "le jeu"
+    }
   },
   {
     "id": "sv_288",
+    "lang": "sv",
     "lemma": "mål",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "mål",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7036,17 +7041,17 @@ const WORDS_SV_A1 = [
       "pt": "a língua",
       "ja": "言語",
       "zh": "语言",
-      "ru": "язык"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "mål"
+      "ru": "язык",
+      "fr": "la langue"
+    }
   },
   {
     "id": "sv_289",
+    "lang": "sv",
     "lemma": "fader",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fäder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7063,17 +7068,17 @@ const WORDS_SV_A1 = [
       "pt": "o pai",
       "ja": "父",
       "zh": "父亲",
-      "ru": "отец"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fäder"
+      "ru": "отец",
+      "fr": "le père"
+    }
   },
   {
     "id": "sv_290",
+    "lang": "sv",
     "lemma": "kung",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kungar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7090,17 +7095,17 @@ const WORDS_SV_A1 = [
       "pt": "o rei",
       "ja": "王",
       "zh": "国王",
-      "ru": "король"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kungar"
+      "ru": "король",
+      "fr": "le roi"
+    }
   },
   {
     "id": "sv_291",
+    "lang": "sv",
     "lemma": "sticka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stickor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7117,15 +7122,13 @@ const WORDS_SV_A1 = [
       "pt": "a farpa",
       "ja": "とげ",
       "zh": "碎片",
-      "ru": "заноза"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stickor"
+      "ru": "заноза",
+      "fr": "l'écharde"
+    }
   },
   {
     "id": "sv_292",
+    "lang": "sv",
     "lemma": "fantastisk",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7144,15 +7147,17 @@ const WORDS_SV_A1 = [
       "pt": "fantástico",
       "ja": "素晴らしい",
       "zh": "极好的",
-      "ru": "фантастический"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "фантастический",
+      "fr": "fantastique"
+    }
   },
   {
     "id": "sv_293",
+    "lang": "sv",
     "lemma": "henry",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "henry",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7169,17 +7174,17 @@ const WORDS_SV_A1 = [
       "pt": "o henry",
       "ja": "ヘンリー",
       "zh": "亨利",
-      "ru": "генри"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "henry"
+      "ru": "генри",
+      "fr": "le henry"
+    }
   },
   {
     "id": "sv_294",
+    "lang": "sv",
     "lemma": "stopp",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "stopp",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7196,17 +7201,17 @@ const WORDS_SV_A1 = [
       "pt": "a parada",
       "ja": "停止",
       "zh": "停止",
-      "ru": "остановка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "stopp"
+      "ru": "остановка",
+      "fr": "l'arrêt"
+    }
   },
   {
     "id": "sv_295",
+    "lang": "sv",
     "lemma": "flickvän",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "flickvänner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7224,17 +7229,17 @@ const WORDS_SV_A1 = [
       "pt": "a namorada",
       "ja": "ガールフレンド",
       "zh": "女朋友",
-      "ru": "девушка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "flickvänner"
+      "ru": "девушка",
+      "fr": "la petite amie"
+    }
   },
   {
     "id": "sv_296",
+    "lang": "sv",
     "lemma": "ända",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ändor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7251,17 +7256,17 @@ const WORDS_SV_A1 = [
       "pt": "a nádega",
       "ja": "臀部",
       "zh": "臀部",
-      "ru": "ягодица"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ändor"
+      "ru": "ягодица",
+      "fr": "la fesse"
+    }
   },
   {
     "id": "sv_298",
+    "lang": "sv",
     "lemma": "grej",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "grejer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7278,17 +7283,17 @@ const WORDS_SV_A1 = [
       "pt": "a coisa",
       "ja": "物",
       "zh": "东西",
-      "ru": "вещь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "grejer"
+      "ru": "вещь",
+      "fr": "la chose"
+    }
   },
   {
     "id": "sv_299",
+    "lang": "sv",
     "lemma": "meter",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "meter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7305,17 +7310,17 @@ const WORDS_SV_A1 = [
       "pt": "o metro",
       "ja": "メートル",
       "zh": "米",
-      "ru": "метр"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "meter"
+      "ru": "метр",
+      "fr": "le mètre"
+    }
   },
   {
     "id": "sv_300",
+    "lang": "sv",
     "lemma": "dröm",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "drömmar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7332,15 +7337,13 @@ const WORDS_SV_A1 = [
       "pt": "o sonho",
       "ja": "夢",
       "zh": "梦",
-      "ru": "сон"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "drömmar"
+      "ru": "сон",
+      "fr": "le rêve"
+    }
   },
   {
     "id": "sv_301",
+    "lang": "sv",
     "lemma": "sönder",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7359,13 +7362,13 @@ const WORDS_SV_A1 = [
       "pt": "quebrado",
       "ja": "壊れた",
       "zh": "坏的",
-      "ru": "сломанный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сломанный",
+      "fr": "cassé"
+    }
   },
   {
     "id": "sv_302",
+    "lang": "sv",
     "lemma": "hungrig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7384,15 +7387,17 @@ const WORDS_SV_A1 = [
       "pt": "com fome",
       "ja": "空腹の",
       "zh": "饥饿的",
-      "ru": "голодный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "голодный",
+      "fr": "affamé"
+    }
   },
   {
     "id": "sv_303",
+    "lang": "sv",
     "lemma": "steg",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "steg",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7409,17 +7414,17 @@ const WORDS_SV_A1 = [
       "pt": "o passo",
       "ja": "一歩",
       "zh": "步",
-      "ru": "шаг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "steg"
+      "ru": "шаг",
+      "fr": "le pas"
+    }
   },
   {
     "id": "sv_304",
+    "lang": "sv",
     "lemma": "uppdrag",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "uppdrag",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7436,17 +7441,17 @@ const WORDS_SV_A1 = [
       "pt": "a tarefa",
       "ja": "任務",
       "zh": "任务",
-      "ru": "задание"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "uppdrag"
+      "ru": "задание",
+      "fr": "la mission"
+    }
   },
   {
     "id": "sv_306",
+    "lang": "sv",
     "lemma": "vila",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vilor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7463,15 +7468,13 @@ const WORDS_SV_A1 = [
       "pt": "o descanso",
       "ja": "休息",
       "zh": "休息",
-      "ru": "отдых"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vilor"
+      "ru": "отдых",
+      "fr": "le repos"
+    }
   },
   {
     "id": "sv_307",
+    "lang": "sv",
     "lemma": "söt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7490,15 +7493,17 @@ const WORDS_SV_A1 = [
       "pt": "doce",
       "ja": "甘い",
       "zh": "甜的",
-      "ru": "сладкий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сладкий",
+      "fr": "doux"
+    }
   },
   {
     "id": "sv_308",
+    "lang": "sv",
     "lemma": "skämt",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skämt",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7515,15 +7520,13 @@ const WORDS_SV_A1 = [
       "pt": "a piada",
       "ja": "冗談",
       "zh": "笑话",
-      "ru": "шутка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skämt"
+      "ru": "шутка",
+      "fr": "la blague"
+    }
   },
   {
     "id": "sv_309",
+    "lang": "sv",
     "lemma": "kär",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7542,15 +7545,17 @@ const WORDS_SV_A1 = [
       "pt": "apaixonado",
       "ja": "恋している",
       "zh": "恋爱的",
-      "ru": "влюблённый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "влюблённый",
+      "fr": "amoureux"
+    }
   },
   {
     "id": "sv_310",
+    "lang": "sv",
     "lemma": "bild",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bilder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7567,17 +7572,17 @@ const WORDS_SV_A1 = [
       "pt": "a imagem",
       "ja": "写真",
       "zh": "图片",
-      "ru": "картина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bilder"
+      "ru": "картина",
+      "fr": "l'image"
+    }
   },
   {
     "id": "sv_311",
+    "lang": "sv",
     "lemma": "musik",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7594,15 +7599,13 @@ const WORDS_SV_A1 = [
       "pt": "a música",
       "ja": "音楽",
       "zh": "音乐",
-      "ru": "музыка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "музыка",
+      "fr": "la musique"
+    }
   },
   {
     "id": "sv_312",
+    "lang": "sv",
     "lemma": "sist",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7621,13 +7624,13 @@ const WORDS_SV_A1 = [
       "pt": "último",
       "ja": "最後の",
       "zh": "最后的",
-      "ru": "последний"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "последний",
+      "fr": "dernier"
+    }
   },
   {
     "id": "sv_313",
+    "lang": "sv",
     "lemma": "upptagen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7646,15 +7649,17 @@ const WORDS_SV_A1 = [
       "pt": "ocupado",
       "ja": "忙しい",
       "zh": "忙碌的",
-      "ru": "занятый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "занятый",
+      "fr": "occupé"
+    }
   },
   {
     "id": "sv_314",
+    "lang": "sv",
     "lemma": "säkerhet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "säkerheter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7671,15 +7676,13 @@ const WORDS_SV_A1 = [
       "pt": "a segurança",
       "ja": "安全",
       "zh": "安全",
-      "ru": "безопасность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "säkerheter"
+      "ru": "безопасность",
+      "fr": "la sécurité"
+    }
   },
   {
     "id": "sv_315",
+    "lang": "sv",
     "lemma": "äkta",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7698,15 +7701,17 @@ const WORDS_SV_A1 = [
       "pt": "genuíno",
       "ja": "本物の",
       "zh": "真正的",
-      "ru": "настоящий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "настоящий",
+      "fr": "authentique"
+    }
   },
   {
     "id": "sv_316",
+    "lang": "sv",
     "lemma": "stad",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "städer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7724,17 +7729,17 @@ const WORDS_SV_A1 = [
       "pt": "a cidade",
       "ja": "都市",
       "zh": "城市",
-      "ru": "город"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "städer"
+      "ru": "город",
+      "fr": "la ville"
+    }
   },
   {
     "id": "sv_317",
+    "lang": "sv",
     "lemma": "drog",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "droger",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7751,17 +7756,17 @@ const WORDS_SV_A1 = [
       "pt": "a droga",
       "ja": "薬物",
       "zh": "药物",
-      "ru": "наркотик"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "droger"
+      "ru": "наркотик",
+      "fr": "la drogue"
+    }
   },
   {
     "id": "sv_318",
+    "lang": "sv",
     "lemma": "general",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "generaler",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7778,17 +7783,17 @@ const WORDS_SV_A1 = [
       "pt": "o general",
       "ja": "将軍",
       "zh": "将军",
-      "ru": "генерал"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "generaler"
+      "ru": "генерал",
+      "fr": "le général"
+    }
   },
   {
     "id": "sv_319",
+    "lang": "sv",
     "lemma": "lunch",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "luncher",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7805,15 +7810,13 @@ const WORDS_SV_A1 = [
       "pt": "o almoço",
       "ja": "昼食",
       "zh": "午餐",
-      "ru": "обед"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "luncher"
+      "ru": "обед",
+      "fr": "le déjeuner"
+    }
   },
   {
     "id": "sv_320",
+    "lang": "sv",
     "lemma": "hög",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7832,15 +7835,17 @@ const WORDS_SV_A1 = [
       "pt": "alto",
       "ja": "高い",
       "zh": "高",
-      "ru": "высокий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "высокий",
+      "fr": "haut"
+    }
   },
   {
     "id": "sv_321",
+    "lang": "sv",
     "lemma": "hög",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "högar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7857,17 +7862,17 @@ const WORDS_SV_A1 = [
       "pt": "a pilha",
       "ja": "山",
       "zh": "堆",
-      "ru": "куча"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "högar"
+      "ru": "куча",
+      "fr": "le tas"
+    }
   },
   {
     "id": "sv_322",
+    "lang": "sv",
     "lemma": "brott",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "brott",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7884,15 +7889,13 @@ const WORDS_SV_A1 = [
       "pt": "a quebra",
       "ja": "破損",
       "zh": "断裂",
-      "ru": "разрыв"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "brott"
+      "ru": "разрыв",
+      "fr": "la rupture"
+    }
   },
   {
     "id": "sv_323",
+    "lang": "sv",
     "lemma": "bar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7911,15 +7914,17 @@ const WORDS_SV_A1 = [
       "pt": "nu",
       "ja": "裸の",
       "zh": "裸露的",
-      "ru": "голый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "голый",
+      "fr": "nu"
+    }
   },
   {
     "id": "sv_324",
+    "lang": "sv",
     "lemma": "bar",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "barer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7936,17 +7941,17 @@ const WORDS_SV_A1 = [
       "pt": "o bar",
       "ja": "バー",
       "zh": "酒吧",
-      "ru": "бар"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "barer"
+      "ru": "бар",
+      "fr": "le bar"
+    }
   },
   {
     "id": "sv_325",
+    "lang": "sv",
     "lemma": "glas",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "glas",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7963,17 +7968,16 @@ const WORDS_SV_A1 = [
       "pt": "o vidro",
       "ja": "ガラス",
       "zh": "玻璃",
-      "ru": "стекло"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "glas"
+      "ru": "стекло",
+      "fr": "le verre"
+    }
   },
   {
     "id": "sv_326",
+    "lang": "sv",
     "lemma": "vann",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7990,17 +7994,17 @@ const WORDS_SV_A1 = [
       "pt": "a água",
       "ja": "水",
       "zh": "水",
-      "ru": "вода"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "вода",
+      "fr": "l'eau"
+    }
   },
   {
     "id": "sv_327",
+    "lang": "sv",
     "lemma": "nick",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "nickar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8017,17 +8021,17 @@ const WORDS_SV_A1 = [
       "pt": "o aceno",
       "ja": "うなずき",
       "zh": "点头",
-      "ru": "кивок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "nickar"
+      "ru": "кивок",
+      "fr": "le signe de tête"
+    }
   },
   {
     "id": "sv_328",
+    "lang": "sv",
     "lemma": "åk",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "åk",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8044,17 +8048,17 @@ const WORDS_SV_A1 = [
       "pt": "o passeio",
       "ja": "乗り物",
       "zh": "乘坐",
-      "ru": "поездка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "åk"
+      "ru": "поездка",
+      "fr": "le trajet"
+    }
   },
   {
     "id": "sv_329",
+    "lang": "sv",
     "lemma": "fröken",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fröknar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8071,17 +8075,17 @@ const WORDS_SV_A1 = [
       "pt": "a senhorita",
       "ja": "お嬢さん",
       "zh": "小姐",
-      "ru": "мисс"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fröknar"
+      "ru": "мисс",
+      "fr": "la demoiselle"
+    }
   },
   {
     "id": "sv_330",
+    "lang": "sv",
     "lemma": "make",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "makar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8098,17 +8102,17 @@ const WORDS_SV_A1 = [
       "pt": "o marido",
       "ja": "夫",
       "zh": "丈夫",
-      "ru": "муж"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "makar"
+      "ru": "муж",
+      "fr": "le mari"
+    }
   },
   {
     "id": "sv_331",
+    "lang": "sv",
     "lemma": "pojkvän",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "pojkvänner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8126,17 +8130,17 @@ const WORDS_SV_A1 = [
       "pt": "o namorado",
       "ja": "彼氏",
       "zh": "男朋友",
-      "ru": "парень"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "pojkvänner"
+      "ru": "парень",
+      "fr": "le petit ami"
+    }
   },
   {
     "id": "sv_332",
+    "lang": "sv",
     "lemma": "minut",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "minuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8153,17 +8157,17 @@ const WORDS_SV_A1 = [
       "pt": "o minuto",
       "ja": "分",
       "zh": "分钟",
-      "ru": "минута"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "minuter"
+      "ru": "минута",
+      "fr": "la minute"
+    }
   },
   {
     "id": "sv_333",
+    "lang": "sv",
     "lemma": "spår",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "spår",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8180,17 +8184,17 @@ const WORDS_SV_A1 = [
       "pt": "o rastro",
       "ja": "痕跡",
       "zh": "痕迹",
-      "ru": "след"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "spår"
+      "ru": "след",
+      "fr": "la trace"
+    }
   },
   {
     "id": "sv_334",
+    "lang": "sv",
     "lemma": "stör",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "störar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8207,15 +8211,13 @@ const WORDS_SV_A1 = [
       "pt": "o poste",
       "ja": "棒",
       "zh": "杆",
-      "ru": "столб"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "störar"
+      "ru": "столб",
+      "fr": "le poteau"
+    }
   },
   {
     "id": "sv_335",
+    "lang": "sv",
     "lemma": "ljus",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8234,15 +8236,17 @@ const WORDS_SV_A1 = [
       "pt": "claro",
       "ja": "明るい",
       "zh": "明亮的",
-      "ru": "светлый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "светлый",
+      "fr": "clair"
+    }
   },
   {
     "id": "sv_336",
+    "lang": "sv",
     "lemma": "ljus",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ljus",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8259,17 +8263,17 @@ const WORDS_SV_A1 = [
       "pt": "a luz",
       "ja": "光",
       "zh": "光",
-      "ru": "свет"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ljus"
+      "ru": "свет",
+      "fr": "la lumière"
+    }
   },
   {
     "id": "sv_337",
+    "lang": "sv",
     "lemma": "drink",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "drinkar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8286,17 +8290,17 @@ const WORDS_SV_A1 = [
       "pt": "o drinque",
       "ja": "酒",
       "zh": "酒",
-      "ru": "выпивка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "drinkar"
+      "ru": "выпивка",
+      "fr": "le verre"
+    }
   },
   {
     "id": "sv_338",
+    "lang": "sv",
     "lemma": "brev",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "brev",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8313,15 +8317,13 @@ const WORDS_SV_A1 = [
       "pt": "a carta",
       "ja": "手紙",
       "zh": "信",
-      "ru": "письмо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "brev"
+      "ru": "письмо",
+      "fr": "la lettre"
+    }
   },
   {
     "id": "sv_339",
+    "lang": "sv",
     "lemma": "boken",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8340,15 +8342,17 @@ const WORDS_SV_A1 = [
       "pt": "muito maduro",
       "ja": "熟しすぎた",
       "zh": "过熟的",
-      "ru": "перезрелый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "перезрелый",
+      "fr": "trop mûr"
+    }
   },
   {
     "id": "sv_340",
+    "lang": "sv",
     "lemma": "bill",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "billar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8365,17 +8369,17 @@ const WORDS_SV_A1 = [
       "pt": "a parte",
       "ja": "分け前",
       "zh": "份额",
-      "ru": "доля"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "billar"
+      "ru": "доля",
+      "fr": "la part"
+    }
   },
   {
     "id": "sv_341",
+    "lang": "sv",
     "lemma": "pistol",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "pistoler",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8392,17 +8396,17 @@ const WORDS_SV_A1 = [
       "pt": "a pistola",
       "ja": "拳銃",
       "zh": "手枪",
-      "ru": "пистолет"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "pistoler"
+      "ru": "пистолет",
+      "fr": "le pistolet"
+    }
   },
   {
     "id": "sv_342",
+    "lang": "sv",
     "lemma": "röst",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "röster",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8419,17 +8423,17 @@ const WORDS_SV_A1 = [
       "pt": "a voz",
       "ja": "声",
       "zh": "声音",
-      "ru": "голос"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "röster"
+      "ru": "голос",
+      "fr": "la voix"
+    }
   },
   {
     "id": "sv_343",
+    "lang": "sv",
     "lemma": "månad",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "månader",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8446,15 +8450,13 @@ const WORDS_SV_A1 = [
       "pt": "o mês",
       "ja": "月",
       "zh": "月",
-      "ru": "месяц"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "månader"
+      "ru": "месяц",
+      "fr": "le mois"
+    }
   },
   {
     "id": "sv_344",
+    "lang": "sv",
     "lemma": "läst",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8474,15 +8476,17 @@ const WORDS_SV_A1 = [
       "pt": "lido",
       "ja": "読んだ",
       "zh": "读过的",
-      "ru": "прочитанный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "прочитанный",
+      "fr": "lu"
+    }
   },
   {
     "id": "sv_345",
+    "lang": "sv",
     "lemma": "läst",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "läster",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8499,17 +8503,17 @@ const WORDS_SV_A1 = [
       "pt": "a fôrma",
       "ja": "靴型",
       "zh": "鞋楦",
-      "ru": "обувная колодка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "läster"
+      "ru": "обувная колодка",
+      "fr": "la forme"
+    }
   },
   {
     "id": "sv_346",
+    "lang": "sv",
     "lemma": "själ",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "själar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8526,17 +8530,17 @@ const WORDS_SV_A1 = [
       "pt": "a alma",
       "ja": "魂",
       "zh": "灵魂",
-      "ru": "душа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "själar"
+      "ru": "душа",
+      "fr": "l'âme"
+    }
   },
   {
     "id": "sv_347",
+    "lang": "sv",
     "lemma": "lägenhet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lägenheter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8553,15 +8557,13 @@ const WORDS_SV_A1 = [
       "pt": "o apartamento",
       "ja": "アパート",
       "zh": "公寓",
-      "ru": "квартира"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lägenheter"
+      "ru": "квартира",
+      "fr": "l'appartement"
+    }
   },
   {
     "id": "sv_348",
+    "lang": "sv",
     "lemma": "stackars",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8580,15 +8582,17 @@ const WORDS_SV_A1 = [
       "pt": "pobre",
       "ja": "かわいそうな",
       "zh": "可怜的",
-      "ru": "бедный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "бедный",
+      "fr": "pauvre"
+    }
   },
   {
     "id": "sv_349",
+    "lang": "sv",
     "lemma": "kontroll",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kontroller",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8605,15 +8609,13 @@ const WORDS_SV_A1 = [
       "pt": "o controle",
       "ja": "制御",
       "zh": "控制",
-      "ru": "контроль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kontroller"
+      "ru": "контроль",
+      "fr": "le contrôle"
+    }
   },
   {
     "id": "sv_350",
+    "lang": "sv",
     "lemma": "underbar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8632,13 +8634,13 @@ const WORDS_SV_A1 = [
       "pt": "maravilhoso",
       "ja": "素晴らしい",
       "zh": "精彩的",
-      "ru": "замечательный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "замечательный",
+      "fr": "merveilleux"
+    }
   },
   {
     "id": "sv_351",
+    "lang": "sv",
     "lemma": "utmärkt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8657,13 +8659,13 @@ const WORDS_SV_A1 = [
       "pt": "excelente",
       "ja": "優れた",
       "zh": "优秀的",
-      "ru": "отличный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "отличный",
+      "fr": "excellent"
+    }
   },
   {
     "id": "sv_352",
+    "lang": "sv",
     "lemma": "extra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8682,13 +8684,13 @@ const WORDS_SV_A1 = [
       "pt": "extra",
       "ja": "追加の",
       "zh": "额外的",
-      "ru": "дополнительный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "дополнительный",
+      "fr": "supplémentaire"
+    }
   },
   {
     "id": "sv_353",
+    "lang": "sv",
     "lemma": "skadad",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8707,15 +8709,17 @@ const WORDS_SV_A1 = [
       "pt": "danificado",
       "ja": "損傷した",
       "zh": "损坏的",
-      "ru": "поврежденный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "поврежденный",
+      "fr": "endommagé"
+    }
   },
   {
     "id": "sv_354",
+    "lang": "sv",
     "lemma": "tanke",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tankar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8732,17 +8736,17 @@ const WORDS_SV_A1 = [
       "pt": "o pensamento",
       "ja": "考え",
       "zh": "思想",
-      "ru": "мысль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tankar"
+      "ru": "мысль",
+      "fr": "la pensée"
+    }
   },
   {
     "id": "sv_355",
+    "lang": "sv",
     "lemma": "partner",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "partner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8759,17 +8763,17 @@ const WORDS_SV_A1 = [
       "pt": "o parceiro",
       "ja": "パートナー",
       "zh": "伙伴",
-      "ru": "партнер"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "partner"
+      "ru": "партнер",
+      "fr": "le partenaire"
+    }
   },
   {
     "id": "sv_356",
+    "lang": "sv",
     "lemma": "gode",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "godar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8786,17 +8790,17 @@ const WORDS_SV_A1 = [
       "pt": "o sacerdote",
       "ja": "司祭",
       "zh": "牧师",
-      "ru": "священник"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "godar"
+      "ru": "священник",
+      "fr": "le prêtre"
+    }
   },
   {
     "id": "sv_357",
+    "lang": "sv",
     "lemma": "doktor",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "doktorer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8813,17 +8817,17 @@ const WORDS_SV_A1 = [
       "pt": "o doutor",
       "ja": "医者",
       "zh": "医生",
-      "ru": "доктор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "doktorer"
+      "ru": "доктор",
+      "fr": "le docteur"
+    }
   },
   {
     "id": "sv_358",
+    "lang": "sv",
     "lemma": "sällskap",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "sällskap",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8841,17 +8845,17 @@ const WORDS_SV_A1 = [
       "pt": "a companhia",
       "ja": "会社",
       "zh": "公司",
-      "ru": "компания"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "sällskap"
+      "ru": "компания",
+      "fr": "la compagnie"
+    }
   },
   {
     "id": "sv_359",
+    "lang": "sv",
     "lemma": "unge",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ungar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8868,17 +8872,17 @@ const WORDS_SV_A1 = [
       "pt": "o filhote",
       "ja": "幼獣",
       "zh": "幼崽",
-      "ru": "детеныш"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ungar"
+      "ru": "детеныш",
+      "fr": "le petit"
+    }
   },
   {
     "id": "sv_360",
+    "lang": "sv",
     "lemma": "tal",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tal",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8895,17 +8899,17 @@ const WORDS_SV_A1 = [
       "pt": "o número",
       "ja": "数",
       "zh": "数字",
-      "ru": "число"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tal"
+      "ru": "число",
+      "fr": "le nombre"
+    }
   },
   {
     "id": "sv_361",
+    "lang": "sv",
     "lemma": "olycka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "olyckor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8922,17 +8926,17 @@ const WORDS_SV_A1 = [
       "pt": "o acidente",
       "ja": "事故",
       "zh": "事故",
-      "ru": "несчастный случай"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "olyckor"
+      "ru": "несчастный случай",
+      "fr": "l'accident"
+    }
   },
   {
     "id": "sv_362",
+    "lang": "sv",
     "lemma": "stack",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stackar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8949,17 +8953,17 @@ const WORDS_SV_A1 = [
       "pt": "a pilha",
       "ja": "積み重ね",
       "zh": "堆",
-      "ru": "стопка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stackar"
+      "ru": "стопка",
+      "fr": "la pile"
+    }
   },
   {
     "id": "sv_364",
+    "lang": "sv",
     "lemma": "offer",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "offer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8975,17 +8979,17 @@ const WORDS_SV_A1 = [
       "pt": "o sacrifício",
       "ja": "犠牲",
       "zh": "牺牲",
-      "ru": "жертва"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "offer"
+      "ru": "жертва",
+      "fr": "le sacrifice"
+    }
   },
   {
     "id": "sv_365",
+    "lang": "sv",
     "lemma": "skepp",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skepp",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9002,15 +9006,13 @@ const WORDS_SV_A1 = [
       "pt": "o navio",
       "ja": "船",
       "zh": "船",
-      "ru": "корабль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skepp"
+      "ru": "корабль",
+      "fr": "le navire"
+    }
   },
   {
     "id": "sv_366",
+    "lang": "sv",
     "lemma": "halv",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9029,13 +9031,13 @@ const WORDS_SV_A1 = [
       "pt": "meio",
       "ja": "半分",
       "zh": "一半",
-      "ru": "половина"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "половина",
+      "fr": "demi"
+    }
   },
   {
     "id": "sv_367",
+    "lang": "sv",
     "lemma": "framåt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9054,15 +9056,17 @@ const WORDS_SV_A1 = [
       "pt": "para a frente",
       "ja": "前方へ",
       "zh": "向前",
-      "ru": "вперед"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "вперед",
+      "fr": "en avant"
+    }
   },
   {
     "id": "sv_368",
+    "lang": "sv",
     "lemma": "tillstånd",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tillstånd",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9079,15 +9083,13 @@ const WORDS_SV_A1 = [
       "pt": "a condição",
       "ja": "状態",
       "zh": "状况",
-      "ru": "состояние"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tillstånd"
+      "ru": "состояние",
+      "fr": "l'état"
+    }
   },
   {
     "id": "sv_369",
+    "lang": "sv",
     "lemma": "van",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9106,15 +9108,17 @@ const WORDS_SV_A1 = [
       "pt": "acostumado",
       "ja": "慣れた",
       "zh": "习惯的",
-      "ru": "привыкший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "привыкший",
+      "fr": "habitué"
+    }
   },
   {
     "id": "sv_370",
+    "lang": "sv",
     "lemma": "van",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vaner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9131,17 +9135,17 @@ const WORDS_SV_A1 = [
       "pt": "o Vanir",
       "ja": "ヴァン神族",
       "zh": "华纳神族",
-      "ru": "ваны"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vaner"
+      "ru": "ваны",
+      "fr": "le Vanir"
+    }
   },
   {
     "id": "sv_371",
+    "lang": "sv",
     "lemma": "öga",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ögon",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9158,17 +9162,17 @@ const WORDS_SV_A1 = [
       "pt": "o olho",
       "ja": "目",
       "zh": "眼睛",
-      "ru": "глаз"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ögon"
+      "ru": "глаз",
+      "fr": "l'œil"
+    }
   },
   {
     "id": "sv_372",
+    "lang": "sv",
     "lemma": "respekt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9185,17 +9189,17 @@ const WORDS_SV_A1 = [
       "pt": "o respeito",
       "ja": "尊敬",
       "zh": "尊重",
-      "ru": "уважение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "уважение",
+      "fr": "le respect"
+    }
   },
   {
     "id": "sv_373",
+    "lang": "sv",
     "lemma": "lista",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "listor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9212,17 +9216,17 @@ const WORDS_SV_A1 = [
       "pt": "a lista",
       "ja": "リスト",
       "zh": "列表",
-      "ru": "список"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "listor"
+      "ru": "список",
+      "fr": "la liste"
+    }
   },
   {
     "id": "sv_374",
+    "lang": "sv",
     "lemma": "ren",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "renar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9239,15 +9243,13 @@ const WORDS_SV_A1 = [
       "pt": "a rena",
       "ja": "トナカイ",
       "zh": "驯鹿",
-      "ru": "северный олень"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "renar"
+      "ru": "северный олень",
+      "fr": "le renne"
+    }
   },
   {
     "id": "sv_375",
+    "lang": "sv",
     "lemma": "ren",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9266,15 +9268,17 @@ const WORDS_SV_A1 = [
       "pt": "limpo",
       "ja": "清潔な",
       "zh": "干净的",
-      "ru": "чистый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "чистый",
+      "fr": "propre"
+    }
   },
   {
     "id": "sv_376",
+    "lang": "sv",
     "lemma": "hopp",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hopp",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9291,15 +9295,13 @@ const WORDS_SV_A1 = [
       "pt": "a esperança",
       "ja": "希望",
       "zh": "希望",
-      "ru": "надежда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hopp"
+      "ru": "надежда",
+      "fr": "l'espoir"
+    }
   },
   {
     "id": "sv_377",
+    "lang": "sv",
     "lemma": "nervös",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9318,15 +9320,17 @@ const WORDS_SV_A1 = [
       "pt": "nervoso",
       "ja": "神経質な",
       "zh": "紧张的",
-      "ru": "нервный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "нервный",
+      "fr": "nerveux"
+    }
   },
   {
     "id": "sv_378",
+    "lang": "sv",
     "lemma": "överste",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "överstar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9343,17 +9347,17 @@ const WORDS_SV_A1 = [
       "pt": "o coronel",
       "ja": "大佐",
       "zh": "上校",
-      "ru": "полковник"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "överstar"
+      "ru": "полковник",
+      "fr": "le colonel"
+    }
   },
   {
     "id": "sv_379",
+    "lang": "sv",
     "lemma": "team",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "team",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9370,17 +9374,17 @@ const WORDS_SV_A1 = [
       "pt": "a equipe",
       "ja": "チーム",
       "zh": "团队",
-      "ru": "команда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "team"
+      "ru": "команда",
+      "fr": "l'équipe"
+    }
   },
   {
     "id": "sv_380",
+    "lang": "sv",
     "lemma": "ställ",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ställ",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9397,17 +9401,17 @@ const WORDS_SV_A1 = [
       "pt": "o suporte",
       "ja": "スタンド",
       "zh": "支架",
-      "ru": "подставка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ställ"
+      "ru": "подставка",
+      "fr": "le support"
+    }
   },
   {
     "id": "sv_381",
+    "lang": "sv",
     "lemma": "jul",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "jular",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9424,17 +9428,23 @@ const WORDS_SV_A1 = [
       "pt": "o Natal",
       "ja": "クリスマス",
       "zh": "圣诞节",
-      "ru": "Рождество"
+      "ru": "Рождество",
+      "fr": "Noël"
     },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "jular"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "sv_382",
+    "lang": "sv",
     "lemma": "tecken",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tecken",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9451,15 +9461,13 @@ const WORDS_SV_A1 = [
       "pt": "o sinal",
       "ja": "記号",
       "zh": "符号",
-      "ru": "знак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tecken"
+      "ru": "знак",
+      "fr": "le signe"
+    }
   },
   {
     "id": "sv_383",
+    "lang": "sv",
     "lemma": "gravid",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9478,15 +9486,17 @@ const WORDS_SV_A1 = [
       "pt": "grávida",
       "ja": "妊娠した",
       "zh": "怀孕的",
-      "ru": "беременная"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "беременная",
+      "fr": "enceinte"
+    }
   },
   {
     "id": "sv_384",
+    "lang": "sv",
     "lemma": "makt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "makter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9503,17 +9513,17 @@ const WORDS_SV_A1 = [
       "pt": "o poder",
       "ja": "力",
       "zh": "权力",
-      "ru": "власть"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "makter"
+      "ru": "власть",
+      "fr": "le pouvoir"
+    }
   },
   {
     "id": "sv_385",
+    "lang": "sv",
     "lemma": "skäl",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skäl",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9530,17 +9540,17 @@ const WORDS_SV_A1 = [
       "pt": "a razão",
       "ja": "理由",
       "zh": "理由",
-      "ru": "причина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skäl"
+      "ru": "причина",
+      "fr": "la raison"
+    }
   },
   {
     "id": "sv_386",
+    "lang": "sv",
     "lemma": "hemlighet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hemligheter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9557,17 +9567,17 @@ const WORDS_SV_A1 = [
       "pt": "o segredo",
       "ja": "秘密",
       "zh": "秘密",
-      "ru": "секрет"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hemligheter"
+      "ru": "секрет",
+      "fr": "le secret"
+    }
   },
   {
     "id": "sv_387",
+    "lang": "sv",
     "lemma": "framtid",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "framtider",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9584,17 +9594,17 @@ const WORDS_SV_A1 = [
       "pt": "o futuro",
       "ja": "未来",
       "zh": "未来",
-      "ru": "будущее"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "framtider"
+      "ru": "будущее",
+      "fr": "l'avenir"
+    }
   },
   {
     "id": "sv_388",
+    "lang": "sv",
     "lemma": "lag",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lagar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9612,15 +9622,13 @@ const WORDS_SV_A1 = [
       "pt": "a lei",
       "ja": "法律",
       "zh": "法律",
-      "ru": "закон"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lagar"
+      "ru": "закон",
+      "fr": "la loi"
+    }
   },
   {
     "id": "sv_389",
+    "lang": "sv",
     "lemma": "värd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9639,15 +9647,17 @@ const WORDS_SV_A1 = [
       "pt": "digno",
       "ja": "価値がある",
       "zh": "值得的",
-      "ru": "стоящий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "стоящий",
+      "fr": "digne"
+    }
   },
   {
     "id": "sv_390",
+    "lang": "sv",
     "lemma": "värd",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "värdar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9664,17 +9674,17 @@ const WORDS_SV_A1 = [
       "pt": "o anfitrião",
       "ja": "ホスト",
       "zh": "主人",
-      "ru": "хозяин"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "värdar"
+      "ru": "хозяин",
+      "fr": "l'hôte"
+    }
   },
   {
     "id": "sv_392",
+    "lang": "sv",
     "lemma": "säng",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sängar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9691,17 +9701,17 @@ const WORDS_SV_A1 = [
       "pt": "a cama",
       "ja": "ベッド",
       "zh": "床",
-      "ru": "кровать"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sängar"
+      "ru": "кровать",
+      "fr": "le lit"
+    }
   },
   {
     "id": "sv_393",
+    "lang": "sv",
     "lemma": "kraft",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "krafter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9718,15 +9728,13 @@ const WORDS_SV_A1 = [
       "pt": "a força",
       "ja": "力",
       "zh": "力量",
-      "ru": "сила"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "krafter"
+      "ru": "сила",
+      "fr": "la force"
+    }
   },
   {
     "id": "sv_394",
+    "lang": "sv",
     "lemma": "stilla",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9745,13 +9753,13 @@ const WORDS_SV_A1 = [
       "pt": "quieto",
       "ja": "静かな",
       "zh": "静止的",
-      "ru": "неподвижный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "неподвижный",
+      "fr": "immobile"
+    }
   },
   {
     "id": "sv_395",
+    "lang": "sv",
     "lemma": "viktig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9770,15 +9778,17 @@ const WORDS_SV_A1 = [
       "pt": "importante",
       "ja": "重要な",
       "zh": "重要的",
-      "ru": "важный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "важный",
+      "fr": "important"
+    }
   },
   {
     "id": "sv_396",
+    "lang": "sv",
     "lemma": "te",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "teer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9795,17 +9805,17 @@ const WORDS_SV_A1 = [
       "pt": "o chá",
       "ja": "お茶",
       "zh": "茶",
-      "ru": "чай"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "teer"
+      "ru": "чай",
+      "fr": "le thé"
+    }
   },
   {
     "id": "sv_397",
+    "lang": "sv",
     "lemma": "hjälte",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hjältar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9822,17 +9832,17 @@ const WORDS_SV_A1 = [
       "pt": "o herói",
       "ja": "英雄",
       "zh": "英雄",
-      "ru": "герой"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hjältar"
+      "ru": "герой",
+      "fr": "le héros"
+    }
   },
   {
     "id": "sv_398",
+    "lang": "sv",
     "lemma": "besök",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "besök",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9849,15 +9859,13 @@ const WORDS_SV_A1 = [
       "pt": "a visita",
       "ja": "訪問",
       "zh": "访问",
-      "ru": "визит"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "besök"
+      "ru": "визит",
+      "fr": "la visite"
+    }
   },
   {
     "id": "sv_399",
+    "lang": "sv",
     "lemma": "vit",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9876,15 +9884,17 @@ const WORDS_SV_A1 = [
       "pt": "branco",
       "ja": "白い",
       "zh": "白色",
-      "ru": "белый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "белый",
+      "fr": "blanc"
+    }
   },
   {
     "id": "sv_400",
+    "lang": "sv",
     "lemma": "överraskning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "överraskningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9901,17 +9911,17 @@ const WORDS_SV_A1 = [
       "pt": "a surpresa",
       "ja": "驚き",
       "zh": "惊喜",
-      "ru": "сюрприз"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "överraskningar"
+      "ru": "сюрприз",
+      "fr": "la surprise"
+    }
   },
   {
     "id": "sv_401",
+    "lang": "sv",
     "lemma": "bit",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bitar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9928,15 +9938,13 @@ const WORDS_SV_A1 = [
       "pt": "o pedaço",
       "ja": "破片",
       "zh": "块",
-      "ru": "кусок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bitar"
+      "ru": "кусок",
+      "fr": "le morceau"
+    }
   },
   {
     "id": "sv_402",
+    "lang": "sv",
     "lemma": "upprörd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9955,15 +9963,17 @@ const WORDS_SV_A1 = [
       "pt": "chateado",
       "ja": "動揺した",
       "zh": "心烦的",
-      "ru": "расстроенный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "расстроенный",
+      "fr": "bouleversé"
+    }
   },
   {
     "id": "sv_403",
+    "lang": "sv",
     "lemma": "grupp",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "grupper",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9980,15 +9990,13 @@ const WORDS_SV_A1 = [
       "pt": "o grupo",
       "ja": "グループ",
       "zh": "团体",
-      "ru": "группа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "grupper"
+      "ru": "группа",
+      "fr": "le groupe"
+    }
   },
   {
     "id": "sv_404",
+    "lang": "sv",
     "lemma": "lik",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10008,15 +10016,17 @@ const WORDS_SV_A1 = [
       "pt": "semelhante",
       "ja": "似ている",
       "zh": "像",
-      "ru": "похожий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "похожий",
+      "fr": "semblable"
+    }
   },
   {
     "id": "sv_405",
+    "lang": "sv",
     "lemma": "lik",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "lik",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10033,17 +10043,17 @@ const WORDS_SV_A1 = [
       "pt": "o cadáver",
       "ja": "死体",
       "zh": "尸体",
-      "ru": "труп"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "lik"
+      "ru": "труп",
+      "fr": "le cadavre"
+    }
   },
   {
     "id": "sv_406",
+    "lang": "sv",
     "lemma": "engelska",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "engelskor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10060,17 +10070,17 @@ const WORDS_SV_A1 = [
       "pt": "o inglês",
       "ja": "英語",
       "zh": "英语",
-      "ru": "английский"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "engelskor"
+      "ru": "английский",
+      "fr": "l'anglais"
+    }
   },
   {
     "id": "sv_407",
+    "lang": "sv",
     "lemma": "ansvar",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ansvar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10088,17 +10098,17 @@ const WORDS_SV_A1 = [
       "pt": "a responsabilidade",
       "ja": "責任",
       "zh": "责任",
-      "ru": "ответственность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ansvar"
+      "ru": "ответственность",
+      "fr": "la responsabilité"
+    }
   },
   {
     "id": "sv_408",
+    "lang": "sv",
     "lemma": "band",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "band",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10115,17 +10125,17 @@ const WORDS_SV_A1 = [
       "pt": "a banda",
       "ja": "バンド",
       "zh": "乐队",
-      "ru": "группа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "band"
+      "ru": "группа",
+      "fr": "le groupe"
+    }
   },
   {
     "id": "sv_409",
+    "lang": "sv",
     "lemma": "vin",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "viner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10142,17 +10152,17 @@ const WORDS_SV_A1 = [
       "pt": "o vinho",
       "ja": "ワイン",
       "zh": "葡萄酒",
-      "ru": "вино"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "viner"
+      "ru": "вино",
+      "fr": "le vin"
+    }
   },
   {
     "id": "sv_410",
+    "lang": "sv",
     "lemma": "ar",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10169,17 +10179,17 @@ const WORDS_SV_A1 = [
       "pt": "a área",
       "ja": "アール",
       "zh": "公亩",
-      "ru": "ар"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ar"
+      "ru": "ар",
+      "fr": "l'are"
+    }
   },
   {
     "id": "sv_411",
+    "lang": "sv",
     "lemma": "företag",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "företag",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10197,15 +10207,13 @@ const WORDS_SV_A1 = [
       "pt": "a empresa",
       "ja": "会社",
       "zh": "公司",
-      "ru": "компания"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "företag"
+      "ru": "компания",
+      "fr": "l'entreprise"
+    }
   },
   {
     "id": "sv_412",
+    "lang": "sv",
     "lemma": "beredd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10224,13 +10232,13 @@ const WORDS_SV_A1 = [
       "pt": "preparado",
       "ja": "準備ができた",
       "zh": "准备好的",
-      "ru": "подготовленный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "подготовленный",
+      "fr": "préparé"
+    }
   },
   {
     "id": "sv_413",
+    "lang": "sv",
     "lemma": "blå",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10249,15 +10257,17 @@ const WORDS_SV_A1 = [
       "pt": "azul",
       "ja": "青い",
       "zh": "蓝色",
-      "ru": "синий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "синий",
+      "fr": "bleu"
+    }
   },
   {
     "id": "sv_414",
+    "lang": "sv",
     "lemma": "baby",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "babys",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10274,15 +10284,13 @@ const WORDS_SV_A1 = [
       "pt": "o bebê",
       "ja": "赤ちゃん",
       "zh": "婴儿",
-      "ru": "ребенок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "babys"
+      "ru": "ребенок",
+      "fr": "le bébé"
+    }
   },
   {
     "id": "sv_415",
+    "lang": "sv",
     "lemma": "ärlig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10301,13 +10309,13 @@ const WORDS_SV_A1 = [
       "pt": "honesto",
       "ja": "正直な",
       "zh": "诚实的",
-      "ru": "честный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "честный",
+      "fr": "honnête"
+    }
   },
   {
     "id": "sv_416",
+    "lang": "sv",
     "lemma": "laga",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10326,15 +10334,17 @@ const WORDS_SV_A1 = [
       "pt": "legal",
       "ja": "合法的な",
       "zh": "合法的",
-      "ru": "законный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "законный",
+      "fr": "légal"
+    }
   },
   {
     "id": "sv_417",
+    "lang": "sv",
     "lemma": "ålder",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "åldrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10351,17 +10361,17 @@ const WORDS_SV_A1 = [
       "pt": "a idade",
       "ja": "年齢",
       "zh": "年龄",
-      "ru": "возраст"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "åldrar"
+      "ru": "возраст",
+      "fr": "l'âge"
+    }
   },
   {
     "id": "sv_418",
+    "lang": "sv",
     "lemma": "frukost",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "frukostar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10378,17 +10388,17 @@ const WORDS_SV_A1 = [
       "pt": "o café da manhã",
       "ja": "朝食",
       "zh": "早餐",
-      "ru": "завтрак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "frukostar"
+      "ru": "завтрак",
+      "fr": "le petit-déjeuner"
+    }
   },
   {
     "id": "sv_419",
+    "lang": "sv",
     "lemma": "monster",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "monster",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10404,17 +10414,17 @@ const WORDS_SV_A1 = [
       "pt": "o monstro",
       "ja": "怪物",
       "zh": "怪物",
-      "ru": "монстр"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "monster"
+      "ru": "монстр",
+      "fr": "le monstre"
+    }
   },
   {
     "id": "sv_420",
+    "lang": "sv",
     "lemma": "leda",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10430,17 +10440,17 @@ const WORDS_SV_A1 = [
       "pt": "o tédio",
       "ja": "退屈",
       "zh": "无聊",
-      "ru": "скука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "скука",
+      "fr": "l'ennui"
+    }
   },
   {
     "id": "sv_421",
+    "lang": "sv",
     "lemma": "poäng",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "poäng",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10456,17 +10466,17 @@ const WORDS_SV_A1 = [
       "pt": "o ponto",
       "ja": "点",
       "zh": "分数",
-      "ru": "очко"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "poäng"
+      "ru": "очко",
+      "fr": "le point"
+    }
   },
   {
     "id": "sv_422",
+    "lang": "sv",
     "lemma": "gömma",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "gömmor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10482,17 +10492,17 @@ const WORDS_SV_A1 = [
       "pt": "o esconderijo",
       "ja": "隠れ場所",
       "zh": "藏身处",
-      "ru": "тайник"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "gömmor"
+      "ru": "тайник",
+      "fr": "la cachette"
+    }
   },
   {
     "id": "sv_423",
+    "lang": "sv",
     "lemma": "hjärna",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hjärnor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10509,17 +10519,17 @@ const WORDS_SV_A1 = [
       "pt": "o cérebro",
       "ja": "脳",
       "zh": "大脑",
-      "ru": "мозг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hjärnor"
+      "ru": "мозг",
+      "fr": "le cerveau"
+    }
   },
   {
     "id": "sv_424",
+    "lang": "sv",
     "lemma": "ära",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "äror",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10535,17 +10545,17 @@ const WORDS_SV_A1 = [
       "pt": "a honra",
       "ja": "名誉",
       "zh": "荣誉",
-      "ru": "честь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "äror"
+      "ru": "честь",
+      "fr": "l'honneur"
+    }
   },
   {
     "id": "sv_425",
+    "lang": "sv",
     "lemma": "ledare",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ledare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10563,17 +10573,17 @@ const WORDS_SV_A1 = [
       "pt": "o líder",
       "ja": "指導者",
       "zh": "领导",
-      "ru": "лидер"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ledare"
+      "ru": "лидер",
+      "fr": "le chef"
+    }
   },
   {
     "id": "sv_426",
+    "lang": "sv",
     "lemma": "smärta",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "smärtor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10590,15 +10600,13 @@ const WORDS_SV_A1 = [
       "pt": "a dor",
       "ja": "痛み",
       "zh": "疼痛",
-      "ru": "боль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "smärtor"
+      "ru": "боль",
+      "fr": "la douleur"
+    }
   },
   {
     "id": "sv_427",
+    "lang": "sv",
     "lemma": "nöjd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10617,15 +10625,17 @@ const WORDS_SV_A1 = [
       "pt": "satisfeito",
       "ja": "満足した",
       "zh": "满意",
-      "ru": "довольный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "довольный",
+      "fr": "satisfait"
+    }
   },
   {
     "id": "sv_428",
+    "lang": "sv",
     "lemma": "nåd",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "nåder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10641,17 +10651,17 @@ const WORDS_SV_A1 = [
       "pt": "a misericórdia",
       "ja": "慈悲",
       "zh": "怜悯",
-      "ru": "милость"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "nåder"
+      "ru": "милость",
+      "fr": "la miséricorde"
+    }
   },
   {
     "id": "sv_429",
+    "lang": "sv",
     "lemma": "springa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "springor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10667,15 +10677,13 @@ const WORDS_SV_A1 = [
       "pt": "a fenda",
       "ja": "隙間",
       "zh": "裂缝",
-      "ru": "щель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "springor"
+      "ru": "щель",
+      "fr": "la fente"
+    }
   },
   {
     "id": "sv_430",
+    "lang": "sv",
     "lemma": "spännande",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10694,13 +10702,13 @@ const WORDS_SV_A1 = [
       "pt": "emocionante",
       "ja": "わくわくする",
       "zh": "激动人心",
-      "ru": "захватывающий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "захватывающий",
+      "fr": "passionnant"
+    }
   },
   {
     "id": "sv_431",
+    "lang": "sv",
     "lemma": "gratis",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10719,15 +10727,17 @@ const WORDS_SV_A1 = [
       "pt": "grátis",
       "ja": "無料",
       "zh": "免费",
-      "ru": "бесплатный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "бесплатный",
+      "fr": "gratuit"
+    }
   },
   {
     "id": "sv_432",
+    "lang": "sv",
     "lemma": "båt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "båtar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10745,17 +10755,17 @@ const WORDS_SV_A1 = [
       "pt": "o barco",
       "ja": "ボート",
       "zh": "船",
-      "ru": "лодка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "båtar"
+      "ru": "лодка",
+      "fr": "le bateau"
+    }
   },
   {
     "id": "sv_433",
+    "lang": "sv",
     "lemma": "papper",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "papper",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10772,17 +10782,17 @@ const WORDS_SV_A1 = [
       "pt": "o papel",
       "ja": "紙",
       "zh": "纸",
-      "ru": "бумага"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "papper"
+      "ru": "бумага",
+      "fr": "le papier"
+    }
   },
   {
     "id": "sv_434",
+    "lang": "sv",
     "lemma": "ordning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "ordningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10799,17 +10809,17 @@ const WORDS_SV_A1 = [
       "pt": "a ordem",
       "ja": "順序",
       "zh": "顺序",
-      "ru": "порядок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "ordningar"
+      "ru": "порядок",
+      "fr": "l'ordre"
+    }
   },
   {
     "id": "sv_435",
+    "lang": "sv",
     "lemma": "skillnad",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skillnader",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10826,17 +10836,17 @@ const WORDS_SV_A1 = [
       "pt": "a diferença",
       "ja": "違い",
       "zh": "区别",
-      "ru": "разница"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skillnader"
+      "ru": "разница",
+      "fr": "la différence"
+    }
   },
   {
     "id": "sv_436",
+    "lang": "sv",
     "lemma": "sjukhus",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "sjukhus",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10853,17 +10863,17 @@ const WORDS_SV_A1 = [
       "pt": "o hospital",
       "ja": "病院",
       "zh": "医院",
-      "ru": "больница"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "sjukhus"
+      "ru": "больница",
+      "fr": "l'hôpital"
+    }
   },
   {
     "id": "sv_437",
+    "lang": "sv",
     "lemma": "titt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tittar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10879,15 +10889,13 @@ const WORDS_SV_A1 = [
       "pt": "o olhar",
       "ja": "一見",
       "zh": "看",
-      "ru": "взгляд"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tittar"
+      "ru": "взгляд",
+      "fr": "le regard"
+    }
   },
   {
     "id": "sv_438",
+    "lang": "sv",
     "lemma": "använd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10906,15 +10914,17 @@ const WORDS_SV_A1 = [
       "pt": "usado",
       "ja": "使用済み",
       "zh": "用过的",
-      "ru": "использованный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "использованный",
+      "fr": "utilisé"
+    }
   },
   {
     "id": "sv_439",
+    "lang": "sv",
     "lemma": "farfar",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "farfäder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10931,17 +10941,17 @@ const WORDS_SV_A1 = [
       "pt": "o avô paterno",
       "ja": "父方の祖父",
       "zh": "爷爷",
-      "ru": "дедушка по отцу"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "farfäder"
+      "ru": "дедушка по отцу",
+      "fr": "le grand-père paternel"
+    }
   },
   {
     "id": "sv_440",
+    "lang": "sv",
     "lemma": "mormor",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mormödrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10958,15 +10968,13 @@ const WORDS_SV_A1 = [
       "pt": "a avó materna",
       "ja": "母方の祖母",
       "zh": "外婆",
-      "ru": "бабушка по матери"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mormödrar"
+      "ru": "бабушка по матери",
+      "fr": "la grand-mère maternelle"
+    }
   },
   {
     "id": "sv_441",
+    "lang": "sv",
     "lemma": "hemsk",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10985,15 +10993,17 @@ const WORDS_SV_A1 = [
       "pt": "terrível",
       "ja": "恐ろしい",
       "zh": "可怕的",
-      "ru": "ужасный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "ужасный",
+      "fr": "terrible"
+    }
   },
   {
     "id": "sv_442",
+    "lang": "sv",
     "lemma": "sekund",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sekunder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11010,15 +11020,13 @@ const WORDS_SV_A1 = [
       "pt": "o segundo",
       "ja": "秒",
       "zh": "秒",
-      "ru": "секунда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sekunder"
+      "ru": "секунда",
+      "fr": "la seconde"
+    }
   },
   {
     "id": "sv_443",
+    "lang": "sv",
     "lemma": "öppen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11037,13 +11045,13 @@ const WORDS_SV_A1 = [
       "pt": "aberto",
       "ja": "開いた",
       "zh": "开放的",
-      "ru": "открытый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "открытый",
+      "fr": "ouvert"
+    }
   },
   {
     "id": "sv_444",
+    "lang": "sv",
     "lemma": "öde",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11062,15 +11070,17 @@ const WORDS_SV_A1 = [
       "pt": "deserto",
       "ja": "荒廃した",
       "zh": "荒凉的",
-      "ru": "заброшенный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "заброшенный",
+      "fr": "désert"
+    }
   },
   {
     "id": "sv_445",
+    "lang": "sv",
     "lemma": "öde",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "öden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11087,17 +11097,17 @@ const WORDS_SV_A1 = [
       "pt": "o destino",
       "ja": "運命",
       "zh": "命运",
-      "ru": "судьба"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "öden"
+      "ru": "судьба",
+      "fr": "le destin"
+    }
   },
   {
     "id": "sv_446",
+    "lang": "sv",
     "lemma": "pris",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "priser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11114,17 +11124,17 @@ const WORDS_SV_A1 = [
       "pt": "o preço",
       "ja": "価格",
       "zh": "价格",
-      "ru": "цена"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "priser"
+      "ru": "цена",
+      "fr": "le prix"
+    }
   },
   {
     "id": "sv_447",
+    "lang": "sv",
     "lemma": "översättning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "översättningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11142,17 +11152,17 @@ const WORDS_SV_A1 = [
       "pt": "a tradução",
       "ja": "翻訳",
       "zh": "翻译",
-      "ru": "перевод"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "översättningar"
+      "ru": "перевод",
+      "fr": "la traduction"
+    }
   },
   {
     "id": "sv_448",
+    "lang": "sv",
     "lemma": "kusin",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kusiner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11169,15 +11179,13 @@ const WORDS_SV_A1 = [
       "pt": "o primo",
       "ja": "いとこ",
       "zh": "表亲",
-      "ru": "кузен"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kusiner"
+      "ru": "кузен",
+      "fr": "le cousin"
+    }
   },
   {
     "id": "sv_449",
+    "lang": "sv",
     "lemma": "speciell",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11196,15 +11204,17 @@ const WORDS_SV_A1 = [
       "pt": "especial",
       "ja": "特別な",
       "zh": "特别的",
-      "ru": "особенный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "особенный",
+      "fr": "spécial"
+    }
   },
   {
     "id": "sv_450",
+    "lang": "sv",
     "lemma": "amerikanska",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "amerikanskor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11221,15 +11231,13 @@ const WORDS_SV_A1 = [
       "pt": "a americana",
       "ja": "アメリカ人女性",
       "zh": "美国女性",
-      "ru": "американка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "amerikanskor"
+      "ru": "американка",
+      "fr": "l'Américaine"
+    }
   },
   {
     "id": "sv_451",
+    "lang": "sv",
     "lemma": "oskyldig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11248,13 +11256,13 @@ const WORDS_SV_A1 = [
       "pt": "inocente",
       "ja": "無実の",
       "zh": "无辜的",
-      "ru": "невинный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "невинный",
+      "fr": "innocent"
+    }
   },
   {
     "id": "sv_452",
+    "lang": "sv",
     "lemma": "hundra",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11273,15 +11281,17 @@ const WORDS_SV_A1 = [
       "pt": "certo",
       "ja": "確かな",
       "zh": "确定的",
-      "ru": "уверенный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "уверенный",
+      "fr": "certain"
+    }
   },
   {
     "id": "sv_453",
+    "lang": "sv",
     "lemma": "känsla",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "känslor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11298,17 +11308,17 @@ const WORDS_SV_A1 = [
       "pt": "o sentimento",
       "ja": "感情",
       "zh": "感觉",
-      "ru": "чувство"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "känslor"
+      "ru": "чувство",
+      "fr": "le sentiment"
+    }
   },
   {
     "id": "sv_454",
+    "lang": "sv",
     "lemma": "hot",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hot",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11325,17 +11335,17 @@ const WORDS_SV_A1 = [
       "pt": "a ameaça",
       "ja": "脅威",
       "zh": "威胁",
-      "ru": "угроза"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hot"
+      "ru": "угроза",
+      "fr": "la menace"
+    }
   },
   {
     "id": "sv_456",
+    "lang": "sv",
     "lemma": "farväl",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "farväl",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11352,17 +11362,17 @@ const WORDS_SV_A1 = [
       "pt": "o adeus",
       "ja": "別れ",
       "zh": "告别",
-      "ru": "прощание"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "farväl"
+      "ru": "прощание",
+      "fr": "l'adieu"
+    }
   },
   {
     "id": "sv_457",
+    "lang": "sv",
     "lemma": "hål",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hål",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11379,15 +11389,13 @@ const WORDS_SV_A1 = [
       "pt": "o buraco",
       "ja": "穴",
       "zh": "洞",
-      "ru": "дыра"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hål"
+      "ru": "дыра",
+      "fr": "le trou"
+    }
   },
   {
     "id": "sv_458",
+    "lang": "sv",
     "lemma": "skjuten",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11406,15 +11414,17 @@ const WORDS_SV_A1 = [
       "pt": "baleado",
       "ja": "撃たれた",
       "zh": "中弹的",
-      "ru": "застреленный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "застреленный",
+      "fr": "abattu"
+    }
   },
   {
     "id": "sv_459",
+    "lang": "sv",
     "lemma": "gäng",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "gäng",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11431,15 +11441,13 @@ const WORDS_SV_A1 = [
       "pt": "a gangue",
       "ja": "ギャング",
       "zh": "帮派",
-      "ru": "банда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "gäng"
+      "ru": "банда",
+      "fr": "le gang"
+    }
   },
   {
     "id": "sv_460",
+    "lang": "sv",
     "lemma": "gäng",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11458,15 +11466,17 @@ const WORDS_SV_A1 = [
       "pt": "viável",
       "ja": "実行可能な",
       "zh": "可行的",
-      "ru": "жизнеспособный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "жизнеспособный",
+      "fr": "viable"
+    }
   },
   {
     "id": "sv_461",
+    "lang": "sv",
     "lemma": "exempel",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "exempel",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11483,17 +11493,17 @@ const WORDS_SV_A1 = [
       "pt": "o exemplo",
       "ja": "例",
       "zh": "例子",
-      "ru": "пример"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "exempel"
+      "ru": "пример",
+      "fr": "l'exemple"
+    }
   },
   {
     "id": "sv_462",
+    "lang": "sv",
     "lemma": "styrka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "styrkor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11510,17 +11520,17 @@ const WORDS_SV_A1 = [
       "pt": "a força",
       "ja": "力",
       "zh": "力量",
-      "ru": "сила"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "styrkor"
+      "ru": "сила",
+      "fr": "la force"
+    }
   },
   {
     "id": "sv_463",
+    "lang": "sv",
     "lemma": "lärare",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lärare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11538,17 +11548,17 @@ const WORDS_SV_A1 = [
       "pt": "o professor",
       "ja": "先生",
       "zh": "老师",
-      "ru": "учитель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lärare"
+      "ru": "учитель",
+      "fr": "le professeur"
+    }
   },
   {
     "id": "sv_465",
+    "lang": "sv",
     "lemma": "dam",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "damer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11565,17 +11575,17 @@ const WORDS_SV_A1 = [
       "pt": "a senhora",
       "ja": "淑女",
       "zh": "女士",
-      "ru": "дама"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "damer"
+      "ru": "дама",
+      "fr": "la dame"
+    }
   },
   {
     "id": "sv_466",
+    "lang": "sv",
     "lemma": "slag",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "slag",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11592,17 +11602,17 @@ const WORDS_SV_A1 = [
       "pt": "o golpe",
       "ja": "打撃",
       "zh": "打击",
-      "ru": "удар"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "slag"
+      "ru": "удар",
+      "fr": "le coup"
+    }
   },
   {
     "id": "sv_467",
+    "lang": "sv",
     "lemma": "häst",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hästar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11619,15 +11629,13 @@ const WORDS_SV_A1 = [
       "pt": "o cavalo",
       "ja": "馬",
       "zh": "马",
-      "ru": "лошадь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hästar"
+      "ru": "лошадь",
+      "fr": "le cheval"
+    }
   },
   {
     "id": "sv_468",
+    "lang": "sv",
     "lemma": "rolig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11646,13 +11654,13 @@ const WORDS_SV_A1 = [
       "pt": "divertido",
       "ja": "面白い",
       "zh": "有趣的",
-      "ru": "смешной"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "смешной",
+      "fr": "drôle"
+    }
   },
   {
     "id": "sv_469",
+    "lang": "sv",
     "lemma": "inblandad",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11671,15 +11679,17 @@ const WORDS_SV_A1 = [
       "pt": "envolvido",
       "ja": "関与した",
       "zh": "牵涉的",
-      "ru": "замешанный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "замешанный",
+      "fr": "impliqué"
+    }
   },
   {
     "id": "sv_470",
+    "lang": "sv",
     "lemma": "orsak",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "orsaker",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11696,17 +11706,17 @@ const WORDS_SV_A1 = [
       "pt": "a causa",
       "ja": "原因",
       "zh": "原因",
-      "ru": "причина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "orsaker"
+      "ru": "причина",
+      "fr": "la cause"
+    }
   },
   {
     "id": "sv_471",
+    "lang": "sv",
     "lemma": "vända",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "vändor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11723,17 +11733,17 @@ const WORDS_SV_A1 = [
       "pt": "a vez",
       "ja": "番",
       "zh": "轮流",
-      "ru": "очередь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "vändor"
+      "ru": "очередь",
+      "fr": "le tour"
+    }
   },
   {
     "id": "sv_472",
+    "lang": "sv",
     "lemma": "broder",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bröder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11750,17 +11760,17 @@ const WORDS_SV_A1 = [
       "pt": "o irmão",
       "ja": "兄弟",
       "zh": "兄弟",
-      "ru": "брат"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bröder"
+      "ru": "брат",
+      "fr": "le frère"
+    }
   },
   {
     "id": "sv_473",
+    "lang": "sv",
     "lemma": "självmord",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "självmord",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11777,15 +11787,13 @@ const WORDS_SV_A1 = [
       "pt": "o suicídio",
       "ja": "自殺",
       "zh": "自杀",
-      "ru": "самоубийство"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "självmord"
+      "ru": "самоубийство",
+      "fr": "le suicide"
+    }
   },
   {
     "id": "sv_474",
+    "lang": "sv",
     "lemma": "rik",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11804,15 +11812,17 @@ const WORDS_SV_A1 = [
       "pt": "rico",
       "ja": "裕福な",
       "zh": "富有的",
-      "ru": "богатый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "богатый",
+      "fr": "riche"
+    }
   },
   {
     "id": "sv_475",
+    "lang": "sv",
     "lemma": "form",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "former",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11829,17 +11839,17 @@ const WORDS_SV_A1 = [
       "pt": "a forma",
       "ja": "形",
       "zh": "形式",
-      "ru": "форма"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "former"
+      "ru": "форма",
+      "fr": "la forme"
+    }
   },
   {
     "id": "sv_476",
+    "lang": "sv",
     "lemma": "guld",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "guld",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11856,17 +11866,17 @@ const WORDS_SV_A1 = [
       "pt": "o ouro",
       "ja": "金",
       "zh": "金",
-      "ru": "золото"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "guld"
+      "ru": "золото",
+      "fr": "l'or"
+    }
   },
   {
     "id": "sv_477",
+    "lang": "sv",
     "lemma": "minne",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "minnen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11883,17 +11893,17 @@ const WORDS_SV_A1 = [
       "pt": "a memória",
       "ja": "記憶",
       "zh": "记忆",
-      "ru": "память"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "minnen"
+      "ru": "память",
+      "fr": "la mémoire"
+    }
   },
   {
     "id": "sv_478",
+    "lang": "sv",
     "lemma": "förhållande",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "förhållanden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11910,17 +11920,17 @@ const WORDS_SV_A1 = [
       "pt": "a condição",
       "ja": "状態",
       "zh": "条件",
-      "ru": "условие"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "förhållanden"
+      "ru": "условие",
+      "fr": "la condition"
+    }
   },
   {
     "id": "sv_479",
+    "lang": "sv",
     "lemma": "bett",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11937,17 +11947,17 @@ const WORDS_SV_A1 = [
       "pt": "a mordida",
       "ja": "噛み傷",
       "zh": "咬伤",
-      "ru": "укус"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bett"
+      "ru": "укус",
+      "fr": "la morsure"
+    }
   },
   {
     "id": "sv_480",
+    "lang": "sv",
     "lemma": "jaga",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "jagor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11964,17 +11974,17 @@ const WORDS_SV_A1 = [
       "pt": "o pega pega",
       "ja": "鬼ごっこ",
       "zh": "捉人游戏",
-      "ru": "салки"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "jagor"
+      "ru": "салки",
+      "fr": "le jeu du loup"
+    }
   },
   {
     "id": "sv_481",
+    "lang": "sv",
     "lemma": "driver",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "drivers",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11991,17 +12001,17 @@ const WORDS_SV_A1 = [
       "pt": "o driver",
       "ja": "ドライバー",
       "zh": "开球木",
-      "ru": "драйвер"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "drivers"
+      "ru": "драйвер",
+      "fr": "le driver"
+    }
   },
   {
     "id": "sv_482",
+    "lang": "sv",
     "lemma": "dejt",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "dejter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12018,15 +12028,13 @@ const WORDS_SV_A1 = [
       "pt": "o encontro",
       "ja": "デート",
       "zh": "约会",
-      "ru": "свидание"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "dejter"
+      "ru": "свидание",
+      "fr": "le rendez-vous"
+    }
   },
   {
     "id": "sv_483",
+    "lang": "sv",
     "lemma": "frisk",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12045,15 +12053,17 @@ const WORDS_SV_A1 = [
       "pt": "saudável",
       "ja": "健康な",
       "zh": "健康的",
-      "ru": "здоровый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "здоровый",
+      "fr": "sain"
+    }
   },
   {
     "id": "sv_484",
+    "lang": "sv",
     "lemma": "bröllop",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bröllop",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12070,17 +12080,17 @@ const WORDS_SV_A1 = [
       "pt": "o casamento",
       "ja": "結婚式",
       "zh": "婚礼",
-      "ru": "свадьба"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bröllop"
+      "ru": "свадьба",
+      "fr": "le mariage"
+    }
   },
   {
     "id": "sv_485",
+    "lang": "sv",
     "lemma": "procent",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "procent",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12097,17 +12107,16 @@ const WORDS_SV_A1 = [
       "pt": "a porcentagem",
       "ja": "パーセント",
       "zh": "百分比",
-      "ru": "процент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "procent"
+      "ru": "процент",
+      "fr": "le pourcentage"
+    }
   },
   {
     "id": "sv_486",
+    "lang": "sv",
     "lemma": "city",
     "pos": "Nomen",
+    "article": "ett",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12125,15 +12134,13 @@ const WORDS_SV_A1 = [
       "pt": "o centro da cidade",
       "ja": "都心",
       "zh": "市中心",
-      "ru": "центр города"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": ""
+      "ru": "центр города",
+      "fr": "le centre-ville"
+    }
   },
   {
     "id": "sv_487",
+    "lang": "sv",
     "lemma": "farlig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12152,13 +12159,13 @@ const WORDS_SV_A1 = [
       "pt": "perigoso",
       "ja": "危険な",
       "zh": "危险的",
-      "ru": "опасный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "опасный",
+      "fr": "dangereux"
+    }
   },
   {
     "id": "sv_488",
+    "lang": "sv",
     "lemma": "färdig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12177,15 +12184,17 @@ const WORDS_SV_A1 = [
       "pt": "pronto",
       "ja": "終わった",
       "zh": "完成的",
-      "ru": "готовый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "готовый",
+      "fr": "fini"
+    }
   },
   {
     "id": "sv_489",
+    "lang": "sv",
     "lemma": "kött",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12202,15 +12211,13 @@ const WORDS_SV_A1 = [
       "pt": "a carne",
       "ja": "肉",
       "zh": "肉",
-      "ru": "мясо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "мясо",
+      "fr": "la viande"
+    }
   },
   {
     "id": "sv_490",
+    "lang": "sv",
     "lemma": "vanlig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12230,15 +12237,17 @@ const WORDS_SV_A1 = [
       "pt": "comum",
       "ja": "一般的な",
       "zh": "普通的",
-      "ru": "обычный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "обычный",
+      "fr": "commun"
+    }
   },
   {
     "id": "sv_491",
+    "lang": "sv",
     "lemma": "lov",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "lov",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12255,17 +12264,17 @@ const WORDS_SV_A1 = [
       "pt": "a permissão",
       "ja": "許可",
       "zh": "许可",
-      "ru": "разрешение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "lov"
+      "ru": "разрешение",
+      "fr": "la permission"
+    }
   },
   {
     "id": "sv_492",
+    "lang": "sv",
     "lemma": "karl",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "karlar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12282,15 +12291,13 @@ const WORDS_SV_A1 = [
       "pt": "o homem",
       "ja": "男",
       "zh": "男人",
-      "ru": "мужчина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "karlar"
+      "ru": "мужчина",
+      "fr": "l'homme"
+    }
   },
   {
     "id": "sv_493",
+    "lang": "sv",
     "lemma": "varm",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12309,15 +12316,17 @@ const WORDS_SV_A1 = [
       "pt": "quente",
       "ja": "暖かい",
       "zh": "温暖的",
-      "ru": "теплый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "теплый",
+      "fr": "chaud"
+    }
   },
   {
     "id": "sv_494",
+    "lang": "sv",
     "lemma": "bak",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "bakar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12334,17 +12343,17 @@ const WORDS_SV_A1 = [
       "pt": "a parte de trás",
       "ja": "後ろ",
       "zh": "后面",
-      "ru": "зад"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "bakar"
+      "ru": "зад",
+      "fr": "l'arrière"
+    }
   },
   {
     "id": "sv_495",
+    "lang": "sv",
     "lemma": "gåva",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "gåvor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12361,17 +12370,17 @@ const WORDS_SV_A1 = [
       "pt": "o presente",
       "ja": "贈り物",
       "zh": "礼物",
-      "ru": "подарок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "gåvor"
+      "ru": "подарок",
+      "fr": "le cadeau"
+    }
   },
   {
     "id": "sv_496",
+    "lang": "sv",
     "lemma": "sanning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sanningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12388,17 +12397,17 @@ const WORDS_SV_A1 = [
       "pt": "a verdade",
       "ja": "真実",
       "zh": "真理",
-      "ru": "правда"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sanningar"
+      "ru": "правда",
+      "fr": "la vérité"
+    }
   },
   {
     "id": "sv_497",
+    "lang": "sv",
     "lemma": "major",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "majorer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12415,17 +12424,17 @@ const WORDS_SV_A1 = [
       "pt": "o major",
       "ja": "少佐",
       "zh": "少校",
-      "ru": "майор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "majorer"
+      "ru": "майор",
+      "fr": "le major"
+    }
   },
   {
     "id": "sv_498",
+    "lang": "sv",
     "lemma": "gifte",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "giften",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12442,15 +12451,13 @@ const WORDS_SV_A1 = [
       "pt": "o casamento",
       "ja": "結婚",
       "zh": "婚姻",
-      "ru": "брак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "giften"
+      "ru": "брак",
+      "fr": "le mariage"
+    }
   },
   {
     "id": "sv_499",
+    "lang": "sv",
     "lemma": "mobil",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12469,15 +12476,17 @@ const WORDS_SV_A1 = [
       "pt": "móvel",
       "ja": "移動可能な",
       "zh": "移动的",
-      "ru": "мобильный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "мобильный",
+      "fr": "mobile"
+    }
   },
   {
     "id": "sv_500",
+    "lang": "sv",
     "lemma": "mobil",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mobiler",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12494,15 +12503,13 @@ const WORDS_SV_A1 = [
       "pt": "o celular",
       "ja": "携帯電話",
       "zh": "手机",
-      "ru": "мобильный телефон"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mobiler"
+      "ru": "мобильный телефон",
+      "fr": "le téléphone portable"
+    }
   },
   {
     "id": "sv_501",
+    "lang": "sv",
     "lemma": "matt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12521,15 +12528,17 @@ const WORDS_SV_A1 = [
       "pt": "fraco",
       "ja": "弱い",
       "zh": "虚弱的",
-      "ru": "слабый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "слабый",
+      "fr": "faible"
+    }
   },
   {
     "id": "sv_502",
+    "lang": "sv",
     "lemma": "dator",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "datorer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12547,17 +12556,17 @@ const WORDS_SV_A1 = [
       "pt": "o computador",
       "ja": "コンピューター",
       "zh": "电脑",
-      "ru": "компьютер"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "datorer"
+      "ru": "компьютер",
+      "fr": "l'ordinateur"
+    }
   },
   {
     "id": "sv_503",
+    "lang": "sv",
     "lemma": "hotell",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "hotell",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12575,17 +12584,17 @@ const WORDS_SV_A1 = [
       "pt": "o hotel",
       "ja": "ホテル",
       "zh": "酒店",
-      "ru": "отель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "hotell"
+      "ru": "отель",
+      "fr": "l'hôtel"
+    }
   },
   {
     "id": "sv_504",
+    "lang": "sv",
     "lemma": "magi",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "magier",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12602,17 +12611,17 @@ const WORDS_SV_A1 = [
       "pt": "a magia",
       "ja": "魔法",
       "zh": "魔法",
-      "ru": "магия"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "magier"
+      "ru": "магия",
+      "fr": "la magie"
+    }
   },
   {
     "id": "sv_505",
+    "lang": "sv",
     "lemma": "skitstövel",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skitstövlar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12628,17 +12637,17 @@ const WORDS_SV_A1 = [
       "pt": "o idiota",
       "ja": "馬鹿",
       "zh": "混蛋",
-      "ru": "придурок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skitstövlar"
+      "ru": "придурок",
+      "fr": "l'idiot"
+    }
   },
   {
     "id": "sv_506",
+    "lang": "sv",
     "lemma": "skott",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skott",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12655,15 +12664,13 @@ const WORDS_SV_A1 = [
       "pt": "o tiro",
       "ja": "発砲",
       "zh": "射击",
-      "ru": "выстрел"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skott"
+      "ru": "выстрел",
+      "fr": "le coup de feu"
+    }
   },
   {
     "id": "sv_507",
+    "lang": "sv",
     "lemma": "liknande",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12682,15 +12689,17 @@ const WORDS_SV_A1 = [
       "pt": "semelhante",
       "ja": "似たような",
       "zh": "类似的",
-      "ru": "похожий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "похожий",
+      "fr": "similaire"
+    }
   },
   {
     "id": "sv_508",
+    "lang": "sv",
     "lemma": "svin",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "svin",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12707,15 +12716,13 @@ const WORDS_SV_A1 = [
       "pt": "o porco",
       "ja": "豚",
       "zh": "猪",
-      "ru": "свинья"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "svin"
+      "ru": "свинья",
+      "fr": "le cochon"
+    }
   },
   {
     "id": "sv_509",
+    "lang": "sv",
     "lemma": "strid",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12734,15 +12741,17 @@ const WORDS_SV_A1 = [
       "pt": "rápido",
       "ja": "速い",
       "zh": "快速的",
-      "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "быстрый",
+      "fr": "rapide"
+    }
   },
   {
     "id": "sv_510",
+    "lang": "sv",
     "lemma": "strid",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "strider",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12759,17 +12768,17 @@ const WORDS_SV_A1 = [
       "pt": "a batalha",
       "ja": "戦い",
       "zh": "战斗",
-      "ru": "битва"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "strider"
+      "ru": "битва",
+      "fr": "la bataille"
+    }
   },
   {
     "id": "sv_511",
+    "lang": "sv",
     "lemma": "tryck",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tryck",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12786,17 +12795,17 @@ const WORDS_SV_A1 = [
       "pt": "a pressão",
       "ja": "圧力",
       "zh": "压力",
-      "ru": "давление"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tryck"
+      "ru": "давление",
+      "fr": "la pression"
+    }
   },
   {
     "id": "sv_512",
+    "lang": "sv",
     "lemma": "medicin",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mediciner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12813,15 +12822,13 @@ const WORDS_SV_A1 = [
       "pt": "a medicina",
       "ja": "医学",
       "zh": "医学",
-      "ru": "медицина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mediciner"
+      "ru": "медицина",
+      "fr": "la médecine"
+    }
   },
   {
     "id": "sv_513",
+    "lang": "sv",
     "lemma": "noga",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12840,13 +12847,13 @@ const WORDS_SV_A1 = [
       "pt": "cuidadoso",
       "ja": "慎重な",
       "zh": "小心的",
-      "ru": "тщательный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "тщательный",
+      "fr": "attentif"
+    }
   },
   {
     "id": "sv_514",
+    "lang": "sv",
     "lemma": "vaken",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12865,13 +12872,13 @@ const WORDS_SV_A1 = [
       "pt": "acordado",
       "ja": "目覚めている",
       "zh": "清醒的",
-      "ru": "бодрствующий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "бодрствующий",
+      "fr": "éveillé"
+    }
   },
   {
     "id": "sv_516",
+    "lang": "sv",
     "lemma": "sakta",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12890,15 +12897,17 @@ const WORDS_SV_A1 = [
       "pt": "lento",
       "ja": "遅い",
       "zh": "慢",
-      "ru": "медленный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "медленный",
+      "fr": "lent"
+    }
   },
   {
     "id": "sv_517",
+    "lang": "sv",
     "lemma": "skola",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skolor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12916,17 +12925,17 @@ const WORDS_SV_A1 = [
       "pt": "a escola",
       "ja": "学校",
       "zh": "学校",
-      "ru": "школа"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skolor"
+      "ru": "школа",
+      "fr": "l'école"
+    }
   },
   {
     "id": "sv_518",
+    "lang": "sv",
     "lemma": "löjtnant",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "löjtnanter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12943,17 +12952,17 @@ const WORDS_SV_A1 = [
       "pt": "o tenente",
       "ja": "中尉",
       "zh": "中尉",
-      "ru": "лейтенант"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "löjtnanter"
+      "ru": "лейтенант",
+      "fr": "le lieutenant"
+    }
   },
   {
     "id": "sv_519",
+    "lang": "sv",
     "lemma": "text",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "texter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12970,17 +12979,17 @@ const WORDS_SV_A1 = [
       "pt": "o texto",
       "ja": "テキスト",
       "zh": "文本",
-      "ru": "текст"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "texter"
+      "ru": "текст",
+      "fr": "le texte"
+    }
   },
   {
     "id": "sv_520",
+    "lang": "sv",
     "lemma": "mun",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "munnar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -12997,17 +13006,17 @@ const WORDS_SV_A1 = [
       "pt": "a boca",
       "ja": "口",
       "zh": "嘴",
-      "ru": "рот"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "munnar"
+      "ru": "рот",
+      "fr": "la bouche"
+    }
   },
   {
     "id": "sv_521",
+    "lang": "sv",
     "lemma": "träd",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "träd",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13024,17 +13033,17 @@ const WORDS_SV_A1 = [
       "pt": "a árvore",
       "ja": "木",
       "zh": "树",
-      "ru": "дерево"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "träd"
+      "ru": "дерево",
+      "fr": "l'arbre"
+    }
   },
   {
     "id": "sv_522",
+    "lang": "sv",
     "lemma": "affär",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "affärer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13051,17 +13060,17 @@ const WORDS_SV_A1 = [
       "pt": "a loja",
       "ja": "店",
       "zh": "商店",
-      "ru": "магазин"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "affärer"
+      "ru": "магазин",
+      "fr": "le magasin"
+    }
   },
   {
     "id": "sv_523",
+    "lang": "sv",
     "lemma": "hustru",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "hustrur",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13078,17 +13087,17 @@ const WORDS_SV_A1 = [
       "pt": "a esposa",
       "ja": "妻",
       "zh": "妻子",
-      "ru": "жена"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "hustrur"
+      "ru": "жена",
+      "fr": "l'épouse"
+    }
   },
   {
     "id": "sv_524",
+    "lang": "sv",
     "lemma": "skydd",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skydd",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13105,17 +13114,17 @@ const WORDS_SV_A1 = [
       "pt": "a proteção",
       "ja": "保護",
       "zh": "保护",
-      "ru": "защита"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skydd"
+      "ru": "защита",
+      "fr": "la protection"
+    }
   },
   {
     "id": "sv_525",
+    "lang": "sv",
     "lemma": "soldat",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "soldater",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13132,17 +13141,17 @@ const WORDS_SV_A1 = [
       "pt": "o soldado",
       "ja": "兵士",
       "zh": "士兵",
-      "ru": "солдат"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "soldater"
+      "ru": "солдат",
+      "fr": "le soldat"
+    }
   },
   {
     "id": "sv_526",
+    "lang": "sv",
     "lemma": "karriär",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "karriärer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13159,17 +13168,17 @@ const WORDS_SV_A1 = [
       "pt": "a carreira",
       "ja": "キャリア",
       "zh": "职业",
-      "ru": "карьера"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "karriärer"
+      "ru": "карьера",
+      "fr": "la carrière"
+    }
   },
   {
     "id": "sv_527",
+    "lang": "sv",
     "lemma": "koll",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kollar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13185,17 +13194,17 @@ const WORDS_SV_A1 = [
       "pt": "o controle",
       "ja": "チェック",
       "zh": "检查",
-      "ru": "проверка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kollar"
+      "ru": "проверка",
+      "fr": "le contrôle"
+    }
   },
   {
     "id": "sv_528",
+    "lang": "sv",
     "lemma": "område",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "områden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13213,17 +13222,17 @@ const WORDS_SV_A1 = [
       "pt": "a área",
       "ja": "地域",
       "zh": "区域",
-      "ru": "область"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "områden"
+      "ru": "область",
+      "fr": "la zone"
+    }
   },
   {
     "id": "sv_529",
+    "lang": "sv",
     "lemma": "frihet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "friheter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13240,15 +13249,13 @@ const WORDS_SV_A1 = [
       "pt": "a liberdade",
       "ja": "自由",
       "zh": "自由",
-      "ru": "свобода"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "friheter"
+      "ru": "свобода",
+      "fr": "la liberté"
+    }
   },
   {
     "id": "sv_530",
+    "lang": "sv",
     "lemma": "privat",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13267,15 +13274,17 @@ const WORDS_SV_A1 = [
       "pt": "privado",
       "ja": "プライベート",
       "zh": "私人的",
-      "ru": "частный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "частный",
+      "fr": "privé"
+    }
   },
   {
     "id": "sv_531",
+    "lang": "sv",
     "lemma": "taxi",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "taxibilar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13292,17 +13301,17 @@ const WORDS_SV_A1 = [
       "pt": "o táxi",
       "ja": "タクシー",
       "zh": "出租车",
-      "ru": "такси"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "taxibilar"
+      "ru": "такси",
+      "fr": "le taxi"
+    }
   },
   {
     "id": "sv_532",
+    "lang": "sv",
     "lemma": "glada",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "glador",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13311,7 +13320,7 @@ const WORDS_SV_A1 = [
     ],
     "meanings": {
       "ko": "솔개",
-      "en": "kite (bird)",
+      "en": "kite",
       "de": "der Milan",
       "es": "el milano",
       "sv": "en glada",
@@ -13319,17 +13328,16 @@ const WORDS_SV_A1 = [
       "pt": "o milhafre",
       "ja": "トンビ",
       "zh": "鸢",
-      "ru": "коршун"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "glador"
+      "ru": "коршун",
+      "fr": "le milan"
+    }
   },
   {
     "id": "sv_533",
+    "lang": "sv",
     "lemma": "halva",
     "pos": "Nomen",
+    "article": "en",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13346,17 +13354,17 @@ const WORDS_SV_A1 = [
       "pt": "a metade",
       "ja": "半分",
       "zh": "一半",
-      "ru": "половина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": ""
+      "ru": "половина",
+      "fr": "la moitié"
+    }
   },
   {
     "id": "sv_534",
+    "lang": "sv",
     "lemma": "uppmärksamhet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13373,17 +13381,17 @@ const WORDS_SV_A1 = [
       "pt": "a atenção",
       "ja": "注意",
       "zh": "注意力",
-      "ru": "внимание"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "внимание",
+      "fr": "l'attention"
+    }
   },
   {
     "id": "sv_535",
+    "lang": "sv",
     "lemma": "fars",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "farser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13400,17 +13408,17 @@ const WORDS_SV_A1 = [
       "pt": "a farsa",
       "ja": "茶番",
       "zh": "闹剧",
-      "ru": "фарс"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "farser"
+      "ru": "фарс",
+      "fr": "la farce"
+    }
   },
   {
     "id": "sv_536",
+    "lang": "sv",
     "lemma": "förslag",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "förslag",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13427,15 +13435,13 @@ const WORDS_SV_A1 = [
       "pt": "a proposta",
       "ja": "提案",
       "zh": "提案",
-      "ru": "предложение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "förslag"
+      "ru": "предложение",
+      "fr": "la proposition"
+    }
   },
   {
     "id": "sv_537",
+    "lang": "sv",
     "lemma": "konstig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13454,15 +13460,17 @@ const WORDS_SV_A1 = [
       "pt": "estranho",
       "ja": "奇妙な",
       "zh": "奇怪的",
-      "ru": "странный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "странный",
+      "fr": "étrange"
+    }
   },
   {
     "id": "sv_538",
+    "lang": "sv",
     "lemma": "äktenskap",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "äktenskap",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13479,17 +13487,17 @@ const WORDS_SV_A1 = [
       "pt": "o casamento",
       "ja": "結婚",
       "zh": "婚姻",
-      "ru": "брак"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "äktenskap"
+      "ru": "брак",
+      "fr": "le mariage"
+    }
   },
   {
     "id": "sv_539",
+    "lang": "sv",
     "lemma": "sötnos",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sötnosar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13505,17 +13513,17 @@ const WORDS_SV_A1 = [
       "pt": "o querido",
       "ja": "スウィーティー",
       "zh": "甜心",
-      "ru": "милашка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sötnosar"
+      "ru": "милашка",
+      "fr": "le chéri"
+    }
   },
   {
     "id": "sv_540",
+    "lang": "sv",
     "lemma": "dörr",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "dörrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13532,17 +13540,17 @@ const WORDS_SV_A1 = [
       "pt": "a porta",
       "ja": "ドア",
       "zh": "门",
-      "ru": "дверь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "dörrar"
+      "ru": "дверь",
+      "fr": "la porte"
+    }
   },
   {
     "id": "sv_542",
+    "lang": "sv",
     "lemma": "fisk",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fiskar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13559,17 +13567,17 @@ const WORDS_SV_A1 = [
       "pt": "o peixe",
       "ja": "魚",
       "zh": "鱼",
-      "ru": "рыба"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fiskar"
+      "ru": "рыба",
+      "fr": "le poisson"
+    }
   },
   {
     "id": "sv_543",
+    "lang": "sv",
     "lemma": "is",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "isar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13586,17 +13594,17 @@ const WORDS_SV_A1 = [
       "pt": "o gelo",
       "ja": "氷",
       "zh": "冰",
-      "ru": "лед"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "isar"
+      "ru": "лед",
+      "fr": "la glace"
+    }
   },
   {
     "id": "sv_544",
+    "lang": "sv",
     "lemma": "kyss",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kyssar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13613,17 +13621,17 @@ const WORDS_SV_A1 = [
       "pt": "o beijo",
       "ja": "キス",
       "zh": "吻",
-      "ru": "поцелуй"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kyssar"
+      "ru": "поцелуй",
+      "fr": "le baiser"
+    }
   },
   {
     "id": "sv_545",
+    "lang": "sv",
     "lemma": "nytta",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "nyttor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13640,17 +13648,17 @@ const WORDS_SV_A1 = [
       "pt": "o benefício",
       "ja": "利点",
       "zh": "益处",
-      "ru": "выгода"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "nyttor"
+      "ru": "выгода",
+      "fr": "le bénéfice"
+    }
   },
   {
     "id": "sv_546",
+    "lang": "sv",
     "lemma": "situation",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "situationer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13667,17 +13675,17 @@ const WORDS_SV_A1 = [
       "pt": "a situação",
       "ja": "状況",
       "zh": "情况",
-      "ru": "ситуация"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "situationer"
+      "ru": "ситуация",
+      "fr": "la situation"
+    }
   },
   {
     "id": "sv_547",
+    "lang": "sv",
     "lemma": "present",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "presenter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13694,17 +13702,17 @@ const WORDS_SV_A1 = [
       "pt": "o presente",
       "ja": "贈り物",
       "zh": "礼物",
-      "ru": "подарок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "presenter"
+      "ru": "подарок",
+      "fr": "le cadeau"
+    }
   },
   {
     "id": "sv_548",
+    "lang": "sv",
     "lemma": "rom",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13721,17 +13729,17 @@ const WORDS_SV_A1 = [
       "pt": "a ova",
       "ja": "魚卵",
       "zh": "鱼卵",
-      "ru": "икра"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "икра",
+      "fr": "la rogue"
+    }
   },
   {
     "id": "sv_549",
+    "lang": "sv",
     "lemma": "luft",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13748,17 +13756,17 @@ const WORDS_SV_A1 = [
       "pt": "o ar",
       "ja": "空気",
       "zh": "空气",
-      "ru": "воздух"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "воздух",
+      "fr": "l'air"
+    }
   },
   {
     "id": "sv_550",
+    "lang": "sv",
     "lemma": "väska",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "väskor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13775,17 +13783,17 @@ const WORDS_SV_A1 = [
       "pt": "a bolsa",
       "ja": "バッグ",
       "zh": "包",
-      "ru": "сумка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "väskor"
+      "ru": "сумка",
+      "fr": "le sac"
+    }
   },
   {
     "id": "sv_551",
+    "lang": "sv",
     "lemma": "mil",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "mil",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13803,17 +13811,17 @@ const WORDS_SV_A1 = [
       "pt": "a milha escandinava",
       "ja": "スカンジナビアマイル",
       "zh": "斯堪的纳维亚英里",
-      "ru": "скандинавская миля"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "mil"
+      "ru": "скандинавская миля",
+      "fr": "le mille scandinave"
+    }
   },
   {
     "id": "sv_552",
+    "lang": "sv",
     "lemma": "ägg",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ägg",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13830,17 +13838,17 @@ const WORDS_SV_A1 = [
       "pt": "o ovo",
       "ja": "卵",
       "zh": "蛋",
-      "ru": "яйцо"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ägg"
+      "ru": "яйцо",
+      "fr": "l'œuf"
+    }
   },
   {
     "id": "sv_553",
+    "lang": "sv",
     "lemma": "skuld",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "skulder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13857,17 +13865,17 @@ const WORDS_SV_A1 = [
       "pt": "a dívida",
       "ja": "借金",
       "zh": "债务",
-      "ru": "долг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "skulder"
+      "ru": "долг",
+      "fr": "la dette"
+    }
   },
   {
     "id": "sv_554",
+    "lang": "sv",
     "lemma": "stöd",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "stöd",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13884,15 +13892,13 @@ const WORDS_SV_A1 = [
       "pt": "o apoio",
       "ja": "支持",
       "zh": "支持",
-      "ru": "поддержка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "stöd"
+      "ru": "поддержка",
+      "fr": "le soutien"
+    }
   },
   {
     "id": "sv_555",
+    "lang": "sv",
     "lemma": "misstänkt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13911,15 +13917,17 @@ const WORDS_SV_A1 = [
       "pt": "suspeito",
       "ja": "疑わしい",
       "zh": "嫌疑的",
-      "ru": "подозреваемый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "подозреваемый",
+      "fr": "suspect"
+    }
   },
   {
     "id": "sv_556",
+    "lang": "sv",
     "lemma": "tillfälle",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "tillfällen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13936,17 +13944,17 @@ const WORDS_SV_A1 = [
       "pt": "a oportunidade",
       "ja": "機会",
       "zh": "机会",
-      "ru": "возможность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "tillfällen"
+      "ru": "возможность",
+      "fr": "l'occasion"
+    }
   },
   {
     "id": "sv_557",
+    "lang": "sv",
     "lemma": "bord",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bord",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13963,15 +13971,13 @@ const WORDS_SV_A1 = [
       "pt": "a mesa",
       "ja": "テーブル",
       "zh": "桌子",
-      "ru": "стол"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bord"
+      "ru": "стол",
+      "fr": "la table"
+    }
   },
   {
     "id": "sv_558",
+    "lang": "sv",
     "lemma": "tokig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13990,15 +13996,17 @@ const WORDS_SV_A1 = [
       "pt": "louco",
       "ja": "狂った",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "сумасшедший",
+      "fr": "fou"
+    }
   },
   {
     "id": "sv_559",
+    "lang": "sv",
     "lemma": "fot",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fötter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14015,17 +14023,17 @@ const WORDS_SV_A1 = [
       "pt": "o pé",
       "ja": "足",
       "zh": "脚",
-      "ru": "нога"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fötter"
+      "ru": "нога",
+      "fr": "le pied"
+    }
   },
   {
     "id": "sv_560",
+    "lang": "sv",
     "lemma": "ed",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "eder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14042,15 +14050,13 @@ const WORDS_SV_A1 = [
       "pt": "o juramento",
       "ja": "誓い",
       "zh": "誓言",
-      "ru": "клятва"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "eder"
+      "ru": "клятва",
+      "fr": "le serment"
+    }
   },
   {
     "id": "sv_561",
+    "lang": "sv",
     "lemma": "besviken",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14069,15 +14075,17 @@ const WORDS_SV_A1 = [
       "pt": "desapontado",
       "ja": "がっかりした",
       "zh": "失望的",
-      "ru": "разочарованный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "разочарованный",
+      "fr": "déçu"
+    }
   },
   {
     "id": "sv_562",
+    "lang": "sv",
     "lemma": "våld",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14094,17 +14102,17 @@ const WORDS_SV_A1 = [
       "pt": "a violência",
       "ja": "暴力",
       "zh": "暴力",
-      "ru": "насилие"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "насилие",
+      "fr": "la violence"
+    }
   },
   {
     "id": "sv_563",
+    "lang": "sv",
     "lemma": "ljud",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "ljud",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14121,15 +14129,13 @@ const WORDS_SV_A1 = [
       "pt": "o som",
       "ja": "音",
       "zh": "声音",
-      "ru": "звук"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "ljud"
+      "ru": "звук",
+      "fr": "le son"
+    }
   },
   {
     "id": "sv_564",
+    "lang": "sv",
     "lemma": "röd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14148,15 +14154,17 @@ const WORDS_SV_A1 = [
       "pt": "vermelho",
       "ja": "赤い",
       "zh": "红色",
-      "ru": "красный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "красный",
+      "fr": "rouge"
+    }
   },
   {
     "id": "sv_566",
+    "lang": "sv",
     "lemma": "födelsedag",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "födelsedagar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14174,17 +14182,17 @@ const WORDS_SV_A1 = [
       "pt": "o aniversário",
       "ja": "誕生日",
       "zh": "生日",
-      "ru": "день рождения"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "födelsedagar"
+      "ru": "день рождения",
+      "fr": "l'anniversaire"
+    }
   },
   {
     "id": "sv_567",
+    "lang": "sv",
     "lemma": "lögn",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lögner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14201,17 +14209,17 @@ const WORDS_SV_A1 = [
       "pt": "a mentira",
       "ja": "嘘",
       "zh": "谎言",
-      "ru": "ложь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lögner"
+      "ru": "ложь",
+      "fr": "le mensonge"
+    }
   },
   {
     "id": "sv_568",
+    "lang": "sv",
     "lemma": "avtal",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "avtal",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14228,17 +14236,17 @@ const WORDS_SV_A1 = [
       "pt": "o acordo",
       "ja": "合意",
       "zh": "协议",
-      "ru": "соглашение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "avtal"
+      "ru": "соглашение",
+      "fr": "l'accord"
+    }
   },
   {
     "id": "sv_569",
+    "lang": "sv",
     "lemma": "faktum",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "fakta",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14255,17 +14263,17 @@ const WORDS_SV_A1 = [
       "pt": "o fato",
       "ja": "事実",
       "zh": "事实",
-      "ru": "факт"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "fakta"
+      "ru": "факт",
+      "fr": "le fait"
+    }
   },
   {
     "id": "sv_570",
+    "lang": "sv",
     "lemma": "klass",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "klasser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14283,17 +14291,17 @@ const WORDS_SV_A1 = [
       "pt": "a classe",
       "ja": "クラス",
       "zh": "班级",
-      "ru": "класс"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "klasser"
+      "ru": "класс",
+      "fr": "la classe"
+    }
   },
   {
     "id": "sv_571",
+    "lang": "sv",
     "lemma": "kuk",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kukar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14309,15 +14317,13 @@ const WORDS_SV_A1 = [
       "pt": "o pênis",
       "ja": "ペニス",
       "zh": "阴茎",
-      "ru": "член"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kukar"
+      "ru": "член",
+      "fr": "le pénis"
+    }
   },
   {
     "id": "sv_572",
+    "lang": "sv",
     "lemma": "ansvarig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14337,15 +14343,17 @@ const WORDS_SV_A1 = [
       "pt": "responsável",
       "ja": "責任がある",
       "zh": "负责任的",
-      "ru": "ответственный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "ответственный",
+      "fr": "responsable"
+    }
   },
   {
     "id": "sv_573",
+    "lang": "sv",
     "lemma": "don",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "don",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14362,17 +14370,17 @@ const WORDS_SV_A1 = [
       "pt": "a ferramenta",
       "ja": "道具",
       "zh": "工具",
-      "ru": "инструмент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "don"
+      "ru": "инструмент",
+      "fr": "l'outil"
+    }
   },
   {
     "id": "sv_574",
+    "lang": "sv",
     "lemma": "sten",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stenar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14389,17 +14397,17 @@ const WORDS_SV_A1 = [
       "pt": "a pedra",
       "ja": "石",
       "zh": "石头",
-      "ru": "камень"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stenar"
+      "ru": "камень",
+      "fr": "la pierre"
+    }
   },
   {
     "id": "sv_575",
+    "lang": "sv",
     "lemma": "position",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "positioner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14416,17 +14424,17 @@ const WORDS_SV_A1 = [
       "pt": "a posição",
       "ja": "位置",
       "zh": "位置",
-      "ru": "позиция"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "positioner"
+      "ru": "позиция",
+      "fr": "la position"
+    }
   },
   {
     "id": "sv_576",
+    "lang": "sv",
     "lemma": "långa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "långor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14442,15 +14450,13 @@ const WORDS_SV_A1 = [
       "pt": "a maruca",
       "ja": "リング",
       "zh": "鳕鱼",
-      "ru": "молочная рыба"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "långor"
+      "ru": "молочная рыба",
+      "fr": "la lingue"
+    }
   },
   {
     "id": "sv_577",
+    "lang": "sv",
     "lemma": "skär",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14469,15 +14475,17 @@ const WORDS_SV_A1 = [
       "pt": "rosa",
       "ja": "ピンクの",
       "zh": "粉红色的",
-      "ru": "розовый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "розовый",
+      "fr": "rose"
+    }
   },
   {
     "id": "sv_578",
+    "lang": "sv",
     "lemma": "skär",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "skär",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14494,17 +14502,17 @@ const WORDS_SV_A1 = [
       "pt": "o ilhéu",
       "ja": "小島",
       "zh": "礁石",
-      "ru": "шхера"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "skär"
+      "ru": "шхера",
+      "fr": "l'îlot"
+    }
   },
   {
     "id": "sv_579",
+    "lang": "sv",
     "lemma": "dna",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14521,15 +14529,13 @@ const WORDS_SV_A1 = [
       "pt": "o DNA",
       "ja": "DNA",
       "zh": "DNA",
-      "ru": "ДНК"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "-"
+      "ru": "ДНК",
+      "fr": "l'ADN"
+    }
   },
   {
     "id": "sv_580",
+    "lang": "sv",
     "lemma": "vis",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14548,15 +14554,17 @@ const WORDS_SV_A1 = [
       "pt": "sábio",
       "ja": "賢い",
       "zh": "明智的",
-      "ru": "мудрый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "мудрый",
+      "fr": "sage"
+    }
   },
   {
     "id": "sv_581",
+    "lang": "sv",
     "lemma": "vis",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "vis",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14573,17 +14581,17 @@ const WORDS_SV_A1 = [
       "pt": "o modo",
       "ja": "方法",
       "zh": "方式",
-      "ru": "способ"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "vis"
+      "ru": "способ",
+      "fr": "la manière"
+    }
   },
   {
     "id": "sv_582",
+    "lang": "sv",
     "lemma": "semester",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "semestrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14600,17 +14608,17 @@ const WORDS_SV_A1 = [
       "pt": "as férias",
       "ja": "休暇",
       "zh": "假期",
-      "ru": "отпуск"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "semestrar"
+      "ru": "отпуск",
+      "fr": "les vacances"
+    }
   },
   {
     "id": "sv_583",
+    "lang": "sv",
     "lemma": "tuff",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tuffer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14627,15 +14635,13 @@ const WORDS_SV_A1 = [
       "pt": "o tufo",
       "ja": "凝灰岩",
       "zh": "凝灰岩",
-      "ru": "туф"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tuffer"
+      "ru": "туф",
+      "fr": "le tuf"
+    }
   },
   {
     "id": "sv_584",
+    "lang": "sv",
     "lemma": "tuff",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14654,13 +14660,13 @@ const WORDS_SV_A1 = [
       "pt": "duro",
       "ja": "厳しい",
       "zh": "坚韧的",
-      "ru": "жесткий"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "жесткий",
+      "fr": "dur"
+    }
   },
   {
     "id": "sv_585",
+    "lang": "sv",
     "lemma": "snabb",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14679,15 +14685,17 @@ const WORDS_SV_A1 = [
       "pt": "rápido",
       "ja": "速い",
       "zh": "快的",
-      "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "быстрый",
+      "fr": "rapide"
+    }
   },
   {
     "id": "sv_586",
+    "lang": "sv",
     "lemma": "adress",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "adresser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14704,17 +14712,17 @@ const WORDS_SV_A1 = [
       "pt": "o endereço",
       "ja": "住所",
       "zh": "地址",
-      "ru": "адрес"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "adresser"
+      "ru": "адрес",
+      "fr": "l'adresse"
+    }
   },
   {
     "id": "sv_587",
+    "lang": "sv",
     "lemma": "tillgång",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "tillgångar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14731,17 +14739,17 @@ const WORDS_SV_A1 = [
       "pt": "o suprimento",
       "ja": "供給",
       "zh": "供应",
-      "ru": "поставка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "tillgångar"
+      "ru": "поставка",
+      "fr": "l'approvisionnement"
+    }
   },
   {
     "id": "sv_588",
+    "lang": "sv",
     "lemma": "rädsla",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "rädslor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14758,17 +14766,17 @@ const WORDS_SV_A1 = [
       "pt": "o medo",
       "ja": "恐怖",
       "zh": "恐惧",
-      "ru": "страх"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "rädslor"
+      "ru": "страх",
+      "fr": "la peur"
+    }
   },
   {
     "id": "sv_589",
+    "lang": "sv",
     "lemma": "begär",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "begär",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14784,17 +14792,17 @@ const WORDS_SV_A1 = [
       "pt": "o desejo",
       "ja": "衝動",
       "zh": "欲望",
-      "ru": "желание"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "begär"
+      "ru": "желание",
+      "fr": "le désir"
+    }
   },
   {
     "id": "sv_590",
+    "lang": "sv",
     "lemma": "eftermiddag",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "eftermiddagar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14811,15 +14819,13 @@ const WORDS_SV_A1 = [
       "pt": "a tarde",
       "ja": "午後",
       "zh": "下午",
-      "ru": "послеполуденное время"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "eftermiddagar"
+      "ru": "послеполуденное время",
+      "fr": "l'après-midi"
+    }
   },
   {
     "id": "sv_591",
+    "lang": "sv",
     "lemma": "känd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14838,15 +14844,17 @@ const WORDS_SV_A1 = [
       "pt": "conhecido",
       "ja": "知られている",
       "zh": "已知的",
-      "ru": "известный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "известный",
+      "fr": "connu"
+    }
   },
   {
     "id": "sv_592",
+    "lang": "sv",
     "lemma": "nöje",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "nöjen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14863,17 +14871,17 @@ const WORDS_SV_A1 = [
       "pt": "o prazer",
       "ja": "楽しみ",
       "zh": "乐趣",
-      "ru": "удовольствие"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "nöjen"
+      "ru": "удовольствие",
+      "fr": "le plaisir"
+    }
   },
   {
     "id": "sv_593",
+    "lang": "sv",
     "lemma": "match",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "matcher",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14890,17 +14898,17 @@ const WORDS_SV_A1 = [
       "pt": "o jogo",
       "ja": "試合",
       "zh": "比赛",
-      "ru": "матч"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "matcher"
+      "ru": "матч",
+      "fr": "le match"
+    }
   },
   {
     "id": "sv_594",
+    "lang": "sv",
     "lemma": "armé",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "arméer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14917,15 +14925,13 @@ const WORDS_SV_A1 = [
       "pt": "o exército",
       "ja": "軍隊",
       "zh": "军队",
-      "ru": "армия"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "arméer"
+      "ru": "армия",
+      "fr": "l'armée"
+    }
   },
   {
     "id": "sv_595",
+    "lang": "sv",
     "lemma": "svår",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14944,15 +14950,17 @@ const WORDS_SV_A1 = [
       "pt": "difícil",
       "ja": "難しい",
       "zh": "困难",
-      "ru": "трудный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "трудный",
+      "fr": "difficile"
+    }
   },
   {
     "id": "sv_596",
+    "lang": "sv",
     "lemma": "möjlighet",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "möjligheter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14969,17 +14977,17 @@ const WORDS_SV_A1 = [
       "pt": "a possibilidade",
       "ja": "可能性",
       "zh": "可能性",
-      "ru": "возможность"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "möjligheter"
+      "ru": "возможность",
+      "fr": "la possibilité"
+    }
   },
   {
     "id": "sv_597",
+    "lang": "sv",
     "lemma": "energi",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "energier",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14996,17 +15004,17 @@ const WORDS_SV_A1 = [
       "pt": "a energia",
       "ja": "エネルギー",
       "zh": "能量",
-      "ru": "энергия"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "energier"
+      "ru": "энергия",
+      "fr": "l'énergie"
+    }
   },
   {
     "id": "sv_598",
+    "lang": "sv",
     "lemma": "professor",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "professorer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15023,17 +15031,17 @@ const WORDS_SV_A1 = [
       "pt": "o professor",
       "ja": "教授",
       "zh": "教授",
-      "ru": "профессор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "professorer"
+      "ru": "профессор",
+      "fr": "le professeur"
+    }
   },
   {
     "id": "sv_599",
+    "lang": "sv",
     "lemma": "and",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "änder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15050,17 +15058,17 @@ const WORDS_SV_A1 = [
       "pt": "o pato",
       "ja": "アヒル",
       "zh": "鸭子",
-      "ru": "утка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "änder"
+      "ru": "утка",
+      "fr": "le canard"
+    }
   },
   {
     "id": "sv_600",
+    "lang": "sv",
     "lemma": "lisa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15077,15 +15085,13 @@ const WORDS_SV_A1 = [
       "pt": "o consolo",
       "ja": "慰め",
       "zh": "安慰",
-      "ru": "утешение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "утешение",
+      "fr": "le réconfort"
+    }
   },
   {
     "id": "sv_601",
+    "lang": "sv",
     "lemma": "förvånad",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15104,13 +15110,13 @@ const WORDS_SV_A1 = [
       "pt": "surpreso",
       "ja": "驚いた",
       "zh": "惊讶",
-      "ru": "удивлённый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "удивлённый",
+      "fr": "surpris"
+    }
   },
   {
     "id": "sv_602",
+    "lang": "sv",
     "lemma": "dödad",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15129,15 +15135,17 @@ const WORDS_SV_A1 = [
       "pt": "morto",
       "ja": "殺された",
       "zh": "被杀",
-      "ru": "убитый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "убитый",
+      "fr": "tué"
+    }
   },
   {
     "id": "sv_603",
+    "lang": "sv",
     "lemma": "majestät",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "majestäter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15154,15 +15162,13 @@ const WORDS_SV_A1 = [
       "pt": "a majestade",
       "ja": "威厳",
       "zh": "威严",
-      "ru": "величество"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "majestäter"
+      "ru": "величество",
+      "fr": "la majesté"
+    }
   },
   {
     "id": "sv_604",
+    "lang": "sv",
     "lemma": "hård",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15181,15 +15187,17 @@ const WORDS_SV_A1 = [
       "pt": "duro",
       "ja": "硬い",
       "zh": "硬",
-      "ru": "твёрдый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "твёрдый",
+      "fr": "dur"
+    }
   },
   {
     "id": "sv_605",
+    "lang": "sv",
     "lemma": "lek",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "lekar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15206,15 +15214,13 @@ const WORDS_SV_A1 = [
       "pt": "o jogo",
       "ja": "遊び",
       "zh": "玩耍",
-      "ru": "игра"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "lekar"
+      "ru": "игра",
+      "fr": "le jeu"
+    }
   },
   {
     "id": "sv_606",
+    "lang": "sv",
     "lemma": "svag",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15233,15 +15239,17 @@ const WORDS_SV_A1 = [
       "pt": "fraco",
       "ja": "弱い",
       "zh": "弱",
-      "ru": "слабый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "слабый",
+      "fr": "faible"
+    }
   },
   {
     "id": "sv_607",
+    "lang": "sv",
     "lemma": "arm",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "armar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15258,15 +15266,13 @@ const WORDS_SV_A1 = [
       "pt": "o braço",
       "ja": "腕",
       "zh": "手臂",
-      "ru": "рука"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "armar"
+      "ru": "рука",
+      "fr": "le bras"
+    }
   },
   {
     "id": "sv_608",
+    "lang": "sv",
     "lemma": "arm",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15285,13 +15291,13 @@ const WORDS_SV_A1 = [
       "pt": "pobre",
       "ja": "貧しい",
       "zh": "贫穷",
-      "ru": "бедный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "бедный",
+      "fr": "pauvre"
+    }
   },
   {
     "id": "sv_609",
+    "lang": "sv",
     "lemma": "hemligt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15310,15 +15316,17 @@ const WORDS_SV_A1 = [
       "pt": "secreto",
       "ja": "秘密の",
       "zh": "秘密",
-      "ru": "секретный"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "секретный",
+      "fr": "secret"
+    }
   },
   {
     "id": "sv_610",
+    "lang": "sv",
     "lemma": "domare",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "domare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15335,17 +15343,17 @@ const WORDS_SV_A1 = [
       "pt": "o juiz",
       "ja": "審判",
       "zh": "法官",
-      "ru": "судья"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "domare"
+      "ru": "судья",
+      "fr": "le juge"
+    }
   },
   {
     "id": "sv_612",
+    "lang": "sv",
     "lemma": "fälla",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fällor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15362,17 +15370,17 @@ const WORDS_SV_A1 = [
       "pt": "a armadilha",
       "ja": "罠",
       "zh": "陷阱",
-      "ru": "ловушка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fällor"
+      "ru": "ловушка",
+      "fr": "le piège"
+    }
   },
   {
     "id": "sv_613",
+    "lang": "sv",
     "lemma": "stil",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "stilar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15390,17 +15398,17 @@ const WORDS_SV_A1 = [
       "pt": "o estilo",
       "ja": "スタイル",
       "zh": "风格",
-      "ru": "стиль"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "stilar"
+      "ru": "стиль",
+      "fr": "le style"
+    }
   },
   {
     "id": "sv_614",
+    "lang": "sv",
     "lemma": "pass",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "pass",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15417,17 +15425,17 @@ const WORDS_SV_A1 = [
       "pt": "o passaporte",
       "ja": "パスポート",
       "zh": "护照",
-      "ru": "паспорт"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "pass"
+      "ru": "паспорт",
+      "fr": "le passeport"
+    }
   },
   {
     "id": "sv_615",
+    "lang": "sv",
     "lemma": "klient",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "klienter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15445,17 +15453,17 @@ const WORDS_SV_A1 = [
       "pt": "o cliente",
       "ja": "顧客",
       "zh": "客户",
-      "ru": "клиент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "klienter"
+      "ru": "клиент",
+      "fr": "le client"
+    }
   },
   {
     "id": "sv_616",
+    "lang": "sv",
     "lemma": "sms",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "sms",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15472,17 +15480,17 @@ const WORDS_SV_A1 = [
       "pt": "a mensagem de texto",
       "ja": "ショートメッセージ",
       "zh": "短信",
-      "ru": "СМС"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "sms"
+      "ru": "СМС",
+      "fr": "le SMS"
+    }
   },
   {
     "id": "sv_617",
+    "lang": "sv",
     "lemma": "drottning",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "drottningar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15499,17 +15507,17 @@ const WORDS_SV_A1 = [
       "pt": "a rainha",
       "ja": "女王",
       "zh": "女王",
-      "ru": "королева"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "drottningar"
+      "ru": "королева",
+      "fr": "la reine"
+    }
   },
   {
     "id": "sv_618",
+    "lang": "sv",
     "lemma": "kilometer",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "kilometer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15526,17 +15534,17 @@ const WORDS_SV_A1 = [
       "pt": "o quilômetro",
       "ja": "キロメートル",
       "zh": "公里",
-      "ru": "километр"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "kilometer"
+      "ru": "километр",
+      "fr": "le kilomètre"
+    }
   },
   {
     "id": "sv_619",
+    "lang": "sv",
     "lemma": "relation",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "relationer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15553,17 +15561,17 @@ const WORDS_SV_A1 = [
       "pt": "a relação",
       "ja": "関係",
       "zh": "关系",
-      "ru": "отношение"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "relationer"
+      "ru": "отношение",
+      "fr": "la relation"
+    }
   },
   {
     "id": "sv_620",
+    "lang": "sv",
     "lemma": "lås",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "lås",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15580,17 +15588,17 @@ const WORDS_SV_A1 = [
       "pt": "o cadeado",
       "ja": "錠",
       "zh": "锁",
-      "ru": "замок"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "lås"
+      "ru": "замок",
+      "fr": "la serrure"
+    }
   },
   {
     "id": "sv_621",
+    "lang": "sv",
     "lemma": "el",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15607,17 +15615,17 @@ const WORDS_SV_A1 = [
       "pt": "a eletricidade",
       "ja": "電気",
       "zh": "电",
-      "ru": "электричество"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "электричество",
+      "fr": "l'électricité"
+    }
   },
   {
     "id": "sv_622",
+    "lang": "sv",
     "lemma": "bröst",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "bröst",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15634,17 +15642,17 @@ const WORDS_SV_A1 = [
       "pt": "o peito",
       "ja": "胸",
       "zh": "胸",
-      "ru": "грудь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "bröst"
+      "ru": "грудь",
+      "fr": "le sein"
+    }
   },
   {
     "id": "sv_623",
+    "lang": "sv",
     "lemma": "plus",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "plus",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15661,17 +15669,17 @@ const WORDS_SV_A1 = [
       "pt": "o sinal de mais",
       "ja": "プラス",
       "zh": "加号",
-      "ru": "плюс"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "plus"
+      "ru": "плюс",
+      "fr": "le plus"
+    }
   },
   {
     "id": "sv_624",
+    "lang": "sv",
     "lemma": "hämnd",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15688,17 +15696,17 @@ const WORDS_SV_A1 = [
       "pt": "a vingança",
       "ja": "復讐",
       "zh": "复仇",
-      "ru": "месть"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "месть",
+      "fr": "la vengeance"
+    }
   },
   {
     "id": "sv_625",
+    "lang": "sv",
     "lemma": "sjuka",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "sjukor",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15715,17 +15723,17 @@ const WORDS_SV_A1 = [
       "pt": "a doença",
       "ja": "病気",
       "zh": "疾病",
-      "ru": "болезнь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "sjukor"
+      "ru": "болезнь",
+      "fr": "la maladie"
+    }
   },
   {
     "id": "sv_626",
+    "lang": "sv",
     "lemma": "rapport",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "rapporter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15743,17 +15751,17 @@ const WORDS_SV_A1 = [
       "pt": "o relatório",
       "ja": "報告",
       "zh": "报告",
-      "ru": "доклад"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "rapporter"
+      "ru": "доклад",
+      "fr": "le rapport"
+    }
   },
   {
     "id": "sv_627",
+    "lang": "sv",
     "lemma": "system",
     "pos": "Nomen",
+    "article": "ett",
+    "plural": "system",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15770,17 +15778,17 @@ const WORDS_SV_A1 = [
       "pt": "o sistema",
       "ja": "システム",
       "zh": "系统",
-      "ru": "система"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "ett",
-    "plural": "system"
+      "ru": "система",
+      "fr": "le système"
+    }
   },
   {
     "id": "sv_628",
+    "lang": "sv",
     "lemma": "rättvisa",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "-",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15797,17 +15805,17 @@ const WORDS_SV_A1 = [
       "pt": "a justiça",
       "ja": "正義",
       "zh": "正义",
-      "ru": "справедливость"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "-"
+      "ru": "справедливость",
+      "fr": "la justice"
+    }
   },
   {
     "id": "sv_629",
+    "lang": "sv",
     "lemma": "assistent",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "assistenter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15824,17 +15832,17 @@ const WORDS_SV_A1 = [
       "pt": "o assistente",
       "ja": "助手",
       "zh": "助手",
-      "ru": "ассистент"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "assistenter"
+      "ru": "ассистент",
+      "fr": "l'assistant"
+    }
   },
   {
     "id": "sv_630",
+    "lang": "sv",
     "lemma": "farmor",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "farmödrar",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15851,17 +15859,17 @@ const WORDS_SV_A1 = [
       "pt": "a avó paterna",
       "ja": "父方の祖母",
       "zh": "奶奶",
-      "ru": "бабушка по отцу"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "farmödrar"
+      "ru": "бабушка по отцу",
+      "fr": "la grand-mère paternelle"
+    }
   },
   {
     "id": "sv_631",
+    "lang": "sv",
     "lemma": "fiende",
     "pos": "Nomen",
+    "article": "en",
+    "plural": "fiender",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15878,15 +15886,13 @@ const WORDS_SV_A1 = [
       "pt": "o inimigo",
       "ja": "敵",
       "zh": "敌人",
-      "ru": "враг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "en",
-    "plural": "fiender"
+      "ru": "враг",
+      "fr": "l'ennemi"
+    }
   },
   {
     "id": "sv_632",
+    "lang": "sv",
     "lemma": "viss",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15905,9 +15911,8 @@ const WORDS_SV_A1 = [
       "pt": "certo",
       "ja": "ある",
       "zh": "某个",
-      "ru": "некоторый"
-    },
-    "examples": [],
-    "meta": {}
+      "ru": "некоторый",
+      "fr": "certain"
+    }
   }
 ];

@@ -2,6 +2,7 @@
 const WORDS_IT_B1 = [
   {
     "id": "it_16255",
+    "lang": "it",
     "lemma": "incazzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -11,7 +12,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "화나게 하다",
-      "en": "to anger",
+      "en": "anger",
       "de": "verärgern",
       "es": "enfadar",
       "fr": "énerver",
@@ -20,15 +21,11 @@ const WORDS_IT_B1 = [
       "ja": "怒らせる",
       "zh": "使生气",
       "ru": "злить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "incazzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16256",
+    "lang": "it",
     "lemma": "ricetta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -49,13 +46,12 @@ const WORDS_IT_B1 = [
       "zh": "处方",
       "ru": "рецепт"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ricette"
   },
   {
     "id": "it_16257",
+    "lang": "it",
     "lemma": "lento",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -75,12 +71,11 @@ const WORDS_IT_B1 = [
       "ja": "遅い",
       "zh": "慢的",
       "ru": "медленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16258",
+    "lang": "it",
     "lemma": "umanità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -94,19 +89,17 @@ const WORDS_IT_B1 = [
       "de": "die Menschheit",
       "es": "la humanidad",
       "fr": "l'humanité",
-      "it": "l'umanità",
+      "it": "l' l'umanità",
       "pt": "a humanidade",
       "ja": "人類",
       "zh": "人类",
       "ru": "человечество"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16259",
+    "lang": "it",
     "lemma": "cazzata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -126,13 +119,12 @@ const WORDS_IT_B1 = [
       "zh": "胡说",
       "ru": "чушь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cazzate"
   },
   {
     "id": "it_16260",
+    "lang": "it",
     "lemma": "doppia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -152,13 +144,12 @@ const WORDS_IT_B1 = [
       "zh": "两对",
       "ru": "две пары"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "doppie"
   },
   {
     "id": "it_16261",
+    "lang": "it",
     "lemma": "maggio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -177,14 +168,14 @@ const WORDS_IT_B1 = [
       "ja": "より大きい",
       "zh": "更大的",
       "ru": "больший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16262",
+    "lang": "it",
     "lemma": "maggio",
     "pos": "Nomen",
+    "article": "il",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -196,20 +187,17 @@ const WORDS_IT_B1 = [
       "en": "May",
       "de": "der Mai",
       "es": "el mayo",
-      "fr": "mai",
+      "fr": "le mai",
       "it": "il maggio",
       "pt": "o maio",
       "ja": "5月",
       "zh": "五月",
       "ru": "май"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    }
   },
   {
     "id": "it_16264",
+    "lang": "it",
     "lemma": "fascino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -229,13 +217,12 @@ const WORDS_IT_B1 = [
       "zh": "魅力",
       "ru": "очарование"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fascini"
   },
   {
     "id": "it_16265",
+    "lang": "it",
     "lemma": "recitare",
     "pos": "Verb",
     "cefr": "B1",
@@ -245,7 +232,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "연기하다",
-      "en": "to act",
+      "en": "act",
       "de": "spielen",
       "es": "actuar",
       "fr": "jouer",
@@ -254,15 +241,11 @@ const WORDS_IT_B1 = [
       "ja": "演じる",
       "zh": "表演",
       "ru": "играть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "recitare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16266",
+    "lang": "it",
     "lemma": "tessuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -281,12 +264,11 @@ const WORDS_IT_B1 = [
       "ja": "織られた",
       "zh": "编织的",
       "ru": "тканый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16267",
+    "lang": "it",
     "lemma": "tessuto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -306,13 +288,12 @@ const WORDS_IT_B1 = [
       "zh": "布料",
       "ru": "ткань"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tessuti"
   },
   {
     "id": "it_16269",
+    "lang": "it",
     "lemma": "antico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -332,12 +313,11 @@ const WORDS_IT_B1 = [
       "ja": "古代の",
       "zh": "古代的",
       "ru": "древний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16270",
+    "lang": "it",
     "lemma": "sconvolto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -356,12 +336,11 @@ const WORDS_IT_B1 = [
       "ja": "動揺した",
       "zh": "震惊的",
       "ru": "потрясённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16272",
+    "lang": "it",
     "lemma": "portatile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -380,12 +359,11 @@ const WORDS_IT_B1 = [
       "ja": "携帯用の",
       "zh": "便携的",
       "ru": "портативный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16274",
+    "lang": "it",
     "lemma": "guerriero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -404,12 +382,11 @@ const WORDS_IT_B1 = [
       "ja": "好戦的な",
       "zh": "好战的",
       "ru": "воинственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16275",
+    "lang": "it",
     "lemma": "guerriero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -429,13 +406,11 @@ const WORDS_IT_B1 = [
       "zh": "战士",
       "ru": "воин"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16276",
+    "lang": "it",
     "lemma": "database",
     "pos": "Nomen",
     "cefr": "B1",
@@ -455,13 +430,11 @@ const WORDS_IT_B1 = [
       "zh": "数据库",
       "ru": "база данных"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16277",
+    "lang": "it",
     "lemma": "investigatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -476,19 +449,18 @@ const WORDS_IT_B1 = [
       "de": "der Ermittler",
       "es": "el investigador",
       "fr": "l'enquêteur",
-      "it": "l'investigatore",
+      "it": "l' l'investigatore",
       "pt": "o investigador",
       "ja": "捜査官",
       "zh": "调查员",
       "ru": "следователь"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "investigatori"
   },
   {
     "id": "it_16278",
+    "lang": "it",
     "lemma": "somma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -509,13 +481,12 @@ const WORDS_IT_B1 = [
       "zh": "总和",
       "ru": "сумма"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "somme"
   },
   {
     "id": "it_16279",
+    "lang": "it",
     "lemma": "pagamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -536,13 +507,12 @@ const WORDS_IT_B1 = [
       "zh": "支付",
       "ru": "оплата"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pagamenti"
   },
   {
     "id": "it_16280",
+    "lang": "it",
     "lemma": "coinvolgere",
     "pos": "Verb",
     "cefr": "B1",
@@ -561,15 +531,11 @@ const WORDS_IT_B1 = [
       "ja": "巻き込む",
       "zh": "牵涉",
       "ru": "вовлекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "coinvolgere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16281",
+    "lang": "it",
     "lemma": "indipendente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -589,12 +555,11 @@ const WORDS_IT_B1 = [
       "ja": "独立した",
       "zh": "独立的",
       "ru": "независимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16283",
+    "lang": "it",
     "lemma": "esecuzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -608,19 +573,18 @@ const WORDS_IT_B1 = [
       "de": "die Ausführung",
       "es": "la ejecución",
       "fr": "l'exécution",
-      "it": "l'esecuzione",
+      "it": "l' l'esecuzione",
       "pt": "a execução",
       "ja": "実行",
       "zh": "执行",
       "ru": "исполнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "esecuzioni"
   },
   {
     "id": "it_16284",
+    "lang": "it",
     "lemma": "riparare",
     "pos": "Verb",
     "cefr": "B1",
@@ -639,15 +603,11 @@ const WORDS_IT_B1 = [
       "ja": "修理する",
       "zh": "修理",
       "ru": "ремонтировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "riparare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16286",
+    "lang": "it",
     "lemma": "guadagno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -667,13 +627,12 @@ const WORDS_IT_B1 = [
       "zh": "收益",
       "ru": "прибыль"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "guadagni"
   },
   {
     "id": "it_16287",
+    "lang": "it",
     "lemma": "irruzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -687,19 +646,18 @@ const WORDS_IT_B1 = [
       "de": "der Überfall",
       "es": "la irrupción",
       "fr": "l'irruption",
-      "it": "l'irruzione",
+      "it": "l' l'irruzione",
       "pt": "a invasão",
       "ja": "突入",
       "zh": "突袭",
       "ru": "набег"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "irruzioni"
   },
   {
     "id": "it_16288",
+    "lang": "it",
     "lemma": "ambasciata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -714,19 +672,18 @@ const WORDS_IT_B1 = [
       "de": "die Botschaft",
       "es": "la embajada",
       "fr": "l'ambassade",
-      "it": "l'ambasciata",
+      "it": "l' l'ambasciata",
       "pt": "a embaixada",
       "ja": "大使館",
       "zh": "大使馆",
       "ru": "посольство"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ambasciate"
   },
   {
     "id": "it_16290",
+    "lang": "it",
     "lemma": "impianto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -740,19 +697,18 @@ const WORDS_IT_B1 = [
       "de": "die Anlage",
       "es": "la instalación",
       "fr": "l'installation",
-      "it": "l'impianto",
+      "it": "l' l'impianto",
       "pt": "a instalação",
       "ja": "設備",
       "zh": "系统",
       "ru": "установка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "impianti"
   },
   {
     "id": "it_16293",
+    "lang": "it",
     "lemma": "terrore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -772,13 +728,12 @@ const WORDS_IT_B1 = [
       "zh": "恐怖",
       "ru": "террор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "terrori"
   },
   {
     "id": "it_16294",
+    "lang": "it",
     "lemma": "ala",
     "pos": "Nomen",
     "cefr": "B1",
@@ -792,19 +747,18 @@ const WORDS_IT_B1 = [
       "de": "der Flügel",
       "es": "el ala",
       "fr": "l'aile",
-      "it": "l'ala",
+      "it": "l' l'ala",
       "pt": "a asa",
       "ja": "翼",
       "zh": "翅膀",
       "ru": "крыло"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ali"
   },
   {
     "id": "it_16295",
+    "lang": "it",
     "lemma": "pattuglia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -824,13 +778,12 @@ const WORDS_IT_B1 = [
       "zh": "巡逻队",
       "ru": "патруль"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pattuglie"
   },
   {
     "id": "it_16296",
+    "lang": "it",
     "lemma": "recupero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -850,13 +803,12 @@ const WORDS_IT_B1 = [
       "zh": "恢复",
       "ru": "восстановление"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "recuperi"
   },
   {
     "id": "it_16298",
+    "lang": "it",
     "lemma": "cardiaco",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -875,12 +827,11 @@ const WORDS_IT_B1 = [
       "ja": "心臓の",
       "zh": "心脏的",
       "ru": "сердечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16301",
+    "lang": "it",
     "lemma": "confessare",
     "pos": "Verb",
     "cefr": "B1",
@@ -899,15 +850,11 @@ const WORDS_IT_B1 = [
       "ja": "告白する",
       "zh": "承认",
       "ru": "исповедовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "confessare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16304",
+    "lang": "it",
     "lemma": "perdente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -926,12 +873,11 @@ const WORDS_IT_B1 = [
       "ja": "負けている",
       "zh": "失败的",
       "ru": "проигравший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16305",
+    "lang": "it",
     "lemma": "esercizio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -946,19 +892,18 @@ const WORDS_IT_B1 = [
       "de": "die Übung",
       "es": "el ejercicio",
       "fr": "l'exercice",
-      "it": "l'esercizio",
+      "it": "l' l'esercizio",
       "pt": "o exercício",
       "ja": "運動",
       "zh": "练习",
       "ru": "упражнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "esercizi"
   },
   {
     "id": "it_16307",
+    "lang": "it",
     "lemma": "melissa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -978,13 +923,12 @@ const WORDS_IT_B1 = [
       "zh": "蜜蜂花",
       "ru": "мелисса"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "melisse"
   },
   {
     "id": "it_16308",
+    "lang": "it",
     "lemma": "intelligenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -998,19 +942,18 @@ const WORDS_IT_B1 = [
       "de": "die Intelligenz",
       "es": "la inteligencia",
       "fr": "l'intelligence",
-      "it": "l'intelligenza",
+      "it": "l' l'intelligenza",
       "pt": "a inteligência",
       "ja": "知能",
       "zh": "智力",
       "ru": "интеллект"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "intelligenze"
   },
   {
     "id": "it_16309",
+    "lang": "it",
     "lemma": "chimica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1030,13 +973,12 @@ const WORDS_IT_B1 = [
       "zh": "化学",
       "ru": "химия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "chimiche"
   },
   {
     "id": "it_16310",
+    "lang": "it",
     "lemma": "spacciatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1057,13 +999,12 @@ const WORDS_IT_B1 = [
       "zh": "毒贩",
       "ru": "наркоторговец"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "spacciatori"
   },
   {
     "id": "it_16311",
+    "lang": "it",
     "lemma": "impressionante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1083,12 +1024,11 @@ const WORDS_IT_B1 = [
       "ja": "印象的な",
       "zh": "令人印象深刻的",
       "ru": "впечатляющий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16312",
+    "lang": "it",
     "lemma": "solare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1108,12 +1048,11 @@ const WORDS_IT_B1 = [
       "ja": "太陽の",
       "zh": "太阳的",
       "ru": "солнечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16313",
+    "lang": "it",
     "lemma": "norma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1134,13 +1073,12 @@ const WORDS_IT_B1 = [
       "zh": "规范",
       "ru": "норма"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "norme"
   },
   {
     "id": "it_16316",
+    "lang": "it",
     "lemma": "circolo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1161,13 +1099,12 @@ const WORDS_IT_B1 = [
       "zh": "圆圈",
       "ru": "круг"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "circoli"
   },
   {
     "id": "it_16317",
+    "lang": "it",
     "lemma": "scontro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1188,13 +1125,12 @@ const WORDS_IT_B1 = [
       "zh": "冲突",
       "ru": "столкновение"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scontri"
   },
   {
     "id": "it_16318",
+    "lang": "it",
     "lemma": "sedile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1215,13 +1151,12 @@ const WORDS_IT_B1 = [
       "zh": "座位",
       "ru": "сиденье"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sedili"
   },
   {
     "id": "it_16319",
+    "lang": "it",
     "lemma": "gonna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1242,13 +1177,12 @@ const WORDS_IT_B1 = [
       "zh": "裙子",
       "ru": "юбка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gonne"
   },
   {
     "id": "it_16320",
+    "lang": "it",
     "lemma": "sposarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -1259,7 +1193,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "결혼하다",
-      "en": "to marry",
+      "en": "marry",
       "de": "heiraten",
       "es": "casarse",
       "fr": "se marier",
@@ -1268,15 +1202,11 @@ const WORDS_IT_B1 = [
       "ja": "結婚する",
       "zh": "结婚",
       "ru": "жениться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sposarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16321",
+    "lang": "it",
     "lemma": "presentazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1296,13 +1226,12 @@ const WORDS_IT_B1 = [
       "zh": "演示",
       "ru": "презентация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "presentazioni"
   },
   {
     "id": "it_16322",
+    "lang": "it",
     "lemma": "cranio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1323,13 +1252,12 @@ const WORDS_IT_B1 = [
       "zh": "颅骨",
       "ru": "череп"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "crani"
   },
   {
     "id": "it_16323",
+    "lang": "it",
     "lemma": "descrizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1350,13 +1278,12 @@ const WORDS_IT_B1 = [
       "zh": "描述",
       "ru": "описание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "descrizioni"
   },
   {
     "id": "it_16324",
+    "lang": "it",
     "lemma": "pallottola",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1377,13 +1304,12 @@ const WORDS_IT_B1 = [
       "zh": "子弹",
       "ru": "пуля"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pallottole"
   },
   {
     "id": "it_16325",
+    "lang": "it",
     "lemma": "gita",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1404,13 +1330,12 @@ const WORDS_IT_B1 = [
       "zh": "短途旅行",
       "ru": "поездка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gite"
   },
   {
     "id": "it_16326",
+    "lang": "it",
     "lemma": "indiano",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1430,12 +1355,11 @@ const WORDS_IT_B1 = [
       "ja": "インドの",
       "zh": "印度的",
       "ru": "индийский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16327",
+    "lang": "it",
     "lemma": "indiano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1450,19 +1374,18 @@ const WORDS_IT_B1 = [
       "de": "der Inder",
       "es": "el indio",
       "fr": "l'Indien",
-      "it": "l'indiano",
+      "it": "l' l'indiano",
       "pt": "o indiano",
       "ja": "インド人",
       "zh": "印度人",
       "ru": "индиец"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "indiani"
   },
   {
     "id": "it_16330",
+    "lang": "it",
     "lemma": "tara",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1482,13 +1405,12 @@ const WORDS_IT_B1 = [
       "zh": "皮重",
       "ru": "тара"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tare"
   },
   {
     "id": "it_16331",
+    "lang": "it",
     "lemma": "cuscino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1509,13 +1431,12 @@ const WORDS_IT_B1 = [
       "zh": "枕头",
       "ru": "подушка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cuscini"
   },
   {
     "id": "it_16332",
+    "lang": "it",
     "lemma": "passera",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1536,13 +1457,12 @@ const WORDS_IT_B1 = [
       "zh": "麻雀",
       "ru": "воробей"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "passere"
   },
   {
     "id": "it_16336",
+    "lang": "it",
     "lemma": "trascorso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1562,13 +1482,12 @@ const WORDS_IT_B1 = [
       "zh": "过失",
       "ru": "проступок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "trascorsi"
   },
   {
     "id": "it_16338",
+    "lang": "it",
     "lemma": "abbassare",
     "pos": "Verb",
     "cefr": "B1",
@@ -1579,7 +1498,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "낮추다",
-      "en": "to lower",
+      "en": "lower",
       "de": "senken",
       "es": "bajar",
       "fr": "abaisser",
@@ -1588,15 +1507,11 @@ const WORDS_IT_B1 = [
       "ja": "下げる",
       "zh": "降低",
       "ru": "опускать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abbassare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16339",
+    "lang": "it",
     "lemma": "cerebrale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1616,12 +1531,11 @@ const WORDS_IT_B1 = [
       "ja": "脳の",
       "zh": "脑的",
       "ru": "церебральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16340",
+    "lang": "it",
     "lemma": "tregua",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1642,13 +1556,12 @@ const WORDS_IT_B1 = [
       "zh": "休战",
       "ru": "перемирие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tregue"
   },
   {
     "id": "it_16342",
+    "lang": "it",
     "lemma": "salvatore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1667,12 +1580,11 @@ const WORDS_IT_B1 = [
       "ja": "救いの",
       "zh": "拯救的",
       "ru": "спасительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16343",
+    "lang": "it",
     "lemma": "salvatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1693,13 +1605,12 @@ const WORDS_IT_B1 = [
       "zh": "救世主",
       "ru": "спаситель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "salvatori"
   },
   {
     "id": "it_16344",
+    "lang": "it",
     "lemma": "ottobre",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1714,19 +1625,17 @@ const WORDS_IT_B1 = [
       "de": "der Oktober",
       "es": "el octubre",
       "fr": "l'octobre",
-      "it": "l'ottobre",
+      "it": "l' l'ottobre",
       "pt": "o outubro",
       "ja": "10月",
       "zh": "十月",
       "ru": "октябрь"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16345",
+    "lang": "it",
     "lemma": "nascere",
     "pos": "Verb",
     "cefr": "B1",
@@ -1746,15 +1655,11 @@ const WORDS_IT_B1 = [
       "ja": "生まれる",
       "zh": "出生",
       "ru": "рождаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nascere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16346",
+    "lang": "it",
     "lemma": "lesbica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1774,13 +1679,12 @@ const WORDS_IT_B1 = [
       "zh": "女同性恋",
       "ru": "лесбиянка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lesbiche"
   },
   {
     "id": "it_16347",
+    "lang": "it",
     "lemma": "autorizzato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1800,12 +1704,11 @@ const WORDS_IT_B1 = [
       "ja": "許可された",
       "zh": "授权的",
       "ru": "авторизованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16348",
+    "lang": "it",
     "lemma": "autorizzato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1819,19 +1722,18 @@ const WORDS_IT_B1 = [
       "de": "der Autorisierte",
       "es": "el autorizado",
       "fr": "l'autorisé",
-      "it": "l'autorizzato",
+      "it": "l' l'autorizzato",
       "pt": "o autorizado",
       "ja": "許可された人",
       "zh": "被授权人",
       "ru": "уполномоченный"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "autorizzati"
   },
   {
     "id": "it_16349",
+    "lang": "it",
     "lemma": "spasso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1851,13 +1753,12 @@ const WORDS_IT_B1 = [
       "zh": "消遣",
       "ru": "развлечение"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "spassi"
   },
   {
     "id": "it_16350",
+    "lang": "it",
     "lemma": "giuramento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1878,13 +1779,12 @@ const WORDS_IT_B1 = [
       "zh": "誓言",
       "ru": "клятва"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "giuramenti"
   },
   {
     "id": "it_16351",
+    "lang": "it",
     "lemma": "terrorista",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1903,12 +1803,11 @@ const WORDS_IT_B1 = [
       "ja": "テロリストの",
       "zh": "恐怖主义的",
       "ru": "террористический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16352",
+    "lang": "it",
     "lemma": "popolazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1929,13 +1828,12 @@ const WORDS_IT_B1 = [
       "zh": "人口",
       "ru": "население"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "popolazioni"
   },
   {
     "id": "it_16354",
+    "lang": "it",
     "lemma": "scordato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -1954,12 +1852,11 @@ const WORDS_IT_B1 = [
       "ja": "調子が外れた",
       "zh": "走调的",
       "ru": "расстроенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16356",
+    "lang": "it",
     "lemma": "circo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -1979,13 +1876,12 @@ const WORDS_IT_B1 = [
       "zh": "马戏团",
       "ru": "цирк"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "circhi"
   },
   {
     "id": "it_16357",
+    "lang": "it",
     "lemma": "spedito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2005,12 +1901,11 @@ const WORDS_IT_B1 = [
       "ja": "発送された",
       "zh": "已发送的",
       "ru": "отправленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16358",
+    "lang": "it",
     "lemma": "sepolto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2030,12 +1925,11 @@ const WORDS_IT_B1 = [
       "ja": "埋葬された",
       "zh": "埋葬的",
       "ru": "похороненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16359",
+    "lang": "it",
     "lemma": "sepolto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2055,13 +1949,12 @@ const WORDS_IT_B1 = [
       "zh": "被埋葬者",
       "ru": "похороненный"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sepolti"
   },
   {
     "id": "it_16360",
+    "lang": "it",
     "lemma": "testamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2082,13 +1975,12 @@ const WORDS_IT_B1 = [
       "zh": "遗嘱",
       "ru": "завещание"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "testamenti"
   },
   {
     "id": "it_16361",
+    "lang": "it",
     "lemma": "moneta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2109,13 +2001,12 @@ const WORDS_IT_B1 = [
       "zh": "硬币",
       "ru": "монета"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "monete"
   },
   {
     "id": "it_16362",
+    "lang": "it",
     "lemma": "stabilire",
     "pos": "Verb",
     "cefr": "B1",
@@ -2135,15 +2026,11 @@ const WORDS_IT_B1 = [
       "ja": "確立する",
       "zh": "建立",
       "ru": "устанавливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stabilire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16363",
+    "lang": "it",
     "lemma": "seminterrato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2163,13 +2050,12 @@ const WORDS_IT_B1 = [
       "zh": "半地下室",
       "ru": "полуподвал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "seminterrati"
   },
   {
     "id": "it_16364",
+    "lang": "it",
     "lemma": "won",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2190,13 +2076,11 @@ const WORDS_IT_B1 = [
       "zh": "韩元",
       "ru": "вона"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16366",
+    "lang": "it",
     "lemma": "preda",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2216,13 +2100,12 @@ const WORDS_IT_B1 = [
       "zh": "猎物",
       "ru": "добыча"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "prede"
   },
   {
     "id": "it_16368",
+    "lang": "it",
     "lemma": "rissa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2243,13 +2126,12 @@ const WORDS_IT_B1 = [
       "zh": "斗殴",
       "ru": "драка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "risse"
   },
   {
     "id": "it_16369",
+    "lang": "it",
     "lemma": "stufa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2270,13 +2152,12 @@ const WORDS_IT_B1 = [
       "zh": "火炉",
       "ru": "печь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "stufe"
   },
   {
     "id": "it_16370",
+    "lang": "it",
     "lemma": "rivolta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2296,13 +2177,12 @@ const WORDS_IT_B1 = [
       "zh": "反抗",
       "ru": "восстание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rivolte"
   },
   {
     "id": "it_16371",
+    "lang": "it",
     "lemma": "campanello",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2323,13 +2203,12 @@ const WORDS_IT_B1 = [
       "zh": "门铃",
       "ru": "звонок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "campanelli"
   },
   {
     "id": "it_16373",
+    "lang": "it",
     "lemma": "fondamentale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2348,12 +2227,11 @@ const WORDS_IT_B1 = [
       "ja": "根本的な",
       "zh": "基本的",
       "ru": "фундаментальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16374",
+    "lang": "it",
     "lemma": "fondamentale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2373,13 +2251,12 @@ const WORDS_IT_B1 = [
       "zh": "基本功",
       "ru": "основа"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fondamentali"
   },
   {
     "id": "it_16375",
+    "lang": "it",
     "lemma": "stabilito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2398,12 +2275,11 @@ const WORDS_IT_B1 = [
       "ja": "確立された",
       "zh": "既定的",
       "ru": "установленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16376",
+    "lang": "it",
     "lemma": "stabilito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2423,13 +2299,11 @@ const WORDS_IT_B1 = [
       "zh": "既定事项",
       "ru": "установленное"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_16377",
+    "lang": "it",
     "lemma": "conclusione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2449,13 +2323,12 @@ const WORDS_IT_B1 = [
       "zh": "结论",
       "ru": "заключение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "conclusioni"
   },
   {
     "id": "it_16378",
+    "lang": "it",
     "lemma": "logica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2475,13 +2348,12 @@ const WORDS_IT_B1 = [
       "zh": "逻辑",
       "ru": "логика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "logiche"
   },
   {
     "id": "it_16379",
+    "lang": "it",
     "lemma": "lavare",
     "pos": "Verb",
     "cefr": "B1",
@@ -2492,7 +2364,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "씻다",
-      "en": "to wash",
+      "en": "wash",
       "de": "waschen",
       "es": "lavar",
       "fr": "laver",
@@ -2501,17 +2373,14 @@ const WORDS_IT_B1 = [
       "ja": "洗う",
       "zh": "洗",
       "ru": "мыть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lavare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16382",
+    "lang": "it",
     "lemma": "aprile",
     "pos": "Nomen",
+    "article": "l'",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -2522,21 +2391,18 @@ const WORDS_IT_B1 = [
       "ko": "4월",
       "en": "April",
       "de": "der April",
-      "es": "abril",
-      "fr": "avril",
-      "it": "l'aprile",
-      "pt": "abril",
+      "es": "el abril",
+      "fr": "l'avril",
+      "it": "l' l'aprile",
+      "pt": "o abril",
       "ja": "4月",
       "zh": "四月",
       "ru": "апрель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    }
   },
   {
     "id": "it_16383",
+    "lang": "it",
     "lemma": "informatore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2556,12 +2422,11 @@ const WORDS_IT_B1 = [
       "ja": "情報を提供する",
       "zh": "提供信息的",
       "ru": "информативный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16385",
+    "lang": "it",
     "lemma": "volume",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2581,13 +2446,12 @@ const WORDS_IT_B1 = [
       "zh": "体积",
       "ru": "объем"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "volumi"
   },
   {
     "id": "it_16386",
+    "lang": "it",
     "lemma": "generoso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2607,12 +2471,11 @@ const WORDS_IT_B1 = [
       "ja": "寛大な",
       "zh": "慷慨的",
       "ru": "щедрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16387",
+    "lang": "it",
     "lemma": "veronica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2632,13 +2495,11 @@ const WORDS_IT_B1 = [
       "zh": "婆婆纳",
       "ru": "вероника"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16389",
+    "lang": "it",
     "lemma": "interrotto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2658,12 +2519,11 @@ const WORDS_IT_B1 = [
       "ja": "中断された",
       "zh": "中断的",
       "ru": "прерванный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16390",
+    "lang": "it",
     "lemma": "straniero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2683,12 +2543,11 @@ const WORDS_IT_B1 = [
       "ja": "外国の",
       "zh": "外国的",
       "ru": "иностранный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16391",
+    "lang": "it",
     "lemma": "misterioso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2708,12 +2567,11 @@ const WORDS_IT_B1 = [
       "ja": "神秘的な",
       "zh": "神秘的",
       "ru": "таинственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16393",
+    "lang": "it",
     "lemma": "spingere",
     "pos": "Verb",
     "cefr": "B1",
@@ -2724,7 +2582,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "밀다",
-      "en": "to push",
+      "en": "push",
       "de": "schieben",
       "es": "empujar",
       "fr": "pousser",
@@ -2733,15 +2591,11 @@ const WORDS_IT_B1 = [
       "ja": "押す",
       "zh": "推",
       "ru": "толкать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spingere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16395",
+    "lang": "it",
     "lemma": "scandalo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2761,13 +2615,12 @@ const WORDS_IT_B1 = [
       "zh": "丑闻",
       "ru": "скандал"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scandali"
   },
   {
     "id": "it_16396",
+    "lang": "it",
     "lemma": "occuparsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -2778,7 +2631,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "다루다",
-      "en": "to deal with",
+      "en": "deal with",
       "de": "sich kümmern um",
       "es": "ocuparse",
       "fr": "s'occuper",
@@ -2787,15 +2640,11 @@ const WORDS_IT_B1 = [
       "ja": "担当する",
       "zh": "负责",
       "ru": "заниматься"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "occuparsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16397",
+    "lang": "it",
     "lemma": "viola",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2815,12 +2664,11 @@ const WORDS_IT_B1 = [
       "ja": "紫色の",
       "zh": "紫色的",
       "ru": "фиолетовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16398",
+    "lang": "it",
     "lemma": "viola",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2841,13 +2689,11 @@ const WORDS_IT_B1 = [
       "zh": "紫色",
       "ru": "фиолетовый"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16399",
+    "lang": "it",
     "lemma": "custode",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -2867,12 +2713,11 @@ const WORDS_IT_B1 = [
       "ja": "守護する",
       "zh": "守护的",
       "ru": "хранитель"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16401",
+    "lang": "it",
     "lemma": "sostanza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2893,13 +2738,12 @@ const WORDS_IT_B1 = [
       "zh": "物质",
       "ru": "вещество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sostanze"
   },
   {
     "id": "it_16402",
+    "lang": "it",
     "lemma": "lutto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2919,13 +2763,12 @@ const WORDS_IT_B1 = [
       "zh": "哀悼",
       "ru": "траур"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "lutti"
   },
   {
     "id": "it_16404",
+    "lang": "it",
     "lemma": "campus",
     "pos": "Nomen",
     "cefr": "B1",
@@ -2946,13 +2789,11 @@ const WORDS_IT_B1 = [
       "zh": "校园",
       "ru": "кампус"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16405",
+    "lang": "it",
     "lemma": "riflettere",
     "pos": "Verb",
     "cefr": "B1",
@@ -2972,15 +2813,11 @@ const WORDS_IT_B1 = [
       "ja": "反映する",
       "zh": "反映",
       "ru": "отражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "riflettere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16406",
+    "lang": "it",
     "lemma": "confermare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3000,15 +2837,11 @@ const WORDS_IT_B1 = [
       "ja": "確認する",
       "zh": "确认",
       "ru": "подтверждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "confermare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16407",
+    "lang": "it",
     "lemma": "medio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3028,12 +2861,11 @@ const WORDS_IT_B1 = [
       "ja": "中間の",
       "zh": "中间的",
       "ru": "средний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16408",
+    "lang": "it",
     "lemma": "medio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3053,13 +2885,11 @@ const WORDS_IT_B1 = [
       "zh": "中指",
       "ru": "средний палец"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16409",
+    "lang": "it",
     "lemma": "divertirsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -3079,15 +2909,11 @@ const WORDS_IT_B1 = [
       "ja": "楽しむ",
       "zh": "玩得开心",
       "ru": "развлекаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "divertirsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16411",
+    "lang": "it",
     "lemma": "scontato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3107,12 +2933,11 @@ const WORDS_IT_B1 = [
       "ja": "割引された",
       "zh": "打折的",
       "ru": "со скидкой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16412",
+    "lang": "it",
     "lemma": "cassetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3133,13 +2958,12 @@ const WORDS_IT_B1 = [
       "zh": "抽屉",
       "ru": "ящик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cassetti"
   },
   {
     "id": "it_16413",
+    "lang": "it",
     "lemma": "causare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3159,15 +2983,11 @@ const WORDS_IT_B1 = [
       "ja": "引き起こす",
       "zh": "引起",
       "ru": "вызывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "causare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16414",
+    "lang": "it",
     "lemma": "concetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3188,13 +3008,12 @@ const WORDS_IT_B1 = [
       "zh": "概念",
       "ru": "концепция"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "concetti"
   },
   {
     "id": "it_16415",
+    "lang": "it",
     "lemma": "psicopatico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3213,12 +3032,11 @@ const WORDS_IT_B1 = [
       "ja": "精神病質の",
       "zh": "精神病的",
       "ru": "психопатический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16416",
+    "lang": "it",
     "lemma": "sostenere",
     "pos": "Verb",
     "cefr": "B1",
@@ -3238,15 +3056,11 @@ const WORDS_IT_B1 = [
       "ja": "支える",
       "zh": "支持",
       "ru": "поддерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sostenere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16417",
+    "lang": "it",
     "lemma": "cenare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3266,15 +3080,11 @@ const WORDS_IT_B1 = [
       "ja": "夕食をとる",
       "zh": "吃晚饭",
       "ru": "ужинать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cenare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16419",
+    "lang": "it",
     "lemma": "equilibrio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3289,19 +3099,18 @@ const WORDS_IT_B1 = [
       "de": "das Gleichgewicht",
       "es": "el equilibrio",
       "fr": "l'équilibre",
-      "it": "l'equilibrio",
+      "it": "l' l'equilibrio",
       "pt": "o equilíbrio",
       "ja": "均衡",
       "zh": "平衡",
       "ru": "равновесие"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "equilibri"
   },
   {
     "id": "it_16420",
+    "lang": "it",
     "lemma": "abilità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3316,19 +3125,17 @@ const WORDS_IT_B1 = [
       "de": "die Fähigkeit",
       "es": "la habilidad",
       "fr": "l'habileté",
-      "it": "l'abilità",
+      "it": "l' l'abilità",
       "pt": "a habilidade",
       "ja": "能力",
       "zh": "能力",
       "ru": "способность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16422",
+    "lang": "it",
     "lemma": "pub",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3349,13 +3156,11 @@ const WORDS_IT_B1 = [
       "zh": "酒吧",
       "ru": "паб"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16423",
+    "lang": "it",
     "lemma": "aumentare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3375,15 +3180,11 @@ const WORDS_IT_B1 = [
       "ja": "増加する",
       "zh": "增加",
       "ru": "увеличивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aumentare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16424",
+    "lang": "it",
     "lemma": "svelto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3402,12 +3203,11 @@ const WORDS_IT_B1 = [
       "ja": "素早い",
       "zh": "敏捷的",
       "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16425",
+    "lang": "it",
     "lemma": "risparmiare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3427,15 +3227,11 @@ const WORDS_IT_B1 = [
       "ja": "節約する",
       "zh": "节省",
       "ru": "экономить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "risparmiare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16426",
+    "lang": "it",
     "lemma": "malvagio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3454,12 +3250,11 @@ const WORDS_IT_B1 = [
       "ja": "邪悪な",
       "zh": "邪恶的",
       "ru": "злой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16427",
+    "lang": "it",
     "lemma": "malvagio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3479,13 +3274,12 @@ const WORDS_IT_B1 = [
       "zh": "恶人",
       "ru": "злодей"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "malvagi"
   },
   {
     "id": "it_16428",
+    "lang": "it",
     "lemma": "vagina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3505,13 +3299,12 @@ const WORDS_IT_B1 = [
       "zh": "阴道",
       "ru": "влагалище"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vagine"
   },
   {
     "id": "it_16430",
+    "lang": "it",
     "lemma": "zaino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3532,13 +3325,12 @@ const WORDS_IT_B1 = [
       "zh": "背包",
       "ru": "рюкзак"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "zaini"
   },
   {
     "id": "it_16431",
+    "lang": "it",
     "lemma": "umorismo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3553,19 +3345,17 @@ const WORDS_IT_B1 = [
       "de": "der Humor",
       "es": "el humor",
       "fr": "l'humour",
-      "it": "l'umorismo",
+      "it": "l' l'umorismo",
       "pt": "o humor",
       "ja": "ユーモア",
       "zh": "幽默",
       "ru": "юмор"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16432",
+    "lang": "it",
     "lemma": "microfono",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3585,13 +3375,12 @@ const WORDS_IT_B1 = [
       "zh": "麦克风",
       "ru": "микрофон"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "microfoni"
   },
   {
     "id": "it_16433",
+    "lang": "it",
     "lemma": "consapevole",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3611,12 +3400,11 @@ const WORDS_IT_B1 = [
       "ja": "意識している",
       "zh": "意识到的",
       "ru": "осознающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16434",
+    "lang": "it",
     "lemma": "attrezzatura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3631,19 +3419,18 @@ const WORDS_IT_B1 = [
       "de": "die Ausrüstung",
       "es": "el equipo",
       "fr": "l'équipement",
-      "it": "l'attrezzatura",
+      "it": "l' l'attrezzatura",
       "pt": "o equipamento",
       "ja": "設備",
       "zh": "设备",
       "ru": "оборудование"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "attrezzature"
   },
   {
     "id": "it_16435",
+    "lang": "it",
     "lemma": "spendere",
     "pos": "Verb",
     "cefr": "B1",
@@ -3654,7 +3441,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "소비하다",
-      "en": "to spend",
+      "en": "spend",
       "de": "ausgeben",
       "es": "gastar",
       "fr": "dépenser",
@@ -3663,15 +3450,11 @@ const WORDS_IT_B1 = [
       "ja": "使う",
       "zh": "花费",
       "ru": "тратить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spendere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16436",
+    "lang": "it",
     "lemma": "sprecare",
     "pos": "Verb",
     "cefr": "B1",
@@ -3681,7 +3464,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "낭비하다",
-      "en": "to waste",
+      "en": "waste",
       "de": "verschwenden",
       "es": "desperdiciar",
       "fr": "gaspiller",
@@ -3690,15 +3473,11 @@ const WORDS_IT_B1 = [
       "ja": "無駄にする",
       "zh": "浪费",
       "ru": "тратить впустую"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sprecare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16438",
+    "lang": "it",
     "lemma": "industria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3712,19 +3491,18 @@ const WORDS_IT_B1 = [
       "de": "die Industrie",
       "es": "la industria",
       "fr": "l'industrie",
-      "it": "l'industria",
+      "it": "l' l'industria",
       "pt": "a indústria",
       "ja": "産業",
       "zh": "工业",
       "ru": "промышленность"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "industrie"
   },
   {
     "id": "it_16439",
+    "lang": "it",
     "lemma": "sorte",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3744,13 +3522,12 @@ const WORDS_IT_B1 = [
       "zh": "命运",
       "ru": "судьба"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sorti"
   },
   {
     "id": "it_16443",
+    "lang": "it",
     "lemma": "ciclo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3771,13 +3548,12 @@ const WORDS_IT_B1 = [
       "zh": "周期",
       "ru": "цикл"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cicli"
   },
   {
     "id": "it_16444",
+    "lang": "it",
     "lemma": "opposto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3797,12 +3573,11 @@ const WORDS_IT_B1 = [
       "ja": "反対の",
       "zh": "相反的",
       "ru": "противоположный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16447",
+    "lang": "it",
     "lemma": "sentiero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3823,13 +3598,12 @@ const WORDS_IT_B1 = [
       "zh": "小路",
       "ru": "тропа"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sentieri"
   },
   {
     "id": "it_16448",
+    "lang": "it",
     "lemma": "preoccupazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3850,13 +3624,12 @@ const WORDS_IT_B1 = [
       "zh": "担忧",
       "ru": "беспокойство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "preoccupazioni"
   },
   {
     "id": "it_16449",
+    "lang": "it",
     "lemma": "bagagliaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3877,13 +3650,12 @@ const WORDS_IT_B1 = [
       "zh": "后备箱",
       "ru": "багажник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "bagagliai"
   },
   {
     "id": "it_16450",
+    "lang": "it",
     "lemma": "ripresa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3904,13 +3676,12 @@ const WORDS_IT_B1 = [
       "zh": "恢复",
       "ru": "возобновление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "riprese"
   },
   {
     "id": "it_16452",
+    "lang": "it",
     "lemma": "acido",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -3930,12 +3701,11 @@ const WORDS_IT_B1 = [
       "ja": "酸っぱい",
       "zh": "酸的",
       "ru": "кислый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16453",
+    "lang": "it",
     "lemma": "acido",
     "pos": "Nomen",
     "cefr": "B1",
@@ -3949,19 +3719,18 @@ const WORDS_IT_B1 = [
       "de": "die Säure",
       "es": "el ácido",
       "fr": "l'acide",
-      "it": "l'acido",
+      "it": "l' l'acido",
       "pt": "o ácido",
       "ja": "酸",
       "zh": "酸",
       "ru": "кислота"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "acidi"
   },
   {
     "id": "it_16454",
+    "lang": "it",
     "lemma": "accedere",
     "pos": "Verb",
     "cefr": "B1",
@@ -3981,15 +3750,11 @@ const WORDS_IT_B1 = [
       "ja": "アクセスする",
       "zh": "访问",
       "ru": "получать доступ"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "accedere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16455",
+    "lang": "it",
     "lemma": "attirare",
     "pos": "Verb",
     "cefr": "B1",
@@ -4009,15 +3774,11 @@ const WORDS_IT_B1 = [
       "ja": "引き付ける",
       "zh": "吸引",
       "ru": "привлекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "attirare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16456",
+    "lang": "it",
     "lemma": "alcool",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4032,19 +3793,17 @@ const WORDS_IT_B1 = [
       "de": "der Alkohol",
       "es": "el alcohol",
       "fr": "l'alcool",
-      "it": "l'alcool",
+      "it": "l' l'alcool",
       "pt": "o álcool",
       "ja": "アルコール",
       "zh": "酒精",
       "ru": "алкоголь"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16457",
+    "lang": "it",
     "lemma": "benedizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4064,13 +3823,12 @@ const WORDS_IT_B1 = [
       "zh": "祝福",
       "ru": "благословение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "benedizioni"
   },
   {
     "id": "it_16458",
+    "lang": "it",
     "lemma": "adolescente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4090,12 +3848,11 @@ const WORDS_IT_B1 = [
       "ja": "思春期の",
       "zh": "青春期的",
       "ru": "подростковый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16459",
+    "lang": "it",
     "lemma": "copione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4116,13 +3873,12 @@ const WORDS_IT_B1 = [
       "zh": "剧本",
       "ru": "сценарий"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "copioni"
   },
   {
     "id": "it_16460",
+    "lang": "it",
     "lemma": "talpa",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4141,12 +3897,11 @@ const WORDS_IT_B1 = [
       "ja": "モグラ色の",
       "zh": "鼹鼠灰",
       "ru": "серо-коричневый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16462",
+    "lang": "it",
     "lemma": "eccezione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4160,19 +3915,18 @@ const WORDS_IT_B1 = [
       "de": "die Ausnahme",
       "es": "la excepción",
       "fr": "l'exception",
-      "it": "l'eccezione",
+      "it": "l' l'eccezione",
       "pt": "a exceção",
       "ja": "例外",
       "zh": "例外",
       "ru": "исключение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "eccezioni"
   },
   {
     "id": "it_16463",
+    "lang": "it",
     "lemma": "maglia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4192,13 +3946,12 @@ const WORDS_IT_B1 = [
       "zh": "运动衫",
       "ru": "майка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maglie"
   },
   {
     "id": "it_16464",
+    "lang": "it",
     "lemma": "rivelato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4217,12 +3970,11 @@ const WORDS_IT_B1 = [
       "ja": "明らかにされた",
       "zh": "揭示的",
       "ru": "раскрытый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16465",
+    "lang": "it",
     "lemma": "positiva",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4242,13 +3994,12 @@ const WORDS_IT_B1 = [
       "zh": "阳性检测",
       "ru": "положительный тест"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "positive"
   },
   {
     "id": "it_16468",
+    "lang": "it",
     "lemma": "vacca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4269,13 +4020,12 @@ const WORDS_IT_B1 = [
       "zh": "母牛",
       "ru": "корова"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vacche"
   },
   {
     "id": "it_16469",
+    "lang": "it",
     "lemma": "soddisfatto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4295,12 +4045,11 @@ const WORDS_IT_B1 = [
       "ja": "満足した",
       "zh": "满意的",
       "ru": "довольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16470",
+    "lang": "it",
     "lemma": "pozzo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4320,13 +4069,12 @@ const WORDS_IT_B1 = [
       "zh": "井",
       "ru": "колодец"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pozzi"
   },
   {
     "id": "it_16471",
+    "lang": "it",
     "lemma": "sindrome",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4346,13 +4094,12 @@ const WORDS_IT_B1 = [
       "zh": "综合征",
       "ru": "синдром"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sindromi"
   },
   {
     "id": "it_16472",
+    "lang": "it",
     "lemma": "costoso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4372,12 +4119,11 @@ const WORDS_IT_B1 = [
       "ja": "高価な",
       "zh": "昂贵的",
       "ru": "дорогой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16473",
+    "lang": "it",
     "lemma": "assegnato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4396,12 +4142,11 @@ const WORDS_IT_B1 = [
       "ja": "割り当てられた",
       "zh": "分配的",
       "ru": "назначенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16474",
+    "lang": "it",
     "lemma": "assegnato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4415,19 +4160,18 @@ const WORDS_IT_B1 = [
       "de": "der Empfänger",
       "es": "el asignado",
       "fr": "l'attributaire",
-      "it": "l'assegnato",
+      "it": "l' l'assegnato",
       "pt": "o atribuído",
       "ja": "受託者",
       "zh": "受让人",
       "ru": "получатель"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "assegnati"
   },
   {
     "id": "it_16475",
+    "lang": "it",
     "lemma": "dipendente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4447,12 +4191,11 @@ const WORDS_IT_B1 = [
       "ja": "依存した",
       "zh": "依赖的",
       "ru": "зависимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16476",
+    "lang": "it",
     "lemma": "dipendente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4473,13 +4216,11 @@ const WORDS_IT_B1 = [
       "zh": "员工",
       "ru": "сотрудник"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16477",
+    "lang": "it",
     "lemma": "coro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4499,13 +4240,12 @@ const WORDS_IT_B1 = [
       "zh": "合唱团",
       "ru": "хор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cori"
   },
   {
     "id": "it_16478",
+    "lang": "it",
     "lemma": "dieta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4526,13 +4266,12 @@ const WORDS_IT_B1 = [
       "zh": "饮食",
       "ru": "диета"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "diete"
   },
   {
     "id": "it_16479",
+    "lang": "it",
     "lemma": "debolezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4552,13 +4291,12 @@ const WORDS_IT_B1 = [
       "zh": "弱点",
       "ru": "слабость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "debolezze"
   },
   {
     "id": "it_16480",
+    "lang": "it",
     "lemma": "corea",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4578,13 +4316,12 @@ const WORDS_IT_B1 = [
       "zh": "舞蹈病",
       "ru": "хорея"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "coree"
   },
   {
     "id": "it_16481",
+    "lang": "it",
     "lemma": "patria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4604,13 +4341,12 @@ const WORDS_IT_B1 = [
       "zh": "祖国",
       "ru": "родина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "patrie"
   },
   {
     "id": "it_16482",
+    "lang": "it",
     "lemma": "compassione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4630,13 +4366,12 @@ const WORDS_IT_B1 = [
       "zh": "同情",
       "ru": "сострадание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "compassioni"
   },
   {
     "id": "it_16483",
+    "lang": "it",
     "lemma": "truffa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4656,13 +4391,12 @@ const WORDS_IT_B1 = [
       "zh": "欺诈",
       "ru": "мошенничество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "truffe"
   },
   {
     "id": "it_16484",
+    "lang": "it",
     "lemma": "ira",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4676,19 +4410,17 @@ const WORDS_IT_B1 = [
       "de": "der Zorn",
       "es": "la ira",
       "fr": "la colère",
-      "it": "l'ira",
+      "it": "l' l'ira",
       "pt": "a ira",
       "ja": "怒り",
       "zh": "愤怒",
       "ru": "гнев"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16485",
+    "lang": "it",
     "lemma": "cacchio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4708,13 +4440,12 @@ const WORDS_IT_B1 = [
       "zh": "芽",
       "ru": "росток"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cacchi"
   },
   {
     "id": "it_16488",
+    "lang": "it",
     "lemma": "parete",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4735,13 +4466,12 @@ const WORDS_IT_B1 = [
       "zh": "墙",
       "ru": "стена"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pareti"
   },
   {
     "id": "it_16489",
+    "lang": "it",
     "lemma": "giunta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4761,13 +4491,12 @@ const WORDS_IT_B1 = [
       "zh": "委员会",
       "ru": "хунта"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "giunte"
   },
   {
     "id": "it_16490",
+    "lang": "it",
     "lemma": "mucca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4788,13 +4517,12 @@ const WORDS_IT_B1 = [
       "zh": "奶牛",
       "ru": "корова"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mucche"
   },
   {
     "id": "it_16492",
+    "lang": "it",
     "lemma": "corrotto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4813,12 +4541,11 @@ const WORDS_IT_B1 = [
       "ja": "腐敗した",
       "zh": "腐败的",
       "ru": "коррумпированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16493",
+    "lang": "it",
     "lemma": "noia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4839,13 +4566,12 @@ const WORDS_IT_B1 = [
       "zh": "无聊",
       "ru": "скука"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "noie"
   },
   {
     "id": "it_16494",
+    "lang": "it",
     "lemma": "apparire",
     "pos": "Verb",
     "cefr": "B1",
@@ -4864,15 +4590,11 @@ const WORDS_IT_B1 = [
       "ja": "現れる",
       "zh": "出现",
       "ru": "появляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "apparire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16495",
+    "lang": "it",
     "lemma": "sfigato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -4891,12 +4613,11 @@ const WORDS_IT_B1 = [
       "ja": "不運な",
       "zh": "倒霉的",
       "ru": "неудачливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16496",
+    "lang": "it",
     "lemma": "sfigato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4916,13 +4637,12 @@ const WORDS_IT_B1 = [
       "zh": "失败者",
       "ru": "неудачник"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "sfigati"
   },
   {
     "id": "it_16498",
+    "lang": "it",
     "lemma": "guarire",
     "pos": "Verb",
     "cefr": "B1",
@@ -4941,15 +4661,11 @@ const WORDS_IT_B1 = [
       "ja": "治す",
       "zh": "治愈",
       "ru": "лечить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "guarire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16499",
+    "lang": "it",
     "lemma": "crescendo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -4969,13 +4685,11 @@ const WORDS_IT_B1 = [
       "zh": "渐强",
       "ru": "крещендо"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16500",
+    "lang": "it",
     "lemma": "realizzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -4995,15 +4709,11 @@ const WORDS_IT_B1 = [
       "ja": "実現する",
       "zh": "实现",
       "ru": "реализовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "realizzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16501",
+    "lang": "it",
     "lemma": "immobiliare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5022,12 +4732,11 @@ const WORDS_IT_B1 = [
       "ja": "不動産の",
       "zh": "房地产的",
       "ru": "недвижимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16504",
+    "lang": "it",
     "lemma": "quinta",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5046,12 +4755,11 @@ const WORDS_IT_B1 = [
       "ja": "5番目の",
       "zh": "第五",
       "ru": "пятый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16506",
+    "lang": "it",
     "lemma": "cesso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5071,13 +4779,12 @@ const WORDS_IT_B1 = [
       "zh": "马桶",
       "ru": "туалет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cessi"
   },
   {
     "id": "it_16507",
+    "lang": "it",
     "lemma": "licenziare",
     "pos": "Verb",
     "cefr": "B1",
@@ -5088,7 +4795,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "해고하다",
-      "en": "to fire",
+      "en": "fire",
       "de": "entlassen",
       "es": "despedir",
       "fr": "licencier",
@@ -5097,15 +4804,11 @@ const WORDS_IT_B1 = [
       "ja": "解雇する",
       "zh": "解雇",
       "ru": "увольнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "licenziare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16508",
+    "lang": "it",
     "lemma": "guaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5126,13 +4829,12 @@ const WORDS_IT_B1 = [
       "zh": "麻烦",
       "ru": "беда"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "guai"
   },
   {
     "id": "it_16509",
+    "lang": "it",
     "lemma": "giungla",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5153,13 +4855,12 @@ const WORDS_IT_B1 = [
       "zh": "丛林",
       "ru": "джунгли"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "giungle"
   },
   {
     "id": "it_16510",
+    "lang": "it",
     "lemma": "unito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5178,12 +4879,11 @@ const WORDS_IT_B1 = [
       "ja": "結合した",
       "zh": "联合的",
       "ru": "объединенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16511",
+    "lang": "it",
     "lemma": "gridare",
     "pos": "Verb",
     "cefr": "B1",
@@ -5194,7 +4894,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "소리치다",
-      "en": "to shout",
+      "en": "shout",
       "de": "schreien",
       "es": "gritar",
       "fr": "crier",
@@ -5203,15 +4903,11 @@ const WORDS_IT_B1 = [
       "ja": "叫ぶ",
       "zh": "喊叫",
       "ru": "кричать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gridare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16512",
+    "lang": "it",
     "lemma": "doloroso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5230,12 +4926,11 @@ const WORDS_IT_B1 = [
       "ja": "痛い",
       "zh": "痛苦的",
       "ru": "болезненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16513",
+    "lang": "it",
     "lemma": "elenco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5250,19 +4945,18 @@ const WORDS_IT_B1 = [
       "de": "die Liste",
       "es": "la lista",
       "fr": "la liste",
-      "it": "l'elenco",
+      "it": "l' l'elenco",
       "pt": "a lista",
       "ja": "リスト",
       "zh": "列表",
       "ru": "список"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "elenchi"
   },
   {
     "id": "it_16515",
+    "lang": "it",
     "lemma": "canna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5282,13 +4976,12 @@ const WORDS_IT_B1 = [
       "zh": "芦苇",
       "ru": "тростник"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "canne"
   },
   {
     "id": "it_16518",
+    "lang": "it",
     "lemma": "salotto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5309,13 +5002,12 @@ const WORDS_IT_B1 = [
       "zh": "客厅",
       "ru": "гостиная"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "salotti"
   },
   {
     "id": "it_16520",
+    "lang": "it",
     "lemma": "cacciare",
     "pos": "Verb",
     "cefr": "B1",
@@ -5325,7 +5017,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "사냥하다",
-      "en": "to hunt",
+      "en": "hunt",
       "de": "jagen",
       "es": "cazar",
       "fr": "chasser",
@@ -5334,15 +5026,11 @@ const WORDS_IT_B1 = [
       "ja": "狩る",
       "zh": "狩猎",
       "ru": "охотиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cacciare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16521",
+    "lang": "it",
     "lemma": "specifico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5361,12 +5049,11 @@ const WORDS_IT_B1 = [
       "ja": "特定の",
       "zh": "特定的",
       "ru": "специфический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16522",
+    "lang": "it",
     "lemma": "specifico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5386,13 +5073,11 @@ const WORDS_IT_B1 = [
       "zh": "特点",
       "ru": "специфика"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_16523",
+    "lang": "it",
     "lemma": "autore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5407,19 +5092,18 @@ const WORDS_IT_B1 = [
       "de": "der Autor",
       "es": "el autor",
       "fr": "l'auteur",
-      "it": "l'autore",
+      "it": "l' l'autore",
       "pt": "o autor",
       "ja": "著者",
       "zh": "作者",
       "ru": "автор"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "autori"
   },
   {
     "id": "it_16527",
+    "lang": "it",
     "lemma": "sperma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5439,13 +5123,12 @@ const WORDS_IT_B1 = [
       "zh": "精液",
       "ru": "сперма"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "spermi"
   },
   {
     "id": "it_16529",
+    "lang": "it",
     "lemma": "riempire",
     "pos": "Verb",
     "cefr": "B1",
@@ -5456,7 +5139,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "채우다",
-      "en": "to fill",
+      "en": "fill",
       "de": "füllen",
       "es": "llenar",
       "fr": "remplir",
@@ -5465,15 +5148,11 @@ const WORDS_IT_B1 = [
       "ja": "満たす",
       "zh": "填充",
       "ru": "заполнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "riempire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16530",
+    "lang": "it",
     "lemma": "combinazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5493,13 +5172,12 @@ const WORDS_IT_B1 = [
       "zh": "组合",
       "ru": "комбинация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "combinazioni"
   },
   {
     "id": "it_16531",
+    "lang": "it",
     "lemma": "rischioso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5518,12 +5196,11 @@ const WORDS_IT_B1 = [
       "ja": "危険な",
       "zh": "危险的",
       "ru": "рискованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16533",
+    "lang": "it",
     "lemma": "jeans",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5544,13 +5221,11 @@ const WORDS_IT_B1 = [
       "zh": "牛仔裤",
       "ru": "джинсы"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16534",
+    "lang": "it",
     "lemma": "conseguenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5570,13 +5245,12 @@ const WORDS_IT_B1 = [
       "zh": "后果",
       "ru": "последствие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "conseguenze"
   },
   {
     "id": "it_16535",
+    "lang": "it",
     "lemma": "lettura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5597,13 +5271,12 @@ const WORDS_IT_B1 = [
       "zh": "阅读",
       "ru": "чтение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "letture"
   },
   {
     "id": "it_16536",
+    "lang": "it",
     "lemma": "molla",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5623,13 +5296,12 @@ const WORDS_IT_B1 = [
       "zh": "弹簧",
       "ru": "пружина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "molle"
   },
   {
     "id": "it_16537",
+    "lang": "it",
     "lemma": "condotta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5650,13 +5322,12 @@ const WORDS_IT_B1 = [
       "zh": "行为",
       "ru": "поведение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "condotte"
   },
   {
     "id": "it_16538",
+    "lang": "it",
     "lemma": "scienziato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5677,13 +5348,12 @@ const WORDS_IT_B1 = [
       "zh": "科学家",
       "ru": "учёный"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scienziati"
   },
   {
     "id": "it_16540",
+    "lang": "it",
     "lemma": "azzardo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5697,19 +5367,18 @@ const WORDS_IT_B1 = [
       "de": "das Risiko",
       "es": "el riesgo",
       "fr": "le hasard",
-      "it": "l'azzardo",
+      "it": "l' l'azzardo",
       "pt": "o risco",
       "ja": "危険",
       "zh": "冒险",
       "ru": "риск"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "azzardi"
   },
   {
     "id": "it_16541",
+    "lang": "it",
     "lemma": "anziano",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5729,12 +5398,11 @@ const WORDS_IT_B1 = [
       "ja": "高齢の",
       "zh": "年老的",
       "ru": "пожилой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16542",
+    "lang": "it",
     "lemma": "anziano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5749,19 +5417,18 @@ const WORDS_IT_B1 = [
       "de": "der Senior",
       "es": "el anciano",
       "fr": "la personne âgée",
-      "it": "l'anziano",
+      "it": "l' l'anziano",
       "pt": "o idoso",
       "ja": "高齢者",
       "zh": "老人",
       "ru": "пожилой человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "anziani"
   },
   {
     "id": "it_16543",
+    "lang": "it",
     "lemma": "assistere",
     "pos": "Verb",
     "cefr": "B1",
@@ -5781,15 +5448,11 @@ const WORDS_IT_B1 = [
       "ja": "出席する",
       "zh": "出席",
       "ru": "присутствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assistere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16544",
+    "lang": "it",
     "lemma": "jet",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5810,13 +5473,11 @@ const WORDS_IT_B1 = [
       "zh": "喷气机",
       "ru": "реактивный самолёт"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16545",
+    "lang": "it",
     "lemma": "perfezione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5837,13 +5498,12 @@ const WORDS_IT_B1 = [
       "zh": "完美",
       "ru": "совершенство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "perfezioni"
   },
   {
     "id": "it_16547",
+    "lang": "it",
     "lemma": "carburante",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5864,13 +5524,12 @@ const WORDS_IT_B1 = [
       "zh": "燃料",
       "ru": "топливо"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "carburanti"
   },
   {
     "id": "it_16548",
+    "lang": "it",
     "lemma": "decesso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5890,13 +5549,12 @@ const WORDS_IT_B1 = [
       "zh": "死亡",
       "ru": "смерть"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "decessi"
   },
   {
     "id": "it_16549",
+    "lang": "it",
     "lemma": "nominato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -5915,12 +5573,11 @@ const WORDS_IT_B1 = [
       "ja": "任命された",
       "zh": "被任命的",
       "ru": "назначенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16550",
+    "lang": "it",
     "lemma": "tempismo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -5941,13 +5598,12 @@ const WORDS_IT_B1 = [
       "zh": "时机",
       "ru": "своевременность"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tempismi"
   },
   {
     "id": "it_16551",
+    "lang": "it",
     "lemma": "trasformare",
     "pos": "Verb",
     "cefr": "B1",
@@ -5967,15 +5623,11 @@ const WORDS_IT_B1 = [
       "ja": "変形する",
       "zh": "改变",
       "ru": "преобразовывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trasformare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16552",
+    "lang": "it",
     "lemma": "esprimere",
     "pos": "Verb",
     "cefr": "B1",
@@ -5995,15 +5647,11 @@ const WORDS_IT_B1 = [
       "ja": "表現する",
       "zh": "表达",
       "ru": "выражать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "esprimere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16553",
+    "lang": "it",
     "lemma": "clown",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6023,13 +5671,11 @@ const WORDS_IT_B1 = [
       "zh": "小丑",
       "ru": "клоун"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16556",
+    "lang": "it",
     "lemma": "centesimo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6050,13 +5696,11 @@ const WORDS_IT_B1 = [
       "zh": "分",
       "ru": "цент"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16557",
+    "lang": "it",
     "lemma": "soldo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6077,13 +5721,12 @@ const WORDS_IT_B1 = [
       "zh": "钱",
       "ru": "деньги"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "soldi"
   },
   {
     "id": "it_16559",
+    "lang": "it",
     "lemma": "complimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6104,13 +5747,12 @@ const WORDS_IT_B1 = [
       "zh": "赞美",
       "ru": "комплимент"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "complimenti"
   },
   {
     "id": "it_16560",
+    "lang": "it",
     "lemma": "bingo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6130,13 +5772,11 @@ const WORDS_IT_B1 = [
       "zh": "宾果",
       "ru": "бинго"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16561",
+    "lang": "it",
     "lemma": "chiarire",
     "pos": "Verb",
     "cefr": "B1",
@@ -6156,15 +5796,11 @@ const WORDS_IT_B1 = [
       "ja": "明確にする",
       "zh": "澄清",
       "ru": "прояснять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chiarire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16564",
+    "lang": "it",
     "lemma": "duca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6184,13 +5820,12 @@ const WORDS_IT_B1 = [
       "zh": "公爵",
       "ru": "герцог"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "duchi"
   },
   {
     "id": "it_16565",
+    "lang": "it",
     "lemma": "elementare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -6209,12 +5844,11 @@ const WORDS_IT_B1 = [
       "ja": "初歩的な",
       "zh": "基本的",
       "ru": "элементарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16566",
+    "lang": "it",
     "lemma": "addormentato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -6234,12 +5868,11 @@ const WORDS_IT_B1 = [
       "ja": "眠っている",
       "zh": "睡着的",
       "ru": "спящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16567",
+    "lang": "it",
     "lemma": "statua",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6260,13 +5893,12 @@ const WORDS_IT_B1 = [
       "zh": "雕像",
       "ru": "статуя"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "statue"
   },
   {
     "id": "it_16568",
+    "lang": "it",
     "lemma": "frequenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6286,13 +5918,12 @@ const WORDS_IT_B1 = [
       "zh": "频率",
       "ru": "частота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "frequenze"
   },
   {
     "id": "it_16569",
+    "lang": "it",
     "lemma": "biancheria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6313,13 +5944,12 @@ const WORDS_IT_B1 = [
       "zh": "内衣",
       "ru": "бельё"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "biancherie"
   },
   {
     "id": "it_16570",
+    "lang": "it",
     "lemma": "ricevuta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6340,13 +5970,12 @@ const WORDS_IT_B1 = [
       "zh": "收据",
       "ru": "квитанция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ricevute"
   },
   {
     "id": "it_16571",
+    "lang": "it",
     "lemma": "massaggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6367,13 +5996,12 @@ const WORDS_IT_B1 = [
       "zh": "按摩",
       "ru": "массаж"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "massaggi"
   },
   {
     "id": "it_16573",
+    "lang": "it",
     "lemma": "liquido",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6394,15 +6022,15 @@ const WORDS_IT_B1 = [
       "zh": "液体",
       "ru": "жидкость"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "liquidi"
   },
   {
     "id": "it_16574",
+    "lang": "it",
     "lemma": "novembre",
     "pos": "Nomen",
+    "article": "il",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -6413,21 +6041,18 @@ const WORDS_IT_B1 = [
       "ko": "11월",
       "en": "November",
       "de": "der November",
-      "es": "noviembre",
-      "fr": "novembre",
+      "es": "el noviembre",
+      "fr": "le novembre",
       "it": "il novembre",
-      "pt": "novembro",
+      "pt": "o novembro",
       "ja": "11月",
       "zh": "十一月",
       "ru": "ноябрь"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    }
   },
   {
     "id": "it_16575",
+    "lang": "it",
     "lemma": "amministratore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6442,19 +6067,18 @@ const WORDS_IT_B1 = [
       "de": "der Administrator",
       "es": "el administrador",
       "fr": "l'administrateur",
-      "it": "l'amministratore",
+      "it": "l' l'amministratore",
       "pt": "o administrador",
       "ja": "管理者",
       "zh": "管理员",
       "ru": "администратор"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "amministratori"
   },
   {
     "id": "it_16577",
+    "lang": "it",
     "lemma": "ispirazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6468,19 +6092,18 @@ const WORDS_IT_B1 = [
       "de": "die Inspiration",
       "es": "la inspiración",
       "fr": "l'inspiration",
-      "it": "l'ispirazione",
+      "it": "l' l'ispirazione",
       "pt": "a inspiração",
       "ja": "インスピレーション",
       "zh": "灵感",
       "ru": "вдохновение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ispirazioni"
   },
   {
     "id": "it_16578",
+    "lang": "it",
     "lemma": "chirurgia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6500,13 +6123,12 @@ const WORDS_IT_B1 = [
       "zh": "外科",
       "ru": "хирургия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "chirurgie"
   },
   {
     "id": "it_16580",
+    "lang": "it",
     "lemma": "esaminare",
     "pos": "Verb",
     "cefr": "B1",
@@ -6525,15 +6147,11 @@ const WORDS_IT_B1 = [
       "ja": "検査する",
       "zh": "检查",
       "ru": "осматривать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "esaminare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16581",
+    "lang": "it",
     "lemma": "sentenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6553,13 +6171,12 @@ const WORDS_IT_B1 = [
       "zh": "判决",
       "ru": "приговор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sentenze"
   },
   {
     "id": "it_16582",
+    "lang": "it",
     "lemma": "marchio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6580,13 +6197,12 @@ const WORDS_IT_B1 = [
       "zh": "品牌",
       "ru": "бренд"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "marchi"
   },
   {
     "id": "it_16585",
+    "lang": "it",
     "lemma": "incazzato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -6607,12 +6223,11 @@ const WORDS_IT_B1 = [
       "ja": "怒った",
       "zh": "生气的",
       "ru": "злой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16586",
+    "lang": "it",
     "lemma": "collaborare",
     "pos": "Verb",
     "cefr": "B1",
@@ -6632,15 +6247,11 @@ const WORDS_IT_B1 = [
       "ja": "協力する",
       "zh": "合作",
       "ru": "сотрудничать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "collaborare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16587",
+    "lang": "it",
     "lemma": "sfuggire",
     "pos": "Verb",
     "cefr": "B1",
@@ -6660,15 +6271,11 @@ const WORDS_IT_B1 = [
       "ja": "逃れる",
       "zh": "逃脱",
       "ru": "ускользать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sfuggire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16588",
+    "lang": "it",
     "lemma": "annullare",
     "pos": "Verb",
     "cefr": "B1",
@@ -6688,15 +6295,11 @@ const WORDS_IT_B1 = [
       "ja": "取り消す",
       "zh": "取消",
       "ru": "отменять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "annullare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16589",
+    "lang": "it",
     "lemma": "rifiutare",
     "pos": "Verb",
     "cefr": "B1",
@@ -6716,15 +6319,11 @@ const WORDS_IT_B1 = [
       "ja": "拒否する",
       "zh": "拒绝",
       "ru": "отказываться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rifiutare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16591",
+    "lang": "it",
     "lemma": "shopping",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6745,13 +6344,11 @@ const WORDS_IT_B1 = [
       "zh": "购物",
       "ru": "шопинг"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_16593",
+    "lang": "it",
     "lemma": "torneo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6771,13 +6368,12 @@ const WORDS_IT_B1 = [
       "zh": "锦标赛",
       "ru": "турнир"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tornei"
   },
   {
     "id": "it_16594",
+    "lang": "it",
     "lemma": "continuazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6797,13 +6393,12 @@ const WORDS_IT_B1 = [
       "zh": "继续",
       "ru": "продолжение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "continuazioni"
   },
   {
     "id": "it_16596",
+    "lang": "it",
     "lemma": "alieno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -6822,12 +6417,11 @@ const WORDS_IT_B1 = [
       "ja": "異星の",
       "zh": "外星的",
       "ru": "инопланетный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16597",
+    "lang": "it",
     "lemma": "alieno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6841,19 +6435,18 @@ const WORDS_IT_B1 = [
       "de": "der Außerirdische",
       "es": "el alienígena",
       "fr": "l'extraterrestre",
-      "it": "l'alieno",
+      "it": "l' l'alieno",
       "pt": "o alienígena",
       "ja": "宇宙人",
       "zh": "外星人",
       "ru": "инопланетянин"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "alieni"
   },
   {
     "id": "it_16598",
+    "lang": "it",
     "lemma": "fossa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6874,13 +6467,12 @@ const WORDS_IT_B1 = [
       "zh": "坑",
       "ru": "яма"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fosse"
   },
   {
     "id": "it_16599",
+    "lang": "it",
     "lemma": "premere",
     "pos": "Verb",
     "cefr": "B1",
@@ -6891,7 +6483,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "누르다",
-      "en": "to press",
+      "en": "press",
       "de": "drücken",
       "es": "presionar",
       "fr": "presser",
@@ -6900,15 +6492,11 @@ const WORDS_IT_B1 = [
       "ja": "押す",
       "zh": "按",
       "ru": "нажимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "premere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16600",
+    "lang": "it",
     "lemma": "affidamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6922,19 +6510,18 @@ const WORDS_IT_B1 = [
       "de": "die Anvertrauung",
       "es": "la encomienda",
       "fr": "la confiance",
-      "it": "l'affidamento",
+      "it": "l' l'affidamento",
       "pt": "a confiança",
       "ja": "委託",
       "zh": "委托",
       "ru": "доверие"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "affidamenti"
   },
   {
     "id": "it_16601",
+    "lang": "it",
     "lemma": "copertina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -6954,13 +6541,12 @@ const WORDS_IT_B1 = [
       "zh": "封面",
       "ru": "обложка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "copertine"
   },
   {
     "id": "it_16602",
+    "lang": "it",
     "lemma": "sorprendente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -6980,12 +6566,11 @@ const WORDS_IT_B1 = [
       "ja": "驚くべき",
       "zh": "令人惊讶的",
       "ru": "удивительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16606",
+    "lang": "it",
     "lemma": "portafogli",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7006,13 +6591,11 @@ const WORDS_IT_B1 = [
       "zh": "钱包",
       "ru": "кошелек"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16608",
+    "lang": "it",
     "lemma": "divorziato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7031,12 +6614,11 @@ const WORDS_IT_B1 = [
       "ja": "離婚した",
       "zh": "离婚的",
       "ru": "разведенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16609",
+    "lang": "it",
     "lemma": "divorziato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7056,13 +6638,12 @@ const WORDS_IT_B1 = [
       "zh": "离婚者",
       "ru": "разведенный"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "divorziati"
   },
   {
     "id": "it_16611",
+    "lang": "it",
     "lemma": "raro",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7082,12 +6663,11 @@ const WORDS_IT_B1 = [
       "ja": "珍しい",
       "zh": "稀有的",
       "ru": "редкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16613",
+    "lang": "it",
     "lemma": "cioccolata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7108,13 +6688,12 @@ const WORDS_IT_B1 = [
       "zh": "巧克力",
       "ru": "шоколад"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cioccolate"
   },
   {
     "id": "it_16614",
+    "lang": "it",
     "lemma": "valori",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7135,13 +6714,11 @@ const WORDS_IT_B1 = [
       "zh": "贵重物品",
       "ru": "ценности"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16616",
+    "lang": "it",
     "lemma": "nascondersi",
     "pos": "Verb",
     "cefr": "B1",
@@ -7152,7 +6729,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "숨다",
-      "en": "to hide",
+      "en": "hide",
       "de": "sich verstecken",
       "es": "esconderse",
       "fr": "se cacher",
@@ -7161,15 +6738,11 @@ const WORDS_IT_B1 = [
       "ja": "隠れる",
       "zh": "躲藏",
       "ru": "прятаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nascondersi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16617",
+    "lang": "it",
     "lemma": "obitorio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7183,19 +6756,18 @@ const WORDS_IT_B1 = [
       "de": "die Leichenhalle",
       "es": "la morgue",
       "fr": "la morgue",
-      "it": "l'obitorio",
+      "it": "l' l'obitorio",
       "pt": "o necrotério",
       "ja": "霊安室",
       "zh": "太平间",
       "ru": "морг"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "obitori"
   },
   {
     "id": "it_16618",
+    "lang": "it",
     "lemma": "pigiama",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7215,13 +6787,12 @@ const WORDS_IT_B1 = [
       "zh": "睡衣",
       "ru": "пижама"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pigiama"
   },
   {
     "id": "it_16621",
+    "lang": "it",
     "lemma": "carrozza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7241,13 +6812,12 @@ const WORDS_IT_B1 = [
       "zh": "马车",
       "ru": "карета"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "carrozze"
   },
   {
     "id": "it_16622",
+    "lang": "it",
     "lemma": "dente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7268,13 +6838,12 @@ const WORDS_IT_B1 = [
       "zh": "牙齿",
       "ru": "зуб"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "denti"
   },
   {
     "id": "it_16623",
+    "lang": "it",
     "lemma": "pulsante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7293,12 +6862,11 @@ const WORDS_IT_B1 = [
       "ja": "脈打つ",
       "zh": "脉动的",
       "ru": "пульсирующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16624",
+    "lang": "it",
     "lemma": "pulsante",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7319,13 +6887,12 @@ const WORDS_IT_B1 = [
       "zh": "按钮",
       "ru": "кнопка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pulsanti"
   },
   {
     "id": "it_16626",
+    "lang": "it",
     "lemma": "routine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7346,13 +6913,11 @@ const WORDS_IT_B1 = [
       "zh": "例行公事",
       "ru": "рутина"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16627",
+    "lang": "it",
     "lemma": "monaco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7372,13 +6937,12 @@ const WORDS_IT_B1 = [
       "zh": "僧侣",
       "ru": "монах"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "monaci"
   },
   {
     "id": "it_16628",
+    "lang": "it",
     "lemma": "avversario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7398,12 +6962,11 @@ const WORDS_IT_B1 = [
       "ja": "敵対する",
       "zh": "敌对的",
       "ru": "противоположный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16629",
+    "lang": "it",
     "lemma": "avversario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7418,19 +6981,18 @@ const WORDS_IT_B1 = [
       "de": "der Gegner",
       "es": "el adversario",
       "fr": "l'adversaire",
-      "it": "l'avversario",
+      "it": "l' l'avversario",
       "pt": "o adversário",
       "ja": "敵",
       "zh": "对手",
       "ru": "противник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "avversari"
   },
   {
     "id": "it_16630",
+    "lang": "it",
     "lemma": "attivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7450,12 +7012,11 @@ const WORDS_IT_B1 = [
       "ja": "活動的な",
       "zh": "积极的",
       "ru": "активный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16631",
+    "lang": "it",
     "lemma": "attivo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7469,19 +7030,18 @@ const WORDS_IT_B1 = [
       "de": "das Aktiv",
       "es": "el activo",
       "fr": "l'actif",
-      "it": "l'attivo",
+      "it": "l' l'attivo",
       "pt": "o ativo",
       "ja": "資産",
       "zh": "资产",
       "ru": "актив"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "attivi"
   },
   {
     "id": "it_16632",
+    "lang": "it",
     "lemma": "ritirare",
     "pos": "Verb",
     "cefr": "B1",
@@ -7501,15 +7061,11 @@ const WORDS_IT_B1 = [
       "ja": "撤回する",
       "zh": "撤回",
       "ru": "отзывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ritirare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16633",
+    "lang": "it",
     "lemma": "agosto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7528,14 +7084,14 @@ const WORDS_IT_B1 = [
       "ja": "威厳のある",
       "zh": "威严的",
       "ru": "августейший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16634",
+    "lang": "it",
     "lemma": "agosto",
     "pos": "Nomen",
+    "article": "l'",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -7547,20 +7103,17 @@ const WORDS_IT_B1 = [
       "en": "August",
       "de": "der August",
       "es": "el agosto",
-      "fr": "août",
-      "it": "l'agosto",
+      "fr": "l'août",
+      "it": "l' l'agosto",
       "pt": "o agosto",
       "ja": "8月",
       "zh": "八月",
       "ru": "август"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    }
   },
   {
     "id": "it_16635",
+    "lang": "it",
     "lemma": "irlandese",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7580,12 +7133,11 @@ const WORDS_IT_B1 = [
       "ja": "アイルランドの",
       "zh": "爱尔兰的",
       "ru": "ирландский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16636",
+    "lang": "it",
     "lemma": "irlandese",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7600,19 +7152,17 @@ const WORDS_IT_B1 = [
       "de": "das Irische",
       "es": "el irlandés",
       "fr": "l'irlandais",
-      "it": "l'irlandese",
+      "it": "l' l'irlandese",
       "pt": "o irlandês",
       "ja": "アイルランド語",
       "zh": "爱尔兰语",
       "ru": "ирландский язык"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16637",
+    "lang": "it",
     "lemma": "appoggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7627,19 +7177,18 @@ const WORDS_IT_B1 = [
       "de": "die Unterstützung",
       "es": "el apoyo",
       "fr": "l'appui",
-      "it": "l'appoggio",
+      "it": "l' l'appoggio",
       "pt": "o apoio",
       "ja": "支持",
       "zh": "支持",
       "ru": "поддержка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "appoggi"
   },
   {
     "id": "it_16638",
+    "lang": "it",
     "lemma": "quota",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7660,13 +7209,12 @@ const WORDS_IT_B1 = [
       "zh": "份额",
       "ru": "квота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "quote"
   },
   {
     "id": "it_16639",
+    "lang": "it",
     "lemma": "perimetro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7686,13 +7234,12 @@ const WORDS_IT_B1 = [
       "zh": "周长",
       "ru": "периметр"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "perimetri"
   },
   {
     "id": "it_16640",
+    "lang": "it",
     "lemma": "menu",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7713,13 +7260,11 @@ const WORDS_IT_B1 = [
       "zh": "菜单",
       "ru": "меню"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16641",
+    "lang": "it",
     "lemma": "toro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7740,13 +7285,12 @@ const WORDS_IT_B1 = [
       "zh": "公牛",
       "ru": "бык"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tori"
   },
   {
     "id": "it_16642",
+    "lang": "it",
     "lemma": "frutto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7767,13 +7311,12 @@ const WORDS_IT_B1 = [
       "zh": "水果",
       "ru": "фрукт"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "frutti"
   },
   {
     "id": "it_16643",
+    "lang": "it",
     "lemma": "schiavo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7792,12 +7335,11 @@ const WORDS_IT_B1 = [
       "ja": "奴隷の",
       "zh": "奴隶的",
       "ru": "рабский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16645",
+    "lang": "it",
     "lemma": "oscurità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7812,19 +7354,17 @@ const WORDS_IT_B1 = [
       "de": "die Dunkelheit",
       "es": "la oscuridad",
       "fr": "l'obscurité",
-      "it": "l'oscurità",
+      "it": "l' l'oscurità",
       "pt": "a escuridão",
       "ja": "暗闇",
       "zh": "黑暗",
       "ru": "темнота"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16646",
+    "lang": "it",
     "lemma": "vivente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7844,12 +7384,11 @@ const WORDS_IT_B1 = [
       "ja": "生きている",
       "zh": "活着的",
       "ru": "живой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16648",
+    "lang": "it",
     "lemma": "autunno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7864,19 +7403,18 @@ const WORDS_IT_B1 = [
       "de": "der Herbst",
       "es": "el otoño",
       "fr": "l'automne",
-      "it": "l'autunno",
+      "it": "l' l'autunno",
       "pt": "o outono",
       "ja": "秋",
       "zh": "秋天",
       "ru": "осень"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "autunni"
   },
   {
     "id": "it_16649",
+    "lang": "it",
     "lemma": "arco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7890,19 +7428,18 @@ const WORDS_IT_B1 = [
       "de": "der Bogen",
       "es": "el arco",
       "fr": "l'arc",
-      "it": "l'arco",
+      "it": "l' l'arco",
       "pt": "o arco",
       "ja": "弓",
       "zh": "弓",
       "ru": "арка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "archi"
   },
   {
     "id": "it_16650",
+    "lang": "it",
     "lemma": "affrontato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -7922,12 +7459,11 @@ const WORDS_IT_B1 = [
       "ja": "直面した",
       "zh": "面对的",
       "ru": "столкнувшийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16651",
+    "lang": "it",
     "lemma": "riparo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7948,13 +7484,12 @@ const WORDS_IT_B1 = [
       "zh": "避难所",
       "ru": "убежище"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ripari"
   },
   {
     "id": "it_16652",
+    "lang": "it",
     "lemma": "depressione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -7975,13 +7510,12 @@ const WORDS_IT_B1 = [
       "zh": "抑郁症",
       "ru": "депрессия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "depressioni"
   },
   {
     "id": "it_16653",
+    "lang": "it",
     "lemma": "consenso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8002,13 +7536,12 @@ const WORDS_IT_B1 = [
       "zh": "同意",
       "ru": "согласие"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "consensi"
   },
   {
     "id": "it_16654",
+    "lang": "it",
     "lemma": "fidarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -8019,7 +7552,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "신뢰하다",
-      "en": "to trust",
+      "en": "trust",
       "de": "vertrauen",
       "es": "confiar",
       "fr": "se fier",
@@ -8028,15 +7561,11 @@ const WORDS_IT_B1 = [
       "ja": "信頼する",
       "zh": "信任",
       "ru": "доверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fidarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16655",
+    "lang": "it",
     "lemma": "rene",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8057,13 +7586,12 @@ const WORDS_IT_B1 = [
       "zh": "肾",
       "ru": "почка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "reni"
   },
   {
     "id": "it_16656",
+    "lang": "it",
     "lemma": "rappresentante",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8084,13 +7612,12 @@ const WORDS_IT_B1 = [
       "zh": "代表",
       "ru": "представитель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "rappresentanti"
   },
   {
     "id": "it_16657",
+    "lang": "it",
     "lemma": "divisa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8110,13 +7637,12 @@ const WORDS_IT_B1 = [
       "zh": "制服",
       "ru": "униформа"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "divise"
   },
   {
     "id": "it_16659",
+    "lang": "it",
     "lemma": "discusso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8135,12 +7661,11 @@ const WORDS_IT_B1 = [
       "ja": "議論された",
       "zh": "有争议的",
       "ru": "обсуждаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16660",
+    "lang": "it",
     "lemma": "compromesso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8159,12 +7684,11 @@ const WORDS_IT_B1 = [
       "ja": "妥協した",
       "zh": "妥协的",
       "ru": "скомпрометированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16661",
+    "lang": "it",
     "lemma": "compromesso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8185,13 +7709,11 @@ const WORDS_IT_B1 = [
       "zh": "妥协",
       "ru": "компромисс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16662",
+    "lang": "it",
     "lemma": "regolare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8211,12 +7733,11 @@ const WORDS_IT_B1 = [
       "ja": "定期的な",
       "zh": "定期的",
       "ru": "регулярный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16663",
+    "lang": "it",
     "lemma": "regolare",
     "pos": "Verb",
     "cefr": "B1",
@@ -8227,7 +7748,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "규제하다",
-      "en": "to regulate",
+      "en": "regulate",
       "de": "regeln",
       "es": "regular",
       "fr": "réguler",
@@ -8236,15 +7757,11 @@ const WORDS_IT_B1 = [
       "ja": "規制する",
       "zh": "规范",
       "ru": "регулировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "regolare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16664",
+    "lang": "it",
     "lemma": "proibito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8264,12 +7781,11 @@ const WORDS_IT_B1 = [
       "ja": "禁止された",
       "zh": "禁止的",
       "ru": "запрещенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16666",
+    "lang": "it",
     "lemma": "investimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8283,19 +7799,18 @@ const WORDS_IT_B1 = [
       "de": "der Aufprall",
       "es": "el atropello",
       "fr": "la collision",
-      "it": "l'investimento",
+      "it": "l' l'investimento",
       "pt": "o atropelamento",
       "ja": "衝突",
       "zh": "碰撞",
       "ru": "наезд"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "investimenti"
   },
   {
     "id": "it_16667",
+    "lang": "it",
     "lemma": "concorso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8315,13 +7830,12 @@ const WORDS_IT_B1 = [
       "zh": "竞赛",
       "ru": "конкурс"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "concorsi"
   },
   {
     "id": "it_16668",
+    "lang": "it",
     "lemma": "vitale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8341,12 +7855,11 @@ const WORDS_IT_B1 = [
       "ja": "重要な",
       "zh": "重要的",
       "ru": "жизненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16669",
+    "lang": "it",
     "lemma": "degno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8365,12 +7878,11 @@ const WORDS_IT_B1 = [
       "ja": "価値のある",
       "zh": "值得的",
       "ru": "достойный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16670",
+    "lang": "it",
     "lemma": "fermarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -8381,7 +7893,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "멈추다",
-      "en": "to stop",
+      "en": "stop",
       "de": "anhalten",
       "es": "detenerse",
       "fr": "s'arrêter",
@@ -8390,15 +7902,11 @@ const WORDS_IT_B1 = [
       "ja": "止まる",
       "zh": "停止",
       "ru": "останавливаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fermarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16671",
+    "lang": "it",
     "lemma": "sconfiggere",
     "pos": "Verb",
     "cefr": "B1",
@@ -8408,7 +7916,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "패배시키다",
-      "en": "to defeat",
+      "en": "defeat",
       "de": "besiegen",
       "es": "derrotar",
       "fr": "vaincre",
@@ -8417,15 +7925,11 @@ const WORDS_IT_B1 = [
       "ja": "打ち負かす",
       "zh": "击败",
       "ru": "побеждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sconfiggere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16672",
+    "lang": "it",
     "lemma": "clan",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8445,13 +7949,11 @@ const WORDS_IT_B1 = [
       "zh": "氏族",
       "ru": "клан"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16673",
+    "lang": "it",
     "lemma": "salvezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8471,13 +7973,11 @@ const WORDS_IT_B1 = [
       "zh": "救赎",
       "ru": "спасение"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16675",
+    "lang": "it",
     "lemma": "satellite",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8496,12 +7996,11 @@ const WORDS_IT_B1 = [
       "ja": "衛星の",
       "zh": "卫星的",
       "ru": "спутниковый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16676",
+    "lang": "it",
     "lemma": "satellite",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8521,13 +8020,12 @@ const WORDS_IT_B1 = [
       "zh": "卫星",
       "ru": "спутник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "satelliti"
   },
   {
     "id": "it_16678",
+    "lang": "it",
     "lemma": "giovedì",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8548,13 +8046,11 @@ const WORDS_IT_B1 = [
       "zh": "星期四",
       "ru": "четверг"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16679",
+    "lang": "it",
     "lemma": "rinchiuso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8573,12 +8069,11 @@ const WORDS_IT_B1 = [
       "ja": "閉じ込められた",
       "zh": "被关押的",
       "ru": "запертый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16681",
+    "lang": "it",
     "lemma": "bastare",
     "pos": "Verb",
     "cefr": "B1",
@@ -8589,7 +8084,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "충분하다",
-      "en": "to suffice",
+      "en": "suffice",
       "de": "genügen",
       "es": "bastar",
       "fr": "suffire",
@@ -8598,15 +8093,11 @@ const WORDS_IT_B1 = [
       "ja": "十分である",
       "zh": "足够",
       "ru": "хватать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bastare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16682",
+    "lang": "it",
     "lemma": "maestra",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8626,12 +8117,11 @@ const WORDS_IT_B1 = [
       "ja": "熟練した",
       "zh": "精湛的",
       "ru": "искусный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16683",
+    "lang": "it",
     "lemma": "maestra",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8652,13 +8142,12 @@ const WORDS_IT_B1 = [
       "zh": "女教师",
       "ru": "учительница"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maestre"
   },
   {
     "id": "it_16686",
+    "lang": "it",
     "lemma": "infranto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8677,12 +8166,11 @@ const WORDS_IT_B1 = [
       "ja": "壊れた",
       "zh": "破碎的",
       "ru": "разбитый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16687",
+    "lang": "it",
     "lemma": "corruzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8702,13 +8190,11 @@ const WORDS_IT_B1 = [
       "zh": "腐败",
       "ru": "коррупция"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16688",
+    "lang": "it",
     "lemma": "scout",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8727,12 +8213,11 @@ const WORDS_IT_B1 = [
       "ja": "スカウトの",
       "zh": "童子军的",
       "ru": "скаутский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16689",
+    "lang": "it",
     "lemma": "fissare",
     "pos": "Verb",
     "cefr": "B1",
@@ -8752,15 +8237,11 @@ const WORDS_IT_B1 = [
       "ja": "固定する",
       "zh": "固定",
       "ru": "фиксировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fissare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16690",
+    "lang": "it",
     "lemma": "strappato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8779,12 +8260,11 @@ const WORDS_IT_B1 = [
       "ja": "破れた",
       "zh": "撕裂的",
       "ru": "разорванный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16691",
+    "lang": "it",
     "lemma": "sentimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8805,13 +8285,12 @@ const WORDS_IT_B1 = [
       "zh": "感情",
       "ru": "чувство"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sentimenti"
   },
   {
     "id": "it_16692",
+    "lang": "it",
     "lemma": "atterraggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8825,19 +8304,18 @@ const WORDS_IT_B1 = [
       "de": "die Landung",
       "es": "el aterrizaje",
       "fr": "l'atterrissage",
-      "it": "l'atterraggio",
+      "it": "l' l'atterraggio",
       "pt": "a aterrissagem",
       "ja": "着陸",
       "zh": "着陆",
       "ru": "посадка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "atterraggi"
   },
   {
     "id": "it_16693",
+    "lang": "it",
     "lemma": "suonato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8856,12 +8334,11 @@ const WORDS_IT_B1 = [
       "ja": "頭がおかしい",
       "zh": "疯了的",
       "ru": "сумасшедший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16694",
+    "lang": "it",
     "lemma": "solitario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8880,12 +8357,11 @@ const WORDS_IT_B1 = [
       "ja": "孤独な",
       "zh": "孤独的",
       "ru": "одинокий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16695",
+    "lang": "it",
     "lemma": "solitario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -8905,13 +8381,12 @@ const WORDS_IT_B1 = [
       "zh": "隐士",
       "ru": "отшельник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "solitari"
   },
   {
     "id": "it_16696",
+    "lang": "it",
     "lemma": "alquanto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8931,12 +8406,11 @@ const WORDS_IT_B1 = [
       "ja": "いくらか",
       "zh": "多少",
       "ru": "довольно"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16697",
+    "lang": "it",
     "lemma": "penale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8955,12 +8429,11 @@ const WORDS_IT_B1 = [
       "ja": "刑事の",
       "zh": "刑事的",
       "ru": "уголовный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16698",
+    "lang": "it",
     "lemma": "divertito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -8979,12 +8452,11 @@ const WORDS_IT_B1 = [
       "ja": "楽しんでいる",
       "zh": "感到有趣的",
       "ru": "развлеченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16699",
+    "lang": "it",
     "lemma": "favola",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9004,13 +8476,12 @@ const WORDS_IT_B1 = [
       "zh": "寓言",
       "ru": "басня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "favole"
   },
   {
     "id": "it_16700",
+    "lang": "it",
     "lemma": "messe",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9030,13 +8501,12 @@ const WORDS_IT_B1 = [
       "zh": "收获",
       "ru": "жатва"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "messi"
   },
   {
     "id": "it_16701",
+    "lang": "it",
     "lemma": "server",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9056,13 +8526,11 @@ const WORDS_IT_B1 = [
       "zh": "服务器",
       "ru": "сервер"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16703",
+    "lang": "it",
     "lemma": "gemma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9082,13 +8550,12 @@ const WORDS_IT_B1 = [
       "zh": "芽",
       "ru": "почка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gemme"
   },
   {
     "id": "it_16704",
+    "lang": "it",
     "lemma": "fiamma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9108,13 +8575,12 @@ const WORDS_IT_B1 = [
       "zh": "火焰",
       "ru": "пламя"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fiamme"
   },
   {
     "id": "it_16705",
+    "lang": "it",
     "lemma": "concludere",
     "pos": "Verb",
     "cefr": "B1",
@@ -9134,15 +8600,11 @@ const WORDS_IT_B1 = [
       "ja": "結論を出す",
       "zh": "结束",
       "ru": "заключать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "concludere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16706",
+    "lang": "it",
     "lemma": "diploma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9162,13 +8624,12 @@ const WORDS_IT_B1 = [
       "zh": "文凭",
       "ru": "диплом"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "diplomi"
   },
   {
     "id": "it_16707",
+    "lang": "it",
     "lemma": "contenuto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9189,13 +8650,12 @@ const WORDS_IT_B1 = [
       "zh": "内容",
       "ru": "содержание"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "contenuti"
   },
   {
     "id": "it_16708",
+    "lang": "it",
     "lemma": "riga",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9215,13 +8675,12 @@ const WORDS_IT_B1 = [
       "zh": "尺子",
       "ru": "линейка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "righe"
   },
   {
     "id": "it_16709",
+    "lang": "it",
     "lemma": "comprendere",
     "pos": "Verb",
     "cefr": "B1",
@@ -9241,15 +8700,11 @@ const WORDS_IT_B1 = [
       "ja": "含む",
       "zh": "包括",
       "ru": "включать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "comprendere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16710",
+    "lang": "it",
     "lemma": "martedì",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9270,13 +8725,11 @@ const WORDS_IT_B1 = [
       "zh": "星期二",
       "ru": "вторник"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16711",
+    "lang": "it",
     "lemma": "denunciato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -9295,12 +8748,11 @@ const WORDS_IT_B1 = [
       "ja": "告発された",
       "zh": "被举报的",
       "ru": "донесённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16712",
+    "lang": "it",
     "lemma": "botta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9320,13 +8772,12 @@ const WORDS_IT_B1 = [
       "zh": "打击",
       "ru": "удар"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "botte"
   },
   {
     "id": "it_16713",
+    "lang": "it",
     "lemma": "bruno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -9345,12 +8796,11 @@ const WORDS_IT_B1 = [
       "ja": "茶色の",
       "zh": "棕色的",
       "ru": "коричневый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16714",
+    "lang": "it",
     "lemma": "bruno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9370,13 +8820,11 @@ const WORDS_IT_B1 = [
       "zh": "棕色",
       "ru": "коричневый"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16715",
+    "lang": "it",
     "lemma": "goccia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9396,13 +8844,12 @@ const WORDS_IT_B1 = [
       "zh": "水滴",
       "ru": "капля"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gocce"
   },
   {
     "id": "it_16716",
+    "lang": "it",
     "lemma": "insolito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -9421,12 +8868,11 @@ const WORDS_IT_B1 = [
       "ja": "珍しい",
       "zh": "不寻常的",
       "ru": "необычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16718",
+    "lang": "it",
     "lemma": "vena",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9446,13 +8892,12 @@ const WORDS_IT_B1 = [
       "zh": "静脉",
       "ru": "вена"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vene"
   },
   {
     "id": "it_16720",
+    "lang": "it",
     "lemma": "alfa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9466,19 +8911,17 @@ const WORDS_IT_B1 = [
       "de": "das Alpha",
       "es": "el alfa",
       "fr": "l'alpha",
-      "it": "l'alfa",
+      "it": "l' l'alfa",
       "pt": "o alfa",
       "ja": "アルファ",
       "zh": "阿尔法",
       "ru": "альфа"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16721",
+    "lang": "it",
     "lemma": "foglie",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9499,13 +8942,11 @@ const WORDS_IT_B1 = [
       "zh": "花色",
       "ru": "масть"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16722",
+    "lang": "it",
     "lemma": "ciascuno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -9524,12 +8965,11 @@ const WORDS_IT_B1 = [
       "ja": "各々の",
       "zh": "各自的",
       "ru": "каждый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16723",
+    "lang": "it",
     "lemma": "lampada",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9549,13 +8989,12 @@ const WORDS_IT_B1 = [
       "zh": "灯",
       "ru": "лампа"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lampade"
   },
   {
     "id": "it_16724",
+    "lang": "it",
     "lemma": "fama",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9575,13 +9014,11 @@ const WORDS_IT_B1 = [
       "zh": "名声",
       "ru": "слава"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16725",
+    "lang": "it",
     "lemma": "sconfitta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9601,13 +9038,12 @@ const WORDS_IT_B1 = [
       "zh": "失败",
       "ru": "поражение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sconfitte"
   },
   {
     "id": "it_16726",
+    "lang": "it",
     "lemma": "durata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9627,13 +9063,12 @@ const WORDS_IT_B1 = [
       "zh": "持续时间",
       "ru": "длительность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "durate"
   },
   {
     "id": "it_16727",
+    "lang": "it",
     "lemma": "salvataggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9654,13 +9089,12 @@ const WORDS_IT_B1 = [
       "zh": "救援",
       "ru": "спасение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "salvataggi"
   },
   {
     "id": "it_16728",
+    "lang": "it",
     "lemma": "lavanderia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9681,13 +9115,12 @@ const WORDS_IT_B1 = [
       "zh": "洗衣店",
       "ru": "прачечная"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lavanderie"
   },
   {
     "id": "it_16731",
+    "lang": "it",
     "lemma": "competizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9708,13 +9141,12 @@ const WORDS_IT_B1 = [
       "zh": "竞争",
       "ru": "соревнование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "competizioni"
   },
   {
     "id": "it_16732",
+    "lang": "it",
     "lemma": "selvaggio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -9733,12 +9165,11 @@ const WORDS_IT_B1 = [
       "ja": "野生の",
       "zh": "野生的",
       "ru": "дикий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16733",
+    "lang": "it",
     "lemma": "selvaggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9758,13 +9189,12 @@ const WORDS_IT_B1 = [
       "zh": "野人",
       "ru": "дикарь"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "selvaggi"
   },
   {
     "id": "it_16735",
+    "lang": "it",
     "lemma": "round",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9784,13 +9214,11 @@ const WORDS_IT_B1 = [
       "zh": "回合",
       "ru": "раунд"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16736",
+    "lang": "it",
     "lemma": "freccia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9810,13 +9238,12 @@ const WORDS_IT_B1 = [
       "zh": "箭",
       "ru": "стрела"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "frecce"
   },
   {
     "id": "it_16737",
+    "lang": "it",
     "lemma": "gentilezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9837,13 +9264,12 @@ const WORDS_IT_B1 = [
       "zh": "善良",
       "ru": "доброта"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gentilezze"
   },
   {
     "id": "it_16738",
+    "lang": "it",
     "lemma": "spreco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9864,13 +9290,12 @@ const WORDS_IT_B1 = [
       "zh": "浪费",
       "ru": "трата"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "sprechi"
   },
   {
     "id": "it_16739",
+    "lang": "it",
     "lemma": "modella",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9891,13 +9316,12 @@ const WORDS_IT_B1 = [
       "zh": "模特",
       "ru": "модель"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "modelle"
   },
   {
     "id": "it_16740",
+    "lang": "it",
     "lemma": "commercio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9917,13 +9341,12 @@ const WORDS_IT_B1 = [
       "zh": "商业",
       "ru": "торговля"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "commerci"
   },
   {
     "id": "it_16741",
+    "lang": "it",
     "lemma": "puntare",
     "pos": "Verb",
     "cefr": "B1",
@@ -9933,7 +9356,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "가리키다",
-      "en": "to point",
+      "en": "point",
       "de": "zeigen",
       "es": "apuntar",
       "fr": "pointer",
@@ -9942,15 +9365,11 @@ const WORDS_IT_B1 = [
       "ja": "指す",
       "zh": "指向",
       "ru": "указывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "puntare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16742",
+    "lang": "it",
     "lemma": "commettere",
     "pos": "Verb",
     "cefr": "B1",
@@ -9960,7 +9379,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "저지르다",
-      "en": "to commit",
+      "en": "commit",
       "de": "begehen",
       "es": "cometer",
       "fr": "commettre",
@@ -9969,15 +9388,11 @@ const WORDS_IT_B1 = [
       "ja": "犯す",
       "zh": "犯",
       "ru": "совершать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "commettere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16743",
+    "lang": "it",
     "lemma": "paraggi",
     "pos": "Nomen",
     "cefr": "B1",
@@ -9997,13 +9412,11 @@ const WORDS_IT_B1 = [
       "zh": "附近",
       "ru": "окрестности"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16744",
+    "lang": "it",
     "lemma": "osservare",
     "pos": "Verb",
     "cefr": "B1",
@@ -10013,7 +9426,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "관찰하다",
-      "en": "to observe",
+      "en": "observe",
       "de": "beobachten",
       "es": "observar",
       "fr": "observer",
@@ -10022,15 +9435,11 @@ const WORDS_IT_B1 = [
       "ja": "観察する",
       "zh": "观察",
       "ru": "наблюдать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "osservare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16745",
+    "lang": "it",
     "lemma": "assassinio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10044,19 +9453,18 @@ const WORDS_IT_B1 = [
       "de": "der Mord",
       "es": "el asesinato",
       "fr": "l'assassinat",
-      "it": "l'assassinio",
+      "it": "l' l'assassinio",
       "pt": "o assassinato",
       "ja": "殺人",
       "zh": "谋杀",
       "ru": "убийство"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "assassinii"
   },
   {
     "id": "it_16746",
+    "lang": "it",
     "lemma": "riabilitazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10077,13 +9485,12 @@ const WORDS_IT_B1 = [
       "zh": "康复",
       "ru": "реабилитация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "riabilitazioni"
   },
   {
     "id": "it_16747",
+    "lang": "it",
     "lemma": "rancore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10103,13 +9510,12 @@ const WORDS_IT_B1 = [
       "zh": "怨恨",
       "ru": "обида"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "rancori"
   },
   {
     "id": "it_16749",
+    "lang": "it",
     "lemma": "musicale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10128,12 +9534,11 @@ const WORDS_IT_B1 = [
       "ja": "音楽の",
       "zh": "音乐的",
       "ru": "музыкальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16750",
+    "lang": "it",
     "lemma": "quantità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10154,13 +9559,11 @@ const WORDS_IT_B1 = [
       "zh": "数量",
       "ru": "количество"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16751",
+    "lang": "it",
     "lemma": "foglio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10181,13 +9584,12 @@ const WORDS_IT_B1 = [
       "zh": "纸",
       "ru": "лист"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fogli"
   },
   {
     "id": "it_16754",
+    "lang": "it",
     "lemma": "amelia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10201,19 +9603,18 @@ const WORDS_IT_B1 = [
       "de": "die Amelie",
       "es": "la amelia",
       "fr": "l'amélie",
-      "it": "l'amelia",
+      "it": "l' l'amelia",
       "pt": "a amelia",
       "ja": "無肢症",
       "zh": "无肢畸形",
       "ru": "амелия"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "amelie"
   },
   {
     "id": "it_16755",
+    "lang": "it",
     "lemma": "sedersi",
     "pos": "Verb",
     "cefr": "B1",
@@ -10224,7 +9625,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "앉다",
-      "en": "to sit down",
+      "en": "sit down",
       "de": "sich setzen",
       "es": "sentarse",
       "fr": "s'asseoir",
@@ -10233,15 +9634,11 @@ const WORDS_IT_B1 = [
       "ja": "座る",
       "zh": "坐下",
       "ru": "садиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sedersi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16756",
+    "lang": "it",
     "lemma": "diagnosi",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10261,13 +9658,11 @@ const WORDS_IT_B1 = [
       "zh": "诊断",
       "ru": "диагноз"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16757",
+    "lang": "it",
     "lemma": "rimuovere",
     "pos": "Verb",
     "cefr": "B1",
@@ -10277,7 +9672,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "제거하다",
-      "en": "to remove",
+      "en": "remove",
       "de": "entfernen",
       "es": "remover",
       "fr": "enlever",
@@ -10286,15 +9681,11 @@ const WORDS_IT_B1 = [
       "ja": "取り除く",
       "zh": "移除",
       "ru": "удалять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rimuovere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16758",
+    "lang": "it",
     "lemma": "rimettere",
     "pos": "Verb",
     "cefr": "B1",
@@ -10304,7 +9695,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "토하다",
-      "en": "to vomit",
+      "en": "vomit",
       "de": "sich übergeben",
       "es": "vomitar",
       "fr": "vomir",
@@ -10313,17 +9704,14 @@ const WORDS_IT_B1 = [
       "ja": "吐く",
       "zh": "呕吐",
       "ru": "рвать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rimettere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16761",
+    "lang": "it",
     "lemma": "satana",
     "pos": "Nomen",
+    "article": "il",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -10333,21 +9721,23 @@ const WORDS_IT_B1 = [
       "ko": "사탄",
       "en": "Satan",
       "de": "der Satan",
-      "es": "Satán",
-      "fr": "Satan",
+      "es": "el Satán",
+      "fr": "le Satan",
       "it": "il satana",
       "pt": "Satanás",
       "ja": "サタン",
       "zh": "撒旦",
       "ru": "Сатана"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "pt": true
+      }
+    }
   },
   {
     "id": "it_16762",
+    "lang": "it",
     "lemma": "astronave",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10361,19 +9751,18 @@ const WORDS_IT_B1 = [
       "de": "das Raumschiff",
       "es": "la nave espacial",
       "fr": "le vaisseau spatial",
-      "it": "l'astronave",
+      "it": "l' l'astronave",
       "pt": "a nave espacial",
       "ja": "宇宙船",
       "zh": "宇宙飞船",
       "ru": "космический корабль"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "astronavi"
   },
   {
     "id": "it_16763",
+    "lang": "it",
     "lemma": "tacere",
     "pos": "Verb",
     "cefr": "B1",
@@ -10383,7 +9772,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "침묵하다",
-      "en": "to be silent",
+      "en": "be silent",
       "de": "schweigen",
       "es": "callar",
       "fr": "se taire",
@@ -10392,15 +9781,11 @@ const WORDS_IT_B1 = [
       "ja": "黙る",
       "zh": "沉默",
       "ru": "молчать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tacere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16765",
+    "lang": "it",
     "lemma": "verdetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10421,13 +9806,12 @@ const WORDS_IT_B1 = [
       "zh": "判决",
       "ru": "вердикт"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "verdetti"
   },
   {
     "id": "it_16766",
+    "lang": "it",
     "lemma": "saggezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10448,13 +9832,11 @@ const WORDS_IT_B1 = [
       "zh": "智慧",
       "ru": "мудрость"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16768",
+    "lang": "it",
     "lemma": "ritratto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10474,13 +9856,12 @@ const WORDS_IT_B1 = [
       "zh": "肖像",
       "ru": "портрет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ritratti"
   },
   {
     "id": "it_16771",
+    "lang": "it",
     "lemma": "web",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10501,13 +9882,11 @@ const WORDS_IT_B1 = [
       "zh": "网络",
       "ru": "веб"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16772",
+    "lang": "it",
     "lemma": "scaricare",
     "pos": "Verb",
     "cefr": "B1",
@@ -10527,15 +9906,11 @@ const WORDS_IT_B1 = [
       "ja": "降ろす",
       "zh": "卸载",
       "ru": "разгружать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scaricare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16773",
+    "lang": "it",
     "lemma": "bistecca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10556,13 +9931,12 @@ const WORDS_IT_B1 = [
       "zh": "牛排",
       "ru": "стейк"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bistecche"
   },
   {
     "id": "it_16776",
+    "lang": "it",
     "lemma": "scaduto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10581,12 +9955,11 @@ const WORDS_IT_B1 = [
       "ja": "期限切れの",
       "zh": "过期",
       "ru": "просроченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16777",
+    "lang": "it",
     "lemma": "leale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10606,12 +9979,11 @@ const WORDS_IT_B1 = [
       "ja": "忠実な",
       "zh": "忠诚",
       "ru": "лояльный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16778",
+    "lang": "it",
     "lemma": "registrare",
     "pos": "Verb",
     "cefr": "B1",
@@ -10631,15 +10003,11 @@ const WORDS_IT_B1 = [
       "ja": "登録する",
       "zh": "注册",
       "ru": "регистрировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "registrare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16779",
+    "lang": "it",
     "lemma": "riscontro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10659,13 +10027,12 @@ const WORDS_IT_B1 = [
       "zh": "核对",
       "ru": "проверка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riscontri"
   },
   {
     "id": "it_16781",
+    "lang": "it",
     "lemma": "cristallo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10685,13 +10052,12 @@ const WORDS_IT_B1 = [
       "zh": "水晶",
       "ru": "кристалл"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cristalli"
   },
   {
     "id": "it_16782",
+    "lang": "it",
     "lemma": "applauso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10705,19 +10071,18 @@ const WORDS_IT_B1 = [
       "de": "der Applaus",
       "es": "el aplauso",
       "fr": "l'applaudissement",
-      "it": "l'applauso",
+      "it": "l' l'applauso",
       "pt": "o aplauso",
       "ja": "拍手",
       "zh": "掌声",
       "ru": "аплодисменты"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "applausi"
   },
   {
     "id": "it_16784",
+    "lang": "it",
     "lemma": "riferimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10737,13 +10102,12 @@ const WORDS_IT_B1 = [
       "zh": "参考",
       "ru": "ссылка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riferimenti"
   },
   {
     "id": "it_16785",
+    "lang": "it",
     "lemma": "infermeria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10758,19 +10122,18 @@ const WORDS_IT_B1 = [
       "de": "die Krankenstation",
       "es": "la enfermería",
       "fr": "l'infirmerie",
-      "it": "l'infermeria",
+      "it": "l' l'infermeria",
       "pt": "a enfermaria",
       "ja": "医務室",
       "zh": "医务室",
       "ru": "лазарет"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "infermerie"
   },
   {
     "id": "it_16786",
+    "lang": "it",
     "lemma": "riconoscimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10790,13 +10153,12 @@ const WORDS_IT_B1 = [
       "zh": "承认",
       "ru": "признание"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riconoscimenti"
   },
   {
     "id": "it_16787",
+    "lang": "it",
     "lemma": "molo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10816,13 +10178,12 @@ const WORDS_IT_B1 = [
       "zh": "码头",
       "ru": "пирс"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "moli"
   },
   {
     "id": "it_16789",
+    "lang": "it",
     "lemma": "farmaco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10842,13 +10203,12 @@ const WORDS_IT_B1 = [
       "zh": "药物",
       "ru": "лекарство"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "farmaci"
   },
   {
     "id": "it_16790",
+    "lang": "it",
     "lemma": "meccanico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10867,12 +10227,11 @@ const WORDS_IT_B1 = [
       "ja": "機械的な",
       "zh": "机械的",
       "ru": "механический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16791",
+    "lang": "it",
     "lemma": "meccanico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10893,13 +10252,12 @@ const WORDS_IT_B1 = [
       "zh": "机械师",
       "ru": "механик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "meccanica"
   },
   {
     "id": "it_16792",
+    "lang": "it",
     "lemma": "letale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10918,12 +10276,11 @@ const WORDS_IT_B1 = [
       "ja": "致命的な",
       "zh": "致命的",
       "ru": "смертельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16794",
+    "lang": "it",
     "lemma": "animo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10938,19 +10295,18 @@ const WORDS_IT_B1 = [
       "de": "die Seele",
       "es": "el alma",
       "fr": "l'âme",
-      "it": "l'animo",
+      "it": "l' l'animo",
       "pt": "a alma",
       "ja": "魂",
       "zh": "灵魂",
       "ru": "душа"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "animi"
   },
   {
     "id": "it_16795",
+    "lang": "it",
     "lemma": "arrogante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -10969,12 +10325,11 @@ const WORDS_IT_B1 = [
       "ja": "傲慢な",
       "zh": "傲慢的",
       "ru": "высокомерный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16796",
+    "lang": "it",
     "lemma": "impulso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -10988,19 +10343,18 @@ const WORDS_IT_B1 = [
       "de": "der Impuls",
       "es": "el impulso",
       "fr": "l'impulsion",
-      "it": "l'impulso",
+      "it": "l' l'impulso",
       "pt": "o impulso",
       "ja": "衝動",
       "zh": "冲动",
       "ru": "импульс"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "impulsi"
   },
   {
     "id": "it_16797",
+    "lang": "it",
     "lemma": "unirsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -11019,15 +10373,11 @@ const WORDS_IT_B1 = [
       "ja": "結合する",
       "zh": "联合",
       "ru": "объединяться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "unirsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16798",
+    "lang": "it",
     "lemma": "costante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11047,12 +10397,11 @@ const WORDS_IT_B1 = [
       "ja": "一定の",
       "zh": "恒定的",
       "ru": "постоянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16799",
+    "lang": "it",
     "lemma": "costante",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11072,13 +10421,11 @@ const WORDS_IT_B1 = [
       "zh": "常数",
       "ru": "константа"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16801",
+    "lang": "it",
     "lemma": "intervenire",
     "pos": "Verb",
     "cefr": "B1",
@@ -11098,15 +10445,11 @@ const WORDS_IT_B1 = [
       "ja": "介入する",
       "zh": "干预",
       "ru": "вмешиваться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "intervenire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16802",
+    "lang": "it",
     "lemma": "sconfitto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11125,12 +10468,11 @@ const WORDS_IT_B1 = [
       "ja": "敗北した",
       "zh": "失败的",
       "ru": "побежденный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16803",
+    "lang": "it",
     "lemma": "sconfitto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11150,13 +10492,12 @@ const WORDS_IT_B1 = [
       "zh": "失败者",
       "ru": "побежденный"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "sconfitti"
   },
   {
     "id": "it_16805",
+    "lang": "it",
     "lemma": "dividere",
     "pos": "Verb",
     "cefr": "B1",
@@ -11176,15 +10517,11 @@ const WORDS_IT_B1 = [
       "ja": "分ける",
       "zh": "分开",
       "ru": "делить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dividere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16806",
+    "lang": "it",
     "lemma": "svenuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11203,12 +10540,11 @@ const WORDS_IT_B1 = [
       "ja": "気絶した",
       "zh": "昏厥的",
       "ru": "без сознания"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16807",
+    "lang": "it",
     "lemma": "ego",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11222,19 +10558,17 @@ const WORDS_IT_B1 = [
       "de": "das Ego",
       "es": "el ego",
       "fr": "l'ego",
-      "it": "l'ego",
+      "it": "l' l'ego",
       "pt": "o ego",
       "ja": "エゴ",
       "zh": "自我",
       "ru": "эго"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16808",
+    "lang": "it",
     "lemma": "madonna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11254,13 +10588,12 @@ const WORDS_IT_B1 = [
       "zh": "圣母",
       "ru": "мадонна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "madonne"
   },
   {
     "id": "it_16810",
+    "lang": "it",
     "lemma": "budget",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11281,13 +10614,11 @@ const WORDS_IT_B1 = [
       "zh": "预算",
       "ru": "бюджет"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16811",
+    "lang": "it",
     "lemma": "nerd",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11306,12 +10637,11 @@ const WORDS_IT_B1 = [
       "ja": "オタクの",
       "zh": "书呆子的",
       "ru": "занудный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16812",
+    "lang": "it",
     "lemma": "sindacato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11330,12 +10660,11 @@ const WORDS_IT_B1 = [
       "ja": "組合の",
       "zh": "工会的",
       "ru": "профсоюзный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16813",
+    "lang": "it",
     "lemma": "sindacato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11356,13 +10685,12 @@ const WORDS_IT_B1 = [
       "zh": "工会",
       "ru": "профсоюз"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sindacati"
   },
   {
     "id": "it_16814",
+    "lang": "it",
     "lemma": "spedizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11383,13 +10711,12 @@ const WORDS_IT_B1 = [
       "zh": "运输",
       "ru": "отгрузка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "spedizioni"
   },
   {
     "id": "it_16815",
+    "lang": "it",
     "lemma": "multa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11409,13 +10736,12 @@ const WORDS_IT_B1 = [
       "zh": "罚款",
       "ru": "штраф"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "multe"
   },
   {
     "id": "it_16816",
+    "lang": "it",
     "lemma": "solitudine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11435,13 +10761,12 @@ const WORDS_IT_B1 = [
       "zh": "孤独",
       "ru": "одиночество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "solitudini"
   },
   {
     "id": "it_16820",
+    "lang": "it",
     "lemma": "avvelenato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11460,12 +10785,11 @@ const WORDS_IT_B1 = [
       "ja": "毒殺された",
       "zh": "中毒的",
       "ru": "отравленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16821",
+    "lang": "it",
     "lemma": "successivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11485,12 +10809,11 @@ const WORDS_IT_B1 = [
       "ja": "次の",
       "zh": "随后的",
       "ru": "последующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16822",
+    "lang": "it",
     "lemma": "improbabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11509,12 +10832,11 @@ const WORDS_IT_B1 = [
       "ja": "ありそうもない",
       "zh": "不太可能的",
       "ru": "маловероятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16823",
+    "lang": "it",
     "lemma": "professione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11535,13 +10857,12 @@ const WORDS_IT_B1 = [
       "zh": "职业",
       "ru": "профессия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "professioni"
   },
   {
     "id": "it_16824",
+    "lang": "it",
     "lemma": "commedia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11561,13 +10882,12 @@ const WORDS_IT_B1 = [
       "zh": "喜剧",
       "ru": "комедия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "commedie"
   },
   {
     "id": "it_16825",
+    "lang": "it",
     "lemma": "pregato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11586,12 +10906,11 @@ const WORDS_IT_B1 = [
       "ja": "依頼された",
       "zh": "被请求的",
       "ru": "запрошенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16827",
+    "lang": "it",
     "lemma": "compiuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11610,12 +10929,11 @@ const WORDS_IT_B1 = [
       "ja": "完了した",
       "zh": "完成的",
       "ru": "завершенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16828",
+    "lang": "it",
     "lemma": "costato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11634,12 +10952,11 @@ const WORDS_IT_B1 = [
       "ja": "費用がかかった",
       "zh": "花费的",
       "ru": "стоивший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16829",
+    "lang": "it",
     "lemma": "costato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11659,13 +10976,12 @@ const WORDS_IT_B1 = [
       "zh": "肋骨",
       "ru": "ребро"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "costati"
   },
   {
     "id": "it_16830",
+    "lang": "it",
     "lemma": "assicurato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11684,12 +11000,11 @@ const WORDS_IT_B1 = [
       "ja": "保証された",
       "zh": "被保险的",
       "ru": "застрахованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16831",
+    "lang": "it",
     "lemma": "assicurato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11703,19 +11018,18 @@ const WORDS_IT_B1 = [
       "de": "der Versicherte",
       "es": "el asegurado",
       "fr": "l'assuré",
-      "it": "l'assicurato",
+      "it": "l' l'assicurato",
       "pt": "o segurado",
       "ja": "被保険者",
       "zh": "被保险人",
       "ru": "застрахованный"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "assicurati"
   },
   {
     "id": "it_16832",
+    "lang": "it",
     "lemma": "ossessionato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11734,12 +11048,11 @@ const WORDS_IT_B1 = [
       "ja": "取りつかれた",
       "zh": "痴迷的",
       "ru": "одержимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16833",
+    "lang": "it",
     "lemma": "valido",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11758,12 +11071,11 @@ const WORDS_IT_B1 = [
       "ja": "有効な",
       "zh": "有效的",
       "ru": "действительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16834",
+    "lang": "it",
     "lemma": "ignorare",
     "pos": "Verb",
     "cefr": "B1",
@@ -11783,15 +11095,11 @@ const WORDS_IT_B1 = [
       "ja": "無視する",
       "zh": "忽视",
       "ru": "игнорировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ignorare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16836",
+    "lang": "it",
     "lemma": "tremendo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11810,12 +11118,11 @@ const WORDS_IT_B1 = [
       "ja": "恐ろしい",
       "zh": "巨大的",
       "ru": "огромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16837",
+    "lang": "it",
     "lemma": "campionato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11834,12 +11141,11 @@ const WORDS_IT_B1 = [
       "ja": "サンプリングされた",
       "zh": "采样的",
       "ru": "отобранный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16839",
+    "lang": "it",
     "lemma": "volontario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11858,12 +11164,11 @@ const WORDS_IT_B1 = [
       "ja": "自発的な",
       "zh": "自愿的",
       "ru": "добровольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16840",
+    "lang": "it",
     "lemma": "volontario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11884,13 +11189,12 @@ const WORDS_IT_B1 = [
       "zh": "志愿者",
       "ru": "волонтер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "volontari"
   },
   {
     "id": "it_16841",
+    "lang": "it",
     "lemma": "ginnastica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -11910,13 +11214,11 @@ const WORDS_IT_B1 = [
       "zh": "体操",
       "ru": "гимнастика"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16842",
+    "lang": "it",
     "lemma": "spaventare",
     "pos": "Verb",
     "cefr": "B1",
@@ -11935,15 +11237,11 @@ const WORDS_IT_B1 = [
       "ja": "怖がらせる",
       "zh": "吓唬",
       "ru": "пугать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "spaventare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16843",
+    "lang": "it",
     "lemma": "sognare",
     "pos": "Verb",
     "cefr": "B1",
@@ -11963,15 +11261,11 @@ const WORDS_IT_B1 = [
       "ja": "夢を見る",
       "zh": "做梦",
       "ru": "мечтать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sognare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16844",
+    "lang": "it",
     "lemma": "yoga",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -11990,12 +11284,11 @@ const WORDS_IT_B1 = [
       "ja": "ヨガの",
       "zh": "瑜伽的",
       "ru": "йога"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16846",
+    "lang": "it",
     "lemma": "pipì",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12015,13 +11308,11 @@ const WORDS_IT_B1 = [
       "zh": "尿",
       "ru": "пипи"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16847",
+    "lang": "it",
     "lemma": "pisciare",
     "pos": "Verb",
     "cefr": "B1",
@@ -12040,15 +11331,11 @@ const WORDS_IT_B1 = [
       "ja": "おしっこする",
       "zh": "撒尿",
       "ru": "писать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pisciare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16848",
+    "lang": "it",
     "lemma": "verificare",
     "pos": "Verb",
     "cefr": "B1",
@@ -12068,15 +11355,11 @@ const WORDS_IT_B1 = [
       "ja": "確認する",
       "zh": "验证",
       "ru": "проверять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verificare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16849",
+    "lang": "it",
     "lemma": "ranger",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12096,13 +11379,11 @@ const WORDS_IT_B1 = [
       "zh": "护林员",
       "ru": "рейнджер"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16850",
+    "lang": "it",
     "lemma": "colonna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12122,13 +11403,12 @@ const WORDS_IT_B1 = [
       "zh": "柱子",
       "ru": "колонна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "colonne"
   },
   {
     "id": "it_16851",
+    "lang": "it",
     "lemma": "conforto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12148,13 +11428,12 @@ const WORDS_IT_B1 = [
       "zh": "安慰",
       "ru": "утешение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "conforti"
   },
   {
     "id": "it_16852",
+    "lang": "it",
     "lemma": "emozionante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12174,12 +11453,11 @@ const WORDS_IT_B1 = [
       "ja": "感動的な",
       "zh": "激动人心的",
       "ru": "волнующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16853",
+    "lang": "it",
     "lemma": "caporale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12199,13 +11477,12 @@ const WORDS_IT_B1 = [
       "zh": "下士",
       "ru": "капрал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "caporali"
   },
   {
     "id": "it_16854",
+    "lang": "it",
     "lemma": "distrettuale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12224,12 +11501,11 @@ const WORDS_IT_B1 = [
       "ja": "地区の",
       "zh": "地区的",
       "ru": "районный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16855",
+    "lang": "it",
     "lemma": "bollente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12248,12 +11524,11 @@ const WORDS_IT_B1 = [
       "ja": "沸騰した",
       "zh": "沸腾的",
       "ru": "кипящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16857",
+    "lang": "it",
     "lemma": "eliminato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12272,12 +11547,11 @@ const WORDS_IT_B1 = [
       "ja": "排除された",
       "zh": "被淘汰的",
       "ru": "устраненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16858",
+    "lang": "it",
     "lemma": "supervisore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12297,13 +11571,12 @@ const WORDS_IT_B1 = [
       "zh": "监督员",
       "ru": "супервайзер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "supervisori"
   },
   {
     "id": "it_16859",
+    "lang": "it",
     "lemma": "amichevole",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12323,12 +11596,11 @@ const WORDS_IT_B1 = [
       "ja": "友好的な",
       "zh": "友好的",
       "ru": "дружелюбный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16860",
+    "lang": "it",
     "lemma": "ninja",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12348,13 +11620,11 @@ const WORDS_IT_B1 = [
       "zh": "忍者",
       "ru": "ниндзя"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16861",
+    "lang": "it",
     "lemma": "avvisato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12373,12 +11643,11 @@ const WORDS_IT_B1 = [
       "ja": "警告された",
       "zh": "被警告的",
       "ru": "предупрежденный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16862",
+    "lang": "it",
     "lemma": "assistito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12397,12 +11666,11 @@ const WORDS_IT_B1 = [
       "ja": "援助された",
       "zh": "被协助的",
       "ru": "поддерживаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16863",
+    "lang": "it",
     "lemma": "assistito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12416,19 +11684,18 @@ const WORDS_IT_B1 = [
       "de": "der Klient",
       "es": "el cliente",
       "fr": "le client",
-      "it": "l'assistito",
+      "it": "l' l'assistito",
       "pt": "o cliente",
       "ja": "顧客",
       "zh": "客户",
       "ru": "клиент"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "assistiti"
   },
   {
     "id": "it_16864",
+    "lang": "it",
     "lemma": "restituire",
     "pos": "Verb",
     "cefr": "B1",
@@ -12448,15 +11715,11 @@ const WORDS_IT_B1 = [
       "ja": "返す",
       "zh": "归还",
       "ru": "возвращать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "restituire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16865",
+    "lang": "it",
     "lemma": "delicato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12476,12 +11739,11 @@ const WORDS_IT_B1 = [
       "ja": "繊細な",
       "zh": "精致的",
       "ru": "нежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16866",
+    "lang": "it",
     "lemma": "fisso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12500,12 +11762,11 @@ const WORDS_IT_B1 = [
       "ja": "固定された",
       "zh": "固定的",
       "ru": "фиксированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16867",
+    "lang": "it",
     "lemma": "fisso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12525,13 +11786,12 @@ const WORDS_IT_B1 = [
       "zh": "固定工资",
       "ru": "фиксированная зарплата"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fissi"
   },
   {
     "id": "it_16868",
+    "lang": "it",
     "lemma": "espresso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12550,12 +11810,11 @@ const WORDS_IT_B1 = [
       "ja": "明確な",
       "zh": "明确的",
       "ru": "выраженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16869",
+    "lang": "it",
     "lemma": "espresso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12570,19 +11829,18 @@ const WORDS_IT_B1 = [
       "de": "der Expressbrief",
       "es": "el correo expreso",
       "fr": "l'express",
-      "it": "l'espresso",
+      "it": "l' l'espresso",
       "pt": "o correio expresso",
       "ja": "速達郵便",
       "zh": "特快邮件",
       "ru": "экспресс-почта"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "espressi"
   },
   {
     "id": "it_16870",
+    "lang": "it",
     "lemma": "elemento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12596,19 +11854,18 @@ const WORDS_IT_B1 = [
       "de": "das Element",
       "es": "el elemento",
       "fr": "l'élément",
-      "it": "l'elemento",
+      "it": "l' l'elemento",
       "pt": "o elemento",
       "ja": "要素",
       "zh": "元素",
       "ru": "элемент"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "elementi"
   },
   {
     "id": "it_16871",
+    "lang": "it",
     "lemma": "gennaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12629,13 +11886,12 @@ const WORDS_IT_B1 = [
       "zh": "一月",
       "ru": "январь"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "gennai"
   },
   {
     "id": "it_16872",
+    "lang": "it",
     "lemma": "razzista",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12654,12 +11910,11 @@ const WORDS_IT_B1 = [
       "ja": "人種差別的な",
       "zh": "种族主义的",
       "ru": "расистский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16873",
+    "lang": "it",
     "lemma": "affamato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12679,12 +11934,11 @@ const WORDS_IT_B1 = [
       "ja": "空腹の",
       "zh": "饥饿的",
       "ru": "голодный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16874",
+    "lang": "it",
     "lemma": "affamato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12698,19 +11952,18 @@ const WORDS_IT_B1 = [
       "de": "der Hungrige",
       "es": "el hambriento",
       "fr": "l'affamé",
-      "it": "l'affamato",
+      "it": "l' l'affamato",
       "pt": "o faminto",
       "ja": "空腹の人",
       "zh": "饥饿的人",
       "ru": "голодный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "affamati"
   },
   {
     "id": "it_16875",
+    "lang": "it",
     "lemma": "emozione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12725,19 +11978,18 @@ const WORDS_IT_B1 = [
       "de": "die Emotion",
       "es": "la emoción",
       "fr": "l'émotion",
-      "it": "l'emozione",
+      "it": "l' l'emozione",
       "pt": "a emoção",
       "ja": "感情",
       "zh": "情感",
       "ru": "эмоция"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "emozioni"
   },
   {
     "id": "it_16876",
+    "lang": "it",
     "lemma": "infinito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12756,12 +12008,11 @@ const WORDS_IT_B1 = [
       "ja": "無限の",
       "zh": "无限的",
       "ru": "бесконечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16877",
+    "lang": "it",
     "lemma": "infinito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12775,19 +12026,17 @@ const WORDS_IT_B1 = [
       "de": "die Unendlichkeit",
       "es": "el infinito",
       "fr": "l'infini",
-      "it": "l'infinito",
+      "it": "l' l'infinito",
       "pt": "o infinito",
       "ja": "無限",
       "zh": "无限",
       "ru": "бесконечность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_16879",
+    "lang": "it",
     "lemma": "crescita",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12808,13 +12057,11 @@ const WORDS_IT_B1 = [
       "zh": "增长",
       "ru": "рост"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16881",
+    "lang": "it",
     "lemma": "radar",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12834,13 +12081,11 @@ const WORDS_IT_B1 = [
       "zh": "雷达",
       "ru": "радар"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16883",
+    "lang": "it",
     "lemma": "trovarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -12851,7 +12096,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "위치하다",
-      "en": "to be located",
+      "en": "be located",
       "de": "sich befinden",
       "es": "encontrarse",
       "fr": "se trouver",
@@ -12860,15 +12105,11 @@ const WORDS_IT_B1 = [
       "ja": "位置する",
       "zh": "位于",
       "ru": "находиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trovarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_16884",
+    "lang": "it",
     "lemma": "aggiustare",
     "pos": "Verb",
     "cefr": "B1",
@@ -12878,7 +12119,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "고치다",
-      "en": "to fix",
+      "en": "fix",
       "de": "reparieren",
       "es": "arreglar",
       "fr": "réparer",
@@ -12887,15 +12128,11 @@ const WORDS_IT_B1 = [
       "ja": "修理する",
       "zh": "修理",
       "ru": "чинить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aggiustare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16886",
+    "lang": "it",
     "lemma": "maschile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12914,12 +12151,11 @@ const WORDS_IT_B1 = [
       "ja": "男性の",
       "zh": "男性的",
       "ru": "мужской"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16887",
+    "lang": "it",
     "lemma": "maschile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12939,13 +12175,11 @@ const WORDS_IT_B1 = [
       "zh": "阳性",
       "ru": "мужской род"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16889",
+    "lang": "it",
     "lemma": "metropolitana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -12966,13 +12200,12 @@ const WORDS_IT_B1 = [
       "zh": "地铁",
       "ru": "метро"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "metropolitane"
   },
   {
     "id": "it_16890",
+    "lang": "it",
     "lemma": "portale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -12991,12 +12224,11 @@ const WORDS_IT_B1 = [
       "ja": "門脈の",
       "zh": "门脉的",
       "ru": "портальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16891",
+    "lang": "it",
     "lemma": "portale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13016,13 +12248,12 @@ const WORDS_IT_B1 = [
       "zh": "门户",
       "ru": "портал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "portali"
   },
   {
     "id": "it_16892",
+    "lang": "it",
     "lemma": "rimandare",
     "pos": "Verb",
     "cefr": "B1",
@@ -13033,7 +12264,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "연기하다",
-      "en": "to postpone",
+      "en": "postpone",
       "de": "verschieben",
       "es": "posponer",
       "fr": "reporter",
@@ -13042,15 +12273,11 @@ const WORDS_IT_B1 = [
       "ja": "延期する",
       "zh": "推迟",
       "ru": "откладывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rimandare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16893",
+    "lang": "it",
     "lemma": "etichetta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13064,19 +12291,18 @@ const WORDS_IT_B1 = [
       "de": "das Etikett",
       "es": "la etiqueta",
       "fr": "l'étiquette",
-      "it": "l'etichetta",
+      "it": "l' l'etichetta",
       "pt": "o rótulo",
       "ja": "ラベル",
       "zh": "标签",
       "ru": "этикетка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "etichette"
   },
   {
     "id": "it_16894",
+    "lang": "it",
     "lemma": "entusiasmo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13091,19 +12317,18 @@ const WORDS_IT_B1 = [
       "de": "die Begeisterung",
       "es": "el entusiasmo",
       "fr": "l'enthousiasme",
-      "it": "l'entusiasmo",
+      "it": "l' l'entusiasmo",
       "pt": "o entusiasmo",
       "ja": "熱意",
       "zh": "热情",
       "ru": "энтузиазм"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "entusiasmi"
   },
   {
     "id": "it_16895",
+    "lang": "it",
     "lemma": "classica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13124,13 +12349,12 @@ const WORDS_IT_B1 = [
       "zh": "经典",
       "ru": "классика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "classiche"
   },
   {
     "id": "it_16897",
+    "lang": "it",
     "lemma": "probabilità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13150,13 +12374,11 @@ const WORDS_IT_B1 = [
       "zh": "概率",
       "ru": "вероятность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_16898",
+    "lang": "it",
     "lemma": "regione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13177,13 +12399,12 @@ const WORDS_IT_B1 = [
       "zh": "地区",
       "ru": "регион"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "regioni"
   },
   {
     "id": "it_16899",
+    "lang": "it",
     "lemma": "appropriato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13203,12 +12424,11 @@ const WORDS_IT_B1 = [
       "ja": "適切な",
       "zh": "适当的",
       "ru": "подходящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16900",
+    "lang": "it",
     "lemma": "iniezione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13223,19 +12443,18 @@ const WORDS_IT_B1 = [
       "de": "die Injektion",
       "es": "la inyección",
       "fr": "l'injection",
-      "it": "l'iniezione",
+      "it": "l' l'iniezione",
       "pt": "a injeção",
       "ja": "注射",
       "zh": "注射",
       "ru": "инъекция"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "iniezioni"
   },
   {
     "id": "it_16904",
+    "lang": "it",
     "lemma": "deposizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13255,13 +12474,12 @@ const WORDS_IT_B1 = [
       "zh": "证词",
       "ru": "показание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "deposizioni"
   },
   {
     "id": "it_16905",
+    "lang": "it",
     "lemma": "galassia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13281,13 +12499,12 @@ const WORDS_IT_B1 = [
       "zh": "星系",
       "ru": "галактика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "galassie"
   },
   {
     "id": "it_16906",
+    "lang": "it",
     "lemma": "economico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13307,12 +12524,11 @@ const WORDS_IT_B1 = [
       "ja": "経済の",
       "zh": "经济的",
       "ru": "экономический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16908",
+    "lang": "it",
     "lemma": "avvicinare",
     "pos": "Verb",
     "cefr": "B1",
@@ -13323,7 +12539,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "가까이하다",
-      "en": "to approach",
+      "en": "approach",
       "de": "nähern",
       "es": "acercar",
       "fr": "approcher",
@@ -13332,15 +12548,11 @@ const WORDS_IT_B1 = [
       "ja": "近づける",
       "zh": "靠近",
       "ru": "приближать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "avvicinare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16909",
+    "lang": "it",
     "lemma": "barbecue",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13361,13 +12573,11 @@ const WORDS_IT_B1 = [
       "zh": "烧烤",
       "ru": "барбекю"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16910",
+    "lang": "it",
     "lemma": "archivio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13382,19 +12592,18 @@ const WORDS_IT_B1 = [
       "de": "das Archiv",
       "es": "el archivo",
       "fr": "l'archive",
-      "it": "l'archivio",
+      "it": "l' l'archivio",
       "pt": "o arquivo",
       "ja": "アーカイブ",
       "zh": "档案",
       "ru": "архив"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "archivi"
   },
   {
     "id": "it_16911",
+    "lang": "it",
     "lemma": "scolastico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13413,12 +12622,11 @@ const WORDS_IT_B1 = [
       "ja": "学校の",
       "zh": "学校的",
       "ru": "школьный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16912",
+    "lang": "it",
     "lemma": "scolastico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13438,13 +12646,12 @@ const WORDS_IT_B1 = [
       "zh": "经院哲学家",
       "ru": "схоласт"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scolastici"
   },
   {
     "id": "it_16913",
+    "lang": "it",
     "lemma": "bagnato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13464,12 +12671,11 @@ const WORDS_IT_B1 = [
       "ja": "濡れた",
       "zh": "湿的",
       "ru": "мокрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16914",
+    "lang": "it",
     "lemma": "bagnato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13489,13 +12695,11 @@ const WORDS_IT_B1 = [
       "zh": "潮湿",
       "ru": "сырость"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16915",
+    "lang": "it",
     "lemma": "frequentare",
     "pos": "Verb",
     "cefr": "B1",
@@ -13506,7 +12710,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "자주 가다",
-      "en": "to frequent",
+      "en": "frequent",
       "de": "besuchen",
       "es": "frecuentar",
       "fr": "fréquenter",
@@ -13515,15 +12719,11 @@ const WORDS_IT_B1 = [
       "ja": "頻繁に行く",
       "zh": "常去",
       "ru": "посещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "frequentare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16917",
+    "lang": "it",
     "lemma": "sequenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13543,13 +12743,12 @@ const WORDS_IT_B1 = [
       "zh": "序列",
       "ru": "последовательность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sequenze"
   },
   {
     "id": "it_16918",
+    "lang": "it",
     "lemma": "colonia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13569,13 +12768,12 @@ const WORDS_IT_B1 = [
       "zh": "古龙水",
       "ru": "одеколон"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "colonie"
   },
   {
     "id": "it_16920",
+    "lang": "it",
     "lemma": "esplosivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13594,12 +12792,11 @@ const WORDS_IT_B1 = [
       "ja": "爆発性の",
       "zh": "爆炸性的",
       "ru": "взрывной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16922",
+    "lang": "it",
     "lemma": "alleanza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13613,19 +12810,18 @@ const WORDS_IT_B1 = [
       "de": "die Allianz",
       "es": "la alianza",
       "fr": "l'alliance",
-      "it": "l'alleanza",
+      "it": "l' l'alleanza",
       "pt": "a aliança",
       "ja": "同盟",
       "zh": "联盟",
       "ru": "альянс"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "alleanze"
   },
   {
     "id": "it_16923",
+    "lang": "it",
     "lemma": "fenomeno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13645,13 +12841,12 @@ const WORDS_IT_B1 = [
       "zh": "现象",
       "ru": "феномен"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fenomeni"
   },
   {
     "id": "it_16924",
+    "lang": "it",
     "lemma": "colto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13671,12 +12866,11 @@ const WORDS_IT_B1 = [
       "ja": "教養のある",
       "zh": "有教养的",
       "ru": "культурный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16925",
+    "lang": "it",
     "lemma": "colto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13697,13 +12891,11 @@ const WORDS_IT_B1 = [
       "zh": "知识分子",
       "ru": "интеллигент"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16926",
+    "lang": "it",
     "lemma": "pop",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13723,13 +12915,11 @@ const WORDS_IT_B1 = [
       "zh": "流行",
       "ru": "поп"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16928",
+    "lang": "it",
     "lemma": "ava",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13744,19 +12934,18 @@ const WORDS_IT_B1 = [
       "de": "die Ahnin",
       "es": "la abuela",
       "fr": "l'aïeule",
-      "it": "l'ava",
+      "it": "l' l'ava",
       "pt": "a avó",
       "ja": "祖母",
       "zh": "祖母",
       "ru": "прародительница"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "avi"
   },
   {
     "id": "it_16929",
+    "lang": "it",
     "lemma": "fetta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13777,13 +12966,12 @@ const WORDS_IT_B1 = [
       "zh": "片",
       "ru": "ломтик"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fette"
   },
   {
     "id": "it_16930",
+    "lang": "it",
     "lemma": "obbligo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13798,19 +12986,18 @@ const WORDS_IT_B1 = [
       "de": "die Pflicht",
       "es": "la obligación",
       "fr": "l'obligation",
-      "it": "l'obbligo",
+      "it": "l' l'obbligo",
       "pt": "a obrigação",
       "ja": "義務",
       "zh": "义务",
       "ru": "обязанность"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "obblighi"
   },
   {
     "id": "it_16931",
+    "lang": "it",
     "lemma": "cuoco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13831,13 +13018,12 @@ const WORDS_IT_B1 = [
       "zh": "厨师",
       "ru": "повар"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cuochi"
   },
   {
     "id": "it_16932",
+    "lang": "it",
     "lemma": "testo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13858,13 +13044,12 @@ const WORDS_IT_B1 = [
       "zh": "文本",
       "ru": "текст"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "testi"
   },
   {
     "id": "it_16933",
+    "lang": "it",
     "lemma": "incolpare",
     "pos": "Verb",
     "cefr": "B1",
@@ -13875,7 +13060,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "비난하다",
-      "en": "to blame",
+      "en": "blame",
       "de": "beschuldigen",
       "es": "culpar",
       "fr": "blâmer",
@@ -13884,15 +13069,11 @@ const WORDS_IT_B1 = [
       "ja": "非難する",
       "zh": "责备",
       "ru": "обвинять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "incolpare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16934",
+    "lang": "it",
     "lemma": "gabinetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13913,13 +13094,12 @@ const WORDS_IT_B1 = [
       "zh": "办公室",
       "ru": "кабинет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "gabinetti"
   },
   {
     "id": "it_16937",
+    "lang": "it",
     "lemma": "circuito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13938,12 +13118,11 @@ const WORDS_IT_B1 = [
       "ja": "騙された",
       "zh": "被骗的",
       "ru": "обманутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16941",
+    "lang": "it",
     "lemma": "spirituale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -13963,12 +13142,11 @@ const WORDS_IT_B1 = [
       "ja": "精神的な",
       "zh": "精神的",
       "ru": "духовный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16942",
+    "lang": "it",
     "lemma": "sol",
     "pos": "Nomen",
     "cefr": "B1",
@@ -13988,13 +13166,11 @@ const WORDS_IT_B1 = [
       "zh": "索尔",
       "ru": "соль"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16943",
+    "lang": "it",
     "lemma": "preavviso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14015,13 +13191,12 @@ const WORDS_IT_B1 = [
       "zh": "预先通知",
       "ru": "предварительное уведомление"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "preavvisi"
   },
   {
     "id": "it_16944",
+    "lang": "it",
     "lemma": "sbattere",
     "pos": "Verb",
     "cefr": "B1",
@@ -14031,7 +13206,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "세게 치다",
-      "en": "to slam",
+      "en": "slam",
       "de": "zuschlagen",
       "es": "golpear",
       "fr": "claquer",
@@ -14040,15 +13215,11 @@ const WORDS_IT_B1 = [
       "ja": "叩きつける",
       "zh": "猛击",
       "ru": "хлопать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sbattere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16945",
+    "lang": "it",
     "lemma": "pescare",
     "pos": "Verb",
     "cefr": "B1",
@@ -14059,7 +13230,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "낚시하다",
-      "en": "to fish",
+      "en": "fish",
       "de": "fischen",
       "es": "pescar",
       "fr": "pêcher",
@@ -14068,15 +13239,11 @@ const WORDS_IT_B1 = [
       "ja": "釣る",
       "zh": "钓鱼",
       "ru": "ловить рыбу"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pescare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16946",
+    "lang": "it",
     "lemma": "formula",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14097,13 +13264,12 @@ const WORDS_IT_B1 = [
       "zh": "公式",
       "ru": "формула"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "formule"
   },
   {
     "id": "it_16948",
+    "lang": "it",
     "lemma": "casco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14124,13 +13290,12 @@ const WORDS_IT_B1 = [
       "zh": "头盔",
       "ru": "шлем"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "caschi"
   },
   {
     "id": "it_16949",
+    "lang": "it",
     "lemma": "pirata",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14149,12 +13314,11 @@ const WORDS_IT_B1 = [
       "ja": "海賊の",
       "zh": "海盗的",
       "ru": "пиратский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16950",
+    "lang": "it",
     "lemma": "pirata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14174,13 +13338,12 @@ const WORDS_IT_B1 = [
       "zh": "海盗",
       "ru": "пират"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pirati"
   },
   {
     "id": "it_16951",
+    "lang": "it",
     "lemma": "scudo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14200,13 +13363,12 @@ const WORDS_IT_B1 = [
       "zh": "盾牌",
       "ru": "щит"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scudi"
   },
   {
     "id": "it_16952",
+    "lang": "it",
     "lemma": "biscotto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14225,12 +13387,11 @@ const WORDS_IT_B1 = [
       "ja": "二度焼きの",
       "zh": "烤两次的",
       "ru": "дважды запечённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16953",
+    "lang": "it",
     "lemma": "biscotto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14251,13 +13412,12 @@ const WORDS_IT_B1 = [
       "zh": "饼干",
       "ru": "печенье"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "biscotti"
   },
   {
     "id": "it_16954",
+    "lang": "it",
     "lemma": "scarica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14277,13 +13437,12 @@ const WORDS_IT_B1 = [
       "zh": "排放",
       "ru": "разряд"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "scariche"
   },
   {
     "id": "it_16955",
+    "lang": "it",
     "lemma": "riva",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14304,13 +13463,12 @@ const WORDS_IT_B1 = [
       "zh": "岸",
       "ru": "берег"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rive"
   },
   {
     "id": "it_16956",
+    "lang": "it",
     "lemma": "prato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14331,13 +13489,12 @@ const WORDS_IT_B1 = [
       "zh": "草地",
       "ru": "луг"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "prati"
   },
   {
     "id": "it_16957",
+    "lang": "it",
     "lemma": "assalto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14351,19 +13508,18 @@ const WORDS_IT_B1 = [
       "de": "der Angriff",
       "es": "el asalto",
       "fr": "l'assaut",
-      "it": "l'assalto",
+      "it": "l' l'assalto",
       "pt": "o assalto",
       "ja": "襲撃",
       "zh": "袭击",
       "ru": "нападение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "assalti"
   },
   {
     "id": "it_16958",
+    "lang": "it",
     "lemma": "guardiano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14384,13 +13540,12 @@ const WORDS_IT_B1 = [
       "zh": "守卫",
       "ru": "охранник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "guardiani"
   },
   {
     "id": "it_16961",
+    "lang": "it",
     "lemma": "orrore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14404,19 +13559,18 @@ const WORDS_IT_B1 = [
       "de": "der Horror",
       "es": "el horror",
       "fr": "l'horreur",
-      "it": "l'orrore",
+      "it": "l' l'orrore",
       "pt": "o horror",
       "ja": "恐怖",
       "zh": "恐怖",
       "ru": "ужас"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orrori"
   },
   {
     "id": "it_16962",
+    "lang": "it",
     "lemma": "scattare",
     "pos": "Verb",
     "cefr": "B1",
@@ -14435,15 +13589,11 @@ const WORDS_IT_B1 = [
       "ja": "作動する",
       "zh": "启动",
       "ru": "сработать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scattare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16963",
+    "lang": "it",
     "lemma": "urlo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14457,19 +13607,18 @@ const WORDS_IT_B1 = [
       "de": "der Schrei",
       "es": "el grito",
       "fr": "le cri",
-      "it": "l'urlo",
+      "it": "l' l'urlo",
       "pt": "o grito",
       "ja": "叫び声",
       "zh": "尖叫",
       "ru": "крик"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "urla"
   },
   {
     "id": "it_16965",
+    "lang": "it",
     "lemma": "vulnerabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14489,12 +13638,11 @@ const WORDS_IT_B1 = [
       "ja": "脆弱な",
       "zh": "脆弱的",
       "ru": "уязвимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16966",
+    "lang": "it",
     "lemma": "incapace",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14513,12 +13661,11 @@ const WORDS_IT_B1 = [
       "ja": "無能な",
       "zh": "无能的",
       "ru": "неспособный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16967",
+    "lang": "it",
     "lemma": "cecchino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14538,13 +13685,12 @@ const WORDS_IT_B1 = [
       "zh": "狙击手",
       "ru": "снайпер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cecchini"
   },
   {
     "id": "it_16968",
+    "lang": "it",
     "lemma": "messicano",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14564,12 +13710,11 @@ const WORDS_IT_B1 = [
       "ja": "メキシコの",
       "zh": "墨西哥的",
       "ru": "мексиканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16969",
+    "lang": "it",
     "lemma": "messicano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14590,13 +13735,11 @@ const WORDS_IT_B1 = [
       "zh": "墨西哥人",
       "ru": "мексиканец"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16970",
+    "lang": "it",
     "lemma": "affidabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14616,12 +13759,11 @@ const WORDS_IT_B1 = [
       "ja": "信頼できる",
       "zh": "可靠的",
       "ru": "надежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16971",
+    "lang": "it",
     "lemma": "scarico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14640,12 +13782,11 @@ const WORDS_IT_B1 = [
       "ja": "荷降ろしされた",
       "zh": "卸载的",
       "ru": "разгруженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16972",
+    "lang": "it",
     "lemma": "scarico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14666,13 +13807,12 @@ const WORDS_IT_B1 = [
       "zh": "排放",
       "ru": "слив"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scarichi"
   },
   {
     "id": "it_16973",
+    "lang": "it",
     "lemma": "negare",
     "pos": "Verb",
     "cefr": "B1",
@@ -14691,15 +13831,11 @@ const WORDS_IT_B1 = [
       "ja": "否定する",
       "zh": "否认",
       "ru": "отрицать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "negare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16975",
+    "lang": "it",
     "lemma": "ricercato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14718,12 +13854,11 @@ const WORDS_IT_B1 = [
       "ja": "洗練された",
       "zh": "精致的",
       "ru": "изысканный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16976",
+    "lang": "it",
     "lemma": "reggiseno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14743,13 +13878,12 @@ const WORDS_IT_B1 = [
       "zh": "胸罩",
       "ru": "бюстгальтер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "reggiseni"
   },
   {
     "id": "it_16978",
+    "lang": "it",
     "lemma": "ranch",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14769,13 +13903,11 @@ const WORDS_IT_B1 = [
       "zh": "牧场",
       "ru": "ранчо"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_16983",
+    "lang": "it",
     "lemma": "omaggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14789,19 +13921,18 @@ const WORDS_IT_B1 = [
       "de": "die Huldigung",
       "es": "el homenaje",
       "fr": "l'hommage",
-      "it": "l'omaggio",
+      "it": "l' l'omaggio",
       "pt": "a homenagem",
       "ja": "敬意",
       "zh": "敬意",
       "ru": "дань"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "omaggi"
   },
   {
     "id": "it_16984",
+    "lang": "it",
     "lemma": "lotteria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14821,13 +13952,12 @@ const WORDS_IT_B1 = [
       "zh": "彩票",
       "ru": "лотерея"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lotterie"
   },
   {
     "id": "it_16986",
+    "lang": "it",
     "lemma": "favoloso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14847,12 +13977,11 @@ const WORDS_IT_B1 = [
       "ja": "素晴らしい",
       "zh": "极好的",
       "ru": "сказочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16987",
+    "lang": "it",
     "lemma": "sottile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -14872,12 +14001,11 @@ const WORDS_IT_B1 = [
       "ja": "薄い",
       "zh": "薄的",
       "ru": "тонкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16988",
+    "lang": "it",
     "lemma": "disturbare",
     "pos": "Verb",
     "cefr": "B1",
@@ -14897,15 +14025,11 @@ const WORDS_IT_B1 = [
       "ja": "邪魔する",
       "zh": "打扰",
       "ru": "беспокоить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "disturbare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16989",
+    "lang": "it",
     "lemma": "ingannare",
     "pos": "Verb",
     "cefr": "B1",
@@ -14924,15 +14048,11 @@ const WORDS_IT_B1 = [
       "ja": "騙す",
       "zh": "欺骗",
       "ru": "обманывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ingannare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_16990",
+    "lang": "it",
     "lemma": "dramma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14953,13 +14073,12 @@ const WORDS_IT_B1 = [
       "zh": "戏剧",
       "ru": "драма"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "drammi"
   },
   {
     "id": "it_16992",
+    "lang": "it",
     "lemma": "attentato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -14973,19 +14092,18 @@ const WORDS_IT_B1 = [
       "de": "das Attentat",
       "es": "el atentado",
       "fr": "l'attentat",
-      "it": "l'attentato",
+      "it": "l' l'attentato",
       "pt": "o atentado",
       "ja": "テロ",
       "zh": "袭击",
       "ru": "покушение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "attentati"
   },
   {
     "id": "it_16993",
+    "lang": "it",
     "lemma": "latino",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15004,12 +14122,11 @@ const WORDS_IT_B1 = [
       "ja": "ラテンの",
       "zh": "拉丁的",
       "ru": "латинский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16995",
+    "lang": "it",
     "lemma": "incasinato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15028,12 +14145,11 @@ const WORDS_IT_B1 = [
       "ja": "めちゃくちゃな",
       "zh": "混乱的",
       "ru": "беспорядочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16998",
+    "lang": "it",
     "lemma": "concentrato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15053,12 +14169,11 @@ const WORDS_IT_B1 = [
       "ja": "集中した",
       "zh": "集中的",
       "ru": "концентрированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_16999",
+    "lang": "it",
     "lemma": "bancone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15079,13 +14194,12 @@ const WORDS_IT_B1 = [
       "zh": "柜台",
       "ru": "прилавок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "banconi"
   },
   {
     "id": "it_17000",
+    "lang": "it",
     "lemma": "look",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15105,13 +14219,11 @@ const WORDS_IT_B1 = [
       "zh": "外表",
       "ru": "образ"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17001",
+    "lang": "it",
     "lemma": "pro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15132,13 +14244,11 @@ const WORDS_IT_B1 = [
       "zh": "优点",
       "ru": "плюс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17002",
+    "lang": "it",
     "lemma": "verbale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15157,12 +14267,11 @@ const WORDS_IT_B1 = [
       "ja": "口頭の",
       "zh": "口头的",
       "ru": "устный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17003",
+    "lang": "it",
     "lemma": "verbale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15182,13 +14291,12 @@ const WORDS_IT_B1 = [
       "zh": "会议记录",
       "ru": "протокол"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "verbali"
   },
   {
     "id": "it_17004",
+    "lang": "it",
     "lemma": "innocenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15203,19 +14311,17 @@ const WORDS_IT_B1 = [
       "de": "die Unschuld",
       "es": "la inocencia",
       "fr": "l'innocence",
-      "it": "l'innocenza",
+      "it": "l' l'innocenza",
       "pt": "a inocência",
       "ja": "無邪気さ",
       "zh": "清白",
       "ru": "невинность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17005",
+    "lang": "it",
     "lemma": "inferiore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15235,12 +14341,11 @@ const WORDS_IT_B1 = [
       "ja": "下位の",
       "zh": "下级的",
       "ru": "нижний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17006",
+    "lang": "it",
     "lemma": "rilascio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15260,13 +14365,12 @@ const WORDS_IT_B1 = [
       "zh": "释放",
       "ru": "освобождение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "rilasci"
   },
   {
     "id": "it_17007",
+    "lang": "it",
     "lemma": "prudente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15286,12 +14390,11 @@ const WORDS_IT_B1 = [
       "ja": "慎重な",
       "zh": "谨慎的",
       "ru": "осторожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17008",
+    "lang": "it",
     "lemma": "analizzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -15310,15 +14413,11 @@ const WORDS_IT_B1 = [
       "ja": "分析する",
       "zh": "分析",
       "ru": "анализировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "analizzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17009",
+    "lang": "it",
     "lemma": "sordo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15338,12 +14437,11 @@ const WORDS_IT_B1 = [
       "ja": "耳の聞こえない",
       "zh": "聋的",
       "ru": "глухой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17010",
+    "lang": "it",
     "lemma": "destinazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15364,13 +14462,12 @@ const WORDS_IT_B1 = [
       "zh": "目的地",
       "ru": "пункт назначения"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "destinazioni"
   },
   {
     "id": "it_17011",
+    "lang": "it",
     "lemma": "rivelare",
     "pos": "Verb",
     "cefr": "B1",
@@ -15390,15 +14487,11 @@ const WORDS_IT_B1 = [
       "ja": "明らかにする",
       "zh": "揭示",
       "ru": "раскрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rivelare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17013",
+    "lang": "it",
     "lemma": "curato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15417,12 +14510,11 @@ const WORDS_IT_B1 = [
       "ja": "手入れされた",
       "zh": "整洁的",
       "ru": "ухоженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17014",
+    "lang": "it",
     "lemma": "curato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15442,13 +14534,12 @@ const WORDS_IT_B1 = [
       "zh": "副牧师",
       "ru": "викарий"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "curati"
   },
   {
     "id": "it_17015",
+    "lang": "it",
     "lemma": "postale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15468,12 +14559,11 @@ const WORDS_IT_B1 = [
       "ja": "郵便の",
       "zh": "邮政的",
       "ru": "почтовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17016",
+    "lang": "it",
     "lemma": "postale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15494,13 +14584,12 @@ const WORDS_IT_B1 = [
       "zh": "邮政服务",
       "ru": "почтовая служба"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "postali"
   },
   {
     "id": "it_17017",
+    "lang": "it",
     "lemma": "maniaco",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15519,12 +14608,11 @@ const WORDS_IT_B1 = [
       "ja": "狂気の",
       "zh": "狂热的",
       "ru": "маниакальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17018",
+    "lang": "it",
     "lemma": "maniaco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15544,13 +14632,11 @@ const WORDS_IT_B1 = [
       "zh": "狂人",
       "ru": "маньяк"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17019",
+    "lang": "it",
     "lemma": "iris",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15564,19 +14650,17 @@ const WORDS_IT_B1 = [
       "de": "die Iris",
       "es": "el iris",
       "fr": "l'iris",
-      "it": "l'iris",
+      "it": "l' l'iris",
       "pt": "a íris",
       "ja": "アヤメ",
       "zh": "鸢尾花",
       "ru": "ирис"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17020",
+    "lang": "it",
     "lemma": "soffitto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15597,13 +14681,12 @@ const WORDS_IT_B1 = [
       "zh": "天花板",
       "ru": "потолок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "soffitti"
   },
   {
     "id": "it_17021",
+    "lang": "it",
     "lemma": "statale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15622,12 +14705,11 @@ const WORDS_IT_B1 = [
       "ja": "国営の",
       "zh": "国有的",
       "ru": "государственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17022",
+    "lang": "it",
     "lemma": "statale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15647,13 +14729,12 @@ const WORDS_IT_B1 = [
       "zh": "国道",
       "ru": "государственная дорога"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "statali"
   },
   {
     "id": "it_17023",
+    "lang": "it",
     "lemma": "rituale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15672,12 +14753,11 @@ const WORDS_IT_B1 = [
       "ja": "儀式の",
       "zh": "仪式的",
       "ru": "ритуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17024",
+    "lang": "it",
     "lemma": "senato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15697,13 +14777,12 @@ const WORDS_IT_B1 = [
       "zh": "参议院",
       "ru": "сенат"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "senati"
   },
   {
     "id": "it_17025",
+    "lang": "it",
     "lemma": "banana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15724,13 +14803,12 @@ const WORDS_IT_B1 = [
       "zh": "香蕉",
       "ru": "банан"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "banane"
   },
   {
     "id": "it_17026",
+    "lang": "it",
     "lemma": "venditore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -15749,12 +14827,11 @@ const WORDS_IT_B1 = [
       "ja": "販売の",
       "zh": "销售的",
       "ru": "продающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17027",
+    "lang": "it",
     "lemma": "venditore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15775,13 +14852,12 @@ const WORDS_IT_B1 = [
       "zh": "销售员",
       "ru": "продавец"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "venditori"
   },
   {
     "id": "it_17028",
+    "lang": "it",
     "lemma": "valere",
     "pos": "Verb",
     "cefr": "B1",
@@ -15792,7 +14868,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "가치가 있다",
-      "en": "to be worth",
+      "en": "be worth",
       "de": "gelten",
       "es": "valer",
       "fr": "valoir",
@@ -15801,15 +14877,11 @@ const WORDS_IT_B1 = [
       "ja": "価値がある",
       "zh": "值得",
       "ru": "стоить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "valere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17029",
+    "lang": "it",
     "lemma": "trasportare",
     "pos": "Verb",
     "cefr": "B1",
@@ -15820,7 +14892,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "운반하다",
-      "en": "to transport",
+      "en": "transport",
       "de": "transportieren",
       "es": "transportar",
       "fr": "transporter",
@@ -15829,15 +14901,11 @@ const WORDS_IT_B1 = [
       "ja": "輸送する",
       "zh": "运输",
       "ru": "перевозить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trasportare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17030",
+    "lang": "it",
     "lemma": "mattinata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15858,13 +14926,12 @@ const WORDS_IT_B1 = [
       "zh": "上午",
       "ru": "утро"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mattinate"
   },
   {
     "id": "it_17031",
+    "lang": "it",
     "lemma": "riscatto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15884,13 +14951,12 @@ const WORDS_IT_B1 = [
       "zh": "赎金",
       "ru": "выкуп"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riscatti"
   },
   {
     "id": "it_17032",
+    "lang": "it",
     "lemma": "soffiata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15911,13 +14977,12 @@ const WORDS_IT_B1 = [
       "zh": "告密",
       "ru": "донос"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "soffiate"
   },
   {
     "id": "it_17033",
+    "lang": "it",
     "lemma": "ferire",
     "pos": "Verb",
     "cefr": "B1",
@@ -15927,7 +14992,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "상처를 입히다",
-      "en": "to wound",
+      "en": "wound",
       "de": "verletzen",
       "es": "herir",
       "fr": "blesser",
@@ -15936,15 +15001,11 @@ const WORDS_IT_B1 = [
       "ja": "傷つける",
       "zh": "伤害",
       "ru": "ранить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ferire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17034",
+    "lang": "it",
     "lemma": "menzogna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15964,13 +15025,12 @@ const WORDS_IT_B1 = [
       "zh": "谎言",
       "ru": "ложь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "menzogne"
   },
   {
     "id": "it_17035",
+    "lang": "it",
     "lemma": "fotografo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -15991,13 +15051,12 @@ const WORDS_IT_B1 = [
       "zh": "摄影师",
       "ru": "фотограф"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fotografi"
   },
   {
     "id": "it_17037",
+    "lang": "it",
     "lemma": "centinaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16017,13 +15076,12 @@ const WORDS_IT_B1 = [
       "zh": "大约一百",
       "ru": "сотня"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "centinaia"
   },
   {
     "id": "it_17038",
+    "lang": "it",
     "lemma": "ripulire",
     "pos": "Verb",
     "cefr": "B1",
@@ -16033,7 +15091,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "다시 청소하다",
-      "en": "to clean up",
+      "en": "clean up",
       "de": "reinigen",
       "es": "limpiar",
       "fr": "nettoyer",
@@ -16042,15 +15100,11 @@ const WORDS_IT_B1 = [
       "ja": "きれいにする",
       "zh": "清理",
       "ru": "очищать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ripulire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17039",
+    "lang": "it",
     "lemma": "detenuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16069,12 +15123,11 @@ const WORDS_IT_B1 = [
       "ja": "拘留された",
       "zh": "被拘留的",
       "ru": "задержанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17040",
+    "lang": "it",
     "lemma": "detenuto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16094,13 +15147,12 @@ const WORDS_IT_B1 = [
       "zh": "囚犯",
       "ru": "заключенный"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "detenuti"
   },
   {
     "id": "it_17042",
+    "lang": "it",
     "lemma": "manicomio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16120,13 +15172,12 @@ const WORDS_IT_B1 = [
       "zh": "精神病院",
       "ru": "сумасшедший дом"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "manicomi"
   },
   {
     "id": "it_17043",
+    "lang": "it",
     "lemma": "decente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16146,12 +15197,11 @@ const WORDS_IT_B1 = [
       "ja": "きちんとした",
       "zh": "正派的",
       "ru": "приличный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17044",
+    "lang": "it",
     "lemma": "aggiunto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16170,12 +15220,11 @@ const WORDS_IT_B1 = [
       "ja": "追加された",
       "zh": "附加的",
       "ru": "добавленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17045",
+    "lang": "it",
     "lemma": "aggiunto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16189,19 +15238,18 @@ const WORDS_IT_B1 = [
       "de": "der Assistent",
       "es": "el adjunto",
       "fr": "l'adjoint",
-      "it": "l'aggiunto",
+      "it": "l' l'aggiunto",
       "pt": "o adjunto",
       "ja": "補佐",
       "zh": "助理",
       "ru": "помощник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "aggiunti"
   },
   {
     "id": "it_17046",
+    "lang": "it",
     "lemma": "illusione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16215,19 +15263,18 @@ const WORDS_IT_B1 = [
       "de": "die Illusion",
       "es": "la ilusión",
       "fr": "l'illusion",
-      "it": "l'illusione",
+      "it": "l' l'illusione",
       "pt": "a ilusão",
       "ja": "幻想",
       "zh": "幻觉",
       "ru": "иллюзия"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "illusioni"
   },
   {
     "id": "it_17047",
+    "lang": "it",
     "lemma": "conquistare",
     "pos": "Verb",
     "cefr": "B1",
@@ -16246,15 +15293,11 @@ const WORDS_IT_B1 = [
       "ja": "征服する",
       "zh": "征服",
       "ru": "завоевывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "conquistare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17048",
+    "lang": "it",
     "lemma": "agitato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16273,12 +15316,11 @@ const WORDS_IT_B1 = [
       "ja": "興奮した",
       "zh": "激动的",
       "ru": "взволнованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17049",
+    "lang": "it",
     "lemma": "agitato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16292,19 +15334,18 @@ const WORDS_IT_B1 = [
       "de": "der Aufgeregte",
       "es": "el agitado",
       "fr": "l'agité",
-      "it": "l'agitato",
+      "it": "l' l'agitato",
       "pt": "o agitado",
       "ja": "興奮した人",
       "zh": "激动的人",
       "ru": "взволнованный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "agitati"
   },
   {
     "id": "it_17050",
+    "lang": "it",
     "lemma": "grigio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16324,12 +15365,11 @@ const WORDS_IT_B1 = [
       "ja": "灰色の",
       "zh": "灰色的",
       "ru": "серый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17051",
+    "lang": "it",
     "lemma": "grigio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16350,13 +15390,11 @@ const WORDS_IT_B1 = [
       "zh": "灰色",
       "ru": "серый цвет"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17052",
+    "lang": "it",
     "lemma": "interrogato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16375,12 +15413,11 @@ const WORDS_IT_B1 = [
       "ja": "尋問された",
       "zh": "被审问的",
       "ru": "допрошенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17054",
+    "lang": "it",
     "lemma": "avvenuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16399,12 +15436,11 @@ const WORDS_IT_B1 = [
       "ja": "起こった",
       "zh": "发生的",
       "ru": "произошедший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17055",
+    "lang": "it",
     "lemma": "avvenuto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16418,19 +15454,18 @@ const WORDS_IT_B1 = [
       "de": "das Ereignis",
       "es": "el suceso",
       "fr": "l'événement",
-      "it": "l'avvenuto",
+      "it": "l' l'avvenuto",
       "pt": "o acontecimento",
       "ja": "出来事",
       "zh": "事件",
       "ru": "событие"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "avvenuti"
   },
   {
     "id": "it_17056",
+    "lang": "it",
     "lemma": "demonio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16450,13 +15485,12 @@ const WORDS_IT_B1 = [
       "zh": "恶魔",
       "ru": "демон"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "demoni"
   },
   {
     "id": "it_17059",
+    "lang": "it",
     "lemma": "risorsa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16477,13 +15511,12 @@ const WORDS_IT_B1 = [
       "zh": "资源",
       "ru": "ресурс"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "risorse"
   },
   {
     "id": "it_17060",
+    "lang": "it",
     "lemma": "garantire",
     "pos": "Verb",
     "cefr": "B1",
@@ -16503,15 +15536,11 @@ const WORDS_IT_B1 = [
       "ja": "保証する",
       "zh": "保证",
       "ru": "гарантировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "garantire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17061",
+    "lang": "it",
     "lemma": "apprezzato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16530,12 +15559,11 @@ const WORDS_IT_B1 = [
       "ja": "評価された",
       "zh": "受欢迎的",
       "ru": "ценный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17063",
+    "lang": "it",
     "lemma": "riscaldamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16555,13 +15583,11 @@ const WORDS_IT_B1 = [
       "zh": "供暖",
       "ru": "отопление"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17065",
+    "lang": "it",
     "lemma": "inviare",
     "pos": "Verb",
     "cefr": "B1",
@@ -16581,15 +15607,11 @@ const WORDS_IT_B1 = [
       "ja": "送る",
       "zh": "发送",
       "ru": "отправлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inviare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17067",
+    "lang": "it",
     "lemma": "cannone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16609,13 +15631,12 @@ const WORDS_IT_B1 = [
       "zh": "大炮",
       "ru": "пушка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cannoni"
   },
   {
     "id": "it_17068",
+    "lang": "it",
     "lemma": "proseguire",
     "pos": "Verb",
     "cefr": "B1",
@@ -16635,15 +15656,11 @@ const WORDS_IT_B1 = [
       "ja": "続ける",
       "zh": "继续",
       "ru": "продолжать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "proseguire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17069",
+    "lang": "it",
     "lemma": "comportarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -16663,15 +15680,11 @@ const WORDS_IT_B1 = [
       "ja": "行動する",
       "zh": "表现",
       "ru": "вести себя"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "comportarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17070",
+    "lang": "it",
     "lemma": "desiderare",
     "pos": "Verb",
     "cefr": "B1",
@@ -16682,7 +15695,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "바라다",
-      "en": "to desire",
+      "en": "desire",
       "de": "wünschen",
       "es": "desear",
       "fr": "désirer",
@@ -16691,15 +15704,11 @@ const WORDS_IT_B1 = [
       "ja": "望む",
       "zh": "渴望",
       "ru": "желать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "desiderare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17071",
+    "lang": "it",
     "lemma": "prepararsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -16710,7 +15719,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "준비하다",
-      "en": "to prepare oneself",
+      "en": "prepare oneself",
       "de": "sich vorbereiten",
       "es": "prepararse",
       "fr": "se préparer",
@@ -16719,15 +15728,11 @@ const WORDS_IT_B1 = [
       "ja": "準備する",
       "zh": "准备",
       "ru": "готовиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prepararsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17072",
+    "lang": "it",
     "lemma": "personalità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16748,13 +15753,11 @@ const WORDS_IT_B1 = [
       "zh": "个性",
       "ru": "личность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17073",
+    "lang": "it",
     "lemma": "dipendenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16775,13 +15778,12 @@ const WORDS_IT_B1 = [
       "zh": "依赖",
       "ru": "зависимость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "dipendenze"
   },
   {
     "id": "it_17074",
+    "lang": "it",
     "lemma": "inevitabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16800,12 +15802,11 @@ const WORDS_IT_B1 = [
       "ja": "避けられない",
       "zh": "不可避免的",
       "ru": "неизбежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17075",
+    "lang": "it",
     "lemma": "inevitabile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16819,19 +15820,17 @@ const WORDS_IT_B1 = [
       "de": "das Unvermeidliche",
       "es": "lo inevitable",
       "fr": "l'inévitable",
-      "it": "l'inevitabile",
+      "it": "l' l'inevitabile",
       "pt": "o inevitável",
       "ja": "必然",
       "zh": "必然",
       "ru": "неизбежное"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17076",
+    "lang": "it",
     "lemma": "uccellino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16846,19 +15845,18 @@ const WORDS_IT_B1 = [
       "de": "der kleine Vogel",
       "es": "el pajarito",
       "fr": "le petit oiseau",
-      "it": "l'uccellino",
+      "it": "l' l'uccellino",
       "pt": "o passarinho",
       "ja": "小鳥",
       "zh": "小鸟",
       "ru": "птичка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "uccellini"
   },
   {
     "id": "it_17077",
+    "lang": "it",
     "lemma": "efficace",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -16878,12 +15876,11 @@ const WORDS_IT_B1 = [
       "ja": "効果的な",
       "zh": "有效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17078",
+    "lang": "it",
     "lemma": "trasferire",
     "pos": "Verb",
     "cefr": "B1",
@@ -16894,7 +15891,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "옮기다",
-      "en": "to transfer",
+      "en": "transfer",
       "de": "übertragen",
       "es": "transferir",
       "fr": "transférer",
@@ -16903,15 +15900,11 @@ const WORDS_IT_B1 = [
       "ja": "転送する",
       "zh": "转移",
       "ru": "переводить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trasferire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17079",
+    "lang": "it",
     "lemma": "campana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16931,13 +15924,12 @@ const WORDS_IT_B1 = [
       "zh": "钟",
       "ru": "колокол"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "campane"
   },
   {
     "id": "it_17081",
+    "lang": "it",
     "lemma": "sciopero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -16957,13 +15949,12 @@ const WORDS_IT_B1 = [
       "zh": "罢工",
       "ru": "забастовка"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scioperi"
   },
   {
     "id": "it_17082",
+    "lang": "it",
     "lemma": "bussare",
     "pos": "Verb",
     "cefr": "B1",
@@ -16973,7 +15964,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "노크하다",
-      "en": "to knock",
+      "en": "knock",
       "de": "klopfen",
       "es": "llamar",
       "fr": "frapper",
@@ -16982,15 +15973,11 @@ const WORDS_IT_B1 = [
       "ja": "ノックする",
       "zh": "敲门",
       "ru": "стучать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bussare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17083",
+    "lang": "it",
     "lemma": "toast",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17010,13 +15997,11 @@ const WORDS_IT_B1 = [
       "zh": "吐司",
       "ru": "тост"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17085",
+    "lang": "it",
     "lemma": "ingiusto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17035,12 +16020,11 @@ const WORDS_IT_B1 = [
       "ja": "不公平な",
       "zh": "不公平的",
       "ru": "несправедливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17088",
+    "lang": "it",
     "lemma": "agenda",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17055,19 +16039,18 @@ const WORDS_IT_B1 = [
       "de": "die Agenda",
       "es": "la agenda",
       "fr": "l'agenda",
-      "it": "l'agenda",
+      "it": "l' l'agenda",
       "pt": "a agenda",
       "ja": "手帳",
       "zh": "议程",
       "ru": "ежедневник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "agende"
   },
   {
     "id": "it_17090",
+    "lang": "it",
     "lemma": "peggiorare",
     "pos": "Verb",
     "cefr": "B1",
@@ -17077,7 +16060,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "악화시키다",
-      "en": "to worsen",
+      "en": "worsen",
       "de": "verschlimmern",
       "es": "empeorar",
       "fr": "empirer",
@@ -17086,15 +16069,11 @@ const WORDS_IT_B1 = [
       "ja": "悪化させる",
       "zh": "恶化",
       "ru": "ухудшать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "peggiorare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17095",
+    "lang": "it",
     "lemma": "femminuccia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17114,13 +16093,12 @@ const WORDS_IT_B1 = [
       "zh": "小女孩",
       "ru": "девчушка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "femminucce"
   },
   {
     "id": "it_17096",
+    "lang": "it",
     "lemma": "precisione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17141,13 +16119,12 @@ const WORDS_IT_B1 = [
       "zh": "精确",
       "ru": "точность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "precisioni"
   },
   {
     "id": "it_17097",
+    "lang": "it",
     "lemma": "estratto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17166,12 +16143,11 @@ const WORDS_IT_B1 = [
       "ja": "抽出された",
       "zh": "提取的",
       "ru": "извлеченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17098",
+    "lang": "it",
     "lemma": "estratto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17186,19 +16162,18 @@ const WORDS_IT_B1 = [
       "de": "der Extrakt",
       "es": "el extracto",
       "fr": "l'extrait",
-      "it": "l'estratto",
+      "it": "l' l'estratto",
       "pt": "o extrato",
       "ja": "抽出物",
       "zh": "提取物",
       "ru": "экстракт"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "estratti"
   },
   {
     "id": "it_17099",
+    "lang": "it",
     "lemma": "karma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17218,13 +16193,11 @@ const WORDS_IT_B1 = [
       "zh": "业力",
       "ru": "карма"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17100",
+    "lang": "it",
     "lemma": "ossessione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17238,19 +16211,18 @@ const WORDS_IT_B1 = [
       "de": "die Obsession",
       "es": "la obsesión",
       "fr": "l'obsession",
-      "it": "l'ossessione",
+      "it": "l' l'ossessione",
       "pt": "a obsessão",
       "ja": "強迫観念",
       "zh": "痴迷",
       "ru": "одержимость"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ossessioni"
   },
   {
     "id": "it_17102",
+    "lang": "it",
     "lemma": "sandwich",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17270,13 +16242,11 @@ const WORDS_IT_B1 = [
       "zh": "三明治",
       "ru": "сэндвич"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17104",
+    "lang": "it",
     "lemma": "ritrovare",
     "pos": "Verb",
     "cefr": "B1",
@@ -17296,15 +16266,11 @@ const WORDS_IT_B1 = [
       "ja": "再び見つける",
       "zh": "重新找到",
       "ru": "снова найти"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ritrovare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17105",
+    "lang": "it",
     "lemma": "silenzioso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17324,12 +16290,11 @@ const WORDS_IT_B1 = [
       "ja": "静かな",
       "zh": "沉默的",
       "ru": "тихий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17106",
+    "lang": "it",
     "lemma": "dipingere",
     "pos": "Verb",
     "cefr": "B1",
@@ -17348,15 +16313,11 @@ const WORDS_IT_B1 = [
       "ja": "描く",
       "zh": "画",
       "ru": "рисовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dipingere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17107",
+    "lang": "it",
     "lemma": "impari",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17375,12 +16336,11 @@ const WORDS_IT_B1 = [
       "ja": "不平等な",
       "zh": "不平等的",
       "ru": "неравный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17108",
+    "lang": "it",
     "lemma": "comprensione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17400,13 +16360,12 @@ const WORDS_IT_B1 = [
       "zh": "理解",
       "ru": "понимание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "comprensioni"
   },
   {
     "id": "it_17109",
+    "lang": "it",
     "lemma": "sfruttare",
     "pos": "Verb",
     "cefr": "B1",
@@ -17425,15 +16384,11 @@ const WORDS_IT_B1 = [
       "ja": "搾取する",
       "zh": "剥削",
       "ru": "эксплуатировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sfruttare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17110",
+    "lang": "it",
     "lemma": "mobile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17452,12 +16407,11 @@ const WORDS_IT_B1 = [
       "ja": "移動可能な",
       "zh": "可移动的",
       "ru": "мобильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17111",
+    "lang": "it",
     "lemma": "mobile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17477,13 +16431,12 @@ const WORDS_IT_B1 = [
       "zh": "家具",
       "ru": "мебель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "mobili"
   },
   {
     "id": "it_17114",
+    "lang": "it",
     "lemma": "gangster",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17503,13 +16456,11 @@ const WORDS_IT_B1 = [
       "zh": "歹徒",
       "ru": "гангстер"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17116",
+    "lang": "it",
     "lemma": "palo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17529,13 +16480,12 @@ const WORDS_IT_B1 = [
       "zh": "杆",
       "ru": "столб"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pali"
   },
   {
     "id": "it_17118",
+    "lang": "it",
     "lemma": "fregare",
     "pos": "Verb",
     "cefr": "B1",
@@ -17554,15 +16504,11 @@ const WORDS_IT_B1 = [
       "ja": "こする",
       "zh": "摩擦",
       "ru": "тереть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fregare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17120",
+    "lang": "it",
     "lemma": "mantenuto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17581,12 +16527,11 @@ const WORDS_IT_B1 = [
       "ja": "扶養されている",
       "zh": "被供养的",
       "ru": "содержащийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17124",
+    "lang": "it",
     "lemma": "intimo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17605,12 +16550,11 @@ const WORDS_IT_B1 = [
       "ja": "親密な",
       "zh": "亲密的",
       "ru": "интимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17125",
+    "lang": "it",
     "lemma": "intimo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17624,19 +16568,17 @@ const WORDS_IT_B1 = [
       "de": "die Unterwäsche",
       "es": "la ropa interior",
       "fr": "le sous-vêtement",
-      "it": "l'intimo",
+      "it": "l' l'intimo",
       "pt": "a roupa íntima",
       "ja": "下着",
       "zh": "内衣",
       "ru": "нижнее белье"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17126",
+    "lang": "it",
     "lemma": "fata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17656,13 +16598,12 @@ const WORDS_IT_B1 = [
       "zh": "仙女",
       "ru": "фея"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fate"
   },
   {
     "id": "it_17127",
+    "lang": "it",
     "lemma": "eseguire",
     "pos": "Verb",
     "cefr": "B1",
@@ -17681,15 +16622,11 @@ const WORDS_IT_B1 = [
       "ja": "実行する",
       "zh": "执行",
       "ru": "выполнять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eseguire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17129",
+    "lang": "it",
     "lemma": "garanzia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17710,13 +16647,12 @@ const WORDS_IT_B1 = [
       "zh": "保证",
       "ru": "гарантия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "garanzie"
   },
   {
     "id": "it_17130",
+    "lang": "it",
     "lemma": "proposto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17737,13 +16673,12 @@ const WORDS_IT_B1 = [
       "zh": "提案",
       "ru": "предложение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "proposti"
   },
   {
     "id": "it_17131",
+    "lang": "it",
     "lemma": "mona",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17763,13 +16698,12 @@ const WORDS_IT_B1 = [
       "zh": "夫人",
       "ru": "дама"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mone"
   },
   {
     "id": "it_17132",
+    "lang": "it",
     "lemma": "approccio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17784,19 +16718,18 @@ const WORDS_IT_B1 = [
       "de": "der Ansatz",
       "es": "el enfoque",
       "fr": "l'approche",
-      "it": "l'approccio",
+      "it": "l' l'approccio",
       "pt": "a abordagem",
       "ja": "アプローチ",
       "zh": "方式",
       "ru": "подход"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "approcci"
   },
   {
     "id": "it_17134",
+    "lang": "it",
     "lemma": "direttrice",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -17815,12 +16748,11 @@ const WORDS_IT_B1 = [
       "ja": "指導的な",
       "zh": "指导的",
       "ru": "направляющий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17135",
+    "lang": "it",
     "lemma": "atterrare",
     "pos": "Verb",
     "cefr": "B1",
@@ -17831,7 +16763,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "착륙하다",
-      "en": "to land",
+      "en": "land",
       "de": "landen",
       "es": "aterrizar",
       "fr": "atterrir",
@@ -17840,15 +16772,11 @@ const WORDS_IT_B1 = [
       "ja": "着陸する",
       "zh": "着陆",
       "ru": "приземляться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "atterrare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17136",
+    "lang": "it",
     "lemma": "salone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17869,13 +16797,12 @@ const WORDS_IT_B1 = [
       "zh": "大厅",
       "ru": "салон"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "saloni"
   },
   {
     "id": "it_17137",
+    "lang": "it",
     "lemma": "massacro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17895,13 +16822,12 @@ const WORDS_IT_B1 = [
       "zh": "大屠杀",
       "ru": "резня"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "massacri"
   },
   {
     "id": "it_17138",
+    "lang": "it",
     "lemma": "ballerina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17922,13 +16848,12 @@ const WORDS_IT_B1 = [
       "zh": "芭蕾舞女",
       "ru": "балерина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ballerine"
   },
   {
     "id": "it_17139",
+    "lang": "it",
     "lemma": "gestione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17949,13 +16874,12 @@ const WORDS_IT_B1 = [
       "zh": "管理",
       "ru": "управление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gestioni"
   },
   {
     "id": "it_17141",
+    "lang": "it",
     "lemma": "marea",
     "pos": "Nomen",
     "cefr": "B1",
@@ -17976,13 +16900,12 @@ const WORDS_IT_B1 = [
       "zh": "潮汐",
       "ru": "прилив"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "maree"
   },
   {
     "id": "it_17142",
+    "lang": "it",
     "lemma": "legittima",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18002,13 +16925,11 @@ const WORDS_IT_B1 = [
       "zh": "法定继承份额",
       "ru": "обязательная доля"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17143",
+    "lang": "it",
     "lemma": "marrone",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18028,12 +16949,11 @@ const WORDS_IT_B1 = [
       "ja": "茶色の",
       "zh": "棕色的",
       "ru": "коричневый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17145",
+    "lang": "it",
     "lemma": "disgrazia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18053,13 +16973,12 @@ const WORDS_IT_B1 = [
       "zh": "不幸",
       "ru": "несчастье"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "disgrazie"
   },
   {
     "id": "it_17146",
+    "lang": "it",
     "lemma": "sviluppato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18078,12 +16997,11 @@ const WORDS_IT_B1 = [
       "ja": "発展した",
       "zh": "发达的",
       "ru": "развитый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17147",
+    "lang": "it",
     "lemma": "sfuggito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18102,12 +17020,11 @@ const WORDS_IT_B1 = [
       "ja": "逃れた",
       "zh": "逃脱的",
       "ru": "ускользнувший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17148",
+    "lang": "it",
     "lemma": "cagare",
     "pos": "Verb",
     "cefr": "B1",
@@ -18117,7 +17034,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "배변하다",
-      "en": "to defecate",
+      "en": "defecate",
       "de": "kacken",
       "es": "cagar",
       "fr": "chier",
@@ -18126,15 +17043,11 @@ const WORDS_IT_B1 = [
       "ja": "排便する",
       "zh": "排便",
       "ru": "испражняться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "cagare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17149",
+    "lang": "it",
     "lemma": "carità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18155,13 +17068,11 @@ const WORDS_IT_B1 = [
       "zh": "慈善",
       "ru": "благотворительность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17150",
+    "lang": "it",
     "lemma": "esagerare",
     "pos": "Verb",
     "cefr": "B1",
@@ -18171,7 +17082,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "과장하다",
-      "en": "to exaggerate",
+      "en": "exaggerate",
       "de": "übertreiben",
       "es": "exagerar",
       "fr": "exagérer",
@@ -18180,15 +17091,11 @@ const WORDS_IT_B1 = [
       "ja": "誇張する",
       "zh": "夸大",
       "ru": "преувеличивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "esagerare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17151",
+    "lang": "it",
     "lemma": "reagire",
     "pos": "Verb",
     "cefr": "B1",
@@ -18199,7 +17106,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "반응하다",
-      "en": "to react",
+      "en": "react",
       "de": "reagieren",
       "es": "reaccionar",
       "fr": "réagir",
@@ -18208,15 +17115,11 @@ const WORDS_IT_B1 = [
       "ja": "反応する",
       "zh": "反应",
       "ru": "реагировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reagire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17152",
+    "lang": "it",
     "lemma": "greco",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18236,12 +17139,11 @@ const WORDS_IT_B1 = [
       "ja": "ギリシャの",
       "zh": "希腊的",
       "ru": "греческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17153",
+    "lang": "it",
     "lemma": "greco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18262,13 +17164,12 @@ const WORDS_IT_B1 = [
       "zh": "希腊人",
       "ru": "грек"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "greci"
   },
   {
     "id": "it_17154",
+    "lang": "it",
     "lemma": "ragionare",
     "pos": "Verb",
     "cefr": "B1",
@@ -18279,7 +17180,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "추론하다",
-      "en": "to reason",
+      "en": "reason",
       "de": "vernünftig denken",
       "es": "razonar",
       "fr": "raisonner",
@@ -18288,15 +17189,11 @@ const WORDS_IT_B1 = [
       "ja": "推論する",
       "zh": "推理",
       "ru": "рассуждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ragionare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17155",
+    "lang": "it",
     "lemma": "fragile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18316,12 +17213,11 @@ const WORDS_IT_B1 = [
       "ja": "壊れやすい",
       "zh": "易碎的",
       "ru": "хрупкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17157",
+    "lang": "it",
     "lemma": "scheda",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18342,13 +17238,12 @@ const WORDS_IT_B1 = [
       "zh": "卡片",
       "ru": "карточка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "schede"
   },
   {
     "id": "it_17158",
+    "lang": "it",
     "lemma": "audizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18363,19 +17258,18 @@ const WORDS_IT_B1 = [
       "de": "das Vorsprechen",
       "es": "la audición",
       "fr": "l'audition",
-      "it": "l'audizione",
+      "it": "l' l'audizione",
       "pt": "a audição",
       "ja": "オーディション",
       "zh": "试镜",
       "ru": "прослушивание"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "audizioni"
   },
   {
     "id": "it_17159",
+    "lang": "it",
     "lemma": "esistere",
     "pos": "Verb",
     "cefr": "B1",
@@ -18395,15 +17289,11 @@ const WORDS_IT_B1 = [
       "ja": "存在する",
       "zh": "存在",
       "ru": "существовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "esistere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17160",
+    "lang": "it",
     "lemma": "commento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18424,13 +17314,12 @@ const WORDS_IT_B1 = [
       "zh": "评论",
       "ru": "комментарий"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "commenti"
   },
   {
     "id": "it_17162",
+    "lang": "it",
     "lemma": "epidemia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18444,19 +17333,18 @@ const WORDS_IT_B1 = [
       "de": "die Epidemie",
       "es": "la epidemia",
       "fr": "l'épidémie",
-      "it": "l'epidemia",
+      "it": "l' l'epidemia",
       "pt": "a epidemia",
       "ja": "疫病",
       "zh": "流行病",
       "ru": "эпидемия"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "epidemie"
   },
   {
     "id": "it_17164",
+    "lang": "it",
     "lemma": "onorato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18475,12 +17363,11 @@ const WORDS_IT_B1 = [
       "ja": "光栄な",
       "zh": "荣幸的",
       "ru": "почётный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17165",
+    "lang": "it",
     "lemma": "visuale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18499,12 +17386,11 @@ const WORDS_IT_B1 = [
       "ja": "視覚の",
       "zh": "视觉的",
       "ru": "визуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17166",
+    "lang": "it",
     "lemma": "visuale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18525,13 +17411,12 @@ const WORDS_IT_B1 = [
       "zh": "视野",
       "ru": "вид"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "visuali"
   },
   {
     "id": "it_17169",
+    "lang": "it",
     "lemma": "disordine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18551,13 +17436,12 @@ const WORDS_IT_B1 = [
       "zh": "混乱",
       "ru": "беспорядок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "disordini"
   },
   {
     "id": "it_17170",
+    "lang": "it",
     "lemma": "priorità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18578,13 +17462,11 @@ const WORDS_IT_B1 = [
       "zh": "优先",
       "ru": "приоритет"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17171",
+    "lang": "it",
     "lemma": "instabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18603,12 +17485,11 @@ const WORDS_IT_B1 = [
       "ja": "不安定な",
       "zh": "不稳定的",
       "ru": "нестабильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17172",
+    "lang": "it",
     "lemma": "gettare",
     "pos": "Verb",
     "cefr": "B1",
@@ -18628,15 +17509,11 @@ const WORDS_IT_B1 = [
       "ja": "投げる",
       "zh": "扔",
       "ru": "бросать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gettare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17173",
+    "lang": "it",
     "lemma": "picchiare",
     "pos": "Verb",
     "cefr": "B1",
@@ -18655,15 +17532,11 @@ const WORDS_IT_B1 = [
       "ja": "殴る",
       "zh": "打",
       "ru": "бить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "picchiare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17174",
+    "lang": "it",
     "lemma": "limousine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18683,13 +17556,11 @@ const WORDS_IT_B1 = [
       "zh": "豪华轿车",
       "ru": "лимузин"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17177",
+    "lang": "it",
     "lemma": "pugnale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18709,13 +17580,12 @@ const WORDS_IT_B1 = [
       "zh": "匕首",
       "ru": "кинжал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pugnali"
   },
   {
     "id": "it_17178",
+    "lang": "it",
     "lemma": "sapone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18736,13 +17606,12 @@ const WORDS_IT_B1 = [
       "zh": "肥皂",
       "ru": "мыло"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "saponi"
   },
   {
     "id": "it_17179",
+    "lang": "it",
     "lemma": "gin",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18762,13 +17631,11 @@ const WORDS_IT_B1 = [
       "zh": "杜松子酒",
       "ru": "джин"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17180",
+    "lang": "it",
     "lemma": "cattura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18788,13 +17655,12 @@ const WORDS_IT_B1 = [
       "zh": "捕获",
       "ru": "захват"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "catture"
   },
   {
     "id": "it_17181",
+    "lang": "it",
     "lemma": "fallire",
     "pos": "Verb",
     "cefr": "B1",
@@ -18814,15 +17680,11 @@ const WORDS_IT_B1 = [
       "ja": "失敗する",
       "zh": "失败",
       "ru": "терпеть неудачу"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "fallire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17182",
+    "lang": "it",
     "lemma": "posa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18842,13 +17704,12 @@ const WORDS_IT_B1 = [
       "zh": "姿势",
       "ru": "поза"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pose"
   },
   {
     "id": "it_17183",
+    "lang": "it",
     "lemma": "settimo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18867,12 +17728,11 @@ const WORDS_IT_B1 = [
       "ja": "7番目の",
       "zh": "第七",
       "ru": "седьмой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17184",
+    "lang": "it",
     "lemma": "settimo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18892,13 +17752,12 @@ const WORDS_IT_B1 = [
       "zh": "七分之一",
       "ru": "седьмая часть"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "settimi"
   },
   {
     "id": "it_17186",
+    "lang": "it",
     "lemma": "teso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18917,12 +17776,11 @@ const WORDS_IT_B1 = [
       "ja": "緊張した",
       "zh": "紧张的",
       "ru": "напряжённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17188",
+    "lang": "it",
     "lemma": "rapido",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18942,12 +17800,11 @@ const WORDS_IT_B1 = [
       "ja": "速い",
       "zh": "快速的",
       "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17190",
+    "lang": "it",
     "lemma": "dibattito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -18968,13 +17825,12 @@ const WORDS_IT_B1 = [
       "zh": "辩论",
       "ru": "дебаты"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "dibattiti"
   },
   {
     "id": "it_17192",
+    "lang": "it",
     "lemma": "occidentale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -18993,12 +17849,11 @@ const WORDS_IT_B1 = [
       "ja": "西の",
       "zh": "西方的",
       "ru": "западный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17195",
+    "lang": "it",
     "lemma": "creazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19018,13 +17873,12 @@ const WORDS_IT_B1 = [
       "zh": "创造",
       "ru": "создание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "creazioni"
   },
   {
     "id": "it_17196",
+    "lang": "it",
     "lemma": "bloccare",
     "pos": "Verb",
     "cefr": "B1",
@@ -19034,7 +17888,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "막다",
-      "en": "to block",
+      "en": "block",
       "de": "blockieren",
       "es": "bloquear",
       "fr": "bloquer",
@@ -19043,15 +17897,11 @@ const WORDS_IT_B1 = [
       "ja": "ブロックする",
       "zh": "阻止",
       "ru": "блокировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bloccare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17197",
+    "lang": "it",
     "lemma": "delusione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19071,13 +17921,12 @@ const WORDS_IT_B1 = [
       "zh": "失望",
       "ru": "разочарование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "delusioni"
   },
   {
     "id": "it_17198",
+    "lang": "it",
     "lemma": "scossa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19097,13 +17946,12 @@ const WORDS_IT_B1 = [
       "zh": "震动",
       "ru": "толчок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "scosse"
   },
   {
     "id": "it_17199",
+    "lang": "it",
     "lemma": "disperazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19123,13 +17971,12 @@ const WORDS_IT_B1 = [
       "zh": "绝望",
       "ru": "отчаяние"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "disperazioni"
   },
   {
     "id": "it_17200",
+    "lang": "it",
     "lemma": "distante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19148,12 +17995,11 @@ const WORDS_IT_B1 = [
       "ja": "遠い",
       "zh": "遥远的",
       "ru": "далекий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17201",
+    "lang": "it",
     "lemma": "raffreddore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19174,13 +18020,12 @@ const WORDS_IT_B1 = [
       "zh": "感冒",
       "ru": "простуда"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "raffreddori"
   },
   {
     "id": "it_17202",
+    "lang": "it",
     "lemma": "permanente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19199,12 +18044,11 @@ const WORDS_IT_B1 = [
       "ja": "永久的な",
       "zh": "永久的",
       "ru": "постоянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17203",
+    "lang": "it",
     "lemma": "permanente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19224,13 +18068,11 @@ const WORDS_IT_B1 = [
       "zh": "烫发",
       "ru": "химическая завивка"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17204",
+    "lang": "it",
     "lemma": "schianto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19250,13 +18092,12 @@ const WORDS_IT_B1 = [
       "zh": "撞击",
       "ru": "крушение"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "schianti"
   },
   {
     "id": "it_17205",
+    "lang": "it",
     "lemma": "mancare",
     "pos": "Verb",
     "cefr": "B1",
@@ -19266,7 +18107,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "부족하다",
-      "en": "to lack",
+      "en": "lack",
       "de": "fehlen",
       "es": "faltar",
       "fr": "manquer",
@@ -19275,15 +18116,11 @@ const WORDS_IT_B1 = [
       "ja": "不足する",
       "zh": "缺少",
       "ru": "не хватать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "mancare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17206",
+    "lang": "it",
     "lemma": "categoria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19304,13 +18141,12 @@ const WORDS_IT_B1 = [
       "zh": "类别",
       "ru": "категория"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "categorie"
   },
   {
     "id": "it_17208",
+    "lang": "it",
     "lemma": "riferito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19329,12 +18165,11 @@ const WORDS_IT_B1 = [
       "ja": "言及された",
       "zh": "提及的",
       "ru": "упомянутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17209",
+    "lang": "it",
     "lemma": "intrappolato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19353,12 +18188,11 @@ const WORDS_IT_B1 = [
       "ja": "閉じ込められた",
       "zh": "被困的",
       "ru": "пойманный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17210",
+    "lang": "it",
     "lemma": "estraneo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19377,12 +18211,11 @@ const WORDS_IT_B1 = [
       "ja": "異質な",
       "zh": "陌生的",
       "ru": "чужой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17211",
+    "lang": "it",
     "lemma": "estraneo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19396,19 +18229,18 @@ const WORDS_IT_B1 = [
       "de": "der Fremde",
       "es": "el extraño",
       "fr": "l'étranger",
-      "it": "l'estraneo",
+      "it": "l' l'estraneo",
       "pt": "o estranho",
       "ja": "見知らぬ人",
       "zh": "陌生人",
       "ru": "незнакомец"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "estranei"
   },
   {
     "id": "it_17212",
+    "lang": "it",
     "lemma": "dominio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19428,13 +18260,12 @@ const WORDS_IT_B1 = [
       "zh": "领域",
       "ru": "домен"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "domini"
   },
   {
     "id": "it_17213",
+    "lang": "it",
     "lemma": "invasione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19448,19 +18279,18 @@ const WORDS_IT_B1 = [
       "de": "die Invasion",
       "es": "la invasión",
       "fr": "l'invasion",
-      "it": "l'invasione",
+      "it": "l' l'invasione",
       "pt": "a invasão",
       "ja": "侵略",
       "zh": "入侵",
       "ru": "вторжение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "invasioni"
   },
   {
     "id": "it_17214",
+    "lang": "it",
     "lemma": "impedito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19479,12 +18309,11 @@ const WORDS_IT_B1 = [
       "ja": "妨げられた",
       "zh": "受阻的",
       "ru": "препятствующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17215",
+    "lang": "it",
     "lemma": "impedito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19498,19 +18327,18 @@ const WORDS_IT_B1 = [
       "de": "der Behinderte",
       "es": "el impedido",
       "fr": "l'handicapé",
-      "it": "l'impedito",
+      "it": "l' l'impedito",
       "pt": "o deficiente",
       "ja": "障害者",
       "zh": "残疾人",
       "ru": "инвалид"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "impediti"
   },
   {
     "id": "it_17216",
+    "lang": "it",
     "lemma": "dimensione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19531,13 +18359,12 @@ const WORDS_IT_B1 = [
       "zh": "尺寸",
       "ru": "размер"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "dimensioni"
   },
   {
     "id": "it_17217",
+    "lang": "it",
     "lemma": "democrazia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19558,13 +18385,12 @@ const WORDS_IT_B1 = [
       "zh": "民主",
       "ru": "демократия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "democrazie"
   },
   {
     "id": "it_17221",
+    "lang": "it",
     "lemma": "seguente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19584,12 +18410,11 @@ const WORDS_IT_B1 = [
       "ja": "次の",
       "zh": "以下的",
       "ru": "следующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17222",
+    "lang": "it",
     "lemma": "inchiesta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19604,19 +18429,18 @@ const WORDS_IT_B1 = [
       "de": "die Untersuchung",
       "es": "la investigación",
       "fr": "l'enquête",
-      "it": "l'inchiesta",
+      "it": "l' l'inchiesta",
       "pt": "o inquérito",
       "ja": "調査",
       "zh": "调查",
       "ru": "расследование"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "inchieste"
   },
   {
     "id": "it_17223",
+    "lang": "it",
     "lemma": "soprannome",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19637,13 +18461,12 @@ const WORDS_IT_B1 = [
       "zh": "绰号",
       "ru": "прозвище"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "soprannomi"
   },
   {
     "id": "it_17224",
+    "lang": "it",
     "lemma": "sobrio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19662,12 +18485,11 @@ const WORDS_IT_B1 = [
       "ja": "控えめな",
       "zh": "节制的",
       "ru": "трезвый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17226",
+    "lang": "it",
     "lemma": "elettrico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19687,12 +18509,11 @@ const WORDS_IT_B1 = [
       "ja": "電気の",
       "zh": "电的",
       "ru": "электрический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17227",
+    "lang": "it",
     "lemma": "elettrico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19707,19 +18528,18 @@ const WORDS_IT_B1 = [
       "de": "der Elektriker",
       "es": "el electricista",
       "fr": "l'électricien",
-      "it": "l'elettrico",
+      "it": "l' l'elettrico",
       "pt": "o eletricista",
       "ja": "電気技師",
       "zh": "电工",
       "ru": "электрик"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "elettrici"
   },
   {
     "id": "it_17229",
+    "lang": "it",
     "lemma": "cemento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19739,13 +18559,12 @@ const WORDS_IT_B1 = [
       "zh": "水泥",
       "ru": "цемент"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cementi"
   },
   {
     "id": "it_17230",
+    "lang": "it",
     "lemma": "frode",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19765,13 +18584,12 @@ const WORDS_IT_B1 = [
       "zh": "欺诈",
       "ru": "мошенничество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "frodi"
   },
   {
     "id": "it_17231",
+    "lang": "it",
     "lemma": "inganno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19785,19 +18603,18 @@ const WORDS_IT_B1 = [
       "de": "die Täuschung",
       "es": "el engaño",
       "fr": "la tromperie",
-      "it": "l'inganno",
+      "it": "l' l'inganno",
       "pt": "o engano",
       "ja": "欺瞞",
       "zh": "欺骗",
       "ru": "обман"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "inganni"
   },
   {
     "id": "it_17232",
+    "lang": "it",
     "lemma": "finanziario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19816,12 +18633,11 @@ const WORDS_IT_B1 = [
       "ja": "財政の",
       "zh": "金融的",
       "ru": "финансовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17233",
+    "lang": "it",
     "lemma": "yen",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19842,13 +18658,11 @@ const WORDS_IT_B1 = [
       "zh": "日元",
       "ru": "иена"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17235",
+    "lang": "it",
     "lemma": "fusione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19868,13 +18682,12 @@ const WORDS_IT_B1 = [
       "zh": "融合",
       "ru": "слияние"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fusioni"
   },
   {
     "id": "it_17236",
+    "lang": "it",
     "lemma": "generatore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19893,12 +18706,11 @@ const WORDS_IT_B1 = [
       "ja": "生成する",
       "zh": "生成的",
       "ru": "генерирующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17237",
+    "lang": "it",
     "lemma": "generatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19918,13 +18730,12 @@ const WORDS_IT_B1 = [
       "zh": "发电机",
       "ru": "генератор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "generatori"
   },
   {
     "id": "it_17239",
+    "lang": "it",
     "lemma": "liscio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -19943,12 +18754,11 @@ const WORDS_IT_B1 = [
       "ja": "滑らかな",
       "zh": "光滑的",
       "ru": "гладкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17240",
+    "lang": "it",
     "lemma": "liscio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19968,13 +18778,11 @@ const WORDS_IT_B1 = [
       "zh": "失误",
       "ru": "промах"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17241",
+    "lang": "it",
     "lemma": "mise",
     "pos": "Nomen",
     "cefr": "B1",
@@ -19994,13 +18802,11 @@ const WORDS_IT_B1 = [
       "zh": "服装",
       "ru": "наряд"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17242",
+    "lang": "it",
     "lemma": "tequila",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20021,13 +18827,11 @@ const WORDS_IT_B1 = [
       "zh": "龙舌兰酒",
       "ru": "текила"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17245",
+    "lang": "it",
     "lemma": "comunicato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20048,13 +18852,12 @@ const WORDS_IT_B1 = [
       "zh": "公报",
       "ru": "коммюнике"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "comunicati"
   },
   {
     "id": "it_17248",
+    "lang": "it",
     "lemma": "iniziativa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20069,19 +18872,18 @@ const WORDS_IT_B1 = [
       "de": "die Initiative",
       "es": "la iniciativa",
       "fr": "l'initiative",
-      "it": "l'iniziativa",
+      "it": "l' l'iniziativa",
       "pt": "a iniciativa",
       "ja": "主導権",
       "zh": "主动性",
       "ru": "инициатива"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "iniziative"
   },
   {
     "id": "it_17249",
+    "lang": "it",
     "lemma": "inserire",
     "pos": "Verb",
     "cefr": "B1",
@@ -20101,15 +18903,11 @@ const WORDS_IT_B1 = [
       "ja": "挿入する",
       "zh": "插入",
       "ru": "вставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inserire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17250",
+    "lang": "it",
     "lemma": "alimentare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20128,12 +18926,11 @@ const WORDS_IT_B1 = [
       "ja": "食品の",
       "zh": "食品的",
       "ru": "пищевой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17251",
+    "lang": "it",
     "lemma": "alimentare",
     "pos": "Verb",
     "cefr": "B1",
@@ -20152,15 +18949,11 @@ const WORDS_IT_B1 = [
       "ja": "養う",
       "zh": "喂养",
       "ru": "кормить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "alimentare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17252",
+    "lang": "it",
     "lemma": "onorevole",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20179,12 +18972,11 @@ const WORDS_IT_B1 = [
       "ja": "名誉ある",
       "zh": "光荣的",
       "ru": "почётный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17253",
+    "lang": "it",
     "lemma": "danneggiato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20203,12 +18995,11 @@ const WORDS_IT_B1 = [
       "ja": "損傷した",
       "zh": "损坏的",
       "ru": "повреждённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17254",
+    "lang": "it",
     "lemma": "mancia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20229,13 +19020,12 @@ const WORDS_IT_B1 = [
       "zh": "小费",
       "ru": "чаевые"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mance"
   },
   {
     "id": "it_17255",
+    "lang": "it",
     "lemma": "assoluta",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20254,12 +19044,11 @@ const WORDS_IT_B1 = [
       "ja": "絶対的な",
       "zh": "绝对的",
       "ru": "абсолютный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17257",
+    "lang": "it",
     "lemma": "nascondiglio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20279,13 +19068,12 @@ const WORDS_IT_B1 = [
       "zh": "藏身处",
       "ru": "убежище"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "nascondigli"
   },
   {
     "id": "it_17258",
+    "lang": "it",
     "lemma": "limone",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20304,12 +19092,11 @@ const WORDS_IT_B1 = [
       "ja": "レモン色の",
       "zh": "柠檬色的",
       "ru": "лимонный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17260",
+    "lang": "it",
     "lemma": "barriera",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20329,13 +19116,12 @@ const WORDS_IT_B1 = [
       "zh": "障碍",
       "ru": "барьер"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "barriere"
   },
   {
     "id": "it_17261",
+    "lang": "it",
     "lemma": "finestrino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20356,13 +19142,12 @@ const WORDS_IT_B1 = [
       "zh": "车窗",
       "ru": "окно"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "finestrini"
   },
   {
     "id": "it_17262",
+    "lang": "it",
     "lemma": "presentimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20382,13 +19167,12 @@ const WORDS_IT_B1 = [
       "zh": "预感",
       "ru": "предчувствие"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "presentimenti"
   },
   {
     "id": "it_17263",
+    "lang": "it",
     "lemma": "gratitudine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20409,13 +19193,11 @@ const WORDS_IT_B1 = [
       "zh": "感激",
       "ru": "благодарность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17264",
+    "lang": "it",
     "lemma": "apparecchio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20429,19 +19211,18 @@ const WORDS_IT_B1 = [
       "de": "das Gerät",
       "es": "el aparato",
       "fr": "l'appareil",
-      "it": "l'apparecchio",
+      "it": "l' l'apparecchio",
       "pt": "o aparelho",
       "ja": "装置",
       "zh": "装置",
       "ru": "аппарат"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "apparecchi"
   },
   {
     "id": "it_17265",
+    "lang": "it",
     "lemma": "avvicinarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -20460,15 +19241,11 @@ const WORDS_IT_B1 = [
       "ja": "近づく",
       "zh": "靠近",
       "ru": "приближаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "avvicinarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17266",
+    "lang": "it",
     "lemma": "panchina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20488,13 +19265,12 @@ const WORDS_IT_B1 = [
       "zh": "长椅",
       "ru": "скамейка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "panchine"
   },
   {
     "id": "it_17268",
+    "lang": "it",
     "lemma": "contadino",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20513,12 +19289,11 @@ const WORDS_IT_B1 = [
       "ja": "農民の",
       "zh": "农民的",
       "ru": "крестьянский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17269",
+    "lang": "it",
     "lemma": "contadino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20538,13 +19313,12 @@ const WORDS_IT_B1 = [
       "zh": "农民",
       "ru": "крестьянин"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "contadini"
   },
   {
     "id": "it_17270",
+    "lang": "it",
     "lemma": "fondazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20564,13 +19338,12 @@ const WORDS_IT_B1 = [
       "zh": "基金会",
       "ru": "основание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fondazioni"
   },
   {
     "id": "it_17271",
+    "lang": "it",
     "lemma": "missile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20590,13 +19363,12 @@ const WORDS_IT_B1 = [
       "zh": "导弹",
       "ru": "ракета"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "missili"
   },
   {
     "id": "it_17273",
+    "lang": "it",
     "lemma": "adozione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20610,19 +19382,18 @@ const WORDS_IT_B1 = [
       "de": "die Adoption",
       "es": "la adopción",
       "fr": "l'adoption",
-      "it": "l'adozione",
+      "it": "l' l'adozione",
       "pt": "a adoção",
       "ja": "養子縁組",
       "zh": "收养",
       "ru": "усыновление"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "adozioni"
   },
   {
     "id": "it_17274",
+    "lang": "it",
     "lemma": "operare",
     "pos": "Verb",
     "cefr": "B1",
@@ -20641,15 +19412,11 @@ const WORDS_IT_B1 = [
       "ja": "操作する",
       "zh": "操作",
       "ru": "оперировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "operare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17275",
+    "lang": "it",
     "lemma": "seta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20669,13 +19436,12 @@ const WORDS_IT_B1 = [
       "zh": "丝绸",
       "ru": "шёлк"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sete"
   },
   {
     "id": "it_17276",
+    "lang": "it",
     "lemma": "ditta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20695,13 +19461,12 @@ const WORDS_IT_B1 = [
       "zh": "公司",
       "ru": "фирма"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ditte"
   },
   {
     "id": "it_17277",
+    "lang": "it",
     "lemma": "rifare",
     "pos": "Verb",
     "cefr": "B1",
@@ -20720,15 +19485,11 @@ const WORDS_IT_B1 = [
       "ja": "やり直す",
       "zh": "重做",
       "ru": "переделывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rifare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17278",
+    "lang": "it",
     "lemma": "riporto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20748,13 +19509,12 @@ const WORDS_IT_B1 = [
       "zh": "遮秃发型",
       "ru": "начёс"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riporti"
   },
   {
     "id": "it_17279",
+    "lang": "it",
     "lemma": "liberarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -20773,15 +19533,11 @@ const WORDS_IT_B1 = [
       "ja": "解放される",
       "zh": "解脱",
       "ru": "освободиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "liberarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17280",
+    "lang": "it",
     "lemma": "ritardato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20800,12 +19556,11 @@ const WORDS_IT_B1 = [
       "ja": "知的障害",
       "zh": "智力迟钝",
       "ru": "умственно отсталый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17281",
+    "lang": "it",
     "lemma": "sbagliare",
     "pos": "Verb",
     "cefr": "B1",
@@ -20825,15 +19580,11 @@ const WORDS_IT_B1 = [
       "ja": "間違える",
       "zh": "犯错",
       "ru": "ошибаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sbagliare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17282",
+    "lang": "it",
     "lemma": "stradale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20852,12 +19603,11 @@ const WORDS_IT_B1 = [
       "ja": "道路の",
       "zh": "道路的",
       "ru": "дорожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17283",
+    "lang": "it",
     "lemma": "stradale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20877,13 +19627,11 @@ const WORDS_IT_B1 = [
       "zh": "交警",
       "ru": "дорожная полиция"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17284",
+    "lang": "it",
     "lemma": "allerta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -20897,19 +19645,17 @@ const WORDS_IT_B1 = [
       "de": "der Alarm",
       "es": "la alerta",
       "fr": "l'alerte",
-      "it": "l'allerta",
+      "it": "l' l'allerta",
       "pt": "o alerta",
       "ja": "警報",
       "zh": "警报",
       "ru": "тревога"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17285",
+    "lang": "it",
     "lemma": "volgare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20928,12 +19674,11 @@ const WORDS_IT_B1 = [
       "ja": "下品な",
       "zh": "粗俗的",
       "ru": "вульгарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17287",
+    "lang": "it",
     "lemma": "basato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -20952,12 +19697,11 @@ const WORDS_IT_B1 = [
       "ja": "基づいた",
       "zh": "基于",
       "ru": "основанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17288",
+    "lang": "it",
     "lemma": "rilasciare",
     "pos": "Verb",
     "cefr": "B1",
@@ -20976,15 +19720,11 @@ const WORDS_IT_B1 = [
       "ja": "解放する",
       "zh": "释放",
       "ru": "выпускать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rilasciare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17289",
+    "lang": "it",
     "lemma": "pollice",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21005,13 +19745,12 @@ const WORDS_IT_B1 = [
       "zh": "拇指",
       "ru": "большой палец"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "pollici"
   },
   {
     "id": "it_17290",
+    "lang": "it",
     "lemma": "ostacolo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21025,19 +19764,18 @@ const WORDS_IT_B1 = [
       "de": "das Hindernis",
       "es": "el obstáculo",
       "fr": "l'obstacle",
-      "it": "l'ostacolo",
+      "it": "l' l'ostacolo",
       "pt": "o obstáculo",
       "ja": "障害物",
       "zh": "障碍",
       "ru": "препятствие"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ostacoli"
   },
   {
     "id": "it_17291",
+    "lang": "it",
     "lemma": "timido",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21057,12 +19795,11 @@ const WORDS_IT_B1 = [
       "ja": "恥ずかしがり屋の",
       "zh": "害羞的",
       "ru": "застенчивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17292",
+    "lang": "it",
     "lemma": "timido",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21082,13 +19819,12 @@ const WORDS_IT_B1 = [
       "zh": "害羞的人",
       "ru": "скромник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "timidi"
   },
   {
     "id": "it_17294",
+    "lang": "it",
     "lemma": "insistere",
     "pos": "Verb",
     "cefr": "B1",
@@ -21107,15 +19843,11 @@ const WORDS_IT_B1 = [
       "ja": "主張する",
       "zh": "坚持",
       "ru": "настаивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "insistere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17295",
+    "lang": "it",
     "lemma": "malinteso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21134,12 +19866,11 @@ const WORDS_IT_B1 = [
       "ja": "誤解された",
       "zh": "误解的",
       "ru": "неправильно понятый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17296",
+    "lang": "it",
     "lemma": "malinteso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21159,13 +19890,11 @@ const WORDS_IT_B1 = [
       "zh": "误会",
       "ru": "недоразумение"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17297",
+    "lang": "it",
     "lemma": "avvertire",
     "pos": "Verb",
     "cefr": "B1",
@@ -21184,15 +19913,11 @@ const WORDS_IT_B1 = [
       "ja": "警告する",
       "zh": "警告",
       "ru": "предупреждать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "avvertire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17298",
+    "lang": "it",
     "lemma": "veste",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21212,13 +19937,12 @@ const WORDS_IT_B1 = [
       "zh": "连衣裙",
       "ru": "платье"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vesti"
   },
   {
     "id": "it_17299",
+    "lang": "it",
     "lemma": "poeta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21239,13 +19963,12 @@ const WORDS_IT_B1 = [
       "zh": "诗人",
       "ru": "поэт"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "poeti"
   },
   {
     "id": "it_17300",
+    "lang": "it",
     "lemma": "polo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21265,13 +19988,12 @@ const WORDS_IT_B1 = [
       "zh": "极",
       "ru": "полюс"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "poli"
   },
   {
     "id": "it_17301",
+    "lang": "it",
     "lemma": "mutandine",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21291,13 +20013,11 @@ const WORDS_IT_B1 = [
       "zh": "内裤",
       "ru": "трусики"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17302",
+    "lang": "it",
     "lemma": "incantevole",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21316,12 +20036,11 @@ const WORDS_IT_B1 = [
       "ja": "魅惑的な",
       "zh": "迷人的",
       "ru": "очаровательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17303",
+    "lang": "it",
     "lemma": "imboscata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21335,19 +20054,17 @@ const WORDS_IT_B1 = [
       "de": "der Hinterhalt",
       "es": "la emboscada",
       "fr": "l'embuscade",
-      "it": "l'imboscata",
+      "it": "l' l'imboscata",
       "pt": "a emboscada",
       "ja": "待ち伏せ",
       "zh": "伏击",
       "ru": "засада"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17304",
+    "lang": "it",
     "lemma": "mercoledì",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21368,13 +20085,11 @@ const WORDS_IT_B1 = [
       "zh": "星期三",
       "ru": "среда"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17305",
+    "lang": "it",
     "lemma": "squillo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21393,12 +20108,11 @@ const WORDS_IT_B1 = [
       "ja": "売春婦の",
       "zh": "妓女的",
       "ru": "проституточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17306",
+    "lang": "it",
     "lemma": "squillo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21418,13 +20132,12 @@ const WORDS_IT_B1 = [
       "zh": "铃声",
       "ru": "звонок"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "squilli"
   },
   {
     "id": "it_17307",
+    "lang": "it",
     "lemma": "piccante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21443,12 +20156,11 @@ const WORDS_IT_B1 = [
       "ja": "辛い",
       "zh": "辣的",
       "ru": "острый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17308",
+    "lang": "it",
     "lemma": "country",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21467,12 +20179,11 @@ const WORDS_IT_B1 = [
       "ja": "カントリーの",
       "zh": "乡村音乐的",
       "ru": "кантри"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17309",
+    "lang": "it",
     "lemma": "country",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21492,13 +20203,11 @@ const WORDS_IT_B1 = [
       "zh": "乡村音乐",
       "ru": "кантри музыка"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17310",
+    "lang": "it",
     "lemma": "bunker",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21518,13 +20227,11 @@ const WORDS_IT_B1 = [
       "zh": "碉堡",
       "ru": "бункер"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17311",
+    "lang": "it",
     "lemma": "franco",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21543,12 +20250,11 @@ const WORDS_IT_B1 = [
       "ja": "率直な",
       "zh": "坦率的",
       "ru": "откровенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17312",
+    "lang": "it",
     "lemma": "franco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21568,13 +20274,12 @@ const WORDS_IT_B1 = [
       "zh": "坦率的人",
       "ru": "откровенный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "franchi"
   },
   {
     "id": "it_17313",
+    "lang": "it",
     "lemma": "taco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21595,13 +20300,11 @@ const WORDS_IT_B1 = [
       "zh": "玉米饼",
       "ru": "тако"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17314",
+    "lang": "it",
     "lemma": "alloggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21616,19 +20319,18 @@ const WORDS_IT_B1 = [
       "de": "die Unterkunft",
       "es": "el alojamiento",
       "fr": "le logement",
-      "it": "l'alloggio",
+      "it": "l' l'alloggio",
       "pt": "o alojamento",
       "ja": "宿泊施設",
       "zh": "住宿",
       "ru": "жилье"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "alloggi"
   },
   {
     "id": "it_17315",
+    "lang": "it",
     "lemma": "poltrona",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21649,13 +20351,12 @@ const WORDS_IT_B1 = [
       "zh": "扶手椅",
       "ru": "кресло"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "poltrone"
   },
   {
     "id": "it_17316",
+    "lang": "it",
     "lemma": "ritrovo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21675,13 +20376,12 @@ const WORDS_IT_B1 = [
       "zh": "聚会点",
       "ru": "место встречи"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ritrovi"
   },
   {
     "id": "it_17317",
+    "lang": "it",
     "lemma": "tredici",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -21700,12 +20400,11 @@ const WORDS_IT_B1 = [
       "ja": "十三",
       "zh": "十三",
       "ru": "тринадцать"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17318",
+    "lang": "it",
     "lemma": "sufficienza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21725,13 +20424,12 @@ const WORDS_IT_B1 = [
       "zh": "充足",
       "ru": "достаточность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sufficienze"
   },
   {
     "id": "it_17319",
+    "lang": "it",
     "lemma": "gray",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21751,13 +20449,11 @@ const WORDS_IT_B1 = [
       "zh": "戈瑞",
       "ru": "грей"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17320",
+    "lang": "it",
     "lemma": "grandezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21777,13 +20473,12 @@ const WORDS_IT_B1 = [
       "zh": "伟大",
       "ru": "величие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "grandezze"
   },
   {
     "id": "it_17321",
+    "lang": "it",
     "lemma": "definizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21803,13 +20498,12 @@ const WORDS_IT_B1 = [
       "zh": "定义",
       "ru": "определение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "definizioni"
   },
   {
     "id": "it_17322",
+    "lang": "it",
     "lemma": "osare",
     "pos": "Verb",
     "cefr": "B1",
@@ -21829,15 +20523,11 @@ const WORDS_IT_B1 = [
       "ja": "あえてする",
       "zh": "敢于",
       "ru": "осмеливаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "osare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17323",
+    "lang": "it",
     "lemma": "sudore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21858,13 +20548,12 @@ const WORDS_IT_B1 = [
       "zh": "汗水",
       "ru": "пот"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sudori"
   },
   {
     "id": "it_17324",
+    "lang": "it",
     "lemma": "alzarsi",
     "pos": "Verb",
     "cefr": "B1",
@@ -21884,15 +20573,11 @@ const WORDS_IT_B1 = [
       "ja": "起きる",
       "zh": "起床",
       "ru": "вставать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "alzarsi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17325",
+    "lang": "it",
     "lemma": "tradire",
     "pos": "Verb",
     "cefr": "B1",
@@ -21911,15 +20596,11 @@ const WORDS_IT_B1 = [
       "ja": "裏切る",
       "zh": "背叛",
       "ru": "предавать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tradire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17326",
+    "lang": "it",
     "lemma": "pancake",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21940,13 +20621,11 @@ const WORDS_IT_B1 = [
       "zh": "薄煎饼",
       "ru": "блинчик"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17327",
+    "lang": "it",
     "lemma": "gelosia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21966,13 +20645,12 @@ const WORDS_IT_B1 = [
       "zh": "嫉妒",
       "ru": "ревность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gelosie"
   },
   {
     "id": "it_17328",
+    "lang": "it",
     "lemma": "gallina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -21993,13 +20671,12 @@ const WORDS_IT_B1 = [
       "zh": "母鸡",
       "ru": "курица"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "galline"
   },
   {
     "id": "it_17329",
+    "lang": "it",
     "lemma": "aquila",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22014,19 +20691,18 @@ const WORDS_IT_B1 = [
       "de": "der Adler",
       "es": "el águila",
       "fr": "l'aigle",
-      "it": "l'aquila",
+      "it": "l' l'aquila",
       "pt": "a águia",
       "ja": "鷲",
       "zh": "鹰",
       "ru": "орёл"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "aquile"
   },
   {
     "id": "it_17330",
+    "lang": "it",
     "lemma": "bestiame",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22046,13 +20722,12 @@ const WORDS_IT_B1 = [
       "zh": "牲畜",
       "ru": "скот"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "bestiami"
   },
   {
     "id": "it_17331",
+    "lang": "it",
     "lemma": "lite",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22072,13 +20747,12 @@ const WORDS_IT_B1 = [
       "zh": "争吵",
       "ru": "спор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "liti"
   },
   {
     "id": "it_17332",
+    "lang": "it",
     "lemma": "ometto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22092,19 +20766,18 @@ const WORDS_IT_B1 = [
       "de": "das Männchen",
       "es": "el hombrecito",
       "fr": "le petit homme",
-      "it": "l'ometto",
+      "it": "l' l'ometto",
       "pt": "o homenzinho",
       "ja": "小男",
       "zh": "小男人",
       "ru": "человечек"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ometti"
   },
   {
     "id": "it_17333",
+    "lang": "it",
     "lemma": "muso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22124,13 +20797,12 @@ const WORDS_IT_B1 = [
       "zh": "口鼻",
       "ru": "морда"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "musi"
   },
   {
     "id": "it_17334",
+    "lang": "it",
     "lemma": "esclusiva",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22144,19 +20816,17 @@ const WORDS_IT_B1 = [
       "de": "die Exklusivität",
       "es": "la exclusiva",
       "fr": "l'exclusivité",
-      "it": "l'esclusiva",
+      "it": "l' l'esclusiva",
       "pt": "a exclusividade",
       "ja": "独占",
       "zh": "独家",
       "ru": "эксклюзив"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17335",
+    "lang": "it",
     "lemma": "infantile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22176,12 +20846,11 @@ const WORDS_IT_B1 = [
       "ja": "幼児の",
       "zh": "幼稚的",
       "ru": "детский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17336",
+    "lang": "it",
     "lemma": "pacifico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22201,12 +20870,11 @@ const WORDS_IT_B1 = [
       "ja": "平和な",
       "zh": "和平的",
       "ru": "мирный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17337",
+    "lang": "it",
     "lemma": "caviglia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22227,13 +20895,12 @@ const WORDS_IT_B1 = [
       "zh": "脚踝",
       "ru": "лодыжка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "caviglie"
   },
   {
     "id": "it_17338",
+    "lang": "it",
     "lemma": "giubbotto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22254,13 +20921,12 @@ const WORDS_IT_B1 = [
       "zh": "夹克",
       "ru": "куртка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "giubbotti"
   },
   {
     "id": "it_17339",
+    "lang": "it",
     "lemma": "frocio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22280,13 +20946,12 @@ const WORDS_IT_B1 = [
       "zh": "基佬",
       "ru": "пидор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "froci"
   },
   {
     "id": "it_17340",
+    "lang": "it",
     "lemma": "residenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22307,13 +20972,12 @@ const WORDS_IT_B1 = [
       "zh": "住所",
       "ru": "резиденция"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "residenze"
   },
   {
     "id": "it_17342",
+    "lang": "it",
     "lemma": "iniziale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22333,12 +20997,11 @@ const WORDS_IT_B1 = [
       "ja": "初期の",
       "zh": "最初的",
       "ru": "начальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17343",
+    "lang": "it",
     "lemma": "iniziale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22353,19 +21016,18 @@ const WORDS_IT_B1 = [
       "de": "der Initial",
       "es": "la inicial",
       "fr": "l'initiale",
-      "it": "l'iniziale",
+      "it": "l' l'iniziale",
       "pt": "a inicial",
       "ja": "イニシャル",
       "zh": "首字母",
       "ru": "инициал"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "iniziali"
   },
   {
     "id": "it_17344",
+    "lang": "it",
     "lemma": "eletto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22384,12 +21046,11 @@ const WORDS_IT_B1 = [
       "ja": "選出された",
       "zh": "当选的",
       "ru": "избранный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17345",
+    "lang": "it",
     "lemma": "eletto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22403,19 +21064,18 @@ const WORDS_IT_B1 = [
       "de": "der Gewählte",
       "es": "el elegido",
       "fr": "l'élu",
-      "it": "l'eletto",
+      "it": "l' l'eletto",
       "pt": "o eleito",
       "ja": "当選者",
       "zh": "当选人",
       "ru": "избранник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "eletti"
   },
   {
     "id": "it_17346",
+    "lang": "it",
     "lemma": "emotivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22435,12 +21095,11 @@ const WORDS_IT_B1 = [
       "ja": "感情的な",
       "zh": "情绪化的",
       "ru": "эмоциональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17347",
+    "lang": "it",
     "lemma": "emotivo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22454,19 +21113,18 @@ const WORDS_IT_B1 = [
       "de": "der Emotionale",
       "es": "el emotivo",
       "fr": "l'émotif",
-      "it": "l'emotivo",
+      "it": "l' l'emotivo",
       "pt": "o emotivo",
       "ja": "感情家",
       "zh": "情绪化的人",
       "ru": "эмоциональный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "emotivi"
   },
   {
     "id": "it_17348",
+    "lang": "it",
     "lemma": "or",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22480,19 +21138,17 @@ const WORDS_IT_B1 = [
       "de": "der ODER-Operator",
       "es": "el operador OR",
       "fr": "l'opérateur OU",
-      "it": "l'or",
+      "it": "l' l'or",
       "pt": "o operador OU",
       "ja": "OR演算子",
       "zh": "或运算符",
       "ru": "оператор ИЛИ"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17351",
+    "lang": "it",
     "lemma": "toccata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22512,13 +21168,12 @@ const WORDS_IT_B1 = [
       "zh": "触摸",
       "ru": "прикосновение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "toccate"
   },
   {
     "id": "it_17352",
+    "lang": "it",
     "lemma": "fica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22538,13 +21193,12 @@ const WORDS_IT_B1 = [
       "zh": "无花果",
       "ru": "инжир"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fiche"
   },
   {
     "id": "it_17353",
+    "lang": "it",
     "lemma": "dirigere",
     "pos": "Verb",
     "cefr": "B1",
@@ -22555,7 +21209,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "지휘하다",
-      "en": "to direct",
+      "en": "direct",
       "de": "leiten",
       "es": "dirigir",
       "fr": "diriger",
@@ -22564,15 +21218,11 @@ const WORDS_IT_B1 = [
       "ja": "指揮する",
       "zh": "指导",
       "ru": "руководить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dirigere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17354",
+    "lang": "it",
     "lemma": "maglione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22593,13 +21243,12 @@ const WORDS_IT_B1 = [
       "zh": "毛衣",
       "ru": "свитер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "maglioni"
   },
   {
     "id": "it_17355",
+    "lang": "it",
     "lemma": "sponsor",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22620,13 +21269,11 @@ const WORDS_IT_B1 = [
       "zh": "赞助商",
       "ru": "спонсор"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17356",
+    "lang": "it",
     "lemma": "stima",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22646,13 +21293,12 @@ const WORDS_IT_B1 = [
       "zh": "估价",
       "ru": "оценка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "stime"
   },
   {
     "id": "it_17357",
+    "lang": "it",
     "lemma": "bacon",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22672,13 +21318,11 @@ const WORDS_IT_B1 = [
       "zh": "培根",
       "ru": "бекон"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17358",
+    "lang": "it",
     "lemma": "rimesso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22697,12 +21341,11 @@ const WORDS_IT_B1 = [
       "ja": "戻された",
       "zh": "放回",
       "ru": "возвращенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17362",
+    "lang": "it",
     "lemma": "sentimentale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22721,12 +21364,11 @@ const WORDS_IT_B1 = [
       "ja": "感傷的な",
       "zh": "感伤的",
       "ru": "сентиментальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17363",
+    "lang": "it",
     "lemma": "tana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22746,13 +21388,12 @@ const WORDS_IT_B1 = [
       "zh": "巢穴",
       "ru": "логово"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tane"
   },
   {
     "id": "it_17365",
+    "lang": "it",
     "lemma": "disegnare",
     "pos": "Verb",
     "cefr": "B1",
@@ -22772,15 +21413,11 @@ const WORDS_IT_B1 = [
       "ja": "描く",
       "zh": "画",
       "ru": "рисовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "disegnare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17366",
+    "lang": "it",
     "lemma": "punteggio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22800,13 +21437,12 @@ const WORDS_IT_B1 = [
       "zh": "分数",
       "ru": "счет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "punteggi"
   },
   {
     "id": "it_17367",
+    "lang": "it",
     "lemma": "vigilia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22826,13 +21462,12 @@ const WORDS_IT_B1 = [
       "zh": "前夕",
       "ru": "канун"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vigilie"
   },
   {
     "id": "it_17368",
+    "lang": "it",
     "lemma": "sasso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22853,13 +21488,12 @@ const WORDS_IT_B1 = [
       "zh": "石头",
       "ru": "камень"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sassi"
   },
   {
     "id": "it_17369",
+    "lang": "it",
     "lemma": "iscritto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22879,12 +21513,11 @@ const WORDS_IT_B1 = [
       "ja": "登録された",
       "zh": "注册的",
       "ru": "зарегистрированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17370",
+    "lang": "it",
     "lemma": "iscritto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22899,19 +21532,18 @@ const WORDS_IT_B1 = [
       "de": "das Mitglied",
       "es": "el miembro",
       "fr": "le membre",
-      "it": "l'iscritto",
+      "it": "l' l'iscritto",
       "pt": "o membro",
       "ja": "会員",
       "zh": "会员",
       "ru": "член"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "iscritti"
   },
   {
     "id": "it_17371",
+    "lang": "it",
     "lemma": "sottomarino",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22930,12 +21562,11 @@ const WORDS_IT_B1 = [
       "ja": "海底の",
       "zh": "海底的",
       "ru": "подводный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17372",
+    "lang": "it",
     "lemma": "sottomarino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -22955,13 +21586,12 @@ const WORDS_IT_B1 = [
       "zh": "潜水艇",
       "ru": "подводная лодка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sottomarini"
   },
   {
     "id": "it_17373",
+    "lang": "it",
     "lemma": "umile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -22980,12 +21610,11 @@ const WORDS_IT_B1 = [
       "ja": "謙虚な",
       "zh": "谦虚的",
       "ru": "скромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17374",
+    "lang": "it",
     "lemma": "vescovo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23005,13 +21634,12 @@ const WORDS_IT_B1 = [
       "zh": "主教",
       "ru": "епископ"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "vescovi"
   },
   {
     "id": "it_17375",
+    "lang": "it",
     "lemma": "stufato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23030,12 +21658,11 @@ const WORDS_IT_B1 = [
       "ja": "煮込んだ",
       "zh": "炖的",
       "ru": "тушеный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17377",
+    "lang": "it",
     "lemma": "accompagnare",
     "pos": "Verb",
     "cefr": "B1",
@@ -23055,15 +21682,11 @@ const WORDS_IT_B1 = [
       "ja": "同伴する",
       "zh": "陪伴",
       "ru": "сопровождать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "accompagnare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17378",
+    "lang": "it",
     "lemma": "interrogare",
     "pos": "Verb",
     "cefr": "B1",
@@ -23083,15 +21706,11 @@ const WORDS_IT_B1 = [
       "ja": "尋問する",
       "zh": "审问",
       "ru": "допрашивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "interrogare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17379",
+    "lang": "it",
     "lemma": "seme",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23111,13 +21730,12 @@ const WORDS_IT_B1 = [
       "zh": "种子",
       "ru": "семя"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "semi"
   },
   {
     "id": "it_17380",
+    "lang": "it",
     "lemma": "bruciata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23137,13 +21755,12 @@ const WORDS_IT_B1 = [
       "zh": "烤栗子",
       "ru": "жареный каштан"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bruciate"
   },
   {
     "id": "it_17381",
+    "lang": "it",
     "lemma": "libretto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23164,13 +21781,12 @@ const WORDS_IT_B1 = [
       "zh": "小册子",
       "ru": "блокнот"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "libretti"
   },
   {
     "id": "it_17382",
+    "lang": "it",
     "lemma": "alzata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23184,19 +21800,18 @@ const WORDS_IT_B1 = [
       "de": "der Ständer",
       "es": "el soporte",
       "fr": "le support",
-      "it": "l'alzata",
+      "it": "l' l'alzata",
       "pt": "o suporte",
       "ja": "台",
       "zh": "支架",
       "ru": "подставка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "alzate"
   },
   {
     "id": "it_17383",
+    "lang": "it",
     "lemma": "farmacia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23217,13 +21832,12 @@ const WORDS_IT_B1 = [
       "zh": "药店",
       "ru": "аптека"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "farmacie"
   },
   {
     "id": "it_17384",
+    "lang": "it",
     "lemma": "odiare",
     "pos": "Verb",
     "cefr": "B1",
@@ -23234,7 +21848,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "미워하다",
-      "en": "to hate",
+      "en": "hate",
       "de": "hassen",
       "es": "odiar",
       "fr": "haïr",
@@ -23243,15 +21857,11 @@ const WORDS_IT_B1 = [
       "ja": "憎む",
       "zh": "恨",
       "ru": "ненавидеть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "odiare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17385",
+    "lang": "it",
     "lemma": "determinato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23270,12 +21880,11 @@ const WORDS_IT_B1 = [
       "ja": "断固とした",
       "zh": "坚定的",
       "ru": "решительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17386",
+    "lang": "it",
     "lemma": "ciccione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23295,13 +21904,12 @@ const WORDS_IT_B1 = [
       "zh": "胖子",
       "ru": "толстяк"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ciccioni"
   },
   {
     "id": "it_17387",
+    "lang": "it",
     "lemma": "cognato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23322,13 +21930,12 @@ const WORDS_IT_B1 = [
       "zh": "姐夫",
       "ru": "шурин"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cognati"
   },
   {
     "id": "it_17388",
+    "lang": "it",
     "lemma": "rallentare",
     "pos": "Verb",
     "cefr": "B1",
@@ -23338,7 +21945,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "속도를 줄이다",
-      "en": "to slow down",
+      "en": "slow down",
       "de": "verlangsamen",
       "es": "ralentizar",
       "fr": "ralentir",
@@ -23347,15 +21954,11 @@ const WORDS_IT_B1 = [
       "ja": "減速する",
       "zh": "减速",
       "ru": "замедлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rallentare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17389",
+    "lang": "it",
     "lemma": "piega",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23375,13 +21978,12 @@ const WORDS_IT_B1 = [
       "zh": "折痕",
       "ru": "складка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pieghe"
   },
   {
     "id": "it_17390",
+    "lang": "it",
     "lemma": "discrezione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23401,13 +22003,12 @@ const WORDS_IT_B1 = [
       "zh": "谨慎",
       "ru": "осмотрительность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "discrezioni"
   },
   {
     "id": "it_17391",
+    "lang": "it",
     "lemma": "frequentato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23426,12 +22027,11 @@ const WORDS_IT_B1 = [
       "ja": "よく訪れる",
       "zh": "常去的",
       "ru": "посещаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17394",
+    "lang": "it",
     "lemma": "scrittura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23452,13 +22052,12 @@ const WORDS_IT_B1 = [
       "zh": "写作",
       "ru": "письмо"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "scritture"
   },
   {
     "id": "it_17395",
+    "lang": "it",
     "lemma": "orchestra",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23472,19 +22071,18 @@ const WORDS_IT_B1 = [
       "de": "das Orchester",
       "es": "la orquesta",
       "fr": "l'orchestre",
-      "it": "l'orchestra",
+      "it": "l' l'orchestra",
       "pt": "a orquestra",
       "ja": "オーケストラ",
       "zh": "管弦乐队",
       "ru": "оркестр"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orchestre"
   },
   {
     "id": "it_17396",
+    "lang": "it",
     "lemma": "scambiare",
     "pos": "Verb",
     "cefr": "B1",
@@ -23494,7 +22092,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "교환하다",
-      "en": "to exchange",
+      "en": "exchange",
       "de": "tauschen",
       "es": "intercambiar",
       "fr": "échanger",
@@ -23503,15 +22101,11 @@ const WORDS_IT_B1 = [
       "ja": "交換する",
       "zh": "交换",
       "ru": "обменивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scambiare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17397",
+    "lang": "it",
     "lemma": "spettacolare",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23530,12 +22124,11 @@ const WORDS_IT_B1 = [
       "ja": "壮観な",
       "zh": "壮观的",
       "ru": "зрелищный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17398",
+    "lang": "it",
     "lemma": "senno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23555,13 +22148,12 @@ const WORDS_IT_B1 = [
       "zh": "理智",
       "ru": "разум"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "senni"
   },
   {
     "id": "it_17399",
+    "lang": "it",
     "lemma": "immediato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23581,12 +22173,11 @@ const WORDS_IT_B1 = [
       "ja": "即座の",
       "zh": "立即的",
       "ru": "немедленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17401",
+    "lang": "it",
     "lemma": "notiziario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23606,13 +22197,12 @@ const WORDS_IT_B1 = [
       "zh": "新闻报道",
       "ru": "новости"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "notiziari"
   },
   {
     "id": "it_17405",
+    "lang": "it",
     "lemma": "esposizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23626,19 +22216,18 @@ const WORDS_IT_B1 = [
       "de": "die Ausstellung",
       "es": "la exposición",
       "fr": "l'exposition",
-      "it": "l'esposizione",
+      "it": "l' l'esposizione",
       "pt": "a exposição",
       "ja": "展覧会",
       "zh": "展览",
       "ru": "выставка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "esposizioni"
   },
   {
     "id": "it_17406",
+    "lang": "it",
     "lemma": "scomparire",
     "pos": "Verb",
     "cefr": "B1",
@@ -23648,7 +22237,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "사라지다",
-      "en": "to disappear",
+      "en": "disappear",
       "de": "verschwinden",
       "es": "desaparecer",
       "fr": "disparaître",
@@ -23657,15 +22246,11 @@ const WORDS_IT_B1 = [
       "ja": "消える",
       "zh": "消失",
       "ru": "исчезать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scomparire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17407",
+    "lang": "it",
     "lemma": "depresso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23685,12 +22270,11 @@ const WORDS_IT_B1 = [
       "ja": "低い",
       "zh": "低的",
       "ru": "низкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17408",
+    "lang": "it",
     "lemma": "composto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23710,12 +22294,11 @@ const WORDS_IT_B1 = [
       "ja": "構成された",
       "zh": "组成的",
       "ru": "составной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17409",
+    "lang": "it",
     "lemma": "composto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23735,13 +22318,11 @@ const WORDS_IT_B1 = [
       "zh": "化合物",
       "ru": "соединение"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17410",
+    "lang": "it",
     "lemma": "guarigione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23762,13 +22343,12 @@ const WORDS_IT_B1 = [
       "zh": "治愈",
       "ru": "исцеление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "guarigioni"
   },
   {
     "id": "it_17411",
+    "lang": "it",
     "lemma": "spot",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23788,13 +22368,11 @@ const WORDS_IT_B1 = [
       "zh": "聚光灯",
       "ru": "прожектор"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17412",
+    "lang": "it",
     "lemma": "buttata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23814,13 +22392,12 @@ const WORDS_IT_B1 = [
       "zh": "芽",
       "ru": "побег"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "buttate"
   },
   {
     "id": "it_17415",
+    "lang": "it",
     "lemma": "vigliacco",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23840,12 +22417,11 @@ const WORDS_IT_B1 = [
       "ja": "臆病な",
       "zh": "懦弱的",
       "ru": "трусливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17416",
+    "lang": "it",
     "lemma": "vigliacco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23866,13 +22442,12 @@ const WORDS_IT_B1 = [
       "zh": "懦夫",
       "ru": "трус"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "vigliacchi"
   },
   {
     "id": "it_17419",
+    "lang": "it",
     "lemma": "intenso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23892,12 +22467,11 @@ const WORDS_IT_B1 = [
       "ja": "強烈な",
       "zh": "强烈的",
       "ru": "интенсивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17420",
+    "lang": "it",
     "lemma": "circolazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23918,13 +22492,12 @@ const WORDS_IT_B1 = [
       "zh": "循环",
       "ru": "циркуляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "circolazioni"
   },
   {
     "id": "it_17422",
+    "lang": "it",
     "lemma": "soddisfazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23945,13 +22518,12 @@ const WORDS_IT_B1 = [
       "zh": "满意",
       "ru": "удовлетворение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "soddisfazioni"
   },
   {
     "id": "it_17423",
+    "lang": "it",
     "lemma": "caverna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -23972,13 +22544,12 @@ const WORDS_IT_B1 = [
       "zh": "洞穴",
       "ru": "пещера"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "caverne"
   },
   {
     "id": "it_17424",
+    "lang": "it",
     "lemma": "paranoico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -23997,12 +22568,11 @@ const WORDS_IT_B1 = [
       "ja": "パラノイアの",
       "zh": "偏执的",
       "ru": "параноидальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17426",
+    "lang": "it",
     "lemma": "sorso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24023,13 +22593,12 @@ const WORDS_IT_B1 = [
       "zh": "一口",
       "ru": "глоток"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sorsi"
   },
   {
     "id": "it_17428",
+    "lang": "it",
     "lemma": "defunto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24048,12 +22617,11 @@ const WORDS_IT_B1 = [
       "ja": "故人の",
       "zh": "已故的",
       "ru": "покойный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17429",
+    "lang": "it",
     "lemma": "defunto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24073,13 +22641,12 @@ const WORDS_IT_B1 = [
       "zh": "死者",
       "ru": "покойник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "defunti"
   },
   {
     "id": "it_17430",
+    "lang": "it",
     "lemma": "profitto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24099,13 +22666,12 @@ const WORDS_IT_B1 = [
       "zh": "利润",
       "ru": "прибыль"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "profitti"
   },
   {
     "id": "it_17432",
+    "lang": "it",
     "lemma": "semestre",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24125,13 +22691,12 @@ const WORDS_IT_B1 = [
       "zh": "学期",
       "ru": "семестр"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "semestri"
   },
   {
     "id": "it_17433",
+    "lang": "it",
     "lemma": "mosso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24151,12 +22716,11 @@ const WORDS_IT_B1 = [
       "ja": "動いた",
       "zh": "移动的",
       "ru": "подвижный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17434",
+    "lang": "it",
     "lemma": "elettorale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24175,12 +22739,11 @@ const WORDS_IT_B1 = [
       "ja": "選挙の",
       "zh": "选举的",
       "ru": "избирательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17436",
+    "lang": "it",
     "lemma": "psicologo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24201,13 +22764,12 @@ const WORDS_IT_B1 = [
       "zh": "心理学家",
       "ru": "психолог"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "psicologi"
   },
   {
     "id": "it_17437",
+    "lang": "it",
     "lemma": "scadenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24228,13 +22790,12 @@ const WORDS_IT_B1 = [
       "zh": "截止日期",
       "ru": "срок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "scadenze"
   },
   {
     "id": "it_17438",
+    "lang": "it",
     "lemma": "oriente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24248,19 +22809,18 @@ const WORDS_IT_B1 = [
       "de": "der Osten",
       "es": "el este",
       "fr": "l'est",
-      "it": "l'oriente",
+      "it": "l' l'oriente",
       "pt": "o leste",
       "ja": "東",
       "zh": "东方",
       "ru": "восток"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orienti"
   },
   {
     "id": "it_17439",
+    "lang": "it",
     "lemma": "addestrato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24279,12 +22839,11 @@ const WORDS_IT_B1 = [
       "ja": "訓練された",
       "zh": "训练有素的",
       "ru": "обученный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17440",
+    "lang": "it",
     "lemma": "estremo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24303,12 +22862,11 @@ const WORDS_IT_B1 = [
       "ja": "極端な",
       "zh": "极端的",
       "ru": "крайний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17441",
+    "lang": "it",
     "lemma": "estremo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24322,19 +22880,18 @@ const WORDS_IT_B1 = [
       "de": "das Extrem",
       "es": "el extremo",
       "fr": "l'extrême",
-      "it": "l'estremo",
+      "it": "l' l'estremo",
       "pt": "o extremo",
       "ja": "極端",
       "zh": "极端",
       "ru": "крайность"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "estremi"
   },
   {
     "id": "it_17442",
+    "lang": "it",
     "lemma": "rapida",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24354,13 +22911,12 @@ const WORDS_IT_B1 = [
       "zh": "急流",
       "ru": "порог"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rapide"
   },
   {
     "id": "it_17443",
+    "lang": "it",
     "lemma": "ricchezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24381,13 +22937,12 @@ const WORDS_IT_B1 = [
       "zh": "财富",
       "ru": "богатство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ricchezze"
   },
   {
     "id": "it_17444",
+    "lang": "it",
     "lemma": "spiacevole",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24407,12 +22962,11 @@ const WORDS_IT_B1 = [
       "ja": "不快な",
       "zh": "不愉快的",
       "ru": "неприятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17445",
+    "lang": "it",
     "lemma": "afferrato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24431,12 +22985,11 @@ const WORDS_IT_B1 = [
       "ja": "つかんだ",
       "zh": "抓住的",
       "ru": "схваченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17446",
+    "lang": "it",
     "lemma": "comunista",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24455,12 +23008,11 @@ const WORDS_IT_B1 = [
       "ja": "共産主義の",
       "zh": "共产主义的",
       "ru": "коммунистический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17447",
+    "lang": "it",
     "lemma": "tenero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24480,12 +23032,11 @@ const WORDS_IT_B1 = [
       "ja": "柔らかい",
       "zh": "柔软的",
       "ru": "нежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17448",
+    "lang": "it",
     "lemma": "tenero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24505,13 +23056,12 @@ const WORDS_IT_B1 = [
       "zh": "嫩的部分",
       "ru": "нежная часть"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "teneri"
   },
   {
     "id": "it_17449",
+    "lang": "it",
     "lemma": "terrestre",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24530,12 +23080,11 @@ const WORDS_IT_B1 = [
       "ja": "地球の",
       "zh": "陆地的",
       "ru": "земной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17450",
+    "lang": "it",
     "lemma": "terrestre",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24555,13 +23104,12 @@ const WORDS_IT_B1 = [
       "zh": "地球人",
       "ru": "землянин"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "terrestri"
   },
   {
     "id": "it_17451",
+    "lang": "it",
     "lemma": "permettersi",
     "pos": "Verb",
     "cefr": "B1",
@@ -24571,7 +23119,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "여유가 되다",
-      "en": "to afford",
+      "en": "afford",
       "de": "sich leisten",
       "es": "permitirse",
       "fr": "se permettre",
@@ -24580,15 +23128,11 @@ const WORDS_IT_B1 = [
       "ja": "余裕がある",
       "zh": "负担得起",
       "ru": "позволить себе"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "permettersi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17452",
+    "lang": "it",
     "lemma": "digitale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24608,12 +23152,11 @@ const WORDS_IT_B1 = [
       "ja": "デジタルの",
       "zh": "数字的",
       "ru": "цифровой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17454",
+    "lang": "it",
     "lemma": "dimentico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24633,12 +23176,11 @@ const WORDS_IT_B1 = [
       "ja": "忘れっぽい",
       "zh": "健忘的",
       "ru": "забывчивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17455",
+    "lang": "it",
     "lemma": "macellaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24658,13 +23200,12 @@ const WORDS_IT_B1 = [
       "zh": "屠夫",
       "ru": "мясник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "macellai"
   },
   {
     "id": "it_17456",
+    "lang": "it",
     "lemma": "significare",
     "pos": "Verb",
     "cefr": "B1",
@@ -24674,7 +23215,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "의미하다",
-      "en": "to mean",
+      "en": "mean",
       "de": "bedeuten",
       "es": "significar",
       "fr": "signifier",
@@ -24683,15 +23224,11 @@ const WORDS_IT_B1 = [
       "ja": "意味する",
       "zh": "意味着",
       "ru": "означать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "significare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17458",
+    "lang": "it",
     "lemma": "donatore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24710,12 +23247,11 @@ const WORDS_IT_B1 = [
       "ja": "寄付する",
       "zh": "捐赠的",
       "ru": "донорский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17459",
+    "lang": "it",
     "lemma": "donatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24735,13 +23271,12 @@ const WORDS_IT_B1 = [
       "zh": "捐赠者",
       "ru": "донор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "donatori"
   },
   {
     "id": "it_17460",
+    "lang": "it",
     "lemma": "biologico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24761,12 +23296,11 @@ const WORDS_IT_B1 = [
       "ja": "生物学的な",
       "zh": "生物的",
       "ru": "биологический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17462",
+    "lang": "it",
     "lemma": "picnic",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24787,13 +23321,11 @@ const WORDS_IT_B1 = [
       "zh": "野餐",
       "ru": "пикник"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17464",
+    "lang": "it",
     "lemma": "negativa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24813,13 +23345,12 @@ const WORDS_IT_B1 = [
       "zh": "否定",
       "ru": "отрицание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "negative"
   },
   {
     "id": "it_17465",
+    "lang": "it",
     "lemma": "derubato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -24838,12 +23369,11 @@ const WORDS_IT_B1 = [
       "ja": "強奪された",
       "zh": "被抢劫的",
       "ru": "ограбленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17467",
+    "lang": "it",
     "lemma": "manica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24864,13 +23394,12 @@ const WORDS_IT_B1 = [
       "zh": "袖子",
       "ru": "рукав"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maniche"
   },
   {
     "id": "it_17468",
+    "lang": "it",
     "lemma": "critica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24891,13 +23420,12 @@ const WORDS_IT_B1 = [
       "zh": "批评",
       "ru": "критика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "critiche"
   },
   {
     "id": "it_17469",
+    "lang": "it",
     "lemma": "miglio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24918,13 +23446,12 @@ const WORDS_IT_B1 = [
       "zh": "英里",
       "ru": "миля"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "miglia"
   },
   {
     "id": "it_17470",
+    "lang": "it",
     "lemma": "nucleo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24945,13 +23472,12 @@ const WORDS_IT_B1 = [
       "zh": "核心",
       "ru": "ядро"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "nuclei"
   },
   {
     "id": "it_17471",
+    "lang": "it",
     "lemma": "app",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24966,19 +23492,17 @@ const WORDS_IT_B1 = [
       "de": "die App",
       "es": "la aplicación",
       "fr": "l'application",
-      "it": "l'app",
+      "it": "l' l'app",
       "pt": "o aplicativo",
       "ja": "アプリ",
       "zh": "应用",
       "ru": "приложение"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17472",
+    "lang": "it",
     "lemma": "freno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -24999,13 +23523,12 @@ const WORDS_IT_B1 = [
       "zh": "刹车",
       "ru": "тормоз"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "freni"
   },
   {
     "id": "it_17475",
+    "lang": "it",
     "lemma": "storico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25024,12 +23547,11 @@ const WORDS_IT_B1 = [
       "ja": "歴史的な",
       "zh": "历史的",
       "ru": "исторический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17476",
+    "lang": "it",
     "lemma": "storico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25049,13 +23571,12 @@ const WORDS_IT_B1 = [
       "zh": "历史学家",
       "ru": "историк"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "storici"
   },
   {
     "id": "it_17477",
+    "lang": "it",
     "lemma": "sostituire",
     "pos": "Verb",
     "cefr": "B1",
@@ -25066,7 +23587,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "대체하다",
-      "en": "to replace",
+      "en": "replace",
       "de": "ersetzen",
       "es": "sustituir",
       "fr": "remplacer",
@@ -25075,15 +23596,11 @@ const WORDS_IT_B1 = [
       "ja": "置き換える",
       "zh": "替换",
       "ru": "заменять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sostituire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17478",
+    "lang": "it",
     "lemma": "morfina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25103,13 +23620,12 @@ const WORDS_IT_B1 = [
       "zh": "吗啡",
       "ru": "морфин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "morfine"
   },
   {
     "id": "it_17479",
+    "lang": "it",
     "lemma": "crociera",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25130,13 +23646,11 @@ const WORDS_IT_B1 = [
       "zh": "巡航",
       "ru": "круиз"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17480",
+    "lang": "it",
     "lemma": "arabo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25156,12 +23670,11 @@ const WORDS_IT_B1 = [
       "ja": "アラビアの",
       "zh": "阿拉伯的",
       "ru": "арабский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17481",
+    "lang": "it",
     "lemma": "arabo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25176,19 +23689,18 @@ const WORDS_IT_B1 = [
       "de": "der Araber",
       "es": "el árabe",
       "fr": "l'Arabe",
-      "it": "l'arabo",
+      "it": "l' l'arabo",
       "pt": "o árabe",
       "ja": "アラブ人",
       "zh": "阿拉伯人",
       "ru": "араб"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "arabi"
   },
   {
     "id": "it_17482",
+    "lang": "it",
     "lemma": "immondizia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25203,19 +23715,18 @@ const WORDS_IT_B1 = [
       "de": "der Müll",
       "es": "la basura",
       "fr": "les ordures",
-      "it": "l'immondizia",
+      "it": "l' l'immondizia",
       "pt": "o lixo",
       "ja": "ごみ",
       "zh": "垃圾",
       "ru": "мусор"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "immondizie"
   },
   {
     "id": "it_17483",
+    "lang": "it",
     "lemma": "corrispondenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25236,13 +23747,12 @@ const WORDS_IT_B1 = [
       "zh": "通信",
       "ru": "переписка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "corrispondenze"
   },
   {
     "id": "it_17484",
+    "lang": "it",
     "lemma": "benedetto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25261,12 +23771,11 @@ const WORDS_IT_B1 = [
       "ja": "祝福された",
       "zh": "受祝福的",
       "ru": "благословенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17485",
+    "lang": "it",
     "lemma": "falco",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25286,13 +23795,12 @@ const WORDS_IT_B1 = [
       "zh": "猎鹰",
       "ru": "сокол"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "falchi"
   },
   {
     "id": "it_17486",
+    "lang": "it",
     "lemma": "bonus",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25313,13 +23821,11 @@ const WORDS_IT_B1 = [
       "zh": "奖金",
       "ru": "бонус"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17487",
+    "lang": "it",
     "lemma": "legna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25339,13 +23845,11 @@ const WORDS_IT_B1 = [
       "zh": "木柴",
       "ru": "дрова"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17488",
+    "lang": "it",
     "lemma": "monitor",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25366,13 +23870,11 @@ const WORDS_IT_B1 = [
       "zh": "显示器",
       "ru": "монитор"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17489",
+    "lang": "it",
     "lemma": "operativo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25391,12 +23893,11 @@ const WORDS_IT_B1 = [
       "ja": "運用上の",
       "zh": "操作的",
       "ru": "оперативный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17490",
+    "lang": "it",
     "lemma": "operativo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25410,19 +23911,17 @@ const WORDS_IT_B1 = [
       "de": "der Betrieb",
       "es": "la operación",
       "fr": "l'opération",
-      "it": "l'operativo",
+      "it": "l' l'operativo",
       "pt": "a operação",
       "ja": "操作",
       "zh": "操作",
       "ru": "операция"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17491",
+    "lang": "it",
     "lemma": "feccia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25443,13 +23942,12 @@ const WORDS_IT_B1 = [
       "zh": "渣滓",
       "ru": "осадок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fecce"
   },
   {
     "id": "it_17492",
+    "lang": "it",
     "lemma": "braccialetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25470,13 +23968,12 @@ const WORDS_IT_B1 = [
       "zh": "手镯",
       "ru": "браслет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "braccialetti"
   },
   {
     "id": "it_17493",
+    "lang": "it",
     "lemma": "pulizia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25497,13 +23994,12 @@ const WORDS_IT_B1 = [
       "zh": "清洁",
       "ru": "уборка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pulizie"
   },
   {
     "id": "it_17494",
+    "lang": "it",
     "lemma": "audio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25518,19 +24014,17 @@ const WORDS_IT_B1 = [
       "de": "das Audio",
       "es": "el audio",
       "fr": "l'audio",
-      "it": "l'audio",
+      "it": "l' l'audio",
       "pt": "o áudio",
       "ja": "オーディオ",
       "zh": "音频",
       "ru": "аудио"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17495",
+    "lang": "it",
     "lemma": "esposto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25550,12 +24044,11 @@ const WORDS_IT_B1 = [
       "ja": "露出した",
       "zh": "暴露的",
       "ru": "выставленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17497",
+    "lang": "it",
     "lemma": "cristiano",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25575,12 +24068,11 @@ const WORDS_IT_B1 = [
       "ja": "キリスト教の",
       "zh": "基督教的",
       "ru": "христианский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17498",
+    "lang": "it",
     "lemma": "cristiano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25601,13 +24093,12 @@ const WORDS_IT_B1 = [
       "zh": "基督徒",
       "ru": "христианин"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cristiani"
   },
   {
     "id": "it_17499",
+    "lang": "it",
     "lemma": "privilegio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25628,13 +24119,12 @@ const WORDS_IT_B1 = [
       "zh": "特权",
       "ru": "привилегия"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "privilegi"
   },
   {
     "id": "it_17500",
+    "lang": "it",
     "lemma": "ironia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25649,19 +24139,18 @@ const WORDS_IT_B1 = [
       "de": "die Ironie",
       "es": "la ironía",
       "fr": "l'ironie",
-      "it": "l'ironia",
+      "it": "l' l'ironia",
       "pt": "a ironia",
       "ja": "皮肉",
       "zh": "讽刺",
       "ru": "ирония"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ironie"
   },
   {
     "id": "it_17501",
+    "lang": "it",
     "lemma": "smoking",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25682,13 +24171,11 @@ const WORDS_IT_B1 = [
       "zh": "燕尾服",
       "ru": "смокинг"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17502",
+    "lang": "it",
     "lemma": "manzo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25709,13 +24196,12 @@ const WORDS_IT_B1 = [
       "zh": "牛肉",
       "ru": "говядина"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "manzi"
   },
   {
     "id": "it_17503",
+    "lang": "it",
     "lemma": "ricevimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25736,13 +24222,12 @@ const WORDS_IT_B1 = [
       "zh": "接待",
       "ru": "приём"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ricevimenti"
   },
   {
     "id": "it_17505",
+    "lang": "it",
     "lemma": "abuso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25757,19 +24242,18 @@ const WORDS_IT_B1 = [
       "de": "der Missbrauch",
       "es": "el abuso",
       "fr": "l'abus",
-      "it": "l'abuso",
+      "it": "l' l'abuso",
       "pt": "o abuso",
       "ja": "乱用",
       "zh": "滥用",
       "ru": "злоупотребление"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "abusi"
   },
   {
     "id": "it_17506",
+    "lang": "it",
     "lemma": "sciocchezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25790,13 +24274,12 @@ const WORDS_IT_B1 = [
       "zh": "胡说",
       "ru": "глупость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sciocchezze"
   },
   {
     "id": "it_17507",
+    "lang": "it",
     "lemma": "protesta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25817,13 +24300,12 @@ const WORDS_IT_B1 = [
       "zh": "抗议",
       "ru": "протест"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "proteste"
   },
   {
     "id": "it_17508",
+    "lang": "it",
     "lemma": "cagnolino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25844,13 +24326,12 @@ const WORDS_IT_B1 = [
       "zh": "小狗",
       "ru": "щенок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cagnolini"
   },
   {
     "id": "it_17509",
+    "lang": "it",
     "lemma": "telefonare",
     "pos": "Verb",
     "cefr": "B1",
@@ -25861,7 +24342,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "전화하다",
-      "en": "to call",
+      "en": "call",
       "de": "telefonieren",
       "es": "llamar por teléfono",
       "fr": "téléphoner",
@@ -25870,15 +24351,11 @@ const WORDS_IT_B1 = [
       "ja": "電話する",
       "zh": "打电话",
       "ru": "звонить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "telefonare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17510",
+    "lang": "it",
     "lemma": "quaranta",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25897,12 +24374,11 @@ const WORDS_IT_B1 = [
       "ja": "四十",
       "zh": "四十",
       "ru": "сорок"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17511",
+    "lang": "it",
     "lemma": "tradizionale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25922,12 +24398,11 @@ const WORDS_IT_B1 = [
       "ja": "伝統的な",
       "zh": "传统的",
       "ru": "традиционный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17512",
+    "lang": "it",
     "lemma": "secchio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -25948,13 +24423,12 @@ const WORDS_IT_B1 = [
       "zh": "水桶",
       "ru": "ведро"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "secchi"
   },
   {
     "id": "it_17513",
+    "lang": "it",
     "lemma": "vaccino",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25974,12 +24448,11 @@ const WORDS_IT_B1 = [
       "ja": "牛の",
       "zh": "牛的",
       "ru": "коровий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17515",
+    "lang": "it",
     "lemma": "individuo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -25999,12 +24472,11 @@ const WORDS_IT_B1 = [
       "ja": "個々の",
       "zh": "个别的",
       "ru": "индивидуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17516",
+    "lang": "it",
     "lemma": "individuo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26019,19 +24491,18 @@ const WORDS_IT_B1 = [
       "de": "das Individuum",
       "es": "el individuo",
       "fr": "l'individu",
-      "it": "l'individuo",
+      "it": "l' l'individuo",
       "pt": "o indivíduo",
       "ja": "個人",
       "zh": "个人",
       "ru": "индивидуум"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "individui"
   },
   {
     "id": "it_17518",
+    "lang": "it",
     "lemma": "pope",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26052,13 +24523,11 @@ const WORDS_IT_B1 = [
       "zh": "东正教神父",
       "ru": "поп"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17520",
+    "lang": "it",
     "lemma": "scusare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26070,7 +24539,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "용서하다",
-      "en": "to excuse",
+      "en": "excuse",
       "de": "entschuldigen",
       "es": "disculpar",
       "fr": "excuser",
@@ -26079,15 +24548,11 @@ const WORDS_IT_B1 = [
       "ja": "許す",
       "zh": "原谅",
       "ru": "извинять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scusare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17522",
+    "lang": "it",
     "lemma": "carrello",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26108,13 +24573,12 @@ const WORDS_IT_B1 = [
       "zh": "手推车",
       "ru": "тележка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "carrelli"
   },
   {
     "id": "it_17523",
+    "lang": "it",
     "lemma": "scuro",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26134,12 +24598,11 @@ const WORDS_IT_B1 = [
       "ja": "暗い",
       "zh": "黑暗的",
       "ru": "темный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17524",
+    "lang": "it",
     "lemma": "scuro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26160,13 +24623,12 @@ const WORDS_IT_B1 = [
       "zh": "黑暗",
       "ru": "темнота"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "scuri"
   },
   {
     "id": "it_17525",
+    "lang": "it",
     "lemma": "esibizione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26181,19 +24643,18 @@ const WORDS_IT_B1 = [
       "de": "die Ausstellung",
       "es": "la exhibición",
       "fr": "l'exposition",
-      "it": "l'esibizione",
+      "it": "l' l'esibizione",
       "pt": "a exibição",
       "ja": "展示",
       "zh": "展览",
       "ru": "выставка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "esibizioni"
   },
   {
     "id": "it_17526",
+    "lang": "it",
     "lemma": "mais",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26214,13 +24675,11 @@ const WORDS_IT_B1 = [
       "zh": "玉米",
       "ru": "кукуруза"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17527",
+    "lang": "it",
     "lemma": "investire",
     "pos": "Verb",
     "cefr": "B1",
@@ -26239,15 +24698,11 @@ const WORDS_IT_B1 = [
       "ja": "授与する",
       "zh": "授予",
       "ru": "наделять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "investire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17528",
+    "lang": "it",
     "lemma": "strip",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26267,13 +24722,11 @@ const WORDS_IT_B1 = [
       "zh": "漫画",
       "ru": "комикс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17529",
+    "lang": "it",
     "lemma": "creatore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26293,12 +24746,11 @@ const WORDS_IT_B1 = [
       "ja": "創造的な",
       "zh": "创造性的",
       "ru": "творческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17530",
+    "lang": "it",
     "lemma": "creatore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26318,13 +24770,12 @@ const WORDS_IT_B1 = [
       "zh": "创造者",
       "ru": "создатель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "creatori"
   },
   {
     "id": "it_17531",
+    "lang": "it",
     "lemma": "lava",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26344,13 +24795,11 @@ const WORDS_IT_B1 = [
       "zh": "熔岩",
       "ru": "лава"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17532",
+    "lang": "it",
     "lemma": "completare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26370,15 +24819,11 @@ const WORDS_IT_B1 = [
       "ja": "完了する",
       "zh": "完成",
       "ru": "завершать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "completare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17533",
+    "lang": "it",
     "lemma": "interruzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26393,19 +24838,18 @@ const WORDS_IT_B1 = [
       "de": "die Unterbrechung",
       "es": "la interrupción",
       "fr": "l'interruption",
-      "it": "l'interruzione",
+      "it": "l' l'interruzione",
       "pt": "a interrupção",
       "ja": "中断",
       "zh": "中断",
       "ru": "прерывание"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "interruzioni"
   },
   {
     "id": "it_17534",
+    "lang": "it",
     "lemma": "arancia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26420,19 +24864,18 @@ const WORDS_IT_B1 = [
       "de": "die Orange",
       "es": "la naranja",
       "fr": "l'orange",
-      "it": "l'arancia",
+      "it": "l' l'arancia",
       "pt": "a laranja",
       "ja": "オレンジ",
       "zh": "橙子",
       "ru": "апельсин"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "arance"
   },
   {
     "id": "it_17535",
+    "lang": "it",
     "lemma": "celebrare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26451,15 +24894,11 @@ const WORDS_IT_B1 = [
       "ja": "祝う",
       "zh": "庆祝",
       "ru": "праздновать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "celebrare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17539",
+    "lang": "it",
     "lemma": "dessert",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26480,13 +24919,11 @@ const WORDS_IT_B1 = [
       "zh": "甜点",
       "ru": "десерт"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17540",
+    "lang": "it",
     "lemma": "tedesca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26507,13 +24944,12 @@ const WORDS_IT_B1 = [
       "zh": "德国女人",
       "ru": "немка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tedesche"
   },
   {
     "id": "it_17541",
+    "lang": "it",
     "lemma": "terrificante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26532,12 +24968,11 @@ const WORDS_IT_B1 = [
       "ja": "恐ろしい",
       "zh": "可怕的",
       "ru": "ужасающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17542",
+    "lang": "it",
     "lemma": "richiamare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26557,15 +24992,11 @@ const WORDS_IT_B1 = [
       "ja": "呼び戻す",
       "zh": "召回",
       "ru": "отзывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "richiamare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17544",
+    "lang": "it",
     "lemma": "gi",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26585,13 +25016,11 @@ const WORDS_IT_B1 = [
       "zh": "字母G",
       "ru": "буква G"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17545",
+    "lang": "it",
     "lemma": "mina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26611,13 +25040,12 @@ const WORDS_IT_B1 = [
       "zh": "地雷",
       "ru": "мина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mine"
   },
   {
     "id": "it_17547",
+    "lang": "it",
     "lemma": "onnipotente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26636,12 +25064,11 @@ const WORDS_IT_B1 = [
       "ja": "全能の",
       "zh": "全能的",
       "ru": "всемогущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17548",
+    "lang": "it",
     "lemma": "onnipotente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26655,19 +25082,17 @@ const WORDS_IT_B1 = [
       "de": "der Allmächtige",
       "es": "el Todopoderoso",
       "fr": "l'Omnipotent",
-      "it": "l'onnipotente",
+      "it": "l' l'onnipotente",
       "pt": "o Todo-Poderoso",
       "ja": "全能者",
       "zh": "全能者",
       "ru": "Всевышний"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17551",
+    "lang": "it",
     "lemma": "concentrazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26688,13 +25113,12 @@ const WORDS_IT_B1 = [
       "zh": "集中",
       "ru": "концентрация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "concentrazioni"
   },
   {
     "id": "it_17552",
+    "lang": "it",
     "lemma": "insopportabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26713,12 +25137,11 @@ const WORDS_IT_B1 = [
       "ja": "耐えられない",
       "zh": "无法忍受的",
       "ru": "невыносимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17553",
+    "lang": "it",
     "lemma": "essenziale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26738,12 +25161,11 @@ const WORDS_IT_B1 = [
       "ja": "不可欠な",
       "zh": "必要的",
       "ru": "существенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17554",
+    "lang": "it",
     "lemma": "essenziale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26758,19 +25180,17 @@ const WORDS_IT_B1 = [
       "de": "das Wesentliche",
       "es": "lo esencial",
       "fr": "l'essentiel",
-      "it": "l'essenziale",
+      "it": "l' l'essenziale",
       "pt": "o essencial",
       "ja": "本質",
       "zh": "必需品",
       "ru": "суть"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17555",
+    "lang": "it",
     "lemma": "incrocio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26785,19 +25205,18 @@ const WORDS_IT_B1 = [
       "de": "die Kreuzung",
       "es": "el cruce",
       "fr": "le carrefour",
-      "it": "l'incrocio",
+      "it": "l' l'incrocio",
       "pt": "o cruzamento",
       "ja": "交差点",
       "zh": "十字路口",
       "ru": "перекресток"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "incroci"
   },
   {
     "id": "it_17556",
+    "lang": "it",
     "lemma": "crollare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26816,15 +25235,11 @@ const WORDS_IT_B1 = [
       "ja": "崩壊する",
       "zh": "倒塌",
       "ru": "рухнуть"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "crollare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17558",
+    "lang": "it",
     "lemma": "rilevato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26843,12 +25258,11 @@ const WORDS_IT_B1 = [
       "ja": "隆起した",
       "zh": "凸起的",
       "ru": "выступающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17560",
+    "lang": "it",
     "lemma": "attrazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26862,19 +25276,18 @@ const WORDS_IT_B1 = [
       "de": "die Anziehung",
       "es": "la atracción",
       "fr": "l'attraction",
-      "it": "l'attrazione",
+      "it": "l' l'attrazione",
       "pt": "a atração",
       "ja": "魅力",
       "zh": "吸引力",
       "ru": "притяжение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "attrazioni"
   },
   {
     "id": "it_17561",
+    "lang": "it",
     "lemma": "tessera",
     "pos": "Nomen",
     "cefr": "B1",
@@ -26895,13 +25308,12 @@ const WORDS_IT_B1 = [
       "zh": "卡片",
       "ru": "карта"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tessere"
   },
   {
     "id": "it_17562",
+    "lang": "it",
     "lemma": "cosciente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -26920,12 +25332,11 @@ const WORDS_IT_B1 = [
       "ja": "意識している",
       "zh": "有意识的",
       "ru": "сознательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17563",
+    "lang": "it",
     "lemma": "utilizzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -26945,15 +25356,11 @@ const WORDS_IT_B1 = [
       "ja": "利用する",
       "zh": "使用",
       "ru": "использовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "utilizzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17564",
+    "lang": "it",
     "lemma": "descrivere",
     "pos": "Verb",
     "cefr": "B1",
@@ -26972,15 +25379,11 @@ const WORDS_IT_B1 = [
       "ja": "記述する",
       "zh": "描述",
       "ru": "описывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "descrivere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17565",
+    "lang": "it",
     "lemma": "marciapiede",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27001,13 +25404,12 @@ const WORDS_IT_B1 = [
       "zh": "人行道",
       "ru": "тротуар"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "marciapiedi"
   },
   {
     "id": "it_17566",
+    "lang": "it",
     "lemma": "maleducato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27026,12 +25428,11 @@ const WORDS_IT_B1 = [
       "ja": "無礼な",
       "zh": "粗鲁的",
       "ru": "невоспитанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17567",
+    "lang": "it",
     "lemma": "maleducato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27051,13 +25452,12 @@ const WORDS_IT_B1 = [
       "zh": "粗鲁的人",
       "ru": "грубиян"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "maleducati"
   },
   {
     "id": "it_17568",
+    "lang": "it",
     "lemma": "tenersi",
     "pos": "Verb",
     "cefr": "B1",
@@ -27076,15 +25476,11 @@ const WORDS_IT_B1 = [
       "ja": "身を保つ",
       "zh": "保持",
       "ru": "держаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tenersi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17569",
+    "lang": "it",
     "lemma": "steso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27103,12 +25499,11 @@ const WORDS_IT_B1 = [
       "ja": "伸ばした",
       "zh": "伸展的",
       "ru": "растянутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17571",
+    "lang": "it",
     "lemma": "ferrovia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27128,13 +25523,12 @@ const WORDS_IT_B1 = [
       "zh": "铁路",
       "ru": "железная дорога"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ferrovie"
   },
   {
     "id": "it_17572",
+    "lang": "it",
     "lemma": "domicilio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27155,13 +25549,12 @@ const WORDS_IT_B1 = [
       "zh": "住所",
       "ru": "место жительства"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "domicili"
   },
   {
     "id": "it_17574",
+    "lang": "it",
     "lemma": "casinò",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27181,13 +25574,11 @@ const WORDS_IT_B1 = [
       "zh": "赌场",
       "ru": "казино"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17575",
+    "lang": "it",
     "lemma": "apocalisse",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27201,19 +25592,18 @@ const WORDS_IT_B1 = [
       "de": "die Apokalypse",
       "es": "el apocalipsis",
       "fr": "l'apocalypse",
-      "it": "l'apocalisse",
+      "it": "l' l'apocalisse",
       "pt": "o apocalipse",
       "ja": "黙示録",
       "zh": "启示录",
       "ru": "апокалипсис"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "apocalissi"
   },
   {
     "id": "it_17576",
+    "lang": "it",
     "lemma": "diecimila",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27232,12 +25622,11 @@ const WORDS_IT_B1 = [
       "ja": "一万",
       "zh": "一万",
       "ru": "десять тысяч"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17578",
+    "lang": "it",
     "lemma": "voltare",
     "pos": "Verb",
     "cefr": "B1",
@@ -27256,15 +25645,11 @@ const WORDS_IT_B1 = [
       "ja": "回す",
       "zh": "转动",
       "ru": "поворачивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "voltare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17579",
+    "lang": "it",
     "lemma": "valutare",
     "pos": "Verb",
     "cefr": "B1",
@@ -27283,15 +25668,11 @@ const WORDS_IT_B1 = [
       "ja": "評価する",
       "zh": "评估",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "valutare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17580",
+    "lang": "it",
     "lemma": "uva",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27305,19 +25686,18 @@ const WORDS_IT_B1 = [
       "de": "die Traube",
       "es": "la uva",
       "fr": "le raisin",
-      "it": "l'uva",
+      "it": "l' l'uva",
       "pt": "a uva",
       "ja": "ブドウ",
       "zh": "葡萄",
       "ru": "виноград"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "uve"
   },
   {
     "id": "it_17581",
+    "lang": "it",
     "lemma": "curiosità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27337,13 +25717,11 @@ const WORDS_IT_B1 = [
       "zh": "好奇心",
       "ru": "любопытство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17583",
+    "lang": "it",
     "lemma": "parata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27363,13 +25741,12 @@ const WORDS_IT_B1 = [
       "zh": "格挡",
       "ru": "парирование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "parate"
   },
   {
     "id": "it_17584",
+    "lang": "it",
     "lemma": "passeggero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27388,12 +25765,11 @@ const WORDS_IT_B1 = [
       "ja": "一時的な",
       "zh": "暂时的",
       "ru": "мимолетный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17585",
+    "lang": "it",
     "lemma": "passeggero",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27414,13 +25790,12 @@ const WORDS_IT_B1 = [
       "zh": "乘客",
       "ru": "пассажир"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "passeggeri"
   },
   {
     "id": "it_17586",
+    "lang": "it",
     "lemma": "vincente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27439,12 +25814,11 @@ const WORDS_IT_B1 = [
       "ja": "勝利の",
       "zh": "获胜的",
       "ru": "победный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17587",
+    "lang": "it",
     "lemma": "sbrigare",
     "pos": "Verb",
     "cefr": "B1",
@@ -27455,7 +25829,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "서두르다",
-      "en": "to hurry",
+      "en": "hurry",
       "de": "erledigen",
       "es": "despachar",
       "fr": "expédier",
@@ -27464,15 +25838,11 @@ const WORDS_IT_B1 = [
       "ja": "急ぐ",
       "zh": "办理",
       "ru": "поторопиться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sbrigare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17588",
+    "lang": "it",
     "lemma": "immigrazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27487,19 +25857,18 @@ const WORDS_IT_B1 = [
       "de": "die Einwanderung",
       "es": "la inmigración",
       "fr": "l'immigration",
-      "it": "l'immigrazione",
+      "it": "l' l'immigrazione",
       "pt": "a imigração",
       "ja": "移民",
       "zh": "移民",
       "ru": "иммиграция"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "immigrazioni"
   },
   {
     "id": "it_17589",
+    "lang": "it",
     "lemma": "brandy",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27519,13 +25888,11 @@ const WORDS_IT_B1 = [
       "zh": "白兰地",
       "ru": "бренди"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17591",
+    "lang": "it",
     "lemma": "eternità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27539,19 +25906,17 @@ const WORDS_IT_B1 = [
       "de": "die Ewigkeit",
       "es": "la eternidad",
       "fr": "l'éternité",
-      "it": "l'eternità",
+      "it": "l' l'eternità",
       "pt": "a eternidade",
       "ja": "永遠",
       "zh": "永恒",
       "ru": "вечность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17592",
+    "lang": "it",
     "lemma": "addetto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27570,12 +25935,11 @@ const WORDS_IT_B1 = [
       "ja": "担当の",
       "zh": "负责的",
       "ru": "прикрепленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17593",
+    "lang": "it",
     "lemma": "addetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27590,19 +25954,18 @@ const WORDS_IT_B1 = [
       "de": "der Angestellte",
       "es": "el encargado",
       "fr": "l'employé",
-      "it": "l'addetto",
+      "it": "l' l'addetto",
       "pt": "o funcionário",
       "ja": "担当者",
       "zh": "工作人员",
       "ru": "сотрудник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "addetti"
   },
   {
     "id": "it_17594",
+    "lang": "it",
     "lemma": "fazzoletto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27622,13 +25985,12 @@ const WORDS_IT_B1 = [
       "zh": "手帕",
       "ru": "платок"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fazzoletti"
   },
   {
     "id": "it_17595",
+    "lang": "it",
     "lemma": "bond",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27648,13 +26010,11 @@ const WORDS_IT_B1 = [
       "zh": "债券",
       "ru": "облигация"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17596",
+    "lang": "it",
     "lemma": "maresciallo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27674,13 +26034,12 @@ const WORDS_IT_B1 = [
       "zh": "元帅",
       "ru": "маршал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "marescialli"
   },
   {
     "id": "it_17597",
+    "lang": "it",
     "lemma": "crack",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27700,13 +26059,11 @@ const WORDS_IT_B1 = [
       "zh": "崩溃",
       "ru": "крах"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17598",
+    "lang": "it",
     "lemma": "fritto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27725,12 +26082,11 @@ const WORDS_IT_B1 = [
       "ja": "揚げた",
       "zh": "油炸的",
       "ru": "жареный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17600",
+    "lang": "it",
     "lemma": "convivere",
     "pos": "Verb",
     "cefr": "B1",
@@ -27740,7 +26096,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "동거하다",
-      "en": "to cohabit",
+      "en": "cohabit",
       "de": "zusammenleben",
       "es": "convivir",
       "fr": "cohabiter",
@@ -27749,15 +26105,11 @@ const WORDS_IT_B1 = [
       "ja": "同居する",
       "zh": "同居",
       "ru": "сожительствовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "convivere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17603",
+    "lang": "it",
     "lemma": "critico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27776,12 +26128,11 @@ const WORDS_IT_B1 = [
       "ja": "批判的な",
       "zh": "批判的",
       "ru": "критический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17604",
+    "lang": "it",
     "lemma": "critico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27802,13 +26153,12 @@ const WORDS_IT_B1 = [
       "zh": "评论家",
       "ru": "критик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "critici"
   },
   {
     "id": "it_17605",
+    "lang": "it",
     "lemma": "cera",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27828,13 +26178,12 @@ const WORDS_IT_B1 = [
       "zh": "蜡",
       "ru": "воск"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cere"
   },
   {
     "id": "it_17606",
+    "lang": "it",
     "lemma": "divino",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -27853,12 +26202,11 @@ const WORDS_IT_B1 = [
       "ja": "神聖な",
       "zh": "神圣的",
       "ru": "божественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17608",
+    "lang": "it",
     "lemma": "pullman",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27879,13 +26227,11 @@ const WORDS_IT_B1 = [
       "zh": "长途汽车",
       "ru": "автобус"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17609",
+    "lang": "it",
     "lemma": "sostituto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27906,13 +26252,12 @@ const WORDS_IT_B1 = [
       "zh": "替代者",
       "ru": "заместитель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "sostituti"
   },
   {
     "id": "it_17610",
+    "lang": "it",
     "lemma": "graffio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27932,13 +26277,12 @@ const WORDS_IT_B1 = [
       "zh": "划痕",
       "ru": "царапина"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "graffi"
   },
   {
     "id": "it_17611",
+    "lang": "it",
     "lemma": "donazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -27959,13 +26303,12 @@ const WORDS_IT_B1 = [
       "zh": "捐赠",
       "ru": "пожертвование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "donazioni"
   },
   {
     "id": "it_17613",
+    "lang": "it",
     "lemma": "prestare",
     "pos": "Verb",
     "cefr": "B1",
@@ -27975,7 +26318,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "빌려주다",
-      "en": "to lend",
+      "en": "lend",
       "de": "leihen",
       "es": "prestar",
       "fr": "prêter",
@@ -27984,15 +26327,11 @@ const WORDS_IT_B1 = [
       "ja": "貸す",
       "zh": "借出",
       "ru": "одалживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prestare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17614",
+    "lang": "it",
     "lemma": "strappo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28012,13 +26351,12 @@ const WORDS_IT_B1 = [
       "zh": "撕裂",
       "ru": "разрыв"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "strappi"
   },
   {
     "id": "it_17616",
+    "lang": "it",
     "lemma": "percentuale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28039,13 +26377,12 @@ const WORDS_IT_B1 = [
       "zh": "百分比",
       "ru": "процент"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "percentuali"
   },
   {
     "id": "it_17618",
+    "lang": "it",
     "lemma": "definire",
     "pos": "Verb",
     "cefr": "B1",
@@ -28065,15 +26402,11 @@ const WORDS_IT_B1 = [
       "ja": "定義する",
       "zh": "定义",
       "ru": "определять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "definire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17620",
+    "lang": "it",
     "lemma": "fienile",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28093,13 +26426,12 @@ const WORDS_IT_B1 = [
       "zh": "谷仓",
       "ru": "сарай"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fienili"
   },
   {
     "id": "it_17621",
+    "lang": "it",
     "lemma": "competere",
     "pos": "Verb",
     "cefr": "B1",
@@ -28118,15 +26450,11 @@ const WORDS_IT_B1 = [
       "ja": "競争する",
       "zh": "竞争",
       "ru": "конкурировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "competere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17622",
+    "lang": "it",
     "lemma": "litigio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28146,13 +26474,12 @@ const WORDS_IT_B1 = [
       "zh": "争吵",
       "ru": "ссора"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "litigi"
   },
   {
     "id": "it_17623",
+    "lang": "it",
     "lemma": "preparazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28173,13 +26500,12 @@ const WORDS_IT_B1 = [
       "zh": "准备",
       "ru": "подготовка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "preparazioni"
   },
   {
     "id": "it_17624",
+    "lang": "it",
     "lemma": "editore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28198,12 +26524,11 @@ const WORDS_IT_B1 = [
       "ja": "出版の",
       "zh": "出版的",
       "ru": "издательский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17625",
+    "lang": "it",
     "lemma": "editore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28217,19 +26542,18 @@ const WORDS_IT_B1 = [
       "de": "der Verleger",
       "es": "el editor",
       "fr": "l'éditeur",
-      "it": "l'editore",
+      "it": "l' l'editore",
       "pt": "o editor",
       "ja": "出版社",
       "zh": "出版商",
       "ru": "издатель"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "editori"
   },
   {
     "id": "it_17626",
+    "lang": "it",
     "lemma": "provocare",
     "pos": "Verb",
     "cefr": "B1",
@@ -28248,15 +26572,11 @@ const WORDS_IT_B1 = [
       "ja": "引き起こす",
       "zh": "挑衅",
       "ru": "провоцировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "provocare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17629",
+    "lang": "it",
     "lemma": "evoluzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28271,19 +26591,18 @@ const WORDS_IT_B1 = [
       "de": "die Evolution",
       "es": "la evolución",
       "fr": "l'évolution",
-      "it": "l'evoluzione",
+      "it": "l' l'evoluzione",
       "pt": "a evolução",
       "ja": "進化",
       "zh": "进化",
       "ru": "эволюция"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "evoluzioni"
   },
   {
     "id": "it_17630",
+    "lang": "it",
     "lemma": "picchiata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28303,13 +26622,11 @@ const WORDS_IT_B1 = [
       "zh": "俯冲",
       "ru": "пикирование"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17631",
+    "lang": "it",
     "lemma": "soddisfare",
     "pos": "Verb",
     "cefr": "B1",
@@ -28329,15 +26646,11 @@ const WORDS_IT_B1 = [
       "ja": "満足させる",
       "zh": "满足",
       "ru": "удовлетворять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "soddisfare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17632",
+    "lang": "it",
     "lemma": "risalire",
     "pos": "Verb",
     "cefr": "B1",
@@ -28357,15 +26670,11 @@ const WORDS_IT_B1 = [
       "ja": "登る",
       "zh": "爬升",
       "ru": "подниматься"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "risalire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17634",
+    "lang": "it",
     "lemma": "libreria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28386,13 +26695,12 @@ const WORDS_IT_B1 = [
       "zh": "书店",
       "ru": "книжный магазин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "librerie"
   },
   {
     "id": "it_17635",
+    "lang": "it",
     "lemma": "aggressivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28411,12 +26719,11 @@ const WORDS_IT_B1 = [
       "ja": "攻撃的な",
       "zh": "攻击性的",
       "ru": "агрессивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17636",
+    "lang": "it",
     "lemma": "aggressivo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28430,19 +26737,18 @@ const WORDS_IT_B1 = [
       "de": "der Aggressor",
       "es": "el agresor",
       "fr": "l'agresseur",
-      "it": "l'aggressivo",
+      "it": "l' l'aggressivo",
       "pt": "o agressor",
       "ja": "攻撃者",
       "zh": "侵略者",
       "ru": "агрессор"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "aggressivi"
   },
   {
     "id": "it_17639",
+    "lang": "it",
     "lemma": "legare",
     "pos": "Verb",
     "cefr": "B1",
@@ -28461,15 +26767,11 @@ const WORDS_IT_B1 = [
       "ja": "結ぶ",
       "zh": "捆绑",
       "ru": "связывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "legare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17640",
+    "lang": "it",
     "lemma": "manutenzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28489,13 +26791,12 @@ const WORDS_IT_B1 = [
       "zh": "维护",
       "ru": "обслуживание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "manutenzioni"
   },
   {
     "id": "it_17641",
+    "lang": "it",
     "lemma": "notturno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28514,12 +26815,11 @@ const WORDS_IT_B1 = [
       "ja": "夜の",
       "zh": "夜间的",
       "ru": "ночной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17643",
+    "lang": "it",
     "lemma": "armatura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28534,19 +26834,18 @@ const WORDS_IT_B1 = [
       "de": "die Rüstung",
       "es": "la armadura",
       "fr": "l'armure",
-      "it": "l'armatura",
+      "it": "l' l'armatura",
       "pt": "a armadura",
       "ja": "甲冑",
       "zh": "盔甲",
       "ru": "броня"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "armature"
   },
   {
     "id": "it_17644",
+    "lang": "it",
     "lemma": "agnello",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28561,19 +26860,18 @@ const WORDS_IT_B1 = [
       "de": "das Lamm",
       "es": "el cordero",
       "fr": "l'agneau",
-      "it": "l'agnello",
+      "it": "l' l'agnello",
       "pt": "o cordeiro",
       "ja": "子羊",
       "zh": "羔羊",
       "ru": "ягненок"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "agnelli"
   },
   {
     "id": "it_17645",
+    "lang": "it",
     "lemma": "bordello",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28593,13 +26891,12 @@ const WORDS_IT_B1 = [
       "zh": "妓院",
       "ru": "бордель"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "bordelli"
   },
   {
     "id": "it_17648",
+    "lang": "it",
     "lemma": "maggioranza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28620,13 +26917,12 @@ const WORDS_IT_B1 = [
       "zh": "多数",
       "ru": "большинство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maggioranze"
   },
   {
     "id": "it_17649",
+    "lang": "it",
     "lemma": "arteria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28640,19 +26936,18 @@ const WORDS_IT_B1 = [
       "de": "die Arterie",
       "es": "la arteria",
       "fr": "l'artère",
-      "it": "l'arteria",
+      "it": "l' l'arteria",
       "pt": "a artéria",
       "ja": "動脈",
       "zh": "动脉",
       "ru": "артерия"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "arterie"
   },
   {
     "id": "it_17650",
+    "lang": "it",
     "lemma": "brutale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28671,12 +26966,11 @@ const WORDS_IT_B1 = [
       "ja": "残酷な",
       "zh": "残酷的",
       "ru": "жестокий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17651",
+    "lang": "it",
     "lemma": "baracca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28696,13 +26990,12 @@ const WORDS_IT_B1 = [
       "zh": "棚屋",
       "ru": "лачуга"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "baracche"
   },
   {
     "id": "it_17652",
+    "lang": "it",
     "lemma": "chiacchierare",
     "pos": "Verb",
     "cefr": "B1",
@@ -28713,7 +27006,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "수다 떨다",
-      "en": "to chat",
+      "en": "chat",
       "de": "plaudern",
       "es": "charlar",
       "fr": "bavarder",
@@ -28722,15 +27015,11 @@ const WORDS_IT_B1 = [
       "ja": "おしゃべりする",
       "zh": "聊天",
       "ru": "болтать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "chiacchierare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17653",
+    "lang": "it",
     "lemma": "panna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28751,13 +27040,12 @@ const WORDS_IT_B1 = [
       "zh": "奶油",
       "ru": "сливки"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "panne"
   },
   {
     "id": "it_17654",
+    "lang": "it",
     "lemma": "anatra",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28772,19 +27060,18 @@ const WORDS_IT_B1 = [
       "de": "die Ente",
       "es": "el pato",
       "fr": "le canard",
-      "it": "l'anatra",
+      "it": "l' l'anatra",
       "pt": "o pato",
       "ja": "アヒル",
       "zh": "鸭子",
       "ru": "утка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "anatre"
   },
   {
     "id": "it_17655",
+    "lang": "it",
     "lemma": "orientale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28804,12 +27091,11 @@ const WORDS_IT_B1 = [
       "ja": "東洋の",
       "zh": "东方的",
       "ru": "восточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17660",
+    "lang": "it",
     "lemma": "rilevante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28829,12 +27115,11 @@ const WORDS_IT_B1 = [
       "ja": "関連のある",
       "zh": "相关的",
       "ru": "актуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17661",
+    "lang": "it",
     "lemma": "tossico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28853,12 +27138,11 @@ const WORDS_IT_B1 = [
       "ja": "有毒な",
       "zh": "有毒的",
       "ru": "токсичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17662",
+    "lang": "it",
     "lemma": "tossico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28878,13 +27162,12 @@ const WORDS_IT_B1 = [
       "zh": "吸毒者",
       "ru": "наркоман"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tossici"
   },
   {
     "id": "it_17663",
+    "lang": "it",
     "lemma": "escluso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -28904,12 +27187,11 @@ const WORDS_IT_B1 = [
       "ja": "除外された",
       "zh": "被排除的",
       "ru": "исключенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17665",
+    "lang": "it",
     "lemma": "udito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28923,19 +27205,18 @@ const WORDS_IT_B1 = [
       "de": "das Gehör",
       "es": "el oído",
       "fr": "l'ouïe",
-      "it": "l'udito",
+      "it": "l' l'udito",
       "pt": "a audição",
       "ja": "聴覚",
       "zh": "听觉",
       "ru": "слух"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "uditi"
   },
   {
     "id": "it_17666",
+    "lang": "it",
     "lemma": "pranzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -28946,7 +27227,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "점심 식사하다",
-      "en": "to have lunch",
+      "en": "have lunch",
       "de": "zu Mittag essen",
       "es": "almorzar",
       "fr": "déjeuner",
@@ -28955,15 +27236,11 @@ const WORDS_IT_B1 = [
       "ja": "昼食をとる",
       "zh": "吃午饭",
       "ru": "обедать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pranzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17667",
+    "lang": "it",
     "lemma": "sballo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -28983,13 +27260,12 @@ const WORDS_IT_B1 = [
       "zh": "兴奋",
       "ru": "кайф"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "sballi"
   },
   {
     "id": "it_17668",
+    "lang": "it",
     "lemma": "artificio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29003,19 +27279,18 @@ const WORDS_IT_B1 = [
       "de": "der Kunstgriff",
       "es": "el artificio",
       "fr": "l'artifice",
-      "it": "l'artificio",
+      "it": "l' l'artificio",
       "pt": "o artifício",
       "ja": "策略",
       "zh": "诡计",
       "ru": "уловка"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "artifici"
   },
   {
     "id": "it_17669",
+    "lang": "it",
     "lemma": "clacson",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29036,13 +27311,11 @@ const WORDS_IT_B1 = [
       "zh": "喇叭",
       "ru": "клаксон"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17670",
+    "lang": "it",
     "lemma": "clima",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29063,13 +27336,12 @@ const WORDS_IT_B1 = [
       "zh": "气候",
       "ru": "климат"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "climi"
   },
   {
     "id": "it_17673",
+    "lang": "it",
     "lemma": "fastidioso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29089,12 +27361,11 @@ const WORDS_IT_B1 = [
       "ja": "面倒な",
       "zh": "烦人的",
       "ru": "надоедливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17677",
+    "lang": "it",
     "lemma": "parcheggiato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29113,12 +27384,11 @@ const WORDS_IT_B1 = [
       "ja": "駐車された",
       "zh": "停放的",
       "ru": "припаркованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17678",
+    "lang": "it",
     "lemma": "rispettato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29137,12 +27407,11 @@ const WORDS_IT_B1 = [
       "ja": "尊敬される",
       "zh": "受尊敬的",
       "ru": "уважаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17679",
+    "lang": "it",
     "lemma": "assicurare",
     "pos": "Verb",
     "cefr": "B1",
@@ -29162,15 +27431,11 @@ const WORDS_IT_B1 = [
       "ja": "保証する",
       "zh": "保证",
       "ru": "обеспечивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assicurare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17680",
+    "lang": "it",
     "lemma": "delegato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29189,12 +27454,11 @@ const WORDS_IT_B1 = [
       "ja": "委任された",
       "zh": "委派的",
       "ru": "делегированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17681",
+    "lang": "it",
     "lemma": "psichiatrico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29213,12 +27477,11 @@ const WORDS_IT_B1 = [
       "ja": "精神科の",
       "zh": "精神病的",
       "ru": "психиатрический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17683",
+    "lang": "it",
     "lemma": "spiritoso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29237,12 +27500,11 @@ const WORDS_IT_B1 = [
       "ja": "機知に富んだ",
       "zh": "风趣的",
       "ru": "остроумный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17684",
+    "lang": "it",
     "lemma": "spiritoso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29262,13 +27524,12 @@ const WORDS_IT_B1 = [
       "zh": "风趣的人",
       "ru": "остроумный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "spiritosi"
   },
   {
     "id": "it_17685",
+    "lang": "it",
     "lemma": "deputato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29288,13 +27549,12 @@ const WORDS_IT_B1 = [
       "zh": "代表",
       "ru": "депутат"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "deputati"
   },
   {
     "id": "it_17688",
+    "lang": "it",
     "lemma": "comprensibile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29313,12 +27573,11 @@ const WORDS_IT_B1 = [
       "ja": "理解できる",
       "zh": "可理解的",
       "ru": "понятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17689",
+    "lang": "it",
     "lemma": "trofeo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29338,13 +27597,12 @@ const WORDS_IT_B1 = [
       "zh": "奖杯",
       "ru": "трофей"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "trofei"
   },
   {
     "id": "it_17690",
+    "lang": "it",
     "lemma": "meritato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29363,12 +27621,11 @@ const WORDS_IT_B1 = [
       "ja": "当然の",
       "zh": "应得的",
       "ru": "заслуженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17691",
+    "lang": "it",
     "lemma": "privo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29387,12 +27644,11 @@ const WORDS_IT_B1 = [
       "ja": "欠いている",
       "zh": "缺乏的",
       "ru": "лишенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17692",
+    "lang": "it",
     "lemma": "architetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29406,19 +27662,18 @@ const WORDS_IT_B1 = [
       "de": "der Architekt",
       "es": "el arquitecto",
       "fr": "l'architecte",
-      "it": "l'architetto",
+      "it": "l' l'architetto",
       "pt": "o arquiteto",
       "ja": "建築家",
       "zh": "建筑师",
       "ru": "архитектор"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "architetti"
   },
   {
     "id": "it_17693",
+    "lang": "it",
     "lemma": "fidato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29437,12 +27692,11 @@ const WORDS_IT_B1 = [
       "ja": "信頼できる",
       "zh": "可信赖的",
       "ru": "надежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17696",
+    "lang": "it",
     "lemma": "deprimente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29461,12 +27715,11 @@ const WORDS_IT_B1 = [
       "ja": "憂鬱な",
       "zh": "令人沮丧的",
       "ru": "удручающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17697",
+    "lang": "it",
     "lemma": "rimorso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29486,13 +27739,12 @@ const WORDS_IT_B1 = [
       "zh": "悔恨",
       "ru": "раскаяние"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "rimorsi"
   },
   {
     "id": "it_17698",
+    "lang": "it",
     "lemma": "celeste",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29511,12 +27763,11 @@ const WORDS_IT_B1 = [
       "ja": "空色の",
       "zh": "天蓝色的",
       "ru": "небесный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17699",
+    "lang": "it",
     "lemma": "celeste",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29536,13 +27787,12 @@ const WORDS_IT_B1 = [
       "zh": "天蓝色",
       "ru": "небесно-голубой цвет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "celesti"
   },
   {
     "id": "it_17701",
+    "lang": "it",
     "lemma": "suicida",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29561,12 +27811,11 @@ const WORDS_IT_B1 = [
       "ja": "自殺の",
       "zh": "自杀的",
       "ru": "суицидальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17702",
+    "lang": "it",
     "lemma": "telegramma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29586,13 +27835,12 @@ const WORDS_IT_B1 = [
       "zh": "电报",
       "ru": "телеграмма"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "telegrammi"
   },
   {
     "id": "it_17703",
+    "lang": "it",
     "lemma": "chilometro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -29613,13 +27861,12 @@ const WORDS_IT_B1 = [
       "zh": "公里",
       "ru": "километр"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "chilometri"
   },
   {
     "id": "it_17704",
+    "lang": "it",
     "lemma": "educato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29639,14 +27886,14 @@ const WORDS_IT_B1 = [
       "ja": "礼儀正しい",
       "zh": "有礼貌的",
       "ru": "вежливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17705",
+    "lang": "it",
     "lemma": "profondità",
     "pos": "Nomen",
+    "article": "la",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29658,22 +27905,20 @@ const WORDS_IT_B1 = [
       "en": "depth",
       "de": "die Tiefe",
       "es": "la profundidad",
-      "fr": "profondeur",
+      "fr": "la profondeur",
       "it": "la profondità",
       "pt": "a profundidade",
       "ja": "深さ",
       "zh": "深度",
       "ru": "глубина"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    }
   },
   {
     "id": "it_17706",
+    "lang": "it",
     "lemma": "muffin",
     "pos": "Nomen",
+    "article": "il",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29684,20 +27929,17 @@ const WORDS_IT_B1 = [
       "en": "muffin",
       "de": "der Muffin",
       "es": "el muffin",
-      "fr": "muffin",
+      "fr": "le muffin",
       "it": "il muffin",
       "pt": "o muffin",
       "ja": "マフィン",
       "zh": "松饼",
       "ru": "маффин"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    }
   },
   {
     "id": "it_17707",
+    "lang": "it",
     "lemma": "assaggiare",
     "pos": "Verb",
     "cefr": "B1",
@@ -29707,7 +27949,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "맛보다",
-      "en": "to taste",
+      "en": "taste",
       "de": "probieren",
       "es": "probar",
       "fr": "goûter",
@@ -29716,15 +27958,11 @@ const WORDS_IT_B1 = [
       "ja": "味わう",
       "zh": "品尝",
       "ru": "пробовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "assaggiare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17708",
+    "lang": "it",
     "lemma": "ipocrita",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29743,14 +27981,15 @@ const WORDS_IT_B1 = [
       "ja": "偽善的な",
       "zh": "虚伪的",
       "ru": "лицемерный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17710",
+    "lang": "it",
     "lemma": "difetto",
     "pos": "Nomen",
+    "article": "il",
+    "plural": "difetti",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29761,20 +28000,17 @@ const WORDS_IT_B1 = [
       "en": "defect",
       "de": "der Fehler",
       "es": "el defecto",
-      "fr": "défaut",
+      "fr": "le défaut",
       "it": "il difetto",
       "pt": "o defeito",
       "ja": "欠点",
       "zh": "缺点",
       "ru": "дефект"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "difetti"
+    }
   },
   {
     "id": "it_17711",
+    "lang": "it",
     "lemma": "contabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29793,14 +28029,14 @@ const WORDS_IT_B1 = [
       "ja": "数えられる",
       "zh": "可数的",
       "ru": "счетный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17712",
+    "lang": "it",
     "lemma": "yogurt",
     "pos": "Nomen",
+    "article": "lo",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29811,20 +28047,17 @@ const WORDS_IT_B1 = [
       "en": "yogurt",
       "de": "der Joghurt",
       "es": "el yogur",
-      "fr": "yaourt",
+      "fr": "le yaourt",
       "it": "lo yogurt",
       "pt": "o iogurte",
       "ja": "ヨーグルト",
       "zh": "酸奶",
       "ru": "йогурт"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    }
   },
   {
     "id": "it_17713",
+    "lang": "it",
     "lemma": "lampo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29843,14 +28076,15 @@ const WORDS_IT_B1 = [
       "ja": "稲妻のような",
       "zh": "闪电般的",
       "ru": "молниеносный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17714",
+    "lang": "it",
     "lemma": "lampo",
     "pos": "Nomen",
+    "article": "il",
+    "plural": "lampi",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29862,20 +28096,17 @@ const WORDS_IT_B1 = [
       "en": "lightning",
       "de": "der Blitz",
       "es": "el relámpago",
-      "fr": "éclair",
+      "fr": "l'éclair",
       "it": "il lampo",
       "pt": "o relâmpago",
       "ja": "稲妻",
       "zh": "闪电",
       "ru": "молния"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "lampi"
+    }
   },
   {
     "id": "it_17715",
+    "lang": "it",
     "lemma": "furioso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -29894,14 +28125,15 @@ const WORDS_IT_B1 = [
       "ja": "激怒した",
       "zh": "狂怒的",
       "ru": "яростный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17716",
+    "lang": "it",
     "lemma": "aggressore",
     "pos": "Nomen",
+    "article": "l'",
+    "plural": "aggressori",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29912,22 +28144,21 @@ const WORDS_IT_B1 = [
       "en": "aggressor",
       "de": "der Angreifer",
       "es": "el agresor",
-      "fr": "agresseur",
-      "it": "l'aggressore",
+      "fr": "l'agresseur",
+      "it": "l' l'aggressore",
       "pt": "o agressor",
       "ja": "攻撃者",
       "zh": "侵略者",
       "ru": "агрессор"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": "aggressori"
+    }
   },
   {
     "id": "it_17718",
+    "lang": "it",
     "lemma": "grotta",
     "pos": "Nomen",
+    "article": "la",
+    "plural": "grotte",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29939,22 +28170,20 @@ const WORDS_IT_B1 = [
       "en": "cave",
       "de": "die Höhle",
       "es": "la cueva",
-      "fr": "grotte",
+      "fr": "la grotte",
       "it": "la grotta",
       "pt": "a gruta",
       "ja": "洞窟",
       "zh": "洞穴",
       "ru": "пещера"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "grotte"
+    }
   },
   {
     "id": "it_17719",
+    "lang": "it",
     "lemma": "tosse",
     "pos": "Nomen",
+    "article": "la",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29965,22 +28194,21 @@ const WORDS_IT_B1 = [
       "en": "cough",
       "de": "der Husten",
       "es": "la tos",
-      "fr": "toux",
+      "fr": "la toux",
       "it": "la tosse",
       "pt": "a tosse",
       "ja": "咳",
       "zh": "咳嗽",
       "ru": "кашель"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    }
   },
   {
     "id": "it_17720",
+    "lang": "it",
     "lemma": "sospensione",
     "pos": "Nomen",
+    "article": "la",
+    "plural": "sospensioni",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -29991,22 +28219,20 @@ const WORDS_IT_B1 = [
       "en": "suspension",
       "de": "die Aussetzung",
       "es": "la suspensión",
-      "fr": "suspension",
+      "fr": "la suspension",
       "it": "la sospensione",
       "pt": "a suspensão",
       "ja": "中断",
       "zh": "暂停",
       "ru": "приостановка"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "sospensioni"
+    }
   },
   {
     "id": "it_17721",
+    "lang": "it",
     "lemma": "pasqua",
     "pos": "Nomen",
+    "article": "la",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -30017,22 +28243,26 @@ const WORDS_IT_B1 = [
       "en": "Easter",
       "de": "Ostern",
       "es": "la Pascua",
-      "fr": "Pâques",
+      "fr": "les Pâques",
       "it": "la Pasqua",
       "pt": "a Páscoa",
       "ja": "復活祭",
       "zh": "复活节",
       "ru": "Пасха"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "de": true
+      }
+    }
   },
   {
     "id": "it_17722",
+    "lang": "it",
     "lemma": "rimedio",
     "pos": "Nomen",
+    "article": "il",
+    "plural": "rimedi",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -30043,22 +28273,21 @@ const WORDS_IT_B1 = [
       "en": "remedy",
       "de": "das Heilmittel",
       "es": "el remedio",
-      "fr": "remède",
+      "fr": "le remède",
       "it": "il rimedio",
       "pt": "o remédio",
       "ja": "治療法",
       "zh": "补救",
       "ru": "средство"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "rimedi"
+    }
   },
   {
     "id": "it_17723",
+    "lang": "it",
     "lemma": "midollo",
     "pos": "Nomen",
+    "article": "il",
+    "plural": "midolli",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -30069,22 +28298,21 @@ const WORDS_IT_B1 = [
       "en": "marrow",
       "de": "das Mark",
       "es": "la médula",
-      "fr": "moelle",
+      "fr": "la moelle",
       "it": "il midollo",
       "pt": "a medula",
       "ja": "骨髄",
       "zh": "骨髓",
       "ru": "костный мозг"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": "midolli"
+    }
   },
   {
     "id": "it_17724",
+    "lang": "it",
     "lemma": "setta",
     "pos": "Nomen",
+    "article": "la",
+    "plural": "sette",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -30095,20 +28323,17 @@ const WORDS_IT_B1 = [
       "en": "sect",
       "de": "die Sekte",
       "es": "la secta",
-      "fr": "secte",
+      "fr": "la secte",
       "it": "la setta",
       "pt": "a seita",
       "ja": "宗派",
       "zh": "宗派",
       "ru": "секта"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": "sette"
+    }
   },
   {
     "id": "it_17727",
+    "lang": "it",
     "lemma": "svegliare",
     "pos": "Verb",
     "cefr": "B1",
@@ -30118,7 +28343,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "깨우다",
-      "en": "to wake",
+      "en": "wake",
       "de": "wecken",
       "es": "despertar",
       "fr": "réveiller",
@@ -30127,15 +28352,11 @@ const WORDS_IT_B1 = [
       "ja": "目覚めさせる",
       "zh": "叫醒",
       "ru": "будить"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "svegliare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17731",
+    "lang": "it",
     "lemma": "allegro",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30154,14 +28375,14 @@ const WORDS_IT_B1 = [
       "ja": "陽気な",
       "zh": "快乐的",
       "ru": "веселый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17732",
+    "lang": "it",
     "lemma": "allegro",
     "pos": "Nomen",
+    "article": "l'",
     "cefr": "B1",
     "tags": [
       "exam",
@@ -30172,20 +28393,17 @@ const WORDS_IT_B1 = [
       "en": "allegro",
       "de": "das Allegro",
       "es": "el allegro",
-      "fr": "allegro",
-      "it": "l'allegro",
+      "fr": "l'allegro",
+      "it": "l' l'allegro",
       "pt": "o allegro",
       "ja": "アレグロ",
       "zh": "快板",
       "ru": "аллегро"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    }
   },
   {
     "id": "it_17733",
+    "lang": "it",
     "lemma": "irrilevante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30204,12 +28422,11 @@ const WORDS_IT_B1 = [
       "ja": "無関係な",
       "zh": "不相关的",
       "ru": "нерелевантный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17735",
+    "lang": "it",
     "lemma": "resi",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30229,13 +28446,11 @@ const WORDS_IT_B1 = [
       "zh": "恒河猴",
       "ru": "макак-резус"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17736",
+    "lang": "it",
     "lemma": "immortale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30254,12 +28469,11 @@ const WORDS_IT_B1 = [
       "ja": "不滅の",
       "zh": "不朽的",
       "ru": "бессмертный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17737",
+    "lang": "it",
     "lemma": "ricostruire",
     "pos": "Verb",
     "cefr": "B1",
@@ -30279,15 +28493,11 @@ const WORDS_IT_B1 = [
       "ja": "再建する",
       "zh": "重建",
       "ru": "восстанавливать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ricostruire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17738",
+    "lang": "it",
     "lemma": "sessione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30307,13 +28517,12 @@ const WORDS_IT_B1 = [
       "zh": "会议",
       "ru": "сессия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sessioni"
   },
   {
     "id": "it_17739",
+    "lang": "it",
     "lemma": "arrosto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30328,19 +28537,18 @@ const WORDS_IT_B1 = [
       "de": "der Braten",
       "es": "el asado",
       "fr": "le rôti",
-      "it": "l'arrosto",
+      "it": "l' l'arrosto",
       "pt": "o assado",
       "ja": "ロースト",
       "zh": "烤肉",
       "ru": "жаркое"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "arrosti"
   },
   {
     "id": "it_17740",
+    "lang": "it",
     "lemma": "dignità",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30360,13 +28568,11 @@ const WORDS_IT_B1 = [
       "zh": "尊严",
       "ru": "достоинство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17742",
+    "lang": "it",
     "lemma": "tribù",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30387,13 +28593,11 @@ const WORDS_IT_B1 = [
       "zh": "部落",
       "ru": "племя"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17743",
+    "lang": "it",
     "lemma": "lealtà",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30414,13 +28618,11 @@ const WORDS_IT_B1 = [
       "zh": "忠诚",
       "ru": "верность"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17744",
+    "lang": "it",
     "lemma": "azzurro",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30440,12 +28642,11 @@ const WORDS_IT_B1 = [
       "ja": "青い",
       "zh": "蓝色的",
       "ru": "синий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17745",
+    "lang": "it",
     "lemma": "azzurro",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30460,19 +28661,18 @@ const WORDS_IT_B1 = [
       "de": "das Blau",
       "es": "el azul",
       "fr": "le bleu",
-      "it": "l'azzurro",
+      "it": "l' l'azzurro",
       "pt": "o azul",
       "ja": "青",
       "zh": "蓝色",
       "ru": "синий"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "azzurri"
   },
   {
     "id": "it_17746",
+    "lang": "it",
     "lemma": "miserabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30492,12 +28692,11 @@ const WORDS_IT_B1 = [
       "ja": "惨めな",
       "zh": "悲惨的",
       "ru": "жалкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17747",
+    "lang": "it",
     "lemma": "neonato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30517,12 +28716,11 @@ const WORDS_IT_B1 = [
       "ja": "新生児の",
       "zh": "新生的",
       "ru": "новорожденный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17748",
+    "lang": "it",
     "lemma": "neonato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30543,13 +28741,12 @@ const WORDS_IT_B1 = [
       "zh": "新生儿",
       "ru": "новорожденный"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "neonati"
   },
   {
     "id": "it_17752",
+    "lang": "it",
     "lemma": "alt",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30564,19 +28761,17 @@ const WORDS_IT_B1 = [
       "de": "der Halt",
       "es": "el alto",
       "fr": "l'arrêt",
-      "it": "l'alt",
+      "it": "l' l'alt",
       "pt": "o alto",
       "ja": "停止",
       "zh": "停止",
       "ru": "стоп"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17753",
+    "lang": "it",
     "lemma": "capsula",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30597,13 +28792,12 @@ const WORDS_IT_B1 = [
       "zh": "胶囊",
       "ru": "капсула"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "capsule"
   },
   {
     "id": "it_17754",
+    "lang": "it",
     "lemma": "automatico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30623,12 +28817,11 @@ const WORDS_IT_B1 = [
       "ja": "自動の",
       "zh": "自动的",
       "ru": "автоматический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17756",
+    "lang": "it",
     "lemma": "psicologia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30648,13 +28841,12 @@ const WORDS_IT_B1 = [
       "zh": "心理学",
       "ru": "психология"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "psicologie"
   },
   {
     "id": "it_17757",
+    "lang": "it",
     "lemma": "pagherò",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30674,13 +28866,11 @@ const WORDS_IT_B1 = [
       "zh": "期票",
       "ru": "вексель"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17758",
+    "lang": "it",
     "lemma": "antidoto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30695,19 +28885,18 @@ const WORDS_IT_B1 = [
       "de": "das Gegenmittel",
       "es": "el antídoto",
       "fr": "l'antidote",
-      "it": "l'antidoto",
+      "it": "l' l'antidoto",
       "pt": "o antídoto",
       "ja": "解毒剤",
       "zh": "解毒剂",
       "ru": "противоядие"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "antidoti"
   },
   {
     "id": "it_17761",
+    "lang": "it",
     "lemma": "moderno",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30727,12 +28916,11 @@ const WORDS_IT_B1 = [
       "ja": "現代の",
       "zh": "现代的",
       "ru": "современный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17762",
+    "lang": "it",
     "lemma": "spaccio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30753,13 +28941,12 @@ const WORDS_IT_B1 = [
       "zh": "销售",
       "ru": "продажа"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "spacci"
   },
   {
     "id": "it_17763",
+    "lang": "it",
     "lemma": "marmellata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30780,13 +28967,12 @@ const WORDS_IT_B1 = [
       "zh": "果酱",
       "ru": "варенье"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "marmellate"
   },
   {
     "id": "it_17764",
+    "lang": "it",
     "lemma": "rispettabile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -30806,12 +28992,11 @@ const WORDS_IT_B1 = [
       "ja": "立派な",
       "zh": "值得尊敬的",
       "ru": "респектабельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17766",
+    "lang": "it",
     "lemma": "genetica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30831,13 +29016,12 @@ const WORDS_IT_B1 = [
       "zh": "遗传学",
       "ru": "генетика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "genetiche"
   },
   {
     "id": "it_17767",
+    "lang": "it",
     "lemma": "incastrare",
     "pos": "Verb",
     "cefr": "B1",
@@ -30856,15 +29040,11 @@ const WORDS_IT_B1 = [
       "ja": "はめ込む",
       "zh": "嵌入",
       "ru": "вставлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "incastrare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17768",
+    "lang": "it",
     "lemma": "beneficio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30885,13 +29065,12 @@ const WORDS_IT_B1 = [
       "zh": "利益",
       "ru": "выгода"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "benefici"
   },
   {
     "id": "it_17769",
+    "lang": "it",
     "lemma": "abbattere",
     "pos": "Verb",
     "cefr": "B1",
@@ -30910,15 +29089,11 @@ const WORDS_IT_B1 = [
       "ja": "打ち倒す",
       "zh": "击倒",
       "ru": "сбивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "abbattere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17770",
+    "lang": "it",
     "lemma": "fattore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30939,13 +29114,12 @@ const WORDS_IT_B1 = [
       "zh": "因素",
       "ru": "фактор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "fattori"
   },
   {
     "id": "it_17771",
+    "lang": "it",
     "lemma": "cross",
     "pos": "Nomen",
     "cefr": "B1",
@@ -30966,13 +29140,11 @@ const WORDS_IT_B1 = [
       "zh": "传中",
       "ru": "кросс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17772",
+    "lang": "it",
     "lemma": "promettere",
     "pos": "Verb",
     "cefr": "B1",
@@ -30992,15 +29164,11 @@ const WORDS_IT_B1 = [
       "ja": "約束する",
       "zh": "承诺",
       "ru": "обещать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "promettere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17773",
+    "lang": "it",
     "lemma": "preservativo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31019,12 +29187,11 @@ const WORDS_IT_B1 = [
       "ja": "保存する",
       "zh": "防腐的",
       "ru": "консервирующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17774",
+    "lang": "it",
     "lemma": "preservativo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31044,13 +29211,12 @@ const WORDS_IT_B1 = [
       "zh": "避孕套",
       "ru": "презерватив"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "preservativi"
   },
   {
     "id": "it_17775",
+    "lang": "it",
     "lemma": "esaurito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31069,12 +29235,11 @@ const WORDS_IT_B1 = [
       "ja": "売り切れの",
       "zh": "售罄的",
       "ru": "распроданный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17776",
+    "lang": "it",
     "lemma": "cantato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31094,13 +29259,12 @@ const WORDS_IT_B1 = [
       "zh": "演唱部分",
       "ru": "вокальная партия"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cantati"
   },
   {
     "id": "it_17777",
+    "lang": "it",
     "lemma": "lavato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31120,12 +29284,11 @@ const WORDS_IT_B1 = [
       "ja": "洗われた",
       "zh": "洗过的",
       "ru": "вымытый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17779",
+    "lang": "it",
     "lemma": "baia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31145,13 +29308,12 @@ const WORDS_IT_B1 = [
       "zh": "海湾",
       "ru": "бухта"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "baie"
   },
   {
     "id": "it_17780",
+    "lang": "it",
     "lemma": "aggiornamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31166,19 +29328,18 @@ const WORDS_IT_B1 = [
       "de": "die Aktualisierung",
       "es": "la actualización",
       "fr": "la mise à jour",
-      "it": "l'aggiornamento",
+      "it": "l' l'aggiornamento",
       "pt": "a atualização",
       "ja": "更新",
       "zh": "更新",
       "ru": "обновление"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "aggiornamenti"
   },
   {
     "id": "it_17782",
+    "lang": "it",
     "lemma": "diciotto",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31197,12 +29358,11 @@ const WORDS_IT_B1 = [
       "ja": "18",
       "zh": "十八",
       "ru": "восемнадцать"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17783",
+    "lang": "it",
     "lemma": "unire",
     "pos": "Verb",
     "cefr": "B1",
@@ -31222,15 +29382,11 @@ const WORDS_IT_B1 = [
       "ja": "結合する",
       "zh": "联合",
       "ru": "объединять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "unire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17784",
+    "lang": "it",
     "lemma": "evacuare",
     "pos": "Verb",
     "cefr": "B1",
@@ -31250,15 +29406,11 @@ const WORDS_IT_B1 = [
       "ja": "避難させる",
       "zh": "疏散",
       "ru": "эвакуировать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "evacuare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17785",
+    "lang": "it",
     "lemma": "bridge",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31278,13 +29430,11 @@ const WORDS_IT_B1 = [
       "zh": "桥段",
       "ru": "бридж"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17788",
+    "lang": "it",
     "lemma": "separazione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31305,13 +29455,12 @@ const WORDS_IT_B1 = [
       "zh": "分离",
       "ru": "разделение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "separazioni"
   },
   {
     "id": "it_17789",
+    "lang": "it",
     "lemma": "splendore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31331,13 +29480,12 @@ const WORDS_IT_B1 = [
       "zh": "光辉",
       "ru": "великолепие"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "splendori"
   },
   {
     "id": "it_17790",
+    "lang": "it",
     "lemma": "pony",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31357,13 +29505,11 @@ const WORDS_IT_B1 = [
       "zh": "小马",
       "ru": "пони"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17791",
+    "lang": "it",
     "lemma": "cappella",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31383,13 +29529,12 @@ const WORDS_IT_B1 = [
       "zh": "小教堂",
       "ru": "часовня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cappelle"
   },
   {
     "id": "it_17792",
+    "lang": "it",
     "lemma": "turbato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31408,12 +29553,11 @@ const WORDS_IT_B1 = [
       "ja": "動揺した",
       "zh": "烦恼的",
       "ru": "встревоженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17793",
+    "lang": "it",
     "lemma": "riflesso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31432,12 +29576,11 @@ const WORDS_IT_B1 = [
       "ja": "反射された",
       "zh": "反射的",
       "ru": "отражённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17794",
+    "lang": "it",
     "lemma": "riflesso",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31457,13 +29600,12 @@ const WORDS_IT_B1 = [
       "zh": "反射",
       "ru": "отражение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "riflessi"
   },
   {
     "id": "it_17795",
+    "lang": "it",
     "lemma": "aggiornato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31483,12 +29625,11 @@ const WORDS_IT_B1 = [
       "ja": "更新された",
       "zh": "更新的",
       "ru": "обновлённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17796",
+    "lang": "it",
     "lemma": "stringere",
     "pos": "Verb",
     "cefr": "B1",
@@ -31507,15 +29648,11 @@ const WORDS_IT_B1 = [
       "ja": "締める",
       "zh": "拧紧",
       "ru": "затягивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stringere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17797",
+    "lang": "it",
     "lemma": "dichiarare",
     "pos": "Verb",
     "cefr": "B1",
@@ -31535,15 +29672,11 @@ const WORDS_IT_B1 = [
       "ja": "宣言する",
       "zh": "声明",
       "ru": "объявлять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dichiarare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17798",
+    "lang": "it",
     "lemma": "regolamento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31563,13 +29696,12 @@ const WORDS_IT_B1 = [
       "zh": "规章",
       "ru": "регламент"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "regolamenti"
   },
   {
     "id": "it_17799",
+    "lang": "it",
     "lemma": "bacino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31589,13 +29721,12 @@ const WORDS_IT_B1 = [
       "zh": "盆",
       "ru": "таз"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "bacini"
   },
   {
     "id": "it_17800",
+    "lang": "it",
     "lemma": "fatale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31614,12 +29745,11 @@ const WORDS_IT_B1 = [
       "ja": "致命的な",
       "zh": "致命的",
       "ru": "фатальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17801",
+    "lang": "it",
     "lemma": "sfondo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31639,13 +29769,12 @@ const WORDS_IT_B1 = [
       "zh": "背景",
       "ru": "фон"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sfondi"
   },
   {
     "id": "it_17802",
+    "lang": "it",
     "lemma": "marcio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31664,12 +29793,11 @@ const WORDS_IT_B1 = [
       "ja": "腐った",
       "zh": "腐烂的",
       "ru": "гнилой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17803",
+    "lang": "it",
     "lemma": "marcio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31689,13 +29817,11 @@ const WORDS_IT_B1 = [
       "zh": "腐烂",
       "ru": "гниль"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17804",
+    "lang": "it",
     "lemma": "comico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31714,12 +29840,11 @@ const WORDS_IT_B1 = [
       "ja": "喜劇的な",
       "zh": "滑稽的",
       "ru": "комический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17805",
+    "lang": "it",
     "lemma": "comico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31739,13 +29864,12 @@ const WORDS_IT_B1 = [
       "zh": "喜剧演员",
       "ru": "комик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "comici"
   },
   {
     "id": "it_17806",
+    "lang": "it",
     "lemma": "insignificante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31764,12 +29888,11 @@ const WORDS_IT_B1 = [
       "ja": "些細な",
       "zh": "微不足道的",
       "ru": "незначительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17807",
+    "lang": "it",
     "lemma": "aziendale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31788,12 +29911,11 @@ const WORDS_IT_B1 = [
       "ja": "企業の",
       "zh": "公司的",
       "ru": "корпоративный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17810",
+    "lang": "it",
     "lemma": "straccio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31813,13 +29935,12 @@ const WORDS_IT_B1 = [
       "zh": "抹布",
       "ru": "тряпка"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "stracci"
   },
   {
     "id": "it_17811",
+    "lang": "it",
     "lemma": "caricare",
     "pos": "Verb",
     "cefr": "B1",
@@ -31838,15 +29959,11 @@ const WORDS_IT_B1 = [
       "ja": "ロードする",
       "zh": "加载",
       "ru": "загружать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "caricare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17812",
+    "lang": "it",
     "lemma": "seminario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31866,13 +29983,12 @@ const WORDS_IT_B1 = [
       "zh": "神学院",
       "ru": "семинария"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "seminari"
   },
   {
     "id": "it_17813",
+    "lang": "it",
     "lemma": "casuale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -31891,12 +30007,11 @@ const WORDS_IT_B1 = [
       "ja": "偶然の",
       "zh": "偶然的",
       "ru": "случайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17814",
+    "lang": "it",
     "lemma": "sapersi",
     "pos": "Verb",
     "cefr": "B1",
@@ -31915,15 +30030,11 @@ const WORDS_IT_B1 = [
       "ja": "自分を知る",
       "zh": "了解自己",
       "ru": "знать себя"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sapersi",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "it_17815",
+    "lang": "it",
     "lemma": "contributo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31943,13 +30054,12 @@ const WORDS_IT_B1 = [
       "zh": "贡献",
       "ru": "вклад"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "contributi"
   },
   {
     "id": "it_17817",
+    "lang": "it",
     "lemma": "sella",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31969,13 +30079,12 @@ const WORDS_IT_B1 = [
       "zh": "马鞍",
       "ru": "седло"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "selle"
   },
   {
     "id": "it_17818",
+    "lang": "it",
     "lemma": "zecca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -31995,13 +30104,12 @@ const WORDS_IT_B1 = [
       "zh": "造币厂",
       "ru": "монетный двор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "zecche"
   },
   {
     "id": "it_17819",
+    "lang": "it",
     "lemma": "galla",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32021,13 +30129,12 @@ const WORDS_IT_B1 = [
       "zh": "水泡",
       "ru": "волдырь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "galle"
   },
   {
     "id": "it_17820",
+    "lang": "it",
     "lemma": "autentico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32047,12 +30154,11 @@ const WORDS_IT_B1 = [
       "ja": "本物の",
       "zh": "真实的",
       "ru": "подлинный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17823",
+    "lang": "it",
     "lemma": "interruttore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32066,19 +30172,18 @@ const WORDS_IT_B1 = [
       "de": "der Schalter",
       "es": "el interruptor",
       "fr": "l'interrupteur",
-      "it": "l'interruttore",
+      "it": "l' l'interruttore",
       "pt": "o interruptor",
       "ja": "スイッチ",
       "zh": "开关",
       "ru": "выключатель"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "interruttori"
   },
   {
     "id": "it_17824",
+    "lang": "it",
     "lemma": "specialista",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32097,12 +30202,11 @@ const WORDS_IT_B1 = [
       "ja": "専門の",
       "zh": "专业的",
       "ru": "специалист"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17827",
+    "lang": "it",
     "lemma": "divertire",
     "pos": "Verb",
     "cefr": "B1",
@@ -32121,15 +30225,11 @@ const WORDS_IT_B1 = [
       "ja": "楽しませる",
       "zh": "使愉快",
       "ru": "развлекать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "divertire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17829",
+    "lang": "it",
     "lemma": "cardinale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32148,12 +30248,11 @@ const WORDS_IT_B1 = [
       "ja": "主要な",
       "zh": "主要的",
       "ru": "кардинальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17831",
+    "lang": "it",
     "lemma": "officina",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32167,19 +30266,18 @@ const WORDS_IT_B1 = [
       "de": "die Werkstatt",
       "es": "el taller",
       "fr": "l'atelier",
-      "it": "l'officina",
+      "it": "l' l'officina",
       "pt": "a oficina",
       "ja": "作業場",
       "zh": "车间",
       "ru": "мастерская"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "officine"
   },
   {
     "id": "it_17832",
+    "lang": "it",
     "lemma": "municipio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32200,13 +30298,12 @@ const WORDS_IT_B1 = [
       "zh": "市政厅",
       "ru": "мэрия"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "municipi"
   },
   {
     "id": "it_17836",
+    "lang": "it",
     "lemma": "allontanare",
     "pos": "Verb",
     "cefr": "B1",
@@ -32225,15 +30322,11 @@ const WORDS_IT_B1 = [
       "ja": "遠ざける",
       "zh": "移开",
       "ru": "отдалять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "allontanare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17838",
+    "lang": "it",
     "lemma": "vapore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32253,13 +30346,12 @@ const WORDS_IT_B1 = [
       "zh": "蒸汽",
       "ru": "пар"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "vapori"
   },
   {
     "id": "it_17839",
+    "lang": "it",
     "lemma": "curvatura",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32279,13 +30371,12 @@ const WORDS_IT_B1 = [
       "zh": "弯曲",
       "ru": "кривизна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "curvature"
   },
   {
     "id": "it_17841",
+    "lang": "it",
     "lemma": "irritante",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32304,12 +30395,11 @@ const WORDS_IT_B1 = [
       "ja": "刺激性の",
       "zh": "刺激性的",
       "ru": "раздражающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17842",
+    "lang": "it",
     "lemma": "puzzle",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32329,13 +30419,11 @@ const WORDS_IT_B1 = [
       "zh": "拼图",
       "ru": "головоломка"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17843",
+    "lang": "it",
     "lemma": "difensore",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32354,12 +30442,11 @@ const WORDS_IT_B1 = [
       "ja": "防御する",
       "zh": "防御的",
       "ru": "защищающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17845",
+    "lang": "it",
     "lemma": "cucchiaio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32380,13 +30467,12 @@ const WORDS_IT_B1 = [
       "zh": "勺子",
       "ru": "ложка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "cucchiai"
   },
   {
     "id": "it_17846",
+    "lang": "it",
     "lemma": "parrucca",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32406,13 +30492,12 @@ const WORDS_IT_B1 = [
       "zh": "假发",
       "ru": "парик"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "parrucche"
   },
   {
     "id": "it_17847",
+    "lang": "it",
     "lemma": "romano",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32432,12 +30517,11 @@ const WORDS_IT_B1 = [
       "ja": "ローマの",
       "zh": "罗马的",
       "ru": "римский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17848",
+    "lang": "it",
     "lemma": "romano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32458,13 +30542,12 @@ const WORDS_IT_B1 = [
       "zh": "罗马人",
       "ru": "римлянин"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "romani"
   },
   {
     "id": "it_17849",
+    "lang": "it",
     "lemma": "gamma",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32484,13 +30567,11 @@ const WORDS_IT_B1 = [
       "zh": "音阶",
       "ru": "гамма"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17850",
+    "lang": "it",
     "lemma": "patrimonio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32511,13 +30592,12 @@ const WORDS_IT_B1 = [
       "zh": "遗产",
       "ru": "наследие"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "patrimoni"
   },
   {
     "id": "it_17852",
+    "lang": "it",
     "lemma": "capitare",
     "pos": "Verb",
     "cefr": "B1",
@@ -32537,15 +30617,11 @@ const WORDS_IT_B1 = [
       "ja": "起こる",
       "zh": "发生",
       "ru": "случаться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "capitare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17853",
+    "lang": "it",
     "lemma": "frigorifero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32564,12 +30640,11 @@ const WORDS_IT_B1 = [
       "ja": "冷蔵の",
       "zh": "冷藏的",
       "ru": "холодильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17855",
+    "lang": "it",
     "lemma": "vicinato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32590,13 +30665,12 @@ const WORDS_IT_B1 = [
       "zh": "邻里",
       "ru": "соседство"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "vicinati"
   },
   {
     "id": "it_17856",
+    "lang": "it",
     "lemma": "veterinario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32615,12 +30689,11 @@ const WORDS_IT_B1 = [
       "ja": "獣医の",
       "zh": "兽医的",
       "ru": "ветеринарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17857",
+    "lang": "it",
     "lemma": "veterinario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32641,13 +30714,12 @@ const WORDS_IT_B1 = [
       "zh": "兽医",
       "ru": "ветеринар"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "veterinari"
   },
   {
     "id": "it_17862",
+    "lang": "it",
     "lemma": "annuale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32666,12 +30738,11 @@ const WORDS_IT_B1 = [
       "ja": "年間の",
       "zh": "每年的",
       "ru": "ежегодный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17863",
+    "lang": "it",
     "lemma": "annuale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32685,19 +30756,18 @@ const WORDS_IT_B1 = [
       "de": "das Jubiläum",
       "es": "el aniversario",
       "fr": "l'anniversaire",
-      "it": "l'annuale",
+      "it": "l' l'annuale",
       "pt": "o aniversário",
       "ja": "記念日",
       "zh": "周年纪念",
       "ru": "годовщина"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "annuali"
   },
   {
     "id": "it_17864",
+    "lang": "it",
     "lemma": "ratto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32717,13 +30787,12 @@ const WORDS_IT_B1 = [
       "zh": "绑架",
       "ru": "похищение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "ratti"
   },
   {
     "id": "it_17865",
+    "lang": "it",
     "lemma": "check",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32743,13 +30812,11 @@ const WORDS_IT_B1 = [
       "zh": "支票",
       "ru": "чек"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17867",
+    "lang": "it",
     "lemma": "staccare",
     "pos": "Verb",
     "cefr": "B1",
@@ -32768,15 +30835,11 @@ const WORDS_IT_B1 = [
       "ja": "剥がす",
       "zh": "撕下",
       "ru": "отрывать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "staccare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17868",
+    "lang": "it",
     "lemma": "duecento",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32795,12 +30858,11 @@ const WORDS_IT_B1 = [
       "ja": "二百の",
       "zh": "两百的",
       "ru": "двести"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17869",
+    "lang": "it",
     "lemma": "duecento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32820,13 +30882,11 @@ const WORDS_IT_B1 = [
       "zh": "13世纪",
       "ru": "13 век"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17870",
+    "lang": "it",
     "lemma": "suora",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32846,13 +30906,12 @@ const WORDS_IT_B1 = [
       "zh": "修女",
       "ru": "монахиня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "suore"
   },
   {
     "id": "it_17871",
+    "lang": "it",
     "lemma": "orlo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32866,19 +30925,18 @@ const WORDS_IT_B1 = [
       "de": "der Saum",
       "es": "el dobladillo",
       "fr": "l'ourlet",
-      "it": "l'orlo",
+      "it": "l' l'orlo",
       "pt": "a bainha",
       "ja": "裾",
       "zh": "褶边",
       "ru": "подол"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orli"
   },
   {
     "id": "it_17872",
+    "lang": "it",
     "lemma": "aborto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32892,19 +30950,18 @@ const WORDS_IT_B1 = [
       "de": "die Abtreibung",
       "es": "el aborto",
       "fr": "l'avortement",
-      "it": "l'aborto",
+      "it": "l' l'aborto",
       "pt": "o aborto",
       "ja": "堕胎",
       "zh": "堕胎",
       "ru": "аборт"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "aborti"
   },
   {
     "id": "it_17874",
+    "lang": "it",
     "lemma": "arancione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32918,19 +30975,17 @@ const WORDS_IT_B1 = [
       "de": "das Orange",
       "es": "el naranja",
       "fr": "l'orange",
-      "it": "l'arancione",
+      "it": "l' l'arancione",
       "pt": "o laranja",
       "ja": "オレンジ色",
       "zh": "橙色",
       "ru": "оранжевый"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17875",
+    "lang": "it",
     "lemma": "rio",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -32949,12 +31004,11 @@ const WORDS_IT_B1 = [
       "ja": "邪悪な",
       "zh": "邪恶的",
       "ru": "злой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17876",
+    "lang": "it",
     "lemma": "rio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -32974,13 +31028,12 @@ const WORDS_IT_B1 = [
       "zh": "运河",
       "ru": "канал"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "rii"
   },
   {
     "id": "it_17877",
+    "lang": "it",
     "lemma": "rana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33000,13 +31053,12 @@ const WORDS_IT_B1 = [
       "zh": "青蛙",
       "ru": "лягушка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rane"
   },
   {
     "id": "it_17878",
+    "lang": "it",
     "lemma": "complotto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33026,13 +31078,12 @@ const WORDS_IT_B1 = [
       "zh": "阴谋",
       "ru": "заговор"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "complotti"
   },
   {
     "id": "it_17879",
+    "lang": "it",
     "lemma": "infernale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33051,12 +31102,11 @@ const WORDS_IT_B1 = [
       "ja": "地獄の",
       "zh": "地狱的",
       "ru": "адский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17880",
+    "lang": "it",
     "lemma": "autografo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33076,12 +31126,11 @@ const WORDS_IT_B1 = [
       "ja": "自筆の",
       "zh": "亲笔的",
       "ru": "рукописный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17881",
+    "lang": "it",
     "lemma": "autografo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33096,19 +31145,17 @@ const WORDS_IT_B1 = [
       "de": "das Autogramm",
       "es": "el autógrafo",
       "fr": "l'autographe",
-      "it": "l'autografo",
+      "it": "l' l'autografo",
       "pt": "o autógrafo",
       "ja": "サイン",
       "zh": "签名",
       "ru": "автограф"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17884",
+    "lang": "it",
     "lemma": "spray",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33127,12 +31174,11 @@ const WORDS_IT_B1 = [
       "ja": "スプレー式の",
       "zh": "喷雾的",
       "ru": "аэрозольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17885",
+    "lang": "it",
     "lemma": "tragico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33151,12 +31197,11 @@ const WORDS_IT_B1 = [
       "ja": "悲劇的な",
       "zh": "悲剧的",
       "ru": "трагический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17886",
+    "lang": "it",
     "lemma": "tragico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33176,13 +31221,12 @@ const WORDS_IT_B1 = [
       "zh": "悲剧作家",
       "ru": "трагик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "tragici"
   },
   {
     "id": "it_17887",
+    "lang": "it",
     "lemma": "ispezione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33197,19 +31241,18 @@ const WORDS_IT_B1 = [
       "de": "die Inspektion",
       "es": "la inspección",
       "fr": "l'inspection",
-      "it": "l'ispezione",
+      "it": "l' l'ispezione",
       "pt": "a inspeção",
       "ja": "検査",
       "zh": "检查",
       "ru": "инспекция"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "ispezioni"
   },
   {
     "id": "it_17888",
+    "lang": "it",
     "lemma": "imminente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33228,12 +31271,11 @@ const WORDS_IT_B1 = [
       "ja": "差し迫った",
       "zh": "迫近的",
       "ru": "надвигающийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17889",
+    "lang": "it",
     "lemma": "nazista",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33252,12 +31294,11 @@ const WORDS_IT_B1 = [
       "ja": "ナチの",
       "zh": "纳粹的",
       "ru": "нацистский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17890",
+    "lang": "it",
     "lemma": "grido",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33278,13 +31319,12 @@ const WORDS_IT_B1 = [
       "zh": "叫喊",
       "ru": "крик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "grida"
   },
   {
     "id": "it_17893",
+    "lang": "it",
     "lemma": "nano",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33304,13 +31344,12 @@ const WORDS_IT_B1 = [
       "zh": "矮人",
       "ru": "карлик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "nani"
   },
   {
     "id": "it_17894",
+    "lang": "it",
     "lemma": "banale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33330,12 +31369,11 @@ const WORDS_IT_B1 = [
       "ja": "陳腐な",
       "zh": "平庸的",
       "ru": "банальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17897",
+    "lang": "it",
     "lemma": "sacrificare",
     "pos": "Verb",
     "cefr": "B1",
@@ -33354,15 +31392,11 @@ const WORDS_IT_B1 = [
       "ja": "犠牲にする",
       "zh": "牺牲",
       "ru": "жертвовать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sacrificare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17898",
+    "lang": "it",
     "lemma": "industriale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33381,12 +31415,11 @@ const WORDS_IT_B1 = [
       "ja": "産業の",
       "zh": "工业的",
       "ru": "промышленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17899",
+    "lang": "it",
     "lemma": "industriale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33400,19 +31433,18 @@ const WORDS_IT_B1 = [
       "de": "der Industrielle",
       "es": "el industrial",
       "fr": "l'industriel",
-      "it": "l'industriale",
+      "it": "l' l'industriale",
       "pt": "o industrial",
       "ja": "実業家",
       "zh": "实业家",
       "ru": "промышленник"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "industriali"
   },
   {
     "id": "it_17900",
+    "lang": "it",
     "lemma": "quattordici",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33431,12 +31463,11 @@ const WORDS_IT_B1 = [
       "ja": "14",
       "zh": "十四",
       "ru": "четырнадцать"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17901",
+    "lang": "it",
     "lemma": "streaming",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33456,13 +31487,11 @@ const WORDS_IT_B1 = [
       "zh": "学生分流",
       "ru": "разделение студентов"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17902",
+    "lang": "it",
     "lemma": "bandito",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33481,12 +31510,11 @@ const WORDS_IT_B1 = [
       "ja": "禁止された",
       "zh": "被禁止的",
       "ru": "запрещенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17903",
+    "lang": "it",
     "lemma": "bandito",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33506,13 +31534,12 @@ const WORDS_IT_B1 = [
       "zh": "强盗",
       "ru": "бандит"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "banditi"
   },
   {
     "id": "it_17904",
+    "lang": "it",
     "lemma": "anomalia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33527,19 +31554,18 @@ const WORDS_IT_B1 = [
       "de": "die Anomalie",
       "es": "la anomalía",
       "fr": "l'anomalie",
-      "it": "l'anomalia",
+      "it": "l' l'anomalia",
       "pt": "a anomalia",
       "ja": "異常",
       "zh": "异常",
       "ru": "аномалия"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "anomalie"
   },
   {
     "id": "it_17905",
+    "lang": "it",
     "lemma": "fogna",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33559,13 +31585,12 @@ const WORDS_IT_B1 = [
       "zh": "下水道",
       "ru": "канализация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fogne"
   },
   {
     "id": "it_17906",
+    "lang": "it",
     "lemma": "drive",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33585,13 +31610,11 @@ const WORDS_IT_B1 = [
       "zh": "抽击",
       "ru": "драйв"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17907",
+    "lang": "it",
     "lemma": "costituzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33612,13 +31635,12 @@ const WORDS_IT_B1 = [
       "zh": "构成",
       "ru": "состав"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "costituzioni"
   },
   {
     "id": "it_17908",
+    "lang": "it",
     "lemma": "mentore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33639,13 +31661,12 @@ const WORDS_IT_B1 = [
       "zh": "导师",
       "ru": "наставник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "mentori"
   },
   {
     "id": "it_17909",
+    "lang": "it",
     "lemma": "atrio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33659,19 +31680,18 @@ const WORDS_IT_B1 = [
       "de": "das Atrium",
       "es": "el atrio",
       "fr": "l'atrium",
-      "it": "l'atrio",
+      "it": "l' l'atrio",
       "pt": "o átrio",
       "ja": "アトリウム",
       "zh": "中庭",
       "ru": "атриум"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "atri"
   },
   {
     "id": "it_17910",
+    "lang": "it",
     "lemma": "signoria",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33691,13 +31711,12 @@ const WORDS_IT_B1 = [
       "zh": "领主权",
       "ru": "владычество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "signorie"
   },
   {
     "id": "it_17911",
+    "lang": "it",
     "lemma": "ripartire",
     "pos": "Verb",
     "cefr": "B1",
@@ -33717,15 +31736,11 @@ const WORDS_IT_B1 = [
       "ja": "分配する",
       "zh": "分配",
       "ru": "распределять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ripartire",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17912",
+    "lang": "it",
     "lemma": "ignorato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33744,12 +31759,11 @@ const WORDS_IT_B1 = [
       "ja": "無視された",
       "zh": "被忽视的",
       "ru": "игнорируемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17916",
+    "lang": "it",
     "lemma": "reggere",
     "pos": "Verb",
     "cefr": "B1",
@@ -33769,15 +31783,11 @@ const WORDS_IT_B1 = [
       "ja": "支える",
       "zh": "支撑",
       "ru": "держать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reggere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17917",
+    "lang": "it",
     "lemma": "deficiente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33796,12 +31806,11 @@ const WORDS_IT_B1 = [
       "ja": "欠陥のある",
       "zh": "不足的",
       "ru": "недостаточный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17918",
+    "lang": "it",
     "lemma": "accennato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -33820,12 +31829,11 @@ const WORDS_IT_B1 = [
       "ja": "ほのめかされた",
       "zh": "暗示的",
       "ru": "намекнутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17919",
+    "lang": "it",
     "lemma": "invenzione",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33840,19 +31848,18 @@ const WORDS_IT_B1 = [
       "de": "die Erfindung",
       "es": "la invención",
       "fr": "l'invention",
-      "it": "l'invenzione",
+      "it": "l' l'invenzione",
       "pt": "a invenção",
       "ja": "発明",
       "zh": "发明",
       "ru": "изобретение"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "invenzioni"
   },
   {
     "id": "it_17921",
+    "lang": "it",
     "lemma": "contenitore",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33872,13 +31879,12 @@ const WORDS_IT_B1 = [
       "zh": "容器",
       "ru": "контейнер"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "contenitori"
   },
   {
     "id": "it_17923",
+    "lang": "it",
     "lemma": "fumato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33898,13 +31904,11 @@ const WORDS_IT_B1 = [
       "zh": "吸毒者",
       "ru": "потребитель наркотиков"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17924",
+    "lang": "it",
     "lemma": "apprezzare",
     "pos": "Verb",
     "cefr": "B1",
@@ -33924,15 +31928,11 @@ const WORDS_IT_B1 = [
       "ja": "評価する",
       "zh": "评价",
       "ru": "оценивать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "apprezzare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17926",
+    "lang": "it",
     "lemma": "drone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33953,13 +31953,12 @@ const WORDS_IT_B1 = [
       "zh": "无人机",
       "ru": "дрон"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "droni"
   },
   {
     "id": "it_17927",
+    "lang": "it",
     "lemma": "precedenza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -33979,13 +31978,12 @@ const WORDS_IT_B1 = [
       "zh": "优先权",
       "ru": "приоритет"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "precedenze"
   },
   {
     "id": "it_17928",
+    "lang": "it",
     "lemma": "impaziente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34004,12 +32002,11 @@ const WORDS_IT_B1 = [
       "ja": "せっかちな",
       "zh": "不耐烦的",
       "ru": "нетерпеливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17929",
+    "lang": "it",
     "lemma": "impaziente",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34023,19 +32020,17 @@ const WORDS_IT_B1 = [
       "de": "das Springkraut",
       "es": "la impatiens",
       "fr": "l'impatiens",
-      "it": "l'impaziente",
+      "it": "l' l'impaziente",
       "pt": "a impatiens",
       "ja": "インパチェンス",
       "zh": "凤仙花",
       "ru": "недотрога"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17931",
+    "lang": "it",
     "lemma": "fontana",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34056,13 +32051,12 @@ const WORDS_IT_B1 = [
       "zh": "喷泉",
       "ru": "фонтан"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fontane"
   },
   {
     "id": "it_17932",
+    "lang": "it",
     "lemma": "documentario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34082,12 +32076,11 @@ const WORDS_IT_B1 = [
       "ja": "記録の",
       "zh": "纪录的",
       "ru": "документальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17933",
+    "lang": "it",
     "lemma": "documentario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34107,13 +32100,12 @@ const WORDS_IT_B1 = [
       "zh": "纪录片",
       "ru": "документальный фильм"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "documentari"
   },
   {
     "id": "it_17934",
+    "lang": "it",
     "lemma": "elsa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34127,19 +32119,18 @@ const WORDS_IT_B1 = [
       "de": "das Stichblatt",
       "es": "la guarda",
       "fr": "la garde",
-      "it": "l'elsa",
+      "it": "l' l'elsa",
       "pt": "a guarda",
       "ja": "鍔",
       "zh": "护手",
       "ru": "гарда"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "else"
   },
   {
     "id": "it_17935",
+    "lang": "it",
     "lemma": "anonimo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34159,12 +32150,11 @@ const WORDS_IT_B1 = [
       "ja": "匿名の",
       "zh": "匿名的",
       "ru": "анонимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17936",
+    "lang": "it",
     "lemma": "anonimo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34179,19 +32169,17 @@ const WORDS_IT_B1 = [
       "de": "der Anonyme",
       "es": "el anónimo",
       "fr": "l'anonyme",
-      "it": "l'anonimo",
+      "it": "l' l'anonimo",
       "pt": "o anônimo",
       "ja": "匿名者",
       "zh": "匿名者",
       "ru": "аноним"
     },
-    "examples": [],
-    "meta": {},
-    "article": "l'",
-    "plural": ""
+    "article": "l'"
   },
   {
     "id": "it_17937",
+    "lang": "it",
     "lemma": "audace",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34210,12 +32198,11 @@ const WORDS_IT_B1 = [
       "ja": "大胆な",
       "zh": "大胆的",
       "ru": "смелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17938",
+    "lang": "it",
     "lemma": "periferia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34236,13 +32223,12 @@ const WORDS_IT_B1 = [
       "zh": "郊区",
       "ru": "периферия"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "periferie"
   },
   {
     "id": "it_17939",
+    "lang": "it",
     "lemma": "tirata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34262,13 +32248,11 @@ const WORDS_IT_B1 = [
       "zh": "拉",
       "ru": "рывок"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "it_17940",
+    "lang": "it",
     "lemma": "capodanno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34289,13 +32273,11 @@ const WORDS_IT_B1 = [
       "zh": "新年",
       "ru": "Новый год"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17942",
+    "lang": "it",
     "lemma": "montgomery",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34315,13 +32297,11 @@ const WORDS_IT_B1 = [
       "zh": "粗呢大衣",
       "ru": "дафлкот"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17943",
+    "lang": "it",
     "lemma": "respinta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34341,13 +32321,12 @@ const WORDS_IT_B1 = [
       "zh": "拒绝",
       "ru": "отказ"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "respinte"
   },
   {
     "id": "it_17945",
+    "lang": "it",
     "lemma": "scientifico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34367,12 +32346,11 @@ const WORDS_IT_B1 = [
       "ja": "科学的な",
       "zh": "科学的",
       "ru": "научный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17946",
+    "lang": "it",
     "lemma": "scientifico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34392,13 +32370,11 @@ const WORDS_IT_B1 = [
       "zh": "科学高中",
       "ru": "научная школа"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17947",
+    "lang": "it",
     "lemma": "beccare",
     "pos": "Verb",
     "cefr": "B1",
@@ -34408,7 +32384,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "쪼다",
-      "en": "to peck",
+      "en": "peck",
       "de": "picken",
       "es": "picotear",
       "fr": "picorer",
@@ -34417,15 +32393,11 @@ const WORDS_IT_B1 = [
       "ja": "突く",
       "zh": "啄",
       "ru": "клевать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beccare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17949",
+    "lang": "it",
     "lemma": "emozionato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34444,12 +32416,11 @@ const WORDS_IT_B1 = [
       "ja": "感動した",
       "zh": "激动的",
       "ru": "взволнованный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17952",
+    "lang": "it",
     "lemma": "yacht",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34469,13 +32440,11 @@ const WORDS_IT_B1 = [
       "zh": "游艇",
       "ru": "яхта"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_17953",
+    "lang": "it",
     "lemma": "credibile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34494,12 +32463,11 @@ const WORDS_IT_B1 = [
       "ja": "信頼できる",
       "zh": "可信的",
       "ru": "правдоподобный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17954",
+    "lang": "it",
     "lemma": "differente",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34518,12 +32486,11 @@ const WORDS_IT_B1 = [
       "ja": "異なる",
       "zh": "不同的",
       "ru": "другой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17955",
+    "lang": "it",
     "lemma": "misero",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34542,12 +32509,11 @@ const WORDS_IT_B1 = [
       "ja": "惨めな",
       "zh": "悲惨的",
       "ru": "жалкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17956",
+    "lang": "it",
     "lemma": "strizzacervelli",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34566,12 +32532,11 @@ const WORDS_IT_B1 = [
       "ja": "心理的な",
       "zh": "心理的",
       "ru": "психологический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17957",
+    "lang": "it",
     "lemma": "piazzato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34590,12 +32555,11 @@ const WORDS_IT_B1 = [
       "ja": "配置された",
       "zh": "放置的",
       "ru": "размещенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17958",
+    "lang": "it",
     "lemma": "coinvolgimento",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34616,13 +32580,12 @@ const WORDS_IT_B1 = [
       "zh": "参与",
       "ru": "вовлечение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "coinvolgimenti"
   },
   {
     "id": "it_17959",
+    "lang": "it",
     "lemma": "primario",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34642,12 +32605,11 @@ const WORDS_IT_B1 = [
       "ja": "主要な",
       "zh": "主要的",
       "ru": "первичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17960",
+    "lang": "it",
     "lemma": "primario",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34667,13 +32629,12 @@ const WORDS_IT_B1 = [
       "zh": "主任医生",
       "ru": "главный врач"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "primari"
   },
   {
     "id": "it_17961",
+    "lang": "it",
     "lemma": "offensivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34692,12 +32653,11 @@ const WORDS_IT_B1 = [
       "ja": "攻撃的な",
       "zh": "冒犯的",
       "ru": "оскорбительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17962",
+    "lang": "it",
     "lemma": "etica",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34712,19 +32672,18 @@ const WORDS_IT_B1 = [
       "de": "die Ethik",
       "es": "la ética",
       "fr": "l'éthique",
-      "it": "l'etica",
+      "it": "l' l'etica",
       "pt": "a ética",
       "ja": "倫理",
       "zh": "伦理",
       "ru": "этика"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "etiche"
   },
   {
     "id": "it_17963",
+    "lang": "it",
     "lemma": "altrui",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34743,12 +32702,11 @@ const WORDS_IT_B1 = [
       "ja": "他人の",
       "zh": "他人的",
       "ru": "чужой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17964",
+    "lang": "it",
     "lemma": "pisolino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34768,13 +32726,11 @@ const WORDS_IT_B1 = [
       "zh": "午睡",
       "ru": "дневной сон"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17965",
+    "lang": "it",
     "lemma": "avanzata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34788,19 +32744,18 @@ const WORDS_IT_B1 = [
       "de": "der Vormarsch",
       "es": "el avance",
       "fr": "l'avancée",
-      "it": "l'avanzata",
+      "it": "l' l'avanzata",
       "pt": "o avanço",
       "ja": "前進",
       "zh": "推进",
       "ru": "наступление"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "avanzate"
   },
   {
     "id": "it_17966",
+    "lang": "it",
     "lemma": "sportivo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34819,12 +32774,11 @@ const WORDS_IT_B1 = [
       "ja": "スポーツの",
       "zh": "运动的",
       "ru": "спортивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17967",
+    "lang": "it",
     "lemma": "sportivo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34844,13 +32798,12 @@ const WORDS_IT_B1 = [
       "zh": "运动员",
       "ru": "спортсмен"
     },
-    "examples": [],
-    "meta": {},
     "article": "lo",
     "plural": "sportivi"
   },
   {
     "id": "it_17968",
+    "lang": "it",
     "lemma": "banchetto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34871,13 +32824,11 @@ const WORDS_IT_B1 = [
       "zh": "宴会",
       "ru": "банкет"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17969",
+    "lang": "it",
     "lemma": "contesto",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34898,13 +32849,12 @@ const WORDS_IT_B1 = [
       "zh": "语境",
       "ru": "контекст"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "contesti"
   },
   {
     "id": "it_17970",
+    "lang": "it",
     "lemma": "giurare",
     "pos": "Verb",
     "cefr": "B1",
@@ -34915,7 +32865,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "맹세하다",
-      "en": "to swear",
+      "en": "swear",
       "de": "schwören",
       "es": "jurar",
       "fr": "jurer",
@@ -34924,15 +32874,11 @@ const WORDS_IT_B1 = [
       "ja": "誓う",
       "zh": "发誓",
       "ru": "клясться"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "giurare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17972",
+    "lang": "it",
     "lemma": "spaccato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -34951,12 +32897,11 @@ const WORDS_IT_B1 = [
       "ja": "ひびの入った",
       "zh": "裂开的",
       "ru": "треснувший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17973",
+    "lang": "it",
     "lemma": "spaccato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -34976,13 +32921,12 @@ const WORDS_IT_B1 = [
       "zh": "剖面图",
       "ru": "разрез"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "spaccati"
   },
   {
     "id": "it_17974",
+    "lang": "it",
     "lemma": "fortezza",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35003,13 +32947,12 @@ const WORDS_IT_B1 = [
       "zh": "堡垒",
       "ru": "крепость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fortezze"
   },
   {
     "id": "it_17976",
+    "lang": "it",
     "lemma": "dormitorio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35030,13 +32973,12 @@ const WORDS_IT_B1 = [
       "zh": "宿舍",
       "ru": "общежитие"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "dormitori"
   },
   {
     "id": "it_17979",
+    "lang": "it",
     "lemma": "bancarotta",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35056,13 +32998,12 @@ const WORDS_IT_B1 = [
       "zh": "破产",
       "ru": "банкротство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bancarotte"
   },
   {
     "id": "it_17980",
+    "lang": "it",
     "lemma": "artificiale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35082,12 +33023,11 @@ const WORDS_IT_B1 = [
       "ja": "人工の",
       "zh": "人造的",
       "ru": "искусственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17981",
+    "lang": "it",
     "lemma": "determinare",
     "pos": "Verb",
     "cefr": "B1",
@@ -35098,7 +33038,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "결정하다",
-      "en": "to determine",
+      "en": "determine",
       "de": "bestimmen",
       "es": "determinar",
       "fr": "déterminer",
@@ -35107,15 +33047,11 @@ const WORDS_IT_B1 = [
       "ja": "決定する",
       "zh": "决定",
       "ru": "определять"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "determinare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17982",
+    "lang": "it",
     "lemma": "sciarpa",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35136,13 +33072,12 @@ const WORDS_IT_B1 = [
       "zh": "围巾",
       "ru": "шарф"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sciarpe"
   },
   {
     "id": "it_17984",
+    "lang": "it",
     "lemma": "bottino",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35162,13 +33097,11 @@ const WORDS_IT_B1 = [
       "zh": "战利品",
       "ru": "добыча"
     },
-    "examples": [],
-    "meta": {},
-    "article": "il",
-    "plural": ""
+    "article": "il"
   },
   {
     "id": "it_17985",
+    "lang": "it",
     "lemma": "colla",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35189,13 +33122,12 @@ const WORDS_IT_B1 = [
       "zh": "胶水",
       "ru": "клей"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "colle"
   },
   {
     "id": "it_17988",
+    "lang": "it",
     "lemma": "mutuo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35216,13 +33148,12 @@ const WORDS_IT_B1 = [
       "zh": "贷款",
       "ru": "кредит"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "mutui"
   },
   {
     "id": "it_17989",
+    "lang": "it",
     "lemma": "diversivo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35242,13 +33173,12 @@ const WORDS_IT_B1 = [
       "zh": "转移",
       "ru": "отвлечение"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "diversivi"
   },
   {
     "id": "it_17990",
+    "lang": "it",
     "lemma": "trattenere",
     "pos": "Verb",
     "cefr": "B1",
@@ -35259,7 +33189,7 @@ const WORDS_IT_B1 = [
     ],
     "meanings": {
       "ko": "억제하다",
-      "en": "to hold back",
+      "en": "hold back",
       "de": "zurückhalten",
       "es": "retener",
       "fr": "retenir",
@@ -35268,15 +33198,11 @@ const WORDS_IT_B1 = [
       "ja": "引き止める",
       "zh": "抑制",
       "ru": "удерживать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trattenere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_17991",
+    "lang": "it",
     "lemma": "promosso",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35295,12 +33221,11 @@ const WORDS_IT_B1 = [
       "ja": "昇進した",
       "zh": "被提升的",
       "ru": "повышенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17992",
+    "lang": "it",
     "lemma": "patrigno",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35321,13 +33246,12 @@ const WORDS_IT_B1 = [
       "zh": "继父",
       "ru": "отчим"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "patrigni"
   },
   {
     "id": "it_17993",
+    "lang": "it",
     "lemma": "chimico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35346,12 +33270,11 @@ const WORDS_IT_B1 = [
       "ja": "化学の",
       "zh": "化学的",
       "ru": "химический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17994",
+    "lang": "it",
     "lemma": "chimico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35372,13 +33295,12 @@ const WORDS_IT_B1 = [
       "zh": "化学家",
       "ru": "химик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "chimici"
   },
   {
     "id": "it_17995",
+    "lang": "it",
     "lemma": "brusio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35398,13 +33320,12 @@ const WORDS_IT_B1 = [
       "zh": "嗡嗡声",
       "ru": "гул"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "brusii"
   },
   {
     "id": "it_17996",
+    "lang": "it",
     "lemma": "gallo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35423,12 +33344,11 @@ const WORDS_IT_B1 = [
       "ja": "ガリアの",
       "zh": "高卢的",
       "ru": "галльский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17997",
+    "lang": "it",
     "lemma": "gallo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35449,13 +33369,12 @@ const WORDS_IT_B1 = [
       "zh": "公鸡",
       "ru": "петух"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "galli"
   },
   {
     "id": "it_17998",
+    "lang": "it",
     "lemma": "logico",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35474,12 +33393,11 @@ const WORDS_IT_B1 = [
       "ja": "論理的な",
       "zh": "逻辑的",
       "ru": "логический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_17999",
+    "lang": "it",
     "lemma": "logico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35499,13 +33417,12 @@ const WORDS_IT_B1 = [
       "zh": "逻辑学家",
       "ru": "логик"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "logici"
   },
   {
     "id": "it_18000",
+    "lang": "it",
     "lemma": "appassionato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35525,12 +33442,11 @@ const WORDS_IT_B1 = [
       "ja": "情熱的な",
       "zh": "热情的",
       "ru": "страстный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18001",
+    "lang": "it",
     "lemma": "appassionato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35544,19 +33460,18 @@ const WORDS_IT_B1 = [
       "de": "der Liebhaber",
       "es": "el aficionado",
       "fr": "le passionné",
-      "it": "l'appassionato",
+      "it": "l' l'appassionato",
       "pt": "o entusiasta",
       "ja": "愛好家",
       "zh": "爱好者",
       "ru": "энтузиаст"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "appassionati"
   },
   {
     "id": "it_18003",
+    "lang": "it",
     "lemma": "svedese",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35576,12 +33491,11 @@ const WORDS_IT_B1 = [
       "ja": "スウェーデンの",
       "zh": "瑞典的",
       "ru": "шведский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18004",
+    "lang": "it",
     "lemma": "svedese",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35602,13 +33516,11 @@ const WORDS_IT_B1 = [
       "zh": "瑞典语",
       "ru": "шведский язык"
     },
-    "examples": [],
-    "meta": {},
-    "article": "lo",
-    "plural": ""
+    "article": "lo"
   },
   {
     "id": "it_18008",
+    "lang": "it",
     "lemma": "solletico",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35628,13 +33540,12 @@ const WORDS_IT_B1 = [
       "zh": "痒",
       "ru": "щекотка"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "solletichi"
   },
   {
     "id": "it_18011",
+    "lang": "it",
     "lemma": "temporaneo",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35654,12 +33565,11 @@ const WORDS_IT_B1 = [
       "ja": "一時的な",
       "zh": "临时的",
       "ru": "временный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18015",
+    "lang": "it",
     "lemma": "orgasmo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35673,19 +33583,18 @@ const WORDS_IT_B1 = [
       "de": "der Orgasmus",
       "es": "el orgasmo",
       "fr": "l'orgasme",
-      "it": "l'orgasmo",
+      "it": "l' l'orgasmo",
       "pt": "o orgasmo",
       "ja": "オーガズム",
       "zh": "高潮",
       "ru": "оргазм"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orgasmi"
   },
   {
     "id": "it_18016",
+    "lang": "it",
     "lemma": "orfanotrofio",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35699,19 +33608,18 @@ const WORDS_IT_B1 = [
       "de": "das Waisenhaus",
       "es": "el orfanato",
       "fr": "l'orphelinat",
-      "it": "l'orfanotrofio",
+      "it": "l' l'orfanotrofio",
       "pt": "o orfanato",
       "ja": "孤児院",
       "zh": "孤儿院",
       "ru": "детский дом"
     },
-    "examples": [],
-    "meta": {},
     "article": "l'",
     "plural": "orfanotrofi"
   },
   {
     "id": "it_18018",
+    "lang": "it",
     "lemma": "laureato",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35731,12 +33639,11 @@ const WORDS_IT_B1 = [
       "ja": "卒業した",
       "zh": "毕业的",
       "ru": "выпускник"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18019",
+    "lang": "it",
     "lemma": "laureato",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35757,13 +33664,12 @@ const WORDS_IT_B1 = [
       "zh": "毕业生",
       "ru": "выпускник"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "laureati"
   },
   {
     "id": "it_18020",
+    "lang": "it",
     "lemma": "sollevare",
     "pos": "Verb",
     "cefr": "B1",
@@ -35783,15 +33689,11 @@ const WORDS_IT_B1 = [
       "ja": "持ち上げる",
       "zh": "举起",
       "ru": "поднимать"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sollevare",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_18021",
+    "lang": "it",
     "lemma": "mazzo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35812,13 +33714,12 @@ const WORDS_IT_B1 = [
       "zh": "束",
       "ru": "букет"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "mazzi"
   },
   {
     "id": "it_18022",
+    "lang": "it",
     "lemma": "capello",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35839,13 +33740,12 @@ const WORDS_IT_B1 = [
       "zh": "头发",
       "ru": "волос"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "capelli"
   },
   {
     "id": "it_18023",
+    "lang": "it",
     "lemma": "piovere",
     "pos": "Verb",
     "cefr": "B1",
@@ -35865,15 +33765,11 @@ const WORDS_IT_B1 = [
       "ja": "雨が降る",
       "zh": "下雨",
       "ru": "идти дождь"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "piovere",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "it_18024",
+    "lang": "it",
     "lemma": "controllata",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35893,13 +33789,12 @@ const WORDS_IT_B1 = [
       "zh": "子公司",
       "ru": "дочерняя компания"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "controllate"
   },
   {
     "id": "it_18025",
+    "lang": "it",
     "lemma": "plotone",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35919,13 +33814,12 @@ const WORDS_IT_B1 = [
       "zh": "排",
       "ru": "взвод"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "plotoni"
   },
   {
     "id": "it_18026",
+    "lang": "it",
     "lemma": "grembo",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35946,13 +33840,12 @@ const WORDS_IT_B1 = [
       "zh": "膝盖",
       "ru": "колени"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "grembi"
   },
   {
     "id": "it_18029",
+    "lang": "it",
     "lemma": "ostile",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -35972,12 +33865,11 @@ const WORDS_IT_B1 = [
       "ja": "敵対的な",
       "zh": "敌对的",
       "ru": "враждебный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18030",
+    "lang": "it",
     "lemma": "salsiccia",
     "pos": "Nomen",
     "cefr": "B1",
@@ -35998,13 +33890,12 @@ const WORDS_IT_B1 = [
       "zh": "香肠",
       "ru": "колбаса"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "salsicce"
   },
   {
     "id": "it_18031",
+    "lang": "it",
     "lemma": "superficiale",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -36024,12 +33915,11 @@ const WORDS_IT_B1 = [
       "ja": "表面的な",
       "zh": "表面的",
       "ru": "поверхностный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "it_18032",
+    "lang": "it",
     "lemma": "superficiale",
     "pos": "Nomen",
     "cefr": "B1",
@@ -36050,13 +33940,12 @@ const WORDS_IT_B1 = [
       "zh": "肤浅的人",
       "ru": "поверхностный человек"
     },
-    "examples": [],
-    "meta": {},
     "article": "il",
     "plural": "superficiali"
   },
   {
     "id": "it_18033",
+    "lang": "it",
     "lemma": "esse",
     "pos": "Adjektiv",
     "cefr": "B1",
@@ -36075,8 +33964,6 @@ const WORDS_IT_B1 = [
       "ja": "これら",
       "zh": "这些",
       "ru": "эти"
-    },
-    "examples": [],
-    "meta": {}
+    }
   }
 ];

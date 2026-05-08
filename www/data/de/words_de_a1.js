@@ -2,6 +2,7 @@
 const WORDS_DE_A1 = [
   {
     "id": "ab_prep_1",
+    "lang": "de",
     "lemma": "ab",
     "pos": "Präposition",
     "cefr": "A1",
@@ -24,11 +25,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ab morgen muss ich arbeiten."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "aber_konj_1",
+    "lang": "de",
     "lemma": "aber",
     "pos": "Konjunktion",
     "cefr": "A1",
@@ -50,11 +51,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin oft im Büro, aber nur für wenige Stunden."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "abfahren_v_1",
+    "lang": "de",
     "lemma": "abfahren",
     "pos": "Verb",
     "cefr": "A1",
@@ -62,6 +63,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich fahre ab",
+      "pres_du": "du fährst ab",
+      "pres_er": "er/sie/es fährt ab",
+      "praet": "fuhr ab",
+      "part2": "abgefahren",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "abfahren",
       "ko": "출발하다",
@@ -76,47 +85,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir fahren um zwölf Uhr ab."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fahre ab",
-      "pres_du": "du fährst ab",
-      "pres_er": "er/sie/es fährt ab",
-      "praet": "fuhr ab",
-      "part2": "abgefahren",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "abfahrt_nf_1",
+    "lang": "de",
     "lemma": "Abfahrt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Abfahrten",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Abfahrt",
+      "de": "die Abfahrt",
       "ko": "출발",
       "en": "departure",
-      "es": "salida",
-      "fr": "départ",
-      "it": "partenza",
-      "pt": "partida",
+      "es": "la salida",
+      "fr": "le départ",
+      "it": "la partenza",
+      "pt": "a partida",
       "ja": "出発",
       "zh": "出发",
       "ru": "отправление"
     },
     "examples": [
       "Vor der Abfahrt rufe ich an."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Abfahrten"
+    ]
   },
   {
     "id": "abgeben_v_1",
+    "lang": "de",
     "lemma": "abgeben",
     "pos": "Verb",
     "cefr": "A1",
@@ -125,6 +127,14 @@ const WORDS_DE_A1 = [
       "daily",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich gebe ab",
+      "pres_du": "du gibst ab",
+      "pres_er": "er/sie/es gibt ab",
+      "praet": "gab ab",
+      "part2": "abgegeben",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "abgeben",
       "ko": "반납하다",
@@ -139,19 +149,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss meine Schlüssel abgeben."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gebe ab",
-      "pres_du": "du gibst ab",
-      "pres_er": "er/sie/es gibt ab",
-      "praet": "gab ab",
-      "part2": "abgegeben",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "abholen_v_1",
+    "lang": "de",
     "lemma": "abholen",
     "pos": "Verb",
     "cefr": "A1",
@@ -159,6 +161,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich hole ab",
+      "pres_du": "du holst ab",
+      "pres_er": "er/sie/es holt ab",
+      "praet": "holte ab",
+      "part2": "abgeholt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "abholen",
       "ko": "마중 나가다",
@@ -173,21 +183,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir müssen noch meinen Bruder abholen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich hole ab",
-      "pres_du": "du holst ab",
-      "pres_er": "er/sie/es holt ab",
-      "praet": "holte ab",
-      "part2": "abgeholt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "absender_nm_1",
+    "lang": "de",
     "lemma": "Absender",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Absender",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -195,26 +200,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Absender",
+      "de": "der Absender",
       "ko": "발신인",
       "en": "sender",
-      "es": "remitente",
-      "fr": "expéditeur",
-      "it": "mittente",
-      "pt": "remetente",
+      "es": "el remitente",
+      "fr": "l'expéditeur",
+      "it": "il mittente",
+      "pt": "o remetente",
       "ja": "差出人",
       "zh": "发件人",
       "ru": "отправитель"
     },
     "examples": [
       "Da ist ein Brief für dich ohne Absender."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Absender"
+    ]
   },
   {
     "id": "achtung_int_1",
+    "lang": "de",
     "lemma": "Achtung",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -237,13 +240,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Achtung! Das dürfen Sie nicht tun."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "adresse_nf_1",
+    "lang": "de",
     "lemma": "Adresse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Adressen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -251,26 +257,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Adresse",
+      "de": "die Adresse",
       "ko": "주소",
       "en": "address",
-      "es": "dirección",
-      "fr": "adresse",
-      "it": "indirizzo",
-      "pt": "endereço",
+      "es": "la dirección",
+      "fr": "l'adresse",
+      "it": "l'indirizzo",
+      "pt": "o endereço",
       "ja": "住所",
       "zh": "地址",
       "ru": "адрес"
     },
     "examples": [
       "Können Sie mir seine Adresse sagen?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Adressen"
+    ]
   },
   {
     "id": "alle_pron_1",
+    "lang": "de",
     "lemma": "alle",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -292,11 +296,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sind alle da?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "allein_adj_1",
+    "lang": "de",
     "lemma": "allein",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -318,11 +322,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er kommt allein."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "also_adv_1",
+    "lang": "de",
     "lemma": "also",
     "pos": "Adverb",
     "cefr": "A1",
@@ -344,11 +348,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Also, es ist so ..."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "alt_adj_1",
+    "lang": "de",
     "lemma": "alt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -370,39 +374,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie alt sind Sie?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "alter_nn_1",
+    "lang": "de",
     "lemma": "Alter",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Alter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Alter",
+      "de": "das Alter",
       "ko": "나이",
       "en": "age",
-      "es": "edad",
-      "fr": "âge",
-      "it": "età",
-      "pt": "idade",
+      "es": "la edad",
+      "fr": "l'âge",
+      "it": "l'età",
+      "pt": "a idade",
       "ja": "年齢",
       "zh": "年龄",
       "ru": "возраст"
     },
     "examples": [
       "Alter: 26 Jahre."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Alter"
+    ]
   },
   {
     "id": "an_prep_1",
+    "lang": "de",
     "lemma": "an",
     "pos": "Präposition",
     "cefr": "A1",
@@ -424,11 +429,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Fahren Sie an der nächsten Straße nach rechts."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "anbieten_v_1",
+    "lang": "de",
     "lemma": "anbieten",
     "pos": "Verb",
     "cefr": "A1",
@@ -437,6 +442,14 @@ const WORDS_DE_A1 = [
       "daily",
       "shopping"
     ],
+    "conj": {
+      "pres_ich": "ich biete an",
+      "pres_du": "du bietest an",
+      "pres_er": "er/sie/es bietet an",
+      "praet": "bot an",
+      "part2": "angeboten",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anbieten",
       "ko": "제공하다",
@@ -451,21 +464,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Was darf ich dir anbieten?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich biete an",
-      "pres_du": "du bietest an",
-      "pres_er": "er/sie/es bietet an",
-      "praet": "bot an",
-      "part2": "angeboten",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "angebot_nn_1",
+    "lang": "de",
     "lemma": "Angebot",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Angebote",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -473,26 +481,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Angebot",
+      "de": "das Angebot",
       "ko": "제안",
       "en": "offer",
-      "es": "oferta",
-      "fr": "offre",
-      "it": "offerta",
-      "pt": "oferta",
+      "es": "la oferta",
+      "fr": "l'offre",
+      "it": "l'offerta",
+      "pt": "a oferta",
       "ja": "申し出",
       "zh": "提议",
       "ru": "предложение"
     },
     "examples": [
       "Heute sind Sportschuhe im Angebot."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Angebote"
+    ]
   },
   {
     "id": "andere_pron_1",
+    "lang": "de",
     "lemma": "andere",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -514,11 +520,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Nein, ich möchte die andere."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "anfangen_v_1",
+    "lang": "de",
     "lemma": "anfangen",
     "pos": "Verb",
     "cefr": "A1",
@@ -526,6 +532,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich fange an",
+      "pres_du": "du fängst an",
+      "pres_er": "er/sie/es fängt an",
+      "praet": "fing an",
+      "part2": "angefangen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anfangen",
       "ko": "시작하다",
@@ -540,21 +554,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hier fängt die Bahnhofstraße an."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fange an",
-      "pres_du": "du fängst an",
-      "pres_er": "er/sie/es fängt an",
-      "praet": "fing an",
-      "part2": "angefangen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "anfang_nm_1",
+    "lang": "de",
     "lemma": "Anfang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Anfänge",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -562,26 +571,24 @@ const WORDS_DE_A1 = [
       "time"
     ],
     "meanings": {
-      "de": "Anfang",
+      "de": "der Anfang",
       "ko": "시작",
       "en": "beginning",
-      "es": "comienzo",
-      "fr": "début",
-      "it": "inizio",
-      "pt": "início",
+      "es": "el comienzo",
+      "fr": "le début",
+      "it": "l'inizio",
+      "pt": "o início",
       "ja": "始まり",
       "zh": "开始",
       "ru": "начало"
     },
     "examples": [
       "Sie wohnt am Anfang der Straße."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Anfänge"
+    ]
   },
   {
     "id": "anklicken_v_1",
+    "lang": "de",
     "lemma": "anklicken",
     "pos": "Verb",
     "cefr": "A1",
@@ -590,6 +597,14 @@ const WORDS_DE_A1 = [
       "work",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich klicke an",
+      "pres_du": "du klickst an",
+      "pres_er": "er/sie/es klickt an",
+      "praet": "klickte an",
+      "part2": "angeklickt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anklicken",
       "ko": "클릭하다",
@@ -604,19 +619,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Da musst du dieses Wort anklicken."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich klicke an",
-      "pres_du": "du klickst an",
-      "pres_er": "er/sie/es klickt an",
-      "praet": "klickte an",
-      "part2": "angeklickt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ankommen_v_1",
+    "lang": "de",
     "lemma": "ankommen",
     "pos": "Verb",
     "cefr": "A1",
@@ -624,6 +631,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich komme an",
+      "pres_du": "du kommst an",
+      "pres_er": "er/sie/es kommt an",
+      "praet": "kam an",
+      "part2": "angekommen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "ankommen",
       "ko": "도착하다",
@@ -638,47 +653,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wann kommt dieser Zug in Hamburg an?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich komme an",
-      "pres_du": "du kommst an",
-      "pres_er": "er/sie/es kommt an",
-      "praet": "kam an",
-      "part2": "angekommen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "ankunft_nf_1",
+    "lang": "de",
     "lemma": "Ankunft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ankünfte",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Ankunft",
+      "de": "die Ankunft",
       "ko": "도착",
       "en": "arrival",
-      "es": "llegada",
-      "fr": "arrivée",
-      "it": "arrivo",
-      "pt": "chegada",
+      "es": "la llegada",
+      "fr": "l'arrivée",
+      "it": "l'arrivo",
+      "pt": "a chegada",
       "ja": "到着",
       "zh": "到达",
       "ru": "прибытие"
     },
     "examples": [
       "Auf diesem Plan steht nur die Ankunft der Züge."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Ankünfte"
+    ]
   },
   {
     "id": "ankreuzen_v_1",
+    "lang": "de",
     "lemma": "ankreuzen",
     "pos": "Verb",
     "cefr": "A1",
@@ -686,6 +694,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich kreuze an",
+      "pres_du": "du kreuzt an",
+      "pres_er": "er/sie/es kreuzt an",
+      "praet": "kreuzte an",
+      "part2": "angekreuzt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "ankreuzen",
       "ko": "표시하다",
@@ -700,19 +716,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kreuze an",
-      "pres_du": "du kreuzt an",
-      "pres_er": "er/sie/es kreuzt an",
-      "praet": "kreuzte an",
-      "part2": "angekreuzt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "anmachen_v_1",
+    "lang": "de",
     "lemma": "anmachen",
     "pos": "Verb",
     "cefr": "A1",
@@ -720,6 +728,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich mache an",
+      "pres_du": "du machst an",
+      "pres_er": "er/sie/es macht an",
+      "praet": "machte an",
+      "part2": "angemacht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anmachen",
       "ko": "켜다",
@@ -734,19 +750,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Mach bitte das Licht an!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich mache an",
-      "pres_du": "du machst an",
-      "pres_er": "er/sie/es macht an",
-      "praet": "machte an",
-      "part2": "angemacht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "anmelden_v_1",
+    "lang": "de",
     "lemma": "anmelden",
     "pos": "Verb",
     "cefr": "A1",
@@ -755,6 +763,14 @@ const WORDS_DE_A1 = [
       "daily",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich melde an",
+      "pres_du": "du meldest an",
+      "pres_er": "er/sie/es meldet an",
+      "praet": "meldete an",
+      "part2": "angemeldet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anmelden",
       "ko": "등록하다",
@@ -769,21 +785,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo kann ich mich anmelden?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich melde an",
-      "pres_du": "du meldest an",
-      "pres_er": "er/sie/es meldet an",
-      "praet": "meldete an",
-      "part2": "angemeldet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "anmeldung_nf_1",
+    "lang": "de",
     "lemma": "Anmeldung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Anmeldungen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -791,28 +802,29 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Anmeldung",
+      "de": "die Anmeldung",
       "ko": "등록",
       "en": "registration",
-      "es": "inscripción",
-      "fr": "inscription",
-      "it": "registrazione",
-      "pt": "inscrição",
+      "es": "la inscripción",
+      "fr": "l'inscription",
+      "it": "la registrazione",
+      "pt": "a inscrição",
       "ja": "登録",
       "zh": "注册",
       "ru": "регистрация"
     },
     "examples": [
       "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Anmeldungen"
+    ]
   },
   {
     "id": "anrede_nf_1",
+    "lang": "de",
     "lemma": "Anrede",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Anreden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -820,26 +832,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Anrede",
+      "de": "die Anrede",
       "ko": "호칭",
       "en": "salutation",
-      "es": "tratamiento",
-      "fr": "formule d'appel",
-      "it": "appellativo",
-      "pt": "tratamento",
+      "es": "el tratamiento",
+      "fr": "la formule d'appel",
+      "it": "l'appellativo",
+      "pt": "o tratamento",
       "ja": "呼びかけ",
       "zh": "称呼",
       "ru": "обращение"
     },
     "examples": [
       "Schreiben Sie auch eine Anrede und einen Gruß."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Anreden"
+    ]
   },
   {
     "id": "anrufen_v_1",
+    "lang": "de",
     "lemma": "anrufen",
     "pos": "Verb",
     "cefr": "A1",
@@ -848,6 +858,14 @@ const WORDS_DE_A1 = [
       "daily",
       "communication"
     ],
+    "conj": {
+      "pres_ich": "ich rufe an",
+      "pres_du": "du rufst an",
+      "pres_er": "er/sie/es ruft an",
+      "praet": "rief an",
+      "part2": "angerufen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anrufen",
       "ko": "전화하다",
@@ -862,21 +880,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kann man Sie anrufen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich rufe an",
-      "pres_du": "du rufst an",
-      "pres_er": "er/sie/es ruft an",
-      "praet": "rief an",
-      "part2": "angerufen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "anruf_nm_1",
+    "lang": "de",
     "lemma": "Anruf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Anrufe",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -884,28 +897,29 @@ const WORDS_DE_A1 = [
       "communication"
     ],
     "meanings": {
-      "de": "Anruf",
+      "de": "der Anruf",
       "ko": "전화",
       "en": "call",
-      "es": "llamada",
-      "fr": "appel",
-      "it": "chiamata",
-      "pt": "chamada",
+      "es": "la llamada",
+      "fr": "l'appel",
+      "it": "la chiamata",
+      "pt": "a chamada",
       "ja": "電話",
       "zh": "电话",
       "ru": "звонок"
     },
     "examples": [
       "Sie bekommt viele Anrufe auf ihrem Handy."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Anrufe"
+    ]
   },
   {
     "id": "anrufbeantworter_nm_1",
+    "lang": "de",
     "lemma": "Anrufbeantworter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Anrufbeantworter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -913,28 +927,29 @@ const WORDS_DE_A1 = [
       "communication"
     ],
     "meanings": {
-      "de": "Anrufbeantworter",
+      "de": "der Anrufbeantworter",
       "ko": "자동응답기",
       "en": "answering machine",
-      "es": "contestador automático",
-      "fr": "répondeur",
-      "it": "segreteria telefonica",
-      "pt": "atendedor de chamadas",
+      "es": "el contestador automático",
+      "fr": "le répondeur",
+      "it": "la segreteria telefonica",
+      "pt": "o atendedor de chamadas",
       "ja": "留守番電話",
       "zh": "电话答录机",
       "ru": "автоответчик"
     },
     "examples": [
       "Sprechen Sie bitte auf den Anrufbeantworter."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Anrufbeantworter"
+    ]
   },
   {
     "id": "ansage_nf_1",
+    "lang": "de",
     "lemma": "Ansage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ansagen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -942,28 +957,29 @@ const WORDS_DE_A1 = [
       "public_transport"
     ],
     "meanings": {
-      "de": "Ansage",
+      "de": "die Ansage",
       "ko": "안내 방송",
       "en": "announcement",
-      "es": "anuncio",
-      "fr": "annonce",
-      "it": "annuncio",
-      "pt": "anúncio",
+      "es": "el anuncio",
+      "fr": "l'annonce",
+      "it": "l'annuncio",
+      "pt": "o anúncio",
       "ja": "アナウンス",
       "zh": "通告",
       "ru": "объявление"
     },
     "examples": [
       "Hören Sie die Ansagen."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Ansagen"
+    ]
   },
   {
     "id": "anschluss_nm_1",
+    "lang": "de",
     "lemma": "Anschluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Anschlüsse",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -971,26 +987,24 @@ const WORDS_DE_A1 = [
       "communication"
     ],
     "meanings": {
-      "de": "Anschluss",
+      "de": "der Anschluss",
       "ko": "연결",
       "en": "connection",
-      "es": "conexión",
-      "fr": "correspondance",
-      "it": "coincidenza",
-      "pt": "ligação",
+      "es": "la conexión",
+      "fr": "la correspondance",
+      "it": "la coincidenza",
+      "pt": "a ligação",
       "ja": "接続",
       "zh": "连接",
       "ru": "подключение"
     },
     "examples": [
       "In Mannheim haben Sie Anschluss nach Saarbrücken."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Anschlüsse"
+    ]
   },
   {
     "id": "antworten_v_1",
+    "lang": "de",
     "lemma": "antworten",
     "pos": "Verb",
     "cefr": "A1",
@@ -998,6 +1012,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich antworte",
+      "pres_du": "du antwortest",
+      "pres_er": "er/sie/es antwortet",
+      "praet": "antwortete",
+      "part2": "geantwortet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "antworten",
       "ko": "대답하다",
@@ -1012,49 +1034,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er antwortet nicht."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich antworte",
-      "pres_du": "du antwortest",
-      "pres_er": "er/sie/es antwortet",
-      "praet": "antwortete",
-      "part2": "geantwortet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "antwort_nf_1",
+    "lang": "de",
     "lemma": "Antwort",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Antworten",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Antwort",
+      "de": "die Antwort",
       "ko": "대답",
       "en": "answer",
-      "es": "respuesta",
-      "fr": "réponse",
-      "it": "risposta",
-      "pt": "resposta",
+      "es": "la respuesta",
+      "fr": "la réponse",
+      "it": "la risposta",
+      "pt": "a resposta",
       "ja": "答え",
       "zh": "回答",
       "ru": "ответ"
     },
     "examples": [
       "Er gibt leider keine Antwort."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Antworten"
+    ]
   },
   {
     "id": "anzeige_nf_1",
+    "lang": "de",
     "lemma": "Anzeige",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Anzeigen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1062,26 +1080,24 @@ const WORDS_DE_A1 = [
       "shopping"
     ],
     "meanings": {
-      "de": "Anzeige",
+      "de": "die Anzeige",
       "ko": "광고",
       "en": "advertisement",
-      "es": "anuncio",
-      "fr": "annonce",
-      "it": "annuncio",
-      "pt": "anúncio",
+      "es": "el anuncio",
+      "fr": "l'annonce",
+      "it": "l'annuncio",
+      "pt": "o anúncio",
       "ja": "広告",
       "zh": "广告",
       "ru": "объявление"
     },
     "examples": [
       "Ich habe Ihre Anzeige in der Zeitung gelesen."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Anzeigen"
+    ]
   },
   {
     "id": "anziehen_v_1",
+    "lang": "de",
     "lemma": "anziehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1090,6 +1106,14 @@ const WORDS_DE_A1 = [
       "daily",
       "clothing"
     ],
+    "conj": {
+      "pres_ich": "ich ziehe an",
+      "pres_du": "du ziehst an",
+      "pres_er": "er/sie/es zieht an",
+      "praet": "zog an",
+      "part2": "angezogen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "anziehen",
       "ko": "입다",
@@ -1104,21 +1128,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss mich noch anziehen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich ziehe an",
-      "pres_du": "du ziehst an",
-      "pres_er": "er/sie/es zieht an",
-      "praet": "zog an",
-      "part2": "angezogen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "apartment_nn_1",
+    "lang": "de",
     "lemma": "Apartment",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Apartments",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1126,28 +1145,29 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Apartment",
+      "de": "das Apartment",
       "ko": "아파트",
       "en": "apartment",
-      "es": "apartamento",
-      "fr": "appartement",
-      "it": "appartamento",
-      "pt": "apartamento",
+      "es": "el apartamento",
+      "fr": "l'appartement",
+      "it": "l'appartamento",
+      "pt": "o apartamento",
       "ja": "アパート",
       "zh": "公寓",
       "ru": "квартира"
     },
     "examples": [
       "Wir haben ein Apartment gemietet."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Apartments"
+    ]
   },
   {
     "id": "apfel_nm_1",
+    "lang": "de",
     "lemma": "Apfel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Äpfel",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1155,28 +1175,28 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Apfel",
+      "de": "der Apfel",
       "ko": "사과",
       "en": "apple",
-      "es": "manzana",
-      "fr": "pomme",
-      "it": "mela",
-      "pt": "maçã",
+      "es": "la manzana",
+      "fr": "la pomme",
+      "it": "la mela",
+      "pt": "a maçã",
       "ja": "リンゴ",
       "zh": "苹果",
       "ru": "яблоко"
     },
     "examples": [
       "Ein Pfund Äpfel bitte."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Äpfel"
+    ]
   },
   {
     "id": "appetit_nm_1",
+    "lang": "de",
     "lemma": "Appetit",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1184,25 +1204,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Appetit",
+      "de": "der Appetit",
       "ko": "식욕",
       "en": "appetite",
-      "es": "apetito",
-      "fr": "appétit",
-      "it": "appetito",
-      "pt": "apetite",
+      "es": "el apetito",
+      "fr": "l'appétit",
+      "it": "l'appetito",
+      "pt": "o apetite",
       "ja": "食欲",
       "zh": "食欲",
       "ru": "аппетит"
     },
     "examples": [
       "Guten Appetit!"
-    ],
-    "meta": {},
-    "gender": "der"
+    ]
   },
   {
     "id": "arbeiten_v_1",
+    "lang": "de",
     "lemma": "arbeiten",
     "pos": "Verb",
     "cefr": "A1",
@@ -1211,6 +1230,14 @@ const WORDS_DE_A1 = [
       "work",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich arbeite",
+      "pres_du": "du arbeitest",
+      "pres_er": "er/sie/es arbeitet",
+      "praet": "arbeitete",
+      "part2": "gearbeitet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "arbeiten",
       "ko": "일하다",
@@ -1225,21 +1252,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo arbeiten Sie?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich arbeite",
-      "pres_du": "du arbeitest",
-      "pres_er": "er/sie/es arbeitet",
-      "praet": "arbeitete",
-      "part2": "gearbeitet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "arbeit_nf_1",
+    "lang": "de",
     "lemma": "Arbeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Arbeiten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1247,26 +1269,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Arbeit",
+      "de": "die Arbeit",
       "ko": "일",
       "en": "work",
-      "es": "trabajo",
-      "fr": "travail",
-      "it": "lavoro",
-      "pt": "trabalho",
+      "es": "el trabajo",
+      "fr": "le travail",
+      "it": "il lavoro",
+      "pt": "o trabalho",
       "ja": "仕事",
       "zh": "工作",
       "ru": "работа"
     },
     "examples": [
       "Mein Bruder sucht Arbeit."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Arbeiten"
+    ]
   },
   {
     "id": "arbeitslos_adj_1",
+    "lang": "de",
     "lemma": "arbeitslos",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1289,41 +1309,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es gibt bei uns viele Leute, die schon lange arbeitslos sind."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "arbeitsplatz_nm_1",
+    "lang": "de",
     "lemma": "Arbeitsplatz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Arbeitsplätze",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Arbeitsplatz",
+      "de": "der Arbeitsplatz",
       "ko": "직장",
       "en": "workplace",
-      "es": "lugar de trabajo",
-      "fr": "lieu de travail",
-      "it": "posto di lavoro",
-      "pt": "local de trabalho",
+      "es": "el lugar de trabajo",
+      "fr": "le lieu de travail",
+      "it": "il posto di lavoro",
+      "pt": "o local de trabalho",
       "ja": "職場",
       "zh": "工作场所",
       "ru": "рабочее место"
     },
     "examples": [
       "An meinem Arbeitsplatz fehlt ein Drucker."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Arbeitsplätze"
+    ]
   },
   {
     "id": "arm_nm_1",
+    "lang": "de",
     "lemma": "Arm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Arme",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1331,28 +1355,29 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Arm",
+      "de": "der Arm",
       "ko": "팔",
       "en": "arm",
-      "es": "brazo",
-      "fr": "bras",
-      "it": "braccio",
-      "pt": "braço",
+      "es": "el brazo",
+      "fr": "le bras",
+      "it": "il braccio",
+      "pt": "o braço",
       "ja": "腕",
       "zh": "手臂",
       "ru": "рука"
     },
     "examples": [
       "Mein Arm tut weh."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Arme"
+    ]
   },
   {
     "id": "arzt_nm_1",
+    "lang": "de",
     "lemma": "Arzt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ärzte",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1360,26 +1385,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Arzt",
+      "de": "der Arzt",
       "ko": "의사",
       "en": "doctor",
-      "es": "médico",
-      "fr": "médecin",
-      "it": "medico",
-      "pt": "médico",
+      "es": "el médico",
+      "fr": "le médecin",
+      "it": "il medico",
+      "pt": "o médico",
       "ja": "医者",
       "zh": "医生",
       "ru": "врач"
     },
     "examples": [
       "Morgen habe ich einen Termin bei meiner Ärztin."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ärzte"
+    ]
   },
   {
     "id": "auch_adv_1",
+    "lang": "de",
     "lemma": "auch",
     "pos": "Adverb",
     "cefr": "A1",
@@ -1402,11 +1425,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin auch Spanier."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "auf_prep_1",
+    "lang": "de",
     "lemma": "auf",
     "pos": "Präposition",
     "cefr": "A1",
@@ -1428,13 +1451,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Kinder spielen auf der Straße."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "aufgabe_nf_1",
+    "lang": "de",
     "lemma": "Aufgabe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Aufgaben",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1442,26 +1468,24 @@ const WORDS_DE_A1 = [
       "school"
     ],
     "meanings": {
-      "de": "Aufgabe",
+      "de": "die Aufgabe",
       "ko": "과제",
       "en": "task",
-      "es": "tarea",
-      "fr": "tâche",
-      "it": "compito",
-      "pt": "tarefa",
+      "es": "la tarea",
+      "fr": "la tâche",
+      "it": "il compito",
+      "pt": "a tarefa",
       "ja": "課題",
       "zh": "任务",
       "ru": "задача"
     },
     "examples": [
       "Das ist eine schwere Aufgabe."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Aufgaben"
+    ]
   },
   {
     "id": "aufhoeren_v_1",
+    "lang": "de",
     "lemma": "aufhören",
     "pos": "Verb",
     "cefr": "A1",
@@ -1469,6 +1493,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich höre auf",
+      "pres_du": "du hörst auf",
+      "pres_er": "er/sie/es hört auf",
+      "praet": "hörte auf",
+      "part2": "aufgehört",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "aufhören",
       "ko": "그만두다",
@@ -1483,19 +1515,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich höre jetzt auf."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich höre auf",
-      "pres_du": "du hörst auf",
-      "pres_er": "er/sie/es hört auf",
-      "praet": "hörte auf",
-      "part2": "aufgehört",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "aufstehen_v_1",
+    "lang": "de",
     "lemma": "aufstehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1503,6 +1527,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich stehe auf",
+      "pres_du": "du stehst auf",
+      "pres_er": "er/sie/es steht auf",
+      "praet": "stand auf",
+      "part2": "aufgestanden",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "aufstehen",
       "ko": "일어나다",
@@ -1517,21 +1549,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss immer um vier Uhr aufstehen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich stehe auf",
-      "pres_du": "du stehst auf",
-      "pres_er": "er/sie/es steht auf",
-      "praet": "stand auf",
-      "part2": "aufgestanden",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "aufzug_nm_1",
+    "lang": "de",
     "lemma": "Aufzug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Aufzüge",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1539,54 +1566,53 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Aufzug",
+      "de": "der Aufzug",
       "ko": "엘리베이터",
       "en": "elevator",
-      "es": "ascensor",
-      "fr": "ascenseur",
-      "it": "ascensore",
-      "pt": "elevador",
+      "es": "el ascensor",
+      "fr": "l'ascenseur",
+      "it": "l'ascensore",
+      "pt": "o elevador",
       "ja": "エレベーター",
       "zh": "电梯",
       "ru": "лифт"
     },
     "examples": [
       "In diesem Haus gibt es keinen Aufzug."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Aufzüge"
+    ]
   },
   {
     "id": "auge_nn_1",
+    "lang": "de",
     "lemma": "Auge",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Augen",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Auge",
+      "de": "das Auge",
       "ko": "눈",
       "en": "eye",
-      "es": "ojo",
-      "fr": "œil",
-      "it": "occhio",
-      "pt": "olho",
+      "es": "el ojo",
+      "fr": "l'œil",
+      "it": "l'occhio",
+      "pt": "o olho",
       "ja": "目",
       "zh": "眼睛",
       "ru": "глаз"
     },
     "examples": [
       "Er hat blaue Augen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Augen"
+    ]
   },
   {
     "id": "aus_prep_1",
+    "lang": "de",
     "lemma": "aus",
     "pos": "Präposition",
     "cefr": "A1",
@@ -1609,13 +1635,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er kommt aus Brasilien."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ausflug_nm_1",
+    "lang": "de",
     "lemma": "Ausflug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ausflüge",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1623,26 +1652,24 @@ const WORDS_DE_A1 = [
       "leisure"
     ],
     "meanings": {
-      "de": "Ausflug",
+      "de": "der Ausflug",
       "ko": "소풍",
       "en": "excursion",
-      "es": "excursión",
-      "fr": "excursion",
-      "it": "gita",
-      "pt": "excursão",
+      "es": "la excursión",
+      "fr": "l'excursion",
+      "it": "la gita",
+      "pt": "a excursão",
       "ja": "遠足",
       "zh": "郊游",
       "ru": "экскурсия"
     },
     "examples": [
       "Morgen machen wir einen Ausflug nach Heidelberg."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ausflüge"
+    ]
   },
   {
     "id": "ausfuellen_v_1",
+    "lang": "de",
     "lemma": "ausfüllen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1651,6 +1678,14 @@ const WORDS_DE_A1 = [
       "daily",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich fülle aus",
+      "pres_du": "du füllst aus",
+      "pres_er": "er/sie/es füllt aus",
+      "praet": "füllte aus",
+      "part2": "ausgefüllt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "ausfüllen",
       "ko": "기입하다",
@@ -1665,21 +1700,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Füllen Sie bitte dieses Formular aus."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fülle aus",
-      "pres_du": "du füllst aus",
-      "pres_er": "er/sie/es füllt aus",
-      "praet": "füllte aus",
-      "part2": "ausgefüllt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ausgang_nm_1",
+    "lang": "de",
     "lemma": "Ausgang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ausgänge",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1687,28 +1717,29 @@ const WORDS_DE_A1 = [
       "building"
     ],
     "meanings": {
-      "de": "Ausgang",
+      "de": "der Ausgang",
       "ko": "출구",
       "en": "exit",
-      "es": "salida",
-      "fr": "sortie",
-      "it": "uscita",
-      "pt": "saída",
+      "es": "la salida",
+      "fr": "la sortie",
+      "it": "l'uscita",
+      "pt": "a saída",
       "ja": "出口",
       "zh": "出口",
       "ru": "выход"
     },
     "examples": [
       "Wo ist der Ausgang?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ausgänge"
+    ]
   },
   {
     "id": "auskunft_nf_1",
+    "lang": "de",
     "lemma": "Auskunft",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Auskünfte",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1716,35 +1747,35 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Auskunft",
+      "de": "die Auskunft",
       "ko": "안내",
       "en": "information",
-      "es": "información",
-      "fr": "renseignement",
-      "it": "informazione",
-      "pt": "informação",
+      "es": "la información",
+      "fr": "le renseignement",
+      "it": "l'informazione",
+      "pt": "a informação",
       "ja": "案内",
       "zh": "信息",
       "ru": "справка"
     },
     "examples": [
       "Können Sie mir eine Auskunft geben?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Auskünfte"
+    ]
   },
   {
     "id": "ausland_nn_1",
+    "lang": "de",
     "lemma": "Ausland",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Ausland",
+      "de": "das Ausland",
       "ko": "외국",
       "en": "abroad",
       "es": "el extranjero",
@@ -1757,40 +1788,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Fahren Sie ins Ausland?"
-    ],
-    "meta": {},
-    "gender": "das"
+    ]
   },
   {
     "id": "auslaender_nm_1",
+    "lang": "de",
     "lemma": "Ausländer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ausländer",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ausländer",
+      "de": "der Ausländer",
       "ko": "외국인",
       "en": "foreigner",
-      "es": "extranjero",
-      "fr": "étranger",
-      "it": "straniero",
-      "pt": "estrangeiro",
+      "es": "el extranjero",
+      "fr": "l'étranger",
+      "it": "lo straniero",
+      "pt": "o estrangeiro",
       "ja": "外国人",
       "zh": "外国人",
       "ru": "иностранец"
     },
     "examples": [
       "Sind Sie Ausländerin?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ausländer"
+    ]
   },
   {
     "id": "auslaendisch_adj_1",
+    "lang": "de",
     "lemma": "ausländisch",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -1812,11 +1843,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Leider habe ich nur ausländisches Geld."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ausmachen_v_1",
+    "lang": "de",
     "lemma": "ausmachen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1824,6 +1855,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich mache aus",
+      "pres_du": "du machst aus",
+      "pres_er": "er/sie/es macht aus",
+      "praet": "machte aus",
+      "part2": "ausgemacht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "ausmachen",
       "ko": "끄다",
@@ -1838,47 +1877,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Mach bitte das Licht aus!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich mache aus",
-      "pres_du": "du machst aus",
-      "pres_er": "er/sie/es macht aus",
-      "praet": "machte aus",
-      "part2": "ausgemacht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "aussage_nf_1",
+    "lang": "de",
     "lemma": "Aussage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Aussagen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Aussage",
+      "de": "die Aussage",
       "ko": "진술",
       "en": "statement",
-      "es": "declaración",
-      "fr": "déclaration",
-      "it": "dichiarazione",
-      "pt": "declaração",
+      "es": "la declaración",
+      "fr": "la déclaration",
+      "it": "la dichiarazione",
+      "pt": "a declaração",
       "ja": "陳述",
       "zh": "陈述",
       "ru": "высказывание"
     },
     "examples": [
       "Ist die Aussage richtig oder falsch?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Aussagen"
+    ]
   },
   {
     "id": "aussehen_v_1",
+    "lang": "de",
     "lemma": "aussehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1886,6 +1918,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich sehe aus",
+      "pres_du": "du siehst aus",
+      "pres_er": "er/sie/es sieht aus",
+      "praet": "sah aus",
+      "part2": "ausgesehen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "aussehen",
       "ko": "보이다",
@@ -1900,19 +1940,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das sieht schön aus."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich sehe aus",
-      "pres_du": "du siehst aus",
-      "pres_er": "er/sie/es sieht aus",
-      "praet": "sah aus",
-      "part2": "ausgesehen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "aussteigen_v_1",
+    "lang": "de",
     "lemma": "aussteigen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1920,6 +1952,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich steige aus",
+      "pres_du": "du steigst aus",
+      "pres_er": "er/sie/es steigt aus",
+      "praet": "stieg aus",
+      "part2": "ausgestiegen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "aussteigen",
       "ko": "하차하다",
@@ -1934,21 +1974,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo muss ich aussteigen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich steige aus",
-      "pres_du": "du steigst aus",
-      "pres_er": "er/sie/es steigt aus",
-      "praet": "stieg aus",
-      "part2": "ausgestiegen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "ausweis_nm_1",
+    "lang": "de",
     "lemma": "Ausweis",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ausweise",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -1956,26 +1991,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Ausweis",
+      "de": "der Ausweis",
       "ko": "신분증",
       "en": "ID card",
-      "es": "carné de identidad",
-      "fr": "carte d'identité",
-      "it": "carta d'identità",
-      "pt": "bilhete de identidade",
+      "es": "el carné de identidad",
+      "fr": "la carte d'identité",
+      "it": "la carta d'identità",
+      "pt": "o bilhete de identidade",
       "ja": "身分証明書",
       "zh": "身份证",
       "ru": "удостоверение"
     },
     "examples": [
       "Hier ist mein Ausweis."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ausweise"
+    ]
   },
   {
     "id": "ausziehen_v_1",
+    "lang": "de",
     "lemma": "ausziehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -1984,6 +2017,14 @@ const WORDS_DE_A1 = [
       "daily",
       "clothing"
     ],
+    "conj": {
+      "pres_ich": "ich ziehe aus",
+      "pres_du": "du ziehst aus",
+      "pres_er": "er/sie/es zieht aus",
+      "praet": "zog aus",
+      "part2": "ausgezogen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "ausziehen",
       "ko": "벗다",
@@ -1998,21 +2039,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Zieh die Schuhe aus, bitte!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich ziehe aus",
-      "pres_du": "du ziehst aus",
-      "pres_er": "er/sie/es zieht aus",
-      "praet": "zog aus",
-      "part2": "ausgezogen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "auto_nn_1",
+    "lang": "de",
     "lemma": "Auto",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Autos",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2020,56 +2056,58 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Auto",
+      "de": "das Auto",
       "ko": "자동차",
       "en": "car",
-      "es": "coche",
-      "fr": "voiture",
-      "it": "auto",
-      "pt": "carro",
+      "es": "el coche",
+      "fr": "la voiture",
+      "it": "l'auto",
+      "pt": "o carro",
       "ja": "車",
       "zh": "汽车",
       "ru": "автомобиль"
     },
     "examples": [
       "Er kommt mit dem Auto."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Autos"
+    ]
   },
   {
     "id": "autobahn_nf_1",
+    "lang": "de",
     "lemma": "Autobahn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Autobahnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Autobahn",
+      "de": "die Autobahn",
       "ko": "고속도로",
       "en": "highway",
-      "es": "autopista",
-      "fr": "autoroute",
-      "it": "autostrada",
-      "pt": "autoestrada",
+      "es": "la autopista",
+      "fr": "l'autoroute",
+      "it": "l'autostrada",
+      "pt": "a autoestrada",
       "ja": "高速道路",
       "zh": "高速公路",
       "ru": "автобан"
     },
     "examples": [
       "Wo geht's hier bitte zur Autobahn?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Autobahnen"
+    ]
   },
   {
     "id": "automat_nm_1",
+    "lang": "de",
     "lemma": "Automat",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Automaten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2077,26 +2115,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Automat",
+      "de": "der Automat",
       "ko": "자동판매기",
       "en": "vending machine",
-      "es": "máquina expendedora",
-      "fr": "distributeur",
-      "it": "distributore automatico",
-      "pt": "máquina de venda automática",
+      "es": "la máquina expendedora",
+      "fr": "le distributeur",
+      "it": "il distributore automatico",
+      "pt": "a máquina de venda automática",
       "ja": "自動販売機",
       "zh": "自动售货机",
       "ru": "автомат"
     },
     "examples": [
       "Die Fahrkarten gibt es nur am Automaten."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Automaten"
+    ]
   },
   {
     "id": "automatisch_adj_1",
+    "lang": "de",
     "lemma": "automatisch",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2118,69 +2154,74 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Du musst nichts machen. Das geht automatisch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "baby_nn_1",
+    "lang": "de",
     "lemma": "Baby",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Babys",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Baby",
+      "de": "das Baby",
       "ko": "아기",
       "en": "baby",
-      "es": "bebé",
-      "fr": "bébé",
-      "it": "neonato",
-      "pt": "bebê",
+      "es": "el bebé",
+      "fr": "le bébé",
+      "it": "il neonato",
+      "pt": "o bebê",
       "ja": "赤ちゃん",
       "zh": "婴儿",
       "ru": "младенец"
     },
     "examples": [
       "Mein Kind ist noch ein Baby."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Babys"
+    ]
   },
   {
     "id": "baeckerei_nf_1",
+    "lang": "de",
     "lemma": "Bäckerei",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bäckereien",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Bäckerei",
+      "de": "die Bäckerei",
       "ko": "빵집",
       "en": "bakery",
-      "es": "panadería",
-      "fr": "boulangerie",
-      "it": "panetteria",
-      "pt": "padaria",
+      "es": "la panadería",
+      "fr": "la boulangerie",
+      "it": "la panetteria",
+      "pt": "a padaria",
       "ja": "パン屋",
       "zh": "面包房",
       "ru": "булочная"
     },
     "examples": [
       "Ich geh mal schnell zur Bäckerei."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Bäckereien"
+    ]
   },
   {
     "id": "bad_nn_1",
+    "lang": "de",
     "lemma": "Bad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Bäder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -2188,26 +2229,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Bad",
+      "de": "das Bad",
       "ko": "욕실",
       "en": "bath",
-      "es": "baño",
-      "fr": "salle de bain",
-      "it": "bagno",
-      "pt": "banheiro",
+      "es": "el baño",
+      "fr": "la salle de bain",
+      "it": "il bagno",
+      "pt": "o banheiro",
       "ja": "浴室",
       "zh": "浴室",
       "ru": "ванная"
     },
     "examples": [
       "Wir haben kein großes Bad."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Bäder"
+    ]
   },
   {
     "id": "baden_v_1",
+    "lang": "de",
     "lemma": "baden",
     "pos": "Verb",
     "cefr": "A1",
@@ -2215,6 +2254,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich bade",
+      "pres_du": "du badest",
+      "pres_er": "er/sie/es badet",
+      "praet": "badete",
+      "part2": "gebadet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "baden",
       "ko": "목욕하다",
@@ -2229,103 +2276,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bade nicht so gern, ich dusche lieber."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bade",
-      "pres_du": "du badest",
-      "pres_er": "er/sie/es badet",
-      "praet": "badete",
-      "part2": "gebadet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bahn_nf_1",
+    "lang": "de",
     "lemma": "Bahn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bahnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Bahn",
+      "de": "die Bahn",
       "ko": "철도",
       "en": "railway",
-      "es": "ferrocarril",
-      "fr": "chemin de fer",
-      "it": "ferrovia",
-      "pt": "ferrovia",
+      "es": "el ferrocarril",
+      "fr": "le chemin de fer",
+      "it": "la ferrovia",
+      "pt": "a ferrovia",
       "ja": "鉄道",
       "zh": "铁路",
       "ru": "железная дорога"
     },
     "examples": [
       "Wir fahren lieber mit der Bahn."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Bahnen"
+    ]
   },
   {
     "id": "bahnhof_nm_1",
+    "lang": "de",
     "lemma": "Bahnhof",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bahnhöfe",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Bahnhof",
+      "de": "der Bahnhof",
       "ko": "기차역",
       "en": "train station",
-      "es": "estación de tren",
-      "fr": "gare",
-      "it": "stazione",
-      "pt": "estação de trem",
+      "es": "la estación de tren",
+      "fr": "la gare",
+      "it": "la stazione",
+      "pt": "a estação de trem",
       "ja": "駅",
       "zh": "火车站",
       "ru": "вокзал"
     },
     "examples": [
       "Komme ich hier zum Bahnhof?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bahnhöfe"
+    ]
   },
   {
     "id": "bahnsteig_nm_1",
+    "lang": "de",
     "lemma": "Bahnsteig",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bahnsteige",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Bahnsteig",
+      "de": "der Bahnsteig",
       "ko": "승강장",
       "en": "platform",
-      "es": "andén",
-      "fr": "quai",
-      "it": "binario",
-      "pt": "plataforma",
+      "es": "el andén",
+      "fr": "le quai",
+      "it": "il binario",
+      "pt": "a plataforma",
       "ja": "プラットホーム",
       "zh": "站台",
       "ru": "перрон"
     },
     "examples": [
       "Auf welchem Bahnsteig fährt der Zug?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bahnsteige"
+    ]
   },
   {
     "id": "bald_adv_1",
+    "lang": "de",
     "lemma": "bald",
     "pos": "Adverb",
     "cefr": "A1",
@@ -2348,95 +2390,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich komme bald."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "balkon_nm_1",
+    "lang": "de",
     "lemma": "Balkon",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Balkone",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Balkon",
+      "de": "der Balkon",
       "ko": "발코니",
       "en": "balcony",
-      "es": "balcón",
-      "fr": "balcon",
-      "it": "balcone",
-      "pt": "varanda",
+      "es": "el balcón",
+      "fr": "le balcon",
+      "it": "il balcone",
+      "pt": "a varanda",
       "ja": "バルコニー",
       "zh": "阳台",
       "ru": "балкон"
     },
     "examples": [
       "Die Wohnung hat auch einen kleinen Balkon."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Balkone"
+    ]
   },
   {
     "id": "banane_nf_1",
+    "lang": "de",
     "lemma": "Banane",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bananen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Banane",
+      "de": "die Banane",
       "ko": "바나나",
       "en": "banana",
-      "es": "plátano",
-      "fr": "banane",
-      "it": "banana",
-      "pt": "banana",
+      "es": "el plátano",
+      "fr": "la banane",
+      "it": "la banana",
+      "pt": "a banana",
       "ja": "バナナ",
       "zh": "香蕉",
       "ru": "банан"
     },
     "examples": [
       "Drei Bananen, bitte!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Bananen"
+    ]
   },
   {
     "id": "bank_nf_1",
+    "lang": "de",
     "lemma": "Bank",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Banken",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Bank",
+      "de": "die Bank",
       "ko": "은행",
       "en": "bank",
-      "es": "banco",
-      "fr": "banque",
-      "it": "banca",
-      "pt": "banco",
+      "es": "el banco",
+      "fr": "la banque",
+      "it": "la banca",
+      "pt": "o banco",
       "ja": "銀行",
       "zh": "银行",
       "ru": "банк"
     },
     "examples": [
       "Die Bank schließt schon um vier Uhr."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Banken"
+    ]
   },
   {
     "id": "bar_adj_1",
+    "lang": "de",
     "lemma": "bar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2458,95 +2503,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Muss ich bar zahlen oder geht's auch mit Karte?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bauch_nm_1",
+    "lang": "de",
     "lemma": "Bauch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bäuche",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Bauch",
+      "de": "der Bauch",
       "ko": "배",
       "en": "belly",
-      "es": "barriga",
-      "fr": "ventre",
-      "it": "pancia",
-      "pt": "barriga",
+      "es": "la barriga",
+      "fr": "le ventre",
+      "it": "la pancia",
+      "pt": "a barriga",
       "ja": "腹",
       "zh": "肚子",
       "ru": "живот"
     },
     "examples": [
       "Seit gestern tut mir der Bauch weh."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bäuche"
+    ]
   },
   {
     "id": "baum_nm_1",
+    "lang": "de",
     "lemma": "Baum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bäume",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Baum",
+      "de": "der Baum",
       "ko": "나무",
       "en": "tree",
-      "es": "árbol",
-      "fr": "arbre",
-      "it": "albero",
-      "pt": "árvore",
+      "es": "el árbol",
+      "fr": "l'arbre",
+      "it": "l'albero",
+      "pt": "a árvore",
       "ja": "木",
       "zh": "树",
       "ru": "дерево"
     },
     "examples": [
       "Vorsicht, fahr nicht an den Baum!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bäume"
+    ]
   },
   {
     "id": "beamter_nm_1",
+    "lang": "de",
     "lemma": "Beamter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Beamte",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Beamter",
+      "de": "der Beamter",
       "ko": "공무원",
       "en": "civil servant",
-      "es": "funcionario",
-      "fr": "fonctionnaire",
-      "it": "funzionario",
-      "pt": "funcionário público",
+      "es": "el funcionario",
+      "fr": "le fonctionnaire",
+      "it": "il funzionario",
+      "pt": "o funcionário público",
       "ja": "公務員",
       "zh": "公务员",
       "ru": "чиновник"
     },
     "examples": [
       "Fragen Sie den Beamten an Schalter acht!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Beamte"
+    ]
   },
   {
     "id": "bedeuten_v_1",
+    "lang": "de",
     "lemma": "bedeuten",
     "pos": "Verb",
     "cefr": "A1",
@@ -2555,6 +2603,14 @@ const WORDS_DE_A1 = [
       "daily",
       "communication"
     ],
+    "conj": {
+      "pres_ich": "ich bedeute",
+      "pres_du": "du bedeutest",
+      "pres_er": "er/sie/es bedeutet",
+      "praet": "bedeutete",
+      "part2": "bedeutet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bedeuten",
       "ko": "의미하다",
@@ -2569,19 +2625,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Was bedeutet das Wort?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bedeute",
-      "pres_du": "du bedeutest",
-      "pres_er": "er/sie/es bedeutet",
-      "praet": "bedeutete",
-      "part2": "bedeutet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "beginnen_v_1",
+    "lang": "de",
     "lemma": "beginnen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2589,6 +2637,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich beginne",
+      "pres_du": "du beginnst",
+      "pres_er": "er/sie/es beginnt",
+      "praet": "begann",
+      "part2": "begonnen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "beginnen",
       "ko": "시작하다",
@@ -2603,19 +2659,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Spiel beginnt um 15.30 Uhr."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich beginne",
-      "pres_du": "du beginnst",
-      "pres_er": "er/sie/es beginnt",
-      "praet": "begann",
-      "part2": "begonnen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bei_prep_1",
+    "lang": "de",
     "lemma": "bei",
     "pos": "Präposition",
     "cefr": "A1",
@@ -2637,11 +2685,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Offenbach liegt bei Frankfurt."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "beide_pron_1",
+    "lang": "de",
     "lemma": "beide",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -2663,67 +2711,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Beide Eltern arbeiten."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bein_nn_1",
+    "lang": "de",
     "lemma": "Bein",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Beine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Bein",
+      "de": "das Bein",
       "ko": "다리",
       "en": "leg",
-      "es": "pierna",
-      "fr": "jambe",
-      "it": "gamba",
-      "pt": "perna",
+      "es": "la pierna",
+      "fr": "la jambe",
+      "it": "la gamba",
+      "pt": "a perna",
       "ja": "脚",
       "zh": "腿",
       "ru": "нога"
     },
     "examples": [
       "Mein rechtes Bein tut weh."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Beine"
+    ]
   },
   {
     "id": "beispiel_nn_1",
+    "lang": "de",
     "lemma": "Beispiel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Beispiele",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Beispiel",
+      "de": "das Beispiel",
       "ko": "예시",
       "en": "example",
-      "es": "ejemplo",
-      "fr": "exemple",
-      "it": "esempio",
-      "pt": "exemplo",
+      "es": "el ejemplo",
+      "fr": "l'exemple",
+      "it": "l'esempio",
+      "pt": "o exemplo",
       "ja": "例",
       "zh": "例子",
       "ru": "пример"
     },
     "examples": [
       "Kannst du mir ein Beispiel sagen?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Beispiele"
+    ]
   },
   {
     "id": "bekannt_adj_1",
+    "lang": "de",
     "lemma": "bekannt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2745,39 +2795,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Picasso ist sehr bekannt."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bekannter_nm_1",
+    "lang": "de",
     "lemma": "Bekannter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bekannte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Bekannter",
+      "de": "der Bekannter",
       "ko": "지인",
       "en": "acquaintance",
-      "es": "conocido",
-      "fr": "connaissance",
-      "it": "conoscente",
-      "pt": "conhecido",
+      "es": "el conocido",
+      "fr": "la connaissance",
+      "it": "il conoscente",
+      "pt": "o conhecido",
       "ja": "知人",
       "zh": "熟人",
       "ru": "знакомый"
     },
     "examples": [
       "Ein Bekannter von mir heißt Klaus."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bekannte"
+    ]
   },
   {
     "id": "bekommen_v_1",
+    "lang": "de",
     "lemma": "bekommen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2786,6 +2837,14 @@ const WORDS_DE_A1 = [
       "daily",
       "shopping"
     ],
+    "conj": {
+      "pres_ich": "ich bekomme",
+      "pres_du": "du bekommst",
+      "pres_er": "er/sie/es bekommt",
+      "praet": "bekam",
+      "part2": "bekommen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bekommen",
       "ko": "받다",
@@ -2800,19 +2859,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Haben Sie meinen Brief bekommen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bekomme",
-      "pres_du": "du bekommst",
-      "pres_er": "er/sie/es bekommt",
-      "praet": "bekam",
-      "part2": "bekommen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "benutzen_v_1",
+    "lang": "de",
     "lemma": "benutzen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2820,6 +2871,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich benutze",
+      "pres_du": "du benutzt",
+      "pres_er": "er/sie/es benutzt",
+      "praet": "benutzte",
+      "part2": "benutzt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "benutzen",
       "ko": "사용하다",
@@ -2834,47 +2893,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Aufzüge bitte nicht benutzen!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich benutze",
-      "pres_du": "du benutzt",
-      "pres_er": "er/sie/es benutzt",
-      "praet": "benutzte",
-      "part2": "benutzt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "beruf_nm_1",
+    "lang": "de",
     "lemma": "Beruf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Berufe",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Beruf",
+      "de": "der Beruf",
       "ko": "직업",
       "en": "profession",
-      "es": "profesión",
-      "fr": "profession",
-      "it": "professione",
-      "pt": "profissão",
+      "es": "la profesión",
+      "fr": "la profession",
+      "it": "la professione",
+      "pt": "a profissão",
       "ja": "職業",
       "zh": "职业",
       "ru": "профессия"
     },
     "examples": [
       "Was sind Sie von Beruf?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Berufe"
+    ]
   },
   {
     "id": "besetzt_adj_1",
+    "lang": "de",
     "lemma": "besetzt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -2897,11 +2949,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Nummer ist immer besetzt."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "besichtigen_v_1",
+    "lang": "de",
     "lemma": "besichtigen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2910,6 +2962,14 @@ const WORDS_DE_A1 = [
       "travel",
       "culture"
     ],
+    "conj": {
+      "pres_ich": "ich besichtige",
+      "pres_du": "du besichtigst",
+      "pres_er": "er/sie/es besichtigt",
+      "praet": "besichtigte",
+      "part2": "besichtigt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "besichtigen",
       "ko": "구경하다",
@@ -2924,19 +2984,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte gern das Haus besichtigen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich besichtige",
-      "pres_du": "du besichtigst",
-      "pres_er": "er/sie/es besichtigt",
-      "praet": "besichtigte",
-      "part2": "besichtigt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bestellen_v_1",
+    "lang": "de",
     "lemma": "bestellen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2945,6 +2997,14 @@ const WORDS_DE_A1 = [
       "daily",
       "shopping"
     ],
+    "conj": {
+      "pres_ich": "ich bestelle",
+      "pres_du": "du bestellst",
+      "pres_er": "er/sie/es bestellt",
+      "praet": "bestellte",
+      "part2": "bestellt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bestellen",
       "ko": "주문하다",
@@ -2959,19 +3019,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir haben Pizza bestellt."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bestelle",
-      "pres_du": "du bestellst",
-      "pres_er": "er/sie/es bestellt",
-      "praet": "bestellte",
-      "part2": "bestellt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "besuchen_v_1",
+    "lang": "de",
     "lemma": "besuchen",
     "pos": "Verb",
     "cefr": "A1",
@@ -2980,6 +3032,14 @@ const WORDS_DE_A1 = [
       "daily",
       "social"
     ],
+    "conj": {
+      "pres_ich": "ich besuche",
+      "pres_du": "du besuchst",
+      "pres_er": "er/sie/es besucht",
+      "praet": "besuchte",
+      "part2": "besucht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "besuchen",
       "ko": "방문하다",
@@ -2994,21 +3054,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Darf ich dich besuchen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich besuche",
-      "pres_du": "du besuchst",
-      "pres_er": "er/sie/es besucht",
-      "praet": "besuchte",
-      "part2": "besucht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bett_nn_1",
+    "lang": "de",
     "lemma": "Bett",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Betten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3016,26 +3071,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Bett",
+      "de": "das Bett",
       "ko": "침대",
       "en": "bed",
-      "es": "cama",
-      "fr": "lit",
-      "it": "letto",
-      "pt": "cama",
+      "es": "la cama",
+      "fr": "le lit",
+      "it": "il letto",
+      "pt": "a cama",
       "ja": "ベッド",
       "zh": "床",
       "ru": "кровать"
     },
     "examples": [
       "Ich gehe ins Bett."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Betten"
+    ]
   },
   {
     "id": "bezahlen_v_1",
+    "lang": "de",
     "lemma": "bezahlen",
     "pos": "Verb",
     "cefr": "A1",
@@ -3044,6 +3097,14 @@ const WORDS_DE_A1 = [
       "shopping",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich bezahle",
+      "pres_du": "du bezahlst",
+      "pres_er": "er/sie/es bezahlt",
+      "praet": "bezahlte",
+      "part2": "bezahlt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bezahlen",
       "ko": "지불하다",
@@ -3058,21 +3119,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo muss ich bezahlen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bezahle",
-      "pres_du": "du bezahlst",
-      "pres_er": "er/sie/es bezahlt",
-      "praet": "bezahlte",
-      "part2": "bezahlt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bier_nn_1",
+    "lang": "de",
     "lemma": "Bier",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Biere",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3080,28 +3136,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Bier",
+      "de": "das Bier",
       "ko": "맥주",
       "en": "beer",
-      "es": "cerveza",
-      "fr": "bière",
-      "it": "birra",
-      "pt": "cerveja",
+      "es": "la cerveza",
+      "fr": "la bière",
+      "it": "la birra",
+      "pt": "a cerveja",
       "ja": "ビール",
       "zh": "啤酒",
       "ru": "пиво"
     },
     "examples": [
       "Noch ein Bier, bitte."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Biere"
+    ]
   },
   {
     "id": "bild_nn_1",
+    "lang": "de",
     "lemma": "Bild",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Bilder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3109,26 +3166,24 @@ const WORDS_DE_A1 = [
       "culture"
     ],
     "meanings": {
-      "de": "Bild",
+      "de": "das Bild",
       "ko": "그림",
       "en": "picture",
-      "es": "imagen",
-      "fr": "image",
-      "it": "immagine",
-      "pt": "imagem",
+      "es": "la imagen",
+      "fr": "l'image",
+      "it": "l'immagine",
+      "pt": "a imagem",
       "ja": "絵",
       "zh": "图片",
       "ru": "изображение"
     },
     "examples": [
       "Hast du ein Bild von deinem Sohn?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Bilder"
+    ]
   },
   {
     "id": "billig_adj_1",
+    "lang": "de",
     "lemma": "billig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3150,39 +3205,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist mir zu teuer. Haben Sie etwas Billiges?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "birne_nf_1",
+    "lang": "de",
     "lemma": "Birne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Birnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Birne",
+      "de": "die Birne",
       "ko": "배",
       "en": "pear",
-      "es": "pera",
-      "fr": "poire",
-      "it": "pera",
-      "pt": "pera",
+      "es": "la pera",
+      "fr": "la poire",
+      "it": "la pera",
+      "pt": "a pera",
       "ja": "梨",
       "zh": "梨",
       "ru": "груша"
     },
     "examples": [
       "Ein Kilo Birnen, bitte!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Birnen"
+    ]
   },
   {
     "id": "bis_prep_1",
+    "lang": "de",
     "lemma": "bis",
     "pos": "Präposition",
     "cefr": "A1",
@@ -3205,11 +3261,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich warte bis Freitag."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ein_bisschen_adv_1",
+    "lang": "de",
     "lemma": "ein bisschen",
     "pos": "Adverb",
     "cefr": "A1",
@@ -3231,11 +3287,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich spreche ein bisschen Deutsch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bitte_int_1",
+    "lang": "de",
     "lemma": "bitte",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -3258,39 +3314,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Eine Tasse Kaffee, bitte!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bitte_nf_1",
+    "lang": "de",
     "lemma": "Bitte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Bitten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Bitte",
+      "de": "die Bitte",
       "ko": "부탁",
       "en": "request",
-      "es": "petición",
-      "fr": "demande",
-      "it": "richiesta",
-      "pt": "pedido",
+      "es": "la petición",
+      "fr": "la demande",
+      "it": "la richiesta",
+      "pt": "o pedido",
       "ja": "頼み",
       "zh": "请求",
       "ru": "просьба"
     },
     "examples": [
       "Ich habe eine Bitte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Bitten"
+    ]
   },
   {
     "id": "bitten_v_1",
+    "lang": "de",
     "lemma": "bitten",
     "pos": "Verb",
     "cefr": "A1",
@@ -3298,6 +3355,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich bitte",
+      "pres_du": "du bittest",
+      "pres_er": "er/sie/es bittet",
+      "praet": "bat",
+      "part2": "gebeten",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bitten",
       "ko": "부탁하다",
@@ -3312,19 +3377,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Darf ich Sie um etwas bitten?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bitte",
-      "pres_du": "du bittest",
-      "pres_er": "er/sie/es bittet",
-      "praet": "bat",
-      "part2": "gebeten",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bitter_adj_1",
+    "lang": "de",
     "lemma": "bitter",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3346,11 +3403,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Kaffee schmeckt bitter."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "bleiben_v_1",
+    "lang": "de",
     "lemma": "bleiben",
     "pos": "Verb",
     "cefr": "A1",
@@ -3358,6 +3415,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich bleibe",
+      "pres_du": "du bleibst",
+      "pres_er": "er/sie/es bleibt",
+      "praet": "blieb",
+      "part2": "geblieben",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "bleiben",
       "ko": "머무르다",
@@ -3372,21 +3437,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bleibe heute zu Hause."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bleibe",
-      "pres_du": "du bleibst",
-      "pres_er": "er/sie/es bleibt",
-      "praet": "blieb",
-      "part2": "geblieben",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "bleistift_nm_1",
+    "lang": "de",
     "lemma": "Bleistift",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Bleistifte",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3394,28 +3454,29 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Bleistift",
+      "de": "der Bleistift",
       "ko": "연필",
       "en": "pencil",
-      "es": "lápiz",
-      "fr": "crayon",
-      "it": "matita",
-      "pt": "lápis",
+      "es": "el lápiz",
+      "fr": "le crayon",
+      "it": "la matita",
+      "pt": "o lápis",
       "ja": "鉛筆",
       "zh": "铅笔",
       "ru": "карандаш"
     },
     "examples": [
       "Hast du einen Bleistift?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Bleistifte"
+    ]
   },
   {
     "id": "blume_nf_1",
+    "lang": "de",
     "lemma": "Blume",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Blumen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3423,26 +3484,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Blume",
+      "de": "die Blume",
       "ko": "꽃",
       "en": "flower",
-      "es": "flor",
-      "fr": "fleur",
-      "it": "fiore",
-      "pt": "flor",
+      "es": "la flor",
+      "fr": "la fleur",
+      "it": "il fiore",
+      "pt": "a flor",
       "ja": "花",
       "zh": "花",
       "ru": "цветок"
     },
     "examples": [
       "Gefallen dir die Blumen?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Blumen"
+    ]
   },
   {
     "id": "boese_adj_1",
+    "lang": "de",
     "lemma": "böse",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3464,11 +3523,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie ist böse auf mich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "brauchen_v_1",
+    "lang": "de",
     "lemma": "brauchen",
     "pos": "Verb",
     "cefr": "A1",
@@ -3477,6 +3536,14 @@ const WORDS_DE_A1 = [
       "daily",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich brauche",
+      "pres_du": "du brauchst",
+      "pres_er": "er/sie/es braucht",
+      "praet": "brauchte",
+      "part2": "gebraucht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "brauchen",
       "ko": "필요하다",
@@ -3491,19 +3558,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich brauche ein neues Auto."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich brauche",
-      "pres_du": "du brauchst",
-      "pres_er": "er/sie/es braucht",
-      "praet": "brauchte",
-      "part2": "gebraucht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "breit_adj_1",
+    "lang": "de",
     "lemma": "breit",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -3526,67 +3585,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie breit ist der Schrank?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "brief_nm_1",
+    "lang": "de",
     "lemma": "Brief",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Briefe",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Brief",
+      "de": "der Brief",
       "ko": "편지",
       "en": "letter",
-      "es": "carta",
-      "fr": "lettre",
-      "it": "lettera",
-      "pt": "carta",
+      "es": "la carta",
+      "fr": "la lettre",
+      "it": "la lettera",
+      "pt": "a carta",
       "ja": "手紙",
       "zh": "信",
       "ru": "письмо"
     },
     "examples": [
       "Ich schreibe einen Brief."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Briefe"
+    ]
   },
   {
     "id": "briefmarke_nf_1",
+    "lang": "de",
     "lemma": "Briefmarke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Briefmarken",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Briefmarke",
+      "de": "die Briefmarke",
       "ko": "우표",
       "en": "stamp",
-      "es": "sello",
-      "fr": "timbre",
-      "it": "francobollo",
-      "pt": "selo",
+      "es": "el sello",
+      "fr": "le timbre",
+      "it": "il francobollo",
+      "pt": "o selo",
       "ja": "切手",
       "zh": "邮票",
       "ru": "почтовая марка"
     },
     "examples": [
       "Kaufst du bitte Briefmarken?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Briefmarken"
+    ]
   },
   {
     "id": "bringen_v_1",
+    "lang": "de",
     "lemma": "bringen",
     "pos": "Verb",
     "cefr": "A1",
@@ -3594,6 +3655,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich bringe",
+      "pres_du": "du bringst",
+      "pres_er": "er/sie/es bringt",
+      "praet": "brachte",
+      "part2": "gebracht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "bringen",
       "ko": "가져오다",
@@ -3608,21 +3677,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bringst du mir bitte ein Glas Wasser?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bringe",
-      "pres_du": "du bringst",
-      "pres_er": "er/sie/es bringt",
-      "praet": "brachte",
-      "part2": "gebracht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "brot_nn_1",
+    "lang": "de",
     "lemma": "Brot",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Brote",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3630,28 +3694,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Brot",
+      "de": "das Brot",
       "ko": "빵",
       "en": "bread",
-      "es": "pan",
-      "fr": "pain",
-      "it": "pane",
-      "pt": "pão",
+      "es": "el pan",
+      "fr": "le pain",
+      "it": "il pane",
+      "pt": "o pão",
       "ja": "パン",
       "zh": "面包",
       "ru": "хлеб"
     },
     "examples": [
       "Haben Sie auch Weißbrot?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Brote"
+    ]
   },
   {
     "id": "broetchen_nn_1",
+    "lang": "de",
     "lemma": "Brötchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Brötchen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3659,28 +3724,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Brötchen",
+      "de": "das Brötchen",
       "ko": "롤빵",
       "en": "bread roll",
-      "es": "panecillo",
-      "fr": "petit pain",
-      "it": "panino",
-      "pt": "pãozinho",
+      "es": "el panecillo",
+      "fr": "le petit pain",
+      "it": "il panino",
+      "pt": "o pãozinho",
       "ja": "ロールパン",
       "zh": "小面包",
       "ru": "булочка"
     },
     "examples": [
       "Ich möchte drei Brötchen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Brötchen"
+    ]
   },
   {
     "id": "bruder_nm_1",
+    "lang": "de",
     "lemma": "Bruder",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Brüder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3688,56 +3754,58 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Bruder",
+      "de": "der Bruder",
       "ko": "남자 형제",
       "en": "brother",
-      "es": "hermano",
-      "fr": "frère",
-      "it": "fratello",
-      "pt": "irmão",
+      "es": "el hermano",
+      "fr": "le frère",
+      "it": "il fratello",
+      "pt": "o irmão",
       "ja": "兄弟",
       "zh": "兄弟",
       "ru": "брат"
     },
     "examples": [
       "Mein Bruder arbeitet in Köln."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Brüder"
+    ]
   },
   {
     "id": "buch_nn_1",
+    "lang": "de",
     "lemma": "Buch",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Bücher",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Buch",
+      "de": "das Buch",
       "ko": "책",
       "en": "book",
-      "es": "libro",
-      "fr": "livre",
-      "it": "libro",
-      "pt": "livro",
+      "es": "el libro",
+      "fr": "le livre",
+      "it": "il libro",
+      "pt": "o livro",
       "ja": "本",
       "zh": "书",
       "ru": "книга"
     },
     "examples": [
       "Gute Bücher sind oft teuer."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Bücher"
+    ]
   },
   {
     "id": "buchstabe_nm_1",
+    "lang": "de",
     "lemma": "Buchstabe",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Buchstaben",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3745,26 +3813,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Buchstabe",
+      "de": "der Buchstabe",
       "ko": "글자",
       "en": "letter",
-      "es": "letra",
-      "fr": "lettre",
-      "it": "lettera",
-      "pt": "letra",
+      "es": "la letra",
+      "fr": "la lettre",
+      "it": "la lettera",
+      "pt": "a letra",
       "ja": "文字",
       "zh": "字母",
       "ru": "буква"
     },
     "examples": [
       "Diesen Buchstaben gibt es in meiner Sprache nicht."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Buchstaben"
+    ]
   },
   {
     "id": "buchstabieren_v_1",
+    "lang": "de",
     "lemma": "buchstabieren",
     "pos": "Verb",
     "cefr": "A1",
@@ -3773,6 +3839,14 @@ const WORDS_DE_A1 = [
       "communication",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich buchstabiere",
+      "pres_du": "du buchstabierst",
+      "pres_er": "er/sie/es buchstabiert",
+      "praet": "buchstabierte",
+      "part2": "buchstabiert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "buchstabieren",
       "ko": "철자를 말하다",
@@ -3787,161 +3861,160 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte buchstabieren Sie Ihren Namen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich buchstabiere",
-      "pres_du": "du buchstabierst",
-      "pres_er": "er/sie/es buchstabiert",
-      "praet": "buchstabierte",
-      "part2": "buchstabiert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "bus_nm_1",
+    "lang": "de",
     "lemma": "Bus",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Busse",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Bus",
+      "de": "der Bus",
       "ko": "버스",
       "en": "bus",
-      "es": "autobús",
-      "fr": "bus",
-      "it": "autobus",
-      "pt": "ônibus",
+      "es": "el autobús",
+      "fr": "le bus",
+      "it": "l'autobus",
+      "pt": "o ônibus",
       "ja": "バス",
       "zh": "公共汽车",
       "ru": "автобус"
     },
     "examples": [
       "Wann kommt der nächste Bus?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Busse"
+    ]
   },
   {
     "id": "butter_nf_1",
+    "lang": "de",
     "lemma": "Butter",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Butter",
+      "de": "die Butter",
       "ko": "버터",
       "en": "butter",
-      "es": "mantequilla",
-      "fr": "beurre",
-      "it": "burro",
-      "pt": "manteiga",
+      "es": "la mantequilla",
+      "fr": "le beurre",
+      "it": "il burro",
+      "pt": "a manteiga",
       "ja": "バター",
       "zh": "黄油",
       "ru": "сливочное масло"
     },
     "examples": [
       "Ich möchte Butter aufs Brot."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "café_nn_1",
+    "lang": "de",
     "lemma": "Café",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Cafés",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Café",
+      "de": "das Café",
       "ko": "카페",
       "en": "café",
-      "es": "cafetería",
-      "fr": "café",
-      "it": "caffetteria",
-      "pt": "cafeteria",
+      "es": "la cafetería",
+      "fr": "le café",
+      "it": "la caffetteria",
+      "pt": "a cafeteria",
       "ja": "カフェ",
       "zh": "咖啡馆",
       "ru": "кафе"
     },
     "examples": [
       "Treffen wir uns im Café?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Cafés"
+    ]
   },
   {
     "id": "cd_nf_1",
+    "lang": "de",
     "lemma": "CD",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "CDs",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "CD",
+      "de": "die CD",
       "ko": "CD",
       "en": "CD",
-      "es": "CD",
-      "fr": "CD",
-      "it": "CD",
-      "pt": "CD",
+      "es": "la CD",
+      "fr": "le CD",
+      "it": "la CD",
+      "pt": "a CD",
       "ja": "CD",
       "zh": "光盘",
       "ru": "CD"
     },
     "examples": [
       "Bring bitte deine Lieblings-CD mit."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "CDs"
+    ]
   },
   {
     "id": "chef_nm_1",
+    "lang": "de",
     "lemma": "Chef",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Chefs",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Chef",
+      "de": "der Chef",
       "ko": "상사",
       "en": "boss",
-      "es": "jefe",
-      "fr": "chef",
-      "it": "capo",
-      "pt": "chefe",
+      "es": "el jefe",
+      "fr": "le chef",
+      "it": "il capo",
+      "pt": "o chefe",
       "ja": "上司",
       "zh": "老板",
       "ru": "начальник"
     },
     "examples": [
       "Wir haben einen neuen Chef."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Chefs"
+    ]
   },
   {
     "id": "computer_nm_1",
+    "lang": "de",
     "lemma": "Computer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Computer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -3949,26 +4022,24 @@ const WORDS_DE_A1 = [
       "technology"
     ],
     "meanings": {
-      "de": "Computer",
+      "de": "der Computer",
       "ko": "컴퓨터",
       "en": "computer",
-      "es": "ordenador",
-      "fr": "ordinateur",
-      "it": "computer",
-      "pt": "computador",
+      "es": "el ordenador",
+      "fr": "l'ordinateur",
+      "it": "il computer",
+      "pt": "o computador",
       "ja": "コンピューター",
       "zh": "电脑",
       "ru": "компьютер"
     },
     "examples": [
       "Wann bekommst du deinen neuen Computer?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Computer"
+    ]
   },
   {
     "id": "da_adv_1",
+    "lang": "de",
     "lemma": "da",
     "pos": "Adverb",
     "cefr": "A1",
@@ -3991,39 +4062,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist Herr Klein schon da?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "dame_nf_1",
+    "lang": "de",
     "lemma": "Dame",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Damen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Dame",
+      "de": "die Dame",
       "ko": "숙녀",
       "en": "lady",
-      "es": "dama",
-      "fr": "dame",
-      "it": "signora",
-      "pt": "senhora",
+      "es": "la dama",
+      "fr": "la dame",
+      "it": "la signora",
+      "pt": "a senhora",
       "ja": "婦人",
       "zh": "女士",
       "ru": "дама"
     },
     "examples": [
       "Sehr geehrte Damen und Herren!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Damen"
+    ]
   },
   {
     "id": "daneben_adv_1",
+    "lang": "de",
     "lemma": "daneben",
     "pos": "Adverb",
     "cefr": "A1",
@@ -4045,13 +4117,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Du wohnst in München? Ich wohne daneben, in Augsburg."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "dank_nm_1",
+    "lang": "de",
     "lemma": "Dank",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4059,26 +4133,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Dank",
+      "de": "der Dank",
       "ko": "감사",
       "en": "gratitude",
-      "es": "agradecimiento",
-      "fr": "remerciement",
-      "it": "ringraziamento",
-      "pt": "agradecimento",
+      "es": "el agradecimiento",
+      "fr": "le remerciement",
+      "it": "il ringraziamento",
+      "pt": "o agradecimento",
       "ja": "感謝",
       "zh": "感谢",
       "ru": "благодарность"
     },
     "examples": [
       "Vielen Dank!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "danke_int_1",
+    "lang": "de",
     "lemma": "danke",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -4101,11 +4173,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Soll ich dir helfen? - Nein, danke!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "danken_v_1",
+    "lang": "de",
     "lemma": "danken",
     "pos": "Verb",
     "cefr": "A1",
@@ -4113,6 +4185,14 @@ const WORDS_DE_A1 = [
       "exam",
       "smalltalk"
     ],
+    "conj": {
+      "pres_ich": "ich danke",
+      "pres_du": "du dankst",
+      "pres_er": "er/sie/es dankt",
+      "praet": "dankte",
+      "part2": "gedankt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "danken",
       "ko": "감사하다",
@@ -4127,19 +4207,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich danke Ihnen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich danke",
-      "pres_du": "du dankst",
-      "pres_er": "er/sie/es dankt",
-      "praet": "dankte",
-      "part2": "gedankt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "dann_adv_1",
+    "lang": "de",
     "lemma": "dann",
     "pos": "Adverb",
     "cefr": "A1",
@@ -4162,13 +4234,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich arbeite bis 12 Uhr, dann habe ich frei."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "datum_nn_1",
+    "lang": "de",
     "lemma": "Datum",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Daten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4176,26 +4251,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Datum",
+      "de": "das Datum",
       "ko": "날짜",
       "en": "date",
-      "es": "fecha",
-      "fr": "date",
-      "it": "data",
-      "pt": "data",
+      "es": "la fecha",
+      "fr": "la date",
+      "it": "la data",
+      "pt": "a data",
       "ja": "日付",
       "zh": "日期",
       "ru": "дата"
     },
     "examples": [
       "Welches Datum haben wir heute?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Daten"
+    ]
   },
   {
     "id": "dauern_v_1",
+    "lang": "de",
     "lemma": "dauern",
     "pos": "Verb",
     "cefr": "A1",
@@ -4203,6 +4276,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich dauere",
+      "pres_du": "du dauerst",
+      "pres_er": "er/sie/es dauert",
+      "praet": "dauerte",
+      "part2": "gedauert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "dauern",
       "ko": "지속되다",
@@ -4217,19 +4298,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie lange dauert der Film?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich dauere",
-      "pres_du": "du dauerst",
-      "pres_er": "er/sie/es dauert",
-      "praet": "dauerte",
-      "part2": "gedauert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "dein_pron_1",
+    "lang": "de",
     "lemma": "dein",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -4251,11 +4324,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist das dein Auto?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "denn_konj_1",
+    "lang": "de",
     "lemma": "denn",
     "pos": "Konjunktion",
     "cefr": "A1",
@@ -4278,11 +4351,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kann nicht kommen, denn ich bin krank."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "der_art_1",
+    "lang": "de",
     "lemma": "der",
     "pos": "Artikel",
     "cefr": "A1",
@@ -4304,41 +4377,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Mann da drüben ist mein Vater."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "disko_nf_1",
+    "lang": "de",
     "lemma": "Disko",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Diskos",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Disko",
+      "de": "die Disko",
       "ko": "디스코",
       "en": "disco",
-      "es": "discoteca",
-      "fr": "discothèque",
-      "it": "discoteca",
-      "pt": "discoteca",
+      "es": "la discoteca",
+      "fr": "la discothèque",
+      "it": "la discoteca",
+      "pt": "a discoteca",
       "ja": "ディスコ",
       "zh": "迪斯科",
       "ru": "дискотека"
     },
     "examples": [
       "Heute Abend gehen wir in die Disko."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Diskos"
+    ]
   },
   {
     "id": "doktor_nm_1",
+    "lang": "de",
     "lemma": "Doktor",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Doktoren",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4346,28 +4423,29 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Doktor",
+      "de": "der Doktor",
       "ko": "의사",
       "en": "doctor",
-      "es": "doctor",
-      "fr": "docteur",
-      "it": "dottore",
-      "pt": "doutor",
+      "es": "el doctor",
+      "fr": "le docteur",
+      "it": "il dottore",
+      "pt": "o doutor",
       "ja": "医者",
       "zh": "医生",
       "ru": "доктор"
     },
     "examples": [
       "Meine Tochter ist krank. Wir gehen zum Doktor."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Doktoren"
+    ]
   },
   {
     "id": "doppelzimmer_nn_1",
+    "lang": "de",
     "lemma": "Doppelzimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Doppelzimmer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4375,54 +4453,53 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Doppelzimmer",
+      "de": "das Doppelzimmer",
       "ko": "더블룸",
       "en": "double room",
-      "es": "habitación doble",
-      "fr": "chambre double",
-      "it": "camera doppia",
-      "pt": "quarto duplo",
+      "es": "la habitación doble",
+      "fr": "la chambre double",
+      "it": "la camera doppia",
+      "pt": "o quarto duplo",
       "ja": "ダブルルーム",
       "zh": "双人房",
       "ru": "двухместный номер"
     },
     "examples": [
       "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Doppelzimmer"
+    ]
   },
   {
     "id": "dorf_nn_1",
+    "lang": "de",
     "lemma": "Dorf",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Dörfer",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Dorf",
+      "de": "das Dorf",
       "ko": "마을",
       "en": "village",
-      "es": "pueblo",
-      "fr": "village",
-      "it": "villaggio",
-      "pt": "aldeia",
+      "es": "el pueblo",
+      "fr": "le village",
+      "it": "il villaggio",
+      "pt": "a aldeia",
       "ja": "村",
       "zh": "村庄",
       "ru": "деревня"
     },
     "examples": [
       "Meine Familie lebt in einem Dorf."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Dörfer"
+    ]
   },
   {
     "id": "dort_adv_1",
+    "lang": "de",
     "lemma": "dort",
     "pos": "Adverb",
     "cefr": "A1",
@@ -4445,11 +4522,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Dort ist unser Haus."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "draussen_adv_1",
+    "lang": "de",
     "lemma": "draußen",
     "pos": "Adverb",
     "cefr": "A1",
@@ -4471,11 +4548,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wollen wir draußen sitzen?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "drucken_v_1",
+    "lang": "de",
     "lemma": "drucken",
     "pos": "Verb",
     "cefr": "A1",
@@ -4484,6 +4561,14 @@ const WORDS_DE_A1 = [
       "work",
       "technology"
     ],
+    "conj": {
+      "pres_ich": "ich drucke",
+      "pres_du": "du druckst",
+      "pres_er": "er/sie/es druckt",
+      "praet": "druckte",
+      "part2": "gedruckt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "drucken",
       "ko": "인쇄하다",
@@ -4498,21 +4583,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte drucke das Formular für mich."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich drucke",
-      "pres_du": "du druckst",
-      "pres_er": "er/sie/es druckt",
-      "praet": "druckte",
-      "part2": "gedruckt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "drucker_nm_1",
+    "lang": "de",
     "lemma": "Drucker",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Drucker",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4520,26 +4600,24 @@ const WORDS_DE_A1 = [
       "technology"
     ],
     "meanings": {
-      "de": "Drucker",
+      "de": "der Drucker",
       "ko": "프린터",
       "en": "printer",
-      "es": "impresora",
-      "fr": "imprimante",
-      "it": "stampante",
-      "pt": "impressora",
+      "es": "la impresora",
+      "fr": "l'imprimante",
+      "it": "la stampante",
+      "pt": "a impressora",
       "ja": "プリンター",
       "zh": "打印机",
       "ru": "принтер"
     },
     "examples": [
       "Mein Drucker ist kaputt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Drucker"
+    ]
   },
   {
     "id": "druecken_v_1",
+    "lang": "de",
     "lemma": "drücken",
     "pos": "Verb",
     "cefr": "A1",
@@ -4548,6 +4626,14 @@ const WORDS_DE_A1 = [
       "technology",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich drücke",
+      "pres_du": "du drückst",
+      "pres_er": "er/sie/es drückt",
+      "praet": "drückte",
+      "part2": "gedrückt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "drücken",
       "ko": "누르다",
@@ -4562,19 +4648,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Drück hier. Dann geht der Computer an."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich drücke",
-      "pres_du": "du drückst",
-      "pres_er": "er/sie/es drückt",
-      "praet": "drückte",
-      "part2": "gedrückt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "durch_prep_1",
+    "lang": "de",
     "lemma": "durch",
     "pos": "Präposition",
     "cefr": "A1",
@@ -4597,13 +4675,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir gehen durch den Park."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "durchsage_nf_1",
+    "lang": "de",
     "lemma": "Durchsage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Durchsagen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4611,26 +4692,24 @@ const WORDS_DE_A1 = [
       "communication"
     ],
     "meanings": {
-      "de": "Durchsage",
+      "de": "die Durchsage",
       "ko": "안내 방송",
       "en": "announcement",
-      "es": "anuncio",
-      "fr": "annonce",
-      "it": "annuncio",
-      "pt": "anúncio",
+      "es": "el anuncio",
+      "fr": "l'annonce",
+      "it": "l'annuncio",
+      "pt": "o anúncio",
       "ja": "アナウンス",
       "zh": "广播通告",
       "ru": "объявление"
     },
     "examples": [
       "Ich habe die Durchsage nicht verstanden."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Durchsagen"
+    ]
   },
   {
     "id": "duerfen_v_1",
+    "lang": "de",
     "lemma": "dürfen",
     "pos": "Verb",
     "cefr": "A1",
@@ -4639,6 +4718,14 @@ const WORDS_DE_A1 = [
       "basic",
       "rules"
     ],
+    "conj": {
+      "pres_ich": "ich darf",
+      "pres_du": "du darfst",
+      "pres_er": "er/sie/es darf",
+      "praet": "durfte",
+      "part2": "gedurft",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "dürfen",
       "ko": "해도 된다",
@@ -4653,47 +4740,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie dürfen hier nicht rauchen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich darf",
-      "pres_du": "du darfst",
-      "pres_er": "er/sie/es darf",
-      "praet": "durfte",
-      "part2": "gedurft",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "durst_nm_1",
+    "lang": "de",
     "lemma": "Durst",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Durst",
+      "de": "der Durst",
       "ko": "갈증",
       "en": "thirst",
-      "es": "sed",
-      "fr": "soif",
-      "it": "sete",
-      "pt": "sede",
+      "es": "la sed",
+      "fr": "la soif",
+      "it": "la sete",
+      "pt": "a sede",
       "ja": "渇き",
       "zh": "渴",
       "ru": "жажда"
     },
     "examples": [
       "Hast du etwas zu trinken? Ich habe großen Durst."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "duschen_v_1",
+    "lang": "de",
     "lemma": "duschen",
     "pos": "Verb",
     "cefr": "A1",
@@ -4702,6 +4781,14 @@ const WORDS_DE_A1 = [
       "daily",
       "hygiene"
     ],
+    "conj": {
+      "pres_ich": "ich dusche",
+      "pres_du": "du duschst",
+      "pres_er": "er/sie/es duscht",
+      "praet": "duschte",
+      "part2": "geduscht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "duschen",
       "ko": "샤워하다",
@@ -4716,21 +4803,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bade nicht so gern, ich dusche lieber."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich dusche",
-      "pres_du": "du duschst",
-      "pres_er": "er/sie/es duscht",
-      "praet": "duschte",
-      "part2": "geduscht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "dusche_nf_1",
+    "lang": "de",
     "lemma": "Dusche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Duschen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -4738,138 +4820,140 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Dusche",
+      "de": "die Dusche",
       "ko": "샤워",
       "en": "shower",
-      "es": "ducha",
-      "fr": "douche",
-      "it": "doccia",
-      "pt": "duche",
+      "es": "la ducha",
+      "fr": "la douche",
+      "it": "la doccia",
+      "pt": "o duche",
       "ja": "シャワー",
       "zh": "淋浴",
       "ru": "душ"
     },
     "examples": [
       "Unsere Wohnung hat nur eine Dusche."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Duschen"
+    ]
   },
   {
     "id": "ecke_nf_1",
+    "lang": "de",
     "lemma": "Ecke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ecken",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ecke",
+      "de": "die Ecke",
       "ko": "모퉁이",
       "en": "corner",
-      "es": "esquina",
-      "fr": "coin",
-      "it": "angolo",
-      "pt": "esquina",
+      "es": "la esquina",
+      "fr": "le coin",
+      "it": "l'angolo",
+      "pt": "a esquina",
       "ja": "角",
       "zh": "角落",
       "ru": "угол"
     },
     "examples": [
       "An der nächsten Ecke links."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Ecken"
+    ]
   },
   {
     "id": "ehefrau_nf_1",
+    "lang": "de",
     "lemma": "Ehefrau",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Ehefrauen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ehefrau",
+      "de": "die Ehefrau",
       "ko": "아내",
       "en": "wife",
-      "es": "esposa",
-      "fr": "épouse",
-      "it": "moglie",
-      "pt": "esposa",
+      "es": "la esposa",
+      "fr": "l'épouse",
+      "it": "la moglie",
+      "pt": "a esposa",
       "ja": "妻",
       "zh": "妻子",
       "ru": "жена"
     },
     "examples": [
       "Das ist meine Ehefrau."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Ehefrauen"
+    ]
   },
   {
     "id": "ehemann_nm_1",
+    "lang": "de",
     "lemma": "Ehemann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Ehemänner",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ehemann",
+      "de": "der Ehemann",
       "ko": "남편",
       "en": "husband",
-      "es": "marido",
-      "fr": "mari",
-      "it": "marito",
-      "pt": "marido",
+      "es": "el marido",
+      "fr": "le mari",
+      "it": "il marito",
+      "pt": "o marido",
       "ja": "夫",
       "zh": "丈夫",
       "ru": "муж"
     },
     "examples": [
       "Das ist mein Ehemann."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Ehemänner"
+    ]
   },
   {
     "id": "ei_nn_1",
+    "lang": "de",
     "lemma": "Ei",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Eier",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ei",
+      "de": "das Ei",
       "ko": "달걀",
       "en": "egg",
-      "es": "huevo",
-      "fr": "œuf",
-      "it": "uovo",
-      "pt": "ovo",
+      "es": "el huevo",
+      "fr": "l'œuf",
+      "it": "l'uovo",
+      "pt": "o ovo",
       "ja": "卵",
       "zh": "鸡蛋",
       "ru": "яйцо"
     },
     "examples": [
       "Möchtest du ein Ei zum Frühstück?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Eier"
+    ]
   },
   {
     "id": "eilig_adj_1",
+    "lang": "de",
     "lemma": "eilig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4892,11 +4976,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hast du es eilig?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ein_art_1",
+    "lang": "de",
     "lemma": "ein",
     "pos": "Artikel",
     "cefr": "A1",
@@ -4918,11 +5002,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich nehme ein Bier."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "einfach_adj_1",
+    "lang": "de",
     "lemma": "einfach",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -4944,39 +5028,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Prüfung ist ganz einfach."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "eingang_nm_1",
+    "lang": "de",
     "lemma": "Eingang",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Eingänge",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Eingang",
+      "de": "der Eingang",
       "ko": "입구",
       "en": "entrance",
-      "es": "entrada",
-      "fr": "entrée",
-      "it": "entrata",
-      "pt": "entrada",
+      "es": "la entrada",
+      "fr": "l'entrée",
+      "it": "l'entrata",
+      "pt": "a entrada",
       "ja": "入り口",
       "zh": "入口",
       "ru": "вход"
     },
     "examples": [
       "Der Eingang ist um die Ecke."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Eingänge"
+    ]
   },
   {
     "id": "einkaufen_v_1",
+    "lang": "de",
     "lemma": "einkaufen",
     "pos": "Verb",
     "cefr": "A1",
@@ -4985,6 +5070,14 @@ const WORDS_DE_A1 = [
       "shopping",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich kaufe ein",
+      "pres_du": "du kaufst ein",
+      "pres_er": "er/sie/es kauft ein",
+      "praet": "kaufte ein",
+      "part2": "eingekauft",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "einkaufen",
       "ko": "장보다",
@@ -4999,19 +5092,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss noch für morgen einkaufen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kaufe ein",
-      "pres_du": "du kaufst ein",
-      "pres_er": "er/sie/es kauft ein",
-      "praet": "kaufte ein",
-      "part2": "eingekauft",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "einladen_v_1",
+    "lang": "de",
     "lemma": "einladen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5019,6 +5104,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich lade ein",
+      "pres_du": "du lädst ein",
+      "pres_er": "er/sie/es lädt ein",
+      "praet": "lud ein",
+      "part2": "eingeladen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "einladen",
       "ko": "초대하다",
@@ -5033,47 +5126,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Darf ich Sie zu einem Kaffee einladen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lade ein",
-      "pres_du": "du lädst ein",
-      "pres_er": "er/sie/es lädt ein",
-      "praet": "lud ein",
-      "part2": "eingeladen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "einladung_nf_1",
+    "lang": "de",
     "lemma": "Einladung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Einladungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Einladung",
+      "de": "die Einladung",
       "ko": "초대",
       "en": "invitation",
-      "es": "invitación",
-      "fr": "invitation",
-      "it": "invito",
-      "pt": "convite",
+      "es": "la invitación",
+      "fr": "l'invitation",
+      "it": "l'invito",
+      "pt": "o convite",
       "ja": "招待",
       "zh": "邀请",
       "ru": "приглашение"
     },
     "examples": [
       "Danke für die Einladung!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Einladungen"
+    ]
   },
   {
     "id": "einmal_adv_1",
+    "lang": "de",
     "lemma": "einmal",
     "pos": "Adverb",
     "cefr": "A1",
@@ -5096,11 +5182,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Diese Prüfung mache ich nicht noch einmal."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "einsteigen_v_1",
+    "lang": "de",
     "lemma": "einsteigen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5108,6 +5194,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich steige ein",
+      "pres_du": "du steigst ein",
+      "pres_er": "er/sie/es steigt ein",
+      "praet": "stieg ein",
+      "part2": "eingestiegen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "einsteigen",
       "ko": "승차하다",
@@ -5122,49 +5216,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Schnell, steig ein, der Zug fährt gleich."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich steige ein",
-      "pres_du": "du steigst ein",
-      "pres_er": "er/sie/es steigt ein",
-      "praet": "stieg ein",
-      "part2": "eingestiegen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "eintritt_nm_1",
+    "lang": "de",
     "lemma": "Eintritt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Eintritte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Eintritt",
+      "de": "der Eintritt",
       "ko": "입장료",
       "en": "admission",
-      "es": "entrada",
-      "fr": "entrée",
-      "it": "ingresso",
-      "pt": "entrada",
+      "es": "la entrada",
+      "fr": "l'entrée",
+      "it": "l'ingresso",
+      "pt": "a entrada",
       "ja": "入場料",
       "zh": "入场费",
       "ru": "вход"
     },
     "examples": [
       "Der Preis für den Eintritt ist 5 Euro."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Eintritte"
+    ]
   },
   {
     "id": "einzelzimmer_nn_1",
+    "lang": "de",
     "lemma": "Einzelzimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Einzelzimmer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5172,84 +5262,86 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Einzelzimmer",
+      "de": "das Einzelzimmer",
       "ko": "싱글룸",
       "en": "single room",
-      "es": "habitación individual",
-      "fr": "chambre simple",
-      "it": "camera singola",
-      "pt": "quarto individual",
+      "es": "la habitación individual",
+      "fr": "la chambre simple",
+      "it": "la camera singola",
+      "pt": "o quarto individual",
       "ja": "シングルルーム",
       "zh": "单人间",
       "ru": "одноместный номер"
     },
     "examples": [
       "Haben Sie noch ein Einzelzimmer?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Einzelzimmer"
+    ]
   },
   {
     "id": "eltern_n_1",
+    "lang": "de",
     "lemma": "Eltern",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Eltern",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Eltern",
+      "de": "die Eltern",
       "ko": "부모",
       "en": "parents",
-      "es": "padres",
-      "fr": "parents",
-      "it": "genitori",
-      "pt": "pais",
+      "es": "los padres",
+      "fr": "les parents",
+      "it": "i genitori",
+      "pt": "os pais",
       "ja": "両親",
       "zh": "父母",
       "ru": "родители"
     },
     "examples": [
       "Meine Eltern leben in Spanien."
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Eltern"
+    ]
   },
   {
     "id": "e_mail_nf_1",
+    "lang": "de",
     "lemma": "E-Mail",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "E-Mails",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "E-Mail",
+      "de": "die E-Mail",
       "ko": "이메일",
       "en": "email",
-      "es": "correo electrónico",
-      "fr": "e-mail",
-      "it": "e-mail",
-      "pt": "e-mail",
+      "es": "el correo electrónico",
+      "fr": "l'e-mail",
+      "it": "l'e-mail",
+      "pt": "o e-mail",
       "ja": "電子メール",
       "zh": "电子邮件",
       "ru": "электронная почта"
     },
     "examples": [
       "Ich habe Ihre E-Mail nicht bekommen."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "E-Mails"
+    ]
   },
   {
     "id": "empfaenger_nm_1",
+    "lang": "de",
     "lemma": "Empfänger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Empfänger",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5257,26 +5349,24 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Empfänger",
+      "de": "der Empfänger",
       "ko": "수신인",
       "en": "recipient",
-      "es": "destinatario",
-      "fr": "destinataire",
-      "it": "destinatario",
-      "pt": "destinatário",
+      "es": "el destinatario",
+      "fr": "le destinataire",
+      "it": "il destinatario",
+      "pt": "o destinatário",
       "ja": "受取人",
       "zh": "收件人",
       "ru": "получатель"
     },
     "examples": [
       "Auf dem Brief steht dein Name, also bist du der Empfänger."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Empfänger"
+    ]
   },
   {
     "id": "empfehlen_v_1",
+    "lang": "de",
     "lemma": "empfehlen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5285,6 +5375,14 @@ const WORDS_DE_A1 = [
       "daily",
       "shopping"
     ],
+    "conj": {
+      "pres_ich": "ich empfehle",
+      "pres_du": "du empfiehlst",
+      "pres_er": "er/sie/es empfiehlt",
+      "praet": "empfahl",
+      "part2": "empfohlen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "empfehlen",
       "ko": "추천하다",
@@ -5299,19 +5397,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Welchen Wein können Sie mir empfehlen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich empfehle",
-      "pres_du": "du empfiehlst",
-      "pres_er": "er/sie/es empfiehlt",
-      "praet": "empfahl",
-      "part2": "empfohlen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "enden_v_1",
+    "lang": "de",
     "lemma": "enden",
     "pos": "Verb",
     "cefr": "A1",
@@ -5319,6 +5409,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich ende",
+      "pres_du": "du endest",
+      "pres_er": "er/sie/es endet",
+      "praet": "endete",
+      "part2": "geendet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "enden",
       "ko": "끝나다",
@@ -5333,47 +5431,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Straße endet hier."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich ende",
-      "pres_du": "du endest",
-      "pres_er": "er/sie/es endet",
-      "praet": "endete",
-      "part2": "geendet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ende_nn_1",
+    "lang": "de",
     "lemma": "Ende",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Enden",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ende",
+      "de": "das Ende",
       "ko": "끝",
       "en": "end",
-      "es": "fin",
-      "fr": "fin",
-      "it": "fine",
-      "pt": "fim",
+      "es": "el fin",
+      "fr": "la fin",
+      "it": "la fine",
+      "pt": "o fim",
       "ja": "終わり",
       "zh": "末尾",
       "ru": "конец"
     },
     "examples": [
       "Sie wohnt am Ende der Straße."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Enden"
+    ]
   },
   {
     "id": "entschuldigen_v_1",
+    "lang": "de",
     "lemma": "entschuldigen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5381,6 +5472,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich entschuldige",
+      "pres_du": "du entschuldigst",
+      "pres_er": "er/sie/es entschuldigt",
+      "praet": "entschuldigte",
+      "part2": "entschuldigt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "entschuldigen",
       "ko": "사과하다",
@@ -5395,47 +5494,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Entschuldigen Sie bitte!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich entschuldige",
-      "pres_du": "du entschuldigst",
-      "pres_er": "er/sie/es entschuldigt",
-      "praet": "entschuldigte",
-      "part2": "entschuldigt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "entschuldigung_nf_1",
+    "lang": "de",
     "lemma": "Entschuldigung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Entschuldigungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Entschuldigung",
+      "de": "die Entschuldigung",
       "ko": "실례합니다",
       "en": "excuse me",
-      "es": "perdón",
-      "fr": "pardon",
-      "it": "scusa",
-      "pt": "desculpa",
+      "es": "el perdón",
+      "fr": "le pardon",
+      "it": "la scusa",
+      "pt": "a desculpa",
       "ja": "すみません",
       "zh": "抱歉",
       "ru": "извинение"
     },
     "examples": [
       "Entschuldigung! - Bitte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Entschuldigungen"
+    ]
   },
   {
     "id": "er_pron_1",
+    "lang": "de",
     "lemma": "er",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -5457,13 +5549,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er heißt Ali."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ergebnis_nn_1",
+    "lang": "de",
     "lemma": "Ergebnis",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Ergebnisse",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5471,26 +5566,24 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Ergebnis",
+      "de": "das Ergebnis",
       "ko": "결과",
       "en": "result",
-      "es": "resultado",
-      "fr": "résultat",
-      "it": "risultato",
-      "pt": "resultado",
+      "es": "el resultado",
+      "fr": "le résultat",
+      "it": "il risultato",
+      "pt": "o resultado",
       "ja": "結果",
       "zh": "结果",
       "ru": "результат"
     },
     "examples": [
       "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Ergebnisse"
+    ]
   },
   {
     "id": "erklaeren_v_1",
+    "lang": "de",
     "lemma": "erklären",
     "pos": "Verb",
     "cefr": "A1",
@@ -5498,6 +5591,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich erkläre",
+      "pres_du": "du erklärst",
+      "pres_er": "er/sie/es erklärt",
+      "praet": "erklärte",
+      "part2": "erklärt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "erklären",
       "ko": "설명하다",
@@ -5512,19 +5613,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kannst du mir das erklären?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich erkläre",
-      "pres_du": "du erklärst",
-      "pres_er": "er/sie/es erklärt",
-      "praet": "erklärte",
-      "part2": "erklärt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "erlauben_v_1",
+    "lang": "de",
     "lemma": "erlauben",
     "pos": "Verb",
     "cefr": "A1",
@@ -5533,6 +5626,14 @@ const WORDS_DE_A1 = [
       "rules",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich erlaube",
+      "pres_du": "du erlaubst",
+      "pres_er": "er/sie/es erlaubt",
+      "praet": "erlaubte",
+      "part2": "erlaubt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "erlauben",
       "ko": "허락하다",
@@ -5547,47 +5648,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Rauchen ist hier nicht erlaubt."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich erlaube",
-      "pres_du": "du erlaubst",
-      "pres_er": "er/sie/es erlaubt",
-      "praet": "erlaubte",
-      "part2": "erlaubt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "erwachsene_nm_1",
+    "lang": "de",
     "lemma": "Erwachsene",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Erwachsene",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Erwachsene",
+      "de": "der Erwachsene",
       "ko": "성인",
       "en": "adult",
-      "es": "adulto",
-      "fr": "adulte",
-      "it": "adulto",
-      "pt": "adulto",
+      "es": "el adulto",
+      "fr": "l'adulte",
+      "it": "l'adulto",
+      "pt": "o adulto",
       "ja": "大人",
       "zh": "成年人",
       "ru": "взрослый"
     },
     "examples": [
       "Dieser Film ist nur für Erwachsene."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Erwachsene"
+    ]
   },
   {
     "id": "erzaehlen_v_1",
+    "lang": "de",
     "lemma": "erzählen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5595,6 +5689,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich erzähle",
+      "pres_du": "du erzählst",
+      "pres_er": "er/sie/es erzählt",
+      "praet": "erzählte",
+      "part2": "erzählt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "erzählen",
       "ko": "이야기하다",
@@ -5609,19 +5711,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir müssen euch etwas erzählen!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich erzähle",
-      "pres_du": "du erzählst",
-      "pres_er": "er/sie/es erzählt",
-      "praet": "erzählte",
-      "part2": "erzählt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "es_pron_1",
+    "lang": "de",
     "lemma": "es",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -5643,11 +5737,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es regnet."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "essen_v_1",
+    "lang": "de",
     "lemma": "essen",
     "pos": "Verb",
     "cefr": "A1",
@@ -5656,6 +5750,14 @@ const WORDS_DE_A1 = [
       "food",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich esse",
+      "pres_du": "du isst",
+      "pres_er": "er/sie/es isst",
+      "praet": "aß",
+      "part2": "gegessen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "essen",
       "ko": "먹다",
@@ -5670,21 +5772,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Was gibt es zu essen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich esse",
-      "pres_du": "du isst",
-      "pres_er": "er/sie/es isst",
-      "praet": "aß",
-      "part2": "gegessen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "essen_nn_1",
+    "lang": "de",
     "lemma": "Essen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5692,26 +5788,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Essen",
+      "de": "das Essen",
       "ko": "음식",
       "en": "food",
-      "es": "comida",
-      "fr": "repas",
-      "it": "cibo",
-      "pt": "comida",
+      "es": "la comida",
+      "fr": "le repas",
+      "it": "il cibo",
+      "pt": "a comida",
       "ja": "食事",
       "zh": "饭菜",
       "ru": "еда"
     },
     "examples": [
       "Das Essen ist heute sehr gut."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "euer_pron_1",
+    "lang": "de",
     "lemma": "euer",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -5733,11 +5827,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Euer Kurs beginnt heute."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "fahren_v_1",
+    "lang": "de",
     "lemma": "fahren",
     "pos": "Verb",
     "cefr": "A1",
@@ -5746,6 +5840,14 @@ const WORDS_DE_A1 = [
       "travel",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich fahre",
+      "pres_du": "du fährst",
+      "pres_er": "er/sie/es fährt",
+      "praet": "fuhr",
+      "part2": "gefahren",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "fahren",
       "ko": "운전하다",
@@ -5760,21 +5862,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich fahre mit dem Auto zur Arbeit."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fahre",
-      "pres_du": "du fährst",
-      "pres_er": "er/sie/es fährt",
-      "praet": "fuhr",
-      "part2": "gefahren",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "fahrer_nm_1",
+    "lang": "de",
     "lemma": "Fahrer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Fahrer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5782,56 +5879,58 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Fahrer",
+      "de": "der Fahrer",
       "ko": "운전사",
       "en": "driver",
-      "es": "conductor",
-      "fr": "conducteur",
-      "it": "autista",
-      "pt": "motorista",
+      "es": "el conductor",
+      "fr": "le conducteur",
+      "it": "l'autista",
+      "pt": "o motorista",
       "ja": "運転手",
       "zh": "司机",
       "ru": "водитель"
     },
     "examples": [
       "Bitte nicht mit dem Fahrer sprechen!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Fahrer"
+    ]
   },
   {
     "id": "fahrkarte_nf_1",
+    "lang": "de",
     "lemma": "Fahrkarte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Fahrkarten",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Fahrkarte",
+      "de": "die Fahrkarte",
       "ko": "차표",
       "en": "ticket",
-      "es": "billete",
-      "fr": "billet",
-      "it": "biglietto",
-      "pt": "bilhete",
+      "es": "el billete",
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pt": "o bilhete",
       "ja": "乗車券",
       "zh": "车票",
       "ru": "билет"
     },
     "examples": [
       "Hast du schon eine Fahrkarte?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Fahrkarten"
+    ]
   },
   {
     "id": "fahrrad_nn_1",
+    "lang": "de",
     "lemma": "Fahrrad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Fahrräder",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5839,26 +5938,24 @@ const WORDS_DE_A1 = [
       "leisure"
     ],
     "meanings": {
-      "de": "Fahrrad",
+      "de": "das Fahrrad",
       "ko": "자전거",
       "en": "bicycle",
-      "es": "bicicleta",
-      "fr": "vélo",
-      "it": "bicicletta",
-      "pt": "bicicleta",
+      "es": "la bicicleta",
+      "fr": "le vélo",
+      "it": "la bicicletta",
+      "pt": "a bicicleta",
       "ja": "自転車",
       "zh": "自行车",
       "ru": "велосипед"
     },
     "examples": [
       "Fährst du mit dem Fahrrad oder mit dem Auto?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Fahrräder"
+    ]
   },
   {
     "id": "falsch_adj_1",
+    "lang": "de",
     "lemma": "falsch",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -5881,97 +5978,103 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist falsch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "familie_nf_1",
+    "lang": "de",
     "lemma": "Familie",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Familien",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Familie",
+      "de": "die Familie",
       "ko": "가족",
       "en": "family",
-      "es": "familia",
-      "fr": "famille",
-      "it": "famiglia",
-      "pt": "família",
+      "es": "la familia",
+      "fr": "la famille",
+      "it": "la famiglia",
+      "pt": "a família",
       "ja": "家族",
       "zh": "家庭",
       "ru": "семья"
     },
     "examples": [
       "Meine Familie lebt in Spanien."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Familien"
+    ]
   },
   {
     "id": "familienname_nm_1",
+    "lang": "de",
     "lemma": "Familienname",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Familiennamen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Familienname",
+      "de": "der Familienname",
       "ko": "성",
       "en": "surname",
-      "es": "apellido",
-      "fr": "nom de famille",
-      "it": "cognome",
-      "pt": "sobrenome",
+      "es": "el apellido",
+      "fr": "le nom de famille",
+      "it": "il cognome",
+      "pt": "o sobrenome",
       "ja": "名字",
       "zh": "姓",
       "ru": "фамилия"
     },
     "examples": [
       "Mein Familienname ist Müller."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Familiennamen"
+    ]
   },
   {
     "id": "familienstand_nm_1",
+    "lang": "de",
     "lemma": "Familienstand",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Familienstände",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Familienstand",
+      "de": "der Familienstand",
       "ko": "혼인 상태",
       "en": "marital status",
-      "es": "estado civil",
-      "fr": "état civil",
-      "it": "stato civile",
-      "pt": "estado civil",
+      "es": "el estado civil",
+      "fr": "l'état civil",
+      "it": "lo stato civile",
+      "pt": "o estado civil",
       "ja": "家族状況",
       "zh": "婚姻状况",
       "ru": "семейное положение"
     },
     "examples": [
       "Bei „Familienstand“ musst du „ledig“ ankreuzen."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Familienstände"
+    ]
   },
   {
     "id": "farbe_nf_1",
+    "lang": "de",
     "lemma": "Farbe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Farben",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -5979,28 +6082,29 @@ const WORDS_DE_A1 = [
       "description"
     ],
     "meanings": {
-      "de": "Farbe",
+      "de": "die Farbe",
       "ko": "색깔",
       "en": "color",
-      "es": "color",
-      "fr": "couleur",
-      "it": "colore",
-      "pt": "cor",
+      "es": "el color",
+      "fr": "la couleur",
+      "it": "il colore",
+      "pt": "a cor",
       "ja": "色",
       "zh": "颜色",
       "ru": "цвет"
     },
     "examples": [
       "Die Farbe gefällt mir gut."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Farben"
+    ]
   },
   {
     "id": "fax_nn_1",
+    "lang": "de",
     "lemma": "Fax",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Faxe",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6008,28 +6112,28 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Fax",
+      "de": "das Fax",
       "ko": "팩스",
       "en": "fax",
-      "es": "fax",
-      "fr": "fax",
-      "it": "fax",
-      "pt": "fax",
+      "es": "el fax",
+      "fr": "le fax",
+      "it": "il fax",
+      "pt": "o fax",
       "ja": "ファックス",
       "zh": "传真",
       "ru": "факс"
     },
     "examples": [
       "Schicken Sie uns einfach ein Fax!"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Faxe"
+    ]
   },
   {
     "id": "feierabend_nm_1",
+    "lang": "de",
     "lemma": "Feierabend",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6037,54 +6141,53 @@ const WORDS_DE_A1 = [
       "time"
     ],
     "meanings": {
-      "de": "Feierabend",
+      "de": "der Feierabend",
       "ko": "퇴근",
       "en": "end of work",
-      "es": "hora de salida",
-      "fr": "fin de la journée de travail",
-      "it": "fine del lavoro",
-      "pt": "fim do expediente",
+      "es": "la hora de salida",
+      "fr": "la fin de la journée de travail",
+      "it": "la fine del lavoro",
+      "pt": "o fim do expediente",
       "ja": "仕事終わり",
       "zh": "下班",
       "ru": "конец рабочего дня"
     },
     "examples": [
       "Ich habe um 17 Uhr Feierabend."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "feiertag_nm_1",
+    "lang": "de",
     "lemma": "Feiertag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Feiertage",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Feiertag",
+      "de": "der Feiertag",
       "ko": "휴일",
       "en": "public holiday",
-      "es": "dia festivo",
-      "fr": "jour férié",
-      "it": "giorno festivo",
-      "pt": "feriado",
+      "es": "el día festivo",
+      "fr": "le jour férié",
+      "it": "il giorno festivo",
+      "pt": "o feriado",
       "ja": "祝日",
       "zh": "节日",
       "ru": "праздник"
     },
     "examples": [
       "Am Montag ist Feiertag."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Feiertage"
+    ]
   },
   {
     "id": "feiern_v_1",
+    "lang": "de",
     "lemma": "feiern",
     "pos": "Verb",
     "cefr": "A1",
@@ -6092,6 +6195,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich feiere",
+      "pres_du": "du feierst",
+      "pres_er": "er/sie/es feiert",
+      "praet": "feierte",
+      "part2": "gefeiert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "feiern",
       "ko": "축하하다",
@@ -6106,19 +6217,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir feiern heute meinen Geburtstag."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich feiere",
-      "pres_du": "du feierst",
-      "pres_er": "er/sie/es feiert",
-      "praet": "feierte",
-      "part2": "gefeiert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "fehlen_v_1",
+    "lang": "de",
     "lemma": "fehlen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6127,6 +6230,14 @@ const WORDS_DE_A1 = [
       "health",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich fehle",
+      "pres_du": "du fehlst",
+      "pres_er": "er/sie/es fehlt",
+      "praet": "fehlte",
+      "part2": "gefehlt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "fehlen",
       "ko": "없다",
@@ -6141,21 +6252,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Herr Müller ist nicht da, er fehlt schon seit drei Tagen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fehle",
-      "pres_du": "du fehlst",
-      "pres_er": "er/sie/es fehlt",
-      "praet": "fehlte",
-      "part2": "gefehlt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "fehler_nm_1",
+    "lang": "de",
     "lemma": "Fehler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Fehler",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6163,26 +6269,24 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Fehler",
+      "de": "der Fehler",
       "ko": "실수",
       "en": "mistake",
-      "es": "error",
-      "fr": "faute",
-      "it": "errore",
-      "pt": "erro",
+      "es": "el error",
+      "fr": "la faute",
+      "it": "l'errore",
+      "pt": "o erro",
       "ja": "間違い",
       "zh": "错误",
       "ru": "ошибка"
     },
     "examples": [
       "Diesen Fehler mache ich immer."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Fehler"
+    ]
   },
   {
     "id": "fernsehen_v_1",
+    "lang": "de",
     "lemma": "fernsehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6190,6 +6294,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich sehe fern",
+      "pres_du": "du siehst fern",
+      "pres_er": "er/sie/es sieht fern",
+      "praet": "sah fern",
+      "part2": "ferngesehen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "fernsehen",
       "ko": "TV를 보다",
@@ -6204,19 +6316,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wollen wir heute Abend mal fernsehen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich sehe fern",
-      "pres_du": "du siehst fern",
-      "pres_er": "er/sie/es sieht fern",
-      "praet": "sah fern",
-      "part2": "ferngesehen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "fertig_adj_1",
+    "lang": "de",
     "lemma": "fertig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6238,93 +6342,96 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bist du fertig?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "feuer_nn_1",
+    "lang": "de",
     "lemma": "Feuer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Feuer",
+      "de": "das Feuer",
       "ko": "불",
       "en": "fire",
-      "es": "fuego",
-      "fr": "feu",
-      "it": "fuoco",
-      "pt": "fogo",
+      "es": "el fuego",
+      "fr": "le feu",
+      "it": "il fuoco",
+      "pt": "o fogo",
       "ja": "火",
       "zh": "火",
       "ru": "огонь"
     },
     "examples": [
       "Haben Sie Feuer?"
-    ],
-    "meta": {},
-    "gender": "das"
+    ]
   },
   {
     "id": "fieber_nn_1",
+    "lang": "de",
     "lemma": "Fieber",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Fieber",
+      "de": "das Fieber",
       "ko": "열",
       "en": "fever",
-      "es": "fiebre",
-      "fr": "fièvre",
-      "it": "febbre",
-      "pt": "febre",
+      "es": "la fiebre",
+      "fr": "la fièvre",
+      "it": "la febbre",
+      "pt": "a febre",
       "ja": "熱",
       "zh": "发烧",
       "ru": "температура"
     },
     "examples": [
       "Mein Mann hat noch immer Fieber."
-    ],
-    "meta": {},
-    "gender": "das"
+    ]
   },
   {
     "id": "film_nm_1",
+    "lang": "de",
     "lemma": "Film",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Filme",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Film",
+      "de": "der Film",
       "ko": "영화",
       "en": "film",
-      "es": "película",
-      "fr": "film",
-      "it": "film",
-      "pt": "filme",
+      "es": "la película",
+      "fr": "le film",
+      "it": "il film",
+      "pt": "o filme",
       "ja": "映画",
       "zh": "电影",
       "ru": "фильм"
     },
     "examples": [
       "Ich möchte gern diesen Film sehen."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Filme"
+    ]
   },
   {
     "id": "finden_v_1",
+    "lang": "de",
     "lemma": "finden",
     "pos": "Verb",
     "cefr": "A1",
@@ -6332,6 +6439,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich finde",
+      "pres_du": "du findest",
+      "pres_er": "er/sie/es findet",
+      "praet": "fand",
+      "part2": "gefunden",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "finden",
       "ko": "찾다",
@@ -6346,130 +6461,126 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir müssen den Schlüssel finden."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich finde",
-      "pres_du": "du findest",
-      "pres_er": "er/sie/es findet",
-      "praet": "fand",
-      "part2": "gefunden",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "firma_nf_1",
+    "lang": "de",
     "lemma": "Firma",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Firmen",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Firma",
+      "de": "die Firma",
       "ko": "회사",
       "en": "company",
-      "es": "empresa",
-      "fr": "entreprise",
-      "it": "ditta",
-      "pt": "empresa",
+      "es": "la empresa",
+      "fr": "l'entreprise",
+      "it": "la ditta",
+      "pt": "a empresa",
       "ja": "会社",
       "zh": "公司",
       "ru": "фирма"
     },
     "examples": [
       "Er arbeitet jetzt bei einer anderen Firma."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Firmen"
+    ]
   },
   {
     "id": "fisch_nm_1",
+    "lang": "de",
     "lemma": "Fisch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Fische",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Fisch",
+      "de": "der Fisch",
       "ko": "생선",
       "en": "fish",
-      "es": "pescado",
-      "fr": "poisson",
-      "it": "pesce",
-      "pt": "peixe",
+      "es": "el pescado",
+      "fr": "le poisson",
+      "it": "il pesce",
+      "pt": "o peixe",
       "ja": "魚",
       "zh": "鱼",
       "ru": "рыба"
     },
     "examples": [
       "Ich esse gern Fisch."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Fische"
+    ]
   },
   {
     "id": "flasche_nf_1",
+    "lang": "de",
     "lemma": "Flasche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Flaschen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Flasche",
+      "de": "die Flasche",
       "ko": "병",
       "en": "bottle",
-      "es": "botella",
-      "fr": "bouteille",
-      "it": "bottiglia",
-      "pt": "garrafa",
+      "es": "la botella",
+      "fr": "la bouteille",
+      "it": "la bottiglia",
+      "pt": "a garrafa",
       "ja": "瓶",
       "zh": "瓶子",
       "ru": "бутылка"
     },
     "examples": [
       "Eine Flasche Bier, bitte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Flaschen"
+    ]
   },
   {
     "id": "fleisch_nn_1",
+    "lang": "de",
     "lemma": "Fleisch",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Fleisch",
+      "de": "das Fleisch",
       "ko": "고기",
       "en": "meat",
-      "es": "carne",
-      "fr": "viande",
-      "it": "carne",
-      "pt": "carne",
+      "es": "la carne",
+      "fr": "la viande",
+      "it": "la carne",
+      "pt": "a carne",
       "ja": "肉",
       "zh": "肉",
       "ru": "мясо"
     },
     "examples": [
       "Fleisch mag ich nicht."
-    ],
-    "meta": {},
-    "gender": "das"
+    ]
   },
   {
     "id": "fliegen_v_1",
+    "lang": "de",
     "lemma": "fliegen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6477,6 +6588,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich fliege",
+      "pres_du": "du fliegst",
+      "pres_er": "er/sie/es fliegt",
+      "praet": "flog",
+      "part2": "geflogen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "fliegen",
       "ko": "날다",
@@ -6491,19 +6610,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich fliege nicht gern."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fliege",
-      "pres_du": "du fliegst",
-      "pres_er": "er/sie/es fliegt",
-      "praet": "flog",
-      "part2": "geflogen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "abfliegen_v_1",
+    "lang": "de",
     "lemma": "abfliegen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6511,6 +6622,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich fliege ab",
+      "pres_du": "du fliegst ab",
+      "pres_er": "er/sie/es fliegt ab",
+      "praet": "flog ab",
+      "part2": "abgeflogen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "abfliegen",
       "ko": "이륙하다",
@@ -6525,105 +6644,103 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wann fliegst du ab?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich fliege ab",
-      "pres_du": "du fliegst ab",
-      "pres_er": "er/sie/es fliegt ab",
-      "praet": "flog ab",
-      "part2": "abgeflogen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "abflug_nm_1",
+    "lang": "de",
     "lemma": "Abflug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Abflüge",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Abflug",
+      "de": "der Abflug",
       "ko": "출발",
       "en": "departure",
-      "es": "salida",
-      "fr": "décollage",
-      "it": "partenza",
-      "pt": "partida",
+      "es": "la salida",
+      "fr": "le décollage",
+      "it": "la partenza",
+      "pt": "a partida",
       "ja": "離陸",
       "zh": "起飞",
       "ru": "вылет"
     },
     "examples": [
       "Der Abflug ist um 11.20 Uhr."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Abflüge"
+    ]
   },
   {
     "id": "flughafen_nm_1",
+    "lang": "de",
     "lemma": "Flughafen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Flughäfen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Flughafen",
+      "de": "der Flughafen",
       "ko": "공항",
       "en": "airport",
-      "es": "aeropuerto",
-      "fr": "aéroport",
-      "it": "aeroporto",
-      "pt": "aeroporto",
+      "es": "el aeropuerto",
+      "fr": "l'aéroport",
+      "it": "l'aeroporto",
+      "pt": "o aeroporto",
       "ja": "空港",
       "zh": "机场",
       "ru": "аэропорт"
     },
     "examples": [
       "Kannst du mich zum Flughafen bringen?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Flughäfen"
+    ]
   },
   {
     "id": "flugzeug_nn_1",
+    "lang": "de",
     "lemma": "Flugzeug",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Flugzeuge",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Flugzeug",
+      "de": "das Flugzeug",
       "ko": "비행기",
       "en": "airplane",
-      "es": "avión",
-      "fr": "avion",
-      "it": "aereo",
-      "pt": "avião",
+      "es": "el avión",
+      "fr": "l'avion",
+      "it": "l'aereo",
+      "pt": "o avião",
       "ja": "飛行機",
       "zh": "飞机",
       "ru": "самолет"
     },
     "examples": [
       "Das Flugzeug aus Berlin kommt heute später an."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Flugzeuge"
+    ]
   },
   {
     "id": "formular_nn_1",
+    "lang": "de",
     "lemma": "Formular",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Formulare",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6631,54 +6748,53 @@ const WORDS_DE_A1 = [
       "bureaucracy"
     ],
     "meanings": {
-      "de": "Formular",
+      "de": "das Formular",
       "ko": "신청서",
       "en": "form",
-      "es": "formulario",
-      "fr": "formulaire",
-      "it": "modulo",
-      "pt": "formulário",
+      "es": "el formulario",
+      "fr": "le formulaire",
+      "it": "il modulo",
+      "pt": "o formulário",
       "ja": "用紙",
       "zh": "表格",
       "ru": "бланк"
     },
     "examples": [
       "Sie müssen dieses Formular ausfüllen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Formulare"
+    ]
   },
   {
     "id": "foto_nn_1",
+    "lang": "de",
     "lemma": "Foto",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Fotos",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Foto",
+      "de": "das Foto",
       "ko": "사진",
       "en": "photo",
-      "es": "foto",
-      "fr": "photo",
-      "it": "foto",
-      "pt": "foto",
+      "es": "la foto",
+      "fr": "la photo",
+      "it": "la foto",
+      "pt": "a foto",
       "ja": "写真",
       "zh": "照片",
       "ru": "фото"
     },
     "examples": [
       "Darf ich ein Foto machen?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Fotos"
+    ]
   },
   {
     "id": "fragen_v_1",
+    "lang": "de",
     "lemma": "fragen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6687,6 +6803,14 @@ const WORDS_DE_A1 = [
       "communication",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich frage",
+      "pres_du": "du fragst",
+      "pres_er": "er/sie/es fragt",
+      "praet": "fragte",
+      "part2": "gefragt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "fragen",
       "ko": "질문하다",
@@ -6701,49 +6825,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er möchte Sie etwas fragen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich frage",
-      "pres_du": "du fragst",
-      "pres_er": "er/sie/es fragt",
-      "praet": "fragte",
-      "part2": "gefragt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "frage_nf_1",
+    "lang": "de",
     "lemma": "Frage",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Fragen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Frage",
+      "de": "die Frage",
       "ko": "질문",
       "en": "question",
-      "es": "pregunta",
-      "fr": "question",
-      "it": "domanda",
-      "pt": "pergunta",
+      "es": "la pregunta",
+      "fr": "la question",
+      "it": "la domanda",
+      "pt": "a pergunta",
       "ja": "質問",
       "zh": "问题",
       "ru": "вопрос"
     },
     "examples": [
       "Ich habe eine Frage."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Fragen"
+    ]
   },
   {
     "id": "frau_nf_1",
+    "lang": "de",
     "lemma": "Frau",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Frauen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -6751,26 +6871,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Frau",
+      "de": "die Frau",
       "ko": "여자",
       "en": "woman",
-      "es": "mujer",
-      "fr": "femme",
-      "it": "donna",
-      "pt": "mulher",
+      "es": "la mujer",
+      "fr": "la femme",
+      "it": "la donna",
+      "pt": "a mulher",
       "ja": "女性",
       "zh": "女士",
       "ru": "женщина"
     },
     "examples": [
       "Das ist Frau Becker."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Frauen"
+    ]
   },
   {
     "id": "frei_adj_1",
+    "lang": "de",
     "lemma": "frei",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6792,38 +6910,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist der Platz noch frei?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "freizeit_nf_1",
+    "lang": "de",
     "lemma": "Freizeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Freizeit",
+      "de": "die Freizeit",
       "ko": "여가 시간",
       "en": "free time",
-      "es": "tiempo libre",
-      "fr": "loisirs",
-      "it": "tempo libero",
-      "pt": "tempo livre",
+      "es": "el tiempo libre",
+      "fr": "les loisirs",
+      "it": "il tempo libero",
+      "pt": "o tempo livre",
       "ja": "余暇",
       "zh": "业余时间",
       "ru": "свободное время"
     },
     "examples": [
       "In meiner Freizeit spiele ich oft Fußball."
-    ],
-    "meta": {},
-    "gender": "die"
+    ]
   },
   {
     "id": "fremd_adj_1",
+    "lang": "de",
     "lemma": "fremd",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -6846,11 +6965,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das weiß ich nicht; ich bin fremd hier."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "freuen_v_1",
+    "lang": "de",
     "lemma": "freuen",
     "pos": "Verb",
     "cefr": "A1",
@@ -6859,6 +6978,14 @@ const WORDS_DE_A1 = [
       "feeling",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich freue mich",
+      "pres_du": "du freust dich",
+      "pres_er": "er/sie/es freut sich",
+      "praet": "freute",
+      "part2": "gefreut",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "freuen",
       "ko": "기뻐하다",
@@ -6873,75 +7000,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich freue mich auf den Urlaub."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich freue mich",
-      "pres_du": "du freust dich",
-      "pres_er": "er/sie/es freut sich",
-      "praet": "freute",
-      "part2": "gefreut",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "freund_nm_1",
+    "lang": "de",
     "lemma": "Freund",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Freunde",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Freund",
+      "de": "der Freund",
       "ko": "친구",
       "en": "friend",
-      "es": "amigo",
-      "fr": "ami",
-      "it": "amico",
-      "pt": "amigo",
+      "es": "el amigo",
+      "fr": "l'ami",
+      "it": "l'amico",
+      "pt": "o amigo",
       "ja": "男友達",
       "zh": "朋友",
       "ru": "друг"
     },
     "examples": [
       "Das ist ein Freund von mir."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Freunde"
+    ]
   },
   {
     "id": "freundin_nf_1",
+    "lang": "de",
     "lemma": "Freundin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Freundinnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Freundin",
+      "de": "die Freundin",
       "ko": "여자 친구",
       "en": "friend",
-      "es": "amiga",
-      "fr": "amie",
-      "it": "amica",
-      "pt": "amiga",
+      "es": "la amiga",
+      "fr": "l'amie",
+      "it": "l'amica",
+      "pt": "a amiga",
       "ja": "女友達",
       "zh": "女朋友",
       "ru": "подруга"
     },
     "examples": [
       "Das ist meine Freundin."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Freundinnen"
+    ]
   },
   {
     "id": "frueher_adv_1",
+    "lang": "de",
     "lemma": "früher",
     "pos": "Adverb",
     "cefr": "A1",
@@ -6963,11 +7084,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Früher waren wir oft zusammen im Kino."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "fruehstuecken_v_1",
+    "lang": "de",
     "lemma": "frühstücken",
     "pos": "Verb",
     "cefr": "A1",
@@ -6976,6 +7097,14 @@ const WORDS_DE_A1 = [
       "food",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich frühstücke",
+      "pres_du": "du frühstückst",
+      "pres_er": "er/sie/es frühstückt",
+      "praet": "frühstückte",
+      "part2": "gefrühstückt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "frühstücken",
       "ko": "아침 식사하다",
@@ -6990,21 +7119,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Am Sonntag frühstücke ich gern im Bett."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich frühstücke",
-      "pres_du": "du frühstückst",
-      "pres_er": "er/sie/es frühstückt",
-      "praet": "frühstückte",
-      "part2": "gefrühstückt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "fruehstueck_nn_1",
+    "lang": "de",
     "lemma": "Frühstück",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7012,27 +7135,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Frühstück",
+      "de": "das Frühstück",
       "ko": "아침 식사",
       "en": "breakfast",
-      "es": "desayuno",
-      "fr": "petit déjeuner",
-      "it": "colazione",
-      "pt": "café da manhã",
+      "es": "el desayuno",
+      "fr": "le petit déjeuner",
+      "it": "la colazione",
+      "pt": "o café da manhã",
       "ja": "朝食",
       "zh": "早餐",
       "ru": "завтрак"
     },
     "examples": [
       "Möchtest du ein Ei zum Frühstück?"
-    ],
-    "meta": {},
-    "gender": "das"
+    ]
   },
   {
     "id": "fuehrung_nf_1",
+    "lang": "de",
     "lemma": "Führung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Führungen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7040,26 +7165,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Führung",
+      "de": "die Führung",
       "ko": "가이드 투어",
       "en": "guided tour",
-      "es": "visita guiada",
-      "fr": "visite guidée",
-      "it": "visita guidata",
-      "pt": "visita guiada",
+      "es": "la visita guiada",
+      "fr": "la visite guidée",
+      "it": "la visita guidata",
+      "pt": "a visita guiada",
       "ja": "ガイドツアー",
       "zh": "导览",
       "ru": "экскурсия"
     },
     "examples": [
       "Die Führung durch das Haus beginnt in 3 Minuten."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Führungen"
+    ]
   },
   {
     "id": "fuer_prep_1",
+    "lang": "de",
     "lemma": "für",
     "pos": "Präposition",
     "cefr": "A1",
@@ -7081,96 +7204,102 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist für Sie."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "fuss_nm_1",
+    "lang": "de",
     "lemma": "Fuß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Füße",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Fuß",
+      "de": "der Fuß",
       "ko": "발",
       "en": "foot",
-      "es": "pie",
-      "fr": "pied",
-      "it": "piede",
-      "pt": "pé",
+      "es": "el pie",
+      "fr": "le pied",
+      "it": "il piede",
+      "pt": "o pé",
       "ja": "足",
       "zh": "脚",
       "ru": "ступня"
     },
     "examples": [
       "Der linke Fuß tut mir weh."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Füße"
+    ]
   },
   {
     "id": "fussball_nm_1",
+    "lang": "de",
     "lemma": "Fußball",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Fußball",
+      "de": "der Fußball",
       "ko": "축구",
       "en": "soccer",
-      "es": "fútbol",
-      "fr": "football",
-      "it": "calcio",
-      "pt": "futebol",
+      "es": "el fútbol",
+      "fr": "le football",
+      "it": "il calcio",
+      "pt": "o futebol",
       "ja": "サッカー",
       "zh": "足球",
       "ru": "футбол"
     },
     "examples": [
       "Spielt ihr gerne Fußball?"
-    ],
-    "meta": {},
-    "gender": "der"
+    ]
   },
   {
     "id": "garten_nm_1",
+    "lang": "de",
     "lemma": "Garten",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Gärten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Garten",
+      "de": "der Garten",
       "ko": "정원",
       "en": "garden",
-      "es": "jardín",
-      "fr": "jardin",
-      "it": "giardino",
-      "pt": "jardim",
+      "es": "el jardín",
+      "fr": "le jardin",
+      "it": "il giardino",
+      "pt": "o jardim",
       "ja": "庭",
       "zh": "花园",
       "ru": "сад"
     },
     "examples": [
       "Wir haben leider keinen Garten."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Gärten"
+    ]
   },
   {
     "id": "gast_nm_1",
+    "lang": "de",
     "lemma": "Gast",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Gäste",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7178,26 +7307,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Gast",
+      "de": "der Gast",
       "ko": "손님",
       "en": "guest",
-      "es": "invitado",
-      "fr": "invité",
-      "it": "ospite",
-      "pt": "hóspede",
+      "es": "el invitado",
+      "fr": "l'invité",
+      "it": "l'ospite",
+      "pt": "o hóspede",
       "ja": "客",
       "zh": "客人",
       "ru": "гость"
     },
     "examples": [
       "Am Wochenende haben wir mehrere Gäste."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Gäste"
+    ]
   },
   {
     "id": "geben_v_1",
+    "lang": "de",
     "lemma": "geben",
     "pos": "Verb",
     "cefr": "A1",
@@ -7206,6 +7333,14 @@ const WORDS_DE_A1 = [
       "basic",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich gebe",
+      "pres_du": "du gibst",
+      "pres_er": "er/sie/es gibt",
+      "praet": "gab",
+      "part2": "gegeben",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "geben",
       "ko": "주다",
@@ -7220,19 +7355,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kannst du mir bitte deinen Kugelschreiber geben?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gebe",
-      "pres_du": "du gibst",
-      "pres_er": "er/sie/es gibt",
-      "praet": "gab",
-      "part2": "gegeben",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "geboren_adj_1",
+    "lang": "de",
     "lemma": "geboren",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7254,95 +7381,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin in Zagreb geboren."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "geburtsjahr_nn_1",
+    "lang": "de",
     "lemma": "Geburtsjahr",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Geburtsjahre",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Geburtsjahr",
+      "de": "das Geburtsjahr",
       "ko": "출생년도",
       "en": "year of birth",
-      "es": "año de nacimiento",
-      "fr": "année de naissance",
-      "it": "anno di nascita",
-      "pt": "ano de nascimento",
+      "es": "el año de nacimiento",
+      "fr": "l'année de naissance",
+      "it": "l'anno di nascita",
+      "pt": "o ano de nascimento",
       "ja": "生年",
       "zh": "出生年份",
       "ru": "год рождения"
     },
     "examples": [
       "Das Geburtsjahr Ihres Sohnes, bitte?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Geburtsjahre"
+    ]
   },
   {
     "id": "geburtsort_nm_1",
+    "lang": "de",
     "lemma": "Geburtsort",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Geburtsorte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Geburtsort",
+      "de": "der Geburtsort",
       "ko": "출생지",
       "en": "place of birth",
-      "es": "lugar de nacimiento",
-      "fr": "lieu de naissance",
-      "it": "luogo di nascita",
-      "pt": "local de nascimento",
+      "es": "el lugar de nacimiento",
+      "fr": "le lieu de naissance",
+      "it": "il luogo di nascita",
+      "pt": "o local de nascimento",
       "ja": "出生地",
       "zh": "出生地",
       "ru": "место рождения"
     },
     "examples": [
       "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Geburtsorte"
+    ]
   },
   {
     "id": "geburtstag_nm_1",
+    "lang": "de",
     "lemma": "Geburtstag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Geburtstage",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Geburtstag",
+      "de": "der Geburtstag",
       "ko": "생일",
       "en": "birthday",
-      "es": "cumpleaños",
-      "fr": "anniversaire",
-      "it": "compleanno",
-      "pt": "aniversário",
+      "es": "el cumpleaños",
+      "fr": "l'anniversaire",
+      "it": "il compleanno",
+      "pt": "o aniversário",
       "ja": "誕生日",
       "zh": "生日",
       "ru": "день рождения"
     },
     "examples": [
       "Herzlichen Glückwunsch zum Geburtstag!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Geburtstage"
+    ]
   },
   {
     "id": "gefallen_v_1",
+    "lang": "de",
     "lemma": "gefallen",
     "pos": "Verb",
     "cefr": "A1",
@@ -7350,6 +7480,14 @@ const WORDS_DE_A1 = [
       "exam",
       "smalltalk"
     ],
+    "conj": {
+      "pres_ich": "ich gefalle",
+      "pres_du": "du gefällst",
+      "pres_er": "er/sie/es gefällt",
+      "praet": "gefiel",
+      "part2": "gefallen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "gefallen",
       "ko": "마음에 들다",
@@ -7364,19 +7502,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das gefällt mir."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gefalle",
-      "pres_du": "du gefällst",
-      "pres_er": "er/sie/es gefällt",
-      "praet": "gefiel",
-      "part2": "gefallen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "gegen_prep_1",
+    "lang": "de",
     "lemma": "gegen",
     "pos": "Präposition",
     "cefr": "A1",
@@ -7399,11 +7529,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Fahr nicht gegen den Baum!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "gehen_v_1",
+    "lang": "de",
     "lemma": "gehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -7412,6 +7542,14 @@ const WORDS_DE_A1 = [
       "daily",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich gehe",
+      "pres_du": "du gehst",
+      "pres_er": "er/sie/es geht",
+      "praet": "ging",
+      "part2": "gegangen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "gehen",
       "ko": "가다",
@@ -7426,19 +7564,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich gehe zu Fuß zur Arbeit."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gehe",
-      "pres_du": "du gehst",
-      "pres_er": "er/sie/es geht",
-      "praet": "ging",
-      "part2": "gegangen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "gehoeren_v_1",
+    "lang": "de",
     "lemma": "gehören",
     "pos": "Verb",
     "cefr": "A1",
@@ -7446,6 +7576,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich gehöre",
+      "pres_du": "du gehörst",
+      "pres_er": "er/sie/es gehört",
+      "praet": "gehörte",
+      "part2": "gehört",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "gehören",
       "ko": "속하다",
@@ -7460,21 +7598,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wem gehört das Buch?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gehöre",
-      "pres_du": "du gehörst",
-      "pres_er": "er/sie/es gehört",
-      "praet": "gehörte",
-      "part2": "gehört",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "geld_nn_1",
+    "lang": "de",
     "lemma": "Geld",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7482,82 +7614,80 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Geld",
+      "de": "das Geld",
       "ko": "돈",
       "en": "money",
-      "es": "dinero",
-      "fr": "argent",
-      "it": "soldi",
-      "pt": "dinheiro",
+      "es": "el dinero",
+      "fr": "l'argent",
+      "it": "i soldi",
+      "pt": "o dinheiro",
       "ja": "お金",
       "zh": "钱",
       "ru": "деньги"
     },
     "examples": [
       "Ich habe kein Geld dabei."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "gemuese_nn_1",
+    "lang": "de",
     "lemma": "Gemüse",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Gemüse",
+      "de": "das Gemüse",
       "ko": "채소",
       "en": "vegetables",
-      "es": "verdura",
-      "fr": "légumes",
-      "it": "verdura",
-      "pt": "legumes",
+      "es": "la verdura",
+      "fr": "les légumes",
+      "it": "la verdura",
+      "pt": "os legumes",
       "ja": "野菜",
       "zh": "蔬菜",
       "ru": "овощи"
     },
     "examples": [
       "Wir kaufen unser Gemüse auf dem Markt."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "gepaeck_nn_1",
+    "lang": "de",
     "lemma": "Gepäck",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Gepäck",
+      "de": "das Gepäck",
       "ko": "짐",
       "en": "luggage",
-      "es": "equipaje",
-      "fr": "bagages",
-      "it": "bagaglio",
-      "pt": "bagagem",
+      "es": "el equipaje",
+      "fr": "les bagages",
+      "it": "il bagaglio",
+      "pt": "a bagagem",
       "ja": "荷物",
       "zh": "行李",
       "ru": "багаж"
     },
     "examples": [
       "Sie können Ihr Gepäck hier lassen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "geradeaus_adv_1",
+    "lang": "de",
     "lemma": "geradeaus",
     "pos": "Adverb",
     "cefr": "A1",
@@ -7580,11 +7710,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Gehen Sie immer geradeaus!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "gern_adv_1",
+    "lang": "de",
     "lemma": "gern",
     "pos": "Adverb",
     "cefr": "A1",
@@ -7607,123 +7737,126 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich helfe Ihnen gern."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "geschaeft_nn_1",
+    "lang": "de",
     "lemma": "Geschäft",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Geschäfte",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Geschäft",
+      "de": "das Geschäft",
       "ko": "가게",
       "en": "shop",
-      "es": "tienda",
-      "fr": "magasin",
-      "it": "negozio",
-      "pt": "loja",
+      "es": "la tienda",
+      "fr": "le magasin",
+      "it": "il negozio",
+      "pt": "a loja",
       "ja": "店",
       "zh": "商店",
       "ru": "магазин"
     },
     "examples": [
       "Die Geschäfte schließen um 18.30 Uhr."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Geschäfte"
+    ]
   },
   {
     "id": "geschenk_nn_1",
+    "lang": "de",
     "lemma": "Geschenk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Geschenke",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Geschenk",
+      "de": "das Geschenk",
       "ko": "선물",
       "en": "gift",
-      "es": "regalo",
-      "fr": "cadeau",
-      "it": "regalo",
-      "pt": "presente",
+      "es": "el regalo",
+      "fr": "le cadeau",
+      "it": "il regalo",
+      "pt": "o presente",
       "ja": "贈り物",
       "zh": "礼物",
       "ru": "подарок"
     },
     "examples": [
       "Das ist ein schönes Geschenk."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Geschenke"
+    ]
   },
   {
     "id": "geschwister_nx_1",
+    "lang": "de",
     "lemma": "Geschwister",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Geschwister",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Geschwister",
+      "de": "die Geschwister",
       "ko": "형제자매",
       "en": "siblings",
-      "es": "hermanos",
-      "fr": "frères et sœurs",
-      "it": "fratelli e sorelle",
-      "pt": "irmãos",
+      "es": "los hermanos",
+      "fr": "les frères et sœurs",
+      "it": "i fratelli e le sorelle",
+      "pt": "os irmãos",
       "ja": "兄弟姉妹",
       "zh": "兄弟姐妹",
       "ru": "братья и сестры"
     },
     "examples": [
       "Ich habe keine Geschwister."
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Geschwister"
+    ]
   },
   {
     "id": "gespraech_nn_1",
+    "lang": "de",
     "lemma": "Gespräch",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Gespräche",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Gespräch",
+      "de": "das Gespräch",
       "ko": "대화",
       "en": "conversation",
-      "es": "conversación",
-      "fr": "conversation",
-      "it": "conversazione",
-      "pt": "conversa",
+      "es": "la conversación",
+      "fr": "la conversation",
+      "it": "la conversazione",
+      "pt": "a conversa",
       "ja": "会話",
       "zh": "谈话",
       "ru": "разговор"
     },
     "examples": [
       "Das war ein interessantes Gespräch."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Gespräche"
+    ]
   },
   {
     "id": "gestern_adv_1",
+    "lang": "de",
     "lemma": "gestern",
     "pos": "Adverb",
     "cefr": "A1",
@@ -7745,11 +7878,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Gestern war ich krank."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "gesund_adj_1",
+    "lang": "de",
     "lemma": "gesund",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -7771,67 +7904,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich hoffe, Sie sind bald wieder gesund."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "getraenk_nn_1",
+    "lang": "de",
     "lemma": "Getränk",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Getränke",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Getränk",
+      "de": "das Getränk",
       "ko": "음료",
       "en": "drink",
-      "es": "bebida",
-      "fr": "boisson",
-      "it": "bevanda",
-      "pt": "bebida",
+      "es": "la bebida",
+      "fr": "la boisson",
+      "it": "la bevanda",
+      "pt": "a bebida",
       "ja": "飲み物",
       "zh": "饮料",
       "ru": "напиток"
     },
     "examples": [
       "Die Getränke kosten extra."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Getränke"
+    ]
   },
   {
     "id": "gewicht_nn_1",
+    "lang": "de",
     "lemma": "Gewicht",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Gewichte",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Gewicht",
+      "de": "das Gewicht",
       "ko": "몸무게",
       "en": "weight",
-      "es": "peso",
-      "fr": "poids",
-      "it": "peso",
-      "pt": "peso",
+      "es": "el peso",
+      "fr": "le poids",
+      "it": "il peso",
+      "pt": "o peso",
       "ja": "重さ",
       "zh": "重量",
       "ru": "вес"
     },
     "examples": [
       "Bei „Gewicht“ schreibst du 62 Kilo."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Gewichte"
+    ]
   },
   {
     "id": "gewinnen_v_1",
+    "lang": "de",
     "lemma": "gewinnen",
     "pos": "Verb",
     "cefr": "A1",
@@ -7839,6 +7974,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich gewinne",
+      "pres_du": "du gewinnst",
+      "pres_er": "er/sie/es gewinnt",
+      "praet": "gewann",
+      "part2": "gewonnen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "gewinnen",
       "ko": "이기다",
@@ -7853,75 +7996,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Unsere Mannschaft hat gewonnen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gewinne",
-      "pres_du": "du gewinnst",
-      "pres_er": "er/sie/es gewinnt",
-      "praet": "gewann",
-      "part2": "gewonnen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "gitarre_nf_1",
+    "lang": "de",
     "lemma": "Gitarre",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Gitarren",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Gitarre",
+      "de": "die Gitarre",
       "ko": "기타",
       "en": "guitar",
-      "es": "guitarra",
-      "fr": "guitare",
-      "it": "chitarra",
-      "pt": "guitarra",
+      "es": "la guitarra",
+      "fr": "la guitare",
+      "it": "la chitarra",
+      "pt": "a guitarra",
       "ja": "ギター",
       "zh": "吉他",
       "ru": "гитара"
     },
     "examples": [
       "Er spielt gut Gitarre."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Gitarren"
+    ]
   },
   {
     "id": "glas_nn_1",
+    "lang": "de",
     "lemma": "Glas",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Gläser",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Glas",
+      "de": "das Glas",
       "ko": "유리잔",
       "en": "glass",
-      "es": "vaso",
-      "fr": "verre",
-      "it": "bicchiere",
-      "pt": "copo",
+      "es": "el vaso",
+      "fr": "le verre",
+      "it": "il bicchiere",
+      "pt": "o copo",
       "ja": "コップ",
       "zh": "玻璃杯",
       "ru": "стакан"
     },
     "examples": [
       "Bitte noch ein Glas Wein!"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Gläser"
+    ]
   },
   {
     "id": "glauben_v_1",
+    "lang": "de",
     "lemma": "glauben",
     "pos": "Verb",
     "cefr": "A1",
@@ -7930,6 +8067,14 @@ const WORDS_DE_A1 = [
       "opinion",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich glaube",
+      "pres_du": "du glaubst",
+      "pres_er": "er/sie/es glaubt",
+      "praet": "glaubte",
+      "part2": "geglaubt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "glauben",
       "ko": "믿다",
@@ -7944,19 +8089,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich glaube, er kommt gleich."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich glaube",
-      "pres_du": "du glaubst",
-      "pres_er": "er/sie/es glaubt",
-      "praet": "glaubte",
-      "part2": "geglaubt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "gleich_adv_1",
+    "lang": "de",
     "lemma": "gleich",
     "pos": "Adverb",
     "cefr": "A1",
@@ -7979,13 +8116,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich komme gleich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "gleis_nn_1",
+    "lang": "de",
     "lemma": "Gleis",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Gleise",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -7993,28 +8133,28 @@ const WORDS_DE_A1 = [
       "train"
     ],
     "meanings": {
-      "de": "Gleis",
+      "de": "das Gleis",
       "ko": "선로",
       "en": "track",
-      "es": "vía",
-      "fr": "voie",
-      "it": "binario",
-      "pt": "linha",
+      "es": "la vía",
+      "fr": "la voie",
+      "it": "il binario",
+      "pt": "a linha",
       "ja": "線路",
       "zh": "站台",
       "ru": "путь"
     },
     "examples": [
       "Der Zug fährt auf Gleis 7 ab."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Gleise"
+    ]
   },
   {
     "id": "glueck_nn_1",
+    "lang": "de",
     "lemma": "Glück",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8022,26 +8162,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Glück",
+      "de": "das Glück",
       "ko": "행운",
       "en": "luck",
-      "es": "suerte",
-      "fr": "chance",
-      "it": "fortuna",
-      "pt": "sorte",
+      "es": "la suerte",
+      "fr": "la chance",
+      "it": "la fortuna",
+      "pt": "a sorte",
       "ja": "幸運",
       "zh": "幸运",
       "ru": "счастье"
     },
     "examples": [
       "Viel Glück!"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "gluecklich_adj_1",
+    "lang": "de",
     "lemma": "glücklich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8063,67 +8201,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Meine Kinder sind glücklich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "glueckwunsch_nm_1",
+    "lang": "de",
     "lemma": "Glückwunsch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Glückwünsche",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Glückwunsch",
+      "de": "der Glückwunsch",
       "ko": "축하",
       "en": "congratulation",
-      "es": "felicitación",
-      "fr": "félicitation",
-      "it": "congratulazione",
-      "pt": "parabéns",
+      "es": "la felicitación",
+      "fr": "la félicitation",
+      "it": "la congratulazione",
+      "pt": "os parabéns",
       "ja": "お祝い",
       "zh": "祝贺",
       "ru": "поздравление"
     },
     "examples": [
       "Herzlichen Glückwunsch!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Glückwünsche"
+    ]
   },
   {
     "id": "grad_nm_1",
+    "lang": "de",
     "lemma": "Grad",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Grad",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Grad",
+      "de": "der Grad",
       "ko": "도",
       "en": "degree",
-      "es": "grado",
-      "fr": "degré",
-      "it": "grado",
-      "pt": "grau",
+      "es": "el grado",
+      "fr": "le degré",
+      "it": "il grado",
+      "pt": "o grau",
       "ja": "度",
       "zh": "度",
       "ru": "градус"
     },
     "examples": [
       "Heute sind es 30 Grad."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Grad"
+    ]
   },
   {
     "id": "gratulieren_v_1",
+    "lang": "de",
     "lemma": "gratulieren",
     "pos": "Verb",
     "cefr": "A1",
@@ -8131,6 +8271,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich gratuliere",
+      "pres_du": "du gratulierst",
+      "pres_er": "er/sie/es gratuliert",
+      "praet": "gratulierte",
+      "part2": "gratuliert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "gratulieren",
       "ko": "축하하다",
@@ -8145,19 +8293,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich gratuliere dir!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gratuliere",
-      "pres_du": "du gratulierst",
-      "pres_er": "er/sie/es gratuliert",
-      "praet": "gratulierte",
-      "part2": "gratuliert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "grillen_v_1",
+    "lang": "de",
     "lemma": "grillen",
     "pos": "Verb",
     "cefr": "A1",
@@ -8165,6 +8305,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich grille",
+      "pres_du": "du grillst",
+      "pres_er": "er/sie/es grillt",
+      "praet": "grillte",
+      "part2": "gegrillt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "grillen",
       "ko": "고기를 굽다",
@@ -8179,19 +8327,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Heute grillen wir im Garten."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich grille",
-      "pres_du": "du grillst",
-      "pres_er": "er/sie/es grillt",
-      "praet": "grillte",
-      "part2": "gegrillt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "gross_adj_1",
+    "lang": "de",
     "lemma": "groß",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8214,95 +8354,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Mein Bruder ist sehr groß."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "groesse_nf_1",
+    "lang": "de",
     "lemma": "Größe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Größen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Größe",
+      "de": "die Größe",
       "ko": "사이즈",
       "en": "size",
-      "es": "talla",
-      "fr": "taille",
-      "it": "taglia",
-      "pt": "tamanho",
+      "es": "la talla",
+      "fr": "la taille",
+      "it": "la taglia",
+      "pt": "o tamanho",
       "ja": "サイズ",
       "zh": "大小",
       "ru": "размер"
     },
     "examples": [
       "Haben Sie das auch in Größe 40?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Größen"
+    ]
   },
   {
     "id": "gruppe_nf_1",
+    "lang": "de",
     "lemma": "Gruppe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Gruppen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Gruppe",
+      "de": "die Gruppe",
       "ko": "그룹",
       "en": "group",
-      "es": "grupo",
-      "fr": "groupe",
-      "it": "gruppo",
-      "pt": "grupo",
+      "es": "el grupo",
+      "fr": "le groupe",
+      "it": "il gruppo",
+      "pt": "o grupo",
       "ja": "グループ",
       "zh": "组",
       "ru": "группа"
     },
     "examples": [
       "Die erste Gruppe beginnt um 9 Uhr."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Gruppen"
+    ]
   },
   {
     "id": "gruss_nm_1",
+    "lang": "de",
     "lemma": "Gruß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Grüße",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Gruß",
+      "de": "der Gruß",
       "ko": "인사",
       "en": "greeting",
-      "es": "saludo",
-      "fr": "salutation",
-      "it": "saluto",
-      "pt": "saudação",
+      "es": "el saludo",
+      "fr": "la salutation",
+      "it": "il saluto",
+      "pt": "a saudação",
       "ja": "挨拶",
       "zh": "问候",
       "ru": "приветствие"
     },
     "examples": [
       "Viele Grüße an Ihre Frau."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Grüße"
+    ]
   },
   {
     "id": "gueltig_adj_1",
+    "lang": "de",
     "lemma": "gültig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8325,11 +8468,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Pass ist nicht mehr gültig."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "guenstig_adj_1",
+    "lang": "de",
     "lemma": "günstig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8351,11 +8494,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Dort gibt es günstige Angebote."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "gut_adj_1",
+    "lang": "de",
     "lemma": "gut",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8378,39 +8521,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Essen schmeckt gut."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "haar_nn_1",
+    "lang": "de",
     "lemma": "Haar",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Haare",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Haar",
+      "de": "das Haar",
       "ko": "머리카락",
       "en": "hair",
-      "es": "pelo",
-      "fr": "cheveu",
-      "it": "capello",
-      "pt": "cabelo",
+      "es": "el pelo",
+      "fr": "le cheveu",
+      "it": "il capello",
+      "pt": "o cabelo",
       "ja": "髪",
       "zh": "头发",
       "ru": "волосы"
     },
     "examples": [
       "Sie hat lange Haare."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Haare"
+    ]
   },
   {
     "id": "haben_v_1",
+    "lang": "de",
     "lemma": "haben",
     "pos": "Verb",
     "cefr": "A1",
@@ -8418,6 +8562,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich habe",
+      "pres_du": "du hast",
+      "pres_er": "er/sie/es hat",
+      "praet": "hatte",
+      "part2": "gehabt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "haben",
       "ko": "가지고 있다",
@@ -8432,47 +8584,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe ein neues Auto."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich habe",
-      "pres_du": "du hast",
-      "pres_er": "er/sie/es hat",
-      "praet": "hatte",
-      "part2": "gehabt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "haehnchen_nn_1",
+    "lang": "de",
     "lemma": "Hähnchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hähnchen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Hähnchen",
+      "de": "das Hähnchen",
       "ko": "닭고기",
       "en": "chicken",
-      "es": "pollo",
-      "fr": "poulet",
-      "it": "pollo",
-      "pt": "frango",
+      "es": "el pollo",
+      "fr": "le poulet",
+      "it": "il pollo",
+      "pt": "o frango",
       "ja": "鶏肉",
       "zh": "鸡肉",
       "ru": "курица"
     },
     "examples": [
       "Ein Hähnchen mit Pommes, bitte."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Hähnchen"
+    ]
   },
   {
     "id": "hallo_int_1",
+    "lang": "de",
     "lemma": "Hallo",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -8495,11 +8640,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hallo, wie geht's?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "halb_adj_1",
+    "lang": "de",
     "lemma": "halb",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -8522,13 +8667,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es ist halb acht."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "halbpension_nf_1",
+    "lang": "de",
     "lemma": "Halbpension",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8536,54 +8683,53 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Halbpension",
+      "de": "die Halbpension",
       "ko": "1일 2식",
       "en": "half board",
-      "es": "media pensión",
-      "fr": "demi-pension",
-      "it": "mezza pensione",
-      "pt": "meia pensão",
+      "es": "la media pensión",
+      "fr": "la demi-pension",
+      "it": "la mezza pensione",
+      "pt": "a meia pensão",
       "ja": "一泊二食付き",
       "zh": "半食宿",
       "ru": "полупансион"
     },
     "examples": [
       "Möchten Sie Vollpension oder Halbpension?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "halt_nm_1",
+    "lang": "de",
     "lemma": "Halt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Halte",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Halt",
+      "de": "der Halt",
       "ko": "정거장",
       "en": "stop",
-      "es": "parada",
-      "fr": "arrêt",
-      "it": "fermata",
-      "pt": "paragem",
+      "es": "la parada",
+      "fr": "l'arrêt",
+      "it": "la fermata",
+      "pt": "a paragem",
       "ja": "停止",
       "zh": "停止",
       "ru": "остановка"
     },
     "examples": [
       "Nächster Halt: Hauptbahnhof."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Halte"
+    ]
   },
   {
     "id": "halten_v_1",
+    "lang": "de",
     "lemma": "halten",
     "pos": "Verb",
     "cefr": "A1",
@@ -8592,6 +8738,14 @@ const WORDS_DE_A1 = [
       "travel",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich halte",
+      "pres_du": "du hältst",
+      "pres_er": "er/sie/es hält",
+      "praet": "hielt",
+      "part2": "gehalten",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "halten",
       "ko": "멈추다",
@@ -8606,21 +8760,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Zug hält nicht in Rüdesheim."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich halte",
-      "pres_du": "du hältst",
-      "pres_er": "er/sie/es hält",
-      "praet": "hielt",
-      "part2": "gehalten",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "haltestelle_nf_1",
+    "lang": "de",
     "lemma": "Haltestelle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Haltestellen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8628,84 +8777,87 @@ const WORDS_DE_A1 = [
       "city"
     ],
     "meanings": {
-      "de": "Haltestelle",
+      "de": "die Haltestelle",
       "ko": "정류장",
       "en": "stop",
-      "es": "parada",
-      "fr": "arrêt",
-      "it": "fermata",
-      "pt": "paragem",
+      "es": "la parada",
+      "fr": "l'arrêt",
+      "it": "la fermata",
+      "pt": "a paragem",
       "ja": "停留所",
       "zh": "车站",
       "ru": "остановка"
     },
     "examples": [
       "An der nächsten Haltestelle müssen Sie aussteigen."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Haltestellen"
+    ]
   },
   {
     "id": "hand_nf_1",
+    "lang": "de",
     "lemma": "Hand",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hände",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Hand",
+      "de": "die Hand",
       "ko": "손",
       "en": "hand",
-      "es": "mano",
-      "fr": "main",
-      "it": "mano",
-      "pt": "mão",
+      "es": "la mano",
+      "fr": "la main",
+      "it": "la mano",
+      "pt": "a mão",
       "ja": "手",
       "zh": "手",
       "ru": "рука"
     },
     "examples": [
       "Was hast du in der Hand?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Hände"
+    ]
   },
   {
     "id": "handy_nn_1",
+    "lang": "de",
     "lemma": "Handy",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Handys",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Handy",
+      "de": "das Handy",
       "ko": "휴대전화",
       "en": "mobile phone",
-      "es": "móvil",
-      "fr": "portable",
-      "it": "cellulare",
-      "pt": "telemóvel",
+      "es": "el móvil",
+      "fr": "le portable",
+      "it": "il cellulare",
+      "pt": "o telemóvel",
       "ja": "携帯電話",
       "zh": "手机",
       "ru": "мобильный телефон"
     },
     "examples": [
       "In der Schule sind Handys verboten."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Handys"
+    ]
   },
   {
     "id": "haus_nn_1",
+    "lang": "de",
     "lemma": "Haus",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Häuser",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8713,28 +8865,29 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Haus",
+      "de": "das Haus",
       "ko": "집",
       "en": "house",
-      "es": "casa",
-      "fr": "maison",
-      "it": "casa",
-      "pt": "casa",
+      "es": "la casa",
+      "fr": "la maison",
+      "it": "la casa",
+      "pt": "a casa",
       "ja": "家",
       "zh": "房子",
       "ru": "дом"
     },
     "examples": [
       "Ich gehe jetzt nach Hause."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Häuser"
+    ]
   },
   {
     "id": "hausaufgabe_nf_1",
+    "lang": "de",
     "lemma": "Hausaufgabe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hausaufgaben",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8742,28 +8895,29 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Hausaufgabe",
+      "de": "die Hausaufgabe",
       "ko": "숙제",
       "en": "homework",
-      "es": "deberes",
-      "fr": "devoirs",
-      "it": "compiti",
-      "pt": "trabalho de casa",
+      "es": "los deberes",
+      "fr": "les devoirs",
+      "it": "i compiti",
+      "pt": "o trabalho de casa",
       "ja": "宿題",
       "zh": "家庭作业",
       "ru": "домашнее задание"
     },
     "examples": [
       "Kannst du mir bei den Hausaufgaben helfen?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Hausaufgaben"
+    ]
   },
   {
     "id": "hausfrau_nf_1",
+    "lang": "de",
     "lemma": "Hausfrau",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hausfrauen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8771,28 +8925,29 @@ const WORDS_DE_A1 = [
       "society"
     ],
     "meanings": {
-      "de": "Hausfrau",
+      "de": "die Hausfrau",
       "ko": "주부",
       "en": "housewife",
-      "es": "ama de casa",
-      "fr": "ménagère",
-      "it": "casalinga",
-      "pt": "dona de casa",
+      "es": "el ama de casa",
+      "fr": "la ménagère",
+      "it": "la casalinga",
+      "pt": "a dona de casa",
       "ja": "主婦",
       "zh": "家庭主妇",
       "ru": "домохозяйка"
     },
     "examples": [
       "Sie arbeitet nicht, sie ist Hausfrau."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Hausfrauen"
+    ]
   },
   {
     "id": "haushalt_nm_1",
+    "lang": "de",
     "lemma": "Haushalt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Haushalte",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8800,28 +8955,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Haushalt",
+      "de": "der Haushalt",
       "ko": "살림",
       "en": "household",
-      "es": "hogar",
-      "fr": "ménage",
-      "it": "faccende domestiche",
-      "pt": "lida da casa",
+      "es": "el hogar",
+      "fr": "le ménage",
+      "it": "le faccende domestiche",
+      "pt": "a lida da casa",
       "ja": "家事",
       "zh": "家务",
       "ru": "домашнее хозяйство"
     },
     "examples": [
       "Ich mache den Haushalt allein."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Haushalte"
+    ]
   },
   {
     "id": "hausmann_nm_1",
+    "lang": "de",
     "lemma": "Hausmann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Hausmänner",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -8829,54 +8985,53 @@ const WORDS_DE_A1 = [
       "society"
     ],
     "meanings": {
-      "de": "Hausmann",
+      "de": "der Hausmann",
       "ko": "남자 주부",
       "en": "househusband",
-      "es": "amo de casa",
-      "fr": "homme au foyer",
-      "it": "casalingo",
-      "pt": "dono de casa",
+      "es": "el amo de casa",
+      "fr": "l'homme au foyer",
+      "it": "il casalingo",
+      "pt": "o dono de casa",
       "ja": "主夫",
       "zh": "家庭主夫",
       "ru": "домохозяин"
     },
     "examples": [
       "Er ist Hausmann."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Hausmänner"
+    ]
   },
   {
     "id": "heimat_nf_1",
+    "lang": "de",
     "lemma": "Heimat",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Heimaten",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Heimat",
+      "de": "die Heimat",
       "ko": "고향",
       "en": "homeland",
-      "es": "patria",
-      "fr": "patrie",
-      "it": "patria",
-      "pt": "pátria",
+      "es": "la patria",
+      "fr": "la patrie",
+      "it": "la patria",
+      "pt": "a pátria",
       "ja": "故郷",
       "zh": "家乡",
       "ru": "родина"
     },
     "examples": [
       "Das ist meine Heimat."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Heimaten"
+    ]
   },
   {
     "id": "heiraten_v_1",
+    "lang": "de",
     "lemma": "heiraten",
     "pos": "Verb",
     "cefr": "A1",
@@ -8884,6 +9039,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich heirate",
+      "pres_du": "du heiratest",
+      "pres_er": "er heiratet",
+      "praet": "heiratete",
+      "part2": "geheiratet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "heiraten",
       "ko": "결혼하다",
@@ -8898,19 +9061,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie heiratet einen Japaner."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich heirate",
-      "pres_du": "du heiratest",
-      "pres_er": "er heiratet",
-      "praet": "heiratete",
-      "part2": "geheiratet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "heissen_v_1",
+    "lang": "de",
     "lemma": "heißen",
     "pos": "Verb",
     "cefr": "A1",
@@ -8919,6 +9074,14 @@ const WORDS_DE_A1 = [
       "basic",
       "personal_info"
     ],
+    "conj": {
+      "pres_ich": "ich heiße",
+      "pres_du": "du heißt",
+      "pres_er": "er heißt",
+      "praet": "hieß",
+      "part2": "geheißen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "heißen",
       "ko": "불리다",
@@ -8933,19 +9096,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich heiße Anna."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich heiße",
-      "pres_du": "du heißt",
-      "pres_er": "er heißt",
-      "praet": "hieß",
-      "part2": "geheißen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "helfen_v_1",
+    "lang": "de",
     "lemma": "helfen",
     "pos": "Verb",
     "cefr": "A1",
@@ -8954,6 +9109,14 @@ const WORDS_DE_A1 = [
       "social",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich helfe",
+      "pres_du": "du hilfst",
+      "pres_er": "er hilft",
+      "praet": "half",
+      "part2": "geholfen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "helfen",
       "ko": "돕다",
@@ -8968,19 +9131,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Können Sie mir helfen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich helfe",
-      "pres_du": "du hilfst",
-      "pres_er": "er hilft",
-      "praet": "half",
-      "part2": "geholfen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "hell_adj_1",
+    "lang": "de",
     "lemma": "hell",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9002,67 +9157,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es ist noch hell."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "herd_nm_1",
+    "lang": "de",
     "lemma": "Herd",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Herde",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Herd",
+      "de": "der Herd",
       "ko": "조리기",
       "en": "stove",
-      "es": "cocina",
-      "fr": "cuisinière",
-      "it": "fornello",
-      "pt": "fogão",
+      "es": "la cocina",
+      "fr": "la cuisinière",
+      "it": "il fornello",
+      "pt": "o fogão",
       "ja": "コンロ",
       "zh": "炉灶",
       "ru": "плита"
     },
     "examples": [
       "Der Herd ist neu."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Herde"
+    ]
   },
   {
     "id": "herr_nm_1",
+    "lang": "de",
     "lemma": "Herr",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Herren",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Herr",
+      "de": "der Herr",
       "ko": "씨",
       "en": "Mr.",
-      "es": "señor",
-      "fr": "monsieur",
-      "it": "signore",
-      "pt": "senhor",
+      "es": "el señor",
+      "fr": "le monsieur",
+      "it": "il signore",
+      "pt": "o senhor",
       "ja": "氏",
       "zh": "先生",
       "ru": "господин"
     },
     "examples": [
       "Guten Tag, Herr Müller."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Herren"
+    ]
   },
   {
     "id": "herzlich_adj_1",
+    "lang": "de",
     "lemma": "herzlich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9084,11 +9241,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Herzlichen Glückwunsch!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "heute_adv_1",
+    "lang": "de",
     "lemma": "heute",
     "pos": "Adverb",
     "cefr": "A1",
@@ -9111,11 +9268,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Heute ist Montag."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "hier_adv_1",
+    "lang": "de",
     "lemma": "hier",
     "pos": "Adverb",
     "cefr": "A1",
@@ -9138,13 +9295,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hier wohne ich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "hilfe_nf_1",
+    "lang": "de",
     "lemma": "Hilfe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hilfen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9152,26 +9312,24 @@ const WORDS_DE_A1 = [
       "social"
     ],
     "meanings": {
-      "de": "Hilfe",
+      "de": "die Hilfe",
       "ko": "도움",
       "en": "help",
-      "es": "ayuda",
-      "fr": "aide",
-      "it": "aiuto",
-      "pt": "ajuda",
+      "es": "la ayuda",
+      "fr": "l'aide",
+      "it": "l'aiuto",
+      "pt": "a ajuda",
       "ja": "助け",
       "zh": "帮助",
       "ru": "помощь"
     },
     "examples": [
       "Ich brauche Hilfe."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Hilfen"
+    ]
   },
   {
     "id": "hinten_adv_1",
+    "lang": "de",
     "lemma": "hinten",
     "pos": "Adverb",
     "cefr": "A1",
@@ -9193,39 +9351,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Toilette ist hinten."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "hobby_nn_1",
+    "lang": "de",
     "lemma": "Hobby",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hobbys",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Hobby",
+      "de": "das Hobby",
       "ko": "취미",
       "en": "hobby",
-      "es": "afición",
-      "fr": "hobby",
-      "it": "hobby",
-      "pt": "passatempo",
+      "es": "la afición",
+      "fr": "le hobby",
+      "it": "l'hobby",
+      "pt": "o passatempo",
       "ja": "趣味",
       "zh": "爱好",
       "ru": "хобби"
     },
     "examples": [
       "Mein Hobby ist Lesen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Hobbys"
+    ]
   },
   {
     "id": "hoch_adj_1",
+    "lang": "de",
     "lemma": "hoch",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9247,39 +9406,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Berg ist hoch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "hochzeit_nf_1",
+    "lang": "de",
     "lemma": "Hochzeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Hochzeiten",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Hochzeit",
+      "de": "die Hochzeit",
       "ko": "결혼식",
       "en": "wedding",
-      "es": "boda",
-      "fr": "mariage",
-      "it": "matrimonio",
-      "pt": "casamento",
+      "es": "la boda",
+      "fr": "le mariage",
+      "it": "il matrimonio",
+      "pt": "o casamento",
       "ja": "結婚式",
       "zh": "婚礼",
       "ru": "свадьба"
     },
     "examples": [
       "Wir feiern Hochzeit."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Hochzeiten"
+    ]
   },
   {
     "id": "holen_v_1",
+    "lang": "de",
     "lemma": "holen",
     "pos": "Verb",
     "cefr": "A1",
@@ -9287,6 +9447,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich hole",
+      "pres_du": "du holst",
+      "pres_er": "er holt",
+      "praet": "holte",
+      "part2": "geholt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "holen",
       "ko": "가져오다",
@@ -9301,19 +9469,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich hole das Auto."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich hole",
-      "pres_du": "du holst",
-      "pres_er": "er holt",
-      "praet": "holte",
-      "part2": "geholt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "hoeren_v_1",
+    "lang": "de",
     "lemma": "hören",
     "pos": "Verb",
     "cefr": "A1",
@@ -9322,6 +9482,14 @@ const WORDS_DE_A1 = [
       "basic",
       "perception"
     ],
+    "conj": {
+      "pres_ich": "ich höre",
+      "pres_du": "du hörst",
+      "pres_er": "er hört",
+      "praet": "hörte",
+      "part2": "gehört",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "hören",
       "ko": "듣다",
@@ -9336,21 +9504,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich höre Musik."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich höre",
-      "pres_du": "du hörst",
-      "pres_er": "er hört",
-      "praet": "hörte",
-      "part2": "gehört",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "hotel_nn_1",
+    "lang": "de",
     "lemma": "Hotel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Hotels",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9358,28 +9521,29 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Hotel",
+      "de": "das Hotel",
       "ko": "호텔",
       "en": "hotel",
-      "es": "hotel",
-      "fr": "hôtel",
-      "it": "hotel",
-      "pt": "hotel",
+      "es": "el hotel",
+      "fr": "l'hôtel",
+      "it": "l'hotel",
+      "pt": "o hotel",
       "ja": "ホテル",
       "zh": "饭店",
       "ru": "отель"
     },
     "examples": [
       "Wir wohnen im Hotel."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Hotels"
+    ]
   },
   {
     "id": "hund_nm_1",
+    "lang": "de",
     "lemma": "Hund",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Hunde",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9387,54 +9551,52 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Hund",
+      "de": "der Hund",
       "ko": "개",
       "en": "dog",
-      "es": "perro",
-      "fr": "chien",
-      "it": "cane",
-      "pt": "cão",
+      "es": "el perro",
+      "fr": "le chien",
+      "it": "il cane",
+      "pt": "o cão",
       "ja": "犬",
       "zh": "狗",
       "ru": "собака"
     },
     "examples": [
       "Der Hund bellt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Hunde"
+    ]
   },
   {
     "id": "hunger_nm_1",
+    "lang": "de",
     "lemma": "Hunger",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Hunger",
+      "de": "der Hunger",
       "ko": "배고픔",
       "en": "hunger",
-      "es": "hambre",
-      "fr": "faim",
-      "it": "fame",
-      "pt": "fome",
+      "es": "el hambre",
+      "fr": "la faim",
+      "it": "la fame",
+      "pt": "a fome",
       "ja": "空腹",
       "zh": "饿",
       "ru": "голод"
     },
     "examples": [
       "Ich habe Hunger."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "ich_pron_1",
+    "lang": "de",
     "lemma": "ich",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -9456,11 +9618,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin Student."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ihr_pron_1",
+    "lang": "de",
     "lemma": "ihr",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -9482,11 +9644,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Gib ihr das Buch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ihm_pron_1",
+    "lang": "de",
     "lemma": "ihm",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -9508,11 +9670,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich helfe ihm."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ihn_pron_1",
+    "lang": "de",
     "lemma": "ihn",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -9534,11 +9696,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich sehe ihn."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "immer_adv_1",
+    "lang": "de",
     "lemma": "immer",
     "pos": "Adverb",
     "cefr": "A1",
@@ -9561,11 +9723,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er kommt immer zu spät."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "in_prep_1",
+    "lang": "de",
     "lemma": "in",
     "pos": "Präposition",
     "cefr": "A1",
@@ -9589,13 +9751,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin in der Schule."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "information_nf_1",
+    "lang": "de",
     "lemma": "Information",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Informationen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -9603,26 +9768,24 @@ const WORDS_DE_A1 = [
       "communication"
     ],
     "meanings": {
-      "de": "Information",
+      "de": "die Information",
       "ko": "안내소",
       "en": "information",
-      "es": "información",
-      "fr": "information",
-      "it": "informazione",
-      "pt": "informação",
+      "es": "la información",
+      "fr": "l'information",
+      "it": "l'informazione",
+      "pt": "a informação",
       "ja": "情報",
       "zh": "信息",
       "ru": "информация"
     },
     "examples": [
       "Gehen Sie zur Information."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Informationen"
+    ]
   },
   {
     "id": "international_adj_1",
+    "lang": "de",
     "lemma": "international",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9644,39 +9807,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Kurs ist international."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "internet_nn_1",
+    "lang": "de",
     "lemma": "Internet",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Internet",
+      "de": "das Internet",
       "ko": "인터넷",
       "en": "internet",
-      "es": "internet",
-      "fr": "internet",
-      "it": "internet",
-      "pt": "internet",
+      "es": "el internet",
+      "fr": "l'internet",
+      "it": "l'internet",
+      "pt": "a internet",
       "ja": "インターネット",
       "zh": "互联网",
       "ru": "интернет"
     },
     "examples": [
       "Das steht im Internet."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "ja_int_1",
+    "lang": "de",
     "lemma": "ja",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -9699,39 +9862,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ja, bitte."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "jacke_nf_1",
+    "lang": "de",
     "lemma": "Jacke",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Jacken",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Jacke",
+      "de": "die Jacke",
       "ko": "재킷",
       "en": "jacket",
-      "es": "chaqueta",
-      "fr": "veste",
-      "it": "giacca",
-      "pt": "casaco",
+      "es": "la chaqueta",
+      "fr": "la veste",
+      "it": "la giacca",
+      "pt": "o casaco",
       "ja": "ジャケット",
       "zh": "夹克",
       "ru": "куртка"
     },
     "examples": [
       "Die Jacke ist warm."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Jacken"
+    ]
   },
   {
     "id": "jeder_pron_1",
+    "lang": "de",
     "lemma": "jeder",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -9753,11 +9917,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Jeder Tag ist schön."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "jetzt_adv_1",
+    "lang": "de",
     "lemma": "jetzt",
     "pos": "Adverb",
     "cefr": "A1",
@@ -9780,67 +9944,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss jetzt gehen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "job_nm_1",
+    "lang": "de",
     "lemma": "Job",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Jobs",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Job",
+      "de": "der Job",
       "ko": "일",
       "en": "job",
-      "es": "trabajo",
-      "fr": "job",
-      "it": "lavoro",
-      "pt": "emprego",
+      "es": "el trabajo",
+      "fr": "le job",
+      "it": "il lavoro",
+      "pt": "o emprego",
       "ja": "仕事",
       "zh": "工作",
       "ru": "работа"
     },
     "examples": [
       "Ich suche einen Job."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Jobs"
+    ]
   },
   {
     "id": "jugendliche_nm_1",
+    "lang": "de",
     "lemma": "Jugendliche",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Jugendliche",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Jugendliche",
+      "de": "der Jugendliche",
       "ko": "청소년",
       "en": "youth",
-      "es": "joven",
-      "fr": "jeune",
-      "it": "giovane",
-      "pt": "jovem",
+      "es": "el joven",
+      "fr": "le jeune",
+      "it": "il giovane",
+      "pt": "o jovem",
       "ja": "若者",
       "zh": "青少年",
       "ru": "подросток"
     },
     "examples": [
       "Viele Jugendliche sind hier."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Jugendliche"
+    ]
   },
   {
     "id": "jung_adj_1",
+    "lang": "de",
     "lemma": "jung",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9862,67 +10028,68 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er ist noch jung."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "junge_nm_1",
+    "lang": "de",
     "lemma": "Junge",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Jungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Junge",
+      "de": "der Junge",
       "ko": "소년",
       "en": "boy",
-      "es": "chico",
-      "fr": "garçon",
-      "it": "ragazzo",
-      "pt": "menino",
+      "es": "el chico",
+      "fr": "le garçon",
+      "it": "il ragazzo",
+      "pt": "o menino",
       "ja": "男の子",
       "zh": "男孩",
       "ru": "мальчик"
     },
     "examples": [
       "Der Junge spielt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Jungen"
+    ]
   },
   {
     "id": "kaffee_nm_1",
+    "lang": "de",
     "lemma": "Kaffee",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kaffee",
+      "de": "der Kaffee",
       "ko": "커피",
       "en": "coffee",
-      "es": "café",
-      "fr": "café",
-      "it": "caffè",
-      "pt": "café",
+      "es": "el café",
+      "fr": "le café",
+      "it": "il caffè",
+      "pt": "o café",
       "ja": "コーヒー",
       "zh": "咖啡",
       "ru": "кофе"
     },
     "examples": [
       "Ich trinke Kaffee."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "kaputt_adj_1",
+    "lang": "de",
     "lemma": "kaputt",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -9944,123 +10111,127 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Auto ist kaputt."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "karte_nf_1",
+    "lang": "de",
     "lemma": "Karte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Karten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Karte",
+      "de": "die Karte",
       "ko": "카드",
       "en": "card",
-      "es": "tarjeta",
-      "fr": "carte",
-      "it": "carta",
-      "pt": "cartão",
+      "es": "la tarjeta",
+      "fr": "la carte",
+      "it": "la carta",
+      "pt": "o cartão",
       "ja": "カード",
       "zh": "卡片",
       "ru": "карта"
     },
     "examples": [
       "Ich schreibe eine Karte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Karten"
+    ]
   },
   {
     "id": "kreditkarte_nf_1",
+    "lang": "de",
     "lemma": "Kreditkarte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kreditkarten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kreditkarte",
+      "de": "die Kreditkarte",
       "ko": "신용카드",
       "en": "credit card",
-      "es": "tarjeta de crédito",
-      "fr": "carte de crédit",
-      "it": "carta di credito",
-      "pt": "cartão de crédito",
+      "es": "la tarjeta de crédito",
+      "fr": "la carte de crédit",
+      "it": "la carta di credito",
+      "pt": "o cartão de crédito",
       "ja": "クレジットカード",
       "zh": "信用卡",
       "ru": "кредитная карта"
     },
     "examples": [
       "Zahlen Sie mit Kreditkarte?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Kreditkarten"
+    ]
   },
   {
     "id": "kartoffel_nf_1",
+    "lang": "de",
     "lemma": "Kartoffel",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kartoffeln",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kartoffel",
+      "de": "die Kartoffel",
       "ko": "감자",
       "en": "potato",
-      "es": "patata",
-      "fr": "pomme de terre",
-      "it": "patata",
-      "pt": "batata",
+      "es": "la patata",
+      "fr": "la pomme de terre",
+      "it": "la patata",
+      "pt": "a batata",
       "ja": "ジャガイモ",
       "zh": "土豆",
       "ru": "картофель"
     },
     "examples": [
       "Ich esse gern Kartoffeln."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Kartoffeln"
+    ]
   },
   {
     "id": "kasse_nf_1",
+    "lang": "de",
     "lemma": "Kasse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kassen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kasse",
+      "de": "die Kasse",
       "ko": "계산대",
       "en": "checkout",
-      "es": "caja",
-      "fr": "caisse",
-      "it": "cassa",
-      "pt": "caixa",
+      "es": "la caja",
+      "fr": "la caisse",
+      "it": "la cassa",
+      "pt": "a caixa",
       "ja": "レジ",
       "zh": "收银台",
       "ru": "касса"
     },
     "examples": [
       "Zahlen Sie an der Kasse."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Kassen"
+    ]
   },
   {
     "id": "kaufen_v_1",
+    "lang": "de",
     "lemma": "kaufen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10068,6 +10239,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich kaufe",
+      "pres_du": "du kaufst",
+      "pres_er": "er kauft",
+      "praet": "kaufte",
+      "part2": "gekauft",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kaufen",
       "ko": "사다",
@@ -10082,19 +10261,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kaufe ein Brot."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kaufe",
-      "pres_du": "du kaufst",
-      "pres_er": "er kauft",
-      "praet": "kaufte",
-      "part2": "gekauft",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "kein_art_1",
+    "lang": "de",
     "lemma": "kein",
     "pos": "Artikel",
     "cefr": "A1",
@@ -10116,11 +10287,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe keine Zeit."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "kennen_v_1",
+    "lang": "de",
     "lemma": "kennen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10128,6 +10299,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich kenne",
+      "pres_du": "du kennst",
+      "pres_er": "er kennt",
+      "praet": "kannte",
+      "part2": "gekannt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kennen",
       "ko": "알다",
@@ -10142,19 +10321,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kenne ihn nicht."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kenne",
-      "pres_du": "du kennst",
-      "pres_er": "er kennt",
-      "praet": "kannte",
-      "part2": "gekannt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "kennenlernen_v_1",
+    "lang": "de",
     "lemma": "kennenlernen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10162,6 +10333,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich lerne kennen",
+      "pres_du": "du lernst kennen",
+      "pres_er": "er lernt kennen",
+      "praet": "lernte kennen",
+      "part2": "kennen gelernt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kennenlernen",
       "ko": "알게되다",
@@ -10176,131 +10355,127 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte dich kennenlernen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lerne kennen",
-      "pres_du": "du lernst kennen",
-      "pres_er": "er lernt kennen",
-      "praet": "lernte kennen",
-      "part2": "kennen gelernt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "kind_nn_1",
+    "lang": "de",
     "lemma": "Kind",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Kinder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kind",
+      "de": "das Kind",
       "ko": "아이",
       "en": "child",
-      "es": "niño",
-      "fr": "enfant",
-      "it": "bambino",
-      "pt": "criança",
+      "es": "el niño",
+      "fr": "l'enfant",
+      "it": "il bambino",
+      "pt": "a criança",
       "ja": "子供",
       "zh": "孩子",
       "ru": "ребенок"
     },
     "examples": [
       "Das Kind spielt."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Kinder"
+    ]
   },
   {
     "id": "kindergarten_nm_1",
+    "lang": "de",
     "lemma": "Kindergarten",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kindergärten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kindergarten",
+      "de": "der Kindergarten",
       "ko": "유치원",
       "en": "kindergarten",
-      "es": "jardín de infancia",
-      "fr": "jardin d'enfants",
-      "it": "asilo",
-      "pt": "jardim de infância",
+      "es": "el jardín de infancia",
+      "fr": "le jardin d'enfants",
+      "it": "l'asilo",
+      "pt": "o jardim de infância",
       "ja": "幼稚園",
       "zh": "幼儿园",
       "ru": "детский сад"
     },
     "examples": [
       "Er geht in den Kindergarten."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kindergärten"
+    ]
   },
   {
     "id": "kino_nn_1",
+    "lang": "de",
     "lemma": "Kino",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Kinos",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kino",
+      "de": "das Kino",
       "ko": "영화관",
       "en": "cinema",
-      "es": "cine",
-      "fr": "cinéma",
-      "it": "cinema",
-      "pt": "cinema",
+      "es": "el cine",
+      "fr": "le cinéma",
+      "it": "il cinema",
+      "pt": "o cinema",
       "ja": "映画館",
       "zh": "电影院",
       "ru": "кинотеатр"
     },
     "examples": [
       "Wir gehen ins Kino."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Kinos"
+    ]
   },
   {
     "id": "kiosk_nm_1",
+    "lang": "de",
     "lemma": "Kiosk",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kioske",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kiosk",
+      "de": "der Kiosk",
       "ko": "매점",
       "en": "kiosk",
-      "es": "quiosco",
-      "fr": "kiosque",
-      "it": "chiosco",
-      "pt": "quiosque",
+      "es": "el quiosco",
+      "fr": "le kiosque",
+      "it": "il chiosco",
+      "pt": "o quiosque",
       "ja": "キオスク",
       "zh": "报亭",
       "ru": "киоск"
     },
     "examples": [
       "Ich kaufe Zeitung am Kiosk."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kioske"
+    ]
   },
   {
     "id": "klar_adj_1",
+    "lang": "de",
     "lemma": "klar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10323,13 +10498,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kommst du mit? - Klar!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "klasse_nf_1",
+    "lang": "de",
     "lemma": "Klasse",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Klassen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10337,28 +10515,29 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Klasse",
+      "de": "die Klasse",
       "ko": "반",
       "en": "class",
-      "es": "clase",
-      "fr": "classe",
-      "it": "classe",
-      "pt": "classe",
+      "es": "la clase",
+      "fr": "la classe",
+      "it": "la classe",
+      "pt": "a classe",
       "ja": "クラス",
       "zh": "班级",
       "ru": "класс"
     },
     "examples": [
       "In unserer Klasse sind fünfundzwanzig Schüler."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Klassen"
+    ]
   },
   {
     "id": "kleidung_nf_1",
+    "lang": "de",
     "lemma": "Kleidung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Kleidungen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10366,26 +10545,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Kleidung",
+      "de": "die Kleidung",
       "ko": "의복",
       "en": "clothing",
-      "es": "ropa",
-      "fr": "vêtements",
-      "it": "abbigliamento",
-      "pt": "roupa",
+      "es": "la ropa",
+      "fr": "les vêtements",
+      "it": "l'abbigliamento",
+      "pt": "a roupa",
       "ja": "衣類",
       "zh": "衣服",
       "ru": "одежда"
     },
     "examples": [
       "Wo finde ich Kleidung?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Kleidungen"
+    ]
   },
   {
     "id": "klein_adj_1",
+    "lang": "de",
     "lemma": "klein",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10408,11 +10585,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Eltville ist eine kleine Stadt am Rhein."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "kochen_v_1",
+    "lang": "de",
     "lemma": "kochen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10421,6 +10598,14 @@ const WORDS_DE_A1 = [
       "food",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich koche",
+      "pres_du": "du kochst",
+      "pres_er": "er kocht",
+      "praet": "kochte",
+      "part2": "gekocht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kochen",
       "ko": "요리하다",
@@ -10435,49 +10620,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Herr Georgi kann gut kochen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich koche",
-      "pres_du": "du kochst",
-      "pres_er": "er kocht",
-      "praet": "kochte",
-      "part2": "gekocht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "koffer_nm_1",
+    "lang": "de",
     "lemma": "Koffer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Koffer",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Koffer",
+      "de": "der Koffer",
       "ko": "여행 가방",
       "en": "suitcase",
-      "es": "maleta",
-      "fr": "valise",
-      "it": "valigia",
-      "pt": "mala",
+      "es": "la maleta",
+      "fr": "la valise",
+      "it": "la valigia",
+      "pt": "a mala",
       "ja": "スーツケース",
       "zh": "手提箱",
       "ru": "чемодан"
     },
     "examples": [
       "Ist das Ihr Koffer?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Koffer"
+    ]
   },
   {
     "id": "kollege_nm_1",
+    "lang": "de",
     "lemma": "Kollege",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kollegen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10485,26 +10666,24 @@ const WORDS_DE_A1 = [
       "social"
     ],
     "meanings": {
-      "de": "Kollege",
+      "de": "der Kollege",
       "ko": "동료",
       "en": "colleague",
-      "es": "colega",
-      "fr": "collègue",
-      "it": "collega",
-      "pt": "colega",
+      "es": "el colega",
+      "fr": "le collègue",
+      "it": "il collega",
+      "pt": "o colega",
       "ja": "同僚",
       "zh": "同事",
       "ru": "коллега"
     },
     "examples": [
       "Wie heißt die neue Kollegin?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kollegen"
+    ]
   },
   {
     "id": "kommen_v_1",
+    "lang": "de",
     "lemma": "kommen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10513,6 +10692,14 @@ const WORDS_DE_A1 = [
       "basic",
       "movement"
     ],
+    "conj": {
+      "pres_ich": "ich komme",
+      "pres_du": "du kommst",
+      "pres_er": "er kommt",
+      "praet": "kam",
+      "part2": "gekommen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "kommen",
       "ko": "오다",
@@ -10527,19 +10714,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Woher kommen Sie? - Aus Frankreich."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich komme",
-      "pres_du": "du kommst",
-      "pres_er": "er kommt",
-      "praet": "kam",
-      "part2": "gekommen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "koennen_v_1",
+    "lang": "de",
     "lemma": "können",
     "pos": "Verb",
     "cefr": "A1",
@@ -10548,6 +10727,14 @@ const WORDS_DE_A1 = [
       "basic",
       "grammar"
     ],
+    "conj": {
+      "pres_ich": "ich kann",
+      "pres_du": "du kannst",
+      "pres_er": "er kann",
+      "praet": "konnte",
+      "part2": "gekonnt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "können",
       "ko": "할 수 있다",
@@ -10562,21 +10749,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kann Deutsch und Russisch."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kann",
-      "pres_du": "du kannst",
-      "pres_er": "er kann",
-      "praet": "konnte",
-      "part2": "gekonnt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "konto_nn_1",
+    "lang": "de",
     "lemma": "Konto",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Konten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10584,28 +10766,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Konto",
+      "de": "das Konto",
       "ko": "계좌",
       "en": "account",
-      "es": "cuenta",
-      "fr": "compte",
-      "it": "conto",
-      "pt": "conta",
+      "es": "la cuenta",
+      "fr": "le compte",
+      "it": "il conto",
+      "pt": "a conta",
       "ja": "口座",
       "zh": "账户",
       "ru": "счет"
     },
     "examples": [
       "Das Geld überweisen wir am ersten März auf Ihr Konto."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Konten"
+    ]
   },
   {
     "id": "kopf_nm_1",
+    "lang": "de",
     "lemma": "Kopf",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Köpfe",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10613,26 +10796,24 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Kopf",
+      "de": "der Kopf",
       "ko": "머리",
       "en": "head",
-      "es": "cabeza",
-      "fr": "tête",
-      "it": "testa",
-      "pt": "cabeça",
+      "es": "la cabeza",
+      "fr": "la tête",
+      "it": "la testa",
+      "pt": "a cabeça",
       "ja": "頭",
       "zh": "头",
       "ru": "голова"
     },
     "examples": [
       "Mein Kopf tut weh!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Köpfe"
+    ]
   },
   {
     "id": "kosten_v_1",
+    "lang": "de",
     "lemma": "kosten",
     "pos": "Verb",
     "cefr": "A1",
@@ -10641,6 +10822,14 @@ const WORDS_DE_A1 = [
       "shopping",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich koste",
+      "pres_du": "du kostest",
+      "pres_er": "er kostet",
+      "praet": "kostete",
+      "part2": "gekostet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kosten",
       "ko": "값이 나가다",
@@ -10655,19 +10844,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie viel kostet das? 10 Euro."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich koste",
-      "pres_du": "du kostest",
-      "pres_er": "er kostet",
-      "praet": "kostete",
-      "part2": "gekostet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "krank_adj_1",
+    "lang": "de",
     "lemma": "krank",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10690,11 +10871,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kann heute nicht zur Arbeit kommen, ich bin krank."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "kriegen_v_1",
+    "lang": "de",
     "lemma": "kriegen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10703,6 +10884,14 @@ const WORDS_DE_A1 = [
       "daily",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich kriege",
+      "pres_du": "du kriegst",
+      "pres_er": "er kriegt",
+      "praet": "kriegte",
+      "part2": "gekriegt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kriegen",
       "ko": "얻다",
@@ -10717,21 +10906,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich kriege 15 Euro in der Stunde für meine Arbeit."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kriege",
-      "pres_du": "du kriegst",
-      "pres_er": "er kriegt",
-      "praet": "kriegte",
-      "part2": "gekriegt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "kueche_nf_1",
+    "lang": "de",
     "lemma": "Küche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Küchen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10739,28 +10923,29 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Küche",
+      "de": "die Küche",
       "ko": "부엌",
       "en": "kitchen",
-      "es": "cocina",
-      "fr": "cuisine",
-      "it": "cucina",
-      "pt": "cozinha",
+      "es": "la cocina",
+      "fr": "la cuisine",
+      "it": "la cucina",
+      "pt": "a cozinha",
       "ja": "台所",
       "zh": "厨房",
       "ru": "кухня"
     },
     "examples": [
       "Der neue Herd kommt in die Küche."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Küchen"
+    ]
   },
   {
     "id": "kuchen_nm_1",
+    "lang": "de",
     "lemma": "Kuchen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kuchen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10768,28 +10953,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Kuchen",
+      "de": "der Kuchen",
       "ko": "케이크",
       "en": "cake",
-      "es": "pastel",
-      "fr": "gâteau",
-      "it": "torta",
-      "pt": "bolo",
+      "es": "el pastel",
+      "fr": "le gâteau",
+      "it": "la torta",
+      "pt": "o bolo",
       "ja": "ケーキ",
       "zh": "蛋糕",
       "ru": "пирог"
     },
     "examples": [
       "Ich nehme ein Stück Kuchen."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kuchen"
+    ]
   },
   {
     "id": "kugelschreiber_nm_1",
+    "lang": "de",
     "lemma": "Kugelschreiber",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kugelschreiber",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10797,54 +10983,53 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Kugelschreiber",
+      "de": "der Kugelschreiber",
       "ko": "볼펜",
       "en": "ballpoint pen",
-      "es": "bolígrafo",
-      "fr": "stylo",
-      "it": "penna a sfera",
-      "pt": "caneta",
+      "es": "el bolígrafo",
+      "fr": "le stylo",
+      "it": "la penna a sfera",
+      "pt": "a caneta",
       "ja": "ボールペン",
       "zh": "圆珠笔",
       "ru": "шариковая ручка"
     },
     "examples": [
       "Hast du einen Kugelschreiber für mich?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kugelschreiber"
+    ]
   },
   {
     "id": "kuehlschrank_nm_1",
+    "lang": "de",
     "lemma": "Kühlschrank",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kühlschränke",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kühlschrank",
+      "de": "der Kühlschrank",
       "ko": "냉장고",
       "en": "refrigerator",
-      "es": "frigorífico",
-      "fr": "réfrigérateur",
-      "it": "frigorifero",
-      "pt": "frigorífico",
+      "es": "el frigorífico",
+      "fr": "le réfrigérateur",
+      "it": "il frigorifero",
+      "pt": "o frigorífico",
       "ja": "冷蔵庫",
       "zh": "冰箱",
       "ru": "холодильник"
     },
     "examples": [
       "Die Milch steht im Kühlschrank."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kühlschränke"
+    ]
   },
   {
     "id": "kulturell_adj_1",
+    "lang": "de",
     "lemma": "kulturell",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10866,11 +11051,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "kuemmern_v_1",
+    "lang": "de",
     "lemma": "kümmern",
     "pos": "Verb",
     "cefr": "A1",
@@ -10878,6 +11063,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich kümmere mich",
+      "pres_du": "du kümmerst dich",
+      "pres_er": "er kümmert sich",
+      "praet": "kümmerte",
+      "part2": "gekümmert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "kümmern",
       "ko": "돌보다",
@@ -10892,21 +11085,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Jede Mutter kümmert sich um ihre kleinen Kinder."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich kümmere mich",
-      "pres_du": "du kümmerst dich",
-      "pres_er": "er kümmert sich",
-      "praet": "kümmerte",
-      "part2": "gekümmert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "kunde_nm_1",
+    "lang": "de",
     "lemma": "Kunde",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kunden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -10914,54 +11102,53 @@ const WORDS_DE_A1 = [
       "business"
     ],
     "meanings": {
-      "de": "Kunde",
+      "de": "der Kunde",
       "ko": "고객",
       "en": "customer",
-      "es": "cliente",
-      "fr": "client",
-      "it": "cliente",
-      "pt": "cliente",
+      "es": "el cliente",
+      "fr": "le client",
+      "it": "il cliente",
+      "pt": "o cliente",
       "ja": "客",
       "zh": "顾客",
       "ru": "клиент"
     },
     "examples": [
       "Einen Moment, bitte. Ich habe eine Kundin."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kunden"
+    ]
   },
   {
     "id": "kurs_nm_1",
+    "lang": "de",
     "lemma": "Kurs",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Kurse",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Kurs",
+      "de": "der Kurs",
       "ko": "강좌",
       "en": "course",
-      "es": "curso",
-      "fr": "cours",
-      "it": "corso",
-      "pt": "curso",
+      "es": "el curso",
+      "fr": "le cours",
+      "it": "il corso",
+      "pt": "o curso",
       "ja": "コース",
       "zh": "课程",
       "ru": "курс"
     },
     "examples": [
       "Der Deutschkurs geht bis zum Sommer."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Kurse"
+    ]
   },
   {
     "id": "kurz_adj_1",
+    "lang": "de",
     "lemma": "kurz",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -10983,11 +11170,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ricardo hat kurzes Haar."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lachen_v_1",
+    "lang": "de",
     "lemma": "lachen",
     "pos": "Verb",
     "cefr": "A1",
@@ -10996,6 +11183,14 @@ const WORDS_DE_A1 = [
       "feeling",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich lache",
+      "pres_du": "du lachst",
+      "pres_er": "er lacht",
+      "praet": "lachte",
+      "part2": "gelacht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "lachen",
       "ko": "웃다",
@@ -11010,75 +11205,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Kinder lachen viel."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lache",
-      "pres_du": "du lachst",
-      "pres_er": "er lacht",
-      "praet": "lachte",
-      "part2": "gelacht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "laden_nm_1",
+    "lang": "de",
     "lemma": "Laden",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Läden",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Laden",
+      "de": "der Laden",
       "ko": "가게",
       "en": "shop",
-      "es": "tienda",
-      "fr": "magasin",
-      "it": "negozio",
-      "pt": "loja",
+      "es": "la tienda",
+      "fr": "le magasin",
+      "it": "il negozio",
+      "pt": "a loja",
       "ja": "店",
       "zh": "商店",
       "ru": "магазин"
     },
     "examples": [
       "Im Buchladen können Sie Bücher kaufen."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Läden"
+    ]
   },
   {
     "id": "land_nn_1",
+    "lang": "de",
     "lemma": "Land",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Länder",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Land",
+      "de": "das Land",
       "ko": "나라",
       "en": "country",
-      "es": "país",
-      "fr": "pays",
-      "it": "paese",
-      "pt": "país",
+      "es": "el país",
+      "fr": "le pays",
+      "it": "il paese",
+      "pt": "o país",
       "ja": "国",
       "zh": "国家",
       "ru": "страна"
     },
     "examples": [
       "Italien ist ein schönes Land."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Länder"
+    ]
   },
   {
     "id": "lang_adj_1",
+    "lang": "de",
     "lemma": "lang",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11100,11 +11289,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Jeans ist zu lang."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lange_adv_1",
+    "lang": "de",
     "lemma": "lange",
     "pos": "Adverb",
     "cefr": "A1",
@@ -11127,11 +11316,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie lange fährt der Zug von Hamburg nach Berlin?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "langsam_adj_1",
+    "lang": "de",
     "lemma": "langsam",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11153,11 +11342,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Könnten Sie bitte etwas langsamer sprechen?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "laufen_v_1",
+    "lang": "de",
     "lemma": "laufen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11166,6 +11355,14 @@ const WORDS_DE_A1 = [
       "movement",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich laufe",
+      "pres_du": "du läufst",
+      "pres_er": "er läuft",
+      "praet": "lief",
+      "part2": "gelaufen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "laufen",
       "ko": "걷다",
@@ -11180,19 +11377,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte nicht Auto fahren, ich möchte laufen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich laufe",
-      "pres_du": "du läufst",
-      "pres_er": "er läuft",
-      "praet": "lief",
-      "part2": "gelaufen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "laut_adj_1",
+    "lang": "de",
     "lemma": "laut",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11214,11 +11403,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Nicht so laut! Das Baby schläft."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "leben_v_1",
+    "lang": "de",
     "lemma": "leben",
     "pos": "Verb",
     "cefr": "A1",
@@ -11227,6 +11416,14 @@ const WORDS_DE_A1 = [
       "basic",
       "society"
     ],
+    "conj": {
+      "pres_ich": "ich lebe",
+      "pres_du": "du lebst",
+      "pres_er": "er lebt",
+      "praet": "lebte",
+      "part2": "gelebt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "leben",
       "ko": "살다",
@@ -11241,75 +11438,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie lebt bei ihrer Schwester."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lebe",
-      "pres_du": "du lebst",
-      "pres_er": "er lebt",
-      "praet": "lebte",
-      "part2": "gelebt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "leben_nn_1",
+    "lang": "de",
     "lemma": "Leben",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Leben",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Leben",
+      "de": "das Leben",
       "ko": "삶",
       "en": "life",
-      "es": "vida",
-      "fr": "vie",
-      "it": "vita",
-      "pt": "vida",
+      "es": "la vida",
+      "fr": "la vie",
+      "it": "la vita",
+      "pt": "a vida",
       "ja": "人生",
       "zh": "生活",
       "ru": "жизнь"
     },
     "examples": [
       "Das Leben in diesem Land ist teuer."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Leben"
+    ]
   },
   {
     "id": "lebensmittel_nn_1",
+    "lang": "de",
     "lemma": "Lebensmittel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Lebensmittel",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Lebensmittel",
+      "de": "das Lebensmittel",
       "ko": "식료품",
       "en": "groceries",
-      "es": "alimentos",
-      "fr": "denrées alimentaires",
-      "it": "generi alimentari",
-      "pt": "alimentos",
+      "es": "los alimentos",
+      "fr": "les denrées alimentaires",
+      "it": "i generi alimentari",
+      "pt": "os alimentos",
       "ja": "食料品",
       "zh": "食品",
       "ru": "продукты питания"
     },
     "examples": [
       "Lebensmittel bekommen Sie im Supermarkt."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Lebensmittel"
+    ]
   },
   {
     "id": "ledig_adj_1",
+    "lang": "de",
     "lemma": "ledig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11331,11 +11522,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sind Sie verheiratet? Nein. Ledig."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "legen_v_1",
+    "lang": "de",
     "lemma": "legen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11344,6 +11535,14 @@ const WORDS_DE_A1 = [
       "action",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich lege",
+      "pres_du": "du legst",
+      "pres_er": "er legt",
+      "praet": "legte",
+      "part2": "gelegt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "legen",
       "ko": "놓다",
@@ -11358,21 +11557,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Legen Sie das Buch auf den Tisch."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lege",
-      "pres_du": "du legst",
-      "pres_er": "er legt",
-      "praet": "legte",
-      "part2": "gelegt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "lehrer_nm_1",
+    "lang": "de",
     "lemma": "Lehrer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Lehrer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11380,26 +11574,24 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Lehrer",
+      "de": "der Lehrer",
       "ko": "교사",
       "en": "teacher",
-      "es": "maestro",
-      "fr": "professeur",
-      "it": "insegnante",
-      "pt": "professor",
+      "es": "el maestro",
+      "fr": "le professeur",
+      "it": "l'insegnante",
+      "pt": "o professor",
       "ja": "教師",
       "zh": "教师",
       "ru": "учитель"
     },
     "examples": [
       "Unsere Deutschlehrerin heißt Frau Müller."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Lehrer"
+    ]
   },
   {
     "id": "leicht_adj_1",
+    "lang": "de",
     "lemma": "leicht",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11421,11 +11613,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Deutsch ist nicht leicht."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "leider_adv_1",
+    "lang": "de",
     "lemma": "leider",
     "pos": "Adverb",
     "cefr": "A1",
@@ -11448,11 +11640,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Leider kann ich nicht kommen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "leise_adj_1",
+    "lang": "de",
     "lemma": "leise",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11474,11 +11666,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Seid leise. Die anderen schlafen schon."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lernen_v_1",
+    "lang": "de",
     "lemma": "lernen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11487,6 +11679,14 @@ const WORDS_DE_A1 = [
       "education",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich lerne",
+      "pres_du": "du lernst",
+      "pres_er": "er lernt",
+      "praet": "lernte",
+      "part2": "gelernt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "lernen",
       "ko": "배우다",
@@ -11501,19 +11701,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie lange lernen Sie schon Deutsch?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lerne",
-      "pres_du": "du lernst",
-      "pres_er": "er lernt",
-      "praet": "lernte",
-      "part2": "gelernt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "lesen_v_1",
+    "lang": "de",
     "lemma": "lesen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11521,6 +11713,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich lese",
+      "pres_du": "du liest",
+      "pres_er": "er liest",
+      "praet": "las",
+      "part2": "gelesen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "lesen",
       "ko": "읽다",
@@ -11535,19 +11735,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich lese ein Buch von García Márquez."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich lese",
-      "pres_du": "du liest",
-      "pres_er": "er liest",
-      "praet": "las",
-      "part2": "gelesen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "letzte_adj_1",
+    "lang": "de",
     "lemma": "letzte",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11570,41 +11762,44 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Morgen ist der letzte Kurstag."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "leute_nn_1",
+    "lang": "de",
     "lemma": "Leute",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Leute",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Leute",
+      "de": "die Leute",
       "ko": "사람들",
       "en": "people",
-      "es": "gente",
-      "fr": "gens",
-      "it": "gente",
-      "pt": "gente",
+      "es": "la gente",
+      "fr": "les gens",
+      "it": "la gente",
+      "pt": "a gente",
       "ja": "人々",
       "zh": "人们",
       "ru": "люди"
     },
     "examples": [
       "In der Disko sind viele Leute."
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Leute"
+    ]
   },
   {
     "id": "licht_nn_1",
+    "lang": "de",
     "lemma": "Licht",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Lichter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -11612,26 +11807,24 @@ const WORDS_DE_A1 = [
       "housing"
     ],
     "meanings": {
-      "de": "Licht",
+      "de": "das Licht",
       "ko": "불",
       "en": "light",
-      "es": "luz",
-      "fr": "lumière",
-      "it": "luce",
-      "pt": "luz",
+      "es": "la luz",
+      "fr": "la lumière",
+      "it": "la luce",
+      "pt": "a luz",
       "ja": "光",
       "zh": "光",
       "ru": "свет"
     },
     "examples": [
       "Wo macht man hier das Licht an?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Lichter"
+    ]
   },
   {
     "id": "lieb_adj_1",
+    "lang": "de",
     "lemma": "lieb",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11653,11 +11846,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Liebe Susanne, lieber Hans,"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lieben_v_1",
+    "lang": "de",
     "lemma": "lieben",
     "pos": "Verb",
     "cefr": "A1",
@@ -11665,6 +11858,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich liebe",
+      "pres_du": "du liebst",
+      "pres_er": "er liebt",
+      "praet": "liebte",
+      "part2": "geliebt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "lieben",
       "ko": "사랑하다",
@@ -11679,19 +11880,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich liebe dich!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich liebe",
-      "pres_du": "du liebst",
-      "pres_er": "er liebt",
-      "praet": "liebte",
-      "part2": "geliebt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "lieber_adv_1",
+    "lang": "de",
     "lemma": "lieber",
     "pos": "Adverb",
     "cefr": "A1",
@@ -11714,67 +11907,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie fährt lieber mit der Bahn."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lieblingsfilm_nm_1",
+    "lang": "de",
     "lemma": "Lieblingsfilm",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Lieblingsfilme",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Lieblingsfilm",
+      "de": "der Lieblingsfilm",
       "ko": "가장 좋아하는 영화",
       "en": "favorite movie",
-      "es": "película favorita",
-      "fr": "film préféré",
-      "it": "film preferito",
-      "pt": "filme favorito",
+      "es": "la película favorita",
+      "fr": "le film préféré",
+      "it": "il film preferito",
+      "pt": "o filme favorito",
       "ja": "お気に入りの映画",
       "zh": "最喜欢的电影",
       "ru": "любимый фильм"
     },
     "examples": [
       "Mein Lieblingsfilm ist „Schwarze Augen“."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Lieblingsfilme"
+    ]
   },
   {
     "id": "lied_nn_1",
+    "lang": "de",
     "lemma": "Lied",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Lieder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Lied",
+      "de": "das Lied",
       "ko": "노래",
       "en": "song",
-      "es": "canción",
-      "fr": "chanson",
-      "it": "canzone",
-      "pt": "canção",
+      "es": "la canción",
+      "fr": "la chanson",
+      "it": "la canzone",
+      "pt": "a canção",
       "ja": "歌",
       "zh": "歌曲",
       "ru": "песня"
     },
     "examples": [
       "Welches ist dein Lieblingslied?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Lieder"
+    ]
   },
   {
     "id": "liegen_v_1",
+    "lang": "de",
     "lemma": "liegen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11783,6 +11978,14 @@ const WORDS_DE_A1 = [
       "location",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich liege",
+      "pres_du": "du liegst",
+      "pres_er": "er liegt",
+      "praet": "lag",
+      "part2": "gelegen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "liegen",
       "ko": "놓여 있다",
@@ -11797,19 +12000,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Buch liegt auf dem Tisch."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich liege",
-      "pres_du": "du liegst",
-      "pres_er": "er liegt",
-      "praet": "lag",
-      "part2": "gelegen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "links_adv_1",
+    "lang": "de",
     "lemma": "links",
     "pos": "Adverb",
     "cefr": "A1",
@@ -11831,67 +12026,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Gehen Sie bitte nach links."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "lkw_nm_1",
+    "lang": "de",
     "lemma": "Lkw",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Lkws",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Lkw",
+      "de": "der Lkw",
       "ko": "트럭",
       "en": "truck",
-      "es": "camión",
-      "fr": "camion",
-      "it": "camion",
-      "pt": "camião",
+      "es": "el camión",
+      "fr": "le camion",
+      "it": "il camion",
+      "pt": "o camião",
       "ja": "トラック",
       "zh": "卡车",
       "ru": "грузовик"
     },
     "examples": [
       "Der Lkw ist sehr groß."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Lkws"
+    ]
   },
   {
     "id": "loesung_nf_1",
+    "lang": "de",
     "lemma": "Lösung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Lösungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Lösung",
+      "de": "die Lösung",
       "ko": "해답",
       "en": "solution",
-      "es": "solución",
-      "fr": "solution",
-      "it": "soluzione",
-      "pt": "solução",
+      "es": "la solución",
+      "fr": "la solution",
+      "it": "la soluzione",
+      "pt": "a solução",
       "ja": "解決",
       "zh": "答案",
       "ru": "решение"
     },
     "examples": [
       "Die Lösung ist ganz einfach."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Lösungen"
+    ]
   },
   {
     "id": "lustig_adj_1",
+    "lang": "de",
     "lemma": "lustig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -11913,11 +12110,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Film war sehr lustig."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "machen_v_1",
+    "lang": "de",
     "lemma": "machen",
     "pos": "Verb",
     "cefr": "A1",
@@ -11926,6 +12123,14 @@ const WORDS_DE_A1 = [
       "basic",
       "activity"
     ],
+    "conj": {
+      "pres_ich": "ich mache",
+      "pres_du": "du machst",
+      "pres_er": "er macht",
+      "praet": "machte",
+      "part2": "gemacht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "machen",
       "ko": "하다",
@@ -11940,47 +12145,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Was machst du heute?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich mache",
-      "pres_du": "du machst",
-      "pres_er": "er macht",
-      "praet": "machte",
-      "part2": "gemacht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "maedchen_nn_1",
+    "lang": "de",
     "lemma": "Mädchen",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Mädchen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mädchen",
+      "de": "das Mädchen",
       "ko": "소녀",
       "en": "girl",
-      "es": "chica",
-      "fr": "fille",
-      "it": "ragazza",
-      "pt": "rapariga",
+      "es": "la chica",
+      "fr": "la fille",
+      "it": "la ragazza",
+      "pt": "a rapariga",
       "ja": "少女",
       "zh": "女孩",
       "ru": "девочка"
     },
     "examples": [
       "Das Mädchen spielt im Garten."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Mädchen"
+    ]
   },
   {
     "id": "man_pron_1",
+    "lang": "de",
     "lemma": "man",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -12003,39 +12201,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hier darf man nicht rauchen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "mann_nm_1",
+    "lang": "de",
     "lemma": "Mann",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Männer",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mann",
+      "de": "der Mann",
       "ko": "남자",
       "en": "man",
-      "es": "hombre",
-      "fr": "homme",
-      "it": "uomo",
-      "pt": "homem",
+      "es": "el hombre",
+      "fr": "l'homme",
+      "it": "l'uomo",
+      "pt": "o homem",
       "ja": "男",
       "zh": "男人",
       "ru": "мужчина"
     },
     "examples": [
       "Das ist mein Mann."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Männer"
+    ]
   },
   {
     "id": "maennlich_adj_1",
+    "lang": "de",
     "lemma": "männlich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12057,95 +12256,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kreuzen Sie bitte an: weiblich oder männlich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "markt_nm_1",
+    "lang": "de",
     "lemma": "Markt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Märkte",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Markt",
+      "de": "der Markt",
       "ko": "시장",
       "en": "market",
-      "es": "mercado",
-      "fr": "marché",
-      "it": "mercato",
-      "pt": "mercado",
+      "es": "el mercado",
+      "fr": "le marché",
+      "it": "il mercato",
+      "pt": "o mercado",
       "ja": "市場",
       "zh": "市场",
       "ru": "рынок"
     },
     "examples": [
       "Ich gehe heute auf den Markt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Märkte"
+    ]
   },
   {
     "id": "maschine_nf_1",
+    "lang": "de",
     "lemma": "Maschine",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Maschinen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Maschine",
+      "de": "die Maschine",
       "ko": "기계",
       "en": "machine",
-      "es": "máquina",
-      "fr": "machine",
-      "it": "macchina",
-      "pt": "máquina",
+      "es": "la máquina",
+      "fr": "la machine",
+      "it": "la macchina",
+      "pt": "a máquina",
       "ja": "機械",
       "zh": "机器",
       "ru": "машина"
     },
     "examples": [
       "Die Waschmaschine funktioniert nicht."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Maschinen"
+    ]
   },
   {
     "id": "meer_nn_1",
+    "lang": "de",
     "lemma": "Meer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Meere",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Meer",
+      "de": "das Meer",
       "ko": "바다",
       "en": "sea",
-      "es": "mar",
-      "fr": "mer",
-      "it": "mare",
-      "pt": "mar",
+      "es": "el mar",
+      "fr": "la mer",
+      "it": "il mare",
+      "pt": "o mar",
       "ja": "海",
       "zh": "海",
       "ru": "море"
     },
     "examples": [
       "Wir machen Urlaub am Meer."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Meere"
+    ]
   },
   {
     "id": "mehr_adv_1",
+    "lang": "de",
     "lemma": "mehr",
     "pos": "Adverb",
     "cefr": "A1",
@@ -12168,11 +12370,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte nicht mehr essen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "mein_pron_1",
+    "lang": "de",
     "lemma": "mein",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -12195,11 +12397,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist mein Buch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "meistens_adv_1",
+    "lang": "de",
     "lemma": "meistens",
     "pos": "Adverb",
     "cefr": "A1",
@@ -12221,39 +12423,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich trinke meistens Tee."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "mensch_nm_1",
+    "lang": "de",
     "lemma": "Mensch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Menschen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mensch",
+      "de": "der Mensch",
       "ko": "사람",
       "en": "human",
-      "es": "ser humano",
-      "fr": "humain",
-      "it": "essere umano",
-      "pt": "ser humano",
+      "es": "el ser humano",
+      "fr": "l'humain",
+      "it": "l'essere umano",
+      "pt": "o ser humano",
       "ja": "人間",
       "zh": "人",
       "ru": "человек"
     },
     "examples": [
       "Die Menschen hier sind freundlich."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Menschen"
+    ]
   },
   {
     "id": "mieten_v_1",
+    "lang": "de",
     "lemma": "mieten",
     "pos": "Verb",
     "cefr": "A1",
@@ -12262,6 +12465,14 @@ const WORDS_DE_A1 = [
       "housing",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich miete",
+      "pres_du": "du mietest",
+      "pres_er": "er mietet",
+      "praet": "mietete",
+      "part2": "gemietet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "mieten",
       "ko": "빌리다",
@@ -12276,47 +12487,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir mieten eine Wohnung."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich miete",
-      "pres_du": "du mietest",
-      "pres_er": "er mietet",
-      "praet": "mietete",
-      "part2": "gemietet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "milch_nf_1",
+    "lang": "de",
     "lemma": "Milch",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Milch",
+      "de": "die Milch",
       "ko": "우유",
       "en": "milk",
-      "es": "leche",
-      "fr": "lait",
-      "it": "latte",
-      "pt": "leite",
+      "es": "la leche",
+      "fr": "le lait",
+      "it": "il latte",
+      "pt": "o leite",
       "ja": "牛乳",
       "zh": "牛奶",
       "ru": "молоко"
     },
     "examples": [
       "Trinken Sie Milch?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "mit_prep_1",
+    "lang": "de",
     "lemma": "mit",
     "pos": "Präposition",
     "cefr": "A1",
@@ -12339,11 +12542,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich gehe mit meiner Freundin ins Kino."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "mitbringen_v_1",
+    "lang": "de",
     "lemma": "mitbringen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12352,6 +12555,14 @@ const WORDS_DE_A1 = [
       "social",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich bringe mit",
+      "pres_du": "du bringst mit",
+      "pres_er": "er bringt mit",
+      "praet": "brachte mit",
+      "part2": "mitgebracht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "mitbringen",
       "ko": "가져오다",
@@ -12366,19 +12577,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bringen Sie bitte ein Foto mit."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bringe mit",
-      "pres_du": "du bringst mit",
-      "pres_er": "er bringt mit",
-      "praet": "brachte mit",
-      "part2": "mitgebracht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "mitkommen_v_1",
+    "lang": "de",
     "lemma": "mitkommen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12386,6 +12589,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich komme mit",
+      "pres_du": "du kommst mit",
+      "pres_er": "er kommt mit",
+      "praet": "kam mit",
+      "part2": "mitgekommen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "mitkommen",
       "ko": "함께 가다",
@@ -12400,19 +12611,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kommst du mit?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich komme mit",
-      "pres_du": "du kommst mit",
-      "pres_er": "er kommt mit",
-      "praet": "kam mit",
-      "part2": "mitgekommen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "mitmachen_v_1",
+    "lang": "de",
     "lemma": "mitmachen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12420,6 +12623,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich mache mit",
+      "pres_du": "du machst mit",
+      "pres_er": "er macht mit",
+      "praet": "machte mit",
+      "part2": "mitgemacht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "mitmachen",
       "ko": "참여하다",
@@ -12434,19 +12645,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir machen ein Spiel. Machst du mit?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich mache mit",
-      "pres_du": "du machst mit",
-      "pres_er": "er macht mit",
-      "praet": "machte mit",
-      "part2": "mitgemacht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "mitnehmen_v_1",
+    "lang": "de",
     "lemma": "mitnehmen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12455,6 +12658,14 @@ const WORDS_DE_A1 = [
       "daily",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich nehme mit",
+      "pres_du": "du nimmst mit",
+      "pres_er": "er nimmt mit",
+      "praet": "nahm mit",
+      "part2": "mitgenommen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "mitnehmen",
       "ko": "가지고 가다",
@@ -12469,103 +12680,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Nehmen Sie Ihre Tasche mit."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich nehme mit",
-      "pres_du": "du nimmst mit",
-      "pres_er": "er nimmt mit",
-      "praet": "nahm mit",
-      "part2": "mitgenommen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "mittag_nm_1",
+    "lang": "de",
     "lemma": "Mittag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Mittage",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mittag",
+      "de": "der Mittag",
       "ko": "정오",
       "en": "noon",
-      "es": "mediodía",
-      "fr": "midi",
-      "it": "mezzogiorno",
-      "pt": "meio-dia",
+      "es": "el mediodía",
+      "fr": "le midi",
+      "it": "il mezzogiorno",
+      "pt": "o meio-dia",
       "ja": "正午",
       "zh": "中午",
       "ru": "полдень"
     },
     "examples": [
       "Am Mittag esse ich in der Kantine."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Mittage"
+    ]
   },
   {
     "id": "mitte_nf_1",
+    "lang": "de",
     "lemma": "Mitte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mitten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mitte",
+      "de": "die Mitte",
       "ko": "중간",
       "en": "middle",
-      "es": "centro",
-      "fr": "milieu",
-      "it": "centro",
-      "pt": "centro",
+      "es": "el centro",
+      "fr": "le milieu",
+      "it": "il centro",
+      "pt": "o centro",
       "ja": "真ん中",
       "zh": "中间",
       "ru": "середина"
     },
     "examples": [
       "Ich wohne in der Mitte von Berlin."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Mitten"
+    ]
   },
   {
     "id": "moebel_nn_1",
+    "lang": "de",
     "lemma": "Möbel",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Möbel",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Möbel",
+      "de": "das Möbel",
       "ko": "가구",
       "en": "furniture",
-      "es": "muebles",
-      "fr": "meubles",
-      "it": "mobili",
-      "pt": "móveis",
+      "es": "los muebles",
+      "fr": "les meubles",
+      "it": "i mobili",
+      "pt": "os móveis",
       "ja": "家具",
       "zh": "家具",
       "ru": "мебель"
     },
     "examples": [
       "Die Möbel sind neu."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Möbel"
+    ]
   },
   {
     "id": "moechten_v_1",
+    "lang": "de",
     "lemma": "möchten",
     "pos": "Verb",
     "cefr": "A1",
@@ -12574,6 +12780,14 @@ const WORDS_DE_A1 = [
       "basic",
       "wish"
     ],
+    "conj": {
+      "pres_ich": "ich möchte",
+      "pres_du": "du möchtest",
+      "pres_er": "er möchte",
+      "praet": "mochte",
+      "part2": "gemocht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "möchten",
       "ko": "하고 싶다",
@@ -12588,19 +12802,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte einen Kaffee."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich möchte",
-      "pres_du": "du möchtest",
-      "pres_er": "er möchte",
-      "praet": "mochte",
-      "part2": "gemocht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "moegen_v_1",
+    "lang": "de",
     "lemma": "mögen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12609,6 +12815,14 @@ const WORDS_DE_A1 = [
       "basic",
       "feeling"
     ],
+    "conj": {
+      "pres_ich": "ich mag",
+      "pres_du": "du magst",
+      "pres_er": "er mag",
+      "praet": "mochte",
+      "part2": "gemocht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "mögen",
       "ko": "좋아하다",
@@ -12623,19 +12837,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich mag Pizza."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich mag",
-      "pres_du": "du magst",
-      "pres_er": "er mag",
-      "praet": "mochte",
-      "part2": "gemocht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "moeglich_adj_1",
+    "lang": "de",
     "lemma": "möglich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12657,67 +12863,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist das möglich?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "moment_nm_1",
+    "lang": "de",
     "lemma": "Moment",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Momente",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Moment",
+      "de": "der Moment",
       "ko": "순간",
       "en": "moment",
-      "es": "momento",
-      "fr": "moment",
-      "it": "momento",
-      "pt": "momento",
+      "es": "el momento",
+      "fr": "le moment",
+      "it": "il momento",
+      "pt": "o momento",
       "ja": "瞬間",
       "zh": "时刻",
       "ru": "момент"
     },
     "examples": [
       "Einen Moment bitte."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Momente"
+    ]
   },
   {
     "id": "monat_nm_1",
+    "lang": "de",
     "lemma": "Monat",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Monate",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Monat",
+      "de": "der Monat",
       "ko": "달",
       "en": "month",
-      "es": "mes",
-      "fr": "mois",
-      "it": "mese",
-      "pt": "mês",
+      "es": "el mes",
+      "fr": "le mois",
+      "it": "il mese",
+      "pt": "o mês",
       "ja": "月",
       "zh": "月",
       "ru": "месяц"
     },
     "examples": [
       "Der Monat hat 30 Tage."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Monate"
+    ]
   },
   {
     "id": "morgen_adv_1",
+    "lang": "de",
     "lemma": "morgen",
     "pos": "Adverb",
     "cefr": "A1",
@@ -12739,39 +12947,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Morgen habe ich frei."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "morgen_nm_1",
+    "lang": "de",
     "lemma": "Morgen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Morgen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Morgen",
+      "de": "der Morgen",
       "ko": "아침",
       "en": "morning",
-      "es": "mañana",
-      "fr": "matin",
-      "it": "mattina",
-      "pt": "manhã",
+      "es": "la mañana",
+      "fr": "le matin",
+      "it": "la mattina",
+      "pt": "a manhã",
       "ja": "朝",
       "zh": "早晨",
       "ru": "утро"
     },
     "examples": [
       "Guten Morgen!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Morgen"
+    ]
   },
   {
     "id": "morgens_adv_1",
+    "lang": "de",
     "lemma": "morgens",
     "pos": "Adverb",
     "cefr": "A1",
@@ -12793,39 +13002,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Morgens trinke ich Tee."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "motorrad_nn_1",
+    "lang": "de",
     "lemma": "Motorrad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Motorräder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Motorrad",
+      "de": "das Motorrad",
       "ko": "오토바이",
       "en": "motorcycle",
-      "es": "moto",
-      "fr": "moto",
-      "it": "moto",
-      "pt": "moto",
+      "es": "la moto",
+      "fr": "la moto",
+      "it": "la moto",
+      "pt": "a moto",
       "ja": "オートバイ",
       "zh": "摩托车",
       "ru": "мотоцикл"
     },
     "examples": [
       "Er fährt Motorrad."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Motorräder"
+    ]
   },
   {
     "id": "muede_adj_1",
+    "lang": "de",
     "lemma": "müde",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12847,39 +13057,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin müde."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "mund_nm_1",
+    "lang": "de",
     "lemma": "Mund",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Münder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mund",
+      "de": "der Mund",
       "ko": "입",
       "en": "mouth",
-      "es": "boca",
-      "fr": "bouche",
-      "it": "bocca",
-      "pt": "boca",
+      "es": "la boca",
+      "fr": "la bouche",
+      "it": "la bocca",
+      "pt": "a boca",
       "ja": "口",
       "zh": "嘴",
       "ru": "рот"
     },
     "examples": [
       "Mach bitte den Mund auf."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Münder"
+    ]
   },
   {
     "id": "muessen_v_1",
+    "lang": "de",
     "lemma": "müssen",
     "pos": "Verb",
     "cefr": "A1",
@@ -12887,6 +13098,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich muss",
+      "pres_du": "du musst",
+      "pres_er": "er muss",
+      "praet": "musste",
+      "part2": "gemusst",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "müssen",
       "ko": "해야 하다",
@@ -12901,47 +13120,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss arbeiten."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich muss",
-      "pres_du": "du musst",
-      "pres_er": "er muss",
-      "praet": "musste",
-      "part2": "gemusst",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "mutter_nf_1",
+    "lang": "de",
     "lemma": "Mutter",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Mütter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Mutter",
+      "de": "die Mutter",
       "ko": "어머니",
       "en": "mother",
-      "es": "madre",
-      "fr": "mère",
-      "it": "madre",
-      "pt": "mãe",
+      "es": "la madre",
+      "fr": "la mère",
+      "it": "la madre",
+      "pt": "a mãe",
       "ja": "母",
       "zh": "母亲",
       "ru": "мать"
     },
     "examples": [
       "Meine Mutter heißt Eva."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Mütter"
+    ]
   },
   {
     "id": "nach_prep_1",
+    "lang": "de",
     "lemma": "nach",
     "pos": "Präposition",
     "cefr": "A1",
@@ -12963,11 +13175,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich fahre nach Berlin."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "naechste_adj_1",
+    "lang": "de",
     "lemma": "nächste",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -12989,39 +13201,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Nächste Woche habe ich Urlaub."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "name_nm_1",
+    "lang": "de",
     "lemma": "Name",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Namen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Name",
+      "de": "der Name",
       "ko": "이름",
       "en": "name",
-      "es": "nombre",
-      "fr": "nom",
-      "it": "nome",
-      "pt": "nome",
+      "es": "el nombre",
+      "fr": "le nom",
+      "it": "il nome",
+      "pt": "o nome",
       "ja": "名前",
       "zh": "名字",
       "ru": "имя"
     },
     "examples": [
       "Mein Name ist Bond."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Namen"
+    ]
   },
   {
     "id": "nehmen_v_1",
+    "lang": "de",
     "lemma": "nehmen",
     "pos": "Verb",
     "cefr": "A1",
@@ -13029,6 +13242,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich nehme",
+      "pres_du": "du nimmst",
+      "pres_er": "er nimmt",
+      "praet": "nahm",
+      "part2": "genommen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "nehmen",
       "ko": "가져가다",
@@ -13043,19 +13264,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich nehme den Bus."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich nehme",
-      "pres_du": "du nimmst",
-      "pres_er": "er nimmt",
-      "praet": "nahm",
-      "part2": "genommen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "nein_int_1",
+    "lang": "de",
     "lemma": "nein",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -13077,11 +13290,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Nein, danke."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "neu_adj_1",
+    "lang": "de",
     "lemma": "neu",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13103,11 +13316,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe ein neues Auto."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "nicht_adv_1",
+    "lang": "de",
     "lemma": "nicht",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13129,11 +13342,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das stimmt nicht."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "nichts_pron_1",
+    "lang": "de",
     "lemma": "nichts",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -13155,11 +13368,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe nichts gehört."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "nie_adv_1",
+    "lang": "de",
     "lemma": "nie",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13181,11 +13394,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er kommt nie pünktlich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "noch_adv_1",
+    "lang": "de",
     "lemma": "noch",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13207,11 +13420,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist das Essen noch warm?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "normal_adj_1",
+    "lang": "de",
     "lemma": "normal",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13233,39 +13446,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist ganz normal."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "nummer_nf_1",
+    "lang": "de",
     "lemma": "Nummer",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Nummern",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Nummer",
+      "de": "die Nummer",
       "ko": "번호",
       "en": "number",
-      "es": "número",
-      "fr": "numéro",
-      "it": "numero",
-      "pt": "número",
+      "es": "el número",
+      "fr": "le numéro",
+      "it": "il numero",
+      "pt": "o número",
       "ja": "番号",
       "zh": "号码",
       "ru": "номер"
     },
     "examples": [
       "Haben Sie die falsche Nummer gewählt?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Nummern"
+    ]
   },
   {
     "id": "nur_adv_1",
+    "lang": "de",
     "lemma": "nur",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13287,11 +13501,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe nur fünf Euro."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "oben_adv_1",
+    "lang": "de",
     "lemma": "oben",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13313,39 +13527,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich wohne oben."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "obst_nn_1",
+    "lang": "de",
     "lemma": "Obst",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Obst",
+      "de": "das Obst",
       "ko": "과일",
       "en": "fruit",
-      "es": "fruta",
-      "fr": "fruit",
-      "it": "frutta",
-      "pt": "fruta",
+      "es": "la fruta",
+      "fr": "le fruit",
+      "it": "la frutta",
+      "pt": "a fruta",
       "ja": "果物",
       "zh": "水果",
       "ru": "фрукты"
     },
     "examples": [
       "Obst ist gesund."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "oder_konj_1",
+    "lang": "de",
     "lemma": "oder",
     "pos": "Konjunktion",
     "cefr": "A1",
@@ -13367,11 +13581,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kaffee oder Tee?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "oeffnen_v_1",
+    "lang": "de",
     "lemma": "öffnen",
     "pos": "Verb",
     "cefr": "A1",
@@ -13380,6 +13594,14 @@ const WORDS_DE_A1 = [
       "action",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich öffne",
+      "pres_du": "du öffnest",
+      "pres_er": "er öffnet",
+      "praet": "öffnete",
+      "part2": "geöffnet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "öffnen",
       "ko": "열다",
@@ -13394,19 +13616,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Können Sie bitte das Fenster öffnen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich öffne",
-      "pres_du": "du öffnest",
-      "pres_er": "er öffnet",
-      "praet": "öffnete",
-      "part2": "geöffnet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "geoeffnet_adj_1",
+    "lang": "de",
     "lemma": "geöffnet",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -13429,11 +13643,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Laden ist bis 20 Uhr geöffnet."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "oft_adv_1",
+    "lang": "de",
     "lemma": "oft",
     "pos": "Adverb",
     "cefr": "A1",
@@ -13455,11 +13669,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich gehe oft ins Kino."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ohne_prep_1",
+    "lang": "de",
     "lemma": "ohne",
     "pos": "Präposition",
     "cefr": "A1",
@@ -13481,181 +13695,188 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte einen Kaffee ohne Zucker."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "oel_nn_1",
+    "lang": "de",
     "lemma": "Öl",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Öle",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Öl",
+      "de": "das Öl",
       "ko": "기름",
       "en": "oil",
-      "es": "aceite",
-      "fr": "huile",
-      "it": "olio",
-      "pt": "óleo",
+      "es": "el aceite",
+      "fr": "l'huile",
+      "it": "l'olio",
+      "pt": "o óleo",
       "ja": "油",
       "zh": "油",
       "ru": "масло"
     },
     "examples": [
       "Wir brauchen Öl für den Salat."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Öle"
+    ]
   },
   {
     "id": "oma_nf_1",
+    "lang": "de",
     "lemma": "Oma",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Omas",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Oma",
+      "de": "die Oma",
       "ko": "할머니",
       "en": "grandma",
-      "es": "abuela",
-      "fr": "grand-mère",
-      "it": "nonna",
-      "pt": "avó",
+      "es": "la abuela",
+      "fr": "la grand-mère",
+      "it": "la nonna",
+      "pt": "a avó",
       "ja": "おばあちゃん",
       "zh": "奶奶",
       "ru": "бабушка"
     },
     "examples": [
       "Meine Oma wohnt in München."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Omas"
+    ]
   },
   {
     "id": "opa_nm_1",
+    "lang": "de",
     "lemma": "Opa",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Opas",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Opa",
+      "de": "der Opa",
       "ko": "할아버지",
       "en": "grandpa",
-      "es": "abuelo",
-      "fr": "grand-père",
-      "it": "nonno",
-      "pt": "avô",
+      "es": "el abuelo",
+      "fr": "le grand-père",
+      "it": "il nonno",
+      "pt": "o avô",
       "ja": "おじいちゃん",
       "zh": "爷爷",
       "ru": "дедушка"
     },
     "examples": [
       "Mein Opa ist 80 Jahre alt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Opas"
+    ]
   },
   {
     "id": "ordnung_nf_1",
+    "lang": "de",
     "lemma": "Ordnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ordnung",
+      "de": "die Ordnung",
       "ko": "질서",
       "en": "order",
-      "es": "orden",
-      "fr": "ordre",
-      "it": "ordine",
-      "pt": "ordem",
+      "es": "la orden",
+      "fr": "l'ordre",
+      "it": "l'ordine",
+      "pt": "a ordem",
       "ja": "秩序",
       "zh": "秩序",
       "ru": "порядок"
     },
     "examples": [
       "Das ist in Ordnung."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "ort_nm_1",
+    "lang": "de",
     "lemma": "Ort",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Orte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Ort",
+      "de": "der Ort",
       "ko": "장소",
       "en": "place",
-      "es": "lugar",
-      "fr": "lieu",
-      "it": "luogo",
-      "pt": "lugar",
+      "es": "el lugar",
+      "fr": "le lieu",
+      "it": "il luogo",
+      "pt": "o lugar",
       "ja": "場所",
       "zh": "地点",
       "ru": "место"
     },
     "examples": [
       "Der Ort liegt am See."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Orte"
+    ]
   },
   {
     "id": "papier_nn_1",
+    "lang": "de",
     "lemma": "Papier",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Papiere",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Papier",
+      "de": "das Papier",
       "ko": "종이",
       "en": "paper",
-      "es": "papel",
-      "fr": "papier",
-      "it": "carta",
-      "pt": "papel",
+      "es": "el papel",
+      "fr": "le papier",
+      "it": "la carta",
+      "pt": "o papel",
       "ja": "紙",
       "zh": "纸",
       "ru": "бумага"
     },
     "examples": [
       "Haben Sie Papier für den Drucker?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Papiere"
+    ]
   },
   {
     "id": "papiere_nx_1",
+    "lang": "de",
     "lemma": "Papiere",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Papiere",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13663,112 +13884,116 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Papiere",
+      "de": "die Papiere",
       "ko": "서류",
       "en": "documents",
-      "es": "papeles",
-      "fr": "papiers",
-      "it": "documenti",
-      "pt": "documentos",
+      "es": "los papeles",
+      "fr": "les papiers",
+      "it": "i documenti",
+      "pt": "os documentos",
       "ja": "書類",
       "zh": "文件",
       "ru": "документы"
     },
     "examples": [
       "Haben Sie Ihre Papiere dabei?"
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Papiere"
+    ]
   },
   {
     "id": "partner_nm_1",
+    "lang": "de",
     "lemma": "Partner",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Partner",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Partner",
+      "de": "der Partner",
       "ko": "파트너",
       "en": "partner",
-      "es": "compañero",
-      "fr": "partenaire",
-      "it": "partner",
-      "pt": "parceiro",
+      "es": "el compañero",
+      "fr": "le partenaire",
+      "it": "il partner",
+      "pt": "o parceiro",
       "ja": "パートナー",
       "zh": "伙伴",
       "ru": "партнер"
     },
     "examples": [
       "Mein Partner kommt später."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Partner"
+    ]
   },
   {
     "id": "partnerin_nf_1",
+    "lang": "de",
     "lemma": "Partnerin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Partnerinnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Partnerin",
+      "de": "die Partnerin",
       "ko": "여자 파트너",
       "en": "partner",
-      "es": "compañera",
-      "fr": "partenaire",
-      "it": "partner",
-      "pt": "parceira",
+      "es": "la compañera",
+      "fr": "la partenaire",
+      "it": "la partner",
+      "pt": "a parceira",
       "ja": "女性パートナー",
       "zh": "女伙伴",
       "ru": "партнерша"
     },
     "examples": [
       "Das ist meine Partnerin."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Partnerinnen"
+    ]
   },
   {
     "id": "party_nf_1",
+    "lang": "de",
     "lemma": "Party",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Partys",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Party",
+      "de": "die Party",
       "ko": "파티",
       "en": "party",
-      "es": "fiesta",
-      "fr": "fête",
-      "it": "festa",
-      "pt": "festa",
+      "es": "la fiesta",
+      "fr": "la fête",
+      "it": "la festa",
+      "pt": "a festa",
       "ja": "パーティー",
       "zh": "派对",
       "ru": "вечеринка"
     },
     "examples": [
       "Heute Abend ist eine Party."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Partys"
+    ]
   },
   {
     "id": "pass_nm_1",
+    "lang": "de",
     "lemma": "Pass",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Pässe",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13776,28 +14001,29 @@ const WORDS_DE_A1 = [
       "official"
     ],
     "meanings": {
-      "de": "Pass",
+      "de": "der Pass",
       "ko": "여권",
       "en": "passport",
-      "es": "pasaporte",
-      "fr": "passeport",
-      "it": "passaporto",
-      "pt": "passaporte",
+      "es": "el pasaporte",
+      "fr": "le passeport",
+      "it": "il passaporto",
+      "pt": "o passaporte",
       "ja": "パスポート",
       "zh": "护照",
       "ru": "паспорт"
     },
     "examples": [
       "Zeigen Sie mir bitte Ihren Pass."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Pässe"
+    ]
   },
   {
     "id": "pause_nf_1",
+    "lang": "de",
     "lemma": "Pause",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Pausen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13805,28 +14031,29 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Pause",
+      "de": "die Pause",
       "ko": "휴식",
       "en": "break",
-      "es": "pausa",
-      "fr": "pause",
-      "it": "pausa",
-      "pt": "pausa",
+      "es": "la pausa",
+      "fr": "la pause",
+      "it": "la pausa",
+      "pt": "a pausa",
       "ja": "休憩",
       "zh": "休息",
       "ru": "пауза"
     },
     "examples": [
       "Wir machen zehn Minuten Pause."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Pausen"
+    ]
   },
   {
     "id": "plan_nm_1",
+    "lang": "de",
     "lemma": "Plan",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Pläne",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -13834,196 +14061,200 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Plan",
+      "de": "der Plan",
       "ko": "계획, 지도",
       "en": "plan, map",
-      "es": "plano",
-      "fr": "plan",
-      "it": "pianta",
-      "pt": "plano",
+      "es": "el plano",
+      "fr": "le plan",
+      "it": "la pianta",
+      "pt": "o plano",
       "ja": "計画",
       "zh": "计划",
       "ru": "план"
     },
     "examples": [
       "Haben Sie einen Plan von der Stadt?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Pläne"
+    ]
   },
   {
     "id": "platz_nm_1",
+    "lang": "de",
     "lemma": "Platz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Plätze",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Platz",
+      "de": "der Platz",
       "ko": "광장",
       "en": "square",
-      "es": "plaza",
-      "fr": "place",
-      "it": "piazza",
-      "pt": "praça",
+      "es": "la plaza",
+      "fr": "la place",
+      "it": "la piazza",
+      "pt": "a praça",
       "ja": "広場",
       "zh": "广场",
       "ru": "площадь"
     },
     "examples": [
       "Der Platz ist sehr groß."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Plätze"
+    ]
   },
   {
     "id": "polizei_nf_1",
+    "lang": "de",
     "lemma": "Polizei",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Polizei",
+      "de": "die Polizei",
       "ko": "경찰",
       "en": "police",
-      "es": "policía",
-      "fr": "police",
-      "it": "polizia",
-      "pt": "polícia",
+      "es": "la policía",
+      "fr": "la police",
+      "it": "la polizia",
+      "pt": "a polícia",
       "ja": "警察",
       "zh": "警察",
       "ru": "полиция"
     },
     "examples": [
       "Rufen Sie die Polizei!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "pommes_frites_nx_1",
+    "lang": "de",
     "lemma": "Pommes frites",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Pommes frites",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Pommes frites",
+      "de": "die Pommes frites",
       "ko": "감자튀김",
       "en": "french fries",
-      "es": "patatas fritas",
-      "fr": "frites",
-      "it": "patatine fritte",
-      "pt": "batatas fritas",
+      "es": "las patatas fritas",
+      "fr": "les frites",
+      "it": "le patatine fritte",
+      "pt": "as batatas fritas",
       "ja": "フライドポテト",
       "zh": "薯条",
       "ru": "картофель фри"
     },
     "examples": [
       "Ich esse gern Pommes frites."
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Pommes frites"
+    ]
   },
   {
     "id": "portion_nf_1",
+    "lang": "de",
     "lemma": "Portion",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Portionen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Portion",
+      "de": "die Portion",
       "ko": "인분",
       "en": "portion",
-      "es": "ración",
-      "fr": "portion",
-      "it": "porzione",
-      "pt": "porção",
+      "es": "la ración",
+      "fr": "la portion",
+      "it": "la porzione",
+      "pt": "a porção",
       "ja": "一人前",
       "zh": "份",
       "ru": "порция"
     },
     "examples": [
       "Eine Portion Pommes mit Ketchup, bitte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Portionen"
+    ]
   },
   {
     "id": "post_nf_1",
+    "lang": "de",
     "lemma": "Post",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Post",
+      "de": "die Post",
       "ko": "우체국, 우편",
       "en": "post office, mail",
-      "es": "correos",
-      "fr": "poste",
-      "it": "posta",
-      "pt": "correio",
+      "es": "los correos",
+      "fr": "la poste",
+      "it": "la posta",
+      "pt": "o correio",
       "ja": "郵便局",
       "zh": "邮局",
       "ru": "почта"
     },
     "examples": [
       "Wo ist die Post?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "postleitzahl_nf_1",
+    "lang": "de",
     "lemma": "Postleitzahl",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Postleitzahlen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Postleitzahl",
+      "de": "die Postleitzahl",
       "ko": "우편번호",
       "en": "zip code",
-      "es": "código postal",
-      "fr": "code postal",
-      "it": "codice postale",
-      "pt": "código postal",
+      "es": "el código postal",
+      "fr": "le code postal",
+      "it": "il codice postale",
+      "pt": "o código postal",
       "ja": "郵便番号",
       "zh": "邮政编码",
       "ru": "почтовый индекс"
     },
     "examples": [
       "Wie ist Ihre Postleitzahl?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Postleitzahlen"
+    ]
   },
   {
     "id": "praktikum_nn_1",
+    "lang": "de",
     "lemma": "Praktikum",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Praktika",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14031,28 +14262,29 @@ const WORDS_DE_A1 = [
       "education"
     ],
     "meanings": {
-      "de": "Praktikum",
+      "de": "das Praktikum",
       "ko": "실습",
       "en": "internship",
-      "es": "prácticas",
-      "fr": "stage",
-      "it": "stage",
-      "pt": "estágio",
+      "es": "las prácticas",
+      "fr": "le stage",
+      "it": "lo stage",
+      "pt": "o estágio",
       "ja": "実習",
       "zh": "实习",
       "ru": "практика"
     },
     "examples": [
       "Ich mache ein Praktikum bei Siemens."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Praktika"
+    ]
   },
   {
     "id": "praxis_nf_1",
+    "lang": "de",
     "lemma": "Praxis",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Praxen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14060,84 +14292,87 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Praxis",
+      "de": "die Praxis",
       "ko": "진료소, 병원",
       "en": "practice",
-      "es": "consultorio",
-      "fr": "cabinet",
-      "it": "studio medico",
-      "pt": "consultório",
+      "es": "el consultorio",
+      "fr": "le cabinet",
+      "it": "lo studio medico",
+      "pt": "o consultório",
       "ja": "診療所",
       "zh": "诊所",
       "ru": "практика"
     },
     "examples": [
       "Die Praxis ist ab 8 Uhr geöffnet."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Praxen"
+    ]
   },
   {
     "id": "preis_nm_1",
+    "lang": "de",
     "lemma": "Preis",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Preise",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Preis",
+      "de": "der Preis",
       "ko": "가격",
       "en": "price",
-      "es": "precio",
-      "fr": "prix",
-      "it": "prezzo",
-      "pt": "preço",
+      "es": "el precio",
+      "fr": "le prix",
+      "it": "il prezzo",
+      "pt": "o preço",
       "ja": "価格",
       "zh": "价格",
       "ru": "цена"
     },
     "examples": [
       "Der Preis ist hoch."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Preise"
+    ]
   },
   {
     "id": "problem_nn_1",
+    "lang": "de",
     "lemma": "Problem",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Probleme",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Problem",
+      "de": "das Problem",
       "ko": "문제",
       "en": "problem",
-      "es": "problema",
-      "fr": "problème",
-      "it": "problema",
-      "pt": "problema",
+      "es": "el problema",
+      "fr": "le problème",
+      "it": "il problema",
+      "pt": "o problema",
       "ja": "問題",
       "zh": "问题",
       "ru": "проблема"
     },
     "examples": [
       "Ich habe ein Problem."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Probleme"
+    ]
   },
   {
     "id": "prospekt_nm_1",
+    "lang": "de",
     "lemma": "Prospekt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Prospekte",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14145,26 +14380,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Prospekt",
+      "de": "der Prospekt",
       "ko": "안내 책자",
       "en": "brochure",
-      "es": "folleto",
-      "fr": "prospectus",
-      "it": "opuscolo",
-      "pt": "prospeto",
+      "es": "el folleto",
+      "fr": "le prospectus",
+      "it": "l'opuscolo",
+      "pt": "o prospeto",
       "ja": "パンフレット",
       "zh": "宣传册",
       "ru": "проспект"
     },
     "examples": [
       "Bitte schicken Sie mir einen Prospekt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Prospekte"
+    ]
   },
   {
     "id": "puenktlich_adj_1",
+    "lang": "de",
     "lemma": "pünktlich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14186,39 +14419,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte seien Sie pünktlich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "rad_nn_1",
+    "lang": "de",
     "lemma": "Rad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Räder",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Rad",
+      "de": "das Rad",
       "ko": "자전거",
       "en": "bicycle",
-      "es": "bicicleta",
-      "fr": "vélo",
-      "it": "bici",
-      "pt": "bicicleta",
+      "es": "la bicicleta",
+      "fr": "le vélo",
+      "it": "la bici",
+      "pt": "a bicicleta",
       "ja": "自転車",
       "zh": "自行车",
       "ru": "велосипед"
     },
     "examples": [
       "Ich fahre gern Rad."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Räder"
+    ]
   },
   {
     "id": "rauchen_v_1",
+    "lang": "de",
     "lemma": "rauchen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14227,6 +14461,14 @@ const WORDS_DE_A1 = [
       "daily",
       "health"
     ],
+    "conj": {
+      "pres_ich": "ich rauche",
+      "pres_du": "du rauchst",
+      "pres_er": "er raucht",
+      "praet": "rauchte",
+      "part2": "geraucht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "rauchen",
       "ko": "담배를 피우다",
@@ -14241,75 +14483,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Hier dürfen Sie nicht rauchen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich rauche",
-      "pres_du": "du rauchst",
-      "pres_er": "er raucht",
-      "praet": "rauchte",
-      "part2": "geraucht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "raum_nm_1",
+    "lang": "de",
     "lemma": "Raum",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Räume",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Raum",
+      "de": "der Raum",
       "ko": "방",
       "en": "room",
-      "es": "habitación",
-      "fr": "salle",
-      "it": "stanza",
-      "pt": "sala",
+      "es": "la habitación",
+      "fr": "la salle",
+      "it": "la stanza",
+      "pt": "a sala",
       "ja": "部屋",
       "zh": "房间",
       "ru": "помещение"
     },
     "examples": [
       "Der Unterricht ist in Raum 12."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Räume"
+    ]
   },
   {
     "id": "rechnung_nf_1",
+    "lang": "de",
     "lemma": "Rechnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Rechnungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Rechnung",
+      "de": "die Rechnung",
       "ko": "계산서",
       "en": "bill",
-      "es": "cuenta",
-      "fr": "addition",
-      "it": "conto",
-      "pt": "conta",
+      "es": "la cuenta",
+      "fr": "l'addition",
+      "it": "il conto",
+      "pt": "a conta",
       "ja": "請求書",
       "zh": "账单",
       "ru": "счет"
     },
     "examples": [
       "Die Rechnung, bitte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Rechnungen"
+    ]
   },
   {
     "id": "rechts_adv_1",
+    "lang": "de",
     "lemma": "rechts",
     "pos": "Adverb",
     "cefr": "A1",
@@ -14331,11 +14567,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Da müssen Sie nach rechts fahren."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "regnen_v_1",
+    "lang": "de",
     "lemma": "regnen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14343,6 +14579,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "es regnet",
+      "pres_du": "es regnet",
+      "pres_er": "es regnet",
+      "praet": "regnete",
+      "part2": "geregnet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "regnen",
       "ko": "비가 오다",
@@ -14357,75 +14601,67 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es regnet heute."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "es regnet",
-      "pres_du": "es regnet",
-      "pres_er": "es regnet",
-      "praet": "regnete",
-      "part2": "geregnet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "regen_nm_1",
+    "lang": "de",
     "lemma": "Regen",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Regen",
+      "de": "der Regen",
       "ko": "비",
       "en": "rain",
-      "es": "lluvia",
-      "fr": "pluie",
-      "it": "pioggia",
-      "pt": "chuva",
+      "es": "la lluvia",
+      "fr": "la pluie",
+      "it": "la pioggia",
+      "pt": "a chuva",
       "ja": "雨",
       "zh": "雨",
       "ru": "дождь"
     },
     "examples": [
       "Bei Regen gehe ich nicht spazieren."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "reis_nm_1",
+    "lang": "de",
     "lemma": "Reis",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Reis",
+      "de": "der Reis",
       "ko": "쌀",
       "en": "rice",
-      "es": "arroz",
-      "fr": "riz",
-      "it": "riso",
-      "pt": "arroz",
+      "es": "el arroz",
+      "fr": "le riz",
+      "it": "il riso",
+      "pt": "o arroz",
       "ja": "米",
       "zh": "米饭",
       "ru": "рис"
     },
     "examples": [
       "Ich esse gern Reis."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "reisen_v_1",
+    "lang": "de",
     "lemma": "reisen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14433,6 +14669,14 @@ const WORDS_DE_A1 = [
       "exam",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich reise",
+      "pres_du": "du reist",
+      "pres_er": "er reist",
+      "praet": "reiste",
+      "part2": "gereist",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "reisen",
       "ko": "여행하다",
@@ -14447,49 +14691,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich reise gern nach Italien."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich reise",
-      "pres_du": "du reist",
-      "pres_er": "er reist",
-      "praet": "reiste",
-      "part2": "gereist",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "reise_nf_1",
+    "lang": "de",
     "lemma": "Reise",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Reisen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Reise",
+      "de": "die Reise",
       "ko": "여행",
       "en": "trip",
-      "es": "viaje",
-      "fr": "voyage",
-      "it": "viaggio",
-      "pt": "viagem",
+      "es": "el viaje",
+      "fr": "le voyage",
+      "it": "il viaggio",
+      "pt": "a viagem",
       "ja": "旅行",
       "zh": "旅行",
       "ru": "путешествие"
     },
     "examples": [
       "Gute Reise!"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Reisen"
+    ]
   },
   {
     "id": "reisebuero_nn_1",
+    "lang": "de",
     "lemma": "Reisebüro",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Reisebüros",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14497,28 +14737,29 @@ const WORDS_DE_A1 = [
       "city"
     ],
     "meanings": {
-      "de": "Reisebüro",
+      "de": "das Reisebüro",
       "ko": "여행사",
       "en": "travel agency",
-      "es": "agencia de viajes",
-      "fr": "agence de voyages",
-      "it": "agenzia di viaggi",
-      "pt": "agência de viagens",
+      "es": "la agencia de viajes",
+      "fr": "l'agence de voyages",
+      "it": "l'agenzia di viaggi",
+      "pt": "a agência de viagens",
       "ja": "旅行代理店",
       "zh": "旅行社",
       "ru": "турагентство"
     },
     "examples": [
       "Wir buchen die Reise im Reisebüro."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Reisebüros"
+    ]
   },
   {
     "id": "reisefuehrer_nm_1",
+    "lang": "de",
     "lemma": "Reiseführer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Reiseführer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14526,26 +14767,24 @@ const WORDS_DE_A1 = [
       "media"
     ],
     "meanings": {
-      "de": "Reiseführer",
+      "de": "der Reiseführer",
       "ko": "여행 가이드북",
       "en": "travel guide",
-      "es": "guía de viaje",
-      "fr": "guide de voyage",
-      "it": "guida turistica",
-      "pt": "guia de viagem",
+      "es": "el guía de viaje",
+      "fr": "le guide de voyage",
+      "it": "la guida turistica",
+      "pt": "o guia de viagem",
       "ja": "旅行ガイド",
       "zh": "旅游指南",
       "ru": "путеводитель"
     },
     "examples": [
       "Ich kaufe einen Reiseführer von Berlin."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Reiseführer"
+    ]
   },
   {
     "id": "reparieren_v_1",
+    "lang": "de",
     "lemma": "reparieren",
     "pos": "Verb",
     "cefr": "A1",
@@ -14554,6 +14793,14 @@ const WORDS_DE_A1 = [
       "daily",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich repariere",
+      "pres_du": "du reparierst",
+      "pres_er": "er repariert",
+      "praet": "reparierte",
+      "part2": "repariert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "reparieren",
       "ko": "수리하다",
@@ -14568,21 +14815,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Können Sie das Fahrrad reparieren?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich repariere",
-      "pres_du": "du reparierst",
-      "pres_er": "er repariert",
-      "praet": "reparierte",
-      "part2": "repariert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "reparatur_nf_1",
+    "lang": "de",
     "lemma": "Reparatur",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Reparaturen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14590,84 +14832,87 @@ const WORDS_DE_A1 = [
       "service"
     ],
     "meanings": {
-      "de": "Reparatur",
+      "de": "die Reparatur",
       "ko": "수리",
       "en": "repair",
-      "es": "reparación",
-      "fr": "réparation",
-      "it": "riparazione",
-      "pt": "reparação",
+      "es": "la reparación",
+      "fr": "la réparation",
+      "it": "la riparazione",
+      "pt": "a reparação",
       "ja": "修理",
       "zh": "修理",
       "ru": "ремонт"
     },
     "examples": [
       "Die Reparatur ist sehr teuer."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Reparaturen"
+    ]
   },
   {
     "id": "restaurant_nn_1",
+    "lang": "de",
     "lemma": "Restaurant",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Restaurants",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Restaurant",
+      "de": "das Restaurant",
       "ko": "식당",
       "en": "restaurant",
-      "es": "restaurante",
-      "fr": "restaurant",
-      "it": "ristorante",
-      "pt": "restaurante",
+      "es": "el restaurante",
+      "fr": "le restaurant",
+      "it": "il ristorante",
+      "pt": "o restaurante",
       "ja": "レストラン",
       "zh": "餐厅",
       "ru": "ресторан"
     },
     "examples": [
       "Wir essen heute im Restaurant."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Restaurants"
+    ]
   },
   {
     "id": "rezept_nn_1",
+    "lang": "de",
     "lemma": "Rezept",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Rezepte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Rezept",
+      "de": "das Rezept",
       "ko": "처방전, 조리법",
       "en": "prescription, recipe",
-      "es": "receta",
-      "fr": "ordonnance, recette",
-      "it": "ricetta",
-      "pt": "receita",
-      "ja": "処方箋, レシピ",
-      "zh": "处方, 食谱",
+      "es": "la receta",
+      "fr": "la recette",
+      "it": "la ricetta",
+      "pt": "a receita",
+      "ja": "レシピ",
+      "zh": "食谱",
       "ru": "рецепт"
     },
     "examples": [
       "Dieses Medikament bekommen Sie nur mit Rezept."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Rezepte"
+    ]
   },
   {
     "id": "rezeption_nf_1",
+    "lang": "de",
     "lemma": "Rezeption",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Rezeptionen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14675,26 +14920,24 @@ const WORDS_DE_A1 = [
       "hotel"
     ],
     "meanings": {
-      "de": "Rezeption",
+      "de": "die Rezeption",
       "ko": "프런트",
       "en": "reception",
-      "es": "recepción",
-      "fr": "réception",
-      "it": "reception",
-      "pt": "receção",
+      "es": "la recepción",
+      "fr": "la réception",
+      "it": "la reception",
+      "pt": "a receção",
       "ja": "フロント",
       "zh": "接待处",
       "ru": "ресепшн"
     },
     "examples": [
       "Geben Sie bitte den Schlüssel an der Rezeption ab."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Rezeptionen"
+    ]
   },
   {
     "id": "richtig_adj_1",
+    "lang": "de",
     "lemma": "richtig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14717,11 +14960,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist richtig."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "riechen_v_1",
+    "lang": "de",
     "lemma": "riechen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14729,6 +14972,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich rieche",
+      "pres_du": "du riechst",
+      "pres_er": "er riecht",
+      "praet": "roch",
+      "part2": "gerochen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "riechen",
       "ko": "냄새가 나다",
@@ -14743,19 +14994,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Essen riecht gut."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich rieche",
-      "pres_du": "du riechst",
-      "pres_er": "er riecht",
-      "praet": "roch",
-      "part2": "gerochen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ruhig_adj_1",
+    "lang": "de",
     "lemma": "ruhig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -14777,39 +15020,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich möchte ein ruhiges Zimmer."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "saft_nm_1",
+    "lang": "de",
     "lemma": "Saft",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Säfte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Saft",
+      "de": "der Saft",
       "ko": "주스",
       "en": "juice",
-      "es": "zumo",
-      "fr": "jus",
-      "it": "succo",
-      "pt": "sumo",
+      "es": "el zumo",
+      "fr": "le jus",
+      "it": "il succo",
+      "pt": "o sumo",
       "ja": "ジュース",
       "zh": "果汁",
       "ru": "сок"
     },
     "examples": [
       "Ich trinke gern Orangensaft."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Säfte"
+    ]
   },
   {
     "id": "sagen_v_1",
+    "lang": "de",
     "lemma": "sagen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14818,6 +15062,14 @@ const WORDS_DE_A1 = [
       "communication",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich sage",
+      "pres_du": "du sagst",
+      "pres_er": "er sagt",
+      "praet": "sagte",
+      "part2": "gesagt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "sagen",
       "ko": "말하다",
@@ -14832,133 +15084,131 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sag mal, wie heißt du?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich sage",
-      "pres_du": "du sagst",
-      "pres_er": "er sagt",
-      "praet": "sagte",
-      "part2": "gesagt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "salat_nm_1",
+    "lang": "de",
     "lemma": "Salat",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Salate",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Salat",
+      "de": "der Salat",
       "ko": "샐러드",
       "en": "salad",
-      "es": "ensalada",
-      "fr": "salade",
-      "it": "insalata",
-      "pt": "salada",
+      "es": "la ensalada",
+      "fr": "la salade",
+      "it": "l'insalata",
+      "pt": "a salada",
       "ja": "サラダ",
       "zh": "沙拉",
       "ru": "салат"
     },
     "examples": [
       "Ich möchte gern einen Salat."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Salate"
+    ]
   },
   {
     "id": "salz_nn_1",
+    "lang": "de",
     "lemma": "Salz",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Salz",
+      "de": "das Salz",
       "ko": "소금",
       "en": "salt",
-      "es": "sal",
-      "fr": "sel",
-      "it": "sale",
-      "pt": "sal",
+      "es": "la sal",
+      "fr": "le sel",
+      "it": "il sale",
+      "pt": "o sal",
       "ja": "塩",
       "zh": "盐",
       "ru": "соль"
     },
     "examples": [
       "Herr Ober, kann ich bitte Salz haben?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "satz_nm_1",
+    "lang": "de",
     "lemma": "Satz",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Sätze",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Satz",
+      "de": "der Satz",
       "ko": "문장",
       "en": "sentence",
-      "es": "frase",
-      "fr": "phrase",
-      "it": "frase",
-      "pt": "frase",
+      "es": "la frase",
+      "fr": "la phrase",
+      "it": "la frase",
+      "pt": "a frase",
       "ja": "文",
       "zh": "句子",
       "ru": "предложение"
     },
     "examples": [
       "Den letzten Satz verstehe ich nicht."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Sätze"
+    ]
   },
   {
     "id": "s_bahn_nf_1",
+    "lang": "de",
     "lemma": "S-Bahn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "S-Bahnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "S-Bahn",
+      "de": "die S-Bahn",
       "ko": "도시 고속 철도",
       "en": "suburban train",
-      "es": "tren de cercanías",
-      "fr": "RER",
-      "it": "ferrovia suburbana",
-      "pt": "comboio suburbano",
+      "es": "el tren de cercanías",
+      "fr": "le RER",
+      "it": "la ferrovia suburbana",
+      "pt": "o comboio suburbano",
       "ja": "Sバーン",
       "zh": "城市快铁",
       "ru": "городская электричка"
     },
     "examples": [
       "Ich nehme die S-Bahn."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "S-Bahnen"
+    ]
   },
   {
     "id": "schalter_nm_1",
+    "lang": "de",
     "lemma": "Schalter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schalter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -14966,26 +15216,24 @@ const WORDS_DE_A1 = [
       "public_service"
     ],
     "meanings": {
-      "de": "Schalter",
+      "de": "der Schalter",
       "ko": "창구",
       "en": "counter",
-      "es": "taquilla",
-      "fr": "guichet",
-      "it": "sportello",
-      "pt": "guichê",
+      "es": "la taquilla",
+      "fr": "le guichet",
+      "it": "lo sportello",
+      "pt": "o guichê",
       "ja": "窓口",
       "zh": "柜台",
       "ru": "окошко"
     },
     "examples": [
       "Gehen Sie bitte zum Schalter 3."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schalter"
+    ]
   },
   {
     "id": "scheinen_v_1",
+    "lang": "de",
     "lemma": "scheinen",
     "pos": "Verb",
     "cefr": "A1",
@@ -14993,6 +15241,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich scheine",
+      "pres_du": "du scheinst",
+      "pres_er": "er scheint",
+      "praet": "schien",
+      "part2": "geschienen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "scheinen",
       "ko": "빛나다",
@@ -15007,19 +15263,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Sonne scheint."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich scheine",
-      "pres_du": "du scheinst",
-      "pres_er": "er scheint",
-      "praet": "schien",
-      "part2": "geschienen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "schicken_v_1",
+    "lang": "de",
     "lemma": "schicken",
     "pos": "Verb",
     "cefr": "A1",
@@ -15027,6 +15275,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich schicke",
+      "pres_du": "du schickst",
+      "pres_er": "er schickt",
+      "praet": "schickte",
+      "part2": "geschickt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "schicken",
       "ko": "보내다",
@@ -15041,75 +15297,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte schicken Sie mir eine E-Mail."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schicke",
-      "pres_du": "du schickst",
-      "pres_er": "er schickt",
-      "praet": "schickte",
-      "part2": "geschickt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "schild_nn_1",
+    "lang": "de",
     "lemma": "Schild",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Schilder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schild",
+      "de": "das Schild",
       "ko": "표지판",
       "en": "sign",
-      "es": "letrero",
-      "fr": "panneau",
-      "it": "cartello",
-      "pt": "placa",
+      "es": "el letrero",
+      "fr": "le panneau",
+      "it": "il cartello",
+      "pt": "a placa",
       "ja": "標識",
       "zh": "牌子",
       "ru": "вывеска"
     },
     "examples": [
       "Haben Sie das Schild nicht gesehen?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Schilder"
+    ]
   },
   {
     "id": "schinken_nm_1",
+    "lang": "de",
     "lemma": "Schinken",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schinken",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schinken",
+      "de": "der Schinken",
       "ko": "햄",
       "en": "ham",
-      "es": "jamón",
-      "fr": "jambon",
-      "it": "prosciutto",
-      "pt": "fiambre",
+      "es": "el jamón",
+      "fr": "le jambon",
+      "it": "il prosciutto",
+      "pt": "o fiambre",
       "ja": "ハム",
       "zh": "火腿",
       "ru": "ветчина"
     },
     "examples": [
       "Ich möchte ein Brötchen mit Schinken."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schinken"
+    ]
   },
   {
     "id": "schlafen_v_1",
+    "lang": "de",
     "lemma": "schlafen",
     "pos": "Verb",
     "cefr": "A1",
@@ -15118,6 +15368,14 @@ const WORDS_DE_A1 = [
       "daily",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich schlafe",
+      "pres_du": "du schläfst",
+      "pres_er": "er schläft",
+      "praet": "schlief",
+      "part2": "geschlafen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "schlafen",
       "ko": "자다",
@@ -15132,19 +15390,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich schlafe meistens acht Stunden."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schlafe",
-      "pres_du": "du schläfst",
-      "pres_er": "er schläft",
-      "praet": "schlief",
-      "part2": "geschlafen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "schlecht_adj_1",
+    "lang": "de",
     "lemma": "schlecht",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15167,11 +15417,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Wetter ist schlecht."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schliessen_v_1",
+    "lang": "de",
     "lemma": "schließen",
     "pos": "Verb",
     "cefr": "A1",
@@ -15180,6 +15430,14 @@ const WORDS_DE_A1 = [
       "action",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich schließe",
+      "pres_du": "du schließt",
+      "pres_er": "er schließt",
+      "praet": "schloss",
+      "part2": "geschlossen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "schließen",
       "ko": "닫다",
@@ -15194,19 +15452,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte schließen Sie die Tür."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schließe",
-      "pres_du": "du schließt",
-      "pres_er": "er schließt",
-      "praet": "schloss",
-      "part2": "geschlossen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "geschlossen_adj_1",
+    "lang": "de",
     "lemma": "geschlossen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15229,13 +15479,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Bank ist am Samstag geschlossen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schluss_nm_1",
+    "lang": "de",
     "lemma": "Schluss",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schlüsse",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15243,28 +15496,29 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Schluss",
+      "de": "der Schluss",
       "ko": "끝",
       "en": "end",
-      "es": "fin",
-      "fr": "fin",
-      "it": "fine",
-      "pt": "fim",
+      "es": "el fin",
+      "fr": "la fin",
+      "it": "la fine",
+      "pt": "o fim",
       "ja": "終わり",
       "zh": "结束",
       "ru": "конец"
     },
     "examples": [
       "Ich muss jetzt Schluss machen."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schlüsse"
+    ]
   },
   {
     "id": "schluessel_nm_1",
+    "lang": "de",
     "lemma": "Schlüssel",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schlüssel",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15272,26 +15526,24 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Schlüssel",
+      "de": "der Schlüssel",
       "ko": "열쇠",
       "en": "key",
-      "es": "llave",
-      "fr": "clé",
-      "it": "chiave",
-      "pt": "chave",
+      "es": "la llave",
+      "fr": "la clé",
+      "it": "la chiave",
+      "pt": "a chave",
       "ja": "鍵",
       "zh": "钥匙",
       "ru": "ключ"
     },
     "examples": [
       "Ich gebe Ihnen den Schlüssel."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schlüssel"
+    ]
   },
   {
     "id": "schmecken_v_1",
+    "lang": "de",
     "lemma": "schmecken",
     "pos": "Verb",
     "cefr": "A1",
@@ -15299,6 +15551,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich schmecke",
+      "pres_du": "du schmeckst",
+      "pres_er": "er schmeckt",
+      "praet": "schmeckte",
+      "part2": "geschmeckt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "schmecken",
       "ko": "맛이 나다",
@@ -15313,19 +15573,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das schmeckt gut."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schmecke",
-      "pres_du": "du schmeckst",
-      "pres_er": "er schmeckt",
-      "praet": "schmeckte",
-      "part2": "geschmeckt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "schnell_adj_1",
+    "lang": "de",
     "lemma": "schnell",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15347,11 +15599,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er fährt zu schnell."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schon_adv_1",
+    "lang": "de",
     "lemma": "schon",
     "pos": "Adverb",
     "cefr": "A1",
@@ -15374,11 +15626,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ist das Essen schon fertig?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schoen_adj_1",
+    "lang": "de",
     "lemma": "schön",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15400,39 +15652,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Schöne Ferien!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schrank_nm_1",
+    "lang": "de",
     "lemma": "Schrank",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schränke",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schrank",
+      "de": "der Schrank",
       "ko": "장, 옷장",
       "en": "cupboard, wardrobe",
-      "es": "armario",
-      "fr": "armoire",
-      "it": "armadio",
-      "pt": "armário",
+      "es": "el armario",
+      "fr": "l'armoire",
+      "it": "l'armadio",
+      "pt": "o armário",
       "ja": "戸棚",
       "zh": "柜子",
       "ru": "шкаф"
     },
     "examples": [
       "Die Gläser stehen im Schrank."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schränke"
+    ]
   },
   {
     "id": "schreiben_v_1",
+    "lang": "de",
     "lemma": "schreiben",
     "pos": "Verb",
     "cefr": "A1",
@@ -15440,6 +15693,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich schreibe",
+      "pres_du": "du schreibst",
+      "pres_er": "er schreibt",
+      "praet": "schrieb",
+      "part2": "geschrieben",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "schreiben",
       "ko": "쓰다",
@@ -15454,103 +15715,98 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er schreibt einen Brief."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schreibe",
-      "pres_du": "du schreibst",
-      "pres_er": "er schreibt",
-      "praet": "schrieb",
-      "part2": "geschrieben",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "schuh_nm_1",
+    "lang": "de",
     "lemma": "Schuh",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schuhe",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schuh",
+      "de": "der Schuh",
       "ko": "신발",
       "en": "shoe",
-      "es": "zapato",
-      "fr": "chaussure",
-      "it": "scarpa",
-      "pt": "sapato",
+      "es": "el zapato",
+      "fr": "la chaussure",
+      "it": "la scarpa",
+      "pt": "o sapato",
       "ja": "靴",
       "zh": "鞋",
       "ru": "ботинок"
     },
     "examples": [
       "Zieh die Schuhe aus!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schuhe"
+    ]
   },
   {
     "id": "schule_nf_1",
+    "lang": "de",
     "lemma": "Schule",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Schulen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schule",
+      "de": "die Schule",
       "ko": "학교",
       "en": "school",
-      "es": "escuela",
-      "fr": "école",
-      "it": "scuola",
-      "pt": "escola",
+      "es": "la escuela",
+      "fr": "l'école",
+      "it": "la scuola",
+      "pt": "a escola",
       "ja": "学校",
       "zh": "学校",
       "ru": "школа"
     },
     "examples": [
       "Meine Tochter geht schon in die Schule."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Schulen"
+    ]
   },
   {
     "id": "schueler_nm_1",
+    "lang": "de",
     "lemma": "Schüler",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Schüler",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schüler",
+      "de": "der Schüler",
       "ko": "남학생",
       "en": "pupil, student",
-      "es": "alumno",
-      "fr": "élève",
-      "it": "alunno",
-      "pt": "aluno",
+      "es": "el alumno",
+      "fr": "l'élève",
+      "it": "l'alunno",
+      "pt": "o aluno",
       "ja": "生徒",
       "zh": "学生",
       "ru": "ученик"
     },
     "examples": [
       "In meinem Kurs sind 15 Schüler."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Schüler"
+    ]
   },
   {
     "id": "schwer_adj_1",
+    "lang": "de",
     "lemma": "schwer",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -15566,45 +15822,46 @@ const WORDS_DE_A1 = [
       "fr": "lourd, difficile",
       "it": "pesante, difficile",
       "pt": "pesado, difícil",
-      "ja": "重い, 難しい",
-      "zh": "重, 难",
+      "ja": "重い",
+      "zh": "重",
       "ru": "тяжелый"
     },
     "examples": [
       "Ist der Koffer schwer?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "schwester_nf_1",
+    "lang": "de",
     "lemma": "Schwester",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Schwestern",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Schwester",
+      "de": "die Schwester",
       "ko": "여자 형제",
       "en": "sister",
-      "es": "hermana",
-      "fr": "sœur",
-      "it": "sorella",
-      "pt": "irmã",
+      "es": "la hermana",
+      "fr": "la sœur",
+      "it": "la sorella",
+      "pt": "a irmã",
       "ja": "姉妹",
       "zh": "姐妹",
       "ru": "сестра"
     },
     "examples": [
       "Ich habe keine Schwester."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Schwestern"
+    ]
   },
   {
     "id": "schwimmen_v_1",
+    "lang": "de",
     "lemma": "schwimmen",
     "pos": "Verb",
     "cefr": "A1",
@@ -15612,6 +15869,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich schwimme",
+      "pres_du": "du schwimmst",
+      "pres_er": "er schwimmt",
+      "praet": "schwamm",
+      "part2": "geschwommen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "schwimmen",
       "ko": "수영하다",
@@ -15626,75 +15891,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich schwimme jeden Tag einen Kilometer."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich schwimme",
-      "pres_du": "du schwimmst",
-      "pres_er": "er schwimmt",
-      "praet": "schwamm",
-      "part2": "geschwommen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "schwimmbad_nn_1",
+    "lang": "de",
     "lemma": "Schwimmbad",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Schwimmbäder",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Schwimmbad",
+      "de": "das Schwimmbad",
       "ko": "수영장",
       "en": "swimming pool",
-      "es": "piscina",
-      "fr": "piscine",
-      "it": "piscina",
-      "pt": "piscina",
+      "es": "la piscina",
+      "fr": "la piscine",
+      "it": "la piscina",
+      "pt": "a piscina",
       "ja": "プール",
       "zh": "游泳池",
       "ru": "бассейн"
     },
     "examples": [
       "Kommst du mit ins Schwimmbad?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Schwimmbäder"
+    ]
   },
   {
     "id": "see_nm_1",
+    "lang": "de",
     "lemma": "See",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Seen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "See",
+      "de": "der See",
       "ko": "호수",
       "en": "lake",
-      "es": "lago",
-      "fr": "lac",
-      "it": "lago",
-      "pt": "lago",
+      "es": "el lago",
+      "fr": "le lac",
+      "it": "il lago",
+      "pt": "o lago",
       "ja": "湖",
       "zh": "湖",
       "ru": "озеро"
     },
     "examples": [
       "Komm, wir fahren zum See."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Seen"
+    ]
   },
   {
     "id": "sehen_v_1",
+    "lang": "de",
     "lemma": "sehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -15703,6 +15962,14 @@ const WORDS_DE_A1 = [
       "perception",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich sehe",
+      "pres_du": "du siehst",
+      "pres_er": "er sieht",
+      "praet": "sah",
+      "part2": "gesehen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "sehen",
       "ko": "보다",
@@ -15717,21 +15984,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich sehe dich."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich sehe",
-      "pres_du": "du siehst",
-      "pres_er": "er sieht",
-      "praet": "sah",
-      "part2": "gesehen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "sehenswuerdigkeit_nf_1",
+    "lang": "de",
     "lemma": "Sehenswürdigkeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sehenswürdigkeiten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -15739,26 +16001,24 @@ const WORDS_DE_A1 = [
       "culture"
     ],
     "meanings": {
-      "de": "Sehenswürdigkeit",
+      "de": "die Sehenswürdigkeit",
       "ko": "명소",
       "en": "sight",
-      "es": "atracción turística",
-      "fr": "curiosité",
-      "it": "attrazione",
-      "pt": "ponto turístico",
+      "es": "la atracción turística",
+      "fr": "la curiosité",
+      "it": "l'attrazione",
+      "pt": "o ponto turístico",
       "ja": "名所",
       "zh": "名胜",
       "ru": "достопримечательность"
     },
     "examples": [
       "Welche Sehenswürdigkeiten gibt es in Berlin?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Sehenswürdigkeiten"
+    ]
   },
   {
     "id": "sehr_adv_1",
+    "lang": "de",
     "lemma": "sehr",
     "pos": "Adverb",
     "cefr": "A1",
@@ -15781,11 +16041,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Danke sehr!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "sein_v_1",
+    "lang": "de",
     "lemma": "sein",
     "pos": "Verb",
     "cefr": "A1",
@@ -15794,6 +16054,14 @@ const WORDS_DE_A1 = [
       "basic",
       "grammar"
     ],
+    "conj": {
+      "pres_ich": "ich bin",
+      "pres_du": "du bist",
+      "pres_er": "er ist",
+      "praet": "war",
+      "part2": "gewesen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "sein",
       "ko": "이다, 있다",
@@ -15808,19 +16076,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin Kellner."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich bin",
-      "pres_du": "du bist",
-      "pres_er": "er ist",
-      "praet": "war",
-      "part2": "gewesen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "sein_art_1",
+    "lang": "de",
     "lemma": "sein",
     "pos": "Artikel",
     "cefr": "A1",
@@ -15843,11 +16103,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist sein Auto."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "seit_prep_1",
+    "lang": "de",
     "lemma": "seit",
     "pos": "Präposition",
     "cefr": "A1",
@@ -15870,39 +16130,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich wohne seit drei Jahren in Köln."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "seite_nf_1",
+    "lang": "de",
     "lemma": "Seite",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Seiten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Seite",
+      "de": "die Seite",
       "ko": "페이지, 쪽",
       "en": "page, side",
-      "es": "página, lado",
-      "fr": "page, côté",
-      "it": "pagina, lato",
-      "pt": "página, lado",
+      "es": "la página",
+      "fr": "la page",
+      "it": "la pagina",
+      "pt": "a página",
       "ja": "ページ",
       "zh": "页",
       "ru": "страница"
     },
     "examples": [
       "Öffnen Sie das Buch auf Seite 12."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Seiten"
+    ]
   },
   {
     "id": "selbst_pron_1",
+    "lang": "de",
     "lemma": "selbst",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -15924,39 +16185,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Du musst das selbst machen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "service_nm_1",
+    "lang": "de",
     "lemma": "Service",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Services",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Service",
+      "de": "der Service",
       "ko": "서비스",
       "en": "service",
-      "es": "servicio",
-      "fr": "service",
-      "it": "servizio",
-      "pt": "serviço",
+      "es": "el servicio",
+      "fr": "le service",
+      "it": "il servizio",
+      "pt": "o serviço",
       "ja": "サービス",
       "zh": "服务",
       "ru": "обслуживание"
     },
     "examples": [
       "Der Service war gut."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Services"
+    ]
   },
   {
     "id": "setzen_v_1",
+    "lang": "de",
     "lemma": "setzen",
     "pos": "Verb",
     "cefr": "A1",
@@ -15965,6 +16227,14 @@ const WORDS_DE_A1 = [
       "action",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich setze",
+      "pres_du": "du setzt",
+      "pres_er": "er setzt",
+      "praet": "setzte",
+      "part2": "gesetzt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "setzen",
       "ko": "앉히다, 놓다",
@@ -15973,25 +16243,17 @@ const WORDS_DE_A1 = [
       "fr": "mettre, s'asseoir",
       "it": "mettere, sedersi",
       "pt": "pôr, sentar-se",
-      "ja": "置く, 座る",
-      "zh": "放, 坐",
+      "ja": "置く",
+      "zh": "放",
       "ru": "сажать"
     },
     "examples": [
       "Setzen Sie sich doch!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich setze",
-      "pres_du": "du setzt",
-      "pres_er": "er setzt",
-      "praet": "setzte",
-      "part2": "gesetzt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "sicher_adj_1",
+    "lang": "de",
     "lemma": "sicher",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -16008,17 +16270,17 @@ const WORDS_DE_A1 = [
       "fr": "sûr",
       "it": "sicuro",
       "pt": "seguro",
-      "ja": "確かな, 安全な",
-      "zh": "确定, 安全",
+      "ja": "確かな",
+      "zh": "确定",
       "ru": "уверенный, безопасный"
     },
     "examples": [
       "Ich bin ganz sicher."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "sie_pron_1",
+    "lang": "de",
     "lemma": "sie",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -16040,11 +16302,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist Laura. Sie kommt aus Italien."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "singen_v_1",
+    "lang": "de",
     "lemma": "singen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16052,6 +16314,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich singe",
+      "pres_du": "du singst",
+      "pres_er": "er singt",
+      "praet": "sang",
+      "part2": "gesungen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "singen",
       "ko": "노래하다",
@@ -16066,47 +16336,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir singen ein Lied."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich singe",
-      "pres_du": "du singst",
-      "pres_er": "er singt",
-      "praet": "sang",
-      "part2": "gesungen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "situation_nf_1",
+    "lang": "de",
     "lemma": "Situation",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Situationen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Situation",
+      "de": "die Situation",
       "ko": "상황",
       "en": "situation",
-      "es": "situación",
-      "fr": "situation",
-      "it": "situazione",
-      "pt": "situação",
+      "es": "la situación",
+      "fr": "la situation",
+      "it": "la situazione",
+      "pt": "a situação",
       "ja": "状況",
       "zh": "情况",
       "ru": "ситуация"
     },
     "examples": [
       "Das ist eine schwierige Situation."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Situationen"
+    ]
   },
   {
     "id": "sitzen_v_1",
+    "lang": "de",
     "lemma": "sitzen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16115,6 +16378,14 @@ const WORDS_DE_A1 = [
       "basic",
       "body"
     ],
+    "conj": {
+      "pres_ich": "ich sitze",
+      "pres_du": "du sitzt",
+      "pres_er": "er sitzt",
+      "praet": "saß",
+      "part2": "gesessen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "sitzen",
       "ko": "앉아 있다",
@@ -16129,19 +16400,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo sitzen Sie?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich sitze",
-      "pres_du": "du sitzt",
-      "pres_er": "er sitzt",
-      "praet": "saß",
-      "part2": "gesessen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "so_adv_1",
+    "lang": "de",
     "lemma": "so",
     "pos": "Adverb",
     "cefr": "A1",
@@ -16163,39 +16426,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Fahren Sie bitte nicht so schnell!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "sofa_nn_1",
+    "lang": "de",
     "lemma": "Sofa",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Sofas",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Sofa",
+      "de": "das Sofa",
       "ko": "소파",
       "en": "sofa",
-      "es": "sofá",
-      "fr": "canapé",
-      "it": "divano",
-      "pt": "sofá",
+      "es": "el sofá",
+      "fr": "le canapé",
+      "it": "il divano",
+      "pt": "o sofá",
       "ja": "ソファー",
       "zh": "沙发",
       "ru": "диван"
     },
     "examples": [
       "Das Sofa ist neu."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Sofas"
+    ]
   },
   {
     "id": "sofort_adv_1",
+    "lang": "de",
     "lemma": "sofort",
     "pos": "Adverb",
     "cefr": "A1",
@@ -16218,39 +16482,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte kommen Sie sofort."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "sohn_nm_1",
+    "lang": "de",
     "lemma": "Sohn",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Söhne",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Sohn",
+      "de": "der Sohn",
       "ko": "아들",
       "en": "son",
-      "es": "hijo",
-      "fr": "fils",
-      "it": "figlio",
-      "pt": "filho",
+      "es": "el hijo",
+      "fr": "le fils",
+      "it": "il figlio",
+      "pt": "o filho",
       "ja": "息子",
       "zh": "儿子",
       "ru": "сын"
     },
     "examples": [
       "Das ist mein Sohn."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Söhne"
+    ]
   },
   {
     "id": "sollen_v_1",
+    "lang": "de",
     "lemma": "sollen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16259,6 +16524,14 @@ const WORDS_DE_A1 = [
       "basic",
       "obligation"
     ],
+    "conj": {
+      "pres_ich": "ich soll",
+      "pres_du": "du sollst",
+      "pres_er": "er soll",
+      "praet": "sollte",
+      "part2": "gesollt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "sollen",
       "ko": "해야 하다",
@@ -16273,47 +16546,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Soll ich das Fenster öffnen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich soll",
-      "pres_du": "du sollst",
-      "pres_er": "er soll",
-      "praet": "sollte",
-      "part2": "gesollt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "sonne_nf_1",
+    "lang": "de",
     "lemma": "Sonne",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Sonne",
+      "de": "die Sonne",
       "ko": "태양",
       "en": "sun",
-      "es": "sol",
-      "fr": "soleil",
-      "it": "sole",
-      "pt": "sol",
+      "es": "el sol",
+      "fr": "le soleil",
+      "it": "il sole",
+      "pt": "o sol",
       "ja": "太陽",
       "zh": "太阳",
       "ru": "солнце"
     },
     "examples": [
       "Die Sonne scheint."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "spaet_adj_1",
+    "lang": "de",
     "lemma": "spät",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -16335,11 +16600,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Es ist schon spät."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "spaeter_adv_1",
+    "lang": "de",
     "lemma": "später",
     "pos": "Adverb",
     "cefr": "A1",
@@ -16361,39 +16626,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das machen wir später."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "spass_nm_1",
+    "lang": "de",
     "lemma": "Spaß",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Spaß",
+      "de": "der Spaß",
       "ko": "재미",
       "en": "fun",
-      "es": "diversión",
-      "fr": "plaisir",
-      "it": "divertimento",
-      "pt": "diversão",
+      "es": "la diversión",
+      "fr": "le plaisir",
+      "it": "il divertimento",
+      "pt": "a diversão",
       "ja": "楽しみ",
       "zh": "乐趣",
       "ru": "удовольствие"
     },
     "examples": [
       "Das macht Spaß."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "spazieren_gehen_v_1",
+    "lang": "de",
     "lemma": "spazieren gehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16401,6 +16666,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich gehe spazieren",
+      "pres_du": "du gehst spazieren",
+      "pres_er": "er geht spazieren",
+      "praet": "ging spazieren",
+      "part2": "spazieren gegangen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "spazieren gehen",
       "ko": "산책하다",
@@ -16415,47 +16688,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir gehen sonntags oft spazieren."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich gehe spazieren",
-      "pres_du": "du gehst spazieren",
-      "pres_er": "er geht spazieren",
-      "praet": "ging spazieren",
-      "part2": "spazieren gegangen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "speisekarte_nf_1",
+    "lang": "de",
     "lemma": "Speisekarte",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Speisekarten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Speisekarte",
+      "de": "die Speisekarte",
       "ko": "메뉴판",
       "en": "menu",
-      "es": "carta",
-      "fr": "carte",
-      "it": "menu",
-      "pt": "ementa",
+      "es": "la carta",
+      "fr": "la carte",
+      "it": "il menu",
+      "pt": "a ementa",
       "ja": "メニュー",
       "zh": "菜单",
       "ru": "меню"
     },
     "examples": [
       "Bringen Sie mir bitte die Speisekarte."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Speisekarten"
+    ]
   },
   {
     "id": "spielen_v_1",
+    "lang": "de",
     "lemma": "spielen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16463,6 +16729,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich spiele",
+      "pres_du": "du spielst",
+      "pres_er": "er spielt",
+      "praet": "spielte",
+      "part2": "gespielt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "spielen",
       "ko": "놀다, 경기하다",
@@ -16477,75 +16751,68 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Die Kinder spielen draußen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich spiele",
-      "pres_du": "du spielst",
-      "pres_er": "er spielt",
-      "praet": "spielte",
-      "part2": "gespielt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "sport_nm_1",
+    "lang": "de",
     "lemma": "Sport",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Sport",
+      "de": "der Sport",
       "ko": "스포츠",
       "en": "sport",
-      "es": "deporte",
-      "fr": "sport",
-      "it": "sport",
-      "pt": "desporto",
+      "es": "el deporte",
+      "fr": "le sport",
+      "it": "lo sport",
+      "pt": "o desporto",
       "ja": "スポーツ",
       "zh": "运动",
       "ru": "спорт"
     },
     "examples": [
       "Ich mache viel Sport."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "sprache_nf_1",
+    "lang": "de",
     "lemma": "Sprache",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sprachen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Sprache",
+      "de": "die Sprache",
       "ko": "언어",
       "en": "language",
-      "es": "idioma",
-      "fr": "langue",
-      "it": "lingua",
-      "pt": "língua",
+      "es": "el idioma",
+      "fr": "la langue",
+      "it": "la lingua",
+      "pt": "a língua",
       "ja": "言語",
       "zh": "语言",
       "ru": "язык"
     },
     "examples": [
       "Welche Sprachen sprechen Sie?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Sprachen"
+    ]
   },
   {
     "id": "sprechen_v_1",
+    "lang": "de",
     "lemma": "sprechen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16553,6 +16820,14 @@ const WORDS_DE_A1 = [
       "exam",
       "smalltalk"
     ],
+    "conj": {
+      "pres_ich": "ich spreche",
+      "pres_du": "du sprichst",
+      "pres_er": "er spricht",
+      "praet": "sprach",
+      "part2": "gesprochen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "sprechen",
       "ko": "말하다",
@@ -16567,49 +16842,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kann ich Herrn Klein sprechen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich spreche",
-      "pres_du": "du sprichst",
-      "pres_er": "er spricht",
-      "praet": "sprach",
-      "part2": "gesprochen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "stadt_nf_1",
+    "lang": "de",
     "lemma": "Stadt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Städte",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Stadt",
+      "de": "die Stadt",
       "ko": "도시",
       "en": "city",
-      "es": "ciudad",
-      "fr": "ville",
-      "it": "città",
-      "pt": "cidade",
+      "es": "la ciudad",
+      "fr": "la ville",
+      "it": "la città",
+      "pt": "a cidade",
       "ja": "都市",
       "zh": "城市",
       "ru": "город"
     },
     "examples": [
       "Heidelberg ist eine alte Stadt."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Städte"
+    ]
   },
   {
     "id": "stadtplan_nm_1",
+    "lang": "de",
     "lemma": "Stadtplan",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stadtpläne",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16617,54 +16888,53 @@ const WORDS_DE_A1 = [
       "city"
     ],
     "meanings": {
-      "de": "Stadtplan",
+      "de": "der Stadtplan",
       "ko": "시내 지도",
       "en": "city map",
-      "es": "plano de la ciudad",
-      "fr": "plan de la ville",
-      "it": "pianta della città",
-      "pt": "mapa da cidade",
+      "es": "el plano de la ciudad",
+      "fr": "le plan de la ville",
+      "it": "la pianta della città",
+      "pt": "o mapa da cidade",
       "ja": "市街図",
       "zh": "城市地图",
       "ru": "план города"
     },
     "examples": [
       "Haben Sie einen Stadtplan von München?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Stadtpläne"
+    ]
   },
   {
     "id": "standesamt_nn_1",
+    "lang": "de",
     "lemma": "Standesamt",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Standesämter",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Standesamt",
+      "de": "das Standesamt",
       "ko": "호적 등기소",
       "en": "registry office",
-      "es": "registro civil",
-      "fr": "bureau de l'état civil",
-      "it": "ufficio di stato civile",
-      "pt": "conservatória do registo civil",
+      "es": "el registro civil",
+      "fr": "le bureau de l'état civil",
+      "it": "l'ufficio di stato civile",
+      "pt": "a conservatória do registo civil",
       "ja": "戸籍役場",
       "zh": "户籍登记处",
       "ru": "ЗАГС"
     },
     "examples": [
       "Wir heiraten auf dem Standesamt."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Standesämter"
+    ]
   },
   {
     "id": "stark_adj_1",
+    "lang": "de",
     "lemma": "stark",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -16686,11 +16956,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Kaffee ist sehr stark."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "stehen_v_1",
+    "lang": "de",
     "lemma": "stehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16698,6 +16968,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich stehe",
+      "pres_du": "du stehst",
+      "pres_er": "er steht",
+      "praet": "stand",
+      "part2": "gestanden",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "stehen",
       "ko": "서 있다",
@@ -16712,21 +16990,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Bus steht an der Haltestelle."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich stehe",
-      "pres_du": "du stehst",
-      "pres_er": "er steht",
-      "praet": "stand",
-      "part2": "gestanden",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "stelle_nf_1",
+    "lang": "de",
     "lemma": "Stelle",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Stellen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -16734,26 +17007,24 @@ const WORDS_DE_A1 = [
       "location"
     ],
     "meanings": {
-      "de": "Stelle",
+      "de": "die Stelle",
       "ko": "일자리, 장소",
       "en": "job, place",
-      "es": "puesto, lugar",
-      "fr": "place, endroit",
-      "it": "posto, luogo",
-      "pt": "lugar, emprego",
-      "ja": "場所, 職",
+      "es": "el puesto",
+      "fr": "la place",
+      "it": "il posto",
+      "pt": "o lugar",
+      "ja": "場所",
       "zh": "职位",
       "ru": "место"
     },
     "examples": [
       "Ich habe eine neue Stelle."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Stellen"
+    ]
   },
   {
     "id": "stellen_v_1",
+    "lang": "de",
     "lemma": "stellen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16761,6 +17032,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich stelle",
+      "pres_du": "du stellst",
+      "pres_er": "er stellt",
+      "praet": "stellte",
+      "part2": "gestellt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "stellen",
       "ko": "세워 놓다",
@@ -16775,19 +17054,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Stell die Tasche bitte dorthin."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich stelle",
-      "pres_du": "du stellst",
-      "pres_er": "er stellt",
-      "praet": "stellte",
-      "part2": "gestellt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "stimmen_v_1",
+    "lang": "de",
     "lemma": "stimmen",
     "pos": "Verb",
     "cefr": "A1",
@@ -16795,6 +17066,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich stimme",
+      "pres_du": "du stimmst",
+      "pres_er": "er stimmt",
+      "praet": "stimmte",
+      "part2": "gestimmt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "stimmen",
       "ko": "맞다",
@@ -16809,47 +17088,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das stimmt."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich stimme",
-      "pres_du": "du stimmst",
-      "pres_er": "er stimmt",
-      "praet": "stimmte",
-      "part2": "gestimmt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "stock_nm_1",
+    "lang": "de",
     "lemma": "Stock",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stockwerke",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Stock",
+      "de": "der Stock",
       "ko": "층",
       "en": "floor",
-      "es": "piso",
-      "fr": "étage",
-      "it": "piano",
-      "pt": "andar",
+      "es": "el piso",
+      "fr": "l'étage",
+      "it": "il piano",
+      "pt": "o andar",
       "ja": "階",
       "zh": "楼层",
       "ru": "этаж"
     },
     "examples": [
       "Unsere Wohnung liegt im ersten Stock."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Stockwerke"
+    ]
   },
   {
     "id": "stoeren_v_1",
+    "lang": "de",
     "lemma": "stören",
     "pos": "Verb",
     "cefr": "A1",
@@ -16857,6 +17129,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich störe",
+      "pres_du": "du störst",
+      "pres_er": "er stört",
+      "praet": "störte",
+      "part2": "gestört",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "stören",
       "ko": "방해하다",
@@ -16871,159 +17151,156 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Störe ich?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich störe",
-      "pres_du": "du störst",
-      "pres_er": "er stört",
-      "praet": "störte",
-      "part2": "gestört",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "strasse_nf_1",
+    "lang": "de",
     "lemma": "Straße",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Straßen",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Straße",
+      "de": "die Straße",
       "ko": "거리",
       "en": "street",
-      "es": "calle",
-      "fr": "rue",
-      "it": "strada",
-      "pt": "rua",
+      "es": "la calle",
+      "fr": "la rue",
+      "it": "la strada",
+      "pt": "a rua",
       "ja": "通り",
       "zh": "街道",
       "ru": "улица"
     },
     "examples": [
       "In welcher Straße wohnen Sie?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Straßen"
+    ]
   },
   {
     "id": "strassenbahn_nf_1",
+    "lang": "de",
     "lemma": "Straßenbahn",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Straßenbahnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Straßenbahn",
+      "de": "die Straßenbahn",
       "ko": "전차",
       "en": "tram",
-      "es": "tranvía",
-      "fr": "tramway",
-      "it": "tram",
-      "pt": "elétrico",
+      "es": "la tranvía",
+      "fr": "le tramway",
+      "it": "il tram",
+      "pt": "o elétrico",
       "ja": "路面電車",
       "zh": "有轨电车",
       "ru": "трамвай"
     },
     "examples": [
       "Wir fahren mit der Straßenbahn."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Straßenbahnen"
+    ]
   },
   {
     "id": "stueck_nn_1",
+    "lang": "de",
     "lemma": "Stück",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Stücke",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Stück",
+      "de": "das Stück",
       "ko": "조각",
       "en": "piece",
-      "es": "pedazo",
-      "fr": "morceau",
-      "it": "pezzo",
-      "pt": "pedaço",
+      "es": "el pedazo",
+      "fr": "le morceau",
+      "it": "il pezzo",
+      "pt": "o pedaço",
       "ja": "個",
       "zh": "块",
       "ru": "кусок"
     },
     "examples": [
       "Möchten Sie noch ein Stück Kuchen?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Stücke"
+    ]
   },
   {
     "id": "student_nm_1",
+    "lang": "de",
     "lemma": "Student",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Studenten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Student",
+      "de": "der Student",
       "ko": "대학생 (남)",
       "en": "student (male)",
-      "es": "estudiante",
-      "fr": "étudiant",
-      "it": "studente",
-      "pt": "estudante",
+      "es": "el estudiante",
+      "fr": "l'étudiant",
+      "it": "lo studente",
+      "pt": "o estudante",
       "ja": "大学生",
       "zh": "大学生",
       "ru": "студент"
     },
     "examples": [
       "Ich bin Student."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Studenten"
+    ]
   },
   {
     "id": "studentin_nf_1",
+    "lang": "de",
     "lemma": "Studentin",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Studentinnen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Studentin",
+      "de": "die Studentin",
       "ko": "대학생 (여)",
       "en": "student (female)",
-      "es": "estudiante",
-      "fr": "étudiante",
-      "it": "studentessa",
-      "pt": "estudante",
+      "es": "la estudiante",
+      "fr": "l'étudiante",
+      "it": "la studentessa",
+      "pt": "a estudante",
       "ja": "女子学生",
       "zh": "女大学生",
       "ru": "студентка"
     },
     "examples": [
       "Sie ist Studentin."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Studentinnen"
+    ]
   },
   {
     "id": "studieren_v_1",
+    "lang": "de",
     "lemma": "studieren",
     "pos": "Verb",
     "cefr": "A1",
@@ -17031,6 +17308,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich studiere",
+      "pres_du": "du studierst",
+      "pres_er": "er studiert",
+      "praet": "studierte",
+      "part2": "studiert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "studieren",
       "ko": "대학에 다니다, 전공하다",
@@ -17045,75 +17330,69 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich studiere in Mainz."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich studiere",
-      "pres_du": "du studierst",
-      "pres_er": "er studiert",
-      "praet": "studierte",
-      "part2": "studiert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "studium_nn_1",
+    "lang": "de",
     "lemma": "Studium",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Studien",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Studium",
+      "de": "das Studium",
       "ko": "대학 학업",
       "en": "studies",
-      "es": "estudios",
-      "fr": "études",
-      "it": "studi",
-      "pt": "estudos",
+      "es": "los estudios",
+      "fr": "les études",
+      "it": "gli studi",
+      "pt": "os estudos",
       "ja": "大学での勉強",
       "zh": "学业",
       "ru": "учеба"
     },
     "examples": [
       "Das Studium dauert drei Jahre."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Studien"
+    ]
   },
   {
     "id": "stuhl_nm_1",
+    "lang": "de",
     "lemma": "Stuhl",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Stühle",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Stuhl",
+      "de": "der Stuhl",
       "ko": "의자",
       "en": "chair",
-      "es": "silla",
-      "fr": "chaise",
-      "it": "sedia",
-      "pt": "cadeira",
+      "es": "la silla",
+      "fr": "la chaise",
+      "it": "la sedia",
+      "pt": "a cadeira",
       "ja": "椅子",
       "zh": "椅子",
       "ru": "стул"
     },
     "examples": [
       "Ist der Stuhl frei?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Stühle"
+    ]
   },
   {
     "id": "suchen_v_1",
+    "lang": "de",
     "lemma": "suchen",
     "pos": "Verb",
     "cefr": "A1",
@@ -17122,6 +17401,14 @@ const WORDS_DE_A1 = [
       "daily",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich suche",
+      "pres_du": "du suchst",
+      "pres_er": "er sucht",
+      "praet": "suchte",
+      "part2": "gesucht",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "suchen",
       "ko": "찾다",
@@ -17136,77 +17423,74 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich suche meine Brille."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich suche",
-      "pres_du": "du suchst",
-      "pres_er": "er sucht",
-      "praet": "suchte",
-      "part2": "gesucht",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "supermarkt_nm_1",
+    "lang": "de",
     "lemma": "Supermarkt",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Supermärkte",
     "cefr": "A1",
     "tags": [
       "exam",
       "work"
     ],
     "meanings": {
-      "de": "Supermarkt",
+      "de": "der Supermarkt",
       "ko": "슈퍼마켓",
       "en": "supermarket",
-      "es": "supermercado",
-      "fr": "supermarché",
-      "it": "supermercato",
-      "pt": "supermercado",
+      "es": "el supermercado",
+      "fr": "le supermarché",
+      "it": "il supermercato",
+      "pt": "o supermercado",
       "ja": "スーパー",
       "zh": "超市",
       "ru": "супермаркет"
     },
     "examples": [
       "Im Supermarkt ist alles billiger."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Supermärkte"
+    ]
   },
   {
     "id": "suppe_nf_1",
+    "lang": "de",
     "lemma": "Suppe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Suppen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Suppe",
+      "de": "die Suppe",
       "ko": "수프",
       "en": "soup",
-      "es": "sopa",
-      "fr": "soupe",
-      "it": "zuppa",
-      "pt": "sopa",
+      "es": "la sopa",
+      "fr": "la soupe",
+      "it": "la zuppa",
+      "pt": "a sopa",
       "ja": "スープ",
       "zh": "汤",
       "ru": "суп"
     },
     "examples": [
       "Schmeckt dir die Suppe?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Suppen"
+    ]
   },
   {
     "id": "tag_nm_1",
+    "lang": "de",
     "lemma": "Tag",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Tage",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17214,26 +17498,24 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Tag",
+      "de": "der Tag",
       "ko": "날, 낮",
       "en": "day",
-      "es": "día",
-      "fr": "jour",
-      "it": "giorno",
-      "pt": "dia",
+      "es": "el día",
+      "fr": "le jour",
+      "it": "il giorno",
+      "pt": "o dia",
       "ja": "日",
       "zh": "天",
       "ru": "день"
     },
     "examples": [
       "Guten Tag!"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Tage"
+    ]
   },
   {
     "id": "tanken_v_1",
+    "lang": "de",
     "lemma": "tanken",
     "pos": "Verb",
     "cefr": "A1",
@@ -17242,6 +17524,14 @@ const WORDS_DE_A1 = [
       "transport",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich tanke",
+      "pres_du": "du tankst",
+      "pres_er": "er tankt",
+      "praet": "tankte",
+      "part2": "getankt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "tanken",
       "ko": "주유하다",
@@ -17256,47 +17546,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss tanken."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich tanke",
-      "pres_du": "du tankst",
-      "pres_er": "er tankt",
-      "praet": "tankte",
-      "part2": "getankt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "tante_nf_1",
+    "lang": "de",
     "lemma": "Tante",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Tanten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Tante",
+      "de": "die Tante",
       "ko": "이모, 고모",
       "en": "aunt",
-      "es": "tía",
-      "fr": "tante",
-      "it": "zia",
-      "pt": "tia",
+      "es": "la tía",
+      "fr": "la tante",
+      "it": "la zia",
+      "pt": "a tia",
       "ja": "おば",
       "zh": "阿姨",
       "ru": "тетя"
     },
     "examples": [
       "Meine Tante wohnt in Berlin."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Tanten"
+    ]
   },
   {
     "id": "tanzen_v_1",
+    "lang": "de",
     "lemma": "tanzen",
     "pos": "Verb",
     "cefr": "A1",
@@ -17304,6 +17587,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich tanze",
+      "pres_du": "du tanzt",
+      "pres_er": "er tanzt",
+      "praet": "tanzte",
+      "part2": "getanzt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "tanzen",
       "ko": "춤추다",
@@ -17318,21 +17609,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Tanzen Sie gern?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich tanze",
-      "pres_du": "du tanzt",
-      "pres_er": "er tanzt",
-      "praet": "tanzte",
-      "part2": "getanzt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "tasche_nf_1",
+    "lang": "de",
     "lemma": "Tasche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Taschen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17340,110 +17626,111 @@ const WORDS_DE_A1 = [
       "accessories"
     ],
     "meanings": {
-      "de": "Tasche",
+      "de": "die Tasche",
       "ko": "가방, 주머니",
       "en": "bag, pocket",
-      "es": "bolsa, bolsillo",
-      "fr": "sac, poche",
-      "it": "borsa, tasca",
-      "pt": "mala, bolso",
-      "ja": "鞄, ポケット",
+      "es": "la bolsa",
+      "fr": "le sac",
+      "it": "la borsa",
+      "pt": "a mala",
+      "ja": "鞄",
       "zh": "包",
       "ru": "сумка, карман"
     },
     "examples": [
       "Ich habe die Schlüssel in der Tasche."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Taschen"
+    ]
   },
   {
     "id": "taxi_nn_1",
+    "lang": "de",
     "lemma": "Taxi",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Taxis",
     "cefr": "A1",
     "tags": [
       "exam",
       "travel"
     ],
     "meanings": {
-      "de": "Taxi",
+      "de": "das Taxi",
       "ko": "택시",
       "en": "taxi",
-      "es": "taxi",
-      "fr": "taxi",
-      "it": "taxi",
-      "pt": "táxi",
+      "es": "el taxi",
+      "fr": "le taxi",
+      "it": "il taxi",
+      "pt": "o táxi",
       "ja": "タクシー",
       "zh": "出租车",
       "ru": "такси"
     },
     "examples": [
       "Bitte rufen Sie mir ein Taxi."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Taxis"
+    ]
   },
   {
     "id": "tee_nm_1",
+    "lang": "de",
     "lemma": "Tee",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Tees",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Tee",
+      "de": "der Tee",
       "ko": "차",
       "en": "tea",
-      "es": "té",
-      "fr": "thé",
-      "it": "tè",
-      "pt": "chá",
+      "es": "el té",
+      "fr": "le thé",
+      "it": "il tè",
+      "pt": "o chá",
       "ja": "お茶",
       "zh": "茶",
       "ru": "чай"
     },
     "examples": [
       "Ich trinke morgens immer Tee."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Tees"
+    ]
   },
   {
     "id": "teil_nm_1",
+    "lang": "de",
     "lemma": "Teil",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Teile",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Teil",
+      "de": "der Teil",
       "ko": "부분",
       "en": "part",
-      "es": "parte",
-      "fr": "partie",
-      "it": "parte",
-      "pt": "parte",
+      "es": "la parte",
+      "fr": "la partie",
+      "it": "la parte",
+      "pt": "a parte",
       "ja": "部分",
       "zh": "部分",
       "ru": "часть"
     },
     "examples": [
       "Lies bitte auch den zweiten Teil."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Teile"
+    ]
   },
   {
     "id": "telefonieren_v_1",
+    "lang": "de",
     "lemma": "telefonieren",
     "pos": "Verb",
     "cefr": "A1",
@@ -17451,6 +17738,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich telefoniere",
+      "pres_du": "du telefonierst",
+      "pres_er": "er telefoniert",
+      "praet": "telefonierte",
+      "part2": "telefoniert",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "telefonieren",
       "ko": "전화하다",
@@ -17465,49 +17760,45 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Darf ich mal telefonieren?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich telefoniere",
-      "pres_du": "du telefonierst",
-      "pres_er": "er telefoniert",
-      "praet": "telefonierte",
-      "part2": "telefoniert",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "telefon_nn_1",
+    "lang": "de",
     "lemma": "Telefon",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Telefone",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Telefon",
+      "de": "das Telefon",
       "ko": "전화기",
       "en": "telephone",
-      "es": "teléfono",
-      "fr": "téléphone",
-      "it": "telefono",
-      "pt": "telefone",
+      "es": "el teléfono",
+      "fr": "le téléphone",
+      "it": "il telefono",
+      "pt": "o telefone",
       "ja": "電話",
       "zh": "电话",
       "ru": "телефон"
     },
     "examples": [
       "Haben Sie Telefon?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Telefone"
+    ]
   },
   {
     "id": "termin_nm_1",
+    "lang": "de",
     "lemma": "Termin",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Termine",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17515,26 +17806,24 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Termin",
+      "de": "der Termin",
       "ko": "약속, 일정",
       "en": "appointment",
-      "es": "cita",
-      "fr": "rendez-vous",
-      "it": "appuntamento",
-      "pt": "marcação",
+      "es": "la cita",
+      "fr": "le rendez-vous",
+      "it": "l'appuntamento",
+      "pt": "a marcação",
       "ja": "予約",
       "zh": "预约",
       "ru": "встреча"
     },
     "examples": [
       "Ich habe heute einen Termin bei meiner Ärztin."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Termine"
+    ]
   },
   {
     "id": "teuer_adj_1",
+    "lang": "de",
     "lemma": "teuer",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -17556,69 +17845,74 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist mir zu teuer."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "text_nm_1",
+    "lang": "de",
     "lemma": "Text",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Texte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Text",
+      "de": "der Text",
       "ko": "텍스트",
       "en": "text",
-      "es": "texto",
-      "fr": "texte",
-      "it": "testo",
-      "pt": "texto",
+      "es": "el texto",
+      "fr": "le texte",
+      "it": "il testo",
+      "pt": "o texto",
       "ja": "テキスト",
       "zh": "课文",
       "ru": "текст"
     },
     "examples": [
       "Lesen Sie den Text."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Texte"
+    ]
   },
   {
     "id": "thema_nn_1",
+    "lang": "de",
     "lemma": "Thema",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Themen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Thema",
+      "de": "das Thema",
       "ko": "주제",
       "en": "topic",
-      "es": "tema",
-      "fr": "thème",
-      "it": "tema",
-      "pt": "tema",
+      "es": "el tema",
+      "fr": "le thème",
+      "it": "il tema",
+      "pt": "o tema",
       "ja": "テーマ",
       "zh": "题目",
       "ru": "тема"
     },
     "examples": [
       "Wir sprechen heute über das Thema Essen."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Themen"
+    ]
   },
   {
     "id": "ticket_nn_1",
+    "lang": "de",
     "lemma": "Ticket",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Tickets",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -17626,138 +17920,140 @@ const WORDS_DE_A1 = [
       "transport"
     ],
     "meanings": {
-      "de": "Ticket",
+      "de": "das Ticket",
       "ko": "표",
       "en": "ticket",
-      "es": "billete",
-      "fr": "billet",
-      "it": "biglietto",
-      "pt": "bilhete",
+      "es": "el billete",
+      "fr": "le billet",
+      "it": "il biglietto",
+      "pt": "o bilhete",
       "ja": "切符",
       "zh": "票",
       "ru": "билет"
     },
     "examples": [
       "Wie viel kostet das Ticket?"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Tickets"
+    ]
   },
   {
     "id": "tisch_nm_1",
+    "lang": "de",
     "lemma": "Tisch",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Tische",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Tisch",
+      "de": "der Tisch",
       "ko": "책상",
       "en": "table",
-      "es": "mesa",
-      "fr": "table",
-      "it": "tavolo",
-      "pt": "mesa",
+      "es": "la mesa",
+      "fr": "la table",
+      "it": "il tavolo",
+      "pt": "a mesa",
       "ja": "机",
       "zh": "桌子",
       "ru": "стол"
     },
     "examples": [
       "Das Essen steht auf dem Tisch."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Tische"
+    ]
   },
   {
     "id": "tochter_nf_1",
+    "lang": "de",
     "lemma": "Tochter",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Töchter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Tochter",
+      "de": "die Tochter",
       "ko": "딸",
       "en": "daughter",
-      "es": "hija",
-      "fr": "fille",
-      "it": "figlia",
-      "pt": "filha",
+      "es": "la hija",
+      "fr": "la fille",
+      "it": "la figlia",
+      "pt": "a filha",
       "ja": "娘",
       "zh": "女儿",
       "ru": "дочь"
     },
     "examples": [
       "Das ist meine Tochter."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Töchter"
+    ]
   },
   {
     "id": "toilette_nf_1",
+    "lang": "de",
     "lemma": "Toilette",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Toiletten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Toilette",
+      "de": "die Toilette",
       "ko": "화장실",
       "en": "toilet",
-      "es": "servicio",
-      "fr": "toilettes",
-      "it": "gabinetto",
-      "pt": "casa de banho",
+      "es": "el servicio",
+      "fr": "les toilettes",
+      "it": "il gabinetto",
+      "pt": "a casa de banho",
       "ja": "トイレ",
       "zh": "厕所",
       "ru": "туалет"
     },
     "examples": [
       "Wo ist die Toilette?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Toiletten"
+    ]
   },
   {
     "id": "tomate_nf_1",
+    "lang": "de",
     "lemma": "Tomate",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Tomaten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Tomate",
+      "de": "die Tomate",
       "ko": "토마토",
       "en": "tomato",
-      "es": "tomate",
-      "fr": "tomate",
-      "it": "pomodoro",
-      "pt": "tomate",
+      "es": "el tomate",
+      "fr": "la tomate",
+      "it": "il pomodoro",
+      "pt": "o tomate",
       "ja": "トマト",
       "zh": "西红柿",
       "ru": "помидор"
     },
     "examples": [
       "Die Tomate ist rot."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Tomaten"
+    ]
   },
   {
     "id": "tot_adj_1",
+    "lang": "de",
     "lemma": "tot",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -17779,11 +18075,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sein Großvater ist schon lange tot."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "total_adj_1",
+    "lang": "de",
     "lemma": "total",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -17806,39 +18102,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist total falsch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "treppe_nf_1",
+    "lang": "de",
     "lemma": "Treppe",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Treppen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Treppe",
+      "de": "die Treppe",
       "ko": "계단",
       "en": "stairs",
-      "es": "escalera",
-      "fr": "escalier",
-      "it": "scala",
-      "pt": "escada",
+      "es": "la escalera",
+      "fr": "l'escalier",
+      "it": "la scala",
+      "pt": "a escada",
       "ja": "階段",
       "zh": "楼梯",
       "ru": "лестница"
     },
     "examples": [
       "Die Treppe ist steil."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Treppen"
+    ]
   },
   {
     "id": "trinken_v_1",
+    "lang": "de",
     "lemma": "trinken",
     "pos": "Verb",
     "cefr": "A1",
@@ -17847,6 +18144,14 @@ const WORDS_DE_A1 = [
       "drink",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich trinke",
+      "pres_du": "du trinkst",
+      "pres_er": "er trinkt",
+      "praet": "trank",
+      "part2": "getrunken",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "trinken",
       "ko": "마시다",
@@ -17861,19 +18166,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Möchtest du etwas trinken?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich trinke",
-      "pres_du": "du trinkst",
-      "pres_er": "er trinkt",
-      "praet": "trank",
-      "part2": "getrunken",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "tschuess_int_1",
+    "lang": "de",
     "lemma": "Tschüss",
     "pos": "Interjektion",
     "cefr": "A1",
@@ -17895,11 +18192,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Tschüss, bis morgen!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "tun_v_1",
+    "lang": "de",
     "lemma": "tun",
     "pos": "Verb",
     "cefr": "A1",
@@ -17908,6 +18205,14 @@ const WORDS_DE_A1 = [
       "basic",
       "activity"
     ],
+    "conj": {
+      "pres_ich": "ich tue",
+      "pres_du": "du tust",
+      "pres_er": "er tut",
+      "praet": "tat",
+      "part2": "getan",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "tun",
       "ko": "하다",
@@ -17922,19 +18227,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe heute viel zu tun."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich tue",
-      "pres_du": "du tust",
-      "pres_er": "er tut",
-      "praet": "tat",
-      "part2": "getan",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ueber_prep_1",
+    "lang": "de",
     "lemma": "über",
     "pos": "Präposition",
     "cefr": "A1",
@@ -17957,11 +18254,11 @@ const WORDS_DE_A1 = [
     "examples": [
       "Die Lampe hängt über dem Tisch.",
       "Wir sprechen über das Wetter."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "ueberall_adv_1",
+    "lang": "de",
     "lemma": "überall",
     "pos": "Adverb",
     "cefr": "A1",
@@ -17983,11 +18280,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe überall gesucht."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "uebermorgen_adv_1",
+    "lang": "de",
     "lemma": "übermorgen",
     "pos": "Adverb",
     "cefr": "A1",
@@ -18009,11 +18306,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich komme übermorgen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "uebernachten_v_1",
+    "lang": "de",
     "lemma": "übernachten",
     "pos": "Verb",
     "cefr": "A1",
@@ -18022,6 +18319,14 @@ const WORDS_DE_A1 = [
       "travel",
       "housing"
     ],
+    "conj": {
+      "pres_ich": "ich übernachte",
+      "pres_du": "du übernachtest",
+      "pres_er": "er übernachtet",
+      "praet": "übernachtete",
+      "part2": "übernachtet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "übernachten",
       "ko": "숙박하다",
@@ -18036,62 +18341,58 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir haben im Hotel übernachtet."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich übernachte",
-      "pres_du": "du übernachtest",
-      "pres_er": "er übernachtet",
-      "praet": "übernachtete",
-      "part2": "übernachtet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "ueberweisung_nf_1",
+    "lang": "de",
     "lemma": "Überweisung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Überweisungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Überweisung",
+      "de": "die Überweisung",
       "ko": "이체",
       "en": "transfer",
-      "es": "transferencia",
-      "fr": "virement",
-      "it": "bonifico",
-      "pt": "transferência",
+      "es": "la transferencia",
+      "fr": "le virement",
+      "it": "il bonifico",
+      "pt": "a transferência",
       "ja": "振込",
       "zh": "转账",
       "ru": "перевод"
     },
     "examples": [
       "Sie können per Überweisung bezahlen."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Überweisungen"
+    ]
   },
   {
     "id": "uhr_nf_1",
+    "lang": "de",
     "lemma": "Uhr",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Uhren",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Uhr",
+      "de": "die Uhr",
       "ko": "시계",
       "en": "clock",
-      "es": "reloj",
-      "fr": "montre",
-      "it": "orologio",
-      "pt": "relógio",
+      "es": "el reloj",
+      "fr": "la montre",
+      "it": "l'orologio",
+      "pt": "o relógio",
       "ja": "時計",
       "zh": "钟",
       "ru": "часы"
@@ -18099,13 +18400,11 @@ const WORDS_DE_A1 = [
     "examples": [
       "Meine Uhr ist kaputt.",
       "Es ist vier Uhr."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Uhren"
+    ]
   },
   {
     "id": "um_prep_1",
+    "lang": "de",
     "lemma": "um",
     "pos": "Präposition",
     "cefr": "A1",
@@ -18121,18 +18420,18 @@ const WORDS_DE_A1 = [
       "fr": "à, autour de",
       "it": "alle, intorno a",
       "pt": "às, à volta de",
-      "ja": "～時に, ～の周りに",
-      "zh": "在, 围绕",
+      "ja": "～の周りに",
+      "zh": "围绕",
       "ru": "в, вокруг"
     },
     "examples": [
       "Der Zug kommt um 10 Uhr.",
       "Wir gehen um das Haus."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "umsteigen_v_1",
+    "lang": "de",
     "lemma": "umsteigen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18141,6 +18440,14 @@ const WORDS_DE_A1 = [
       "transport",
       "travel"
     ],
+    "conj": {
+      "pres_ich": "ich steige um",
+      "pres_du": "du steigst um",
+      "pres_er": "er steigt um",
+      "praet": "stieg um",
+      "part2": "umgestiegen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "umsteigen",
       "ko": "갈아타다",
@@ -18155,19 +18462,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Sie müssen in München umsteigen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich steige um",
-      "pres_du": "du steigst um",
-      "pres_er": "er steigt um",
-      "praet": "stieg um",
-      "part2": "umgestiegen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "umziehen_v_1",
+    "lang": "de",
     "lemma": "umziehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18175,6 +18474,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich ziehe um",
+      "pres_du": "du ziehst um",
+      "pres_er": "er zieht um",
+      "praet": "zog um",
+      "part2": "umgezogen",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "umziehen",
       "ko": "이사하다",
@@ -18189,19 +18496,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir sind letzten Monat umgezogen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich ziehe um",
-      "pres_du": "du ziehst um",
-      "pres_er": "er zieht um",
-      "praet": "zog um",
-      "part2": "umgezogen",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "und_konj_1",
+    "lang": "de",
     "lemma": "und",
     "pos": "Konjunktion",
     "cefr": "A1",
@@ -18223,39 +18522,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe einen Bruder und eine Schwester."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "unterricht_nm_1",
+    "lang": "de",
     "lemma": "Unterricht",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Unterricht",
+      "de": "der Unterricht",
       "ko": "수업",
       "en": "lesson",
-      "es": "clase",
-      "fr": "cours",
-      "it": "lezione",
-      "pt": "aula",
+      "es": "la clase",
+      "fr": "le cours",
+      "it": "la lezione",
+      "pt": "a aula",
       "ja": "授業",
       "zh": "课",
       "ru": "занятие"
     },
     "examples": [
       "Der Unterricht beginnt um 8 Uhr."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": ""
+    ]
   },
   {
     "id": "unterschreiben_v_1",
+    "lang": "de",
     "lemma": "unterschreiben",
     "pos": "Verb",
     "cefr": "A1",
@@ -18264,6 +18563,14 @@ const WORDS_DE_A1 = [
       "official",
       "work"
     ],
+    "conj": {
+      "pres_ich": "ich unterschreibe",
+      "pres_du": "du unterschreibst",
+      "pres_er": "er unterschreibt",
+      "praet": "unterschrieb",
+      "part2": "unterschrieben",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "unterschreiben",
       "ko": "서명하다",
@@ -18278,21 +18585,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Bitte unterschreiben Sie hier."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich unterschreibe",
-      "pres_du": "du unterschreibst",
-      "pres_er": "er unterschreibt",
-      "praet": "unterschrieb",
-      "part2": "unterschrieben",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "unterschrift_nf_1",
+    "lang": "de",
     "lemma": "Unterschrift",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Unterschriften",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18300,56 +18602,58 @@ const WORDS_DE_A1 = [
       "work"
     ],
     "meanings": {
-      "de": "Unterschrift",
+      "de": "die Unterschrift",
       "ko": "서명",
       "en": "signature",
-      "es": "firma",
-      "fr": "signature",
-      "it": "firma",
-      "pt": "assinatura",
+      "es": "la firma",
+      "fr": "la signature",
+      "it": "la firma",
+      "pt": "a assinatura",
       "ja": "署名",
       "zh": "签名",
       "ru": "подпись"
     },
     "examples": [
       "Hier fehlt noch Ihre Unterschrift."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Unterschriften"
+    ]
   },
   {
     "id": "untersuchung_nf_1",
+    "lang": "de",
     "lemma": "Untersuchung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Untersuchungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Untersuchung",
+      "de": "die Untersuchung",
       "ko": "검사",
       "en": "examination",
-      "es": "examen",
-      "fr": "examen",
-      "it": "visita",
-      "pt": "exame",
+      "es": "el examen",
+      "fr": "l'examen",
+      "it": "la visita",
+      "pt": "o exame",
       "ja": "診察",
       "zh": "检查",
       "ru": "обследование"
     },
     "examples": [
       "Die Untersuchung dauert nur zehn Minuten."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Untersuchungen"
+    ]
   },
   {
     "id": "urlaub_nm_1",
+    "lang": "de",
     "lemma": "Urlaub",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Urlaube",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18357,28 +18661,29 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Urlaub",
+      "de": "der Urlaub",
       "ko": "휴가",
       "en": "vacation",
-      "es": "vacaciones",
-      "fr": "vacances",
-      "it": "vacanza",
-      "pt": "férias",
+      "es": "las vacaciones",
+      "fr": "les vacances",
+      "it": "la vacanza",
+      "pt": "as férias",
       "ja": "休暇",
       "zh": "休假",
       "ru": "отпуск"
     },
     "examples": [
       "Ich habe drei Wochen Urlaub."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Urlaube"
+    ]
   },
   {
     "id": "vater_nm_1",
+    "lang": "de",
     "lemma": "Vater",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Väter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18386,26 +18691,24 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Vater",
+      "de": "der Vater",
       "ko": "아버지",
       "en": "father",
-      "es": "padre",
-      "fr": "père",
-      "it": "padre",
-      "pt": "pai",
+      "es": "el padre",
+      "fr": "le père",
+      "it": "il padre",
+      "pt": "o pai",
       "ja": "父",
       "zh": "父亲",
       "ru": "отец"
     },
     "examples": [
       "Mein Vater ist Arzt."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Väter"
+    ]
   },
   {
     "id": "verboten_adj_1",
+    "lang": "de",
     "lemma": "verboten",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -18427,11 +18730,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Rauchen ist hier verboten."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "verdienen_v_1",
+    "lang": "de",
     "lemma": "verdienen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18440,6 +18743,14 @@ const WORDS_DE_A1 = [
       "work",
       "money"
     ],
+    "conj": {
+      "pres_ich": "ich verdiene",
+      "pres_du": "du verdienst",
+      "pres_er": "er verdient",
+      "praet": "verdiente",
+      "part2": "verdient",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "verdienen",
       "ko": "벌다",
@@ -18454,47 +18765,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er verdient viel Geld."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich verdiene",
-      "pres_du": "du verdienst",
-      "pres_er": "er verdient",
-      "praet": "verdiente",
-      "part2": "verdient",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "verein_nm_1",
+    "lang": "de",
     "lemma": "Verein",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Vereine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Verein",
+      "de": "der Verein",
       "ko": "클럽, 동호회",
       "en": "club",
-      "es": "club",
-      "fr": "association",
-      "it": "associazione",
-      "pt": "clube",
+      "es": "el club",
+      "fr": "l'association",
+      "it": "l'associazione",
+      "pt": "o clube",
       "ja": "クラブ",
       "zh": "协会",
       "ru": "клуб"
     },
     "examples": [
       "Ich bin im Sportverein."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Vereine"
+    ]
   },
   {
     "id": "verheiratet_adj_1",
+    "lang": "de",
     "lemma": "verheiratet",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -18516,11 +18820,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin verheiratet."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "verkaufen_v_1",
+    "lang": "de",
     "lemma": "verkaufen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18528,6 +18832,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich verkaufe",
+      "pres_du": "du verkaufst",
+      "pres_er": "er verkauft",
+      "praet": "verkaufte",
+      "part2": "verkauft",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "verkaufen",
       "ko": "팔다",
@@ -18542,21 +18854,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich verkaufe mein Auto."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich verkaufe",
-      "pres_du": "du verkaufst",
-      "pres_er": "er verkauft",
-      "praet": "verkaufte",
-      "part2": "verkauft",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "verkaeufer_nm_1",
+    "lang": "de",
     "lemma": "Verkäufer",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Verkäufer",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -18564,26 +18871,24 @@ const WORDS_DE_A1 = [
       "shopping"
     ],
     "meanings": {
-      "de": "Verkäufer",
+      "de": "der Verkäufer",
       "ko": "판매원",
       "en": "salesperson",
-      "es": "vendedor",
-      "fr": "vendeur",
-      "it": "commesso",
-      "pt": "vendedor",
+      "es": "el vendedor",
+      "fr": "le vendeur",
+      "it": "il commesso",
+      "pt": "o vendedor",
       "ja": "店員",
       "zh": "售货员",
       "ru": "продавец"
     },
     "examples": [
       "Der Verkäufer ist sehr nett."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Verkäufer"
+    ]
   },
   {
     "id": "vermieten_v_1",
+    "lang": "de",
     "lemma": "vermieten",
     "pos": "Verb",
     "cefr": "A1",
@@ -18591,6 +18896,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich vermiete",
+      "pres_du": "du vermietest",
+      "pres_er": "er vermietet",
+      "praet": "vermietete",
+      "part2": "vermietet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "vermieten",
       "ko": "임대하다",
@@ -18605,47 +18918,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir vermieten ein Zimmer."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich vermiete",
-      "pres_du": "du vermietest",
-      "pres_er": "er vermietet",
-      "praet": "vermietete",
-      "part2": "vermietet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "vermieter_nm_1",
+    "lang": "de",
     "lemma": "Vermieter",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Vermieter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Vermieter",
+      "de": "der Vermieter",
       "ko": "집주인",
       "en": "landlord",
-      "es": "casero",
-      "fr": "propriétaire",
-      "it": "padrone di casa",
-      "pt": "senhorio",
+      "es": "el casero",
+      "fr": "le propriétaire",
+      "it": "il padrone di casa",
+      "pt": "o senhorio",
       "ja": "大家",
       "zh": "房东",
       "ru": "арендодатель"
     },
     "examples": [
       "Unser Vermieter ist sehr freundlich."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Vermieter"
+    ]
   },
   {
     "id": "verstehen_v_1",
+    "lang": "de",
     "lemma": "verstehen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18654,6 +18960,14 @@ const WORDS_DE_A1 = [
       "communication",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich verstehe",
+      "pres_du": "du verstehst",
+      "pres_er": "er versteht",
+      "praet": "verstand",
+      "part2": "verstanden",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "verstehen",
       "ko": "이해하다",
@@ -18668,47 +18982,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich verstehe dich nicht."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich verstehe",
-      "pres_du": "du verstehst",
-      "pres_er": "er versteht",
-      "praet": "verstand",
-      "part2": "verstanden",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "verwandte_nx_1",
+    "lang": "de",
     "lemma": "Verwandte",
     "pos": "Nomen",
+    "article": "die",
+    "plural": "Verwandte",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Verwandte",
+      "de": "die Verwandte",
       "ko": "친척",
       "en": "relative",
-      "es": "pariente",
-      "fr": "parent",
-      "it": "parente",
-      "pt": "parente",
+      "es": "la pariente",
+      "fr": "le parent",
+      "it": "il parente",
+      "pt": "a parente",
       "ja": "親戚",
       "zh": "亲戚",
       "ru": "родственник"
     },
     "examples": [
       "Wir besuchen unsere Verwandten."
-    ],
-    "meta": {},
-    "gender": "",
-    "plural": "Verwandte"
+    ]
   },
   {
     "id": "viel_pron_1",
+    "lang": "de",
     "lemma": "viel",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -18731,11 +19037,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe viel Arbeit."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "vielleicht_adv_1",
+    "lang": "de",
     "lemma": "vielleicht",
     "pos": "Adverb",
     "cefr": "A1",
@@ -18758,11 +19064,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Vielleicht komme ich morgen."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "von_prep_1",
+    "lang": "de",
     "lemma": "von",
     "pos": "Präposition",
     "cefr": "A1",
@@ -18779,17 +19085,17 @@ const WORDS_DE_A1 = [
       "fr": "de",
       "it": "di, da",
       "pt": "de",
-      "ja": "～の, ～から",
+      "ja": "～から",
       "zh": "从",
       "ru": "от, из"
     },
     "examples": [
       "Das Auto von meinem Bruder."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "vor_prep_1",
+    "lang": "de",
     "lemma": "vor",
     "pos": "Präposition",
     "cefr": "A1",
@@ -18806,72 +19112,73 @@ const WORDS_DE_A1 = [
       "it": "davanti a, prima di",
       "pt": "em frente de, antes de",
       "ja": "～の前に",
-      "zh": "在前面, 在之前",
+      "zh": "在前面",
       "ru": "перед, до"
     },
     "examples": [
       "Wir treffen uns vor dem Kino."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "vorname_nm_1",
+    "lang": "de",
     "lemma": "Vorname",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Vornamen",
     "cefr": "A1",
     "tags": [
       "exam",
       "smalltalk"
     ],
     "meanings": {
-      "de": "Vorname",
+      "de": "der Vorname",
       "ko": "이름",
       "en": "first name",
-      "es": "nombre",
-      "fr": "prénom",
-      "it": "nome",
-      "pt": "nome próprio",
+      "es": "el nombre",
+      "fr": "le prénom",
+      "it": "il nome",
+      "pt": "o nome próprio",
       "ja": "下の名前",
       "zh": "名字",
       "ru": "имя"
     },
     "examples": [
       "Mein Vorname ist Thomas."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Vornamen"
+    ]
   },
   {
     "id": "vorsicht_nf_1",
+    "lang": "de",
     "lemma": "Vorsicht",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Vorsicht",
+      "de": "die Vorsicht",
       "ko": "주의",
       "en": "caution",
-      "es": "cuidado",
-      "fr": "attention",
-      "it": "attenzione",
-      "pt": "cuidado",
+      "es": "el cuidado",
+      "fr": "l'attention",
+      "it": "l'attenzione",
+      "pt": "o cuidado",
       "ja": "注意",
       "zh": "小心",
       "ru": "осторожно"
     },
     "examples": [
       "Vorsicht! Der Hund beißt."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": ""
+    ]
   },
   {
     "id": "vorstellen_v_1",
+    "lang": "de",
     "lemma": "vorstellen",
     "pos": "Verb",
     "cefr": "A1",
@@ -18879,6 +19186,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich stelle vor",
+      "pres_du": "du stellst vor",
+      "pres_er": "er stellt vor",
+      "praet": "stellte vor",
+      "part2": "vorgestellt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "vorstellen",
       "ko": "소개하다",
@@ -18893,19 +19208,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Darf ich Ihnen meine Frau vorstellen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich stelle vor",
-      "pres_du": "du stellst vor",
-      "pres_er": "er stellt vor",
-      "praet": "stellte vor",
-      "part2": "vorgestellt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "wann_adv_1",
+    "lang": "de",
     "lemma": "wann",
     "pos": "Adverb",
     "cefr": "A1",
@@ -18927,11 +19234,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wann kommst du?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "warten_v_1",
+    "lang": "de",
     "lemma": "warten",
     "pos": "Verb",
     "cefr": "A1",
@@ -18940,6 +19247,14 @@ const WORDS_DE_A1 = [
       "basic",
       "activity"
     ],
+    "conj": {
+      "pres_ich": "ich warte",
+      "pres_du": "du wartest",
+      "pres_er": "er wartet",
+      "praet": "wartete",
+      "part2": "gewartet",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "warten",
       "ko": "기다리다",
@@ -18954,19 +19269,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich warte auf den Bus."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich warte",
-      "pres_du": "du wartest",
-      "pres_er": "er wartet",
-      "praet": "wartete",
-      "part2": "gewartet",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "warum_adv_1",
+    "lang": "de",
     "lemma": "warum",
     "pos": "Adverb",
     "cefr": "A1",
@@ -18989,11 +19296,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Warum kommst du nicht?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "was_pron_1",
+    "lang": "de",
     "lemma": "was",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -19016,11 +19323,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Was ist das?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "waschen_v_1",
+    "lang": "de",
     "lemma": "waschen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19029,6 +19336,14 @@ const WORDS_DE_A1 = [
       "daily",
       "hygiene"
     ],
+    "conj": {
+      "pres_ich": "ich wasche",
+      "pres_du": "du wäschst",
+      "pres_er": "er wäscht",
+      "praet": "wusch",
+      "part2": "gewaschen",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "waschen",
       "ko": "씻다",
@@ -19043,47 +19358,39 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich muss meine Hände waschen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich wasche",
-      "pres_du": "du wäschst",
-      "pres_er": "er wäscht",
-      "praet": "wusch",
-      "part2": "gewaschen",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "wasser_nn_1",
+    "lang": "de",
     "lemma": "Wasser",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Wasser",
+      "de": "das Wasser",
       "ko": "물",
       "en": "water",
-      "es": "agua",
-      "fr": "eau",
-      "it": "acqua",
-      "pt": "água",
+      "es": "el agua",
+      "fr": "l'eau",
+      "it": "l'acqua",
+      "pt": "a água",
       "ja": "水",
       "zh": "水",
       "ru": "вода"
     },
     "examples": [
       "Ein Glas Wasser, bitte."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "weg_adv_1",
+    "lang": "de",
     "lemma": "weg",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19106,39 +19413,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Meine Tasche ist weg."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "weg_nm_1",
+    "lang": "de",
     "lemma": "Weg",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Wege",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Weg",
+      "de": "der Weg",
       "ko": "길",
       "en": "way, path",
-      "es": "camino",
-      "fr": "chemin",
-      "it": "strada",
-      "pt": "caminho",
+      "es": "el camino",
+      "fr": "le chemin",
+      "it": "la strada",
+      "pt": "o caminho",
       "ja": "道",
       "zh": "路",
       "ru": "путь"
     },
     "examples": [
       "Können Sie mir den Weg zeigen?"
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Wege"
+    ]
   },
   {
     "id": "weh_tun_v_1",
+    "lang": "de",
     "lemma": "weh tun",
     "pos": "Verb",
     "cefr": "A1",
@@ -19146,6 +19454,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "es tut weh",
+      "pres_du": "es tut weh",
+      "pres_er": "es tut weh",
+      "praet": "tat weh",
+      "part2": "wehgetan",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "weh tun",
       "ko": "아프다",
@@ -19160,19 +19476,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Mein Kopf tut weh."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "es tut weh",
-      "pres_du": "es tut weh",
-      "pres_er": "es tut weh",
-      "praet": "tat weh",
-      "part2": "wehgetan",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "weiblich_adj_1",
+    "lang": "de",
     "lemma": "weiblich",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -19194,39 +19502,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Kreuzen Sie bitte an: weiblich oder männlich."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wein_nm_1",
+    "lang": "de",
     "lemma": "Wein",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Weine",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Wein",
+      "de": "der Wein",
       "ko": "와인",
       "en": "wine",
-      "es": "vino",
-      "fr": "vin",
-      "it": "vino",
-      "pt": "vinho",
+      "es": "el vino",
+      "fr": "le vin",
+      "it": "il vino",
+      "pt": "o vinho",
       "ja": "ワイン",
       "zh": "葡萄酒",
       "ru": "вино"
     },
     "examples": [
       "Ich trinke gern Rotwein."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Weine"
+    ]
   },
   {
     "id": "weit_adj_1",
+    "lang": "de",
     "lemma": "weit",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -19248,11 +19557,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Der Bahnhof ist nicht weit."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "weiter_adv_1",
+    "lang": "de",
     "lemma": "weiter",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19275,39 +19584,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Lesen Sie bitte weiter."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "welt_nf_1",
+    "lang": "de",
     "lemma": "Welt",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Welten",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Welt",
+      "de": "die Welt",
       "ko": "세계",
       "en": "world",
-      "es": "mundo",
-      "fr": "monde",
-      "it": "mondo",
-      "pt": "mundo",
+      "es": "el mundo",
+      "fr": "le monde",
+      "it": "il mondo",
+      "pt": "o mundo",
       "ja": "世界",
       "zh": "世界",
       "ru": "мир"
     },
     "examples": [
       "Er reist um die Welt."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Welten"
+    ]
   },
   {
     "id": "wenig_pron_1",
+    "lang": "de",
     "lemma": "wenig",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -19330,11 +19640,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich habe nur wenig Zeit."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wer_pron_1",
+    "lang": "de",
     "lemma": "wer",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -19357,11 +19667,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wer ist das?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "werden_v_1",
+    "lang": "de",
     "lemma": "werden",
     "pos": "Verb",
     "cefr": "A1",
@@ -19370,6 +19680,14 @@ const WORDS_DE_A1 = [
       "basic",
       "grammar"
     ],
+    "conj": {
+      "pres_ich": "ich werde",
+      "pres_du": "du wirst",
+      "pres_er": "er wird",
+      "praet": "wurde",
+      "part2": "geworden",
+      "aux": "sein"
+    },
     "meanings": {
       "de": "werden",
       "ko": "되다",
@@ -19384,21 +19702,15 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Mein Sohn will Arzt werden."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich werde",
-      "pres_du": "du wirst",
-      "pres_er": "er wird",
-      "praet": "wurde",
-      "part2": "geworden",
-      "aux": "sein"
-    }
+    ]
   },
   {
     "id": "wetter_nn_1",
+    "lang": "de",
     "lemma": "Wetter",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19406,26 +19718,24 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Wetter",
+      "de": "das Wetter",
       "ko": "날씨",
       "en": "weather",
-      "es": "tiempo",
-      "fr": "temps",
-      "it": "tempo",
-      "pt": "tempo",
+      "es": "el tiempo",
+      "fr": "le temps",
+      "it": "il tempo",
+      "pt": "o tempo",
       "ja": "天気",
       "zh": "天气",
       "ru": "погода"
     },
     "examples": [
       "Das Wetter ist heute gut."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": ""
+    ]
   },
   {
     "id": "wichtig_adj_1",
+    "lang": "de",
     "lemma": "wichtig",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -19448,11 +19758,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das ist sehr wichtig."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wie_adv_1",
+    "lang": "de",
     "lemma": "wie",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19475,11 +19785,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wie heißt du?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wieder_adv_1",
+    "lang": "de",
     "lemma": "wieder",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19502,11 +19812,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Er ist schon wieder krank."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wiederholen_v_1",
+    "lang": "de",
     "lemma": "wiederholen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19514,6 +19824,14 @@ const WORDS_DE_A1 = [
       "exam",
       "daily"
     ],
+    "conj": {
+      "pres_ich": "ich wiederhole",
+      "pres_du": "du wiederholst",
+      "pres_er": "er wiederholt",
+      "praet": "wiederholte",
+      "part2": "wiederholt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "wiederholen",
       "ko": "반복하다",
@@ -19528,19 +19846,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Können Sie das bitte wiederholen?"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich wiederhole",
-      "pres_du": "du wiederholst",
-      "pres_er": "er wiederholt",
-      "praet": "wiederholte",
-      "part2": "wiederholt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "willkommen_adj_1",
+    "lang": "de",
     "lemma": "willkommen",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -19563,39 +19873,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Herzlich willkommen in Berlin!"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wind_nm_1",
+    "lang": "de",
     "lemma": "Wind",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Winde",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Wind",
+      "de": "der Wind",
       "ko": "바람",
       "en": "wind",
-      "es": "viento",
-      "fr": "vent",
-      "it": "vento",
-      "pt": "vento",
+      "es": "el viento",
+      "fr": "le vent",
+      "it": "il vento",
+      "pt": "o vento",
       "ja": "風",
       "zh": "风",
       "ru": "ветер"
     },
     "examples": [
       "Der Wind ist heute sehr stark."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Winde"
+    ]
   },
   {
     "id": "wir_pron_1",
+    "lang": "de",
     "lemma": "wir",
     "pos": "Pronomen",
     "cefr": "A1",
@@ -19617,11 +19928,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wir lernen Deutsch."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wissen_v_1",
+    "lang": "de",
     "lemma": "wissen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19630,6 +19941,14 @@ const WORDS_DE_A1 = [
       "basic",
       "mind"
     ],
+    "conj": {
+      "pres_ich": "ich weiß",
+      "pres_du": "du weißt",
+      "pres_er": "er weiß",
+      "praet": "wusste",
+      "part2": "gewusst",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "wissen",
       "ko": "알다",
@@ -19644,19 +19963,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich weiß es nicht."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich weiß",
-      "pres_du": "du weißt",
-      "pres_er": "er weiß",
-      "praet": "wusste",
-      "part2": "gewusst",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "wo_adv_1",
+    "lang": "de",
     "lemma": "wo",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19680,13 +19991,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wo wohnen Sie?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "woche_nf_1",
+    "lang": "de",
     "lemma": "Woche",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wochen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19694,28 +20008,29 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Woche",
+      "de": "die Woche",
       "ko": "주",
       "en": "week",
-      "es": "semana",
-      "fr": "semaine",
-      "it": "settimana",
-      "pt": "semana",
+      "es": "la semana",
+      "fr": "la semaine",
+      "it": "la settimana",
+      "pt": "a semana",
       "ja": "週",
       "zh": "周",
       "ru": "неделя"
     },
     "examples": [
       "Ich habe eine Woche Urlaub."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Wochen"
+    ]
   },
   {
     "id": "wochenende_nn_1",
+    "lang": "de",
     "lemma": "Wochenende",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Wochenenden",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19723,26 +20038,24 @@ const WORDS_DE_A1 = [
       "smalltalk"
     ],
     "meanings": {
-      "de": "Wochenende",
+      "de": "das Wochenende",
       "ko": "주말",
       "en": "weekend",
-      "es": "fin de semana",
-      "fr": "week-end",
-      "it": "fine settimana",
-      "pt": "fim de semana",
+      "es": "el fin de semana",
+      "fr": "le week-end",
+      "it": "il fine settimana",
+      "pt": "o fim de semana",
       "ja": "週末",
       "zh": "周末",
       "ru": "выходные"
     },
     "examples": [
       "Schönes Wochenende!"
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Wochenenden"
+    ]
   },
   {
     "id": "woher_adv_1",
+    "lang": "de",
     "lemma": "woher",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19766,11 +20079,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Woher kommen Sie?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wohin_adv_1",
+    "lang": "de",
     "lemma": "wohin",
     "pos": "Adverb",
     "cefr": "A1",
@@ -19794,11 +20107,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Wohin gehst du?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "wohnen_v_1",
+    "lang": "de",
     "lemma": "wohnen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19807,6 +20120,14 @@ const WORDS_DE_A1 = [
       "housing",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich wohne",
+      "pres_du": "du wohnst",
+      "pres_er": "er wohnt",
+      "praet": "wohnte",
+      "part2": "gewohnt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "wohnen",
       "ko": "살다",
@@ -19821,47 +20142,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich wohne in München."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich wohne",
-      "pres_du": "du wohnst",
-      "pres_er": "er wohnt",
-      "praet": "wohnte",
-      "part2": "gewohnt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "wohnung_nf_1",
+    "lang": "de",
     "lemma": "Wohnung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Wohnungen",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Wohnung",
+      "de": "die Wohnung",
       "ko": "아파트",
       "en": "apartment",
-      "es": "piso",
-      "fr": "appartement",
-      "it": "appartamento",
-      "pt": "apartamento",
+      "es": "el piso",
+      "fr": "l'appartement",
+      "it": "l'appartamento",
+      "pt": "o apartamento",
       "ja": "アパート",
       "zh": "公寓",
       "ru": "квартира"
     },
     "examples": [
       "Meine Wohnung ist sehr groß."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Wohnungen"
+    ]
   },
   {
     "id": "wollen_v_1",
+    "lang": "de",
     "lemma": "wollen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19870,6 +20184,14 @@ const WORDS_DE_A1 = [
       "basic",
       "wish"
     ],
+    "conj": {
+      "pres_ich": "ich will",
+      "pres_du": "du willst",
+      "pres_er": "er will",
+      "praet": "wollte",
+      "part2": "gewollt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "wollen",
       "ko": "원하다",
@@ -19884,47 +20206,40 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich will Deutsch lernen."
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich will",
-      "pres_du": "du willst",
-      "pres_er": "er will",
-      "praet": "wollte",
-      "part2": "gewollt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "wort_nn_1",
+    "lang": "de",
     "lemma": "Wort",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Wörter",
     "cefr": "A1",
     "tags": [
       "exam",
       "basic"
     ],
     "meanings": {
-      "de": "Wort",
+      "de": "das Wort",
       "ko": "단어",
       "en": "word",
-      "es": "palabra",
-      "fr": "mot",
-      "it": "parola",
-      "pt": "palavra",
+      "es": "la palabra",
+      "fr": "le mot",
+      "it": "la parola",
+      "pt": "a palavra",
       "ja": "単語",
       "zh": "词",
       "ru": "слово"
     },
     "examples": [
       "Ich kenne das Wort nicht."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Wörter"
+    ]
   },
   {
     "id": "wunderbar_adj_1",
+    "lang": "de",
     "lemma": "wunderbar",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -19946,11 +20261,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Das Essen war wunderbar."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "zahlen_v_1",
+    "lang": "de",
     "lemma": "zahlen",
     "pos": "Verb",
     "cefr": "A1",
@@ -19958,6 +20273,14 @@ const WORDS_DE_A1 = [
       "exam",
       "basic"
     ],
+    "conj": {
+      "pres_ich": "ich zahle",
+      "pres_du": "du zahlst",
+      "pres_er": "er zahlt",
+      "praet": "zahlte",
+      "part2": "gezahlt",
+      "aux": "haben"
+    },
     "meanings": {
       "de": "zahlen",
       "ko": "지불하다",
@@ -19972,21 +20295,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Zahlen, bitte!"
-    ],
-    "meta": {},
-    "conj": {
-      "pres_ich": "ich zahle",
-      "pres_du": "du zahlst",
-      "pres_er": "er zahlt",
-      "praet": "zahlte",
-      "part2": "gezahlt",
-      "aux": "haben"
-    }
+    ]
   },
   {
     "id": "zeit_nf_1",
+    "lang": "de",
     "lemma": "Zeit",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Zeiten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -19994,28 +20312,29 @@ const WORDS_DE_A1 = [
       "basic"
     ],
     "meanings": {
-      "de": "Zeit",
+      "de": "die Zeit",
       "ko": "시간",
       "en": "time",
-      "es": "tiempo",
-      "fr": "temps",
-      "it": "tempo",
-      "pt": "tempo",
+      "es": "el tiempo",
+      "fr": "le temps",
+      "it": "il tempo",
+      "pt": "o tempo",
       "ja": "時間",
       "zh": "时间",
       "ru": "время"
     },
     "examples": [
       "Ich habe heute keine Zeit."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Zeiten"
+    ]
   },
   {
     "id": "zeitung_nf_1",
+    "lang": "de",
     "lemma": "Zeitung",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Zeitungen",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20023,28 +20342,29 @@ const WORDS_DE_A1 = [
       "daily"
     ],
     "meanings": {
-      "de": "Zeitung",
+      "de": "die Zeitung",
       "ko": "신문",
       "en": "newspaper",
-      "es": "periódico",
-      "fr": "journal",
-      "it": "giornale",
-      "pt": "jornal",
+      "es": "el periódico",
+      "fr": "le journal",
+      "it": "il giornale",
+      "pt": "o jornal",
       "ja": "新聞",
       "zh": "报纸",
       "ru": "газета"
     },
     "examples": [
       "Ich lese die Zeitung."
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Zeitungen"
+    ]
   },
   {
     "id": "zigarette_nf_1",
+    "lang": "de",
     "lemma": "Zigarette",
     "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Zigaretten",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20052,56 +20372,58 @@ const WORDS_DE_A1 = [
       "shopping"
     ],
     "meanings": {
-      "de": "Zigarette",
+      "de": "die Zigarette",
       "ko": "담배",
       "en": "cigarette",
-      "es": "cigarrillo",
-      "fr": "cigarette",
-      "it": "sigaretta",
-      "pt": "cigarro",
+      "es": "el cigarrillo",
+      "fr": "la cigarette",
+      "it": "la sigaretta",
+      "pt": "o cigarro",
       "ja": "タバコ",
       "zh": "香烟",
       "ru": "сигарета"
     },
     "examples": [
       "Haben Sie Zigaretten?"
-    ],
-    "meta": {},
-    "gender": "die",
-    "plural": "Zigaretten"
+    ]
   },
   {
     "id": "zimmer_nn_1",
+    "lang": "de",
     "lemma": "Zimmer",
     "pos": "Nomen",
+    "article": "das",
+    "gender": "neuter",
+    "plural": "Zimmer",
     "cefr": "A1",
     "tags": [
       "exam",
       "daily"
     ],
     "meanings": {
-      "de": "Zimmer",
+      "de": "das Zimmer",
       "ko": "방",
       "en": "room",
-      "es": "habitación",
-      "fr": "chambre",
-      "it": "camera",
-      "pt": "quarto",
+      "es": "la habitación",
+      "fr": "la chambre",
+      "it": "la camera",
+      "pt": "o quarto",
       "ja": "部屋",
       "zh": "房间",
       "ru": "комната"
     },
     "examples": [
       "Ich möchte ein Zimmer reservieren."
-    ],
-    "meta": {},
-    "gender": "das",
-    "plural": "Zimmer"
+    ]
   },
   {
     "id": "zoll_nm_1",
+    "lang": "de",
     "lemma": "Zoll",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Zölle",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20109,26 +20431,24 @@ const WORDS_DE_A1 = [
       "official"
     ],
     "meanings": {
-      "de": "Zoll",
+      "de": "der Zoll",
       "ko": "세관",
       "en": "customs",
-      "es": "aduana",
-      "fr": "douane",
-      "it": "dogana",
-      "pt": "alfândega",
+      "es": "la aduana",
+      "fr": "la douane",
+      "it": "la dogana",
+      "pt": "a alfândega",
       "ja": "税関",
       "zh": "海关",
       "ru": "таможня"
     },
     "examples": [
       "Wir müssen durch den Zoll."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Zölle"
+    ]
   },
   {
     "id": "zu_prep_1",
+    "lang": "de",
     "lemma": "zu",
     "pos": "Präposition",
     "cefr": "A1",
@@ -20151,11 +20471,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich gehe zu Fuß."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "zufrieden_adj_1",
+    "lang": "de",
     "lemma": "zufrieden",
     "pos": "Adjektiv",
     "cefr": "A1",
@@ -20177,13 +20497,16 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Ich bin mit der Wohnung zufrieden."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "zug_nm_1",
+    "lang": "de",
     "lemma": "Zug",
     "pos": "Nomen",
+    "article": "der",
+    "gender": "masculine",
+    "plural": "Züge",
     "cefr": "A1",
     "tags": [
       "exam",
@@ -20191,26 +20514,24 @@ const WORDS_DE_A1 = [
       "travel"
     ],
     "meanings": {
-      "de": "Zug",
+      "de": "der Zug",
       "ko": "기차",
       "en": "train",
-      "es": "tren",
-      "fr": "train",
-      "it": "treno",
-      "pt": "comboio",
+      "es": "el tren",
+      "fr": "le train",
+      "it": "il treno",
+      "pt": "o comboio",
       "ja": "列車",
       "zh": "火车",
       "ru": "поезд"
     },
     "examples": [
       "Ich fahre gern mit dem Zug."
-    ],
-    "meta": {},
-    "gender": "der",
-    "plural": "Züge"
+    ]
   },
   {
     "id": "zurueck_adv_1",
+    "lang": "de",
     "lemma": "zurück",
     "pos": "Adverb",
     "cefr": "A1",
@@ -20232,11 +20553,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Eine Fahrkarte nach Frankfurt und zurück, bitte."
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "zusammen_adv_1",
+    "lang": "de",
     "lemma": "zusammen",
     "pos": "Adverb",
     "cefr": "A1",
@@ -20259,11 +20580,11 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Zahlen bitte! Zusammen oder getrennt?"
-    ],
-    "meta": {}
+    ]
   },
   {
     "id": "zwischen_prep_1",
+    "lang": "de",
     "lemma": "zwischen",
     "pos": "Präposition",
     "cefr": "A1",
@@ -20286,7 +20607,6 @@ const WORDS_DE_A1 = [
     },
     "examples": [
       "Heidelberg liegt zwischen Frankfurt und Stuttgart."
-    ],
-    "meta": {}
+    ]
   }
 ];

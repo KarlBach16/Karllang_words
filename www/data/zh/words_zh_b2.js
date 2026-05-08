@@ -2,16881 +2,16387 @@
 const WORDS_ZH_B2 = [
   {
     "id": "zh_546",
+    "lang": "zh",
     "lemma": "一切",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "yíqiè"
+    },
     "meanings": {
       "ko": "모든 것",
       "en": "everything",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "一切",
-      "ru": ""
+      "de": "alles",
+      "es": "todo",
+      "fr": "tout",
+      "it": "tutto",
+      "pt": "tudo",
+      "ja": "すべて",
+      "ru": "всё"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yíqiè"
-    },
-    "reading": {
-      "zh": "yíqiè"
     }
   },
   {
     "id": "zh_547",
+    "lang": "zh",
     "lemma": "不过",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "단지, 그러나",
-      "en": "but",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "不过",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "búguò"
-    },
-    "infinitive": "不过",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "búguò"
+    },
+    "meanings": {
+      "ko": "단지",
+      "en": "but",
+      "zh": "不过",
+      "de": "aber",
+      "es": "pero",
+      "fr": "mais",
+      "it": "ma",
+      "pt": "mas",
+      "ja": "しかし",
+      "ru": "но"
+    },
+    "meta": {
+      "zh_pinyin": "búguò"
     }
   },
   {
     "id": "zh_548",
+    "lang": "zh",
     "lemma": "专业",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "전공, 전문 분야",
-      "en": "profession, major",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "专业",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhuānyè"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zhuānyè"
+    },
+    "meanings": {
+      "ko": "전공",
+      "en": "profession",
+      "zh": "专业",
+      "de": "der Beruf",
+      "es": "la profesión",
+      "fr": "la profession",
+      "it": "la professione",
+      "pt": "a profissão",
+      "ja": "専門",
+      "ru": "профессия"
+    },
+    "meta": {
+      "zh_pinyin": "zhuānyè"
     }
   },
   {
     "id": "zh_549",
+    "lang": "zh",
     "lemma": "专门",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhuānmén"
+    },
     "meanings": {
       "ko": "전문적인",
       "en": "specialized",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "专门",
-      "ru": ""
+      "de": "spezialisiert",
+      "es": "especializado",
+      "fr": "spécialisé",
+      "it": "specializzato",
+      "pt": "especializado",
+      "ja": "専門の",
+      "ru": "специализированный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhuānmén"
-    },
-    "reading": {
-      "zh": "zhuānmén"
     }
   },
   {
     "id": "zh_550",
+    "lang": "zh",
     "lemma": "世纪",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shìjì"
+    },
     "meanings": {
       "ko": "세기",
       "en": "century",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "世纪",
-      "ru": ""
+      "de": "das Jahrhundert",
+      "es": "el siglo",
+      "fr": "le siècle",
+      "it": "il secolo",
+      "pt": "o século",
+      "ja": "世紀",
+      "ru": "век"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shìjì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shìjì"
     }
   },
   {
     "id": "zh_551",
+    "lang": "zh",
     "lemma": "丢",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "잃다, 버리다",
-      "en": "lose, throw",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "丢",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "diū"
-    },
-    "infinitive": "丢",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "diū"
+    },
+    "meanings": {
+      "ko": "잃다",
+      "en": "lose",
+      "zh": "丢",
+      "de": "verlieren",
+      "es": "perder",
+      "fr": "perdre",
+      "it": "perdere",
+      "pt": "perder",
+      "ja": "失う",
+      "ru": "терять"
+    },
+    "meta": {
+      "zh_pinyin": "diū"
     }
   },
   {
     "id": "zh_552",
+    "lang": "zh",
     "lemma": "严格",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yángé"
+    },
     "meanings": {
       "ko": "엄격하다",
       "en": "strict",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "严格",
-      "ru": ""
+      "de": "streng",
+      "es": "estricto",
+      "fr": "strict",
+      "it": "severo",
+      "pt": "rigoroso",
+      "ja": "厳しい",
+      "ru": "строгий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yángé"
-    },
-    "reading": {
-      "zh": "yángé"
     }
   },
   {
     "id": "zh_553",
+    "lang": "zh",
     "lemma": "严重",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yánzhòng"
+    },
     "meanings": {
       "ko": "심각하다",
       "en": "serious",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "严重",
-      "ru": ""
+      "de": "ernst",
+      "es": "grave",
+      "fr": "grave",
+      "it": "grave",
+      "pt": "grave",
+      "ja": "深刻な",
+      "ru": "серьёзный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yánzhòng"
-    },
-    "reading": {
-      "zh": "yánzhòng"
     }
   },
   {
     "id": "zh_554",
+    "lang": "zh",
     "lemma": "丰富",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "풍부하다, 풍부하게 하다",
-      "en": "rich, abundant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "丰富",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "fēngfù"
-    },
     "reading": {
       "zh": "fēngfù"
+    },
+    "meanings": {
+      "ko": "풍부하다",
+      "en": "rich",
+      "zh": "丰富",
+      "de": "reich",
+      "es": "rico",
+      "fr": "riche",
+      "it": "ricco",
+      "pt": "rico",
+      "ja": "豊かな",
+      "ru": "богатый"
+    },
+    "meta": {
+      "zh_pinyin": "fēngfù"
     }
   },
   {
     "id": "zh_555",
+    "lang": "zh",
     "lemma": "主意",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
-    "meanings": {
-      "ko": "생각, 아이디어",
-      "en": "idea, plan",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "主意",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhǔyi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zhǔyi"
+    },
+    "meanings": {
+      "ko": "생각",
+      "en": "idea",
+      "zh": "主意",
+      "de": "die Idee",
+      "es": "la idea",
+      "fr": "l'idée",
+      "it": "l'idea",
+      "pt": "a ideia",
+      "ja": "アイデア",
+      "ru": "идея"
+    },
+    "meta": {
+      "zh_pinyin": "zhǔyi"
     }
   },
   {
     "id": "zh_556",
+    "lang": "zh",
     "lemma": "举",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "들다, 들다",
-      "en": "lift, raise",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "举",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jǔ"
-    },
-    "infinitive": "举",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jǔ"
+    },
+    "meanings": {
+      "ko": "들다",
+      "en": "lift",
+      "zh": "举",
+      "de": "heben",
+      "es": "levantar",
+      "fr": "lever",
+      "it": "sollevare",
+      "pt": "levantar",
+      "ja": "持ち上げる",
+      "ru": "поднимать"
+    },
+    "meta": {
+      "zh_pinyin": "jǔ"
     }
   },
   {
     "id": "zh_557",
+    "lang": "zh",
     "lemma": "举办",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "개최하다",
-      "en": "hold, conduct",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "举办",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jǔbàn"
-    },
-    "infinitive": "举办",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jǔbàn"
+    },
+    "meanings": {
+      "ko": "개최하다",
+      "en": "hold",
+      "zh": "举办",
+      "de": "veranstalten",
+      "es": "organizar",
+      "fr": "organiser",
+      "it": "organizzare",
+      "pt": "organizar",
+      "ja": "開催する",
+      "ru": "проводить"
+    },
+    "meta": {
+      "zh_pinyin": "jǔbàn"
     }
   },
   {
     "id": "zh_558",
+    "lang": "zh",
     "lemma": "举行",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "거행하다, 개최하다",
-      "en": "hold, convene",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "举行",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jǔxíng"
-    },
-    "infinitive": "举行",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jǔxíng"
+    },
+    "meanings": {
+      "ko": "거행하다",
+      "en": "hold",
+      "zh": "举行",
+      "de": "abhalten",
+      "es": "celebrar",
+      "fr": "tenir",
+      "it": "tenere",
+      "pt": "realizar",
+      "ja": "挙行する",
+      "ru": "проводить"
+    },
+    "meta": {
+      "zh_pinyin": "jǔxíng"
     }
   },
   {
     "id": "zh_559",
+    "lang": "zh",
     "lemma": "乒乓球",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pīngpāngqiú"
+    },
     "meanings": {
       "ko": "탁구",
       "en": "table tennis",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "乒乓球",
-      "ru": ""
+      "de": "das Tischtennis",
+      "es": "el tenis de mesa",
+      "fr": "le tennis de table",
+      "it": "il ping-pong",
+      "pt": "o tênis de mesa",
+      "ja": "卓球",
+      "ru": "настольный теннис"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pīngpāngqiú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "pīngpāngqiú"
     }
   },
   {
     "id": "zh_560",
+    "lang": "zh",
     "lemma": "乘坐",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "탑승하다",
-      "en": "ride, get",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "乘坐",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chéngzuò"
-    },
-    "infinitive": "乘坐",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "chéngzuò"
+    },
+    "meanings": {
+      "ko": "탑승하다",
+      "en": "ride",
+      "zh": "乘坐",
+      "de": "fahren",
+      "es": "viajar",
+      "fr": "prendre",
+      "it": "prendere",
+      "pt": "viajar",
+      "ja": "乗る",
+      "ru": "ехать"
+    },
+    "meta": {
+      "zh_pinyin": "chéngzuò"
     }
   },
   {
     "id": "zh_561",
+    "lang": "zh",
     "lemma": "也许",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "아마도",
-      "en": "perhaps, maybe",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "也许",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yěxǔ"
-    },
-    "infinitive": "也许",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yěxǔ"
+    },
+    "meanings": {
+      "ko": "아마도",
+      "en": "perhaps",
+      "zh": "也许",
+      "de": "vielleicht",
+      "es": "quizás",
+      "fr": "peut-être",
+      "it": "forse",
+      "pt": "talvez",
+      "ja": "もしかしたら",
+      "ru": "возможно"
+    },
+    "meta": {
+      "zh_pinyin": "yěxǔ"
     }
   },
   {
     "id": "zh_562",
+    "lang": "zh",
     "lemma": "乱",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "어지럽다, 혼란",
-      "en": "messy, disorder",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "乱",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "luàn"
-    },
     "reading": {
       "zh": "luàn"
+    },
+    "meanings": {
+      "ko": "어지럽다",
+      "en": "messy",
+      "zh": "乱",
+      "de": "unordentlich",
+      "es": "desordenado",
+      "fr": "désordonné",
+      "it": "disordinato",
+      "pt": "bagunçado",
+      "ja": "乱雑な",
+      "ru": "беспорядочный"
+    },
+    "meta": {
+      "zh_pinyin": "luàn"
     }
   },
   {
     "id": "zh_563",
+    "lang": "zh",
     "lemma": "于是",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "그래서, 그리하여",
-      "en": "thus, therefore",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "于是",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yúshì"
-    },
-    "infinitive": "于是",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yúshì"
+    },
+    "meanings": {
+      "ko": "그래서",
+      "en": "thus",
+      "zh": "于是",
+      "de": "daraufhin",
+      "es": "entonces",
+      "fr": "alors",
+      "it": "quindi",
+      "pt": "então",
+      "ja": "そこで",
+      "ru": "поэтому"
+    },
+    "meta": {
+      "zh_pinyin": "yúshì"
     }
   },
   {
     "id": "zh_564",
+    "lang": "zh",
     "lemma": "云",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yún"
+    },
     "meanings": {
       "ko": "구름",
       "en": "cloud",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "云",
-      "ru": ""
+      "de": "die Wolke",
+      "es": "la nube",
+      "fr": "le nuage",
+      "it": "la nuvola",
+      "pt": "a nuvem",
+      "ja": "雲",
+      "ru": "облако"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yún"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yún"
     }
   },
   {
     "id": "zh_565",
+    "lang": "zh",
     "lemma": "互相",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hùxiāng"
+    },
     "meanings": {
       "ko": "서로",
       "en": "mutually",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "互相",
-      "ru": ""
+      "de": "gegenseitig",
+      "es": "mutuamente",
+      "fr": "mutuellement",
+      "it": "reciprocamente",
+      "pt": "mutuamente",
+      "ja": "互いに",
+      "ru": "взаимно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hùxiāng"
-    },
-    "infinitive": "互相",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "hùxiāng"
     }
   },
   {
     "id": "zh_566",
+    "lang": "zh",
     "lemma": "互联网",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "Hùliánwǎng"
+    },
     "meanings": {
       "ko": "인터넷",
       "en": "internet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "互联网",
-      "ru": ""
+      "de": "das Internet",
+      "es": "el internet",
+      "fr": "l'internet",
+      "it": "l'internet",
+      "pt": "a internet",
+      "ja": "インターネット",
+      "ru": "интернет"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "Hùliánwǎng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "Hùliánwǎng"
     }
   },
   {
     "id": "zh_567",
+    "lang": "zh",
     "lemma": "亚洲",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "Yàzhōu"
+    },
     "meanings": {
       "ko": "아시아",
       "en": "asia",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "亚洲",
-      "ru": ""
+      "de": "Asien",
+      "es": "Asia",
+      "fr": "l'Asie",
+      "it": "l'Asia",
+      "pt": "a Ásia",
+      "ja": "アジア",
+      "ru": "Азия"
     },
-    "examples": [],
     "meta": {
-      "zh_pinyin": "Yàzhōu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "Yàzhōu"
+      "zh_pinyin": "Yàzhōu",
+      "noArticleMeanings": {
+        "es": true,
+        "de": true
+      }
     }
   },
   {
     "id": "zh_568",
+    "lang": "zh",
     "lemma": "交",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "건네다, 지불하다",
-      "en": "deliver, pay",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "交",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiāo"
-    },
-    "infinitive": "交",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiāo"
+    },
+    "meanings": {
+      "ko": "건네다",
+      "en": "deliver",
+      "zh": "交",
+      "de": "übergeben",
+      "es": "entregar",
+      "fr": "remettre",
+      "it": "consegnare",
+      "pt": "entregar",
+      "ja": "渡す",
+      "ru": "передавать"
+    },
+    "meta": {
+      "zh_pinyin": "jiāo"
     }
   },
   {
     "id": "zh_569",
+    "lang": "zh",
     "lemma": "交流",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "교류하다, 소통하다",
-      "en": "communicate, exchange",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "交流",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiāoliú"
-    },
-    "infinitive": "交流",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiāoliú"
+    },
+    "meanings": {
+      "ko": "교류하다",
+      "en": "communicate",
+      "zh": "交流",
+      "de": "kommunizieren",
+      "es": "comunicarse",
+      "fr": "communiquer",
+      "it": "comunicare",
+      "pt": "comunicar",
+      "ja": "交流する",
+      "ru": "общаться"
+    },
+    "meta": {
+      "zh_pinyin": "jiāoliú"
     }
   },
   {
     "id": "zh_570",
+    "lang": "zh",
     "lemma": "交通",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiāotōng"
+    },
     "meanings": {
       "ko": "교통",
       "en": "traffic",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "交通",
-      "ru": ""
+      "de": "der Verkehr",
+      "es": "el tráfico",
+      "fr": "le trafic",
+      "it": "il traffico",
+      "pt": "o tráfego",
+      "ja": "交通",
+      "ru": "движение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiāotōng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiāotōng"
     }
   },
   {
     "id": "zh_571",
+    "lang": "zh",
     "lemma": "京剧",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "jīngjù"
+    },
     "meanings": {
       "ko": "경극",
       "en": "beijing opera",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "京剧",
-      "ru": ""
+      "de": "die Peking-Oper",
+      "es": "la ópera de Pekín",
+      "fr": "l'opéra de Pékin",
+      "it": "l'opera di Pechino",
+      "pt": "a ópera de Pequim",
+      "ja": "京劇",
+      "ru": "пекинская опера"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīngjù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jīngjù"
     }
   },
   {
     "id": "zh_572",
+    "lang": "zh",
     "lemma": "亲戚",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qīnqi"
+    },
     "meanings": {
       "ko": "친척",
       "en": "relative",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "亲戚",
-      "ru": ""
+      "de": "der Verwandte",
+      "es": "el pariente",
+      "fr": "le parent",
+      "it": "il parente",
+      "pt": "o parente",
+      "ja": "親戚",
+      "ru": "родственник"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qīnqi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qīnqi"
     }
   },
   {
     "id": "zh_573",
+    "lang": "zh",
     "lemma": "仍然",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "réngrán"
+    },
     "meanings": {
       "ko": "여전히",
       "en": "still",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "仍然",
-      "ru": ""
+      "de": "immer noch",
+      "es": "todavía",
+      "fr": "toujours",
+      "it": "ancora",
+      "pt": "ainda",
+      "ja": "まだ",
+      "ru": "всё ещё"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "réngrán"
-    },
-    "infinitive": "仍然",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "réngrán"
     }
   },
   {
     "id": "zh_574",
+    "lang": "zh",
     "lemma": "从来",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "여태껏, 줄곧",
-      "en": "always, never",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "从来",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cónglái"
-    },
-    "infinitive": "从来",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "cónglái"
+    },
+    "meanings": {
+      "ko": "여태껏",
+      "en": "always",
+      "zh": "从来",
+      "de": "niemals",
+      "es": "nunca",
+      "fr": "jamais",
+      "it": "mai",
+      "pt": "nunca",
+      "ja": "これまで",
+      "ru": "никогда"
+    },
+    "meta": {
+      "zh_pinyin": "cónglái"
     }
   },
   {
     "id": "zh_575",
+    "lang": "zh",
     "lemma": "仔细",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "세심하다, 꼼꼼하다",
-      "en": "careful, attentive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "仔细",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zǐxì"
-    },
     "reading": {
       "zh": "zǐxì"
+    },
+    "meanings": {
+      "ko": "세심하다",
+      "en": "careful",
+      "zh": "仔细",
+      "de": "sorgfältig",
+      "es": "cuidadoso",
+      "fr": "attentif",
+      "it": "attento",
+      "pt": "cuidadoso",
+      "ja": "丁寧な",
+      "ru": "внимательный"
+    },
+    "meta": {
+      "zh_pinyin": "zǐxì"
     }
   },
   {
     "id": "zh_576",
+    "lang": "zh",
     "lemma": "付款",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fù kuǎn"
+    },
     "meanings": {
       "ko": "지불하다",
       "en": "pay",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "付款",
-      "ru": ""
+      "de": "bezahlen",
+      "es": "pagar",
+      "fr": "payer",
+      "it": "pagare",
+      "pt": "pagar",
+      "ja": "支払う",
+      "ru": "платить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fù kuǎn"
-    },
-    "infinitive": "付款",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fù kuǎn"
     }
   },
   {
     "id": "zh_577",
+    "lang": "zh",
     "lemma": "价格",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiàgé"
+    },
     "meanings": {
       "ko": "가격",
       "en": "price",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "价格",
-      "ru": ""
+      "de": "der Preis",
+      "es": "el precio",
+      "fr": "le prix",
+      "it": "il prezzo",
+      "pt": "o preço",
+      "ja": "価格",
+      "ru": "цена"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiàgé"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiàgé"
     }
   },
   {
     "id": "zh_578",
+    "lang": "zh",
     "lemma": "任务",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "임무, 과제",
-      "en": "task, mission",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "任务",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "rènwu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "rènwu"
+    },
+    "meanings": {
+      "ko": "임무",
+      "en": "task",
+      "zh": "任务",
+      "de": "die Aufgabe",
+      "es": "la tarea",
+      "fr": "la tâche",
+      "it": "il compito",
+      "pt": "a tarefa",
+      "ja": "任務",
+      "ru": "задача"
+    },
+    "meta": {
+      "zh_pinyin": "rènwu"
     }
   },
   {
     "id": "zh_579",
+    "lang": "zh",
     "lemma": "份",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "부분, 몫",
-      "en": "part, portion",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "份",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "fèn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "fèn"
+    },
+    "meanings": {
+      "ko": "부분",
+      "en": "part",
+      "zh": "份",
+      "de": "der Teil",
+      "es": "la parte",
+      "fr": "la part",
+      "it": "la parte",
+      "pt": "a parte",
+      "ja": "部分",
+      "ru": "часть"
+    },
+    "meta": {
+      "zh_pinyin": "fèn"
     }
   },
   {
     "id": "zh_580",
+    "lang": "zh",
     "lemma": "优点",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "장점",
-      "en": "merit, strength",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "优点",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yōudiǎn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yōudiǎn"
+    },
+    "meanings": {
+      "ko": "장점",
+      "en": "merit",
+      "zh": "优点",
+      "de": "der Vorteil",
+      "es": "la ventaja",
+      "fr": "l'avantage",
+      "it": "il pregio",
+      "pt": "a vantagem",
+      "ja": "長所",
+      "ru": "достоинство"
+    },
+    "meta": {
+      "zh_pinyin": "yōudiǎn"
     }
   },
   {
     "id": "zh_581",
+    "lang": "zh",
     "lemma": "优秀",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yōuxiù"
+    },
     "meanings": {
       "ko": "우수하다",
       "en": "excellent",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "优秀",
-      "ru": ""
+      "de": "ausgezeichnet",
+      "es": "excelente",
+      "fr": "excellent",
+      "it": "eccellente",
+      "pt": "excelente",
+      "ja": "優秀な",
+      "ru": "отличный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yōuxiù"
-    },
-    "reading": {
-      "zh": "yōuxiù"
     }
   },
   {
     "id": "zh_582",
+    "lang": "zh",
     "lemma": "传真",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chuánzhēn"
+    },
     "meanings": {
       "ko": "팩스",
       "en": "fax",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "传真",
-      "ru": ""
+      "de": "das Fax",
+      "es": "el fax",
+      "fr": "le fax",
+      "it": "il fax",
+      "pt": "o fax",
+      "ja": "ファックス",
+      "ru": "факс"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chuánzhēn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "chuánzhēn"
     }
   },
   {
     "id": "zh_583",
+    "lang": "zh",
     "lemma": "伤心",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "shāngxīn"
+    },
     "meanings": {
       "ko": "슬프다",
       "en": "sad",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "伤心",
-      "ru": ""
+      "de": "traurig",
+      "es": "triste",
+      "fr": "triste",
+      "it": "triste",
+      "pt": "triste",
+      "ja": "悲しい",
+      "ru": "грустный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shāngxīn"
-    },
-    "reading": {
-      "zh": "shāngxīn"
     }
   },
   {
     "id": "zh_584",
+    "lang": "zh",
     "lemma": "估计",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "예상하다, 평가하다",
-      "en": "estimate, appraise",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "估计",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gūjì"
-    },
-    "infinitive": "估计",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "gūjì"
+    },
+    "meanings": {
+      "ko": "예상하다",
+      "en": "estimate",
+      "zh": "估计",
+      "de": "schätzen",
+      "es": "estimar",
+      "fr": "estimer",
+      "it": "stimare",
+      "pt": "estimar",
+      "ja": "推測する",
+      "ru": "оценивать"
+    },
+    "meta": {
+      "zh_pinyin": "gūjì"
     }
   },
   {
     "id": "zh_585",
+    "lang": "zh",
     "lemma": "低",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dī"
+    },
     "meanings": {
       "ko": "낮다",
       "en": "low",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "低",
-      "ru": ""
+      "de": "niedrig",
+      "es": "bajo",
+      "fr": "bas",
+      "it": "basso",
+      "pt": "baixo",
+      "ja": "低い",
+      "ru": "низкий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dī"
-    },
-    "reading": {
-      "zh": "dī"
     }
   },
   {
     "id": "zh_586",
+    "lang": "zh",
     "lemma": "作家",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "작가",
-      "en": "writer, author",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "作家",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zuòjiā"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zuòjiā"
+    },
+    "meanings": {
+      "ko": "작가",
+      "en": "writer",
+      "zh": "作家",
+      "de": "der Schriftsteller",
+      "es": "el escritor",
+      "fr": "l'écrivain",
+      "it": "lo scrittore",
+      "pt": "o escritor",
+      "ja": "作家",
+      "ru": "писатель"
+    },
+    "meta": {
+      "zh_pinyin": "zuòjiā"
     }
   },
   {
     "id": "zh_587",
+    "lang": "zh",
     "lemma": "作用",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "작용, 효과",
-      "en": "effect, action",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "作用",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zuòyòng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zuòyòng"
+    },
+    "meanings": {
+      "ko": "작용",
+      "en": "effect",
+      "zh": "作用",
+      "de": "die Wirkung",
+      "es": "el efecto",
+      "fr": "l'effet",
+      "it": "l'effetto",
+      "pt": "o efeito",
+      "ja": "作用",
+      "ru": "эффект"
+    },
+    "meta": {
+      "zh_pinyin": "zuòyòng"
     }
   },
   {
     "id": "zh_588",
+    "lang": "zh",
     "lemma": "作者",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "저자, 작가",
-      "en": "author, writer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "作者",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zuòzhě"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zuòzhě"
+    },
+    "meanings": {
+      "ko": "저자",
+      "en": "author",
+      "zh": "作者",
+      "de": "der Autor",
+      "es": "el autor",
+      "fr": "l'auteur",
+      "it": "l'autore",
+      "pt": "o autor",
+      "ja": "作者",
+      "ru": "автор"
+    },
+    "meta": {
+      "zh_pinyin": "zuòzhě"
     }
   },
   {
     "id": "zh_589",
+    "lang": "zh",
     "lemma": "使用",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "사용하다",
-      "en": "use, employ",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "使用",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shǐyòng"
-    },
-    "infinitive": "使用",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shǐyòng"
+    },
+    "meanings": {
+      "ko": "사용하다",
+      "en": "use",
+      "zh": "使用",
+      "de": "benutzen",
+      "es": "usar",
+      "fr": "utiliser",
+      "it": "usare",
+      "pt": "usar",
+      "ja": "使用する",
+      "ru": "использовать"
+    },
+    "meta": {
+      "zh_pinyin": "shǐyòng"
     }
   },
   {
     "id": "zh_590",
+    "lang": "zh",
     "lemma": "例如",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lìrú"
+    },
     "meanings": {
       "ko": "예를 들어",
       "en": "for example",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "例如",
-      "ru": ""
+      "de": "zum Beispiel",
+      "es": "por ejemplo",
+      "fr": "par exemple",
+      "it": "per esempio",
+      "pt": "por exemplo",
+      "ja": "例えば",
+      "ru": "например"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lìrú"
-    },
-    "infinitive": "例如",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "lìrú"
     }
   },
   {
     "id": "zh_591",
+    "lang": "zh",
     "lemma": "保护",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "보호하다",
-      "en": "protect, defend",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "保护",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bǎohù"
-    },
-    "infinitive": "保护",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "bǎohù"
+    },
+    "meanings": {
+      "ko": "보호하다",
+      "en": "protect",
+      "zh": "保护",
+      "de": "schützen",
+      "es": "proteger",
+      "fr": "protéger",
+      "it": "proteggere",
+      "pt": "proteger",
+      "ja": "保護する",
+      "ru": "защищать"
+    },
+    "meta": {
+      "zh_pinyin": "bǎohù"
     }
   },
   {
     "id": "zh_592",
+    "lang": "zh",
     "lemma": "保证",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "보증하다, 보장하다",
-      "en": "guarantee, ensure",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "保证",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bǎozhèng"
-    },
-    "infinitive": "保证",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "bǎozhèng"
+    },
+    "meanings": {
+      "ko": "보증하다",
+      "en": "guarantee",
+      "zh": "保证",
+      "de": "garantieren",
+      "es": "garantizar",
+      "fr": "garantir",
+      "it": "garantire",
+      "pt": "garantir",
+      "ja": "保証する",
+      "ru": "гарантировать"
+    },
+    "meta": {
+      "zh_pinyin": "bǎozhèng"
     }
   },
   {
     "id": "zh_593",
+    "lang": "zh",
     "lemma": "信封",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xìnfēng"
+    },
     "meanings": {
       "ko": "봉투",
       "en": "envelope",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "信封",
-      "ru": ""
+      "de": "der Umschlag",
+      "es": "el sobre",
+      "fr": "l'enveloppe",
+      "it": "la busta",
+      "pt": "o envelope",
+      "ja": "封筒",
+      "ru": "конверт"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xìnfēng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xìnfēng"
     }
   },
   {
     "id": "zh_594",
+    "lang": "zh",
     "lemma": "信心",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "자신감, 신념",
-      "en": "confidence, faith",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "信心",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xìnxīn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "xìnxīn"
+    },
+    "meanings": {
+      "ko": "자신감",
+      "en": "confidence",
+      "zh": "信心",
+      "de": "das Vertrauen",
+      "es": "la confianza",
+      "fr": "la confiance",
+      "it": "la fiducia",
+      "pt": "a confiança",
+      "ja": "自信",
+      "ru": "уверенность"
+    },
+    "meta": {
+      "zh_pinyin": "xìnxīn"
     }
   },
   {
     "id": "zh_595",
+    "lang": "zh",
     "lemma": "信息",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "정보, 소식",
-      "en": "information, message",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "信息",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xìnxī"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "xìnxī"
+    },
+    "meanings": {
+      "ko": "정보",
+      "en": "information",
+      "zh": "信息",
+      "de": "die Information",
+      "es": "la información",
+      "fr": "l'information",
+      "it": "l'informazione",
+      "pt": "a informação",
+      "ja": "情報",
+      "ru": "информация"
+    },
+    "meta": {
+      "zh_pinyin": "xìnxī"
     }
   },
   {
     "id": "zh_596",
+    "lang": "zh",
     "lemma": "俩",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "둘 (사람)",
-      "en": "two people",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "俩",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "liǎ, liǎng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "liǎ, liǎng"
+    },
+    "meanings": {
+      "ko": "둘",
+      "en": "two people",
+      "zh": "俩",
+      "de": "beide",
+      "es": "los dos",
+      "fr": "les deux",
+      "it": "i due",
+      "pt": "os dois",
+      "ja": "二人",
+      "ru": "двое"
+    },
+    "meta": {
+      "zh_pinyin": "liǎ, liǎng",
+      "noArticleMeanings": {
+        "de": true
+      }
     }
   },
   {
     "id": "zh_597",
+    "lang": "zh",
     "lemma": "修理",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "수리하다",
-      "en": "repair, maintain",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "修理",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xiūlǐ"
-    },
-    "infinitive": "修理",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "xiūlǐ"
+    },
+    "meanings": {
+      "ko": "수리하다",
+      "en": "repair",
+      "zh": "修理",
+      "de": "reparieren",
+      "es": "reparar",
+      "fr": "réparer",
+      "it": "riparare",
+      "pt": "reparar",
+      "ja": "修理する",
+      "ru": "ремонтировать"
+    },
+    "meta": {
+      "zh_pinyin": "xiūlǐ"
     }
   },
   {
     "id": "zh_598",
+    "lang": "zh",
     "lemma": "倒",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "넘어지다, 붓다",
-      "en": "fall, pour",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "倒",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dǎo, dào"
-    },
-    "infinitive": "倒",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dǎo, dào"
+    },
+    "meanings": {
+      "ko": "넘어지다",
+      "en": "fall",
+      "zh": "倒",
+      "de": "fallen",
+      "es": "caer",
+      "fr": "tomber",
+      "it": "cadere",
+      "pt": "cair",
+      "ja": "倒れる",
+      "ru": "падать"
+    },
+    "meta": {
+      "zh_pinyin": "dǎo, dào"
     }
   },
   {
     "id": "zh_599",
+    "lang": "zh",
     "lemma": "假",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "가짜의, 휴가",
-      "en": "fake, vacation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "假",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiǎ, jià"
-    },
     "reading": {
       "zh": "jiǎ, jià"
+    },
+    "meanings": {
+      "ko": "가짜의",
+      "en": "fake",
+      "zh": "假",
+      "de": "falsch",
+      "es": "falso",
+      "fr": "faux",
+      "it": "falso",
+      "pt": "falso",
+      "ja": "偽の",
+      "ru": "фальшивый"
+    },
+    "meta": {
+      "zh_pinyin": "jiǎ, jià"
     }
   },
   {
     "id": "zh_600",
+    "lang": "zh",
     "lemma": "停",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "멈추다, 주차하다",
-      "en": "stop, park",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "停",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "tíng"
-    },
-    "infinitive": "停",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "tíng"
+    },
+    "meanings": {
+      "ko": "멈추다",
+      "en": "stop",
+      "zh": "停",
+      "de": "anhalten",
+      "es": "parar",
+      "fr": "arrêter",
+      "it": "fermare",
+      "pt": "parar",
+      "ja": "止まる",
+      "ru": "останавливаться"
+    },
+    "meta": {
+      "zh_pinyin": "tíng"
     }
   },
   {
     "id": "zh_601",
+    "lang": "zh",
     "lemma": "偶尔",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "가끔, 이따금",
-      "en": "occasionally",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "偶尔",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "ǒu'ěr"
-    },
-    "infinitive": "偶尔",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "ǒu'ěr"
+    },
+    "meanings": {
+      "ko": "가끔",
+      "en": "occasionally",
+      "zh": "偶尔",
+      "de": "gelegentlich",
+      "es": "ocasionalmente",
+      "fr": "occasionnellement",
+      "it": "occasionalmente",
+      "pt": "ocasionalmente",
+      "ja": "時々",
+      "ru": "иногда"
+    },
+    "meta": {
+      "zh_pinyin": "ǒu'ěr"
     }
   },
   {
     "id": "zh_602",
+    "lang": "zh",
     "lemma": "儿童",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "어린이",
-      "en": "child, children",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "儿童",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "értóng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "értóng"
+    },
+    "meanings": {
+      "ko": "어린이",
+      "en": "child",
+      "zh": "儿童",
+      "de": "das Kind",
+      "es": "el niño",
+      "fr": "l'enfant",
+      "it": "il bambino",
+      "pt": "a criança",
+      "ja": "子供",
+      "ru": "ребёнок"
+    },
+    "meta": {
+      "zh_pinyin": "értóng"
     }
   },
   {
     "id": "zh_603",
+    "lang": "zh",
     "lemma": "允许",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "허락하다, 허용하다",
-      "en": "permit, allow",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "允许",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yǔnxǔ"
-    },
-    "infinitive": "允许",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yǔnxǔ"
+    },
+    "meanings": {
+      "ko": "허락하다",
+      "en": "permit",
+      "zh": "允许",
+      "de": "erlauben",
+      "es": "permitir",
+      "fr": "permettre",
+      "it": "permettere",
+      "pt": "permitir",
+      "ja": "許す",
+      "ru": "разрешать"
+    },
+    "meta": {
+      "zh_pinyin": "yǔnxǔ"
     }
   },
   {
     "id": "zh_604",
+    "lang": "zh",
     "lemma": "光",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "빛, 밝다",
-      "en": "light, bright",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "光",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "guāng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "guāng"
+    },
+    "meanings": {
+      "ko": "빛",
+      "en": "light",
+      "zh": "光",
+      "de": "das Licht",
+      "es": "la luz",
+      "fr": "la lumière",
+      "it": "la luce",
+      "pt": "a luz",
+      "ja": "光",
+      "ru": "свет"
+    },
+    "meta": {
+      "zh_pinyin": "guāng"
     }
   },
   {
     "id": "zh_605",
+    "lang": "zh",
     "lemma": "免费",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "무료의",
-      "en": "free, no",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "免费",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "miǎn fèi"
-    },
     "reading": {
       "zh": "miǎn fèi"
+    },
+    "meanings": {
+      "ko": "무료의",
+      "en": "free",
+      "zh": "免费",
+      "de": "kostenlos",
+      "es": "gratis",
+      "fr": "gratuit",
+      "it": "gratuito",
+      "pt": "gratuito",
+      "ja": "無料の",
+      "ru": "бесплатный"
+    },
+    "meta": {
+      "zh_pinyin": "miǎn fèi"
     }
   },
   {
     "id": "zh_606",
+    "lang": "zh",
     "lemma": "入口",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "rùkǒu"
+    },
     "meanings": {
       "ko": "입구",
       "en": "entrance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "入口",
-      "ru": ""
+      "de": "der Eingang",
+      "es": "la entrada",
+      "fr": "l'entrée",
+      "it": "l'ingresso",
+      "pt": "a entrada",
+      "ja": "入り口",
+      "ru": "вход"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "rùkǒu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "rùkǒu"
     }
   },
   {
     "id": "zh_607",
+    "lang": "zh",
     "lemma": "全部",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "전부의, 모든",
-      "en": "whole, entire",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "全部",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "quánbù"
-    },
     "reading": {
       "zh": "quánbù"
+    },
+    "meanings": {
+      "ko": "전부의",
+      "en": "whole",
+      "zh": "全部",
+      "de": "ganz",
+      "es": "todo",
+      "fr": "entier",
+      "it": "intero",
+      "pt": "todo",
+      "ja": "全部の",
+      "ru": "весь"
+    },
+    "meta": {
+      "zh_pinyin": "quánbù"
     }
   },
   {
     "id": "zh_608",
+    "lang": "zh",
     "lemma": "公里",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gōnglǐ"
+    },
     "meanings": {
       "ko": "킬로미터",
       "en": "kilometer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "公里",
-      "ru": ""
+      "de": "der Kilometer",
+      "es": "el kilómetro",
+      "fr": "le kilomètre",
+      "it": "il chilometro",
+      "pt": "o quilômetro",
+      "ja": "キロメートル",
+      "ru": "километр"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gōnglǐ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "gōnglǐ"
     }
   },
   {
     "id": "zh_609",
+    "lang": "zh",
     "lemma": "共同",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "공통의, 함께",
-      "en": "common, joint",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "共同",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gòngtóng"
-    },
     "reading": {
       "zh": "gòngtóng"
+    },
+    "meanings": {
+      "ko": "공통의",
+      "en": "common",
+      "zh": "共同",
+      "de": "gemeinsam",
+      "es": "común",
+      "fr": "commun",
+      "it": "comune",
+      "pt": "comum",
+      "ja": "共通の",
+      "ru": "общий"
+    },
+    "meta": {
+      "zh_pinyin": "gòngtóng"
     }
   },
   {
     "id": "zh_610",
+    "lang": "zh",
     "lemma": "关键",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "관건적인, 중요한",
-      "en": "crucial, key",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "关键",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "guānjiàn"
-    },
     "reading": {
       "zh": "guānjiàn"
+    },
+    "meanings": {
+      "ko": "관건적인",
+      "en": "crucial",
+      "zh": "关键",
+      "de": "entscheidend",
+      "es": "crucial",
+      "fr": "crucial",
+      "it": "cruciale",
+      "pt": "crucial",
+      "ja": "重要な",
+      "ru": "ключевой"
+    },
+    "meta": {
+      "zh_pinyin": "guānjiàn"
     }
   },
   {
     "id": "zh_611",
+    "lang": "zh",
     "lemma": "兴奋",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "흥분하다, 신나다",
-      "en": "excited",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "兴奋",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xīngfèn"
-    },
     "reading": {
       "zh": "xīngfèn"
+    },
+    "meanings": {
+      "ko": "흥분하다",
+      "en": "excited",
+      "zh": "兴奋",
+      "de": "aufgeregt",
+      "es": "emocionado",
+      "fr": "excité",
+      "it": "eccitato",
+      "pt": "animado",
+      "ja": "興奮した",
+      "ru": "возбуждённый"
+    },
+    "meta": {
+      "zh_pinyin": "xīngfèn"
     }
   },
   {
     "id": "zh_612",
+    "lang": "zh",
     "lemma": "其中",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "그중에서",
-      "en": "among, in",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "其中",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qízhōng"
-    },
-    "infinitive": "其中",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "qízhōng"
+    },
+    "meanings": {
+      "ko": "그중에서",
+      "en": "among",
+      "zh": "其中",
+      "de": "darunter",
+      "es": "entre ellos",
+      "fr": "parmi eux",
+      "it": "tra cui",
+      "pt": "entre eles",
+      "ja": "その中で",
+      "ru": "среди них"
+    },
+    "meta": {
+      "zh_pinyin": "qízhōng"
     }
   },
   {
     "id": "zh_613",
+    "lang": "zh",
     "lemma": "其次",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "다음으로, 그 다음",
-      "en": "next, secondly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "其次",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qícì"
-    },
-    "infinitive": "其次",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "qícì"
+    },
+    "meanings": {
+      "ko": "다음으로",
+      "en": "next",
+      "zh": "其次",
+      "de": "zweitens",
+      "es": "en segundo lugar",
+      "fr": "ensuite",
+      "it": "in secondo luogo",
+      "pt": "em segundo lugar",
+      "ja": "次に",
+      "ru": "во-вторых"
+    },
+    "meta": {
+      "zh_pinyin": "qícì"
     }
   },
   {
     "id": "zh_614",
+    "lang": "zh",
     "lemma": "养成",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "양성하다, 형성하다",
-      "en": "cultivate, form",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "养成",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yǎngchéng"
-    },
-    "infinitive": "养成",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yǎngchéng"
+    },
+    "meanings": {
+      "ko": "양성하다",
+      "en": "cultivate",
+      "zh": "养成",
+      "de": "entwickeln",
+      "es": "desarrollar",
+      "fr": "cultiver",
+      "it": "coltivare",
+      "pt": "cultivar",
+      "ja": "養う",
+      "ru": "развивать"
+    },
+    "meta": {
+      "zh_pinyin": "yǎngchéng"
     }
   },
   {
     "id": "zh_615",
+    "lang": "zh",
     "lemma": "内",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "안, 내부",
-      "en": "inside, inner",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "内",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "nèi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "nèi"
+    },
+    "meanings": {
+      "ko": "안",
+      "en": "inside",
+      "zh": "内",
+      "de": "das Innere",
+      "es": "el interior",
+      "fr": "l'intérieur",
+      "it": "l'interno",
+      "pt": "o interior",
+      "ja": "内側",
+      "ru": "внутри"
+    },
+    "meta": {
+      "zh_pinyin": "nèi"
     }
   },
   {
     "id": "zh_616",
+    "lang": "zh",
     "lemma": "内容",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "nèiróng"
+    },
     "meanings": {
       "ko": "내용",
       "en": "content",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "内容",
-      "ru": ""
+      "de": "der Inhalt",
+      "es": "el contenido",
+      "fr": "le contenu",
+      "it": "il contenuto",
+      "pt": "o conteúdo",
+      "ja": "内容",
+      "ru": "содержание"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "nèiróng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "nèiróng"
     }
   },
   {
     "id": "zh_617",
+    "lang": "zh",
     "lemma": "冷静",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "침착하다, 냉정하다",
-      "en": "calm, cool",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "冷静",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lěngjìng"
-    },
     "reading": {
       "zh": "lěngjìng"
+    },
+    "meanings": {
+      "ko": "침착하다",
+      "en": "calm",
+      "zh": "冷静",
+      "de": "ruhig",
+      "es": "tranquilo",
+      "fr": "calme",
+      "it": "calmo",
+      "pt": "calmo",
+      "ja": "冷静な",
+      "ru": "спокойный"
+    },
+    "meta": {
+      "zh_pinyin": "lěngjìng"
     }
   },
   {
     "id": "zh_618",
+    "lang": "zh",
     "lemma": "准时",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "정시의, 시간을 지키는",
-      "en": "punctual, on",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "准时",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhǔnshí"
-    },
     "reading": {
       "zh": "zhǔnshí"
+    },
+    "meanings": {
+      "ko": "정시의",
+      "en": "punctual",
+      "zh": "准时",
+      "de": "pünktlich",
+      "es": "puntual",
+      "fr": "ponctuel",
+      "it": "puntuale",
+      "pt": "pontual",
+      "ja": "時間通りの",
+      "ru": "пунктуальный"
+    },
+    "meta": {
+      "zh_pinyin": "zhǔnshí"
     }
   },
   {
     "id": "zh_619",
+    "lang": "zh",
     "lemma": "准确",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "정확하다",
-      "en": "accurate, precise",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "准确",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhǔnquè"
-    },
     "reading": {
       "zh": "zhǔnquè"
+    },
+    "meanings": {
+      "ko": "정확하다",
+      "en": "accurate",
+      "zh": "准确",
+      "de": "genau",
+      "es": "exacto",
+      "fr": "précis",
+      "it": "preciso",
+      "pt": "preciso",
+      "ja": "正確な",
+      "ru": "точный"
+    },
+    "meta": {
+      "zh_pinyin": "zhǔnquè"
     }
   },
   {
     "id": "zh_620",
+    "lang": "zh",
     "lemma": "凉快",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "시원하다",
-      "en": "cool, pleasant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "凉快",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "liángkuai"
-    },
     "reading": {
       "zh": "liángkuai"
+    },
+    "meanings": {
+      "ko": "시원하다",
+      "en": "cool",
+      "zh": "凉快",
+      "de": "kühl",
+      "es": "fresco",
+      "fr": "frais",
+      "it": "fresco",
+      "pt": "fresco",
+      "ja": "涼しい",
+      "ru": "прохладный"
+    },
+    "meta": {
+      "zh_pinyin": "liángkuai"
     }
   },
   {
     "id": "zh_621",
+    "lang": "zh",
     "lemma": "减少",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "줄이다, 감소하다",
-      "en": "reduce, decrease",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "减少",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiǎnshǎo"
-    },
-    "infinitive": "减少",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiǎnshǎo"
+    },
+    "meanings": {
+      "ko": "줄이다",
+      "en": "reduce",
+      "zh": "减少",
+      "de": "reduzieren",
+      "es": "reducir",
+      "fr": "réduire",
+      "it": "ridurre",
+      "pt": "reduzir",
+      "ja": "減らす",
+      "ru": "уменьшать"
+    },
+    "meta": {
+      "zh_pinyin": "jiǎnshǎo"
     }
   },
   {
     "id": "zh_622",
+    "lang": "zh",
     "lemma": "减肥",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "다이어트하다, 살을 빼다",
-      "en": "lose weight",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "减肥",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiǎnféi"
-    },
-    "infinitive": "减肥",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiǎnféi"
+    },
+    "meanings": {
+      "ko": "다이어트하다",
+      "en": "lose weight",
+      "zh": "减肥",
+      "de": "abnehmen",
+      "es": "adelgazar",
+      "fr": "maigrir",
+      "it": "dimagrire",
+      "pt": "emagrecer",
+      "ja": "痩せる",
+      "ru": "худеть"
+    },
+    "meta": {
+      "zh_pinyin": "jiǎnféi"
     }
   },
   {
     "id": "zh_623",
+    "lang": "zh",
     "lemma": "出发",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chūfā"
+    },
     "meanings": {
       "ko": "출발하다",
       "en": "set off",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "出发",
-      "ru": ""
+      "de": "abfahren",
+      "es": "partir",
+      "fr": "partir",
+      "it": "partire",
+      "pt": "partir",
+      "ja": "出発する",
+      "ru": "отправляться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chūfā"
-    },
-    "infinitive": "出发",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chūfā"
     }
   },
   {
     "id": "zh_624",
+    "lang": "zh",
     "lemma": "出差",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "zh": "chū chāi"
+    },
     "meanings": {
       "ko": "출장 가다",
       "en": "business trip",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "出差",
-      "ru": ""
+      "de": "auf Geschäftsreise gehen",
+      "es": "ir de viaje de negocios",
+      "fr": "voyager pour affaires",
+      "it": "andare in viaggio d'affari",
+      "pt": "viajar a negócios",
+      "ja": "出張する",
+      "ru": "быть в командировке"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chū chāi"
-    },
-    "infinitive": "出差",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chū chāi"
     }
   },
   {
     "id": "zh_625",
+    "lang": "zh",
     "lemma": "出现",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "나타나다, 출현하다",
-      "en": "appear, emerge",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "出现",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chūxiàn"
-    },
-    "infinitive": "出现",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "chūxiàn"
+    },
+    "meanings": {
+      "ko": "나타나다",
+      "en": "appear",
+      "zh": "出现",
+      "de": "erscheinen",
+      "es": "aparecer",
+      "fr": "apparaître",
+      "it": "apparire",
+      "pt": "aparecer",
+      "ja": "現れる",
+      "ru": "появляться"
+    },
+    "meta": {
+      "zh_pinyin": "chūxiàn"
     }
   },
   {
     "id": "zh_626",
+    "lang": "zh",
     "lemma": "出生",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "chūshēng"
+    },
     "meanings": {
       "ko": "태어나다",
       "en": "be born",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "出生",
-      "ru": ""
+      "de": "geboren werden",
+      "es": "nacer",
+      "fr": "naître",
+      "it": "nascere",
+      "pt": "nascer",
+      "ja": "生まれる",
+      "ru": "рождаться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chūshēng"
-    },
-    "infinitive": "出生",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chūshēng"
     }
   },
   {
     "id": "zh_627",
+    "lang": "zh",
     "lemma": "刀",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "칼",
-      "en": "knife, blade",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "刀",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dāo"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "dāo"
+    },
+    "meanings": {
+      "ko": "칼",
+      "en": "knife",
+      "zh": "刀",
+      "de": "das Messer",
+      "es": "el cuchillo",
+      "fr": "le couteau",
+      "it": "il coltello",
+      "pt": "a faca",
+      "ja": "刀",
+      "ru": "нож"
+    },
+    "meta": {
+      "zh_pinyin": "dāo"
     }
   },
   {
     "id": "zh_628",
+    "lang": "zh",
     "lemma": "刚",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
-    "meanings": {
-      "ko": "막, 방금",
-      "en": "just, recently",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "刚",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gāng"
-    },
     "reading": {
       "zh": "gāng"
+    },
+    "meanings": {
+      "ko": "막",
+      "en": "just",
+      "zh": "刚",
+      "de": "gerade",
+      "es": "justo",
+      "fr": "juste",
+      "it": "appena",
+      "pt": "apenas",
+      "ja": "ちょうど",
+      "ru": "только что"
+    },
+    "meta": {
+      "zh_pinyin": "gāng"
     }
   },
   {
     "id": "zh_629",
+    "lang": "zh",
     "lemma": "判断",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "판단하다",
-      "en": "judge, decide",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "判断",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "pànduàn"
-    },
-    "infinitive": "判断",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "pànduàn"
+    },
+    "meanings": {
+      "ko": "판단하다",
+      "en": "judge",
+      "zh": "判断",
+      "de": "beurteilen",
+      "es": "juzgar",
+      "fr": "juger",
+      "it": "giudicare",
+      "pt": "julgar",
+      "ja": "判断する",
+      "ru": "судить"
+    },
+    "meta": {
+      "zh_pinyin": "pànduàn"
     }
   },
   {
     "id": "zh_630",
+    "lang": "zh",
     "lemma": "到处",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "도처에, 곳곳에",
-      "en": "everywhere",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "到处",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dàochù"
-    },
-    "infinitive": "到处",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dàochù"
+    },
+    "meanings": {
+      "ko": "도처에",
+      "en": "everywhere",
+      "zh": "到处",
+      "de": "überall",
+      "es": "por todas partes",
+      "fr": "partout",
+      "it": "dappertutto",
+      "pt": "em todo lugar",
+      "ja": "至る所に",
+      "ru": "везде"
+    },
+    "meta": {
+      "zh_pinyin": "dàochù"
     }
   },
   {
     "id": "zh_631",
+    "lang": "zh",
     "lemma": "到底",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "도대체, 결국",
-      "en": "after all",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "到底",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dào dǐ"
-    },
-    "infinitive": "到底",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dào dǐ"
+    },
+    "meanings": {
+      "ko": "도대체",
+      "en": "after all",
+      "zh": "到底",
+      "de": "schließlich",
+      "es": "al final",
+      "fr": "finalement",
+      "it": "in fondo",
+      "pt": "afinal",
+      "ja": "結局",
+      "ru": "в конце концов"
+    },
+    "meta": {
+      "zh_pinyin": "dào dǐ"
     }
   },
   {
     "id": "zh_632",
+    "lang": "zh",
     "lemma": "剩",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "남다",
-      "en": "remain, left",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "剩",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shèng"
-    },
-    "infinitive": "剩",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shèng"
+    },
+    "meanings": {
+      "ko": "남다",
+      "en": "remain",
+      "zh": "剩",
+      "de": "übrig bleiben",
+      "es": "quedar",
+      "fr": "rester",
+      "it": "rimanere",
+      "pt": "restar",
+      "ja": "残る",
+      "ru": "оставаться"
+    },
+    "meta": {
+      "zh_pinyin": "shèng"
     }
   },
   {
     "id": "zh_633",
+    "lang": "zh",
     "lemma": "力气",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "힘, 기력",
-      "en": "strength, effort",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "力气",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lìqi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "lìqi"
+    },
+    "meanings": {
+      "ko": "힘",
+      "en": "strength",
+      "zh": "力气",
+      "de": "die Kraft",
+      "es": "la fuerza",
+      "fr": "la force",
+      "it": "la forza",
+      "pt": "a força",
+      "ja": "力",
+      "ru": "сила"
+    },
+    "meta": {
+      "zh_pinyin": "lìqi"
     }
   },
   {
     "id": "zh_634",
+    "lang": "zh",
     "lemma": "功夫",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "쿵푸, 기술",
-      "en": "kung fu",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "功夫",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gōngfu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "gōngfu"
+    },
+    "meanings": {
+      "ko": "쿵푸",
+      "en": "kung fu",
+      "zh": "功夫",
+      "de": "das Kung Fu",
+      "es": "el kung fu",
+      "fr": "le kung-fu",
+      "it": "il kung fu",
+      "pt": "o kung fu",
+      "ja": "カンフー",
+      "ru": "кунг-фу"
+    },
+    "meta": {
+      "zh_pinyin": "gōngfu"
     }
   },
   {
     "id": "zh_635",
+    "lang": "zh",
     "lemma": "加油站",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "jiāyóuzhàn"
+    },
     "meanings": {
       "ko": "주유소",
       "en": "gas station",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "加油站",
-      "ru": ""
+      "de": "die Tankstelle",
+      "es": "la gasolinera",
+      "fr": "la station-service",
+      "it": "la stazione di servizio",
+      "pt": "o posto de gasolina",
+      "ja": "ガソリンスタンド",
+      "ru": "заправочная станция"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiāyóuzhàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiāyóuzhàn"
     }
   },
   {
     "id": "zh_636",
+    "lang": "zh",
     "lemma": "加班",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
-    "meanings": {
-      "ko": "야근하다, 초과 근무하다",
-      "en": "work overtime",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "加班",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiā bān"
-    },
-    "infinitive": "加班",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiā bān"
+    },
+    "meanings": {
+      "ko": "야근하다",
+      "en": "work overtime",
+      "zh": "加班",
+      "de": "Überstunden machen",
+      "es": "hacer horas extras",
+      "fr": "faire des heures supplémentaires",
+      "it": "fare gli straordinari",
+      "pt": "fazer hora extra",
+      "ja": "残業する",
+      "ru": "работать сверхурочно"
+    },
+    "meta": {
+      "zh_pinyin": "jiā bān"
     }
   },
   {
     "id": "zh_637",
+    "lang": "zh",
     "lemma": "动作",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "동작, 행동",
-      "en": "movement, action",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "动作",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dòngzuò"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "dòngzuò"
+    },
+    "meanings": {
+      "ko": "동작",
+      "en": "movement",
+      "zh": "动作",
+      "de": "die Bewegung",
+      "es": "el movimiento",
+      "fr": "le mouvement",
+      "it": "il movimento",
+      "pt": "o movimento",
+      "ja": "動作",
+      "ru": "движение"
+    },
+    "meta": {
+      "zh_pinyin": "dòngzuò"
     }
   },
   {
     "id": "zh_638",
+    "lang": "zh",
     "lemma": "勇敢",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "용감하다",
-      "en": "brave, courageous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "勇敢",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yǒnggǎn"
-    },
     "reading": {
       "zh": "yǒnggǎn"
+    },
+    "meanings": {
+      "ko": "용감하다",
+      "en": "brave",
+      "zh": "勇敢",
+      "de": "mutig",
+      "es": "valiente",
+      "fr": "courageux",
+      "it": "coraggioso",
+      "pt": "corajoso",
+      "ja": "勇敢な",
+      "ru": "храбрый"
+    },
+    "meta": {
+      "zh_pinyin": "yǒnggǎn"
     }
   },
   {
     "id": "zh_639",
+    "lang": "zh",
     "lemma": "勺子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sháozi"
+    },
     "meanings": {
       "ko": "숟가락",
       "en": "spoon",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "勺子",
-      "ru": ""
+      "de": "der Löffel",
+      "es": "la cuchara",
+      "fr": "la cuillère",
+      "it": "il cucchiaio",
+      "pt": "a colher",
+      "ja": "スプーン",
+      "ru": "ложка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sháozi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "sháozi"
     }
   },
   {
     "id": "zh_640",
+    "lang": "zh",
     "lemma": "包子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "만두 (찐빵)",
-      "en": "steamed bun",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "包子",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bāozi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "bāozi"
+    },
+    "meanings": {
+      "ko": "만두",
+      "en": "steamed bun",
+      "zh": "包子",
+      "de": "der Baozi",
+      "es": "el baozi",
+      "fr": "le baozi",
+      "it": "il baozi",
+      "pt": "o baozi",
+      "ja": "包子",
+      "ru": "баоцзы"
+    },
+    "meta": {
+      "zh_pinyin": "bāozi"
     }
   },
   {
     "id": "zh_641",
+    "lang": "zh",
     "lemma": "区别",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "차이, 구별",
-      "en": "difference, distinguish",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "区别",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qūbié"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "qūbié"
+    },
+    "meanings": {
+      "ko": "차이",
+      "en": "difference",
+      "zh": "区别",
+      "de": "der Unterschied",
+      "es": "la diferencia",
+      "fr": "la différence",
+      "it": "la differenza",
+      "pt": "a diferença",
+      "ja": "違い",
+      "ru": "разница"
+    },
+    "meta": {
+      "zh_pinyin": "qūbié"
     }
   },
   {
     "id": "zh_642",
+    "lang": "zh",
     "lemma": "十分",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "매우, 충분히",
-      "en": "very, fully",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "十分",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shífēn"
-    },
-    "infinitive": "十分",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shífēn"
+    },
+    "meanings": {
+      "ko": "매우",
+      "en": "very",
+      "zh": "十分",
+      "de": "sehr",
+      "es": "muy",
+      "fr": "très",
+      "it": "molto",
+      "pt": "muito",
+      "ja": "非常に",
+      "ru": "очень"
+    },
+    "meta": {
+      "zh_pinyin": "shífēn"
     }
   },
   {
     "id": "zh_643",
+    "lang": "zh",
     "lemma": "千万",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "꼭, 절대로",
-      "en": "must, be",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "千万",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qiānwàn"
-    },
-    "infinitive": "千万",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "qiānwàn"
+    },
+    "meanings": {
+      "ko": "꼭",
+      "en": "must",
+      "zh": "千万",
+      "de": "unbedingt",
+      "es": "absolutamente",
+      "fr": "absolument",
+      "it": "assolutamente",
+      "pt": "absolutamente",
+      "ja": "必ず",
+      "ru": "обязательно"
+    },
+    "meta": {
+      "zh_pinyin": "qiānwàn"
     }
   },
   {
     "id": "zh_644",
+    "lang": "zh",
     "lemma": "博士",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "박사",
-      "en": "doctor, phd",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "博士",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bóshì"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "bóshì"
+    },
+    "meanings": {
+      "ko": "박사",
+      "en": "doctor",
+      "zh": "博士",
+      "de": "der Doktor",
+      "es": "el doctor",
+      "fr": "le docteur",
+      "it": "il dottore",
+      "pt": "o doutor",
+      "ja": "博士",
+      "ru": "доктор"
+    },
+    "meta": {
+      "zh_pinyin": "bóshì"
     }
   },
   {
     "id": "zh_645",
+    "lang": "zh",
     "lemma": "占线",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "zhànxiàn"
+    },
     "meanings": {
       "ko": "통화 중이다",
       "en": "line busy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "占线",
-      "ru": ""
+      "de": "besetzt sein",
+      "es": "estar ocupado",
+      "fr": "être occupé",
+      "it": "essere occupato",
+      "pt": "estar ocupado",
+      "ja": "話し中である",
+      "ru": "быть занятым"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhànxiàn"
-    },
-    "infinitive": "占线",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhànxiàn"
     }
   },
   {
     "id": "zh_646",
+    "lang": "zh",
     "lemma": "卫生间",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "화장실",
-      "en": "restroom, bathroom",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "卫生间",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "wèishēngjiān"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "wèishēngjiān"
+    },
+    "meanings": {
+      "ko": "화장실",
+      "en": "restroom",
+      "zh": "卫生间",
+      "de": "die Toilette",
+      "es": "el baño",
+      "fr": "les toilettes",
+      "it": "il bagno",
+      "pt": "o banheiro",
+      "ja": "トイレ",
+      "ru": "туалет"
+    },
+    "meta": {
+      "zh_pinyin": "wèishēngjiān"
     }
   },
   {
     "id": "zh_647",
+    "lang": "zh",
     "lemma": "印象",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yìnxiàng"
+    },
     "meanings": {
       "ko": "인상",
       "en": "impression",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "印象",
-      "ru": ""
+      "de": "der Eindruck",
+      "es": "la impresión",
+      "fr": "l'impression",
+      "it": "l'impressione",
+      "pt": "a impressão",
+      "ja": "印象",
+      "ru": "впечатление"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yìnxiàng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yìnxiàng"
     }
   },
   {
     "id": "zh_648",
+    "lang": "zh",
     "lemma": "危险",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wēixiǎn"
+    },
     "meanings": {
       "ko": "위험하다",
       "en": "dangerous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "危险",
-      "ru": ""
+      "de": "gefährlich",
+      "es": "peligroso",
+      "fr": "dangereux",
+      "it": "pericoloso",
+      "pt": "perigoso",
+      "ja": "危険な",
+      "ru": "опасный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wēixiǎn"
-    },
-    "reading": {
-      "zh": "wēixiǎn"
     }
   },
   {
     "id": "zh_649",
+    "lang": "zh",
     "lemma": "却",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "그러나, 오히려",
-      "en": "but, however",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "却",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "què"
-    },
-    "infinitive": "却",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "què"
+    },
+    "meanings": {
+      "ko": "그러나",
+      "en": "but",
+      "zh": "却",
+      "de": "aber",
+      "es": "sin embargo",
+      "fr": "mais",
+      "it": "però",
+      "pt": "mas",
+      "ja": "しかし",
+      "ru": "однако"
+    },
+    "meta": {
+      "zh_pinyin": "què"
     }
   },
   {
     "id": "zh_650",
+    "lang": "zh",
     "lemma": "厉害",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "대단하다, 심하다",
-      "en": "formidable, awesome",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "厉害",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lìhai"
-    },
     "reading": {
       "zh": "lìhai"
+    },
+    "meanings": {
+      "ko": "대단하다",
+      "en": "formidable",
+      "zh": "厉害",
+      "de": "beeindruckend",
+      "es": "formidable",
+      "fr": "formidable",
+      "it": "formidabile",
+      "pt": "formidável",
+      "ja": "すごい",
+      "ru": "грозный"
+    },
+    "meta": {
+      "zh_pinyin": "lìhai"
     }
   },
   {
     "id": "zh_651",
+    "lang": "zh",
     "lemma": "压力",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "압력, 스트레스",
-      "en": "pressure, stress",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "压力",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yālì"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yālì"
+    },
+    "meanings": {
+      "ko": "압력",
+      "en": "pressure",
+      "zh": "压力",
+      "de": "der Druck",
+      "es": "la presión",
+      "fr": "la pression",
+      "it": "la pressione",
+      "pt": "a pressão",
+      "ja": "プレッシャー",
+      "ru": "давление"
+    },
+    "meta": {
+      "zh_pinyin": "yālì"
     }
   },
   {
     "id": "zh_652",
+    "lang": "zh",
     "lemma": "厕所",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "화장실",
-      "en": "toilet, bathroom",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "厕所",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cèsuǒ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "cèsuǒ"
+    },
+    "meanings": {
+      "ko": "화장실",
+      "en": "toilet",
+      "zh": "厕所",
+      "de": "die Toilette",
+      "es": "el inodoro",
+      "fr": "les toilettes",
+      "it": "il gabinetto",
+      "pt": "o vaso sanitário",
+      "ja": "トイレ",
+      "ru": "туалет"
+    },
+    "meta": {
+      "zh_pinyin": "cèsuǒ"
     }
   },
   {
     "id": "zh_653",
+    "lang": "zh",
     "lemma": "厚",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "두껍다, 후하다",
-      "en": "thick, generous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "厚",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "hòu"
-    },
     "reading": {
       "zh": "hòu"
+    },
+    "meanings": {
+      "ko": "두껍다",
+      "en": "thick",
+      "zh": "厚",
+      "de": "dick",
+      "es": "grueso",
+      "fr": "épais",
+      "it": "spesso",
+      "pt": "grosso",
+      "ja": "厚い",
+      "ru": "толстый"
+    },
+    "meta": {
+      "zh_pinyin": "hòu"
     }
   },
   {
     "id": "zh_654",
+    "lang": "zh",
     "lemma": "原因",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "원인, 이유",
-      "en": "reason, cause",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "原因",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yuányīn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yuányīn"
+    },
+    "meanings": {
+      "ko": "원인",
+      "en": "reason",
+      "zh": "原因",
+      "de": "der Grund",
+      "es": "la razón",
+      "fr": "la raison",
+      "it": "la ragione",
+      "pt": "a razão",
+      "ja": "原因",
+      "ru": "причина"
+    },
+    "meta": {
+      "zh_pinyin": "yuányīn"
     }
   },
   {
     "id": "zh_655",
+    "lang": "zh",
     "lemma": "原来",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "원래의, 알고 보니",
-      "en": "original, turns",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "原来",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yuánlái"
-    },
     "reading": {
       "zh": "yuánlái"
+    },
+    "meanings": {
+      "ko": "원래의",
+      "en": "original",
+      "zh": "原来",
+      "de": "ursprünglich",
+      "es": "original",
+      "fr": "original",
+      "it": "originale",
+      "pt": "original",
+      "ja": "元の",
+      "ru": "первоначальный"
+    },
+    "meta": {
+      "zh_pinyin": "yuánlái"
     }
   },
   {
     "id": "zh_656",
+    "lang": "zh",
     "lemma": "原谅",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yuánliàng"
+    },
     "meanings": {
       "ko": "용서하다",
       "en": "forgive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "原谅",
-      "ru": ""
+      "de": "verzeihen",
+      "es": "perdonar",
+      "fr": "pardonner",
+      "it": "perdonare",
+      "pt": "perdoar",
+      "ja": "許す",
+      "ru": "прощать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yuánliàng"
-    },
-    "infinitive": "原谅",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yuánliàng"
     }
   },
   {
     "id": "zh_657",
+    "lang": "zh",
     "lemma": "厨房",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "chúfáng"
+    },
     "meanings": {
       "ko": "부엌",
       "en": "kitchen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "厨房",
-      "ru": ""
+      "de": "die Küche",
+      "es": "la cocina",
+      "fr": "la cuisine",
+      "it": "la cucina",
+      "pt": "a cozinha",
+      "ja": "台所",
+      "ru": "кухня"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chúfáng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "chúfáng"
     }
   },
   {
     "id": "zh_658",
+    "lang": "zh",
     "lemma": "参观",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
-    "meanings": {
-      "ko": "참관하다, 방문하다",
-      "en": "visit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "参观",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cānguān"
-    },
-    "infinitive": "参观",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "cānguān"
+    },
+    "meanings": {
+      "ko": "참관하다",
+      "en": "visit",
+      "zh": "参观",
+      "de": "besichtigen",
+      "es": "visitar",
+      "fr": "visiter",
+      "it": "visitare",
+      "pt": "visitar",
+      "ja": "見学する",
+      "ru": "посещать"
+    },
+    "meta": {
+      "zh_pinyin": "cānguān"
     }
   },
   {
     "id": "zh_659",
+    "lang": "zh",
     "lemma": "及时",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "적시에, 때맞춰",
-      "en": "timely",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "及时",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jíshí"
-    },
     "reading": {
       "zh": "jíshí"
+    },
+    "meanings": {
+      "ko": "적시에",
+      "en": "timely",
+      "zh": "及时",
+      "de": "rechtzeitig",
+      "es": "a tiempo",
+      "fr": "à temps",
+      "it": "tempestivo",
+      "pt": "oportuno",
+      "ja": "間に合う",
+      "ru": "своевременный"
+    },
+    "meta": {
+      "zh_pinyin": "jíshí"
     }
   },
   {
     "id": "zh_660",
+    "lang": "zh",
     "lemma": "友好",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "우호적인, 친한",
-      "en": "friendly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "友好",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yǒuhǎo"
-    },
     "reading": {
       "zh": "yǒuhǎo"
+    },
+    "meanings": {
+      "ko": "우호적인",
+      "en": "friendly",
+      "zh": "友好",
+      "de": "freundlich",
+      "es": "amistoso",
+      "fr": "amical",
+      "it": "amichevole",
+      "pt": "amigável",
+      "ja": "友好的な",
+      "ru": "дружелюбный"
+    },
+    "meta": {
+      "zh_pinyin": "yǒuhǎo"
     }
   },
   {
     "id": "zh_661",
+    "lang": "zh",
     "lemma": "友谊",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk",
       "travel"
     ],
+    "reading": {
+      "zh": "yǒuyì"
+    },
     "meanings": {
       "ko": "우정",
       "en": "friendship",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "友谊",
-      "ru": ""
+      "de": "die Freundschaft",
+      "es": "la amistad",
+      "fr": "l'amitié",
+      "it": "l'amicizia",
+      "pt": "a amizade",
+      "ja": "友情",
+      "ru": "дружба"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǒuyì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yǒuyì"
     }
   },
   {
     "id": "zh_662",
+    "lang": "zh",
     "lemma": "反对",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fǎnduì"
+    },
     "meanings": {
       "ko": "반대하다",
       "en": "oppose",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "反对",
-      "ru": ""
+      "de": "widersprechen",
+      "es": "oponerse",
+      "fr": "s'opposer",
+      "it": "opporsi",
+      "pt": "opor-se",
+      "ja": "反対する",
+      "ru": "возражать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fǎnduì"
-    },
-    "infinitive": "反对",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fǎnduì"
     }
   },
   {
     "id": "zh_663",
+    "lang": "zh",
     "lemma": "发展",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fāzhǎn"
+    },
     "meanings": {
       "ko": "발전하다",
       "en": "develop",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "发展",
-      "ru": ""
+      "de": "entwickeln",
+      "es": "desarrollar",
+      "fr": "développer",
+      "it": "sviluppare",
+      "pt": "desenvolver",
+      "ja": "発展する",
+      "ru": "развивать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fāzhǎn"
-    },
-    "infinitive": "发展",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fāzhǎn"
     }
   },
   {
     "id": "zh_664",
+    "lang": "zh",
     "lemma": "发生",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "발생하다, 일어나다",
-      "en": "happen",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "发生",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "fāshēng"
-    },
-    "infinitive": "发生",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "fāshēng"
+    },
+    "meanings": {
+      "ko": "발생하다",
+      "en": "happen",
+      "zh": "发生",
+      "de": "geschehen",
+      "es": "ocurrir",
+      "fr": "se produire",
+      "it": "accadere",
+      "pt": "acontecer",
+      "ja": "発生する",
+      "ru": "происходить"
+    },
+    "meta": {
+      "zh_pinyin": "fāshēng"
     }
   },
   {
     "id": "zh_665",
+    "lang": "zh",
     "lemma": "取",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "가져가다, 얻다",
-      "en": "take",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "取",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qǔ"
-    },
-    "infinitive": "取",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "qǔ"
+    },
+    "meanings": {
+      "ko": "가져가다",
+      "en": "take",
+      "zh": "取",
+      "de": "nehmen",
+      "es": "tomar",
+      "fr": "prendre",
+      "it": "prendere",
+      "pt": "pegar",
+      "ja": "取る",
+      "ru": "брать"
+    },
+    "meta": {
+      "zh_pinyin": "qǔ"
     }
   },
   {
     "id": "zh_666",
+    "lang": "zh",
     "lemma": "受不了",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "shòu bu liǎo"
+    },
     "meanings": {
       "ko": "참을 수 없다",
       "en": "unbearable",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "受不了",
-      "ru": ""
+      "de": "unerträglich",
+      "es": "insoportable",
+      "fr": "insupportable",
+      "it": "insopportabile",
+      "pt": "insuportável",
+      "ja": "我慢できない",
+      "ru": "невыносимый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shòu bu liǎo"
-    },
-    "infinitive": "受不了",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shòu bu liǎo"
     }
   },
   {
     "id": "zh_667",
+    "lang": "zh",
     "lemma": "受到",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "받다, 당하다",
-      "en": "receive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "受到",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shòudào"
-    },
-    "infinitive": "受到",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shòudào"
+    },
+    "meanings": {
+      "ko": "받다",
+      "en": "receive",
+      "zh": "受到",
+      "de": "erhalten",
+      "es": "recibir",
+      "fr": "recevoir",
+      "it": "ricevere",
+      "pt": "receber",
+      "ja": "受ける",
+      "ru": "получать"
+    },
+    "meta": {
+      "zh_pinyin": "shòudào"
     }
   },
   {
     "id": "zh_668",
+    "lang": "zh",
     "lemma": "另外",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "그 외에, 또 다른",
-      "en": "besides",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "另外",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lìngwài"
-    },
     "reading": {
       "zh": "lìngwài"
+    },
+    "meanings": {
+      "ko": "그 외에",
+      "en": "besides",
+      "zh": "另外",
+      "de": "außerdem",
+      "es": "además",
+      "fr": "en outre",
+      "it": "inoltre",
+      "pt": "além disso",
+      "ja": "その他に",
+      "ru": "кроме того"
+    },
+    "meta": {
+      "zh_pinyin": "lìngwài"
     }
   },
   {
     "id": "zh_669",
+    "lang": "zh",
     "lemma": "可怜",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "가련한, 불쌍한",
-      "en": "pitiful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "可怜",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kělián"
-    },
     "reading": {
       "zh": "kělián"
+    },
+    "meanings": {
+      "ko": "가련한",
+      "en": "pitiful",
+      "zh": "可怜",
+      "de": "bemitleidenswert",
+      "es": "lamentable",
+      "fr": "pitoyable",
+      "it": "pietoso",
+      "pt": "lamentável",
+      "ja": "かわいそうな",
+      "ru": "жалкий"
+    },
+    "meta": {
+      "zh_pinyin": "kělián"
     }
   },
   {
     "id": "zh_670",
+    "lang": "zh",
     "lemma": "可惜",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "아쉽다, 유감이다",
-      "en": "regrettable",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "可惜",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kěxī"
-    },
     "reading": {
       "zh": "kěxī"
+    },
+    "meanings": {
+      "ko": "아쉽다",
+      "en": "regrettable",
+      "zh": "可惜",
+      "de": "bedauerlich",
+      "es": "lamentable",
+      "fr": "regrettable",
+      "it": "peccato",
+      "pt": "lamentável",
+      "ja": "残念な",
+      "ru": "досадный"
+    },
+    "meta": {
+      "zh_pinyin": "kěxī"
     }
   },
   {
     "id": "zh_671",
+    "lang": "zh",
     "lemma": "可是",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "그러나, 하지만",
-      "en": "but",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "可是",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kěshì"
-    },
-    "infinitive": "可是",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "kěshì"
+    },
+    "meanings": {
+      "ko": "그러나",
+      "en": "but",
+      "zh": "可是",
+      "de": "aber",
+      "es": "pero",
+      "fr": "mais",
+      "it": "ma",
+      "pt": "mas",
+      "ja": "しかし",
+      "ru": "но"
+    },
+    "meta": {
+      "zh_pinyin": "kěshì"
     }
   },
   {
     "id": "zh_672",
+    "lang": "zh",
     "lemma": "台",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "대, 플랫폼, (기계 세는 단위)",
-      "en": "platform, desk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "台",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "tái"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "tái"
+    },
+    "meanings": {
+      "ko": "대",
+      "en": "platform",
+      "zh": "台",
+      "de": "die Plattform",
+      "es": "la plataforma",
+      "fr": "la plateforme",
+      "it": "la piattaforma",
+      "pt": "a plataforma",
+      "ja": "台",
+      "ru": "платформа"
+    },
+    "meta": {
+      "zh_pinyin": "tái"
     }
   },
   {
     "id": "zh_673",
+    "lang": "zh",
     "lemma": "叶子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yèzi"
+    },
     "meanings": {
       "ko": "잎",
       "en": "leaves",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "叶子",
-      "ru": ""
+      "de": "das Blatt",
+      "es": "la hoja",
+      "fr": "la feuille",
+      "it": "la foglia",
+      "pt": "a folha",
+      "ja": "葉",
+      "ru": "лист"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yèzi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yèzi"
     }
   },
   {
     "id": "zh_674",
+    "lang": "zh",
     "lemma": "号码",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "hàomǎ"
+    },
     "meanings": {
       "ko": "번호",
       "en": "number",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "号码",
-      "ru": ""
+      "de": "die Nummer",
+      "es": "el número",
+      "fr": "le numéro",
+      "it": "il numero",
+      "pt": "o número",
+      "ja": "番号",
+      "ru": "номер"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hàomǎ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hàomǎ"
     }
   },
   {
     "id": "zh_675",
+    "lang": "zh",
     "lemma": "吃惊",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chī jīng"
+    },
     "meanings": {
       "ko": "놀라다",
       "en": "surprised",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "吃惊",
-      "ru": ""
+      "de": "überrascht sein",
+      "es": "sorprenderse",
+      "fr": "être surpris",
+      "it": "sorprendersi",
+      "pt": "surpreender-se",
+      "ja": "驚く",
+      "ru": "удивляться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chī jīng"
-    },
-    "infinitive": "吃惊",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chī jīng"
     }
   },
   {
     "id": "zh_676",
+    "lang": "zh",
     "lemma": "各",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "각, 각각의",
-      "en": "each",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "各",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gè"
-    },
     "reading": {
       "zh": "gè"
+    },
+    "meanings": {
+      "ko": "각",
+      "en": "each",
+      "zh": "各",
+      "de": "jeder",
+      "es": "cada",
+      "fr": "chaque",
+      "it": "ogni",
+      "pt": "cada",
+      "ja": "各",
+      "ru": "каждый"
+    },
+    "meta": {
+      "zh_pinyin": "gè"
     }
   },
   {
     "id": "zh_677",
+    "lang": "zh",
     "lemma": "合格",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "합격하다, 자격이 있다",
-      "en": "qualified",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "合格",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "hégé"
-    },
     "reading": {
       "zh": "hégé"
+    },
+    "meanings": {
+      "ko": "합격하다",
+      "en": "qualified",
+      "zh": "合格",
+      "de": "qualifiziert",
+      "es": "cualificado",
+      "fr": "qualifié",
+      "it": "qualificato",
+      "pt": "qualificado",
+      "ja": "合格した",
+      "ru": "квалифицированный"
+    },
+    "meta": {
+      "zh_pinyin": "hégé"
     }
   },
   {
     "id": "zh_678",
+    "lang": "zh",
     "lemma": "合适",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "적합하다, 알맞다",
-      "en": "suitable",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "合适",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "héshì"
-    },
     "reading": {
       "zh": "héshì"
+    },
+    "meanings": {
+      "ko": "적합하다",
+      "en": "suitable",
+      "zh": "合适",
+      "de": "passend",
+      "es": "adecuado",
+      "fr": "approprié",
+      "it": "adatto",
+      "pt": "adequado",
+      "ja": "適切な",
+      "ru": "подходящий"
+    },
+    "meta": {
+      "zh_pinyin": "héshì"
     }
   },
   {
     "id": "zh_679",
+    "lang": "zh",
     "lemma": "同情",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tóngqíng"
+    },
     "meanings": {
       "ko": "동정",
       "en": "sympathy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "同情",
-      "ru": ""
+      "de": "das Mitgefühl",
+      "es": "la compasión",
+      "fr": "la sympathie",
+      "it": "la compassione",
+      "pt": "a compaixão",
+      "ja": "同情",
+      "ru": "сочувствие"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tóngqíng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "tóngqíng"
     }
   },
   {
     "id": "zh_680",
+    "lang": "zh",
     "lemma": "同时",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tóngshí"
+    },
     "meanings": {
       "ko": "동시에",
       "en": "simultaneously",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "同时",
-      "ru": ""
+      "de": "gleichzeitig",
+      "es": "al mismo tiempo",
+      "fr": "en même temps",
+      "it": "contemporaneamente",
+      "pt": "ao mesmo tempo",
+      "ja": "同時に",
+      "ru": "одновременно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tóngshí"
-    },
-    "infinitive": "同时",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tóngshí"
     }
   },
   {
     "id": "zh_681",
+    "lang": "zh",
     "lemma": "后悔",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hòuhuǐ"
+    },
     "meanings": {
       "ko": "후회하다",
       "en": "regret",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "后悔",
-      "ru": ""
+      "de": "bereuen",
+      "es": "arrepentirse",
+      "fr": "se souvenir",
+      "it": "pentirsi",
+      "pt": "arrepender-se",
+      "ja": "後悔する",
+      "ru": "сожалеть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hòuhuǐ"
-    },
-    "infinitive": "后悔",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "hòuhuǐ"
     }
   },
   {
     "id": "zh_682",
+    "lang": "zh",
     "lemma": "否则",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "fǒuzé"
+    },
     "meanings": {
       "ko": "그렇지 않으면",
       "en": "otherwise",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "否则",
-      "ru": ""
+      "de": "sonst",
+      "es": "de lo contrario",
+      "fr": "sinon",
+      "it": "altrimenti",
+      "pt": "caso contrário",
+      "ja": "さもなければ",
+      "ru": "иначе"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fǒuzé"
-    },
-    "infinitive": "否则",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fǒuzé"
     }
   },
   {
     "id": "zh_683",
+    "lang": "zh",
     "lemma": "吸引",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "끌어당기다, 유치하다",
-      "en": "attract",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "吸引",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xīyǐn"
-    },
-    "infinitive": "吸引",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "xīyǐn"
+    },
+    "meanings": {
+      "ko": "끌어당기다",
+      "en": "attract",
+      "zh": "吸引",
+      "de": "anziehen",
+      "es": "atraer",
+      "fr": "attirer",
+      "it": "attrarre",
+      "pt": "atrair",
+      "ja": "引きつける",
+      "ru": "привлекать"
+    },
+    "meta": {
+      "zh_pinyin": "xīyǐn"
     }
   },
   {
     "id": "zh_684",
+    "lang": "zh",
     "lemma": "周围",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "주위, 주변",
-      "en": "surroundings",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "周围",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhōuwéi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zhōuwéi"
+    },
+    "meanings": {
+      "ko": "주위",
+      "en": "surroundings",
+      "zh": "周围",
+      "de": "die Umgebung",
+      "es": "los alrededores",
+      "fr": "les environs",
+      "it": "i dintorni",
+      "pt": "os arredores",
+      "ja": "周囲",
+      "ru": "окрестности"
+    },
+    "meta": {
+      "zh_pinyin": "zhōuwéi"
     }
   },
   {
     "id": "zh_685",
+    "lang": "zh",
     "lemma": "味道",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wèidao"
+    },
     "meanings": {
       "ko": "맛",
       "en": "taste",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "味道",
-      "ru": ""
+      "de": "der Geschmack",
+      "es": "el sabor",
+      "fr": "le goût",
+      "it": "il sapore",
+      "pt": "o sabor",
+      "ja": "味",
+      "ru": "вкус"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wèidao"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wèidao"
     }
   },
   {
     "id": "zh_686",
+    "lang": "zh",
     "lemma": "咱们",
-    "pos": "noun",
+    "pos": "Pronomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "우리 (듣는 사람 포함)",
-      "en": "we",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "咱们",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zánmen"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zánmen"
+    },
+    "meanings": {
+      "ko": "우리",
+      "en": "we",
+      "zh": "咱们",
+      "de": "wir",
+      "es": "nosotros",
+      "fr": "nous",
+      "it": "noi",
+      "pt": "nós",
+      "ja": "私たち",
+      "ru": "мы"
+    },
+    "meta": {
+      "zh_pinyin": "zánmen"
     }
   },
   {
     "id": "zh_687",
+    "lang": "zh",
     "lemma": "咳嗽",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "késou"
+    },
     "meanings": {
       "ko": "기침하다",
       "en": "cough",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "咳嗽",
-      "ru": ""
+      "de": "husten",
+      "es": "toser",
+      "fr": "tousser",
+      "it": "tossire",
+      "pt": "tossir",
+      "ja": "咳をする",
+      "ru": "кашлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "késou"
-    },
-    "infinitive": "咳嗽",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "késou"
     }
   },
   {
     "id": "zh_688",
+    "lang": "zh",
     "lemma": "咸",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xián"
+    },
     "meanings": {
       "ko": "짜다",
       "en": "salty",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "咸",
-      "ru": ""
+      "de": "salzig",
+      "es": "salado",
+      "fr": "salé",
+      "it": "salato",
+      "pt": "salgado",
+      "ja": "塩辛い",
+      "ru": "солёный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xián"
-    },
-    "reading": {
-      "zh": "xián"
     }
   },
   {
     "id": "zh_689",
+    "lang": "zh",
     "lemma": "响",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "소리 나다, 울리다",
-      "en": "sound, ring",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "响",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xiǎng"
-    },
-    "infinitive": "响",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "xiǎng"
+    },
+    "meanings": {
+      "ko": "소리 나다",
+      "en": "sound",
+      "zh": "响",
+      "de": "klingen",
+      "es": "sonar",
+      "fr": "sonner",
+      "it": "suonare",
+      "pt": "soar",
+      "ja": "鳴る",
+      "ru": "звучать"
+    },
+    "meta": {
+      "zh_pinyin": "xiǎng"
     }
   },
   {
     "id": "zh_690",
+    "lang": "zh",
     "lemma": "售货员",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shòuhuòyuán"
+    },
     "meanings": {
       "ko": "판매원",
       "en": "salesclerk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "售货员",
-      "ru": ""
+      "de": "der Verkäufer",
+      "es": "el vendedor",
+      "fr": "le vendeur",
+      "it": "il commesso",
+      "pt": "o vendedor",
+      "ja": "店員",
+      "ru": "продавец"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shòuhuòyuán"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shòuhuòyuán"
     }
   },
   {
     "id": "zh_691",
+    "lang": "zh",
     "lemma": "商量",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "상의하다, 의논하다",
-      "en": "discuss",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "商量",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shāngliang"
-    },
-    "infinitive": "商量",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shāngliang"
+    },
+    "meanings": {
+      "ko": "상의하다",
+      "en": "discuss",
+      "zh": "商量",
+      "de": "besprechen",
+      "es": "discutir",
+      "fr": "discuter",
+      "it": "discutere",
+      "pt": "discutir",
+      "ja": "相談する",
+      "ru": "обсуждать"
+    },
+    "meta": {
+      "zh_pinyin": "shāngliang"
     }
   },
   {
     "id": "zh_692",
+    "lang": "zh",
     "lemma": "回忆",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "회상하다, 추억하다",
-      "en": "recall",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "回忆",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "huíyì"
-    },
-    "infinitive": "回忆",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "huíyì"
+    },
+    "meanings": {
+      "ko": "회상하다",
+      "en": "recall",
+      "zh": "回忆",
+      "de": "sich erinnern",
+      "es": "recordar",
+      "fr": "se souvenir",
+      "it": "ricordare",
+      "pt": "recordar",
+      "ja": "思い出す",
+      "ru": "вспоминать"
+    },
+    "meta": {
+      "zh_pinyin": "huíyì"
     }
   },
   {
     "id": "zh_693",
+    "lang": "zh",
     "lemma": "因此",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "그러므로, 따라서",
-      "en": "therefore",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "因此",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yīncǐ"
-    },
-    "infinitive": "因此",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yīncǐ"
+    },
+    "meanings": {
+      "ko": "그러므로",
+      "en": "therefore",
+      "zh": "因此",
+      "de": "deshalb",
+      "es": "por lo tanto",
+      "fr": "donc",
+      "it": "quindi",
+      "pt": "portanto",
+      "ja": "そのため",
+      "ru": "поэтому"
+    },
+    "meta": {
+      "zh_pinyin": "yīncǐ"
     }
   },
   {
     "id": "zh_694",
+    "lang": "zh",
     "lemma": "困",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "졸리다, 곤경에 처하다",
-      "en": "sleepy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "困",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kùn"
-    },
     "reading": {
       "zh": "kùn"
+    },
+    "meanings": {
+      "ko": "졸리다",
+      "en": "sleepy",
+      "zh": "困",
+      "de": "müde",
+      "es": "somnoliento",
+      "fr": "somnolent",
+      "it": "assonnato",
+      "pt": "sonolento",
+      "ja": "眠い",
+      "ru": "сонный"
+    },
+    "meta": {
+      "zh_pinyin": "kùn"
     }
   },
   {
     "id": "zh_695",
+    "lang": "zh",
     "lemma": "困难",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "어려움, 곤란",
-      "en": "difficulty",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "困难",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kùnnan"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "kùnnan"
+    },
+    "meanings": {
+      "ko": "어려움",
+      "en": "difficulty",
+      "zh": "困难",
+      "de": "die Schwierigkeit",
+      "es": "la dificultad",
+      "fr": "la difficulté",
+      "it": "la difficoltà",
+      "pt": "a dificuldade",
+      "ja": "困難",
+      "ru": "трудность"
+    },
+    "meta": {
+      "zh_pinyin": "kùnnan"
     }
   },
   {
     "id": "zh_696",
+    "lang": "zh",
     "lemma": "国籍",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guójí"
+    },
     "meanings": {
       "ko": "국적",
       "en": "nationality",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "国籍",
-      "ru": ""
+      "de": "die Nationalität",
+      "es": "la nacionalidad",
+      "fr": "la nationalité",
+      "it": "la nazionalità",
+      "pt": "a nacionalidade",
+      "ja": "国籍",
+      "ru": "гражданство"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guójí"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guójí"
     }
   },
   {
     "id": "zh_697",
+    "lang": "zh",
     "lemma": "国际",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guójì"
+    },
     "meanings": {
       "ko": "국제적인",
       "en": "international",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "国际",
-      "ru": ""
+      "de": "international",
+      "es": "internacional",
+      "fr": "international",
+      "it": "internazionale",
+      "pt": "internacional",
+      "ja": "国際的な",
+      "ru": "международный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guójì"
-    },
-    "reading": {
-      "zh": "guójì"
     }
   },
   {
     "id": "zh_698",
+    "lang": "zh",
     "lemma": "地址",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dìzhǐ"
+    },
     "meanings": {
       "ko": "주소",
       "en": "address",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "地址",
-      "ru": ""
+      "de": "die Adresse",
+      "es": "la dirección",
+      "fr": "l'adresse",
+      "it": "l'indirizzo",
+      "pt": "o endereço",
+      "ja": "住所",
+      "ru": "адрес"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dìzhǐ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dìzhǐ"
     }
   },
   {
     "id": "zh_699",
+    "lang": "zh",
     "lemma": "地点",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "장소, 지점",
-      "en": "place",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "地点",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dìdiǎn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "dìdiǎn"
+    },
+    "meanings": {
+      "ko": "장소",
+      "en": "place",
+      "zh": "地点",
+      "de": "der Ort",
+      "es": "el lugar",
+      "fr": "le lieu",
+      "it": "il luogo",
+      "pt": "o local",
+      "ja": "場所",
+      "ru": "место"
+    },
+    "meta": {
+      "zh_pinyin": "dìdiǎn"
     }
   },
   {
     "id": "zh_700",
+    "lang": "zh",
     "lemma": "地球",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dìqiú"
+    },
     "meanings": {
       "ko": "지구",
       "en": "earth",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "地球",
-      "ru": ""
+      "de": "die Erde",
+      "es": "la Tierra",
+      "fr": "la Terre",
+      "it": "la Terra",
+      "pt": "a Terra",
+      "ja": "地球",
+      "ru": "Земля"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dìqiú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dìqiú"
     }
   },
   {
     "id": "zh_701",
+    "lang": "zh",
     "lemma": "场",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "마당, 장소, (경기 세는 단위)",
-      "en": "field, place",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "场",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chǎng, cháng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "chǎng, cháng"
+    },
+    "meanings": {
+      "ko": "마당",
+      "en": "field",
+      "zh": "场",
+      "de": "das Feld",
+      "es": "el campo",
+      "fr": "le champ",
+      "it": "il campo",
+      "pt": "o campo",
+      "ja": "場",
+      "ru": "поле"
+    },
+    "meta": {
+      "zh_pinyin": "chǎng, cháng"
     }
   },
   {
     "id": "zh_702",
+    "lang": "zh",
     "lemma": "坚持",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "견지하다, 고수하다",
-      "en": "persist",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "坚持",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiānchí"
-    },
-    "infinitive": "坚持",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiānchí"
+    },
+    "meanings": {
+      "ko": "견지하다",
+      "en": "persist",
+      "zh": "坚持",
+      "de": "beharren",
+      "es": "persistir",
+      "fr": "persister",
+      "it": "persistere",
+      "pt": "persistir",
+      "ja": "堅持する",
+      "ru": "настаивать"
+    },
+    "meta": {
+      "zh_pinyin": "jiānchí"
     }
   },
   {
     "id": "zh_703",
+    "lang": "zh",
     "lemma": "垃圾桶",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lājītǒng"
+    },
     "meanings": {
       "ko": "쓰레기통",
       "en": "garbage can",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "垃圾桶",
-      "ru": ""
+      "de": "der Mülleimer",
+      "es": "el cubo de basura",
+      "fr": "la poubelle",
+      "it": "il cestino",
+      "pt": "o lixo",
+      "ja": "ゴミ箱",
+      "ru": "мусорное ведро"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lājītǒng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lājītǒng"
     }
   },
   {
     "id": "zh_704",
+    "lang": "zh",
     "lemma": "基础",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "기초, 기반",
-      "en": "foundation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "基础",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jīchǔ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "jīchǔ"
+    },
+    "meanings": {
+      "ko": "기초",
+      "en": "foundation",
+      "zh": "基础",
+      "de": "die Grundlage",
+      "es": "la base",
+      "fr": "la base",
+      "it": "la base",
+      "pt": "a base",
+      "ja": "基礎",
+      "ru": "основа"
+    },
+    "meta": {
+      "zh_pinyin": "jīchǔ"
     }
   },
   {
     "id": "zh_705",
+    "lang": "zh",
     "lemma": "堵车",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǔchē"
+    },
     "meanings": {
       "ko": "교통 체증",
       "en": "traffic jam",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "堵车",
-      "ru": ""
+      "de": "der Stau",
+      "es": "el atasco",
+      "fr": "l'embouteillage",
+      "it": "l'ingorgo",
+      "pt": "o engarrafamento",
+      "ja": "渋滞",
+      "ru": "пробка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǔchē"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dǔchē"
     }
   },
   {
     "id": "zh_706",
+    "lang": "zh",
     "lemma": "塑料袋",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sùliàodài"
+    },
     "meanings": {
       "ko": "비닐봉투",
       "en": "plastic bag",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "塑料袋",
-      "ru": ""
+      "de": "die Plastiktüte",
+      "es": "la bolsa de plástico",
+      "fr": "le sac en plastique",
+      "it": "il sacchetto di plastica",
+      "pt": "o saco plástico",
+      "ja": "ビニール袋",
+      "ru": "пластиковый пакет"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sùliàodài"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "sùliàodài"
     }
   },
   {
     "id": "zh_707",
+    "lang": "zh",
     "lemma": "填空",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tiánkòng"
+    },
     "meanings": {
       "ko": "빈칸을 채우다",
       "en": "fill blanks",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "填空",
-      "ru": ""
+      "de": "Lücken füllen",
+      "es": "rellenar huecos",
+      "fr": "remplir les blancs",
+      "it": "riempire gli spazi",
+      "pt": "preencher lacunas",
+      "ja": "空欄を埋める",
+      "ru": "заполнять пробелы"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tiánkòng"
-    },
-    "infinitive": "填空",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tiánkòng"
     }
   },
   {
     "id": "zh_708",
+    "lang": "zh",
     "lemma": "增加",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "증가하다, 늘리다",
-      "en": "increase",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "增加",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zēngjiā"
-    },
-    "infinitive": "增加",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "zēngjiā"
+    },
+    "meanings": {
+      "ko": "증가하다",
+      "en": "increase",
+      "zh": "增加",
+      "de": "erhöhen",
+      "es": "aumentar",
+      "fr": "augmenter",
+      "it": "aumentare",
+      "pt": "aumentar",
+      "ja": "増やす",
+      "ru": "увеличивать"
+    },
+    "meta": {
+      "zh_pinyin": "zēngjiā"
     }
   },
   {
     "id": "zh_709",
+    "lang": "zh",
     "lemma": "复印",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fùyìn"
+    },
     "meanings": {
       "ko": "복사하다",
       "en": "photocopy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "复印",
-      "ru": ""
+      "de": "kopieren",
+      "es": "fotocopiar",
+      "fr": "photocopier",
+      "it": "fotocopiare",
+      "pt": "fotocopiar",
+      "ja": "コピーする",
+      "ru": "ксерокопировать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fùyìn"
-    },
-    "infinitive": "复印",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fùyìn"
     }
   },
   {
     "id": "zh_710",
+    "lang": "zh",
     "lemma": "复杂",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fùzá"
+    },
     "meanings": {
       "ko": "복잡하다",
       "en": "complex",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "复杂",
-      "ru": ""
+      "de": "komplex",
+      "es": "complejo",
+      "fr": "complexe",
+      "it": "complesso",
+      "pt": "complexo",
+      "ja": "複雑な",
+      "ru": "сложный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fùzá"
-    },
-    "reading": {
-      "zh": "fùzá"
     }
   },
   {
     "id": "zh_711",
+    "lang": "zh",
     "lemma": "够",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gòu"
+    },
     "meanings": {
       "ko": "충분하다",
       "en": "enough",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "够",
-      "ru": ""
+      "de": "genug",
+      "es": "suficiente",
+      "fr": "suffisant",
+      "it": "sufficiente",
+      "pt": "suficiente",
+      "ja": "十分な",
+      "ru": "достаточно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gòu"
-    },
-    "reading": {
-      "zh": "gòu"
     }
   },
   {
     "id": "zh_712",
+    "lang": "zh",
     "lemma": "大使馆",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dàshǐguǎn"
+    },
     "meanings": {
       "ko": "대사관",
       "en": "embassy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "大使馆",
-      "ru": ""
+      "de": "die Botschaft",
+      "es": "la embajada",
+      "fr": "l'ambassade",
+      "it": "l'ambasciata",
+      "pt": "a embaixada",
+      "ja": "大使館",
+      "ru": "посольство"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dàshǐguǎn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dàshǐguǎn"
     }
   },
   {
     "id": "zh_713",
+    "lang": "zh",
     "lemma": "大夫",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "dàifu"
+    },
     "meanings": {
       "ko": "의사",
       "en": "doctor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "大夫",
-      "ru": ""
+      "de": "der Arzt",
+      "es": "el médico",
+      "fr": "le médecin",
+      "it": "il medico",
+      "pt": "o médico",
+      "ja": "医者",
+      "ru": "врач"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dàifu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dàifu"
     }
   },
   {
     "id": "zh_714",
+    "lang": "zh",
     "lemma": "大概",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "아마도, 대략",
-      "en": "probably",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "大概",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dàgài"
-    },
     "reading": {
       "zh": "dàgài"
+    },
+    "meanings": {
+      "ko": "아마도",
+      "en": "probably",
+      "zh": "大概",
+      "de": "wahrscheinlich",
+      "es": "probablemente",
+      "fr": "probablement",
+      "it": "probabilmente",
+      "pt": "provavelmente",
+      "ja": "おそらく",
+      "ru": "вероятно"
+    },
+    "meta": {
+      "zh_pinyin": "dàgài"
     }
   },
   {
     "id": "zh_715",
+    "lang": "zh",
     "lemma": "大约",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "대략, 약",
-      "en": "approximately",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "大约",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dàyuē"
-    },
-    "infinitive": "大约",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dàyuē"
+    },
+    "meanings": {
+      "ko": "대략",
+      "en": "approximately",
+      "zh": "大约",
+      "de": "ungefähr",
+      "es": "aproximadamente",
+      "fr": "environ",
+      "it": "circa",
+      "pt": "aproximadamente",
+      "ja": "約",
+      "ru": "примерно"
+    },
+    "meta": {
+      "zh_pinyin": "dàyuē"
     }
   },
   {
     "id": "zh_716",
+    "lang": "zh",
     "lemma": "失望",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shīwàng"
+    },
     "meanings": {
       "ko": "실망하다",
       "en": "disappointed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "失望",
-      "ru": ""
+      "de": "enttäuscht",
+      "es": "decepcionado",
+      "fr": "déçu",
+      "it": "deluso",
+      "pt": "desapontado",
+      "ja": "がっかりした",
+      "ru": "разочарованный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shīwàng"
-    },
-    "reading": {
-      "zh": "shīwàng"
     }
   },
   {
     "id": "zh_717",
+    "lang": "zh",
     "lemma": "失败",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shībài"
+    },
     "meanings": {
       "ko": "실패하다",
       "en": "fail",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "失败",
-      "ru": ""
+      "de": "scheitern",
+      "es": "fracasar",
+      "fr": "échouer",
+      "it": "fallire",
+      "pt": "falhar",
+      "ja": "失敗する",
+      "ru": "терпеть неудачу"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shībài"
-    },
-    "infinitive": "失败",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shībài"
     }
   },
   {
     "id": "zh_718",
+    "lang": "zh",
     "lemma": "奖金",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "상금, 보너스",
-      "en": "bonus",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "奖金",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiǎngjīn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "jiǎngjīn"
+    },
+    "meanings": {
+      "ko": "상금",
+      "en": "bonus",
+      "zh": "奖金",
+      "de": "der Bonus",
+      "es": "la bonificación",
+      "fr": "la prime",
+      "it": "il bonus",
+      "pt": "o bônus",
+      "ja": "ボーナス",
+      "ru": "премия"
+    },
+    "meta": {
+      "zh_pinyin": "jiǎngjīn"
     }
   },
   {
     "id": "zh_719",
+    "lang": "zh",
     "lemma": "好处",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "이점, 장점",
-      "en": "benefit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "好处",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "hǎochu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "hǎochu"
+    },
+    "meanings": {
+      "ko": "이점",
+      "en": "benefit",
+      "zh": "好处",
+      "de": "der Vorteil",
+      "es": "el beneficio",
+      "fr": "le bénéfice",
+      "it": "il beneficio",
+      "pt": "o benefício",
+      "ja": "利点",
+      "ru": "выгода"
+    },
+    "meta": {
+      "zh_pinyin": "hǎochu"
     }
   },
   {
     "id": "zh_720",
+    "lang": "zh",
     "lemma": "存",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "존재하다, 저축하다",
-      "en": "deposit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "存",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cún"
-    },
-    "infinitive": "存",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "cún"
+    },
+    "meanings": {
+      "ko": "존재하다",
+      "en": "deposit",
+      "zh": "存",
+      "de": "einzahlen",
+      "es": "depositar",
+      "fr": "déposer",
+      "it": "depositare",
+      "pt": "depositar",
+      "ja": "預ける",
+      "ru": "хранить"
+    },
+    "meta": {
+      "zh_pinyin": "cún"
     }
   },
   {
     "id": "zh_721",
+    "lang": "zh",
     "lemma": "孙子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sūnzi"
+    },
     "meanings": {
       "ko": "손자",
       "en": "grandson",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "孙子",
-      "ru": ""
+      "de": "der Enkel",
+      "es": "el nieto",
+      "fr": "le petit-fils",
+      "it": "il nipote",
+      "pt": "o neto",
+      "ja": "孫",
+      "ru": "внук"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sūnzi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "sūnzi"
     }
   },
   {
     "id": "zh_722",
+    "lang": "zh",
     "lemma": "学期",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xuéqī"
+    },
     "meanings": {
       "ko": "학기",
       "en": "semester",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "学期",
-      "ru": ""
+      "de": "das Semester",
+      "es": "el semestre",
+      "fr": "le semestre",
+      "it": "il semestre",
+      "pt": "o semestre",
+      "ja": "学期",
+      "ru": "семестр"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xuéqī"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xuéqī"
     }
   },
   {
     "id": "zh_723",
+    "lang": "zh",
     "lemma": "安全",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "ānquán"
+    },
     "meanings": {
       "ko": "안전하다",
       "en": "safe",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "安全",
-      "ru": ""
+      "de": "sicher",
+      "es": "seguro",
+      "fr": "sûr",
+      "it": "sicuro",
+      "pt": "seguro",
+      "ja": "安全な",
+      "ru": "безопасный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "ānquán"
-    },
-    "reading": {
-      "zh": "ānquán"
     }
   },
   {
     "id": "zh_724",
+    "lang": "zh",
     "lemma": "安排",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "안배하다, 계획하다",
-      "en": "arrange",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "安排",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "ānpái"
-    },
-    "infinitive": "安排",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "ānpái"
+    },
+    "meanings": {
+      "ko": "안배하다",
+      "en": "arrange",
+      "zh": "安排",
+      "de": "arrangieren",
+      "es": "organizar",
+      "fr": "organiser",
+      "it": "organizzare",
+      "pt": "organizar",
+      "ja": "手配する",
+      "ru": "организовывать"
+    },
+    "meta": {
+      "zh_pinyin": "ānpái"
     }
   },
   {
     "id": "zh_725",
+    "lang": "zh",
     "lemma": "完全",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "완전히, 전적으로",
-      "en": "completely",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "完全",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "wánquán"
-    },
     "reading": {
       "zh": "wánquán"
+    },
+    "meanings": {
+      "ko": "완전히",
+      "en": "completely",
+      "zh": "完全",
+      "de": "völlig",
+      "es": "completamente",
+      "fr": "complètement",
+      "it": "completamente",
+      "pt": "completamente",
+      "ja": "完全に",
+      "ru": "полностью"
+    },
+    "meta": {
+      "zh_pinyin": "wánquán"
     }
   },
   {
     "id": "zh_726",
+    "lang": "zh",
     "lemma": "实在",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "정말로, 솔직히",
-      "en": "really, honest",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "实在",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shízài"
-    },
     "reading": {
       "zh": "shízài"
+    },
+    "meanings": {
+      "ko": "정말로",
+      "en": "really",
+      "zh": "实在",
+      "de": "wirklich",
+      "es": "realmente",
+      "fr": "vraiment",
+      "it": "davvero",
+      "pt": "realmente",
+      "ja": "本当に",
+      "ru": "действительно"
+    },
+    "meta": {
+      "zh_pinyin": "shízài"
     }
   },
   {
     "id": "zh_727",
+    "lang": "zh",
     "lemma": "实际",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "실제, 현실",
-      "en": "actual, reality",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "实际",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shíjì"
-    },
     "reading": {
       "zh": "shíjì"
+    },
+    "meanings": {
+      "ko": "실제",
+      "en": "actual",
+      "zh": "实际",
+      "de": "tatsächlich",
+      "es": "real",
+      "fr": "réel",
+      "it": "reale",
+      "pt": "real",
+      "ja": "実際の",
+      "ru": "фактический"
+    },
+    "meta": {
+      "zh_pinyin": "shíjì"
     }
   },
   {
     "id": "zh_728",
+    "lang": "zh",
     "lemma": "客厅",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "kètīng"
+    },
     "meanings": {
       "ko": "거실",
       "en": "living room",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "客厅",
-      "ru": ""
+      "de": "das Wohnzimmer",
+      "es": "la sala de estar",
+      "fr": "le salon",
+      "it": "il soggiorno",
+      "pt": "a sala de estar",
+      "ja": "リビング",
+      "ru": "гостиная"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kètīng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kètīng"
     }
   },
   {
     "id": "zh_729",
+    "lang": "zh",
     "lemma": "害羞",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hài xiū"
+    },
     "meanings": {
       "ko": "수줍어하다",
       "en": "shy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "害羞",
-      "ru": ""
+      "de": "schüchtern",
+      "es": "tímido",
+      "fr": "timide",
+      "it": "timido",
+      "pt": "tímido",
+      "ja": "恥ずかしがり屋の",
+      "ru": "застенчивый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hài xiū"
-    },
-    "reading": {
-      "zh": "hài xiū"
     }
   },
   {
     "id": "zh_730",
+    "lang": "zh",
     "lemma": "家具",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiājù"
+    },
     "meanings": {
       "ko": "가구",
       "en": "furniture",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "家具",
-      "ru": ""
+      "de": "die Möbel",
+      "es": "los muebles",
+      "fr": "les meubles",
+      "it": "i mobili",
+      "pt": "os móveis",
+      "ja": "家具",
+      "ru": "мебель"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiājù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiājù"
     }
   },
   {
     "id": "zh_731",
+    "lang": "zh",
     "lemma": "寄",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "부치다, 보내다",
-      "en": "send",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "寄",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jì"
-    },
-    "infinitive": "寄",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jì"
+    },
+    "meanings": {
+      "ko": "부치다",
+      "en": "send",
+      "zh": "寄",
+      "de": "senden",
+      "es": "enviar",
+      "fr": "envoyer",
+      "it": "inviare",
+      "pt": "enviar",
+      "ja": "送る",
+      "ru": "отправлять"
+    },
+    "meta": {
+      "zh_pinyin": "jì"
     }
   },
   {
     "id": "zh_732",
+    "lang": "zh",
     "lemma": "密码",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mìmǎ"
+    },
     "meanings": {
       "ko": "비밀번호",
       "en": "password",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "密码",
-      "ru": ""
+      "de": "das Passwort",
+      "es": "la contraseña",
+      "fr": "le mot de passe",
+      "it": "la password",
+      "pt": "a senha",
+      "ja": "パスワード",
+      "ru": "пароль"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mìmǎ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "mìmǎ"
     }
   },
   {
     "id": "zh_733",
+    "lang": "zh",
     "lemma": "富",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "fù"
+    },
     "meanings": {
       "ko": "부유한",
       "en": "wealthy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "富",
-      "ru": ""
+      "de": "reich",
+      "es": "rico",
+      "fr": "riche",
+      "it": "ricco",
+      "pt": "rico",
+      "ja": "裕福な",
+      "ru": "богатый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fù"
-    },
-    "reading": {
-      "zh": "fù"
     }
   },
   {
     "id": "zh_734",
+    "lang": "zh",
     "lemma": "寒假",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
+    "reading": {
+      "zh": "hánjià"
+    },
     "meanings": {
       "ko": "겨울 방학",
       "en": "winter vacation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "寒假",
-      "ru": ""
+      "de": "die Winterferien",
+      "es": "las vacaciones de invierno",
+      "fr": "les vacances d'hiver",
+      "it": "le vacanze invernali",
+      "pt": "as férias de inverno",
+      "ja": "冬休み",
+      "ru": "зимние каникулы"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hánjià"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hánjià"
     }
   },
   {
     "id": "zh_735",
+    "lang": "zh",
     "lemma": "对话",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "duìhuà"
+    },
     "meanings": {
       "ko": "대화",
       "en": "dialogue",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "对话",
-      "ru": ""
+      "de": "der Dialog",
+      "es": "el diálogo",
+      "fr": "le dialogue",
+      "it": "il dialogo",
+      "pt": "o diálogo",
+      "ja": "対話",
+      "ru": "диалог"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "duìhuà"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "duìhuà"
     }
   },
   {
     "id": "zh_736",
+    "lang": "zh",
     "lemma": "对面",
-    "pos": "noun",
+    "pos": "Adverb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "맞은편, 건너편",
-      "en": "opposite",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "对面",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "duìmiàn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "duìmiàn"
+    },
+    "meanings": {
+      "ko": "맞은편",
+      "en": "opposite",
+      "zh": "对面",
+      "de": "gegenüber",
+      "es": "enfrente",
+      "fr": "en face",
+      "it": "di fronte",
+      "pt": "em frente",
+      "ja": "向かい側",
+      "ru": "напротив"
+    },
+    "meta": {
+      "zh_pinyin": "duìmiàn"
     }
   },
   {
     "id": "zh_737",
+    "lang": "zh",
     "lemma": "导游",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "가이드, 관광 안내원",
-      "en": "tour guide",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "导游",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dǎoyóu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "dǎoyóu"
+    },
+    "meanings": {
+      "ko": "가이드",
+      "en": "tour guide",
+      "zh": "导游",
+      "de": "der Reiseführer",
+      "es": "el guía turístico",
+      "fr": "le guide touristique",
+      "it": "la guida turistica",
+      "pt": "o guia turístico",
+      "ja": "ガイド",
+      "ru": "гид"
+    },
+    "meta": {
+      "zh_pinyin": "dǎoyóu"
     }
   },
   {
     "id": "zh_738",
+    "lang": "zh",
     "lemma": "将来",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "장래, 미래",
-      "en": "future",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "将来",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiānglái"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "jiānglái"
+    },
+    "meanings": {
+      "ko": "장래",
+      "en": "future",
+      "zh": "将来",
+      "de": "die Zukunft",
+      "es": "el futuro",
+      "fr": "l'avenir",
+      "it": "il futuro",
+      "pt": "o futuro",
+      "ja": "将来",
+      "ru": "будущее"
+    },
+    "meta": {
+      "zh_pinyin": "jiānglái"
     }
   },
   {
     "id": "zh_739",
+    "lang": "zh",
     "lemma": "尊重",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zūnzhòng"
+    },
     "meanings": {
       "ko": "존중하다",
       "en": "respect",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "尊重",
-      "ru": ""
+      "de": "respektieren",
+      "es": "respetar",
+      "fr": "respecter",
+      "it": "rispettare",
+      "pt": "respeitar",
+      "ja": "尊重する",
+      "ru": "уважать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zūnzhòng"
-    },
-    "infinitive": "尊重",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zūnzhòng"
     }
   },
   {
     "id": "zh_740",
+    "lang": "zh",
     "lemma": "小伙子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "젊은이, 총각",
-      "en": "young man",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "小伙子",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xiǎohuǒzi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "xiǎohuǒzi"
+    },
+    "meanings": {
+      "ko": "젊은이",
+      "en": "young man",
+      "zh": "小伙子",
+      "de": "der junge Mann",
+      "es": "el joven",
+      "fr": "le jeune homme",
+      "it": "il giovanotto",
+      "pt": "o jovem",
+      "ja": "若者",
+      "ru": "юноша"
+    },
+    "meta": {
+      "zh_pinyin": "xiǎohuǒzi"
     }
   },
   {
     "id": "zh_741",
+    "lang": "zh",
     "lemma": "小吃",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiǎochī"
+    },
     "meanings": {
       "ko": "간식",
       "en": "snack",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "小吃",
-      "ru": ""
+      "de": "der Snack",
+      "es": "el aperitivo",
+      "fr": "le snack",
+      "it": "lo spuntino",
+      "pt": "o lanche",
+      "ja": "軽食",
+      "ru": "закуска"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiǎochī"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiǎochī"
     }
   },
   {
     "id": "zh_742",
+    "lang": "zh",
     "lemma": "小说",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiǎoshuō"
+    },
     "meanings": {
       "ko": "소설",
       "en": "novel",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "小说",
-      "ru": ""
+      "de": "der Roman",
+      "es": "la novela",
+      "fr": "le roman",
+      "it": "il romanzo",
+      "pt": "o romance",
+      "ja": "小説",
+      "ru": "роман"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiǎoshuō"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiǎoshuō"
     }
   },
   {
     "id": "zh_743",
+    "lang": "zh",
     "lemma": "尝",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "cháng"
+    },
     "meanings": {
       "ko": "맛보다",
       "en": "taste",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "尝",
-      "ru": ""
+      "de": "probieren",
+      "es": "probar",
+      "fr": "goûter",
+      "it": "assaggiare",
+      "pt": "provar",
+      "ja": "味わう",
+      "ru": "пробовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cháng"
-    },
-    "infinitive": "尝",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "cháng"
     }
   },
   {
     "id": "zh_744",
+    "lang": "zh",
     "lemma": "尤其",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yóuqí"
+    },
     "meanings": {
       "ko": "특히",
       "en": "especially",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "尤其",
-      "ru": ""
+      "de": "besonders",
+      "es": "especialmente",
+      "fr": "surtout",
+      "it": "soprattutto",
+      "pt": "especialmente",
+      "ja": "特に",
+      "ru": "особенно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yóuqí"
-    },
-    "infinitive": "尤其",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yóuqí"
     }
   },
   {
     "id": "zh_745",
+    "lang": "zh",
     "lemma": "工资",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "임금, 급여",
-      "en": "salary",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "工资",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gōngzī"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "gōngzī"
+    },
+    "meanings": {
+      "ko": "임금",
+      "en": "salary",
+      "zh": "工资",
+      "de": "das Gehalt",
+      "es": "el salario",
+      "fr": "le salaire",
+      "it": "lo stipendio",
+      "pt": "o salário",
+      "ja": "給料",
+      "ru": "зарплата"
+    },
+    "meta": {
+      "zh_pinyin": "gōngzī"
     }
   },
   {
     "id": "zh_746",
+    "lang": "zh",
     "lemma": "左右",
-    "pos": "noun",
+    "pos": "Adverb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "좌우, 대략",
-      "en": "about, left-right",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "左右",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zuǒyòu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zuǒyòu"
+    },
+    "meanings": {
+      "ko": "좌우",
+      "en": "about",
+      "zh": "左右",
+      "de": "ungefähr",
+      "es": "aproximadamente",
+      "fr": "environ",
+      "it": "circa",
+      "pt": "aproximadamente",
+      "ja": "左右",
+      "ru": "около"
+    },
+    "meta": {
+      "zh_pinyin": "zuǒyòu"
     }
   },
   {
     "id": "zh_747",
+    "lang": "zh",
     "lemma": "巧克力",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qiǎokèlì"
+    },
     "meanings": {
       "ko": "초콜릿",
       "en": "chocolate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "巧克力",
-      "ru": ""
+      "de": "die Schokolade",
+      "es": "el chocolate",
+      "fr": "le chocolat",
+      "it": "il cioccolato",
+      "pt": "o chocolate",
+      "ja": "チョコレート",
+      "ru": "шоколад"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qiǎokèlì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qiǎokèlì"
     }
   },
   {
     "id": "zh_748",
+    "lang": "zh",
     "lemma": "差不多",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "거의, 비슷하다",
-      "en": "almost, similar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "差不多",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chàbuduō"
-    },
     "reading": {
       "zh": "chàbuduō"
+    },
+    "meanings": {
+      "ko": "거의",
+      "en": "almost",
+      "zh": "差不多",
+      "de": "fast",
+      "es": "casi",
+      "fr": "presque",
+      "it": "quasi",
+      "pt": "quase",
+      "ja": "ほとんど",
+      "ru": "почти"
+    },
+    "meta": {
+      "zh_pinyin": "chàbuduō"
     }
   },
   {
     "id": "zh_749",
+    "lang": "zh",
     "lemma": "帅",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "잘생기다, 멋지다",
-      "en": "handsome",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "帅",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shuài"
-    },
     "reading": {
       "zh": "shuài"
+    },
+    "meanings": {
+      "ko": "잘생기다",
+      "en": "handsome",
+      "zh": "帅",
+      "de": "gutaussehend",
+      "es": "guapo",
+      "fr": "beau",
+      "it": "bello",
+      "pt": "bonito",
+      "ja": "ハンサムな",
+      "ru": "красивый"
+    },
+    "meta": {
+      "zh_pinyin": "shuài"
     }
   },
   {
     "id": "zh_750",
+    "lang": "zh",
     "lemma": "师傅",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "사부, 기술자",
-      "en": "master, worker",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "师傅",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shīfu"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "shīfu"
+    },
+    "meanings": {
+      "ko": "사부",
+      "en": "master",
+      "zh": "师傅",
+      "de": "der Meister",
+      "es": "el maestro",
+      "fr": "le maître",
+      "it": "il maestro",
+      "pt": "o mestre",
+      "ja": "師匠",
+      "ru": "мастер"
+    },
+    "meta": {
+      "zh_pinyin": "shīfu"
     }
   },
   {
     "id": "zh_751",
+    "lang": "zh",
     "lemma": "干",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "하다, 마르다, 간섭하다",
-      "en": "do, dry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "干",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gàn, gān"
-    },
-    "infinitive": "干",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "gàn, gān"
+    },
+    "meanings": {
+      "ko": "하다",
+      "en": "do",
+      "zh": "干",
+      "de": "tun",
+      "es": "hacer",
+      "fr": "faire",
+      "it": "fare",
+      "pt": "fazer",
+      "ja": "する",
+      "ru": "делать"
+    },
+    "meta": {
+      "zh_pinyin": "gàn, gān"
     }
   },
   {
     "id": "zh_752",
+    "lang": "zh",
     "lemma": "干杯",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gān bēi"
+    },
     "meanings": {
       "ko": "건배하다",
       "en": "toast",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "干杯",
-      "ru": ""
+      "de": "anstoßen",
+      "es": "brindar",
+      "fr": "trinquer",
+      "it": "brindare",
+      "pt": "brindar",
+      "ja": "乾杯する",
+      "ru": "произносить тост"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gān bēi"
-    },
-    "infinitive": "干杯",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gān bēi"
     }
   },
   {
     "id": "zh_753",
+    "lang": "zh",
     "lemma": "平时",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "평소, 평상시",
-      "en": "usual time",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "平时",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "píngshí"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "píngshí"
+    },
+    "meanings": {
+      "ko": "평소",
+      "en": "usual time",
+      "zh": "平时",
+      "de": "die normale Zeit",
+      "es": "el tiempo normal",
+      "fr": "le temps habituel",
+      "it": "il tempo normale",
+      "pt": "o tempo normal",
+      "ja": "普段",
+      "ru": "обычное время"
+    },
+    "meta": {
+      "zh_pinyin": "píngshí"
     }
   },
   {
     "id": "zh_754",
+    "lang": "zh",
     "lemma": "年龄",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "나이, 연령",
-      "en": "age",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "年龄",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "niánlíng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "niánlíng"
+    },
+    "meanings": {
+      "ko": "나이",
+      "en": "age",
+      "zh": "年龄",
+      "de": "das Alter",
+      "es": "la edad",
+      "fr": "l'âge",
+      "it": "l'età",
+      "pt": "a idade",
+      "ja": "年齢",
+      "ru": "возраст"
+    },
+    "meta": {
+      "zh_pinyin": "niánlíng"
     }
   },
   {
     "id": "zh_755",
+    "lang": "zh",
     "lemma": "并且",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "게다가, 또한",
-      "en": "and, moreover",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "并且",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bìngqiě"
-    },
-    "infinitive": "并且",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "bìngqiě"
+    },
+    "meanings": {
+      "ko": "게다가",
+      "en": "and",
+      "zh": "并且",
+      "de": "und",
+      "es": "y además",
+      "fr": "et aussi",
+      "it": "e inoltre",
+      "pt": "e também",
+      "ja": "そして",
+      "ru": "и"
+    },
+    "meta": {
+      "zh_pinyin": "bìngqiě"
     }
   },
   {
     "id": "zh_756",
+    "lang": "zh",
     "lemma": "幸福",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "xìngfú"
+    },
     "meanings": {
       "ko": "행복하다",
       "en": "happy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "幸福",
-      "ru": ""
+      "de": "glücklich",
+      "es": "feliz",
+      "fr": "heureux",
+      "it": "felice",
+      "pt": "feliz",
+      "ja": "幸せな",
+      "ru": "счастливый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xìngfú"
-    },
-    "reading": {
-      "zh": "xìngfú"
     }
   },
   {
     "id": "zh_757",
+    "lang": "zh",
     "lemma": "幽默",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yōumò"
+    },
     "meanings": {
       "ko": "유머러스하다",
       "en": "humorous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "幽默",
-      "ru": ""
+      "de": "humorvoll",
+      "es": "humorístico",
+      "fr": "humoristique",
+      "it": "umoristico",
+      "pt": "bem-humorado",
+      "ja": "ユーモラスな",
+      "ru": "юмористический"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yōumò"
-    },
-    "reading": {
-      "zh": "yōumò"
     }
   },
   {
     "id": "zh_758",
+    "lang": "zh",
     "lemma": "广告",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guǎnggào"
+    },
     "meanings": {
       "ko": "광고",
       "en": "advertisement",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "广告",
-      "ru": ""
+      "de": "die Werbung",
+      "es": "el anuncio",
+      "fr": "la publicité",
+      "it": "la pubblicità",
+      "pt": "o anúncio",
+      "ja": "広告",
+      "ru": "реклама"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guǎnggào"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guǎnggào"
     }
   },
   {
     "id": "zh_759",
+    "lang": "zh",
     "lemma": "广播",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "travel"
     ],
+    "reading": {
+      "zh": "guǎngbō"
+    },
     "meanings": {
       "ko": "방송",
       "en": "broadcast",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "广播",
-      "ru": ""
+      "de": "die Sendung",
+      "es": "la emisión",
+      "fr": "la diffusion",
+      "it": "la trasmissione",
+      "pt": "a transmissão",
+      "ja": "放送",
+      "ru": "трансляция"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guǎngbō"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guǎngbō"
     }
   },
   {
     "id": "zh_760",
+    "lang": "zh",
     "lemma": "应聘",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "응모하다, 지원하다",
-      "en": "apply job",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "应聘",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yìngpìn"
-    },
-    "infinitive": "应聘",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yìngpìn"
+    },
+    "meanings": {
+      "ko": "응모하다",
+      "en": "apply job",
+      "zh": "应聘",
+      "de": "sich bewerben",
+      "es": "solicitar un empleo",
+      "fr": "postuler",
+      "it": "candidarsi",
+      "pt": "candidatar-se",
+      "ja": "応募する",
+      "ru": "подавать заявление на работу"
+    },
+    "meta": {
+      "zh_pinyin": "yìngpìn"
     }
   },
   {
     "id": "zh_761",
+    "lang": "zh",
     "lemma": "底",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "바닥, 밑",
-      "en": "bottom, base",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "底",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dǐ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "dǐ"
+    },
+    "meanings": {
+      "ko": "바닥",
+      "en": "bottom",
+      "zh": "底",
+      "de": "der Boden",
+      "es": "el fondo",
+      "fr": "le fond",
+      "it": "il fondo",
+      "pt": "o fundo",
+      "ja": "底",
+      "ru": "дно"
+    },
+    "meta": {
+      "zh_pinyin": "dǐ"
     }
   },
   {
     "id": "zh_762",
+    "lang": "zh",
     "lemma": "座",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "좌석, (산, 건물 세는 단위)",
-      "en": "seat, base",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "座",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zuò"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zuò"
+    },
+    "meanings": {
+      "ko": "좌석",
+      "en": "seat",
+      "zh": "座",
+      "de": "der Sitz",
+      "es": "el asiento",
+      "fr": "le siège",
+      "it": "il sedile",
+      "pt": "o assento",
+      "ja": "座席",
+      "ru": "сиденье"
+    },
+    "meta": {
+      "zh_pinyin": "zuò"
     }
   },
   {
     "id": "zh_763",
+    "lang": "zh",
     "lemma": "座位",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "zuòwèi"
+    },
     "meanings": {
       "ko": "좌석",
       "en": "seat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "座位",
-      "ru": ""
+      "de": "der Sitzplatz",
+      "es": "el asiento",
+      "fr": "la place assise",
+      "it": "il posto",
+      "pt": "o assento",
+      "ja": "座席",
+      "ru": "место"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zuòwèi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zuòwèi"
     }
   },
   {
     "id": "zh_764",
+    "lang": "zh",
     "lemma": "建议",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "건의하다, 제안하다",
-      "en": "suggest",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "建议",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiànyì"
-    },
-    "infinitive": "建议",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiànyì"
+    },
+    "meanings": {
+      "ko": "건의하다",
+      "en": "suggest",
+      "zh": "建议",
+      "de": "vorschlagen",
+      "es": "sugerir",
+      "fr": "suggérer",
+      "it": "suggerire",
+      "pt": "sugerir",
+      "ja": "提案する",
+      "ru": "предлагать"
+    },
+    "meta": {
+      "zh_pinyin": "jiànyì"
     }
   },
   {
     "id": "zh_765",
+    "lang": "zh",
     "lemma": "开心",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "즐겁다, 기쁘다",
-      "en": "happy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "开心",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kāixīn"
-    },
     "reading": {
       "zh": "kāixīn"
+    },
+    "meanings": {
+      "ko": "즐겁다",
+      "en": "happy",
+      "zh": "开心",
+      "de": "fröhlich",
+      "es": "alegre",
+      "fr": "joyeux",
+      "it": "allegro",
+      "pt": "alegre",
+      "ja": "楽しい",
+      "ru": "радостный"
+    },
+    "meta": {
+      "zh_pinyin": "kāixīn"
     }
   },
   {
     "id": "zh_766",
+    "lang": "zh",
     "lemma": "开玩笑",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kāi wánxiào"
+    },
     "meanings": {
       "ko": "농담하다",
       "en": "joke",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "开玩笑",
-      "ru": ""
+      "de": "scherzen",
+      "es": "bromear",
+      "fr": "plaisanter",
+      "it": "scherzare",
+      "pt": "brincar",
+      "ja": "冗談を言う",
+      "ru": "шутить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kāi wánxiào"
-    },
-    "infinitive": "开玩笑",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "kāi wánxiào"
     }
   },
   {
     "id": "zh_767",
+    "lang": "zh",
     "lemma": "弄",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "하다, 만들다, 다루다",
-      "en": "do, make",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "弄",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "nòng"
-    },
-    "infinitive": "弄",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "nòng"
+    },
+    "meanings": {
+      "ko": "하다",
+      "en": "do",
+      "zh": "弄",
+      "de": "machen",
+      "es": "hacer",
+      "fr": "faire",
+      "it": "fare",
+      "pt": "fazer",
+      "ja": "する",
+      "ru": "делать"
+    },
+    "meta": {
+      "zh_pinyin": "nòng"
     }
   },
   {
     "id": "zh_768",
+    "lang": "zh",
     "lemma": "引起",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "야기하다, 일으키다",
-      "en": "cause, lead",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "引起",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yǐnqǐ"
-    },
-    "infinitive": "引起",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yǐnqǐ"
+    },
+    "meanings": {
+      "ko": "야기하다",
+      "en": "cause",
+      "zh": "引起",
+      "de": "verursachen",
+      "es": "causar",
+      "fr": "causer",
+      "it": "causare",
+      "pt": "causar",
+      "ja": "引き起こす",
+      "ru": "вызывать"
+    },
+    "meta": {
+      "zh_pinyin": "yǐnqǐ"
     }
   },
   {
     "id": "zh_769",
+    "lang": "zh",
     "lemma": "弹钢琴",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tán gāngqín"
+    },
     "meanings": {
       "ko": "피아노를 치다",
       "en": "play piano",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "弹钢琴",
-      "ru": ""
+      "de": "Klavier spielen",
+      "es": "tocar el piano",
+      "fr": "jouer du piano",
+      "it": "suonare il pianoforte",
+      "pt": "tocar piano",
+      "ja": "ピアノを弾く",
+      "ru": "играть на пианино"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tán gāngqín"
-    },
-    "infinitive": "弹钢琴",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tán gāngqín"
     }
   },
   {
     "id": "zh_770",
+    "lang": "zh",
     "lemma": "当时",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "그때, 당시에",
-      "en": "at that",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "当时",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dāngshí"
-    },
     "reading": {
       "zh": "dāngshí"
+    },
+    "meanings": {
+      "ko": "그때",
+      "en": "at that",
+      "zh": "当时",
+      "de": "damals",
+      "es": "en ese momento",
+      "fr": "à ce moment-là",
+      "it": "in quel momento",
+      "pt": "naquela hora",
+      "ja": "当時",
+      "ru": "тогда"
+    },
+    "meta": {
+      "zh_pinyin": "dāngshí"
     }
   },
   {
     "id": "zh_771",
+    "lang": "zh",
     "lemma": "往往",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "종종, 흔히",
-      "en": "often",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "往往",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "wǎngwǎng"
-    },
     "reading": {
       "zh": "wǎngwǎng"
+    },
+    "meanings": {
+      "ko": "종종",
+      "en": "often",
+      "zh": "往往",
+      "de": "oft",
+      "es": "a menudo",
+      "fr": "souvent",
+      "it": "spesso",
+      "pt": "frequentemente",
+      "ja": "しばしば",
+      "ru": "часто"
+    },
+    "meta": {
+      "zh_pinyin": "wǎngwǎng"
     }
   },
   {
     "id": "zh_772",
+    "lang": "zh",
     "lemma": "律师",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǜshī"
+    },
     "meanings": {
       "ko": "변호사",
       "en": "lawyer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "律师",
-      "ru": ""
+      "de": "der Anwalt",
+      "es": "el abogado",
+      "fr": "l'avocat",
+      "it": "l'avvocato",
+      "pt": "o advogado",
+      "ja": "弁護士",
+      "ru": "адвокат"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǜshī"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lǜshī"
     }
   },
   {
     "id": "zh_773",
+    "lang": "zh",
     "lemma": "得意",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "득의양양하다, 우쭐하다",
-      "en": "proud",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "得意",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "déyì"
-    },
     "reading": {
       "zh": "déyì"
+    },
+    "meanings": {
+      "ko": "득의양양하다",
+      "en": "proud",
+      "zh": "得意",
+      "de": "stolz",
+      "es": "orgulloso",
+      "fr": "fier",
+      "it": "orgoglioso",
+      "pt": "orgulhoso",
+      "ja": "得意な",
+      "ru": "довольный"
+    },
+    "meta": {
+      "zh_pinyin": "déyì"
     }
   },
   {
     "id": "zh_774",
+    "lang": "zh",
     "lemma": "心情",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "기분, 마음",
-      "en": "mood",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "心情",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xīnqíng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "xīnqíng"
+    },
+    "meanings": {
+      "ko": "기분",
+      "en": "mood",
+      "zh": "心情",
+      "de": "die Stimmung",
+      "es": "el estado de ánimo",
+      "fr": "l'humeur",
+      "it": "l'umore",
+      "pt": "o humor",
+      "ja": "気分",
+      "ru": "настроение"
+    },
+    "meta": {
+      "zh_pinyin": "xīnqíng"
     }
   },
   {
     "id": "zh_775",
+    "lang": "zh",
     "lemma": "怀疑",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "의심하다",
-      "en": "doubt, suspect",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "怀疑",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "huáiyí"
-    },
-    "infinitive": "怀疑",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "huáiyí"
+    },
+    "meanings": {
+      "ko": "의심하다",
+      "en": "doubt",
+      "zh": "怀疑",
+      "de": "zweifeln",
+      "es": "dudar",
+      "fr": "douter",
+      "it": "dubitare",
+      "pt": "duvidar",
+      "ja": "疑う",
+      "ru": "сомневаться"
+    },
+    "meta": {
+      "zh_pinyin": "huáiyí"
     }
   },
   {
     "id": "zh_776",
+    "lang": "zh",
     "lemma": "态度",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tàidu"
+    },
     "meanings": {
       "ko": "태도",
       "en": "attitude",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "态度",
-      "ru": ""
+      "de": "die Haltung",
+      "es": "la actitud",
+      "fr": "l'attitude",
+      "it": "l'atteggiamento",
+      "pt": "a atitude",
+      "ja": "態度",
+      "ru": "отношение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tàidu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "tàidu"
     }
   },
   {
     "id": "zh_777",
+    "lang": "zh",
     "lemma": "性别",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xìngbié"
+    },
     "meanings": {
       "ko": "성별",
       "en": "gender",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "性别",
-      "ru": ""
+      "de": "das Geschlecht",
+      "es": "el género",
+      "fr": "le genre",
+      "it": "il genere",
+      "pt": "o gênero",
+      "ja": "性別",
+      "ru": "пол"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xìngbié"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xìngbié"
     }
   },
   {
     "id": "zh_778",
+    "lang": "zh",
     "lemma": "性格",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "xìnggé"
+    },
     "meanings": {
       "ko": "성격",
       "en": "personality",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "性格",
-      "ru": ""
+      "de": "der Charakter",
+      "es": "la personalidad",
+      "fr": "le caractère",
+      "it": "il carattere",
+      "pt": "a personalidade",
+      "ja": "性格",
+      "ru": "характер"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xìnggé"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xìnggé"
     }
   },
   {
     "id": "zh_779",
+    "lang": "zh",
     "lemma": "总结",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "요약하다, 결론짓다",
-      "en": "summarize",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "总结",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zǒngjié"
-    },
-    "infinitive": "总结",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "zǒngjié"
+    },
+    "meanings": {
+      "ko": "요약하다",
+      "en": "summarize",
+      "zh": "总结",
+      "de": "zusammenfassen",
+      "es": "resumir",
+      "fr": "résumer",
+      "it": "riassumere",
+      "pt": "resumir",
+      "ja": "要約する",
+      "ru": "подводить итог"
+    },
+    "meta": {
+      "zh_pinyin": "zǒngjié"
     }
   },
   {
     "id": "zh_780",
+    "lang": "zh",
     "lemma": "情况",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qíngkuàng"
+    },
     "meanings": {
       "ko": "상황",
       "en": "situation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "情况",
-      "ru": ""
+      "de": "die Situation",
+      "es": "la situación",
+      "fr": "la situation",
+      "it": "la situazione",
+      "pt": "a situação",
+      "ja": "状況",
+      "ru": "ситуация"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qíngkuàng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qíngkuàng"
     }
   },
   {
     "id": "zh_781",
+    "lang": "zh",
     "lemma": "愉快",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "유쾌하다, 즐겁다",
-      "en": "happy, cheerful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "愉快",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yúkuài"
-    },
     "reading": {
       "zh": "yúkuài"
+    },
+    "meanings": {
+      "ko": "유쾌하다",
+      "en": "happy",
+      "zh": "愉快",
+      "de": "angenehm",
+      "es": "agradable",
+      "fr": "agréable",
+      "it": "piacevole",
+      "pt": "agradável",
+      "ja": "楽しい",
+      "ru": "приятный"
+    },
+    "meta": {
+      "zh_pinyin": "yúkuài"
     }
   },
   {
     "id": "zh_782",
+    "lang": "zh",
     "lemma": "意见",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yìjiàn"
+    },
     "meanings": {
       "ko": "의견",
       "en": "opinion",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "意见",
-      "ru": ""
+      "de": "die Meinung",
+      "es": "la opinión",
+      "fr": "l'avis",
+      "it": "l'opinione",
+      "pt": "a opinião",
+      "ja": "意見",
+      "ru": "мнение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yìjiàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yìjiàn"
     }
   },
   {
     "id": "zh_783",
+    "lang": "zh",
     "lemma": "感动",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "gǎndòng"
+    },
     "meanings": {
       "ko": "감동하다",
       "en": "be moved",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "感动",
-      "ru": ""
+      "de": "bewegen",
+      "es": "conmover",
+      "fr": "émouvoir",
+      "it": "commuovere",
+      "pt": "comover",
+      "ja": "感動する",
+      "ru": "трогать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǎndòng"
-    },
-    "infinitive": "感动",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gǎndòng"
     }
   },
   {
     "id": "zh_784",
+    "lang": "zh",
     "lemma": "感情",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gǎnqíng"
+    },
     "meanings": {
       "ko": "감정",
       "en": "emotion",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "感情",
-      "ru": ""
+      "de": "das Gefühl",
+      "es": "el sentimiento",
+      "fr": "le sentiment",
+      "it": "il sentimento",
+      "pt": "o sentimento",
+      "ja": "感情",
+      "ru": "чувство"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǎnqíng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "gǎnqíng"
     }
   },
   {
     "id": "zh_785",
+    "lang": "zh",
     "lemma": "感觉",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "gǎnjué"
+    },
     "meanings": {
       "ko": "느끼다",
       "en": "feel",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "感觉",
-      "ru": ""
+      "de": "fühlen",
+      "es": "sentir",
+      "fr": "sentir",
+      "it": "sentire",
+      "pt": "sentir",
+      "ja": "感じる",
+      "ru": "чувствовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǎnjué"
-    },
-    "infinitive": "感觉",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gǎnjué"
     }
   },
   {
     "id": "zh_786",
+    "lang": "zh",
     "lemma": "感谢",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "gǎnxiè"
+    },
     "meanings": {
       "ko": "감사하다",
       "en": "thank",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "感谢",
-      "ru": ""
+      "de": "danken",
+      "es": "agradecer",
+      "fr": "remercier",
+      "it": "ringraziare",
+      "pt": "agradecer",
+      "ja": "感謝する",
+      "ru": "благодарить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǎnxiè"
-    },
-    "infinitive": "感谢",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gǎnxiè"
     }
   },
   {
     "id": "zh_787",
+    "lang": "zh",
     "lemma": "懒",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǎn"
+    },
     "meanings": {
       "ko": "게으르다",
       "en": "lazy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "懒",
-      "ru": ""
+      "de": "faul",
+      "es": "perezoso",
+      "fr": "paresseux",
+      "it": "pigro",
+      "pt": "preguiçoso",
+      "ja": "怠惰な",
+      "ru": "ленивый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǎn"
-    },
-    "reading": {
-      "zh": "lǎn"
     }
   },
   {
     "id": "zh_788",
+    "lang": "zh",
     "lemma": "成功",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chénggōng"
+    },
     "meanings": {
       "ko": "성공하다",
       "en": "succeed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "成功",
-      "ru": ""
+      "de": "Erfolg haben",
+      "es": "tener éxito",
+      "fr": "réussir",
+      "it": "avere successo",
+      "pt": "ter sucesso",
+      "ja": "成功する",
+      "ru": "преуспевать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chénggōng"
-    },
-    "infinitive": "成功",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chénggōng"
     }
   },
   {
     "id": "zh_789",
+    "lang": "zh",
     "lemma": "戴",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "쓰다, 착용하다",
-      "en": "wear",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "戴",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dài"
-    },
-    "infinitive": "戴",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dài"
+    },
+    "meanings": {
+      "ko": "쓰다",
+      "en": "wear",
+      "zh": "戴",
+      "de": "tragen",
+      "es": "llevar",
+      "fr": "porter",
+      "it": "indossare",
+      "pt": "usar",
+      "ja": "身につける",
+      "ru": "носить"
+    },
+    "meta": {
+      "zh_pinyin": "dài"
     }
   },
   {
     "id": "zh_790",
+    "lang": "zh",
     "lemma": "房东",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "work"
     ],
+    "reading": {
+      "zh": "fángdōng"
+    },
     "meanings": {
       "ko": "집주인",
       "en": "landlord",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "房东",
-      "ru": ""
+      "de": "der Vermieter",
+      "es": "el propietario",
+      "fr": "le propriétaire",
+      "it": "il padrone di casa",
+      "pt": "o senhorio",
+      "ja": "家主",
+      "ru": "домовладелец"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fángdōng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "fángdōng"
     }
   },
   {
     "id": "zh_791",
+    "lang": "zh",
     "lemma": "所有",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "모든, 소유하다",
-      "en": "have",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "所有",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "suǒyǒu"
-    },
-    "infinitive": "所有",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "suǒyǒu"
+    },
+    "meanings": {
+      "ko": "모든",
+      "en": "have",
+      "zh": "所有",
+      "de": "besitzen",
+      "es": "poseer",
+      "fr": "posséder",
+      "it": "possedere",
+      "pt": "possuir",
+      "ja": "全ての",
+      "ru": "все"
+    },
+    "meta": {
+      "zh_pinyin": "suǒyǒu"
     }
   },
   {
     "id": "zh_792",
+    "lang": "zh",
     "lemma": "打印",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǎyìn"
+    },
     "meanings": {
       "ko": "인쇄하다",
       "en": "print",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "打印",
-      "ru": ""
+      "de": "drucken",
+      "es": "imprimir",
+      "fr": "imprimer",
+      "it": "stampare",
+      "pt": "imprimir",
+      "ja": "印刷する",
+      "ru": "печатать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǎyìn"
-    },
-    "infinitive": "打印",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dǎyìn"
     }
   },
   {
     "id": "zh_793",
+    "lang": "zh",
     "lemma": "打扮",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "꾸미다, 단장하다",
-      "en": "dress up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "打扮",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "dǎban"
-    },
-    "infinitive": "打扮",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "dǎban"
+    },
+    "meanings": {
+      "ko": "꾸미다",
+      "en": "dress up",
+      "zh": "打扮",
+      "de": "sich verkleiden",
+      "es": "disfrazarse",
+      "fr": "se déguiser",
+      "it": "vestirsi",
+      "pt": "vestir-se",
+      "ja": "着飾る",
+      "ru": "наряжаться"
+    },
+    "meta": {
+      "zh_pinyin": "dǎban"
     }
   },
   {
     "id": "zh_794",
+    "lang": "zh",
     "lemma": "打扰",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǎrǎo"
+    },
     "meanings": {
       "ko": "방해하다",
       "en": "disturb",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "打扰",
-      "ru": ""
+      "de": "stören",
+      "es": "molestar",
+      "fr": "déranger",
+      "it": "disturbare",
+      "pt": "incomodar",
+      "ja": "邪魔をする",
+      "ru": "беспокоить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǎrǎo"
-    },
-    "infinitive": "打扰",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dǎrǎo"
     }
   },
   {
     "id": "zh_795",
+    "lang": "zh",
     "lemma": "打折",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǎzhé"
+    },
     "meanings": {
       "ko": "할인하다",
       "en": "discount",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "打折",
-      "ru": ""
+      "de": "Rabatt geben",
+      "es": "hacer un descuento",
+      "fr": "faire une réduction",
+      "it": "fare uno sconto",
+      "pt": "dar desconto",
+      "ja": "割引する",
+      "ru": "делать скидку"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǎzhé"
-    },
-    "infinitive": "打折",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dǎzhé"
     }
   },
   {
     "id": "zh_796",
+    "lang": "zh",
     "lemma": "打招呼",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǎzhāohu"
+    },
     "meanings": {
       "ko": "인사하다",
       "en": "greet",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "打招呼",
-      "ru": ""
+      "de": "grüßen",
+      "es": "saludar",
+      "fr": "saluer",
+      "it": "salutare",
+      "pt": "cumprimentar",
+      "ja": "挨拶する",
+      "ru": "здороваться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǎzhāohu"
-    },
-    "infinitive": "打招呼",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dǎzhāohu"
     }
   },
   {
     "id": "zh_797",
+    "lang": "zh",
     "lemma": "打针",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dǎzhēn"
+    },
     "meanings": {
       "ko": "주사를 맞다",
       "en": "inject",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "打针",
-      "ru": ""
+      "de": "eine Spritze geben",
+      "es": "inyectar",
+      "fr": "faire une injection",
+      "it": "fare un'iniezione",
+      "pt": "injetar",
+      "ja": "注射する",
+      "ru": "делать укол"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dǎzhēn"
-    },
-    "infinitive": "打针",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dǎzhēn"
     }
   },
   {
     "id": "zh_798",
+    "lang": "zh",
     "lemma": "扔",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "rēng"
+    },
     "meanings": {
       "ko": "던지다",
       "en": "throw",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "扔",
-      "ru": ""
+      "de": "werfen",
+      "es": "tirar",
+      "fr": "jeter",
+      "it": "lanciare",
+      "pt": "jogar",
+      "ja": "投げる",
+      "ru": "бросать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "rēng"
-    },
-    "infinitive": "扔",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "rēng"
     }
   },
   {
     "id": "zh_799",
+    "lang": "zh",
     "lemma": "批评",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pīpíng"
+    },
     "meanings": {
       "ko": "비판하다",
       "en": "criticize",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "批评",
-      "ru": ""
+      "de": "kritisieren",
+      "es": "criticar",
+      "fr": "critiquer",
+      "it": "criticare",
+      "pt": "criticar",
+      "ja": "批判する",
+      "ru": "критиковать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pīpíng"
-    },
-    "infinitive": "批评",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "pīpíng"
     }
   },
   {
     "id": "zh_800",
+    "lang": "zh",
     "lemma": "技术",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìshù"
+    },
     "meanings": {
       "ko": "기술",
       "en": "technology",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "技术",
-      "ru": ""
+      "de": "die Technologie",
+      "es": "la tecnología",
+      "fr": "la technologie",
+      "it": "la tecnologia",
+      "pt": "a tecnologia",
+      "ja": "技術",
+      "ru": "технология"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìshù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jìshù"
     }
   },
   {
     "id": "zh_801",
+    "lang": "zh",
     "lemma": "护士",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hùshi"
+    },
     "meanings": {
       "ko": "간호사",
       "en": "nurse",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "护士",
-      "ru": ""
+      "de": "die Krankenschwester",
+      "es": "la enfermera",
+      "fr": "l'infirmière",
+      "it": "l'infermiera",
+      "pt": "a enfermeira",
+      "ja": "看護師",
+      "ru": "медсестра"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hùshi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hùshi"
     }
   },
   {
     "id": "zh_802",
+    "lang": "zh",
     "lemma": "报名",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bào míng"
+    },
     "meanings": {
       "ko": "신청하다",
       "en": "sign up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "报名",
-      "ru": ""
+      "de": "sich anmelden",
+      "es": "inscribirse",
+      "fr": "s'inscrire",
+      "it": "iscriversi",
+      "pt": "inscrever-se",
+      "ja": "申し込む",
+      "ru": "записываться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bào míng"
-    },
-    "infinitive": "报名",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "bào míng"
     }
   },
   {
     "id": "zh_803",
+    "lang": "zh",
     "lemma": "抬",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tái"
+    },
     "meanings": {
       "ko": "들어 올리다",
       "en": "lift",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "抬",
-      "ru": ""
+      "de": "heben",
+      "es": "levantar",
+      "fr": "soulever",
+      "it": "sollevare",
+      "pt": "levantar",
+      "ja": "持ち上げる",
+      "ru": "поднимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tái"
-    },
-    "infinitive": "抬",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tái"
     }
   },
   {
     "id": "zh_804",
+    "lang": "zh",
     "lemma": "抱",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bào"
+    },
     "meanings": {
       "ko": "안다",
       "en": "hug",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "抱",
-      "ru": ""
+      "de": "umarmen",
+      "es": "abrazar",
+      "fr": "étreindre",
+      "it": "abbracciare",
+      "pt": "abraçar",
+      "ja": "抱く",
+      "ru": "обнимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bào"
-    },
-    "infinitive": "抱",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "bào"
     }
   },
   {
     "id": "zh_805",
+    "lang": "zh",
     "lemma": "抱歉",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "bàoqiàn"
+    },
     "meanings": {
       "ko": "미안하다",
       "en": "be sorry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "抱歉",
-      "ru": ""
+      "de": "leid tun",
+      "es": "lamentar",
+      "fr": "être désolé",
+      "it": "dispiacersi",
+      "pt": "lamentar",
+      "ja": "申し訳ない",
+      "ru": "сожалеть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bàoqiàn"
-    },
-    "reading": {
-      "zh": "bàoqiàn"
     }
   },
   {
     "id": "zh_806",
+    "lang": "zh",
     "lemma": "抽烟",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chōuyān"
+    },
     "meanings": {
       "ko": "담배를 피우다",
       "en": "smoke",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "抽烟",
-      "ru": ""
+      "de": "rauchen",
+      "es": "fumar",
+      "fr": "fumer",
+      "it": "fumare",
+      "pt": "fumar",
+      "ja": "喫煙する",
+      "ru": "курить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chōuyān"
-    },
-    "infinitive": "抽烟",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "chōuyān"
     }
   },
   {
     "id": "zh_807",
+    "lang": "zh",
     "lemma": "拉",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lā, lá"
+    },
     "meanings": {
       "ko": "당기다",
       "en": "pull",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "拉",
-      "ru": ""
+      "de": "ziehen",
+      "es": "tirar",
+      "fr": "tirer",
+      "it": "tirare",
+      "pt": "puxar",
+      "ja": "引く",
+      "ru": "тянуть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lā, lá"
-    },
-    "infinitive": "拉",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "lā, lá"
     }
   },
   {
     "id": "zh_808",
+    "lang": "zh",
     "lemma": "拒绝",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jùjué"
+    },
     "meanings": {
       "ko": "거절하다",
       "en": "refuse",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "拒绝",
-      "ru": ""
+      "de": "ablehnen",
+      "es": "rechazar",
+      "fr": "refuser",
+      "it": "rifiutare",
+      "pt": "recusar",
+      "ja": "拒否する",
+      "ru": "отказывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jùjué"
-    },
-    "infinitive": "拒绝",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jùjué"
     }
   },
   {
     "id": "zh_809",
+    "lang": "zh",
     "lemma": "招聘",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhāopìn"
+    },
     "meanings": {
       "ko": "모집하다",
       "en": "recruit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "招聘",
-      "ru": ""
+      "de": "einstellen",
+      "es": "contratar",
+      "fr": "recruter",
+      "it": "assumere",
+      "pt": "recrutar",
+      "ja": "募集する",
+      "ru": "нанимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhāopìn"
-    },
-    "infinitive": "招聘",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhāopìn"
     }
   },
   {
     "id": "zh_810",
+    "lang": "zh",
     "lemma": "挂",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guà"
+    },
     "meanings": {
       "ko": "걸다",
       "en": "hang",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "挂",
-      "ru": ""
+      "de": "hängen",
+      "es": "colgar",
+      "fr": "accrocher",
+      "it": "appendere",
+      "pt": "pendurar",
+      "ja": "掛ける",
+      "ru": "вешать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guà"
-    },
-    "infinitive": "挂",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "guà"
     }
   },
   {
     "id": "zh_811",
+    "lang": "zh",
     "lemma": "指",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhǐ"
+    },
     "meanings": {
       "ko": "가리키다",
       "en": "point",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "指",
-      "ru": ""
+      "de": "zeigen",
+      "es": "señalar",
+      "fr": "indiquer",
+      "it": "indicare",
+      "pt": "apontar",
+      "ja": "指す",
+      "ru": "указывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhǐ"
-    },
-    "infinitive": "指",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhǐ"
     }
   },
   {
     "id": "zh_812",
+    "lang": "zh",
     "lemma": "按时",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "ànshí"
+    },
     "meanings": {
       "ko": "제때에",
       "en": "on time",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "按时",
-      "ru": ""
+      "de": "pünktlich",
+      "es": "a tiempo",
+      "fr": "à l'heure",
+      "it": "in tempo",
+      "pt": "a tempo",
+      "ja": "時間通りに",
+      "ru": "вовремя"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "ànshí"
-    },
-    "reading": {
-      "zh": "ànshí"
     }
   },
   {
     "id": "zh_813",
+    "lang": "zh",
     "lemma": "挺",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tǐng"
+    },
     "meanings": {
       "ko": "곧추세우다",
       "en": "straighten up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "挺",
-      "ru": ""
+      "de": "aufrichten",
+      "es": "enderezar",
+      "fr": "redresser",
+      "it": "raddrizzare",
+      "pt": "endireitar",
+      "ja": "立てる",
+      "ru": "выпрямлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tǐng"
-    },
-    "infinitive": "挺",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tǐng"
     }
   },
   {
     "id": "zh_814",
+    "lang": "zh",
     "lemma": "掉",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "diào"
+    },
     "meanings": {
       "ko": "떨어지다",
       "en": "drop",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "掉",
-      "ru": ""
+      "de": "fallen",
+      "es": "caer",
+      "fr": "tomber",
+      "it": "cadere",
+      "pt": "cair",
+      "ja": "落ちる",
+      "ru": "падать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "diào"
-    },
-    "infinitive": "掉",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "diào"
     }
   },
   {
     "id": "zh_815",
+    "lang": "zh",
     "lemma": "排列",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "páiliè"
+    },
     "meanings": {
       "ko": "배열하다",
       "en": "arrange",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "排列",
-      "ru": ""
+      "de": "anordnen",
+      "es": "organizar",
+      "fr": "arranger",
+      "it": "disporre",
+      "pt": "organizar",
+      "ja": "並べる",
+      "ru": "располагать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "páiliè"
-    },
-    "infinitive": "排列",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "páiliè"
     }
   },
   {
     "id": "zh_816",
+    "lang": "zh",
     "lemma": "排队",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pái duì"
+    },
     "meanings": {
       "ko": "줄 서다",
       "en": "queue",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "排队",
-      "ru": ""
+      "de": "Schlange stehen",
+      "es": "hacer cola",
+      "fr": "faire la queue",
+      "it": "fare la fila",
+      "pt": "fazer fila",
+      "ja": "列に並ぶ",
+      "ru": "стоять в очереди"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pái duì"
-    },
-    "infinitive": "排队",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "pái duì"
     }
   },
   {
     "id": "zh_817",
+    "lang": "zh",
     "lemma": "接受",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiēshòu"
+    },
     "meanings": {
       "ko": "받아들이다",
       "en": "accept",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "接受",
-      "ru": ""
+      "de": "akzeptieren",
+      "es": "aceptar",
+      "fr": "accepter",
+      "it": "accettare",
+      "pt": "aceitar",
+      "ja": "受け入れる",
+      "ru": "принимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiēshòu"
-    },
-    "infinitive": "接受",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jiēshòu"
     }
   },
   {
     "id": "zh_818",
+    "lang": "zh",
     "lemma": "接着",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiēzhe"
+    },
     "meanings": {
       "ko": "계속하다",
       "en": "continue",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "接着",
-      "ru": ""
+      "de": "fortsetzen",
+      "es": "continuar",
+      "fr": "continuer",
+      "it": "continuare",
+      "pt": "continuar",
+      "ja": "続ける",
+      "ru": "продолжать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiēzhe"
-    },
-    "infinitive": "接着",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jiēzhe"
     }
   },
   {
     "id": "zh_819",
+    "lang": "zh",
     "lemma": "推",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tuī"
+    },
     "meanings": {
       "ko": "밀다",
       "en": "push",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "推",
-      "ru": ""
+      "de": "schieben",
+      "es": "empujar",
+      "fr": "pousser",
+      "it": "spingere",
+      "pt": "empurrar",
+      "ja": "押す",
+      "ru": "толкать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tuī"
-    },
-    "infinitive": "推",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tuī"
     }
   },
   {
     "id": "zh_820",
+    "lang": "zh",
     "lemma": "推迟",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "tuīchí"
+    },
     "meanings": {
       "ko": "연기하다",
       "en": "postpone",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "推迟",
-      "ru": ""
+      "de": "verschieben",
+      "es": "posponer",
+      "fr": "reporter",
+      "it": "posticipare",
+      "pt": "adiar",
+      "ja": "延期する",
+      "ru": "откладывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tuīchí"
-    },
-    "infinitive": "推迟",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tuīchí"
     }
   },
   {
     "id": "zh_821",
+    "lang": "zh",
     "lemma": "提",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "tí"
+    },
     "meanings": {
       "ko": "들다",
       "en": "carry",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "提",
-      "ru": ""
+      "de": "tragen",
+      "es": "llevar",
+      "fr": "porter",
+      "it": "portare",
+      "pt": "carregar",
+      "ja": "持ち上げる",
+      "ru": "нести"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tí"
-    },
-    "infinitive": "提",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tí"
     }
   },
   {
     "id": "zh_822",
+    "lang": "zh",
     "lemma": "提供",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tígōng"
+    },
     "meanings": {
       "ko": "제공하다",
       "en": "provide",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "提供",
-      "ru": ""
+      "de": "anbieten",
+      "es": "ofrecer",
+      "fr": "fournir",
+      "it": "fornire",
+      "pt": "fornecer",
+      "ja": "提供する",
+      "ru": "предоставлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tígōng"
-    },
-    "infinitive": "提供",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tígōng"
     }
   },
   {
     "id": "zh_823",
+    "lang": "zh",
     "lemma": "提前",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tíqián"
+    },
     "meanings": {
       "ko": "앞당기다",
       "en": "advance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "提前",
-      "ru": ""
+      "de": "vorverlegen",
+      "es": "adelantar",
+      "fr": "avancer",
+      "it": "anticipare",
+      "pt": "adiantar",
+      "ja": "前倒しする",
+      "ru": "заранее"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tíqián"
-    },
-    "infinitive": "提前",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tíqián"
     }
   },
   {
     "id": "zh_824",
+    "lang": "zh",
     "lemma": "提醒",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tíxǐng"
+    },
     "meanings": {
       "ko": "상기시키다",
       "en": "remind",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "提醒",
-      "ru": ""
+      "de": "erinnern",
+      "es": "recordar",
+      "fr": "rappeler",
+      "it": "ricordare",
+      "pt": "lembrar",
+      "ja": "思い出させる",
+      "ru": "напоминать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tíxǐng"
-    },
-    "infinitive": "提醒",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tíxǐng"
     }
   },
   {
     "id": "zh_825",
+    "lang": "zh",
     "lemma": "擦",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "cā"
+    },
     "meanings": {
       "ko": "닦다",
       "en": "wipe",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "擦",
-      "ru": ""
+      "de": "wischen",
+      "es": "limpiar",
+      "fr": "essuyer",
+      "it": "pulire",
+      "pt": "limpar",
+      "ja": "拭く",
+      "ru": "вытирать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cā"
-    },
-    "infinitive": "擦",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "cā"
     }
   },
   {
     "id": "zh_826",
+    "lang": "zh",
     "lemma": "支持",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "zhīchí"
+    },
     "meanings": {
       "ko": "지지하다",
       "en": "support",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "支持",
-      "ru": ""
+      "de": "unterstützen",
+      "es": "apoyar",
+      "fr": "soutenir",
+      "it": "sostenere",
+      "pt": "apoiar",
+      "ja": "支持する",
+      "ru": "поддерживать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhīchí"
-    },
-    "infinitive": "支持",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhīchí"
     }
   },
   {
     "id": "zh_827",
+    "lang": "zh",
     "lemma": "收",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shōu"
+    },
     "meanings": {
       "ko": "받다",
       "en": "receive",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "收",
-      "ru": ""
+      "de": "erhalten",
+      "es": "recibir",
+      "fr": "recevoir",
+      "it": "ricevere",
+      "pt": "receber",
+      "ja": "受け取る",
+      "ru": "получать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shōu"
-    },
-    "infinitive": "收",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shōu"
     }
   },
   {
     "id": "zh_828",
+    "lang": "zh",
     "lemma": "收入",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "shōurù"
+    },
     "meanings": {
       "ko": "수입",
       "en": "income",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "收入",
-      "ru": ""
+      "de": "das Einkommen",
+      "es": "el ingreso",
+      "fr": "le revenu",
+      "it": "il reddito",
+      "pt": "a renda",
+      "ja": "収入",
+      "ru": "доход"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shōurù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shōurù"
     }
   },
   {
     "id": "zh_829",
+    "lang": "zh",
     "lemma": "收拾",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shōushi"
+    },
     "meanings": {
       "ko": "정리하다",
       "en": "tidy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "收拾",
-      "ru": ""
+      "de": "aufräumen",
+      "es": "ordenar",
+      "fr": "ranger",
+      "it": "mettere in ordine",
+      "pt": "arrumar",
+      "ja": "片付ける",
+      "ru": "убирать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shōushi"
-    },
-    "infinitive": "收拾",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shōushi"
     }
   },
   {
     "id": "zh_830",
+    "lang": "zh",
     "lemma": "改变",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gǎibiàn"
+    },
     "meanings": {
       "ko": "변화시키다",
       "en": "change",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "改变",
-      "ru": ""
+      "de": "ändern",
+      "es": "cambiar",
+      "fr": "changer",
+      "it": "cambiare",
+      "pt": "mudar",
+      "ja": "変える",
+      "ru": "менять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǎibiàn"
-    },
-    "infinitive": "改变",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gǎibiàn"
     }
   },
   {
     "id": "zh_831",
+    "lang": "zh",
     "lemma": "放弃",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fàngqì"
+    },
     "meanings": {
       "ko": "포기하다",
       "en": "give up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "放弃",
-      "ru": ""
+      "de": "aufgeben",
+      "es": "renunciar",
+      "fr": "abandonner",
+      "it": "rinunciare",
+      "pt": "desistir",
+      "ja": "諦める",
+      "ru": "отказываться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fàngqì"
-    },
-    "infinitive": "放弃",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fàngqì"
     }
   },
   {
     "id": "zh_832",
+    "lang": "zh",
     "lemma": "放暑假",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fàng shǔjià"
+    },
     "meanings": {
       "ko": "여름 방학을 하다",
       "en": "vacation",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "放暑假",
-      "ru": ""
+      "de": "Sommerferien haben",
+      "es": "tener vacaciones de verano",
+      "fr": "être en vacances d'été",
+      "it": "essere in vacanza estiva",
+      "pt": "ter férias de verão",
+      "ja": "夏休みを取る",
+      "ru": "быть на летних каникулах"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fàng shǔjià"
-    },
-    "infinitive": "放暑假",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fàng shǔjià"
     }
   },
   {
     "id": "zh_833",
+    "lang": "zh",
     "lemma": "放松",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fàngsōng"
+    },
     "meanings": {
       "ko": "긴장을 풀다",
       "en": "relax",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "放松",
-      "ru": ""
+      "de": "entspannen",
+      "es": "relajarse",
+      "fr": "se détendre",
+      "it": "rilassarsi",
+      "pt": "relaxar",
+      "ja": "リラックスする",
+      "ru": "расслабляться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fàngsōng"
-    },
-    "infinitive": "放松",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fàngsōng"
     }
   },
   {
     "id": "zh_834",
+    "lang": "zh",
     "lemma": "故意",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gùyì"
+    },
     "meanings": {
       "ko": "고의적인",
       "en": "intentional",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "故意",
-      "ru": ""
+      "de": "absichtlich",
+      "es": "intencional",
+      "fr": "intentionnel",
+      "it": "intenzionale",
+      "pt": "intencional",
+      "ja": "故意の",
+      "ru": "преднамеренный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gùyì"
-    },
-    "reading": {
-      "zh": "gùyì"
     }
   },
   {
     "id": "zh_835",
+    "lang": "zh",
     "lemma": "效果",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiàoguǒ"
+    },
     "meanings": {
       "ko": "효과",
       "en": "effect",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "效果",
-      "ru": ""
+      "de": "der Effekt",
+      "es": "el efecto",
+      "fr": "l'effet",
+      "it": "l'effetto",
+      "pt": "o efeito",
+      "ja": "効果",
+      "ru": "эффект"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiàoguǒ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiàoguǒ"
     }
   },
   {
     "id": "zh_836",
+    "lang": "zh",
     "lemma": "教授",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiàoshòu"
+    },
     "meanings": {
       "ko": "교수",
       "en": "professor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "教授",
-      "ru": ""
+      "de": "der Professor",
+      "es": "el profesor",
+      "fr": "le professeur",
+      "it": "il professore",
+      "pt": "o professor",
+      "ja": "教授",
+      "ru": "профессор"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiàoshòu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiàoshòu"
     }
   },
   {
     "id": "zh_837",
+    "lang": "zh",
     "lemma": "教育",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiàoyù"
+    },
     "meanings": {
       "ko": "교육",
       "en": "education",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "教育",
-      "ru": ""
+      "de": "die Bildung",
+      "es": "la educación",
+      "fr": "l'éducation",
+      "it": "l'educazione",
+      "pt": "a educação",
+      "ja": "教育",
+      "ru": "образование"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiàoyù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiàoyù"
     }
   },
   {
     "id": "zh_838",
+    "lang": "zh",
     "lemma": "散步",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sàn bù"
+    },
     "meanings": {
       "ko": "산책하다",
       "en": "walk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "散步",
-      "ru": ""
+      "de": "spazieren gehen",
+      "es": "pasear",
+      "fr": "se promener",
+      "it": "passeggiare",
+      "pt": "passear",
+      "ja": "散歩する",
+      "ru": "гулять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sàn bù"
-    },
-    "infinitive": "散步",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "sàn bù"
     }
   },
   {
     "id": "zh_839",
+    "lang": "zh",
     "lemma": "数字",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "shùzì"
+    },
     "meanings": {
       "ko": "숫자",
       "en": "number",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "数字",
-      "ru": ""
+      "de": "die Zahl",
+      "es": "el número",
+      "fr": "le chiffre",
+      "it": "il numero",
+      "pt": "o número",
+      "ja": "数字",
+      "ru": "цифра"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shùzì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shùzì"
     }
   },
   {
     "id": "zh_840",
+    "lang": "zh",
     "lemma": "数量",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shùliàng"
+    },
     "meanings": {
       "ko": "수량",
       "en": "quantity",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "数量",
-      "ru": ""
+      "de": "die Menge",
+      "es": "la cantidad",
+      "fr": "la quantité",
+      "it": "la quantità",
+      "pt": "a quantidade",
+      "ja": "数量",
+      "ru": "количество"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shùliàng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shùliàng"
     }
   },
   {
     "id": "zh_841",
+    "lang": "zh",
     "lemma": "敲",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qiāo"
+    },
     "meanings": {
       "ko": "두드리다",
       "en": "knock",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "敲",
-      "ru": ""
+      "de": "klopfen",
+      "es": "llamar",
+      "fr": "frapper",
+      "it": "bussare",
+      "pt": "bater",
+      "ja": "叩く",
+      "ru": "стучать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qiāo"
-    },
-    "infinitive": "敲",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "qiāo"
     }
   },
   {
     "id": "zh_842",
+    "lang": "zh",
     "lemma": "整理",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhěnglǐ"
+    },
     "meanings": {
       "ko": "정리하다",
       "en": "tidy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "整理",
-      "ru": ""
+      "de": "ordnen",
+      "es": "arreglar",
+      "fr": "organiser",
+      "it": "sistemare",
+      "pt": "organizar",
+      "ja": "整理する",
+      "ru": "приводить в порядок"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhěnglǐ"
-    },
-    "infinitive": "整理",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhěnglǐ"
     }
   },
   {
     "id": "zh_843",
+    "lang": "zh",
     "lemma": "文章",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "문장, 글",
-      "en": "article",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "文章",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "wénzhāng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "wénzhāng"
+    },
+    "meanings": {
+      "ko": "문장",
+      "en": "article",
+      "zh": "文章",
+      "de": "der Artikel",
+      "es": "el artículo",
+      "fr": "l'article",
+      "it": "l'articolo",
+      "pt": "o artigo",
+      "ja": "文章",
+      "ru": "статья"
+    },
+    "meta": {
+      "zh_pinyin": "wénzhāng"
     }
   },
   {
     "id": "zh_844",
+    "lang": "zh",
     "lemma": "方向",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fāngxiàng"
+    },
     "meanings": {
       "ko": "방향",
       "en": "direction",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "方向",
-      "ru": ""
+      "de": "die Richtung",
+      "es": "la dirección",
+      "fr": "la direction",
+      "it": "la direzione",
+      "pt": "a direção",
+      "ja": "方向",
+      "ru": "направление"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fāngxiàng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "fāngxiàng"
     }
   },
   {
     "id": "zh_845",
+    "lang": "zh",
     "lemma": "方法",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fāngfǎ"
+    },
     "meanings": {
       "ko": "방법",
       "en": "method",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "方法",
-      "ru": ""
+      "de": "die Methode",
+      "es": "el método",
+      "fr": "la méthode",
+      "it": "il metodo",
+      "pt": "o método",
+      "ja": "方法",
+      "ru": "метод"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fāngfǎ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "fāngfǎ"
     }
   },
   {
     "id": "zh_846",
+    "lang": "zh",
     "lemma": "方面",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "측면, 방면",
-      "en": "aspect",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "方面",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "fāngmiàn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "fāngmiàn"
+    },
+    "meanings": {
+      "ko": "측면",
+      "en": "aspect",
+      "zh": "方面",
+      "de": "der Aspekt",
+      "es": "el aspecto",
+      "fr": "l'aspect",
+      "it": "l'aspetto",
+      "pt": "o aspecto",
+      "ja": "側面",
+      "ru": "аспект"
+    },
+    "meta": {
+      "zh_pinyin": "fāngmiàn"
     }
   },
   {
     "id": "zh_847",
+    "lang": "zh",
     "lemma": "旅行",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "lǚxíng"
+    },
     "meanings": {
       "ko": "여행하다",
       "en": "travel",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "旅行",
-      "ru": ""
+      "de": "reisen",
+      "es": "viajar",
+      "fr": "voyager",
+      "it": "viaggiare",
+      "pt": "viajar",
+      "ja": "旅行する",
+      "ru": "путешествовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǚxíng"
-    },
-    "infinitive": "旅行",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "lǚxíng"
     }
   },
   {
     "id": "zh_848",
+    "lang": "zh",
     "lemma": "无",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "wú"
+    },
     "meanings": {
       "ko": "없다",
       "en": "have not",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "无",
-      "ru": ""
+      "de": "nicht haben",
+      "es": "no tener",
+      "fr": "ne pas avoir",
+      "it": "non avere",
+      "pt": "não ter",
+      "ja": "ない",
+      "ru": "не иметь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wú"
-    },
-    "infinitive": "无",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "wú"
     }
   },
   {
     "id": "zh_849",
+    "lang": "zh",
     "lemma": "无聊",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wúliáo"
+    },
     "meanings": {
       "ko": "지루하다",
       "en": "bored",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "无聊",
-      "ru": ""
+      "de": "gelangweilt",
+      "es": "aburrido",
+      "fr": "ennuyé",
+      "it": "annoiato",
+      "pt": "entediado",
+      "ja": "退屈な",
+      "ru": "скучный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wúliáo"
-    },
-    "reading": {
-      "zh": "wúliáo"
     }
   },
   {
     "id": "zh_850",
+    "lang": "zh",
     "lemma": "日记",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "rìjì"
+    },
     "meanings": {
       "ko": "일기",
       "en": "diary",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "日记",
-      "ru": ""
+      "de": "das Tagebuch",
+      "es": "el diario",
+      "fr": "le journal",
+      "it": "il diario",
+      "pt": "o diário",
+      "ja": "日記",
+      "ru": "дневник"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "rìjì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "rìjì"
     }
   },
   {
     "id": "zh_851",
+    "lang": "zh",
     "lemma": "普通话",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
-    "meanings": {
-      "ko": "보통화 (표준 중국어)",
-      "en": "mandarin",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "普通话",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "pǔtōnghuà"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "pǔtōnghuà"
+    },
+    "meanings": {
+      "ko": "보통화",
+      "en": "mandarin",
+      "zh": "普通话",
+      "de": "das Mandarin",
+      "es": "el mandarín",
+      "fr": "le mandarin",
+      "it": "il mandarino",
+      "pt": "o mandarim",
+      "ja": "標準中国語",
+      "ru": "мандаринский язык"
+    },
+    "meta": {
+      "zh_pinyin": "pǔtōnghuà"
     }
   },
   {
     "id": "zh_852",
+    "lang": "zh",
     "lemma": "普遍",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "보편적이다, 일반적이다",
-      "en": "common",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "普遍",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "pǔbiàn"
-    },
     "reading": {
       "zh": "pǔbiàn"
+    },
+    "meanings": {
+      "ko": "보편적이다",
+      "en": "common",
+      "zh": "普遍",
+      "de": "allgemein",
+      "es": "común",
+      "fr": "commun",
+      "it": "comune",
+      "pt": "comum",
+      "ja": "普遍的な",
+      "ru": "всеобщий"
+    },
+    "meta": {
+      "zh_pinyin": "pǔbiàn"
     }
   },
   {
     "id": "zh_853",
+    "lang": "zh",
     "lemma": "景色",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jǐngsè"
+    },
     "meanings": {
       "ko": "경치",
       "en": "scenery",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "景色",
-      "ru": ""
+      "de": "die Landschaft",
+      "es": "el paisaje",
+      "fr": "le paysage",
+      "it": "il paesaggio",
+      "pt": "a paisagem",
+      "ja": "景色",
+      "ru": "пейзаж"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jǐngsè"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jǐngsè"
     }
   },
   {
     "id": "zh_854",
+    "lang": "zh",
     "lemma": "暂时",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zànshí"
+    },
     "meanings": {
       "ko": "일시적인",
       "en": "temporary",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "暂时",
-      "ru": ""
+      "de": "vorübergehend",
+      "es": "temporal",
+      "fr": "temporaire",
+      "it": "temporaneo",
+      "pt": "temporário",
+      "ja": "一時的な",
+      "ru": "временный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zànshí"
-    },
-    "reading": {
-      "zh": "zànshí"
     }
   },
   {
     "id": "zh_855",
+    "lang": "zh",
     "lemma": "暖和",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "nuǎnhuo"
+    },
     "meanings": {
       "ko": "따뜻하다",
       "en": "warm",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "暖和",
-      "ru": ""
+      "de": "warm",
+      "es": "cálido",
+      "fr": "chaud",
+      "it": "caldo",
+      "pt": "quente",
+      "ja": "暖かい",
+      "ru": "тёплый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "nuǎnhuo"
-    },
-    "reading": {
-      "zh": "nuǎnhuo"
     }
   },
   {
     "id": "zh_856",
+    "lang": "zh",
     "lemma": "最好",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "zuìhǎo"
+    },
     "meanings": {
       "ko": "가장 좋다",
       "en": "the best",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "最好",
-      "ru": ""
+      "de": "am besten",
+      "es": "el mejor",
+      "fr": "le meilleur",
+      "it": "il migliore",
+      "pt": "o melhor",
+      "ja": "最も良い",
+      "ru": "лучший"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zuìhǎo"
-    },
-    "reading": {
-      "zh": "zuìhǎo"
     }
   },
   {
     "id": "zh_857",
+    "lang": "zh",
     "lemma": "有趣",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǒuqù"
+    },
     "meanings": {
       "ko": "재미있다",
       "en": "interesting",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "有趣",
-      "ru": ""
+      "de": "interessant",
+      "es": "interesante",
+      "fr": "intéressant",
+      "it": "interessante",
+      "pt": "interessante",
+      "ja": "面白い",
+      "ru": "интересный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǒuqù"
-    },
-    "reading": {
-      "zh": "yǒuqù"
     }
   },
   {
     "id": "zh_858",
+    "lang": "zh",
     "lemma": "本来",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "běnlái"
+    },
     "meanings": {
       "ko": "원래",
       "en": "originally",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "本来",
-      "ru": ""
+      "de": "ursprünglich",
+      "es": "originalmente",
+      "fr": "à l'origine",
+      "it": "originariamente",
+      "pt": "originalmente",
+      "ja": "元々",
+      "ru": "изначально"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "běnlái"
-    },
-    "reading": {
-      "zh": "běnlái"
     }
   },
   {
     "id": "zh_859",
+    "lang": "zh",
     "lemma": "杂志",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zázhì"
+    },
     "meanings": {
       "ko": "잡지",
       "en": "magazine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "杂志",
-      "ru": ""
+      "de": "die Zeitschrift",
+      "es": "la revista",
+      "fr": "le magazine",
+      "it": "la rivista",
+      "pt": "a revista",
+      "ja": "雑誌",
+      "ru": "журнал"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zázhì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zázhì"
     }
   },
   {
     "id": "zh_860",
+    "lang": "zh",
     "lemma": "材料",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "cáiliào"
+    },
     "meanings": {
       "ko": "재료",
       "en": "material",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "材料",
-      "ru": ""
+      "de": "das Material",
+      "es": "el material",
+      "fr": "le matériau",
+      "it": "il materiale",
+      "pt": "o material",
+      "ja": "材料",
+      "ru": "материал"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cáiliào"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "cáiliào"
     }
   },
   {
     "id": "zh_861",
+    "lang": "zh",
     "lemma": "条件",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tiáojiàn"
+    },
     "meanings": {
       "ko": "조건",
       "en": "condition",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "条件",
-      "ru": ""
+      "de": "die Bedingung",
+      "es": "la condición",
+      "fr": "la condition",
+      "it": "la condizione",
+      "pt": "a condição",
+      "ja": "条件",
+      "ru": "условие"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tiáojiàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "tiáojiàn"
     }
   },
   {
     "id": "zh_862",
+    "lang": "zh",
     "lemma": "来不及",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "늦다, 시간이 부족하다",
-      "en": "too late",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "来不及",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lái bu jí"
-    },
-    "infinitive": "来不及",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "lái bu jí"
+    },
+    "meanings": {
+      "ko": "늦다",
+      "en": "too late",
+      "zh": "来不及",
+      "de": "zu spät sein",
+      "es": "ser demasiado tarde",
+      "fr": "être trop tard",
+      "it": "essere troppo tardi",
+      "pt": "ser tarde demais",
+      "ja": "間に合わない",
+      "ru": "не успеть"
+    },
+    "meta": {
+      "zh_pinyin": "lái bu jí"
     }
   },
   {
     "id": "zh_863",
+    "lang": "zh",
     "lemma": "来得及",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "lái de jí"
+    },
     "meanings": {
       "ko": "시간이 충분하다",
       "en": "still time",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "来得及",
-      "ru": ""
+      "de": "noch Zeit haben",
+      "es": "tener tiempo",
+      "fr": "avoir le temps",
+      "it": "avere tempo",
+      "pt": "ter tempo",
+      "ja": "間に合う",
+      "ru": "успеть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lái de jí"
-    },
-    "infinitive": "来得及",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "lái de jí"
     }
   },
   {
     "id": "zh_864",
+    "lang": "zh",
     "lemma": "果汁",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guǒzhī"
+    },
     "meanings": {
       "ko": "과일 주스",
       "en": "fruit juice",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "果汁",
-      "ru": ""
+      "de": "der Fruchtsaft",
+      "es": "el zumo de fruta",
+      "fr": "le jus de fruits",
+      "it": "il succo di frutta",
+      "pt": "o suco de fruta",
+      "ja": "ジュース",
+      "ru": "фруктовый сок"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guǒzhī"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guǒzhī"
     }
   },
   {
     "id": "zh_865",
+    "lang": "zh",
     "lemma": "标准",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "zh": "biāozhǔn"
+    },
     "meanings": {
       "ko": "표준",
       "en": "standard",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "标准",
-      "ru": ""
+      "de": "der Standard",
+      "es": "el estándar",
+      "fr": "la norme",
+      "it": "lo standard",
+      "pt": "o padrão",
+      "ja": "標準",
+      "ru": "стандарт"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "biāozhǔn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "biāozhǔn"
     }
   },
   {
     "id": "zh_866",
+    "lang": "zh",
     "lemma": "样子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "모양, 모습",
-      "en": "appearance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "样子",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yàngzi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yàngzi"
+    },
+    "meanings": {
+      "ko": "모양",
+      "en": "appearance",
+      "zh": "样子",
+      "de": "das Aussehen",
+      "es": "la apariencia",
+      "fr": "l'apparence",
+      "it": "l'aspetto",
+      "pt": "a aparência",
+      "ja": "様子",
+      "ru": "внешний вид"
+    },
+    "meta": {
+      "zh_pinyin": "yàngzi"
     }
   },
   {
     "id": "zh_867",
+    "lang": "zh",
     "lemma": "桥",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "qiáo"
+    },
     "meanings": {
       "ko": "다리",
       "en": "bridge",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "桥",
-      "ru": ""
+      "de": "die Brücke",
+      "es": "el puente",
+      "fr": "le pont",
+      "it": "il ponte",
+      "pt": "a ponte",
+      "ja": "橋",
+      "ru": "мост"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qiáo"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qiáo"
     }
   },
   {
     "id": "zh_868",
+    "lang": "zh",
     "lemma": "梦",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mèng"
+    },
     "meanings": {
       "ko": "꿈꾸다",
       "en": "dream",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "梦",
-      "ru": ""
+      "de": "träumen",
+      "es": "soñar",
+      "fr": "rêver",
+      "it": "sognare",
+      "pt": "sonhar",
+      "ja": "夢を見る",
+      "ru": "мечтать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mèng"
-    },
-    "infinitive": "梦",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "mèng"
     }
   },
   {
     "id": "zh_869",
+    "lang": "zh",
     "lemma": "棒",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bàng"
+    },
     "meanings": {
       "ko": "훌륭하다",
       "en": "excellent",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "棒",
-      "ru": ""
+      "de": "ausgezeichnet",
+      "es": "excelente",
+      "fr": "excellent",
+      "it": "eccellente",
+      "pt": "excelente",
+      "ja": "素晴らしい",
+      "ru": "отличный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bàng"
-    },
-    "reading": {
-      "zh": "bàng"
     }
   },
   {
     "id": "zh_870",
+    "lang": "zh",
     "lemma": "森林",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sēnlín"
+    },
     "meanings": {
       "ko": "숲",
       "en": "forest",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "森林",
-      "ru": ""
+      "de": "der Wald",
+      "es": "el bosque",
+      "fr": "la forêt",
+      "it": "la foresta",
+      "pt": "a floresta",
+      "ja": "森",
+      "ru": "лес"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sēnlín"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "sēnlín"
     }
   },
   {
     "id": "zh_871",
+    "lang": "zh",
     "lemma": "棵",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "그루 (식물 세는 단위)",
-      "en": "measure word",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "棵",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kē"
-    },
     "reading": {
       "zh": "kē"
+    },
+    "meanings": {
+      "ko": "그루",
+      "en": "measure word",
+      "zh": "棵",
+      "de": "Zähleinheitswort für Bäume",
+      "es": "clasificador para árboles",
+      "fr": "classificateur pour les arbres",
+      "it": "classificatore per alberi",
+      "pt": "classificador para árvores",
+      "ja": "本",
+      "ru": "счётное слово для деревьев"
+    },
+    "meta": {
+      "zh_pinyin": "kē"
     }
   },
   {
     "id": "zh_872",
+    "lang": "zh",
     "lemma": "植物",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhíwù"
+    },
     "meanings": {
       "ko": "식물",
       "en": "plant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "植物",
-      "ru": ""
+      "de": "die Pflanze",
+      "es": "la planta",
+      "fr": "la plante",
+      "it": "la pianta",
+      "pt": "a planta",
+      "ja": "植物",
+      "ru": "растение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhíwù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zhíwù"
     }
   },
   {
     "id": "zh_873",
+    "lang": "zh",
     "lemma": "橡皮",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiàngpí"
+    },
     "meanings": {
       "ko": "지우개",
       "en": "eraser",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "橡皮",
-      "ru": ""
+      "de": "der Radiergummi",
+      "es": "la goma de borrar",
+      "fr": "la gomme",
+      "it": "la gomma",
+      "pt": "a borracha",
+      "ja": "消しゴム",
+      "ru": "ластик"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiàngpí"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiàngpí"
     }
   },
   {
     "id": "zh_874",
+    "lang": "zh",
     "lemma": "正好",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "마침, 딱 맞다",
-      "en": "just right",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "正好",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhènghǎo"
-    },
     "reading": {
       "zh": "zhènghǎo"
+    },
+    "meanings": {
+      "ko": "마침",
+      "en": "just right",
+      "zh": "正好",
+      "de": "genau richtig",
+      "es": "justo",
+      "fr": "juste",
+      "it": "giusto",
+      "pt": "exato",
+      "ja": "ちょうど良い",
+      "ru": "как раз"
+    },
+    "meta": {
+      "zh_pinyin": "zhènghǎo"
     }
   },
   {
     "id": "zh_875",
+    "lang": "zh",
     "lemma": "正常",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhèngcháng"
+    },
     "meanings": {
       "ko": "정상적이다",
       "en": "normal",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "正常",
-      "ru": ""
+      "de": "normal",
+      "es": "normal",
+      "fr": "normal",
+      "it": "normale",
+      "pt": "normal",
+      "ja": "正常な",
+      "ru": "нормальный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhèngcháng"
-    },
-    "reading": {
-      "zh": "zhèngcháng"
     }
   },
   {
     "id": "zh_876",
+    "lang": "zh",
     "lemma": "正式",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "정식의, 공식적인",
-      "en": "formal",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "正式",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhèngshì"
-    },
     "reading": {
       "zh": "zhèngshì"
+    },
+    "meanings": {
+      "ko": "정식의",
+      "en": "formal",
+      "zh": "正式",
+      "de": "formell",
+      "es": "formal",
+      "fr": "formel",
+      "it": "formale",
+      "pt": "formal",
+      "ja": "正式な",
+      "ru": "официальный"
+    },
+    "meta": {
+      "zh_pinyin": "zhèngshì"
     }
   },
   {
     "id": "zh_877",
+    "lang": "zh",
     "lemma": "正确",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhèngquè"
+    },
     "meanings": {
       "ko": "정확하다",
       "en": "correct",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "正确",
-      "ru": ""
+      "de": "richtig",
+      "es": "correcto",
+      "fr": "correct",
+      "it": "corretto",
+      "pt": "correto",
+      "ja": "正しい",
+      "ru": "правильный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhèngquè"
-    },
-    "reading": {
-      "zh": "zhèngquè"
     }
   },
   {
     "id": "zh_878",
+    "lang": "zh",
     "lemma": "死",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sǐ"
+    },
     "meanings": {
       "ko": "죽다",
       "en": "die",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "死",
-      "ru": ""
+      "de": "sterben",
+      "es": "morir",
+      "fr": "mourir",
+      "it": "morire",
+      "pt": "morrer",
+      "ja": "死ぬ",
+      "ru": "умирать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sǐ"
-    },
-    "infinitive": "死",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "sǐ"
     }
   },
   {
     "id": "zh_879",
+    "lang": "zh",
     "lemma": "母亲",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "mǔqin"
+    },
     "meanings": {
       "ko": "어머니",
       "en": "mother",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "母亲",
-      "ru": ""
+      "de": "die Mutter",
+      "es": "la madre",
+      "fr": "la mère",
+      "it": "la madre",
+      "pt": "a mãe",
+      "ja": "母親",
+      "ru": "мать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mǔqin"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "mǔqin"
     }
   },
   {
     "id": "zh_880",
+    "lang": "zh",
     "lemma": "比如",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bǐrú"
+    },
     "meanings": {
       "ko": "예를 들어",
       "en": "for example",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "比如",
-      "ru": ""
+      "de": "zum Beispiel",
+      "es": "por ejemplo",
+      "fr": "par exemple",
+      "it": "per esempio",
+      "pt": "por exemplo",
+      "ja": "例えば",
+      "ru": "например"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bǐrú"
-    },
-    "reading": {
-      "zh": "bǐrú"
     }
   },
   {
     "id": "zh_881",
+    "lang": "zh",
     "lemma": "毕业",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bì yè"
+    },
     "meanings": {
       "ko": "졸업하다",
       "en": "graduate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "毕业",
-      "ru": ""
+      "de": "absolvieren",
+      "es": "graduarse",
+      "fr": "obtenir son diplôme",
+      "it": "laurearsi",
+      "pt": "graduar-se",
+      "ja": "卒業する",
+      "ru": "окончить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bì yè"
-    },
-    "infinitive": "毕业",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "bì yè"
     }
   },
   {
     "id": "zh_882",
+    "lang": "zh",
     "lemma": "毛",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "máo"
+    },
     "meanings": {
       "ko": "털",
       "en": "hair",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "毛",
-      "ru": ""
+      "de": "das Haar",
+      "es": "el pelo",
+      "fr": "le poil",
+      "it": "il pelo",
+      "pt": "o pelo",
+      "ja": "毛",
+      "ru": "шерсть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "máo"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "máo"
     }
   },
   {
     "id": "zh_883",
+    "lang": "zh",
     "lemma": "毛巾",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "máojīn"
+    },
     "meanings": {
       "ko": "수건",
       "en": "towel",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "毛巾",
-      "ru": ""
+      "de": "das Handtuch",
+      "es": "la toalla",
+      "fr": "la serviette",
+      "it": "l'asciugamano",
+      "pt": "a toalha",
+      "ja": "タオル",
+      "ru": "полотенце"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "máojīn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "máojīn"
     }
   },
   {
     "id": "zh_884",
+    "lang": "zh",
     "lemma": "民族",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mínzú"
+    },
     "meanings": {
       "ko": "민족",
       "en": "nationality",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "民族",
-      "ru": ""
+      "de": "die Nationalität",
+      "es": "la nacionalidad",
+      "fr": "la nationalité",
+      "it": "la nazionalità",
+      "pt": "a nacionalidade",
+      "ja": "民族",
+      "ru": "национальность"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mínzú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "mínzú"
     }
   },
   {
     "id": "zh_885",
+    "lang": "zh",
     "lemma": "气候",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qìhòu"
+    },
     "meanings": {
       "ko": "기후",
       "en": "climate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "气候",
-      "ru": ""
+      "de": "das Klima",
+      "es": "el clima",
+      "fr": "le climat",
+      "it": "il clima",
+      "pt": "o clima",
+      "ja": "気候",
+      "ru": "климат"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qìhòu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qìhòu"
     }
   },
   {
     "id": "zh_886",
+    "lang": "zh",
     "lemma": "永远",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǒngyuǎn"
+    },
     "meanings": {
       "ko": "영원한",
       "en": "eternal",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "永远",
-      "ru": ""
+      "de": "ewig",
+      "es": "eterno",
+      "fr": "éternel",
+      "it": "eterno",
+      "pt": "eterno",
+      "ja": "永遠の",
+      "ru": "вечный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǒngyuǎn"
-    },
-    "reading": {
-      "zh": "yǒngyuǎn"
     }
   },
   {
     "id": "zh_887",
+    "lang": "zh",
     "lemma": "汗",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "hàn"
+    },
     "meanings": {
       "ko": "땀",
       "en": "sweat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "汗",
-      "ru": ""
+      "de": "der Schweiß",
+      "es": "el sudor",
+      "fr": "la sueur",
+      "it": "il sudore",
+      "pt": "o suor",
+      "ja": "汗",
+      "ru": "пот"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hàn"
     }
   },
   {
     "id": "zh_888",
+    "lang": "zh",
     "lemma": "污染",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wūrǎn"
+    },
     "meanings": {
       "ko": "오염",
       "en": "pollution",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "污染",
-      "ru": ""
+      "de": "die Verschmutzung",
+      "es": "la contaminación",
+      "fr": "la pollution",
+      "it": "l'inquinamento",
+      "pt": "a poluição",
+      "ja": "汚染",
+      "ru": "загрязнение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wūrǎn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wūrǎn"
     }
   },
   {
     "id": "zh_889",
+    "lang": "zh",
     "lemma": "汤",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tāng"
+    },
     "meanings": {
       "ko": "국",
       "en": "soup",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "汤",
-      "ru": ""
+      "de": "die Suppe",
+      "es": "la sopa",
+      "fr": "la soupe",
+      "it": "la zuppa",
+      "pt": "a sopa",
+      "ja": "スープ",
+      "ru": "суп"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tāng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "tāng"
     }
   },
   {
     "id": "zh_890",
+    "lang": "zh",
     "lemma": "沙发",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shāfā"
+    },
     "meanings": {
       "ko": "소파",
       "en": "sofa",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "沙发",
-      "ru": ""
+      "de": "das Sofa",
+      "es": "el sofá",
+      "fr": "le canapé",
+      "it": "il divano",
+      "pt": "o sofá",
+      "ja": "ソファ",
+      "ru": "диван"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shāfā"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shāfā"
     }
   },
   {
     "id": "zh_891",
+    "lang": "zh",
     "lemma": "法律",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fǎlǜ"
+    },
     "meanings": {
       "ko": "법률",
       "en": "law",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "法律",
-      "ru": ""
+      "de": "das Gesetz",
+      "es": "la ley",
+      "fr": "la loi",
+      "it": "la legge",
+      "pt": "a lei",
+      "ja": "法律",
+      "ru": "закон"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fǎlǜ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "fǎlǜ"
     }
   },
   {
     "id": "zh_892",
+    "lang": "zh",
     "lemma": "活动",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "huódòng"
+    },
     "meanings": {
       "ko": "활동",
       "en": "activity",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "活动",
-      "ru": ""
+      "de": "die Aktivität",
+      "es": "la actividad",
+      "fr": "l'activité",
+      "it": "l'attività",
+      "pt": "a atividade",
+      "ja": "活動",
+      "ru": "деятельность"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "huódòng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "huódòng"
     }
   },
   {
     "id": "zh_893",
+    "lang": "zh",
     "lemma": "活泼",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "huópo"
+    },
     "meanings": {
       "ko": "활발한",
       "en": "lively",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "活泼",
-      "ru": ""
+      "de": "lebhaft",
+      "es": "animado",
+      "fr": "vif",
+      "it": "vivace",
+      "pt": "animado",
+      "ja": "活発な",
+      "ru": "живой"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "huópo"
-    },
-    "reading": {
-      "zh": "huópo"
     }
   },
   {
     "id": "zh_894",
+    "lang": "zh",
     "lemma": "流利",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "liúlì"
+    },
     "meanings": {
       "ko": "유창한",
       "en": "fluent",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "流利",
-      "ru": ""
+      "de": "fließend",
+      "es": "fluido",
+      "fr": "courant",
+      "it": "fluente",
+      "pt": "fluente",
+      "ja": "流暢な",
+      "ru": "беглый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "liúlì"
-    },
-    "reading": {
-      "zh": "liúlì"
     }
   },
   {
     "id": "zh_895",
+    "lang": "zh",
     "lemma": "流行",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "liúxíng"
+    },
     "meanings": {
       "ko": "유행하다",
       "en": "popular",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "流行",
-      "ru": ""
+      "de": "populär sein",
+      "es": "ser popular",
+      "fr": "être populaire",
+      "it": "essere popolare",
+      "pt": "ser popular",
+      "ja": "流行する",
+      "ru": "быть популярным"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "liúxíng"
-    },
-    "infinitive": "流行",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "liúxíng"
     }
   },
   {
     "id": "zh_896",
+    "lang": "zh",
     "lemma": "浪漫",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "làngmàn"
+    },
     "meanings": {
       "ko": "낭만적인",
       "en": "romantic",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "浪漫",
-      "ru": ""
+      "de": "romantisch",
+      "es": "romántico",
+      "fr": "romantique",
+      "it": "romantico",
+      "pt": "romântico",
+      "ja": "ロマンチックな",
+      "ru": "романтический"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "làngmàn"
-    },
-    "reading": {
-      "zh": "làngmàn"
     }
   },
   {
     "id": "zh_897",
+    "lang": "zh",
     "lemma": "浪费",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "làngfèi"
+    },
     "meanings": {
       "ko": "낭비하다",
       "en": "waste",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "浪费",
-      "ru": ""
+      "de": "verschwenden",
+      "es": "desperdiciar",
+      "fr": "gaspiller",
+      "it": "sprecare",
+      "pt": "desperdiçar",
+      "ja": "無駄にする",
+      "ru": "тратить впустую"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "làngfèi"
-    },
-    "infinitive": "浪费",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "làngfèi"
     }
   },
   {
     "id": "zh_898",
+    "lang": "zh",
     "lemma": "海洋",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hǎiyáng"
+    },
     "meanings": {
       "ko": "해양",
       "en": "ocean",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "海洋",
-      "ru": ""
+      "de": "der Ozean",
+      "es": "el océano",
+      "fr": "l'océan",
+      "it": "l'oceano",
+      "pt": "o oceano",
+      "ja": "海洋",
+      "ru": "океан"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hǎiyáng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hǎiyáng"
     }
   },
   {
     "id": "zh_899",
+    "lang": "zh",
     "lemma": "消息",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "xiāoxi"
+    },
     "meanings": {
       "ko": "소식",
       "en": "news",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "消息",
-      "ru": ""
+      "de": "die Nachricht",
+      "es": "la noticia",
+      "fr": "la nouvelle",
+      "it": "la notizia",
+      "pt": "a notícia",
+      "ja": "ニュース",
+      "ru": "новость"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiāoxi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiāoxi"
     }
   },
   {
     "id": "zh_900",
+    "lang": "zh",
     "lemma": "深",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shēn"
+    },
     "meanings": {
       "ko": "깊은",
       "en": "deep",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "深",
-      "ru": ""
+      "de": "tief",
+      "es": "profundo",
+      "fr": "profond",
+      "it": "profondo",
+      "pt": "profundo",
+      "ja": "深い",
+      "ru": "глубокий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shēn"
-    },
-    "reading": {
-      "zh": "shēn"
     }
   },
   {
     "id": "zh_901",
+    "lang": "zh",
     "lemma": "温度",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wēndù"
+    },
     "meanings": {
       "ko": "온도",
       "en": "temperature",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "温度",
-      "ru": ""
+      "de": "die Temperatur",
+      "es": "la temperatura",
+      "fr": "la température",
+      "it": "la temperatura",
+      "pt": "a temperatura",
+      "ja": "温度",
+      "ru": "температура"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wēndù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wēndù"
     }
   },
   {
     "id": "zh_902",
+    "lang": "zh",
     "lemma": "满",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mǎn"
+    },
     "meanings": {
       "ko": "가득 찬",
       "en": "full",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "满",
-      "ru": ""
+      "de": "voll",
+      "es": "lleno",
+      "fr": "plein",
+      "it": "pieno",
+      "pt": "cheio",
+      "ja": "満ちた",
+      "ru": "полный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mǎn"
-    },
-    "reading": {
-      "zh": "mǎn"
     }
   },
   {
     "id": "zh_903",
+    "lang": "zh",
     "lemma": "演出",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǎnchū"
+    },
     "meanings": {
       "ko": "공연하다",
       "en": "perform",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "演出",
-      "ru": ""
+      "de": "aufführen",
+      "es": "actuar",
+      "fr": "jouer",
+      "it": "esibirsi",
+      "pt": "atuar",
+      "ja": "演じる",
+      "ru": "выступать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǎnchū"
-    },
-    "infinitive": "演出",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yǎnchū"
     }
   },
   {
     "id": "zh_904",
+    "lang": "zh",
     "lemma": "演员",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǎnyuán"
+    },
     "meanings": {
       "ko": "배우",
       "en": "actor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "演员",
-      "ru": ""
+      "de": "der Schauspieler",
+      "es": "el actor",
+      "fr": "l'acteur",
+      "it": "l'attore",
+      "pt": "o ator",
+      "ja": "俳優",
+      "ru": "актёр"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǎnyuán"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yǎnyuán"
     }
   },
   {
     "id": "zh_905",
+    "lang": "zh",
     "lemma": "激动",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīdòng"
+    },
     "meanings": {
       "ko": "흥분시키다",
       "en": "excite",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "激动",
-      "ru": ""
+      "de": "begeistern",
+      "es": "emocionar",
+      "fr": "exciter",
+      "it": "emozionare",
+      "pt": "emocionar",
+      "ja": "興奮させる",
+      "ru": "волновать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīdòng"
-    },
-    "infinitive": "激动",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jīdòng"
     }
   },
   {
     "id": "zh_906",
+    "lang": "zh",
     "lemma": "火",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "huǒ"
+    },
     "meanings": {
       "ko": "불",
       "en": "fire",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "火",
-      "ru": ""
+      "de": "das Feuer",
+      "es": "el fuego",
+      "fr": "le feu",
+      "it": "il fuoco",
+      "pt": "o fogo",
+      "ja": "火",
+      "ru": "огонь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "huǒ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "huǒ"
     }
   },
   {
     "id": "zh_907",
+    "lang": "zh",
     "lemma": "烤鸭",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kǎoyā"
+    },
     "meanings": {
       "ko": "오리구이",
       "en": "roast duck",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "烤鸭",
-      "ru": ""
+      "de": "die Ente",
+      "es": "el pato asado",
+      "fr": "le canard rôti",
+      "it": "l'anatra arrosto",
+      "pt": "o pato assado",
+      "ja": "ローストダック",
+      "ru": "жареная утка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kǎoyā"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kǎoyā"
     }
   },
   {
     "id": "zh_908",
+    "lang": "zh",
     "lemma": "烦恼",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fánnǎo"
+    },
     "meanings": {
       "ko": "걱정스러운",
       "en": "worried",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "烦恼",
-      "ru": ""
+      "de": "besorgt",
+      "es": "preocupado",
+      "fr": "inquiet",
+      "it": "preoccupato",
+      "pt": "preocupado",
+      "ja": "悩ましい",
+      "ru": "обеспокоенный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fánnǎo"
-    },
-    "reading": {
-      "zh": "fánnǎo"
     }
   },
   {
     "id": "zh_909",
+    "lang": "zh",
     "lemma": "热闹",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "rènao"
+    },
     "meanings": {
       "ko": "번화한",
       "en": "bustling",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "热闹",
-      "ru": ""
+      "de": "belebt",
+      "es": "animado",
+      "fr": "animé",
+      "it": "vivace",
+      "pt": "movimentado",
+      "ja": "賑やかな",
+      "ru": "оживлённый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "rènao"
-    },
-    "reading": {
-      "zh": "rènao"
     }
   },
   {
     "id": "zh_910",
+    "lang": "zh",
     "lemma": "然而",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "rán'ér"
+    },
     "meanings": {
       "ko": "그러나",
       "en": "however",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "然而",
-      "ru": ""
+      "de": "jedoch",
+      "es": "sin embargo",
+      "fr": "cependant",
+      "it": "tuttavia",
+      "pt": "no entanto",
+      "ja": "しかし",
+      "ru": "однако"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "rán'ér"
-    },
-    "reading": {
-      "zh": "rán'ér"
     }
   },
   {
     "id": "zh_911",
+    "lang": "zh",
     "lemma": "照",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhào"
+    },
     "meanings": {
       "ko": "비추다",
       "en": "shine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "照",
-      "ru": ""
+      "de": "scheinen",
+      "es": "brillar",
+      "fr": "briller",
+      "it": "brillare",
+      "pt": "brilhar",
+      "ja": "照らす",
+      "ru": "светить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhào"
-    },
-    "infinitive": "照",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhào"
     }
   },
   {
     "id": "zh_912",
+    "lang": "zh",
     "lemma": "熟悉",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shúxī"
+    },
     "meanings": {
       "ko": "익숙한",
       "en": "familiar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "熟悉",
-      "ru": ""
+      "de": "vertraut",
+      "es": "familiar",
+      "fr": "familier",
+      "it": "familiare",
+      "pt": "familiar",
+      "ja": "詳しい",
+      "ru": "знакомый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shúxī"
-    },
-    "reading": {
-      "zh": "shúxī"
     }
   },
   {
     "id": "zh_913",
+    "lang": "zh",
     "lemma": "爱情",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "àiqíng"
+    },
     "meanings": {
       "ko": "사랑",
       "en": "love",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "爱情",
-      "ru": ""
+      "de": "die Liebe",
+      "es": "el amor",
+      "fr": "l'amour",
+      "it": "l'amore",
+      "pt": "o amor",
+      "ja": "愛情",
+      "ru": "любовь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "àiqíng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "àiqíng"
     }
   },
   {
     "id": "zh_914",
+    "lang": "zh",
     "lemma": "父亲",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "fùqin"
+    },
     "meanings": {
       "ko": "아버지",
       "en": "father",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "父亲",
-      "ru": ""
+      "de": "der Vater",
+      "es": "el padre",
+      "fr": "le père",
+      "it": "il padre",
+      "pt": "o pai",
+      "ja": "父親",
+      "ru": "отец"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fùqin"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "fùqin"
     }
   },
   {
     "id": "zh_915",
+    "lang": "zh",
     "lemma": "牙膏",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yágāo"
+    },
     "meanings": {
       "ko": "치약",
       "en": "toothpaste",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "牙膏",
-      "ru": ""
+      "de": "die Zahnpasta",
+      "es": "la pasta de dientes",
+      "fr": "le dentifrice",
+      "it": "il dentifricio",
+      "pt": "a pasta de dente",
+      "ja": "歯磨き粉",
+      "ru": "зубная паста"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yágāo"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yágāo"
     }
   },
   {
     "id": "zh_916",
+    "lang": "zh",
     "lemma": "特点",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tèdiǎn"
+    },
     "meanings": {
       "ko": "특징",
       "en": "characteristic",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "特点",
-      "ru": ""
+      "de": "das Merkmal",
+      "es": "la característica",
+      "fr": "la caractéristique",
+      "it": "la caratteristica",
+      "pt": "a característica",
+      "ja": "特徴",
+      "ru": "особенность"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tèdiǎn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "tèdiǎn"
     }
   },
   {
     "id": "zh_917",
+    "lang": "zh",
     "lemma": "猜",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "cāi"
+    },
     "meanings": {
       "ko": "추측하다",
       "en": "guess",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "猜",
-      "ru": ""
+      "de": "raten",
+      "es": "adivinar",
+      "fr": "deviner",
+      "it": "indovinare",
+      "pt": "adivinhar",
+      "ja": "推測する",
+      "ru": "угадывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cāi"
-    },
-    "infinitive": "猜",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "cāi"
     }
   },
   {
     "id": "zh_918",
+    "lang": "zh",
     "lemma": "现金",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiànjīn"
+    },
     "meanings": {
       "ko": "현금",
       "en": "cash",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "现金",
-      "ru": ""
+      "de": "das Bargeld",
+      "es": "el efectivo",
+      "fr": "l'argent liquide",
+      "it": "il contante",
+      "pt": "o dinheiro",
+      "ja": "現金",
+      "ru": "наличные"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiànjīn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiànjīn"
     }
   },
   {
     "id": "zh_919",
+    "lang": "zh",
     "lemma": "理发",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǐfà"
+    },
     "meanings": {
       "ko": "이발",
       "en": "haircut",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "理发",
-      "ru": ""
+      "de": "der Haarschnitt",
+      "es": "el corte de pelo",
+      "fr": "la coupe de cheveux",
+      "it": "il taglio di capelli",
+      "pt": "o corte de cabelo",
+      "ja": "散髪",
+      "ru": "стрижка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǐfà"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lǐfà"
     }
   },
   {
     "id": "zh_920",
+    "lang": "zh",
     "lemma": "理想",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǐxiǎng"
+    },
     "meanings": {
       "ko": "이상적인",
       "en": "ideal",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "理想",
-      "ru": ""
+      "de": "ideal",
+      "es": "ideal",
+      "fr": "idéal",
+      "it": "ideale",
+      "pt": "ideal",
+      "ja": "理想的な",
+      "ru": "идеальный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǐxiǎng"
-    },
-    "reading": {
-      "zh": "lǐxiǎng"
     }
   },
   {
     "id": "zh_921",
+    "lang": "zh",
     "lemma": "理解",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǐjiě"
+    },
     "meanings": {
       "ko": "이해하다",
       "en": "understand",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "理解",
-      "ru": ""
+      "de": "verstehen",
+      "es": "comprender",
+      "fr": "comprendre",
+      "it": "capire",
+      "pt": "compreender",
+      "ja": "理解する",
+      "ru": "понимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǐjiě"
-    },
-    "infinitive": "理解",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "lǐjiě"
     }
   },
   {
     "id": "zh_922",
+    "lang": "zh",
     "lemma": "甚至",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shènzhì"
+    },
     "meanings": {
       "ko": "심지어",
       "en": "even",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "甚至",
-      "ru": ""
+      "de": "sogar",
+      "es": "incluso",
+      "fr": "même",
+      "it": "persino",
+      "pt": "até",
+      "ja": "さえ",
+      "ru": "даже"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shènzhì"
-    },
-    "reading": {
-      "zh": "shènzhì"
     }
   },
   {
     "id": "zh_923",
+    "lang": "zh",
     "lemma": "生命",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shēngmìng"
+    },
     "meanings": {
       "ko": "생명",
       "en": "life",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "生命",
-      "ru": ""
+      "de": "das Leben",
+      "es": "la vida",
+      "fr": "la vie",
+      "it": "la vita",
+      "pt": "a vida",
+      "ja": "生命",
+      "ru": "жизнь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shēngmìng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shēngmìng"
     }
   },
   {
     "id": "zh_924",
+    "lang": "zh",
     "lemma": "生意",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "zh": "shēngyi"
+    },
     "meanings": {
       "ko": "사업",
       "en": "business",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "生意",
-      "ru": ""
+      "de": "das Geschäft",
+      "es": "el negocio",
+      "fr": "les affaires",
+      "it": "gli affari",
+      "pt": "o negócio",
+      "ja": "商売",
+      "ru": "бизнес"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shēngyi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shēngyi"
     }
   },
   {
     "id": "zh_925",
+    "lang": "zh",
     "lemma": "生活",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shēnghuó"
+    },
     "meanings": {
       "ko": "생활",
       "en": "life",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "生活",
-      "ru": ""
+      "de": "das Leben",
+      "es": "la vida",
+      "fr": "la vie",
+      "it": "la vita",
+      "pt": "a vida",
+      "ja": "生活",
+      "ru": "жизнь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shēnghuó"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shēnghuó"
     }
   },
   {
     "id": "zh_926",
+    "lang": "zh",
     "lemma": "申请",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shēnqǐng"
+    },
     "meanings": {
       "ko": "신청하다",
       "en": "apply",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "申请",
-      "ru": ""
+      "de": "beantragen",
+      "es": "solicitar",
+      "fr": "postuler",
+      "it": "richiedere",
+      "pt": "solicitar",
+      "ja": "申請する",
+      "ru": "подавать заявление"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shēnqǐng"
-    },
-    "infinitive": "申请",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shēnqǐng"
     }
   },
   {
     "id": "zh_927",
+    "lang": "zh",
     "lemma": "留",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "liú"
+    },
     "meanings": {
       "ko": "남기다",
       "en": "leave",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "留",
-      "ru": ""
+      "de": "lassen",
+      "es": "dejar",
+      "fr": "laisser",
+      "it": "lasciare",
+      "pt": "deixar",
+      "ja": "残す",
+      "ru": "оставлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "liú"
-    },
-    "infinitive": "留",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "liú"
     }
   },
   {
     "id": "zh_928",
+    "lang": "zh",
     "lemma": "登机牌",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dēngjīpái"
+    },
     "meanings": {
       "ko": "탑승권",
       "en": "boarding pass",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "登机牌",
-      "ru": ""
+      "de": "die Bordkarte",
+      "es": "la tarjeta de embarque",
+      "fr": "la carte d'embarquement",
+      "it": "la carta d'imbarco",
+      "pt": "o cartão de embarque",
+      "ja": "搭乗券",
+      "ru": "посадочный талон"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dēngjīpái"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dēngjīpái"
     }
   },
   {
     "id": "zh_929",
+    "lang": "zh",
     "lemma": "百分之",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bǎifēnzhī"
+    },
     "meanings": {
       "ko": "퍼센트",
       "en": "percent",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "百分之",
-      "ru": ""
+      "de": "das Prozent",
+      "es": "el por ciento",
+      "fr": "le pour cent",
+      "it": "la percentuale",
+      "pt": "a porcentagem",
+      "ja": "パーセント",
+      "ru": "процент"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bǎifēnzhī"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "bǎifēnzhī"
     }
   },
   {
     "id": "zh_930",
+    "lang": "zh",
     "lemma": "皮肤",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pífū"
+    },
     "meanings": {
       "ko": "피부",
       "en": "skin",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "皮肤",
-      "ru": ""
+      "de": "die Haut",
+      "es": "la piel",
+      "fr": "la peau",
+      "it": "la pelle",
+      "pt": "a pele",
+      "ja": "皮膚",
+      "ru": "кожа"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pífū"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "pífū"
     }
   },
   {
     "id": "zh_931",
+    "lang": "zh",
     "lemma": "盐",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yán"
+    },
     "meanings": {
       "ko": "소금",
       "en": "salt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "盐",
-      "ru": ""
+      "de": "das Salz",
+      "es": "la sal",
+      "fr": "le sel",
+      "it": "il sale",
+      "pt": "o sal",
+      "ja": "塩",
+      "ru": "соль"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yán"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yán"
     }
   },
   {
     "id": "zh_932",
+    "lang": "zh",
     "lemma": "盒子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "hézi"
+    },
     "meanings": {
       "ko": "상자",
       "en": "box",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "盒子",
-      "ru": ""
+      "de": "die Schachtel",
+      "es": "la caja",
+      "fr": "la boîte",
+      "it": "la scatola",
+      "pt": "a caixa",
+      "ja": "箱",
+      "ru": "коробка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hézi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hézi"
     }
   },
   {
     "id": "zh_933",
+    "lang": "zh",
     "lemma": "目的",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mùdì"
+    },
     "meanings": {
       "ko": "목적",
       "en": "purpose",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "目的",
-      "ru": ""
+      "de": "der Zweck",
+      "es": "el propósito",
+      "fr": "le but",
+      "it": "lo scopo",
+      "pt": "o propósito",
+      "ja": "目的",
+      "ru": "цель"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mùdì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "mùdì"
     }
   },
   {
     "id": "zh_934",
+    "lang": "zh",
     "lemma": "直接",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhíjiē"
+    },
     "meanings": {
       "ko": "직접적인",
       "en": "direct",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "直接",
-      "ru": ""
+      "de": "direkt",
+      "es": "directo",
+      "fr": "direct",
+      "it": "diretto",
+      "pt": "direto",
+      "ja": "直接の",
+      "ru": "прямой"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhíjiē"
-    },
-    "reading": {
-      "zh": "zhíjiē"
     }
   },
   {
     "id": "zh_935",
+    "lang": "zh",
     "lemma": "相反",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiāngfǎn"
+    },
     "meanings": {
       "ko": "반대되는",
       "en": "opposite",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "相反",
-      "ru": ""
+      "de": "gegenteilig",
+      "es": "opuesto",
+      "fr": "opposé",
+      "it": "opposto",
+      "pt": "oposto",
+      "ja": "反対の",
+      "ru": "противоположный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiāngfǎn"
-    },
-    "reading": {
-      "zh": "xiāngfǎn"
     }
   },
   {
     "id": "zh_936",
+    "lang": "zh",
     "lemma": "相同",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiāngtóng"
+    },
     "meanings": {
       "ko": "동일한",
       "en": "same",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "相同",
-      "ru": ""
+      "de": "gleich",
+      "es": "igual",
+      "fr": "identique",
+      "it": "uguale",
+      "pt": "igual",
+      "ja": "同じ",
+      "ru": "одинаковый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiāngtóng"
-    },
-    "reading": {
-      "zh": "xiāngtóng"
     }
   },
   {
     "id": "zh_937",
+    "lang": "zh",
     "lemma": "省",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shěng"
+    },
     "meanings": {
       "ko": "절약하다",
       "en": "save",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "省",
-      "ru": ""
+      "de": "sparen",
+      "es": "ahorrar",
+      "fr": "économiser",
+      "it": "risparmiare",
+      "pt": "economizar",
+      "ja": "節約する",
+      "ru": "экономить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shěng"
-    },
-    "infinitive": "省",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shěng"
     }
   },
   {
     "id": "zh_938",
+    "lang": "zh",
     "lemma": "看法",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kànfǎ"
+    },
     "meanings": {
       "ko": "견해",
       "en": "opinion",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "看法",
-      "ru": ""
+      "de": "die Meinung",
+      "es": "la opinión",
+      "fr": "l'avis",
+      "it": "l'opinione",
+      "pt": "a opinião",
+      "ja": "見解",
+      "ru": "мнение"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kànfǎ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kànfǎ"
     }
   },
   {
     "id": "zh_939",
+    "lang": "zh",
     "lemma": "真正",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhēnzhèng"
+    },
     "meanings": {
       "ko": "진정한",
       "en": "genuine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "真正",
-      "ru": ""
+      "de": "echt",
+      "es": "verdadero",
+      "fr": "véritable",
+      "it": "vero",
+      "pt": "verdadeiro",
+      "ja": "本当の",
+      "ru": "настоящий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhēnzhèng"
-    },
-    "reading": {
-      "zh": "zhēnzhèng"
     }
   },
   {
     "id": "zh_940",
+    "lang": "zh",
     "lemma": "眼镜",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǎnjìng"
+    },
     "meanings": {
       "ko": "안경",
       "en": "glasses",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "眼镜",
-      "ru": ""
+      "de": "die Brille",
+      "es": "las gafas",
+      "fr": "les lunettes",
+      "it": "gli occhiali",
+      "pt": "os óculos",
+      "ja": "眼鏡",
+      "ru": "очки"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǎnjìng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yǎnjìng"
     }
   },
   {
     "id": "zh_941",
+    "lang": "zh",
     "lemma": "知识",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "zhīshi"
+    },
     "meanings": {
       "ko": "지식",
       "en": "knowledge",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "知识",
-      "ru": ""
+      "de": "das Wissen",
+      "es": "el conocimiento",
+      "fr": "la connaissance",
+      "it": "la conoscenza",
+      "pt": "o conhecimento",
+      "ja": "知識",
+      "ru": "знание"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhīshi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zhīshi"
     }
   },
   {
     "id": "zh_942",
+    "lang": "zh",
     "lemma": "短信",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "duǎnxìn"
+    },
     "meanings": {
       "ko": "문자 메시지",
       "en": "text message",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "短信",
-      "ru": ""
+      "de": "die SMS",
+      "es": "el mensaje de texto",
+      "fr": "le SMS",
+      "it": "il messaggio",
+      "pt": "a mensagem de texto",
+      "ja": "ショートメッセージ",
+      "ru": "СМС"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "duǎnxìn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "duǎnxìn"
     }
   },
   {
     "id": "zh_943",
+    "lang": "zh",
     "lemma": "矿泉水",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "kuàngquánshuǐ"
+    },
     "meanings": {
       "ko": "생수",
       "en": "mineral water",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "矿泉水",
-      "ru": ""
+      "de": "das Mineralwasser",
+      "es": "el agua mineral",
+      "fr": "l'eau minérale",
+      "it": "l'acqua minerale",
+      "pt": "a água mineral",
+      "ja": "ミネラルウォーター",
+      "ru": "минеральная вода"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kuàngquánshuǐ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kuàngquánshuǐ"
     }
   },
   {
     "id": "zh_944",
+    "lang": "zh",
     "lemma": "研究",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yánjiū"
+    },
     "meanings": {
       "ko": "연구하다",
       "en": "research",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "研究",
-      "ru": ""
+      "de": "forschen",
+      "es": "investigar",
+      "fr": "rechercher",
+      "it": "ricercare",
+      "pt": "pesquisar",
+      "ja": "研究する",
+      "ru": "исследовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yánjiū"
-    },
-    "infinitive": "研究",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yánjiū"
     }
   },
   {
     "id": "zh_945",
+    "lang": "zh",
     "lemma": "破",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pò"
+    },
     "meanings": {
       "ko": "깨진",
       "en": "broken",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "破",
-      "ru": ""
+      "de": "kaputt",
+      "es": "roto",
+      "fr": "cassé",
+      "it": "rotto",
+      "pt": "quebrado",
+      "ja": "壊れた",
+      "ru": "сломанный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pò"
-    },
-    "reading": {
-      "zh": "pò"
     }
   },
   {
     "id": "zh_946",
+    "lang": "zh",
     "lemma": "硕士",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shuòshì"
+    },
     "meanings": {
       "ko": "석사",
       "en": "master's degree",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "硕士",
-      "ru": ""
+      "de": "der Masterabschluss",
+      "es": "la maestría",
+      "fr": "le master",
+      "it": "il master",
+      "pt": "o mestrado",
+      "ja": "修士号",
+      "ru": "степень магистра"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shuòshì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shuòshì"
     }
   },
   {
     "id": "zh_947",
+    "lang": "zh",
     "lemma": "确实",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "quèshí"
+    },
     "meanings": {
       "ko": "확실한",
       "en": "indeed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "确实",
-      "ru": ""
+      "de": "tatsächlich",
+      "es": "de hecho",
+      "fr": "en effet",
+      "it": "davvero",
+      "pt": "de fato",
+      "ja": "確かに",
+      "ru": "действительно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "quèshí"
-    },
-    "reading": {
-      "zh": "quèshí"
     }
   },
   {
     "id": "zh_948",
+    "lang": "zh",
     "lemma": "礼拜天",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǐbàitiān"
+    },
     "meanings": {
       "ko": "일요일",
       "en": "sunday",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "礼拜天",
-      "ru": ""
+      "de": "der Sonntag",
+      "es": "el domingo",
+      "fr": "le dimanche",
+      "it": "la domenica",
+      "pt": "o domingo",
+      "ja": "日曜日",
+      "ru": "воскресенье"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǐbàitiān"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lǐbàitiān"
     }
   },
   {
     "id": "zh_949",
+    "lang": "zh",
     "lemma": "礼貌",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǐmào"
+    },
     "meanings": {
       "ko": "예의",
       "en": "courtesy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "礼貌",
-      "ru": ""
+      "de": "die Höflichkeit",
+      "es": "la cortesía",
+      "fr": "la politesse",
+      "it": "la cortesia",
+      "pt": "a cortesia",
+      "ja": "礼儀",
+      "ru": "вежливость"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǐmào"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lǐmào"
     }
   },
   {
     "id": "zh_950",
+    "lang": "zh",
     "lemma": "社会",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shèhuì"
+    },
     "meanings": {
       "ko": "사회",
       "en": "society",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "社会",
-      "ru": ""
+      "de": "die Gesellschaft",
+      "es": "la sociedad",
+      "fr": "la société",
+      "it": "la società",
+      "pt": "a sociedade",
+      "ja": "社会",
+      "ru": "общество"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shèhuì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shèhuì"
     }
   },
   {
     "id": "zh_951",
+    "lang": "zh",
     "lemma": "祝贺",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhùhè"
+    },
     "meanings": {
       "ko": "축하하다",
       "en": "congratulate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "祝贺",
-      "ru": ""
+      "de": "gratulieren",
+      "es": "felicitar",
+      "fr": "féliciter",
+      "it": "congratularsi",
+      "pt": "parabenizar",
+      "ja": "祝う",
+      "ru": "поздравлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhùhè"
-    },
-    "infinitive": "祝贺",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhùhè"
     }
   },
   {
     "id": "zh_952",
+    "lang": "zh",
     "lemma": "禁止",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìnzhǐ"
+    },
     "meanings": {
       "ko": "금지하다",
       "en": "prohibit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "禁止",
-      "ru": ""
+      "de": "verbieten",
+      "es": "prohibir",
+      "fr": "interdire",
+      "it": "proibire",
+      "pt": "proibir",
+      "ja": "禁止する",
+      "ru": "запрещать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìnzhǐ"
-    },
-    "infinitive": "禁止",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jìnzhǐ"
     }
   },
   {
     "id": "zh_953",
+    "lang": "zh",
     "lemma": "科学",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kēxué"
+    },
     "meanings": {
       "ko": "과학",
       "en": "science",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "科学",
-      "ru": ""
+      "de": "die Wissenschaft",
+      "es": "la ciencia",
+      "fr": "la science",
+      "it": "la scienza",
+      "pt": "a ciência",
+      "ja": "科学",
+      "ru": "наука"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kēxué"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kēxué"
     }
   },
   {
     "id": "zh_954",
+    "lang": "zh",
     "lemma": "秒",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "miǎo"
+    },
     "meanings": {
       "ko": "초",
       "en": "second",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "秒",
-      "ru": ""
+      "de": "die Sekunde",
+      "es": "el segundo",
+      "fr": "la seconde",
+      "it": "il secondo",
+      "pt": "o segundo",
+      "ja": "秒",
+      "ru": "секунда"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "miǎo"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "miǎo"
     }
   },
   {
     "id": "zh_955",
+    "lang": "zh",
     "lemma": "租",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zū"
+    },
     "meanings": {
       "ko": "임대하다",
       "en": "rent",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "租",
-      "ru": ""
+      "de": "mieten",
+      "es": "alquilar",
+      "fr": "louer",
+      "it": "affittare",
+      "pt": "alugar",
+      "ja": "借りる",
+      "ru": "арендовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zū"
-    },
-    "infinitive": "租",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zū"
     }
   },
   {
     "id": "zh_956",
+    "lang": "zh",
     "lemma": "积极",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jījí"
+    },
     "meanings": {
       "ko": "적극적인",
       "en": "active",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "积极",
-      "ru": ""
+      "de": "aktiv",
+      "es": "activo",
+      "fr": "actif",
+      "it": "attivo",
+      "pt": "ativo",
+      "ja": "積極的な",
+      "ru": "активный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jījí"
-    },
-    "reading": {
-      "zh": "jījí"
     }
   },
   {
     "id": "zh_957",
+    "lang": "zh",
     "lemma": "积累",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīlěi"
+    },
     "meanings": {
       "ko": "축적하다",
       "en": "accumulate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "积累",
-      "ru": ""
+      "de": "ansammeln",
+      "es": "acumular",
+      "fr": "accumuler",
+      "it": "accumulare",
+      "pt": "acumular",
+      "ja": "蓄積する",
+      "ru": "накапливать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīlěi"
-    },
-    "infinitive": "积累",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jīlěi"
     }
   },
   {
     "id": "zh_958",
+    "lang": "zh",
     "lemma": "稍微",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shāowēi"
+    },
     "meanings": {
       "ko": "조금",
       "en": "slightly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "稍微",
-      "ru": ""
+      "de": "leicht",
+      "es": "ligeramente",
+      "fr": "légèrement",
+      "it": "leggermente",
+      "pt": "ligeiramente",
+      "ja": "少し",
+      "ru": "немного"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shāowēi"
-    },
-    "reading": {
-      "zh": "shāowēi"
     }
   },
   {
     "id": "zh_959",
+    "lang": "zh",
     "lemma": "究竟",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiūjìng"
+    },
     "meanings": {
       "ko": "결국",
       "en": "after all",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "究竟",
-      "ru": ""
+      "de": "schließlich",
+      "es": "al fin y al cabo",
+      "fr": "après tout",
+      "it": "dopotutto",
+      "pt": "afinal",
+      "ja": "結局",
+      "ru": "в конце концов"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiūjìng"
-    },
-    "reading": {
-      "zh": "jiūjìng"
     }
   },
   {
     "id": "zh_960",
+    "lang": "zh",
     "lemma": "穷",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qióng"
+    },
     "meanings": {
       "ko": "가난한",
       "en": "poor",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "穷",
-      "ru": ""
+      "de": "arm",
+      "es": "pobre",
+      "fr": "pauvre",
+      "it": "povero",
+      "pt": "pobre",
+      "ja": "貧しい",
+      "ru": "бедный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qióng"
-    },
-    "reading": {
-      "zh": "qióng"
     }
   },
   {
     "id": "zh_961",
+    "lang": "zh",
     "lemma": "空",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kōng"
+    },
     "meanings": {
       "ko": "비어 있는",
       "en": "empty",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "空",
-      "ru": ""
+      "de": "leer",
+      "es": "vacío",
+      "fr": "vide",
+      "it": "vuoto",
+      "pt": "vazio",
+      "ja": "空の",
+      "ru": "пустой"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kōng"
-    },
-    "reading": {
-      "zh": "kōng"
     }
   },
   {
     "id": "zh_962",
+    "lang": "zh",
     "lemma": "空气",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kōngqì"
+    },
     "meanings": {
       "ko": "공기",
       "en": "air",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "空气",
-      "ru": ""
+      "de": "die Luft",
+      "es": "el aire",
+      "fr": "l'air",
+      "it": "l'aria",
+      "pt": "o ar",
+      "ja": "空気",
+      "ru": "воздух"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kōngqì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "kōngqì"
     }
   },
   {
     "id": "zh_963",
+    "lang": "zh",
     "lemma": "窗户",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "chuānghu"
+    },
     "meanings": {
       "ko": "창문",
       "en": "window",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "窗户",
-      "ru": ""
+      "de": "das Fenster",
+      "es": "la ventana",
+      "fr": "la fenêtre",
+      "it": "la finestra",
+      "pt": "a janela",
+      "ja": "窓",
+      "ru": "окно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chuānghu"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "chuānghu"
     }
   },
   {
     "id": "zh_964",
+    "lang": "zh",
     "lemma": "竞争",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìngzhēng"
+    },
     "meanings": {
       "ko": "경쟁하다",
       "en": "compete",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "竞争",
-      "ru": ""
+      "de": "konkurrieren",
+      "es": "competir",
+      "fr": "concourir",
+      "it": "competere",
+      "pt": "competir",
+      "ja": "競争する",
+      "ru": "конкурировать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìngzhēng"
-    },
-    "infinitive": "竞争",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jìngzhēng"
     }
   },
   {
     "id": "zh_965",
+    "lang": "zh",
     "lemma": "竟然",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìngrán"
+    },
     "meanings": {
       "ko": "뜻밖에",
       "en": "unexpectedly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "竟然",
-      "ru": ""
+      "de": "unerwartet",
+      "es": "inesperadamente",
+      "fr": "étonnamment",
+      "it": "inaspettatamente",
+      "pt": "inesperadamente",
+      "ja": "意外にも",
+      "ru": "неожиданно"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìngrán"
-    },
-    "reading": {
-      "zh": "jìngrán"
     }
   },
   {
     "id": "zh_966",
+    "lang": "zh",
     "lemma": "笑话",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiàohua"
+    },
     "meanings": {
       "ko": "농담",
       "en": "joke",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "笑话",
-      "ru": ""
+      "de": "der Witz",
+      "es": "el chiste",
+      "fr": "la blague",
+      "it": "la barzelletta",
+      "pt": "a piada",
+      "ja": "冗談",
+      "ru": "шутка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiàohua"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xiàohua"
     }
   },
   {
     "id": "zh_967",
+    "lang": "zh",
     "lemma": "符合",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "fúhé"
+    },
     "meanings": {
       "ko": "부합하다",
       "en": "conform",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "符合",
-      "ru": ""
+      "de": "entsprechen",
+      "es": "conformar",
+      "fr": "se conformer",
+      "it": "conformarsi",
+      "pt": "conformar",
+      "ja": "合致する",
+      "ru": "соответствовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fúhé"
-    },
-    "infinitive": "符合",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fúhé"
     }
   },
   {
     "id": "zh_968",
+    "lang": "zh",
     "lemma": "笨",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bèn"
+    },
     "meanings": {
       "ko": "어리석은",
       "en": "stupid",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "笨",
-      "ru": ""
+      "de": "dumm",
+      "es": "tonto",
+      "fr": "stupide",
+      "it": "stupido",
+      "pt": "estúpido",
+      "ja": "愚かな",
+      "ru": "глупый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bèn"
-    },
-    "reading": {
-      "zh": "bèn"
     }
   },
   {
     "id": "zh_969",
+    "lang": "zh",
     "lemma": "答案",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "dá'àn"
+    },
     "meanings": {
       "ko": "답",
       "en": "answer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "答案",
-      "ru": ""
+      "de": "die Antwort",
+      "es": "la respuesta",
+      "fr": "la réponse",
+      "it": "la risposta",
+      "pt": "a resposta",
+      "ja": "答え",
+      "ru": "ответ"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dá'àn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dá'àn"
     }
   },
   {
     "id": "zh_970",
+    "lang": "zh",
     "lemma": "签证",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qiānzhèng"
+    },
     "meanings": {
       "ko": "비자",
       "en": "visa",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "签证",
-      "ru": ""
+      "de": "das Visum",
+      "es": "el visado",
+      "fr": "le visa",
+      "it": "il visto",
+      "pt": "o visto",
+      "ja": "ビザ",
+      "ru": "виза"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qiānzhèng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "qiānzhèng"
     }
   },
   {
     "id": "zh_971",
+    "lang": "zh",
     "lemma": "管理",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guǎnlǐ"
+    },
     "meanings": {
       "ko": "관리하다",
       "en": "manage",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "管理",
-      "ru": ""
+      "de": "verwalten",
+      "es": "gestionar",
+      "fr": "gérer",
+      "it": "gestire",
+      "pt": "gerenciar",
+      "ja": "管理する",
+      "ru": "управлять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guǎnlǐ"
-    },
-    "infinitive": "管理",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "guǎnlǐ"
     }
   },
   {
     "id": "zh_972",
+    "lang": "zh",
     "lemma": "粗心",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "cūxīn"
+    },
     "meanings": {
       "ko": "부주의한",
       "en": "careless",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "粗心",
-      "ru": ""
+      "de": "unvorsichtig",
+      "es": "descuidado",
+      "fr": "négligent",
+      "it": "sbadato",
+      "pt": "descuidado",
+      "ja": "不注意な",
+      "ru": "небрежный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cūxīn"
-    },
-    "reading": {
-      "zh": "cūxīn"
     }
   },
   {
     "id": "zh_973",
+    "lang": "zh",
     "lemma": "精彩",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīngcǎi"
+    },
     "meanings": {
       "ko": "훌륭한",
       "en": "brilliant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "精彩",
-      "ru": ""
+      "de": "brillant",
+      "es": "brillante",
+      "fr": "brillant",
+      "it": "brillante",
+      "pt": "brilhante",
+      "ja": "素晴らしい",
+      "ru": "блестящий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīngcǎi"
-    },
-    "reading": {
-      "zh": "jīngcǎi"
     }
   },
   {
     "id": "zh_974",
+    "lang": "zh",
     "lemma": "糖",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "táng"
+    },
     "meanings": {
       "ko": "설탕",
       "en": "sugar",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "糖",
-      "ru": ""
+      "de": "der Zucker",
+      "es": "el azúcar",
+      "fr": "le sucre",
+      "it": "lo zucchero",
+      "pt": "o açúcar",
+      "ja": "砂糖",
+      "ru": "сахар"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "táng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "táng"
     }
   },
   {
     "id": "zh_975",
+    "lang": "zh",
     "lemma": "紧张",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jǐnzhāng"
+    },
     "meanings": {
       "ko": "긴장한",
       "en": "nervous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "紧张",
-      "ru": ""
+      "de": "nervös",
+      "es": "nervioso",
+      "fr": "nerveux",
+      "it": "nervoso",
+      "pt": "nervoso",
+      "ja": "緊張した",
+      "ru": "нервный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jǐnzhāng"
-    },
-    "reading": {
-      "zh": "jǐnzhāng"
     }
   },
   {
     "id": "zh_976",
+    "lang": "zh",
     "lemma": "约会",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yuēhuì"
+    },
     "meanings": {
       "ko": "약속",
       "en": "appointment",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "约会",
-      "ru": ""
+      "de": "der Termin",
+      "es": "la cita",
+      "fr": "le rendez-vous",
+      "it": "l'appuntamento",
+      "pt": "o encontro",
+      "ja": "約束",
+      "ru": "свидание"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yuēhuì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yuēhuì"
     }
   },
   {
     "id": "zh_977",
+    "lang": "zh",
     "lemma": "经历",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīnglì"
+    },
     "meanings": {
       "ko": "경험하다",
       "en": "experience",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "经历",
-      "ru": ""
+      "de": "erleben",
+      "es": "experimentar",
+      "fr": "expérimenter",
+      "it": "sperimentare",
+      "pt": "experimentar",
+      "ja": "経験する",
+      "ru": "переживать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīnglì"
-    },
-    "infinitive": "经历",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jīnglì"
     }
   },
   {
     "id": "zh_978",
+    "lang": "zh",
     "lemma": "经济",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīngjì"
+    },
     "meanings": {
       "ko": "경제",
       "en": "economy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "经济",
-      "ru": ""
+      "de": "die Wirtschaft",
+      "es": "la economía",
+      "fr": "l'économie",
+      "it": "l'economia",
+      "pt": "a economia",
+      "ja": "経済",
+      "ru": "экономика"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīngjì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jīngjì"
     }
   },
   {
     "id": "zh_979",
+    "lang": "zh",
     "lemma": "经验",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jīngyàn"
+    },
     "meanings": {
       "ko": "경험",
       "en": "experience",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "经验",
-      "ru": ""
+      "de": "die Erfahrung",
+      "es": "la experiencia",
+      "fr": "l'expérience",
+      "it": "l'esperienza",
+      "pt": "a experiência",
+      "ja": "経験",
+      "ru": "опыт"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jīngyàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jīngyàn"
     }
   },
   {
     "id": "zh_980",
+    "lang": "zh",
     "lemma": "结果",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiéguǒ"
+    },
     "meanings": {
       "ko": "결과",
       "en": "result",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "结果",
-      "ru": ""
+      "de": "das Ergebnis",
+      "es": "el resultado",
+      "fr": "le résultat",
+      "it": "il risultato",
+      "pt": "o resultado",
+      "ja": "結果",
+      "ru": "результат"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiéguǒ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiéguǒ"
     }
   },
   {
     "id": "zh_981",
+    "lang": "zh",
     "lemma": "继续",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìxù"
+    },
     "meanings": {
       "ko": "계속하다",
       "en": "continue",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "继续",
-      "ru": ""
+      "de": "fortsetzen",
+      "es": "continuar",
+      "fr": "continuer",
+      "it": "continuare",
+      "pt": "continuar",
+      "ja": "続ける",
+      "ru": "продолжать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìxù"
-    },
-    "infinitive": "继续",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jìxù"
     }
   },
   {
     "id": "zh_982",
+    "lang": "zh",
     "lemma": "缺少",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "quēshǎo"
+    },
     "meanings": {
       "ko": "부족하다",
       "en": "lack",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "缺少",
-      "ru": ""
+      "de": "fehlen",
+      "es": "carecer",
+      "fr": "manquer",
+      "it": "mancare",
+      "pt": "faltar",
+      "ja": "欠ける",
+      "ru": "не хватать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "quēshǎo"
-    },
-    "infinitive": "缺少",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "quēshǎo"
     }
   },
   {
     "id": "zh_983",
+    "lang": "zh",
     "lemma": "缺点",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "quēdiǎn"
+    },
     "meanings": {
       "ko": "단점",
       "en": "shortcoming",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "缺点",
-      "ru": ""
+      "de": "der Mangel",
+      "es": "el defecto",
+      "fr": "le défaut",
+      "it": "il difetto",
+      "pt": "o defeito",
+      "ja": "欠点",
+      "ru": "недостаток"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "quēdiǎn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "quēdiǎn"
     }
   },
   {
     "id": "zh_984",
+    "lang": "zh",
     "lemma": "网球",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wǎngqiú"
+    },
     "meanings": {
       "ko": "테니스",
       "en": "tennis",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "网球",
-      "ru": ""
+      "de": "das Tennis",
+      "es": "el tenis",
+      "fr": "le tennis",
+      "it": "il tennis",
+      "pt": "o tênis",
+      "ja": "テニス",
+      "ru": "теннис"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wǎngqiú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wǎngqiú"
     }
   },
   {
     "id": "zh_985",
+    "lang": "zh",
     "lemma": "网站",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "wǎngzhàn"
+    },
     "meanings": {
       "ko": "웹사이트",
       "en": "website",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "网站",
-      "ru": ""
+      "de": "die Webseite",
+      "es": "el sitio web",
+      "fr": "le site web",
+      "it": "il sito web",
+      "pt": "o site",
+      "ja": "ウェブサイト",
+      "ru": "веб-сайт"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wǎngzhàn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wǎngzhàn"
     }
   },
   {
     "id": "zh_986",
+    "lang": "zh",
     "lemma": "美丽",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "měilì"
+    },
     "meanings": {
       "ko": "아름다운",
       "en": "beautiful",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "美丽",
-      "ru": ""
+      "de": "schön",
+      "es": "hermoso",
+      "fr": "beau",
+      "it": "bello",
+      "pt": "bonito",
+      "ja": "美しい",
+      "ru": "красивый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "měilì"
-    },
-    "reading": {
-      "zh": "měilì"
     }
   },
   {
     "id": "zh_987",
+    "lang": "zh",
     "lemma": "羡慕",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiànmù"
+    },
     "meanings": {
       "ko": "부러워하다",
       "en": "envy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "羡慕",
-      "ru": ""
+      "de": "beneiden",
+      "es": "envidiar",
+      "fr": "envier",
+      "it": "invidiare",
+      "pt": "invejar",
+      "ja": "うらやむ",
+      "ru": "завидовать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiànmù"
-    },
-    "infinitive": "羡慕",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "xiànmù"
     }
   },
   {
     "id": "zh_988",
+    "lang": "zh",
     "lemma": "羽毛球",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "yǔmáoqiú"
+    },
     "meanings": {
       "ko": "배드민턴",
       "en": "badminton",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "羽毛球",
-      "ru": ""
+      "de": "das Badminton",
+      "es": "el bádminton",
+      "fr": "le badminton",
+      "it": "il badminton",
+      "pt": "o badminton",
+      "ja": "バドミントン",
+      "ru": "бадминтон"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǔmáoqiú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yǔmáoqiú"
     }
   },
   {
     "id": "zh_989",
+    "lang": "zh",
     "lemma": "翻译",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "zh": "fānyì"
+    },
     "meanings": {
       "ko": "번역하다",
       "en": "translate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "翻译",
-      "ru": ""
+      "de": "übersetzen",
+      "es": "traducir",
+      "fr": "traduire",
+      "it": "tradurre",
+      "pt": "traduzir",
+      "ja": "翻訳する",
+      "ru": "переводить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "fānyì"
-    },
-    "infinitive": "翻译",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "fānyì"
     }
   },
   {
     "id": "zh_990",
+    "lang": "zh",
     "lemma": "老虎",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "lǎohǔ"
+    },
     "meanings": {
       "ko": "호랑이",
       "en": "tiger",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "老虎",
-      "ru": ""
+      "de": "der Tiger",
+      "es": "el tigre",
+      "fr": "le tigre",
+      "it": "la tigre",
+      "pt": "o tigre",
+      "ja": "虎",
+      "ru": "тигр"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "lǎohǔ"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "lǎohǔ"
     }
   },
   {
     "id": "zh_991",
+    "lang": "zh",
     "lemma": "考虑",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kǎolǜ"
+    },
     "meanings": {
       "ko": "고려하다",
       "en": "consider",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "考虑",
-      "ru": ""
+      "de": "überlegen",
+      "es": "considerar",
+      "fr": "considérer",
+      "it": "considerare",
+      "pt": "considerar",
+      "ja": "考慮する",
+      "ru": "обдумывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kǎolǜ"
-    },
-    "infinitive": "考虑",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "kǎolǜ"
     }
   },
   {
     "id": "zh_992",
+    "lang": "zh",
     "lemma": "而",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "그리고",
-      "en": "and, but",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "而",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "ér"
-    },
     "reading": {
       "zh": "ér"
+    },
+    "meanings": {
+      "ko": "그리고",
+      "en": "and",
+      "zh": "而",
+      "de": "aber",
+      "es": "y",
+      "fr": "et",
+      "it": "e",
+      "pt": "e",
+      "ja": "そして",
+      "ru": "а"
+    },
+    "meta": {
+      "zh_pinyin": "ér"
     }
   },
   {
     "id": "zh_993",
+    "lang": "zh",
     "lemma": "耐心",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "nàixīn"
+    },
     "meanings": {
       "ko": "인내심 있는",
       "en": "patient",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "耐心",
-      "ru": ""
+      "de": "geduldig",
+      "es": "paciente",
+      "fr": "patient",
+      "it": "paziente",
+      "pt": "paciente",
+      "ja": "忍耐強い",
+      "ru": "терпеливый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "nàixīn"
-    },
-    "reading": {
-      "zh": "nàixīn"
     }
   },
   {
     "id": "zh_994",
+    "lang": "zh",
     "lemma": "职业",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhíyè"
+    },
     "meanings": {
       "ko": "직업",
       "en": "profession",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "职业",
-      "ru": ""
+      "de": "der Beruf",
+      "es": "la profesión",
+      "fr": "la profession",
+      "it": "la professione",
+      "pt": "a profissão",
+      "ja": "職業",
+      "ru": "профессия"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhíyè"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zhíyè"
     }
   },
   {
     "id": "zh_995",
+    "lang": "zh",
     "lemma": "联系",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "liánxì"
+    },
     "meanings": {
       "ko": "연락하다",
       "en": "contact",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "联系",
-      "ru": ""
+      "de": "kontaktieren",
+      "es": "contactar",
+      "fr": "contacter",
+      "it": "contattare",
+      "pt": "contatar",
+      "ja": "連絡する",
+      "ru": "связываться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "liánxì"
-    },
-    "infinitive": "联系",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "liánxì"
     }
   },
   {
     "id": "zh_996",
+    "lang": "zh",
     "lemma": "聚会",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jùhuì"
+    },
     "meanings": {
       "ko": "모임",
       "en": "party",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "聚会",
-      "ru": ""
+      "de": "die Party",
+      "es": "la fiesta",
+      "fr": "la fête",
+      "it": "la festa",
+      "pt": "a festa",
+      "ja": "パーティー",
+      "ru": "вечеринка"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jùhuì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jùhuì"
     }
   },
   {
     "id": "zh_997",
+    "lang": "zh",
     "lemma": "肚子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "dùzi"
+    },
     "meanings": {
       "ko": "배",
       "en": "belly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "肚子",
-      "ru": ""
+      "de": "der Bauch",
+      "es": "el vientre",
+      "fr": "le ventre",
+      "it": "la pancia",
+      "pt": "a barriga",
+      "ja": "お腹",
+      "ru": "живот"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dùzi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "dùzi"
     }
   },
   {
     "id": "zh_998",
+    "lang": "zh",
     "lemma": "肯定",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "kěndìng"
+    },
     "meanings": {
       "ko": "확실하다",
       "en": "definite",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "肯定",
-      "ru": ""
+      "de": "bestimmt",
+      "es": "definitivo",
+      "fr": "certain",
+      "it": "certo",
+      "pt": "definitivo",
+      "ja": "確実な",
+      "ru": "определённый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "kěndìng"
-    },
-    "reading": {
-      "zh": "kěndìng"
     }
   },
   {
     "id": "zh_999",
+    "lang": "zh",
     "lemma": "胳膊",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gēbo"
+    },
     "meanings": {
       "ko": "팔",
       "en": "arm",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "胳膊",
-      "ru": ""
+      "de": "der Arm",
+      "es": "el brazo",
+      "fr": "le bras",
+      "it": "il braccio",
+      "pt": "o braço",
+      "ja": "腕",
+      "ru": "рука"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gēbo"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "gēbo"
     }
   },
   {
     "id": "zh_1000",
+    "lang": "zh",
     "lemma": "能力",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "nénglì"
+    },
     "meanings": {
       "ko": "능력",
       "en": "ability",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "能力",
-      "ru": ""
+      "de": "die Fähigkeit",
+      "es": "la habilidad",
+      "fr": "la capacité",
+      "it": "la capacità",
+      "pt": "a capacidade",
+      "ja": "能力",
+      "ru": "способность"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "nénglì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "nénglì"
     }
   },
   {
     "id": "zh_1001",
+    "lang": "zh",
     "lemma": "脏",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zāng, zàng"
+    },
     "meanings": {
       "ko": "더럽다",
       "en": "dirty",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "脏",
-      "ru": ""
+      "de": "schmutzig",
+      "es": "sucio",
+      "fr": "sale",
+      "it": "sporco",
+      "pt": "sujo",
+      "ja": "汚い",
+      "ru": "грязный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zāng, zàng"
-    },
-    "reading": {
-      "zh": "zāng, zàng"
     }
   },
   {
     "id": "zh_1002",
+    "lang": "zh",
     "lemma": "脱",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tuō"
+    },
     "meanings": {
       "ko": "벗다",
       "en": "take off",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "脱",
-      "ru": ""
+      "de": "ausziehen",
+      "es": "quitarse",
+      "fr": "enlever",
+      "it": "togliersi",
+      "pt": "tirar",
+      "ja": "脱ぐ",
+      "ru": "снимать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tuō"
-    },
-    "infinitive": "脱",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tuō"
     }
   },
   {
     "id": "zh_1003",
+    "lang": "zh",
     "lemma": "脾气",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "성질, 성격",
-      "en": "temper",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "脾气",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "píqi"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "píqi"
+    },
+    "meanings": {
+      "ko": "성질",
+      "en": "temper",
+      "zh": "脾气",
+      "de": "das Temperament",
+      "es": "el temperamento",
+      "fr": "le tempérament",
+      "it": "il carattere",
+      "pt": "o temperamento",
+      "ja": "気性",
+      "ru": "характер"
+    },
+    "meta": {
+      "zh_pinyin": "píqi"
     }
   },
   {
     "id": "zh_1004",
+    "lang": "zh",
     "lemma": "自信",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zìxìn"
+    },
     "meanings": {
       "ko": "자신감",
       "en": "self-confidence",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "自信",
-      "ru": ""
+      "de": "das Selbstvertrauen",
+      "es": "la confianza en sí mismo",
+      "fr": "la confiance en soi",
+      "it": "la fiducia in sé",
+      "pt": "a autoconfiança",
+      "ja": "自信",
+      "ru": "уверенность в себе"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zìxìn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zìxìn"
     }
   },
   {
     "id": "zh_1005",
+    "lang": "zh",
     "lemma": "自然",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zìrán"
+    },
     "meanings": {
       "ko": "자연스럽다",
       "en": "natural",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "自然",
-      "ru": ""
+      "de": "natürlich",
+      "es": "natural",
+      "fr": "naturel",
+      "it": "naturale",
+      "pt": "natural",
+      "ja": "自然な",
+      "ru": "естественный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zìrán"
-    },
-    "reading": {
-      "zh": "zìrán"
     }
   },
   {
     "id": "zh_1006",
+    "lang": "zh",
     "lemma": "至少",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "zhìshǎo"
+    },
     "meanings": {
       "ko": "적어도",
       "en": "at least",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "至少",
-      "ru": ""
+      "de": "mindestens",
+      "es": "al menos",
+      "fr": "au moins",
+      "it": "almeno",
+      "pt": "pelo menos",
+      "ja": "少なくとも",
+      "ru": "по крайней мере"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhìshǎo"
-    },
-    "reading": {
-      "zh": "zhìshǎo"
     }
   },
   {
     "id": "zh_1007",
+    "lang": "zh",
     "lemma": "航班",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "hángbān"
+    },
     "meanings": {
       "ko": "항공편",
       "en": "flight",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "航班",
-      "ru": ""
+      "de": "der Flug",
+      "es": "el vuelo",
+      "fr": "le vol",
+      "it": "il volo",
+      "pt": "o voo",
+      "ja": "フライト",
+      "ru": "рейс"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "hángbān"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "hángbān"
     }
   },
   {
     "id": "zh_1008",
+    "lang": "zh",
     "lemma": "艺术",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yìshù"
+    },
     "meanings": {
       "ko": "예술",
       "en": "art",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "艺术",
-      "ru": ""
+      "de": "die Kunst",
+      "es": "el arte",
+      "fr": "l'art",
+      "it": "l'arte",
+      "pt": "a arte",
+      "ja": "芸術",
+      "ru": "искусство"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yìshù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yìshù"
     }
   },
   {
     "id": "zh_1009",
+    "lang": "zh",
     "lemma": "节",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "명절, 절기",
-      "en": "festival",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "节",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jié"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "jié"
+    },
+    "meanings": {
+      "ko": "명절",
+      "en": "festival",
+      "zh": "节",
+      "de": "das Fest",
+      "es": "la fiesta",
+      "fr": "la fête",
+      "it": "la festa",
+      "pt": "o festival",
+      "ja": "祭り",
+      "ru": "праздник"
+    },
+    "meta": {
+      "zh_pinyin": "jié"
     }
   },
   {
     "id": "zh_1010",
+    "lang": "zh",
     "lemma": "节约",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiéyuē"
+    },
     "meanings": {
       "ko": "절약하다",
       "en": "save",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "节约",
-      "ru": ""
+      "de": "sparen",
+      "es": "ahorrar",
+      "fr": "économiser",
+      "it": "risparmiare",
+      "pt": "economizar",
+      "ja": "節約する",
+      "ru": "экономить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiéyuē"
-    },
-    "infinitive": "节约",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jiéyuē"
     }
   },
   {
     "id": "zh_1011",
+    "lang": "zh",
     "lemma": "苦",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "쓰다, 괴롭다",
-      "en": "bitter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "苦",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "kǔ"
-    },
     "reading": {
       "zh": "kǔ"
+    },
+    "meanings": {
+      "ko": "쓰다",
+      "en": "bitter",
+      "zh": "苦",
+      "de": "bitter",
+      "es": "amargo",
+      "fr": "amer",
+      "it": "amaro",
+      "pt": "amargo",
+      "ja": "苦い",
+      "ru": "горький"
+    },
+    "meta": {
+      "zh_pinyin": "kǔ"
     }
   },
   {
     "id": "zh_1012",
+    "lang": "zh",
     "lemma": "获得",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "얻다, 획득하다",
-      "en": "obtain",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "获得",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "huòdé"
-    },
-    "infinitive": "获得",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "huòdé"
+    },
+    "meanings": {
+      "ko": "얻다",
+      "en": "obtain",
+      "zh": "获得",
+      "de": "erhalten",
+      "es": "obtener",
+      "fr": "obtenir",
+      "it": "ottenere",
+      "pt": "obter",
+      "ja": "獲得する",
+      "ru": "получать"
+    },
+    "meta": {
+      "zh_pinyin": "huòdé"
     }
   },
   {
     "id": "zh_1013",
+    "lang": "zh",
     "lemma": "著名",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhùmíng"
+    },
     "meanings": {
       "ko": "유명하다",
       "en": "famous",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "著名",
-      "ru": ""
+      "de": "berühmt",
+      "es": "famoso",
+      "fr": "célèbre",
+      "it": "famoso",
+      "pt": "famoso",
+      "ja": "有名な",
+      "ru": "известный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhùmíng"
-    },
-    "reading": {
-      "zh": "zhùmíng"
     }
   },
   {
     "id": "zh_1014",
+    "lang": "zh",
     "lemma": "葡萄",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "pútao"
+    },
     "meanings": {
       "ko": "포도",
       "en": "grape",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "葡萄",
-      "ru": ""
+      "de": "die Traube",
+      "es": "la uva",
+      "fr": "le raisin",
+      "it": "l'uva",
+      "pt": "a uva",
+      "ja": "ぶどう",
+      "ru": "виноград"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "pútao"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "pútao"
     }
   },
   {
     "id": "zh_1015",
+    "lang": "zh",
     "lemma": "行",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xíng, háng"
+    },
     "meanings": {
       "ko": "괜찮다",
       "en": "okay",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "行",
-      "ru": ""
+      "de": "in Ordnung",
+      "es": "bien",
+      "fr": "d'accord",
+      "it": "va bene",
+      "pt": "ok",
+      "ja": "大丈夫",
+      "ru": "хорошо"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xíng, háng"
-    },
-    "reading": {
-      "zh": "xíng, háng"
     }
   },
   {
     "id": "zh_1016",
+    "lang": "zh",
     "lemma": "表扬",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "biǎoyáng"
+    },
     "meanings": {
       "ko": "칭찬하다",
       "en": "praise",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "表扬",
-      "ru": ""
+      "de": "loben",
+      "es": "alabar",
+      "fr": "louer",
+      "it": "lodare",
+      "pt": "elogiar",
+      "ja": "褒める",
+      "ru": "хвалить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "biǎoyáng"
-    },
-    "infinitive": "表扬",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "biǎoyáng"
     }
   },
   {
     "id": "zh_1017",
+    "lang": "zh",
     "lemma": "表格",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "양식, 서식",
-      "en": "form",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "表格",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "biǎogé"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "biǎogé"
+    },
+    "meanings": {
+      "ko": "양식",
+      "en": "form",
+      "zh": "表格",
+      "de": "das Formular",
+      "es": "el formulario",
+      "fr": "le formulaire",
+      "it": "il modulo",
+      "pt": "o formulário",
+      "ja": "フォーム",
+      "ru": "бланк"
+    },
+    "meta": {
+      "zh_pinyin": "biǎogé"
     }
   },
   {
     "id": "zh_1018",
+    "lang": "zh",
     "lemma": "表演",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "공연하다, 연기하다",
-      "en": "perform",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "表演",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "biǎoyǎn"
-    },
-    "infinitive": "表演",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "biǎoyǎn"
+    },
+    "meanings": {
+      "ko": "공연하다",
+      "en": "perform",
+      "zh": "表演",
+      "de": "auftreten",
+      "es": "actuar",
+      "fr": "jouer",
+      "it": "esibirsi",
+      "pt": "atuar",
+      "ja": "演じる",
+      "ru": "выступать"
+    },
+    "meta": {
+      "zh_pinyin": "biǎoyǎn"
     }
   },
   {
     "id": "zh_1019",
+    "lang": "zh",
     "lemma": "表示",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
-    "meanings": {
-      "ko": "표시하다, 나타내다",
-      "en": "express",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "表示",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "biǎoshì"
-    },
-    "infinitive": "表示",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "biǎoshì"
+    },
+    "meanings": {
+      "ko": "표시하다",
+      "en": "express",
+      "zh": "表示",
+      "de": "ausdrücken",
+      "es": "expresar",
+      "fr": "exprimer",
+      "it": "esprimere",
+      "pt": "expressar",
+      "ja": "表現する",
+      "ru": "выражать"
+    },
+    "meta": {
+      "zh_pinyin": "biǎoshì"
     }
   },
   {
     "id": "zh_1020",
+    "lang": "zh",
     "lemma": "袜子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wàzi"
+    },
     "meanings": {
       "ko": "양말",
       "en": "socks",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "袜子",
-      "ru": ""
+      "de": "die Socken",
+      "es": "los calcetines",
+      "fr": "les chaussettes",
+      "it": "i calzini",
+      "pt": "as meias",
+      "ja": "靴下",
+      "ru": "носки"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wàzi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "wàzi"
     }
   },
   {
     "id": "zh_1021",
+    "lang": "zh",
     "lemma": "西红柿",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xīhóngshì"
+    },
     "meanings": {
       "ko": "토마토",
       "en": "tomato",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "西红柿",
-      "ru": ""
+      "de": "die Tomate",
+      "es": "el tomate",
+      "fr": "la tomate",
+      "it": "il pomodoro",
+      "pt": "o tomate",
+      "ja": "トマト",
+      "ru": "помидор"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xīhóngshì"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "xīhóngshì"
     }
   },
   {
     "id": "zh_1022",
+    "lang": "zh",
     "lemma": "要是",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yàoshi"
+    },
     "meanings": {
       "ko": "만약",
       "en": "if",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "要是",
-      "ru": ""
+      "de": "wenn",
+      "es": "si",
+      "fr": "si",
+      "it": "se",
+      "pt": "se",
+      "ja": "もし",
+      "ru": "если"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yàoshi"
-    },
-    "reading": {
-      "zh": "yàoshi"
     }
   },
   {
     "id": "zh_1023",
+    "lang": "zh",
     "lemma": "观众",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guānzhòng"
+    },
     "meanings": {
       "ko": "관중",
       "en": "audience",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "观众",
-      "ru": ""
+      "de": "das Publikum",
+      "es": "la audiencia",
+      "fr": "le public",
+      "it": "il pubblico",
+      "pt": "a plateia",
+      "ja": "観客",
+      "ru": "аудитория"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guānzhòng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guānzhòng"
     }
   },
   {
     "id": "zh_1024",
+    "lang": "zh",
     "lemma": "规定",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guīdìng"
+    },
     "meanings": {
       "ko": "규정하다",
       "en": "stipulate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "规定",
-      "ru": ""
+      "de": "festlegen",
+      "es": "estipular",
+      "fr": "stipuler",
+      "it": "stabilire",
+      "pt": "estipular",
+      "ja": "規定する",
+      "ru": "устанавливать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guīdìng"
-    },
-    "infinitive": "规定",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "guīdìng"
     }
   },
   {
     "id": "zh_1025",
+    "lang": "zh",
     "lemma": "解释",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiěshì"
+    },
     "meanings": {
       "ko": "설명하다",
       "en": "explain",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "解释",
-      "ru": ""
+      "de": "erklären",
+      "es": "explicar",
+      "fr": "expliquer",
+      "it": "spiegare",
+      "pt": "explicar",
+      "ja": "説明する",
+      "ru": "объяснять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiěshì"
-    },
-    "infinitive": "解释",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jiěshì"
     }
   },
   {
     "id": "zh_1026",
+    "lang": "zh",
     "lemma": "警察",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jǐngchá"
+    },
     "meanings": {
       "ko": "경찰",
       "en": "police",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "警察",
-      "ru": ""
+      "de": "die Polizei",
+      "es": "la policía",
+      "fr": "la police",
+      "it": "la polizia",
+      "pt": "a polícia",
+      "ja": "警察",
+      "ru": "полиция"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jǐngchá"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jǐngchá"
     }
   },
   {
     "id": "zh_1027",
+    "lang": "zh",
     "lemma": "计划",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìhuà"
+    },
     "meanings": {
       "ko": "계획",
       "en": "plan",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "计划",
-      "ru": ""
+      "de": "der Plan",
+      "es": "el plan",
+      "fr": "le plan",
+      "it": "il piano",
+      "pt": "o plano",
+      "ja": "計画",
+      "ru": "план"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìhuà"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jìhuà"
     }
   },
   {
     "id": "zh_1028",
+    "lang": "zh",
     "lemma": "讨厌",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tǎoyàn"
+    },
     "meanings": {
       "ko": "싫어하다",
       "en": "hate",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "讨厌",
-      "ru": ""
+      "de": "hassen",
+      "es": "odiar",
+      "fr": "détester",
+      "it": "odiare",
+      "pt": "odiar",
+      "ja": "嫌う",
+      "ru": "ненавидеть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tǎoyàn"
-    },
-    "infinitive": "讨厌",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tǎoyàn"
     }
   },
   {
     "id": "zh_1029",
+    "lang": "zh",
     "lemma": "讨论",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tǎolùn"
+    },
     "meanings": {
       "ko": "토론하다",
       "en": "discuss",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "讨论",
-      "ru": ""
+      "de": "diskutieren",
+      "es": "discutir",
+      "fr": "discuter",
+      "it": "discutere",
+      "pt": "discutir",
+      "ja": "議論する",
+      "ru": "обсуждать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tǎolùn"
-    },
-    "infinitive": "讨论",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tǎolùn"
     }
   },
   {
     "id": "zh_1030",
+    "lang": "zh",
     "lemma": "记者",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel",
       "work"
     ],
+    "reading": {
+      "zh": "jìzhě"
+    },
     "meanings": {
       "ko": "기자",
       "en": "reporter",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "记者",
-      "ru": ""
+      "de": "der Reporter",
+      "es": "el reportero",
+      "fr": "le journaliste",
+      "it": "il giornalista",
+      "pt": "o repórter",
+      "ja": "記者",
+      "ru": "репортёр"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìzhě"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jìzhě"
     }
   },
   {
     "id": "zh_1031",
+    "lang": "zh",
     "lemma": "许多",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "많다, 많은",
-      "en": "many",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "许多",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xǔduō"
-    },
     "reading": {
       "zh": "xǔduō"
+    },
+    "meanings": {
+      "ko": "많다",
+      "en": "many",
+      "zh": "许多",
+      "de": "viele",
+      "es": "muchos",
+      "fr": "beaucoup",
+      "it": "molti",
+      "pt": "muitos",
+      "ja": "多くの",
+      "ru": "многие"
+    },
+    "meta": {
+      "zh_pinyin": "xǔduō"
     }
   },
   {
     "id": "zh_1032",
+    "lang": "zh",
     "lemma": "证明",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhèngmíng"
+    },
     "meanings": {
       "ko": "증명하다",
       "en": "prove",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "证明",
-      "ru": ""
+      "de": "beweisen",
+      "es": "probar",
+      "fr": "prouver",
+      "it": "provare",
+      "pt": "provar",
+      "ja": "証明する",
+      "ru": "доказывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhèngmíng"
-    },
-    "infinitive": "证明",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhèngmíng"
     }
   },
   {
     "id": "zh_1033",
+    "lang": "zh",
     "lemma": "词语",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "단어, 어휘",
-      "en": "terms",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "词语",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cíyǔ"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "cíyǔ"
+    },
+    "meanings": {
+      "ko": "단어",
+      "en": "terms",
+      "zh": "词语",
+      "de": "der Begriff",
+      "es": "el término",
+      "fr": "le terme",
+      "it": "il termine",
+      "pt": "o termo",
+      "ja": "語句",
+      "ru": "термин"
+    },
+    "meta": {
+      "zh_pinyin": "cíyǔ"
     }
   },
   {
     "id": "zh_1034",
+    "lang": "zh",
     "lemma": "诚实",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
-    "meanings": {
-      "ko": "성실하다, 정직하다",
-      "en": "honest",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "诚实",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chéngshí"
-    },
     "reading": {
       "zh": "chéngshí"
+    },
+    "meanings": {
+      "ko": "성실하다",
+      "en": "honest",
+      "zh": "诚实",
+      "de": "ehrlich",
+      "es": "honesto",
+      "fr": "honnête",
+      "it": "onesto",
+      "pt": "honesto",
+      "ja": "誠実な",
+      "ru": "честный"
+    },
+    "meta": {
+      "zh_pinyin": "chéngshí"
     }
   },
   {
     "id": "zh_1035",
+    "lang": "zh",
     "lemma": "详细",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "xiángxì"
+    },
     "meanings": {
       "ko": "상세하다",
       "en": "detailed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "详细",
-      "ru": ""
+      "de": "detailliert",
+      "es": "detallado",
+      "fr": "détaillé",
+      "it": "dettagliato",
+      "pt": "detalhado",
+      "ja": "詳細な",
+      "ru": "подробный"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xiángxì"
-    },
-    "reading": {
-      "zh": "xiángxì"
     }
   },
   {
     "id": "zh_1036",
+    "lang": "zh",
     "lemma": "语言",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yǔyán"
+    },
     "meanings": {
       "ko": "언어",
       "en": "language",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "语言",
-      "ru": ""
+      "de": "die Sprache",
+      "es": "el idioma",
+      "fr": "la langue",
+      "it": "la lingua",
+      "pt": "a língua",
+      "ja": "言語",
+      "ru": "язык"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yǔyán"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yǔyán"
     }
   },
   {
     "id": "zh_1037",
+    "lang": "zh",
     "lemma": "误会",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "wùhuì"
+    },
     "meanings": {
       "ko": "오해하다",
       "en": "misunderstand",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "误会",
-      "ru": ""
+      "de": "missverstehen",
+      "es": "malinterpretar",
+      "fr": "mal comprendre",
+      "it": "fraintendere",
+      "pt": "mal-entender",
+      "ja": "誤解する",
+      "ru": "неправильно понять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "wùhuì"
-    },
-    "infinitive": "误会",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "wùhuì"
     }
   },
   {
     "id": "zh_1038",
+    "lang": "zh",
     "lemma": "说明",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shuōmíng"
+    },
     "meanings": {
       "ko": "설명하다",
       "en": "explain",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "说明",
-      "ru": ""
+      "de": "erklären",
+      "es": "explicar",
+      "fr": "expliquer",
+      "it": "spiegare",
+      "pt": "explicar",
+      "ja": "説明する",
+      "ru": "объяснять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shuōmíng"
-    },
-    "infinitive": "说明",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shuōmíng"
     }
   },
   {
     "id": "zh_1039",
+    "lang": "zh",
     "lemma": "谈",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "tán"
+    },
     "meanings": {
       "ko": "이야기하다",
       "en": "talk",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "谈",
-      "ru": ""
+      "de": "sprechen",
+      "es": "hablar",
+      "fr": "parler",
+      "it": "parlare",
+      "pt": "conversar",
+      "ja": "話す",
+      "ru": "говорить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tán"
-    },
-    "infinitive": "谈",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tán"
     }
   },
   {
     "id": "zh_1040",
+    "lang": "zh",
     "lemma": "负责",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "책임지다, 책임감 있다",
-      "en": "responsible",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "负责",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "fùzé"
-    },
     "reading": {
       "zh": "fùzé"
+    },
+    "meanings": {
+      "ko": "책임지다",
+      "en": "responsible",
+      "zh": "负责",
+      "de": "verantwortlich",
+      "es": "responsable",
+      "fr": "responsable",
+      "it": "responsabile",
+      "pt": "responsável",
+      "ja": "責任がある",
+      "ru": "ответственный"
+    },
+    "meta": {
+      "zh_pinyin": "fùzé"
     }
   },
   {
     "id": "zh_1041",
+    "lang": "zh",
     "lemma": "责任",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zérèn"
+    },
     "meanings": {
       "ko": "책임",
       "en": "responsibility",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "责任",
-      "ru": ""
+      "de": "die Verantwortung",
+      "es": "la responsabilidad",
+      "fr": "la responsabilité",
+      "it": "la responsabilità",
+      "pt": "a responsabilidade",
+      "ja": "責任",
+      "ru": "ответственность"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zérèn"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zérèn"
     }
   },
   {
     "id": "zh_1042",
+    "lang": "zh",
     "lemma": "质量",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhìliàng"
+    },
     "meanings": {
       "ko": "품질",
       "en": "quality",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "质量",
-      "ru": ""
+      "de": "die Qualität",
+      "es": "la calidad",
+      "fr": "la qualité",
+      "it": "la qualità",
+      "pt": "a qualidade",
+      "ja": "品質",
+      "ru": "качество"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhìliàng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "zhìliàng"
     }
   },
   {
     "id": "zh_1043",
+    "lang": "zh",
     "lemma": "购物",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "gòuwù"
+    },
     "meanings": {
       "ko": "쇼핑하다",
       "en": "shop",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "购物",
-      "ru": ""
+      "de": "einkaufen",
+      "es": "comprar",
+      "fr": "faire du shopping",
+      "it": "fare acquisti",
+      "pt": "fazer compras",
+      "ja": "買い物をする",
+      "ru": "делать покупки"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gòuwù"
-    },
-    "infinitive": "购物",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gòuwù"
     }
   },
   {
     "id": "zh_1044",
+    "lang": "zh",
     "lemma": "赚",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhuàn, zuàn"
+    },
     "meanings": {
       "ko": "벌다",
       "en": "earn",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "赚",
-      "ru": ""
+      "de": "verdienen",
+      "es": "ganar",
+      "fr": "gagner",
+      "it": "guadagnare",
+      "pt": "ganhar",
+      "ja": "稼ぐ",
+      "ru": "зарабатывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhuàn, zuàn"
-    },
-    "infinitive": "赚",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhuàn, zuàn"
     }
   },
   {
     "id": "zh_1045",
+    "lang": "zh",
     "lemma": "赢",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yíng"
+    },
     "meanings": {
       "ko": "이기다",
       "en": "win",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "赢",
-      "ru": ""
+      "de": "gewinnen",
+      "es": "ganar",
+      "fr": "gagner",
+      "it": "vincere",
+      "pt": "vencer",
+      "ja": "勝つ",
+      "ru": "выигрывать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yíng"
-    },
-    "infinitive": "赢",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yíng"
     }
   },
   {
     "id": "zh_1046",
+    "lang": "zh",
     "lemma": "赶",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "따라잡다, 서두르다",
-      "en": "catch up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "赶",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "gǎn"
-    },
-    "infinitive": "赶",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "gǎn"
+    },
+    "meanings": {
+      "ko": "따라잡다",
+      "en": "catch up",
+      "zh": "赶",
+      "de": "aufholen",
+      "es": "alcanzar",
+      "fr": "rattraper",
+      "it": "raggiungere",
+      "pt": "alcançar",
+      "ja": "追いつく",
+      "ru": "догнать"
+    },
+    "meta": {
+      "zh_pinyin": "gǎn"
     }
   },
   {
     "id": "zh_1047",
+    "lang": "zh",
     "lemma": "超过",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "초과하다, 넘어서다",
-      "en": "exceed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "超过",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "chāoguò"
-    },
-    "infinitive": "超过",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "chāoguò"
+    },
+    "meanings": {
+      "ko": "초과하다",
+      "en": "exceed",
+      "zh": "超过",
+      "de": "übertreffen",
+      "es": "exceder",
+      "fr": "dépasser",
+      "it": "superare",
+      "pt": "exceder",
+      "ja": "超える",
+      "ru": "превышать"
+    },
+    "meta": {
+      "zh_pinyin": "chāoguò"
     }
   },
   {
     "id": "zh_1048",
+    "lang": "zh",
     "lemma": "趟",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "번, 차례",
-      "en": "trip",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "趟",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "tàng, tāng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "tàng, tāng"
+    },
+    "meanings": {
+      "ko": "번",
+      "en": "trip",
+      "zh": "趟",
+      "de": "die Reise",
+      "es": "el viaje",
+      "fr": "le voyage",
+      "it": "il viaggio",
+      "pt": "a viagem",
+      "ja": "回",
+      "ru": "поездка"
+    },
+    "meta": {
+      "zh_pinyin": "tàng, tāng"
     }
   },
   {
     "id": "zh_1049",
+    "lang": "zh",
     "lemma": "距离",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jùlí"
+    },
     "meanings": {
       "ko": "거리",
       "en": "distance",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "距离",
-      "ru": ""
+      "de": "die Entfernung",
+      "es": "la distancia",
+      "fr": "la distance",
+      "it": "la distanza",
+      "pt": "a distância",
+      "ja": "距離",
+      "ru": "расстояние"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jùlí"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jùlí"
     }
   },
   {
     "id": "zh_1050",
+    "lang": "zh",
     "lemma": "躺",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "basic"
     ],
+    "reading": {
+      "zh": "tǎng"
+    },
     "meanings": {
       "ko": "눕다",
       "en": "lie down",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "躺",
-      "ru": ""
+      "de": "liegen",
+      "es": "acostarse",
+      "fr": "s'allonger",
+      "it": "sdraiarsi",
+      "pt": "deitar-se",
+      "ja": "横になる",
+      "ru": "лечь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tǎng"
-    },
-    "infinitive": "躺",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tǎng"
     }
   },
   {
     "id": "zh_1051",
+    "lang": "zh",
     "lemma": "转",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "돌다, 바꾸다",
-      "en": "turn",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "转",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhuǎn, zhuàn"
-    },
-    "infinitive": "转",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "zhuǎn, zhuàn"
+    },
+    "meanings": {
+      "ko": "돌다",
+      "en": "turn",
+      "zh": "转",
+      "de": "drehen",
+      "es": "girar",
+      "fr": "tourner",
+      "it": "girare",
+      "pt": "virar",
+      "ja": "回る",
+      "ru": "поворачивать"
+    },
+    "meta": {
+      "zh_pinyin": "zhuǎn, zhuàn"
     }
   },
   {
     "id": "zh_1052",
+    "lang": "zh",
     "lemma": "轻",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "qīng"
+    },
     "meanings": {
       "ko": "가볍다",
       "en": "light",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "轻",
-      "ru": ""
+      "de": "leicht",
+      "es": "ligero",
+      "fr": "léger",
+      "it": "leggero",
+      "pt": "leve",
+      "ja": "軽い",
+      "ru": "легкий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "qīng"
-    },
-    "reading": {
-      "zh": "qīng"
     }
   },
   {
     "id": "zh_1053",
+    "lang": "zh",
     "lemma": "轻松",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "편안하다, 가볍다",
-      "en": "relaxed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "轻松",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "qīngsōng"
-    },
     "reading": {
       "zh": "qīngsōng"
+    },
+    "meanings": {
+      "ko": "편안하다",
+      "en": "relaxed",
+      "zh": "轻松",
+      "de": "entspannt",
+      "es": "relajado",
+      "fr": "détendu",
+      "it": "rilassato",
+      "pt": "relaxado",
+      "ja": "気楽な",
+      "ru": "расслабленный"
+    },
+    "meta": {
+      "zh_pinyin": "qīngsōng"
     }
   },
   {
     "id": "zh_1054",
+    "lang": "zh",
     "lemma": "输",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "지다, 운반하다",
-      "en": "lose",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "输",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shū"
-    },
-    "infinitive": "输",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shū"
+    },
+    "meanings": {
+      "ko": "지다",
+      "en": "lose",
+      "zh": "输",
+      "de": "verlieren",
+      "es": "perder",
+      "fr": "perdre",
+      "it": "perdere",
+      "pt": "perder",
+      "ja": "負ける",
+      "ru": "проиграть"
+    },
+    "meta": {
+      "zh_pinyin": "shū"
     }
   },
   {
     "id": "zh_1055",
+    "lang": "zh",
     "lemma": "辛苦",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "힘들다, 고생스럽다",
-      "en": "hard",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "辛苦",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xīnkǔ"
-    },
     "reading": {
       "zh": "xīnkǔ"
+    },
+    "meanings": {
+      "ko": "힘들다",
+      "en": "hard",
+      "zh": "辛苦",
+      "de": "mühsam",
+      "es": "laborioso",
+      "fr": "pénible",
+      "it": "faticoso",
+      "pt": "trabalhoso",
+      "ja": "苦労する",
+      "ru": "тяжелый"
+    },
+    "meta": {
+      "zh_pinyin": "xīnkǔ"
     }
   },
   {
     "id": "zh_1056",
+    "lang": "zh",
     "lemma": "辣",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "là"
+    },
     "meanings": {
       "ko": "맵다",
       "en": "spicy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "辣",
-      "ru": ""
+      "de": "scharf",
+      "es": "picante",
+      "fr": "épicé",
+      "it": "piccante",
+      "pt": "picante",
+      "ja": "辛い",
+      "ru": "острый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "là"
-    },
-    "reading": {
-      "zh": "là"
     }
   },
   {
     "id": "zh_1057",
+    "lang": "zh",
     "lemma": "过程",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "guòchéng"
+    },
     "meanings": {
       "ko": "과정",
       "en": "process",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "过程",
-      "ru": ""
+      "de": "der Prozess",
+      "es": "el proceso",
+      "fr": "le processus",
+      "it": "il processo",
+      "pt": "o processo",
+      "ja": "過程",
+      "ru": "процесс"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "guòchéng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "guòchéng"
     }
   },
   {
     "id": "zh_1058",
+    "lang": "zh",
     "lemma": "进行",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
+    "reading": {
+      "zh": "jìnxíng"
+    },
     "meanings": {
       "ko": "진행하다",
       "en": "carry out",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "进行",
-      "ru": ""
+      "de": "durchführen",
+      "es": "llevar a cabo",
+      "fr": "effectuer",
+      "it": "svolgere",
+      "pt": "realizar",
+      "ja": "行う",
+      "ru": "проводить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìnxíng"
-    },
-    "infinitive": "进行",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "jìnxíng"
     }
   },
   {
     "id": "zh_1059",
+    "lang": "zh",
     "lemma": "连",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "잇다, 연결하다",
-      "en": "join",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "连",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "lián"
-    },
-    "infinitive": "连",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "lián"
+    },
+    "meanings": {
+      "ko": "잇다",
+      "en": "join",
+      "zh": "连",
+      "de": "verbinden",
+      "es": "unir",
+      "fr": "joindre",
+      "it": "unire",
+      "pt": "unir",
+      "ja": "つなぐ",
+      "ru": "соединять"
+    },
+    "meta": {
+      "zh_pinyin": "lián"
     }
   },
   {
     "id": "zh_1060",
+    "lang": "zh",
     "lemma": "迷路",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "mílù"
+    },
     "meanings": {
       "ko": "길을 잃다",
       "en": "get lost",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "迷路",
-      "ru": ""
+      "de": "sich verirren",
+      "es": "perderse",
+      "fr": "se perdre",
+      "it": "perdersi",
+      "pt": "perder-se",
+      "ja": "道に迷う",
+      "ru": "заблудиться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "mílù"
-    },
-    "infinitive": "迷路",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "mílù"
     }
   },
   {
     "id": "zh_1061",
+    "lang": "zh",
     "lemma": "适合",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "적합하다, 어울리다",
-      "en": "suit",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "适合",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shìhé"
-    },
-    "infinitive": "适合",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "shìhé"
+    },
+    "meanings": {
+      "ko": "적합하다",
+      "en": "suit",
+      "zh": "适合",
+      "de": "passen",
+      "es": "convenir",
+      "fr": "convenir",
+      "it": "adattarsi",
+      "pt": "adequar",
+      "ja": "適する",
+      "ru": "подходить"
+    },
+    "meta": {
+      "zh_pinyin": "shìhé"
     }
   },
   {
     "id": "zh_1062",
+    "lang": "zh",
     "lemma": "适应",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shìyìng"
+    },
     "meanings": {
       "ko": "적응하다",
       "en": "adapt",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "适应",
-      "ru": ""
+      "de": "sich anpassen",
+      "es": "adaptarse",
+      "fr": "s'adapter",
+      "it": "adattarsi",
+      "pt": "adaptar-se",
+      "ja": "適応する",
+      "ru": "адаптироваться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shìyìng"
-    },
-    "infinitive": "适应",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "shìyìng"
     }
   },
   {
     "id": "zh_1063",
+    "lang": "zh",
     "lemma": "通知",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "통지하다, 알리다",
-      "en": "notify",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "通知",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "tōngzhī"
-    },
-    "infinitive": "通知",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "tōngzhī"
+    },
+    "meanings": {
+      "ko": "통지하다",
+      "en": "notify",
+      "zh": "通知",
+      "de": "benachrichtigen",
+      "es": "notificar",
+      "fr": "informer",
+      "it": "notificare",
+      "pt": "notificar",
+      "ja": "通知する",
+      "ru": "уведомлять"
+    },
+    "meta": {
+      "zh_pinyin": "tōngzhī"
     }
   },
   {
     "id": "zh_1064",
+    "lang": "zh",
     "lemma": "通过",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "tōngguò"
+    },
     "meanings": {
       "ko": "통과하다",
       "en": "pass through",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "通过",
-      "ru": ""
+      "de": "passieren",
+      "es": "pasar por",
+      "fr": "traverser",
+      "it": "attraversare",
+      "pt": "passar por",
+      "ja": "通過する",
+      "ru": "проходить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "tōngguò"
-    },
-    "infinitive": "通过",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "tōngguò"
     }
   },
   {
     "id": "zh_1065",
+    "lang": "zh",
     "lemma": "逛",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "구경하다, 거닐다",
-      "en": "stroll",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "逛",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "guàng"
-    },
-    "infinitive": "逛",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "guàng"
+    },
+    "meanings": {
+      "ko": "구경하다",
+      "en": "stroll",
+      "zh": "逛",
+      "de": "bummeln",
+      "es": "pasear",
+      "fr": "flâner",
+      "it": "passeggiare",
+      "pt": "passear",
+      "ja": "ぶらつく",
+      "ru": "прогуливаться"
+    },
+    "meta": {
+      "zh_pinyin": "guàng"
     }
   },
   {
     "id": "zh_1066",
+    "lang": "zh",
     "lemma": "速度",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "sùdù"
+    },
     "meanings": {
       "ko": "속도",
       "en": "speed",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "速度",
-      "ru": ""
+      "de": "die Geschwindigkeit",
+      "es": "la velocidad",
+      "fr": "la vitesse",
+      "it": "la velocità",
+      "pt": "a velocidade",
+      "ja": "速度",
+      "ru": "скорость"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "sùdù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "sùdù"
     }
   },
   {
     "id": "zh_1067",
+    "lang": "zh",
     "lemma": "遍",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
-    "meanings": {
-      "ko": "번, 차례",
-      "en": "time",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "遍",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "biàn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "biàn"
+    },
+    "meanings": {
+      "ko": "번",
+      "en": "time",
+      "zh": "遍",
+      "de": "das Mal",
+      "es": "la vez",
+      "fr": "la fois",
+      "it": "la volta",
+      "pt": "a vez",
+      "ja": "回",
+      "ru": "раз"
+    },
+    "meta": {
+      "zh_pinyin": "biàn"
     }
   },
   {
     "id": "zh_1068",
+    "lang": "zh",
     "lemma": "道歉",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "dàoqiàn"
+    },
     "meanings": {
       "ko": "사과하다",
       "en": "apologize",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "道歉",
-      "ru": ""
+      "de": "sich entschuldigen",
+      "es": "disculparse",
+      "fr": "s'excuser",
+      "it": "scusarsi",
+      "pt": "pedir desculpas",
+      "ja": "謝る",
+      "ru": "извиняться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "dàoqiàn"
-    },
-    "infinitive": "道歉",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "dàoqiàn"
     }
   },
   {
     "id": "zh_1069",
+    "lang": "zh",
     "lemma": "邀请",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yāoqǐng"
+    },
     "meanings": {
       "ko": "초대하다",
       "en": "invite",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "邀请",
-      "ru": ""
+      "de": "einladen",
+      "es": "invitar",
+      "fr": "inviter",
+      "it": "invitare",
+      "pt": "convidar",
+      "ja": "招待する",
+      "ru": "приглашать"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yāoqǐng"
-    },
-    "infinitive": "邀请",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yāoqǐng"
     }
   },
   {
     "id": "zh_1070",
+    "lang": "zh",
     "lemma": "邮局",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yóujú"
+    },
     "meanings": {
       "ko": "우체국",
       "en": "post office",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "邮局",
-      "ru": ""
+      "de": "die Post",
+      "es": "la oficina de correos",
+      "fr": "la poste",
+      "it": "l'ufficio postale",
+      "pt": "os correios",
+      "ja": "郵便局",
+      "ru": "почта"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yóujú"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yóujú"
     }
   },
   {
     "id": "zh_1071",
+    "lang": "zh",
     "lemma": "郊区",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiāoqū"
+    },
     "meanings": {
       "ko": "교외",
       "en": "suburbs",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "郊区",
-      "ru": ""
+      "de": "der Vorort",
+      "es": "el suburbio",
+      "fr": "la banlieue",
+      "it": "la periferia",
+      "pt": "o subúrbio",
+      "ja": "郊外",
+      "ru": "пригород"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiāoqū"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiāoqū"
     }
   },
   {
     "id": "zh_1072",
+    "lang": "zh",
     "lemma": "部分",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "bùfen"
+    },
     "meanings": {
       "ko": "부분",
       "en": "part",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "部分",
-      "ru": ""
+      "de": "der Teil",
+      "es": "la parte",
+      "fr": "la partie",
+      "it": "la parte",
+      "pt": "a parte",
+      "ja": "部分",
+      "ru": "часть"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "bùfen"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "bùfen"
     }
   },
   {
     "id": "zh_1073",
+    "lang": "zh",
     "lemma": "酸",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "시다, 시큼하다",
-      "en": "sour",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "酸",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "suān"
-    },
     "reading": {
       "zh": "suān"
+    },
+    "meanings": {
+      "ko": "시다",
+      "en": "sour",
+      "zh": "酸",
+      "de": "sauer",
+      "es": "agrio",
+      "fr": "aigre",
+      "it": "acido",
+      "pt": "azedo",
+      "ja": "酸っぱい",
+      "ru": "кислый"
+    },
+    "meta": {
+      "zh_pinyin": "suān"
     }
   },
   {
     "id": "zh_1074",
+    "lang": "zh",
     "lemma": "醒",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "xǐng"
+    },
     "meanings": {
       "ko": "깨다",
       "en": "wake up",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "醒",
-      "ru": ""
+      "de": "aufwachen",
+      "es": "despertarse",
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "pt": "acordar",
+      "ja": "目覚める",
+      "ru": "просыпаться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "xǐng"
-    },
-    "infinitive": "醒",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "xǐng"
     }
   },
   {
     "id": "zh_1075",
+    "lang": "zh",
     "lemma": "重",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
+    "reading": {
+      "zh": "zhòng, chóng"
+    },
     "meanings": {
       "ko": "무겁다",
       "en": "heavy",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "重",
-      "ru": ""
+      "de": "schwer",
+      "es": "pesado",
+      "fr": "lourd",
+      "it": "pesante",
+      "pt": "pesado",
+      "ja": "重い",
+      "ru": "тяжелый"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhòng, chóng"
-    },
-    "reading": {
-      "zh": "zhòng, chóng"
     }
   },
   {
     "id": "zh_1076",
+    "lang": "zh",
     "lemma": "重新",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "chóngxīn"
+    },
     "meanings": {
       "ko": "다시",
       "en": "again",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "重新",
-      "ru": ""
+      "de": "erneut",
+      "es": "de nuevo",
+      "fr": "de nouveau",
+      "it": "di nuovo",
+      "pt": "novamente",
+      "ja": "再び",
+      "ru": "снова"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chóngxīn"
-    },
-    "reading": {
-      "zh": "chóngxīn"
     }
   },
   {
     "id": "zh_1077",
+    "lang": "zh",
     "lemma": "重点",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "요점, 중점",
-      "en": "main point",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "重点",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "zhòngdiǎn"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "zhòngdiǎn"
+    },
+    "meanings": {
+      "ko": "요점",
+      "en": "main point",
+      "zh": "重点",
+      "de": "der Schwerpunkt",
+      "es": "el punto clave",
+      "fr": "le point essentiel",
+      "it": "il punto chiave",
+      "pt": "o ponto principal",
+      "ja": "重点",
+      "ru": "главное"
+    },
+    "meta": {
+      "zh_pinyin": "zhòngdiǎn"
     }
   },
   {
     "id": "zh_1078",
+    "lang": "zh",
     "lemma": "重视",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "zhòngshì"
+    },
     "meanings": {
       "ko": "중시하다",
       "en": "value",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "重视",
-      "ru": ""
+      "de": "schätzen",
+      "es": "valorar",
+      "fr": "valoriser",
+      "it": "dare importanza",
+      "pt": "valorizar",
+      "ja": "重視する",
+      "ru": "ценить"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "zhòngshì"
-    },
-    "infinitive": "重视",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "zhòngshì"
     }
   },
   {
     "id": "zh_1079",
+    "lang": "zh",
     "lemma": "钥匙",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yàoshi"
+    },
     "meanings": {
       "ko": "열쇠",
       "en": "key",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "钥匙",
-      "ru": ""
+      "de": "der Schlüssel",
+      "es": "la llave",
+      "fr": "la clé",
+      "it": "la chiave",
+      "pt": "a chave",
+      "ja": "鍵",
+      "ru": "ключ"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yàoshi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "yàoshi"
     }
   },
   {
     "id": "zh_1080",
+    "lang": "zh",
     "lemma": "错误",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "오류, 실수",
-      "en": "mistake",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "错误",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "cuòwù"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "cuòwù"
+    },
+    "meanings": {
+      "ko": "오류",
+      "en": "mistake",
+      "zh": "错误",
+      "de": "der Fehler",
+      "es": "el error",
+      "fr": "l'erreur",
+      "it": "l'errore",
+      "pt": "o erro",
+      "ja": "間違い",
+      "ru": "ошибка"
+    },
+    "meta": {
+      "zh_pinyin": "cuòwù"
     }
   },
   {
     "id": "zh_1081",
+    "lang": "zh",
     "lemma": "镜子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jìngzi"
+    },
     "meanings": {
       "ko": "거울",
       "en": "mirror",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "镜子",
-      "ru": ""
+      "de": "der Spiegel",
+      "es": "el espejo",
+      "fr": "le miroir",
+      "it": "lo specchio",
+      "pt": "o espelho",
+      "ja": "鏡",
+      "ru": "зеркало"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jìngzi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jìngzi"
     }
   },
   {
     "id": "zh_1082",
+    "lang": "zh",
     "lemma": "长城",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily"
     ],
+    "reading": {
+      "zh": "chángchéng"
+    },
     "meanings": {
       "ko": "만리장성",
       "en": "great wall",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "长城",
-      "ru": ""
+      "de": "die Große Mauer",
+      "es": "la Gran Muralla",
+      "fr": "la Grande Muraille",
+      "it": "la Grande Muraglia",
+      "pt": "a Grande Muralha",
+      "ja": "万里の長城",
+      "ru": "Великая стена"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "chángchéng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "chángchéng"
     }
   },
   {
     "id": "zh_1083",
+    "lang": "zh",
     "lemma": "长江",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "Chángjiāng"
+    },
     "meanings": {
       "ko": "장강",
       "en": "yangtze river",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "长江",
-      "ru": ""
+      "de": "der Jangtse",
+      "es": "el río Yangtsé",
+      "fr": "le Yangtsé",
+      "it": "il Fiume Azzurro",
+      "pt": "o rio Yangtzé",
+      "ja": "長江",
+      "ru": "Янцзы"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "Chángjiāng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "Chángjiāng"
     }
   },
   {
     "id": "zh_1084",
+    "lang": "zh",
     "lemma": "阅读",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "독서하다, 읽다",
-      "en": "read",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "阅读",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yuèdú"
-    },
-    "infinitive": "阅读",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "yuèdú"
+    },
+    "meanings": {
+      "ko": "독서하다",
+      "en": "read",
+      "zh": "阅读",
+      "de": "lesen",
+      "es": "leer",
+      "fr": "lire",
+      "it": "leggere",
+      "pt": "ler",
+      "ja": "読む",
+      "ru": "читать"
+    },
+    "meta": {
+      "zh_pinyin": "yuèdú"
     }
   },
   {
     "id": "zh_1085",
+    "lang": "zh",
     "lemma": "阳光",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "햇빛, 햇살",
-      "en": "sunshine",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "阳光",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yángguāng"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yángguāng"
+    },
+    "meanings": {
+      "ko": "햇빛",
+      "en": "sunshine",
+      "zh": "阳光",
+      "de": "der Sonnenschein",
+      "es": "la luz del sol",
+      "fr": "le soleil",
+      "it": "la luce del sole",
+      "pt": "a luz do sol",
+      "ja": "日差し",
+      "ru": "солнечный свет"
+    },
+    "meta": {
+      "zh_pinyin": "yángguāng"
     }
   },
   {
     "id": "zh_1086",
+    "lang": "zh",
     "lemma": "降低",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "낮추다, 내리다",
-      "en": "reduce",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "降低",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiàngdī"
-    },
-    "infinitive": "降低",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiàngdī"
+    },
+    "meanings": {
+      "ko": "낮추다",
+      "en": "reduce",
+      "zh": "降低",
+      "de": "senken",
+      "es": "reducir",
+      "fr": "réduire",
+      "it": "ridurre",
+      "pt": "reduzir",
+      "ja": "下げる",
+      "ru": "снижать"
+    },
+    "meta": {
+      "zh_pinyin": "jiàngdī"
     }
   },
   {
     "id": "zh_1087",
+    "lang": "zh",
     "lemma": "降落",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "착륙하다, 내리다",
-      "en": "land",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "降落",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiàngluò"
-    },
-    "infinitive": "降落",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "jiàngluò"
+    },
+    "meanings": {
+      "ko": "착륙하다",
+      "en": "land",
+      "zh": "降落",
+      "de": "landen",
+      "es": "aterrizar",
+      "fr": "atterrir",
+      "it": "atterrare",
+      "pt": "aterrar",
+      "ja": "着陸する",
+      "ru": "приземляться"
+    },
+    "meta": {
+      "zh_pinyin": "jiàngluò"
     }
   },
   {
     "id": "zh_1088",
+    "lang": "zh",
     "lemma": "陪",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "동반하다, 함께하다",
-      "en": "accompany",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "陪",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "péi"
-    },
-    "infinitive": "陪",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "péi"
+    },
+    "meanings": {
+      "ko": "동반하다",
+      "en": "accompany",
+      "zh": "陪",
+      "de": "begleiten",
+      "es": "acompañar",
+      "fr": "accompagner",
+      "it": "accompagnare",
+      "pt": "acompanhar",
+      "ja": "同伴する",
+      "ru": "сопровождать"
+    },
+    "meta": {
+      "zh_pinyin": "péi"
     }
   },
   {
     "id": "zh_1089",
+    "lang": "zh",
     "lemma": "随便",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "마음대로, 아무렇게나",
-      "en": "casual",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "随便",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "suíbiàn"
-    },
     "reading": {
       "zh": "suíbiàn"
+    },
+    "meanings": {
+      "ko": "마음대로",
+      "en": "casual",
+      "zh": "随便",
+      "de": "beliebig",
+      "es": "informal",
+      "fr": "décontracté",
+      "it": "casuale",
+      "pt": "casual",
+      "ja": "随意に",
+      "ru": "небрежный"
+    },
+    "meta": {
+      "zh_pinyin": "suíbiàn"
     }
   },
   {
     "id": "zh_1090",
+    "lang": "zh",
     "lemma": "难受",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "괴롭다, 불편하다",
-      "en": "unwell",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "难受",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "nánshòu"
-    },
     "reading": {
       "zh": "nánshòu"
+    },
+    "meanings": {
+      "ko": "괴롭다",
+      "en": "unwell",
+      "zh": "难受",
+      "de": "unwohl",
+      "es": "indispuesto",
+      "fr": "mal à l'aise",
+      "it": "a disagio",
+      "pt": "indisposto",
+      "ja": "辛い",
+      "ru": "плохо"
+    },
+    "meta": {
+      "zh_pinyin": "nánshòu"
     }
   },
   {
     "id": "zh_1091",
+    "lang": "zh",
     "lemma": "零钱",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "língqián"
+    },
     "meanings": {
       "ko": "잔돈",
       "en": "change",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "零钱",
-      "ru": ""
+      "de": "das Kleingeld",
+      "es": "el cambio",
+      "fr": "la monnaie",
+      "it": "il resto",
+      "pt": "o troco",
+      "ja": "小銭",
+      "ru": "мелочь"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "língqián"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "língqián"
     }
   },
   {
     "id": "zh_1092",
+    "lang": "zh",
     "lemma": "页",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "페이지, 쪽",
-      "en": "page",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "页",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "yè"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "yè"
+    },
+    "meanings": {
+      "ko": "페이지",
+      "en": "page",
+      "zh": "页",
+      "de": "die Seite",
+      "es": "la página",
+      "fr": "la page",
+      "it": "la pagina",
+      "pt": "a página",
+      "ja": "ページ",
+      "ru": "страница"
+    },
+    "meta": {
+      "zh_pinyin": "yè"
     }
   },
   {
     "id": "zh_1093",
+    "lang": "zh",
     "lemma": "顺便",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "김에, 겸사겸사",
-      "en": "conveniently",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "顺便",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shùnbiàn"
-    },
     "reading": {
       "zh": "shùnbiàn"
+    },
+    "meanings": {
+      "ko": "김에",
+      "en": "conveniently",
+      "zh": "顺便",
+      "de": "nebenbei",
+      "es": "de paso",
+      "fr": "au passage",
+      "it": "di passaggio",
+      "pt": "de passagem",
+      "ja": "ついでに",
+      "ru": "заодно"
+    },
+    "meta": {
+      "zh_pinyin": "shùnbiàn"
     }
   },
   {
     "id": "zh_1094",
+    "lang": "zh",
     "lemma": "顺利",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shùnlì"
+    },
     "meanings": {
       "ko": "순조롭다",
       "en": "smooth",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "顺利",
-      "ru": ""
+      "de": "reibungslos",
+      "es": "sin problemas",
+      "fr": "sans encombre",
+      "it": "liscio",
+      "pt": "tranquilo",
+      "ja": "順調な",
+      "ru": "гладкий"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shùnlì"
-    },
-    "reading": {
-      "zh": "shùnlì"
     }
   },
   {
     "id": "zh_1095",
+    "lang": "zh",
     "lemma": "顺序",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shùnxù"
+    },
     "meanings": {
       "ko": "순서",
       "en": "order",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "顺序",
-      "ru": ""
+      "de": "die Reihenfolge",
+      "es": "el orden",
+      "fr": "l'ordre",
+      "it": "l'ordine",
+      "pt": "a ordem",
+      "ja": "順序",
+      "ru": "порядок"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shùnxù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shùnxù"
     }
   },
   {
     "id": "zh_1096",
+    "lang": "zh",
     "lemma": "顾客",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gùkè"
+    },
     "meanings": {
       "ko": "고객",
       "en": "customer",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "顾客",
-      "ru": ""
+      "de": "der Kunde",
+      "es": "el cliente",
+      "fr": "le client",
+      "it": "il cliente",
+      "pt": "o cliente",
+      "ja": "顧客",
+      "ru": "клиент"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gùkè"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "gùkè"
     }
   },
   {
     "id": "zh_1097",
+    "lang": "zh",
     "lemma": "预习",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "yùxí"
+    },
     "meanings": {
       "ko": "예습하다",
       "en": "preview",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "预习",
-      "ru": ""
+      "de": "vorbereiten",
+      "es": "repasar",
+      "fr": "préparer",
+      "it": "preparare",
+      "pt": "preparar",
+      "ja": "予習する",
+      "ru": "готовиться"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "yùxí"
-    },
-    "infinitive": "预习",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "yùxí"
     }
   },
   {
     "id": "zh_1098",
+    "lang": "zh",
     "lemma": "餐厅",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "cāntīng"
+    },
     "meanings": {
       "ko": "식당",
       "en": "restaurant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "餐厅",
-      "ru": ""
+      "de": "das Restaurant",
+      "es": "el restaurante",
+      "fr": "le restaurant",
+      "it": "il ristorante",
+      "pt": "o restaurante",
+      "ja": "レストラン",
+      "ru": "ресторан"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "cāntīng"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "cāntīng"
     }
   },
   {
     "id": "zh_1099",
+    "lang": "zh",
     "lemma": "饺子",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "jiǎozi"
+    },
     "meanings": {
       "ko": "만두",
       "en": "dumpling",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "饺子",
-      "ru": ""
+      "de": "die Teigtasche",
+      "es": "la empanadilla",
+      "fr": "le ravioli",
+      "it": "il raviolo",
+      "pt": "o bolinho",
+      "ja": "餃子",
+      "ru": "пельмень"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "jiǎozi"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "jiǎozi"
     }
   },
   {
     "id": "zh_1100",
+    "lang": "zh",
     "lemma": "饼干",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "비스킷, 과자",
-      "en": "cookie",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "饼干",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "bǐnggān"
-    },
-    "article": "",
-    "plural": "",
     "reading": {
       "zh": "bǐnggān"
+    },
+    "meanings": {
+      "ko": "비스킷",
+      "en": "cookie",
+      "zh": "饼干",
+      "de": "der Keks",
+      "es": "la galleta",
+      "fr": "le biscuit",
+      "it": "il biscotto",
+      "pt": "o biscoito",
+      "ja": "クッキー",
+      "ru": "печенье"
+    },
+    "meta": {
+      "zh_pinyin": "bǐnggān"
     }
   },
   {
     "id": "zh_1101",
+    "lang": "zh",
     "lemma": "首先",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "우선, 먼저",
-      "en": "firstly",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "首先",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "shǒuxiān"
-    },
     "reading": {
       "zh": "shǒuxiān"
+    },
+    "meanings": {
+      "ko": "우선",
+      "en": "firstly",
+      "zh": "首先",
+      "de": "zuerst",
+      "es": "en primer lugar",
+      "fr": "premièrement",
+      "it": "innanzitutto",
+      "pt": "primeiramente",
+      "ja": "まず",
+      "ru": "сначала"
+    },
+    "meta": {
+      "zh_pinyin": "shǒuxiān"
     }
   },
   {
     "id": "zh_1102",
+    "lang": "zh",
     "lemma": "首都",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "shǒudū"
+    },
     "meanings": {
       "ko": "수도",
       "en": "capital",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "首都",
-      "ru": ""
+      "de": "die Hauptstadt",
+      "es": "la capital",
+      "fr": "la capitale",
+      "it": "la capitale",
+      "pt": "a capital",
+      "ja": "首都",
+      "ru": "столица"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "shǒudū"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "shǒudū"
     }
   },
   {
     "id": "zh_1103",
+    "lang": "zh",
     "lemma": "香",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "향기롭다, 맛있다",
-      "en": "fragrant",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "香",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "xiāng"
-    },
     "reading": {
       "zh": "xiāng"
+    },
+    "meanings": {
+      "ko": "향기롭다",
+      "en": "fragrant",
+      "zh": "香",
+      "de": "duftend",
+      "es": "fragante",
+      "fr": "parfumé",
+      "it": "profumato",
+      "pt": "perfumado",
+      "ja": "香り高い",
+      "ru": "ароматный"
+    },
+    "meta": {
+      "zh_pinyin": "xiāng"
     }
   },
   {
     "id": "zh_1104",
+    "lang": "zh",
     "lemma": "马虎",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "travel"
     ],
-    "meanings": {
-      "ko": "덤벙대다, 대충하다",
-      "en": "careless",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "马虎",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "mǎhu"
-    },
     "reading": {
       "zh": "mǎhu"
+    },
+    "meanings": {
+      "ko": "덤벙대다",
+      "en": "careless",
+      "zh": "马虎",
+      "de": "nachlässig",
+      "es": "descuidado",
+      "fr": "négligent",
+      "it": "negligente",
+      "pt": "descuidado",
+      "ja": "不注意な",
+      "ru": "небрежный"
+    },
+    "meta": {
+      "zh_pinyin": "mǎhu"
     }
   },
   {
     "id": "zh_1105",
+    "lang": "zh",
     "lemma": "骄傲",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "자랑스럽다, 거만하다",
-      "en": "proud",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "骄傲",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "jiāo'ào"
-    },
     "reading": {
       "zh": "jiāo'ào"
+    },
+    "meanings": {
+      "ko": "자랑스럽다",
+      "en": "proud",
+      "zh": "骄傲",
+      "de": "stolz",
+      "es": "orgulloso",
+      "fr": "fier",
+      "it": "orgoglioso",
+      "pt": "orgulhoso",
+      "ja": "誇らしい",
+      "ru": "гордый"
+    },
+    "meta": {
+      "zh_pinyin": "jiāo'ào"
     }
   },
   {
     "id": "zh_1106",
+    "lang": "zh",
     "lemma": "骗",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "daily",
       "smalltalk"
     ],
-    "meanings": {
-      "ko": "속이다, 사기 치다",
-      "en": "cheat",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "骗",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "piàn"
-    },
-    "infinitive": "骗",
-    "reflexive": false,
-    "irregular": false,
     "reading": {
       "zh": "piàn"
+    },
+    "meanings": {
+      "ko": "속이다",
+      "en": "cheat",
+      "zh": "骗",
+      "de": "betrügen",
+      "es": "engañar",
+      "fr": "tromper",
+      "it": "ingannare",
+      "pt": "enganar",
+      "ja": "騙す",
+      "ru": "обманывать"
+    },
+    "meta": {
+      "zh_pinyin": "piàn"
     }
   },
   {
     "id": "zh_1107",
+    "lang": "zh",
     "lemma": "高速公路",
-    "pos": "noun",
+    "pos": "Nomen",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gāosù gōnglù"
+    },
     "meanings": {
       "ko": "고속도로",
       "en": "highway",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "高速公路",
-      "ru": ""
+      "de": "die Autobahn",
+      "es": "la autopista",
+      "fr": "l'autoroute",
+      "it": "l'autostrada",
+      "pt": "a autoestrada",
+      "ja": "高速道路",
+      "ru": "шоссе"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gāosù gōnglù"
-    },
-    "article": "",
-    "plural": "",
-    "reading": {
-      "zh": "gāosù gōnglù"
     }
   },
   {
     "id": "zh_1108",
+    "lang": "zh",
     "lemma": "麻烦",
-    "pos": "adjective",
+    "pos": "Adjektiv",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
-    "meanings": {
-      "ko": "귀찮다, 번거롭다",
-      "en": "troublesome",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
-      "zh": "麻烦",
-      "ru": ""
-    },
-    "examples": [],
-    "meta": {
-      "zh_pinyin": "máfan"
-    },
     "reading": {
       "zh": "máfan"
+    },
+    "meanings": {
+      "ko": "귀찮다",
+      "en": "troublesome",
+      "zh": "麻烦",
+      "de": "lästig",
+      "es": "molesto",
+      "fr": "gênant",
+      "it": "fastidioso",
+      "pt": "problemático",
+      "ja": "面倒な",
+      "ru": "хлопотный"
+    },
+    "meta": {
+      "zh_pinyin": "máfan"
     }
   },
   {
     "id": "zh_1109",
+    "lang": "zh",
     "lemma": "鼓励",
-    "pos": "verb",
+    "pos": "Verb",
     "cefr": "B2",
     "tags": [
       "exam",
       "work"
     ],
+    "reading": {
+      "zh": "gǔlì"
+    },
     "meanings": {
       "ko": "격려하다",
       "en": "encourage",
-      "de": "",
-      "es": "",
-      "it": "",
-      "pt": "",
-      "ja": "",
       "zh": "鼓励",
-      "ru": ""
+      "de": "ermutigen",
+      "es": "animar",
+      "fr": "encourager",
+      "it": "incoraggiare",
+      "pt": "encorajar",
+      "ja": "励ます",
+      "ru": "поощрять"
     },
-    "examples": [],
     "meta": {
       "zh_pinyin": "gǔlì"
-    },
-    "infinitive": "鼓励",
-    "reflexive": false,
-    "irregular": false,
-    "reading": {
-      "zh": "gǔlì"
     }
   }
 ];

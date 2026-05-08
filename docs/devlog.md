@@ -879,3 +879,61 @@
 ### 남은 확인
 
 - Android 실기기에서 키보드, 뒤로가기, 공유 이미지 저장 권한 흐름을 이어서 확인한다.
+
+## 2026-05-09 - v1.1 단어 데이터 번역/관사 정합성 정리
+
+### 목적
+
+- v1.1 스키마 기준으로 전체 단어 데이터의 누락 번역, 빈 값, 관사 표기, 대표뜻 규칙을 정리했다.
+- 앱 업데이트 이후에도 SRS ID 안정성을 유지할 수 있도록 단어 ID 재생성 없이 데이터 내용만 보정했다.
+
+### 스키마/도구
+
+- `docs/KarlLang_Schema_v1.txt`에 meanings 대표뜻 1개 원칙과 관사 언어 예외 규칙을 명확히 반영했다.
+- Gemini Flash 기반 데이터 보정 도구를 추가했다.
+  - `tools/fill_missing_meanings_gemini.js`
+  - `tools/fill_noun_articles_gemini.js`
+  - `tools/audit_noun_pos_gemini.js`
+  - `tools/fix_multi_meanings_gemini.js`
+- API 원문 요청/응답이 커밋되지 않도록 `tmp/`를 `.gitignore`에 추가했다.
+
+### 번역 보강
+
+- `ja`, `zh`, `sv` 중심으로 누락되어 있던 10개 표준 meanings 키를 채웠다.
+- 빈 문자열 대신 실제 UI 표시 가능한 한 줄 뜻만 남겼다.
+- 영어 동사 뜻에서 `to ...` 형태가 남지 않도록 정리했다.
+
+### 관사/명사 정리
+
+- `de`, `es`, `fr`, `it`, `pt` noun meanings에 자연스러운 관사를 보강했다.
+- 관사가 부자연스러운 고유명사, 부사구, 형용사구, 수사, 고정표현은 `meta.noArticleMeanings`로 예외 표시했다.
+- `lo bueno`, `todo el cuerpo`, `tout le corps`, `tutto il corpo`, `todo o corpo`처럼 수식어 뒤에 관사가 들어가는 자연 표현을 검증 규칙에 반영했다.
+- 일부 `Nomen` 오분류 항목은 `Adverb`, `Adjektiv`, `Pronomen`, `Numerale` 등으로 재분류했다.
+
+### 대표뜻 1개 정리
+
+- 독일어 원본 데이터의 `ja` / `zh` meanings에 남아 있던 쉼표 나열형 뜻을 대표뜻 1개로 축약했다.
+- 처리 결과:
+  - `ja` 복수뜻 646건 → 0건
+  - `zh` 복수뜻 576건 → 0건
+  - 행 기준 732개 항목 정리
+
+### 검증
+
+- 전체 단어 수: 62,330개
+- `missing meaning`: 0
+- `empty meaning`: 0
+- `duplicate id`: 0
+- `bad POS`: 0
+- 영어 동사 `to ...`: 0
+- `jaMulti`: 0
+- `zhMulti`: 0
+- `svMulti`: 0
+- 관사 후보 잔여: 0
+- 전체 `www/data/**/words_*.js` 문법 체크 통과
+
+### 커밋 전 점검
+
+- API 키가 포함된 `.env` 파일은 커밋 대상에 없음을 확인했다.
+- Gemini 요청/응답 산출물은 `tmp/` 아래에만 남기고 커밋에서 제외했다.
+- 기존 iOS/Android Firebase 설정 파일의 Google API key는 이번 작업에서 새로 추가된 값이 아니며 기존 tracked 앱 설정으로 유지했다.

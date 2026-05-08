@@ -9,6 +9,7 @@ yarn-error.log*
 # 빌드 결과물 (나중에 번들링 도입하면)
 dist/
 build/
+tmp/
 
 # VS Code 설정 (공유할 필요 없으면)
 .vscode/

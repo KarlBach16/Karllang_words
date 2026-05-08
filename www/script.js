@@ -2330,16 +2330,53 @@ function getAllWords() {
   return ALL_WORDS_DE || [];
 }
 
+const LEGACY_ARTICLE_TO_GENDER = {
+  de: {
+    der: "masculine",
+    die: "feminine",
+    das: "neuter",
+  },
+};
+
+function getWordArticle(word, langCode) {
+  if (!word) return "";
+  const lang = (langCode || word.lang || SETTINGS.studyLang || "de").toLowerCase();
+  const article = typeof word.article === "string" ? word.article.trim() : "";
+  if (article) return article;
+
+  const legacyGender = typeof word.gender === "string" ? word.gender.trim().toLowerCase() : "";
+  if (LEGACY_ARTICLE_TO_GENDER[lang] && LEGACY_ARTICLE_TO_GENDER[lang][legacyGender]) {
+    return legacyGender;
+  }
+
+  return "";
+}
+
+function getWordGrammarGender(word, langCode) {
+  if (!word) return "";
+  const lang = (langCode || word.lang || SETTINGS.studyLang || "de").toLowerCase();
+  const gender = typeof word.gender === "string" ? word.gender.trim() : "";
+  if (!gender) return "";
+
+  const normalized = gender.toLowerCase();
+  if (["masculine", "feminine", "neuter", "common"].includes(normalized)) {
+    return normalized;
+  }
+
+  return LEGACY_ARTICLE_TO_GENDER[lang]?.[normalized] || "";
+}
+
 // ✅ 학습 언어별 form 꺼내는 공통 헬퍼
 function getFormForLang(word, lang) {
   if (!word) return {};
 
-  // 새 스키마: lemma, gender, plural, pos가 최상위에 있음
+  // 새 스키마: lemma, article, gender, plural, pos가 최상위에 있음
   if (lang === "de") {
     return {
       word: word.lemma || "",
       base: word.lemma || "",
-      gender: word.gender || "",
+      article: getWordArticle(word, lang),
+      gender: getWordGrammarGender(word, lang),
       plural: word.plural || "",
       pos: word.pos || "",
     };
@@ -2359,12 +2396,12 @@ function buildGermanForm(word) {
   const targetLang = SETTINGS.studyLang || "de";
 
   if (targetLang === "de") {
-    const gender = word.gender || "";
+    const article = getWordArticle(word, targetLang);
     const lemma = (word.lemma || "").trim();
 
     // 명사: 관사 + 단어
-    if (gender && lemma) {
-      return `${gender} ${lemma}`;
+    if (article && lemma) {
+      return `${article} ${lemma}`;
     }
     // 동사/형용사/부사 등: 단어만
     return lemma;
@@ -5230,7 +5267,7 @@ function evaluateTypingAnswer(userInput, item) {
   // ==============================
   //   2) 독일어일 때
   // ==============================
-  const gender = form.gender || "";
+  const article = form.article || "";
   const inputNorm = trimmed;
 
   // ---- 작은 헬퍼: 선택 영역 ----
@@ -5264,7 +5301,7 @@ function evaluateTypingAnswer(userInput, item) {
   // ==============================
   //   2-1) 관사 없는 단어 (동사, 형용사 등)
   // ==============================
-  if (!gender) {
+  if (!article) {
     const rawPos = word.pos || "";
     const isNounLike = /^(noun|n|subst)/i.test(rawPos);
 
@@ -5333,14 +5370,14 @@ function evaluateTypingAnswer(userInput, item) {
   //   2-2) 관사 있는 명사 처리
   //   → 정답 기준: "관사 소문자 + 명사 대문자"
   // ==============================
-  const expected = `${gender} ${baseRaw}`;
+  const expected = `${article} ${baseRaw}`;
 
   const parts = inputNorm.split(" ");
   const inputArticle = parts[0] || "";
   const inputRest = parts.slice(1).join(" ");
 
-  const articleExact = inputArticle === gender; // ✅ 대소문자까지 완전 일치해야 정답
-  const articleIgnoreCase = inputArticle.toLowerCase() === gender.toLowerCase();
+  const articleExact = inputArticle === article; // ✅ 대소문자까지 완전 일치해야 정답
+  const articleIgnoreCase = inputArticle.toLowerCase() === article.toLowerCase();
 
   const restSameIgnoreCase = inputRest.toLowerCase() === baseRaw.toLowerCase();
   const restExact = inputRest === baseRaw;

@@ -1,8 +1,11 @@
 const WORDS_NL_A2 = [
   {
     "id": "nl_1113",
+    "lang": "nl",
     "lemma": "papier",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "papieren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20,17 +23,16 @@ const WORDS_NL_A2 = [
       "ja": "紙",
       "zh": "纸",
       "ru": "бумага",
-      "fr": "papier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "papieren"
+      "fr": "le papier"
+    }
   },
   {
     "id": "nl_1114",
+    "lang": "nl",
     "lemma": "kilo",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kilo's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -48,15 +50,12 @@ const WORDS_NL_A2 = [
       "ja": "キロ",
       "zh": "公斤",
       "ru": "килограмм",
-      "fr": "kilo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kilo's"
+      "fr": "le kilo"
+    }
   },
   {
     "id": "nl_1115",
+    "lang": "nl",
     "lemma": "vormen",
     "pos": "Verb",
     "cefr": "A2",
@@ -67,7 +66,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "형성하다",
-      "en": "to form",
+      "en": "form",
       "de": "bilden",
       "es": "formar",
       "nl": "vormen",
@@ -77,17 +76,15 @@ const WORDS_NL_A2 = [
       "zh": "形成",
       "ru": "формировать",
       "fr": "former"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vormen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1116",
+    "lang": "nl",
     "lemma": "storm",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stormen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -105,17 +102,16 @@ const WORDS_NL_A2 = [
       "ja": "嵐",
       "zh": "风暴",
       "ru": "шторм",
-      "fr": "tempête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stormen"
+      "fr": "la tempête"
+    }
   },
   {
     "id": "nl_1117",
+    "lang": "nl",
     "lemma": "hoed",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hoeden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -133,17 +129,16 @@ const WORDS_NL_A2 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "шляпа",
-      "fr": "chapeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hoeden"
+      "fr": "le chapeau"
+    }
   },
   {
     "id": "nl_1118",
+    "lang": "nl",
     "lemma": "leugen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "leugens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -161,17 +156,16 @@ const WORDS_NL_A2 = [
       "ja": "嘘",
       "zh": "谎言",
       "ru": "ложь",
-      "fr": "mensonge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "leugens"
+      "fr": "le mensonge"
+    }
   },
   {
     "id": "nl_1119",
+    "lang": "nl",
     "lemma": "ambulance",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ambulancen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -189,15 +183,12 @@ const WORDS_NL_A2 = [
       "ja": "救急車",
       "zh": "救护车",
       "ru": "скорая помощь",
-      "fr": "ambulance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ambulancen"
+      "fr": "l'ambulance"
+    }
   },
   {
     "id": "nl_1120",
+    "lang": "nl",
     "lemma": "beslist",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -218,14 +209,15 @@ const WORDS_NL_A2 = [
       "zh": "坚决的",
       "ru": "решительный",
       "fr": "défini"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1121",
+    "lang": "nl",
     "lemma": "pizza",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pizza's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -243,15 +235,12 @@ const WORDS_NL_A2 = [
       "ja": "ピザ",
       "zh": "披萨",
       "ru": "пицца",
-      "fr": "pizza"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pizza's"
+      "fr": "la pizza"
+    }
   },
   {
     "id": "nl_1122",
+    "lang": "nl",
     "lemma": "ontdekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -262,7 +251,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "발견하다",
-      "en": "to discover",
+      "en": "discover",
       "de": "entdecken",
       "es": "descubrir",
       "nl": "ontdekken",
@@ -272,17 +261,15 @@ const WORDS_NL_A2 = [
       "zh": "发现",
       "ru": "открывать",
       "fr": "découvrir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ontdekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1123",
+    "lang": "nl",
     "lemma": "verzoek",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verzoeken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -300,15 +287,12 @@ const WORDS_NL_A2 = [
       "ja": "要請",
       "zh": "请求",
       "ru": "запрос",
-      "fr": "requête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verzoeken"
+      "fr": "la requête"
+    }
   },
   {
     "id": "nl_1124",
+    "lang": "nl",
     "lemma": "overtuigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -319,7 +303,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "설득하다",
-      "en": "to convince",
+      "en": "convince",
       "de": "überzeugen",
       "es": "convencer",
       "nl": "overtuigen",
@@ -329,15 +313,11 @@ const WORDS_NL_A2 = [
       "zh": "说服",
       "ru": "убеждать",
       "fr": "convaincre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overtuigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1125",
+    "lang": "nl",
     "lemma": "toegeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -348,7 +328,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "인정하다",
-      "en": "to admit",
+      "en": "admit",
       "de": "zugeben",
       "es": "admitir",
       "nl": "toegeven",
@@ -358,15 +338,11 @@ const WORDS_NL_A2 = [
       "zh": "承认",
       "ru": "признавать",
       "fr": "admettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "toegeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1126",
+    "lang": "nl",
     "lemma": "high",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -386,14 +362,14 @@ const WORDS_NL_A2 = [
       "zh": "兴奋的",
       "ru": "эйфорический",
       "fr": "haut"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1127",
+    "lang": "nl",
     "lemma": "cent",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -411,15 +387,12 @@ const WORDS_NL_A2 = [
       "ja": "セント",
       "zh": "分",
       "ru": "цент",
-      "fr": "cent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le cent"
+    }
   },
   {
     "id": "nl_1128",
+    "lang": "nl",
     "lemma": "punten",
     "pos": "Verb",
     "cefr": "A2",
@@ -429,7 +402,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "싹트다",
-      "en": "to sprout",
+      "en": "sprout",
       "de": "keimen",
       "es": "brotar",
       "nl": "punten",
@@ -439,17 +412,15 @@ const WORDS_NL_A2 = [
       "zh": "发芽",
       "ru": "прорастать",
       "fr": "germer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "punten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1130",
+    "lang": "nl",
     "lemma": "big",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "biggen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -466,17 +437,16 @@ const WORDS_NL_A2 = [
       "ja": "子豚",
       "zh": "猪仔",
       "ru": "поросёнок",
-      "fr": "porcelet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "biggen"
+      "fr": "le porcelet"
+    }
   },
   {
     "id": "nl_1131",
+    "lang": "nl",
     "lemma": "kluis",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kluizen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -495,15 +465,19 @@ const WORDS_NL_A2 = [
       "ru": "сейф",
       "fr": "sûr"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kluizen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1132",
+    "lang": "nl",
     "lemma": "slaapkamer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "slaapkamers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -521,17 +495,16 @@ const WORDS_NL_A2 = [
       "ja": "寝室",
       "zh": "卧室",
       "ru": "спальня",
-      "fr": "chambre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "slaapkamers"
+      "fr": "la chambre"
+    }
   },
   {
     "id": "nl_1133",
+    "lang": "nl",
     "lemma": "wit",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "witten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -549,15 +522,12 @@ const WORDS_NL_A2 = [
       "ja": "白",
       "zh": "白色",
       "ru": "белый цвет",
-      "fr": "blanc"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "witten"
+      "fr": "le blanc"
+    }
   },
   {
     "id": "nl_1134",
+    "lang": "nl",
     "lemma": "wit",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -578,12 +548,11 @@ const WORDS_NL_A2 = [
       "zh": "白色的",
       "ru": "белый",
       "fr": "blanc"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1135",
+    "lang": "nl",
     "lemma": "bezoeken",
     "pos": "Verb",
     "cefr": "A2",
@@ -594,7 +563,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "방문하다",
-      "en": "to visit",
+      "en": "visit",
       "de": "besuchen",
       "es": "visitar",
       "nl": "bezoeken",
@@ -604,15 +573,11 @@ const WORDS_NL_A2 = [
       "zh": "访问",
       "ru": "посещать",
       "fr": "visiter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bezoeken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1136",
+    "lang": "nl",
     "lemma": "politiek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -633,12 +598,11 @@ const WORDS_NL_A2 = [
       "zh": "政治的",
       "ru": "политический",
       "fr": "politique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1137",
+    "lang": "nl",
     "lemma": "verdomd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -659,12 +623,11 @@ const WORDS_NL_A2 = [
       "zh": "该死的",
       "ru": "проклятый",
       "fr": "damné"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1138",
+    "lang": "nl",
     "lemma": "vervelend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -685,12 +648,11 @@ const WORDS_NL_A2 = [
       "zh": "烦人的",
       "ru": "надоедливый",
       "fr": "agaçant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1139",
+    "lang": "nl",
     "lemma": "rekenen",
     "pos": "Verb",
     "cefr": "A2",
@@ -711,17 +673,15 @@ const WORDS_NL_A2 = [
       "zh": "计算",
       "ru": "считать",
       "fr": "calculer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rekenen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1140",
+    "lang": "nl",
     "lemma": "klap",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "klappen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -739,15 +699,12 @@ const WORDS_NL_A2 = [
       "ja": "平手打ち",
       "zh": "拍打",
       "ru": "шлепок",
-      "fr": "gifle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "klappen"
+      "fr": "la gifle"
+    }
   },
   {
     "id": "nl_1141",
+    "lang": "nl",
     "lemma": "aanbieden",
     "pos": "Verb",
     "cefr": "A2",
@@ -768,17 +725,15 @@ const WORDS_NL_A2 = [
       "zh": "提供",
       "ru": "предлагать",
       "fr": "offre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aanbieden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1142",
+    "lang": "nl",
     "lemma": "streek",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "streken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -797,17 +752,16 @@ const WORDS_NL_A2 = [
       "ja": "地域",
       "zh": "地区",
       "ru": "регион",
-      "fr": "région"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "streken"
+      "fr": "la région"
+    }
   },
   {
     "id": "nl_1143",
+    "lang": "nl",
     "lemma": "zaterdag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zaterdagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -825,17 +779,15 @@ const WORDS_NL_A2 = [
       "ja": "土曜日",
       "zh": "星期六",
       "ru": "суббота",
-      "fr": "samedi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zaterdagen"
+      "fr": "le samedi"
+    }
   },
   {
     "id": "nl_1145",
+    "lang": "nl",
     "lemma": "zicht",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -853,17 +805,15 @@ const WORDS_NL_A2 = [
       "ja": "視界",
       "zh": "视线",
       "ru": "видимость",
-      "fr": "vue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la vue"
+    }
   },
   {
     "id": "nl_1146",
+    "lang": "nl",
     "lemma": "elf",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -883,13 +833,15 @@ const WORDS_NL_A2 = [
       "ru": "одиннадцать",
       "fr": "onze"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1148",
+    "lang": "nl",
     "lemma": "gewend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -910,14 +862,15 @@ const WORDS_NL_A2 = [
       "zh": "习惯的",
       "ru": "привыкший",
       "fr": "habitué"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1150",
+    "lang": "nl",
     "lemma": "blauw",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "blauwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -935,15 +888,12 @@ const WORDS_NL_A2 = [
       "ja": "青",
       "zh": "蓝色",
       "ru": "синий цвет",
-      "fr": "bleu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "blauwen"
+      "fr": "le bleu"
+    }
   },
   {
     "id": "nl_1151",
+    "lang": "nl",
     "lemma": "blauw",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -964,14 +914,15 @@ const WORDS_NL_A2 = [
       "zh": "蓝色的",
       "ru": "синий",
       "fr": "bleu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1153",
+    "lang": "nl",
     "lemma": "klus",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "klussen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -989,15 +940,12 @@ const WORDS_NL_A2 = [
       "ja": "雑用",
       "zh": "杂务",
       "ru": "работа",
-      "fr": "corvée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "klussen"
+      "fr": "la corvée"
+    }
   },
   {
     "id": "nl_1154",
+    "lang": "nl",
     "lemma": "accepteren",
     "pos": "Verb",
     "cefr": "A2",
@@ -1018,15 +966,11 @@ const WORDS_NL_A2 = [
       "zh": "接受",
       "ru": "принимать",
       "fr": "accepter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "accepteren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1155",
+    "lang": "nl",
     "lemma": "helen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1047,15 +991,11 @@ const WORDS_NL_A2 = [
       "zh": "治愈",
       "ru": "исцелять",
       "fr": "guérir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "helen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1157",
+    "lang": "nl",
     "lemma": "aankomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1076,15 +1016,11 @@ const WORDS_NL_A2 = [
       "zh": "到达",
       "ru": "прибывать",
       "fr": "arriver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aankomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1158",
+    "lang": "nl",
     "lemma": "verhuizen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1105,17 +1041,15 @@ const WORDS_NL_A2 = [
       "zh": "搬家",
       "ru": "переезжать",
       "fr": "déménager"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verhuizen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1159",
+    "lang": "nl",
     "lemma": "troep",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "troepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1133,17 +1067,16 @@ const WORDS_NL_A2 = [
       "ja": "散らかったもの",
       "zh": "混乱",
       "ru": "беспорядок",
-      "fr": "désordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "troepen"
+      "fr": "le désordre"
+    }
   },
   {
     "id": "nl_1160",
+    "lang": "nl",
     "lemma": "kust",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kusten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1161,17 +1094,16 @@ const WORDS_NL_A2 = [
       "ja": "海岸",
       "zh": "海岸",
       "ru": "побережье",
-      "fr": "côte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kusten"
+      "fr": "la côte"
+    }
   },
   {
     "id": "nl_1161",
+    "lang": "nl",
     "lemma": "graf",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "graven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1189,17 +1121,16 @@ const WORDS_NL_A2 = [
       "ja": "墓",
       "zh": "坟墓",
       "ru": "могила",
-      "fr": "tombe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "graven"
+      "fr": "la tombe"
+    }
   },
   {
     "id": "nl_1162",
+    "lang": "nl",
     "lemma": "dans",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dansen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1217,15 +1148,12 @@ const WORDS_NL_A2 = [
       "ja": "ダンス",
       "zh": "舞蹈",
       "ru": "танец",
-      "fr": "danse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dansen"
+      "fr": "la danse"
+    }
   },
   {
     "id": "nl_1163",
+    "lang": "nl",
     "lemma": "bleek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1246,14 +1174,14 @@ const WORDS_NL_A2 = [
       "zh": "苍白的",
       "ru": "бледный",
       "fr": "pâle"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1164",
+    "lang": "nl",
     "lemma": "bleek",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1271,17 +1199,16 @@ const WORDS_NL_A2 = [
       "ja": "漂白場",
       "zh": "漂白场",
       "ru": "отбельное поле",
-      "fr": "blanchisserie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la blanchisserie"
+    }
   },
   {
     "id": "nl_1165",
+    "lang": "nl",
     "lemma": "taal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "talen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1299,17 +1226,16 @@ const WORDS_NL_A2 = [
       "ja": "言語",
       "zh": "语言",
       "ru": "язык",
-      "fr": "langue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "talen"
+      "fr": "la langue"
+    }
   },
   {
     "id": "nl_1166",
+    "lang": "nl",
     "lemma": "dier",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "dieren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1327,15 +1253,12 @@ const WORDS_NL_A2 = [
       "ja": "動物",
       "zh": "动物",
       "ru": "животное",
-      "fr": "animal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "dieren"
+      "fr": "l'animal"
+    }
   },
   {
     "id": "nl_1167",
+    "lang": "nl",
     "lemma": "dier",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1356,14 +1279,15 @@ const WORDS_NL_A2 = [
       "zh": "珍贵的",
       "ru": "драгоценный",
       "fr": "précieux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1168",
+    "lang": "nl",
     "lemma": "aanklacht",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "aanklachten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1381,17 +1305,16 @@ const WORDS_NL_A2 = [
       "ja": "告発",
       "zh": "指控",
       "ru": "обвинение",
-      "fr": "accusation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "aanklachten"
+      "fr": "l'accusation"
+    }
   },
   {
     "id": "nl_1169",
+    "lang": "nl",
     "lemma": "wed",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "wedden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1409,15 +1332,12 @@ const WORDS_NL_A2 = [
       "ja": "浅瀬",
       "zh": "浅滩",
       "ru": "брод",
-      "fr": "gué"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "wedden"
+      "fr": "le gué"
+    }
   },
   {
     "id": "nl_1170",
+    "lang": "nl",
     "lemma": "lossen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1438,15 +1358,11 @@ const WORDS_NL_A2 = [
       "zh": "卸货",
       "ru": "разгружать",
       "fr": "décharger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lossen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1171",
+    "lang": "nl",
     "lemma": "huizen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1467,15 +1383,11 @@ const WORDS_NL_A2 = [
       "zh": "居住",
       "ru": "проживать",
       "fr": "résider"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "huizen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1172",
+    "lang": "nl",
     "lemma": "gerust",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1496,12 +1408,11 @@ const WORDS_NL_A2 = [
       "zh": "放心的",
       "ru": "спокойный",
       "fr": "rassuré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1174",
+    "lang": "nl",
     "lemma": "verdedigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1522,17 +1433,14 @@ const WORDS_NL_A2 = [
       "zh": "防御",
       "ru": "защищать",
       "fr": "défendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verdedigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1175",
+    "lang": "nl",
     "lemma": "westen",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1551,17 +1459,16 @@ const WORDS_NL_A2 = [
       "ja": "西",
       "zh": "西方",
       "ru": "запад",
-      "fr": "ouest"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'ouest"
+    }
   },
   {
     "id": "nl_1176",
+    "lang": "nl",
     "lemma": "stal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1580,15 +1487,19 @@ const WORDS_NL_A2 = [
       "ru": "конюшня",
       "fr": "stable"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stallen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1177",
+    "lang": "nl",
     "lemma": "job",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jobs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1606,17 +1517,16 @@ const WORDS_NL_A2 = [
       "ja": "仕事",
       "zh": "工作",
       "ru": "работа",
-      "fr": "emploi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jobs"
+      "fr": "l'emploi"
+    }
   },
   {
     "id": "nl_1178",
+    "lang": "nl",
     "lemma": "niveau",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "niveaus",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1634,15 +1544,12 @@ const WORDS_NL_A2 = [
       "ja": "レベル",
       "zh": "水平",
       "ru": "уровень",
-      "fr": "niveau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "niveaus"
+      "fr": "le niveau"
+    }
   },
   {
     "id": "nl_1179",
+    "lang": "nl",
     "lemma": "binnenkomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1663,17 +1570,15 @@ const WORDS_NL_A2 = [
       "zh": "进来",
       "ru": "входить",
       "fr": "entrer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "binnenkomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1181",
+    "lang": "nl",
     "lemma": "stroom",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stromen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1691,15 +1596,12 @@ const WORDS_NL_A2 = [
       "ja": "流れ",
       "zh": "水流",
       "ru": "поток",
-      "fr": "ruisseau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stromen"
+      "fr": "le ruisseau"
+    }
   },
   {
     "id": "nl_1182",
+    "lang": "nl",
     "lemma": "momenteel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1720,12 +1622,11 @@ const WORDS_NL_A2 = [
       "zh": "目前",
       "ru": "в настоящее время",
       "fr": "actuellement"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1183",
+    "lang": "nl",
     "lemma": "vals",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1746,14 +1647,14 @@ const WORDS_NL_A2 = [
       "zh": "假的",
       "ru": "ложный",
       "fr": "faux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1186",
+    "lang": "nl",
     "lemma": "schepen",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1771,15 +1672,12 @@ const WORDS_NL_A2 = [
       "ja": "参事",
       "zh": "市议员",
       "ru": "олдермен",
-      "fr": "échevin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'échevin"
+    }
   },
   {
     "id": "nl_1187",
+    "lang": "nl",
     "lemma": "schepen",
     "pos": "Verb",
     "cefr": "A2",
@@ -1800,15 +1698,11 @@ const WORDS_NL_A2 = [
       "zh": "登船",
       "ru": "садиться на корабль",
       "fr": "embarquer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schepen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1188",
+    "lang": "nl",
     "lemma": "gouden",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1829,12 +1723,11 @@ const WORDS_NL_A2 = [
       "zh": "金色的",
       "ru": "золотой",
       "fr": "doré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1189",
+    "lang": "nl",
     "lemma": "blind",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -1855,14 +1748,14 @@ const WORDS_NL_A2 = [
       "zh": "盲",
       "ru": "слепой",
       "fr": "aveugle"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1190",
+    "lang": "nl",
     "lemma": "blind",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1880,15 +1773,12 @@ const WORDS_NL_A2 = [
       "ja": "シャッター",
       "zh": "百叶窗",
       "ru": "ставень",
-      "fr": "volet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le volet"
+    }
   },
   {
     "id": "nl_1191",
+    "lang": "nl",
     "lemma": "achterlaten",
     "pos": "Verb",
     "cefr": "A2",
@@ -1909,17 +1799,15 @@ const WORDS_NL_A2 = [
       "zh": "留下",
       "ru": "оставлять",
       "fr": "laisser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "achterlaten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1192",
+    "lang": "nl",
     "lemma": "gevangene",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gevangenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1937,17 +1825,16 @@ const WORDS_NL_A2 = [
       "ja": "囚人",
       "zh": "囚犯",
       "ru": "заключенный",
-      "fr": "prisonnier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gevangenen"
+      "fr": "le prisonnier"
+    }
   },
   {
     "id": "nl_1193",
+    "lang": "nl",
     "lemma": "voordeel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "voordelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1965,17 +1852,15 @@ const WORDS_NL_A2 = [
       "ja": "利点",
       "zh": "优点",
       "ru": "преимущество",
-      "fr": "avantage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "voordelen"
+      "fr": "l'avantage"
+    }
   },
   {
     "id": "nl_1194",
+    "lang": "nl",
     "lemma": "geduld",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -1993,17 +1878,16 @@ const WORDS_NL_A2 = [
       "ja": "忍耐",
       "zh": "耐心",
       "ru": "терпение",
-      "fr": "patience"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la patience"
+    }
   },
   {
     "id": "nl_1195",
+    "lang": "nl",
     "lemma": "eeuw",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "eeuwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2021,17 +1905,16 @@ const WORDS_NL_A2 = [
       "ja": "世紀",
       "zh": "世纪",
       "ru": "век",
-      "fr": "siècle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "eeuwen"
+      "fr": "le siècle"
+    }
   },
   {
     "id": "nl_1196",
+    "lang": "nl",
     "lemma": "rotzooi",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rotzooitjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2049,17 +1932,16 @@ const WORDS_NL_A2 = [
       "ja": "散らかったもの",
       "zh": "混乱",
       "ru": "беспорядок",
-      "fr": "désordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rotzooitjes"
+      "fr": "le désordre"
+    }
   },
   {
     "id": "nl_1197",
+    "lang": "nl",
     "lemma": "brak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "brakken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2076,15 +1958,12 @@ const WORDS_NL_A2 = [
       "ja": "猟犬",
       "zh": "猎犬",
       "ru": "гончая",
-      "fr": "chien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "brakken"
+      "fr": "le chien"
+    }
   },
   {
     "id": "nl_1198",
+    "lang": "nl",
     "lemma": "brak",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2105,12 +1984,11 @@ const WORDS_NL_A2 = [
       "zh": "微咸的",
       "ru": "солоноватый",
       "fr": "saumâtre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1199",
+    "lang": "nl",
     "lemma": "bidden",
     "pos": "Verb",
     "cefr": "A2",
@@ -2130,15 +2008,11 @@ const WORDS_NL_A2 = [
       "zh": "祈祷",
       "ru": "молиться",
       "fr": "prier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bidden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1200",
+    "lang": "nl",
     "lemma": "wijs",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2159,14 +2033,14 @@ const WORDS_NL_A2 = [
       "zh": "聪明的",
       "ru": "мудрый",
       "fr": "sage"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1201",
+    "lang": "nl",
     "lemma": "wijs",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2184,17 +2058,16 @@ const WORDS_NL_A2 = [
       "ja": "メロディー",
       "zh": "旋律",
       "ru": "мелодия",
-      "fr": "mélodie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la mélodie"
+    }
   },
   {
     "id": "nl_1203",
+    "lang": "nl",
     "lemma": "vinger",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vingers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2212,15 +2085,12 @@ const WORDS_NL_A2 = [
       "ja": "指",
       "zh": "手指",
       "ru": "палец",
-      "fr": "doigt"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vingers"
+      "fr": "le doigt"
+    }
   },
   {
     "id": "nl_1204",
+    "lang": "nl",
     "lemma": "gespeeld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2241,14 +2111,15 @@ const WORDS_NL_A2 = [
       "zh": "已完成的",
       "ru": "сыгранный",
       "fr": "joué"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1205",
+    "lang": "nl",
     "lemma": "virus",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "virussen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2266,15 +2137,12 @@ const WORDS_NL_A2 = [
       "ja": "ウイルス",
       "zh": "病毒",
       "ru": "вирус",
-      "fr": "virus"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "virussen"
+      "fr": "le virus"
+    }
   },
   {
     "id": "nl_1206",
+    "lang": "nl",
     "lemma": "bomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -2294,17 +2162,14 @@ const WORDS_NL_A2 = [
       "zh": "聊天",
       "ru": "болтать",
       "fr": "bavarder"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1207",
+    "lang": "nl",
     "lemma": "personeel",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2322,15 +2187,12 @@ const WORDS_NL_A2 = [
       "ja": "職員",
       "zh": "员工",
       "ru": "персонал",
-      "fr": "personnel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le personnel"
+    }
   },
   {
     "id": "nl_1208",
+    "lang": "nl",
     "lemma": "personeel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2351,12 +2213,11 @@ const WORDS_NL_A2 = [
       "zh": "人事的",
       "ru": "кадровый",
       "fr": "personnel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1209",
+    "lang": "nl",
     "lemma": "plekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -2376,17 +2237,14 @@ const WORDS_NL_A2 = [
       "zh": "弄脏",
       "ru": "пачкать",
       "fr": "tache"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "plekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1212",
+    "lang": "nl",
     "lemma": "zuiden",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2405,15 +2263,12 @@ const WORDS_NL_A2 = [
       "ja": "南",
       "zh": "南方",
       "ru": "юг",
-      "fr": "sud"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le sud"
+    }
   },
   {
     "id": "nl_1213",
+    "lang": "nl",
     "lemma": "rechten",
     "pos": "Verb",
     "cefr": "A2",
@@ -2433,17 +2288,14 @@ const WORDS_NL_A2 = [
       "zh": "弄直",
       "ru": "выпрямлять",
       "fr": "redresser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rechten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1214",
+    "lang": "nl",
     "lemma": "stof",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2461,17 +2313,16 @@ const WORDS_NL_A2 = [
       "ja": "ほこり",
       "zh": "灰尘",
       "ru": "пыль",
-      "fr": "poussière"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la poussière"
+    }
   },
   {
     "id": "nl_1215",
+    "lang": "nl",
     "lemma": "badkamer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "badkamers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2489,17 +2340,16 @@ const WORDS_NL_A2 = [
       "ja": "浴室",
       "zh": "浴室",
       "ru": "ванная комната",
-      "fr": "salle de bain"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "badkamers"
+      "fr": "la salle de bain"
+    }
   },
   {
     "id": "nl_1216",
+    "lang": "nl",
     "lemma": "zondag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zondagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2517,17 +2367,16 @@ const WORDS_NL_A2 = [
       "ja": "日曜日",
       "zh": "星期日",
       "ru": "воскресенье",
-      "fr": "dimanche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zondagen"
+      "fr": "le dimanche"
+    }
   },
   {
     "id": "nl_1217",
+    "lang": "nl",
     "lemma": "smaak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "smaken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2545,15 +2394,12 @@ const WORDS_NL_A2 = [
       "ja": "味",
       "zh": "味道",
       "ru": "вкус",
-      "fr": "goût"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "smaken"
+      "fr": "le goût"
+    }
   },
   {
     "id": "nl_1218",
+    "lang": "nl",
     "lemma": "aanwezig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2574,14 +2420,15 @@ const WORDS_NL_A2 = [
       "zh": "在场的",
       "ru": "присутствующий",
       "fr": "présent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1219",
+    "lang": "nl",
     "lemma": "leraar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "nl: leraren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2599,17 +2446,16 @@ const WORDS_NL_A2 = [
       "ja": "教師",
       "zh": "老师",
       "ru": "учитель",
-      "fr": "professeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "nl: leraren"
+      "fr": "le professeur"
+    }
   },
   {
     "id": "nl_1220",
+    "lang": "nl",
     "lemma": "maandag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "maandagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2627,15 +2473,12 @@ const WORDS_NL_A2 = [
       "ja": "月曜日",
       "zh": "星期一",
       "ru": "понедельник",
-      "fr": "lundi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "maandagen"
+      "fr": "le lundi"
+    }
   },
   {
     "id": "nl_1221",
+    "lang": "nl",
     "lemma": "bergen",
     "pos": "Verb",
     "cefr": "A2",
@@ -2656,17 +2499,15 @@ const WORDS_NL_A2 = [
       "zh": "储存",
       "ru": "хранить",
       "fr": "magasin"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bergen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1222",
+    "lang": "nl",
     "lemma": "woede",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "woedes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2684,15 +2525,12 @@ const WORDS_NL_A2 = [
       "ja": "怒り",
       "zh": "愤怒",
       "ru": "гнев",
-      "fr": "rage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "woedes"
+      "fr": "la rage"
+    }
   },
   {
     "id": "nl_1223",
+    "lang": "nl",
     "lemma": "studeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -2713,15 +2551,11 @@ const WORDS_NL_A2 = [
       "zh": "学习",
       "ru": "учиться",
       "fr": "étude"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "studeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1224",
+    "lang": "nl",
     "lemma": "troepen",
     "pos": "Verb",
     "cefr": "A2",
@@ -2742,15 +2576,11 @@ const WORDS_NL_A2 = [
       "zh": "聚集",
       "ru": "собираться",
       "fr": "rassembler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "troepen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1225",
+    "lang": "nl",
     "lemma": "eindigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -2771,15 +2601,11 @@ const WORDS_NL_A2 = [
       "zh": "结束",
       "ru": "заканчивать",
       "fr": "fin"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eindigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1227",
+    "lang": "nl",
     "lemma": "groeien",
     "pos": "Verb",
     "cefr": "A2",
@@ -2800,17 +2626,15 @@ const WORDS_NL_A2 = [
       "zh": "成长",
       "ru": "расти",
       "fr": "grandir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "groeien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1228",
+    "lang": "nl",
     "lemma": "piloot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "piloten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2828,17 +2652,16 @@ const WORDS_NL_A2 = [
       "ja": "パイロット",
       "zh": "飞行员",
       "ru": "пилот",
-      "fr": "pilote"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "piloten"
+      "fr": "le pilote"
+    }
   },
   {
     "id": "nl_1229",
+    "lang": "nl",
     "lemma": "verslag",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verslagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2856,17 +2679,16 @@ const WORDS_NL_A2 = [
       "ja": "報告",
       "zh": "报告",
       "ru": "отчет",
-      "fr": "rapport"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verslagen"
+      "fr": "le rapport"
+    }
   },
   {
     "id": "nl_1230",
+    "lang": "nl",
     "lemma": "ex",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "exen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2884,15 +2706,12 @@ const WORDS_NL_A2 = [
       "ja": "元パートナー",
       "zh": "前任",
       "ru": "бывший",
-      "fr": "ex"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "exen"
+      "fr": "l'ex"
+    }
   },
   {
     "id": "nl_1231",
+    "lang": "nl",
     "lemma": "ex",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -2913,12 +2732,11 @@ const WORDS_NL_A2 = [
       "zh": "不包括",
       "ru": "исключая",
       "fr": "excluant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1232",
+    "lang": "nl",
     "lemma": "waarschuwen",
     "pos": "Verb",
     "cefr": "A2",
@@ -2939,15 +2757,11 @@ const WORDS_NL_A2 = [
       "zh": "警告",
       "ru": "предупреждать",
       "fr": "avertir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "waarschuwen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1233",
+    "lang": "nl",
     "lemma": "melden",
     "pos": "Verb",
     "cefr": "A2",
@@ -2968,17 +2782,15 @@ const WORDS_NL_A2 = [
       "zh": "报告",
       "ru": "сообщать",
       "fr": "rapport"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "melden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1234",
+    "lang": "nl",
     "lemma": "oceaan",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oceanen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -2996,17 +2808,16 @@ const WORDS_NL_A2 = [
       "ja": "大洋",
       "zh": "海洋",
       "ru": "океан",
-      "fr": "océan"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oceanen"
+      "fr": "l'océan"
+    }
   },
   {
     "id": "nl_1235",
+    "lang": "nl",
     "lemma": "gas",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gassen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3024,15 +2835,12 @@ const WORDS_NL_A2 = [
       "ja": "ガス",
       "zh": "气体",
       "ru": "газ",
-      "fr": "gaz"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gassen"
+      "fr": "le gaz"
+    }
   },
   {
     "id": "nl_1236",
+    "lang": "nl",
     "lemma": "voorlopig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3053,12 +2861,11 @@ const WORDS_NL_A2 = [
       "zh": "暂时的",
       "ru": "предварительный",
       "fr": "provisoire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1237",
+    "lang": "nl",
     "lemma": "verdacht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3079,12 +2886,11 @@ const WORDS_NL_A2 = [
       "zh": "可疑的",
       "ru": "подозрительный",
       "fr": "suspect"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1238",
+    "lang": "nl",
     "lemma": "privé",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3105,14 +2911,15 @@ const WORDS_NL_A2 = [
       "zh": "私人的",
       "ru": "частный",
       "fr": "privé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1240",
+    "lang": "nl",
     "lemma": "zonde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zonden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3130,15 +2937,12 @@ const WORDS_NL_A2 = [
       "ja": "罪",
       "zh": "罪",
       "ru": "грех",
-      "fr": "péché"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zonden"
+      "fr": "le péché"
+    }
   },
   {
     "id": "nl_1241",
+    "lang": "nl",
     "lemma": "zonde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3159,12 +2963,11 @@ const WORDS_NL_A2 = [
       "zh": "可惜的",
       "ru": "жаль",
       "fr": "dommage"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1242",
+    "lang": "nl",
     "lemma": "naakt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3185,14 +2988,14 @@ const WORDS_NL_A2 = [
       "zh": "裸体的",
       "ru": "голый",
       "fr": "nu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1243",
+    "lang": "nl",
     "lemma": "naakt",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3210,15 +3013,12 @@ const WORDS_NL_A2 = [
       "ja": "ヌード",
       "zh": "裸体",
       "ru": "нагота",
-      "fr": "nu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le nu"
+    }
   },
   {
     "id": "nl_1244",
+    "lang": "nl",
     "lemma": "plegen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3239,17 +3039,15 @@ const WORDS_NL_A2 = [
       "zh": "犯",
       "ru": "совершать",
       "fr": "commettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "plegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1245",
+    "lang": "nl",
     "lemma": "excuus",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "excuses",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3268,15 +3066,12 @@ const WORDS_NL_A2 = [
       "ja": "言い訳",
       "zh": "借口",
       "ru": "извинение",
-      "fr": "excuse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "excuses"
+      "fr": "l'excuse"
+    }
   },
   {
     "id": "nl_1246",
+    "lang": "nl",
     "lemma": "verrast",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3297,12 +3092,11 @@ const WORDS_NL_A2 = [
       "zh": "惊讶的",
       "ru": "удивлённый",
       "fr": "surpris"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1247",
+    "lang": "nl",
     "lemma": "dienen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3323,15 +3117,11 @@ const WORDS_NL_A2 = [
       "zh": "服务",
       "ru": "служить",
       "fr": "servir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dienen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1248",
+    "lang": "nl",
     "lemma": "ongelofelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3352,12 +3142,11 @@ const WORDS_NL_A2 = [
       "zh": "难以置信的",
       "ru": "невероятный",
       "fr": "incroyable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1249",
+    "lang": "nl",
     "lemma": "haten",
     "pos": "Verb",
     "cefr": "A2",
@@ -3378,15 +3167,11 @@ const WORDS_NL_A2 = [
       "zh": "恨",
       "ru": "ненавидеть",
       "fr": "haine"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "haten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1251",
+    "lang": "nl",
     "lemma": "herstellen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3407,17 +3192,15 @@ const WORDS_NL_A2 = [
       "zh": "恢复",
       "ru": "восстанавливать",
       "fr": "restaurer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herstellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1252",
+    "lang": "nl",
     "lemma": "wc",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wc's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3435,17 +3218,16 @@ const WORDS_NL_A2 = [
       "ja": "トイレ",
       "zh": "厕所",
       "ru": "туалет",
-      "fr": "toilette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wc's"
+      "fr": "la toilette"
+    }
   },
   {
     "id": "nl_1253",
+    "lang": "nl",
     "lemma": "lord",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lords",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3463,17 +3245,16 @@ const WORDS_NL_A2 = [
       "ja": "卿",
       "zh": "勋爵",
       "ru": "лорд",
-      "fr": "seigneur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lords"
+      "fr": "le seigneur"
+    }
   },
   {
     "id": "nl_1254",
+    "lang": "nl",
     "lemma": "tong",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tongen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3491,17 +3272,16 @@ const WORDS_NL_A2 = [
       "ja": "舌",
       "zh": "舌头",
       "ru": "язык",
-      "fr": "langue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tongen"
+      "fr": "la langue"
+    }
   },
   {
     "id": "nl_1255",
+    "lang": "nl",
     "lemma": "ruil",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ruilen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3519,15 +3299,12 @@ const WORDS_NL_A2 = [
       "ja": "交換",
       "zh": "交换",
       "ru": "обмен",
-      "fr": "échange"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ruilen"
+      "fr": "l'échange"
+    }
   },
   {
     "id": "nl_1256",
+    "lang": "nl",
     "lemma": "verklaren",
     "pos": "Verb",
     "cefr": "A2",
@@ -3548,17 +3325,15 @@ const WORDS_NL_A2 = [
       "zh": "声明",
       "ru": "объявлять",
       "fr": "déclarer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verklaren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1257",
+    "lang": "nl",
     "lemma": "kim",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kimmen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3576,15 +3351,12 @@ const WORDS_NL_A2 = [
       "ja": "水平線",
       "zh": "地平线",
       "ru": "горизонт",
-      "fr": "horizon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kimmen"
+      "fr": "l'horizon"
+    }
   },
   {
     "id": "nl_1258",
+    "lang": "nl",
     "lemma": "marine",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3605,14 +3377,15 @@ const WORDS_NL_A2 = [
       "zh": "海军蓝的",
       "ru": "тёмно-синий",
       "fr": "bleu marine"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1259",
+    "lang": "nl",
     "lemma": "champagne",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "champagnes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3630,15 +3403,12 @@ const WORDS_NL_A2 = [
       "ja": "シャンパン",
       "zh": "香槟",
       "ru": "шампанское",
-      "fr": "champagne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "champagnes"
+      "fr": "le champagne"
+    }
   },
   {
     "id": "nl_1260",
+    "lang": "nl",
     "lemma": "champagne",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3659,14 +3429,15 @@ const WORDS_NL_A2 = [
       "zh": "香槟色的",
       "ru": "цвета шампанского",
       "fr": "couleur champagne"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1261",
+    "lang": "nl",
     "lemma": "genade",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "genaden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3684,17 +3455,16 @@ const WORDS_NL_A2 = [
       "ja": "慈悲",
       "zh": "怜悯",
       "ru": "милость",
-      "fr": "miséricorde"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "genaden"
+      "fr": "la miséricorde"
+    }
   },
   {
     "id": "nl_1262",
+    "lang": "nl",
     "lemma": "chauffeur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chauffeurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3712,15 +3482,12 @@ const WORDS_NL_A2 = [
       "ja": "運転手",
       "zh": "司机",
       "ru": "шофёр",
-      "fr": "conducteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chauffeurs"
+      "fr": "le conducteur"
+    }
   },
   {
     "id": "nl_1263",
+    "lang": "nl",
     "lemma": "wensen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3741,15 +3508,11 @@ const WORDS_NL_A2 = [
       "zh": "希望",
       "ru": "желать",
       "fr": "souhait"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wensen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1264",
+    "lang": "nl",
     "lemma": "eenzaam",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -3770,14 +3533,15 @@ const WORDS_NL_A2 = [
       "zh": "孤独的",
       "ru": "одинокий",
       "fr": "solitaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1265",
+    "lang": "nl",
     "lemma": "voorstel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "voorstellen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3795,17 +3559,16 @@ const WORDS_NL_A2 = [
       "ja": "提案",
       "zh": "提议",
       "ru": "предложение",
-      "fr": "proposition"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "voorstellen"
+      "fr": "la proposition"
+    }
   },
   {
     "id": "nl_1266",
+    "lang": "nl",
     "lemma": "gouverneur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gouverneurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3823,15 +3586,12 @@ const WORDS_NL_A2 = [
       "ja": "知事",
       "zh": "总督",
       "ru": "губернатор",
-      "fr": "gouverneur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gouverneurs"
+      "fr": "le gouverneur"
+    }
   },
   {
     "id": "nl_1267",
+    "lang": "nl",
     "lemma": "graven",
     "pos": "Verb",
     "cefr": "A2",
@@ -3852,17 +3612,15 @@ const WORDS_NL_A2 = [
       "zh": "挖",
       "ru": "копать",
       "fr": "creuser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "graven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1268",
+    "lang": "nl",
     "lemma": "terrein",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "terreinen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3880,17 +3638,16 @@ const WORDS_NL_A2 = [
       "ja": "地形",
       "zh": "地形",
       "ru": "местность",
-      "fr": "terrain"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "terreinen"
+      "fr": "le terrain"
+    }
   },
   {
     "id": "nl_1269",
+    "lang": "nl",
     "lemma": "handel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "handels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3909,15 +3666,12 @@ const WORDS_NL_A2 = [
       "ja": "貿易",
       "zh": "贸易",
       "ru": "торговля",
-      "fr": "commerce"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "handels"
+      "fr": "le commerce"
+    }
   },
   {
     "id": "nl_1270",
+    "lang": "nl",
     "lemma": "zwijgen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3938,15 +3692,11 @@ const WORDS_NL_A2 = [
       "zh": "沉默",
       "ru": "молчать",
       "fr": "se taire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zwijgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1271",
+    "lang": "nl",
     "lemma": "ademen",
     "pos": "Verb",
     "cefr": "A2",
@@ -3967,17 +3717,15 @@ const WORDS_NL_A2 = [
       "zh": "呼吸",
       "ru": "дышать",
       "fr": "respirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ademen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1272",
+    "lang": "nl",
     "lemma": "horloge",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "horloges",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -3995,17 +3743,15 @@ const WORDS_NL_A2 = [
       "ja": "腕時計",
       "zh": "手表",
       "ru": "часы",
-      "fr": "regarder"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "horloges"
+      "fr": "l'horloge"
+    }
   },
   {
     "id": "nl_1273",
+    "lang": "nl",
     "lemma": "ronde",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4023,17 +3769,16 @@ const WORDS_NL_A2 = [
       "ja": "ラウンド",
       "zh": "回合",
       "ru": "раунд",
-      "fr": "rond"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la ronde"
+    }
   },
   {
     "id": "nl_1274",
+    "lang": "nl",
     "lemma": "verloofde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "verloofden m",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4051,17 +3796,16 @@ const WORDS_NL_A2 = [
       "ja": "婚約者",
       "zh": "未婚夫",
       "ru": "жених",
-      "fr": "fiancé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "verloofden m"
+      "fr": "le fiancé"
+    }
   },
   {
     "id": "nl_1275",
+    "lang": "nl",
     "lemma": "pensioen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "pensioenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4079,15 +3823,12 @@ const WORDS_NL_A2 = [
       "ja": "年金",
       "zh": "养老金",
       "ru": "пенсия",
-      "fr": "pension"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "pensioenen"
+      "fr": "la pension"
+    }
   },
   {
     "id": "nl_1276",
+    "lang": "nl",
     "lemma": "vrolijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4108,14 +3849,15 @@ const WORDS_NL_A2 = [
       "zh": "开朗的",
       "ru": "веселый",
       "fr": "joyeux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1277",
+    "lang": "nl",
     "lemma": "poort",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "poorten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4133,17 +3875,16 @@ const WORDS_NL_A2 = [
       "ja": "門",
       "zh": "门",
       "ru": "ворота",
-      "fr": "portail"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "poorten"
+      "fr": "le portail"
+    }
   },
   {
     "id": "nl_1278",
+    "lang": "nl",
     "lemma": "artikel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "artikels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4161,17 +3902,16 @@ const WORDS_NL_A2 = [
       "ja": "品物",
       "zh": "物品",
       "ru": "товар",
-      "fr": "article"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "artikels"
+      "fr": "l'article"
+    }
   },
   {
     "id": "nl_1279",
+    "lang": "nl",
     "lemma": "overval",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "overvallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4188,15 +3928,12 @@ const WORDS_NL_A2 = [
       "ja": "強盗",
       "zh": "抢劫",
       "ru": "ограбление",
-      "fr": "vol"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "overvallen"
+      "fr": "le vol"
+    }
   },
   {
     "id": "nl_1280",
+    "lang": "nl",
     "lemma": "netjes",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4217,12 +3954,11 @@ const WORDS_NL_A2 = [
       "zh": "整洁的",
       "ru": "аккуратный",
       "fr": "soigné"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1281",
+    "lang": "nl",
     "lemma": "aanraken",
     "pos": "Verb",
     "cefr": "A2",
@@ -4243,17 +3979,15 @@ const WORDS_NL_A2 = [
       "zh": "触摸",
       "ru": "касаться",
       "fr": "touche"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aanraken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1282",
+    "lang": "nl",
     "lemma": "brood",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "broden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4271,15 +4005,12 @@ const WORDS_NL_A2 = [
       "ja": "パン",
       "zh": "面包",
       "ru": "хлеб",
-      "fr": "pain"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "broden"
+      "fr": "le pain"
+    }
   },
   {
     "id": "nl_1283",
+    "lang": "nl",
     "lemma": "verstoppen",
     "pos": "Verb",
     "cefr": "A2",
@@ -4300,17 +4031,15 @@ const WORDS_NL_A2 = [
       "zh": "藏",
       "ru": "прятать",
       "fr": "cacher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verstoppen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1284",
+    "lang": "nl",
     "lemma": "dief",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dieven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4327,17 +4056,16 @@ const WORDS_NL_A2 = [
       "ja": "泥棒",
       "zh": "小偷",
       "ru": "вор",
-      "fr": "voleur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dieven"
+      "fr": "le voleur"
+    }
   },
   {
     "id": "nl_1285",
+    "lang": "nl",
     "lemma": "voorbeeld",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "voorbeelden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4355,17 +4083,16 @@ const WORDS_NL_A2 = [
       "ja": "例",
       "zh": "例子",
       "ru": "пример",
-      "fr": "exemple"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "voorbeelden"
+      "fr": "l'exemple"
+    }
   },
   {
     "id": "nl_1286",
+    "lang": "nl",
     "lemma": "geur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "geuren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4383,17 +4110,16 @@ const WORDS_NL_A2 = [
       "ja": "匂い",
       "zh": "气味",
       "ru": "запах",
-      "fr": "odeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "geuren"
+      "fr": "l'odeur"
+    }
   },
   {
     "id": "nl_1287",
+    "lang": "nl",
     "lemma": "dichter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dichters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4411,17 +4137,16 @@ const WORDS_NL_A2 = [
       "ja": "詩人",
       "zh": "诗人",
       "ru": "поэт",
-      "fr": "poète"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dichters"
+      "fr": "le poète"
+    }
   },
   {
     "id": "nl_1288",
+    "lang": "nl",
     "lemma": "vliegveld",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vliegvelden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4440,17 +4165,16 @@ const WORDS_NL_A2 = [
       "ja": "空港",
       "zh": "机场",
       "ru": "аэропорт",
-      "fr": "aéroport"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vliegvelden"
+      "fr": "l'aéroport"
+    }
   },
   {
     "id": "nl_1289",
+    "lang": "nl",
     "lemma": "markt",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "markten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4468,17 +4192,16 @@ const WORDS_NL_A2 = [
       "ja": "市場",
       "zh": "市场",
       "ru": "рынок",
-      "fr": "marché"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "markten"
+      "fr": "le marché"
+    }
   },
   {
     "id": "nl_1290",
+    "lang": "nl",
     "lemma": "centrum",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "centra",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4496,15 +4219,12 @@ const WORDS_NL_A2 = [
       "ja": "中心",
       "zh": "中心",
       "ru": "центр",
-      "fr": "centre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "centra"
+      "fr": "le centre"
+    }
   },
   {
     "id": "nl_1291",
+    "lang": "nl",
     "lemma": "ontzettend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4525,14 +4245,15 @@ const WORDS_NL_A2 = [
       "zh": "巨大的",
       "ru": "огромный",
       "fr": "énorme"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1292",
+    "lang": "nl",
     "lemma": "beer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "beren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4550,17 +4271,16 @@ const WORDS_NL_A2 = [
       "ja": "熊",
       "zh": "熊",
       "ru": "медведь",
-      "fr": "ours"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "beren"
+      "fr": "l'ours"
+    }
   },
   {
     "id": "nl_1293",
+    "lang": "nl",
     "lemma": "alibi",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "alibi's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4577,15 +4297,12 @@ const WORDS_NL_A2 = [
       "ja": "アリバイ",
       "zh": "不在场证明",
       "ru": "алиби",
-      "fr": "alibi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "alibi's"
+      "fr": "l'alibi"
+    }
   },
   {
     "id": "nl_1294",
+    "lang": "nl",
     "lemma": "brieven",
     "pos": "Verb",
     "cefr": "A2",
@@ -4596,7 +4313,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "편지를 쓰다",
-      "en": "to write a letter",
+      "en": "write a letter",
       "de": "einen Brief schreiben",
       "es": "escribir una carta",
       "nl": "brieven",
@@ -4606,17 +4323,15 @@ const WORDS_NL_A2 = [
       "zh": "写信",
       "ru": "писать письмо",
       "fr": "écrire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "brieven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1295",
+    "lang": "nl",
     "lemma": "whisky",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "whisky's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4633,17 +4348,15 @@ const WORDS_NL_A2 = [
       "ja": "ウイスキー",
       "zh": "威士忌",
       "ru": "виски",
-      "fr": "whisky"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "whisky's"
+      "fr": "le whisky"
+    }
   },
   {
     "id": "nl_1296",
+    "lang": "nl",
     "lemma": "onschuldige",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4661,15 +4374,12 @@ const WORDS_NL_A2 = [
       "ja": "無実の人",
       "zh": "无辜者",
       "ru": "невиновный",
-      "fr": "innocent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'innocent"
+    }
   },
   {
     "id": "nl_1297",
+    "lang": "nl",
     "lemma": "stenen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4690,12 +4400,11 @@ const WORDS_NL_A2 = [
       "zh": "石头的",
       "ru": "каменный",
       "fr": "pierre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1298",
+    "lang": "nl",
     "lemma": "stenen",
     "pos": "Verb",
     "cefr": "A2",
@@ -4706,7 +4415,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "돌로 치다",
-      "en": "to stone",
+      "en": "stone",
       "de": "steinigen",
       "es": "apedrear",
       "nl": "stenen",
@@ -4716,17 +4425,15 @@ const WORDS_NL_A2 = [
       "zh": "用石头砸",
       "ru": "забивать камнями",
       "fr": "lapider"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stenen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1299",
+    "lang": "nl",
     "lemma": "universum",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "universums",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4744,17 +4451,16 @@ const WORDS_NL_A2 = [
       "ja": "宇宙",
       "zh": "宇宙",
       "ru": "вселенная",
-      "fr": "univers"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "universums"
+      "fr": "l'univers"
+    }
   },
   {
     "id": "nl_1300",
+    "lang": "nl",
     "lemma": "wijze",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wijzen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4772,17 +4478,15 @@ const WORDS_NL_A2 = [
       "ja": "方法",
       "zh": "方式",
       "ru": "способ",
-      "fr": "chemin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wijzen"
+      "fr": "la manière"
+    }
   },
   {
     "id": "nl_1301",
+    "lang": "nl",
     "lemma": "kerstmis",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4801,15 +4505,19 @@ const WORDS_NL_A2 = [
       "ru": "Рождество",
       "fr": "Noël"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1302",
+    "lang": "nl",
     "lemma": "huur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "huren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4827,17 +4535,16 @@ const WORDS_NL_A2 = [
       "ja": "家賃",
       "zh": "租金",
       "ru": "аренда",
-      "fr": "loyer"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "huren"
+      "fr": "le loyer"
+    }
   },
   {
     "id": "nl_1303",
+    "lang": "nl",
     "lemma": "plicht",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "plichten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4855,17 +4562,16 @@ const WORDS_NL_A2 = [
       "ja": "義務",
       "zh": "职责",
       "ru": "долг",
-      "fr": "devoir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "plichten"
+      "fr": "le devoir"
+    }
   },
   {
     "id": "nl_1304",
+    "lang": "nl",
     "lemma": "assistent",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "assistenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4883,17 +4589,16 @@ const WORDS_NL_A2 = [
       "ja": "助手",
       "zh": "助理",
       "ru": "ассистент",
-      "fr": "assistant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "assistenten"
+      "fr": "l'assistant"
+    }
   },
   {
     "id": "nl_1305",
+    "lang": "nl",
     "lemma": "fan",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "fans",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4911,17 +4616,16 @@ const WORDS_NL_A2 = [
       "ja": "ファン",
       "zh": "粉丝",
       "ru": "фанат",
-      "fr": "ventilateur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "fans"
+      "fr": "le fan"
+    }
   },
   {
     "id": "nl_1306",
+    "lang": "nl",
     "lemma": "materiaal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "materialen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -4939,15 +4643,12 @@ const WORDS_NL_A2 = [
       "ja": "材料",
       "zh": "材料",
       "ru": "материал",
-      "fr": "matériel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "materialen"
+      "fr": "le matériel"
+    }
   },
   {
     "id": "nl_1307",
+    "lang": "nl",
     "lemma": "hartelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4968,12 +4669,11 @@ const WORDS_NL_A2 = [
       "zh": "热情的",
       "ru": "сердечный",
       "fr": "cordial"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1308",
+    "lang": "nl",
     "lemma": "online",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -4994,14 +4694,15 @@ const WORDS_NL_A2 = [
       "zh": "在线的",
       "ru": "онлайн",
       "fr": "en ligne"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1309",
+    "lang": "nl",
     "lemma": "shirt",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "shirts",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5019,15 +4720,12 @@ const WORDS_NL_A2 = [
       "ja": "シャツ",
       "zh": "衬衫",
       "ru": "рубашка",
-      "fr": "chemise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "shirts"
+      "fr": "la chemise"
+    }
   },
   {
     "id": "nl_1310",
+    "lang": "nl",
     "lemma": "bevelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -5038,7 +4736,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "명령하다",
-      "en": "to command",
+      "en": "command",
       "de": "befehlen",
       "es": "ordenar",
       "nl": "bevelen",
@@ -5048,17 +4746,15 @@ const WORDS_NL_A2 = [
       "zh": "命令",
       "ru": "приказывать",
       "fr": "commander"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bevelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1311",
+    "lang": "nl",
     "lemma": "priester",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "priesters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5076,17 +4772,16 @@ const WORDS_NL_A2 = [
       "ja": "司祭",
       "zh": "牧师",
       "ru": "священник",
-      "fr": "prêtre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "priesters"
+      "fr": "le prêtre"
+    }
   },
   {
     "id": "nl_1312",
+    "lang": "nl",
     "lemma": "meent",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "meenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5104,15 +4799,12 @@ const WORDS_NL_A2 = [
       "ja": "共有地",
       "zh": "公地",
       "ru": "общинная земля",
-      "fr": "communaux"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "meenten"
+      "fr": "les communaux"
+    }
   },
   {
     "id": "nl_1313",
+    "lang": "nl",
     "lemma": "kloppen",
     "pos": "Verb",
     "cefr": "A2",
@@ -5123,7 +4815,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "두드리다",
-      "en": "to knock",
+      "en": "knock",
       "de": "klopfen",
       "es": "golpear",
       "nl": "kloppen",
@@ -5133,15 +4825,11 @@ const WORDS_NL_A2 = [
       "zh": "敲",
       "ru": "стучать",
       "fr": "frapper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kloppen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1314",
+    "lang": "nl",
     "lemma": "gekend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5162,12 +4850,11 @@ const WORDS_NL_A2 = [
       "zh": "已知的",
       "ru": "известный",
       "fr": "connu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1315",
+    "lang": "nl",
     "lemma": "vierde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5188,14 +4875,15 @@ const WORDS_NL_A2 = [
       "zh": "第四",
       "ru": "четвёртый",
       "fr": "quatrième"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1316",
+    "lang": "nl",
     "lemma": "kaas",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kazen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5213,15 +4901,12 @@ const WORDS_NL_A2 = [
       "ja": "チーズ",
       "zh": "奶酪",
       "ru": "сыр",
-      "fr": "fromage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kazen"
+      "fr": "le fromage"
+    }
   },
   {
     "id": "nl_1317",
+    "lang": "nl",
     "lemma": "opzoeken",
     "pos": "Verb",
     "cefr": "A2",
@@ -5232,7 +4917,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "찾아보다",
-      "en": "to look up",
+      "en": "look up",
       "de": "nachschlagen",
       "es": "buscar",
       "nl": "opzoeken",
@@ -5242,15 +4927,11 @@ const WORDS_NL_A2 = [
       "zh": "查找",
       "ru": "искать",
       "fr": "chercher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opzoeken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1318",
+    "lang": "nl",
     "lemma": "schrikken",
     "pos": "Verb",
     "cefr": "A2",
@@ -5261,7 +4942,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "깜짝 놀라다",
-      "en": "to be startled",
+      "en": "be startled",
       "de": "erschrecken",
       "es": "asustarse",
       "nl": "schrikken",
@@ -5271,15 +4952,11 @@ const WORDS_NL_A2 = [
       "zh": "吓一跳",
       "ru": "испугаться",
       "fr": "sursauter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schrikken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1320",
+    "lang": "nl",
     "lemma": "optreden",
     "pos": "Verb",
     "cefr": "A2",
@@ -5300,17 +4977,14 @@ const WORDS_NL_A2 = [
       "zh": "表演",
       "ru": "выступать",
       "fr": "exécuter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "optreden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1321",
+    "lang": "nl",
     "lemma": "optreden",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5328,17 +5002,16 @@ const WORDS_NL_A2 = [
       "ja": "公演",
       "zh": "表演",
       "ru": "выступление",
-      "fr": "performance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la performance"
+    }
   },
   {
     "id": "nl_1322",
+    "lang": "nl",
     "lemma": "april",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "aprillen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5358,15 +5031,19 @@ const WORDS_NL_A2 = [
       "ru": "апрель",
       "fr": "avril"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "aprillen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1323",
+    "lang": "nl",
     "lemma": "beroep",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "beroepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5384,17 +5061,16 @@ const WORDS_NL_A2 = [
       "ja": "職業",
       "zh": "职业",
       "ru": "профессия",
-      "fr": "profession"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "beroepen"
+      "fr": "la profession"
+    }
   },
   {
     "id": "nl_1324",
+    "lang": "nl",
     "lemma": "motief",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "motieven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5412,15 +5088,12 @@ const WORDS_NL_A2 = [
       "ja": "動機",
       "zh": "动机",
       "ru": "мотив",
-      "fr": "motif"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "motieven"
+      "fr": "le motif"
+    }
   },
   {
     "id": "nl_1325",
+    "lang": "nl",
     "lemma": "scheiden",
     "pos": "Verb",
     "cefr": "A2",
@@ -5441,17 +5114,14 @@ const WORDS_NL_A2 = [
       "zh": "分离",
       "ru": "разделять",
       "fr": "séparé"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scheiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1326",
+    "lang": "nl",
     "lemma": "jeugd",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5469,17 +5139,16 @@ const WORDS_NL_A2 = [
       "ja": "青春",
       "zh": "青春",
       "ru": "молодость",
-      "fr": "jeunesse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la jeunesse"
+    }
   },
   {
     "id": "nl_1327",
+    "lang": "nl",
     "lemma": "engel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "engelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5497,17 +5166,16 @@ const WORDS_NL_A2 = [
       "ja": "天使",
       "zh": "天使",
       "ru": "ангел",
-      "fr": "ange"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "engelen"
+      "fr": "l'ange"
+    }
   },
   {
     "id": "nl_1328",
+    "lang": "nl",
     "lemma": "toestand",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "toestanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5525,15 +5193,12 @@ const WORDS_NL_A2 = [
       "ja": "状態",
       "zh": "状态",
       "ru": "состояние",
-      "fr": "état"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "toestanden"
+      "fr": "l'état"
+    }
   },
   {
     "id": "nl_1329",
+    "lang": "nl",
     "lemma": "gebaseerd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5554,12 +5219,11 @@ const WORDS_NL_A2 = [
       "zh": "基于",
       "ru": "основанный",
       "fr": "basé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1330",
+    "lang": "nl",
     "lemma": "lichten",
     "pos": "Verb",
     "cefr": "A2",
@@ -5580,17 +5244,15 @@ const WORDS_NL_A2 = [
       "zh": "变亮",
       "ru": "светлеть",
       "fr": "alléger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lichten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1331",
+    "lang": "nl",
     "lemma": "mars",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "marsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5610,13 +5272,15 @@ const WORDS_NL_A2 = [
       "ru": "марш",
       "fr": "mars"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "marsen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1332",
+    "lang": "nl",
     "lemma": "bewaren",
     "pos": "Verb",
     "cefr": "A2",
@@ -5637,15 +5301,11 @@ const WORDS_NL_A2 = [
       "zh": "保存",
       "ru": "сохранять",
       "fr": "préserver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bewaren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1333",
+    "lang": "nl",
     "lemma": "teleurgesteld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5666,14 +5326,14 @@ const WORDS_NL_A2 = [
       "zh": "失望的",
       "ru": "разочарованный",
       "fr": "déçu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1334",
+    "lang": "nl",
     "lemma": "medelijden",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5691,17 +5351,16 @@ const WORDS_NL_A2 = [
       "ja": "哀れみ",
       "zh": "怜悯",
       "ru": "жалость",
-      "fr": "pitié"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la pitié"
+    }
   },
   {
     "id": "nl_1335",
+    "lang": "nl",
     "lemma": "ramp",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rampen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5719,17 +5378,16 @@ const WORDS_NL_A2 = [
       "ja": "災害",
       "zh": "灾难",
       "ru": "катастрофа",
-      "fr": "désastre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rampen"
+      "fr": "le désastre"
+    }
   },
   {
     "id": "nl_1336",
+    "lang": "nl",
     "lemma": "ren",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rennen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5747,17 +5405,16 @@ const WORDS_NL_A2 = [
       "ja": "鶏小屋",
       "zh": "鸡舍",
       "ru": "курятник",
-      "fr": "poulailler"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rennen"
+      "fr": "le poulailler"
+    }
   },
   {
     "id": "nl_1337",
+    "lang": "nl",
     "lemma": "verzet",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verzetten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5775,15 +5432,12 @@ const WORDS_NL_A2 = [
       "ja": "抵抗",
       "zh": "抵抗",
       "ru": "сопротивление",
-      "fr": "résistance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verzetten"
+      "fr": "la résistance"
+    }
   },
   {
     "id": "nl_1338",
+    "lang": "nl",
     "lemma": "richten",
     "pos": "Verb",
     "cefr": "A2",
@@ -5804,15 +5458,11 @@ const WORDS_NL_A2 = [
       "zh": "指向",
       "ru": "направлять",
       "fr": "direct"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "richten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1339",
+    "lang": "nl",
     "lemma": "steunen",
     "pos": "Verb",
     "cefr": "A2",
@@ -5833,17 +5483,15 @@ const WORDS_NL_A2 = [
       "zh": "支持",
       "ru": "поддерживать",
       "fr": "soutien"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "steunen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1340",
+    "lang": "nl",
     "lemma": "wolf",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wolven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5861,15 +5509,12 @@ const WORDS_NL_A2 = [
       "ja": "オオカミ",
       "zh": "狼",
       "ru": "волк",
-      "fr": "loup"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wolven"
+      "fr": "le loup"
+    }
   },
   {
     "id": "nl_1341",
+    "lang": "nl",
     "lemma": "dwars",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -5890,12 +5535,11 @@ const WORDS_NL_A2 = [
       "zh": "横向的",
       "ru": "поперечный",
       "fr": "transversalement"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1342",
+    "lang": "nl",
     "lemma": "oefenen",
     "pos": "Verb",
     "cefr": "A2",
@@ -5916,17 +5560,15 @@ const WORDS_NL_A2 = [
       "zh": "练习",
       "ru": "практиковать",
       "fr": "pratique"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "oefenen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1343",
+    "lang": "nl",
     "lemma": "bezwaar",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "bezwaren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -5944,15 +5586,12 @@ const WORDS_NL_A2 = [
       "ja": "異議",
       "zh": "异议",
       "ru": "возражение",
-      "fr": "objection"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "bezwaren"
+      "fr": "l'objection"
+    }
   },
   {
     "id": "nl_1344",
+    "lang": "nl",
     "lemma": "bevestigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -5973,15 +5612,11 @@ const WORDS_NL_A2 = [
       "zh": "确认",
       "ru": "подтверждать",
       "fr": "confirmer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bevestigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1345",
+    "lang": "nl",
     "lemma": "wijzen",
     "pos": "Verb",
     "cefr": "A2",
@@ -6002,17 +5637,15 @@ const WORDS_NL_A2 = [
       "zh": "指",
       "ru": "указывать",
       "fr": "point"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wijzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1346",
+    "lang": "nl",
     "lemma": "nachtmerrie",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "nachtmerries",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6030,15 +5663,12 @@ const WORDS_NL_A2 = [
       "ja": "悪夢",
       "zh": "噩梦",
       "ru": "кошмар",
-      "fr": "cauchemar"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "nachtmerries"
+      "fr": "le cauchemar"
+    }
   },
   {
     "id": "nl_1348",
+    "lang": "nl",
     "lemma": "groen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6059,14 +5689,15 @@ const WORDS_NL_A2 = [
       "zh": "绿色",
       "ru": "зеленый",
       "fr": "vert"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1349",
+    "lang": "nl",
     "lemma": "zwembad",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "zwembaden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6084,17 +5715,16 @@ const WORDS_NL_A2 = [
       "ja": "プール",
       "zh": "游泳池",
       "ru": "бассейн",
-      "fr": "piscine"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "zwembaden"
+      "fr": "la piscine"
+    }
   },
   {
     "id": "nl_1350",
+    "lang": "nl",
     "lemma": "verdriet",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verdrietjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6112,17 +5742,16 @@ const WORDS_NL_A2 = [
       "ja": "悲しみ",
       "zh": "悲伤",
       "ru": "горе",
-      "fr": "chagrin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verdrietjes"
+      "fr": "le chagrin"
+    }
   },
   {
     "id": "nl_1352",
+    "lang": "nl",
     "lemma": "geheel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gehelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6140,15 +5769,12 @@ const WORDS_NL_A2 = [
       "ja": "全体",
       "zh": "整体",
       "ru": "целое",
-      "fr": "entier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gehelen"
+      "fr": "le tout"
+    }
   },
   {
     "id": "nl_1353",
+    "lang": "nl",
     "lemma": "geheel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6169,12 +5795,11 @@ const WORDS_NL_A2 = [
       "zh": "整个的",
       "ru": "целый",
       "fr": "entier"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1354",
+    "lang": "nl",
     "lemma": "min",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6195,12 +5820,11 @@ const WORDS_NL_A2 = [
       "zh": "卑鄙的",
       "ru": "подлый",
       "fr": "signifier"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1355",
+    "lang": "nl",
     "lemma": "verwijderd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6221,14 +5845,15 @@ const WORDS_NL_A2 = [
       "zh": "遥远的",
       "ru": "удаленный",
       "fr": "distant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1356",
+    "lang": "nl",
     "lemma": "donder",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "donders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6246,15 +5871,12 @@ const WORDS_NL_A2 = [
       "ja": "雷",
       "zh": "雷",
       "ru": "гром",
-      "fr": "tonnerre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "donders"
+      "fr": "le tonnerre"
+    }
   },
   {
     "id": "nl_1357",
+    "lang": "nl",
     "lemma": "mobiel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6275,14 +5897,15 @@ const WORDS_NL_A2 = [
       "zh": "移动的",
       "ru": "мобильный",
       "fr": "mobile"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1358",
+    "lang": "nl",
     "lemma": "koers",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "koersen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6300,15 +5923,12 @@ const WORDS_NL_A2 = [
       "ja": "進路",
       "zh": "航向",
       "ru": "курс",
-      "fr": "cours"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "koersen"
+      "fr": "le cours"
+    }
   },
   {
     "id": "nl_1359",
+    "lang": "nl",
     "lemma": "nat",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6329,14 +5949,14 @@ const WORDS_NL_A2 = [
       "zh": "湿的",
       "ru": "мокрый",
       "fr": "mouillé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1360",
+    "lang": "nl",
     "lemma": "nat",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6354,17 +5974,16 @@ const WORDS_NL_A2 = [
       "ja": "湿気",
       "zh": "湿气",
       "ru": "влага",
-      "fr": "humidité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'humidité"
+    }
   },
   {
     "id": "nl_1361",
+    "lang": "nl",
     "lemma": "bekende",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "bekenden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6382,15 +6001,12 @@ const WORDS_NL_A2 = [
       "ja": "知人",
       "zh": "熟人",
       "ru": "знакомый",
-      "fr": "connaissance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "bekenden"
+      "fr": "la connaissance"
+    }
   },
   {
     "id": "nl_1362",
+    "lang": "nl",
     "lemma": "uniform",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6411,12 +6027,11 @@ const WORDS_NL_A2 = [
       "zh": "统一的",
       "ru": "единообразный",
       "fr": "uniforme"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1363",
+    "lang": "nl",
     "lemma": "voorbereid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6437,12 +6052,11 @@ const WORDS_NL_A2 = [
       "zh": "准备好的",
       "ru": "подготовленный",
       "fr": "préparé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1364",
+    "lang": "nl",
     "lemma": "wild",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6463,14 +6077,14 @@ const WORDS_NL_A2 = [
       "zh": "野生的",
       "ru": "дикий",
       "fr": "sauvage"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1365",
+    "lang": "nl",
     "lemma": "wild",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6488,17 +6102,16 @@ const WORDS_NL_A2 = [
       "ja": "野生動物",
       "zh": "野味",
       "ru": "дичь",
-      "fr": "jeu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le gibier"
+    }
   },
   {
     "id": "nl_1366",
+    "lang": "nl",
     "lemma": "regen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "regens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6516,15 +6129,12 @@ const WORDS_NL_A2 = [
       "ja": "雨",
       "zh": "雨",
       "ru": "дождь",
-      "fr": "pluie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "regens"
+      "fr": "la pluie"
+    }
   },
   {
     "id": "nl_1367",
+    "lang": "nl",
     "lemma": "bepalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -6545,15 +6155,11 @@ const WORDS_NL_A2 = [
       "zh": "确定",
       "ru": "определять",
       "fr": "déterminer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bepalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1368",
+    "lang": "nl",
     "lemma": "berichten",
     "pos": "Verb",
     "cefr": "A2",
@@ -6574,17 +6180,15 @@ const WORDS_NL_A2 = [
       "zh": "报告",
       "ru": "сообщать",
       "fr": "rapport"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "berichten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1369",
+    "lang": "nl",
     "lemma": "gok",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gokken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6602,15 +6206,12 @@ const WORDS_NL_A2 = [
       "ja": "賭け",
       "zh": "赌博",
       "ru": "ставка",
-      "fr": "parier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gokken"
+      "fr": "le pari"
+    }
   },
   {
     "id": "nl_1370",
+    "lang": "nl",
     "lemma": "samenwerken",
     "pos": "Verb",
     "cefr": "A2",
@@ -6631,15 +6232,11 @@ const WORDS_NL_A2 = [
       "zh": "合作",
       "ru": "сотрудничать",
       "fr": "coopérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "samenwerken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1371",
+    "lang": "nl",
     "lemma": "ruiken",
     "pos": "Verb",
     "cefr": "A2",
@@ -6660,17 +6257,15 @@ const WORDS_NL_A2 = [
       "zh": "闻",
       "ru": "нюхать",
       "fr": "odeur"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ruiken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1372",
+    "lang": "nl",
     "lemma": "klok",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "klokken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6688,15 +6283,12 @@ const WORDS_NL_A2 = [
       "ja": "時計",
       "zh": "钟",
       "ru": "часы",
-      "fr": "horloge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "klokken"
+      "fr": "l'horloge"
+    }
   },
   {
     "id": "nl_1373",
+    "lang": "nl",
     "lemma": "redelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6717,12 +6309,11 @@ const WORDS_NL_A2 = [
       "zh": "合理的",
       "ru": "разумный",
       "fr": "raisonnable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1374",
+    "lang": "nl",
     "lemma": "getekend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6743,14 +6334,15 @@ const WORDS_NL_A2 = [
       "zh": "签名的",
       "ru": "подписанный",
       "fr": "signé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1375",
+    "lang": "nl",
     "lemma": "onderwerp",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "onderwerpen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6768,17 +6360,16 @@ const WORDS_NL_A2 = [
       "ja": "主題",
       "zh": "主题",
       "ru": "тема",
-      "fr": "sujet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "onderwerpen"
+      "fr": "le sujet"
+    }
   },
   {
     "id": "nl_1376",
+    "lang": "nl",
     "lemma": "olie",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oliën",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6796,15 +6387,12 @@ const WORDS_NL_A2 = [
       "ja": "油",
       "zh": "油",
       "ru": "масло",
-      "fr": "huile"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oliën"
+      "fr": "l'huile"
+    }
   },
   {
     "id": "nl_1377",
+    "lang": "nl",
     "lemma": "bewust",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -6825,12 +6413,11 @@ const WORDS_NL_A2 = [
       "zh": "有意识的",
       "ru": "сознательный",
       "fr": "conscient"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1378",
+    "lang": "nl",
     "lemma": "tellen",
     "pos": "Verb",
     "cefr": "A2",
@@ -6851,17 +6438,15 @@ const WORDS_NL_A2 = [
       "zh": "数",
       "ru": "считать",
       "fr": "compter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1379",
+    "lang": "nl",
     "lemma": "hang",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hangen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6879,17 +6464,16 @@ const WORDS_NL_A2 = [
       "ja": "傾向",
       "zh": "倾向",
       "ru": "склонность",
-      "fr": "tendance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hangen"
+      "fr": "la tendance"
+    }
   },
   {
     "id": "nl_1380",
+    "lang": "nl",
     "lemma": "seconde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "seconden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6907,17 +6491,16 @@ const WORDS_NL_A2 = [
       "ja": "秒",
       "zh": "秒",
       "ru": "секунда",
-      "fr": "second"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "seconden"
+      "fr": "la seconde"
+    }
   },
   {
     "id": "nl_1381",
+    "lang": "nl",
     "lemma": "delict",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "delicten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6935,15 +6518,12 @@ const WORDS_NL_A2 = [
       "ja": "犯罪",
       "zh": "罪行",
       "ru": "преступление",
-      "fr": "offense"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "delicten"
+      "fr": "l'offense"
+    }
   },
   {
     "id": "nl_1382",
+    "lang": "nl",
     "lemma": "groeten",
     "pos": "Verb",
     "cefr": "A2",
@@ -6964,17 +6544,14 @@ const WORDS_NL_A2 = [
       "zh": "问候",
       "ru": "приветствовать",
       "fr": "saluer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "groeten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1383",
+    "lang": "nl",
     "lemma": "maag",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -6992,15 +6569,12 @@ const WORDS_NL_A2 = [
       "ja": "胃",
       "zh": "胃",
       "ru": "желудок",
-      "fr": "estomac"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'estomac"
+    }
   },
   {
     "id": "nl_1384",
+    "lang": "nl",
     "lemma": "beantwoorden",
     "pos": "Verb",
     "cefr": "A2",
@@ -7022,15 +6596,11 @@ const WORDS_NL_A2 = [
       "zh": "回答",
       "ru": "отвечать",
       "fr": "répondre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beantwoorden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1385",
+    "lang": "nl",
     "lemma": "wandelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -7051,17 +6621,15 @@ const WORDS_NL_A2 = [
       "zh": "散步",
       "ru": "гулять",
       "fr": "marcher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wandelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1386",
+    "lang": "nl",
     "lemma": "kist",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kisten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7079,17 +6647,16 @@ const WORDS_NL_A2 = [
       "ja": "箱",
       "zh": "箱子",
       "ru": "ящик",
-      "fr": "boîte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kisten"
+      "fr": "la boîte"
+    }
   },
   {
     "id": "nl_1387",
+    "lang": "nl",
     "lemma": "training",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "trainingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7107,17 +6674,16 @@ const WORDS_NL_A2 = [
       "ja": "トレーニング",
       "zh": "训练",
       "ru": "тренировка",
-      "fr": "entraînement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "trainingen"
+      "fr": "l'entraînement"
+    }
   },
   {
     "id": "nl_1389",
+    "lang": "nl",
     "lemma": "race",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "races",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7135,17 +6701,16 @@ const WORDS_NL_A2 = [
       "ja": "レース",
       "zh": "比赛",
       "ru": "гонка",
-      "fr": "course"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "races"
+      "fr": "la course"
+    }
   },
   {
     "id": "nl_1390",
+    "lang": "nl",
     "lemma": "geliefde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "geliefden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7163,17 +6728,16 @@ const WORDS_NL_A2 = [
       "ja": "恋人",
       "zh": "恋人",
       "ru": "возлюбленный",
-      "fr": "bien-aimé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "geliefden"
+      "fr": "le bien-aimé"
+    }
   },
   {
     "id": "nl_1391",
+    "lang": "nl",
     "lemma": "gedeelte",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gedeeltes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7191,15 +6755,12 @@ const WORDS_NL_A2 = [
       "ja": "部分",
       "zh": "部分",
       "ru": "часть",
-      "fr": "partie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gedeeltes"
+      "fr": "la partie"
+    }
   },
   {
     "id": "nl_1392",
+    "lang": "nl",
     "lemma": "wassen",
     "pos": "Verb",
     "cefr": "A2",
@@ -7220,15 +6781,11 @@ const WORDS_NL_A2 = [
       "zh": "洗",
       "ru": "мыть",
       "fr": "laver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1393",
+    "lang": "nl",
     "lemma": "wassen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7248,12 +6805,11 @@ const WORDS_NL_A2 = [
       "zh": "蜡制的",
       "ru": "восковой",
       "fr": "cireux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1394",
+    "lang": "nl",
     "lemma": "ophangen",
     "pos": "Verb",
     "cefr": "A2",
@@ -7274,17 +6830,15 @@ const WORDS_NL_A2 = [
       "zh": "挂",
       "ru": "вешать",
       "fr": "raccrocher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ophangen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1395",
+    "lang": "nl",
     "lemma": "douche",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "douches",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7302,15 +6856,12 @@ const WORDS_NL_A2 = [
       "ja": "シャワー",
       "zh": "淋浴",
       "ru": "душ",
-      "fr": "douche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "douches"
+      "fr": "la douche"
+    }
   },
   {
     "id": "nl_1396",
+    "lang": "nl",
     "lemma": "reageren",
     "pos": "Verb",
     "cefr": "A2",
@@ -7331,17 +6882,15 @@ const WORDS_NL_A2 = [
       "zh": "反应",
       "ru": "реагировать",
       "fr": "réagir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "reageren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1397",
+    "lang": "nl",
     "lemma": "alcohol",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "alcoholen [1]",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7359,17 +6908,16 @@ const WORDS_NL_A2 = [
       "ja": "アルコール",
       "zh": "酒精",
       "ru": "алкоголь",
-      "fr": "alcool"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "alcoholen [1]"
+      "fr": "l'alcool"
+    }
   },
   {
     "id": "nl_1398",
+    "lang": "nl",
     "lemma": "gave",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gaven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7386,17 +6934,16 @@ const WORDS_NL_A2 = [
       "ja": "才能",
       "zh": "天赋",
       "ru": "дар",
-      "fr": "cadeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gaven"
+      "fr": "le cadeau"
+    }
   },
   {
     "id": "nl_1399",
+    "lang": "nl",
     "lemma": "sprong",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sprongen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7414,15 +6961,12 @@ const WORDS_NL_A2 = [
       "ja": "ジャンプ",
       "zh": "跳跃",
       "ru": "прыжок",
-      "fr": "sauter"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sprongen"
+      "fr": "le saut"
+    }
   },
   {
     "id": "nl_1400",
+    "lang": "nl",
     "lemma": "aangenomen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7442,14 +6986,14 @@ const WORDS_NL_A2 = [
       "zh": "被采纳的",
       "ru": "принятый",
       "fr": "adopté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1401",
+    "lang": "nl",
     "lemma": "oor",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7467,15 +7011,12 @@ const WORDS_NL_A2 = [
       "ja": "耳",
       "zh": "耳朵",
       "ru": "ухо",
-      "fr": "oreille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'oreille"
+    }
   },
   {
     "id": "nl_1402",
+    "lang": "nl",
     "lemma": "wedden",
     "pos": "Verb",
     "cefr": "A2",
@@ -7495,15 +7036,11 @@ const WORDS_NL_A2 = [
       "zh": "打赌",
       "ru": "спорить",
       "fr": "parier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wedden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1403",
+    "lang": "nl",
     "lemma": "meedoen",
     "pos": "Verb",
     "cefr": "A2",
@@ -7524,15 +7061,11 @@ const WORDS_NL_A2 = [
       "zh": "参与",
       "ru": "участвовать",
       "fr": "participer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "meedoen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1404",
+    "lang": "nl",
     "lemma": "gereed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7553,14 +7086,15 @@ const WORDS_NL_A2 = [
       "zh": "准备好的",
       "ru": "готовый",
       "fr": "prêt"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1405",
+    "lang": "nl",
     "lemma": "middag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "middagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7578,17 +7112,16 @@ const WORDS_NL_A2 = [
       "ja": "午後",
       "zh": "下午",
       "ru": "полдень",
-      "fr": "après-midi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "middagen"
+      "fr": "l'après-midi"
+    }
   },
   {
     "id": "nl_1406",
+    "lang": "nl",
     "lemma": "lijf",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "lijven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7606,15 +7139,12 @@ const WORDS_NL_A2 = [
       "ja": "体",
       "zh": "身体",
       "ru": "тело",
-      "fr": "corps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "lijven"
+      "fr": "le corps"
+    }
   },
   {
     "id": "nl_1407",
+    "lang": "nl",
     "lemma": "onthouden",
     "pos": "Verb",
     "cefr": "A2",
@@ -7635,17 +7165,15 @@ const WORDS_NL_A2 = [
       "zh": "记住",
       "ru": "помнить",
       "fr": "se souvenir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "onthouden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1408",
+    "lang": "nl",
     "lemma": "crimineel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "criminelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7663,15 +7191,12 @@ const WORDS_NL_A2 = [
       "ja": "犯罪者",
       "zh": "罪犯",
       "ru": "преступник",
-      "fr": "criminel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "criminelen"
+      "fr": "le criminel"
+    }
   },
   {
     "id": "nl_1409",
+    "lang": "nl",
     "lemma": "crimineel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7692,12 +7217,11 @@ const WORDS_NL_A2 = [
       "zh": "犯罪的",
       "ru": "криминальный",
       "fr": "criminel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1410",
+    "lang": "nl",
     "lemma": "openbaar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7718,12 +7242,11 @@ const WORDS_NL_A2 = [
       "zh": "公共的",
       "ru": "общественный",
       "fr": "public"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1411",
+    "lang": "nl",
     "lemma": "verpesten",
     "pos": "Verb",
     "cefr": "A2",
@@ -7743,15 +7266,11 @@ const WORDS_NL_A2 = [
       "zh": "破坏",
       "ru": "портить",
       "fr": "gâcher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verpesten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1413",
+    "lang": "nl",
     "lemma": "letten",
     "pos": "Verb",
     "cefr": "A2",
@@ -7772,15 +7291,11 @@ const WORDS_NL_A2 = [
       "zh": "注意",
       "ru": "обращать внимание",
       "fr": "faire attention"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "letten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1414",
+    "lang": "nl",
     "lemma": "indrukwekkend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7800,12 +7315,11 @@ const WORDS_NL_A2 = [
       "zh": "令人印象深刻的",
       "ru": "впечатляющий",
       "fr": "impressionnant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1415",
+    "lang": "nl",
     "lemma": "plotseling",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7826,14 +7340,15 @@ const WORDS_NL_A2 = [
       "zh": "突然的",
       "ru": "внезапный",
       "fr": "soudain"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1416",
+    "lang": "nl",
     "lemma": "schutter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schutters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7850,17 +7365,16 @@ const WORDS_NL_A2 = [
       "ja": "射手",
       "zh": "射手",
       "ru": "стрелок",
-      "fr": "tireur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schutters"
+      "fr": "le tireur"
+    }
   },
   {
     "id": "nl_1417",
+    "lang": "nl",
     "lemma": "hekel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hekels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7877,17 +7391,16 @@ const WORDS_NL_A2 = [
       "ja": "ヘッケル",
       "zh": "麻梳",
       "ru": "трепало",
-      "fr": "poil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hekels"
+      "fr": "la carde"
+    }
   },
   {
     "id": "nl_1418",
+    "lang": "nl",
     "lemma": "fort",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "forten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7904,15 +7417,12 @@ const WORDS_NL_A2 = [
       "ja": "砦",
       "zh": "堡垒",
       "ru": "форт",
-      "fr": "fort"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "forten"
+      "fr": "le fort"
+    }
   },
   {
     "id": "nl_1419",
+    "lang": "nl",
     "lemma": "ingewikkeld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -7932,14 +7442,15 @@ const WORDS_NL_A2 = [
       "zh": "复杂的",
       "ru": "сложный",
       "fr": "compliqué"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1420",
+    "lang": "nl",
     "lemma": "lied",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "liederen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7957,17 +7468,15 @@ const WORDS_NL_A2 = [
       "ja": "歌",
       "zh": "歌曲",
       "ru": "песня",
-      "fr": "chanson"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "liederen"
+      "fr": "la chanson"
+    }
   },
   {
     "id": "nl_1421",
+    "lang": "nl",
     "lemma": "besef",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -7984,17 +7493,16 @@ const WORDS_NL_A2 = [
       "ja": "認識",
       "zh": "意识",
       "ru": "осознание",
-      "fr": "conscience"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la conscience"
+    }
   },
   {
     "id": "nl_1422",
+    "lang": "nl",
     "lemma": "spiegel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "spiegels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8012,17 +7520,15 @@ const WORDS_NL_A2 = [
       "ja": "鏡",
       "zh": "镜子",
       "ru": "зеркало",
-      "fr": "miroir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "spiegels"
+      "fr": "le miroir"
+    }
   },
   {
     "id": "nl_1423",
+    "lang": "nl",
     "lemma": "stand",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8039,17 +7545,16 @@ const WORDS_NL_A2 = [
       "ja": "位置",
       "zh": "位置",
       "ru": "положение",
-      "fr": "position"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la position"
+    }
   },
   {
     "id": "nl_1424",
+    "lang": "nl",
     "lemma": "woestijn",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "woestijnen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8067,15 +7572,12 @@ const WORDS_NL_A2 = [
       "ja": "砂漠",
       "zh": "沙漠",
       "ru": "пустыня",
-      "fr": "désert"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "woestijnen"
+      "fr": "le désert"
+    }
   },
   {
     "id": "nl_1425",
+    "lang": "nl",
     "lemma": "gedwongen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8095,12 +7597,11 @@ const WORDS_NL_A2 = [
       "zh": "被迫的",
       "ru": "вынужденный",
       "fr": "forcé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1426",
+    "lang": "nl",
     "lemma": "gezellig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8121,12 +7622,11 @@ const WORDS_NL_A2 = [
       "zh": "舒适的",
       "ru": "уютный",
       "fr": "douillet"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1427",
+    "lang": "nl",
     "lemma": "lunchen",
     "pos": "Verb",
     "cefr": "A2",
@@ -8137,7 +7637,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "점심을 먹다",
-      "en": "to have lunch",
+      "en": "have lunch",
       "de": "zu Mittag essen",
       "es": "almorzar",
       "nl": "lunchen",
@@ -8147,17 +7647,15 @@ const WORDS_NL_A2 = [
       "zh": "吃午饭",
       "ru": "обедать",
       "fr": "déjeuner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lunchen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1428",
+    "lang": "nl",
     "lemma": "seizoen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "seizoenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8175,17 +7673,16 @@ const WORDS_NL_A2 = [
       "ja": "季節",
       "zh": "季节",
       "ru": "время года",
-      "fr": "saison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "seizoenen"
+      "fr": "la saison"
+    }
   },
   {
     "id": "nl_1429",
+    "lang": "nl",
     "lemma": "pagina",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pagina's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8203,15 +7700,12 @@ const WORDS_NL_A2 = [
       "ja": "ページ",
       "zh": "页",
       "ru": "страница",
-      "fr": "page"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pagina's"
+      "fr": "la page"
+    }
   },
   {
     "id": "nl_1430",
+    "lang": "nl",
     "lemma": "frans",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8232,14 +7726,15 @@ const WORDS_NL_A2 = [
       "zh": "法语的",
       "ru": "французский",
       "fr": "français"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1431",
+    "lang": "nl",
     "lemma": "vlieg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vliegen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8259,15 +7754,19 @@ const WORDS_NL_A2 = [
       "ru": "муха",
       "fr": "voler"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vliegen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1432",
+    "lang": "nl",
     "lemma": "bril",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "brillen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8285,15 +7784,12 @@ const WORDS_NL_A2 = [
       "ja": "眼鏡",
       "zh": "眼镜",
       "ru": "очки",
-      "fr": "lunettes"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "brillen"
+      "fr": "les lunettes"
+    }
   },
   {
     "id": "nl_1433",
+    "lang": "nl",
     "lemma": "spannend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8314,12 +7810,11 @@ const WORDS_NL_A2 = [
       "zh": "令人兴奋的",
       "ru": "захватывающий",
       "fr": "excitant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1434",
+    "lang": "nl",
     "lemma": "botten",
     "pos": "Verb",
     "cefr": "A2",
@@ -8329,7 +7824,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "싹트다",
-      "en": "to bud",
+      "en": "bud",
       "de": "knospen",
       "es": "brotar",
       "nl": "botten",
@@ -8339,17 +7834,14 @@ const WORDS_NL_A2 = [
       "zh": "发芽",
       "ru": "распускаться",
       "fr": "bourgeonner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "botten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1435",
+    "lang": "nl",
     "lemma": "kaartje",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8367,17 +7859,16 @@ const WORDS_NL_A2 = [
       "ja": "チケット",
       "zh": "票",
       "ru": "билет",
-      "fr": "billet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le billet"
+    }
   },
   {
     "id": "nl_1436",
+    "lang": "nl",
     "lemma": "pop",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "poppen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8395,15 +7886,12 @@ const WORDS_NL_A2 = [
       "ja": "人形",
       "zh": "玩偶",
       "ru": "кукла",
-      "fr": "poupée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "poppen"
+      "fr": "la poupée"
+    }
   },
   {
     "id": "nl_1437",
+    "lang": "nl",
     "lemma": "verschuldigd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8424,12 +7912,11 @@ const WORDS_NL_A2 = [
       "zh": "应付的",
       "ru": "причитающийся",
       "fr": "dû"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1438",
+    "lang": "nl",
     "lemma": "gesteld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8449,12 +7936,11 @@ const WORDS_NL_A2 = [
       "zh": "处于...状态的",
       "ru": "расположенный",
       "fr": "situé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1439",
+    "lang": "nl",
     "lemma": "hee",
     "pos": "Nomen",
     "cefr": "A2",
@@ -8475,13 +7961,12 @@ const WORDS_NL_A2 = [
       "ru": "буква H",
       "fr": "la lettre H"
     },
-    "examples": [],
-    "meta": {},
     "article": "de",
     "plural": "hees"
   },
   {
     "id": "nl_1440",
+    "lang": "nl",
     "lemma": "zielig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8502,12 +7987,11 @@ const WORDS_NL_A2 = [
       "zh": "可怜的",
       "ru": "жалкий",
       "fr": "pathétique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1442",
+    "lang": "nl",
     "lemma": "letterlijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8527,14 +8011,15 @@ const WORDS_NL_A2 = [
       "zh": "字面上的",
       "ru": "буквальный",
       "fr": "littéral"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1443",
+    "lang": "nl",
     "lemma": "route",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "routen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8552,15 +8037,12 @@ const WORDS_NL_A2 = [
       "ja": "ルート",
       "zh": "路线",
       "ru": "маршрут",
-      "fr": "route"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "routen"
+      "fr": "la route"
+    }
   },
   {
     "id": "nl_1444",
+    "lang": "nl",
     "lemma": "walgelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8582,12 +8064,11 @@ const WORDS_NL_A2 = [
       "zh": "令人作呕的",
       "ru": "отвратительный",
       "fr": "dégoûtant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1445",
+    "lang": "nl",
     "lemma": "smerig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8608,12 +8089,11 @@ const WORDS_NL_A2 = [
       "zh": "脏的",
       "ru": "грязный",
       "fr": "sale"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1446",
+    "lang": "nl",
     "lemma": "verwijderen",
     "pos": "Verb",
     "cefr": "A2",
@@ -8624,7 +8104,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "제거하다",
-      "en": "to remove",
+      "en": "remove",
       "de": "entfernen",
       "es": "eliminar",
       "nl": "verwijderen",
@@ -8634,15 +8114,11 @@ const WORDS_NL_A2 = [
       "zh": "移除",
       "ru": "удалять",
       "fr": "enlever"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verwijderen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1447",
+    "lang": "nl",
     "lemma": "uitzien",
     "pos": "Verb",
     "cefr": "A2",
@@ -8653,7 +8129,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "~처럼 보이다",
-      "en": "to look",
+      "en": "look",
       "de": "aussehen",
       "es": "parecer",
       "nl": "uitzien",
@@ -8663,17 +8139,14 @@ const WORDS_NL_A2 = [
       "zh": "看起来",
       "ru": "выглядеть",
       "fr": "regarder"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitzien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1448",
+    "lang": "nl",
     "lemma": "genie",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8691,17 +8164,15 @@ const WORDS_NL_A2 = [
       "ja": "天才",
       "zh": "天才",
       "ru": "гений",
-      "fr": "génie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le génie"
+    }
   },
   {
     "id": "nl_1449",
+    "lang": "nl",
     "lemma": "burger",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8719,17 +8190,15 @@ const WORDS_NL_A2 = [
       "ja": "市民",
       "zh": "公民",
       "ru": "гражданин",
-      "fr": "citoyen"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le citoyen"
+    }
   },
   {
     "id": "nl_1451",
+    "lang": "nl",
     "lemma": "gedag",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8748,15 +8217,12 @@ const WORDS_NL_A2 = [
       "ja": "挨拶",
       "zh": "问候",
       "ru": "приветствие",
-      "fr": "salutation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la salutation"
+    }
   },
   {
     "id": "nl_1452",
+    "lang": "nl",
     "lemma": "verzamelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -8767,7 +8233,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "모으다",
-      "en": "to collect",
+      "en": "collect",
       "de": "sammeln",
       "es": "coleccionar",
       "nl": "verzamelen",
@@ -8777,17 +8243,15 @@ const WORDS_NL_A2 = [
       "zh": "收集",
       "ru": "собирать",
       "fr": "collecter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verzamelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1453",
+    "lang": "nl",
     "lemma": "jongeman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jongemannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8805,17 +8269,16 @@ const WORDS_NL_A2 = [
       "ja": "青年",
       "zh": "青年",
       "ru": "юноша",
-      "fr": "jeune homme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jongemannen"
+      "fr": "le jeune homme"
+    }
   },
   {
     "id": "nl_1454",
+    "lang": "nl",
     "lemma": "huiswerk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "huiswerkjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8833,17 +8296,15 @@ const WORDS_NL_A2 = [
       "ja": "宿題",
       "zh": "家庭作业",
       "ru": "домашнее задание",
-      "fr": "devoirs"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "huiswerkjes"
+      "fr": "les devoirs"
+    }
   },
   {
     "id": "nl_1455",
+    "lang": "nl",
     "lemma": "house",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8860,15 +8321,12 @@ const WORDS_NL_A2 = [
       "ja": "ハウスミュージック",
       "zh": "浩室音乐",
       "ru": "хаус",
-      "fr": "house"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le house"
+    }
   },
   {
     "id": "nl_1456",
+    "lang": "nl",
     "lemma": "verontschuldigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -8879,7 +8337,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "사과하다",
-      "en": "to apologize",
+      "en": "apologize",
       "de": "sich entschuldigen",
       "es": "disculparse",
       "nl": "verontschuldigen",
@@ -8889,15 +8347,11 @@ const WORDS_NL_A2 = [
       "zh": "道歉",
       "ru": "извиняться",
       "fr": "s'excuser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verontschuldigen",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1457",
+    "lang": "nl",
     "lemma": "lelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8918,12 +8372,11 @@ const WORDS_NL_A2 = [
       "zh": "丑陋的",
       "ru": "уродливый",
       "fr": "laid"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1458",
+    "lang": "nl",
     "lemma": "verbaasd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8944,12 +8397,11 @@ const WORDS_NL_A2 = [
       "zh": "惊讶的",
       "ru": "удивлённый",
       "fr": "étonné"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1459",
+    "lang": "nl",
     "lemma": "vuil",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -8970,14 +8422,14 @@ const WORDS_NL_A2 = [
       "zh": "脏的",
       "ru": "грязный",
       "fr": "sale"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1460",
+    "lang": "nl",
     "lemma": "vuil",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -8995,17 +8447,15 @@ const WORDS_NL_A2 = [
       "ja": "汚れ",
       "zh": "污垢",
       "ru": "грязь",
-      "fr": "saleté"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la saleté"
+    }
   },
   {
     "id": "nl_1461",
+    "lang": "nl",
     "lemma": "gelukkige",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9023,17 +8473,15 @@ const WORDS_NL_A2 = [
       "ja": "幸運な人",
       "zh": "幸运儿",
       "ru": "счастливчик",
-      "fr": "chanceux"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le chanceux"
+    }
   },
   {
     "id": "nl_1462",
+    "lang": "nl",
     "lemma": "leest",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9050,17 +8498,15 @@ const WORDS_NL_A2 = [
       "ja": "靴型",
       "zh": "鞋楦",
       "ru": "колодка",
-      "fr": "forme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la forme"
+    }
   },
   {
     "id": "nl_1463",
+    "lang": "nl",
     "lemma": "at",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9078,15 +8524,12 @@ const WORDS_NL_A2 = [
       "ja": "アットマーク",
       "zh": "艾特符号",
       "ru": "собака",
-      "fr": "arobase"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'arobase"
+    }
   },
   {
     "id": "nl_1464",
+    "lang": "nl",
     "lemma": "verplaatsen",
     "pos": "Verb",
     "cefr": "A2",
@@ -9097,7 +8540,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "옮기다",
-      "en": "to move",
+      "en": "move",
       "de": "verschieben",
       "es": "mover",
       "nl": "verplaatsen",
@@ -9107,15 +8550,11 @@ const WORDS_NL_A2 = [
       "zh": "移动",
       "ru": "перемещать",
       "fr": "bouger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verplaatsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1465",
+    "lang": "nl",
     "lemma": "starten",
     "pos": "Verb",
     "cefr": "A2",
@@ -9126,7 +8565,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "시작하다",
-      "en": "to start",
+      "en": "start",
       "de": "starten",
       "es": "empezar",
       "nl": "starten",
@@ -9136,17 +8575,15 @@ const WORDS_NL_A2 = [
       "zh": "开始",
       "ru": "начинать",
       "fr": "commencer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "starten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1466",
+    "lang": "nl",
     "lemma": "onderdeel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "onderdelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9164,15 +8601,12 @@ const WORDS_NL_A2 = [
       "ja": "部品",
       "zh": "零件",
       "ru": "часть",
-      "fr": "part"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "onderdelen"
+      "fr": "la part"
+    }
   },
   {
     "id": "nl_1467",
+    "lang": "nl",
     "lemma": "snijden",
     "pos": "Verb",
     "cefr": "A2",
@@ -9183,7 +8617,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "자르다",
-      "en": "to cut",
+      "en": "cut",
       "de": "schneiden",
       "es": "cortar",
       "nl": "snijden",
@@ -9193,17 +8627,15 @@ const WORDS_NL_A2 = [
       "zh": "切",
       "ru": "резать",
       "fr": "couper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "snijden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1468",
+    "lang": "nl",
     "lemma": "touw",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "touwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9221,17 +8653,15 @@ const WORDS_NL_A2 = [
       "ja": "縄",
       "zh": "绳子",
       "ru": "верёвка",
-      "fr": "corde"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "touwen"
+      "fr": "la corde"
+    }
   },
   {
     "id": "nl_1469",
+    "lang": "nl",
     "lemma": "zijde",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9249,17 +8679,16 @@ const WORDS_NL_A2 = [
       "ja": "側面",
       "zh": "侧面",
       "ru": "сторона",
-      "fr": "côté"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le côté"
+    }
   },
   {
     "id": "nl_1470",
+    "lang": "nl",
     "lemma": "ellende",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ellenden, ellendes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9277,15 +8706,12 @@ const WORDS_NL_A2 = [
       "ja": "悲惨",
       "zh": "悲惨",
       "ru": "нищета",
-      "fr": "misère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ellenden, ellendes"
+      "fr": "la misère"
+    }
   },
   {
     "id": "nl_1471",
+    "lang": "nl",
     "lemma": "nep",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9306,14 +8732,14 @@ const WORDS_NL_A2 = [
       "zh": "假的",
       "ru": "поддельный",
       "fr": "faux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1472",
+    "lang": "nl",
     "lemma": "nep",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9331,15 +8757,12 @@ const WORDS_NL_A2 = [
       "ja": "詐欺",
       "zh": "欺诈",
       "ru": "мошенничество",
-      "fr": "fraude"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la fraude"
+    }
   },
   {
     "id": "nl_1473",
+    "lang": "nl",
     "lemma": "klagen",
     "pos": "Verb",
     "cefr": "A2",
@@ -9360,15 +8783,11 @@ const WORDS_NL_A2 = [
       "zh": "抱怨",
       "ru": "жаловаться",
       "fr": "se plaindre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1474",
+    "lang": "nl",
     "lemma": "zacht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9389,14 +8808,15 @@ const WORDS_NL_A2 = [
       "zh": "软",
       "ru": "мягкий",
       "fr": "doux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1475",
+    "lang": "nl",
     "lemma": "aap",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "apen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9414,17 +8834,16 @@ const WORDS_NL_A2 = [
       "ja": "猿",
       "zh": "猴子",
       "ru": "обезьяна",
-      "fr": "singe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "apen"
+      "fr": "le singe"
+    }
   },
   {
     "id": "nl_1476",
+    "lang": "nl",
     "lemma": "won",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wons",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9444,13 +8863,15 @@ const WORDS_NL_A2 = [
       "ru": "вона",
       "fr": "gagné"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wons"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1477",
+    "lang": "nl",
     "lemma": "dringend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9471,12 +8892,11 @@ const WORDS_NL_A2 = [
       "zh": "紧急",
       "ru": "срочный",
       "fr": "urgent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1478",
+    "lang": "nl",
     "lemma": "eisen",
     "pos": "Verb",
     "cefr": "A2",
@@ -9497,15 +8917,11 @@ const WORDS_NL_A2 = [
       "zh": "要求",
       "ru": "требовать",
       "fr": "demande"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "eisen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1479",
+    "lang": "nl",
     "lemma": "neerschieten",
     "pos": "Verb",
     "cefr": "A2",
@@ -9525,17 +8941,15 @@ const WORDS_NL_A2 = [
       "zh": "击落",
       "ru": "сбивать",
       "fr": "abattre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "neerschieten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1480",
+    "lang": "nl",
     "lemma": "vloek",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vloeken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9552,17 +8966,16 @@ const WORDS_NL_A2 = [
       "ja": "呪い",
       "zh": "诅咒",
       "ru": "проклятие",
-      "fr": "malédiction"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vloeken"
+      "fr": "la malédiction"
+    }
   },
   {
     "id": "nl_1481",
+    "lang": "nl",
     "lemma": "stijl",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stijlen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9580,17 +8993,16 @@ const WORDS_NL_A2 = [
       "ja": "スタイル",
       "zh": "风格",
       "ru": "стиль",
-      "fr": "style"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stijlen"
+      "fr": "le style"
+    }
   },
   {
     "id": "nl_1482",
+    "lang": "nl",
     "lemma": "rand",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rands",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9608,17 +9020,16 @@ const WORDS_NL_A2 = [
       "ja": "ランド",
       "zh": "兰特",
       "ru": "ранд",
-      "fr": "rand"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rands"
+      "fr": "le rand"
+    }
   },
   {
     "id": "nl_1483",
+    "lang": "nl",
     "lemma": "verrader",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "verraders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9635,17 +9046,15 @@ const WORDS_NL_A2 = [
       "ja": "裏切り者",
       "zh": "叛徒",
       "ru": "предатель",
-      "fr": "traître"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "verraders"
+      "fr": "le traître"
+    }
   },
   {
     "id": "nl_1484",
+    "lang": "nl",
     "lemma": "tel",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9663,15 +9072,12 @@ const WORDS_NL_A2 = [
       "ja": "瞬間",
       "zh": "瞬间",
       "ru": "момент",
-      "fr": "moment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le moment"
+    }
   },
   {
     "id": "nl_1485",
+    "lang": "nl",
     "lemma": "romantisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9692,12 +9098,11 @@ const WORDS_NL_A2 = [
       "zh": "浪漫的",
       "ru": "романтический",
       "fr": "romantique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1486",
+    "lang": "nl",
     "lemma": "middelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -9717,15 +9122,11 @@ const WORDS_NL_A2 = [
       "zh": "平均",
       "ru": "усреднять",
       "fr": "moyen"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "middelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1487",
+    "lang": "nl",
     "lemma": "leveren",
     "pos": "Verb",
     "cefr": "A2",
@@ -9746,17 +9147,15 @@ const WORDS_NL_A2 = [
       "zh": "交付",
       "ru": "доставлять",
       "fr": "livrer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "leveren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1488",
+    "lang": "nl",
     "lemma": "cheque",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "cheques",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9777,15 +9176,19 @@ const WORDS_NL_A2 = [
       "ru": "чек",
       "fr": "vérifier"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "cheques"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1489",
+    "lang": "nl",
     "lemma": "schaduw",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schaduwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9803,17 +9206,16 @@ const WORDS_NL_A2 = [
       "ja": "影",
       "zh": "影子",
       "ru": "тень",
-      "fr": "ombre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schaduwen"
+      "fr": "l'ombre"
+    }
   },
   {
     "id": "nl_1490",
+    "lang": "nl",
     "lemma": "kasteel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kastelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9831,17 +9233,15 @@ const WORDS_NL_A2 = [
       "ja": "城",
       "zh": "城堡",
       "ru": "замок",
-      "fr": "château"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kastelen"
+      "fr": "le château"
+    }
   },
   {
     "id": "nl_1491",
+    "lang": "nl",
     "lemma": "dertig",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9861,13 +9261,15 @@ const WORDS_NL_A2 = [
       "ru": "тридцать",
       "fr": "trente"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1492",
+    "lang": "nl",
     "lemma": "branden",
     "pos": "Verb",
     "cefr": "A2",
@@ -9888,17 +9290,15 @@ const WORDS_NL_A2 = [
       "zh": "燃烧",
       "ru": "гореть",
       "fr": "brûler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "branden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1493",
+    "lang": "nl",
     "lemma": "resultaat",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "resultaten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9916,15 +9316,12 @@ const WORDS_NL_A2 = [
       "ja": "結果",
       "zh": "结果",
       "ru": "результат",
-      "fr": "résultat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "resultaten"
+      "fr": "le résultat"
+    }
   },
   {
     "id": "nl_1494",
+    "lang": "nl",
     "lemma": "constant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9945,12 +9342,11 @@ const WORDS_NL_A2 = [
       "zh": "持续的",
       "ru": "постоянный",
       "fr": "constant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1495",
+    "lang": "nl",
     "lemma": "wanhopig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -9970,14 +9366,15 @@ const WORDS_NL_A2 = [
       "zh": "绝望的",
       "ru": "отчаянный",
       "fr": "désespéré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1496",
+    "lang": "nl",
     "lemma": "winnaar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "winnaars",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -9995,15 +9392,12 @@ const WORDS_NL_A2 = [
       "ja": "勝者",
       "zh": "赢家",
       "ru": "победитель",
-      "fr": "gagnant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "winnaars"
+      "fr": "le gagnant"
+    }
   },
   {
     "id": "nl_1497",
+    "lang": "nl",
     "lemma": "waardeloos",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10024,12 +9418,11 @@ const WORDS_NL_A2 = [
       "zh": "毫无价值的",
       "ru": "бесполезный",
       "fr": "sans valeur"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1498",
+    "lang": "nl",
     "lemma": "merken",
     "pos": "Verb",
     "cefr": "A2",
@@ -10050,17 +9443,15 @@ const WORDS_NL_A2 = [
       "zh": "注意",
       "ru": "замечать",
       "fr": "avis"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "merken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1499",
+    "lang": "nl",
     "lemma": "doctor",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "doctors",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10078,15 +9469,12 @@ const WORDS_NL_A2 = [
       "ja": "博士",
       "zh": "博士",
       "ru": "доктор",
-      "fr": "médecin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "doctors"
+      "fr": "le médecin"
+    }
   },
   {
     "id": "nl_1500",
+    "lang": "nl",
     "lemma": "ongerust",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10107,14 +9495,15 @@ const WORDS_NL_A2 = [
       "zh": "担心",
       "ru": "обеспокоенный",
       "fr": "inquiet"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1501",
+    "lang": "nl",
     "lemma": "fiets",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "fietsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10133,17 +9522,16 @@ const WORDS_NL_A2 = [
       "ja": "自転車",
       "zh": "自行车",
       "ru": "велосипед",
-      "fr": "vélo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "fietsen"
+      "fr": "le vélo"
+    }
   },
   {
     "id": "nl_1502",
+    "lang": "nl",
     "lemma": "vocht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vochten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10161,15 +9549,12 @@ const WORDS_NL_A2 = [
       "ja": "湿気",
       "zh": "湿气",
       "ru": "влага",
-      "fr": "humidité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vochten"
+      "fr": "l'humidité"
+    }
   },
   {
     "id": "nl_1503",
+    "lang": "nl",
     "lemma": "opruimen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10190,17 +9575,14 @@ const WORDS_NL_A2 = [
       "zh": "整理",
       "ru": "убирать",
       "fr": "nettoyer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opruimen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1504",
+    "lang": "nl",
     "lemma": "gsm",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10218,15 +9600,12 @@ const WORDS_NL_A2 = [
       "ja": "携帯電話",
       "zh": "手机",
       "ru": "мобильный телефон",
-      "fr": "téléphone portable"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le téléphone portable"
+    }
   },
   {
     "id": "nl_1505",
+    "lang": "nl",
     "lemma": "gewild",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10247,14 +9626,15 @@ const WORDS_NL_A2 = [
       "zh": "受欢迎的",
       "ru": "желанный",
       "fr": "populaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1506",
+    "lang": "nl",
     "lemma": "spring",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "springen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10271,17 +9651,15 @@ const WORDS_NL_A2 = [
       "ja": "大潮",
       "zh": "大潮",
       "ru": "сизигийный прилив",
-      "fr": "marée vive"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "springen"
+      "fr": "la marée vive"
+    }
   },
   {
     "id": "nl_1507",
+    "lang": "nl",
     "lemma": "middernacht",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10301,15 +9679,19 @@ const WORDS_NL_A2 = [
       "ru": "полночь",
       "fr": "minuit"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1508",
+    "lang": "nl",
     "lemma": "brein",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "breinen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10326,17 +9708,15 @@ const WORDS_NL_A2 = [
       "ja": "脳",
       "zh": "大脑",
       "ru": "мозг",
-      "fr": "cerveau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "breinen"
+      "fr": "le cerveau"
+    }
   },
   {
     "id": "nl_1509",
+    "lang": "nl",
     "lemma": "onbekende",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10354,15 +9734,12 @@ const WORDS_NL_A2 = [
       "ja": "見知らぬ人",
       "zh": "陌生人",
       "ru": "незнакомец",
-      "fr": "étranger"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'étranger"
+    }
   },
   {
     "id": "nl_1510",
+    "lang": "nl",
     "lemma": "geschikt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10383,12 +9760,11 @@ const WORDS_NL_A2 = [
       "zh": "合适的",
       "ru": "подходящий",
       "fr": "convenable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1511",
+    "lang": "nl",
     "lemma": "ontspannen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10409,15 +9785,11 @@ const WORDS_NL_A2 = [
       "zh": "放松",
       "ru": "расслаблять",
       "fr": "se détendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ontspannen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1512",
+    "lang": "nl",
     "lemma": "ontspannen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10438,14 +9810,15 @@ const WORDS_NL_A2 = [
       "zh": "放松的",
       "ru": "расслабленный",
       "fr": "détendu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1513",
+    "lang": "nl",
     "lemma": "apparaat",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "apparaten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10463,15 +9836,12 @@ const WORDS_NL_A2 = [
       "ja": "装置",
       "zh": "设备",
       "ru": "аппарат",
-      "fr": "appareil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "apparaten"
+      "fr": "l'appareil"
+    }
   },
   {
     "id": "nl_1514",
+    "lang": "nl",
     "lemma": "storen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10492,15 +9862,11 @@ const WORDS_NL_A2 = [
       "zh": "打扰",
       "ru": "беспокоить",
       "fr": "déranger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "storen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1515",
+    "lang": "nl",
     "lemma": "handelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10521,17 +9887,14 @@ const WORDS_NL_A2 = [
       "zh": "行动",
       "ru": "действовать",
       "fr": "acte"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "handelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1516",
+    "lang": "nl",
     "lemma": "handelen",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10549,15 +9912,12 @@ const WORDS_NL_A2 = [
       "ja": "行為",
       "zh": "行动",
       "ru": "действие",
-      "fr": "action"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'action"
+    }
   },
   {
     "id": "nl_1517",
+    "lang": "nl",
     "lemma": "dwingen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10578,17 +9938,15 @@ const WORDS_NL_A2 = [
       "zh": "强迫",
       "ru": "принуждать",
       "fr": "force"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dwingen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1518",
+    "lang": "nl",
     "lemma": "slang",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "slangen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10605,17 +9963,16 @@ const WORDS_NL_A2 = [
       "ja": "蛇",
       "zh": "蛇",
       "ru": "змея",
-      "fr": "serpent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "slangen"
+      "fr": "le serpent"
+    }
   },
   {
     "id": "nl_1520",
+    "lang": "nl",
     "lemma": "student",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "studenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10633,15 +9990,12 @@ const WORDS_NL_A2 = [
       "ja": "学生",
       "zh": "学生",
       "ru": "студент",
-      "fr": "étudiant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "studenten"
+      "fr": "l'étudiant"
+    }
   },
   {
     "id": "nl_1521",
+    "lang": "nl",
     "lemma": "opdagen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10662,15 +10016,11 @@ const WORDS_NL_A2 = [
       "zh": "出现",
       "ru": "появляться",
       "fr": "apparaître"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opdagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1522",
+    "lang": "nl",
     "lemma": "volkomen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10691,12 +10041,11 @@ const WORDS_NL_A2 = [
       "zh": "完全的",
       "ru": "полный",
       "fr": "complet"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1523",
+    "lang": "nl",
     "lemma": "volkomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -10707,7 +10056,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "완성하다",
-      "en": "to complete",
+      "en": "complete",
       "de": "vollenden",
       "es": "completar",
       "nl": "volkomen",
@@ -10717,17 +10066,15 @@ const WORDS_NL_A2 = [
       "zh": "完成",
       "ru": "завершать",
       "fr": "achever"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "volkomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1524",
+    "lang": "nl",
     "lemma": "makker",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "makkers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10746,15 +10093,12 @@ const WORDS_NL_A2 = [
       "ja": "仲間",
       "zh": "伙伴",
       "ru": "товарищ",
-      "fr": "compagnon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "makkers"
+      "fr": "le compagnon"
+    }
   },
   {
     "id": "nl_1525",
+    "lang": "nl",
     "lemma": "briljant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10775,14 +10119,14 @@ const WORDS_NL_A2 = [
       "zh": "辉煌的",
       "ru": "блестящий",
       "fr": "brillant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1526",
+    "lang": "nl",
     "lemma": "briljant",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10799,17 +10143,16 @@ const WORDS_NL_A2 = [
       "ja": "ブリリアントカット",
       "zh": "明亮式切割",
       "ru": "бриллиант",
-      "fr": "taille brillant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la taille brillant"
+    }
   },
   {
     "id": "nl_1527",
+    "lang": "nl",
     "lemma": "schouder",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schouders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10827,17 +10170,16 @@ const WORDS_NL_A2 = [
       "ja": "肩",
       "zh": "肩膀",
       "ru": "плечо",
-      "fr": "épaule"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schouders"
+      "fr": "l'épaule"
+    }
   },
   {
     "id": "nl_1528",
+    "lang": "nl",
     "lemma": "dwaas",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dwazen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10855,15 +10197,12 @@ const WORDS_NL_A2 = [
       "ja": "愚か者",
       "zh": "傻瓜",
       "ru": "дурак",
-      "fr": "fou"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dwazen"
+      "fr": "le fou"
+    }
   },
   {
     "id": "nl_1529",
+    "lang": "nl",
     "lemma": "dwaas",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10884,12 +10223,11 @@ const WORDS_NL_A2 = [
       "zh": "愚蠢的",
       "ru": "глупый",
       "fr": "insensé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1530",
+    "lang": "nl",
     "lemma": "verdrietig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -10911,14 +10249,14 @@ const WORDS_NL_A2 = [
       "zh": "悲伤的",
       "ru": "грустный",
       "fr": "triste"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1531",
+    "lang": "nl",
     "lemma": "bereik",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10936,17 +10274,16 @@ const WORDS_NL_A2 = [
       "ja": "範囲",
       "zh": "范围",
       "ru": "диапазон",
-      "fr": "gamme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la gamme"
+    }
   },
   {
     "id": "nl_1532",
+    "lang": "nl",
     "lemma": "gozer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gozers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10964,17 +10301,16 @@ const WORDS_NL_A2 = [
       "ja": "男",
       "zh": "家伙",
       "ru": "парень",
-      "fr": "mec"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gozers"
+      "fr": "le mec"
+    }
   },
   {
     "id": "nl_1534",
+    "lang": "nl",
     "lemma": "wond",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wonden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -10992,15 +10328,12 @@ const WORDS_NL_A2 = [
       "ja": "傷",
       "zh": "伤口",
       "ru": "рана",
-      "fr": "blessure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wonden"
+      "fr": "la blessure"
+    }
   },
   {
     "id": "nl_1535",
+    "lang": "nl",
     "lemma": "wond",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11021,14 +10354,15 @@ const WORDS_NL_A2 = [
       "zh": "受伤的",
       "ru": "раненый",
       "fr": "blessé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1536",
+    "lang": "nl",
     "lemma": "campagne",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "campagnes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11046,17 +10380,16 @@ const WORDS_NL_A2 = [
       "ja": "キャンペーン",
       "zh": "运动",
       "ru": "кампания",
-      "fr": "campagne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "campagnes"
+      "fr": "la campagne"
+    }
   },
   {
     "id": "nl_1537",
+    "lang": "nl",
     "lemma": "boston",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "[1] bostons",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11073,17 +10406,16 @@ const WORDS_NL_A2 = [
       "ja": "ボストンワルツ",
       "zh": "波士顿华尔兹",
       "ru": "бостон",
-      "fr": "valse Boston"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "[1] bostons"
+      "fr": "la valse Boston"
+    }
   },
   {
     "id": "nl_1538",
+    "lang": "nl",
     "lemma": "dinsdag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dinsdagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11101,17 +10433,16 @@ const WORDS_NL_A2 = [
       "ja": "火曜日",
       "zh": "星期二",
       "ru": "вторник",
-      "fr": "mardi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dinsdagen"
+      "fr": "le mardi"
+    }
   },
   {
     "id": "nl_1539",
+    "lang": "nl",
     "lemma": "lever",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "levers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11129,17 +10460,16 @@ const WORDS_NL_A2 = [
       "ja": "肝臓",
       "zh": "肝脏",
       "ru": "печень",
-      "fr": "foie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "levers"
+      "fr": "le foie"
+    }
   },
   {
     "id": "nl_1540",
+    "lang": "nl",
     "lemma": "dek",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "dekken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11157,15 +10487,12 @@ const WORDS_NL_A2 = [
       "ja": "甲板",
       "zh": "甲板",
       "ru": "палуба",
-      "fr": "pont"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "dekken"
+      "fr": "le pont"
+    }
   },
   {
     "id": "nl_1541",
+    "lang": "nl",
     "lemma": "nieuwsgierig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11186,12 +10513,11 @@ const WORDS_NL_A2 = [
       "zh": "好奇的",
       "ru": "любопытный",
       "fr": "curieux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1542",
+    "lang": "nl",
     "lemma": "helder",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11212,14 +10538,14 @@ const WORDS_NL_A2 = [
       "zh": "清晰的",
       "ru": "ясный",
       "fr": "clair"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1543",
+    "lang": "nl",
     "lemma": "oosten",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11238,17 +10564,16 @@ const WORDS_NL_A2 = [
       "ja": "東",
       "zh": "东",
       "ru": "восток",
-      "fr": "est"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'est"
+    }
   },
   {
     "id": "nl_1544",
+    "lang": "nl",
     "lemma": "schande",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schandes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11266,15 +10591,12 @@ const WORDS_NL_A2 = [
       "ja": "恥",
       "zh": "耻辱",
       "ru": "позор",
-      "fr": "honte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schandes"
+      "fr": "la honte"
+    }
   },
   {
     "id": "nl_1545",
+    "lang": "nl",
     "lemma": "kanten",
     "pos": "Verb",
     "cefr": "A2",
@@ -11285,7 +10607,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "저항하다",
-      "en": "to resist",
+      "en": "resist",
       "de": "widerstehen",
       "es": "resistir",
       "nl": "kanten",
@@ -11295,15 +10617,11 @@ const WORDS_NL_A2 = [
       "zh": "抵抗",
       "ru": "сопротивляться",
       "fr": "résister"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kanten",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1546",
+    "lang": "nl",
     "lemma": "kanten",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11323,14 +10641,14 @@ const WORDS_NL_A2 = [
       "zh": "蕾丝的",
       "ru": "кружевной",
       "fr": "dentelleux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1547",
+    "lang": "nl",
     "lemma": "gewicht",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11348,15 +10666,12 @@ const WORDS_NL_A2 = [
       "ja": "重さ",
       "zh": "重量",
       "ru": "вес",
-      "fr": "poids"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le poids"
+    }
   },
   {
     "id": "nl_1548",
+    "lang": "nl",
     "lemma": "bedrijven",
     "pos": "Verb",
     "cefr": "A2",
@@ -11367,7 +10682,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "운영하다",
-      "en": "to operate",
+      "en": "operate",
       "de": "betreiben",
       "es": "operar",
       "nl": "bedrijven",
@@ -11377,17 +10692,15 @@ const WORDS_NL_A2 = [
       "zh": "经营",
       "ru": "вести",
       "fr": "opérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bedrijven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1549",
+    "lang": "nl",
     "lemma": "stront",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stronten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11405,15 +10718,12 @@ const WORDS_NL_A2 = [
       "ja": "糞",
       "zh": "粪",
       "ru": "навоз",
-      "fr": "fumier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stronten"
+      "fr": "le fumier"
+    }
   },
   {
     "id": "nl_1550",
+    "lang": "nl",
     "lemma": "vet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11434,14 +10744,14 @@ const WORDS_NL_A2 = [
       "zh": "肥胖的",
       "ru": "толстый",
       "fr": "graisse"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1551",
+    "lang": "nl",
     "lemma": "vet",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11461,15 +10771,19 @@ const WORDS_NL_A2 = [
       "ru": "жир",
       "fr": "gros"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1552",
+    "lang": "nl",
     "lemma": "geschenk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "geschenken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11487,15 +10801,12 @@ const WORDS_NL_A2 = [
       "ja": "贈り物",
       "zh": "礼物",
       "ru": "подарок",
-      "fr": "cadeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "geschenken"
+      "fr": "le cadeau"
+    }
   },
   {
     "id": "nl_1553",
+    "lang": "nl",
     "lemma": "negeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -11516,17 +10827,14 @@ const WORDS_NL_A2 = [
       "zh": "忽略",
       "ru": "игнорировать",
       "fr": "ignorer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "negeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1555",
+    "lang": "nl",
     "lemma": "sneeuw",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11544,17 +10852,16 @@ const WORDS_NL_A2 = [
       "ja": "雪",
       "zh": "雪",
       "ru": "снег",
-      "fr": "neige"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la neige"
+    }
   },
   {
     "id": "nl_1556",
+    "lang": "nl",
     "lemma": "aanklager",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "aanklagers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11571,17 +10878,16 @@ const WORDS_NL_A2 = [
       "ja": "検察官",
       "zh": "检察官",
       "ru": "прокурор",
-      "fr": "procureur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "aanklagers"
+      "fr": "le procureur"
+    }
   },
   {
     "id": "nl_1557",
+    "lang": "nl",
     "lemma": "zand",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "zanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11599,17 +10905,16 @@ const WORDS_NL_A2 = [
       "ja": "砂",
       "zh": "沙子",
       "ru": "песок",
-      "fr": "sable"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "zanden"
+      "fr": "le sable"
+    }
   },
   {
     "id": "nl_1558",
+    "lang": "nl",
     "lemma": "sport",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sporten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11627,17 +10932,16 @@ const WORDS_NL_A2 = [
       "ja": "スポーツ",
       "zh": "运动",
       "ru": "спорт",
-      "fr": "sport"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sporten"
+      "fr": "le sport"
+    }
   },
   {
     "id": "nl_1559",
+    "lang": "nl",
     "lemma": "hartaanval",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hartaanvallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11655,17 +10959,15 @@ const WORDS_NL_A2 = [
       "ja": "心臓発作",
       "zh": "心脏病发作",
       "ru": "сердечный приступ",
-      "fr": "crise cardiaque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hartaanvallen"
+      "fr": "la crise cardiaque"
+    }
   },
   {
     "id": "nl_1560",
+    "lang": "nl",
     "lemma": "bo",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11682,15 +10984,12 @@ const WORDS_NL_A2 = [
       "ja": "棒",
       "zh": "棍",
       "ru": "бо",
-      "fr": "bâton"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le bâton"
+    }
   },
   {
     "id": "nl_1561",
+    "lang": "nl",
     "lemma": "as",
     "pos": "Nomen",
     "cefr": "A2",
@@ -11711,15 +11010,15 @@ const WORDS_NL_A2 = [
       "ru": "ля бемоль",
       "fr": "la bémol"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "article": "de"
   },
   {
     "id": "nl_1562",
+    "lang": "nl",
     "lemma": "illegaal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "illegalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11737,15 +11036,12 @@ const WORDS_NL_A2 = [
       "ja": "不法滞在者",
       "zh": "非法移民",
       "ru": "нелегал",
-      "fr": "sans-papiers"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "illegalen"
+      "fr": "les sans-papiers"
+    }
   },
   {
     "id": "nl_1563",
+    "lang": "nl",
     "lemma": "illegaal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11766,14 +11062,15 @@ const WORDS_NL_A2 = [
       "zh": "非法的",
       "ru": "незаконный",
       "fr": "illégal"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1565",
+    "lang": "nl",
     "lemma": "varken",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "varkens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11791,15 +11088,12 @@ const WORDS_NL_A2 = [
       "ja": "豚",
       "zh": "猪",
       "ru": "свинья",
-      "fr": "cochon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "varkens"
+      "fr": "le cochon"
+    }
   },
   {
     "id": "nl_1566",
+    "lang": "nl",
     "lemma": "prettig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -11820,14 +11114,15 @@ const WORDS_NL_A2 = [
       "zh": "愉快的",
       "ru": "приятный",
       "fr": "agréable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1567",
+    "lang": "nl",
     "lemma": "donderdag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "donderdagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11845,17 +11140,16 @@ const WORDS_NL_A2 = [
       "ja": "木曜日",
       "zh": "星期四",
       "ru": "четверг",
-      "fr": "jeudi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "donderdagen"
+      "fr": "le jeudi"
+    }
   },
   {
     "id": "nl_1568",
+    "lang": "nl",
     "lemma": "hout",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "houten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11873,17 +11167,16 @@ const WORDS_NL_A2 = [
       "ja": "木材",
       "zh": "木头",
       "ru": "дерево",
-      "fr": "bois"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "houten"
+      "fr": "le bois"
+    }
   },
   {
     "id": "nl_1569",
+    "lang": "nl",
     "lemma": "merk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "merken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11901,17 +11194,16 @@ const WORDS_NL_A2 = [
       "ja": "ブランド",
       "zh": "品牌",
       "ru": "бренд",
-      "fr": "marque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "merken"
+      "fr": "la marque"
+    }
   },
   {
     "id": "nl_1570",
+    "lang": "nl",
     "lemma": "truc",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "trucs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11929,17 +11221,16 @@ const WORDS_NL_A2 = [
       "ja": "トリック",
       "zh": "技巧",
       "ru": "трюк",
-      "fr": "astuce"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "trucs"
+      "fr": "l'astuce"
+    }
   },
   {
     "id": "nl_1571",
+    "lang": "nl",
     "lemma": "el",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ellen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -11956,15 +11247,12 @@ const WORDS_NL_A2 = [
       "ja": "エル",
       "zh": "埃尔",
       "ru": "эль",
-      "fr": "aune"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ellen"
+      "fr": "l'aune"
+    }
   },
   {
     "id": "nl_1572",
+    "lang": "nl",
     "lemma": "wegen",
     "pos": "Verb",
     "cefr": "A2",
@@ -11985,15 +11273,11 @@ const WORDS_NL_A2 = [
       "zh": "称重",
       "ru": "взвешивать",
       "fr": "peser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1573",
+    "lang": "nl",
     "lemma": "planten",
     "pos": "Verb",
     "cefr": "A2",
@@ -12014,17 +11298,15 @@ const WORDS_NL_A2 = [
       "zh": "种植",
       "ru": "сажать",
       "fr": "plante"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "planten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1574",
+    "lang": "nl",
     "lemma": "pen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pennen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12042,15 +11324,12 @@ const WORDS_NL_A2 = [
       "ja": "ペン",
       "zh": "笔",
       "ru": "ручка",
-      "fr": "stylo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pennen"
+      "fr": "le stylo"
+    }
   },
   {
     "id": "nl_1575",
+    "lang": "nl",
     "lemma": "geplaatst",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12071,14 +11350,15 @@ const WORDS_NL_A2 = [
       "zh": "放置",
       "ru": "размещенный",
       "fr": "placé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1577",
+    "lang": "nl",
     "lemma": "gericht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gerichten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12096,15 +11376,12 @@ const WORDS_NL_A2 = [
       "ja": "裁判所",
       "zh": "法院",
       "ru": "суд",
-      "fr": "cour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gerichten"
+      "fr": "la cour"
+    }
   },
   {
     "id": "nl_1578",
+    "lang": "nl",
     "lemma": "gericht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12125,12 +11402,11 @@ const WORDS_NL_A2 = [
       "zh": "针对",
       "ru": "направленный",
       "fr": "concentré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1579",
+    "lang": "nl",
     "lemma": "duwen",
     "pos": "Verb",
     "cefr": "A2",
@@ -12151,17 +11427,14 @@ const WORDS_NL_A2 = [
       "zh": "推",
       "ru": "толкать",
       "fr": "pousser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "duwen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1580",
+    "lang": "nl",
     "lemma": "tip",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12179,15 +11452,12 @@ const WORDS_NL_A2 = [
       "ja": "先端",
       "zh": "尖端",
       "ru": "кончик",
-      "fr": "pointe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la pointe"
+    }
   },
   {
     "id": "nl_1581",
+    "lang": "nl",
     "lemma": "opeten",
     "pos": "Verb",
     "cefr": "A2",
@@ -12208,15 +11478,11 @@ const WORDS_NL_A2 = [
       "zh": "吃完",
       "ru": "съесть",
       "fr": "manger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opeten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1582",
+    "lang": "nl",
     "lemma": "dapper",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12237,12 +11503,11 @@ const WORDS_NL_A2 = [
       "zh": "勇敢",
       "ru": "храбрый",
       "fr": "courageux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1583",
+    "lang": "nl",
     "lemma": "concentreren",
     "pos": "Verb",
     "cefr": "A2",
@@ -12263,15 +11528,11 @@ const WORDS_NL_A2 = [
       "zh": "集中",
       "ru": "концентрировать",
       "fr": "concentrer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "concentreren",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1584",
+    "lang": "nl",
     "lemma": "beschikbaar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12292,12 +11553,11 @@ const WORDS_NL_A2 = [
       "zh": "可用",
       "ru": "доступный",
       "fr": "disponible"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1585",
+    "lang": "nl",
     "lemma": "bezorgen",
     "pos": "Verb",
     "cefr": "A2",
@@ -12318,17 +11578,15 @@ const WORDS_NL_A2 = [
       "zh": "递送",
       "ru": "доставлять",
       "fr": "livrer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bezorgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1586",
+    "lang": "nl",
     "lemma": "hek",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "hekken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12346,17 +11604,16 @@ const WORDS_NL_A2 = [
       "ja": "柵",
       "zh": "栅栏",
       "ru": "забор",
-      "fr": "clôture"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "hekken"
+      "fr": "la clôture"
+    }
   },
   {
     "id": "nl_1587",
+    "lang": "nl",
     "lemma": "golf",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "golven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12374,17 +11631,16 @@ const WORDS_NL_A2 = [
       "ja": "波",
       "zh": "波浪",
       "ru": "волна",
-      "fr": "vague"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "golven"
+      "fr": "la vague"
+    }
   },
   {
     "id": "nl_1588",
+    "lang": "nl",
     "lemma": "café",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "cafés",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12402,17 +11658,16 @@ const WORDS_NL_A2 = [
       "ja": "カフェ",
       "zh": "咖啡馆",
       "ru": "кафе",
-      "fr": "café"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "cafés"
+      "fr": "le café"
+    }
   },
   {
     "id": "nl_1589",
+    "lang": "nl",
     "lemma": "suiker",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "suikers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12430,15 +11685,12 @@ const WORDS_NL_A2 = [
       "ja": "砂糖",
       "zh": "糖",
       "ru": "сахар",
-      "fr": "sucre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "suikers"
+      "fr": "le sucre"
+    }
   },
   {
     "id": "nl_1592",
+    "lang": "nl",
     "lemma": "gevoelig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12459,14 +11711,15 @@ const WORDS_NL_A2 = [
       "zh": "敏感",
       "ru": "чувствительный",
       "fr": "sensible"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1593",
+    "lang": "nl",
     "lemma": "gras",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "grassen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12484,15 +11737,12 @@ const WORDS_NL_A2 = [
       "ja": "草",
       "zh": "草",
       "ru": "трава",
-      "fr": "herbe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "grassen"
+      "fr": "l'herbe"
+    }
   },
   {
     "id": "nl_1594",
+    "lang": "nl",
     "lemma": "gekwetst",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12513,12 +11763,11 @@ const WORDS_NL_A2 = [
       "zh": "受伤",
       "ru": "раненый",
       "fr": "blessé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1595",
+    "lang": "nl",
     "lemma": "filmen",
     "pos": "Verb",
     "cefr": "A2",
@@ -12539,17 +11788,15 @@ const WORDS_NL_A2 = [
       "zh": "拍摄",
       "ru": "снимать",
       "fr": "film"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "filmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1597",
+    "lang": "nl",
     "lemma": "tunnel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tunnels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12567,17 +11814,15 @@ const WORDS_NL_A2 = [
       "ja": "トンネル",
       "zh": "隧道",
       "ru": "туннель",
-      "fr": "tunnel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tunnels"
+      "fr": "le tunnel"
+    }
   },
   {
     "id": "nl_1598",
+    "lang": "nl",
     "lemma": "rock",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12595,15 +11840,12 @@ const WORDS_NL_A2 = [
       "ja": "ロック",
       "zh": "摇滚乐",
       "ru": "рок",
-      "fr": "rock"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le rock"
+    }
   },
   {
     "id": "nl_1599",
+    "lang": "nl",
     "lemma": "verstandig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12624,12 +11866,11 @@ const WORDS_NL_A2 = [
       "zh": "明智",
       "ru": "разумный",
       "fr": "sensé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1600",
+    "lang": "nl",
     "lemma": "meekomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -12650,15 +11891,11 @@ const WORDS_NL_A2 = [
       "zh": "一起来",
       "ru": "приходить",
       "fr": "venir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "meekomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1601",
+    "lang": "nl",
     "lemma": "doorbrengen",
     "pos": "Verb",
     "cefr": "A2",
@@ -12679,15 +11916,11 @@ const WORDS_NL_A2 = [
       "zh": "度过",
       "ru": "проводить время",
       "fr": "passer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "doorbrengen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1602",
+    "lang": "nl",
     "lemma": "puur",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12708,12 +11941,11 @@ const WORDS_NL_A2 = [
       "zh": "纯粹的",
       "ru": "чистый",
       "fr": "pur"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1603",
+    "lang": "nl",
     "lemma": "diamanten",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12733,12 +11965,11 @@ const WORDS_NL_A2 = [
       "zh": "钻石的",
       "ru": "бриллиантовый",
       "fr": "diamant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1604",
+    "lang": "nl",
     "lemma": "inclusief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -12759,14 +11990,15 @@ const WORDS_NL_A2 = [
       "zh": "包括",
       "ru": "включая",
       "fr": "inclusif"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1605",
+    "lang": "nl",
     "lemma": "oudere",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ouderen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12784,17 +12016,15 @@ const WORDS_NL_A2 = [
       "ja": "年長者",
       "zh": "长者",
       "ru": "старший",
-      "fr": "aîné"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ouderen"
+      "fr": "l'aîné"
+    }
   },
   {
     "id": "nl_1606",
+    "lang": "nl",
     "lemma": "verraad",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12811,17 +12041,16 @@ const WORDS_NL_A2 = [
       "ja": "裏切り",
       "zh": "背叛",
       "ru": "предательство",
-      "fr": "trahison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la trahison"
+    }
   },
   {
     "id": "nl_1607",
+    "lang": "nl",
     "lemma": "interview",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "interviews",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12839,17 +12068,15 @@ const WORDS_NL_A2 = [
       "ja": "インタビュー",
       "zh": "采访",
       "ru": "интервью",
-      "fr": "entretien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "interviews"
+      "fr": "l'entretien"
+    }
   },
   {
     "id": "nl_1608",
+    "lang": "nl",
     "lemma": "middel",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12867,17 +12094,16 @@ const WORDS_NL_A2 = [
       "ja": "真ん中",
       "zh": "中间",
       "ru": "середина",
-      "fr": "milieu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le milieu"
+    }
   },
   {
     "id": "nl_1610",
+    "lang": "nl",
     "lemma": "podium",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "podia",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12894,17 +12120,16 @@ const WORDS_NL_A2 = [
       "ja": "舞台",
       "zh": "舞台",
       "ru": "сцена",
-      "fr": "scène"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "podia"
+      "fr": "la scène"
+    }
   },
   {
     "id": "nl_1611",
+    "lang": "nl",
     "lemma": "effect",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "effecten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12922,17 +12147,15 @@ const WORDS_NL_A2 = [
       "ja": "効果",
       "zh": "效果",
       "ru": "эффект",
-      "fr": "effet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "effecten"
+      "fr": "l'effet"
+    }
   },
   {
     "id": "nl_1612",
+    "lang": "nl",
     "lemma": "vijftien",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -12951,13 +12174,19 @@ const WORDS_NL_A2 = [
       "ru": "пятнадцать",
       "fr": "quinze"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "nl_1613",
+    "lang": "nl",
     "lemma": "veroorzaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -12978,15 +12207,11 @@ const WORDS_NL_A2 = [
       "zh": "引起",
       "ru": "вызывать",
       "fr": "cause"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "veroorzaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1615",
+    "lang": "nl",
     "lemma": "beloven",
     "pos": "Verb",
     "cefr": "A2",
@@ -13007,15 +12232,11 @@ const WORDS_NL_A2 = [
       "zh": "承诺",
       "ru": "обещать",
       "fr": "promesse"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beloven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1616",
+    "lang": "nl",
     "lemma": "identificeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -13036,15 +12257,11 @@ const WORDS_NL_A2 = [
       "zh": "识别",
       "ru": "идентифицировать",
       "fr": "identifier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "identificeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1618",
+    "lang": "nl",
     "lemma": "volgend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13065,12 +12282,11 @@ const WORDS_NL_A2 = [
       "zh": "下一个",
       "ru": "следующий",
       "fr": "prochain"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1619",
+    "lang": "nl",
     "lemma": "gecontroleerd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13091,12 +12307,11 @@ const WORDS_NL_A2 = [
       "zh": "受控的",
       "ru": "контролируемый",
       "fr": "contrôlé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1620",
+    "lang": "nl",
     "lemma": "beroemd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13117,14 +12332,15 @@ const WORDS_NL_A2 = [
       "zh": "有名的",
       "ru": "знаменитый",
       "fr": "célèbre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1621",
+    "lang": "nl",
     "lemma": "masker",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "maskers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13141,15 +12357,12 @@ const WORDS_NL_A2 = [
       "ja": "仮面",
       "zh": "面具",
       "ru": "маска",
-      "fr": "masque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "maskers"
+      "fr": "le masque"
+    }
   },
   {
     "id": "nl_1622",
+    "lang": "nl",
     "lemma": "scherp",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13170,14 +12383,14 @@ const WORDS_NL_A2 = [
       "zh": "锋利的",
       "ru": "острый",
       "fr": "aiguisé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1623",
+    "lang": "nl",
     "lemma": "scherp",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13194,15 +12407,12 @@ const WORDS_NL_A2 = [
       "ja": "刃",
       "zh": "刀刃",
       "ru": "лезвие",
-      "fr": "bord"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le bord"
+    }
   },
   {
     "id": "nl_1624",
+    "lang": "nl",
     "lemma": "trainen",
     "pos": "Verb",
     "cefr": "A2",
@@ -13223,17 +12433,15 @@ const WORDS_NL_A2 = [
       "zh": "训练",
       "ru": "тренировать",
       "fr": "train"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trainen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1625",
+    "lang": "nl",
     "lemma": "kampioen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kampioenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13250,17 +12458,16 @@ const WORDS_NL_A2 = [
       "ja": "チャンピオン",
       "zh": "冠军",
       "ru": "чемпион",
-      "fr": "champion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kampioenen"
+      "fr": "le champion"
+    }
   },
   {
     "id": "nl_1626",
+    "lang": "nl",
     "lemma": "graaf",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "graven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13279,15 +12486,19 @@ const WORDS_NL_A2 = [
       "ru": "граф",
       "fr": "compter"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "graven"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1627",
+    "lang": "nl",
     "lemma": "oproep",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oproepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13305,15 +12516,12 @@ const WORDS_NL_A2 = [
       "ja": "呼びかけ",
       "zh": "呼吁",
       "ru": "призыв",
-      "fr": "appel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oproepen"
+      "fr": "l'appel"
+    }
   },
   {
     "id": "nl_1628",
+    "lang": "nl",
     "lemma": "veroorloven",
     "pos": "Verb",
     "cefr": "A2",
@@ -13333,17 +12541,15 @@ const WORDS_NL_A2 = [
       "zh": "负担得起",
       "ru": "позволить себе",
       "fr": "permettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "veroorloven",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1629",
+    "lang": "nl",
     "lemma": "helikopter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "helikopters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13361,17 +12567,15 @@ const WORDS_NL_A2 = [
       "ja": "ヘリコプター",
       "zh": "直升机",
       "ru": "вертолет",
-      "fr": "hélicoptère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "helikopters"
+      "fr": "l'hélicoptère"
+    }
   },
   {
     "id": "nl_1630",
+    "lang": "nl",
     "lemma": "zekere",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13389,15 +12593,12 @@ const WORDS_NL_A2 = [
       "ja": "確実性",
       "zh": "确定性",
       "ru": "уверенность",
-      "fr": "certitude"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la certitude"
+    }
   },
   {
     "id": "nl_1631",
+    "lang": "nl",
     "lemma": "vies",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13418,14 +12619,15 @@ const WORDS_NL_A2 = [
       "zh": "脏",
       "ru": "грязный",
       "fr": "sale"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1632",
+    "lang": "nl",
     "lemma": "geintje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "geintjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13443,17 +12645,16 @@ const WORDS_NL_A2 = [
       "ja": "冗談",
       "zh": "笑话",
       "ru": "шутка",
-      "fr": "blague"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "geintjes"
+      "fr": "la blague"
+    }
   },
   {
     "id": "nl_1633",
+    "lang": "nl",
     "lemma": "voer",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "voeren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13471,17 +12672,16 @@ const WORDS_NL_A2 = [
       "ja": "飼料",
       "zh": "饲料",
       "ru": "корм",
-      "fr": "aliments pour animaux"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "voeren"
+      "fr": "les aliments pour animaux"
+    }
   },
   {
     "id": "nl_1635",
+    "lang": "nl",
     "lemma": "keizer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "keizers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13499,15 +12699,12 @@ const WORDS_NL_A2 = [
       "ja": "皇帝",
       "zh": "皇帝",
       "ru": "император",
-      "fr": "empereur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "keizers"
+      "fr": "l'empereur"
+    }
   },
   {
     "id": "nl_1636",
+    "lang": "nl",
     "lemma": "voeden",
     "pos": "Verb",
     "cefr": "A2",
@@ -13518,7 +12715,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "먹이다",
-      "en": "to feed",
+      "en": "feed",
       "de": "füttern",
       "es": "alimentar",
       "nl": "voeden",
@@ -13528,17 +12725,15 @@ const WORDS_NL_A2 = [
       "zh": "喂养",
       "ru": "кормить",
       "fr": "nourrir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "voeden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1637",
+    "lang": "nl",
     "lemma": "studio",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "studio's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13556,17 +12751,16 @@ const WORDS_NL_A2 = [
       "ja": "スタジオ",
       "zh": "工作室",
       "ru": "студия",
-      "fr": "studio"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "studio's"
+      "fr": "le studio"
+    }
   },
   {
     "id": "nl_1638",
+    "lang": "nl",
     "lemma": "gif",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "giffen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13584,17 +12778,16 @@ const WORDS_NL_A2 = [
       "ja": "毒",
       "zh": "毒药",
       "ru": "яд",
-      "fr": "poison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "giffen"
+      "fr": "le poison"
+    }
   },
   {
     "id": "nl_1639",
+    "lang": "nl",
     "lemma": "datje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "datjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13612,17 +12805,16 @@ const WORDS_NL_A2 = [
       "ja": "小さな情報",
       "zh": "小信息",
       "ru": "мелочь",
-      "fr": "petit renseignement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "datjes"
+      "fr": "le petit renseignement"
+    }
   },
   {
     "id": "nl_1640",
+    "lang": "nl",
     "lemma": "ketting",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kettingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13640,15 +12832,12 @@ const WORDS_NL_A2 = [
       "ja": "鎖",
       "zh": "链",
       "ru": "цепь",
-      "fr": "chaîne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kettingen"
+      "fr": "la chaîne"
+    }
   },
   {
     "id": "nl_1641",
+    "lang": "nl",
     "lemma": "schitterend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13669,12 +12858,11 @@ const WORDS_NL_A2 = [
       "zh": "辉煌的",
       "ru": "блестящий",
       "fr": "brillant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1642",
+    "lang": "nl",
     "lemma": "velen",
     "pos": "Verb",
     "cefr": "A2",
@@ -13685,7 +12873,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "용인하다",
-      "en": "to tolerate",
+      "en": "tolerate",
       "de": "dulden",
       "es": "tolerar",
       "nl": "velen",
@@ -13695,17 +12883,15 @@ const WORDS_NL_A2 = [
       "zh": "容忍",
       "ru": "терпеть",
       "fr": "tolérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "velen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1643",
+    "lang": "nl",
     "lemma": "museum",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "museums",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13723,15 +12909,12 @@ const WORDS_NL_A2 = [
       "ja": "博物館",
       "zh": "博物馆",
       "ru": "музей",
-      "fr": "musée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "museums"
+      "fr": "le musée"
+    }
   },
   {
     "id": "nl_1644",
+    "lang": "nl",
     "lemma": "bevrijden",
     "pos": "Verb",
     "cefr": "A2",
@@ -13742,7 +12925,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "해방하다",
-      "en": "to free",
+      "en": "free",
       "de": "befreien",
       "es": "liberar",
       "nl": "bevrijden",
@@ -13752,15 +12935,11 @@ const WORDS_NL_A2 = [
       "zh": "解放",
       "ru": "освобождать",
       "fr": "libérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bevrijden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1645",
+    "lang": "nl",
     "lemma": "ramen",
     "pos": "Verb",
     "cefr": "A2",
@@ -13771,7 +12950,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "추정하다",
-      "en": "to estimate",
+      "en": "estimate",
       "de": "schätzen",
       "es": "estimar",
       "nl": "ramen",
@@ -13781,17 +12960,15 @@ const WORDS_NL_A2 = [
       "zh": "估计",
       "ru": "оценивать",
       "fr": "estimer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ramen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1646",
+    "lang": "nl",
     "lemma": "rechtszaak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rechtszaken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13809,17 +12986,16 @@ const WORDS_NL_A2 = [
       "ja": "訴訟",
       "zh": "诉讼",
       "ru": "судебный процесс",
-      "fr": "procès"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rechtszaken"
+      "fr": "le procès"
+    }
   },
   {
     "id": "nl_1649",
+    "lang": "nl",
     "lemma": "expert",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "experten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13837,15 +13013,12 @@ const WORDS_NL_A2 = [
       "ja": "専門家",
       "zh": "专家",
       "ru": "эксперт",
-      "fr": "expert"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "experten"
+      "fr": "l'expert"
+    }
   },
   {
     "id": "nl_1650",
+    "lang": "nl",
     "lemma": "feesten",
     "pos": "Verb",
     "cefr": "A2",
@@ -13856,7 +13029,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "파티하다",
-      "en": "to party",
+      "en": "party",
       "de": "feiern",
       "es": "festejar",
       "nl": "feesten",
@@ -13866,17 +13039,15 @@ const WORDS_NL_A2 = [
       "zh": "聚会",
       "ru": "праздновать",
       "fr": "fêter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "feesten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1652",
+    "lang": "nl",
     "lemma": "rommel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rommeltjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13894,17 +13065,16 @@ const WORDS_NL_A2 = [
       "ja": "がらくた",
       "zh": "杂物",
       "ru": "беспорядок",
-      "fr": "désordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rommeltjes"
+      "fr": "le désordre"
+    }
   },
   {
     "id": "nl_1653",
+    "lang": "nl",
     "lemma": "mijl",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "mijlen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -13922,15 +13092,12 @@ const WORDS_NL_A2 = [
       "ja": "マイル",
       "zh": "英里",
       "ru": "миля",
-      "fr": "mile"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "mijlen"
+      "fr": "le mille"
+    }
   },
   {
     "id": "nl_1654",
+    "lang": "nl",
     "lemma": "live",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13951,12 +13118,11 @@ const WORDS_NL_A2 = [
       "zh": "现场的",
       "ru": "живой",
       "fr": "vivre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1655",
+    "lang": "nl",
     "lemma": "beschermd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -13977,14 +13143,14 @@ const WORDS_NL_A2 = [
       "zh": "受保护的",
       "ru": "защищенный",
       "fr": "protégé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1656",
+    "lang": "nl",
     "lemma": "roze",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14002,15 +13168,12 @@ const WORDS_NL_A2 = [
       "ja": "ピンク色",
       "zh": "粉红色",
       "ru": "розовый цвет",
-      "fr": "couleur rose"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la couleur rose"
+    }
   },
   {
     "id": "nl_1657",
+    "lang": "nl",
     "lemma": "roze",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14031,14 +13194,15 @@ const WORDS_NL_A2 = [
       "zh": "粉色的",
       "ru": "розовый",
       "fr": "rose"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1658",
+    "lang": "nl",
     "lemma": "walker",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "walkers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14058,13 +13222,15 @@ const WORDS_NL_A2 = [
       "ru": "валяльщик",
       "fr": "plus plein"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "walkers"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1659",
+    "lang": "nl",
     "lemma": "flauw",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14085,14 +13251,14 @@ const WORDS_NL_A2 = [
       "zh": "清淡的",
       "ru": "безвкусный",
       "fr": "fade"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1661",
+    "lang": "nl",
     "lemma": "pech",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14110,17 +13276,16 @@ const WORDS_NL_A2 = [
       "ja": "不運",
       "zh": "厄运",
       "ru": "неудача",
-      "fr": "malchance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la malchance"
+    }
   },
   {
     "id": "nl_1662",
+    "lang": "nl",
     "lemma": "grootvader",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "grootvaders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14138,17 +13303,16 @@ const WORDS_NL_A2 = [
       "ja": "祖父",
       "zh": "祖父",
       "ru": "дедушка",
-      "fr": "grand-père"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "grootvaders"
+      "fr": "le grand-père"
+    }
   },
   {
     "id": "nl_1663",
+    "lang": "nl",
     "lemma": "junior",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "junioren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14166,15 +13330,12 @@ const WORDS_NL_A2 = [
       "ja": "ジュニア",
       "zh": "少年",
       "ru": "юниор",
-      "fr": "junior"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "junioren"
+      "fr": "le junior"
+    }
   },
   {
     "id": "nl_1664",
+    "lang": "nl",
     "lemma": "junior",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14195,14 +13356,15 @@ const WORDS_NL_A2 = [
       "zh": "小的",
       "ru": "младший",
       "fr": "junior"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1665",
+    "lang": "nl",
     "lemma": "voorzitter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "voorzitters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14220,17 +13382,16 @@ const WORDS_NL_A2 = [
       "ja": "議長",
       "zh": "主席",
       "ru": "председатель",
-      "fr": "président"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "voorzitters"
+      "fr": "le président"
+    }
   },
   {
     "id": "nl_1666",
+    "lang": "nl",
     "lemma": "bodem",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "bodems",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14248,15 +13409,12 @@ const WORDS_NL_A2 = [
       "ja": "底",
       "zh": "底部",
       "ru": "дно",
-      "fr": "fond"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "bodems"
+      "fr": "le fond"
+    }
   },
   {
     "id": "nl_1667",
+    "lang": "nl",
     "lemma": "repareren",
     "pos": "Verb",
     "cefr": "A2",
@@ -14277,15 +13435,11 @@ const WORDS_NL_A2 = [
       "zh": "修理",
       "ru": "ремонтировать",
       "fr": "réparer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "repareren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1668",
+    "lang": "nl",
     "lemma": "bewusteloos",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14306,14 +13460,15 @@ const WORDS_NL_A2 = [
       "zh": "失去知觉的",
       "ru": "без сознания",
       "fr": "inconscient"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1669",
+    "lang": "nl",
     "lemma": "opname",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "opnamen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14331,17 +13486,16 @@ const WORDS_NL_A2 = [
       "ja": "録音",
       "zh": "录音",
       "ru": "запись",
-      "fr": "enregistrement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "opnamen"
+      "fr": "l'enregistrement"
+    }
   },
   {
     "id": "nl_1670",
+    "lang": "nl",
     "lemma": "pols",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "polsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14359,15 +13513,12 @@ const WORDS_NL_A2 = [
       "ja": "手首",
       "zh": "手腕",
       "ru": "запястье",
-      "fr": "poignet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "polsen"
+      "fr": "le poignet"
+    }
   },
   {
     "id": "nl_1671",
+    "lang": "nl",
     "lemma": "herkennen",
     "pos": "Verb",
     "cefr": "A2",
@@ -14388,17 +13539,15 @@ const WORDS_NL_A2 = [
       "zh": "认出",
       "ru": "узнавать",
       "fr": "reconnaître"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herkennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1672",
+    "lang": "nl",
     "lemma": "hartslag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hartslagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14416,17 +13565,16 @@ const WORDS_NL_A2 = [
       "ja": "心拍",
       "zh": "心跳",
       "ru": "сердцебиение",
-      "fr": "battement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hartslagen"
+      "fr": "le battement"
+    }
   },
   {
     "id": "nl_1673",
+    "lang": "nl",
     "lemma": "oorzaak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oorzaken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14444,17 +13592,16 @@ const WORDS_NL_A2 = [
       "ja": "原因",
       "zh": "原因",
       "ru": "причина",
-      "fr": "cause"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oorzaken"
+      "fr": "la cause"
+    }
   },
   {
     "id": "nl_1674",
+    "lang": "nl",
     "lemma": "centrale",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "centrales",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14472,15 +13619,12 @@ const WORDS_NL_A2 = [
       "ja": "中央局",
       "zh": "中央局",
       "ru": "центральный офис",
-      "fr": "bureau central"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "centrales"
+      "fr": "le bureau central"
+    }
   },
   {
     "id": "nl_1675",
+    "lang": "nl",
     "lemma": "bewezen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14501,12 +13645,11 @@ const WORDS_NL_A2 = [
       "zh": "证明的",
       "ru": "доказанный",
       "fr": "prouvé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1676",
+    "lang": "nl",
     "lemma": "danken",
     "pos": "Verb",
     "cefr": "A2",
@@ -14528,17 +13671,15 @@ const WORDS_NL_A2 = [
       "zh": "感谢",
       "ru": "благодарить",
       "fr": "remercier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "danken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1677",
+    "lang": "nl",
     "lemma": "rat",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ratten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14556,15 +13697,12 @@ const WORDS_NL_A2 = [
       "ja": "ネズミ",
       "zh": "老鼠",
       "ru": "крыса",
-      "fr": "rat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ratten"
+      "fr": "le rat"
+    }
   },
   {
     "id": "nl_1678",
+    "lang": "nl",
     "lemma": "weglopen",
     "pos": "Verb",
     "cefr": "A2",
@@ -14585,15 +13723,11 @@ const WORDS_NL_A2 = [
       "zh": "跑掉",
       "ru": "убегать",
       "fr": "fuir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weglopen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1679",
+    "lang": "nl",
     "lemma": "medisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14614,12 +13748,11 @@ const WORDS_NL_A2 = [
       "zh": "医疗的",
       "ru": "медицинский",
       "fr": "médical"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1681",
+    "lang": "nl",
     "lemma": "grenzen",
     "pos": "Verb",
     "cefr": "A2",
@@ -14640,15 +13773,11 @@ const WORDS_NL_A2 = [
       "zh": "接壤",
       "ru": "граничить",
       "fr": "frontière"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grenzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1682",
+    "lang": "nl",
     "lemma": "onderhandelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -14669,15 +13798,11 @@ const WORDS_NL_A2 = [
       "zh": "谈判",
       "ru": "вести переговоры",
       "fr": "négocier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "onderhandelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1684",
+    "lang": "nl",
     "lemma": "triest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14699,12 +13824,11 @@ const WORDS_NL_A2 = [
       "zh": "悲伤的",
       "ru": "грустный",
       "fr": "triste"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1685",
+    "lang": "nl",
     "lemma": "slagen",
     "pos": "Verb",
     "cefr": "A2",
@@ -14725,17 +13849,14 @@ const WORDS_NL_A2 = [
       "zh": "成功",
       "ru": "преуспевать",
       "fr": "réussir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1686",
+    "lang": "nl",
     "lemma": "kruis",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14755,13 +13876,15 @@ const WORDS_NL_A2 = [
       "ru": "крест",
       "fr": "traverser"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1687",
+    "lang": "nl",
     "lemma": "technisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14782,12 +13905,11 @@ const WORDS_NL_A2 = [
       "zh": "技术的",
       "ru": "технический",
       "fr": "technique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1688",
+    "lang": "nl",
     "lemma": "positief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14808,14 +13930,15 @@ const WORDS_NL_A2 = [
       "zh": "积极的",
       "ru": "позитивный",
       "fr": "positif"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1689",
+    "lang": "nl",
     "lemma": "brigadier",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "brigadiers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14832,17 +13955,16 @@ const WORDS_NL_A2 = [
       "ja": "准将",
       "zh": "准将",
       "ru": "бригадир",
-      "fr": "brigadier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "brigadiers"
+      "fr": "le brigadier"
+    }
   },
   {
     "id": "nl_1690",
+    "lang": "nl",
     "lemma": "ogenblik",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ogenblikken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14860,15 +13982,12 @@ const WORDS_NL_A2 = [
       "ja": "瞬間",
       "zh": "时刻",
       "ru": "момент",
-      "fr": "moment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ogenblikken"
+      "fr": "le moment"
+    }
   },
   {
     "id": "nl_1691",
+    "lang": "nl",
     "lemma": "droog",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -14889,14 +14008,15 @@ const WORDS_NL_A2 = [
       "zh": "干燥的",
       "ru": "сухой",
       "fr": "sec"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1692",
+    "lang": "nl",
     "lemma": "admiraal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "admiraals",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14913,15 +14033,12 @@ const WORDS_NL_A2 = [
       "ja": "提督",
       "zh": "海军上将",
       "ru": "адмирал",
-      "fr": "amiral"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "admiraals"
+      "fr": "l'amiral"
+    }
   },
   {
     "id": "nl_1693",
+    "lang": "nl",
     "lemma": "excuseren",
     "pos": "Verb",
     "cefr": "A2",
@@ -14943,17 +14060,15 @@ const WORDS_NL_A2 = [
       "zh": "借口",
       "ru": "извинять",
       "fr": "excuse"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "excuseren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1694",
+    "lang": "nl",
     "lemma": "kleed",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "[1.1] kleden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14971,17 +14086,16 @@ const WORDS_NL_A2 = [
       "ja": "敷物",
       "zh": "地毯",
       "ru": "ковер",
-      "fr": "tapis"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "[1.1] kleden"
+      "fr": "le tapis"
+    }
   },
   {
     "id": "nl_1695",
+    "lang": "nl",
     "lemma": "maaltijd",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "maaltijden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -14999,15 +14113,12 @@ const WORDS_NL_A2 = [
       "ja": "食事",
       "zh": "餐",
       "ru": "еда",
-      "fr": "repas"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "maaltijden"
+      "fr": "le repas"
+    }
   },
   {
     "id": "nl_1696",
+    "lang": "nl",
     "lemma": "vuren",
     "pos": "Verb",
     "cefr": "A2",
@@ -15027,15 +14138,11 @@ const WORDS_NL_A2 = [
       "zh": "射击",
       "ru": "стрелять",
       "fr": "feu"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vuren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1697",
+    "lang": "nl",
     "lemma": "vuren",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15055,12 +14162,11 @@ const WORDS_NL_A2 = [
       "zh": "松木",
       "ru": "сосновый",
       "fr": "pin"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1698",
+    "lang": "nl",
     "lemma": "aanpakken",
     "pos": "Verb",
     "cefr": "A2",
@@ -15081,15 +14187,11 @@ const WORDS_NL_A2 = [
       "zh": "处理",
       "ru": "браться",
       "fr": "tacle"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aanpakken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1699",
+    "lang": "nl",
     "lemma": "afhandelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15109,17 +14211,14 @@ const WORDS_NL_A2 = [
       "zh": "处理",
       "ru": "улаживать",
       "fr": "gérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afhandelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1700",
+    "lang": "nl",
     "lemma": "stress",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15137,17 +14236,16 @@ const WORDS_NL_A2 = [
       "ja": "ストレス",
       "zh": "压力",
       "ru": "стресс",
-      "fr": "stress"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le stress"
+    }
   },
   {
     "id": "nl_1701",
+    "lang": "nl",
     "lemma": "bijbel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "bijbels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15164,17 +14262,16 @@ const WORDS_NL_A2 = [
       "ja": "聖書",
       "zh": "圣经",
       "ru": "Библия",
-      "fr": "Bible"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "bijbels"
+      "fr": "la Bible"
+    }
   },
   {
     "id": "nl_1702",
+    "lang": "nl",
     "lemma": "schema",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "schema's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15192,17 +14289,15 @@ const WORDS_NL_A2 = [
       "ja": "スケジュール",
       "zh": "计划",
       "ru": "расписание",
-      "fr": "horaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "schema's"
+      "fr": "l'horaire"
+    }
   },
   {
     "id": "nl_1703",
+    "lang": "nl",
     "lemma": "gelul",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15219,15 +14314,12 @@ const WORDS_NL_A2 = [
       "ja": "ばかげた話",
       "zh": "胡说",
       "ru": "чушь",
-      "fr": "absurdité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'absurdité"
+    }
   },
   {
     "id": "nl_1704",
+    "lang": "nl",
     "lemma": "vers",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15248,14 +14340,14 @@ const WORDS_NL_A2 = [
       "zh": "新鲜的",
       "ru": "свежий",
       "fr": "frais"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1705",
+    "lang": "nl",
     "lemma": "vers",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15272,15 +14364,12 @@ const WORDS_NL_A2 = [
       "ja": "詩",
       "zh": "诗",
       "ru": "стих",
-      "fr": "verset"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le verset"
+    }
   },
   {
     "id": "nl_1706",
+    "lang": "nl",
     "lemma": "overnemen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15300,15 +14389,11 @@ const WORDS_NL_A2 = [
       "zh": "接管",
       "ru": "перенимать",
       "fr": "reprendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overnemen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1707",
+    "lang": "nl",
     "lemma": "waarderen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15330,15 +14415,11 @@ const WORDS_NL_A2 = [
       "zh": "欣赏",
       "ru": "ценить",
       "fr": "apprécier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "waarderen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1708",
+    "lang": "nl",
     "lemma": "tranen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15358,15 +14439,11 @@ const WORDS_NL_A2 = [
       "zh": "流泪",
       "ru": "слезиться",
       "fr": "larme"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "tranen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1709",
+    "lang": "nl",
     "lemma": "geopend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15387,12 +14464,11 @@ const WORDS_NL_A2 = [
       "zh": "打开的",
       "ru": "открытый",
       "fr": "ouvert"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1710",
+    "lang": "nl",
     "lemma": "groots",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15413,12 +14489,11 @@ const WORDS_NL_A2 = [
       "zh": "宏伟的",
       "ru": "грандиозный",
       "fr": "grand"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1711",
+    "lang": "nl",
     "lemma": "boeten",
     "pos": "Verb",
     "cefr": "A2",
@@ -15439,17 +14514,15 @@ const WORDS_NL_A2 = [
       "zh": "赎罪",
       "ru": "искупать",
       "fr": "expier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boeten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1712",
+    "lang": "nl",
     "lemma": "staart",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "staarten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15467,15 +14540,12 @@ const WORDS_NL_A2 = [
       "ja": "尻尾",
       "zh": "尾巴",
       "ru": "хвост",
-      "fr": "queue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "staarten"
+      "fr": "la queue"
+    }
   },
   {
     "id": "nl_1713",
+    "lang": "nl",
     "lemma": "ondervragen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15496,17 +14566,15 @@ const WORDS_NL_A2 = [
       "zh": "审问",
       "ru": "допрашивать",
       "fr": "interroger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ondervragen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1714",
+    "lang": "nl",
     "lemma": "schedel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schedels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15524,15 +14592,12 @@ const WORDS_NL_A2 = [
       "ja": "頭蓋骨",
       "zh": "颅骨",
       "ru": "череп",
-      "fr": "crâne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schedels"
+      "fr": "le crâne"
+    }
   },
   {
     "id": "nl_1715",
+    "lang": "nl",
     "lemma": "tijdelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15553,12 +14618,11 @@ const WORDS_NL_A2 = [
       "zh": "临时的",
       "ru": "временный",
       "fr": "temporaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1716",
+    "lang": "nl",
     "lemma": "klinken",
     "pos": "Verb",
     "cefr": "A2",
@@ -15579,17 +14643,15 @@ const WORDS_NL_A2 = [
       "zh": "听起来",
       "ru": "звучать",
       "fr": "son"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klinken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1717",
+    "lang": "nl",
     "lemma": "demon",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "demonen, demons",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15607,17 +14669,16 @@ const WORDS_NL_A2 = [
       "ja": "悪魔",
       "zh": "恶魔",
       "ru": "демон",
-      "fr": "démon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "demonen, demons"
+      "fr": "le démon"
+    }
   },
   {
     "id": "nl_1718",
+    "lang": "nl",
     "lemma": "aanslag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "aanslagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15635,17 +14696,16 @@ const WORDS_NL_A2 = [
       "ja": "攻撃",
       "zh": "袭击",
       "ru": "нападение",
-      "fr": "attaque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "aanslagen"
+      "fr": "l'attaque"
+    }
   },
   {
     "id": "nl_1719",
+    "lang": "nl",
     "lemma": "proef",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "proeven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15663,17 +14723,16 @@ const WORDS_NL_A2 = [
       "ja": "試験",
       "zh": "试验",
       "ru": "тест",
-      "fr": "test"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "proeven"
+      "fr": "le test"
+    }
   },
   {
     "id": "nl_1720",
+    "lang": "nl",
     "lemma": "steven",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stevens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15691,15 +14750,12 @@ const WORDS_NL_A2 = [
       "ja": "船首",
       "zh": "船头",
       "ru": "нос корабля",
-      "fr": "proue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stevens"
+      "fr": "la proue"
+    }
   },
   {
     "id": "nl_1721",
+    "lang": "nl",
     "lemma": "ontstaan",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15720,14 +14776,15 @@ const WORDS_NL_A2 = [
       "zh": "产生的",
       "ru": "возникший",
       "fr": "surgi"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1723",
+    "lang": "nl",
     "lemma": "soep",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "soepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15745,17 +14802,15 @@ const WORDS_NL_A2 = [
       "ja": "スープ",
       "zh": "汤",
       "ru": "суп",
-      "fr": "soupe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "soepen"
+      "fr": "la soupe"
+    }
   },
   {
     "id": "nl_1724",
+    "lang": "nl",
     "lemma": "nul",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15773,17 +14828,16 @@ const WORDS_NL_A2 = [
       "ja": "ゼロ",
       "zh": "零",
       "ru": "ноль",
-      "fr": "zéro"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le zéro"
+    }
   },
   {
     "id": "nl_1725",
+    "lang": "nl",
     "lemma": "green",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "grenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15801,17 +14855,16 @@ const WORDS_NL_A2 = [
       "ja": "松",
       "zh": "松树",
       "ru": "сосна",
-      "fr": "pin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "grenen"
+      "fr": "le pin"
+    }
   },
   {
     "id": "nl_1726",
+    "lang": "nl",
     "lemma": "oordeel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "oordelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15829,17 +14882,15 @@ const WORDS_NL_A2 = [
       "ja": "判断",
       "zh": "判断",
       "ru": "суждение",
-      "fr": "jugement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "oordelen"
+      "fr": "le jugement"
+    }
   },
   {
     "id": "nl_1727",
+    "lang": "nl",
     "lemma": "bloeddruk",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15857,17 +14908,16 @@ const WORDS_NL_A2 = [
       "ja": "血圧",
       "zh": "血压",
       "ru": "кровяное давление",
-      "fr": "tension"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la tension"
+    }
   },
   {
     "id": "nl_1728",
+    "lang": "nl",
     "lemma": "hoofdpijn",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hoofdpijnen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15885,15 +14935,12 @@ const WORDS_NL_A2 = [
       "ja": "頭痛",
       "zh": "头痛",
       "ru": "головная боль",
-      "fr": "mal de tête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hoofdpijnen"
+      "fr": "le mal de tête"
+    }
   },
   {
     "id": "nl_1729",
+    "lang": "nl",
     "lemma": "vijfde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15914,14 +14961,15 @@ const WORDS_NL_A2 = [
       "zh": "第五",
       "ru": "пятый",
       "fr": "cinquième"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1730",
+    "lang": "nl",
     "lemma": "penny",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "penny's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -15939,15 +14987,12 @@ const WORDS_NL_A2 = [
       "ja": "ペニー",
       "zh": "便士",
       "ru": "пенни",
-      "fr": "sou"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "penny's"
+      "fr": "le sou"
+    }
   },
   {
     "id": "nl_1731",
+    "lang": "nl",
     "lemma": "pijnlijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -15968,12 +15013,11 @@ const WORDS_NL_A2 = [
       "zh": "痛苦的",
       "ru": "болезненный",
       "fr": "douloureux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1732",
+    "lang": "nl",
     "lemma": "blazen",
     "pos": "Verb",
     "cefr": "A2",
@@ -15994,17 +15038,14 @@ const WORDS_NL_A2 = [
       "zh": "吹",
       "ru": "дуть",
       "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "blazen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1733",
+    "lang": "nl",
     "lemma": "bot",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16022,15 +15063,12 @@ const WORDS_NL_A2 = [
       "ja": "カレイ",
       "zh": "鲽鱼",
       "ru": "камбала",
-      "fr": "flet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le flet"
+    }
   },
   {
     "id": "nl_1734",
+    "lang": "nl",
     "lemma": "bot",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16051,14 +15089,15 @@ const WORDS_NL_A2 = [
       "zh": "钝的",
       "ru": "тупой",
       "fr": "émoussé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1735",
+    "lang": "nl",
     "lemma": "ei",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "eieren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16076,17 +15115,16 @@ const WORDS_NL_A2 = [
       "ja": "卵",
       "zh": "鸡蛋",
       "ru": "яйцо",
-      "fr": "œuf"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "eieren"
+      "fr": "l'œuf"
+    }
   },
   {
     "id": "nl_1736",
+    "lang": "nl",
     "lemma": "chaos",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chaosjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16104,17 +15142,16 @@ const WORDS_NL_A2 = [
       "ja": "混沌",
       "zh": "混乱",
       "ru": "хаос",
-      "fr": "chaos"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chaosjes"
+      "fr": "le chaos"
+    }
   },
   {
     "id": "nl_1737",
+    "lang": "nl",
     "lemma": "tekst",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "teksten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16132,17 +15169,16 @@ const WORDS_NL_A2 = [
       "ja": "テキスト",
       "zh": "文本",
       "ru": "текст",
-      "fr": "texte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "teksten"
+      "fr": "le texte"
+    }
   },
   {
     "id": "nl_1738",
+    "lang": "nl",
     "lemma": "scène",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "scènes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16160,17 +15196,16 @@ const WORDS_NL_A2 = [
       "ja": "シーン",
       "zh": "场景",
       "ru": "сцена",
-      "fr": "scène"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "scènes"
+      "fr": "la scène"
+    }
   },
   {
     "id": "nl_1739",
+    "lang": "nl",
     "lemma": "uitzicht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "uitzichten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16188,17 +15223,15 @@ const WORDS_NL_A2 = [
       "ja": "眺め",
       "zh": "景色",
       "ru": "вид",
-      "fr": "vue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "uitzichten"
+      "fr": "la vue"
+    }
   },
   {
     "id": "nl_1740",
+    "lang": "nl",
     "lemma": "vooruitgang",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16216,17 +15249,15 @@ const WORDS_NL_A2 = [
       "ja": "進歩",
       "zh": "进步",
       "ru": "прогресс",
-      "fr": "progrès"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le progrès"
+    }
   },
   {
     "id": "nl_1741",
+    "lang": "nl",
     "lemma": "maagd",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16239,21 +15270,24 @@ const WORDS_NL_A2 = [
       "es": "Virgo",
       "nl": "de Maagd",
       "it": "la Vergine",
-      "pt": "Virgem",
+      "pt": "a Virgem",
       "ja": "乙女座",
       "zh": "处女座",
       "ru": "Дева",
-      "fr": "Vierge"
+      "fr": "la Vierge"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "es": true
+      }
+    }
   },
   {
     "id": "nl_1742",
+    "lang": "nl",
     "lemma": "e-mail",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16271,17 +15305,16 @@ const WORDS_NL_A2 = [
       "ja": "Eメール",
       "zh": "电子邮件",
       "ru": "электронная почта",
-      "fr": "courriel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le courriel"
+    }
   },
   {
     "id": "nl_1743",
+    "lang": "nl",
     "lemma": "lafaard",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lafaards",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16299,17 +15332,16 @@ const WORDS_NL_A2 = [
       "ja": "臆病者",
       "zh": "懦夫",
       "ru": "трус",
-      "fr": "lâche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lafaards"
+      "fr": "le lâche"
+    }
   },
   {
     "id": "nl_1744",
+    "lang": "nl",
     "lemma": "mei",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "meien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16327,15 +15359,19 @@ const WORDS_NL_A2 = [
       "ja": "5月",
       "zh": "五月",
       "ru": "май",
-      "fr": "mai"
+      "fr": "le mai"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "meien"
+    "meta": {
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true
+      }
+    }
   },
   {
     "id": "nl_1745",
+    "lang": "nl",
     "lemma": "dodelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16356,12 +15392,11 @@ const WORDS_NL_A2 = [
       "zh": "致命的",
       "ru": "смертельный",
       "fr": "mortel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1746",
+    "lang": "nl",
     "lemma": "geleid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16381,12 +15416,11 @@ const WORDS_NL_A2 = [
       "zh": "被引导的",
       "ru": "управляемый",
       "fr": "guidé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1747",
+    "lang": "nl",
     "lemma": "bestellen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16407,15 +15441,11 @@ const WORDS_NL_A2 = [
       "zh": "订购",
       "ru": "заказывать",
       "fr": "ordre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bestellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1748",
+    "lang": "nl",
     "lemma": "plassen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16436,17 +15466,15 @@ const WORDS_NL_A2 = [
       "zh": "小便",
       "ru": "мочиться",
       "fr": "uriner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "plassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1749",
+    "lang": "nl",
     "lemma": "teddy",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "teddy's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16464,17 +15492,16 @@ const WORDS_NL_A2 = [
       "ja": "テディベア",
       "zh": "泰迪熊",
       "ru": "плюшевый мишка",
-      "fr": "ours en peluche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "teddy's"
+      "fr": "l'ours en peluche"
+    }
   },
   {
     "id": "nl_1750",
+    "lang": "nl",
     "lemma": "affaire",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "affaires",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16492,17 +15519,16 @@ const WORDS_NL_A2 = [
       "ja": "事件",
       "zh": "事件",
       "ru": "дело",
-      "fr": "affaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "affaires"
+      "fr": "l'affaire"
+    }
   },
   {
     "id": "nl_1751",
+    "lang": "nl",
     "lemma": "kreng",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "krengen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16519,15 +15545,12 @@ const WORDS_NL_A2 = [
       "ja": "死骸",
       "zh": "尸体",
       "ru": "туша",
-      "fr": "carcasse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "krengen"
+      "fr": "la carcasse"
+    }
   },
   {
     "id": "nl_1752",
+    "lang": "nl",
     "lemma": "verzinnen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16548,17 +15571,15 @@ const WORDS_NL_A2 = [
       "zh": "编造",
       "ru": "выдумывать",
       "fr": "inventer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verzinnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1753",
+    "lang": "nl",
     "lemma": "sigaret",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sigaretten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16576,17 +15597,15 @@ const WORDS_NL_A2 = [
       "ja": "紙巻きたばこ",
       "zh": "香烟",
       "ru": "сигарета",
-      "fr": "cigarette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sigaretten"
+      "fr": "la cigarette"
+    }
   },
   {
     "id": "nl_1754",
+    "lang": "nl",
     "lemma": "vat",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16604,15 +15623,12 @@ const WORDS_NL_A2 = [
       "ja": "樽",
       "zh": "桶",
       "ru": "бочка",
-      "fr": "baril"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le baril"
+    }
   },
   {
     "id": "nl_1755",
+    "lang": "nl",
     "lemma": "verspreiden",
     "pos": "Verb",
     "cefr": "A2",
@@ -16633,15 +15649,11 @@ const WORDS_NL_A2 = [
       "zh": "传播",
       "ru": "распространять",
       "fr": "étendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verspreiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1756",
+    "lang": "nl",
     "lemma": "vullen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16662,17 +15674,15 @@ const WORDS_NL_A2 = [
       "zh": "填充",
       "ru": "заполнять",
       "fr": "remplir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vullen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1757",
+    "lang": "nl",
     "lemma": "vermogen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vermogens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16690,15 +15700,12 @@ const WORDS_NL_A2 = [
       "ja": "財産",
       "zh": "财富",
       "ru": "состояние",
-      "fr": "richesse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vermogens"
+      "fr": "la richesse"
+    }
   },
   {
     "id": "nl_1758",
+    "lang": "nl",
     "lemma": "vermogen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16719,15 +15726,11 @@ const WORDS_NL_A2 = [
       "zh": "能够",
       "ru": "мочь",
       "fr": "pouvoir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vermogen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1759",
+    "lang": "nl",
     "lemma": "overstuur",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16748,14 +15751,15 @@ const WORDS_NL_A2 = [
       "zh": "心烦意乱的",
       "ru": "расстроенный",
       "fr": "bouleverser"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1760",
+    "lang": "nl",
     "lemma": "dominee",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dominees",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16773,15 +15777,12 @@ const WORDS_NL_A2 = [
       "ja": "牧師",
       "zh": "牧师",
       "ru": "пастор",
-      "fr": "pasteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dominees"
+      "fr": "le pasteur"
+    }
   },
   {
     "id": "nl_1761",
+    "lang": "nl",
     "lemma": "bekennen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16802,15 +15803,11 @@ const WORDS_NL_A2 = [
       "zh": "承认",
       "ru": "признаваться",
       "fr": "confesser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bekennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1762",
+    "lang": "nl",
     "lemma": "verdwaald",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16832,12 +15829,11 @@ const WORDS_NL_A2 = [
       "zh": "迷路的",
       "ru": "потерянный",
       "fr": "perdu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1763",
+    "lang": "nl",
     "lemma": "bedreigd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16858,12 +15854,11 @@ const WORDS_NL_A2 = [
       "zh": "受威胁的",
       "ru": "под угрозой",
       "fr": "menacé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1764",
+    "lang": "nl",
     "lemma": "wetten",
     "pos": "Verb",
     "cefr": "A2",
@@ -16884,15 +15879,11 @@ const WORDS_NL_A2 = [
       "zh": "磨快",
       "ru": "точить",
       "fr": "aiguiser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wetten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1765",
+    "lang": "nl",
     "lemma": "boodschappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -16913,15 +15904,11 @@ const WORDS_NL_A2 = [
       "zh": "传递信息",
       "ru": "передавать сообщение",
       "fr": "transmettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boodschappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1766",
+    "lang": "nl",
     "lemma": "zenuwachtig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16942,14 +15929,15 @@ const WORDS_NL_A2 = [
       "zh": "紧张的",
       "ru": "нервный",
       "fr": "nerveux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1767",
+    "lang": "nl",
     "lemma": "koninkrijk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "koninkrijken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -16967,15 +15955,12 @@ const WORDS_NL_A2 = [
       "ja": "王国",
       "zh": "王国",
       "ru": "королевство",
-      "fr": "royaume"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "koninkrijken"
+      "fr": "le royaume"
+    }
   },
   {
     "id": "nl_1768",
+    "lang": "nl",
     "lemma": "chinees",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -16996,14 +15981,15 @@ const WORDS_NL_A2 = [
       "zh": "中国的",
       "ru": "китайский",
       "fr": "chinois"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1769",
+    "lang": "nl",
     "lemma": "chinees",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chinezen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17021,15 +16007,12 @@ const WORDS_NL_A2 = [
       "ja": "中華料理",
       "zh": "中餐",
       "ru": "китайская еда",
-      "fr": "cuisine chinoise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chinezen"
+      "fr": "la cuisine chinoise"
+    }
   },
   {
     "id": "nl_1770",
+    "lang": "nl",
     "lemma": "uitvoeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -17050,17 +16033,15 @@ const WORDS_NL_A2 = [
       "zh": "出口",
       "ru": "экспортировать",
       "fr": "exporter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitvoeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1771",
+    "lang": "nl",
     "lemma": "vrachtwagen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vrachtwagens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17078,17 +16059,16 @@ const WORDS_NL_A2 = [
       "ja": "トラック",
       "zh": "卡车",
       "ru": "грузовик",
-      "fr": "camion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vrachtwagens"
+      "fr": "le camion"
+    }
   },
   {
     "id": "nl_1772",
+    "lang": "nl",
     "lemma": "tank",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tanks",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17106,15 +16086,12 @@ const WORDS_NL_A2 = [
       "ja": "タンク",
       "zh": "水箱",
       "ru": "бак",
-      "fr": "réservoir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tanks"
+      "fr": "le réservoir"
+    }
   },
   {
     "id": "nl_1773",
+    "lang": "nl",
     "lemma": "beschadigd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17135,12 +16112,11 @@ const WORDS_NL_A2 = [
       "zh": "损坏的",
       "ru": "поврежденный",
       "fr": "endommagé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1774",
+    "lang": "nl",
     "lemma": "verbranden",
     "pos": "Verb",
     "cefr": "A2",
@@ -17161,15 +16137,11 @@ const WORDS_NL_A2 = [
       "zh": "燃烧",
       "ru": "сжигать",
       "fr": "brûler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verbranden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1775",
+    "lang": "nl",
     "lemma": "onbekend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17190,14 +16162,14 @@ const WORDS_NL_A2 = [
       "zh": "未知的",
       "ru": "неизвестный",
       "fr": "inconnu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1776",
+    "lang": "nl",
     "lemma": "humor",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17215,17 +16187,16 @@ const WORDS_NL_A2 = [
       "ja": "ユーモア",
       "zh": "幽默",
       "ru": "юмор",
-      "fr": "humour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'humour"
+    }
   },
   {
     "id": "nl_1777",
+    "lang": "nl",
     "lemma": "theater",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "theaters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17243,17 +16214,16 @@ const WORDS_NL_A2 = [
       "ja": "劇場",
       "zh": "剧院",
       "ru": "театр",
-      "fr": "théâtre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "theaters"
+      "fr": "le théâtre"
+    }
   },
   {
     "id": "nl_1778",
+    "lang": "nl",
     "lemma": "koorts",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "koortsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17271,17 +16241,16 @@ const WORDS_NL_A2 = [
       "ja": "熱",
       "zh": "发烧",
       "ru": "лихорадка",
-      "fr": "fièvre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "koortsen"
+      "fr": "la fièvre"
+    }
   },
   {
     "id": "nl_1779",
+    "lang": "nl",
     "lemma": "ingang",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ingangen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17299,15 +16268,12 @@ const WORDS_NL_A2 = [
       "ja": "入口",
       "zh": "入口",
       "ru": "вход",
-      "fr": "entrée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ingangen"
+      "fr": "l'entrée"
+    }
   },
   {
     "id": "nl_1780",
+    "lang": "nl",
     "lemma": "stabiel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17328,14 +16294,14 @@ const WORDS_NL_A2 = [
       "zh": "稳定的",
       "ru": "стабильный",
       "fr": "stable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1781",
+    "lang": "nl",
     "lemma": "maya",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17353,17 +16319,16 @@ const WORDS_NL_A2 = [
       "ja": "マヤ人",
       "zh": "玛雅人",
       "ru": "майя",
-      "fr": "Maya"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le Maya"
+    }
   },
   {
     "id": "nl_1782",
+    "lang": "nl",
     "lemma": "noodgeval",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "noodgevallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17381,17 +16346,16 @@ const WORDS_NL_A2 = [
       "ja": "緊急事態",
       "zh": "紧急情况",
       "ru": "чрезвычайная ситуация",
-      "fr": "urgence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "noodgevallen"
+      "fr": "l'urgence"
+    }
   },
   {
     "id": "nl_1783",
+    "lang": "nl",
     "lemma": "uitweg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "uitwegen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17409,17 +16373,16 @@ const WORDS_NL_A2 = [
       "ja": "出口",
       "zh": "出路",
       "ru": "выход",
-      "fr": "sortie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "uitwegen"
+      "fr": "la sortie"
+    }
   },
   {
     "id": "nl_1784",
+    "lang": "nl",
     "lemma": "psychiater",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "psychiaters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17437,17 +16400,16 @@ const WORDS_NL_A2 = [
       "ja": "精神科医",
       "zh": "精神科医生",
       "ru": "психиатр",
-      "fr": "psychiatre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "psychiaters"
+      "fr": "le psychiatre"
+    }
   },
   {
     "id": "nl_1785",
+    "lang": "nl",
     "lemma": "datum",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "data, datums",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17465,15 +16427,12 @@ const WORDS_NL_A2 = [
       "ja": "日付",
       "zh": "日期",
       "ru": "дата",
-      "fr": "date"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "data, datums"
+      "fr": "la date"
+    }
   },
   {
     "id": "nl_1786",
+    "lang": "nl",
     "lemma": "correct",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17494,14 +16453,15 @@ const WORDS_NL_A2 = [
       "zh": "正确的",
       "ru": "правильный",
       "fr": "correct"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1787",
+    "lang": "nl",
     "lemma": "nood",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "noden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17519,17 +16479,15 @@ const WORDS_NL_A2 = [
       "ja": "緊急事態",
       "zh": "紧急情况",
       "ru": "нужда",
-      "fr": "urgence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "noden"
+      "fr": "l'urgence"
+    }
   },
   {
     "id": "nl_1788",
+    "lang": "nl",
     "lemma": "wiet",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17546,15 +16504,12 @@ const WORDS_NL_A2 = [
       "ja": "マリファナ",
       "zh": "大麻",
       "ru": "марихуана",
-      "fr": "mauvaise herbe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la mauvaise herbe"
+    }
   },
   {
     "id": "nl_1789",
+    "lang": "nl",
     "lemma": "wonden",
     "pos": "Verb",
     "cefr": "A2",
@@ -17564,7 +16519,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "상처를 입히다",
-      "en": "to wound",
+      "en": "wound",
       "de": "verwunden",
       "es": "herir",
       "nl": "wonden",
@@ -17574,15 +16529,11 @@ const WORDS_NL_A2 = [
       "zh": "伤害",
       "ru": "ранить",
       "fr": "blesser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wonden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1790",
+    "lang": "nl",
     "lemma": "afdrukken",
     "pos": "Verb",
     "cefr": "A2",
@@ -17593,7 +16544,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "인쇄하다",
-      "en": "to print",
+      "en": "print",
       "de": "drucken",
       "es": "imprimir",
       "nl": "afdrukken",
@@ -17603,17 +16554,15 @@ const WORDS_NL_A2 = [
       "zh": "打印",
       "ru": "печатать",
       "fr": "imprimer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afdrukken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1791",
+    "lang": "nl",
     "lemma": "netwerk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "netwerken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17631,15 +16580,12 @@ const WORDS_NL_A2 = [
       "ja": "ネットワーク",
       "zh": "网络",
       "ru": "сеть",
-      "fr": "réseau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "netwerken"
+      "fr": "le réseau"
+    }
   },
   {
     "id": "nl_1792",
+    "lang": "nl",
     "lemma": "doorlopen",
     "pos": "Verb",
     "cefr": "A2",
@@ -17650,7 +16596,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "통과하다",
-      "en": "to go through",
+      "en": "go through",
       "de": "durchlaufen",
       "es": "atravesar",
       "nl": "doorlopen",
@@ -17660,17 +16606,15 @@ const WORDS_NL_A2 = [
       "zh": "经历",
       "ru": "проходить",
       "fr": "traverser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "doorlopen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1793",
+    "lang": "nl",
     "lemma": "achtergrond",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "achtergronden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17688,15 +16632,12 @@ const WORDS_NL_A2 = [
       "ja": "背景",
       "zh": "背景",
       "ru": "фон",
-      "fr": "arrière-plan"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "achtergronden"
+      "fr": "l'arrière-plan"
+    }
   },
   {
     "id": "nl_1794",
+    "lang": "nl",
     "lemma": "bijzonders",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17717,12 +16658,11 @@ const WORDS_NL_A2 = [
       "zh": "特别的",
       "ru": "особенный",
       "fr": "spécial"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1795",
+    "lang": "nl",
     "lemma": "dubbel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17743,14 +16683,15 @@ const WORDS_NL_A2 = [
       "zh": "双倍的",
       "ru": "двойной",
       "fr": "double"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1796",
+    "lang": "nl",
     "lemma": "kerstfeest",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kerstfeesten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17768,17 +16709,16 @@ const WORDS_NL_A2 = [
       "ja": "クリスマス",
       "zh": "圣诞节",
       "ru": "Рождество",
-      "fr": "Noël"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kerstfeesten"
+      "fr": "le Noël"
+    }
   },
   {
     "id": "nl_1797",
+    "lang": "nl",
     "lemma": "schuur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schuren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17795,17 +16735,16 @@ const WORDS_NL_A2 = [
       "ja": "物置",
       "zh": "谷仓",
       "ru": "сарай",
-      "fr": "grange"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schuren"
+      "fr": "la grange"
+    }
   },
   {
     "id": "nl_1798",
+    "lang": "nl",
     "lemma": "achterkant",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "achterkanten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17823,15 +16762,12 @@ const WORDS_NL_A2 = [
       "ja": "裏側",
       "zh": "背面",
       "ru": "задняя сторона",
-      "fr": "arrière"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "achterkanten"
+      "fr": "l'arrière"
+    }
   },
   {
     "id": "nl_1799",
+    "lang": "nl",
     "lemma": "schudden",
     "pos": "Verb",
     "cefr": "A2",
@@ -17842,7 +16778,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "흔들다",
-      "en": "to shake",
+      "en": "shake",
       "de": "schütteln",
       "es": "sacudir",
       "nl": "schudden",
@@ -17852,15 +16788,11 @@ const WORDS_NL_A2 = [
       "zh": "摇动",
       "ru": "трясти",
       "fr": "secouer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schudden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1800",
+    "lang": "nl",
     "lemma": "kwetsen",
     "pos": "Verb",
     "cefr": "A2",
@@ -17870,7 +16802,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "다치게 하다",
-      "en": "to hurt",
+      "en": "hurt",
       "de": "verletzen",
       "es": "herir",
       "nl": "kwetsen",
@@ -17880,15 +16812,11 @@ const WORDS_NL_A2 = [
       "zh": "伤害",
       "ru": "обижать",
       "fr": "blesser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kwetsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1801",
+    "lang": "nl",
     "lemma": "negatief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -17909,12 +16837,11 @@ const WORDS_NL_A2 = [
       "zh": "消极的",
       "ru": "отрицательный",
       "fr": "négatif"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1803",
+    "lang": "nl",
     "lemma": "uitmaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -17924,7 +16851,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "헤어지다",
-      "en": "to break up",
+      "en": "break up",
       "de": "Schluss machen",
       "es": "romper",
       "nl": "uitmaken",
@@ -17934,17 +16861,15 @@ const WORDS_NL_A2 = [
       "zh": "分手",
       "ru": "расставаться",
       "fr": "rompre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitmaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1804",
+    "lang": "nl",
     "lemma": "vermiste",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vermisten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -17961,15 +16886,12 @@ const WORDS_NL_A2 = [
       "ja": "行方不明者",
       "zh": "失踪者",
       "ru": "пропавший без вести",
-      "fr": "disparu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vermisten"
+      "fr": "le disparu"
+    }
   },
   {
     "id": "nl_1805",
+    "lang": "nl",
     "lemma": "trappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -17979,7 +16901,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "차다",
-      "en": "to kick",
+      "en": "kick",
       "de": "treten",
       "es": "patear",
       "nl": "trappen",
@@ -17989,15 +16911,11 @@ const WORDS_NL_A2 = [
       "zh": "踢",
       "ru": "пинать",
       "fr": "botter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "trappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1806",
+    "lang": "nl",
     "lemma": "langskomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -18008,7 +16926,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "들르다",
-      "en": "to come by",
+      "en": "come by",
       "de": "vorbeikommen",
       "es": "pasar",
       "nl": "langskomen",
@@ -18018,17 +16936,14 @@ const WORDS_NL_A2 = [
       "zh": "过来",
       "ru": "заходить",
       "fr": "passer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "langskomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1807",
+    "lang": "nl",
     "lemma": "coma",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18045,17 +16960,16 @@ const WORDS_NL_A2 = [
       "ja": "昏睡",
       "zh": "昏迷",
       "ru": "кома",
-      "fr": "coma"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le coma"
+    }
   },
   {
     "id": "nl_1808",
+    "lang": "nl",
     "lemma": "daad",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "daden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18073,17 +16987,16 @@ const WORDS_NL_A2 = [
       "ja": "行為",
       "zh": "行动",
       "ru": "поступок",
-      "fr": "acte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "daden"
+      "fr": "l'acte"
+    }
   },
   {
     "id": "nl_1811",
+    "lang": "nl",
     "lemma": "knop",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "knoppen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18101,15 +17014,12 @@ const WORDS_NL_A2 = [
       "ja": "ボタン",
       "zh": "按钮",
       "ru": "кнопка",
-      "fr": "bouton"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "knoppen"
+      "fr": "le bouton"
+    }
   },
   {
     "id": "nl_1812",
+    "lang": "nl",
     "lemma": "bevriend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18130,12 +17040,11 @@ const WORDS_NL_A2 = [
       "zh": "友好的",
       "ru": "дружный",
       "fr": "ami"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1813",
+    "lang": "nl",
     "lemma": "geraken",
     "pos": "Verb",
     "cefr": "A2",
@@ -18156,15 +17065,11 @@ const WORDS_NL_A2 = [
       "zh": "陷入",
       "ru": "попасть",
       "fr": "entrer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "geraken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1814",
+    "lang": "nl",
     "lemma": "creëren",
     "pos": "Verb",
     "cefr": "A2",
@@ -18185,17 +17090,15 @@ const WORDS_NL_A2 = [
       "zh": "创造",
       "ru": "создавать",
       "fr": "créer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "creëren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1815",
+    "lang": "nl",
     "lemma": "beslag",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "beslagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18212,17 +17115,15 @@ const WORDS_NL_A2 = [
       "ja": "差し押さえ",
       "zh": "扣押",
       "ru": "арест",
-      "fr": "crise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "beslagen"
+      "fr": "la crise"
+    }
   },
   {
     "id": "nl_1816",
+    "lang": "nl",
     "lemma": "beet",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18240,15 +17141,12 @@ const WORDS_NL_A2 = [
       "ja": "噛みつき",
       "zh": "咬",
       "ru": "укус",
-      "fr": "morsure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la morsure"
+    }
   },
   {
     "id": "nl_1817",
+    "lang": "nl",
     "lemma": "doodsbang",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18269,14 +17167,15 @@ const WORDS_NL_A2 = [
       "zh": "吓坏了的",
       "ru": "испуганный",
       "fr": "terrifié"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1818",
+    "lang": "nl",
     "lemma": "casino",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "casino's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18293,15 +17192,12 @@ const WORDS_NL_A2 = [
       "ja": "カジノ",
       "zh": "赌场",
       "ru": "казино",
-      "fr": "casino"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "casino's"
+      "fr": "le casino"
+    }
   },
   {
     "id": "nl_1819",
+    "lang": "nl",
     "lemma": "afschuwelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18322,14 +17218,15 @@ const WORDS_NL_A2 = [
       "zh": "可怕的",
       "ru": "ужасный",
       "fr": "horrible"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1820",
+    "lang": "nl",
     "lemma": "diefstal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "diefstallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18346,17 +17243,16 @@ const WORDS_NL_A2 = [
       "ja": "窃盗",
       "zh": "盗窃",
       "ru": "кража",
-      "fr": "vol"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "diefstallen"
+      "fr": "le vol"
+    }
   },
   {
     "id": "nl_1821",
+    "lang": "nl",
     "lemma": "legende",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "legendes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18374,17 +17270,16 @@ const WORDS_NL_A2 = [
       "ja": "伝説",
       "zh": "传说",
       "ru": "легенда",
-      "fr": "légende"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "legendes"
+      "fr": "la légende"
+    }
   },
   {
     "id": "nl_1822",
+    "lang": "nl",
     "lemma": "grot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "grotten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18402,15 +17297,12 @@ const WORDS_NL_A2 = [
       "ja": "洞窟",
       "zh": "洞穴",
       "ru": "пещера",
-      "fr": "grotte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "grotten"
+      "fr": "la grotte"
+    }
   },
   {
     "id": "nl_1823",
+    "lang": "nl",
     "lemma": "proeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -18431,15 +17323,11 @@ const WORDS_NL_A2 = [
       "zh": "品尝",
       "ru": "пробовать",
       "fr": "goût"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "proeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1824",
+    "lang": "nl",
     "lemma": "grijpen",
     "pos": "Verb",
     "cefr": "A2",
@@ -18460,15 +17348,11 @@ const WORDS_NL_A2 = [
       "zh": "抓住",
       "ru": "хватать",
       "fr": "prendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grijpen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1825",
+    "lang": "nl",
     "lemma": "oppakken",
     "pos": "Verb",
     "cefr": "A2",
@@ -18489,15 +17373,11 @@ const WORDS_NL_A2 = [
       "zh": "捡起",
       "ru": "подбирать",
       "fr": "ramasser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "oppakken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1826",
+    "lang": "nl",
     "lemma": "terugtrekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -18518,17 +17398,15 @@ const WORDS_NL_A2 = [
       "zh": "撤回",
       "ru": "отступать",
       "fr": "retirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "terugtrekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1827",
+    "lang": "nl",
     "lemma": "applaus",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "applausen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18546,15 +17424,12 @@ const WORDS_NL_A2 = [
       "ja": "拍手",
       "zh": "掌声",
       "ru": "аплодисменты",
-      "fr": "applaudissements"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "applausen"
+      "fr": "les applaudissements"
+    }
   },
   {
     "id": "nl_1828",
+    "lang": "nl",
     "lemma": "zoenen",
     "pos": "Verb",
     "cefr": "A2",
@@ -18575,17 +17450,15 @@ const WORDS_NL_A2 = [
       "zh": "亲吻",
       "ru": "целовать",
       "fr": "baiser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zoenen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1829",
+    "lang": "nl",
     "lemma": "toren",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "torens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18603,17 +17476,16 @@ const WORDS_NL_A2 = [
       "ja": "塔",
       "zh": "塔",
       "ru": "башня",
-      "fr": "tour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "torens"
+      "fr": "la tour"
+    }
   },
   {
     "id": "nl_1830",
+    "lang": "nl",
     "lemma": "eigendom",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "eigendommen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18631,15 +17503,12 @@ const WORDS_NL_A2 = [
       "ja": "財産",
       "zh": "财产",
       "ru": "собственность",
-      "fr": "propriété"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "eigendommen"
+      "fr": "la propriété"
+    }
   },
   {
     "id": "nl_1831",
+    "lang": "nl",
     "lemma": "verplicht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18660,14 +17529,15 @@ const WORDS_NL_A2 = [
       "zh": "强制的",
       "ru": "обязательный",
       "fr": "obligé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1832",
+    "lang": "nl",
     "lemma": "zieke",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zieken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18685,17 +17555,16 @@ const WORDS_NL_A2 = [
       "ja": "患者",
       "zh": "病人",
       "ru": "больной",
-      "fr": "patient"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zieken"
+      "fr": "le patient"
+    }
   },
   {
     "id": "nl_1833",
+    "lang": "nl",
     "lemma": "strafblad",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "strafbladen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18712,15 +17581,12 @@ const WORDS_NL_A2 = [
       "ja": "犯罪歴",
       "zh": "犯罪记录",
       "ru": "судимость",
-      "fr": "casier judiciaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "strafbladen"
+      "fr": "le casier judiciaire"
+    }
   },
   {
     "id": "nl_1834",
+    "lang": "nl",
     "lemma": "voorbereiden",
     "pos": "Verb",
     "cefr": "A2",
@@ -18741,17 +17607,14 @@ const WORDS_NL_A2 = [
       "zh": "准备",
       "ru": "готовить",
       "fr": "préparer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "voorbereiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1835",
+    "lang": "nl",
     "lemma": "vijftig",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18771,15 +17634,19 @@ const WORDS_NL_A2 = [
       "ru": "пятьдесят",
       "fr": "cinquante"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1836",
+    "lang": "nl",
     "lemma": "zone",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zones",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18798,15 +17665,12 @@ const WORDS_NL_A2 = [
       "ja": "ゾーン",
       "zh": "区域",
       "ru": "зона",
-      "fr": "zone"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zones"
+      "fr": "la zone"
+    }
   },
   {
     "id": "nl_1837",
+    "lang": "nl",
     "lemma": "loslaten",
     "pos": "Verb",
     "cefr": "A2",
@@ -18827,17 +17691,15 @@ const WORDS_NL_A2 = [
       "zh": "放开",
       "ru": "отпускать",
       "fr": "lâcher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "loslaten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1838",
+    "lang": "nl",
     "lemma": "portemonnee",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "portemonnees",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18855,17 +17717,16 @@ const WORDS_NL_A2 = [
       "ja": "財布",
       "zh": "钱包",
       "ru": "кошелек",
-      "fr": "portefeuille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "portemonnees"
+      "fr": "le portefeuille"
+    }
   },
   {
     "id": "nl_1839",
+    "lang": "nl",
     "lemma": "gebrek",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gebreken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18883,15 +17744,12 @@ const WORDS_NL_A2 = [
       "ja": "不足",
       "zh": "缺乏",
       "ru": "недостаток",
-      "fr": "manque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gebreken"
+      "fr": "le manque"
+    }
   },
   {
     "id": "nl_1840",
+    "lang": "nl",
     "lemma": "ruilen",
     "pos": "Verb",
     "cefr": "A2",
@@ -18912,15 +17770,11 @@ const WORDS_NL_A2 = [
       "zh": "交换",
       "ru": "обменивать",
       "fr": "échange"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ruilen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1841",
+    "lang": "nl",
     "lemma": "aantrekkelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -18941,14 +17795,15 @@ const WORDS_NL_A2 = [
       "zh": "有吸引力的",
       "ru": "привлекательный",
       "fr": "attrayant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1842",
+    "lang": "nl",
     "lemma": "spencer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "spencers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18965,17 +17820,16 @@ const WORDS_NL_A2 = [
       "ja": "ベスト",
       "zh": "无袖毛衣",
       "ru": "жилет",
-      "fr": "pull sans manches"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "spencers"
+      "fr": "le pull sans manches"
+    }
   },
   {
     "id": "nl_1843",
+    "lang": "nl",
     "lemma": "dronk",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dronken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -18992,15 +17846,12 @@ const WORDS_NL_A2 = [
       "ja": "飲み物",
       "zh": "饮料",
       "ru": "напиток",
-      "fr": "boisson"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dronken"
+      "fr": "la boisson"
+    }
   },
   {
     "id": "nl_1844",
+    "lang": "nl",
     "lemma": "riskeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -19021,15 +17872,11 @@ const WORDS_NL_A2 = [
       "zh": "冒险",
       "ru": "рисковать",
       "fr": "risque"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "riskeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1845",
+    "lang": "nl",
     "lemma": "weghalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -19050,17 +17897,15 @@ const WORDS_NL_A2 = [
       "zh": "移除",
       "ru": "удалять",
       "fr": "enlever"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weghalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1846",
+    "lang": "nl",
     "lemma": "kandidaat",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kandidaten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19077,17 +17922,16 @@ const WORDS_NL_A2 = [
       "ja": "候補者",
       "zh": "候选人",
       "ru": "кандидат",
-      "fr": "candidat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kandidaten"
+      "fr": "le candidat"
+    }
   },
   {
     "id": "nl_1847",
+    "lang": "nl",
     "lemma": "smeerlap",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "smeerlappen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19105,17 +17949,16 @@ const WORDS_NL_A2 = [
       "ja": "油まみれの布",
       "zh": "油腻的抹布",
       "ru": "промасленная тряпка",
-      "fr": "chiffon gras"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "smeerlappen"
+      "fr": "le chiffon gras"
+    }
   },
   {
     "id": "nl_1848",
+    "lang": "nl",
     "lemma": "status",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "statussen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19133,15 +17976,12 @@ const WORDS_NL_A2 = [
       "ja": "状態",
       "zh": "状态",
       "ru": "статус",
-      "fr": "statut"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "statussen"
+      "fr": "le statut"
+    }
   },
   {
     "id": "nl_1849",
+    "lang": "nl",
     "lemma": "voorzien",
     "pos": "Verb",
     "cefr": "A2",
@@ -19161,17 +18001,15 @@ const WORDS_NL_A2 = [
       "zh": "预见",
       "ru": "предвидеть",
       "fr": "prévoir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "voorzien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1851",
+    "lang": "nl",
     "lemma": "rijbewijs",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "rijbewijzen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19189,17 +18027,16 @@ const WORDS_NL_A2 = [
       "ja": "運転免許証",
       "zh": "驾驶执照",
       "ru": "водительские права",
-      "fr": "permis"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "rijbewijzen"
+      "fr": "le permis"
+    }
   },
   {
     "id": "nl_1852",
+    "lang": "nl",
     "lemma": "ministerie",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ministeries",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19216,15 +18053,12 @@ const WORDS_NL_A2 = [
       "ja": "省",
       "zh": "部",
       "ru": "министерство",
-      "fr": "ministère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ministeries"
+      "fr": "le ministère"
+    }
   },
   {
     "id": "nl_1853",
+    "lang": "nl",
     "lemma": "krankzinnig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19244,12 +18078,11 @@ const WORDS_NL_A2 = [
       "zh": "精神错乱的",
       "ru": "безумный",
       "fr": "fou"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1854",
+    "lang": "nl",
     "lemma": "populair",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19270,14 +18103,15 @@ const WORDS_NL_A2 = [
       "zh": "受欢迎的",
       "ru": "популярный",
       "fr": "populaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1855",
+    "lang": "nl",
     "lemma": "koelkast",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "koelkasten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19295,15 +18129,12 @@ const WORDS_NL_A2 = [
       "ja": "冷蔵庫",
       "zh": "冰箱",
       "ru": "холодильник",
-      "fr": "réfrigérateur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "koelkasten"
+      "fr": "le réfrigérateur"
+    }
   },
   {
     "id": "nl_1857",
+    "lang": "nl",
     "lemma": "overgeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -19323,17 +18154,14 @@ const WORDS_NL_A2 = [
       "zh": "呕吐",
       "ru": "рвать",
       "fr": "vomir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overgeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1858",
+    "lang": "nl",
     "lemma": "nut",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19351,15 +18179,12 @@ const WORDS_NL_A2 = [
       "ja": "有用性",
       "zh": "用处",
       "ru": "польза",
-      "fr": "utilité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'utilité"
+    }
   },
   {
     "id": "nl_1859",
+    "lang": "nl",
     "lemma": "nut",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19380,14 +18205,15 @@ const WORDS_NL_A2 = [
       "zh": "有用的",
       "ru": "полезный",
       "fr": "utile"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1860",
+    "lang": "nl",
     "lemma": "stervende",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stervenden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19404,17 +18230,16 @@ const WORDS_NL_A2 = [
       "ja": "死にゆく人",
       "zh": "垂死之人",
       "ru": "умирающий",
-      "fr": "mourant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stervenden"
+      "fr": "le mourant"
+    }
   },
   {
     "id": "nl_1861",
+    "lang": "nl",
     "lemma": "ondergoed",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ondergoedjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19432,17 +18257,16 @@ const WORDS_NL_A2 = [
       "ja": "下着",
       "zh": "内衣",
       "ru": "нижнее белье",
-      "fr": "sous-vêtements"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ondergoedjes"
+      "fr": "les sous-vêtements"
+    }
   },
   {
     "id": "nl_1862",
+    "lang": "nl",
     "lemma": "euro",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "euro's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19460,17 +18284,16 @@ const WORDS_NL_A2 = [
       "ja": "ユーロ",
       "zh": "欧元",
       "ru": "евро",
-      "fr": "euro"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "euro's"
+      "fr": "l'euro"
+    }
   },
   {
     "id": "nl_1863",
+    "lang": "nl",
     "lemma": "incident",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "incidenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19488,17 +18311,16 @@ const WORDS_NL_A2 = [
       "ja": "事件",
       "zh": "事件",
       "ru": "инцидент",
-      "fr": "incident"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "incidenten"
+      "fr": "l'incident"
+    }
   },
   {
     "id": "nl_1864",
+    "lang": "nl",
     "lemma": "homer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "homers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19515,15 +18337,12 @@ const WORDS_NL_A2 = [
       "ja": "ホームラン",
       "zh": "本垒打",
       "ru": "хоумран",
-      "fr": "coup de circuit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "homers"
+      "fr": "le coup de circuit"
+    }
   },
   {
     "id": "nl_1865",
+    "lang": "nl",
     "lemma": "ervaren",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19544,12 +18363,11 @@ const WORDS_NL_A2 = [
       "zh": "有经验的",
       "ru": "опытный",
       "fr": "expérimenté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1866",
+    "lang": "nl",
     "lemma": "ervaren",
     "pos": "Verb",
     "cefr": "A2",
@@ -19570,15 +18388,11 @@ const WORDS_NL_A2 = [
       "zh": "体验",
       "ru": "испытывать",
       "fr": "expérience"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ervaren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1867",
+    "lang": "nl",
     "lemma": "doorzoeken",
     "pos": "Verb",
     "cefr": "A2",
@@ -19599,17 +18413,15 @@ const WORDS_NL_A2 = [
       "zh": "搜查",
       "ru": "обыскивать",
       "fr": "fouiller"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "doorzoeken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1868",
+    "lang": "nl",
     "lemma": "vak",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vakken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19627,17 +18439,15 @@ const WORDS_NL_A2 = [
       "ja": "職業",
       "zh": "职业",
       "ru": "профессия",
-      "fr": "profession"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vakken"
+      "fr": "la profession"
+    }
   },
   {
     "id": "nl_1869",
+    "lang": "nl",
     "lemma": "dorst",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19655,17 +18465,16 @@ const WORDS_NL_A2 = [
       "ja": "喉の渇き",
       "zh": "口渴",
       "ru": "жажда",
-      "fr": "soif"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la soif"
+    }
   },
   {
     "id": "nl_1870",
+    "lang": "nl",
     "lemma": "check",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "checks",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19685,15 +18494,19 @@ const WORDS_NL_A2 = [
       "ru": "проверка",
       "fr": "vérifier"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "checks"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1871",
+    "lang": "nl",
     "lemma": "heelal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "heelallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19711,15 +18524,12 @@ const WORDS_NL_A2 = [
       "ja": "宇宙",
       "zh": "宇宙",
       "ru": "вселенная",
-      "fr": "univers"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "heelallen"
+      "fr": "l'univers"
+    }
   },
   {
     "id": "nl_1872",
+    "lang": "nl",
     "lemma": "verspillen",
     "pos": "Verb",
     "cefr": "A2",
@@ -19740,17 +18550,15 @@ const WORDS_NL_A2 = [
       "zh": "浪费",
       "ru": "тратить впустую",
       "fr": "gaspiller"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verspillen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1873",
+    "lang": "nl",
     "lemma": "speelgoed",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "speelgoedjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19768,17 +18576,16 @@ const WORDS_NL_A2 = [
       "ja": "おもちゃ",
       "zh": "玩具",
       "ru": "игрушка",
-      "fr": "jouet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "speelgoedjes"
+      "fr": "le jouet"
+    }
   },
   {
     "id": "nl_1874",
+    "lang": "nl",
     "lemma": "dagboek",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "dagboeken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19796,15 +18603,12 @@ const WORDS_NL_A2 = [
       "ja": "日記",
       "zh": "日记",
       "ru": "дневник",
-      "fr": "journal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "dagboeken"
+      "fr": "le journal"
+    }
   },
   {
     "id": "nl_1875",
+    "lang": "nl",
     "lemma": "gemerkt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19826,14 +18630,15 @@ const WORDS_NL_A2 = [
       "zh": "标记的",
       "ru": "помеченный",
       "fr": "marqué"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1876",
+    "lang": "nl",
     "lemma": "tape",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tapes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19851,15 +18656,12 @@ const WORDS_NL_A2 = [
       "ja": "テープ",
       "zh": "胶带",
       "ru": "лента",
-      "fr": "ruban"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tapes"
+      "fr": "le ruban"
+    }
   },
   {
     "id": "nl_1877",
+    "lang": "nl",
     "lemma": "hol",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -19880,14 +18682,14 @@ const WORDS_NL_A2 = [
       "zh": "空心的",
       "ru": "полый",
       "fr": "creux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1878",
+    "lang": "nl",
     "lemma": "hol",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19905,17 +18707,15 @@ const WORDS_NL_A2 = [
       "ja": "洞窟",
       "zh": "洞穴",
       "ru": "пещера",
-      "fr": "grotte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la grotte"
+    }
   },
   {
     "id": "nl_1879",
+    "lang": "nl",
     "lemma": "bewustzijn",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19933,17 +18733,16 @@ const WORDS_NL_A2 = [
       "ja": "意識",
       "zh": "意识",
       "ru": "сознание",
-      "fr": "conscience"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la conscience"
+    }
   },
   {
     "id": "nl_1880",
+    "lang": "nl",
     "lemma": "vlag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vlaggen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -19961,15 +18760,12 @@ const WORDS_NL_A2 = [
       "ja": "旗",
       "zh": "旗帜",
       "ru": "флаг",
-      "fr": "drapeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vlaggen"
+      "fr": "le drapeau"
+    }
   },
   {
     "id": "nl_1881",
+    "lang": "nl",
     "lemma": "rollen",
     "pos": "Verb",
     "cefr": "A2",
@@ -19990,17 +18786,15 @@ const WORDS_NL_A2 = [
       "zh": "滚动",
       "ru": "катиться",
       "fr": "rouler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rollen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1882",
+    "lang": "nl",
     "lemma": "angel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "angels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20017,15 +18811,12 @@ const WORDS_NL_A2 = [
       "ja": "針",
       "zh": "刺",
       "ru": "жало",
-      "fr": "dard"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "angels"
+      "fr": "le dard"
+    }
   },
   {
     "id": "nl_1883",
+    "lang": "nl",
     "lemma": "gespannen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20046,12 +18837,11 @@ const WORDS_NL_A2 = [
       "zh": "紧张的",
       "ru": "напряженный",
       "fr": "tendu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1884",
+    "lang": "nl",
     "lemma": "terugkeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -20072,17 +18862,15 @@ const WORDS_NL_A2 = [
       "zh": "返回",
       "ru": "возвращаться",
       "fr": "retour"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "terugkeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1885",
+    "lang": "nl",
     "lemma": "zoektocht",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zoektochten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20100,15 +18888,12 @@ const WORDS_NL_A2 = [
       "ja": "探求",
       "zh": "探索",
       "ru": "поиск",
-      "fr": "quête"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zoektochten"
+      "fr": "la quête"
+    }
   },
   {
     "id": "nl_1886",
+    "lang": "nl",
     "lemma": "emotioneel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20129,14 +18914,15 @@ const WORDS_NL_A2 = [
       "zh": "情感的",
       "ru": "эмоциональный",
       "fr": "émotif"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1887",
+    "lang": "nl",
     "lemma": "overkant",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "overkanten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20154,17 +18940,16 @@ const WORDS_NL_A2 = [
       "ja": "向こう側",
       "zh": "对面",
       "ru": "другая сторона",
-      "fr": "autre côté"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "overkanten"
+      "fr": "l'autre côté"
+    }
   },
   {
     "id": "nl_1888",
+    "lang": "nl",
     "lemma": "premier",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "premiers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20182,17 +18967,16 @@ const WORDS_NL_A2 = [
       "ja": "首相",
       "zh": "首相",
       "ru": "премьер-министр",
-      "fr": "premier ministre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "premiers"
+      "fr": "le premier ministre"
+    }
   },
   {
     "id": "nl_1889",
+    "lang": "nl",
     "lemma": "greep",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "grepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20210,15 +18994,12 @@ const WORDS_NL_A2 = [
       "ja": "握り",
       "zh": "抓握",
       "ru": "хватка",
-      "fr": "prise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "grepen"
+      "fr": "la prise"
+    }
   },
   {
     "id": "nl_1890",
+    "lang": "nl",
     "lemma": "rechtstreeks",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20239,12 +19020,11 @@ const WORDS_NL_A2 = [
       "zh": "直接的",
       "ru": "прямой",
       "fr": "direct"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1891",
+    "lang": "nl",
     "lemma": "weigeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -20265,17 +19045,15 @@ const WORDS_NL_A2 = [
       "zh": "拒绝",
       "ru": "отказываться",
       "fr": "refuser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "weigeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1892",
+    "lang": "nl",
     "lemma": "avontuur",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "avonturen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20293,17 +19071,16 @@ const WORDS_NL_A2 = [
       "ja": "冒険",
       "zh": "冒险",
       "ru": "приключение",
-      "fr": "aventure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "avonturen"
+      "fr": "l'aventure"
+    }
   },
   {
     "id": "nl_1893",
+    "lang": "nl",
     "lemma": "lust",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lusten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20320,17 +19097,16 @@ const WORDS_NL_A2 = [
       "ja": "欲望",
       "zh": "欲望",
       "ru": "похоть",
-      "fr": "luxure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lusten"
+      "fr": "la luxure"
+    }
   },
   {
     "id": "nl_1894",
+    "lang": "nl",
     "lemma": "roman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "romans",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20348,17 +19124,16 @@ const WORDS_NL_A2 = [
       "ja": "小説",
       "zh": "小说",
       "ru": "роман",
-      "fr": "roman"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "romans"
+      "fr": "le roman"
+    }
   },
   {
     "id": "nl_1895",
+    "lang": "nl",
     "lemma": "glimlach",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "glimlachen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20376,15 +19151,12 @@ const WORDS_NL_A2 = [
       "ja": "微笑み",
       "zh": "微笑",
       "ru": "улыбка",
-      "fr": "sourire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "glimlachen"
+      "fr": "le sourire"
+    }
   },
   {
     "id": "nl_1897",
+    "lang": "nl",
     "lemma": "ras",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20405,12 +19177,11 @@ const WORDS_NL_A2 = [
       "zh": "快的",
       "ru": "быстрый",
       "fr": "rapide"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1899",
+    "lang": "nl",
     "lemma": "plat",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20431,14 +19202,14 @@ const WORDS_NL_A2 = [
       "zh": "平的",
       "ru": "плоский",
       "fr": "plat"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1900",
+    "lang": "nl",
     "lemma": "plat",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20455,15 +19226,12 @@ const WORDS_NL_A2 = [
       "ja": "方言",
       "zh": "方言",
       "ru": "диалект",
-      "fr": "dialecte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le dialecte"
+    }
   },
   {
     "id": "nl_1901",
+    "lang": "nl",
     "lemma": "goedkoop",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20484,12 +19252,11 @@ const WORDS_NL_A2 = [
       "zh": "便宜的",
       "ru": "дешёвый",
       "fr": "bon marché"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1902",
+    "lang": "nl",
     "lemma": "strak",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20510,14 +19277,15 @@ const WORDS_NL_A2 = [
       "zh": "紧的",
       "ru": "тугой",
       "fr": "serré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1903",
+    "lang": "nl",
     "lemma": "inbraak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "inbraken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20534,17 +19302,16 @@ const WORDS_NL_A2 = [
       "ja": "侵入",
       "zh": "入室盗窃",
       "ru": "взлом",
-      "fr": "cambriolage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "inbraken"
+      "fr": "le cambriolage"
+    }
   },
   {
     "id": "nl_1904",
+    "lang": "nl",
     "lemma": "karakter",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "karakters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20562,15 +19329,12 @@ const WORDS_NL_A2 = [
       "ja": "性格",
       "zh": "性格",
       "ru": "характер",
-      "fr": "caractère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "karakters"
+      "fr": "le caractère"
+    }
   },
   {
     "id": "nl_1905",
+    "lang": "nl",
     "lemma": "lessen",
     "pos": "Verb",
     "cefr": "A2",
@@ -20590,17 +19354,15 @@ const WORDS_NL_A2 = [
       "zh": "解渴",
       "ru": "утолять",
       "fr": "étancher"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lessen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1906",
+    "lang": "nl",
     "lemma": "college",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "colleges",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20618,17 +19380,16 @@ const WORDS_NL_A2 = [
       "ja": "講義",
       "zh": "讲座",
       "ru": "лекция",
-      "fr": "conférence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "colleges"
+      "fr": "la conférence"
+    }
   },
   {
     "id": "nl_1907",
+    "lang": "nl",
     "lemma": "boy",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "boys",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20646,15 +19407,12 @@ const WORDS_NL_A2 = [
       "ja": "少年",
       "zh": "男孩",
       "ru": "мальчик",
-      "fr": "garçon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "boys"
+      "fr": "le garçon"
+    }
   },
   {
     "id": "nl_1908",
+    "lang": "nl",
     "lemma": "verlegen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20675,14 +19433,15 @@ const WORDS_NL_A2 = [
       "zh": "害羞的",
       "ru": "застенчивый",
       "fr": "timide"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1910",
+    "lang": "nl",
     "lemma": "county",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "county's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20700,17 +19459,16 @@ const WORDS_NL_A2 = [
       "ja": "郡",
       "zh": "县",
       "ru": "графство",
-      "fr": "comté"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "county's"
+      "fr": "le comté"
+    }
   },
   {
     "id": "nl_1911",
+    "lang": "nl",
     "lemma": "juni",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "juni's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20730,15 +19488,22 @@ const WORDS_NL_A2 = [
       "ru": "июнь",
       "fr": "juin"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "juni's"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
+    }
   },
   {
     "id": "nl_1912",
+    "lang": "nl",
     "lemma": "snoep",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "snoepjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20756,15 +19521,12 @@ const WORDS_NL_A2 = [
       "ja": "お菓子",
       "zh": "糖果",
       "ru": "конфета",
-      "fr": "bonbon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "snoepjes"
+      "fr": "le bonbon"
+    }
   },
   {
     "id": "nl_1913",
+    "lang": "nl",
     "lemma": "apart",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20785,14 +19547,14 @@ const WORDS_NL_A2 = [
       "zh": "分开的",
       "ru": "отдельный",
       "fr": "séparer"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1914",
+    "lang": "nl",
     "lemma": "oudste",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20810,15 +19572,12 @@ const WORDS_NL_A2 = [
       "ja": "長子",
       "zh": "长子",
       "ru": "старший ребенок",
-      "fr": "aîné"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'aîné"
+    }
   },
   {
     "id": "nl_1915",
+    "lang": "nl",
     "lemma": "uitschakelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -20839,17 +19598,15 @@ const WORDS_NL_A2 = [
       "zh": "淘汰",
       "ru": "устранять",
       "fr": "éliminer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitschakelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1916",
+    "lang": "nl",
     "lemma": "voertuig",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "voertuigen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20867,17 +19624,16 @@ const WORDS_NL_A2 = [
       "ja": "車両",
       "zh": "车辆",
       "ru": "транспортное средство",
-      "fr": "véhicule"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "voertuigen"
+      "fr": "le véhicule"
+    }
   },
   {
     "id": "nl_1917",
+    "lang": "nl",
     "lemma": "september",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "septembers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20897,13 +19653,15 @@ const WORDS_NL_A2 = [
       "ru": "сентябрь",
       "fr": "septembre"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "septembers"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1918",
+    "lang": "nl",
     "lemma": "link",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -20924,14 +19682,14 @@ const WORDS_NL_A2 = [
       "zh": "危险的",
       "ru": "опасный",
       "fr": "dangereux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1919",
+    "lang": "nl",
     "lemma": "link",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20949,17 +19707,16 @@ const WORDS_NL_A2 = [
       "ja": "リンク",
       "zh": "链接",
       "ru": "ссылка",
-      "fr": "lien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le lien"
+    }
   },
   {
     "id": "nl_1920",
+    "lang": "nl",
     "lemma": "puinhoop",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "puinhopen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -20977,17 +19734,16 @@ const WORDS_NL_A2 = [
       "ja": "散らかった状態",
       "zh": "混乱",
       "ru": "беспорядок",
-      "fr": "désordre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "puinhopen"
+      "fr": "le désordre"
+    }
   },
   {
     "id": "nl_1921",
+    "lang": "nl",
     "lemma": "agenda",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "agenda's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21005,17 +19761,16 @@ const WORDS_NL_A2 = [
       "ja": "手帳",
       "zh": "日程表",
       "ru": "ежедневник",
-      "fr": "journal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "agenda's"
+      "fr": "le journal"
+    }
   },
   {
     "id": "nl_1923",
+    "lang": "nl",
     "lemma": "chirurg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chirurgen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21033,17 +19788,16 @@ const WORDS_NL_A2 = [
       "ja": "外科医",
       "zh": "外科医生",
       "ru": "хирург",
-      "fr": "chirurgien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chirurgen"
+      "fr": "le chirurgien"
+    }
   },
   {
     "id": "nl_1924",
+    "lang": "nl",
     "lemma": "laptop",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "laptops",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21061,17 +19815,16 @@ const WORDS_NL_A2 = [
       "ja": "ノートパソコン",
       "zh": "笔记本电脑",
       "ru": "ноутбук",
-      "fr": "ordinateur portable"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "laptops"
+      "fr": "l'ordinateur portable"
+    }
   },
   {
     "id": "nl_1925",
+    "lang": "nl",
     "lemma": "robot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "robots",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21089,15 +19842,12 @@ const WORDS_NL_A2 = [
       "ja": "ロボット",
       "zh": "机器人",
       "ru": "робот",
-      "fr": "robot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "robots"
+      "fr": "le robot"
+    }
   },
   {
     "id": "nl_1926",
+    "lang": "nl",
     "lemma": "nuttig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21118,14 +19868,15 @@ const WORDS_NL_A2 = [
       "zh": "有用的",
       "ru": "полезный",
       "fr": "utile"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1927",
+    "lang": "nl",
     "lemma": "uitslag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "uitslagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21143,17 +19894,16 @@ const WORDS_NL_A2 = [
       "ja": "結果",
       "zh": "结果",
       "ru": "результат",
-      "fr": "résultat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "uitslagen"
+      "fr": "le résultat"
+    }
   },
   {
     "id": "nl_1928",
+    "lang": "nl",
     "lemma": "zout",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "zouten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21171,15 +19921,12 @@ const WORDS_NL_A2 = [
       "ja": "塩",
       "zh": "盐",
       "ru": "соль",
-      "fr": "sel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "zouten"
+      "fr": "le sel"
+    }
   },
   {
     "id": "nl_1929",
+    "lang": "nl",
     "lemma": "zout",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21200,12 +19947,11 @@ const WORDS_NL_A2 = [
       "zh": "咸的",
       "ru": "соленый",
       "fr": "salé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1930",
+    "lang": "nl",
     "lemma": "ratten",
     "pos": "Verb",
     "cefr": "A2",
@@ -21226,17 +19972,14 @@ const WORDS_NL_A2 = [
       "zh": "抓住",
       "ru": "ловить",
       "fr": "attraper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ratten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1931",
+    "lang": "nl",
     "lemma": "afval",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21256,13 +19999,15 @@ const WORDS_NL_A2 = [
       "ru": "отходы",
       "fr": "gaspiller"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1932",
+    "lang": "nl",
     "lemma": "ongelukkig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21283,12 +20028,11 @@ const WORDS_NL_A2 = [
       "zh": "不幸的",
       "ru": "несчастный",
       "fr": "malheureux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1933",
+    "lang": "nl",
     "lemma": "bezocht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21309,14 +20053,15 @@ const WORDS_NL_A2 = [
       "zh": "被访问的",
       "ru": "посещенный",
       "fr": "visiter"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1934",
+    "lang": "nl",
     "lemma": "tijdstip",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "tijdstippen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21334,17 +20079,16 @@ const WORDS_NL_A2 = [
       "ja": "時点",
       "zh": "时间点",
       "ru": "момент времени",
-      "fr": "temps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "tijdstippen"
+      "fr": "le temps"
+    }
   },
   {
     "id": "nl_1935",
+    "lang": "nl",
     "lemma": "overste",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oversten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21362,15 +20106,12 @@ const WORDS_NL_A2 = [
       "ja": "上司",
       "zh": "上级",
       "ru": "начальник",
-      "fr": "supérieur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oversten"
+      "fr": "le supérieur"
+    }
   },
   {
     "id": "nl_1936",
+    "lang": "nl",
     "lemma": "drukken",
     "pos": "Verb",
     "cefr": "A2",
@@ -21391,15 +20132,11 @@ const WORDS_NL_A2 = [
       "zh": "按",
       "ru": "нажимать",
       "fr": "presser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drukken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1937",
+    "lang": "nl",
     "lemma": "snappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -21420,17 +20157,15 @@ const WORDS_NL_A2 = [
       "zh": "理解",
       "ru": "понимать",
       "fr": "comprendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "snappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1938",
+    "lang": "nl",
     "lemma": "knuffel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "knuffels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21448,17 +20183,16 @@ const WORDS_NL_A2 = [
       "ja": "抱擁",
       "zh": "拥抱",
       "ru": "объятие",
-      "fr": "câlin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "knuffels"
+      "fr": "le câlin"
+    }
   },
   {
     "id": "nl_1939",
+    "lang": "nl",
     "lemma": "aard",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "aarden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21476,17 +20210,16 @@ const WORDS_NL_A2 = [
       "ja": "性質",
       "zh": "性质",
       "ru": "природа",
-      "fr": "nature"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "aarden"
+      "fr": "la nature"
+    }
   },
   {
     "id": "nl_1940",
+    "lang": "nl",
     "lemma": "gevolg",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gevolgen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21504,15 +20237,12 @@ const WORDS_NL_A2 = [
       "ja": "結果",
       "zh": "结果",
       "ru": "результат",
-      "fr": "résultat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gevolgen"
+      "fr": "le résultat"
+    }
   },
   {
     "id": "nl_1941",
+    "lang": "nl",
     "lemma": "moedig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21533,14 +20263,15 @@ const WORDS_NL_A2 = [
       "zh": "勇敢",
       "ru": "храбрый",
       "fr": "courageux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1942",
+    "lang": "nl",
     "lemma": "loon",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "lonen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21558,17 +20289,16 @@ const WORDS_NL_A2 = [
       "ja": "賃金",
       "zh": "工资",
       "ru": "зарплата",
-      "fr": "salaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "lonen"
+      "fr": "le salaire"
+    }
   },
   {
     "id": "nl_1943",
+    "lang": "nl",
     "lemma": "woensdag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "woensdagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21586,15 +20316,12 @@ const WORDS_NL_A2 = [
       "ja": "水曜日",
       "zh": "星期三",
       "ru": "среда",
-      "fr": "mercredi"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "woensdagen"
+      "fr": "le mercredi"
+    }
   },
   {
     "id": "nl_1944",
+    "lang": "nl",
     "lemma": "handig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21615,14 +20342,15 @@ const WORDS_NL_A2 = [
       "zh": "方便",
       "ru": "удобный",
       "fr": "pratique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1945",
+    "lang": "nl",
     "lemma": "fortuin",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "fortuinen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21640,17 +20368,16 @@ const WORDS_NL_A2 = [
       "ja": "幸運",
       "zh": "财富",
       "ru": "удача",
-      "fr": "fortune"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "fortuinen"
+      "fr": "la fortune"
+    }
   },
   {
     "id": "nl_1946",
+    "lang": "nl",
     "lemma": "journalist",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "journalisten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21668,15 +20395,12 @@ const WORDS_NL_A2 = [
       "ja": "ジャーナリスト",
       "zh": "记者",
       "ru": "журналист",
-      "fr": "journaliste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "journalisten"
+      "fr": "le journaliste"
+    }
   },
   {
     "id": "nl_1947",
+    "lang": "nl",
     "lemma": "wennen",
     "pos": "Verb",
     "cefr": "A2",
@@ -21697,17 +20421,15 @@ const WORDS_NL_A2 = [
       "zh": "习惯",
       "ru": "привыкать",
       "fr": "s'habituer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1948",
+    "lang": "nl",
     "lemma": "ambassadeur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ambassadeurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21725,15 +20447,12 @@ const WORDS_NL_A2 = [
       "ja": "大使",
       "zh": "大使",
       "ru": "посол",
-      "fr": "ambassadeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ambassadeurs"
+      "fr": "l'ambassadeur"
+    }
   },
   {
     "id": "nl_1950",
+    "lang": "nl",
     "lemma": "geslaagd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21754,12 +20473,11 @@ const WORDS_NL_A2 = [
       "zh": "成功",
       "ru": "успешный",
       "fr": "réussi"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1951",
+    "lang": "nl",
     "lemma": "schoonmaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -21780,17 +20498,15 @@ const WORDS_NL_A2 = [
       "zh": "打扫",
       "ru": "чистить",
       "fr": "propre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schoonmaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1952",
+    "lang": "nl",
     "lemma": "snelweg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "snelwegen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21808,17 +20524,16 @@ const WORDS_NL_A2 = [
       "ja": "高速道路",
       "zh": "高速公路",
       "ru": "шоссе",
-      "fr": "autoroute"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "snelwegen"
+      "fr": "l'autoroute"
+    }
   },
   {
     "id": "nl_1953",
+    "lang": "nl",
     "lemma": "plastic",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "plastics",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21836,15 +20551,12 @@ const WORDS_NL_A2 = [
       "ja": "プラスチック",
       "zh": "塑料",
       "ru": "пластик",
-      "fr": "plastique"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "plastics"
+      "fr": "le plastique"
+    }
   },
   {
     "id": "nl_1954",
+    "lang": "nl",
     "lemma": "plastic",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21865,14 +20577,15 @@ const WORDS_NL_A2 = [
       "zh": "塑料的",
       "ru": "пластиковый",
       "fr": "plastique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1955",
+    "lang": "nl",
     "lemma": "experiment",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "experimenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21890,17 +20603,16 @@ const WORDS_NL_A2 = [
       "ja": "実験",
       "zh": "实验",
       "ru": "эксперимент",
-      "fr": "expérience"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "experimenten"
+      "fr": "l'expérience"
+    }
   },
   {
     "id": "nl_1956",
+    "lang": "nl",
     "lemma": "undercover",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "undercovers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21917,17 +20629,16 @@ const WORDS_NL_A2 = [
       "ja": "潜入",
       "zh": "卧底",
       "ru": "под прикрытием",
-      "fr": "secret"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "undercovers"
+      "fr": "le secret"
+    }
   },
   {
     "id": "nl_1957",
+    "lang": "nl",
     "lemma": "commando",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "commando's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -21945,15 +20656,12 @@ const WORDS_NL_A2 = [
       "ja": "命令",
       "zh": "命令",
       "ru": "команда",
-      "fr": "commande"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "commando's"
+      "fr": "la commande"
+    }
   },
   {
     "id": "nl_1958",
+    "lang": "nl",
     "lemma": "gekleed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -21974,12 +20682,11 @@ const WORDS_NL_A2 = [
       "zh": "穿着",
       "ru": "одетый",
       "fr": "habillé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1959",
+    "lang": "nl",
     "lemma": "star",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22000,14 +20707,14 @@ const WORDS_NL_A2 = [
       "zh": "僵硬",
       "ru": "жесткий",
       "fr": "rigide"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1960",
+    "lang": "nl",
     "lemma": "star",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22025,17 +20732,16 @@ const WORDS_NL_A2 = [
       "ja": "星",
       "zh": "星星",
       "ru": "звезда",
-      "fr": "étoile"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'étoile"
+    }
   },
   {
     "id": "nl_1961",
+    "lang": "nl",
     "lemma": "gemak",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gemakken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22053,17 +20759,16 @@ const WORDS_NL_A2 = [
       "ja": "容易さ",
       "zh": "方便",
       "ru": "легкость",
-      "fr": "aisance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gemakken"
+      "fr": "l'aisance"
+    }
   },
   {
     "id": "nl_1963",
+    "lang": "nl",
     "lemma": "motel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "motels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22081,17 +20786,16 @@ const WORDS_NL_A2 = [
       "ja": "モーテル",
       "zh": "汽车旅馆",
       "ru": "мотель",
-      "fr": "motel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "motels"
+      "fr": "le motel"
+    }
   },
   {
     "id": "nl_1964",
+    "lang": "nl",
     "lemma": "long",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "longen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22109,15 +20813,12 @@ const WORDS_NL_A2 = [
       "ja": "肺",
       "zh": "肺",
       "ru": "легкое",
-      "fr": "poumon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "longen"
+      "fr": "le poumon"
+    }
   },
   {
     "id": "nl_1965",
+    "lang": "nl",
     "lemma": "long",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22138,14 +20839,15 @@ const WORDS_NL_A2 = [
       "zh": "长",
       "ru": "длинный",
       "fr": "long"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1966",
+    "lang": "nl",
     "lemma": "tweeling",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tweelingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22163,17 +20865,16 @@ const WORDS_NL_A2 = [
       "ja": "双子",
       "zh": "双胞胎",
       "ru": "близнец",
-      "fr": "jumeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tweelingen"
+      "fr": "le jumeau"
+    }
   },
   {
     "id": "nl_1967",
+    "lang": "nl",
     "lemma": "draak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "draken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22191,17 +20892,16 @@ const WORDS_NL_A2 = [
       "ja": "竜",
       "zh": "龙",
       "ru": "дракон",
-      "fr": "dragon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "draken"
+      "fr": "le dragon"
+    }
   },
   {
     "id": "nl_1968",
+    "lang": "nl",
     "lemma": "schakel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schakels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22219,15 +20919,12 @@ const WORDS_NL_A2 = [
       "ja": "リンク",
       "zh": "环节",
       "ru": "звено",
-      "fr": "lien"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schakels"
+      "fr": "le lien"
+    }
   },
   {
     "id": "nl_1969",
+    "lang": "nl",
     "lemma": "favoriet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22248,12 +20945,11 @@ const WORDS_NL_A2 = [
       "zh": "最喜欢的",
       "ru": "любимый",
       "fr": "favori"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1971",
+    "lang": "nl",
     "lemma": "heten",
     "pos": "Verb",
     "cefr": "A2",
@@ -22264,7 +20960,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "~라고 불리다",
-      "en": "to be called",
+      "en": "be called",
       "de": "heißen",
       "es": "llamarse",
       "nl": "heten",
@@ -22274,17 +20970,15 @@ const WORDS_NL_A2 = [
       "zh": "叫做",
       "ru": "называться",
       "fr": "s'appeler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "heten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1972",
+    "lang": "nl",
     "lemma": "kooi",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kooien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22302,15 +20996,12 @@ const WORDS_NL_A2 = [
       "ja": "檻",
       "zh": "笼子",
       "ru": "клетка",
-      "fr": "cage"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kooien"
+      "fr": "la cage"
+    }
   },
   {
     "id": "nl_1973",
+    "lang": "nl",
     "lemma": "beheersen",
     "pos": "Verb",
     "cefr": "A2",
@@ -22321,7 +21012,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "통제하다",
-      "en": "to control",
+      "en": "control",
       "de": "beherrschen",
       "es": "controlar",
       "nl": "beheersen",
@@ -22331,17 +21022,15 @@ const WORDS_NL_A2 = [
       "zh": "控制",
       "ru": "контролировать",
       "fr": "contrôler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beheersen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1974",
+    "lang": "nl",
     "lemma": "concert",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "concerten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22359,15 +21048,12 @@ const WORDS_NL_A2 = [
       "ja": "コンサート",
       "zh": "音乐会",
       "ru": "концерт",
-      "fr": "concert"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "concerten"
+      "fr": "le concert"
+    }
   },
   {
     "id": "nl_1975",
+    "lang": "nl",
     "lemma": "vermijden",
     "pos": "Verb",
     "cefr": "A2",
@@ -22378,7 +21064,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "피하다",
-      "en": "to avoid",
+      "en": "avoid",
       "de": "vermeiden",
       "es": "evitar",
       "nl": "vermijden",
@@ -22388,15 +21074,11 @@ const WORDS_NL_A2 = [
       "zh": "避免",
       "ru": "избегать",
       "fr": "éviter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vermijden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1976",
+    "lang": "nl",
     "lemma": "katten",
     "pos": "Verb",
     "cefr": "A2",
@@ -22406,7 +21088,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "험담하다",
-      "en": "to snipe",
+      "en": "snipe",
       "de": "sticheln",
       "es": "criticar",
       "nl": "katten",
@@ -22416,15 +21098,11 @@ const WORDS_NL_A2 = [
       "zh": "挖苦",
       "ru": "злословить",
       "fr": "tirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "katten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1977",
+    "lang": "nl",
     "lemma": "kwetsbaar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22445,12 +21123,11 @@ const WORDS_NL_A2 = [
       "zh": "脆弱的",
       "ru": "уязвимый",
       "fr": "vulnérable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1978",
+    "lang": "nl",
     "lemma": "kleuren",
     "pos": "Verb",
     "cefr": "A2",
@@ -22461,7 +21138,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "색칠하다",
-      "en": "to color",
+      "en": "color",
       "de": "färben",
       "es": "colorear",
       "nl": "kleuren",
@@ -22471,15 +21148,11 @@ const WORDS_NL_A2 = [
       "zh": "涂色",
       "ru": "раскрашивать",
       "fr": "colorier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kleuren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1979",
+    "lang": "nl",
     "lemma": "straffen",
     "pos": "Verb",
     "cefr": "A2",
@@ -22490,7 +21163,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "처벌하다",
-      "en": "to punish",
+      "en": "punish",
       "de": "bestrafen",
       "es": "castigar",
       "nl": "straffen",
@@ -22500,17 +21173,15 @@ const WORDS_NL_A2 = [
       "zh": "惩罚",
       "ru": "наказывать",
       "fr": "punir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "straffen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_1980",
+    "lang": "nl",
     "lemma": "bestuur",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "besturen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22528,15 +21199,12 @@ const WORDS_NL_A2 = [
       "ja": "経営",
       "zh": "管理",
       "ru": "управление",
-      "fr": "administration"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "besturen"
+      "fr": "l'administration"
+    }
   },
   {
     "id": "nl_1981",
+    "lang": "nl",
     "lemma": "verloofd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22557,12 +21225,11 @@ const WORDS_NL_A2 = [
       "zh": "订婚的",
       "ru": "помолвленный",
       "fr": "engagé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1982",
+    "lang": "nl",
     "lemma": "verspreid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22583,14 +21250,15 @@ const WORDS_NL_A2 = [
       "zh": "分散的",
       "ru": "рассеянный",
       "fr": "dispersé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1983",
+    "lang": "nl",
     "lemma": "augustus",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "augustussen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22610,15 +21278,19 @@ const WORDS_NL_A2 = [
       "ru": "август",
       "fr": "août"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "augustussen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1984",
+    "lang": "nl",
     "lemma": "centimeter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "centimeters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22636,15 +21308,12 @@ const WORDS_NL_A2 = [
       "ja": "センチメートル",
       "zh": "厘米",
       "ru": "сантиметр",
-      "fr": "centimètre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "centimeters"
+      "fr": "le centimètre"
+    }
   },
   {
     "id": "nl_1985",
+    "lang": "nl",
     "lemma": "contant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22665,14 +21334,15 @@ const WORDS_NL_A2 = [
       "zh": "现金的",
       "ru": "наличный",
       "fr": "argent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1987",
+    "lang": "nl",
     "lemma": "juli",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "juli's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22692,15 +21362,18 @@ const WORDS_NL_A2 = [
       "ru": "июль",
       "fr": "juillet"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "juli's"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_1988",
+    "lang": "nl",
     "lemma": "waanzin",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22718,15 +21391,12 @@ const WORDS_NL_A2 = [
       "ja": "狂気",
       "zh": "疯狂",
       "ru": "безумие",
-      "fr": "folie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la folie"
+    }
   },
   {
     "id": "nl_1989",
+    "lang": "nl",
     "lemma": "gedroomd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22746,14 +21416,15 @@ const WORDS_NL_A2 = [
       "zh": "梦想的",
       "ru": "мечтаемый",
       "fr": "rêvé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1990",
+    "lang": "nl",
     "lemma": "zender",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zenders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22771,15 +21442,12 @@ const WORDS_NL_A2 = [
       "ja": "送信者",
       "zh": "发件人",
       "ru": "отправитель",
-      "fr": "expéditeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zenders"
+      "fr": "l'expéditeur"
+    }
   },
   {
     "id": "nl_1991",
+    "lang": "nl",
     "lemma": "wreed",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -22800,14 +21468,15 @@ const WORDS_NL_A2 = [
       "zh": "残酷的",
       "ru": "жестокий",
       "fr": "cruel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_1992",
+    "lang": "nl",
     "lemma": "pappa",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pappa's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22825,17 +21494,16 @@ const WORDS_NL_A2 = [
       "ja": "パパ",
       "zh": "爸爸",
       "ru": "папа",
-      "fr": "papa"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pappa's"
+      "fr": "le papa"
+    }
   },
   {
     "id": "nl_1994",
+    "lang": "nl",
     "lemma": "mysterie",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "mysteriën",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22853,17 +21521,16 @@ const WORDS_NL_A2 = [
       "ja": "神秘",
       "zh": "神秘",
       "ru": "тайна",
-      "fr": "mystère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "mysteriën"
+      "fr": "le mystère"
+    }
   },
   {
     "id": "nl_1995",
+    "lang": "nl",
     "lemma": "symbool",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "symbolen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22881,17 +21548,16 @@ const WORDS_NL_A2 = [
       "ja": "象徴",
       "zh": "象征",
       "ru": "символ",
-      "fr": "symbole"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "symbolen"
+      "fr": "le symbole"
+    }
   },
   {
     "id": "nl_1996",
+    "lang": "nl",
     "lemma": "profiel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "profielen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22909,17 +21575,16 @@ const WORDS_NL_A2 = [
       "ja": "プロフィール",
       "zh": "轮廓",
       "ru": "профиль",
-      "fr": "profil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "profielen"
+      "fr": "le profil"
+    }
   },
   {
     "id": "nl_1997",
+    "lang": "nl",
     "lemma": "waag",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wagen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22936,17 +21601,15 @@ const WORDS_NL_A2 = [
       "ja": "計量所",
       "zh": "秤房",
       "ru": "весовая",
-      "fr": "bascule"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wagen"
+      "fr": "la bascule"
+    }
   },
   {
     "id": "nl_1998",
+    "lang": "nl",
     "lemma": "go",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22963,17 +21626,16 @@ const WORDS_NL_A2 = [
       "ja": "囲碁",
       "zh": "围棋",
       "ru": "го",
-      "fr": "jeu de go"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le jeu de go"
+    }
   },
   {
     "id": "nl_1999",
+    "lang": "nl",
     "lemma": "massa",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "massa's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -22991,15 +21653,12 @@ const WORDS_NL_A2 = [
       "ja": "質量",
       "zh": "质量",
       "ru": "масса",
-      "fr": "masse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "massa's"
+      "fr": "la masse"
+    }
   },
   {
     "id": "nl_2000",
+    "lang": "nl",
     "lemma": "ontkennen",
     "pos": "Verb",
     "cefr": "A2",
@@ -23020,15 +21679,11 @@ const WORDS_NL_A2 = [
       "zh": "否认",
       "ru": "отрицать",
       "fr": "nier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ontkennen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2001",
+    "lang": "nl",
     "lemma": "bezet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23048,14 +21703,14 @@ const WORDS_NL_A2 = [
       "zh": "被占领的",
       "ru": "занятый",
       "fr": "occupé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2002",
+    "lang": "nl",
     "lemma": "verkeer",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23073,17 +21728,16 @@ const WORDS_NL_A2 = [
       "ja": "交通",
       "zh": "交通",
       "ru": "движение",
-      "fr": "trafic"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le trafic"
+    }
   },
   {
     "id": "nl_2003",
+    "lang": "nl",
     "lemma": "knie",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "knieën",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23101,17 +21755,16 @@ const WORDS_NL_A2 = [
       "ja": "膝",
       "zh": "膝盖",
       "ru": "колено",
-      "fr": "genou"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "knieën"
+      "fr": "le genou"
+    }
   },
   {
     "id": "nl_2004",
+    "lang": "nl",
     "lemma": "heuvel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "heuvels, heuvelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23129,15 +21782,12 @@ const WORDS_NL_A2 = [
       "ja": "丘",
       "zh": "山丘",
       "ru": "холм",
-      "fr": "colline"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "heuvels, heuvelen"
+      "fr": "la colline"
+    }
   },
   {
     "id": "nl_2005",
+    "lang": "nl",
     "lemma": "slechtste",
     "pos": "Nomen",
     "cefr": "A2",
@@ -23159,13 +21809,11 @@ const WORDS_NL_A2 = [
       "ru": "худший",
       "fr": "le pire"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "article": "de"
   },
   {
     "id": "nl_2006",
+    "lang": "nl",
     "lemma": "benieuwd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23186,12 +21834,11 @@ const WORDS_NL_A2 = [
       "zh": "好奇的",
       "ru": "любопытный",
       "fr": "curieux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2007",
+    "lang": "nl",
     "lemma": "aangeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -23212,15 +21859,11 @@ const WORDS_NL_A2 = [
       "zh": "指示",
       "ru": "указывать",
       "fr": "indiquer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aangeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2008",
+    "lang": "nl",
     "lemma": "uitkomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -23241,15 +21884,11 @@ const WORDS_NL_A2 = [
       "zh": "出来",
       "ru": "выходить",
       "fr": "sortir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitkomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2009",
+    "lang": "nl",
     "lemma": "glazen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23270,14 +21909,15 @@ const WORDS_NL_A2 = [
       "zh": "玻璃的",
       "ru": "стеклянный",
       "fr": "verre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2010",
+    "lang": "nl",
     "lemma": "set",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sets",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23295,17 +21935,16 @@ const WORDS_NL_A2 = [
       "ja": "セット",
       "zh": "套",
       "ru": "набор",
-      "fr": "ensemble"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sets"
+      "fr": "l'ensemble"
+    }
   },
   {
     "id": "nl_2011",
+    "lang": "nl",
     "lemma": "victoria",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "victoria's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23322,17 +21961,16 @@ const WORDS_NL_A2 = [
       "ja": "ビクトリア馬車",
       "zh": "维多利亚式马车",
       "ru": "виктория (экипаж)",
-      "fr": "victoria"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "victoria's"
+      "fr": "la victoria"
+    }
   },
   {
     "id": "nl_2012",
+    "lang": "nl",
     "lemma": "wade",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "waden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23349,17 +21987,16 @@ const WORDS_NL_A2 = [
       "ja": "膝蓋骨",
       "zh": "髌骨",
       "ru": "надколенник",
-      "fr": "rotule"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "waden"
+      "fr": "la rotule"
+    }
   },
   {
     "id": "nl_2013",
+    "lang": "nl",
     "lemma": "ton",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tonnen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23377,17 +22014,16 @@ const WORDS_NL_A2 = [
       "ja": "樽",
       "zh": "桶",
       "ru": "бочка",
-      "fr": "baril"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tonnen"
+      "fr": "le baril"
+    }
   },
   {
     "id": "nl_2014",
+    "lang": "nl",
     "lemma": "chocolade",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chocolades",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23405,17 +22041,16 @@ const WORDS_NL_A2 = [
       "ja": "チョコレート",
       "zh": "巧克力",
       "ru": "шоколад",
-      "fr": "chocolat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chocolades"
+      "fr": "le chocolat"
+    }
   },
   {
     "id": "nl_2015",
+    "lang": "nl",
     "lemma": "brandstof",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "brandstoffen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23433,15 +22068,12 @@ const WORDS_NL_A2 = [
       "ja": "燃料",
       "zh": "燃料",
       "ru": "топливо",
-      "fr": "carburant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "brandstoffen"
+      "fr": "le carburant"
+    }
   },
   {
     "id": "nl_2016",
+    "lang": "nl",
     "lemma": "verwoest",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23461,14 +22093,15 @@ const WORDS_NL_A2 = [
       "zh": "毁坏的",
       "ru": "опустошенный",
       "fr": "dévasté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2018",
+    "lang": "nl",
     "lemma": "munitie",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "munities",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23485,17 +22118,16 @@ const WORDS_NL_A2 = [
       "ja": "弾薬",
       "zh": "弹药",
       "ru": "боеприпасы",
-      "fr": "munition"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "munities"
+      "fr": "la munition"
+    }
   },
   {
     "id": "nl_2019",
+    "lang": "nl",
     "lemma": "paleis",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "paleizen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23513,15 +22145,12 @@ const WORDS_NL_A2 = [
       "ja": "宮殿",
       "zh": "宫殿",
       "ru": "дворец",
-      "fr": "palais"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "paleizen"
+      "fr": "le palais"
+    }
   },
   {
     "id": "nl_2020",
+    "lang": "nl",
     "lemma": "gewapend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23542,14 +22171,15 @@ const WORDS_NL_A2 = [
       "zh": "武装的",
       "ru": "вооруженный",
       "fr": "armé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2021",
+    "lang": "nl",
     "lemma": "nelson",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "nelsons",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23567,17 +22197,16 @@ const WORDS_NL_A2 = [
       "ja": "ネルソン",
       "zh": "纳尔逊",
       "ru": "нельсон",
-      "fr": "nelson"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "nelsons"
+      "fr": "le nelson"
+    }
   },
   {
     "id": "nl_2022",
+    "lang": "nl",
     "lemma": "recept",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "recepten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23595,15 +22224,12 @@ const WORDS_NL_A2 = [
       "ja": "レシピ",
       "zh": "食谱",
       "ru": "рецепт",
-      "fr": "recette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "recepten"
+      "fr": "la recette"
+    }
   },
   {
     "id": "nl_2023",
+    "lang": "nl",
     "lemma": "enthousiast",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23624,14 +22250,14 @@ const WORDS_NL_A2 = [
       "zh": "热情的",
       "ru": "восторженный",
       "fr": "enthousiaste"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2024",
+    "lang": "nl",
     "lemma": "enthousiast",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23649,17 +22275,16 @@ const WORDS_NL_A2 = [
       "ja": "熱狂者",
       "zh": "爱好者",
       "ru": "энтузиаст",
-      "fr": "enthousiaste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'enthousiaste"
+    }
   },
   {
     "id": "nl_2025",
+    "lang": "nl",
     "lemma": "scherm",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "schermen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23677,15 +22302,12 @@ const WORDS_NL_A2 = [
       "ja": "画面",
       "zh": "屏幕",
       "ru": "экран",
-      "fr": "écran"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "schermen"
+      "fr": "l'écran"
+    }
   },
   {
     "id": "nl_2026",
+    "lang": "nl",
     "lemma": "actief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23706,14 +22328,14 @@ const WORDS_NL_A2 = [
       "zh": "活跃的",
       "ru": "активный",
       "fr": "actif"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2027",
+    "lang": "nl",
     "lemma": "actief",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23730,17 +22352,16 @@ const WORDS_NL_A2 = [
       "ja": "資産",
       "zh": "资产",
       "ru": "актив",
-      "fr": "actif"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'actif"
+    }
   },
   {
     "id": "nl_2029",
+    "lang": "nl",
     "lemma": "joch",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "jochies",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23758,15 +22379,12 @@ const WORDS_NL_A2 = [
       "ja": "子供",
       "zh": "孩子",
       "ru": "ребенок",
-      "fr": "enfant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "jochies"
+      "fr": "l'enfant"
+    }
   },
   {
     "id": "nl_2030",
+    "lang": "nl",
     "lemma": "lokken",
     "pos": "Verb",
     "cefr": "A2",
@@ -23787,15 +22405,11 @@ const WORDS_NL_A2 = [
       "zh": "引诱",
       "ru": "заманивать",
       "fr": "attirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lokken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2031",
+    "lang": "nl",
     "lemma": "varen",
     "pos": "Verb",
     "cefr": "A2",
@@ -23816,17 +22430,14 @@ const WORDS_NL_A2 = [
       "zh": "航行",
       "ru": "плавать",
       "fr": "voile"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "varen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2032",
+    "lang": "nl",
     "lemma": "varen",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23844,17 +22455,15 @@ const WORDS_NL_A2 = [
       "ja": "シダ",
       "zh": "蕨类植物",
       "ru": "папоротник",
-      "fr": "fougère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la fougère"
+    }
   },
   {
     "id": "nl_2033",
+    "lang": "nl",
     "lemma": "kwart",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -23872,15 +22481,12 @@ const WORDS_NL_A2 = [
       "ja": "4分の1",
       "zh": "四分之一",
       "ru": "четверть",
-      "fr": "quartier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le quartier"
+    }
   },
   {
     "id": "nl_2034",
+    "lang": "nl",
     "lemma": "stiekem",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -23901,12 +22507,11 @@ const WORDS_NL_A2 = [
       "zh": "秘密的",
       "ru": "тайный",
       "fr": "secret"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2035",
+    "lang": "nl",
     "lemma": "afsluiten",
     "pos": "Verb",
     "cefr": "A2",
@@ -23927,15 +22532,11 @@ const WORDS_NL_A2 = [
       "zh": "关闭",
       "ru": "закрывать",
       "fr": "fermer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afsluiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2036",
+    "lang": "nl",
     "lemma": "inpakken",
     "pos": "Verb",
     "cefr": "A2",
@@ -23956,15 +22557,11 @@ const WORDS_NL_A2 = [
       "zh": "打包",
       "ru": "упаковывать",
       "fr": "paquet"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inpakken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2037",
+    "lang": "nl",
     "lemma": "winkelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -23985,15 +22582,11 @@ const WORDS_NL_A2 = [
       "zh": "购物",
       "ru": "ходить по магазинам",
       "fr": "magasin"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "winkelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2038",
+    "lang": "nl",
     "lemma": "beesten",
     "pos": "Verb",
     "cefr": "A2",
@@ -24013,15 +22606,11 @@ const WORDS_NL_A2 = [
       "zh": "行为不端",
       "ru": "безобразничать",
       "fr": "désobéir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beesten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2039",
+    "lang": "nl",
     "lemma": "vrijen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24041,15 +22630,11 @@ const WORDS_NL_A2 = [
       "zh": "做爱",
       "ru": "заниматься любовью",
       "fr": "copuler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vrijen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2040",
+    "lang": "nl",
     "lemma": "toegestaan",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24070,14 +22655,15 @@ const WORDS_NL_A2 = [
       "zh": "允许的",
       "ru": "разрешенный",
       "fr": "autorisé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2041",
+    "lang": "nl",
     "lemma": "hall",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "halls",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24095,15 +22681,12 @@ const WORDS_NL_A2 = [
       "ja": "ホール",
       "zh": "大厅",
       "ru": "зал",
-      "fr": "hall"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "halls"
+      "fr": "le hall"
+    }
   },
   {
     "id": "nl_2042",
+    "lang": "nl",
     "lemma": "beleefd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24124,14 +22707,14 @@ const WORDS_NL_A2 = [
       "zh": "有礼貌的",
       "ru": "вежливый",
       "fr": "poli"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2043",
+    "lang": "nl",
     "lemma": "blok",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24149,17 +22732,16 @@ const WORDS_NL_A2 = [
       "ja": "ブロック",
       "zh": "块",
       "ru": "блок",
-      "fr": "bloc"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le bloc"
+    }
   },
   {
     "id": "nl_2044",
+    "lang": "nl",
     "lemma": "verlangen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verlangens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24177,15 +22759,12 @@ const WORDS_NL_A2 = [
       "ja": "欲望",
       "zh": "欲望",
       "ru": "желание",
-      "fr": "désir"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verlangens"
+      "fr": "le désir"
+    }
   },
   {
     "id": "nl_2045",
+    "lang": "nl",
     "lemma": "verlangen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24206,17 +22785,15 @@ const WORDS_NL_A2 = [
       "zh": "渴望",
       "ru": "тосковать",
       "fr": "désirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verlangen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2046",
+    "lang": "nl",
     "lemma": "pastoor",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pastoors",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24234,17 +22811,16 @@ const WORDS_NL_A2 = [
       "ja": "司祭",
       "zh": "牧师",
       "ru": "священник",
-      "fr": "prêtre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pastoors"
+      "fr": "le prêtre"
+    }
   },
   {
     "id": "nl_2047",
+    "lang": "nl",
     "lemma": "drama",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "drama's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24262,15 +22838,12 @@ const WORDS_NL_A2 = [
       "ja": "ドラマ",
       "zh": "戏剧",
       "ru": "драма",
-      "fr": "drame"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "drama's"
+      "fr": "le drame"
+    }
   },
   {
     "id": "nl_2048",
+    "lang": "nl",
     "lemma": "laden",
     "pos": "Verb",
     "cefr": "A2",
@@ -24291,17 +22864,15 @@ const WORDS_NL_A2 = [
       "zh": "装载",
       "ru": "грузить",
       "fr": "charge"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "laden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2049",
+    "lang": "nl",
     "lemma": "bedrag",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "bedragen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24319,15 +22890,12 @@ const WORDS_NL_A2 = [
       "ja": "金額",
       "zh": "金额",
       "ru": "сумма",
-      "fr": "montant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "bedragen"
+      "fr": "le montant"
+    }
   },
   {
     "id": "nl_2050",
+    "lang": "nl",
     "lemma": "bevallen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24349,17 +22917,14 @@ const WORDS_NL_A2 = [
       "zh": "喜欢",
       "ru": "нравиться",
       "fr": "s'il vous plaît"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bevallen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2051",
+    "lang": "nl",
     "lemma": "schoft",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24376,17 +22941,15 @@ const WORDS_NL_A2 = [
       "ja": "鬐甲",
       "zh": "鬐甲",
       "ru": "холка",
-      "fr": "garrot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le garrot"
+    }
   },
   {
     "id": "nl_2052",
+    "lang": "nl",
     "lemma": "lawaai",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24404,17 +22967,16 @@ const WORDS_NL_A2 = [
       "ja": "騒音",
       "zh": "噪音",
       "ru": "шум",
-      "fr": "bruit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le bruit"
+    }
   },
   {
     "id": "nl_2053",
+    "lang": "nl",
     "lemma": "plant",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "planten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24432,15 +22994,12 @@ const WORDS_NL_A2 = [
       "ja": "植物",
       "zh": "植物",
       "ru": "растение",
-      "fr": "plante"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "planten"
+      "fr": "la plante"
+    }
   },
   {
     "id": "nl_2054",
+    "lang": "nl",
     "lemma": "staren",
     "pos": "Verb",
     "cefr": "A2",
@@ -24461,17 +23020,15 @@ const WORDS_NL_A2 = [
       "zh": "凝视",
       "ru": "пристально смотреть",
       "fr": "fixer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "staren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2055",
+    "lang": "nl",
     "lemma": "konijn",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "konijnen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24489,15 +23046,12 @@ const WORDS_NL_A2 = [
       "ja": "ウサギ",
       "zh": "兔子",
       "ru": "кролик",
-      "fr": "lapin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "konijnen"
+      "fr": "le lapin"
+    }
   },
   {
     "id": "nl_2056",
+    "lang": "nl",
     "lemma": "huren",
     "pos": "Verb",
     "cefr": "A2",
@@ -24518,17 +23072,15 @@ const WORDS_NL_A2 = [
       "zh": "租",
       "ru": "арендовать",
       "fr": "loyer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "huren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2057",
+    "lang": "nl",
     "lemma": "misdrijf",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "misdrijven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24546,15 +23098,12 @@ const WORDS_NL_A2 = [
       "ja": "犯罪",
       "zh": "罪行",
       "ru": "преступление",
-      "fr": "crime"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "misdrijven"
+      "fr": "le crime"
+    }
   },
   {
     "id": "nl_2058",
+    "lang": "nl",
     "lemma": "overlijden",
     "pos": "Verb",
     "cefr": "A2",
@@ -24575,17 +23124,15 @@ const WORDS_NL_A2 = [
       "zh": "去世",
       "ru": "умереть",
       "fr": "mourir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overlijden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2059",
+    "lang": "nl",
     "lemma": "procedure",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "procedures",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24603,15 +23150,12 @@ const WORDS_NL_A2 = [
       "ja": "手順",
       "zh": "程序",
       "ru": "процедура",
-      "fr": "procédure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "procedures"
+      "fr": "la procédure"
+    }
   },
   {
     "id": "nl_2060",
+    "lang": "nl",
     "lemma": "douchen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24632,15 +23176,11 @@ const WORDS_NL_A2 = [
       "zh": "淋浴",
       "ru": "принимать душ",
       "fr": "douche"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "douchen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2061",
+    "lang": "nl",
     "lemma": "gokken",
     "pos": "Verb",
     "cefr": "A2",
@@ -24661,17 +23201,14 @@ const WORDS_NL_A2 = [
       "zh": "赌博",
       "ru": "играть в азартные игры",
       "fr": "pari"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gokken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2062",
+    "lang": "nl",
     "lemma": "thanksgiving",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24690,15 +23227,12 @@ const WORDS_NL_A2 = [
       "ja": "感謝祭",
       "zh": "感恩节",
       "ru": "День благодарения",
-      "fr": "Action de grâce"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'Action de grâce"
+    }
   },
   {
     "id": "nl_2063",
+    "lang": "nl",
     "lemma": "duiken",
     "pos": "Verb",
     "cefr": "A2",
@@ -24719,17 +23253,14 @@ const WORDS_NL_A2 = [
       "zh": "潜水",
       "ru": "нырять",
       "fr": "plonger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "duiken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2064",
+    "lang": "nl",
     "lemma": "fruit",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24747,15 +23278,12 @@ const WORDS_NL_A2 = [
       "ja": "果物",
       "zh": "水果",
       "ru": "фрукты",
-      "fr": "fruit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le fruit"
+    }
   },
   {
     "id": "nl_2065",
+    "lang": "nl",
     "lemma": "bevroren",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24776,14 +23304,15 @@ const WORDS_NL_A2 = [
       "zh": "冷冻的",
       "ru": "замороженный",
       "fr": "gelé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2066",
+    "lang": "nl",
     "lemma": "sloot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sloten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24801,15 +23330,12 @@ const WORDS_NL_A2 = [
       "ja": "溝",
       "zh": "沟",
       "ru": "канава",
-      "fr": "fossé"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sloten"
+      "fr": "le fossé"
+    }
   },
   {
     "id": "nl_2067",
+    "lang": "nl",
     "lemma": "grappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24830,17 +23356,15 @@ const WORDS_NL_A2 = [
       "zh": "开玩笑",
       "ru": "шутить",
       "fr": "blague"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2068",
+    "lang": "nl",
     "lemma": "vloot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vloten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24858,17 +23382,16 @@ const WORDS_NL_A2 = [
       "ja": "艦隊",
       "zh": "舰队",
       "ru": "флот",
-      "fr": "flotte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vloten"
+      "fr": "la flotte"
+    }
   },
   {
     "id": "nl_2069",
+    "lang": "nl",
     "lemma": "uiterlijk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "uiterlijken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -24886,15 +23409,12 @@ const WORDS_NL_A2 = [
       "ja": "外見",
       "zh": "外表",
       "ru": "внешний вид",
-      "fr": "apparence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "uiterlijken"
+      "fr": "l'apparence"
+    }
   },
   {
     "id": "nl_2070",
+    "lang": "nl",
     "lemma": "uiterlijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24914,12 +23434,11 @@ const WORDS_NL_A2 = [
       "zh": "外部的",
       "ru": "внешний",
       "fr": "externe"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2071",
+    "lang": "nl",
     "lemma": "doof",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -24940,12 +23459,11 @@ const WORDS_NL_A2 = [
       "zh": "聋的",
       "ru": "глухой",
       "fr": "sourd"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2072",
+    "lang": "nl",
     "lemma": "terugbrengen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24966,15 +23484,11 @@ const WORDS_NL_A2 = [
       "zh": "带回",
       "ru": "возвращать",
       "fr": "ramener"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "terugbrengen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2073",
+    "lang": "nl",
     "lemma": "schamen",
     "pos": "Verb",
     "cefr": "A2",
@@ -24995,17 +23509,15 @@ const WORDS_NL_A2 = [
       "zh": "感到羞耻",
       "ru": "стыдиться",
       "fr": "avoir honte"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schamen",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2074",
+    "lang": "nl",
     "lemma": "tempel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tempels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25023,17 +23535,16 @@ const WORDS_NL_A2 = [
       "ja": "寺院",
       "zh": "寺庙",
       "ru": "храм",
-      "fr": "temple"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tempels"
+      "fr": "le temple"
+    }
   },
   {
     "id": "nl_2075",
+    "lang": "nl",
     "lemma": "wetenschapper",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wetenschappers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25051,17 +23562,16 @@ const WORDS_NL_A2 = [
       "ja": "科学者",
       "zh": "科学家",
       "ru": "учёный",
-      "fr": "scientifique"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wetenschappers"
+      "fr": "le scientifique"
+    }
   },
   {
     "id": "nl_2076",
+    "lang": "nl",
     "lemma": "kanaal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kanalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25079,15 +23589,12 @@ const WORDS_NL_A2 = [
       "ja": "運河",
       "zh": "运河",
       "ru": "канал",
-      "fr": "canal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kanalen"
+      "fr": "le canal"
+    }
   },
   {
     "id": "nl_2077",
+    "lang": "nl",
     "lemma": "gemeld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25108,14 +23615,15 @@ const WORDS_NL_A2 = [
       "zh": "已报告",
       "ru": "сообщённый",
       "fr": "rapporté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2078",
+    "lang": "nl",
     "lemma": "watje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "watjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25133,17 +23641,16 @@ const WORDS_NL_A2 = [
       "ja": "綿",
       "zh": "棉片",
       "ru": "ватный диск",
-      "fr": "coton"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "watjes"
+      "fr": "le coton"
+    }
   },
   {
     "id": "nl_2079",
+    "lang": "nl",
     "lemma": "speech",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "speeches",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25161,17 +23668,16 @@ const WORDS_NL_A2 = [
       "ja": "スピーチ",
       "zh": "演讲",
       "ru": "речь",
-      "fr": "discours"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "speeches"
+      "fr": "le discours"
+    }
   },
   {
     "id": "nl_2081",
+    "lang": "nl",
     "lemma": "voorraad",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "voorraden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25189,15 +23695,12 @@ const WORDS_NL_A2 = [
       "ja": "在庫",
       "zh": "库存",
       "ru": "запас",
-      "fr": "stock"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "voorraden"
+      "fr": "le stock"
+    }
   },
   {
     "id": "nl_2082",
+    "lang": "nl",
     "lemma": "legaal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25218,14 +23721,15 @@ const WORDS_NL_A2 = [
       "zh": "合法的",
       "ru": "легальный",
       "fr": "légal"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2083",
+    "lang": "nl",
     "lemma": "korporaal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "korporaals",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25244,13 +23748,15 @@ const WORDS_NL_A2 = [
       "ru": "капрал",
       "fr": "corporel"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "korporaals"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2084",
+    "lang": "nl",
     "lemma": "overwegen",
     "pos": "Verb",
     "cefr": "A2",
@@ -25271,17 +23777,14 @@ const WORDS_NL_A2 = [
       "zh": "考虑",
       "ru": "рассматривать",
       "fr": "considérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "overwegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2085",
+    "lang": "nl",
     "lemma": "vee",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25299,17 +23802,16 @@ const WORDS_NL_A2 = [
       "ja": "家畜",
       "zh": "牲畜",
       "ru": "скот",
-      "fr": "bétail"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le bétail"
+    }
   },
   {
     "id": "nl_2086",
+    "lang": "nl",
     "lemma": "metro",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "metro's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25328,15 +23830,12 @@ const WORDS_NL_A2 = [
       "ja": "地下鉄",
       "zh": "地铁",
       "ru": "метро",
-      "fr": "métro"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "metro's"
+      "fr": "le métro"
+    }
   },
   {
     "id": "nl_2087",
+    "lang": "nl",
     "lemma": "afhankelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25357,14 +23856,15 @@ const WORDS_NL_A2 = [
       "zh": "依赖的",
       "ru": "зависимый",
       "fr": "dépendant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2088",
+    "lang": "nl",
     "lemma": "speler",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "spelers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25382,17 +23882,16 @@ const WORDS_NL_A2 = [
       "ja": "選手",
       "zh": "玩家",
       "ru": "игрок",
-      "fr": "joueur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "spelers"
+      "fr": "le joueur"
+    }
   },
   {
     "id": "nl_2089",
+    "lang": "nl",
     "lemma": "gereedschap",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gereedschappen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25410,17 +23909,16 @@ const WORDS_NL_A2 = [
       "ja": "道具",
       "zh": "工具",
       "ru": "инструмент",
-      "fr": "outil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gereedschappen"
+      "fr": "l'outil"
+    }
   },
   {
     "id": "nl_2090",
+    "lang": "nl",
     "lemma": "misbruik",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "misbruiken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25438,17 +23936,16 @@ const WORDS_NL_A2 = [
       "ja": "乱用",
       "zh": "滥用",
       "ru": "злоупотребление",
-      "fr": "abus"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "misbruiken"
+      "fr": "l'abus"
+    }
   },
   {
     "id": "nl_2091",
+    "lang": "nl",
     "lemma": "chip",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "chips",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25466,17 +23963,16 @@ const WORDS_NL_A2 = [
       "ja": "チップ",
       "zh": "薯片",
       "ru": "чип",
-      "fr": "puce"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "chips"
+      "fr": "la puce"
+    }
   },
   {
     "id": "nl_2092",
+    "lang": "nl",
     "lemma": "reclame",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "reclames",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25494,15 +23990,12 @@ const WORDS_NL_A2 = [
       "ja": "広告",
       "zh": "广告",
       "ru": "реклама",
-      "fr": "publicité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "reclames"
+      "fr": "la publicité"
+    }
   },
   {
     "id": "nl_2093",
+    "lang": "nl",
     "lemma": "behouden",
     "pos": "Verb",
     "cefr": "A2",
@@ -25523,15 +24016,11 @@ const WORDS_NL_A2 = [
       "zh": "保存",
       "ru": "сохранять",
       "fr": "préserver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "behouden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2094",
+    "lang": "nl",
     "lemma": "behouden",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25552,12 +24041,11 @@ const WORDS_NL_A2 = [
       "zh": "被保存的",
       "ru": "спасённый",
       "fr": "sauvé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2095",
+    "lang": "nl",
     "lemma": "durven",
     "pos": "Verb",
     "cefr": "A2",
@@ -25578,15 +24066,11 @@ const WORDS_NL_A2 = [
       "zh": "敢",
       "ru": "осмеливаться",
       "fr": "oser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "durven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2096",
+    "lang": "nl",
     "lemma": "goedmaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -25607,17 +24091,15 @@ const WORDS_NL_A2 = [
       "zh": "弥补",
       "ru": "помириться",
       "fr": "maquiller"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "goedmaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2097",
+    "lang": "nl",
     "lemma": "jersey",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jerseys",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25635,15 +24117,12 @@ const WORDS_NL_A2 = [
       "ja": "ジャージー",
       "zh": "针织面料",
       "ru": "джерси",
-      "fr": "maillot"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jerseys"
+      "fr": "le maillot"
+    }
   },
   {
     "id": "nl_2098",
+    "lang": "nl",
     "lemma": "getraind",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25664,14 +24143,15 @@ const WORDS_NL_A2 = [
       "zh": "训练有素的",
       "ru": "тренированный",
       "fr": "entraîné"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2099",
+    "lang": "nl",
     "lemma": "website",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "websites",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25689,17 +24169,16 @@ const WORDS_NL_A2 = [
       "ja": "ウェブサイト",
       "zh": "网站",
       "ru": "вебсайт",
-      "fr": "site web"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "websites"
+      "fr": "le site web"
+    }
   },
   {
     "id": "nl_2100",
+    "lang": "nl",
     "lemma": "firma",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "firma's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25717,15 +24196,12 @@ const WORDS_NL_A2 = [
       "ja": "会社",
       "zh": "公司",
       "ru": "фирма",
-      "fr": "entreprise"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "firma's"
+      "fr": "l'entreprise"
+    }
   },
   {
     "id": "nl_2101",
+    "lang": "nl",
     "lemma": "bloeden",
     "pos": "Verb",
     "cefr": "A2",
@@ -25736,7 +24212,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "피를 흘리다",
-      "en": "to bleed",
+      "en": "bleed",
       "de": "bluten",
       "es": "sangrar",
       "nl": "bloeden",
@@ -25746,17 +24222,14 @@ const WORDS_NL_A2 = [
       "zh": "流血",
       "ru": "кровоточить",
       "fr": "saigner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bloeden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2102",
+    "lang": "nl",
     "lemma": "schop",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25774,17 +24247,16 @@ const WORDS_NL_A2 = [
       "ja": "シャベル",
       "zh": "铲子",
       "ru": "лопата",
-      "fr": "pelle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la pelle"
+    }
   },
   {
     "id": "nl_2103",
+    "lang": "nl",
     "lemma": "nest",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "nesten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25802,17 +24274,16 @@ const WORDS_NL_A2 = [
       "ja": "巣",
       "zh": "巢",
       "ru": "гнездо",
-      "fr": "nid"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "nesten"
+      "fr": "le nid"
+    }
   },
   {
     "id": "nl_2104",
+    "lang": "nl",
     "lemma": "kostuum",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kostuums",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25830,17 +24301,16 @@ const WORDS_NL_A2 = [
       "ja": "衣装",
       "zh": "服装",
       "ru": "костюм",
-      "fr": "costume"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kostuums"
+      "fr": "le costume"
+    }
   },
   {
     "id": "nl_2105",
+    "lang": "nl",
     "lemma": "hoofdinspecteur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hoofdinspecteurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25857,17 +24327,16 @@ const WORDS_NL_A2 = [
       "ja": "警部",
       "zh": "总督察",
       "ru": "главный инспектор",
-      "fr": "inspecteur principal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hoofdinspecteurs"
+      "fr": "l'inspecteur principal"
+    }
   },
   {
     "id": "nl_2106",
+    "lang": "nl",
     "lemma": "standaard",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "standaarden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25886,15 +24355,12 @@ const WORDS_NL_A2 = [
       "ja": "標準",
       "zh": "标准",
       "ru": "стандарт",
-      "fr": "standard"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "standaarden"
+      "fr": "le standard"
+    }
   },
   {
     "id": "nl_2107",
+    "lang": "nl",
     "lemma": "standaard",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -25916,14 +24382,15 @@ const WORDS_NL_A2 = [
       "zh": "标准的",
       "ru": "стандартный",
       "fr": "standard"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2108",
+    "lang": "nl",
     "lemma": "stok",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stokken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25941,15 +24408,12 @@ const WORDS_NL_A2 = [
       "ja": "棒",
       "zh": "棍子",
       "ru": "палка",
-      "fr": "bâton"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stokken"
+      "fr": "le bâton"
+    }
   },
   {
     "id": "nl_2110",
+    "lang": "nl",
     "lemma": "afspreken",
     "pos": "Verb",
     "cefr": "A2",
@@ -25960,7 +24424,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "합의하다",
-      "en": "to agree",
+      "en": "agree",
       "de": "vereinbaren",
       "es": "acordar",
       "nl": "afspreken",
@@ -25970,17 +24434,15 @@ const WORDS_NL_A2 = [
       "zh": "同意",
       "ru": "договориться",
       "fr": "convenir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afspreken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2111",
+    "lang": "nl",
     "lemma": "hoofdkwartier",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "hoofdkwartieren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -25997,17 +24459,15 @@ const WORDS_NL_A2 = [
       "ja": "本部",
       "zh": "总部",
       "ru": "штаб-квартира",
-      "fr": "quartier général"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "hoofdkwartieren"
+      "fr": "le quartier général"
+    }
   },
   {
     "id": "nl_2112",
+    "lang": "nl",
     "lemma": "heroïne",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26024,15 +24484,12 @@ const WORDS_NL_A2 = [
       "ja": "ヘロイン",
       "zh": "海洛因",
       "ru": "героин",
-      "fr": "héroïne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'héroïne"
+    }
   },
   {
     "id": "nl_2113",
+    "lang": "nl",
     "lemma": "bossen",
     "pos": "Verb",
     "cefr": "A2",
@@ -26042,7 +24499,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "묶다",
-      "en": "to bundle",
+      "en": "bundle",
       "de": "bündeln",
       "es": "empaquetar",
       "nl": "bossen",
@@ -26052,17 +24509,15 @@ const WORDS_NL_A2 = [
       "zh": "捆绑",
       "ru": "связывать",
       "fr": "empaqueter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bossen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2114",
+    "lang": "nl",
     "lemma": "vermoeden",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vermoedens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26080,15 +24535,12 @@ const WORDS_NL_A2 = [
       "ja": "疑い",
       "zh": "怀疑",
       "ru": "подозрение",
-      "fr": "soupçon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vermoedens"
+      "fr": "le soupçon"
+    }
   },
   {
     "id": "nl_2115",
+    "lang": "nl",
     "lemma": "vermoeden",
     "pos": "Verb",
     "cefr": "A2",
@@ -26099,7 +24551,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "의심하다",
-      "en": "to suspect",
+      "en": "suspect",
       "de": "vermuten",
       "es": "sospechar",
       "nl": "vermoeden",
@@ -26109,17 +24561,15 @@ const WORDS_NL_A2 = [
       "zh": "怀疑",
       "ru": "подозревать",
       "fr": "soupçonner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vermoeden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2116",
+    "lang": "nl",
     "lemma": "jonathan",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jonathans",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26136,17 +24586,16 @@ const WORDS_NL_A2 = [
       "ja": "ジョナサンリンゴ",
       "zh": "乔纳森苹果",
       "ru": "яблоко Джонатан",
-      "fr": "pomme Jonathan"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jonathans"
+      "fr": "la pomme Jonathan"
+    }
   },
   {
     "id": "nl_2117",
+    "lang": "nl",
     "lemma": "hoofdstuk",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "hoofdstukken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26164,15 +24613,12 @@ const WORDS_NL_A2 = [
       "ja": "章",
       "zh": "章",
       "ru": "глава",
-      "fr": "chapitre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "hoofdstukken"
+      "fr": "le chapitre"
+    }
   },
   {
     "id": "nl_2118",
+    "lang": "nl",
     "lemma": "bemoeien",
     "pos": "Verb",
     "cefr": "A2",
@@ -26183,7 +24629,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "간섭하다",
-      "en": "to interfere",
+      "en": "interfere",
       "de": "sich einmischen",
       "es": "inmiscuirse",
       "nl": "bemoeien",
@@ -26193,17 +24639,15 @@ const WORDS_NL_A2 = [
       "zh": "干涉",
       "ru": "вмешиваться",
       "fr": "interférer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bemoeien",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2119",
+    "lang": "nl",
     "lemma": "kern",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kernen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26221,15 +24665,12 @@ const WORDS_NL_A2 = [
       "ja": "核",
       "zh": "核心",
       "ru": "ядро",
-      "fr": "noyau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kernen"
+      "fr": "le noyau"
+    }
   },
   {
     "id": "nl_2120",
+    "lang": "nl",
     "lemma": "voorgesteld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26250,14 +24691,15 @@ const WORDS_NL_A2 = [
       "zh": "提议的",
       "ru": "предложенный",
       "fr": "proposé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2121",
+    "lang": "nl",
     "lemma": "begrip",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "begrippen [2]",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26275,15 +24717,12 @@ const WORDS_NL_A2 = [
       "ja": "理解",
       "zh": "理解",
       "ru": "понимание",
-      "fr": "compréhension"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "begrippen [2]"
+      "fr": "la compréhension"
+    }
   },
   {
     "id": "nl_2122",
+    "lang": "nl",
     "lemma": "braaf",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26304,12 +24743,11 @@ const WORDS_NL_A2 = [
       "zh": "乖巧的",
       "ru": "послушный",
       "fr": "sage"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2123",
+    "lang": "nl",
     "lemma": "opsluiten",
     "pos": "Verb",
     "cefr": "A2",
@@ -26330,17 +24768,15 @@ const WORDS_NL_A2 = [
       "zh": "关押",
       "ru": "запереть",
       "fr": "enfermer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opsluiten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2124",
+    "lang": "nl",
     "lemma": "misverstand",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "misverstanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26358,15 +24794,12 @@ const WORDS_NL_A2 = [
       "ja": "誤解",
       "zh": "误解",
       "ru": "недоразумение",
-      "fr": "malentendu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "misverstanden"
+      "fr": "le malentendu"
+    }
   },
   {
     "id": "nl_2125",
+    "lang": "nl",
     "lemma": "uitgevoerd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26387,14 +24820,15 @@ const WORDS_NL_A2 = [
       "zh": "执行的",
       "ru": "выполненный",
       "fr": "exécuté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2126",
+    "lang": "nl",
     "lemma": "borg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "borgen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26412,17 +24846,16 @@ const WORDS_NL_A2 = [
       "ja": "保証金",
       "zh": "押金",
       "ru": "залог",
-      "fr": "dépôt"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "borgen"
+      "fr": "le dépôt"
+    }
   },
   {
     "id": "nl_2127",
+    "lang": "nl",
     "lemma": "doodsoorzaak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "doodsoorzaken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26440,17 +24873,16 @@ const WORDS_NL_A2 = [
       "ja": "死因",
       "zh": "死因",
       "ru": "причина смерти",
-      "fr": "cause de la mort"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "doodsoorzaken"
+      "fr": "la cause de la mort"
+    }
   },
   {
     "id": "nl_2129",
+    "lang": "nl",
     "lemma": "cirkel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "cirkels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26468,17 +24900,16 @@ const WORDS_NL_A2 = [
       "ja": "円",
       "zh": "圆圈",
       "ru": "круг",
-      "fr": "cercle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "cirkels"
+      "fr": "le cercle"
+    }
   },
   {
     "id": "nl_2130",
+    "lang": "nl",
     "lemma": "moordwapen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "moordwapens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26496,15 +24927,12 @@ const WORDS_NL_A2 = [
       "ja": "凶器",
       "zh": "凶器",
       "ru": "орудие убийства",
-      "fr": "arme du crime"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "moordwapens"
+      "fr": "l'arme du crime"
+    }
   },
   {
     "id": "nl_2131",
+    "lang": "nl",
     "lemma": "boeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -26525,17 +24953,15 @@ const WORDS_NL_A2 = [
       "zh": "务农",
       "ru": "фермерствовать",
       "fr": "ferme"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2132",
+    "lang": "nl",
     "lemma": "gerucht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "geruchten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26553,15 +24979,12 @@ const WORDS_NL_A2 = [
       "ja": "噂",
       "zh": "谣言",
       "ru": "слух",
-      "fr": "rumeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "geruchten"
+      "fr": "la rumeur"
+    }
   },
   {
     "id": "nl_2133",
+    "lang": "nl",
     "lemma": "bijten",
     "pos": "Verb",
     "cefr": "A2",
@@ -26582,17 +25005,15 @@ const WORDS_NL_A2 = [
       "zh": "咬",
       "ru": "кусать",
       "fr": "morsure"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bijten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2134",
+    "lang": "nl",
     "lemma": "stone",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stones",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26610,15 +25031,12 @@ const WORDS_NL_A2 = [
       "ja": "ストーン",
       "zh": "英石",
       "ru": "стоун",
-      "fr": "pierre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stones"
+      "fr": "la pierre"
+    }
   },
   {
     "id": "nl_2135",
+    "lang": "nl",
     "lemma": "opzetten",
     "pos": "Verb",
     "cefr": "A2",
@@ -26639,17 +25057,15 @@ const WORDS_NL_A2 = [
       "zh": "肿胀",
       "ru": "опухать",
       "fr": "gonfler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opzetten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2136",
+    "lang": "nl",
     "lemma": "trekker",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "trekkers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26667,17 +25083,16 @@ const WORDS_NL_A2 = [
       "ja": "トラック",
       "zh": "卡车",
       "ru": "грузовик",
-      "fr": "camion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "trekkers"
+      "fr": "le camion"
+    }
   },
   {
     "id": "nl_2137",
+    "lang": "nl",
     "lemma": "internationale",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "internationales",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26694,15 +25109,12 @@ const WORDS_NL_A2 = [
       "ja": "インターナショナル",
       "zh": "国际",
       "ru": "Интернационал",
-      "fr": "international"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "internationales"
+      "fr": "l'Internationale"
+    }
   },
   {
     "id": "nl_2138",
+    "lang": "nl",
     "lemma": "wegkomen",
     "pos": "Verb",
     "cefr": "A2",
@@ -26723,15 +25135,11 @@ const WORDS_NL_A2 = [
       "zh": "逃脱",
       "ru": "убежать",
       "fr": "évasion"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wegkomen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2140",
+    "lang": "nl",
     "lemma": "schoppen",
     "pos": "Verb",
     "cefr": "A2",
@@ -26752,17 +25160,14 @@ const WORDS_NL_A2 = [
       "zh": "踢",
       "ru": "пинать",
       "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schoppen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2141",
+    "lang": "nl",
     "lemma": "schoppen",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26779,15 +25184,12 @@ const WORDS_NL_A2 = [
       "ja": "スペード",
       "zh": "黑桃",
       "ru": "пики",
-      "fr": "piques"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "les piques"
+    }
   },
   {
     "id": "nl_2142",
+    "lang": "nl",
     "lemma": "opereren",
     "pos": "Verb",
     "cefr": "A2",
@@ -26808,17 +25210,15 @@ const WORDS_NL_A2 = [
       "zh": "手术",
       "ru": "оперировать",
       "fr": "opérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opereren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2143",
+    "lang": "nl",
     "lemma": "borrel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "borrels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26835,17 +25235,16 @@ const WORDS_NL_A2 = [
       "ja": "ショット",
       "zh": "烈酒",
       "ru": "рюмка",
-      "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "borrels"
+      "fr": "le coup"
+    }
   },
   {
     "id": "nl_2144",
+    "lang": "nl",
     "lemma": "kok",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "koks",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26863,17 +25262,16 @@ const WORDS_NL_A2 = [
       "ja": "料理人",
       "zh": "厨师",
       "ru": "повар",
-      "fr": "chef"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "koks"
+      "fr": "le chef"
+    }
   },
   {
     "id": "nl_2146",
+    "lang": "nl",
     "lemma": "halloween",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "halloweens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26892,15 +25290,20 @@ const WORDS_NL_A2 = [
       "ru": "Хэллоуин",
       "fr": "Halloween"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "halloweens"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "it": true
+      }
+    }
   },
   {
     "id": "nl_2147",
+    "lang": "nl",
     "lemma": "toestel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "toestellen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26918,15 +25321,12 @@ const WORDS_NL_A2 = [
       "ja": "装置",
       "zh": "设备",
       "ru": "устройство",
-      "fr": "appareil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "toestellen"
+      "fr": "l'appareil"
+    }
   },
   {
     "id": "nl_2150",
+    "lang": "nl",
     "lemma": "stevig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -26947,14 +25347,15 @@ const WORDS_NL_A2 = [
       "zh": "坚固的",
       "ru": "прочный",
       "fr": "robuste"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2151",
+    "lang": "nl",
     "lemma": "hufter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hufters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -26971,17 +25372,15 @@ const WORDS_NL_A2 = [
       "ja": "無礼者",
       "zh": "粗鲁的人",
       "ru": "хам",
-      "fr": "secousse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hufters"
+      "fr": "la secousse"
+    }
   },
   {
     "id": "nl_2152",
+    "lang": "nl",
     "lemma": "dankjewel",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27002,15 +25401,23 @@ const WORDS_NL_A2 = [
       "ru": "спасибо",
       "fr": "merci"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "nl_2153",
+    "lang": "nl",
     "lemma": "rots",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rotsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27027,17 +25434,16 @@ const WORDS_NL_A2 = [
       "ja": "岩",
       "zh": "岩石",
       "ru": "скала",
-      "fr": "roche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rotsen"
+      "fr": "la roche"
+    }
   },
   {
     "id": "nl_2155",
+    "lang": "nl",
     "lemma": "boer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "boeren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27055,17 +25461,16 @@ const WORDS_NL_A2 = [
       "ja": "農夫",
       "zh": "农民",
       "ru": "фермер",
-      "fr": "fermier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "boeren"
+      "fr": "le fermier"
+    }
   },
   {
     "id": "nl_2156",
+    "lang": "nl",
     "lemma": "buurman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "buurmannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27083,17 +25488,15 @@ const WORDS_NL_A2 = [
       "ja": "隣人",
       "zh": "邻居",
       "ru": "сосед",
-      "fr": "voisin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "buurmannen"
+      "fr": "le voisin"
+    }
   },
   {
     "id": "nl_2157",
+    "lang": "nl",
     "lemma": "bouw",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27111,15 +25514,12 @@ const WORDS_NL_A2 = [
       "ja": "建設",
       "zh": "建设",
       "ru": "строительство",
-      "fr": "construction"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la construction"
+    }
   },
   {
     "id": "nl_2158",
+    "lang": "nl",
     "lemma": "versieren",
     "pos": "Verb",
     "cefr": "A2",
@@ -27140,15 +25540,11 @@ const WORDS_NL_A2 = [
       "zh": "装饰",
       "ru": "украшать",
       "fr": "décorer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "versieren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2159",
+    "lang": "nl",
     "lemma": "ontploffen",
     "pos": "Verb",
     "cefr": "A2",
@@ -27168,15 +25564,11 @@ const WORDS_NL_A2 = [
       "zh": "爆炸",
       "ru": "взрываться",
       "fr": "exploser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ontploffen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2161",
+    "lang": "nl",
     "lemma": "dumpen",
     "pos": "Verb",
     "cefr": "A2",
@@ -27196,15 +25588,11 @@ const WORDS_NL_A2 = [
       "zh": "倾销",
       "ru": "демпинговать",
       "fr": "décharge"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dumpen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2162",
+    "lang": "nl",
     "lemma": "gevuld",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27225,14 +25613,15 @@ const WORDS_NL_A2 = [
       "zh": "充满的",
       "ru": "заполненный",
       "fr": "rempli"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2163",
+    "lang": "nl",
     "lemma": "klacht",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "klachten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27250,15 +25639,12 @@ const WORDS_NL_A2 = [
       "ja": "苦情",
       "zh": "投诉",
       "ru": "жалоба",
-      "fr": "plainte"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "klachten"
+      "fr": "la plainte"
+    }
   },
   {
     "id": "nl_2164",
+    "lang": "nl",
     "lemma": "volhouden",
     "pos": "Verb",
     "cefr": "A2",
@@ -27279,15 +25665,11 @@ const WORDS_NL_A2 = [
       "zh": "坚持",
       "ru": "упорствовать",
       "fr": "persévérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "volhouden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2165",
+    "lang": "nl",
     "lemma": "begaan",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27307,14 +25689,14 @@ const WORDS_NL_A2 = [
       "zh": "犯下的",
       "ru": "совершенный",
       "fr": "engagé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2166",
+    "lang": "nl",
     "lemma": "das",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27331,17 +25713,16 @@ const WORDS_NL_A2 = [
       "ja": "アナグマ",
       "zh": "獾",
       "ru": "барсук",
-      "fr": "blaireau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le blaireau"
+    }
   },
   {
     "id": "nl_2167",
+    "lang": "nl",
     "lemma": "informant",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "informanten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27358,15 +25739,12 @@ const WORDS_NL_A2 = [
       "ja": "情報提供者",
       "zh": "告密者",
       "ru": "информатор",
-      "fr": "informateur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "informanten"
+      "fr": "l'informateur"
+    }
   },
   {
     "id": "nl_2168",
+    "lang": "nl",
     "lemma": "verwerken",
     "pos": "Verb",
     "cefr": "A2",
@@ -27386,17 +25764,14 @@ const WORDS_NL_A2 = [
       "zh": "加工",
       "ru": "обрабатывать",
       "fr": "processus"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verwerken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2169",
+    "lang": "nl",
     "lemma": "halt",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27416,15 +25791,19 @@ const WORDS_NL_A2 = [
       "ru": "остановка",
       "fr": "arrêter"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2171",
+    "lang": "nl",
     "lemma": "draad",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "draden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27442,15 +25821,12 @@ const WORDS_NL_A2 = [
       "ja": "糸",
       "zh": "线",
       "ru": "нить",
-      "fr": "fil"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "draden"
+      "fr": "le fil"
+    }
   },
   {
     "id": "nl_2172",
+    "lang": "nl",
     "lemma": "uitgeput",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27471,12 +25847,11 @@ const WORDS_NL_A2 = [
       "zh": "精疲力尽的",
       "ru": "истощенный",
       "fr": "épuisé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2173",
+    "lang": "nl",
     "lemma": "pikken",
     "pos": "Verb",
     "cefr": "A2",
@@ -27496,15 +25871,11 @@ const WORDS_NL_A2 = [
       "zh": "偷",
       "ru": "воровать",
       "fr": "voler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "pikken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2174",
+    "lang": "nl",
     "lemma": "ruimen",
     "pos": "Verb",
     "cefr": "A2",
@@ -27525,15 +25896,11 @@ const WORDS_NL_A2 = [
       "zh": "清理",
       "ru": "убирать",
       "fr": "clair"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ruimen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2177",
+    "lang": "nl",
     "lemma": "haren",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27553,14 +25920,15 @@ const WORDS_NL_A2 = [
       "zh": "毛发的",
       "ru": "волосяной",
       "fr": "chevelu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2179",
+    "lang": "nl",
     "lemma": "schreeuw",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schreeuwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27573,22 +25941,26 @@ const WORDS_NL_A2 = [
       "de": "der Schrei",
       "es": "el grito",
       "nl": "de schreeuw",
-      "it": "l urlo",
+      "it": "l'urlo",
       "pt": "o grito",
       "ja": "叫び",
       "zh": "尖叫",
       "ru": "крик",
       "fr": "crier"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schreeuwen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2180",
+    "lang": "nl",
     "lemma": "zaal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27606,15 +25978,12 @@ const WORDS_NL_A2 = [
       "ja": "ホール",
       "zh": "大厅",
       "ru": "зал",
-      "fr": "hall"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zalen"
+      "fr": "le hall"
+    }
   },
   {
     "id": "nl_2185",
+    "lang": "nl",
     "lemma": "omdraaien",
     "pos": "Verb",
     "cefr": "A2",
@@ -27635,15 +26004,11 @@ const WORDS_NL_A2 = [
       "zh": "翻转",
       "ru": "переворачивать",
       "fr": "retourner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "omdraaien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2186",
+    "lang": "nl",
     "lemma": "besmet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27664,12 +26029,11 @@ const WORDS_NL_A2 = [
       "zh": "感染的",
       "ru": "зараженный",
       "fr": "infecté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2187",
+    "lang": "nl",
     "lemma": "spoedig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27690,14 +26054,15 @@ const WORDS_NL_A2 = [
       "zh": "迅速的",
       "ru": "скорый",
       "fr": "rapide"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2188",
+    "lang": "nl",
     "lemma": "beurs",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "beurzen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27714,17 +26079,16 @@ const WORDS_NL_A2 = [
       "ja": "証券取引所",
       "zh": "证券交易所",
       "ru": "биржа",
-      "fr": "bourse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "beurzen"
+      "fr": "la bourse"
+    }
   },
   {
     "id": "nl_2192",
+    "lang": "nl",
     "lemma": "leerling",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "leerlingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27742,15 +26106,12 @@ const WORDS_NL_A2 = [
       "ja": "生徒",
       "zh": "学生",
       "ru": "ученик",
-      "fr": "étudiant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "leerlingen"
+      "fr": "l'étudiant"
+    }
   },
   {
     "id": "nl_2193",
+    "lang": "nl",
     "lemma": "algemeen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27771,14 +26132,15 @@ const WORDS_NL_A2 = [
       "zh": "一般的",
       "ru": "общий",
       "fr": "général"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2196",
+    "lang": "nl",
     "lemma": "prooi",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "prooien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27795,17 +26157,16 @@ const WORDS_NL_A2 = [
       "ja": "獲物",
       "zh": "猎物",
       "ru": "добыча",
-      "fr": "proie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "prooien"
+      "fr": "la proie"
+    }
   },
   {
     "id": "nl_2197",
+    "lang": "nl",
     "lemma": "uitgang",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "uitgangen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27818,20 +26179,17 @@ const WORDS_NL_A2 = [
       "de": "der Ausgang",
       "es": "la salida",
       "nl": "de uitgang",
-      "it": "l uscita",
+      "it": "l'uscita",
       "pt": "a saída",
       "ja": "出口",
       "zh": "出口",
       "ru": "выход",
-      "fr": "sortie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "uitgangen"
+      "fr": "la sortie"
+    }
   },
   {
     "id": "nl_2198",
+    "lang": "nl",
     "lemma": "klimmen",
     "pos": "Verb",
     "cefr": "A2",
@@ -27852,17 +26210,15 @@ const WORDS_NL_A2 = [
       "zh": "爬",
       "ru": "карабкаться",
       "fr": "grimper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klimmen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2199",
+    "lang": "nl",
     "lemma": "november",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "novembers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27882,15 +26238,19 @@ const WORDS_NL_A2 = [
       "ru": "ноябрь",
       "fr": "novembre"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "novembers"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2201",
+    "lang": "nl",
     "lemma": "voordeur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "voordeuren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -27908,15 +26268,12 @@ const WORDS_NL_A2 = [
       "ja": "玄関",
       "zh": "前门",
       "ru": "входная дверь",
-      "fr": "porte d'entrée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "voordeuren"
+      "fr": "la porte d'entrée"
+    }
   },
   {
     "id": "nl_2202",
+    "lang": "nl",
     "lemma": "slaven",
     "pos": "Verb",
     "cefr": "A2",
@@ -27926,7 +26283,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "노예처럼 일하다",
-      "en": "to slave",
+      "en": "slave",
       "de": "schuften",
       "es": "esclavizar",
       "nl": "slaven",
@@ -27936,15 +26293,11 @@ const WORDS_NL_A2 = [
       "zh": "苦干",
       "ru": "рабствовать",
       "fr": "trimer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "slaven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2203",
+    "lang": "nl",
     "lemma": "regelmatig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -27965,12 +26318,11 @@ const WORDS_NL_A2 = [
       "zh": "定期的",
       "ru": "регулярный",
       "fr": "régulier"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2204",
+    "lang": "nl",
     "lemma": "doorgeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -27981,7 +26333,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "전달하다",
-      "en": "to pass on",
+      "en": "pass on",
       "de": "weitergeben",
       "es": "pasar",
       "nl": "doorgeven",
@@ -27991,17 +26343,14 @@ const WORDS_NL_A2 = [
       "zh": "传递",
       "ru": "передавать",
       "fr": "transmettre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "doorgeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2205",
+    "lang": "nl",
     "lemma": "modder",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28019,17 +26368,16 @@ const WORDS_NL_A2 = [
       "ja": "泥",
       "zh": "泥",
       "ru": "грязь",
-      "fr": "boue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la boue"
+    }
   },
   {
     "id": "nl_2206",
+    "lang": "nl",
     "lemma": "kroon",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kronen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28046,17 +26394,16 @@ const WORDS_NL_A2 = [
       "ja": "王冠",
       "zh": "王冠",
       "ru": "корона",
-      "fr": "couronne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kronen"
+      "fr": "la couronne"
+    }
   },
   {
     "id": "nl_2207",
+    "lang": "nl",
     "lemma": "maffia",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "maffia's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28073,15 +26420,12 @@ const WORDS_NL_A2 = [
       "ja": "マフィア",
       "zh": "黑手党",
       "ru": "мафия",
-      "fr": "mafia"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "maffia's"
+      "fr": "la mafia"
+    }
   },
   {
     "id": "nl_2208",
+    "lang": "nl",
     "lemma": "verward",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28102,12 +26446,11 @@ const WORDS_NL_A2 = [
       "zh": "困惑的",
       "ru": "растерянный",
       "fr": "confus"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2209",
+    "lang": "nl",
     "lemma": "nuchter",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28128,12 +26471,11 @@ const WORDS_NL_A2 = [
       "zh": "清醒的",
       "ru": "трезвый",
       "fr": "sobre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2210",
+    "lang": "nl",
     "lemma": "typisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28154,14 +26496,15 @@ const WORDS_NL_A2 = [
       "zh": "典型的",
       "ru": "типичный",
       "fr": "typique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2211",
+    "lang": "nl",
     "lemma": "rechtszaal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rechtszalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28178,15 +26521,12 @@ const WORDS_NL_A2 = [
       "ja": "法廷",
       "zh": "法庭",
       "ru": "зал суда",
-      "fr": "salle d'audience"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rechtszalen"
+      "fr": "la salle d'audience"
+    }
   },
   {
     "id": "nl_2212",
+    "lang": "nl",
     "lemma": "overdreven",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28207,12 +26547,11 @@ const WORDS_NL_A2 = [
       "zh": "夸张的",
       "ru": "преувеличенный",
       "fr": "exagéré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2213",
+    "lang": "nl",
     "lemma": "beu",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28233,12 +26572,11 @@ const WORDS_NL_A2 = [
       "zh": "厌倦的",
       "ru": "надоевший",
       "fr": "lassé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2214",
+    "lang": "nl",
     "lemma": "vergelijken",
     "pos": "Verb",
     "cefr": "A2",
@@ -28249,7 +26587,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "비교하다",
-      "en": "to compare",
+      "en": "compare",
       "de": "vergleichen",
       "es": "comparar",
       "nl": "vergelijken",
@@ -28259,17 +26597,15 @@ const WORDS_NL_A2 = [
       "zh": "比较",
       "ru": "сравнивать",
       "fr": "comparer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "vergelijken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2215",
+    "lang": "nl",
     "lemma": "telefoonnummer",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "telefoonnummers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28287,17 +26623,16 @@ const WORDS_NL_A2 = [
       "ja": "電話番号",
       "zh": "电话号码",
       "ru": "номер телефона",
-      "fr": "numéro de téléphone"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "telefoonnummers"
+      "fr": "le numéro de téléphone"
+    }
   },
   {
     "id": "nl_2216",
+    "lang": "nl",
     "lemma": "zeep",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zepen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28315,17 +26650,16 @@ const WORDS_NL_A2 = [
       "ja": "石鹸",
       "zh": "肥皂",
       "ru": "мыло",
-      "fr": "savon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zepen"
+      "fr": "le savon"
+    }
   },
   {
     "id": "nl_2217",
+    "lang": "nl",
     "lemma": "accent",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "accenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28342,15 +26676,12 @@ const WORDS_NL_A2 = [
       "ja": "アクセント",
       "zh": "口音",
       "ru": "акцент",
-      "fr": "accent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "accenten"
+      "fr": "l'accent"
+    }
   },
   {
     "id": "nl_2218",
+    "lang": "nl",
     "lemma": "krachtig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28370,12 +26701,11 @@ const WORDS_NL_A2 = [
       "zh": "强大的",
       "ru": "мощный",
       "fr": "puissant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2219",
+    "lang": "nl",
     "lemma": "falen",
     "pos": "Verb",
     "cefr": "A2",
@@ -28386,7 +26716,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "실패하다",
-      "en": "to fail",
+      "en": "fail",
       "de": "scheitern",
       "es": "fallar",
       "nl": "falen",
@@ -28396,17 +26726,15 @@ const WORDS_NL_A2 = [
       "zh": "失败",
       "ru": "терпеть неудачу",
       "fr": "échouer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "falen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2220",
+    "lang": "nl",
     "lemma": "congres",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "congressen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28423,15 +26751,12 @@ const WORDS_NL_A2 = [
       "ja": "会議",
       "zh": "大会",
       "ru": "конгресс",
-      "fr": "congrès"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "congressen"
+      "fr": "le congrès"
+    }
   },
   {
     "id": "nl_2222",
+    "lang": "nl",
     "lemma": "schakelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -28442,7 +26767,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "전환하다",
-      "en": "to switch",
+      "en": "switch",
       "de": "schalten",
       "es": "cambiar",
       "nl": "schakelen",
@@ -28452,17 +26777,14 @@ const WORDS_NL_A2 = [
       "zh": "切换",
       "ru": "переключать",
       "fr": "changer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schakelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2223",
+    "lang": "nl",
     "lemma": "gestoorde",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28479,17 +26801,16 @@ const WORDS_NL_A2 = [
       "ja": "精神病患者",
       "zh": "精神病患者",
       "ru": "душевнобольной",
-      "fr": "déséquilibré"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le déséquilibré"
+    }
   },
   {
     "id": "nl_2224",
+    "lang": "nl",
     "lemma": "jungle",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jungles",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28506,15 +26827,12 @@ const WORDS_NL_A2 = [
       "ja": "ジャングル",
       "zh": "丛林",
       "ru": "джунгли",
-      "fr": "jungle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jungles"
+      "fr": "la jungle"
+    }
   },
   {
     "id": "nl_2225",
+    "lang": "nl",
     "lemma": "juwelen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28534,14 +26852,15 @@ const WORDS_NL_A2 = [
       "zh": "镶有珠宝的",
       "ru": "украшенный драгоценностями",
       "fr": "incrusté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2226",
+    "lang": "nl",
     "lemma": "riem",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "riemen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28559,15 +26878,12 @@ const WORDS_NL_A2 = [
       "ja": "ベルト",
       "zh": "腰带",
       "ru": "ремень",
-      "fr": "ceinture"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "riemen"
+      "fr": "la ceinture"
+    }
   },
   {
     "id": "nl_2227",
+    "lang": "nl",
     "lemma": "oproepen",
     "pos": "Verb",
     "cefr": "A2",
@@ -28588,17 +26904,15 @@ const WORDS_NL_A2 = [
       "zh": "召唤",
       "ru": "вызывать",
       "fr": "convoquer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "oproepen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2228",
+    "lang": "nl",
     "lemma": "schoen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schoenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28616,15 +26930,12 @@ const WORDS_NL_A2 = [
       "ja": "靴",
       "zh": "鞋",
       "ru": "туфля",
-      "fr": "chaussure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schoenen"
+      "fr": "la chaussure"
+    }
   },
   {
     "id": "nl_2229",
+    "lang": "nl",
     "lemma": "herhalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -28645,15 +26956,11 @@ const WORDS_NL_A2 = [
       "zh": "重复",
       "ru": "повторять",
       "fr": "répéter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "herhalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2230",
+    "lang": "nl",
     "lemma": "exact",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28673,14 +26980,15 @@ const WORDS_NL_A2 = [
       "zh": "精确的",
       "ru": "точный",
       "fr": "exact"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2231",
+    "lang": "nl",
     "lemma": "caesar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "caesars",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28699,15 +27007,19 @@ const WORDS_NL_A2 = [
       "ru": "Цезарь",
       "fr": "César"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "caesars"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2232",
+    "lang": "nl",
     "lemma": "avenue",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "avenues",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28725,17 +27037,16 @@ const WORDS_NL_A2 = [
       "ja": "大通り",
       "zh": "大道",
       "ru": "проспект",
-      "fr": "avenue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "avenues"
+      "fr": "l'avenue"
+    }
   },
   {
     "id": "nl_2233",
+    "lang": "nl",
     "lemma": "troost",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "—",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28753,15 +27064,12 @@ const WORDS_NL_A2 = [
       "ja": "慰め",
       "zh": "安慰",
       "ru": "утешение",
-      "fr": "confort"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "—"
+      "fr": "le confort"
+    }
   },
   {
     "id": "nl_2234",
+    "lang": "nl",
     "lemma": "hakken",
     "pos": "Verb",
     "cefr": "A2",
@@ -28782,17 +27090,15 @@ const WORDS_NL_A2 = [
       "zh": "砍",
       "ru": "рубить",
       "fr": "couper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "hakken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2235",
+    "lang": "nl",
     "lemma": "oktober",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oktobers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28812,13 +27118,15 @@ const WORDS_NL_A2 = [
       "ru": "октябрь",
       "fr": "octobre"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oktobers"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2236",
+    "lang": "nl",
     "lemma": "uniek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28838,12 +27146,11 @@ const WORDS_NL_A2 = [
       "zh": "独特的",
       "ru": "уникальный",
       "fr": "unique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2237",
+    "lang": "nl",
     "lemma": "professioneel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -28864,14 +27171,15 @@ const WORDS_NL_A2 = [
       "zh": "专业的",
       "ru": "профессиональный",
       "fr": "professionnel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2238",
+    "lang": "nl",
     "lemma": "duw",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "duwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28891,15 +27199,18 @@ const WORDS_NL_A2 = [
       "ru": "толчок",
       "fr": "pousser"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "duwen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2239",
+    "lang": "nl",
     "lemma": "cocaïne",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28916,15 +27227,12 @@ const WORDS_NL_A2 = [
       "ja": "コカイン",
       "zh": "可卡因",
       "ru": "кокаин",
-      "fr": "cocaïne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la cocaïne"
+    }
   },
   {
     "id": "nl_2240",
+    "lang": "nl",
     "lemma": "opsporen",
     "pos": "Verb",
     "cefr": "A2",
@@ -28944,17 +27252,14 @@ const WORDS_NL_A2 = [
       "zh": "追踪",
       "ru": "выслеживать",
       "fr": "trace"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opsporen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2241",
+    "lang": "nl",
     "lemma": "lek",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -28972,15 +27277,12 @@ const WORDS_NL_A2 = [
       "ja": "漏れ",
       "zh": "泄漏",
       "ru": "утечка",
-      "fr": "fuite"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la fuite"
+    }
   },
   {
     "id": "nl_2242",
+    "lang": "nl",
     "lemma": "lek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29001,14 +27303,15 @@ const WORDS_NL_A2 = [
       "zh": "漏水的",
       "ru": "дырявый",
       "fr": "fuyant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2243",
+    "lang": "nl",
     "lemma": "achternaam",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "achternamen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29026,15 +27329,12 @@ const WORDS_NL_A2 = [
       "ja": "姓",
       "zh": "姓",
       "ru": "фамилия",
-      "fr": "patronyme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "achternamen"
+      "fr": "le patronyme"
+    }
   },
   {
     "id": "nl_2244",
+    "lang": "nl",
     "lemma": "levenslang",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29054,14 +27354,15 @@ const WORDS_NL_A2 = [
       "zh": "终身的",
       "ru": "пожизненный",
       "fr": "à vie"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2245",
+    "lang": "nl",
     "lemma": "bond",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "bonden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29078,17 +27379,16 @@ const WORDS_NL_A2 = [
       "ja": "連盟",
       "zh": "联盟",
       "ru": "союз",
-      "fr": "ligue"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "bonden"
+      "fr": "la ligue"
+    }
   },
   {
     "id": "nl_2246",
+    "lang": "nl",
     "lemma": "turner",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "turners",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29106,17 +27406,16 @@ const WORDS_NL_A2 = [
       "ja": "体操選手",
       "zh": "体操运动员",
       "ru": "гимнаст",
-      "fr": "gymnaste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "turners"
+      "fr": "le gymnaste"
+    }
   },
   {
     "id": "nl_2247",
+    "lang": "nl",
     "lemma": "parkeerplaats",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "parkeerplaatsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29134,15 +27433,12 @@ const WORDS_NL_A2 = [
       "ja": "駐車スペース",
       "zh": "停车位",
       "ru": "парковка",
-      "fr": "place"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "parkeerplaatsen"
+      "fr": "la place"
+    }
   },
   {
     "id": "nl_2248",
+    "lang": "nl",
     "lemma": "grazen",
     "pos": "Verb",
     "cefr": "A2",
@@ -29162,15 +27458,11 @@ const WORDS_NL_A2 = [
       "zh": "吃草",
       "ru": "пастись",
       "fr": "paître"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "grazen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2249",
+    "lang": "nl",
     "lemma": "verdragen",
     "pos": "Verb",
     "cefr": "A2",
@@ -29191,15 +27483,11 @@ const WORDS_NL_A2 = [
       "zh": "忍受",
       "ru": "терпеть",
       "fr": "tolérer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verdragen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2250",
+    "lang": "nl",
     "lemma": "vrijwillig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29220,12 +27508,11 @@ const WORDS_NL_A2 = [
       "zh": "自愿的",
       "ru": "добровольный",
       "fr": "volontaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2251",
+    "lang": "nl",
     "lemma": "lets",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29245,12 +27532,11 @@ const WORDS_NL_A2 = [
       "zh": "拉脱维亚的",
       "ru": "латышский",
       "fr": "letton"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2252",
+    "lang": "nl",
     "lemma": "aanvaard",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29271,12 +27557,11 @@ const WORDS_NL_A2 = [
       "zh": "被接受的",
       "ru": "принятый",
       "fr": "accepté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2253",
+    "lang": "nl",
     "lemma": "kalmeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -29297,17 +27582,15 @@ const WORDS_NL_A2 = [
       "zh": "使平静",
       "ru": "успокаивать",
       "fr": "calmer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kalmeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2254",
+    "lang": "nl",
     "lemma": "tijger",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tijgers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29325,17 +27608,16 @@ const WORDS_NL_A2 = [
       "ja": "虎",
       "zh": "老虎",
       "ru": "тигр",
-      "fr": "tigre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tijgers"
+      "fr": "le tigre"
+    }
   },
   {
     "id": "nl_2255",
+    "lang": "nl",
     "lemma": "monsieur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "messieurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29355,15 +27637,19 @@ const WORDS_NL_A2 = [
       "ru": "господин",
       "fr": "monsieur"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "messieurs"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2256",
+    "lang": "nl",
     "lemma": "klop",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kloppen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29383,15 +27669,18 @@ const WORDS_NL_A2 = [
       "ru": "стук",
       "fr": "frapper"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kloppen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2257",
+    "lang": "nl",
     "lemma": "stille",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29408,15 +27697,12 @@ const WORDS_NL_A2 = [
       "ja": "私服警官",
       "zh": "便衣警察",
       "ru": "тайный агент",
-      "fr": "policier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le policier"
+    }
   },
   {
     "id": "nl_2258",
+    "lang": "nl",
     "lemma": "spaans",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29437,14 +27723,15 @@ const WORDS_NL_A2 = [
       "zh": "西班牙的",
       "ru": "испанский",
       "fr": "espagnol"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2259",
+    "lang": "nl",
     "lemma": "pet",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "petten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29462,15 +27749,12 @@ const WORDS_NL_A2 = [
       "ja": "帽子",
       "zh": "帽子",
       "ru": "кепка",
-      "fr": "casquette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "petten"
+      "fr": "la casquette"
+    }
   },
   {
     "id": "nl_2260",
+    "lang": "nl",
     "lemma": "pet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29490,14 +27774,15 @@ const WORDS_NL_A2 = [
       "zh": "很差的",
       "ru": "очень плохой",
       "fr": "mauvais"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2261",
+    "lang": "nl",
     "lemma": "kleintje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "(kleinen)",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29515,17 +27800,16 @@ const WORDS_NL_A2 = [
       "ja": "小さな子",
       "zh": "小家伙",
       "ru": "малыш",
-      "fr": "petit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "(kleinen)"
+      "fr": "le petit"
+    }
   },
   {
     "id": "nl_2262",
+    "lang": "nl",
     "lemma": "kwartier",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kwartieren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29543,15 +27827,12 @@ const WORDS_NL_A2 = [
       "ja": "15分",
       "zh": "一刻钟",
       "ru": "четверть часа",
-      "fr": "quart d'heure"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kwartieren"
+      "fr": "le quart d'heure"
+    }
   },
   {
     "id": "nl_2263",
+    "lang": "nl",
     "lemma": "amerikaans",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29572,14 +27853,15 @@ const WORDS_NL_A2 = [
       "zh": "美国的",
       "ru": "американский",
       "fr": "américain"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2264",
+    "lang": "nl",
     "lemma": "verblijf",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verblijven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29599,15 +27881,19 @@ const WORDS_NL_A2 = [
       "ru": "пребывание",
       "fr": "rester"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verblijven"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2265",
+    "lang": "nl",
     "lemma": "script",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "scripts",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29624,15 +27910,12 @@ const WORDS_NL_A2 = [
       "ja": "台本",
       "zh": "剧本",
       "ru": "сценарий",
-      "fr": "scénario"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "scripts"
+      "fr": "le scénario"
+    }
   },
   {
     "id": "nl_2266",
+    "lang": "nl",
     "lemma": "innemen",
     "pos": "Verb",
     "cefr": "A2",
@@ -29653,17 +27936,15 @@ const WORDS_NL_A2 = [
       "zh": "占据",
       "ru": "занимать",
       "fr": "accueillir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "innemen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2267",
+    "lang": "nl",
     "lemma": "tekort",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "tekorten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29681,15 +27962,12 @@ const WORDS_NL_A2 = [
       "ja": "不足",
       "zh": "短缺",
       "ru": "дефицит",
-      "fr": "pénurie"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "tekorten"
+      "fr": "la pénurie"
+    }
   },
   {
     "id": "nl_2268",
+    "lang": "nl",
     "lemma": "tof",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29710,14 +27988,15 @@ const WORDS_NL_A2 = [
       "zh": "很棒的",
       "ru": "классный",
       "fr": "grand"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2269",
+    "lang": "nl",
     "lemma": "streng",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "strengen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29734,15 +28013,12 @@ const WORDS_NL_A2 = [
       "ja": "撚り糸",
       "zh": "股",
       "ru": "прядь",
-      "fr": "brin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "strengen"
+      "fr": "le brin"
+    }
   },
   {
     "id": "nl_2270",
+    "lang": "nl",
     "lemma": "streng",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29763,14 +28039,15 @@ const WORDS_NL_A2 = [
       "zh": "严格的",
       "ru": "строгий",
       "fr": "strict"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2271",
+    "lang": "nl",
     "lemma": "clown",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "clowns",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29787,17 +28064,16 @@ const WORDS_NL_A2 = [
       "ja": "ピエロ",
       "zh": "小丑",
       "ru": "клоун",
-      "fr": "clown"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "clowns"
+      "fr": "le clown"
+    }
   },
   {
     "id": "nl_2273",
+    "lang": "nl",
     "lemma": "tiener",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tieners",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29815,17 +28091,16 @@ const WORDS_NL_A2 = [
       "ja": "ティーンエイジャー",
       "zh": "青少年",
       "ru": "подросток",
-      "fr": "adolescent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tieners"
+      "fr": "l'adolescent"
+    }
   },
   {
     "id": "nl_2274",
+    "lang": "nl",
     "lemma": "wijf",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "wijven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29843,15 +28118,12 @@ const WORDS_NL_A2 = [
       "ja": "女",
       "zh": "女人",
       "ru": "женщина",
-      "fr": "femme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "wijven"
+      "fr": "la femme"
+    }
   },
   {
     "id": "nl_2275",
+    "lang": "nl",
     "lemma": "drijven",
     "pos": "Verb",
     "cefr": "A2",
@@ -29872,15 +28144,11 @@ const WORDS_NL_A2 = [
       "zh": "漂浮",
       "ru": "плавать",
       "fr": "flotter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "drijven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2276",
+    "lang": "nl",
     "lemma": "plots",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -29901,12 +28169,11 @@ const WORDS_NL_A2 = [
       "zh": "突然的",
       "ru": "внезапный",
       "fr": "soudain"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2277",
+    "lang": "nl",
     "lemma": "respecteren",
     "pos": "Verb",
     "cefr": "A2",
@@ -29927,17 +28194,15 @@ const WORDS_NL_A2 = [
       "zh": "尊重",
       "ru": "уважать",
       "fr": "respect"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "respecteren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2278",
+    "lang": "nl",
     "lemma": "beleid",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "beleidjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29955,17 +28220,16 @@ const WORDS_NL_A2 = [
       "ja": "政策",
       "zh": "政策",
       "ru": "политика",
-      "fr": "politique"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "beleidjes"
+      "fr": "la politique"
+    }
   },
   {
     "id": "nl_2279",
+    "lang": "nl",
     "lemma": "detail",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "details",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -29983,15 +28247,12 @@ const WORDS_NL_A2 = [
       "ja": "詳細",
       "zh": "细节",
       "ru": "деталь",
-      "fr": "détail"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "details"
+      "fr": "le détail"
+    }
   },
   {
     "id": "nl_2280",
+    "lang": "nl",
     "lemma": "achterhalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30012,15 +28273,11 @@ const WORDS_NL_A2 = [
       "zh": "查明",
       "ru": "выяснить",
       "fr": "découvrir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "achterhalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2281",
+    "lang": "nl",
     "lemma": "voortdurend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30041,12 +28298,11 @@ const WORDS_NL_A2 = [
       "zh": "持续的",
       "ru": "постоянный",
       "fr": "continu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2282",
+    "lang": "nl",
     "lemma": "scholen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30068,15 +28324,11 @@ const WORDS_NL_A2 = [
       "zh": "训练",
       "ru": "обучать",
       "fr": "train"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scholen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2283",
+    "lang": "nl",
     "lemma": "traceren",
     "pos": "Verb",
     "cefr": "A2",
@@ -30097,17 +28349,14 @@ const WORDS_NL_A2 = [
       "zh": "追踪",
       "ru": "отслеживать",
       "fr": "trace"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "traceren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2284",
+    "lang": "nl",
     "lemma": "praktijk",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30125,17 +28374,16 @@ const WORDS_NL_A2 = [
       "ja": "診療所",
       "zh": "诊所",
       "ru": "практика",
-      "fr": "pratique"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la pratique"
+    }
   },
   {
     "id": "nl_2285",
+    "lang": "nl",
     "lemma": "bewijsmateriaal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "bewijsmaterialen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30153,17 +28401,16 @@ const WORDS_NL_A2 = [
       "ja": "証拠",
       "zh": "证据",
       "ru": "доказательство",
-      "fr": "preuve"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "bewijsmaterialen"
+      "fr": "la preuve"
+    }
   },
   {
     "id": "nl_2286",
+    "lang": "nl",
     "lemma": "smeris",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "smerissen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30180,15 +28427,12 @@ const WORDS_NL_A2 = [
       "ja": "警官",
       "zh": "警察",
       "ru": "коп",
-      "fr": "flic"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "smerissen"
+      "fr": "le flic"
+    }
   },
   {
     "id": "nl_2287",
+    "lang": "nl",
     "lemma": "seksueel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30209,12 +28453,11 @@ const WORDS_NL_A2 = [
       "zh": "性",
       "ru": "сексуальный",
       "fr": "sexuel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2288",
+    "lang": "nl",
     "lemma": "klappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30235,17 +28478,15 @@ const WORDS_NL_A2 = [
       "zh": "鼓掌",
       "ru": "хлопать",
       "fr": "applaudir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2289",
+    "lang": "nl",
     "lemma": "troon",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tronen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30262,15 +28503,12 @@ const WORDS_NL_A2 = [
       "ja": "王座",
       "zh": "王座",
       "ru": "трон",
-      "fr": "trône"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tronen"
+      "fr": "le trône"
+    }
   },
   {
     "id": "nl_2290",
+    "lang": "nl",
     "lemma": "verrassen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30291,15 +28529,11 @@ const WORDS_NL_A2 = [
       "zh": "惊喜",
       "ru": "удивлять",
       "fr": "surprise"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verrassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2291",
+    "lang": "nl",
     "lemma": "warren",
     "pos": "Verb",
     "cefr": "A2",
@@ -30320,17 +28554,15 @@ const WORDS_NL_A2 = [
       "zh": "混淆",
       "ru": "путать",
       "fr": "confondre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "warren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2292",
+    "lang": "nl",
     "lemma": "se",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "se's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30347,15 +28579,12 @@ const WORDS_NL_A2 = [
       "ja": "学校試験",
       "zh": "校内考试",
       "ru": "школьный экзамен",
-      "fr": "examen"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "se's"
+      "fr": "l'examen"
+    }
   },
   {
     "id": "nl_2293",
+    "lang": "nl",
     "lemma": "verbeteren",
     "pos": "Verb",
     "cefr": "A2",
@@ -30376,17 +28605,15 @@ const WORDS_NL_A2 = [
       "zh": "改善",
       "ru": "улучшать",
       "fr": "améliorer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verbeteren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2294",
+    "lang": "nl",
     "lemma": "trauma",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "trauma's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30404,17 +28631,16 @@ const WORDS_NL_A2 = [
       "ja": "トラウマ",
       "zh": "创伤",
       "ru": "травма",
-      "fr": "traumatisme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "trauma's"
+      "fr": "le traumatisme"
+    }
   },
   {
     "id": "nl_2295",
+    "lang": "nl",
     "lemma": "cowboy",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "cowboys",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30431,17 +28657,16 @@ const WORDS_NL_A2 = [
       "ja": "カウボーイ",
       "zh": "牛仔",
       "ru": "ковбой",
-      "fr": "cowboy"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "cowboys"
+      "fr": "le cowboy"
+    }
   },
   {
     "id": "nl_2296",
+    "lang": "nl",
     "lemma": "salaris",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "salarissen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30459,17 +28684,16 @@ const WORDS_NL_A2 = [
       "ja": "給与",
       "zh": "工资",
       "ru": "зарплата",
-      "fr": "salaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "salarissen"
+      "fr": "le salaire"
+    }
   },
   {
     "id": "nl_2297",
+    "lang": "nl",
     "lemma": "bruin",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "bruinen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30487,15 +28711,12 @@ const WORDS_NL_A2 = [
       "ja": "茶色",
       "zh": "棕色",
       "ru": "коричневый",
-      "fr": "brun"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "bruinen"
+      "fr": "le brun"
+    }
   },
   {
     "id": "nl_2298",
+    "lang": "nl",
     "lemma": "bruin",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30516,12 +28737,11 @@ const WORDS_NL_A2 = [
       "zh": "棕色的",
       "ru": "коричневый",
       "fr": "brun"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2299",
+    "lang": "nl",
     "lemma": "blank",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30542,14 +28762,15 @@ const WORDS_NL_A2 = [
       "zh": "白色的",
       "ru": "белый",
       "fr": "blanc"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2300",
+    "lang": "nl",
     "lemma": "lamp",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lampen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30567,17 +28788,16 @@ const WORDS_NL_A2 = [
       "ja": "ランプ",
       "zh": "灯",
       "ru": "лампа",
-      "fr": "lampe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lampen"
+      "fr": "la lampe"
+    }
   },
   {
     "id": "nl_2301",
+    "lang": "nl",
     "lemma": "district",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "districten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30596,17 +28816,16 @@ const WORDS_NL_A2 = [
       "ja": "地区",
       "zh": "区域",
       "ru": "район",
-      "fr": "district"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "districten"
+      "fr": "le district"
+    }
   },
   {
     "id": "nl_2302",
+    "lang": "nl",
     "lemma": "arrest",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "arresten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30626,13 +28845,15 @@ const WORDS_NL_A2 = [
       "ru": "арест",
       "fr": "arrêter"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "arresten"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2303",
+    "lang": "nl",
     "lemma": "stoer",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30653,12 +28874,11 @@ const WORDS_NL_A2 = [
       "zh": "坚韧的",
       "ru": "крутой",
       "fr": "dur"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2304",
+    "lang": "nl",
     "lemma": "banen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30680,17 +28900,15 @@ const WORDS_NL_A2 = [
       "zh": "开辟",
       "ru": "прокладывать",
       "fr": "forger"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "banen",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2305",
+    "lang": "nl",
     "lemma": "lente",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lentes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30708,15 +28926,12 @@ const WORDS_NL_A2 = [
       "ja": "春",
       "zh": "春天",
       "ru": "весна",
-      "fr": "printemps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lentes"
+      "fr": "le printemps"
+    }
   },
   {
     "id": "nl_2306",
+    "lang": "nl",
     "lemma": "geniaal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30737,12 +28952,11 @@ const WORDS_NL_A2 = [
       "zh": "天才的",
       "ru": "гениальный",
       "fr": "brillant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2307",
+    "lang": "nl",
     "lemma": "beëindigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -30763,15 +28977,11 @@ const WORDS_NL_A2 = [
       "zh": "结束",
       "ru": "завершать",
       "fr": "finition"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beëindigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2308",
+    "lang": "nl",
     "lemma": "dekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -30792,15 +29002,11 @@ const WORDS_NL_A2 = [
       "zh": "覆盖",
       "ru": "покрывать",
       "fr": "couverture"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2309",
+    "lang": "nl",
     "lemma": "onbeleefd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30821,12 +29027,11 @@ const WORDS_NL_A2 = [
       "zh": "无礼的",
       "ru": "грубый",
       "fr": "impoli"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2311",
+    "lang": "nl",
     "lemma": "bestand",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30847,14 +29052,14 @@ const WORDS_NL_A2 = [
       "zh": "耐受的",
       "ru": "устойчивый",
       "fr": "résistant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2312",
+    "lang": "nl",
     "lemma": "radar",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30872,17 +29077,16 @@ const WORDS_NL_A2 = [
       "ja": "レーダー",
       "zh": "雷达",
       "ru": "радар",
-      "fr": "radar"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le radar"
+    }
   },
   {
     "id": "nl_2313",
+    "lang": "nl",
     "lemma": "extreem",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "extremen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30900,15 +29104,12 @@ const WORDS_NL_A2 = [
       "ja": "極端",
       "zh": "极端",
       "ru": "крайность",
-      "fr": "extrême"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "extremen"
+      "fr": "l'extrême"
+    }
   },
   {
     "id": "nl_2314",
+    "lang": "nl",
     "lemma": "extreem",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30929,14 +29130,15 @@ const WORDS_NL_A2 = [
       "zh": "极端的",
       "ru": "экстремальный",
       "fr": "extrême"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2315",
+    "lang": "nl",
     "lemma": "militair",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "militairen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -30954,15 +29156,12 @@ const WORDS_NL_A2 = [
       "ja": "兵士",
       "zh": "士兵",
       "ru": "солдат",
-      "fr": "soldat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "militairen"
+      "fr": "le soldat"
+    }
   },
   {
     "id": "nl_2316",
+    "lang": "nl",
     "lemma": "militair",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -30983,14 +29182,15 @@ const WORDS_NL_A2 = [
       "zh": "军事的",
       "ru": "военный",
       "fr": "militaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2317",
+    "lang": "nl",
     "lemma": "bod",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "(biedingen) *",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31008,15 +29208,12 @@ const WORDS_NL_A2 = [
       "ja": "提案",
       "zh": "出价",
       "ru": "предложение",
-      "fr": "offre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "(biedingen) *"
+      "fr": "l'offre"
+    }
   },
   {
     "id": "nl_2318",
+    "lang": "nl",
     "lemma": "gebakken",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31037,14 +29234,15 @@ const WORDS_NL_A2 = [
       "zh": "烤的",
       "ru": "запеченный",
       "fr": "cuit"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2319",
+    "lang": "nl",
     "lemma": "stapel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stapels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31062,15 +29260,12 @@ const WORDS_NL_A2 = [
       "ja": "山",
       "zh": "堆",
       "ru": "стопка",
-      "fr": "pile"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stapels"
+      "fr": "la pile"
+    }
   },
   {
     "id": "nl_2320",
+    "lang": "nl",
     "lemma": "stapel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31091,12 +29286,11 @@ const WORDS_NL_A2 = [
       "zh": "疯狂的",
       "ru": "сумасшедший",
       "fr": "fou"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2321",
+    "lang": "nl",
     "lemma": "misselijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31117,14 +29311,15 @@ const WORDS_NL_A2 = [
       "zh": "恶心的",
       "ru": "тошнотворный",
       "fr": "nauséeux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2322",
+    "lang": "nl",
     "lemma": "front",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "fronten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31142,17 +29337,16 @@ const WORDS_NL_A2 = [
       "ja": "前面",
       "zh": "前线",
       "ru": "фронт",
-      "fr": "avant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "fronten"
+      "fr": "l'avant"
+    }
   },
   {
     "id": "nl_2324",
+    "lang": "nl",
     "lemma": "plaat",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "platen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31170,17 +29364,16 @@ const WORDS_NL_A2 = [
       "ja": "板",
       "zh": "板",
       "ru": "плита",
-      "fr": "plaque"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "platen"
+      "fr": "la plaque"
+    }
   },
   {
     "id": "nl_2325",
+    "lang": "nl",
     "lemma": "rob",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "robben",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31198,17 +29391,16 @@ const WORDS_NL_A2 = [
       "ja": "アザラシ",
       "zh": "海豹",
       "ru": "тюлень",
-      "fr": "sceau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "robben"
+      "fr": "le sceau"
+    }
   },
   {
     "id": "nl_2326",
+    "lang": "nl",
     "lemma": "paus",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pausen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31226,15 +29418,12 @@ const WORDS_NL_A2 = [
       "ja": "教皇",
       "zh": "教皇",
       "ru": "папа",
-      "fr": "pape"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pausen"
+      "fr": "le pape"
+    }
   },
   {
     "id": "nl_2327",
+    "lang": "nl",
     "lemma": "beschuldigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -31255,15 +29444,11 @@ const WORDS_NL_A2 = [
       "zh": "指责",
       "ru": "обвинять",
       "fr": "accuser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beschuldigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2328",
+    "lang": "nl",
     "lemma": "treffen",
     "pos": "Verb",
     "cefr": "A2",
@@ -31284,15 +29469,11 @@ const WORDS_NL_A2 = [
       "zh": "击中",
       "ru": "попадать",
       "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "treffen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2329",
+    "lang": "nl",
     "lemma": "succesvol",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31313,14 +29494,15 @@ const WORDS_NL_A2 = [
       "zh": "成功的",
       "ru": "успешный",
       "fr": "réussi"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2330",
+    "lang": "nl",
     "lemma": "terrorist",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "terroristen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31338,15 +29520,12 @@ const WORDS_NL_A2 = [
       "ja": "テロリスト",
       "zh": "恐怖分子",
       "ru": "террорист",
-      "fr": "terroriste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "terroristen"
+      "fr": "le terroriste"
+    }
   },
   {
     "id": "nl_2331",
+    "lang": "nl",
     "lemma": "heksen",
     "pos": "Verb",
     "cefr": "A2",
@@ -31356,7 +29535,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "마법을 걸다",
-      "en": "to bewitch",
+      "en": "bewitch",
       "de": "hexen",
       "es": "hechizar",
       "nl": "heksen",
@@ -31366,17 +29545,15 @@ const WORDS_NL_A2 = [
       "zh": "施魔法",
       "ru": "колдовать",
       "fr": "ensorceler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "heksen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2332",
+    "lang": "nl",
     "lemma": "politiebureau",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "politiebureaus",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31395,15 +29572,12 @@ const WORDS_NL_A2 = [
       "ja": "警察署",
       "zh": "警察局",
       "ru": "полицейский участок",
-      "fr": "commissariat"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "politiebureaus"
+      "fr": "le commissariat"
+    }
   },
   {
     "id": "nl_2333",
+    "lang": "nl",
     "lemma": "beroven",
     "pos": "Verb",
     "cefr": "A2",
@@ -31413,7 +29587,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "강탈하다",
-      "en": "to rob",
+      "en": "rob",
       "de": "rauben",
       "es": "robar",
       "nl": "beroven",
@@ -31423,17 +29597,15 @@ const WORDS_NL_A2 = [
       "zh": "抢劫",
       "ru": "грабить",
       "fr": "voler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beroven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2334",
+    "lang": "nl",
     "lemma": "schaal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31451,15 +29623,12 @@ const WORDS_NL_A2 = [
       "ja": "鉢",
       "zh": "碗",
       "ru": "миска",
-      "fr": "bol"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schalen"
+      "fr": "le bol"
+    }
   },
   {
     "id": "nl_2335",
+    "lang": "nl",
     "lemma": "verschijnen",
     "pos": "Verb",
     "cefr": "A2",
@@ -31470,7 +29639,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "나타나다",
-      "en": "to appear",
+      "en": "appear",
       "de": "erscheinen",
       "es": "aparecer",
       "nl": "verschijnen",
@@ -31480,17 +29649,15 @@ const WORDS_NL_A2 = [
       "zh": "出现",
       "ru": "появляться",
       "fr": "apparaître"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verschijnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2337",
+    "lang": "nl",
     "lemma": "maart",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "maarten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31510,15 +29677,22 @@ const WORDS_NL_A2 = [
       "ru": "март",
       "fr": "mars"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "maarten"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true,
+        "es": true,
+        "it": true,
+        "pt": true
+      }
+    }
   },
   {
     "id": "nl_2338",
+    "lang": "nl",
     "lemma": "schok",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schokken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31535,15 +29709,12 @@ const WORDS_NL_A2 = [
       "ja": "衝撃",
       "zh": "冲击",
       "ru": "шок",
-      "fr": "choc"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schokken"
+      "fr": "le choc"
+    }
   },
   {
     "id": "nl_2339",
+    "lang": "nl",
     "lemma": "zeldzaam",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31564,12 +29735,11 @@ const WORDS_NL_A2 = [
       "zh": "稀有",
       "ru": "редкий",
       "fr": "rare"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2340",
+    "lang": "nl",
     "lemma": "kritiek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31590,12 +29760,11 @@ const WORDS_NL_A2 = [
       "zh": "批判的",
       "ru": "критический",
       "fr": "critique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2341",
+    "lang": "nl",
     "lemma": "smeken",
     "pos": "Verb",
     "cefr": "A2",
@@ -31605,7 +29774,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "간청하다",
-      "en": "to beg",
+      "en": "beg",
       "de": "flehen",
       "es": "suplicar",
       "nl": "smeken",
@@ -31615,17 +29784,15 @@ const WORDS_NL_A2 = [
       "zh": "恳求",
       "ru": "умолять",
       "fr": "mendier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "smeken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2342",
+    "lang": "nl",
     "lemma": "put",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "putten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31644,15 +29811,19 @@ const WORDS_NL_A2 = [
       "ru": "колодец",
       "fr": "bien"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "putten"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2343",
+    "lang": "nl",
     "lemma": "superman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "supermannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31671,13 +29842,15 @@ const WORDS_NL_A2 = [
       "ru": "супермен",
       "fr": "superman"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "supermannen"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2344",
+    "lang": "nl",
     "lemma": "besparen",
     "pos": "Verb",
     "cefr": "A2",
@@ -31688,7 +29861,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "절약하다",
-      "en": "to save",
+      "en": "save",
       "de": "sparen",
       "es": "ahorrar",
       "nl": "besparen",
@@ -31698,15 +29871,11 @@ const WORDS_NL_A2 = [
       "zh": "节省",
       "ru": "экономить",
       "fr": "sauver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "besparen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2345",
+    "lang": "nl",
     "lemma": "naaien",
     "pos": "Verb",
     "cefr": "A2",
@@ -31716,7 +29885,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "바느질하다",
-      "en": "to sew",
+      "en": "sew",
       "de": "nähen",
       "es": "coser",
       "nl": "naaien",
@@ -31726,17 +29895,15 @@ const WORDS_NL_A2 = [
       "zh": "缝纫",
       "ru": "шить",
       "fr": "coudre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "naaien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2346",
+    "lang": "nl",
     "lemma": "offer",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "offers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31753,17 +29920,16 @@ const WORDS_NL_A2 = [
       "ja": "供物",
       "zh": "祭品",
       "ru": "жертвоприношение",
-      "fr": "offrande"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "offers"
+      "fr": "l'offrande"
+    }
   },
   {
     "id": "nl_2347",
+    "lang": "nl",
     "lemma": "manny",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "manny's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31782,15 +29948,18 @@ const WORDS_NL_A2 = [
       "ru": "нянь",
       "fr": "Manny"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "manny's"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2348",
+    "lang": "nl",
     "lemma": "zwaartekracht",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31807,17 +29976,15 @@ const WORDS_NL_A2 = [
       "ja": "重力",
       "zh": "重力",
       "ru": "гравитация",
-      "fr": "gravité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la gravité"
+    }
   },
   {
     "id": "nl_2349",
+    "lang": "nl",
     "lemma": "regent",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31834,17 +30001,16 @@ const WORDS_NL_A2 = [
       "ja": "摂政",
       "zh": "摄政王",
       "ru": "регент",
-      "fr": "régent"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le régent"
+    }
   },
   {
     "id": "nl_2350",
+    "lang": "nl",
     "lemma": "verhoor",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "verhoren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31862,15 +30028,12 @@ const WORDS_NL_A2 = [
       "ja": "尋問",
       "zh": "审讯",
       "ru": "допрос",
-      "fr": "interrogation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "verhoren"
+      "fr": "l'interrogation"
+    }
   },
   {
     "id": "nl_2351",
+    "lang": "nl",
     "lemma": "riskant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -31890,12 +30053,11 @@ const WORDS_NL_A2 = [
       "zh": "冒险的",
       "ru": "рискованный",
       "fr": "risqué"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2352",
+    "lang": "nl",
     "lemma": "dieven",
     "pos": "Verb",
     "cefr": "A2",
@@ -31905,7 +30067,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "훔치다",
-      "en": "to steal",
+      "en": "steal",
       "de": "stehlen",
       "es": "robar",
       "nl": "dieven",
@@ -31915,15 +30077,11 @@ const WORDS_NL_A2 = [
       "zh": "偷窃",
       "ru": "воровать",
       "fr": "voler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "dieven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2353",
+    "lang": "nl",
     "lemma": "inzetten",
     "pos": "Verb",
     "cefr": "A2",
@@ -31933,7 +30091,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "걸다",
-      "en": "to bet",
+      "en": "bet",
       "de": "einsetzen",
       "es": "apostar",
       "nl": "inzetten",
@@ -31943,17 +30101,15 @@ const WORDS_NL_A2 = [
       "zh": "下注",
       "ru": "ставить",
       "fr": "parier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inzetten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2354",
+    "lang": "nl",
     "lemma": "opstand",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "opstanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31970,17 +30126,16 @@ const WORDS_NL_A2 = [
       "ja": "反乱",
       "zh": "叛乱",
       "ru": "восстание",
-      "fr": "rébellion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "opstanden"
+      "fr": "la rébellion"
+    }
   },
   {
     "id": "nl_2355",
+    "lang": "nl",
     "lemma": "schild",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "schilden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -31998,15 +30153,12 @@ const WORDS_NL_A2 = [
       "ja": "盾",
       "zh": "盾牌",
       "ru": "щит",
-      "fr": "bouclier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "schilden"
+      "fr": "le bouclier"
+    }
   },
   {
     "id": "nl_2356",
+    "lang": "nl",
     "lemma": "zinloos",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32027,12 +30179,11 @@ const WORDS_NL_A2 = [
       "zh": "无意义的",
       "ru": "бессмысленный",
       "fr": "insensé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2357",
+    "lang": "nl",
     "lemma": "fysiek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32053,14 +30204,15 @@ const WORDS_NL_A2 = [
       "zh": "身体的",
       "ru": "физический",
       "fr": "physique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2358",
+    "lang": "nl",
     "lemma": "paradijs",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "paradijzen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32078,17 +30230,16 @@ const WORDS_NL_A2 = [
       "ja": "楽園",
       "zh": "天堂",
       "ru": "рай",
-      "fr": "paradis"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "paradijzen"
+      "fr": "le paradis"
+    }
   },
   {
     "id": "nl_2359",
+    "lang": "nl",
     "lemma": "jager",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "jagers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32106,17 +30257,16 @@ const WORDS_NL_A2 = [
       "ja": "猟師",
       "zh": "猎人",
       "ru": "охотник",
-      "fr": "chasseur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "jagers"
+      "fr": "le chasseur"
+    }
   },
   {
     "id": "nl_2360",
+    "lang": "nl",
     "lemma": "staf",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "staven",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32134,15 +30284,12 @@ const WORDS_NL_A2 = [
       "ja": "杖",
       "zh": "杖",
       "ru": "посох",
-      "fr": "personnel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "staven"
+      "fr": "le personnel"
+    }
   },
   {
     "id": "nl_2361",
+    "lang": "nl",
     "lemma": "aanklagen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32163,17 +30310,15 @@ const WORDS_NL_A2 = [
       "zh": "指控",
       "ru": "обвинять",
       "fr": "accuser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aanklagen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2362",
+    "lang": "nl",
     "lemma": "toezicht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "toezichten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32191,15 +30336,12 @@ const WORDS_NL_A2 = [
       "ja": "監督",
       "zh": "监督",
       "ru": "надзор",
-      "fr": "supervision"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "toezichten"
+      "fr": "la supervision"
+    }
   },
   {
     "id": "nl_2363",
+    "lang": "nl",
     "lemma": "nutteloos",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32220,12 +30362,11 @@ const WORDS_NL_A2 = [
       "zh": "无用的",
       "ru": "бесполезный",
       "fr": "inutile"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2364",
+    "lang": "nl",
     "lemma": "apen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32246,15 +30387,11 @@ const WORDS_NL_A2 = [
       "zh": "模仿",
       "ru": "подражать",
       "fr": "singe"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "apen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2365",
+    "lang": "nl",
     "lemma": "opgezet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32275,12 +30412,11 @@ const WORDS_NL_A2 = [
       "zh": "计划好的",
       "ru": "запланированный",
       "fr": "planifié"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2366",
+    "lang": "nl",
     "lemma": "onzichtbaar",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32301,14 +30437,15 @@ const WORDS_NL_A2 = [
       "zh": "看不见的",
       "ru": "невидимый",
       "fr": "invisible"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2367",
+    "lang": "nl",
     "lemma": "echo",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "echo's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32326,15 +30463,12 @@ const WORDS_NL_A2 = [
       "ja": "エコー",
       "zh": "回声",
       "ru": "эхо",
-      "fr": "écho"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "echo's"
+      "fr": "l'écho"
+    }
   },
   {
     "id": "nl_2368",
+    "lang": "nl",
     "lemma": "wonderen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32355,15 +30489,11 @@ const WORDS_NL_A2 = [
       "zh": "惊奇",
       "ru": "удивляться",
       "fr": "merveille"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wonderen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2369",
+    "lang": "nl",
     "lemma": "luid",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32384,12 +30514,11 @@ const WORDS_NL_A2 = [
       "zh": "响亮的",
       "ru": "громкий",
       "fr": "fort"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2370",
+    "lang": "nl",
     "lemma": "beseffen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32410,15 +30539,11 @@ const WORDS_NL_A2 = [
       "zh": "意识到",
       "ru": "осознавать",
       "fr": "réaliser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beseffen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2371",
+    "lang": "nl",
     "lemma": "boeien",
     "pos": "Verb",
     "cefr": "A2",
@@ -32439,15 +30564,11 @@ const WORDS_NL_A2 = [
       "zh": "束缚",
       "ru": "сковывать",
       "fr": "chaîne"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "boeien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2372",
+    "lang": "nl",
     "lemma": "charmant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32468,12 +30589,11 @@ const WORDS_NL_A2 = [
       "zh": "迷人的",
       "ru": "очаровательный",
       "fr": "charmant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2373",
+    "lang": "nl",
     "lemma": "verslaafd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32494,14 +30614,15 @@ const WORDS_NL_A2 = [
       "zh": "上瘾的",
       "ru": "зависимый",
       "fr": "accro"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2374",
+    "lang": "nl",
     "lemma": "voorkeur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "voorkeuren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32519,17 +30640,15 @@ const WORDS_NL_A2 = [
       "ja": "好み",
       "zh": "偏好",
       "ru": "предпочтение",
-      "fr": "préférence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "voorkeuren"
+      "fr": "la préférence"
+    }
   },
   {
     "id": "nl_2375",
+    "lang": "nl",
     "lemma": "vredesnaam",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32547,15 +30666,12 @@ const WORDS_NL_A2 = [
       "ja": "平和の名前",
       "zh": "和平之名",
       "ru": "имя мира",
-      "fr": "nom de paix"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le nom de paix"
+    }
   },
   {
     "id": "nl_2376",
+    "lang": "nl",
     "lemma": "noodzakelijk",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32576,14 +30692,15 @@ const WORDS_NL_A2 = [
       "zh": "必要的",
       "ru": "необходимый",
       "fr": "nécessaire"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2377",
+    "lang": "nl",
     "lemma": "tovenaar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tovenaars",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32601,15 +30718,12 @@ const WORDS_NL_A2 = [
       "ja": "魔法使い",
       "zh": "巫师",
       "ru": "волшебник",
-      "fr": "sorcier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tovenaars"
+      "fr": "le sorcier"
+    }
   },
   {
     "id": "nl_2378",
+    "lang": "nl",
     "lemma": "prijzen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32630,15 +30744,11 @@ const WORDS_NL_A2 = [
       "zh": "赞扬",
       "ru": "хвалить",
       "fr": "louer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "prijzen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2379",
+    "lang": "nl",
     "lemma": "ontwikkelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -32659,15 +30769,11 @@ const WORDS_NL_A2 = [
       "zh": "发展",
       "ru": "развивать",
       "fr": "développer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ontwikkelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2380",
+    "lang": "nl",
     "lemma": "praktisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32688,14 +30794,15 @@ const WORDS_NL_A2 = [
       "zh": "实用的",
       "ru": "практический",
       "fr": "pratique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2381",
+    "lang": "nl",
     "lemma": "ongeval",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ongevallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32713,15 +30820,12 @@ const WORDS_NL_A2 = [
       "ja": "事故",
       "zh": "事故",
       "ru": "несчастный случай",
-      "fr": "accident"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ongevallen"
+      "fr": "l'accident"
+    }
   },
   {
     "id": "nl_2382",
+    "lang": "nl",
     "lemma": "teruggeven",
     "pos": "Verb",
     "cefr": "A2",
@@ -32742,17 +30846,15 @@ const WORDS_NL_A2 = [
       "zh": "归还",
       "ru": "возвращать",
       "fr": "rendre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "teruggeven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2383",
+    "lang": "nl",
     "lemma": "protocol",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "protocollen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32769,15 +30871,12 @@ const WORDS_NL_A2 = [
       "ja": "議定書",
       "zh": "议定书",
       "ru": "протокол",
-      "fr": "protocole"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "protocollen"
+      "fr": "le protocole"
+    }
   },
   {
     "id": "nl_2385",
+    "lang": "nl",
     "lemma": "checken",
     "pos": "Verb",
     "cefr": "A2",
@@ -32798,15 +30897,11 @@ const WORDS_NL_A2 = [
       "zh": "检查",
       "ru": "проверять",
       "fr": "vérifier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "checken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2387",
+    "lang": "nl",
     "lemma": "klaarmaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -32827,17 +30922,14 @@ const WORDS_NL_A2 = [
       "zh": "准备",
       "ru": "готовить",
       "fr": "préparer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "klaarmaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2388",
+    "lang": "nl",
     "lemma": "leed",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32855,17 +30947,16 @@ const WORDS_NL_A2 = [
       "ja": "苦しみ",
       "zh": "痛苦",
       "ru": "страдание",
-      "fr": "souffrance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la souffrance"
+    }
   },
   {
     "id": "nl_2390",
+    "lang": "nl",
     "lemma": "marge",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "marges",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32883,17 +30974,16 @@ const WORDS_NL_A2 = [
       "ja": "余白",
       "zh": "页边空白",
       "ru": "поле",
-      "fr": "marge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "marges"
+      "fr": "la marge"
+    }
   },
   {
     "id": "nl_2391",
+    "lang": "nl",
     "lemma": "schijn",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schijntjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -32910,15 +31000,12 @@ const WORDS_NL_A2 = [
       "ja": "見せかけ",
       "zh": "外表",
       "ru": "видимость",
-      "fr": "apparence"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schijntjes"
+      "fr": "l'apparence"
+    }
   },
   {
     "id": "nl_2392",
+    "lang": "nl",
     "lemma": "dagelijks",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32939,12 +31026,11 @@ const WORDS_NL_A2 = [
       "zh": "日常的",
       "ru": "ежедневный",
       "fr": "quotidien"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2393",
+    "lang": "nl",
     "lemma": "duits",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32965,12 +31051,11 @@ const WORDS_NL_A2 = [
       "zh": "德国的",
       "ru": "немецкий",
       "fr": "allemand"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2394",
+    "lang": "nl",
     "lemma": "bedekt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -32991,12 +31076,11 @@ const WORDS_NL_A2 = [
       "zh": "覆盖的",
       "ru": "покрытый",
       "fr": "couvert"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2395",
+    "lang": "nl",
     "lemma": "opwindend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33017,12 +31101,11 @@ const WORDS_NL_A2 = [
       "zh": "令人兴奋的",
       "ru": "захватывающий",
       "fr": "excitant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2399",
+    "lang": "nl",
     "lemma": "intelligent",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33043,14 +31126,15 @@ const WORDS_NL_A2 = [
       "zh": "聪明的",
       "ru": "умный",
       "fr": "intelligent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2400",
+    "lang": "nl",
     "lemma": "therapeut",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "therapeuten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33068,15 +31152,12 @@ const WORDS_NL_A2 = [
       "ja": "セラピスト",
       "zh": "治疗师",
       "ru": "терапевт",
-      "fr": "thérapeute"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "therapeuten"
+      "fr": "le thérapeute"
+    }
   },
   {
     "id": "nl_2401",
+    "lang": "nl",
     "lemma": "vervloekt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33096,14 +31177,15 @@ const WORDS_NL_A2 = [
       "zh": "被诅咒的",
       "ru": "проклятый",
       "fr": "maudit"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2402",
+    "lang": "nl",
     "lemma": "tegenstander",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tegenstanders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33121,17 +31203,16 @@ const WORDS_NL_A2 = [
       "ja": "対戦相手",
       "zh": "对手",
       "ru": "противник",
-      "fr": "adversaire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tegenstanders"
+      "fr": "l'adversaire"
+    }
   },
   {
     "id": "nl_2403",
+    "lang": "nl",
     "lemma": "satelliet",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "satellieten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33149,15 +31230,12 @@ const WORDS_NL_A2 = [
       "ja": "衛星",
       "zh": "卫星",
       "ru": "спутник",
-      "fr": "satellite"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "satellieten"
+      "fr": "le satellite"
+    }
   },
   {
     "id": "nl_2404",
+    "lang": "nl",
     "lemma": "afnemen",
     "pos": "Verb",
     "cefr": "A2",
@@ -33178,17 +31256,15 @@ const WORDS_NL_A2 = [
       "zh": "减少",
       "ru": "уменьшаться",
       "fr": "diminuer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afnemen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2405",
+    "lang": "nl",
     "lemma": "uitleg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "uitleggen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33206,17 +31282,16 @@ const WORDS_NL_A2 = [
       "ja": "説明",
       "zh": "解释",
       "ru": "объяснение",
-      "fr": "explication"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "uitleggen"
+      "fr": "l'explication"
+    }
   },
   {
     "id": "nl_2406",
+    "lang": "nl",
     "lemma": "kofferbak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kofferbakken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33235,15 +31310,12 @@ const WORDS_NL_A2 = [
       "ja": "トランク",
       "zh": "汽车后备箱",
       "ru": "багажник",
-      "fr": "coffre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kofferbakken"
+      "fr": "le coffre"
+    }
   },
   {
     "id": "nl_2407",
+    "lang": "nl",
     "lemma": "fascinerend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33264,14 +31336,15 @@ const WORDS_NL_A2 = [
       "zh": "迷人的",
       "ru": "увлекательный",
       "fr": "fascinant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2408",
+    "lang": "nl",
     "lemma": "service",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "services",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33289,17 +31362,16 @@ const WORDS_NL_A2 = [
       "ja": "サービス",
       "zh": "服务",
       "ru": "сервис",
-      "fr": "service"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "services"
+      "fr": "le service"
+    }
   },
   {
     "id": "nl_2409",
+    "lang": "nl",
     "lemma": "schuilplaats",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schuilplaatsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33316,15 +31388,12 @@ const WORDS_NL_A2 = [
       "ja": "隠れ家",
       "zh": "藏身处",
       "ru": "убежище",
-      "fr": "cachette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schuilplaatsen"
+      "fr": "la cachette"
+    }
   },
   {
     "id": "nl_2410",
+    "lang": "nl",
     "lemma": "schilderen",
     "pos": "Verb",
     "cefr": "A2",
@@ -33335,7 +31404,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "그림을 그리다",
-      "en": "to paint",
+      "en": "paint",
       "de": "malen",
       "es": "pintar",
       "nl": "schilderen",
@@ -33345,15 +31414,11 @@ const WORDS_NL_A2 = [
       "zh": "画",
       "ru": "рисовать",
       "fr": "peindre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "schilderen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2411",
+    "lang": "nl",
     "lemma": "kruipen",
     "pos": "Verb",
     "cefr": "A2",
@@ -33364,7 +31429,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "기어가다",
-      "en": "to crawl",
+      "en": "crawl",
       "de": "kriechen",
       "es": "gatear",
       "nl": "kruipen",
@@ -33374,17 +31439,15 @@ const WORDS_NL_A2 = [
       "zh": "爬行",
       "ru": "ползать",
       "fr": "ramper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kruipen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2412",
+    "lang": "nl",
     "lemma": "tempo",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "tempo's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33402,15 +31465,12 @@ const WORDS_NL_A2 = [
       "ja": "テンポ",
       "zh": "速度",
       "ru": "темп",
-      "fr": "tempo"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "tempo's"
+      "fr": "le tempo"
+    }
   },
   {
     "id": "nl_2413",
+    "lang": "nl",
     "lemma": "depressief",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33430,14 +31490,15 @@ const WORDS_NL_A2 = [
       "zh": "抑郁的",
       "ru": "депрессивный",
       "fr": "déprimé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2415",
+    "lang": "nl",
     "lemma": "product",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "producten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33455,15 +31516,12 @@ const WORDS_NL_A2 = [
       "ja": "製品",
       "zh": "产品",
       "ru": "продукт",
-      "fr": "produit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "producten"
+      "fr": "le produit"
+    }
   },
   {
     "id": "nl_2416",
+    "lang": "nl",
     "lemma": "aanpassen",
     "pos": "Verb",
     "cefr": "A2",
@@ -33474,7 +31532,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "적응하다",
-      "en": "to adapt",
+      "en": "adapt",
       "de": "anpassen",
       "es": "adaptar",
       "nl": "aanpassen",
@@ -33484,15 +31542,11 @@ const WORDS_NL_A2 = [
       "zh": "适应",
       "ru": "адаптировать",
       "fr": "adapter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aanpassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2417",
+    "lang": "nl",
     "lemma": "paranoïde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33512,12 +31566,11 @@ const WORDS_NL_A2 = [
       "zh": "偏执的",
       "ru": "параноидальный",
       "fr": "paranoïaque"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2418",
+    "lang": "nl",
     "lemma": "gewelddadig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33537,14 +31590,15 @@ const WORDS_NL_A2 = [
       "zh": "暴力的",
       "ru": "насильственный",
       "fr": "violent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2419",
+    "lang": "nl",
     "lemma": "winkelcentrum",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "winkelcentra",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33562,15 +31616,12 @@ const WORDS_NL_A2 = [
       "ja": "ショッピングセンター",
       "zh": "购物中心",
       "ru": "торговый центр",
-      "fr": "centre commercial"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "winkelcentra"
+      "fr": "le centre commercial"
+    }
   },
   {
     "id": "nl_2420",
+    "lang": "nl",
     "lemma": "sparen",
     "pos": "Verb",
     "cefr": "A2",
@@ -33581,7 +31632,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "저축하다",
-      "en": "to save",
+      "en": "save",
       "de": "sparen",
       "es": "ahorrar",
       "nl": "sparen",
@@ -33591,17 +31642,15 @@ const WORDS_NL_A2 = [
       "zh": "存钱",
       "ru": "копить",
       "fr": "sauver"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "sparen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2421",
+    "lang": "nl",
     "lemma": "spreuk",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "spreuken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33618,17 +31667,15 @@ const WORDS_NL_A2 = [
       "ja": "格言",
       "zh": "谚语",
       "ru": "поговорка",
-      "fr": "dicton"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "spreuken"
+      "fr": "le dicton"
+    }
   },
   {
     "id": "nl_2422",
+    "lang": "nl",
     "lemma": "papierwerk",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33646,17 +31693,16 @@ const WORDS_NL_A2 = [
       "ja": "書類仕事",
       "zh": "文书工作",
       "ru": "документооборот",
-      "fr": "paperasse"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la paperasse"
+    }
   },
   {
     "id": "nl_2423",
+    "lang": "nl",
     "lemma": "tandarts",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tandartsen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33674,17 +31720,16 @@ const WORDS_NL_A2 = [
       "ja": "歯医者",
       "zh": "牙医",
       "ru": "стоматолог",
-      "fr": "dentiste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tandartsen"
+      "fr": "le dentiste"
+    }
   },
   {
     "id": "nl_2424",
+    "lang": "nl",
     "lemma": "baard",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "baarden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33702,17 +31747,16 @@ const WORDS_NL_A2 = [
       "ja": "顎ひげ",
       "zh": "胡须",
       "ru": "борода",
-      "fr": "barbe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "baarden"
+      "fr": "la barbe"
+    }
   },
   {
     "id": "nl_2425",
+    "lang": "nl",
     "lemma": "oppas",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "oppassen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33730,15 +31774,12 @@ const WORDS_NL_A2 = [
       "ja": "ベビーシッター",
       "zh": "保姆",
       "ru": "няня",
-      "fr": "baby-sitter"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "oppassen"
+      "fr": "le baby-sitter"
+    }
   },
   {
     "id": "nl_2426",
+    "lang": "nl",
     "lemma": "bakken",
     "pos": "Verb",
     "cefr": "A2",
@@ -33749,7 +31790,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "굽다",
-      "en": "to bake",
+      "en": "bake",
       "de": "backen",
       "es": "hornear",
       "nl": "bakken",
@@ -33759,17 +31800,15 @@ const WORDS_NL_A2 = [
       "zh": "烘烤",
       "ru": "печь",
       "fr": "cuire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bakken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2427",
+    "lang": "nl",
     "lemma": "vergif",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "vergiffen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33786,17 +31825,16 @@ const WORDS_NL_A2 = [
       "ja": "毒",
       "zh": "毒药",
       "ru": "яд",
-      "fr": "poison"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "vergiffen"
+      "fr": "le poison"
+    }
   },
   {
     "id": "nl_2428",
+    "lang": "nl",
     "lemma": "scan",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "scans",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33814,15 +31852,12 @@ const WORDS_NL_A2 = [
       "ja": "スキャン",
       "zh": "扫描",
       "ru": "сканирование",
-      "fr": "scan"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "scans"
+      "fr": "le scan"
+    }
   },
   {
     "id": "nl_2429",
+    "lang": "nl",
     "lemma": "tenen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33842,12 +31877,11 @@ const WORDS_NL_A2 = [
       "zh": "柳条的",
       "ru": "плетеный",
       "fr": "osier"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2430",
+    "lang": "nl",
     "lemma": "beschrijven",
     "pos": "Verb",
     "cefr": "A2",
@@ -33858,7 +31892,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "묘사하다",
-      "en": "to describe",
+      "en": "describe",
       "de": "beschreiben",
       "es": "describir",
       "nl": "beschrijven",
@@ -33868,15 +31902,11 @@ const WORDS_NL_A2 = [
       "zh": "描述",
       "ru": "описывать",
       "fr": "décrire"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beschrijven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2431",
+    "lang": "nl",
     "lemma": "verrot",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33896,12 +31926,11 @@ const WORDS_NL_A2 = [
       "zh": "腐烂的",
       "ru": "гнилой",
       "fr": "pourri"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2432",
+    "lang": "nl",
     "lemma": "luxe",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -33921,14 +31950,14 @@ const WORDS_NL_A2 = [
       "zh": "豪华的",
       "ru": "роскошный",
       "fr": "luxueux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2433",
+    "lang": "nl",
     "lemma": "luxe",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33946,17 +31975,16 @@ const WORDS_NL_A2 = [
       "ja": "贅沢",
       "zh": "奢侈",
       "ru": "роскошь",
-      "fr": "luxe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le luxe"
+    }
   },
   {
     "id": "nl_2434",
+    "lang": "nl",
     "lemma": "pijp",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pijpen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -33974,17 +32002,15 @@ const WORDS_NL_A2 = [
       "ja": "パイプ",
       "zh": "烟斗",
       "ru": "труба",
-      "fr": "tuyau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pijpen"
+      "fr": "le tuyau"
+    }
   },
   {
     "id": "nl_2436",
+    "lang": "nl",
     "lemma": "veertig",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34003,15 +32029,18 @@ const WORDS_NL_A2 = [
       "ru": "число сорок",
       "fr": "quarante"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2437",
+    "lang": "nl",
     "lemma": "terugkeer",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34029,15 +32058,12 @@ const WORDS_NL_A2 = [
       "ja": "帰還",
       "zh": "返回",
       "ru": "возвращение",
-      "fr": "retour"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le retour"
+    }
   },
   {
     "id": "nl_2438",
+    "lang": "nl",
     "lemma": "oprecht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34058,12 +32084,11 @@ const WORDS_NL_A2 = [
       "zh": "真诚的",
       "ru": "искренний",
       "fr": "sincère"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2439",
+    "lang": "nl",
     "lemma": "gelegen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34084,12 +32109,11 @@ const WORDS_NL_A2 = [
       "zh": "方便的",
       "ru": "удобный",
       "fr": "pratique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2440",
+    "lang": "nl",
     "lemma": "verzekeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -34110,15 +32134,11 @@ const WORDS_NL_A2 = [
       "zh": "保证",
       "ru": "уверять",
       "fr": "assurer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verzekeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2441",
+    "lang": "nl",
     "lemma": "geleend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34139,14 +32159,14 @@ const WORDS_NL_A2 = [
       "zh": "借来的",
       "ru": "заимствованный",
       "fr": "emprunté"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2442",
+    "lang": "nl",
     "lemma": "pil",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34164,15 +32184,12 @@ const WORDS_NL_A2 = [
       "ja": "錠剤",
       "zh": "药丸",
       "ru": "таблетка",
-      "fr": "pilule"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "la pilule"
+    }
   },
   {
     "id": "nl_2443",
+    "lang": "nl",
     "lemma": "oppassen",
     "pos": "Verb",
     "cefr": "A2",
@@ -34193,15 +32210,11 @@ const WORDS_NL_A2 = [
       "zh": "小心",
       "ru": "остерегаться",
       "fr": "attention"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "oppassen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2444",
+    "lang": "nl",
     "lemma": "egoïstisch",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34222,12 +32235,11 @@ const WORDS_NL_A2 = [
       "zh": "自私的",
       "ru": "эгоистичный",
       "fr": "égoïste"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2445",
+    "lang": "nl",
     "lemma": "uitnodigen",
     "pos": "Verb",
     "cefr": "A2",
@@ -34248,15 +32260,11 @@ const WORDS_NL_A2 = [
       "zh": "邀请",
       "ru": "приглашать",
       "fr": "inviter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitnodigen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2446",
+    "lang": "nl",
     "lemma": "uitstappen",
     "pos": "Verb",
     "cefr": "A2",
@@ -34277,15 +32285,11 @@ const WORDS_NL_A2 = [
       "zh": "下车",
       "ru": "выходить",
       "fr": "sortir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "uitstappen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2448",
+    "lang": "nl",
     "lemma": "italiaanse",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34306,14 +32310,15 @@ const WORDS_NL_A2 = [
       "zh": "意大利的",
       "ru": "итальянский",
       "fr": "italien"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2450",
+    "lang": "nl",
     "lemma": "mazzel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "mazzels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34331,17 +32336,16 @@ const WORDS_NL_A2 = [
       "ja": "幸運",
       "zh": "运气",
       "ru": "удача",
-      "fr": "chance"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "mazzels"
+      "fr": "la chance"
+    }
   },
   {
     "id": "nl_2451",
+    "lang": "nl",
     "lemma": "blinde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "blinden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34359,17 +32363,16 @@ const WORDS_NL_A2 = [
       "ja": "盲人",
       "zh": "盲人",
       "ru": "слепой",
-      "fr": "aveugle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "blinden"
+      "fr": "l'aveugle"
+    }
   },
   {
     "id": "nl_2452",
+    "lang": "nl",
     "lemma": "lijkschouwer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lijkschouwers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34386,17 +32389,16 @@ const WORDS_NL_A2 = [
       "ja": "検視官",
       "zh": "验尸官",
       "ru": "коронер",
-      "fr": "médecin légiste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lijkschouwers"
+      "fr": "le médecin légiste"
+    }
   },
   {
     "id": "nl_2453",
+    "lang": "nl",
     "lemma": "naald",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "naalden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34409,22 +32411,21 @@ const WORDS_NL_A2 = [
       "de": "die Nadel",
       "es": "la aguja",
       "nl": "de naald",
-      "it": "ago",
+      "it": "l'ago",
       "pt": "a agulha",
       "ja": "針",
       "zh": "针",
       "ru": "игла",
-      "fr": "aiguille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "naalden"
+      "fr": "l'aiguille"
+    }
   },
   {
     "id": "nl_2454",
+    "lang": "nl",
     "lemma": "pan",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "pannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34442,15 +32443,12 @@ const WORDS_NL_A2 = [
       "ja": "鍋",
       "zh": "锅",
       "ru": "кастрюля",
-      "fr": "poêle"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "pannen"
+      "fr": "la poêle"
+    }
   },
   {
     "id": "nl_2455",
+    "lang": "nl",
     "lemma": "heilig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34470,14 +32468,15 @@ const WORDS_NL_A2 = [
       "zh": "神圣的",
       "ru": "святой",
       "fr": "saint"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2456",
+    "lang": "nl",
     "lemma": "wachtwoord",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "wachtwoorden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34495,17 +32494,16 @@ const WORDS_NL_A2 = [
       "ja": "パスワード",
       "zh": "密码",
       "ru": "пароль",
-      "fr": "mot de passe"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "wachtwoorden"
+      "fr": "le mot de passe"
+    }
   },
   {
     "id": "nl_2457",
+    "lang": "nl",
     "lemma": "instinct",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "instincten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34517,20 +32515,17 @@ const WORDS_NL_A2 = [
       "de": "der Instinkt",
       "es": "el instinto",
       "nl": "het instinct",
-      "it": "istinto",
+      "it": "l'istinto",
       "pt": "o instinto",
       "ja": "本能",
       "zh": "本能",
       "ru": "инстинкт",
-      "fr": "instinct"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "instincten"
+      "fr": "l'instinct"
+    }
   },
   {
     "id": "nl_2458",
+    "lang": "nl",
     "lemma": "beperkt",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34551,14 +32546,15 @@ const WORDS_NL_A2 = [
       "zh": "有限的",
       "ru": "ограниченный",
       "fr": "limité"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2459",
+    "lang": "nl",
     "lemma": "hamer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hamers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34576,15 +32572,12 @@ const WORDS_NL_A2 = [
       "ja": "ハンマー",
       "zh": "锤子",
       "ru": "молоток",
-      "fr": "marteau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hamers"
+      "fr": "le marteau"
+    }
   },
   {
     "id": "nl_2460",
+    "lang": "nl",
     "lemma": "bewaken",
     "pos": "Verb",
     "cefr": "A2",
@@ -34605,17 +32598,14 @@ const WORDS_NL_A2 = [
       "zh": "守卫",
       "ru": "охранять",
       "fr": "garde"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bewaken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2461",
+    "lang": "nl",
     "lemma": "slaag",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34633,17 +32623,16 @@ const WORDS_NL_A2 = [
       "ja": "殴打",
       "zh": "殴打",
       "ru": "избиение",
-      "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le coup"
+    }
   },
   {
     "id": "nl_2462",
+    "lang": "nl",
     "lemma": "leeuw",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "leeuwen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34661,15 +32650,12 @@ const WORDS_NL_A2 = [
       "ja": "ライオン",
       "zh": "狮子",
       "ru": "лев",
-      "fr": "lion"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "leeuwen"
+      "fr": "le lion"
+    }
   },
   {
     "id": "nl_2463",
+    "lang": "nl",
     "lemma": "wisselen",
     "pos": "Verb",
     "cefr": "A2",
@@ -34690,17 +32676,15 @@ const WORDS_NL_A2 = [
       "zh": "改变",
       "ru": "менять",
       "fr": "changer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "wisselen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2464",
+    "lang": "nl",
     "lemma": "metaal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "metalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34718,17 +32702,16 @@ const WORDS_NL_A2 = [
       "ja": "金属",
       "zh": "金属",
       "ru": "металл",
-      "fr": "métal"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "metalen"
+      "fr": "le métal"
+    }
   },
   {
     "id": "nl_2465",
+    "lang": "nl",
     "lemma": "creditcard",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "creditcards",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34746,15 +32729,12 @@ const WORDS_NL_A2 = [
       "ja": "クレジットカード",
       "zh": "信用卡",
       "ru": "кредитная карта",
-      "fr": "carte de crédit"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "creditcards"
+      "fr": "la carte de crédit"
+    }
   },
   {
     "id": "nl_2466",
+    "lang": "nl",
     "lemma": "jarenlang",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34775,14 +32755,15 @@ const WORDS_NL_A2 = [
       "zh": "多年",
       "ru": "годами",
       "fr": "depuis des années"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2467",
+    "lang": "nl",
     "lemma": "staal",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "stalen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34800,15 +32781,12 @@ const WORDS_NL_A2 = [
       "ja": "鋼",
       "zh": "钢",
       "ru": "сталь",
-      "fr": "acier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "stalen"
+      "fr": "l'acier"
+    }
   },
   {
     "id": "nl_2468",
+    "lang": "nl",
     "lemma": "zeuren",
     "pos": "Verb",
     "cefr": "A2",
@@ -34829,17 +32807,15 @@ const WORDS_NL_A2 = [
       "zh": "抱怨",
       "ru": "ныть",
       "fr": "gémir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "zeuren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2469",
+    "lang": "nl",
     "lemma": "sector",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sectoren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34857,15 +32833,12 @@ const WORDS_NL_A2 = [
       "ja": "部門",
       "zh": "部门",
       "ru": "сектор",
-      "fr": "secteur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sectoren"
+      "fr": "le secteur"
+    }
   },
   {
     "id": "nl_2470",
+    "lang": "nl",
     "lemma": "vreemds",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34886,12 +32859,11 @@ const WORDS_NL_A2 = [
       "zh": "奇怪的东西",
       "ru": "что-то странное",
       "fr": "étrange"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2471",
+    "lang": "nl",
     "lemma": "rondlopen",
     "pos": "Verb",
     "cefr": "A2",
@@ -34912,15 +32884,11 @@ const WORDS_NL_A2 = [
       "zh": "走动",
       "ru": "бродить",
       "fr": "promener"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "rondlopen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2472",
+    "lang": "nl",
     "lemma": "gênant",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -34941,14 +32909,15 @@ const WORDS_NL_A2 = [
       "zh": "令人尴尬的",
       "ru": "неловкий",
       "fr": "embarrassant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2473",
+    "lang": "nl",
     "lemma": "tuig",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "tuigen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34966,17 +32935,16 @@ const WORDS_NL_A2 = [
       "ja": "道具",
       "zh": "工具",
       "ru": "снаряжение",
-      "fr": "équipement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "tuigen"
+      "fr": "l'équipement"
+    }
   },
   {
     "id": "nl_2474",
+    "lang": "nl",
     "lemma": "toast",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "toasts",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -34994,15 +32962,12 @@ const WORDS_NL_A2 = [
       "ja": "トースト",
       "zh": "吐司",
       "ru": "тост",
-      "fr": "toast"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "toasts"
+      "fr": "le toast"
+    }
   },
   {
     "id": "nl_2475",
+    "lang": "nl",
     "lemma": "gekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -35023,17 +32988,15 @@ const WORDS_NL_A2 = [
       "zh": "开玩笑",
       "ru": "шутить",
       "fr": "blague"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2476",
+    "lang": "nl",
     "lemma": "transport",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "transporten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35051,15 +33014,12 @@ const WORDS_NL_A2 = [
       "ja": "輸送",
       "zh": "运输",
       "ru": "транспорт",
-      "fr": "transport"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "transporten"
+      "fr": "le transport"
+    }
   },
   {
     "id": "nl_2478",
+    "lang": "nl",
     "lemma": "koppig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35080,12 +33040,11 @@ const WORDS_NL_A2 = [
       "zh": "固执的",
       "ru": "упрямый",
       "fr": "têtu"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2480",
+    "lang": "nl",
     "lemma": "doelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -35107,17 +33066,15 @@ const WORDS_NL_A2 = [
       "zh": "旨在",
       "ru": "целиться",
       "fr": "but"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "doelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2482",
+    "lang": "nl",
     "lemma": "hobby",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hobby's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35135,15 +33092,12 @@ const WORDS_NL_A2 = [
       "ja": "趣味",
       "zh": "爱好",
       "ru": "хобби",
-      "fr": "passe-temps"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hobby's"
+      "fr": "le passe-temps"
+    }
   },
   {
     "id": "nl_2484",
+    "lang": "nl",
     "lemma": "nakijken",
     "pos": "Verb",
     "cefr": "A2",
@@ -35164,15 +33118,11 @@ const WORDS_NL_A2 = [
       "zh": "检查",
       "ru": "проверять",
       "fr": "vérifier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "nakijken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2486",
+    "lang": "nl",
     "lemma": "verbazingwekkend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35193,14 +33143,15 @@ const WORDS_NL_A2 = [
       "zh": "惊人的",
       "ru": "удивительный",
       "fr": "incroyable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2487",
+    "lang": "nl",
     "lemma": "atmosfeer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "atmosferen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35217,17 +33168,15 @@ const WORDS_NL_A2 = [
       "ja": "大気",
       "zh": "大气",
       "ru": "атмосфера",
-      "fr": "atmosphère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "atmosferen"
+      "fr": "l'atmosphère"
+    }
   },
   {
     "id": "nl_2488",
+    "lang": "nl",
     "lemma": "id",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35244,15 +33193,12 @@ const WORDS_NL_A2 = [
       "ja": "イド",
       "zh": "本我",
       "ru": "Ид",
-      "fr": "identité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'identité"
+    }
   },
   {
     "id": "nl_2489",
+    "lang": "nl",
     "lemma": "twijfelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -35273,17 +33219,15 @@ const WORDS_NL_A2 = [
       "zh": "怀疑",
       "ru": "сомневаться",
       "fr": "doute"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "twijfelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2490",
+    "lang": "nl",
     "lemma": "examen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "examens, examina",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35300,15 +33244,12 @@ const WORDS_NL_A2 = [
       "ja": "試験",
       "zh": "考试",
       "ru": "экзамен",
-      "fr": "examen"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "examens, examina"
+      "fr": "l'examen"
+    }
   },
   {
     "id": "nl_2491",
+    "lang": "nl",
     "lemma": "aantrekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -35328,17 +33269,15 @@ const WORDS_NL_A2 = [
       "zh": "吸引",
       "ru": "привлекать",
       "fr": "attirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "aantrekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2492",
+    "lang": "nl",
     "lemma": "kalkoen",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kalkoenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35356,17 +33295,16 @@ const WORDS_NL_A2 = [
       "ja": "七面鳥",
       "zh": "火鸡",
       "ru": "индейка",
-      "fr": "dinde"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kalkoenen"
+      "fr": "la dinde"
+    }
   },
   {
     "id": "nl_2493",
+    "lang": "nl",
     "lemma": "huwelijksreis",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "huwelijksreizen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35384,17 +33322,16 @@ const WORDS_NL_A2 = [
       "ja": "新婚旅行",
       "zh": "蜜月",
       "ru": "медовый месяц",
-      "fr": "lune de miel"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "huwelijksreizen"
+      "fr": "la lune de miel"
+    }
   },
   {
     "id": "nl_2494",
+    "lang": "nl",
     "lemma": "steeg",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stegen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35412,17 +33349,16 @@ const WORDS_NL_A2 = [
       "ja": "路地",
       "zh": "小巷",
       "ru": "переулок",
-      "fr": "allée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stegen"
+      "fr": "l'allée"
+    }
   },
   {
     "id": "nl_2495",
+    "lang": "nl",
     "lemma": "wodka",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wodka's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35439,17 +33375,16 @@ const WORDS_NL_A2 = [
       "ja": "ウォッカ",
       "zh": "伏特加",
       "ru": "водка",
-      "fr": "vodka"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wodka's"
+      "fr": "la vodka"
+    }
   },
   {
     "id": "nl_2499",
+    "lang": "nl",
     "lemma": "politieman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "politiemannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35467,17 +33402,16 @@ const WORDS_NL_A2 = [
       "ja": "警察官",
       "zh": "警察",
       "ru": "полицейский",
-      "fr": "policier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "politiemannen"
+      "fr": "le policier"
+    }
   },
   {
     "id": "nl_2500",
+    "lang": "nl",
     "lemma": "koppel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "koppels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35495,17 +33429,16 @@ const WORDS_NL_A2 = [
       "ja": "カップル",
       "zh": "一对",
       "ru": "пара",
-      "fr": "couple"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "koppels"
+      "fr": "le couple"
+    }
   },
   {
     "id": "nl_2501",
+    "lang": "nl",
     "lemma": "tumor",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "tumoren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35522,15 +33455,12 @@ const WORDS_NL_A2 = [
       "ja": "腫瘍",
       "zh": "肿瘤",
       "ru": "опухоль",
-      "fr": "tumeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "tumoren"
+      "fr": "la tumeur"
+    }
   },
   {
     "id": "nl_2504",
+    "lang": "nl",
     "lemma": "treden",
     "pos": "Verb",
     "cefr": "A2",
@@ -35551,17 +33481,15 @@ const WORDS_NL_A2 = [
       "zh": "踩",
       "ru": "ступать",
       "fr": "pas"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "treden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2507",
+    "lang": "nl",
     "lemma": "stam",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stammen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35578,17 +33506,16 @@ const WORDS_NL_A2 = [
       "ja": "茎",
       "zh": "茎",
       "ru": "ствол",
-      "fr": "tige"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stammen"
+      "fr": "la tige"
+    }
   },
   {
     "id": "nl_2508",
+    "lang": "nl",
     "lemma": "straal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "stralen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35605,15 +33532,12 @@ const WORDS_NL_A2 = [
       "ja": "半径",
       "zh": "半径",
       "ru": "радиус",
-      "fr": "rayon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "stralen"
+      "fr": "le rayon"
+    }
   },
   {
     "id": "nl_2509",
+    "lang": "nl",
     "lemma": "poten",
     "pos": "Verb",
     "cefr": "A2",
@@ -35634,15 +33558,11 @@ const WORDS_NL_A2 = [
       "zh": "种植",
       "ru": "сажать",
       "fr": "plante"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "poten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2510",
+    "lang": "nl",
     "lemma": "afvragen",
     "pos": "Verb",
     "cefr": "A2",
@@ -35663,17 +33583,15 @@ const WORDS_NL_A2 = [
       "zh": "想知道",
       "ru": "задаваться вопросом",
       "fr": "merveille"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afvragen",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2511",
+    "lang": "nl",
     "lemma": "gitaar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "gitaren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35691,15 +33609,12 @@ const WORDS_NL_A2 = [
       "ja": "ギター",
       "zh": "吉他",
       "ru": "гитара",
-      "fr": "guitare"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "gitaren"
+      "fr": "la guitare"
+    }
   },
   {
     "id": "nl_2512",
+    "lang": "nl",
     "lemma": "terugbellen",
     "pos": "Verb",
     "cefr": "A2",
@@ -35720,15 +33635,11 @@ const WORDS_NL_A2 = [
       "zh": "回电话",
       "ru": "перезвонить",
       "fr": "rappeler"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "terugbellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2513",
+    "lang": "nl",
     "lemma": "kletsen",
     "pos": "Verb",
     "cefr": "A2",
@@ -35748,17 +33659,15 @@ const WORDS_NL_A2 = [
       "zh": "拍打",
       "ru": "шлёпать",
       "fr": "gifle"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kletsen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2514",
+    "lang": "nl",
     "lemma": "december",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "decembers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35776,17 +33685,23 @@ const WORDS_NL_A2 = [
       "ja": "12月",
       "zh": "十二月",
       "ru": "декабрь",
-      "fr": "décembre"
+      "fr": "le décembre"
     },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "decembers"
+    "meta": {
+      "noArticleMeanings": {
+        "es": true,
+        "it": true,
+        "pt": true
+      }
+    }
   },
   {
     "id": "nl_2515",
+    "lang": "nl",
     "lemma": "trui",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "truien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35804,15 +33719,12 @@ const WORDS_NL_A2 = [
       "ja": "セーター",
       "zh": "毛衣",
       "ru": "свитер",
-      "fr": "pull"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "truien"
+      "fr": "le pull"
+    }
   },
   {
     "id": "nl_2516",
+    "lang": "nl",
     "lemma": "organiseren",
     "pos": "Verb",
     "cefr": "A2",
@@ -35833,17 +33745,15 @@ const WORDS_NL_A2 = [
       "zh": "组织",
       "ru": "организовывать",
       "fr": "organiser"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "organiseren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2517",
+    "lang": "nl",
     "lemma": "compliment",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "complimenten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35861,17 +33771,16 @@ const WORDS_NL_A2 = [
       "ja": "褒め言葉",
       "zh": "赞美",
       "ru": "комплимент",
-      "fr": "compliment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "complimenten"
+      "fr": "le compliment"
+    }
   },
   {
     "id": "nl_2518",
+    "lang": "nl",
     "lemma": "minnaar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "minnaars",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35888,17 +33797,16 @@ const WORDS_NL_A2 = [
       "ja": "恋人",
       "zh": "情人",
       "ru": "любовник",
-      "fr": "amant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "minnaars"
+      "fr": "l'amant"
+    }
   },
   {
     "id": "nl_2519",
+    "lang": "nl",
     "lemma": "kudde",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kuddes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35915,17 +33823,16 @@ const WORDS_NL_A2 = [
       "ja": "群れ",
       "zh": "兽群",
       "ru": "стадо",
-      "fr": "troupeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kuddes"
+      "fr": "le troupeau"
+    }
   },
   {
     "id": "nl_2520",
+    "lang": "nl",
     "lemma": "adviseur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "adviseurs",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35943,15 +33850,12 @@ const WORDS_NL_A2 = [
       "ja": "顧問",
       "zh": "顾问",
       "ru": "советник",
-      "fr": "conseiller"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "adviseurs"
+      "fr": "le conseiller"
+    }
   },
   {
     "id": "nl_2521",
+    "lang": "nl",
     "lemma": "zesde",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -35971,14 +33875,15 @@ const WORDS_NL_A2 = [
       "zh": "第六",
       "ru": "шестой",
       "fr": "sixième"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2522",
+    "lang": "nl",
     "lemma": "lieveling",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "lievelingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -35996,17 +33901,16 @@ const WORDS_NL_A2 = [
       "ja": "お気に入り",
       "zh": "宠儿",
       "ru": "любимец",
-      "fr": "chéri"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "lievelingen"
+      "fr": "le chéri"
+    }
   },
   {
     "id": "nl_2523",
+    "lang": "nl",
     "lemma": "haak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "haken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36024,17 +33928,15 @@ const WORDS_NL_A2 = [
       "ja": "フック",
       "zh": "钩子",
       "ru": "крюк",
-      "fr": "crochet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "haken"
+      "fr": "le crochet"
+    }
   },
   {
     "id": "nl_2524",
+    "lang": "nl",
     "lemma": "violet",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36051,15 +33953,12 @@ const WORDS_NL_A2 = [
       "ja": "スミレ色",
       "zh": "紫罗兰色",
       "ru": "фиолетовый",
-      "fr": "violet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le violet"
+    }
   },
   {
     "id": "nl_2525",
+    "lang": "nl",
     "lemma": "violet",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36079,14 +33978,14 @@ const WORDS_NL_A2 = [
       "zh": "紫色的",
       "ru": "фиолетовый",
       "fr": "violet"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2527",
+    "lang": "nl",
     "lemma": "herstel",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36104,17 +34003,16 @@ const WORDS_NL_A2 = [
       "ja": "回復",
       "zh": "恢复",
       "ru": "восстановление",
-      "fr": "rétablissement"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le rétablissement"
+    }
   },
   {
     "id": "nl_2528",
+    "lang": "nl",
     "lemma": "ticket",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "tickets",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36133,17 +34031,16 @@ const WORDS_NL_A2 = [
       "ja": "チケット",
       "zh": "票",
       "ru": "билет",
-      "fr": "billet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "tickets"
+      "fr": "le billet"
+    }
   },
   {
     "id": "nl_2529",
+    "lang": "nl",
     "lemma": "harten",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hartens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36156,19 +34053,16 @@ const WORDS_NL_A2 = [
       "es": "los corazones",
       "nl": "de harten",
       "it": "i cuori",
-      "pt": "ouros",
+      "pt": "os ouros",
       "ja": "ハート",
       "zh": "红心",
       "ru": "червы",
-      "fr": "cœurs"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hartens"
+      "fr": "les cœurs"
+    }
   },
   {
     "id": "nl_2530",
+    "lang": "nl",
     "lemma": "verzorgen",
     "pos": "Verb",
     "cefr": "A2",
@@ -36189,17 +34083,15 @@ const WORDS_NL_A2 = [
       "zh": "照顾",
       "ru": "ухаживать",
       "fr": "soigner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verzorgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2531",
+    "lang": "nl",
     "lemma": "gedicht",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "gedichten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36216,15 +34108,12 @@ const WORDS_NL_A2 = [
       "ja": "詩",
       "zh": "诗",
       "ru": "стихотворение",
-      "fr": "poème"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "gedichten"
+      "fr": "le poème"
+    }
   },
   {
     "id": "nl_2532",
+    "lang": "nl",
     "lemma": "inzien",
     "pos": "Verb",
     "cefr": "A2",
@@ -36245,17 +34134,14 @@ const WORDS_NL_A2 = [
       "zh": "审阅",
       "ru": "просматривать",
       "fr": "inspecter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "inzien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2533",
+    "lang": "nl",
     "lemma": "inzien",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36272,17 +34158,16 @@ const WORDS_NL_A2 = [
       "ja": "洞察",
       "zh": "洞察力",
       "ru": "понимание",
-      "fr": "perspicacité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la perspicacité"
+    }
   },
   {
     "id": "nl_2534",
+    "lang": "nl",
     "lemma": "kap",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kappen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36300,17 +34185,16 @@ const WORDS_NL_A2 = [
       "ja": "フード",
       "zh": "罩",
       "ru": "капюшон",
-      "fr": "capuche"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kappen"
+      "fr": "la capuche"
+    }
   },
   {
     "id": "nl_2535",
+    "lang": "nl",
     "lemma": "knal",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "knallen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36328,15 +34212,12 @@ const WORDS_NL_A2 = [
       "ja": "破裂音",
       "zh": "砰",
       "ru": "хлопок",
-      "fr": "coup"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "knallen"
+      "fr": "le coup"
+    }
   },
   {
     "id": "nl_2536",
+    "lang": "nl",
     "lemma": "knal",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36357,14 +34238,15 @@ const WORDS_NL_A2 = [
       "zh": "极好的",
       "ru": "фантастический",
       "fr": "fantastique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2537",
+    "lang": "nl",
     "lemma": "kleinzoon",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kleinzoons",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36382,15 +34264,12 @@ const WORDS_NL_A2 = [
       "ja": "孫",
       "zh": "孙子",
       "ru": "внук",
-      "fr": "petit-fils"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kleinzoons"
+      "fr": "le petit-fils"
+    }
   },
   {
     "id": "nl_2538",
+    "lang": "nl",
     "lemma": "verzetten",
     "pos": "Verb",
     "cefr": "A2",
@@ -36411,17 +34290,15 @@ const WORDS_NL_A2 = [
       "zh": "抵抗",
       "ru": "сопротивляться",
       "fr": "résister"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verzetten",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2539",
+    "lang": "nl",
     "lemma": "eis",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "eisen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36439,17 +34316,16 @@ const WORDS_NL_A2 = [
       "ja": "要求",
       "zh": "要求",
       "ru": "требование",
-      "fr": "demande"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "eisen"
+      "fr": "la demande"
+    }
   },
   {
     "id": "nl_2540",
+    "lang": "nl",
     "lemma": "buitenland",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "buitenlanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36469,15 +34345,19 @@ const WORDS_NL_A2 = [
       "ru": "заграница",
       "fr": "ailleurs"
     },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "buitenlanden"
+    "meta": {
+      "noArticleMeanings": {
+        "fr": true
+      }
+    }
   },
   {
     "id": "nl_2543",
+    "lang": "nl",
     "lemma": "oven",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ovens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36495,17 +34375,16 @@ const WORDS_NL_A2 = [
       "ja": "オーブン",
       "zh": "烤箱",
       "ru": "духовка",
-      "fr": "four"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ovens"
+      "fr": "le four"
+    }
   },
   {
     "id": "nl_2545",
+    "lang": "nl",
     "lemma": "januari",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "januari's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36523,17 +34402,16 @@ const WORDS_NL_A2 = [
       "ja": "1月",
       "zh": "一月",
       "ru": "январь",
-      "fr": "janvier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "januari's"
+      "fr": "le janvier"
+    }
   },
   {
     "id": "nl_2546",
+    "lang": "nl",
     "lemma": "benjamin",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "benjamins",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36551,17 +34429,16 @@ const WORDS_NL_A2 = [
       "ja": "末っ子",
       "zh": "老幺",
       "ru": "младший",
-      "fr": "cadet"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "benjamins"
+      "fr": "le cadet"
+    }
   },
   {
     "id": "nl_2547",
+    "lang": "nl",
     "lemma": "roos",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rozen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36579,15 +34456,12 @@ const WORDS_NL_A2 = [
       "ja": "バラ",
       "zh": "玫瑰",
       "ru": "роза",
-      "fr": "rose"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rozen"
+      "fr": "la rose"
+    }
   },
   {
     "id": "nl_2549",
+    "lang": "nl",
     "lemma": "leuks",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36608,12 +34482,11 @@ const WORDS_NL_A2 = [
       "zh": "好东西",
       "ru": "что-то хорошее",
       "fr": "bien"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2550",
+    "lang": "nl",
     "lemma": "grondig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36634,14 +34507,15 @@ const WORDS_NL_A2 = [
       "zh": "彻底的",
       "ru": "тщательный",
       "fr": "minutieux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2552",
+    "lang": "nl",
     "lemma": "vallei",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "valleien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36659,17 +34533,15 @@ const WORDS_NL_A2 = [
       "ja": "谷",
       "zh": "山谷",
       "ru": "долина",
-      "fr": "vallée"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "valleien"
+      "fr": "la vallée"
+    }
   },
   {
     "id": "nl_2554",
+    "lang": "nl",
     "lemma": "heden",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36687,15 +34559,12 @@ const WORDS_NL_A2 = [
       "ja": "現在",
       "zh": "现在",
       "ru": "настоящее",
-      "fr": "cadeau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le cadeau"
+    }
   },
   {
     "id": "nl_2555",
+    "lang": "nl",
     "lemma": "achtervolgen",
     "pos": "Verb",
     "cefr": "A2",
@@ -36716,17 +34585,15 @@ const WORDS_NL_A2 = [
       "zh": "追逐",
       "ru": "преследовать",
       "fr": "poursuite"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "achtervolgen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2556",
+    "lang": "nl",
     "lemma": "database",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "databases",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36744,17 +34611,16 @@ const WORDS_NL_A2 = [
       "ja": "データベース",
       "zh": "数据库",
       "ru": "база данных",
-      "fr": "base de données"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "databases"
+      "fr": "la base de données"
+    }
   },
   {
     "id": "nl_2557",
+    "lang": "nl",
     "lemma": "dc",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dc's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36771,17 +34637,16 @@ const WORDS_NL_A2 = [
       "ja": "地区委員",
       "zh": "区专员",
       "ru": "окружной комиссар",
-      "fr": "commissaire de district"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dc's"
+      "fr": "le commissaire de district"
+    }
   },
   {
     "id": "nl_2560",
+    "lang": "nl",
     "lemma": "menu",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "menu's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36799,15 +34664,12 @@ const WORDS_NL_A2 = [
       "ja": "メニュー",
       "zh": "菜单",
       "ru": "меню",
-      "fr": "menu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "menu's"
+      "fr": "le menu"
+    }
   },
   {
     "id": "nl_2561",
+    "lang": "nl",
     "lemma": "klere",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -36827,14 +34689,15 @@ const WORDS_NL_A2 = [
       "zh": "糟糕的",
       "ru": "ужасный",
       "fr": "terrible"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2562",
+    "lang": "nl",
     "lemma": "klooster",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kloosters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36852,17 +34715,16 @@ const WORDS_NL_A2 = [
       "ja": "修道院",
       "zh": "修道院",
       "ru": "монастырь",
-      "fr": "monastère"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kloosters"
+      "fr": "le monastère"
+    }
   },
   {
     "id": "nl_2563",
+    "lang": "nl",
     "lemma": "balans",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "balansen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36880,17 +34742,16 @@ const WORDS_NL_A2 = [
       "ja": "バランス",
       "zh": "平衡",
       "ru": "баланс",
-      "fr": "équilibre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "balansen"
+      "fr": "l'équilibre"
+    }
   },
   {
     "id": "nl_2564",
+    "lang": "nl",
     "lemma": "uitspraak",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "uitspraken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36908,15 +34769,12 @@ const WORDS_NL_A2 = [
       "ja": "発音",
       "zh": "发音",
       "ru": "произношение",
-      "fr": "prononciation"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "uitspraken"
+      "fr": "la prononciation"
+    }
   },
   {
     "id": "nl_2565",
+    "lang": "nl",
     "lemma": "logeren",
     "pos": "Verb",
     "cefr": "A2",
@@ -36927,7 +34785,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "머무르다",
-      "en": "to stay",
+      "en": "stay",
       "de": "übernachten",
       "es": "alojarse",
       "nl": "logeren",
@@ -36937,17 +34795,15 @@ const WORDS_NL_A2 = [
       "zh": "住宿",
       "ru": "останавливаться",
       "fr": "rester"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "logeren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2566",
+    "lang": "nl",
     "lemma": "schrik",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "schrikjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36965,17 +34821,16 @@ const WORDS_NL_A2 = [
       "ja": "恐怖",
       "zh": "惊吓",
       "ru": "испуг",
-      "fr": "frayeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "schrikjes"
+      "fr": "la frayeur"
+    }
   },
   {
     "id": "nl_2567",
+    "lang": "nl",
     "lemma": "visioen",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "visioenen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -36993,17 +34848,16 @@ const WORDS_NL_A2 = [
       "ja": "幻影",
       "zh": "幻象",
       "ru": "видение",
-      "fr": "vision"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "visioenen"
+      "fr": "la vision"
+    }
   },
   {
     "id": "nl_2568",
+    "lang": "nl",
     "lemma": "dealer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dealers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37021,17 +34875,16 @@ const WORDS_NL_A2 = [
       "ja": "ディーラー",
       "zh": "经销商",
       "ru": "дилер",
-      "fr": "revendeur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dealers"
+      "fr": "le revendeur"
+    }
   },
   {
     "id": "nl_2569",
+    "lang": "nl",
     "lemma": "dekmantel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "dekmantels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37048,15 +34901,12 @@ const WORDS_NL_A2 = [
       "ja": "隠れ蓑",
       "zh": "掩护",
       "ru": "прикрытие",
-      "fr": "couverture"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "dekmantels"
+      "fr": "la couverture"
+    }
   },
   {
     "id": "nl_2570",
+    "lang": "nl",
     "lemma": "scheppen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37067,7 +34917,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "창조하다",
-      "en": "to create",
+      "en": "create",
       "de": "schaffen",
       "es": "crear",
       "nl": "scheppen",
@@ -37077,15 +34927,11 @@ const WORDS_NL_A2 = [
       "zh": "创造",
       "ru": "создавать",
       "fr": "créer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "scheppen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2571",
+    "lang": "nl",
     "lemma": "overtuigend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37106,12 +34952,11 @@ const WORDS_NL_A2 = [
       "zh": "有说服力的",
       "ru": "убедительный",
       "fr": "convaincant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2572",
+    "lang": "nl",
     "lemma": "specifiek",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37132,12 +34977,11 @@ const WORDS_NL_A2 = [
       "zh": "特定的",
       "ru": "специфический",
       "fr": "spécifique"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2573",
+    "lang": "nl",
     "lemma": "knopen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37148,7 +34992,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "묶다",
-      "en": "to tie",
+      "en": "tie",
       "de": "knoten",
       "es": "anudar",
       "nl": "knopen",
@@ -37158,17 +35002,15 @@ const WORDS_NL_A2 = [
       "zh": "打结",
       "ru": "завязывать",
       "fr": "lier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "knopen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2574",
+    "lang": "nl",
     "lemma": "ranch",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ranches",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37186,17 +35028,16 @@ const WORDS_NL_A2 = [
       "ja": "牧場",
       "zh": "牧场",
       "ru": "ранчо",
-      "fr": "ranch"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ranches"
+      "fr": "le ranch"
+    }
   },
   {
     "id": "nl_2575",
+    "lang": "nl",
     "lemma": "boter",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "boters",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37214,15 +35055,12 @@ const WORDS_NL_A2 = [
       "ja": "バター",
       "zh": "黄油",
       "ru": "масло",
-      "fr": "beurre"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "boters"
+      "fr": "le beurre"
+    }
   },
   {
     "id": "nl_2576",
+    "lang": "nl",
     "lemma": "golven",
     "pos": "Verb",
     "cefr": "A2",
@@ -37232,7 +35070,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "물결치다",
-      "en": "to wave",
+      "en": "wave",
       "de": "wellen",
       "es": "ondular",
       "nl": "golven",
@@ -37242,17 +35080,15 @@ const WORDS_NL_A2 = [
       "zh": "波动",
       "ru": "волновать",
       "fr": "agiter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "golven",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2577",
+    "lang": "nl",
     "lemma": "ridder",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ridders",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37269,17 +35105,16 @@ const WORDS_NL_A2 = [
       "ja": "騎士",
       "zh": "骑士",
       "ru": "рыцарь",
-      "fr": "chevalier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ridders"
+      "fr": "le chevalier"
+    }
   },
   {
     "id": "nl_2579",
+    "lang": "nl",
     "lemma": "diploma",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "diploma's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37297,15 +35132,12 @@ const WORDS_NL_A2 = [
       "ja": "卒業証書",
       "zh": "文凭",
       "ru": "диплом",
-      "fr": "diplôme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "diploma's"
+      "fr": "le diplôme"
+    }
   },
   {
     "id": "nl_2581",
+    "lang": "nl",
     "lemma": "handboeien",
     "pos": "Verb",
     "cefr": "A2",
@@ -37315,7 +35147,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "수갑을 채우다",
-      "en": "to handcuff",
+      "en": "handcuff",
       "de": "Handschellen anlegen",
       "es": "esposar",
       "nl": "handboeien",
@@ -37325,17 +35157,15 @@ const WORDS_NL_A2 = [
       "zh": "戴手铐",
       "ru": "надевать наручники",
       "fr": "menotter"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "handboeien",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2582",
+    "lang": "nl",
     "lemma": "rechterhand",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "rechterhanden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37354,17 +35184,16 @@ const WORDS_NL_A2 = [
       "ja": "右手",
       "zh": "右手",
       "ru": "правая рука",
-      "fr": "main droite"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "rechterhanden"
+      "fr": "la main droite"
+    }
   },
   {
     "id": "nl_2583",
+    "lang": "nl",
     "lemma": "achterdeur",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "achterdeuren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37382,17 +35211,16 @@ const WORDS_NL_A2 = [
       "ja": "裏口",
       "zh": "后门",
       "ru": "задняя дверь",
-      "fr": "porte arrière"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "achterdeuren"
+      "fr": "la porte arrière"
+    }
   },
   {
     "id": "nl_2584",
+    "lang": "nl",
     "lemma": "mode",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "modes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37410,15 +35238,12 @@ const WORDS_NL_A2 = [
       "ja": "ファッション",
       "zh": "时尚",
       "ru": "мода",
-      "fr": "mode"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "modes"
+      "fr": "la mode"
+    }
   },
   {
     "id": "nl_2585",
+    "lang": "nl",
     "lemma": "banken",
     "pos": "Verb",
     "cefr": "A2",
@@ -37428,7 +35253,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "블랙잭을 하다",
-      "en": "to play blackjack",
+      "en": "play blackjack",
       "de": "Bank spielen",
       "es": "jugar al veintiuno",
       "nl": "banken",
@@ -37438,15 +35263,11 @@ const WORDS_NL_A2 = [
       "zh": "玩二十一点",
       "ru": "играть в блэкджек",
       "fr": "jouer au blackjack"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "banken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2586",
+    "lang": "nl",
     "lemma": "hecht",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37467,14 +35288,15 @@ const WORDS_NL_A2 = [
       "zh": "紧密的",
       "ru": "сплоченный",
       "fr": "soudé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2587",
+    "lang": "nl",
     "lemma": "litteken",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "littekens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37492,17 +35314,16 @@ const WORDS_NL_A2 = [
       "ja": "傷跡",
       "zh": "疤痕",
       "ru": "шрам",
-      "fr": "cicatrice"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "littekens"
+      "fr": "la cicatrice"
+    }
   },
   {
     "id": "nl_2589",
+    "lang": "nl",
     "lemma": "kunstenaar",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "kunstenaars",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37520,15 +35341,12 @@ const WORDS_NL_A2 = [
       "ja": "芸術家",
       "zh": "艺术家",
       "ru": "художник",
-      "fr": "artiste"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "kunstenaars"
+      "fr": "l'artiste"
+    }
   },
   {
     "id": "nl_2590",
+    "lang": "nl",
     "lemma": "flessen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37539,7 +35357,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "속이다",
-      "en": "to deceive",
+      "en": "deceive",
       "de": "betrügen",
       "es": "engañar",
       "nl": "flessen",
@@ -37549,15 +35367,11 @@ const WORDS_NL_A2 = [
       "zh": "欺骗",
       "ru": "обманывать",
       "fr": "tromper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "flessen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2591",
+    "lang": "nl",
     "lemma": "blond",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37578,12 +35392,11 @@ const WORDS_NL_A2 = [
       "zh": "金色的",
       "ru": "светлый",
       "fr": "blond"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2593",
+    "lang": "nl",
     "lemma": "teleurstellen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37594,7 +35407,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "실망시키다",
-      "en": "to disappoint",
+      "en": "disappoint",
       "de": "enttäuschen",
       "es": "decepcionar",
       "nl": "teleurstellen",
@@ -37604,17 +35417,15 @@ const WORDS_NL_A2 = [
       "zh": "令人失望",
       "ru": "разочаровывать",
       "fr": "décevoir"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "teleurstellen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2594",
+    "lang": "nl",
     "lemma": "termijn",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "termijnen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37632,15 +35443,12 @@ const WORDS_NL_A2 = [
       "ja": "期限",
       "zh": "期限",
       "ru": "срок",
-      "fr": "délai"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "termijnen"
+      "fr": "le délai"
+    }
   },
   {
     "id": "nl_2595",
+    "lang": "nl",
     "lemma": "kloten",
     "pos": "Verb",
     "cefr": "A2",
@@ -37650,7 +35458,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "빈둥거리다",
-      "en": "to mess around",
+      "en": "mess around",
       "de": "herumalbern",
       "es": "holgazanear",
       "nl": "kloten",
@@ -37660,15 +35468,11 @@ const WORDS_NL_A2 = [
       "zh": "瞎搞",
       "ru": "бездельничать",
       "fr": "traîner"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kloten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2596",
+    "lang": "nl",
     "lemma": "nader",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37689,12 +35493,11 @@ const WORDS_NL_A2 = [
       "zh": "更近的",
       "ru": "ближе",
       "fr": "plus proche"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2597",
+    "lang": "nl",
     "lemma": "gebieden",
     "pos": "Verb",
     "cefr": "A2",
@@ -37705,7 +35508,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "명령하다",
-      "en": "to command",
+      "en": "command",
       "de": "befehlen",
       "es": "mandar",
       "nl": "gebieden",
@@ -37715,15 +35518,11 @@ const WORDS_NL_A2 = [
       "zh": "命令",
       "ru": "приказывать",
       "fr": "commander"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "gebieden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2598",
+    "lang": "nl",
     "lemma": "opletten",
     "pos": "Verb",
     "cefr": "A2",
@@ -37734,7 +35533,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "주의를 기울이다",
-      "en": "to pay attention",
+      "en": "pay attention",
       "de": "aufpassen",
       "es": "prestar atención",
       "nl": "opletten",
@@ -37744,17 +35543,15 @@ const WORDS_NL_A2 = [
       "zh": "注意",
       "ru": "обращать внимание",
       "fr": "faire attention"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "opletten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2600",
+    "lang": "nl",
     "lemma": "loser",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "losers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37771,17 +35568,16 @@ const WORDS_NL_A2 = [
       "ja": "敗者",
       "zh": "失败者",
       "ru": "неудачник",
-      "fr": "perdant"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "losers"
+      "fr": "le perdant"
+    }
   },
   {
     "id": "nl_2601",
+    "lang": "nl",
     "lemma": "cake",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "cakes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37799,15 +35595,12 @@ const WORDS_NL_A2 = [
       "ja": "ケーキ",
       "zh": "蛋糕",
       "ru": "торт",
-      "fr": "gâteau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "cakes"
+      "fr": "le gâteau"
+    }
   },
   {
     "id": "nl_2602",
+    "lang": "nl",
     "lemma": "bestuderen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37818,7 +35611,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "연구하다",
-      "en": "to study",
+      "en": "study",
       "de": "studieren",
       "es": "estudiar",
       "nl": "bestuderen",
@@ -37828,17 +35621,15 @@ const WORDS_NL_A2 = [
       "zh": "研究",
       "ru": "изучать",
       "fr": "étudier"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bestuderen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2603",
+    "lang": "nl",
     "lemma": "stort",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "storten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37855,15 +35646,12 @@ const WORDS_NL_A2 = [
       "ja": "ごみ捨て場",
       "zh": "垃圾场",
       "ru": "свалка",
-      "fr": "décharge"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "storten"
+      "fr": "la décharge"
+    }
   },
   {
     "id": "nl_2604",
+    "lang": "nl",
     "lemma": "stalen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -37883,12 +35671,11 @@ const WORDS_NL_A2 = [
       "zh": "钢制的",
       "ru": "стальной",
       "fr": "acier"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2605",
+    "lang": "nl",
     "lemma": "stalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -37898,7 +35685,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "강화하다",
-      "en": "to strengthen",
+      "en": "strengthen",
       "de": "stärken",
       "es": "fortalecer",
       "nl": "stalen",
@@ -37908,17 +35695,15 @@ const WORDS_NL_A2 = [
       "zh": "加强",
       "ru": "укреплять",
       "fr": "renforcer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2606",
+    "lang": "nl",
     "lemma": "spook",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "spoken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37935,17 +35720,16 @@ const WORDS_NL_A2 = [
       "ja": "幽霊",
       "zh": "鬼",
       "ru": "призрак",
-      "fr": "fantôme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "spoken"
+      "fr": "le fantôme"
+    }
   },
   {
     "id": "nl_2607",
+    "lang": "nl",
     "lemma": "ezel",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "ezels",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37963,17 +35747,16 @@ const WORDS_NL_A2 = [
       "ja": "ロバ",
       "zh": "驴",
       "ru": "осёл",
-      "fr": "âne"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "ezels"
+      "fr": "l'âne"
+    }
   },
   {
     "id": "nl_2608",
+    "lang": "nl",
     "lemma": "kijkje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "kijkjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -37990,15 +35773,12 @@ const WORDS_NL_A2 = [
       "ja": "ちらっと見ること",
       "zh": "一瞥",
       "ru": "взгляд",
-      "fr": "aperçu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "kijkjes"
+      "fr": "l'aperçu"
+    }
   },
   {
     "id": "nl_2609",
+    "lang": "nl",
     "lemma": "spijtig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38019,14 +35799,15 @@ const WORDS_NL_A2 = [
       "zh": "令人遗憾的",
       "ru": "прискорбный",
       "fr": "regrettable"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2611",
+    "lang": "nl",
     "lemma": "finale",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "finales",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38043,15 +35824,12 @@ const WORDS_NL_A2 = [
       "ja": "決勝",
       "zh": "决赛",
       "ru": "финал",
-      "fr": "final"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "finales"
+      "fr": "la finale"
+    }
   },
   {
     "id": "nl_2612",
+    "lang": "nl",
     "lemma": "gezegend",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38071,12 +35849,11 @@ const WORDS_NL_A2 = [
       "zh": "受祝福的",
       "ru": "благословенный",
       "fr": "béni"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2613",
+    "lang": "nl",
     "lemma": "beweren",
     "pos": "Verb",
     "cefr": "A2",
@@ -38087,7 +35864,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "주장하다",
-      "en": "to claim",
+      "en": "claim",
       "de": "behaupten",
       "es": "afirmar",
       "nl": "beweren",
@@ -38097,17 +35874,15 @@ const WORDS_NL_A2 = [
       "zh": "声称",
       "ru": "утверждать",
       "fr": "réclamer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "beweren",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2614",
+    "lang": "nl",
     "lemma": "raadsel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "raadselen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38124,15 +35899,12 @@ const WORDS_NL_A2 = [
       "ja": "なぞなぞ",
       "zh": "谜语",
       "ru": "загадка",
-      "fr": "énigme"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "raadselen"
+      "fr": "l'énigme"
+    }
   },
   {
     "id": "nl_2615",
+    "lang": "nl",
     "lemma": "stoelen",
     "pos": "Verb",
     "cefr": "A2",
@@ -38143,7 +35915,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "기반을 두다",
-      "en": "to be based on",
+      "en": "be based on",
       "de": "basieren auf",
       "es": "basarse en",
       "nl": "stoelen",
@@ -38153,15 +35925,11 @@ const WORDS_NL_A2 = [
       "zh": "基于",
       "ru": "основываться",
       "fr": "être basé sur"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "stoelen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2616",
+    "lang": "nl",
     "lemma": "bedriegen",
     "pos": "Verb",
     "cefr": "A2",
@@ -38172,7 +35940,7 @@ const WORDS_NL_A2 = [
     ],
     "meanings": {
       "ko": "속이다",
-      "en": "to deceive",
+      "en": "deceive",
       "de": "betrügen",
       "es": "engañar",
       "nl": "bedriegen",
@@ -38182,17 +35950,14 @@ const WORDS_NL_A2 = [
       "zh": "欺骗",
       "ru": "обманывать",
       "fr": "tromper"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bedriegen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2617",
+    "lang": "nl",
     "lemma": "oranje",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38210,15 +35975,12 @@ const WORDS_NL_A2 = [
       "ja": "オレンジ",
       "zh": "橙色",
       "ru": "оранжевый",
-      "fr": "orange"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'orange"
+    }
   },
   {
     "id": "nl_2618",
+    "lang": "nl",
     "lemma": "oranje",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38239,14 +36001,15 @@ const WORDS_NL_A2 = [
       "zh": "橙色的",
       "ru": "оранжевый",
       "fr": "orange"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2619",
+    "lang": "nl",
     "lemma": "wijk",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "wijken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38264,15 +36027,12 @@ const WORDS_NL_A2 = [
       "ja": "近所",
       "zh": "街区",
       "ru": "район",
-      "fr": "quartier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "wijken"
+      "fr": "le quartier"
+    }
   },
   {
     "id": "nl_2620",
+    "lang": "nl",
     "lemma": "traag",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38293,14 +36053,15 @@ const WORDS_NL_A2 = [
       "zh": "缓慢的",
       "ru": "медленный",
       "fr": "lent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2621",
+    "lang": "nl",
     "lemma": "woonkamer",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "woonkamers",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38318,17 +36079,16 @@ const WORDS_NL_A2 = [
       "ja": "居間",
       "zh": "客厅",
       "ru": "гостиная",
-      "fr": "salon"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "woonkamers"
+      "fr": "le salon"
+    }
   },
   {
     "id": "nl_2622",
+    "lang": "nl",
     "lemma": "hot",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "hotten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38345,15 +36105,12 @@ const WORDS_NL_A2 = [
       "ja": "運搬かご",
       "zh": "提篮",
       "ru": "корзина",
-      "fr": "panier"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "hotten"
+      "fr": "le panier"
+    }
   },
   {
     "id": "nl_2623",
+    "lang": "nl",
     "lemma": "hot",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38373,12 +36130,11 @@ const WORDS_NL_A2 = [
       "zh": "时尚的",
       "ru": "модный",
       "fr": "branché"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2624",
+    "lang": "nl",
     "lemma": "bereiden",
     "pos": "Verb",
     "cefr": "A2",
@@ -38399,17 +36155,15 @@ const WORDS_NL_A2 = [
       "zh": "准备",
       "ru": "готовить",
       "fr": "préparer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "bereiden",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2625",
+    "lang": "nl",
     "lemma": "vreemdeling",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "vreemdelingen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38427,15 +36181,12 @@ const WORDS_NL_A2 = [
       "ja": "外国人",
       "zh": "外国人",
       "ru": "иностранец",
-      "fr": "étranger"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "vreemdelingen"
+      "fr": "l'étranger"
+    }
   },
   {
     "id": "nl_2626",
+    "lang": "nl",
     "lemma": "goedgekeurd",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38455,12 +36206,11 @@ const WORDS_NL_A2 = [
       "zh": "批准的",
       "ru": "одобренный",
       "fr": "approuvé"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2627",
+    "lang": "nl",
     "lemma": "omkleden",
     "pos": "Verb",
     "cefr": "A2",
@@ -38481,17 +36231,15 @@ const WORDS_NL_A2 = [
       "zh": "换衣服",
       "ru": "переодеваться",
       "fr": "changer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "omkleden",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2628",
+    "lang": "nl",
     "lemma": "sire",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "sires",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38508,17 +36256,16 @@ const WORDS_NL_A2 = [
       "ja": "陛下",
       "zh": "陛下",
       "ru": "государь",
-      "fr": "sire"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "sires"
+      "fr": "le sire"
+    }
   },
   {
     "id": "nl_2629",
+    "lang": "nl",
     "lemma": "haai",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "haaien",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38535,17 +36282,16 @@ const WORDS_NL_A2 = [
       "ja": "サメ",
       "zh": "鲨鱼",
       "ru": "акула",
-      "fr": "requin"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "haaien"
+      "fr": "le requin"
+    }
   },
   {
     "id": "nl_2630",
+    "lang": "nl",
     "lemma": "klaus",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "klausen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38562,15 +36308,12 @@ const WORDS_NL_A2 = [
       "ja": "小さな学習所",
       "zh": "小型学习室",
       "ru": "небольшой учебный дом",
-      "fr": "bureau"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "klausen"
+      "fr": "le bureau"
+    }
   },
   {
     "id": "nl_2631",
+    "lang": "nl",
     "lemma": "ademhalen",
     "pos": "Verb",
     "cefr": "A2",
@@ -38591,17 +36334,15 @@ const WORDS_NL_A2 = [
       "zh": "呼吸",
       "ru": "дышать",
       "fr": "respirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "ademhalen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2632",
+    "lang": "nl",
     "lemma": "zakenman",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "zakenmannen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38619,15 +36360,12 @@ const WORDS_NL_A2 = [
       "ja": "ビジネスマン",
       "zh": "商人",
       "ru": "бизнесмен",
-      "fr": "homme d'affaires"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "zakenmannen"
+      "fr": "l'homme d'affaires"
+    }
   },
   {
     "id": "nl_2633",
+    "lang": "nl",
     "lemma": "daten",
     "pos": "Verb",
     "cefr": "A2",
@@ -38647,15 +36385,11 @@ const WORDS_NL_A2 = [
       "zh": "约会",
       "ru": "встречаться",
       "fr": "date"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "daten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2634",
+    "lang": "nl",
     "lemma": "kwijtraken",
     "pos": "Verb",
     "cefr": "A2",
@@ -38676,15 +36410,11 @@ const WORDS_NL_A2 = [
       "zh": "丢失",
       "ru": "терять",
       "fr": "perdre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "kwijtraken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2635",
+    "lang": "nl",
     "lemma": "vereist",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38704,12 +36434,11 @@ const WORDS_NL_A2 = [
       "zh": "必需的",
       "ru": "требуемый",
       "fr": "requis"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2636",
+    "lang": "nl",
     "lemma": "lijnen",
     "pos": "Verb",
     "cefr": "A2",
@@ -38729,17 +36458,15 @@ const WORDS_NL_A2 = [
       "zh": "节食",
       "ru": "сидеть на диете",
       "fr": "régime"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "lijnen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2637",
+    "lang": "nl",
     "lemma": "ontwerp",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ontwerpen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38756,15 +36483,12 @@ const WORDS_NL_A2 = [
       "ja": "デザイン",
       "zh": "设计",
       "ru": "дизайн",
-      "fr": "design"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ontwerpen"
+      "fr": "le design"
+    }
   },
   {
     "id": "nl_2638",
+    "lang": "nl",
     "lemma": "betrekken",
     "pos": "Verb",
     "cefr": "A2",
@@ -38784,15 +36508,11 @@ const WORDS_NL_A2 = [
       "zh": "搬入",
       "ru": "въезжать",
       "fr": "emménager"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "betrekken",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2639",
+    "lang": "nl",
     "lemma": "ongewoon",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38813,12 +36533,11 @@ const WORDS_NL_A2 = [
       "zh": "不寻常的",
       "ru": "необычный",
       "fr": "inhabituel"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2640",
+    "lang": "nl",
     "lemma": "duister",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38839,14 +36558,14 @@ const WORDS_NL_A2 = [
       "zh": "黑暗的",
       "ru": "темный",
       "fr": "sombre"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2641",
+    "lang": "nl",
     "lemma": "duister",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38864,15 +36583,12 @@ const WORDS_NL_A2 = [
       "ja": "暗闇",
       "zh": "黑暗",
       "ru": "темнота",
-      "fr": "obscurité"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'obscurité"
+    }
   },
   {
     "id": "nl_2642",
+    "lang": "nl",
     "lemma": "zilveren",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -38893,14 +36609,15 @@ const WORDS_NL_A2 = [
       "zh": "银的",
       "ru": "серебряный",
       "fr": "argent"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2643",
+    "lang": "nl",
     "lemma": "handdoek",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "handdoeken",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38918,17 +36635,15 @@ const WORDS_NL_A2 = [
       "ja": "タオル",
       "zh": "毛巾",
       "ru": "полотенце",
-      "fr": "serviette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "handdoeken"
+      "fr": "la serviette"
+    }
   },
   {
     "id": "nl_2644",
+    "lang": "nl",
     "lemma": "expres",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38946,17 +36661,16 @@ const WORDS_NL_A2 = [
       "ja": "急行列車",
       "zh": "特快列车",
       "ru": "экспресс",
-      "fr": "express"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "l'express"
+    }
   },
   {
     "id": "nl_2645",
+    "lang": "nl",
     "lemma": "luchthaven",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "luchthavens",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -38974,17 +36688,16 @@ const WORDS_NL_A2 = [
       "ja": "空港",
       "zh": "机场",
       "ru": "аэропорт",
-      "fr": "aéroport"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "luchthavens"
+      "fr": "l'aéroport"
+    }
   },
   {
     "id": "nl_2646",
+    "lang": "nl",
     "lemma": "coke",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "cokes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39002,17 +36715,16 @@ const WORDS_NL_A2 = [
       "ja": "コーラ",
       "zh": "可乐",
       "ru": "кола",
-      "fr": "cola"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "cokes"
+      "fr": "la cola"
+    }
   },
   {
     "id": "nl_2647",
+    "lang": "nl",
     "lemma": "origineel",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "originelen",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39030,15 +36742,12 @@ const WORDS_NL_A2 = [
       "ja": "原本",
       "zh": "原件",
       "ru": "оригинал",
-      "fr": "original"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "originelen"
+      "fr": "l'original"
+    }
   },
   {
     "id": "nl_2648",
+    "lang": "nl",
     "lemma": "origineel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39059,12 +36768,11 @@ const WORDS_NL_A2 = [
       "zh": "原始的",
       "ru": "оригинальный",
       "fr": "original"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2649",
+    "lang": "nl",
     "lemma": "machtig",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39084,12 +36792,11 @@ const WORDS_NL_A2 = [
       "zh": "强大的",
       "ru": "могущественный",
       "fr": "puissant"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2650",
+    "lang": "nl",
     "lemma": "voegen",
     "pos": "Verb",
     "cefr": "A2",
@@ -39109,17 +36816,15 @@ const WORDS_NL_A2 = [
       "zh": "加入",
       "ru": "присоединяться",
       "fr": "joindre"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "voegen",
-    "reflexive": true,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2651",
+    "lang": "nl",
     "lemma": "mietje",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "mietjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39136,17 +36841,16 @@ const WORDS_NL_A2 = [
       "ja": "臆病者",
       "zh": "懦夫",
       "ru": "трус",
-      "fr": "mauviette"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "mietjes"
+      "fr": "la mauviette"
+    }
   },
   {
     "id": "nl_2652",
+    "lang": "nl",
     "lemma": "inhoud",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "inhouden",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39164,17 +36868,16 @@ const WORDS_NL_A2 = [
       "ja": "内容",
       "zh": "内容",
       "ru": "содержание",
-      "fr": "contenu"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "inhouden"
+      "fr": "le contenu"
+    }
   },
   {
     "id": "nl_2653",
+    "lang": "nl",
     "lemma": "ego",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "ego's",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39191,15 +36894,12 @@ const WORDS_NL_A2 = [
       "ja": "エゴ",
       "zh": "自我",
       "ru": "эго",
-      "fr": "ego"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "ego's"
+      "fr": "l'ego"
+    }
   },
   {
     "id": "nl_2654",
+    "lang": "nl",
     "lemma": "waardevol",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39220,14 +36920,15 @@ const WORDS_NL_A2 = [
       "zh": "有价值的",
       "ru": "ценный",
       "fr": "précieux"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2655",
+    "lang": "nl",
     "lemma": "voorkant",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "voorkanten",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39245,15 +36946,12 @@ const WORDS_NL_A2 = [
       "ja": "前面",
       "zh": "正面",
       "ru": "передняя сторона",
-      "fr": "front"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "voorkanten"
+      "fr": "le front"
+    }
   },
   {
     "id": "nl_2656",
+    "lang": "nl",
     "lemma": "hopeloos",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39274,14 +36972,15 @@ const WORDS_NL_A2 = [
       "zh": "绝望的",
       "ru": "безнадежный",
       "fr": "désespéré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2657",
+    "lang": "nl",
     "lemma": "avondeten",
     "pos": "Nomen",
+    "article": "het",
+    "plural": "avondetentjes",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39299,17 +36998,15 @@ const WORDS_NL_A2 = [
       "ja": "夕食",
       "zh": "晚餐",
       "ru": "ужин",
-      "fr": "dîner"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": "avondetentjes"
+      "fr": "le dîner"
+    }
   },
   {
     "id": "nl_2658",
+    "lang": "nl",
     "lemma": "uiterste",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39326,17 +37023,15 @@ const WORDS_NL_A2 = [
       "ja": "極限",
       "zh": "极限",
       "ru": "крайность",
-      "fr": "extrême"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "l'extrême"
+    }
   },
   {
     "id": "nl_2659",
+    "lang": "nl",
     "lemma": "blad",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39354,15 +37049,12 @@ const WORDS_NL_A2 = [
       "ja": "葉",
       "zh": "叶子",
       "ru": "лист",
-      "fr": "feuille"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "la feuille"
+    }
   },
   {
     "id": "nl_2660",
+    "lang": "nl",
     "lemma": "geel",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39383,14 +37075,14 @@ const WORDS_NL_A2 = [
       "zh": "黄色的",
       "ru": "жёлтый",
       "fr": "jaune"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2661",
+    "lang": "nl",
     "lemma": "geel",
     "pos": "Nomen",
+    "article": "het",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39408,17 +37100,16 @@ const WORDS_NL_A2 = [
       "ja": "黄色",
       "zh": "黄色",
       "ru": "жёлтый цвет",
-      "fr": "jaune"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "het",
-    "plural": ""
+      "fr": "le jaune"
+    }
   },
   {
     "id": "nl_2662",
+    "lang": "nl",
     "lemma": "snor",
     "pos": "Nomen",
+    "article": "de",
+    "plural": "snorren",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39436,17 +37127,15 @@ const WORDS_NL_A2 = [
       "ja": "口ひげ",
       "zh": "小胡子",
       "ru": "усы",
-      "fr": "moustache"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": "snorren"
+      "fr": "la moustache"
+    }
   },
   {
     "id": "nl_2663",
+    "lang": "nl",
     "lemma": "eed",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39463,15 +37152,12 @@ const WORDS_NL_A2 = [
       "ja": "誓い",
       "zh": "誓言",
       "ru": "клятва",
-      "fr": "serment"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le serment"
+    }
   },
   {
     "id": "nl_2664",
+    "lang": "nl",
     "lemma": "afzetten",
     "pos": "Verb",
     "cefr": "A2",
@@ -39491,15 +37177,11 @@ const WORDS_NL_A2 = [
       "zh": "截肢",
       "ru": "ампутировать",
       "fr": "amputer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "afzetten",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2665",
+    "lang": "nl",
     "lemma": "verlopen",
     "pos": "Verb",
     "cefr": "A2",
@@ -39520,15 +37202,11 @@ const WORDS_NL_A2 = [
       "zh": "过期",
       "ru": "истекать",
       "fr": "expirer"
-    },
-    "examples": [],
-    "meta": {},
-    "infinitive": "verlopen",
-    "reflexive": false,
-    "irregular": null
+    }
   },
   {
     "id": "nl_2666",
+    "lang": "nl",
     "lemma": "verlopen",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39549,12 +37227,11 @@ const WORDS_NL_A2 = [
       "zh": "过期的",
       "ru": "просроченный",
       "fr": "expiré"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2667",
+    "lang": "nl",
     "lemma": "linker",
     "pos": "Adjektiv",
     "cefr": "A2",
@@ -39576,14 +37253,14 @@ const WORDS_NL_A2 = [
       "zh": "左边的",
       "ru": "левый",
       "fr": "gauche"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "nl_2668",
+    "lang": "nl",
     "lemma": "linker",
     "pos": "Nomen",
+    "article": "de",
     "cefr": "A2",
     "tags": [
       "exam",
@@ -39600,11 +37277,7 @@ const WORDS_NL_A2 = [
       "ja": "リンカ",
       "zh": "链接器",
       "ru": "компоновщик",
-      "fr": "lieur"
-    },
-    "examples": [],
-    "meta": {},
-    "article": "de",
-    "plural": ""
+      "fr": "le lieur"
+    }
   }
 ];

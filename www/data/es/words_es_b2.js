@@ -2,6 +2,7 @@
 const WORDS_ES_B2 = [
   {
     "id": "es_4074",
+    "lang": "es",
     "lemma": "recomendación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21,13 +22,12 @@ const WORDS_ES_B2 = [
       "zh": "推荐",
       "ru": "рекомендация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "recomendaciones"
   },
   {
     "id": "es_4075",
+    "lang": "es",
     "lemma": "escáner",
     "pos": "Nomen",
     "cefr": "B2",
@@ -47,13 +47,12 @@ const WORDS_ES_B2 = [
       "zh": "扫描仪",
       "ru": "сканер"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "escáneres"
   },
   {
     "id": "es_4076",
+    "lang": "es",
     "lemma": "nudo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -73,13 +72,12 @@ const WORDS_ES_B2 = [
       "zh": "结",
       "ru": "узел"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "nudos"
   },
   {
     "id": "es_4078",
+    "lang": "es",
     "lemma": "dental",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -98,12 +96,11 @@ const WORDS_ES_B2 = [
       "ja": "歯科の",
       "zh": "牙科的",
       "ru": "зубной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4080",
+    "lang": "es",
     "lemma": "suéter",
     "pos": "Nomen",
     "cefr": "B2",
@@ -124,13 +121,12 @@ const WORDS_ES_B2 = [
       "zh": "毛衣",
       "ru": "свитер"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "suéteres"
   },
   {
     "id": "es_4083",
+    "lang": "es",
     "lemma": "mexicano",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -149,12 +145,11 @@ const WORDS_ES_B2 = [
       "ja": "メキシコの",
       "zh": "墨西哥的",
       "ru": "мексиканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4085",
+    "lang": "es",
     "lemma": "arroyo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -174,13 +169,12 @@ const WORDS_ES_B2 = [
       "zh": "小溪",
       "ru": "ручей"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "arroyos"
   },
   {
     "id": "es_4087",
+    "lang": "es",
     "lemma": "evacuación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -200,13 +194,12 @@ const WORDS_ES_B2 = [
       "zh": "疏散",
       "ru": "эвакуация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "evacuaciones"
   },
   {
     "id": "es_4089",
+    "lang": "es",
     "lemma": "tenso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -225,12 +218,11 @@ const WORDS_ES_B2 = [
       "ja": "緊張した",
       "zh": "紧张的",
       "ru": "напряженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4090",
+    "lang": "es",
     "lemma": "ofendido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -249,12 +241,11 @@ const WORDS_ES_B2 = [
       "ja": "傷ついた",
       "zh": "被冒犯的",
       "ru": "оскорбленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4091",
+    "lang": "es",
     "lemma": "posada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -274,13 +265,12 @@ const WORDS_ES_B2 = [
       "zh": "客栈",
       "ru": "постоялый двор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "posadas"
   },
   {
     "id": "es_4093",
+    "lang": "es",
     "lemma": "píldora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -300,13 +290,12 @@ const WORDS_ES_B2 = [
       "zh": "药丸",
       "ru": "таблетка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "píldoras"
   },
   {
     "id": "es_4095",
+    "lang": "es",
     "lemma": "creativo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -325,12 +314,11 @@ const WORDS_ES_B2 = [
       "ja": "創造的な",
       "zh": "创意的",
       "ru": "творческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4097",
+    "lang": "es",
     "lemma": "escocés",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -349,12 +337,11 @@ const WORDS_ES_B2 = [
       "ja": "スコットランドの",
       "zh": "苏格兰的",
       "ru": "шотландский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4099",
+    "lang": "es",
     "lemma": "crucial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -373,12 +360,11 @@ const WORDS_ES_B2 = [
       "ja": "決定的な",
       "zh": "关键的",
       "ru": "решающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4101",
+    "lang": "es",
     "lemma": "infinito",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -397,12 +383,11 @@ const WORDS_ES_B2 = [
       "ja": "無限の",
       "zh": "无限的",
       "ru": "бесконечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4103",
+    "lang": "es",
     "lemma": "pimienta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -422,13 +407,12 @@ const WORDS_ES_B2 = [
       "zh": "胡椒",
       "ru": "перец"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pimientas"
   },
   {
     "id": "es_4104",
+    "lang": "es",
     "lemma": "mandíbula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -448,13 +432,12 @@ const WORDS_ES_B2 = [
       "zh": "下颌",
       "ru": "челюсть"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mandíbulas"
   },
   {
     "id": "es_4106",
+    "lang": "es",
     "lemma": "notable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -473,12 +456,11 @@ const WORDS_ES_B2 = [
       "ja": "注目すべき",
       "zh": "值得注意的",
       "ru": "примечательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4108",
+    "lang": "es",
     "lemma": "cultural",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -497,12 +479,11 @@ const WORDS_ES_B2 = [
       "ja": "文化的な",
       "zh": "文化的",
       "ru": "культурный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4109",
+    "lang": "es",
     "lemma": "relevante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -521,12 +502,11 @@ const WORDS_ES_B2 = [
       "ja": "関連のある",
       "zh": "相关的",
       "ru": "релевантный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4117",
+    "lang": "es",
     "lemma": "ancho",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -545,12 +525,11 @@ const WORDS_ES_B2 = [
       "ja": "広い",
       "zh": "宽的",
       "ru": "широкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4118",
+    "lang": "es",
     "lemma": "ancho",
     "pos": "Nomen",
     "cefr": "B2",
@@ -570,13 +549,12 @@ const WORDS_ES_B2 = [
       "zh": "宽度",
       "ru": "ширина"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "anchos"
   },
   {
     "id": "es_4119",
+    "lang": "es",
     "lemma": "natal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -595,12 +573,11 @@ const WORDS_ES_B2 = [
       "ja": "出生の",
       "zh": "出生的",
       "ru": "родной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4120",
+    "lang": "es",
     "lemma": "ajo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -620,13 +597,12 @@ const WORDS_ES_B2 = [
       "zh": "大蒜",
       "ru": "чеснок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ajos"
   },
   {
     "id": "es_4123",
+    "lang": "es",
     "lemma": "relleno",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -645,12 +621,11 @@ const WORDS_ES_B2 = [
       "ja": "詰められた",
       "zh": "填充的",
       "ru": "заполненный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4124",
+    "lang": "es",
     "lemma": "relleno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -670,13 +645,12 @@ const WORDS_ES_B2 = [
       "zh": "填充物",
       "ru": "начинка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rellenos"
   },
   {
     "id": "es_4125",
+    "lang": "es",
     "lemma": "pedo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -697,13 +671,12 @@ const WORDS_ES_B2 = [
       "zh": "屁",
       "ru": "пердёж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pedos"
   },
   {
     "id": "es_4127",
+    "lang": "es",
     "lemma": "documentación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -724,13 +697,12 @@ const WORDS_ES_B2 = [
       "zh": "文档",
       "ru": "документация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "documentaciones"
   },
   {
     "id": "es_4130",
+    "lang": "es",
     "lemma": "quiebra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -750,13 +722,11 @@ const WORDS_ES_B2 = [
       "zh": "破产",
       "ru": "банкротство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_4131",
+    "lang": "es",
     "lemma": "fundamental",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -775,12 +745,11 @@ const WORDS_ES_B2 = [
       "ja": "根本的な",
       "zh": "根本的",
       "ru": "фундаментальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4132",
+    "lang": "es",
     "lemma": "universal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -799,12 +768,11 @@ const WORDS_ES_B2 = [
       "ja": "普遍的な",
       "zh": "普遍的",
       "ru": "универсальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4133",
+    "lang": "es",
     "lemma": "terrestre",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -823,12 +791,11 @@ const WORDS_ES_B2 = [
       "ja": "地球の",
       "zh": "地球的",
       "ru": "земной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4136",
+    "lang": "es",
     "lemma": "facilidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -848,13 +815,12 @@ const WORDS_ES_B2 = [
       "zh": "容易",
       "ru": "легкость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "facilidades"
   },
   {
     "id": "es_4137",
+    "lang": "es",
     "lemma": "harina",
     "pos": "Nomen",
     "cefr": "B2",
@@ -874,13 +840,12 @@ const WORDS_ES_B2 = [
       "zh": "面粉",
       "ru": "мука"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "harinas"
   },
   {
     "id": "es_4139",
+    "lang": "es",
     "lemma": "histórico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -899,12 +864,11 @@ const WORDS_ES_B2 = [
       "ja": "歴史的な",
       "zh": "历史的",
       "ru": "исторический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4140",
+    "lang": "es",
     "lemma": "baba",
     "pos": "Nomen",
     "cefr": "B2",
@@ -924,13 +888,12 @@ const WORDS_ES_B2 = [
       "zh": "唾液",
       "ru": "слюна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "babas"
   },
   {
     "id": "es_4143",
+    "lang": "es",
     "lemma": "despido",
     "pos": "Nomen",
     "cefr": "B2",
@@ -950,13 +913,12 @@ const WORDS_ES_B2 = [
       "zh": "解雇",
       "ru": "увольнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "despidos"
   },
   {
     "id": "es_4144",
+    "lang": "es",
     "lemma": "padrastro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -977,13 +939,12 @@ const WORDS_ES_B2 = [
       "zh": "继父",
       "ru": "отчим"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "padrastros"
   },
   {
     "id": "es_4145",
+    "lang": "es",
     "lemma": "blusa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1003,13 +964,12 @@ const WORDS_ES_B2 = [
       "zh": "女衬衫",
       "ru": "блузка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "blusas"
   },
   {
     "id": "es_4146",
+    "lang": "es",
     "lemma": "inmigración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1029,13 +989,12 @@ const WORDS_ES_B2 = [
       "zh": "移民",
       "ru": "иммиграция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "inmigraciones"
   },
   {
     "id": "es_4147",
+    "lang": "es",
     "lemma": "colapso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1055,13 +1014,12 @@ const WORDS_ES_B2 = [
       "zh": "崩溃",
       "ru": "коллапс"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "colapsos"
   },
   {
     "id": "es_4148",
+    "lang": "es",
     "lemma": "menta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1081,13 +1039,12 @@ const WORDS_ES_B2 = [
       "zh": "薄荷",
       "ru": "мята"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mentas"
   },
   {
     "id": "es_4149",
+    "lang": "es",
     "lemma": "internado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1107,13 +1064,11 @@ const WORDS_ES_B2 = [
       "zh": "寄宿学校",
       "ru": "интернат"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4150",
+    "lang": "es",
     "lemma": "cápsula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1133,13 +1088,12 @@ const WORDS_ES_B2 = [
       "zh": "胶囊",
       "ru": "капсула"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cápsulas"
   },
   {
     "id": "es_4152",
+    "lang": "es",
     "lemma": "lodo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1159,13 +1113,12 @@ const WORDS_ES_B2 = [
       "zh": "泥浆",
       "ru": "грязь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "lodos"
   },
   {
     "id": "es_4154",
+    "lang": "es",
     "lemma": "aislado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1184,12 +1137,11 @@ const WORDS_ES_B2 = [
       "ja": "孤立した",
       "zh": "孤立的",
       "ru": "изолированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4155",
+    "lang": "es",
     "lemma": "tránsito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1209,13 +1161,12 @@ const WORDS_ES_B2 = [
       "zh": "过境",
       "ru": "транзит"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tránsitos"
   },
   {
     "id": "es_4156",
+    "lang": "es",
     "lemma": "viviente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1234,12 +1185,11 @@ const WORDS_ES_B2 = [
       "ja": "生きている",
       "zh": "活着的",
       "ru": "живой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4158",
+    "lang": "es",
     "lemma": "funcionamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1259,13 +1209,12 @@ const WORDS_ES_B2 = [
       "zh": "运作",
       "ru": "функционирование"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "funcionamientos"
   },
   {
     "id": "es_4159",
+    "lang": "es",
     "lemma": "adjunto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1284,12 +1233,11 @@ const WORDS_ES_B2 = [
       "ja": "添付された",
       "zh": "附加的",
       "ru": "прилагаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4160",
+    "lang": "es",
     "lemma": "adjunto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1309,13 +1257,12 @@ const WORDS_ES_B2 = [
       "zh": "附件",
       "ru": "приложение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "adjuntos"
   },
   {
     "id": "es_4161",
+    "lang": "es",
     "lemma": "demora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1335,13 +1282,12 @@ const WORDS_ES_B2 = [
       "zh": "延迟",
       "ru": "задержка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "demoras"
   },
   {
     "id": "es_4163",
+    "lang": "es",
     "lemma": "aficionado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1360,12 +1306,11 @@ const WORDS_ES_B2 = [
       "ja": "熱心な",
       "zh": "热爱的",
       "ru": "увлечённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4164",
+    "lang": "es",
     "lemma": "desafortunado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1384,12 +1329,11 @@ const WORDS_ES_B2 = [
       "ja": "不運な",
       "zh": "不幸的",
       "ru": "несчастный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4165",
+    "lang": "es",
     "lemma": "burla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1409,13 +1353,12 @@ const WORDS_ES_B2 = [
       "zh": "嘲笑",
       "ru": "насмешка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "burlas"
   },
   {
     "id": "es_4171",
+    "lang": "es",
     "lemma": "facial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1434,12 +1377,11 @@ const WORDS_ES_B2 = [
       "ja": "顔の",
       "zh": "面部的",
       "ru": "лицевой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4173",
+    "lang": "es",
     "lemma": "jeep",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1459,13 +1401,12 @@ const WORDS_ES_B2 = [
       "zh": "吉普车",
       "ru": "джип"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "jeeps"
   },
   {
     "id": "es_4174",
+    "lang": "es",
     "lemma": "autógrafo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1484,12 +1425,11 @@ const WORDS_ES_B2 = [
       "ja": "自筆の",
       "zh": "亲笔的",
       "ru": "автографический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4175",
+    "lang": "es",
     "lemma": "autógrafo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1509,13 +1449,12 @@ const WORDS_ES_B2 = [
       "zh": "亲笔签名",
       "ru": "автограф"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "autógrafos"
   },
   {
     "id": "es_4176",
+    "lang": "es",
     "lemma": "topo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1535,13 +1474,12 @@ const WORDS_ES_B2 = [
       "zh": "鼹鼠",
       "ru": "крот"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "topos"
   },
   {
     "id": "es_4177",
+    "lang": "es",
     "lemma": "penal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1560,12 +1498,11 @@ const WORDS_ES_B2 = [
       "ja": "刑事的な",
       "zh": "刑事的",
       "ru": "уголовный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4178",
+    "lang": "es",
     "lemma": "penal",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1585,13 +1522,12 @@ const WORDS_ES_B2 = [
       "zh": "监狱",
       "ru": "тюрьма"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "penales"
   },
   {
     "id": "es_4180",
+    "lang": "es",
     "lemma": "noto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1610,12 +1546,11 @@ const WORDS_ES_B2 = [
       "ja": "知られた",
       "zh": "众所周知的",
       "ru": "известный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4183",
+    "lang": "es",
     "lemma": "respaldo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1635,13 +1570,12 @@ const WORDS_ES_B2 = [
       "zh": "靠背",
       "ru": "спинка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "respaldos"
   },
   {
     "id": "es_4185",
+    "lang": "es",
     "lemma": "inconveniente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1660,12 +1594,11 @@ const WORDS_ES_B2 = [
       "ja": "不便な",
       "zh": "不便的",
       "ru": "неудобный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4187",
+    "lang": "es",
     "lemma": "legítimo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1684,12 +1617,11 @@ const WORDS_ES_B2 = [
       "ja": "正当な",
       "zh": "合法的",
       "ru": "законный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4190",
+    "lang": "es",
     "lemma": "chispa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1709,13 +1641,12 @@ const WORDS_ES_B2 = [
       "zh": "火花",
       "ru": "искра"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "chispas"
   },
   {
     "id": "es_4191",
+    "lang": "es",
     "lemma": "grandeza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1735,13 +1666,12 @@ const WORDS_ES_B2 = [
       "zh": "伟大",
       "ru": "величие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "grandezas"
   },
   {
     "id": "es_4192",
+    "lang": "es",
     "lemma": "envenenado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1760,12 +1690,11 @@ const WORDS_ES_B2 = [
       "ja": "毒された",
       "zh": "中毒的",
       "ru": "отравленный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4194",
+    "lang": "es",
     "lemma": "abeja",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1785,13 +1714,12 @@ const WORDS_ES_B2 = [
       "zh": "蜜蜂",
       "ru": "пчела"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "abejas"
   },
   {
     "id": "es_4195",
+    "lang": "es",
     "lemma": "aliado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1810,12 +1738,11 @@ const WORDS_ES_B2 = [
       "ja": "同盟国の",
       "zh": "盟国的",
       "ru": "союзный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4197",
+    "lang": "es",
     "lemma": "sirvienta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1835,13 +1762,12 @@ const WORDS_ES_B2 = [
       "zh": "女仆",
       "ru": "служанка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sirvientas"
   },
   {
     "id": "es_4198",
+    "lang": "es",
     "lemma": "gasolinera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1861,13 +1787,12 @@ const WORDS_ES_B2 = [
       "zh": "加油站",
       "ru": "заправка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gasolineras"
   },
   {
     "id": "es_4200",
+    "lang": "es",
     "lemma": "tasa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1887,13 +1812,12 @@ const WORDS_ES_B2 = [
       "zh": "比率",
       "ru": "ставка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tasas"
   },
   {
     "id": "es_4202",
+    "lang": "es",
     "lemma": "helada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1913,13 +1837,12 @@ const WORDS_ES_B2 = [
       "zh": "霜冻",
       "ru": "мороз"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "heladas"
   },
   {
     "id": "es_4209",
+    "lang": "es",
     "lemma": "defecto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -1939,13 +1862,12 @@ const WORDS_ES_B2 = [
       "zh": "缺陷",
       "ru": "дефект"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "defectos"
   },
   {
     "id": "es_4210",
+    "lang": "es",
     "lemma": "corrupto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1964,12 +1886,11 @@ const WORDS_ES_B2 = [
       "ja": "腐敗した",
       "zh": "腐败的",
       "ru": "коррумпированный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4211",
+    "lang": "es",
     "lemma": "ausente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -1988,12 +1909,11 @@ const WORDS_ES_B2 = [
       "ja": "不在の",
       "zh": "缺席的",
       "ru": "отсутствующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4213",
+    "lang": "es",
     "lemma": "sensual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2012,12 +1932,11 @@ const WORDS_ES_B2 = [
       "ja": "官能的な",
       "zh": "感官的",
       "ru": "чувственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4214",
+    "lang": "es",
     "lemma": "naval",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2036,12 +1955,11 @@ const WORDS_ES_B2 = [
       "ja": "海軍の",
       "zh": "海军的",
       "ru": "военно-морской"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4215",
+    "lang": "es",
     "lemma": "distante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2060,12 +1978,11 @@ const WORDS_ES_B2 = [
       "ja": "遠い",
       "zh": "遥远的",
       "ru": "далекий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4216",
+    "lang": "es",
     "lemma": "lecho",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2085,13 +2002,12 @@ const WORDS_ES_B2 = [
       "zh": "床",
       "ru": "постель"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "lechos"
   },
   {
     "id": "es_4217",
+    "lang": "es",
     "lemma": "sinceridad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2111,13 +2027,12 @@ const WORDS_ES_B2 = [
       "zh": "真诚",
       "ru": "искренность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sinceridades"
   },
   {
     "id": "es_4221",
+    "lang": "es",
     "lemma": "traslado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2137,13 +2052,12 @@ const WORDS_ES_B2 = [
       "zh": "转移",
       "ru": "перемещение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "traslados"
   },
   {
     "id": "es_4223",
+    "lang": "es",
     "lemma": "húmedo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2162,12 +2076,11 @@ const WORDS_ES_B2 = [
       "ja": "湿った",
       "zh": "潮湿的",
       "ru": "влажный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4225",
+    "lang": "es",
     "lemma": "caminata",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2187,15 +2100,16 @@ const WORDS_ES_B2 = [
       "zh": "散步",
       "ru": "прогулка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "caminatas"
   },
   {
     "id": "es_4228",
+    "lang": "es",
     "lemma": "ochenta",
     "pos": "Nomen",
+    "article": "el",
+    "plural": "ochentas",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -2205,21 +2119,25 @@ const WORDS_ES_B2 = [
       "ko": "팔십",
       "en": "eighty",
       "de": "achtzig",
-      "es": "ochenta",
-      "fr": "quatre-vingts",
+      "es": "el ochenta",
+      "fr": "le quatre-vingts",
       "it": "ottanta",
       "pt": "oitenta",
       "ja": "八十",
       "zh": "八十",
       "ru": "восемьдесят"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": "ochentas"
+    "meta": {
+      "noArticleMeanings": {
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "es_4229",
+    "lang": "es",
     "lemma": "daga",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2239,13 +2157,12 @@ const WORDS_ES_B2 = [
       "zh": "匕首",
       "ru": "кинжал"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "dagas"
   },
   {
     "id": "es_4230",
+    "lang": "es",
     "lemma": "adicción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2265,13 +2182,12 @@ const WORDS_ES_B2 = [
       "zh": "成瘾",
       "ru": "зависимость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "adicciones"
   },
   {
     "id": "es_4233",
+    "lang": "es",
     "lemma": "explosivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2290,12 +2206,11 @@ const WORDS_ES_B2 = [
       "ja": "爆発的な",
       "zh": "爆炸性的",
       "ru": "взрывчатый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4234",
+    "lang": "es",
     "lemma": "labor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2315,13 +2230,11 @@ const WORDS_ES_B2 = [
       "zh": "工作",
       "ru": "работа"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_4235",
+    "lang": "es",
     "lemma": "pentágono",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2341,13 +2254,12 @@ const WORDS_ES_B2 = [
       "zh": "五边形",
       "ru": "пятиугольник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pentágonos"
   },
   {
     "id": "es_4238",
+    "lang": "es",
     "lemma": "fax",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2367,13 +2279,12 @@ const WORDS_ES_B2 = [
       "zh": "传真",
       "ru": "факс"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "faxes"
   },
   {
     "id": "es_4239",
+    "lang": "es",
     "lemma": "conmoción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2393,13 +2304,12 @@ const WORDS_ES_B2 = [
       "zh": "震动",
       "ru": "потрясение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "conmociones"
   },
   {
     "id": "es_4241",
+    "lang": "es",
     "lemma": "atardecer",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2419,13 +2329,12 @@ const WORDS_ES_B2 = [
       "zh": "傍晚",
       "ru": "вечер"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "atardeceres"
   },
   {
     "id": "es_4242",
+    "lang": "es",
     "lemma": "jurisdicción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2445,13 +2354,12 @@ const WORDS_ES_B2 = [
       "zh": "管辖权",
       "ru": "юрисдикция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "jurisdicciones"
   },
   {
     "id": "es_4243",
+    "lang": "es",
     "lemma": "humillante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2470,12 +2378,11 @@ const WORDS_ES_B2 = [
       "ja": "屈辱的な",
       "zh": "羞辱的",
       "ru": "унизительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4245",
+    "lang": "es",
     "lemma": "oposición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2495,13 +2402,12 @@ const WORDS_ES_B2 = [
       "zh": "反对",
       "ru": "оппозиция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "oposiciones"
   },
   {
     "id": "es_4247",
+    "lang": "es",
     "lemma": "maní",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2521,13 +2427,12 @@ const WORDS_ES_B2 = [
       "zh": "花生",
       "ru": "арахис"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "manís"
   },
   {
     "id": "es_4248",
+    "lang": "es",
     "lemma": "sendero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2547,13 +2452,12 @@ const WORDS_ES_B2 = [
       "zh": "小径",
       "ru": "тропинка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "senderos"
   },
   {
     "id": "es_4249",
+    "lang": "es",
     "lemma": "artefacto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2573,13 +2477,12 @@ const WORDS_ES_B2 = [
       "zh": "装置",
       "ru": "устройство"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "artefactos"
   },
   {
     "id": "es_4250",
+    "lang": "es",
     "lemma": "cancha",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2599,13 +2502,12 @@ const WORDS_ES_B2 = [
       "zh": "运动场",
       "ru": "площадка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "canchas"
   },
   {
     "id": "es_4251",
+    "lang": "es",
     "lemma": "limonada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2625,13 +2527,12 @@ const WORDS_ES_B2 = [
       "zh": "柠檬水",
       "ru": "лимонад"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "limonadas"
   },
   {
     "id": "es_4252",
+    "lang": "es",
     "lemma": "laberinto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2651,13 +2552,12 @@ const WORDS_ES_B2 = [
       "zh": "迷宫",
       "ru": "лабиринт"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "laberintos"
   },
   {
     "id": "es_4253",
+    "lang": "es",
     "lemma": "paracaídas",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2677,13 +2577,11 @@ const WORDS_ES_B2 = [
       "zh": "降落伞",
       "ru": "парашют"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4254",
+    "lang": "es",
     "lemma": "ardilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2703,13 +2601,12 @@ const WORDS_ES_B2 = [
       "zh": "松鼠",
       "ru": "белка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ardillas"
   },
   {
     "id": "es_4255",
+    "lang": "es",
     "lemma": "horizonte",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2729,13 +2626,12 @@ const WORDS_ES_B2 = [
       "zh": "地平线",
       "ru": "горизонт"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "horizontes"
   },
   {
     "id": "es_4256",
+    "lang": "es",
     "lemma": "despegue",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2755,13 +2651,12 @@ const WORDS_ES_B2 = [
       "zh": "起飞",
       "ru": "взлет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "despegues"
   },
   {
     "id": "es_4259",
+    "lang": "es",
     "lemma": "atún",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2781,13 +2676,12 @@ const WORDS_ES_B2 = [
       "zh": "金枪鱼",
       "ru": "тунец"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "atunes"
   },
   {
     "id": "es_4260",
+    "lang": "es",
     "lemma": "inapropiado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2806,12 +2700,11 @@ const WORDS_ES_B2 = [
       "ja": "不適切な",
       "zh": "不恰当的",
       "ru": "неподходящий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4263",
+    "lang": "es",
     "lemma": "abandono",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2831,13 +2724,12 @@ const WORDS_ES_B2 = [
       "zh": "放弃",
       "ru": "отказ"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "abandonos"
   },
   {
     "id": "es_4264",
+    "lang": "es",
     "lemma": "yerno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2857,13 +2749,12 @@ const WORDS_ES_B2 = [
       "zh": "女婿",
       "ru": "зять"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "yernos"
   },
   {
     "id": "es_4265",
+    "lang": "es",
     "lemma": "ingenuo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -2882,12 +2773,11 @@ const WORDS_ES_B2 = [
       "ja": "素朴な",
       "zh": "天真的",
       "ru": "наивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4267",
+    "lang": "es",
     "lemma": "coñac",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2907,13 +2797,12 @@ const WORDS_ES_B2 = [
       "zh": "干邑",
       "ru": "коньяк"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "coñacs"
   },
   {
     "id": "es_4270",
+    "lang": "es",
     "lemma": "armonía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2933,13 +2822,12 @@ const WORDS_ES_B2 = [
       "zh": "和谐",
       "ru": "гармония"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "armonías"
   },
   {
     "id": "es_4272",
+    "lang": "es",
     "lemma": "salmón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2959,13 +2847,12 @@ const WORDS_ES_B2 = [
       "zh": "三文鱼",
       "ru": "лосось"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "salmones"
   },
   {
     "id": "es_4274",
+    "lang": "es",
     "lemma": "arteria",
     "pos": "Nomen",
     "cefr": "B2",
@@ -2985,13 +2872,12 @@ const WORDS_ES_B2 = [
       "zh": "动脉",
       "ru": "артерия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "arterias"
   },
   {
     "id": "es_4275",
+    "lang": "es",
     "lemma": "despreciable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3010,12 +2896,11 @@ const WORDS_ES_B2 = [
       "ja": "軽蔑すべき",
       "zh": "可鄙的",
       "ru": "презренный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4278",
+    "lang": "es",
     "lemma": "alabado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3034,12 +2919,11 @@ const WORDS_ES_B2 = [
       "ja": "称賛される",
       "zh": "受称赞的",
       "ru": "хвалимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4280",
+    "lang": "es",
     "lemma": "correa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3059,13 +2943,12 @@ const WORDS_ES_B2 = [
       "zh": "皮带",
       "ru": "ремень"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "correas"
   },
   {
     "id": "es_4282",
+    "lang": "es",
     "lemma": "feroz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3084,12 +2967,11 @@ const WORDS_ES_B2 = [
       "ja": "凶暴な",
       "zh": "凶猛的",
       "ru": "свирепый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4283",
+    "lang": "es",
     "lemma": "contexto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3109,13 +2991,12 @@ const WORDS_ES_B2 = [
       "zh": "背景",
       "ru": "контекст"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "contextos"
   },
   {
     "id": "es_4284",
+    "lang": "es",
     "lemma": "aparición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3135,13 +3016,12 @@ const WORDS_ES_B2 = [
       "zh": "出现",
       "ru": "появление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "apariciones"
   },
   {
     "id": "es_4286",
+    "lang": "es",
     "lemma": "distribución",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3161,13 +3041,12 @@ const WORDS_ES_B2 = [
       "zh": "分配",
       "ru": "распределение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "distribuciones"
   },
   {
     "id": "es_4287",
+    "lang": "es",
     "lemma": "repentino",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3186,12 +3065,11 @@ const WORDS_ES_B2 = [
       "ja": "突然の",
       "zh": "突然的",
       "ru": "внезапный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4288",
+    "lang": "es",
     "lemma": "rezo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3211,13 +3089,12 @@ const WORDS_ES_B2 = [
       "zh": "祈祷",
       "ru": "молитва"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rezos"
   },
   {
     "id": "es_4289",
+    "lang": "es",
     "lemma": "humillación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3237,13 +3114,12 @@ const WORDS_ES_B2 = [
       "zh": "羞辱",
       "ru": "унижение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "humillaciones"
   },
   {
     "id": "es_4297",
+    "lang": "es",
     "lemma": "aceptable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3262,12 +3138,11 @@ const WORDS_ES_B2 = [
       "ja": "受け入れられる",
       "zh": "可接受的",
       "ru": "приемлемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4300",
+    "lang": "es",
     "lemma": "tos",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3287,13 +3162,12 @@ const WORDS_ES_B2 = [
       "zh": "咳嗽",
       "ru": "кашель"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "toses"
   },
   {
     "id": "es_4301",
+    "lang": "es",
     "lemma": "insecto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3313,13 +3187,12 @@ const WORDS_ES_B2 = [
       "zh": "昆虫",
       "ru": "насекомое"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "insectos"
   },
   {
     "id": "es_4302",
+    "lang": "es",
     "lemma": "iluminación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3339,13 +3212,12 @@ const WORDS_ES_B2 = [
       "zh": "照明",
       "ru": "освещение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "iluminaciones"
   },
   {
     "id": "es_4303",
+    "lang": "es",
     "lemma": "vacuna",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3365,13 +3237,12 @@ const WORDS_ES_B2 = [
       "zh": "疫苗",
       "ru": "вакцина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vacunas"
   },
   {
     "id": "es_4307",
+    "lang": "es",
     "lemma": "subterráneo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3390,12 +3261,11 @@ const WORDS_ES_B2 = [
       "ja": "地下の",
       "zh": "地下的",
       "ru": "подземный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4308",
+    "lang": "es",
     "lemma": "subterráneo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3415,13 +3285,12 @@ const WORDS_ES_B2 = [
       "zh": "地铁",
       "ru": "метро"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "subterráneos"
   },
   {
     "id": "es_4309",
+    "lang": "es",
     "lemma": "determinado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3440,12 +3309,11 @@ const WORDS_ES_B2 = [
       "ja": "特定の",
       "zh": "特定的",
       "ru": "определённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4310",
+    "lang": "es",
     "lemma": "soborno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3465,13 +3333,12 @@ const WORDS_ES_B2 = [
       "zh": "贿赂",
       "ru": "взятка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "sobornos"
   },
   {
     "id": "es_4314",
+    "lang": "es",
     "lemma": "volcán",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3491,13 +3358,12 @@ const WORDS_ES_B2 = [
       "zh": "火山",
       "ru": "вулкан"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "volcanes"
   },
   {
     "id": "es_4315",
+    "lang": "es",
     "lemma": "consumo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3517,13 +3383,12 @@ const WORDS_ES_B2 = [
       "zh": "消费",
       "ru": "потребление"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "consumos"
   },
   {
     "id": "es_4321",
+    "lang": "es",
     "lemma": "generosidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3543,13 +3408,12 @@ const WORDS_ES_B2 = [
       "zh": "慷慨",
       "ru": "щедрость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "generosidades"
   },
   {
     "id": "es_4322",
+    "lang": "es",
     "lemma": "caña",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3569,13 +3433,12 @@ const WORDS_ES_B2 = [
       "zh": "芦苇",
       "ru": "тростник"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cañas"
   },
   {
     "id": "es_4323",
+    "lang": "es",
     "lemma": "rodaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3595,13 +3458,12 @@ const WORDS_ES_B2 = [
       "zh": "拍摄",
       "ru": "съёмка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rodajes"
   },
   {
     "id": "es_4325",
+    "lang": "es",
     "lemma": "radical",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3620,12 +3482,11 @@ const WORDS_ES_B2 = [
       "ja": "根本的な",
       "zh": "根本的",
       "ru": "радикальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4331",
+    "lang": "es",
     "lemma": "montaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3645,13 +3506,12 @@ const WORDS_ES_B2 = [
       "zh": "组装",
       "ru": "монтаж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "montajes"
   },
   {
     "id": "es_4332",
+    "lang": "es",
     "lemma": "suposición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3671,13 +3531,12 @@ const WORDS_ES_B2 = [
       "zh": "假设",
       "ru": "предположение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "suposiciones"
   },
   {
     "id": "es_4333",
+    "lang": "es",
     "lemma": "donación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3697,13 +3556,12 @@ const WORDS_ES_B2 = [
       "zh": "捐赠",
       "ru": "пожертвование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "donaciones"
   },
   {
     "id": "es_4338",
+    "lang": "es",
     "lemma": "estanque",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3723,13 +3581,12 @@ const WORDS_ES_B2 = [
       "zh": "池塘",
       "ru": "пруд"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "estanques"
   },
   {
     "id": "es_4339",
+    "lang": "es",
     "lemma": "creencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3749,13 +3606,12 @@ const WORDS_ES_B2 = [
       "zh": "信念",
       "ru": "убеждение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "creencias"
   },
   {
     "id": "es_4341",
+    "lang": "es",
     "lemma": "bolígrafo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3775,13 +3631,12 @@ const WORDS_ES_B2 = [
       "zh": "圆珠笔",
       "ru": "шариковая ручка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bolígrafos"
   },
   {
     "id": "es_4343",
+    "lang": "es",
     "lemma": "alojamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3801,13 +3656,12 @@ const WORDS_ES_B2 = [
       "zh": "住宿",
       "ru": "размещение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "alojamientos"
   },
   {
     "id": "es_4345",
+    "lang": "es",
     "lemma": "inventario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3827,13 +3681,12 @@ const WORDS_ES_B2 = [
       "zh": "库存",
       "ru": "инвентарь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "inventarios"
   },
   {
     "id": "es_4346",
+    "lang": "es",
     "lemma": "navegación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3853,13 +3706,12 @@ const WORDS_ES_B2 = [
       "zh": "航海",
       "ru": "навигация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "navegaciones"
   },
   {
     "id": "es_4349",
+    "lang": "es",
     "lemma": "contable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3878,12 +3730,11 @@ const WORDS_ES_B2 = [
       "ja": "可算の",
       "zh": "可数的",
       "ru": "исчисляемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4351",
+    "lang": "es",
     "lemma": "eficiente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3902,12 +3753,11 @@ const WORDS_ES_B2 = [
       "ja": "効率的な",
       "zh": "高效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4353",
+    "lang": "es",
     "lemma": "seminario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3927,13 +3777,11 @@ const WORDS_ES_B2 = [
       "zh": "研讨会",
       "ru": "семинар"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4354",
+    "lang": "es",
     "lemma": "pantalón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -3953,13 +3801,12 @@ const WORDS_ES_B2 = [
       "zh": "裤子",
       "ru": "брюки"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pantalones"
   },
   {
     "id": "es_4357",
+    "lang": "es",
     "lemma": "secundario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -3978,12 +3825,11 @@ const WORDS_ES_B2 = [
       "ja": "二次的な",
       "zh": "次要的",
       "ru": "вторичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4359",
+    "lang": "es",
     "lemma": "ingreso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4003,13 +3849,12 @@ const WORDS_ES_B2 = [
       "zh": "收入",
       "ru": "доход"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ingresos"
   },
   {
     "id": "es_4360",
+    "lang": "es",
     "lemma": "maduro",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4028,12 +3873,11 @@ const WORDS_ES_B2 = [
       "ja": "熟した",
       "zh": "成熟的",
       "ru": "спелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4363",
+    "lang": "es",
     "lemma": "esclavitud",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4053,13 +3897,12 @@ const WORDS_ES_B2 = [
       "zh": "奴隶制",
       "ru": "рабство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "esclavitudes"
   },
   {
     "id": "es_4364",
+    "lang": "es",
     "lemma": "cesta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4079,13 +3922,12 @@ const WORDS_ES_B2 = [
       "zh": "篮子",
       "ru": "корзина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cestas"
   },
   {
     "id": "es_4366",
+    "lang": "es",
     "lemma": "cuervo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4105,13 +3947,12 @@ const WORDS_ES_B2 = [
       "zh": "乌鸦",
       "ru": "ворон"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cuervos"
   },
   {
     "id": "es_4370",
+    "lang": "es",
     "lemma": "orientación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4132,13 +3973,12 @@ const WORDS_ES_B2 = [
       "zh": "方向",
       "ru": "ориентация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "orientaciones"
   },
   {
     "id": "es_4375",
+    "lang": "es",
     "lemma": "adicional",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4157,12 +3997,11 @@ const WORDS_ES_B2 = [
       "ja": "追加的な",
       "zh": "额外的",
       "ru": "дополнительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4376",
+    "lang": "es",
     "lemma": "turco",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4181,12 +4020,11 @@ const WORDS_ES_B2 = [
       "ja": "トルコの",
       "zh": "土耳其的",
       "ru": "турецкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4381",
+    "lang": "es",
     "lemma": "músculo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4206,13 +4044,12 @@ const WORDS_ES_B2 = [
       "zh": "肌肉",
       "ru": "мышца"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "músculos"
   },
   {
     "id": "es_4382",
+    "lang": "es",
     "lemma": "contabilidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4232,13 +4069,12 @@ const WORDS_ES_B2 = [
       "zh": "会计",
       "ru": "бухгалтерия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "contabilidades"
   },
   {
     "id": "es_4384",
+    "lang": "es",
     "lemma": "oportuno",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4257,12 +4093,11 @@ const WORDS_ES_B2 = [
       "ja": "適切な",
       "zh": "恰当的",
       "ru": "своевременный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4385",
+    "lang": "es",
     "lemma": "vega",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4282,13 +4117,12 @@ const WORDS_ES_B2 = [
       "zh": "平原",
       "ru": "равнина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vegas"
   },
   {
     "id": "es_4386",
+    "lang": "es",
     "lemma": "chile",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4308,13 +4142,12 @@ const WORDS_ES_B2 = [
       "zh": "辣椒",
       "ru": "перец"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "chiles"
   },
   {
     "id": "es_4388",
+    "lang": "es",
     "lemma": "buque",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4335,13 +4168,12 @@ const WORDS_ES_B2 = [
       "zh": "船",
       "ru": "корабль"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "buques"
   },
   {
     "id": "es_4390",
+    "lang": "es",
     "lemma": "suegra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4363,13 +4195,12 @@ const WORDS_ES_B2 = [
       "zh": "婆婆",
       "ru": "свекровь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "suegras"
   },
   {
     "id": "es_4394",
+    "lang": "es",
     "lemma": "hospitalidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4389,13 +4220,12 @@ const WORDS_ES_B2 = [
       "zh": "款待",
       "ru": "гостеприимство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "hospitalidades"
   },
   {
     "id": "es_4396",
+    "lang": "es",
     "lemma": "acogida",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4416,13 +4246,12 @@ const WORDS_ES_B2 = [
       "zh": "欢迎",
       "ru": "приём"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "acogidas"
   },
   {
     "id": "es_4397",
+    "lang": "es",
     "lemma": "mermelada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4442,13 +4271,12 @@ const WORDS_ES_B2 = [
       "zh": "果酱",
       "ru": "варенье"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mermeladas"
   },
   {
     "id": "es_4398",
+    "lang": "es",
     "lemma": "injusticia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4468,13 +4296,12 @@ const WORDS_ES_B2 = [
       "zh": "不公正",
       "ru": "несправедливость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "injusticias"
   },
   {
     "id": "es_4400",
+    "lang": "es",
     "lemma": "reno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4494,13 +4321,12 @@ const WORDS_ES_B2 = [
       "zh": "驯鹿",
       "ru": "олень"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "renos"
   },
   {
     "id": "es_4402",
+    "lang": "es",
     "lemma": "lema",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4520,13 +4346,12 @@ const WORDS_ES_B2 = [
       "zh": "标语",
       "ru": "девиз"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "lemas"
   },
   {
     "id": "es_4403",
+    "lang": "es",
     "lemma": "reducido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4545,12 +4370,11 @@ const WORDS_ES_B2 = [
       "ja": "縮小された",
       "zh": "缩小的",
       "ru": "сокращённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4404",
+    "lang": "es",
     "lemma": "inauguración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4570,13 +4394,12 @@ const WORDS_ES_B2 = [
       "zh": "开幕式",
       "ru": "открытие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "inauguraciones"
   },
   {
     "id": "es_4407",
+    "lang": "es",
     "lemma": "podrido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4595,12 +4418,11 @@ const WORDS_ES_B2 = [
       "ja": "腐った",
       "zh": "腐烂的",
       "ru": "гнилой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4410",
+    "lang": "es",
     "lemma": "variedad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4620,13 +4442,12 @@ const WORDS_ES_B2 = [
       "zh": "多样性",
       "ru": "разнообразие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "variedades"
   },
   {
     "id": "es_4411",
+    "lang": "es",
     "lemma": "azotea",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4646,13 +4467,12 @@ const WORDS_ES_B2 = [
       "zh": "屋顶",
       "ru": "крыша"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "azoteas"
   },
   {
     "id": "es_4412",
+    "lang": "es",
     "lemma": "cóctel",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4672,13 +4492,12 @@ const WORDS_ES_B2 = [
       "zh": "鸡尾酒",
       "ru": "коктейль"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cócteles"
   },
   {
     "id": "es_4413",
+    "lang": "es",
     "lemma": "biología",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4698,13 +4517,12 @@ const WORDS_ES_B2 = [
       "zh": "生物学",
       "ru": "биология"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "biologías"
   },
   {
     "id": "es_4415",
+    "lang": "es",
     "lemma": "luto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4724,13 +4542,12 @@ const WORDS_ES_B2 = [
       "zh": "哀悼",
       "ru": "траур"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "lutos"
   },
   {
     "id": "es_4418",
+    "lang": "es",
     "lemma": "kilómetro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4750,13 +4567,12 @@ const WORDS_ES_B2 = [
       "zh": "公里",
       "ru": "километр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "kilómetros"
   },
   {
     "id": "es_4423",
+    "lang": "es",
     "lemma": "laboral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4775,12 +4591,11 @@ const WORDS_ES_B2 = [
       "ja": "労働の",
       "zh": "劳动的",
       "ru": "трудовой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4425",
+    "lang": "es",
     "lemma": "acera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4800,13 +4615,12 @@ const WORDS_ES_B2 = [
       "zh": "人行道",
       "ru": "тротуар"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "aceras"
   },
   {
     "id": "es_4426",
+    "lang": "es",
     "lemma": "potente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4825,12 +4639,11 @@ const WORDS_ES_B2 = [
       "ja": "強力な",
       "zh": "强大的",
       "ru": "мощный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4427",
+    "lang": "es",
     "lemma": "bombardeo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4850,13 +4663,12 @@ const WORDS_ES_B2 = [
       "zh": "轰炸",
       "ru": "бомбардировка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bombardeos"
   },
   {
     "id": "es_4428",
+    "lang": "es",
     "lemma": "irrelevante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4875,12 +4687,11 @@ const WORDS_ES_B2 = [
       "ja": "無関係な",
       "zh": "无关的",
       "ru": "неуместный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4431",
+    "lang": "es",
     "lemma": "tendencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4900,13 +4711,12 @@ const WORDS_ES_B2 = [
       "zh": "倾向",
       "ru": "тенденция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tendencias"
   },
   {
     "id": "es_4432",
+    "lang": "es",
     "lemma": "católico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -4925,12 +4735,11 @@ const WORDS_ES_B2 = [
       "ja": "カトリックの",
       "zh": "天主教的",
       "ru": "католический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4434",
+    "lang": "es",
     "lemma": "brazalete",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4950,13 +4759,12 @@ const WORDS_ES_B2 = [
       "zh": "手镯",
       "ru": "браслет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "brazaletes"
   },
   {
     "id": "es_4437",
+    "lang": "es",
     "lemma": "extensión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -4976,13 +4784,12 @@ const WORDS_ES_B2 = [
       "zh": "扩展",
       "ru": "расширение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "extensiones"
   },
   {
     "id": "es_4438",
+    "lang": "es",
     "lemma": "niñez",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5002,13 +4809,11 @@ const WORDS_ES_B2 = [
       "zh": "童年",
       "ru": "детство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_4440",
+    "lang": "es",
     "lemma": "pegamento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5028,13 +4833,12 @@ const WORDS_ES_B2 = [
       "zh": "胶水",
       "ru": "клей"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pegamentos"
   },
   {
     "id": "es_4443",
+    "lang": "es",
     "lemma": "porcentaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5054,13 +4858,12 @@ const WORDS_ES_B2 = [
       "zh": "百分比",
       "ru": "процент"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "porcentajes"
   },
   {
     "id": "es_4445",
+    "lang": "es",
     "lemma": "pálido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5079,12 +4882,11 @@ const WORDS_ES_B2 = [
       "ja": "蒼白い",
       "zh": "苍白的",
       "ru": "бледный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4449",
+    "lang": "es",
     "lemma": "golfo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5104,13 +4906,12 @@ const WORDS_ES_B2 = [
       "zh": "海湾",
       "ru": "залив"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "golfos"
   },
   {
     "id": "es_4451",
+    "lang": "es",
     "lemma": "negociación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5130,13 +4931,12 @@ const WORDS_ES_B2 = [
       "zh": "谈判",
       "ru": "переговоры"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "negociaciones"
   },
   {
     "id": "es_4453",
+    "lang": "es",
     "lemma": "modesto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5155,12 +4955,11 @@ const WORDS_ES_B2 = [
       "ja": "謙虚な",
       "zh": "谦虚的",
       "ru": "скромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4454",
+    "lang": "es",
     "lemma": "atajo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5180,13 +4979,12 @@ const WORDS_ES_B2 = [
       "zh": "捷径",
       "ru": "кратчайший путь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "atajos"
   },
   {
     "id": "es_4456",
+    "lang": "es",
     "lemma": "rapidez",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5206,13 +5004,12 @@ const WORDS_ES_B2 = [
       "zh": "速度",
       "ru": "быстрота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rapideces"
   },
   {
     "id": "es_4457",
+    "lang": "es",
     "lemma": "fibra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5232,13 +5029,12 @@ const WORDS_ES_B2 = [
       "zh": "纤维",
       "ru": "волокно"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fibras"
   },
   {
     "id": "es_4458",
+    "lang": "es",
     "lemma": "suciedad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5258,13 +5054,12 @@ const WORDS_ES_B2 = [
       "zh": "污垢",
       "ru": "грязь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "suciedades"
   },
   {
     "id": "es_4462",
+    "lang": "es",
     "lemma": "llanto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5284,13 +5079,12 @@ const WORDS_ES_B2 = [
       "zh": "哭泣",
       "ru": "плач"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "llantos"
   },
   {
     "id": "es_4471",
+    "lang": "es",
     "lemma": "nuca",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5310,13 +5104,12 @@ const WORDS_ES_B2 = [
       "zh": "颈背",
       "ru": "затылок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "nucas"
   },
   {
     "id": "es_4472",
+    "lang": "es",
     "lemma": "aprendiz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5335,12 +5128,11 @@ const WORDS_ES_B2 = [
       "ja": "見習い",
       "zh": "学徒",
       "ru": "ученик"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4473",
+    "lang": "es",
     "lemma": "trueno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5360,13 +5152,12 @@ const WORDS_ES_B2 = [
       "zh": "雷声",
       "ru": "гром"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "truenos"
   },
   {
     "id": "es_4474",
+    "lang": "es",
     "lemma": "operativo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5385,12 +5176,11 @@ const WORDS_ES_B2 = [
       "ja": "稼働している",
       "zh": "可操作的",
       "ru": "оперативный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4477",
+    "lang": "es",
     "lemma": "discreto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5409,12 +5199,11 @@ const WORDS_ES_B2 = [
       "ja": "控えめな",
       "zh": "谨慎的",
       "ru": "скромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4478",
+    "lang": "es",
     "lemma": "anónimo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5433,12 +5222,11 @@ const WORDS_ES_B2 = [
       "ja": "匿名の",
       "zh": "匿名的",
       "ru": "анонимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4480",
+    "lang": "es",
     "lemma": "molino",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5459,13 +5247,12 @@ const WORDS_ES_B2 = [
       "zh": "磨坊",
       "ru": "мельница"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "molinos"
   },
   {
     "id": "es_4481",
+    "lang": "es",
     "lemma": "alcohólico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5484,12 +5271,11 @@ const WORDS_ES_B2 = [
       "ja": "アルコール含有の",
       "zh": "含酒精的",
       "ru": "алкогольный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4482",
+    "lang": "es",
     "lemma": "hábil",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5508,12 +5294,11 @@ const WORDS_ES_B2 = [
       "ja": "巧みな",
       "zh": "熟练的",
       "ru": "умелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4484",
+    "lang": "es",
     "lemma": "suspensión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5533,13 +5318,12 @@ const WORDS_ES_B2 = [
       "zh": "暂停",
       "ru": "приостановка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "suspensiones"
   },
   {
     "id": "es_4486",
+    "lang": "es",
     "lemma": "médula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5559,13 +5343,12 @@ const WORDS_ES_B2 = [
       "zh": "骨髓",
       "ru": "костный мозг"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "médulas"
   },
   {
     "id": "es_4487",
+    "lang": "es",
     "lemma": "blando",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5584,12 +5367,11 @@ const WORDS_ES_B2 = [
       "ja": "柔らかい",
       "zh": "柔软的",
       "ru": "мягкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4488",
+    "lang": "es",
     "lemma": "librería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5609,13 +5391,12 @@ const WORDS_ES_B2 = [
       "zh": "书店",
       "ru": "книжный магазин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "librerías"
   },
   {
     "id": "es_4489",
+    "lang": "es",
     "lemma": "trío",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5635,13 +5416,12 @@ const WORDS_ES_B2 = [
       "zh": "三重奏",
       "ru": "трио"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tríos"
   },
   {
     "id": "es_4492",
+    "lang": "es",
     "lemma": "amigable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5660,12 +5440,11 @@ const WORDS_ES_B2 = [
       "ja": "友好的な",
       "zh": "友好的",
       "ru": "дружественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4494",
+    "lang": "es",
     "lemma": "asamblea",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5686,13 +5465,12 @@ const WORDS_ES_B2 = [
       "zh": "集会",
       "ru": "собрание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "asambleas"
   },
   {
     "id": "es_4495",
+    "lang": "es",
     "lemma": "porche",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5712,13 +5490,12 @@ const WORDS_ES_B2 = [
       "zh": "门廊",
       "ru": "крыльцо"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "porches"
   },
   {
     "id": "es_4497",
+    "lang": "es",
     "lemma": "simpatía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5738,13 +5515,12 @@ const WORDS_ES_B2 = [
       "zh": "好感",
       "ru": "симпатия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "simpatías"
   },
   {
     "id": "es_4499",
+    "lang": "es",
     "lemma": "púrpura",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5763,12 +5539,11 @@ const WORDS_ES_B2 = [
       "ja": "紫色",
       "zh": "紫色",
       "ru": "пурпурный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4500",
+    "lang": "es",
     "lemma": "bono",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5788,13 +5563,12 @@ const WORDS_ES_B2 = [
       "zh": "债券",
       "ru": "облигация"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bonos"
   },
   {
     "id": "es_4501",
+    "lang": "es",
     "lemma": "cumbre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5814,13 +5588,12 @@ const WORDS_ES_B2 = [
       "zh": "山顶",
       "ru": "вершина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cumbres"
   },
   {
     "id": "es_4503",
+    "lang": "es",
     "lemma": "calefacción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5841,13 +5614,12 @@ const WORDS_ES_B2 = [
       "zh": "供暖",
       "ru": "отопление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "calefacciones"
   },
   {
     "id": "es_4509",
+    "lang": "es",
     "lemma": "lateral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -5866,12 +5638,11 @@ const WORDS_ES_B2 = [
       "ja": "側面の",
       "zh": "侧面的",
       "ru": "боковой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4510",
+    "lang": "es",
     "lemma": "humedad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5891,13 +5662,12 @@ const WORDS_ES_B2 = [
       "zh": "湿度",
       "ru": "влажность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "humedades"
   },
   {
     "id": "es_4511",
+    "lang": "es",
     "lemma": "intuición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5917,13 +5687,12 @@ const WORDS_ES_B2 = [
       "zh": "直觉",
       "ru": "интуиция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "intuiciones"
   },
   {
     "id": "es_4514",
+    "lang": "es",
     "lemma": "marcador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5943,13 +5712,12 @@ const WORDS_ES_B2 = [
       "zh": "记分板",
       "ru": "табло"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "marcadores"
   },
   {
     "id": "es_4515",
+    "lang": "es",
     "lemma": "rabino",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5969,13 +5737,12 @@ const WORDS_ES_B2 = [
       "zh": "拉比",
       "ru": "раввин"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rabinos"
   },
   {
     "id": "es_4518",
+    "lang": "es",
     "lemma": "utilidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -5995,13 +5762,12 @@ const WORDS_ES_B2 = [
       "zh": "实用性",
       "ru": "полезность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "utilidades"
   },
   {
     "id": "es_4519",
+    "lang": "es",
     "lemma": "exilio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6021,13 +5787,12 @@ const WORDS_ES_B2 = [
       "zh": "流放",
       "ru": "изгнание"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "exilios"
   },
   {
     "id": "es_4521",
+    "lang": "es",
     "lemma": "enmienda",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6047,13 +5812,12 @@ const WORDS_ES_B2 = [
       "zh": "修正案",
       "ru": "поправка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "enmiendas"
   },
   {
     "id": "es_4525",
+    "lang": "es",
     "lemma": "pulsera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6073,13 +5837,12 @@ const WORDS_ES_B2 = [
       "zh": "手镯",
       "ru": "браслет"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pulseras"
   },
   {
     "id": "es_4529",
+    "lang": "es",
     "lemma": "tapadera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6099,13 +5862,12 @@ const WORDS_ES_B2 = [
       "zh": "盖子",
       "ru": "крышка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tapaderas"
   },
   {
     "id": "es_4535",
+    "lang": "es",
     "lemma": "inminente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6124,12 +5886,11 @@ const WORDS_ES_B2 = [
       "ja": "差し迫った",
       "zh": "迫在眉睫",
       "ru": "неминуемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4540",
+    "lang": "es",
     "lemma": "mozo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6149,13 +5910,12 @@ const WORDS_ES_B2 = [
       "zh": "服务员",
       "ru": "помощник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "mozos"
   },
   {
     "id": "es_4541",
+    "lang": "es",
     "lemma": "timón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6175,13 +5935,12 @@ const WORDS_ES_B2 = [
       "zh": "舵",
       "ru": "руль"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "timones"
   },
   {
     "id": "es_4543",
+    "lang": "es",
     "lemma": "crueldad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6201,13 +5960,12 @@ const WORDS_ES_B2 = [
       "zh": "残忍",
       "ru": "жестокость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "crueldades"
   },
   {
     "id": "es_4544",
+    "lang": "es",
     "lemma": "cocodrilo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6227,13 +5985,12 @@ const WORDS_ES_B2 = [
       "zh": "鳄鱼",
       "ru": "крокодил"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cocodrilos"
   },
   {
     "id": "es_4545",
+    "lang": "es",
     "lemma": "descuidado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6252,12 +6009,11 @@ const WORDS_ES_B2 = [
       "ja": "不注意な",
       "zh": "粗心的",
       "ru": "небрежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4546",
+    "lang": "es",
     "lemma": "letrero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6277,13 +6033,12 @@ const WORDS_ES_B2 = [
       "zh": "招牌",
       "ru": "вывеска"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "letreros"
   },
   {
     "id": "es_4548",
+    "lang": "es",
     "lemma": "gala",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6303,13 +6058,12 @@ const WORDS_ES_B2 = [
       "zh": "礼服",
       "ru": "парадный костюм"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "galas"
   },
   {
     "id": "es_4552",
+    "lang": "es",
     "lemma": "pescador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6329,13 +6083,12 @@ const WORDS_ES_B2 = [
       "zh": "渔夫",
       "ru": "рыбак"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pescadores"
   },
   {
     "id": "es_4554",
+    "lang": "es",
     "lemma": "viajero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6355,13 +6108,12 @@ const WORDS_ES_B2 = [
       "zh": "旅行者",
       "ru": "путешественник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "viajeros"
   },
   {
     "id": "es_4555",
+    "lang": "es",
     "lemma": "bufanda",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6381,13 +6133,12 @@ const WORDS_ES_B2 = [
       "zh": "围巾",
       "ru": "шарф"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bufandas"
   },
   {
     "id": "es_4556",
+    "lang": "es",
     "lemma": "limitado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6406,12 +6157,11 @@ const WORDS_ES_B2 = [
       "ja": "限定的な",
       "zh": "有限的",
       "ru": "ограниченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4557",
+    "lang": "es",
     "lemma": "admirable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6430,12 +6180,11 @@ const WORDS_ES_B2 = [
       "ja": "素晴らしい",
       "zh": "令人钦佩的",
       "ru": "восхитительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4559",
+    "lang": "es",
     "lemma": "corteza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6455,13 +6204,12 @@ const WORDS_ES_B2 = [
       "zh": "树皮",
       "ru": "кора"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cortezas"
   },
   {
     "id": "es_4560",
+    "lang": "es",
     "lemma": "tenedor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6481,13 +6229,12 @@ const WORDS_ES_B2 = [
       "zh": "叉子",
       "ru": "вилка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tenedores"
   },
   {
     "id": "es_4566",
+    "lang": "es",
     "lemma": "vómito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6507,13 +6254,12 @@ const WORDS_ES_B2 = [
       "zh": "呕吐",
       "ru": "рвота"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "vómitos"
   },
   {
     "id": "es_4568",
+    "lang": "es",
     "lemma": "esqueleto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6533,13 +6279,12 @@ const WORDS_ES_B2 = [
       "zh": "骨骼",
       "ru": "скелет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "esqueletos"
   },
   {
     "id": "es_4570",
+    "lang": "es",
     "lemma": "joyería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6559,13 +6304,12 @@ const WORDS_ES_B2 = [
       "zh": "珠宝店",
       "ru": "ювелирный магазин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "joyerías"
   },
   {
     "id": "es_4571",
+    "lang": "es",
     "lemma": "tambor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6585,13 +6329,12 @@ const WORDS_ES_B2 = [
       "zh": "鼓",
       "ru": "барабан"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tambores"
   },
   {
     "id": "es_4573",
+    "lang": "es",
     "lemma": "definitivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6610,12 +6353,11 @@ const WORDS_ES_B2 = [
       "ja": "決定的な",
       "zh": "最终的",
       "ru": "окончательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4577",
+    "lang": "es",
     "lemma": "ventilación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6635,13 +6377,12 @@ const WORDS_ES_B2 = [
       "zh": "通风",
       "ru": "вентиляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ventilaciones"
   },
   {
     "id": "es_4581",
+    "lang": "es",
     "lemma": "deriva",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6661,13 +6402,12 @@ const WORDS_ES_B2 = [
       "zh": "漂流",
       "ru": "дрейф"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "derivas"
   },
   {
     "id": "es_4582",
+    "lang": "es",
     "lemma": "campesino",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6686,12 +6426,11 @@ const WORDS_ES_B2 = [
       "ja": "田舎の",
       "zh": "乡村的",
       "ru": "сельский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4583",
+    "lang": "es",
     "lemma": "órgano",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6711,13 +6450,12 @@ const WORDS_ES_B2 = [
       "zh": "器官",
       "ru": "орган"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "órganos"
   },
   {
     "id": "es_4585",
+    "lang": "es",
     "lemma": "reemplazo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6737,13 +6475,12 @@ const WORDS_ES_B2 = [
       "zh": "替换",
       "ru": "замена"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "reemplazos"
   },
   {
     "id": "es_4588",
+    "lang": "es",
     "lemma": "jornada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6763,13 +6500,12 @@ const WORDS_ES_B2 = [
       "zh": "一天",
       "ru": "день"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "jornadas"
   },
   {
     "id": "es_4589",
+    "lang": "es",
     "lemma": "bocado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6789,13 +6525,12 @@ const WORDS_ES_B2 = [
       "zh": "一口",
       "ru": "кусок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bocados"
   },
   {
     "id": "es_4592",
+    "lang": "es",
     "lemma": "canadiense",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6814,12 +6549,11 @@ const WORDS_ES_B2 = [
       "ja": "カナダの",
       "zh": "加拿大的",
       "ru": "канадский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4594",
+    "lang": "es",
     "lemma": "glorioso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6838,12 +6572,11 @@ const WORDS_ES_B2 = [
       "ja": "栄光に満ちた",
       "zh": "光荣的",
       "ru": "славный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4595",
+    "lang": "es",
     "lemma": "irresponsable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6862,12 +6595,11 @@ const WORDS_ES_B2 = [
       "ja": "無責任な",
       "zh": "不负责任的",
       "ru": "безответственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4598",
+    "lang": "es",
     "lemma": "ladrillo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6887,13 +6619,12 @@ const WORDS_ES_B2 = [
       "zh": "砖",
       "ru": "кирпич"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ladrillos"
   },
   {
     "id": "es_4600",
+    "lang": "es",
     "lemma": "funcionario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6913,13 +6644,12 @@ const WORDS_ES_B2 = [
       "zh": "公务员",
       "ru": "чиновник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "funcionarios"
   },
   {
     "id": "es_4606",
+    "lang": "es",
     "lemma": "lavabo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6939,13 +6669,12 @@ const WORDS_ES_B2 = [
       "zh": "洗脸盆",
       "ru": "раковина"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "lavabos"
   },
   {
     "id": "es_4607",
+    "lang": "es",
     "lemma": "microondas",
     "pos": "Nomen",
     "cefr": "B2",
@@ -6965,13 +6694,11 @@ const WORDS_ES_B2 = [
       "zh": "微波炉",
       "ru": "микроволновка"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4608",
+    "lang": "es",
     "lemma": "íntimo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -6990,12 +6717,11 @@ const WORDS_ES_B2 = [
       "ja": "親密な",
       "zh": "亲密的",
       "ru": "интимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4610",
+    "lang": "es",
     "lemma": "detector",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7015,13 +6741,12 @@ const WORDS_ES_B2 = [
       "zh": "探测器",
       "ru": "детектор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "detectores"
   },
   {
     "id": "es_4612",
+    "lang": "es",
     "lemma": "imprudente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7040,12 +6765,11 @@ const WORDS_ES_B2 = [
       "ja": "無分別な",
       "zh": "鲁莽的",
       "ru": "неосторожный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4613",
+    "lang": "es",
     "lemma": "ignorancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7065,13 +6789,12 @@ const WORDS_ES_B2 = [
       "zh": "无知",
       "ru": "невежество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ignorancias"
   },
   {
     "id": "es_4614",
+    "lang": "es",
     "lemma": "veloz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7090,12 +6813,11 @@ const WORDS_ES_B2 = [
       "ja": "速い",
       "zh": "快速的",
       "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4616",
+    "lang": "es",
     "lemma": "provincia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7115,13 +6837,12 @@ const WORDS_ES_B2 = [
       "zh": "省份",
       "ru": "провинция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "provincias"
   },
   {
     "id": "es_4617",
+    "lang": "es",
     "lemma": "gorro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7141,13 +6862,12 @@ const WORDS_ES_B2 = [
       "zh": "帽子",
       "ru": "кепка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "gorros"
   },
   {
     "id": "es_4620",
+    "lang": "es",
     "lemma": "banana",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7167,13 +6887,12 @@ const WORDS_ES_B2 = [
       "zh": "香蕉",
       "ru": "банан"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bananas"
   },
   {
     "id": "es_4623",
+    "lang": "es",
     "lemma": "enojo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7193,13 +6912,12 @@ const WORDS_ES_B2 = [
       "zh": "愤怒",
       "ru": "гнев"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "enojos"
   },
   {
     "id": "es_4628",
+    "lang": "es",
     "lemma": "biológico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7218,12 +6936,11 @@ const WORDS_ES_B2 = [
       "ja": "生物学的な",
       "zh": "生物学的",
       "ru": "биологический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4630",
+    "lang": "es",
     "lemma": "organismo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7243,13 +6960,12 @@ const WORDS_ES_B2 = [
       "zh": "生物体",
       "ru": "организм"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "organismos"
   },
   {
     "id": "es_4636",
+    "lang": "es",
     "lemma": "ambicioso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7268,12 +6984,11 @@ const WORDS_ES_B2 = [
       "ja": "野心的な",
       "zh": "雄心勃勃的",
       "ru": "амбициозный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4639",
+    "lang": "es",
     "lemma": "bofetada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7293,13 +7008,12 @@ const WORDS_ES_B2 = [
       "zh": "耳光",
       "ru": "пощечина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bofetadas"
   },
   {
     "id": "es_4641",
+    "lang": "es",
     "lemma": "estafador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7319,13 +7033,12 @@ const WORDS_ES_B2 = [
       "zh": "骗子",
       "ru": "мошенник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "estafadores"
   },
   {
     "id": "es_4642",
+    "lang": "es",
     "lemma": "noción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7345,13 +7058,12 @@ const WORDS_ES_B2 = [
       "zh": "概念",
       "ru": "понятие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "nociones"
   },
   {
     "id": "es_4646",
+    "lang": "es",
     "lemma": "cordón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7371,13 +7083,12 @@ const WORDS_ES_B2 = [
       "zh": "绳子",
       "ru": "шнур"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cordones"
   },
   {
     "id": "es_4652",
+    "lang": "es",
     "lemma": "racional",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7396,12 +7107,11 @@ const WORDS_ES_B2 = [
       "ja": "理性的",
       "zh": "理性的",
       "ru": "рациональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4654",
+    "lang": "es",
     "lemma": "espionaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7421,13 +7131,12 @@ const WORDS_ES_B2 = [
       "zh": "间谍活动",
       "ru": "шпионаж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "espionajes"
   },
   {
     "id": "es_4656",
+    "lang": "es",
     "lemma": "homenaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7447,13 +7156,12 @@ const WORDS_ES_B2 = [
       "zh": "敬意",
       "ru": "почтение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "homenajes"
   },
   {
     "id": "es_4658",
+    "lang": "es",
     "lemma": "pro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7473,13 +7181,12 @@ const WORDS_ES_B2 = [
       "zh": "优点",
       "ru": "преимущество"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pros"
   },
   {
     "id": "es_4660",
+    "lang": "es",
     "lemma": "infernal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7498,12 +7205,11 @@ const WORDS_ES_B2 = [
       "ja": "地獄の",
       "zh": "地狱的",
       "ru": "адский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4661",
+    "lang": "es",
     "lemma": "apartado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7522,12 +7228,11 @@ const WORDS_ES_B2 = [
       "ja": "孤立した",
       "zh": "偏远的",
       "ru": "отдалённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4664",
+    "lang": "es",
     "lemma": "peluche",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7547,13 +7252,12 @@ const WORDS_ES_B2 = [
       "zh": "毛绒玩具",
       "ru": "плюшевая игрушка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "peluches"
   },
   {
     "id": "es_4665",
+    "lang": "es",
     "lemma": "espectro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7573,13 +7277,12 @@ const WORDS_ES_B2 = [
       "zh": "幽灵",
       "ru": "привидение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "espectros"
   },
   {
     "id": "es_4669",
+    "lang": "es",
     "lemma": "tropa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7599,13 +7302,12 @@ const WORDS_ES_B2 = [
       "zh": "军队",
       "ru": "войска"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tropas"
   },
   {
     "id": "es_4670",
+    "lang": "es",
     "lemma": "abdomen",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7625,13 +7327,12 @@ const WORDS_ES_B2 = [
       "zh": "腹部",
       "ru": "живот"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "abdómenes"
   },
   {
     "id": "es_4671",
+    "lang": "es",
     "lemma": "zoo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7651,13 +7352,12 @@ const WORDS_ES_B2 = [
       "zh": "动物园",
       "ru": "зоопарк"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "zoos"
   },
   {
     "id": "es_4672",
+    "lang": "es",
     "lemma": "banca",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7677,13 +7377,12 @@ const WORDS_ES_B2 = [
       "zh": "长凳",
       "ru": "скамья"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bancas"
   },
   {
     "id": "es_4673",
+    "lang": "es",
     "lemma": "retrete",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7703,13 +7402,12 @@ const WORDS_ES_B2 = [
       "zh": "马桶",
       "ru": "унитаз"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "retretes"
   },
   {
     "id": "es_4674",
+    "lang": "es",
     "lemma": "tazón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7729,13 +7427,12 @@ const WORDS_ES_B2 = [
       "zh": "碗",
       "ru": "миска"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tazones"
   },
   {
     "id": "es_4676",
+    "lang": "es",
     "lemma": "cuadrado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7755,13 +7452,12 @@ const WORDS_ES_B2 = [
       "zh": "正方形",
       "ru": "квадрат"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cuadrados"
   },
   {
     "id": "es_4678",
+    "lang": "es",
     "lemma": "transición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7781,13 +7477,12 @@ const WORDS_ES_B2 = [
       "zh": "过渡",
       "ru": "переход"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "transiciones"
   },
   {
     "id": "es_4680",
+    "lang": "es",
     "lemma": "congelador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7807,13 +7502,12 @@ const WORDS_ES_B2 = [
       "zh": "冷冻室",
       "ru": "морозильник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "congeladores"
   },
   {
     "id": "es_4684",
+    "lang": "es",
     "lemma": "canasta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7833,13 +7527,12 @@ const WORDS_ES_B2 = [
       "zh": "篮子",
       "ru": "корзина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "canastas"
   },
   {
     "id": "es_4685",
+    "lang": "es",
     "lemma": "monumento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7859,13 +7552,12 @@ const WORDS_ES_B2 = [
       "zh": "纪念碑",
       "ru": "памятник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "monumentos"
   },
   {
     "id": "es_4686",
+    "lang": "es",
     "lemma": "antorcha",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7885,13 +7577,12 @@ const WORDS_ES_B2 = [
       "zh": "火把",
       "ru": "факел"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "antorchas"
   },
   {
     "id": "es_4688",
+    "lang": "es",
     "lemma": "colaboración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7911,13 +7602,12 @@ const WORDS_ES_B2 = [
       "zh": "合作",
       "ru": "сотрудничество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "colaboraciones"
   },
   {
     "id": "es_4691",
+    "lang": "es",
     "lemma": "insignia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7937,13 +7627,12 @@ const WORDS_ES_B2 = [
       "zh": "徽章",
       "ru": "эмблема"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "insignias"
   },
   {
     "id": "es_4694",
+    "lang": "es",
     "lemma": "banquero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -7964,13 +7653,12 @@ const WORDS_ES_B2 = [
       "zh": "银行家",
       "ru": "банкир"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "banqueros"
   },
   {
     "id": "es_4695",
+    "lang": "es",
     "lemma": "artístico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -7989,12 +7677,11 @@ const WORDS_ES_B2 = [
       "ja": "芸術的な",
       "zh": "艺术的",
       "ru": "художественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4698",
+    "lang": "es",
     "lemma": "temperamento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8014,13 +7701,12 @@ const WORDS_ES_B2 = [
       "zh": "气质",
       "ru": "темперамент"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "temperamentos"
   },
   {
     "id": "es_4701",
+    "lang": "es",
     "lemma": "patata",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8040,13 +7726,12 @@ const WORDS_ES_B2 = [
       "zh": "土豆",
       "ru": "картофель"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "patatas"
   },
   {
     "id": "es_4702",
+    "lang": "es",
     "lemma": "flaco",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8065,12 +7750,11 @@ const WORDS_ES_B2 = [
       "ja": "痩せた",
       "zh": "瘦的",
       "ru": "худой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4704",
+    "lang": "es",
     "lemma": "cuota",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8090,13 +7774,12 @@ const WORDS_ES_B2 = [
       "zh": "配额",
       "ru": "квота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cuotas"
   },
   {
     "id": "es_4707",
+    "lang": "es",
     "lemma": "igualdad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8116,13 +7799,12 @@ const WORDS_ES_B2 = [
       "zh": "平等",
       "ru": "равенство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "igualdades"
   },
   {
     "id": "es_4708",
+    "lang": "es",
     "lemma": "saliva",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8142,13 +7824,12 @@ const WORDS_ES_B2 = [
       "zh": "唾液",
       "ru": "слюна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "salivas"
   },
   {
     "id": "es_4710",
+    "lang": "es",
     "lemma": "rasguño",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8168,13 +7849,12 @@ const WORDS_ES_B2 = [
       "zh": "抓痕",
       "ru": "царапина"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rasguños"
   },
   {
     "id": "es_4722",
+    "lang": "es",
     "lemma": "bota",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8194,13 +7874,12 @@ const WORDS_ES_B2 = [
       "zh": "靴子",
       "ru": "сапог"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "botas"
   },
   {
     "id": "es_4724",
+    "lang": "es",
     "lemma": "élite",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8220,13 +7899,12 @@ const WORDS_ES_B2 = [
       "zh": "精英",
       "ru": "элита"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "élites"
   },
   {
     "id": "es_4726",
+    "lang": "es",
     "lemma": "trastorno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8246,13 +7924,12 @@ const WORDS_ES_B2 = [
       "zh": "障碍",
       "ru": "расстройство"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "trastornos"
   },
   {
     "id": "es_4731",
+    "lang": "es",
     "lemma": "puré",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8273,13 +7950,12 @@ const WORDS_ES_B2 = [
       "zh": "果酱",
       "ru": "пюре"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "purés"
   },
   {
     "id": "es_4732",
+    "lang": "es",
     "lemma": "ejemplar",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8299,13 +7975,12 @@ const WORDS_ES_B2 = [
       "zh": "标本",
       "ru": "экземпляр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ejemplares"
   },
   {
     "id": "es_4733",
+    "lang": "es",
     "lemma": "ejemplar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8324,12 +7999,11 @@ const WORDS_ES_B2 = [
       "ja": "模範的な",
       "zh": "模范的",
       "ru": "образцовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4738",
+    "lang": "es",
     "lemma": "individual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8348,12 +8022,11 @@ const WORDS_ES_B2 = [
       "ja": "個人の",
       "zh": "个人的",
       "ru": "индивидуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4739",
+    "lang": "es",
     "lemma": "noroeste",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8374,13 +8047,11 @@ const WORDS_ES_B2 = [
       "zh": "西北",
       "ru": "северо-запад"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4740",
+    "lang": "es",
     "lemma": "frustrante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8399,12 +8070,11 @@ const WORDS_ES_B2 = [
       "ja": "イライラさせる",
       "zh": "令人沮丧的",
       "ru": "разочаровывающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4741",
+    "lang": "es",
     "lemma": "triángulo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8424,13 +8094,12 @@ const WORDS_ES_B2 = [
       "zh": "三角形",
       "ru": "треугольник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "triángulos"
   },
   {
     "id": "es_4742",
+    "lang": "es",
     "lemma": "titular",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8451,13 +8120,12 @@ const WORDS_ES_B2 = [
       "zh": "标题",
       "ru": "заголовок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "titulares"
   },
   {
     "id": "es_4743",
+    "lang": "es",
     "lemma": "catástrofe",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8477,13 +8145,12 @@ const WORDS_ES_B2 = [
       "zh": "灾难",
       "ru": "катастрофа"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "catástrofes"
   },
   {
     "id": "es_4746",
+    "lang": "es",
     "lemma": "amplio",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8502,12 +8169,11 @@ const WORDS_ES_B2 = [
       "ja": "広い",
       "zh": "宽阔的",
       "ru": "широкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4750",
+    "lang": "es",
     "lemma": "crudo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8526,12 +8192,11 @@ const WORDS_ES_B2 = [
       "ja": "生の",
       "zh": "生的",
       "ru": "сырой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4752",
+    "lang": "es",
     "lemma": "cálculo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8551,13 +8216,12 @@ const WORDS_ES_B2 = [
       "zh": "计算",
       "ru": "расчет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cálculos"
   },
   {
     "id": "es_4753",
+    "lang": "es",
     "lemma": "alambre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8577,13 +8241,12 @@ const WORDS_ES_B2 = [
       "zh": "电线",
       "ru": "проволока"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "alambres"
   },
   {
     "id": "es_4754",
+    "lang": "es",
     "lemma": "subtítulo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8603,13 +8266,12 @@ const WORDS_ES_B2 = [
       "zh": "字幕",
       "ru": "субтитр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "subtítulos"
   },
   {
     "id": "es_4757",
+    "lang": "es",
     "lemma": "ingenio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8629,13 +8291,12 @@ const WORDS_ES_B2 = [
       "zh": "才能",
       "ru": "талант"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ingenios"
   },
   {
     "id": "es_4759",
+    "lang": "es",
     "lemma": "ganancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8655,13 +8316,12 @@ const WORDS_ES_B2 = [
       "zh": "利益",
       "ru": "прибыль"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ganancias"
   },
   {
     "id": "es_4762",
+    "lang": "es",
     "lemma": "percepción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8681,13 +8341,12 @@ const WORDS_ES_B2 = [
       "zh": "认知",
       "ru": "восприятие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "percepciones"
   },
   {
     "id": "es_4764",
+    "lang": "es",
     "lemma": "supervisión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8707,13 +8366,12 @@ const WORDS_ES_B2 = [
       "zh": "监督",
       "ru": "надзор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "supervisiones"
   },
   {
     "id": "es_4765",
+    "lang": "es",
     "lemma": "decoración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8733,13 +8391,12 @@ const WORDS_ES_B2 = [
       "zh": "装饰",
       "ru": "украшение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "decoraciones"
   },
   {
     "id": "es_4767",
+    "lang": "es",
     "lemma": "compuesto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8759,13 +8416,12 @@ const WORDS_ES_B2 = [
       "zh": "化合物",
       "ru": "соединение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "compuestos"
   },
   {
     "id": "es_4769",
+    "lang": "es",
     "lemma": "maligno",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8784,12 +8440,11 @@ const WORDS_ES_B2 = [
       "ja": "悪意的な",
       "zh": "恶意的",
       "ru": "злобный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4771",
+    "lang": "es",
     "lemma": "dato",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8809,13 +8464,12 @@ const WORDS_ES_B2 = [
       "zh": "数据",
       "ru": "данные"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "datos"
   },
   {
     "id": "es_4772",
+    "lang": "es",
     "lemma": "acantilado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8835,13 +8489,12 @@ const WORDS_ES_B2 = [
       "zh": "悬崖",
       "ru": "утес"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "acantilados"
   },
   {
     "id": "es_4774",
+    "lang": "es",
     "lemma": "aria",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8861,13 +8514,12 @@ const WORDS_ES_B2 = [
       "zh": "咏叹调",
       "ru": "ария"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "arias"
   },
   {
     "id": "es_4778",
+    "lang": "es",
     "lemma": "aburrimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8887,13 +8539,12 @@ const WORDS_ES_B2 = [
       "zh": "无聊",
       "ru": "скука"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "aburrimientos"
   },
   {
     "id": "es_4779",
+    "lang": "es",
     "lemma": "improbable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8912,12 +8563,11 @@ const WORDS_ES_B2 = [
       "ja": "ありそうもない",
       "zh": "不太可能",
       "ru": "маловероятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4780",
+    "lang": "es",
     "lemma": "tacto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8937,13 +8587,12 @@ const WORDS_ES_B2 = [
       "zh": "触觉",
       "ru": "осязание"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tactos"
   },
   {
     "id": "es_4782",
+    "lang": "es",
     "lemma": "predicador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -8963,13 +8612,12 @@ const WORDS_ES_B2 = [
       "zh": "传教士",
       "ru": "проповедник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "predicadores"
   },
   {
     "id": "es_4783",
+    "lang": "es",
     "lemma": "presidencial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -8988,12 +8636,11 @@ const WORDS_ES_B2 = [
       "ja": "大統領の",
       "zh": "总统的",
       "ru": "президентский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4784",
+    "lang": "es",
     "lemma": "epidemia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9013,13 +8660,12 @@ const WORDS_ES_B2 = [
       "zh": "流行病",
       "ru": "эпидемия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "epidemias"
   },
   {
     "id": "es_4786",
+    "lang": "es",
     "lemma": "imitación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9040,13 +8686,12 @@ const WORDS_ES_B2 = [
       "zh": "模仿",
       "ru": "имитация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "imitaciones"
   },
   {
     "id": "es_4788",
+    "lang": "es",
     "lemma": "casual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9065,12 +8710,11 @@ const WORDS_ES_B2 = [
       "ja": "偶然の",
       "zh": "偶然的",
       "ru": "случайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4790",
+    "lang": "es",
     "lemma": "barca",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9090,13 +8734,12 @@ const WORDS_ES_B2 = [
       "zh": "小船",
       "ru": "лодка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "barcas"
   },
   {
     "id": "es_4791",
+    "lang": "es",
     "lemma": "vil",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9115,12 +8758,11 @@ const WORDS_ES_B2 = [
       "ja": "下劣な",
       "zh": "卑鄙的",
       "ru": "подлый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4792",
+    "lang": "es",
     "lemma": "estrecho",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9139,12 +8781,11 @@ const WORDS_ES_B2 = [
       "ja": "狭い",
       "zh": "狭窄的",
       "ru": "узкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4793",
+    "lang": "es",
     "lemma": "estrecho",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9164,13 +8805,12 @@ const WORDS_ES_B2 = [
       "zh": "海峡",
       "ru": "пролив"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "estrechos"
   },
   {
     "id": "es_4795",
+    "lang": "es",
     "lemma": "anormal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9189,12 +8829,11 @@ const WORDS_ES_B2 = [
       "ja": "異常な",
       "zh": "异常的",
       "ru": "ненормальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4796",
+    "lang": "es",
     "lemma": "disputa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9214,13 +8853,12 @@ const WORDS_ES_B2 = [
       "zh": "争论",
       "ru": "спор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "disputas"
   },
   {
     "id": "es_4797",
+    "lang": "es",
     "lemma": "manguera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9240,13 +8878,12 @@ const WORDS_ES_B2 = [
       "zh": "软管",
       "ru": "шланг"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mangueras"
   },
   {
     "id": "es_4798",
+    "lang": "es",
     "lemma": "cifra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9266,13 +8903,12 @@ const WORDS_ES_B2 = [
       "zh": "数字",
       "ru": "цифра"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cifras"
   },
   {
     "id": "es_4801",
+    "lang": "es",
     "lemma": "sofisticado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9292,12 +8928,11 @@ const WORDS_ES_B2 = [
       "ja": "洗練された",
       "zh": "精致的",
       "ru": "изысканный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4803",
+    "lang": "es",
     "lemma": "manifestación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9317,13 +8952,12 @@ const WORDS_ES_B2 = [
       "zh": "表现",
       "ru": "проявление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "manifestaciones"
   },
   {
     "id": "es_4806",
+    "lang": "es",
     "lemma": "gasto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9343,13 +8977,12 @@ const WORDS_ES_B2 = [
       "zh": "支出",
       "ru": "расход"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "gastos"
   },
   {
     "id": "es_4808",
+    "lang": "es",
     "lemma": "extracción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9369,13 +9002,12 @@ const WORDS_ES_B2 = [
       "zh": "提取",
       "ru": "извлечение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "extracciones"
   },
   {
     "id": "es_4810",
+    "lang": "es",
     "lemma": "eliminación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9395,13 +9027,12 @@ const WORDS_ES_B2 = [
       "zh": "消除",
       "ru": "устранение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "eliminaciones"
   },
   {
     "id": "es_4811",
+    "lang": "es",
     "lemma": "visible",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9420,12 +9051,11 @@ const WORDS_ES_B2 = [
       "ja": "見える",
       "zh": "可见的",
       "ru": "видимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4812",
+    "lang": "es",
     "lemma": "transformación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9445,13 +9075,12 @@ const WORDS_ES_B2 = [
       "zh": "转变",
       "ru": "трансформация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "transformaciones"
   },
   {
     "id": "es_4814",
+    "lang": "es",
     "lemma": "municipal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9471,12 +9100,11 @@ const WORDS_ES_B2 = [
       "ja": "市町村の",
       "zh": "市政的",
       "ru": "муниципальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4817",
+    "lang": "es",
     "lemma": "expreso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9495,12 +9123,11 @@ const WORDS_ES_B2 = [
       "ja": "明示的な",
       "zh": "明确的",
       "ru": "явный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4820",
+    "lang": "es",
     "lemma": "amistoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9519,12 +9146,11 @@ const WORDS_ES_B2 = [
       "ja": "友好的な",
       "zh": "友好的",
       "ru": "дружественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4821",
+    "lang": "es",
     "lemma": "perla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9544,13 +9170,12 @@ const WORDS_ES_B2 = [
       "zh": "珍珠",
       "ru": "жемчуг"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "perlas"
   },
   {
     "id": "es_4822",
+    "lang": "es",
     "lemma": "gelatina",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9570,13 +9195,12 @@ const WORDS_ES_B2 = [
       "zh": "明胶",
       "ru": "желатин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gelatinas"
   },
   {
     "id": "es_4825",
+    "lang": "es",
     "lemma": "exagerado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9595,12 +9219,11 @@ const WORDS_ES_B2 = [
       "ja": "大げさな",
       "zh": "夸大的",
       "ru": "преувеличенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4829",
+    "lang": "es",
     "lemma": "usual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9619,12 +9242,11 @@ const WORDS_ES_B2 = [
       "ja": "普通の",
       "zh": "通常的",
       "ru": "обычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4831",
+    "lang": "es",
     "lemma": "sensato",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9643,12 +9265,11 @@ const WORDS_ES_B2 = [
       "ja": "分別のある",
       "zh": "明智的",
       "ru": "разумный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4832",
+    "lang": "es",
     "lemma": "circulación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9668,13 +9289,12 @@ const WORDS_ES_B2 = [
       "zh": "循环",
       "ru": "циркуляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "circulaciones"
   },
   {
     "id": "es_4833",
+    "lang": "es",
     "lemma": "conquista",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9694,13 +9314,12 @@ const WORDS_ES_B2 = [
       "zh": "征服",
       "ru": "завоевание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "conquistas"
   },
   {
     "id": "es_4835",
+    "lang": "es",
     "lemma": "hoguera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9720,13 +9339,12 @@ const WORDS_ES_B2 = [
       "zh": "篝火",
       "ru": "костер"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "hogueras"
   },
   {
     "id": "es_4836",
+    "lang": "es",
     "lemma": "celebridad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9746,13 +9364,12 @@ const WORDS_ES_B2 = [
       "zh": "名人",
       "ru": "знаменитость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "celebridades"
   },
   {
     "id": "es_4838",
+    "lang": "es",
     "lemma": "polaco",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9771,12 +9388,11 @@ const WORDS_ES_B2 = [
       "ja": "ポーランドの",
       "zh": "波兰的",
       "ru": "польский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4840",
+    "lang": "es",
     "lemma": "negado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9795,12 +9411,11 @@ const WORDS_ES_B2 = [
       "ja": "無能な",
       "zh": "无能的",
       "ru": "неспособный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4843",
+    "lang": "es",
     "lemma": "severo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9819,12 +9434,11 @@ const WORDS_ES_B2 = [
       "ja": "厳格な",
       "zh": "严格的",
       "ru": "строгий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4848",
+    "lang": "es",
     "lemma": "bancarrota",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9844,13 +9458,12 @@ const WORDS_ES_B2 = [
       "zh": "破产",
       "ru": "банкротство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bancarrotas"
   },
   {
     "id": "es_4850",
+    "lang": "es",
     "lemma": "monasterio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9870,13 +9483,12 @@ const WORDS_ES_B2 = [
       "zh": "修道院",
       "ru": "монастырь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "monasterios"
   },
   {
     "id": "es_4851",
+    "lang": "es",
     "lemma": "válvula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9896,13 +9508,12 @@ const WORDS_ES_B2 = [
       "zh": "瓣膜",
       "ru": "клапан"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "válvulas"
   },
   {
     "id": "es_4852",
+    "lang": "es",
     "lemma": "casita",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9923,13 +9534,12 @@ const WORDS_ES_B2 = [
       "zh": "小房子",
       "ru": "домик"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "casitas"
   },
   {
     "id": "es_4853",
+    "lang": "es",
     "lemma": "arranque",
     "pos": "Nomen",
     "cefr": "B2",
@@ -9949,13 +9559,12 @@ const WORDS_ES_B2 = [
       "zh": "开始",
       "ru": "начало"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "arranques"
   },
   {
     "id": "es_4854",
+    "lang": "es",
     "lemma": "oral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9974,12 +9583,11 @@ const WORDS_ES_B2 = [
       "ja": "口頭の",
       "zh": "口头的",
       "ru": "устный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4856",
+    "lang": "es",
     "lemma": "labial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -9998,12 +9606,11 @@ const WORDS_ES_B2 = [
       "ja": "唇の",
       "zh": "唇的",
       "ru": "губной"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4858",
+    "lang": "es",
     "lemma": "anzuelo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10023,13 +9630,12 @@ const WORDS_ES_B2 = [
       "zh": "鱼钩",
       "ru": "крючок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "anzuelos"
   },
   {
     "id": "es_4860",
+    "lang": "es",
     "lemma": "rebaño",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10049,13 +9655,12 @@ const WORDS_ES_B2 = [
       "zh": "羊群",
       "ru": "стадо"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rebaños"
   },
   {
     "id": "es_4861",
+    "lang": "es",
     "lemma": "económico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10074,12 +9679,11 @@ const WORDS_ES_B2 = [
       "ja": "経済的な",
       "zh": "经济的",
       "ru": "экономический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4864",
+    "lang": "es",
     "lemma": "grieta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10099,13 +9703,12 @@ const WORDS_ES_B2 = [
       "zh": "裂缝",
       "ru": "трещина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "grietas"
   },
   {
     "id": "es_4865",
+    "lang": "es",
     "lemma": "agrado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10125,13 +9728,12 @@ const WORDS_ES_B2 = [
       "zh": "满足",
       "ru": "удовольствие"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "agrados"
   },
   {
     "id": "es_4868",
+    "lang": "es",
     "lemma": "escoba",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10151,13 +9753,12 @@ const WORDS_ES_B2 = [
       "zh": "扫帚",
       "ru": "метла"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "escobas"
   },
   {
     "id": "es_4872",
+    "lang": "es",
     "lemma": "flora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10177,13 +9778,12 @@ const WORDS_ES_B2 = [
       "zh": "植物",
       "ru": "флора"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "floras"
   },
   {
     "id": "es_4873",
+    "lang": "es",
     "lemma": "gemelo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10202,12 +9802,11 @@ const WORDS_ES_B2 = [
       "ja": "双子の",
       "zh": "双胞胎的",
       "ru": "близнецовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4875",
+    "lang": "es",
     "lemma": "porción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10227,13 +9826,12 @@ const WORDS_ES_B2 = [
       "zh": "部分",
       "ru": "порция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "porciones"
   },
   {
     "id": "es_4877",
+    "lang": "es",
     "lemma": "reportaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10254,13 +9852,12 @@ const WORDS_ES_B2 = [
       "zh": "报道",
       "ru": "репортаж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "reportajes"
   },
   {
     "id": "es_4878",
+    "lang": "es",
     "lemma": "necesitado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10279,12 +9876,11 @@ const WORDS_ES_B2 = [
       "ja": "困窮した",
       "zh": "贫困的",
       "ru": "нуждающийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4879",
+    "lang": "es",
     "lemma": "redención",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10304,13 +9900,12 @@ const WORDS_ES_B2 = [
       "zh": "救赎",
       "ru": "искупление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "redenciones"
   },
   {
     "id": "es_4880",
+    "lang": "es",
     "lemma": "cosmos",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10330,13 +9925,11 @@ const WORDS_ES_B2 = [
       "zh": "宇宙",
       "ru": "космос"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4881",
+    "lang": "es",
     "lemma": "ramo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10356,13 +9949,12 @@ const WORDS_ES_B2 = [
       "zh": "花束",
       "ru": "букет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ramos"
   },
   {
     "id": "es_4882",
+    "lang": "es",
     "lemma": "apelación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10382,13 +9974,12 @@ const WORDS_ES_B2 = [
       "zh": "上诉",
       "ru": "апелляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "apelaciones"
   },
   {
     "id": "es_4885",
+    "lang": "es",
     "lemma": "comprensible",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10407,12 +9998,11 @@ const WORDS_ES_B2 = [
       "ja": "理解できる",
       "zh": "可理解的",
       "ru": "понятный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4886",
+    "lang": "es",
     "lemma": "pino",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10432,13 +10022,12 @@ const WORDS_ES_B2 = [
       "zh": "松树",
       "ru": "сосна"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pinos"
   },
   {
     "id": "es_4887",
+    "lang": "es",
     "lemma": "carrito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10458,13 +10047,12 @@ const WORDS_ES_B2 = [
       "zh": "购物车",
       "ru": "тележка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "carritos"
   },
   {
     "id": "es_4889",
+    "lang": "es",
     "lemma": "micro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10484,13 +10072,12 @@ const WORDS_ES_B2 = [
       "zh": "公交车",
       "ru": "автобус"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "micros"
   },
   {
     "id": "es_4891",
+    "lang": "es",
     "lemma": "audaz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10509,12 +10096,11 @@ const WORDS_ES_B2 = [
       "ja": "大胆な",
       "zh": "大胆的",
       "ru": "смелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4893",
+    "lang": "es",
     "lemma": "norteamericano",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10533,12 +10119,11 @@ const WORDS_ES_B2 = [
       "ja": "北米の",
       "zh": "北美的",
       "ru": "североамериканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4894",
+    "lang": "es",
     "lemma": "metáfora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10558,13 +10143,12 @@ const WORDS_ES_B2 = [
       "zh": "隐喻",
       "ru": "метафора"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "metáforas"
   },
   {
     "id": "es_4896",
+    "lang": "es",
     "lemma": "derrame",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10584,13 +10168,12 @@ const WORDS_ES_B2 = [
       "zh": "泄漏",
       "ru": "утечка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "derrames"
   },
   {
     "id": "es_4897",
+    "lang": "es",
     "lemma": "espina",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10610,13 +10193,12 @@ const WORDS_ES_B2 = [
       "zh": "刺",
       "ru": "шип"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "espinas"
   },
   {
     "id": "es_4898",
+    "lang": "es",
     "lemma": "frontal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10635,12 +10217,11 @@ const WORDS_ES_B2 = [
       "ja": "正面の",
       "zh": "正面的",
       "ru": "фронтальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4901",
+    "lang": "es",
     "lemma": "ferry",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10661,13 +10242,12 @@ const WORDS_ES_B2 = [
       "zh": "渡轮",
       "ru": "паром"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ferris"
   },
   {
     "id": "es_4902",
+    "lang": "es",
     "lemma": "apasionado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10686,12 +10266,11 @@ const WORDS_ES_B2 = [
       "ja": "情熱的な",
       "zh": "热情的",
       "ru": "страстный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4903",
+    "lang": "es",
     "lemma": "rendimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10711,13 +10290,12 @@ const WORDS_ES_B2 = [
       "zh": "成绩",
       "ru": "производительность"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "rendimientos"
   },
   {
     "id": "es_4911",
+    "lang": "es",
     "lemma": "regazo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10737,13 +10315,11 @@ const WORDS_ES_B2 = [
       "zh": "膝盖",
       "ru": "колени"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4913",
+    "lang": "es",
     "lemma": "diálogo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10764,13 +10340,12 @@ const WORDS_ES_B2 = [
       "zh": "对话",
       "ru": "диалог"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "diálogos"
   },
   {
     "id": "es_4914",
+    "lang": "es",
     "lemma": "amargo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10789,12 +10364,11 @@ const WORDS_ES_B2 = [
       "ja": "苦い",
       "zh": "苦的",
       "ru": "горький"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4917",
+    "lang": "es",
     "lemma": "motivación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10814,13 +10388,12 @@ const WORDS_ES_B2 = [
       "zh": "动力",
       "ru": "мотивация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "motivaciones"
   },
   {
     "id": "es_4920",
+    "lang": "es",
     "lemma": "arrogancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10840,13 +10413,12 @@ const WORDS_ES_B2 = [
       "zh": "傲慢",
       "ru": "высокомерие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "arrogancias"
   },
   {
     "id": "es_4923",
+    "lang": "es",
     "lemma": "presidencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10866,13 +10438,12 @@ const WORDS_ES_B2 = [
       "zh": "总统职位",
       "ru": "президентство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "presidencias"
   },
   {
     "id": "es_4927",
+    "lang": "es",
     "lemma": "telefónico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10891,12 +10462,11 @@ const WORDS_ES_B2 = [
       "ja": "電話の",
       "zh": "电话的",
       "ru": "телефонный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4928",
+    "lang": "es",
     "lemma": "peculiar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10915,12 +10485,11 @@ const WORDS_ES_B2 = [
       "ja": "独特な",
       "zh": "奇特的",
       "ru": "своеобразный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4929",
+    "lang": "es",
     "lemma": "entusiasmado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10939,12 +10508,11 @@ const WORDS_ES_B2 = [
       "ja": "熱心な",
       "zh": "热情的",
       "ru": "восторженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4930",
+    "lang": "es",
     "lemma": "distraído",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -10963,12 +10531,11 @@ const WORDS_ES_B2 = [
       "ja": "不注意な",
       "zh": "心不在焉的",
       "ru": "рассеянный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4931",
+    "lang": "es",
     "lemma": "carreta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -10988,13 +10555,12 @@ const WORDS_ES_B2 = [
       "zh": "大车",
       "ru": "повозка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "carretas"
   },
   {
     "id": "es_4932",
+    "lang": "es",
     "lemma": "ajuste",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11014,13 +10580,12 @@ const WORDS_ES_B2 = [
       "zh": "调整",
       "ru": "регулировка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ajustes"
   },
   {
     "id": "es_4933",
+    "lang": "es",
     "lemma": "consciencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11040,13 +10605,12 @@ const WORDS_ES_B2 = [
       "zh": "意识",
       "ru": "сознание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "consciencias"
   },
   {
     "id": "es_4935",
+    "lang": "es",
     "lemma": "observador",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11065,12 +10629,11 @@ const WORDS_ES_B2 = [
       "ja": "観察力のある",
       "zh": "善于观察的",
       "ru": "наблюдательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4939",
+    "lang": "es",
     "lemma": "alérgico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11089,12 +10652,11 @@ const WORDS_ES_B2 = [
       "ja": "アレルギーの",
       "zh": "过敏的",
       "ru": "аллергический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4940",
+    "lang": "es",
     "lemma": "pasto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11114,13 +10676,12 @@ const WORDS_ES_B2 = [
       "zh": "草",
       "ru": "трава"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pastos"
   },
   {
     "id": "es_4941",
+    "lang": "es",
     "lemma": "calentamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11140,13 +10701,12 @@ const WORDS_ES_B2 = [
       "zh": "热身",
       "ru": "разминка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "calentamientos"
   },
   {
     "id": "es_4943",
+    "lang": "es",
     "lemma": "tractor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11166,13 +10726,12 @@ const WORDS_ES_B2 = [
       "zh": "拖拉机",
       "ru": "трактор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tractores"
   },
   {
     "id": "es_4944",
+    "lang": "es",
     "lemma": "compensación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11192,13 +10751,12 @@ const WORDS_ES_B2 = [
       "zh": "补偿",
       "ru": "компенсация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "compensaciones"
   },
   {
     "id": "es_4945",
+    "lang": "es",
     "lemma": "víbora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11218,13 +10776,12 @@ const WORDS_ES_B2 = [
       "zh": "毒蛇",
       "ru": "гадюка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "víboras"
   },
   {
     "id": "es_4946",
+    "lang": "es",
     "lemma": "inmenso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11243,12 +10800,11 @@ const WORDS_ES_B2 = [
       "ja": "巨大な",
       "zh": "巨大的",
       "ru": "огромный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4947",
+    "lang": "es",
     "lemma": "aspirina",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11268,13 +10824,12 @@ const WORDS_ES_B2 = [
       "zh": "阿司匹林",
       "ru": "аспирин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "aspirinas"
   },
   {
     "id": "es_4948",
+    "lang": "es",
     "lemma": "previo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11293,12 +10848,11 @@ const WORDS_ES_B2 = [
       "ja": "以前の",
       "zh": "先前的",
       "ru": "предыдущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4949",
+    "lang": "es",
     "lemma": "tubería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11318,13 +10872,12 @@ const WORDS_ES_B2 = [
       "zh": "管道",
       "ru": "трубопровод"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tuberías"
   },
   {
     "id": "es_4950",
+    "lang": "es",
     "lemma": "ordinario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11343,12 +10896,11 @@ const WORDS_ES_B2 = [
       "ja": "普通の",
       "zh": "普通的",
       "ru": "обычный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4951",
+    "lang": "es",
     "lemma": "exploración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11368,13 +10920,12 @@ const WORDS_ES_B2 = [
       "zh": "探险",
       "ru": "исследование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "exploraciones"
   },
   {
     "id": "es_4957",
+    "lang": "es",
     "lemma": "arquitectura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11394,15 +10945,16 @@ const WORDS_ES_B2 = [
       "zh": "建筑",
       "ru": "архитектура"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "arquitecturas"
   },
   {
     "id": "es_4959",
+    "lang": "es",
     "lemma": "veinticinco",
     "pos": "Nomen",
+    "article": "el",
+    "plural": "veinticincos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11412,21 +10964,25 @@ const WORDS_ES_B2 = [
       "ko": "25",
       "en": "25",
       "de": "25",
-      "es": "veinticinco",
-      "fr": "25",
+      "es": "el veinticinco",
+      "fr": "le 25",
       "it": "25",
       "pt": "25",
       "ja": "25",
       "zh": "25",
       "ru": "25"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": "veinticincos"
+    "meta": {
+      "noArticleMeanings": {
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "es_4960",
+    "lang": "es",
     "lemma": "afirmativo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11445,12 +11001,11 @@ const WORDS_ES_B2 = [
       "ja": "肯定的な",
       "zh": "肯定的",
       "ru": "утвердительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4964",
+    "lang": "es",
     "lemma": "genético",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11469,12 +11024,11 @@ const WORDS_ES_B2 = [
       "ja": "遺伝的な",
       "zh": "遗传的",
       "ru": "генетический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4965",
+    "lang": "es",
     "lemma": "mutuo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11493,12 +11047,11 @@ const WORDS_ES_B2 = [
       "ja": "相互的な",
       "zh": "相互的",
       "ru": "взаимный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4968",
+    "lang": "es",
     "lemma": "reparación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11518,13 +11071,12 @@ const WORDS_ES_B2 = [
       "zh": "修理",
       "ru": "ремонт"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "reparaciones"
   },
   {
     "id": "es_4972",
+    "lang": "es",
     "lemma": "conducto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11544,13 +11096,12 @@ const WORDS_ES_B2 = [
       "zh": "导管",
       "ru": "канал"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "conductos"
   },
   {
     "id": "es_4973",
+    "lang": "es",
     "lemma": "karate",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11570,13 +11121,11 @@ const WORDS_ES_B2 = [
       "zh": "空手道",
       "ru": "карате"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_4974",
+    "lang": "es",
     "lemma": "pirámide",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11596,13 +11145,12 @@ const WORDS_ES_B2 = [
       "zh": "金字塔",
       "ru": "пирамида"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pirámides"
   },
   {
     "id": "es_4978",
+    "lang": "es",
     "lemma": "acta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11622,15 +11170,16 @@ const WORDS_ES_B2 = [
       "zh": "会议记录",
       "ru": "протокол"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "actas"
   },
   {
     "id": "es_4979",
+    "lang": "es",
     "lemma": "dieciocho",
     "pos": "Nomen",
+    "article": "el",
+    "plural": "dieciochos",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -11640,21 +11189,25 @@ const WORDS_ES_B2 = [
       "ko": "18",
       "en": "18",
       "de": "18",
-      "es": "dieciocho",
-      "fr": "dix-huit",
+      "es": "el dieciocho",
+      "fr": "le dix-huit",
       "it": "diciotto",
       "pt": "dezoito",
       "ja": "18",
       "zh": "18",
       "ru": "18"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": "dieciochos"
+    "meta": {
+      "noArticleMeanings": {
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "es_4980",
+    "lang": "es",
     "lemma": "diligencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11674,13 +11227,12 @@ const WORDS_ES_B2 = [
       "zh": "勤奋",
       "ru": "прилежание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "diligencias"
   },
   {
     "id": "es_4981",
+    "lang": "es",
     "lemma": "creíble",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11699,12 +11251,11 @@ const WORDS_ES_B2 = [
       "ja": "信じられる",
       "zh": "可信的",
       "ru": "достоверный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4982",
+    "lang": "es",
     "lemma": "bronce",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11724,13 +11275,12 @@ const WORDS_ES_B2 = [
       "zh": "青铜",
       "ru": "бронза"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bronces"
   },
   {
     "id": "es_4984",
+    "lang": "es",
     "lemma": "editorial",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11750,13 +11300,11 @@ const WORDS_ES_B2 = [
       "zh": "出版社",
       "ru": "издательство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_4989",
+    "lang": "es",
     "lemma": "cortés",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11775,12 +11323,11 @@ const WORDS_ES_B2 = [
       "ja": "礼儀正しい",
       "zh": "有礼貌的",
       "ru": "вежливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4991",
+    "lang": "es",
     "lemma": "barbilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11800,13 +11347,12 @@ const WORDS_ES_B2 = [
       "zh": "下巴",
       "ru": "подбородок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "barbillas"
   },
   {
     "id": "es_4993",
+    "lang": "es",
     "lemma": "diplomático",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11825,12 +11371,11 @@ const WORDS_ES_B2 = [
       "ja": "外交的",
       "zh": "外交的",
       "ru": "дипломатический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_4997",
+    "lang": "es",
     "lemma": "ternera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11850,13 +11395,12 @@ const WORDS_ES_B2 = [
       "zh": "小牛",
       "ru": "телятина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "terneras"
   },
   {
     "id": "es_4999",
+    "lang": "es",
     "lemma": "huérfano",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11875,12 +11419,11 @@ const WORDS_ES_B2 = [
       "ja": "孤児の",
       "zh": "孤儿的",
       "ru": "сиротский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5001",
+    "lang": "es",
     "lemma": "peli",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11900,13 +11443,12 @@ const WORDS_ES_B2 = [
       "zh": "电影",
       "ru": "фильм"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pelis"
   },
   {
     "id": "es_5008",
+    "lang": "es",
     "lemma": "exigente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -11925,12 +11467,11 @@ const WORDS_ES_B2 = [
       "ja": "厳しい",
       "zh": "苛刻的",
       "ru": "требовательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5010",
+    "lang": "es",
     "lemma": "madrastra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11951,13 +11492,12 @@ const WORDS_ES_B2 = [
       "zh": "继母",
       "ru": "мачеха"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "madrastras"
   },
   {
     "id": "es_5011",
+    "lang": "es",
     "lemma": "autoestima",
     "pos": "Nomen",
     "cefr": "B2",
@@ -11977,13 +11517,12 @@ const WORDS_ES_B2 = [
       "zh": "自尊心",
       "ru": "самооценка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "autoestimas"
   },
   {
     "id": "es_5012",
+    "lang": "es",
     "lemma": "psicológico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12002,12 +11541,11 @@ const WORDS_ES_B2 = [
       "ja": "心理的な",
       "zh": "心理的",
       "ru": "психологический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5013",
+    "lang": "es",
     "lemma": "programación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12027,13 +11565,12 @@ const WORDS_ES_B2 = [
       "zh": "编程",
       "ru": "программирование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "programaciones"
   },
   {
     "id": "es_5014",
+    "lang": "es",
     "lemma": "interferencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12053,13 +11590,12 @@ const WORDS_ES_B2 = [
       "zh": "干扰",
       "ru": "помеха"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "interferencias"
   },
   {
     "id": "es_5015",
+    "lang": "es",
     "lemma": "radiante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12078,12 +11614,11 @@ const WORDS_ES_B2 = [
       "ja": "輝く",
       "zh": "灿烂的",
       "ru": "сияющий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5016",
+    "lang": "es",
     "lemma": "altitud",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12103,13 +11638,12 @@ const WORDS_ES_B2 = [
       "zh": "高度",
       "ru": "высота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "altitudes"
   },
   {
     "id": "es_5019",
+    "lang": "es",
     "lemma": "puntual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12128,12 +11662,11 @@ const WORDS_ES_B2 = [
       "ja": "時間厳守の",
       "zh": "准时的",
       "ru": "пунктуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5020",
+    "lang": "es",
     "lemma": "sumo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12152,12 +11685,11 @@ const WORDS_ES_B2 = [
       "ja": "最高の",
       "zh": "最高的",
       "ru": "верховный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5023",
+    "lang": "es",
     "lemma": "impecable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12176,12 +11708,11 @@ const WORDS_ES_B2 = [
       "ja": "完璧な",
       "zh": "无可挑剔的",
       "ru": "безупречный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5024",
+    "lang": "es",
     "lemma": "casillero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12201,13 +11732,12 @@ const WORDS_ES_B2 = [
       "zh": "储物柜",
       "ru": "шкафчик"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "casilleros"
   },
   {
     "id": "es_5025",
+    "lang": "es",
     "lemma": "aurora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12227,13 +11757,12 @@ const WORDS_ES_B2 = [
       "zh": "黎明",
       "ru": "заря"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "auroras"
   },
   {
     "id": "es_5026",
+    "lang": "es",
     "lemma": "pasatiempo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12253,13 +11782,12 @@ const WORDS_ES_B2 = [
       "zh": "消遣",
       "ru": "развлечение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pasatiempos"
   },
   {
     "id": "es_5028",
+    "lang": "es",
     "lemma": "gen",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12279,13 +11807,12 @@ const WORDS_ES_B2 = [
       "zh": "基因",
       "ru": "ген"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "genes"
   },
   {
     "id": "es_5029",
+    "lang": "es",
     "lemma": "realeza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12305,13 +11832,12 @@ const WORDS_ES_B2 = [
       "zh": "王族",
       "ru": "королевство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "realezas"
   },
   {
     "id": "es_5030",
+    "lang": "es",
     "lemma": "agotador",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12330,12 +11856,11 @@ const WORDS_ES_B2 = [
       "ja": "疲れさせる",
       "zh": "令人疲惫的",
       "ru": "изнурительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5031",
+    "lang": "es",
     "lemma": "circular",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12355,13 +11880,12 @@ const WORDS_ES_B2 = [
       "zh": "通知",
       "ru": "циркуляр"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "circulares"
   },
   {
     "id": "es_5037",
+    "lang": "es",
     "lemma": "panza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12381,13 +11905,12 @@ const WORDS_ES_B2 = [
       "zh": "肚子",
       "ru": "живот"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "panzas"
   },
   {
     "id": "es_5040",
+    "lang": "es",
     "lemma": "neutral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12406,12 +11929,11 @@ const WORDS_ES_B2 = [
       "ja": "中立的な",
       "zh": "中立的",
       "ru": "нейтральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5041",
+    "lang": "es",
     "lemma": "extinción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12431,13 +11953,12 @@ const WORDS_ES_B2 = [
       "zh": "灭绝",
       "ru": "вымирание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "extinciones"
   },
   {
     "id": "es_5044",
+    "lang": "es",
     "lemma": "bocadillo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12457,13 +11978,12 @@ const WORDS_ES_B2 = [
       "zh": "三明治",
       "ru": "бутерброд"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bocadillos"
   },
   {
     "id": "es_5045",
+    "lang": "es",
     "lemma": "trineo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12483,13 +12003,12 @@ const WORDS_ES_B2 = [
       "zh": "雪橇",
       "ru": "санки"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "trineos"
   },
   {
     "id": "es_5047",
+    "lang": "es",
     "lemma": "considerable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12508,12 +12027,11 @@ const WORDS_ES_B2 = [
       "ja": "かなりの",
       "zh": "相当的",
       "ru": "значительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5049",
+    "lang": "es",
     "lemma": "circunstancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12533,13 +12051,12 @@ const WORDS_ES_B2 = [
       "zh": "情况",
       "ru": "обстоятельство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "circunstancias"
   },
   {
     "id": "es_5051",
+    "lang": "es",
     "lemma": "encendedor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12559,13 +12076,12 @@ const WORDS_ES_B2 = [
       "zh": "打火机",
       "ru": "зажигалка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "encendedores"
   },
   {
     "id": "es_5054",
+    "lang": "es",
     "lemma": "catedral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12585,13 +12101,12 @@ const WORDS_ES_B2 = [
       "zh": "大教堂",
       "ru": "собор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "catedrales"
   },
   {
     "id": "es_5057",
+    "lang": "es",
     "lemma": "peluquería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12611,13 +12126,12 @@ const WORDS_ES_B2 = [
       "zh": "美发店",
       "ru": "парикмахерская"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "peluquerías"
   },
   {
     "id": "es_5059",
+    "lang": "es",
     "lemma": "higiénico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12636,12 +12150,11 @@ const WORDS_ES_B2 = [
       "ja": "衛生的な",
       "zh": "卫生的",
       "ru": "гигиеничный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5060",
+    "lang": "es",
     "lemma": "consultorio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12661,13 +12174,12 @@ const WORDS_ES_B2 = [
       "zh": "诊疗室",
       "ru": "кабинет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "consultorios"
   },
   {
     "id": "es_5061",
+    "lang": "es",
     "lemma": "relámpago",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12687,13 +12199,11 @@ const WORDS_ES_B2 = [
       "zh": "闪电",
       "ru": "молния"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5063",
+    "lang": "es",
     "lemma": "intensidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12713,13 +12223,12 @@ const WORDS_ES_B2 = [
       "zh": "强度",
       "ru": "интенсивность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "intensidades"
   },
   {
     "id": "es_5064",
+    "lang": "es",
     "lemma": "mudanza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12739,13 +12248,12 @@ const WORDS_ES_B2 = [
       "zh": "搬家",
       "ru": "переезд"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mudanzas"
   },
   {
     "id": "es_5067",
+    "lang": "es",
     "lemma": "tinto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12764,12 +12272,11 @@ const WORDS_ES_B2 = [
       "ja": "濃い赤い",
       "zh": "深红色的",
       "ru": "тёмно-красный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5068",
+    "lang": "es",
     "lemma": "tinto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12789,13 +12296,12 @@ const WORDS_ES_B2 = [
       "zh": "红葡萄酒",
       "ru": "красное вино"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tintos"
   },
   {
     "id": "es_5069",
+    "lang": "es",
     "lemma": "pilar",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12815,13 +12321,12 @@ const WORDS_ES_B2 = [
       "zh": "柱子",
       "ru": "столб"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pilares"
   },
   {
     "id": "es_5071",
+    "lang": "es",
     "lemma": "honra",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12841,13 +12346,12 @@ const WORDS_ES_B2 = [
       "zh": "荣誉",
       "ru": "честь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "honras"
   },
   {
     "id": "es_5073",
+    "lang": "es",
     "lemma": "expansión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12867,13 +12371,12 @@ const WORDS_ES_B2 = [
       "zh": "扩张",
       "ru": "расширение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "expansiones"
   },
   {
     "id": "es_5074",
+    "lang": "es",
     "lemma": "reposo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12893,13 +12396,12 @@ const WORDS_ES_B2 = [
       "zh": "休息",
       "ru": "отдых"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "reposos"
   },
   {
     "id": "es_5075",
+    "lang": "es",
     "lemma": "revolucionario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -12918,12 +12420,11 @@ const WORDS_ES_B2 = [
       "ja": "革命的な",
       "zh": "革命性的",
       "ru": "революционный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5076",
+    "lang": "es",
     "lemma": "estima",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12943,13 +12444,12 @@ const WORDS_ES_B2 = [
       "zh": "好感",
       "ru": "уважение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "estimas"
   },
   {
     "id": "es_5077",
+    "lang": "es",
     "lemma": "codicia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12969,13 +12469,12 @@ const WORDS_ES_B2 = [
       "zh": "贪婪",
       "ru": "алчность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "codicias"
   },
   {
     "id": "es_5081",
+    "lang": "es",
     "lemma": "decencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -12995,13 +12494,12 @@ const WORDS_ES_B2 = [
       "zh": "得体",
       "ru": "приличие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "decencias"
   },
   {
     "id": "es_5084",
+    "lang": "es",
     "lemma": "fragmento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13021,13 +12519,12 @@ const WORDS_ES_B2 = [
       "zh": "片段",
       "ru": "фрагмент"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "fragmentos"
   },
   {
     "id": "es_5085",
+    "lang": "es",
     "lemma": "conmovedor",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13046,12 +12543,11 @@ const WORDS_ES_B2 = [
       "ja": "感動的な",
       "zh": "感人的",
       "ru": "трогательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5087",
+    "lang": "es",
     "lemma": "aprendizaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13071,13 +12567,12 @@ const WORDS_ES_B2 = [
       "zh": "学习",
       "ru": "обучение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "aprendizajes"
   },
   {
     "id": "es_5092",
+    "lang": "es",
     "lemma": "esfera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13097,13 +12592,12 @@ const WORDS_ES_B2 = [
       "zh": "球体",
       "ru": "сфера"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "esferas"
   },
   {
     "id": "es_5095",
+    "lang": "es",
     "lemma": "marcial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13122,12 +12616,11 @@ const WORDS_ES_B2 = [
       "ja": "戦争の",
       "zh": "战争的",
       "ru": "военный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5099",
+    "lang": "es",
     "lemma": "latido",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13149,13 +12642,11 @@ const WORDS_ES_B2 = [
       "zh": "心跳",
       "ru": "биение"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5100",
+    "lang": "es",
     "lemma": "dilema",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13175,13 +12666,12 @@ const WORDS_ES_B2 = [
       "zh": "困境",
       "ru": "дилемма"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "dilemas"
   },
   {
     "id": "es_5104",
+    "lang": "es",
     "lemma": "talentoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13200,12 +12690,11 @@ const WORDS_ES_B2 = [
       "ja": "才能のある",
       "zh": "有才华的",
       "ru": "талантливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5105",
+    "lang": "es",
     "lemma": "vena",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13225,13 +12714,12 @@ const WORDS_ES_B2 = [
       "zh": "静脉",
       "ru": "вена"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "venas"
   },
   {
     "id": "es_5107",
+    "lang": "es",
     "lemma": "paranoia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13252,13 +12740,12 @@ const WORDS_ES_B2 = [
       "zh": "偏执狂",
       "ru": "паранойя"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "paranoias"
   },
   {
     "id": "es_5108",
+    "lang": "es",
     "lemma": "manuscrito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13278,13 +12765,12 @@ const WORDS_ES_B2 = [
       "zh": "手稿",
       "ru": "рукопись"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "manuscritos"
   },
   {
     "id": "es_5109",
+    "lang": "es",
     "lemma": "manuscrito",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13303,12 +12789,11 @@ const WORDS_ES_B2 = [
       "ja": "手書きの",
       "zh": "手写的",
       "ru": "рукописный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5110",
+    "lang": "es",
     "lemma": "dinosaurio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13328,13 +12813,12 @@ const WORDS_ES_B2 = [
       "zh": "恐龙",
       "ru": "динозавр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "dinosaurios"
   },
   {
     "id": "es_5113",
+    "lang": "es",
     "lemma": "comodidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13354,13 +12838,12 @@ const WORDS_ES_B2 = [
       "zh": "舒适",
       "ru": "удобство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "comodidades"
   },
   {
     "id": "es_5114",
+    "lang": "es",
     "lemma": "eje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13380,13 +12863,12 @@ const WORDS_ES_B2 = [
       "zh": "轴",
       "ru": "ось"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ejes"
   },
   {
     "id": "es_5121",
+    "lang": "es",
     "lemma": "vivienda",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13406,13 +12888,12 @@ const WORDS_ES_B2 = [
       "zh": "住宅",
       "ru": "жилище"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "viviendas"
   },
   {
     "id": "es_5122",
+    "lang": "es",
     "lemma": "volador",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13431,12 +12912,11 @@ const WORDS_ES_B2 = [
       "ja": "飛ぶ",
       "zh": "会飞的",
       "ru": "летающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5123",
+    "lang": "es",
     "lemma": "entendimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13456,13 +12936,12 @@ const WORDS_ES_B2 = [
       "zh": "理解力",
       "ru": "понимание"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "entendimientos"
   },
   {
     "id": "es_5124",
+    "lang": "es",
     "lemma": "interrupción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13482,13 +12961,12 @@ const WORDS_ES_B2 = [
       "zh": "中断",
       "ru": "прерывание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "interrupciones"
   },
   {
     "id": "es_5125",
+    "lang": "es",
     "lemma": "credibilidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13508,13 +12986,12 @@ const WORDS_ES_B2 = [
       "zh": "可信度",
       "ru": "достоверность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "credibilidades"
   },
   {
     "id": "es_5127",
+    "lang": "es",
     "lemma": "preliminar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13533,12 +13010,11 @@ const WORDS_ES_B2 = [
       "ja": "予備的な",
       "zh": "初步的",
       "ru": "предварительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5129",
+    "lang": "es",
     "lemma": "víspera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13558,13 +13034,12 @@ const WORDS_ES_B2 = [
       "zh": "前夜",
       "ru": "канун"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vísperas"
   },
   {
     "id": "es_5131",
+    "lang": "es",
     "lemma": "labio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13584,13 +13059,12 @@ const WORDS_ES_B2 = [
       "zh": "嘴唇",
       "ru": "губа"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "labios"
   },
   {
     "id": "es_5135",
+    "lang": "es",
     "lemma": "ano",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13610,13 +13084,12 @@ const WORDS_ES_B2 = [
       "zh": "肛门",
       "ru": "анус"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "anos"
   },
   {
     "id": "es_5136",
+    "lang": "es",
     "lemma": "mezclado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13635,12 +13108,11 @@ const WORDS_ES_B2 = [
       "ja": "混ざった",
       "zh": "混合的",
       "ru": "смешанный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5139",
+    "lang": "es",
     "lemma": "contribución",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13660,13 +13132,12 @@ const WORDS_ES_B2 = [
       "zh": "贡献",
       "ru": "вклад"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "contribuciones"
   },
   {
     "id": "es_5140",
+    "lang": "es",
     "lemma": "agricultura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13686,13 +13157,12 @@ const WORDS_ES_B2 = [
       "zh": "农业",
       "ru": "сельское хозяйство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "agriculturas"
   },
   {
     "id": "es_5141",
+    "lang": "es",
     "lemma": "terco",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13712,12 +13182,11 @@ const WORDS_ES_B2 = [
       "ja": "頑固な",
       "zh": "固执的",
       "ru": "упрямый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5143",
+    "lang": "es",
     "lemma": "tarifa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13737,13 +13206,12 @@ const WORDS_ES_B2 = [
       "zh": "关税",
       "ru": "тариф"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tarifas"
   },
   {
     "id": "es_5147",
+    "lang": "es",
     "lemma": "trompeta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13763,13 +13231,12 @@ const WORDS_ES_B2 = [
       "zh": "喇叭",
       "ru": "труба"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "trompetas"
   },
   {
     "id": "es_5157",
+    "lang": "es",
     "lemma": "intacto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -13788,12 +13255,11 @@ const WORDS_ES_B2 = [
       "ja": "無傷の",
       "zh": "完整的",
       "ru": "нетронутый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5164",
+    "lang": "es",
     "lemma": "col",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13813,13 +13279,12 @@ const WORDS_ES_B2 = [
       "zh": "卷心菜",
       "ru": "капуста"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "coles"
   },
   {
     "id": "es_5166",
+    "lang": "es",
     "lemma": "recipiente",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13839,13 +13304,12 @@ const WORDS_ES_B2 = [
       "zh": "容器",
       "ru": "контейнер"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "recipientes"
   },
   {
     "id": "es_5167",
+    "lang": "es",
     "lemma": "negación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13865,13 +13329,12 @@ const WORDS_ES_B2 = [
       "zh": "否定",
       "ru": "отрицание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "negaciones"
   },
   {
     "id": "es_5168",
+    "lang": "es",
     "lemma": "silbato",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13891,13 +13354,12 @@ const WORDS_ES_B2 = [
       "zh": "哨子",
       "ru": "свисток"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "silbatos"
   },
   {
     "id": "es_5169",
+    "lang": "es",
     "lemma": "plátano",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13917,13 +13379,12 @@ const WORDS_ES_B2 = [
       "zh": "悬铃木",
       "ru": "платан"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "plátanos"
   },
   {
     "id": "es_5170",
+    "lang": "es",
     "lemma": "pitido",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13943,13 +13404,12 @@ const WORDS_ES_B2 = [
       "zh": "哔声",
       "ru": "писк"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pitidos"
   },
   {
     "id": "es_5171",
+    "lang": "es",
     "lemma": "instructor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13969,13 +13429,12 @@ const WORDS_ES_B2 = [
       "zh": "教官",
       "ru": "инструктор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "instructores"
   },
   {
     "id": "es_5173",
+    "lang": "es",
     "lemma": "cereza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -13995,13 +13454,12 @@ const WORDS_ES_B2 = [
       "zh": "樱桃",
       "ru": "вишня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cerezas"
   },
   {
     "id": "es_5175",
+    "lang": "es",
     "lemma": "ventilador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14021,13 +13479,12 @@ const WORDS_ES_B2 = [
       "zh": "风扇",
       "ru": "вентилятор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ventiladores"
   },
   {
     "id": "es_5176",
+    "lang": "es",
     "lemma": "ofensivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14046,12 +13503,11 @@ const WORDS_ES_B2 = [
       "ja": "不快な",
       "zh": "冒犯的",
       "ru": "оскорбительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5177",
+    "lang": "es",
     "lemma": "falsificación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14071,13 +13527,12 @@ const WORDS_ES_B2 = [
       "zh": "伪造",
       "ru": "подделка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "falsificaciones"
   },
   {
     "id": "es_5182",
+    "lang": "es",
     "lemma": "libreta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14097,13 +13552,12 @@ const WORDS_ES_B2 = [
       "zh": "小笔记本",
       "ru": "записная книжка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "libretas"
   },
   {
     "id": "es_5184",
+    "lang": "es",
     "lemma": "látigo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14123,13 +13577,12 @@ const WORDS_ES_B2 = [
       "zh": "鞭子",
       "ru": "кнут"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "látigos"
   },
   {
     "id": "es_5187",
+    "lang": "es",
     "lemma": "subtitulado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14148,12 +13601,11 @@ const WORDS_ES_B2 = [
       "ja": "字幕付きの",
       "zh": "有字幕的",
       "ru": "с субтитрами"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5188",
+    "lang": "es",
     "lemma": "cariñoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14172,12 +13624,11 @@ const WORDS_ES_B2 = [
       "ja": "愛情深い",
       "zh": "亲切的",
       "ru": "ласковый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5189",
+    "lang": "es",
     "lemma": "madrina",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14199,13 +13650,12 @@ const WORDS_ES_B2 = [
       "zh": "教母",
       "ru": "крёстная мать"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "madrinas"
   },
   {
     "id": "es_5193",
+    "lang": "es",
     "lemma": "doctorado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14225,13 +13675,12 @@ const WORDS_ES_B2 = [
       "zh": "博士学位",
       "ru": "докторская степень"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "doctorados"
   },
   {
     "id": "es_5194",
+    "lang": "es",
     "lemma": "pureza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14251,13 +13700,12 @@ const WORDS_ES_B2 = [
       "zh": "纯净",
       "ru": "чистота"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "purezas"
   },
   {
     "id": "es_5197",
+    "lang": "es",
     "lemma": "agudo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14276,12 +13724,11 @@ const WORDS_ES_B2 = [
       "ja": "鋭い",
       "zh": "锐利的",
       "ru": "острый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5198",
+    "lang": "es",
     "lemma": "longitud",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14301,13 +13748,12 @@ const WORDS_ES_B2 = [
       "zh": "长度",
       "ru": "длина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "longitudes"
   },
   {
     "id": "es_5199",
+    "lang": "es",
     "lemma": "sabroso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14326,12 +13772,11 @@ const WORDS_ES_B2 = [
       "ja": "おいしい",
       "zh": "美味的",
       "ru": "вкусный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5200",
+    "lang": "es",
     "lemma": "eficaz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14350,12 +13795,11 @@ const WORDS_ES_B2 = [
       "ja": "効果的な",
       "zh": "有效的",
       "ru": "эффективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5207",
+    "lang": "es",
     "lemma": "psíquico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14374,12 +13818,11 @@ const WORDS_ES_B2 = [
       "ja": "精神的な",
       "zh": "心理的",
       "ru": "психический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5208",
+    "lang": "es",
     "lemma": "remordimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14399,13 +13842,12 @@ const WORDS_ES_B2 = [
       "zh": "悔恨",
       "ru": "угрызение совести"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "remordimientos"
   },
   {
     "id": "es_5212",
+    "lang": "es",
     "lemma": "ventanilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14425,13 +13867,11 @@ const WORDS_ES_B2 = [
       "zh": "窗口",
       "ru": "окошко"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5213",
+    "lang": "es",
     "lemma": "carpeta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14451,13 +13891,12 @@ const WORDS_ES_B2 = [
       "zh": "文件夹",
       "ru": "папка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "carpetas"
   },
   {
     "id": "es_5220",
+    "lang": "es",
     "lemma": "significativo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14476,12 +13915,11 @@ const WORDS_ES_B2 = [
       "ja": "意味のある",
       "zh": "有意义的",
       "ru": "значительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5221",
+    "lang": "es",
     "lemma": "telescopio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14501,13 +13939,12 @@ const WORDS_ES_B2 = [
       "zh": "望远镜",
       "ru": "телескоп"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "telescopios"
   },
   {
     "id": "es_5225",
+    "lang": "es",
     "lemma": "estante",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14527,13 +13964,12 @@ const WORDS_ES_B2 = [
       "zh": "架子",
       "ru": "полка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "estantes"
   },
   {
     "id": "es_5228",
+    "lang": "es",
     "lemma": "convencional",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14552,12 +13988,11 @@ const WORDS_ES_B2 = [
       "ja": "慣例的な",
       "zh": "传统的",
       "ru": "условный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5230",
+    "lang": "es",
     "lemma": "enseñanza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14577,13 +14012,12 @@ const WORDS_ES_B2 = [
       "zh": "教学",
       "ru": "обучение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "enseñanzas"
   },
   {
     "id": "es_5236",
+    "lang": "es",
     "lemma": "cúpula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14603,13 +14037,12 @@ const WORDS_ES_B2 = [
       "zh": "圆顶",
       "ru": "купол"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cúpulas"
   },
   {
     "id": "es_5237",
+    "lang": "es",
     "lemma": "veto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14629,13 +14062,12 @@ const WORDS_ES_B2 = [
       "zh": "否决权",
       "ru": "вето"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "vetos"
   },
   {
     "id": "es_5238",
+    "lang": "es",
     "lemma": "póliza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14655,13 +14087,12 @@ const WORDS_ES_B2 = [
       "zh": "保单",
       "ru": "полис"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "pólizas"
   },
   {
     "id": "es_5240",
+    "lang": "es",
     "lemma": "jubilación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14681,13 +14112,12 @@ const WORDS_ES_B2 = [
       "zh": "退休",
       "ru": "выход на пенсию"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "jubilaciones"
   },
   {
     "id": "es_5241",
+    "lang": "es",
     "lemma": "mineral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14707,13 +14137,12 @@ const WORDS_ES_B2 = [
       "zh": "矿物",
       "ru": "минерал"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "minerales"
   },
   {
     "id": "es_5242",
+    "lang": "es",
     "lemma": "mineral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14732,12 +14161,11 @@ const WORDS_ES_B2 = [
       "ja": "鉱物の",
       "zh": "矿物的",
       "ru": "минеральный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5243",
+    "lang": "es",
     "lemma": "estofado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14757,13 +14185,12 @@ const WORDS_ES_B2 = [
       "zh": "炖菜",
       "ru": "рагу"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "estofados"
   },
   {
     "id": "es_5244",
+    "lang": "es",
     "lemma": "capucha",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14783,13 +14210,12 @@ const WORDS_ES_B2 = [
       "zh": "兜帽",
       "ru": "капюшон"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "capuchas"
   },
   {
     "id": "es_5245",
+    "lang": "es",
     "lemma": "maternidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14810,13 +14236,12 @@ const WORDS_ES_B2 = [
       "zh": "母性",
       "ru": "материнство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maternidades"
   },
   {
     "id": "es_5246",
+    "lang": "es",
     "lemma": "zanahoria",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14836,13 +14261,12 @@ const WORDS_ES_B2 = [
       "zh": "胡萝卜",
       "ru": "морковь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "zanahorias"
   },
   {
     "id": "es_5248",
+    "lang": "es",
     "lemma": "avena",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14862,13 +14286,12 @@ const WORDS_ES_B2 = [
       "zh": "燕麦",
       "ru": "овес"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "avenas"
   },
   {
     "id": "es_5251",
+    "lang": "es",
     "lemma": "ruidoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14887,12 +14310,11 @@ const WORDS_ES_B2 = [
       "ja": "うるさい",
       "zh": "吵闹的",
       "ru": "шумный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5252",
+    "lang": "es",
     "lemma": "reforma",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14912,13 +14334,12 @@ const WORDS_ES_B2 = [
       "zh": "改革",
       "ru": "реформа"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "reformas"
   },
   {
     "id": "es_5254",
+    "lang": "es",
     "lemma": "anomalía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14938,13 +14359,12 @@ const WORDS_ES_B2 = [
       "zh": "异常",
       "ru": "аномалия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "anomalías"
   },
   {
     "id": "es_5259",
+    "lang": "es",
     "lemma": "buscador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -14964,13 +14384,12 @@ const WORDS_ES_B2 = [
       "zh": "搜索引擎",
       "ru": "поисковая система"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "buscadores"
   },
   {
     "id": "es_5260",
+    "lang": "es",
     "lemma": "celeste",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -14989,12 +14408,11 @@ const WORDS_ES_B2 = [
       "ja": "空色の",
       "zh": "天蓝色的",
       "ru": "небесный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5261",
+    "lang": "es",
     "lemma": "celeste",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15014,13 +14432,12 @@ const WORDS_ES_B2 = [
       "zh": "天蓝色",
       "ru": "небесный цвет"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "celestes"
   },
   {
     "id": "es_5262",
+    "lang": "es",
     "lemma": "matemática",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15040,13 +14457,12 @@ const WORDS_ES_B2 = [
       "zh": "数学",
       "ru": "математика"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "matemáticas"
   },
   {
     "id": "es_5264",
+    "lang": "es",
     "lemma": "descenso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15066,13 +14482,12 @@ const WORDS_ES_B2 = [
       "zh": "下降",
       "ru": "спуск"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "descensos"
   },
   {
     "id": "es_5265",
+    "lang": "es",
     "lemma": "brote",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15092,13 +14507,12 @@ const WORDS_ES_B2 = [
       "zh": "芽",
       "ru": "побег"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "brotes"
   },
   {
     "id": "es_5266",
+    "lang": "es",
     "lemma": "tributo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15118,13 +14532,12 @@ const WORDS_ES_B2 = [
       "zh": "税金",
       "ru": "налог"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tributos"
   },
   {
     "id": "es_5267",
+    "lang": "es",
     "lemma": "arterial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15143,12 +14556,11 @@ const WORDS_ES_B2 = [
       "ja": "動脈の",
       "zh": "动脉的",
       "ru": "артериальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5268",
+    "lang": "es",
     "lemma": "filtro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15168,13 +14580,12 @@ const WORDS_ES_B2 = [
       "zh": "过滤器",
       "ru": "фильтр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "filtros"
   },
   {
     "id": "es_5271",
+    "lang": "es",
     "lemma": "maquinaria",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15194,13 +14605,12 @@ const WORDS_ES_B2 = [
       "zh": "机械",
       "ru": "машинерия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "maquinarias"
   },
   {
     "id": "es_5272",
+    "lang": "es",
     "lemma": "reglamento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15220,13 +14630,12 @@ const WORDS_ES_B2 = [
       "zh": "规定",
       "ru": "положение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "reglamentos"
   },
   {
     "id": "es_5273",
+    "lang": "es",
     "lemma": "invencible",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15245,12 +14654,11 @@ const WORDS_ES_B2 = [
       "ja": "無敵の",
       "zh": "无敌的",
       "ru": "непобедимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5275",
+    "lang": "es",
     "lemma": "masivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15269,12 +14677,11 @@ const WORDS_ES_B2 = [
       "ja": "大規模の",
       "zh": "大规模的",
       "ru": "массивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5276",
+    "lang": "es",
     "lemma": "bikini",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15294,13 +14701,12 @@ const WORDS_ES_B2 = [
       "zh": "比基尼",
       "ru": "бикини"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "bikinis"
   },
   {
     "id": "es_5277",
+    "lang": "es",
     "lemma": "fidelidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15320,13 +14726,12 @@ const WORDS_ES_B2 = [
       "zh": "忠诚",
       "ru": "верность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fidelidades"
   },
   {
     "id": "es_5278",
+    "lang": "es",
     "lemma": "nuera",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15346,13 +14751,12 @@ const WORDS_ES_B2 = [
       "zh": "儿媳",
       "ru": "невестка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "nueras"
   },
   {
     "id": "es_5279",
+    "lang": "es",
     "lemma": "farol",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15372,13 +14776,12 @@ const WORDS_ES_B2 = [
       "zh": "灯笼",
       "ru": "фонарь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "faroles"
   },
   {
     "id": "es_5281",
+    "lang": "es",
     "lemma": "alergia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15398,13 +14801,12 @@ const WORDS_ES_B2 = [
       "zh": "过敏",
       "ru": "аллергия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "alergias"
   },
   {
     "id": "es_5282",
+    "lang": "es",
     "lemma": "impostor",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15423,12 +14825,11 @@ const WORDS_ES_B2 = [
       "ja": "詐欺的な",
       "zh": "欺诈的",
       "ru": "мошеннический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5285",
+    "lang": "es",
     "lemma": "equivalente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15447,12 +14848,11 @@ const WORDS_ES_B2 = [
       "ja": "同等の",
       "zh": "等同的",
       "ru": "эквивалентный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5286",
+    "lang": "es",
     "lemma": "arrepentimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15472,13 +14872,12 @@ const WORDS_ES_B2 = [
       "zh": "悔恨",
       "ru": "раскаяние"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "arrepentimientos"
   },
   {
     "id": "es_5288",
+    "lang": "es",
     "lemma": "brújula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15498,13 +14897,12 @@ const WORDS_ES_B2 = [
       "zh": "指南针",
       "ru": "компас"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "brújulas"
   },
   {
     "id": "es_5289",
+    "lang": "es",
     "lemma": "contaminación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15524,13 +14922,12 @@ const WORDS_ES_B2 = [
       "zh": "污染",
       "ru": "загрязнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "contaminaciones"
   },
   {
     "id": "es_5290",
+    "lang": "es",
     "lemma": "irritante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15549,12 +14946,11 @@ const WORDS_ES_B2 = [
       "ja": "刺激的な",
       "zh": "刺激性的",
       "ru": "раздражающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5293",
+    "lang": "es",
     "lemma": "musulmán",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15573,12 +14969,11 @@ const WORDS_ES_B2 = [
       "ja": "イスラム教の",
       "zh": "穆斯林的",
       "ru": "мусульманский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5294",
+    "lang": "es",
     "lemma": "acontecimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15598,13 +14993,12 @@ const WORDS_ES_B2 = [
       "zh": "事件",
       "ru": "событие"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "acontecimientos"
   },
   {
     "id": "es_5298",
+    "lang": "es",
     "lemma": "neumático",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15624,13 +15018,12 @@ const WORDS_ES_B2 = [
       "zh": "轮胎",
       "ru": "шина"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "neumáticos"
   },
   {
     "id": "es_5299",
+    "lang": "es",
     "lemma": "diarrea",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15650,15 +15043,15 @@ const WORDS_ES_B2 = [
       "zh": "腹泻",
       "ru": "диарея"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "diarreas"
   },
   {
     "id": "es_5303",
+    "lang": "es",
     "lemma": "quinientos",
     "pos": "Nomen",
+    "article": "el",
     "cefr": "B2",
     "tags": [
       "exam",
@@ -15668,21 +15061,25 @@ const WORDS_ES_B2 = [
       "ko": "오백",
       "en": "five hundred",
       "de": "fünfhundert",
-      "es": "quinientos",
-      "fr": "cinq cents",
+      "es": "el quinientos",
+      "fr": "le cinq cents",
       "it": "cinquecento",
       "pt": "quinhentos",
       "ja": "五百",
       "zh": "五百",
       "ru": "пятьсот"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "meta": {
+      "noArticleMeanings": {
+        "it": true,
+        "pt": true,
+        "de": true
+      }
+    }
   },
   {
     "id": "es_5304",
+    "lang": "es",
     "lemma": "tonelada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15702,13 +15099,12 @@ const WORDS_ES_B2 = [
       "zh": "吨",
       "ru": "тонна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "toneladas"
   },
   {
     "id": "es_5308",
+    "lang": "es",
     "lemma": "reconstrucción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15728,13 +15124,12 @@ const WORDS_ES_B2 = [
       "zh": "重建",
       "ru": "реконструкция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "reconstrucciones"
   },
   {
     "id": "es_5312",
+    "lang": "es",
     "lemma": "lavadora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15754,13 +15149,12 @@ const WORDS_ES_B2 = [
       "zh": "洗衣机",
       "ru": "стиральная машина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lavadoras"
   },
   {
     "id": "es_5322",
+    "lang": "es",
     "lemma": "ecuación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15781,13 +15175,12 @@ const WORDS_ES_B2 = [
       "zh": "方程式",
       "ru": "уравнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ecuaciones"
   },
   {
     "id": "es_5323",
+    "lang": "es",
     "lemma": "nostalgia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15807,13 +15200,12 @@ const WORDS_ES_B2 = [
       "zh": "乡愁",
       "ru": "ностальгия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "nostalgias"
   },
   {
     "id": "es_5324",
+    "lang": "es",
     "lemma": "resistente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15832,12 +15224,11 @@ const WORDS_ES_B2 = [
       "ja": "丈夫な",
       "zh": "坚固的",
       "ru": "прочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5326",
+    "lang": "es",
     "lemma": "natación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15857,13 +15248,11 @@ const WORDS_ES_B2 = [
       "zh": "游泳",
       "ru": "плавание"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5328",
+    "lang": "es",
     "lemma": "fabricante",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15883,13 +15272,12 @@ const WORDS_ES_B2 = [
       "zh": "制造商",
       "ru": "производитель"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "fabricantes"
   },
   {
     "id": "es_5331",
+    "lang": "es",
     "lemma": "peludo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15908,12 +15296,11 @@ const WORDS_ES_B2 = [
       "ja": "毛深い",
       "zh": "多毛的",
       "ru": "волосатый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5336",
+    "lang": "es",
     "lemma": "centímetro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -15933,13 +15320,12 @@ const WORDS_ES_B2 = [
       "zh": "厘米",
       "ru": "сантиметр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "centímetros"
   },
   {
     "id": "es_5338",
+    "lang": "es",
     "lemma": "coreano",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15958,12 +15344,11 @@ const WORDS_ES_B2 = [
       "ja": "韓国の",
       "zh": "韩国的",
       "ru": "корейский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5340",
+    "lang": "es",
     "lemma": "estricto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -15982,12 +15367,11 @@ const WORDS_ES_B2 = [
       "ja": "厳格な",
       "zh": "严格的",
       "ru": "строгий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5341",
+    "lang": "es",
     "lemma": "asma",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16007,13 +15391,12 @@ const WORDS_ES_B2 = [
       "zh": "哮喘",
       "ru": "астма"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "asmas"
   },
   {
     "id": "es_5342",
+    "lang": "es",
     "lemma": "cartón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16033,13 +15416,12 @@ const WORDS_ES_B2 = [
       "zh": "纸板",
       "ru": "картон"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cartones"
   },
   {
     "id": "es_5344",
+    "lang": "es",
     "lemma": "pañal",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16059,13 +15441,12 @@ const WORDS_ES_B2 = [
       "zh": "尿布",
       "ru": "подгузник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pañales"
   },
   {
     "id": "es_5351",
+    "lang": "es",
     "lemma": "anticuado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16084,12 +15465,11 @@ const WORDS_ES_B2 = [
       "ja": "時代遅れの",
       "zh": "过时的",
       "ru": "устаревший"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5359",
+    "lang": "es",
     "lemma": "despiadado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16108,12 +15488,11 @@ const WORDS_ES_B2 = [
       "ja": "無慈悲な",
       "zh": "无情的",
       "ru": "безжалостный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5360",
+    "lang": "es",
     "lemma": "delantero",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16132,12 +15511,11 @@ const WORDS_ES_B2 = [
       "ja": "前の",
       "zh": "前面的",
       "ru": "передний"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5362",
+    "lang": "es",
     "lemma": "instrucción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16157,13 +15535,12 @@ const WORDS_ES_B2 = [
       "zh": "教育",
       "ru": "образование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "instrucciones"
   },
   {
     "id": "es_5365",
+    "lang": "es",
     "lemma": "nobleza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16183,13 +15560,12 @@ const WORDS_ES_B2 = [
       "zh": "高贵",
       "ru": "благородство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "noblezas"
   },
   {
     "id": "es_5367",
+    "lang": "es",
     "lemma": "metálico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16208,12 +15584,11 @@ const WORDS_ES_B2 = [
       "ja": "金属の",
       "zh": "金属的",
       "ru": "металлический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5369",
+    "lang": "es",
     "lemma": "relato",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16233,13 +15608,12 @@ const WORDS_ES_B2 = [
       "zh": "故事",
       "ru": "рассказ"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "relatos"
   },
   {
     "id": "es_5373",
+    "lang": "es",
     "lemma": "carnicería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16260,13 +15634,12 @@ const WORDS_ES_B2 = [
       "zh": "肉店",
       "ru": "мясная лавка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "carnicerías"
   },
   {
     "id": "es_5374",
+    "lang": "es",
     "lemma": "vocación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16286,13 +15659,12 @@ const WORDS_ES_B2 = [
       "zh": "天职",
       "ru": "призвание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vocaciones"
   },
   {
     "id": "es_5376",
+    "lang": "es",
     "lemma": "estresante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16311,12 +15683,11 @@ const WORDS_ES_B2 = [
       "ja": "ストレスを与える",
       "zh": "令人紧张的",
       "ru": "стрессовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5377",
+    "lang": "es",
     "lemma": "ajustado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16335,12 +15706,11 @@ const WORDS_ES_B2 = [
       "ja": "ぴったり合った",
       "zh": "贴身的",
       "ru": "плотный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5379",
+    "lang": "es",
     "lemma": "coral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16360,13 +15730,12 @@ const WORDS_ES_B2 = [
       "zh": "珊瑚",
       "ru": "коралл"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "corales"
   },
   {
     "id": "es_5382",
+    "lang": "es",
     "lemma": "mandato",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16386,13 +15755,12 @@ const WORDS_ES_B2 = [
       "zh": "命令",
       "ru": "мандат"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "mandatos"
   },
   {
     "id": "es_5383",
+    "lang": "es",
     "lemma": "folleto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16412,13 +15780,12 @@ const WORDS_ES_B2 = [
       "zh": "小册子",
       "ru": "брошюра"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "folletos"
   },
   {
     "id": "es_5385",
+    "lang": "es",
     "lemma": "catálogo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16438,13 +15805,12 @@ const WORDS_ES_B2 = [
       "zh": "目录",
       "ru": "каталог"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "catálogos"
   },
   {
     "id": "es_5388",
+    "lang": "es",
     "lemma": "estresado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16463,12 +15829,11 @@ const WORDS_ES_B2 = [
       "ja": "ストレスを受けた",
       "zh": "压力大的",
       "ru": "напряженный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5389",
+    "lang": "es",
     "lemma": "empujón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16488,13 +15853,12 @@ const WORDS_ES_B2 = [
       "zh": "强力推动",
       "ru": "толчок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "empujones"
   },
   {
     "id": "es_5390",
+    "lang": "es",
     "lemma": "negligencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16514,13 +15878,12 @@ const WORDS_ES_B2 = [
       "zh": "疏忽",
       "ru": "небрежность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "negligencias"
   },
   {
     "id": "es_5392",
+    "lang": "es",
     "lemma": "chequeo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16540,13 +15903,12 @@ const WORDS_ES_B2 = [
       "zh": "检查",
       "ru": "проверка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "chequeos"
   },
   {
     "id": "es_5393",
+    "lang": "es",
     "lemma": "diabetes",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16566,13 +15928,11 @@ const WORDS_ES_B2 = [
       "zh": "糖尿病",
       "ru": "диабет"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5394",
+    "lang": "es",
     "lemma": "establecimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16592,13 +15952,12 @@ const WORDS_ES_B2 = [
       "zh": "建立",
       "ru": "учреждение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "establecimientos"
   },
   {
     "id": "es_5398",
+    "lang": "es",
     "lemma": "holandés",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16617,12 +15976,11 @@ const WORDS_ES_B2 = [
       "ja": "オランダの",
       "zh": "荷兰的",
       "ru": "голландский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5401",
+    "lang": "es",
     "lemma": "canguro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16642,13 +16000,12 @@ const WORDS_ES_B2 = [
       "zh": "袋鼠",
       "ru": "кенгуру"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "canguros"
   },
   {
     "id": "es_5403",
+    "lang": "es",
     "lemma": "vanidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16668,13 +16025,12 @@ const WORDS_ES_B2 = [
       "zh": "虚荣心",
       "ru": "тщеславие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vanidades"
   },
   {
     "id": "es_5404",
+    "lang": "es",
     "lemma": "emisión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16695,13 +16051,12 @@ const WORDS_ES_B2 = [
       "zh": "广播",
       "ru": "трансляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "emisiones"
   },
   {
     "id": "es_5408",
+    "lang": "es",
     "lemma": "aluminio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16721,13 +16076,12 @@ const WORDS_ES_B2 = [
       "zh": "铝",
       "ru": "алюминий"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "aluminios"
   },
   {
     "id": "es_5409",
+    "lang": "es",
     "lemma": "lona",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16747,13 +16101,12 @@ const WORDS_ES_B2 = [
       "zh": "帆布",
       "ru": "холст"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lonas"
   },
   {
     "id": "es_5410",
+    "lang": "es",
     "lemma": "quebrado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16772,12 +16125,11 @@ const WORDS_ES_B2 = [
       "ja": "破産した",
       "zh": "破产的",
       "ru": "разорённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5411",
+    "lang": "es",
     "lemma": "loro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16797,13 +16149,12 @@ const WORDS_ES_B2 = [
       "zh": "鹦鹉",
       "ru": "попугай"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "loros"
   },
   {
     "id": "es_5414",
+    "lang": "es",
     "lemma": "tolerancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16823,13 +16174,12 @@ const WORDS_ES_B2 = [
       "zh": "宽容",
       "ru": "толерантность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tolerancias"
   },
   {
     "id": "es_5418",
+    "lang": "es",
     "lemma": "sobrenatural",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16848,12 +16198,11 @@ const WORDS_ES_B2 = [
       "ja": "超自然的な",
       "zh": "超自然的",
       "ru": "сверхъестественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5419",
+    "lang": "es",
     "lemma": "innecesario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16872,12 +16221,11 @@ const WORDS_ES_B2 = [
       "ja": "不要な",
       "zh": "不必要的",
       "ru": "ненужный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5420",
+    "lang": "es",
     "lemma": "legendario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16896,12 +16244,11 @@ const WORDS_ES_B2 = [
       "ja": "伝説的な",
       "zh": "传奇的",
       "ru": "легендарный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5422",
+    "lang": "es",
     "lemma": "cofre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16921,13 +16268,12 @@ const WORDS_ES_B2 = [
       "zh": "宝箱",
       "ru": "сундук"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cofres"
   },
   {
     "id": "es_5423",
+    "lang": "es",
     "lemma": "puntería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16947,13 +16293,12 @@ const WORDS_ES_B2 = [
       "zh": "瞄准",
       "ru": "прицеливание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "punterías"
   },
   {
     "id": "es_5426",
+    "lang": "es",
     "lemma": "accidental",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -16972,12 +16317,11 @@ const WORDS_ES_B2 = [
       "ja": "偶然的な",
       "zh": "意外的",
       "ru": "случайный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5428",
+    "lang": "es",
     "lemma": "paternidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -16998,13 +16342,12 @@ const WORDS_ES_B2 = [
       "zh": "父权",
       "ru": "отцовство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
+    "article": "la",
     "plural": "paternidades"
   },
   {
     "id": "es_5429",
+    "lang": "es",
     "lemma": "inmune",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17023,12 +16366,11 @@ const WORDS_ES_B2 = [
       "ja": "免疫の",
       "zh": "免疫的",
       "ru": "иммунный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5432",
+    "lang": "es",
     "lemma": "tacaño",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17047,12 +16389,11 @@ const WORDS_ES_B2 = [
       "ja": "けちな",
       "zh": "吝啬的",
       "ru": "скупой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5434",
+    "lang": "es",
     "lemma": "criterio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17072,13 +16413,12 @@ const WORDS_ES_B2 = [
       "zh": "标准",
       "ru": "критерий"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "criterios"
   },
   {
     "id": "es_5437",
+    "lang": "es",
     "lemma": "dominante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17097,12 +16437,11 @@ const WORDS_ES_B2 = [
       "ja": "支配的な",
       "zh": "占主导的",
       "ru": "доминирующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5439",
+    "lang": "es",
     "lemma": "parásito",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17121,12 +16460,11 @@ const WORDS_ES_B2 = [
       "ja": "寄生する",
       "zh": "寄生的",
       "ru": "паразитический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5440",
+    "lang": "es",
     "lemma": "parásito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17146,13 +16484,12 @@ const WORDS_ES_B2 = [
       "zh": "寄生虫",
       "ru": "паразит"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "parásitos"
   },
   {
     "id": "es_5441",
+    "lang": "es",
     "lemma": "motín",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17172,13 +16509,12 @@ const WORDS_ES_B2 = [
       "zh": "兵变",
       "ru": "мятеж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "motines"
   },
   {
     "id": "es_5442",
+    "lang": "es",
     "lemma": "matriz",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17198,13 +16534,12 @@ const WORDS_ES_B2 = [
       "zh": "母体",
       "ru": "матрица"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "matrices"
   },
   {
     "id": "es_5443",
+    "lang": "es",
     "lemma": "fascista",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17223,12 +16558,11 @@ const WORDS_ES_B2 = [
       "ja": "ファシストの",
       "zh": "法西斯的",
       "ru": "фашистский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5445",
+    "lang": "es",
     "lemma": "prometedor",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17247,12 +16581,11 @@ const WORDS_ES_B2 = [
       "ja": "有望な",
       "zh": "有前景的",
       "ru": "многообещающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5448",
+    "lang": "es",
     "lemma": "flexible",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17271,12 +16604,11 @@ const WORDS_ES_B2 = [
       "ja": "柔軟な",
       "zh": "灵活的",
       "ru": "гибкий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5452",
+    "lang": "es",
     "lemma": "esquí",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17296,13 +16628,12 @@ const WORDS_ES_B2 = [
       "zh": "滑雪",
       "ru": "лыжи"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "esquís"
   },
   {
     "id": "es_5453",
+    "lang": "es",
     "lemma": "bronceado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17321,12 +16652,11 @@ const WORDS_ES_B2 = [
       "ja": "日焼けした",
       "zh": "晒黑的",
       "ru": "загорелый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5454",
+    "lang": "es",
     "lemma": "bronceado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17346,13 +16676,12 @@ const WORDS_ES_B2 = [
       "zh": "晒黑",
       "ru": "загар"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bronceados"
   },
   {
     "id": "es_5455",
+    "lang": "es",
     "lemma": "virtual",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17371,12 +16700,11 @@ const WORDS_ES_B2 = [
       "ja": "仮想の",
       "zh": "虚拟的",
       "ru": "виртуальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5457",
+    "lang": "es",
     "lemma": "delantal",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17396,13 +16724,12 @@ const WORDS_ES_B2 = [
       "zh": "围裙",
       "ru": "фартук"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "delantales"
   },
   {
     "id": "es_5460",
+    "lang": "es",
     "lemma": "choza",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17422,13 +16749,12 @@ const WORDS_ES_B2 = [
       "zh": "茅舍",
       "ru": "хижина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "chozas"
   },
   {
     "id": "es_5463",
+    "lang": "es",
     "lemma": "altavoz",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17448,13 +16774,12 @@ const WORDS_ES_B2 = [
       "zh": "扬声器",
       "ru": "громкоговоритель"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "altavoces"
   },
   {
     "id": "es_5467",
+    "lang": "es",
     "lemma": "flojo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17473,12 +16798,11 @@ const WORDS_ES_B2 = [
       "ja": "緩い",
       "zh": "松散的",
       "ru": "слабый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5470",
+    "lang": "es",
     "lemma": "infame",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17497,12 +16821,11 @@ const WORDS_ES_B2 = [
       "ja": "悪名高い",
       "zh": "臭名昭著的",
       "ru": "позорный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5471",
+    "lang": "es",
     "lemma": "ternura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17522,13 +16845,12 @@ const WORDS_ES_B2 = [
       "zh": "温柔",
       "ru": "нежность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ternuras"
   },
   {
     "id": "es_5472",
+    "lang": "es",
     "lemma": "capricho",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17548,13 +16870,12 @@ const WORDS_ES_B2 = [
       "zh": "任性",
       "ru": "прихоть"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "caprichos"
   },
   {
     "id": "es_5474",
+    "lang": "es",
     "lemma": "admiración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17574,13 +16895,12 @@ const WORDS_ES_B2 = [
       "zh": "钦佩",
       "ru": "восхищение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "admiraciones"
   },
   {
     "id": "es_5475",
+    "lang": "es",
     "lemma": "morado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17599,12 +16919,11 @@ const WORDS_ES_B2 = [
       "ja": "紫色の",
       "zh": "紫色的",
       "ru": "фиолетовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5477",
+    "lang": "es",
     "lemma": "directiva",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17624,13 +16943,12 @@ const WORDS_ES_B2 = [
       "zh": "指令",
       "ru": "директива"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "directivas"
   },
   {
     "id": "es_5478",
+    "lang": "es",
     "lemma": "imán",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17650,13 +16968,12 @@ const WORDS_ES_B2 = [
       "zh": "磁铁",
       "ru": "магнит"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "imanes"
   },
   {
     "id": "es_5479",
+    "lang": "es",
     "lemma": "europeo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17675,12 +16992,11 @@ const WORDS_ES_B2 = [
       "ja": "ヨーロッパの",
       "zh": "欧洲的",
       "ru": "европейский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5481",
+    "lang": "es",
     "lemma": "canela",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17700,13 +17016,12 @@ const WORDS_ES_B2 = [
       "zh": "肉桂",
       "ru": "корица"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "canelas"
   },
   {
     "id": "es_5482",
+    "lang": "es",
     "lemma": "caldo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17726,13 +17041,12 @@ const WORDS_ES_B2 = [
       "zh": "汤",
       "ru": "бульон"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "caldos"
   },
   {
     "id": "es_5483",
+    "lang": "es",
     "lemma": "vicio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17752,13 +17066,12 @@ const WORDS_ES_B2 = [
       "zh": "恶习",
       "ru": "порок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "vicios"
   },
   {
     "id": "es_5484",
+    "lang": "es",
     "lemma": "visa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17778,13 +17091,12 @@ const WORDS_ES_B2 = [
       "zh": "签证",
       "ru": "виза"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "visas"
   },
   {
     "id": "es_5488",
+    "lang": "es",
     "lemma": "asiático",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17803,12 +17115,11 @@ const WORDS_ES_B2 = [
       "ja": "アジアの",
       "zh": "亚洲的",
       "ru": "азиатский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5489",
+    "lang": "es",
     "lemma": "empeño",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17828,13 +17139,12 @@ const WORDS_ES_B2 = [
       "zh": "努力",
       "ru": "усилие"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "empeños"
   },
   {
     "id": "es_5490",
+    "lang": "es",
     "lemma": "continuo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17853,12 +17163,11 @@ const WORDS_ES_B2 = [
       "ja": "連続的な",
       "zh": "连续的",
       "ru": "непрерывный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5497",
+    "lang": "es",
     "lemma": "mordida",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17878,13 +17187,12 @@ const WORDS_ES_B2 = [
       "zh": "咬伤",
       "ru": "укус"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mordidas"
   },
   {
     "id": "es_5498",
+    "lang": "es",
     "lemma": "dedicación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17904,13 +17212,12 @@ const WORDS_ES_B2 = [
       "zh": "奉献",
       "ru": "преданность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "dedicaciones"
   },
   {
     "id": "es_5499",
+    "lang": "es",
     "lemma": "presto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -17929,12 +17236,11 @@ const WORDS_ES_B2 = [
       "ja": "速い",
       "zh": "快速的",
       "ru": "быстрый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5501",
+    "lang": "es",
     "lemma": "cultivo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17954,13 +17260,12 @@ const WORDS_ES_B2 = [
       "zh": "种植",
       "ru": "возделывание"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cultivos"
   },
   {
     "id": "es_5503",
+    "lang": "es",
     "lemma": "elegancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -17980,13 +17285,12 @@ const WORDS_ES_B2 = [
       "zh": "优雅",
       "ru": "элегантность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "elegancias"
   },
   {
     "id": "es_5507",
+    "lang": "es",
     "lemma": "perezoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18005,12 +17309,11 @@ const WORDS_ES_B2 = [
       "ja": "怠け者の",
       "zh": "懒惰的",
       "ru": "ленивый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5508",
+    "lang": "es",
     "lemma": "perezoso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18030,13 +17333,11 @@ const WORDS_ES_B2 = [
       "zh": "树懒",
       "ru": "ленивец"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5509",
+    "lang": "es",
     "lemma": "fachada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18056,13 +17357,12 @@ const WORDS_ES_B2 = [
       "zh": "建筑正面",
       "ru": "фасад"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "fachadas"
   },
   {
     "id": "es_5511",
+    "lang": "es",
     "lemma": "receso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18082,13 +17382,12 @@ const WORDS_ES_B2 = [
       "zh": "休息时间",
       "ru": "перемена"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "recesos"
   },
   {
     "id": "es_5513",
+    "lang": "es",
     "lemma": "diploma",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18108,13 +17407,12 @@ const WORDS_ES_B2 = [
       "zh": "文凭",
       "ru": "диплом"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "diplomas"
   },
   {
     "id": "es_5514",
+    "lang": "es",
     "lemma": "fiable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18133,12 +17431,11 @@ const WORDS_ES_B2 = [
       "ja": "信頼できる",
       "zh": "可靠的",
       "ru": "надежный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5515",
+    "lang": "es",
     "lemma": "bistec",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18158,13 +17455,12 @@ const WORDS_ES_B2 = [
       "zh": "牛排",
       "ru": "стейк"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bistecs"
   },
   {
     "id": "es_5517",
+    "lang": "es",
     "lemma": "matrimonial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18183,12 +17479,11 @@ const WORDS_ES_B2 = [
       "ja": "結婚の",
       "zh": "婚姻的",
       "ru": "брачный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5521",
+    "lang": "es",
     "lemma": "africano",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18207,12 +17502,11 @@ const WORDS_ES_B2 = [
       "ja": "アフリカの",
       "zh": "非洲的",
       "ru": "африканский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5522",
+    "lang": "es",
     "lemma": "atuendo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18232,13 +17526,12 @@ const WORDS_ES_B2 = [
       "zh": "服装",
       "ru": "наряд"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "atuendos"
   },
   {
     "id": "es_5524",
+    "lang": "es",
     "lemma": "costilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18258,13 +17551,12 @@ const WORDS_ES_B2 = [
       "zh": "肋骨",
       "ru": "ребро"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "costillas"
   },
   {
     "id": "es_5533",
+    "lang": "es",
     "lemma": "panadería",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18285,13 +17577,12 @@ const WORDS_ES_B2 = [
       "zh": "面包店",
       "ru": "пекарня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "panaderías"
   },
   {
     "id": "es_5534",
+    "lang": "es",
     "lemma": "estabilidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18311,13 +17602,12 @@ const WORDS_ES_B2 = [
       "zh": "稳定性",
       "ru": "стабильность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "estabilidades"
   },
   {
     "id": "es_5535",
+    "lang": "es",
     "lemma": "nervio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18337,13 +17627,12 @@ const WORDS_ES_B2 = [
       "zh": "神经",
       "ru": "нерв"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "nervios"
   },
   {
     "id": "es_5538",
+    "lang": "es",
     "lemma": "grueso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18362,12 +17651,11 @@ const WORDS_ES_B2 = [
       "ja": "太い",
       "zh": "粗的",
       "ru": "толстый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5540",
+    "lang": "es",
     "lemma": "uña",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18387,13 +17675,12 @@ const WORDS_ES_B2 = [
       "zh": "指甲",
       "ru": "ноготь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "uñas"
   },
   {
     "id": "es_5549",
+    "lang": "es",
     "lemma": "irresistible",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18412,12 +17699,11 @@ const WORDS_ES_B2 = [
       "ja": "抵抗できない",
       "zh": "不可抗拒的",
       "ru": "неотразимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5550",
+    "lang": "es",
     "lemma": "enigma",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18437,13 +17723,12 @@ const WORDS_ES_B2 = [
       "zh": "谜语",
       "ru": "загадка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "enigmas"
   },
   {
     "id": "es_5552",
+    "lang": "es",
     "lemma": "regional",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18462,12 +17747,11 @@ const WORDS_ES_B2 = [
       "ja": "地域の",
       "zh": "地区的",
       "ru": "региональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5554",
+    "lang": "es",
     "lemma": "porro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18487,13 +17771,12 @@ const WORDS_ES_B2 = [
       "zh": "韭葱",
       "ru": "порей"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "porros"
   },
   {
     "id": "es_5556",
+    "lang": "es",
     "lemma": "corral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18513,13 +17796,12 @@ const WORDS_ES_B2 = [
       "zh": "畜栏",
       "ru": "загон"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "corrales"
   },
   {
     "id": "es_5557",
+    "lang": "es",
     "lemma": "charco",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18539,13 +17821,12 @@ const WORDS_ES_B2 = [
       "zh": "水坑",
       "ru": "лужа"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "charcos"
   },
   {
     "id": "es_5558",
+    "lang": "es",
     "lemma": "arrepentido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18564,12 +17845,11 @@ const WORDS_ES_B2 = [
       "ja": "後悔した",
       "zh": "悔恨的",
       "ru": "раскаивающийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5559",
+    "lang": "es",
     "lemma": "informal",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18588,12 +17868,11 @@ const WORDS_ES_B2 = [
       "ja": "非公式的",
       "zh": "非正式的",
       "ru": "неформальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5560",
+    "lang": "es",
     "lemma": "boletín",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18613,13 +17892,12 @@ const WORDS_ES_B2 = [
       "zh": "公报",
       "ru": "бюллетень"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "boletines"
   },
   {
     "id": "es_5561",
+    "lang": "es",
     "lemma": "asignación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18639,13 +17917,12 @@ const WORDS_ES_B2 = [
       "zh": "分配",
       "ru": "назначение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "asignaciones"
   },
   {
     "id": "es_5562",
+    "lang": "es",
     "lemma": "clic",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18665,13 +17942,12 @@ const WORDS_ES_B2 = [
       "zh": "点击声",
       "ru": "щелчок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "clics"
   },
   {
     "id": "es_5564",
+    "lang": "es",
     "lemma": "castor",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18691,13 +17967,12 @@ const WORDS_ES_B2 = [
       "zh": "海狸",
       "ru": "бобр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "castores"
   },
   {
     "id": "es_5565",
+    "lang": "es",
     "lemma": "demencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18717,13 +17992,12 @@ const WORDS_ES_B2 = [
       "zh": "痴呆",
       "ru": "деменция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "demencias"
   },
   {
     "id": "es_5566",
+    "lang": "es",
     "lemma": "vals",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18743,13 +18017,11 @@ const WORDS_ES_B2 = [
       "zh": "华尔兹",
       "ru": "вальс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5567",
+    "lang": "es",
     "lemma": "recaudación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18769,13 +18041,12 @@ const WORDS_ES_B2 = [
       "zh": "征收",
       "ru": "сбор"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "recaudaciones"
   },
   {
     "id": "es_5572",
+    "lang": "es",
     "lemma": "implacable",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18794,12 +18065,11 @@ const WORDS_ES_B2 = [
       "ja": "容赦ない",
       "zh": "无情的",
       "ru": "неумолимый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5573",
+    "lang": "es",
     "lemma": "sake",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18819,13 +18089,12 @@ const WORDS_ES_B2 = [
       "zh": "清酒",
       "ru": "саке"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "sakes"
   },
   {
     "id": "es_5574",
+    "lang": "es",
     "lemma": "revancha",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18845,13 +18114,12 @@ const WORDS_ES_B2 = [
       "zh": "复仇",
       "ru": "реванш"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "revanchas"
   },
   {
     "id": "es_5576",
+    "lang": "es",
     "lemma": "estudiantil",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18870,12 +18138,11 @@ const WORDS_ES_B2 = [
       "ja": "学生の",
       "zh": "学生的",
       "ru": "студенческий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5578",
+    "lang": "es",
     "lemma": "auxiliar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18894,12 +18161,11 @@ const WORDS_ES_B2 = [
       "ja": "補助的な",
       "zh": "辅助的",
       "ru": "вспомогательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5580",
+    "lang": "es",
     "lemma": "prohibición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18919,13 +18185,12 @@ const WORDS_ES_B2 = [
       "zh": "禁止",
       "ru": "запрет"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "prohibiciones"
   },
   {
     "id": "es_5582",
+    "lang": "es",
     "lemma": "entusiasta",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -18944,12 +18209,11 @@ const WORDS_ES_B2 = [
       "ja": "熱心な",
       "zh": "热情的",
       "ru": "увлеченный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5586",
+    "lang": "es",
     "lemma": "abundancia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18969,13 +18233,12 @@ const WORDS_ES_B2 = [
       "zh": "丰富",
       "ru": "изобилие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "abundancias"
   },
   {
     "id": "es_5587",
+    "lang": "es",
     "lemma": "equipamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -18995,13 +18258,12 @@ const WORDS_ES_B2 = [
       "zh": "设备",
       "ru": "оборудование"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "equipamientos"
   },
   {
     "id": "es_5588",
+    "lang": "es",
     "lemma": "filo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19021,13 +18283,12 @@ const WORDS_ES_B2 = [
       "zh": "刃",
       "ru": "лезвие"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "filos"
   },
   {
     "id": "es_5590",
+    "lang": "es",
     "lemma": "umbral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19047,13 +18308,12 @@ const WORDS_ES_B2 = [
       "zh": "门槛",
       "ru": "порог"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "umbrales"
   },
   {
     "id": "es_5591",
+    "lang": "es",
     "lemma": "transacción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19073,13 +18333,12 @@ const WORDS_ES_B2 = [
       "zh": "交易",
       "ru": "сделка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "transacciones"
   },
   {
     "id": "es_5594",
+    "lang": "es",
     "lemma": "dinastía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19099,13 +18358,12 @@ const WORDS_ES_B2 = [
       "zh": "朝代",
       "ru": "династия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "dinastías"
   },
   {
     "id": "es_5596",
+    "lang": "es",
     "lemma": "ofensa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19125,13 +18383,12 @@ const WORDS_ES_B2 = [
       "zh": "侮辱",
       "ru": "оскорбление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ofensas"
   },
   {
     "id": "es_5597",
+    "lang": "es",
     "lemma": "cisne",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19151,13 +18408,12 @@ const WORDS_ES_B2 = [
       "zh": "天鹅",
       "ru": "лебедь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cisnes"
   },
   {
     "id": "es_5599",
+    "lang": "es",
     "lemma": "escultura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19177,13 +18433,12 @@ const WORDS_ES_B2 = [
       "zh": "雕塑",
       "ru": "скульптура"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "esculturas"
   },
   {
     "id": "es_5604",
+    "lang": "es",
     "lemma": "arcilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19203,13 +18458,12 @@ const WORDS_ES_B2 = [
       "zh": "粘土",
       "ru": "глина"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "arcillas"
   },
   {
     "id": "es_5610",
+    "lang": "es",
     "lemma": "prosperidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19229,13 +18483,12 @@ const WORDS_ES_B2 = [
       "zh": "繁荣",
       "ru": "процветание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "prosperidades"
   },
   {
     "id": "es_5611",
+    "lang": "es",
     "lemma": "inmortalidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19255,13 +18508,12 @@ const WORDS_ES_B2 = [
       "zh": "不朽",
       "ru": "бессмертие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "inmortalidades"
   },
   {
     "id": "es_5612",
+    "lang": "es",
     "lemma": "polar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19280,12 +18532,11 @@ const WORDS_ES_B2 = [
       "ja": "極地の",
       "zh": "极地的",
       "ru": "полярный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5616",
+    "lang": "es",
     "lemma": "frustración",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19305,13 +18556,12 @@ const WORDS_ES_B2 = [
       "zh": "挫折",
       "ru": "разочарование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "frustraciones"
   },
   {
     "id": "es_5617",
+    "lang": "es",
     "lemma": "telón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19331,13 +18581,12 @@ const WORDS_ES_B2 = [
       "zh": "幕布",
       "ru": "занавес"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "telones"
   },
   {
     "id": "es_5618",
+    "lang": "es",
     "lemma": "aspiradora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19357,13 +18606,12 @@ const WORDS_ES_B2 = [
       "zh": "吸尘器",
       "ru": "пылесос"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "aspiradoras"
   },
   {
     "id": "es_5620",
+    "lang": "es",
     "lemma": "vacante",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19383,13 +18631,12 @@ const WORDS_ES_B2 = [
       "zh": "空缺",
       "ru": "вакансия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "vacantes"
   },
   {
     "id": "es_5621",
+    "lang": "es",
     "lemma": "vacante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19408,12 +18655,11 @@ const WORDS_ES_B2 = [
       "ja": "空いている",
       "zh": "空的",
       "ru": "свободный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5622",
+    "lang": "es",
     "lemma": "tropical",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19432,12 +18678,11 @@ const WORDS_ES_B2 = [
       "ja": "熱帯の",
       "zh": "热带的",
       "ru": "тропический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5623",
+    "lang": "es",
     "lemma": "rampa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19457,13 +18702,12 @@ const WORDS_ES_B2 = [
       "zh": "坡道",
       "ru": "пандус"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rampas"
   },
   {
     "id": "es_5628",
+    "lang": "es",
     "lemma": "albergue",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19483,13 +18727,12 @@ const WORDS_ES_B2 = [
       "zh": "旅舍",
       "ru": "приют"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "albergues"
   },
   {
     "id": "es_5629",
+    "lang": "es",
     "lemma": "trimestre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19509,13 +18752,12 @@ const WORDS_ES_B2 = [
       "zh": "三个月",
       "ru": "квартал"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "trimestres"
   },
   {
     "id": "es_5633",
+    "lang": "es",
     "lemma": "parabrisas",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19535,13 +18777,11 @@ const WORDS_ES_B2 = [
       "zh": "挡风玻璃",
       "ru": "лобовое стекло"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5636",
+    "lang": "es",
     "lemma": "marioneta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19561,13 +18801,12 @@ const WORDS_ES_B2 = [
       "zh": "木偶",
       "ru": "марионетка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "marionetas"
   },
   {
     "id": "es_5638",
+    "lang": "es",
     "lemma": "resentimiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19587,13 +18826,12 @@ const WORDS_ES_B2 = [
       "zh": "怨恨",
       "ru": "обида"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "resentimientos"
   },
   {
     "id": "es_5640",
+    "lang": "es",
     "lemma": "decepcionante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19612,12 +18850,11 @@ const WORDS_ES_B2 = [
       "ja": "がっかりさせる",
       "zh": "令人失望的",
       "ru": "разочаровывающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5641",
+    "lang": "es",
     "lemma": "acertado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19636,12 +18873,11 @@ const WORDS_ES_B2 = [
       "ja": "適切な",
       "zh": "恰当的",
       "ru": "уместный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5644",
+    "lang": "es",
     "lemma": "momia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19661,13 +18897,12 @@ const WORDS_ES_B2 = [
       "zh": "木乃伊",
       "ru": "мумия"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "momias"
   },
   {
     "id": "es_5645",
+    "lang": "es",
     "lemma": "heno",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19687,13 +18922,12 @@ const WORDS_ES_B2 = [
       "zh": "干草",
       "ru": "сено"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "henos"
   },
   {
     "id": "es_5646",
+    "lang": "es",
     "lemma": "irracional",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19712,12 +18946,11 @@ const WORDS_ES_B2 = [
       "ja": "非論理的な",
       "zh": "不理性的",
       "ru": "иррациональный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5647",
+    "lang": "es",
     "lemma": "olfato",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19737,13 +18970,12 @@ const WORDS_ES_B2 = [
       "zh": "嗅觉",
       "ru": "обоняние"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "olfatos"
   },
   {
     "id": "es_5648",
+    "lang": "es",
     "lemma": "suspiro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19763,13 +18995,12 @@ const WORDS_ES_B2 = [
       "zh": "叹气",
       "ru": "вздох"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "suspiros"
   },
   {
     "id": "es_5649",
+    "lang": "es",
     "lemma": "manifiesto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -19788,12 +19019,11 @@ const WORDS_ES_B2 = [
       "ja": "明白な",
       "zh": "明显的",
       "ru": "явный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5650",
+    "lang": "es",
     "lemma": "manifiesto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19813,13 +19043,12 @@ const WORDS_ES_B2 = [
       "zh": "宣言",
       "ru": "манифест"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "manifiestos"
   },
   {
     "id": "es_5653",
+    "lang": "es",
     "lemma": "cualidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19839,13 +19068,12 @@ const WORDS_ES_B2 = [
       "zh": "特质",
       "ru": "качество"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cualidades"
   },
   {
     "id": "es_5655",
+    "lang": "es",
     "lemma": "turismo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19865,13 +19093,12 @@ const WORDS_ES_B2 = [
       "zh": "旅游",
       "ru": "туризм"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "turismos"
   },
   {
     "id": "es_5661",
+    "lang": "es",
     "lemma": "chivo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19891,13 +19118,12 @@ const WORDS_ES_B2 = [
       "zh": "山羊",
       "ru": "козел"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "chivos"
   },
   {
     "id": "es_5664",
+    "lang": "es",
     "lemma": "muslo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19917,13 +19143,12 @@ const WORDS_ES_B2 = [
       "zh": "大腿",
       "ru": "бедро"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "muslos"
   },
   {
     "id": "es_5665",
+    "lang": "es",
     "lemma": "jarabe",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19943,13 +19168,12 @@ const WORDS_ES_B2 = [
       "zh": "糖浆",
       "ru": "сироп"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "jarabes"
   },
   {
     "id": "es_5667",
+    "lang": "es",
     "lemma": "apagón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19969,13 +19193,12 @@ const WORDS_ES_B2 = [
       "zh": "停电",
       "ru": "отключение электричества"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "apagones"
   },
   {
     "id": "es_5669",
+    "lang": "es",
     "lemma": "reducción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -19995,13 +19218,12 @@ const WORDS_ES_B2 = [
       "zh": "减少",
       "ru": "сокращение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "reducciones"
   },
   {
     "id": "es_5673",
+    "lang": "es",
     "lemma": "síntoma",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20021,13 +19243,12 @@ const WORDS_ES_B2 = [
       "zh": "症状",
       "ru": "симптом"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "síntomas"
   },
   {
     "id": "es_5674",
+    "lang": "es",
     "lemma": "atroz",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20046,12 +19267,11 @@ const WORDS_ES_B2 = [
       "ja": "ひどい",
       "zh": "残暴的",
       "ru": "ужасный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5676",
+    "lang": "es",
     "lemma": "aviación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20071,13 +19291,12 @@ const WORDS_ES_B2 = [
       "zh": "航空",
       "ru": "авиация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "aviaciones"
   },
   {
     "id": "es_5679",
+    "lang": "es",
     "lemma": "gestión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20097,13 +19316,12 @@ const WORDS_ES_B2 = [
       "zh": "管理",
       "ru": "управление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "gestiones"
   },
   {
     "id": "es_5682",
+    "lang": "es",
     "lemma": "sorbo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20123,13 +19341,12 @@ const WORDS_ES_B2 = [
       "zh": "一口",
       "ru": "глоток"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "sorbos"
   },
   {
     "id": "es_5684",
+    "lang": "es",
     "lemma": "buey",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20149,13 +19366,12 @@ const WORDS_ES_B2 = [
       "zh": "牛",
       "ru": "бык"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bueyes"
   },
   {
     "id": "es_5685",
+    "lang": "es",
     "lemma": "balde",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20175,13 +19391,12 @@ const WORDS_ES_B2 = [
       "zh": "桶",
       "ru": "ведро"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "baldes"
   },
   {
     "id": "es_5691",
+    "lang": "es",
     "lemma": "servilleta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20201,13 +19416,12 @@ const WORDS_ES_B2 = [
       "zh": "餐巾",
       "ru": "салфетка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "servilletas"
   },
   {
     "id": "es_5693",
+    "lang": "es",
     "lemma": "currículum",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20227,13 +19441,12 @@ const WORDS_ES_B2 = [
       "zh": "简历",
       "ru": "резюме"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "currículums"
   },
   {
     "id": "es_5694",
+    "lang": "es",
     "lemma": "meditación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20253,13 +19466,12 @@ const WORDS_ES_B2 = [
       "zh": "冥想",
       "ru": "медитация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "meditaciones"
   },
   {
     "id": "es_5695",
+    "lang": "es",
     "lemma": "aduana",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20279,13 +19491,12 @@ const WORDS_ES_B2 = [
       "zh": "海关",
       "ru": "таможня"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "aduanas"
   },
   {
     "id": "es_5696",
+    "lang": "es",
     "lemma": "enfrentamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20305,13 +19516,12 @@ const WORDS_ES_B2 = [
       "zh": "对峙",
       "ru": "противостояние"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "enfrentamientos"
   },
   {
     "id": "es_5698",
+    "lang": "es",
     "lemma": "vertical",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20330,12 +19540,11 @@ const WORDS_ES_B2 = [
       "ja": "垂直の",
       "zh": "竖直的",
       "ru": "вертикальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5707",
+    "lang": "es",
     "lemma": "cansancio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20355,13 +19564,12 @@ const WORDS_ES_B2 = [
       "zh": "疲劳",
       "ru": "усталость"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "cansancios"
   },
   {
     "id": "es_5708",
+    "lang": "es",
     "lemma": "tóxico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20380,12 +19588,11 @@ const WORDS_ES_B2 = [
       "ja": "有毒の",
       "zh": "有毒的",
       "ru": "токсичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5709",
+    "lang": "es",
     "lemma": "garage",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20405,13 +19612,12 @@ const WORDS_ES_B2 = [
       "zh": "车库",
       "ru": "гараж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "garages"
   },
   {
     "id": "es_5712",
+    "lang": "es",
     "lemma": "citación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20431,13 +19637,12 @@ const WORDS_ES_B2 = [
       "zh": "引用",
       "ru": "цитирование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "citaciones"
   },
   {
     "id": "es_5714",
+    "lang": "es",
     "lemma": "problemático",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20456,12 +19661,11 @@ const WORDS_ES_B2 = [
       "ja": "問題のある",
       "zh": "有问题的",
       "ru": "проблематичный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5715",
+    "lang": "es",
     "lemma": "litro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20481,13 +19685,12 @@ const WORDS_ES_B2 = [
       "zh": "升",
       "ru": "литр"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "litros"
   },
   {
     "id": "es_5716",
+    "lang": "es",
     "lemma": "soja",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20507,13 +19710,12 @@ const WORDS_ES_B2 = [
       "zh": "大豆",
       "ru": "соя"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sojas"
   },
   {
     "id": "es_5717",
+    "lang": "es",
     "lemma": "hobby",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20533,13 +19735,12 @@ const WORDS_ES_B2 = [
       "zh": "爱好",
       "ru": "хобби"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "hobbis"
   },
   {
     "id": "es_5720",
+    "lang": "es",
     "lemma": "uva",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20559,13 +19760,12 @@ const WORDS_ES_B2 = [
       "zh": "葡萄",
       "ru": "виноград"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "uvas"
   },
   {
     "id": "es_5721",
+    "lang": "es",
     "lemma": "mediocre",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20584,12 +19784,11 @@ const WORDS_ES_B2 = [
       "ja": "平凡な",
       "zh": "平庸的",
       "ru": "посредственный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5724",
+    "lang": "es",
     "lemma": "equivocación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20609,13 +19808,12 @@ const WORDS_ES_B2 = [
       "zh": "错误",
       "ru": "ошибка"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "equivocaciones"
   },
   {
     "id": "es_5726",
+    "lang": "es",
     "lemma": "sauna",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20635,13 +19833,12 @@ const WORDS_ES_B2 = [
       "zh": "桑拿",
       "ru": "сауна"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "saunas"
   },
   {
     "id": "es_5727",
+    "lang": "es",
     "lemma": "agarrado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20660,12 +19857,11 @@ const WORDS_ES_B2 = [
       "ja": "けちな",
       "zh": "吝啬的",
       "ru": "скупой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5729",
+    "lang": "es",
     "lemma": "exhausto",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20684,12 +19880,11 @@ const WORDS_ES_B2 = [
       "ja": "疲れ果てた",
       "zh": "筋疲力尽的",
       "ru": "истощённый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5730",
+    "lang": "es",
     "lemma": "periodismo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20709,13 +19904,12 @@ const WORDS_ES_B2 = [
       "zh": "新闻业",
       "ru": "журналистика"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "periodismos"
   },
   {
     "id": "es_5731",
+    "lang": "es",
     "lemma": "manipulación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20735,13 +19929,12 @@ const WORDS_ES_B2 = [
       "zh": "操纵",
       "ru": "манипуляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "manipulaciones"
   },
   {
     "id": "es_5732",
+    "lang": "es",
     "lemma": "popularidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20761,13 +19954,12 @@ const WORDS_ES_B2 = [
       "zh": "受欢迎",
       "ru": "популярность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "popularidades"
   },
   {
     "id": "es_5739",
+    "lang": "es",
     "lemma": "gruñón",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20786,12 +19978,11 @@ const WORDS_ES_B2 = [
       "ja": "不機嫌な",
       "zh": "爱抱怨的",
       "ru": "ворчливый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5740",
+    "lang": "es",
     "lemma": "inseguro",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20810,12 +20001,11 @@ const WORDS_ES_B2 = [
       "ja": "不安な",
       "zh": "不安全的",
       "ru": "неуверенный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5742",
+    "lang": "es",
     "lemma": "indicio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20835,13 +20025,12 @@ const WORDS_ES_B2 = [
       "zh": "迹象",
       "ru": "улика"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "indicios"
   },
   {
     "id": "es_5743",
+    "lang": "es",
     "lemma": "indiferente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20860,12 +20049,11 @@ const WORDS_ES_B2 = [
       "ja": "無関心な",
       "zh": "冷漠的",
       "ru": "безразличный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5745",
+    "lang": "es",
     "lemma": "múltiple",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20884,12 +20072,11 @@ const WORDS_ES_B2 = [
       "ja": "多様な",
       "zh": "多种的",
       "ru": "множественный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5747",
+    "lang": "es",
     "lemma": "colectivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -20909,12 +20096,11 @@ const WORDS_ES_B2 = [
       "ja": "集団的な",
       "zh": "集体的",
       "ru": "коллективный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5748",
+    "lang": "es",
     "lemma": "colectivo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20935,13 +20121,12 @@ const WORDS_ES_B2 = [
       "zh": "集体",
       "ru": "коллектив"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "colectivos"
   },
   {
     "id": "es_5749",
+    "lang": "es",
     "lemma": "prestigio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20961,13 +20146,12 @@ const WORDS_ES_B2 = [
       "zh": "声望",
       "ru": "престиж"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "prestigios"
   },
   {
     "id": "es_5750",
+    "lang": "es",
     "lemma": "intriga",
     "pos": "Nomen",
     "cefr": "B2",
@@ -20987,13 +20171,12 @@ const WORDS_ES_B2 = [
       "zh": "阴谋",
       "ru": "интрига"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "intrigas"
   },
   {
     "id": "es_5753",
+    "lang": "es",
     "lemma": "primitivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21012,12 +20195,11 @@ const WORDS_ES_B2 = [
       "ja": "原始的な",
       "zh": "原始的",
       "ru": "примитивный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5754",
+    "lang": "es",
     "lemma": "envenenamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21037,13 +20219,12 @@ const WORDS_ES_B2 = [
       "zh": "中毒",
       "ru": "отравление"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "envenenamientos"
   },
   {
     "id": "es_5756",
+    "lang": "es",
     "lemma": "recinto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21063,13 +20244,12 @@ const WORDS_ES_B2 = [
       "zh": "区域",
       "ru": "ограда"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "recintos"
   },
   {
     "id": "es_5758",
+    "lang": "es",
     "lemma": "ametralladora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21089,13 +20269,12 @@ const WORDS_ES_B2 = [
       "zh": "机关枪",
       "ru": "пулемет"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "ametralladoras"
   },
   {
     "id": "es_5759",
+    "lang": "es",
     "lemma": "flanco",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21115,13 +20294,12 @@ const WORDS_ES_B2 = [
       "zh": "侧面",
       "ru": "фланг"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "flancos"
   },
   {
     "id": "es_5760",
+    "lang": "es",
     "lemma": "noreste",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21142,13 +20320,11 @@ const WORDS_ES_B2 = [
       "zh": "东北",
       "ru": "северо-восток"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5762",
+    "lang": "es",
     "lemma": "serial",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21168,13 +20344,12 @@ const WORDS_ES_B2 = [
       "zh": "连续剧",
       "ru": "сериал"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "seriales"
   },
   {
     "id": "es_5765",
+    "lang": "es",
     "lemma": "patrimonio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21194,13 +20369,12 @@ const WORDS_ES_B2 = [
       "zh": "财产",
       "ru": "имущество"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "patrimonios"
   },
   {
     "id": "es_5766",
+    "lang": "es",
     "lemma": "inundación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21220,13 +20394,12 @@ const WORDS_ES_B2 = [
       "zh": "洪水",
       "ru": "наводнение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "inundaciones"
   },
   {
     "id": "es_5768",
+    "lang": "es",
     "lemma": "redacción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21246,13 +20419,12 @@ const WORDS_ES_B2 = [
       "zh": "作文",
       "ru": "сочинение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "redacciones"
   },
   {
     "id": "es_5769",
+    "lang": "es",
     "lemma": "succión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21272,13 +20444,12 @@ const WORDS_ES_B2 = [
       "zh": "吸入",
       "ru": "всасывание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "succiones"
   },
   {
     "id": "es_5772",
+    "lang": "es",
     "lemma": "imaginario",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21297,12 +20468,11 @@ const WORDS_ES_B2 = [
       "ja": "想像上の",
       "zh": "想象的",
       "ru": "воображаемый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5773",
+    "lang": "es",
     "lemma": "transparente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21321,12 +20491,11 @@ const WORDS_ES_B2 = [
       "ja": "透明な",
       "zh": "透明的",
       "ru": "прозрачный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5778",
+    "lang": "es",
     "lemma": "espiral",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21346,13 +20515,12 @@ const WORDS_ES_B2 = [
       "zh": "螺旋",
       "ru": "спираль"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "espirales"
   },
   {
     "id": "es_5780",
+    "lang": "es",
     "lemma": "simulación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21372,13 +20540,12 @@ const WORDS_ES_B2 = [
       "zh": "模拟",
       "ru": "симуляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "simulaciones"
   },
   {
     "id": "es_5781",
+    "lang": "es",
     "lemma": "vinagre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21398,13 +20565,12 @@ const WORDS_ES_B2 = [
       "zh": "醋",
       "ru": "уксус"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "vinagres"
   },
   {
     "id": "es_5785",
+    "lang": "es",
     "lemma": "grabadora",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21424,13 +20590,12 @@ const WORDS_ES_B2 = [
       "zh": "录音机",
       "ru": "магнитофон"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "grabadoras"
   },
   {
     "id": "es_5786",
+    "lang": "es",
     "lemma": "ingrediente",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21450,13 +20615,12 @@ const WORDS_ES_B2 = [
       "zh": "材料",
       "ru": "ингредиент"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "ingredientes"
   },
   {
     "id": "es_5788",
+    "lang": "es",
     "lemma": "electoral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21475,12 +20639,11 @@ const WORDS_ES_B2 = [
       "ja": "選挙の",
       "zh": "选举的",
       "ru": "избирательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5789",
+    "lang": "es",
     "lemma": "islam",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21500,13 +20663,11 @@ const WORDS_ES_B2 = [
       "zh": "伊斯兰教",
       "ru": "ислам"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5790",
+    "lang": "es",
     "lemma": "impactante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21525,12 +20686,11 @@ const WORDS_ES_B2 = [
       "ja": "衝撃的な",
       "zh": "冲击性的",
       "ru": "впечатляющий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5791",
+    "lang": "es",
     "lemma": "castaño",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21551,13 +20711,12 @@ const WORDS_ES_B2 = [
       "zh": "栗树",
       "ru": "каштан"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "castaños"
   },
   {
     "id": "es_5792",
+    "lang": "es",
     "lemma": "castaño",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21577,12 +20736,11 @@ const WORDS_ES_B2 = [
       "ja": "栗色の",
       "zh": "栗色的",
       "ru": "каштановый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5793",
+    "lang": "es",
     "lemma": "linaje",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21602,13 +20760,12 @@ const WORDS_ES_B2 = [
       "zh": "血统",
       "ru": "родословная"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "linajes"
   },
   {
     "id": "es_5794",
+    "lang": "es",
     "lemma": "extorsión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21628,13 +20785,12 @@ const WORDS_ES_B2 = [
       "zh": "敲诈",
       "ru": "вымогательство"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "extorsiones"
   },
   {
     "id": "es_5795",
+    "lang": "es",
     "lemma": "gráfico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21653,12 +20809,11 @@ const WORDS_ES_B2 = [
       "ja": "グラフィックの",
       "zh": "图形的",
       "ru": "графический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5796",
+    "lang": "es",
     "lemma": "aventón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21678,13 +20833,12 @@ const WORDS_ES_B2 = [
       "zh": "推动",
       "ru": "толчок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "aventones"
   },
   {
     "id": "es_5797",
+    "lang": "es",
     "lemma": "tibia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21704,13 +20858,12 @@ const WORDS_ES_B2 = [
       "zh": "胫骨",
       "ru": "большеберцовая кость"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tibias"
   },
   {
     "id": "es_5798",
+    "lang": "es",
     "lemma": "pretexto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21730,13 +20883,12 @@ const WORDS_ES_B2 = [
       "zh": "借口",
       "ru": "предлог"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pretextos"
   },
   {
     "id": "es_5799",
+    "lang": "es",
     "lemma": "paralelo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21755,12 +20907,11 @@ const WORDS_ES_B2 = [
       "ja": "平行な",
       "zh": "平行的",
       "ru": "параллельный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5801",
+    "lang": "es",
     "lemma": "complot",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21780,13 +20931,12 @@ const WORDS_ES_B2 = [
       "zh": "阴谋",
       "ru": "заговор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "complots"
   },
   {
     "id": "es_5802",
+    "lang": "es",
     "lemma": "torcido",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21805,12 +20955,11 @@ const WORDS_ES_B2 = [
       "ja": "ねじれた",
       "zh": "扭曲的",
       "ru": "скрученный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5806",
+    "lang": "es",
     "lemma": "expulsión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21831,13 +20980,12 @@ const WORDS_ES_B2 = [
       "zh": "驱逐",
       "ru": "изгнание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "expulsiones"
   },
   {
     "id": "es_5807",
+    "lang": "es",
     "lemma": "fusil",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21857,13 +21005,12 @@ const WORDS_ES_B2 = [
       "zh": "步枪",
       "ru": "винтовка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "fusiles"
   },
   {
     "id": "es_5809",
+    "lang": "es",
     "lemma": "intestino",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21883,13 +21030,12 @@ const WORDS_ES_B2 = [
       "zh": "肠",
       "ru": "кишечник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "intestinos"
   },
   {
     "id": "es_5810",
+    "lang": "es",
     "lemma": "estimulante",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -21908,12 +21054,11 @@ const WORDS_ES_B2 = [
       "ja": "刺激的な",
       "zh": "刺激的",
       "ru": "стимулирующий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5812",
+    "lang": "es",
     "lemma": "esquema",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21933,13 +21078,12 @@ const WORDS_ES_B2 = [
       "zh": "图式",
       "ru": "схема"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "esquemas"
   },
   {
     "id": "es_5816",
+    "lang": "es",
     "lemma": "tranvía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21959,13 +21103,12 @@ const WORDS_ES_B2 = [
       "zh": "电车",
       "ru": "трамвай"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tranvías"
   },
   {
     "id": "es_5819",
+    "lang": "es",
     "lemma": "acertijo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -21985,13 +21128,12 @@ const WORDS_ES_B2 = [
       "zh": "谜语",
       "ru": "загадка"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "acertijos"
   },
   {
     "id": "es_5822",
+    "lang": "es",
     "lemma": "sartén",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22011,13 +21153,12 @@ const WORDS_ES_B2 = [
       "zh": "平底锅",
       "ru": "сковорода"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "sartenes"
   },
   {
     "id": "es_5829",
+    "lang": "es",
     "lemma": "verso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22037,13 +21178,12 @@ const WORDS_ES_B2 = [
       "zh": "诗句",
       "ru": "стих"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "versos"
   },
   {
     "id": "es_5832",
+    "lang": "es",
     "lemma": "encuesta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22063,13 +21203,12 @@ const WORDS_ES_B2 = [
       "zh": "调查",
       "ru": "опрос"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "encuestas"
   },
   {
     "id": "es_5833",
+    "lang": "es",
     "lemma": "engreído",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22088,12 +21227,11 @@ const WORDS_ES_B2 = [
       "ja": "うぬぼれた",
       "zh": "自负的",
       "ru": "тщеславный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5834",
+    "lang": "es",
     "lemma": "meteorito",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22113,13 +21251,11 @@ const WORDS_ES_B2 = [
       "zh": "陨石",
       "ru": "метеорит"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5835",
+    "lang": "es",
     "lemma": "conducción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22139,13 +21275,12 @@ const WORDS_ES_B2 = [
       "zh": "驾驶",
       "ru": "вождение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "conducciones"
   },
   {
     "id": "es_5837",
+    "lang": "es",
     "lemma": "escorpión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22165,13 +21300,12 @@ const WORDS_ES_B2 = [
       "zh": "蝎子",
       "ru": "скорпион"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "escorpiones"
   },
   {
     "id": "es_5838",
+    "lang": "es",
     "lemma": "champú",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22191,13 +21325,12 @@ const WORDS_ES_B2 = [
       "zh": "洗发水",
       "ru": "шампунь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "champús"
   },
   {
     "id": "es_5840",
+    "lang": "es",
     "lemma": "delegación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22217,13 +21350,12 @@ const WORDS_ES_B2 = [
       "zh": "委托",
       "ru": "делегирование"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "delegaciones"
   },
   {
     "id": "es_5841",
+    "lang": "es",
     "lemma": "consistente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22242,12 +21374,11 @@ const WORDS_ES_B2 = [
       "ja": "一貫した",
       "zh": "一致的",
       "ru": "последовательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5843",
+    "lang": "es",
     "lemma": "indefenso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22267,12 +21398,11 @@ const WORDS_ES_B2 = [
       "ja": "無防備な",
       "zh": "无防备的",
       "ru": "беззащитный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5844",
+    "lang": "es",
     "lemma": "reverencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22292,13 +21422,12 @@ const WORDS_ES_B2 = [
       "zh": "敬畏",
       "ru": "почтение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "reverencias"
   },
   {
     "id": "es_5848",
+    "lang": "es",
     "lemma": "lechuga",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22318,13 +21447,12 @@ const WORDS_ES_B2 = [
       "zh": "生菜",
       "ru": "салат"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lechugas"
   },
   {
     "id": "es_5849",
+    "lang": "es",
     "lemma": "excesivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22343,12 +21471,11 @@ const WORDS_ES_B2 = [
       "ja": "過度な",
       "zh": "过度的",
       "ru": "чрезмерный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5850",
+    "lang": "es",
     "lemma": "ancla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22368,13 +21495,12 @@ const WORDS_ES_B2 = [
       "zh": "锚",
       "ru": "якорь"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "anclas"
   },
   {
     "id": "es_5852",
+    "lang": "es",
     "lemma": "bulto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22394,13 +21520,12 @@ const WORDS_ES_B2 = [
       "zh": "包裹",
       "ru": "узел"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "bultos"
   },
   {
     "id": "es_5854",
+    "lang": "es",
     "lemma": "costura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22420,13 +21545,12 @@ const WORDS_ES_B2 = [
       "zh": "缝纫",
       "ru": "шитье"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "costuras"
   },
   {
     "id": "es_5857",
+    "lang": "es",
     "lemma": "introducción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22446,13 +21570,12 @@ const WORDS_ES_B2 = [
       "zh": "介绍",
       "ru": "введение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "introducciones"
   },
   {
     "id": "es_5858",
+    "lang": "es",
     "lemma": "mármol",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22472,13 +21595,11 @@ const WORDS_ES_B2 = [
       "zh": "大理石",
       "ru": "мрамор"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_5860",
+    "lang": "es",
     "lemma": "costoso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22497,12 +21618,11 @@ const WORDS_ES_B2 = [
       "ja": "高い",
       "zh": "昂贵",
       "ru": "дорогой"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5862",
+    "lang": "es",
     "lemma": "demócrata",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22522,13 +21642,12 @@ const WORDS_ES_B2 = [
       "zh": "民主党人",
       "ru": "демократ"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "demócratas"
   },
   {
     "id": "es_5863",
+    "lang": "es",
     "lemma": "demócrata",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22547,12 +21666,11 @@ const WORDS_ES_B2 = [
       "ja": "民主的",
       "zh": "民主的",
       "ru": "демократический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5864",
+    "lang": "es",
     "lemma": "esmeralda",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22572,13 +21690,12 @@ const WORDS_ES_B2 = [
       "zh": "翡翠",
       "ru": "изумруд"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "esmeraldas"
   },
   {
     "id": "es_5865",
+    "lang": "es",
     "lemma": "esmeralda",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22597,12 +21714,11 @@ const WORDS_ES_B2 = [
       "ja": "エメラルド色の",
       "zh": "翡翠色的",
       "ru": "изумрудный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5867",
+    "lang": "es",
     "lemma": "huida",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22622,13 +21738,11 @@ const WORDS_ES_B2 = [
       "zh": "逃跑",
       "ru": "бегство"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5871",
+    "lang": "es",
     "lemma": "moralidad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22648,13 +21762,12 @@ const WORDS_ES_B2 = [
       "zh": "道德性",
       "ru": "мораль"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "moralidades"
   },
   {
     "id": "es_5873",
+    "lang": "es",
     "lemma": "humildad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22674,13 +21787,12 @@ const WORDS_ES_B2 = [
       "zh": "谦逊",
       "ru": "смирение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "humildades"
   },
   {
     "id": "es_5874",
+    "lang": "es",
     "lemma": "yegua",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22701,13 +21813,12 @@ const WORDS_ES_B2 = [
       "zh": "母马",
       "ru": "кобыла"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "yeguas"
   },
   {
     "id": "es_5876",
+    "lang": "es",
     "lemma": "zanja",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22727,13 +21838,12 @@ const WORDS_ES_B2 = [
       "zh": "沟渠",
       "ru": "канава"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "zanjas"
   },
   {
     "id": "es_5877",
+    "lang": "es",
     "lemma": "mayonesa",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22753,13 +21863,12 @@ const WORDS_ES_B2 = [
       "zh": "蛋黄酱",
       "ru": "майонез"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "mayonesas"
   },
   {
     "id": "es_5880",
+    "lang": "es",
     "lemma": "plateado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22778,12 +21887,11 @@ const WORDS_ES_B2 = [
       "ja": "銀色の",
       "zh": "银色的",
       "ru": "серебристый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5881",
+    "lang": "es",
     "lemma": "plateado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22803,13 +21911,12 @@ const WORDS_ES_B2 = [
       "zh": "银色",
       "ru": "серебро"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "plateados"
   },
   {
     "id": "es_5882",
+    "lang": "es",
     "lemma": "actualización",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22829,13 +21936,12 @@ const WORDS_ES_B2 = [
       "zh": "更新",
       "ru": "обновление"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "actualizaciones"
   },
   {
     "id": "es_5883",
+    "lang": "es",
     "lemma": "subconsciente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22854,12 +21960,11 @@ const WORDS_ES_B2 = [
       "ja": "潜在意識的な",
       "zh": "潜意识的",
       "ru": "подсознательный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5884",
+    "lang": "es",
     "lemma": "subconsciente",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22879,13 +21984,12 @@ const WORDS_ES_B2 = [
       "zh": "潜意识",
       "ru": "подсознание"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "subconscientes"
   },
   {
     "id": "es_5885",
+    "lang": "es",
     "lemma": "comprensivo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22904,12 +22008,11 @@ const WORDS_ES_B2 = [
       "ja": "思いやりのある",
       "zh": "体谅的",
       "ru": "понимающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5887",
+    "lang": "es",
     "lemma": "revuelta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22929,13 +22032,12 @@ const WORDS_ES_B2 = [
       "zh": "暴乱",
       "ru": "восстание"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "revueltas"
   },
   {
     "id": "es_5891",
+    "lang": "es",
     "lemma": "caluroso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -22954,12 +22056,11 @@ const WORDS_ES_B2 = [
       "ja": "温かい",
       "zh": "热情的",
       "ru": "теплый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5892",
+    "lang": "es",
     "lemma": "animación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -22979,13 +22080,12 @@ const WORDS_ES_B2 = [
       "zh": "动画",
       "ru": "анимация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "animaciones"
   },
   {
     "id": "es_5898",
+    "lang": "es",
     "lemma": "tornillo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23005,13 +22105,12 @@ const WORDS_ES_B2 = [
       "zh": "螺钉",
       "ru": "винт"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "tornillos"
   },
   {
     "id": "es_5901",
+    "lang": "es",
     "lemma": "mordisco",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23031,13 +22130,12 @@ const WORDS_ES_B2 = [
       "zh": "咬",
       "ru": "укус"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "mordiscos"
   },
   {
     "id": "es_5902",
+    "lang": "es",
     "lemma": "terciopelo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23057,13 +22155,12 @@ const WORDS_ES_B2 = [
       "zh": "天鹅绒",
       "ru": "бархат"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "terciopelos"
   },
   {
     "id": "es_5905",
+    "lang": "es",
     "lemma": "cordura",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23083,13 +22180,11 @@ const WORDS_ES_B2 = [
       "zh": "理智",
       "ru": "здравомыслие"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5906",
+    "lang": "es",
     "lemma": "coste",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23109,13 +22204,12 @@ const WORDS_ES_B2 = [
       "zh": "成本",
       "ru": "стоимость"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "costes"
   },
   {
     "id": "es_5907",
+    "lang": "es",
     "lemma": "colisión",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23135,13 +22229,12 @@ const WORDS_ES_B2 = [
       "zh": "碰撞",
       "ru": "столкновение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "colisiones"
   },
   {
     "id": "es_5911",
+    "lang": "es",
     "lemma": "aula",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23161,13 +22254,12 @@ const WORDS_ES_B2 = [
       "zh": "教室",
       "ru": "класс"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
+    "article": "el",
     "plural": "aulas"
   },
   {
     "id": "es_5914",
+    "lang": "es",
     "lemma": "enfado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23187,13 +22279,12 @@ const WORDS_ES_B2 = [
       "zh": "愤怒",
       "ru": "гнев"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "enfados"
   },
   {
     "id": "es_5917",
+    "lang": "es",
     "lemma": "inmoral",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23212,12 +22303,11 @@ const WORDS_ES_B2 = [
       "ja": "不道徳な",
       "zh": "不道德的",
       "ru": "аморальный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5919",
+    "lang": "es",
     "lemma": "carril",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23237,13 +22327,12 @@ const WORDS_ES_B2 = [
       "zh": "车辙",
       "ru": "колея"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "carriles"
   },
   {
     "id": "es_5923",
+    "lang": "es",
     "lemma": "borrador",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23263,13 +22352,12 @@ const WORDS_ES_B2 = [
       "zh": "橡皮擦",
       "ru": "ластик"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "borradores"
   },
   {
     "id": "es_5925",
+    "lang": "es",
     "lemma": "cuchilla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23289,13 +22377,12 @@ const WORDS_ES_B2 = [
       "zh": "刀片",
       "ru": "лезвие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cuchillas"
   },
   {
     "id": "es_5926",
+    "lang": "es",
     "lemma": "clemencia",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23315,13 +22402,12 @@ const WORDS_ES_B2 = [
       "zh": "仁慈",
       "ru": "милосердие"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "clemencias"
   },
   {
     "id": "es_5928",
+    "lang": "es",
     "lemma": "eclipse",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23341,13 +22427,12 @@ const WORDS_ES_B2 = [
       "zh": "日食",
       "ru": "затмение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "eclipses"
   },
   {
     "id": "es_5929",
+    "lang": "es",
     "lemma": "restricción",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23367,13 +22452,12 @@ const WORDS_ES_B2 = [
       "zh": "限制",
       "ru": "ограничение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "restricciones"
   },
   {
     "id": "es_5930",
+    "lang": "es",
     "lemma": "comunismo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23393,13 +22477,12 @@ const WORDS_ES_B2 = [
       "zh": "共产主义",
       "ru": "коммунизм"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "comunismos"
   },
   {
     "id": "es_5931",
+    "lang": "es",
     "lemma": "suizo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23418,12 +22501,11 @@ const WORDS_ES_B2 = [
       "ja": "スイスの",
       "zh": "瑞士的",
       "ru": "швейцарский"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5933",
+    "lang": "es",
     "lemma": "pronóstico",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23443,13 +22525,12 @@ const WORDS_ES_B2 = [
       "zh": "预报",
       "ru": "прогноз"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "pronósticos"
   },
   {
     "id": "es_5935",
+    "lang": "es",
     "lemma": "almacenamiento",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23469,13 +22550,12 @@ const WORDS_ES_B2 = [
       "zh": "储存",
       "ru": "хранение"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "almacenamientos"
   },
   {
     "id": "es_5937",
+    "lang": "es",
     "lemma": "leopardo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23495,13 +22575,12 @@ const WORDS_ES_B2 = [
       "zh": "豹",
       "ru": "леопард"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "leopardos"
   },
   {
     "id": "es_5938",
+    "lang": "es",
     "lemma": "muscular",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23520,12 +22599,11 @@ const WORDS_ES_B2 = [
       "ja": "筋肉の",
       "zh": "肌肉的",
       "ru": "мышечный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5941",
+    "lang": "es",
     "lemma": "barbero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23545,13 +22623,12 @@ const WORDS_ES_B2 = [
       "zh": "理发师",
       "ru": "парикмахер"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "barberos"
   },
   {
     "id": "es_5945",
+    "lang": "es",
     "lemma": "invención",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23571,13 +22648,12 @@ const WORDS_ES_B2 = [
       "zh": "发明",
       "ru": "изобретение"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "invenciones"
   },
   {
     "id": "es_5946",
+    "lang": "es",
     "lemma": "colmo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23597,13 +22673,12 @@ const WORDS_ES_B2 = [
       "zh": "极限",
       "ru": "предел"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "colmos"
   },
   {
     "id": "es_5947",
+    "lang": "es",
     "lemma": "cafeína",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23623,13 +22698,12 @@ const WORDS_ES_B2 = [
       "zh": "咖啡因",
       "ru": "кофеин"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cafeínas"
   },
   {
     "id": "es_5950",
+    "lang": "es",
     "lemma": "pulmonar",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23648,12 +22722,11 @@ const WORDS_ES_B2 = [
       "ja": "肺の",
       "zh": "肺的",
       "ru": "лёгочный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5955",
+    "lang": "es",
     "lemma": "precipicio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23673,13 +22746,12 @@ const WORDS_ES_B2 = [
       "zh": "悬崖",
       "ru": "пропасть"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "precipicios"
   },
   {
     "id": "es_5956",
+    "lang": "es",
     "lemma": "usuario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23699,13 +22771,12 @@ const WORDS_ES_B2 = [
       "zh": "用户",
       "ru": "пользователь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "usuarios"
   },
   {
     "id": "es_5957",
+    "lang": "es",
     "lemma": "obsequio",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23725,13 +22796,12 @@ const WORDS_ES_B2 = [
       "zh": "礼物",
       "ru": "подарок"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "obsequios"
   },
   {
     "id": "es_5958",
+    "lang": "es",
     "lemma": "aparente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23750,12 +22820,11 @@ const WORDS_ES_B2 = [
       "ja": "見かけの",
       "zh": "表面的",
       "ru": "кажущийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5962",
+    "lang": "es",
     "lemma": "rendición",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23775,13 +22844,12 @@ const WORDS_ES_B2 = [
       "zh": "投降",
       "ru": "капитуляция"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "rendiciones"
   },
   {
     "id": "es_5963",
+    "lang": "es",
     "lemma": "descarado",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23800,12 +22868,11 @@ const WORDS_ES_B2 = [
       "ja": "厚かましい",
       "zh": "厚颜无耻的",
       "ru": "наглый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5965",
+    "lang": "es",
     "lemma": "sonriente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23824,12 +22891,11 @@ const WORDS_ES_B2 = [
       "ja": "笑顔の",
       "zh": "微笑的",
       "ru": "улыбающийся"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5967",
+    "lang": "es",
     "lemma": "tentador",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23848,12 +22914,11 @@ const WORDS_ES_B2 = [
       "ja": "誘惑的な",
       "zh": "诱人的",
       "ru": "соблазнительный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5969",
+    "lang": "es",
     "lemma": "creatividad",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23873,13 +22938,12 @@ const WORDS_ES_B2 = [
       "zh": "创意",
       "ru": "креативность"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "creatividades"
   },
   {
     "id": "es_5970",
+    "lang": "es",
     "lemma": "arbusto",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23899,13 +22963,12 @@ const WORDS_ES_B2 = [
       "zh": "灌木",
       "ru": "кустарник"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "arbustos"
   },
   {
     "id": "es_5971",
+    "lang": "es",
     "lemma": "teta",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23925,13 +22988,12 @@ const WORDS_ES_B2 = [
       "zh": "乳头",
       "ru": "сосок"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "tetas"
   },
   {
     "id": "es_5972",
+    "lang": "es",
     "lemma": "estéril",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -23950,12 +23012,11 @@ const WORDS_ES_B2 = [
       "ja": "不妊の",
       "zh": "不育的",
       "ru": "стерильный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5981",
+    "lang": "es",
     "lemma": "yogur",
     "pos": "Nomen",
     "cefr": "B2",
@@ -23975,13 +23036,12 @@ const WORDS_ES_B2 = [
       "zh": "酸奶",
       "ru": "йогурт"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "yogures"
   },
   {
     "id": "es_5982",
+    "lang": "es",
     "lemma": "vocabulario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24001,13 +23061,12 @@ const WORDS_ES_B2 = [
       "zh": "词汇",
       "ru": "словарь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "vocabularios"
   },
   {
     "id": "es_5983",
+    "lang": "es",
     "lemma": "magnético",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24026,12 +23085,11 @@ const WORDS_ES_B2 = [
       "ja": "磁気の",
       "zh": "磁性的",
       "ru": "магнитный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5984",
+    "lang": "es",
     "lemma": "gentes",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24051,13 +23109,11 @@ const WORDS_ES_B2 = [
       "zh": "人们",
       "ru": "люди"
     },
-    "examples": [],
-    "meta": {},
-    "article": "la",
-    "plural": ""
+    "article": "la"
   },
   {
     "id": "es_5985",
+    "lang": "es",
     "lemma": "racial",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24076,12 +23132,11 @@ const WORDS_ES_B2 = [
       "ja": "人種の",
       "zh": "种族的",
       "ru": "расовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5986",
+    "lang": "es",
     "lemma": "competente",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24100,12 +23155,11 @@ const WORDS_ES_B2 = [
       "ja": "有能な",
       "zh": "能干的",
       "ru": "компетентный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5987",
+    "lang": "es",
     "lemma": "escalón",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24125,13 +23179,12 @@ const WORDS_ES_B2 = [
       "zh": "台阶",
       "ru": "ступень"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "escalones"
   },
   {
     "id": "es_5988",
+    "lang": "es",
     "lemma": "manía",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24152,13 +23205,12 @@ const WORDS_ES_B2 = [
       "zh": "狂热",
       "ru": "мания"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "manías"
   },
   {
     "id": "es_5989",
+    "lang": "es",
     "lemma": "cascada",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24178,13 +23230,12 @@ const WORDS_ES_B2 = [
       "zh": "瀑布",
       "ru": "водопад"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "cascadas"
   },
   {
     "id": "es_5990",
+    "lang": "es",
     "lemma": "asteroide",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24204,13 +23255,12 @@ const WORDS_ES_B2 = [
       "zh": "小行星",
       "ru": "астероид"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "asteroides"
   },
   {
     "id": "es_5992",
+    "lang": "es",
     "lemma": "contagioso",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24229,12 +23279,11 @@ const WORDS_ES_B2 = [
       "ja": "伝染性の",
       "zh": "传染性的",
       "ru": "заразный"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5993",
+    "lang": "es",
     "lemma": "violeta",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24253,12 +23302,11 @@ const WORDS_ES_B2 = [
       "ja": "紫色の",
       "zh": "紫色的",
       "ru": "фиолетовый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5995",
+    "lang": "es",
     "lemma": "pose",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24278,13 +23326,12 @@ const WORDS_ES_B2 = [
       "zh": "姿态",
       "ru": "поза"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "poses"
   },
   {
     "id": "es_5996",
+    "lang": "es",
     "lemma": "suceso",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24304,13 +23351,12 @@ const WORDS_ES_B2 = [
       "zh": "事件",
       "ru": "событие"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "sucesos"
   },
   {
     "id": "es_5998",
+    "lang": "es",
     "lemma": "académico",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24329,12 +23375,11 @@ const WORDS_ES_B2 = [
       "ja": "学問的な",
       "zh": "学术的",
       "ru": "академический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_5999",
+    "lang": "es",
     "lemma": "ético",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24353,12 +23398,11 @@ const WORDS_ES_B2 = [
       "ja": "倫理的な",
       "zh": "伦理的",
       "ru": "этический"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_6002",
+    "lang": "es",
     "lemma": "festín",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24378,13 +23422,12 @@ const WORDS_ES_B2 = [
       "zh": "盛宴",
       "ru": "пир"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "festines"
   },
   {
     "id": "es_6007",
+    "lang": "es",
     "lemma": "muralla",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24404,13 +23447,12 @@ const WORDS_ES_B2 = [
       "zh": "城墙",
       "ru": "стена"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "murallas"
   },
   {
     "id": "es_6009",
+    "lang": "es",
     "lemma": "moribundo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24429,12 +23471,11 @@ const WORDS_ES_B2 = [
       "ja": "瀕死の",
       "zh": "垂死的",
       "ru": "умирающий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_6011",
+    "lang": "es",
     "lemma": "testarudo",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24454,12 +23495,11 @@ const WORDS_ES_B2 = [
       "ja": "頑固な",
       "zh": "固执的",
       "ru": "упрямый"
-    },
-    "examples": [],
-    "meta": {}
+    }
   },
   {
     "id": "es_6013",
+    "lang": "es",
     "lemma": "matadero",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24479,13 +23519,11 @@ const WORDS_ES_B2 = [
       "zh": "屠宰场",
       "ru": "бойня"
     },
-    "examples": [],
-    "meta": {},
-    "article": "el",
-    "plural": ""
+    "article": "el"
   },
   {
     "id": "es_6014",
+    "lang": "es",
     "lemma": "publicación",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24505,13 +23543,12 @@ const WORDS_ES_B2 = [
       "zh": "出版",
       "ru": "публикация"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "publicaciones"
   },
   {
     "id": "es_6015",
+    "lang": "es",
     "lemma": "prado",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24531,13 +23568,12 @@ const WORDS_ES_B2 = [
       "zh": "草地",
       "ru": "луг"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "prados"
   },
   {
     "id": "es_6016",
+    "lang": "es",
     "lemma": "delfín",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24557,13 +23593,12 @@ const WORDS_ES_B2 = [
       "zh": "海豚",
       "ru": "дельфин"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "delfines"
   },
   {
     "id": "es_6017",
+    "lang": "es",
     "lemma": "lágrima",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24583,13 +23618,12 @@ const WORDS_ES_B2 = [
       "zh": "泪水",
       "ru": "слеза"
     },
-    "examples": [],
-    "meta": {},
     "article": "la",
     "plural": "lágrimas"
   },
   {
     "id": "es_6018",
+    "lang": "es",
     "lemma": "jengibre",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24609,13 +23643,12 @@ const WORDS_ES_B2 = [
       "zh": "生姜",
       "ru": "имбирь"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "jengibres"
   },
   {
     "id": "es_6019",
+    "lang": "es",
     "lemma": "taladro",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24635,13 +23668,12 @@ const WORDS_ES_B2 = [
       "zh": "钻头",
       "ru": "дрель"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "taladros"
   },
   {
     "id": "es_6020",
+    "lang": "es",
     "lemma": "semáforo",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24661,13 +23693,12 @@ const WORDS_ES_B2 = [
       "zh": "红绿灯",
       "ru": "светофор"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "semáforos"
   },
   {
     "id": "es_6021",
+    "lang": "es",
     "lemma": "acuario",
     "pos": "Nomen",
     "cefr": "B2",
@@ -24687,13 +23718,12 @@ const WORDS_ES_B2 = [
       "zh": "水族馆",
       "ru": "аквариум"
     },
-    "examples": [],
-    "meta": {},
     "article": "el",
     "plural": "acuarios"
   },
   {
     "id": "es_6023",
+    "lang": "es",
     "lemma": "sediento",
     "pos": "Adjektiv",
     "cefr": "B2",
@@ -24712,8 +23742,6 @@ const WORDS_ES_B2 = [
       "ja": "喉が渇いた",
       "zh": "口渴的",
       "ru": "жаждущий"
-    },
-    "examples": [],
-    "meta": {}
+    }
   }
 ];
