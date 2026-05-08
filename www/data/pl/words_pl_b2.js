@@ -1,4 +1,3 @@
-// PL B2 generated from release candidate
 const WORDS_PL_B2 = [
   {
     "id": "pl_2009",
@@ -14,12 +13,12 @@ const WORDS_PL_B2 = [
       "en": "lie",
       "de": "die Lüge",
       "es": "la mentira",
-      "pl": "kłam",
       "it": "la bugia",
       "pt": "a mentira",
       "ja": "嘘",
       "zh": "谎言",
-      "ru": "ложь"
+      "ru": "ложь",
+      "fr": "mentir"
     },
     "examples": [],
     "meta": {},
@@ -41,12 +40,12 @@ const WORDS_PL_B2 = [
       "en": "a moment",
       "de": "der Moment",
       "es": "un momento",
-      "pl": "momencik",
       "it": "un momento",
       "pt": "um momento",
       "ja": "ちょっと",
       "zh": "片刻",
-      "ru": "минутка"
+      "ru": "минутка",
+      "fr": "un moment"
     },
     "examples": [],
     "meta": {},
@@ -68,12 +67,12 @@ const WORDS_PL_B2 = [
       "en": "worthy",
       "de": "wert",
       "es": "digno",
-      "pl": "warty",
       "it": "degno",
       "pt": "digno",
       "ja": "価値のある",
       "zh": "值得的",
-      "ru": "достойный"
+      "ru": "достойный",
+      "fr": "digne"
     },
     "examples": [],
     "meta": {}
@@ -93,12 +92,12 @@ const WORDS_PL_B2 = [
       "en": "pasta",
       "de": "die Nudel",
       "es": "la pasta",
-      "pl": "makaron",
       "it": "la pasta",
       "pt": "a massa",
       "ja": "パスタ",
       "zh": "意大利面",
-      "ru": "макароны"
+      "ru": "макароны",
+      "fr": "pâtes"
     },
     "examples": [],
     "meta": {},
@@ -120,12 +119,12 @@ const WORDS_PL_B2 = [
       "en": "dot",
       "de": "der Punkt",
       "es": "el punto",
-      "pl": "kropka",
       "it": "il punto",
       "pt": "o ponto",
       "ja": "点",
       "zh": "点",
-      "ru": "точка"
+      "ru": "точка",
+      "fr": "point"
     },
     "examples": [],
     "meta": {},
@@ -147,12 +146,12 @@ const WORDS_PL_B2 = [
       "en": "cosmic",
       "de": "kosmisch",
       "es": "cósmico",
-      "pl": "kosmiczny",
       "it": "cosmico",
       "pt": "cósmico",
       "ja": "宇宙の",
       "zh": "宇宙的",
-      "ru": "космический"
+      "ru": "космический",
+      "fr": "cosmique"
     },
     "examples": [],
     "meta": {}
@@ -173,12 +172,12 @@ const WORDS_PL_B2 = [
       "en": "queue",
       "de": "die Schlange",
       "es": "la cola",
-      "pl": "kolejka",
       "it": "la coda",
       "pt": "a fila",
       "ja": "列",
       "zh": "队列",
-      "ru": "очередь"
+      "ru": "очередь",
+      "fr": "queue"
     },
     "examples": [],
     "meta": {},
@@ -199,12 +198,12 @@ const WORDS_PL_B2 = [
       "en": "witch",
       "de": "die Hexe",
       "es": "la bruja",
-      "pl": "wiedźma",
       "it": "la strega",
       "pt": "a bruxa",
       "ja": "魔女",
       "zh": "女巫",
-      "ru": "ведьма"
+      "ru": "ведьма",
+      "fr": "sorcière"
     },
     "examples": [],
     "meta": {},
@@ -225,12 +224,12 @@ const WORDS_PL_B2 = [
       "en": "sexy",
       "de": "sexy",
       "es": "sexy",
-      "pl": "seksowny",
       "it": "sexy",
       "pt": "sexy",
       "ja": "セクシーな",
       "zh": "性感的",
-      "ru": "сексуальный"
+      "ru": "сексуальный",
+      "fr": "sexy"
     },
     "examples": [],
     "meta": {}
@@ -250,12 +249,12 @@ const WORDS_PL_B2 = [
       "en": "appetite",
       "de": "der Appetit",
       "es": "el apetito",
-      "pl": "apetyt",
       "it": "l'appetito",
       "pt": "o apetite",
       "ja": "食欲",
       "zh": "食欲",
-      "ru": "аппетит"
+      "ru": "аппетит",
+      "fr": "appétit"
     },
     "examples": [],
     "meta": {},
@@ -277,12 +276,12 @@ const WORDS_PL_B2 = [
       "en": "to fit",
       "de": "passen",
       "es": "encajar",
-      "pl": "pasować",
       "it": "adattarsi",
       "pt": "encaixar",
       "ja": "合う",
       "zh": "合适",
-      "ru": "подходить"
+      "ru": "подходить",
+      "fr": "convenir"
     },
     "examples": [],
     "meta": {},
@@ -304,12 +303,12 @@ const WORDS_PL_B2 = [
       "en": "lost",
       "de": "verloren",
       "es": "perdido",
-      "pl": "zagubiony",
       "it": "perso",
       "pt": "perdido",
       "ja": "迷子の",
       "zh": "迷失的",
-      "ru": "потерянный"
+      "ru": "потерянный",
+      "fr": "perdu"
     },
     "examples": [],
     "meta": {}
@@ -328,12 +327,12 @@ const WORDS_PL_B2 = [
       "en": "loris",
       "de": "der Lori",
       "es": "el loris",
-      "pl": "lori",
       "it": "il lori",
       "pt": "o loris",
       "ja": "ロリス",
       "zh": "懒猴",
-      "ru": "лори"
+      "ru": "лори",
+      "fr": "loris"
     },
     "examples": [],
     "meta": {},
@@ -354,12 +353,12 @@ const WORDS_PL_B2 = [
       "en": "snout",
       "de": "die Schnauze",
       "es": "el hocico",
-      "pl": "ryj",
       "it": "il muso",
       "pt": "o focinho",
       "ja": "鼻",
       "zh": "鼻子",
-      "ru": "рыло"
+      "ru": "рыло",
+      "fr": "museau"
     },
     "examples": [],
     "meta": {},
@@ -382,12 +381,12 @@ const WORDS_PL_B2 = [
       "en": "to lie",
       "de": "lügen",
       "es": "mentir",
-      "pl": "okłamywać",
       "it": "mentire",
       "pt": "mentir",
       "ja": "嘘をつく",
       "zh": "撒谎",
-      "ru": "лгать"
+      "ru": "лгать",
+      "fr": "mentir"
     },
     "examples": [],
     "meta": {},
@@ -410,12 +409,12 @@ const WORDS_PL_B2 = [
       "en": "four",
       "de": "die Vier",
       "es": "el cuatro",
-      "pl": "czwórka",
       "it": "il quattro",
       "pt": "o quatro",
       "ja": "四",
       "zh": "四",
-      "ru": "четвёрка"
+      "ru": "четвёрка",
+      "fr": "quatre"
     },
     "examples": [],
     "meta": {},
@@ -437,12 +436,12 @@ const WORDS_PL_B2 = [
       "en": "to place",
       "de": "stellen",
       "es": "colocar",
-      "pl": "stawiać",
       "it": "posizionare",
       "pt": "colocar",
       "ja": "置く",
       "zh": "放置",
-      "ru": "ставить"
+      "ru": "ставить",
+      "fr": "placer"
     },
     "examples": [],
     "meta": {},
@@ -464,12 +463,12 @@ const WORDS_PL_B2 = [
       "en": "stench",
       "de": "der Gestank",
       "es": "el hedor",
-      "pl": "smród",
       "it": "il fetore",
       "pt": "o fedor",
       "ja": "悪臭",
       "zh": "恶臭",
-      "ru": "вонь"
+      "ru": "вонь",
+      "fr": "puanteur"
     },
     "examples": [],
     "meta": {},
@@ -490,12 +489,12 @@ const WORDS_PL_B2 = [
       "en": "haste",
       "de": "die Eile",
       "es": "la prisa",
-      "pl": "pośpiech",
       "it": "la fretta",
       "pt": "a pressa",
       "ja": "急ぎ",
       "zh": "匆忙",
-      "ru": "спешка"
+      "ru": "спешка",
+      "fr": "hâte"
     },
     "examples": [],
     "meta": {},
@@ -517,12 +516,12 @@ const WORDS_PL_B2 = [
       "en": "excuse",
       "de": "die Ausrede",
       "es": "la excusa",
-      "pl": "wymówka",
       "it": "la scusa",
       "pt": "a desculpa",
       "ja": "言い訳",
       "zh": "借口",
-      "ru": "отговорка"
+      "ru": "отговорка",
+      "fr": "excuse"
     },
     "examples": [],
     "meta": {},
@@ -543,12 +542,12 @@ const WORDS_PL_B2 = [
       "en": "lunatic",
       "de": "der Spinner",
       "es": "el loco",
-      "pl": "świr",
       "it": "il pazzo",
       "pt": "o louco",
       "ja": "変人",
       "zh": "疯子",
-      "ru": "псих"
+      "ru": "псих",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {},
@@ -569,12 +568,12 @@ const WORDS_PL_B2 = [
       "en": "entry",
       "de": "der Eintritt",
       "es": "la entrada",
-      "pl": "wstęp",
       "it": "l'ingresso",
       "pt": "a entrada",
       "ja": "入場",
       "zh": "入口",
-      "ru": "вход"
+      "ru": "вход",
+      "fr": "entrée"
     },
     "examples": [],
     "meta": {},
@@ -596,12 +595,12 @@ const WORDS_PL_B2 = [
       "en": "sand",
       "de": "der Sand",
       "es": "la arena",
-      "pl": "piasek",
       "it": "la sabbia",
       "pt": "a areia",
       "ja": "砂",
       "zh": "沙子",
-      "ru": "песок"
+      "ru": "песок",
+      "fr": "sable"
     },
     "examples": [],
     "meta": {},
@@ -623,12 +622,12 @@ const WORDS_PL_B2 = [
       "en": "to take out",
       "de": "herausnehmen",
       "es": "sacar",
-      "pl": "wynosić",
       "it": "portare fuori",
       "pt": "retirar",
       "ja": "持ち出す",
       "zh": "取出",
-      "ru": "выносить"
+      "ru": "выносить",
+      "fr": "sortir"
     },
     "examples": [],
     "meta": {},
@@ -650,12 +649,12 @@ const WORDS_PL_B2 = [
       "en": "protocol",
       "de": "das Protokoll",
       "es": "el protocolo",
-      "pl": "protokół",
       "it": "il protocollo",
       "pt": "o protocolo",
       "ja": "議定書",
       "zh": "协议",
-      "ru": "протокол"
+      "ru": "протокол",
+      "fr": "protocole"
     },
     "examples": [],
     "meta": {},
@@ -677,12 +676,12 @@ const WORDS_PL_B2 = [
       "en": "aware",
       "de": "bewusst",
       "es": "consciente",
-      "pl": "świadomy",
       "it": "consapevole",
       "pt": "consciente",
       "ja": "意識している",
       "zh": "有意识的",
-      "ru": "сознательный"
+      "ru": "сознательный",
+      "fr": "conscient"
     },
     "examples": [],
     "meta": {}
@@ -701,12 +700,12 @@ const WORDS_PL_B2 = [
       "en": "to disregard",
       "de": "missachten",
       "es": "despreciar",
-      "pl": "pierdolić",
       "it": "disprezzare",
       "pt": "desconsiderar",
       "ja": "無視する",
       "zh": "忽视",
-      "ru": "пренебрегать"
+      "ru": "пренебрегать",
+      "fr": "ignorer"
     },
     "examples": [],
     "meta": {},
@@ -729,12 +728,12 @@ const WORDS_PL_B2 = [
       "en": "to pack",
       "de": "packen",
       "es": "empacar",
-      "pl": "spakować",
       "it": "fare le valigie",
       "pt": "empacotar",
       "ja": "荷造りする",
       "zh": "打包",
-      "ru": "упаковать"
+      "ru": "упаковать",
+      "fr": "emballer"
     },
     "examples": [],
     "meta": {},
@@ -757,12 +756,12 @@ const WORDS_PL_B2 = [
       "en": "car related",
       "de": "Auto",
       "es": "de coche",
-      "pl": "samochodowy",
       "it": "automobilistico",
       "pt": "de carro",
       "ja": "自動車の",
       "zh": "汽车的",
-      "ru": "автомобильный"
+      "ru": "автомобильный",
+      "fr": "automobile"
     },
     "examples": [],
     "meta": {}
@@ -782,12 +781,12 @@ const WORDS_PL_B2 = [
       "en": "fiancée",
       "de": "die Verlobte",
       "es": "la prometida",
-      "pl": "narzeczona",
       "it": "la fidanzata",
       "pt": "a noiva",
       "ja": "婚約者",
       "zh": "未婚妻",
-      "ru": "невеста"
+      "ru": "невеста",
+      "fr": "fiancée"
     },
     "examples": [],
     "meta": {},
@@ -808,12 +807,12 @@ const WORDS_PL_B2 = [
       "en": "private",
       "de": "der Gefreite",
       "es": "el soldado raso",
-      "pl": "szeregowy",
       "it": "il soldato semplice",
       "pt": "o soldado",
       "ja": "兵卒",
       "zh": "列兵",
-      "ru": "рядовой"
+      "ru": "рядовой",
+      "fr": "privé"
     },
     "examples": [],
     "meta": {},
@@ -834,12 +833,12 @@ const WORDS_PL_B2 = [
       "en": "ordinary",
       "de": "gewöhnlich",
       "es": "ordinario",
-      "pl": "szeregowy",
       "it": "ordinario",
       "pt": "comum",
       "ja": "普通の",
       "zh": "普通的",
-      "ru": "обычный"
+      "ru": "обычный",
+      "fr": "ordinaire"
     },
     "examples": [],
     "meta": {}
@@ -858,12 +857,12 @@ const WORDS_PL_B2 = [
       "en": "lump",
       "de": "der Knoten",
       "es": "el bulto",
-      "pl": "guz",
       "it": "il nodulo",
       "pt": "o caroço",
       "ja": "しこり",
       "zh": "肿块",
-      "ru": "шишка"
+      "ru": "шишка",
+      "fr": "bosse"
     },
     "examples": [],
     "meta": {},
@@ -884,12 +883,12 @@ const WORDS_PL_B2 = [
       "en": "coward",
       "de": "der Feigling",
       "es": "el cobarde",
-      "pl": "tchórz",
       "it": "il codardo",
       "pt": "o covarde",
       "ja": "臆病者",
       "zh": "懦夫",
-      "ru": "трус"
+      "ru": "трус",
+      "fr": "lâche"
     },
     "examples": [],
     "meta": {},
@@ -911,12 +910,12 @@ const WORDS_PL_B2 = [
       "en": "inscription",
       "de": "die Inschrift",
       "es": "la inscripción",
-      "pl": "napis",
       "it": "l'iscrizione",
       "pt": "a inscrição",
       "ja": "碑文",
       "zh": "铭文",
-      "ru": "надпись"
+      "ru": "надпись",
+      "fr": "inscription"
     },
     "examples": [],
     "meta": {},
@@ -937,12 +936,12 @@ const WORDS_PL_B2 = [
       "en": "technique",
       "de": "die Technik",
       "es": "la técnica",
-      "pl": "technika",
       "it": "la tecnica",
       "pt": "a técnica",
       "ja": "技術",
       "zh": "技术",
-      "ru": "техника"
+      "ru": "техника",
+      "fr": "technique"
     },
     "examples": [],
     "meta": {},
@@ -964,12 +963,12 @@ const WORDS_PL_B2 = [
       "en": "village",
       "de": "das Dorf",
       "es": "el pueblo",
-      "pl": "wioska",
       "it": "il villaggio",
       "pt": "a aldeia",
       "ja": "村",
       "zh": "村庄",
-      "ru": "деревня"
+      "ru": "деревня",
+      "fr": "village"
     },
     "examples": [],
     "meta": {},
@@ -990,12 +989,12 @@ const WORDS_PL_B2 = [
       "en": "to attack",
       "de": "angreifen",
       "es": "atacar",
-      "pl": "atakować",
       "it": "attaccare",
       "pt": "atacar",
       "ja": "攻撃する",
       "zh": "攻击",
-      "ru": "атаковать"
+      "ru": "атаковать",
+      "fr": "attaquer"
     },
     "examples": [],
     "meta": {},
@@ -1018,12 +1017,12 @@ const WORDS_PL_B2 = [
       "en": "unhappy",
       "de": "unglücklich",
       "es": "infeliz",
-      "pl": "nieszczęśliwy",
       "it": "infelice",
       "pt": "infeliz",
       "ja": "不幸な",
       "zh": "不幸的",
-      "ru": "несчастный"
+      "ru": "несчастный",
+      "fr": "malheureux"
     },
     "examples": [],
     "meta": {}
@@ -1042,12 +1041,12 @@ const WORDS_PL_B2 = [
       "en": "out",
       "de": "das Aus",
       "es": "el fuera",
-      "pl": "aut",
       "it": "il fuori",
       "pt": "o fora",
       "ja": "アウト",
       "zh": "出界",
-      "ru": "аут"
+      "ru": "аут",
+      "fr": "dehors"
     },
     "examples": [],
     "meta": {},
@@ -1068,12 +1067,12 @@ const WORDS_PL_B2 = [
       "en": "cruel",
       "de": "grausam",
       "es": "cruel",
-      "pl": "okrutny",
       "it": "crudele",
       "pt": "cruel",
       "ja": "残酷な",
       "zh": "残酷的",
-      "ru": "жестокий"
+      "ru": "жестокий",
+      "fr": "cruel"
     },
     "examples": [],
     "meta": {}
@@ -1092,12 +1091,12 @@ const WORDS_PL_B2 = [
       "en": "magical",
       "de": "magisch",
       "es": "mágico",
-      "pl": "magiczny",
       "it": "magico",
       "pt": "mágico",
       "ja": "魔法の",
       "zh": "神奇的",
-      "ru": "магический"
+      "ru": "магический",
+      "fr": "magique"
     },
     "examples": [],
     "meta": {}
@@ -1116,12 +1115,12 @@ const WORDS_PL_B2 = [
       "en": "putty",
       "de": "der Kitt",
       "es": "la masilla",
-      "pl": "kit",
       "it": "lo stucco",
       "pt": "a massa",
       "ja": "パテ",
       "zh": "油灰",
-      "ru": "замазка"
+      "ru": "замазка",
+      "fr": "mastic"
     },
     "examples": [],
     "meta": {},
@@ -1143,12 +1142,12 @@ const WORDS_PL_B2 = [
       "en": "yuan",
       "de": "der Yuan",
       "es": "el yuan",
-      "pl": "juan",
       "it": "lo yuan",
       "pt": "o yuan",
       "ja": "元",
       "zh": "元",
-      "ru": "юань"
+      "ru": "юань",
+      "fr": "yuan"
     },
     "examples": [],
     "meta": {},
@@ -1169,12 +1168,12 @@ const WORDS_PL_B2 = [
       "en": "board of directors",
       "de": "der Vorstand",
       "es": "la junta directiva",
-      "pl": "zarząd",
       "it": "il consiglio di amministrazione",
       "pt": "o conselho de administração",
       "ja": "理事会",
       "zh": "董事会",
-      "ru": "правление"
+      "ru": "правление",
+      "fr": "conseil d'administration"
     },
     "examples": [],
     "meta": {},
@@ -1195,12 +1194,12 @@ const WORDS_PL_B2 = [
       "en": "champagne",
       "de": "der Champagner",
       "es": "el champán",
-      "pl": "szampan",
       "it": "lo champagne",
       "pt": "o champanhe",
       "ja": "シャンパン",
       "zh": "香槟",
-      "ru": "шампанское"
+      "ru": "шампанское",
+      "fr": "champagne"
     },
     "examples": [],
     "meta": {},
@@ -1221,12 +1220,12 @@ const WORDS_PL_B2 = [
       "en": "lecture",
       "de": "die Vorlesung",
       "es": "la conferencia",
-      "pl": "wykład",
       "it": "la lezione",
       "pt": "a palestra",
       "ja": "講義",
       "zh": "讲座",
-      "ru": "лекция"
+      "ru": "лекция",
+      "fr": "conférence"
     },
     "examples": [],
     "meta": {},
@@ -1247,12 +1246,12 @@ const WORDS_PL_B2 = [
       "en": "description",
       "de": "die Beschreibung",
       "es": "la descripción",
-      "pl": "opis",
       "it": "la descrizione",
       "pt": "a descrição",
       "ja": "説明",
       "zh": "描述",
-      "ru": "описание"
+      "ru": "описание",
+      "fr": "description"
     },
     "examples": [],
     "meta": {},
@@ -1274,12 +1273,12 @@ const WORDS_PL_B2 = [
       "en": "fever",
       "de": "das Fieber",
       "es": "la fiebre",
-      "pl": "gorączka",
       "it": "la febbre",
       "pt": "a febre",
       "ja": "熱",
       "zh": "发烧",
-      "ru": "лихорадка"
+      "ru": "лихорадка",
+      "fr": "fièvre"
     },
     "examples": [],
     "meta": {},
@@ -1301,12 +1300,12 @@ const WORDS_PL_B2 = [
       "en": "use",
       "de": "die Nutzung",
       "es": "el uso",
-      "pl": "użycie",
       "it": "l'uso",
       "pt": "o uso",
       "ja": "使用",
       "zh": "使用",
-      "ru": "использование"
+      "ru": "использование",
+      "fr": "usage"
     },
     "examples": [],
     "meta": {},
@@ -1329,12 +1328,12 @@ const WORDS_PL_B2 = [
       "en": "build",
       "de": "bauen",
       "es": "construir",
-      "pl": "budować",
       "it": "costruire",
       "pt": "construir",
       "ja": "建設する",
       "zh": "建造",
-      "ru": "строить"
+      "ru": "строить",
+      "fr": "construire"
     },
     "examples": [],
     "meta": {},
@@ -1357,12 +1356,12 @@ const WORDS_PL_B2 = [
       "en": "chain",
       "de": "die Kette",
       "es": "la cadena",
-      "pl": "łańcuch",
       "it": "la catena",
       "pt": "a corrente",
       "ja": "鎖",
       "zh": "链",
-      "ru": "цепь"
+      "ru": "цепь",
+      "fr": "chaîne"
     },
     "examples": [],
     "meta": {},
@@ -1384,12 +1383,12 @@ const WORDS_PL_B2 = [
       "en": "march",
       "de": "der Marsch",
       "es": "la marcha",
-      "pl": "marsz",
       "it": "la marcia",
       "pt": "a marcha",
       "ja": "行進",
       "zh": "行军",
-      "ru": "марш"
+      "ru": "марш",
+      "fr": "marche"
     },
     "examples": [],
     "meta": {},
@@ -1410,12 +1409,12 @@ const WORDS_PL_B2 = [
       "en": "antidote",
       "de": "das Gegenmittel",
       "es": "el antídoto",
-      "pl": "antidotum",
       "it": "l'antidoto",
       "pt": "o antídoto",
       "ja": "解毒剤",
       "zh": "解毒剂",
-      "ru": "противоядие"
+      "ru": "противоядие",
+      "fr": "antidote"
     },
     "examples": [],
     "meta": {},
@@ -1437,12 +1436,12 @@ const WORDS_PL_B2 = [
       "en": "additional",
       "de": "zusätzlich",
       "es": "adicional",
-      "pl": "dodatkowy",
       "it": "aggiuntivo",
       "pt": "adicional",
       "ja": "追加の",
       "zh": "额外的",
-      "ru": "дополнительный"
+      "ru": "дополнительный",
+      "fr": "supplémentaire"
     },
     "examples": [],
     "meta": {}
@@ -1462,12 +1461,12 @@ const WORDS_PL_B2 = [
       "en": "dances",
       "de": "die Tänze",
       "es": "los bailes",
-      "pl": "tańce",
       "it": "i balli",
       "pt": "as danças",
       "ja": "ダンス",
       "zh": "舞蹈",
-      "ru": "танцы"
+      "ru": "танцы",
+      "fr": "danses"
     },
     "examples": [],
     "meta": {},
@@ -1489,12 +1488,12 @@ const WORDS_PL_B2 = [
       "en": "environment",
       "de": "die Umwelt",
       "es": "el medio ambiente",
-      "pl": "środowisko",
       "it": "l'ambiente",
       "pt": "o ambiente",
       "ja": "環境",
       "zh": "环境",
-      "ru": "окружающая среда"
+      "ru": "окружающая среда",
+      "fr": "environnement"
     },
     "examples": [],
     "meta": {},
@@ -1515,12 +1514,12 @@ const WORDS_PL_B2 = [
       "en": "bipolar disorder",
       "de": "die bipolare Störung",
       "es": "el trastorno bipolar",
-      "pl": "chad",
       "it": "il disturbo bipolare",
       "pt": "o transtorno bipolar",
       "ja": "双極性障害",
       "zh": "双相情感障碍",
-      "ru": "биполярное расстройство"
+      "ru": "биполярное расстройство",
+      "fr": "trouble bipolaire"
     },
     "examples": [],
     "meta": {},
@@ -1542,12 +1541,12 @@ const WORDS_PL_B2 = [
       "en": "generation",
       "de": "die Generation",
       "es": "la generación",
-      "pl": "pokolenie",
       "it": "la generazione",
       "pt": "a geração",
       "ja": "世代",
       "zh": "代",
-      "ru": "поколение"
+      "ru": "поколение",
+      "fr": "génération"
     },
     "examples": [],
     "meta": {},
@@ -1569,12 +1568,12 @@ const WORDS_PL_B2 = [
       "en": "take out",
       "de": "herausnehmen",
       "es": "sacar",
-      "pl": "wyjąć",
       "it": "estrarre",
       "pt": "tirar",
       "ja": "取り出す",
       "zh": "取出",
-      "ru": "вынуть"
+      "ru": "вынуть",
+      "fr": "sortir"
     },
     "examples": [],
     "meta": {},
@@ -1597,12 +1596,12 @@ const WORDS_PL_B2 = [
       "en": "Saturday",
       "de": "der Samstag",
       "es": "el sábado",
-      "pl": "sobota",
       "it": "il sabato",
       "pt": "o sábado",
       "ja": "土曜日",
       "zh": "星期六",
-      "ru": "суббота"
+      "ru": "суббота",
+      "fr": "samedi"
     },
     "examples": [],
     "meta": {},
@@ -1623,12 +1622,12 @@ const WORDS_PL_B2 = [
       "en": "peasant",
       "de": "der Bauer",
       "es": "el campesino",
-      "pl": "bauer",
       "it": "il contadino",
       "pt": "o camponês",
       "ja": "農民",
       "zh": "农民",
-      "ru": "крестьянин"
+      "ru": "крестьянин",
+      "fr": "paysan"
     },
     "examples": [],
     "meta": {},
@@ -1649,12 +1648,12 @@ const WORDS_PL_B2 = [
       "en": "aluminum",
       "de": "das Aluminium",
       "es": "el aluminio",
-      "pl": "glin",
       "it": "l'alluminio",
       "pt": "o alumínio",
       "ja": "アルミニウム",
       "zh": "铝",
-      "ru": "алюминий"
+      "ru": "алюминий",
+      "fr": "aluminium"
     },
     "examples": [],
     "meta": {},
@@ -1676,12 +1675,12 @@ const WORDS_PL_B2 = [
       "en": "valuable",
       "de": "wertvoll",
       "es": "valioso",
-      "pl": "cenny",
       "it": "prezioso",
       "pt": "valioso",
       "ja": "貴重な",
       "zh": "珍贵的",
-      "ru": "ценный"
+      "ru": "ценный",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {}
@@ -1700,12 +1699,12 @@ const WORDS_PL_B2 = [
       "en": "wake-up call",
       "de": "der Weckruf",
       "es": "la llamada de atención",
-      "pl": "pobudka",
       "it": "la sveglia",
       "pt": "o toque de despertar",
       "ja": "起床ラッパ",
       "zh": "叫醒",
-      "ru": "побудка"
+      "ru": "побудка",
+      "fr": "réveil"
     },
     "examples": [],
     "meta": {},
@@ -1727,12 +1726,12 @@ const WORDS_PL_B2 = [
       "en": "custom",
       "de": "der Brauch",
       "es": "la costumbre",
-      "pl": "zwyczaj",
       "it": "l'usanza",
       "pt": "o costume",
       "ja": "習慣",
       "zh": "习俗",
-      "ru": "обычай"
+      "ru": "обычай",
+      "fr": "coutume"
     },
     "examples": [],
     "meta": {},
@@ -1753,12 +1752,12 @@ const WORDS_PL_B2 = [
       "en": "poor thing",
       "de": "das arme Ding",
       "es": "la pobre criatura",
-      "pl": "biedactwo",
       "it": "il poverino",
       "pt": "o coitadinho",
       "ja": "かわいそうな人",
       "zh": "可怜的人",
-      "ru": "бедняжка"
+      "ru": "бедняжка",
+      "fr": "pauvre"
     },
     "examples": [],
     "meta": {},
@@ -1779,12 +1778,12 @@ const WORDS_PL_B2 = [
       "en": "fun",
       "de": "der Spaß",
       "es": "la diversión",
-      "pl": "ubaw",
       "it": "il divertimento",
       "pt": "a diversão",
       "ja": "楽しみ",
       "zh": "乐趣",
-      "ru": "веселье"
+      "ru": "веселье",
+      "fr": "amusement"
     },
     "examples": [],
     "meta": {},
@@ -1805,12 +1804,12 @@ const WORDS_PL_B2 = [
       "en": "diary",
       "de": "das Tagebuch",
       "es": "el diario",
-      "pl": "pamiętnik",
       "it": "il diario",
       "pt": "o diário",
       "ja": "日記",
       "zh": "日记",
-      "ru": "дневник"
+      "ru": "дневник",
+      "fr": "journal"
     },
     "examples": [],
     "meta": {},
@@ -1831,12 +1830,12 @@ const WORDS_PL_B2 = [
       "en": "radiation",
       "de": "die Strahlung",
       "es": "la radiación",
-      "pl": "promieniowanie",
       "it": "la radiazione",
       "pt": "a radiação",
       "ja": "放射線",
       "zh": "辐射",
-      "ru": "излучение"
+      "ru": "излучение",
+      "fr": "rayonnement"
     },
     "examples": [],
     "meta": {},
@@ -1858,12 +1857,12 @@ const WORDS_PL_B2 = [
       "en": "eliminate",
       "de": "eliminieren",
       "es": "eliminar",
-      "pl": "wyeliminować",
       "it": "eliminare",
       "pt": "eliminar",
       "ja": "排除する",
       "zh": "消除",
-      "ru": "устранить"
+      "ru": "устранить",
+      "fr": "éliminer"
     },
     "examples": [],
     "meta": {},
@@ -1885,12 +1884,12 @@ const WORDS_PL_B2 = [
       "en": "Yale lock",
       "de": "das Yale-Schloss",
       "es": "la cerradura Yale",
-      "pl": "yale",
       "it": "la serratura Yale",
       "pt": "a fechadura Yale",
       "ja": "エール錠",
       "zh": "耶鲁锁",
-      "ru": "йельский замок"
+      "ru": "йельский замок",
+      "fr": "serrure Yale"
     },
     "examples": [],
     "meta": {},
@@ -1912,12 +1911,12 @@ const WORDS_PL_B2 = [
       "en": "message",
       "de": "die Botschaft",
       "es": "el mensaje",
-      "pl": "przekaz",
       "it": "il messaggio",
       "pt": "a mensagem",
       "ja": "メッセージ",
       "zh": "信息",
-      "ru": "сообщение"
+      "ru": "сообщение",
+      "fr": "message"
     },
     "examples": [],
     "meta": {},
@@ -1939,12 +1938,12 @@ const WORDS_PL_B2 = [
       "en": "to interject",
       "de": "unterbrechen",
       "es": "interponer",
-      "pl": "wtrącać",
       "it": "interporre",
       "pt": "interpor",
       "ja": "割り込む",
       "zh": "插话",
-      "ru": "вставлять"
+      "ru": "вставлять",
+      "fr": "intervenir"
     },
     "examples": [],
     "meta": {},
@@ -1967,12 +1966,12 @@ const WORDS_PL_B2 = [
       "en": "activity",
       "de": "die Tätigkeit",
       "es": "la actividad",
-      "pl": "działalność",
       "it": "l'attività",
       "pt": "a atividade",
       "ja": "活動",
       "zh": "活动",
-      "ru": "деятельность"
+      "ru": "деятельность",
+      "fr": "activité"
     },
     "examples": [],
     "meta": {},
@@ -1994,12 +1993,12 @@ const WORDS_PL_B2 = [
       "en": "pride",
       "de": "der Stolz",
       "es": "el orgullo",
-      "pl": "duma",
       "it": "l'orgoglio",
       "pt": "o orgulho",
       "ja": "誇り",
       "zh": "骄傲",
-      "ru": "гордость"
+      "ru": "гордость",
+      "fr": "fierté"
     },
     "examples": [],
     "meta": {},
@@ -2021,12 +2020,12 @@ const WORDS_PL_B2 = [
       "en": "picnic",
       "de": "das Picknick",
       "es": "el picnic",
-      "pl": "piknik",
       "it": "il picnic",
       "pt": "o piquenique",
       "ja": "ピクニック",
       "zh": "野餐",
-      "ru": "пикник"
+      "ru": "пикник",
+      "fr": "pique-nique"
     },
     "examples": [],
     "meta": {},
@@ -2048,12 +2047,12 @@ const WORDS_PL_B2 = [
       "en": "plate",
       "de": "der Teller",
       "es": "el plato",
-      "pl": "talerz",
       "it": "il piatto",
       "pt": "o prato",
       "ja": "皿",
       "zh": "盘子",
-      "ru": "тарелка"
+      "ru": "тарелка",
+      "fr": "assiette"
     },
     "examples": [],
     "meta": {},
@@ -2075,12 +2074,12 @@ const WORDS_PL_B2 = [
       "en": "rice",
       "de": "der Reis",
       "es": "el arroz",
-      "pl": "ryż",
       "it": "il riso",
       "pt": "o arroz",
       "ja": "米",
       "zh": "米饭",
-      "ru": "рис"
+      "ru": "рис",
+      "fr": "riz"
     },
     "examples": [],
     "meta": {},
@@ -2101,12 +2100,12 @@ const WORDS_PL_B2 = [
       "en": "rescue",
       "de": "die Rettung",
       "es": "el rescate",
-      "pl": "ratunek",
       "it": "il salvataggio",
       "pt": "o resgate",
       "ja": "救助",
       "zh": "救援",
-      "ru": "спасение"
+      "ru": "спасение",
+      "fr": "sauvetage"
     },
     "examples": [],
     "meta": {},
@@ -2127,12 +2126,12 @@ const WORDS_PL_B2 = [
       "en": "pulse",
       "de": "der Puls",
       "es": "el pulso",
-      "pl": "tętno",
       "it": "il polso",
       "pt": "o pulso",
       "ja": "脈拍",
       "zh": "脉搏",
-      "ru": "пульс"
+      "ru": "пульс",
+      "fr": "pouls"
     },
     "examples": [],
     "meta": {},
@@ -2153,12 +2152,12 @@ const WORDS_PL_B2 = [
       "en": "porter",
       "de": "das Porter",
       "es": "la cerveza porter",
-      "pl": "porter",
       "it": "la birra porter",
       "pt": "a cerveja porter",
       "ja": "ポーター",
       "zh": "波特啤酒",
-      "ru": "портер"
+      "ru": "портер",
+      "fr": "porter"
     },
     "examples": [],
     "meta": {},
@@ -2179,12 +2178,12 @@ const WORDS_PL_B2 = [
       "en": "fu",
       "de": "das Fu",
       "es": "el fu",
-      "pl": "fu",
       "it": "il fu",
       "pt": "o fu",
       "ja": "賦",
       "zh": "赋",
-      "ru": "фу"
+      "ru": "фу",
+      "fr": "pouah"
     },
     "examples": [],
     "meta": {},
@@ -2206,12 +2205,12 @@ const WORDS_PL_B2 = [
       "en": "backpack",
       "de": "der Rucksack",
       "es": "la mochila",
-      "pl": "plecak",
       "it": "lo zaino",
       "pt": "a mochila",
       "ja": "リュックサック",
       "zh": "背包",
-      "ru": "рюкзак"
+      "ru": "рюкзак",
+      "fr": "sac à dos"
     },
     "examples": [],
     "meta": {},
@@ -2233,12 +2232,12 @@ const WORDS_PL_B2 = [
       "en": "team",
       "de": "das Team",
       "es": "el equipo",
-      "pl": "team",
       "it": "la squadra",
       "pt": "a equipe",
       "ja": "チーム",
       "zh": "团队",
-      "ru": "команда"
+      "ru": "команда",
+      "fr": "équipe"
     },
     "examples": [],
     "meta": {},
@@ -2259,12 +2258,12 @@ const WORDS_PL_B2 = [
       "en": "shipside",
       "de": "die Bordwand",
       "es": "el costado",
-      "pl": "burt",
       "it": "il bordo",
       "pt": "o bordo",
       "ja": "船側",
       "zh": "船舷",
-      "ru": "борт"
+      "ru": "борт",
+      "fr": "bord"
     },
     "examples": [],
     "meta": {},
@@ -2285,12 +2284,12 @@ const WORDS_PL_B2 = [
       "en": "end",
       "de": "das Ende",
       "es": "el fin",
-      "pl": "kres",
       "it": "la fine",
       "pt": "o fim",
       "ja": "終わり",
       "zh": "终点",
-      "ru": "конец"
+      "ru": "конец",
+      "fr": "fin"
     },
     "examples": [],
     "meta": {},
@@ -2312,12 +2311,12 @@ const WORDS_PL_B2 = [
       "en": "popular",
       "de": "beliebt",
       "es": "popular",
-      "pl": "popularny",
       "it": "popolare",
       "pt": "popular",
       "ja": "人気のある",
       "zh": "受欢迎的",
-      "ru": "популярный"
+      "ru": "популярный",
+      "fr": "populaire"
     },
     "examples": [],
     "meta": {}
@@ -2336,12 +2335,12 @@ const WORDS_PL_B2 = [
       "en": "abomination",
       "de": "der Abscheu",
       "es": "la abominación",
-      "pl": "ohyda",
       "it": "l'abominio",
       "pt": "a abominação",
       "ja": "嫌悪",
       "zh": "憎恶",
-      "ru": "мерзость"
+      "ru": "мерзость",
+      "fr": "abomination"
     },
     "examples": [],
     "meta": {},
@@ -2363,12 +2362,12 @@ const WORDS_PL_B2 = [
       "en": "blond",
       "de": "blond",
       "es": "rubio",
-      "pl": "blond",
       "it": "biondo",
       "pt": "loiro",
       "ja": "金髪の",
       "zh": "金色的",
-      "ru": "светлый"
+      "ru": "светлый",
+      "fr": "blond"
     },
     "examples": [],
     "meta": {}
@@ -2388,12 +2387,12 @@ const WORDS_PL_B2 = [
       "en": "blond",
       "de": "das Blond",
       "es": "el rubio",
-      "pl": "blond",
       "it": "il biondo",
       "pt": "o loiro",
       "ja": "金髪",
       "zh": "金色",
-      "ru": "блонд"
+      "ru": "блонд",
+      "fr": "blond"
     },
     "examples": [],
     "meta": {},
@@ -2415,12 +2414,12 @@ const WORDS_PL_B2 = [
       "en": "to lower",
       "de": "senken",
       "es": "bajar",
-      "pl": "opuszczać",
       "it": "abbassare",
       "pt": "baixar",
       "ja": "下げる",
       "zh": "降低",
-      "ru": "опускать"
+      "ru": "опускать",
+      "fr": "abaisser"
     },
     "examples": [],
     "meta": {},
@@ -2443,12 +2442,12 @@ const WORDS_PL_B2 = [
       "en": "to take effect",
       "de": "wirken",
       "es": "surtir efecto",
-      "pl": "zadziałać",
       "it": "fare effetto",
       "pt": "fazer efeito",
       "ja": "作用する",
       "zh": "起作用",
-      "ru": "подействовать"
+      "ru": "подействовать",
+      "fr": "prendre effet"
     },
     "examples": [],
     "meta": {},
@@ -2471,12 +2470,12 @@ const WORDS_PL_B2 = [
       "en": "soup",
       "de": "die Suppe",
       "es": "la sopa",
-      "pl": "zupa",
       "it": "la zuppa",
       "pt": "a sopa",
       "ja": "スープ",
       "zh": "汤",
-      "ru": "суп"
+      "ru": "суп",
+      "fr": "soupe"
     },
     "examples": [],
     "meta": {},
@@ -2497,12 +2496,12 @@ const WORDS_PL_B2 = [
       "en": "to beat",
       "de": "schlagen",
       "es": "golpear",
-      "pl": "pobić",
       "it": "picchiare",
       "pt": "bater",
       "ja": "殴る",
       "zh": "殴打",
-      "ru": "избить"
+      "ru": "избить",
+      "fr": "battre"
     },
     "examples": [],
     "meta": {},
@@ -2525,12 +2524,12 @@ const WORDS_PL_B2 = [
       "en": "corpse",
       "de": "der Leichnam",
       "es": "el cadáver",
-      "pl": "trup",
       "it": "il cadavere",
       "pt": "o cadáver",
       "ja": "死体",
       "zh": "尸体",
-      "ru": "труп"
+      "ru": "труп",
+      "fr": "cadavre"
     },
     "examples": [],
     "meta": {},
@@ -2552,12 +2551,12 @@ const WORDS_PL_B2 = [
       "en": "inheritance",
       "de": "das Erbe",
       "es": "la herencia",
-      "pl": "spadek",
       "it": "l'eredità",
       "pt": "a herança",
       "ja": "遺産",
       "zh": "遗产",
-      "ru": "наследство"
+      "ru": "наследство",
+      "fr": "héritage"
     },
     "examples": [],
     "meta": {},
@@ -2578,12 +2577,12 @@ const WORDS_PL_B2 = [
       "en": "esker",
       "de": "der Os",
       "es": "el esker",
-      "pl": "oz",
       "it": "l'esker",
       "pt": "o esker",
       "ja": "エスカー",
       "zh": "蛇形丘",
-      "ru": "озы"
+      "ru": "озы",
+      "fr": "esker"
     },
     "examples": [],
     "meta": {},
@@ -2605,12 +2604,12 @@ const WORDS_PL_B2 = [
       "en": "actor",
       "de": "der Schauspieler",
       "es": "el actor",
-      "pl": "aktor",
       "it": "l'attore",
       "pt": "o ator",
       "ja": "俳優",
       "zh": "演员",
-      "ru": "актёр"
+      "ru": "актёр",
+      "fr": "acteur"
     },
     "examples": [],
     "meta": {},
@@ -2631,12 +2630,12 @@ const WORDS_PL_B2 = [
       "en": "gambling",
       "de": "das Glücksspiel",
       "es": "el juego de azar",
-      "pl": "hazard",
       "it": "il gioco d'azzardo",
       "pt": "o jogo de azar",
       "ja": "ギャンブル",
       "zh": "赌博",
-      "ru": "азартная игра"
+      "ru": "азартная игра",
+      "fr": "jeu de hasard"
     },
     "examples": [],
     "meta": {},
@@ -2658,12 +2657,12 @@ const WORDS_PL_B2 = [
       "en": "male",
       "de": "männlich",
       "es": "masculino",
-      "pl": "męski",
       "it": "maschile",
       "pt": "masculino",
       "ja": "男の",
       "zh": "男性的",
-      "ru": "мужской"
+      "ru": "мужской",
+      "fr": "masculin"
     },
     "examples": [],
     "meta": {}
@@ -2682,12 +2681,12 @@ const WORDS_PL_B2 = [
       "en": "analects",
       "de": "die Anekdotensammlung",
       "es": "las anécdotas",
-      "pl": "ana",
       "it": "gli aneddoti",
       "pt": "os anais",
       "ja": "語録",
       "zh": "语录",
-      "ru": "ана"
+      "ru": "ана",
+      "fr": "analectes"
     },
     "examples": [],
     "meta": {},
@@ -2709,12 +2708,12 @@ const WORDS_PL_B2 = [
       "en": "complain",
       "de": "klagen",
       "es": "quejarse",
-      "pl": "narzekać",
       "it": "lamentarsi",
       "pt": "reclamar",
       "ja": "不平を言う",
       "zh": "抱怨",
-      "ru": "жаловаться"
+      "ru": "жаловаться",
+      "fr": "se plaindre"
     },
     "examples": [],
     "meta": {},
@@ -2736,12 +2735,12 @@ const WORDS_PL_B2 = [
       "en": "generator",
       "de": "der Generator",
       "es": "el generador",
-      "pl": "generator",
       "it": "il generatore",
       "pt": "o gerador",
       "ja": "発電機",
       "zh": "发电机",
-      "ru": "генератор"
+      "ru": "генератор",
+      "fr": "générateur"
     },
     "examples": [],
     "meta": {},
@@ -2762,12 +2761,12 @@ const WORDS_PL_B2 = [
       "en": "brat",
       "de": "der Bengel",
       "es": "el mocoso",
-      "pl": "gnojek",
       "it": "il moccioso",
       "pt": "o pirralho",
       "ja": "小僧",
       "zh": "小屁孩",
-      "ru": "сопляк"
+      "ru": "сопляк",
+      "fr": "sale gosse"
     },
     "examples": [],
     "meta": {},
@@ -2789,12 +2788,12 @@ const WORDS_PL_B2 = [
       "en": "speech",
       "de": "die Rede",
       "es": "el discurso",
-      "pl": "przemówienie",
       "it": "il discorso",
       "pt": "o discurso",
       "ja": "演説",
       "zh": "演讲",
-      "ru": "речь"
+      "ru": "речь",
+      "fr": "discours"
     },
     "examples": [],
     "meta": {},
@@ -2816,12 +2815,12 @@ const WORDS_PL_B2 = [
       "en": "proceed",
       "de": "vorgehen",
       "es": "proceder",
-      "pl": "postępować",
       "it": "procedere",
       "pt": "proceder",
       "ja": "行動する",
       "zh": "行动",
-      "ru": "поступать"
+      "ru": "поступать",
+      "fr": "procéder"
     },
     "examples": [],
     "meta": {},
@@ -2844,12 +2843,12 @@ const WORDS_PL_B2 = [
       "en": "artist",
       "de": "der Künstler",
       "es": "el artista",
-      "pl": "artysta",
       "it": "l'artista",
       "pt": "o artista",
       "ja": "芸術家",
       "zh": "艺术家",
-      "ru": "художник"
+      "ru": "художник",
+      "fr": "artiste"
     },
     "examples": [],
     "meta": {},
@@ -2871,12 +2870,12 @@ const WORDS_PL_B2 = [
       "en": "natural",
       "de": "natürlich",
       "es": "natural",
-      "pl": "naturalny",
       "it": "naturale",
       "pt": "natural",
       "ja": "自然の",
       "zh": "自然的",
-      "ru": "естественный"
+      "ru": "естественный",
+      "fr": "naturel"
     },
     "examples": [],
     "meta": {}
@@ -2896,12 +2895,12 @@ const WORDS_PL_B2 = [
       "en": "useless",
       "de": "nutzlos",
       "es": "inútil",
-      "pl": "bezużyteczny",
       "it": "inutile",
       "pt": "inútil",
       "ja": "無駄な",
       "zh": "无用的",
-      "ru": "бесполезный"
+      "ru": "бесполезный",
+      "fr": "inutile"
     },
     "examples": [],
     "meta": {}
@@ -2920,12 +2919,12 @@ const WORDS_PL_B2 = [
       "en": "circus",
       "de": "der Zirkus",
       "es": "el circo",
-      "pl": "cyrk",
       "it": "il circo",
       "pt": "o circo",
       "ja": "サーカス",
       "zh": "马戏团",
-      "ru": "цирк"
+      "ru": "цирк",
+      "fr": "cirque"
     },
     "examples": [],
     "meta": {},
@@ -2947,12 +2946,12 @@ const WORDS_PL_B2 = [
       "en": "further",
       "de": "weitere",
       "es": "ulterior",
-      "pl": "dalszy",
       "it": "ulteriore",
       "pt": "posterior",
       "ja": "さらなる",
       "zh": "进一步的",
-      "ru": "дальнейший"
+      "ru": "дальнейший",
+      "fr": "plus loin"
     },
     "examples": [],
     "meta": {}
@@ -2973,12 +2972,12 @@ const WORDS_PL_B2 = [
       "en": "stage",
       "de": "die Etappe",
       "es": "la etapa",
-      "pl": "etap",
       "it": "la tappa",
       "pt": "a etapa",
       "ja": "段階",
       "zh": "阶段",
-      "ru": "этап"
+      "ru": "этап",
+      "fr": "étape"
     },
     "examples": [],
     "meta": {},
@@ -3000,12 +2999,12 @@ const WORDS_PL_B2 = [
       "en": "record",
       "de": "aufnehmen",
       "es": "grabar",
-      "pl": "nagrać",
       "it": "registrare",
       "pt": "gravar",
       "ja": "録音する",
       "zh": "录制",
-      "ru": "записать"
+      "ru": "записать",
+      "fr": "enregistrer"
     },
     "examples": [],
     "meta": {},
@@ -3028,12 +3027,12 @@ const WORDS_PL_B2 = [
       "en": "Italian",
       "de": "der Italiener",
       "es": "el italiano",
-      "pl": "Włoch",
       "it": "l'italiano",
       "pt": "o italiano",
       "ja": "イタリア人",
       "zh": "意大利人",
-      "ru": "итальянец"
+      "ru": "итальянец",
+      "fr": "Italien"
     },
     "examples": [],
     "meta": {},
@@ -3056,12 +3055,12 @@ const WORDS_PL_B2 = [
       "en": "service",
       "de": "der Service",
       "es": "el servicio",
-      "pl": "obsługa",
       "it": "il servizio",
       "pt": "o serviço",
       "ja": "サービス",
       "zh": "服务",
-      "ru": "обслуживание"
+      "ru": "обслуживание",
+      "fr": "service"
     },
     "examples": [],
     "meta": {},
@@ -3083,12 +3082,12 @@ const WORDS_PL_B2 = [
       "en": "envy",
       "de": "der Neid",
       "es": "la envidia",
-      "pl": "zazdrość",
       "it": "l'invidia",
       "pt": "a inveja",
       "ja": "嫉妬",
       "zh": "嫉妒",
-      "ru": "зависть"
+      "ru": "зависть",
+      "fr": "envie"
     },
     "examples": [],
     "meta": {},
@@ -3110,12 +3109,12 @@ const WORDS_PL_B2 = [
       "en": "respect",
       "de": "respektieren",
       "es": "respetar",
-      "pl": "szanować",
       "it": "rispettare",
       "pt": "respeitar",
       "ja": "尊敬する",
       "zh": "尊重",
-      "ru": "уважать"
+      "ru": "уважать",
+      "fr": "respect"
     },
     "examples": [],
     "meta": {},
@@ -3138,12 +3137,12 @@ const WORDS_PL_B2 = [
       "en": "secretary",
       "de": "die Sekretärin",
       "es": "la secretaria",
-      "pl": "sekretarka",
       "it": "la segretaria",
       "pt": "a secretária",
       "ja": "秘書",
       "zh": "秘书",
-      "ru": "секретарь"
+      "ru": "секретарь",
+      "fr": "secrétaire"
     },
     "examples": [],
     "meta": {},
@@ -3164,12 +3163,12 @@ const WORDS_PL_B2 = [
       "en": "big money",
       "de": "das große Geld",
       "es": "el dinero gordo",
-      "pl": "grube",
       "it": "i soldi grossi",
       "pt": "o dinheiro grande",
       "ja": "大金",
       "zh": "大笔钱",
-      "ru": "большие деньги"
+      "ru": "большие деньги",
+      "fr": "beaucoup d'argent"
     },
     "examples": [],
     "meta": {},
@@ -3191,12 +3190,12 @@ const WORDS_PL_B2 = [
       "en": "hook",
       "de": "der Haken",
       "es": "el gancho",
-      "pl": "haczyk",
       "it": "il gancio",
       "pt": "o gancho",
       "ja": "フック",
       "zh": "钩子",
-      "ru": "крючок"
+      "ru": "крючок",
+      "fr": "crochet"
     },
     "examples": [],
     "meta": {},
@@ -3217,12 +3216,12 @@ const WORDS_PL_B2 = [
       "en": "buttocks",
       "de": "der Po",
       "es": "el trasero",
-      "pl": "dupka",
       "it": "il sedere",
       "pt": "o bumbum",
       "ja": "お尻",
       "zh": "屁股",
-      "ru": "попка"
+      "ru": "попка",
+      "fr": "fesses"
     },
     "examples": [],
     "meta": {},
@@ -3244,12 +3243,12 @@ const WORDS_PL_B2 = [
       "en": "package",
       "de": "das Paket",
       "es": "el paquete",
-      "pl": "paczka",
       "it": "il pacco",
       "pt": "o pacote",
       "ja": "小包",
       "zh": "包裹",
-      "ru": "посылка"
+      "ru": "посылка",
+      "fr": "colis"
     },
     "examples": [],
     "meta": {},
@@ -3271,12 +3270,12 @@ const WORDS_PL_B2 = [
       "en": "sushi",
       "de": "das Sushi",
       "es": "el sushi",
-      "pl": "sushi",
       "it": "il sushi",
       "pt": "o sushi",
       "ja": "寿司",
       "zh": "寿司",
-      "ru": "суши"
+      "ru": "суши",
+      "fr": "sushi"
     },
     "examples": [],
     "meta": {},
@@ -3298,12 +3297,12 @@ const WORDS_PL_B2 = [
       "en": "to see",
       "de": "sehen",
       "es": "ver",
-      "pl": "ujrzeć",
       "it": "vedere",
       "pt": "ver",
       "ja": "見る",
       "zh": "看",
-      "ru": "увидеть"
+      "ru": "увидеть",
+      "fr": "voir"
     },
     "examples": [],
     "meta": {},
@@ -3326,12 +3325,12 @@ const WORDS_PL_B2 = [
       "en": "ugly",
       "de": "hässlich",
       "es": "feo",
-      "pl": "brzydki",
       "it": "brutto",
       "pt": "feio",
       "ja": "醜い",
       "zh": "丑",
-      "ru": "уродливый"
+      "ru": "уродливый",
+      "fr": "laid"
     },
     "examples": [],
     "meta": {}
@@ -3350,12 +3349,12 @@ const WORDS_PL_B2 = [
       "en": "audience",
       "de": "das Publikum",
       "es": "el público",
-      "pl": "publiczność",
       "it": "il pubblico",
       "pt": "a plateia",
       "ja": "観客",
       "zh": "观众",
-      "ru": "публика"
+      "ru": "публика",
+      "fr": "public"
     },
     "examples": [],
     "meta": {},
@@ -3376,12 +3375,12 @@ const WORDS_PL_B2 = [
       "en": "condolences",
       "de": "das Beileid",
       "es": "las condolencias",
-      "pl": "kondolencje",
       "it": "le condoglianze",
       "pt": "as condolências",
       "ja": "お悔やみ",
       "zh": "慰问",
-      "ru": "соболезнования"
+      "ru": "соболезнования",
+      "fr": "condoléances"
     },
     "examples": [],
     "meta": {},
@@ -3403,12 +3402,12 @@ const WORDS_PL_B2 = [
       "en": "interest",
       "de": "das Interesse",
       "es": "el interés",
-      "pl": "zainteresowanie",
       "it": "l'interesse",
       "pt": "o interesse",
       "ja": "興味",
       "zh": "兴趣",
-      "ru": "интерес"
+      "ru": "интерес",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {},
@@ -3429,12 +3428,12 @@ const WORDS_PL_B2 = [
       "en": "court",
       "de": "der Hof",
       "es": "la corte",
-      "pl": "dwór",
       "it": "la corte",
       "pt": "a corte",
       "ja": "宮廷",
       "zh": "宫廷",
-      "ru": "двор"
+      "ru": "двор",
+      "fr": "cour"
     },
     "examples": [],
     "meta": {},
@@ -3456,12 +3455,12 @@ const WORDS_PL_B2 = [
       "en": "loneliness",
       "de": "die Einsamkeit",
       "es": "la soledad",
-      "pl": "samotność",
       "it": "la solitudine",
       "pt": "a solidão",
       "ja": "孤独",
       "zh": "孤独",
-      "ru": "одиночество"
+      "ru": "одиночество",
+      "fr": "solitude"
     },
     "examples": [],
     "meta": {},
@@ -3482,12 +3481,12 @@ const WORDS_PL_B2 = [
       "en": "organism",
       "de": "der Organismus",
       "es": "el organismo",
-      "pl": "organizm",
       "it": "l'organismo",
       "pt": "o organismo",
       "ja": "生物",
       "zh": "有机体",
-      "ru": "организм"
+      "ru": "организм",
+      "fr": "organisme"
     },
     "examples": [],
     "meta": {},
@@ -3508,12 +3507,12 @@ const WORDS_PL_B2 = [
       "en": "to hunt",
       "de": "jagen",
       "es": "cazar",
-      "pl": "polować",
       "it": "cacciare",
       "pt": "caçar",
       "ja": "狩る",
       "zh": "打猎",
-      "ru": "охотиться"
+      "ru": "охотиться",
+      "fr": "chasser"
     },
     "examples": [],
     "meta": {},
@@ -3536,12 +3535,12 @@ const WORDS_PL_B2 = [
       "en": "nightly",
       "de": "nächtlich",
       "es": "nocturno",
-      "pl": "nocny",
       "it": "notturno",
       "pt": "noturno",
       "ja": "夜の",
       "zh": "夜间的",
-      "ru": "ночной"
+      "ru": "ночной",
+      "fr": "nocturne"
     },
     "examples": [],
     "meta": {}
@@ -3561,12 +3560,12 @@ const WORDS_PL_B2 = [
       "en": "night bus",
       "de": "der Nachtbus",
       "es": "el autobús nocturno",
-      "pl": "nocny",
       "it": "l'autobus notturno",
       "pt": "o ônibus noturno",
       "ja": "夜行バス",
       "zh": "夜班车",
-      "ru": "ночной автобус"
+      "ru": "ночной автобус",
+      "fr": "bus de nuit"
     },
     "examples": [],
     "meta": {},
@@ -3587,12 +3586,12 @@ const WORDS_PL_B2 = [
       "en": "strongman",
       "de": "der Herkules",
       "es": "el Hércules",
-      "pl": "herkules",
       "it": "l'Ercole",
       "pt": "o Hércules",
       "ja": "怪力男",
       "zh": "大力士",
-      "ru": "силач"
+      "ru": "силач",
+      "fr": "homme fort"
     },
     "examples": [],
     "meta": {},
@@ -3614,12 +3613,12 @@ const WORDS_PL_B2 = [
       "en": "childhood",
       "de": "die Kindheit",
       "es": "la infancia",
-      "pl": "dzieciństwo",
       "it": "l'infanzia",
       "pt": "a infância",
       "ja": "子供時代",
       "zh": "童年",
-      "ru": "детство"
+      "ru": "детство",
+      "fr": "enfance"
     },
     "examples": [],
     "meta": {},
@@ -3641,12 +3640,12 @@ const WORDS_PL_B2 = [
       "en": "female teacher",
       "de": "die Lehrerin",
       "es": "la maestra",
-      "pl": "nauczycielka",
       "it": "l'insegnante",
       "pt": "a professora",
       "ja": "女教師",
       "zh": "女老师",
-      "ru": "учительница"
+      "ru": "учительница",
+      "fr": "enseignante"
     },
     "examples": [],
     "meta": {},
@@ -3668,12 +3667,12 @@ const WORDS_PL_B2 = [
       "en": "ferry",
       "de": "die Fähre",
       "es": "el ferry",
-      "pl": "prom",
       "it": "il traghetto",
       "pt": "a balsa",
       "ja": "フェリー",
       "zh": "渡轮",
-      "ru": "паром"
+      "ru": "паром",
+      "fr": "ferry"
     },
     "examples": [],
     "meta": {},
@@ -3695,12 +3694,12 @@ const WORDS_PL_B2 = [
       "en": "command",
       "de": "der Befehl",
       "es": "la orden",
-      "pl": "polecenie",
       "it": "il comando",
       "pt": "o comando",
       "ja": "命令",
       "zh": "命令",
-      "ru": "команда"
+      "ru": "команда",
+      "fr": "ordre"
     },
     "examples": [],
     "meta": {},
@@ -3722,12 +3721,12 @@ const WORDS_PL_B2 = [
       "en": "mouse",
       "de": "die Maus",
       "es": "el ratón",
-      "pl": "mysz",
       "it": "il topo",
       "pt": "o rato",
       "ja": "ネズミ",
       "zh": "老鼠",
-      "ru": "мышь"
+      "ru": "мышь",
+      "fr": "souris"
     },
     "examples": [],
     "meta": {},
@@ -3749,12 +3748,12 @@ const WORDS_PL_B2 = [
       "en": "brave",
       "de": "mutig",
       "es": "valiente",
-      "pl": "dzielny",
       "it": "coraggioso",
       "pt": "corajoso",
       "ja": "勇敢な",
       "zh": "勇敢的",
-      "ru": "храбрый"
+      "ru": "храбрый",
+      "fr": "courageux"
     },
     "examples": [],
     "meta": {}
@@ -3774,12 +3773,12 @@ const WORDS_PL_B2 = [
       "en": "tape",
       "de": "das Band",
       "es": "la cinta",
-      "pl": "taśma",
       "it": "il nastro",
       "pt": "a fita",
       "ja": "テープ",
       "zh": "胶带",
-      "ru": "лента"
+      "ru": "лента",
+      "fr": "ruban adhésif"
     },
     "examples": [],
     "meta": {},
@@ -3801,12 +3800,12 @@ const WORDS_PL_B2 = [
       "en": "adventure",
       "de": "das Abenteuer",
       "es": "la aventura",
-      "pl": "przygoda",
       "it": "l'avventura",
       "pt": "a aventura",
       "ja": "冒険",
       "zh": "冒险",
-      "ru": "приключение"
+      "ru": "приключение",
+      "fr": "aventure"
     },
     "examples": [],
     "meta": {},
@@ -3827,12 +3826,12 @@ const WORDS_PL_B2 = [
       "en": "shock",
       "de": "der Schock",
       "es": "el choque",
-      "pl": "wstrząs",
       "it": "lo shock",
       "pt": "o choque",
       "ja": "衝撃",
       "zh": "冲击",
-      "ru": "шок"
+      "ru": "шок",
+      "fr": "choc"
     },
     "examples": [],
     "meta": {},
@@ -3854,12 +3853,12 @@ const WORDS_PL_B2 = [
       "en": "shelter",
       "de": "die Zuflucht",
       "es": "el refugio",
-      "pl": "schronienie",
       "it": "il rifugio",
       "pt": "o abrigo",
       "ja": "避難所",
       "zh": "避难所",
-      "ru": "убежище"
+      "ru": "убежище",
+      "fr": "abri"
     },
     "examples": [],
     "meta": {},
@@ -3882,12 +3881,12 @@ const WORDS_PL_B2 = [
       "en": "file",
       "de": "die Datei",
       "es": "el archivo",
-      "pl": "plik",
       "it": "il file",
       "pt": "o arquivo",
       "ja": "ファイル",
       "zh": "文件",
-      "ru": "файл"
+      "ru": "файл",
+      "fr": "fichier"
     },
     "examples": [],
     "meta": {},
@@ -3909,12 +3908,12 @@ const WORDS_PL_B2 = [
       "en": "stable",
       "de": "stabil",
       "es": "estable",
-      "pl": "stabilny",
       "it": "stabile",
       "pt": "estável",
       "ja": "安定した",
       "zh": "稳定的",
-      "ru": "стабильный"
+      "ru": "стабильный",
+      "fr": "stable"
     },
     "examples": [],
     "meta": {}
@@ -3934,12 +3933,12 @@ const WORDS_PL_B2 = [
       "en": "blanket",
       "de": "die Decke",
       "es": "la manta",
-      "pl": "koc",
       "it": "la coperta",
       "pt": "o cobertor",
       "ja": "毛布",
       "zh": "毯子",
-      "ru": "одеяло"
+      "ru": "одеяло",
+      "fr": "couverture"
     },
     "examples": [],
     "meta": {},
@@ -3961,12 +3960,12 @@ const WORDS_PL_B2 = [
       "en": "room",
       "de": "der Raum",
       "es": "la habitación",
-      "pl": "pomieszczenie",
       "it": "la stanza",
       "pt": "o cômodo",
       "ja": "部屋",
       "zh": "房间",
-      "ru": "помещение"
+      "ru": "помещение",
+      "fr": "pièce"
     },
     "examples": [],
     "meta": {},
@@ -3988,12 +3987,12 @@ const WORDS_PL_B2 = [
       "en": "sweets",
       "de": "die Süßigkeiten",
       "es": "los dulces",
-      "pl": "słodycze",
       "it": "i dolci",
       "pt": "os doces",
       "ja": "お菓子",
       "zh": "糖果",
-      "ru": "сладости"
+      "ru": "сладости",
+      "fr": "bonbons"
     },
     "examples": [],
     "meta": {},
@@ -4016,12 +4015,12 @@ const WORDS_PL_B2 = [
       "en": "communication",
       "de": "die Kommunikation",
       "es": "la comunicación",
-      "pl": "łączność",
       "it": "la comunicazione",
       "pt": "a comunicação",
       "ja": "通信",
       "zh": "通讯",
-      "ru": "связь"
+      "ru": "связь",
+      "fr": "communication"
     },
     "examples": [],
     "meta": {},
@@ -4042,12 +4041,12 @@ const WORDS_PL_B2 = [
       "en": "traitor",
       "de": "der Verräter",
       "es": "el traidor",
-      "pl": "zdrajca",
       "it": "il traditore",
       "pt": "o traidor",
       "ja": "裏切り者",
       "zh": "叛徒",
-      "ru": "предатель"
+      "ru": "предатель",
+      "fr": "traître"
     },
     "examples": [],
     "meta": {},
@@ -4069,12 +4068,12 @@ const WORDS_PL_B2 = [
       "en": "disappointed",
       "de": "enttäuscht",
       "es": "decepcionado",
-      "pl": "rozczarowany",
       "it": "deluso",
       "pt": "desapontado",
       "ja": "がっかりした",
       "zh": "失望的",
-      "ru": "разочарованный"
+      "ru": "разочарованный",
+      "fr": "déçu"
     },
     "examples": [],
     "meta": {}
@@ -4093,12 +4092,12 @@ const WORDS_PL_B2 = [
       "en": "dragon",
       "de": "der Drache",
       "es": "el dragón",
-      "pl": "smok",
       "it": "il drago",
       "pt": "o dragão",
       "ja": "竜",
       "zh": "龙",
-      "ru": "дракон"
+      "ru": "дракон",
+      "fr": "dragon"
     },
     "examples": [],
     "meta": {},
@@ -4119,12 +4118,12 @@ const WORDS_PL_B2 = [
       "en": "swindler",
       "de": "der Betrüger",
       "es": "el estafador",
-      "pl": "oszust",
       "it": "il truffatore",
       "pt": "o golpista",
       "ja": "詐欺師",
       "zh": "骗子",
-      "ru": "мошенник"
+      "ru": "мошенник",
+      "fr": "escroc"
     },
     "examples": [],
     "meta": {},
@@ -4145,12 +4144,12 @@ const WORDS_PL_B2 = [
       "en": "portrait",
       "de": "das Porträt",
       "es": "el retrato",
-      "pl": "portret",
       "it": "il ritratto",
       "pt": "o retrato",
       "ja": "肖像画",
       "zh": "肖像",
-      "ru": "портрет"
+      "ru": "портрет",
+      "fr": "portrait"
     },
     "examples": [],
     "meta": {},
@@ -4172,12 +4171,12 @@ const WORDS_PL_B2 = [
       "en": "negotiations",
       "de": "die Verhandlungen",
       "es": "las negociaciones",
-      "pl": "negocjacje",
       "it": "i negoziati",
       "pt": "as negociações",
       "ja": "交渉",
       "zh": "谈判",
-      "ru": "переговоры"
+      "ru": "переговоры",
+      "fr": "négociations"
     },
     "examples": [],
     "meta": {},
@@ -4198,12 +4197,12 @@ const WORDS_PL_B2 = [
       "en": "stake",
       "de": "der Einsatz",
       "es": "la apuesta",
-      "pl": "stawka",
       "it": "la posta",
       "pt": "a aposta",
       "ja": "賭け金",
       "zh": "赌注",
-      "ru": "ставка"
+      "ru": "ставка",
+      "fr": "enjeu"
     },
     "examples": [],
     "meta": {},
@@ -4225,12 +4224,12 @@ const WORDS_PL_B2 = [
       "en": "easy",
       "de": "einfach",
       "es": "fácil",
-      "pl": "łatwy",
       "it": "facile",
       "pt": "fácil",
       "ja": "簡単な",
       "zh": "容易的",
-      "ru": "легкий"
+      "ru": "легкий",
+      "fr": "facile"
     },
     "examples": [],
     "meta": {}
@@ -4250,12 +4249,12 @@ const WORDS_PL_B2 = [
       "en": "the day after tomorrow",
       "de": "übermorgen",
       "es": "pasado mañana",
-      "pl": "pojutrze",
       "it": "dopodomani",
       "pt": "depois de amanhã",
       "ja": "明後日",
       "zh": "后天",
-      "ru": "послезавтра"
+      "ru": "послезавтра",
+      "fr": "après-demain"
     },
     "examples": [],
     "meta": {},
@@ -4277,12 +4276,12 @@ const WORDS_PL_B2 = [
       "en": "damage",
       "de": "der Schaden",
       "es": "el daño",
-      "pl": "uszkodzenie",
       "it": "il danno",
       "pt": "o dano",
       "ja": "損傷",
       "zh": "损坏",
-      "ru": "повреждение"
+      "ru": "повреждение",
+      "fr": "dégât"
     },
     "examples": [],
     "meta": {},
@@ -4304,12 +4303,12 @@ const WORDS_PL_B2 = [
       "en": "rabbit",
       "de": "das Kaninchen",
       "es": "el conejo",
-      "pl": "królik",
       "it": "il coniglio",
       "pt": "o coelho",
       "ja": "ウサギ",
       "zh": "兔子",
-      "ru": "кролик"
+      "ru": "кролик",
+      "fr": "lapin"
     },
     "examples": [],
     "meta": {},
@@ -4330,12 +4329,12 @@ const WORDS_PL_B2 = [
       "en": "secret",
       "de": "geheim",
       "es": "secreto",
-      "pl": "tajny",
       "it": "segreto",
       "pt": "secreto",
       "ja": "秘密の",
       "zh": "秘密的",
-      "ru": "секретный"
+      "ru": "секретный",
+      "fr": "secret"
     },
     "examples": [],
     "meta": {}
@@ -4355,12 +4354,12 @@ const WORDS_PL_B2 = [
       "en": "application",
       "de": "die Anmeldung",
       "es": "la solicitud",
-      "pl": "zgłoszenie",
       "it": "la domanda",
       "pt": "a inscrição",
       "ja": "申請",
       "zh": "申请",
-      "ru": "заявление"
+      "ru": "заявление",
+      "fr": "demande"
     },
     "examples": [],
     "meta": {},
@@ -4382,12 +4381,12 @@ const WORDS_PL_B2 = [
       "en": "community",
       "de": "die Gemeinschaft",
       "es": "la comunidad",
-      "pl": "społeczność",
       "it": "la comunità",
       "pt": "a comunidade",
       "ja": "コミュニティ",
       "zh": "社区",
-      "ru": "сообщество"
+      "ru": "сообщество",
+      "fr": "communauté"
     },
     "examples": [],
     "meta": {},
@@ -4409,12 +4408,12 @@ const WORDS_PL_B2 = [
       "en": "light",
       "de": "leicht",
       "es": "ligero",
-      "pl": "lekki",
       "it": "leggero",
       "pt": "leve",
       "ja": "軽い",
       "zh": "轻的",
-      "ru": "легкий"
+      "ru": "легкий",
+      "fr": "léger"
     },
     "examples": [],
     "meta": {}
@@ -4434,12 +4433,12 @@ const WORDS_PL_B2 = [
       "en": "security guard",
       "de": "der Wachmann",
       "es": "el guardia de seguridad",
-      "pl": "ochroniarz",
       "it": "la guardia di sicurezza",
       "pt": "o segurança",
       "ja": "警備員",
       "zh": "保安",
-      "ru": "охранник"
+      "ru": "охранник",
+      "fr": "agent de sécurité"
     },
     "examples": [],
     "meta": {},
@@ -4461,12 +4460,12 @@ const WORDS_PL_B2 = [
       "en": "rotten",
       "de": "verdorben",
       "es": "podrido",
-      "pl": "zepsuty",
       "it": "marcio",
       "pt": "podre",
       "ja": "腐った",
       "zh": "腐烂的",
-      "ru": "испорченный"
+      "ru": "испорченный",
+      "fr": "pourri"
     },
     "examples": [],
     "meta": {}
@@ -4486,12 +4485,12 @@ const WORDS_PL_B2 = [
       "en": "Sunday",
       "de": "der Sonntag",
       "es": "el domingo",
-      "pl": "niedziela",
       "it": "la domenica",
       "pt": "o domingo",
       "ja": "日曜日",
       "zh": "星期日",
-      "ru": "воскресенье"
+      "ru": "воскресенье",
+      "fr": "dimanche"
     },
     "examples": [],
     "meta": {},
@@ -4513,12 +4512,12 @@ const WORDS_PL_B2 = [
       "en": "will",
       "de": "das Testament",
       "es": "el testamento",
-      "pl": "testament",
       "it": "il testamento",
       "pt": "o testamento",
       "ja": "遺言",
       "zh": "遗嘱",
-      "ru": "завещание"
+      "ru": "завещание",
+      "fr": "testament"
     },
     "examples": [],
     "meta": {},
@@ -4540,12 +4539,12 @@ const WORDS_PL_B2 = [
       "en": "participate",
       "de": "teilnehmen",
       "es": "participar",
-      "pl": "uczestniczyć",
       "it": "partecipare",
       "pt": "participar",
       "ja": "参加する",
       "zh": "参加",
-      "ru": "участвовать"
+      "ru": "участвовать",
+      "fr": "participer"
     },
     "examples": [],
     "meta": {},
@@ -4568,12 +4567,12 @@ const WORDS_PL_B2 = [
       "en": "vision",
       "de": "die Vision",
       "es": "la visión",
-      "pl": "wizja",
       "it": "la visione",
       "pt": "a visão",
       "ja": "ビジョン",
       "zh": "愿景",
-      "ru": "видение"
+      "ru": "видение",
+      "fr": "vision"
     },
     "examples": [],
     "meta": {},
@@ -4596,12 +4595,12 @@ const WORDS_PL_B2 = [
       "en": "pack",
       "de": "packen",
       "es": "empacar",
-      "pl": "pakować",
       "it": "impacchettare",
       "pt": "empacotar",
       "ja": "詰める",
       "zh": "打包",
-      "ru": "паковать"
+      "ru": "паковать",
+      "fr": "emballer"
     },
     "examples": [],
     "meta": {},
@@ -4625,12 +4624,12 @@ const WORDS_PL_B2 = [
       "en": "send",
       "de": "senden",
       "es": "enviar",
-      "pl": "wysyłać",
       "it": "inviare",
       "pt": "enviar",
       "ja": "送る",
       "zh": "发送",
-      "ru": "отправлять"
+      "ru": "отправлять",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -4652,12 +4651,12 @@ const WORDS_PL_B2 = [
       "en": "investigative",
       "de": "ermittelnd",
       "es": "investigativo",
-      "pl": "śledczy",
       "it": "investigativo",
       "pt": "investigativo",
       "ja": "捜査の",
       "zh": "调查的",
-      "ru": "следственный"
+      "ru": "следственный",
+      "fr": "d'enquête"
     },
     "examples": [],
     "meta": {}
@@ -4676,12 +4675,12 @@ const WORDS_PL_B2 = [
       "en": "investigator",
       "de": "der Ermittler",
       "es": "el investigador",
-      "pl": "śledczy",
       "it": "l investigatore",
       "pt": "o investigador",
       "ja": "捜査官",
       "zh": "调查员",
-      "ru": "следователь"
+      "ru": "следователь",
+      "fr": "enquêteur"
     },
     "examples": [],
     "meta": {},
@@ -4703,12 +4702,12 @@ const WORDS_PL_B2 = [
       "en": "record",
       "de": "die Aufzeichnung",
       "es": "el registro",
-      "pl": "zapis",
       "it": "la registrazione",
       "pt": "o registro",
       "ja": "記録",
       "zh": "记录",
-      "ru": "запись"
+      "ru": "запись",
+      "fr": "enregistrement"
     },
     "examples": [],
     "meta": {},
@@ -4729,12 +4728,12 @@ const WORDS_PL_B2 = [
       "en": "serial",
       "de": "seriell",
       "es": "serial",
-      "pl": "seryjny",
       "it": "seriale",
       "pt": "serial",
       "ja": "シリアル",
       "zh": "连续的",
-      "ru": "серийный"
+      "ru": "серийный",
+      "fr": "sériel"
     },
     "examples": [],
     "meta": {}
@@ -4754,12 +4753,12 @@ const WORDS_PL_B2 = [
       "en": "cookie",
       "de": "das Plätzchen",
       "es": "la galleta",
-      "pl": "ciastko",
       "it": "il biscotto",
       "pt": "o biscoito",
       "ja": "クッキー",
       "zh": "饼干",
-      "ru": "печенье"
+      "ru": "печенье",
+      "fr": "cookie"
     },
     "examples": [],
     "meta": {},
@@ -4782,12 +4781,12 @@ const WORDS_PL_B2 = [
       "en": "waiter",
       "de": "der Kellner",
       "es": "el camarero",
-      "pl": "kelner",
       "it": "il cameriere",
       "pt": "o garçom",
       "ja": "ウェイター",
       "zh": "服务员",
-      "ru": "официант"
+      "ru": "официант",
+      "fr": "serveur"
     },
     "examples": [],
     "meta": {},
@@ -4809,12 +4808,12 @@ const WORDS_PL_B2 = [
       "en": "security",
       "de": "die Sicherheit",
       "es": "la seguridad",
-      "pl": "zabezpieczenie",
       "it": "la sicurezza",
       "pt": "a segurança",
       "ja": "セキュリティ",
       "zh": "安全",
-      "ru": "безопасность"
+      "ru": "безопасность",
+      "fr": "sécurité"
     },
     "examples": [],
     "meta": {},
@@ -4836,12 +4835,12 @@ const WORDS_PL_B2 = [
       "en": "dust",
       "de": "der Staub",
       "es": "el polvo",
-      "pl": "proch",
       "it": "la polvere",
       "pt": "o pó",
       "ja": "ほこり",
       "zh": "灰尘",
-      "ru": "пыль"
+      "ru": "пыль",
+      "fr": "poussière"
     },
     "examples": [],
     "meta": {},
@@ -4862,12 +4861,12 @@ const WORDS_PL_B2 = [
       "en": "autograph",
       "de": "das Autogramm",
       "es": "el autógrafo",
-      "pl": "autograf",
       "it": "l autografo",
       "pt": "o autógrafo",
       "ja": "サイン",
       "zh": "签名",
-      "ru": "автограф"
+      "ru": "автограф",
+      "fr": "autographe"
     },
     "examples": [],
     "meta": {},
@@ -4889,12 +4888,12 @@ const WORDS_PL_B2 = [
       "en": "loyal",
       "de": "loyal",
       "es": "leal",
-      "pl": "lojalny",
       "it": "leale",
       "pt": "leal",
       "ja": "忠実な",
       "zh": "忠诚的",
-      "ru": "лояльный"
+      "ru": "лояльный",
+      "fr": "loyal"
     },
     "examples": [],
     "meta": {}
@@ -4913,12 +4912,12 @@ const WORDS_PL_B2 = [
       "en": "chief",
       "de": "der Leiter",
       "es": "el jefe",
-      "pl": "naczelnik",
       "it": "il capo",
       "pt": "o chefe",
       "ja": "長",
       "zh": "负责人",
-      "ru": "начальник"
+      "ru": "начальник",
+      "fr": "chef"
     },
     "examples": [],
     "meta": {},
@@ -4940,12 +4939,12 @@ const WORDS_PL_B2 = [
       "en": "player",
       "de": "der Spieler",
       "es": "el jugador",
-      "pl": "gracz",
       "it": "il giocatore",
       "pt": "o jogador",
       "ja": "選手",
       "zh": "玩家",
-      "ru": "игрок"
+      "ru": "игрок",
+      "fr": "joueur"
     },
     "examples": [],
     "meta": {},
@@ -4967,12 +4966,12 @@ const WORDS_PL_B2 = [
       "en": "grip",
       "de": "der Griff",
       "es": "el agarre",
-      "pl": "uścisk",
       "it": "la stretta",
       "pt": "o aperto",
       "ja": "握り",
       "zh": "握",
-      "ru": "хватка"
+      "ru": "хватка",
+      "fr": "prise"
     },
     "examples": [],
     "meta": {},
@@ -4994,12 +4993,12 @@ const WORDS_PL_B2 = [
       "en": "student",
       "de": "der Schüler",
       "es": "el estudiante",
-      "pl": "uczeń",
       "it": "lo studente",
       "pt": "o estudante",
       "ja": "学生",
       "zh": "学生",
-      "ru": "ученик"
+      "ru": "ученик",
+      "fr": "étudiant"
     },
     "examples": [],
     "meta": {},
@@ -5020,12 +5019,12 @@ const WORDS_PL_B2 = [
       "en": "fund",
       "de": "der Fonds",
       "es": "el fondo",
-      "pl": "fundusz",
       "it": "il fondo",
       "pt": "o fundo",
       "ja": "基金",
       "zh": "基金",
-      "ru": "фонд"
+      "ru": "фонд",
+      "fr": "fonds"
     },
     "examples": [],
     "meta": {},
@@ -5047,12 +5046,12 @@ const WORDS_PL_B2 = [
       "en": "method",
       "de": "die Methode",
       "es": "el método",
-      "pl": "metoda",
       "it": "il metodo",
       "pt": "o método",
       "ja": "方法",
       "zh": "方法",
-      "ru": "метод"
+      "ru": "метод",
+      "fr": "méthode"
     },
     "examples": [],
     "meta": {},
@@ -5074,12 +5073,12 @@ const WORDS_PL_B2 = [
       "en": "wall",
       "de": "die Wand",
       "es": "la pared",
-      "pl": "ściana",
       "it": "la parete",
       "pt": "a parede",
       "ja": "壁",
       "zh": "墙",
-      "ru": "стена"
+      "ru": "стена",
+      "fr": "mur"
     },
     "examples": [],
     "meta": {},
@@ -5101,12 +5100,12 @@ const WORDS_PL_B2 = [
       "en": "flow",
       "de": "fließen",
       "es": "fluir",
-      "pl": "płynąć",
       "it": "fluire",
       "pt": "fluir",
       "ja": "流れる",
       "zh": "流动",
-      "ru": "течь"
+      "ru": "течь",
+      "fr": "couler"
     },
     "examples": [],
     "meta": {},
@@ -5129,12 +5128,12 @@ const WORDS_PL_B2 = [
       "en": "analysis",
       "de": "die Analyse",
       "es": "el análisis",
-      "pl": "analiza",
       "it": "l'analisi",
       "pt": "a análise",
       "ja": "分析",
       "zh": "分析",
-      "ru": "анализ"
+      "ru": "анализ",
+      "fr": "analyse"
     },
     "examples": [],
     "meta": {},
@@ -5155,12 +5154,12 @@ const WORDS_PL_B2 = [
       "en": "khan",
       "de": "der Khan",
       "es": "el kan",
-      "pl": "chan",
       "it": "il khan",
       "pt": "o cã",
       "ja": "ハーン",
       "zh": "汗",
-      "ru": "хан"
+      "ru": "хан",
+      "fr": "chan"
     },
     "examples": [],
     "meta": {},
@@ -5182,12 +5181,12 @@ const WORDS_PL_B2 = [
       "en": "bench",
       "de": "die Bank",
       "es": "el banco",
-      "pl": "ława",
       "it": "la panca",
       "pt": "o banco",
       "ja": "ベンチ",
       "zh": "长凳",
-      "ru": "скамья"
+      "ru": "скамья",
+      "fr": "banc"
     },
     "examples": [],
     "meta": {},
@@ -5209,12 +5208,12 @@ const WORDS_PL_B2 = [
       "en": "mouse-like",
       "de": "mausähnlich",
       "es": "ratonil",
-      "pl": "mysi",
       "it": "murino",
       "pt": "murino",
       "ja": "ネズミのような",
       "zh": "鼠样的",
-      "ru": "мышиный"
+      "ru": "мышиный",
+      "fr": "murin"
     },
     "examples": [],
     "meta": {}
@@ -5233,12 +5232,12 @@ const WORDS_PL_B2 = [
       "en": "madman",
       "de": "der Wahnsinnige",
       "es": "el loco",
-      "pl": "szaleniec",
       "it": "il pazzo",
       "pt": "o louco",
       "ja": "狂人",
       "zh": "疯子",
-      "ru": "безумец"
+      "ru": "безумец",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {},
@@ -5260,12 +5259,12 @@ const WORDS_PL_B2 = [
       "en": "quality",
       "de": "die Qualität",
       "es": "la calidad",
-      "pl": "jakość",
       "it": "la qualità",
       "pt": "a qualidade",
       "ja": "品質",
       "zh": "质量",
-      "ru": "качество"
+      "ru": "качество",
+      "fr": "qualité"
     },
     "examples": [],
     "meta": {},
@@ -5287,12 +5286,12 @@ const WORDS_PL_B2 = [
       "en": "go around",
       "de": "umgehen",
       "es": "rodear",
-      "pl": "obchodzić",
       "it": "aggirare",
       "pt": "contornar",
       "ja": "回る",
       "zh": "绕行",
-      "ru": "обходить"
+      "ru": "обходить",
+      "fr": "contourner"
     },
     "examples": [],
     "meta": {},
@@ -5315,12 +5314,12 @@ const WORDS_PL_B2 = [
       "en": "medical",
       "de": "medizinisch",
       "es": "médico",
-      "pl": "medyczny",
       "it": "medico",
       "pt": "médico",
       "ja": "医学の",
       "zh": "医疗的",
-      "ru": "медицинский"
+      "ru": "медицинский",
+      "fr": "médical"
     },
     "examples": [],
     "meta": {}
@@ -5340,12 +5339,12 @@ const WORDS_PL_B2 = [
       "en": "hopeless",
       "de": "hoffnungslos",
       "es": "desesperado",
-      "pl": "beznadziejny",
       "it": "senza speranza",
       "pt": "sem esperança",
       "ja": "絶望的な",
       "zh": "绝望的",
-      "ru": "безнадежный"
+      "ru": "безнадежный",
+      "fr": "désespéré"
     },
     "examples": [],
     "meta": {}
@@ -5364,12 +5363,12 @@ const WORDS_PL_B2 = [
       "en": "naked",
       "de": "nackt",
       "es": "desnudo",
-      "pl": "nagi",
       "it": "nudo",
       "pt": "nu",
       "ja": "裸の",
       "zh": "裸体的",
-      "ru": "голый"
+      "ru": "голый",
+      "fr": "nu"
     },
     "examples": [],
     "meta": {}
@@ -5388,12 +5387,12 @@ const WORDS_PL_B2 = [
       "en": "naked person",
       "de": "der Nackte",
       "es": "el desnudo",
-      "pl": "nagi",
       "it": "il nudo",
       "pt": "o nu",
       "ja": "裸の人",
       "zh": "裸体者",
-      "ru": "нагой"
+      "ru": "нагой",
+      "fr": "nu"
     },
     "examples": [],
     "meta": {},
@@ -5415,12 +5414,12 @@ const WORDS_PL_B2 = [
       "en": "service staff",
       "de": "das Dienstpersonal",
       "es": "el servicio",
-      "pl": "służba",
       "it": "il personale di servizio",
       "pt": "o serviço",
       "ja": "使用人",
       "zh": "仆人",
-      "ru": "прислуга"
+      "ru": "прислуга",
+      "fr": "personnel"
     },
     "examples": [],
     "meta": {},
@@ -5442,12 +5441,12 @@ const WORDS_PL_B2 = [
       "en": "budget",
       "de": "das Budget",
       "es": "el presupuesto",
-      "pl": "budżet",
       "it": "il bilancio",
       "pt": "o orçamento",
       "ja": "予算",
       "zh": "预算",
-      "ru": "бюджет"
+      "ru": "бюджет",
+      "fr": "budget"
     },
     "examples": [],
     "meta": {},
@@ -5468,12 +5467,12 @@ const WORDS_PL_B2 = [
       "en": "front",
       "de": "die Front",
       "es": "el frente",
-      "pl": "front",
       "it": "il fronte",
       "pt": "a frente",
       "ja": "戦線",
       "zh": "前线",
-      "ru": "фронт"
+      "ru": "фронт",
+      "fr": "front"
     },
     "examples": [],
     "meta": {},
@@ -5495,12 +5494,12 @@ const WORDS_PL_B2 = [
       "en": "cinema",
       "de": "das Kino",
       "es": "el cine",
-      "pl": "kino",
       "it": "il cinema",
       "pt": "o cinema",
       "ja": "映画館",
       "zh": "电影院",
-      "ru": "кинотеатр"
+      "ru": "кинотеатр",
+      "fr": "cinéma"
     },
     "examples": [],
     "meta": {},
@@ -5521,12 +5520,12 @@ const WORDS_PL_B2 = [
       "en": "manners",
       "de": "die Manieren",
       "es": "los modales",
-      "pl": "maniery",
       "it": "le maniere",
       "pt": "os modos",
       "ja": "マナー",
       "zh": "举止",
-      "ru": "манеры"
+      "ru": "манеры",
+      "fr": "manières"
     },
     "examples": [],
     "meta": {},
@@ -5548,12 +5547,12 @@ const WORDS_PL_B2 = [
       "en": "detail",
       "de": "das Detail",
       "es": "el detalle",
-      "pl": "szczegół",
       "it": "il dettaglio",
       "pt": "o detalhe",
       "ja": "詳細",
       "zh": "细节",
-      "ru": "деталь"
+      "ru": "деталь",
+      "fr": "détail"
     },
     "examples": [],
     "meta": {},
@@ -5575,12 +5574,12 @@ const WORDS_PL_B2 = [
       "en": "knowledge",
       "de": "die Kenntnis",
       "es": "el conocimiento",
-      "pl": "znajomość",
       "it": "la conoscenza",
       "pt": "o conhecimento",
       "ja": "知識",
       "zh": "知识",
-      "ru": "знание"
+      "ru": "знание",
+      "fr": "connaissance"
     },
     "examples": [],
     "meta": {},
@@ -5601,12 +5600,12 @@ const WORDS_PL_B2 = [
       "en": "pastor",
       "de": "der Pastor",
       "es": "el pastor",
-      "pl": "pastor",
       "it": "il pastore",
       "pt": "o pastor",
       "ja": "牧師",
       "zh": "牧师",
-      "ru": "пастор"
+      "ru": "пастор",
+      "fr": "pasteur"
     },
     "examples": [],
     "meta": {},
@@ -5628,12 +5627,12 @@ const WORDS_PL_B2 = [
       "en": "activity",
       "de": "die Aktivität",
       "es": "la actividad",
-      "pl": "aktywność",
       "it": "l'attività",
       "pt": "a atividade",
       "ja": "活動",
       "zh": "活动",
-      "ru": "активность"
+      "ru": "активность",
+      "fr": "activité"
     },
     "examples": [],
     "meta": {},
@@ -5654,12 +5653,12 @@ const WORDS_PL_B2 = [
       "en": "little sun",
       "de": "die kleine Sonne",
       "es": "el solcito",
-      "pl": "słoneczko",
       "it": "il solellino",
       "pt": "o solzinho",
       "ja": "小さな太陽",
       "zh": "小太阳",
-      "ru": "солнышко"
+      "ru": "солнышко",
+      "fr": "petit soleil"
     },
     "examples": [],
     "meta": {},
@@ -5680,12 +5679,12 @@ const WORDS_PL_B2 = [
       "en": "outpatient clinic",
       "de": "das Ambulatorium",
       "es": "el ambulatorio",
-      "pl": "ambulatorium",
       "it": "l'ambulatorio",
       "pt": "o ambulatório",
       "ja": "外来診療所",
       "zh": "门诊部",
-      "ru": "амбулатория"
+      "ru": "амбулатория",
+      "fr": "dispensaire"
     },
     "examples": [],
     "meta": {},
@@ -5706,12 +5705,12 @@ const WORDS_PL_B2 = [
       "en": "miniskirt",
       "de": "der Minirock",
       "es": "la minifalda",
-      "pl": "mini",
       "it": "la minigonna",
       "pt": "a minissaia",
       "ja": "ミニスカート",
       "zh": "迷你裙",
-      "ru": "мини-юбка"
+      "ru": "мини-юбка",
+      "fr": "minijupe"
     },
     "examples": [],
     "meta": {},
@@ -5733,12 +5732,12 @@ const WORDS_PL_B2 = [
       "en": "mini",
       "de": "mini",
       "es": "mini",
-      "pl": "mini",
       "it": "mini",
       "pt": "mini",
       "ja": "ミニ",
       "zh": "迷你",
-      "ru": "мини"
+      "ru": "мини",
+      "fr": "mini"
     },
     "examples": [],
     "meta": {}
@@ -5758,12 +5757,12 @@ const WORDS_PL_B2 = [
       "en": "American",
       "de": "der Amerikaner",
       "es": "el americano",
-      "pl": "amerykanin",
       "it": "l'americano",
       "pt": "o americano",
       "ja": "アメリカ人",
       "zh": "美国人",
-      "ru": "американец"
+      "ru": "американец",
+      "fr": "Américain"
     },
     "examples": [],
     "meta": {},
@@ -5785,12 +5784,12 @@ const WORDS_PL_B2 = [
       "en": "reign",
       "de": "die Herrschaft",
       "es": "el reinado",
-      "pl": "panowanie",
       "it": "il regno",
       "pt": "o reinado",
       "ja": "統治",
       "zh": "统治",
-      "ru": "правление"
+      "ru": "правление",
+      "fr": "règne"
     },
     "examples": [],
     "meta": {},
@@ -5812,12 +5811,12 @@ const WORDS_PL_B2 = [
       "en": "win",
       "de": "der Gewinn",
       "es": "la victoria",
-      "pl": "wygrana",
       "it": "la vittoria",
       "pt": "a vitória",
       "ja": "勝利",
       "zh": "胜利",
-      "ru": "выигрыш"
+      "ru": "выигрыш",
+      "fr": "victoire"
     },
     "examples": [],
     "meta": {},
@@ -5839,12 +5838,12 @@ const WORDS_PL_B2 = [
       "en": "year group",
       "de": "der Jahrgang",
       "es": "la añada",
-      "pl": "rocznik",
       "it": "l'annata",
       "pt": "o ano",
       "ja": "同年生まれ",
       "zh": "同年出生的人",
-      "ru": "ровесник"
+      "ru": "ровесник",
+      "fr": "promotion"
     },
     "examples": [],
     "meta": {},
@@ -5866,12 +5865,12 @@ const WORDS_PL_B2 = [
       "en": "wanted person",
       "de": "der Gesuchte",
       "es": "el buscado",
-      "pl": "poszukiwany",
       "it": "il ricercato",
       "pt": "o procurado",
       "ja": "指名手配犯",
       "zh": "被通缉者",
-      "ru": "разыскиваемый"
+      "ru": "разыскиваемый",
+      "fr": "recherché"
     },
     "examples": [],
     "meta": {},
@@ -5893,12 +5892,12 @@ const WORDS_PL_B2 = [
       "en": "sought after",
       "de": "begehrt",
       "es": "buscado",
-      "pl": "poszukiwany",
       "it": "ricercato",
       "pt": "procurado",
       "ja": "人気の",
       "zh": "抢手的",
-      "ru": "востребованный"
+      "ru": "востребованный",
+      "fr": "recherché"
     },
     "examples": [],
     "meta": {}
@@ -5918,12 +5917,12 @@ const WORDS_PL_B2 = [
       "en": "free space",
       "de": "der Freiraum",
       "es": "el espacio libre",
-      "pl": "luz",
       "it": "lo spazio libero",
       "pt": "o espaço livre",
       "ja": "余裕",
       "zh": "自由空间",
-      "ru": "люфт"
+      "ru": "люфт",
+      "fr": "espace libre"
     },
     "examples": [],
     "meta": {},
@@ -5945,12 +5944,12 @@ const WORDS_PL_B2 = [
       "en": "strap",
       "de": "der Riemen",
       "es": "la correa",
-      "pl": "pasek",
       "it": "la cinghia",
       "pt": "a tira",
       "ja": "ストラップ",
       "zh": "带子",
-      "ru": "ремешок"
+      "ru": "ремешок",
+      "fr": "sangle"
     },
     "examples": [],
     "meta": {},
@@ -5972,12 +5971,12 @@ const WORDS_PL_B2 = [
       "en": "compassion",
       "de": "das Mitgefühl",
       "es": "la compasión",
-      "pl": "współczucie",
       "it": "la compassione",
       "pt": "a compaixão",
       "ja": "同情",
       "zh": "同情",
-      "ru": "сострадание"
+      "ru": "сострадание",
+      "fr": "compassion"
     },
     "examples": [],
     "meta": {},
@@ -5998,12 +5997,12 @@ const WORDS_PL_B2 = [
       "en": "to act unfairly",
       "de": "unfair handeln",
       "es": "actuar injustamente",
-      "pl": "pograć",
       "it": "agire ingiustamente",
       "pt": "agir injustamente",
       "ja": "不公平に振る舞う",
       "zh": "不公平对待",
-      "ru": "поступить нечестно"
+      "ru": "поступить нечестно",
+      "fr": "agir injustement"
     },
     "examples": [],
     "meta": {},
@@ -6026,12 +6025,12 @@ const WORDS_PL_B2 = [
       "en": "port",
       "de": "der Hafen",
       "es": "el puerto",
-      "pl": "port",
       "it": "il porto",
       "pt": "o porto",
       "ja": "港",
       "zh": "港口",
-      "ru": "порт"
+      "ru": "порт",
+      "fr": "port"
     },
     "examples": [],
     "meta": {},
@@ -6052,12 +6051,12 @@ const WORDS_PL_B2 = [
       "en": "madwoman",
       "de": "die Verrückte",
       "es": "la loca",
-      "pl": "wariatka",
       "it": "la pazza",
       "pt": "a louca",
       "ja": "狂女",
       "zh": "疯女人",
-      "ru": "сумасшедшая"
+      "ru": "сумасшедшая",
+      "fr": "folle"
     },
     "examples": [],
     "meta": {},
@@ -6079,12 +6078,12 @@ const WORDS_PL_B2 = [
       "en": "female assistant",
       "de": "die Assistentin",
       "es": "la asistente",
-      "pl": "asystentka",
       "it": "l'assistente",
       "pt": "a assistente",
       "ja": "女性アシスタント",
       "zh": "女助理",
-      "ru": "ассистентка"
+      "ru": "ассистентка",
+      "fr": "assistante"
     },
     "examples": [],
     "meta": {},
@@ -6106,12 +6105,12 @@ const WORDS_PL_B2 = [
       "en": "to clean up",
       "de": "aufräumen",
       "es": "limpiar",
-      "pl": "sprzątać",
       "it": "pulire",
       "pt": "limpar",
       "ja": "掃除する",
       "zh": "打扫",
-      "ru": "убирать"
+      "ru": "убирать",
+      "fr": "nettoyer"
     },
     "examples": [],
     "meta": {},
@@ -6133,12 +6132,12 @@ const WORDS_PL_B2 = [
       "en": "country music",
       "de": "die Country-Musik",
       "es": "la música country",
-      "pl": "country",
       "it": "la musica country",
       "pt": "a música country",
       "ja": "カントリーミュージック",
       "zh": "乡村音乐",
-      "ru": "кантри"
+      "ru": "кантри",
+      "fr": "country"
     },
     "examples": [],
     "meta": {},
@@ -6159,12 +6158,12 @@ const WORDS_PL_B2 = [
       "en": "country",
       "de": "Country-",
       "es": "country",
-      "pl": "country",
       "it": "country",
       "pt": "country",
       "ja": "カントリーの",
       "zh": "乡村音乐的",
-      "ru": "кантри"
+      "ru": "кантри",
+      "fr": "pays"
     },
     "examples": [],
     "meta": {}
@@ -6184,12 +6183,12 @@ const WORDS_PL_B2 = [
       "en": "care",
       "de": "die Pflege",
       "es": "el cuidado",
-      "pl": "opieka",
       "it": "la cura",
       "pt": "o cuidado",
       "ja": "世話",
       "zh": "照顾",
-      "ru": "забота"
+      "ru": "забота",
+      "fr": "soin"
     },
     "examples": [],
     "meta": {},
@@ -6210,12 +6209,12 @@ const WORDS_PL_B2 = [
       "en": "Boston",
       "de": "der Boston",
       "es": "el boston",
-      "pl": "boston",
       "it": "il boston",
       "pt": "o boston",
       "ja": "ボストン",
       "zh": "波士顿舞",
-      "ru": "бостон"
+      "ru": "бостон",
+      "fr": "Boston"
     },
     "examples": [],
     "meta": {},
@@ -6237,12 +6236,12 @@ const WORDS_PL_B2 = [
       "en": "toy",
       "de": "das Spielzeug",
       "es": "el juguete",
-      "pl": "zabawka",
       "it": "il giocattolo",
       "pt": "o brinquedo",
       "ja": "おもちゃ",
       "zh": "玩具",
-      "ru": "игрушка"
+      "ru": "игрушка",
+      "fr": "jouet"
     },
     "examples": [],
     "meta": {},
@@ -6264,12 +6263,12 @@ const WORDS_PL_B2 = [
       "en": "merit",
       "de": "das Verdienst",
       "es": "el mérito",
-      "pl": "zasługa",
       "it": "il merito",
       "pt": "o mérito",
       "ja": "功績",
       "zh": "功劳",
-      "ru": "заслуга"
+      "ru": "заслуга",
+      "fr": "mérite"
     },
     "examples": [],
     "meta": {},
@@ -6291,12 +6290,12 @@ const WORDS_PL_B2 = [
       "en": "cemetery",
       "de": "der Friedhof",
       "es": "el cementerio",
-      "pl": "cmentarz",
       "it": "il cimitero",
       "pt": "o cemitério",
       "ja": "墓地",
       "zh": "墓地",
-      "ru": "кладбище"
+      "ru": "кладбище",
+      "fr": "cimetière"
     },
     "examples": [],
     "meta": {},
@@ -6318,12 +6317,12 @@ const WORDS_PL_B2 = [
       "en": "tent",
       "de": "das Zelt",
       "es": "la tienda de campaña",
-      "pl": "namiot",
       "it": "la tenda",
       "pt": "a barraca",
       "ja": "テント",
       "zh": "帐篷",
-      "ru": "палатка"
+      "ru": "палатка",
+      "fr": "tente"
     },
     "examples": [],
     "meta": {},
@@ -6345,12 +6344,12 @@ const WORDS_PL_B2 = [
       "en": "to operate",
       "de": "operieren",
       "es": "operar",
-      "pl": "operować",
       "it": "operare",
       "pt": "operar",
       "ja": "手術する",
       "zh": "动手术",
-      "ru": "оперировать"
+      "ru": "оперировать",
+      "fr": "opérer"
     },
     "examples": [],
     "meta": {},
@@ -6373,12 +6372,12 @@ const WORDS_PL_B2 = [
       "en": "boring",
       "de": "langweilig",
       "es": "aburrido",
-      "pl": "nudny",
       "it": "noioso",
       "pt": "chato",
       "ja": "退屈な",
       "zh": "无聊的",
-      "ru": "скучный"
+      "ru": "скучный",
+      "fr": "ennuyeux"
     },
     "examples": [],
     "meta": {}
@@ -6397,12 +6396,12 @@ const WORDS_PL_B2 = [
       "en": "desperate",
       "de": "verzweifelt",
       "es": "desesperado",
-      "pl": "zdesperowany",
       "it": "disperato",
       "pt": "desesperado",
       "ja": "絶望的な",
       "zh": "绝望的",
-      "ru": "отчаянный"
+      "ru": "отчаянный",
+      "fr": "désespéré"
     },
     "examples": [],
     "meta": {}
@@ -6421,12 +6420,12 @@ const WORDS_PL_B2 = [
       "en": "madness",
       "de": "der Wahnsinn",
       "es": "la locura",
-      "pl": "obłęd",
       "it": "la follia",
       "pt": "a loucura",
       "ja": "狂気",
       "zh": "疯狂",
-      "ru": "безумие"
+      "ru": "безумие",
+      "fr": "folie"
     },
     "examples": [],
     "meta": {},
@@ -6448,12 +6447,12 @@ const WORDS_PL_B2 = [
       "en": "sports field",
       "de": "der Sportplatz",
       "es": "el campo deportivo",
-      "pl": "boisko",
       "it": "il campo sportivo",
       "pt": "o campo esportivo",
       "ja": "運動場",
       "zh": "运动场",
-      "ru": "спортивная площадка"
+      "ru": "спортивная площадка",
+      "fr": "terrain de sport"
     },
     "examples": [],
     "meta": {},
@@ -6475,12 +6474,12 @@ const WORDS_PL_B2 = [
       "en": "to blame",
       "de": "beschuldigen",
       "es": "culpar",
-      "pl": "obwiniać",
       "it": "biasimare",
       "pt": "culpar",
       "ja": "非難する",
       "zh": "责备",
-      "ru": "обвинять"
+      "ru": "обвинять",
+      "fr": "blâmer"
     },
     "examples": [],
     "meta": {},
@@ -6502,12 +6501,12 @@ const WORDS_PL_B2 = [
       "en": "bullfinch",
       "de": "der Gimpel",
       "es": "el camachuelo",
-      "pl": "gil",
       "it": "il ciuffolotto",
       "pt": "o pintarroxo",
       "ja": "ウソ",
       "zh": "红腹灰雀",
-      "ru": "снегирь"
+      "ru": "снегирь",
+      "fr": "bouvreuil"
     },
     "examples": [],
     "meta": {},
@@ -6528,12 +6527,12 @@ const WORDS_PL_B2 = [
       "en": "irony",
       "de": "die Ironie",
       "es": "la ironía",
-      "pl": "ironia",
       "it": "l'ironia",
       "pt": "a ironia",
       "ja": "皮肉",
       "zh": "讽刺",
-      "ru": "ирония"
+      "ru": "ирония",
+      "fr": "ironie"
     },
     "examples": [],
     "meta": {},
@@ -6555,12 +6554,12 @@ const WORDS_PL_B2 = [
       "en": "duty",
       "de": "der Dienst",
       "es": "el turno",
-      "pl": "dyżur",
       "it": "il turno",
       "pt": "o plantão",
       "ja": "当番",
       "zh": "值班",
-      "ru": "дежурство"
+      "ru": "дежурство",
+      "fr": "devoir"
     },
     "examples": [],
     "meta": {},
@@ -6582,12 +6581,12 @@ const WORDS_PL_B2 = [
       "en": "to recall",
       "de": "sich erinnern",
       "es": "recordar",
-      "pl": "wspominać",
       "it": "ricordare",
       "pt": "recordar",
       "ja": "思い出す",
       "zh": "回忆",
-      "ru": "вспоминать"
+      "ru": "вспоминать",
+      "fr": "rappeler"
     },
     "examples": [],
     "meta": {},
@@ -6609,12 +6608,12 @@ const WORDS_PL_B2 = [
       "en": "inhalation",
       "de": "die Einatmung",
       "es": "la inhalación",
-      "pl": "wdech",
       "it": "l'inalazione",
       "pt": "a inalação",
       "ja": "吸入",
       "zh": "吸气",
-      "ru": "вдох"
+      "ru": "вдох",
+      "fr": "inhalation"
     },
     "examples": [],
     "meta": {},
@@ -6636,12 +6635,12 @@ const WORDS_PL_B2 = [
       "en": "little one",
       "de": "das Kleine",
       "es": "el pequeño",
-      "pl": "maleństwo",
       "it": "il piccolino",
       "pt": "o pequenino",
       "ja": "小さな子",
       "zh": "小家伙",
-      "ru": "малыш"
+      "ru": "малыш",
+      "fr": "petit"
     },
     "examples": [],
     "meta": {},
@@ -6663,12 +6662,12 @@ const WORDS_PL_B2 = [
       "en": "five",
       "de": "die Fünf",
       "es": "el cinco",
-      "pl": "piątka",
       "it": "il cinque",
       "pt": "o cinco",
       "ja": "五",
       "zh": "五",
-      "ru": "пятёрка"
+      "ru": "пятёрка",
+      "fr": "cinq"
     },
     "examples": [],
     "meta": {},
@@ -6689,12 +6688,12 @@ const WORDS_PL_B2 = [
       "en": "tench",
       "de": "die Schleie",
       "es": "la tenca",
-      "pl": "lin",
       "it": "la tinca",
       "pt": "a tenca",
       "ja": "テナガエビ",
       "zh": "丁鱥",
-      "ru": "линь"
+      "ru": "линь",
+      "fr": "tache"
     },
     "examples": [],
     "meta": {},
@@ -6715,12 +6714,12 @@ const WORDS_PL_B2 = [
       "en": "marbles",
       "de": "die Murmeln",
       "es": "las canicas",
-      "pl": "kulki",
       "it": "le biglie",
       "pt": "as bolinhas de gude",
       "ja": "ビー玉",
       "zh": "弹珠",
-      "ru": "шарики"
+      "ru": "шарики",
+      "fr": "billes"
     },
     "examples": [],
     "meta": {},
@@ -6743,12 +6742,12 @@ const WORDS_PL_B2 = [
       "en": "taxi",
       "de": "das Taxi",
       "es": "el taxi",
-      "pl": "taksówka",
       "it": "il taxi",
       "pt": "o táxi",
       "ja": "タクシー",
       "zh": "出租车",
-      "ru": "такси"
+      "ru": "такси",
+      "fr": "taxi"
     },
     "examples": [],
     "meta": {},
@@ -6770,12 +6769,12 @@ const WORDS_PL_B2 = [
       "en": "female cousin",
       "de": "die Cousine",
       "es": "la prima",
-      "pl": "kuzynka",
       "it": "la cugina",
       "pt": "a prima",
       "ja": "いとこ",
       "zh": "表姐妹",
-      "ru": "кузина"
+      "ru": "кузина",
+      "fr": "cousine"
     },
     "examples": [],
     "meta": {},
@@ -6796,12 +6795,12 @@ const WORDS_PL_B2 = [
       "en": "kiss",
       "de": "der Kuss",
       "es": "el beso",
-      "pl": "buzi",
       "it": "il bacio",
       "pt": "o beijo",
       "ja": "キス",
       "zh": "吻",
-      "ru": "поцелуй"
+      "ru": "поцелуй",
+      "fr": "bisou"
     },
     "examples": [],
     "meta": {},
@@ -6823,12 +6822,12 @@ const WORDS_PL_B2 = [
       "en": "angle",
       "de": "der Winkel",
       "es": "el ángulo",
-      "pl": "kąt",
       "it": "l'angolo",
       "pt": "o ângulo",
       "ja": "角度",
       "zh": "角",
-      "ru": "угол"
+      "ru": "угол",
+      "fr": "angle"
     },
     "examples": [],
     "meta": {},
@@ -6849,12 +6848,12 @@ const WORDS_PL_B2 = [
       "en": "penis",
       "de": "der Penis",
       "es": "el pene",
-      "pl": "penis",
       "it": "il pene",
       "pt": "o pênis",
       "ja": "陰茎",
       "zh": "阴茎",
-      "ru": "пенис"
+      "ru": "пенис",
+      "fr": "pénis"
     },
     "examples": [],
     "meta": {},
@@ -6876,12 +6875,12 @@ const WORDS_PL_B2 = [
       "en": "premiere",
       "de": "die Premiere",
       "es": "el estreno",
-      "pl": "premiera",
       "it": "la prima",
       "pt": "a estreia",
       "ja": "初演",
       "zh": "首映",
-      "ru": "премьера"
+      "ru": "премьера",
+      "fr": "première"
     },
     "examples": [],
     "meta": {},
@@ -6903,12 +6902,12 @@ const WORDS_PL_B2 = [
       "en": "television",
       "de": "das Fernsehen",
       "es": "la televisión",
-      "pl": "telewizja",
       "it": "la televisione",
       "pt": "a televisão",
       "ja": "テレビ",
       "zh": "电视",
-      "ru": "телевидение"
+      "ru": "телевидение",
+      "fr": "télévision"
     },
     "examples": [],
     "meta": {},
@@ -6929,12 +6928,12 @@ const WORDS_PL_B2 = [
       "en": "crow's nest",
       "de": "der Mars",
       "es": "la cofa",
-      "pl": "mars",
       "it": "la coffa",
       "pt": "a gávea",
       "ja": "マストの見張り台",
       "zh": "桅盘",
-      "ru": "марс"
+      "ru": "марс",
+      "fr": "nid-de-pie"
     },
     "examples": [],
     "meta": {},
@@ -6955,12 +6954,12 @@ const WORDS_PL_B2 = [
       "en": "fictional",
       "de": "fiktiv",
       "es": "ficticio",
-      "pl": "fantastyczny",
       "it": "fittizio",
       "pt": "fictício",
       "ja": "架空の",
       "zh": "虚构的",
-      "ru": "фантастический"
+      "ru": "фантастический",
+      "fr": "fictionnel"
     },
     "examples": [],
     "meta": {}
@@ -6980,12 +6979,12 @@ const WORDS_PL_B2 = [
       "en": "lid",
       "de": "der Deckel",
       "es": "la tapa",
-      "pl": "przykrywka",
       "it": "il coperchio",
       "pt": "a tampa",
       "ja": "蓋",
       "zh": "盖子",
-      "ru": "крышка"
+      "ru": "крышка",
+      "fr": "couvercle"
     },
     "examples": [],
     "meta": {},
@@ -7006,12 +7005,12 @@ const WORDS_PL_B2 = [
       "en": "exaggeration",
       "de": "die Übertreibung",
       "es": "la exageración",
-      "pl": "przesada",
       "it": "l'esagerazione",
       "pt": "o exagero",
       "ja": "誇張",
       "zh": "夸张",
-      "ru": "преувеличение"
+      "ru": "преувеличение",
+      "fr": "exagération"
     },
     "examples": [],
     "meta": {},
@@ -7033,12 +7032,12 @@ const WORDS_PL_B2 = [
       "en": "exit",
       "de": "der Ausgang",
       "es": "la salida",
-      "pl": "wylot",
       "it": "l'uscita",
       "pt": "a saída",
       "ja": "出口",
       "zh": "出口",
-      "ru": "выход"
+      "ru": "выход",
+      "fr": "sortie"
     },
     "examples": [],
     "meta": {},
@@ -7060,12 +7059,12 @@ const WORDS_PL_B2 = [
       "en": "image",
       "de": "das Image",
       "es": "la imagen",
-      "pl": "wizerunek",
       "it": "l'immagine",
       "pt": "a imagem",
       "ja": "イメージ",
       "zh": "形象",
-      "ru": "образ"
+      "ru": "образ",
+      "fr": "image"
     },
     "examples": [],
     "meta": {},
@@ -7086,12 +7085,12 @@ const WORDS_PL_B2 = [
       "en": "vampire",
       "de": "der Vampir",
       "es": "el vampiro",
-      "pl": "wampir",
       "it": "il vampiro",
       "pt": "o vampiro",
       "ja": "吸血鬼",
       "zh": "吸血鬼",
-      "ru": "вампир"
+      "ru": "вампир",
+      "fr": "vampire"
     },
     "examples": [],
     "meta": {},
@@ -7112,12 +7111,12 @@ const WORDS_PL_B2 = [
       "en": "caliber",
       "de": "das Kaliber",
       "es": "el calibre",
-      "pl": "kaliber",
       "it": "il calibro",
       "pt": "o calibre",
       "ja": "口径",
       "zh": "口径",
-      "ru": "калибр"
+      "ru": "калибр",
+      "fr": "calibre"
     },
     "examples": [],
     "meta": {},
@@ -7139,12 +7138,12 @@ const WORDS_PL_B2 = [
       "en": "maintain",
       "de": "aufrechterhalten",
       "es": "mantener",
-      "pl": "utrzymywać",
       "it": "mantenere",
       "pt": "manter",
       "ja": "維持する",
       "zh": "保持",
-      "ru": "поддерживать"
+      "ru": "поддерживать",
+      "fr": "maintenir"
     },
     "examples": [],
     "meta": {},
@@ -7167,12 +7166,12 @@ const WORDS_PL_B2 = [
       "en": "romantic",
       "de": "romantisch",
       "es": "romántico",
-      "pl": "romantyczny",
       "it": "romantico",
       "pt": "romântico",
       "ja": "ロマンチックな",
       "zh": "浪漫的",
-      "ru": "романтический"
+      "ru": "романтический",
+      "fr": "romantique"
     },
     "examples": [],
     "meta": {}
@@ -7193,12 +7192,12 @@ const WORDS_PL_B2 = [
       "en": "square",
       "de": "der Platz",
       "es": "la plaza",
-      "pl": "plac",
       "it": "la piazza",
       "pt": "a praça",
       "ja": "広場",
       "zh": "广场",
-      "ru": "площадь"
+      "ru": "площадь",
+      "fr": "place"
     },
     "examples": [],
     "meta": {},
@@ -7220,12 +7219,12 @@ const WORDS_PL_B2 = [
       "en": "anniversary",
       "de": "der Jahrestag",
       "es": "el aniversario",
-      "pl": "rocznica",
       "it": "l'anniversario",
       "pt": "o aniversário",
       "ja": "記念日",
       "zh": "周年纪念日",
-      "ru": "годовщина"
+      "ru": "годовщина",
+      "fr": "anniversaire"
     },
     "examples": [],
     "meta": {},
@@ -7248,12 +7247,12 @@ const WORDS_PL_B2 = [
       "en": "village",
       "de": "das Dorf",
       "es": "el pueblo",
-      "pl": "wieś",
       "it": "il villaggio",
       "pt": "a aldeia",
       "ja": "村",
       "zh": "村庄",
-      "ru": "деревня"
+      "ru": "деревня",
+      "fr": "village"
     },
     "examples": [],
     "meta": {},
@@ -7275,12 +7274,12 @@ const WORDS_PL_B2 = [
       "en": "receive",
       "de": "empfangen",
       "es": "recibir",
-      "pl": "odbierać",
       "it": "ricevere",
       "pt": "receber",
       "ja": "受け取る",
       "zh": "接收",
-      "ru": "получать"
+      "ru": "получать",
+      "fr": "recevoir"
     },
     "examples": [],
     "meta": {},
@@ -7302,12 +7301,12 @@ const WORDS_PL_B2 = [
       "en": "gay man",
       "de": "der Schwule",
       "es": "el gay",
-      "pl": "gej",
       "it": "il gay",
       "pt": "o gay",
       "ja": "ゲイ",
       "zh": "男同性恋",
-      "ru": "гей"
+      "ru": "гей",
+      "fr": "gay"
     },
     "examples": [],
     "meta": {},
@@ -7329,12 +7328,12 @@ const WORDS_PL_B2 = [
       "en": "forgiveness",
       "de": "die Vergebung",
       "es": "el perdón",
-      "pl": "przebaczenie",
       "it": "il perdono",
       "pt": "o perdão",
       "ja": "許し",
       "zh": "宽恕",
-      "ru": "прощение"
+      "ru": "прощение",
+      "fr": "pardon"
     },
     "examples": [],
     "meta": {},
@@ -7357,12 +7356,12 @@ const WORDS_PL_B2 = [
       "en": "shore",
       "de": "das Ufer",
       "es": "la orilla",
-      "pl": "brzeg",
       "it": "la riva",
       "pt": "a margem",
       "ja": "岸",
       "zh": "岸边",
-      "ru": "берег"
+      "ru": "берег",
+      "fr": "rive"
     },
     "examples": [],
     "meta": {},
@@ -7384,12 +7383,12 @@ const WORDS_PL_B2 = [
       "en": "endure",
       "de": "ertragen",
       "es": "soportar",
-      "pl": "znosić",
       "it": "sopportare",
       "pt": "suportar",
       "ja": "耐える",
       "zh": "忍受",
-      "ru": "терпеть"
+      "ru": "терпеть",
+      "fr": "endurer"
     },
     "examples": [],
     "meta": {},
@@ -7412,12 +7411,12 @@ const WORDS_PL_B2 = [
       "en": "war",
       "de": "kriegerisch",
       "es": "bélico",
-      "pl": "wojenny",
       "it": "di guerra",
       "pt": "de guerra",
       "ja": "戦争の",
       "zh": "战争的",
-      "ru": "военный"
+      "ru": "военный",
+      "fr": "guerre"
     },
     "examples": [],
     "meta": {}
@@ -7437,12 +7436,12 @@ const WORDS_PL_B2 = [
       "en": "form",
       "de": "das Formular",
       "es": "el formulario",
-      "pl": "formularz",
       "it": "il modulo",
       "pt": "o formulário",
       "ja": "フォーム",
       "zh": "表格",
-      "ru": "бланк"
+      "ru": "бланк",
+      "fr": "formulaire"
     },
     "examples": [],
     "meta": {},
@@ -7463,12 +7462,12 @@ const WORDS_PL_B2 = [
       "en": "ambassador",
       "de": "der Botschafter",
       "es": "el embajador",
-      "pl": "ambasador",
       "it": "l'ambasciatore",
       "pt": "o embaixador",
       "ja": "大使",
       "zh": "大使",
-      "ru": "посол"
+      "ru": "посол",
+      "fr": "ambassadeur"
     },
     "examples": [],
     "meta": {},
@@ -7490,12 +7489,12 @@ const WORDS_PL_B2 = [
       "en": "grandmother",
       "de": "die Großmutter",
       "es": "la abuela",
-      "pl": "babka",
       "it": "la nonna",
       "pt": "a avó",
       "ja": "祖母",
       "zh": "祖母",
-      "ru": "бабушка"
+      "ru": "бабушка",
+      "fr": "grand-mère"
     },
     "examples": [],
     "meta": {},
@@ -7517,12 +7516,12 @@ const WORDS_PL_B2 = [
       "en": "send",
       "de": "senden",
       "es": "enviar",
-      "pl": "przesłać",
       "it": "inviare",
       "pt": "enviar",
       "ja": "送る",
       "zh": "发送",
-      "ru": "отправить"
+      "ru": "отправить",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -7545,12 +7544,12 @@ const WORDS_PL_B2 = [
       "en": "confuse",
       "de": "verwirren",
       "es": "confundir",
-      "pl": "mylić",
       "it": "confondere",
       "pt": "confundir",
       "ja": "混乱させる",
       "zh": "混淆",
-      "ru": "путать"
+      "ru": "путать",
+      "fr": "confondre"
     },
     "examples": [],
     "meta": {},
@@ -7574,12 +7573,12 @@ const WORDS_PL_B2 = [
       "en": "elevator",
       "de": "der Aufzug",
       "es": "el ascensor",
-      "pl": "winda",
       "it": "l'ascensore",
       "pt": "o elevador",
       "ja": "エレベーター",
       "zh": "电梯",
-      "ru": "лифт"
+      "ru": "лифт",
+      "fr": "ascenseur"
     },
     "examples": [],
     "meta": {},
@@ -7601,12 +7600,12 @@ const WORDS_PL_B2 = [
       "en": "used",
       "de": "gebraucht",
       "es": "usado",
-      "pl": "używany",
       "it": "usato",
       "pt": "usado",
       "ja": "中古の",
       "zh": "二手的",
-      "ru": "подержанный"
+      "ru": "подержанный",
+      "fr": "usagé"
     },
     "examples": [],
     "meta": {}
@@ -7625,12 +7624,12 @@ const WORDS_PL_B2 = [
       "en": "factory",
       "de": "die Fabrik",
       "es": "la fábrica",
-      "pl": "zakłady",
       "it": "la fabbrica",
       "pt": "a fábrica",
       "ja": "工場",
       "zh": "工厂",
-      "ru": "завод"
+      "ru": "завод",
+      "fr": "usine"
     },
     "examples": [],
     "meta": {},
@@ -7653,12 +7652,12 @@ const WORDS_PL_B2 = [
       "en": "taxi",
       "de": "das Taxi",
       "es": "el taxi",
-      "pl": "taxi",
       "it": "il taxi",
       "pt": "o táxi",
       "ja": "タクシー",
       "zh": "出租车",
-      "ru": "такси"
+      "ru": "такси",
+      "fr": "taxi"
     },
     "examples": [],
     "meta": {},
@@ -7679,12 +7678,12 @@ const WORDS_PL_B2 = [
       "en": "warehouse",
       "de": "das Lager",
       "es": "el almacén",
-      "pl": "skład",
       "it": "il magazzino",
       "pt": "o armazém",
       "ja": "倉庫",
       "zh": "仓库",
-      "ru": "склад"
+      "ru": "склад",
+      "fr": "entrepôt"
     },
     "examples": [],
     "meta": {},
@@ -7706,12 +7705,12 @@ const WORDS_PL_B2 = [
       "en": "count",
       "de": "der Graf",
       "es": "el conde",
-      "pl": "hrabia",
       "it": "il conte",
       "pt": "o conde",
       "ja": "伯爵",
       "zh": "伯爵",
-      "ru": "граф"
+      "ru": "граф",
+      "fr": "comte"
     },
     "examples": [],
     "meta": {},
@@ -7733,12 +7732,12 @@ const WORDS_PL_B2 = [
       "en": "newspaper",
       "de": "die Zeitung",
       "es": "el periódico",
-      "pl": "gazeta",
       "it": "il giornale",
       "pt": "o jornal",
       "ja": "新聞",
       "zh": "报纸",
-      "ru": "газета"
+      "ru": "газета",
+      "fr": "journal"
     },
     "examples": [],
     "meta": {},
@@ -7760,12 +7759,12 @@ const WORDS_PL_B2 = [
       "en": "mustache",
       "de": "der Schnurrbart",
       "es": "el bigote",
-      "pl": "wąsy",
       "it": "i baffi",
       "pt": "o bigode",
       "ja": "口ひげ",
       "zh": "小胡子",
-      "ru": "усы"
+      "ru": "усы",
+      "fr": "moustache"
     },
     "examples": [],
     "meta": {},
@@ -7787,12 +7786,12 @@ const WORDS_PL_B2 = [
       "en": "prime minister",
       "de": "der Premierminister",
       "es": "el primer ministro",
-      "pl": "premier",
       "it": "il primo ministro",
       "pt": "o primeiro-ministro",
       "ja": "首相",
       "zh": "总理",
-      "ru": "премьер-министр"
+      "ru": "премьер-министр",
+      "fr": "Premier ministre"
     },
     "examples": [],
     "meta": {},
@@ -7814,12 +7813,12 @@ const WORDS_PL_B2 = [
       "en": "unusual",
       "de": "ungewöhnlich",
       "es": "inusual",
-      "pl": "niezwykły",
       "it": "insolito",
       "pt": "incomum",
       "ja": "珍しい",
       "zh": "不寻常的",
-      "ru": "необычный"
+      "ru": "необычный",
+      "fr": "inhabituel"
     },
     "examples": [],
     "meta": {}
@@ -7839,12 +7838,12 @@ const WORDS_PL_B2 = [
       "en": "failure",
       "de": "das Scheitern",
       "es": "el fracaso",
-      "pl": "nici",
       "it": "il fallimento",
       "pt": "o fracasso",
       "ja": "失敗",
       "zh": "失败",
-      "ru": "неудача"
+      "ru": "неудача",
+      "fr": "échec"
     },
     "examples": [],
     "meta": {},
@@ -7865,12 +7864,12 @@ const WORDS_PL_B2 = [
       "en": "verdict",
       "de": "das Urteil",
       "es": "el veredicto",
-      "pl": "werdykt",
       "it": "il verdetto",
       "pt": "o veredito",
       "ja": "評決",
       "zh": "判决",
-      "ru": "вердикт"
+      "ru": "вердикт",
+      "fr": "verdict"
     },
     "examples": [],
     "meta": {},
@@ -7892,12 +7891,12 @@ const WORDS_PL_B2 = [
       "en": "helpful",
       "de": "hilfreich",
       "es": "útil",
-      "pl": "pomocny",
       "it": "utile",
       "pt": "útil",
       "ja": "役立つ",
       "zh": "有帮助的",
-      "ru": "полезный"
+      "ru": "полезный",
+      "fr": "utile"
     },
     "examples": [],
     "meta": {}
@@ -7917,12 +7916,12 @@ const WORDS_PL_B2 = [
       "en": "master",
       "de": "beherrschen",
       "es": "dominar",
-      "pl": "opanować",
       "it": "padroneggiare",
       "pt": "dominar",
       "ja": "習得する",
       "zh": "掌握",
-      "ru": "освоить"
+      "ru": "освоить",
+      "fr": "maîtriser"
     },
     "examples": [],
     "meta": {},
@@ -7945,12 +7944,12 @@ const WORDS_PL_B2 = [
       "en": "snake",
       "de": "die Schlange",
       "es": "la serpiente",
-      "pl": "wąż",
       "it": "il serpente",
       "pt": "a cobra",
       "ja": "蛇",
       "zh": "蛇",
-      "ru": "змея"
+      "ru": "змея",
+      "fr": "serpent"
     },
     "examples": [],
     "meta": {},
@@ -7972,12 +7971,12 @@ const WORDS_PL_B2 = [
       "en": "previous",
       "de": "vorherig",
       "es": "anterior",
-      "pl": "poprzedni",
       "it": "precedente",
       "pt": "anterior",
       "ja": "前の",
       "zh": "以前的",
-      "ru": "предыдущий"
+      "ru": "предыдущий",
+      "fr": "précédent"
     },
     "examples": [],
     "meta": {}
@@ -7997,12 +7996,12 @@ const WORDS_PL_B2 = [
       "en": "minimum",
       "de": "das Minimum",
       "es": "el mínimo",
-      "pl": "minimum",
       "it": "il minimo",
       "pt": "o mínimo",
       "ja": "最小",
       "zh": "最小",
-      "ru": "минимум"
+      "ru": "минимум",
+      "fr": "minimum"
     },
     "examples": [],
     "meta": {},
@@ -8024,12 +8023,12 @@ const WORDS_PL_B2 = [
       "en": "cause",
       "de": "verursachen",
       "es": "causar",
-      "pl": "sprawiać",
       "it": "causare",
       "pt": "causar",
       "ja": "引き起こす",
       "zh": "引起",
-      "ru": "вызывать"
+      "ru": "вызывать",
+      "fr": "causer"
     },
     "examples": [],
     "meta": {},
@@ -8052,12 +8051,12 @@ const WORDS_PL_B2 = [
       "en": "hug",
       "de": "umarmen",
       "es": "abrazar",
-      "pl": "przytulić",
       "it": "abbracciare",
       "pt": "abraçar",
       "ja": "抱きしめる",
       "zh": "拥抱",
-      "ru": "обнять"
+      "ru": "обнять",
+      "fr": "étreindre"
     },
     "examples": [],
     "meta": {},
@@ -8080,12 +8079,12 @@ const WORDS_PL_B2 = [
       "en": "producer",
       "de": "der Produzent",
       "es": "el productor",
-      "pl": "producent",
       "it": "il produttore",
       "pt": "o produtor",
       "ja": "生産者",
       "zh": "生产者",
-      "ru": "производитель"
+      "ru": "производитель",
+      "fr": "producteur"
     },
     "examples": [],
     "meta": {},
@@ -8107,12 +8106,12 @@ const WORDS_PL_B2 = [
       "en": "microphone",
       "de": "das Mikrofon",
       "es": "el micrófono",
-      "pl": "mikrofon",
       "it": "il microfono",
       "pt": "o microfone",
       "ja": "マイク",
       "zh": "麦克风",
-      "ru": "микрофон"
+      "ru": "микрофон",
+      "fr": "microphone"
     },
     "examples": [],
     "meta": {},
@@ -8134,12 +8133,12 @@ const WORDS_PL_B2 = [
       "en": "dew",
       "de": "der Tau",
       "es": "el rocío",
-      "pl": "rosa",
       "it": "la rugiada",
       "pt": "o orvalho",
       "ja": "露",
       "zh": "露水",
-      "ru": "роса"
+      "ru": "роса",
+      "fr": "rosée"
     },
     "examples": [],
     "meta": {},
@@ -8161,12 +8160,12 @@ const WORDS_PL_B2 = [
       "en": "forty",
       "de": "vierzig",
       "es": "cuarenta",
-      "pl": "czterdzieści",
       "it": "quaranta",
       "pt": "quarenta",
       "ja": "四十",
       "zh": "四十",
-      "ru": "сорок"
+      "ru": "сорок",
+      "fr": "quarante"
     },
     "examples": [],
     "meta": {}
@@ -8186,12 +8185,12 @@ const WORDS_PL_B2 = [
       "en": "relationship",
       "de": "die Beziehung",
       "es": "la relación",
-      "pl": "stosunek",
       "it": "il rapporto",
       "pt": "a relação",
       "ja": "関係",
       "zh": "关系",
-      "ru": "отношение"
+      "ru": "отношение",
+      "fr": "relation"
     },
     "examples": [],
     "meta": {},
@@ -8212,12 +8211,12 @@ const WORDS_PL_B2 = [
       "en": "strategy",
       "de": "die Strategie",
       "es": "la estrategia",
-      "pl": "strategia",
       "it": "la strategia",
       "pt": "a estratégia",
       "ja": "戦略",
       "zh": "战略",
-      "ru": "стратегия"
+      "ru": "стратегия",
+      "fr": "stratégie"
     },
     "examples": [],
     "meta": {},
@@ -8239,12 +8238,12 @@ const WORDS_PL_B2 = [
       "en": "point out",
       "de": "hinweisen",
       "es": "señalar",
-      "pl": "wskazać",
       "it": "indicare",
       "pt": "indicar",
       "ja": "指摘する",
       "zh": "指出",
-      "ru": "указать"
+      "ru": "указать",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {},
@@ -8266,12 +8265,12 @@ const WORDS_PL_B2 = [
       "en": "Valentine's Day",
       "de": "der Valentinstag",
       "es": "el Día de San Valentín",
-      "pl": "walentynki",
       "it": "San Valentino",
       "pt": "o Dia dos Namorados",
       "ja": "バレンタインデー",
       "zh": "情人节",
-      "ru": "День святого Валентина"
+      "ru": "День святого Валентина",
+      "fr": "Saint-Valentin"
     },
     "examples": [],
     "meta": {},
@@ -8292,12 +8291,12 @@ const WORDS_PL_B2 = [
       "en": "nausea",
       "de": "die Übelkeit",
       "es": "la náusea",
-      "pl": "mdłości",
       "it": "la nausea",
       "pt": "a náusea",
       "ja": "吐き気",
       "zh": "恶心",
-      "ru": "тошнота"
+      "ru": "тошнота",
+      "fr": "nausée"
     },
     "examples": [],
     "meta": {},
@@ -8320,12 +8319,12 @@ const WORDS_PL_B2 = [
       "en": "visit",
       "de": "besuchen",
       "es": "visitar",
-      "pl": "odwiedzać",
       "it": "visitare",
       "pt": "visitar",
       "ja": "訪問する",
       "zh": "拜访",
-      "ru": "посещать"
+      "ru": "посещать",
+      "fr": "visiter"
     },
     "examples": [],
     "meta": {},
@@ -8348,12 +8347,12 @@ const WORDS_PL_B2 = [
       "en": "little boy",
       "de": "der kleine Junge",
       "es": "el niño pequeño",
-      "pl": "chłopczyk",
       "it": "il bambino",
       "pt": "o menino",
       "ja": "男の子",
       "zh": "小男孩",
-      "ru": "мальчик"
+      "ru": "мальчик",
+      "fr": "petit garçon"
     },
     "examples": [],
     "meta": {},
@@ -8375,12 +8374,12 @@ const WORDS_PL_B2 = [
       "en": "paint",
       "de": "malen",
       "es": "pintar",
-      "pl": "malować",
       "it": "dipingere",
       "pt": "pintar",
       "ja": "描く",
       "zh": "画",
-      "ru": "рисовать"
+      "ru": "рисовать",
+      "fr": "peindre"
     },
     "examples": [],
     "meta": {},
@@ -8403,12 +8402,12 @@ const WORDS_PL_B2 = [
       "en": "trick",
       "de": "der Trick",
       "es": "el truco",
-      "pl": "podstęp",
       "it": "il trucco",
       "pt": "o truque",
       "ja": "策略",
       "zh": "诡计",
-      "ru": "уловка"
+      "ru": "уловка",
+      "fr": "ruse"
     },
     "examples": [],
     "meta": {},
@@ -8431,12 +8430,12 @@ const WORDS_PL_B2 = [
       "en": "seller",
       "de": "der Verkäufer",
       "es": "el vendedor",
-      "pl": "sprzedawca",
       "it": "il venditore",
       "pt": "o vendedor",
       "ja": "販売員",
       "zh": "销售员",
-      "ru": "продавец"
+      "ru": "продавец",
+      "fr": "vendeur"
     },
     "examples": [],
     "meta": {},
@@ -8458,12 +8457,12 @@ const WORDS_PL_B2 = [
       "en": "courage",
       "de": "der Mut",
       "es": "el coraje",
-      "pl": "odwaga",
       "it": "il coraggio",
       "pt": "a coragem",
       "ja": "勇気",
       "zh": "勇气",
-      "ru": "мужество"
+      "ru": "мужество",
+      "fr": "courage"
     },
     "examples": [],
     "meta": {},
@@ -8485,12 +8484,12 @@ const WORDS_PL_B2 = [
       "en": "advertisement",
       "de": "die Werbung",
       "es": "la publicidad",
-      "pl": "reklama",
       "it": "la pubblicità",
       "pt": "a publicidade",
       "ja": "広告",
       "zh": "广告",
-      "ru": "реклама"
+      "ru": "реклама",
+      "fr": "publicité"
     },
     "examples": [],
     "meta": {},
@@ -8512,12 +8511,12 @@ const WORDS_PL_B2 = [
       "en": "train",
       "de": "trainieren",
       "es": "entrenar",
-      "pl": "trenować",
       "it": "allenare",
       "pt": "treinar",
       "ja": "訓練する",
       "zh": "训练",
-      "ru": "тренировать"
+      "ru": "тренировать",
+      "fr": "entraîner"
     },
     "examples": [],
     "meta": {},
@@ -8540,12 +8539,12 @@ const WORDS_PL_B2 = [
       "en": "glow",
       "de": "der Glanz",
       "es": "el brillo",
-      "pl": "blask",
       "it": "il bagliore",
       "pt": "o brilho",
       "ja": "輝き",
       "zh": "光芒",
-      "ru": "блеск"
+      "ru": "блеск",
+      "fr": "lueur"
     },
     "examples": [],
     "meta": {},
@@ -8566,12 +8565,12 @@ const WORDS_PL_B2 = [
       "en": "atmosphere",
       "de": "die Atmosphäre",
       "es": "la atmósfera",
-      "pl": "atmosfera",
       "it": "l'atmosfera",
       "pt": "a atmosfera",
       "ja": "大気",
       "zh": "大气",
-      "ru": "атмосфера"
+      "ru": "атмосфера",
+      "fr": "atmosphère"
     },
     "examples": [],
     "meta": {},
@@ -8592,12 +8591,12 @@ const WORDS_PL_B2 = [
       "en": "breed",
       "de": "die Rasse",
       "es": "la raza",
-      "pl": "rasa",
       "it": "la razza",
       "pt": "a raça",
       "ja": "品種",
       "zh": "品种",
-      "ru": "порода"
+      "ru": "порода",
+      "fr": "race"
     },
     "examples": [],
     "meta": {},
@@ -8619,12 +8618,12 @@ const WORDS_PL_B2 = [
       "en": "jacket",
       "de": "die Jacke",
       "es": "la chaqueta",
-      "pl": "kurtka",
       "it": "la giacca",
       "pt": "o casaco",
       "ja": "ジャケット",
       "zh": "夹克",
-      "ru": "куртка"
+      "ru": "куртка",
+      "fr": "veste"
     },
     "examples": [],
     "meta": {},
@@ -8646,12 +8645,12 @@ const WORDS_PL_B2 = [
       "en": "effort",
       "de": "die Anstrengung",
       "es": "el esfuerzo",
-      "pl": "wysiłek",
       "it": "lo sforzo",
       "pt": "o esforço",
       "ja": "努力",
       "zh": "努力",
-      "ru": "усилие"
+      "ru": "усилие",
+      "fr": "effort"
     },
     "examples": [],
     "meta": {},
@@ -8673,12 +8672,12 @@ const WORDS_PL_B2 = [
       "en": "exchange",
       "de": "der Austausch",
       "es": "el intercambio",
-      "pl": "wymiana",
       "it": "lo scambio",
       "pt": "a troca",
       "ja": "交換",
       "zh": "交换",
-      "ru": "обмен"
+      "ru": "обмен",
+      "fr": "échange"
     },
     "examples": [],
     "meta": {},
@@ -8699,12 +8698,12 @@ const WORDS_PL_B2 = [
       "en": "fleet",
       "de": "die Flotte",
       "es": "la flota",
-      "pl": "flota",
       "it": "la flotta",
       "pt": "a frota",
       "ja": "艦隊",
       "zh": "舰队",
-      "ru": "флот"
+      "ru": "флот",
+      "fr": "flotte"
     },
     "examples": [],
     "meta": {},
@@ -8725,12 +8724,12 @@ const WORDS_PL_B2 = [
       "en": "spore",
       "de": "die Spore",
       "es": "la espora",
-      "pl": "spora",
       "it": "la spora",
       "pt": "o esporo",
       "ja": "胞子",
       "zh": "孢子",
-      "ru": "спора"
+      "ru": "спора",
+      "fr": "spore"
     },
     "examples": [],
     "meta": {},
@@ -8752,12 +8751,12 @@ const WORDS_PL_B2 = [
       "en": "party",
       "de": "die Party",
       "es": "la fiesta",
-      "pl": "party",
       "it": "la festa",
       "pt": "a festa",
       "ja": "パーティー",
       "zh": "派对",
-      "ru": "вечеринка"
+      "ru": "вечеринка",
+      "fr": "fête"
     },
     "examples": [],
     "meta": {},
@@ -8779,12 +8778,12 @@ const WORDS_PL_B2 = [
       "en": "original",
       "de": "originell",
       "es": "original",
-      "pl": "oryginalny",
       "it": "originale",
       "pt": "original",
       "ja": "オリジナル",
       "zh": "原始的",
-      "ru": "оригинальный"
+      "ru": "оригинальный",
+      "fr": "original"
     },
     "examples": [],
     "meta": {}
@@ -8804,12 +8803,12 @@ const WORDS_PL_B2 = [
       "en": "saw",
       "de": "die Säge",
       "es": "la sierra",
-      "pl": "piła",
       "it": "la sega",
       "pt": "a serra",
       "ja": "のこぎり",
       "zh": "锯子",
-      "ru": "пила"
+      "ru": "пила",
+      "fr": "scie"
     },
     "examples": [],
     "meta": {},
@@ -8831,12 +8830,12 @@ const WORDS_PL_B2 = [
       "en": "minister",
       "de": "die Ministerin",
       "es": "la ministra",
-      "pl": "ministra",
       "it": "la ministra",
       "pt": "a ministra",
       "ja": "大臣",
       "zh": "部长",
-      "ru": "министр"
+      "ru": "министр",
+      "fr": "ministre"
     },
     "examples": [],
     "meta": {},
@@ -8858,12 +8857,12 @@ const WORDS_PL_B2 = [
       "en": "perfume",
       "de": "das Parfüm",
       "es": "el perfume",
-      "pl": "perfumy",
       "it": "il profumo",
       "pt": "o perfume",
       "ja": "香水",
       "zh": "香水",
-      "ru": "духи"
+      "ru": "духи",
+      "fr": "parfum"
     },
     "examples": [],
     "meta": {},
@@ -8886,12 +8885,12 @@ const WORDS_PL_B2 = [
       "en": "Delete key",
       "de": "die Entf Taste",
       "es": "la tecla Supr",
-      "pl": "del",
       "it": "il tasto Canc",
       "pt": "a tecla Del",
       "ja": "Deleteキー",
       "zh": "删除键",
-      "ru": "клавиша Delete"
+      "ru": "клавиша Delete",
+      "fr": "Suppr"
     },
     "examples": [],
     "meta": {},
@@ -8913,12 +8912,12 @@ const WORDS_PL_B2 = [
       "en": "oven",
       "de": "der Ofen",
       "es": "el horno",
-      "pl": "piec",
       "it": "il forno",
       "pt": "o forno",
       "ja": "オーブン",
       "zh": "烤箱",
-      "ru": "печь"
+      "ru": "печь",
+      "fr": "four"
     },
     "examples": [],
     "meta": {},
@@ -8940,12 +8939,12 @@ const WORDS_PL_B2 = [
       "en": "bake",
       "de": "backen",
       "es": "hornear",
-      "pl": "piec",
       "it": "cuocere al forno",
       "pt": "assar",
       "ja": "焼く",
       "zh": "烘烤",
-      "ru": "печь"
+      "ru": "печь",
+      "fr": "cuire"
     },
     "examples": [],
     "meta": {},
@@ -8968,12 +8967,12 @@ const WORDS_PL_B2 = [
       "en": "copy",
       "de": "die Kopie",
       "es": "la copia",
-      "pl": "kopia",
       "it": "la copia",
       "pt": "a cópia",
       "ja": "コピー",
       "zh": "副本",
-      "ru": "копия"
+      "ru": "копия",
+      "fr": "copie"
     },
     "examples": [],
     "meta": {},
@@ -8995,12 +8994,12 @@ const WORDS_PL_B2 = [
       "en": "drug",
       "de": "die Droge",
       "es": "la droga",
-      "pl": "narkotyk",
       "it": "la droga",
       "pt": "a droga",
       "ja": "麻薬",
       "zh": "毒品",
-      "ru": "наркотик"
+      "ru": "наркотик",
+      "fr": "drogue"
     },
     "examples": [],
     "meta": {},
@@ -9022,12 +9021,12 @@ const WORDS_PL_B2 = [
       "en": "arrange",
       "de": "einrichten",
       "es": "arreglar",
-      "pl": "urządzić",
       "it": "sistemare",
       "pt": "arrumar",
       "ja": "整える",
       "zh": "布置",
-      "ru": "устроить"
+      "ru": "устроить",
+      "fr": "arranger"
     },
     "examples": [],
     "meta": {},
@@ -9050,12 +9049,12 @@ const WORDS_PL_B2 = [
       "en": "abbreviation",
       "de": "die Abkürzung",
       "es": "la abreviatura",
-      "pl": "skrót",
       "it": "l'abbreviazione",
       "pt": "a abreviação",
       "ja": "略語",
       "zh": "缩写",
-      "ru": "сокращение"
+      "ru": "сокращение",
+      "fr": "abréviation"
     },
     "examples": [],
     "meta": {},
@@ -9077,12 +9076,12 @@ const WORDS_PL_B2 = [
       "en": "armchair",
       "de": "der Sessel",
       "es": "el sillón",
-      "pl": "fotel",
       "it": "la poltrona",
       "pt": "a poltrona",
       "ja": "肘掛け椅子",
       "zh": "扶手椅",
-      "ru": "кресло"
+      "ru": "кресло",
+      "fr": "fauteuil"
     },
     "examples": [],
     "meta": {},
@@ -9104,12 +9103,12 @@ const WORDS_PL_B2 = [
       "en": "voucher",
       "de": "der Gutschein",
       "es": "el vale",
-      "pl": "bon",
       "it": "il buono",
       "pt": "o vale",
       "ja": "クーポン",
       "zh": "优惠券",
-      "ru": "ваучер"
+      "ru": "ваучер",
+      "fr": "bon"
     },
     "examples": [],
     "meta": {},
@@ -9131,12 +9130,12 @@ const WORDS_PL_B2 = [
       "en": "pointer",
       "de": "der Zeiger",
       "es": "la manecilla",
-      "pl": "wskazówka",
       "it": "la lancetta",
       "pt": "o ponteiro",
       "ja": "指針",
       "zh": "指针",
-      "ru": "стрелка"
+      "ru": "стрелка",
+      "fr": "pointeur"
     },
     "examples": [],
     "meta": {},
@@ -9158,12 +9157,12 @@ const WORDS_PL_B2 = [
       "en": "thin",
       "de": "dünn",
       "es": "delgado",
-      "pl": "chudy",
       "it": "magro",
       "pt": "magro",
       "ja": "痩せた",
       "zh": "瘦的",
-      "ru": "худой"
+      "ru": "худой",
+      "fr": "mince"
     },
     "examples": [],
     "meta": {}
@@ -9183,12 +9182,12 @@ const WORDS_PL_B2 = [
       "en": "negotiate",
       "de": "verhandeln",
       "es": "negociar",
-      "pl": "negocjować",
       "it": "negoziare",
       "pt": "negociar",
       "ja": "交渉する",
       "zh": "谈判",
-      "ru": "вести переговоры"
+      "ru": "вести переговоры",
+      "fr": "négocier"
     },
     "examples": [],
     "meta": {},
@@ -9211,12 +9210,12 @@ const WORDS_PL_B2 = [
       "en": "pope",
       "de": "der Papst",
       "es": "el papa",
-      "pl": "papież",
       "it": "il papa",
       "pt": "o papa",
       "ja": "教皇",
       "zh": "教皇",
-      "ru": "папа"
+      "ru": "папа",
+      "fr": "pape"
     },
     "examples": [],
     "meta": {},
@@ -9237,12 +9236,12 @@ const WORDS_PL_B2 = [
       "en": "explosion",
       "de": "die Explosion",
       "es": "la explosión",
-      "pl": "eksplozja",
       "it": "l'esplosione",
       "pt": "a explosão",
       "ja": "爆発",
       "zh": "爆炸",
-      "ru": "взрыв"
+      "ru": "взрыв",
+      "fr": "explosion"
     },
     "examples": [],
     "meta": {},
@@ -9264,12 +9263,12 @@ const WORDS_PL_B2 = [
       "en": "born",
       "de": "geboren",
       "es": "nacido",
-      "pl": "urodzony",
       "it": "nato",
       "pt": "nascido",
       "ja": "生まれつきの",
       "zh": "天生的",
-      "ru": "рождённый"
+      "ru": "рождённый",
+      "fr": "né"
     },
     "examples": [],
     "meta": {}
@@ -9289,12 +9288,12 @@ const WORDS_PL_B2 = [
       "en": "face",
       "de": "das Antlitz",
       "es": "el rostro",
-      "pl": "oblicze",
       "it": "il volto",
       "pt": "o rosto",
       "ja": "顔",
       "zh": "脸",
-      "ru": "лицо"
+      "ru": "лицо",
+      "fr": "visage"
     },
     "examples": [],
     "meta": {},
@@ -9316,12 +9315,12 @@ const WORDS_PL_B2 = [
       "en": "spa",
       "de": "das Spa",
       "es": "el spa",
-      "pl": "spa",
       "it": "la spa",
       "pt": "o spa",
       "ja": "スパ",
       "zh": "水疗",
-      "ru": "спа"
+      "ru": "спа",
+      "fr": "spa"
     },
     "examples": [],
     "meta": {},
@@ -9343,12 +9342,12 @@ const WORDS_PL_B2 = [
       "en": "jacket",
       "de": "die Jacke",
       "es": "la chaqueta",
-      "pl": "marynarka",
       "it": "la giacca",
       "pt": "o paletó",
       "ja": "ジャケット",
       "zh": "夹克",
-      "ru": "пиджак"
+      "ru": "пиджак",
+      "fr": "veste"
     },
     "examples": [],
     "meta": {},
@@ -9370,12 +9369,12 @@ const WORDS_PL_B2 = [
       "en": "reserve",
       "de": "der Vorrat",
       "es": "la reserva",
-      "pl": "zapas",
       "it": "la riserva",
       "pt": "a reserva",
       "ja": "予備",
       "zh": "储备",
-      "ru": "запас"
+      "ru": "запас",
+      "fr": "réserve"
     },
     "examples": [],
     "meta": {},
@@ -9396,12 +9395,12 @@ const WORDS_PL_B2 = [
       "en": "commander",
       "de": "der Kommandant",
       "es": "el comandante",
-      "pl": "komendant",
       "it": "il comandante",
       "pt": "o comandante",
       "ja": "司令官",
       "zh": "指挥官",
-      "ru": "комендант"
+      "ru": "комендант",
+      "fr": "commandant"
     },
     "examples": [],
     "meta": {},
@@ -9423,12 +9422,12 @@ const WORDS_PL_B2 = [
       "en": "factory",
       "de": "die Fabrik",
       "es": "la fábrica",
-      "pl": "fabryka",
       "it": "la fabbrica",
       "pt": "a fábrica",
       "ja": "工場",
       "zh": "工厂",
-      "ru": "фабрика"
+      "ru": "фабрика",
+      "fr": "usine"
     },
     "examples": [],
     "meta": {},
@@ -9449,12 +9448,12 @@ const WORDS_PL_B2 = [
       "en": "resilience",
       "de": "die Härte",
       "es": "la resistencia",
-      "pl": "hart",
       "it": "la tempra",
       "pt": "a resiliência",
       "ja": "精神力",
       "zh": "韧性",
-      "ru": "закалка"
+      "ru": "закалка",
+      "fr": "résilience"
     },
     "examples": [],
     "meta": {},
@@ -9475,12 +9474,12 @@ const WORDS_PL_B2 = [
       "en": "idiot (female)",
       "de": "die Idiotin",
       "es": "la idiota",
-      "pl": "idiotka",
       "it": "l'idiota",
       "pt": "a idiota",
       "ja": "馬鹿な女",
       "zh": "白痴 (女性)",
-      "ru": "идиотка"
+      "ru": "идиотка",
+      "fr": "idiote"
     },
     "examples": [],
     "meta": {},
@@ -9502,12 +9501,12 @@ const WORDS_PL_B2 = [
       "en": "harm",
       "de": "schaden",
       "es": "dañar",
-      "pl": "zaszkodzić",
       "it": "nuocere",
       "pt": "prejudicar",
       "ja": "害する",
       "zh": "损害",
-      "ru": "навредить"
+      "ru": "навредить",
+      "fr": "nuire"
     },
     "examples": [],
     "meta": {},
@@ -9530,12 +9529,12 @@ const WORDS_PL_B2 = [
       "en": "ignore",
       "de": "ignorieren",
       "es": "ignorar",
-      "pl": "ignorować",
       "it": "ignorare",
       "pt": "ignorar",
       "ja": "無視する",
       "zh": "忽视",
-      "ru": "игнорировать"
+      "ru": "игнорировать",
+      "fr": "ignorer"
     },
     "examples": [],
     "meta": {},
@@ -9557,12 +9556,12 @@ const WORDS_PL_B2 = [
       "en": "probability",
       "de": "die Wahrscheinlichkeit",
       "es": "la probabilidad",
-      "pl": "prawdopodobieństwo",
       "it": "la probabilità",
       "pt": "a probabilidade",
       "ja": "確率",
       "zh": "概率",
-      "ru": "вероятность"
+      "ru": "вероятность",
+      "fr": "probabilité"
     },
     "examples": [],
     "meta": {},
@@ -9585,12 +9584,12 @@ const WORDS_PL_B2 = [
       "en": "online mode",
       "de": "der Online-Modus",
       "es": "el modo en línea",
-      "pl": "online",
       "it": "la modalità online",
       "pt": "o modo online",
       "ja": "オンラインモード",
       "zh": "在线模式",
-      "ru": "онлайн-режим"
+      "ru": "онлайн-режим",
+      "fr": "mode en ligne"
     },
     "examples": [],
     "meta": {},
@@ -9613,12 +9612,12 @@ const WORDS_PL_B2 = [
       "en": "online",
       "de": "online",
       "es": "en línea",
-      "pl": "online",
       "it": "online",
       "pt": "online",
       "ja": "オンラインの",
       "zh": "在线的",
-      "ru": "онлайн"
+      "ru": "онлайн",
+      "fr": "en ligne"
     },
     "examples": [],
     "meta": {}
@@ -9638,12 +9637,12 @@ const WORDS_PL_B2 = [
       "en": "feed",
       "de": "füttern",
       "es": "alimentar",
-      "pl": "karmić",
       "it": "nutrire",
       "pt": "alimentar",
       "ja": "養う",
       "zh": "喂养",
-      "ru": "кормить"
+      "ru": "кормить",
+      "fr": "nourrir"
     },
     "examples": [],
     "meta": {},
@@ -9666,12 +9665,12 @@ const WORDS_PL_B2 = [
       "en": "stop",
       "de": "der Stopp",
       "es": "la detención",
-      "pl": "zatrzymanie",
       "it": "l'arresto",
       "pt": "a parada",
       "ja": "停止",
       "zh": "停止",
-      "ru": "остановка"
+      "ru": "остановка",
+      "fr": "arrêt"
     },
     "examples": [],
     "meta": {},
@@ -9693,12 +9692,12 @@ const WORDS_PL_B2 = [
       "en": "make it on time",
       "de": "rechtzeitig ankommen",
       "es": "llegar a tiempo",
-      "pl": "zdążyć",
       "it": "arrivare in tempo",
       "pt": "chegar a tempo",
       "ja": "間に合う",
       "zh": "及时赶到",
-      "ru": "успеть"
+      "ru": "успеть",
+      "fr": "arriver à l'heure"
     },
     "examples": [],
     "meta": {},
@@ -9721,12 +9720,12 @@ const WORDS_PL_B2 = [
       "en": "delay",
       "de": "die Verspätung",
       "es": "el retraso",
-      "pl": "opóźnienie",
       "it": "il ritardo",
       "pt": "o atraso",
       "ja": "遅延",
       "zh": "延迟",
-      "ru": "задержка"
+      "ru": "задержка",
+      "fr": "retard"
     },
     "examples": [],
     "meta": {},
@@ -9747,12 +9746,12 @@ const WORDS_PL_B2 = [
       "en": "eccentric person",
       "de": "der Sonderling",
       "es": "el excéntrico",
-      "pl": "dziwak",
       "it": "l'eccentrico",
       "pt": "o excêntrico",
       "ja": "変人",
       "zh": "怪人",
-      "ru": "чудак"
+      "ru": "чудак",
+      "fr": "excentrique"
     },
     "examples": [],
     "meta": {},
@@ -9774,12 +9773,12 @@ const WORDS_PL_B2 = [
       "en": "right",
       "de": "rechts",
       "es": "derecho",
-      "pl": "prawy",
       "it": "destro",
       "pt": "direito",
       "ja": "右の",
       "zh": "右边的",
-      "ru": "правый"
+      "ru": "правый",
+      "fr": "droit"
     },
     "examples": [],
     "meta": {}
@@ -9799,12 +9798,12 @@ const WORDS_PL_B2 = [
       "en": "advisor",
       "de": "der Berater",
       "es": "el asesor",
-      "pl": "doradca",
       "it": "il consulente",
       "pt": "o conselheiro",
       "ja": "顧問",
       "zh": "顾问",
-      "ru": "советник"
+      "ru": "советник",
+      "fr": "conseiller"
     },
     "examples": [],
     "meta": {},
@@ -9825,12 +9824,12 @@ const WORDS_PL_B2 = [
       "en": "portal",
       "de": "das Portal",
       "es": "el portal",
-      "pl": "portal",
       "it": "il portale",
       "pt": "o portal",
       "ja": "門",
       "zh": "门廊",
-      "ru": "портал"
+      "ru": "портал",
+      "fr": "portal"
     },
     "examples": [],
     "meta": {},
@@ -9852,12 +9851,12 @@ const WORDS_PL_B2 = [
       "en": "possible",
       "de": "möglich",
       "es": "posible",
-      "pl": "możliwy",
       "it": "possibile",
       "pt": "possível",
       "ja": "可能な",
       "zh": "可能的",
-      "ru": "возможный"
+      "ru": "возможный",
+      "fr": "possible"
     },
     "examples": [],
     "meta": {}
@@ -9877,12 +9876,12 @@ const WORDS_PL_B2 = [
       "en": "establish",
       "de": "gründen",
       "es": "establecer",
-      "pl": "zakładać",
       "it": "fondare",
       "pt": "estabelecer",
       "ja": "設立する",
       "zh": "建立",
-      "ru": "основывать"
+      "ru": "основывать",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {},
@@ -9905,12 +9904,12 @@ const WORDS_PL_B2 = [
       "en": "serve",
       "de": "servieren",
       "es": "servir",
-      "pl": "podawać",
       "it": "servire",
       "pt": "servir",
       "ja": "提供する",
       "zh": "提供",
-      "ru": "подавать"
+      "ru": "подавать",
+      "fr": "servir"
     },
     "examples": [],
     "meta": {},
@@ -9933,12 +9932,12 @@ const WORDS_PL_B2 = [
       "en": "female client",
       "de": "die Kundin",
       "es": "la clienta",
-      "pl": "klientka",
       "it": "la cliente",
       "pt": "a cliente",
       "ja": "女性客",
       "zh": "女顾客",
-      "ru": "клиентка"
+      "ru": "клиентка",
+      "fr": "cliente"
     },
     "examples": [],
     "meta": {},
@@ -9959,12 +9958,12 @@ const WORDS_PL_B2 = [
       "en": "nest",
       "de": "das Nest",
       "es": "el nido",
-      "pl": "gniazdo",
       "it": "il nido",
       "pt": "o ninho",
       "ja": "巣",
       "zh": "巢",
-      "ru": "гнездо"
+      "ru": "гнездо",
+      "fr": "nid"
     },
     "examples": [],
     "meta": {},
@@ -9986,12 +9985,12 @@ const WORDS_PL_B2 = [
       "en": "partner",
       "de": "der Partner",
       "es": "el socio",
-      "pl": "wspólnik",
       "it": "il socio",
       "pt": "o parceiro",
       "ja": "パートナー",
       "zh": "合伙人",
-      "ru": "партнёр"
+      "ru": "партнёр",
+      "fr": "partenaire"
     },
     "examples": [],
     "meta": {},
@@ -10012,12 +10011,12 @@ const WORDS_PL_B2 = [
       "en": "fast",
       "de": "das Fasten",
       "es": "el ayuno",
-      "pl": "post",
       "it": "il digiuno",
       "pt": "o jejum",
       "ja": "断食",
       "zh": "禁食",
-      "ru": "пост"
+      "ru": "пост",
+      "fr": "jeûne"
     },
     "examples": [],
     "meta": {},
@@ -10040,12 +10039,12 @@ const WORDS_PL_B2 = [
       "en": "evaluate",
       "de": "bewerten",
       "es": "evaluar",
-      "pl": "oceniać",
       "it": "valutare",
       "pt": "avaliar",
       "ja": "評価する",
       "zh": "评估",
-      "ru": "оценивать"
+      "ru": "оценивать",
+      "fr": "évaluer"
     },
     "examples": [],
     "meta": {},
@@ -10067,12 +10066,12 @@ const WORDS_PL_B2 = [
       "en": "spine",
       "de": "die Wirbelsäule",
       "es": "la columna vertebral",
-      "pl": "kręgosłup",
       "it": "la colonna vertebrale",
       "pt": "a coluna vertebral",
       "ja": "背骨",
       "zh": "脊柱",
-      "ru": "позвоночник"
+      "ru": "позвоночник",
+      "fr": "colonne vertébrale"
     },
     "examples": [],
     "meta": {},
@@ -10094,12 +10093,12 @@ const WORDS_PL_B2 = [
       "en": "destroy",
       "de": "zerstören",
       "es": "destruir",
-      "pl": "niszczyć",
       "it": "distruggere",
       "pt": "destruir",
       "ja": "破壊する",
       "zh": "破坏",
-      "ru": "уничтожать"
+      "ru": "уничтожать",
+      "fr": "détruire"
     },
     "examples": [],
     "meta": {},
@@ -10121,12 +10120,12 @@ const WORDS_PL_B2 = [
       "en": "broke",
       "de": "pleite",
       "es": "sin dinero",
-      "pl": "spłukany",
       "it": "al verde",
       "pt": "sem dinheiro",
       "ja": "無一文の",
       "zh": "破产的",
-      "ru": "без денег"
+      "ru": "без денег",
+      "fr": "fauché"
     },
     "examples": [],
     "meta": {}
@@ -10145,12 +10144,12 @@ const WORDS_PL_B2 = [
       "en": "karate",
       "de": "das Karate",
       "es": "el kárate",
-      "pl": "karate",
       "it": "il karate",
       "pt": "o caratê",
       "ja": "空手",
       "zh": "空手道",
-      "ru": "карате"
+      "ru": "карате",
+      "fr": "karate"
     },
     "examples": [],
     "meta": {},
@@ -10171,12 +10170,12 @@ const WORDS_PL_B2 = [
       "en": "wing",
       "de": "der Flügel",
       "es": "el ala",
-      "pl": "skrzydło",
       "it": "l'ala",
       "pt": "a asa",
       "ja": "翼",
       "zh": "翅膀",
-      "ru": "крыло"
+      "ru": "крыло",
+      "fr": "aile"
     },
     "examples": [],
     "meta": {},
@@ -10197,12 +10196,12 @@ const WORDS_PL_B2 = [
       "en": "addict",
       "de": "der Süchtige",
       "es": "el adicto",
-      "pl": "uzależniony",
       "it": "il tossicodipendente",
       "pt": "o viciado",
       "ja": "中毒者",
       "zh": "上瘾者",
-      "ru": "зависимый"
+      "ru": "зависимый",
+      "fr": "accro"
     },
     "examples": [],
     "meta": {},
@@ -10224,12 +10223,12 @@ const WORDS_PL_B2 = [
       "en": "interior",
       "de": "das Innere",
       "es": "el interior",
-      "pl": "wnętrze",
       "it": "l'interno",
       "pt": "o interior",
       "ja": "内部",
       "zh": "内部",
-      "ru": "интерьер"
+      "ru": "интерьер",
+      "fr": "intérieur"
     },
     "examples": [],
     "meta": {},
@@ -10252,12 +10251,12 @@ const WORDS_PL_B2 = [
       "en": "student",
       "de": "der Student",
       "es": "el estudiante",
-      "pl": "student",
       "it": "lo studente",
       "pt": "o estudante",
       "ja": "学生",
       "zh": "学生",
-      "ru": "студент"
+      "ru": "студент",
+      "fr": "étudiant"
     },
     "examples": [],
     "meta": {},
@@ -10279,12 +10278,12 @@ const WORDS_PL_B2 = [
       "en": "winter",
       "de": "der Winter",
       "es": "el invierno",
-      "pl": "zima",
       "it": "l'inverno",
       "pt": "o inverno",
       "ja": "冬",
       "zh": "冬天",
-      "ru": "зима"
+      "ru": "зима",
+      "fr": "hiver"
     },
     "examples": [],
     "meta": {},
@@ -10306,12 +10305,12 @@ const WORDS_PL_B2 = [
       "en": "order",
       "de": "befehlen",
       "es": "ordenar",
-      "pl": "kazać",
       "it": "ordinare",
       "pt": "ordenar",
       "ja": "命じる",
       "zh": "命令",
-      "ru": "приказывать"
+      "ru": "приказывать",
+      "fr": "commander"
     },
     "examples": [],
     "meta": {},
@@ -10334,12 +10333,12 @@ const WORDS_PL_B2 = [
       "en": "stop",
       "de": "anhalten",
       "es": "detener",
-      "pl": "zatrzymywać",
       "it": "fermare",
       "pt": "parar",
       "ja": "止める",
       "zh": "停止",
-      "ru": "останавливать"
+      "ru": "останавливать",
+      "fr": "arrêter"
     },
     "examples": [],
     "meta": {},
@@ -10362,12 +10361,12 @@ const WORDS_PL_B2 = [
       "en": "spaghetti",
       "de": "die Spaghetti",
       "es": "los espaguetis",
-      "pl": "spaghetti",
       "it": "gli spaghetti",
       "pt": "o espaguete",
       "ja": "スパゲッティ",
       "zh": "意大利面",
-      "ru": "спагетти"
+      "ru": "спагетти",
+      "fr": "spaghetti"
     },
     "examples": [],
     "meta": {},
@@ -10389,12 +10388,12 @@ const WORDS_PL_B2 = [
       "en": "riddle",
       "de": "das Rätsel",
       "es": "el acertijo",
-      "pl": "zagadka",
       "it": "l'indovinello",
       "pt": "o enigma",
       "ja": "なぞなぞ",
       "zh": "谜语",
-      "ru": "загадка"
+      "ru": "загадка",
+      "fr": "énigme"
     },
     "examples": [],
     "meta": {},
@@ -10416,12 +10415,12 @@ const WORDS_PL_B2 = [
       "en": "Orthodox priest",
       "de": "der Pope",
       "es": "el pope",
-      "pl": "pop",
       "it": "il pope",
       "pt": "o popa",
       "ja": "正教会の司祭",
       "zh": "东正教神父",
-      "ru": "поп"
+      "ru": "поп",
+      "fr": "pop"
     },
     "examples": [],
     "meta": {},
@@ -10443,12 +10442,12 @@ const WORDS_PL_B2 = [
       "en": "pop",
       "de": "Pop",
       "es": "pop",
-      "pl": "pop",
       "it": "pop",
       "pt": "pop",
       "ja": "ポップ",
       "zh": "流行",
-      "ru": "поп"
+      "ru": "поп",
+      "fr": "pop"
     },
     "examples": [],
     "meta": {}
@@ -10468,12 +10467,12 @@ const WORDS_PL_B2 = [
       "en": "gate",
       "de": "das Tor",
       "es": "la puerta",
-      "pl": "brama",
       "it": "il cancello",
       "pt": "o portão",
       "ja": "門",
       "zh": "大门",
-      "ru": "ворота"
+      "ru": "ворота",
+      "fr": "porte"
     },
     "examples": [],
     "meta": {},
@@ -10495,12 +10494,12 @@ const WORDS_PL_B2 = [
       "en": "shootout",
       "de": "die Schießerei",
       "es": "el tiroteo",
-      "pl": "strzelanina",
       "it": "la sparatoria",
       "pt": "o tiroteio",
       "ja": "銃撃戦",
       "zh": "枪战",
-      "ru": "перестрелка"
+      "ru": "перестрелка",
+      "fr": "fusillade"
     },
     "examples": [],
     "meta": {},
@@ -10522,12 +10521,12 @@ const WORDS_PL_B2 = [
       "en": "lack",
       "de": "fehlen",
       "es": "faltar",
-      "pl": "brakować",
       "it": "mancare",
       "pt": "faltar",
       "ja": "不足する",
       "zh": "缺少",
-      "ru": "не хватать"
+      "ru": "не хватать",
+      "fr": "manquer"
     },
     "examples": [],
     "meta": {},
@@ -10551,12 +10550,12 @@ const WORDS_PL_B2 = [
       "en": "female patient",
       "de": "die Patientin",
       "es": "la paciente",
-      "pl": "pacjentka",
       "it": "la paziente",
       "pt": "a paciente",
       "ja": "女性患者",
       "zh": "女病人",
-      "ru": "пациентка"
+      "ru": "пациентка",
+      "fr": "patiente"
     },
     "examples": [],
     "meta": {},
@@ -10578,12 +10577,12 @@ const WORDS_PL_B2 = [
       "en": "feather",
       "de": "die Feder",
       "es": "la pluma",
-      "pl": "pióro",
       "it": "la piuma",
       "pt": "a pena",
       "ja": "羽",
       "zh": "羽毛",
-      "ru": "перо"
+      "ru": "перо",
+      "fr": "plume"
     },
     "examples": [],
     "meta": {},
@@ -10605,12 +10604,12 @@ const WORDS_PL_B2 = [
       "en": "orange",
       "de": "orange",
       "es": "naranja",
-      "pl": "pomarańczowy",
       "it": "arancione",
       "pt": "laranja",
       "ja": "オレンジ色の",
       "zh": "橙色的",
-      "ru": "оранжевый"
+      "ru": "оранжевый",
+      "fr": "orange"
     },
     "examples": [],
     "meta": {}
@@ -10630,12 +10629,12 @@ const WORDS_PL_B2 = [
       "en": "anxiety",
       "de": "die Unruhe",
       "es": "la ansiedad",
-      "pl": "niepokój",
       "it": "l'ansia",
       "pt": "a ansiedade",
       "ja": "不安",
       "zh": "焦虑",
-      "ru": "беспокойство"
+      "ru": "беспокойство",
+      "fr": "anxiété"
     },
     "examples": [],
     "meta": {},
@@ -10657,12 +10656,12 @@ const WORDS_PL_B2 = [
       "en": "sherry",
       "de": "der Sherry",
       "es": "el jerez",
-      "pl": "sherry",
       "it": "lo sherry",
       "pt": "o xerez",
       "ja": "シェリー",
       "zh": "雪利酒",
-      "ru": "херес"
+      "ru": "херес",
+      "fr": "sherry"
     },
     "examples": [],
     "meta": {},
@@ -10685,12 +10684,12 @@ const WORDS_PL_B2 = [
       "en": "accurate",
       "de": "genau",
       "es": "exacto",
-      "pl": "dokładny",
       "it": "preciso",
       "pt": "exato",
       "ja": "正確な",
       "zh": "准确的",
-      "ru": "точный"
+      "ru": "точный",
+      "fr": "précis"
     },
     "examples": [],
     "meta": {}
@@ -10710,12 +10709,12 @@ const WORDS_PL_B2 = [
       "en": "tournament",
       "de": "das Turnier",
       "es": "el torneo",
-      "pl": "turniej",
       "it": "il torneo",
       "pt": "o torneio",
       "ja": "トーナメント",
       "zh": "锦标赛",
-      "ru": "турнир"
+      "ru": "турнир",
+      "fr": "tournoi"
     },
     "examples": [],
     "meta": {},
@@ -10736,12 +10735,12 @@ const WORDS_PL_B2 = [
       "en": "letter K",
       "de": "das K",
       "es": "la K",
-      "pl": "ka",
       "it": "la K",
       "pt": "o K",
       "ja": "文字K",
       "zh": "字母K",
-      "ru": "буква К"
+      "ru": "буква К",
+      "fr": "ka"
     },
     "examples": [],
     "meta": {},
@@ -10762,12 +10761,12 @@ const WORDS_PL_B2 = [
       "en": "life annuity",
       "de": "die Leibrente",
       "es": "la renta vitalicia",
-      "pl": "dożywocie",
       "it": "la rendita vitalizia",
       "pt": "a renda vitalícia",
       "ja": "終身年金",
       "zh": "终身年金",
-      "ru": "пожизненная рента"
+      "ru": "пожизненная рента",
+      "fr": "rente viagère"
     },
     "examples": [],
     "meta": {},
@@ -10789,12 +10788,12 @@ const WORDS_PL_B2 = [
       "en": "animal feed",
       "de": "das Tierfutter",
       "es": "el pienso",
-      "pl": "karma",
       "it": "il mangime",
       "pt": "a ração",
       "ja": "飼料",
       "zh": "饲料",
-      "ru": "корм"
+      "ru": "корм",
+      "fr": "aliments"
     },
     "examples": [],
     "meta": {},
@@ -10816,12 +10815,12 @@ const WORDS_PL_B2 = [
       "en": "mess",
       "de": "das Chaos",
       "es": "el desorden",
-      "pl": "bajzel",
       "it": "il casino",
       "pt": "a bagunça",
       "ja": "散らかり",
       "zh": "混乱",
-      "ru": "беспорядок"
+      "ru": "беспорядок",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {},
@@ -10843,12 +10842,12 @@ const WORDS_PL_B2 = [
       "en": "accompany",
       "de": "begleiten",
       "es": "acompañar",
-      "pl": "towarzyszyć",
       "it": "accompagnare",
       "pt": "acompanhar",
       "ja": "同伴する",
       "zh": "陪伴",
-      "ru": "сопровождать"
+      "ru": "сопровождать",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {},
@@ -10870,12 +10869,12 @@ const WORDS_PL_B2 = [
       "en": "drive",
       "de": "der Antrieb",
       "es": "la propulsión",
-      "pl": "napęd",
       "it": "la propulsione",
       "pt": "a propulsão",
       "ja": "駆動",
       "zh": "驱动",
-      "ru": "привод"
+      "ru": "привод",
+      "fr": "entraînement"
     },
     "examples": [],
     "meta": {},
@@ -10897,12 +10896,12 @@ const WORDS_PL_B2 = [
       "en": "reflection",
       "de": "das Spiegelbild",
       "es": "el reflejo",
-      "pl": "odbicie",
       "it": "il riflesso",
       "pt": "o reflexo",
       "ja": "反射",
       "zh": "反射",
-      "ru": "отражение"
+      "ru": "отражение",
+      "fr": "reflet"
     },
     "examples": [],
     "meta": {},
@@ -10924,12 +10923,12 @@ const WORDS_PL_B2 = [
       "en": "chess",
       "de": "das Schach",
       "es": "el ajedrez",
-      "pl": "szachy",
       "it": "gli scacchi",
       "pt": "o xadrez",
       "ja": "チェス",
       "zh": "国际象棋",
-      "ru": "шахматы"
+      "ru": "шахматы",
+      "fr": "échecs"
     },
     "examples": [],
     "meta": {},
@@ -10950,12 +10949,12 @@ const WORDS_PL_B2 = [
       "en": "vodka",
       "de": "der Wodka",
       "es": "el vodka",
-      "pl": "kira",
       "it": "la vodka",
       "pt": "a vodca",
       "ja": "ウォッカ",
       "zh": "伏特加",
-      "ru": "водка"
+      "ru": "водка",
+      "fr": "vodka"
     },
     "examples": [],
     "meta": {},
@@ -10976,12 +10975,12 @@ const WORDS_PL_B2 = [
       "en": "revolution",
       "de": "die Revolution",
       "es": "la revolución",
-      "pl": "rewolucja",
       "it": "la rivoluzione",
       "pt": "a revolução",
       "ja": "革命",
       "zh": "革命",
-      "ru": "революция"
+      "ru": "революция",
+      "fr": "révolution"
     },
     "examples": [],
     "meta": {},
@@ -11002,12 +11001,12 @@ const WORDS_PL_B2 = [
       "en": "Caesar",
       "de": "der Caesar",
       "es": "el César",
-      "pl": "cezar",
       "it": "il Cesare",
       "pt": "o César",
       "ja": "カエサル",
       "zh": "凯撒",
-      "ru": "Цезарь"
+      "ru": "Цезарь",
+      "fr": "César"
     },
     "examples": [],
     "meta": {},
@@ -11029,12 +11028,12 @@ const WORDS_PL_B2 = [
       "en": "sixth",
       "de": "sechste",
       "es": "sexto",
-      "pl": "szósty",
       "it": "sesto",
       "pt": "sexto",
       "ja": "6番目の",
       "zh": "第六",
-      "ru": "шестой"
+      "ru": "шестой",
+      "fr": "sixième"
     },
     "examples": [],
     "meta": {}
@@ -11054,12 +11053,12 @@ const WORDS_PL_B2 = [
       "en": "the sixth",
       "de": "der Sechste",
       "es": "el sexto",
-      "pl": "szósty",
       "it": "il sesto",
       "pt": "o sexto",
       "ja": "6番目",
       "zh": "第六个",
-      "ru": "шестой"
+      "ru": "шестой",
+      "fr": "le sixième"
     },
     "examples": [],
     "meta": {},
@@ -11081,12 +11080,12 @@ const WORDS_PL_B2 = [
       "en": "cocktail",
       "de": "der Cocktail",
       "es": "el cóctel",
-      "pl": "koktajl",
       "it": "il cocktail",
       "pt": "o coquetel",
       "ja": "カクテル",
       "zh": "鸡尾酒",
-      "ru": "коктейль"
+      "ru": "коктейль",
+      "fr": "cocktail"
     },
     "examples": [],
     "meta": {},
@@ -11108,12 +11107,12 @@ const WORDS_PL_B2 = [
       "en": "inform",
       "de": "informieren",
       "es": "informar",
-      "pl": "zawiadomić",
       "it": "informare",
       "pt": "informar",
       "ja": "知らせる",
       "zh": "通知",
-      "ru": "сообщить"
+      "ru": "сообщить",
+      "fr": "informer"
     },
     "examples": [],
     "meta": {},
@@ -11135,12 +11134,12 @@ const WORDS_PL_B2 = [
       "en": "madness",
       "de": "der Wahnsinn",
       "es": "la locura",
-      "pl": "wariactwo",
       "it": "la follia",
       "pt": "a loucura",
       "ja": "狂気",
       "zh": "疯狂",
-      "ru": "безумие"
+      "ru": "безумие",
+      "fr": "folie"
     },
     "examples": [],
     "meta": {},
@@ -11161,12 +11160,12 @@ const WORDS_PL_B2 = [
       "en": "visit",
       "de": "der Besuch",
       "es": "la visita",
-      "pl": "odwiedziny",
       "it": "la visita",
       "pt": "a visita",
       "ja": "訪問",
       "zh": "访问",
-      "ru": "визит"
+      "ru": "визит",
+      "fr": "visite"
     },
     "examples": [],
     "meta": {},
@@ -11188,12 +11187,12 @@ const WORDS_PL_B2 = [
       "en": "understanding",
       "de": "das Verständnis",
       "es": "la comprensión",
-      "pl": "zrozumienie",
       "it": "la comprensione",
       "pt": "a compreensão",
       "ja": "理解",
       "zh": "理解",
-      "ru": "понимание"
+      "ru": "понимание",
+      "fr": "compréhension"
     },
     "examples": [],
     "meta": {},
@@ -11214,12 +11213,12 @@ const WORDS_PL_B2 = [
       "en": "faithful",
       "de": "treu",
       "es": "fiel",
-      "pl": "wierny",
       "it": "fedele",
       "pt": "fiel",
       "ja": "忠実な",
       "zh": "忠诚的",
-      "ru": "верный"
+      "ru": "верный",
+      "fr": "fidèle"
     },
     "examples": [],
     "meta": {}
@@ -11238,12 +11237,12 @@ const WORDS_PL_B2 = [
       "en": "believer",
       "de": "der Gläubige",
       "es": "el creyente",
-      "pl": "wierny",
       "it": "il credente",
       "pt": "o crente",
       "ja": "信者",
       "zh": "信徒",
-      "ru": "верующий"
+      "ru": "верующий",
+      "fr": "croyant"
     },
     "examples": [],
     "meta": {},
@@ -11264,12 +11263,12 @@ const WORDS_PL_B2 = [
       "en": "suspect",
       "de": "verdächtigen",
       "es": "sospechar",
-      "pl": "podejrzewać",
       "it": "sospettare",
       "pt": "suspeitar",
       "ja": "疑う",
       "zh": "怀疑",
-      "ru": "подозревать"
+      "ru": "подозревать",
+      "fr": "soupçonner"
     },
     "examples": [],
     "meta": {},
@@ -11291,12 +11290,12 @@ const WORDS_PL_B2 = [
       "en": "scientist",
       "de": "der Wissenschaftler",
       "es": "el científico",
-      "pl": "naukowiec",
       "it": "lo scienziato",
       "pt": "o cientista",
       "ja": "科学者",
       "zh": "科学家",
-      "ru": "учёный"
+      "ru": "учёный",
+      "fr": "scientifique"
     },
     "examples": [],
     "meta": {},
@@ -11318,12 +11317,12 @@ const WORDS_PL_B2 = [
       "en": "German",
       "de": "deutsch",
       "es": "alemán",
-      "pl": "niemiecki",
       "it": "tedesco",
       "pt": "alemão",
       "ja": "ドイツの",
       "zh": "德国的",
-      "ru": "немецкий"
+      "ru": "немецкий",
+      "fr": "allemand"
     },
     "examples": [],
     "meta": {}
@@ -11343,12 +11342,12 @@ const WORDS_PL_B2 = [
       "en": "German language",
       "de": "das Deutsch",
       "es": "el alemán",
-      "pl": "niemiecki",
       "it": "il tedesco",
       "pt": "o alemão",
       "ja": "ドイツ語",
       "zh": "德语",
-      "ru": "немецкий язык"
+      "ru": "немецкий язык",
+      "fr": "allemand"
     },
     "examples": [],
     "meta": {},
@@ -11370,12 +11369,12 @@ const WORDS_PL_B2 = [
       "en": "roll",
       "de": "das Brötchen",
       "es": "el bollo",
-      "pl": "bułka",
       "it": "il panino",
       "pt": "o pãozinho",
       "ja": "パン",
       "zh": "面包卷",
-      "ru": "булочка"
+      "ru": "булочка",
+      "fr": "petit pain"
     },
     "examples": [],
     "meta": {},
@@ -11396,12 +11395,12 @@ const WORDS_PL_B2 = [
       "en": "chat",
       "de": "das Gespräch",
       "es": "la charla",
-      "pl": "gadka",
       "it": "la chiacchierata",
       "pt": "a conversa",
       "ja": "おしゃべり",
       "zh": "聊天",
-      "ru": "разговор"
+      "ru": "разговор",
+      "fr": "bavardage"
     },
     "examples": [],
     "meta": {},
@@ -11422,12 +11421,12 @@ const WORDS_PL_B2 = [
       "en": "hemorrhage",
       "de": "die Blutung",
       "es": "la hemorragia",
-      "pl": "krwotok",
       "it": "l'emorragia",
       "pt": "a hemorragia",
       "ja": "出血",
       "zh": "出血",
-      "ru": "кровотечение"
+      "ru": "кровотечение",
+      "fr": "hémorragie"
     },
     "examples": [],
     "meta": {},
@@ -11449,12 +11448,12 @@ const WORDS_PL_B2 = [
       "en": "domestic",
       "de": "häuslich",
       "es": "doméstico",
-      "pl": "domowy",
       "it": "domestico",
       "pt": "doméstico",
       "ja": "家庭の",
       "zh": "家用的",
-      "ru": "домашний"
+      "ru": "домашний",
+      "fr": "domestique"
     },
     "examples": [],
     "meta": {}
@@ -11474,12 +11473,12 @@ const WORDS_PL_B2 = [
       "en": "bring by vehicle",
       "de": "herbringen",
       "es": "traer en vehículo",
-      "pl": "przywieźć",
       "it": "portare in veicolo",
       "pt": "trazer de veículo",
       "ja": "車で持ってくる",
       "zh": "运送",
-      "ru": "привезти"
+      "ru": "привезти",
+      "fr": "amener"
     },
     "examples": [],
     "meta": {},
@@ -11501,12 +11500,12 @@ const WORDS_PL_B2 = [
       "en": "rebellion",
       "de": "der Aufstand",
       "es": "la rebelión",
-      "pl": "bunt",
       "it": "la ribellione",
       "pt": "a rebelião",
       "ja": "反乱",
       "zh": "叛乱",
-      "ru": "бунт"
+      "ru": "бунт",
+      "fr": "rébellion"
     },
     "examples": [],
     "meta": {},
@@ -11528,12 +11527,12 @@ const WORDS_PL_B2 = [
       "en": "small",
       "de": "klein",
       "es": "pequeño",
-      "pl": "drobny",
       "it": "piccolo",
       "pt": "pequeno",
       "ja": "小さい",
       "zh": "小的",
-      "ru": "мелкий"
+      "ru": "мелкий",
+      "fr": "petit"
     },
     "examples": [],
     "meta": {}
@@ -11552,12 +11551,12 @@ const WORDS_PL_B2 = [
       "en": "terrifying",
       "de": "beängstigend",
       "es": "aterrador",
-      "pl": "przerażający",
       "it": "terrificante",
       "pt": "aterrorizante",
       "ja": "恐ろしい",
       "zh": "可怕的",
-      "ru": "ужасающий"
+      "ru": "ужасающий",
+      "fr": "terrifiant"
     },
     "examples": [],
     "meta": {}
@@ -11577,12 +11576,12 @@ const WORDS_PL_B2 = [
       "en": "emperor",
       "de": "der Kaiser",
       "es": "el emperador",
-      "pl": "cesarz",
       "it": "l'imperatore",
       "pt": "o imperador",
       "ja": "皇帝",
       "zh": "皇帝",
-      "ru": "император"
+      "ru": "император",
+      "fr": "empereur"
     },
     "examples": [],
     "meta": {},
@@ -11604,12 +11603,12 @@ const WORDS_PL_B2 = [
       "en": "doll",
       "de": "die Puppe",
       "es": "la muñeca",
-      "pl": "lalka",
       "it": "la bambola",
       "pt": "a boneca",
       "ja": "人形",
       "zh": "玩偶",
-      "ru": "кукла"
+      "ru": "кукла",
+      "fr": "poupée"
     },
     "examples": [],
     "meta": {},
@@ -11630,12 +11629,12 @@ const WORDS_PL_B2 = [
       "en": "round",
       "de": "die Runde",
       "es": "la ronda",
-      "pl": "runda",
       "it": "il round",
       "pt": "a rodada",
       "ja": "ラウンド",
       "zh": "回合",
-      "ru": "раунд"
+      "ru": "раунд",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -11656,12 +11655,12 @@ const WORDS_PL_B2 = [
       "en": "permanent wave",
       "de": "die Dauerwelle",
       "es": "la permanente",
-      "pl": "trwała",
       "it": "la permanente",
       "pt": "a permanente",
       "ja": "パーマ",
       "zh": "烫发",
-      "ru": "химическая завивка"
+      "ru": "химическая завивка",
+      "fr": "permanente"
     },
     "examples": [],
     "meta": {},
@@ -11682,12 +11681,12 @@ const WORDS_PL_B2 = [
       "en": "to cheat",
       "de": "betrügen",
       "es": "engañar",
-      "pl": "oszukiwać",
       "it": "imbrogliare",
       "pt": "enganar",
       "ja": "騙す",
       "zh": "欺骗",
-      "ru": "обманывать"
+      "ru": "обманывать",
+      "fr": "tricher"
     },
     "examples": [],
     "meta": {},
@@ -11709,12 +11708,12 @@ const WORDS_PL_B2 = [
       "en": "sixty",
       "de": "die Schock",
       "es": "la sesentena",
-      "pl": "kopa",
       "it": "la sessantina",
       "pt": "a sessentena",
       "ja": "60個",
       "zh": "六十个",
-      "ru": "шестьдесят штук"
+      "ru": "шестьдесят штук",
+      "fr": "soixante"
     },
     "examples": [],
     "meta": {},
@@ -11735,12 +11734,12 @@ const WORDS_PL_B2 = [
       "en": "breakthrough",
       "de": "der Durchbruch",
       "es": "el punto de inflexión",
-      "pl": "przełom",
       "it": "la svolta",
       "pt": "o ponto de viragem",
       "ja": "転換点",
       "zh": "突破",
-      "ru": "перелом"
+      "ru": "перелом",
+      "fr": "percée"
     },
     "examples": [],
     "meta": {},
@@ -11762,12 +11761,12 @@ const WORDS_PL_B2 = [
       "en": "double",
       "de": "doppelt",
       "es": "doble",
-      "pl": "podwójny",
       "it": "doppio",
       "pt": "duplo",
       "ja": "二重の",
       "zh": "双重的",
-      "ru": "двойной"
+      "ru": "двойной",
+      "fr": "double"
     },
     "examples": [],
     "meta": {}
@@ -11787,12 +11786,12 @@ const WORDS_PL_B2 = [
       "en": "bedroom",
       "de": "das Schlafzimmer",
       "es": "el dormitorio",
-      "pl": "sypialnia",
       "it": "la camera da letto",
       "pt": "o quarto",
       "ja": "寝室",
       "zh": "卧室",
-      "ru": "спальня"
+      "ru": "спальня",
+      "fr": "chambre à coucher"
     },
     "examples": [],
     "meta": {},
@@ -11814,12 +11813,12 @@ const WORDS_PL_B2 = [
       "en": "final",
       "de": "endgültig",
       "es": "final",
-      "pl": "ostateczny",
       "it": "finale",
       "pt": "final",
       "ja": "最終の",
       "zh": "最终的",
-      "ru": "окончательный"
+      "ru": "окончательный",
+      "fr": "final"
     },
     "examples": [],
     "meta": {}
@@ -11839,12 +11838,12 @@ const WORDS_PL_B2 = [
       "en": "officer",
       "de": "der Beamte",
       "es": "el funcionario",
-      "pl": "funkcjonariusz",
       "it": "il funzionario",
       "pt": "o funcionário",
       "ja": "職員",
       "zh": "官员",
-      "ru": "сотрудник"
+      "ru": "сотрудник",
+      "fr": "officier"
     },
     "examples": [],
     "meta": {},
@@ -11865,12 +11864,12 @@ const WORDS_PL_B2 = [
       "en": "frequency",
       "de": "die Frequenz",
       "es": "la frecuencia",
-      "pl": "częstotliwość",
       "it": "la frequenza",
       "pt": "a frequência",
       "ja": "頻度",
       "zh": "频率",
-      "ru": "частота"
+      "ru": "частота",
+      "fr": "fréquence"
     },
     "examples": [],
     "meta": {},
@@ -11893,12 +11892,12 @@ const WORDS_PL_B2 = [
       "en": "path",
       "de": "der Pfad",
       "es": "el sendero",
-      "pl": "ścieżka",
       "it": "il sentiero",
       "pt": "o caminho",
       "ja": "小道",
       "zh": "小路",
-      "ru": "тропинка"
+      "ru": "тропинка",
+      "fr": "chemin"
     },
     "examples": [],
     "meta": {},
@@ -11919,12 +11918,12 @@ const WORDS_PL_B2 = [
       "en": "childbirth",
       "de": "die Geburt",
       "es": "el parto",
-      "pl": "poród",
       "it": "il parto",
       "pt": "o parto",
       "ja": "出産",
       "zh": "分娩",
-      "ru": "роды"
+      "ru": "роды",
+      "fr": "accouchement"
     },
     "examples": [],
     "meta": {},
@@ -11946,12 +11945,12 @@ const WORDS_PL_B2 = [
       "en": "female boss",
       "de": "die Chefin",
       "es": "la jefa",
-      "pl": "szefowa",
       "it": "la capa",
       "pt": "a chefe",
       "ja": "女上司",
       "zh": "女老板",
-      "ru": "начальница"
+      "ru": "начальница",
+      "fr": "patronne"
     },
     "examples": [],
     "meta": {},
@@ -11972,12 +11971,12 @@ const WORDS_PL_B2 = [
       "en": "dignity",
       "de": "die Würde",
       "es": "la dignidad",
-      "pl": "godność",
       "it": "la dignità",
       "pt": "a dignidade",
       "ja": "尊厳",
       "zh": "尊严",
-      "ru": "достоинство"
+      "ru": "достоинство",
+      "fr": "dignité"
     },
     "examples": [],
     "meta": {},
@@ -11999,12 +11998,12 @@ const WORDS_PL_B2 = [
       "en": "tiger",
       "de": "der Tiger",
       "es": "el tigre",
-      "pl": "tygrys",
       "it": "la tigre",
       "pt": "o tigre",
       "ja": "虎",
       "zh": "老虎",
-      "ru": "тигр"
+      "ru": "тигр",
+      "fr": "tigre"
     },
     "examples": [],
     "meta": {},
@@ -12026,12 +12025,12 @@ const WORDS_PL_B2 = [
       "en": "unknown",
       "de": "unbekannt",
       "es": "desconocido",
-      "pl": "nieznany",
       "it": "sconosciuto",
       "pt": "desconhecido",
       "ja": "未知の",
       "zh": "未知的",
-      "ru": "неизвестный"
+      "ru": "неизвестный",
+      "fr": "inconnu"
     },
     "examples": [],
     "meta": {}
@@ -12051,12 +12050,12 @@ const WORDS_PL_B2 = [
       "en": "charming",
       "de": "charmant",
       "es": "encantador",
-      "pl": "czarujący",
       "it": "affascinante",
       "pt": "encantador",
       "ja": "魅力的な",
       "zh": "迷人的",
-      "ru": "очаровательный"
+      "ru": "очаровательный",
+      "fr": "charmant"
     },
     "examples": [],
     "meta": {}
@@ -12076,12 +12075,12 @@ const WORDS_PL_B2 = [
       "en": "fear",
       "de": "die Angst",
       "es": "el miedo",
-      "pl": "lęk",
       "it": "la paura",
       "pt": "o medo",
       "ja": "恐怖",
       "zh": "恐惧",
-      "ru": "страх"
+      "ru": "страх",
+      "fr": "peur"
     },
     "examples": [],
     "meta": {},
@@ -12103,12 +12102,12 @@ const WORDS_PL_B2 = [
       "en": "trifle",
       "de": "die Kleinigkeit",
       "es": "la bagatela",
-      "pl": "drobiazg",
       "it": "la bazzecola",
       "pt": "a bagatela",
       "ja": "些細なこと",
       "zh": "小事",
-      "ru": "мелочь"
+      "ru": "мелочь",
+      "fr": "bagatelle"
     },
     "examples": [],
     "meta": {},
@@ -12129,12 +12128,12 @@ const WORDS_PL_B2 = [
       "en": "acid",
       "de": "die Säure",
       "es": "el ácido",
-      "pl": "kwas",
       "it": "l'acido",
       "pt": "o ácido",
       "ja": "酸",
       "zh": "酸",
-      "ru": "кислота"
+      "ru": "кислота",
+      "fr": "acide"
     },
     "examples": [],
     "meta": {},
@@ -12156,12 +12155,12 @@ const WORDS_PL_B2 = [
       "en": "little bird",
       "de": "der Vogel",
       "es": "el pajarito",
-      "pl": "ptaszek",
       "it": "l'uccellino",
       "pt": "o passarinho",
       "ja": "小鳥",
       "zh": "小鸟",
-      "ru": "птичка"
+      "ru": "птичка",
+      "fr": "petit oiseau"
     },
     "examples": [],
     "meta": {},
@@ -12184,12 +12183,12 @@ const WORDS_PL_B2 = [
       "en": "skill",
       "de": "die Fähigkeit",
       "es": "la habilidad",
-      "pl": "umiejętność",
       "it": "l'abilità",
       "pt": "a habilidade",
       "ja": "スキル",
       "zh": "技能",
-      "ru": "навык"
+      "ru": "навык",
+      "fr": "compétence"
     },
     "examples": [],
     "meta": {},
@@ -12211,12 +12210,12 @@ const WORDS_PL_B2 = [
       "en": "similarity",
       "de": "die Ähnlichkeit",
       "es": "la similitud",
-      "pl": "podobieństwo",
       "it": "la somiglianza",
       "pt": "a semelhança",
       "ja": "類似性",
       "zh": "相似性",
-      "ru": "сходство"
+      "ru": "сходство",
+      "fr": "ressemblance"
     },
     "examples": [],
     "meta": {},
@@ -12238,12 +12237,12 @@ const WORDS_PL_B2 = [
       "en": "telegram",
       "de": "das Telegramm",
       "es": "el telegrama",
-      "pl": "telegram",
       "it": "il telegramma",
       "pt": "o telegrama",
       "ja": "電報",
       "zh": "电报",
-      "ru": "телеграмма"
+      "ru": "телеграмма",
+      "fr": "télégramme"
     },
     "examples": [],
     "meta": {},
@@ -12265,12 +12264,12 @@ const WORDS_PL_B2 = [
       "en": "imagination",
       "de": "die Fantasie",
       "es": "la imaginación",
-      "pl": "wyobraźnia",
       "it": "l'immaginazione",
       "pt": "a imaginação",
       "ja": "想像力",
       "zh": "想象力",
-      "ru": "воображение"
+      "ru": "воображение",
+      "fr": "imagination"
     },
     "examples": [],
     "meta": {},
@@ -12292,12 +12291,12 @@ const WORDS_PL_B2 = [
       "en": "play",
       "de": "spielen",
       "es": "tocar",
-      "pl": "odegrać",
       "it": "suonare",
       "pt": "tocar",
       "ja": "演奏する",
       "zh": "演奏",
-      "ru": "сыграть"
+      "ru": "сыграть",
+      "fr": "jouer"
     },
     "examples": [],
     "meta": {},
@@ -12320,12 +12319,12 @@ const WORDS_PL_B2 = [
       "en": "wake",
       "de": "wecken",
       "es": "despertar",
-      "pl": "budzić",
       "it": "svegliare",
       "pt": "acordar",
       "ja": "起こす",
       "zh": "叫醒",
-      "ru": "будить"
+      "ru": "будить",
+      "fr": "réveiller"
     },
     "examples": [],
     "meta": {},
@@ -12349,12 +12348,12 @@ const WORDS_PL_B2 = [
       "en": "toilet",
       "de": "die Toilette",
       "es": "el inodoro",
-      "pl": "toaleta",
       "it": "il bagno",
       "pt": "o banheiro",
       "ja": "トイレ",
       "zh": "厕所",
-      "ru": "туалет"
+      "ru": "туалет",
+      "fr": "toilette"
     },
     "examples": [],
     "meta": {},
@@ -12376,12 +12375,12 @@ const WORDS_PL_B2 = [
       "en": "cheap",
       "de": "billig",
       "es": "barato",
-      "pl": "tani",
       "it": "economico",
       "pt": "barato",
       "ja": "安い",
       "zh": "便宜",
-      "ru": "дешёвый"
+      "ru": "дешёвый",
+      "fr": "bon marché"
     },
     "examples": [],
     "meta": {}
@@ -12402,12 +12401,12 @@ const WORDS_PL_B2 = [
       "en": "district",
       "de": "der Stadtteil",
       "es": "el distrito",
-      "pl": "dzielnica",
       "it": "il quartiere",
       "pt": "o distrito",
       "ja": "地区",
       "zh": "区域",
-      "ru": "район"
+      "ru": "район",
+      "fr": "quartier"
     },
     "examples": [],
     "meta": {},
@@ -12428,12 +12427,12 @@ const WORDS_PL_B2 = [
       "en": "code",
       "de": "der Kodex",
       "es": "el código",
-      "pl": "kodeks",
       "it": "il codice",
       "pt": "o código",
       "ja": "法典",
       "zh": "法典",
-      "ru": "кодекс"
+      "ru": "кодекс",
+      "fr": "code"
     },
     "examples": [],
     "meta": {},
@@ -12455,12 +12454,12 @@ const WORDS_PL_B2 = [
       "en": "complete",
       "de": "komplett",
       "es": "completo",
-      "pl": "kompletny",
       "it": "completo",
       "pt": "completo",
       "ja": "完全な",
       "zh": "完整",
-      "ru": "полный"
+      "ru": "полный",
+      "fr": "complet"
     },
     "examples": [],
     "meta": {}
@@ -12481,12 +12480,12 @@ const WORDS_PL_B2 = [
       "en": "gratitude",
       "de": "die Dankbarkeit",
       "es": "la gratitud",
-      "pl": "wdzięczność",
       "it": "la gratitudine",
       "pt": "a gratidão",
       "ja": "感謝",
       "zh": "感激",
-      "ru": "благодарность"
+      "ru": "благодарность",
+      "fr": "gratitude"
     },
     "examples": [],
     "meta": {},
@@ -12509,12 +12508,12 @@ const WORDS_PL_B2 = [
       "en": "delivery",
       "de": "die Lieferung",
       "es": "la entrega",
-      "pl": "dostawa",
       "it": "la consegna",
       "pt": "a entrega",
       "ja": "配達",
       "zh": "送货",
-      "ru": "доставка"
+      "ru": "доставка",
+      "fr": "livraison"
     },
     "examples": [],
     "meta": {},
@@ -12537,12 +12536,12 @@ const WORDS_PL_B2 = [
       "en": "discuss",
       "de": "besprechen",
       "es": "discutir",
-      "pl": "przedyskutować",
       "it": "discutere",
       "pt": "discutir",
       "ja": "議論する",
       "zh": "讨论",
-      "ru": "обсудить"
+      "ru": "обсудить",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {},
@@ -12565,12 +12564,12 @@ const WORDS_PL_B2 = [
       "en": "stake",
       "de": "der Pfahl",
       "es": "la estaca",
-      "pl": "pal",
       "it": "il palo",
       "pt": "a estaca",
       "ja": "杭",
       "zh": "桩",
-      "ru": "кол"
+      "ru": "кол",
+      "fr": "pieu"
     },
     "examples": [],
     "meta": {},
@@ -12592,12 +12591,12 @@ const WORDS_PL_B2 = [
       "en": "annoy",
       "de": "ärgern",
       "es": "molestar",
-      "pl": "wkurzyć",
       "it": "infastidire",
       "pt": "irritar",
       "ja": "いらいらさせる",
       "zh": "惹恼",
-      "ru": "разозлить"
+      "ru": "разозлить",
+      "fr": "agacer"
     },
     "examples": [],
     "meta": {},
@@ -12620,12 +12619,12 @@ const WORDS_PL_B2 = [
       "en": "cream",
       "de": "die Creme",
       "es": "la crema",
-      "pl": "krem",
       "it": "la crema",
       "pt": "o creme",
       "ja": "クリーム",
       "zh": "奶油",
-      "ru": "крем"
+      "ru": "крем",
+      "fr": "crème"
     },
     "examples": [],
     "meta": {},
@@ -12646,12 +12645,12 @@ const WORDS_PL_B2 = [
       "en": "well-built",
       "de": "gut gebaut",
       "es": "bien construido",
-      "pl": "zbudowany",
       "it": "ben costruito",
       "pt": "bem construído",
       "ja": "頑丈な",
       "zh": "健壮的",
-      "ru": "хорошо сложенный"
+      "ru": "хорошо сложенный",
+      "fr": "bien bâti"
     },
     "examples": [],
     "meta": {}
@@ -12672,12 +12671,12 @@ const WORDS_PL_B2 = [
       "en": "coast",
       "de": "die Küste",
       "es": "la costa",
-      "pl": "wybrzeże",
       "it": "la costa",
       "pt": "a costa",
       "ja": "海岸",
       "zh": "海岸",
-      "ru": "побережье"
+      "ru": "побережье",
+      "fr": "côte"
     },
     "examples": [],
     "meta": {},
@@ -12699,12 +12698,12 @@ const WORDS_PL_B2 = [
       "en": "school",
       "de": "schulisch",
       "es": "escolar",
-      "pl": "szkolny",
       "it": "scolastico",
       "pt": "escolar",
       "ja": "学校の",
       "zh": "学校的",
-      "ru": "школьный"
+      "ru": "школьный",
+      "fr": "école"
     },
     "examples": [],
     "meta": {}
@@ -12724,12 +12723,12 @@ const WORDS_PL_B2 = [
       "en": "prone",
       "de": "geneigt",
       "es": "propenso",
-      "pl": "skłonny",
       "it": "propenso",
       "pt": "propenso",
       "ja": "傾向がある",
       "zh": "倾向于",
-      "ru": "склонный"
+      "ru": "склонный",
+      "fr": "enclin"
     },
     "examples": [],
     "meta": {}
@@ -12749,12 +12748,12 @@ const WORDS_PL_B2 = [
       "en": "privacy",
       "de": "die Privatsphäre",
       "es": "la privacidad",
-      "pl": "prywatność",
       "it": "la privacy",
       "pt": "a privacidade",
       "ja": "プライバシー",
       "zh": "隐私",
-      "ru": "конфиденциальность"
+      "ru": "конфиденциальность",
+      "fr": "intimité"
     },
     "examples": [],
     "meta": {},
@@ -12776,12 +12775,12 @@ const WORDS_PL_B2 = [
       "en": "hide",
       "de": "verstecken",
       "es": "esconder",
-      "pl": "chować",
       "it": "nascondere",
       "pt": "esconder",
       "ja": "隠す",
       "zh": "隐藏",
-      "ru": "прятать"
+      "ru": "прятать",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {},
@@ -12803,12 +12802,12 @@ const WORDS_PL_B2 = [
       "en": "championship",
       "de": "die Meisterschaft",
       "es": "el campeonato",
-      "pl": "mistrzostwa",
       "it": "il campionato",
       "pt": "o campeonato",
       "ja": "選手権",
       "zh": "锦标赛",
-      "ru": "чемпионат"
+      "ru": "чемпионат",
+      "fr": "championnat"
     },
     "examples": [],
     "meta": {},
@@ -12830,12 +12829,12 @@ const WORDS_PL_B2 = [
       "en": "threat",
       "de": "die Drohung",
       "es": "la amenaza",
-      "pl": "groźba",
       "it": "la minaccia",
       "pt": "a ameaça",
       "ja": "脅威",
       "zh": "威胁",
-      "ru": "угроза"
+      "ru": "угроза",
+      "fr": "menace"
     },
     "examples": [],
     "meta": {},
@@ -12857,12 +12856,12 @@ const WORDS_PL_B2 = [
       "en": "bikini",
       "de": "der Bikini",
       "es": "el bikini",
-      "pl": "bikini",
       "it": "il bikini",
       "pt": "o biquíni",
       "ja": "ビキニ",
       "zh": "比基尼",
-      "ru": "бикини"
+      "ru": "бикини",
+      "fr": "bikini"
     },
     "examples": [],
     "meta": {},
@@ -12884,12 +12883,12 @@ const WORDS_PL_B2 = [
       "en": "novelty",
       "de": "die Neuheit",
       "es": "la novedad",
-      "pl": "nowość",
       "it": "la novità",
       "pt": "a novidade",
       "ja": "新しさ",
       "zh": "新颖",
-      "ru": "новизна"
+      "ru": "новизна",
+      "fr": "nouveauté"
     },
     "examples": [],
     "meta": {},
@@ -12911,12 +12910,12 @@ const WORDS_PL_B2 = [
       "en": "profit",
       "de": "der Gewinn",
       "es": "el beneficio",
-      "pl": "zysk",
       "it": "il profitto",
       "pt": "o lucro",
       "ja": "利益",
       "zh": "利润",
-      "ru": "прибыль"
+      "ru": "прибыль",
+      "fr": "profit"
     },
     "examples": [],
     "meta": {},
@@ -12938,12 +12937,12 @@ const WORDS_PL_B2 = [
       "en": "timetable",
       "de": "der Fahrplan",
       "es": "el horario",
-      "pl": "rozkład",
       "it": "l'orario",
       "pt": "o horário",
       "ja": "時刻表",
       "zh": "时间表",
-      "ru": "расписание"
+      "ru": "расписание",
+      "fr": "horaire"
     },
     "examples": [],
     "meta": {},
@@ -12965,12 +12964,12 @@ const WORDS_PL_B2 = [
       "en": "to conclude",
       "de": "abschließen",
       "es": "concluir",
-      "pl": "zawrzeć",
       "it": "concludere",
       "pt": "concluir",
       "ja": "締結する",
       "zh": "缔结",
-      "ru": "заключать"
+      "ru": "заключать",
+      "fr": "conclure"
     },
     "examples": [],
     "meta": {},
@@ -12993,12 +12992,12 @@ const WORDS_PL_B2 = [
       "en": "aggressive",
       "de": "aggressiv",
       "es": "agresivo",
-      "pl": "agresywny",
       "it": "aggressivo",
       "pt": "agressivo",
       "ja": "攻撃的な",
       "zh": "攻击性的",
-      "ru": "агрессивный"
+      "ru": "агрессивный",
+      "fr": "agressif"
     },
     "examples": [],
     "meta": {}
@@ -13017,12 +13016,12 @@ const WORDS_PL_B2 = [
       "en": "spa resort",
       "de": "das Bad",
       "es": "el balneario",
-      "pl": "bad",
       "it": "la stazione termale",
       "pt": "o balneário",
       "ja": "温泉リゾート",
       "zh": "温泉度假村",
-      "ru": "курорт"
+      "ru": "курорт",
+      "fr": "station thermale"
     },
     "examples": [],
     "meta": {},
@@ -13044,12 +13043,12 @@ const WORDS_PL_B2 = [
       "en": "cage",
       "de": "der Käfig",
       "es": "la jaula",
-      "pl": "klatka",
       "it": "la gabbia",
       "pt": "a gaiola",
       "ja": "檻",
       "zh": "笼子",
-      "ru": "клетка"
+      "ru": "клетка",
+      "fr": "cage"
     },
     "examples": [],
     "meta": {},
@@ -13071,12 +13070,12 @@ const WORDS_PL_B2 = [
       "en": "to observe",
       "de": "beachten",
       "es": "observar",
-      "pl": "przestrzegać",
       "it": "osservare",
       "pt": "observar",
       "ja": "遵守する",
       "zh": "遵守",
-      "ru": "соблюдать"
+      "ru": "соблюдать",
+      "fr": "observer"
     },
     "examples": [],
     "meta": {},
@@ -13098,12 +13097,12 @@ const WORDS_PL_B2 = [
       "en": "cabbage core",
       "de": "der Kohlstrunk",
       "es": "el tronco de col",
-      "pl": "głąb",
       "it": "il torsolo di cavolo",
       "pt": "o talo de repolho",
       "ja": "キャベツの芯",
       "zh": "卷心菜芯",
-      "ru": "кочерыжка"
+      "ru": "кочерыжка",
+      "fr": "trognon"
     },
     "examples": [],
     "meta": {},
@@ -13125,12 +13124,12 @@ const WORDS_PL_B2 = [
       "en": "bartender",
       "de": "der Barkeeper",
       "es": "el camarero",
-      "pl": "barman",
       "it": "il barista",
       "pt": "o barman",
       "ja": "バーテンダー",
       "zh": "酒保",
-      "ru": "бармен"
+      "ru": "бармен",
+      "fr": "barman"
     },
     "examples": [],
     "meta": {},
@@ -13151,12 +13150,12 @@ const WORDS_PL_B2 = [
       "en": "brave person",
       "de": "der Draufgänger",
       "es": "el valiente",
-      "pl": "zuch",
       "it": "il coraggioso",
       "pt": "o corajoso",
       "ja": "勇敢な人",
       "zh": "勇敢的人",
-      "ru": "храбрец"
+      "ru": "храбрец",
+      "fr": "brave"
     },
     "examples": [],
     "meta": {},
@@ -13178,12 +13177,12 @@ const WORDS_PL_B2 = [
       "en": "promise",
       "de": "das Versprechen",
       "es": "la promesa",
-      "pl": "obietnica",
       "it": "la promessa",
       "pt": "a promessa",
       "ja": "約束",
       "zh": "承诺",
-      "ru": "обещание"
+      "ru": "обещание",
+      "fr": "promesse"
     },
     "examples": [],
     "meta": {},
@@ -13205,12 +13204,12 @@ const WORDS_PL_B2 = [
       "en": "to discuss",
       "de": "diskutieren",
       "es": "discutir",
-      "pl": "dyskutować",
       "it": "discutere",
       "pt": "discutir",
       "ja": "議論する",
       "zh": "讨论",
-      "ru": "обсуждать"
+      "ru": "обсуждать",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {},
@@ -13233,12 +13232,12 @@ const WORDS_PL_B2 = [
       "en": "lost",
       "de": "verloren",
       "es": "perdido",
-      "pl": "stracony",
       "it": "perso",
       "pt": "perdido",
       "ja": "失われた",
       "zh": "失去的",
-      "ru": "потерянный"
+      "ru": "потерянный",
+      "fr": "perdu"
     },
     "examples": [],
     "meta": {}
@@ -13258,12 +13257,12 @@ const WORDS_PL_B2 = [
       "en": "rest",
       "de": "die Ruhe",
       "es": "el descanso",
-      "pl": "odpoczynek",
       "it": "il riposo",
       "pt": "o descanso",
       "ja": "休息",
       "zh": "休息",
-      "ru": "отдых"
+      "ru": "отдых",
+      "fr": "repos"
     },
     "examples": [],
     "meta": {},
@@ -13285,12 +13284,12 @@ const WORDS_PL_B2 = [
       "en": "tank",
       "de": "der Behälter",
       "es": "el tanque",
-      "pl": "zbiornik",
       "it": "il serbatoio",
       "pt": "o tanque",
       "ja": "タンク",
       "zh": "储罐",
-      "ru": "резервуар"
+      "ru": "резервуар",
+      "fr": "réservoir"
     },
     "examples": [],
     "meta": {},
@@ -13311,12 +13310,12 @@ const WORDS_PL_B2 = [
       "en": "surgeon",
       "de": "der Chirurg",
       "es": "el cirujano",
-      "pl": "chirurg",
       "it": "il chirurgo",
       "pt": "o cirurgião",
       "ja": "外科医",
       "zh": "外科医生",
-      "ru": "хирург"
+      "ru": "хирург",
+      "fr": "chirurgien"
     },
     "examples": [],
     "meta": {},
@@ -13338,12 +13337,12 @@ const WORDS_PL_B2 = [
       "en": "breakdown",
       "de": "der Zusammenbruch",
       "es": "el colapso",
-      "pl": "załamanie",
       "it": "il crollo",
       "pt": "o colapso",
       "ja": "崩壊",
       "zh": "崩溃",
-      "ru": "обвал"
+      "ru": "обвал",
+      "fr": "panne"
     },
     "examples": [],
     "meta": {},
@@ -13365,12 +13364,12 @@ const WORDS_PL_B2 = [
       "en": "fresh",
       "de": "frisch",
       "es": "fresco",
-      "pl": "świeży",
       "it": "fresco",
       "pt": "fresco",
       "ja": "新鮮な",
       "zh": "新鲜的",
-      "ru": "свежий"
+      "ru": "свежий",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {}
@@ -13390,12 +13389,12 @@ const WORDS_PL_B2 = [
       "en": "shy",
       "de": "schüchtern",
       "es": "tímido",
-      "pl": "nieśmiały",
       "it": "timido",
       "pt": "tímido",
       "ja": "内気な",
       "zh": "害羞的",
-      "ru": "застенчивый"
+      "ru": "застенчивый",
+      "fr": "timide"
     },
     "examples": [],
     "meta": {}
@@ -13415,12 +13414,12 @@ const WORDS_PL_B2 = [
       "en": "to belong",
       "de": "gehören",
       "es": "pertenecer",
-      "pl": "należeć",
       "it": "appartenere",
       "pt": "pertencer",
       "ja": "属する",
       "zh": "属于",
-      "ru": "принадлежать"
+      "ru": "принадлежать",
+      "fr": "appartenir"
     },
     "examples": [],
     "meta": {},
@@ -13443,12 +13442,12 @@ const WORDS_PL_B2 = [
       "en": "absence",
       "de": "die Abwesenheit",
       "es": "la ausencia",
-      "pl": "nieobecność",
       "it": "l'assenza",
       "pt": "a ausência",
       "ja": "不在",
       "zh": "缺席",
-      "ru": "отсутствие"
+      "ru": "отсутствие",
+      "fr": "absence"
     },
     "examples": [],
     "meta": {},
@@ -13469,12 +13468,12 @@ const WORDS_PL_B2 = [
       "en": "dress",
       "de": "das Kleid",
       "es": "el vestido",
-      "pl": "suknia",
       "it": "il vestito",
       "pt": "o vestido",
       "ja": "ドレス",
       "zh": "连衣裙",
-      "ru": "платье"
+      "ru": "платье",
+      "fr": "robe"
     },
     "examples": [],
     "meta": {},
@@ -13496,12 +13495,12 @@ const WORDS_PL_B2 = [
       "en": "religion",
       "de": "die Religion",
       "es": "la religión",
-      "pl": "religia",
       "it": "la religione",
       "pt": "a religião",
       "ja": "宗教",
       "zh": "宗教",
-      "ru": "религия"
+      "ru": "религия",
+      "fr": "religion"
     },
     "examples": [],
     "meta": {},
@@ -13523,12 +13522,12 @@ const WORDS_PL_B2 = [
       "en": "magic",
       "de": "die Magie",
       "es": "la magia",
-      "pl": "czary",
       "it": "la magia",
       "pt": "a magia",
       "ja": "魔法",
       "zh": "魔法",
-      "ru": "магия"
+      "ru": "магия",
+      "fr": "magie"
     },
     "examples": [],
     "meta": {},
@@ -13549,12 +13548,12 @@ const WORDS_PL_B2 = [
       "en": "pursuit",
       "de": "die Verfolgung",
       "es": "la persecución",
-      "pl": "pościg",
       "it": "l'inseguimento",
       "pt": "a perseguição",
       "ja": "追跡",
       "zh": "追逐",
-      "ru": "погоня"
+      "ru": "погоня",
+      "fr": "poursuite"
     },
     "examples": [],
     "meta": {},
@@ -13576,12 +13575,12 @@ const WORDS_PL_B2 = [
       "en": "bathtub",
       "de": "die Badewanne",
       "es": "la bañera",
-      "pl": "wanna",
       "it": "la vasca da bagno",
       "pt": "a banheira",
       "ja": "バスタブ",
       "zh": "浴缸",
-      "ru": "ванна"
+      "ru": "ванна",
+      "fr": "baignoire"
     },
     "examples": [],
     "meta": {},
@@ -13603,12 +13602,12 @@ const WORDS_PL_B2 = [
       "en": "ignore",
       "de": "ignorieren",
       "es": "ignorar",
-      "pl": "zignorować",
       "it": "ignorare",
       "pt": "ignorar",
       "ja": "無視する",
       "zh": "忽略",
-      "ru": "игнорировать"
+      "ru": "игнорировать",
+      "fr": "ignorer"
     },
     "examples": [],
     "meta": {},
@@ -13630,12 +13629,12 @@ const WORDS_PL_B2 = [
       "en": "girl",
       "de": "das Mädchen",
       "es": "la chica",
-      "pl": "lola",
       "it": "la ragazza",
       "pt": "a garota",
       "ja": "少女",
       "zh": "女孩",
-      "ru": "девочка"
+      "ru": "девочка",
+      "fr": "fille"
     },
     "examples": [],
     "meta": {},
@@ -13657,12 +13656,12 @@ const WORDS_PL_B2 = [
       "en": "football boots",
       "de": "die Fußballschuhe",
       "es": "las botas de fútbol",
-      "pl": "korki",
       "it": "gli scarpini da calcio",
       "pt": "as chuteiras",
       "ja": "サッカースパイク",
       "zh": "足球鞋",
-      "ru": "футбольные бутсы"
+      "ru": "футбольные бутсы",
+      "fr": "crampons"
     },
     "examples": [],
     "meta": {},
@@ -13684,12 +13683,12 @@ const WORDS_PL_B2 = [
       "en": "evacuate",
       "de": "evakuieren",
       "es": "evacuar",
-      "pl": "ewakuować",
       "it": "evacuare",
       "pt": "evacuar",
       "ja": "避難させる",
       "zh": "疏散",
-      "ru": "эвакуировать"
+      "ru": "эвакуировать",
+      "fr": "évacuer"
     },
     "examples": [],
     "meta": {},
@@ -13712,12 +13711,12 @@ const WORDS_PL_B2 = [
       "en": "summer",
       "de": "sommerlich",
       "es": "veraniego",
-      "pl": "letni",
       "it": "estivo",
       "pt": "de verão",
       "ja": "夏の",
       "zh": "夏季的",
-      "ru": "летний"
+      "ru": "летний",
+      "fr": "été"
     },
     "examples": [],
     "meta": {}
@@ -13737,12 +13736,12 @@ const WORDS_PL_B2 = [
       "en": "worthy",
       "de": "würdig",
       "es": "digno",
-      "pl": "godny",
       "it": "degno",
       "pt": "digno",
       "ja": "価値のある",
       "zh": "值得的",
-      "ru": "достойный"
+      "ru": "достойный",
+      "fr": "digne"
     },
     "examples": [],
     "meta": {}
@@ -13762,12 +13761,12 @@ const WORDS_PL_B2 = [
       "en": "offside",
       "de": "das Abseits",
       "es": "el fuera de juego",
-      "pl": "spalony",
       "it": "il fuorigioco",
       "pt": "o impedimento",
       "ja": "オフサイド",
       "zh": "越位",
-      "ru": "офсайд"
+      "ru": "офсайд",
+      "fr": "hors-jeu"
     },
     "examples": [],
     "meta": {},
@@ -13788,12 +13787,12 @@ const WORDS_PL_B2 = [
       "en": "burnt",
       "de": "verbrannt",
       "es": "quemado",
-      "pl": "spalony",
       "it": "bruciato",
       "pt": "queimado",
       "ja": "焼けた",
       "zh": "烧毁的",
-      "ru": "сгоревший"
+      "ru": "сгоревший",
+      "fr": "brûlé"
     },
     "examples": [],
     "meta": {}
@@ -13813,12 +13812,12 @@ const WORDS_PL_B2 = [
       "en": "trash",
       "de": "der Müll",
       "es": "la basura",
-      "pl": "śmieć",
       "it": "la spazzatura",
       "pt": "o lixo",
       "ja": "ゴミ",
       "zh": "垃圾",
-      "ru": "мусор"
+      "ru": "мусор",
+      "fr": "ordures"
     },
     "examples": [],
     "meta": {},
@@ -13839,12 +13838,12 @@ const WORDS_PL_B2 = [
       "en": "dare",
       "de": "wagen",
       "es": "atreverse",
-      "pl": "śmieć",
       "it": "osare",
       "pt": "ousar",
       "ja": "あえてする",
       "zh": "敢",
-      "ru": "сметь"
+      "ru": "сметь",
+      "fr": "oser"
     },
     "examples": [],
     "meta": {},
@@ -13867,12 +13866,12 @@ const WORDS_PL_B2 = [
       "en": "patient",
       "de": "geduldig",
       "es": "paciente",
-      "pl": "cierpliwy",
       "it": "paziente",
       "pt": "paciente",
       "ja": "忍耐強い",
       "zh": "耐心的",
-      "ru": "терпеливый"
+      "ru": "терпеливый",
+      "fr": "patient"
     },
     "examples": [],
     "meta": {}
@@ -13891,12 +13890,12 @@ const WORDS_PL_B2 = [
       "en": "lover",
       "de": "der Liebhaber",
       "es": "el amante",
-      "pl": "kochanek",
       "it": "l'amante",
       "pt": "o amante",
       "ja": "恋人",
       "zh": "情人",
-      "ru": "любовник"
+      "ru": "любовник",
+      "fr": "amant"
     },
     "examples": [],
     "meta": {},
@@ -13918,12 +13917,12 @@ const WORDS_PL_B2 = [
       "en": "food",
       "de": "das Lebensmittel",
       "es": "el alimento",
-      "pl": "żywność",
       "it": "il cibo",
       "pt": "o alimento",
       "ja": "食料",
       "zh": "食物",
-      "ru": "еда"
+      "ru": "еда",
+      "fr": "nourriture"
     },
     "examples": [],
     "meta": {},
@@ -13945,12 +13944,12 @@ const WORDS_PL_B2 = [
       "en": "vicinity",
       "de": "die Umgebung",
       "es": "la zona",
-      "pl": "okolica",
       "it": "la zona",
       "pt": "a vizinhança",
       "ja": "周辺",
       "zh": "附近",
-      "ru": "окрестность"
+      "ru": "окрестность",
+      "fr": "voisinage"
     },
     "examples": [],
     "meta": {},
@@ -13972,12 +13971,12 @@ const WORDS_PL_B2 = [
       "en": "ruler",
       "de": "der Herrscher",
       "es": "el gobernante",
-      "pl": "władca",
       "it": "il sovrano",
       "pt": "o governante",
       "ja": "支配者",
       "zh": "统治者",
-      "ru": "правитель"
+      "ru": "правитель",
+      "fr": "dirigeant"
     },
     "examples": [],
     "meta": {},
@@ -13998,12 +13997,12 @@ const WORDS_PL_B2 = [
       "en": "polyethylene glycol",
       "de": "das Polyethylenglykol",
       "es": "el polietilenglicol",
-      "pl": "peg",
       "it": "il polietilenglicole",
       "pt": "o polietilenoglicol",
       "ja": "ポリエチレングリコール",
       "zh": "聚乙二醇",
-      "ru": "полиэтиленгликоль"
+      "ru": "полиэтиленгликоль",
+      "fr": "polyéthylène glycol"
     },
     "examples": [],
     "meta": {},
@@ -14025,12 +14024,12 @@ const WORDS_PL_B2 = [
       "en": "mask",
       "de": "die Maske",
       "es": "la máscara",
-      "pl": "maska",
       "it": "la maschera",
       "pt": "a máscara",
       "ja": "マスク",
       "zh": "面具",
-      "ru": "маска"
+      "ru": "маска",
+      "fr": "masque"
     },
     "examples": [],
     "meta": {},
@@ -14052,12 +14051,12 @@ const WORDS_PL_B2 = [
       "en": "basket",
       "de": "der Korb",
       "es": "la cesta",
-      "pl": "kosz",
       "it": "il cesto",
       "pt": "a cesta",
       "ja": "かご",
       "zh": "篮子",
-      "ru": "корзина"
+      "ru": "корзина",
+      "fr": "panier"
     },
     "examples": [],
     "meta": {},
@@ -14079,12 +14078,12 @@ const WORDS_PL_B2 = [
       "en": "youth",
       "de": "die Jugend",
       "es": "la juventud",
-      "pl": "młodość",
       "it": "la gioventù",
       "pt": "a juventude",
       "ja": "若さ",
       "zh": "青春",
-      "ru": "молодость"
+      "ru": "молодость",
+      "fr": "jeunesse"
     },
     "examples": [],
     "meta": {},
@@ -14106,12 +14105,12 @@ const WORDS_PL_B2 = [
       "en": "rest",
       "de": "ausruhen",
       "es": "descansar",
-      "pl": "odpoczywać",
       "it": "riposare",
       "pt": "descansar",
       "ja": "休む",
       "zh": "休息",
-      "ru": "отдыхать"
+      "ru": "отдыхать",
+      "fr": "reposer"
     },
     "examples": [],
     "meta": {},
@@ -14134,12 +14133,12 @@ const WORDS_PL_B2 = [
       "en": "phase",
       "de": "die Phase",
       "es": "la fase",
-      "pl": "faza",
       "it": "la fase",
       "pt": "a fase",
       "ja": "段階",
       "zh": "阶段",
-      "ru": "фаза"
+      "ru": "фаза",
+      "fr": "phase"
     },
     "examples": [],
     "meta": {},
@@ -14161,12 +14160,12 @@ const WORDS_PL_B2 = [
       "en": "stage",
       "de": "die Bühne",
       "es": "el escenario",
-      "pl": "deski",
       "it": "il palcoscenico",
       "pt": "o palco",
       "ja": "舞台",
       "zh": "舞台",
-      "ru": "сцена"
+      "ru": "сцена",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -14188,12 +14187,12 @@ const WORDS_PL_B2 = [
       "en": "grenade",
       "de": "die Granate",
       "es": "la granada",
-      "pl": "granat",
       "it": "la granata",
       "pt": "a granada",
       "ja": "手榴弾",
       "zh": "手榴弹",
-      "ru": "граната"
+      "ru": "граната",
+      "fr": "grenade"
     },
     "examples": [],
     "meta": {},
@@ -14214,12 +14213,12 @@ const WORDS_PL_B2 = [
       "en": "terrorism",
       "de": "der Terrorismus",
       "es": "el terrorismo",
-      "pl": "terroryzm",
       "it": "il terrorismo",
       "pt": "o terrorismo",
       "ja": "テロリズム",
       "zh": "恐怖主义",
-      "ru": "терроризм"
+      "ru": "терроризм",
+      "fr": "terrorisme"
     },
     "examples": [],
     "meta": {},
@@ -14240,12 +14239,12 @@ const WORDS_PL_B2 = [
       "en": "hairstyle",
       "de": "die Frisur",
       "es": "el peinado",
-      "pl": "fryzura",
       "it": "la pettinatura",
       "pt": "o penteado",
       "ja": "髪型",
       "zh": "发型",
-      "ru": "прическа"
+      "ru": "прическа",
+      "fr": "coiffure"
     },
     "examples": [],
     "meta": {},
@@ -14266,12 +14265,12 @@ const WORDS_PL_B2 = [
       "en": "sunny",
       "de": "sonnig",
       "es": "soleado",
-      "pl": "słoneczny",
       "it": "soleggiato",
       "pt": "ensolarado",
       "ja": "晴れた",
       "zh": "阳光充足的",
-      "ru": "солнечный"
+      "ru": "солнечный",
+      "fr": "ensoleillé"
     },
     "examples": [],
     "meta": {}
@@ -14290,12 +14289,12 @@ const WORDS_PL_B2 = [
       "en": "typical",
       "de": "typisch",
       "es": "típico",
-      "pl": "typowy",
       "it": "tipico",
       "pt": "típico",
       "ja": "典型的な",
       "zh": "典型的",
-      "ru": "типичный"
+      "ru": "типичный",
+      "fr": "typique"
     },
     "examples": [],
     "meta": {}
@@ -14315,12 +14314,12 @@ const WORDS_PL_B2 = [
       "en": "northern",
       "de": "nördlich",
       "es": "del norte",
-      "pl": "północny",
       "it": "settentrionale",
       "pt": "do norte",
       "ja": "北の",
       "zh": "北方的",
-      "ru": "северный"
+      "ru": "северный",
+      "fr": "du nord"
     },
     "examples": [],
     "meta": {}
@@ -14339,12 +14338,12 @@ const WORDS_PL_B2 = [
       "en": "rock",
       "de": "der Fels",
       "es": "la roca",
-      "pl": "skała",
       "it": "la roccia",
       "pt": "a rocha",
       "ja": "岩",
       "zh": "岩石",
-      "ru": "скала"
+      "ru": "скала",
+      "fr": "rocher"
     },
     "examples": [],
     "meta": {},
@@ -14366,12 +14365,12 @@ const WORDS_PL_B2 = [
       "en": "defender",
       "de": "der Verteidiger",
       "es": "el defensor",
-      "pl": "obrońca",
       "it": "il difensore",
       "pt": "o defensor",
       "ja": "擁護者",
       "zh": "捍卫者",
-      "ru": "защитник"
+      "ru": "защитник",
+      "fr": "défenseur"
     },
     "examples": [],
     "meta": {},
@@ -14392,12 +14391,12 @@ const WORDS_PL_B2 = [
       "en": "W",
       "de": "das W",
       "es": "la W",
-      "pl": "wu",
       "it": "la W",
       "pt": "o W",
       "ja": "W",
       "zh": "W",
-      "ru": "W"
+      "ru": "W",
+      "fr": "double V"
     },
     "examples": [],
     "meta": {},
@@ -14418,12 +14417,12 @@ const WORDS_PL_B2 = [
       "en": "core",
       "de": "der Kern",
       "es": "el núcleo",
-      "pl": "rdzeń",
       "it": "il nucleo",
       "pt": "o núcleo",
       "ja": "核心",
       "zh": "核心",
-      "ru": "ядро"
+      "ru": "ядро",
+      "fr": "noyau"
     },
     "examples": [],
     "meta": {},
@@ -14444,12 +14443,12 @@ const WORDS_PL_B2 = [
       "en": "five o'clock",
       "de": "fünf Uhr",
       "es": "las cinco",
-      "pl": "piąta",
       "it": "le cinque",
       "pt": "as cinco",
       "ja": "5時",
       "zh": "五点",
-      "ru": "пять часов"
+      "ru": "пять часов",
+      "fr": "cinq heures"
     },
     "examples": [],
     "meta": {},
@@ -14470,12 +14469,12 @@ const WORDS_PL_B2 = [
       "en": "handbag",
       "de": "die Handtasche",
       "es": "el bolso",
-      "pl": "torebka",
       "it": "la borsetta",
       "pt": "a bolsa",
       "ja": "ハンドバッグ",
       "zh": "手提包",
-      "ru": "сумочка"
+      "ru": "сумочка",
+      "fr": "sac à main"
     },
     "examples": [],
     "meta": {},
@@ -14496,12 +14495,12 @@ const WORDS_PL_B2 = [
       "en": "Bible",
       "de": "die Bibel",
       "es": "la Biblia",
-      "pl": "biblia",
       "it": "la Bibbia",
       "pt": "a Bíblia",
       "ja": "聖書",
       "zh": "圣经",
-      "ru": "Библия"
+      "ru": "Библия",
+      "fr": "Bible"
     },
     "examples": [],
     "meta": {},
@@ -14522,12 +14521,12 @@ const WORDS_PL_B2 = [
       "en": "hit song",
       "de": "der Hit",
       "es": "el éxito",
-      "pl": "hit",
       "it": "il successo",
       "pt": "o sucesso",
       "ja": "ヒット曲",
       "zh": "热门歌曲",
-      "ru": "хит"
+      "ru": "хит",
+      "fr": "tube"
     },
     "examples": [],
     "meta": {},
@@ -14548,12 +14547,12 @@ const WORDS_PL_B2 = [
       "en": "Satan",
       "de": "der Satan",
       "es": "Satanás",
-      "pl": "szatan",
       "it": "Satana",
       "pt": "Satanás",
       "ja": "サタン",
       "zh": "撒旦",
-      "ru": "сатана"
+      "ru": "сатана",
+      "fr": "Satan"
     },
     "examples": [],
     "meta": {},
@@ -14574,12 +14573,12 @@ const WORDS_PL_B2 = [
       "en": "to break",
       "de": "zerbrechen",
       "es": "romper",
-      "pl": "rozbić",
       "it": "rompere",
       "pt": "quebrar",
       "ja": "壊す",
       "zh": "打破",
-      "ru": "разбить"
+      "ru": "разбить",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {},
@@ -14601,12 +14600,12 @@ const WORDS_PL_B2 = [
       "en": "boom",
       "de": "der Boom",
       "es": "el auge",
-      "pl": "boom",
       "it": "il boom",
       "pt": "o boom",
       "ja": "好景気",
       "zh": "繁荣",
-      "ru": "бум"
+      "ru": "бум",
+      "fr": "boum"
     },
     "examples": [],
     "meta": {},
@@ -14627,12 +14626,12 @@ const WORDS_PL_B2 = [
       "en": "headphones",
       "de": "die Kopfhörer",
       "es": "los auriculares",
-      "pl": "słuchawki",
       "it": "le cuffie",
       "pt": "os fones de ouvido",
       "ja": "ヘッドホン",
       "zh": "耳机",
-      "ru": "наушники"
+      "ru": "наушники",
+      "fr": "casque audio"
     },
     "examples": [],
     "meta": {},
@@ -14653,12 +14652,12 @@ const WORDS_PL_B2 = [
       "en": "to try out",
       "de": "ausprobieren",
       "es": "probar",
-      "pl": "wypróbować",
       "it": "provare",
       "pt": "experimentar",
       "ja": "試す",
       "zh": "尝试",
-      "ru": "попробовать"
+      "ru": "попробовать",
+      "fr": "essayer"
     },
     "examples": [],
     "meta": {},
@@ -14681,12 +14680,12 @@ const WORDS_PL_B2 = [
       "en": "spy",
       "de": "der Spion",
       "es": "el espía",
-      "pl": "szpieg",
       "it": "la spia",
       "pt": "o espião",
       "ja": "スパイ",
       "zh": "间谍",
-      "ru": "шпион"
+      "ru": "шпион",
+      "fr": "espion"
     },
     "examples": [],
     "meta": {},
@@ -14708,12 +14707,12 @@ const WORDS_PL_B2 = [
       "en": "scam",
       "de": "der Betrug",
       "es": "la estafa",
-      "pl": "przekręt",
       "it": "la truffa",
       "pt": "o golpe",
       "ja": "詐欺",
       "zh": "骗局",
-      "ru": "афера"
+      "ru": "афера",
+      "fr": "arnaque"
     },
     "examples": [],
     "meta": {},
@@ -14734,12 +14733,12 @@ const WORDS_PL_B2 = [
       "en": "touch",
       "de": "die Berührung",
       "es": "el tacto",
-      "pl": "dotyk",
       "it": "il tatto",
       "pt": "o toque",
       "ja": "触覚",
       "zh": "触觉",
-      "ru": "прикосновение"
+      "ru": "прикосновение",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {},
@@ -14760,12 +14759,12 @@ const WORDS_PL_B2 = [
       "en": "mess",
       "de": "das Chaos",
       "es": "el desorden",
-      "pl": "meksyk",
       "it": "il caos",
       "pt": "a bagunça",
       "ja": "混乱",
       "zh": "混乱",
-      "ru": "беспорядок"
+      "ru": "беспорядок",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {},
@@ -14786,12 +14785,12 @@ const WORDS_PL_B2 = [
       "en": "sober",
       "de": "nüchtern",
       "es": "sobrio",
-      "pl": "trzeźwy",
       "it": "sobrio",
       "pt": "sóbrio",
       "ja": "しらふの",
       "zh": "清醒的",
-      "ru": "трезвый"
+      "ru": "трезвый",
+      "fr": "sobre"
     },
     "examples": [],
     "meta": {}
@@ -14811,12 +14810,12 @@ const WORDS_PL_B2 = [
       "en": "engaged",
       "de": "engagiert",
       "es": "comprometido",
-      "pl": "zaangażowany",
       "it": "impegnato",
       "pt": "engajado",
       "ja": "従事している",
       "zh": "参与的",
-      "ru": "вовлеченный"
+      "ru": "вовлеченный",
+      "fr": "engagé"
     },
     "examples": [],
     "meta": {}
@@ -14835,12 +14834,12 @@ const WORDS_PL_B2 = [
       "en": "worry",
       "de": "beunruhigen",
       "es": "preocupar",
-      "pl": "niepokoić",
       "it": "preoccupare",
       "pt": "preocupar",
       "ja": "心配させる",
       "zh": "使担忧",
-      "ru": "беспокоить"
+      "ru": "беспокоить",
+      "fr": "s'inquiéter"
     },
     "examples": [],
     "meta": {},
@@ -14862,12 +14861,12 @@ const WORDS_PL_B2 = [
       "en": "judicial",
       "de": "gerichtlich",
       "es": "judicial",
-      "pl": "sądowy",
       "it": "giudiziario",
       "pt": "judicial",
       "ja": "司法の",
       "zh": "司法的",
-      "ru": "судебный"
+      "ru": "судебный",
+      "fr": "judiciaire"
     },
     "examples": [],
     "meta": {}
@@ -14886,12 +14885,12 @@ const WORDS_PL_B2 = [
       "en": "draw",
       "de": "das Unentschieden",
       "es": "el empate",
-      "pl": "remis",
       "it": "il pareggio",
       "pt": "o empate",
       "ja": "引き分け",
       "zh": "平局",
-      "ru": "ничья"
+      "ru": "ничья",
+      "fr": "match nul"
     },
     "examples": [],
     "meta": {},
@@ -14912,12 +14911,12 @@ const WORDS_PL_B2 = [
       "en": "attention",
       "de": "die Achtung",
       "es": "la atención",
-      "pl": "baczność",
       "it": "l'attenzione",
       "pt": "a atenção",
       "ja": "気をつけ",
       "zh": "注意",
-      "ru": "внимание"
+      "ru": "внимание",
+      "fr": "attention"
     },
     "examples": [],
     "meta": {},
@@ -14938,12 +14937,12 @@ const WORDS_PL_B2 = [
       "en": "approach",
       "de": "nähern",
       "es": "acercar",
-      "pl": "zbliżać",
       "it": "avvicinare",
       "pt": "aproximar",
       "ja": "近づく",
       "zh": "接近",
-      "ru": "приближать"
+      "ru": "приближать",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {},
@@ -14965,12 +14964,12 @@ const WORDS_PL_B2 = [
       "en": "devoted",
       "de": "ergeben",
       "es": "devoto",
-      "pl": "oddany",
       "it": "devoto",
       "pt": "devotado",
       "ja": "献身的な",
       "zh": "忠诚的",
-      "ru": "преданный"
+      "ru": "преданный",
+      "fr": "dévoué"
     },
     "examples": [],
     "meta": {}
@@ -14989,12 +14988,12 @@ const WORDS_PL_B2 = [
       "en": "festive",
       "de": "festlich",
       "es": "festivo",
-      "pl": "świąteczny",
       "it": "festivo",
       "pt": "festivo",
       "ja": "祝祭の",
       "zh": "节日的",
-      "ru": "праздничный"
+      "ru": "праздничный",
+      "fr": "festif"
     },
     "examples": [],
     "meta": {}
@@ -15014,12 +15013,12 @@ const WORDS_PL_B2 = [
       "en": "fine",
       "de": "die Geldstrafe",
       "es": "la multa",
-      "pl": "mandat",
       "it": "la multa",
       "pt": "a multa",
       "ja": "罰金",
       "zh": "罚款",
-      "ru": "штраф"
+      "ru": "штраф",
+      "fr": "amende"
     },
     "examples": [],
     "meta": {},
@@ -15040,12 +15039,12 @@ const WORDS_PL_B2 = [
       "en": "find",
       "de": "aufspüren",
       "es": "encontrar",
-      "pl": "odszukać",
       "it": "ritrovare",
       "pt": "encontrar",
       "ja": "探し出す",
       "zh": "找到",
-      "ru": "отыскать"
+      "ru": "отыскать",
+      "fr": "trouver"
     },
     "examples": [],
     "meta": {},
@@ -15068,12 +15067,12 @@ const WORDS_PL_B2 = [
       "en": "curiosity",
       "de": "die Neugier",
       "es": "la curiosidad",
-      "pl": "ciekawość",
       "it": "la curiosità",
       "pt": "a curiosidade",
       "ja": "好奇心",
       "zh": "好奇心",
-      "ru": "любопытство"
+      "ru": "любопытство",
+      "fr": "curiosité"
     },
     "examples": [],
     "meta": {},
@@ -15094,12 +15093,12 @@ const WORDS_PL_B2 = [
       "en": "nasty",
       "de": "hässlich",
       "es": "desagradable",
-      "pl": "paskudny",
       "it": "brutto",
       "pt": "desagradável",
       "ja": "嫌な",
       "zh": "讨厌的",
-      "ru": "противный"
+      "ru": "противный",
+      "fr": "désagréable"
     },
     "examples": [],
     "meta": {}
@@ -15119,12 +15118,12 @@ const WORDS_PL_B2 = [
       "en": "breast",
       "de": "die Brust",
       "es": "el pecho",
-      "pl": "pierś",
       "it": "il seno",
       "pt": "o peito",
       "ja": "胸",
       "zh": "乳房",
-      "ru": "грудь"
+      "ru": "грудь",
+      "fr": "sein"
     },
     "examples": [],
     "meta": {},
@@ -15146,12 +15145,12 @@ const WORDS_PL_B2 = [
       "en": "land",
       "de": "das Land",
       "es": "la tierra",
-      "pl": "ląd",
       "it": "la terra",
       "pt": "a terra",
       "ja": "陸",
       "zh": "陆地",
-      "ru": "суша"
+      "ru": "суша",
+      "fr": "terre"
     },
     "examples": [],
     "meta": {},
@@ -15173,12 +15172,12 @@ const WORDS_PL_B2 = [
       "en": "agreement",
       "de": "die Vereinbarung",
       "es": "el acuerdo",
-      "pl": "porozumienie",
       "it": "l'accordo",
       "pt": "o acordo",
       "ja": "合意",
       "zh": "协议",
-      "ru": "соглашение"
+      "ru": "соглашение",
+      "fr": "accord"
     },
     "examples": [],
     "meta": {},
@@ -15199,12 +15198,12 @@ const WORDS_PL_B2 = [
       "en": "motel",
       "de": "das Motel",
       "es": "el motel",
-      "pl": "motel",
       "it": "il motel",
       "pt": "o motel",
       "ja": "モーテル",
       "zh": "汽车旅馆",
-      "ru": "мотель"
+      "ru": "мотель",
+      "fr": "motel"
     },
     "examples": [],
     "meta": {},
@@ -15226,12 +15225,12 @@ const WORDS_PL_B2 = [
       "en": "criminal",
       "de": "der Verbrecher",
       "es": "el criminal",
-      "pl": "przestępca",
       "it": "il criminale",
       "pt": "o criminoso",
       "ja": "犯罪者",
       "zh": "罪犯",
-      "ru": "преступник"
+      "ru": "преступник",
+      "fr": "criminel"
     },
     "examples": [],
     "meta": {},
@@ -15252,12 +15251,12 @@ const WORDS_PL_B2 = [
       "en": "add horseradish",
       "de": "Meerrettich hinzufügen",
       "es": "añadir rábano picante",
-      "pl": "chrzanić",
       "it": "aggiungere rafano",
       "pt": "adicionar raiz forte",
       "ja": "ホースラディッシュを加える",
       "zh": "加辣根",
-      "ru": "добавлять хрен"
+      "ru": "добавлять хрен",
+      "fr": "ajouter du raifort"
     },
     "examples": [],
     "meta": {},
@@ -15279,12 +15278,12 @@ const WORDS_PL_B2 = [
       "en": "congratulate",
       "de": "gratulieren",
       "es": "felicitar",
-      "pl": "pogratulować",
       "it": "congratularsi",
       "pt": "parabenizar",
       "ja": "祝う",
       "zh": "祝贺",
-      "ru": "поздравить"
+      "ru": "поздравить",
+      "fr": "féliciter"
     },
     "examples": [],
     "meta": {},
@@ -15307,12 +15306,12 @@ const WORDS_PL_B2 = [
       "en": "bacon",
       "de": "der Speck",
       "es": "el tocino",
-      "pl": "bekon",
       "it": "la pancetta",
       "pt": "o bacon",
       "ja": "ベーコン",
       "zh": "培根",
-      "ru": "бекон"
+      "ru": "бекон",
+      "fr": "lard"
     },
     "examples": [],
     "meta": {},
@@ -15334,12 +15333,12 @@ const WORDS_PL_B2 = [
       "en": "exception",
       "de": "die Ausnahme",
       "es": "la excepción",
-      "pl": "wyjątek",
       "it": "l'eccezione",
       "pt": "a exceção",
       "ja": "例外",
       "zh": "例外",
-      "ru": "исключение"
+      "ru": "исключение",
+      "fr": "exception"
     },
     "examples": [],
     "meta": {},
@@ -15360,12 +15359,12 @@ const WORDS_PL_B2 = [
       "en": "reason",
       "de": "die Vernunft",
       "es": "la razón",
-      "pl": "rozsądek",
       "it": "la ragione",
       "pt": "a razão",
       "ja": "理性",
       "zh": "理智",
-      "ru": "разум"
+      "ru": "разум",
+      "fr": "raison"
     },
     "examples": [],
     "meta": {},
@@ -15387,12 +15386,12 @@ const WORDS_PL_B2 = [
       "en": "pink",
       "de": "rosa",
       "es": "rosa",
-      "pl": "różowy",
       "it": "rosa",
       "pt": "rosa",
       "ja": "ピンクの",
       "zh": "粉红色的",
-      "ru": "розовый"
+      "ru": "розовый",
+      "fr": "rose"
     },
     "examples": [],
     "meta": {}
@@ -15412,12 +15411,12 @@ const WORDS_PL_B2 = [
       "en": "examine",
       "de": "untersuchen",
       "es": "examinar",
-      "pl": "badać",
       "it": "esaminare",
       "pt": "examinar",
       "ja": "調査する",
       "zh": "检查",
-      "ru": "исследовать"
+      "ru": "исследовать",
+      "fr": "examiner"
     },
     "examples": [],
     "meta": {},
@@ -15440,12 +15439,12 @@ const WORDS_PL_B2 = [
       "en": "fall in love",
       "de": "sich verlieben",
       "es": "enamorarse",
-      "pl": "pokochać",
       "it": "innamorarsi",
       "pt": "apaixonar-se",
       "ja": "恋に落ちる",
       "zh": "爱上",
-      "ru": "полюбить"
+      "ru": "полюбить",
+      "fr": "tomber amoureux"
     },
     "examples": [],
     "meta": {},
@@ -15468,12 +15467,12 @@ const WORDS_PL_B2 = [
       "en": "ceremony",
       "de": "die Zeremonie",
       "es": "la ceremonia",
-      "pl": "ceremonia",
       "it": "la cerimonia",
       "pt": "a cerimônia",
       "ja": "儀式",
       "zh": "仪式",
-      "ru": "церемония"
+      "ru": "церемония",
+      "fr": "cérémonie"
     },
     "examples": [],
     "meta": {},
@@ -15495,12 +15494,12 @@ const WORDS_PL_B2 = [
       "en": "director",
       "de": "der Regisseur",
       "es": "el director",
-      "pl": "reżyser",
       "it": "il regista",
       "pt": "o diretor",
       "ja": "監督",
       "zh": "导演",
-      "ru": "режиссёр"
+      "ru": "режиссёр",
+      "fr": "directeur"
     },
     "examples": [],
     "meta": {},
@@ -15522,12 +15521,12 @@ const WORDS_PL_B2 = [
       "en": "casino",
       "de": "das Kasino",
       "es": "el casino",
-      "pl": "kasyno",
       "it": "il casinò",
       "pt": "o cassino",
       "ja": "カジノ",
       "zh": "赌场",
-      "ru": "казино"
+      "ru": "казино",
+      "fr": "casino"
     },
     "examples": [],
     "meta": {},
@@ -15548,12 +15547,12 @@ const WORDS_PL_B2 = [
       "en": "brothel",
       "de": "das Bordell",
       "es": "el burdel",
-      "pl": "burdel",
       "it": "il bordello",
       "pt": "o bordel",
       "ja": "売春宿",
       "zh": "妓院",
-      "ru": "бордель"
+      "ru": "бордель",
+      "fr": "bordel"
     },
     "examples": [],
     "meta": {},
@@ -15574,12 +15573,12 @@ const WORDS_PL_B2 = [
       "en": "knit",
       "de": "stricken",
       "es": "tejer",
-      "pl": "dziać",
       "it": "lavorare a maglia",
       "pt": "tricotar",
       "ja": "編む",
       "zh": "编织",
-      "ru": "вязать"
+      "ru": "вязать",
+      "fr": "tricoter"
     },
     "examples": [],
     "meta": {},
@@ -15601,12 +15600,12 @@ const WORDS_PL_B2 = [
       "en": "ignite",
       "de": "anzünden",
       "es": "encender",
-      "pl": "odpalić",
       "it": "accendere",
       "pt": "acender",
       "ja": "点火する",
       "zh": "点燃",
-      "ru": "зажечь"
+      "ru": "зажечь",
+      "fr": "allumer"
     },
     "examples": [],
     "meta": {},
@@ -15629,12 +15628,12 @@ const WORDS_PL_B2 = [
       "en": "leak",
       "de": "das Leck",
       "es": "la fuga",
-      "pl": "wyciek",
       "it": "la perdita",
       "pt": "o vazamento",
       "ja": "漏れ",
       "zh": "泄漏",
-      "ru": "утечка"
+      "ru": "утечка",
+      "fr": "fuite"
     },
     "examples": [],
     "meta": {},
@@ -15656,12 +15655,12 @@ const WORDS_PL_B2 = [
       "en": "acquaintance",
       "de": "die Bekannte",
       "es": "la conocida",
-      "pl": "znajoma",
       "it": "la conoscente",
       "pt": "a conhecida",
       "ja": "知人女性",
       "zh": "熟人",
-      "ru": "знакомая"
+      "ru": "знакомая",
+      "fr": "connaissance"
     },
     "examples": [],
     "meta": {},
@@ -15683,12 +15682,12 @@ const WORDS_PL_B2 = [
       "en": "hill",
       "de": "der Hügel",
       "es": "la colina",
-      "pl": "wzgórze",
       "it": "la collina",
       "pt": "a colina",
       "ja": "丘",
       "zh": "小山",
-      "ru": "холм"
+      "ru": "холм",
+      "fr": "colline"
     },
     "examples": [],
     "meta": {},
@@ -15709,12 +15708,12 @@ const WORDS_PL_B2 = [
       "en": "thread",
       "de": "das Gewinde",
       "es": "la rosca",
-      "pl": "gwint",
       "it": "la filettatura",
       "pt": "a rosca",
       "ja": "ねじ山",
       "zh": "螺纹",
-      "ru": "резьба"
+      "ru": "резьба",
+      "fr": "fil"
     },
     "examples": [],
     "meta": {},
@@ -15735,12 +15734,12 @@ const WORDS_PL_B2 = [
       "en": "infection",
       "de": "die Infektion",
       "es": "la infección",
-      "pl": "infekcja",
       "it": "l'infezione",
       "pt": "a infecção",
       "ja": "感染",
       "zh": "感染",
-      "ru": "инфекция"
+      "ru": "инфекция",
+      "fr": "infection"
     },
     "examples": [],
     "meta": {},
@@ -15762,12 +15761,12 @@ const WORDS_PL_B2 = [
       "en": "leak",
       "de": "das Leck",
       "es": "la fuga",
-      "pl": "przeciek",
       "it": "la perdita",
       "pt": "o vazamento",
       "ja": "漏洩",
       "zh": "泄漏",
-      "ru": "утечка"
+      "ru": "утечка",
+      "fr": "fuite"
     },
     "examples": [],
     "meta": {},
@@ -15789,12 +15788,12 @@ const WORDS_PL_B2 = [
       "en": "reading",
       "de": "das Lesen",
       "es": "la lectura",
-      "pl": "czytanie",
       "it": "la lettura",
       "pt": "a leitura",
       "ja": "読書",
       "zh": "阅读",
-      "ru": "чтение"
+      "ru": "чтение",
+      "fr": "lecture"
     },
     "examples": [],
     "meta": {},
@@ -15816,12 +15815,12 @@ const WORDS_PL_B2 = [
       "en": "fruit",
       "de": "die Frucht",
       "es": "la fruta",
-      "pl": "owoc",
       "it": "il frutto",
       "pt": "a fruta",
       "ja": "果物",
       "zh": "水果",
-      "ru": "фрукт"
+      "ru": "фрукт",
+      "fr": "fruit"
     },
     "examples": [],
     "meta": {},
@@ -15842,12 +15841,12 @@ const WORDS_PL_B2 = [
       "en": "shoddy work",
       "de": "die Pfuscherei",
       "es": "el trabajo chapucero",
-      "pl": "odpierdol",
       "it": "il lavoro scadente",
       "pt": "o trabalho malfeito",
       "ja": "ずさんな仕事",
       "zh": "粗制滥造",
-      "ru": "халтура"
+      "ru": "халтура",
+      "fr": "travail bâclé"
     },
     "examples": [],
     "meta": {},
@@ -15869,12 +15868,12 @@ const WORDS_PL_B2 = [
       "en": "diploma",
       "de": "das Diplom",
       "es": "el diploma",
-      "pl": "dyplom",
       "it": "il diploma",
       "pt": "o diploma",
       "ja": "卒業証書",
       "zh": "文凭",
-      "ru": "диплом"
+      "ru": "диплом",
+      "fr": "diplôme"
     },
     "examples": [],
     "meta": {},
@@ -15895,12 +15894,12 @@ const WORDS_PL_B2 = [
       "en": "deny",
       "de": "leugnen",
       "es": "negar",
-      "pl": "zaprzeczyć",
       "it": "negare",
       "pt": "negar",
       "ja": "否定する",
       "zh": "否认",
-      "ru": "отрицать"
+      "ru": "отрицать",
+      "fr": "nier"
     },
     "examples": [],
     "meta": {},
@@ -15923,12 +15922,12 @@ const WORDS_PL_B2 = [
       "en": "departure",
       "de": "der Abschied",
       "es": "la partida",
-      "pl": "odejście",
       "it": "la partenza",
       "pt": "a partida",
       "ja": "出発",
       "zh": "离开",
-      "ru": "отъезд"
+      "ru": "отъезд",
+      "fr": "départ"
     },
     "examples": [],
     "meta": {},
@@ -15950,12 +15949,12 @@ const WORDS_PL_B2 = [
       "en": "worried",
       "de": "besorgt",
       "es": "preocupado",
-      "pl": "zmartwiony",
       "it": "preoccupato",
       "pt": "preocupado",
       "ja": "心配している",
       "zh": "担心",
-      "ru": "обеспокоенный"
+      "ru": "обеспокоенный",
+      "fr": "inquiet"
     },
     "examples": [],
     "meta": {}
@@ -15974,12 +15973,12 @@ const WORDS_PL_B2 = [
       "en": "Porsche",
       "de": "der Porsche",
       "es": "el Porsche",
-      "pl": "Porsche",
       "it": "la Porsche",
       "pt": "o Porsche",
       "ja": "ポルシェ",
       "zh": "保时捷",
-      "ru": "Порше"
+      "ru": "Порше",
+      "fr": "Porsche"
     },
     "examples": [],
     "meta": {},
@@ -16001,12 +16000,12 @@ const WORDS_PL_B2 = [
       "en": "employ",
       "de": "einstellen",
       "es": "emplear",
-      "pl": "przyjmować",
       "it": "assumere",
       "pt": "empregar",
       "ja": "雇う",
       "zh": "雇用",
-      "ru": "принимать"
+      "ru": "принимать",
+      "fr": "employer"
     },
     "examples": [],
     "meta": {},
@@ -16029,12 +16028,12 @@ const WORDS_PL_B2 = [
       "en": "honey",
       "de": "der Honig",
       "es": "la miel",
-      "pl": "miód",
       "it": "il miele",
       "pt": "o mel",
       "ja": "蜂蜜",
       "zh": "蜂蜜",
-      "ru": "мёд"
+      "ru": "мёд",
+      "fr": "miel"
     },
     "examples": [],
     "meta": {},
@@ -16056,12 +16055,12 @@ const WORDS_PL_B2 = [
       "en": "warm",
       "de": "warm",
       "es": "cálido",
-      "pl": "ciepły",
       "it": "caldo",
       "pt": "quente",
       "ja": "暖かい",
       "zh": "温暖",
-      "ru": "тёплый"
+      "ru": "тёплый",
+      "fr": "chaud"
     },
     "examples": [],
     "meta": {}
@@ -16081,12 +16080,12 @@ const WORDS_PL_B2 = [
       "en": "fairy tale",
       "de": "die Fabel",
       "es": "el cuento de hadas",
-      "pl": "bajka",
       "it": "la fiaba",
       "pt": "o conto de fadas",
       "ja": "おとぎ話",
       "zh": "童话",
-      "ru": "сказка"
+      "ru": "сказка",
+      "fr": "conte de fées"
     },
     "examples": [],
     "meta": {},
@@ -16109,12 +16108,12 @@ const WORDS_PL_B2 = [
       "en": "writer",
       "de": "der Schriftsteller",
       "es": "el escritor",
-      "pl": "pisarz",
       "it": "lo scrittore",
       "pt": "o escritor",
       "ja": "作家",
       "zh": "作家",
-      "ru": "писатель"
+      "ru": "писатель",
+      "fr": "écrivain"
     },
     "examples": [],
     "meta": {},
@@ -16135,12 +16134,12 @@ const WORDS_PL_B2 = [
       "en": "federal",
       "de": "föderal",
       "es": "federal",
-      "pl": "federalny",
       "it": "federale",
       "pt": "federal",
       "ja": "連邦の",
       "zh": "联邦的",
-      "ru": "федеральный"
+      "ru": "федеральный",
+      "fr": "fédéral"
     },
     "examples": [],
     "meta": {}
@@ -16160,12 +16159,12 @@ const WORDS_PL_B2 = [
       "en": "rani",
       "de": "die Rani",
       "es": "la rani",
-      "pl": "rani",
       "it": "la rani",
       "pt": "a rani",
       "ja": "ラニ",
       "zh": "拉尼",
-      "ru": "рани"
+      "ru": "рани",
+      "fr": "Rani"
     },
     "examples": [],
     "meta": {},
@@ -16187,12 +16186,12 @@ const WORDS_PL_B2 = [
       "en": "mud",
       "de": "der Schlamm",
       "es": "el barro",
-      "pl": "błoto",
       "it": "il fango",
       "pt": "a lama",
       "ja": "泥",
       "zh": "泥",
-      "ru": "грязь"
+      "ru": "грязь",
+      "fr": "boue"
     },
     "examples": [],
     "meta": {},
@@ -16213,12 +16212,12 @@ const WORDS_PL_B2 = [
       "en": "sector",
       "de": "der Sektor",
       "es": "el sector",
-      "pl": "sektor",
       "it": "il settore",
       "pt": "o setor",
       "ja": "セクター",
       "zh": "部门",
-      "ru": "сектор"
+      "ru": "сектор",
+      "fr": "secteur"
     },
     "examples": [],
     "meta": {},
@@ -16240,12 +16239,12 @@ const WORDS_PL_B2 = [
       "en": "little daughter",
       "de": "das Töchterchen",
       "es": "la hijita",
-      "pl": "córeczka",
       "it": "la figlioletta",
       "pt": "a filhinha",
       "ja": "娘",
       "zh": "小女儿",
-      "ru": "доченька"
+      "ru": "доченька",
+      "fr": "petite fille"
     },
     "examples": [],
     "meta": {},
@@ -16268,12 +16267,12 @@ const WORDS_PL_B2 = [
       "en": "to inform",
       "de": "informieren",
       "es": "informar",
-      "pl": "informować",
       "it": "informare",
       "pt": "informar",
       "ja": "知らせる",
       "zh": "通知",
-      "ru": "информировать"
+      "ru": "информировать",
+      "fr": "informer"
     },
     "examples": [],
     "meta": {},
@@ -16297,12 +16296,12 @@ const WORDS_PL_B2 = [
       "en": "metro",
       "de": "die U-Bahn",
       "es": "el metro",
-      "pl": "metro",
       "it": "la metropolitana",
       "pt": "o metrô",
       "ja": "地下鉄",
       "zh": "地铁",
-      "ru": "метро"
+      "ru": "метро",
+      "fr": "métro"
     },
     "examples": [],
     "meta": {},
@@ -16324,12 +16323,12 @@ const WORDS_PL_B2 = [
       "en": "chili",
       "de": "die Chili",
       "es": "el chile",
-      "pl": "chili",
       "it": "il peperoncino",
       "pt": "a pimenta",
       "ja": "唐辛子",
       "zh": "辣椒",
-      "ru": "чили"
+      "ru": "чили",
+      "fr": "chili"
     },
     "examples": [],
     "meta": {},
@@ -16350,12 +16349,12 @@ const WORDS_PL_B2 = [
       "en": "committee",
       "de": "das Komitee",
       "es": "el comité",
-      "pl": "komitet",
       "it": "il comitato",
       "pt": "o comitê",
       "ja": "委員会",
       "zh": "委员会",
-      "ru": "комитет"
+      "ru": "комитет",
+      "fr": "comité"
     },
     "examples": [],
     "meta": {},
@@ -16378,12 +16377,12 @@ const WORDS_PL_B2 = [
       "en": "to use",
       "de": "nutzen",
       "es": "utilizar",
-      "pl": "wykorzystywać",
       "it": "utilizzare",
       "pt": "utilizar",
       "ja": "利用する",
       "zh": "利用",
-      "ru": "использовать"
+      "ru": "использовать",
+      "fr": "utiliser"
     },
     "examples": [],
     "meta": {},
@@ -16406,12 +16405,12 @@ const WORDS_PL_B2 = [
       "en": "wisdom",
       "de": "die Weisheit",
       "es": "la sabiduría",
-      "pl": "mądrość",
       "it": "la saggezza",
       "pt": "a sabedoria",
       "ja": "知恵",
       "zh": "智慧",
-      "ru": "мудрость"
+      "ru": "мудрость",
+      "fr": "sagesse"
     },
     "examples": [],
     "meta": {},
@@ -16432,12 +16431,12 @@ const WORDS_PL_B2 = [
       "en": "mess",
       "de": "der Dreck",
       "es": "el desorden",
-      "pl": "syf",
       "it": "il casino",
       "pt": "a bagunça",
       "ja": "散らかり",
       "zh": "混乱",
-      "ru": "бардак"
+      "ru": "бардак",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {},
@@ -16459,12 +16458,12 @@ const WORDS_PL_B2 = [
       "en": "to dress",
       "de": "anziehen",
       "es": "vestir",
-      "pl": "ubierać",
       "it": "vestire",
       "pt": "vestir",
       "ja": "着せる",
       "zh": "穿衣",
-      "ru": "одевать"
+      "ru": "одевать",
+      "fr": "habiller"
     },
     "examples": [],
     "meta": {},
@@ -16487,12 +16486,12 @@ const WORDS_PL_B2 = [
       "en": "cable",
       "de": "das Kabel",
       "es": "el cable",
-      "pl": "kabel",
       "it": "il cavo",
       "pt": "o cabo",
       "ja": "ケーブル",
       "zh": "电缆",
-      "ru": "кабель"
+      "ru": "кабель",
+      "fr": "câble"
     },
     "examples": [],
     "meta": {},
@@ -16513,12 +16512,12 @@ const WORDS_PL_B2 = [
       "en": "speech",
       "de": "die Rede",
       "es": "el discurso",
-      "pl": "przemowa",
       "it": "il discorso",
       "pt": "o discurso",
       "ja": "演説",
       "zh": "演讲",
-      "ru": "речь"
+      "ru": "речь",
+      "fr": "discours"
     },
     "examples": [],
     "meta": {},
@@ -16539,12 +16538,12 @@ const WORDS_PL_B2 = [
       "en": "rage",
       "de": "die Wut",
       "es": "la rabia",
-      "pl": "szał",
       "it": "la rabbia",
       "pt": "a raiva",
       "ja": "激怒",
       "zh": "狂怒",
-      "ru": "ярость"
+      "ru": "ярость",
+      "fr": "rage"
     },
     "examples": [],
     "meta": {},
@@ -16566,12 +16565,12 @@ const WORDS_PL_B2 = [
       "en": "to do",
       "de": "tun",
       "es": "hacer",
-      "pl": "czynić",
       "it": "fare",
       "pt": "fazer",
       "ja": "する",
       "zh": "做",
-      "ru": "делать"
+      "ru": "делать",
+      "fr": "faire"
     },
     "examples": [],
     "meta": {},
@@ -16594,12 +16593,12 @@ const WORDS_PL_B2 = [
       "en": "innocence",
       "de": "die Unschuld",
       "es": "la inocencia",
-      "pl": "niewinność",
       "it": "l'innocenza",
       "pt": "a inocência",
       "ja": "無邪気",
       "zh": "无辜",
-      "ru": "невинность"
+      "ru": "невинность",
+      "fr": "innocence"
     },
     "examples": [],
     "meta": {},
@@ -16621,12 +16620,12 @@ const WORDS_PL_B2 = [
       "en": "bowling",
       "de": "das Bowling",
       "es": "los bolos",
-      "pl": "kręgle",
       "it": "il bowling",
       "pt": "o boliche",
       "ja": "ボウリング",
       "zh": "保龄球",
-      "ru": "боулинг"
+      "ru": "боулинг",
+      "fr": "bowling"
     },
     "examples": [],
     "meta": {},
@@ -16648,12 +16647,12 @@ const WORDS_PL_B2 = [
       "en": "to defend",
       "de": "verteidigen",
       "es": "defender",
-      "pl": "obronić",
       "it": "difendere",
       "pt": "defender",
       "ja": "防御する",
       "zh": "防御",
-      "ru": "защитить"
+      "ru": "защитить",
+      "fr": "défendre"
     },
     "examples": [],
     "meta": {},
@@ -16675,12 +16674,12 @@ const WORDS_PL_B2 = [
       "en": "center",
       "de": "das Zentrum",
       "es": "el centro",
-      "pl": "ośrodek",
       "it": "il centro",
       "pt": "o centro",
       "ja": "中心",
       "zh": "中心",
-      "ru": "центр"
+      "ru": "центр",
+      "fr": "centre"
     },
     "examples": [],
     "meta": {},
@@ -16703,12 +16702,12 @@ const WORDS_PL_B2 = [
       "en": "to expose",
       "de": "aussetzen",
       "es": "exponer",
-      "pl": "narażać",
       "it": "esporre",
       "pt": "expor",
       "ja": "さらす",
       "zh": "暴露",
-      "ru": "подвергать"
+      "ru": "подвергать",
+      "fr": "exposer"
     },
     "examples": [],
     "meta": {},
@@ -16731,12 +16730,12 @@ const WORDS_PL_B2 = [
       "en": "beer",
       "de": "das Bier",
       "es": "la cerveza",
-      "pl": "piwko",
       "it": "la birra",
       "pt": "a cerveja",
       "ja": "ビール",
       "zh": "啤酒",
-      "ru": "пиво"
+      "ru": "пиво",
+      "fr": "bière"
     },
     "examples": [],
     "meta": {},
@@ -16759,12 +16758,12 @@ const WORDS_PL_B2 = [
       "en": "compromise",
       "de": "der Kompromiss",
       "es": "el compromiso",
-      "pl": "kompromis",
       "it": "il compromesso",
       "pt": "o compromisso",
       "ja": "妥協",
       "zh": "妥协",
-      "ru": "компромисс"
+      "ru": "компромисс",
+      "fr": "compromis"
     },
     "examples": [],
     "meta": {},
@@ -16785,12 +16784,12 @@ const WORDS_PL_B2 = [
       "en": "damn thing",
       "de": "das Mistding",
       "es": "la maldita cosa",
-      "pl": "cholerstwo",
       "it": "la dannata cosa",
       "pt": "a coisa maldita",
       "ja": "ちくしょう",
       "zh": "该死的东西",
-      "ru": "чертовщина"
+      "ru": "чертовщина",
+      "fr": "chose maudite"
     },
     "examples": [],
     "meta": {},
@@ -16812,12 +16811,12 @@ const WORDS_PL_B2 = [
       "en": "quarrel",
       "de": "der Streit",
       "es": "la discusión",
-      "pl": "kłótnia",
       "it": "il litigio",
       "pt": "a briga",
       "ja": "口論",
       "zh": "争吵",
-      "ru": "ссора"
+      "ru": "ссора",
+      "fr": "querelle"
     },
     "examples": [],
     "meta": {},
@@ -16840,12 +16839,12 @@ const WORDS_PL_B2 = [
       "en": "reputation",
       "de": "der Ruf",
       "es": "la reputación",
-      "pl": "reputacja",
       "it": "la reputazione",
       "pt": "a reputação",
       "ja": "評判",
       "zh": "声誉",
-      "ru": "репутация"
+      "ru": "репутация",
+      "fr": "réputation"
     },
     "examples": [],
     "meta": {},
@@ -16867,12 +16866,12 @@ const WORDS_PL_B2 = [
       "en": "cookie",
       "de": "der Keks",
       "es": "la galleta",
-      "pl": "ciasteczko",
       "it": "il biscotto",
       "pt": "o biscoito",
       "ja": "クッキー",
       "zh": "饼干",
-      "ru": "печенье"
+      "ru": "печенье",
+      "fr": "biscuit"
     },
     "examples": [],
     "meta": {},
@@ -16894,12 +16893,12 @@ const WORDS_PL_B2 = [
       "en": "to match",
       "de": "anpassen",
       "es": "ajustar",
-      "pl": "dopasować",
       "it": "abbinare",
       "pt": "combinar",
       "ja": "合わせる",
       "zh": "匹配",
-      "ru": "подбирать"
+      "ru": "подбирать",
+      "fr": "adapter"
     },
     "examples": [],
     "meta": {},
@@ -16922,12 +16921,12 @@ const WORDS_PL_B2 = [
       "en": "quarter",
       "de": "das Viertel",
       "es": "el cuarto",
-      "pl": "ćwierć",
       "it": "il quarto",
       "pt": "o quarto",
       "ja": "4分の1",
       "zh": "四分之一",
-      "ru": "четверть"
+      "ru": "четверть",
+      "fr": "quart"
     },
     "examples": [],
     "meta": {},
@@ -16948,12 +16947,12 @@ const WORDS_PL_B2 = [
       "en": "coating",
       "de": "der Belag",
       "es": "la capa",
-      "pl": "nalot",
       "it": "il rivestimento",
       "pt": "o revestimento",
       "ja": "コーティング",
       "zh": "涂层",
-      "ru": "налёт"
+      "ru": "налёт",
+      "fr": "revêtement"
     },
     "examples": [],
     "meta": {},
@@ -16975,12 +16974,12 @@ const WORDS_PL_B2 = [
       "en": "greatness",
       "de": "die Größe",
       "es": "la grandeza",
-      "pl": "wielkość",
       "it": "la grandezza",
       "pt": "a grandeza",
       "ja": "偉大さ",
       "zh": "伟大",
-      "ru": "величие"
+      "ru": "величие",
+      "fr": "grandeur"
     },
     "examples": [],
     "meta": {},
@@ -17002,12 +17001,12 @@ const WORDS_PL_B2 = [
       "en": "blonde woman",
       "de": "die Blondine",
       "es": "la rubia",
-      "pl": "blondynka",
       "it": "la bionda",
       "pt": "a loira",
       "ja": "金髪の女性",
       "zh": "金发女郎",
-      "ru": "блондинка"
+      "ru": "блондинка",
+      "fr": "blonde"
     },
     "examples": [],
     "meta": {},
@@ -17028,12 +17027,12 @@ const WORDS_PL_B2 = [
       "en": "Qi",
       "de": "das Qi",
       "es": "el Qi",
-      "pl": "ki",
       "it": "il Qi",
       "pt": "o Qi",
       "ja": "気",
       "zh": "气",
-      "ru": "ци"
+      "ru": "ци",
+      "fr": "Qi"
     },
     "examples": [],
     "meta": {},
@@ -17056,12 +17055,12 @@ const WORDS_PL_B2 = [
       "en": "league",
       "de": "die Liga",
       "es": "la liga",
-      "pl": "liga",
       "it": "la lega",
       "pt": "a liga",
       "ja": "リーグ",
       "zh": "联盟",
-      "ru": "лига"
+      "ru": "лига",
+      "fr": "ligue"
     },
     "examples": [],
     "meta": {},
@@ -17083,12 +17082,12 @@ const WORDS_PL_B2 = [
       "en": "related",
       "de": "verbunden",
       "es": "relacionado",
-      "pl": "powiązany",
       "it": "correlato",
       "pt": "relacionado",
       "ja": "関連した",
       "zh": "相关的",
-      "ru": "связанный"
+      "ru": "связанный",
+      "fr": "lié"
     },
     "examples": [],
     "meta": {}
@@ -17109,12 +17108,12 @@ const WORDS_PL_B2 = [
       "en": "to plan",
       "de": "planen",
       "es": "planificar",
-      "pl": "zaplanować",
       "it": "pianificare",
       "pt": "planejar",
       "ja": "計画する",
       "zh": "计划",
-      "ru": "планировать"
+      "ru": "планировать",
+      "fr": "planifier"
     },
     "examples": [],
     "meta": {},
@@ -17136,12 +17135,12 @@ const WORDS_PL_B2 = [
       "en": "mastiff",
       "de": "die Dogge",
       "es": "el dogo",
-      "pl": "dog",
       "it": "il dogo",
       "pt": "o dogue",
       "ja": "マスティフ",
       "zh": "獒犬",
-      "ru": "дог"
+      "ru": "дог",
+      "fr": "mâtin"
     },
     "examples": [],
     "meta": {},
@@ -17163,12 +17162,12 @@ const WORDS_PL_B2 = [
       "en": "free of charge",
       "de": "kostenlos",
       "es": "gratuito",
-      "pl": "darmowy",
       "it": "gratuito",
       "pt": "gratuito",
       "ja": "無料の",
       "zh": "免费的",
-      "ru": "бесплатный"
+      "ru": "бесплатный",
+      "fr": "gratuit"
     },
     "examples": [],
     "meta": {}
@@ -17188,12 +17187,12 @@ const WORDS_PL_B2 = [
       "en": "accusation",
       "de": "der Vorwurf",
       "es": "la acusación",
-      "pl": "zarzut",
       "it": "l'accusa",
       "pt": "a acusação",
       "ja": "非難",
       "zh": "指控",
-      "ru": "обвинение"
+      "ru": "обвинение",
+      "fr": "accusation"
     },
     "examples": [],
     "meta": {},
@@ -17215,12 +17214,12 @@ const WORDS_PL_B2 = [
       "en": "plate",
       "de": "die Platte",
       "es": "la placa",
-      "pl": "płyta",
       "it": "la piastra",
       "pt": "a placa",
       "ja": "プレート",
       "zh": "板",
-      "ru": "плита"
+      "ru": "плита",
+      "fr": "assiette"
     },
     "examples": [],
     "meta": {},
@@ -17241,12 +17240,12 @@ const WORDS_PL_B2 = [
       "en": "race",
       "de": "das Rennen",
       "es": "la carrera",
-      "pl": "wyścigi",
       "it": "la corsa",
       "pt": "a corrida",
       "ja": "レース",
       "zh": "比赛",
-      "ru": "гонка"
+      "ru": "гонка",
+      "fr": "course"
     },
     "examples": [],
     "meta": {},
@@ -17268,12 +17267,12 @@ const WORDS_PL_B2 = [
       "en": "masses",
       "de": "die Massen",
       "es": "las masas",
-      "pl": "masy",
       "it": "le masse",
       "pt": "as massas",
       "ja": "大衆",
       "zh": "大众",
-      "ru": "массы"
+      "ru": "массы",
+      "fr": "masses"
     },
     "examples": [],
     "meta": {},
@@ -17294,12 +17293,12 @@ const WORDS_PL_B2 = [
       "en": "dick",
       "de": "der Schwanz",
       "es": "la polla",
-      "pl": "fiut",
       "it": "il cazzo",
       "pt": "o pau",
       "ja": "ちんこ",
       "zh": "鸡巴",
-      "ru": "член"
+      "ru": "член",
+      "fr": "bite"
     },
     "examples": [],
     "meta": {},
@@ -17322,12 +17321,12 @@ const WORDS_PL_B2 = [
       "en": "direct",
       "de": "direkt",
       "es": "directo",
-      "pl": "bezpośredni",
       "it": "diretto",
       "pt": "direto",
       "ja": "直接の",
       "zh": "直接的",
-      "ru": "прямой"
+      "ru": "прямой",
+      "fr": "direct"
     },
     "examples": [],
     "meta": {}
@@ -17347,12 +17346,12 @@ const WORDS_PL_B2 = [
       "en": "sandwich",
       "de": "das Sandwich",
       "es": "el sándwich",
-      "pl": "kanapka",
       "it": "il panino",
       "pt": "o sanduíche",
       "ja": "サンドイッチ",
       "zh": "三明治",
-      "ru": "бутерброд"
+      "ru": "бутерброд",
+      "fr": "sandwich"
     },
     "examples": [],
     "meta": {},
@@ -17374,12 +17373,12 @@ const WORDS_PL_B2 = [
       "en": "left",
       "de": "links",
       "es": "izquierdo",
-      "pl": "lewy",
       "it": "sinistro",
       "pt": "esquerdo",
       "ja": "左の",
       "zh": "左边的",
-      "ru": "левый"
+      "ru": "левый",
+      "fr": "gauche"
     },
     "examples": [],
     "meta": {}
@@ -17399,12 +17398,12 @@ const WORDS_PL_B2 = [
       "en": "solo",
       "de": "das Solo",
       "es": "el solo",
-      "pl": "solo",
       "it": "il solo",
       "pt": "o solo",
       "ja": "ソロ",
       "zh": "独奏",
-      "ru": "соло"
+      "ru": "соло",
+      "fr": "solo"
     },
     "examples": [],
     "meta": {},
@@ -17426,12 +17425,12 @@ const WORDS_PL_B2 = [
       "en": "shark",
       "de": "der Hai",
       "es": "el tiburón",
-      "pl": "rekin",
       "it": "lo squalo",
       "pt": "o tubarão",
       "ja": "サメ",
       "zh": "鲨鱼",
-      "ru": "акула"
+      "ru": "акула",
+      "fr": "requin"
     },
     "examples": [],
     "meta": {},
@@ -17453,12 +17452,12 @@ const WORDS_PL_B2 = [
       "en": "impulse",
       "de": "der Impuls",
       "es": "el impulso",
-      "pl": "impuls",
       "it": "l'impulso",
       "pt": "o impulso",
       "ja": "衝動",
       "zh": "冲动",
-      "ru": "импульс"
+      "ru": "импульс",
+      "fr": "impulsion"
     },
     "examples": [],
     "meta": {},
@@ -17480,12 +17479,12 @@ const WORDS_PL_B2 = [
       "en": "bury",
       "de": "begraben",
       "es": "enterrar",
-      "pl": "pochować",
       "it": "seppellire",
       "pt": "enterrar",
       "ja": "埋める",
       "zh": "埋葬",
-      "ru": "похоронить"
+      "ru": "похоронить",
+      "fr": "enterrer"
     },
     "examples": [],
     "meta": {},
@@ -17507,12 +17506,12 @@ const WORDS_PL_B2 = [
       "en": "jazz",
       "de": "der Jazz",
       "es": "el jazz",
-      "pl": "jazz",
       "it": "il jazz",
       "pt": "o jazz",
       "ja": "ジャズ",
       "zh": "爵士乐",
-      "ru": "джаз"
+      "ru": "джаз",
+      "fr": "jazz"
     },
     "examples": [],
     "meta": {},
@@ -17533,12 +17532,12 @@ const WORDS_PL_B2 = [
       "en": "bring back",
       "de": "zurückbringen",
       "es": "devolver",
-      "pl": "odnieść",
       "it": "riportare",
       "pt": "devolver",
       "ja": "持ち帰る",
       "zh": "带回",
-      "ru": "отнести"
+      "ru": "отнести",
+      "fr": "rapporter"
     },
     "examples": [],
     "meta": {},
@@ -17560,12 +17559,12 @@ const WORDS_PL_B2 = [
       "en": "command",
       "de": "das Kommando",
       "es": "el mando",
-      "pl": "dowodzenie",
       "it": "il comando",
       "pt": "o comando",
       "ja": "指揮",
       "zh": "指挥",
-      "ru": "командование"
+      "ru": "командование",
+      "fr": "commandement"
     },
     "examples": [],
     "meta": {},
@@ -17586,12 +17585,12 @@ const WORDS_PL_B2 = [
       "en": "rob",
       "de": "berauben",
       "es": "robar",
-      "pl": "okraść",
       "it": "derubare",
       "pt": "roubar",
       "ja": "強奪する",
       "zh": "抢劫",
-      "ru": "ограбить"
+      "ru": "ограбить",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {},
@@ -17614,12 +17613,12 @@ const WORDS_PL_B2 = [
       "en": "length",
       "de": "die Länge",
       "es": "la longitud",
-      "pl": "długość",
       "it": "la lunghezza",
       "pt": "o comprimento",
       "ja": "長さ",
       "zh": "长度",
-      "ru": "длина"
+      "ru": "длина",
+      "fr": "longueur"
     },
     "examples": [],
     "meta": {},
@@ -17640,12 +17639,12 @@ const WORDS_PL_B2 = [
       "en": "stage",
       "de": "das Stadium",
       "es": "el estadio",
-      "pl": "stadium",
       "it": "lo stadio",
       "pt": "o estágio",
       "ja": "段階",
       "zh": "阶段",
-      "ru": "стадия"
+      "ru": "стадия",
+      "fr": "stade"
     },
     "examples": [],
     "meta": {},
@@ -17667,12 +17666,12 @@ const WORDS_PL_B2 = [
       "en": "reasonable",
       "de": "vernünftig",
       "es": "razonable",
-      "pl": "rozsądny",
       "it": "ragionevole",
       "pt": "razoável",
       "ja": "合理的な",
       "zh": "合理的",
-      "ru": "разумный"
+      "ru": "разумный",
+      "fr": "raisonnable"
     },
     "examples": [],
     "meta": {}
@@ -17691,12 +17690,12 @@ const WORDS_PL_B2 = [
       "en": "pedal",
       "de": "das Pedal",
       "es": "el pedal",
-      "pl": "pedał",
       "it": "il pedale",
       "pt": "o pedal",
       "ja": "ペダル",
       "zh": "踏板",
-      "ru": "педаль"
+      "ru": "педаль",
+      "fr": "pédale"
     },
     "examples": [],
     "meta": {},
@@ -17718,12 +17717,12 @@ const WORDS_PL_B2 = [
       "en": "arrest",
       "de": "die Verhaftung",
       "es": "el arresto",
-      "pl": "aresztowanie",
       "it": "l'arresto",
       "pt": "a prisão",
       "ja": "逮捕",
       "zh": "逮捕",
-      "ru": "арест"
+      "ru": "арест",
+      "fr": "arrestation"
     },
     "examples": [],
     "meta": {},
@@ -17745,12 +17744,12 @@ const WORDS_PL_B2 = [
       "en": "invisible",
       "de": "unsichtbar",
       "es": "invisible",
-      "pl": "niewidzialny",
       "it": "invisibile",
       "pt": "invisível",
       "ja": "見えない",
       "zh": "看不见的",
-      "ru": "невидимый"
+      "ru": "невидимый",
+      "fr": "invisible"
     },
     "examples": [],
     "meta": {}
@@ -17770,12 +17769,12 @@ const WORDS_PL_B2 = [
       "en": "drawing",
       "de": "die Zeichnung",
       "es": "el dibujo",
-      "pl": "rysunek",
       "it": "il disegno",
       "pt": "o desenho",
       "ja": "絵",
       "zh": "图画",
-      "ru": "рисунок"
+      "ru": "рисунок",
+      "fr": "dessin"
     },
     "examples": [],
     "meta": {},
@@ -17797,12 +17796,12 @@ const WORDS_PL_B2 = [
       "en": "fog",
       "de": "der Nebel",
       "es": "la niebla",
-      "pl": "mgła",
       "it": "la nebbia",
       "pt": "o nevoeiro",
       "ja": "霧",
       "zh": "雾",
-      "ru": "туман"
+      "ru": "туман",
+      "fr": "brouillard"
     },
     "examples": [],
     "meta": {},
@@ -17824,12 +17823,12 @@ const WORDS_PL_B2 = [
       "en": "soap",
       "de": "die Seife",
       "es": "el jabón",
-      "pl": "mydło",
       "it": "il sapone",
       "pt": "o sabão",
       "ja": "石鹸",
       "zh": "肥皂",
-      "ru": "мыло"
+      "ru": "мыло",
+      "fr": "savon"
     },
     "examples": [],
     "meta": {},
@@ -17851,12 +17850,12 @@ const WORDS_PL_B2 = [
       "en": "homeless",
       "de": "obdachlos",
       "es": "sin hogar",
-      "pl": "bezdomny",
       "it": "senzatetto",
       "pt": "sem teto",
       "ja": "ホームレスの",
       "zh": "无家可归的",
-      "ru": "бездомный"
+      "ru": "бездомный",
+      "fr": "sans-abri"
     },
     "examples": [],
     "meta": {}
@@ -17876,12 +17875,12 @@ const WORDS_PL_B2 = [
       "en": "homeless person",
       "de": "der Obdachlose",
       "es": "el sintecho",
-      "pl": "bezdomny",
       "it": "il senzatetto",
       "pt": "o sem-abrigo",
       "ja": "ホームレス",
       "zh": "无家可归者",
-      "ru": "бездомный"
+      "ru": "бездомный",
+      "fr": "sans-abri"
     },
     "examples": [],
     "meta": {},
@@ -17904,12 +17903,12 @@ const WORDS_PL_B2 = [
       "en": "author",
       "de": "der Autor",
       "es": "el autor",
-      "pl": "autor",
       "it": "l'autore",
       "pt": "o autor",
       "ja": "著者",
       "zh": "作者",
-      "ru": "автор"
+      "ru": "автор",
+      "fr": "auteur"
     },
     "examples": [],
     "meta": {},
@@ -17931,12 +17930,12 @@ const WORDS_PL_B2 = [
       "en": "t-shirt",
       "de": "das T-Shirt",
       "es": "la camiseta",
-      "pl": "koszulka",
       "it": "la maglietta",
       "pt": "a camiseta",
       "ja": "Tシャツ",
       "zh": "T恤",
-      "ru": "футболка"
+      "ru": "футболка",
+      "fr": "T-shirt"
     },
     "examples": [],
     "meta": {},
@@ -17957,12 +17956,12 @@ const WORDS_PL_B2 = [
       "en": "barrier",
       "de": "die Schranke",
       "es": "la barrera",
-      "pl": "szlaban",
       "it": "la barriera",
       "pt": "a barreira",
       "ja": "遮断機",
       "zh": "障碍",
-      "ru": "шлагбаум"
+      "ru": "шлагбаум",
+      "fr": "barrière"
     },
     "examples": [],
     "meta": {},
@@ -17983,12 +17982,12 @@ const WORDS_PL_B2 = [
       "en": "muzzle",
       "de": "die Schnauze",
       "es": "el hocico",
-      "pl": "morda",
       "it": "il muso",
       "pt": "o focinho",
       "ja": "銃口",
       "zh": "口鼻",
-      "ru": "морда"
+      "ru": "морда",
+      "fr": "muselière"
     },
     "examples": [],
     "meta": {},
@@ -18010,12 +18009,12 @@ const WORDS_PL_B2 = [
       "en": "modest",
       "de": "bescheiden",
       "es": "modesto",
-      "pl": "skromny",
       "it": "modesto",
       "pt": "modesto",
       "ja": "謙虚な",
       "zh": "谦虚的",
-      "ru": "скромный"
+      "ru": "скромный",
+      "fr": "modeste"
     },
     "examples": [],
     "meta": {}
@@ -18035,12 +18034,12 @@ const WORDS_PL_B2 = [
       "en": "to know how to",
       "de": "können",
       "es": "saber",
-      "pl": "umieć",
       "it": "sapere",
       "pt": "saber",
       "ja": "できる",
       "zh": "会",
-      "ru": "уметь"
+      "ru": "уметь",
+      "fr": "savoir"
     },
     "examples": [],
     "meta": {},
@@ -18063,12 +18062,12 @@ const WORDS_PL_B2 = [
       "en": "hunter",
       "de": "der Jäger",
       "es": "el cazador",
-      "pl": "łowca",
       "it": "il cacciatore",
       "pt": "o caçador",
       "ja": "猟師",
       "zh": "猎人",
-      "ru": "охотник"
+      "ru": "охотник",
+      "fr": "chasseur"
     },
     "examples": [],
     "meta": {},
@@ -18090,12 +18089,12 @@ const WORDS_PL_B2 = [
       "en": "package",
       "de": "das Paket",
       "es": "el paquete",
-      "pl": "przesyłka",
       "it": "il pacco",
       "pt": "o pacote",
       "ja": "小包",
       "zh": "包裹",
-      "ru": "посылка"
+      "ru": "посылка",
+      "fr": "colis"
     },
     "examples": [],
     "meta": {},
@@ -18117,12 +18116,12 @@ const WORDS_PL_B2 = [
       "en": "laptop",
       "de": "der Laptop",
       "es": "el portátil",
-      "pl": "laptop",
       "it": "il portatile",
       "pt": "o laptop",
       "ja": "ノートパソコン",
       "zh": "笔记本电脑",
-      "ru": "ноутбук"
+      "ru": "ноутбук",
+      "fr": "laptop"
     },
     "examples": [],
     "meta": {},
@@ -18144,12 +18143,12 @@ const WORDS_PL_B2 = [
       "en": "police station",
       "de": "die Polizeistation",
       "es": "la comisaría",
-      "pl": "komisariat",
       "it": "la stazione di polizia",
       "pt": "a delegacia",
       "ja": "警察署",
       "zh": "警察局",
-      "ru": "полицейский участок"
+      "ru": "полицейский участок",
+      "fr": "commissariat"
     },
     "examples": [],
     "meta": {},
@@ -18171,12 +18170,12 @@ const WORDS_PL_B2 = [
       "en": "roots",
       "de": "die Wurzeln",
       "es": "las raíces",
-      "pl": "korzenie",
       "it": "le radici",
       "pt": "as raízes",
       "ja": "ルーツ",
       "zh": "根",
-      "ru": "корни"
+      "ru": "корни",
+      "fr": "racines"
     },
     "examples": [],
     "meta": {},
@@ -18197,12 +18196,12 @@ const WORDS_PL_B2 = [
       "en": "transplant",
       "de": "die Transplantation",
       "es": "el trasplante",
-      "pl": "przeszczep",
       "it": "il trapianto",
       "pt": "o transplante",
       "ja": "移植",
       "zh": "移植",
-      "ru": "трансплантация"
+      "ru": "трансплантация",
+      "fr": "greffe"
     },
     "examples": [],
     "meta": {},
@@ -18224,12 +18223,12 @@ const WORDS_PL_B2 = [
       "en": "final",
       "de": "das Finale",
       "es": "la final",
-      "pl": "finał",
       "it": "la finale",
       "pt": "a final",
       "ja": "決勝",
       "zh": "决赛",
-      "ru": "финал"
+      "ru": "финал",
+      "fr": "final"
     },
     "examples": [],
     "meta": {},
@@ -18251,12 +18250,12 @@ const WORDS_PL_B2 = [
       "en": "vodka",
       "de": "der Wodka",
       "es": "el vodka",
-      "pl": "wódka",
       "it": "la vodka",
       "pt": "a vodca",
       "ja": "ウォッカ",
       "zh": "伏特加",
-      "ru": "водка"
+      "ru": "водка",
+      "fr": "vodka"
     },
     "examples": [],
     "meta": {},
@@ -18277,12 +18276,12 @@ const WORDS_PL_B2 = [
       "en": "mode",
       "de": "der Modus",
       "es": "el modo",
-      "pl": "tryb",
       "it": "il modo",
       "pt": "o modo",
       "ja": "モード",
       "zh": "模式",
-      "ru": "режим"
+      "ru": "режим",
+      "fr": "mode"
     },
     "examples": [],
     "meta": {},
@@ -18304,12 +18303,12 @@ const WORDS_PL_B2 = [
       "en": "chocolate",
       "de": "die Schokolade",
       "es": "el chocolate",
-      "pl": "czekolada",
       "it": "il cioccolato",
       "pt": "o chocolate",
       "ja": "チョコレート",
       "zh": "巧克力",
-      "ru": "шоколад"
+      "ru": "шоколад",
+      "fr": "chocolat"
     },
     "examples": [],
     "meta": {},
@@ -18332,12 +18331,12 @@ const WORDS_PL_B2 = [
       "en": "cash",
       "de": "das Bargeld",
       "es": "el efectivo",
-      "pl": "gotówka",
       "it": "il contante",
       "pt": "o dinheiro",
       "ja": "現金",
       "zh": "现金",
-      "ru": "наличные"
+      "ru": "наличные",
+      "fr": "espèces"
     },
     "examples": [],
     "meta": {},
@@ -18359,12 +18358,12 @@ const WORDS_PL_B2 = [
       "en": "easy task",
       "de": "die Leichtigkeit",
       "es": "la facilidad",
-      "pl": "łatwizna",
       "it": "la facilità",
       "pt": "a facilidade",
       "ja": "簡単なこと",
       "zh": "容易的事",
-      "ru": "пустяк"
+      "ru": "пустяк",
+      "fr": "tâche facile"
     },
     "examples": [],
     "meta": {},
@@ -18386,12 +18385,12 @@ const WORDS_PL_B2 = [
       "en": "disgusting",
       "de": "ekelhaft",
       "es": "asqueroso",
-      "pl": "obrzydliwy",
       "it": "disgustoso",
       "pt": "nojento",
       "ja": "嫌悪感を抱く",
       "zh": "令人作呕的",
-      "ru": "отвратительный"
+      "ru": "отвратительный",
+      "fr": "dégoûtant"
     },
     "examples": [],
     "meta": {}
@@ -18411,12 +18410,12 @@ const WORDS_PL_B2 = [
       "en": "heavens",
       "de": "der Himmel",
       "es": "los cielos",
-      "pl": "niebiosa",
       "it": "i cieli",
       "pt": "os céus",
       "ja": "天国",
       "zh": "天堂",
-      "ru": "небеса"
+      "ru": "небеса",
+      "fr": "cieux"
     },
     "examples": [],
     "meta": {},
@@ -18439,12 +18438,12 @@ const WORDS_PL_B2 = [
       "en": "tracks",
       "de": "die Gleise",
       "es": "las vías",
-      "pl": "tory",
       "it": "i binari",
       "pt": "os trilhos",
       "ja": "線路",
       "zh": "轨道",
-      "ru": "рельсы"
+      "ru": "рельсы",
+      "fr": "voies"
     },
     "examples": [],
     "meta": {},
@@ -18466,12 +18465,12 @@ const WORDS_PL_B2 = [
       "en": "popcorn",
       "de": "das Popcorn",
       "es": "las palomitas de maíz",
-      "pl": "popcorn",
       "it": "il popcorn",
       "pt": "a pipoca",
       "ja": "ポップコーン",
       "zh": "爆米花",
-      "ru": "попкорн"
+      "ru": "попкорн",
+      "fr": "popcorn"
     },
     "examples": [],
     "meta": {},
@@ -18493,12 +18492,12 @@ const WORDS_PL_B2 = [
       "en": "to protect",
       "de": "schützen",
       "es": "proteger",
-      "pl": "ochraniać",
       "it": "proteggere",
       "pt": "proteger",
       "ja": "保護する",
       "zh": "保护",
-      "ru": "защищать"
+      "ru": "защищать",
+      "fr": "protéger"
     },
     "examples": [],
     "meta": {},
@@ -18521,12 +18520,12 @@ const WORDS_PL_B2 = [
       "en": "aware",
       "de": "bewusst",
       "es": "consciente",
-      "pl": "świadom",
       "it": "consapevole",
       "pt": "consciente",
       "ja": "意識している",
       "zh": "意识到的",
-      "ru": "осознающий"
+      "ru": "осознающий",
+      "fr": "conscient"
     },
     "examples": [],
     "meta": {}
@@ -18546,12 +18545,12 @@ const WORDS_PL_B2 = [
       "en": "fan",
       "de": "der Fan",
       "es": "el fan",
-      "pl": "fan",
       "it": "il fan",
       "pt": "o fã",
       "ja": "ファン",
       "zh": "粉丝",
-      "ru": "фанат"
+      "ru": "фанат",
+      "fr": "fan"
     },
     "examples": [],
     "meta": {},
@@ -18572,12 +18571,12 @@ const WORDS_PL_B2 = [
       "en": "heritage",
       "de": "das Erbe",
       "es": "el patrimonio",
-      "pl": "dziedzictwo",
       "it": "il patrimonio",
       "pt": "o patrimônio",
       "ja": "遺産",
       "zh": "遗产",
-      "ru": "наследие"
+      "ru": "наследие",
+      "fr": "patrimoine"
     },
     "examples": [],
     "meta": {},
@@ -18599,12 +18598,12 @@ const WORDS_PL_B2 = [
       "en": "beak",
       "de": "der Schnabel",
       "es": "el pico",
-      "pl": "dziób",
       "it": "il becco",
       "pt": "o bico",
       "ja": "くちばし",
       "zh": "喙",
-      "ru": "клюв"
+      "ru": "клюв",
+      "fr": "bec"
     },
     "examples": [],
     "meta": {},
@@ -18626,12 +18625,12 @@ const WORDS_PL_B2 = [
       "en": "broken",
       "de": "gebrochen",
       "es": "roto",
-      "pl": "złamany",
       "it": "rotto",
       "pt": "quebrado",
       "ja": "壊れた",
       "zh": "破碎的",
-      "ru": "сломанный"
+      "ru": "сломанный",
+      "fr": "cassé"
     },
     "examples": [],
     "meta": {}
@@ -18651,12 +18650,12 @@ const WORDS_PL_B2 = [
       "en": "engagement",
       "de": "die Verlobung",
       "es": "el compromiso",
-      "pl": "zaręczyny",
       "it": "il fidanzamento",
       "pt": "o noivado",
       "ja": "婚約",
       "zh": "订婚",
-      "ru": "помолвка"
+      "ru": "помолвка",
+      "fr": "fiançailles"
     },
     "examples": [],
     "meta": {},
@@ -18678,12 +18677,12 @@ const WORDS_PL_B2 = [
       "en": "scared",
       "de": "verängstigt",
       "es": "asustado",
-      "pl": "przestraszony",
       "it": "spaventato",
       "pt": "assustado",
       "ja": "怖がった",
       "zh": "害怕的",
-      "ru": "испуганный"
+      "ru": "испуганный",
+      "fr": "effrayé"
     },
     "examples": [],
     "meta": {}
@@ -18703,12 +18702,12 @@ const WORDS_PL_B2 = [
       "en": "grosz",
       "de": "der Grosz",
       "es": "el grosz",
-      "pl": "grosz",
       "it": "il grosz",
       "pt": "o grosz",
       "ja": "グロシュ",
       "zh": "格罗希",
-      "ru": "грош"
+      "ru": "грош",
+      "fr": "grosz"
     },
     "examples": [],
     "meta": {},
@@ -18729,12 +18728,12 @@ const WORDS_PL_B2 = [
       "en": "selfish",
       "de": "egoistisch",
       "es": "egoísta",
-      "pl": "samolubny",
       "it": "egoista",
       "pt": "egoísta",
       "ja": "利己的な",
       "zh": "自私的",
-      "ru": "эгоистичный"
+      "ru": "эгоистичный",
+      "fr": "égoïste"
     },
     "examples": [],
     "meta": {}
@@ -18754,12 +18753,12 @@ const WORDS_PL_B2 = [
       "en": "police",
       "de": "polizeilich",
       "es": "policial",
-      "pl": "policyjny",
       "it": "di polizia",
       "pt": "policial",
       "ja": "警察の",
       "zh": "警察的",
-      "ru": "полицейский"
+      "ru": "полицейский",
+      "fr": "police"
     },
     "examples": [],
     "meta": {}
@@ -18778,12 +18777,12 @@ const WORDS_PL_B2 = [
       "en": "seminar",
       "de": "das Seminar",
       "es": "el seminario",
-      "pl": "seminarium",
       "it": "il seminario",
       "pt": "o seminário",
       "ja": "セミナー",
       "zh": "研讨会",
-      "ru": "семинар"
+      "ru": "семинар",
+      "fr": "séminaire"
     },
     "examples": [],
     "meta": {},
@@ -18805,12 +18804,12 @@ const WORDS_PL_B2 = [
       "en": "temple",
       "de": "der Tempel",
       "es": "el templo",
-      "pl": "świątynia",
       "it": "il tempio",
       "pt": "o templo",
       "ja": "寺院",
       "zh": "寺庙",
-      "ru": "храм"
+      "ru": "храм",
+      "fr": "temple"
     },
     "examples": [],
     "meta": {},
@@ -18832,12 +18831,12 @@ const WORDS_PL_B2 = [
       "en": "to arrive",
       "de": "ankommen",
       "es": "llegar",
-      "pl": "przyjeżdżać",
       "it": "arrivare",
       "pt": "chegar",
       "ja": "到着する",
       "zh": "到达",
-      "ru": "приезжать"
+      "ru": "приезжать",
+      "fr": "arriver"
     },
     "examples": [],
     "meta": {},
@@ -18860,12 +18859,12 @@ const WORDS_PL_B2 = [
       "en": "duck",
       "de": "die Ente",
       "es": "el pato",
-      "pl": "kaczka",
       "it": "l'anatra",
       "pt": "o pato",
       "ja": "アヒル",
       "zh": "鸭子",
-      "ru": "утка"
+      "ru": "утка",
+      "fr": "canard"
     },
     "examples": [],
     "meta": {},
@@ -18887,12 +18886,12 @@ const WORDS_PL_B2 = [
       "en": "spring",
       "de": "der Frühling",
       "es": "la primavera",
-      "pl": "wiosna",
       "it": "la primavera",
       "pt": "a primavera",
       "ja": "春",
       "zh": "春天",
-      "ru": "весна"
+      "ru": "весна",
+      "fr": "printemps"
     },
     "examples": [],
     "meta": {},
@@ -18913,12 +18912,12 @@ const WORDS_PL_B2 = [
       "en": "classical",
       "de": "klassisch",
       "es": "clásico",
-      "pl": "klasyczny",
       "it": "classico",
       "pt": "clássico",
       "ja": "古典的な",
       "zh": "古典的",
-      "ru": "классический"
+      "ru": "классический",
+      "fr": "classique"
     },
     "examples": [],
     "meta": {}
@@ -18938,12 +18937,12 @@ const WORDS_PL_B2 = [
       "en": "wet",
       "de": "nass",
       "es": "mojado",
-      "pl": "mokry",
       "it": "bagnato",
       "pt": "molhado",
       "ja": "濡れた",
       "zh": "湿的",
-      "ru": "мокрый"
+      "ru": "мокрый",
+      "fr": "humide"
     },
     "examples": [],
     "meta": {}
@@ -18963,12 +18962,12 @@ const WORDS_PL_B2 = [
       "en": "cattle",
       "de": "das Vieh",
       "es": "el ganado",
-      "pl": "bydło",
       "it": "il bestiame",
       "pt": "o gado",
       "ja": "牛",
       "zh": "牛",
-      "ru": "скот"
+      "ru": "скот",
+      "fr": "bétail"
     },
     "examples": [],
     "meta": {},
@@ -18990,12 +18989,12 @@ const WORDS_PL_B2 = [
       "en": "to study",
       "de": "studieren",
       "es": "estudiar",
-      "pl": "studiować",
       "it": "studiare",
       "pt": "estudar",
       "ja": "勉強する",
       "zh": "学习",
-      "ru": "учиться"
+      "ru": "учиться",
+      "fr": "étudier"
     },
     "examples": [],
     "meta": {},
@@ -19018,12 +19017,12 @@ const WORDS_PL_B2 = [
       "en": "rocket",
       "de": "die Rakete",
       "es": "el cohete",
-      "pl": "rakieta",
       "it": "il razzo",
       "pt": "o foguete",
       "ja": "ロケット",
       "zh": "火箭",
-      "ru": "ракета"
+      "ru": "ракета",
+      "fr": "fusée"
     },
     "examples": [],
     "meta": {},
@@ -19045,12 +19044,12 @@ const WORDS_PL_B2 = [
       "en": "to accelerate",
       "de": "beschleunigen",
       "es": "acelerar",
-      "pl": "przyspieszyć",
       "it": "accelerare",
       "pt": "acelerar",
       "ja": "加速する",
       "zh": "加速",
-      "ru": "ускорить"
+      "ru": "ускорить",
+      "fr": "accélérer"
     },
     "examples": [],
     "meta": {},
@@ -19073,12 +19072,12 @@ const WORDS_PL_B2 = [
       "en": "Chinese",
       "de": "chinesisch",
       "es": "chino",
-      "pl": "chiński",
       "it": "cinese",
       "pt": "chinês",
       "ja": "中国の",
       "zh": "中国的",
-      "ru": "китайский"
+      "ru": "китайский",
+      "fr": "chinois"
     },
     "examples": [],
     "meta": {}
@@ -19097,12 +19096,12 @@ const WORDS_PL_B2 = [
       "en": "Chinese",
       "de": "das Chinesisch",
       "es": "el chino",
-      "pl": "chiński",
       "it": "il cinese",
       "pt": "o chinês",
       "ja": "中国語",
       "zh": "汉语",
-      "ru": "китайский язык"
+      "ru": "китайский язык",
+      "fr": "chinois"
     },
     "examples": [],
     "meta": {},
@@ -19124,12 +19123,12 @@ const WORDS_PL_B2 = [
       "en": "flame",
       "de": "die Flamme",
       "es": "la llama",
-      "pl": "płomień",
       "it": "la fiamma",
       "pt": "a chama",
       "ja": "炎",
       "zh": "火焰",
-      "ru": "пламя"
+      "ru": "пламя",
+      "fr": "flamme"
     },
     "examples": [],
     "meta": {},
@@ -19151,12 +19150,12 @@ const WORDS_PL_B2 = [
       "en": "a moment",
       "de": "der Augenblick",
       "es": "un momento",
-      "pl": "chwilka",
       "it": "un attimo",
       "pt": "um momento",
       "ja": "ちょっと",
       "zh": "一会儿",
-      "ru": "минутка"
+      "ru": "минутка",
+      "fr": "un instant"
     },
     "examples": [],
     "meta": {},
@@ -19178,12 +19177,12 @@ const WORDS_PL_B2 = [
       "en": "psychiatrist",
       "de": "der Psychiater",
       "es": "el psiquiatra",
-      "pl": "psychiatra",
       "it": "lo psichiatra",
       "pt": "o psiquiatra",
       "ja": "精神科医",
       "zh": "精神科医生",
-      "ru": "психиатр"
+      "ru": "психиатр",
+      "fr": "psychiatre"
     },
     "examples": [],
     "meta": {},
@@ -19205,12 +19204,12 @@ const WORDS_PL_B2 = [
       "en": "remaining",
       "de": "übrig",
       "es": "restante",
-      "pl": "pozostały",
       "it": "rimanente",
       "pt": "restante",
       "ja": "残りの",
       "zh": "剩余的",
-      "ru": "оставшийся"
+      "ru": "оставшийся",
+      "fr": "restant"
     },
     "examples": [],
     "meta": {}
@@ -19230,12 +19229,12 @@ const WORDS_PL_B2 = [
       "en": "tip",
       "de": "das Trinkgeld",
       "es": "la propina",
-      "pl": "napiwek",
       "it": "la mancia",
       "pt": "a gorjeta",
       "ja": "チップ",
       "zh": "小费",
-      "ru": "чаевые"
+      "ru": "чаевые",
+      "fr": "pourboire"
     },
     "examples": [],
     "meta": {},
@@ -19257,12 +19256,12 @@ const WORDS_PL_B2 = [
       "en": "sample",
       "de": "die Probe",
       "es": "la muestra",
-      "pl": "próbka",
       "it": "il campione",
       "pt": "a amostra",
       "ja": "サンプル",
       "zh": "样品",
-      "ru": "образец"
+      "ru": "образец",
+      "fr": "échantillon"
     },
     "examples": [],
     "meta": {},
@@ -19284,12 +19283,12 @@ const WORDS_PL_B2 = [
       "en": "to be silent",
       "de": "schweigen",
       "es": "callar",
-      "pl": "milczeć",
       "it": "tacere",
       "pt": "calar",
       "ja": "黙る",
       "zh": "沉默",
-      "ru": "молчать"
+      "ru": "молчать",
+      "fr": "se taire"
     },
     "examples": [],
     "meta": {},
@@ -19311,12 +19310,12 @@ const WORDS_PL_B2 = [
       "en": "mechanism",
       "de": "der Mechanismus",
       "es": "el mecanismo",
-      "pl": "mechanizm",
       "it": "il meccanismo",
       "pt": "o mecanismo",
       "ja": "メカニズム",
       "zh": "机制",
-      "ru": "механизм"
+      "ru": "механизм",
+      "fr": "mécanisme"
     },
     "examples": [],
     "meta": {},
@@ -19338,12 +19337,12 @@ const WORDS_PL_B2 = [
       "en": "grip",
       "de": "der Griff",
       "es": "el agarre",
-      "pl": "chwyt",
       "it": "la presa",
       "pt": "o aperto",
       "ja": "掴み",
       "zh": "抓握",
-      "ru": "хват"
+      "ru": "хват",
+      "fr": "prise"
     },
     "examples": [],
     "meta": {},
@@ -19364,12 +19363,12 @@ const WORDS_PL_B2 = [
       "en": "opponent",
       "de": "der Gegner",
       "es": "el oponente",
-      "pl": "przeciwnik",
       "it": "l'avversario",
       "pt": "o oponente",
       "ja": "対戦相手",
       "zh": "对手",
-      "ru": "противник"
+      "ru": "противник",
+      "fr": "adversaire"
     },
     "examples": [],
     "meta": {},
@@ -19390,12 +19389,12 @@ const WORDS_PL_B2 = [
       "en": "rehabilitation",
       "de": "die Entziehungskur",
       "es": "la rehabilitación",
-      "pl": "odwyk",
       "it": "la riabilitazione",
       "pt": "a reabilitação",
       "ja": "リハビリ",
       "zh": "康复",
-      "ru": "реабилитация"
+      "ru": "реабилитация",
+      "fr": "réhabilitation"
     },
     "examples": [],
     "meta": {},
@@ -19416,12 +19415,12 @@ const WORDS_PL_B2 = [
       "en": "deadly",
       "de": "tödlich",
       "es": "mortal",
-      "pl": "śmiertelny",
       "it": "mortale",
       "pt": "mortal",
       "ja": "致命的な",
       "zh": "致命的",
-      "ru": "смертельный"
+      "ru": "смертельный",
+      "fr": "mortel"
     },
     "examples": [],
     "meta": {}
@@ -19440,12 +19439,12 @@ const WORDS_PL_B2 = [
       "en": "mortal",
       "de": "der Sterbliche",
       "es": "el mortal",
-      "pl": "śmiertelny",
       "it": "il mortale",
       "pt": "o mortal",
       "ja": "死すべき者",
       "zh": "凡人",
-      "ru": "смертный"
+      "ru": "смертный",
+      "fr": "mortel"
     },
     "examples": [],
     "meta": {},
@@ -19466,12 +19465,12 @@ const WORDS_PL_B2 = [
       "en": "condition",
       "de": "die Bedingung",
       "es": "la condición",
-      "pl": "warunek",
       "it": "la condizione",
       "pt": "a condição",
       "ja": "条件",
       "zh": "条件",
-      "ru": "условие"
+      "ru": "условие",
+      "fr": "condition"
     },
     "examples": [],
     "meta": {},
@@ -19493,12 +19492,12 @@ const WORDS_PL_B2 = [
       "en": "bonfire",
       "de": "das Lagerfeuer",
       "es": "la hoguera",
-      "pl": "ognisko",
       "it": "il falò",
       "pt": "a fogueira",
       "ja": "焚き火",
       "zh": "篝火",
-      "ru": "костёр"
+      "ru": "костёр",
+      "fr": "feu de joie"
     },
     "examples": [],
     "meta": {},
@@ -19520,12 +19519,12 @@ const WORDS_PL_B2 = [
       "en": "dong",
       "de": "der Dong",
       "es": "el dong",
-      "pl": "dong",
       "it": "il dong",
       "pt": "o dong",
       "ja": "ドン",
       "zh": "盾",
-      "ru": "донг"
+      "ru": "донг",
+      "fr": "dong"
     },
     "examples": [],
     "meta": {},
@@ -19547,12 +19546,12 @@ const WORDS_PL_B2 = [
       "en": "suitcase",
       "de": "der Koffer",
       "es": "la maleta",
-      "pl": "walizka",
       "it": "la valigia",
       "pt": "a mala",
       "ja": "スーツケース",
       "zh": "手提箱",
-      "ru": "чемодан"
+      "ru": "чемодан",
+      "fr": "valise"
     },
     "examples": [],
     "meta": {},
@@ -19573,12 +19572,12 @@ const WORDS_PL_B2 = [
       "en": "accessible",
       "de": "zugänglich",
       "es": "accesible",
-      "pl": "dostępny",
       "it": "accessibile",
       "pt": "acessível",
       "ja": "アクセス可能",
       "zh": "可访问的",
-      "ru": "доступный"
+      "ru": "доступный",
+      "fr": "accessible"
     },
     "examples": [],
     "meta": {}
@@ -19598,12 +19597,12 @@ const WORDS_PL_B2 = [
       "en": "comment",
       "de": "der Kommentar",
       "es": "el comentario",
-      "pl": "komentarz",
       "it": "il commento",
       "pt": "o comentário",
       "ja": "コメント",
       "zh": "评论",
-      "ru": "комментарий"
+      "ru": "комментарий",
+      "fr": "commentaire"
     },
     "examples": [],
     "meta": {},
@@ -19625,12 +19624,12 @@ const WORDS_PL_B2 = [
       "en": "BMW",
       "de": "der BMW",
       "es": "el BMW",
-      "pl": "BMW",
       "it": "la BMW",
       "pt": "o BMW",
       "ja": "BMW",
       "zh": "宝马",
-      "ru": "БМВ"
+      "ru": "БМВ",
+      "fr": "BMW"
     },
     "examples": [],
     "meta": {},
@@ -19651,12 +19650,12 @@ const WORDS_PL_B2 = [
       "en": "brutal",
       "de": "brutal",
       "es": "brutal",
-      "pl": "brutalny",
       "it": "brutale",
       "pt": "brutal",
       "ja": "残酷な",
       "zh": "残酷的",
-      "ru": "жестокий"
+      "ru": "жестокий",
+      "fr": "brutal"
     },
     "examples": [],
     "meta": {}
@@ -19675,12 +19674,12 @@ const WORDS_PL_B2 = [
       "en": "scientific",
       "de": "wissenschaftlich",
       "es": "científico",
-      "pl": "naukowy",
       "it": "scientifico",
       "pt": "científico",
       "ja": "科学的な",
       "zh": "科学的",
-      "ru": "научный"
+      "ru": "научный",
+      "fr": "scientifique"
     },
     "examples": [],
     "meta": {}
@@ -19700,12 +19699,12 @@ const WORDS_PL_B2 = [
       "en": "posture",
       "de": "die Haltung",
       "es": "la postura",
-      "pl": "postawa",
       "it": "la postura",
       "pt": "a postura",
       "ja": "姿勢",
       "zh": "姿势",
-      "ru": "осанка"
+      "ru": "осанка",
+      "fr": "posture"
     },
     "examples": [],
     "meta": {},
@@ -19727,12 +19726,12 @@ const WORDS_PL_B2 = [
       "en": "lightning",
       "de": "der Blitz",
       "es": "el rayo",
-      "pl": "piorun",
       "it": "il fulmine",
       "pt": "o relâmpago",
       "ja": "雷",
       "zh": "闪电",
-      "ru": "молния"
+      "ru": "молния",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {},
@@ -19754,12 +19753,12 @@ const WORDS_PL_B2 = [
       "en": "widow",
       "de": "die Witwe",
       "es": "la viuda",
-      "pl": "wdowa",
       "it": "la vedova",
       "pt": "a viúva",
       "ja": "未亡人",
       "zh": "寡妇",
-      "ru": "вдова"
+      "ru": "вдова",
+      "fr": "veuve"
     },
     "examples": [],
     "meta": {},
@@ -19780,12 +19779,12 @@ const WORDS_PL_B2 = [
       "en": "congress",
       "de": "der Kongress",
       "es": "el congreso",
-      "pl": "kongres",
       "it": "il congresso",
       "pt": "o congresso",
       "ja": "議会",
       "zh": "国会",
-      "ru": "конгресс"
+      "ru": "конгресс",
+      "fr": "congrès"
     },
     "examples": [],
     "meta": {},
@@ -19807,12 +19806,12 @@ const WORDS_PL_B2 = [
       "en": "trail",
       "de": "der Weg",
       "es": "el sendero",
-      "pl": "szlak",
       "it": "il sentiero",
       "pt": "a trilha",
       "ja": "道",
       "zh": "小径",
-      "ru": "тропа"
+      "ru": "тропа",
+      "fr": "sentier"
     },
     "examples": [],
     "meta": {},
@@ -19834,12 +19833,12 @@ const WORDS_PL_B2 = [
       "en": "sound",
       "de": "das Geräusch",
       "es": "el sonido",
-      "pl": "odgłos",
       "it": "il suono",
       "pt": "o som",
       "ja": "音",
       "zh": "声音",
-      "ru": "звук"
+      "ru": "звук",
+      "fr": "son"
     },
     "examples": [],
     "meta": {},
@@ -19861,12 +19860,12 @@ const WORDS_PL_B2 = [
       "en": "grass",
       "de": "das Gras",
       "es": "la hierba",
-      "pl": "trawa",
       "it": "l'erba",
       "pt": "a grama",
       "ja": "草",
       "zh": "草",
-      "ru": "трава"
+      "ru": "трава",
+      "fr": "herbe"
     },
     "examples": [],
     "meta": {},
@@ -19887,12 +19886,12 @@ const WORDS_PL_B2 = [
       "en": "gamma",
       "de": "das Gamma",
       "es": "la gamma",
-      "pl": "gamma",
       "it": "la gamma",
       "pt": "a gama",
       "ja": "ガンマ",
       "zh": "伽马",
-      "ru": "гамма"
+      "ru": "гамма",
+      "fr": "gamma"
     },
     "examples": [],
     "meta": {},
@@ -19914,12 +19913,12 @@ const WORDS_PL_B2 = [
       "en": "threatened",
       "de": "bedroht",
       "es": "amenazado",
-      "pl": "zagrożony",
       "it": "minacciato",
       "pt": "ameaçado",
       "ja": "脅かされている",
       "zh": "受威胁的",
-      "ru": "находящийся под угрозой"
+      "ru": "находящийся под угрозой",
+      "fr": "menacé"
     },
     "examples": [],
     "meta": {}
@@ -19940,12 +19939,12 @@ const WORDS_PL_B2 = [
       "en": "journalist",
       "de": "der Journalist",
       "es": "el periodista",
-      "pl": "dziennikarz",
       "it": "il giornalista",
       "pt": "o jornalista",
       "ja": "ジャーナリスト",
       "zh": "记者",
-      "ru": "журналист"
+      "ru": "журналист",
+      "fr": "journaliste"
     },
     "examples": [],
     "meta": {},
@@ -19966,12 +19965,12 @@ const WORDS_PL_B2 = [
       "en": "ranch",
       "de": "die Ranch",
       "es": "el rancho",
-      "pl": "ranczo",
       "it": "il ranch",
       "pt": "o rancho",
       "ja": "牧場",
       "zh": "牧场",
-      "ru": "ранчо"
+      "ru": "ранчо",
+      "fr": "ranch"
     },
     "examples": [],
     "meta": {},
@@ -19993,12 +19992,12 @@ const WORDS_PL_B2 = [
       "en": "battery",
       "de": "die Batterie",
       "es": "la batería",
-      "pl": "bateria",
       "it": "la batteria",
       "pt": "a bateria",
       "ja": "バッテリー",
       "zh": "电池",
-      "ru": "батарея"
+      "ru": "батарея",
+      "fr": "batterie"
     },
     "examples": [],
     "meta": {},
@@ -20020,12 +20019,12 @@ const WORDS_PL_B2 = [
       "en": "explain",
       "de": "erklären",
       "es": "explicar",
-      "pl": "wyjaśniać",
       "it": "spiegare",
       "pt": "explicar",
       "ja": "説明する",
       "zh": "解释",
-      "ru": "объяснять"
+      "ru": "объяснять",
+      "fr": "expliquer"
     },
     "examples": [],
     "meta": {},
@@ -20047,12 +20046,12 @@ const WORDS_PL_B2 = [
       "en": "grove",
       "de": "der Hain",
       "es": "la arboleda",
-      "pl": "lasek",
       "it": "il boschetto",
       "pt": "o bosque",
       "ja": "林",
       "zh": "小树林",
-      "ru": "роща"
+      "ru": "роща",
+      "fr": "bosquet"
     },
     "examples": [],
     "meta": {},
@@ -20074,12 +20073,12 @@ const WORDS_PL_B2 = [
       "en": "stay",
       "de": "bleiben",
       "es": "quedarse",
-      "pl": "zostawać",
       "it": "rimanere",
       "pt": "ficar",
       "ja": "滞在する",
       "zh": "留下",
-      "ru": "оставаться"
+      "ru": "оставаться",
+      "fr": "rester"
     },
     "examples": [],
     "meta": {},
@@ -20101,12 +20100,12 @@ const WORDS_PL_B2 = [
       "en": "trophy",
       "de": "die Trophäe",
       "es": "el trofeo",
-      "pl": "trofeum",
       "it": "il trofeo",
       "pt": "o troféu",
       "ja": "トロフィー",
       "zh": "奖杯",
-      "ru": "трофей"
+      "ru": "трофей",
+      "fr": "trophée"
     },
     "examples": [],
     "meta": {},
@@ -20127,12 +20126,12 @@ const WORDS_PL_B2 = [
       "en": "pressure",
       "de": "der Druck",
       "es": "la presión",
-      "pl": "nacisk",
       "it": "la pressione",
       "pt": "a pressão",
       "ja": "圧力",
       "zh": "压力",
-      "ru": "давление"
+      "ru": "давление",
+      "fr": "pression"
     },
     "examples": [],
     "meta": {},
@@ -20154,12 +20153,12 @@ const WORDS_PL_B2 = [
       "en": "rule",
       "de": "die Herrschaft",
       "es": "el gobierno",
-      "pl": "rządy",
       "it": "il governo",
       "pt": "o governo",
       "ja": "統治",
       "zh": "统治",
-      "ru": "правление"
+      "ru": "правление",
+      "fr": "règne"
     },
     "examples": [],
     "meta": {},
@@ -20180,12 +20179,12 @@ const WORDS_PL_B2 = [
       "en": "awesome",
       "de": "fantastisch",
       "es": "increíble",
-      "pl": "zajebisty",
       "it": "fantastico",
       "pt": "incrível",
       "ja": "すごい",
       "zh": "棒极了",
-      "ru": "офигенный"
+      "ru": "офигенный",
+      "fr": "génial"
     },
     "examples": [],
     "meta": {}
@@ -20204,12 +20203,12 @@ const WORDS_PL_B2 = [
       "en": "track down",
       "de": "aufspüren",
       "es": "rastrear",
-      "pl": "wyśledzić",
       "it": "rintracciare",
       "pt": "rastrear",
       "ja": "追跡する",
       "zh": "追踪",
-      "ru": "выследить"
+      "ru": "выследить",
+      "fr": "retrouver"
     },
     "examples": [],
     "meta": {},
@@ -20232,12 +20231,12 @@ const WORDS_PL_B2 = [
       "en": "contribution",
       "de": "der Beitrag",
       "es": "la contribución",
-      "pl": "wkład",
       "it": "il contributo",
       "pt": "a contribuição",
       "ja": "貢献",
       "zh": "贡献",
-      "ru": "вклад"
+      "ru": "вклад",
+      "fr": "contribution"
     },
     "examples": [],
     "meta": {},
@@ -20258,12 +20257,12 @@ const WORDS_PL_B2 = [
       "en": "ceremony",
       "de": "die Zeremonie",
       "es": "la ceremonia",
-      "pl": "uroczystość",
       "it": "la cerimonia",
       "pt": "a cerimônia",
       "ja": "式典",
       "zh": "仪式",
-      "ru": "церемония"
+      "ru": "церемония",
+      "fr": "cérémonie"
     },
     "examples": [],
     "meta": {},
@@ -20284,12 +20283,12 @@ const WORDS_PL_B2 = [
       "en": "cruise",
       "de": "die Kreuzfahrt",
       "es": "el crucero",
-      "pl": "rejs",
       "it": "la crociera",
       "pt": "o cruzeiro",
       "ja": "クルーズ",
       "zh": "邮轮",
-      "ru": "круиз"
+      "ru": "круиз",
+      "fr": "croisière"
     },
     "examples": [],
     "meta": {},
@@ -20311,12 +20310,12 @@ const WORDS_PL_B2 = [
       "en": "base",
       "de": "die Basis",
       "es": "la base",
-      "pl": "podstawa",
       "it": "la base",
       "pt": "a base",
       "ja": "基礎",
       "zh": "基础",
-      "ru": "основание"
+      "ru": "основание",
+      "fr": "base"
     },
     "examples": [],
     "meta": {},
@@ -20337,12 +20336,12 @@ const WORDS_PL_B2 = [
       "en": "stream",
       "de": "der Bach",
       "es": "el arroyo",
-      "pl": "strumień",
       "it": "il ruscello",
       "pt": "o riacho",
       "ja": "小川",
       "zh": "小溪",
-      "ru": "ручей"
+      "ru": "ручей",
+      "fr": "ruisseau"
     },
     "examples": [],
     "meta": {},
@@ -20364,12 +20363,12 @@ const WORDS_PL_B2 = [
       "en": "grandson",
       "de": "der Enkel",
       "es": "el nieto",
-      "pl": "wnuk",
       "it": "il nipote",
       "pt": "o neto",
       "ja": "孫",
       "zh": "孙子",
-      "ru": "внук"
+      "ru": "внук",
+      "fr": "petit-fils"
     },
     "examples": [],
     "meta": {},
@@ -20391,12 +20390,12 @@ const WORDS_PL_B2 = [
       "en": "worry",
       "de": "die Sorge",
       "es": "la preocupación",
-      "pl": "zmartwienie",
       "it": "la preoccupazione",
       "pt": "a preocupação",
       "ja": "心配",
       "zh": "担忧",
-      "ru": "беспокойство"
+      "ru": "беспокойство",
+      "fr": "souci"
     },
     "examples": [],
     "meta": {},
@@ -20418,12 +20417,12 @@ const WORDS_PL_B2 = [
       "en": "limit",
       "de": "das Limit",
       "es": "el límite",
-      "pl": "limit",
       "it": "il limite",
       "pt": "o limite",
       "ja": "限界",
       "zh": "限制",
-      "ru": "лимит"
+      "ru": "лимит",
+      "fr": "limite"
     },
     "examples": [],
     "meta": {},
@@ -20445,12 +20444,12 @@ const WORDS_PL_B2 = [
       "en": "wish",
       "de": "wünschen",
       "es": "desear",
-      "pl": "życzyć",
       "it": "augurare",
       "pt": "desejar",
       "ja": "願う",
       "zh": "希望",
-      "ru": "желать"
+      "ru": "желать",
+      "fr": "souhaiter"
     },
     "examples": [],
     "meta": {},
@@ -20472,12 +20471,12 @@ const WORDS_PL_B2 = [
       "en": "corporal",
       "de": "der Korporal",
       "es": "el cabo",
-      "pl": "kapral",
       "it": "il caporale",
       "pt": "o cabo",
       "ja": "伍長",
       "zh": "下士",
-      "ru": "капрал"
+      "ru": "капрал",
+      "fr": "caporal"
     },
     "examples": [],
     "meta": {},
@@ -20499,12 +20498,12 @@ const WORDS_PL_B2 = [
       "en": "motorcycle",
       "de": "das Motorrad",
       "es": "la motocicleta",
-      "pl": "motocykl",
       "it": "la motocicletta",
       "pt": "a motocicleta",
       "ja": "オートバイ",
       "zh": "摩托车",
-      "ru": "мотоцикл"
+      "ru": "мотоцикл",
+      "fr": "moto"
     },
     "examples": [],
     "meta": {},
@@ -20526,12 +20525,12 @@ const WORDS_PL_B2 = [
       "en": "crazy",
       "de": "verrückt",
       "es": "loco",
-      "pl": "zwariowany",
       "it": "pazzo",
       "pt": "louco",
       "ja": "狂った",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
+      "ru": "сумасшедший",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -20551,12 +20550,12 @@ const WORDS_PL_B2 = [
       "en": "drop in",
       "de": "vorbeikommen",
       "es": "pasar por",
-      "pl": "wstąpić",
       "it": "fare un salto",
       "pt": "passar por",
       "ja": "立ち寄る",
       "zh": "顺便拜访",
-      "ru": "зайти"
+      "ru": "зайти",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {},
@@ -20578,12 +20577,12 @@ const WORDS_PL_B2 = [
       "en": "sailor",
       "de": "der Matrose",
       "es": "el marinero",
-      "pl": "majtek",
       "it": "il marinaio",
       "pt": "o marinheiro",
       "ja": "船員",
       "zh": "水手",
-      "ru": "матрос"
+      "ru": "матрос",
+      "fr": "marin"
     },
     "examples": [],
     "meta": {},
@@ -20605,12 +20604,12 @@ const WORDS_PL_B2 = [
       "en": "sound",
       "de": "klingen",
       "es": "sonar",
-      "pl": "brzmieć",
       "it": "suonare",
       "pt": "soar",
       "ja": "鳴る",
       "zh": "听起来",
-      "ru": "звучать"
+      "ru": "звучать",
+      "fr": "sonner"
     },
     "examples": [],
     "meta": {},
@@ -20632,12 +20631,12 @@ const WORDS_PL_B2 = [
       "en": "graphic designer",
       "de": "der Grafiker",
       "es": "el diseñador gráfico",
-      "pl": "grafik",
       "it": "il grafico",
       "pt": "o designer gráfico",
       "ja": "グラフィックデザイナー",
       "zh": "平面设计师",
-      "ru": "график"
+      "ru": "график",
+      "fr": "graphiste"
     },
     "examples": [],
     "meta": {},
@@ -20659,12 +20658,12 @@ const WORDS_PL_B2 = [
       "en": "press",
       "de": "drücken",
       "es": "presionar",
-      "pl": "naciskać",
       "it": "premere",
       "pt": "pressionar",
       "ja": "押す",
       "zh": "按",
-      "ru": "нажимать"
+      "ru": "нажимать",
+      "fr": "presser"
     },
     "examples": [],
     "meta": {},
@@ -20686,12 +20685,12 @@ const WORDS_PL_B2 = [
       "en": "CV",
       "de": "der Lebenslauf",
       "es": "el currículum",
-      "pl": "cv",
       "it": "il curriculum",
       "pt": "o currículo",
       "ja": "履歴書",
       "zh": "简历",
-      "ru": "резюме"
+      "ru": "резюме",
+      "fr": "CV"
     },
     "examples": [],
     "meta": {},
@@ -20712,12 +20711,12 @@ const WORDS_PL_B2 = [
       "en": "privilege",
       "de": "das Privileg",
       "es": "el privilegio",
-      "pl": "przywilej",
       "it": "il privilegio",
       "pt": "o privilégio",
       "ja": "特権",
       "zh": "特权",
-      "ru": "привилегия"
+      "ru": "привилегия",
+      "fr": "privilège"
     },
     "examples": [],
     "meta": {},
@@ -20739,12 +20738,12 @@ const WORDS_PL_B2 = [
       "en": "competitor",
       "de": "der Wettkämpfer",
       "es": "el competidor",
-      "pl": "zawodnik",
       "it": "il concorrente",
       "pt": "o competidor",
       "ja": "競技者",
       "zh": "选手",
-      "ru": "спортсмен"
+      "ru": "спортсмен",
+      "fr": "concurrent"
     },
     "examples": [],
     "meta": {},
@@ -20766,12 +20765,12 @@ const WORDS_PL_B2 = [
       "en": "cheek",
       "de": "die Wange",
       "es": "la mejilla",
-      "pl": "policzek",
       "it": "la guancia",
       "pt": "a bochecha",
       "ja": "頬",
       "zh": "脸颊",
-      "ru": "щека"
+      "ru": "щека",
+      "fr": "joue"
     },
     "examples": [],
     "meta": {},
@@ -20792,12 +20791,12 @@ const WORDS_PL_B2 = [
       "en": "plutonium",
       "de": "das Plutonium",
       "es": "el plutonio",
-      "pl": "pluton",
       "it": "il plutonio",
       "pt": "o plutônio",
       "ja": "プルトニウム",
       "zh": "钚",
-      "ru": "плутоний"
+      "ru": "плутоний",
+      "fr": "plutonium"
     },
     "examples": [],
     "meta": {},
@@ -20819,12 +20818,12 @@ const WORDS_PL_B2 = [
       "en": "bra",
       "de": "der BH",
       "es": "el sujetador",
-      "pl": "stanik",
       "it": "il reggiseno",
       "pt": "o sutiã",
       "ja": "ブラジャー",
       "zh": "胸罩",
-      "ru": "бюстгальтер"
+      "ru": "бюстгальтер",
+      "fr": "soutien-gorge"
     },
     "examples": [],
     "meta": {},
@@ -20845,12 +20844,12 @@ const WORDS_PL_B2 = [
       "en": "crystal",
       "de": "der Kristall",
       "es": "el cristal",
-      "pl": "kryształ",
       "it": "il cristallo",
       "pt": "o cristal",
       "ja": "結晶",
       "zh": "水晶",
-      "ru": "кристалл"
+      "ru": "кристалл",
+      "fr": "cristal"
     },
     "examples": [],
     "meta": {},
@@ -20871,12 +20870,12 @@ const WORDS_PL_B2 = [
       "en": "recognition",
       "de": "die Anerkennung",
       "es": "el reconocimiento",
-      "pl": "uznanie",
       "it": "il riconoscimento",
       "pt": "o reconhecimento",
       "ja": "認識",
       "zh": "认可",
-      "ru": "признание"
+      "ru": "признание",
+      "fr": "reconnaissance"
     },
     "examples": [],
     "meta": {},
@@ -20898,12 +20897,12 @@ const WORDS_PL_B2 = [
       "en": "distance",
       "de": "die Ferne",
       "es": "la distancia",
-      "pl": "dal",
       "it": "la distanza",
       "pt": "a distância",
       "ja": "遠方",
       "zh": "远方",
-      "ru": "даль"
+      "ru": "даль",
+      "fr": "distance"
     },
     "examples": [],
     "meta": {},
@@ -20925,12 +20924,12 @@ const WORDS_PL_B2 = [
       "en": "arrive by vehicle",
       "de": "ankommen",
       "es": "llegar en vehículo",
-      "pl": "dojechać",
       "it": "arrivare in veicolo",
       "pt": "chegar de veículo",
       "ja": "車で到着する",
       "zh": "乘车到达",
-      "ru": "доехать"
+      "ru": "доехать",
+      "fr": "arriver"
     },
     "examples": [],
     "meta": {},
@@ -20953,12 +20952,12 @@ const WORDS_PL_B2 = [
       "en": "small box",
       "de": "die Kiste",
       "es": "la caja pequeña",
-      "pl": "skrzynka",
       "it": "la cassetta",
       "pt": "a caixa pequena",
       "ja": "小箱",
       "zh": "小盒子",
-      "ru": "ящик"
+      "ru": "ящик",
+      "fr": "petite boîte"
     },
     "examples": [],
     "meta": {},
@@ -20979,12 +20978,12 @@ const WORDS_PL_B2 = [
       "en": "pact",
       "de": "der Pakt",
       "es": "el pacto",
-      "pl": "pakt",
       "it": "il patto",
       "pt": "o pacto",
       "ja": "条約",
       "zh": "协定",
-      "ru": "пакт"
+      "ru": "пакт",
+      "fr": "pacte"
     },
     "examples": [],
     "meta": {},
@@ -21006,12 +21005,12 @@ const WORDS_PL_B2 = [
       "en": "Russian",
       "de": "russisch",
       "es": "ruso",
-      "pl": "rosyjski",
       "it": "russo",
       "pt": "russo",
       "ja": "ロシアの",
       "zh": "俄罗斯的",
-      "ru": "русский"
+      "ru": "русский",
+      "fr": "russe"
     },
     "examples": [],
     "meta": {}
@@ -21030,12 +21029,12 @@ const WORDS_PL_B2 = [
       "en": "Russian language",
       "de": "das Russisch",
       "es": "el ruso",
-      "pl": "rosyjski",
       "it": "il russo",
       "pt": "o russo",
       "ja": "ロシア語",
       "zh": "俄语",
-      "ru": "русский язык"
+      "ru": "русский язык",
+      "fr": "russe"
     },
     "examples": [],
     "meta": {},
@@ -21057,12 +21056,12 @@ const WORDS_PL_B2 = [
       "en": "interrupt",
       "de": "unterbrechen",
       "es": "interrumpir",
-      "pl": "przerywać",
       "it": "interrompere",
       "pt": "interromper",
       "ja": "邪魔する",
       "zh": "打断",
-      "ru": "прерывать"
+      "ru": "прерывать",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {},
@@ -21085,12 +21084,12 @@ const WORDS_PL_B2 = [
       "en": "two hundred",
       "de": "zweihundert",
       "es": "doscientos",
-      "pl": "dwieście",
       "it": "duecento",
       "pt": "duzentos",
       "ja": "二百",
       "zh": "二百",
-      "ru": "двести"
+      "ru": "двести",
+      "fr": "deux cents"
     },
     "examples": [],
     "meta": {}
@@ -21109,12 +21108,12 @@ const WORDS_PL_B2 = [
       "en": "divine",
       "de": "göttlich",
       "es": "divino",
-      "pl": "boski",
       "it": "divino",
       "pt": "divino",
       "ja": "神聖な",
       "zh": "神圣的",
-      "ru": "божественный"
+      "ru": "божественный",
+      "fr": "divin"
     },
     "examples": [],
     "meta": {}
@@ -21134,12 +21133,12 @@ const WORDS_PL_B2 = [
       "en": "come from",
       "de": "stammen aus",
       "es": "provenir de",
-      "pl": "pochodzić",
       "it": "provenire da",
       "pt": "vir de",
       "ja": "由来する",
       "zh": "来自",
-      "ru": "происходить"
+      "ru": "происходить",
+      "fr": "venir de"
     },
     "examples": [],
     "meta": {},
@@ -21162,12 +21161,12 @@ const WORDS_PL_B2 = [
       "en": "hit",
       "de": "der Treffer",
       "es": "el golpe",
-      "pl": "trafienie",
       "it": "il colpo",
       "pt": "o acerto",
       "ja": "的中",
       "zh": "命中",
-      "ru": "попадание"
+      "ru": "попадание",
+      "fr": "coup"
     },
     "examples": [],
     "meta": {},
@@ -21189,12 +21188,12 @@ const WORDS_PL_B2 = [
       "en": "pseudonym",
       "de": "der Pseudonym",
       "es": "el pseudónimo",
-      "pl": "pseudonim",
       "it": "lo pseudonimo",
       "pt": "o pseudônimo",
       "ja": "仮名",
       "zh": "假名",
-      "ru": "псевдоним"
+      "ru": "псевдоним",
+      "fr": "pseudonyme"
     },
     "examples": [],
     "meta": {},
@@ -21216,12 +21215,12 @@ const WORDS_PL_B2 = [
       "en": "small picture",
       "de": "das Bildchen",
       "es": "la imagen pequeña",
-      "pl": "obrazek",
       "it": "la piccola immagine",
       "pt": "a pequena imagem",
       "ja": "小画像",
       "zh": "小图片",
-      "ru": "картинка"
+      "ru": "картинка",
+      "fr": "petite image"
     },
     "examples": [],
     "meta": {},
@@ -21244,12 +21243,12 @@ const WORDS_PL_B2 = [
       "en": "citizen",
       "de": "der Bürger",
       "es": "el ciudadano",
-      "pl": "obywatel",
       "it": "il cittadino",
       "pt": "o cidadão",
       "ja": "市民",
       "zh": "公民",
-      "ru": "гражданин"
+      "ru": "гражданин",
+      "fr": "citoyen"
     },
     "examples": [],
     "meta": {},
@@ -21271,12 +21270,12 @@ const WORDS_PL_B2 = [
       "en": "royal",
       "de": "königlich",
       "es": "real",
-      "pl": "królewski",
       "it": "reale",
       "pt": "real",
       "ja": "王室の",
       "zh": "王室的",
-      "ru": "королевский"
+      "ru": "королевский",
+      "fr": "royal"
     },
     "examples": [],
     "meta": {}
@@ -21296,12 +21295,12 @@ const WORDS_PL_B2 = [
       "en": "serum",
       "de": "das Serum",
       "es": "el suero",
-      "pl": "serum",
       "it": "il siero",
       "pt": "o soro",
       "ja": "血清",
       "zh": "血清",
-      "ru": "сыворотка"
+      "ru": "сыворотка",
+      "fr": "sérum"
     },
     "examples": [],
     "meta": {},
@@ -21323,12 +21322,12 @@ const WORDS_PL_B2 = [
       "en": "wire",
       "de": "der Draht",
       "es": "el cable",
-      "pl": "przewód",
       "it": "il filo",
       "pt": "o fio",
       "ja": "ワイヤー",
       "zh": "电线",
-      "ru": "провод"
+      "ru": "провод",
+      "fr": "fil"
     },
     "examples": [],
     "meta": {},
@@ -21350,12 +21349,12 @@ const WORDS_PL_B2 = [
       "en": "to unfold",
       "de": "entfalten",
       "es": "desplegar",
-      "pl": "rozwijać",
       "it": "spiegare",
       "pt": "desdobrar",
       "ja": "広げる",
       "zh": "展开",
-      "ru": "разворачивать"
+      "ru": "разворачивать",
+      "fr": "déplier"
     },
     "examples": [],
     "meta": {},
@@ -21378,12 +21377,12 @@ const WORDS_PL_B2 = [
       "en": "conference",
       "de": "die Konferenz",
       "es": "la conferencia",
-      "pl": "konferencja",
       "it": "la conferenza",
       "pt": "a conferência",
       "ja": "会議",
       "zh": "会议",
-      "ru": "конференция"
+      "ru": "конференция",
+      "fr": "conférence"
     },
     "examples": [],
     "meta": {},
@@ -21404,12 +21403,12 @@ const WORDS_PL_B2 = [
       "en": "riots",
       "de": "die Unruhen",
       "es": "los disturbios",
-      "pl": "zamieszki",
       "it": "i disordini",
       "pt": "os distúrbios",
       "ja": "暴動",
       "zh": "骚乱",
-      "ru": "беспорядки"
+      "ru": "беспорядки",
+      "fr": "émeutes"
     },
     "examples": [],
     "meta": {},
@@ -21430,12 +21429,12 @@ const WORDS_PL_B2 = [
       "en": "dagger",
       "de": "der Dolch",
       "es": "la daga",
-      "pl": "sztylet",
       "it": "il pugnale",
       "pt": "o punhal",
       "ja": "短剣",
       "zh": "匕首",
-      "ru": "кинжал"
+      "ru": "кинжал",
+      "fr": "poignard"
     },
     "examples": [],
     "meta": {},
@@ -21457,12 +21456,12 @@ const WORDS_PL_B2 = [
       "en": "accused woman",
       "de": "die Angeklagte",
       "es": "la acusada",
-      "pl": "oskarżona",
       "it": "l'imputata",
       "pt": "a acusada",
       "ja": "被告人女性",
       "zh": "女被告",
-      "ru": "обвиняемая"
+      "ru": "обвиняемая",
+      "fr": "accusée"
     },
     "examples": [],
     "meta": {},
@@ -21483,12 +21482,12 @@ const WORDS_PL_B2 = [
       "en": "entrails",
       "de": "die Eingeweide",
       "es": "las entrañas",
-      "pl": "wnętrzności",
       "it": "le interiora",
       "pt": "as entranhas",
       "ja": "内臓",
       "zh": "内脏",
-      "ru": "внутренности"
+      "ru": "внутренности",
+      "fr": "entrailles"
     },
     "examples": [],
     "meta": {},
@@ -21510,12 +21509,12 @@ const WORDS_PL_B2 = [
       "en": "tender",
       "de": "zärtlich",
       "es": "tierno",
-      "pl": "czuły",
       "it": "tenero",
       "pt": "terno",
       "ja": "優しい",
       "zh": "温柔的",
-      "ru": "нежный"
+      "ru": "нежный",
+      "fr": "tendre"
     },
     "examples": [],
     "meta": {}
@@ -21535,12 +21534,12 @@ const WORDS_PL_B2 = [
       "en": "rudder",
       "de": "das Ruder",
       "es": "el timón",
-      "pl": "ster",
       "it": "il timone",
       "pt": "o leme",
       "ja": "舵",
       "zh": "舵",
-      "ru": "руль"
+      "ru": "руль",
+      "fr": "gouvernail"
     },
     "examples": [],
     "meta": {},
@@ -21563,12 +21562,12 @@ const WORDS_PL_B2 = [
       "en": "cooperation",
       "de": "die Zusammenarbeit",
       "es": "la cooperación",
-      "pl": "współpraca",
       "it": "la cooperazione",
       "pt": "a cooperação",
       "ja": "協力",
       "zh": "合作",
-      "ru": "сотрудничество"
+      "ru": "сотрудничество",
+      "fr": "coopération"
     },
     "examples": [],
     "meta": {},
@@ -21589,12 +21588,12 @@ const WORDS_PL_B2 = [
       "en": "gin",
       "de": "der Gin",
       "es": "la ginebra",
-      "pl": "gin",
       "it": "il gin",
       "pt": "o gim",
       "ja": "ジン",
       "zh": "杜松子酒",
-      "ru": "джин"
+      "ru": "джин",
+      "fr": "gin"
     },
     "examples": [],
     "meta": {},
@@ -21616,12 +21615,12 @@ const WORDS_PL_B2 = [
       "en": "birth",
       "de": "die Geburt",
       "es": "el nacimiento",
-      "pl": "narodziny",
       "it": "la nascita",
       "pt": "o nascimento",
       "ja": "誕生",
       "zh": "诞生",
-      "ru": "рождение"
+      "ru": "рождение",
+      "fr": "naissance"
     },
     "examples": [],
     "meta": {},
@@ -21642,12 +21641,12 @@ const WORDS_PL_B2 = [
       "en": "handsome man",
       "de": "der Schönling",
       "es": "el guapo",
-      "pl": "przystojniak",
       "it": "il bell'uomo",
       "pt": "o bonitão",
       "ja": "ハンサムな男",
       "zh": "帅哥",
-      "ru": "красавец"
+      "ru": "красавец",
+      "fr": "bel homme"
     },
     "examples": [],
     "meta": {},
@@ -21668,12 +21667,12 @@ const WORDS_PL_B2 = [
       "en": "crappy",
       "de": "beschissen",
       "es": "de mierda",
-      "pl": "gówniany",
       "it": "di merda",
       "pt": "de merda",
       "ja": "ひどい",
       "zh": "糟糕的",
-      "ru": "дерьмовый"
+      "ru": "дерьмовый",
+      "fr": "nul"
     },
     "examples": [],
     "meta": {}
@@ -21692,12 +21691,12 @@ const WORDS_PL_B2 = [
       "en": "hurricane",
       "de": "der Hurrikan",
       "es": "el huracán",
-      "pl": "huragan",
       "it": "l'uragano",
       "pt": "o furacão",
       "ja": "ハリケーン",
       "zh": "飓风",
-      "ru": "ураган"
+      "ru": "ураган",
+      "fr": "ouragan"
     },
     "examples": [],
     "meta": {},
@@ -21719,12 +21718,12 @@ const WORDS_PL_B2 = [
       "en": "trouble",
       "de": "die Schwierigkeiten",
       "es": "los apuros",
-      "pl": "tarapaty",
       "it": "i guai",
       "pt": "os apuros",
       "ja": "困難",
       "zh": "麻烦",
-      "ru": "неприятности"
+      "ru": "неприятности",
+      "fr": "ennuis"
     },
     "examples": [],
     "meta": {},
@@ -21745,12 +21744,12 @@ const WORDS_PL_B2 = [
       "en": "vile",
       "de": "gemein",
       "es": "vil",
-      "pl": "podły",
       "it": "vile",
       "pt": "vil",
       "ja": "卑劣な",
       "zh": "卑鄙的",
-      "ru": "подлый"
+      "ru": "подлый",
+      "fr": "ignoble"
     },
     "examples": [],
     "meta": {}
@@ -21771,12 +21770,12 @@ const WORDS_PL_B2 = [
       "en": "result",
       "de": "das Ergebnis",
       "es": "el resultado",
-      "pl": "rezultat",
       "it": "il risultato",
       "pt": "o resultado",
       "ja": "結果",
       "zh": "结果",
-      "ru": "результат"
+      "ru": "результат",
+      "fr": "résultat"
     },
     "examples": [],
     "meta": {},
@@ -21798,12 +21797,12 @@ const WORDS_PL_B2 = [
       "en": "work",
       "de": "das Werk",
       "es": "la obra",
-      "pl": "utwór",
       "it": "l'opera",
       "pt": "a obra",
       "ja": "作品",
       "zh": "作品",
-      "ru": "произведение"
+      "ru": "произведение",
+      "fr": "œuvre"
     },
     "examples": [],
     "meta": {},
@@ -21824,12 +21823,12 @@ const WORDS_PL_B2 = [
       "en": "admiral",
       "de": "der Admiral",
       "es": "el almirante",
-      "pl": "admirał",
       "it": "l'ammiraglio",
       "pt": "o almirante",
       "ja": "提督",
       "zh": "海军上将",
-      "ru": "адмирал"
+      "ru": "адмирал",
+      "fr": "amiral"
     },
     "examples": [],
     "meta": {},
@@ -21850,12 +21849,12 @@ const WORDS_PL_B2 = [
       "en": "infinity",
       "de": "die Unendlichkeit",
       "es": "el infinito",
-      "pl": "nieskończoność",
       "it": "l'infinito",
       "pt": "o infinito",
       "ja": "無限",
       "zh": "无限",
-      "ru": "бесконечность"
+      "ru": "бесконечность",
+      "fr": "infinité"
     },
     "examples": [],
     "meta": {},
@@ -21877,12 +21876,12 @@ const WORDS_PL_B2 = [
       "en": "alley",
       "de": "die Gasse",
       "es": "el callejón",
-      "pl": "zaułek",
       "it": "il vicolo",
       "pt": "o beco",
       "ja": "路地",
       "zh": "小巷",
-      "ru": "переулок"
+      "ru": "переулок",
+      "fr": "ruelle"
     },
     "examples": [],
     "meta": {},
@@ -21903,12 +21902,12 @@ const WORDS_PL_B2 = [
       "en": "origin",
       "de": "der Ursprung",
       "es": "el origen",
-      "pl": "pochodzenie",
       "it": "l'origine",
       "pt": "a origem",
       "ja": "起源",
       "zh": "起源",
-      "ru": "происхождение"
+      "ru": "происхождение",
+      "fr": "origine"
     },
     "examples": [],
     "meta": {},
@@ -21930,12 +21929,12 @@ const WORDS_PL_B2 = [
       "en": "series",
       "de": "die Serie",
       "es": "la serie",
-      "pl": "seria",
       "it": "la serie",
       "pt": "a série",
       "ja": "シリーズ",
       "zh": "系列",
-      "ru": "серия"
+      "ru": "серия",
+      "fr": "série"
     },
     "examples": [],
     "meta": {},
@@ -21956,12 +21955,12 @@ const WORDS_PL_B2 = [
       "en": "sanctuary",
       "de": "das Heiligtum",
       "es": "el santuario",
-      "pl": "sanktuarium",
       "it": "il santuario",
       "pt": "o santuário",
       "ja": "聖域",
       "zh": "圣所",
-      "ru": "святилище"
+      "ru": "святилище",
+      "fr": "sanctuaire"
     },
     "examples": [],
     "meta": {},
@@ -21983,12 +21982,12 @@ const WORDS_PL_B2 = [
       "en": "Wednesday",
       "de": "der Mittwoch",
       "es": "el miércoles",
-      "pl": "środa",
       "it": "il mercoledì",
       "pt": "a quarta-feira",
       "ja": "水曜日",
       "zh": "星期三",
-      "ru": "среда"
+      "ru": "среда",
+      "fr": "mercredi"
     },
     "examples": [],
     "meta": {},
@@ -22010,12 +22009,12 @@ const WORDS_PL_B2 = [
       "en": "gentle",
       "de": "sanft",
       "es": "suave",
-      "pl": "łagodny",
       "it": "mite",
       "pt": "gentil",
       "ja": "穏やかな",
       "zh": "温和的",
-      "ru": "мягкий"
+      "ru": "мягкий",
+      "fr": "doux"
     },
     "examples": [],
     "meta": {}
@@ -22035,12 +22034,12 @@ const WORDS_PL_B2 = [
       "en": "to joke",
       "de": "scherzen",
       "es": "bromear",
-      "pl": "żartować",
       "it": "scherzare",
       "pt": "brincar",
       "ja": "冗談を言う",
       "zh": "开玩笑",
-      "ru": "шутить"
+      "ru": "шутить",
+      "fr": "plaisanter"
     },
     "examples": [],
     "meta": {},
@@ -22063,12 +22062,12 @@ const WORDS_PL_B2 = [
       "en": "judgment",
       "de": "das Urteil",
       "es": "el juicio",
-      "pl": "osąd",
       "it": "il giudizio",
       "pt": "o julgamento",
       "ja": "判断",
       "zh": "判断",
-      "ru": "суждение"
+      "ru": "суждение",
+      "fr": "jugement"
     },
     "examples": [],
     "meta": {},
@@ -22090,12 +22089,12 @@ const WORDS_PL_B2 = [
       "en": "worried",
       "de": "besorgt",
       "es": "preocupado",
-      "pl": "zaniepokojony",
       "it": "preoccupato",
       "pt": "preocupado",
       "ja": "心配している",
       "zh": "担心的",
-      "ru": "обеспокоенный"
+      "ru": "обеспокоенный",
+      "fr": "inquiet"
     },
     "examples": [],
     "meta": {}
@@ -22114,12 +22113,12 @@ const WORDS_PL_B2 = [
       "en": "dedicated",
       "de": "gewidmet",
       "es": "dedicado",
-      "pl": "poświęcony",
       "it": "dedicato",
       "pt": "dedicado",
       "ja": "献身的な",
       "zh": "奉献的",
-      "ru": "посвящённый"
+      "ru": "посвящённый",
+      "fr": "dédié"
     },
     "examples": [],
     "meta": {}
@@ -22139,12 +22138,12 @@ const WORDS_PL_B2 = [
       "en": "Chester cheese",
       "de": "der Chesterkäse",
       "es": "el queso Chester",
-      "pl": "chester",
       "it": "il formaggio Chester",
       "pt": "o queijo Chester",
       "ja": "チェスターチーズ",
       "zh": "切斯特奶酪",
-      "ru": "честер"
+      "ru": "честер",
+      "fr": "fromage de Chester"
     },
     "examples": [],
     "meta": {},
@@ -22166,12 +22165,12 @@ const WORDS_PL_B2 = [
       "en": "midday",
       "de": "mittags",
       "es": "del mediodía",
-      "pl": "południowy",
       "it": "di mezzogiorno",
       "pt": "do meio-dia",
       "ja": "正午の",
       "zh": "中午的",
-      "ru": "полуденный"
+      "ru": "полуденный",
+      "fr": "midi"
     },
     "examples": [],
     "meta": {}
@@ -22190,12 +22189,12 @@ const WORDS_PL_B2 = [
       "en": "tough guy",
       "de": "der Harte",
       "es": "el tipo duro",
-      "pl": "twardziel",
       "it": "il duro",
       "pt": "o durão",
       "ja": "タフガイ",
       "zh": "硬汉",
-      "ru": "крутой парень"
+      "ru": "крутой парень",
+      "fr": "dur à cuire"
     },
     "examples": [],
     "meta": {},
@@ -22216,12 +22215,12 @@ const WORDS_PL_B2 = [
       "en": "idiot",
       "de": "der Idiot",
       "es": "el idiota",
-      "pl": "debil",
       "it": "l'idiota",
       "pt": "o idiota",
       "ja": "馬鹿",
       "zh": "白痴",
-      "ru": "идиот"
+      "ru": "идиот",
+      "fr": "idiot"
     },
     "examples": [],
     "meta": {},
@@ -22243,12 +22242,12 @@ const WORDS_PL_B2 = [
       "en": "positive",
       "de": "positiv",
       "es": "positivo",
-      "pl": "pozytywny",
       "it": "positivo",
       "pt": "positivo",
       "ja": "ポジティブな",
       "zh": "积极的",
-      "ru": "позитивный"
+      "ru": "позитивный",
+      "fr": "positif"
     },
     "examples": [],
     "meta": {}
@@ -22267,12 +22266,12 @@ const WORDS_PL_B2 = [
       "en": "to undress",
       "de": "ausziehen",
       "es": "desvestir",
-      "pl": "rozebrać",
       "it": "svestire",
       "pt": "despir",
       "ja": "服を脱がせる",
       "zh": "脱衣服",
-      "ru": "раздевать"
+      "ru": "раздевать",
+      "fr": "se déshabiller"
     },
     "examples": [],
     "meta": {},
@@ -22294,12 +22293,12 @@ const WORDS_PL_B2 = [
       "en": "to catch",
       "de": "fangen",
       "es": "atrapar",
-      "pl": "schwytać",
       "it": "catturare",
       "pt": "capturar",
       "ja": "捕まえる",
       "zh": "抓住",
-      "ru": "поймать"
+      "ru": "поймать",
+      "fr": "attraper"
     },
     "examples": [],
     "meta": {},
@@ -22322,12 +22321,12 @@ const WORDS_PL_B2 = [
       "en": "egg",
       "de": "das Ei",
       "es": "el huevo",
-      "pl": "jajo",
       "it": "l'uovo",
       "pt": "o ovo",
       "ja": "卵",
       "zh": "蛋",
-      "ru": "яйцо"
+      "ru": "яйцо",
+      "fr": "œuf"
     },
     "examples": [],
     "meta": {},
@@ -22349,12 +22348,12 @@ const WORDS_PL_B2 = [
       "en": "singing",
       "de": "der Gesang",
       "es": "el canto",
-      "pl": "śpiew",
       "it": "il canto",
       "pt": "o canto",
       "ja": "歌",
       "zh": "歌唱",
-      "ru": "пение"
+      "ru": "пение",
+      "fr": "chant"
     },
     "examples": [],
     "meta": {},
@@ -22377,12 +22376,12 @@ const WORDS_PL_B2 = [
       "en": "to leave",
       "de": "abfahren",
       "es": "salir",
-      "pl": "wyjeżdżać",
       "it": "partire",
       "pt": "partir",
       "ja": "出発する",
       "zh": "离开",
-      "ru": "уезжать"
+      "ru": "уезжать",
+      "fr": "partir"
     },
     "examples": [],
     "meta": {},
@@ -22404,12 +22403,12 @@ const WORDS_PL_B2 = [
       "en": "gender",
       "de": "das Geschlecht",
       "es": "el género",
-      "pl": "płeć",
       "it": "il genere",
       "pt": "o gênero",
       "ja": "性別",
       "zh": "性别",
-      "ru": "пол"
+      "ru": "пол",
+      "fr": "genre"
     },
     "examples": [],
     "meta": {},
@@ -22432,12 +22431,12 @@ const WORDS_PL_B2 = [
       "en": "to say",
       "de": "sagen",
       "es": "decir",
-      "pl": "rzec",
       "it": "dire",
       "pt": "dizer",
       "ja": "言う",
       "zh": "说",
-      "ru": "сказать"
+      "ru": "сказать",
+      "fr": "dire"
     },
     "examples": [],
     "meta": {},
@@ -22461,12 +22460,12 @@ const WORDS_PL_B2 = [
       "en": "cook",
       "de": "der Koch",
       "es": "el cocinero",
-      "pl": "kucharz",
       "it": "il cuoco",
       "pt": "o cozinheiro",
       "ja": "料理人",
       "zh": "厨师",
-      "ru": "повар"
+      "ru": "повар",
+      "fr": "cuisinier"
     },
     "examples": [],
     "meta": {},
@@ -22488,12 +22487,12 @@ const WORDS_PL_B2 = [
       "en": "speed",
       "de": "die Geschwindigkeit",
       "es": "la velocidad",
-      "pl": "szybkość",
       "it": "la velocità",
       "pt": "a velocidade",
       "ja": "速度",
       "zh": "速度",
-      "ru": "скорость"
+      "ru": "скорость",
+      "fr": "vitesse"
     },
     "examples": [],
     "meta": {},
@@ -22515,12 +22514,12 @@ const WORDS_PL_B2 = [
       "en": "library",
       "de": "die Bibliothek",
       "es": "la biblioteca",
-      "pl": "biblioteka",
       "it": "la biblioteca",
       "pt": "a biblioteca",
       "ja": "図書館",
       "zh": "图书馆",
-      "ru": "библиотека"
+      "ru": "библиотека",
+      "fr": "bibliothèque"
     },
     "examples": [],
     "meta": {},
@@ -22542,12 +22541,12 @@ const WORDS_PL_B2 = [
       "en": "pink",
       "de": "das Rosa",
       "es": "el rosa",
-      "pl": "róż",
       "it": "il rosa",
       "pt": "o rosa",
       "ja": "ピンク",
       "zh": "粉红色",
-      "ru": "розовый"
+      "ru": "розовый",
+      "fr": "rose"
     },
     "examples": [],
     "meta": {},
@@ -22569,12 +22568,12 @@ const WORDS_PL_B2 = [
       "en": "complicated",
       "de": "kompliziert",
       "es": "complicado",
-      "pl": "skomplikowany",
       "it": "complicato",
       "pt": "complicado",
       "ja": "複雑な",
       "zh": "复杂的",
-      "ru": "сложный"
+      "ru": "сложный",
+      "fr": "compliqué"
     },
     "examples": [],
     "meta": {}
@@ -22593,12 +22592,12 @@ const WORDS_PL_B2 = [
       "en": "urine",
       "de": "der Urin",
       "es": "la orina",
-      "pl": "mocz",
       "it": "l'urina",
       "pt": "a urina",
       "ja": "尿",
       "zh": "尿",
-      "ru": "моча"
+      "ru": "моча",
+      "fr": "urine"
     },
     "examples": [],
     "meta": {},
@@ -22620,12 +22619,12 @@ const WORDS_PL_B2 = [
       "en": "hammer",
       "de": "der Hammer",
       "es": "el martillo",
-      "pl": "młotek",
       "it": "il martello",
       "pt": "o martelo",
       "ja": "ハンマー",
       "zh": "锤子",
-      "ru": "молоток"
+      "ru": "молоток",
+      "fr": "marteau"
     },
     "examples": [],
     "meta": {},
@@ -22647,12 +22646,12 @@ const WORDS_PL_B2 = [
       "en": "soft",
       "de": "weich",
       "es": "suave",
-      "pl": "miękki",
       "it": "morbido",
       "pt": "macio",
       "ja": "柔らかい",
       "zh": "软的",
-      "ru": "мягкий"
+      "ru": "мягкий",
+      "fr": "doux"
     },
     "examples": [],
     "meta": {}
@@ -22671,12 +22670,12 @@ const WORDS_PL_B2 = [
       "en": "dollar bill",
       "de": "der Dollarschein",
       "es": "el billete de dólar",
-      "pl": "miękki",
       "it": "la banconota da un dollaro",
       "pt": "a nota de dólar",
       "ja": "ドル紙幣",
       "zh": "美元钞票",
-      "ru": "долларовая купюра"
+      "ru": "долларовая купюра",
+      "fr": "billet de dollar"
     },
     "examples": [],
     "meta": {},
@@ -22698,12 +22697,12 @@ const WORDS_PL_B2 = [
       "en": "norm",
       "de": "die Norm",
       "es": "la norma",
-      "pl": "norma",
       "it": "la norma",
       "pt": "a norma",
       "ja": "規範",
       "zh": "规范",
-      "ru": "норма"
+      "ru": "норма",
+      "fr": "norme"
     },
     "examples": [],
     "meta": {},
@@ -22724,12 +22723,12 @@ const WORDS_PL_B2 = [
       "en": "knight",
       "de": "der Ritter",
       "es": "el caballero",
-      "pl": "rycerz",
       "it": "il cavaliere",
       "pt": "o cavaleiro",
       "ja": "騎士",
       "zh": "骑士",
-      "ru": "рыцарь"
+      "ru": "рыцарь",
+      "fr": "chevalier"
     },
     "examples": [],
     "meta": {},
@@ -22751,12 +22750,12 @@ const WORDS_PL_B2 = [
       "en": "British",
       "de": "britisch",
       "es": "británico",
-      "pl": "brytyjski",
       "it": "britannico",
       "pt": "britânico",
       "ja": "英国の",
       "zh": "英国的",
-      "ru": "британский"
+      "ru": "британский",
+      "fr": "britannique"
     },
     "examples": [],
     "meta": {}
@@ -22776,12 +22775,12 @@ const WORDS_PL_B2 = [
       "en": "walking",
       "de": "das Gehen",
       "es": "el caminar",
-      "pl": "chodzenie",
       "it": "il camminare",
       "pt": "o caminhar",
       "ja": "歩行",
       "zh": "步行",
-      "ru": "ходьба"
+      "ru": "ходьба",
+      "fr": "marche"
     },
     "examples": [],
     "meta": {},
@@ -22803,12 +22802,12 @@ const WORDS_PL_B2 = [
       "en": "to leave",
       "de": "verlassen",
       "es": "ir",
-      "pl": "odchodzić",
       "it": "lasciare",
       "pt": "sair",
       "ja": "立ち去る",
       "zh": "离开",
-      "ru": "уходить"
+      "ru": "уходить",
+      "fr": "partir"
     },
     "examples": [],
     "meta": {},
@@ -22831,12 +22830,12 @@ const WORDS_PL_B2 = [
       "en": "latte",
       "de": "der Latte",
       "es": "el latte",
-      "pl": "latte",
       "it": "il latte",
       "pt": "o latte",
       "ja": "ラテ",
       "zh": "拿铁",
-      "ru": "латте"
+      "ru": "латте",
+      "fr": "latte"
     },
     "examples": [],
     "meta": {},
@@ -22857,12 +22856,12 @@ const WORDS_PL_B2 = [
       "en": "great",
       "de": "super",
       "es": "genial",
-      "pl": "mega",
       "it": "fantastico",
       "pt": "ótimo",
       "ja": "すごい",
       "zh": "棒极了",
-      "ru": "мега"
+      "ru": "мега",
+      "fr": "méga"
     },
     "examples": [],
     "meta": {}
@@ -22881,12 +22880,12 @@ const WORDS_PL_B2 = [
       "en": "million",
       "de": "die Million",
       "es": "el millón",
-      "pl": "mega",
       "it": "il milione",
       "pt": "o milhão",
       "ja": "百万",
       "zh": "百万",
-      "ru": "миллион"
+      "ru": "миллион",
+      "fr": "million"
     },
     "examples": [],
     "meta": {},
@@ -22907,12 +22906,12 @@ const WORDS_PL_B2 = [
       "en": "average",
       "de": "der Durchschnitt",
       "es": "el promedio",
-      "pl": "średnia",
       "it": "la media",
       "pt": "a média",
       "ja": "平均",
       "zh": "平均",
-      "ru": "среднее"
+      "ru": "среднее",
+      "fr": "moyenne"
     },
     "examples": [],
     "meta": {},
@@ -22934,12 +22933,12 @@ const WORDS_PL_B2 = [
       "en": "to collect",
       "de": "sammeln",
       "es": "recoger",
-      "pl": "pozbierać",
       "it": "raccogliere",
       "pt": "coletar",
       "ja": "集める",
       "zh": "收集",
-      "ru": "собирать"
+      "ru": "собирать",
+      "fr": "collecter"
     },
     "examples": [],
     "meta": {},
@@ -22962,12 +22961,12 @@ const WORDS_PL_B2 = [
       "en": "seriousness",
       "de": "der Ernst",
       "es": "la seriedad",
-      "pl": "powaga",
       "it": "la serietà",
       "pt": "a seriedade",
       "ja": "真剣さ",
       "zh": "严肃",
-      "ru": "серьезность"
+      "ru": "серьезность",
+      "fr": "sérieux"
     },
     "examples": [],
     "meta": {},
@@ -22989,12 +22988,12 @@ const WORDS_PL_B2 = [
       "en": "garage",
       "de": "die Garage",
       "es": "el garaje",
-      "pl": "garaż",
       "it": "il garage",
       "pt": "a garagem",
       "ja": "ガレージ",
       "zh": "车库",
-      "ru": "гараж"
+      "ru": "гараж",
+      "fr": "garage"
     },
     "examples": [],
     "meta": {},
@@ -23016,12 +23015,12 @@ const WORDS_PL_B2 = [
       "en": "bronze",
       "de": "bronzen",
       "es": "de bronce",
-      "pl": "brązowy",
       "it": "di bronzo",
       "pt": "de bronze",
       "ja": "青銅の",
       "zh": "青铜的",
-      "ru": "бронзовый"
+      "ru": "бронзовый",
+      "fr": "bronze"
     },
     "examples": [],
     "meta": {}
@@ -23041,12 +23040,12 @@ const WORDS_PL_B2 = [
       "en": "chocolate",
       "de": "schokoladig",
       "es": "de chocolate",
-      "pl": "czekoladowy",
       "it": "al cioccolato",
       "pt": "de chocolate",
       "ja": "チョコレートの",
       "zh": "巧克力的",
-      "ru": "шоколадный"
+      "ru": "шоколадный",
+      "fr": "chocolat"
     },
     "examples": [],
     "meta": {}
@@ -23066,12 +23065,12 @@ const WORDS_PL_B2 = [
       "en": "middle school",
       "de": "das Gymnasium",
       "es": "la escuela secundaria",
-      "pl": "gimnazjum",
       "it": "la scuola media",
       "pt": "a escola secundária",
       "ja": "中学校",
       "zh": "初中",
-      "ru": "гимназия"
+      "ru": "гимназия",
+      "fr": "collège"
     },
     "examples": [],
     "meta": {},
@@ -23093,12 +23092,12 @@ const WORDS_PL_B2 = [
       "en": "waitress",
       "de": "die Kellnerin",
       "es": "la camarera",
-      "pl": "kelnerka",
       "it": "la cameriera",
       "pt": "a garçonete",
       "ja": "ウェイトレス",
       "zh": "女服务员",
-      "ru": "официантка"
+      "ru": "официантка",
+      "fr": "serveuse"
     },
     "examples": [],
     "meta": {},
@@ -23120,12 +23119,12 @@ const WORDS_PL_B2 = [
       "en": "fox",
       "de": "der Fuchs",
       "es": "el zorro",
-      "pl": "lis",
       "it": "la volpe",
       "pt": "a raposa",
       "ja": "キツネ",
       "zh": "狐狸",
-      "ru": "лиса"
+      "ru": "лиса",
+      "fr": "renard"
     },
     "examples": [],
     "meta": {},
@@ -23147,12 +23146,12 @@ const WORDS_PL_B2 = [
       "en": "motto",
       "de": "das Motto",
       "es": "el lema",
-      "pl": "motto",
       "it": "il motto",
       "pt": "o lema",
       "ja": "標語",
       "zh": "座右铭",
-      "ru": "девиз"
+      "ru": "девиз",
+      "fr": "devise"
     },
     "examples": [],
     "meta": {},
@@ -23174,12 +23173,12 @@ const WORDS_PL_B2 = [
       "en": "pull out",
       "de": "herausziehen",
       "es": "sacar",
-      "pl": "wyciągać",
       "it": "estrarre",
       "pt": "puxar para fora",
       "ja": "引き出す",
       "zh": "取出",
-      "ru": "вытаскивать"
+      "ru": "вытаскивать",
+      "fr": "retirer"
     },
     "examples": [],
     "meta": {},
@@ -23201,12 +23200,12 @@ const WORDS_PL_B2 = [
       "en": "scoundrel",
       "de": "der Schurke",
       "es": "el canalla",
-      "pl": "łajdak",
       "it": "il mascalzone",
       "pt": "o canalha",
       "ja": "悪党",
       "zh": "恶棍",
-      "ru": "негодяй"
+      "ru": "негодяй",
+      "fr": "scélérat"
     },
     "examples": [],
     "meta": {},
@@ -23228,12 +23227,12 @@ const WORDS_PL_B2 = [
       "en": "guide",
       "de": "der Führer",
       "es": "el guía",
-      "pl": "przewodnik",
       "it": "la guida",
       "pt": "o guia",
       "ja": "ガイド",
       "zh": "导游",
-      "ru": "гид"
+      "ru": "гид",
+      "fr": "guide"
     },
     "examples": [],
     "meta": {},
@@ -23254,12 +23253,12 @@ const WORDS_PL_B2 = [
       "en": "informant",
       "de": "der Informant",
       "es": "el informante",
-      "pl": "informator",
       "it": "l'informatore",
       "pt": "o informante",
       "ja": "情報提供者",
       "zh": "告密者",
-      "ru": "информатор"
+      "ru": "информатор",
+      "fr": "informateur"
     },
     "examples": [],
     "meta": {},
@@ -23281,12 +23280,12 @@ const WORDS_PL_B2 = [
       "en": "industry",
       "de": "die Industrie",
       "es": "la industria",
-      "pl": "przemysł",
       "it": "l'industria",
       "pt": "a indústria",
       "ja": "産業",
       "zh": "工业",
-      "ru": "промышленность"
+      "ru": "промышленность",
+      "fr": "industrie"
     },
     "examples": [],
     "meta": {},
@@ -23308,12 +23307,12 @@ const WORDS_PL_B2 = [
       "en": "act",
       "de": "die Tat",
       "es": "el acto",
-      "pl": "czyn",
       "it": "l'atto",
       "pt": "o ato",
       "ja": "行為",
       "zh": "行为",
-      "ru": "поступок"
+      "ru": "поступок",
+      "fr": "acte"
     },
     "examples": [],
     "meta": {},
@@ -23334,12 +23333,12 @@ const WORDS_PL_B2 = [
       "en": "token",
       "de": "die Nummer",
       "es": "el número",
-      "pl": "numerek",
       "it": "il numero",
       "pt": "o número",
       "ja": "番号札",
       "zh": "号码牌",
-      "ru": "номерок"
+      "ru": "номерок",
+      "fr": "jeton"
     },
     "examples": [],
     "meta": {},
@@ -23360,12 +23359,12 @@ const WORDS_PL_B2 = [
       "en": "dividend",
       "de": "der Dividend",
       "es": "el dividendo",
-      "pl": "dzielna",
       "it": "il dividendo",
       "pt": "o dividendo",
       "ja": "被除数",
       "zh": "被除数",
-      "ru": "делимое"
+      "ru": "делимое",
+      "fr": "dividende"
     },
     "examples": [],
     "meta": {},
@@ -23387,12 +23386,12 @@ const WORDS_PL_B2 = [
       "en": "manipulate",
       "de": "manipulieren",
       "es": "manipular",
-      "pl": "manipulować",
       "it": "manipolare",
       "pt": "manipular",
       "ja": "操作する",
       "zh": "操纵",
-      "ru": "манипулировать"
+      "ru": "манипулировать",
+      "fr": "manipuler"
     },
     "examples": [],
     "meta": {},
@@ -23414,12 +23413,12 @@ const WORDS_PL_B2 = [
       "en": "sum",
       "de": "die Summe",
       "es": "la suma",
-      "pl": "suma",
       "it": "la somma",
       "pt": "a soma",
       "ja": "合計",
       "zh": "总和",
-      "ru": "сумма"
+      "ru": "сумма",
+      "fr": "somme"
     },
     "examples": [],
     "meta": {},
@@ -23441,12 +23440,12 @@ const WORDS_PL_B2 = [
       "en": "arrogant",
       "de": "arrogant",
       "es": "arrogante",
-      "pl": "arogancki",
       "it": "arrogante",
       "pt": "arrogante",
       "ja": "傲慢な",
       "zh": "傲慢的",
-      "ru": "высокомерный"
+      "ru": "высокомерный",
+      "fr": "arrogant"
     },
     "examples": [],
     "meta": {}
@@ -23465,12 +23464,12 @@ const WORDS_PL_B2 = [
       "en": "pee",
       "de": "das Pipi",
       "es": "el pipí",
-      "pl": "siku",
       "it": "la pipì",
       "pt": "o xixi",
       "ja": "おしっこ",
       "zh": "尿尿",
-      "ru": "пипи"
+      "ru": "пипи",
+      "fr": "pipi"
     },
     "examples": [],
     "meta": {},
@@ -23493,12 +23492,12 @@ const WORDS_PL_B2 = [
       "en": "favor",
       "de": "der Gefallen",
       "es": "el favor",
-      "pl": "przysługa",
       "it": "il favore",
       "pt": "o favor",
       "ja": "恩恵",
       "zh": "帮忙",
-      "ru": "услуга"
+      "ru": "услуга",
+      "fr": "faveur"
     },
     "examples": [],
     "meta": {},
@@ -23520,12 +23519,12 @@ const WORDS_PL_B2 = [
       "en": "container",
       "de": "der Behälter",
       "es": "el recipiente",
-      "pl": "pojemnik",
       "it": "il contenitore",
       "pt": "o recipiente",
       "ja": "容器",
       "zh": "容器",
-      "ru": "контейнер"
+      "ru": "контейнер",
+      "fr": "contenant"
     },
     "examples": [],
     "meta": {},
@@ -23547,12 +23546,12 @@ const WORDS_PL_B2 = [
       "en": "naive",
       "de": "naiv",
       "es": "ingenuo",
-      "pl": "naiwny",
       "it": "ingenuo",
       "pt": "ingênuo",
       "ja": "素朴な",
       "zh": "天真的",
-      "ru": "наивный"
+      "ru": "наивный",
+      "fr": "naïf"
     },
     "examples": [],
     "meta": {}
@@ -23573,12 +23572,12 @@ const WORDS_PL_B2 = [
       "en": "priority",
       "de": "die Priorität",
       "es": "la prioridad",
-      "pl": "priorytet",
       "it": "la priorità",
       "pt": "a prioridade",
       "ja": "優先順位",
       "zh": "优先",
-      "ru": "приоритет"
+      "ru": "приоритет",
+      "fr": "priorité"
     },
     "examples": [],
     "meta": {},
@@ -23599,12 +23598,12 @@ const WORDS_PL_B2 = [
       "en": "procedure",
       "de": "das Verfahren",
       "es": "el procedimiento",
-      "pl": "postępowanie",
       "it": "il procedimento",
       "pt": "o procedimento",
       "ja": "手続き",
       "zh": "程序",
-      "ru": "процедура"
+      "ru": "процедура",
+      "fr": "procédure"
     },
     "examples": [],
     "meta": {},
@@ -23625,12 +23624,12 @@ const WORDS_PL_B2 = [
       "en": "syndrome",
       "de": "das Syndrom",
       "es": "el síndrome",
-      "pl": "syndrom",
       "it": "la sindrome",
       "pt": "a síndrome",
       "ja": "症候群",
       "zh": "综合征",
-      "ru": "синдром"
+      "ru": "синдром",
+      "fr": "syndrome"
     },
     "examples": [],
     "meta": {},
@@ -23652,12 +23651,12 @@ const WORDS_PL_B2 = [
       "en": "electric",
       "de": "elektrisch",
       "es": "eléctrico",
-      "pl": "elektryczny",
       "it": "elettrico",
       "pt": "elétrico",
       "ja": "電気の",
       "zh": "电的",
-      "ru": "электрический"
+      "ru": "электрический",
+      "fr": "électrique"
     },
     "examples": [],
     "meta": {}
@@ -23677,12 +23676,12 @@ const WORDS_PL_B2 = [
       "en": "opposite",
       "de": "entgegengesetzt",
       "es": "opuesto",
-      "pl": "przeciwny",
       "it": "opposto",
       "pt": "oposto",
       "ja": "反対の",
       "zh": "相反的",
-      "ru": "противоположный"
+      "ru": "противоположный",
+      "fr": "opposé"
     },
     "examples": [],
     "meta": {}
@@ -23701,12 +23700,12 @@ const WORDS_PL_B2 = [
       "en": "beta",
       "de": "das Beta",
       "es": "la beta",
-      "pl": "beta",
       "it": "il beta",
       "pt": "o beta",
       "ja": "ベータ",
       "zh": "贝塔",
-      "ru": "бета"
+      "ru": "бета",
+      "fr": "bêta"
     },
     "examples": [],
     "meta": {},
@@ -23728,12 +23727,12 @@ const WORDS_PL_B2 = [
       "en": "scale",
       "de": "die Waage",
       "es": "la balanza",
-      "pl": "waga",
       "it": "la bilancia",
       "pt": "a balança",
       "ja": "はかり",
       "zh": "秤",
-      "ru": "весы"
+      "ru": "весы",
+      "fr": "balance"
     },
     "examples": [],
     "meta": {},
@@ -23754,12 +23753,12 @@ const WORDS_PL_B2 = [
       "en": "Mercedes",
       "de": "der Mercedes",
       "es": "el Mercedes",
-      "pl": "mercedes",
       "it": "la Mercedes",
       "pt": "o Mercedes",
       "ja": "メルセデス",
       "zh": "梅赛德斯",
-      "ru": "мерседес"
+      "ru": "мерседес",
+      "fr": "Mercedes"
     },
     "examples": [],
     "meta": {},
@@ -23781,12 +23780,12 @@ const WORDS_PL_B2 = [
       "en": "idea",
       "de": "die Idee",
       "es": "la idea",
-      "pl": "idea",
       "it": "l'idea",
       "pt": "a ideia",
       "ja": "アイデア",
       "zh": "主意",
-      "ru": "идея"
+      "ru": "идея",
+      "fr": "idée"
     },
     "examples": [],
     "meta": {},
@@ -23808,12 +23807,12 @@ const WORDS_PL_B2 = [
       "en": "dream",
       "de": "träumen",
       "es": "soñar",
-      "pl": "marzyć",
       "it": "sognare",
       "pt": "sonhar",
       "ja": "夢を見る",
       "zh": "梦想",
-      "ru": "мечтать"
+      "ru": "мечтать",
+      "fr": "rêve"
     },
     "examples": [],
     "meta": {},
@@ -23835,12 +23834,12 @@ const WORDS_PL_B2 = [
       "en": "spell",
       "de": "der Zauber",
       "es": "el hechizo",
-      "pl": "czar",
       "it": "l'incantesimo",
       "pt": "o feitiço",
       "ja": "魔法",
       "zh": "咒语",
-      "ru": "чары"
+      "ru": "чары",
+      "fr": "sortilège"
     },
     "examples": [],
     "meta": {},
@@ -23862,12 +23861,12 @@ const WORDS_PL_B2 = [
       "en": "birthday",
       "de": "Geburtstags",
       "es": "de cumpleaños",
-      "pl": "urodzinowy",
       "it": "di compleanno",
       "pt": "de aniversário",
       "ja": "誕生日の",
       "zh": "生日的",
-      "ru": "праздничный"
+      "ru": "праздничный",
+      "fr": "anniversaire"
     },
     "examples": [],
     "meta": {}
@@ -23887,12 +23886,12 @@ const WORDS_PL_B2 = [
       "en": "cycle",
       "de": "der Zyklus",
       "es": "el ciclo",
-      "pl": "cykl",
       "it": "il ciclo",
       "pt": "o ciclo",
       "ja": "サイクル",
       "zh": "周期",
-      "ru": "цикл"
+      "ru": "цикл",
+      "fr": "cycle"
     },
     "examples": [],
     "meta": {},
@@ -23913,12 +23912,12 @@ const WORDS_PL_B2 = [
       "en": "internship",
       "de": "das Praktikum",
       "es": "la pasantía",
-      "pl": "staż",
       "it": "lo stage",
       "pt": "o estágio",
       "ja": "インターンシップ",
       "zh": "实习",
-      "ru": "стажировка"
+      "ru": "стажировка",
+      "fr": "stage"
     },
     "examples": [],
     "meta": {},
@@ -23939,12 +23938,12 @@ const WORDS_PL_B2 = [
       "en": "technician",
       "de": "der Techniker",
       "es": "el técnico",
-      "pl": "technik",
       "it": "il tecnico",
       "pt": "o técnico",
       "ja": "技術者",
       "zh": "技术员",
-      "ru": "техник"
+      "ru": "техник",
+      "fr": "technicien"
     },
     "examples": [],
     "meta": {},
@@ -23966,12 +23965,12 @@ const WORDS_PL_B2 = [
       "en": "support",
       "de": "unterstützen",
       "es": "apoyar",
-      "pl": "wesprzeć",
       "it": "sostenere",
       "pt": "apoiar",
       "ja": "支援する",
       "zh": "支持",
-      "ru": "поддержать"
+      "ru": "поддержать",
+      "fr": "soutien"
     },
     "examples": [],
     "meta": {},
@@ -23993,12 +23992,12 @@ const WORDS_PL_B2 = [
       "en": "donkey",
       "de": "der Esel",
       "es": "el burro",
-      "pl": "osioł",
       "it": "l'asino",
       "pt": "o burro",
       "ja": "ロバ",
       "zh": "驴",
-      "ru": "осёл"
+      "ru": "осёл",
+      "fr": "âne"
     },
     "examples": [],
     "meta": {},
@@ -24020,12 +24019,12 @@ const WORDS_PL_B2 = [
       "en": "anonymous",
       "de": "anonym",
       "es": "anónimo",
-      "pl": "anonimowy",
       "it": "anonimo",
       "pt": "anônimo",
       "ja": "匿名の",
       "zh": "匿名的",
-      "ru": "анонимный"
+      "ru": "анонимный",
+      "fr": "anonyme"
     },
     "examples": [],
     "meta": {}
@@ -24044,12 +24043,12 @@ const WORDS_PL_B2 = [
       "en": "soil",
       "de": "der Boden",
       "es": "el suelo",
-      "pl": "grunt",
       "it": "il terreno",
       "pt": "o solo",
       "ja": "土壌",
       "zh": "泥土",
-      "ru": "почва"
+      "ru": "почва",
+      "fr": "sol"
     },
     "examples": [],
     "meta": {},
@@ -24071,12 +24070,12 @@ const WORDS_PL_B2 = [
       "en": "thirsty",
       "de": "durstig",
       "es": "sediento",
-      "pl": "spragniony",
       "it": "assetato",
       "pt": "sedento",
       "ja": "喉が渇いた",
       "zh": "口渴的",
-      "ru": "жаждущий"
+      "ru": "жаждущий",
+      "fr": "assoiffé"
     },
     "examples": [],
     "meta": {}
@@ -24095,12 +24094,12 @@ const WORDS_PL_B2 = [
       "en": "trophy",
       "de": "der Pokal",
       "es": "el trofeo",
-      "pl": "puchar",
       "it": "il trofeo",
       "pt": "o troféu",
       "ja": "トロフィー",
       "zh": "奖杯",
-      "ru": "кубок"
+      "ru": "кубок",
+      "fr": "trophée"
     },
     "examples": [],
     "meta": {},
@@ -24121,12 +24120,12 @@ const WORDS_PL_B2 = [
       "en": "murder",
       "de": "ermorden",
       "es": "asesinar",
-      "pl": "zamordować",
       "it": "assassinare",
       "pt": "assassinar",
       "ja": "殺害する",
       "zh": "谋杀",
-      "ru": "убить"
+      "ru": "убить",
+      "fr": "meurtre"
     },
     "examples": [],
     "meta": {},
@@ -24148,12 +24147,12 @@ const WORDS_PL_B2 = [
       "en": "marine",
       "de": "der Marine",
       "es": "el marine",
-      "pl": "marine",
       "it": "il marine",
       "pt": "o fuzileiro",
       "ja": "海兵隊員",
       "zh": "海军陆战队员",
-      "ru": "морской пехотинец"
+      "ru": "морской пехотинец",
+      "fr": "marine"
     },
     "examples": [],
     "meta": {},
@@ -24175,12 +24174,12 @@ const WORDS_PL_B2 = [
       "en": "lid",
       "de": "der Deckel",
       "es": "la tapa",
-      "pl": "pokrywa",
       "it": "il coperchio",
       "pt": "a tampa",
       "ja": "蓋",
       "zh": "盖子",
-      "ru": "крышка"
+      "ru": "крышка",
+      "fr": "couvercle"
     },
     "examples": [],
     "meta": {},
@@ -24201,12 +24200,12 @@ const WORDS_PL_B2 = [
       "en": "steel",
       "de": "der Stahl",
       "es": "el acero",
-      "pl": "stal",
       "it": "l'acciaio",
       "pt": "o aço",
       "ja": "鋼",
       "zh": "钢",
-      "ru": "сталь"
+      "ru": "сталь",
+      "fr": "acier"
     },
     "examples": [],
     "meta": {},
@@ -24228,12 +24227,12 @@ const WORDS_PL_B2 = [
       "en": "message",
       "de": "die Nachricht",
       "es": "el mensaje",
-      "pl": "komunikat",
       "it": "il messaggio",
       "pt": "a mensagem",
       "ja": "メッセージ",
       "zh": "消息",
-      "ru": "сообщение"
+      "ru": "сообщение",
+      "fr": "message"
     },
     "examples": [],
     "meta": {},
@@ -24256,12 +24255,12 @@ const WORDS_PL_B2 = [
       "en": "get off",
       "de": "aussteigen",
       "es": "bajarse",
-      "pl": "wysiadać",
       "it": "scendere",
       "pt": "descer",
       "ja": "降りる",
       "zh": "下车",
-      "ru": "выходить"
+      "ru": "выходить",
+      "fr": "descendre"
     },
     "examples": [],
     "meta": {},
@@ -24284,12 +24283,12 @@ const WORDS_PL_B2 = [
       "en": "interest",
       "de": "interessieren",
       "es": "interesar",
-      "pl": "zainteresować",
       "it": "interessare",
       "pt": "interessar",
       "ja": "興味を持たせる",
       "zh": "引起兴趣",
-      "ru": "заинтересовать"
+      "ru": "заинтересовать",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {},
@@ -24312,12 +24311,12 @@ const WORDS_PL_B2 = [
       "en": "little son",
       "de": "der Söhnchen",
       "es": "el hijito",
-      "pl": "synek",
       "it": "il figlioletto",
       "pt": "o filhinho",
       "ja": "坊や",
       "zh": "小儿子",
-      "ru": "сынок"
+      "ru": "сынок",
+      "fr": "fils"
     },
     "examples": [],
     "meta": {},
@@ -24340,12 +24339,12 @@ const WORDS_PL_B2 = [
       "en": "get on",
       "de": "einsteigen",
       "es": "subirse",
-      "pl": "wsiadać",
       "it": "salire",
       "pt": "embarcar",
       "ja": "乗る",
       "zh": "上车",
-      "ru": "садиться"
+      "ru": "садиться",
+      "fr": "monter"
     },
     "examples": [],
     "meta": {},
@@ -24368,12 +24367,12 @@ const WORDS_PL_B2 = [
       "en": "dust",
       "de": "der Staub",
       "es": "el polvo",
-      "pl": "kurz",
       "it": "la polvere",
       "pt": "a poeira",
       "ja": "ほこり",
       "zh": "灰尘",
-      "ru": "пыль"
+      "ru": "пыль",
+      "fr": "poussière"
     },
     "examples": [],
     "meta": {},
@@ -24395,12 +24394,12 @@ const WORDS_PL_B2 = [
       "en": "nanny",
       "de": "die Nanny",
       "es": "la niñera",
-      "pl": "niania",
       "it": "la tata",
       "pt": "a babá",
       "ja": "乳母",
       "zh": "保姆",
-      "ru": "няня"
+      "ru": "няня",
+      "fr": "nounou"
     },
     "examples": [],
     "meta": {},
@@ -24422,12 +24421,12 @@ const WORDS_PL_B2 = [
       "en": "special",
       "de": "besonders",
       "es": "especial",
-      "pl": "szczególny",
       "it": "speciale",
       "pt": "especial",
       "ja": "特別な",
       "zh": "特别的",
-      "ru": "особенный"
+      "ru": "особенный",
+      "fr": "spécial"
     },
     "examples": [],
     "meta": {}
@@ -24446,12 +24445,12 @@ const WORDS_PL_B2 = [
       "en": "triangle",
       "de": "das Dreieck",
       "es": "el triángulo",
-      "pl": "trójkąt",
       "it": "il triangolo",
       "pt": "o triângulo",
       "ja": "三角形",
       "zh": "三角形",
-      "ru": "треугольник"
+      "ru": "треугольник",
+      "fr": "triangle"
     },
     "examples": [],
     "meta": {},
@@ -24473,12 +24472,12 @@ const WORDS_PL_B2 = [
       "en": "karaoke",
       "de": "das Karaoke",
       "es": "el karaoke",
-      "pl": "karaoke",
       "it": "il karaoke",
       "pt": "o karaokê",
       "ja": "カラオケ",
       "zh": "卡拉OK",
-      "ru": "караоке"
+      "ru": "караоке",
+      "fr": "karaoké"
     },
     "examples": [],
     "meta": {},
@@ -24500,12 +24499,12 @@ const WORDS_PL_B2 = [
       "en": "unknown",
       "de": "unbekannt",
       "es": "desconocido",
-      "pl": "nieznajomy",
       "it": "sconosciuto",
       "pt": "desconhecido",
       "ja": "未知の",
       "zh": "未知的",
-      "ru": "незнакомый"
+      "ru": "незнакомый",
+      "fr": "inconnu"
     },
     "examples": [],
     "meta": {}
@@ -24525,12 +24524,12 @@ const WORDS_PL_B2 = [
       "en": "stranger",
       "de": "der Fremde",
       "es": "el desconocido",
-      "pl": "nieznajomy",
       "it": "lo sconosciuto",
       "pt": "o estranho",
       "ja": "見知らぬ人",
       "zh": "陌生人",
-      "ru": "незнакомец"
+      "ru": "незнакомец",
+      "fr": "étranger"
     },
     "examples": [],
     "meta": {},
@@ -24552,12 +24551,12 @@ const WORDS_PL_B2 = [
       "en": "to save",
       "de": "sparen",
       "es": "ahorrar",
-      "pl": "oszczędzać",
       "it": "risparmiare",
       "pt": "economizar",
       "ja": "節約する",
       "zh": "节省",
-      "ru": "экономить"
+      "ru": "экономить",
+      "fr": "sauver"
     },
     "examples": [],
     "meta": {},
@@ -24580,12 +24579,12 @@ const WORDS_PL_B2 = [
       "en": "expert",
       "de": "der Experte",
       "es": "el experto",
-      "pl": "ekspert",
       "it": "l'esperto",
       "pt": "o especialista",
       "ja": "専門家",
       "zh": "专家",
-      "ru": "эксперт"
+      "ru": "эксперт",
+      "fr": "expert"
     },
     "examples": [],
     "meta": {},
@@ -24607,12 +24606,12 @@ const WORDS_PL_B2 = [
       "en": "ceiling",
       "de": "die Decke",
       "es": "el techo",
-      "pl": "sufit",
       "it": "il soffitto",
       "pt": "o teto",
       "ja": "天井",
       "zh": "天花板",
-      "ru": "потолок"
+      "ru": "потолок",
+      "fr": "plafond"
     },
     "examples": [],
     "meta": {},
@@ -24634,12 +24633,12 @@ const WORDS_PL_B2 = [
       "en": "to grow up",
       "de": "aufwachsen",
       "es": "crecer",
-      "pl": "dorosnąć",
       "it": "crescere",
       "pt": "crescer",
       "ja": "成長する",
       "zh": "长大",
-      "ru": "вырасти"
+      "ru": "вырасти",
+      "fr": "grandir"
     },
     "examples": [],
     "meta": {},
@@ -24661,12 +24660,12 @@ const WORDS_PL_B2 = [
       "en": "fool",
       "de": "der Narr",
       "es": "el tonto",
-      "pl": "dureń",
       "it": "lo sciocco",
       "pt": "o tolo",
       "ja": "馬鹿",
       "zh": "傻瓜",
-      "ru": "дурак"
+      "ru": "дурак",
+      "fr": "imbécile"
     },
     "examples": [],
     "meta": {},
@@ -24687,12 +24686,12 @@ const WORDS_PL_B2 = [
       "en": "note",
       "de": "der Zettel",
       "es": "la nota",
-      "pl": "liścik",
       "it": "il biglietto",
       "pt": "o bilhete",
       "ja": "メモ",
       "zh": "便条",
-      "ru": "записка"
+      "ru": "записка",
+      "fr": "note"
     },
     "examples": [],
     "meta": {},
@@ -24713,12 +24712,12 @@ const WORDS_PL_B2 = [
       "en": "software",
       "de": "die Software",
       "es": "el software",
-      "pl": "oprogramowanie",
       "it": "il software",
       "pt": "o software",
       "ja": "ソフトウェア",
       "zh": "软件",
-      "ru": "программное обеспечение"
+      "ru": "программное обеспечение",
+      "fr": "logiciel"
     },
     "examples": [],
     "meta": {},
@@ -24740,12 +24739,12 @@ const WORDS_PL_B2 = [
       "en": "boredom",
       "de": "die Langeweile",
       "es": "el aburrimiento",
-      "pl": "nuda",
       "it": "la noia",
       "pt": "o tédio",
       "ja": "退屈",
       "zh": "无聊",
-      "ru": "скука"
+      "ru": "скука",
+      "fr": "ennui"
     },
     "examples": [],
     "meta": {},
@@ -24767,12 +24766,12 @@ const WORDS_PL_B2 = [
       "en": "dark",
       "de": "dunkel",
       "es": "oscuro",
-      "pl": "ciemny",
       "it": "scuro",
       "pt": "escuro",
       "ja": "暗い",
       "zh": "黑暗的",
-      "ru": "тёмный"
+      "ru": "тёмный",
+      "fr": "sombre"
     },
     "examples": [],
     "meta": {}
@@ -24792,12 +24791,12 @@ const WORDS_PL_B2 = [
       "en": "breakdown",
       "de": "die Panne",
       "es": "la avería",
-      "pl": "awaria",
       "it": "il guasto",
       "pt": "a avaria",
       "ja": "故障",
       "zh": "故障",
-      "ru": "авария"
+      "ru": "авария",
+      "fr": "panne"
     },
     "examples": [],
     "meta": {},
@@ -24819,12 +24818,12 @@ const WORDS_PL_B2 = [
       "en": "teddy bear",
       "de": "der Teddybär",
       "es": "el osito",
-      "pl": "miś",
       "it": "l'orsetto",
       "pt": "o ursinho",
       "ja": "テディベア",
       "zh": "泰迪熊",
-      "ru": "плюшевый мишка"
+      "ru": "плюшевый мишка",
+      "fr": "ours en peluche"
     },
     "examples": [],
     "meta": {},
@@ -24845,12 +24844,12 @@ const WORDS_PL_B2 = [
       "en": "campaign",
       "de": "die Kampagne",
       "es": "la campaña",
-      "pl": "kampania",
       "it": "la campagna",
       "pt": "a campanha",
       "ja": "キャンペーン",
       "zh": "运动",
-      "ru": "кампания"
+      "ru": "кампания",
+      "fr": "campagne"
     },
     "examples": [],
     "meta": {},
@@ -24872,12 +24871,12 @@ const WORDS_PL_B2 = [
       "en": "bye",
       "de": "tschüss",
       "es": "adiós",
-      "pl": "narka",
       "it": "ciao",
       "pt": "tchau",
       "ja": "じゃあね",
       "zh": "再见",
-      "ru": "пока"
+      "ru": "пока",
+      "fr": "au revoir"
     },
     "examples": [],
     "meta": {},
@@ -24898,12 +24897,12 @@ const WORDS_PL_B2 = [
       "en": "Jew",
       "de": "der Jude",
       "es": "el judío",
-      "pl": "żyd",
       "it": "l'ebreo",
       "pt": "o judeu",
       "ja": "ユダヤ人",
       "zh": "犹太人",
-      "ru": "еврей"
+      "ru": "еврей",
+      "fr": "Juif"
     },
     "examples": [],
     "meta": {},
@@ -24924,12 +24923,12 @@ const WORDS_PL_B2 = [
       "en": "poor person",
       "de": "der Arme",
       "es": "el pobre",
-      "pl": "biedak",
       "it": "il povero",
       "pt": "o pobre",
       "ja": "貧しい人",
       "zh": "穷人",
-      "ru": "бедняк"
+      "ru": "бедняк",
+      "fr": "pauvre"
     },
     "examples": [],
     "meta": {},
@@ -24950,12 +24949,12 @@ const WORDS_PL_B2 = [
       "en": "talented",
       "de": "talentiert",
       "es": "talentoso",
-      "pl": "utalentowany",
       "it": "talentuoso",
       "pt": "talentoso",
       "ja": "才能のある",
       "zh": "有才华的",
-      "ru": "талантливый"
+      "ru": "талантливый",
+      "fr": "talentueux"
     },
     "examples": [],
     "meta": {}
@@ -24974,12 +24973,12 @@ const WORDS_PL_B2 = [
       "en": "substitution",
       "de": "die Vertretung",
       "es": "la sustitución",
-      "pl": "zastępstwo",
       "it": "la sostituzione",
       "pt": "a substituição",
       "ja": "代わり",
       "zh": "替代",
-      "ru": "замена"
+      "ru": "замена",
+      "fr": "remplacement"
     },
     "examples": [],
     "meta": {},
@@ -25001,12 +25000,12 @@ const WORDS_PL_B2 = [
       "en": "farm",
       "de": "der Bauernhof",
       "es": "la granja",
-      "pl": "farma",
       "it": "la fattoria",
       "pt": "a fazenda",
       "ja": "農場",
       "zh": "农场",
-      "ru": "ферма"
+      "ru": "ферма",
+      "fr": "ferme"
     },
     "examples": [],
     "meta": {},
@@ -25028,12 +25027,12 @@ const WORDS_PL_B2 = [
       "en": "mixture",
       "de": "die Mischung",
       "es": "la mezcla",
-      "pl": "mieszanka",
       "it": "la miscela",
       "pt": "a mistura",
       "ja": "混合物",
       "zh": "混合物",
-      "ru": "смесь"
+      "ru": "смесь",
+      "fr": "mélange"
     },
     "examples": [],
     "meta": {},
@@ -25055,12 +25054,12 @@ const WORDS_PL_B2 = [
       "en": "write in",
       "de": "eintragen",
       "es": "inscribir",
-      "pl": "wpisać",
       "it": "iscrivere",
       "pt": "inscrever",
       "ja": "書き込む",
       "zh": "写入",
-      "ru": "вписать"
+      "ru": "вписать",
+      "fr": "inscrire"
     },
     "examples": [],
     "meta": {},
@@ -25083,12 +25082,12 @@ const WORDS_PL_B2 = [
       "en": "billion",
       "de": "die Milliarde",
       "es": "el mil millones",
-      "pl": "miliard",
       "it": "il miliardo",
       "pt": "o bilhão",
       "ja": "10億",
       "zh": "十亿",
-      "ru": "миллиард"
+      "ru": "миллиард",
+      "fr": "milliard"
     },
     "examples": [],
     "meta": {},
@@ -25109,12 +25108,12 @@ const WORDS_PL_B2 = [
       "en": "romantically",
       "de": "romantisch",
       "es": "románticamente",
-      "pl": "romantycznie",
       "it": "romanticamente",
       "pt": "romanticamente",
       "ja": "ロマンチックに",
       "zh": "浪漫地",
-      "ru": "романтично"
+      "ru": "романтично",
+      "fr": "romantiquement"
     },
     "examples": [],
     "meta": {}
@@ -25133,12 +25132,12 @@ const WORDS_PL_B2 = [
       "en": "helmet",
       "de": "der Helm",
       "es": "el casco",
-      "pl": "kask",
       "it": "il casco",
       "pt": "o capacete",
       "ja": "ヘルメット",
       "zh": "头盔",
-      "ru": "шлем"
+      "ru": "шлем",
+      "fr": "casque"
     },
     "examples": [],
     "meta": {},
@@ -25159,12 +25158,12 @@ const WORDS_PL_B2 = [
       "en": "play out",
       "de": "austragen",
       "es": "jugar",
-      "pl": "rozegrać",
       "it": "giocare",
       "pt": "jogar",
       "ja": "試合をする",
       "zh": "比赛",
-      "ru": "разыграть"
+      "ru": "разыграть",
+      "fr": "jouer"
     },
     "examples": [],
     "meta": {},
@@ -25187,12 +25186,12 @@ const WORDS_PL_B2 = [
       "en": "quote",
       "de": "das Zitat",
       "es": "la cita",
-      "pl": "cytat",
       "it": "la citazione",
       "pt": "a citação",
       "ja": "引用",
       "zh": "引文",
-      "ru": "цитата"
+      "ru": "цитата",
+      "fr": "citation"
     },
     "examples": [],
     "meta": {},
@@ -25214,12 +25213,12 @@ const WORDS_PL_B2 = [
       "en": "production",
       "de": "die Produktion",
       "es": "la producción",
-      "pl": "produkcja",
       "it": "la produzione",
       "pt": "a produção",
       "ja": "生産",
       "zh": "生产",
-      "ru": "производство"
+      "ru": "производство",
+      "fr": "production"
     },
     "examples": [],
     "meta": {},
@@ -25241,12 +25240,12 @@ const WORDS_PL_B2 = [
       "en": "record",
       "de": "aufnehmen",
       "es": "grabar",
-      "pl": "nagrywać",
       "it": "registrare",
       "pt": "gravar",
       "ja": "録音する",
       "zh": "录制",
-      "ru": "записывать"
+      "ru": "записывать",
+      "fr": "enregistrer"
     },
     "examples": [],
     "meta": {},
@@ -25269,12 +25268,12 @@ const WORDS_PL_B2 = [
       "en": "teenager girl",
       "de": "die Jugendliche",
       "es": "la adolescente",
-      "pl": "nastolatka",
       "it": "l'adolescente",
       "pt": "a adolescente",
       "ja": "10代の少女",
       "zh": "青少年女孩",
-      "ru": "девочка подросток"
+      "ru": "девочка подросток",
+      "fr": "adolescente"
     },
     "examples": [],
     "meta": {},
@@ -25295,12 +25294,12 @@ const WORDS_PL_B2 = [
       "en": "threaten",
       "de": "drohen",
       "es": "amenazar",
-      "pl": "grozić",
       "it": "minacciare",
       "pt": "ameaçar",
       "ja": "脅す",
       "zh": "威胁",
-      "ru": "угрожать"
+      "ru": "угрожать",
+      "fr": "menacer"
     },
     "examples": [],
     "meta": {},
@@ -25323,12 +25322,12 @@ const WORDS_PL_B2 = [
       "en": "receive",
       "de": "erhalten",
       "es": "recibir",
-      "pl": "dostawać",
       "it": "ricevere",
       "pt": "receber",
       "ja": "受け取る",
       "zh": "收到",
-      "ru": "получать"
+      "ru": "получать",
+      "fr": "recevoir"
     },
     "examples": [],
     "meta": {},
@@ -25350,12 +25349,12 @@ const WORDS_PL_B2 = [
       "en": "bald",
       "de": "kahl",
       "es": "calvo",
-      "pl": "łysy",
       "it": "calvo",
       "pt": "careca",
       "ja": "はげた",
       "zh": "秃头的",
-      "ru": "лысый"
+      "ru": "лысый",
+      "fr": "chauve"
     },
     "examples": [],
     "meta": {}
@@ -25374,12 +25373,12 @@ const WORDS_PL_B2 = [
       "en": "bald animal",
       "de": "das kahle Tier",
       "es": "el animal calvo",
-      "pl": "łysy",
       "it": "l'animale calvo",
       "pt": "o animal careca",
       "ja": "禿げた動物",
       "zh": "秃毛动物",
-      "ru": "лысое животное"
+      "ru": "лысое животное",
+      "fr": "animal chauve"
     },
     "examples": [],
     "meta": {},
@@ -25400,12 +25399,12 @@ const WORDS_PL_B2 = [
       "en": "cigar",
       "de": "die Zigarre",
       "es": "el cigarro",
-      "pl": "cygaro",
       "it": "il sigaro",
       "pt": "o charuto",
       "ja": "葉巻",
       "zh": "雪茄",
-      "ru": "сигара"
+      "ru": "сигара",
+      "fr": "cigare"
     },
     "examples": [],
     "meta": {},
@@ -25426,12 +25425,12 @@ const WORDS_PL_B2 = [
       "en": "bell",
       "de": "die Glocke",
       "es": "la campana",
-      "pl": "dzwon",
       "it": "la campana",
       "pt": "o sino",
       "ja": "鐘",
       "zh": "钟",
-      "ru": "колокол"
+      "ru": "колокол",
+      "fr": "cloche"
     },
     "examples": [],
     "meta": {},
@@ -25452,12 +25451,12 @@ const WORDS_PL_B2 = [
       "en": "scare",
       "de": "erschrecken",
       "es": "asustar",
-      "pl": "straszyć",
       "it": "spaventare",
       "pt": "assustar",
       "ja": "怖がらせる",
       "zh": "吓唬",
-      "ru": "пугать"
+      "ru": "пугать",
+      "fr": "effrayer"
     },
     "examples": [],
     "meta": {},
@@ -25479,12 +25478,12 @@ const WORDS_PL_B2 = [
       "en": "lie",
       "de": "die Lüge",
       "es": "la mentira",
-      "pl": "ściema",
       "it": "la bugia",
       "pt": "a mentira",
       "ja": "嘘",
       "zh": "谎言",
-      "ru": "ложь"
+      "ru": "ложь",
+      "fr": "mensonge"
     },
     "examples": [],
     "meta": {},
@@ -25506,12 +25505,12 @@ const WORDS_PL_B2 = [
       "en": "automatic machine",
       "de": "der Automat",
       "es": "el autómata",
-      "pl": "automat",
       "it": "l'automatico",
       "pt": "o automático",
       "ja": "自動販売機",
       "zh": "自动机",
-      "ru": "автомат"
+      "ru": "автомат",
+      "fr": "automate"
     },
     "examples": [],
     "meta": {},
@@ -25533,12 +25532,12 @@ const WORDS_PL_B2 = [
       "en": "drama",
       "de": "das Drama",
       "es": "el drama",
-      "pl": "dramat",
       "it": "il dramma",
       "pt": "o drama",
       "ja": "ドラマ",
       "zh": "戏剧",
-      "ru": "драма"
+      "ru": "драма",
+      "fr": "drame"
     },
     "examples": [],
     "meta": {},
@@ -25560,12 +25559,12 @@ const WORDS_PL_B2 = [
       "en": "expedition",
       "de": "die Expedition",
       "es": "la expedición",
-      "pl": "wyprawa",
       "it": "la spedizione",
       "pt": "a expedição",
       "ja": "遠征",
       "zh": "远征",
-      "ru": "экспедиция"
+      "ru": "экспедиция",
+      "fr": "expédition"
     },
     "examples": [],
     "meta": {},
@@ -25587,12 +25586,12 @@ const WORDS_PL_B2 = [
       "en": "spoil",
       "de": "verderben",
       "es": "estropear",
-      "pl": "psuć",
       "it": "rovinare",
       "pt": "estragar",
       "ja": "台無しにする",
       "zh": "弄坏",
-      "ru": "портить"
+      "ru": "портить",
+      "fr": "gâcher"
     },
     "examples": [],
     "meta": {},
@@ -25615,12 +25614,12 @@ const WORDS_PL_B2 = [
       "en": "chase",
       "de": "jagen",
       "es": "perseguir",
-      "pl": "gonić",
       "it": "inseguire",
       "pt": "perseguir",
       "ja": "追いかける",
       "zh": "追赶",
-      "ru": "гнаться"
+      "ru": "гнаться",
+      "fr": "poursuivre"
     },
     "examples": [],
     "meta": {},
@@ -25643,12 +25642,12 @@ const WORDS_PL_B2 = [
       "en": "session",
       "de": "die Sitzung",
       "es": "la sesión",
-      "pl": "sesja",
       "it": "la sessione",
       "pt": "a sessão",
       "ja": "会議",
       "zh": "会议",
-      "ru": "сессия"
+      "ru": "сессия",
+      "fr": "session"
     },
     "examples": [],
     "meta": {},
@@ -25669,12 +25668,12 @@ const WORDS_PL_B2 = [
       "en": "horror",
       "de": "der Horror",
       "es": "el horror",
-      "pl": "horror",
       "it": "l'orrore",
       "pt": "o horror",
       "ja": "ホラー",
       "zh": "恐怖",
-      "ru": "ужас"
+      "ru": "ужас",
+      "fr": "horreur"
     },
     "examples": [],
     "meta": {},
@@ -25695,12 +25694,12 @@ const WORDS_PL_B2 = [
       "en": "show",
       "de": "zeigen",
       "es": "mostrar",
-      "pl": "wykazać",
       "it": "mostrare",
       "pt": "mostrar",
       "ja": "示す",
       "zh": "显示",
-      "ru": "показать"
+      "ru": "показать",
+      "fr": "montrer"
     },
     "examples": [],
     "meta": {},
@@ -25722,12 +25721,12 @@ const WORDS_PL_B2 = [
       "en": "possess",
       "de": "besitzen",
       "es": "poseer",
-      "pl": "posiadać",
       "it": "possedere",
       "pt": "possuir",
       "ja": "所有する",
       "zh": "拥有",
-      "ru": "владеть"
+      "ru": "владеть",
+      "fr": "posséder"
     },
     "examples": [],
     "meta": {},
@@ -25750,12 +25749,12 @@ const WORDS_PL_B2 = [
       "en": "drop",
       "de": "der Tropfen",
       "es": "la gota",
-      "pl": "kropla",
       "it": "la goccia",
       "pt": "a gota",
       "ja": "滴",
       "zh": "滴",
-      "ru": "капля"
+      "ru": "капля",
+      "fr": "goutte"
     },
     "examples": [],
     "meta": {},
@@ -25777,12 +25776,12 @@ const WORDS_PL_B2 = [
       "en": "evaluation",
       "de": "die Bewertung",
       "es": "la evaluación",
-      "pl": "ocena",
       "it": "la valutazione",
       "pt": "a avaliação",
       "ja": "評価",
       "zh": "评价",
-      "ru": "оценка"
+      "ru": "оценка",
+      "fr": "évaluation"
     },
     "examples": [],
     "meta": {},
@@ -25804,12 +25803,12 @@ const WORDS_PL_B2 = [
       "en": "company",
       "de": "die Gesellschaft",
       "es": "la compañía",
-      "pl": "kompania",
       "it": "la compagnia",
       "pt": "a companhia",
       "ja": "仲間",
       "zh": "伙伴",
-      "ru": "компания"
+      "ru": "компания",
+      "fr": "entreprise"
     },
     "examples": [],
     "meta": {},
@@ -25831,12 +25830,12 @@ const WORDS_PL_B2 = [
       "en": "jacuzzi",
       "de": "der Whirlpool",
       "es": "el jacuzzi",
-      "pl": "jacuzzi",
       "it": "la vasca idromassaggio",
       "pt": "o jacuzzi",
       "ja": "ジャグジー",
       "zh": "按摩浴缸",
-      "ru": "джакузи"
+      "ru": "джакузи",
+      "fr": "jacuzzi"
     },
     "examples": [],
     "meta": {},
@@ -25858,12 +25857,12 @@ const WORDS_PL_B2 = [
       "en": "wealth",
       "de": "der Reichtum",
       "es": "la riqueza",
-      "pl": "bogactwo",
       "it": "la ricchezza",
       "pt": "a riqueza",
       "ja": "富",
       "zh": "财富",
-      "ru": "богатство"
+      "ru": "богатство",
+      "fr": "richesse"
     },
     "examples": [],
     "meta": {},
@@ -25884,12 +25883,12 @@ const WORDS_PL_B2 = [
       "en": "surprised",
       "de": "überrascht",
       "es": "sorprendido",
-      "pl": "zdziwiony",
       "it": "sorpreso",
       "pt": "surpreso",
       "ja": "驚いた",
       "zh": "惊讶的",
-      "ru": "удивлённый"
+      "ru": "удивлённый",
+      "fr": "surpris"
     },
     "examples": [],
     "meta": {}
@@ -25908,12 +25907,12 @@ const WORDS_PL_B2 = [
       "en": "film",
       "de": "filmisch",
       "es": "cinematográfico",
-      "pl": "filmowy",
       "it": "cinematografico",
       "pt": "cinematográfico",
       "ja": "映画の",
       "zh": "电影的",
-      "ru": "киношный"
+      "ru": "киношный",
+      "fr": "film"
     },
     "examples": [],
     "meta": {}
@@ -25932,12 +25931,12 @@ const WORDS_PL_B2 = [
       "en": "ring",
       "de": "der Ring",
       "es": "el ring",
-      "pl": "ring",
       "it": "il ring",
       "pt": "o ringue",
       "ja": "リング",
       "zh": "拳击台",
-      "ru": "ринг"
+      "ru": "ринг",
+      "fr": "ring"
     },
     "examples": [],
     "meta": {},
@@ -25959,12 +25958,12 @@ const WORDS_PL_B2 = [
       "en": "finances",
       "de": "die Finanzen",
       "es": "las finanzas",
-      "pl": "finanse",
       "it": "le finanze",
       "pt": "as finanças",
       "ja": "財政",
       "zh": "财务",
-      "ru": "финансы"
+      "ru": "финансы",
+      "fr": "finances"
     },
     "examples": [],
     "meta": {},
@@ -25985,12 +25984,12 @@ const WORDS_PL_B2 = [
       "en": "tango",
       "de": "der Tango",
       "es": "el tango",
-      "pl": "tango",
       "it": "il tango",
       "pt": "o tango",
       "ja": "タンゴ",
       "zh": "探戈",
-      "ru": "танго"
+      "ru": "танго",
+      "fr": "tango"
     },
     "examples": [],
     "meta": {},
@@ -26011,12 +26010,12 @@ const WORDS_PL_B2 = [
       "en": "hurry",
       "de": "eilen",
       "es": "apresurarse",
-      "pl": "pośpieszyć",
       "it": "affrettarsi",
       "pt": "apressar",
       "ja": "急ぐ",
       "zh": "赶快",
-      "ru": "спешить"
+      "ru": "спешить",
+      "fr": "se dépêcher"
     },
     "examples": [],
     "meta": {},
@@ -26038,12 +26037,12 @@ const WORDS_PL_B2 = [
       "en": "vice president",
       "de": "der Vizepräsident",
       "es": "el vicepresidente",
-      "pl": "wiceprezydent",
       "it": "il vicepresidente",
       "pt": "o vice-presidente",
       "ja": "副大統領",
       "zh": "副总统",
-      "ru": "вице-президент"
+      "ru": "вице-президент",
+      "fr": "vice-président"
     },
     "examples": [],
     "meta": {},
@@ -26064,12 +26063,12 @@ const WORDS_PL_B2 = [
       "en": "enormous",
       "de": "riesig",
       "es": "enorme",
-      "pl": "olbrzymi",
       "it": "enorme",
       "pt": "enorme",
       "ja": "巨大な",
       "zh": "巨大的",
-      "ru": "огромный"
+      "ru": "огромный",
+      "fr": "énorme"
     },
     "examples": [],
     "meta": {}
@@ -26088,12 +26087,12 @@ const WORDS_PL_B2 = [
       "en": "divine",
       "de": "göttlich",
       "es": "divino",
-      "pl": "boży",
       "it": "divino",
       "pt": "divino",
       "ja": "神の",
       "zh": "神圣的",
-      "ru": "божественный"
+      "ru": "божественный",
+      "fr": "divin"
     },
     "examples": [],
     "meta": {}
@@ -26112,12 +26111,12 @@ const WORDS_PL_B2 = [
       "en": "sweat",
       "de": "der Schweiß",
       "es": "el sudor",
-      "pl": "pot",
       "it": "il sudore",
       "pt": "o suor",
       "ja": "汗",
       "zh": "汗",
-      "ru": "пот"
+      "ru": "пот",
+      "fr": "sueur"
     },
     "examples": [],
     "meta": {},
@@ -26139,12 +26138,12 @@ const WORDS_PL_B2 = [
       "en": "purchase",
       "de": "der Einkauf",
       "es": "la compra",
-      "pl": "zakup",
       "it": "l'acquisto",
       "pt": "a compra",
       "ja": "購入",
       "zh": "购买",
-      "ru": "покупка"
+      "ru": "покупка",
+      "fr": "achat"
     },
     "examples": [],
     "meta": {},
@@ -26166,12 +26165,12 @@ const WORDS_PL_B2 = [
       "en": "eleven",
       "de": "elf",
       "es": "once",
-      "pl": "jedenaście",
       "it": "undici",
       "pt": "onze",
       "ja": "11",
       "zh": "十一",
-      "ru": "одиннадцать"
+      "ru": "одиннадцать",
+      "fr": "onze"
     },
     "examples": [],
     "meta": {}
@@ -26191,12 +26190,12 @@ const WORDS_PL_B2 = [
       "en": "bedding",
       "de": "die Bettwäsche",
       "es": "la ropa de cama",
-      "pl": "pościel",
       "it": "la biancheria da letto",
       "pt": "a roupa de cama",
       "ja": "寝具",
       "zh": "床上用品",
-      "ru": "постельное бельё"
+      "ru": "постельное бельё",
+      "fr": "literie"
     },
     "examples": [],
     "meta": {},
@@ -26219,12 +26218,12 @@ const WORDS_PL_B2 = [
       "en": "salad",
       "de": "der Salat",
       "es": "la ensalada",
-      "pl": "sałatka",
       "it": "l'insalata",
       "pt": "a salada",
       "ja": "サラダ",
       "zh": "沙拉",
-      "ru": "салат"
+      "ru": "салат",
+      "fr": "salade"
     },
     "examples": [],
     "meta": {},
@@ -26245,12 +26244,12 @@ const WORDS_PL_B2 = [
       "en": "noble",
       "de": "edel",
       "es": "noble",
-      "pl": "szlachetny",
       "it": "nobile",
       "pt": "nobre",
       "ja": "高貴な",
       "zh": "高尚的",
-      "ru": "благородный"
+      "ru": "благородный",
+      "fr": "noble"
     },
     "examples": [],
     "meta": {}
@@ -26269,12 +26268,12 @@ const WORDS_PL_B2 = [
       "en": "exhausted",
       "de": "erschöpft",
       "es": "agotado",
-      "pl": "wykończony",
       "it": "esausto",
       "pt": "exausto",
       "ja": "疲れ果てた",
       "zh": "精疲力尽的",
-      "ru": "измученный"
+      "ru": "измученный",
+      "fr": "épuisé"
     },
     "examples": [],
     "meta": {}
@@ -26294,12 +26293,12 @@ const WORDS_PL_B2 = [
       "en": "full-time job",
       "de": "die Vollzeitstelle",
       "es": "el puesto de tiempo completo",
-      "pl": "etat",
       "it": "il posto a tempo pieno",
       "pt": "o emprego em tempo integral",
       "ja": "常勤職",
       "zh": "全职工作",
-      "ru": "штатная должность"
+      "ru": "штатная должность",
+      "fr": "emploi à temps plein"
     },
     "examples": [],
     "meta": {},
@@ -26321,12 +26320,12 @@ const WORDS_PL_B2 = [
       "en": "a moment",
       "de": "der Augenblick",
       "es": "el momento",
-      "pl": "chwilunia",
       "it": "il momento",
       "pt": "o momento",
       "ja": "ちょっとの間",
       "zh": "片刻",
-      "ru": "минутка"
+      "ru": "минутка",
+      "fr": "moment"
     },
     "examples": [],
     "meta": {},
@@ -26347,12 +26346,12 @@ const WORDS_PL_B2 = [
       "en": "poisoning",
       "de": "die Vergiftung",
       "es": "la intoxicación",
-      "pl": "zatrucie",
       "it": "l'avvelenamento",
       "pt": "o envenenamento",
       "ja": "中毒",
       "zh": "中毒",
-      "ru": "отравление"
+      "ru": "отравление",
+      "fr": "empoisonnement"
     },
     "examples": [],
     "meta": {},
@@ -26374,12 +26373,12 @@ const WORDS_PL_B2 = [
       "en": "perform",
       "de": "auftreten",
       "es": "actuar",
-      "pl": "występować",
       "it": "esibirsi",
       "pt": "atuar",
       "ja": "出演する",
       "zh": "表演",
-      "ru": "выступать"
+      "ru": "выступать",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {},
@@ -26402,12 +26401,12 @@ const WORDS_PL_B2 = [
       "en": "elephant",
       "de": "der Elefant",
       "es": "el elefante",
-      "pl": "słoń",
       "it": "l'elefante",
       "pt": "o elefante",
       "ja": "象",
       "zh": "大象",
-      "ru": "слон"
+      "ru": "слон",
+      "fr": "éléphant"
     },
     "examples": [],
     "meta": {},
@@ -26429,12 +26428,12 @@ const WORDS_PL_B2 = [
       "en": "hook",
       "de": "der Haken",
       "es": "el gancho",
-      "pl": "hak",
       "it": "l'uncino",
       "pt": "o gancho",
       "ja": "フック",
       "zh": "钩子",
-      "ru": "крюк"
+      "ru": "крюк",
+      "fr": "crochet"
     },
     "examples": [],
     "meta": {},
@@ -26456,12 +26455,12 @@ const WORDS_PL_B2 = [
       "en": "scan",
       "de": "der Scan",
       "es": "el escaneo",
-      "pl": "skan",
       "it": "la scansione",
       "pt": "o escaneamento",
       "ja": "スキャン",
       "zh": "扫描",
-      "ru": "скан"
+      "ru": "скан",
+      "fr": "scan"
     },
     "examples": [],
     "meta": {},
@@ -26482,12 +26481,12 @@ const WORDS_PL_B2 = [
       "en": "deceased person",
       "de": "der Verstorbene",
       "es": "el difunto",
-      "pl": "zmarły",
       "it": "il defunto",
       "pt": "o falecido",
       "ja": "故人",
       "zh": "死者",
-      "ru": "покойник"
+      "ru": "покойник",
+      "fr": "défunt"
     },
     "examples": [],
     "meta": {},
@@ -26508,12 +26507,12 @@ const WORDS_PL_B2 = [
       "en": "deceased",
       "de": "verstorben",
       "es": "difunto",
-      "pl": "zmarły",
       "it": "defunto",
       "pt": "falecido",
       "ja": "亡くなった",
       "zh": "已故的",
-      "ru": "умерший"
+      "ru": "умерший",
+      "fr": "décédé"
     },
     "examples": [],
     "meta": {}
@@ -26532,12 +26531,12 @@ const WORDS_PL_B2 = [
       "en": "ensign",
       "de": "der Fähnrich",
       "es": "el alférez",
-      "pl": "chorąży",
       "it": "l'alfiere",
       "pt": "o alferes",
       "ja": "旗手",
       "zh": "准尉",
-      "ru": "прапорщик"
+      "ru": "прапорщик",
+      "fr": "enseigne"
     },
     "examples": [],
     "meta": {},
@@ -26558,12 +26557,12 @@ const WORDS_PL_B2 = [
       "en": "vomit",
       "de": "sich übergeben",
       "es": "vomitar",
-      "pl": "rzygać",
       "it": "vomitare",
       "pt": "vomitar",
       "ja": "吐く",
       "zh": "呕吐",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "vomir"
     },
     "examples": [],
     "meta": {},
@@ -26586,12 +26585,12 @@ const WORDS_PL_B2 = [
       "en": "erase",
       "de": "löschen",
       "es": "borrar",
-      "pl": "wymazać",
       "it": "cancellare",
       "pt": "apagar",
       "ja": "消す",
       "zh": "擦除",
-      "ru": "стереть"
+      "ru": "стереть",
+      "fr": "effacer"
     },
     "examples": [],
     "meta": {},
@@ -26614,12 +26613,12 @@ const WORDS_PL_B2 = [
       "en": "paint",
       "de": "die Farbe",
       "es": "la pintura",
-      "pl": "farba",
       "it": "la vernice",
       "pt": "a tinta",
       "ja": "ペンキ",
       "zh": "油漆",
-      "ru": "краска"
+      "ru": "краска",
+      "fr": "peinture"
     },
     "examples": [],
     "meta": {},
@@ -26641,12 +26640,12 @@ const WORDS_PL_B2 = [
       "en": "pleasant",
       "de": "angenehm",
       "es": "agradable",
-      "pl": "przyjemny",
       "it": "piacevole",
       "pt": "agradável",
       "ja": "楽しい",
       "zh": "愉快的",
-      "ru": "приятный"
+      "ru": "приятный",
+      "fr": "agréable"
     },
     "examples": [],
     "meta": {}
@@ -26665,12 +26664,12 @@ const WORDS_PL_B2 = [
       "en": "permit",
       "de": "die Genehmigung",
       "es": "el permiso",
-      "pl": "zezwolenie",
       "it": "il permesso",
       "pt": "a permissão",
       "ja": "許可",
       "zh": "许可证",
-      "ru": "разрешение"
+      "ru": "разрешение",
+      "fr": "permis"
     },
     "examples": [],
     "meta": {},
@@ -26692,12 +26691,12 @@ const WORDS_PL_B2 = [
       "en": "doubt",
       "de": "zweifeln",
       "es": "dudar",
-      "pl": "wątpić",
       "it": "dubitare",
       "pt": "duvidar",
       "ja": "疑う",
       "zh": "怀疑",
-      "ru": "сомневаться"
+      "ru": "сомневаться",
+      "fr": "douter"
     },
     "examples": [],
     "meta": {},
@@ -26720,12 +26719,12 @@ const WORDS_PL_B2 = [
       "en": "arrange",
       "de": "ordnen",
       "es": "arreglar",
-      "pl": "układać",
       "it": "sistemare",
       "pt": "arrumar",
       "ja": "並べる",
       "zh": "整理",
-      "ru": "укладывать"
+      "ru": "укладывать",
+      "fr": "arranger"
     },
     "examples": [],
     "meta": {},
@@ -26747,12 +26746,12 @@ const WORDS_PL_B2 = [
       "en": "allocation",
       "de": "die Zuteilung",
       "es": "la asignación",
-      "pl": "przydział",
       "it": "l'assegnazione",
       "pt": "a alocação",
       "ja": "割り当て",
       "zh": "分配",
-      "ru": "распределение"
+      "ru": "распределение",
+      "fr": "allocation"
     },
     "examples": [],
     "meta": {},
@@ -26773,12 +26772,12 @@ const WORDS_PL_B2 = [
       "en": "nasty",
       "de": "gemein",
       "es": "desagradable",
-      "pl": "wredny",
       "it": "cattivo",
       "pt": "desagradável",
       "ja": "意地悪な",
       "zh": "卑鄙的",
-      "ru": "подлый"
+      "ru": "подлый",
+      "fr": "méchant"
     },
     "examples": [],
     "meta": {}
@@ -26797,12 +26796,12 @@ const WORDS_PL_B2 = [
       "en": "candidate",
       "de": "der Kandidat",
       "es": "el candidato",
-      "pl": "kandydat",
       "it": "il candidato",
       "pt": "o candidato",
       "ja": "候補者",
       "zh": "候选人",
-      "ru": "кандидат"
+      "ru": "кандидат",
+      "fr": "candidat"
     },
     "examples": [],
     "meta": {},
@@ -26824,12 +26823,12 @@ const WORDS_PL_B2 = [
       "en": "mommy",
       "de": "die Mutti",
       "es": "la mami",
-      "pl": "mamuśka",
       "it": "la mammina",
       "pt": "a mamãe",
       "ja": "ママ",
       "zh": "妈妈",
-      "ru": "мамочка"
+      "ru": "мамочка",
+      "fr": "maman"
     },
     "examples": [],
     "meta": {},
@@ -26851,12 +26850,12 @@ const WORDS_PL_B2 = [
       "en": "stain",
       "de": "der Fleck",
       "es": "la mancha",
-      "pl": "plama",
       "it": "la macchia",
       "pt": "a mancha",
       "ja": "染み",
       "zh": "污渍",
-      "ru": "пятно"
+      "ru": "пятно",
+      "fr": "tache"
     },
     "examples": [],
     "meta": {},
@@ -26878,12 +26877,12 @@ const WORDS_PL_B2 = [
       "en": "cap",
       "de": "die Mütze",
       "es": "la gorra",
-      "pl": "czapka",
       "it": "il berretto",
       "pt": "o boné",
       "ja": "帽子",
       "zh": "帽子",
-      "ru": "шапка"
+      "ru": "шапка",
+      "fr": "casquette"
     },
     "examples": [],
     "meta": {},
@@ -26905,12 +26904,12 @@ const WORDS_PL_B2 = [
       "en": "teenager",
       "de": "der Teenager",
       "es": "el adolescente",
-      "pl": "nastolatek",
       "it": "l'adolescente",
       "pt": "o adolescente",
       "ja": "ティーンエイジャー",
       "zh": "青少年",
-      "ru": "подросток"
+      "ru": "подросток",
+      "fr": "adolescent"
     },
     "examples": [],
     "meta": {},
@@ -26931,12 +26930,12 @@ const WORDS_PL_B2 = [
       "en": "missing person",
       "de": "die vermisste Person",
       "es": "la persona desaparecida",
-      "pl": "zaginiony",
       "it": "la persona scomparsa",
       "pt": "a pessoa desaparecida",
       "ja": "行方不明者",
       "zh": "失踪者",
-      "ru": "пропавший без вести"
+      "ru": "пропавший без вести",
+      "fr": "disparu"
     },
     "examples": [],
     "meta": {},
@@ -26958,12 +26957,12 @@ const WORDS_PL_B2 = [
       "en": "lost",
       "de": "verloren",
       "es": "perdido",
-      "pl": "zaginiony",
       "it": "perso",
       "pt": "perdido",
       "ja": "紛失した",
       "zh": "丢失的",
-      "ru": "потерянный"
+      "ru": "потерянный",
+      "fr": "perdu"
     },
     "examples": [],
     "meta": {}
@@ -26983,12 +26982,12 @@ const WORDS_PL_B2 = [
       "en": "wrist",
       "de": "das Handgelenk",
       "es": "la muñeca",
-      "pl": "nadgarstek",
       "it": "il polso",
       "pt": "o pulso",
       "ja": "手首",
       "zh": "手腕",
-      "ru": "запястье"
+      "ru": "запястье",
+      "fr": "poignet"
     },
     "examples": [],
     "meta": {},
@@ -27010,12 +27009,12 @@ const WORDS_PL_B2 = [
       "en": "flat cake",
       "de": "der Fladen",
       "es": "el pastel plano",
-      "pl": "placek",
       "it": "la focaccia",
       "pt": "o bolo chato",
       "ja": "平たいケーキ",
       "zh": "扁平蛋糕",
-      "ru": "лепешка"
+      "ru": "лепешка",
+      "fr": "galette"
     },
     "examples": [],
     "meta": {},
@@ -27037,12 +27036,12 @@ const WORDS_PL_B2 = [
       "en": "actress",
       "de": "die Schauspielerin",
       "es": "la actriz",
-      "pl": "aktorka",
       "it": "l'attrice",
       "pt": "a atriz",
       "ja": "女優",
       "zh": "女演员",
-      "ru": "актриса"
+      "ru": "актриса",
+      "fr": "actrice"
     },
     "examples": [],
     "meta": {},
@@ -27064,12 +27063,12 @@ const WORDS_PL_B2 = [
       "en": "candy",
       "de": "die Süßigkeit",
       "es": "el caramelo",
-      "pl": "cukierek",
       "it": "la caramella",
       "pt": "o doce",
       "ja": "キャンディ",
       "zh": "糖果",
-      "ru": "конфета"
+      "ru": "конфета",
+      "fr": "bonbon"
     },
     "examples": [],
     "meta": {},
@@ -27091,12 +27090,12 @@ const WORDS_PL_B2 = [
       "en": "powder",
       "de": "das Pulver",
       "es": "el polvo",
-      "pl": "proszek",
       "it": "la polvere",
       "pt": "o pó",
       "ja": "粉",
       "zh": "粉末",
-      "ru": "порошок"
+      "ru": "порошок",
+      "fr": "poudre"
     },
     "examples": [],
     "meta": {},
@@ -27118,12 +27117,12 @@ const WORDS_PL_B2 = [
       "en": "passion",
       "de": "die Leidenschaft",
       "es": "la pasión",
-      "pl": "pasja",
       "it": "la passione",
       "pt": "a paixão",
       "ja": "情熱",
       "zh": "热情",
-      "ru": "страсть"
+      "ru": "страсть",
+      "fr": "passion"
     },
     "examples": [],
     "meta": {},
@@ -27145,12 +27144,12 @@ const WORDS_PL_B2 = [
       "en": "caution",
       "de": "die Vorsicht",
       "es": "la precaución",
-      "pl": "ostrożność",
       "it": "la cautela",
       "pt": "a cautela",
       "ja": "注意",
       "zh": "谨慎",
-      "ru": "осторожность"
+      "ru": "осторожность",
+      "fr": "prudence"
     },
     "examples": [],
     "meta": {},
@@ -27172,12 +27171,12 @@ const WORDS_PL_B2 = [
       "en": "win",
       "de": "gewinnen",
       "es": "ganar",
-      "pl": "wygrywać",
       "it": "vincere",
       "pt": "ganhar",
       "ja": "勝つ",
       "zh": "赢",
-      "ru": "выигрывать"
+      "ru": "выигрывать",
+      "fr": "gagner"
     },
     "examples": [],
     "meta": {},
@@ -27200,12 +27199,12 @@ const WORDS_PL_B2 = [
       "en": "revolver",
       "de": "der Revolver",
       "es": "el revólver",
-      "pl": "rewolwer",
       "it": "il revolver",
       "pt": "o revólver",
       "ja": "リボルバー",
       "zh": "左轮手枪",
-      "ru": "револьвер"
+      "ru": "револьвер",
+      "fr": "revolver"
     },
     "examples": [],
     "meta": {},
@@ -27227,12 +27226,12 @@ const WORDS_PL_B2 = [
       "en": "give birth",
       "de": "gebären",
       "es": "dar a luz",
-      "pl": "rodzić",
       "it": "partorire",
       "pt": "dar à luz",
       "ja": "出産する",
       "zh": "生育",
-      "ru": "рожать"
+      "ru": "рожать",
+      "fr": "accoucher"
     },
     "examples": [],
     "meta": {},
@@ -27255,12 +27254,12 @@ const WORDS_PL_B2 = [
       "en": "maid",
       "de": "das Zimmermädchen",
       "es": "la criada",
-      "pl": "pokojówka",
       "it": "la cameriera",
       "pt": "a empregada",
       "ja": "メイド",
       "zh": "女仆",
-      "ru": "горничная"
+      "ru": "горничная",
+      "fr": "bonne"
     },
     "examples": [],
     "meta": {},
@@ -27282,12 +27281,12 @@ const WORDS_PL_B2 = [
       "en": "beauty",
       "de": "die Schönheit",
       "es": "la belleza",
-      "pl": "piękność",
       "it": "la bellezza",
       "pt": "a beleza",
       "ja": "美しさ",
       "zh": "美丽",
-      "ru": "красота"
+      "ru": "красота",
+      "fr": "beauté"
     },
     "examples": [],
     "meta": {},
@@ -27309,12 +27308,12 @@ const WORDS_PL_B2 = [
       "en": "harm",
       "de": "verletzen",
       "es": "dañar",
-      "pl": "krzywdzić",
       "it": "nuocere",
       "pt": "prejudicar",
       "ja": "傷つける",
       "zh": "伤害",
-      "ru": "причинять вред"
+      "ru": "причинять вред",
+      "fr": "nuire"
     },
     "examples": [],
     "meta": {},
@@ -27337,12 +27336,12 @@ const WORDS_PL_B2 = [
       "en": "hurry",
       "de": "eilen",
       "es": "apresurarse",
-      "pl": "śpieszyć",
       "it": "affrettarsi",
       "pt": "apressar",
       "ja": "急ぐ",
       "zh": "赶快",
-      "ru": "спешить"
+      "ru": "спешить",
+      "fr": "se dépêcher"
     },
     "examples": [],
     "meta": {},
@@ -27365,12 +27364,12 @@ const WORDS_PL_B2 = [
       "en": "break",
       "de": "brechen",
       "es": "romper",
-      "pl": "łamać",
       "it": "rompere",
       "pt": "quebrar",
       "ja": "壊す",
       "zh": "打破",
-      "ru": "ломать"
+      "ru": "ломать",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {},
@@ -27394,12 +27393,12 @@ const WORDS_PL_B2 = [
       "en": "business card",
       "de": "die Visitenkarte",
       "es": "la tarjeta de visita",
-      "pl": "wizytówka",
       "it": "il biglietto da visita",
       "pt": "o cartão de visita",
       "ja": "名刺",
       "zh": "名片",
-      "ru": "визитка"
+      "ru": "визитка",
+      "fr": "carte de visite"
     },
     "examples": [],
     "meta": {},
@@ -27421,12 +27420,12 @@ const WORDS_PL_B2 = [
       "en": "set",
       "de": "das Set",
       "es": "el conjunto",
-      "pl": "komplet",
       "it": "il set",
       "pt": "o conjunto",
       "ja": "セット",
       "zh": "一套",
-      "ru": "комплект"
+      "ru": "комплект",
+      "fr": "ensemble"
     },
     "examples": [],
     "meta": {},
@@ -27448,12 +27447,12 @@ const WORDS_PL_B2 = [
       "en": "cough",
       "de": "der Husten",
       "es": "la tos",
-      "pl": "kaszel",
       "it": "la tosse",
       "pt": "a tosse",
       "ja": "咳",
       "zh": "咳嗽",
-      "ru": "кашель"
+      "ru": "кашель",
+      "fr": "toux"
     },
     "examples": [],
     "meta": {},
@@ -27476,12 +27475,12 @@ const WORDS_PL_B2 = [
       "en": "arrival",
       "de": "die Ankunft",
       "es": "la llegada",
-      "pl": "przyjazd",
       "it": "l'arrivo",
       "pt": "a chegada",
       "ja": "到着",
       "zh": "到达",
-      "ru": "прибытие"
+      "ru": "прибытие",
+      "fr": "arrivée"
     },
     "examples": [],
     "meta": {},
@@ -27503,12 +27502,12 @@ const WORDS_PL_B2 = [
       "en": "companion",
       "de": "der Begleiter",
       "es": "el compañero",
-      "pl": "towarzysz",
       "it": "il compagno",
       "pt": "o companheiro",
       "ja": "仲間",
       "zh": "同伴",
-      "ru": "спутник"
+      "ru": "спутник",
+      "fr": "compagnon"
     },
     "examples": [],
     "meta": {},
@@ -27530,12 +27529,12 @@ const WORDS_PL_B2 = [
       "en": "jump",
       "de": "der Sprung",
       "es": "el salto",
-      "pl": "hop",
       "it": "il salto",
       "pt": "o salto",
       "ja": "ジャンプ",
       "zh": "跳跃",
-      "ru": "прыжок"
+      "ru": "прыжок",
+      "fr": "sauter"
     },
     "examples": [],
     "meta": {},
@@ -27558,12 +27557,12 @@ const WORDS_PL_B2 = [
       "en": "lodging",
       "de": "die Unterkunft",
       "es": "el alojamiento",
-      "pl": "kwatera",
       "it": "l'alloggio",
       "pt": "o alojamento",
       "ja": "宿泊施設",
       "zh": "住宿",
-      "ru": "квартира"
+      "ru": "квартира",
+      "fr": "logement"
     },
     "examples": [],
     "meta": {},
@@ -27586,12 +27585,12 @@ const WORDS_PL_B2 = [
       "en": "local",
       "de": "lokal",
       "es": "local",
-      "pl": "miejscowy",
       "it": "locale",
       "pt": "local",
       "ja": "地元の",
       "zh": "当地的",
-      "ru": "местный"
+      "ru": "местный",
+      "fr": "local"
     },
     "examples": [],
     "meta": {}
@@ -27612,12 +27611,12 @@ const WORDS_PL_B2 = [
       "en": "local person",
       "de": "der Einheimische",
       "es": "el lugareño",
-      "pl": "miejscowy",
       "it": "il locale",
       "pt": "o local",
       "ja": "地元の人",
       "zh": "当地人",
-      "ru": "местный житель"
+      "ru": "местный житель",
+      "fr": "habitant"
     },
     "examples": [],
     "meta": {},
@@ -27639,12 +27638,12 @@ const WORDS_PL_B2 = [
       "en": "climate",
       "de": "das Klima",
       "es": "el clima",
-      "pl": "klimat",
       "it": "il clima",
       "pt": "o clima",
       "ja": "気候",
       "zh": "气候",
-      "ru": "климат"
+      "ru": "климат",
+      "fr": "climat"
     },
     "examples": [],
     "meta": {},
@@ -27666,12 +27665,12 @@ const WORDS_PL_B2 = [
       "en": "hiding place",
       "de": "das Versteck",
       "es": "el escondite",
-      "pl": "kryjówka",
       "it": "il nascondiglio",
       "pt": "o esconderijo",
       "ja": "隠れ家",
       "zh": "藏身处",
-      "ru": "убежище"
+      "ru": "убежище",
+      "fr": "cachette"
     },
     "examples": [],
     "meta": {},
@@ -27694,12 +27693,12 @@ const WORDS_PL_B2 = [
       "en": "guardian",
       "de": "der Vormund",
       "es": "el tutor",
-      "pl": "opiekun",
       "it": "il tutore",
       "pt": "o tutor",
       "ja": "保護者",
       "zh": "监护人",
-      "ru": "опекун"
+      "ru": "опекун",
+      "fr": "gardien"
     },
     "examples": [],
     "meta": {},
@@ -27721,12 +27720,12 @@ const WORDS_PL_B2 = [
       "en": "dose",
       "de": "die Dosis",
       "es": "la dosis",
-      "pl": "dawka",
       "it": "la dose",
       "pt": "a dose",
       "ja": "服用量",
       "zh": "剂量",
-      "ru": "доза"
+      "ru": "доза",
+      "fr": "dose"
     },
     "examples": [],
     "meta": {},
@@ -27749,12 +27748,12 @@ const WORDS_PL_B2 = [
       "en": "route",
       "de": "die Route",
       "es": "la ruta",
-      "pl": "trasa",
       "it": "il percorso",
       "pt": "a rota",
       "ja": "ルート",
       "zh": "路线",
-      "ru": "маршрут"
+      "ru": "маршрут",
+      "fr": "route"
     },
     "examples": [],
     "meta": {},
@@ -27776,12 +27775,12 @@ const WORDS_PL_B2 = [
       "en": "argument",
       "de": "das Argument",
       "es": "el argumento",
-      "pl": "argument",
       "it": "l'argomento",
       "pt": "o argumento",
       "ja": "議論",
       "zh": "论点",
-      "ru": "аргумент"
+      "ru": "аргумент",
+      "fr": "argument"
     },
     "examples": [],
     "meta": {},
@@ -27802,12 +27801,12 @@ const WORDS_PL_B2 = [
       "en": "lucky woman",
       "de": "die Glückliche",
       "es": "la afortunada",
-      "pl": "szczęściara",
       "it": "la fortunata",
       "pt": "a sortuda",
       "ja": "幸運な女性",
       "zh": "幸运的女人",
-      "ru": "счастливица"
+      "ru": "счастливица",
+      "fr": "chanceuse"
     },
     "examples": [],
     "meta": {},
@@ -27829,12 +27828,12 @@ const WORDS_PL_B2 = [
       "en": "ray",
       "de": "der Strahl",
       "es": "el rayo",
-      "pl": "promień",
       "it": "il raggio",
       "pt": "o raio",
       "ja": "光線",
       "zh": "光线",
-      "ru": "луч"
+      "ru": "луч",
+      "fr": "rayon"
     },
     "examples": [],
     "meta": {},
@@ -27856,12 +27855,12 @@ const WORDS_PL_B2 = [
       "en": "gray",
       "de": "grau",
       "es": "gris",
-      "pl": "szary",
       "it": "grigio",
       "pt": "cinza",
       "ja": "灰色",
       "zh": "灰色",
-      "ru": "серый"
+      "ru": "серый",
+      "fr": "gris"
     },
     "examples": [],
     "meta": {}
@@ -27880,12 +27879,12 @@ const WORDS_PL_B2 = [
       "en": "money",
       "de": "das Geld",
       "es": "el dinero",
-      "pl": "szmal",
       "it": "il denaro",
       "pt": "o dinheiro",
       "ja": "金",
       "zh": "钱",
-      "ru": "деньги"
+      "ru": "деньги",
+      "fr": "argent"
     },
     "examples": [],
     "meta": {},
@@ -27906,12 +27905,12 @@ const WORDS_PL_B2 = [
       "en": "cork",
       "de": "der Korken",
       "es": "el corcho",
-      "pl": "korek",
       "it": "il tappo",
       "pt": "a rolha",
       "ja": "コルク",
       "zh": "软木塞",
-      "ru": "пробка"
+      "ru": "пробка",
+      "fr": "bouchon"
     },
     "examples": [],
     "meta": {},
@@ -27932,12 +27931,12 @@ const WORDS_PL_B2 = [
       "en": "orgasm",
       "de": "der Orgasmus",
       "es": "el orgasmo",
-      "pl": "orgazm",
       "it": "l'orgasmo",
       "pt": "o orgasmo",
       "ja": "オーガズム",
       "zh": "高潮",
-      "ru": "оргазм"
+      "ru": "оргазм",
+      "fr": "orgasme"
     },
     "examples": [],
     "meta": {},
@@ -27958,12 +27957,12 @@ const WORDS_PL_B2 = [
       "en": "rabbit fur",
       "de": "das Kaninchenfell",
       "es": "la piel de conejo",
-      "pl": "króliki",
       "it": "la pelliccia di coniglio",
       "pt": "a pele de coelho",
       "ja": "ウサギの毛皮",
       "zh": "兔毛",
-      "ru": "кроличий мех"
+      "ru": "кроличий мех",
+      "fr": "fourrure de lapin"
     },
     "examples": [],
     "meta": {},
@@ -27985,12 +27984,12 @@ const WORDS_PL_B2 = [
       "en": "liver",
       "de": "die Leber",
       "es": "el hígado",
-      "pl": "wątroba",
       "it": "il fegato",
       "pt": "o fígado",
       "ja": "肝臓",
       "zh": "肝脏",
-      "ru": "печень"
+      "ru": "печень",
+      "fr": "foie"
     },
     "examples": [],
     "meta": {},
@@ -28012,12 +28011,12 @@ const WORDS_PL_B2 = [
       "en": "chanterelle",
       "de": "der Pfifferling",
       "es": "el rebozuelo",
-      "pl": "kurka",
       "it": "il finferlo",
       "pt": "o cogumelo",
       "ja": "アンズタケ",
       "zh": "鸡油菌",
-      "ru": "лисичка"
+      "ru": "лисичка",
+      "fr": "girolle"
     },
     "examples": [],
     "meta": {},
@@ -28038,12 +28037,12 @@ const WORDS_PL_B2 = [
       "en": "crap",
       "de": "der Mist",
       "es": "la mierda",
-      "pl": "szajs",
       "it": "la merda",
       "pt": "a porcaria",
       "ja": "くそ",
       "zh": "垃圾",
-      "ru": "дерьмо"
+      "ru": "дерьмо",
+      "fr": "camelote"
     },
     "examples": [],
     "meta": {},
@@ -28065,12 +28064,12 @@ const WORDS_PL_B2 = [
       "en": "guess",
       "de": "raten",
       "es": "adivinar",
-      "pl": "zgadywać",
       "it": "indovinare",
       "pt": "adivinhar",
       "ja": "推測する",
       "zh": "猜测",
-      "ru": "угадывать"
+      "ru": "угадывать",
+      "fr": "deviner"
     },
     "examples": [],
     "meta": {},
@@ -28093,12 +28092,12 @@ const WORDS_PL_B2 = [
       "en": "rare",
       "de": "selten",
       "es": "raro",
-      "pl": "rzadki",
       "it": "raro",
       "pt": "raro",
       "ja": "珍しい",
       "zh": "稀有",
-      "ru": "редкий"
+      "ru": "редкий",
+      "fr": "rare"
     },
     "examples": [],
     "meta": {}
@@ -28117,12 +28116,12 @@ const WORDS_PL_B2 = [
       "en": "tip",
       "de": "die Spitze",
       "es": "la punta",
-      "pl": "czubek",
       "it": "la punta",
       "pt": "a ponta",
       "ja": "先端",
       "zh": "尖端",
-      "ru": "кончик"
+      "ru": "кончик",
+      "fr": "pointe"
     },
     "examples": [],
     "meta": {},
@@ -28144,12 +28143,12 @@ const WORDS_PL_B2 = [
       "en": "last",
       "de": "letzter",
       "es": "pasado",
-      "pl": "zeszły",
       "it": "scorso",
       "pt": "passado",
       "ja": "最後の",
       "zh": "过去",
-      "ru": "прошлый"
+      "ru": "прошлый",
+      "fr": "dernier"
     },
     "examples": [],
     "meta": {}
@@ -28168,12 +28167,12 @@ const WORDS_PL_B2 = [
       "en": "ulcer",
       "de": "das Geschwür",
       "es": "la úlcera",
-      "pl": "wrzód",
       "it": "l'ulcera",
       "pt": "a úlcera",
       "ja": "潰瘍",
       "zh": "溃疡",
-      "ru": "язва"
+      "ru": "язва",
+      "fr": "ulcère"
     },
     "examples": [],
     "meta": {},
@@ -28196,12 +28195,12 @@ const WORDS_PL_B2 = [
       "en": "equipment",
       "de": "die Ausrüstung",
       "es": "el equipo",
-      "pl": "wyposażenie",
       "it": "l'attrezzatura",
       "pt": "o equipamento",
       "ja": "設備",
       "zh": "设备",
-      "ru": "оборудование"
+      "ru": "оборудование",
+      "fr": "équipement"
     },
     "examples": [],
     "meta": {},
@@ -28222,12 +28221,12 @@ const WORDS_PL_B2 = [
       "en": "Border Protection Corps",
       "de": "das Grenzschutzkorps",
       "es": "el Cuerpo de Protección Fronteriza",
-      "pl": "KOP",
       "it": "il Corpo di Protezione di Confine",
       "pt": "o Corpo de Proteção de Fronteira",
       "ja": "国境警備隊",
       "zh": "边境保护部队",
-      "ru": "Корпус охраны пограничья"
+      "ru": "Корпус охраны пограничья",
+      "fr": "Corps de Protection des Frontières"
     },
     "examples": [],
     "meta": {},
@@ -28249,12 +28248,12 @@ const WORDS_PL_B2 = [
       "en": "balloon",
       "de": "der Ballon",
       "es": "el globo",
-      "pl": "balon",
       "it": "il palloncino",
       "pt": "o balão",
       "ja": "風船",
       "zh": "气球",
-      "ru": "воздушный шар"
+      "ru": "воздушный шар",
+      "fr": "ballon"
     },
     "examples": [],
     "meta": {},
@@ -28275,12 +28274,12 @@ const WORDS_PL_B2 = [
       "en": "breasts",
       "de": "die Brüste",
       "es": "los senos",
-      "pl": "balony",
       "it": "i seni",
       "pt": "os seios",
       "ja": "胸",
       "zh": "乳房",
-      "ru": "грудь"
+      "ru": "грудь",
+      "fr": "seins"
     },
     "examples": [],
     "meta": {},
@@ -28302,12 +28301,12 @@ const WORDS_PL_B2 = [
       "en": "tornado",
       "de": "der Tornado",
       "es": "el tornado",
-      "pl": "tornado",
       "it": "il tornado",
       "pt": "o tornado",
       "ja": "トルネード",
       "zh": "龙卷风",
-      "ru": "торнадо"
+      "ru": "торнадо",
+      "fr": "tornade"
     },
     "examples": [],
     "meta": {},
@@ -28328,12 +28327,12 @@ const WORDS_PL_B2 = [
       "en": "qualifications",
       "de": "die Qualifikationen",
       "es": "las cualificaciones",
-      "pl": "kwalifikacje",
       "it": "le qualifiche",
       "pt": "as qualificações",
       "ja": "資格",
       "zh": "资格",
-      "ru": "квалификации"
+      "ru": "квалификации",
+      "fr": "qualifications"
     },
     "examples": [],
     "meta": {},
@@ -28355,12 +28354,12 @@ const WORDS_PL_B2 = [
       "en": "force",
       "de": "zwingen",
       "es": "obligar",
-      "pl": "zmuszać",
       "it": "costringere",
       "pt": "forçar",
       "ja": "強制する",
       "zh": "强迫",
-      "ru": "принуждать"
+      "ru": "принуждать",
+      "fr": "forcer"
     },
     "examples": [],
     "meta": {},
@@ -28383,12 +28382,12 @@ const WORDS_PL_B2 = [
       "en": "repair",
       "de": "reparieren",
       "es": "reparar",
-      "pl": "naprawiać",
       "it": "riparare",
       "pt": "reparar",
       "ja": "修理する",
       "zh": "修理",
-      "ru": "ремонтировать"
+      "ru": "ремонтировать",
+      "fr": "réparer"
     },
     "examples": [],
     "meta": {},
@@ -28410,12 +28409,12 @@ const WORDS_PL_B2 = [
       "en": "mute woman",
       "de": "die Stumme",
       "es": "la muda",
-      "pl": "niema",
       "it": "la muta",
       "pt": "a muda",
       "ja": "口のきけない女性",
       "zh": "哑女",
-      "ru": "немая женщина"
+      "ru": "немая женщина",
+      "fr": "muette"
     },
     "examples": [],
     "meta": {},
@@ -28437,12 +28436,12 @@ const WORDS_PL_B2 = [
       "en": "pressure",
       "de": "der Druck",
       "es": "la presión",
-      "pl": "presja",
       "it": "la pressione",
       "pt": "a pressão",
       "ja": "プレッシャー",
       "zh": "压力",
-      "ru": "давление"
+      "ru": "давление",
+      "fr": "pression"
     },
     "examples": [],
     "meta": {},
@@ -28463,12 +28462,12 @@ const WORDS_PL_B2 = [
       "en": "matchmaker",
       "de": "der Heiratsvermittler",
       "es": "el casamentero",
-      "pl": "swat",
       "it": "il sensale",
       "pt": "o casamenteiro",
       "ja": "仲人",
       "zh": "媒人",
-      "ru": "сват"
+      "ru": "сват",
+      "fr": "entremetteur"
     },
     "examples": [],
     "meta": {},
@@ -28490,12 +28489,12 @@ const WORDS_PL_B2 = [
       "en": "emergency",
       "de": "Notfall",
       "es": "de emergencia",
-      "pl": "awaryjny",
       "it": "di emergenza",
       "pt": "de emergência",
       "ja": "緊急の",
       "zh": "紧急的",
-      "ru": "аварийный"
+      "ru": "аварийный",
+      "fr": "urgence"
     },
     "examples": [],
     "meta": {}
@@ -28514,12 +28513,12 @@ const WORDS_PL_B2 = [
       "en": "crazy",
       "de": "verrückt",
       "es": "loco",
-      "pl": "stuknięty",
       "it": "pazzo",
       "pt": "louco",
       "ja": "頭がおかしい",
       "zh": "疯了",
-      "ru": "чокнутый"
+      "ru": "чокнутый",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -28538,12 +28537,12 @@ const WORDS_PL_B2 = [
       "en": "truce",
       "de": "der Waffenstillstand",
       "es": "la tregua",
-      "pl": "rozejm",
       "it": "la tregua",
       "pt": "a trégua",
       "ja": "休戦",
       "zh": "休战",
-      "ru": "перемирие"
+      "ru": "перемирие",
+      "fr": "trêve"
     },
     "examples": [],
     "meta": {},
@@ -28565,12 +28564,12 @@ const WORDS_PL_B2 = [
       "en": "logo",
       "de": "das Logo",
       "es": "el logo",
-      "pl": "logo",
       "it": "il logo",
       "pt": "o logotipo",
       "ja": "ロゴ",
       "zh": "标志",
-      "ru": "логотип"
+      "ru": "логотип",
+      "fr": "logo"
     },
     "examples": [],
     "meta": {},
@@ -28592,12 +28591,12 @@ const WORDS_PL_B2 = [
       "en": "active",
       "de": "aktiv",
       "es": "activo",
-      "pl": "aktywny",
       "it": "attivo",
       "pt": "ativo",
       "ja": "活動的な",
       "zh": "活跃的",
-      "ru": "активный"
+      "ru": "активный",
+      "fr": "actif"
     },
     "examples": [],
     "meta": {}
@@ -28617,12 +28616,12 @@ const WORDS_PL_B2 = [
       "en": "scissors",
       "de": "die Schere",
       "es": "las tijeras",
-      "pl": "nożyczki",
       "it": "le forbici",
       "pt": "a tesoura",
       "ja": "はさみ",
       "zh": "剪刀",
-      "ru": "ножницы"
+      "ru": "ножницы",
+      "fr": "ciseaux"
     },
     "examples": [],
     "meta": {},
@@ -28643,12 +28642,12 @@ const WORDS_PL_B2 = [
       "en": "prosecutor's office",
       "de": "die Staatsanwaltschaft",
       "es": "la fiscalía",
-      "pl": "prokuratura",
       "it": "la procura",
       "pt": "a promotoria",
       "ja": "検察庁",
       "zh": "检察院",
-      "ru": "прокуратура"
+      "ru": "прокуратура",
+      "fr": "parquet"
     },
     "examples": [],
     "meta": {},
@@ -28670,12 +28669,12 @@ const WORDS_PL_B2 = [
       "en": "spider",
       "de": "die Spinne",
       "es": "la araña",
-      "pl": "pająk",
       "it": "il ragno",
       "pt": "a aranha",
       "ja": "クモ",
       "zh": "蜘蛛",
-      "ru": "паук"
+      "ru": "паук",
+      "fr": "araignée"
     },
     "examples": [],
     "meta": {},
@@ -28696,12 +28695,12 @@ const WORDS_PL_B2 = [
       "en": "plague",
       "de": "die Seuche",
       "es": "la plaga",
-      "pl": "zaraza",
       "it": "la peste",
       "pt": "a praga",
       "ja": "疫病",
       "zh": "瘟疫",
-      "ru": "чума"
+      "ru": "чума",
+      "fr": "peste"
     },
     "examples": [],
     "meta": {},
@@ -28723,12 +28722,12 @@ const WORDS_PL_B2 = [
       "en": "eliminate",
       "de": "eliminieren",
       "es": "eliminar",
-      "pl": "zlikwidować",
       "it": "eliminare",
       "pt": "eliminar",
       "ja": "排除する",
       "zh": "消除",
-      "ru": "ликвидировать"
+      "ru": "ликвидировать",
+      "fr": "éliminer"
     },
     "examples": [],
     "meta": {},
@@ -28751,12 +28750,12 @@ const WORDS_PL_B2 = [
       "en": "beach",
       "de": "der Strand",
       "es": "la playa",
-      "pl": "plaża",
       "it": "la spiaggia",
       "pt": "a praia",
       "ja": "ビーチ",
       "zh": "海滩",
-      "ru": "пляж"
+      "ru": "пляж",
+      "fr": "plage"
     },
     "examples": [],
     "meta": {},
@@ -28778,12 +28777,12 @@ const WORDS_PL_B2 = [
       "en": "glance",
       "de": "blicken",
       "es": "echar un vistazo",
-      "pl": "zerknąć",
       "it": "dare un'occhiata",
       "pt": "dar uma olhada",
       "ja": "ちらっと見る",
       "zh": "瞥一眼",
-      "ru": "взглянуть"
+      "ru": "взглянуть",
+      "fr": "apercevoir"
     },
     "examples": [],
     "meta": {},
@@ -28806,12 +28805,12 @@ const WORDS_PL_B2 = [
       "en": "reporter",
       "de": "der Reporter",
       "es": "el reportero",
-      "pl": "reporter",
       "it": "il reporter",
       "pt": "o repórter",
       "ja": "レポーター",
       "zh": "记者",
-      "ru": "репортёр"
+      "ru": "репортёр",
+      "fr": "reporter"
     },
     "examples": [],
     "meta": {},
@@ -28833,12 +28832,12 @@ const WORDS_PL_B2 = [
       "en": "count",
       "de": "zählen",
       "es": "contar",
-      "pl": "policzyć",
       "it": "contare",
       "pt": "contar",
       "ja": "数える",
       "zh": "数",
-      "ru": "посчитать"
+      "ru": "посчитать",
+      "fr": "compter"
     },
     "examples": [],
     "meta": {},
@@ -28860,12 +28859,12 @@ const WORDS_PL_B2 = [
       "en": "mastery",
       "de": "die Meisterschaft",
       "es": "la maestría",
-      "pl": "mistrzostwo",
       "it": "la maestria",
       "pt": "a maestria",
       "ja": "熟練",
       "zh": "精通",
-      "ru": "мастерство"
+      "ru": "мастерство",
+      "fr": "maîtrise"
     },
     "examples": [],
     "meta": {},

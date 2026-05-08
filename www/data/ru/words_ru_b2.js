@@ -1,4 +1,3 @@
-// RU B2 generated from release candidate
 const WORDS_RU_B2 = [
   {
     "id": "ru_2516",
@@ -18,7 +17,8 @@ const WORDS_RU_B2 = [
       "it": "sparare",
       "pt": "atirar",
       "ja": "発砲する",
-      "zh": "射击"
+      "zh": "射击",
+      "fr": "tirer"
     },
     "examples": [],
     "meta": {},
@@ -48,7 +48,8 @@ const WORDS_RU_B2 = [
       "it": "grande",
       "pt": "grande",
       "ja": "大きい",
-      "zh": "大的"
+      "zh": "大的",
+      "fr": "grand"
     },
     "examples": [],
     "meta": {},
@@ -74,7 +75,8 @@ const WORDS_RU_B2 = [
       "it": "il corpo",
       "pt": "o corpo",
       "ja": "胴体",
-      "zh": "身体"
+      "zh": "身体",
+      "fr": "corps"
     },
     "examples": [],
     "meta": {},
@@ -103,7 +105,8 @@ const WORDS_RU_B2 = [
       "it": "dopodomani",
       "pt": "depois de amanhã",
       "ja": "明後日",
-      "zh": "后天"
+      "zh": "后天",
+      "fr": "après-demain"
     },
     "examples": [],
     "meta": {},
@@ -131,7 +134,8 @@ const WORDS_RU_B2 = [
       "it": "abbattere",
       "pt": "derrubar",
       "ja": "打ち倒す",
-      "zh": "撞倒"
+      "zh": "撞倒",
+      "fr": "abattre"
     },
     "examples": [],
     "meta": {},
@@ -160,7 +164,8 @@ const WORDS_RU_B2 = [
       "it": "la suddivisione",
       "pt": "a subdivisão",
       "ja": "細分化",
-      "zh": "细分"
+      "zh": "细分",
+      "fr": "lotissement"
     },
     "examples": [],
     "meta": {},
@@ -189,7 +194,8 @@ const WORDS_RU_B2 = [
       "it": "la televisione",
       "pt": "a televisão",
       "ja": "テレビ",
-      "zh": "电视"
+      "zh": "电视",
+      "fr": "télévision"
     },
     "examples": [],
     "meta": {},
@@ -217,7 +223,8 @@ const WORDS_RU_B2 = [
       "it": "la sfortuna",
       "pt": "a desgraça",
       "ja": "不幸",
-      "zh": "不幸"
+      "zh": "不幸",
+      "fr": "malheur"
     },
     "examples": [],
     "meta": {},
@@ -245,7 +252,8 @@ const WORDS_RU_B2 = [
       "it": "cosmico",
       "pt": "cósmico",
       "ja": "宇宙の",
-      "zh": "宇宙的"
+      "zh": "宇宙的",
+      "fr": "cosmique"
     },
     "examples": [],
     "meta": {},
@@ -271,7 +279,8 @@ const WORDS_RU_B2 = [
       "it": "il fratello",
       "pt": "o irmão",
       "ja": "兄弟",
-      "zh": "兄弟"
+      "zh": "兄弟",
+      "fr": "frère"
     },
     "examples": [],
     "meta": {},
@@ -300,7 +309,8 @@ const WORDS_RU_B2 = [
       "it": "fermarsi",
       "pt": "parar",
       "ja": "止まる",
-      "zh": "停止"
+      "zh": "停止",
+      "fr": "arrêter"
     },
     "examples": [],
     "meta": {},
@@ -330,7 +340,8 @@ const WORDS_RU_B2 = [
       "it": "premere",
       "pt": "apertar",
       "ja": "押す",
-      "zh": "按"
+      "zh": "按",
+      "fr": "presser"
     },
     "examples": [],
     "meta": {},
@@ -360,7 +371,8 @@ const WORDS_RU_B2 = [
       "it": "desiderare",
       "pt": "desejar",
       "ja": "願う",
-      "zh": "希望"
+      "zh": "希望",
+      "fr": "souhait"
     },
     "examples": [],
     "meta": {},
@@ -390,7 +402,8 @@ const WORDS_RU_B2 = [
       "it": "l'avventura",
       "pt": "a aventura",
       "ja": "冒険",
-      "zh": "冒险"
+      "zh": "冒险",
+      "fr": "aventure"
     },
     "examples": [],
     "meta": {},
@@ -418,7 +431,8 @@ const WORDS_RU_B2 = [
       "it": "stare zitto",
       "pt": "calar a boca",
       "ja": "黙る",
-      "zh": "闭嘴"
+      "zh": "闭嘴",
+      "fr": "tais-toi"
     },
     "examples": [],
     "meta": {},
@@ -447,7 +461,8 @@ const WORDS_RU_B2 = [
       "it": "il baseball",
       "pt": "o beisebol",
       "ja": "野球",
-      "zh": "棒球"
+      "zh": "棒球",
+      "fr": "baseball"
     },
     "examples": [],
     "meta": {},
@@ -475,7 +490,8 @@ const WORDS_RU_B2 = [
       "it": "sparare a morte",
       "pt": "atirar para matar",
       "ja": "射殺する",
-      "zh": "射杀"
+      "zh": "射杀",
+      "fr": "abattre"
     },
     "examples": [],
     "meta": {},
@@ -505,7 +521,8 @@ const WORDS_RU_B2 = [
       "it": "la necessità",
       "pt": "a necessidade",
       "ja": "必要性",
-      "zh": "必要性"
+      "zh": "必要性",
+      "fr": "nécessité"
     },
     "examples": [],
     "meta": {},
@@ -534,7 +551,8 @@ const WORDS_RU_B2 = [
       "it": "l'isolato",
       "pt": "o quarteirão",
       "ja": "街区",
-      "zh": "街区"
+      "zh": "街区",
+      "fr": "îlot"
     },
     "examples": [],
     "meta": {},
@@ -563,7 +581,8 @@ const WORDS_RU_B2 = [
       "it": "la nutrizione",
       "pt": "a nutrição",
       "ja": "栄養",
-      "zh": "营养"
+      "zh": "营养",
+      "fr": "nutrition"
     },
     "examples": [],
     "meta": {},
@@ -592,7 +611,8 @@ const WORDS_RU_B2 = [
       "it": "sistemare",
       "pt": "estabelecer",
       "ja": "確立する",
-      "zh": "建立"
+      "zh": "建立",
+      "fr": "installer"
     },
     "examples": [],
     "meta": {},
@@ -622,7 +642,8 @@ const WORDS_RU_B2 = [
       "it": "il martini",
       "pt": "o martini",
       "ja": "マティーニ",
-      "zh": "马提尼"
+      "zh": "马提尼",
+      "fr": "martini"
     },
     "examples": [],
     "meta": {},
@@ -650,7 +671,8 @@ const WORDS_RU_B2 = [
       "it": "lasciare",
       "pt": "deixar",
       "ja": "立ち去る",
-      "zh": "离开"
+      "zh": "离开",
+      "fr": "partir"
     },
     "examples": [],
     "meta": {},
@@ -679,7 +701,8 @@ const WORDS_RU_B2 = [
       "it": "l'aborto",
       "pt": "o aborto",
       "ja": "堕胎",
-      "zh": "堕胎"
+      "zh": "堕胎",
+      "fr": "avortement"
     },
     "examples": [],
     "meta": {},
@@ -708,7 +731,8 @@ const WORDS_RU_B2 = [
       "it": "la votazione",
       "pt": "a votação",
       "ja": "投票",
-      "zh": "投票"
+      "zh": "投票",
+      "fr": "vote"
     },
     "examples": [],
     "meta": {},
@@ -736,7 +760,8 @@ const WORDS_RU_B2 = [
       "it": "il tessuto",
       "pt": "o tecido",
       "ja": "布",
-      "zh": "织物"
+      "zh": "织物",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {},
@@ -764,7 +789,8 @@ const WORDS_RU_B2 = [
       "it": "il parto",
       "pt": "o parto",
       "ja": "出産",
-      "zh": "分娩"
+      "zh": "分娩",
+      "fr": "accouchement"
     },
     "examples": [],
     "meta": {},
@@ -793,7 +819,8 @@ const WORDS_RU_B2 = [
       "it": "innamorarsi",
       "pt": "apaixonar-se",
       "ja": "恋に落ちる",
-      "zh": "爱上"
+      "zh": "爱上",
+      "fr": "s'éprendre"
     },
     "examples": [],
     "meta": {},
@@ -823,7 +850,8 @@ const WORDS_RU_B2 = [
       "it": "il sistema",
       "pt": "o sistema",
       "ja": "体制",
-      "zh": "制度"
+      "zh": "制度",
+      "fr": "système"
     },
     "examples": [],
     "meta": {},
@@ -852,7 +880,8 @@ const WORDS_RU_B2 = [
       "it": "sano",
       "pt": "saudável",
       "ja": "健康な",
-      "zh": "健康的"
+      "zh": "健康的",
+      "fr": "sain"
     },
     "examples": [],
     "meta": {},
@@ -878,7 +907,8 @@ const WORDS_RU_B2 = [
       "it": "l'ala",
       "pt": "a asa",
       "ja": "翼",
-      "zh": "翅膀"
+      "zh": "翅膀",
+      "fr": "aile"
     },
     "examples": [],
     "meta": {},
@@ -906,7 +936,8 @@ const WORDS_RU_B2 = [
       "it": "lo stupro",
       "pt": "o estupro",
       "ja": "レイプ",
-      "zh": "强奸"
+      "zh": "强奸",
+      "fr": "viol"
     },
     "examples": [],
     "meta": {},
@@ -935,7 +966,8 @@ const WORDS_RU_B2 = [
       "it": "escludere",
       "pt": "excluir",
       "ja": "除外する",
-      "zh": "排除"
+      "zh": "排除",
+      "fr": "exclure"
     },
     "examples": [],
     "meta": {},
@@ -965,7 +997,8 @@ const WORDS_RU_B2 = [
       "it": "il profilo",
       "pt": "o perfil",
       "ja": "プロフィール",
-      "zh": "侧面"
+      "zh": "侧面",
+      "fr": "profil"
     },
     "examples": [],
     "meta": {},
@@ -993,7 +1026,8 @@ const WORDS_RU_B2 = [
       "it": "la cosina",
       "pt": "a coisinha",
       "ja": "小物",
-      "zh": "小东西"
+      "zh": "小东西",
+      "fr": "petite chose"
     },
     "examples": [],
     "meta": {},
@@ -1022,7 +1056,8 @@ const WORDS_RU_B2 = [
       "it": "il secchio",
       "pt": "o balde",
       "ja": "バケツ",
-      "zh": "水桶"
+      "zh": "水桶",
+      "fr": "seau"
     },
     "examples": [],
     "meta": {},
@@ -1050,7 +1085,8 @@ const WORDS_RU_B2 = [
       "it": "lo psichiatra",
       "pt": "o psiquiatra",
       "ja": "精神科医",
-      "zh": "精神科医生"
+      "zh": "精神科医生",
+      "fr": "psychiatre"
     },
     "examples": [],
     "meta": {},
@@ -1078,7 +1114,8 @@ const WORDS_RU_B2 = [
       "it": "la posizione",
       "pt": "a posição",
       "ja": "位置",
-      "zh": "位置"
+      "zh": "位置",
+      "fr": "position"
     },
     "examples": [],
     "meta": {},
@@ -1107,7 +1144,8 @@ const WORDS_RU_B2 = [
       "it": "giovane",
       "pt": "jovem",
       "ja": "若い",
-      "zh": "年轻的"
+      "zh": "年轻的",
+      "fr": "jeune"
     },
     "examples": [],
     "meta": {},
@@ -1133,7 +1171,8 @@ const WORDS_RU_B2 = [
       "it": "lo stato",
       "pt": "o estado",
       "ja": "国家",
-      "zh": "国家"
+      "zh": "国家",
+      "fr": "état"
     },
     "examples": [],
     "meta": {},
@@ -1161,7 +1200,8 @@ const WORDS_RU_B2 = [
       "it": "il rituale",
       "pt": "o ritual",
       "ja": "儀式",
-      "zh": "仪式"
+      "zh": "仪式",
+      "fr": "rituel"
     },
     "examples": [],
     "meta": {},
@@ -1189,7 +1229,8 @@ const WORDS_RU_B2 = [
       "it": "professionale",
       "pt": "profissional",
       "ja": "専門的な",
-      "zh": "专业的"
+      "zh": "专业的",
+      "fr": "professionnel"
     },
     "examples": [],
     "meta": {},
@@ -1215,7 +1256,8 @@ const WORDS_RU_B2 = [
       "it": "il maestro",
       "pt": "o maestro",
       "ja": "マエストロ",
-      "zh": "大师"
+      "zh": "大师",
+      "fr": "maestro"
     },
     "examples": [],
     "meta": {},
@@ -1243,7 +1285,8 @@ const WORDS_RU_B2 = [
       "it": "la frattura",
       "pt": "a fratura",
       "ja": "骨折",
-      "zh": "骨折"
+      "zh": "骨折",
+      "fr": "fracture"
     },
     "examples": [],
     "meta": {},
@@ -1271,7 +1314,8 @@ const WORDS_RU_B2 = [
       "it": "arrampicarsi",
       "pt": "subir",
       "ja": "登る",
-      "zh": "爬进去"
+      "zh": "爬进去",
+      "fr": "monter dans"
     },
     "examples": [],
     "meta": {},
@@ -1300,7 +1344,8 @@ const WORDS_RU_B2 = [
       "it": "eseguire",
       "pt": "cumprir",
       "ja": "実行する",
-      "zh": "执行"
+      "zh": "执行",
+      "fr": "accomplir"
     },
     "examples": [],
     "meta": {},
@@ -1329,7 +1374,8 @@ const WORDS_RU_B2 = [
       "it": "abbassare",
       "pt": "abaixar",
       "ja": "下げる",
-      "zh": "放下"
+      "zh": "放下",
+      "fr": "baisser"
     },
     "examples": [],
     "meta": {},
@@ -1358,7 +1404,8 @@ const WORDS_RU_B2 = [
       "it": "finita",
       "pt": "acabado",
       "ja": "おしまい",
-      "zh": "完蛋了"
+      "zh": "完蛋了",
+      "fr": "condamné"
     },
     "examples": [],
     "meta": {},
@@ -1385,7 +1432,8 @@ const WORDS_RU_B2 = [
       "it": "il padre",
       "pt": "o padre",
       "ja": "神父",
-      "zh": "神父"
+      "zh": "神父",
+      "fr": "père"
     },
     "examples": [],
     "meta": {},
@@ -1414,7 +1462,8 @@ const WORDS_RU_B2 = [
       "it": "la fronte",
       "pt": "a testa",
       "ja": "額",
-      "zh": "额头"
+      "zh": "额头",
+      "fr": "front"
     },
     "examples": [],
     "meta": {},
@@ -1443,7 +1492,8 @@ const WORDS_RU_B2 = [
       "it": "la nota",
       "pt": "a nota",
       "ja": "メモ",
-      "zh": "便条"
+      "zh": "便条",
+      "fr": "note"
     },
     "examples": [],
     "meta": {},
@@ -1471,7 +1521,8 @@ const WORDS_RU_B2 = [
       "it": "il quartier generale",
       "pt": "o quartel-general",
       "ja": "本部",
-      "zh": "总部"
+      "zh": "总部",
+      "fr": "quartier général"
     },
     "examples": [],
     "meta": {},
@@ -1500,7 +1551,8 @@ const WORDS_RU_B2 = [
       "it": "l'aspetto",
       "pt": "a aparência",
       "ja": "外見",
-      "zh": "外表"
+      "zh": "外表",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {},
@@ -1529,7 +1581,8 @@ const WORDS_RU_B2 = [
       "it": "la cameriera",
       "pt": "a camareira",
       "ja": "メイド",
-      "zh": "女仆"
+      "zh": "女仆",
+      "fr": "femme de chambre"
     },
     "examples": [],
     "meta": {},
@@ -1557,7 +1610,8 @@ const WORDS_RU_B2 = [
       "it": "la categoria",
       "pt": "a categoria",
       "ja": "カテゴリ",
-      "zh": "类别"
+      "zh": "类别",
+      "fr": "catégorie"
     },
     "examples": [],
     "meta": {},
@@ -1585,7 +1639,8 @@ const WORDS_RU_B2 = [
       "it": "l'organismo",
       "pt": "o organismo",
       "ja": "生物",
-      "zh": "有机体"
+      "zh": "有机体",
+      "fr": "organisme"
     },
     "examples": [],
     "meta": {},
@@ -1614,7 +1669,8 @@ const WORDS_RU_B2 = [
       "it": "vero",
       "pt": "verdadeiro",
       "ja": "真実の",
-      "zh": "真实的"
+      "zh": "真实的",
+      "fr": "vrai"
     },
     "examples": [],
     "meta": {},
@@ -1641,7 +1697,8 @@ const WORDS_RU_B2 = [
       "it": "il rapporto",
       "pt": "o relatório",
       "ja": "報告",
-      "zh": "报告"
+      "zh": "报告",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {},
@@ -1669,7 +1726,8 @@ const WORDS_RU_B2 = [
       "it": "intraprendere",
       "pt": "empreender",
       "ja": "着手する",
-      "zh": "采取"
+      "zh": "采取",
+      "fr": "entreprendre"
     },
     "examples": [],
     "meta": {},
@@ -1699,7 +1757,8 @@ const WORDS_RU_B2 = [
       "it": "l'applauso",
       "pt": "o aplauso",
       "ja": "拍手",
-      "zh": "掌声"
+      "zh": "掌声",
+      "fr": "applaudissements"
     },
     "examples": [],
     "meta": {},
@@ -1728,7 +1787,8 @@ const WORDS_RU_B2 = [
       "it": "pulire",
       "pt": "limpar",
       "ja": "片付ける",
-      "zh": "打扫"
+      "zh": "打扫",
+      "fr": "nettoyer"
     },
     "examples": [],
     "meta": {},
@@ -1758,7 +1818,8 @@ const WORDS_RU_B2 = [
       "it": "raccogliere",
       "pt": "pegar",
       "ja": "拾う",
-      "zh": "捡起"
+      "zh": "捡起",
+      "fr": "ramasser"
     },
     "examples": [],
     "meta": {},
@@ -1788,7 +1849,8 @@ const WORDS_RU_B2 = [
       "it": "il perdono",
       "pt": "o perdão",
       "ja": "許し",
-      "zh": "宽恕"
+      "zh": "宽恕",
+      "fr": "pardon"
     },
     "examples": [],
     "meta": {},
@@ -1816,7 +1878,8 @@ const WORDS_RU_B2 = [
       "it": "il jersey",
       "pt": "o jérsei",
       "ja": "ジャージー",
-      "zh": "针织衫"
+      "zh": "针织衫",
+      "fr": "maillot"
     },
     "examples": [],
     "meta": {},
@@ -1845,7 +1908,8 @@ const WORDS_RU_B2 = [
       "it": "solitario",
       "pt": "solitário",
       "ja": "孤独な",
-      "zh": "孤独的"
+      "zh": "孤独的",
+      "fr": "solitaire"
     },
     "examples": [],
     "meta": {},
@@ -1872,7 +1936,8 @@ const WORDS_RU_B2 = [
       "it": "il listino prezzi",
       "pt": "a lista de preços",
       "ja": "価格表",
-      "zh": "价目表"
+      "zh": "价目表",
+      "fr": "tarif"
     },
     "examples": [],
     "meta": {},
@@ -1900,7 +1965,8 @@ const WORDS_RU_B2 = [
       "it": "strappare",
       "pt": "rasgar",
       "ja": "破る",
-      "zh": "撕裂"
+      "zh": "撕裂",
+      "fr": "larme"
     },
     "examples": [],
     "meta": {},
@@ -1929,7 +1995,8 @@ const WORDS_RU_B2 = [
       "it": "fare la guerra",
       "pt": "guerrear",
       "ja": "戦争する",
-      "zh": "作战"
+      "zh": "作战",
+      "fr": "guerroyer"
     },
     "examples": [],
     "meta": {},
@@ -1959,7 +2026,8 @@ const WORDS_RU_B2 = [
       "it": "inviare",
       "pt": "enviar",
       "ja": "送る",
-      "zh": "寄送"
+      "zh": "寄送",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -1988,7 +2056,8 @@ const WORDS_RU_B2 = [
       "it": "perquisire",
       "pt": "revistar",
       "ja": "捜索する",
-      "zh": "搜查"
+      "zh": "搜查",
+      "fr": "rechercher"
     },
     "examples": [],
     "meta": {},
@@ -2017,7 +2086,8 @@ const WORDS_RU_B2 = [
       "it": "il passo di danza",
       "pt": "o passo de dança",
       "ja": "ダンスステップ",
-      "zh": "舞步"
+      "zh": "舞步",
+      "fr": "pas"
     },
     "examples": [],
     "meta": {},
@@ -2046,7 +2116,8 @@ const WORDS_RU_B2 = [
       "it": "la tigre",
       "pt": "o tigre",
       "ja": "虎",
-      "zh": "老虎"
+      "zh": "老虎",
+      "fr": "tigre"
     },
     "examples": [],
     "meta": {},
@@ -2075,7 +2146,8 @@ const WORDS_RU_B2 = [
       "it": "il cavallo",
       "pt": "o cavalo",
       "ja": "馬",
-      "zh": "马"
+      "zh": "马",
+      "fr": "cheval"
     },
     "examples": [],
     "meta": {},
@@ -2103,7 +2175,8 @@ const WORDS_RU_B2 = [
       "it": "il termine",
       "pt": "o termo",
       "ja": "用語",
-      "zh": "术语"
+      "zh": "术语",
+      "fr": "terme"
     },
     "examples": [],
     "meta": {},
@@ -2132,7 +2205,8 @@ const WORDS_RU_B2 = [
       "it": "umano",
       "pt": "humano",
       "ja": "人間の",
-      "zh": "人的"
+      "zh": "人的",
+      "fr": "humain"
     },
     "examples": [],
     "meta": {},
@@ -2159,7 +2233,8 @@ const WORDS_RU_B2 = [
       "it": "lo stivale",
       "pt": "a bota",
       "ja": "ブーツ",
-      "zh": "靴子"
+      "zh": "靴子",
+      "fr": "botte"
     },
     "examples": [],
     "meta": {},
@@ -2187,7 +2262,8 @@ const WORDS_RU_B2 = [
       "it": "governare",
       "pt": "governar",
       "ja": "統治する",
-      "zh": "统治"
+      "zh": "统治",
+      "fr": "règle"
     },
     "examples": [],
     "meta": {},
@@ -2217,7 +2293,8 @@ const WORDS_RU_B2 = [
       "it": "il valore",
       "pt": "o valor",
       "ja": "価値",
-      "zh": "价值"
+      "zh": "价值",
+      "fr": "valeur"
     },
     "examples": [],
     "meta": {},
@@ -2246,7 +2323,8 @@ const WORDS_RU_B2 = [
       "it": "bere",
       "pt": "beber",
       "ja": "飲む",
-      "zh": "喝"
+      "zh": "喝",
+      "fr": "boire"
     },
     "examples": [],
     "meta": {},
@@ -2276,7 +2354,8 @@ const WORDS_RU_B2 = [
       "it": "l'assistente",
       "pt": "o assistente",
       "ja": "助手",
-      "zh": "助手"
+      "zh": "助手",
+      "fr": "assistant"
     },
     "examples": [],
     "meta": {},
@@ -2305,7 +2384,8 @@ const WORDS_RU_B2 = [
       "it": "coraggioso",
       "pt": "corajoso",
       "ja": "勇敢な",
-      "zh": "勇敢的"
+      "zh": "勇敢的",
+      "fr": "brave"
     },
     "examples": [],
     "meta": {},
@@ -2331,7 +2411,8 @@ const WORDS_RU_B2 = [
       "it": "la piroga",
       "pt": "a piroga",
       "ja": "丸木舟",
-      "zh": "独木舟"
+      "zh": "独木舟",
+      "fr": "pirogue"
     },
     "examples": [],
     "meta": {},
@@ -2361,7 +2442,8 @@ const WORDS_RU_B2 = [
       "it": "il cameriere",
       "pt": "o garçom",
       "ja": "ウェイター",
-      "zh": "服务员"
+      "zh": "服务员",
+      "fr": "serveur"
     },
     "examples": [],
     "meta": {},
@@ -2390,7 +2472,8 @@ const WORDS_RU_B2 = [
       "it": "la raccolta",
       "pt": "a coleção",
       "ja": "収集",
-      "zh": "收集"
+      "zh": "收集",
+      "fr": "collection"
     },
     "examples": [],
     "meta": {},
@@ -2419,7 +2502,8 @@ const WORDS_RU_B2 = [
       "it": "il tradimento",
       "pt": "a traição",
       "ja": "裏切り",
-      "zh": "背叛"
+      "zh": "背叛",
+      "fr": "trahison"
     },
     "examples": [],
     "meta": {},
@@ -2448,7 +2532,8 @@ const WORDS_RU_B2 = [
       "it": "attaccare",
       "pt": "atacar",
       "ja": "攻撃する",
-      "zh": "攻击"
+      "zh": "攻击",
+      "fr": "attaque"
     },
     "examples": [],
     "meta": {},
@@ -2478,7 +2563,8 @@ const WORDS_RU_B2 = [
       "it": "trattenere",
       "pt": "conter",
       "ja": "抑える",
-      "zh": "抑制"
+      "zh": "抑制",
+      "fr": "retenir"
     },
     "examples": [],
     "meta": {},
@@ -2508,7 +2594,8 @@ const WORDS_RU_B2 = [
       "it": "apparire",
       "pt": "aparecer",
       "ja": "現れる",
-      "zh": "出现"
+      "zh": "出现",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {},
@@ -2538,7 +2625,8 @@ const WORDS_RU_B2 = [
       "it": "obiettare",
       "pt": "objetar",
       "ja": "反対する",
-      "zh": "反对"
+      "zh": "反对",
+      "fr": "objet"
     },
     "examples": [],
     "meta": {},
@@ -2567,7 +2655,8 @@ const WORDS_RU_B2 = [
       "it": "il maniaco",
       "pt": "o maníaco",
       "ja": "マニア",
-      "zh": "狂人"
+      "zh": "狂人",
+      "fr": "maniaque"
     },
     "examples": [],
     "meta": {},
@@ -2595,7 +2684,8 @@ const WORDS_RU_B2 = [
       "it": "sparare a morte",
       "pt": "atirar para matar",
       "ja": "射殺する",
-      "zh": "射杀"
+      "zh": "射杀",
+      "fr": "tuer"
     },
     "examples": [],
     "meta": {},
@@ -2624,7 +2714,8 @@ const WORDS_RU_B2 = [
       "it": "il sol",
       "pt": "o sol",
       "ja": "ソル",
-      "zh": "火星日"
+      "zh": "火星日",
+      "fr": "sol"
     },
     "examples": [],
     "meta": {},
@@ -2653,7 +2744,8 @@ const WORDS_RU_B2 = [
       "it": "la cintura",
       "pt": "o cinto",
       "ja": "ベルト",
-      "zh": "腰带"
+      "zh": "腰带",
+      "fr": "ceinture"
     },
     "examples": [],
     "meta": {},
@@ -2682,7 +2774,8 @@ const WORDS_RU_B2 = [
       "it": "l'impermeabile",
       "pt": "a capa de chuva",
       "ja": "レインコート",
-      "zh": "雨衣"
+      "zh": "雨衣",
+      "fr": "imperméable"
     },
     "examples": [],
     "meta": {},
@@ -2710,7 +2803,8 @@ const WORDS_RU_B2 = [
       "it": "la stoa",
       "pt": "a estoa",
       "ja": "ストア",
-      "zh": "柱廊"
+      "zh": "柱廊",
+      "fr": "portique"
     },
     "examples": [],
     "meta": {},
@@ -2739,7 +2833,8 @@ const WORDS_RU_B2 = [
       "it": "supporre",
       "pt": "supor",
       "ja": "仮定する",
-      "zh": "认为"
+      "zh": "认为",
+      "fr": "supposer"
     },
     "examples": [],
     "meta": {},
@@ -2769,7 +2864,8 @@ const WORDS_RU_B2 = [
       "it": "soleggiato",
       "pt": "ensolarado",
       "ja": "晴れた",
-      "zh": "阳光充足的"
+      "zh": "阳光充足的",
+      "fr": "ensoleillé"
     },
     "examples": [],
     "meta": {},
@@ -2796,7 +2892,8 @@ const WORDS_RU_B2 = [
       "it": "spaventare",
       "pt": "assustar",
       "ja": "怖がらせる",
-      "zh": "吓唬"
+      "zh": "吓唬",
+      "fr": "effrayer"
     },
     "examples": [],
     "meta": {},
@@ -2826,7 +2923,8 @@ const WORDS_RU_B2 = [
       "it": "la norma",
       "pt": "a norma",
       "ja": "規範",
-      "zh": "规范"
+      "zh": "规范",
+      "fr": "norme"
     },
     "examples": [],
     "meta": {},
@@ -2855,7 +2953,8 @@ const WORDS_RU_B2 = [
       "it": "medio",
       "pt": "médio",
       "ja": "中間の",
-      "zh": "中等的"
+      "zh": "中等的",
+      "fr": "milieu"
     },
     "examples": [],
     "meta": {},
@@ -2882,7 +2981,8 @@ const WORDS_RU_B2 = [
       "it": "il divieto",
       "pt": "a proibição",
       "ja": "禁止",
-      "zh": "禁止"
+      "zh": "禁止",
+      "fr": "interdiction"
     },
     "examples": [],
     "meta": {},
@@ -2910,7 +3010,8 @@ const WORDS_RU_B2 = [
       "it": "il fico",
       "pt": "o figo",
       "ja": "イチジク",
-      "zh": "无花果"
+      "zh": "无花果",
+      "fr": "figue"
     },
     "examples": [],
     "meta": {},
@@ -2939,7 +3040,8 @@ const WORDS_RU_B2 = [
       "it": "il gesto",
       "pt": "o gesto",
       "ja": "ジェスチャー",
-      "zh": "手势"
+      "zh": "手势",
+      "fr": "geste"
     },
     "examples": [],
     "meta": {},
@@ -2968,7 +3070,8 @@ const WORDS_RU_B2 = [
       "it": "urlare",
       "pt": "gritar",
       "ja": "叫ぶ",
-      "zh": "喊叫"
+      "zh": "喊叫",
+      "fr": "crier"
     },
     "examples": [],
     "meta": {},
@@ -2998,7 +3101,8 @@ const WORDS_RU_B2 = [
       "it": "l'anno",
       "pt": "o ano",
       "ja": "年",
-      "zh": "年"
+      "zh": "年",
+      "fr": "année"
     },
     "examples": [],
     "meta": {},
@@ -3026,7 +3130,8 @@ const WORDS_RU_B2 = [
       "it": "il fulmine",
       "pt": "o relâmpago",
       "ja": "雷",
-      "zh": "闪电"
+      "zh": "闪电",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {},
@@ -3054,7 +3159,8 @@ const WORDS_RU_B2 = [
       "it": "il coraggio",
       "pt": "a coragem",
       "ja": "勇気",
-      "zh": "勇气"
+      "zh": "勇气",
+      "fr": "courage"
     },
     "examples": [],
     "meta": {},
@@ -3083,7 +3189,8 @@ const WORDS_RU_B2 = [
       "it": "la riserva",
       "pt": "a reserva",
       "ja": "備蓄",
-      "zh": "储备"
+      "zh": "储备",
+      "fr": "réserve"
     },
     "examples": [],
     "meta": {},
@@ -3112,7 +3219,8 @@ const WORDS_RU_B2 = [
       "it": "il reportage",
       "pt": "a reportagem",
       "ja": "報道",
-      "zh": "报道"
+      "zh": "报道",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {},
@@ -3140,7 +3248,8 @@ const WORDS_RU_B2 = [
       "it": "la sincronizzazione",
       "pt": "a sincronização",
       "ja": "同期",
-      "zh": "同步"
+      "zh": "同步",
+      "fr": "synchronisation"
     },
     "examples": [],
     "meta": {},
@@ -3168,7 +3277,8 @@ const WORDS_RU_B2 = [
       "it": "la forza",
       "pt": "a força",
       "ja": "強さ",
-      "zh": "强度"
+      "zh": "强度",
+      "fr": "force"
     },
     "examples": [],
     "meta": {},
@@ -3197,7 +3307,8 @@ const WORDS_RU_B2 = [
       "it": "il parente",
       "pt": "o parente",
       "ja": "親戚",
-      "zh": "亲戚"
+      "zh": "亲戚",
+      "fr": "relatif"
     },
     "examples": [],
     "meta": {},
@@ -3225,7 +3336,8 @@ const WORDS_RU_B2 = [
       "it": "la cianfrusaglia",
       "pt": "o lixo",
       "ja": "がらくた",
-      "zh": "垃圾"
+      "zh": "垃圾",
+      "fr": "camelote"
     },
     "examples": [],
     "meta": {},
@@ -3253,7 +3365,8 @@ const WORDS_RU_B2 = [
       "it": "il rango",
       "pt": "a patente",
       "ja": "階級",
-      "zh": "军衔"
+      "zh": "军衔",
+      "fr": "rang"
     },
     "examples": [],
     "meta": {},
@@ -3282,7 +3395,8 @@ const WORDS_RU_B2 = [
       "it": "il barista",
       "pt": "o barman",
       "ja": "バーテンダー",
-      "zh": "调酒师"
+      "zh": "调酒师",
+      "fr": "barman"
     },
     "examples": [],
     "meta": {},
@@ -3311,7 +3425,8 @@ const WORDS_RU_B2 = [
       "it": "richiamare",
       "pt": "ligar de volta",
       "ja": "折り返す",
-      "zh": "回电话"
+      "zh": "回电话",
+      "fr": "rappeler"
     },
     "examples": [],
     "meta": {},
@@ -3341,7 +3456,8 @@ const WORDS_RU_B2 = [
       "it": "svegliarsi",
       "pt": "acordar",
       "ja": "目覚める",
-      "zh": "醒来"
+      "zh": "醒来",
+      "fr": "réveiller"
     },
     "examples": [],
     "meta": {},
@@ -3371,7 +3487,8 @@ const WORDS_RU_B2 = [
       "it": "fare una passeggiata",
       "pt": "dar um passeio",
       "ja": "散歩する",
-      "zh": "散步"
+      "zh": "散步",
+      "fr": "promener"
     },
     "examples": [],
     "meta": {},
@@ -3401,7 +3518,8 @@ const WORDS_RU_B2 = [
       "it": "l'attività",
       "pt": "a atividade",
       "ja": "活動",
-      "zh": "活动"
+      "zh": "活动",
+      "fr": "activité"
     },
     "examples": [],
     "meta": {},
@@ -3430,7 +3548,8 @@ const WORDS_RU_B2 = [
       "it": "indicare",
       "pt": "apontar",
       "ja": "指摘する",
-      "zh": "指出"
+      "zh": "指出",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {},
@@ -3459,7 +3578,8 @@ const WORDS_RU_B2 = [
       "it": "la solitudine",
       "pt": "a solidão",
       "ja": "孤独",
-      "zh": "孤独"
+      "zh": "孤独",
+      "fr": "solitude"
     },
     "examples": [],
     "meta": {},
@@ -3488,7 +3608,8 @@ const WORDS_RU_B2 = [
       "it": "sollevare",
       "pt": "levantar",
       "ja": "持ち上げる",
-      "zh": "举起"
+      "zh": "举起",
+      "fr": "ascenseur"
     },
     "examples": [],
     "meta": {},
@@ -3518,7 +3639,8 @@ const WORDS_RU_B2 = [
       "it": "il servizio",
       "pt": "o serviço",
       "ja": "サービス",
-      "zh": "服务"
+      "zh": "服务",
+      "fr": "service"
     },
     "examples": [],
     "meta": {},
@@ -3547,7 +3669,8 @@ const WORDS_RU_B2 = [
       "it": "il trasporto",
       "pt": "o transporte",
       "ja": "輸送",
-      "zh": "运输"
+      "zh": "运输",
+      "fr": "transport"
     },
     "examples": [],
     "meta": {},
@@ -3575,7 +3698,8 @@ const WORDS_RU_B2 = [
       "it": "l'ego",
       "pt": "o ego",
       "ja": "エゴ",
-      "zh": "自我"
+      "zh": "自我",
+      "fr": "ego"
     },
     "examples": [],
     "meta": {},
@@ -3603,7 +3727,8 @@ const WORDS_RU_B2 = [
       "it": "sperimentare",
       "pt": "experimentar",
       "ja": "経験する",
-      "zh": "体验"
+      "zh": "体验",
+      "fr": "expérience"
     },
     "examples": [],
     "meta": {},
@@ -3633,7 +3758,8 @@ const WORDS_RU_B2 = [
       "it": "segreto",
       "pt": "secreto",
       "ja": "秘密の",
-      "zh": "秘密的"
+      "zh": "秘密的",
+      "fr": "secret"
     },
     "examples": [],
     "meta": {},
@@ -3660,7 +3786,8 @@ const WORDS_RU_B2 = [
       "it": "togliere",
       "pt": "tirar",
       "ja": "奪う",
-      "zh": "夺走"
+      "zh": "夺走",
+      "fr": "emporter"
     },
     "examples": [],
     "meta": {},
@@ -3690,7 +3817,8 @@ const WORDS_RU_B2 = [
       "it": "la mancia",
       "pt": "a gorjeta",
       "ja": "チップ",
-      "zh": "小费"
+      "zh": "小费",
+      "fr": "conseil"
     },
     "examples": [],
     "meta": {},
@@ -3718,7 +3846,8 @@ const WORDS_RU_B2 = [
       "it": "il piccone",
       "pt": "a picareta",
       "ja": "つるはし",
-      "zh": "镐"
+      "zh": "镐",
+      "fr": "pioche"
     },
     "examples": [],
     "meta": {},
@@ -3747,7 +3876,8 @@ const WORDS_RU_B2 = [
       "it": "il giornale",
       "pt": "o jornal",
       "ja": "新聞",
-      "zh": "报纸"
+      "zh": "报纸",
+      "fr": "journal"
     },
     "examples": [],
     "meta": {},
@@ -3777,7 +3907,8 @@ const WORDS_RU_B2 = [
       "it": "ringraziare",
       "pt": "agradecer",
       "ja": "感謝する",
-      "zh": "感谢"
+      "zh": "感谢",
+      "fr": "remercier"
     },
     "examples": [],
     "meta": {},
@@ -3807,7 +3938,8 @@ const WORDS_RU_B2 = [
       "it": "il ragazzo",
       "pt": "o menino",
       "ja": "少年",
-      "zh": "男孩"
+      "zh": "男孩",
+      "fr": "garçon"
     },
     "examples": [],
     "meta": {},
@@ -3837,7 +3969,8 @@ const WORDS_RU_B2 = [
       "it": "la scorta",
       "pt": "o estoque",
       "ja": "在庫",
-      "zh": "库存"
+      "zh": "库存",
+      "fr": "stock"
     },
     "examples": [],
     "meta": {},
@@ -3865,7 +3998,8 @@ const WORDS_RU_B2 = [
       "it": "il nastro adesivo",
       "pt": "a fita adesiva",
       "ja": "スコッチテープ",
-      "zh": "胶带"
+      "zh": "胶带",
+      "fr": "scotch"
     },
     "examples": [],
     "meta": {},
@@ -3894,7 +4028,8 @@ const WORDS_RU_B2 = [
       "it": "contattare",
       "pt": "entrar em contato",
       "ja": "連絡する",
-      "zh": "联系"
+      "zh": "联系",
+      "fr": "contacter"
     },
     "examples": [],
     "meta": {},
@@ -3924,7 +4059,8 @@ const WORDS_RU_B2 = [
       "it": "tagliare via",
       "pt": "cortar",
       "ja": "切り取る",
-      "zh": "剪掉"
+      "zh": "剪掉",
+      "fr": "couper"
     },
     "examples": [],
     "meta": {},
@@ -3954,7 +4090,8 @@ const WORDS_RU_B2 = [
       "it": "perdere",
       "pt": "perder",
       "ja": "逃す",
-      "zh": "错过"
+      "zh": "错过",
+      "fr": "manquer"
     },
     "examples": [],
     "meta": {},
@@ -3984,7 +4121,8 @@ const WORDS_RU_B2 = [
       "it": "battere",
       "pt": "bater",
       "ja": "打つ",
-      "zh": "打"
+      "zh": "打",
+      "fr": "battre"
     },
     "examples": [],
     "meta": {},
@@ -4014,7 +4152,8 @@ const WORDS_RU_B2 = [
       "it": "l'erba",
       "pt": "a grama",
       "ja": "草",
-      "zh": "草"
+      "zh": "草",
+      "fr": "herbe"
     },
     "examples": [],
     "meta": {},
@@ -4043,7 +4182,8 @@ const WORDS_RU_B2 = [
       "it": "rosa",
       "pt": "rosa",
       "ja": "ピンクの",
-      "zh": "粉红色的"
+      "zh": "粉红色的",
+      "fr": "rose"
     },
     "examples": [],
     "meta": {},
@@ -4070,7 +4210,8 @@ const WORDS_RU_B2 = [
       "it": "il ritardo",
       "pt": "o atraso",
       "ja": "遅刻",
-      "zh": "迟到"
+      "zh": "迟到",
+      "fr": "retard"
     },
     "examples": [],
     "meta": {},
@@ -4099,7 +4240,8 @@ const WORDS_RU_B2 = [
       "it": "il difetto",
       "pt": "a deficiência",
       "ja": "欠点",
-      "zh": "缺点"
+      "zh": "缺点",
+      "fr": "lacune"
     },
     "examples": [],
     "meta": {},
@@ -4128,7 +4270,8 @@ const WORDS_RU_B2 = [
       "it": "la perdita",
       "pt": "o vazamento",
       "ja": "漏洩",
-      "zh": "泄漏"
+      "zh": "泄漏",
+      "fr": "fuite"
     },
     "examples": [],
     "meta": {},
@@ -4156,7 +4299,8 @@ const WORDS_RU_B2 = [
       "it": "la smorfia",
       "pt": "a careta",
       "ja": "しかめっ面",
-      "zh": "鬼脸"
+      "zh": "鬼脸",
+      "fr": "grimace"
     },
     "examples": [],
     "meta": {},
@@ -4185,7 +4329,8 @@ const WORDS_RU_B2 = [
       "it": "portare via",
       "pt": "levar embora",
       "ja": "連れ去る",
-      "zh": "带走"
+      "zh": "带走",
+      "fr": "éloigner"
     },
     "examples": [],
     "meta": {},
@@ -4215,7 +4360,8 @@ const WORDS_RU_B2 = [
       "it": "chiudere a chiave",
       "pt": "trancar",
       "ja": "鍵をかける",
-      "zh": "锁"
+      "zh": "锁",
+      "fr": "serrure"
     },
     "examples": [],
     "meta": {},
@@ -4244,7 +4390,8 @@ const WORDS_RU_B2 = [
       "it": "lo yankee",
       "pt": "o ianque",
       "ja": "ヤンキー",
-      "zh": "扬基"
+      "zh": "扬基",
+      "fr": "Yankee"
     },
     "examples": [],
     "meta": {},
@@ -4272,7 +4419,8 @@ const WORDS_RU_B2 = [
       "it": "la ferita",
       "pt": "o ferimento",
       "ja": "負傷",
-      "zh": "受伤"
+      "zh": "受伤",
+      "fr": "blessure"
     },
     "examples": [],
     "meta": {},
@@ -4301,7 +4449,8 @@ const WORDS_RU_B2 = [
       "it": "tirare",
       "pt": "puxar",
       "ja": "引く",
-      "zh": "拉"
+      "zh": "拉",
+      "fr": "tirer"
     },
     "examples": [],
     "meta": {},
@@ -4330,7 +4479,8 @@ const WORDS_RU_B2 = [
       "it": "il duca",
       "pt": "o duque",
       "ja": "公爵",
-      "zh": "公爵"
+      "zh": "公爵",
+      "fr": "duc"
     },
     "examples": [],
     "meta": {},
@@ -4358,7 +4508,8 @@ const WORDS_RU_B2 = [
       "it": "pazzo",
       "pt": "louco",
       "ja": "狂った",
-      "zh": "疯狂的"
+      "zh": "疯狂的",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {},
@@ -4384,7 +4535,8 @@ const WORDS_RU_B2 = [
       "it": "l'eredità",
       "pt": "a herança",
       "ja": "遺産",
-      "zh": "遗产"
+      "zh": "遗产",
+      "fr": "héritage"
     },
     "examples": [],
     "meta": {},
@@ -4412,7 +4564,8 @@ const WORDS_RU_B2 = [
       "it": "visitare",
       "pt": "visitar",
       "ja": "訪ねる",
-      "zh": "探望"
+      "zh": "探望",
+      "fr": "visite"
     },
     "examples": [],
     "meta": {},
@@ -4441,7 +4594,8 @@ const WORDS_RU_B2 = [
       "it": "la follia",
       "pt": "a loucura",
       "ja": "愚かさ",
-      "zh": "愚蠢"
+      "zh": "愚蠢",
+      "fr": "folie"
     },
     "examples": [],
     "meta": {},
@@ -4469,7 +4623,8 @@ const WORDS_RU_B2 = [
       "it": "la persona intelligente",
       "pt": "a pessoa inteligente",
       "ja": "利口者",
-      "zh": "聪明人"
+      "zh": "聪明人",
+      "fr": "malin"
     },
     "examples": [],
     "meta": {},
@@ -4497,7 +4652,8 @@ const WORDS_RU_B2 = [
       "it": "il raggio",
       "pt": "o raio",
       "ja": "光線",
-      "zh": "光线"
+      "zh": "光线",
+      "fr": "rayon"
     },
     "examples": [],
     "meta": {},
@@ -4525,7 +4681,8 @@ const WORDS_RU_B2 = [
       "it": "privare",
       "pt": "privar",
       "ja": "奪う",
-      "zh": "剥夺"
+      "zh": "剥夺",
+      "fr": "priver"
     },
     "examples": [],
     "meta": {},
@@ -4554,7 +4711,8 @@ const WORDS_RU_B2 = [
       "it": "l'iniezione",
       "pt": "a injeção",
       "ja": "注射",
-      "zh": "注射"
+      "zh": "注射",
+      "fr": "injection"
     },
     "examples": [],
     "meta": {},
@@ -4582,7 +4740,8 @@ const WORDS_RU_B2 = [
       "it": "l'ironia",
       "pt": "a ironia",
       "ja": "皮肉",
-      "zh": "讽刺"
+      "zh": "讽刺",
+      "fr": "ironie"
     },
     "examples": [],
     "meta": {},
@@ -4610,7 +4769,8 @@ const WORDS_RU_B2 = [
       "it": "l'umano",
       "pt": "o humano",
       "ja": "人間性",
-      "zh": "人性"
+      "zh": "人性",
+      "fr": "humanité"
     },
     "examples": [],
     "meta": {},
@@ -4638,7 +4798,8 @@ const WORDS_RU_B2 = [
       "it": "rapinare",
       "pt": "roubar",
       "ja": "強奪する",
-      "zh": "抢劫"
+      "zh": "抢劫",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {},
@@ -4668,7 +4829,8 @@ const WORDS_RU_B2 = [
       "it": "la carta",
       "pt": "o cartão",
       "ja": "カード",
-      "zh": "卡片"
+      "zh": "卡片",
+      "fr": "carte"
     },
     "examples": [],
     "meta": {},
@@ -4697,7 +4859,8 @@ const WORDS_RU_B2 = [
       "it": "la nascita",
       "pt": "o nascimento",
       "ja": "誕生",
-      "zh": "出生"
+      "zh": "出生",
+      "fr": "naissance"
     },
     "examples": [],
     "meta": {},
@@ -4725,7 +4888,8 @@ const WORDS_RU_B2 = [
       "it": "nascondersi",
       "pt": "esconder-se",
       "ja": "隠れる",
-      "zh": "躲藏"
+      "zh": "躲藏",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {},
@@ -4754,7 +4918,8 @@ const WORDS_RU_B2 = [
       "it": "la pratica",
       "pt": "a prática",
       "ja": "実践",
-      "zh": "实践"
+      "zh": "实践",
+      "fr": "pratique"
     },
     "examples": [],
     "meta": {},
@@ -4782,7 +4947,8 @@ const WORDS_RU_B2 = [
       "it": "dirigere",
       "pt": "direcionar",
       "ja": "向ける",
-      "zh": "指导"
+      "zh": "指导",
+      "fr": "direct"
     },
     "examples": [],
     "meta": {},
@@ -4811,7 +4977,8 @@ const WORDS_RU_B2 = [
       "it": "la catena",
       "pt": "a corrente",
       "ja": "鎖",
-      "zh": "链"
+      "zh": "链",
+      "fr": "chaîne"
     },
     "examples": [],
     "meta": {},
@@ -4839,7 +5006,8 @@ const WORDS_RU_B2 = [
       "it": "la prova",
       "pt": "a prova",
       "ja": "証拠",
-      "zh": "证据"
+      "zh": "证据",
+      "fr": "preuve"
     },
     "examples": [],
     "meta": {},
@@ -4869,7 +5037,8 @@ const WORDS_RU_B2 = [
       "it": "il fidanzato",
       "pt": "o namorado",
       "ja": "彼氏",
-      "zh": "男朋友"
+      "zh": "男朋友",
+      "fr": "petit ami"
     },
     "examples": [],
     "meta": {},
@@ -4898,7 +5067,8 @@ const WORDS_RU_B2 = [
       "it": "il consulente",
       "pt": "o consultor",
       "ja": "コンサルタント",
-      "zh": "顾问"
+      "zh": "顾问",
+      "fr": "consultant"
     },
     "examples": [],
     "meta": {},
@@ -4926,7 +5096,8 @@ const WORDS_RU_B2 = [
       "it": "la conoscenza",
       "pt": "o conhecimento",
       "ja": "知識",
-      "zh": "知识"
+      "zh": "知识",
+      "fr": "connaissance"
     },
     "examples": [],
     "meta": {},
@@ -4955,7 +5126,8 @@ const WORDS_RU_B2 = [
       "it": "il frutto",
       "pt": "o fruto",
       "ja": "果実",
-      "zh": "果实"
+      "zh": "果实",
+      "fr": "fruit"
     },
     "examples": [],
     "meta": {},
@@ -4983,7 +5155,8 @@ const WORDS_RU_B2 = [
       "it": "la lite",
       "pt": "a briga",
       "ja": "口論",
-      "zh": "争吵"
+      "zh": "争吵",
+      "fr": "querelle"
     },
     "examples": [],
     "meta": {},
@@ -5013,7 +5186,8 @@ const WORDS_RU_B2 = [
       "it": "il partner",
       "pt": "o parceiro",
       "ja": "パートナー",
-      "zh": "伙伴"
+      "zh": "伙伴",
+      "fr": "partenaire"
     },
     "examples": [],
     "meta": {},
@@ -5043,7 +5217,8 @@ const WORDS_RU_B2 = [
       "it": "informare",
       "pt": "informar",
       "ja": "知らせる",
-      "zh": "通知"
+      "zh": "通知",
+      "fr": "informer"
     },
     "examples": [],
     "meta": {},
@@ -5074,7 +5249,8 @@ const WORDS_RU_B2 = [
       "it": "l'ingegnere",
       "pt": "o engenheiro",
       "ja": "エンジニア",
-      "zh": "工程师"
+      "zh": "工程师",
+      "fr": "ingénieur"
     },
     "examples": [],
     "meta": {},
@@ -5102,7 +5278,8 @@ const WORDS_RU_B2 = [
       "it": "la sparatoria",
       "pt": "o tiro",
       "ja": "射撃",
-      "zh": "射击"
+      "zh": "射击",
+      "fr": "tir"
     },
     "examples": [],
     "meta": {},
@@ -5130,7 +5307,8 @@ const WORDS_RU_B2 = [
       "it": "il cowboy",
       "pt": "o caubói",
       "ja": "カウボーイ",
-      "zh": "牛仔"
+      "zh": "牛仔",
+      "fr": "cow-boy"
     },
     "examples": [],
     "meta": {},
@@ -5159,7 +5337,8 @@ const WORDS_RU_B2 = [
       "it": "il razzo",
       "pt": "o foguete",
       "ja": "ロケット",
-      "zh": "火箭"
+      "zh": "火箭",
+      "fr": "fusée"
     },
     "examples": [],
     "meta": {},
@@ -5188,7 +5367,8 @@ const WORDS_RU_B2 = [
       "it": "la rabbia",
       "pt": "a raiva",
       "ja": "怒り",
-      "zh": "愤怒"
+      "zh": "愤怒",
+      "fr": "colère"
     },
     "examples": [],
     "meta": {},
@@ -5218,7 +5398,8 @@ const WORDS_RU_B2 = [
       "it": "il visitatore",
       "pt": "o visitante",
       "ja": "訪問者",
-      "zh": "访客"
+      "zh": "访客",
+      "fr": "visiteur"
     },
     "examples": [],
     "meta": {},
@@ -5247,7 +5428,8 @@ const WORDS_RU_B2 = [
       "it": "finire",
       "pt": "terminar",
       "ja": "終わる",
-      "zh": "结束"
+      "zh": "结束",
+      "fr": "fin"
     },
     "examples": [],
     "meta": {},
@@ -5277,7 +5459,8 @@ const WORDS_RU_B2 = [
       "it": "rubare",
       "pt": "roubar",
       "ja": "盗む",
-      "zh": "偷"
+      "zh": "偷",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {},
@@ -5308,7 +5491,8 @@ const WORDS_RU_B2 = [
       "it": "il contenuto",
       "pt": "o conteúdo",
       "ja": "内容",
-      "zh": "内容"
+      "zh": "内容",
+      "fr": "contenu"
     },
     "examples": [],
     "meta": {},
@@ -5336,7 +5520,8 @@ const WORDS_RU_B2 = [
       "it": "le mutandine",
       "pt": "as calcinhas",
       "ja": "パンティー",
-      "zh": "内裤"
+      "zh": "内裤",
+      "fr": "culotte"
     },
     "examples": [],
     "meta": {},
@@ -5365,7 +5550,8 @@ const WORDS_RU_B2 = [
       "it": "estrarre",
       "pt": "extrair",
       "ja": "抽出する",
-      "zh": "提取"
+      "zh": "提取",
+      "fr": "extraire"
     },
     "examples": [],
     "meta": {},
@@ -5395,7 +5581,8 @@ const WORDS_RU_B2 = [
       "it": "baciarsi",
       "pt": "beijar",
       "ja": "キスする",
-      "zh": "亲吻"
+      "zh": "亲吻",
+      "fr": "baiser"
     },
     "examples": [],
     "meta": {},
@@ -5425,7 +5612,8 @@ const WORDS_RU_B2 = [
       "it": "investigare",
       "pt": "investigar",
       "ja": "調査する",
-      "zh": "调查"
+      "zh": "调查",
+      "fr": "enquêter"
     },
     "examples": [],
     "meta": {},
@@ -5455,7 +5643,8 @@ const WORDS_RU_B2 = [
       "it": "l'aroma",
       "pt": "o aroma",
       "ja": "香り",
-      "zh": "香气"
+      "zh": "香气",
+      "fr": "arôme"
     },
     "examples": [],
     "meta": {},
@@ -5484,7 +5673,8 @@ const WORDS_RU_B2 = [
       "it": "il nipote",
       "pt": "o neto",
       "ja": "孫",
-      "zh": "孙子"
+      "zh": "孙子",
+      "fr": "petit-fils"
     },
     "examples": [],
     "meta": {},
@@ -5512,7 +5702,8 @@ const WORDS_RU_B2 = [
       "it": "la freccetta",
       "pt": "a flecha pequena",
       "ja": "小さな矢",
-      "zh": "小箭"
+      "zh": "小箭",
+      "fr": "petite flèche"
     },
     "examples": [],
     "meta": {},
@@ -5540,7 +5731,8 @@ const WORDS_RU_B2 = [
       "it": "il combattente",
       "pt": "o lutador",
       "ja": "戦士",
-      "zh": "战士"
+      "zh": "战士",
+      "fr": "combattant"
     },
     "examples": [],
     "meta": {},
@@ -5568,7 +5760,8 @@ const WORDS_RU_B2 = [
       "it": "l'assurdità",
       "pt": "o absurdo",
       "ja": "不条理",
-      "zh": "荒谬"
+      "zh": "荒谬",
+      "fr": "absurdité"
     },
     "examples": [],
     "meta": {},
@@ -5596,7 +5789,8 @@ const WORDS_RU_B2 = [
       "it": "il settore",
       "pt": "o setor",
       "ja": "セクター",
-      "zh": "部门"
+      "zh": "部门",
+      "fr": "secteur"
     },
     "examples": [],
     "meta": {},
@@ -5625,7 +5819,8 @@ const WORDS_RU_B2 = [
       "it": "l'evento",
       "pt": "o evento",
       "ja": "イベント",
-      "zh": "活动"
+      "zh": "活动",
+      "fr": "événement"
     },
     "examples": [],
     "meta": {},
@@ -5654,7 +5849,8 @@ const WORDS_RU_B2 = [
       "it": "promettere",
       "pt": "prometer",
       "ja": "約束する",
-      "zh": "承诺"
+      "zh": "承诺",
+      "fr": "promesse"
     },
     "examples": [],
     "meta": {},
@@ -5684,7 +5880,8 @@ const WORDS_RU_B2 = [
       "it": "il collo",
       "pt": "o pescoço",
       "ja": "首",
-      "zh": "脖子"
+      "zh": "脖子",
+      "fr": "cou"
     },
     "examples": [],
     "meta": {},
@@ -5712,7 +5909,8 @@ const WORDS_RU_B2 = [
       "it": "augurare",
       "pt": "desejar",
       "ja": "願う",
-      "zh": "祝愿"
+      "zh": "祝愿",
+      "fr": "souhait"
     },
     "examples": [],
     "meta": {},
@@ -5742,7 +5940,8 @@ const WORDS_RU_B2 = [
       "it": "ritirarsi",
       "pt": "recuar",
       "ja": "後退する",
-      "zh": "撤退"
+      "zh": "撤退",
+      "fr": "retraite"
     },
     "examples": [],
     "meta": {},
@@ -5771,7 +5970,8 @@ const WORDS_RU_B2 = [
       "it": "lasciare andare",
       "pt": "soltar",
       "ja": "放す",
-      "zh": "放开"
+      "zh": "放开",
+      "fr": "lâcher"
     },
     "examples": [],
     "meta": {},
@@ -5800,7 +6000,8 @@ const WORDS_RU_B2 = [
       "it": "il nido",
       "pt": "o ninho",
       "ja": "巣",
-      "zh": "巢"
+      "zh": "巢",
+      "fr": "nid"
     },
     "examples": [],
     "meta": {},
@@ -5828,7 +6029,8 @@ const WORDS_RU_B2 = [
       "it": "la depressione",
       "pt": "a depressão",
       "ja": "うつ病",
-      "zh": "抑郁症"
+      "zh": "抑郁症",
+      "fr": "dépression"
     },
     "examples": [],
     "meta": {},
@@ -5856,7 +6058,8 @@ const WORDS_RU_B2 = [
       "it": "crescere",
       "pt": "crescer",
       "ja": "育てる",
-      "zh": "培养"
+      "zh": "培养",
+      "fr": "grandir"
     },
     "examples": [],
     "meta": {},
@@ -5886,7 +6089,8 @@ const WORDS_RU_B2 = [
       "it": "l'avventura",
       "pt": "a aventura",
       "ja": "冒険",
-      "zh": "冒险"
+      "zh": "冒险",
+      "fr": "aventure"
     },
     "examples": [],
     "meta": {},
@@ -5915,7 +6119,8 @@ const WORDS_RU_B2 = [
       "it": "il tunnel",
       "pt": "o túnel",
       "ja": "トンネル",
-      "zh": "隧道"
+      "zh": "隧道",
+      "fr": "tunnel"
     },
     "examples": [],
     "meta": {},
@@ -5944,7 +6149,8 @@ const WORDS_RU_B2 = [
       "it": "i jeans",
       "pt": "os jeans",
       "ja": "ジーンズ",
-      "zh": "牛仔裤"
+      "zh": "牛仔裤",
+      "fr": "jean"
     },
     "examples": [],
     "meta": {},
@@ -5972,7 +6178,8 @@ const WORDS_RU_B2 = [
       "it": "sordo",
       "pt": "surdo",
       "ja": "耳が聞こえない",
-      "zh": "聋的"
+      "zh": "聋的",
+      "fr": "sourd"
     },
     "examples": [],
     "meta": {},
@@ -5998,7 +6205,8 @@ const WORDS_RU_B2 = [
       "it": "vedere spesso",
       "pt": "ver frequentemente",
       "ja": "よく見る",
-      "zh": "常见"
+      "zh": "常见",
+      "fr": "voir souvent"
     },
     "examples": [],
     "meta": {},
@@ -6028,7 +6236,8 @@ const WORDS_RU_B2 = [
       "it": "lavare",
       "pt": "lavar",
       "ja": "洗う",
-      "zh": "洗"
+      "zh": "洗",
+      "fr": "laver"
     },
     "examples": [],
     "meta": {},
@@ -6057,7 +6266,8 @@ const WORDS_RU_B2 = [
       "it": "il caldo",
       "pt": "o calor",
       "ja": "暑さ",
-      "zh": "炎热"
+      "zh": "炎热",
+      "fr": "chaleur"
     },
     "examples": [],
     "meta": {},
@@ -6085,7 +6295,8 @@ const WORDS_RU_B2 = [
       "it": "la piccolezza",
       "pt": "a bagatela",
       "ja": "少量",
-      "zh": "少量"
+      "zh": "少量",
+      "fr": "bagatelle"
     },
     "examples": [],
     "meta": {},
@@ -6114,7 +6325,8 @@ const WORDS_RU_B2 = [
       "it": "l'adolescente",
       "pt": "o adolescente",
       "ja": "ティーンエイジャー",
-      "zh": "青少年"
+      "zh": "青少年",
+      "fr": "adolescent"
     },
     "examples": [],
     "meta": {},
@@ -6143,7 +6355,8 @@ const WORDS_RU_B2 = [
       "it": "gli spaghetti",
       "pt": "o espaguete",
       "ja": "スパゲッティ",
-      "zh": "意大利面"
+      "zh": "意大利面",
+      "fr": "spaghetti"
     },
     "examples": [],
     "meta": {},
@@ -6172,7 +6385,8 @@ const WORDS_RU_B2 = [
       "it": "il difensore",
       "pt": "o defensor",
       "ja": "守備者",
-      "zh": "防守者"
+      "zh": "防守者",
+      "fr": "défenseur"
     },
     "examples": [],
     "meta": {},
@@ -6201,7 +6415,8 @@ const WORDS_RU_B2 = [
       "it": "la strategia",
       "pt": "a estratégia",
       "ja": "戦略",
-      "zh": "战略"
+      "zh": "战略",
+      "fr": "stratégie"
     },
     "examples": [],
     "meta": {},
@@ -6229,7 +6444,8 @@ const WORDS_RU_B2 = [
       "it": "la verità",
       "pt": "a verdade",
       "ja": "真実",
-      "zh": "真理"
+      "zh": "真理",
+      "fr": "vérité"
     },
     "examples": [],
     "meta": {},
@@ -6258,7 +6474,8 @@ const WORDS_RU_B2 = [
       "it": "la signora",
       "pt": "a senhora",
       "ja": "夫人",
-      "zh": "夫人"
+      "zh": "夫人",
+      "fr": "Madame"
     },
     "examples": [],
     "meta": {},
@@ -6286,7 +6503,8 @@ const WORDS_RU_B2 = [
       "it": "un certo",
       "pt": "um certo",
       "ja": "ある",
-      "zh": "某个"
+      "zh": "某个",
+      "fr": "certain"
     },
     "examples": [],
     "meta": {},
@@ -6312,7 +6530,8 @@ const WORDS_RU_B2 = [
       "it": "il furto",
       "pt": "o roubo",
       "ja": "窃盗",
-      "zh": "盗窃"
+      "zh": "盗窃",
+      "fr": "vol"
     },
     "examples": [],
     "meta": {},
@@ -6341,7 +6560,8 @@ const WORDS_RU_B2 = [
       "it": "l'ambiente",
       "pt": "o ambiente",
       "ja": "環境",
-      "zh": "环境"
+      "zh": "环境",
+      "fr": "environnement"
     },
     "examples": [],
     "meta": {},
@@ -6370,7 +6590,8 @@ const WORDS_RU_B2 = [
       "it": "sapere",
       "pt": "saber",
       "ja": "できる",
-      "zh": "会"
+      "zh": "会",
+      "fr": "pouvoir"
     },
     "examples": [],
     "meta": {},
@@ -6400,7 +6621,8 @@ const WORDS_RU_B2 = [
       "it": "il corridoio",
       "pt": "o corredor",
       "ja": "廊下",
-      "zh": "走廊"
+      "zh": "走廊",
+      "fr": "couloir"
     },
     "examples": [],
     "meta": {},
@@ -6429,7 +6651,8 @@ const WORDS_RU_B2 = [
       "it": "la giacca",
       "pt": "o casaco",
       "ja": "ジャケット",
-      "zh": "夹克"
+      "zh": "夹克",
+      "fr": "veste"
     },
     "examples": [],
     "meta": {},
@@ -6458,7 +6681,8 @@ const WORDS_RU_B2 = [
       "it": "il cambiamento",
       "pt": "a mudança",
       "ja": "変化",
-      "zh": "变化"
+      "zh": "变化",
+      "fr": "changement"
     },
     "examples": [],
     "meta": {},
@@ -6487,7 +6711,8 @@ const WORDS_RU_B2 = [
       "it": "l'aragosta",
       "pt": "o lagosta",
       "ja": "ロブスター",
-      "zh": "龙虾"
+      "zh": "龙虾",
+      "fr": "homard"
     },
     "examples": [],
     "meta": {},
@@ -6516,7 +6741,8 @@ const WORDS_RU_B2 = [
       "it": "portare a",
       "pt": "levar a",
       "ja": "連れて行く",
-      "zh": "带到"
+      "zh": "带到",
+      "fr": "apporter"
     },
     "examples": [],
     "meta": {},
@@ -6547,7 +6773,8 @@ const WORDS_RU_B2 = [
       "it": "la cittadina",
       "pt": "a pequena cidade",
       "ja": "小さな町",
-      "zh": "小镇"
+      "zh": "小镇",
+      "fr": "petite ville"
     },
     "examples": [],
     "meta": {},
@@ -6577,7 +6804,8 @@ const WORDS_RU_B2 = [
       "it": "pernottare",
       "pt": "pernoitar",
       "ja": "泊まる",
-      "zh": "过夜"
+      "zh": "过夜",
+      "fr": "passer la nuit"
     },
     "examples": [],
     "meta": {},
@@ -6607,7 +6835,8 @@ const WORDS_RU_B2 = [
       "it": "cambiare idea",
       "pt": "mudar de ideia",
       "ja": "考え直す",
-      "zh": "改变主意"
+      "zh": "改变主意",
+      "fr": "changer d'avis"
     },
     "examples": [],
     "meta": {},
@@ -6637,7 +6866,8 @@ const WORDS_RU_B2 = [
       "it": "testare",
       "pt": "testar",
       "ja": "試験する",
-      "zh": "试验"
+      "zh": "试验",
+      "fr": "tester"
     },
     "examples": [],
     "meta": {},
@@ -6667,7 +6897,8 @@ const WORDS_RU_B2 = [
       "it": "innamorarsi",
       "pt": "apaixonar-se",
       "ja": "恋に落ちる",
-      "zh": "坠入爱河"
+      "zh": "坠入爱河",
+      "fr": "tomber amoureux"
     },
     "examples": [],
     "meta": {},
@@ -6698,7 +6929,8 @@ const WORDS_RU_B2 = [
       "it": "il carburante",
       "pt": "o combustível",
       "ja": "燃料",
-      "zh": "燃料"
+      "zh": "燃料",
+      "fr": "carburant"
     },
     "examples": [],
     "meta": {},
@@ -6727,7 +6959,8 @@ const WORDS_RU_B2 = [
       "it": "introdurre",
       "pt": "introduzir",
       "ja": "導入する",
-      "zh": "引入"
+      "zh": "引入",
+      "fr": "faire entrer"
     },
     "examples": [],
     "meta": {},
@@ -6757,7 +6990,8 @@ const WORDS_RU_B2 = [
       "it": "i parenti stretti",
       "pt": "os parentes próximos",
       "ja": "親しい人々",
-      "zh": "亲人"
+      "zh": "亲人",
+      "fr": "proches"
     },
     "examples": [],
     "meta": {},
@@ -6787,7 +7021,8 @@ const WORDS_RU_B2 = [
       "it": "allenarsi",
       "pt": "treinar",
       "ja": "訓練する",
-      "zh": "训练"
+      "zh": "训练",
+      "fr": "entraîner"
     },
     "examples": [],
     "meta": {},
@@ -6817,7 +7052,8 @@ const WORDS_RU_B2 = [
       "it": "inviare",
       "pt": "enviar",
       "ja": "送る",
-      "zh": "发送"
+      "zh": "发送",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -6846,7 +7082,8 @@ const WORDS_RU_B2 = [
       "it": "il roentgen",
       "pt": "o roentgen",
       "ja": "レントゲン",
-      "zh": "伦琴"
+      "zh": "伦琴",
+      "fr": "roentgen"
     },
     "examples": [],
     "meta": {},
@@ -6875,7 +7112,8 @@ const WORDS_RU_B2 = [
       "it": "il mascalzone",
       "pt": "o canalha",
       "ja": "悪党",
-      "zh": "恶棍"
+      "zh": "恶棍",
+      "fr": "canaille"
     },
     "examples": [],
     "meta": {},
@@ -6904,7 +7142,8 @@ const WORDS_RU_B2 = [
       "it": "migliorare",
       "pt": "melhorar",
       "ja": "改善する",
-      "zh": "改善"
+      "zh": "改善",
+      "fr": "améliorer"
     },
     "examples": [],
     "meta": {},
@@ -6934,7 +7173,8 @@ const WORDS_RU_B2 = [
       "it": "tradire",
       "pt": "trair",
       "ja": "裏切る",
-      "zh": "背叛"
+      "zh": "背叛",
+      "fr": "trahir"
     },
     "examples": [],
     "meta": {},
@@ -6964,7 +7204,8 @@ const WORDS_RU_B2 = [
       "it": "versare",
       "pt": "derramar",
       "ja": "注ぐ",
-      "zh": "倒"
+      "zh": "倒",
+      "fr": "verser"
     },
     "examples": [],
     "meta": {},
@@ -6993,7 +7234,8 @@ const WORDS_RU_B2 = [
       "it": "il gatto Rex",
       "pt": "o gato Rex",
       "ja": "レックス猫",
-      "zh": "卷毛猫"
+      "zh": "卷毛猫",
+      "fr": "chat Rex"
     },
     "examples": [],
     "meta": {},
@@ -7023,7 +7265,8 @@ const WORDS_RU_B2 = [
       "it": "il pagamento",
       "pt": "o pagamento",
       "ja": "支払い",
-      "zh": "付款"
+      "zh": "付款",
+      "fr": "paiement"
     },
     "examples": [],
     "meta": {},
@@ -7052,7 +7295,8 @@ const WORDS_RU_B2 = [
       "it": "riferire",
       "pt": "relatar",
       "ja": "報告する",
-      "zh": "报告"
+      "zh": "报告",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {},
@@ -7082,7 +7326,8 @@ const WORDS_RU_B2 = [
       "it": "l'appello",
       "pt": "o apelo",
       "ja": "呼びかけ",
-      "zh": "呼吁"
+      "zh": "呼吁",
+      "fr": "appel"
     },
     "examples": [],
     "meta": {},
@@ -7111,7 +7356,8 @@ const WORDS_RU_B2 = [
       "it": "superfluo",
       "pt": "supérfluo",
       "ja": "余分な",
-      "zh": "多余的"
+      "zh": "多余的",
+      "fr": "superflu"
     },
     "examples": [],
     "meta": {},
@@ -7138,7 +7384,8 @@ const WORDS_RU_B2 = [
       "it": "affermare",
       "pt": "afirmar",
       "ja": "主張する",
-      "zh": "断言"
+      "zh": "断言",
+      "fr": "affirmer"
     },
     "examples": [],
     "meta": {},
@@ -7168,7 +7415,8 @@ const WORDS_RU_B2 = [
       "it": "affilato",
       "pt": "afiado",
       "ja": "鋭い",
-      "zh": "锋利的"
+      "zh": "锋利的",
+      "fr": "aigu"
     },
     "examples": [],
     "meta": {},
@@ -7195,7 +7443,8 @@ const WORDS_RU_B2 = [
       "it": "sinistro",
       "pt": "esquerdo",
       "ja": "左の",
-      "zh": "左边的"
+      "zh": "左边的",
+      "fr": "gauche"
     },
     "examples": [],
     "meta": {},
@@ -7222,7 +7471,8 @@ const WORDS_RU_B2 = [
       "it": "farsi strada",
       "pt": "abrir caminho",
       "ja": "押し進む",
-      "zh": "挤过去"
+      "zh": "挤过去",
+      "fr": "se frayer un chemin"
     },
     "examples": [],
     "meta": {},
@@ -7252,7 +7502,8 @@ const WORDS_RU_B2 = [
       "it": "la fame",
       "pt": "a fome",
       "ja": "空腹",
-      "zh": "饥饿"
+      "zh": "饥饿",
+      "fr": "faim"
     },
     "examples": [],
     "meta": {},
@@ -7280,7 +7531,8 @@ const WORDS_RU_B2 = [
       "it": "il comando",
       "pt": "o comando",
       "ja": "指揮",
-      "zh": "指挥"
+      "zh": "指挥",
+      "fr": "commander"
     },
     "examples": [],
     "meta": {},
@@ -7309,7 +7561,8 @@ const WORDS_RU_B2 = [
       "it": "pesante",
       "pt": "pesado",
       "ja": "重い",
-      "zh": "重的"
+      "zh": "重的",
+      "fr": "lourd"
     },
     "examples": [],
     "meta": {},
@@ -7336,7 +7589,8 @@ const WORDS_RU_B2 = [
       "it": "osservare",
       "pt": "observar",
       "ja": "遵守する",
-      "zh": "遵守"
+      "zh": "遵守",
+      "fr": "observer"
     },
     "examples": [],
     "meta": {},
@@ -7366,7 +7620,8 @@ const WORDS_RU_B2 = [
       "it": "fingere",
       "pt": "fingir",
       "ja": "ふりをする",
-      "zh": "假装"
+      "zh": "假装",
+      "fr": "faire semblant"
     },
     "examples": [],
     "meta": {},
@@ -7396,7 +7651,8 @@ const WORDS_RU_B2 = [
       "it": "sedersi",
       "pt": "sentar-se",
       "ja": "座る",
-      "zh": "坐下"
+      "zh": "坐下",
+      "fr": "s'asseoir"
     },
     "examples": [],
     "meta": {},
@@ -7425,7 +7681,8 @@ const WORDS_RU_B2 = [
       "it": "l'amelia",
       "pt": "a amelia",
       "ja": "無肢症",
-      "zh": "无肢畸形"
+      "zh": "无肢畸形",
+      "fr": "Amélia"
     },
     "examples": [],
     "meta": {},
@@ -7453,7 +7710,8 @@ const WORDS_RU_B2 = [
       "it": "la fiche",
       "pt": "a ficha",
       "ja": "チップ",
-      "zh": "筹码"
+      "zh": "筹码",
+      "fr": "puce"
     },
     "examples": [],
     "meta": {},
@@ -7483,7 +7741,8 @@ const WORDS_RU_B2 = [
       "it": "la protesta",
       "pt": "o protesto",
       "ja": "抗議",
-      "zh": "抗议"
+      "zh": "抗议",
+      "fr": "protester"
     },
     "examples": [],
     "meta": {},
@@ -7511,7 +7770,8 @@ const WORDS_RU_B2 = [
       "it": "il telecomando",
       "pt": "o controle remoto",
       "ja": "リモコン",
-      "zh": "遥控器"
+      "zh": "遥控器",
+      "fr": "télécommande"
     },
     "examples": [],
     "meta": {},
@@ -7541,7 +7801,8 @@ const WORDS_RU_B2 = [
       "it": "cinese",
       "pt": "chinês",
       "ja": "中国の",
-      "zh": "中国的"
+      "zh": "中国的",
+      "fr": "chinois"
     },
     "examples": [],
     "meta": {},
@@ -7568,7 +7829,8 @@ const WORDS_RU_B2 = [
       "it": "la cipolla",
       "pt": "a cebola",
       "ja": "玉ねぎ",
-      "zh": "洋葱"
+      "zh": "洋葱",
+      "fr": "oignon"
     },
     "examples": [],
     "meta": {},
@@ -7596,7 +7858,8 @@ const WORDS_RU_B2 = [
       "it": "l'apparizione",
       "pt": "o aparecimento",
       "ja": "出現",
-      "zh": "出现"
+      "zh": "出现",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {},
@@ -7624,7 +7887,8 @@ const WORDS_RU_B2 = [
       "it": "grasso",
       "pt": "gordo",
       "ja": "脂肪の多い",
-      "zh": "脂肪多的"
+      "zh": "脂肪多的",
+      "fr": "gras"
     },
     "examples": [],
     "meta": {},
@@ -7650,7 +7914,8 @@ const WORDS_RU_B2 = [
       "it": "la grandezza",
       "pt": "a grandeza",
       "ja": "偉大さ",
-      "zh": "伟大"
+      "zh": "伟大",
+      "fr": "grandeur"
     },
     "examples": [],
     "meta": {},
@@ -7679,7 +7944,8 @@ const WORDS_RU_B2 = [
       "it": "espellere",
       "pt": "expulsar",
       "ja": "追放する",
-      "zh": "驱逐"
+      "zh": "驱逐",
+      "fr": "expulser"
     },
     "examples": [],
     "meta": {},
@@ -7709,7 +7975,8 @@ const WORDS_RU_B2 = [
       "it": "riunirsi",
       "pt": "reunir-se",
       "ja": "集まる",
-      "zh": "聚集"
+      "zh": "聚集",
+      "fr": "rassembler"
     },
     "examples": [],
     "meta": {},
@@ -7738,7 +8005,8 @@ const WORDS_RU_B2 = [
       "it": "ferire",
       "pt": "ferir",
       "ja": "傷つける",
-      "zh": "伤害"
+      "zh": "伤害",
+      "fr": "blessure"
     },
     "examples": [],
     "meta": {},
@@ -7767,7 +8035,8 @@ const WORDS_RU_B2 = [
       "it": "investigare",
       "pt": "investigar",
       "ja": "調査する",
-      "zh": "调查"
+      "zh": "调查",
+      "fr": "enquêter"
     },
     "examples": [],
     "meta": {},
@@ -7797,7 +8066,8 @@ const WORDS_RU_B2 = [
       "it": "cavarsela",
       "pt": "lidar",
       "ja": "対処する",
-      "zh": "应付"
+      "zh": "应付",
+      "fr": "faire face"
     },
     "examples": [],
     "meta": {},
@@ -7826,7 +8096,8 @@ const WORDS_RU_B2 = [
       "it": "nazionale",
       "pt": "nacional",
       "ja": "国家の",
-      "zh": "国家的"
+      "zh": "国家的",
+      "fr": "national"
     },
     "examples": [],
     "meta": {},
@@ -7852,7 +8123,8 @@ const WORDS_RU_B2 = [
       "it": "il soggetto",
       "pt": "o sujeito",
       "ja": "主体",
-      "zh": "主体"
+      "zh": "主体",
+      "fr": "sujet"
     },
     "examples": [],
     "meta": {},
@@ -7881,7 +8153,8 @@ const WORDS_RU_B2 = [
       "it": "vestirsi",
       "pt": "vestir-se",
       "ja": "服を着る",
-      "zh": "穿衣"
+      "zh": "穿衣",
+      "fr": "s'habiller"
     },
     "examples": [],
     "meta": {},
@@ -7910,7 +8183,8 @@ const WORDS_RU_B2 = [
       "it": "l'immunità",
       "pt": "a imunidade",
       "ja": "免疫",
-      "zh": "免疫"
+      "zh": "免疫",
+      "fr": "immunité"
     },
     "examples": [],
     "meta": {},
@@ -7939,7 +8213,8 @@ const WORDS_RU_B2 = [
       "it": "verde",
       "pt": "verde",
       "ja": "緑の",
-      "zh": "绿色的"
+      "zh": "绿色的",
+      "fr": "vert"
     },
     "examples": [],
     "meta": {},
@@ -7966,7 +8241,8 @@ const WORDS_RU_B2 = [
       "it": "il verde",
       "pt": "o verde",
       "ja": "緑色",
-      "zh": "绿色"
+      "zh": "绿色",
+      "fr": "vert"
     },
     "examples": [],
     "meta": {},
@@ -7994,7 +8270,8 @@ const WORDS_RU_B2 = [
       "it": "la rarità",
       "pt": "a raridade",
       "ja": "希少性",
-      "zh": "稀有"
+      "zh": "稀有",
+      "fr": "rareté"
     },
     "examples": [],
     "meta": {},
@@ -8023,7 +8300,8 @@ const WORDS_RU_B2 = [
       "it": "commerciale",
       "pt": "comercial",
       "ja": "貿易の",
-      "zh": "贸易的"
+      "zh": "贸易的",
+      "fr": "commerce"
     },
     "examples": [],
     "meta": {},
@@ -8049,7 +8327,8 @@ const WORDS_RU_B2 = [
       "it": "negoziare",
       "pt": "negociar",
       "ja": "交渉する",
-      "zh": "谈判"
+      "zh": "谈判",
+      "fr": "négocier"
     },
     "examples": [],
     "meta": {},
@@ -8079,7 +8358,8 @@ const WORDS_RU_B2 = [
       "it": "raccogliere",
       "pt": "coletar",
       "ja": "集める",
-      "zh": "收集"
+      "zh": "收集",
+      "fr": "collecter"
     },
     "examples": [],
     "meta": {},
@@ -8108,7 +8388,8 @@ const WORDS_RU_B2 = [
       "it": "la conclusione",
       "pt": "a conclusão",
       "ja": "結論",
-      "zh": "结论"
+      "zh": "结论",
+      "fr": "conclusion"
     },
     "examples": [],
     "meta": {},
@@ -8136,7 +8417,8 @@ const WORDS_RU_B2 = [
       "it": "crudele",
       "pt": "cruel",
       "ja": "残酷な",
-      "zh": "残酷的"
+      "zh": "残酷的",
+      "fr": "cruel"
     },
     "examples": [],
     "meta": {},
@@ -8163,7 +8445,8 @@ const WORDS_RU_B2 = [
       "it": "il professionista",
       "pt": "o profissional",
       "ja": "プロ",
-      "zh": "专业人士"
+      "zh": "专业人士",
+      "fr": "professionnel"
     },
     "examples": [],
     "meta": {},
@@ -8191,7 +8474,8 @@ const WORDS_RU_B2 = [
       "it": "la polvere",
       "pt": "o pó",
       "ja": "粉",
-      "zh": "粉末"
+      "zh": "粉末",
+      "fr": "poudre"
     },
     "examples": [],
     "meta": {},
@@ -8219,7 +8503,8 @@ const WORDS_RU_B2 = [
       "it": "conquistare",
       "pt": "conquistar",
       "ja": "征服する",
-      "zh": "征服"
+      "zh": "征服",
+      "fr": "conquérir"
     },
     "examples": [],
     "meta": {},
@@ -8249,7 +8534,8 @@ const WORDS_RU_B2 = [
       "it": "prendersi cura",
       "pt": "cuidar",
       "ja": "世話をする",
-      "zh": "照顾"
+      "zh": "照顾",
+      "fr": "soigner"
     },
     "examples": [],
     "meta": {},
@@ -8279,7 +8565,8 @@ const WORDS_RU_B2 = [
       "it": "la sciarpa",
       "pt": "o cachecol",
       "ja": "スカーフ",
-      "zh": "围巾"
+      "zh": "围巾",
+      "fr": "écharpe"
     },
     "examples": [],
     "meta": {},
@@ -8307,7 +8594,8 @@ const WORDS_RU_B2 = [
       "it": "l'essenza",
       "pt": "a essência",
       "ja": "本質",
-      "zh": "本质"
+      "zh": "本质",
+      "fr": "essence"
     },
     "examples": [],
     "meta": {},
@@ -8335,7 +8623,8 @@ const WORDS_RU_B2 = [
       "it": "la cara",
       "pt": "a querida",
       "ja": "お嬢さん",
-      "zh": "亲爱的"
+      "zh": "亲爱的",
+      "fr": "chéri"
     },
     "examples": [],
     "meta": {},
@@ -8363,7 +8652,8 @@ const WORDS_RU_B2 = [
       "it": "il disprezzo",
       "pt": "o desdém",
       "ja": "軽蔑",
-      "zh": "轻蔑"
+      "zh": "轻蔑",
+      "fr": "dédain"
     },
     "examples": [],
     "meta": {},
@@ -8391,7 +8681,8 @@ const WORDS_RU_B2 = [
       "it": "orribile",
       "pt": "terrível",
       "ja": "恐ろしい",
-      "zh": "可怕的"
+      "zh": "可怕的",
+      "fr": "affreux"
     },
     "examples": [],
     "meta": {},
@@ -8418,7 +8709,8 @@ const WORDS_RU_B2 = [
       "it": "la costruzione",
       "pt": "a construção",
       "ja": "建設",
-      "zh": "建设"
+      "zh": "建设",
+      "fr": "construction"
     },
     "examples": [],
     "meta": {},
@@ -8446,7 +8738,8 @@ const WORDS_RU_B2 = [
       "it": "la svolta",
       "pt": "o avanço",
       "ja": "突破",
-      "zh": "突破"
+      "zh": "突破",
+      "fr": "percée"
     },
     "examples": [],
     "meta": {},
@@ -8474,7 +8767,8 @@ const WORDS_RU_B2 = [
       "it": "il kart",
       "pt": "o kart",
       "ja": "カート",
-      "zh": "卡丁车"
+      "zh": "卡丁车",
+      "fr": "kart"
     },
     "examples": [],
     "meta": {},
@@ -8503,7 +8797,8 @@ const WORDS_RU_B2 = [
       "it": "cambiare",
       "pt": "mudar",
       "ja": "変わる",
-      "zh": "改变"
+      "zh": "改变",
+      "fr": "changer"
     },
     "examples": [],
     "meta": {},
@@ -8533,7 +8828,8 @@ const WORDS_RU_B2 = [
       "it": "il deposito",
       "pt": "o armazenamento",
       "ja": "保管",
-      "zh": "储存"
+      "zh": "储存",
+      "fr": "stockage"
     },
     "examples": [],
     "meta": {},
@@ -8561,7 +8857,8 @@ const WORDS_RU_B2 = [
       "it": "Sin",
       "pt": "Sin",
       "ja": "シン",
-      "zh": "辛"
+      "zh": "辛",
+      "fr": "péché"
     },
     "examples": [],
     "meta": {},
@@ -8590,7 +8887,8 @@ const WORDS_RU_B2 = [
       "it": "l'addio",
       "pt": "a despedida",
       "ja": "別れ",
-      "zh": "告别"
+      "zh": "告别",
+      "fr": "adieu"
     },
     "examples": [],
     "meta": {},
@@ -8619,7 +8917,8 @@ const WORDS_RU_B2 = [
       "it": "la fattoria",
       "pt": "a fazenda",
       "ja": "農場",
-      "zh": "农场"
+      "zh": "农场",
+      "fr": "ferme"
     },
     "examples": [],
     "meta": {},
@@ -8647,7 +8946,8 @@ const WORDS_RU_B2 = [
       "it": "magico",
       "pt": "mágico",
       "ja": "魔法の",
-      "zh": "神奇的"
+      "zh": "神奇的",
+      "fr": "magique"
     },
     "examples": [],
     "meta": {},
@@ -8673,7 +8973,8 @@ const WORDS_RU_B2 = [
       "it": "il capo",
       "pt": "o chefe",
       "ja": "首長",
-      "zh": "首领"
+      "zh": "首领",
+      "fr": "chef"
     },
     "examples": [],
     "meta": {},
@@ -8702,7 +9003,8 @@ const WORDS_RU_B2 = [
       "it": "raggiungere",
       "pt": "alcançar",
       "ja": "到達する",
-      "zh": "到达"
+      "zh": "到达",
+      "fr": "atteindre"
     },
     "examples": [],
     "meta": {},
@@ -8732,7 +9034,8 @@ const WORDS_RU_B2 = [
       "it": "la cameretta",
       "pt": "o quarto de criança",
       "ja": "子供部屋",
-      "zh": "儿童房"
+      "zh": "儿童房",
+      "fr": "crèche"
     },
     "examples": [],
     "meta": {},
@@ -8761,7 +9064,8 @@ const WORDS_RU_B2 = [
       "it": "il salto",
       "pt": "o salto",
       "ja": "ジャンプ",
-      "zh": "跳跃"
+      "zh": "跳跃",
+      "fr": "sauter"
     },
     "examples": [],
     "meta": {},
@@ -8790,7 +9094,8 @@ const WORDS_RU_B2 = [
       "it": "sorprendente",
       "pt": "surpreendente",
       "ja": "驚くべき",
-      "zh": "惊人的"
+      "zh": "惊人的",
+      "fr": "incroyable"
     },
     "examples": [],
     "meta": {},
@@ -8817,7 +9122,8 @@ const WORDS_RU_B2 = [
       "it": "la pallina",
       "pt": "a bolinha",
       "ja": "小さなボール",
-      "zh": "小球"
+      "zh": "小球",
+      "fr": "petite balle"
     },
     "examples": [],
     "meta": {},
@@ -8845,7 +9151,8 @@ const WORDS_RU_B2 = [
       "it": "gli intestini",
       "pt": "os intestinos",
       "ja": "腸",
-      "zh": "肠"
+      "zh": "肠",
+      "fr": "intestins"
     },
     "examples": [],
     "meta": {},
@@ -8873,7 +9180,8 @@ const WORDS_RU_B2 = [
       "it": "la dignità",
       "pt": "a dignidade",
       "ja": "尊厳",
-      "zh": "尊严"
+      "zh": "尊严",
+      "fr": "dignité"
     },
     "examples": [],
     "meta": {},
@@ -8901,7 +9209,8 @@ const WORDS_RU_B2 = [
       "it": "lo sciocco",
       "pt": "o tolo",
       "ja": "馬鹿",
-      "zh": "傻瓜"
+      "zh": "傻瓜",
+      "fr": "sot"
     },
     "examples": [],
     "meta": {},
@@ -8929,7 +9238,8 @@ const WORDS_RU_B2 = [
       "it": "la tecnologia",
       "pt": "a tecnologia",
       "ja": "技術",
-      "zh": "技术"
+      "zh": "技术",
+      "fr": "technologie"
     },
     "examples": [],
     "meta": {},
@@ -8958,7 +9268,8 @@ const WORDS_RU_B2 = [
       "it": "la pancetta",
       "pt": "o bacon",
       "ja": "ベーコン",
-      "zh": "培根"
+      "zh": "培根",
+      "fr": "bacon"
     },
     "examples": [],
     "meta": {},
@@ -8987,7 +9298,8 @@ const WORDS_RU_B2 = [
       "it": "la birra porter",
       "pt": "a cerveja porter",
       "ja": "ポーター",
-      "zh": "波特啤酒"
+      "zh": "波特啤酒",
+      "fr": "porteur"
     },
     "examples": [],
     "meta": {},
@@ -9015,7 +9327,8 @@ const WORDS_RU_B2 = [
       "it": "il satiro",
       "pt": "o sátiro",
       "ja": "サテュロス",
-      "zh": "萨提尔"
+      "zh": "萨提尔",
+      "fr": "satyre"
     },
     "examples": [],
     "meta": {},
@@ -9044,7 +9357,8 @@ const WORDS_RU_B2 = [
       "it": "il ninja",
       "pt": "o ninja",
       "ja": "忍者",
-      "zh": "忍者"
+      "zh": "忍者",
+      "fr": "ninja"
     },
     "examples": [],
     "meta": {},
@@ -9073,7 +9387,8 @@ const WORDS_RU_B2 = [
       "it": "la terapia",
       "pt": "a terapia",
       "ja": "治療",
-      "zh": "治疗"
+      "zh": "治疗",
+      "fr": "thérapie"
     },
     "examples": [],
     "meta": {},
@@ -9102,7 +9417,8 @@ const WORDS_RU_B2 = [
       "it": "lo sviluppo",
       "pt": "o desenvolvimento",
       "ja": "発展",
-      "zh": "发展"
+      "zh": "发展",
+      "fr": "développement"
     },
     "examples": [],
     "meta": {},
@@ -9131,7 +9447,8 @@ const WORDS_RU_B2 = [
       "it": "la pagina",
       "pt": "a página",
       "ja": "ページ",
-      "zh": "页"
+      "zh": "页",
+      "fr": "page"
     },
     "examples": [],
     "meta": {},
@@ -9160,7 +9477,8 @@ const WORDS_RU_B2 = [
       "it": "il freddo",
       "pt": "o frio",
       "ja": "寒さ",
-      "zh": "寒冷"
+      "zh": "寒冷",
+      "fr": "froid"
     },
     "examples": [],
     "meta": {},
@@ -9188,7 +9506,8 @@ const WORDS_RU_B2 = [
       "it": "rapire",
       "pt": "sequestrar",
       "ja": "誘拐する",
-      "zh": "绑架"
+      "zh": "绑架",
+      "fr": "kidnapper"
     },
     "examples": [],
     "meta": {},
@@ -9218,7 +9537,8 @@ const WORDS_RU_B2 = [
       "it": "registrare",
       "pt": "gravar",
       "ja": "記録する",
-      "zh": "记录"
+      "zh": "记录",
+      "fr": "enregistrer"
     },
     "examples": [],
     "meta": {},
@@ -9247,7 +9567,8 @@ const WORDS_RU_B2 = [
       "it": "finire",
       "pt": "acabar com",
       "ja": "始末する",
-      "zh": "结果"
+      "zh": "结果",
+      "fr": "achever"
     },
     "examples": [],
     "meta": {},
@@ -9278,7 +9599,8 @@ const WORDS_RU_B2 = [
       "it": "la piazza",
       "pt": "a praça",
       "ja": "広場",
-      "zh": "广场"
+      "zh": "广场",
+      "fr": "carré"
     },
     "examples": [],
     "meta": {},
@@ -9306,7 +9628,8 @@ const WORDS_RU_B2 = [
       "it": "acquisire",
       "pt": "adquirir",
       "ja": "獲得する",
-      "zh": "获得"
+      "zh": "获得",
+      "fr": "acquérir"
     },
     "examples": [],
     "meta": {},
@@ -9337,7 +9660,8 @@ const WORDS_RU_B2 = [
       "it": "la consegna",
       "pt": "a entrega",
       "ja": "配達",
-      "zh": "配送"
+      "zh": "配送",
+      "fr": "livraison"
     },
     "examples": [],
     "meta": {},
@@ -9366,7 +9690,8 @@ const WORDS_RU_B2 = [
       "it": "litigare",
       "pt": "brigar",
       "ja": "口論する",
-      "zh": "争吵"
+      "zh": "争吵",
+      "fr": "querelle"
     },
     "examples": [],
     "meta": {},
@@ -9396,7 +9721,8 @@ const WORDS_RU_B2 = [
       "it": "nervoso",
       "pt": "nervoso",
       "ja": "神経質な",
-      "zh": "神经的"
+      "zh": "神经的",
+      "fr": "nerveux"
     },
     "examples": [],
     "meta": {},
@@ -9423,7 +9749,8 @@ const WORDS_RU_B2 = [
       "it": "fare una passeggiata",
       "pt": "passear",
       "ja": "散歩する",
-      "zh": "散步"
+      "zh": "散步",
+      "fr": "se promener"
     },
     "examples": [],
     "meta": {},
@@ -9452,7 +9779,8 @@ const WORDS_RU_B2 = [
       "it": "l'amante",
       "pt": "a amante",
       "ja": "愛人",
-      "zh": "情妇"
+      "zh": "情妇",
+      "fr": "maîtresse"
     },
     "examples": [],
     "meta": {},
@@ -9480,7 +9808,8 @@ const WORDS_RU_B2 = [
       "it": "i classici",
       "pt": "os clássicos",
       "ja": "古典",
-      "zh": "经典"
+      "zh": "经典",
+      "fr": "classiques"
     },
     "examples": [],
     "meta": {},
@@ -9508,7 +9837,8 @@ const WORDS_RU_B2 = [
       "it": "il barone",
       "pt": "o barão",
       "ja": "男爵",
-      "zh": "男爵"
+      "zh": "男爵",
+      "fr": "baron"
     },
     "examples": [],
     "meta": {},
@@ -9537,7 +9867,8 @@ const WORDS_RU_B2 = [
       "it": "il sapone",
       "pt": "o sabão",
       "ja": "石鹸",
-      "zh": "肥皂"
+      "zh": "肥皂",
+      "fr": "savon"
     },
     "examples": [],
     "meta": {},
@@ -9566,7 +9897,8 @@ const WORDS_RU_B2 = [
       "it": "la vecchietta",
       "pt": "a velhinha",
       "ja": "おばあさん",
-      "zh": "老太太"
+      "zh": "老太太",
+      "fr": "vieille"
     },
     "examples": [],
     "meta": {},
@@ -9596,7 +9928,8 @@ const WORDS_RU_B2 = [
       "it": "il picnic",
       "pt": "o piquenique",
       "ja": "ピクニック",
-      "zh": "野餐"
+      "zh": "野餐",
+      "fr": "pique-nique"
     },
     "examples": [],
     "meta": {},
@@ -9625,7 +9958,8 @@ const WORDS_RU_B2 = [
       "it": "musicale",
       "pt": "musical",
       "ja": "音楽の",
-      "zh": "音乐的"
+      "zh": "音乐的",
+      "fr": "musical"
     },
     "examples": [],
     "meta": {},
@@ -9652,7 +9986,8 @@ const WORDS_RU_B2 = [
       "it": "il bilancio",
       "pt": "o balanço",
       "ja": "バランス",
-      "zh": "平衡"
+      "zh": "平衡",
+      "fr": "équilibre"
     },
     "examples": [],
     "meta": {},
@@ -9681,7 +10016,8 @@ const WORDS_RU_B2 = [
       "it": "il canto",
       "pt": "o canto",
       "ja": "歌",
-      "zh": "唱歌"
+      "zh": "唱歌",
+      "fr": "chant"
     },
     "examples": [],
     "meta": {},
@@ -9709,7 +10045,8 @@ const WORDS_RU_B2 = [
       "it": "operare",
       "pt": "operar",
       "ja": "手術する",
-      "zh": "动手术"
+      "zh": "动手术",
+      "fr": "opérer"
     },
     "examples": [],
     "meta": {},
@@ -9738,7 +10075,8 @@ const WORDS_RU_B2 = [
       "it": "federale",
       "pt": "federal",
       "ja": "連邦の",
-      "zh": "联邦的"
+      "zh": "联邦的",
+      "fr": "fédéral"
     },
     "examples": [],
     "meta": {},
@@ -9765,7 +10103,8 @@ const WORDS_RU_B2 = [
       "it": "il bagno",
       "pt": "o banheiro",
       "ja": "浴室",
-      "zh": "浴室"
+      "zh": "浴室",
+      "fr": "salle de bain"
     },
     "examples": [],
     "meta": {},
@@ -9794,7 +10133,8 @@ const WORDS_RU_B2 = [
       "it": "il reddito",
       "pt": "a renda",
       "ja": "収入",
-      "zh": "收入"
+      "zh": "收入",
+      "fr": "revenu"
     },
     "examples": [],
     "meta": {},
@@ -9823,7 +10163,8 @@ const WORDS_RU_B2 = [
       "it": "il danno",
       "pt": "o dano",
       "ja": "損傷",
-      "zh": "损坏"
+      "zh": "损坏",
+      "fr": "dommage"
     },
     "examples": [],
     "meta": {},
@@ -9852,7 +10193,8 @@ const WORDS_RU_B2 = [
       "it": "il fotografo",
       "pt": "o fotógrafo",
       "ja": "写真家",
-      "zh": "摄影师"
+      "zh": "摄影师",
+      "fr": "photographe"
     },
     "examples": [],
     "meta": {},
@@ -9881,7 +10223,8 @@ const WORDS_RU_B2 = [
       "it": "il motel",
       "pt": "o motel",
       "ja": "モーテル",
-      "zh": "汽车旅馆"
+      "zh": "汽车旅馆",
+      "fr": "motel"
     },
     "examples": [],
     "meta": {},
@@ -9909,7 +10252,8 @@ const WORDS_RU_B2 = [
       "it": "l'orchestra",
       "pt": "a orquestra",
       "ja": "オーケストラ",
-      "zh": "管弦乐队"
+      "zh": "管弦乐队",
+      "fr": "orchestre"
     },
     "examples": [],
     "meta": {},
@@ -9938,7 +10282,8 @@ const WORDS_RU_B2 = [
       "it": "mangiare",
       "pt": "comer",
       "ja": "食べる",
-      "zh": "吃"
+      "zh": "吃",
+      "fr": "manger"
     },
     "examples": [],
     "meta": {},
@@ -9967,7 +10312,8 @@ const WORDS_RU_B2 = [
       "it": "avvicinarsi di soppiatto",
       "pt": "aproximar-se sorrateiramente",
       "ja": "こっそり近づく",
-      "zh": "悄悄靠近"
+      "zh": "悄悄靠近",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {},
@@ -9996,7 +10342,8 @@ const WORDS_RU_B2 = [
       "it": "l'elemento",
       "pt": "o elemento",
       "ja": "要素",
-      "zh": "元素"
+      "zh": "元素",
+      "fr": "élément"
     },
     "examples": [],
     "meta": {},
@@ -10025,7 +10372,8 @@ const WORDS_RU_B2 = [
       "it": "rivedere",
       "pt": "rever",
       "ja": "再検討する",
-      "zh": "重新审查"
+      "zh": "重新审查",
+      "fr": "examen"
     },
     "examples": [],
     "meta": {},
@@ -10054,7 +10402,8 @@ const WORDS_RU_B2 = [
       "it": "l'ascia",
       "pt": "o machado",
       "ja": "斧",
-      "zh": "斧头"
+      "zh": "斧头",
+      "fr": "hache"
     },
     "examples": [],
     "meta": {},
@@ -10082,7 +10431,8 @@ const WORDS_RU_B2 = [
       "it": "violare",
       "pt": "violar",
       "ja": "違反する",
-      "zh": "违反"
+      "zh": "违反",
+      "fr": "violer"
     },
     "examples": [],
     "meta": {},
@@ -10111,7 +10461,8 @@ const WORDS_RU_B2 = [
       "it": "il salone",
       "pt": "o salão",
       "ja": "サロン",
-      "zh": "沙龙"
+      "zh": "沙龙",
+      "fr": "salon"
     },
     "examples": [],
     "meta": {},
@@ -10139,7 +10490,8 @@ const WORDS_RU_B2 = [
       "it": "l'anatra",
       "pt": "o pato",
       "ja": "アヒル",
-      "zh": "鸭子"
+      "zh": "鸭子",
+      "fr": "canard"
     },
     "examples": [],
     "meta": {},
@@ -10168,7 +10520,8 @@ const WORDS_RU_B2 = [
       "it": "la biancheria",
       "pt": "a roupa íntima",
       "ja": "下着",
-      "zh": "内衣"
+      "zh": "内衣",
+      "fr": "linge"
     },
     "examples": [],
     "meta": {},
@@ -10196,7 +10549,8 @@ const WORDS_RU_B2 = [
       "it": "nascondere",
       "pt": "esconder",
       "ja": "隠す",
-      "zh": "隐藏"
+      "zh": "隐藏",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {},
@@ -10225,7 +10579,8 @@ const WORDS_RU_B2 = [
       "it": "il rompiscatole",
       "pt": "o chato",
       "ja": "退屈な人",
-      "zh": "令人厌烦的人"
+      "zh": "令人厌烦的人",
+      "fr": "ennuyer"
     },
     "examples": [],
     "meta": {},
@@ -10254,7 +10609,8 @@ const WORDS_RU_B2 = [
       "it": "chiarire",
       "pt": "esclarecer",
       "ja": "明確にする",
-      "zh": "澄清"
+      "zh": "澄清",
+      "fr": "clarifier"
     },
     "examples": [],
     "meta": {},
@@ -10283,7 +10639,8 @@ const WORDS_RU_B2 = [
       "it": "capire",
       "pt": "compreender",
       "ja": "理解する",
-      "zh": "理解"
+      "zh": "理解",
+      "fr": "comprendre"
     },
     "examples": [],
     "meta": {},
@@ -10312,7 +10669,8 @@ const WORDS_RU_B2 = [
       "it": "eseguire",
       "pt": "realizar",
       "ja": "実行する",
-      "zh": "执行"
+      "zh": "执行",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {},
@@ -10342,7 +10700,8 @@ const WORDS_RU_B2 = [
       "it": "promettere",
       "pt": "prometer",
       "ja": "約束する",
-      "zh": "承诺"
+      "zh": "承诺",
+      "fr": "promettre"
     },
     "examples": [],
     "meta": {},
@@ -10371,7 +10730,8 @@ const WORDS_RU_B2 = [
       "it": "il potere",
       "pt": "o poder",
       "ja": "力",
-      "zh": "力量"
+      "zh": "力量",
+      "fr": "pouvoir"
     },
     "examples": [],
     "meta": {},
@@ -10399,7 +10759,8 @@ const WORDS_RU_B2 = [
       "it": "la parrucca",
       "pt": "a peruca",
       "ja": "かつら",
-      "zh": "假发"
+      "zh": "假发",
+      "fr": "perruque"
     },
     "examples": [],
     "meta": {},
@@ -10427,7 +10788,8 @@ const WORDS_RU_B2 = [
       "it": "forare",
       "pt": "perfurar",
       "ja": "穴を開ける",
-      "zh": "钻孔"
+      "zh": "钻孔",
+      "fr": "perceuse"
     },
     "examples": [],
     "meta": {},
@@ -10457,7 +10819,8 @@ const WORDS_RU_B2 = [
       "it": "natalizio",
       "pt": "natalino",
       "ja": "クリスマスの",
-      "zh": "圣诞节的"
+      "zh": "圣诞节的",
+      "fr": "Noël"
     },
     "examples": [],
     "meta": {},
@@ -10484,7 +10847,8 @@ const WORDS_RU_B2 = [
       "it": "l'allenamento",
       "pt": "o treinamento",
       "ja": "トレーニング",
-      "zh": "训练"
+      "zh": "训练",
+      "fr": "entraînement"
     },
     "examples": [],
     "meta": {},
@@ -10512,7 +10876,8 @@ const WORDS_RU_B2 = [
       "it": "il tatuaggio",
       "pt": "a tatuagem",
       "ja": "タトゥー",
-      "zh": "纹身"
+      "zh": "纹身",
+      "fr": "tatouage"
     },
     "examples": [],
     "meta": {},
@@ -10540,7 +10905,8 @@ const WORDS_RU_B2 = [
       "it": "giurare",
       "pt": "jurar",
       "ja": "誓う",
-      "zh": "发誓"
+      "zh": "发誓",
+      "fr": "jurer"
     },
     "examples": [],
     "meta": {},
@@ -10570,7 +10936,8 @@ const WORDS_RU_B2 = [
       "it": "alleviare",
       "pt": "aliviar",
       "ja": "楽にする",
-      "zh": "减轻"
+      "zh": "减轻",
+      "fr": "facilité"
     },
     "examples": [],
     "meta": {},
@@ -10599,7 +10966,8 @@ const WORDS_RU_B2 = [
       "it": "il principio",
       "pt": "o princípio",
       "ja": "原則",
-      "zh": "原则"
+      "zh": "原则",
+      "fr": "principe"
     },
     "examples": [],
     "meta": {},
@@ -10628,7 +10996,8 @@ const WORDS_RU_B2 = [
       "it": "la malattia",
       "pt": "a doença",
       "ja": "病気",
-      "zh": "疾病"
+      "zh": "疾病",
+      "fr": "maladie"
     },
     "examples": [],
     "meta": {},
@@ -10656,7 +11025,8 @@ const WORDS_RU_B2 = [
       "it": "l'autografo",
       "pt": "o autógrafo",
       "ja": "サイン",
-      "zh": "签名"
+      "zh": "签名",
+      "fr": "autographe"
     },
     "examples": [],
     "meta": {},
@@ -10684,7 +11054,8 @@ const WORDS_RU_B2 = [
       "it": "l'uomo forte",
       "pt": "o homem forte",
       "ja": "屈強な男",
-      "zh": "壮汉"
+      "zh": "壮汉",
+      "fr": "costaud"
     },
     "examples": [],
     "meta": {},
@@ -10714,7 +11085,8 @@ const WORDS_RU_B2 = [
       "it": "essere amici",
       "pt": "ser amigo",
       "ja": "友達である",
-      "zh": "成为朋友"
+      "zh": "成为朋友",
+      "fr": "fraterniser"
     },
     "examples": [],
     "meta": {},
@@ -10744,7 +11116,8 @@ const WORDS_RU_B2 = [
       "it": "la preparazione",
       "pt": "a preparação",
       "ja": "準備",
-      "zh": "准备"
+      "zh": "准备",
+      "fr": "préparation"
     },
     "examples": [],
     "meta": {},
@@ -10773,7 +11146,8 @@ const WORDS_RU_B2 = [
       "it": "il necessario",
       "pt": "o necessário",
       "ja": "必要なもの",
-      "zh": "必要品"
+      "zh": "必要品",
+      "fr": "nécessité"
     },
     "examples": [],
     "meta": {},
@@ -10801,7 +11175,8 @@ const WORDS_RU_B2 = [
       "it": "il pugnale",
       "pt": "o punhal",
       "ja": "短剣",
-      "zh": "匕首"
+      "zh": "匕首",
+      "fr": "poignard"
     },
     "examples": [],
     "meta": {},
@@ -10831,7 +11206,8 @@ const WORDS_RU_B2 = [
       "it": "lo stipendio",
       "pt": "o salário",
       "ja": "給料",
-      "zh": "工资"
+      "zh": "工资",
+      "fr": "salaire"
     },
     "examples": [],
     "meta": {},
@@ -10860,7 +11236,8 @@ const WORDS_RU_B2 = [
       "it": "la carità",
       "pt": "a caridade",
       "ja": "慈善",
-      "zh": "慈善"
+      "zh": "慈善",
+      "fr": "charité"
     },
     "examples": [],
     "meta": {},
@@ -10888,7 +11265,8 @@ const WORDS_RU_B2 = [
       "it": "la magia",
       "pt": "a magia",
       "ja": "魔法",
-      "zh": "魔法"
+      "zh": "魔法",
+      "fr": "magie"
     },
     "examples": [],
     "meta": {},
@@ -10917,7 +11295,8 @@ const WORDS_RU_B2 = [
       "it": "la sete",
       "pt": "a sede",
       "ja": "喉の渇き",
-      "zh": "口渴"
+      "zh": "口渴",
+      "fr": "soif"
     },
     "examples": [],
     "meta": {},
@@ -10945,7 +11324,8 @@ const WORDS_RU_B2 = [
       "it": "nudo",
       "pt": "nu",
       "ja": "裸の",
-      "zh": "裸体的"
+      "zh": "裸体的",
+      "fr": "nu"
     },
     "examples": [],
     "meta": {},
@@ -10971,7 +11351,8 @@ const WORDS_RU_B2 = [
       "it": "reale",
       "pt": "real",
       "ja": "王の",
-      "zh": "王室的"
+      "zh": "王室的",
+      "fr": "royal"
     },
     "examples": [],
     "meta": {},
@@ -10998,7 +11379,8 @@ const WORDS_RU_B2 = [
       "it": "tagliare",
       "pt": "cortar",
       "ja": "切る",
-      "zh": "切"
+      "zh": "切",
+      "fr": "couper"
     },
     "examples": [],
     "meta": {},
@@ -11027,7 +11409,8 @@ const WORDS_RU_B2 = [
       "it": "trattenere",
       "pt": "reter",
       "ja": "抑える",
-      "zh": "抑制"
+      "zh": "抑制",
+      "fr": "retenir"
     },
     "examples": [],
     "meta": {},
@@ -11057,7 +11440,8 @@ const WORDS_RU_B2 = [
       "it": "la Mercedes",
       "pt": "o Mercedes",
       "ja": "メルセデス",
-      "zh": "梅赛德斯"
+      "zh": "梅赛德斯",
+      "fr": "Mercedes"
     },
     "examples": [],
     "meta": {},
@@ -11086,7 +11470,8 @@ const WORDS_RU_B2 = [
       "it": "il lancio",
       "pt": "o lançamento",
       "ja": "投げること",
-      "zh": "投掷"
+      "zh": "投掷",
+      "fr": "lancer"
     },
     "examples": [],
     "meta": {},
@@ -11114,7 +11499,8 @@ const WORDS_RU_B2 = [
       "it": "il segno",
       "pt": "o sinal",
       "ja": "兆候",
-      "zh": "迹象"
+      "zh": "迹象",
+      "fr": "signer"
     },
     "examples": [],
     "meta": {},
@@ -11143,7 +11529,8 @@ const WORDS_RU_B2 = [
       "it": "l'inverno",
       "pt": "o inverno",
       "ja": "冬",
-      "zh": "冬天"
+      "zh": "冬天",
+      "fr": "hiver"
     },
     "examples": [],
     "meta": {},
@@ -11171,7 +11558,8 @@ const WORDS_RU_B2 = [
       "it": "il congresso",
       "pt": "o congresso",
       "ja": "議会",
-      "zh": "国会"
+      "zh": "国会",
+      "fr": "congrès"
     },
     "examples": [],
     "meta": {},
@@ -11200,7 +11588,8 @@ const WORDS_RU_B2 = [
       "it": "la barba",
       "pt": "a barba",
       "ja": "顎ひげ",
-      "zh": "胡须"
+      "zh": "胡须",
+      "fr": "barbe"
     },
     "examples": [],
     "meta": {},
@@ -11229,7 +11618,8 @@ const WORDS_RU_B2 = [
       "it": "la camera da letto",
       "pt": "o quarto",
       "ja": "寝室",
-      "zh": "卧室"
+      "zh": "卧室",
+      "fr": "chambre"
     },
     "examples": [],
     "meta": {},
@@ -11258,7 +11648,8 @@ const WORDS_RU_B2 = [
       "it": "garantire",
       "pt": "garantir",
       "ja": "保証する",
-      "zh": "保证"
+      "zh": "保证",
+      "fr": "garantie"
     },
     "examples": [],
     "meta": {},
@@ -11287,7 +11678,8 @@ const WORDS_RU_B2 = [
       "it": "l'uragano",
       "pt": "o furacão",
       "ja": "ハリケーン",
-      "zh": "飓风"
+      "zh": "飓风",
+      "fr": "ouragan"
     },
     "examples": [],
     "meta": {},
@@ -11316,7 +11708,8 @@ const WORDS_RU_B2 = [
       "it": "il nord",
       "pt": "o norte",
       "ja": "北部地域",
-      "zh": "北方地区"
+      "zh": "北方地区",
+      "fr": "nord"
     },
     "examples": [],
     "meta": {},
@@ -11344,7 +11737,8 @@ const WORDS_RU_B2 = [
       "it": "l'aria",
       "pt": "a ária",
       "ja": "アリア",
-      "zh": "咏叹调"
+      "zh": "咏叹调",
+      "fr": "aria"
     },
     "examples": [],
     "meta": {},
@@ -11373,7 +11767,8 @@ const WORDS_RU_B2 = [
       "it": "ottenere",
       "pt": "obter",
       "ja": "手に入れる",
-      "zh": "得到"
+      "zh": "得到",
+      "fr": "obtenir"
     },
     "examples": [],
     "meta": {},
@@ -11402,7 +11797,8 @@ const WORDS_RU_B2 = [
       "it": "il limite",
       "pt": "o limite",
       "ja": "限界",
-      "zh": "极限"
+      "zh": "极限",
+      "fr": "limite"
     },
     "examples": [],
     "meta": {},
@@ -11430,7 +11826,8 @@ const WORDS_RU_B2 = [
       "it": "l'avversario",
       "pt": "o oponente",
       "ja": "敵",
-      "zh": "对手"
+      "zh": "对手",
+      "fr": "adversaire"
     },
     "examples": [],
     "meta": {},
@@ -11458,7 +11855,8 @@ const WORDS_RU_B2 = [
       "it": "il tossicodipendente",
       "pt": "o viciado em drogas",
       "ja": "麻薬中毒者",
-      "zh": "吸毒者"
+      "zh": "吸毒者",
+      "fr": "toxicomane"
     },
     "examples": [],
     "meta": {},
@@ -11486,7 +11884,8 @@ const WORDS_RU_B2 = [
       "it": "la tappa",
       "pt": "a etapa",
       "ja": "段階",
-      "zh": "阶段"
+      "zh": "阶段",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -11515,7 +11914,8 @@ const WORDS_RU_B2 = [
       "it": "sorprendere",
       "pt": "surpreender",
       "ja": "驚かせる",
-      "zh": "使惊讶"
+      "zh": "使惊讶",
+      "fr": "surprise"
     },
     "examples": [],
     "meta": {},
@@ -11545,7 +11945,8 @@ const WORDS_RU_B2 = [
       "it": "sbagliato",
       "pt": "incorreto",
       "ja": "間違った",
-      "zh": "不正确的"
+      "zh": "不正确的",
+      "fr": "incorrect"
     },
     "examples": [],
     "meta": {},
@@ -11571,7 +11972,8 @@ const WORDS_RU_B2 = [
       "it": "pronunciare",
       "pt": "pronunciar",
       "ja": "発音する",
-      "zh": "发音"
+      "zh": "发音",
+      "fr": "prononcer"
     },
     "examples": [],
     "meta": {},
@@ -11600,7 +12002,8 @@ const WORDS_RU_B2 = [
       "it": "il polso",
       "pt": "o pulso",
       "ja": "手首",
-      "zh": "手腕"
+      "zh": "手腕",
+      "fr": "poignet"
     },
     "examples": [],
     "meta": {},
@@ -11628,7 +12031,8 @@ const WORDS_RU_B2 = [
       "it": "mortale",
       "pt": "mortal",
       "ja": "死すべき",
-      "zh": "凡人"
+      "zh": "凡人",
+      "fr": "mortel"
     },
     "examples": [],
     "meta": {},
@@ -11655,7 +12059,8 @@ const WORDS_RU_B2 = [
       "it": "la deviazione",
       "pt": "o desvio",
       "ja": "回避",
-      "zh": "绕行"
+      "zh": "绕行",
+      "fr": "dérivation"
     },
     "examples": [],
     "meta": {},
@@ -11683,7 +12088,8 @@ const WORDS_RU_B2 = [
       "it": "partorire",
       "pt": "dar à luz",
       "ja": "出産する",
-      "zh": "生育"
+      "zh": "生育",
+      "fr": "accoucher"
     },
     "examples": [],
     "meta": {},
@@ -11713,7 +12119,8 @@ const WORDS_RU_B2 = [
       "it": "la posta",
       "pt": "a aposta",
       "ja": "賭け金",
-      "zh": "赌注"
+      "zh": "赌注",
+      "fr": "enjeu"
     },
     "examples": [],
     "meta": {},
@@ -11742,7 +12149,8 @@ const WORDS_RU_B2 = [
       "it": "saltare",
       "pt": "saltar",
       "ja": "跳ぶ",
-      "zh": "跳"
+      "zh": "跳",
+      "fr": "sauter"
     },
     "examples": [],
     "meta": {},
@@ -11771,7 +12179,8 @@ const WORDS_RU_B2 = [
       "it": "il perimetro",
       "pt": "o perímetro",
       "ja": "周囲",
-      "zh": "周长"
+      "zh": "周长",
+      "fr": "périmètre"
     },
     "examples": [],
     "meta": {},
@@ -11800,7 +12209,8 @@ const WORDS_RU_B2 = [
       "it": "vestirsi",
       "pt": "vestir-se",
       "ja": "服を着る",
-      "zh": "穿衣"
+      "zh": "穿衣",
+      "fr": "s'habiller"
     },
     "examples": [],
     "meta": {},
@@ -11829,7 +12239,8 @@ const WORDS_RU_B2 = [
       "it": "la vergogna",
       "pt": "a vergonha",
       "ja": "恥",
-      "zh": "羞耻"
+      "zh": "羞耻",
+      "fr": "honte"
     },
     "examples": [],
     "meta": {},
@@ -11857,7 +12268,8 @@ const WORDS_RU_B2 = [
       "it": "il portale",
       "pt": "o portal",
       "ja": "ポータル",
-      "zh": "门户"
+      "zh": "门户",
+      "fr": "portail"
     },
     "examples": [],
     "meta": {},
@@ -11885,7 +12297,8 @@ const WORDS_RU_B2 = [
       "it": "interno",
       "pt": "interno",
       "ja": "内部の",
-      "zh": "内部的"
+      "zh": "内部的",
+      "fr": "interne"
     },
     "examples": [],
     "meta": {},
@@ -11911,7 +12324,8 @@ const WORDS_RU_B2 = [
       "it": "la delusione",
       "pt": "a decepção",
       "ja": "失望",
-      "zh": "失望"
+      "zh": "失望",
+      "fr": "déception"
     },
     "examples": [],
     "meta": {},
@@ -11939,7 +12353,8 @@ const WORDS_RU_B2 = [
       "it": "la frode",
       "pt": "a fraude",
       "ja": "詐欺",
-      "zh": "欺诈"
+      "zh": "欺诈",
+      "fr": "fraude"
     },
     "examples": [],
     "meta": {},
@@ -11967,7 +12382,8 @@ const WORDS_RU_B2 = [
       "it": "liberare",
       "pt": "livrar",
       "ja": "救う",
-      "zh": "解救"
+      "zh": "解救",
+      "fr": "livrer"
     },
     "examples": [],
     "meta": {},
@@ -11997,7 +12413,8 @@ const WORDS_RU_B2 = [
       "it": "dividere",
       "pt": "dividir",
       "ja": "分ける",
-      "zh": "分割"
+      "zh": "分割",
+      "fr": "diviser"
     },
     "examples": [],
     "meta": {},
@@ -12026,7 +12443,8 @@ const WORDS_RU_B2 = [
       "it": "menzionare",
       "pt": "mencionar",
       "ja": "言及する",
-      "zh": "提及"
+      "zh": "提及",
+      "fr": "mentionner"
     },
     "examples": [],
     "meta": {},
@@ -12055,7 +12473,8 @@ const WORDS_RU_B2 = [
       "it": "smontare",
       "pt": "desmontar",
       "ja": "分解する",
-      "zh": "拆卸"
+      "zh": "拆卸",
+      "fr": "démonter"
     },
     "examples": [],
     "meta": {},
@@ -12085,7 +12504,8 @@ const WORDS_RU_B2 = [
       "it": "il franco",
       "pt": "o franco",
       "ja": "フラン",
-      "zh": "法郎"
+      "zh": "法郎",
+      "fr": "franc"
     },
     "examples": [],
     "meta": {},
@@ -12114,7 +12534,8 @@ const WORDS_RU_B2 = [
       "it": "lo studio",
       "pt": "o estúdio",
       "ja": "スタジオ",
-      "zh": "工作室"
+      "zh": "工作室",
+      "fr": "studio"
     },
     "examples": [],
     "meta": {},
@@ -12143,7 +12564,8 @@ const WORDS_RU_B2 = [
       "it": "la proiezione",
       "pt": "a exibição",
       "ja": "上映",
-      "zh": "展示"
+      "zh": "展示",
+      "fr": "projection"
     },
     "examples": [],
     "meta": {},
@@ -12171,7 +12593,8 @@ const WORDS_RU_B2 = [
       "it": "imprecare",
       "pt": "xingar",
       "ja": "罵る",
-      "zh": "咒骂"
+      "zh": "咒骂",
+      "fr": "jurer"
     },
     "examples": [],
     "meta": {},
@@ -12201,7 +12624,8 @@ const WORDS_RU_B2 = [
       "it": "affamato",
       "pt": "faminto",
       "ja": "空腹の",
-      "zh": "饥饿的"
+      "zh": "饥饿的",
+      "fr": "affamé"
     },
     "examples": [],
     "meta": {},
@@ -12227,7 +12651,8 @@ const WORDS_RU_B2 = [
       "it": "l'aspettativa",
       "pt": "a expectativa",
       "ja": "期待",
-      "zh": "期待"
+      "zh": "期待",
+      "fr": "attente"
     },
     "examples": [],
     "meta": {},
@@ -12256,7 +12681,8 @@ const WORDS_RU_B2 = [
       "it": "il gesso",
       "pt": "o giz",
       "ja": "チョーク",
-      "zh": "粉笔"
+      "zh": "粉笔",
+      "fr": "craie"
     },
     "examples": [],
     "meta": {},
@@ -12285,7 +12711,8 @@ const WORDS_RU_B2 = [
       "it": "applicare",
       "pt": "aplicar",
       "ja": "適用する",
-      "zh": "应用"
+      "zh": "应用",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {},
@@ -12314,7 +12741,8 @@ const WORDS_RU_B2 = [
       "it": "da nessuna parte",
       "pt": "em nenhum lugar",
       "ja": "どこにもない",
-      "zh": "无处"
+      "zh": "无处",
+      "fr": "nulle part"
     },
     "examples": [],
     "meta": {},
@@ -12340,7 +12768,8 @@ const WORDS_RU_B2 = [
       "it": "l'argento",
       "pt": "a prata",
       "ja": "銀",
-      "zh": "银"
+      "zh": "银",
+      "fr": "argent"
     },
     "examples": [],
     "meta": {},
@@ -12368,7 +12797,8 @@ const WORDS_RU_B2 = [
       "it": "la tristezza",
       "pt": "a tristeza",
       "ja": "悲しみ",
-      "zh": "悲伤"
+      "zh": "悲伤",
+      "fr": "tristesse"
     },
     "examples": [],
     "meta": {},
@@ -12397,7 +12827,8 @@ const WORDS_RU_B2 = [
       "it": "basso",
       "pt": "baixo",
       "ja": "低い",
-      "zh": "低的"
+      "zh": "低的",
+      "fr": "bas"
     },
     "examples": [],
     "meta": {},
@@ -12423,7 +12854,8 @@ const WORDS_RU_B2 = [
       "it": "l'insulto",
       "pt": "o insulto",
       "ja": "侮辱",
-      "zh": "侮辱"
+      "zh": "侮辱",
+      "fr": "insulte"
     },
     "examples": [],
     "meta": {},
@@ -12451,7 +12883,8 @@ const WORDS_RU_B2 = [
       "it": "l'insignificanza",
       "pt": "a insignificância",
       "ja": "無意味",
-      "zh": "微不足道"
+      "zh": "微不足道",
+      "fr": "insignifiance"
     },
     "examples": [],
     "meta": {},
@@ -12479,7 +12912,8 @@ const WORDS_RU_B2 = [
       "it": "rintracciare",
       "pt": "rastrear",
       "ja": "追跡する",
-      "zh": "追踪"
+      "zh": "追踪",
+      "fr": "traquer"
     },
     "examples": [],
     "meta": {},
@@ -12508,7 +12942,8 @@ const WORDS_RU_B2 = [
       "it": "la direzione",
       "pt": "a gerência",
       "ja": "上司",
-      "zh": "上级"
+      "zh": "上级",
+      "fr": "gestion"
     },
     "examples": [],
     "meta": {},
@@ -12537,7 +12972,8 @@ const WORDS_RU_B2 = [
       "it": "la scala",
       "pt": "a escada",
       "ja": "階段",
-      "zh": "楼梯"
+      "zh": "楼梯",
+      "fr": "escalier"
     },
     "examples": [],
     "meta": {},
@@ -12565,7 +13001,8 @@ const WORDS_RU_B2 = [
       "it": "la ricompensa",
       "pt": "a recompensa",
       "ja": "報酬",
-      "zh": "报酬"
+      "zh": "报酬",
+      "fr": "récompense"
     },
     "examples": [],
     "meta": {},
@@ -12593,7 +13030,8 @@ const WORDS_RU_B2 = [
       "it": "il tuono",
       "pt": "o trovão",
       "ja": "雷鳴",
-      "zh": "雷"
+      "zh": "雷",
+      "fr": "tonnerre"
     },
     "examples": [],
     "meta": {},
@@ -12622,7 +13060,8 @@ const WORDS_RU_B2 = [
       "it": "l'annunciatore",
       "pt": "o locutor",
       "ja": "アナウンサー",
-      "zh": "播音员"
+      "zh": "播音员",
+      "fr": "annonceur"
     },
     "examples": [],
     "meta": {},
@@ -12651,7 +13090,8 @@ const WORDS_RU_B2 = [
       "it": "cadere",
       "pt": "cair",
       "ja": "落ちる",
-      "zh": "落下"
+      "zh": "落下",
+      "fr": "tomber"
     },
     "examples": [],
     "meta": {},
@@ -12680,7 +13120,8 @@ const WORDS_RU_B2 = [
       "it": "mettere fuori combattimento",
       "pt": "nocautear",
       "ja": "打ち倒す",
-      "zh": "击倒"
+      "zh": "击倒",
+      "fr": "assommer"
     },
     "examples": [],
     "meta": {},
@@ -12710,7 +13151,8 @@ const WORDS_RU_B2 = [
       "it": "inviare",
       "pt": "enviar",
       "ja": "送る",
-      "zh": "发送"
+      "zh": "发送",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -12739,7 +13181,8 @@ const WORDS_RU_B2 = [
       "it": "la vestaglia",
       "pt": "o roupão",
       "ja": "ガウン",
-      "zh": "浴袍"
+      "zh": "浴袍",
+      "fr": "robe"
     },
     "examples": [],
     "meta": {},
@@ -12767,7 +13210,8 @@ const WORDS_RU_B2 = [
       "it": "implorare",
       "pt": "implorar",
       "ja": "懇願する",
-      "zh": "恳求"
+      "zh": "恳求",
+      "fr": "implorer"
     },
     "examples": [],
     "meta": {},
@@ -12796,7 +13240,8 @@ const WORDS_RU_B2 = [
       "it": "accompagnare",
       "pt": "acompanhar",
       "ja": "同伴する",
-      "zh": "陪伴"
+      "zh": "陪伴",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {},
@@ -12826,7 +13271,8 @@ const WORDS_RU_B2 = [
       "it": "vicino",
       "pt": "próximo",
       "ja": "近い",
-      "zh": "近的"
+      "zh": "近的",
+      "fr": "fermer"
     },
     "examples": [],
     "meta": {},
@@ -12852,7 +13298,8 @@ const WORDS_RU_B2 = [
       "it": "centrale",
       "pt": "central",
       "ja": "中央の",
-      "zh": "中央的"
+      "zh": "中央的",
+      "fr": "central"
     },
     "examples": [],
     "meta": {},
@@ -12879,7 +13326,8 @@ const WORDS_RU_B2 = [
       "it": "il chilogrammo",
       "pt": "o quilograma",
       "ja": "キログラム",
-      "zh": "千克"
+      "zh": "千克",
+      "fr": "kilogramme"
     },
     "examples": [],
     "meta": {},
@@ -12908,7 +13356,8 @@ const WORDS_RU_B2 = [
       "it": "disegnare",
       "pt": "desenhar",
       "ja": "描く",
-      "zh": "画"
+      "zh": "画",
+      "fr": "dessiner"
     },
     "examples": [],
     "meta": {},
@@ -12937,7 +13386,8 @@ const WORDS_RU_B2 = [
       "it": "il mentore",
       "pt": "o mentor",
       "ja": "メンター",
-      "zh": "导师"
+      "zh": "导师",
+      "fr": "mentor"
     },
     "examples": [],
     "meta": {},
@@ -12965,7 +13415,8 @@ const WORDS_RU_B2 = [
       "it": "l'illusione",
       "pt": "a ilusão",
       "ja": "錯覚",
-      "zh": "错觉"
+      "zh": "错觉",
+      "fr": "délire"
     },
     "examples": [],
     "meta": {},
@@ -12995,7 +13446,8 @@ const WORDS_RU_B2 = [
       "it": "la conversazione",
       "pt": "a conversa",
       "ja": "会話",
-      "zh": "谈话"
+      "zh": "谈话",
+      "fr": "conversation"
     },
     "examples": [],
     "meta": {},
@@ -13024,7 +13476,8 @@ const WORDS_RU_B2 = [
       "it": "la moglie",
       "pt": "a esposa",
       "ja": "妻",
-      "zh": "妻子"
+      "zh": "妻子",
+      "fr": "femme"
     },
     "examples": [],
     "meta": {},
@@ -13052,7 +13505,8 @@ const WORDS_RU_B2 = [
       "it": "la Vergine",
       "pt": "Virgem",
       "ja": "乙女座",
-      "zh": "处女座"
+      "zh": "处女座",
+      "fr": "Vierge"
     },
     "examples": [],
     "meta": {},
@@ -13080,7 +13534,8 @@ const WORDS_RU_B2 = [
       "it": "il trucco",
       "pt": "o truque",
       "ja": "策略",
-      "zh": "诡计"
+      "zh": "诡计",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -13108,7 +13563,8 @@ const WORDS_RU_B2 = [
       "it": "presentare",
       "pt": "apresentar",
       "ja": "提示する",
-      "zh": "出示"
+      "zh": "出示",
+      "fr": "cadeau"
     },
     "examples": [],
     "meta": {},
@@ -13138,7 +13594,8 @@ const WORDS_RU_B2 = [
       "it": "il dispositivo",
       "pt": "o dispositivo",
       "ja": "装置",
-      "zh": "装置"
+      "zh": "装置",
+      "fr": "appareil"
     },
     "examples": [],
     "meta": {},
@@ -13166,7 +13623,8 @@ const WORDS_RU_B2 = [
       "it": "pensare",
       "pt": "pensar",
       "ja": "考える",
-      "zh": "思考"
+      "zh": "思考",
+      "fr": "penser"
     },
     "examples": [],
     "meta": {},
@@ -13195,7 +13653,8 @@ const WORDS_RU_B2 = [
       "it": "assicurare",
       "pt": "assegurar",
       "ja": "保証する",
-      "zh": "保证"
+      "zh": "保证",
+      "fr": "assurer"
     },
     "examples": [],
     "meta": {},
@@ -13225,7 +13684,8 @@ const WORDS_RU_B2 = [
       "it": "l'applicazione",
       "pt": "o aplicativo",
       "ja": "アプリケーション",
-      "zh": "应用"
+      "zh": "应用",
+      "fr": "application"
     },
     "examples": [],
     "meta": {},
@@ -13253,7 +13713,8 @@ const WORDS_RU_B2 = [
       "it": "il foro",
       "pt": "o buraco",
       "ja": "穴",
-      "zh": "孔"
+      "zh": "孔",
+      "fr": "ouverture"
     },
     "examples": [],
     "meta": {},
@@ -13283,7 +13744,8 @@ const WORDS_RU_B2 = [
       "it": "tedesco",
       "pt": "alemão",
       "ja": "ドイツの",
-      "zh": "德国的"
+      "zh": "德国的",
+      "fr": "allemand"
     },
     "examples": [],
     "meta": {},
@@ -13309,7 +13771,8 @@ const WORDS_RU_B2 = [
       "it": "stare in piedi per un po'",
       "pt": "ficar de pé por um tempo",
       "ja": "しばらく立つ",
-      "zh": "站一会儿"
+      "zh": "站一会儿",
+      "fr": "se tenir"
     },
     "examples": [],
     "meta": {},
@@ -13338,7 +13801,8 @@ const WORDS_RU_B2 = [
       "it": "la posizione",
       "pt": "a localização",
       "ja": "配置",
-      "zh": "位置"
+      "zh": "位置",
+      "fr": "emplacement"
     },
     "examples": [],
     "meta": {},
@@ -13367,7 +13831,8 @@ const WORDS_RU_B2 = [
       "it": "la primavera",
       "pt": "a primavera",
       "ja": "春",
-      "zh": "春天"
+      "zh": "春天",
+      "fr": "printemps"
     },
     "examples": [],
     "meta": {},
@@ -13395,7 +13860,8 @@ const WORDS_RU_B2 = [
       "it": "lo squalo",
       "pt": "o tubarão",
       "ja": "サメ",
-      "zh": "鲨鱼"
+      "zh": "鲨鱼",
+      "fr": "requin"
     },
     "examples": [],
     "meta": {},
@@ -13423,7 +13889,8 @@ const WORDS_RU_B2 = [
       "it": "l'attività",
       "pt": "a atividade",
       "ja": "活動",
-      "zh": "活动"
+      "zh": "活动",
+      "fr": "activité"
     },
     "examples": [],
     "meta": {},
@@ -13451,7 +13918,8 @@ const WORDS_RU_B2 = [
       "it": "il sorso",
       "pt": "o gole",
       "ja": "一口",
-      "zh": "一口"
+      "zh": "一口",
+      "fr": "gorgée"
     },
     "examples": [],
     "meta": {},
@@ -13480,7 +13948,8 @@ const WORDS_RU_B2 = [
       "it": "lo psicologo",
       "pt": "o psicólogo",
       "ja": "心理学者",
-      "zh": "心理学家"
+      "zh": "心理学家",
+      "fr": "psychologue"
     },
     "examples": [],
     "meta": {},
@@ -13508,7 +13977,8 @@ const WORDS_RU_B2 = [
       "it": "eliminare",
       "pt": "eliminar",
       "ja": "排除する",
-      "zh": "消除"
+      "zh": "消除",
+      "fr": "éliminer"
     },
     "examples": [],
     "meta": {},
@@ -13537,7 +14007,8 @@ const WORDS_RU_B2 = [
       "it": "d'affari",
       "pt": "de negócios",
       "ja": "ビジネスの",
-      "zh": "商业的"
+      "zh": "商业的",
+      "fr": "affaires"
     },
     "examples": [],
     "meta": {},
@@ -13565,7 +14036,8 @@ const WORDS_RU_B2 = [
       "it": "l'hamburger",
       "pt": "o hambúrguer",
       "ja": "バーガー",
-      "zh": "汉堡"
+      "zh": "汉堡",
+      "fr": "burger"
     },
     "examples": [],
     "meta": {},
@@ -13593,7 +14065,8 @@ const WORDS_RU_B2 = [
       "it": "la fiaba",
       "pt": "o conto de fadas",
       "ja": "おとぎ話",
-      "zh": "童话"
+      "zh": "童话",
+      "fr": "conte de fées"
     },
     "examples": [],
     "meta": {},
@@ -13622,7 +14095,8 @@ const WORDS_RU_B2 = [
       "it": "l'osservazione",
       "pt": "a observação",
       "ja": "意見",
-      "zh": "评论"
+      "zh": "评论",
+      "fr": "remarque"
     },
     "examples": [],
     "meta": {},
@@ -13650,7 +14124,8 @@ const WORDS_RU_B2 = [
       "it": "l'eredità",
       "pt": "a herança",
       "ja": "遺産",
-      "zh": "遗产"
+      "zh": "遗产",
+      "fr": "héritage"
     },
     "examples": [],
     "meta": {},
@@ -13679,7 +14154,8 @@ const WORDS_RU_B2 = [
       "it": "l'acquirente",
       "pt": "o comprador",
       "ja": "買い手",
-      "zh": "买方"
+      "zh": "买方",
+      "fr": "acheteur"
     },
     "examples": [],
     "meta": {},
@@ -13707,7 +14183,8 @@ const WORDS_RU_B2 = [
       "it": "onnipotente",
       "pt": "onipotente",
       "ja": "全能の",
-      "zh": "全能的"
+      "zh": "全能的",
+      "fr": "tout-puissant"
     },
     "examples": [],
     "meta": {},
@@ -13734,7 +14211,8 @@ const WORDS_RU_B2 = [
       "it": "potente",
       "pt": "poderoso",
       "ja": "強力な",
-      "zh": "强大的"
+      "zh": "强大的",
+      "fr": "puissant"
     },
     "examples": [],
     "meta": {},
@@ -13761,7 +14239,8 @@ const WORDS_RU_B2 = [
       "it": "l'uomo d'affari",
       "pt": "o empresário",
       "ja": "実業家",
-      "zh": "商人"
+      "zh": "商人",
+      "fr": "homme d'affaires"
     },
     "examples": [],
     "meta": {},
@@ -13789,7 +14268,8 @@ const WORDS_RU_B2 = [
       "it": "sexy",
       "pt": "sexy",
       "ja": "セクシーな",
-      "zh": "性感的"
+      "zh": "性感的",
+      "fr": "sexy"
     },
     "examples": [],
     "meta": {},
@@ -13816,7 +14296,8 @@ const WORDS_RU_B2 = [
       "it": "la passeggiata",
       "pt": "o passeio",
       "ja": "散歩",
-      "zh": "散步"
+      "zh": "散步",
+      "fr": "marche"
     },
     "examples": [],
     "meta": {},
@@ -13844,7 +14325,8 @@ const WORDS_RU_B2 = [
       "it": "giustificare",
       "pt": "justificar",
       "ja": "正当化する",
-      "zh": "证明"
+      "zh": "证明",
+      "fr": "justifier"
     },
     "examples": [],
     "meta": {},
@@ -13873,7 +14355,8 @@ const WORDS_RU_B2 = [
       "it": "il pubblico",
       "pt": "o público",
       "ja": "観客",
-      "zh": "观众"
+      "zh": "观众",
+      "fr": "public"
     },
     "examples": [],
     "meta": {},
@@ -13901,7 +14384,8 @@ const WORDS_RU_B2 = [
       "it": "la sciocchezza",
       "pt": "o disparate",
       "ja": "馬鹿げたこと",
-      "zh": "胡说"
+      "zh": "胡说",
+      "fr": "absurdité"
     },
     "examples": [],
     "meta": {},
@@ -13929,7 +14413,8 @@ const WORDS_RU_B2 = [
       "it": "indovinare",
       "pt": "adivinhar",
       "ja": "推測する",
-      "zh": "猜"
+      "zh": "猜",
+      "fr": "deviner"
     },
     "examples": [],
     "meta": {},
@@ -13958,7 +14443,8 @@ const WORDS_RU_B2 = [
       "it": "strappare",
       "pt": "rasgar",
       "ja": "引き裂く",
-      "zh": "撕裂"
+      "zh": "撕裂",
+      "fr": "larme"
     },
     "examples": [],
     "meta": {},
@@ -13987,7 +14473,8 @@ const WORDS_RU_B2 = [
       "it": "la crudeltà",
       "pt": "a crueldade",
       "ja": "残酷さ",
-      "zh": "残酷"
+      "zh": "残酷",
+      "fr": "cruauté"
     },
     "examples": [],
     "meta": {},
@@ -14015,7 +14502,8 @@ const WORDS_RU_B2 = [
       "it": "la commissione",
       "pt": "a comissão",
       "ja": "委員会",
-      "zh": "委员会"
+      "zh": "委员会",
+      "fr": "commission"
     },
     "examples": [],
     "meta": {},
@@ -14043,7 +14531,8 @@ const WORDS_RU_B2 = [
       "it": "il coperchio",
       "pt": "a tampa",
       "ja": "蓋",
-      "zh": "盖子"
+      "zh": "盖子",
+      "fr": "couvercle"
     },
     "examples": [],
     "meta": {},
@@ -14071,7 +14560,8 @@ const WORDS_RU_B2 = [
       "it": "l'abominio",
       "pt": "a abominação",
       "ja": "嫌悪",
-      "zh": "憎恶"
+      "zh": "憎恶",
+      "fr": "abomination"
     },
     "examples": [],
     "meta": {},
@@ -14099,7 +14589,8 @@ const WORDS_RU_B2 = [
       "it": "il ponticello",
       "pt": "a pequena ponte",
       "ja": "小橋",
-      "zh": "小桥"
+      "zh": "小桥",
+      "fr": "petit pont"
     },
     "examples": [],
     "meta": {},
@@ -14127,7 +14618,8 @@ const WORDS_RU_B2 = [
       "it": "dato",
       "pt": "dado",
       "ja": "与えられた",
-      "zh": "给予"
+      "zh": "给予",
+      "fr": "donné"
     },
     "examples": [],
     "meta": {},
@@ -14153,7 +14645,8 @@ const WORDS_RU_B2 = [
       "it": "degno",
       "pt": "digno",
       "ja": "価値のある",
-      "zh": "值得的"
+      "zh": "值得的",
+      "fr": "digne"
     },
     "examples": [],
     "meta": {},
@@ -14179,7 +14672,8 @@ const WORDS_RU_B2 = [
       "it": "la palestra",
       "pt": "o ginásio",
       "ja": "体育館",
-      "zh": "体育馆"
+      "zh": "体育馆",
+      "fr": "salle de sport"
     },
     "examples": [],
     "meta": {},
@@ -14208,7 +14702,8 @@ const WORDS_RU_B2 = [
       "it": "il lampo",
       "pt": "o flash",
       "ja": "閃光",
-      "zh": "闪光"
+      "zh": "闪光",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {},
@@ -14237,7 +14732,8 @@ const WORDS_RU_B2 = [
       "it": "il bestiame",
       "pt": "o gado",
       "ja": "家畜",
-      "zh": "牲畜"
+      "zh": "牲畜",
+      "fr": "bétail"
     },
     "examples": [],
     "meta": {},
@@ -14265,7 +14761,8 @@ const WORDS_RU_B2 = [
       "it": "autorizzato",
       "pt": "com direito",
       "ja": "権利がある",
-      "zh": "有权"
+      "zh": "有权",
+      "fr": "intitulé"
     },
     "examples": [],
     "meta": {},
@@ -14291,7 +14788,8 @@ const WORDS_RU_B2 = [
       "it": "sospettare",
       "pt": "suspeitar",
       "ja": "疑う",
-      "zh": "怀疑"
+      "zh": "怀疑",
+      "fr": "suspect"
     },
     "examples": [],
     "meta": {},
@@ -14320,7 +14818,8 @@ const WORDS_RU_B2 = [
       "it": "l'inseguimento",
       "pt": "a perseguição",
       "ja": "追跡",
-      "zh": "追逐"
+      "zh": "追逐",
+      "fr": "poursuite"
     },
     "examples": [],
     "meta": {},
@@ -14349,7 +14848,8 @@ const WORDS_RU_B2 = [
       "it": "lo sconosciuto",
       "pt": "o estranho",
       "ja": "見知らぬ人",
-      "zh": "陌生人"
+      "zh": "陌生人",
+      "fr": "étranger"
     },
     "examples": [],
     "meta": {},
@@ -14378,7 +14878,8 @@ const WORDS_RU_B2 = [
       "it": "vergognarsi",
       "pt": "ter vergonha",
       "ja": "恥じる",
-      "zh": "感到羞耻"
+      "zh": "感到羞耻",
+      "fr": "avoir honte"
     },
     "examples": [],
     "meta": {},
@@ -14408,7 +14909,8 @@ const WORDS_RU_B2 = [
       "it": "fare un giro",
       "pt": "dar uma volta",
       "ja": "乗る",
-      "zh": "兜风"
+      "zh": "兜风",
+      "fr": "faire un tour"
     },
     "examples": [],
     "meta": {},
@@ -14437,7 +14939,8 @@ const WORDS_RU_B2 = [
       "it": "la cattura",
       "pt": "a captura",
       "ja": "捕獲",
-      "zh": "捕获"
+      "zh": "捕获",
+      "fr": "capture"
     },
     "examples": [],
     "meta": {},
@@ -14465,7 +14968,8 @@ const WORDS_RU_B2 = [
       "it": "sporgere",
       "pt": "sobressair",
       "ja": "突き出る",
-      "zh": "突出"
+      "zh": "突出",
+      "fr": "dépasser"
     },
     "examples": [],
     "meta": {},
@@ -14494,7 +14998,8 @@ const WORDS_RU_B2 = [
       "it": "i poteri",
       "pt": "os poderes",
       "ja": "権限",
-      "zh": "权限"
+      "zh": "权限",
+      "fr": "autorité"
     },
     "examples": [],
     "meta": {},
@@ -14524,7 +15029,8 @@ const WORDS_RU_B2 = [
       "it": "la professione",
       "pt": "a profissão",
       "ja": "職業",
-      "zh": "职业"
+      "zh": "职业",
+      "fr": "profession"
     },
     "examples": [],
     "meta": {},
@@ -14553,7 +15059,8 @@ const WORDS_RU_B2 = [
       "it": "il senso",
       "pt": "o sentido",
       "ja": "意味",
-      "zh": "意义"
+      "zh": "意义",
+      "fr": "sens"
     },
     "examples": [],
     "meta": {},
@@ -14581,7 +15088,8 @@ const WORDS_RU_B2 = [
       "it": "liberarsi",
       "pt": "libertar-se",
       "ja": "逃れる",
-      "zh": "挣脱"
+      "zh": "挣脱",
+      "fr": "s'échapper"
     },
     "examples": [],
     "meta": {},
@@ -14611,7 +15119,8 @@ const WORDS_RU_B2 = [
       "it": "il rum",
       "pt": "o rum",
       "ja": "ラム酒",
-      "zh": "朗姆酒"
+      "zh": "朗姆酒",
+      "fr": "rhum"
     },
     "examples": [],
     "meta": {},
@@ -14640,7 +15149,8 @@ const WORDS_RU_B2 = [
       "it": "la percentuale",
       "pt": "a porcentagem",
       "ja": "パーセント",
-      "zh": "百分比"
+      "zh": "百分比",
+      "fr": "pour cent"
     },
     "examples": [],
     "meta": {},
@@ -14669,7 +15179,8 @@ const WORDS_RU_B2 = [
       "it": "dirigere",
       "pt": "dirigir",
       "ja": "指導する",
-      "zh": "领导"
+      "zh": "领导",
+      "fr": "plomb"
     },
     "examples": [],
     "meta": {},
@@ -14698,7 +15209,8 @@ const WORDS_RU_B2 = [
       "it": "il sovrano",
       "pt": "o soberano",
       "ja": "君主",
-      "zh": "君主"
+      "zh": "君主",
+      "fr": "souverain"
     },
     "examples": [],
     "meta": {},
@@ -14726,7 +15238,8 @@ const WORDS_RU_B2 = [
       "it": "proteggere",
       "pt": "proteger",
       "ja": "保護する",
-      "zh": "保护"
+      "zh": "保护",
+      "fr": "protéger"
     },
     "examples": [],
     "meta": {},
@@ -14757,7 +15270,8 @@ const WORDS_RU_B2 = [
       "it": "l'ambasciata",
       "pt": "a embaixada",
       "ja": "大使館",
-      "zh": "大使馆"
+      "zh": "大使馆",
+      "fr": "ambassade"
     },
     "examples": [],
     "meta": {},
@@ -14786,7 +15300,8 @@ const WORDS_RU_B2 = [
       "it": "la corsa",
       "pt": "a corrida",
       "ja": "競争",
-      "zh": "比赛"
+      "zh": "比赛",
+      "fr": "course"
     },
     "examples": [],
     "meta": {},
@@ -14814,7 +15329,8 @@ const WORDS_RU_B2 = [
       "it": "la conseguenza",
       "pt": "a consequência",
       "ja": "結果",
-      "zh": "后果"
+      "zh": "后果",
+      "fr": "conséquence"
     },
     "examples": [],
     "meta": {},
@@ -14843,7 +15359,8 @@ const WORDS_RU_B2 = [
       "it": "lasciare",
       "pt": "deixar",
       "ja": "許す",
-      "zh": "让"
+      "zh": "让",
+      "fr": "laisser"
     },
     "examples": [],
     "meta": {},
@@ -14873,7 +15390,8 @@ const WORDS_RU_B2 = [
       "it": "il solo",
       "pt": "o solo",
       "ja": "ソロ",
-      "zh": "独奏"
+      "zh": "独奏",
+      "fr": "solo"
     },
     "examples": [],
     "meta": {},
@@ -14901,7 +15419,8 @@ const WORDS_RU_B2 = [
       "it": "la saggezza",
       "pt": "a sabedoria",
       "ja": "知恵",
-      "zh": "智慧"
+      "zh": "智慧",
+      "fr": "sagesse"
     },
     "examples": [],
     "meta": {},
@@ -14929,7 +15448,8 @@ const WORDS_RU_B2 = [
       "it": "intervenire",
       "pt": "intervir",
       "ja": "介入する",
-      "zh": "干预"
+      "zh": "干预",
+      "fr": "intervenir"
     },
     "examples": [],
     "meta": {},
@@ -14959,7 +15479,8 @@ const WORDS_RU_B2 = [
       "it": "inverso",
       "pt": "inverso",
       "ja": "逆の",
-      "zh": "相反的"
+      "zh": "相反的",
+      "fr": "inverser"
     },
     "examples": [],
     "meta": {},
@@ -14986,7 +15507,8 @@ const WORDS_RU_B2 = [
       "it": "la Thailandia",
       "pt": "a Tailândia",
       "ja": "タイ",
-      "zh": "泰国"
+      "zh": "泰国",
+      "fr": "Thaïlande"
     },
     "examples": [],
     "meta": {},
@@ -15015,7 +15537,8 @@ const WORDS_RU_B2 = [
       "it": "l'allarme",
       "pt": "o alarme",
       "ja": "警報システム",
-      "zh": "警报系统"
+      "zh": "警报系统",
+      "fr": "système d'alarme"
     },
     "examples": [],
     "meta": {},
@@ -15043,7 +15566,8 @@ const WORDS_RU_B2 = [
       "it": "il più grande",
       "pt": "o maior",
       "ja": "最も偉大な",
-      "zh": "最伟大的"
+      "zh": "最伟大的",
+      "fr": "plus grand"
     },
     "examples": [],
     "meta": {},
@@ -15070,7 +15594,8 @@ const WORDS_RU_B2 = [
       "it": "coraggioso",
       "pt": "corajoso",
       "ja": "勇敢な",
-      "zh": "勇敢的"
+      "zh": "勇敢的",
+      "fr": "courageux"
     },
     "examples": [],
     "meta": {},
@@ -15097,7 +15622,8 @@ const WORDS_RU_B2 = [
       "it": "a metà strada",
       "pt": "a meio caminho",
       "ja": "途中",
-      "zh": "半路"
+      "zh": "半路",
+      "fr": "à mi-chemin"
     },
     "examples": [],
     "meta": {},
@@ -15126,7 +15652,8 @@ const WORDS_RU_B2 = [
       "it": "l'irruzione",
       "pt": "o arrombamento",
       "ja": "侵入",
-      "zh": "闯入"
+      "zh": "闯入",
+      "fr": "cambriolage"
     },
     "examples": [],
     "meta": {},
@@ -15155,7 +15682,8 @@ const WORDS_RU_B2 = [
       "it": "il pugno",
       "pt": "o punho",
       "ja": "拳",
-      "zh": "拳头"
+      "zh": "拳头",
+      "fr": "poing"
     },
     "examples": [],
     "meta": {},
@@ -15184,7 +15712,8 @@ const WORDS_RU_B2 = [
       "it": "il tempismo",
       "pt": "o timing",
       "ja": "タイミング",
-      "zh": "时机"
+      "zh": "时机",
+      "fr": "synchronisation"
     },
     "examples": [],
     "meta": {},
@@ -15213,7 +15742,8 @@ const WORDS_RU_B2 = [
       "it": "pulire",
       "pt": "limpar",
       "ja": "掃除する",
-      "zh": "清洁"
+      "zh": "清洁",
+      "fr": "propre"
     },
     "examples": [],
     "meta": {},
@@ -15242,7 +15772,8 @@ const WORDS_RU_B2 = [
       "it": "supremo",
       "pt": "supremo",
       "ja": "最高の",
-      "zh": "最高的"
+      "zh": "最高的",
+      "fr": "plus haut"
     },
     "examples": [],
     "meta": {},
@@ -15268,7 +15799,8 @@ const WORDS_RU_B2 = [
       "it": "resistere",
       "pt": "resistir",
       "ja": "耐える",
-      "zh": "经受"
+      "zh": "经受",
+      "fr": "résister"
     },
     "examples": [],
     "meta": {},
@@ -15298,7 +15830,8 @@ const WORDS_RU_B2 = [
       "it": "l'anniversario",
       "pt": "o aniversário",
       "ja": "記念日",
-      "zh": "周年纪念"
+      "zh": "周年纪念",
+      "fr": "anniversaire"
     },
     "examples": [],
     "meta": {},
@@ -15326,7 +15859,8 @@ const WORDS_RU_B2 = [
       "it": "abbassare",
       "pt": "baixar",
       "ja": "下ろす",
-      "zh": "降低"
+      "zh": "降低",
+      "fr": "baisser"
     },
     "examples": [],
     "meta": {},
@@ -15355,7 +15889,8 @@ const WORDS_RU_B2 = [
       "it": "il deputato",
       "pt": "o congressista",
       "ja": "下院議員",
-      "zh": "国会议员"
+      "zh": "国会议员",
+      "fr": "député"
     },
     "examples": [],
     "meta": {},
@@ -15384,7 +15919,8 @@ const WORDS_RU_B2 = [
       "it": "il tintinnio",
       "pt": "o tilintar",
       "ja": "鳴り響く音",
-      "zh": "铃声"
+      "zh": "铃声",
+      "fr": "sonnerie"
     },
     "examples": [],
     "meta": {},
@@ -15413,7 +15949,8 @@ const WORDS_RU_B2 = [
       "it": "nuziale",
       "pt": "nupcial",
       "ja": "結婚式の",
-      "zh": "婚礼的"
+      "zh": "婚礼的",
+      "fr": "mariage"
     },
     "examples": [],
     "meta": {},
@@ -15440,7 +15977,8 @@ const WORDS_RU_B2 = [
       "it": "il fotogramma",
       "pt": "o quadro",
       "ja": "フレーム",
-      "zh": "帧"
+      "zh": "帧",
+      "fr": "cadre"
     },
     "examples": [],
     "meta": {},
@@ -15468,7 +16006,8 @@ const WORDS_RU_B2 = [
       "it": "violare",
       "pt": "violar",
       "ja": "違反する",
-      "zh": "违反"
+      "zh": "违反",
+      "fr": "violer"
     },
     "examples": [],
     "meta": {},
@@ -15498,7 +16037,8 @@ const WORDS_RU_B2 = [
       "it": "estivo",
       "pt": "de verão",
       "ja": "夏の",
-      "zh": "夏季的"
+      "zh": "夏季的",
+      "fr": "été"
     },
     "examples": [],
     "meta": {},
@@ -15525,7 +16065,8 @@ const WORDS_RU_B2 = [
       "it": "ottenere",
       "pt": "obter",
       "ja": "取得する",
-      "zh": "获得"
+      "zh": "获得",
+      "fr": "obtenir"
     },
     "examples": [],
     "meta": {},
@@ -15555,7 +16096,8 @@ const WORDS_RU_B2 = [
       "it": "finire",
       "pt": "terminar",
       "ja": "終える",
-      "zh": "完成"
+      "zh": "完成",
+      "fr": "finir"
     },
     "examples": [],
     "meta": {},
@@ -15584,7 +16126,8 @@ const WORDS_RU_B2 = [
       "it": "il verdetto",
       "pt": "o veredito",
       "ja": "評決",
-      "zh": "判决"
+      "zh": "判决",
+      "fr": "verdict"
     },
     "examples": [],
     "meta": {},
@@ -15613,7 +16156,8 @@ const WORDS_RU_B2 = [
       "it": "il più vicino",
       "pt": "o mais próximo",
       "ja": "最も近い",
-      "zh": "最近的"
+      "zh": "最近的",
+      "fr": "proche"
     },
     "examples": [],
     "meta": {},
@@ -15639,7 +16183,8 @@ const WORDS_RU_B2 = [
       "it": "il successo",
       "pt": "o sucesso",
       "ja": "ヒット曲",
-      "zh": "热门歌曲"
+      "zh": "热门歌曲",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {},
@@ -15668,7 +16213,8 @@ const WORDS_RU_B2 = [
       "it": "la terminazione",
       "pt": "o término",
       "ja": "終了",
-      "zh": "终止"
+      "zh": "终止",
+      "fr": "fin"
     },
     "examples": [],
     "meta": {},
@@ -15697,7 +16243,8 @@ const WORDS_RU_B2 = [
       "it": "il contenitore",
       "pt": "o contêiner",
       "ja": "コンテナ",
-      "zh": "集装箱"
+      "zh": "集装箱",
+      "fr": "conteneur"
     },
     "examples": [],
     "meta": {},
@@ -15726,7 +16273,8 @@ const WORDS_RU_B2 = [
       "it": "consegnare",
       "pt": "entregar",
       "ja": "提出する",
-      "zh": "提交"
+      "zh": "提交",
+      "fr": "remettre"
     },
     "examples": [],
     "meta": {},
@@ -15755,7 +16303,8 @@ const WORDS_RU_B2 = [
       "it": "meritare",
       "pt": "merecer",
       "ja": "値する",
-      "zh": "值得"
+      "zh": "值得",
+      "fr": "mériter"
     },
     "examples": [],
     "meta": {},
@@ -15784,7 +16333,8 @@ const WORDS_RU_B2 = [
       "it": "lo sciocco",
       "pt": "o tolo",
       "ja": "馬鹿者",
-      "zh": "傻瓜"
+      "zh": "傻瓜",
+      "fr": "nigaud"
     },
     "examples": [],
     "meta": {},
@@ -15813,7 +16363,8 @@ const WORDS_RU_B2 = [
       "it": "postale",
       "pt": "postal",
       "ja": "郵便の",
-      "zh": "邮政的"
+      "zh": "邮政的",
+      "fr": "postal"
     },
     "examples": [],
     "meta": {},
@@ -15840,7 +16391,8 @@ const WORDS_RU_B2 = [
       "it": "la località",
       "pt": "a localidade",
       "ja": "地域",
-      "zh": "地区"
+      "zh": "地区",
+      "fr": "localité"
     },
     "examples": [],
     "meta": {},
@@ -15868,7 +16420,8 @@ const WORDS_RU_B2 = [
       "it": "il cucciolo",
       "pt": "o filhote",
       "ja": "子犬",
-      "zh": "小狗"
+      "zh": "小狗",
+      "fr": "chiot"
     },
     "examples": [],
     "meta": {},
@@ -15896,7 +16449,8 @@ const WORDS_RU_B2 = [
       "it": "anormale",
       "pt": "anormal",
       "ja": "異常な",
-      "zh": "不正常的"
+      "zh": "不正常的",
+      "fr": "anormal"
     },
     "examples": [],
     "meta": {},
@@ -15922,7 +16476,8 @@ const WORDS_RU_B2 = [
       "it": "la ragazza",
       "pt": "a garota",
       "ja": "女の子",
-      "zh": "女孩"
+      "zh": "女孩",
+      "fr": "fille"
     },
     "examples": [],
     "meta": {},
@@ -15951,7 +16506,8 @@ const WORDS_RU_B2 = [
       "it": "la nomina",
       "pt": "a nomeação",
       "ja": "任命",
-      "zh": "任命"
+      "zh": "任命",
+      "fr": "rendez-vous"
     },
     "examples": [],
     "meta": {},
@@ -15980,7 +16536,8 @@ const WORDS_RU_B2 = [
       "it": "secco",
       "pt": "seco",
       "ja": "乾いた",
-      "zh": "干燥的"
+      "zh": "干燥的",
+      "fr": "sec"
     },
     "examples": [],
     "meta": {},
@@ -16007,7 +16564,8 @@ const WORDS_RU_B2 = [
       "it": "futuro",
       "pt": "futuro",
       "ja": "将来の",
-      "zh": "未来的"
+      "zh": "未来的",
+      "fr": "futur"
     },
     "examples": [],
     "meta": {},
@@ -16033,7 +16591,8 @@ const WORDS_RU_B2 = [
       "it": "il poeta",
       "pt": "o poeta",
       "ja": "詩人",
-      "zh": "诗人"
+      "zh": "诗人",
+      "fr": "poète"
     },
     "examples": [],
     "meta": {},
@@ -16061,7 +16620,8 @@ const WORDS_RU_B2 = [
       "it": "il personale",
       "pt": "o pessoal",
       "ja": "人事",
-      "zh": "人事"
+      "zh": "人事",
+      "fr": "personnel"
     },
     "examples": [],
     "meta": {},
@@ -16089,7 +16649,8 @@ const WORDS_RU_B2 = [
       "it": "volare via",
       "pt": "voar para longe",
       "ja": "飛び去る",
-      "zh": "飞走"
+      "zh": "飞走",
+      "fr": "s'envoler"
     },
     "examples": [],
     "meta": {},
@@ -16119,7 +16680,8 @@ const WORDS_RU_B2 = [
       "it": "la fratellanza",
       "pt": "a irmandade",
       "ja": "兄弟愛",
-      "zh": "兄弟情谊"
+      "zh": "兄弟情谊",
+      "fr": "fraternité"
     },
     "examples": [],
     "meta": {},
@@ -16147,7 +16709,8 @@ const WORDS_RU_B2 = [
       "it": "disgustoso",
       "pt": "nojento",
       "ja": "嫌悪感を抱く",
-      "zh": "令人厌恶的"
+      "zh": "令人厌恶的",
+      "fr": "dégoûtant"
     },
     "examples": [],
     "meta": {},
@@ -16174,7 +16737,8 @@ const WORDS_RU_B2 = [
       "it": "costante",
       "pt": "constante",
       "ja": "一定の",
-      "zh": "恒定的"
+      "zh": "恒定的",
+      "fr": "constant"
     },
     "examples": [],
     "meta": {},
@@ -16201,7 +16765,8 @@ const WORDS_RU_B2 = [
       "it": "obbedire",
       "pt": "obedecer",
       "ja": "服従する",
-      "zh": "服从"
+      "zh": "服从",
+      "fr": "obéir"
     },
     "examples": [],
     "meta": {},
@@ -16230,7 +16795,8 @@ const WORDS_RU_B2 = [
       "it": "la curiosità",
       "pt": "a curiosidade",
       "ja": "好奇心",
-      "zh": "好奇心"
+      "zh": "好奇心",
+      "fr": "curiosité"
     },
     "examples": [],
     "meta": {},
@@ -16259,7 +16825,8 @@ const WORDS_RU_B2 = [
       "it": "il servizio",
       "pt": "o serviço",
       "ja": "サービス",
-      "zh": "服务"
+      "zh": "服务",
+      "fr": "service"
     },
     "examples": [],
     "meta": {},
@@ -16288,7 +16855,8 @@ const WORDS_RU_B2 = [
       "it": "i parenti",
       "pt": "os parentes",
       "ja": "親戚",
-      "zh": "亲戚"
+      "zh": "亲戚",
+      "fr": "parents"
     },
     "examples": [],
     "meta": {},
@@ -16317,7 +16885,8 @@ const WORDS_RU_B2 = [
       "it": "rammaricarsi",
       "pt": "lamentar",
       "ja": "後悔する",
-      "zh": "后悔"
+      "zh": "后悔",
+      "fr": "regret"
     },
     "examples": [],
     "meta": {},
@@ -16346,7 +16915,8 @@ const WORDS_RU_B2 = [
       "it": "distinguere",
       "pt": "discernir",
       "ja": "見分ける",
-      "zh": "辨认"
+      "zh": "辨认",
+      "fr": "discerner"
     },
     "examples": [],
     "meta": {},
@@ -16375,7 +16945,8 @@ const WORDS_RU_B2 = [
       "it": "lanciare in alto",
       "pt": "atirar para cima",
       "ja": "投げ上げる",
-      "zh": "向上抛"
+      "zh": "向上抛",
+      "fr": "pile ou face"
     },
     "examples": [],
     "meta": {},
@@ -16404,7 +16975,8 @@ const WORDS_RU_B2 = [
       "it": "la pigna",
       "pt": "a pinha",
       "ja": "松ぼっくり",
-      "zh": "松果"
+      "zh": "松果",
+      "fr": "cône"
     },
     "examples": [],
     "meta": {},
@@ -16433,7 +17005,8 @@ const WORDS_RU_B2 = [
       "it": "presentarsi",
       "pt": "apresentar-se",
       "ja": "自己紹介する",
-      "zh": "自我介绍"
+      "zh": "自我介绍",
+      "fr": "se présenter"
     },
     "examples": [],
     "meta": {},
@@ -16462,7 +17035,8 @@ const WORDS_RU_B2 = [
       "it": "la fantasia",
       "pt": "a fantasia",
       "ja": "幻想",
-      "zh": "幻想"
+      "zh": "幻想",
+      "fr": "fantaisie"
     },
     "examples": [],
     "meta": {},
@@ -16491,7 +17065,8 @@ const WORDS_RU_B2 = [
       "it": "essere malato",
       "pt": "estar doente",
       "ja": "病気である",
-      "zh": "生病"
+      "zh": "生病",
+      "fr": "être malade"
     },
     "examples": [],
     "meta": {},
@@ -16521,7 +17096,8 @@ const WORDS_RU_B2 = [
       "it": "il megabyte",
       "pt": "o megabyte",
       "ja": "メガバイト",
-      "zh": "兆字节"
+      "zh": "兆字节",
+      "fr": "mégaoctet"
     },
     "examples": [],
     "meta": {},
@@ -16550,7 +17126,8 @@ const WORDS_RU_B2 = [
       "it": "esaminare",
       "pt": "examinar",
       "ja": "検討する",
-      "zh": "审查"
+      "zh": "审查",
+      "fr": "examiner"
     },
     "examples": [],
     "meta": {},
@@ -16579,7 +17156,8 @@ const WORDS_RU_B2 = [
       "it": "la distruzione",
       "pt": "a destruição",
       "ja": "破壊",
-      "zh": "破坏"
+      "zh": "破坏",
+      "fr": "destruction"
     },
     "examples": [],
     "meta": {},
@@ -16607,7 +17185,8 @@ const WORDS_RU_B2 = [
       "it": "reggersi",
       "pt": "segurar-se",
       "ja": "持ちこたえる",
-      "zh": "坚持"
+      "zh": "坚持",
+      "fr": "attendre"
     },
     "examples": [],
     "meta": {},
@@ -16637,7 +17216,8 @@ const WORDS_RU_B2 = [
       "it": "la ricerca",
       "pt": "a busca",
       "ja": "捜索",
-      "zh": "搜查"
+      "zh": "搜查",
+      "fr": "chercher"
     },
     "examples": [],
     "meta": {},
@@ -16666,7 +17246,8 @@ const WORDS_RU_B2 = [
       "it": "rifiutare",
       "pt": "recusar",
       "ja": "拒否する",
-      "zh": "拒绝"
+      "zh": "拒绝",
+      "fr": "refuser"
     },
     "examples": [],
     "meta": {},
@@ -16695,7 +17276,8 @@ const WORDS_RU_B2 = [
       "it": "fantastico",
       "pt": "incrível",
       "ja": "素晴らしい",
-      "zh": "棒极了"
+      "zh": "棒极了",
+      "fr": "génial"
     },
     "examples": [],
     "meta": {},
@@ -16722,7 +17304,8 @@ const WORDS_RU_B2 = [
       "it": "la parata",
       "pt": "o desfile",
       "ja": "パレード",
-      "zh": "游行"
+      "zh": "游行",
+      "fr": "défilé"
     },
     "examples": [],
     "meta": {},
@@ -16750,7 +17333,8 @@ const WORDS_RU_B2 = [
       "it": "la ricchezza",
       "pt": "a riqueza",
       "ja": "富",
-      "zh": "财富"
+      "zh": "财富",
+      "fr": "richesse"
     },
     "examples": [],
     "meta": {},
@@ -16778,7 +17362,8 @@ const WORDS_RU_B2 = [
       "it": "essere geloso",
       "pt": "ter ciúmes",
       "ja": "嫉妬する",
-      "zh": "嫉妒"
+      "zh": "嫉妒",
+      "fr": "être jaloux"
     },
     "examples": [],
     "meta": {},
@@ -16808,7 +17393,8 @@ const WORDS_RU_B2 = [
       "it": "raffigurare",
       "pt": "representar",
       "ja": "描写する",
-      "zh": "描绘"
+      "zh": "描绘",
+      "fr": "dépeindre"
     },
     "examples": [],
     "meta": {},
@@ -16838,7 +17424,8 @@ const WORDS_RU_B2 = [
       "it": "svegliare",
       "pt": "acordar",
       "ja": "起こす",
-      "zh": "叫醒"
+      "zh": "叫醒",
+      "fr": "se réveiller"
     },
     "examples": [],
     "meta": {},
@@ -16867,7 +17454,8 @@ const WORDS_RU_B2 = [
       "it": "il riscatto",
       "pt": "o resgate",
       "ja": "身代金",
-      "zh": "赎金"
+      "zh": "赎金",
+      "fr": "rançon"
     },
     "examples": [],
     "meta": {},
@@ -16897,7 +17485,8 @@ const WORDS_RU_B2 = [
       "it": "visitare",
       "pt": "visitar",
       "ja": "訪問する",
-      "zh": "拜访"
+      "zh": "拜访",
+      "fr": "visiter"
     },
     "examples": [],
     "meta": {},
@@ -16927,7 +17516,8 @@ const WORDS_RU_B2 = [
       "it": "l'investigatore",
       "pt": "o investigador",
       "ja": "捜査官",
-      "zh": "调查员"
+      "zh": "调查员",
+      "fr": "enquêteur"
     },
     "examples": [],
     "meta": {},
@@ -16955,7 +17545,8 @@ const WORDS_RU_B2 = [
       "it": "sfogliare",
       "pt": "folhear",
       "ja": "ざっと見る",
-      "zh": "浏览"
+      "zh": "浏览",
+      "fr": "feuilleter"
     },
     "examples": [],
     "meta": {},
@@ -16985,7 +17576,8 @@ const WORDS_RU_B2 = [
       "it": "il ricordo",
       "pt": "a lembrança",
       "ja": "記憶",
-      "zh": "记忆"
+      "zh": "记忆",
+      "fr": "mémoire"
     },
     "examples": [],
     "meta": {},
@@ -17014,7 +17606,8 @@ const WORDS_RU_B2 = [
       "it": "il gabinetto",
       "pt": "o vaso sanitário",
       "ja": "便器",
-      "zh": "马桶"
+      "zh": "马桶",
+      "fr": "cuvette"
     },
     "examples": [],
     "meta": {},
@@ -17042,7 +17635,8 @@ const WORDS_RU_B2 = [
       "it": "turbare",
       "pt": "chatear",
       "ja": "困らせる",
-      "zh": "使心烦"
+      "zh": "使心烦",
+      "fr": "contrarié"
     },
     "examples": [],
     "meta": {},
@@ -17073,7 +17667,8 @@ const WORDS_RU_B2 = [
       "it": "ufficiale",
       "pt": "oficial",
       "ja": "公式の",
-      "zh": "官方的"
+      "zh": "官方的",
+      "fr": "officiel"
     },
     "examples": [],
     "meta": {},
@@ -17100,7 +17695,8 @@ const WORDS_RU_B2 = [
       "it": "necessario",
       "pt": "necessário",
       "ja": "必要な",
-      "zh": "必要的"
+      "zh": "必要的",
+      "fr": "nécessaire"
     },
     "examples": [],
     "meta": {},
@@ -17126,7 +17722,8 @@ const WORDS_RU_B2 = [
       "it": "il qi",
       "pt": "o qi",
       "ja": "気",
-      "zh": "气"
+      "zh": "气",
+      "fr": "qi"
     },
     "examples": [],
     "meta": {},
@@ -17154,7 +17751,8 @@ const WORDS_RU_B2 = [
       "it": "il debole",
       "pt": "o fraco",
       "ja": "弱虫",
-      "zh": "弱者"
+      "zh": "弱者",
+      "fr": "faible"
     },
     "examples": [],
     "meta": {},
@@ -17182,7 +17780,8 @@ const WORDS_RU_B2 = [
       "it": "menzionare",
       "pt": "mencionar",
       "ja": "言及する",
-      "zh": "提及"
+      "zh": "提及",
+      "fr": "mentionner"
     },
     "examples": [],
     "meta": {},
@@ -17211,7 +17810,8 @@ const WORDS_RU_B2 = [
       "it": "realizzare",
       "pt": "implementar",
       "ja": "実行する",
-      "zh": "实施"
+      "zh": "实施",
+      "fr": "outil"
     },
     "examples": [],
     "meta": {},
@@ -17241,7 +17841,8 @@ const WORDS_RU_B2 = [
       "it": "la mascella",
       "pt": "a mandíbula",
       "ja": "顎",
-      "zh": "下巴"
+      "zh": "下巴",
+      "fr": "mâchoire"
     },
     "examples": [],
     "meta": {},
@@ -17269,7 +17870,8 @@ const WORDS_RU_B2 = [
       "it": "afferrare",
       "pt": "agarrar",
       "ja": "掴む",
-      "zh": "抓住"
+      "zh": "抓住",
+      "fr": "saisir"
     },
     "examples": [],
     "meta": {},
@@ -17299,7 +17901,8 @@ const WORDS_RU_B2 = [
       "it": "grigio",
       "pt": "cinzento",
       "ja": "灰色の",
-      "zh": "灰色的"
+      "zh": "灰色的",
+      "fr": "gris"
     },
     "examples": [],
     "meta": {},
@@ -17325,7 +17928,8 @@ const WORDS_RU_B2 = [
       "it": "l'intrigo",
       "pt": "o caso",
       "ja": "浮気",
-      "zh": "绯闻"
+      "zh": "绯闻",
+      "fr": "affaire"
     },
     "examples": [],
     "meta": {},
@@ -17355,7 +17959,8 @@ const WORDS_RU_B2 = [
       "it": "il musicista",
       "pt": "o músico",
       "ja": "音楽家",
-      "zh": "音乐家"
+      "zh": "音乐家",
+      "fr": "musicien"
     },
     "examples": [],
     "meta": {},
@@ -17383,7 +17988,8 @@ const WORDS_RU_B2 = [
       "it": "il lustro",
       "pt": "o brilho",
       "ja": "輝き",
-      "zh": "光泽"
+      "zh": "光泽",
+      "fr": "briller"
     },
     "examples": [],
     "meta": {},
@@ -17411,7 +18017,8 @@ const WORDS_RU_B2 = [
       "it": "la cianfrusaglia",
       "pt": "a tralha",
       "ja": "がらくた",
-      "zh": "破烂"
+      "zh": "破烂",
+      "fr": "camelote"
     },
     "examples": [],
     "meta": {},
@@ -17439,7 +18046,8 @@ const WORDS_RU_B2 = [
       "it": "il trucco",
       "pt": "a maquiagem",
       "ja": "メイク",
-      "zh": "化妆"
+      "zh": "化妆",
+      "fr": "maquillage"
     },
     "examples": [],
     "meta": {},
@@ -17467,7 +18075,8 @@ const WORDS_RU_B2 = [
       "it": "l'insetto",
       "pt": "o inseto",
       "ja": "小さな虫",
-      "zh": "小虫"
+      "zh": "小虫",
+      "fr": "insecte"
     },
     "examples": [],
     "meta": {},
@@ -17496,7 +18105,8 @@ const WORDS_RU_B2 = [
       "it": "l'arredamento",
       "pt": "a mobília",
       "ja": "家具",
-      "zh": "家具"
+      "zh": "家具",
+      "fr": "ameublement"
     },
     "examples": [],
     "meta": {},
@@ -17524,7 +18134,8 @@ const WORDS_RU_B2 = [
       "it": "il complesso",
       "pt": "o complexo",
       "ja": "複合体",
-      "zh": "综合体"
+      "zh": "综合体",
+      "fr": "complexe"
     },
     "examples": [],
     "meta": {},
@@ -17552,7 +18163,8 @@ const WORDS_RU_B2 = [
       "it": "arrampicarsi",
       "pt": "subir",
       "ja": "登り込む",
-      "zh": "爬进去"
+      "zh": "爬进去",
+      "fr": "monter"
     },
     "examples": [],
     "meta": {},
@@ -17581,7 +18193,8 @@ const WORDS_RU_B2 = [
       "it": "picchiare",
       "pt": "bater",
       "ja": "殴る",
-      "zh": "殴打"
+      "zh": "殴打",
+      "fr": "battre"
     },
     "examples": [],
     "meta": {},
@@ -17611,7 +18224,8 @@ const WORDS_RU_B2 = [
       "it": "l'ovest",
       "pt": "o oeste",
       "ja": "西",
-      "zh": "西"
+      "zh": "西",
+      "fr": "ouest"
     },
     "examples": [],
     "meta": {},
@@ -17640,7 +18254,8 @@ const WORDS_RU_B2 = [
       "it": "essere utile",
       "pt": "ser útil",
       "ja": "役に立つ",
-      "zh": "有用"
+      "zh": "有用",
+      "fr": "servir"
     },
     "examples": [],
     "meta": {},
@@ -17670,7 +18285,8 @@ const WORDS_RU_B2 = [
       "it": "partorire",
       "pt": "dar à luz",
       "ja": "出産する",
-      "zh": "生育"
+      "zh": "生育",
+      "fr": "accoucher"
     },
     "examples": [],
     "meta": {},
@@ -17700,7 +18316,8 @@ const WORDS_RU_B2 = [
       "it": "l'intelligence",
       "pt": "a inteligência",
       "ja": "情報",
-      "zh": "情报"
+      "zh": "情报",
+      "fr": "intelligence"
     },
     "examples": [],
     "meta": {},
@@ -17729,7 +18346,8 @@ const WORDS_RU_B2 = [
       "it": "iniziare",
       "pt": "começar",
       "ja": "始める",
-      "zh": "开始"
+      "zh": "开始",
+      "fr": "commencer"
     },
     "examples": [],
     "meta": {},
@@ -17758,7 +18376,8 @@ const WORDS_RU_B2 = [
       "it": "il fetore",
       "pt": "o fedor",
       "ja": "悪臭",
-      "zh": "恶臭"
+      "zh": "恶臭",
+      "fr": "puanteur"
     },
     "examples": [],
     "meta": {},
@@ -17787,7 +18406,8 @@ const WORDS_RU_B2 = [
       "it": "rubare",
       "pt": "roubar",
       "ja": "盗む",
-      "zh": "偷窃"
+      "zh": "偷窃",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {},
@@ -17817,7 +18437,8 @@ const WORDS_RU_B2 = [
       "it": "la freccia",
       "pt": "a flecha",
       "ja": "矢",
-      "zh": "箭"
+      "zh": "箭",
+      "fr": "flèche"
     },
     "examples": [],
     "meta": {},
@@ -17846,7 +18467,8 @@ const WORDS_RU_B2 = [
       "it": "interrompere",
       "pt": "interromper",
       "ja": "中断する",
-      "zh": "中断"
+      "zh": "中断",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {},
@@ -17875,7 +18497,8 @@ const WORDS_RU_B2 = [
       "it": "l'impresa",
       "pt": "o empreendimento",
       "ja": "企て",
-      "zh": "企图"
+      "zh": "企图",
+      "fr": "entreprise"
     },
     "examples": [],
     "meta": {},
@@ -17904,7 +18527,8 @@ const WORDS_RU_B2 = [
       "it": "la febbre",
       "pt": "a febre",
       "ja": "熱病",
-      "zh": "发烧"
+      "zh": "发烧",
+      "fr": "fièvre"
     },
     "examples": [],
     "meta": {},
@@ -17932,7 +18556,8 @@ const WORDS_RU_B2 = [
       "it": "il lamento",
       "pt": "o lamento",
       "ja": "泣き言",
-      "zh": "抱怨"
+      "zh": "抱怨",
+      "fr": "pleurnicher"
     },
     "examples": [],
     "meta": {},
@@ -17961,7 +18586,8 @@ const WORDS_RU_B2 = [
       "it": "di ieri",
       "pt": "de ontem",
       "ja": "昨日の",
-      "zh": "昨天的"
+      "zh": "昨天的",
+      "fr": "d'hier"
     },
     "examples": [],
     "meta": {},
@@ -17988,7 +18614,8 @@ const WORDS_RU_B2 = [
       "it": "la popolazione",
       "pt": "a população",
       "ja": "人口",
-      "zh": "人口"
+      "zh": "人口",
+      "fr": "population"
     },
     "examples": [],
     "meta": {},
@@ -18017,7 +18644,8 @@ const WORDS_RU_B2 = [
       "it": "accadere",
       "pt": "acontecer",
       "ja": "起こる",
-      "zh": "发生"
+      "zh": "发生",
+      "fr": "arriver"
     },
     "examples": [],
     "meta": {},
@@ -18047,7 +18675,8 @@ const WORDS_RU_B2 = [
       "it": "noioso",
       "pt": "chato",
       "ja": "退屈な",
-      "zh": "无聊的"
+      "zh": "无聊的",
+      "fr": "ennuyeux"
     },
     "examples": [],
     "meta": {},
@@ -18074,7 +18703,8 @@ const WORDS_RU_B2 = [
       "it": "confrontare",
       "pt": "comparar",
       "ja": "比較する",
-      "zh": "比较"
+      "zh": "比较",
+      "fr": "comparer"
     },
     "examples": [],
     "meta": {},
@@ -18104,7 +18734,8 @@ const WORDS_RU_B2 = [
       "it": "richiedere",
       "pt": "exigir",
       "ja": "要求する",
-      "zh": "要求"
+      "zh": "要求",
+      "fr": "exiger"
     },
     "examples": [],
     "meta": {},
@@ -18133,7 +18764,8 @@ const WORDS_RU_B2 = [
       "it": "il concetto",
       "pt": "o conceito",
       "ja": "概念",
-      "zh": "概念"
+      "zh": "概念",
+      "fr": "concept"
     },
     "examples": [],
     "meta": {},
@@ -18162,7 +18794,8 @@ const WORDS_RU_B2 = [
       "it": "nuotare",
       "pt": "nadar",
       "ja": "泳ぐ",
-      "zh": "游泳"
+      "zh": "游泳",
+      "fr": "nager"
     },
     "examples": [],
     "meta": {},
@@ -18192,7 +18825,8 @@ const WORDS_RU_B2 = [
       "it": "il trasmettitore",
       "pt": "o transmissor",
       "ja": "送信機",
-      "zh": "发射机"
+      "zh": "发射机",
+      "fr": "émetteur"
     },
     "examples": [],
     "meta": {},
@@ -18221,7 +18855,8 @@ const WORDS_RU_B2 = [
       "it": "la comunità",
       "pt": "a comunidade",
       "ja": "コミュニティ",
-      "zh": "社区"
+      "zh": "社区",
+      "fr": "communauté"
     },
     "examples": [],
     "meta": {},
@@ -18250,7 +18885,8 @@ const WORDS_RU_B2 = [
       "it": "la sorellina",
       "pt": "a irmãzinha",
       "ja": "妹",
-      "zh": "小妹妹"
+      "zh": "小妹妹",
+      "fr": "petite sœur"
     },
     "examples": [],
     "meta": {},
@@ -18278,7 +18914,8 @@ const WORDS_RU_B2 = [
       "it": "il nucleo",
       "pt": "o núcleo",
       "ja": "核",
-      "zh": "核心"
+      "zh": "核心",
+      "fr": "noyau"
     },
     "examples": [],
     "meta": {},
@@ -18307,7 +18944,8 @@ const WORDS_RU_B2 = [
       "it": "l'eco",
       "pt": "o eco",
       "ja": "エコー",
-      "zh": "回声"
+      "zh": "回声",
+      "fr": "écho"
     },
     "examples": [],
     "meta": {},
@@ -18336,7 +18974,8 @@ const WORDS_RU_B2 = [
       "it": "divertirsi",
       "pt": "divertir-se",
       "ja": "楽しむ",
-      "zh": "娱乐"
+      "zh": "娱乐",
+      "fr": "s'amuser"
     },
     "examples": [],
     "meta": {},
@@ -18365,7 +19004,8 @@ const WORDS_RU_B2 = [
       "it": "abile",
       "pt": "hábil",
       "ja": "巧みな",
-      "zh": "熟练的"
+      "zh": "熟练的",
+      "fr": "habile"
     },
     "examples": [],
     "meta": {},
@@ -18391,7 +19031,8 @@ const WORDS_RU_B2 = [
       "it": "l'obitorio",
       "pt": "o necrotério",
       "ja": "霊安室",
-      "zh": "太平间"
+      "zh": "太平间",
+      "fr": "morgue"
     },
     "examples": [],
     "meta": {},
@@ -18420,7 +19061,8 @@ const WORDS_RU_B2 = [
       "it": "la corteccia",
       "pt": "a casca",
       "ja": "樹皮",
-      "zh": "树皮"
+      "zh": "树皮",
+      "fr": "écorce"
     },
     "examples": [],
     "meta": {},
@@ -18449,7 +19091,8 @@ const WORDS_RU_B2 = [
       "it": "l'influenza",
       "pt": "a gripe",
       "ja": "インフルエンザ",
-      "zh": "流感"
+      "zh": "流感",
+      "fr": "grippe"
     },
     "examples": [],
     "meta": {},
@@ -18478,7 +19121,8 @@ const WORDS_RU_B2 = [
       "it": "la tartaruga",
       "pt": "a tartaruga",
       "ja": "亀",
-      "zh": "乌龟"
+      "zh": "乌龟",
+      "fr": "tortue"
     },
     "examples": [],
     "meta": {},
@@ -18507,7 +19151,8 @@ const WORDS_RU_B2 = [
       "it": "indossare",
       "pt": "vestir",
       "ja": "着る",
-      "zh": "穿上"
+      "zh": "穿上",
+      "fr": "mettre"
     },
     "examples": [],
     "meta": {},
@@ -18536,7 +19181,8 @@ const WORDS_RU_B2 = [
       "it": "scientifico",
       "pt": "científico",
       "ja": "科学的な",
-      "zh": "科学的"
+      "zh": "科学的",
+      "fr": "scientifique"
     },
     "examples": [],
     "meta": {},
@@ -18562,7 +19208,8 @@ const WORDS_RU_B2 = [
       "it": "la perfezione",
       "pt": "a perfeição",
       "ja": "完璧",
-      "zh": "完美"
+      "zh": "完美",
+      "fr": "perfection"
     },
     "examples": [],
     "meta": {},
@@ -18591,7 +19238,8 @@ const WORDS_RU_B2 = [
       "it": "attraversare",
       "pt": "atravessar",
       "ja": "横断する",
-      "zh": "穿过"
+      "zh": "穿过",
+      "fr": "croix"
     },
     "examples": [],
     "meta": {},
@@ -18621,7 +19269,8 @@ const WORDS_RU_B2 = [
       "it": "l'assurdità",
       "pt": "o absurdo",
       "ja": "無意味",
-      "zh": "胡说"
+      "zh": "胡说",
+      "fr": "non-sens"
     },
     "examples": [],
     "meta": {},
@@ -18649,7 +19298,8 @@ const WORDS_RU_B2 = [
       "it": "l'opera",
       "pt": "a obra",
       "ja": "作品",
-      "zh": "作品"
+      "zh": "作品",
+      "fr": "travail"
     },
     "examples": [],
     "meta": {},
@@ -18678,7 +19328,8 @@ const WORDS_RU_B2 = [
       "it": "legare",
       "pt": "amarrar",
       "ja": "結ぶ",
-      "zh": "系"
+      "zh": "系",
+      "fr": "cravate"
     },
     "examples": [],
     "meta": {},
@@ -18708,7 +19359,8 @@ const WORDS_RU_B2 = [
       "it": "la bolla",
       "pt": "a bolha",
       "ja": "泡",
-      "zh": "气泡"
+      "zh": "气泡",
+      "fr": "bulle"
     },
     "examples": [],
     "meta": {},
@@ -18736,7 +19388,8 @@ const WORDS_RU_B2 = [
       "it": "la peste",
       "pt": "a peste",
       "ja": "ペスト",
-      "zh": "鼠疫"
+      "zh": "鼠疫",
+      "fr": "peste"
     },
     "examples": [],
     "meta": {},
@@ -18765,7 +19418,8 @@ const WORDS_RU_B2 = [
       "it": "lo sherry",
       "pt": "o xerez",
       "ja": "シェリー",
-      "zh": "雪利酒"
+      "zh": "雪利酒",
+      "fr": "xérès"
     },
     "examples": [],
     "meta": {},
@@ -18794,7 +19448,8 @@ const WORDS_RU_B2 = [
       "it": "la valigetta",
       "pt": "a pasta",
       "ja": "ブリーフケース",
-      "zh": "公文包"
+      "zh": "公文包",
+      "fr": "mallette"
     },
     "examples": [],
     "meta": {},
@@ -18824,7 +19479,8 @@ const WORDS_RU_B2 = [
       "it": "il pacco",
       "pt": "o pacote",
       "ja": "小包",
-      "zh": "包裹"
+      "zh": "包裹",
+      "fr": "colis"
     },
     "examples": [],
     "meta": {},
@@ -18853,7 +19509,8 @@ const WORDS_RU_B2 = [
       "it": "portare via",
       "pt": "levar",
       "ja": "連れて行く",
-      "zh": "带走"
+      "zh": "带走",
+      "fr": "emporter"
     },
     "examples": [],
     "meta": {},
@@ -18882,7 +19539,8 @@ const WORDS_RU_B2 = [
       "it": "il preparato",
       "pt": "o preparado",
       "ja": "製剤",
-      "zh": "制剂"
+      "zh": "制剂",
+      "fr": "préparation"
     },
     "examples": [],
     "meta": {},
@@ -18910,7 +19568,8 @@ const WORDS_RU_B2 = [
       "it": "l'università di medicina",
       "pt": "a universidade de medicina",
       "ja": "医科大学",
-      "zh": "医科大学"
+      "zh": "医科大学",
+      "fr": "université de médecine"
     },
     "examples": [],
     "meta": {},
@@ -18939,7 +19598,8 @@ const WORDS_RU_B2 = [
       "it": "scontrarsi",
       "pt": "colidir",
       "ja": "衝突する",
-      "zh": "碰撞"
+      "zh": "碰撞",
+      "fr": "heurter"
     },
     "examples": [],
     "meta": {},
@@ -18969,7 +19629,8 @@ const WORDS_RU_B2 = [
       "it": "la biblioteca",
       "pt": "a biblioteca",
       "ja": "図書館",
-      "zh": "图书馆"
+      "zh": "图书馆",
+      "fr": "bibliothèque"
     },
     "examples": [],
     "meta": {},
@@ -18998,7 +19659,8 @@ const WORDS_RU_B2 = [
       "it": "spagnolo",
       "pt": "espanhol",
       "ja": "スペインの",
-      "zh": "西班牙的"
+      "zh": "西班牙的",
+      "fr": "espagnol"
     },
     "examples": [],
     "meta": {},
@@ -19024,7 +19686,8 @@ const WORDS_RU_B2 = [
       "it": "disgustoso",
       "pt": "nojento",
       "ja": "嫌悪感を抱く",
-      "zh": "令人厌恶的"
+      "zh": "令人厌恶的",
+      "fr": "dégoûtant"
     },
     "examples": [],
     "meta": {},
@@ -19050,7 +19713,8 @@ const WORDS_RU_B2 = [
       "it": "difficile",
       "pt": "difícil",
       "ja": "難しい",
-      "zh": "困难地"
+      "zh": "困难地",
+      "fr": "difficile"
     },
     "examples": [],
     "meta": {},
@@ -19076,7 +19740,8 @@ const WORDS_RU_B2 = [
       "it": "la dipendenza",
       "pt": "a dependência",
       "ja": "依存",
-      "zh": "依赖"
+      "zh": "依赖",
+      "fr": "dépendance"
     },
     "examples": [],
     "meta": {},
@@ -19104,7 +19769,8 @@ const WORDS_RU_B2 = [
       "it": "estinguersi",
       "pt": "morrer",
       "ja": "死滅する",
-      "zh": "灭绝"
+      "zh": "灭绝",
+      "fr": "s'éteindre"
     },
     "examples": [],
     "meta": {},
@@ -19134,7 +19800,8 @@ const WORDS_RU_B2 = [
       "it": "il dramma",
       "pt": "o drama",
       "ja": "ドラマ",
-      "zh": "戏剧"
+      "zh": "戏剧",
+      "fr": "drame"
     },
     "examples": [],
     "meta": {},
@@ -19162,7 +19829,8 @@ const WORDS_RU_B2 = [
       "it": "ben fatto",
       "pt": "bem feito",
       "ja": "よくやった",
-      "zh": "干得好"
+      "zh": "干得好",
+      "fr": "bravo"
     },
     "examples": [],
     "meta": {},
@@ -19190,7 +19858,8 @@ const WORDS_RU_B2 = [
       "it": "portare via",
       "pt": "tirar",
       "ja": "奪う",
-      "zh": "拿走"
+      "zh": "拿走",
+      "fr": "emporter"
     },
     "examples": [],
     "meta": {},
@@ -19219,7 +19888,8 @@ const WORDS_RU_B2 = [
       "it": "il bell'uomo",
       "pt": "o homem bonito",
       "ja": "美男子",
-      "zh": "美男子"
+      "zh": "美男子",
+      "fr": "bel homme"
     },
     "examples": [],
     "meta": {},
@@ -19247,7 +19917,8 @@ const WORDS_RU_B2 = [
       "it": "moltiplicarsi",
       "pt": "multiplicar-se",
       "ja": "繁殖する",
-      "zh": "繁殖"
+      "zh": "繁殖",
+      "fr": "multiplier"
     },
     "examples": [],
     "meta": {},
@@ -19277,7 +19948,8 @@ const WORDS_RU_B2 = [
       "it": "il cibo",
       "pt": "a comida",
       "ja": "食物",
-      "zh": "食物"
+      "zh": "食物",
+      "fr": "nourriture"
     },
     "examples": [],
     "meta": {},
@@ -19305,7 +19977,8 @@ const WORDS_RU_B2 = [
       "it": "generale",
       "pt": "geral",
       "ja": "一般的な",
-      "zh": "总的"
+      "zh": "总的",
+      "fr": "général"
     },
     "examples": [],
     "meta": {},
@@ -19332,7 +20005,8 @@ const WORDS_RU_B2 = [
       "it": "la sorpresa",
       "pt": "a surpresa",
       "ja": "驚き",
-      "zh": "惊讶"
+      "zh": "惊讶",
+      "fr": "surprise"
     },
     "examples": [],
     "meta": {},
@@ -19360,7 +20034,8 @@ const WORDS_RU_B2 = [
       "it": "il battito cardiaco",
       "pt": "o batimento cardíaco",
       "ja": "心拍",
-      "zh": "心跳"
+      "zh": "心跳",
+      "fr": "battement"
     },
     "examples": [],
     "meta": {},
@@ -19388,7 +20063,8 @@ const WORDS_RU_B2 = [
       "it": "il cattivo",
       "pt": "o vilão",
       "ja": "悪役",
-      "zh": "恶棍"
+      "zh": "恶棍",
+      "fr": "méchant"
     },
     "examples": [],
     "meta": {},
@@ -19417,7 +20093,8 @@ const WORDS_RU_B2 = [
       "it": "pernottare",
       "pt": "pernoitar",
       "ja": "泊まる",
-      "zh": "过夜"
+      "zh": "过夜",
+      "fr": "coucher"
     },
     "examples": [],
     "meta": {},
@@ -19447,7 +20124,8 @@ const WORDS_RU_B2 = [
       "it": "di ferro",
       "pt": "de ferro",
       "ja": "鉄の",
-      "zh": "铁的"
+      "zh": "铁的",
+      "fr": "fer"
     },
     "examples": [],
     "meta": {},
@@ -19473,7 +20151,8 @@ const WORDS_RU_B2 = [
       "it": "temporale",
       "pt": "temporal",
       "ja": "時間の",
-      "zh": "时间的"
+      "zh": "时间的",
+      "fr": "temporel"
     },
     "examples": [],
     "meta": {},
@@ -19499,7 +20178,8 @@ const WORDS_RU_B2 = [
       "it": "resistere",
       "pt": "aguentar",
       "ja": "持ちこたえる",
-      "zh": "坚持"
+      "zh": "坚持",
+      "fr": "résister"
     },
     "examples": [],
     "meta": {},
@@ -19529,7 +20209,8 @@ const WORDS_RU_B2 = [
       "it": "il forno",
       "pt": "o forno",
       "ja": "オーブン",
-      "zh": "烤箱"
+      "zh": "烤箱",
+      "fr": "four"
     },
     "examples": [],
     "meta": {},
@@ -19558,7 +20239,8 @@ const WORDS_RU_B2 = [
       "it": "cuocere al forno",
       "pt": "assar",
       "ja": "焼く",
-      "zh": "烤"
+      "zh": "烤",
+      "fr": "cuire"
     },
     "examples": [],
     "meta": {},
@@ -19587,7 +20269,8 @@ const WORDS_RU_B2 = [
       "it": "il riflesso",
       "pt": "o reflexo",
       "ja": "反射",
-      "zh": "反射"
+      "zh": "反射",
+      "fr": "réflexion"
     },
     "examples": [],
     "meta": {},
@@ -19615,7 +20298,8 @@ const WORDS_RU_B2 = [
       "it": "assicurativo",
       "pt": "de seguro",
       "ja": "保険の",
-      "zh": "保险的"
+      "zh": "保险的",
+      "fr": "assurance"
     },
     "examples": [],
     "meta": {},
@@ -19641,7 +20325,8 @@ const WORDS_RU_B2 = [
       "it": "inserire",
       "pt": "inserir",
       "ja": "挿入する",
-      "zh": "插入"
+      "zh": "插入",
+      "fr": "insérer"
     },
     "examples": [],
     "meta": {},
@@ -19671,7 +20356,8 @@ const WORDS_RU_B2 = [
       "it": "simile",
       "pt": "semelhante",
       "ja": "似ている",
-      "zh": "相似的"
+      "zh": "相似的",
+      "fr": "similaire"
     },
     "examples": [],
     "meta": {},
@@ -19697,7 +20383,8 @@ const WORDS_RU_B2 = [
       "it": "il guasto",
       "pt": "a avaria",
       "ja": "故障",
-      "zh": "故障"
+      "zh": "故障",
+      "fr": "panne"
     },
     "examples": [],
     "meta": {},
@@ -19725,7 +20412,8 @@ const WORDS_RU_B2 = [
       "it": "raggiungere",
       "pt": "alcançar",
       "ja": "追いつく",
-      "zh": "追上"
+      "zh": "追上",
+      "fr": "rattraper"
     },
     "examples": [],
     "meta": {},
@@ -19754,7 +20442,8 @@ const WORDS_RU_B2 = [
       "it": "gigantesco",
       "pt": "gigantesco",
       "ja": "巨大な",
-      "zh": "巨大的"
+      "zh": "巨大的",
+      "fr": "gigantesque"
     },
     "examples": [],
     "meta": {},
@@ -19781,7 +20470,8 @@ const WORDS_RU_B2 = [
       "it": "sbagliarsi",
       "pt": "enganar-se",
       "ja": "間違える",
-      "zh": "犯错"
+      "zh": "犯错",
+      "fr": "se tromper"
     },
     "examples": [],
     "meta": {},
@@ -19811,7 +20501,8 @@ const WORDS_RU_B2 = [
       "it": "meridionale",
       "pt": "do sul",
       "ja": "南の",
-      "zh": "南方的"
+      "zh": "南方的",
+      "fr": "méridional"
     },
     "examples": [],
     "meta": {},
@@ -19837,7 +20528,8 @@ const WORDS_RU_B2 = [
       "it": "la sopravvivenza",
       "pt": "a sobrevivência",
       "ja": "生存",
-      "zh": "生存"
+      "zh": "生存",
+      "fr": "survie"
     },
     "examples": [],
     "meta": {},
@@ -19865,7 +20557,8 @@ const WORDS_RU_B2 = [
       "it": "il lancio",
       "pt": "o lançamento",
       "ja": "発射",
-      "zh": "发射"
+      "zh": "发射",
+      "fr": "lancer"
     },
     "examples": [],
     "meta": {},
@@ -19893,7 +20586,8 @@ const WORDS_RU_B2 = [
       "it": "il codice",
       "pt": "o código",
       "ja": "法典",
-      "zh": "法典"
+      "zh": "法典",
+      "fr": "code"
     },
     "examples": [],
     "meta": {},
@@ -19921,7 +20615,8 @@ const WORDS_RU_B2 = [
       "it": "nascondersi",
       "pt": "esconder-se",
       "ja": "隠れる",
-      "zh": "躲藏"
+      "zh": "躲藏",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {},
@@ -19951,7 +20646,8 @@ const WORDS_RU_B2 = [
       "it": "imparare",
       "pt": "aprender",
       "ja": "学ぶ",
-      "zh": "学习"
+      "zh": "学习",
+      "fr": "apprendre"
     },
     "examples": [],
     "meta": {},
@@ -19981,7 +20677,8 @@ const WORDS_RU_B2 = [
       "it": "insolito",
       "pt": "incomum",
       "ja": "珍しい",
-      "zh": "不寻常的"
+      "zh": "不寻常的",
+      "fr": "inhabituel"
     },
     "examples": [],
     "meta": {},
@@ -20007,7 +20704,8 @@ const WORDS_RU_B2 = [
       "it": "la definizione",
       "pt": "a definição",
       "ja": "定義",
-      "zh": "定义"
+      "zh": "定义",
+      "fr": "définition"
     },
     "examples": [],
     "meta": {},
@@ -20035,7 +20733,8 @@ const WORDS_RU_B2 = [
       "it": "l'enumerazione",
       "pt": "a enumeração",
       "ja": "列挙",
-      "zh": "枚举"
+      "zh": "枚举",
+      "fr": "énumération"
     },
     "examples": [],
     "meta": {},
@@ -20063,7 +20762,8 @@ const WORDS_RU_B2 = [
       "it": "la cosa preziosa",
       "pt": "o valioso",
       "ja": "貴重品",
-      "zh": "贵重物品"
+      "zh": "贵重物品",
+      "fr": "chose précieuse"
     },
     "examples": [],
     "meta": {},
@@ -20092,7 +20792,8 @@ const WORDS_RU_B2 = [
       "it": "sconosciuto",
       "pt": "desconhecido",
       "ja": "未知の",
-      "zh": "未知的"
+      "zh": "未知的",
+      "fr": "inconnu"
     },
     "examples": [],
     "meta": {},
@@ -20119,7 +20820,8 @@ const WORDS_RU_B2 = [
       "it": "ritardare",
       "pt": "atrasar-se",
       "ja": "遅れる",
-      "zh": "耽搁"
+      "zh": "耽搁",
+      "fr": "être retardé"
     },
     "examples": [],
     "meta": {},
@@ -20149,7 +20851,8 @@ const WORDS_RU_B2 = [
       "it": "strappare",
       "pt": "arrancar",
       "ja": "引きちぎる",
-      "zh": "撕下"
+      "zh": "撕下",
+      "fr": "arracher"
     },
     "examples": [],
     "meta": {},
@@ -20179,7 +20882,8 @@ const WORDS_RU_B2 = [
       "it": "il compartimento",
       "pt": "o compartimento",
       "ja": "区画",
-      "zh": "隔间"
+      "zh": "隔间",
+      "fr": "compartiment"
     },
     "examples": [],
     "meta": {},
@@ -20207,7 +20911,8 @@ const WORDS_RU_B2 = [
       "it": "la contessa",
       "pt": "a condessa",
       "ja": "伯爵夫人",
-      "zh": "伯爵夫人"
+      "zh": "伯爵夫人",
+      "fr": "comtesse"
     },
     "examples": [],
     "meta": {},
@@ -20236,7 +20941,8 @@ const WORDS_RU_B2 = [
       "it": "il palo",
       "pt": "a estaca",
       "ja": "杭",
-      "zh": "木桩"
+      "zh": "木桩",
+      "fr": "enjeu"
     },
     "examples": [],
     "meta": {},
@@ -20265,7 +20971,8 @@ const WORDS_RU_B2 = [
       "it": "ridurre",
       "pt": "reduzir",
       "ja": "削減する",
-      "zh": "减少"
+      "zh": "减少",
+      "fr": "réduire"
     },
     "examples": [],
     "meta": {},
@@ -20295,7 +21002,8 @@ const WORDS_RU_B2 = [
       "it": "la bambolina",
       "pt": "a bonequinha",
       "ja": "小さな人形",
-      "zh": "小玩偶"
+      "zh": "小玩偶",
+      "fr": "poupée"
     },
     "examples": [],
     "meta": {},
@@ -20324,7 +21032,8 @@ const WORDS_RU_B2 = [
       "it": "il toro",
       "pt": "o touro",
       "ja": "雄牛",
-      "zh": "公牛"
+      "zh": "公牛",
+      "fr": "taureau"
     },
     "examples": [],
     "meta": {},
@@ -20354,7 +21063,8 @@ const WORDS_RU_B2 = [
       "it": "il pub",
       "pt": "o pub",
       "ja": "パブ",
-      "zh": "酒吧"
+      "zh": "酒吧",
+      "fr": "pub"
     },
     "examples": [],
     "meta": {},
@@ -20383,7 +21093,8 @@ const WORDS_RU_B2 = [
       "it": "serio",
       "pt": "sério",
       "ja": "真剣な",
-      "zh": "严肃的"
+      "zh": "严肃的",
+      "fr": "sérieux"
     },
     "examples": [],
     "meta": {},
@@ -20410,7 +21121,8 @@ const WORDS_RU_B2 = [
       "it": "invitare",
       "pt": "convidar",
       "ja": "招待する",
-      "zh": "邀请"
+      "zh": "邀请",
+      "fr": "inviter"
     },
     "examples": [],
     "meta": {},
@@ -20440,7 +21152,8 @@ const WORDS_RU_B2 = [
       "it": "consegnare",
       "pt": "entregar",
       "ja": "届ける",
-      "zh": "递送"
+      "zh": "递送",
+      "fr": "livrer"
     },
     "examples": [],
     "meta": {},
@@ -20470,7 +21183,8 @@ const WORDS_RU_B2 = [
       "it": "il gancio",
       "pt": "o gancho",
       "ja": "フック",
-      "zh": "钩子"
+      "zh": "钩子",
+      "fr": "crochet"
     },
     "examples": [],
     "meta": {},
@@ -20499,7 +21213,8 @@ const WORDS_RU_B2 = [
       "it": "rilasciare",
       "pt": "soltar",
       "ja": "解放する",
-      "zh": "释放"
+      "zh": "释放",
+      "fr": "libérer"
     },
     "examples": [],
     "meta": {},
@@ -20528,7 +21243,8 @@ const WORDS_RU_B2 = [
       "it": "il regno",
       "pt": "o reino",
       "ja": "王国",
-      "zh": "王国"
+      "zh": "王国",
+      "fr": "royaume"
     },
     "examples": [],
     "meta": {},
@@ -20557,7 +21273,8 @@ const WORDS_RU_B2 = [
       "it": "morbido",
       "pt": "macio",
       "ja": "柔らかい",
-      "zh": "柔软的"
+      "zh": "柔软的",
+      "fr": "doux"
     },
     "examples": [],
     "meta": {},
@@ -20583,7 +21300,8 @@ const WORDS_RU_B2 = [
       "it": "classico",
       "pt": "clássico",
       "ja": "古典的な",
-      "zh": "古典的"
+      "zh": "古典的",
+      "fr": "classique"
     },
     "examples": [],
     "meta": {},
@@ -20610,7 +21328,8 @@ const WORDS_RU_B2 = [
       "it": "un quinto",
       "pt": "um quinto",
       "ja": "5分の1",
-      "zh": "五分之一"
+      "zh": "五分之一",
+      "fr": "un cinquième"
     },
     "examples": [],
     "meta": {},
@@ -20639,7 +21358,8 @@ const WORDS_RU_B2 = [
       "it": "contenere",
       "pt": "conter",
       "ja": "含む",
-      "zh": "包含"
+      "zh": "包含",
+      "fr": "contenir"
     },
     "examples": [],
     "meta": {},
@@ -20669,7 +21389,8 @@ const WORDS_RU_B2 = [
       "it": "responsabile",
       "pt": "responsável",
       "ja": "責任がある",
-      "zh": "负责任的"
+      "zh": "负责任的",
+      "fr": "responsable"
     },
     "examples": [],
     "meta": {},
@@ -20696,7 +21417,8 @@ const WORDS_RU_B2 = [
       "it": "la prontezza",
       "pt": "a prontidão",
       "ja": "準備",
-      "zh": "准备"
+      "zh": "准备",
+      "fr": "préparation"
     },
     "examples": [],
     "meta": {},
@@ -20725,7 +21447,8 @@ const WORDS_RU_B2 = [
       "it": "liberarsi",
       "pt": "libertar-se",
       "ja": "解放される",
-      "zh": "获得自由"
+      "zh": "获得自由",
+      "fr": "être libéré"
     },
     "examples": [],
     "meta": {},
@@ -20755,7 +21478,8 @@ const WORDS_RU_B2 = [
       "it": "il contenuto",
       "pt": "o conteúdo",
       "ja": "内容物",
-      "zh": "内容"
+      "zh": "内容",
+      "fr": "contenu"
     },
     "examples": [],
     "meta": {},
@@ -20784,7 +21508,8 @@ const WORDS_RU_B2 = [
       "it": "il ripristino",
       "pt": "a restauração",
       "ja": "復元",
-      "zh": "恢复"
+      "zh": "恢复",
+      "fr": "restauration"
     },
     "examples": [],
     "meta": {},
@@ -20812,7 +21537,8 @@ const WORDS_RU_B2 = [
       "it": "la pelle d'oca",
       "pt": "a pele de galinha",
       "ja": "鳥肌",
-      "zh": "鸡皮疙瘩"
+      "zh": "鸡皮疙瘩",
+      "fr": "chair de poule"
     },
     "examples": [],
     "meta": {},
@@ -20840,7 +21566,8 @@ const WORDS_RU_B2 = [
       "it": "la prigionia",
       "pt": "o cativeiro",
       "ja": "捕虜",
-      "zh": "囚禁"
+      "zh": "囚禁",
+      "fr": "captivité"
     },
     "examples": [],
     "meta": {},
@@ -20868,7 +21595,8 @@ const WORDS_RU_B2 = [
       "it": "torturare",
       "pt": "torturar",
       "ja": "拷問する",
-      "zh": "折磨"
+      "zh": "折磨",
+      "fr": "torturer"
     },
     "examples": [],
     "meta": {},
@@ -20898,7 +21626,8 @@ const WORDS_RU_B2 = [
       "it": "procurare",
       "pt": "procurar",
       "ja": "手に入れる",
-      "zh": "设法获得"
+      "zh": "设法获得",
+      "fr": "procurer"
     },
     "examples": [],
     "meta": {},
@@ -20929,7 +21658,8 @@ const WORDS_RU_B2 = [
       "it": "il commerciante",
       "pt": "o comerciante",
       "ja": "商人",
-      "zh": "商人"
+      "zh": "商人",
+      "fr": "commerçant"
     },
     "examples": [],
     "meta": {},
@@ -20958,7 +21688,8 @@ const WORDS_RU_B2 = [
       "it": "l'attore",
       "pt": "o ator",
       "ja": "俳優",
-      "zh": "演员"
+      "zh": "演员",
+      "fr": "acteur"
     },
     "examples": [],
     "meta": {},
@@ -20987,7 +21718,8 @@ const WORDS_RU_B2 = [
       "it": "ascoltare attentamente",
       "pt": "ouvir atentamente",
       "ja": "聞き入れる",
-      "zh": "听取"
+      "zh": "听取",
+      "fr": "écouter"
     },
     "examples": [],
     "meta": {},
@@ -21017,7 +21749,8 @@ const WORDS_RU_B2 = [
       "it": "la soglia",
       "pt": "o limiar",
       "ja": "敷居",
-      "zh": "门槛"
+      "zh": "门槛",
+      "fr": "seuil"
     },
     "examples": [],
     "meta": {},
@@ -21045,7 +21778,8 @@ const WORDS_RU_B2 = [
       "it": "l'intuizione",
       "pt": "a intuição",
       "ja": "直感",
-      "zh": "直觉"
+      "zh": "直觉",
+      "fr": "intuition"
     },
     "examples": [],
     "meta": {},
@@ -21074,7 +21808,8 @@ const WORDS_RU_B2 = [
       "it": "il promemoria",
       "pt": "o lembrete",
       "ja": "リマインダー",
-      "zh": "提醒"
+      "zh": "提醒",
+      "fr": "rappel"
     },
     "examples": [],
     "meta": {},
@@ -21103,7 +21838,8 @@ const WORDS_RU_B2 = [
       "it": "la cupola",
       "pt": "a cúpula",
       "ja": "ドーム",
-      "zh": "圆顶"
+      "zh": "圆顶",
+      "fr": "dôme"
     },
     "examples": [],
     "meta": {},
@@ -21133,7 +21869,8 @@ const WORDS_RU_B2 = [
       "it": "concentrarsi",
       "pt": "concentrar-se",
       "ja": "集中する",
-      "zh": "集中"
+      "zh": "集中",
+      "fr": "concentrer"
     },
     "examples": [],
     "meta": {},
@@ -21162,7 +21899,8 @@ const WORDS_RU_B2 = [
       "it": "bere a sazietà",
       "pt": "beber à vontade",
       "ja": "飲み飽きる",
-      "zh": "喝足"
+      "zh": "喝足",
+      "fr": "boire à satiété"
     },
     "examples": [],
     "meta": {},
@@ -21192,7 +21930,8 @@ const WORDS_RU_B2 = [
       "it": "incredibile",
       "pt": "incrível",
       "ja": "信じられない",
-      "zh": "难以置信的"
+      "zh": "难以置信的",
+      "fr": "incroyable"
     },
     "examples": [],
     "meta": {},
@@ -21219,7 +21958,8 @@ const WORDS_RU_B2 = [
       "it": "il centinaio",
       "pt": "a centena",
       "ja": "百",
-      "zh": "一百"
+      "zh": "一百",
+      "fr": "cent"
     },
     "examples": [],
     "meta": {},
@@ -21248,7 +21988,8 @@ const WORDS_RU_B2 = [
       "it": "al cioccolato",
       "pt": "de chocolate",
       "ja": "チョコレートの",
-      "zh": "巧克力的"
+      "zh": "巧克力的",
+      "fr": "chocolat"
     },
     "examples": [],
     "meta": {},
@@ -21275,7 +22016,8 @@ const WORDS_RU_B2 = [
       "it": "fare il bagno",
       "pt": "tomar banho",
       "ja": "入浴する",
-      "zh": "洗澡"
+      "zh": "洗澡",
+      "fr": "baigner"
     },
     "examples": [],
     "meta": {},
@@ -21305,7 +22047,8 @@ const WORDS_RU_B2 = [
       "it": "i membri della famiglia",
       "pt": "os membros da família",
       "ja": "家族",
-      "zh": "家人"
+      "zh": "家人",
+      "fr": "membres du ménage"
     },
     "examples": [],
     "meta": {},
@@ -21334,7 +22077,8 @@ const WORDS_RU_B2 = [
       "it": "sportivo",
       "pt": "esportivo",
       "ja": "スポーツの",
-      "zh": "运动的"
+      "zh": "运动的",
+      "fr": "sportif"
     },
     "examples": [],
     "meta": {},
@@ -21361,7 +22105,8 @@ const WORDS_RU_B2 = [
       "it": "il talismano",
       "pt": "o talismã",
       "ja": "お守り",
-      "zh": "护身符"
+      "zh": "护身符",
+      "fr": "talisman"
     },
     "examples": [],
     "meta": {},
@@ -21389,7 +22134,8 @@ const WORDS_RU_B2 = [
       "it": "il risultato",
       "pt": "o resultado",
       "ja": "結果",
-      "zh": "结果"
+      "zh": "结果",
+      "fr": "résultat"
     },
     "examples": [],
     "meta": {},
@@ -21417,7 +22163,8 @@ const WORDS_RU_B2 = [
       "it": "salvarsi",
       "pt": "salvar-se",
       "ja": "助かる",
-      "zh": "得救"
+      "zh": "得救",
+      "fr": "être sauvé"
     },
     "examples": [],
     "meta": {},
@@ -21446,7 +22193,8 @@ const WORDS_RU_B2 = [
       "it": "statale",
       "pt": "estatal",
       "ja": "国家の",
-      "zh": "国家的"
+      "zh": "国家的",
+      "fr": "état"
     },
     "examples": [],
     "meta": {},
@@ -21472,7 +22220,8 @@ const WORDS_RU_B2 = [
       "it": "internazionale",
       "pt": "internacional",
       "ja": "国際的な",
-      "zh": "国际的"
+      "zh": "国际的",
+      "fr": "international"
     },
     "examples": [],
     "meta": {},
@@ -21498,7 +22247,8 @@ const WORDS_RU_B2 = [
       "it": "superare",
       "pt": "superar",
       "ja": "克服する",
-      "zh": "克服"
+      "zh": "克服",
+      "fr": "surmonter"
     },
     "examples": [],
     "meta": {},
@@ -21528,7 +22278,8 @@ const WORDS_RU_B2 = [
       "it": "il bollitore",
       "pt": "a chaleira",
       "ja": "やかん",
-      "zh": "水壶"
+      "zh": "水壶",
+      "fr": "bouilloire"
     },
     "examples": [],
     "meta": {},
@@ -21556,7 +22307,8 @@ const WORDS_RU_B2 = [
       "it": "la notte",
       "pt": "a noite",
       "ja": "夜",
-      "zh": "夜晚"
+      "zh": "夜晚",
+      "fr": "nuit"
     },
     "examples": [],
     "meta": {},
@@ -21584,7 +22336,8 @@ const WORDS_RU_B2 = [
       "it": "la miccia",
       "pt": "o pavio",
       "ja": "信管",
-      "zh": "引信"
+      "zh": "引信",
+      "fr": "fusible"
     },
     "examples": [],
     "meta": {},
@@ -21613,7 +22366,8 @@ const WORDS_RU_B2 = [
       "it": "il divertente",
       "pt": "o engraçado",
       "ja": "面白いこと",
-      "zh": "有趣的事"
+      "zh": "有趣的事",
+      "fr": "drôle"
     },
     "examples": [],
     "meta": {},
@@ -21641,7 +22395,8 @@ const WORDS_RU_B2 = [
       "it": "l'orrore",
       "pt": "o horror",
       "ja": "恐怖",
-      "zh": "恐怖"
+      "zh": "恐怖",
+      "fr": "horreur"
     },
     "examples": [],
     "meta": {},
@@ -21669,7 +22424,8 @@ const WORDS_RU_B2 = [
       "it": "supremo",
       "pt": "supremo",
       "ja": "最高の",
-      "zh": "最高的"
+      "zh": "最高的",
+      "fr": "suprême"
     },
     "examples": [],
     "meta": {},
@@ -21695,7 +22451,8 @@ const WORDS_RU_B2 = [
       "it": "esterno",
       "pt": "externo",
       "ja": "外部の",
-      "zh": "外部的"
+      "zh": "外部的",
+      "fr": "externe"
     },
     "examples": [],
     "meta": {},
@@ -21721,7 +22478,8 @@ const WORDS_RU_B2 = [
       "it": "lo scherzo",
       "pt": "a brincadeira",
       "ja": "いたずら",
-      "zh": "恶作剧"
+      "zh": "恶作剧",
+      "fr": "farce"
     },
     "examples": [],
     "meta": {},
@@ -21751,7 +22509,8 @@ const WORDS_RU_B2 = [
       "it": "visitare",
       "pt": "visitar",
       "ja": "訪問する",
-      "zh": "访问"
+      "zh": "访问",
+      "fr": "visiter"
     },
     "examples": [],
     "meta": {},
@@ -21782,7 +22541,8 @@ const WORDS_RU_B2 = [
       "it": "visitare",
       "pt": "visitar",
       "ja": "訪れる",
-      "zh": "访问"
+      "zh": "访问",
+      "fr": "visiter"
     },
     "examples": [],
     "meta": {},
@@ -21811,7 +22571,8 @@ const WORDS_RU_B2 = [
       "it": "staccarsi",
       "pt": "soltar-se",
       "ja": "剥がれる",
-      "zh": "脱落"
+      "zh": "脱落",
+      "fr": "rompre"
     },
     "examples": [],
     "meta": {},
@@ -21841,7 +22602,8 @@ const WORDS_RU_B2 = [
       "it": "i fiocchi",
       "pt": "os flocos",
       "ja": "フレーク",
-      "zh": "薄片"
+      "zh": "薄片",
+      "fr": "flocons"
     },
     "examples": [],
     "meta": {},
@@ -21870,7 +22632,8 @@ const WORDS_RU_B2 = [
       "it": "il fratello",
       "pt": "o irmão",
       "ja": "弟",
-      "zh": "兄弟"
+      "zh": "兄弟",
+      "fr": "frère"
     },
     "examples": [],
     "meta": {},
@@ -21898,7 +22661,8 @@ const WORDS_RU_B2 = [
       "it": "l'eruzione cutanea",
       "pt": "a erupção cutânea",
       "ja": "発疹",
-      "zh": "皮疹"
+      "zh": "皮疹",
+      "fr": "éruption"
     },
     "examples": [],
     "meta": {},
@@ -21926,7 +22690,8 @@ const WORDS_RU_B2 = [
       "it": "capace",
       "pt": "capaz",
       "ja": "有能な",
-      "zh": "有能力的"
+      "zh": "有能力的",
+      "fr": "capable"
     },
     "examples": [],
     "meta": {},
@@ -21952,7 +22717,8 @@ const WORDS_RU_B2 = [
       "it": "riconoscere",
       "pt": "reconhecer",
       "ja": "認める",
-      "zh": "承认"
+      "zh": "承认",
+      "fr": "reconnaître"
     },
     "examples": [],
     "meta": {},
@@ -21982,7 +22748,8 @@ const WORDS_RU_B2 = [
       "it": "l'umore",
       "pt": "o humor",
       "ja": "気分",
-      "zh": "心情"
+      "zh": "心情",
+      "fr": "humeur"
     },
     "examples": [],
     "meta": {},
@@ -22011,7 +22778,8 @@ const WORDS_RU_B2 = [
       "it": "la maglietta",
       "pt": "a camiseta",
       "ja": "Tシャツ",
-      "zh": "T恤"
+      "zh": "T恤",
+      "fr": "tee-shirt"
     },
     "examples": [],
     "meta": {},
@@ -22040,7 +22808,8 @@ const WORDS_RU_B2 = [
       "it": "l'auto",
       "pt": "o carro",
       "ja": "車",
-      "zh": "汽车"
+      "zh": "汽车",
+      "fr": "voiture"
     },
     "examples": [],
     "meta": {},
@@ -22069,7 +22838,8 @@ const WORDS_RU_B2 = [
       "it": "eseguire",
       "pt": "executar",
       "ja": "実行する",
-      "zh": "执行"
+      "zh": "执行",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {},
@@ -22099,7 +22869,8 @@ const WORDS_RU_B2 = [
       "it": "comandare",
       "pt": "comandar",
       "ja": "命令する",
-      "zh": "命令"
+      "zh": "命令",
+      "fr": "commande"
     },
     "examples": [],
     "meta": {},
@@ -22128,7 +22899,8 @@ const WORDS_RU_B2 = [
       "it": "il fienile",
       "pt": "o celeiro",
       "ja": "物置",
-      "zh": "谷仓"
+      "zh": "谷仓",
+      "fr": "grange"
     },
     "examples": [],
     "meta": {},
@@ -22157,7 +22929,8 @@ const WORDS_RU_B2 = [
       "it": "fare tardi",
       "pt": "atrasar",
       "ja": "遅れる",
-      "zh": "迟到"
+      "zh": "迟到",
+      "fr": "être en retard"
     },
     "examples": [],
     "meta": {},
@@ -22186,7 +22959,8 @@ const WORDS_RU_B2 = [
       "it": "la vergine",
       "pt": "a virgem",
       "ja": "処女",
-      "zh": "处女"
+      "zh": "处女",
+      "fr": "vierge"
     },
     "examples": [],
     "meta": {},
@@ -22215,7 +22989,8 @@ const WORDS_RU_B2 = [
       "it": "portare",
       "pt": "trazer",
       "ja": "連れてくる",
-      "zh": "带来"
+      "zh": "带来",
+      "fr": "apporter"
     },
     "examples": [],
     "meta": {},
@@ -22245,7 +23020,8 @@ const WORDS_RU_B2 = [
       "it": "britannico",
       "pt": "britânico",
       "ja": "英国の",
-      "zh": "英国的"
+      "zh": "英国的",
+      "fr": "britannique"
     },
     "examples": [],
     "meta": {},
@@ -22272,7 +23048,8 @@ const WORDS_RU_B2 = [
       "it": "la patata",
       "pt": "a batata",
       "ja": "ジャガイモ",
-      "zh": "土豆"
+      "zh": "土豆",
+      "fr": "pomme de terre"
     },
     "examples": [],
     "meta": {},
@@ -22301,7 +23078,8 @@ const WORDS_RU_B2 = [
       "it": "prezioso",
       "pt": "valioso",
       "ja": "貴重な",
-      "zh": "有价值的"
+      "zh": "有价值的",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {},
@@ -22327,7 +23105,8 @@ const WORDS_RU_B2 = [
       "it": "la talpa",
       "pt": "a toupeira",
       "ja": "モグラ",
-      "zh": "鼹鼠"
+      "zh": "鼹鼠",
+      "fr": "taupe"
     },
     "examples": [],
     "meta": {},
@@ -22356,7 +23135,8 @@ const WORDS_RU_B2 = [
       "it": "aereo",
       "pt": "aéreo",
       "ja": "空気の",
-      "zh": "空气的"
+      "zh": "空气的",
+      "fr": "air"
     },
     "examples": [],
     "meta": {},
@@ -22382,7 +23162,8 @@ const WORDS_RU_B2 = [
       "it": "antico",
       "pt": "antigo",
       "ja": "古代の",
-      "zh": "古老的"
+      "zh": "古老的",
+      "fr": "ancien"
     },
     "examples": [],
     "meta": {},
@@ -22408,7 +23189,8 @@ const WORDS_RU_B2 = [
       "it": "strappare",
       "pt": "arrancar",
       "ja": "引き裂く",
-      "zh": "撕下"
+      "zh": "撕下",
+      "fr": "arracher"
     },
     "examples": [],
     "meta": {},
@@ -22437,7 +23219,8 @@ const WORDS_RU_B2 = [
       "it": "la razza",
       "pt": "a raça",
       "ja": "人種",
-      "zh": "种族"
+      "zh": "种族",
+      "fr": "race"
     },
     "examples": [],
     "meta": {},
@@ -22466,7 +23249,8 @@ const WORDS_RU_B2 = [
       "it": "dedicare",
       "pt": "dedicar",
       "ja": "捧げる",
-      "zh": "奉献"
+      "zh": "奉献",
+      "fr": "dédier"
     },
     "examples": [],
     "meta": {},
@@ -22495,7 +23279,8 @@ const WORDS_RU_B2 = [
       "it": "la battaglia",
       "pt": "a batalha",
       "ja": "戦闘",
-      "zh": "战斗"
+      "zh": "战斗",
+      "fr": "bataille"
     },
     "examples": [],
     "meta": {},
@@ -22524,7 +23309,8 @@ const WORDS_RU_B2 = [
       "it": "la colla",
       "pt": "a cola",
       "ja": "接着剤",
-      "zh": "胶水"
+      "zh": "胶水",
+      "fr": "colle"
     },
     "examples": [],
     "meta": {},
@@ -22553,7 +23339,8 @@ const WORDS_RU_B2 = [
       "it": "il tubo",
       "pt": "o tubo",
       "ja": "パイプ",
-      "zh": "管子"
+      "zh": "管子",
+      "fr": "tuyau"
     },
     "examples": [],
     "meta": {},
@@ -22582,7 +23369,8 @@ const WORDS_RU_B2 = [
       "it": "attrarre",
       "pt": "atrair",
       "ja": "引きつける",
-      "zh": "吸引"
+      "zh": "吸引",
+      "fr": "attirer"
     },
     "examples": [],
     "meta": {},
@@ -22612,7 +23400,8 @@ const WORDS_RU_B2 = [
       "it": "distrarsi",
       "pt": "distrair-se",
       "ja": "気をそらす",
-      "zh": "分心"
+      "zh": "分心",
+      "fr": "se distraire"
     },
     "examples": [],
     "meta": {},
@@ -22642,7 +23431,8 @@ const WORDS_RU_B2 = [
       "it": "l'infezione",
       "pt": "a infecção",
       "ja": "感染",
-      "zh": "感染"
+      "zh": "感染",
+      "fr": "infection"
     },
     "examples": [],
     "meta": {},
@@ -22671,7 +23461,8 @@ const WORDS_RU_B2 = [
       "it": "piegare",
       "pt": "dobrar",
       "ja": "折りたたむ",
-      "zh": "折叠"
+      "zh": "折叠",
+      "fr": "plier"
     },
     "examples": [],
     "meta": {},
@@ -22700,7 +23491,8 @@ const WORDS_RU_B2 = [
       "it": "trattenere",
       "pt": "conter",
       "ja": "抑える",
-      "zh": "抑制"
+      "zh": "抑制",
+      "fr": "retenir"
     },
     "examples": [],
     "meta": {},
@@ -22729,7 +23521,8 @@ const WORDS_RU_B2 = [
       "it": "ritardare",
       "pt": "atrasar",
       "ja": "遅らせる",
-      "zh": "延迟"
+      "zh": "延迟",
+      "fr": "retarder"
     },
     "examples": [],
     "meta": {},
@@ -22759,7 +23552,8 @@ const WORDS_RU_B2 = [
       "it": "il bouquet",
       "pt": "o buquê",
       "ja": "花束",
-      "zh": "花束"
+      "zh": "花束",
+      "fr": "bouquet"
     },
     "examples": [],
     "meta": {},
@@ -22788,7 +23582,8 @@ const WORDS_RU_B2 = [
       "it": "ordinare",
       "pt": "pedir",
       "ja": "注文する",
-      "zh": "订购"
+      "zh": "订购",
+      "fr": "ordre"
     },
     "examples": [],
     "meta": {},
@@ -22817,7 +23612,8 @@ const WORDS_RU_B2 = [
       "it": "l'intervento",
       "pt": "a intervenção",
       "ja": "介入",
-      "zh": "干预"
+      "zh": "干预",
+      "fr": "intervention"
     },
     "examples": [],
     "meta": {},
@@ -22847,7 +23643,8 @@ const WORDS_RU_B2 = [
       "it": "il chilo",
       "pt": "o quilo",
       "ja": "キロ",
-      "zh": "公斤"
+      "zh": "公斤",
+      "fr": "kilo"
     },
     "examples": [],
     "meta": {},
@@ -22876,7 +23673,8 @@ const WORDS_RU_B2 = [
       "it": "toccare",
       "pt": "tocar",
       "ja": "触る",
-      "zh": "触摸"
+      "zh": "触摸",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {},
@@ -22906,7 +23704,8 @@ const WORDS_RU_B2 = [
       "it": "raro",
       "pt": "raro",
       "ja": "珍しい",
-      "zh": "稀有的"
+      "zh": "稀有的",
+      "fr": "rare"
     },
     "examples": [],
     "meta": {},
@@ -22933,7 +23732,8 @@ const WORDS_RU_B2 = [
       "it": "la vecchia",
       "pt": "a velha",
       "ja": "老婆",
-      "zh": "老妇人"
+      "zh": "老妇人",
+      "fr": "vieille"
     },
     "examples": [],
     "meta": {},
@@ -22962,7 +23762,8 @@ const WORDS_RU_B2 = [
       "it": "avvicinare",
       "pt": "aproximar",
       "ja": "連れてくる",
-      "zh": "带来"
+      "zh": "带来",
+      "fr": "élever"
     },
     "examples": [],
     "meta": {},
@@ -22991,7 +23792,8 @@ const WORDS_RU_B2 = [
       "it": "l'asta",
       "pt": "o leilão",
       "ja": "オークション",
-      "zh": "拍卖"
+      "zh": "拍卖",
+      "fr": "enchère"
     },
     "examples": [],
     "meta": {},
@@ -23020,7 +23822,8 @@ const WORDS_RU_B2 = [
       "it": "il condizionatore",
       "pt": "o ar condicionado",
       "ja": "エアコン",
-      "zh": "空调"
+      "zh": "空调",
+      "fr": "climatiseur"
     },
     "examples": [],
     "meta": {},
@@ -23048,7 +23851,8 @@ const WORDS_RU_B2 = [
       "it": "tentare",
       "pt": "tentar",
       "ja": "誘惑する",
-      "zh": "诱惑"
+      "zh": "诱惑",
+      "fr": "tenter"
     },
     "examples": [],
     "meta": {},
@@ -23077,7 +23881,8 @@ const WORDS_RU_B2 = [
       "it": "attirare",
       "pt": "atrair",
       "ja": "誘い込む",
-      "zh": "引诱"
+      "zh": "引诱",
+      "fr": "leurre"
     },
     "examples": [],
     "meta": {},
@@ -23106,7 +23911,8 @@ const WORDS_RU_B2 = [
       "it": "l'alcolista",
       "pt": "o alcoólatra",
       "ja": "アルコール依存症患者",
-      "zh": "酒鬼"
+      "zh": "酒鬼",
+      "fr": "alcoolique"
     },
     "examples": [],
     "meta": {},
@@ -23134,7 +23940,8 @@ const WORDS_RU_B2 = [
       "it": "l'erede",
       "pt": "o herdeiro",
       "ja": "相続人",
-      "zh": "继承人"
+      "zh": "继承人",
+      "fr": "héritier"
     },
     "examples": [],
     "meta": {},
@@ -23163,7 +23970,8 @@ const WORDS_RU_B2 = [
       "it": "il pesciolino",
       "pt": "o peixinho",
       "ja": "小魚",
-      "zh": "小鱼"
+      "zh": "小鱼",
+      "fr": "poissonnet"
     },
     "examples": [],
     "meta": {},
@@ -23192,7 +24000,8 @@ const WORDS_RU_B2 = [
       "it": "la tomba",
       "pt": "o túmulo",
       "ja": "墓",
-      "zh": "坟墓"
+      "zh": "坟墓",
+      "fr": "tombe"
     },
     "examples": [],
     "meta": {},
@@ -23221,7 +24030,8 @@ const WORDS_RU_B2 = [
       "it": "la volpe",
       "pt": "a raposa",
       "ja": "狐",
-      "zh": "狐狸"
+      "zh": "狐狸",
+      "fr": "renard"
     },
     "examples": [],
     "meta": {},
@@ -23250,7 +24060,8 @@ const WORDS_RU_B2 = [
       "it": "la chiacchiera",
       "pt": "a tagarelice",
       "ja": "おしゃべり",
-      "zh": "闲聊"
+      "zh": "闲聊",
+      "fr": "bavarder"
     },
     "examples": [],
     "meta": {},
@@ -23279,7 +24090,8 @@ const WORDS_RU_B2 = [
       "it": "toccare",
       "pt": "tocar",
       "ja": "触れる",
-      "zh": "触摸"
+      "zh": "触摸",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {},
@@ -23310,7 +24122,8 @@ const WORDS_RU_B2 = [
       "it": "la clinica",
       "pt": "a clínica",
       "ja": "診療所",
-      "zh": "诊所"
+      "zh": "诊所",
+      "fr": "clinique"
     },
     "examples": [],
     "meta": {},
@@ -23339,7 +24152,8 @@ const WORDS_RU_B2 = [
       "it": "ritagliare",
       "pt": "recortar",
       "ja": "切り取る",
-      "zh": "剪下"
+      "zh": "剪下",
+      "fr": "découper"
     },
     "examples": [],
     "meta": {},
@@ -23369,7 +24183,8 @@ const WORDS_RU_B2 = [
       "it": "il soffitto",
       "pt": "o teto",
       "ja": "天井",
-      "zh": "天花板"
+      "zh": "天花板",
+      "fr": "plafond"
     },
     "examples": [],
     "meta": {},
@@ -23398,7 +24213,8 @@ const WORDS_RU_B2 = [
       "it": "antincendio",
       "pt": "de incêndio",
       "ja": "消防の",
-      "zh": "消防的"
+      "zh": "消防的",
+      "fr": "relatif au feu"
     },
     "examples": [],
     "meta": {},
@@ -23425,7 +24241,8 @@ const WORDS_RU_B2 = [
       "it": "il pompiere",
       "pt": "o bombeiro",
       "ja": "消防士",
-      "zh": "消防员"
+      "zh": "消防员",
+      "fr": "pompier"
     },
     "examples": [],
     "meta": {},
@@ -23454,7 +24271,8 @@ const WORDS_RU_B2 = [
       "it": "la celebrità",
       "pt": "a celebridade",
       "ja": "有名人",
-      "zh": "名人"
+      "zh": "名人",
+      "fr": "célébrité"
     },
     "examples": [],
     "meta": {},
@@ -23483,7 +24301,8 @@ const WORDS_RU_B2 = [
       "it": "intimidire",
       "pt": "intimidar",
       "ja": "脅す",
-      "zh": "恐吓"
+      "zh": "恐吓",
+      "fr": "intimider"
     },
     "examples": [],
     "meta": {},
@@ -23513,7 +24332,8 @@ const WORDS_RU_B2 = [
       "it": "il contabile",
       "pt": "o contabilista",
       "ja": "会計士",
-      "zh": "会计师"
+      "zh": "会计师",
+      "fr": "comptable"
     },
     "examples": [],
     "meta": {},
@@ -23542,7 +24362,8 @@ const WORDS_RU_B2 = [
       "it": "la transizione",
       "pt": "a transição",
       "ja": "移行",
-      "zh": "过渡"
+      "zh": "过渡",
+      "fr": "transition"
     },
     "examples": [],
     "meta": {},
@@ -23571,7 +24392,8 @@ const WORDS_RU_B2 = [
       "it": "bastare",
       "pt": "ser suficiente",
       "ja": "足りる",
-      "zh": "足够"
+      "zh": "足够",
+      "fr": "suffire"
     },
     "examples": [],
     "meta": {},
@@ -23601,7 +24423,8 @@ const WORDS_RU_B2 = [
       "it": "la copia",
       "pt": "o exemplar",
       "ja": "部",
-      "zh": "副本"
+      "zh": "副本",
+      "fr": "copie"
     },
     "examples": [],
     "meta": {},
@@ -23630,7 +24453,8 @@ const WORDS_RU_B2 = [
       "it": "il bikini",
       "pt": "o biquíni",
       "ja": "ビキニ",
-      "zh": "比基尼"
+      "zh": "比基尼",
+      "fr": "bikini"
     },
     "examples": [],
     "meta": {},
@@ -23659,7 +24483,8 @@ const WORDS_RU_B2 = [
       "it": "la vernice",
       "pt": "a tinta",
       "ja": "絵の具",
-      "zh": "油漆"
+      "zh": "油漆",
+      "fr": "peinture"
     },
     "examples": [],
     "meta": {},
@@ -23688,7 +24513,8 @@ const WORDS_RU_B2 = [
       "it": "il sospetto",
       "pt": "a suspeita",
       "ja": "疑い",
-      "zh": "怀疑"
+      "zh": "怀疑",
+      "fr": "suspicion"
     },
     "examples": [],
     "meta": {},
@@ -23717,7 +24543,8 @@ const WORDS_RU_B2 = [
       "it": "pagare",
       "pt": "pagar",
       "ja": "支払う",
-      "zh": "付清"
+      "zh": "付清",
+      "fr": "rembourser"
     },
     "examples": [],
     "meta": {},
@@ -23747,7 +24574,8 @@ const WORDS_RU_B2 = [
       "it": "la piantagione",
       "pt": "o plantio",
       "ja": "植え付け",
-      "zh": "种植"
+      "zh": "种植",
+      "fr": "plantation"
     },
     "examples": [],
     "meta": {},
@@ -23776,7 +24604,8 @@ const WORDS_RU_B2 = [
       "it": "la vasca idromassaggio",
       "pt": "o jacuzzi",
       "ja": "ジャグジー",
-      "zh": "按摩浴缸"
+      "zh": "按摩浴缸",
+      "fr": "jacuzzi"
     },
     "examples": [],
     "meta": {},
@@ -23805,7 +24634,8 @@ const WORDS_RU_B2 = [
       "it": "divertirsi",
       "pt": "divertir-se",
       "ja": "楽しむ",
-      "zh": "玩乐"
+      "zh": "玩乐",
+      "fr": "s'amuser"
     },
     "examples": [],
     "meta": {},
@@ -23835,7 +24665,8 @@ const WORDS_RU_B2 = [
       "it": "sdraiarsi",
       "pt": "deitar-se",
       "ja": "横になる",
-      "zh": "躺下"
+      "zh": "躺下",
+      "fr": "s'allonger"
     },
     "examples": [],
     "meta": {},
@@ -23865,7 +24696,8 @@ const WORDS_RU_B2 = [
       "it": "il sonnifero",
       "pt": "o sonífero",
       "ja": "睡眠薬",
-      "zh": "安眠药"
+      "zh": "安眠药",
+      "fr": "somnifère"
     },
     "examples": [],
     "meta": {},
@@ -23893,7 +24725,8 @@ const WORDS_RU_B2 = [
       "it": "aumentare",
       "pt": "aumentar",
       "ja": "高める",
-      "zh": "提高"
+      "zh": "提高",
+      "fr": "augmenter"
     },
     "examples": [],
     "meta": {},
@@ -23922,7 +24755,8 @@ const WORDS_RU_B2 = [
       "it": "sanguinoso",
       "pt": "sangrento",
       "ja": "血まみれの",
-      "zh": "血腥的"
+      "zh": "血腥的",
+      "fr": "sanglant"
     },
     "examples": [],
     "meta": {},
@@ -23948,7 +24782,8 @@ const WORDS_RU_B2 = [
       "it": "indicare",
       "pt": "indicar",
       "ja": "指し示す",
-      "zh": "指出"
+      "zh": "指出",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {},
@@ -23977,7 +24812,8 @@ const WORDS_RU_B2 = [
       "it": "la mammina",
       "pt": "a mamãe",
       "ja": "ママ",
-      "zh": "妈妈"
+      "zh": "妈妈",
+      "fr": "maman"
     },
     "examples": [],
     "meta": {},
@@ -24006,7 +24842,8 @@ const WORDS_RU_B2 = [
       "it": "l'esame",
       "pt": "o exame",
       "ja": "検査",
-      "zh": "检查"
+      "zh": "检查",
+      "fr": "examen"
     },
     "examples": [],
     "meta": {},
@@ -24035,7 +24872,8 @@ const WORDS_RU_B2 = [
       "it": "l'elefante",
       "pt": "o elefante",
       "ja": "象",
-      "zh": "大象"
+      "zh": "大象",
+      "fr": "éléphant"
     },
     "examples": [],
     "meta": {},
@@ -24063,7 +24901,8 @@ const WORDS_RU_B2 = [
       "it": "il nonno",
       "pt": "o vovô",
       "ja": "おじいちゃん",
-      "zh": "爷爷"
+      "zh": "爷爷",
+      "fr": "grand-père"
     },
     "examples": [],
     "meta": {},
@@ -24091,7 +24930,8 @@ const WORDS_RU_B2 = [
       "it": "il bandito",
       "pt": "o bandido",
       "ja": "盗賊",
-      "zh": "强盗"
+      "zh": "强盗",
+      "fr": "bandit"
     },
     "examples": [],
     "meta": {},
@@ -24120,7 +24960,8 @@ const WORDS_RU_B2 = [
       "it": "sistemarsi",
       "pt": "estabelecer-se",
       "ja": "落ち着く",
-      "zh": "安顿下来"
+      "zh": "安顿下来",
+      "fr": "s'installer"
     },
     "examples": [],
     "meta": {},
@@ -24150,7 +24991,8 @@ const WORDS_RU_B2 = [
       "it": "avvicinarsi",
       "pt": "aproximar-se",
       "ja": "近づく",
-      "zh": "走近"
+      "zh": "走近",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {},
@@ -24180,7 +25022,8 @@ const WORDS_RU_B2 = [
       "it": "affidare",
       "pt": "confiar",
       "ja": "委ねる",
-      "zh": "委托"
+      "zh": "委托",
+      "fr": "confier"
     },
     "examples": [],
     "meta": {},
@@ -24209,7 +25052,8 @@ const WORDS_RU_B2 = [
       "it": "la commedia",
       "pt": "a peça",
       "ja": "演劇",
-      "zh": "戏剧"
+      "zh": "戏剧",
+      "fr": "jouer"
     },
     "examples": [],
     "meta": {},
@@ -24237,7 +25081,8 @@ const WORDS_RU_B2 = [
       "it": "soffrire",
       "pt": "sofrer",
       "ja": "苦しむ",
-      "zh": "受苦"
+      "zh": "受苦",
+      "fr": "souffrir"
     },
     "examples": [],
     "meta": {},
@@ -24266,7 +25111,8 @@ const WORDS_RU_B2 = [
       "it": "l'Asi",
       "pt": "o Aesir",
       "ja": "アース神族",
-      "zh": "亚萨神族"
+      "zh": "亚萨神族",
+      "fr": "Ases"
     },
     "examples": [],
     "meta": {},
@@ -24294,7 +25140,8 @@ const WORDS_RU_B2 = [
       "it": "il motto",
       "pt": "o lema",
       "ja": "標語",
-      "zh": "座右铭"
+      "zh": "座右铭",
+      "fr": "devise"
     },
     "examples": [],
     "meta": {},
@@ -24323,7 +25170,8 @@ const WORDS_RU_B2 = [
       "it": "la torre",
       "pt": "a torre",
       "ja": "塔",
-      "zh": "塔"
+      "zh": "塔",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -24351,7 +25199,8 @@ const WORDS_RU_B2 = [
       "it": "errato",
       "pt": "incorreto",
       "ja": "間違った",
-      "zh": "不正确的"
+      "zh": "不正确的",
+      "fr": "incorrect"
     },
     "examples": [],
     "meta": {},
@@ -24378,7 +25227,8 @@ const WORDS_RU_B2 = [
       "it": "la valutazione",
       "pt": "a avaliação",
       "ja": "評価",
-      "zh": "评估"
+      "zh": "评估",
+      "fr": "évaluation"
     },
     "examples": [],
     "meta": {},
@@ -24406,7 +25256,8 @@ const WORDS_RU_B2 = [
       "it": "la cenere",
       "pt": "a cinza",
       "ja": "灰",
-      "zh": "灰"
+      "zh": "灰",
+      "fr": "cendre"
     },
     "examples": [],
     "meta": {},
@@ -24435,7 +25286,8 @@ const WORDS_RU_B2 = [
       "it": "l'informatore",
       "pt": "o informante",
       "ja": "情報提供者",
-      "zh": "告密者"
+      "zh": "告密者",
+      "fr": "informateur"
     },
     "examples": [],
     "meta": {},
@@ -24463,7 +25315,8 @@ const WORDS_RU_B2 = [
       "it": "testardo",
       "pt": "teimoso",
       "ja": "頑固な",
-      "zh": "固执的"
+      "zh": "固执的",
+      "fr": "têtu"
     },
     "examples": [],
     "meta": {},
@@ -24490,7 +25343,8 @@ const WORDS_RU_B2 = [
       "it": "restante",
       "pt": "restante",
       "ja": "残りの",
-      "zh": "剩余的"
+      "zh": "剩余的",
+      "fr": "restant"
     },
     "examples": [],
     "meta": {},
@@ -24517,7 +25371,8 @@ const WORDS_RU_B2 = [
       "it": "brillante",
       "pt": "brilhante",
       "ja": "明るい",
-      "zh": "明亮的"
+      "zh": "明亮的",
+      "fr": "lumineux"
     },
     "examples": [],
     "meta": {},
@@ -24543,7 +25398,8 @@ const WORDS_RU_B2 = [
       "it": "interrogare",
       "pt": "interrogar",
       "ja": "尋問する",
-      "zh": "审问"
+      "zh": "审问",
+      "fr": "interroger"
     },
     "examples": [],
     "meta": {},
@@ -24572,7 +25428,8 @@ const WORDS_RU_B2 = [
       "it": "il brillante",
       "pt": "o brilhante",
       "ja": "ブリリアント",
-      "zh": "钻石"
+      "zh": "钻石",
+      "fr": "brillant"
     },
     "examples": [],
     "meta": {},
@@ -24601,7 +25458,8 @@ const WORDS_RU_B2 = [
       "it": "l'alba",
       "pt": "o amanhecer",
       "ja": "夜明け",
-      "zh": "黎明"
+      "zh": "黎明",
+      "fr": "aube"
     },
     "examples": [],
     "meta": {},
@@ -24629,7 +25487,8 @@ const WORDS_RU_B2 = [
       "it": "l'incendio boschivo",
       "pt": "o incêndio florestal",
       "ja": "山火事",
-      "zh": "野火"
+      "zh": "野火",
+      "fr": "incendie"
     },
     "examples": [],
     "meta": {},
@@ -24658,7 +25517,8 @@ const WORDS_RU_B2 = [
       "it": "i fuochi d'artificio",
       "pt": "os fogos de artifício",
       "ja": "花火",
-      "zh": "烟花"
+      "zh": "烟花",
+      "fr": "feux d'artifice"
     },
     "examples": [],
     "meta": {},
@@ -24687,7 +25547,8 @@ const WORDS_RU_B2 = [
       "it": "l'avvelenamento",
       "pt": "o envenenamento",
       "ja": "中毒",
-      "zh": "中毒"
+      "zh": "中毒",
+      "fr": "empoisonnement"
     },
     "examples": [],
     "meta": {},
@@ -24716,7 +25577,8 @@ const WORDS_RU_B2 = [
       "it": "respirare un po'",
       "pt": "respirar um pouco",
       "ja": "少し呼吸する",
-      "zh": "呼吸一会儿"
+      "zh": "呼吸一会儿",
+      "fr": "respirer"
     },
     "examples": [],
     "meta": {},
@@ -24746,7 +25608,8 @@ const WORDS_RU_B2 = [
       "it": "difendersi",
       "pt": "defender-se",
       "ja": "身を守る",
-      "zh": "自卫"
+      "zh": "自卫",
+      "fr": "se défendre"
     },
     "examples": [],
     "meta": {},
@@ -24775,7 +25638,8 @@ const WORDS_RU_B2 = [
       "it": "il salvatore",
       "pt": "o salvador",
       "ja": "救世主",
-      "zh": "救世主"
+      "zh": "救世主",
+      "fr": "sauveur"
     },
     "examples": [],
     "meta": {},
@@ -24804,7 +25668,8 @@ const WORDS_RU_B2 = [
       "it": "accelerare",
       "pt": "acelerar",
       "ja": "加速する",
-      "zh": "加速"
+      "zh": "加速",
+      "fr": "accélérer"
     },
     "examples": [],
     "meta": {},
@@ -24834,7 +25699,8 @@ const WORDS_RU_B2 = [
       "it": "il filo",
       "pt": "o fio",
       "ja": "糸",
-      "zh": "线"
+      "zh": "线",
+      "fr": "fil"
     },
     "examples": [],
     "meta": {},
@@ -24863,7 +25729,8 @@ const WORDS_RU_B2 = [
       "it": "portare",
       "pt": "trazer",
       "ja": "持ってくる",
-      "zh": "带来"
+      "zh": "带来",
+      "fr": "apporter"
     },
     "examples": [],
     "meta": {},
@@ -24892,7 +25759,8 @@ const WORDS_RU_B2 = [
       "it": "il gilet",
       "pt": "o colete",
       "ja": "ベスト",
-      "zh": "马甲"
+      "zh": "马甲",
+      "fr": "gilet"
     },
     "examples": [],
     "meta": {},
@@ -24921,7 +25789,8 @@ const WORDS_RU_B2 = [
       "it": "la panna",
       "pt": "o creme",
       "ja": "クリーム",
-      "zh": "奶油"
+      "zh": "奶油",
+      "fr": "crème"
     },
     "examples": [],
     "meta": {},
@@ -24950,7 +25819,8 @@ const WORDS_RU_B2 = [
       "it": "dentale",
       "pt": "dental",
       "ja": "歯の",
-      "zh": "牙齿的"
+      "zh": "牙齿的",
+      "fr": "dentaire"
     },
     "examples": [],
     "meta": {},
@@ -24977,7 +25847,8 @@ const WORDS_RU_B2 = [
       "it": "il dentista",
       "pt": "o dentista",
       "ja": "歯医者",
-      "zh": "牙医"
+      "zh": "牙医",
+      "fr": "dentiste"
     },
     "examples": [],
     "meta": {},
@@ -25006,7 +25877,8 @@ const WORDS_RU_B2 = [
       "it": "la cima",
       "pt": "o pico",
       "ja": "頂上",
-      "zh": "山峰"
+      "zh": "山峰",
+      "fr": "sommet"
     },
     "examples": [],
     "meta": {},
@@ -25034,7 +25906,8 @@ const WORDS_RU_B2 = [
       "it": "la morale",
       "pt": "a moral",
       "ja": "道徳",
-      "zh": "道德"
+      "zh": "道德",
+      "fr": "moralité"
     },
     "examples": [],
     "meta": {},
@@ -25063,7 +25936,8 @@ const WORDS_RU_B2 = [
       "it": "il rifiuto",
       "pt": "a recusa",
       "ja": "拒絶",
-      "zh": "拒绝"
+      "zh": "拒绝",
+      "fr": "rejet"
     },
     "examples": [],
     "meta": {},
@@ -25091,7 +25965,8 @@ const WORDS_RU_B2 = [
       "it": "il giorno",
       "pt": "o dia",
       "ja": "良い日",
-      "zh": "好日子"
+      "zh": "好日子",
+      "fr": "une belle journée"
     },
     "examples": [],
     "meta": {},
@@ -25120,7 +25995,8 @@ const WORDS_RU_B2 = [
       "it": "l'argomento",
       "pt": "o argumento",
       "ja": "議論",
-      "zh": "论点"
+      "zh": "论点",
+      "fr": "argument"
     },
     "examples": [],
     "meta": {},
@@ -25149,7 +26025,8 @@ const WORDS_RU_B2 = [
       "it": "cattivo",
       "pt": "mau",
       "ja": "悪い",
-      "zh": "坏的"
+      "zh": "坏的",
+      "fr": "mauvais"
     },
     "examples": [],
     "meta": {},
@@ -25175,7 +26052,8 @@ const WORDS_RU_B2 = [
       "it": "insistere",
       "pt": "insistir",
       "ja": "主張する",
-      "zh": "坚持"
+      "zh": "坚持",
+      "fr": "insister"
     },
     "examples": [],
     "meta": {},
@@ -25204,7 +26082,8 @@ const WORDS_RU_B2 = [
       "it": "la marina",
       "pt": "a paisagem marinha",
       "ja": "海景画",
-      "zh": "海景画"
+      "zh": "海景画",
+      "fr": "marine"
     },
     "examples": [],
     "meta": {},
@@ -25232,7 +26111,8 @@ const WORDS_RU_B2 = [
       "it": "connettere",
       "pt": "conectar",
       "ja": "接続する",
-      "zh": "连接"
+      "zh": "连接",
+      "fr": "connecter"
     },
     "examples": [],
     "meta": {},
@@ -25262,7 +26142,8 @@ const WORDS_RU_B2 = [
       "it": "settentrionale",
       "pt": "do norte",
       "ja": "北の",
-      "zh": "北方的"
+      "zh": "北方的",
+      "fr": "nordique"
     },
     "examples": [],
     "meta": {},
@@ -25288,7 +26169,8 @@ const WORDS_RU_B2 = [
       "it": "la vocazione",
       "pt": "a vocação",
       "ja": "天職",
-      "zh": "天职"
+      "zh": "天职",
+      "fr": "vocation"
     },
     "examples": [],
     "meta": {},
@@ -25316,7 +26198,8 @@ const WORDS_RU_B2 = [
       "it": "il clan",
       "pt": "o clã",
       "ja": "氏族",
-      "zh": "氏族"
+      "zh": "氏族",
+      "fr": "clan"
     },
     "examples": [],
     "meta": {},
@@ -25344,7 +26227,8 @@ const WORDS_RU_B2 = [
       "it": "girare",
       "pt": "virar",
       "ja": "向ける",
-      "zh": "转向"
+      "zh": "转向",
+      "fr": "tourner"
     },
     "examples": [],
     "meta": {},
@@ -25374,7 +26258,8 @@ const WORDS_RU_B2 = [
       "it": "la matematica",
       "pt": "a matemática",
       "ja": "数学",
-      "zh": "数学"
+      "zh": "数学",
+      "fr": "mathématiques"
     },
     "examples": [],
     "meta": {},
@@ -25402,7 +26287,8 @@ const WORDS_RU_B2 = [
       "it": "uscire",
       "pt": "sair",
       "ja": "ぶらぶらする",
-      "zh": "闲逛"
+      "zh": "闲逛",
+      "fr": "traîner"
     },
     "examples": [],
     "meta": {},
@@ -25431,7 +26317,8 @@ const WORDS_RU_B2 = [
       "it": "il coraggio",
       "pt": "a bravura",
       "ja": "勇気",
-      "zh": "勇敢"
+      "zh": "勇敢",
+      "fr": "bravoure"
     },
     "examples": [],
     "meta": {},
@@ -25459,7 +26346,8 @@ const WORDS_RU_B2 = [
       "it": "ridurre",
       "pt": "reduzir",
       "ja": "減らす",
-      "zh": "减少"
+      "zh": "减少",
+      "fr": "réduire"
     },
     "examples": [],
     "meta": {},
@@ -25488,7 +26376,8 @@ const WORDS_RU_B2 = [
       "it": "lamentarsi",
       "pt": "choramingar",
       "ja": "泣き言を言う",
-      "zh": "抱怨"
+      "zh": "抱怨",
+      "fr": "gémir"
     },
     "examples": [],
     "meta": {},
@@ -25517,7 +26406,8 @@ const WORDS_RU_B2 = [
       "it": "inchiodare",
       "pt": "pregar",
       "ja": "打ち込む",
-      "zh": "钉入"
+      "zh": "钉入",
+      "fr": "enfoncer"
     },
     "examples": [],
     "meta": {},
@@ -25548,7 +26438,8 @@ const WORDS_RU_B2 = [
       "it": "iniziare a parlare",
       "pt": "começar a falar",
       "ja": "話し始める",
-      "zh": "开始说话"
+      "zh": "开始说话",
+      "fr": "parler"
     },
     "examples": [],
     "meta": {},
@@ -25577,7 +26468,8 @@ const WORDS_RU_B2 = [
       "it": "deridere",
       "pt": "zombar",
       "ja": "あざける",
-      "zh": "嘲笑"
+      "zh": "嘲笑",
+      "fr": "moquer"
     },
     "examples": [],
     "meta": {},
@@ -25606,7 +26498,8 @@ const WORDS_RU_B2 = [
       "it": "il creatore",
       "pt": "o criador",
       "ja": "創造者",
-      "zh": "创造者"
+      "zh": "创造者",
+      "fr": "créateur"
     },
     "examples": [],
     "meta": {},
@@ -25634,7 +26527,8 @@ const WORDS_RU_B2 = [
       "it": "l'esecuzione",
       "pt": "a execução",
       "ja": "実行",
-      "zh": "执行"
+      "zh": "执行",
+      "fr": "exécution"
     },
     "examples": [],
     "meta": {},
@@ -25662,7 +26556,8 @@ const WORDS_RU_B2 = [
       "it": "tormentare",
       "pt": "atormentar",
       "ja": "苦しめる",
-      "zh": "折磨"
+      "zh": "折磨",
+      "fr": "tourment"
     },
     "examples": [],
     "meta": {},
@@ -25691,7 +26586,8 @@ const WORDS_RU_B2 = [
       "it": "educare",
       "pt": "educar",
       "ja": "教育する",
-      "zh": "教育"
+      "zh": "教育",
+      "fr": "éduquer"
     },
     "examples": [],
     "meta": {},
@@ -25720,7 +26616,8 @@ const WORDS_RU_B2 = [
       "it": "creare",
       "pt": "criar",
       "ja": "創造する",
-      "zh": "创造"
+      "zh": "创造",
+      "fr": "créer"
     },
     "examples": [],
     "meta": {},
@@ -25749,7 +26646,8 @@ const WORDS_RU_B2 = [
       "it": "la rivolta",
       "pt": "a revolta",
       "ja": "蜂起",
-      "zh": "起义"
+      "zh": "起义",
+      "fr": "soulèvement"
     },
     "examples": [],
     "meta": {},
@@ -25777,7 +26675,8 @@ const WORDS_RU_B2 = [
       "it": "tappare",
       "pt": "tapar",
       "ja": "塞ぐ",
-      "zh": "堵塞"
+      "zh": "堵塞",
+      "fr": "fiche"
     },
     "examples": [],
     "meta": {},
@@ -25807,7 +26706,8 @@ const WORDS_RU_B2 = [
       "it": "apparire",
       "pt": "aparecer",
       "ja": "現れる",
-      "zh": "出现"
+      "zh": "出现",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {},
@@ -25837,7 +26737,8 @@ const WORDS_RU_B2 = [
       "it": "il flash",
       "pt": "o flash",
       "ja": "フラッシュ",
-      "zh": "闪光"
+      "zh": "闪光",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {},
@@ -25865,7 +26766,8 @@ const WORDS_RU_B2 = [
       "it": "fare pipì",
       "pt": "fazer xixi",
       "ja": "おしっこする",
-      "zh": "撒尿"
+      "zh": "撒尿",
+      "fr": "pipi"
     },
     "examples": [],
     "meta": {},
@@ -25895,7 +26797,8 @@ const WORDS_RU_B2 = [
       "it": "trovare",
       "pt": "encontrar",
       "ja": "探し出す",
-      "zh": "找到"
+      "zh": "找到",
+      "fr": "trouver"
     },
     "examples": [],
     "meta": {},
@@ -25924,7 +26827,8 @@ const WORDS_RU_B2 = [
       "it": "il decano",
       "pt": "o decano",
       "ja": "学部長",
-      "zh": "系主任"
+      "zh": "系主任",
+      "fr": "doyen"
     },
     "examples": [],
     "meta": {},
@@ -25953,7 +26857,8 @@ const WORDS_RU_B2 = [
       "it": "la pianta",
       "pt": "a planta",
       "ja": "植物",
-      "zh": "植物"
+      "zh": "植物",
+      "fr": "plante"
     },
     "examples": [],
     "meta": {},
@@ -25982,7 +26887,8 @@ const WORDS_RU_B2 = [
       "it": "la vigilia",
       "pt": "a véspera",
       "ja": "前夜",
-      "zh": "前夕"
+      "zh": "前夕",
+      "fr": "veille"
     },
     "examples": [],
     "meta": {},
@@ -26010,7 +26916,8 @@ const WORDS_RU_B2 = [
       "it": "il vescovo",
       "pt": "o bispo",
       "ja": "司教",
-      "zh": "主教"
+      "zh": "主教",
+      "fr": "évêque"
     },
     "examples": [],
     "meta": {},
@@ -26038,7 +26945,8 @@ const WORDS_RU_B2 = [
       "it": "civile",
       "pt": "civil",
       "ja": "市民の",
-      "zh": "公民的"
+      "zh": "公民的",
+      "fr": "civil"
     },
     "examples": [],
     "meta": {},
@@ -26065,7 +26973,8 @@ const WORDS_RU_B2 = [
       "it": "la jeep",
       "pt": "o jipe",
       "ja": "ジープ",
-      "zh": "吉普车"
+      "zh": "吉普车",
+      "fr": "jeep"
     },
     "examples": [],
     "meta": {},
@@ -26093,7 +27002,8 @@ const WORDS_RU_B2 = [
       "it": "sottoporre",
       "pt": "submeter",
       "ja": "さらす",
-      "zh": "使遭受"
+      "zh": "使遭受",
+      "fr": "sujet"
     },
     "examples": [],
     "meta": {},
@@ -26122,7 +27032,8 @@ const WORDS_RU_B2 = [
       "it": "il cecchino",
       "pt": "o atirador furtivo",
       "ja": "スナイパー",
-      "zh": "狙击手"
+      "zh": "狙击手",
+      "fr": "sniper"
     },
     "examples": [],
     "meta": {},
@@ -26151,7 +27062,8 @@ const WORDS_RU_B2 = [
       "it": "il grassone",
       "pt": "o gordo",
       "ja": "太った男",
-      "zh": "胖子"
+      "zh": "胖子",
+      "fr": "obèse"
     },
     "examples": [],
     "meta": {},
@@ -26180,7 +27092,8 @@ const WORDS_RU_B2 = [
       "it": "passare",
       "pt": "passar",
       "ja": "渡す",
-      "zh": "传递"
+      "zh": "传递",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {},
@@ -26209,7 +27122,8 @@ const WORDS_RU_B2 = [
       "it": "terrestre",
       "pt": "terrestre",
       "ja": "地上の",
-      "zh": "地球的"
+      "zh": "地球的",
+      "fr": "terrestre"
     },
     "examples": [],
     "meta": {},
@@ -26236,7 +27150,8 @@ const WORDS_RU_B2 = [
       "it": "più importante",
       "pt": "mais importante",
       "ja": "より重要な",
-      "zh": "更重要的"
+      "zh": "更重要的",
+      "fr": "principal"
     },
     "examples": [],
     "meta": {},
@@ -26263,7 +27178,8 @@ const WORDS_RU_B2 = [
       "it": "fare colazione",
       "pt": "tomar café da manhã",
       "ja": "朝食をとる",
-      "zh": "吃早餐"
+      "zh": "吃早餐",
+      "fr": "déjeuner"
     },
     "examples": [],
     "meta": {},
@@ -26293,7 +27209,8 @@ const WORDS_RU_B2 = [
       "it": "la vasca",
       "pt": "a banheira",
       "ja": "バスタブ",
-      "zh": "浴缸"
+      "zh": "浴缸",
+      "fr": "baignoire"
     },
     "examples": [],
     "meta": {},
@@ -26322,7 +27239,8 @@ const WORDS_RU_B2 = [
       "it": "il tunnel",
       "pt": "o túnel",
       "ja": "トンネル",
-      "zh": "隧道"
+      "zh": "隧道",
+      "fr": "tunnel"
     },
     "examples": [],
     "meta": {},
@@ -26350,7 +27268,8 @@ const WORDS_RU_B2 = [
       "it": "l'originale",
       "pt": "o original",
       "ja": "オリジナル",
-      "zh": "原件"
+      "zh": "原件",
+      "fr": "original"
     },
     "examples": [],
     "meta": {},
@@ -26379,7 +27298,8 @@ const WORDS_RU_B2 = [
       "it": "pulire",
       "pt": "limpar",
       "ja": "掃除する",
-      "zh": "清洁"
+      "zh": "清洁",
+      "fr": "nettoyer"
     },
     "examples": [],
     "meta": {},
@@ -26409,7 +27329,8 @@ const WORDS_RU_B2 = [
       "it": "il frangiflutti",
       "pt": "o quebra-mar",
       "ja": "防波堤",
-      "zh": "防波堤"
+      "zh": "防波堤",
+      "fr": "brise-lames"
     },
     "examples": [],
     "meta": {},
@@ -26437,7 +27358,8 @@ const WORDS_RU_B2 = [
       "it": "mortale",
       "pt": "mortal",
       "ja": "致命的な",
-      "zh": "致命的"
+      "zh": "致命的",
+      "fr": "mortel"
     },
     "examples": [],
     "meta": {},
@@ -26464,7 +27386,8 @@ const WORDS_RU_B2 = [
       "it": "badare",
       "pt": "cuidar",
       "ja": "面倒を見る",
-      "zh": "照看"
+      "zh": "照看",
+      "fr": "s'occuper"
     },
     "examples": [],
     "meta": {},
@@ -26493,7 +27416,8 @@ const WORDS_RU_B2 = [
       "it": "trasformarsi",
       "pt": "transformar-se",
       "ja": "変化する",
-      "zh": "转变"
+      "zh": "转变",
+      "fr": "transformer"
     },
     "examples": [],
     "meta": {},
@@ -26523,7 +27447,8 @@ const WORDS_RU_B2 = [
       "it": "salire",
       "pt": "subir",
       "ja": "上がる",
-      "zh": "上升"
+      "zh": "上升",
+      "fr": "monter"
     },
     "examples": [],
     "meta": {},
@@ -26553,7 +27478,8 @@ const WORDS_RU_B2 = [
       "it": "stretto",
       "pt": "apertado",
       "ja": "きつく",
-      "zh": "紧"
+      "zh": "紧",
+      "fr": "étroitement"
     },
     "examples": [],
     "meta": {},
@@ -26580,7 +27506,8 @@ const WORDS_RU_B2 = [
       "it": "riuscito",
       "pt": "bem-sucedido",
       "ja": "成功した",
-      "zh": "成功的"
+      "zh": "成功的",
+      "fr": "réussi"
     },
     "examples": [],
     "meta": {},
@@ -26606,7 +27533,8 @@ const WORDS_RU_B2 = [
       "it": "il ciclo",
       "pt": "o ciclo",
       "ja": "サイクル",
-      "zh": "周期"
+      "zh": "周期",
+      "fr": "cycle"
     },
     "examples": [],
     "meta": {},
@@ -26635,7 +27563,8 @@ const WORDS_RU_B2 = [
       "it": "la conoscenza",
       "pt": "o conhecimento",
       "ja": "知り合い",
-      "zh": "熟人"
+      "zh": "熟人",
+      "fr": "connaissance"
     },
     "examples": [],
     "meta": {},
@@ -26663,7 +27592,8 @@ const WORDS_RU_B2 = [
       "it": "la misericordia",
       "pt": "a misericórdia",
       "ja": "慈悲",
-      "zh": "仁慈"
+      "zh": "仁慈",
+      "fr": "miséricorde"
     },
     "examples": [],
     "meta": {},
@@ -26692,7 +27622,8 @@ const WORDS_RU_B2 = [
       "it": "bruciare",
       "pt": "queimar",
       "ja": "燃える",
-      "zh": "燃烧"
+      "zh": "燃烧",
+      "fr": "brûler"
     },
     "examples": [],
     "meta": {},
@@ -26722,7 +27653,8 @@ const WORDS_RU_B2 = [
       "it": "il karaoke",
       "pt": "o karaokê",
       "ja": "カラオケ",
-      "zh": "卡拉OK"
+      "zh": "卡拉OK",
+      "fr": "karaoké"
     },
     "examples": [],
     "meta": {},
@@ -26750,7 +27682,8 @@ const WORDS_RU_B2 = [
       "it": "lo zero",
       "pt": "o zero",
       "ja": "ゼロ",
-      "zh": "零"
+      "zh": "零",
+      "fr": "zéro"
     },
     "examples": [],
     "meta": {},
@@ -26779,7 +27712,8 @@ const WORDS_RU_B2 = [
       "it": "l'invenzione",
       "pt": "a invenção",
       "ja": "発明",
-      "zh": "发明"
+      "zh": "发明",
+      "fr": "invention"
     },
     "examples": [],
     "meta": {},
@@ -26807,7 +27741,8 @@ const WORDS_RU_B2 = [
       "it": "la barriera",
       "pt": "a barreira",
       "ja": "バリア",
-      "zh": "障碍"
+      "zh": "障碍",
+      "fr": "barrière"
     },
     "examples": [],
     "meta": {},
@@ -26836,7 +27771,8 @@ const WORDS_RU_B2 = [
       "it": "calvo",
       "pt": "careca",
       "ja": "はげた",
-      "zh": "秃头"
+      "zh": "秃头",
+      "fr": "chauve"
     },
     "examples": [],
     "meta": {},
@@ -26863,7 +27799,8 @@ const WORDS_RU_B2 = [
       "it": "la mela piccola",
       "pt": "a maçãzinha",
       "ja": "小さなリンゴ",
-      "zh": "小苹果"
+      "zh": "小苹果",
+      "fr": "pommette"
     },
     "examples": [],
     "meta": {},
@@ -26893,7 +27830,8 @@ const WORDS_RU_B2 = [
       "it": "la guida",
       "pt": "a condução",
       "ja": "運転",
-      "zh": "驾驶"
+      "zh": "驾驶",
+      "fr": "conduite"
     },
     "examples": [],
     "meta": {},
@@ -26921,7 +27859,8 @@ const WORDS_RU_B2 = [
       "it": "pari",
       "pt": "quites",
       "ja": "おあいこ",
-      "zh": "两清"
+      "zh": "两清",
+      "fr": "démission"
     },
     "examples": [],
     "meta": {},
@@ -26948,7 +27887,8 @@ const WORDS_RU_B2 = [
       "it": "l'alloggio",
       "pt": "a moradia",
       "ja": "住居",
-      "zh": "住房"
+      "zh": "住房",
+      "fr": "logement"
     },
     "examples": [],
     "meta": {},
@@ -26976,7 +27916,8 @@ const WORDS_RU_B2 = [
       "it": "il Segretario di Stato",
       "pt": "o Secretário de Estado",
       "ja": "国務長官",
-      "zh": "国务卿"
+      "zh": "国务卿",
+      "fr": "Secrétaire d'État"
     },
     "examples": [],
     "meta": {},
@@ -27006,7 +27947,8 @@ const WORDS_RU_B2 = [
       "it": "triste",
       "pt": "triste",
       "ja": "悲しい",
-      "zh": "悲伤的"
+      "zh": "悲伤的",
+      "fr": "triste"
     },
     "examples": [],
     "meta": {},
@@ -27032,7 +27974,8 @@ const WORDS_RU_B2 = [
       "it": "attraente",
       "pt": "atraente",
       "ja": "魅力的な",
-      "zh": "有吸引力的"
+      "zh": "有吸引力的",
+      "fr": "attrayant"
     },
     "examples": [],
     "meta": {},
@@ -27059,7 +28002,8 @@ const WORDS_RU_B2 = [
       "it": "lavare",
       "pt": "lavar",
       "ja": "洗う",
-      "zh": "洗"
+      "zh": "洗",
+      "fr": "laver"
     },
     "examples": [],
     "meta": {},
@@ -27088,7 +28032,8 @@ const WORDS_RU_B2 = [
       "it": "l'amo",
       "pt": "o gancho",
       "ja": "フック",
-      "zh": "钩子"
+      "zh": "钩子",
+      "fr": "crochet"
     },
     "examples": [],
     "meta": {},
@@ -27116,7 +28061,8 @@ const WORDS_RU_B2 = [
       "it": "l'incidente",
       "pt": "o incidente",
       "ja": "事件",
-      "zh": "事件"
+      "zh": "事件",
+      "fr": "incident"
     },
     "examples": [],
     "meta": {},
@@ -27145,7 +28091,8 @@ const WORDS_RU_B2 = [
       "it": "il metro",
       "pt": "o metro",
       "ja": "メートル",
-      "zh": "米"
+      "zh": "米",
+      "fr": "mètre"
     },
     "examples": [],
     "meta": {},
@@ -27175,7 +28122,8 @@ const WORDS_RU_B2 = [
       "it": "pagare",
       "pt": "pagar",
       "ja": "支払う",
-      "zh": "支付"
+      "zh": "支付",
+      "fr": "payer"
     },
     "examples": [],
     "meta": {},
@@ -27204,7 +28152,8 @@ const WORDS_RU_B2 = [
       "it": "la campagna",
       "pt": "a campanha",
       "ja": "キャンペーン",
-      "zh": "运动"
+      "zh": "运动",
+      "fr": "campagne"
     },
     "examples": [],
     "meta": {},
@@ -27233,7 +28182,8 @@ const WORDS_RU_B2 = [
       "it": "calcolare",
       "pt": "calcular",
       "ja": "計算する",
-      "zh": "计算"
+      "zh": "计算",
+      "fr": "calculer"
     },
     "examples": [],
     "meta": {},
@@ -27262,7 +28212,8 @@ const WORDS_RU_B2 = [
       "it": "coricare",
       "pt": "deitar",
       "ja": "横たえる",
-      "zh": "躺下"
+      "zh": "躺下",
+      "fr": "poser"
     },
     "examples": [],
     "meta": {},
@@ -27291,7 +28242,8 @@ const WORDS_RU_B2 = [
       "it": "il top",
       "pt": "o top",
       "ja": "トップ",
-      "zh": "上衣"
+      "zh": "上衣",
+      "fr": "haut"
     },
     "examples": [],
     "meta": {},
@@ -27319,7 +28271,8 @@ const WORDS_RU_B2 = [
       "it": "top",
       "pt": "top",
       "ja": "トップの",
-      "zh": "顶级的"
+      "zh": "顶级的",
+      "fr": "haut"
     },
     "examples": [],
     "meta": {},
@@ -27345,7 +28298,8 @@ const WORDS_RU_B2 = [
       "it": "la mandria",
       "pt": "o rebanho",
       "ja": "群れ",
-      "zh": "兽群"
+      "zh": "兽群",
+      "fr": "troupeau"
     },
     "examples": [],
     "meta": {},
@@ -27373,7 +28327,8 @@ const WORDS_RU_B2 = [
       "it": "l'inseguimento",
       "pt": "a perseguição",
       "ja": "追跡",
-      "zh": "追逐"
+      "zh": "追逐",
+      "fr": "poursuite"
     },
     "examples": [],
     "meta": {},
@@ -27401,7 +28356,8 @@ const WORDS_RU_B2 = [
       "it": "interrompere",
       "pt": "interromper",
       "ja": "中断する",
-      "zh": "打断"
+      "zh": "打断",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {},
@@ -27431,7 +28387,8 @@ const WORDS_RU_B2 = [
       "it": "essere d'accordo",
       "pt": "concordar",
       "ja": "同意する",
-      "zh": "同意"
+      "zh": "同意",
+      "fr": "convenir"
     },
     "examples": [],
     "meta": {},
@@ -27460,7 +28417,8 @@ const WORDS_RU_B2 = [
       "it": "il fucile",
       "pt": "o rifle",
       "ja": "ライフル",
-      "zh": "步枪"
+      "zh": "步枪",
+      "fr": "fusil"
     },
     "examples": [],
     "meta": {},
@@ -27488,7 +28446,8 @@ const WORDS_RU_B2 = [
       "it": "la mancanza di rispetto",
       "pt": "a falta de respeito",
       "ja": "無礼",
-      "zh": "不尊重"
+      "zh": "不尊重",
+      "fr": "irrespect"
     },
     "examples": [],
     "meta": {},
@@ -27518,7 +28477,8 @@ const WORDS_RU_B2 = [
       "it": "partire",
       "pt": "partir",
       "ja": "出発する",
-      "zh": "出发"
+      "zh": "出发",
+      "fr": "démarrer"
     },
     "examples": [],
     "meta": {},
@@ -27547,7 +28507,8 @@ const WORDS_RU_B2 = [
       "it": "il cucciolo",
       "pt": "o cachorrinho",
       "ja": "子犬",
-      "zh": "小狗"
+      "zh": "小狗",
+      "fr": "chiot"
     },
     "examples": [],
     "meta": {},
@@ -27577,7 +28538,8 @@ const WORDS_RU_B2 = [
       "it": "salutare",
       "pt": "despedir-se",
       "ja": "別れを告げる",
-      "zh": "告别"
+      "zh": "告别",
+      "fr": "dire au revoir"
     },
     "examples": [],
     "meta": {},
@@ -27607,7 +28569,8 @@ const WORDS_RU_B2 = [
       "it": "muovere",
       "pt": "mover",
       "ja": "動かす",
-      "zh": "移动"
+      "zh": "移动",
+      "fr": "bouger"
     },
     "examples": [],
     "meta": {},
@@ -27636,7 +28599,8 @@ const WORDS_RU_B2 = [
       "it": "il macellaio",
       "pt": "o açougueiro",
       "ja": "肉屋",
-      "zh": "屠夫"
+      "zh": "屠夫",
+      "fr": "boucher"
     },
     "examples": [],
     "meta": {},
@@ -27664,7 +28628,8 @@ const WORDS_RU_B2 = [
       "it": "ripagare",
       "pt": "retribuir",
       "ja": "報いる",
-      "zh": "报答"
+      "zh": "报答",
+      "fr": "rembourser"
     },
     "examples": [],
     "meta": {},
@@ -27694,7 +28659,8 @@ const WORDS_RU_B2 = [
       "it": "il beneficio",
       "pt": "o benefício",
       "ja": "利益",
-      "zh": "利益"
+      "zh": "利益",
+      "fr": "avantage"
     },
     "examples": [],
     "meta": {},
@@ -27723,7 +28689,8 @@ const WORDS_RU_B2 = [
       "it": "l'intrattenimento",
       "pt": "o entretenimento",
       "ja": "娯楽",
-      "zh": "娱乐"
+      "zh": "娱乐",
+      "fr": "divertissement"
     },
     "examples": [],
     "meta": {},
@@ -27751,7 +28718,8 @@ const WORDS_RU_B2 = [
       "it": "il popcorn",
       "pt": "a pipoca",
       "ja": "ポップコーン",
-      "zh": "爆米花"
+      "zh": "爆米花",
+      "fr": "popcorn"
     },
     "examples": [],
     "meta": {},
@@ -27779,7 +28747,8 @@ const WORDS_RU_B2 = [
       "it": "condurre giù",
       "pt": "levar para baixo",
       "ja": "案内して下ろす",
-      "zh": "领下"
+      "zh": "领下",
+      "fr": "mener en bas"
     },
     "examples": [],
     "meta": {},
@@ -27808,7 +28777,8 @@ const WORDS_RU_B2 = [
       "it": "distrarre",
       "pt": "distrair",
       "ja": "気をそらす",
-      "zh": "分散注意力"
+      "zh": "分散注意力",
+      "fr": "distraire"
     },
     "examples": [],
     "meta": {},
@@ -27837,7 +28807,8 @@ const WORDS_RU_B2 = [
       "it": "rimanere sbalordito",
       "pt": "ficar pasmo",
       "ja": "呆然とする",
-      "zh": "惊呆"
+      "zh": "惊呆",
+      "fr": "être stupéfait"
     },
     "examples": [],
     "meta": {},
@@ -27866,7 +28837,8 @@ const WORDS_RU_B2 = [
       "it": "eterno",
       "pt": "eterno",
       "ja": "永遠の",
-      "zh": "永恒的"
+      "zh": "永恒的",
+      "fr": "éternel"
     },
     "examples": [],
     "meta": {},
@@ -27893,7 +28865,8 @@ const WORDS_RU_B2 = [
       "it": "far entrare",
       "pt": "deixar entrar",
       "ja": "入れる",
-      "zh": "让进"
+      "zh": "让进",
+      "fr": "laisser entrer"
     },
     "examples": [],
     "meta": {},
@@ -27922,7 +28895,8 @@ const WORDS_RU_B2 = [
       "it": "il rapinatore",
       "pt": "o ladrão",
       "ja": "強盗",
-      "zh": "强盗"
+      "zh": "强盗",
+      "fr": "voleur"
     },
     "examples": [],
     "meta": {},
@@ -27951,7 +28925,8 @@ const WORDS_RU_B2 = [
       "it": "il cookie",
       "pt": "o cookie",
       "ja": "クッキー",
-      "zh": "曲奇"
+      "zh": "曲奇",
+      "fr": "biscuit"
     },
     "examples": [],
     "meta": {},
@@ -27979,7 +28954,8 @@ const WORDS_RU_B2 = [
       "it": "il furto",
       "pt": "o roubo",
       "ja": "窃盗",
-      "zh": "盗窃"
+      "zh": "盗窃",
+      "fr": "vol"
     },
     "examples": [],
     "meta": {},
@@ -28008,7 +28984,8 @@ const WORDS_RU_B2 = [
       "it": "di testa",
       "pt": "de cabeça",
       "ja": "頭の",
-      "zh": "头的"
+      "zh": "头的",
+      "fr": "tête"
     },
     "examples": [],
     "meta": {},
@@ -28034,7 +29011,8 @@ const WORDS_RU_B2 = [
       "it": "comandante",
       "pt": "comandante",
       "ja": "指揮する",
-      "zh": "指挥的"
+      "zh": "指挥的",
+      "fr": "autoritaire"
     },
     "examples": [],
     "meta": {},
@@ -28060,7 +29038,8 @@ const WORDS_RU_B2 = [
       "it": "la petizione",
       "pt": "a petição",
       "ja": "請願",
-      "zh": "请愿"
+      "zh": "请愿",
+      "fr": "pétition"
     },
     "examples": [],
     "meta": {},
@@ -28088,7 +29067,8 @@ const WORDS_RU_B2 = [
       "it": "giustiziare",
       "pt": "executar",
       "ja": "処刑する",
-      "zh": "处决"
+      "zh": "处决",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {},
@@ -28118,7 +29098,8 @@ const WORDS_RU_B2 = [
       "it": "nutrirsi",
       "pt": "alimentar-se",
       "ja": "食事をする",
-      "zh": "进食"
+      "zh": "进食",
+      "fr": "se nourrir"
     },
     "examples": [],
     "meta": {},
@@ -28147,7 +29128,8 @@ const WORDS_RU_B2 = [
       "it": "la disperazione",
       "pt": "o desespero",
       "ja": "絶望",
-      "zh": "绝望"
+      "zh": "绝望",
+      "fr": "désespoir"
     },
     "examples": [],
     "meta": {},
@@ -28176,7 +29158,8 @@ const WORDS_RU_B2 = [
       "it": "il bowling",
       "pt": "o boliche",
       "ja": "ボウリング",
-      "zh": "保龄球"
+      "zh": "保龄球",
+      "fr": "bowling"
     },
     "examples": [],
     "meta": {},
@@ -28205,7 +29188,8 @@ const WORDS_RU_B2 = [
       "it": "morto",
       "pt": "morto",
       "ja": "死んだ",
-      "zh": "死的"
+      "zh": "死的",
+      "fr": "mort"
     },
     "examples": [],
     "meta": {},
@@ -28231,7 +29215,8 @@ const WORDS_RU_B2 = [
       "it": "il morto",
       "pt": "o morto",
       "ja": "死者",
-      "zh": "死者"
+      "zh": "死者",
+      "fr": "mort"
     },
     "examples": [],
     "meta": {},
@@ -28259,7 +29244,8 @@ const WORDS_RU_B2 = [
       "it": "la panoramica",
       "pt": "a visão geral",
       "ja": "概要",
-      "zh": "概述"
+      "zh": "概述",
+      "fr": "aperçu"
     },
     "examples": [],
     "meta": {},
@@ -28289,7 +29275,8 @@ const WORDS_RU_B2 = [
       "it": "chiacchierare",
       "pt": "conversar",
       "ja": "おしゃべりする",
-      "zh": "聊天"
+      "zh": "聊天",
+      "fr": "discussion"
     },
     "examples": [],
     "meta": {},
@@ -28320,7 +29307,8 @@ const WORDS_RU_B2 = [
       "it": "la stazione",
       "pt": "a estação",
       "ja": "駅",
-      "zh": "车站"
+      "zh": "车站",
+      "fr": "station"
     },
     "examples": [],
     "meta": {},
@@ -28348,7 +29336,8 @@ const WORDS_RU_B2 = [
       "it": "la ragione",
       "pt": "a razão",
       "ja": "理性",
-      "zh": "理智"
+      "zh": "理智",
+      "fr": "raison"
     },
     "examples": [],
     "meta": {},
@@ -28377,7 +29366,8 @@ const WORDS_RU_B2 = [
       "it": "la fontana",
       "pt": "a fonte",
       "ja": "噴水",
-      "zh": "喷泉"
+      "zh": "喷泉",
+      "fr": "fontaine"
     },
     "examples": [],
     "meta": {},
@@ -28405,7 +29395,8 @@ const WORDS_RU_B2 = [
       "it": "l'aspirina",
       "pt": "a aspirina",
       "ja": "アスピリン",
-      "zh": "阿司匹林"
+      "zh": "阿司匹林",
+      "fr": "aspirine"
     },
     "examples": [],
     "meta": {},
@@ -28433,7 +29424,8 @@ const WORDS_RU_B2 = [
       "it": "l'innocenza",
       "pt": "a inocência",
       "ja": "無罪",
-      "zh": "无罪"
+      "zh": "无罪",
+      "fr": "innocence"
     },
     "examples": [],
     "meta": {},
@@ -28461,7 +29453,8 @@ const WORDS_RU_B2 = [
       "it": "maggiore",
       "pt": "maior",
       "ja": "より大きい",
-      "zh": "更大"
+      "zh": "更大",
+      "fr": "grand"
     },
     "examples": [],
     "meta": {},
@@ -28487,7 +29480,8 @@ const WORDS_RU_B2 = [
       "it": "il rullo",
       "pt": "o rolo",
       "ja": "ローラー",
-      "zh": "滚筒"
+      "zh": "滚筒",
+      "fr": "rouleau"
     },
     "examples": [],
     "meta": {},
@@ -28516,7 +29510,8 @@ const WORDS_RU_B2 = [
       "it": "il pepe",
       "pt": "a pimenta",
       "ja": "胡椒",
-      "zh": "胡椒"
+      "zh": "胡椒",
+      "fr": "poivre"
     },
     "examples": [],
     "meta": {},
@@ -28545,7 +29540,8 @@ const WORDS_RU_B2 = [
       "it": "la striscia",
       "pt": "a faixa",
       "ja": "ストライプ",
-      "zh": "条纹"
+      "zh": "条纹",
+      "fr": "bande"
     },
     "examples": [],
     "meta": {},
@@ -28574,7 +29570,8 @@ const WORDS_RU_B2 = [
       "it": "disperdersi",
       "pt": "dispersar-se",
       "ja": "分散する",
-      "zh": "分散"
+      "zh": "分散",
+      "fr": "disperser"
     },
     "examples": [],
     "meta": {},
@@ -28603,7 +29600,8 @@ const WORDS_RU_B2 = [
       "it": "allargare",
       "pt": "alargar",
       "ja": "広げる",
-      "zh": "扩大"
+      "zh": "扩大",
+      "fr": "élargir"
     },
     "examples": [],
     "meta": {},
@@ -28632,7 +29630,8 @@ const WORDS_RU_B2 = [
       "it": "tenere conto",
       "pt": "levar em conta",
       "ja": "考慮する",
-      "zh": "考虑"
+      "zh": "考虑",
+      "fr": "considérer"
     },
     "examples": [],
     "meta": {},
@@ -28662,7 +29661,8 @@ const WORDS_RU_B2 = [
       "it": "restituire",
       "pt": "devolver",
       "ja": "返す",
-      "zh": "归还"
+      "zh": "归还",
+      "fr": "retourner"
     },
     "examples": [],
     "meta": {},
@@ -28692,7 +29692,8 @@ const WORDS_RU_B2 = [
       "it": "salutare",
       "pt": "cumprimentar",
       "ja": "挨拶する",
-      "zh": "问候"
+      "zh": "问候",
+      "fr": "saluer"
     },
     "examples": [],
     "meta": {},
@@ -28722,7 +29723,8 @@ const WORDS_RU_B2 = [
       "it": "di carne",
       "pt": "de carne",
       "ja": "肉の",
-      "zh": "肉的"
+      "zh": "肉的",
+      "fr": "viande"
     },
     "examples": [],
     "meta": {},
@@ -28749,7 +29751,8 @@ const WORDS_RU_B2 = [
       "it": "la macelleria",
       "pt": "o açougue",
       "ja": "精肉店",
-      "zh": "肉店"
+      "zh": "肉店",
+      "fr": "boucherie"
     },
     "examples": [],
     "meta": {},
@@ -28777,7 +29780,8 @@ const WORDS_RU_B2 = [
       "it": "lisciare",
       "pt": "alisar",
       "ja": "滑らかにする",
-      "zh": "弄平"
+      "zh": "弄平",
+      "fr": "lisse"
     },
     "examples": [],
     "meta": {},
@@ -28807,7 +29811,8 @@ const WORDS_RU_B2 = [
       "it": "il pozzo",
       "pt": "o poço",
       "ja": "井戸",
-      "zh": "井"
+      "zh": "井",
+      "fr": "bien"
     },
     "examples": [],
     "meta": {},
@@ -28836,7 +29841,8 @@ const WORDS_RU_B2 = [
       "it": "la mostra",
       "pt": "a exposição",
       "ja": "展覧会",
-      "zh": "展览"
+      "zh": "展览",
+      "fr": "exposition"
     },
     "examples": [],
     "meta": {},
@@ -28865,7 +29871,8 @@ const WORDS_RU_B2 = [
       "it": "incontrare",
       "pt": "encontrar",
       "ja": "会う",
-      "zh": "遇见"
+      "zh": "遇见",
+      "fr": "rencontrer"
     },
     "examples": [],
     "meta": {},
@@ -28894,7 +29901,8 @@ const WORDS_RU_B2 = [
       "it": "la gelosia",
       "pt": "o ciúme",
       "ja": "嫉妬",
-      "zh": "嫉妒"
+      "zh": "嫉妒",
+      "fr": "jalousie"
     },
     "examples": [],
     "meta": {},
@@ -28922,7 +29930,8 @@ const WORDS_RU_B2 = [
       "it": "scoprire",
       "pt": "descobrir",
       "ja": "突き止める",
-      "zh": "查明"
+      "zh": "查明",
+      "fr": "découvrir"
     },
     "examples": [],
     "meta": {},
@@ -28951,7 +29960,8 @@ const WORDS_RU_B2 = [
       "it": "il debitore",
       "pt": "o devedor",
       "ja": "債務者",
-      "zh": "债务人"
+      "zh": "债务人",
+      "fr": "débiteur"
     },
     "examples": [],
     "meta": {},
@@ -28979,7 +29989,8 @@ const WORDS_RU_B2 = [
       "it": "colto",
       "pt": "culto",
       "ja": "学識のある",
-      "zh": "有学问的"
+      "zh": "有学问的",
+      "fr": "savant"
     },
     "examples": [],
     "meta": {},
@@ -29006,7 +30017,8 @@ const WORDS_RU_B2 = [
       "it": "lo scienziato",
       "pt": "o cientista",
       "ja": "科学者",
-      "zh": "科学家"
+      "zh": "科学家",
+      "fr": "scientifique"
     },
     "examples": [],
     "meta": {},
@@ -29035,7 +30047,8 @@ const WORDS_RU_B2 = [
       "it": "l'illuminazione",
       "pt": "a iluminação",
       "ja": "照明",
-      "zh": "照明"
+      "zh": "照明",
+      "fr": "éclairage"
     },
     "examples": [],
     "meta": {},
@@ -29063,7 +30076,8 @@ const WORDS_RU_B2 = [
       "it": "il tradimento",
       "pt": "a traição",
       "ja": "裏切り",
-      "zh": "背叛"
+      "zh": "背叛",
+      "fr": "trahison"
     },
     "examples": [],
     "meta": {},
@@ -29092,7 +30106,8 @@ const WORDS_RU_B2 = [
       "it": "proibire",
       "pt": "proibir",
       "ja": "禁止する",
-      "zh": "禁止"
+      "zh": "禁止",
+      "fr": "interdire"
     },
     "examples": [],
     "meta": {},
@@ -29121,7 +30136,8 @@ const WORDS_RU_B2 = [
       "it": "chic",
       "pt": "chique",
       "ja": "シックな",
-      "zh": "别致的"
+      "zh": "别致的",
+      "fr": "chic"
     },
     "examples": [],
     "meta": {},
@@ -29147,7 +30163,8 @@ const WORDS_RU_B2 = [
       "it": "la somiglianza",
       "pt": "a semelhança",
       "ja": "類似性",
-      "zh": "相似"
+      "zh": "相似",
+      "fr": "similarité"
     },
     "examples": [],
     "meta": {},
@@ -29175,7 +30192,8 @@ const WORDS_RU_B2 = [
       "it": "la scheggia",
       "pt": "a farpa",
       "ja": "とげ",
-      "zh": "刺"
+      "zh": "刺",
+      "fr": "écharde"
     },
     "examples": [],
     "meta": {},
@@ -29204,7 +30222,8 @@ const WORDS_RU_B2 = [
       "it": "fare affidamento",
       "pt": "confiar",
       "ja": "頼る",
-      "zh": "依靠"
+      "zh": "依靠",
+      "fr": "compter"
     },
     "examples": [],
     "meta": {},
@@ -29234,7 +30253,8 @@ const WORDS_RU_B2 = [
       "it": "la gioventù",
       "pt": "a juventude",
       "ja": "若者",
-      "zh": "青年"
+      "zh": "青年",
+      "fr": "jeunesse"
     },
     "examples": [],
     "meta": {},
@@ -29262,7 +30282,8 @@ const WORDS_RU_B2 = [
       "it": "il sospiro",
       "pt": "o suspiro",
       "ja": "ため息",
-      "zh": "叹息"
+      "zh": "叹息",
+      "fr": "soupir"
     },
     "examples": [],
     "meta": {},
@@ -29290,7 +30311,8 @@ const WORDS_RU_B2 = [
       "it": "l'evento",
       "pt": "o acontecimento",
       "ja": "出来事",
-      "zh": "发生的事情"
+      "zh": "发生的事情",
+      "fr": "événement"
     },
     "examples": [],
     "meta": {},
@@ -29319,7 +30341,8 @@ const WORDS_RU_B2 = [
       "it": "obbedire",
       "pt": "obedecer",
       "ja": "従う",
-      "zh": "服从"
+      "zh": "服从",
+      "fr": "obéir"
     },
     "examples": [],
     "meta": {},
@@ -29349,7 +30372,8 @@ const WORDS_RU_B2 = [
       "it": "danneggiare",
       "pt": "danificar",
       "ja": "損傷する",
-      "zh": "损坏"
+      "zh": "损坏",
+      "fr": "dommage"
     },
     "examples": [],
     "meta": {},
@@ -29379,7 +30403,8 @@ const WORDS_RU_B2 = [
       "it": "la spa",
       "pt": "o spa",
       "ja": "スパ",
-      "zh": "水疗"
+      "zh": "水疗",
+      "fr": "spa"
     },
     "examples": [],
     "meta": {},
@@ -29407,7 +30432,8 @@ const WORDS_RU_B2 = [
       "it": "il budino",
       "pt": "o pudim",
       "ja": "プディング",
-      "zh": "布丁"
+      "zh": "布丁",
+      "fr": "pudding"
     },
     "examples": [],
     "meta": {},
@@ -29436,7 +30462,8 @@ const WORDS_RU_B2 = [
       "it": "l'applicazione",
       "pt": "a aplicação",
       "ja": "適用",
-      "zh": "应用"
+      "zh": "应用",
+      "fr": "application"
     },
     "examples": [],
     "meta": {},
@@ -29465,7 +30492,8 @@ const WORDS_RU_B2 = [
       "it": "trasportare",
       "pt": "transportar",
       "ja": "輸送する",
-      "zh": "运输"
+      "zh": "运输",
+      "fr": "transport"
     },
     "examples": [],
     "meta": {},
@@ -29495,7 +30523,8 @@ const WORDS_RU_B2 = [
       "it": "suonare",
       "pt": "soar",
       "ja": "鳴る",
-      "zh": "发出声音"
+      "zh": "发出声音",
+      "fr": "son"
     },
     "examples": [],
     "meta": {},
@@ -29525,7 +30554,8 @@ const WORDS_RU_B2 = [
       "it": "unire",
       "pt": "unir",
       "ja": "統合する",
-      "zh": "联合"
+      "zh": "联合",
+      "fr": "unir"
     },
     "examples": [],
     "meta": {},
@@ -29555,7 +30585,8 @@ const WORDS_RU_B2 = [
       "it": "il turno di notte",
       "pt": "o turno da noite",
       "ja": "夜勤",
-      "zh": "夜班"
+      "zh": "夜班",
+      "fr": "quart de nuit"
     },
     "examples": [],
     "meta": {},
@@ -29584,7 +30615,8 @@ const WORDS_RU_B2 = [
       "it": "coprire",
       "pt": "cobrir",
       "ja": "覆う",
-      "zh": "遮盖"
+      "zh": "遮盖",
+      "fr": "couverture"
     },
     "examples": [],
     "meta": {},
@@ -29613,7 +30645,8 @@ const WORDS_RU_B2 = [
       "it": "il vagabondo",
       "pt": "o vagabundo",
       "ja": "放浪者",
-      "zh": "流浪汉"
+      "zh": "流浪汉",
+      "fr": "clochard"
     },
     "examples": [],
     "meta": {},
@@ -29642,7 +30675,8 @@ const WORDS_RU_B2 = [
       "it": "provare",
       "pt": "tentar",
       "ja": "試す",
-      "zh": "尝试"
+      "zh": "尝试",
+      "fr": "essayer"
     },
     "examples": [],
     "meta": {},
@@ -29672,7 +30706,8 @@ const WORDS_RU_B2 = [
       "it": "la sostituzione",
       "pt": "a substituição",
       "ja": "交換",
-      "zh": "更换"
+      "zh": "更换",
+      "fr": "remplacement"
     },
     "examples": [],
     "meta": {},
@@ -29700,7 +30735,8 @@ const WORDS_RU_B2 = [
       "it": "la lettera",
       "pt": "a letra",
       "ja": "文字",
-      "zh": "字母"
+      "zh": "字母",
+      "fr": "lettre"
     },
     "examples": [],
     "meta": {},
@@ -29728,7 +30764,8 @@ const WORDS_RU_B2 = [
       "it": "il cadavere",
       "pt": "o cadáver",
       "ja": "死体",
-      "zh": "尸体"
+      "zh": "尸体",
+      "fr": "cadavre"
     },
     "examples": [],
     "meta": {},
@@ -29757,7 +30794,8 @@ const WORDS_RU_B2 = [
       "it": "bussare",
       "pt": "bater",
       "ja": "ノックする",
-      "zh": "敲"
+      "zh": "敲",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {},
@@ -29786,7 +30824,8 @@ const WORDS_RU_B2 = [
       "it": "la tortura",
       "pt": "a tortura",
       "ja": "拷問",
-      "zh": "酷刑"
+      "zh": "酷刑",
+      "fr": "torture"
     },
     "examples": [],
     "meta": {},
@@ -29814,7 +30853,8 @@ const WORDS_RU_B2 = [
       "it": "la tana",
       "pt": "o covil",
       "ja": "隠れ家",
-      "zh": "巢穴"
+      "zh": "巢穴",
+      "fr": "repaire"
     },
     "examples": [],
     "meta": {},
@@ -29843,7 +30883,8 @@ const WORDS_RU_B2 = [
       "it": "abbattere",
       "pt": "derrubar",
       "ja": "倒す",
-      "zh": "砍倒"
+      "zh": "砍倒",
+      "fr": "abattre"
     },
     "examples": [],
     "meta": {},
@@ -29872,7 +30913,8 @@ const WORDS_RU_B2 = [
       "it": "la preda",
       "pt": "a presa",
       "ja": "獲物",
-      "zh": "猎物"
+      "zh": "猎物",
+      "fr": "proie"
     },
     "examples": [],
     "meta": {},
@@ -29901,7 +30943,8 @@ const WORDS_RU_B2 = [
       "it": "l'inchiostro",
       "pt": "a tinta",
       "ja": "インク",
-      "zh": "墨水"
+      "zh": "墨水",
+      "fr": "encre"
     },
     "examples": [],
     "meta": {},
@@ -29929,7 +30972,8 @@ const WORDS_RU_B2 = [
       "it": "il fenomeno",
       "pt": "o fenômeno",
       "ja": "現象",
-      "zh": "现象"
+      "zh": "现象",
+      "fr": "phénomène"
     },
     "examples": [],
     "meta": {},
@@ -29958,7 +31002,8 @@ const WORDS_RU_B2 = [
       "it": "brillante",
       "pt": "brilhante",
       "ja": "輝かしい",
-      "zh": "辉煌的"
+      "zh": "辉煌的",
+      "fr": "brillant"
     },
     "examples": [],
     "meta": {},
@@ -29985,7 +31030,8 @@ const WORDS_RU_B2 = [
       "it": "mettere da parte",
       "pt": "pôr de lado",
       "ja": "わきに置く",
-      "zh": "搁置"
+      "zh": "搁置",
+      "fr": "réserver"
     },
     "examples": [],
     "meta": {},
@@ -30016,7 +31062,8 @@ const WORDS_RU_B2 = [
       "it": "l'hotel",
       "pt": "o hotel",
       "ja": "ホテル",
-      "zh": "酒店"
+      "zh": "酒店",
+      "fr": "hôtel"
     },
     "examples": [],
     "meta": {},
@@ -30045,7 +31092,8 @@ const WORDS_RU_B2 = [
       "it": "la previsione",
       "pt": "a previsão",
       "ja": "予報",
-      "zh": "预报"
+      "zh": "预报",
+      "fr": "prévision"
     },
     "examples": [],
     "meta": {},
@@ -30074,7 +31122,8 @@ const WORDS_RU_B2 = [
       "it": "il ragno",
       "pt": "a aranha",
       "ja": "クモ",
-      "zh": "蜘蛛"
+      "zh": "蜘蛛",
+      "fr": "araignée"
     },
     "examples": [],
     "meta": {},
@@ -30103,7 +31152,8 @@ const WORDS_RU_B2 = [
       "it": "manipolare",
       "pt": "manipular",
       "ja": "操作する",
-      "zh": "操纵"
+      "zh": "操纵",
+      "fr": "manipuler"
     },
     "examples": [],
     "meta": {},
@@ -30133,7 +31183,8 @@ const WORDS_RU_B2 = [
       "it": "imporre",
       "pt": "impor",
       "ja": "課す",
-      "zh": "施加"
+      "zh": "施加",
+      "fr": "imposer"
     },
     "examples": [],
     "meta": {},
@@ -30162,7 +31213,8 @@ const WORDS_RU_B2 = [
       "it": "la Colombia",
       "pt": "a Colômbia",
       "ja": "コロンビア",
-      "zh": "哥伦比亚"
+      "zh": "哥伦比亚",
+      "fr": "Colombie"
     },
     "examples": [],
     "meta": {},
@@ -30190,7 +31242,8 @@ const WORDS_RU_B2 = [
       "it": "l'ordine",
       "pt": "a ordem",
       "ja": "指示",
-      "zh": "命令"
+      "zh": "命令",
+      "fr": "ordre"
     },
     "examples": [],
     "meta": {},
@@ -30218,7 +31271,8 @@ const WORDS_RU_B2 = [
       "it": "la Bibbia",
       "pt": "a Bíblia",
       "ja": "聖書",
-      "zh": "圣经"
+      "zh": "圣经",
+      "fr": "Bible"
     },
     "examples": [],
     "meta": {},
@@ -30247,7 +31301,8 @@ const WORDS_RU_B2 = [
       "it": "modesto",
       "pt": "modesto",
       "ja": "謙虚な",
-      "zh": "谦虚的"
+      "zh": "谦虚的",
+      "fr": "modeste"
     },
     "examples": [],
     "meta": {},
@@ -30274,7 +31329,8 @@ const WORDS_RU_B2 = [
       "it": "la limousine",
       "pt": "a limusine",
       "ja": "リムジン",
-      "zh": "豪华轿车"
+      "zh": "豪华轿车",
+      "fr": "limousine"
     },
     "examples": [],
     "meta": {},
@@ -30304,7 +31360,8 @@ const WORDS_RU_B2 = [
       "it": "il pagamento",
       "pt": "o pagamento",
       "ja": "支払い",
-      "zh": "支付"
+      "zh": "支付",
+      "fr": "paiement"
     },
     "examples": [],
     "meta": {},
@@ -30333,7 +31390,8 @@ const WORDS_RU_B2 = [
       "it": "la tavola",
       "pt": "a tábua",
       "ja": "板",
-      "zh": "木板"
+      "zh": "木板",
+      "fr": "planche"
     },
     "examples": [],
     "meta": {},
@@ -30363,7 +31421,8 @@ const WORDS_RU_B2 = [
       "it": "il ritardo",
       "pt": "o atraso",
       "ja": "遅延",
-      "zh": "延迟"
+      "zh": "延迟",
+      "fr": "délai"
     },
     "examples": [],
     "meta": {},
@@ -30392,7 +31451,8 @@ const WORDS_RU_B2 = [
       "it": "la dose",
       "pt": "a dose",
       "ja": "服用量",
-      "zh": "剂量"
+      "zh": "剂量",
+      "fr": "dose"
     },
     "examples": [],
     "meta": {},
@@ -30420,7 +31480,8 @@ const WORDS_RU_B2 = [
       "it": "l'ossessione",
       "pt": "a obsessão",
       "ja": "強迫観念",
-      "zh": "痴迷"
+      "zh": "痴迷",
+      "fr": "obsession"
     },
     "examples": [],
     "meta": {},
@@ -30449,7 +31510,8 @@ const WORDS_RU_B2 = [
       "it": "il quaderno",
       "pt": "o caderno",
       "ja": "ノート",
-      "zh": "笔记本"
+      "zh": "笔记本",
+      "fr": "cahier"
     },
     "examples": [],
     "meta": {},
@@ -30478,7 +31540,8 @@ const WORDS_RU_B2 = [
       "it": "librario",
       "pt": "de livro",
       "ja": "本の",
-      "zh": "书的"
+      "zh": "书的",
+      "fr": "livresque"
     },
     "examples": [],
     "meta": {},
@@ -30505,7 +31568,8 @@ const WORDS_RU_B2 = [
       "it": "il grasso",
       "pt": "a gordura",
       "ja": "脂肪",
-      "zh": "脂肪"
+      "zh": "脂肪",
+      "fr": "gras"
     },
     "examples": [],
     "meta": {},
@@ -30533,7 +31597,8 @@ const WORDS_RU_B2 = [
       "it": "il toro",
       "pt": "o toro",
       "ja": "トーラス",
-      "zh": "圆环"
+      "zh": "圆环",
+      "fr": "tore"
     },
     "examples": [],
     "meta": {},
@@ -30562,7 +31627,8 @@ const WORDS_RU_B2 = [
       "it": "il tramonto",
       "pt": "o pôr do sol",
       "ja": "日没",
-      "zh": "日落"
+      "zh": "日落",
+      "fr": "coucher de soleil"
     },
     "examples": [],
     "meta": {},
@@ -30591,7 +31657,8 @@ const WORDS_RU_B2 = [
       "it": "la collina",
       "pt": "a colina",
       "ja": "丘",
-      "zh": "小山"
+      "zh": "小山",
+      "fr": "colline"
     },
     "examples": [],
     "meta": {},
@@ -30620,7 +31687,8 @@ const WORDS_RU_B2 = [
       "it": "acquisire",
       "pt": "adquirir",
       "ja": "取得する",
-      "zh": "获得"
+      "zh": "获得",
+      "fr": "acquérir"
     },
     "examples": [],
     "meta": {},
@@ -30651,7 +31719,8 @@ const WORDS_RU_B2 = [
       "it": "italiano",
       "pt": "italiano",
       "ja": "イタリアの",
-      "zh": "意大利的"
+      "zh": "意大利的",
+      "fr": "italien"
     },
     "examples": [],
     "meta": {},
@@ -30678,7 +31747,8 @@ const WORDS_RU_B2 = [
       "it": "la fabbrica",
       "pt": "a fábrica",
       "ja": "工場",
-      "zh": "工厂"
+      "zh": "工厂",
+      "fr": "usine"
     },
     "examples": [],
     "meta": {},
@@ -30706,7 +31776,8 @@ const WORDS_RU_B2 = [
       "it": "rimanere incinta",
       "pt": "engravidar",
       "ja": "妊娠する",
-      "zh": "怀孕"
+      "zh": "怀孕",
+      "fr": "tomber enceinte"
     },
     "examples": [],
     "meta": {},
@@ -30735,7 +31806,8 @@ const WORDS_RU_B2 = [
       "it": "la lama",
       "pt": "a lâmina",
       "ja": "刃",
-      "zh": "刀片"
+      "zh": "刀片",
+      "fr": "lame"
     },
     "examples": [],
     "meta": {},
@@ -30763,7 +31835,8 @@ const WORDS_RU_B2 = [
       "it": "il tango",
       "pt": "o tango",
       "ja": "タンゴ",
-      "zh": "探戈"
+      "zh": "探戈",
+      "fr": "tango"
     },
     "examples": [],
     "meta": {},
@@ -30792,7 +31865,8 @@ const WORDS_RU_B2 = [
       "it": "cambiare",
       "pt": "mudar",
       "ja": "変更する",
-      "zh": "改变"
+      "zh": "改变",
+      "fr": "changer"
     },
     "examples": [],
     "meta": {},
@@ -30821,7 +31895,8 @@ const WORDS_RU_B2 = [
       "it": "l'ispirazione",
       "pt": "a inspiração",
       "ja": "インスピレーション",
-      "zh": "灵感"
+      "zh": "灵感",
+      "fr": "inspiration"
     },
     "examples": [],
     "meta": {},
@@ -30849,7 +31924,8 @@ const WORDS_RU_B2 = [
       "it": "la parolina",
       "pt": "a palavrinha",
       "ja": "小さな言葉",
-      "zh": "小词"
+      "zh": "小词",
+      "fr": "petit mot"
     },
     "examples": [],
     "meta": {},
@@ -30877,7 +31953,8 @@ const WORDS_RU_B2 = [
       "it": "lo scacco",
       "pt": "o xeque",
       "ja": "チェック",
-      "zh": "将军"
+      "zh": "将军",
+      "fr": "vérifier"
     },
     "examples": [],
     "meta": {},
@@ -30906,7 +31983,8 @@ const WORDS_RU_B2 = [
       "it": "il compromesso",
       "pt": "o compromisso",
       "ja": "妥協",
-      "zh": "妥协"
+      "zh": "妥协",
+      "fr": "compromis"
     },
     "examples": [],
     "meta": {},
@@ -30935,7 +32013,8 @@ const WORDS_RU_B2 = [
       "it": "l'agosto",
       "pt": "o agosto",
       "ja": "8月",
-      "zh": "八月"
+      "zh": "八月",
+      "fr": "août"
     },
     "examples": [],
     "meta": {},
@@ -30963,7 +32042,8 @@ const WORDS_RU_B2 = [
       "it": "prevedere",
       "pt": "prever",
       "ja": "予見する",
-      "zh": "预见"
+      "zh": "预见",
+      "fr": "prévoir"
     },
     "examples": [],
     "meta": {},
@@ -30992,7 +32072,8 @@ const WORDS_RU_B2 = [
       "it": "l'armadietto",
       "pt": "o armário pequeno",
       "ja": "小さな戸棚",
-      "zh": "小柜子"
+      "zh": "小柜子",
+      "fr": "petit meuble"
     },
     "examples": [],
     "meta": {},
@@ -31021,7 +32102,8 @@ const WORDS_RU_B2 = [
       "it": "tipico",
       "pt": "típico",
       "ja": "典型的な",
-      "zh": "典型的"
+      "zh": "典型的",
+      "fr": "typique"
     },
     "examples": [],
     "meta": {},
@@ -31047,7 +32129,8 @@ const WORDS_RU_B2 = [
       "it": "il tornado",
       "pt": "o tornado",
       "ja": "竜巻",
-      "zh": "龙卷风"
+      "zh": "龙卷风",
+      "fr": "tornade"
     },
     "examples": [],
     "meta": {},
@@ -31075,7 +32158,8 @@ const WORDS_RU_B2 = [
       "it": "il visino",
       "pt": "o rostinho",
       "ja": "小さな顔",
-      "zh": "小脸"
+      "zh": "小脸",
+      "fr": "petit visage"
     },
     "examples": [],
     "meta": {},
@@ -31103,7 +32187,8 @@ const WORDS_RU_B2 = [
       "it": "il nanerottolo",
       "pt": "o baixinho",
       "ja": "小柄な人",
-      "zh": "矮个子"
+      "zh": "矮个子",
+      "fr": "petite personne"
     },
     "examples": [],
     "meta": {},
@@ -31131,7 +32216,8 @@ const WORDS_RU_B2 = [
       "it": "il piccolo affare",
       "pt": "o pequeno negócio",
       "ja": "小さな事",
-      "zh": "小事"
+      "zh": "小事",
+      "fr": "petite affaire"
     },
     "examples": [],
     "meta": {},
@@ -31159,7 +32245,8 @@ const WORDS_RU_B2 = [
       "it": "ritirarsi",
       "pt": "recuar",
       "ja": "後退する",
-      "zh": "后退"
+      "zh": "后退",
+      "fr": "retraite"
     },
     "examples": [],
     "meta": {},
@@ -31188,7 +32275,8 @@ const WORDS_RU_B2 = [
       "it": "l'educazione",
       "pt": "a educação",
       "ja": "養育",
-      "zh": "抚养"
+      "zh": "抚养",
+      "fr": "éducation"
     },
     "examples": [],
     "meta": {},
@@ -31216,7 +32304,8 @@ const WORDS_RU_B2 = [
       "it": "il capolavoro",
       "pt": "a obra prima",
       "ja": "傑作",
-      "zh": "杰作"
+      "zh": "杰作",
+      "fr": "chef-d'œuvre"
     },
     "examples": [],
     "meta": {},
@@ -31245,7 +32334,8 @@ const WORDS_RU_B2 = [
       "it": "la pasta",
       "pt": "a massa",
       "ja": "パスタ",
-      "zh": "意大利面"
+      "zh": "意大利面",
+      "fr": "pâtes"
     },
     "examples": [],
     "meta": {},
@@ -31273,7 +32363,8 @@ const WORDS_RU_B2 = [
       "it": "l'abisso",
       "pt": "o abismo",
       "ja": "深淵",
-      "zh": "深渊"
+      "zh": "深渊",
+      "fr": "abîme"
     },
     "examples": [],
     "meta": {},
@@ -31301,7 +32392,8 @@ const WORDS_RU_B2 = [
       "it": "scomparire",
       "pt": "desaparecer",
       "ja": "消える",
-      "zh": "消失"
+      "zh": "消失",
+      "fr": "disparaître"
     },
     "examples": [],
     "meta": {},
@@ -31330,7 +32422,8 @@ const WORDS_RU_B2 = [
       "it": "la linea retta",
       "pt": "a linha reta",
       "ja": "直線",
-      "zh": "直线"
+      "zh": "直线",
+      "fr": "ligne droite"
     },
     "examples": [],
     "meta": {},
@@ -31358,7 +32451,8 @@ const WORDS_RU_B2 = [
       "it": "il pareggio",
       "pt": "o empate",
       "ja": "引き分け",
-      "zh": "平局"
+      "zh": "平局",
+      "fr": "dessiner"
     },
     "examples": [],
     "meta": {},
@@ -31386,7 +32480,8 @@ const WORDS_RU_B2 = [
       "it": "la gioventù",
       "pt": "a juventude",
       "ja": "青春",
-      "zh": "青春"
+      "zh": "青春",
+      "fr": "jeunesse"
     },
     "examples": [],
     "meta": {},
@@ -31414,7 +32509,8 @@ const WORDS_RU_B2 = [
       "it": "il custode",
       "pt": "o guardião",
       "ja": "守護者",
-      "zh": "守护者"
+      "zh": "守护者",
+      "fr": "gardien"
     },
     "examples": [],
     "meta": {},
@@ -31443,7 +32539,8 @@ const WORDS_RU_B2 = [
       "it": "la limonata",
       "pt": "a limonada",
       "ja": "レモネード",
-      "zh": "柠檬水"
+      "zh": "柠檬水",
+      "fr": "limonade"
     },
     "examples": [],
     "meta": {},
@@ -31471,7 +32568,8 @@ const WORDS_RU_B2 = [
       "it": "l'indipendenza",
       "pt": "a independência",
       "ja": "独立",
-      "zh": "独立"
+      "zh": "独立",
+      "fr": "indépendance"
     },
     "examples": [],
     "meta": {},
@@ -31500,7 +32598,8 @@ const WORDS_RU_B2 = [
       "it": "salutare",
       "pt": "cumprimentar",
       "ja": "挨拶する",
-      "zh": "问候"
+      "zh": "问候",
+      "fr": "saluer"
     },
     "examples": [],
     "meta": {},
@@ -31529,7 +32628,8 @@ const WORDS_RU_B2 = [
       "it": "la ribellione",
       "pt": "a rebelião",
       "ja": "反乱",
-      "zh": "叛乱"
+      "zh": "叛乱",
+      "fr": "rébellion"
     },
     "examples": [],
     "meta": {},
@@ -31557,7 +32657,8 @@ const WORDS_RU_B2 = [
       "it": "insegnare",
       "pt": "ensinar",
       "ja": "教える",
-      "zh": "教"
+      "zh": "教",
+      "fr": "enseigner"
     },
     "examples": [],
     "meta": {},
@@ -31587,7 +32688,8 @@ const WORDS_RU_B2 = [
       "it": "la palla",
       "pt": "a bola",
       "ja": "ボール",
-      "zh": "球"
+      "zh": "球",
+      "fr": "balle"
     },
     "examples": [],
     "meta": {},
@@ -31616,7 +32718,8 @@ const WORDS_RU_B2 = [
       "it": "fare colazione",
       "pt": "tomar café da manhã",
       "ja": "朝食をとる",
-      "zh": "吃早餐"
+      "zh": "吃早餐",
+      "fr": "déjeuner"
     },
     "examples": [],
     "meta": {},
@@ -31646,7 +32749,8 @@ const WORDS_RU_B2 = [
       "it": "il perdono",
       "pt": "o perdão",
       "ja": "許し",
-      "zh": "宽恕"
+      "zh": "宽恕",
+      "fr": "pardon"
     },
     "examples": [],
     "meta": {},
@@ -31674,7 +32778,8 @@ const WORDS_RU_B2 = [
       "it": "la fretta",
       "pt": "a pressa",
       "ja": "急ぎ",
-      "zh": "匆忙"
+      "zh": "匆忙",
+      "fr": "hâte"
     },
     "examples": [],
     "meta": {},
@@ -31703,7 +32808,8 @@ const WORDS_RU_B2 = [
       "it": "il miliardo",
       "pt": "o bilhão",
       "ja": "10億",
-      "zh": "十亿"
+      "zh": "十亿",
+      "fr": "milliard"
     },
     "examples": [],
     "meta": {},
@@ -31732,7 +32838,8 @@ const WORDS_RU_B2 = [
       "it": "l'uva Isabella",
       "pt": "a uva Isabella",
       "ja": "イザベラ葡萄",
-      "zh": "伊莎贝拉葡萄"
+      "zh": "伊莎贝拉葡萄",
+      "fr": "raisin Isabella"
     },
     "examples": [],
     "meta": {},
@@ -31760,7 +32867,8 @@ const WORDS_RU_B2 = [
       "it": "percepire",
       "pt": "perceber",
       "ja": "知覚する",
-      "zh": "感知"
+      "zh": "感知",
+      "fr": "percevoir"
     },
     "examples": [],
     "meta": {},
@@ -31790,7 +32898,8 @@ const WORDS_RU_B2 = [
       "it": "abituarsi",
       "pt": "acostumar-se",
       "ja": "慣れる",
-      "zh": "习惯"
+      "zh": "习惯",
+      "fr": "s'habituer"
     },
     "examples": [],
     "meta": {},
@@ -31820,7 +32929,8 @@ const WORDS_RU_B2 = [
       "it": "il calendario",
       "pt": "o calendário",
       "ja": "カレンダー",
-      "zh": "日历"
+      "zh": "日历",
+      "fr": "calendrier"
     },
     "examples": [],
     "meta": {},
@@ -31848,7 +32958,8 @@ const WORDS_RU_B2 = [
       "it": "impressionare",
       "pt": "impressionar",
       "ja": "感銘を与える",
-      "zh": "打动"
+      "zh": "打动",
+      "fr": "impressionner"
     },
     "examples": [],
     "meta": {},
@@ -31878,7 +32989,8 @@ const WORDS_RU_B2 = [
       "it": "cambiare",
       "pt": "mudar",
       "ja": "変わる",
-      "zh": "改变"
+      "zh": "改变",
+      "fr": "changer"
     },
     "examples": [],
     "meta": {},
@@ -31907,7 +33019,8 @@ const WORDS_RU_B2 = [
       "it": "versare",
       "pt": "derramar",
       "ja": "注ぎ出す",
-      "zh": "倒出"
+      "zh": "倒出",
+      "fr": "verser"
     },
     "examples": [],
     "meta": {},
@@ -31937,7 +33050,8 @@ const WORDS_RU_B2 = [
       "it": "giapponese",
       "pt": "japonês",
       "ja": "日本の",
-      "zh": "日本的"
+      "zh": "日本的",
+      "fr": "japonais"
     },
     "examples": [],
     "meta": {},
@@ -31963,7 +33077,8 @@ const WORDS_RU_B2 = [
       "it": "il giapponese",
       "pt": "o japonês",
       "ja": "日本語",
-      "zh": "日语"
+      "zh": "日语",
+      "fr": "japonais"
     },
     "examples": [],
     "meta": {},
@@ -31992,7 +33107,8 @@ const WORDS_RU_B2 = [
       "it": "affascinante",
       "pt": "encantador",
       "ja": "魅力的な",
-      "zh": "迷人的"
+      "zh": "迷人的",
+      "fr": "charmant"
     },
     "examples": [],
     "meta": {},
@@ -32019,7 +33135,8 @@ const WORDS_RU_B2 = [
       "it": "l'antipasto freddo",
       "pt": "o aperitivo frio",
       "ja": "冷たい前菜",
-      "zh": "冷盘"
+      "zh": "冷盘",
+      "fr": "entrée"
     },
     "examples": [],
     "meta": {},
@@ -32049,7 +33166,8 @@ const WORDS_RU_B2 = [
       "it": "il confine",
       "pt": "a fronteira",
       "ja": "国境",
-      "zh": "边界"
+      "zh": "边界",
+      "fr": "frontière"
     },
     "examples": [],
     "meta": {},
@@ -32078,7 +33196,8 @@ const WORDS_RU_B2 = [
       "it": "il musical",
       "pt": "o musical",
       "ja": "ミュージカル",
-      "zh": "音乐剧"
+      "zh": "音乐剧",
+      "fr": "musical"
     },
     "examples": [],
     "meta": {},
@@ -32107,7 +33226,8 @@ const WORDS_RU_B2 = [
       "it": "la decina",
       "pt": "a dezena",
       "ja": "10個",
-      "zh": "十个"
+      "zh": "十个",
+      "fr": "douzaine"
     },
     "examples": [],
     "meta": {},
@@ -32135,7 +33255,8 @@ const WORDS_RU_B2 = [
       "it": "il fan",
       "pt": "o fã",
       "ja": "ファン",
-      "zh": "粉丝"
+      "zh": "粉丝",
+      "fr": "ventilateur"
     },
     "examples": [],
     "meta": {},
@@ -32163,7 +33284,8 @@ const WORDS_RU_B2 = [
       "it": "la colonna",
       "pt": "a coluna",
       "ja": "列",
-      "zh": "列"
+      "zh": "列",
+      "fr": "colonne"
     },
     "examples": [],
     "meta": {},
@@ -32192,7 +33314,8 @@ const WORDS_RU_B2 = [
       "it": "appartenere",
       "pt": "pertencer",
       "ja": "属する",
-      "zh": "属于"
+      "zh": "属于",
+      "fr": "appartenir"
     },
     "examples": [],
     "meta": {},
@@ -32221,7 +33344,8 @@ const WORDS_RU_B2 = [
       "it": "l'ingannatore",
       "pt": "o enganador",
       "ja": "詐欺師",
-      "zh": "骗子"
+      "zh": "骗子",
+      "fr": "imposteur"
     },
     "examples": [],
     "meta": {},
@@ -32250,7 +33374,8 @@ const WORDS_RU_B2 = [
       "it": "la lettura",
       "pt": "a leitura",
       "ja": "読書",
-      "zh": "阅读"
+      "zh": "阅读",
+      "fr": "lecture"
     },
     "examples": [],
     "meta": {},
@@ -32278,7 +33403,8 @@ const WORDS_RU_B2 = [
       "it": "insultare",
       "pt": "insultar",
       "ja": "侮辱する",
-      "zh": "侮辱"
+      "zh": "侮辱",
+      "fr": "insulte"
     },
     "examples": [],
     "meta": {},
@@ -32308,7 +33434,8 @@ const WORDS_RU_B2 = [
       "it": "la Ferrari",
       "pt": "a Ferrari",
       "ja": "フェラーリ",
-      "zh": "法拉利"
+      "zh": "法拉利",
+      "fr": "Ferrari"
     },
     "examples": [],
     "meta": {},
@@ -32336,7 +33463,8 @@ const WORDS_RU_B2 = [
       "it": "la fiaba",
       "pt": "o conto de fadas",
       "ja": "おとぎ話",
-      "zh": "童话"
+      "zh": "童话",
+      "fr": "conte"
     },
     "examples": [],
     "meta": {},
@@ -32365,7 +33493,8 @@ const WORDS_RU_B2 = [
       "it": "il libretto",
       "pt": "o livrinho",
       "ja": "小さな本",
-      "zh": "小书"
+      "zh": "小书",
+      "fr": "livret"
     },
     "examples": [],
     "meta": {},
@@ -32393,7 +33522,8 @@ const WORDS_RU_B2 = [
       "it": "distinguere",
       "pt": "distinguir",
       "ja": "区別する",
-      "zh": "区分"
+      "zh": "区分",
+      "fr": "distinguer"
     },
     "examples": [],
     "meta": {},
@@ -32422,7 +33552,8 @@ const WORDS_RU_B2 = [
       "it": "partecipare",
       "pt": "participar",
       "ja": "参加する",
-      "zh": "参加"
+      "zh": "参加",
+      "fr": "participer"
     },
     "examples": [],
     "meta": {},
@@ -32452,7 +33583,8 @@ const WORDS_RU_B2 = [
       "it": "trasferirsi",
       "pt": "mudar",
       "ja": "引っ越す",
-      "zh": "搬家"
+      "zh": "搬家",
+      "fr": "bouger"
     },
     "examples": [],
     "meta": {},
@@ -32481,7 +33613,8 @@ const WORDS_RU_B2 = [
       "it": "il comandante",
       "pt": "o comandante",
       "ja": "司令官",
-      "zh": "指挥官"
+      "zh": "指挥官",
+      "fr": "commander"
     },
     "examples": [],
     "meta": {},
@@ -32510,7 +33643,8 @@ const WORDS_RU_B2 = [
       "it": "l'umorismo",
       "pt": "o humor",
       "ja": "ユーモア",
-      "zh": "幽默"
+      "zh": "幽默",
+      "fr": "humour"
     },
     "examples": [],
     "meta": {},
@@ -32538,7 +33672,8 @@ const WORDS_RU_B2 = [
       "it": "la villa",
       "pt": "a mansão",
       "ja": "邸宅",
-      "zh": "豪宅"
+      "zh": "豪宅",
+      "fr": "manoir"
     },
     "examples": [],
     "meta": {},
@@ -32567,7 +33702,8 @@ const WORDS_RU_B2 = [
       "it": "trascrivere",
       "pt": "transcrever",
       "ja": "書き出す",
-      "zh": "抄写"
+      "zh": "抄写",
+      "fr": "rédiger"
     },
     "examples": [],
     "meta": {},
@@ -32597,7 +33733,8 @@ const WORDS_RU_B2 = [
       "it": "toccare",
       "pt": "tocar",
       "ja": "触れる",
-      "zh": "触摸"
+      "zh": "触摸",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {},
@@ -32626,7 +33763,8 @@ const WORDS_RU_B2 = [
       "it": "il mutaforma",
       "pt": "o metamorfo",
       "ja": "変身能力者",
-      "zh": "变形者"
+      "zh": "变形者",
+      "fr": "métamorphe"
     },
     "examples": [],
     "meta": {},
@@ -32656,7 +33794,8 @@ const WORDS_RU_B2 = [
       "it": "piacere",
       "pt": "agradar",
       "ja": "喜ばせる",
-      "zh": "取悦"
+      "zh": "取悦",
+      "fr": "plaire"
     },
     "examples": [],
     "meta": {},
@@ -32686,7 +33825,8 @@ const WORDS_RU_B2 = [
       "it": "il mento",
       "pt": "o queixo",
       "ja": "顎",
-      "zh": "下巴"
+      "zh": "下巴",
+      "fr": "menton"
     },
     "examples": [],
     "meta": {},
@@ -32715,7 +33855,8 @@ const WORDS_RU_B2 = [
       "it": "fare un salto",
       "pt": "dar um pulo",
       "ja": "立ち寄る",
-      "zh": "顺便拜访"
+      "zh": "顺便拜访",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {},
@@ -32744,7 +33885,8 @@ const WORDS_RU_B2 = [
       "it": "il medaglione",
       "pt": "o medalhão",
       "ja": "メダリオン",
-      "zh": "奖章"
+      "zh": "奖章",
+      "fr": "médaillon"
     },
     "examples": [],
     "meta": {},
@@ -32772,7 +33914,8 @@ const WORDS_RU_B2 = [
       "it": "essere filmato",
       "pt": "ser filmado",
       "ja": "撮影される",
-      "zh": "被拍摄"
+      "zh": "被拍摄",
+      "fr": "être filmé"
     },
     "examples": [],
     "meta": {},
@@ -32801,7 +33944,8 @@ const WORDS_RU_B2 = [
       "it": "la scatolina",
       "pt": "a caixinha",
       "ja": "小箱",
-      "zh": "小盒子"
+      "zh": "小盒子",
+      "fr": "boîte"
     },
     "examples": [],
     "meta": {},
@@ -32829,7 +33973,8 @@ const WORDS_RU_B2 = [
       "it": "la paga di combattimento",
       "pt": "o salário de combate",
       "ja": "戦闘手当",
-      "zh": "战斗津贴"
+      "zh": "战斗津贴",
+      "fr": "prime"
     },
     "examples": [],
     "meta": {},
@@ -32857,7 +34002,8 @@ const WORDS_RU_B2 = [
       "it": "dissuadere",
       "pt": "dissuadir",
       "ja": "説得してやめさせる",
-      "zh": "劝阻"
+      "zh": "劝阻",
+      "fr": "dissuader"
     },
     "examples": [],
     "meta": {},
@@ -32887,7 +34033,8 @@ const WORDS_RU_B2 = [
       "it": "trovare",
       "pt": "encontrar",
       "ja": "見つける",
-      "zh": "找到"
+      "zh": "找到",
+      "fr": "trouver"
     },
     "examples": [],
     "meta": {},
@@ -32916,7 +34063,8 @@ const WORDS_RU_B2 = [
       "it": "il pannello",
       "pt": "o painel",
       "ja": "パネル",
-      "zh": "面板"
+      "zh": "面板",
+      "fr": "panneau"
     },
     "examples": [],
     "meta": {},
@@ -32945,7 +34093,8 @@ const WORDS_RU_B2 = [
       "it": "separarsi",
       "pt": "separar-se",
       "ja": "別れる",
-      "zh": "分手"
+      "zh": "分手",
+      "fr": "séparer"
     },
     "examples": [],
     "meta": {},
@@ -32974,7 +34123,8 @@ const WORDS_RU_B2 = [
       "it": "il caddie",
       "pt": "o caddie",
       "ja": "キャディ",
-      "zh": "球童"
+      "zh": "球童",
+      "fr": "caddie"
     },
     "examples": [],
     "meta": {},
@@ -33002,7 +34152,8 @@ const WORDS_RU_B2 = [
       "it": "l'infarto",
       "pt": "o infarto",
       "ja": "梗塞",
-      "zh": "梗塞"
+      "zh": "梗塞",
+      "fr": "infarctus"
     },
     "examples": [],
     "meta": {},
@@ -33032,7 +34183,8 @@ const WORDS_RU_B2 = [
       "it": "volere",
       "pt": "querer",
       "ja": "欲する",
-      "zh": "想要"
+      "zh": "想要",
+      "fr": "vouloir"
     },
     "examples": [],
     "meta": {},
@@ -33061,7 +34213,8 @@ const WORDS_RU_B2 = [
       "it": "la sciocchezza",
       "pt": "a bagatela",
       "ja": "些細なこと",
-      "zh": "小事"
+      "zh": "小事",
+      "fr": "bagatelle"
     },
     "examples": [],
     "meta": {},
@@ -33091,7 +34244,8 @@ const WORDS_RU_B2 = [
       "it": "fotografare",
       "pt": "fotografar",
       "ja": "写真を撮る",
-      "zh": "拍照"
+      "zh": "拍照",
+      "fr": "photographier"
     },
     "examples": [],
     "meta": {},
@@ -33122,7 +34276,8 @@ const WORDS_RU_B2 = [
       "it": "esperto",
       "pt": "experiente",
       "ja": "経験豊富な",
-      "zh": "有经验的"
+      "zh": "有经验的",
+      "fr": "expérimenté"
     },
     "examples": [],
     "meta": {},
@@ -33149,7 +34304,8 @@ const WORDS_RU_B2 = [
       "it": "talentuoso",
       "pt": "talentoso",
       "ja": "才能のある",
-      "zh": "有才华的"
+      "zh": "有才华的",
+      "fr": "talentueux"
     },
     "examples": [],
     "meta": {},
@@ -33176,7 +34332,8 @@ const WORDS_RU_B2 = [
       "it": "lo schema",
       "pt": "o esquema",
       "ja": "スキーム",
-      "zh": "方案"
+      "zh": "方案",
+      "fr": "plan"
     },
     "examples": [],
     "meta": {},
@@ -33204,7 +34361,8 @@ const WORDS_RU_B2 = [
       "it": "la logica",
       "pt": "a lógica",
       "ja": "論理",
-      "zh": "逻辑"
+      "zh": "逻辑",
+      "fr": "logique"
     },
     "examples": [],
     "meta": {},
@@ -33233,7 +34391,8 @@ const WORDS_RU_B2 = [
       "it": "i pantaloncini",
       "pt": "os calções",
       "ja": "ショートパンツ",
-      "zh": "短裤"
+      "zh": "短裤",
+      "fr": "short"
     },
     "examples": [],
     "meta": {},
@@ -33262,7 +34421,8 @@ const WORDS_RU_B2 = [
       "it": "abbassare",
       "pt": "baixar",
       "ja": "下げる",
-      "zh": "降低"
+      "zh": "降低",
+      "fr": "baisser"
     },
     "examples": [],
     "meta": {},
@@ -33292,7 +34452,8 @@ const WORDS_RU_B2 = [
       "it": "esprimere",
       "pt": "expressar",
       "ja": "表現する",
-      "zh": "表达"
+      "zh": "表达",
+      "fr": "exprimer"
     },
     "examples": [],
     "meta": {},
@@ -33323,7 +34484,8 @@ const WORDS_RU_B2 = [
       "it": "risparmiare",
       "pt": "economizar",
       "ja": "節約する",
-      "zh": "节省"
+      "zh": "节省",
+      "fr": "sauver"
     },
     "examples": [],
     "meta": {},
@@ -33353,7 +34515,8 @@ const WORDS_RU_B2 = [
       "it": "manuale",
       "pt": "manual",
       "ja": "手動の",
-      "zh": "手动的"
+      "zh": "手动的",
+      "fr": "manuel"
     },
     "examples": [],
     "meta": {},
@@ -33380,7 +34543,8 @@ const WORDS_RU_B2 = [
       "it": "prendere in prestito",
       "pt": "emprestar",
       "ja": "借りる",
-      "zh": "借"
+      "zh": "借",
+      "fr": "emprunter"
     },
     "examples": [],
     "meta": {},
@@ -33410,7 +34574,8 @@ const WORDS_RU_B2 = [
       "it": "la tazza",
       "pt": "a xícara",
       "ja": "カップ",
-      "zh": "杯子"
+      "zh": "杯子",
+      "fr": "tasse"
     },
     "examples": [],
     "meta": {},
@@ -33438,7 +34603,8 @@ const WORDS_RU_B2 = [
       "it": "caritatevole",
       "pt": "caridoso",
       "ja": "慈善の",
-      "zh": "慈善的"
+      "zh": "慈善的",
+      "fr": "charitable"
     },
     "examples": [],
     "meta": {},
@@ -33465,7 +34631,8 @@ const WORDS_RU_B2 = [
       "it": "eccellente",
       "pt": "excelente",
       "ja": "素晴らしい",
-      "zh": "优秀的"
+      "zh": "优秀的",
+      "fr": "excellent"
     },
     "examples": [],
     "meta": {},
@@ -33491,7 +34658,8 @@ const WORDS_RU_B2 = [
       "it": "il sondaggio",
       "pt": "a pesquisa",
       "ja": "調査",
-      "zh": "调查"
+      "zh": "调查",
+      "fr": "enquête"
     },
     "examples": [],
     "meta": {},
@@ -33520,7 +34688,8 @@ const WORDS_RU_B2 = [
       "it": "lo scoiattolo",
       "pt": "o esquilo",
       "ja": "リス",
-      "zh": "松鼠"
+      "zh": "松鼠",
+      "fr": "écureuil"
     },
     "examples": [],
     "meta": {},
@@ -33548,7 +34717,8 @@ const WORDS_RU_B2 = [
       "it": "lo stipite",
       "pt": "o batente",
       "ja": "枠",
-      "zh": "门框"
+      "zh": "门框",
+      "fr": "jambe"
     },
     "examples": [],
     "meta": {},
@@ -33576,7 +34746,8 @@ const WORDS_RU_B2 = [
       "it": "il preservativo",
       "pt": "o preservativo",
       "ja": "コンドーム",
-      "zh": "避孕套"
+      "zh": "避孕套",
+      "fr": "préservatif"
     },
     "examples": [],
     "meta": {},
@@ -33604,7 +34775,8 @@ const WORDS_RU_B2 = [
       "it": "l'interruzione",
       "pt": "a interrupção",
       "ja": "中断",
-      "zh": "中断"
+      "zh": "中断",
+      "fr": "perturbation"
     },
     "examples": [],
     "meta": {},
@@ -33633,7 +34805,8 @@ const WORDS_RU_B2 = [
       "it": "aggiuntivo",
       "pt": "adicional",
       "ja": "追加の",
-      "zh": "额外的"
+      "zh": "额外的",
+      "fr": "supplémentaire"
     },
     "examples": [],
     "meta": {},
@@ -33660,7 +34833,8 @@ const WORDS_RU_B2 = [
       "it": "rifare",
       "pt": "refazer",
       "ja": "やり直す",
-      "zh": "重做"
+      "zh": "重做",
+      "fr": "refaire"
     },
     "examples": [],
     "meta": {},
@@ -33689,7 +34863,8 @@ const WORDS_RU_B2 = [
       "it": "avvelenare",
       "pt": "envenenar",
       "ja": "毒殺する",
-      "zh": "毒害"
+      "zh": "毒害",
+      "fr": "poison"
     },
     "examples": [],
     "meta": {},
@@ -33719,7 +34894,8 @@ const WORDS_RU_B2 = [
       "it": "notare",
       "pt": "notar",
       "ja": "気づく",
-      "zh": "注意到"
+      "zh": "注意到",
+      "fr": "avis"
     },
     "examples": [],
     "meta": {},
@@ -33750,7 +34926,8 @@ const WORDS_RU_B2 = [
       "it": "il vagone",
       "pt": "o vagão",
       "ja": "車両",
-      "zh": "车厢"
+      "zh": "车厢",
+      "fr": "voiture"
     },
     "examples": [],
     "meta": {},
@@ -33779,7 +34956,8 @@ const WORDS_RU_B2 = [
       "it": "la congettura",
       "pt": "a suposição",
       "ja": "推測",
-      "zh": "猜测"
+      "zh": "猜测",
+      "fr": "deviner"
     },
     "examples": [],
     "meta": {},
@@ -33807,7 +34985,8 @@ const WORDS_RU_B2 = [
       "it": "il mascalzone",
       "pt": "o canalha",
       "ja": "悪党",
-      "zh": "恶棍"
+      "zh": "恶棍",
+      "fr": "canaille"
     },
     "examples": [],
     "meta": {},
@@ -33835,7 +35014,8 @@ const WORDS_RU_B2 = [
       "it": "la base",
       "pt": "a base",
       "ja": "基礎",
-      "zh": "基础"
+      "zh": "基础",
+      "fr": "base"
     },
     "examples": [],
     "meta": {},
@@ -33863,7 +35043,8 @@ const WORDS_RU_B2 = [
       "it": "la mosca",
       "pt": "a mosca",
       "ja": "ハエ",
-      "zh": "苍蝇"
+      "zh": "苍蝇",
+      "fr": "mouche"
     },
     "examples": [],
     "meta": {},
@@ -33891,7 +35072,8 @@ const WORDS_RU_B2 = [
       "it": "la fase",
       "pt": "a fase",
       "ja": "段階",
-      "zh": "阶段"
+      "zh": "阶段",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -33920,7 +35102,8 @@ const WORDS_RU_B2 = [
       "it": "coltivare",
       "pt": "cultivar",
       "ja": "育てる",
-      "zh": "培养"
+      "zh": "培养",
+      "fr": "grandir"
     },
     "examples": [],
     "meta": {},
@@ -33949,7 +35132,8 @@ const WORDS_RU_B2 = [
       "it": "simile",
       "pt": "semelhante",
       "ja": "類似の",
-      "zh": "类似的"
+      "zh": "类似的",
+      "fr": "similaire"
     },
     "examples": [],
     "meta": {},
@@ -33976,7 +35160,8 @@ const WORDS_RU_B2 = [
       "it": "il politico",
       "pt": "o político",
       "ja": "政治家",
-      "zh": "政治家"
+      "zh": "政治家",
+      "fr": "politicien"
     },
     "examples": [],
     "meta": {},
@@ -34004,7 +35189,8 @@ const WORDS_RU_B2 = [
       "it": "l'intelletto",
       "pt": "o intelecto",
       "ja": "知性",
-      "zh": "智力"
+      "zh": "智力",
+      "fr": "intellect"
     },
     "examples": [],
     "meta": {},
@@ -34032,7 +35218,8 @@ const WORDS_RU_B2 = [
       "it": "il giro",
       "pt": "o giro",
       "ja": "回転",
-      "zh": "旋转"
+      "zh": "旋转",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -34060,7 +35247,8 @@ const WORDS_RU_B2 = [
       "it": "la sciocca",
       "pt": "a tola",
       "ja": "おばかさん",
-      "zh": "傻女孩"
+      "zh": "傻女孩",
+      "fr": "sotte"
     },
     "examples": [],
     "meta": {},
@@ -34088,7 +35276,8 @@ const WORDS_RU_B2 = [
       "it": "il nodo",
       "pt": "o nó",
       "ja": "結び目",
-      "zh": "结"
+      "zh": "结",
+      "fr": "nœud"
     },
     "examples": [],
     "meta": {},
@@ -34116,7 +35305,8 @@ const WORDS_RU_B2 = [
       "it": "sdraiarsi",
       "pt": "deitar-se",
       "ja": "横になる",
-      "zh": "躺下"
+      "zh": "躺下",
+      "fr": "s'allonger"
     },
     "examples": [],
     "meta": {},
@@ -34145,7 +35335,8 @@ const WORDS_RU_B2 = [
       "it": "tacere",
       "pt": "calar",
       "ja": "黙る",
-      "zh": "沉默"
+      "zh": "沉默",
+      "fr": "se taire"
     },
     "examples": [],
     "meta": {},
@@ -34174,7 +35365,8 @@ const WORDS_RU_B2 = [
       "it": "ghiacciato",
       "pt": "gelado",
       "ja": "氷の",
-      "zh": "冰冷的"
+      "zh": "冰冷的",
+      "fr": "glacial"
     },
     "examples": [],
     "meta": {},
@@ -34200,7 +35392,8 @@ const WORDS_RU_B2 = [
       "it": "pubblico",
       "pt": "público",
       "ja": "公共の",
-      "zh": "公共的"
+      "zh": "公共的",
+      "fr": "public"
     },
     "examples": [],
     "meta": {},
@@ -34227,7 +35420,8 @@ const WORDS_RU_B2 = [
       "it": "la nuvola",
       "pt": "a nuvem",
       "ja": "雲",
-      "zh": "云"
+      "zh": "云",
+      "fr": "nuage"
     },
     "examples": [],
     "meta": {},
@@ -34255,7 +35449,8 @@ const WORDS_RU_B2 = [
       "it": "il cantante",
       "pt": "o cantor",
       "ja": "歌手",
-      "zh": "歌手"
+      "zh": "歌手",
+      "fr": "chanteur"
     },
     "examples": [],
     "meta": {},
@@ -34283,7 +35478,8 @@ const WORDS_RU_B2 = [
       "it": "la fama",
       "pt": "a fama",
       "ja": "名声",
-      "zh": "名声"
+      "zh": "名声",
+      "fr": "célébrité"
     },
     "examples": [],
     "meta": {},
@@ -34311,7 +35507,8 @@ const WORDS_RU_B2 = [
       "it": "confrontare",
       "pt": "comparar",
       "ja": "比較する",
-      "zh": "比较"
+      "zh": "比较",
+      "fr": "comparer"
     },
     "examples": [],
     "meta": {},
@@ -34341,7 +35538,8 @@ const WORDS_RU_B2 = [
       "it": "lo specialista",
       "pt": "o especialista",
       "ja": "専門家",
-      "zh": "专家"
+      "zh": "专家",
+      "fr": "spécialiste"
     },
     "examples": [],
     "meta": {},
@@ -34369,7 +35567,8 @@ const WORDS_RU_B2 = [
       "it": "il capitale",
       "pt": "o capital",
       "ja": "資本",
-      "zh": "资本"
+      "zh": "资本",
+      "fr": "capital"
     },
     "examples": [],
     "meta": {},
@@ -34397,7 +35596,8 @@ const WORDS_RU_B2 = [
       "it": "dimostrare",
       "pt": "demonstrar",
       "ja": "実演する",
-      "zh": "演示"
+      "zh": "演示",
+      "fr": "démontrer"
     },
     "examples": [],
     "meta": {},
@@ -34427,7 +35627,8 @@ const WORDS_RU_B2 = [
       "it": "il taccuino",
       "pt": "o caderno",
       "ja": "ノート",
-      "zh": "笔记本"
+      "zh": "笔记本",
+      "fr": "cahier"
     },
     "examples": [],
     "meta": {},
@@ -34455,7 +35656,8 @@ const WORDS_RU_B2 = [
       "it": "Sua Santità",
       "pt": "Sua Santidade",
       "ja": "聖下",
-      "zh": "圣下"
+      "zh": "圣下",
+      "fr": "Sainteté"
     },
     "examples": [],
     "meta": {},
@@ -34483,7 +35685,8 @@ const WORDS_RU_B2 = [
       "it": "il lavoro preliminare",
       "pt": "o trabalho preliminar",
       "ja": "下準備",
-      "zh": "准备工作"
+      "zh": "准备工作",
+      "fr": "base"
     },
     "examples": [],
     "meta": {},
@@ -34511,7 +35714,8 @@ const WORDS_RU_B2 = [
       "it": "l'urina",
       "pt": "a urina",
       "ja": "尿",
-      "zh": "尿"
+      "zh": "尿",
+      "fr": "urine"
     },
     "examples": [],
     "meta": {},
@@ -34539,7 +35743,8 @@ const WORDS_RU_B2 = [
       "it": "il vuoto",
       "pt": "o vazio",
       "ja": "空虚",
-      "zh": "空虚"
+      "zh": "空虚",
+      "fr": "vide"
     },
     "examples": [],
     "meta": {},
@@ -34568,7 +35773,8 @@ const WORDS_RU_B2 = [
       "it": "il sudore",
       "pt": "o suor",
       "ja": "汗",
-      "zh": "汗"
+      "zh": "汗",
+      "fr": "sueur"
     },
     "examples": [],
     "meta": {},
@@ -34596,7 +35802,8 @@ const WORDS_RU_B2 = [
       "it": "la fanciulla",
       "pt": "a donzela",
       "ja": "乙女",
-      "zh": "少女"
+      "zh": "少女",
+      "fr": "demoiselle"
     },
     "examples": [],
     "meta": {},
@@ -34624,7 +35831,8 @@ const WORDS_RU_B2 = [
       "it": "reagire",
       "pt": "reagir",
       "ja": "反応する",
-      "zh": "反应"
+      "zh": "反应",
+      "fr": "réagir"
     },
     "examples": [],
     "meta": {},
@@ -34653,7 +35861,8 @@ const WORDS_RU_B2 = [
       "it": "marcire",
       "pt": "apodrecer",
       "ja": "腐る",
-      "zh": "腐烂"
+      "zh": "腐烂",
+      "fr": "pourrir"
     },
     "examples": [],
     "meta": {},
@@ -34682,7 +35891,8 @@ const WORDS_RU_B2 = [
       "it": "la donna incinta",
       "pt": "a grávida",
       "ja": "妊婦",
-      "zh": "孕妇"
+      "zh": "孕妇",
+      "fr": "gestante"
     },
     "examples": [],
     "meta": {},
@@ -34710,7 +35920,8 @@ const WORDS_RU_B2 = [
       "it": "la profezia",
       "pt": "a profecia",
       "ja": "予言",
-      "zh": "预言"
+      "zh": "预言",
+      "fr": "prophétie"
     },
     "examples": [],
     "meta": {},
@@ -34738,7 +35949,8 @@ const WORDS_RU_B2 = [
       "it": "le rosacee",
       "pt": "as rosáceas",
       "ja": "バラ科",
-      "zh": "蔷薇科"
+      "zh": "蔷薇科",
+      "fr": "rosacées"
     },
     "examples": [],
     "meta": {},
@@ -34767,7 +35979,8 @@ const WORDS_RU_B2 = [
       "it": "superiore",
       "pt": "superior",
       "ja": "上の",
-      "zh": "上面的"
+      "zh": "上面的",
+      "fr": "supérieur"
     },
     "examples": [],
     "meta": {},
@@ -34793,7 +36006,8 @@ const WORDS_RU_B2 = [
       "it": "la vittoria",
       "pt": "a vitória",
       "ja": "勝利",
-      "zh": "胜利"
+      "zh": "胜利",
+      "fr": "gagner"
     },
     "examples": [],
     "meta": {},

@@ -1,11 +1,23 @@
 
 ⸻
 
-KarlLang Schema v1.0 (FINAL)
+KarlLang Schema v1.1 (FINAL)
 
-최종 확정: 2025-01-XX
+최초 확정: 2025-01-XX
+v1.1 보정: 2026-05-08
 작성: Karl + GPT + Claude
-상태: LOCKED (v1)
+상태: LOCKED (v1.1) — 다국어 엔진 기준으로 최종 보정
+
+변경 요약 (v1 → v1.1):
+  1. pos: UI 번역 규칙 명시 (내부값은 독일어식 enum 고정)
+  2. meanings: 빈 문자열 금지 + release/dev 기준 분리
+  3. reading: 정식 선택 필드로 추가
+  4. article/plural/examples: 빈 값 금지 강화
+  5. 기존 출시 ID: legacy 보호 명시 강화
+  6. examples: 필수 → 선택으로 변경
+  7. gender: common 정의 추가
+  8. 신규 ID poscode 매핑 테이블 추가
+  9. normalizeMeaningForSearch: apostrophe 정규화 선행 명시
 
 ⸻
 
@@ -29,20 +41,29 @@ KarlLang은 “카드 보기/게임형”이 아닌
 
 {
   id: "bank_nf_1",
+  lang: "de",
   lemma: "Bank",
   pos: "Nomen",
-  gender: "die",
+  article: "die",
+  gender: "feminine",
   plural: "Banken",
   cefr: "A1",
   tags: ["exam", "finance"],
   conj: { /* Verb일 때만 */ },
+  reading: { /* ja/zh/ko/ru 등 표기 보조 필요 언어만, 없으면 필드 생략 */ },
   meanings: {
-    de: "Bank",
+    de: "die Bank",
     ko: "은행",
-    en: "bank"
+    en: "bank",
+    es: "el banco",
+    fr: "la banque",
+    it: "la banca",
+    pt: "o banco",
+    ja: "銀行",
+    zh: "银行",
+    ru: "банк"
   },
-  examples: ["Ich gehe zur Bank."],
-  meta: { }
+  examples: ["Ich gehe zur Bank."]
 }
 
 
@@ -50,27 +71,50 @@ KarlLang은 “카드 보기/게임형”이 아닌
 
 2.1 필수 필드
 	•	id : 문자열, 기술용 고유 식별자
+	•	lang : 해당 Word 객체의 학습언어(studyLang) 코드
+	•	"de" | "ja" | "ko" | "zh" | "es" | "fr" | "it" | "pt" | "ru" 등
+	•	meanings의 key(UI 표시 언어)와는 별개 개념이다
+	•	v1.1 출시 기준 학습언어는 de이며, 다른 언어는 데이터 추가 시점에 확장한다
 	•	lemma : 표제어 (원어 표기 유지, 대소문자/움라우트 허용)
 	•	pos : 품사 (3번 enum 중 하나)
 	•	cefr : "A1" | "A2" | "B1" | "B2" | "C1" | "C2"
 	•	tags : 문자열 배열
-	•	meanings : 언어 코드 → 한 줄 뜻
-	•	examples : 예문 배열 (보통 1개)
+	•	meanings : 언어 코드 → 한 줄 뜻 (5번 규칙 참조)
 
 ⸻
 
 2.2 선택 필드
-	•	gender : 명사일 때만 "der" | "die" | "das"
+	•	article : 학습언어 명사의 정답 표시/입력에 사용되는 기본 관사
+	•	de: “der” | “die” | “das”
+	•	es: “el” | “la” | “los” | “las”
+	•	fr: “le” | “la” | “l'” | “les”
+	•	it: “il” | “lo” | “la” | “l'” | “i” | “gli” | “le”
+	•	pt: “o” | “a” | “os” | “as”
+	•	gender : 명사일 때 문법 성
+	•	“masculine” | “feminine” | “neuter” | “common”
+	•	common은 masculine/feminine이 문법적으로 통합된 언어(네덜란드어, 스웨덴어 등)에서만 사용
+	•	성 구분이 불필요하거나 불명확하면 생략
 	•	plural : 명사 복수형 (없으면 필드 생략)
 	•	conj : 동사 활용 (Verb일 때만)
+	•	reading : 표기 보조 발음 (2.4 참조)
+	•	examples : 예문 배열 (있으면 배열, 없으면 필드 생략)
 	•	meta : 통계 / 출처 / SRS 메타데이터
 	•	(예약) sense, override, orthography, notes (9번 참조)
 
-선택 필드는 “빈 문자열” 사용 금지 → 없으면 생략
+선택 필드 공통 규칙 — 빈 값 전면 금지:
+	•	빈 문자열 “” 금지
+	•	빈 배열 [] 금지
+	•	빈 객체 {} 금지
+	•	없으면 필드 자체를 생략한다
+
+	•	pos가 Nomen이고 학습언어가 관사/성별 체계를 가지면 article은 필수에 가깝게 채운다.
+	•	gender는 확인 가능한 경우 채우며, 불확실하면 생략한다.
+	•	article을 추측으로 만들지 않는다.
 
 ⸻
 
 2.3 conj 구조 (Verb 전용)
+
 
 conj: {
   pres_ich: "ich gehe",
@@ -82,6 +126,27 @@ conj: {
 }
 
 	•	Verb가 아니면 conj 필드는 존재하지 않는다.
+
+⸻
+
+2.4 reading 구조 (선택 필드)
+
+학습 UI에 직접 사용되는 1급 발음/표기 보조 필드.
+meta가 아니라 최상위 선택 필드로 관리한다.
+
+// 일본어 단어 예시
+reading: { ja: "あさって" }
+
+// 중국어 단어 예시
+reading: { zh: "nǐ hǎo" }
+
+규칙:
+	•	reading의 key는 word.lang과 동일해야 한다
+	•	한 Word 객체에는 원칙적으로 reading key가 하나만 존재한다
+	•	학습언어가 ja/zh/ko/ru 등 표기 보조가 필요한 경우에만 사용
+	•	빈 문자열 금지, 없으면 필드 전체 생략
+	•	정답 판정에는 사용하지 않음 (표시 전용)
+	•	표시 시점: 정답 후 / 상세 화면 기본, 문제 화면은 숨김
 
 ⸻
 
@@ -98,6 +163,18 @@ conj: {
 	•	Artikel
 	•	Numerale
 	•	Interjektion
+
+pos는 엔진 분류값이지 표시값이 아니다.
+일본어/한국어/중국어 데이터도 내부값은 위 enum을 그대로 쓴다.
+UI에서만 언어별로 번역한다:
+
+pos 값         ko UI    ja UI   en UI
+Nomen       → 명사    → 名詞  → noun
+Verb         → 동사    → 動詞  → verb
+Adjektiv     → 형용사  → 形容詞 → adjective
+(… 나머지 동일 원칙)
+
+pos에 언어별 표기를 허용하면 필터/통계/정답 힌트/QC가 모두 깨진다.
 
 확장 시 이 목록만 수정, 데이터 생성 프롬프트도 함께 수정한다.
 
@@ -129,13 +206,13 @@ conj: {
 5. meanings 규칙 (LOCK)
 
 meanings: {
-  de: "Bank",
+  de: "die Bank",
   ko: "은행",
   en: "bank",
-  es: "banco",
-  fr: "banque",
-  it: "banca",
-  pt: "banco",
+  es: "el banco",
+  fr: "la banque",
+  it: "la banca",
+  pt: "o banco",
   ja: "銀行",
   zh: "银行",
   ru: "банк"
@@ -143,11 +220,19 @@ meanings: {
 
 규칙:
 	•	key = UI 언어 코드
-	•	value = 뜻 한 줄
-	•	❌ 설명문 / 괄호 / 문법 노트 / 예문 금지
+	•	value = UI에 표시되는 뜻 한 줄
+	•	❌ 빈 문자열 "" 절대 금지 (dev/release 공통) — 모르면 key 자체를 생략한다
+	•	❌ 설명문 / 괄호 태그((m), (f), (v), 품사표기) / 문법 노트 / 예문 금지
 	•	설명이 필요하면 sense.label 사용
-	•	영어 동사 뜻은 절대 to 붙이지 않음
-	•	go, be, have, eat
+	•	영어 동사 뜻은 절대 to 붙이지 않음 (go, be, have, eat)
+	•	관사 언어(de/es/fr/it/pt)는 자연스러운 UI 표시를 위해 관사 포함 허용
+	•	예: de "die Prüfung", es "el examen", fr "l'examen", it "la dichiarazione", pt "a declaração"
+	•	단, 정답 판정/검색/중복검사/QC 비교는 관사 제거 정규화 문자열을 사용
+
+10개 키 정책:
+	•	출시(release) 데이터: 10개 키 de, ko, en, es, fr, it, pt, ja, zh, ru 전부 필수
+	•	개발/임시/staged 데이터: 일부 key 누락 허용, 단 빈 문자열은 절대 금지
+	•	결론: de: "" 는 금지, de key 자체 생략은 개발 단계에서 허용
 
 ⸻
 
@@ -188,10 +273,30 @@ Artikel	{lemma}_art	der_art
 Numerale	{lemma}_num	eins_num
 Interjektion	{lemma}_int	hallo_int
 
-성코드:
-	•	nm = der
-	•	nf = die
-	•	nn = das
+레거시 주의:
+	•	위 성코드 기반 명사 ID는 de 초기 데이터의 legacy 규칙이다.
+	•	기존 출시 데이터의 id는 절대 변경하지 않는다 (SRS/진도/localStorage 연결 보호).
+	•	ja_1, ko_3447, zh_1 형태의 기존 숫자 ID도 legacy로 보호한다.
+
+신규 다국어 데이터 ID 패턴:
+	•	형식: {lang}_{lemma_translit}_{poscode}_{number}
+	•	예: es_examen_n_1 / ja_asa_n_1 / ko_hangugeo_n_1
+	•	lang 접두사로 언어 충돌을 원천 차단한다.
+
+poscode 정의 (고정):
+pos 값          poscode
+Nomen        → n
+Verb          → v
+Adjektiv      → adj
+Adverb        → adv
+Präposition   → prep
+Konjunktion   → konj
+Pronomen      → pron
+Artikel        → art
+Numerale      → num
+Interjektion  → int
+
+이 매핑 외 다른 약어 사용 금지. 생성기/프롬프트 전부 이 표 기준으로 통일한다.
 
 ⸻
 
@@ -238,18 +343,29 @@ const LANG_CONFIG = {
 8. 정답 판정 정규화 파이프라인 (checkAnswer)
 
 expected 값 규칙
-	•	typing_de 모드 기준:
-	•	명사 + article_required=true → "${gender} ${lemma}"
+	•	typing_{studyLang} 모드 기준:
+	•	명사 + article_required=true:
+	•	article 존재 → "${article} ${lemma}"
+	•	article 없음 → "${lemma}"
 	•	그 외 → "${lemma}"
 
 ⸻
 
-파이프라인 구조
+파이프라인 구조 (checkAnswer / normalizeMeaningForSearch 공통)
 	1.	Trim / 공백 정리
 	2.	대소문자 처리
-	3.	문자 치환 (umlaut/악센트)
-	4.	관사 처리
-	5.	최종 문자열 비교 (===)
+	3.	punctuation 정규화 (LANG_CONFIG.punctuation_normalize 기준)
+	•	apostrophe variants: `'`(U+2019), `‛`(U+201B) → `'`(U+0027)
+	•	hyphen variants: `‐`(U+2010) → `-`
+	•	dot variants: `·` → `.`
+	4.	문자 치환 (umlaut / accents)
+	5.	관사 처리
+	•	de: der/die/das 제거
+	•	es: el/la/los/las 제거
+	•	fr: le/la/les/l' 제거
+	•	it: il/lo/la/l'/i/gli/le 제거
+	•	pt: o/a/os/as 제거
+	6.	최종 문자열 비교 (===)
 
 checkAnswer(user, expected, lang, word)
 
@@ -296,6 +412,22 @@ orthography: {
 
 ⸻
 
+9.4 conj 확장 노트
+
+현재 conj는 독일어 중심 구조다.
+다국어 동사 활용 확장 시 언어별 구조로 재설계할 수 있다.
+v1.1 데이터에서는 conj 외부에 임시 동사 필드를 만들지 않는다.
+
+⸻
+
+9.5 examples 확장 노트
+
+v1.1 examples는 학습언어 원문 예문만 저장한다.
+예문 번역 및 문장 SRS는 v2 Sentence Schema에서 다룬다.
+exampleTranslations / translatedExamples 같은 임시 필드 난립 금지.
+
+⸻
+
 10. 파일 구조 예시
 
 data/
@@ -313,9 +445,23 @@ script.js
 	•	✅ 계획과 충돌 없음
 	•	✅ 다국어 확장 안전
 	•	✅ 듀오링고급 상정에도 구조 유지
-	•	✅ 지금이 v1 잠금 타이밍
+	•	✅ v1.1: 독일어 기준 → 다국어 엔진 기준으로 최종 보정 완료
+
+v1.1 보정 체크리스트:
+	•	✅ lang: 필수 필드로 추가 (§2.1)
+	•	✅ pos: 내부 표준 enum 고정, UI만 번역
+	•	✅ meanings: release 10개 필수, dev 누락 허용, 빈 문자열 절대 금지
+	•	✅ reading: 정식 선택 필드 추가, key = word.lang 규칙 명시 (§2.4)
+	•	✅ article/plural/examples: 빈 값 금지, 없으면 필드 생략
+	•	✅ 기존 출시 ID: legacy 보호 명시
+	•	✅ examples: 필수 → 선택으로 변경
+	•	✅ gender common: 정의 범위 명시
+	•	✅ poscode 매핑 테이블 추가 (§6.3)
+	•	✅ checkAnswer 파이프라인 재정렬: punctuation 정규화 3번 단계로 통합 (§8)
+	•	✅ 9.4 conj 확장 노트 추가
+	•	✅ 9.5 examples 확장 노트 추가
 
 이 문서는 이제
-**“고치지 말고, 이 위에 쌓는 기준”**이다.
+**”고치지 말고, 이 위에 쌓는 기준”**이다.
 
 ⸻

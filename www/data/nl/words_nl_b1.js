@@ -1,4 +1,3 @@
-// NL B1 generated from release candidate
 const WORDS_NL_B1 = [
   {
     "id": "nl_2669",
@@ -20,7 +19,8 @@ const WORDS_NL_B1 = [
       "pt": "familiar",
       "ja": "慣れた",
       "zh": "熟悉的",
-      "ru": "знакомый"
+      "ru": "знакомый",
+      "fr": "familier"
     },
     "examples": [],
     "meta": {}
@@ -45,7 +45,8 @@ const WORDS_NL_B1 = [
       "pt": "a dieta",
       "ja": "食事",
       "zh": "饮食",
-      "ru": "диета"
+      "ru": "диета",
+      "fr": "régime"
     },
     "examples": [],
     "meta": {},
@@ -72,7 +73,8 @@ const WORDS_NL_B1 = [
       "pt": "o relâmpago",
       "ja": "雷",
       "zh": "闪电",
-      "ru": "молния"
+      "ru": "молния",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {},
@@ -98,7 +100,8 @@ const WORDS_NL_B1 = [
       "pt": "o revólver",
       "ja": "リボルバー",
       "zh": "左轮手枪",
-      "ru": "револьвер"
+      "ru": "револьвер",
+      "fr": "revolver"
     },
     "examples": [],
     "meta": {},
@@ -125,7 +128,8 @@ const WORDS_NL_B1 = [
       "pt": "apagar",
       "ja": "消す",
       "zh": "擦除",
-      "ru": "стирать"
+      "ru": "стирать",
+      "fr": "effacer"
     },
     "examples": [],
     "meta": {},
@@ -153,7 +157,8 @@ const WORDS_NL_B1 = [
       "pt": "o supermercado",
       "ja": "スーパーマーケット",
       "zh": "超市",
-      "ru": "супермаркет"
+      "ru": "супермаркет",
+      "fr": "supermarché"
     },
     "examples": [],
     "meta": {},
@@ -180,7 +185,8 @@ const WORDS_NL_B1 = [
       "pt": "o arado",
       "ja": "鋤",
       "zh": "犁",
-      "ru": "плуг"
+      "ru": "плуг",
+      "fr": "charrue"
     },
     "examples": [],
     "meta": {},
@@ -206,7 +212,8 @@ const WORDS_NL_B1 = [
       "pt": "cortar o cabelo",
       "ja": "髪を切る",
       "zh": "理发",
-      "ru": "стричь"
+      "ru": "стричь",
+      "fr": "coupe"
     },
     "examples": [],
     "meta": {},
@@ -233,7 +240,8 @@ const WORDS_NL_B1 = [
       "pt": "de tecido",
       "ja": "布製の",
       "zh": "布制的",
-      "ru": "суконный"
+      "ru": "суконный",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {}
@@ -258,7 +266,8 @@ const WORDS_NL_B1 = [
       "pt": "o solteiro",
       "ja": "独身者",
       "zh": "单身者",
-      "ru": "холостяк"
+      "ru": "холостяк",
+      "fr": "célibataire"
     },
     "examples": [],
     "meta": {},
@@ -285,7 +294,8 @@ const WORDS_NL_B1 = [
       "pt": "solteiro",
       "ja": "独身の",
       "zh": "单身的",
-      "ru": "холостой"
+      "ru": "холостой",
+      "fr": "seul"
     },
     "examples": [],
     "meta": {}
@@ -310,7 +320,8 @@ const WORDS_NL_B1 = [
       "pt": "embarcar",
       "ja": "乗車する",
       "zh": "上车",
-      "ru": "садиться"
+      "ru": "садиться",
+      "fr": "planche"
     },
     "examples": [],
     "meta": {},
@@ -337,7 +348,8 @@ const WORDS_NL_B1 = [
       "pt": "o fox terrier",
       "ja": "フォックステリア",
       "zh": "狐狸犬",
-      "ru": "фокстерьер"
+      "ru": "фокстерьер",
+      "fr": "fox-terrier"
     },
     "examples": [],
     "meta": {},
@@ -364,7 +376,8 @@ const WORDS_NL_B1 = [
       "pt": "o jogo",
       "ja": "試合",
       "zh": "比赛",
-      "ru": "матч"
+      "ru": "матч",
+      "fr": "allumette"
     },
     "examples": [],
     "meta": {},
@@ -391,7 +404,8 @@ const WORDS_NL_B1 = [
       "pt": "a prata",
       "ja": "銀",
       "zh": "银",
-      "ru": "серебро"
+      "ru": "серебро",
+      "fr": "argent"
     },
     "examples": [],
     "meta": {},
@@ -418,7 +432,8 @@ const WORDS_NL_B1 = [
       "pt": "prateado",
       "ja": "銀色の",
       "zh": "银色的",
-      "ru": "серебряный"
+      "ru": "серебряный",
+      "fr": "argenté"
     },
     "examples": [],
     "meta": {}
@@ -442,7 +457,8 @@ const WORDS_NL_B1 = [
       "pt": "a medalha",
       "ja": "メダル",
       "zh": "奖牌",
-      "ru": "медаль"
+      "ru": "медаль",
+      "fr": "médaille"
     },
     "examples": [],
     "meta": {},
@@ -469,7 +485,8 @@ const WORDS_NL_B1 = [
       "pt": "o papai",
       "ja": "パパ",
       "zh": "爸爸",
-      "ru": "папа"
+      "ru": "папа",
+      "fr": "papa"
     },
     "examples": [],
     "meta": {},
@@ -496,7 +513,8 @@ const WORDS_NL_B1 = [
       "pt": "a pena de morte",
       "ja": "死刑",
       "zh": "死刑",
-      "ru": "смертная казнь"
+      "ru": "смертная казнь",
+      "fr": "peine de mort"
     },
     "examples": [],
     "meta": {},
@@ -523,7 +541,8 @@ const WORDS_NL_B1 = [
       "pt": "o barulho",
       "ja": "騒音",
       "zh": "噪音",
-      "ru": "шум"
+      "ru": "шум",
+      "fr": "bruit"
     },
     "examples": [],
     "meta": {},
@@ -550,7 +569,8 @@ const WORDS_NL_B1 = [
       "pt": "o princípio",
       "ja": "原則",
       "zh": "原则",
-      "ru": "принцип"
+      "ru": "принцип",
+      "fr": "principe"
     },
     "examples": [],
     "meta": {},
@@ -577,7 +597,8 @@ const WORDS_NL_B1 = [
       "pt": "o CD",
       "ja": "CD",
       "zh": "CD",
-      "ru": "компакт-диск"
+      "ru": "компакт-диск",
+      "fr": "CD"
     },
     "examples": [],
     "meta": {},
@@ -604,7 +625,8 @@ const WORDS_NL_B1 = [
       "pt": "o microfone",
       "ja": "マイク",
       "zh": "麦克风",
-      "ru": "микрофон"
+      "ru": "микрофон",
+      "fr": "microphone"
     },
     "examples": [],
     "meta": {},
@@ -631,7 +653,8 @@ const WORDS_NL_B1 = [
       "pt": "urinar",
       "ja": "排尿する",
       "zh": "排尿",
-      "ru": "мочиться"
+      "ru": "мочиться",
+      "fr": "uriner"
     },
     "examples": [],
     "meta": {},
@@ -659,7 +682,8 @@ const WORDS_NL_B1 = [
       "pt": "fresco",
       "ja": "新鮮な",
       "zh": "新鲜的",
-      "ru": "свежий"
+      "ru": "свежий",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {}
@@ -683,7 +707,8 @@ const WORDS_NL_B1 = [
       "pt": "o esperma",
       "ja": "精子",
       "zh": "精子",
-      "ru": "сперма"
+      "ru": "сперма",
+      "fr": "sperme"
     },
     "examples": [],
     "meta": {},
@@ -710,7 +735,8 @@ const WORDS_NL_B1 = [
       "pt": "a série",
       "ja": "シリーズ",
       "zh": "系列",
-      "ru": "серия"
+      "ru": "серия",
+      "fr": "série"
     },
     "examples": [],
     "meta": {},
@@ -737,7 +763,8 @@ const WORDS_NL_B1 = [
       "pt": "desonesto",
       "ja": "不誠実な",
       "zh": "不诚实的",
-      "ru": "нечестный"
+      "ru": "нечестный",
+      "fr": "malhonnête"
     },
     "examples": [],
     "meta": {}
@@ -762,7 +789,8 @@ const WORDS_NL_B1 = [
       "pt": "bater",
       "ja": "打つ",
       "zh": "打",
-      "ru": "бить"
+      "ru": "бить",
+      "fr": "coup"
     },
     "examples": [],
     "meta": {},
@@ -790,7 +818,8 @@ const WORDS_NL_B1 = [
       "pt": "o flash",
       "ja": "フラッシュ",
       "zh": "闪光",
-      "ru": "вспышка"
+      "ru": "вспышка",
+      "fr": "flash"
     },
     "examples": [],
     "meta": {},
@@ -817,7 +846,8 @@ const WORDS_NL_B1 = [
       "pt": "a toupeira",
       "ja": "モグラ",
       "zh": "鼹鼠",
-      "ru": "крот"
+      "ru": "крот",
+      "fr": "taupe"
     },
     "examples": [],
     "meta": {},
@@ -844,7 +874,8 @@ const WORDS_NL_B1 = [
       "pt": "o pôr do sol",
       "ja": "日没",
       "zh": "日落",
-      "ru": "закат"
+      "ru": "закат",
+      "fr": "coucher de soleil"
     },
     "examples": [],
     "meta": {},
@@ -871,7 +902,8 @@ const WORDS_NL_B1 = [
       "pt": "aguardar",
       "ja": "待つ",
       "zh": "等待",
-      "ru": "ждать"
+      "ru": "ждать",
+      "fr": "attendre"
     },
     "examples": [],
     "meta": {},
@@ -899,7 +931,8 @@ const WORDS_NL_B1 = [
       "pt": "o molho",
       "ja": "ソース",
       "zh": "酱",
-      "ru": "соус"
+      "ru": "соус",
+      "fr": "sauce"
     },
     "examples": [],
     "meta": {},
@@ -926,7 +959,8 @@ const WORDS_NL_B1 = [
       "pt": "o campus",
       "ja": "キャンパス",
       "zh": "校园",
-      "ru": "кампус"
+      "ru": "кампус",
+      "fr": "campus"
     },
     "examples": [],
     "meta": {},
@@ -952,7 +986,8 @@ const WORDS_NL_B1 = [
       "pt": "o serial killer",
       "ja": "連続殺人犯",
       "zh": "连环杀手",
-      "ru": "серийный убийца"
+      "ru": "серийный убийца",
+      "fr": "tueur en série"
     },
     "examples": [],
     "meta": {},
@@ -979,7 +1014,8 @@ const WORDS_NL_B1 = [
       "pt": "o elefante",
       "ja": "象",
       "zh": "大象",
-      "ru": "слон"
+      "ru": "слон",
+      "fr": "éléphant"
     },
     "examples": [],
     "meta": {},
@@ -1006,7 +1042,8 @@ const WORDS_NL_B1 = [
       "pt": "grosso",
       "ja": "粗い",
       "zh": "粗糙的",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "grossier"
     },
     "examples": [],
     "meta": {}
@@ -1031,7 +1068,8 @@ const WORDS_NL_B1 = [
       "pt": "conter",
       "ja": "含む",
       "zh": "包含",
-      "ru": "содержать"
+      "ru": "содержать",
+      "fr": "contenir"
     },
     "examples": [],
     "meta": {},
@@ -1059,7 +1097,8 @@ const WORDS_NL_B1 = [
       "pt": "a camiseta",
       "ja": "Tシャツ",
       "zh": "T恤",
-      "ru": "футболка"
+      "ru": "футболка",
+      "fr": "t-shirt"
     },
     "examples": [],
     "meta": {},
@@ -1085,7 +1124,8 @@ const WORDS_NL_B1 = [
       "pt": "sem dinheiro",
       "ja": "無一文の",
       "zh": "破产的",
-      "ru": "без денег"
+      "ru": "без денег",
+      "fr": "cassé"
     },
     "examples": [],
     "meta": {}
@@ -1110,7 +1150,8 @@ const WORDS_NL_B1 = [
       "pt": "chocado",
       "ja": "衝撃を受けた",
       "zh": "震惊的",
-      "ru": "шокированный"
+      "ru": "шокированный",
+      "fr": "choqué"
     },
     "examples": [],
     "meta": {}
@@ -1135,7 +1176,8 @@ const WORDS_NL_B1 = [
       "pt": "agressivo",
       "ja": "攻撃的な",
       "zh": "好斗的",
-      "ru": "агрессивный"
+      "ru": "агрессивный",
+      "fr": "agressif"
     },
     "examples": [],
     "meta": {}
@@ -1159,7 +1201,8 @@ const WORDS_NL_B1 = [
       "pt": "o fosso",
       "ja": "堀",
       "zh": "护城河",
-      "ru": "ров"
+      "ru": "ров",
+      "fr": "fossé"
     },
     "examples": [],
     "meta": {},
@@ -1185,7 +1228,8 @@ const WORDS_NL_B1 = [
       "pt": "vadiar",
       "ja": "ぶらつく",
       "zh": "闲逛",
-      "ru": "бездельничать"
+      "ru": "бездельничать",
+      "fr": "traîner"
     },
     "examples": [],
     "meta": {},
@@ -1213,7 +1257,8 @@ const WORDS_NL_B1 = [
       "pt": "temer",
       "ja": "恐れる",
       "zh": "害怕",
-      "ru": "бояться"
+      "ru": "бояться",
+      "fr": "peur"
     },
     "examples": [],
     "meta": {},
@@ -1240,7 +1285,8 @@ const WORDS_NL_B1 = [
       "pt": "o psicopata",
       "ja": "サイコパス",
       "zh": "精神病患者",
-      "ru": "психопат"
+      "ru": "психопат",
+      "fr": "psychopathe"
     },
     "examples": [],
     "meta": {},
@@ -1267,7 +1313,8 @@ const WORDS_NL_B1 = [
       "pt": "a abordagem",
       "ja": "アプローチ",
       "zh": "方法",
-      "ru": "подход"
+      "ru": "подход",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {},
@@ -1294,7 +1341,8 @@ const WORDS_NL_B1 = [
       "pt": "a camisa",
       "ja": "シャツ",
       "zh": "衬衫",
-      "ru": "рубашка"
+      "ru": "рубашка",
+      "fr": "chemise"
     },
     "examples": [],
     "meta": {},
@@ -1321,7 +1369,8 @@ const WORDS_NL_B1 = [
       "pt": "registrado",
       "ja": "登録された",
       "zh": "注册的",
-      "ru": "зарегистрированный"
+      "ru": "зарегистрированный",
+      "fr": "enregistré"
     },
     "examples": [],
     "meta": {}
@@ -1345,7 +1394,8 @@ const WORDS_NL_B1 = [
       "pt": "o oposto",
       "ja": "反対",
       "zh": "相反",
-      "ru": "противоположность"
+      "ru": "противоположность",
+      "fr": "opposé"
     },
     "examples": [],
     "meta": {},
@@ -1371,7 +1421,8 @@ const WORDS_NL_B1 = [
       "pt": "o armazém",
       "ja": "倉庫",
       "zh": "仓库",
-      "ru": "склад"
+      "ru": "склад",
+      "fr": "entrepôt"
     },
     "examples": [],
     "meta": {},
@@ -1398,7 +1449,8 @@ const WORDS_NL_B1 = [
       "pt": "o bar",
       "ja": "パブ",
       "zh": "酒馆",
-      "ru": "паб"
+      "ru": "паб",
+      "fr": "pub"
     },
     "examples": [],
     "meta": {},
@@ -1424,7 +1476,8 @@ const WORDS_NL_B1 = [
       "pt": "o armazenamento",
       "ja": "保管",
       "zh": "储存",
-      "ru": "хранение"
+      "ru": "хранение",
+      "fr": "stockage"
     },
     "examples": [],
     "meta": {},
@@ -1451,7 +1504,8 @@ const WORDS_NL_B1 = [
       "pt": "o filhote",
       "ja": "子犬",
       "zh": "小狗",
-      "ru": "щенок"
+      "ru": "щенок",
+      "fr": "chiot"
     },
     "examples": [],
     "meta": {},
@@ -1477,7 +1531,8 @@ const WORDS_NL_B1 = [
       "pt": "vago",
       "ja": "曖昧な",
       "zh": "模糊的",
-      "ru": "расплывчатый"
+      "ru": "расплывчатый",
+      "fr": "vague"
     },
     "examples": [],
     "meta": {}
@@ -1501,7 +1556,8 @@ const WORDS_NL_B1 = [
       "pt": "proprietário de terras",
       "ja": "土地を所有する",
       "zh": "拥有土地的",
-      "ru": "землевладелец"
+      "ru": "землевладелец",
+      "fr": "atterri"
     },
     "examples": [],
     "meta": {}
@@ -1527,7 +1583,8 @@ const WORDS_NL_B1 = [
       "pt": "o amigo",
       "ja": "相棒",
       "zh": "伙伴",
-      "ru": "приятель"
+      "ru": "приятель",
+      "fr": "pote"
     },
     "examples": [],
     "meta": {},
@@ -1553,7 +1610,8 @@ const WORDS_NL_B1 = [
       "pt": "estalar",
       "ja": "きしむ",
       "zh": "嘎吱作响",
-      "ru": "трещать"
+      "ru": "трещать",
+      "fr": "craquer"
     },
     "examples": [],
     "meta": {},
@@ -1581,7 +1639,8 @@ const WORDS_NL_B1 = [
       "pt": "confortável",
       "ja": "快適な",
       "zh": "舒适的",
-      "ru": "комфортный"
+      "ru": "комфортный",
+      "fr": "confortable"
     },
     "examples": [],
     "meta": {}
@@ -1605,7 +1664,8 @@ const WORDS_NL_B1 = [
       "pt": "o erro",
       "ja": "間違い",
       "zh": "错误",
-      "ru": "неправота"
+      "ru": "неправота",
+      "fr": "faux"
     },
     "examples": [],
     "meta": {},
@@ -1631,7 +1691,8 @@ const WORDS_NL_B1 = [
       "pt": "desigual",
       "ja": "不平等な",
       "zh": "不平等的",
-      "ru": "неравный"
+      "ru": "неравный",
+      "fr": "inégal"
     },
     "examples": [],
     "meta": {}
@@ -1655,7 +1716,8 @@ const WORDS_NL_B1 = [
       "pt": "o sêmen",
       "ja": "精液",
       "zh": "精液",
-      "ru": "сперма"
+      "ru": "сперма",
+      "fr": "sperme"
     },
     "examples": [],
     "meta": {},
@@ -1681,7 +1743,8 @@ const WORDS_NL_B1 = [
       "pt": "ávido",
       "ja": "熱望する",
       "zh": "渴望的",
-      "ru": "жадный"
+      "ru": "жадный",
+      "fr": "désireux"
     },
     "examples": [],
     "meta": {}
@@ -1705,7 +1768,8 @@ const WORDS_NL_B1 = [
       "pt": "a autoridade",
       "ja": "権限",
       "zh": "权力",
-      "ru": "власть"
+      "ru": "власть",
+      "fr": "autorité"
     },
     "examples": [],
     "meta": {},
@@ -1731,7 +1795,8 @@ const WORDS_NL_B1 = [
       "pt": "aproximar-se",
       "ja": "近づく",
       "zh": "接近",
-      "ru": "приближаться"
+      "ru": "приближаться",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {},
@@ -1758,7 +1823,8 @@ const WORDS_NL_B1 = [
       "pt": "o mordomo",
       "ja": "執事",
       "zh": "管家",
-      "ru": "дворецкий"
+      "ru": "дворецкий",
+      "fr": "majordome"
     },
     "examples": [],
     "meta": {},
@@ -1784,7 +1850,8 @@ const WORDS_NL_B1 = [
       "pt": "o disco",
       "ja": "円盤",
       "zh": "圆盘",
-      "ru": "диск"
+      "ru": "диск",
+      "fr": "disque"
     },
     "examples": [],
     "meta": {},
@@ -1810,7 +1877,8 @@ const WORDS_NL_B1 = [
       "pt": "o aniversariante",
       "ja": "誕生日を迎える人",
       "zh": "寿星",
-      "ru": "именинник"
+      "ru": "именинник",
+      "fr": "fêté"
     },
     "examples": [],
     "meta": {},
@@ -1836,7 +1904,8 @@ const WORDS_NL_B1 = [
       "pt": "a peteca",
       "ja": "シャトルコック",
       "zh": "羽毛球",
-      "ru": "волан"
+      "ru": "волан",
+      "fr": "volant"
     },
     "examples": [],
     "meta": {},
@@ -1862,7 +1931,8 @@ const WORDS_NL_B1 = [
       "pt": "o bem",
       "ja": "最善の利益",
       "zh": "最佳利益",
-      "ru": "благо"
+      "ru": "благо",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {},
@@ -1888,7 +1958,8 @@ const WORDS_NL_B1 = [
       "pt": "o judeu",
       "ja": "ユダヤ人",
       "zh": "犹太人",
-      "ru": "еврей"
+      "ru": "еврей",
+      "fr": "Juif"
     },
     "examples": [],
     "meta": {},
@@ -1915,7 +1986,8 @@ const WORDS_NL_B1 = [
       "pt": "em dinheiro",
       "ja": "現金の",
       "zh": "现金的",
-      "ru": "наличный"
+      "ru": "наличный",
+      "fr": "espèces"
     },
     "examples": [],
     "meta": {}
@@ -1940,7 +2012,8 @@ const WORDS_NL_B1 = [
       "pt": "o dinheiro",
       "ja": "現金",
       "zh": "现金",
-      "ru": "наличные"
+      "ru": "наличные",
+      "fr": "espèces"
     },
     "examples": [],
     "meta": {},
@@ -1967,7 +2040,8 @@ const WORDS_NL_B1 = [
       "pt": "a escada",
       "ja": "はしご",
       "zh": "梯子",
-      "ru": "лестница"
+      "ru": "лестница",
+      "fr": "échelle"
     },
     "examples": [],
     "meta": {},
@@ -1994,7 +2068,8 @@ const WORDS_NL_B1 = [
       "pt": "alérgico",
       "ja": "アレルギーの",
       "zh": "过敏的",
-      "ru": "аллергический"
+      "ru": "аллергический",
+      "fr": "allergique"
     },
     "examples": [],
     "meta": {}
@@ -2019,7 +2094,8 @@ const WORDS_NL_B1 = [
       "pt": "comercial",
       "ja": "業務上の",
       "zh": "商业的",
-      "ru": "деловой"
+      "ru": "деловой",
+      "fr": "professionnel"
     },
     "examples": [],
     "meta": {}
@@ -2044,7 +2120,8 @@ const WORDS_NL_B1 = [
       "pt": "nu",
       "ja": "裸の",
       "zh": "裸体的",
-      "ru": "голый"
+      "ru": "голый",
+      "fr": "nu"
     },
     "examples": [],
     "meta": {}
@@ -2069,7 +2146,8 @@ const WORDS_NL_B1 = [
       "pt": "ter cuidado",
       "ja": "気をつける",
       "zh": "小心",
-      "ru": "остерегаться"
+      "ru": "остерегаться",
+      "fr": "attention"
     },
     "examples": [],
     "meta": {},
@@ -2096,7 +2174,8 @@ const WORDS_NL_B1 = [
       "pt": "banir",
       "ja": "追放する",
       "zh": "流放",
-      "ru": "изгонять"
+      "ru": "изгонять",
+      "fr": "bannir"
     },
     "examples": [],
     "meta": {},
@@ -2124,7 +2203,8 @@ const WORDS_NL_B1 = [
       "pt": "adaptado",
       "ja": "適応した",
       "zh": "适应的",
-      "ru": "адаптированный"
+      "ru": "адаптированный",
+      "fr": "adapté"
     },
     "examples": [],
     "meta": {}
@@ -2148,7 +2228,8 @@ const WORDS_NL_B1 = [
       "pt": "o naufrágio",
       "ja": "残骸",
       "zh": "残骸",
-      "ru": "обломок"
+      "ru": "обломок",
+      "fr": "épave"
     },
     "examples": [],
     "meta": {},
@@ -2174,7 +2255,8 @@ const WORDS_NL_B1 = [
       "pt": "em ruínas",
       "ja": "荒廃した",
       "zh": "破旧的",
-      "ru": "ветхий"
+      "ru": "ветхий",
+      "fr": "délabré"
     },
     "examples": [],
     "meta": {}
@@ -2199,7 +2281,8 @@ const WORDS_NL_B1 = [
       "pt": "o objeto",
       "ja": "物体",
       "zh": "物体",
-      "ru": "предмет"
+      "ru": "предмет",
+      "fr": "objet"
     },
     "examples": [],
     "meta": {},
@@ -2226,7 +2309,8 @@ const WORDS_NL_B1 = [
       "pt": "o documento",
       "ja": "文書",
       "zh": "文件",
-      "ru": "документ"
+      "ru": "документ",
+      "fr": "document"
     },
     "examples": [],
     "meta": {},
@@ -2252,7 +2336,8 @@ const WORDS_NL_B1 = [
       "pt": "a braçadeira",
       "ja": "クランプ",
       "zh": "夹具",
-      "ru": "зажим"
+      "ru": "зажим",
+      "fr": "pince"
     },
     "examples": [],
     "meta": {},
@@ -2278,7 +2363,8 @@ const WORDS_NL_B1 = [
       "pt": "o zumbi",
       "ja": "ゾンビ",
       "zh": "僵尸",
-      "ru": "зомби"
+      "ru": "зомби",
+      "fr": "zombie"
     },
     "examples": [],
     "meta": {},
@@ -2305,7 +2391,8 @@ const WORDS_NL_B1 = [
       "pt": "julgar",
       "ja": "判断する",
       "zh": "判断",
-      "ru": "судить"
+      "ru": "судить",
+      "fr": "juge"
     },
     "examples": [],
     "meta": {},
@@ -2332,7 +2419,8 @@ const WORDS_NL_B1 = [
       "pt": "jurar",
       "ja": "誓う",
       "zh": "发誓",
-      "ru": "клясться"
+      "ru": "клясться",
+      "fr": "jurer"
     },
     "examples": [],
     "meta": {},
@@ -2359,7 +2447,8 @@ const WORDS_NL_B1 = [
       "pt": "a ópera",
       "ja": "オペラ",
       "zh": "歌剧",
-      "ru": "опера"
+      "ru": "опера",
+      "fr": "opéra"
     },
     "examples": [],
     "meta": {},
@@ -2386,7 +2475,8 @@ const WORDS_NL_B1 = [
       "pt": "a mochila",
       "ja": "リュックサック",
       "zh": "背包",
-      "ru": "рюкзак"
+      "ru": "рюкзак",
+      "fr": "sac à dos"
     },
     "examples": [],
     "meta": {},
@@ -2412,7 +2502,8 @@ const WORDS_NL_B1 = [
       "pt": "o alfa",
       "ja": "アルファ",
       "zh": "阿尔法",
-      "ru": "альфа"
+      "ru": "альфа",
+      "fr": "alpha"
     },
     "examples": [],
     "meta": {},
@@ -2439,7 +2530,8 @@ const WORDS_NL_B1 = [
       "pt": "curvar se",
       "ja": "かがむ",
       "zh": "弯腰",
-      "ru": "наклоняться"
+      "ru": "наклоняться",
+      "fr": "se pencher"
     },
     "examples": [],
     "meta": {},
@@ -2467,7 +2559,8 @@ const WORDS_NL_B1 = [
       "pt": "o jovem",
       "ja": "若者",
       "zh": "年轻人",
-      "ru": "молодой человек"
+      "ru": "молодой человек",
+      "fr": "jeune"
     },
     "examples": [],
     "meta": {},
@@ -2494,7 +2587,8 @@ const WORDS_NL_B1 = [
       "pt": "acompanhar",
       "ja": "同伴する",
       "zh": "陪伴",
-      "ru": "сопровождать"
+      "ru": "сопровождать",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {},
@@ -2522,7 +2616,8 @@ const WORDS_NL_B1 = [
       "pt": "o DJ",
       "ja": "DJ",
       "zh": "唱片骑师",
-      "ru": "диджей"
+      "ru": "диджей",
+      "fr": "DJ"
     },
     "examples": [],
     "meta": {},
@@ -2548,7 +2643,8 @@ const WORDS_NL_B1 = [
       "pt": "o tecido",
       "ja": "織物",
       "zh": "织物",
-      "ru": "ткань"
+      "ru": "ткань",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {},
@@ -2574,7 +2670,8 @@ const WORDS_NL_B1 = [
       "pt": "absurdo",
       "ja": "不合理な",
       "zh": "荒谬的",
-      "ru": "абсурдный"
+      "ru": "абсурдный",
+      "fr": "absurde"
     },
     "examples": [],
     "meta": {}
@@ -2598,7 +2695,8 @@ const WORDS_NL_B1 = [
       "pt": "a urze",
       "ja": "エリカ",
       "zh": "欧石楠",
-      "ru": "вереск"
+      "ru": "вереск",
+      "fr": "bruyère"
     },
     "examples": [],
     "meta": {},
@@ -2625,7 +2723,8 @@ const WORDS_NL_B1 = [
       "pt": "conectar",
       "ja": "接続する",
       "zh": "连接",
-      "ru": "соединять"
+      "ru": "соединять",
+      "fr": "connecter"
     },
     "examples": [],
     "meta": {},
@@ -2652,7 +2751,8 @@ const WORDS_NL_B1 = [
       "pt": "implantado",
       "ja": "投入された",
       "zh": "部署的",
-      "ru": "задействованный"
+      "ru": "задействованный",
+      "fr": "déployé"
     },
     "examples": [],
     "meta": {}
@@ -2677,7 +2777,8 @@ const WORDS_NL_B1 = [
       "pt": "próximo",
       "ja": "近くの",
       "zh": "附近的",
-      "ru": "близкий"
+      "ru": "близкий",
+      "fr": "proche"
     },
     "examples": [],
     "meta": {}
@@ -2702,7 +2803,8 @@ const WORDS_NL_B1 = [
       "pt": "a dúzia",
       "ja": "ダース",
       "zh": "一打",
-      "ru": "дюжина"
+      "ru": "дюжина",
+      "fr": "douzaine"
     },
     "examples": [],
     "meta": {},
@@ -2729,7 +2831,8 @@ const WORDS_NL_B1 = [
       "pt": "estacionar",
       "ja": "駐車する",
       "zh": "停车",
-      "ru": "парковать"
+      "ru": "парковать",
+      "fr": "parc"
     },
     "examples": [],
     "meta": {},
@@ -2757,7 +2860,8 @@ const WORDS_NL_B1 = [
       "pt": "vestir",
       "ja": "服を着せる",
       "zh": "穿衣",
-      "ru": "одевать"
+      "ru": "одевать",
+      "fr": "robe"
     },
     "examples": [],
     "meta": {},
@@ -2784,7 +2888,8 @@ const WORDS_NL_B1 = [
       "pt": "intenso",
       "ja": "激しい",
       "zh": "激烈的",
-      "ru": "сильный"
+      "ru": "сильный",
+      "fr": "intense"
     },
     "examples": [],
     "meta": {}
@@ -2808,7 +2913,8 @@ const WORDS_NL_B1 = [
       "pt": "o grito",
       "ja": "叫び声",
       "zh": "尖叫",
-      "ru": "крик"
+      "ru": "крик",
+      "fr": "crier"
     },
     "examples": [],
     "meta": {},
@@ -2835,7 +2941,8 @@ const WORDS_NL_B1 = [
       "pt": "o anfitrião",
       "ja": "ホスト",
       "zh": "主人",
-      "ru": "хозяин"
+      "ru": "хозяин",
+      "fr": "hôte"
     },
     "examples": [],
     "meta": {},
@@ -2861,7 +2968,8 @@ const WORDS_NL_B1 = [
       "pt": "sequestrar",
       "ja": "誘拐する",
       "zh": "绑架",
-      "ru": "похищать"
+      "ru": "похищать",
+      "fr": "kidnapper"
     },
     "examples": [],
     "meta": {},
@@ -2889,7 +2997,8 @@ const WORDS_NL_B1 = [
       "pt": "a prancha",
       "ja": "板",
       "zh": "木板",
-      "ru": "доска"
+      "ru": "доска",
+      "fr": "planche"
     },
     "examples": [],
     "meta": {},
@@ -2916,7 +3025,8 @@ const WORDS_NL_B1 = [
       "pt": "fino",
       "ja": "薄い",
       "zh": "薄的",
-      "ru": "тонкий"
+      "ru": "тонкий",
+      "fr": "mince"
     },
     "examples": [],
     "meta": {}
@@ -2941,7 +3051,8 @@ const WORDS_NL_B1 = [
       "pt": "a multa",
       "ja": "罰金",
       "zh": "罚款",
-      "ru": "штраф"
+      "ru": "штраф",
+      "fr": "bien"
     },
     "examples": [],
     "meta": {},
@@ -2967,7 +3078,8 @@ const WORDS_NL_B1 = [
       "pt": "alegre",
       "ja": "陽気な",
       "zh": "开朗的",
-      "ru": "веселый"
+      "ru": "веселый",
+      "fr": "joyeux"
     },
     "examples": [],
     "meta": {}
@@ -2991,7 +3103,8 @@ const WORDS_NL_B1 = [
       "pt": "o diretor",
       "ja": "監督",
       "zh": "导演",
-      "ru": "режиссер"
+      "ru": "режиссер",
+      "fr": "directeur"
     },
     "examples": [],
     "meta": {},
@@ -3017,7 +3130,8 @@ const WORDS_NL_B1 = [
       "pt": "a bagunça",
       "ja": "散らかったもの",
       "zh": "混乱",
-      "ru": "беспорядок"
+      "ru": "беспорядок",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {},
@@ -3044,7 +3158,8 @@ const WORDS_NL_B1 = [
       "pt": "o diário de bordo",
       "ja": "航海日誌",
       "zh": "航海日志",
-      "ru": "судовой журнал"
+      "ru": "судовой журнал",
+      "fr": "journal de bord"
     },
     "examples": [],
     "meta": {},
@@ -3071,7 +3186,8 @@ const WORDS_NL_B1 = [
       "pt": "o dezesseis",
       "ja": "16",
       "zh": "十六",
-      "ru": "шестнадцать"
+      "ru": "шестнадцать",
+      "fr": "seize"
     },
     "examples": [],
     "meta": {},
@@ -3097,7 +3213,8 @@ const WORDS_NL_B1 = [
       "pt": "puro",
       "ja": "純粋な",
       "zh": "纯净的",
-      "ru": "чистый"
+      "ru": "чистый",
+      "fr": "pur"
     },
     "examples": [],
     "meta": {}
@@ -3122,7 +3239,8 @@ const WORDS_NL_B1 = [
       "pt": "o ácido",
       "ja": "酸",
       "zh": "酸",
-      "ru": "кислота"
+      "ru": "кислота",
+      "fr": "acide"
     },
     "examples": [],
     "meta": {},
@@ -3149,7 +3267,8 @@ const WORDS_NL_B1 = [
       "pt": "azedo",
       "ja": "酸っぱい",
       "zh": "酸",
-      "ru": "кислый"
+      "ru": "кислый",
+      "fr": "aigre"
     },
     "examples": [],
     "meta": {}
@@ -3173,7 +3292,8 @@ const WORDS_NL_B1 = [
       "pt": "forense",
       "ja": "法医学の",
       "zh": "法医的",
-      "ru": "судебный"
+      "ru": "судебный",
+      "fr": "judiciaire"
     },
     "examples": [],
     "meta": {}
@@ -3198,7 +3318,8 @@ const WORDS_NL_B1 = [
       "pt": "o fósforo",
       "ja": "マッチ",
       "zh": "火柴",
-      "ru": "спичка"
+      "ru": "спичка",
+      "fr": "match"
     },
     "examples": [],
     "meta": {},
@@ -3224,7 +3345,8 @@ const WORDS_NL_B1 = [
       "pt": "inclinar",
       "ja": "傾ける",
       "zh": "倾斜",
-      "ru": "опрокидывать"
+      "ru": "опрокидывать",
+      "fr": "basculer"
     },
     "examples": [],
     "meta": {},
@@ -3252,7 +3374,8 @@ const WORDS_NL_B1 = [
       "pt": "o recibo",
       "ja": "レシート",
       "zh": "收据",
-      "ru": "квитанция"
+      "ru": "квитанция",
+      "fr": "reçu"
     },
     "examples": [],
     "meta": {},
@@ -3278,7 +3401,8 @@ const WORDS_NL_B1 = [
       "pt": "arrastar",
       "ja": "引きずる",
       "zh": "拖",
-      "ru": "тащить"
+      "ru": "тащить",
+      "fr": "traîner"
     },
     "examples": [],
     "meta": {},
@@ -3306,7 +3430,8 @@ const WORDS_NL_B1 = [
       "pt": "subir",
       "ja": "上がる",
       "zh": "上升",
-      "ru": "подниматься"
+      "ru": "подниматься",
+      "fr": "monter"
     },
     "examples": [],
     "meta": {},
@@ -3333,7 +3458,8 @@ const WORDS_NL_B1 = [
       "pt": "o guerreiro",
       "ja": "戦士",
       "zh": "战士",
-      "ru": "воин"
+      "ru": "воин",
+      "fr": "guerrier"
     },
     "examples": [],
     "meta": {},
@@ -3359,7 +3485,8 @@ const WORDS_NL_B1 = [
       "pt": "o excêntrico",
       "ja": "変人",
       "zh": "怪胎",
-      "ru": "чудак"
+      "ru": "чудак",
+      "fr": "monstre"
     },
     "examples": [],
     "meta": {},
@@ -3385,7 +3512,8 @@ const WORDS_NL_B1 = [
       "pt": "o armazém",
       "ja": "倉庫",
       "zh": "仓库",
-      "ru": "склад"
+      "ru": "склад",
+      "fr": "entrepôt"
     },
     "examples": [],
     "meta": {},
@@ -3411,7 +3539,8 @@ const WORDS_NL_B1 = [
       "pt": "o saque",
       "ja": "戦利品",
       "zh": "战利品",
-      "ru": "добыча"
+      "ru": "добыча",
+      "fr": "butin"
     },
     "examples": [],
     "meta": {},
@@ -3437,7 +3566,8 @@ const WORDS_NL_B1 = [
       "pt": "a inocência",
       "ja": "無罪",
       "zh": "无罪",
-      "ru": "невиновность"
+      "ru": "невиновность",
+      "fr": "innocence"
     },
     "examples": [],
     "meta": {},
@@ -3464,7 +3594,8 @@ const WORDS_NL_B1 = [
       "pt": "extraordinário",
       "ja": "異常な",
       "zh": "非凡的",
-      "ru": "необыкновенный"
+      "ru": "необыкновенный",
+      "fr": "extraordinaire"
     },
     "examples": [],
     "meta": {}
@@ -3489,7 +3620,8 @@ const WORDS_NL_B1 = [
       "pt": "gastar",
       "ja": "使う",
       "zh": "花费",
-      "ru": "тратить"
+      "ru": "тратить",
+      "fr": "dépenser"
     },
     "examples": [],
     "meta": {},
@@ -3516,7 +3648,8 @@ const WORDS_NL_B1 = [
       "pt": "a fraude",
       "ja": "詐欺",
       "zh": "欺骗",
-      "ru": "обман"
+      "ru": "обман",
+      "fr": "tromperie"
     },
     "examples": [],
     "meta": {},
@@ -3543,7 +3676,8 @@ const WORDS_NL_B1 = [
       "pt": "social",
       "ja": "社会的な",
       "zh": "社会的",
-      "ru": "социальный"
+      "ru": "социальный",
+      "fr": "social"
     },
     "examples": [],
     "meta": {}
@@ -3567,7 +3701,8 @@ const WORDS_NL_B1 = [
       "pt": "tocar flauta",
       "ja": "笛を吹く",
       "zh": "吹奏",
-      "ru": "играть на дудке"
+      "ru": "играть на дудке",
+      "fr": "canaliser"
     },
     "examples": [],
     "meta": {},
@@ -3595,7 +3730,8 @@ const WORDS_NL_B1 = [
       "pt": "antiquado",
       "ja": "時代遅れの",
       "zh": "老式的",
-      "ru": "старомодный"
+      "ru": "старомодный",
+      "fr": "démodé"
     },
     "examples": [],
     "meta": {}
@@ -3620,7 +3756,8 @@ const WORDS_NL_B1 = [
       "pt": "possuir",
       "ja": "所有する",
       "zh": "拥有",
-      "ru": "владеть"
+      "ru": "владеть",
+      "fr": "posséder"
     },
     "examples": [],
     "meta": {},
@@ -3648,7 +3785,8 @@ const WORDS_NL_B1 = [
       "pt": "a fração",
       "ja": "分数",
       "zh": "分数",
-      "ru": "дробь"
+      "ru": "дробь",
+      "fr": "fraction"
     },
     "examples": [],
     "meta": {},
@@ -3674,7 +3812,8 @@ const WORDS_NL_B1 = [
       "pt": "o mandado de busca",
       "ja": "捜索令状",
       "zh": "搜查令",
-      "ru": "ордер на обыск"
+      "ru": "ордер на обыск",
+      "fr": "mandat de perquisition"
     },
     "examples": [],
     "meta": {},
@@ -3701,7 +3840,8 @@ const WORDS_NL_B1 = [
       "pt": "a matrícula",
       "ja": "特徴",
       "zh": "标志",
-      "ru": "отличительный знак"
+      "ru": "отличительный знак",
+      "fr": "signe distinctif"
     },
     "examples": [],
     "meta": {},
@@ -3727,7 +3867,8 @@ const WORDS_NL_B1 = [
       "pt": "o fuzileiro naval",
       "ja": "海兵隊員",
       "zh": "海军陆战队员",
-      "ru": "морской пехотинец"
+      "ru": "морской пехотинец",
+      "fr": "marin"
     },
     "examples": [],
     "meta": {},
@@ -3754,7 +3895,8 @@ const WORDS_NL_B1 = [
       "pt": "experimentar",
       "ja": "経験する",
       "zh": "经历",
-      "ru": "переживать"
+      "ru": "переживать",
+      "fr": "éprouver"
     },
     "examples": [],
     "meta": {},
@@ -3782,7 +3924,8 @@ const WORDS_NL_B1 = [
       "pt": "a ação",
       "ja": "株式",
       "zh": "股份",
-      "ru": "акция"
+      "ru": "акция",
+      "fr": "part"
     },
     "examples": [],
     "meta": {},
@@ -3809,7 +3952,8 @@ const WORDS_NL_B1 = [
       "pt": "o cabo",
       "ja": "ケーブル",
       "zh": "电缆",
-      "ru": "кабель"
+      "ru": "кабель",
+      "fr": "câble"
     },
     "examples": [],
     "meta": {},
@@ -3836,7 +3980,8 @@ const WORDS_NL_B1 = [
       "pt": "marcar",
       "ja": "得点する",
       "zh": "得分",
-      "ru": "забивать"
+      "ru": "забивать",
+      "fr": "marquer"
     },
     "examples": [],
     "meta": {},
@@ -3864,7 +4009,8 @@ const WORDS_NL_B1 = [
       "pt": "influenciar",
       "ja": "影響を与える",
       "zh": "影响",
-      "ru": "влиять"
+      "ru": "влиять",
+      "fr": "influencer"
     },
     "examples": [],
     "meta": {},
@@ -3892,7 +4038,8 @@ const WORDS_NL_B1 = [
       "pt": "modesto",
       "ja": "謙虚な",
       "zh": "谦虚的",
-      "ru": "скромный"
+      "ru": "скромный",
+      "fr": "modeste"
     },
     "examples": [],
     "meta": {}
@@ -3916,7 +4063,8 @@ const WORDS_NL_B1 = [
       "pt": "atribuir",
       "ja": "割り当てる",
       "zh": "分配",
-      "ru": "назначать"
+      "ru": "назначать",
+      "fr": "assigner"
     },
     "examples": [],
     "meta": {},
@@ -3944,7 +4092,8 @@ const WORDS_NL_B1 = [
       "pt": "cabecear",
       "ja": "ヘディングする",
       "zh": "头球",
-      "ru": "бить головой"
+      "ru": "бить головой",
+      "fr": "diriger"
     },
     "examples": [],
     "meta": {},
@@ -3972,7 +4121,8 @@ const WORDS_NL_B1 = [
       "pt": "o artista",
       "ja": "芸術家",
       "zh": "艺术家",
-      "ru": "артист"
+      "ru": "артист",
+      "fr": "artiste"
     },
     "examples": [],
     "meta": {},
@@ -3999,7 +4149,8 @@ const WORDS_NL_B1 = [
       "pt": "ler em voz alta",
       "ja": "読み聞かせる",
       "zh": "朗读",
-      "ru": "читать вслух"
+      "ru": "читать вслух",
+      "fr": "lire"
     },
     "examples": [],
     "meta": {},
@@ -4027,7 +4178,8 @@ const WORDS_NL_B1 = [
       "pt": "italiano",
       "ja": "イタリアの",
       "zh": "意大利的",
-      "ru": "итальянский"
+      "ru": "итальянский",
+      "fr": "italien"
     },
     "examples": [],
     "meta": {}
@@ -4052,7 +4204,8 @@ const WORDS_NL_B1 = [
       "pt": "bizarro",
       "ja": "奇妙な",
       "zh": "离奇的",
-      "ru": "причудливый"
+      "ru": "причудливый",
+      "fr": "bizarre"
     },
     "examples": [],
     "meta": {}
@@ -4077,7 +4230,8 @@ const WORDS_NL_B1 = [
       "pt": "os bombeiros",
       "ja": "消防署",
       "zh": "消防队",
-      "ru": "пожарная служба"
+      "ru": "пожарная служба",
+      "fr": "pompiers"
     },
     "examples": [],
     "meta": {},
@@ -4103,7 +4257,8 @@ const WORDS_NL_B1 = [
       "pt": "a era",
       "ja": "時代",
       "zh": "时代",
-      "ru": "эпоха"
+      "ru": "эпоха",
+      "fr": "ère"
     },
     "examples": [],
     "meta": {},
@@ -4130,7 +4285,8 @@ const WORDS_NL_B1 = [
       "pt": "persuadir",
       "ja": "説得する",
       "zh": "说服",
-      "ru": "уговаривать"
+      "ru": "уговаривать",
+      "fr": "persuader"
     },
     "examples": [],
     "meta": {},
@@ -4158,7 +4314,8 @@ const WORDS_NL_B1 = [
       "pt": "o cabo",
       "ja": "柄",
       "zh": "柄",
-      "ru": "ручка"
+      "ru": "ручка",
+      "fr": "poignée"
     },
     "examples": [],
     "meta": {},
@@ -4185,7 +4342,8 @@ const WORDS_NL_B1 = [
       "pt": "controlar",
       "ja": "制御する",
       "zh": "控制",
-      "ru": "управлять"
+      "ru": "управлять",
+      "fr": "contrôler"
     },
     "examples": [],
     "meta": {},
@@ -4213,7 +4371,8 @@ const WORDS_NL_B1 = [
       "pt": "a cadeira de rodas",
       "ja": "車椅子",
       "zh": "轮椅",
-      "ru": "инвалидная коляска"
+      "ru": "инвалидная коляска",
+      "fr": "fauteuil roulant"
     },
     "examples": [],
     "meta": {},
@@ -4240,7 +4399,8 @@ const WORDS_NL_B1 = [
       "pt": "doce",
       "ja": "甘い",
       "zh": "甜的",
-      "ru": "сладкий"
+      "ru": "сладкий",
+      "fr": "doux"
     },
     "examples": [],
     "meta": {}
@@ -4265,7 +4425,8 @@ const WORDS_NL_B1 = [
       "pt": "o doce",
       "ja": "飴",
       "zh": "糖果",
-      "ru": "сладость"
+      "ru": "сладость",
+      "fr": "bonbon"
     },
     "examples": [],
     "meta": {},
@@ -4292,7 +4453,8 @@ const WORDS_NL_B1 = [
       "pt": "a seringa",
       "ja": "注射器",
       "zh": "注射器",
-      "ru": "шприц"
+      "ru": "шприц",
+      "fr": "seringue"
     },
     "examples": [],
     "meta": {},
@@ -4319,7 +4481,8 @@ const WORDS_NL_B1 = [
       "pt": "a nave espacial",
       "ja": "宇宙船",
       "zh": "宇宙飞船",
-      "ru": "космический корабль"
+      "ru": "космический корабль",
+      "fr": "vaisseau spatial"
     },
     "examples": [],
     "meta": {},
@@ -4346,7 +4509,8 @@ const WORDS_NL_B1 = [
       "pt": "o nascer do sol",
       "ja": "日の出",
       "zh": "日出",
-      "ru": "восход солнца"
+      "ru": "восход солнца",
+      "fr": "lever du soleil"
     },
     "examples": [],
     "meta": {},
@@ -4373,7 +4537,8 @@ const WORDS_NL_B1 = [
       "pt": "a riqueza",
       "ja": "富",
       "zh": "财富",
-      "ru": "богатство"
+      "ru": "богатство",
+      "fr": "richesse"
     },
     "examples": [],
     "meta": {},
@@ -4400,7 +4565,8 @@ const WORDS_NL_B1 = [
       "pt": "violar",
       "ja": "違反する",
       "zh": "违反",
-      "ru": "нарушать"
+      "ru": "нарушать",
+      "fr": "violer"
     },
     "examples": [],
     "meta": {},
@@ -4428,7 +4594,8 @@ const WORDS_NL_B1 = [
       "pt": "complexo",
       "ja": "複雑な",
       "zh": "复杂的",
-      "ru": "сложный"
+      "ru": "сложный",
+      "fr": "complexe"
     },
     "examples": [],
     "meta": {}
@@ -4453,7 +4620,8 @@ const WORDS_NL_B1 = [
       "pt": "o complexo",
       "ja": "複合施設",
       "zh": "综合体",
-      "ru": "комплекс"
+      "ru": "комплекс",
+      "fr": "complexe"
     },
     "examples": [],
     "meta": {},
@@ -4480,7 +4648,8 @@ const WORDS_NL_B1 = [
       "pt": "segurado",
       "ja": "確実な",
       "zh": "确定的",
-      "ru": "уверенный"
+      "ru": "уверенный",
+      "fr": "certain"
     },
     "examples": [],
     "meta": {}
@@ -4505,7 +4674,8 @@ const WORDS_NL_B1 = [
       "pt": "restar",
       "ja": "残る",
       "zh": "剩余",
-      "ru": "оставаться"
+      "ru": "оставаться",
+      "fr": "rester"
     },
     "examples": [],
     "meta": {},
@@ -4533,7 +4703,8 @@ const WORDS_NL_B1 = [
       "pt": "condenar",
       "ja": "有罪判決を下す",
       "zh": "判决",
-      "ru": "осуждать"
+      "ru": "осуждать",
+      "fr": "condamner"
     },
     "examples": [],
     "meta": {},
@@ -4561,7 +4732,8 @@ const WORDS_NL_B1 = [
       "pt": "confiável",
       "ja": "信頼できる",
       "zh": "可靠的",
-      "ru": "надежный"
+      "ru": "надежный",
+      "fr": "fiable"
     },
     "examples": [],
     "meta": {}
@@ -4586,7 +4758,8 @@ const WORDS_NL_B1 = [
       "pt": "a chama",
       "ja": "炎",
       "zh": "火焰",
-      "ru": "пламя"
+      "ru": "пламя",
+      "fr": "flamme"
     },
     "examples": [],
     "meta": {},
@@ -4613,7 +4786,8 @@ const WORDS_NL_B1 = [
       "pt": "o empregado",
       "ja": "従業員",
       "zh": "雇员",
-      "ru": "работник"
+      "ru": "работник",
+      "fr": "employé"
     },
     "examples": [],
     "meta": {},
@@ -4640,7 +4814,8 @@ const WORDS_NL_B1 = [
       "pt": "comer comida chinesa",
       "ja": "中華料理を食べる",
       "zh": "吃中餐",
-      "ru": "есть китайскую еду"
+      "ru": "есть китайскую еду",
+      "fr": "manger chinois"
     },
     "examples": [],
     "meta": {},
@@ -4668,7 +4843,8 @@ const WORDS_NL_B1 = [
       "pt": "a patente",
       "ja": "階級",
       "zh": "级别",
-      "ru": "ранг"
+      "ru": "ранг",
+      "fr": "rang"
     },
     "examples": [],
     "meta": {},
@@ -4695,7 +4871,8 @@ const WORDS_NL_B1 = [
       "pt": "o mil",
       "ja": "千",
       "zh": "千",
-      "ru": "тысяча"
+      "ru": "тысяча",
+      "fr": "mille"
     },
     "examples": [],
     "meta": {},
@@ -4721,7 +4898,8 @@ const WORDS_NL_B1 = [
       "pt": "o resgate",
       "ja": "身代金",
       "zh": "赎金",
-      "ru": "выкуп"
+      "ru": "выкуп",
+      "fr": "rançon"
     },
     "examples": [],
     "meta": {},
@@ -4748,7 +4926,8 @@ const WORDS_NL_B1 = [
       "pt": "o transporte",
       "ja": "輸送",
       "zh": "运输",
-      "ru": "перевозка"
+      "ru": "перевозка",
+      "fr": "transport"
     },
     "examples": [],
     "meta": {},
@@ -4774,7 +4953,8 @@ const WORDS_NL_B1 = [
       "pt": "a isca",
       "ja": "餌",
       "zh": "诱饵",
-      "ru": "приманка"
+      "ru": "приманка",
+      "fr": "appât"
     },
     "examples": [],
     "meta": {},
@@ -4801,7 +4981,8 @@ const WORDS_NL_B1 = [
       "pt": "algo bonito",
       "ja": "美しいもの",
       "zh": "美丽的事物",
-      "ru": "что-то красивое"
+      "ru": "что-то красивое",
+      "fr": "quelque chose de beau"
     },
     "examples": [],
     "meta": {}
@@ -4826,7 +5007,8 @@ const WORDS_NL_B1 = [
       "pt": "o apelido",
       "ja": "ニックネーム",
       "zh": "绰号",
-      "ru": "прозвище"
+      "ru": "прозвище",
+      "fr": "surnom"
     },
     "examples": [],
     "meta": {},
@@ -4853,7 +5035,8 @@ const WORDS_NL_B1 = [
       "pt": "extremo",
       "ja": "極度の",
       "zh": "极度的",
-      "ru": "крайний"
+      "ru": "крайний",
+      "fr": "extrême"
     },
     "examples": [],
     "meta": {}
@@ -4877,7 +5060,8 @@ const WORDS_NL_B1 = [
       "pt": "o ritual",
       "ja": "儀式",
       "zh": "仪式",
-      "ru": "ритуал"
+      "ru": "ритуал",
+      "fr": "rituel"
     },
     "examples": [],
     "meta": {},
@@ -4903,7 +5087,8 @@ const WORDS_NL_B1 = [
       "pt": "ritual",
       "ja": "儀式的な",
       "zh": "仪式的",
-      "ru": "ритуальный"
+      "ru": "ритуальный",
+      "fr": "rituel"
     },
     "examples": [],
     "meta": {}
@@ -4928,7 +5113,8 @@ const WORDS_NL_B1 = [
       "pt": "a salada",
       "ja": "サラダ",
       "zh": "沙拉",
-      "ru": "салат"
+      "ru": "салат",
+      "fr": "salade"
     },
     "examples": [],
     "meta": {},
@@ -4955,7 +5141,8 @@ const WORDS_NL_B1 = [
       "pt": "algo errado",
       "ja": "間違ったもの",
       "zh": "错误的事物",
-      "ru": "что-то не так"
+      "ru": "что-то не так",
+      "fr": "quelque chose de faux"
     },
     "examples": [],
     "meta": {}
@@ -4979,7 +5166,8 @@ const WORDS_NL_B1 = [
       "pt": "anilhar",
       "ja": "標識を付ける",
       "zh": "给鸟戴环",
-      "ru": "кольцевать"
+      "ru": "кольцевать",
+      "fr": "lier"
     },
     "examples": [],
     "meta": {},
@@ -5007,7 +5195,8 @@ const WORDS_NL_B1 = [
       "pt": "o fedor",
       "ja": "悪臭",
       "zh": "恶臭",
-      "ru": "вонь"
+      "ru": "вонь",
+      "fr": "puanteur"
     },
     "examples": [],
     "meta": {},
@@ -5034,7 +5223,8 @@ const WORDS_NL_B1 = [
       "pt": "provável",
       "ja": "おそらく",
       "zh": "可能的",
-      "ru": "вероятно"
+      "ru": "вероятно",
+      "fr": "probable"
     },
     "examples": [],
     "meta": {}
@@ -5059,7 +5249,8 @@ const WORDS_NL_B1 = [
       "pt": "afundar",
       "ja": "沈む",
       "zh": "下沉",
-      "ru": "тонуть"
+      "ru": "тонуть",
+      "fr": "évier"
     },
     "examples": [],
     "meta": {},
@@ -5087,7 +5278,8 @@ const WORDS_NL_B1 = [
       "pt": "de zinco",
       "ja": "亜鉛製の",
       "zh": "锌制的",
-      "ru": "цинковый"
+      "ru": "цинковый",
+      "fr": "en zinc"
     },
     "examples": [],
     "meta": {}
@@ -5112,7 +5304,8 @@ const WORDS_NL_B1 = [
       "pt": "combater",
       "ja": "戦う",
       "zh": "斗争",
-      "ru": "бороться"
+      "ru": "бороться",
+      "fr": "combat"
     },
     "examples": [],
     "meta": {},
@@ -5140,7 +5333,8 @@ const WORDS_NL_B1 = [
       "pt": "o discernimento",
       "ja": "洞察",
       "zh": "洞察力",
-      "ru": "понимание"
+      "ru": "понимание",
+      "fr": "perspicacité"
     },
     "examples": [],
     "meta": {},
@@ -5167,7 +5361,8 @@ const WORDS_NL_B1 = [
       "pt": "o delta",
       "ja": "デルタ",
       "zh": "德尔塔",
-      "ru": "дельта"
+      "ru": "дельта",
+      "fr": "delta"
     },
     "examples": [],
     "meta": {},
@@ -5194,7 +5389,8 @@ const WORDS_NL_B1 = [
       "pt": "significar",
       "ja": "意味する",
       "zh": "意味着",
-      "ru": "означать"
+      "ru": "означать",
+      "fr": "méchant"
     },
     "examples": [],
     "meta": {},
@@ -5222,7 +5418,8 @@ const WORDS_NL_B1 = [
       "pt": "o crachá",
       "ja": "バッジ",
       "zh": "徽章",
-      "ru": "значок"
+      "ru": "значок",
+      "fr": "insigne"
     },
     "examples": [],
     "meta": {},
@@ -5249,7 +5446,8 @@ const WORDS_NL_B1 = [
       "pt": "o solteiro",
       "ja": "独身者",
       "zh": "单身",
-      "ru": "холостяк"
+      "ru": "холостяк",
+      "fr": "personne seule"
     },
     "examples": [],
     "meta": {},
@@ -5276,7 +5474,8 @@ const WORDS_NL_B1 = [
       "pt": "o cuidado",
       "ja": "保護",
       "zh": "保护",
-      "ru": "попечение"
+      "ru": "попечение",
+      "fr": "soin"
     },
     "examples": [],
     "meta": {},
@@ -5302,7 +5501,8 @@ const WORDS_NL_B1 = [
       "pt": "possuído",
       "ja": "取り憑かれた",
       "zh": "被附身的",
-      "ru": "одержимый"
+      "ru": "одержимый",
+      "fr": "possédé"
     },
     "examples": [],
     "meta": {}
@@ -5327,7 +5527,8 @@ const WORDS_NL_B1 = [
       "pt": "trágico",
       "ja": "悲劇的な",
       "zh": "悲剧的",
-      "ru": "трагический"
+      "ru": "трагический",
+      "fr": "tragique"
     },
     "examples": [],
     "meta": {}
@@ -5352,7 +5553,8 @@ const WORDS_NL_B1 = [
       "pt": "a média",
       "ja": "平均",
       "zh": "平均",
-      "ru": "среднее"
+      "ru": "среднее",
+      "fr": "moyen"
     },
     "examples": [],
     "meta": {},
@@ -5379,7 +5581,8 @@ const WORDS_NL_B1 = [
       "pt": "o pato",
       "ja": "アヒル",
       "zh": "鸭子",
-      "ru": "утка"
+      "ru": "утка",
+      "fr": "canard"
     },
     "examples": [],
     "meta": {},
@@ -5406,7 +5609,8 @@ const WORDS_NL_B1 = [
       "pt": "anônimo",
       "ja": "匿名の",
       "zh": "匿名的",
-      "ru": "анонимный"
+      "ru": "анонимный",
+      "fr": "anonyme"
     },
     "examples": [],
     "meta": {}
@@ -5430,7 +5634,8 @@ const WORDS_NL_B1 = [
       "pt": "torturar",
       "ja": "拷問する",
       "zh": "拷问",
-      "ru": "пытать"
+      "ru": "пытать",
+      "fr": "torture"
     },
     "examples": [],
     "meta": {},
@@ -5457,7 +5662,8 @@ const WORDS_NL_B1 = [
       "pt": "o ré",
       "ja": "レ",
       "zh": "瑞",
-      "ru": "ре"
+      "ru": "ре",
+      "fr": "re"
     },
     "examples": [],
     "meta": {},
@@ -5484,7 +5690,8 @@ const WORDS_NL_B1 = [
       "pt": "vazar",
       "ja": "漏れる",
       "zh": "泄漏",
-      "ru": "течь"
+      "ru": "течь",
+      "fr": "fuite"
     },
     "examples": [],
     "meta": {},
@@ -5512,7 +5719,8 @@ const WORDS_NL_B1 = [
       "pt": "ligado",
       "ja": "縛られた",
       "zh": "束缚的",
-      "ru": "связанный"
+      "ru": "связанный",
+      "fr": "lié"
     },
     "examples": [],
     "meta": {}
@@ -5537,7 +5745,8 @@ const WORDS_NL_B1 = [
       "pt": "o local",
       "ja": "サイト",
       "zh": "场地",
-      "ru": "место"
+      "ru": "место",
+      "fr": "site"
     },
     "examples": [],
     "meta": {},
@@ -5564,7 +5773,8 @@ const WORDS_NL_B1 = [
       "pt": "surpreendente",
       "ja": "驚くべき",
       "zh": "令人惊讶的",
-      "ru": "удивительный"
+      "ru": "удивительный",
+      "fr": "surprenant"
     },
     "examples": [],
     "meta": {}
@@ -5589,7 +5799,8 @@ const WORDS_NL_B1 = [
       "pt": "a impressão",
       "ja": "印刷物",
       "zh": "印刷品",
-      "ru": "отпечаток"
+      "ru": "отпечаток",
+      "fr": "imprimer"
     },
     "examples": [],
     "meta": {},
@@ -5616,7 +5827,8 @@ const WORDS_NL_B1 = [
       "pt": "diferir",
       "ja": "異なる",
       "zh": "不同",
-      "ru": "отличаться"
+      "ru": "отличаться",
+      "fr": "différer"
     },
     "examples": [],
     "meta": {},
@@ -5644,7 +5856,8 @@ const WORDS_NL_B1 = [
       "pt": "o dogue",
       "ja": "ドッグ",
       "zh": "獒犬",
-      "ru": "дог"
+      "ru": "дог",
+      "fr": "mâtin"
     },
     "examples": [],
     "meta": {},
@@ -5671,7 +5884,8 @@ const WORDS_NL_B1 = [
       "pt": "folhear",
       "ja": "閲覧する",
       "zh": "浏览",
-      "ru": "листать"
+      "ru": "листать",
+      "fr": "brouter"
     },
     "examples": [],
     "meta": {},
@@ -5699,7 +5913,8 @@ const WORDS_NL_B1 = [
       "pt": "as folhas",
       "ja": "葉",
       "zh": "叶子",
-      "ru": "листья"
+      "ru": "листья",
+      "fr": "feuilles"
     },
     "examples": [],
     "meta": {},
@@ -5726,7 +5941,8 @@ const WORDS_NL_B1 = [
       "pt": "o empurrão",
       "ja": "突き",
       "zh": "推",
-      "ru": "толчок"
+      "ru": "толчок",
+      "fr": "pousser"
     },
     "examples": [],
     "meta": {},
@@ -5753,7 +5969,8 @@ const WORDS_NL_B1 = [
       "pt": "o diamante",
       "ja": "ダイヤモンド",
       "zh": "钻石",
-      "ru": "алмаз"
+      "ru": "алмаз",
+      "fr": "diamant"
     },
     "examples": [],
     "meta": {},
@@ -5780,7 +5997,8 @@ const WORDS_NL_B1 = [
       "pt": "a gota",
       "ja": "滴",
       "zh": "水滴",
-      "ru": "капля"
+      "ru": "капля",
+      "fr": "goutte"
     },
     "examples": [],
     "meta": {},
@@ -5807,7 +6025,8 @@ const WORDS_NL_B1 = [
       "pt": "a pulseira",
       "ja": "ブレスレット",
       "zh": "手镯",
-      "ru": "браслет"
+      "ru": "браслет",
+      "fr": "bracelet"
     },
     "examples": [],
     "meta": {},
@@ -5834,7 +6053,8 @@ const WORDS_NL_B1 = [
       "pt": "o presunto",
       "ja": "ハム",
       "zh": "火腿",
-      "ru": "ветчина"
+      "ru": "ветчина",
+      "fr": "jambon"
     },
     "examples": [],
     "meta": {},
@@ -5861,7 +6081,8 @@ const WORDS_NL_B1 = [
       "pt": "valorizar",
       "ja": "評価する",
       "zh": "估价",
-      "ru": "ценить"
+      "ru": "ценить",
+      "fr": "valeur"
     },
     "examples": [],
     "meta": {},
@@ -5888,7 +6109,8 @@ const WORDS_NL_B1 = [
       "pt": "o glutão",
       "ja": "大食漢",
       "zh": "饕餮",
-      "ru": "обжора"
+      "ru": "обжора",
+      "fr": "glouton"
     },
     "examples": [],
     "meta": {},
@@ -5915,7 +6137,8 @@ const WORDS_NL_B1 = [
       "pt": "irônico",
       "ja": "皮肉な",
       "zh": "讽刺的",
-      "ru": "ироничный"
+      "ru": "ироничный",
+      "fr": "ironique"
     },
     "examples": [],
     "meta": {}
@@ -5940,7 +6163,8 @@ const WORDS_NL_B1 = [
       "pt": "a gorjeta",
       "ja": "チップ",
       "zh": "小费",
-      "ru": "чаевые"
+      "ru": "чаевые",
+      "fr": "pointe"
     },
     "examples": [],
     "meta": {},
@@ -5966,7 +6190,8 @@ const WORDS_NL_B1 = [
       "pt": "afogar",
       "ja": "溺れる",
       "zh": "溺水",
-      "ru": "тонуть"
+      "ru": "тонуть",
+      "fr": "noyer"
     },
     "examples": [],
     "meta": {},
@@ -5994,7 +6219,8 @@ const WORDS_NL_B1 = [
       "pt": "o lixo",
       "ja": "ごみ",
       "zh": "垃圾",
-      "ru": "мусор"
+      "ru": "мусор",
+      "fr": "ordures"
     },
     "examples": [],
     "meta": {},
@@ -6021,7 +6247,8 @@ const WORDS_NL_B1 = [
       "pt": "antigo",
       "ja": "元の",
       "zh": "前任的",
-      "ru": "бывший"
+      "ru": "бывший",
+      "fr": "ancien"
     },
     "examples": [],
     "meta": {}
@@ -6045,7 +6272,8 @@ const WORDS_NL_B1 = [
       "pt": "rude",
       "ja": "無礼な",
       "zh": "粗鲁的",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "impoli"
     },
     "examples": [],
     "meta": {}
@@ -6069,7 +6297,8 @@ const WORDS_NL_B1 = [
       "pt": "afogado",
       "ja": "溺死した",
       "zh": "淹死的",
-      "ru": "утонувший"
+      "ru": "утонувший",
+      "fr": "noyé"
     },
     "examples": [],
     "meta": {}
@@ -6093,7 +6322,8 @@ const WORDS_NL_B1 = [
       "pt": "a linha reta",
       "ja": "直線",
       "zh": "直线",
-      "ru": "прямая линия"
+      "ru": "прямая линия",
+      "fr": "ligne droite"
     },
     "examples": [],
     "meta": {},
@@ -6120,7 +6350,8 @@ const WORDS_NL_B1 = [
       "pt": "a culpa",
       "ja": "罪悪感",
       "zh": "罪恶感",
-      "ru": "чувство вины"
+      "ru": "чувство вины",
+      "fr": "culpabilité"
     },
     "examples": [],
     "meta": {},
@@ -6147,7 +6378,8 @@ const WORDS_NL_B1 = [
       "pt": "cooperar",
       "ja": "協力する",
       "zh": "合作",
-      "ru": "сотрудничать"
+      "ru": "сотрудничать",
+      "fr": "coopérer"
     },
     "examples": [],
     "meta": {},
@@ -6174,7 +6406,8 @@ const WORDS_NL_B1 = [
       "pt": "revelar",
       "ja": "明らかにする",
       "zh": "揭示",
-      "ru": "раскрывать"
+      "ru": "раскрывать",
+      "fr": "révéler"
     },
     "examples": [],
     "meta": {},
@@ -6202,7 +6435,8 @@ const WORDS_NL_B1 = [
       "pt": "julgar",
       "ja": "判断する",
       "zh": "判断",
-      "ru": "судить"
+      "ru": "судить",
+      "fr": "juger"
     },
     "examples": [],
     "meta": {},
@@ -6230,7 +6464,8 @@ const WORDS_NL_B1 = [
       "pt": "a bochecha",
       "ja": "頬",
       "zh": "脸颊",
-      "ru": "щека"
+      "ru": "щека",
+      "fr": "joue"
     },
     "examples": [],
     "meta": {},
@@ -6257,7 +6492,8 @@ const WORDS_NL_B1 = [
       "pt": "a enfermaria",
       "ja": "医務室",
       "zh": "医务室",
-      "ru": "лазарет"
+      "ru": "лазарет",
+      "fr": "infirmerie"
     },
     "examples": [],
     "meta": {},
@@ -6283,7 +6519,8 @@ const WORDS_NL_B1 = [
       "pt": "metálico",
       "ja": "金属製の",
       "zh": "金属的",
-      "ru": "металлический"
+      "ru": "металлический",
+      "fr": "métal"
     },
     "examples": [],
     "meta": {}
@@ -6308,7 +6545,8 @@ const WORDS_NL_B1 = [
       "pt": "o instituto",
       "ja": "研究所",
       "zh": "机构",
-      "ru": "институт"
+      "ru": "институт",
+      "fr": "institut"
     },
     "examples": [],
     "meta": {},
@@ -6334,7 +6572,8 @@ const WORDS_NL_B1 = [
       "pt": "preparar",
       "ja": "遺体を整える",
       "zh": "整理遗体",
-      "ru": "обмывать"
+      "ru": "обмывать",
+      "fr": "disposer"
     },
     "examples": [],
     "meta": {},
@@ -6361,7 +6600,8 @@ const WORDS_NL_B1 = [
       "pt": "motivado",
       "ja": "意欲的な",
       "zh": "有动力的",
-      "ru": "целеустремленный"
+      "ru": "целеустремленный",
+      "fr": "conduit"
     },
     "examples": [],
     "meta": {}
@@ -6386,7 +6626,8 @@ const WORDS_NL_B1 = [
       "pt": "diferente",
       "ja": "異なる",
       "zh": "不同的",
-      "ru": "различный"
+      "ru": "различный",
+      "fr": "différent"
     },
     "examples": [],
     "meta": {}
@@ -6411,7 +6652,8 @@ const WORDS_NL_B1 = [
       "pt": "pressionar",
       "ja": "押す",
       "zh": "按",
-      "ru": "давить"
+      "ru": "давить",
+      "fr": "presse"
     },
     "examples": [],
     "meta": {},
@@ -6439,7 +6681,8 @@ const WORDS_NL_B1 = [
       "pt": "a patrulha",
       "ja": "パトロール",
       "zh": "巡逻",
-      "ru": "патруль"
+      "ru": "патруль",
+      "fr": "patrouille"
     },
     "examples": [],
     "meta": {},
@@ -6466,7 +6709,8 @@ const WORDS_NL_B1 = [
       "pt": "fevereiro",
       "ja": "2月",
       "zh": "二月",
-      "ru": "февраль"
+      "ru": "февраль",
+      "fr": "février"
     },
     "examples": [],
     "meta": {},
@@ -6493,7 +6737,8 @@ const WORDS_NL_B1 = [
       "pt": "o arroz",
       "ja": "米",
       "zh": "米饭",
-      "ru": "рис"
+      "ru": "рис",
+      "fr": "riz"
     },
     "examples": [],
     "meta": {},
@@ -6520,7 +6765,8 @@ const WORDS_NL_B1 = [
       "pt": "inapropriado",
       "ja": "不適切な",
       "zh": "不恰当的",
-      "ru": "неуместный"
+      "ru": "неуместный",
+      "fr": "inapproprié"
     },
     "examples": [],
     "meta": {}
@@ -6545,7 +6791,8 @@ const WORDS_NL_B1 = [
       "pt": "a mordida",
       "ja": "一口",
       "zh": "一口",
-      "ru": "укус"
+      "ru": "укус",
+      "fr": "morsure"
     },
     "examples": [],
     "meta": {},
@@ -6571,7 +6818,8 @@ const WORDS_NL_B1 = [
       "pt": "o bastardo",
       "ja": "庶子",
       "zh": "私生子",
-      "ru": "бастард"
+      "ru": "бастард",
+      "fr": "bâtard"
     },
     "examples": [],
     "meta": {},
@@ -6598,7 +6846,8 @@ const WORDS_NL_B1 = [
       "pt": "acordar",
       "ja": "起こす",
       "zh": "唤醒",
-      "ru": "будить"
+      "ru": "будить",
+      "fr": "réveiller"
     },
     "examples": [],
     "meta": {},
@@ -6626,7 +6875,8 @@ const WORDS_NL_B1 = [
       "pt": "o copo",
       "ja": "カップ",
       "zh": "杯子",
-      "ru": "чашка"
+      "ru": "чашка",
+      "fr": "tasse"
     },
     "examples": [],
     "meta": {},
@@ -6653,7 +6903,8 @@ const WORDS_NL_B1 = [
       "pt": "aumentar",
       "ja": "増やす",
       "zh": "提高",
-      "ru": "повышать"
+      "ru": "повышать",
+      "fr": "augmenter"
     },
     "examples": [],
     "meta": {},
@@ -6681,7 +6932,8 @@ const WORDS_NL_B1 = [
       "pt": "o orçamento",
       "ja": "予算",
       "zh": "预算",
-      "ru": "бюджет"
+      "ru": "бюджет",
+      "fr": "budget"
     },
     "examples": [],
     "meta": {},
@@ -6708,7 +6960,8 @@ const WORDS_NL_B1 = [
       "pt": "a fraude",
       "ja": "詐欺",
       "zh": "欺诈",
-      "ru": "мошенничество"
+      "ru": "мошенничество",
+      "fr": "fraude"
     },
     "examples": [],
     "meta": {},
@@ -6735,7 +6988,8 @@ const WORDS_NL_B1 = [
       "pt": "olhar",
       "ja": "見る",
       "zh": "看",
-      "ru": "смотреть"
+      "ru": "смотреть",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -6763,7 +7017,8 @@ const WORDS_NL_B1 = [
       "pt": "a reputação",
       "ja": "評判",
       "zh": "声誉",
-      "ru": "репутация"
+      "ru": "репутация",
+      "fr": "réputation"
     },
     "examples": [],
     "meta": {},
@@ -6790,7 +7045,8 @@ const WORDS_NL_B1 = [
       "pt": "tomar café da manhã",
       "ja": "朝食をとる",
       "zh": "吃早餐",
-      "ru": "завтракать"
+      "ru": "завтракать",
+      "fr": "déjeuner"
     },
     "examples": [],
     "meta": {},
@@ -6818,7 +7074,8 @@ const WORDS_NL_B1 = [
       "pt": "o garçom",
       "ja": "ウェイター",
       "zh": "服务员",
-      "ru": "официант"
+      "ru": "официант",
+      "fr": "serveur"
     },
     "examples": [],
     "meta": {},
@@ -6845,7 +7102,8 @@ const WORDS_NL_B1 = [
       "pt": "falido",
       "ja": "破産した",
       "zh": "破产的",
-      "ru": "банкрот"
+      "ru": "банкрот",
+      "fr": "ruiné"
     },
     "examples": [],
     "meta": {}
@@ -6869,7 +7127,8 @@ const WORDS_NL_B1 = [
       "pt": "sufocar",
       "ja": "窒息する",
       "zh": "窒息",
-      "ru": "задыхаться"
+      "ru": "задыхаться",
+      "fr": "étouffer"
     },
     "examples": [],
     "meta": {},
@@ -6897,7 +7156,8 @@ const WORDS_NL_B1 = [
       "pt": "dobrar",
       "ja": "曲げる",
       "zh": "弯曲",
-      "ru": "гнуть"
+      "ru": "гнуть",
+      "fr": "plier"
     },
     "examples": [],
     "meta": {},
@@ -6924,7 +7184,8 @@ const WORDS_NL_B1 = [
       "pt": "tentar",
       "ja": "誘惑する",
       "zh": "诱惑",
-      "ru": "соблазнять"
+      "ru": "соблазнять",
+      "fr": "tenter"
     },
     "examples": [],
     "meta": {},
@@ -6951,7 +7212,8 @@ const WORDS_NL_B1 = [
       "pt": "o palco",
       "ja": "舞台",
       "zh": "舞台",
-      "ru": "сцена"
+      "ru": "сцена",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -6977,7 +7239,8 @@ const WORDS_NL_B1 = [
       "pt": "a garra",
       "ja": "鉤爪",
       "zh": "爪",
-      "ru": "коготь"
+      "ru": "коготь",
+      "fr": "talon"
     },
     "examples": [],
     "meta": {},
@@ -7004,7 +7267,8 @@ const WORDS_NL_B1 = [
       "pt": "o cabeleireiro",
       "ja": "美容師",
       "zh": "理发师",
-      "ru": "парикмахер"
+      "ru": "парикмахер",
+      "fr": "coiffeur"
     },
     "examples": [],
     "meta": {},
@@ -7030,7 +7294,8 @@ const WORDS_NL_B1 = [
       "pt": "o ferrolho",
       "ja": "閂",
       "zh": "门闩",
-      "ru": "засов"
+      "ru": "засов",
+      "fr": "boulon"
     },
     "examples": [],
     "meta": {},
@@ -7057,7 +7322,8 @@ const WORDS_NL_B1 = [
       "pt": "o objeto",
       "ja": "物体",
       "zh": "物体",
-      "ru": "объект"
+      "ru": "объект",
+      "fr": "objet"
     },
     "examples": [],
     "meta": {},
@@ -7084,7 +7350,8 @@ const WORDS_NL_B1 = [
       "pt": "a cabra",
       "ja": "ヤギ",
       "zh": "山羊",
-      "ru": "коза"
+      "ru": "коза",
+      "fr": "chèvre"
     },
     "examples": [],
     "meta": {},
@@ -7111,7 +7378,8 @@ const WORDS_NL_B1 = [
       "pt": "o pescoço",
       "ja": "首",
       "zh": "脖子",
-      "ru": "шея"
+      "ru": "шея",
+      "fr": "cou"
     },
     "examples": [],
     "meta": {},
@@ -7137,7 +7405,8 @@ const WORDS_NL_B1 = [
       "pt": "o barão",
       "ja": "男爵",
       "zh": "男爵",
-      "ru": "барон"
+      "ru": "барон",
+      "fr": "baron"
     },
     "examples": [],
     "meta": {},
@@ -7164,7 +7433,8 @@ const WORDS_NL_B1 = [
       "pt": "espalhar",
       "ja": "塗る",
       "zh": "涂抹",
-      "ru": "мазать"
+      "ru": "мазать",
+      "fr": "étaler"
     },
     "examples": [],
     "meta": {},
@@ -7192,7 +7462,8 @@ const WORDS_NL_B1 = [
       "pt": "o teto",
       "ja": "天井",
       "zh": "天花板",
-      "ru": "потолок"
+      "ru": "потолок",
+      "fr": "plafond"
     },
     "examples": [],
     "meta": {},
@@ -7219,7 +7490,8 @@ const WORDS_NL_B1 = [
       "pt": "o álbum",
       "ja": "アルバム",
       "zh": "相册",
-      "ru": "альбом"
+      "ru": "альбом",
+      "fr": "album"
     },
     "examples": [],
     "meta": {},
@@ -7246,7 +7518,8 @@ const WORDS_NL_B1 = [
       "pt": "gritar",
       "ja": "叫ぶ",
       "zh": "尖叫",
-      "ru": "кричать"
+      "ru": "кричать",
+      "fr": "crier"
     },
     "examples": [],
     "meta": {},
@@ -7274,7 +7547,8 @@ const WORDS_NL_B1 = [
       "pt": "o DVD",
       "ja": "DVD",
       "zh": "DVD",
-      "ru": "DVD"
+      "ru": "DVD",
+      "fr": "DVD"
     },
     "examples": [],
     "meta": {},
@@ -7301,7 +7575,8 @@ const WORDS_NL_B1 = [
       "pt": "para a frente",
       "ja": "前方へ",
       "zh": "向前",
-      "ru": "вперёд"
+      "ru": "вперёд",
+      "fr": "avant"
     },
     "examples": [],
     "meta": {}
@@ -7325,7 +7600,8 @@ const WORDS_NL_B1 = [
       "pt": "a emboscada",
       "ja": "待ち伏せ",
       "zh": "伏击",
-      "ru": "засада"
+      "ru": "засада",
+      "fr": "embuscade"
     },
     "examples": [],
     "meta": {},
@@ -7351,7 +7627,8 @@ const WORDS_NL_B1 = [
       "pt": "meditar",
       "ja": "熟考する",
       "zh": "沉思",
-      "ru": "размышлять"
+      "ru": "размышлять",
+      "fr": "réfléchir"
     },
     "examples": [],
     "meta": {},
@@ -7379,7 +7656,8 @@ const WORDS_NL_B1 = [
       "pt": "jogar fora",
       "ja": "捨てる",
       "zh": "扔掉",
-      "ru": "выбрасывать"
+      "ru": "выбрасывать",
+      "fr": "jeter"
     },
     "examples": [],
     "meta": {},
@@ -7407,7 +7685,8 @@ const WORDS_NL_B1 = [
       "pt": "o ato",
       "ja": "演目",
       "zh": "表演",
-      "ru": "акт"
+      "ru": "акт",
+      "fr": "agir"
     },
     "examples": [],
     "meta": {},
@@ -7433,7 +7712,8 @@ const WORDS_NL_B1 = [
       "pt": "judeu",
       "ja": "ユダヤの",
       "zh": "犹太的",
-      "ru": "еврейский"
+      "ru": "еврейский",
+      "fr": "juif"
     },
     "examples": [],
     "meta": {}
@@ -7458,7 +7738,8 @@ const WORDS_NL_B1 = [
       "pt": "o dia do casamento",
       "ja": "結婚記念日",
       "zh": "结婚纪念日",
-      "ru": "день свадьбы"
+      "ru": "день свадьбы",
+      "fr": "noces"
     },
     "examples": [],
     "meta": {},
@@ -7485,7 +7766,8 @@ const WORDS_NL_B1 = [
       "pt": "furioso",
       "ja": "激怒した",
       "zh": "愤怒的",
-      "ru": "яростный"
+      "ru": "яростный",
+      "fr": "furieux"
     },
     "examples": [],
     "meta": {}
@@ -7510,7 +7792,8 @@ const WORDS_NL_B1 = [
       "pt": "observar",
       "ja": "傍観する",
       "zh": "旁观",
-      "ru": "наблюдать"
+      "ru": "наблюдать",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -7538,7 +7821,8 @@ const WORDS_NL_B1 = [
       "pt": "o correio de voz",
       "ja": "留守番電話",
       "zh": "语音信箱",
-      "ru": "голосовая почта"
+      "ru": "голосовая почта",
+      "fr": "répondeur"
     },
     "examples": [],
     "meta": {},
@@ -7565,7 +7849,8 @@ const WORDS_NL_B1 = [
       "pt": "o basquetebol",
       "ja": "バスケットボール",
       "zh": "篮球",
-      "ru": "баскетбол"
+      "ru": "баскетбол",
+      "fr": "basket"
     },
     "examples": [],
     "meta": {},
@@ -7592,7 +7877,8 @@ const WORDS_NL_B1 = [
       "pt": "a criança",
       "ja": "子供",
       "zh": "孩子",
-      "ru": "ребёнок"
+      "ru": "ребёнок",
+      "fr": "enfant"
     },
     "examples": [],
     "meta": {},
@@ -7618,7 +7904,8 @@ const WORDS_NL_B1 = [
       "pt": "mágico",
       "ja": "魔法の",
       "zh": "神奇的",
-      "ru": "магический"
+      "ru": "магический",
+      "fr": "magique"
     },
     "examples": [],
     "meta": {}
@@ -7643,7 +7930,8 @@ const WORDS_NL_B1 = [
       "pt": "adicionar",
       "ja": "追加する",
       "zh": "添加",
-      "ru": "добавлять"
+      "ru": "добавлять",
+      "fr": "ajouter"
     },
     "examples": [],
     "meta": {},
@@ -7670,7 +7958,8 @@ const WORDS_NL_B1 = [
       "pt": "o pinheiro",
       "ja": "松",
       "zh": "松树",
-      "ru": "сосна"
+      "ru": "сосна",
+      "fr": "pin"
     },
     "examples": [],
     "meta": {},
@@ -7697,7 +7986,8 @@ const WORDS_NL_B1 = [
       "pt": "o jogo",
       "ja": "ゲーム",
       "zh": "游戏",
-      "ru": "игра"
+      "ru": "игра",
+      "fr": "jeu"
     },
     "examples": [],
     "meta": {},
@@ -7724,7 +8014,8 @@ const WORDS_NL_B1 = [
       "pt": "interromper",
       "ja": "邪魔する",
       "zh": "打断",
-      "ru": "прерывать"
+      "ru": "прерывать",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {},
@@ -7752,7 +8043,8 @@ const WORDS_NL_B1 = [
       "pt": "o gesto",
       "ja": "ジェスチャー",
       "zh": "手势",
-      "ru": "жест"
+      "ru": "жест",
+      "fr": "geste"
     },
     "examples": [],
     "meta": {},
@@ -7779,7 +8071,8 @@ const WORDS_NL_B1 = [
       "pt": "honrar",
       "ja": "尊敬する",
       "zh": "尊敬",
-      "ru": "чтить"
+      "ru": "чтить",
+      "fr": "honneur"
     },
     "examples": [],
     "meta": {},
@@ -7807,7 +8100,8 @@ const WORDS_NL_B1 = [
       "pt": "sugar",
       "ja": "吸う",
       "zh": "吸",
-      "ru": "сосать"
+      "ru": "сосать",
+      "fr": "sucer"
     },
     "examples": [],
     "meta": {},
@@ -7835,7 +8129,8 @@ const WORDS_NL_B1 = [
       "pt": "visível",
       "ja": "目に見える",
       "zh": "可见的",
-      "ru": "видимый"
+      "ru": "видимый",
+      "fr": "visible"
     },
     "examples": [],
     "meta": {}
@@ -7860,7 +8155,8 @@ const WORDS_NL_B1 = [
       "pt": "cortar",
       "ja": "切る",
       "zh": "剪",
-      "ru": "резать"
+      "ru": "резать",
+      "fr": "couper"
     },
     "examples": [],
     "meta": {},
@@ -7888,7 +8184,8 @@ const WORDS_NL_B1 = [
       "pt": "tonto",
       "ja": "めまいがする",
       "zh": "头晕的",
-      "ru": "головокружительный"
+      "ru": "головокружительный",
+      "fr": "étourdi"
     },
     "examples": [],
     "meta": {}
@@ -7912,7 +8209,8 @@ const WORDS_NL_B1 = [
       "pt": "assombrar",
       "ja": "出没する",
       "zh": "闹鬼",
-      "ru": "преследовать"
+      "ru": "преследовать",
+      "fr": "hanter"
     },
     "examples": [],
     "meta": {},
@@ -7940,7 +8238,8 @@ const WORDS_NL_B1 = [
       "pt": "algo ruim",
       "ja": "悪いこと",
       "zh": "坏事",
-      "ru": "что-то плохое"
+      "ru": "что-то плохое",
+      "fr": "mal"
     },
     "examples": [],
     "meta": {}
@@ -7964,7 +8263,8 @@ const WORDS_NL_B1 = [
       "pt": "o treze",
       "ja": "13",
       "zh": "十三",
-      "ru": "тринадцать"
+      "ru": "тринадцать",
+      "fr": "treize"
     },
     "examples": [],
     "meta": {},
@@ -7991,7 +8291,8 @@ const WORDS_NL_B1 = [
       "pt": "a rachadura",
       "ja": "ひび",
       "zh": "裂缝",
-      "ru": "трещина"
+      "ru": "трещина",
+      "fr": "fissure"
     },
     "examples": [],
     "meta": {},
@@ -8018,7 +8319,8 @@ const WORDS_NL_B1 = [
       "pt": "a vantagem",
       "ja": "リード",
       "zh": "领先",
-      "ru": "преимущество"
+      "ru": "преимущество",
+      "fr": "plomb"
     },
     "examples": [],
     "meta": {},
@@ -8045,7 +8347,8 @@ const WORDS_NL_B1 = [
       "pt": "distrair",
       "ja": "気をそらす",
       "zh": "分心",
-      "ru": "отвлекать"
+      "ru": "отвлекать",
+      "fr": "distraire"
     },
     "examples": [],
     "meta": {},
@@ -8073,7 +8376,8 @@ const WORDS_NL_B1 = [
       "pt": "o sapo",
       "ja": "カエル",
       "zh": "青蛙",
-      "ru": "лягушка"
+      "ru": "лягушка",
+      "fr": "grenouille"
     },
     "examples": [],
     "meta": {},
@@ -8099,7 +8403,8 @@ const WORDS_NL_B1 = [
       "pt": "o congressista",
       "ja": "議員",
       "zh": "国会议员",
-      "ru": "конгрессмен"
+      "ru": "конгрессмен",
+      "fr": "député"
     },
     "examples": [],
     "meta": {},
@@ -8126,7 +8431,8 @@ const WORDS_NL_B1 = [
       "pt": "apresentar",
       "ja": "提出する",
       "zh": "提交",
-      "ru": "подавать"
+      "ru": "подавать",
+      "fr": "soumettre"
     },
     "examples": [],
     "meta": {},
@@ -8154,7 +8460,8 @@ const WORDS_NL_B1 = [
       "pt": "intacto",
       "ja": "無傷の",
       "zh": "完好无损的",
-      "ru": "нетронутый"
+      "ru": "нетронутый",
+      "fr": "intact"
     },
     "examples": [],
     "meta": {}
@@ -8179,7 +8486,8 @@ const WORDS_NL_B1 = [
       "pt": "o acidente de carro",
       "ja": "自動車事故",
       "zh": "车祸",
-      "ru": "автомобильная авария"
+      "ru": "автомобильная авария",
+      "fr": "accident"
     },
     "examples": [],
     "meta": {},
@@ -8205,7 +8513,8 @@ const WORDS_NL_B1 = [
       "pt": "a esfera",
       "ja": "球",
       "zh": "球体",
-      "ru": "сфера"
+      "ru": "сфера",
+      "fr": "sphère"
     },
     "examples": [],
     "meta": {},
@@ -8231,7 +8540,8 @@ const WORDS_NL_B1 = [
       "pt": "convexo",
       "ja": "凸状の",
       "zh": "凸的",
-      "ru": "выпуклый"
+      "ru": "выпуклый",
+      "fr": "convexe"
     },
     "examples": [],
     "meta": {}
@@ -8256,7 +8566,8 @@ const WORDS_NL_B1 = [
       "pt": "próximo",
       "ja": "親密な",
       "zh": "亲密的",
-      "ru": "близкий"
+      "ru": "близкий",
+      "fr": "fermer"
     },
     "examples": [],
     "meta": {}
@@ -8281,7 +8592,8 @@ const WORDS_NL_B1 = [
       "pt": "irritante",
       "ja": "いらいらさせる",
       "zh": "恼人的",
-      "ru": "раздражающий"
+      "ru": "раздражающий",
+      "fr": "irritant"
     },
     "examples": [],
     "meta": {}
@@ -8305,7 +8617,8 @@ const WORDS_NL_B1 = [
       "pt": "russo",
       "ja": "ロシアの",
       "zh": "俄罗斯的",
-      "ru": "русский"
+      "ru": "русский",
+      "fr": "russe"
     },
     "examples": [],
     "meta": {}
@@ -8329,7 +8642,8 @@ const WORDS_NL_B1 = [
       "pt": "o quatorze",
       "ja": "14",
       "zh": "十四",
-      "ru": "четырнадцать"
+      "ru": "четырнадцать",
+      "fr": "quatorze"
     },
     "examples": [],
     "meta": {},
@@ -8355,7 +8669,8 @@ const WORDS_NL_B1 = [
       "pt": "o cemitério",
       "ja": "墓地",
       "zh": "墓地",
-      "ru": "кладбище"
+      "ru": "кладбище",
+      "fr": "cimetière"
     },
     "examples": [],
     "meta": {},
@@ -8382,7 +8697,8 @@ const WORDS_NL_B1 = [
       "pt": "relevante",
       "ja": "関連する",
       "zh": "相关的",
-      "ru": "релевантный"
+      "ru": "релевантный",
+      "fr": "pertinent"
     },
     "examples": [],
     "meta": {}
@@ -8407,7 +8723,8 @@ const WORDS_NL_B1 = [
       "pt": "a suíte",
       "ja": "スイート",
       "zh": "套房",
-      "ru": "люкс"
+      "ru": "люкс",
+      "fr": "suite"
     },
     "examples": [],
     "meta": {},
@@ -8434,7 +8751,8 @@ const WORDS_NL_B1 = [
       "pt": "a atmosfera",
       "ja": "雰囲気",
       "zh": "气氛",
-      "ru": "атмосфера"
+      "ru": "атмосфера",
+      "fr": "atmosphère"
     },
     "examples": [],
     "meta": {},
@@ -8460,7 +8778,8 @@ const WORDS_NL_B1 = [
       "pt": "a íris",
       "ja": "虹彩",
       "zh": "虹膜",
-      "ru": "радужка"
+      "ru": "радужка",
+      "fr": "iris"
     },
     "examples": [],
     "meta": {},
@@ -8486,7 +8805,8 @@ const WORDS_NL_B1 = [
       "pt": "aninhar",
       "ja": "巣を作る",
       "zh": "筑巢",
-      "ru": "гнездиться"
+      "ru": "гнездиться",
+      "fr": "nicher"
     },
     "examples": [],
     "meta": {},
@@ -8513,7 +8833,8 @@ const WORDS_NL_B1 = [
       "pt": "desparasitar",
       "ja": "シラミを取る",
       "zh": "捉虱子",
-      "ru": "вычесывать вшей"
+      "ru": "вычесывать вшей",
+      "fr": "épouiller"
     },
     "examples": [],
     "meta": {},
@@ -8541,7 +8862,8 @@ const WORDS_NL_B1 = [
       "pt": "alternativo",
       "ja": "代替の",
       "zh": "替代的",
-      "ru": "альтернативный"
+      "ru": "альтернативный",
+      "fr": "alternative"
     },
     "examples": [],
     "meta": {}
@@ -8566,7 +8888,8 @@ const WORDS_NL_B1 = [
       "pt": "a alternativa",
       "ja": "代替案",
       "zh": "替代方案",
-      "ru": "альтернатива"
+      "ru": "альтернатива",
+      "fr": "alternative"
     },
     "examples": [],
     "meta": {},
@@ -8593,7 +8916,8 @@ const WORDS_NL_B1 = [
       "pt": "o entretenimento",
       "ja": "娯楽",
       "zh": "娱乐",
-      "ru": "развлечение"
+      "ru": "развлечение",
+      "fr": "divertissement"
     },
     "examples": [],
     "meta": {},
@@ -8619,7 +8943,8 @@ const WORDS_NL_B1 = [
       "pt": "formado",
       "ja": "形成された",
       "zh": "形成的",
-      "ru": "сформированный"
+      "ru": "сформированный",
+      "fr": "formé"
     },
     "examples": [],
     "meta": {}
@@ -8643,7 +8968,8 @@ const WORDS_NL_B1 = [
       "pt": "a praga",
       "ja": "疫病",
       "zh": "瘟疫",
-      "ru": "чума"
+      "ru": "чума",
+      "fr": "peste"
     },
     "examples": [],
     "meta": {},
@@ -8670,7 +8996,8 @@ const WORDS_NL_B1 = [
       "pt": "o termo",
       "ja": "用語",
       "zh": "术语",
-      "ru": "термин"
+      "ru": "термин",
+      "fr": "terme"
     },
     "examples": [],
     "meta": {},
@@ -8697,7 +9024,8 @@ const WORDS_NL_B1 = [
       "pt": "de madeira",
       "ja": "木製の",
       "zh": "木制的",
-      "ru": "деревянный"
+      "ru": "деревянный",
+      "fr": "en bois"
     },
     "examples": [],
     "meta": {}
@@ -8722,7 +9050,8 @@ const WORDS_NL_B1 = [
       "pt": "explorar",
       "ja": "探索する",
       "zh": "探索",
-      "ru": "исследовать"
+      "ru": "исследовать",
+      "fr": "explorer"
     },
     "examples": [],
     "meta": {},
@@ -8749,7 +9078,8 @@ const WORDS_NL_B1 = [
       "pt": "ileso",
       "ja": "無傷の",
       "zh": "未受伤的",
-      "ru": "невредимый"
+      "ru": "невредимый",
+      "fr": "indemne"
     },
     "examples": [],
     "meta": {}
@@ -8773,7 +9103,8 @@ const WORDS_NL_B1 = [
       "pt": "tocar",
       "ja": "触れる",
       "zh": "触摸",
-      "ru": "трогать"
+      "ru": "трогать",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {},
@@ -8801,7 +9132,8 @@ const WORDS_NL_B1 = [
       "pt": "confuso",
       "ja": "紛らわしい",
       "zh": "令人困惑的",
-      "ru": "запутанный"
+      "ru": "запутанный",
+      "fr": "déroutant"
     },
     "examples": [],
     "meta": {}
@@ -8825,7 +9157,8 @@ const WORDS_NL_B1 = [
       "pt": "o pântano",
       "ja": "沼地",
       "zh": "沼泽",
-      "ru": "болото"
+      "ru": "болото",
+      "fr": "marais"
     },
     "examples": [],
     "meta": {},
@@ -8852,7 +9185,8 @@ const WORDS_NL_B1 = [
       "pt": "surpreender",
       "ja": "驚かせる",
       "zh": "使惊讶",
-      "ru": "удивлять"
+      "ru": "удивлять",
+      "fr": "surprendre"
     },
     "examples": [],
     "meta": {},
@@ -8880,7 +9214,8 @@ const WORDS_NL_B1 = [
       "pt": "vivenciar",
       "ja": "経験する",
       "zh": "体验",
-      "ru": "переживать"
+      "ru": "переживать",
+      "fr": "éprouver"
     },
     "examples": [],
     "meta": {},
@@ -8907,7 +9242,8 @@ const WORDS_NL_B1 = [
       "pt": "desejar",
       "ja": "欲する",
       "zh": "渴望",
-      "ru": "желать"
+      "ru": "желать",
+      "fr": "désirer"
     },
     "examples": [],
     "meta": {},
@@ -8934,7 +9270,8 @@ const WORDS_NL_B1 = [
       "pt": "a flecha",
       "ja": "矢",
       "zh": "箭",
-      "ru": "стрела"
+      "ru": "стрела",
+      "fr": "flèche"
     },
     "examples": [],
     "meta": {},
@@ -8961,7 +9298,8 @@ const WORDS_NL_B1 = [
       "pt": "barbear",
       "ja": "剃る",
       "zh": "刮胡子",
-      "ru": "брить"
+      "ru": "брить",
+      "fr": "raser"
     },
     "examples": [],
     "meta": {},
@@ -8988,7 +9326,8 @@ const WORDS_NL_B1 = [
       "pt": "a casa senhorial",
       "ja": "荘園",
       "zh": "庄园",
-      "ru": "усадьба"
+      "ru": "усадьба",
+      "fr": "manoir"
     },
     "examples": [],
     "meta": {},
@@ -9015,7 +9354,8 @@ const WORDS_NL_B1 = [
       "pt": "a terça-feira",
       "ja": "火曜日",
       "zh": "星期二",
-      "ru": "вторник"
+      "ru": "вторник",
+      "fr": "mardi"
     },
     "examples": [],
     "meta": {},
@@ -9042,7 +9382,8 @@ const WORDS_NL_B1 = [
       "pt": "aliviado",
       "ja": "安堵した",
       "zh": "松了一口气",
-      "ru": "облегченный"
+      "ru": "облегченный",
+      "fr": "soulagé"
     },
     "examples": [],
     "meta": {}
@@ -9067,7 +9408,8 @@ const WORDS_NL_B1 = [
       "pt": "ameaçar",
       "ja": "脅す",
       "zh": "威胁",
-      "ru": "угрожать"
+      "ru": "угрожать",
+      "fr": "menacer"
     },
     "examples": [],
     "meta": {},
@@ -9095,7 +9437,8 @@ const WORDS_NL_B1 = [
       "pt": "o intervalo",
       "ja": "合間",
       "zh": "间隔时间",
-      "ru": "промежуток"
+      "ru": "промежуток",
+      "fr": "intérim"
     },
     "examples": [],
     "meta": {},
@@ -9122,7 +9465,8 @@ const WORDS_NL_B1 = [
       "pt": "a força aérea",
       "ja": "空軍",
       "zh": "空军",
-      "ru": "военно-воздушные силы"
+      "ru": "военно-воздушные силы",
+      "fr": "armée de l'air"
     },
     "examples": [],
     "meta": {},
@@ -9149,7 +9493,8 @@ const WORDS_NL_B1 = [
       "pt": "expandir",
       "ja": "膨張する",
       "zh": "膨胀",
-      "ru": "расширяться"
+      "ru": "расширяться",
+      "fr": "étendre"
     },
     "examples": [],
     "meta": {},
@@ -9177,7 +9522,8 @@ const WORDS_NL_B1 = [
       "pt": "óbvio",
       "ja": "明らかな",
       "zh": "明显的",
-      "ru": "очевидный"
+      "ru": "очевидный",
+      "fr": "évident"
     },
     "examples": [],
     "meta": {}
@@ -9202,7 +9548,8 @@ const WORDS_NL_B1 = [
       "pt": "o sótão",
       "ja": "屋根裏",
       "zh": "阁楼",
-      "ru": "чердак"
+      "ru": "чердак",
+      "fr": "grenier"
     },
     "examples": [],
     "meta": {},
@@ -9229,7 +9576,8 @@ const WORDS_NL_B1 = [
       "pt": "o empregado",
       "ja": "従業員",
       "zh": "雇员",
-      "ru": "служащий"
+      "ru": "служащий",
+      "fr": "employé"
     },
     "examples": [],
     "meta": {},
@@ -9256,7 +9604,8 @@ const WORDS_NL_B1 = [
       "pt": "recente",
       "ja": "最近の",
       "zh": "最近的",
-      "ru": "недавний"
+      "ru": "недавний",
+      "fr": "récent"
     },
     "examples": [],
     "meta": {}
@@ -9281,7 +9630,8 @@ const WORDS_NL_B1 = [
       "pt": "a revista",
       "ja": "雑誌",
       "zh": "杂志",
-      "ru": "журнал"
+      "ru": "журнал",
+      "fr": "magazine"
     },
     "examples": [],
     "meta": {},
@@ -9308,7 +9658,8 @@ const WORDS_NL_B1 = [
       "pt": "o cinto",
       "ja": "ベルト",
       "zh": "腰带",
-      "ru": "пояс"
+      "ru": "пояс",
+      "fr": "ceinture"
     },
     "examples": [],
     "meta": {},
@@ -9335,7 +9686,8 @@ const WORDS_NL_B1 = [
       "pt": "prever",
       "ja": "予測する",
       "zh": "预测",
-      "ru": "предсказывать"
+      "ru": "предсказывать",
+      "fr": "prédire"
     },
     "examples": [],
     "meta": {},
@@ -9364,7 +9716,8 @@ const WORDS_NL_B1 = [
       "pt": "conversar",
       "ja": "話し合う",
       "zh": "谈论",
-      "ru": "выговориться"
+      "ru": "выговориться",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {},
@@ -9392,7 +9745,8 @@ const WORDS_NL_B1 = [
       "pt": "o senado",
       "ja": "元老院",
       "zh": "参议院",
-      "ru": "сенат"
+      "ru": "сенат",
+      "fr": "sénat"
     },
     "examples": [],
     "meta": {},
@@ -9419,7 +9773,8 @@ const WORDS_NL_B1 = [
       "pt": "escapar",
       "ja": "逃れる",
       "zh": "逃脱",
-      "ru": "избежать"
+      "ru": "избежать",
+      "fr": "évasion"
     },
     "examples": [],
     "meta": {},
@@ -9447,7 +9802,8 @@ const WORDS_NL_B1 = [
       "pt": "o cinema",
       "ja": "映画館",
       "zh": "电影院",
-      "ru": "кинотеатр"
+      "ru": "кинотеатр",
+      "fr": "cinéma"
     },
     "examples": [],
     "meta": {},
@@ -9474,7 +9830,8 @@ const WORDS_NL_B1 = [
       "pt": "o vilão",
       "ja": "悪役",
       "zh": "恶棍",
-      "ru": "злодей"
+      "ru": "злодей",
+      "fr": "méchant"
     },
     "examples": [],
     "meta": {},
@@ -9501,7 +9858,8 @@ const WORDS_NL_B1 = [
       "pt": "o vendedor",
       "ja": "販売員",
       "zh": "销售员",
-      "ru": "продавец"
+      "ru": "продавец",
+      "fr": "vendeur"
     },
     "examples": [],
     "meta": {},
@@ -9528,7 +9886,8 @@ const WORDS_NL_B1 = [
       "pt": "aceito",
       "ja": "受け入れられた",
       "zh": "被接受的",
-      "ru": "принятый"
+      "ru": "принятый",
+      "fr": "accepté"
     },
     "examples": [],
     "meta": {}
@@ -9553,7 +9912,8 @@ const WORDS_NL_B1 = [
       "pt": "o fotógrafo",
       "ja": "写真家",
       "zh": "摄影师",
-      "ru": "фотограф"
+      "ru": "фотограф",
+      "fr": "photographe"
     },
     "examples": [],
     "meta": {},
@@ -9580,7 +9940,8 @@ const WORDS_NL_B1 = [
       "pt": "a vila",
       "ja": "別荘",
       "zh": "别墅",
-      "ru": "вилла"
+      "ru": "вилла",
+      "fr": "villa"
     },
     "examples": [],
     "meta": {},
@@ -9607,7 +9968,8 @@ const WORDS_NL_B1 = [
       "pt": "a curva",
       "ja": "カーブ",
       "zh": "弯道",
-      "ru": "изгиб"
+      "ru": "изгиб",
+      "fr": "courber"
     },
     "examples": [],
     "meta": {},
@@ -9634,7 +9996,8 @@ const WORDS_NL_B1 = [
       "pt": "derramar",
       "ja": "注ぐ",
       "zh": "倾倒",
-      "ru": "лить"
+      "ru": "лить",
+      "fr": "verser"
     },
     "examples": [],
     "meta": {},
@@ -9661,7 +10024,8 @@ const WORDS_NL_B1 = [
       "pt": "fundido",
       "ja": "鋳造された",
       "zh": "铸造的",
-      "ru": "литой"
+      "ru": "литой",
+      "fr": "jeter"
     },
     "examples": [],
     "meta": {}
@@ -9686,7 +10050,8 @@ const WORDS_NL_B1 = [
       "pt": "a oração",
       "ja": "祈り",
       "zh": "祈祷",
-      "ru": "молитва"
+      "ru": "молитва",
+      "fr": "prière"
     },
     "examples": [],
     "meta": {},
@@ -9713,7 +10078,8 @@ const WORDS_NL_B1 = [
       "pt": "a vagina",
       "ja": "膣",
       "zh": "阴道",
-      "ru": "влагалище"
+      "ru": "влагалище",
+      "fr": "vagin"
     },
     "examples": [],
     "meta": {},
@@ -9740,7 +10106,8 @@ const WORDS_NL_B1 = [
       "pt": "o gênero",
       "ja": "性別",
       "zh": "性别",
-      "ru": "пол"
+      "ru": "пол",
+      "fr": "genre"
     },
     "examples": [],
     "meta": {},
@@ -9767,7 +10134,8 @@ const WORDS_NL_B1 = [
       "pt": "o pôr do sol",
       "ja": "日没",
       "zh": "日落",
-      "ru": "закат"
+      "ru": "закат",
+      "fr": "cadre"
     },
     "examples": [],
     "meta": {},
@@ -9794,7 +10162,8 @@ const WORDS_NL_B1 = [
       "pt": "o pônei",
       "ja": "ポニー",
       "zh": "小马",
-      "ru": "пони"
+      "ru": "пони",
+      "fr": "poney"
     },
     "examples": [],
     "meta": {},
@@ -9821,7 +10190,8 @@ const WORDS_NL_B1 = [
       "pt": "flamejar",
       "ja": "炎を上げる",
       "zh": "燃烧",
-      "ru": "пылать"
+      "ru": "пылать",
+      "fr": "flamber"
     },
     "examples": [],
     "meta": {},
@@ -9849,7 +10219,8 @@ const WORDS_NL_B1 = [
       "pt": "lançar",
       "ja": "投げる",
       "zh": "投掷",
-      "ru": "бросать"
+      "ru": "бросать",
+      "fr": "jeter"
     },
     "examples": [],
     "meta": {},
@@ -9877,7 +10248,8 @@ const WORDS_NL_B1 = [
       "pt": "estudar muito",
       "ja": "詰め込む",
       "zh": "临时抱佛脚",
-      "ru": "зубрить"
+      "ru": "зубрить",
+      "fr": "entasser"
     },
     "examples": [],
     "meta": {},
@@ -9905,7 +10277,8 @@ const WORDS_NL_B1 = [
       "pt": "o arco",
       "ja": "弓",
       "zh": "弓",
-      "ru": "лук"
+      "ru": "лук",
+      "fr": "arc"
     },
     "examples": [],
     "meta": {},
@@ -9932,7 +10305,8 @@ const WORDS_NL_B1 = [
       "pt": "deprimido",
       "ja": "落ち込んだ",
       "zh": "沮丧的",
-      "ru": "подавленный"
+      "ru": "подавленный",
+      "fr": "bas"
     },
     "examples": [],
     "meta": {}
@@ -9956,7 +10330,8 @@ const WORDS_NL_B1 = [
       "pt": "o quark down",
       "ja": "ダウンクォーク",
       "zh": "下夸克",
-      "ru": "нижний кварк"
+      "ru": "нижний кварк",
+      "fr": "quark bas"
     },
     "examples": [],
     "meta": {},
@@ -9983,7 +10358,8 @@ const WORDS_NL_B1 = [
       "pt": "alugado",
       "ja": "賃貸の",
       "zh": "租用的",
-      "ru": "арендованный"
+      "ru": "арендованный",
+      "fr": "loué"
     },
     "examples": [],
     "meta": {}
@@ -10008,7 +10384,8 @@ const WORDS_NL_B1 = [
       "pt": "distinto",
       "ja": "著名な",
       "zh": "杰出的",
-      "ru": "знатный"
+      "ru": "знатный",
+      "fr": "distingué"
     },
     "examples": [],
     "meta": {}
@@ -10033,7 +10410,8 @@ const WORDS_NL_B1 = [
       "pt": "a salsicha",
       "ja": "ソーセージ",
       "zh": "香肠",
-      "ru": "колбаса"
+      "ru": "колбаса",
+      "fr": "saucisse"
     },
     "examples": [],
     "meta": {},
@@ -10059,7 +10437,8 @@ const WORDS_NL_B1 = [
       "pt": "seguir",
       "ja": "尾行する",
       "zh": "跟踪",
-      "ru": "следить"
+      "ru": "следить",
+      "fr": "suivre"
     },
     "examples": [],
     "meta": {},
@@ -10087,7 +10466,8 @@ const WORDS_NL_B1 = [
       "pt": "os fogos de artifício",
       "ja": "花火",
       "zh": "烟花",
-      "ru": "фейерверк"
+      "ru": "фейерверк",
+      "fr": "feux d'artifice"
     },
     "examples": [],
     "meta": {},
@@ -10114,7 +10494,8 @@ const WORDS_NL_B1 = [
       "pt": "o cinza",
       "ja": "灰色",
       "zh": "灰色",
-      "ru": "серый цвет"
+      "ru": "серый цвет",
+      "fr": "gris"
     },
     "examples": [],
     "meta": {},
@@ -10141,7 +10522,8 @@ const WORDS_NL_B1 = [
       "pt": "cinza",
       "ja": "灰色の",
       "zh": "灰色的",
-      "ru": "серый"
+      "ru": "серый",
+      "fr": "gris"
     },
     "examples": [],
     "meta": {}
@@ -10166,7 +10548,8 @@ const WORDS_NL_B1 = [
       "pt": "remoto",
       "ja": "離れた",
       "zh": "偏远的",
-      "ru": "отдалённый"
+      "ru": "отдалённый",
+      "fr": "éloigné"
     },
     "examples": [],
     "meta": {}
@@ -10191,7 +10574,8 @@ const WORDS_NL_B1 = [
       "pt": "o touro",
       "ja": "雄牛",
       "zh": "公牛",
-      "ru": "бык"
+      "ru": "бык",
+      "fr": "taureau"
     },
     "examples": [],
     "meta": {},
@@ -10218,7 +10602,8 @@ const WORDS_NL_B1 = [
       "pt": "semelhante",
       "ja": "同様の",
       "zh": "相似的",
-      "ru": "похожий"
+      "ru": "похожий",
+      "fr": "similaire"
     },
     "examples": [],
     "meta": {}
@@ -10243,7 +10628,8 @@ const WORDS_NL_B1 = [
       "pt": "ligar",
       "ja": "縛る",
       "zh": "捆绑",
-      "ru": "связывать"
+      "ru": "связывать",
+      "fr": "lier"
     },
     "examples": [],
     "meta": {},
@@ -10271,7 +10657,8 @@ const WORDS_NL_B1 = [
       "pt": "flertar",
       "ja": "いちゃつく",
       "zh": "调情",
-      "ru": "флиртовать"
+      "ru": "флиртовать",
+      "fr": "flirter"
     },
     "examples": [],
     "meta": {},
@@ -10299,7 +10686,8 @@ const WORDS_NL_B1 = [
       "pt": "travesso",
       "ja": "いたずらな",
       "zh": "淘气的",
-      "ru": "непослушный"
+      "ru": "непослушный",
+      "fr": "vilain"
     },
     "examples": [],
     "meta": {}
@@ -10324,7 +10712,8 @@ const WORDS_NL_B1 = [
       "pt": "fazer greve",
       "ja": "ストライキをする",
       "zh": "罢工",
-      "ru": "бастовать"
+      "ru": "бастовать",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {},
@@ -10351,7 +10740,8 @@ const WORDS_NL_B1 = [
       "pt": "a prisão domiciliar",
       "ja": "自宅軟禁",
       "zh": "软禁",
-      "ru": "домашний арест"
+      "ru": "домашний арест",
+      "fr": "assignation à résidence"
     },
     "examples": [],
     "meta": {},
@@ -10378,7 +10768,8 @@ const WORDS_NL_B1 = [
       "pt": "permanecer",
       "ja": "滞在する",
       "zh": "停留",
-      "ru": "оставаться"
+      "ru": "оставаться",
+      "fr": "séjour"
     },
     "examples": [],
     "meta": {},
@@ -10406,7 +10797,8 @@ const WORDS_NL_B1 = [
       "pt": "a proposta",
       "ja": "プロポーズ",
       "zh": "求婚",
-      "ru": "предложение"
+      "ru": "предложение",
+      "fr": "proposition"
     },
     "examples": [],
     "meta": {},
@@ -10433,7 +10825,8 @@ const WORDS_NL_B1 = [
       "pt": "frear",
       "ja": "ブレーキをかける",
       "zh": "刹车",
-      "ru": "тормозить"
+      "ru": "тормозить",
+      "fr": "frein"
     },
     "examples": [],
     "meta": {},
@@ -10461,7 +10854,8 @@ const WORDS_NL_B1 = [
       "pt": "parecer",
       "ja": "見える",
       "zh": "似乎",
-      "ru": "казаться"
+      "ru": "казаться",
+      "fr": "sembler"
     },
     "examples": [],
     "meta": {},
@@ -10489,7 +10883,8 @@ const WORDS_NL_B1 = [
       "pt": "consultar",
       "ja": "協議する",
       "zh": "商议",
-      "ru": "советоваться"
+      "ru": "советоваться",
+      "fr": "consulter"
     },
     "examples": [],
     "meta": {},
@@ -10516,7 +10911,8 @@ const WORDS_NL_B1 = [
       "pt": "minerar",
       "ja": "採掘する",
       "zh": "开采",
-      "ru": "добывать"
+      "ru": "добывать",
+      "fr": "mine"
     },
     "examples": [],
     "meta": {},
@@ -10544,7 +10940,8 @@ const WORDS_NL_B1 = [
       "pt": "o colega de quarto",
       "ja": "ルームメイト",
       "zh": "室友",
-      "ru": "сосед по комнате"
+      "ru": "сосед по комнате",
+      "fr": "colocataire"
     },
     "examples": [],
     "meta": {},
@@ -10571,7 +10968,8 @@ const WORDS_NL_B1 = [
       "pt": "permitir",
       "ja": "許可する",
       "zh": "允许",
-      "ru": "разрешать"
+      "ru": "разрешать",
+      "fr": "permettre"
     },
     "examples": [],
     "meta": {},
@@ -10598,7 +10996,8 @@ const WORDS_NL_B1 = [
       "pt": "o ideal",
       "ja": "理想",
       "zh": "理想",
-      "ru": "идеал"
+      "ru": "идеал",
+      "fr": "idéal"
     },
     "examples": [],
     "meta": {},
@@ -10625,7 +11024,8 @@ const WORDS_NL_B1 = [
       "pt": "ideal",
       "ja": "理想的な",
       "zh": "理想的",
-      "ru": "идеальный"
+      "ru": "идеальный",
+      "fr": "idéal"
     },
     "examples": [],
     "meta": {}
@@ -10650,7 +11050,8 @@ const WORDS_NL_B1 = [
       "pt": "o porteiro",
       "ja": "管理人",
       "zh": "看门人",
-      "ru": "вахтёр"
+      "ru": "вахтёр",
+      "fr": "concierge"
     },
     "examples": [],
     "meta": {},
@@ -10677,7 +11078,8 @@ const WORDS_NL_B1 = [
       "pt": "o quarto de hotel",
       "ja": "ホテルの部屋",
       "zh": "酒店房间",
-      "ru": "гостиничный номер"
+      "ru": "гостиничный номер",
+      "fr": "chambre d'hôtel"
     },
     "examples": [],
     "meta": {},
@@ -10704,7 +11106,8 @@ const WORDS_NL_B1 = [
       "pt": "fresco",
       "ja": "涼しい",
       "zh": "凉爽的",
-      "ru": "прохладный"
+      "ru": "прохладный",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {}
@@ -10728,7 +11131,8 @@ const WORDS_NL_B1 = [
       "pt": "o padre",
       "ja": "神父",
       "zh": "神父",
-      "ru": "священник"
+      "ru": "священник",
+      "fr": "père"
     },
     "examples": [],
     "meta": {},
@@ -10754,7 +11158,8 @@ const WORDS_NL_B1 = [
       "pt": "arrombar",
       "ja": "侵入する",
       "zh": "闯入",
-      "ru": "взламывать"
+      "ru": "взламывать",
+      "fr": "cambriolage"
     },
     "examples": [],
     "meta": {},
@@ -10782,7 +11187,8 @@ const WORDS_NL_B1 = [
       "pt": "a superfície",
       "ja": "表面",
       "zh": "表面",
-      "ru": "поверхность"
+      "ru": "поверхность",
+      "fr": "surface"
     },
     "examples": [],
     "meta": {},
@@ -10808,7 +11214,8 @@ const WORDS_NL_B1 = [
       "pt": "o duque",
       "ja": "公爵",
       "zh": "公爵",
-      "ru": "герцог"
+      "ru": "герцог",
+      "fr": "duc"
     },
     "examples": [],
     "meta": {},
@@ -10835,7 +11242,8 @@ const WORDS_NL_B1 = [
       "pt": "o penteado",
       "ja": "髪型",
       "zh": "发型",
-      "ru": "причёска"
+      "ru": "причёска",
+      "fr": "coiffure"
     },
     "examples": [],
     "meta": {},
@@ -10862,7 +11270,8 @@ const WORDS_NL_B1 = [
       "pt": "o software",
       "ja": "ソフトウェア",
       "zh": "软件",
-      "ru": "программное обеспечение"
+      "ru": "программное обеспечение",
+      "fr": "logiciel"
     },
     "examples": [],
     "meta": {},
@@ -10888,7 +11297,8 @@ const WORDS_NL_B1 = [
       "pt": "o bunker",
       "ja": "バンカー",
       "zh": "碉堡",
-      "ru": "бункер"
+      "ru": "бункер",
+      "fr": "bunker"
     },
     "examples": [],
     "meta": {},
@@ -10914,7 +11324,8 @@ const WORDS_NL_B1 = [
       "pt": "o hospício",
       "ja": "精神病院",
       "zh": "疯人院",
-      "ru": "сумасшедший дом"
+      "ru": "сумасшедший дом",
+      "fr": "asile"
     },
     "examples": [],
     "meta": {},
@@ -10941,7 +11352,8 @@ const WORDS_NL_B1 = [
       "pt": "o dedo do pé",
       "ja": "つま先",
       "zh": "脚趾",
-      "ru": "палец ноги"
+      "ru": "палец ноги",
+      "fr": "orteil"
     },
     "examples": [],
     "meta": {},
@@ -10967,7 +11379,8 @@ const WORDS_NL_B1 = [
       "pt": "a morfina",
       "ja": "モルヒネ",
       "zh": "吗啡",
-      "ru": "морфин"
+      "ru": "морфин",
+      "fr": "morphine"
     },
     "examples": [],
     "meta": {},
@@ -10994,7 +11407,8 @@ const WORDS_NL_B1 = [
       "pt": "duríssimo",
       "ja": "非常に硬い",
       "zh": "坚硬的",
-      "ru": "каменный"
+      "ru": "каменный",
+      "fr": "dur"
     },
     "examples": [],
     "meta": {}
@@ -11019,7 +11433,8 @@ const WORDS_NL_B1 = [
       "pt": "incerto",
       "ja": "不確かな",
       "zh": "不确定的",
-      "ru": "неопределённый"
+      "ru": "неопределённый",
+      "fr": "incertain"
     },
     "examples": [],
     "meta": {}
@@ -11044,7 +11459,8 @@ const WORDS_NL_B1 = [
       "pt": "proveniente",
       "ja": "由来する",
       "zh": "来自",
-      "ru": "происходящий"
+      "ru": "происходящий",
+      "fr": "provenant"
     },
     "examples": [],
     "meta": {}
@@ -11069,7 +11485,8 @@ const WORDS_NL_B1 = [
       "pt": "a cena",
       "ja": "シーン",
       "zh": "场景",
-      "ru": "сцена"
+      "ru": "сцена",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -11096,7 +11513,8 @@ const WORDS_NL_B1 = [
       "pt": "a educação",
       "ja": "教育",
       "zh": "教育",
-      "ru": "образование"
+      "ru": "образование",
+      "fr": "éducation"
     },
     "examples": [],
     "meta": {},
@@ -11122,7 +11540,8 @@ const WORDS_NL_B1 = [
       "pt": "conquistar",
       "ja": "征服する",
       "zh": "征服",
-      "ru": "завоевывать"
+      "ru": "завоевывать",
+      "fr": "conquérir"
     },
     "examples": [],
     "meta": {},
@@ -11150,7 +11569,8 @@ const WORDS_NL_B1 = [
       "pt": "a peça",
       "ja": "演劇",
       "zh": "戏剧",
-      "ru": "пьеса"
+      "ru": "пьеса",
+      "fr": "jouer"
     },
     "examples": [],
     "meta": {},
@@ -11177,7 +11597,8 @@ const WORDS_NL_B1 = [
       "pt": "o conflito",
       "ja": "紛争",
       "zh": "冲突",
-      "ru": "конфликт"
+      "ru": "конфликт",
+      "fr": "conflit"
     },
     "examples": [],
     "meta": {},
@@ -11204,7 +11625,8 @@ const WORDS_NL_B1 = [
       "pt": "o rim",
       "ja": "腎臓",
       "zh": "肾",
-      "ru": "почка"
+      "ru": "почка",
+      "fr": "rein"
     },
     "examples": [],
     "meta": {},
@@ -11231,7 +11653,8 @@ const WORDS_NL_B1 = [
       "pt": "a subida",
       "ja": "登山",
       "zh": "攀登",
-      "ru": "подъем"
+      "ru": "подъем",
+      "fr": "grimper"
     },
     "examples": [],
     "meta": {},
@@ -11258,7 +11681,8 @@ const WORDS_NL_B1 = [
       "pt": "construído",
       "ja": "構築された",
       "zh": "建成",
-      "ru": "построенный"
+      "ru": "построенный",
+      "fr": "accumulé"
     },
     "examples": [],
     "meta": {}
@@ -11283,7 +11707,8 @@ const WORDS_NL_B1 = [
       "pt": "liso",
       "ja": "滑らかな",
       "zh": "光滑的",
-      "ru": "гладкий"
+      "ru": "гладкий",
+      "fr": "lisse"
     },
     "examples": [],
     "meta": {}
@@ -11308,7 +11733,8 @@ const WORDS_NL_B1 = [
       "pt": "o abrigo",
       "ja": "避難所",
       "zh": "住所",
-      "ru": "приют"
+      "ru": "приют",
+      "fr": "abri"
     },
     "examples": [],
     "meta": {},
@@ -11335,7 +11761,8 @@ const WORDS_NL_B1 = [
       "pt": "o negócio",
       "ja": "ビジネス",
       "zh": "商业",
-      "ru": "бизнес"
+      "ru": "бизнес",
+      "fr": "affaires"
     },
     "examples": [],
     "meta": {},
@@ -11361,7 +11788,8 @@ const WORDS_NL_B1 = [
       "pt": "o escândalo",
       "ja": "スキャンダル",
       "zh": "丑闻",
-      "ru": "скандал"
+      "ru": "скандал",
+      "fr": "scandale"
     },
     "examples": [],
     "meta": {},
@@ -11388,7 +11816,8 @@ const WORDS_NL_B1 = [
       "pt": "digno",
       "ja": "価値のある",
       "zh": "值得的",
-      "ru": "достойный"
+      "ru": "достойный",
+      "fr": "digne"
     },
     "examples": [],
     "meta": {}
@@ -11413,7 +11842,8 @@ const WORDS_NL_B1 = [
       "pt": "realizar",
       "ja": "実現する",
       "zh": "实现",
-      "ru": "реализовать"
+      "ru": "реализовать",
+      "fr": "réaliser"
     },
     "examples": [],
     "meta": {},
@@ -11440,7 +11870,8 @@ const WORDS_NL_B1 = [
       "pt": "o protesto",
       "ja": "抗議",
       "zh": "抗议",
-      "ru": "протест"
+      "ru": "протест",
+      "fr": "protester"
     },
     "examples": [],
     "meta": {},
@@ -11467,7 +11898,8 @@ const WORDS_NL_B1 = [
       "pt": "a caligrafia",
       "ja": "手書き",
       "zh": "笔迹",
-      "ru": "почерк"
+      "ru": "почерк",
+      "fr": "écriture"
     },
     "examples": [],
     "meta": {},
@@ -11494,7 +11926,8 @@ const WORDS_NL_B1 = [
       "pt": "a testa",
       "ja": "額",
       "zh": "额头",
-      "ru": "лоб"
+      "ru": "лоб",
+      "fr": "front"
     },
     "examples": [],
     "meta": {},
@@ -11521,7 +11954,8 @@ const WORDS_NL_B1 = [
       "pt": "o arbusto",
       "ja": "茂み",
       "zh": "灌木",
-      "ru": "куст"
+      "ru": "куст",
+      "fr": "buisson"
     },
     "examples": [],
     "meta": {},
@@ -11548,7 +11982,8 @@ const WORDS_NL_B1 = [
       "pt": "o guarda florestal",
       "ja": "レンジャー",
       "zh": "护林员",
-      "ru": "рейнджер"
+      "ru": "рейнджер",
+      "fr": "garde"
     },
     "examples": [],
     "meta": {},
@@ -11575,7 +12010,8 @@ const WORDS_NL_B1 = [
       "pt": "a compaixão",
       "ja": "同情",
       "zh": "同情",
-      "ru": "сострадание"
+      "ru": "сострадание",
+      "fr": "compassion"
     },
     "examples": [],
     "meta": {},
@@ -11602,7 +12038,8 @@ const WORDS_NL_B1 = [
       "pt": "compadecer",
       "ja": "同情する",
       "zh": "同情",
-      "ru": "сочувствовать"
+      "ru": "сочувствовать",
+      "fr": "compatir"
     },
     "examples": [],
     "meta": {},
@@ -11630,7 +12067,8 @@ const WORDS_NL_B1 = [
       "pt": "constatar",
       "ja": "確認する",
       "zh": "查明",
-      "ru": "устанавливать"
+      "ru": "устанавливать",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {},
@@ -11658,7 +12096,8 @@ const WORDS_NL_B1 = [
       "pt": "o elfo",
       "ja": "エルフ",
       "zh": "精灵",
-      "ru": "эльф"
+      "ru": "эльф",
+      "fr": "elfe"
     },
     "examples": [],
     "meta": {},
@@ -11685,7 +12124,8 @@ const WORDS_NL_B1 = [
       "pt": "sétimo",
       "ja": "第七の",
       "zh": "第七",
-      "ru": "седьмой"
+      "ru": "седьмой",
+      "fr": "septième"
     },
     "examples": [],
     "meta": {}
@@ -11710,7 +12150,8 @@ const WORDS_NL_B1 = [
       "pt": "recuperar",
       "ja": "取り戻す",
       "zh": "取回",
-      "ru": "вернуть"
+      "ru": "вернуть",
+      "fr": "récupérer"
     },
     "examples": [],
     "meta": {},
@@ -11737,7 +12178,8 @@ const WORDS_NL_B1 = [
       "pt": "a propriedade",
       "ja": "領地",
       "zh": "庄园",
-      "ru": "поместье"
+      "ru": "поместье",
+      "fr": "domaine"
     },
     "examples": [],
     "meta": {},
@@ -11764,7 +12206,8 @@ const WORDS_NL_B1 = [
       "pt": "a fórmula",
       "ja": "公式",
       "zh": "公式",
-      "ru": "формула"
+      "ru": "формула",
+      "fr": "formule"
     },
     "examples": [],
     "meta": {},
@@ -11791,7 +12234,8 @@ const WORDS_NL_B1 = [
       "pt": "inesperado",
       "ja": "予期せぬ",
       "zh": "意外的",
-      "ru": "неожиданный"
+      "ru": "неожиданный",
+      "fr": "inattendu"
     },
     "examples": [],
     "meta": {}
@@ -11815,7 +12259,8 @@ const WORDS_NL_B1 = [
       "pt": "o maçarico-de-bico-direito",
       "ja": "オグロシギ",
       "zh": "黑尾塍鹬",
-      "ru": "большой веретенник"
+      "ru": "большой веретенник",
+      "fr": "barge"
     },
     "examples": [],
     "meta": {},
@@ -11842,7 +12287,8 @@ const WORDS_NL_B1 = [
       "pt": "a gripe",
       "ja": "インフルエンザ",
       "zh": "流感",
-      "ru": "грипп"
+      "ru": "грипп",
+      "fr": "grippe"
     },
     "examples": [],
     "meta": {},
@@ -11869,7 +12315,8 @@ const WORDS_NL_B1 = [
       "pt": "gerir",
       "ja": "運営する",
       "zh": "经营",
-      "ru": "управлять"
+      "ru": "управлять",
+      "fr": "courir"
     },
     "examples": [],
     "meta": {},
@@ -11897,7 +12344,8 @@ const WORDS_NL_B1 = [
       "pt": "o campo",
       "ja": "田舎",
       "zh": "乡村",
-      "ru": "сельская местность"
+      "ru": "сельская местность",
+      "fr": "campagne"
     },
     "examples": [],
     "meta": {},
@@ -11924,7 +12372,8 @@ const WORDS_NL_B1 = [
       "pt": "o moleiro",
       "ja": "粉屋",
       "zh": "磨坊主",
-      "ru": "мельник"
+      "ru": "мельник",
+      "fr": "meunier"
     },
     "examples": [],
     "meta": {},
@@ -11951,7 +12400,8 @@ const WORDS_NL_B1 = [
       "pt": "o mergulho",
       "ja": "飛び込み",
       "zh": "跳水",
-      "ru": "нырок"
+      "ru": "нырок",
+      "fr": "plonger"
     },
     "examples": [],
     "meta": {},
@@ -11977,7 +12427,8 @@ const WORDS_NL_B1 = [
       "pt": "o marechal",
       "ja": "保安官",
       "zh": "法警",
-      "ru": "маршал"
+      "ru": "маршал",
+      "fr": "maréchal"
     },
     "examples": [],
     "meta": {},
@@ -12004,7 +12455,8 @@ const WORDS_NL_B1 = [
       "pt": "tirar",
       "ja": "奪う",
       "zh": "夺走",
-      "ru": "отбирать"
+      "ru": "отбирать",
+      "fr": "emporter"
     },
     "examples": [],
     "meta": {},
@@ -12031,7 +12483,8 @@ const WORDS_NL_B1 = [
       "pt": "arrepiante",
       "ja": "不気味な",
       "zh": "令人毛骨悚然的",
-      "ru": "жуткий"
+      "ru": "жуткий",
+      "fr": "effrayant"
     },
     "examples": [],
     "meta": {}
@@ -12056,7 +12509,8 @@ const WORDS_NL_B1 = [
       "pt": "leal",
       "ja": "忠実な",
       "zh": "忠诚的",
-      "ru": "лояльный"
+      "ru": "лояльный",
+      "fr": "loyal"
     },
     "examples": [],
     "meta": {}
@@ -12081,7 +12535,8 @@ const WORDS_NL_B1 = [
       "pt": "a ordem",
       "ja": "順序",
       "zh": "顺序",
-      "ru": "порядок"
+      "ru": "порядок",
+      "fr": "ordre"
     },
     "examples": [],
     "meta": {},
@@ -12108,7 +12563,8 @@ const WORDS_NL_B1 = [
       "pt": "o balde",
       "ja": "バケツ",
       "zh": "水桶",
-      "ru": "ведро"
+      "ru": "ведро",
+      "fr": "seau"
     },
     "examples": [],
     "meta": {},
@@ -12135,7 +12591,8 @@ const WORDS_NL_B1 = [
       "pt": "de Emmen",
       "ja": "エメンの",
       "zh": "埃门的",
-      "ru": "эмменский"
+      "ru": "эмменский",
+      "fr": "d'Emmen"
     },
     "examples": [],
     "meta": {}
@@ -12160,7 +12617,8 @@ const WORDS_NL_B1 = [
       "pt": "o mel",
       "ja": "蜂蜜",
       "zh": "蜂蜜",
-      "ru": "мёд"
+      "ru": "мёд",
+      "fr": "miel"
     },
     "examples": [],
     "meta": {},
@@ -12187,7 +12645,8 @@ const WORDS_NL_B1 = [
       "pt": "entreter",
       "ja": "楽しませる",
       "zh": "娱乐",
-      "ru": "развлекать"
+      "ru": "развлекать",
+      "fr": "divertir"
     },
     "examples": [],
     "meta": {},
@@ -12215,7 +12674,8 @@ const WORDS_NL_B1 = [
       "pt": "o outono",
       "ja": "秋",
       "zh": "秋天",
-      "ru": "осень"
+      "ru": "осень",
+      "fr": "automne"
     },
     "examples": [],
     "meta": {},
@@ -12241,7 +12701,8 @@ const WORDS_NL_B1 = [
       "pt": "desfeito",
       "ja": "元に戻された",
       "zh": "未完成的",
-      "ru": "отменённый"
+      "ru": "отменённый",
+      "fr": "défait"
     },
     "examples": [],
     "meta": {}
@@ -12266,7 +12727,8 @@ const WORDS_NL_B1 = [
       "pt": "a autoconfiança",
       "ja": "自信",
       "zh": "自信",
-      "ru": "самоуверенность"
+      "ru": "самоуверенность",
+      "fr": "confiance en soi"
     },
     "examples": [],
     "meta": {},
@@ -12293,7 +12755,8 @@ const WORDS_NL_B1 = [
       "pt": "a polícia de investigação",
       "ja": "捜査課",
       "zh": "侦查部门",
-      "ru": "отдел расследований"
+      "ru": "отдел расследований",
+      "fr": "service de détective"
     },
     "examples": [],
     "meta": {},
@@ -12320,7 +12783,8 @@ const WORDS_NL_B1 = [
       "pt": "o laboratório",
       "ja": "実験室",
       "zh": "实验室",
-      "ru": "лаборатория"
+      "ru": "лаборатория",
+      "fr": "laboratoire"
     },
     "examples": [],
     "meta": {},
@@ -12347,7 +12811,8 @@ const WORDS_NL_B1 = [
       "pt": "paciente",
       "ja": "忍耐強い",
       "zh": "耐心的",
-      "ru": "терпеливый"
+      "ru": "терпеливый",
+      "fr": "patient"
     },
     "examples": [],
     "meta": {}
@@ -12372,7 +12837,8 @@ const WORDS_NL_B1 = [
       "pt": "o treinador",
       "ja": "トレーナー",
       "zh": "训练员",
-      "ru": "тренер"
+      "ru": "тренер",
+      "fr": "entraîneur"
     },
     "examples": [],
     "meta": {},
@@ -12399,7 +12865,8 @@ const WORDS_NL_B1 = [
       "pt": "decente",
       "ja": "きちんとした",
       "zh": "正派的",
-      "ru": "приличный"
+      "ru": "приличный",
+      "fr": "décent"
     },
     "examples": [],
     "meta": {}
@@ -12424,7 +12891,8 @@ const WORDS_NL_B1 = [
       "pt": "verificar",
       "ja": "確認する",
       "zh": "核实",
-      "ru": "проверять"
+      "ru": "проверять",
+      "fr": "vérifier"
     },
     "examples": [],
     "meta": {},
@@ -12452,7 +12920,8 @@ const WORDS_NL_B1 = [
       "pt": "apropriado",
       "ja": "適切な",
       "zh": "适当的",
-      "ru": "уместный"
+      "ru": "уместный",
+      "fr": "approprié"
     },
     "examples": [],
     "meta": {}
@@ -12477,7 +12946,8 @@ const WORDS_NL_B1 = [
       "pt": "estacionado",
       "ja": "駐車された",
       "zh": "停放的",
-      "ru": "припаркованный"
+      "ru": "припаркованный",
+      "fr": "garé"
     },
     "examples": [],
     "meta": {}
@@ -12502,7 +12972,8 @@ const WORDS_NL_B1 = [
       "pt": "assinar",
       "ja": "署名する",
       "zh": "签署",
-      "ru": "подписывать"
+      "ru": "подписывать",
+      "fr": "signe"
     },
     "examples": [],
     "meta": {},
@@ -12530,7 +13001,8 @@ const WORDS_NL_B1 = [
       "pt": "o horário",
       "ja": "スケジュール",
       "zh": "时间表",
-      "ru": "расписание"
+      "ru": "расписание",
+      "fr": "calendrier"
     },
     "examples": [],
     "meta": {},
@@ -12557,7 +13029,8 @@ const WORDS_NL_B1 = [
       "pt": "a mancha",
       "ja": "染み",
       "zh": "污渍",
-      "ru": "пятно"
+      "ru": "пятно",
+      "fr": "tache"
     },
     "examples": [],
     "meta": {},
@@ -12584,7 +13057,8 @@ const WORDS_NL_B1 = [
       "pt": "o ponto de vista",
       "ja": "視点",
       "zh": "观点",
-      "ru": "точка зрения"
+      "ru": "точка зрения",
+      "fr": "point de vue"
     },
     "examples": [],
     "meta": {},
@@ -12611,7 +13085,8 @@ const WORDS_NL_B1 = [
       "pt": "a barbada",
       "ja": "簡単なこと",
       "zh": "容易的事",
-      "ru": "пустяк"
+      "ru": "пустяк",
+      "fr": "facile"
     },
     "examples": [],
     "meta": {},
@@ -12638,7 +13113,8 @@ const WORDS_NL_B1 = [
       "pt": "confidencial",
       "ja": "機密の",
       "zh": "机密的",
-      "ru": "конфиденциальный"
+      "ru": "конфиденциальный",
+      "fr": "confidentiel"
     },
     "examples": [],
     "meta": {}
@@ -12662,7 +13138,8 @@ const WORDS_NL_B1 = [
       "pt": "diabólico",
       "ja": "悪魔のような",
       "zh": "恶魔般的",
-      "ru": "дьявольский"
+      "ru": "дьявольский",
+      "fr": "diabolique"
     },
     "examples": [],
     "meta": {}
@@ -12687,7 +13164,8 @@ const WORDS_NL_B1 = [
       "pt": "a carteira",
       "ja": "財布",
       "zh": "钱包",
-      "ru": "кошелек"
+      "ru": "кошелек",
+      "fr": "portefeuille"
     },
     "examples": [],
     "meta": {},
@@ -12713,7 +13191,8 @@ const WORDS_NL_B1 = [
       "pt": "o campo de batalha",
       "ja": "戦場",
       "zh": "战场",
-      "ru": "поле битвы"
+      "ru": "поле битвы",
+      "fr": "champ de bataille"
     },
     "examples": [],
     "meta": {},
@@ -12740,7 +13219,8 @@ const WORDS_NL_B1 = [
       "pt": "a pontuação",
       "ja": "得点",
       "zh": "分数",
-      "ru": "счет"
+      "ru": "счет",
+      "fr": "score"
     },
     "examples": [],
     "meta": {},
@@ -12767,7 +13247,8 @@ const WORDS_NL_B1 = [
       "pt": "improvável",
       "ja": "ありそうもない",
       "zh": "不太可能的",
-      "ru": "невероятный"
+      "ru": "невероятный",
+      "fr": "improbable"
     },
     "examples": [],
     "meta": {}
@@ -12792,7 +13273,8 @@ const WORDS_NL_B1 = [
       "pt": "produzir",
       "ja": "生産する",
       "zh": "生产",
-      "ru": "производить"
+      "ru": "производить",
+      "fr": "produire"
     },
     "examples": [],
     "meta": {},
@@ -12819,7 +13301,8 @@ const WORDS_NL_B1 = [
       "pt": "discreto",
       "ja": "控えめな",
       "zh": "低调的",
-      "ru": "притихший"
+      "ru": "притихший",
+      "fr": "discret"
     },
     "examples": [],
     "meta": {}
@@ -12843,7 +13326,8 @@ const WORDS_NL_B1 = [
       "pt": "extraterrestre",
       "ja": "宇宙の",
       "zh": "外星的",
-      "ru": "внеземной"
+      "ru": "внеземной",
+      "fr": "extraterrestre"
     },
     "examples": [],
     "meta": {}
@@ -12867,7 +13351,8 @@ const WORDS_NL_B1 = [
       "pt": "os escombros",
       "ja": "瓦礫",
       "zh": "瓦砾",
-      "ru": "обломки"
+      "ru": "обломки",
+      "fr": "décombres"
     },
     "examples": [],
     "meta": {},
@@ -12894,7 +13379,8 @@ const WORDS_NL_B1 = [
       "pt": "o traseiro",
       "ja": "お尻",
       "zh": "屁股",
-      "ru": "зад"
+      "ru": "зад",
+      "fr": "fond"
     },
     "examples": [],
     "meta": {},
@@ -12921,7 +13407,8 @@ const WORDS_NL_B1 = [
       "pt": "decorar",
       "ja": "飾る",
       "zh": "装饰",
-      "ru": "украшать"
+      "ru": "украшать",
+      "fr": "décorer"
     },
     "examples": [],
     "meta": {},
@@ -12948,7 +13435,8 @@ const WORDS_NL_B1 = [
       "pt": "ir embora",
       "ja": "立ち去る",
       "zh": "滚开",
-      "ru": "убираться"
+      "ru": "убираться",
+      "fr": "partir"
     },
     "examples": [],
     "meta": {},
@@ -12976,7 +13464,8 @@ const WORDS_NL_B1 = [
       "pt": "a raposa",
       "ja": "キツネ",
       "zh": "狐狸",
-      "ru": "лиса"
+      "ru": "лиса",
+      "fr": "renard"
     },
     "examples": [],
     "meta": {},
@@ -13003,7 +13492,8 @@ const WORDS_NL_B1 = [
       "pt": "atuar",
       "ja": "演じる",
       "zh": "表演",
-      "ru": "играть"
+      "ru": "играть",
+      "fr": "agir"
     },
     "examples": [],
     "meta": {},
@@ -13031,7 +13521,8 @@ const WORDS_NL_B1 = [
       "pt": "andar de bicicleta",
       "ja": "自転車に乗る",
       "zh": "骑自行车",
-      "ru": "ездить на велосипеде"
+      "ru": "ездить на велосипеде",
+      "fr": "cycle"
     },
     "examples": [],
     "meta": {},
@@ -13059,7 +13550,8 @@ const WORDS_NL_B1 = [
       "pt": "discreto",
       "ja": "控えめな",
       "zh": "谨慎的",
-      "ru": "сдержанный"
+      "ru": "сдержанный",
+      "fr": "discret"
     },
     "examples": [],
     "meta": {}
@@ -13084,7 +13576,8 @@ const WORDS_NL_B1 = [
       "pt": "educar",
       "ja": "育てる",
       "zh": "抚养",
-      "ru": "воспитывать"
+      "ru": "воспитывать",
+      "fr": "élever"
     },
     "examples": [],
     "meta": {},
@@ -13111,7 +13604,8 @@ const WORDS_NL_B1 = [
       "pt": "o trapaceiro",
       "ja": "詐欺師",
       "zh": "骗子",
-      "ru": "обманщик"
+      "ru": "обманщик",
+      "fr": "trompeur"
     },
     "examples": [],
     "meta": {},
@@ -13137,7 +13631,8 @@ const WORDS_NL_B1 = [
       "pt": "mandar",
       "ja": "威張る",
       "zh": "颐指气使",
-      "ru": "командовать"
+      "ru": "командовать",
+      "fr": "commander"
     },
     "examples": [],
     "meta": {},
@@ -13164,7 +13659,8 @@ const WORDS_NL_B1 = [
       "pt": "a fiança",
       "ja": "保釈金",
       "zh": "保释金",
-      "ru": "залог"
+      "ru": "залог",
+      "fr": "caution"
     },
     "examples": [],
     "meta": {},
@@ -13191,7 +13687,8 @@ const WORDS_NL_B1 = [
       "pt": "financeiro",
       "ja": "財政的な",
       "zh": "财政的",
-      "ru": "финансовый"
+      "ru": "финансовый",
+      "fr": "financier"
     },
     "examples": [],
     "meta": {}
@@ -13215,7 +13712,8 @@ const WORDS_NL_B1 = [
       "pt": "gasto",
       "ja": "使われた",
       "zh": "花费的",
-      "ru": "потраченный"
+      "ru": "потраченный",
+      "fr": "dépensé"
     },
     "examples": [],
     "meta": {}
@@ -13240,7 +13738,8 @@ const WORDS_NL_B1 = [
       "pt": "o beijo",
       "ja": "キス",
       "zh": "吻",
-      "ru": "поцелуй"
+      "ru": "поцелуй",
+      "fr": "baiser"
     },
     "examples": [],
     "meta": {},
@@ -13267,7 +13766,8 @@ const WORDS_NL_B1 = [
       "pt": "garantir",
       "ja": "保証する",
       "zh": "保证",
-      "ru": "гарантировать"
+      "ru": "гарантировать",
+      "fr": "garantir"
     },
     "examples": [],
     "meta": {},
@@ -13295,7 +13795,8 @@ const WORDS_NL_B1 = [
       "pt": "compartilhado",
       "ja": "共有された",
       "zh": "共享的",
-      "ru": "общий"
+      "ru": "общий",
+      "fr": "partagé"
     },
     "examples": [],
     "meta": {}
@@ -13320,7 +13821,8 @@ const WORDS_NL_B1 = [
       "pt": "informar",
       "ja": "知らせる",
       "zh": "通知",
-      "ru": "информировать"
+      "ru": "информировать",
+      "fr": "informer"
     },
     "examples": [],
     "meta": {},
@@ -13347,7 +13849,8 @@ const WORDS_NL_B1 = [
       "pt": "chapado",
       "ja": "ハイになった",
       "zh": "吸毒后的",
-      "ru": "обкуренный"
+      "ru": "обкуренный",
+      "fr": "défoncé"
     },
     "examples": [],
     "meta": {}
@@ -13372,7 +13875,8 @@ const WORDS_NL_B1 = [
       "pt": "naquela época",
       "ja": "当時",
       "zh": "当时",
-      "ru": "тогда"
+      "ru": "тогда",
+      "fr": "à ce moment"
     },
     "examples": [],
     "meta": {}
@@ -13396,7 +13900,8 @@ const WORDS_NL_B1 = [
       "pt": "a armadilha",
       "ja": "罠",
       "zh": "陷阱",
-      "ru": "ловушка"
+      "ru": "ловушка",
+      "fr": "piège"
     },
     "examples": [],
     "meta": {},
@@ -13423,7 +13928,8 @@ const WORDS_NL_B1 = [
       "pt": "amado",
       "ja": "愛されている",
       "zh": "受喜爱的",
-      "ru": "любимый"
+      "ru": "любимый",
+      "fr": "bien-aimé"
     },
     "examples": [],
     "meta": {}
@@ -13448,7 +13954,8 @@ const WORDS_NL_B1 = [
       "pt": "superar",
       "ja": "克服する",
       "zh": "克服",
-      "ru": "преодолевать"
+      "ru": "преодолевать",
+      "fr": "surmonter"
     },
     "examples": [],
     "meta": {},
@@ -13476,7 +13983,8 @@ const WORDS_NL_B1 = [
       "pt": "crescer",
       "ja": "成長する",
       "zh": "成长",
-      "ru": "расти"
+      "ru": "расти",
+      "fr": "grandir"
     },
     "examples": [],
     "meta": {},
@@ -13504,7 +14012,8 @@ const WORDS_NL_B1 = [
       "pt": "construir",
       "ja": "築き上げる",
       "zh": "建立",
-      "ru": "строить"
+      "ru": "строить",
+      "fr": "construire"
     },
     "examples": [],
     "meta": {},
@@ -13532,7 +14041,8 @@ const WORDS_NL_B1 = [
       "pt": "eficaz",
       "ja": "効果的な",
       "zh": "有效的",
-      "ru": "эффективный"
+      "ru": "эффективный",
+      "fr": "efficace"
     },
     "examples": [],
     "meta": {}
@@ -13557,7 +14067,8 @@ const WORDS_NL_B1 = [
       "pt": "rasgar",
       "ja": "引き裂く",
       "zh": "撕裂",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "déchirure"
     },
     "examples": [],
     "meta": {},
@@ -13584,7 +14095,8 @@ const WORDS_NL_B1 = [
       "pt": "o dó",
       "ja": "ド",
       "zh": "哆",
-      "ru": "до"
+      "ru": "до",
+      "fr": "faire"
     },
     "examples": [],
     "meta": {},
@@ -13611,7 +14123,8 @@ const WORDS_NL_B1 = [
       "pt": "abrir",
       "ja": "開ける",
       "zh": "打开",
-      "ru": "открывать"
+      "ru": "открывать",
+      "fr": "ouvrir"
     },
     "examples": [],
     "meta": {},
@@ -13639,7 +14152,8 @@ const WORDS_NL_B1 = [
       "pt": "a droga",
       "ja": "薬物",
       "zh": "毒品",
-      "ru": "наркотик"
+      "ru": "наркотик",
+      "fr": "drogue"
     },
     "examples": [],
     "meta": {},
@@ -13666,7 +14180,8 @@ const WORDS_NL_B1 = [
       "pt": "evitar",
       "ja": "避ける",
       "zh": "避免",
-      "ru": "избегать"
+      "ru": "избегать",
+      "fr": "éviter"
     },
     "examples": [],
     "meta": {},
@@ -13694,7 +14209,8 @@ const WORDS_NL_B1 = [
       "pt": "a calçada",
       "ja": "歩道",
       "zh": "人行道",
-      "ru": "тротуар"
+      "ru": "тротуар",
+      "fr": "trottoir"
     },
     "examples": [],
     "meta": {},
@@ -13720,7 +14236,8 @@ const WORDS_NL_B1 = [
       "pt": "a unidade",
       "ja": "単位",
       "zh": "单位",
-      "ru": "единица"
+      "ru": "единица",
+      "fr": "unité"
     },
     "examples": [],
     "meta": {},
@@ -13747,7 +14264,8 @@ const WORDS_NL_B1 = [
       "pt": "o prato",
       "ja": "料理",
       "zh": "菜肴",
-      "ru": "блюдо"
+      "ru": "блюдо",
+      "fr": "plat"
     },
     "examples": [],
     "meta": {},
@@ -13773,7 +14291,8 @@ const WORDS_NL_B1 = [
       "pt": "justo",
       "ja": "正当な",
       "zh": "正义的",
-      "ru": "справедливый"
+      "ru": "справедливый",
+      "fr": "juste"
     },
     "examples": [],
     "meta": {}
@@ -13797,7 +14316,8 @@ const WORDS_NL_B1 = [
       "pt": "insano",
       "ja": "狂気の",
       "zh": "疯狂的",
-      "ru": "безумный"
+      "ru": "безумный",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -13822,7 +14342,8 @@ const WORDS_NL_B1 = [
       "pt": "o exterior",
       "ja": "外側",
       "zh": "外部",
-      "ru": "снаружи"
+      "ru": "снаружи",
+      "fr": "dehors"
     },
     "examples": [],
     "meta": {},
@@ -13849,7 +14370,8 @@ const WORDS_NL_B1 = [
       "pt": "deslizar",
       "ja": "滑る",
       "zh": "滑动",
-      "ru": "скользить"
+      "ru": "скользить",
+      "fr": "glisser"
     },
     "examples": [],
     "meta": {},
@@ -13877,7 +14399,8 @@ const WORDS_NL_B1 = [
       "pt": "o quebra-cabeça",
       "ja": "パズル",
       "zh": "拼图",
-      "ru": "головоломка"
+      "ru": "головоломка",
+      "fr": "puzzle"
     },
     "examples": [],
     "meta": {},
@@ -13903,7 +14426,8 @@ const WORDS_NL_B1 = [
       "pt": "o zero",
       "ja": "ゼロ",
       "zh": "零",
-      "ru": "ноль"
+      "ru": "ноль",
+      "fr": "zéro"
     },
     "examples": [],
     "meta": {},
@@ -13931,7 +14455,8 @@ const WORDS_NL_B1 = [
       "pt": "zangado",
       "ja": "怒っている",
       "zh": "生气的",
-      "ru": "сердитый"
+      "ru": "сердитый",
+      "fr": "fâché"
     },
     "examples": [],
     "meta": {}
@@ -13956,7 +14481,8 @@ const WORDS_NL_B1 = [
       "pt": "perturbar",
       "ja": "邪魔する",
       "zh": "打扰",
-      "ru": "нарушать"
+      "ru": "нарушать",
+      "fr": "déranger"
     },
     "examples": [],
     "meta": {},
@@ -13984,7 +14510,8 @@ const WORDS_NL_B1 = [
       "pt": "gelado",
       "ja": "氷のように冷たい",
       "zh": "冰冷的",
-      "ru": "ледяной"
+      "ru": "ледяной",
+      "fr": "glacial"
     },
     "examples": [],
     "meta": {}
@@ -14009,7 +14536,8 @@ const WORDS_NL_B1 = [
       "pt": "o galho",
       "ja": "枝",
       "zh": "树枝",
-      "ru": "ветка"
+      "ru": "ветка",
+      "fr": "branche"
     },
     "examples": [],
     "meta": {},
@@ -14036,7 +14564,8 @@ const WORDS_NL_B1 = [
       "pt": "o curso",
       "ja": "コース",
       "zh": "课程",
-      "ru": "курс"
+      "ru": "курс",
+      "fr": "cours"
     },
     "examples": [],
     "meta": {},
@@ -14063,7 +14592,8 @@ const WORDS_NL_B1 = [
       "pt": "o suco",
       "ja": "ジュース",
       "zh": "果汁",
-      "ru": "сок"
+      "ru": "сок",
+      "fr": "jus"
     },
     "examples": [],
     "meta": {},
@@ -14089,7 +14619,8 @@ const WORDS_NL_B1 = [
       "pt": "reservado",
       "ja": "控えめな",
       "zh": "内向的",
-      "ru": "сдержанный"
+      "ru": "сдержанный",
+      "fr": "réservé"
     },
     "examples": [],
     "meta": {}
@@ -14114,7 +14645,8 @@ const WORDS_NL_B1 = [
       "pt": "abraçar",
       "ja": "抱きしめる",
       "zh": "拥抱",
-      "ru": "обнимать"
+      "ru": "обнимать",
+      "fr": "câlin"
     },
     "examples": [],
     "meta": {},
@@ -14142,7 +14674,8 @@ const WORDS_NL_B1 = [
       "pt": "recuperar",
       "ja": "回復する",
       "zh": "恢复",
-      "ru": "восстанавливаться"
+      "ru": "восстанавливаться",
+      "fr": "récupérer"
     },
     "examples": [],
     "meta": {},
@@ -14170,7 +14703,8 @@ const WORDS_NL_B1 = [
       "pt": "o viva",
       "ja": "万歳",
       "zh": "万岁",
-      "ru": "ура"
+      "ru": "ура",
+      "fr": "hourra"
     },
     "examples": [],
     "meta": {},
@@ -14197,7 +14731,8 @@ const WORDS_NL_B1 = [
       "pt": "o foco",
       "ja": "焦点",
       "zh": "焦点",
-      "ru": "фокус"
+      "ru": "фокус",
+      "fr": "concentrer"
     },
     "examples": [],
     "meta": {},
@@ -14223,7 +14758,8 @@ const WORDS_NL_B1 = [
       "pt": "de nogueira",
       "ja": "クルミの",
       "zh": "核桃木制的",
-      "ru": "ореховый"
+      "ru": "ореховый",
+      "fr": "noix"
     },
     "examples": [],
     "meta": {}
@@ -14248,7 +14784,8 @@ const WORDS_NL_B1 = [
       "pt": "organizado",
       "ja": "組織的な",
       "zh": "有组织的",
-      "ru": "организованный"
+      "ru": "организованный",
+      "fr": "organisé"
     },
     "examples": [],
     "meta": {}
@@ -14272,7 +14809,8 @@ const WORDS_NL_B1 = [
       "pt": "o necrotério",
       "ja": "遺体安置所",
       "zh": "太平间",
-      "ru": "морг"
+      "ru": "морг",
+      "fr": "morgue"
     },
     "examples": [],
     "meta": {},
@@ -14298,7 +14836,8 @@ const WORDS_NL_B1 = [
       "pt": "o acumulador",
       "ja": "貯蓄家",
       "zh": "囤积者",
-      "ru": "накопитель"
+      "ru": "накопитель",
+      "fr": "accumulateur"
     },
     "examples": [],
     "meta": {},
@@ -14325,7 +14864,8 @@ const WORDS_NL_B1 = [
       "pt": "dividir",
       "ja": "分ける",
       "zh": "分配",
-      "ru": "делить"
+      "ru": "делить",
+      "fr": "diviser"
     },
     "examples": [],
     "meta": {},
@@ -14353,7 +14893,8 @@ const WORDS_NL_B1 = [
       "pt": "o dezoito",
       "ja": "十八",
       "zh": "十八",
-      "ru": "восемнадцать"
+      "ru": "восемнадцать",
+      "fr": "dix-huit"
     },
     "examples": [],
     "meta": {},
@@ -14380,7 +14921,8 @@ const WORDS_NL_B1 = [
       "pt": "a velocidade",
       "ja": "速度",
       "zh": "速度",
-      "ru": "скорость"
+      "ru": "скорость",
+      "fr": "vitesse"
     },
     "examples": [],
     "meta": {},
@@ -14407,7 +14949,8 @@ const WORDS_NL_B1 = [
       "pt": "automático",
       "ja": "自動の",
       "zh": "自动的",
-      "ru": "автоматический"
+      "ru": "автоматический",
+      "fr": "automatique"
     },
     "examples": [],
     "meta": {}
@@ -14432,7 +14975,8 @@ const WORDS_NL_B1 = [
       "pt": "a reserva",
       "ja": "予備",
       "zh": "储备",
-      "ru": "резерв"
+      "ru": "резерв",
+      "fr": "réserve"
     },
     "examples": [],
     "meta": {},
@@ -14459,7 +15003,8 @@ const WORDS_NL_B1 = [
       "pt": "o bônus",
       "ja": "ボーナス",
       "zh": "奖金",
-      "ru": "бонус"
+      "ru": "бонус",
+      "fr": "bonus"
     },
     "examples": [],
     "meta": {},
@@ -14485,7 +15030,8 @@ const WORDS_NL_B1 = [
       "pt": "o cravo",
       "ja": "スパイク",
       "zh": "钉鞋钉",
-      "ru": "шип"
+      "ru": "шип",
+      "fr": "pointe"
     },
     "examples": [],
     "meta": {},
@@ -14512,7 +15058,8 @@ const WORDS_NL_B1 = [
       "pt": "o carrinho",
       "ja": "カート",
       "zh": "推车",
-      "ru": "тележка"
+      "ru": "тележка",
+      "fr": "chariot"
     },
     "examples": [],
     "meta": {},
@@ -14539,7 +15086,8 @@ const WORDS_NL_B1 = [
       "pt": "aborrecer",
       "ja": "退屈させる",
       "zh": "使厌烦",
-      "ru": "надоедать"
+      "ru": "надоедать",
+      "fr": "ennuyer"
     },
     "examples": [],
     "meta": {},
@@ -14567,7 +15115,8 @@ const WORDS_NL_B1 = [
       "pt": "careca",
       "ja": "禿げた",
       "zh": "秃头的",
-      "ru": "лысый"
+      "ru": "лысый",
+      "fr": "chauve"
     },
     "examples": [],
     "meta": {}
@@ -14591,7 +15140,8 @@ const WORDS_NL_B1 = [
       "pt": "a comunidade judaica",
       "ja": "ユダヤ人コミュニティ",
       "zh": "犹太社区",
-      "ru": "еврейская община"
+      "ru": "еврейская община",
+      "fr": "communauté juive"
     },
     "examples": [],
     "meta": {},
@@ -14617,7 +15167,8 @@ const WORDS_NL_B1 = [
       "pt": "guerrear",
       "ja": "戦争する",
       "zh": "作战",
-      "ru": "воевать"
+      "ru": "воевать",
+      "fr": "faire la guerre"
     },
     "examples": [],
     "meta": {},
@@ -14645,7 +15196,8 @@ const WORDS_NL_B1 = [
       "pt": "a tatuagem",
       "ja": "タトゥー",
       "zh": "纹身",
-      "ru": "татуировка"
+      "ru": "татуировка",
+      "fr": "tatouage"
     },
     "examples": [],
     "meta": {},
@@ -14671,7 +15223,8 @@ const WORDS_NL_B1 = [
       "pt": "analisar",
       "ja": "分析する",
       "zh": "分析",
-      "ru": "анализировать"
+      "ru": "анализировать",
+      "fr": "analyser"
     },
     "examples": [],
     "meta": {},
@@ -14699,7 +15252,8 @@ const WORDS_NL_B1 = [
       "pt": "o resultado",
       "ja": "結果",
       "zh": "结果",
-      "ru": "исход"
+      "ru": "исход",
+      "fr": "résultat"
     },
     "examples": [],
     "meta": {},
@@ -14726,7 +15280,8 @@ const WORDS_NL_B1 = [
       "pt": "a turnê",
       "ja": "ツアー",
       "zh": "旅游",
-      "ru": "тур"
+      "ru": "тур",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -14753,7 +15308,8 @@ const WORDS_NL_B1 = [
       "pt": "fazer travessuras",
       "ja": "いたずらをする",
       "zh": "恶作剧",
-      "ru": "проказничать"
+      "ru": "проказничать",
+      "fr": "faire des bêtises"
     },
     "examples": [],
     "meta": {},
@@ -14781,7 +15337,8 @@ const WORDS_NL_B1 = [
       "pt": "o chocolate",
       "ja": "チョコレート",
       "zh": "巧克力",
-      "ru": "шоколад"
+      "ru": "шоколад",
+      "fr": "chocolat"
     },
     "examples": [],
     "meta": {},
@@ -14808,7 +15365,8 @@ const WORDS_NL_B1 = [
       "pt": "concernir",
       "ja": "関する",
       "zh": "涉及",
-      "ru": "касаться"
+      "ru": "касаться",
+      "fr": "préoccupation"
     },
     "examples": [],
     "meta": {},
@@ -14836,7 +15394,8 @@ const WORDS_NL_B1 = [
       "pt": "o interior",
       "ja": "内側",
       "zh": "内部",
-      "ru": "внутренняя сторона"
+      "ru": "внутренняя сторона",
+      "fr": "intérieur"
     },
     "examples": [],
     "meta": {},
@@ -14863,7 +15422,8 @@ const WORDS_NL_B1 = [
       "pt": "científico",
       "ja": "科学的な",
       "zh": "科学的",
-      "ru": "научный"
+      "ru": "научный",
+      "fr": "scientifique"
     },
     "examples": [],
     "meta": {}
@@ -14888,7 +15448,8 @@ const WORDS_NL_B1 = [
       "pt": "o desespero",
       "ja": "絶望",
       "zh": "绝望",
-      "ru": "отчаяние"
+      "ru": "отчаяние",
+      "fr": "désespoir"
     },
     "examples": [],
     "meta": {},
@@ -14915,7 +15476,8 @@ const WORDS_NL_B1 = [
       "pt": "decidir",
       "ja": "決定する",
       "zh": "决定",
-      "ru": "решать"
+      "ru": "решать",
+      "fr": "décider"
     },
     "examples": [],
     "meta": {},
@@ -14943,7 +15505,8 @@ const WORDS_NL_B1 = [
       "pt": "medir",
       "ja": "測定する",
       "zh": "测量",
-      "ru": "измерять"
+      "ru": "измерять",
+      "fr": "mesurer"
     },
     "examples": [],
     "meta": {},
@@ -14971,7 +15534,8 @@ const WORDS_NL_B1 = [
       "pt": "inventar",
       "ja": "発明する",
       "zh": "发明",
-      "ru": "изобретать"
+      "ru": "изобретать",
+      "fr": "inventer"
     },
     "examples": [],
     "meta": {},
@@ -14999,7 +15563,8 @@ const WORDS_NL_B1 = [
       "pt": "a pipoca",
       "ja": "ポップコーン",
       "zh": "爆米花",
-      "ru": "попкорн"
+      "ru": "попкорн",
+      "fr": "popcorn"
     },
     "examples": [],
     "meta": {},
@@ -15026,7 +15591,8 @@ const WORDS_NL_B1 = [
       "pt": "a pimenta",
       "ja": "唐辛子",
       "zh": "辣椒",
-      "ru": "перец чили"
+      "ru": "перец чили",
+      "fr": "piment"
     },
     "examples": [],
     "meta": {},
@@ -15053,7 +15619,8 @@ const WORDS_NL_B1 = [
       "pt": "o contêiner",
       "ja": "コンテナ",
       "zh": "集装箱",
-      "ru": "контейнер"
+      "ru": "контейнер",
+      "fr": "récipient"
     },
     "examples": [],
     "meta": {},
@@ -15080,7 +15647,8 @@ const WORDS_NL_B1 = [
       "pt": "áspero",
       "ja": "粗い",
       "zh": "粗糙的",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "rugueux"
     },
     "examples": [],
     "meta": {}
@@ -15105,7 +15673,8 @@ const WORDS_NL_B1 = [
       "pt": "ingênuo",
       "ja": "素朴な",
       "zh": "天真的",
-      "ru": "наивный"
+      "ru": "наивный",
+      "fr": "naïf"
     },
     "examples": [],
     "meta": {}
@@ -15130,7 +15699,8 @@ const WORDS_NL_B1 = [
       "pt": "o queixo",
       "ja": "顎",
       "zh": "下巴",
-      "ru": "подбородок"
+      "ru": "подбородок",
+      "fr": "menton"
     },
     "examples": [],
     "meta": {},
@@ -15157,7 +15727,8 @@ const WORDS_NL_B1 = [
       "pt": "render",
       "ja": "生み出す",
       "zh": "产生",
-      "ru": "приносить"
+      "ru": "приносить",
+      "fr": "céder"
     },
     "examples": [],
     "meta": {},
@@ -15185,7 +15756,8 @@ const WORDS_NL_B1 = [
       "pt": "o sucesso",
       "ja": "ヒット曲",
       "zh": "热门歌曲",
-      "ru": "хит"
+      "ru": "хит",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {},
@@ -15212,7 +15784,8 @@ const WORDS_NL_B1 = [
       "pt": "a nuvem",
       "ja": "雲",
       "zh": "云",
-      "ru": "облако"
+      "ru": "облако",
+      "fr": "nuage"
     },
     "examples": [],
     "meta": {},
@@ -15239,7 +15812,8 @@ const WORDS_NL_B1 = [
       "pt": "lutar",
       "ja": "戦う",
       "zh": "战斗",
-      "ru": "бороться"
+      "ru": "бороться",
+      "fr": "combattre"
     },
     "examples": [],
     "meta": {},
@@ -15267,7 +15841,8 @@ const WORDS_NL_B1 = [
       "pt": "pegar",
       "ja": "拾う",
       "zh": "接",
-      "ru": "подбирать"
+      "ru": "подбирать",
+      "fr": "ramasser"
     },
     "examples": [],
     "meta": {},
@@ -15295,7 +15870,8 @@ const WORDS_NL_B1 = [
       "pt": "saltar",
       "ja": "跳ねる",
       "zh": "弹跳",
-      "ru": "пружинить"
+      "ru": "пружинить",
+      "fr": "printemps"
     },
     "examples": [],
     "meta": {},
@@ -15323,7 +15899,8 @@ const WORDS_NL_B1 = [
       "pt": "emplumado",
       "ja": "羽毛の",
       "zh": "羽毛状的",
-      "ru": "пернатый"
+      "ru": "пернатый",
+      "fr": "plumeux"
     },
     "examples": [],
     "meta": {}
@@ -15348,7 +15925,8 @@ const WORDS_NL_B1 = [
       "pt": "o sorvete",
       "ja": "アイスクリーム",
       "zh": "冰淇淋",
-      "ru": "мороженое"
+      "ru": "мороженое",
+      "fr": "glace"
     },
     "examples": [],
     "meta": {},
@@ -15375,7 +15953,8 @@ const WORDS_NL_B1 = [
       "pt": "a corrida cross country",
       "ja": "クロスカントリー",
       "zh": "越野赛",
-      "ru": "кросс"
+      "ru": "кросс",
+      "fr": "course de fond"
     },
     "examples": [],
     "meta": {},
@@ -15402,7 +15981,8 @@ const WORDS_NL_B1 = [
       "pt": "o pano",
       "ja": "布",
       "zh": "布",
-      "ru": "ткань"
+      "ru": "ткань",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {},
@@ -15429,7 +16009,8 @@ const WORDS_NL_B1 = [
       "pt": "o punho",
       "ja": "拳",
       "zh": "拳头",
-      "ru": "кулак"
+      "ru": "кулак",
+      "fr": "poing"
     },
     "examples": [],
     "meta": {},
@@ -15455,7 +16036,8 @@ const WORDS_NL_B1 = [
       "pt": "o aborto",
       "ja": "妊娠中絶",
       "zh": "堕胎",
-      "ru": "аборт"
+      "ru": "аборт",
+      "fr": "avortement"
     },
     "examples": [],
     "meta": {},
@@ -15482,7 +16064,8 @@ const WORDS_NL_B1 = [
       "pt": "manipular",
       "ja": "操作する",
       "zh": "操纵",
-      "ru": "манипулировать"
+      "ru": "манипулировать",
+      "fr": "manipuler"
     },
     "examples": [],
     "meta": {},
@@ -15509,7 +16092,8 @@ const WORDS_NL_B1 = [
       "pt": "o alienígena",
       "ja": "宇宙人",
       "zh": "外星人",
-      "ru": "инопланетянин"
+      "ru": "инопланетянин",
+      "fr": "étranger"
     },
     "examples": [],
     "meta": {},
@@ -15536,7 +16120,8 @@ const WORDS_NL_B1 = [
       "pt": "liberar",
       "ja": "解放する",
       "zh": "释放",
-      "ru": "освобождать"
+      "ru": "освобождать",
+      "fr": "libérer"
     },
     "examples": [],
     "meta": {},
@@ -15564,7 +16149,8 @@ const WORDS_NL_B1 = [
       "pt": "ligar",
       "ja": "つける",
       "zh": "打开",
-      "ru": "включать"
+      "ru": "включать",
+      "fr": "allumer"
     },
     "examples": [],
     "meta": {},
@@ -15592,7 +16178,8 @@ const WORDS_NL_B1 = [
       "pt": "acampar",
       "ja": "キャンプする",
       "zh": "露营",
-      "ru": "разбивать лагерь"
+      "ru": "разбивать лагерь",
+      "fr": "camp"
     },
     "examples": [],
     "meta": {},
@@ -15620,7 +16207,8 @@ const WORDS_NL_B1 = [
       "pt": "atencioso",
       "ja": "注意深い",
       "zh": "细心的",
-      "ru": "внимательный"
+      "ru": "внимательный",
+      "fr": "attentif"
     },
     "examples": [],
     "meta": {}
@@ -15645,7 +16233,8 @@ const WORDS_NL_B1 = [
       "pt": "montar",
       "ja": "設置する",
       "zh": "设置",
-      "ru": "устанавливать"
+      "ru": "устанавливать",
+      "fr": "installer"
     },
     "examples": [],
     "meta": {},
@@ -15673,7 +16262,8 @@ const WORDS_NL_B1 = [
       "pt": "engolir",
       "ja": "飲み込む",
       "zh": "吞咽",
-      "ru": "глотать"
+      "ru": "глотать",
+      "fr": "avaler"
     },
     "examples": [],
     "meta": {},
@@ -15701,7 +16291,8 @@ const WORDS_NL_B1 = [
       "pt": "a tequila",
       "ja": "テキーラ",
       "zh": "龙舌兰酒",
-      "ru": "текила"
+      "ru": "текила",
+      "fr": "tequila"
     },
     "examples": [],
     "meta": {},
@@ -15728,7 +16319,8 @@ const WORDS_NL_B1 = [
       "pt": "realizado",
       "ja": "実行された",
       "zh": "完成的",
-      "ru": "выполненный"
+      "ru": "выполненный",
+      "fr": "exécuté"
     },
     "examples": [],
     "meta": {}
@@ -15753,7 +16345,8 @@ const WORDS_NL_B1 = [
       "pt": "transportar",
       "ja": "輸送する",
       "zh": "运输",
-      "ru": "перевозить"
+      "ru": "перевозить",
+      "fr": "transporter"
     },
     "examples": [],
     "meta": {},
@@ -15781,7 +16374,8 @@ const WORDS_NL_B1 = [
       "pt": "pronunciar",
       "ja": "発音する",
       "zh": "发音",
-      "ru": "произносить"
+      "ru": "произносить",
+      "fr": "prononcer"
     },
     "examples": [],
     "meta": {},
@@ -15809,7 +16403,8 @@ const WORDS_NL_B1 = [
       "pt": "revisar",
       "ja": "見直す",
       "zh": "复习",
-      "ru": "просматривать"
+      "ru": "просматривать",
+      "fr": "réviser"
     },
     "examples": [],
     "meta": {},
@@ -15837,7 +16432,8 @@ const WORDS_NL_B1 = [
       "pt": "mundano",
       "ja": "世俗的な",
       "zh": "世俗的",
-      "ru": "светский"
+      "ru": "светский",
+      "fr": "mondain"
     },
     "examples": [],
     "meta": {}
@@ -15862,7 +16458,8 @@ const WORDS_NL_B1 = [
       "pt": "anotar",
       "ja": "書き留める",
       "zh": "写下",
-      "ru": "записывать"
+      "ru": "записывать",
+      "fr": "noter"
     },
     "examples": [],
     "meta": {},
@@ -15890,7 +16487,8 @@ const WORDS_NL_B1 = [
       "pt": "o churrasco",
       "ja": "バーベキュー",
       "zh": "烧烤",
-      "ru": "барбекю"
+      "ru": "барбекю",
+      "fr": "barbecue"
     },
     "examples": [],
     "meta": {},
@@ -15917,7 +16515,8 @@ const WORDS_NL_B1 = [
       "pt": "jantar",
       "ja": "夕食をとる",
       "zh": "用餐",
-      "ru": "ужинать"
+      "ru": "ужинать",
+      "fr": "dîner"
     },
     "examples": [],
     "meta": {},
@@ -15945,7 +16544,8 @@ const WORDS_NL_B1 = [
       "pt": "concluído",
       "ja": "完了した",
       "zh": "完成的",
-      "ru": "завершённый"
+      "ru": "завершённый",
+      "fr": "terminé"
     },
     "examples": [],
     "meta": {}
@@ -15970,7 +16570,8 @@ const WORDS_NL_B1 = [
       "pt": "o piolho",
       "ja": "シラミ",
       "zh": "虱子",
-      "ru": "вошь"
+      "ru": "вошь",
+      "fr": "pou"
     },
     "examples": [],
     "meta": {},
@@ -15997,7 +16598,8 @@ const WORDS_NL_B1 = [
       "pt": "contratar",
       "ja": "雇う",
       "zh": "雇用",
-      "ru": "нанимать"
+      "ru": "нанимать",
+      "fr": "embaucher"
     },
     "examples": [],
     "meta": {},
@@ -16025,7 +16627,8 @@ const WORDS_NL_B1 = [
       "pt": "o vestiário",
       "ja": "更衣室",
       "zh": "更衣室",
-      "ru": "раздевалка"
+      "ru": "раздевалка",
+      "fr": "vestiaire"
     },
     "examples": [],
     "meta": {},
@@ -16052,7 +16655,8 @@ const WORDS_NL_B1 = [
       "pt": "o caixa",
       "ja": "レジ",
       "zh": "收银台",
-      "ru": "касса"
+      "ru": "касса",
+      "fr": "caisse"
     },
     "examples": [],
     "meta": {},
@@ -16079,7 +16683,8 @@ const WORDS_NL_B1 = [
       "pt": "alerta",
       "ja": "警戒した",
       "zh": "警觉的",
-      "ru": "бдительный"
+      "ru": "бдительный",
+      "fr": "alerte"
     },
     "examples": [],
     "meta": {}
@@ -16104,7 +16709,8 @@ const WORDS_NL_B1 = [
       "pt": "o envelope",
       "ja": "封筒",
       "zh": "信封",
-      "ru": "конверт"
+      "ru": "конверт",
+      "fr": "enveloppe"
     },
     "examples": [],
     "meta": {},
@@ -16131,7 +16737,8 @@ const WORDS_NL_B1 = [
       "pt": "a maçaneta",
       "ja": "ドアノブ",
       "zh": "门把手",
-      "ru": "дверная ручка"
+      "ru": "дверная ручка",
+      "fr": "poignée"
     },
     "examples": [],
     "meta": {},
@@ -16158,7 +16765,8 @@ const WORDS_NL_B1 = [
       "pt": "suturado",
       "ja": "縫合された",
       "zh": "缝合的",
-      "ru": "зашитый"
+      "ru": "зашитый",
+      "fr": "cousu"
     },
     "examples": [],
     "meta": {}
@@ -16183,7 +16791,8 @@ const WORDS_NL_B1 = [
       "pt": "o careca",
       "ja": "禿げた人",
       "zh": "秃头",
-      "ru": "лысый"
+      "ru": "лысый",
+      "fr": "chauve"
     },
     "examples": [],
     "meta": {},
@@ -16210,7 +16819,8 @@ const WORDS_NL_B1 = [
       "pt": "o magro",
       "ja": "痩せた人",
       "zh": "瘦子",
-      "ru": "худой человек"
+      "ru": "худой человек",
+      "fr": "maigre"
     },
     "examples": [],
     "meta": {},
@@ -16237,7 +16847,8 @@ const WORDS_NL_B1 = [
       "pt": "estreito",
       "ja": "狭い",
       "zh": "狭窄",
-      "ru": "узкий"
+      "ru": "узкий",
+      "fr": "étroit"
     },
     "examples": [],
     "meta": {}
@@ -16262,7 +16873,8 @@ const WORDS_NL_B1 = [
       "pt": "o estreito",
       "ja": "海峡",
       "zh": "海峡",
-      "ru": "пролив"
+      "ru": "пролив",
+      "fr": "détroit"
     },
     "examples": [],
     "meta": {},
@@ -16288,7 +16900,8 @@ const WORDS_NL_B1 = [
       "pt": "o sermão",
       "ja": "説教",
       "zh": "讲道",
-      "ru": "проповедь"
+      "ru": "проповедь",
+      "fr": "sermon"
     },
     "examples": [],
     "meta": {},
@@ -16314,7 +16927,8 @@ const WORDS_NL_B1 = [
       "pt": "leve",
       "ja": "ライト",
       "zh": "淡",
-      "ru": "легкий"
+      "ru": "легкий",
+      "fr": "lumière"
     },
     "examples": [],
     "meta": {}
@@ -16339,7 +16953,8 @@ const WORDS_NL_B1 = [
       "pt": "parecer",
       "ja": "判明する",
       "zh": "显得",
-      "ru": "оказываться"
+      "ru": "оказываться",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {},
@@ -16367,7 +16982,8 @@ const WORDS_NL_B1 = [
       "pt": "o backup",
       "ja": "バックアップ",
       "zh": "备份",
-      "ru": "резервная копия"
+      "ru": "резервная копия",
+      "fr": "sauvegarde"
     },
     "examples": [],
     "meta": {},
@@ -16393,7 +17009,8 @@ const WORDS_NL_B1 = [
       "pt": "intimidar",
       "ja": "いじめる",
       "zh": "欺凌",
-      "ru": "издеваться"
+      "ru": "издеваться",
+      "fr": "brute"
     },
     "examples": [],
     "meta": {},
@@ -16420,7 +17037,8 @@ const WORDS_NL_B1 = [
       "pt": "adotado",
       "ja": "養子になった",
       "zh": "被收养的",
-      "ru": "усыновленный"
+      "ru": "усыновленный",
+      "fr": "adopté"
     },
     "examples": [],
     "meta": {}
@@ -16445,7 +17063,8 @@ const WORDS_NL_B1 = [
       "pt": "o pedido",
       "ja": "申請",
       "zh": "申请",
-      "ru": "заявление"
+      "ru": "заявление",
+      "fr": "application"
     },
     "examples": [],
     "meta": {},
@@ -16471,7 +17090,8 @@ const WORDS_NL_B1 = [
       "pt": "a minhoca",
       "ja": "ミミズ",
       "zh": "蚯蚓",
-      "ru": "дождевой червь"
+      "ru": "дождевой червь",
+      "fr": "ver"
     },
     "examples": [],
     "meta": {},
@@ -16498,7 +17118,8 @@ const WORDS_NL_B1 = [
       "pt": "o lobby",
       "ja": "ロビー",
       "zh": "大厅",
-      "ru": "вестибюль"
+      "ru": "вестибюль",
+      "fr": "hall"
     },
     "examples": [],
     "meta": {},
@@ -16525,7 +17146,8 @@ const WORDS_NL_B1 = [
       "pt": "arrogante",
       "ja": "傲慢な",
       "zh": "傲慢",
-      "ru": "высокомерный"
+      "ru": "высокомерный",
+      "fr": "arrogant"
     },
     "examples": [],
     "meta": {}
@@ -16550,7 +17172,8 @@ const WORDS_NL_B1 = [
       "pt": "gigantesco",
       "ja": "巨大な",
       "zh": "巨大的",
-      "ru": "гигантский"
+      "ru": "гигантский",
+      "fr": "gigantesque"
     },
     "examples": [],
     "meta": {}
@@ -16575,7 +17198,8 @@ const WORDS_NL_B1 = [
       "pt": "a capital",
       "ja": "首都",
       "zh": "首都",
-      "ru": "столица"
+      "ru": "столица",
+      "fr": "capitale"
     },
     "examples": [],
     "meta": {},
@@ -16601,7 +17225,8 @@ const WORDS_NL_B1 = [
       "pt": "o cardeal",
       "ja": "枢機卿",
       "zh": "红衣主教",
-      "ru": "кардинал"
+      "ru": "кардинал",
+      "fr": "cardinal"
     },
     "examples": [],
     "meta": {},
@@ -16628,7 +17253,8 @@ const WORDS_NL_B1 = [
       "pt": "cardinal",
       "ja": "主要な",
       "zh": "主要的",
-      "ru": "кардинальный"
+      "ru": "кардинальный",
+      "fr": "cardinal"
     },
     "examples": [],
     "meta": {}
@@ -16653,7 +17279,8 @@ const WORDS_NL_B1 = [
       "pt": "corrupto",
       "ja": "腐敗した",
       "zh": "腐败的",
-      "ru": "коррумпированный"
+      "ru": "коррумпированный",
+      "fr": "corrompu"
     },
     "examples": [],
     "meta": {}
@@ -16678,7 +17305,8 @@ const WORDS_NL_B1 = [
       "pt": "abordar",
       "ja": "近づく",
       "zh": "接近",
-      "ru": "приближаться"
+      "ru": "приближаться",
+      "fr": "approche"
     },
     "examples": [],
     "meta": {},
@@ -16706,7 +17334,8 @@ const WORDS_NL_B1 = [
       "pt": "o crédito",
       "ja": "信用",
       "zh": "信用",
-      "ru": "кредит"
+      "ru": "кредит",
+      "fr": "crédit"
     },
     "examples": [],
     "meta": {},
@@ -16733,7 +17362,8 @@ const WORDS_NL_B1 = [
       "pt": "a varanda",
       "ja": "バルコニー",
       "zh": "阳台",
-      "ru": "балкон"
+      "ru": "балкон",
+      "fr": "balcon"
     },
     "examples": [],
     "meta": {},
@@ -16760,7 +17390,8 @@ const WORDS_NL_B1 = [
       "pt": "o poste",
       "ja": "柱",
       "zh": "杆",
-      "ru": "столб"
+      "ru": "столб",
+      "fr": "poteau"
     },
     "examples": [],
     "meta": {},
@@ -16786,7 +17417,8 @@ const WORDS_NL_B1 = [
       "pt": "lutar",
       "ja": "レスリングをする",
       "zh": "摔跤",
-      "ru": "бороться"
+      "ru": "бороться",
+      "fr": "lutter"
     },
     "examples": [],
     "meta": {},
@@ -16813,7 +17445,8 @@ const WORDS_NL_B1 = [
       "pt": "a aranha",
       "ja": "クモ",
       "zh": "蜘蛛",
-      "ru": "паук"
+      "ru": "паук",
+      "fr": "araignée"
     },
     "examples": [],
     "meta": {},
@@ -16840,7 +17473,8 @@ const WORDS_NL_B1 = [
       "pt": "o cordeiro",
       "ja": "子羊",
       "zh": "羔羊",
-      "ru": "ягненок"
+      "ru": "ягненок",
+      "fr": "agneau"
     },
     "examples": [],
     "meta": {},
@@ -16866,7 +17500,8 @@ const WORDS_NL_B1 = [
       "pt": "paralisado",
       "ja": "麻痺した",
       "zh": "瘫痪的",
-      "ru": "парализованный"
+      "ru": "парализованный",
+      "fr": "paralysé"
     },
     "examples": [],
     "meta": {}
@@ -16890,7 +17525,8 @@ const WORDS_NL_B1 = [
       "pt": "o cafetão",
       "ja": "ポン引き",
       "zh": "皮条客",
-      "ru": "сутенер"
+      "ru": "сутенер",
+      "fr": "proxénète"
     },
     "examples": [],
     "meta": {},
@@ -16917,7 +17553,8 @@ const WORDS_NL_B1 = [
       "pt": "dedicado",
       "ja": "献身的な",
       "zh": "敬业的",
-      "ru": "преданный"
+      "ru": "преданный",
+      "fr": "dédié"
     },
     "examples": [],
     "meta": {}
@@ -16942,7 +17579,8 @@ const WORDS_NL_B1 = [
       "pt": "de ferro",
       "ja": "鉄の",
       "zh": "铁的",
-      "ru": "железный"
+      "ru": "железный",
+      "fr": "fer"
     },
     "examples": [],
     "meta": {}
@@ -16966,7 +17604,8 @@ const WORDS_NL_B1 = [
       "pt": "o corpo",
       "ja": "軍団",
       "zh": "军团",
-      "ru": "корпус"
+      "ru": "корпус",
+      "fr": "corps"
     },
     "examples": [],
     "meta": {},
@@ -16992,7 +17631,8 @@ const WORDS_NL_B1 = [
       "pt": "o gray",
       "ja": "グレイ",
       "zh": "戈瑞",
-      "ru": "грей"
+      "ru": "грей",
+      "fr": "gris"
     },
     "examples": [],
     "meta": {},
@@ -17019,7 +17659,8 @@ const WORDS_NL_B1 = [
       "pt": "adiar",
       "ja": "延期する",
       "zh": "推迟",
-      "ru": "откладывать"
+      "ru": "откладывать",
+      "fr": "reporter"
     },
     "examples": [],
     "meta": {},
@@ -17047,7 +17688,8 @@ const WORDS_NL_B1 = [
       "pt": "o soro",
       "ja": "点滴",
       "zh": "静脉滴注",
-      "ru": "капельница"
+      "ru": "капельница",
+      "fr": "perfusion"
     },
     "examples": [],
     "meta": {},
@@ -17074,7 +17716,8 @@ const WORDS_NL_B1 = [
       "pt": "o corretor",
       "ja": "仲介人",
       "zh": "经纪人",
-      "ru": "брокер"
+      "ru": "брокер",
+      "fr": "courtier"
     },
     "examples": [],
     "meta": {},
@@ -17100,7 +17743,8 @@ const WORDS_NL_B1 = [
       "pt": "o acidente",
       "ja": "衝突",
       "zh": "撞车",
-      "ru": "авария"
+      "ru": "авария",
+      "fr": "accident"
     },
     "examples": [],
     "meta": {},
@@ -17127,7 +17771,8 @@ const WORDS_NL_B1 = [
       "pt": "arbitrário",
       "ja": "任意の",
       "zh": "任意的",
-      "ru": "произвольный"
+      "ru": "произвольный",
+      "fr": "arbitraire"
     },
     "examples": [],
     "meta": {}
@@ -17152,7 +17797,8 @@ const WORDS_NL_B1 = [
       "pt": "o festival",
       "ja": "祭り",
       "zh": "节日",
-      "ru": "фестиваль"
+      "ru": "фестиваль",
+      "fr": "festival"
     },
     "examples": [],
     "meta": {},
@@ -17179,7 +17825,8 @@ const WORDS_NL_B1 = [
       "pt": "o membro da família",
       "ja": "家族",
       "zh": "家庭成员",
-      "ru": "член семьи"
+      "ru": "член семьи",
+      "fr": "membre"
     },
     "examples": [],
     "meta": {},
@@ -17205,7 +17852,8 @@ const WORDS_NL_B1 = [
       "pt": "o bispo",
       "ja": "司教",
       "zh": "主教",
-      "ru": "епископ"
+      "ru": "епископ",
+      "fr": "évêque"
     },
     "examples": [],
     "meta": {},
@@ -17232,7 +17880,8 @@ const WORDS_NL_B1 = [
       "pt": "o quintal",
       "ja": "裏庭",
       "zh": "后院",
-      "ru": "задний двор"
+      "ru": "задний двор",
+      "fr": "arrière-cour"
     },
     "examples": [],
     "meta": {},
@@ -17259,7 +17908,8 @@ const WORDS_NL_B1 = [
       "pt": "limpar",
       "ja": "磨く",
       "zh": "清洁",
-      "ru": "чистить"
+      "ru": "чистить",
+      "fr": "propre"
     },
     "examples": [],
     "meta": {},
@@ -17287,7 +17937,8 @@ const WORDS_NL_B1 = [
       "pt": "a manutenção",
       "ja": "メンテナンス",
       "zh": "维护",
-      "ru": "обслуживание"
+      "ru": "обслуживание",
+      "fr": "entretien"
     },
     "examples": [],
     "meta": {},
@@ -17314,7 +17965,8 @@ const WORDS_NL_B1 = [
       "pt": "o lado",
       "ja": "側面",
       "zh": "侧面",
-      "ru": "сторона"
+      "ru": "сторона",
+      "fr": "côté"
     },
     "examples": [],
     "meta": {},
@@ -17341,7 +17993,8 @@ const WORDS_NL_B1 = [
       "pt": "a infusão",
       "ja": "点滴",
       "zh": "输液",
-      "ru": "инфузия"
+      "ru": "инфузия",
+      "fr": "infusion"
     },
     "examples": [],
     "meta": {},
@@ -17367,7 +18020,8 @@ const WORDS_NL_B1 = [
       "pt": "o vagabundo",
       "ja": "放浪者",
       "zh": "流浪者",
-      "ru": "бродяга"
+      "ru": "бродяга",
+      "fr": "clochard"
     },
     "examples": [],
     "meta": {},
@@ -17394,7 +18048,8 @@ const WORDS_NL_B1 = [
       "pt": "dividido",
       "ja": "分割された",
       "zh": "分裂的",
-      "ru": "разделенный"
+      "ru": "разделенный",
+      "fr": "divisé"
     },
     "examples": [],
     "meta": {}
@@ -17419,7 +18074,8 @@ const WORDS_NL_B1 = [
       "pt": "o jipe",
       "ja": "ジープ",
       "zh": "吉普车",
-      "ru": "джип"
+      "ru": "джип",
+      "fr": "jeep"
     },
     "examples": [],
     "meta": {},
@@ -17446,7 +18102,8 @@ const WORDS_NL_B1 = [
       "pt": "obedecer",
       "ja": "従う",
       "zh": "服从",
-      "ru": "подчиняться"
+      "ru": "подчиняться",
+      "fr": "obéir"
     },
     "examples": [],
     "meta": {},
@@ -17473,7 +18130,8 @@ const WORDS_NL_B1 = [
       "pt": "o rasgo",
       "ja": "裂け目",
       "zh": "裂缝",
-      "ru": "разрыв"
+      "ru": "разрыв",
+      "fr": "larme"
     },
     "examples": [],
     "meta": {},
@@ -17500,7 +18158,8 @@ const WORDS_NL_B1 = [
       "pt": "o boxe",
       "ja": "ボクシング",
       "zh": "拳击",
-      "ru": "бокс"
+      "ru": "бокс",
+      "fr": "boxe"
     },
     "examples": [],
     "meta": {},
@@ -17527,7 +18186,8 @@ const WORDS_NL_B1 = [
       "pt": "boxear",
       "ja": "ボクシングをする",
       "zh": "拳击",
-      "ru": "боксировать"
+      "ru": "боксировать",
+      "fr": "boxer"
     },
     "examples": [],
     "meta": {},
@@ -17555,7 +18215,8 @@ const WORDS_NL_B1 = [
       "pt": "o pintor",
       "ja": "画家",
       "zh": "画家",
-      "ru": "художник"
+      "ru": "художник",
+      "fr": "peintre"
     },
     "examples": [],
     "meta": {},
@@ -17582,7 +18243,8 @@ const WORDS_NL_B1 = [
       "pt": "a cueca",
       "ja": "下着",
       "zh": "内裤",
-      "ru": "нижнее бельё"
+      "ru": "нижнее бельё",
+      "fr": "sous-vêtement"
     },
     "examples": [],
     "meta": {},
@@ -17608,7 +18270,8 @@ const WORDS_NL_B1 = [
       "pt": "crescido",
       "ja": "成長した",
       "zh": "成长的",
-      "ru": "выросший"
+      "ru": "выросший",
+      "fr": "cultivé"
     },
     "examples": [],
     "meta": {}
@@ -17633,7 +18296,8 @@ const WORDS_NL_B1 = [
       "pt": "a diversão",
       "ja": "楽しみ",
       "zh": "乐趣",
-      "ru": "веселье"
+      "ru": "веселье",
+      "fr": "amusement"
     },
     "examples": [],
     "meta": {},
@@ -17660,7 +18324,8 @@ const WORDS_NL_B1 = [
       "pt": "encontrar",
       "ja": "出会う",
       "zh": "遇到",
-      "ru": "встречать"
+      "ru": "встречать",
+      "fr": "rencontrer"
     },
     "examples": [],
     "meta": {},
@@ -17688,7 +18353,8 @@ const WORDS_NL_B1 = [
       "pt": "o voluntário",
       "ja": "ボランティア",
       "zh": "志愿者",
-      "ru": "волонтёр"
+      "ru": "волонтёр",
+      "fr": "bénévole"
     },
     "examples": [],
     "meta": {},
@@ -17714,7 +18380,8 @@ const WORDS_NL_B1 = [
       "pt": "contínuo",
       "ja": "連続的な",
       "zh": "连续的",
-      "ru": "непрерывный"
+      "ru": "непрерывный",
+      "fr": "continu"
     },
     "examples": [],
     "meta": {}
@@ -17739,7 +18406,8 @@ const WORDS_NL_B1 = [
       "pt": "continuar",
       "ja": "続ける",
       "zh": "继续",
-      "ru": "продолжать"
+      "ru": "продолжать",
+      "fr": "continuer"
     },
     "examples": [],
     "meta": {},
@@ -17767,7 +18435,8 @@ const WORDS_NL_B1 = [
       "pt": "a pessoa alegre",
       "ja": "陽気な人",
       "zh": "快乐的人",
-      "ru": "весёлый человек"
+      "ru": "весёлый человек",
+      "fr": "gai"
     },
     "examples": [],
     "meta": {},
@@ -17793,7 +18462,8 @@ const WORDS_NL_B1 = [
       "pt": "intencional",
       "ja": "意図的な",
       "zh": "故意的",
-      "ru": "преднамеренный"
+      "ru": "преднамеренный",
+      "fr": "intentionnel"
     },
     "examples": [],
     "meta": {}
@@ -17818,7 +18488,8 @@ const WORDS_NL_B1 = [
       "pt": "observar",
       "ja": "観察する",
       "zh": "观察",
-      "ru": "наблюдать"
+      "ru": "наблюдать",
+      "fr": "observer"
     },
     "examples": [],
     "meta": {},
@@ -17845,7 +18516,8 @@ const WORDS_NL_B1 = [
       "pt": "o tratado",
       "ja": "条約",
       "zh": "条约",
-      "ru": "договор"
+      "ru": "договор",
+      "fr": "traité"
     },
     "examples": [],
     "meta": {},
@@ -17871,7 +18543,8 @@ const WORDS_NL_B1 = [
       "pt": "a invasão",
       "ja": "襲撃",
       "zh": "突袭",
-      "ru": "налёт"
+      "ru": "налёт",
+      "fr": "raid"
     },
     "examples": [],
     "meta": {},
@@ -17897,7 +18570,8 @@ const WORDS_NL_B1 = [
       "pt": "o lori",
       "ja": "ロリー",
       "zh": "鹦鹉",
-      "ru": "лори"
+      "ru": "лори",
+      "fr": "lori"
     },
     "examples": [],
     "meta": {},
@@ -17924,7 +18598,8 @@ const WORDS_NL_B1 = [
       "pt": "empilhar",
       "ja": "積み重ねる",
       "zh": "堆积",
-      "ru": "складывать"
+      "ru": "складывать",
+      "fr": "empiler"
     },
     "examples": [],
     "meta": {},
@@ -17952,7 +18627,8 @@ const WORDS_NL_B1 = [
       "pt": "prestativo",
       "ja": "役立つ",
       "zh": "有帮助的",
-      "ru": "полезный"
+      "ru": "полезный",
+      "fr": "utile"
     },
     "examples": [],
     "meta": {}
@@ -17977,7 +18653,8 @@ const WORDS_NL_B1 = [
       "pt": "o clérigo",
       "ja": "聖職者",
       "zh": "神职人员",
-      "ru": "священнослужитель"
+      "ru": "священнослужитель",
+      "fr": "clerc"
     },
     "examples": [],
     "meta": {},
@@ -18004,7 +18681,8 @@ const WORDS_NL_B1 = [
       "pt": "o hambúrguer",
       "ja": "ハンバーガー",
       "zh": "汉堡",
-      "ru": "гамбургер"
+      "ru": "гамбургер",
+      "fr": "hamburger"
     },
     "examples": [],
     "meta": {},
@@ -18031,7 +18709,8 @@ const WORDS_NL_B1 = [
       "pt": "de Hamburgo",
       "ja": "ハンブルクの",
       "zh": "汉堡的",
-      "ru": "гамбургский"
+      "ru": "гамбургский",
+      "fr": "Hambourg"
     },
     "examples": [],
     "meta": {}
@@ -18056,7 +18735,8 @@ const WORDS_NL_B1 = [
       "pt": "a fervura",
       "ja": "沸騰",
       "zh": "沸腾",
-      "ru": "кипение"
+      "ru": "кипение",
+      "fr": "bouillir"
     },
     "examples": [],
     "meta": {},
@@ -18083,7 +18763,8 @@ const WORDS_NL_B1 = [
       "pt": "atravessar",
       "ja": "横断する",
       "zh": "穿过",
-      "ru": "пересекать"
+      "ru": "пересекать",
+      "fr": "traverser"
     },
     "examples": [],
     "meta": {},
@@ -18111,7 +18792,8 @@ const WORDS_NL_B1 = [
       "pt": "o ferro",
       "ja": "鉄",
       "zh": "铁",
-      "ru": "железо"
+      "ru": "железо",
+      "fr": "fer"
     },
     "examples": [],
     "meta": {},
@@ -18138,7 +18820,8 @@ const WORDS_NL_B1 = [
       "pt": "empurrar",
       "ja": "押す",
       "zh": "推",
-      "ru": "толкать"
+      "ru": "толкать",
+      "fr": "pousser"
     },
     "examples": [],
     "meta": {},
@@ -18166,7 +18849,8 @@ const WORDS_NL_B1 = [
       "pt": "furioso",
       "ja": "激怒した",
       "zh": "狂怒的",
-      "ru": "яростный"
+      "ru": "яростный",
+      "fr": "furieux"
     },
     "examples": [],
     "meta": {}
@@ -18191,7 +18875,8 @@ const WORDS_NL_B1 = [
       "pt": "coabitar",
       "ja": "同棲する",
       "zh": "同居",
-      "ru": "сожительствовать"
+      "ru": "сожительствовать",
+      "fr": "cohabiter"
     },
     "examples": [],
     "meta": {},
@@ -18219,7 +18904,8 @@ const WORDS_NL_B1 = [
       "pt": "destruir",
       "ja": "破壊する",
       "zh": "摧毁",
-      "ru": "разрушать"
+      "ru": "разрушать",
+      "fr": "détruire"
     },
     "examples": [],
     "meta": {},
@@ -18247,7 +18933,8 @@ const WORDS_NL_B1 = [
       "pt": "vomitar",
       "ja": "吐く",
       "zh": "呕吐",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "vomir"
     },
     "examples": [],
     "meta": {},
@@ -18275,7 +18962,8 @@ const WORDS_NL_B1 = [
       "pt": "o mentor",
       "ja": "メンター",
       "zh": "导师",
-      "ru": "наставник"
+      "ru": "наставник",
+      "fr": "mentor"
     },
     "examples": [],
     "meta": {},
@@ -18302,7 +18990,8 @@ const WORDS_NL_B1 = [
       "pt": "chorar",
       "ja": "泣く",
       "zh": "哭泣",
-      "ru": "плакать"
+      "ru": "плакать",
+      "fr": "pleurer"
     },
     "examples": [],
     "meta": {},
@@ -18330,7 +19019,8 @@ const WORDS_NL_B1 = [
       "pt": "o bem-estar",
       "ja": "福祉",
       "zh": "福祉",
-      "ru": "благополучие"
+      "ru": "благополучие",
+      "fr": "bien-être"
     },
     "examples": [],
     "meta": {},
@@ -18356,7 +19046,8 @@ const WORDS_NL_B1 = [
       "pt": "o golpe",
       "ja": "ストローク",
       "zh": "击球",
-      "ru": "удар"
+      "ru": "удар",
+      "fr": "attaque"
     },
     "examples": [],
     "meta": {},
@@ -18383,7 +19074,8 @@ const WORDS_NL_B1 = [
       "pt": "a fita",
       "ja": "リボン",
       "zh": "丝带",
-      "ru": "лента"
+      "ru": "лента",
+      "fr": "ruban"
     },
     "examples": [],
     "meta": {},
@@ -18409,7 +19101,8 @@ const WORDS_NL_B1 = [
       "pt": "o bastão",
       "ja": "棍棒",
       "zh": "棍棒",
-      "ru": "дубинка"
+      "ru": "дубинка",
+      "fr": "club"
     },
     "examples": [],
     "meta": {},
@@ -18436,7 +19129,8 @@ const WORDS_NL_B1 = [
       "pt": "o carma",
       "ja": "カルマ",
       "zh": "业力",
-      "ru": "карма"
+      "ru": "карма",
+      "fr": "karma"
     },
     "examples": [],
     "meta": {},
@@ -18462,7 +19156,8 @@ const WORDS_NL_B1 = [
       "pt": "o gângster",
       "ja": "ギャングスター",
       "zh": "歹徒",
-      "ru": "гангстер"
+      "ru": "гангстер",
+      "fr": "gangster"
     },
     "examples": [],
     "meta": {},
@@ -18489,7 +19184,8 @@ const WORDS_NL_B1 = [
       "pt": "defender",
       "ja": "擁護する",
       "zh": "维护",
-      "ru": "заступаться"
+      "ru": "заступаться",
+      "fr": "défendre"
     },
     "examples": [],
     "meta": {},
@@ -18517,7 +19213,8 @@ const WORDS_NL_B1 = [
       "pt": "o pub",
       "ja": "パブ",
       "zh": "酒吧",
-      "ru": "паб"
+      "ru": "паб",
+      "fr": "pub"
     },
     "examples": [],
     "meta": {},
@@ -18544,7 +19241,8 @@ const WORDS_NL_B1 = [
       "pt": "o gigante",
       "ja": "巨人",
       "zh": "巨人",
-      "ru": "великан"
+      "ru": "великан",
+      "fr": "géant"
     },
     "examples": [],
     "meta": {},
@@ -18571,7 +19269,8 @@ const WORDS_NL_B1 = [
       "pt": "o cachecol",
       "ja": "スカーフ",
       "zh": "围巾",
-      "ru": "шарф"
+      "ru": "шарф",
+      "fr": "écharpe"
     },
     "examples": [],
     "meta": {},
@@ -18598,7 +19297,8 @@ const WORDS_NL_B1 = [
       "pt": "o líquido",
       "ja": "液体",
       "zh": "液体",
-      "ru": "жидкость"
+      "ru": "жидкость",
+      "fr": "liquide"
     },
     "examples": [],
     "meta": {},
@@ -18625,7 +19325,8 @@ const WORDS_NL_B1 = [
       "pt": "desacelerar",
       "ja": "遅らせる",
       "zh": "减缓",
-      "ru": "замедлять"
+      "ru": "замедлять",
+      "fr": "ralentir"
     },
     "examples": [],
     "meta": {},
@@ -18653,7 +19354,8 @@ const WORDS_NL_B1 = [
       "pt": "o ritmo",
       "ja": "リズム",
       "zh": "节奏",
-      "ru": "ритм"
+      "ru": "ритм",
+      "fr": "rythme"
     },
     "examples": [],
     "meta": {},
@@ -18680,7 +19382,8 @@ const WORDS_NL_B1 = [
       "pt": "o pijama",
       "ja": "パジャマ",
       "zh": "睡衣",
-      "ru": "пижама"
+      "ru": "пижама",
+      "fr": "pyjama"
     },
     "examples": [],
     "meta": {},
@@ -18706,7 +19409,8 @@ const WORDS_NL_B1 = [
       "pt": "vingar",
       "ja": "復讐する",
       "zh": "报仇",
-      "ru": "мстить"
+      "ru": "мстить",
+      "fr": "venger"
     },
     "examples": [],
     "meta": {},
@@ -18734,7 +19438,8 @@ const WORDS_NL_B1 = [
       "pt": "o mensageiro",
       "ja": "クーリエ",
       "zh": "快递员",
-      "ru": "курьер"
+      "ru": "курьер",
+      "fr": "coursier"
     },
     "examples": [],
     "meta": {},
@@ -18761,7 +19466,8 @@ const WORDS_NL_B1 = [
       "pt": "disposto",
       "ja": "気分が向く",
       "zh": "有意向的",
-      "ru": "расположенный"
+      "ru": "расположенный",
+      "fr": "disposé"
     },
     "examples": [],
     "meta": {}
@@ -18786,7 +19492,8 @@ const WORDS_NL_B1 = [
       "pt": "o nabo",
       "ja": "カブ",
       "zh": "芜菁",
-      "ru": "репа"
+      "ru": "репа",
+      "fr": "navet"
     },
     "examples": [],
     "meta": {},
@@ -18812,7 +19519,8 @@ const WORDS_NL_B1 = [
       "pt": "o sodomita",
       "ja": "ソドミー主義者",
       "zh": "鸡奸者",
-      "ru": "содомит"
+      "ru": "содомит",
+      "fr": "sodomite"
     },
     "examples": [],
     "meta": {},
@@ -18839,7 +19547,8 @@ const WORDS_NL_B1 = [
       "pt": "abrir",
       "ja": "開ける",
       "zh": "打开",
-      "ru": "открывать"
+      "ru": "открывать",
+      "fr": "ouvrir"
     },
     "examples": [],
     "meta": {},
@@ -18867,7 +19576,8 @@ const WORDS_NL_B1 = [
       "pt": "hackear",
       "ja": "ハッキングする",
       "zh": "黑客",
-      "ru": "взламывать"
+      "ru": "взламывать",
+      "fr": "pirater"
     },
     "examples": [],
     "meta": {},
@@ -18894,7 +19604,8 @@ const WORDS_NL_B1 = [
       "pt": "o canhão",
       "ja": "大砲",
       "zh": "大炮",
-      "ru": "пушка"
+      "ru": "пушка",
+      "fr": "canon"
     },
     "examples": [],
     "meta": {},
@@ -18921,7 +19632,8 @@ const WORDS_NL_B1 = [
       "pt": "o debate",
       "ja": "討論",
       "zh": "辩论",
-      "ru": "дебаты"
+      "ru": "дебаты",
+      "fr": "débat"
     },
     "examples": [],
     "meta": {},
@@ -18948,7 +19660,8 @@ const WORDS_NL_B1 = [
       "pt": "provar",
       "ja": "味わう",
       "zh": "品尝",
-      "ru": "пробовать"
+      "ru": "пробовать",
+      "fr": "goût"
     },
     "examples": [],
     "meta": {},
@@ -18976,7 +19689,8 @@ const WORDS_NL_B1 = [
       "pt": "gastar",
       "ja": "費やす",
       "zh": "花费",
-      "ru": "тратить"
+      "ru": "тратить",
+      "fr": "dépenser"
     },
     "examples": [],
     "meta": {},
@@ -19003,7 +19717,8 @@ const WORDS_NL_B1 = [
       "pt": "a conspiração",
       "ja": "陰謀",
       "zh": "阴谋",
-      "ru": "заговор"
+      "ru": "заговор",
+      "fr": "conspiration"
     },
     "examples": [],
     "meta": {},
@@ -19029,7 +19744,8 @@ const WORDS_NL_B1 = [
       "pt": "o indígena",
       "ja": "インディアン",
       "zh": "印第安人",
-      "ru": "индеец"
+      "ru": "индеец",
+      "fr": "Amérindien"
     },
     "examples": [],
     "meta": {},
@@ -19056,7 +19772,8 @@ const WORDS_NL_B1 = [
       "pt": "quebrar",
       "ja": "破る",
       "zh": "打破",
-      "ru": "нарушать"
+      "ru": "нарушать",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {},
@@ -19084,7 +19801,8 @@ const WORDS_NL_B1 = [
       "pt": "de tecido",
       "ja": "布製の",
       "zh": "织物",
-      "ru": "тканевый"
+      "ru": "тканевый",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {}
@@ -19109,7 +19827,8 @@ const WORDS_NL_B1 = [
       "pt": "máximo",
       "ja": "最大の",
       "zh": "最大",
-      "ru": "максимальный"
+      "ru": "максимальный",
+      "fr": "maximum"
     },
     "examples": [],
     "meta": {}
@@ -19133,7 +19852,8 @@ const WORDS_NL_B1 = [
       "pt": "o sistema",
       "ja": "制度",
       "zh": "制度",
-      "ru": "система"
+      "ru": "система",
+      "fr": "système"
     },
     "examples": [],
     "meta": {},
@@ -19160,7 +19880,8 @@ const WORDS_NL_B1 = [
       "pt": "saboroso",
       "ja": "おいしい",
       "zh": "美味",
-      "ru": "вкусный"
+      "ru": "вкусный",
+      "fr": "savoureux"
     },
     "examples": [],
     "meta": {}
@@ -19185,7 +19906,8 @@ const WORDS_NL_B1 = [
       "pt": "cancelar",
       "ja": "キャンセルする",
       "zh": "取消",
-      "ru": "отменять"
+      "ru": "отменять",
+      "fr": "annuler"
     },
     "examples": [],
     "meta": {},
@@ -19212,7 +19934,8 @@ const WORDS_NL_B1 = [
       "pt": "católico",
       "ja": "カトリックの",
       "zh": "天主教的",
-      "ru": "католический"
+      "ru": "католический",
+      "fr": "catholique"
     },
     "examples": [],
     "meta": {}
@@ -19236,7 +19959,8 @@ const WORDS_NL_B1 = [
       "pt": "o católico",
       "ja": "カトリック教徒",
       "zh": "天主教徒",
-      "ru": "католик"
+      "ru": "католик",
+      "fr": "catholique"
     },
     "examples": [],
     "meta": {},
@@ -19263,7 +19987,8 @@ const WORDS_NL_B1 = [
       "pt": "complicado",
       "ja": "複雑な",
       "zh": "复杂",
-      "ru": "сложный"
+      "ru": "сложный",
+      "fr": "compliqué"
     },
     "examples": [],
     "meta": {}
@@ -19288,7 +20013,8 @@ const WORDS_NL_B1 = [
       "pt": "apressar-se",
       "ja": "急ぐ",
       "zh": "赶快",
-      "ru": "торопиться"
+      "ru": "торопиться",
+      "fr": "hâte"
     },
     "examples": [],
     "meta": {},
@@ -19315,7 +20041,8 @@ const WORDS_NL_B1 = [
       "pt": "o conselheiro",
       "ja": "弁護士",
       "zh": "律师",
-      "ru": "адвокат"
+      "ru": "адвокат",
+      "fr": "conseiller"
     },
     "examples": [],
     "meta": {},
@@ -19341,7 +20068,8 @@ const WORDS_NL_B1 = [
       "pt": "o rancor",
       "ja": "恨み",
       "zh": "怨恨",
-      "ru": "обида"
+      "ru": "обида",
+      "fr": "ressentiment"
     },
     "examples": [],
     "meta": {},
@@ -19368,7 +20096,8 @@ const WORDS_NL_B1 = [
       "pt": "o gato",
       "ja": "オス猫",
       "zh": "公猫",
-      "ru": "кот"
+      "ru": "кот",
+      "fr": "matou"
     },
     "examples": [],
     "meta": {},
@@ -19395,7 +20124,8 @@ const WORDS_NL_B1 = [
       "pt": "o pacote",
       "ja": "小包",
       "zh": "包裹",
-      "ru": "посылка"
+      "ru": "посылка",
+      "fr": "paquet"
     },
     "examples": [],
     "meta": {},
@@ -19421,7 +20151,8 @@ const WORDS_NL_B1 = [
       "pt": "o heterossexual",
       "ja": "異性愛者",
       "zh": "异性恋",
-      "ru": "гетеросексуал"
+      "ru": "гетеросексуал",
+      "fr": "hétérosexuel"
     },
     "examples": [],
     "meta": {},
@@ -19448,7 +20179,8 @@ const WORDS_NL_B1 = [
       "pt": "louco",
       "ja": "おかしい",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
+      "ru": "сумасшедший",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -19473,7 +20205,8 @@ const WORDS_NL_B1 = [
       "pt": "a tesoura",
       "ja": "はさみ",
       "zh": "剪刀",
-      "ru": "ножницы"
+      "ru": "ножницы",
+      "fr": "ciseaux"
     },
     "examples": [],
     "meta": {},
@@ -19500,7 +20233,8 @@ const WORDS_NL_B1 = [
       "pt": "a passagem de nível",
       "ja": "踏切",
       "zh": "平交道",
-      "ru": "железнодорожный переезд"
+      "ru": "железнодорожный переезд",
+      "fr": "passage à niveau"
     },
     "examples": [],
     "meta": {},
@@ -19527,7 +20261,8 @@ const WORDS_NL_B1 = [
       "pt": "a sexta-feira à noite",
       "ja": "金曜日の夜",
       "zh": "周五晚上",
-      "ru": "вечер пятницы"
+      "ru": "вечер пятницы",
+      "fr": "vendredi soir"
     },
     "examples": [],
     "meta": {},
@@ -19554,7 +20289,8 @@ const WORDS_NL_B1 = [
       "pt": "a resistência",
       "ja": "抵抗",
       "zh": "抵抗",
-      "ru": "сопротивление"
+      "ru": "сопротивление",
+      "fr": "résistance"
     },
     "examples": [],
     "meta": {},
@@ -19581,7 +20317,8 @@ const WORDS_NL_B1 = [
       "pt": "o telegrama",
       "ja": "電報",
       "zh": "电报",
-      "ru": "телеграмма"
+      "ru": "телеграмма",
+      "fr": "télégramme"
     },
     "examples": [],
     "meta": {},
@@ -19608,7 +20345,8 @@ const WORDS_NL_B1 = [
       "pt": "íntimo",
       "ja": "親密な",
       "zh": "亲密的",
-      "ru": "интимный"
+      "ru": "интимный",
+      "fr": "intime"
     },
     "examples": [],
     "meta": {}
@@ -19633,7 +20371,8 @@ const WORDS_NL_B1 = [
       "pt": "chover",
       "ja": "雨が降る",
       "zh": "下雨",
-      "ru": "идти дождь"
+      "ru": "идти дождь",
+      "fr": "pleuvoir"
     },
     "examples": [],
     "meta": {},
@@ -19662,7 +20401,8 @@ const WORDS_NL_B1 = [
       "pt": "triste",
       "ja": "悲しい",
       "zh": "悲伤的",
-      "ru": "грустный"
+      "ru": "грустный",
+      "fr": "triste"
     },
     "examples": [],
     "meta": {}
@@ -19687,7 +20427,8 @@ const WORDS_NL_B1 = [
       "pt": "o substituto",
       "ja": "代わり",
       "zh": "替代者",
-      "ru": "заместитель"
+      "ru": "заместитель",
+      "fr": "substitut"
     },
     "examples": [],
     "meta": {},
@@ -19714,7 +20455,8 @@ const WORDS_NL_B1 = [
       "pt": "o cocô",
       "ja": "うんち",
       "zh": "大便",
-      "ru": "кал"
+      "ru": "кал",
+      "fr": "caca"
     },
     "examples": [],
     "meta": {},
@@ -19741,7 +20483,8 @@ const WORDS_NL_B1 = [
       "pt": "furioso",
       "ja": "激怒した",
       "zh": "狂怒的",
-      "ru": "яростный"
+      "ru": "яростный",
+      "fr": "furieux"
     },
     "examples": [],
     "meta": {}
@@ -19766,7 +20509,8 @@ const WORDS_NL_B1 = [
       "pt": "o barman",
       "ja": "バーテンダー",
       "zh": "酒保",
-      "ru": "бармен"
+      "ru": "бармен",
+      "fr": "barman"
     },
     "examples": [],
     "meta": {},
@@ -19793,7 +20537,8 @@ const WORDS_NL_B1 = [
       "pt": "lamber",
       "ja": "舐める",
       "zh": "舔",
-      "ru": "лизать"
+      "ru": "лизать",
+      "fr": "lécher"
     },
     "examples": [],
     "meta": {},
@@ -19821,7 +20566,8 @@ const WORDS_NL_B1 = [
       "pt": "o equilíbrio",
       "ja": "バランス",
       "zh": "平衡",
-      "ru": "равновесие"
+      "ru": "равновесие",
+      "fr": "équilibre"
     },
     "examples": [],
     "meta": {},
@@ -19848,7 +20594,8 @@ const WORDS_NL_B1 = [
       "pt": "a norma",
       "ja": "規範",
       "zh": "规范",
-      "ru": "норма"
+      "ru": "норма",
+      "fr": "norme"
     },
     "examples": [],
     "meta": {},
@@ -19875,7 +20622,8 @@ const WORDS_NL_B1 = [
       "pt": "estúpido",
       "ja": "愚かな",
       "zh": "愚蠢的",
-      "ru": "глупый"
+      "ru": "глупый",
+      "fr": "stupide"
     },
     "examples": [],
     "meta": {}
@@ -19900,7 +20648,8 @@ const WORDS_NL_B1 = [
       "pt": "distinguir",
       "ja": "区別する",
       "zh": "区分",
-      "ru": "различать"
+      "ru": "различать",
+      "fr": "distinguer"
     },
     "examples": [],
     "meta": {},
@@ -19928,7 +20677,8 @@ const WORDS_NL_B1 = [
       "pt": "distinto",
       "ja": "異なる",
       "zh": "独特的",
-      "ru": "отличительный"
+      "ru": "отличительный",
+      "fr": "distinct"
     },
     "examples": [],
     "meta": {}
@@ -19953,7 +20703,8 @@ const WORDS_NL_B1 = [
       "pt": "significar",
       "ja": "意味する",
       "zh": "意指",
-      "ru": "означать"
+      "ru": "означать",
+      "fr": "signifier"
     },
     "examples": [],
     "meta": {},
@@ -19981,7 +20732,8 @@ const WORDS_NL_B1 = [
       "pt": "o massacre",
       "ja": "大虐殺",
       "zh": "大屠杀",
-      "ru": "резня"
+      "ru": "резня",
+      "fr": "massacre"
     },
     "examples": [],
     "meta": {},
@@ -20008,7 +20760,8 @@ const WORDS_NL_B1 = [
       "pt": "o sistema solar",
       "ja": "太陽系",
       "zh": "太阳系",
-      "ru": "солнечная система"
+      "ru": "солнечная система",
+      "fr": "système solaire"
     },
     "examples": [],
     "meta": {},
@@ -20035,7 +20788,8 @@ const WORDS_NL_B1 = [
       "pt": "a corrida",
       "ja": "殺到",
       "zh": "抢购",
-      "ru": "наплыв"
+      "ru": "наплыв",
+      "fr": "ruée"
     },
     "examples": [],
     "meta": {},
@@ -20062,7 +20816,8 @@ const WORDS_NL_B1 = [
       "pt": "vermelho",
       "ja": "赤い",
       "zh": "红色的",
-      "ru": "красный"
+      "ru": "красный",
+      "fr": "rouge"
     },
     "examples": [],
     "meta": {}
@@ -20087,7 +20842,8 @@ const WORDS_NL_B1 = [
       "pt": "lésbica",
       "ja": "レズビアンの",
       "zh": "女同性恋的",
-      "ru": "лесбийский"
+      "ru": "лесбийский",
+      "fr": "lesbienne"
     },
     "examples": [],
     "meta": {}
@@ -20111,7 +20867,8 @@ const WORDS_NL_B1 = [
       "pt": "o cisto",
       "ja": "嚢腫",
       "zh": "囊肿",
-      "ru": "киста"
+      "ru": "киста",
+      "fr": "kyste"
     },
     "examples": [],
     "meta": {},
@@ -20138,7 +20895,8 @@ const WORDS_NL_B1 = [
       "pt": "largo",
       "ja": "広い",
       "zh": "宽",
-      "ru": "широкий"
+      "ru": "широкий",
+      "fr": "large"
     },
     "examples": [],
     "meta": {}
@@ -20162,7 +20920,8 @@ const WORDS_NL_B1 = [
       "pt": "o assassino de aluguel",
       "ja": "ヒットマン",
       "zh": "杀手",
-      "ru": "наемный убийца"
+      "ru": "наемный убийца",
+      "fr": "tueur à gages"
     },
     "examples": [],
     "meta": {},
@@ -20188,7 +20947,8 @@ const WORDS_NL_B1 = [
       "pt": "o yang",
       "ja": "陽",
       "zh": "阳",
-      "ru": "ян"
+      "ru": "ян",
+      "fr": "yang"
     },
     "examples": [],
     "meta": {},
@@ -20214,7 +20974,8 @@ const WORDS_NL_B1 = [
       "pt": "o bagaço",
       "ja": "マール",
       "zh": "马克白兰地",
-      "ru": "марк"
+      "ru": "марк",
+      "fr": "marc"
     },
     "examples": [],
     "meta": {},
@@ -20241,7 +21002,8 @@ const WORDS_NL_B1 = [
       "pt": "evacuar",
       "ja": "避難させる",
       "zh": "疏散",
-      "ru": "эвакуировать"
+      "ru": "эвакуировать",
+      "fr": "évacuer"
     },
     "examples": [],
     "meta": {},
@@ -20268,7 +21030,8 @@ const WORDS_NL_B1 = [
       "pt": "o tronco",
       "ja": "胴体",
       "zh": "躯干",
-      "ru": "туловище"
+      "ru": "туловище",
+      "fr": "torse"
     },
     "examples": [],
     "meta": {},
@@ -20295,7 +21058,8 @@ const WORDS_NL_B1 = [
       "pt": "venenoso",
       "ja": "有毒な",
       "zh": "有毒",
-      "ru": "ядовитый"
+      "ru": "ядовитый",
+      "fr": "venimeux"
     },
     "examples": [],
     "meta": {}
@@ -20320,7 +21084,8 @@ const WORDS_NL_B1 = [
       "pt": "correr",
       "ja": "競争する",
       "zh": "赛跑",
-      "ru": "гоняться"
+      "ru": "гоняться",
+      "fr": "race"
     },
     "examples": [],
     "meta": {},
@@ -20348,7 +21113,8 @@ const WORDS_NL_B1 = [
       "pt": "fascinante",
       "ja": "魅力的な",
       "zh": "引人入胜",
-      "ru": "увлекательный"
+      "ru": "увлекательный",
+      "fr": "fascinant"
     },
     "examples": [],
     "meta": {}
@@ -20373,7 +21139,8 @@ const WORDS_NL_B1 = [
       "pt": "experiente",
       "ja": "熟練した",
       "zh": "熟练",
-      "ru": "опытный"
+      "ru": "опытный",
+      "fr": "pratiqué"
     },
     "examples": [],
     "meta": {}
@@ -20398,7 +21165,8 @@ const WORDS_NL_B1 = [
       "pt": "o tubo",
       "ja": "管",
       "zh": "管",
-      "ru": "труба"
+      "ru": "труба",
+      "fr": "tube"
     },
     "examples": [],
     "meta": {},
@@ -20425,7 +21193,8 @@ const WORDS_NL_B1 = [
       "pt": "a corrente de ar",
       "ja": "すきま風",
       "zh": "穿堂风",
-      "ru": "сквозняк"
+      "ru": "сквозняк",
+      "fr": "brouillon"
     },
     "examples": [],
     "meta": {},
@@ -20452,7 +21221,8 @@ const WORDS_NL_B1 = [
       "pt": "doar",
       "ja": "寄付する",
       "zh": "捐赠",
-      "ru": "дарить"
+      "ru": "дарить",
+      "fr": "donner"
     },
     "examples": [],
     "meta": {},
@@ -20480,7 +21250,8 @@ const WORDS_NL_B1 = [
       "pt": "intenso",
       "ja": "強烈な",
       "zh": "强烈",
-      "ru": "интенсивный"
+      "ru": "интенсивный",
+      "fr": "intense"
     },
     "examples": [],
     "meta": {}
@@ -20505,7 +21276,8 @@ const WORDS_NL_B1 = [
       "pt": "manter-se afastado",
       "ja": "手を出さない",
       "zh": "别碰",
-      "ru": "не трогать"
+      "ru": "не трогать",
+      "fr": "éloigner"
     },
     "examples": [],
     "meta": {},
@@ -20533,7 +21305,8 @@ const WORDS_NL_B1 = [
       "pt": "surpreso",
       "ja": "驚いた",
       "zh": "惊讶",
-      "ru": "изумленный"
+      "ru": "изумленный",
+      "fr": "étonné"
     },
     "examples": [],
     "meta": {}
@@ -20558,7 +21331,8 @@ const WORDS_NL_B1 = [
       "pt": "o entalhe",
       "ja": "刻み目",
       "zh": "刻痕",
-      "ru": "зазубрина"
+      "ru": "зазубрина",
+      "fr": "encoche"
     },
     "examples": [],
     "meta": {},
@@ -20585,7 +21359,8 @@ const WORDS_NL_B1 = [
       "pt": "a urina",
       "ja": "尿",
       "zh": "尿液",
-      "ru": "моча"
+      "ru": "моча",
+      "fr": "urine"
     },
     "examples": [],
     "meta": {},
@@ -20612,7 +21387,8 @@ const WORDS_NL_B1 = [
       "pt": "informar",
       "ja": "知らせる",
       "zh": "通知",
-      "ru": "информировать"
+      "ru": "информировать",
+      "fr": "informer"
     },
     "examples": [],
     "meta": {},
@@ -20641,7 +21417,8 @@ const WORDS_NL_B1 = [
       "pt": "o metrô",
       "ja": "地下鉄",
       "zh": "地铁",
-      "ru": "метро"
+      "ru": "метро",
+      "fr": "métro"
     },
     "examples": [],
     "meta": {},
@@ -20668,7 +21445,8 @@ const WORDS_NL_B1 = [
       "pt": "dramático",
       "ja": "劇的な",
       "zh": "戏剧性",
-      "ru": "драматический"
+      "ru": "драматический",
+      "fr": "dramatique"
     },
     "examples": [],
     "meta": {}
@@ -20693,7 +21471,8 @@ const WORDS_NL_B1 = [
       "pt": "recuperar",
       "ja": "取り戻す",
       "zh": "取回",
-      "ru": "получить обратно"
+      "ru": "получить обратно",
+      "fr": "revenir"
     },
     "examples": [],
     "meta": {},
@@ -20720,7 +21499,8 @@ const WORDS_NL_B1 = [
       "pt": "o pôquer",
       "ja": "ポーカー",
       "zh": "扑克",
-      "ru": "покер"
+      "ru": "покер",
+      "fr": "poker"
     },
     "examples": [],
     "meta": {},
@@ -20747,7 +21527,8 @@ const WORDS_NL_B1 = [
       "pt": "passar",
       "ja": "通過する",
       "zh": "通过",
-      "ru": "проходить"
+      "ru": "проходить",
+      "fr": "passe"
     },
     "examples": [],
     "meta": {},
@@ -20775,7 +21556,8 @@ const WORDS_NL_B1 = [
       "pt": "apertado",
       "ja": "きつい",
       "zh": "紧的",
-      "ru": "тесный"
+      "ru": "тесный",
+      "fr": "serré"
     },
     "examples": [],
     "meta": {}
@@ -20799,7 +21581,8 @@ const WORDS_NL_B1 = [
       "pt": "o fecho de livro",
       "ja": "本の留め金",
       "zh": "书锁",
-      "ru": "книжный замок"
+      "ru": "книжный замок",
+      "fr": "cadenas"
     },
     "examples": [],
     "meta": {},
@@ -20826,7 +21609,8 @@ const WORDS_NL_B1 = [
       "pt": "o veterinário",
       "ja": "獣医",
       "zh": "兽医",
-      "ru": "ветеринар"
+      "ru": "ветеринар",
+      "fr": "vétérinaire"
     },
     "examples": [],
     "meta": {},
@@ -20853,7 +21637,8 @@ const WORDS_NL_B1 = [
       "pt": "generoso",
       "ja": "寛大な",
       "zh": "慷慨的",
-      "ru": "щедрый"
+      "ru": "щедрый",
+      "fr": "généreux"
     },
     "examples": [],
     "meta": {}
@@ -20878,7 +21663,8 @@ const WORDS_NL_B1 = [
       "pt": "o bacalhau",
       "ja": "タラ",
       "zh": "鳕鱼",
-      "ru": "треска"
+      "ru": "треска",
+      "fr": "morue"
     },
     "examples": [],
     "meta": {},
@@ -20905,7 +21691,8 @@ const WORDS_NL_B1 = [
       "pt": "o bife",
       "ja": "ステーキ",
       "zh": "牛排",
-      "ru": "стейк"
+      "ru": "стейк",
+      "fr": "steak"
     },
     "examples": [],
     "meta": {},
@@ -20931,7 +21718,8 @@ const WORDS_NL_B1 = [
       "pt": "o lobisomem",
       "ja": "狼男",
       "zh": "狼人",
-      "ru": "оборотень"
+      "ru": "оборотень",
+      "fr": "loup-garou"
     },
     "examples": [],
     "meta": {},
@@ -20957,7 +21745,8 @@ const WORDS_NL_B1 = [
       "pt": "a polaina",
       "ja": "ゲートル",
       "zh": "绑腿",
-      "ru": "гетры"
+      "ru": "гетры",
+      "fr": "guêtre"
     },
     "examples": [],
     "meta": {},
@@ -20983,7 +21772,8 @@ const WORDS_NL_B1 = [
       "pt": "agarrar",
       "ja": "奪い取る",
       "zh": "抢夺",
-      "ru": "схватить"
+      "ru": "схватить",
+      "fr": "arracher"
     },
     "examples": [],
     "meta": {},
@@ -21011,7 +21801,8 @@ const WORDS_NL_B1 = [
       "pt": "representar",
       "ja": "代表する",
       "zh": "代表",
-      "ru": "представлять"
+      "ru": "представлять",
+      "fr": "représenter"
     },
     "examples": [],
     "meta": {},
@@ -21039,7 +21830,8 @@ const WORDS_NL_B1 = [
       "pt": "o Ano Novo",
       "ja": "新年",
       "zh": "新年",
-      "ru": "Новый год"
+      "ru": "Новый год",
+      "fr": "Nouvel An"
     },
     "examples": [],
     "meta": {},
@@ -21066,7 +21858,8 @@ const WORDS_NL_B1 = [
       "pt": "a tinta",
       "ja": "インク",
       "zh": "墨水",
-      "ru": "чернила"
+      "ru": "чернила",
+      "fr": "encre"
     },
     "examples": [],
     "meta": {},
@@ -21093,7 +21886,8 @@ const WORDS_NL_B1 = [
       "pt": "a limonada",
       "ja": "レモネード",
       "zh": "柠檬水",
-      "ru": "лимонад"
+      "ru": "лимонад",
+      "fr": "limonade"
     },
     "examples": [],
     "meta": {},
@@ -21120,7 +21914,8 @@ const WORDS_NL_B1 = [
       "pt": "rasgado",
       "ja": "破れた",
       "zh": "撕裂的",
-      "ru": "порванный"
+      "ru": "порванный",
+      "fr": "déchiré"
     },
     "examples": [],
     "meta": {}
@@ -21145,7 +21940,8 @@ const WORDS_NL_B1 = [
       "pt": "o batedor",
       "ja": "泡立て器",
       "zh": "打蛋器",
-      "ru": "венчик"
+      "ru": "венчик",
+      "fr": "fouet"
     },
     "examples": [],
     "meta": {},
@@ -21172,7 +21968,8 @@ const WORDS_NL_B1 = [
       "pt": "o take",
       "ja": "ショット",
       "zh": "镜头",
-      "ru": "кадр"
+      "ru": "кадр",
+      "fr": "coup"
     },
     "examples": [],
     "meta": {},
@@ -21199,7 +21996,8 @@ const WORDS_NL_B1 = [
       "pt": "projetar",
       "ja": "設計する",
       "zh": "设计",
-      "ru": "проектировать"
+      "ru": "проектировать",
+      "fr": "concevoir"
     },
     "examples": [],
     "meta": {},
@@ -21226,7 +22024,8 @@ const WORDS_NL_B1 = [
       "pt": "o popa",
       "ja": "司祭",
       "zh": "东正教神父",
-      "ru": "поп"
+      "ru": "поп",
+      "fr": "pope"
     },
     "examples": [],
     "meta": {},
@@ -21253,7 +22052,8 @@ const WORDS_NL_B1 = [
       "pt": "a tripulação",
       "ja": "乗組員",
       "zh": "船员",
-      "ru": "экипаж"
+      "ru": "экипаж",
+      "fr": "équipage"
     },
     "examples": [],
     "meta": {},
@@ -21280,7 +22080,8 @@ const WORDS_NL_B1 = [
       "pt": "a passagem",
       "ja": "通路",
       "zh": "通道",
-      "ru": "проход"
+      "ru": "проход",
+      "fr": "passage"
     },
     "examples": [],
     "meta": {},
@@ -21307,7 +22108,8 @@ const WORDS_NL_B1 = [
       "pt": "o grito",
       "ja": "叫び声",
       "zh": "叫喊",
-      "ru": "крик"
+      "ru": "крик",
+      "fr": "cri"
     },
     "examples": [],
     "meta": {},
@@ -21334,7 +22136,8 @@ const WORDS_NL_B1 = [
       "pt": "o membro da realeza",
       "ja": "王族",
       "zh": "王室成员",
-      "ru": "член королевской семьи"
+      "ru": "член королевской семьи",
+      "fr": "royal"
     },
     "examples": [],
     "meta": {},
@@ -21361,7 +22164,8 @@ const WORDS_NL_B1 = [
       "pt": "o mais querido",
       "ja": "最も好きな",
       "zh": "最好的",
-      "ru": "самый любимый"
+      "ru": "самый любимый",
+      "fr": "le plus gentil"
     },
     "examples": [],
     "meta": {}
@@ -21385,7 +22189,8 @@ const WORDS_NL_B1 = [
       "pt": "o orfanato",
       "ja": "孤児院",
       "zh": "孤儿院",
-      "ru": "приют"
+      "ru": "приют",
+      "fr": "orphelinat"
     },
     "examples": [],
     "meta": {},
@@ -21412,7 +22217,8 @@ const WORDS_NL_B1 = [
       "pt": "em primeiro lugar",
       "ja": "まず第一に",
       "zh": "首先",
-      "ru": "прежде всего"
+      "ru": "прежде всего",
+      "fr": "d'abord"
     },
     "examples": [],
     "meta": {}
@@ -21437,7 +22243,8 @@ const WORDS_NL_B1 = [
       "pt": "independente",
       "ja": "独立した",
       "zh": "独立的",
-      "ru": "независимый"
+      "ru": "независимый",
+      "fr": "indépendant"
     },
     "examples": [],
     "meta": {}
@@ -21462,7 +22269,8 @@ const WORDS_NL_B1 = [
       "pt": "o centro",
       "ja": "中心",
       "zh": "中心",
-      "ru": "центр"
+      "ru": "центр",
+      "fr": "centre"
     },
     "examples": [],
     "meta": {},
@@ -21489,7 +22297,8 @@ const WORDS_NL_B1 = [
       "pt": "o lutador",
       "ja": "戦士",
       "zh": "战士",
-      "ru": "боец"
+      "ru": "боец",
+      "fr": "combattant"
     },
     "examples": [],
     "meta": {},
@@ -21516,7 +22325,8 @@ const WORDS_NL_B1 = [
       "pt": "o boneco de Abraão",
       "ja": "アブラハム人形",
       "zh": "亚伯拉罕玩偶",
-      "ru": "кукла Авраама"
+      "ru": "кукла Авраама",
+      "fr": "poupée Abraham"
     },
     "examples": [],
     "meta": {},
@@ -21543,7 +22353,8 @@ const WORDS_NL_B1 = [
       "pt": "irradiar",
       "ja": "放射する",
       "zh": "辐射",
-      "ru": "излучать"
+      "ru": "излучать",
+      "fr": "rayonner"
     },
     "examples": [],
     "meta": {},
@@ -21571,7 +22382,8 @@ const WORDS_NL_B1 = [
       "pt": "a vela",
       "ja": "帆",
       "zh": "帆",
-      "ru": "парус"
+      "ru": "парус",
+      "fr": "voile"
     },
     "examples": [],
     "meta": {},
@@ -21598,7 +22410,8 @@ const WORDS_NL_B1 = [
       "pt": "a consulta",
       "ja": "協議",
       "zh": "协商",
-      "ru": "консультация"
+      "ru": "консультация",
+      "fr": "consultation"
     },
     "examples": [],
     "meta": {},
@@ -21625,7 +22438,8 @@ const WORDS_NL_B1 = [
       "pt": "mencionado",
       "ja": "記載された",
       "zh": "提及的",
-      "ru": "упомянутый"
+      "ru": "упомянутый",
+      "fr": "mentionné"
     },
     "examples": [],
     "meta": {}
@@ -21650,7 +22464,8 @@ const WORDS_NL_B1 = [
       "pt": "resistente",
       "ja": "丈夫な",
       "zh": "坚韧的",
-      "ru": "жесткий"
+      "ru": "жесткий",
+      "fr": "dur"
     },
     "examples": [],
     "meta": {}
@@ -21675,7 +22490,8 @@ const WORDS_NL_B1 = [
       "pt": "o calcanhar",
       "ja": "かかと",
       "zh": "脚跟",
-      "ru": "пятка"
+      "ru": "пятка",
+      "fr": "talon"
     },
     "examples": [],
     "meta": {},
@@ -21702,7 +22518,8 @@ const WORDS_NL_B1 = [
       "pt": "magro",
       "ja": "痩せた",
       "zh": "瘦的",
-      "ru": "худой"
+      "ru": "худой",
+      "fr": "mince"
     },
     "examples": [],
     "meta": {}
@@ -21727,7 +22544,8 @@ const WORDS_NL_B1 = [
       "pt": "reprovar",
       "ja": "非難する",
       "zh": "指责",
-      "ru": "упрекать"
+      "ru": "упрекать",
+      "fr": "reproche"
     },
     "examples": [],
     "meta": {},
@@ -21755,7 +22573,8 @@ const WORDS_NL_B1 = [
       "pt": "a sobremesa",
       "ja": "デザート",
       "zh": "甜点",
-      "ru": "десерт"
+      "ru": "десерт",
+      "fr": "dessert"
     },
     "examples": [],
     "meta": {},
@@ -21782,7 +22601,8 @@ const WORDS_NL_B1 = [
       "pt": "o padrasto",
       "ja": "継父",
       "zh": "继父",
-      "ru": "отчим"
+      "ru": "отчим",
+      "fr": "beau-père"
     },
     "examples": [],
     "meta": {},
@@ -21809,7 +22629,8 @@ const WORDS_NL_B1 = [
       "pt": "o tema",
       "ja": "テーマ",
       "zh": "主题",
-      "ru": "тема"
+      "ru": "тема",
+      "fr": "thème"
     },
     "examples": [],
     "meta": {},
@@ -21836,7 +22657,8 @@ const WORDS_NL_B1 = [
       "pt": "velejar",
       "ja": "航海する",
       "zh": "航行",
-      "ru": "плавать"
+      "ru": "плавать",
+      "fr": "voile"
     },
     "examples": [],
     "meta": {},
@@ -21864,7 +22686,8 @@ const WORDS_NL_B1 = [
       "pt": "a vela",
       "ja": "セーリング",
       "zh": "帆船运动",
-      "ru": "парусный спорт"
+      "ru": "парусный спорт",
+      "fr": "navigation"
     },
     "examples": [],
     "meta": {},
@@ -21891,7 +22714,8 @@ const WORDS_NL_B1 = [
       "pt": "o servo",
       "ja": "召使い",
       "zh": "仆人",
-      "ru": "слуга"
+      "ru": "слуга",
+      "fr": "serviteur"
     },
     "examples": [],
     "meta": {},
@@ -21918,7 +22742,8 @@ const WORDS_NL_B1 = [
       "pt": "configurado",
       "ja": "設定された",
       "zh": "设置的",
-      "ru": "настроенный"
+      "ru": "настроенный",
+      "fr": "ensemble"
     },
     "examples": [],
     "meta": {}
@@ -21943,7 +22768,8 @@ const WORDS_NL_B1 = [
       "pt": "cozido",
       "ja": "料理された",
       "zh": "煮熟的",
-      "ru": "приготовленный"
+      "ru": "приготовленный",
+      "fr": "cuit"
     },
     "examples": [],
     "meta": {}
@@ -21967,7 +22793,8 @@ const WORDS_NL_B1 = [
       "pt": "o idiota",
       "ja": "馬鹿",
       "zh": "白痴",
-      "ru": "идиот"
+      "ru": "идиот",
+      "fr": "idiot"
     },
     "examples": [],
     "meta": {},
@@ -21993,7 +22820,8 @@ const WORDS_NL_B1 = [
       "pt": "o esquisitão",
       "ja": "変人",
       "zh": "怪人",
-      "ru": "чудак"
+      "ru": "чудак",
+      "fr": "cinglé"
     },
     "examples": [],
     "meta": {},
@@ -22019,7 +22847,8 @@ const WORDS_NL_B1 = [
       "pt": "o preservativo",
       "ja": "コンドーム",
       "zh": "避孕套",
-      "ru": "презерватив"
+      "ru": "презерватив",
+      "fr": "préservatif"
     },
     "examples": [],
     "meta": {},
@@ -22046,7 +22875,8 @@ const WORDS_NL_B1 = [
       "pt": "o meio social",
       "ja": "社会環境",
       "zh": "社会环境",
-      "ru": "социальная среда"
+      "ru": "социальная среда",
+      "fr": "environnement social"
     },
     "examples": [],
     "meta": {},
@@ -22073,7 +22903,8 @@ const WORDS_NL_B1 = [
       "pt": "empreender",
       "ja": "着手する",
       "zh": "承担",
-      "ru": "предпринимать"
+      "ru": "предпринимать",
+      "fr": "entreprendre"
     },
     "examples": [],
     "meta": {},
@@ -22101,7 +22932,8 @@ const WORDS_NL_B1 = [
       "pt": "tanto",
       "ja": "同量の",
       "zh": "同样多的",
-      "ru": "столько же"
+      "ru": "столько же",
+      "fr": "autant"
     },
     "examples": [],
     "meta": {}
@@ -22126,7 +22958,8 @@ const WORDS_NL_B1 = [
       "pt": "satisfazer",
       "ja": "満たす",
       "zh": "满足",
-      "ru": "удовлетворять"
+      "ru": "удовлетворять",
+      "fr": "satisfaire"
     },
     "examples": [],
     "meta": {},
@@ -22154,7 +22987,8 @@ const WORDS_NL_B1 = [
       "pt": "a luz do dia",
       "ja": "日光",
       "zh": "日光",
-      "ru": "дневной свет"
+      "ru": "дневной свет",
+      "fr": "jour"
     },
     "examples": [],
     "meta": {},
@@ -22181,7 +23015,8 @@ const WORDS_NL_B1 = [
       "pt": "acoplar",
       "ja": "連結する",
       "zh": "连接",
-      "ru": "соединять"
+      "ru": "соединять",
+      "fr": "lien"
     },
     "examples": [],
     "meta": {},
@@ -22209,7 +23044,8 @@ const WORDS_NL_B1 = [
       "pt": "o casamento forçado",
       "ja": "駆け落ち結婚",
       "zh": "奉子成婚",
-      "ru": "вынужденный брак"
+      "ru": "вынужденный брак",
+      "fr": "mariage forcé"
     },
     "examples": [],
     "meta": {},
@@ -22236,7 +23072,8 @@ const WORDS_NL_B1 = [
       "pt": "a contribuição",
       "ja": "貢献",
       "zh": "贡献",
-      "ru": "вклад"
+      "ru": "вклад",
+      "fr": "contribution"
     },
     "examples": [],
     "meta": {},
@@ -22263,7 +23100,8 @@ const WORDS_NL_B1 = [
       "pt": "a arte",
       "ja": "芸術",
       "zh": "艺术",
-      "ru": "искусство"
+      "ru": "искусство",
+      "fr": "art"
     },
     "examples": [],
     "meta": {},
@@ -22290,7 +23128,8 @@ const WORDS_NL_B1 = [
       "pt": "a academia",
       "ja": "スポーツジム",
       "zh": "健身房",
-      "ru": "спортзал"
+      "ru": "спортзал",
+      "fr": "gymnase"
     },
     "examples": [],
     "meta": {},
@@ -22317,7 +23156,8 @@ const WORDS_NL_B1 = [
       "pt": "o mito",
       "ja": "神話",
       "zh": "神话",
-      "ru": "миф"
+      "ru": "миф",
+      "fr": "mythe"
     },
     "examples": [],
     "meta": {},
@@ -22344,7 +23184,8 @@ const WORDS_NL_B1 = [
       "pt": "a colheita",
       "ja": "収穫",
       "zh": "收获",
-      "ru": "урожай"
+      "ru": "урожай",
+      "fr": "récolte"
     },
     "examples": [],
     "meta": {},
@@ -22371,7 +23212,8 @@ const WORDS_NL_B1 = [
       "pt": "o gin",
       "ja": "ジン",
       "zh": "杜松子酒",
-      "ru": "джин"
+      "ru": "джин",
+      "fr": "gin"
     },
     "examples": [],
     "meta": {},
@@ -22398,7 +23240,8 @@ const WORDS_NL_B1 = [
       "pt": "escapar",
       "ja": "逃れる",
       "zh": "逃避",
-      "ru": "избегать"
+      "ru": "избегать",
+      "fr": "évasion"
     },
     "examples": [],
     "meta": {},
@@ -22426,7 +23269,8 @@ const WORDS_NL_B1 = [
       "pt": "o funcionário",
       "ja": "従業員",
       "zh": "员工",
-      "ru": "сотрудник"
+      "ru": "сотрудник",
+      "fr": "employé"
     },
     "examples": [],
     "meta": {},
@@ -22453,7 +23297,8 @@ const WORDS_NL_B1 = [
       "pt": "suar",
       "ja": "汗をかく",
       "zh": "出汗",
-      "ru": "потеть"
+      "ru": "потеть",
+      "fr": "sueur"
     },
     "examples": [],
     "meta": {},
@@ -22481,7 +23326,8 @@ const WORDS_NL_B1 = [
       "pt": "o antídoto",
       "ja": "解毒剤",
       "zh": "解毒剂",
-      "ru": "противоядие"
+      "ru": "противоядие",
+      "fr": "antidote"
     },
     "examples": [],
     "meta": {},
@@ -22508,7 +23354,8 @@ const WORDS_NL_B1 = [
       "pt": "o cemitério",
       "ja": "墓地",
       "zh": "墓地",
-      "ru": "кладбище"
+      "ru": "кладбище",
+      "fr": "cimetière"
     },
     "examples": [],
     "meta": {},
@@ -22535,7 +23382,8 @@ const WORDS_NL_B1 = [
       "pt": "olhar em volta",
       "ja": "見回す",
       "zh": "四处看看",
-      "ru": "осматриваться"
+      "ru": "осматриваться",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -22563,7 +23411,8 @@ const WORDS_NL_B1 = [
       "pt": "pertencer",
       "ja": "属する",
       "zh": "属于",
-      "ru": "принадлежать"
+      "ru": "принадлежать",
+      "fr": "appartenir"
     },
     "examples": [],
     "meta": {},
@@ -22591,7 +23440,8 @@ const WORDS_NL_B1 = [
       "pt": "o formulário",
       "ja": "用紙",
       "zh": "表格",
-      "ru": "бланк"
+      "ru": "бланк",
+      "fr": "forme"
     },
     "examples": [],
     "meta": {},
@@ -22618,7 +23468,8 @@ const WORDS_NL_B1 = [
       "pt": "retirar",
       "ja": "撤回する",
       "zh": "撤回",
-      "ru": "отзывать"
+      "ru": "отзывать",
+      "fr": "retirer"
     },
     "examples": [],
     "meta": {},
@@ -22646,7 +23497,8 @@ const WORDS_NL_B1 = [
       "pt": "manchar",
       "ja": "汚す",
       "zh": "弄脏",
-      "ru": "пачкать"
+      "ru": "пачкать",
+      "fr": "tache"
     },
     "examples": [],
     "meta": {},
@@ -22674,7 +23526,8 @@ const WORDS_NL_B1 = [
       "pt": "o charme",
       "ja": "魅力",
       "zh": "魅力",
-      "ru": "шарм"
+      "ru": "шарм",
+      "fr": "charme"
     },
     "examples": [],
     "meta": {},
@@ -22701,7 +23554,8 @@ const WORDS_NL_B1 = [
       "pt": "interrogar",
       "ja": "尋問する",
       "zh": "审问",
-      "ru": "допрашивать"
+      "ru": "допрашивать",
+      "fr": "interroger"
     },
     "examples": [],
     "meta": {},
@@ -22729,7 +23583,8 @@ const WORDS_NL_B1 = [
       "pt": "governar",
       "ja": "統治する",
       "zh": "统治",
-      "ru": "править"
+      "ru": "править",
+      "fr": "gouverner"
     },
     "examples": [],
     "meta": {},
@@ -22757,7 +23612,8 @@ const WORDS_NL_B1 = [
       "pt": "o salvador",
       "ja": "救助者",
       "zh": "救助者",
-      "ru": "спаситель"
+      "ru": "спаситель",
+      "fr": "sauveteur"
     },
     "examples": [],
     "meta": {},
@@ -22784,7 +23640,8 @@ const WORDS_NL_B1 = [
       "pt": "o secretário",
       "ja": "秘書",
       "zh": "秘书",
-      "ru": "секретарь"
+      "ru": "секретарь",
+      "fr": "secrétaire"
     },
     "examples": [],
     "meta": {},
@@ -22811,7 +23668,8 @@ const WORDS_NL_B1 = [
       "pt": "acenar",
       "ja": "振る",
       "zh": "挥手",
-      "ru": "махать"
+      "ru": "махать",
+      "fr": "vague"
     },
     "examples": [],
     "meta": {},
@@ -22839,7 +23697,8 @@ const WORDS_NL_B1 = [
       "pt": "bem cuidado",
       "ja": "きちんとした",
       "zh": "整洁的",
-      "ru": "ухоженный"
+      "ru": "ухоженный",
+      "fr": "soigné"
     },
     "examples": [],
     "meta": {}
@@ -22864,7 +23723,8 @@ const WORDS_NL_B1 = [
       "pt": "o anão",
       "ja": "小人",
       "zh": "矮人",
-      "ru": "гном"
+      "ru": "гном",
+      "fr": "nain"
     },
     "examples": [],
     "meta": {},
@@ -22891,7 +23751,8 @@ const WORDS_NL_B1 = [
       "pt": "largo",
       "ja": "広い",
       "zh": "宽的",
-      "ru": "широкий"
+      "ru": "широкий",
+      "fr": "large"
     },
     "examples": [],
     "meta": {}
@@ -22916,7 +23777,8 @@ const WORDS_NL_B1 = [
       "pt": "feroz",
       "ja": "激しい",
       "zh": "凶猛的",
-      "ru": "яростный"
+      "ru": "яростный",
+      "fr": "féroce"
     },
     "examples": [],
     "meta": {}
@@ -22941,7 +23803,8 @@ const WORDS_NL_B1 = [
       "pt": "a sobremesa",
       "ja": "デザート",
       "zh": "甜点",
-      "ru": "десерт"
+      "ru": "десерт",
+      "fr": "dessert"
     },
     "examples": [],
     "meta": {},
@@ -22968,7 +23831,8 @@ const WORDS_NL_B1 = [
       "pt": "real",
       "ja": "実際の",
       "zh": "实际的",
-      "ru": "фактический"
+      "ru": "фактический",
+      "fr": "réel"
     },
     "examples": [],
     "meta": {}
@@ -22993,7 +23857,8 @@ const WORDS_NL_B1 = [
       "pt": "o animal de estimação",
       "ja": "ペット",
       "zh": "宠物",
-      "ru": "домашнее животное"
+      "ru": "домашнее животное",
+      "fr": "animal"
     },
     "examples": [],
     "meta": {},
@@ -23020,7 +23885,8 @@ const WORDS_NL_B1 = [
       "pt": "a ovelha",
       "ja": "羊",
       "zh": "羊",
-      "ru": "овца"
+      "ru": "овца",
+      "fr": "mouton"
     },
     "examples": [],
     "meta": {},
@@ -23047,7 +23913,8 @@ const WORDS_NL_B1 = [
       "pt": "o veredito",
       "ja": "判決",
       "zh": "判决",
-      "ru": "приговор"
+      "ru": "приговор",
+      "fr": "verdict"
     },
     "examples": [],
     "meta": {},
@@ -23074,7 +23941,8 @@ const WORDS_NL_B1 = [
       "pt": "o lar",
       "ja": "家",
       "zh": "家",
-      "ru": "дом"
+      "ru": "дом",
+      "fr": "maison"
     },
     "examples": [],
     "meta": {},
@@ -23101,7 +23969,8 @@ const WORDS_NL_B1 = [
       "pt": "a mancha",
       "ja": "斑点",
       "zh": "斑点",
-      "ru": "пятно"
+      "ru": "пятно",
+      "fr": "endroit"
     },
     "examples": [],
     "meta": {},
@@ -23128,7 +23997,8 @@ const WORDS_NL_B1 = [
       "pt": "o helicóptero",
       "ja": "ヘリコプター",
       "zh": "直升机",
-      "ru": "вертолет"
+      "ru": "вертолет",
+      "fr": "hélicoptère"
     },
     "examples": [],
     "meta": {},
@@ -23155,7 +24025,8 @@ const WORDS_NL_B1 = [
       "pt": "a geada",
       "ja": "霜",
       "zh": "霜",
-      "ru": "иней"
+      "ru": "иней",
+      "fr": "gel"
     },
     "examples": [],
     "meta": {},
@@ -23182,7 +24053,8 @@ const WORDS_NL_B1 = [
       "pt": "maduro",
       "ja": "熟した",
       "zh": "成熟的",
-      "ru": "спелый"
+      "ru": "спелый",
+      "fr": "mûr"
     },
     "examples": [],
     "meta": {}
@@ -23207,7 +24079,8 @@ const WORDS_NL_B1 = [
       "pt": "o toque",
       "ja": "軽くたたくこと",
       "zh": "轻敲",
-      "ru": "стук"
+      "ru": "стук",
+      "fr": "robinet"
     },
     "examples": [],
     "meta": {},
@@ -23234,7 +24107,8 @@ const WORDS_NL_B1 = [
       "pt": "imprudente",
       "ja": "無謀な",
       "zh": "鲁莽的",
-      "ru": "безрассудный"
+      "ru": "безрассудный",
+      "fr": "imprudent"
     },
     "examples": [],
     "meta": {}
@@ -23259,7 +24133,8 @@ const WORDS_NL_B1 = [
       "pt": "faminto",
       "ja": "空腹の",
       "zh": "饥饿的",
-      "ru": "голодный"
+      "ru": "голодный",
+      "fr": "affamé"
     },
     "examples": [],
     "meta": {}
@@ -23284,7 +24159,8 @@ const WORDS_NL_B1 = [
       "pt": "envergonhado",
       "ja": "恥ずかしい",
       "zh": "羞愧的",
-      "ru": "пристыженный"
+      "ru": "пристыженный",
+      "fr": "honteux"
     },
     "examples": [],
     "meta": {}
@@ -23309,7 +24185,8 @@ const WORDS_NL_B1 = [
       "pt": "enganar",
       "ja": "誤解させる",
       "zh": "误导",
-      "ru": "вводить в заблуждение"
+      "ru": "вводить в заблуждение",
+      "fr": "tromper"
     },
     "examples": [],
     "meta": {},
@@ -23337,7 +24214,8 @@ const WORDS_NL_B1 = [
       "pt": "o calibre",
       "ja": "口径",
       "zh": "口径",
-      "ru": "калибр"
+      "ru": "калибр",
+      "fr": "calibre"
     },
     "examples": [],
     "meta": {},
@@ -23364,7 +24242,8 @@ const WORDS_NL_B1 = [
       "pt": "desabar",
       "ja": "崩壊する",
       "zh": "倒塌",
-      "ru": "рухнуть"
+      "ru": "рухнуть",
+      "fr": "effondrement"
     },
     "examples": [],
     "meta": {},
@@ -23392,7 +24271,8 @@ const WORDS_NL_B1 = [
       "pt": "o sábado à noite",
       "ja": "土曜の夜",
       "zh": "周六晚上",
-      "ru": "субботний вечер"
+      "ru": "субботний вечер",
+      "fr": "samedi soir"
     },
     "examples": [],
     "meta": {},
@@ -23419,7 +24299,8 @@ const WORDS_NL_B1 = [
       "pt": "o carneiro",
       "ja": "雄羊",
       "zh": "公羊",
-      "ru": "баран"
+      "ru": "баран",
+      "fr": "bélier"
     },
     "examples": [],
     "meta": {},
@@ -23446,7 +24327,8 @@ const WORDS_NL_B1 = [
       "pt": "permanente",
       "ja": "永久的な",
       "zh": "永久的",
-      "ru": "постоянный"
+      "ru": "постоянный",
+      "fr": "permanent"
     },
     "examples": [],
     "meta": {}
@@ -23470,7 +24352,8 @@ const WORDS_NL_B1 = [
       "pt": "a permanente",
       "ja": "パーマ",
       "zh": "烫发",
-      "ru": "химическая завивка"
+      "ru": "химическая завивка",
+      "fr": "permanente"
     },
     "examples": [],
     "meta": {},
@@ -23496,7 +24379,8 @@ const WORDS_NL_B1 = [
       "pt": "estuprar",
       "ja": "暴行する",
       "zh": "强奸",
-      "ru": "насиловать"
+      "ru": "насиловать",
+      "fr": "viol"
     },
     "examples": [],
     "meta": {},
@@ -23524,7 +24408,8 @@ const WORDS_NL_B1 = [
       "pt": "limpo",
       "ja": "きれいな",
       "zh": "干净的",
-      "ru": "чистый"
+      "ru": "чистый",
+      "fr": "propre"
     },
     "examples": [],
     "meta": {}
@@ -23548,7 +24433,8 @@ const WORDS_NL_B1 = [
       "pt": "a bobagem",
       "ja": "ばかげたこと",
       "zh": "胡说",
-      "ru": "чепуха"
+      "ru": "чепуха",
+      "fr": "absurdité"
     },
     "examples": [],
     "meta": {},
@@ -23575,7 +24461,8 @@ const WORDS_NL_B1 = [
       "pt": "desleixado",
       "ja": "だらしない",
       "zh": "马虎的",
-      "ru": "неряшливый"
+      "ru": "неряшливый",
+      "fr": "négligé"
     },
     "examples": [],
     "meta": {}
@@ -23599,7 +24486,8 @@ const WORDS_NL_B1 = [
       "pt": "o einstein",
       "ja": "アインシュタイン",
       "zh": "爱因斯坦",
-      "ru": "эйнштейн"
+      "ru": "эйнштейн",
+      "fr": "Einstein"
     },
     "examples": [],
     "meta": {},
@@ -23626,7 +24514,8 @@ const WORDS_NL_B1 = [
       "pt": "olhar",
       "ja": "見る",
       "zh": "看",
-      "ru": "смотреть"
+      "ru": "смотреть",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -23653,7 +24542,8 @@ const WORDS_NL_B1 = [
       "pt": "a aliança",
       "ja": "同盟",
       "zh": "联盟",
-      "ru": "союз"
+      "ru": "союз",
+      "fr": "alliance"
     },
     "examples": [],
     "meta": {},
@@ -23679,7 +24569,8 @@ const WORDS_NL_B1 = [
       "pt": "o ponto alto",
       "ja": "ハイライト",
       "zh": "亮点",
-      "ru": "кульминация"
+      "ru": "кульминация",
+      "fr": "surligner"
     },
     "examples": [],
     "meta": {},
@@ -23705,7 +24596,8 @@ const WORDS_NL_B1 = [
       "pt": "a moral",
       "ja": "道徳",
       "zh": "道德",
-      "ru": "мораль"
+      "ru": "мораль",
+      "fr": "moralité"
     },
     "examples": [],
     "meta": {},
@@ -23732,7 +24624,8 @@ const WORDS_NL_B1 = [
       "pt": "pró",
       "ja": "賛成の",
       "zh": "赞成的",
-      "ru": "за"
+      "ru": "за",
+      "fr": "pro"
     },
     "examples": [],
     "meta": {}
@@ -23756,7 +24649,8 @@ const WORDS_NL_B1 = [
       "pt": "o pró",
       "ja": "賛成論",
       "zh": "赞成论点",
-      "ru": "довод за"
+      "ru": "довод за",
+      "fr": "pro"
     },
     "examples": [],
     "meta": {},
@@ -23783,7 +24677,8 @@ const WORDS_NL_B1 = [
       "pt": "terrível",
       "ja": "ひどい",
       "zh": "糟糕的",
-      "ru": "ужасный"
+      "ru": "ужасный",
+      "fr": "terrible"
     },
     "examples": [],
     "meta": {}
@@ -23807,7 +24702,8 @@ const WORDS_NL_B1 = [
       "pt": "o li",
       "ja": "里",
       "zh": "里",
-      "ru": "ли"
+      "ru": "ли",
+      "fr": "li"
     },
     "examples": [],
     "meta": {},
@@ -23834,7 +24730,8 @@ const WORDS_NL_B1 = [
       "pt": "o toucinho",
       "ja": "ベーコン",
       "zh": "培根",
-      "ru": "бекон"
+      "ru": "бекон",
+      "fr": "bacon"
     },
     "examples": [],
     "meta": {},
@@ -23860,7 +24757,8 @@ const WORDS_NL_B1 = [
       "pt": "estar farto",
       "ja": "うんざりする",
       "zh": "厌烦",
-      "ru": "быть сытым по горло"
+      "ru": "быть сытым по горло",
+      "fr": "lassé"
     },
     "examples": [],
     "meta": {},
@@ -23887,7 +24785,8 @@ const WORDS_NL_B1 = [
       "pt": "a lambida",
       "ja": "舐めること",
       "zh": "舔",
-      "ru": "лизание"
+      "ru": "лизание",
+      "fr": "lécher"
     },
     "examples": [],
     "meta": {},
@@ -23913,7 +24812,8 @@ const WORDS_NL_B1 = [
       "pt": "o submarino",
       "ja": "潜水艦",
       "zh": "潜艇",
-      "ru": "подводная лодка"
+      "ru": "подводная лодка",
+      "fr": "sous-marin"
     },
     "examples": [],
     "meta": {},
@@ -23939,7 +24839,8 @@ const WORDS_NL_B1 = [
       "pt": "irritável",
       "ja": "怒りっぽい",
       "zh": "易怒的",
-      "ru": "раздражительный"
+      "ru": "раздражительный",
+      "fr": "irritable"
     },
     "examples": [],
     "meta": {}
@@ -23963,7 +24864,8 @@ const WORDS_NL_B1 = [
       "pt": "o cruzeiro",
       "ja": "クルーズ",
       "zh": "邮轮",
-      "ru": "круиз"
+      "ru": "круиз",
+      "fr": "croisière"
     },
     "examples": [],
     "meta": {},
@@ -23991,7 +24893,8 @@ const WORDS_NL_B1 = [
       "pt": "soletrar",
       "ja": "スペルを言う",
       "zh": "拼写",
-      "ru": "произносить по буквам"
+      "ru": "произносить по буквам",
+      "fr": "sort"
     },
     "examples": [],
     "meta": {},
@@ -24019,7 +24922,8 @@ const WORDS_NL_B1 = [
       "pt": "a liga",
       "ja": "リーグ",
       "zh": "联赛",
-      "ru": "лига"
+      "ru": "лига",
+      "fr": "ligue"
     },
     "examples": [],
     "meta": {},
@@ -24046,7 +24950,8 @@ const WORDS_NL_B1 = [
       "pt": "parabenizar",
       "ja": "祝う",
       "zh": "祝贺",
-      "ru": "поздравлять"
+      "ru": "поздравлять",
+      "fr": "féliciter"
     },
     "examples": [],
     "meta": {},
@@ -24073,7 +24978,8 @@ const WORDS_NL_B1 = [
       "pt": "o punhal",
       "ja": "短剣",
       "zh": "匕首",
-      "ru": "кинжал"
+      "ru": "кинжал",
+      "fr": "poignard"
     },
     "examples": [],
     "meta": {},
@@ -24099,7 +25005,8 @@ const WORDS_NL_B1 = [
       "pt": "afiar mós",
       "ja": "臼を研ぐ",
       "zh": "磨砺磨石",
-      "ru": "точить жернова"
+      "ru": "точить жернова",
+      "fr": "aiguiser meules"
     },
     "examples": [],
     "meta": {},
@@ -24127,7 +25034,8 @@ const WORDS_NL_B1 = [
       "pt": "a coluna vertebral",
       "ja": "背骨",
       "zh": "脊柱",
-      "ru": "позвоночник"
+      "ru": "позвоночник",
+      "fr": "colonne vertébrale"
     },
     "examples": [],
     "meta": {},
@@ -24154,7 +25062,8 @@ const WORDS_NL_B1 = [
       "pt": "estabelecido",
       "ja": "確定した",
       "zh": "固定的",
-      "ru": "установленный"
+      "ru": "установленный",
+      "fr": "fixe"
     },
     "examples": [],
     "meta": {}
@@ -24179,7 +25088,8 @@ const WORDS_NL_B1 = [
       "pt": "o prazer",
       "ja": "喜び",
       "zh": "乐趣",
-      "ru": "удовольствие"
+      "ru": "удовольствие",
+      "fr": "plaisir"
     },
     "examples": [],
     "meta": {},
@@ -24205,7 +25115,8 @@ const WORDS_NL_B1 = [
       "pt": "o terrorismo",
       "ja": "テロリズム",
       "zh": "恐怖主义",
-      "ru": "терроризм"
+      "ru": "терроризм",
+      "fr": "terrorisme"
     },
     "examples": [],
     "meta": {},
@@ -24232,7 +25143,8 @@ const WORDS_NL_B1 = [
       "pt": "o contrário",
       "ja": "反対",
       "zh": "相反",
-      "ru": "противоположность"
+      "ru": "противоположность",
+      "fr": "opposé"
     },
     "examples": [],
     "meta": {},
@@ -24259,7 +25171,8 @@ const WORDS_NL_B1 = [
       "pt": "servir",
       "ja": "給仕する",
       "zh": "服务",
-      "ru": "обслуживать"
+      "ru": "обслуживать",
+      "fr": "servir"
     },
     "examples": [],
     "meta": {},
@@ -24287,7 +25200,8 @@ const WORDS_NL_B1 = [
       "pt": "estrito",
       "ja": "厳格な",
       "zh": "严格的",
-      "ru": "строгий"
+      "ru": "строгий",
+      "fr": "strict"
     },
     "examples": [],
     "meta": {}
@@ -24312,7 +25226,8 @@ const WORDS_NL_B1 = [
       "pt": "sólido",
       "ja": "堅実な",
       "zh": "坚固的",
-      "ru": "прочный"
+      "ru": "прочный",
+      "fr": "solide"
     },
     "examples": [],
     "meta": {}
@@ -24337,7 +25252,8 @@ const WORDS_NL_B1 = [
       "pt": "a mandíbula",
       "ja": "顎",
       "zh": "下巴",
-      "ru": "челюсть"
+      "ru": "челюсть",
+      "fr": "mâchoire"
     },
     "examples": [],
     "meta": {},
@@ -24363,7 +25279,8 @@ const WORDS_NL_B1 = [
       "pt": "a razão",
       "ja": "理性",
       "zh": "理性",
-      "ru": "разум"
+      "ru": "разум",
+      "fr": "raison"
     },
     "examples": [],
     "meta": {},
@@ -24390,7 +25307,8 @@ const WORDS_NL_B1 = [
       "pt": "a floresta",
       "ja": "森",
       "zh": "森林",
-      "ru": "лес"
+      "ru": "лес",
+      "fr": "forêt"
     },
     "examples": [],
     "meta": {},
@@ -24417,7 +25335,8 @@ const WORDS_NL_B1 = [
       "pt": "investir",
       "ja": "投資する",
       "zh": "投资",
-      "ru": "инвестировать"
+      "ru": "инвестировать",
+      "fr": "investir"
     },
     "examples": [],
     "meta": {},
@@ -24444,7 +25363,8 @@ const WORDS_NL_B1 = [
       "pt": "o solo",
       "ja": "ソロ",
       "zh": "独奏",
-      "ru": "соло"
+      "ru": "соло",
+      "fr": "solo"
     },
     "examples": [],
     "meta": {},
@@ -24470,7 +25390,8 @@ const WORDS_NL_B1 = [
       "pt": "a chatice",
       "ja": "小言",
       "zh": "抱怨",
-      "ru": "нытьё"
+      "ru": "нытьё",
+      "fr": "harcèlement"
     },
     "examples": [],
     "meta": {},
@@ -24497,7 +25418,8 @@ const WORDS_NL_B1 = [
       "pt": "entrar",
       "ja": "入る",
       "zh": "进入",
-      "ru": "входить"
+      "ru": "входить",
+      "fr": "entrer"
     },
     "examples": [],
     "meta": {},
@@ -24525,7 +25447,8 @@ const WORDS_NL_B1 = [
       "pt": "a renda",
       "ja": "収入",
       "zh": "收入",
-      "ru": "доход"
+      "ru": "доход",
+      "fr": "revenu"
     },
     "examples": [],
     "meta": {},
@@ -24552,7 +25475,8 @@ const WORDS_NL_B1 = [
       "pt": "o conceito",
       "ja": "概念",
       "zh": "概念",
-      "ru": "концепция"
+      "ru": "концепция",
+      "fr": "concept"
     },
     "examples": [],
     "meta": {},
@@ -24579,7 +25503,8 @@ const WORDS_NL_B1 = [
       "pt": "a luz do sol",
       "ja": "日光",
       "zh": "阳光",
-      "ru": "солнечный свет"
+      "ru": "солнечный свет",
+      "fr": "lumière du soleil"
     },
     "examples": [],
     "meta": {},
@@ -24605,7 +25530,8 @@ const WORDS_NL_B1 = [
       "pt": "a Via Láctea",
       "ja": "天の川",
       "zh": "银河",
-      "ru": "Млечный Путь"
+      "ru": "Млечный Путь",
+      "fr": "Voie lactée"
     },
     "examples": [],
     "meta": {},
@@ -24632,7 +25558,8 @@ const WORDS_NL_B1 = [
       "pt": "terminar",
       "ja": "終わる",
       "zh": "结束",
-      "ru": "заканчиваться"
+      "ru": "заканчиваться",
+      "fr": "fin"
     },
     "examples": [],
     "meta": {},
@@ -24659,7 +25586,8 @@ const WORDS_NL_B1 = [
       "pt": "o nerd",
       "ja": "オタク",
       "zh": "书呆子",
-      "ru": "ботаник"
+      "ru": "ботаник",
+      "fr": "intello"
     },
     "examples": [],
     "meta": {},
@@ -24685,7 +25613,8 @@ const WORDS_NL_B1 = [
       "pt": "genético",
       "ja": "遺伝的な",
       "zh": "遗传的",
-      "ru": "генетический"
+      "ru": "генетический",
+      "fr": "génétique"
     },
     "examples": [],
     "meta": {}
@@ -24709,7 +25638,8 @@ const WORDS_NL_B1 = [
       "pt": "a emoção",
       "ja": "スリル",
       "zh": "刺激",
-      "ru": "острые ощущения"
+      "ru": "острые ощущения",
+      "fr": "frisson"
     },
     "examples": [],
     "meta": {},
@@ -24736,7 +25666,8 @@ const WORDS_NL_B1 = [
       "pt": "adequado",
       "ja": "適した",
       "zh": "合适的",
-      "ru": "подходящий"
+      "ru": "подходящий",
+      "fr": "convenable"
     },
     "examples": [],
     "meta": {}
@@ -24761,7 +25692,8 @@ const WORDS_NL_B1 = [
       "pt": "beneficiar",
       "ja": "利益を得る",
       "zh": "获益",
-      "ru": "извлекать выгоду"
+      "ru": "извлекать выгоду",
+      "fr": "profiter"
     },
     "examples": [],
     "meta": {},
@@ -24789,7 +25721,8 @@ const WORDS_NL_B1 = [
       "pt": "o criminoso",
       "ja": "犯罪者",
       "zh": "罪犯",
-      "ru": "преступник"
+      "ru": "преступник",
+      "fr": "criminel"
     },
     "examples": [],
     "meta": {},
@@ -24816,7 +25749,8 @@ const WORDS_NL_B1 = [
       "pt": "graduado",
       "ja": "卒業した",
       "zh": "毕业的",
-      "ru": "окончивший"
+      "ru": "окончивший",
+      "fr": "diplômé"
     },
     "examples": [],
     "meta": {}
@@ -24841,7 +25775,8 @@ const WORDS_NL_B1 = [
       "pt": "o like",
       "ja": "いいね",
       "zh": "点赞",
-      "ru": "лайк"
+      "ru": "лайк",
+      "fr": "comme"
     },
     "examples": [],
     "meta": {},
@@ -24868,7 +25803,8 @@ const WORDS_NL_B1 = [
       "pt": "o comitê",
       "ja": "委員会",
       "zh": "委员会",
-      "ru": "комитет"
+      "ru": "комитет",
+      "fr": "comité"
     },
     "examples": [],
     "meta": {},
@@ -24895,7 +25831,8 @@ const WORDS_NL_B1 = [
       "pt": "varrer",
       "ja": "掃く",
       "zh": "扫",
-      "ru": "подметать"
+      "ru": "подметать",
+      "fr": "balayer"
     },
     "examples": [],
     "meta": {},
@@ -24923,7 +25860,8 @@ const WORDS_NL_B1 = [
       "pt": "bloquear",
       "ja": "ブロックする",
       "zh": "阻塞",
-      "ru": "блокировать"
+      "ru": "блокировать",
+      "fr": "bloquer"
     },
     "examples": [],
     "meta": {},
@@ -24951,7 +25889,8 @@ const WORDS_NL_B1 = [
       "pt": "real",
       "ja": "実際の",
       "zh": "实际的",
-      "ru": "фактический"
+      "ru": "фактический",
+      "fr": "réel"
     },
     "examples": [],
     "meta": {}
@@ -24975,7 +25914,8 @@ const WORDS_NL_B1 = [
       "pt": "a escória",
       "ja": "ろくでなし",
       "zh": "人渣",
-      "ru": "отбросы"
+      "ru": "отбросы",
+      "fr": "racaille"
     },
     "examples": [],
     "meta": {},
@@ -25002,7 +25942,8 @@ const WORDS_NL_B1 = [
       "pt": "conectar",
       "ja": "接続する",
       "zh": "连接",
-      "ru": "подключать"
+      "ru": "подключать",
+      "fr": "connecter"
     },
     "examples": [],
     "meta": {},
@@ -25030,7 +25971,8 @@ const WORDS_NL_B1 = [
       "pt": "a alfândega",
       "ja": "税関",
       "zh": "海关",
-      "ru": "таможня"
+      "ru": "таможня",
+      "fr": "douane"
     },
     "examples": [],
     "meta": {},
@@ -25057,7 +25999,8 @@ const WORDS_NL_B1 = [
       "pt": "valer",
       "ja": "適用される",
       "zh": "适用",
-      "ru": "применяться"
+      "ru": "применяться",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {},
@@ -25085,7 +26028,8 @@ const WORDS_NL_B1 = [
       "pt": "a carne moída",
       "ja": "ひき肉",
       "zh": "碎肉",
-      "ru": "фарш"
+      "ru": "фарш",
+      "fr": "hachis"
     },
     "examples": [],
     "meta": {},
@@ -25112,7 +26056,8 @@ const WORDS_NL_B1 = [
       "pt": "picado",
       "ja": "刻んだ",
       "zh": "切碎的",
-      "ru": "рубленый"
+      "ru": "рубленый",
+      "fr": "haché"
     },
     "examples": [],
     "meta": {}
@@ -25137,7 +26082,8 @@ const WORDS_NL_B1 = [
       "pt": "demolir",
       "ja": "取り壊す",
       "zh": "拆除",
-      "ru": "сносить"
+      "ru": "сносить",
+      "fr": "démolir"
     },
     "examples": [],
     "meta": {},
@@ -25164,7 +26110,8 @@ const WORDS_NL_B1 = [
       "pt": "a salvação",
       "ja": "救い",
       "zh": "救赎",
-      "ru": "спасение"
+      "ru": "спасение",
+      "fr": "salut"
     },
     "examples": [],
     "meta": {},
@@ -25190,7 +26137,8 @@ const WORDS_NL_B1 = [
       "pt": "o esquisitão",
       "ja": "変人",
       "zh": "变态",
-      "ru": "жуткий тип"
+      "ru": "жуткий тип",
+      "fr": "salaud"
     },
     "examples": [],
     "meta": {},
@@ -25216,7 +26164,8 @@ const WORDS_NL_B1 = [
       "pt": "o homicídio",
       "ja": "故殺",
       "zh": "过失杀人",
-      "ru": "непредумышленное убийство"
+      "ru": "непредумышленное убийство",
+      "fr": "homicide"
     },
     "examples": [],
     "meta": {},
@@ -25243,7 +26192,8 @@ const WORDS_NL_B1 = [
       "pt": "incomodar",
       "ja": "困らせる",
       "zh": "打扰",
-      "ru": "беспокоить"
+      "ru": "беспокоить",
+      "fr": "déranger"
     },
     "examples": [],
     "meta": {},
@@ -25270,7 +26220,8 @@ const WORDS_NL_B1 = [
       "pt": "o uísque",
       "ja": "ウイスキー",
       "zh": "威士忌",
-      "ru": "виски"
+      "ru": "виски",
+      "fr": "whisky"
     },
     "examples": [],
     "meta": {},
@@ -25296,7 +26247,8 @@ const WORDS_NL_B1 = [
       "pt": "a bobagem",
       "ja": "ばかげたこと",
       "zh": "胡说",
-      "ru": "чепуха"
+      "ru": "чепуха",
+      "fr": "absurdité"
     },
     "examples": [],
     "meta": {},
@@ -25323,7 +26275,8 @@ const WORDS_NL_B1 = [
       "pt": "o medicamento",
       "ja": "薬",
       "zh": "药物",
-      "ru": "лекарство"
+      "ru": "лекарство",
+      "fr": "médecine"
     },
     "examples": [],
     "meta": {},
@@ -25350,7 +26303,8 @@ const WORDS_NL_B1 = [
       "pt": "o repórter",
       "ja": "記者",
       "zh": "记者",
-      "ru": "репортёр"
+      "ru": "репортёр",
+      "fr": "reporter"
     },
     "examples": [],
     "meta": {},
@@ -25377,7 +26331,8 @@ const WORDS_NL_B1 = [
       "pt": "a semente",
       "ja": "種",
       "zh": "种子",
-      "ru": "семя"
+      "ru": "семя",
+      "fr": "graine"
     },
     "examples": [],
     "meta": {},
@@ -25404,7 +26359,8 @@ const WORDS_NL_B1 = [
       "pt": "zangado",
       "ja": "怒った",
       "zh": "生气的",
-      "ru": "злой"
+      "ru": "злой",
+      "fr": "fâché"
     },
     "examples": [],
     "meta": {}
@@ -25429,7 +26385,8 @@ const WORDS_NL_B1 = [
       "pt": "criativo",
       "ja": "創造的な",
       "zh": "创造性的",
-      "ru": "творческий"
+      "ru": "творческий",
+      "fr": "créatif"
     },
     "examples": [],
     "meta": {}
@@ -25454,7 +26411,8 @@ const WORDS_NL_B1 = [
       "pt": "o pesquisador",
       "ja": "研究者",
       "zh": "研究员",
-      "ru": "исследователь"
+      "ru": "исследователь",
+      "fr": "chercheur"
     },
     "examples": [],
     "meta": {},
@@ -25481,7 +26439,8 @@ const WORDS_NL_B1 = [
       "pt": "rígido",
       "ja": "硬い",
       "zh": "僵硬的",
-      "ru": "жесткий"
+      "ru": "жесткий",
+      "fr": "raide"
     },
     "examples": [],
     "meta": {}
@@ -25506,7 +26465,8 @@ const WORDS_NL_B1 = [
       "pt": "a moral",
       "ja": "士気",
       "zh": "士气",
-      "ru": "моральный дух"
+      "ru": "моральный дух",
+      "fr": "morale"
     },
     "examples": [],
     "meta": {},
@@ -25533,7 +26493,8 @@ const WORDS_NL_B1 = [
       "pt": "moral",
       "ja": "道徳的な",
       "zh": "道德的",
-      "ru": "моральный"
+      "ru": "моральный",
+      "fr": "moral"
     },
     "examples": [],
     "meta": {}
@@ -25558,7 +26519,8 @@ const WORDS_NL_B1 = [
       "pt": "acolher",
       "ja": "歓迎する",
       "zh": "欢迎",
-      "ru": "приветствовать"
+      "ru": "приветствовать",
+      "fr": "bienvenue"
     },
     "examples": [],
     "meta": {},
@@ -25586,7 +26548,8 @@ const WORDS_NL_B1 = [
       "pt": "o verme",
       "ja": "虫",
       "zh": "蠕虫",
-      "ru": "червь"
+      "ru": "червь",
+      "fr": "ver"
     },
     "examples": [],
     "meta": {},
@@ -25613,7 +26576,8 @@ const WORDS_NL_B1 = [
       "pt": "o senhor",
       "ja": "氏",
       "zh": "先生",
-      "ru": "сеньор"
+      "ru": "сеньор",
+      "fr": "monsieur"
     },
     "examples": [],
     "meta": {},
@@ -25640,7 +26604,8 @@ const WORDS_NL_B1 = [
       "pt": "a palmeira",
       "ja": "ヤシ",
       "zh": "棕榈树",
-      "ru": "пальма"
+      "ru": "пальма",
+      "fr": "palmier"
     },
     "examples": [],
     "meta": {},
@@ -25667,7 +26632,8 @@ const WORDS_NL_B1 = [
       "pt": "aparente",
       "ja": "見かけ上の",
       "zh": "表面上的",
-      "ru": "кажущийся"
+      "ru": "кажущийся",
+      "fr": "apparent"
     },
     "examples": [],
     "meta": {}
@@ -25692,7 +26658,8 @@ const WORDS_NL_B1 = [
       "pt": "o altar",
       "ja": "祭壇",
       "zh": "祭坛",
-      "ru": "алтарь"
+      "ru": "алтарь",
+      "fr": "autel"
     },
     "examples": [],
     "meta": {},
@@ -25719,7 +26686,8 @@ const WORDS_NL_B1 = [
       "pt": "quites",
       "ja": "引き分けの",
       "zh": "打平的",
-      "ru": "квиты"
+      "ru": "квиты",
+      "fr": "même"
     },
     "examples": [],
     "meta": {}
@@ -25744,7 +26712,8 @@ const WORDS_NL_B1 = [
       "pt": "a poça",
       "ja": "水たまり",
       "zh": "水坑",
-      "ru": "лужа"
+      "ru": "лужа",
+      "fr": "flaque"
     },
     "examples": [],
     "meta": {},
@@ -25771,7 +26740,8 @@ const WORDS_NL_B1 = [
       "pt": "o furacão",
       "ja": "ハリケーン",
       "zh": "飓风",
-      "ru": "ураган"
+      "ru": "ураган",
+      "fr": "ouragan"
     },
     "examples": [],
     "meta": {},
@@ -25798,7 +26768,8 @@ const WORDS_NL_B1 = [
       "pt": "o instrumento",
       "ja": "楽器",
       "zh": "乐器",
-      "ru": "инструмент"
+      "ru": "инструмент",
+      "fr": "instrument"
     },
     "examples": [],
     "meta": {},
@@ -25825,7 +26796,8 @@ const WORDS_NL_B1 = [
       "pt": "o lar",
       "ja": "家",
       "zh": "家",
-      "ru": "дом"
+      "ru": "дом",
+      "fr": "maison"
     },
     "examples": [],
     "meta": {},
@@ -25852,7 +26824,8 @@ const WORDS_NL_B1 = [
       "pt": "prender",
       "ja": "逮捕する",
       "zh": "逮捕",
-      "ru": "арестовать"
+      "ru": "арестовать",
+      "fr": "arrestation"
     },
     "examples": [],
     "meta": {},
@@ -25880,7 +26853,8 @@ const WORDS_NL_B1 = [
       "pt": "manter atualizado",
       "ja": "最新の状態に保つ",
       "zh": "保持最新",
-      "ru": "поддерживать в актуальном состоянии"
+      "ru": "поддерживать в актуальном состоянии",
+      "fr": "actualiser"
     },
     "examples": [],
     "meta": {},
@@ -25908,7 +26882,8 @@ const WORDS_NL_B1 = [
       "pt": "o ditado",
       "ja": "ことわざ",
       "zh": "谚语",
-      "ru": "поговорка"
+      "ru": "поговорка",
+      "fr": "dicton"
     },
     "examples": [],
     "meta": {},
@@ -25935,7 +26910,8 @@ const WORDS_NL_B1 = [
       "pt": "o martini",
       "ja": "マティーニ",
       "zh": "马提尼",
-      "ru": "мартини"
+      "ru": "мартини",
+      "fr": "martini"
     },
     "examples": [],
     "meta": {},
@@ -25962,7 +26938,8 @@ const WORDS_NL_B1 = [
       "pt": "a capa",
       "ja": "ケープ",
       "zh": "斗篷",
-      "ru": "накидка"
+      "ru": "накидка",
+      "fr": "cape"
     },
     "examples": [],
     "meta": {},
@@ -25989,7 +26966,8 @@ const WORDS_NL_B1 = [
       "pt": "bem-sucedido",
       "ja": "成功した",
       "zh": "成功的",
-      "ru": "успешный"
+      "ru": "успешный",
+      "fr": "réussi"
     },
     "examples": [],
     "meta": {}
@@ -26015,7 +26993,8 @@ const WORDS_NL_B1 = [
       "pt": "o bridge",
       "ja": "ブリッジ",
       "zh": "桥牌",
-      "ru": "бридж"
+      "ru": "бридж",
+      "fr": "pont"
     },
     "examples": [],
     "meta": {},
@@ -26042,7 +27021,8 @@ const WORDS_NL_B1 = [
       "pt": "a perspectiva",
       "ja": "遠近法",
       "zh": "透视",
-      "ru": "перспектива"
+      "ru": "перспектива",
+      "fr": "perspective"
     },
     "examples": [],
     "meta": {},
@@ -26069,7 +27049,8 @@ const WORDS_NL_B1 = [
       "pt": "ativar",
       "ja": "活性化する",
       "zh": "激活",
-      "ru": "активировать"
+      "ru": "активировать",
+      "fr": "activer"
     },
     "examples": [],
     "meta": {},
@@ -26097,7 +27078,8 @@ const WORDS_NL_B1 = [
       "pt": "interessar",
       "ja": "興味を持たせる",
       "zh": "使感兴趣",
-      "ru": "интересовать"
+      "ru": "интересовать",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {},
@@ -26125,7 +27107,8 @@ const WORDS_NL_B1 = [
       "pt": "riscar",
       "ja": "線を引く",
       "zh": "画线",
-      "ru": "полосовать"
+      "ru": "полосовать",
+      "fr": "rayure"
     },
     "examples": [],
     "meta": {},
@@ -26153,7 +27136,8 @@ const WORDS_NL_B1 = [
       "pt": "derreter",
       "ja": "溶ける",
       "zh": "融化",
-      "ru": "таять"
+      "ru": "таять",
+      "fr": "fondre"
     },
     "examples": [],
     "meta": {},
@@ -26181,7 +27165,8 @@ const WORDS_NL_B1 = [
       "pt": "o vapor",
       "ja": "蒸気",
       "zh": "蒸汽",
-      "ru": "пар"
+      "ru": "пар",
+      "fr": "vapeur"
     },
     "examples": [],
     "meta": {},
@@ -26207,7 +27192,8 @@ const WORDS_NL_B1 = [
       "pt": "o caso de assassinato",
       "ja": "殺人事件",
       "zh": "谋杀案",
-      "ru": "дело об убийстве"
+      "ru": "дело об убийстве",
+      "fr": "meurtre"
     },
     "examples": [],
     "meta": {},
@@ -26234,7 +27220,8 @@ const WORDS_NL_B1 = [
       "pt": "limitar",
       "ja": "制限する",
       "zh": "限制",
-      "ru": "ограничивать"
+      "ru": "ограничивать",
+      "fr": "limite"
     },
     "examples": [],
     "meta": {},
@@ -26262,7 +27249,8 @@ const WORDS_NL_B1 = [
       "pt": "compreensível",
       "ja": "理解できる",
       "zh": "可理解的",
-      "ru": "понятный"
+      "ru": "понятный",
+      "fr": "compréhensible"
     },
     "examples": [],
     "meta": {}
@@ -26287,7 +27275,8 @@ const WORDS_NL_B1 = [
       "pt": "a impressão digital",
       "ja": "指紋",
       "zh": "指纹",
-      "ru": "отпечаток пальца"
+      "ru": "отпечаток пальца",
+      "fr": "empreinte"
     },
     "examples": [],
     "meta": {},
@@ -26314,7 +27303,8 @@ const WORDS_NL_B1 = [
       "pt": "o batom",
       "ja": "口紅",
       "zh": "口红",
-      "ru": "помада"
+      "ru": "помада",
+      "fr": "rouge à lèvres"
     },
     "examples": [],
     "meta": {},
@@ -26341,7 +27331,8 @@ const WORDS_NL_B1 = [
       "pt": "local",
       "ja": "地域の",
       "zh": "本地的",
-      "ru": "местный"
+      "ru": "местный",
+      "fr": "local"
     },
     "examples": [],
     "meta": {}
@@ -26366,7 +27357,8 @@ const WORDS_NL_B1 = [
       "pt": "a sala de aula",
       "ja": "教室",
       "zh": "教室",
-      "ru": "класс"
+      "ru": "класс",
+      "fr": "salle de classe"
     },
     "examples": [],
     "meta": {},
@@ -26393,7 +27385,8 @@ const WORDS_NL_B1 = [
       "pt": "o atacante",
       "ja": "攻撃者",
       "zh": "攻击者",
-      "ru": "нападающий"
+      "ru": "нападающий",
+      "fr": "attaquant"
     },
     "examples": [],
     "meta": {},
@@ -26420,7 +27413,8 @@ const WORDS_NL_B1 = [
       "pt": "a peruca",
       "ja": "かつら",
       "zh": "假发",
-      "ru": "парик"
+      "ru": "парик",
+      "fr": "perruque"
     },
     "examples": [],
     "meta": {},
@@ -26447,7 +27441,8 @@ const WORDS_NL_B1 = [
       "pt": "fatal",
       "ja": "致命的な",
       "zh": "致命的",
-      "ru": "фатальный"
+      "ru": "фатальный",
+      "fr": "fatal"
     },
     "examples": [],
     "meta": {}
@@ -26471,7 +27466,8 @@ const WORDS_NL_B1 = [
       "pt": "o dalton",
       "ja": "ダルトン",
       "zh": "道尔顿",
-      "ru": "дальтон"
+      "ru": "дальтон",
+      "fr": "dalton"
     },
     "examples": [],
     "meta": {},
@@ -26497,7 +27493,8 @@ const WORDS_NL_B1 = [
       "pt": "o dinheiro",
       "ja": "金",
       "zh": "钱",
-      "ru": "деньги"
+      "ru": "деньги",
+      "fr": "argent"
     },
     "examples": [],
     "meta": {},
@@ -26524,7 +27521,8 @@ const WORDS_NL_B1 = [
       "pt": "o xerez",
       "ja": "シェリー",
       "zh": "雪利酒",
-      "ru": "херес"
+      "ru": "херес",
+      "fr": "xérès"
     },
     "examples": [],
     "meta": {},
@@ -26551,7 +27549,8 @@ const WORDS_NL_B1 = [
       "pt": "o pino",
       "ja": "釘",
       "zh": "钉",
-      "ru": "колышек"
+      "ru": "колышек",
+      "fr": "cheville"
     },
     "examples": [],
     "meta": {},
@@ -26578,7 +27577,8 @@ const WORDS_NL_B1 = [
       "pt": "lisonjeado",
       "ja": "お世辞を言われた",
       "zh": "受宠若惊的",
-      "ru": "польщённый"
+      "ru": "польщённый",
+      "fr": "flatté"
     },
     "examples": [],
     "meta": {}
@@ -26603,7 +27603,8 @@ const WORDS_NL_B1 = [
       "pt": "o exemplar",
       "ja": "複製",
       "zh": "副本",
-      "ru": "экземпляр"
+      "ru": "экземпляр",
+      "fr": "copie"
     },
     "examples": [],
     "meta": {},
@@ -26630,7 +27631,8 @@ const WORDS_NL_B1 = [
       "pt": "escalonado",
       "ja": "段階的な",
       "zh": "阶梯状的",
-      "ru": "ступенчатый"
+      "ru": "ступенчатый",
+      "fr": "marché"
     },
     "examples": [],
     "meta": {}
@@ -26655,7 +27657,8 @@ const WORDS_NL_B1 = [
       "pt": "o alcance",
       "ja": "範囲",
       "zh": "范围",
-      "ru": "объём"
+      "ru": "объём",
+      "fr": "étendue"
     },
     "examples": [],
     "meta": {},
@@ -26682,7 +27685,8 @@ const WORDS_NL_B1 = [
       "pt": "masculino",
       "ja": "男性の",
       "zh": "男性的",
-      "ru": "мужской"
+      "ru": "мужской",
+      "fr": "mâle"
     },
     "examples": [],
     "meta": {}
@@ -26707,7 +27711,8 @@ const WORDS_NL_B1 = [
       "pt": "cunhar",
       "ja": "鋳造する",
       "zh": "铸造",
-      "ru": "чеканить"
+      "ru": "чеканить",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {},
@@ -26734,7 +27739,8 @@ const WORDS_NL_B1 = [
       "pt": "o stripper",
       "ja": "ストリッパー",
       "zh": "脱衣舞女",
-      "ru": "стриптизёр"
+      "ru": "стриптизёр",
+      "fr": "strip-teaseur"
     },
     "examples": [],
     "meta": {},
@@ -26761,7 +27767,8 @@ const WORDS_NL_B1 = [
       "pt": "designado",
       "ja": "指定された",
       "zh": "指定的",
-      "ru": "назначенный"
+      "ru": "назначенный",
+      "fr": "désigné"
     },
     "examples": [],
     "meta": {}
@@ -26786,7 +27793,8 @@ const WORDS_NL_B1 = [
       "pt": "a presença",
       "ja": "存在",
       "zh": "存在",
-      "ru": "присутствие"
+      "ru": "присутствие",
+      "fr": "présence"
     },
     "examples": [],
     "meta": {},
@@ -26813,7 +27821,8 @@ const WORDS_NL_B1 = [
       "pt": "pacífico",
       "ja": "平和な",
       "zh": "和平的",
-      "ru": "мирный"
+      "ru": "мирный",
+      "fr": "paisible"
     },
     "examples": [],
     "meta": {}
@@ -26838,7 +27847,8 @@ const WORDS_NL_B1 = [
       "pt": "o salmão",
       "ja": "鮭",
       "zh": "鲑鱼",
-      "ru": "лосось"
+      "ru": "лосось",
+      "fr": "saumon"
     },
     "examples": [],
     "meta": {},
@@ -26864,7 +27874,8 @@ const WORDS_NL_B1 = [
       "pt": "a dama",
       "ja": "チェッカー",
       "zh": "棋子",
-      "ru": "шашка"
+      "ru": "шашка",
+      "fr": "vérificateur"
     },
     "examples": [],
     "meta": {},
@@ -26890,7 +27901,8 @@ const WORDS_NL_B1 = [
       "pt": "a mira",
       "ja": "照準器",
       "zh": "瞄准器",
-      "ru": "прицел"
+      "ru": "прицел",
+      "fr": "vue"
     },
     "examples": [],
     "meta": {},
@@ -26917,7 +27929,8 @@ const WORDS_NL_B1 = [
       "pt": "o leme",
       "ja": "舵",
       "zh": "舵",
-      "ru": "руль"
+      "ru": "руль",
+      "fr": "gouvernail"
     },
     "examples": [],
     "meta": {},
@@ -26944,7 +27957,8 @@ const WORDS_NL_B1 = [
       "pt": "entregar",
       "ja": "引き渡す",
       "zh": "交出",
-      "ru": "передавать"
+      "ru": "передавать",
+      "fr": "remettre"
     },
     "examples": [],
     "meta": {},
@@ -26972,7 +27986,8 @@ const WORDS_NL_B1 = [
       "pt": "depor",
       "ja": "置く",
       "zh": "放下",
-      "ru": "положить"
+      "ru": "положить",
+      "fr": "déposer"
     },
     "examples": [],
     "meta": {},
@@ -27000,7 +28015,8 @@ const WORDS_NL_B1 = [
       "pt": "a seriedade",
       "ja": "真剣さ",
       "zh": "严肃",
-      "ru": "серьёзность"
+      "ru": "серьёзность",
+      "fr": "sérieux"
     },
     "examples": [],
     "meta": {},
@@ -27027,7 +28043,8 @@ const WORDS_NL_B1 = [
       "pt": "tolo",
       "ja": "馬鹿な",
       "zh": "愚蠢的",
-      "ru": "глупый"
+      "ru": "глупый",
+      "fr": "idiot"
     },
     "examples": [],
     "meta": {}
@@ -27051,7 +28068,8 @@ const WORDS_NL_B1 = [
       "pt": "o molde",
       "ja": "型",
       "zh": "模具",
-      "ru": "форма"
+      "ru": "форма",
+      "fr": "moule"
     },
     "examples": [],
     "meta": {},
@@ -27078,7 +28096,8 @@ const WORDS_NL_B1 = [
       "pt": "expressar-se",
       "ja": "表現する",
       "zh": "表达自己",
-      "ru": "выражать себя"
+      "ru": "выражать себя",
+      "fr": "s'exprimer"
     },
     "examples": [],
     "meta": {},
@@ -27106,7 +28125,8 @@ const WORDS_NL_B1 = [
       "pt": "a fama",
       "ja": "名声",
       "zh": "名声",
-      "ru": "слава"
+      "ru": "слава",
+      "fr": "renommée"
     },
     "examples": [],
     "meta": {},
@@ -27133,7 +28153,8 @@ const WORDS_NL_B1 = [
       "pt": "endireitar",
       "ja": "まっすぐにする",
       "zh": "摆正",
-      "ru": "выпрямлять"
+      "ru": "выпрямлять",
+      "fr": "redresser"
     },
     "examples": [],
     "meta": {},
@@ -27161,7 +28182,8 @@ const WORDS_NL_B1 = [
       "pt": "a geleia",
       "ja": "ジャム",
       "zh": "果酱",
-      "ru": "джем"
+      "ru": "джем",
+      "fr": "confiture"
     },
     "examples": [],
     "meta": {},
@@ -27188,7 +28210,8 @@ const WORDS_NL_B1 = [
       "pt": "descansado",
       "ja": "休んだ",
       "zh": "休息好的",
-      "ru": "отдохнувший"
+      "ru": "отдохнувший",
+      "fr": "reposé"
     },
     "examples": [],
     "meta": {}
@@ -27213,7 +28236,8 @@ const WORDS_NL_B1 = [
       "pt": "a camisa",
       "ja": "シャツ",
       "zh": "衬衫",
-      "ru": "рубашка"
+      "ru": "рубашка",
+      "fr": "chemise"
     },
     "examples": [],
     "meta": {},
@@ -27239,7 +28263,8 @@ const WORDS_NL_B1 = [
       "pt": "o arquiteto",
       "ja": "建築家",
       "zh": "建筑师",
-      "ru": "архитектор"
+      "ru": "архитектор",
+      "fr": "architecte"
     },
     "examples": [],
     "meta": {},
@@ -27266,7 +28291,8 @@ const WORDS_NL_B1 = [
       "pt": "determinado",
       "ja": "断固とした",
       "zh": "坚决的",
-      "ru": "решительный"
+      "ru": "решительный",
+      "fr": "déterminé"
     },
     "examples": [],
     "meta": {}
@@ -27291,7 +28317,8 @@ const WORDS_NL_B1 = [
       "pt": "sacrificar",
       "ja": "犠牲にする",
       "zh": "牺牲",
-      "ru": "жертвовать"
+      "ru": "жертвовать",
+      "fr": "sacrifier"
     },
     "examples": [],
     "meta": {},
@@ -27319,7 +28346,8 @@ const WORDS_NL_B1 = [
       "pt": "a ioga",
       "ja": "ヨガ",
       "zh": "瑜伽",
-      "ru": "йога"
+      "ru": "йога",
+      "fr": "yoga"
     },
     "examples": [],
     "meta": {},
@@ -27346,7 +28374,8 @@ const WORDS_NL_B1 = [
       "pt": "obter",
       "ja": "取得する",
       "zh": "获得",
-      "ru": "получать"
+      "ru": "получать",
+      "fr": "obtenir"
     },
     "examples": [],
     "meta": {},
@@ -27374,7 +28403,8 @@ const WORDS_NL_B1 = [
       "pt": "o estágio",
       "ja": "段階",
       "zh": "阶段",
-      "ru": "стадия"
+      "ru": "стадия",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {},
@@ -27401,7 +28431,8 @@ const WORDS_NL_B1 = [
       "pt": "definitivo",
       "ja": "最終的な",
       "zh": "最终的",
-      "ru": "окончательный"
+      "ru": "окончательный",
+      "fr": "définitif"
     },
     "examples": [],
     "meta": {}
@@ -27425,7 +28456,8 @@ const WORDS_NL_B1 = [
       "pt": "lamentar",
       "ja": "悼む",
       "zh": "哀悼",
-      "ru": "скорбеть"
+      "ru": "скорбеть",
+      "fr": "pleurer"
     },
     "examples": [],
     "meta": {},
@@ -27453,7 +28485,8 @@ const WORDS_NL_B1 = [
       "pt": "o evento",
       "ja": "イベント",
       "zh": "活动",
-      "ru": "событие"
+      "ru": "событие",
+      "fr": "événement"
     },
     "examples": [],
     "meta": {},
@@ -27480,7 +28513,8 @@ const WORDS_NL_B1 = [
       "pt": "mole",
       "ja": "だらしない",
       "zh": "松弛的",
-      "ru": "вялый"
+      "ru": "вялый",
+      "fr": "boiter"
     },
     "examples": [],
     "meta": {}
@@ -27504,7 +28538,8 @@ const WORDS_NL_B1 = [
       "pt": "de seda",
       "ja": "絹の",
       "zh": "丝绸的",
-      "ru": "шелковый"
+      "ru": "шелковый",
+      "fr": "soie"
     },
     "examples": [],
     "meta": {}
@@ -27529,7 +28564,8 @@ const WORDS_NL_B1 = [
       "pt": "desnecessário",
       "ja": "不必要な",
       "zh": "不必要的",
-      "ru": "ненужный"
+      "ru": "ненужный",
+      "fr": "inutile"
     },
     "examples": [],
     "meta": {}
@@ -27554,7 +28590,8 @@ const WORDS_NL_B1 = [
       "pt": "a luva",
       "ja": "手袋",
       "zh": "手套",
-      "ru": "перчатка"
+      "ru": "перчатка",
+      "fr": "gant"
     },
     "examples": [],
     "meta": {},
@@ -27581,7 +28618,8 @@ const WORDS_NL_B1 = [
       "pt": "o engenheiro",
       "ja": "エンジニア",
       "zh": "工程师",
-      "ru": "инженер"
+      "ru": "инженер",
+      "fr": "ingénieur"
     },
     "examples": [],
     "meta": {},
@@ -27607,7 +28645,8 @@ const WORDS_NL_B1 = [
       "pt": "atirar para matar",
       "ja": "射殺する",
       "zh": "枪杀",
-      "ru": "застрелить"
+      "ru": "застрелить",
+      "fr": "abattre"
     },
     "examples": [],
     "meta": {},
@@ -27635,7 +28674,8 @@ const WORDS_NL_B1 = [
       "pt": "o sanduíche",
       "ja": "サンドイッチ",
       "zh": "三明治",
-      "ru": "сэндвич"
+      "ru": "сэндвич",
+      "fr": "sandwich"
     },
     "examples": [],
     "meta": {},
@@ -27661,7 +28701,8 @@ const WORDS_NL_B1 = [
       "pt": "enganado",
       "ja": "だまされた",
       "zh": "被骗的",
-      "ru": "обманутый"
+      "ru": "обманутый",
+      "fr": "trompé"
     },
     "examples": [],
     "meta": {}
@@ -27686,7 +28727,8 @@ const WORDS_NL_B1 = [
       "pt": "físico",
       "ja": "身体的な",
       "zh": "身体的",
-      "ru": "физический"
+      "ru": "физический",
+      "fr": "physique"
     },
     "examples": [],
     "meta": {}
@@ -27710,7 +28752,8 @@ const WORDS_NL_B1 = [
       "pt": "puxar bruscamente",
       "ja": "ぐいと引く",
       "zh": "猛拉",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "tirer"
     },
     "examples": [],
     "meta": {},
@@ -27739,7 +28782,8 @@ const WORDS_NL_B1 = [
       "pt": "o lado esquerdo",
       "ja": "左側",
       "zh": "左边",
-      "ru": "левая сторона"
+      "ru": "левая сторона",
+      "fr": "gauche"
     },
     "examples": [],
     "meta": {},
@@ -27766,7 +28810,8 @@ const WORDS_NL_B1 = [
       "pt": "descer",
       "ja": "下がる",
       "zh": "下降",
-      "ru": "спускаться"
+      "ru": "спускаться",
+      "fr": "descendre"
     },
     "examples": [],
     "meta": {},
@@ -27794,7 +28839,8 @@ const WORDS_NL_B1 = [
       "pt": "o arquivo",
       "ja": "アーカイブ",
       "zh": "档案",
-      "ru": "архив"
+      "ru": "архив",
+      "fr": "archive"
     },
     "examples": [],
     "meta": {},
@@ -27820,7 +28866,8 @@ const WORDS_NL_B1 = [
       "pt": "mexer",
       "ja": "いじる",
       "zh": "修补",
-      "ru": "возиться"
+      "ru": "возиться",
+      "fr": "bricoler"
     },
     "examples": [],
     "meta": {},
@@ -27848,7 +28895,8 @@ const WORDS_NL_B1 = [
       "pt": "décimo",
       "ja": "10番目の",
       "zh": "第十",
-      "ru": "десятый"
+      "ru": "десятый",
+      "fr": "dixième"
     },
     "examples": [],
     "meta": {}
@@ -27872,7 +28920,8 @@ const WORDS_NL_B1 = [
       "pt": "o décimo",
       "ja": "10分の1",
       "zh": "十分之",
-      "ru": "десятая"
+      "ru": "десятая",
+      "fr": "dixième"
     },
     "examples": [],
     "meta": {},
@@ -27898,7 +28947,8 @@ const WORDS_NL_B1 = [
       "pt": "a primeira página",
       "ja": "一面",
       "zh": "头版",
-      "ru": "первая страница"
+      "ru": "первая страница",
+      "fr": "une"
     },
     "examples": [],
     "meta": {},
@@ -27924,7 +28974,8 @@ const WORDS_NL_B1 = [
       "pt": "o vulcão",
       "ja": "火山",
       "zh": "火山",
-      "ru": "вулкан"
+      "ru": "вулкан",
+      "fr": "volcan"
     },
     "examples": [],
     "meta": {},
@@ -27951,7 +29002,8 @@ const WORDS_NL_B1 = [
       "pt": "afetado",
       "ja": "気取った",
       "zh": "做作的",
-      "ru": "аффектированный"
+      "ru": "аффектированный",
+      "fr": "affecté"
     },
     "examples": [],
     "meta": {}
@@ -27976,7 +29028,8 @@ const WORDS_NL_B1 = [
       "pt": "o grau",
       "ja": "度",
       "zh": "度",
-      "ru": "градус"
+      "ru": "градус",
+      "fr": "degré"
     },
     "examples": [],
     "meta": {},
@@ -28003,7 +29056,8 @@ const WORDS_NL_B1 = [
       "pt": "controlado",
       "ja": "抑制された",
       "zh": "受控的",
-      "ru": "сдержанный"
+      "ru": "сдержанный",
+      "fr": "contrôlé"
     },
     "examples": [],
     "meta": {}
@@ -28028,7 +29082,8 @@ const WORDS_NL_B1 = [
       "pt": "o sênior",
       "ja": "シニア",
       "zh": "老年人",
-      "ru": "старший"
+      "ru": "старший",
+      "fr": "senior"
     },
     "examples": [],
     "meta": {},
@@ -28055,7 +29110,8 @@ const WORDS_NL_B1 = [
       "pt": "sênior",
       "ja": "シニアの",
       "zh": "高级的",
-      "ru": "старший"
+      "ru": "старший",
+      "fr": "senior"
     },
     "examples": [],
     "meta": {}
@@ -28080,7 +29136,8 @@ const WORDS_NL_B1 = [
       "pt": "o traje",
       "ja": "衣装",
       "zh": "服装",
-      "ru": "наряд"
+      "ru": "наряд",
+      "fr": "tenue"
     },
     "examples": [],
     "meta": {},
@@ -28107,7 +29164,8 @@ const WORDS_NL_B1 = [
       "pt": "publicar",
       "ja": "出版する",
       "zh": "出版",
-      "ru": "публиковать"
+      "ru": "публиковать",
+      "fr": "publier"
     },
     "examples": [],
     "meta": {},
@@ -28135,7 +29193,8 @@ const WORDS_NL_B1 = [
       "pt": "esfregar",
       "ja": "こする",
       "zh": "摩擦",
-      "ru": "тереть"
+      "ru": "тереть",
+      "fr": "frotter"
     },
     "examples": [],
     "meta": {},
@@ -28163,7 +29222,8 @@ const WORDS_NL_B1 = [
       "pt": "acompanhar",
       "ja": "同伴する",
       "zh": "陪伴",
-      "ru": "сопровождать"
+      "ru": "сопровождать",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {},
@@ -28191,7 +29251,8 @@ const WORDS_NL_B1 = [
       "pt": "a roda",
       "ja": "車輪",
       "zh": "车轮",
-      "ru": "колесо"
+      "ru": "колесо",
+      "fr": "roue"
     },
     "examples": [],
     "meta": {},
@@ -28218,7 +29279,8 @@ const WORDS_NL_B1 = [
       "pt": "infantil",
       "ja": "子供っぽい",
       "zh": "幼稚的",
-      "ru": "ребяческий"
+      "ru": "ребяческий",
+      "fr": "enfantin"
     },
     "examples": [],
     "meta": {}
@@ -28243,7 +29305,8 @@ const WORDS_NL_B1 = [
       "pt": "apodrecer",
       "ja": "腐る",
       "zh": "腐烂",
-      "ru": "гнить"
+      "ru": "гнить",
+      "fr": "pourrir"
     },
     "examples": [],
     "meta": {},
@@ -28271,7 +29334,8 @@ const WORDS_NL_B1 = [
       "pt": "o arranhão",
       "ja": "傷",
       "zh": "划痕",
-      "ru": "царапина"
+      "ru": "царапина",
+      "fr": "gratter"
     },
     "examples": [],
     "meta": {},
@@ -28298,7 +29362,8 @@ const WORDS_NL_B1 = [
       "pt": "o painel",
       "ja": "裾",
       "zh": "衣襟",
-      "ru": "пола"
+      "ru": "пола",
+      "fr": "panneau"
     },
     "examples": [],
     "meta": {},
@@ -28325,7 +29390,8 @@ const WORDS_NL_B1 = [
       "pt": "o intruso",
       "ja": "侵入者",
       "zh": "入侵者",
-      "ru": "нарушитель"
+      "ru": "нарушитель",
+      "fr": "intrus"
     },
     "examples": [],
     "meta": {},
@@ -28352,7 +29418,8 @@ const WORDS_NL_B1 = [
       "pt": "o chifre",
       "ja": "角",
       "zh": "角",
-      "ru": "рог"
+      "ru": "рог",
+      "fr": "corne"
     },
     "examples": [],
     "meta": {},
@@ -28379,7 +29446,8 @@ const WORDS_NL_B1 = [
       "pt": "feminino",
       "ja": "女性の",
       "zh": "女性的",
-      "ru": "женский"
+      "ru": "женский",
+      "fr": "féminin"
     },
     "examples": [],
     "meta": {}
@@ -28404,7 +29472,8 @@ const WORDS_NL_B1 = [
       "pt": "moer",
       "ja": "挽く",
       "zh": "磨",
-      "ru": "молоть"
+      "ru": "молоть",
+      "fr": "moudre"
     },
     "examples": [],
     "meta": {},
@@ -28432,7 +29501,8 @@ const WORDS_NL_B1 = [
       "pt": "servir",
       "ja": "給仕する",
       "zh": "服务",
-      "ru": "подавать"
+      "ru": "подавать",
+      "fr": "servir"
     },
     "examples": [],
     "meta": {},
@@ -28460,7 +29530,8 @@ const WORDS_NL_B1 = [
       "pt": "sorrir",
       "ja": "微笑む",
       "zh": "微笑",
-      "ru": "улыбаться"
+      "ru": "улыбаться",
+      "fr": "sourire"
     },
     "examples": [],
     "meta": {},
@@ -28488,7 +29559,8 @@ const WORDS_NL_B1 = [
       "pt": "livrar",
       "ja": "取り除く",
       "zh": "摆脱",
-      "ru": "избавлять"
+      "ru": "избавлять",
+      "fr": "débarrasser"
     },
     "examples": [],
     "meta": {},
@@ -28516,7 +29588,8 @@ const WORDS_NL_B1 = [
       "pt": "a premonição",
       "ja": "予感",
       "zh": "预感",
-      "ru": "предчувствие"
+      "ru": "предчувствие",
+      "fr": "prémonition"
     },
     "examples": [],
     "meta": {},
@@ -28543,7 +29616,8 @@ const WORDS_NL_B1 = [
       "pt": "mútuo",
       "ja": "相互の",
       "zh": "相互的",
-      "ru": "взаимный"
+      "ru": "взаимный",
+      "fr": "mutuel"
     },
     "examples": [],
     "meta": {}
@@ -28568,7 +29642,8 @@ const WORDS_NL_B1 = [
       "pt": "emparelhar",
       "ja": "対にする",
       "zh": "配对",
-      "ru": "спаривать"
+      "ru": "спаривать",
+      "fr": "paire"
     },
     "examples": [],
     "meta": {},
@@ -28596,7 +29671,8 @@ const WORDS_NL_B1 = [
       "pt": "focar",
       "ja": "集中する",
       "zh": "聚焦",
-      "ru": "фокусировать"
+      "ru": "фокусировать",
+      "fr": "focaliser"
     },
     "examples": [],
     "meta": {},
@@ -28624,7 +29700,8 @@ const WORDS_NL_B1 = [
       "pt": "desejado",
       "ja": "望ましい",
       "zh": "期望的",
-      "ru": "желаемый"
+      "ru": "желаемый",
+      "fr": "désiré"
     },
     "examples": [],
     "meta": {}
@@ -28649,7 +29726,8 @@ const WORDS_NL_B1 = [
       "pt": "a massa",
       "ja": "パスタ",
       "zh": "意大利面",
-      "ru": "паста"
+      "ru": "паста",
+      "fr": "pâtes"
     },
     "examples": [],
     "meta": {},
@@ -28676,7 +29754,8 @@ const WORDS_NL_B1 = [
       "pt": "potencial",
       "ja": "潜在的な",
       "zh": "潜在的",
-      "ru": "потенциальный"
+      "ru": "потенциальный",
+      "fr": "potentiel"
     },
     "examples": [],
     "meta": {}
@@ -28701,7 +29780,8 @@ const WORDS_NL_B1 = [
       "pt": "o potencial",
       "ja": "潜在能力",
       "zh": "潜力",
-      "ru": "потенциал"
+      "ru": "потенциал",
+      "fr": "potentiel"
     },
     "examples": [],
     "meta": {},
@@ -28728,7 +29808,8 @@ const WORDS_NL_B1 = [
       "pt": "decolar",
       "ja": "離陸する",
       "zh": "起飞",
-      "ru": "взлетать"
+      "ru": "взлетать",
+      "fr": "décoller"
     },
     "examples": [],
     "meta": {},
@@ -28756,7 +29837,8 @@ const WORDS_NL_B1 = [
       "pt": "extenso",
       "ja": "広範囲な",
       "zh": "广泛的",
-      "ru": "обширный"
+      "ru": "обширный",
+      "fr": "vaste"
     },
     "examples": [],
     "meta": {}
@@ -28781,7 +29863,8 @@ const WORDS_NL_B1 = [
       "pt": "notável",
       "ja": "注目すべき",
       "zh": "显著的",
-      "ru": "примечательный"
+      "ru": "примечательный",
+      "fr": "remarquable"
     },
     "examples": [],
     "meta": {}
@@ -28805,7 +29888,8 @@ const WORDS_NL_B1 = [
       "pt": "contrabandear",
       "ja": "密輸する",
       "zh": "走私",
-      "ru": "контрабандировать"
+      "ru": "контрабандировать",
+      "fr": "contrebande"
     },
     "examples": [],
     "meta": {},
@@ -28833,7 +29917,8 @@ const WORDS_NL_B1 = [
       "pt": "fazer a cama",
       "ja": "ベッドを整える",
       "zh": "铺床",
-      "ru": "застилать кровать"
+      "ru": "застилать кровать",
+      "fr": "faire le lit"
     },
     "examples": [],
     "meta": {},
@@ -28860,7 +29945,8 @@ const WORDS_NL_B1 = [
       "pt": "a escotilha",
       "ja": "ハッチ",
       "zh": "舱口",
-      "ru": "люк"
+      "ru": "люк",
+      "fr": "éclore"
     },
     "examples": [],
     "meta": {},
@@ -28887,7 +29973,8 @@ const WORDS_NL_B1 = [
       "pt": "a turnê",
       "ja": "ツアー",
       "zh": "巡演",
-      "ru": "турне"
+      "ru": "турне",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {},
@@ -28914,7 +30001,8 @@ const WORDS_NL_B1 = [
       "pt": "o adiamento",
       "ja": "延期",
       "zh": "推迟",
-      "ru": "отсрочка"
+      "ru": "отсрочка",
+      "fr": "report"
     },
     "examples": [],
     "meta": {},
@@ -28940,7 +30028,8 @@ const WORDS_NL_B1 = [
       "pt": "o doador",
       "ja": "ドナー",
       "zh": "捐赠者",
-      "ru": "донор"
+      "ru": "донор",
+      "fr": "donneur"
     },
     "examples": [],
     "meta": {},
@@ -28967,7 +30056,8 @@ const WORDS_NL_B1 = [
       "pt": "temperar",
       "ja": "味付けする",
       "zh": "调味",
-      "ru": "приправлять"
+      "ru": "приправлять",
+      "fr": "saison"
     },
     "examples": [],
     "meta": {},
@@ -28994,7 +30084,8 @@ const WORDS_NL_B1 = [
       "pt": "convencional",
       "ja": "型にはまった",
       "zh": "守旧的",
-      "ru": "консервативный"
+      "ru": "консервативный",
+      "fr": "conventionnel"
     },
     "examples": [],
     "meta": {}
@@ -29018,7 +30109,8 @@ const WORDS_NL_B1 = [
       "pt": "a pessoa convencional",
       "ja": "型にはまった人",
       "zh": "守旧的人",
-      "ru": "консерватор"
+      "ru": "консерватор",
+      "fr": "personne conventionnelle"
     },
     "examples": [],
     "meta": {},
@@ -29044,7 +30136,8 @@ const WORDS_NL_B1 = [
       "pt": "o pseudônimo",
       "ja": "別名",
       "zh": "别名",
-      "ru": "псевдоним"
+      "ru": "псевдоним",
+      "fr": "alias"
     },
     "examples": [],
     "meta": {},
@@ -29071,7 +30164,8 @@ const WORDS_NL_B1 = [
       "pt": "a mistura",
       "ja": "ミックス",
       "zh": "混合",
-      "ru": "смесь"
+      "ru": "смесь",
+      "fr": "mélanger"
     },
     "examples": [],
     "meta": {},
@@ -29098,7 +30192,8 @@ const WORDS_NL_B1 = [
       "pt": "fluir",
       "ja": "流れる",
       "zh": "流动",
-      "ru": "течь"
+      "ru": "течь",
+      "fr": "flux"
     },
     "examples": [],
     "meta": {},
@@ -29126,7 +30221,8 @@ const WORDS_NL_B1 = [
       "pt": "a caixa",
       "ja": "箱",
       "zh": "盒子",
-      "ru": "коробка"
+      "ru": "коробка",
+      "fr": "boîte"
     },
     "examples": [],
     "meta": {},
@@ -29152,7 +30248,8 @@ const WORDS_NL_B1 = [
       "pt": "a carruagem",
       "ja": "馬車",
       "zh": "马车",
-      "ru": "карета"
+      "ru": "карета",
+      "fr": "voiture"
     },
     "examples": [],
     "meta": {},
@@ -29179,7 +30276,8 @@ const WORDS_NL_B1 = [
       "pt": "lançar",
       "ja": "発射する",
       "zh": "发射",
-      "ru": "запускать"
+      "ru": "запускать",
+      "fr": "lancer"
     },
     "examples": [],
     "meta": {},
@@ -29207,7 +30305,8 @@ const WORDS_NL_B1 = [
       "pt": "a bolsa",
       "ja": "ハンドバッグ",
       "zh": "手提包",
-      "ru": "сумочка"
+      "ru": "сумочка",
+      "fr": "sac à main"
     },
     "examples": [],
     "meta": {},
@@ -29233,7 +30332,8 @@ const WORDS_NL_B1 = [
       "pt": "o reboque",
       "ja": "牽引物",
       "zh": "拖曳物",
-      "ru": "буксир"
+      "ru": "буксир",
+      "fr": "remorquer"
     },
     "examples": [],
     "meta": {},
@@ -29260,7 +30360,8 @@ const WORDS_NL_B1 = [
       "pt": "refrescar",
       "ja": "リフレッシュする",
       "zh": "刷新",
-      "ru": "освежать"
+      "ru": "освежать",
+      "fr": "rafraîchir"
     },
     "examples": [],
     "meta": {},
@@ -29288,7 +30389,8 @@ const WORDS_NL_B1 = [
       "pt": "a pata",
       "ja": "足 (動物)",
       "zh": "爪子",
-      "ru": "лапа"
+      "ru": "лапа",
+      "fr": "patte"
     },
     "examples": [],
     "meta": {},
@@ -29315,7 +30417,8 @@ const WORDS_NL_B1 = [
       "pt": "enviar",
       "ja": "送る",
       "zh": "发送",
-      "ru": "посылать"
+      "ru": "посылать",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -29343,7 +30446,8 @@ const WORDS_NL_B1 = [
       "pt": "convidar",
       "ja": "招待する",
       "zh": "邀请",
-      "ru": "приглашать"
+      "ru": "приглашать",
+      "fr": "inviter"
     },
     "examples": [],
     "meta": {},
@@ -29370,7 +30474,8 @@ const WORDS_NL_B1 = [
       "pt": "o javali",
       "ja": "イノシシ",
       "zh": "野猪",
-      "ru": "кабан"
+      "ru": "кабан",
+      "fr": "sanglier"
     },
     "examples": [],
     "meta": {},
@@ -29397,7 +30502,8 @@ const WORDS_NL_B1 = [
       "pt": "o balão",
       "ja": "風船",
       "zh": "气球",
-      "ru": "воздушный шар"
+      "ru": "воздушный шар",
+      "fr": "ballon"
     },
     "examples": [],
     "meta": {},
@@ -29424,7 +30530,8 @@ const WORDS_NL_B1 = [
       "pt": "pronto",
       "ja": "準備ができた",
       "zh": "准备好的",
-      "ru": "готовый"
+      "ru": "готовый",
+      "fr": "prêt"
     },
     "examples": [],
     "meta": {}
@@ -29448,7 +30555,8 @@ const WORDS_NL_B1 = [
       "pt": "dormente",
       "ja": "麻痺した",
       "zh": "麻木的",
-      "ru": "онемевший"
+      "ru": "онемевший",
+      "fr": "engourdi"
     },
     "examples": [],
     "meta": {}
@@ -29473,7 +30581,8 @@ const WORDS_NL_B1 = [
       "pt": "ocorrer",
       "ja": "開催される",
       "zh": "发生",
-      "ru": "происходить"
+      "ru": "происходить",
+      "fr": "avoir lieu"
     },
     "examples": [],
     "meta": {},
@@ -29500,7 +30609,8 @@ const WORDS_NL_B1 = [
       "pt": "a façanha",
       "ja": "スタント",
       "zh": "特技",
-      "ru": "трюк"
+      "ru": "трюк",
+      "fr": "cascade"
     },
     "examples": [],
     "meta": {},
@@ -29526,7 +30636,8 @@ const WORDS_NL_B1 = [
       "pt": "a junta",
       "ja": "継ぎ目",
       "zh": "接缝",
-      "ru": "шов"
+      "ru": "шов",
+      "fr": "articulation"
     },
     "examples": [],
     "meta": {},
@@ -29552,7 +30663,8 @@ const WORDS_NL_B1 = [
       "pt": "o útero",
       "ja": "子宮",
       "zh": "子宫",
-      "ru": "матка"
+      "ru": "матка",
+      "fr": "utérus"
     },
     "examples": [],
     "meta": {},
@@ -29579,7 +30691,8 @@ const WORDS_NL_B1 = [
       "pt": "a teia",
       "ja": "クモの巣",
       "zh": "网",
-      "ru": "паутина"
+      "ru": "паутина",
+      "fr": "toile"
     },
     "examples": [],
     "meta": {},
@@ -29605,7 +30718,8 @@ const WORDS_NL_B1 = [
       "pt": "condicional",
       "ja": "条件付きの",
       "zh": "有条件的",
-      "ru": "условный"
+      "ru": "условный",
+      "fr": "conditionnel"
     },
     "examples": [],
     "meta": {}
@@ -29630,7 +30744,8 @@ const WORDS_NL_B1 = [
       "pt": "beliscar",
       "ja": "つねる",
       "zh": "捏",
-      "ru": "щипать"
+      "ru": "щипать",
+      "fr": "pincer"
     },
     "examples": [],
     "meta": {},
@@ -29658,7 +30773,8 @@ const WORDS_NL_B1 = [
       "pt": "a pele",
       "ja": "皮膚",
       "zh": "皮肤",
-      "ru": "кожа"
+      "ru": "кожа",
+      "fr": "peau"
     },
     "examples": [],
     "meta": {},
@@ -29684,7 +30800,8 @@ const WORDS_NL_B1 = [
       "pt": "o companheiro",
       "ja": "仲間",
       "zh": "同伴",
-      "ru": "товарищ"
+      "ru": "товарищ",
+      "fr": "compagnon"
     },
     "examples": [],
     "meta": {},
@@ -29710,7 +30827,8 @@ const WORDS_NL_B1 = [
       "pt": "o lagosta",
       "ja": "ロブスター",
       "zh": "龙虾",
-      "ru": "омар"
+      "ru": "омар",
+      "fr": "homard"
     },
     "examples": [],
     "meta": {},
@@ -29736,7 +30854,8 @@ const WORDS_NL_B1 = [
       "pt": "o solteiro",
       "ja": "独身者",
       "zh": "单身人士",
-      "ru": "одинокий человек"
+      "ru": "одинокий человек",
+      "fr": "célibataire"
     },
     "examples": [],
     "meta": {},
@@ -29763,7 +30882,8 @@ const WORDS_NL_B1 = [
       "pt": "o email",
       "ja": "メール",
       "zh": "电子邮件",
-      "ru": "электронная почта"
+      "ru": "электронная почта",
+      "fr": "courriel"
     },
     "examples": [],
     "meta": {},
@@ -29790,7 +30910,8 @@ const WORDS_NL_B1 = [
       "pt": "o número",
       "ja": "数",
       "zh": "数字",
-      "ru": "число"
+      "ru": "число",
+      "fr": "nombre"
     },
     "examples": [],
     "meta": {},
@@ -29817,7 +30938,8 @@ const WORDS_NL_B1 = [
       "pt": "apoiar",
       "ja": "支援する",
       "zh": "支持",
-      "ru": "поддерживать"
+      "ru": "поддерживать",
+      "fr": "soutien"
     },
     "examples": [],
     "meta": {},
@@ -29844,7 +30966,8 @@ const WORDS_NL_B1 = [
       "pt": "urinar",
       "ja": "排尿する",
       "zh": "排尿",
-      "ru": "мочиться"
+      "ru": "мочиться",
+      "fr": "uriner"
     },
     "examples": [],
     "meta": {},
@@ -29872,7 +30995,8 @@ const WORDS_NL_B1 = [
       "pt": "a paisagem",
       "ja": "風景",
       "zh": "风景",
-      "ru": "пейзаж"
+      "ru": "пейзаж",
+      "fr": "paysage"
     },
     "examples": [],
     "meta": {},
@@ -29899,7 +31023,8 @@ const WORDS_NL_B1 = [
       "pt": "coçar",
       "ja": "掻く",
       "zh": "抓",
-      "ru": "царапать"
+      "ru": "царапать",
+      "fr": "gratter"
     },
     "examples": [],
     "meta": {},
@@ -29927,7 +31052,8 @@ const WORDS_NL_B1 = [
       "pt": "preencher",
       "ja": "記入する",
       "zh": "填写",
-      "ru": "заполнять"
+      "ru": "заполнять",
+      "fr": "remplir"
     },
     "examples": [],
     "meta": {},
@@ -29955,7 +31081,8 @@ const WORDS_NL_B1 = [
       "pt": "a tarde",
       "ja": "午後",
       "zh": "下午",
-      "ru": "полдень"
+      "ru": "полдень",
+      "fr": "après-midi"
     },
     "examples": [],
     "meta": {},
@@ -29982,7 +31109,8 @@ const WORDS_NL_B1 = [
       "pt": "a vela",
       "ja": "ろうそく",
       "zh": "蜡烛",
-      "ru": "свеча"
+      "ru": "свеча",
+      "fr": "bougie"
     },
     "examples": [],
     "meta": {},
@@ -30009,7 +31137,8 @@ const WORDS_NL_B1 = [
       "pt": "o caixote do lixo",
       "ja": "ゴミ箱",
       "zh": "垃圾桶",
-      "ru": "мусорное ведро"
+      "ru": "мусорное ведро",
+      "fr": "poubelle"
     },
     "examples": [],
     "meta": {},
@@ -30035,7 +31164,8 @@ const WORDS_NL_B1 = [
       "pt": "inimaginável",
       "ja": "想像を絶する",
       "zh": "难以置信的",
-      "ru": "невообразимый"
+      "ru": "невообразимый",
+      "fr": "inimaginable"
     },
     "examples": [],
     "meta": {}
@@ -30059,7 +31189,8 @@ const WORDS_NL_B1 = [
       "pt": "miserável",
       "ja": "悲惨な",
       "zh": "悲惨的",
-      "ru": "несчастный"
+      "ru": "несчастный",
+      "fr": "misérable"
     },
     "examples": [],
     "meta": {}
@@ -30083,7 +31214,8 @@ const WORDS_NL_B1 = [
       "pt": "humilhante",
       "ja": "屈辱的な",
       "zh": "羞辱的",
-      "ru": "унизительный"
+      "ru": "унизительный",
+      "fr": "humiliant"
     },
     "examples": [],
     "meta": {}
@@ -30107,7 +31239,8 @@ const WORDS_NL_B1 = [
       "pt": "legal",
       "ja": "合法的な",
       "zh": "合法的",
-      "ru": "законный"
+      "ru": "законный",
+      "fr": "légal"
     },
     "examples": [],
     "meta": {}
@@ -30131,7 +31264,8 @@ const WORDS_NL_B1 = [
       "pt": "a romã",
       "ja": "ザクロ",
       "zh": "石榴",
-      "ru": "гранат"
+      "ru": "гранат",
+      "fr": "grenade"
     },
     "examples": [],
     "meta": {},
@@ -30158,7 +31292,8 @@ const WORDS_NL_B1 = [
       "pt": "o aguaceiro",
       "ja": "にわか雨",
       "zh": "阵雨",
-      "ru": "ливень"
+      "ru": "ливень",
+      "fr": "douche"
     },
     "examples": [],
     "meta": {},
@@ -30184,7 +31319,8 @@ const WORDS_NL_B1 = [
       "pt": "reter",
       "ja": "差し引く",
       "zh": "扣留",
-      "ru": "удерживать"
+      "ru": "удерживать",
+      "fr": "retenir"
     },
     "examples": [],
     "meta": {},
@@ -30212,7 +31348,8 @@ const WORDS_NL_B1 = [
       "pt": "a iniciativa",
       "ja": "主導権",
       "zh": "主动性",
-      "ru": "инициатива"
+      "ru": "инициатива",
+      "fr": "initiative"
     },
     "examples": [],
     "meta": {},
@@ -30239,7 +31376,8 @@ const WORDS_NL_B1 = [
       "pt": "a alameda",
       "ja": "並木道",
       "zh": "林荫道",
-      "ru": "аллея"
+      "ru": "аллея",
+      "fr": "avenue"
     },
     "examples": [],
     "meta": {},
@@ -30266,7 +31404,8 @@ const WORDS_NL_B1 = [
       "pt": "reembolsar",
       "ja": "返済する",
       "zh": "偿还",
-      "ru": "возвращать"
+      "ru": "возвращать",
+      "fr": "rembourser"
     },
     "examples": [],
     "meta": {},
@@ -30294,7 +31433,8 @@ const WORDS_NL_B1 = [
       "pt": "o psicólogo",
       "ja": "心理学者",
       "zh": "心理学家",
-      "ru": "психолог"
+      "ru": "психолог",
+      "fr": "psychologue"
     },
     "examples": [],
     "meta": {},
@@ -30321,7 +31461,8 @@ const WORDS_NL_B1 = [
       "pt": "dezessete",
       "ja": "17",
       "zh": "十七",
-      "ru": "семнадцать"
+      "ru": "семнадцать",
+      "fr": "dix-sept"
     },
     "examples": [],
     "meta": {},
@@ -30348,7 +31489,8 @@ const WORDS_NL_B1 = [
       "pt": "disposto",
       "ja": "配置された",
       "zh": "布置好的",
-      "ru": "расположенный"
+      "ru": "расположенный",
+      "fr": "arrangé"
     },
     "examples": [],
     "meta": {}
@@ -30372,7 +31514,8 @@ const WORDS_NL_B1 = [
       "pt": "o balé",
       "ja": "バレエ",
       "zh": "芭蕾舞",
-      "ru": "балет"
+      "ru": "балет",
+      "fr": "ballet"
     },
     "examples": [],
     "meta": {},
@@ -30398,7 +31541,8 @@ const WORDS_NL_B1 = [
       "pt": "misterioso",
       "ja": "神秘的な",
       "zh": "神秘的",
-      "ru": "таинственный"
+      "ru": "таинственный",
+      "fr": "mystérieux"
     },
     "examples": [],
     "meta": {}
@@ -30423,7 +31567,8 @@ const WORDS_NL_B1 = [
       "pt": "os doces",
       "ja": "お菓子",
       "zh": "糖果",
-      "ru": "сладости"
+      "ru": "сладости",
+      "fr": "bonbons"
     },
     "examples": [],
     "meta": {},
@@ -30449,7 +31594,8 @@ const WORDS_NL_B1 = [
       "pt": "o ex-marido",
       "ja": "元夫",
       "zh": "前夫",
-      "ru": "бывший муж"
+      "ru": "бывший муж",
+      "fr": "ex-mari"
     },
     "examples": [],
     "meta": {},
@@ -30475,7 +31621,8 @@ const WORDS_NL_B1 = [
       "pt": "fiar",
       "ja": "紡ぐ",
       "zh": "纺",
-      "ru": "прясть"
+      "ru": "прясть",
+      "fr": "tourner"
     },
     "examples": [],
     "meta": {},
@@ -30502,7 +31649,8 @@ const WORDS_NL_B1 = [
       "pt": "invadir",
       "ja": "侵入する",
       "zh": "侵入",
-      "ru": "вторгаться"
+      "ru": "вторгаться",
+      "fr": "envahir"
     },
     "examples": [],
     "meta": {},
@@ -30530,7 +31678,8 @@ const WORDS_NL_B1 = [
       "pt": "alcançar",
       "ja": "追いつく",
       "zh": "赶上",
-      "ru": "догнать"
+      "ru": "догнать",
+      "fr": "rattraper"
     },
     "examples": [],
     "meta": {},
@@ -30557,7 +31706,8 @@ const WORDS_NL_B1 = [
       "pt": "a maldição",
       "ja": "呪い",
       "zh": "诅咒",
-      "ru": "проклятие"
+      "ru": "проклятие",
+      "fr": "malédiction"
     },
     "examples": [],
     "meta": {},
@@ -30584,7 +31734,8 @@ const WORDS_NL_B1 = [
       "pt": "adotar",
       "ja": "養子にする",
       "zh": "收养",
-      "ru": "усыновлять"
+      "ru": "усыновлять",
+      "fr": "adopter"
     },
     "examples": [],
     "meta": {},
@@ -30611,7 +31762,8 @@ const WORDS_NL_B1 = [
       "pt": "o alcoólatra",
       "ja": "アルコール依存症患者",
       "zh": "酗酒者",
-      "ru": "алкоголик"
+      "ru": "алкоголик",
+      "fr": "alcoolique"
     },
     "examples": [],
     "meta": {},
@@ -30638,7 +31790,8 @@ const WORDS_NL_B1 = [
       "pt": "vazio",
       "ja": "空の",
       "zh": "空的",
-      "ru": "пустой"
+      "ru": "пустой",
+      "fr": "vide"
     },
     "examples": [],
     "meta": {}
@@ -30663,7 +31816,8 @@ const WORDS_NL_B1 = [
       "pt": "preciso",
       "ja": "正確な",
       "zh": "精确的",
-      "ru": "точный"
+      "ru": "точный",
+      "fr": "précis"
     },
     "examples": [],
     "meta": {}
@@ -30688,7 +31842,8 @@ const WORDS_NL_B1 = [
       "pt": "misturar",
       "ja": "混ぜる",
       "zh": "混合",
-      "ru": "смешивать"
+      "ru": "смешивать",
+      "fr": "mélanger"
     },
     "examples": [],
     "meta": {},
@@ -30716,7 +31871,8 @@ const WORDS_NL_B1 = [
       "pt": "considerar",
       "ja": "考慮する",
       "zh": "考虑",
-      "ru": "рассматривать"
+      "ru": "рассматривать",
+      "fr": "considérer"
     },
     "examples": [],
     "meta": {},
@@ -30744,7 +31900,8 @@ const WORDS_NL_B1 = [
       "pt": "trazer",
       "ja": "持ってくる",
       "zh": "带来",
-      "ru": "приносить"
+      "ru": "приносить",
+      "fr": "amener"
     },
     "examples": [],
     "meta": {},
@@ -30771,7 +31928,8 @@ const WORDS_NL_B1 = [
       "pt": "a guerra civil",
       "ja": "内戦",
       "zh": "内战",
-      "ru": "гражданская война"
+      "ru": "гражданская война",
+      "fr": "guerre civile"
     },
     "examples": [],
     "meta": {},
@@ -30797,7 +31955,8 @@ const WORDS_NL_B1 = [
       "pt": "o cristal",
       "ja": "結晶",
       "zh": "晶体",
-      "ru": "кристалл"
+      "ru": "кристалл",
+      "fr": "cristal"
     },
     "examples": [],
     "meta": {},
@@ -30823,7 +31982,8 @@ const WORDS_NL_B1 = [
       "pt": "o look",
       "ja": "見た目",
       "zh": "外观",
-      "ru": "внешний вид"
+      "ru": "внешний вид",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -30849,7 +32009,8 @@ const WORDS_NL_B1 = [
       "pt": "o rum",
       "ja": "ラム酒",
       "zh": "朗姆酒",
-      "ru": "ром"
+      "ru": "ром",
+      "fr": "rhum"
     },
     "examples": [],
     "meta": {},
@@ -30876,7 +32037,8 @@ const WORDS_NL_B1 = [
       "pt": "remar",
       "ja": "漕ぐ",
       "zh": "划船",
-      "ru": "грести"
+      "ru": "грести",
+      "fr": "rangée"
     },
     "examples": [],
     "meta": {},
@@ -30904,7 +32066,8 @@ const WORDS_NL_B1 = [
       "pt": "defeituoso",
       "ja": "欠陥のある",
       "zh": "有缺陷的",
-      "ru": "дефектный"
+      "ru": "дефектный",
+      "fr": "défectueux"
     },
     "examples": [],
     "meta": {}
@@ -30929,7 +32092,8 @@ const WORDS_NL_B1 = [
       "pt": "o defeito",
       "ja": "欠陥",
       "zh": "缺陷",
-      "ru": "дефект"
+      "ru": "дефект",
+      "fr": "défaut"
     },
     "examples": [],
     "meta": {},
@@ -30955,7 +32119,8 @@ const WORDS_NL_B1 = [
       "pt": "forrado",
       "ja": "裏地付きの",
       "zh": "有衬里的",
-      "ru": "на подкладке"
+      "ru": "на подкладке",
+      "fr": "doublé"
     },
     "examples": [],
     "meta": {}
@@ -30980,7 +32145,8 @@ const WORDS_NL_B1 = [
       "pt": "o açougueiro",
       "ja": "肉屋",
       "zh": "屠夫",
-      "ru": "мясник"
+      "ru": "мясник",
+      "fr": "boucher"
     },
     "examples": [],
     "meta": {},
@@ -31006,7 +32172,8 @@ const WORDS_NL_B1 = [
       "pt": "abençoado",
       "ja": "祝福された",
       "zh": "受祝福的",
-      "ru": "блаженный"
+      "ru": "блаженный",
+      "fr": "béni"
     },
     "examples": [],
     "meta": {}
@@ -31031,7 +32198,8 @@ const WORDS_NL_B1 = [
       "pt": "em forma",
       "ja": "健康な",
       "zh": "健康的",
-      "ru": "в форме"
+      "ru": "в форме",
+      "fr": "adapter"
     },
     "examples": [],
     "meta": {}
@@ -31055,7 +32223,8 @@ const WORDS_NL_B1 = [
       "pt": "o calibre",
       "ja": "ゲージ",
       "zh": "测量钩",
-      "ru": "калибр"
+      "ru": "калибр",
+      "fr": "jauge"
     },
     "examples": [],
     "meta": {},
@@ -31081,7 +32250,8 @@ const WORDS_NL_B1 = [
       "pt": "louco",
       "ja": "気の狂った",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
+      "ru": "сумасшедший",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -31106,7 +32276,8 @@ const WORDS_NL_B1 = [
       "pt": "seguir",
       "ja": "従う",
       "zh": "遵循",
-      "ru": "следовать"
+      "ru": "следовать",
+      "fr": "suivre"
     },
     "examples": [],
     "meta": {},
@@ -31134,7 +32305,8 @@ const WORDS_NL_B1 = [
       "pt": "oitavo",
       "ja": "8番目の",
       "zh": "第八",
-      "ru": "восьмой"
+      "ru": "восьмой",
+      "fr": "huitième"
     },
     "examples": [],
     "meta": {}
@@ -31159,7 +32331,8 @@ const WORDS_NL_B1 = [
       "pt": "o oitavo",
       "ja": "8分の1",
       "zh": "八分之一",
-      "ru": "восьмая часть"
+      "ru": "восьмая часть",
+      "fr": "huitième"
     },
     "examples": [],
     "meta": {},
@@ -31186,7 +32359,8 @@ const WORDS_NL_B1 = [
       "pt": "a bifurcação",
       "ja": "分岐",
       "zh": "分叉",
-      "ru": "развилка"
+      "ru": "развилка",
+      "fr": "fourchette"
     },
     "examples": [],
     "meta": {},
@@ -31212,7 +32386,8 @@ const WORDS_NL_B1 = [
       "pt": "a agência",
       "ja": "機関",
       "zh": "机构",
-      "ru": "агентство"
+      "ru": "агентство",
+      "fr": "agence"
     },
     "examples": [],
     "meta": {},
@@ -31238,7 +32413,8 @@ const WORDS_NL_B1 = [
       "pt": "o sessenta",
       "ja": "六十",
       "zh": "六十",
-      "ru": "шестьдесят"
+      "ru": "шестьдесят",
+      "fr": "soixante"
     },
     "examples": [],
     "meta": {},
@@ -31264,7 +32440,8 @@ const WORDS_NL_B1 = [
       "pt": "a ficha",
       "ja": "トークン",
       "zh": "代币",
-      "ru": "жетон"
+      "ru": "жетон",
+      "fr": "jeton"
     },
     "examples": [],
     "meta": {},
@@ -31291,7 +32468,8 @@ const WORDS_NL_B1 = [
       "pt": "o prazo",
       "ja": "締め切り",
       "zh": "截止日期",
-      "ru": "крайний срок"
+      "ru": "крайний срок",
+      "fr": "échéance"
     },
     "examples": [],
     "meta": {},
@@ -31317,7 +32495,8 @@ const WORDS_NL_B1 = [
       "pt": "o pelotão",
       "ja": "小隊",
       "zh": "排",
-      "ru": "взвод"
+      "ru": "взвод",
+      "fr": "peloton"
     },
     "examples": [],
     "meta": {},
@@ -31343,7 +32522,8 @@ const WORDS_NL_B1 = [
       "pt": "exagerar",
       "ja": "誇張する",
       "zh": "夸大",
-      "ru": "преувеличивать"
+      "ru": "преувеличивать",
+      "fr": "exagérer"
     },
     "examples": [],
     "meta": {},
@@ -31370,7 +32550,8 @@ const WORDS_NL_B1 = [
       "pt": "fugir",
       "ja": "逃げる",
       "zh": "跑掉",
-      "ru": "убегать"
+      "ru": "убегать",
+      "fr": "fuir"
     },
     "examples": [],
     "meta": {},
@@ -31398,7 +32579,8 @@ const WORDS_NL_B1 = [
       "pt": "a praça",
       "ja": "広場",
       "zh": "广场",
-      "ru": "площадь"
+      "ru": "площадь",
+      "fr": "carré"
     },
     "examples": [],
     "meta": {},
@@ -31424,7 +32606,8 @@ const WORDS_NL_B1 = [
       "pt": "o cervo",
       "ja": "鹿",
       "zh": "鹿",
-      "ru": "олень"
+      "ru": "олень",
+      "fr": "cerf"
     },
     "examples": [],
     "meta": {},
@@ -31450,7 +32633,8 @@ const WORDS_NL_B1 = [
       "pt": "o político",
       "ja": "政治家",
       "zh": "政治家",
-      "ru": "политик"
+      "ru": "политик",
+      "fr": "politicien"
     },
     "examples": [],
     "meta": {},
@@ -31476,7 +32660,8 @@ const WORDS_NL_B1 = [
       "pt": "o falecimento",
       "ja": "死去",
       "zh": "逝世",
-      "ru": "кончина"
+      "ru": "кончина",
+      "fr": "décès"
     },
     "examples": [],
     "meta": {},
@@ -31503,7 +32688,8 @@ const WORDS_NL_B1 = [
       "pt": "viajar de trem",
       "ja": "列車で移動する",
       "zh": "乘火车",
-      "ru": "ехать на поезде"
+      "ru": "ехать на поезде",
+      "fr": "voyager en train"
     },
     "examples": [],
     "meta": {},
@@ -31530,7 +32716,8 @@ const WORDS_NL_B1 = [
       "pt": "o escolho",
       "ja": "岩礁",
       "zh": "礁石",
-      "ru": "шхера"
+      "ru": "шхера",
+      "fr": "écueil"
     },
     "examples": [],
     "meta": {},
@@ -31557,7 +32744,8 @@ const WORDS_NL_B1 = [
       "pt": "a porca",
       "ja": "ナット",
       "zh": "螺母",
-      "ru": "гайка"
+      "ru": "гайка",
+      "fr": "noix"
     },
     "examples": [],
     "meta": {},
@@ -31584,7 +32772,8 @@ const WORDS_NL_B1 = [
       "pt": "a feira",
       "ja": "祭り",
       "zh": "游乐场",
-      "ru": "ярмарка"
+      "ru": "ярмарка",
+      "fr": "juste"
     },
     "examples": [],
     "meta": {},
@@ -31611,7 +32800,8 @@ const WORDS_NL_B1 = [
       "pt": "infectado",
       "ja": "感染した",
       "zh": "感染的",
-      "ru": "инфицированный"
+      "ru": "инфицированный",
+      "fr": "infecté"
     },
     "examples": [],
     "meta": {}
@@ -31635,7 +32825,8 @@ const WORDS_NL_B1 = [
       "pt": "dar um gancho",
       "ja": "フックを打つ",
       "zh": "勾拳",
-      "ru": "бить хуком"
+      "ru": "бить хуком",
+      "fr": "accrocher"
     },
     "examples": [],
     "meta": {},
@@ -31662,7 +32853,8 @@ const WORDS_NL_B1 = [
       "pt": "o perseguidor",
       "ja": "ストーカー",
       "zh": "跟踪狂",
-      "ru": "сталкер"
+      "ru": "сталкер",
+      "fr": "harceleur"
     },
     "examples": [],
     "meta": {},
@@ -31689,7 +32881,8 @@ const WORDS_NL_B1 = [
       "pt": "o vendedor ambulante",
       "ja": "行商人",
       "zh": "小贩",
-      "ru": "разносчик"
+      "ru": "разносчик",
+      "fr": "colporteur"
     },
     "examples": [],
     "meta": {},
@@ -31716,7 +32909,8 @@ const WORDS_NL_B1 = [
       "pt": "o pio",
       "ja": "ピープ音",
       "zh": "吱吱声",
-      "ru": "писк"
+      "ru": "писк",
+      "fr": "épier"
     },
     "examples": [],
     "meta": {},
@@ -31743,7 +32937,8 @@ const WORDS_NL_B1 = [
       "pt": "muito jovem",
       "ja": "とても若い",
       "zh": "非常年轻",
-      "ru": "очень молодой"
+      "ru": "очень молодой",
+      "fr": "très jeune"
     },
     "examples": [],
     "meta": {}
@@ -31767,7 +32962,8 @@ const WORDS_NL_B1 = [
       "pt": "a urina",
       "ja": "尿",
       "zh": "尿",
-      "ru": "моча"
+      "ru": "моча",
+      "fr": "urine"
     },
     "examples": [],
     "meta": {},
@@ -31793,7 +32989,8 @@ const WORDS_NL_B1 = [
       "pt": "a letra",
       "ja": "文字",
       "zh": "字母",
-      "ru": "буква"
+      "ru": "буква",
+      "fr": "lettre"
     },
     "examples": [],
     "meta": {},
@@ -31820,7 +33017,8 @@ const WORDS_NL_B1 = [
       "pt": "a piada",
       "ja": "ジョーク",
       "zh": "笑话",
-      "ru": "шутка"
+      "ru": "шутка",
+      "fr": "blague"
     },
     "examples": [],
     "meta": {},
@@ -31847,7 +33045,8 @@ const WORDS_NL_B1 = [
       "pt": "a Véspera de Natal",
       "ja": "クリスマスイブ",
       "zh": "圣诞前夜",
-      "ru": "сочельник"
+      "ru": "сочельник",
+      "fr": "veille de Noël"
     },
     "examples": [],
     "meta": {},
@@ -31874,7 +33073,8 @@ const WORDS_NL_B1 = [
       "pt": "mínimo",
       "ja": "最小限の",
       "zh": "最小的",
-      "ru": "минимальный"
+      "ru": "минимальный",
+      "fr": "minimal"
     },
     "examples": [],
     "meta": {}
@@ -31898,7 +33098,8 @@ const WORDS_NL_B1 = [
       "pt": "o tribunal militar",
       "ja": "軍法会議",
       "zh": "军事法庭",
-      "ru": "военный трибунал"
+      "ru": "военный трибунал",
+      "fr": "cour martiale"
     },
     "examples": [],
     "meta": {},
@@ -31925,7 +33126,8 @@ const WORDS_NL_B1 = [
       "pt": "o clã",
       "ja": "氏族",
       "zh": "氏族",
-      "ru": "клан"
+      "ru": "клан",
+      "fr": "clan"
     },
     "examples": [],
     "meta": {},
@@ -31952,7 +33154,8 @@ const WORDS_NL_B1 = [
       "pt": "de cristal",
       "ja": "水晶の",
       "zh": "水晶的",
-      "ru": "хрустальный"
+      "ru": "хрустальный",
+      "fr": "cristal"
     },
     "examples": [],
     "meta": {}
@@ -31977,7 +33180,8 @@ const WORDS_NL_B1 = [
       "pt": "o perdedor",
       "ja": "敗者",
       "zh": "失败者",
-      "ru": "проигравший"
+      "ru": "проигравший",
+      "fr": "perdant"
     },
     "examples": [],
     "meta": {},
@@ -32004,7 +33208,8 @@ const WORDS_NL_B1 = [
       "pt": "óbvio",
       "ja": "当然の",
       "zh": "不言而喻的",
-      "ru": "само собой разумеющийся"
+      "ru": "само собой разумеющийся",
+      "fr": "évident"
     },
     "examples": [],
     "meta": {}
@@ -32029,7 +33234,8 @@ const WORDS_NL_B1 = [
       "pt": "a gravata",
       "ja": "ネクタイ",
       "zh": "领带",
-      "ru": "галстук"
+      "ru": "галстук",
+      "fr": "égalité"
     },
     "examples": [],
     "meta": {},
@@ -32056,7 +33262,8 @@ const WORDS_NL_B1 = [
       "pt": "a bomba",
       "ja": "ポンプ",
       "zh": "泵",
-      "ru": "насос"
+      "ru": "насос",
+      "fr": "pompe"
     },
     "examples": [],
     "meta": {},
@@ -32083,7 +33290,8 @@ const WORDS_NL_B1 = [
       "pt": "o sem-abrigo",
       "ja": "ホームレス",
       "zh": "无家可归者",
-      "ru": "бездомный"
+      "ru": "бездомный",
+      "fr": "sans-abri"
     },
     "examples": [],
     "meta": {},
@@ -32110,7 +33318,8 @@ const WORDS_NL_B1 = [
       "pt": "o pirata",
       "ja": "海賊",
       "zh": "海盗",
-      "ru": "пират"
+      "ru": "пират",
+      "fr": "pirate"
     },
     "examples": [],
     "meta": {},
@@ -32137,7 +33346,8 @@ const WORDS_NL_B1 = [
       "pt": "a cenoura",
       "ja": "ニンジン",
       "zh": "胡萝卜",
-      "ru": "морковь"
+      "ru": "морковь",
+      "fr": "carotte"
     },
     "examples": [],
     "meta": {},
@@ -32164,7 +33374,8 @@ const WORDS_NL_B1 = [
       "pt": "o prado",
       "ja": "牧草地",
       "zh": "草地",
-      "ru": "луг"
+      "ru": "луг",
+      "fr": "pré"
     },
     "examples": [],
     "meta": {},
@@ -32191,7 +33402,8 @@ const WORDS_NL_B1 = [
       "pt": "o sindicato",
       "ja": "労働組合",
       "zh": "工会",
-      "ru": "профсоюз"
+      "ru": "профсоюз",
+      "fr": "syndicat"
     },
     "examples": [],
     "meta": {},
@@ -32218,7 +33430,8 @@ const WORDS_NL_B1 = [
       "pt": "afetado",
       "ja": "影響を受けた",
       "zh": "受影响的",
-      "ru": "затронутый"
+      "ru": "затронутый",
+      "fr": "affecté"
     },
     "examples": [],
     "meta": {}
@@ -32243,7 +33456,8 @@ const WORDS_NL_B1 = [
       "pt": "a entrada",
       "ja": "私道",
       "zh": "车道",
-      "ru": "подъездная дорожка"
+      "ru": "подъездная дорожка",
+      "fr": "allée"
     },
     "examples": [],
     "meta": {},
@@ -32270,7 +33484,8 @@ const WORDS_NL_B1 = [
       "pt": "entrar",
       "ja": "入る",
       "zh": "进入",
-      "ru": "входить"
+      "ru": "входить",
+      "fr": "entrer"
     },
     "examples": [],
     "meta": {},
@@ -32298,7 +33513,8 @@ const WORDS_NL_B1 = [
       "pt": "inevitável",
       "ja": "避けられない",
       "zh": "不可避免的",
-      "ru": "неизбежный"
+      "ru": "неизбежный",
+      "fr": "inévitable"
     },
     "examples": [],
     "meta": {}
@@ -32323,7 +33539,8 @@ const WORDS_NL_B1 = [
       "pt": "nobre",
       "ja": "高貴な",
       "zh": "高贵的",
-      "ru": "благородный"
+      "ru": "благородный",
+      "fr": "noble"
     },
     "examples": [],
     "meta": {}
@@ -32347,7 +33564,8 @@ const WORDS_NL_B1 = [
       "pt": "Júpiter",
       "ja": "木星",
       "zh": "木星",
-      "ru": "Юпитер"
+      "ru": "Юпитер",
+      "fr": "Jupiter"
     },
     "examples": [],
     "meta": {},
@@ -32374,7 +33592,8 @@ const WORDS_NL_B1 = [
       "pt": "o fim",
       "ja": "終わり",
       "zh": "结束",
-      "ru": "конец"
+      "ru": "конец",
+      "fr": "fin"
     },
     "examples": [],
     "meta": {},
@@ -32402,7 +33621,8 @@ const WORDS_NL_B1 = [
       "pt": "a saudação",
       "ja": "挨拶",
       "zh": "问候",
-      "ru": "приветствие"
+      "ru": "приветствие",
+      "fr": "salutation"
     },
     "examples": [],
     "meta": {},
@@ -32429,7 +33649,8 @@ const WORDS_NL_B1 = [
       "pt": "o cânion",
       "ja": "峡谷",
       "zh": "峡谷",
-      "ru": "каньон"
+      "ru": "каньон",
+      "fr": "canyon"
     },
     "examples": [],
     "meta": {},
@@ -32456,7 +33677,8 @@ const WORDS_NL_B1 = [
       "pt": "o bife",
       "ja": "ステーキ",
       "zh": "牛排",
-      "ru": "стейк"
+      "ru": "стейк",
+      "fr": "steak"
     },
     "examples": [],
     "meta": {},
@@ -32483,7 +33705,8 @@ const WORDS_NL_B1 = [
       "pt": "o fogo",
       "ja": "火",
       "zh": "火",
-      "ru": "огонь"
+      "ru": "огонь",
+      "fr": "feu"
     },
     "examples": [],
     "meta": {},
@@ -32510,7 +33733,8 @@ const WORDS_NL_B1 = [
       "pt": "a área",
       "ja": "アール",
       "zh": "公亩",
-      "ru": "ар"
+      "ru": "ар",
+      "fr": "sont"
     },
     "examples": [],
     "meta": {},
@@ -32536,7 +33760,8 @@ const WORDS_NL_B1 = [
       "pt": "o gay",
       "ja": "ゲイ",
       "zh": "同性恋者",
-      "ru": "гей"
+      "ru": "гей",
+      "fr": "homosexuel"
     },
     "examples": [],
     "meta": {},
@@ -32562,7 +33787,8 @@ const WORDS_NL_B1 = [
       "pt": "gay",
       "ja": "ゲイの",
       "zh": "同性恋的",
-      "ru": "гей"
+      "ru": "гей",
+      "fr": "homosexuel"
     },
     "examples": [],
     "meta": {}
@@ -32587,7 +33813,8 @@ const WORDS_NL_B1 = [
       "pt": "faminto",
       "ja": "飢えた",
       "zh": "饥饿的",
-      "ru": "голодный"
+      "ru": "голодный",
+      "fr": "affamé"
     },
     "examples": [],
     "meta": {}
@@ -32612,7 +33839,8 @@ const WORDS_NL_B1 = [
       "pt": "a lesão",
       "ja": "負傷",
       "zh": "损伤",
-      "ru": "травма"
+      "ru": "травма",
+      "fr": "blessure"
     },
     "examples": [],
     "meta": {},
@@ -32639,7 +33867,8 @@ const WORDS_NL_B1 = [
       "pt": "pendurar",
       "ja": "ぶら下げる",
       "zh": "挂出",
-      "ru": "вывешивать"
+      "ru": "вывешивать",
+      "fr": "traîner"
     },
     "examples": [],
     "meta": {},
@@ -32666,7 +33895,8 @@ const WORDS_NL_B1 = [
       "pt": "o Dia dos Namorados",
       "ja": "バレンタインデー",
       "zh": "情人节",
-      "ru": "День святого Валентина"
+      "ru": "День святого Валентина",
+      "fr": "Saint-Valentin"
     },
     "examples": [],
     "meta": {},
@@ -32692,7 +33922,8 @@ const WORDS_NL_B1 = [
       "pt": "o morto",
       "ja": "死者",
       "zh": "死者",
-      "ru": "мертвец"
+      "ru": "мертвец",
+      "fr": "mort"
     },
     "examples": [],
     "meta": {},
@@ -32719,7 +33950,8 @@ const WORDS_NL_B1 = [
       "pt": "morto",
       "ja": "死んだ",
       "zh": "死的",
-      "ru": "мёртвый"
+      "ru": "мёртвый",
+      "fr": "mort"
     },
     "examples": [],
     "meta": {}
@@ -32744,7 +33976,8 @@ const WORDS_NL_B1 = [
       "pt": "sutil",
       "ja": "微妙な",
       "zh": "微妙的",
-      "ru": "тонкий"
+      "ru": "тонкий",
+      "fr": "subtil"
     },
     "examples": [],
     "meta": {}
@@ -32769,7 +34002,8 @@ const WORDS_NL_B1 = [
       "pt": "demonstrar",
       "ja": "実演する",
       "zh": "示范",
-      "ru": "показывать"
+      "ru": "показывать",
+      "fr": "démontrer"
     },
     "examples": [],
     "meta": {},
@@ -32796,7 +34030,8 @@ const WORDS_NL_B1 = [
       "pt": "a constituição",
       "ja": "憲法",
       "zh": "宪法",
-      "ru": "конституция"
+      "ru": "конституция",
+      "fr": "constitution"
     },
     "examples": [],
     "meta": {},
@@ -32823,7 +34058,8 @@ const WORDS_NL_B1 = [
       "pt": "o lábio",
       "ja": "唇",
       "zh": "嘴唇",
-      "ru": "губа"
+      "ru": "губа",
+      "fr": "lèvre"
     },
     "examples": [],
     "meta": {},
@@ -32850,7 +34086,8 @@ const WORDS_NL_B1 = [
       "pt": "o jato",
       "ja": "ジェット機",
       "zh": "喷气式飞机",
-      "ru": "реактивный самолёт"
+      "ru": "реактивный самолёт",
+      "fr": "jet"
     },
     "examples": [],
     "meta": {},
@@ -32877,7 +34114,8 @@ const WORDS_NL_B1 = [
       "pt": "pousar",
       "ja": "置く",
       "zh": "放下",
-      "ru": "ставить"
+      "ru": "ставить",
+      "fr": "déposer"
     },
     "examples": [],
     "meta": {},
@@ -32904,7 +34142,8 @@ const WORDS_NL_B1 = [
       "pt": "a muralha",
       "ja": "城壁",
       "zh": "城墙",
-      "ru": "вал"
+      "ru": "вал",
+      "fr": "rempart"
     },
     "examples": [],
     "meta": {},
@@ -32931,7 +34170,8 @@ const WORDS_NL_B1 = [
       "pt": "britânico",
       "ja": "英国の",
       "zh": "英国的",
-      "ru": "британский"
+      "ru": "британский",
+      "fr": "britannique"
     },
     "examples": [],
     "meta": {}
@@ -32955,7 +34195,8 @@ const WORDS_NL_B1 = [
       "pt": "o beliche",
       "ja": "二段ベッド",
       "zh": "铺位",
-      "ru": "нары"
+      "ru": "нары",
+      "fr": "lit superposé"
     },
     "examples": [],
     "meta": {},
@@ -32982,7 +34223,8 @@ const WORDS_NL_B1 = [
       "pt": "realista",
       "ja": "現実的な",
       "zh": "现实的",
-      "ru": "реалистичный"
+      "ru": "реалистичный",
+      "fr": "réaliste"
     },
     "examples": [],
     "meta": {}
@@ -33006,7 +34248,8 @@ const WORDS_NL_B1 = [
       "pt": "o semestre",
       "ja": "学期",
       "zh": "学期",
-      "ru": "семестр"
+      "ru": "семестр",
+      "fr": "semestre"
     },
     "examples": [],
     "meta": {},
@@ -33033,7 +34276,8 @@ const WORDS_NL_B1 = [
       "pt": "a jangada",
       "ja": "いかだ",
       "zh": "木筏",
-      "ru": "плот"
+      "ru": "плот",
+      "fr": "radeau"
     },
     "examples": [],
     "meta": {},
@@ -33060,7 +34304,8 @@ const WORDS_NL_B1 = [
       "pt": "fluente",
       "ja": "流暢な",
       "zh": "流利的",
-      "ru": "беглый"
+      "ru": "беглый",
+      "fr": "courant"
     },
     "examples": [],
     "meta": {}
@@ -33084,7 +34329,8 @@ const WORDS_NL_B1 = [
       "pt": "de lata",
       "ja": "ブリキの",
       "zh": "锡制的",
-      "ru": "жестяной"
+      "ru": "жестяной",
+      "fr": "étain"
     },
     "examples": [],
     "meta": {}
@@ -33109,7 +34355,8 @@ const WORDS_NL_B1 = [
       "pt": "olhar",
       "ja": "見る",
       "zh": "看",
-      "ru": "смотреть"
+      "ru": "смотреть",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {},
@@ -33137,7 +34384,8 @@ const WORDS_NL_B1 = [
       "pt": "o horizonte",
       "ja": "地平線",
       "zh": "地平线",
-      "ru": "горизонт"
+      "ru": "горизонт",
+      "fr": "horizon"
     },
     "examples": [],
     "meta": {},
@@ -33164,7 +34412,8 @@ const WORDS_NL_B1 = [
       "pt": "o inseto",
       "ja": "昆虫",
       "zh": "昆虫",
-      "ru": "насекомое"
+      "ru": "насекомое",
+      "fr": "insecte"
     },
     "examples": [],
     "meta": {},
@@ -33190,7 +34439,8 @@ const WORDS_NL_B1 = [
       "pt": "o estuprador",
       "ja": "強姦犯",
       "zh": "强奸犯",
-      "ru": "насильник"
+      "ru": "насильник",
+      "fr": "violeur"
     },
     "examples": [],
     "meta": {},
@@ -33216,7 +34466,8 @@ const WORDS_NL_B1 = [
       "pt": "o aquecedor",
       "ja": "ウォーマー",
       "zh": "加热器",
-      "ru": "грелка"
+      "ru": "грелка",
+      "fr": "plus chaud"
     },
     "examples": [],
     "meta": {},
@@ -33242,7 +34493,8 @@ const WORDS_NL_B1 = [
       "pt": "esticar",
       "ja": "伸ばす",
       "zh": "伸展",
-      "ru": "растягивать"
+      "ru": "растягивать",
+      "fr": "étirer"
     },
     "examples": [],
     "meta": {},
@@ -33270,7 +34522,8 @@ const WORDS_NL_B1 = [
       "pt": "o cunhado",
       "ja": "義兄弟",
       "zh": "姐夫",
-      "ru": "шурин"
+      "ru": "шурин",
+      "fr": "beau-frère"
     },
     "examples": [],
     "meta": {},
@@ -33296,7 +34549,8 @@ const WORDS_NL_B1 = [
       "pt": "perfurar",
       "ja": "穴を開ける",
       "zh": "钻孔",
-      "ru": "сверлить"
+      "ru": "сверлить",
+      "fr": "perceuse"
     },
     "examples": [],
     "meta": {},
@@ -33324,7 +34578,8 @@ const WORDS_NL_B1 = [
       "pt": "o sushi",
       "ja": "寿司",
       "zh": "寿司",
-      "ru": "суши"
+      "ru": "суши",
+      "fr": "sushi"
     },
     "examples": [],
     "meta": {},
@@ -33351,7 +34606,8 @@ const WORDS_NL_B1 = [
       "pt": "cumprir",
       "ja": "果たす",
       "zh": "履行",
-      "ru": "выполнять"
+      "ru": "выполнять",
+      "fr": "accomplir"
     },
     "examples": [],
     "meta": {},
@@ -33379,7 +34635,8 @@ const WORDS_NL_B1 = [
       "pt": "voltar para casa",
       "ja": "帰宅する",
       "zh": "回家",
-      "ru": "приходить домой"
+      "ru": "приходить домой",
+      "fr": "rentrer"
     },
     "examples": [],
     "meta": {},
@@ -33407,7 +34664,8 @@ const WORDS_NL_B1 = [
       "pt": "nacional",
       "ja": "国家の",
       "zh": "国家的",
-      "ru": "национальный"
+      "ru": "национальный",
+      "fr": "national"
     },
     "examples": [],
     "meta": {}
@@ -33431,7 +34689,8 @@ const WORDS_NL_B1 = [
       "pt": "levantar",
       "ja": "持ち上げる",
       "zh": "举起",
-      "ru": "поднимать"
+      "ru": "поднимать",
+      "fr": "ascenseur"
     },
     "examples": [],
     "meta": {},
@@ -33458,7 +34717,8 @@ const WORDS_NL_B1 = [
       "pt": "o hacker",
       "ja": "ハッカー",
       "zh": "黑客",
-      "ru": "хакер"
+      "ru": "хакер",
+      "fr": "hacker"
     },
     "examples": [],
     "meta": {},
@@ -33484,7 +34744,8 @@ const WORDS_NL_B1 = [
       "pt": "a arca",
       "ja": "箱舟",
       "zh": "方舟",
-      "ru": "ковчег"
+      "ru": "ковчег",
+      "fr": "arche"
     },
     "examples": [],
     "meta": {},
@@ -33511,7 +34772,8 @@ const WORDS_NL_B1 = [
       "pt": "a audição",
       "ja": "聴覚",
       "zh": "听觉",
-      "ru": "слух"
+      "ru": "слух",
+      "fr": "audience"
     },
     "examples": [],
     "meta": {},
@@ -33538,7 +34800,8 @@ const WORDS_NL_B1 = [
       "pt": "o bye",
       "ja": "不戦勝",
       "zh": "轮空",
-      "ru": "бай"
+      "ru": "бай",
+      "fr": "au revoir"
     },
     "examples": [],
     "meta": {},
@@ -33565,7 +34828,8 @@ const WORDS_NL_B1 = [
       "pt": "o amendoim",
       "ja": "ピーナッツ",
       "zh": "花生",
-      "ru": "арахис"
+      "ru": "арахис",
+      "fr": "cacahuète"
     },
     "examples": [],
     "meta": {},
@@ -33592,7 +34856,8 @@ const WORDS_NL_B1 = [
       "pt": "deprimido",
       "ja": "落ち込んだ",
       "zh": "沮丧的",
-      "ru": "подавленный"
+      "ru": "подавленный",
+      "fr": "déprimé"
     },
     "examples": [],
     "meta": {}
@@ -33617,7 +34882,8 @@ const WORDS_NL_B1 = [
       "pt": "o grau",
       "ja": "程度",
       "zh": "程度",
-      "ru": "степень"
+      "ru": "степень",
+      "fr": "degré"
     },
     "examples": [],
     "meta": {},
@@ -33643,7 +34909,8 @@ const WORDS_NL_B1 = [
       "pt": "a transferência",
       "ja": "譲渡",
       "zh": "转让",
-      "ru": "передача"
+      "ru": "передача",
+      "fr": "transfert"
     },
     "examples": [],
     "meta": {},
@@ -33670,7 +34937,8 @@ const WORDS_NL_B1 = [
       "pt": "o coquetel",
       "ja": "カクテル",
       "zh": "鸡尾酒",
-      "ru": "коктейль"
+      "ru": "коктейль",
+      "fr": "cocktail"
     },
     "examples": [],
     "meta": {},
@@ -33696,7 +34964,8 @@ const WORDS_NL_B1 = [
       "pt": "a criatura",
       "ja": "生き物",
       "zh": "生物",
-      "ru": "создание"
+      "ru": "создание",
+      "fr": "créature"
     },
     "examples": [],
     "meta": {},
@@ -33722,7 +34991,8 @@ const WORDS_NL_B1 = [
       "pt": "o napoleão",
       "ja": "ナポレオン金貨",
       "zh": "拿破仑金币",
-      "ru": "наполеон"
+      "ru": "наполеон",
+      "fr": "napoléon"
     },
     "examples": [],
     "meta": {},
@@ -33748,7 +35018,8 @@ const WORDS_NL_B1 = [
       "pt": "o juro",
       "ja": "利子",
       "zh": "利息",
-      "ru": "процент"
+      "ru": "процент",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {},
@@ -33774,7 +35045,8 @@ const WORDS_NL_B1 = [
       "pt": "cometer um crime",
       "ja": "犯罪を犯す",
       "zh": "犯罪",
-      "ru": "совершать преступление"
+      "ru": "совершать преступление",
+      "fr": "commettre un crime"
     },
     "examples": [],
     "meta": {},
@@ -33802,7 +35074,8 @@ const WORDS_NL_B1 = [
       "pt": "pegar carona",
       "ja": "ヒッチハイクする",
       "zh": "搭便车",
-      "ru": "автостоп"
+      "ru": "автостоп",
+      "fr": "auto-stop"
     },
     "examples": [],
     "meta": {},
@@ -33830,7 +35103,8 @@ const WORDS_NL_B1 = [
       "pt": "a perda de memória",
       "ja": "記憶喪失",
       "zh": "记忆丧失",
-      "ru": "потеря памяти"
+      "ru": "потеря памяти",
+      "fr": "perte de mémoire"
     },
     "examples": [],
     "meta": {},
@@ -33857,7 +35131,8 @@ const WORDS_NL_B1 = [
       "pt": "o culpado",
       "ja": "犯人",
       "zh": "罪魁祸首",
-      "ru": "виновник"
+      "ru": "виновник",
+      "fr": "coupable"
     },
     "examples": [],
     "meta": {},
@@ -33885,7 +35160,8 @@ const WORDS_NL_B1 = [
       "pt": "o lado direito",
       "ja": "右側",
       "zh": "右边",
-      "ru": "правая сторона"
+      "ru": "правая сторона",
+      "fr": "côté droit"
     },
     "examples": [],
     "meta": {},
@@ -33912,7 +35188,8 @@ const WORDS_NL_B1 = [
       "pt": "relatar",
       "ja": "報告する",
       "zh": "报告",
-      "ru": "докладывать"
+      "ru": "докладывать",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {},
@@ -33940,7 +35217,8 @@ const WORDS_NL_B1 = [
       "pt": "ofensivo",
       "ja": "侮辱的な",
       "zh": "冒犯的",
-      "ru": "оскорбительный"
+      "ru": "оскорбительный",
+      "fr": "offensant"
     },
     "examples": [],
     "meta": {}
@@ -33965,7 +35243,8 @@ const WORDS_NL_B1 = [
       "pt": "mimado",
       "ja": "甘やかされた",
       "zh": "被宠坏的",
-      "ru": "избалованный"
+      "ru": "избалованный",
+      "fr": "gâté"
     },
     "examples": [],
     "meta": {}
@@ -33990,7 +35269,8 @@ const WORDS_NL_B1 = [
       "pt": "a ajuda",
       "ja": "助け",
       "zh": "帮助",
-      "ru": "помощь"
+      "ru": "помощь",
+      "fr": "aide"
     },
     "examples": [],
     "meta": {},
@@ -34017,7 +35297,8 @@ const WORDS_NL_B1 = [
       "pt": "purificar",
       "ja": "浄化する",
       "zh": "净化",
-      "ru": "очищать"
+      "ru": "очищать",
+      "fr": "purifier"
     },
     "examples": [],
     "meta": {},
@@ -34045,7 +35326,8 @@ const WORDS_NL_B1 = [
       "pt": "o fundo",
       "ja": "基金",
       "zh": "基金",
-      "ru": "фонд"
+      "ru": "фонд",
+      "fr": "fonds"
     },
     "examples": [],
     "meta": {},
@@ -34072,7 +35354,8 @@ const WORDS_NL_B1 = [
       "pt": "pulverizar",
       "ja": "スプレーする",
       "zh": "喷射",
-      "ru": "брызгать"
+      "ru": "брызгать",
+      "fr": "pulvériser"
     },
     "examples": [],
     "meta": {},
@@ -34100,7 +35383,8 @@ const WORDS_NL_B1 = [
       "pt": "azul marinho",
       "ja": "紺色の",
       "zh": "海军蓝",
-      "ru": "темно синий"
+      "ru": "темно синий",
+      "fr": "bleu marine"
     },
     "examples": [],
     "meta": {}
@@ -34125,7 +35409,8 @@ const WORDS_NL_B1 = [
       "pt": "o corte",
       "ja": "切り傷",
       "zh": "伤口",
-      "ru": "порез"
+      "ru": "порез",
+      "fr": "couper"
     },
     "examples": [],
     "meta": {},
@@ -34152,7 +35437,8 @@ const WORDS_NL_B1 = [
       "pt": "a águia",
       "ja": "鷲",
       "zh": "老鹰",
-      "ru": "орёл"
+      "ru": "орёл",
+      "fr": "aigle"
     },
     "examples": [],
     "meta": {},
@@ -34179,7 +35465,8 @@ const WORDS_NL_B1 = [
       "pt": "a sequência",
       "ja": "続編",
       "zh": "续集",
-      "ru": "продолжение"
+      "ru": "продолжение",
+      "fr": "suite"
     },
     "examples": [],
     "meta": {},
@@ -34206,7 +35493,8 @@ const WORDS_NL_B1 = [
       "pt": "o golpe",
       "ja": "一撃",
       "zh": "一击",
-      "ru": "удар"
+      "ru": "удар",
+      "fr": "coup"
     },
     "examples": [],
     "meta": {},
@@ -34233,7 +35521,8 @@ const WORDS_NL_B1 = [
       "pt": "agourento",
       "ja": "不吉な",
       "zh": "不祥的",
-      "ru": "зловещий"
+      "ru": "зловещий",
+      "fr": "sinistre"
     },
     "examples": [],
     "meta": {}
@@ -34258,7 +35547,8 @@ const WORDS_NL_B1 = [
       "pt": "a lareira",
       "ja": "暖炉",
       "zh": "壁炉",
-      "ru": "камин"
+      "ru": "камин",
+      "fr": "cheminée"
     },
     "examples": [],
     "meta": {},
@@ -34285,7 +35575,8 @@ const WORDS_NL_B1 = [
       "pt": "internacional",
       "ja": "国際的な",
       "zh": "国际的",
-      "ru": "международный"
+      "ru": "международный",
+      "fr": "international"
     },
     "examples": [],
     "meta": {}
@@ -34310,7 +35601,8 @@ const WORDS_NL_B1 = [
       "pt": "colher",
       "ja": "摘む",
       "zh": "采摘",
-      "ru": "собирать"
+      "ru": "собирать",
+      "fr": "choix"
     },
     "examples": [],
     "meta": {},
@@ -34338,7 +35630,8 @@ const WORDS_NL_B1 = [
       "pt": "torcido",
       "ja": "ねじれた",
       "zh": "扭曲的",
-      "ru": "скрученный"
+      "ru": "скрученный",
+      "fr": "tordu"
     },
     "examples": [],
     "meta": {}
@@ -34363,7 +35656,8 @@ const WORDS_NL_B1 = [
       "pt": "a origem",
       "ja": "起源",
       "zh": "起源",
-      "ru": "происхождение"
+      "ru": "происхождение",
+      "fr": "origine"
     },
     "examples": [],
     "meta": {},
@@ -34390,7 +35684,8 @@ const WORDS_NL_B1 = [
       "pt": "indefeso",
       "ja": "無力な",
       "zh": "无助的",
-      "ru": "беспомощный"
+      "ru": "беспомощный",
+      "fr": "impuissant"
     },
     "examples": [],
     "meta": {}
@@ -34415,7 +35710,8 @@ const WORDS_NL_B1 = [
       "pt": "a trama",
       "ja": "横糸",
       "zh": "纬线",
-      "ru": "уток"
+      "ru": "уток",
+      "fr": "trame"
     },
     "examples": [],
     "meta": {},
@@ -34442,7 +35738,8 @@ const WORDS_NL_B1 = [
       "pt": "o noivo",
       "ja": "婚約者",
       "zh": "未婚夫",
-      "ru": "жених"
+      "ru": "жених",
+      "fr": "fiancé"
     },
     "examples": [],
     "meta": {},
@@ -34469,7 +35766,8 @@ const WORDS_NL_B1 = [
       "pt": "o chumbo",
       "ja": "鉛",
       "zh": "铅",
-      "ru": "свинец"
+      "ru": "свинец",
+      "fr": "diriger"
     },
     "examples": [],
     "meta": {},
@@ -34496,7 +35794,8 @@ const WORDS_NL_B1 = [
       "pt": "defumado",
       "ja": "燻製",
       "zh": "熏制",
-      "ru": "копчёный"
+      "ru": "копчёный",
+      "fr": "fumé"
     },
     "examples": [],
     "meta": {}
@@ -34521,7 +35820,8 @@ const WORDS_NL_B1 = [
       "pt": "espiritual",
       "ja": "精神的な",
       "zh": "精神的",
-      "ru": "духовный"
+      "ru": "духовный",
+      "fr": "spirituel"
     },
     "examples": [],
     "meta": {}
@@ -34546,7 +35846,8 @@ const WORDS_NL_B1 = [
       "pt": "a bainha",
       "ja": "裾",
       "zh": "褶边",
-      "ru": "подол"
+      "ru": "подол",
+      "fr": "ourlet"
     },
     "examples": [],
     "meta": {},
@@ -34573,7 +35874,8 @@ const WORDS_NL_B1 = [
       "pt": "o estádio",
       "ja": "スタジアム",
       "zh": "体育场",
-      "ru": "стадион"
+      "ru": "стадион",
+      "fr": "stade"
     },
     "examples": [],
     "meta": {},
@@ -34600,7 +35902,8 @@ const WORDS_NL_B1 = [
       "pt": "o burburinho",
       "ja": "話題",
       "zh": "议论",
-      "ru": "шумиха"
+      "ru": "шумиха",
+      "fr": "bourdonnement"
     },
     "examples": [],
     "meta": {},
@@ -34627,7 +35930,8 @@ const WORDS_NL_B1 = [
       "pt": "o mestre",
       "ja": "マスター",
       "zh": "大师",
-      "ru": "мастер"
+      "ru": "мастер",
+      "fr": "maître"
     },
     "examples": [],
     "meta": {},
@@ -34654,7 +35958,8 @@ const WORDS_NL_B1 = [
       "pt": "hilário",
       "ja": "陽気な",
       "zh": "搞笑的",
-      "ru": "уморительный"
+      "ru": "уморительный",
+      "fr": "hilarant"
     },
     "examples": [],
     "meta": {}
@@ -34678,7 +35983,8 @@ const WORDS_NL_B1 = [
       "pt": "caçar ratos",
       "ja": "ネズミを捕る",
       "zh": "捕鼠",
-      "ru": "мышковать"
+      "ru": "мышковать",
+      "fr": "cliquer"
     },
     "examples": [],
     "meta": {},
@@ -34706,7 +36012,8 @@ const WORDS_NL_B1 = [
       "pt": "o humor",
       "ja": "気分",
       "zh": "心情",
-      "ru": "настроение"
+      "ru": "настроение",
+      "fr": "humeur"
     },
     "examples": [],
     "meta": {},
@@ -34733,7 +36040,8 @@ const WORDS_NL_B1 = [
       "pt": "equipar",
       "ja": "装備する",
       "zh": "装备",
-      "ru": "снаряжать"
+      "ru": "снаряжать",
+      "fr": "équiper"
     },
     "examples": [],
     "meta": {},
@@ -34761,7 +36069,8 @@ const WORDS_NL_B1 = [
       "pt": "solicitar",
       "ja": "要請する",
       "zh": "请求",
-      "ru": "просить"
+      "ru": "просить",
+      "fr": "demander"
     },
     "examples": [],
     "meta": {},
@@ -34789,7 +36098,8 @@ const WORDS_NL_B1 = [
       "pt": "a guarda costeira",
       "ja": "沿岸警備隊",
       "zh": "海岸警卫队",
-      "ru": "береговая охрана"
+      "ru": "береговая охрана",
+      "fr": "garde-côtes"
     },
     "examples": [],
     "meta": {},
@@ -34815,7 +36125,8 @@ const WORDS_NL_B1 = [
       "pt": "humilhar",
       "ja": "屈辱を与える",
       "zh": "羞辱",
-      "ru": "унижать"
+      "ru": "унижать",
+      "fr": "humilier"
     },
     "examples": [],
     "meta": {},
@@ -34842,7 +36153,8 @@ const WORDS_NL_B1 = [
       "pt": "o aliado",
       "ja": "同盟国",
       "zh": "盟友",
-      "ru": "союзник"
+      "ru": "союзник",
+      "fr": "allié"
     },
     "examples": [],
     "meta": {},
@@ -34869,7 +36181,8 @@ const WORDS_NL_B1 = [
       "pt": "o método",
       "ja": "方法",
       "zh": "工作方法",
-      "ru": "методика"
+      "ru": "методика",
+      "fr": "méthode"
     },
     "examples": [],
     "meta": {},
@@ -34896,7 +36209,8 @@ const WORDS_NL_B1 = [
       "pt": "a faixa",
       "ja": "ストライプ",
       "zh": "条纹",
-      "ru": "полоса"
+      "ru": "полоса",
+      "fr": "rayure"
     },
     "examples": [],
     "meta": {},
@@ -34923,7 +36237,8 @@ const WORDS_NL_B1 = [
       "pt": "a revista",
       "ja": "雑誌",
       "zh": "杂志",
-      "ru": "журнал"
+      "ru": "журнал",
+      "fr": "magazine"
     },
     "examples": [],
     "meta": {},
@@ -34950,7 +36265,8 @@ const WORDS_NL_B1 = [
       "pt": "o espaguete",
       "ja": "スパゲッティ",
       "zh": "意大利面",
-      "ru": "спагетти"
+      "ru": "спагетти",
+      "fr": "spaghetti"
     },
     "examples": [],
     "meta": {},
@@ -34977,7 +36293,8 @@ const WORDS_NL_B1 = [
       "pt": "sem importância",
       "ja": "重要でない",
       "zh": "不重要的",
-      "ru": "неважный"
+      "ru": "неважный",
+      "fr": "insignifiant"
     },
     "examples": [],
     "meta": {}
@@ -35002,7 +36319,8 @@ const WORDS_NL_B1 = [
       "pt": "o meio",
       "ja": "メディア",
       "zh": "媒体",
-      "ru": "средство"
+      "ru": "средство",
+      "fr": "moyen"
     },
     "examples": [],
     "meta": {},
@@ -35028,7 +36346,8 @@ const WORDS_NL_B1 = [
       "pt": "médio",
       "ja": "中間の",
       "zh": "中等的",
-      "ru": "средний"
+      "ru": "средний",
+      "fr": "médium"
     },
     "examples": [],
     "meta": {}
@@ -35053,7 +36372,8 @@ const WORDS_NL_B1 = [
       "pt": "o mecânico",
       "ja": "整備士",
       "zh": "技工",
-      "ru": "механик"
+      "ru": "механик",
+      "fr": "mécanicien"
     },
     "examples": [],
     "meta": {},
@@ -35080,7 +36400,8 @@ const WORDS_NL_B1 = [
       "pt": "o taco",
       "ja": "タコス",
       "zh": "炸玉米饼",
-      "ru": "тако"
+      "ru": "тако",
+      "fr": "taco"
     },
     "examples": [],
     "meta": {},
@@ -35107,7 +36428,8 @@ const WORDS_NL_B1 = [
       "pt": "fortalecer",
       "ja": "強化する",
       "zh": "加强",
-      "ru": "укреплять"
+      "ru": "укреплять",
+      "fr": "renforcer"
     },
     "examples": [],
     "meta": {},
@@ -35135,7 +36457,8 @@ const WORDS_NL_B1 = [
       "pt": "a atualização",
       "ja": "更新",
       "zh": "更新",
-      "ru": "обновление"
+      "ru": "обновление",
+      "fr": "mettre à jour"
     },
     "examples": [],
     "meta": {},
@@ -35162,7 +36485,8 @@ const WORDS_NL_B1 = [
       "pt": "a aba",
       "ja": "弁",
       "zh": "阀门",
-      "ru": "клапан"
+      "ru": "клапан",
+      "fr": "rabat"
     },
     "examples": [],
     "meta": {},
@@ -35188,7 +36512,8 @@ const WORDS_NL_B1 = [
       "pt": "o contador",
       "ja": "会計士",
       "zh": "会计师",
-      "ru": "бухгалтер"
+      "ru": "бухгалтер",
+      "fr": "comptable"
     },
     "examples": [],
     "meta": {},
@@ -35215,7 +36540,8 @@ const WORDS_NL_B1 = [
       "pt": "a hora de dormir",
       "ja": "就寝時間",
       "zh": "睡觉时间",
-      "ru": "время сна"
+      "ru": "время сна",
+      "fr": "coucher"
     },
     "examples": [],
     "meta": {},
@@ -35242,7 +36568,8 @@ const WORDS_NL_B1 = [
       "pt": "suspeitar",
       "ja": "疑う",
       "zh": "怀疑",
-      "ru": "подозревать"
+      "ru": "подозревать",
+      "fr": "suspect"
     },
     "examples": [],
     "meta": {},
@@ -35270,7 +36597,8 @@ const WORDS_NL_B1 = [
       "pt": "a bobina",
       "ja": "スプール",
       "zh": "线轴",
-      "ru": "катушка"
+      "ru": "катушка",
+      "fr": "bobine"
     },
     "examples": [],
     "meta": {},
@@ -35297,7 +36625,8 @@ const WORDS_NL_B1 = [
       "pt": "entregar",
       "ja": "配達する",
       "zh": "交付",
-      "ru": "доставлять"
+      "ru": "доставлять",
+      "fr": "livrer"
     },
     "examples": [],
     "meta": {},
@@ -35325,7 +36654,8 @@ const WORDS_NL_B1 = [
       "pt": "incomum",
       "ja": "珍しい",
       "zh": "不寻常的",
-      "ru": "необычный"
+      "ru": "необычный",
+      "fr": "inhabituel"
     },
     "examples": [],
     "meta": {}
@@ -35349,7 +36679,8 @@ const WORDS_NL_B1 = [
       "pt": "sacrificar",
       "ja": "犠牲にする",
       "zh": "牺牲",
-      "ru": "жертвовать"
+      "ru": "жертвовать",
+      "fr": "sacrifice"
     },
     "examples": [],
     "meta": {},
@@ -35377,7 +36708,8 @@ const WORDS_NL_B1 = [
       "pt": "intervir",
       "ja": "介入する",
       "zh": "干预",
-      "ru": "вмешиваться"
+      "ru": "вмешиваться",
+      "fr": "intervenir"
     },
     "examples": [],
     "meta": {},
@@ -35405,7 +36737,8 @@ const WORDS_NL_B1 = [
       "pt": "ficar longe",
       "ja": "遠ざかる",
       "zh": "远离",
-      "ru": "держаться подальше"
+      "ru": "держаться подальше",
+      "fr": "rester à l'écart"
     },
     "examples": [],
     "meta": {},
@@ -35433,7 +36766,8 @@ const WORDS_NL_B1 = [
       "pt": "o estalo",
       "ja": "パチンという音",
       "zh": "咔嗒声",
-      "ru": "щелчок"
+      "ru": "щелчок",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {},
@@ -35460,7 +36794,8 @@ const WORDS_NL_B1 = [
       "pt": "a pessoa de contato",
       "ja": "連絡担当者",
       "zh": "联系人",
-      "ru": "контактное лицо"
+      "ru": "контактное лицо",
+      "fr": "personne contact"
     },
     "examples": [],
     "meta": {},
@@ -35487,7 +36822,8 @@ const WORDS_NL_B1 = [
       "pt": "o ás",
       "ja": "エース",
       "zh": "专家",
-      "ru": "ас"
+      "ru": "ас",
+      "fr": "as"
     },
     "examples": [],
     "meta": {},
@@ -35514,7 +36850,8 @@ const WORDS_NL_B1 = [
       "pt": "o gole",
       "ja": "一口",
       "zh": "一大口",
-      "ru": "глоток"
+      "ru": "глоток",
+      "fr": "avaler"
     },
     "examples": [],
     "meta": {},
@@ -35541,7 +36878,8 @@ const WORDS_NL_B1 = [
       "pt": "o crédito",
       "ja": "クレジット",
       "zh": "信用",
-      "ru": "кредит"
+      "ru": "кредит",
+      "fr": "crédit"
     },
     "examples": [],
     "meta": {},
@@ -35567,7 +36905,8 @@ const WORDS_NL_B1 = [
       "pt": "reinar",
       "ja": "支配する",
       "zh": "统治",
-      "ru": "править"
+      "ru": "править",
+      "fr": "règle"
     },
     "examples": [],
     "meta": {},
@@ -35594,7 +36933,8 @@ const WORDS_NL_B1 = [
       "pt": "a ganância",
       "ja": "貪欲",
       "zh": "贪婪",
-      "ru": "жадность"
+      "ru": "жадность",
+      "fr": "cupidité"
     },
     "examples": [],
     "meta": {},
@@ -35621,7 +36961,8 @@ const WORDS_NL_B1 = [
       "pt": "desligar",
       "ja": "消す",
       "zh": "关闭",
-      "ru": "выключать"
+      "ru": "выключать",
+      "fr": "éteindre"
     },
     "examples": [],
     "meta": {},
@@ -35649,7 +36990,8 @@ const WORDS_NL_B1 = [
       "pt": "parcial",
       "ja": "部分的な",
       "zh": "部分的",
-      "ru": "частичный"
+      "ru": "частичный",
+      "fr": "partiel"
     },
     "examples": [],
     "meta": {}
@@ -35674,7 +37016,8 @@ const WORDS_NL_B1 = [
       "pt": "lindo",
       "ja": "美しい",
       "zh": "美丽的",
-      "ru": "прекрасный"
+      "ru": "прекрасный",
+      "fr": "beau"
     },
     "examples": [],
     "meta": {}
@@ -35699,7 +37042,8 @@ const WORDS_NL_B1 = [
       "pt": "apresentar",
       "ja": "発表する",
       "zh": "展示",
-      "ru": "представлять"
+      "ru": "представлять",
+      "fr": "cadeau"
     },
     "examples": [],
     "meta": {},
@@ -35727,7 +37071,8 @@ const WORDS_NL_B1 = [
       "pt": "disfarçar-se",
       "ja": "着替える",
       "zh": "换衣服",
-      "ru": "переодеваться"
+      "ru": "переодеваться",
+      "fr": "s'habiller"
     },
     "examples": [],
     "meta": {},
@@ -35755,7 +37100,8 @@ const WORDS_NL_B1 = [
       "pt": "o passageiro",
       "ja": "乗客",
       "zh": "乘客",
-      "ru": "пассажир"
+      "ru": "пассажир",
+      "fr": "passager"
     },
     "examples": [],
     "meta": {},
@@ -35782,7 +37128,8 @@ const WORDS_NL_B1 = [
       "pt": "o gole",
       "ja": "飲み込み",
       "zh": "吞咽",
-      "ru": "глоток"
+      "ru": "глоток",
+      "fr": "avaler"
     },
     "examples": [],
     "meta": {},
@@ -35808,7 +37155,8 @@ const WORDS_NL_B1 = [
       "pt": "o laser",
       "ja": "レーザー",
       "zh": "激光",
-      "ru": "лазер"
+      "ru": "лазер",
+      "fr": "laser"
     },
     "examples": [],
     "meta": {},
@@ -35834,7 +37182,8 @@ const WORDS_NL_B1 = [
       "pt": "o tapa",
       "ja": "平手打ち",
       "zh": "拍打",
-      "ru": "шлепок"
+      "ru": "шлепок",
+      "fr": "gifle"
     },
     "examples": [],
     "meta": {},
@@ -35860,7 +37209,8 @@ const WORDS_NL_B1 = [
       "pt": "o mirante",
       "ja": "見張り台",
       "zh": "瞭望台",
-      "ru": "смотровая площадка"
+      "ru": "смотровая площадка",
+      "fr": "guetteur"
     },
     "examples": [],
     "meta": {},
@@ -35887,7 +37237,8 @@ const WORDS_NL_B1 = [
       "pt": "a bagunça",
       "ja": "散らかったもの",
       "zh": "混乱",
-      "ru": "беспорядок"
+      "ru": "беспорядок",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {},
@@ -35913,7 +37264,8 @@ const WORDS_NL_B1 = [
       "pt": "o arrependimento",
       "ja": "後悔",
       "zh": "悔恨",
-      "ru": "раскаяние"
+      "ru": "раскаяние",
+      "fr": "regret"
     },
     "examples": [],
     "meta": {},
@@ -35940,7 +37292,8 @@ const WORDS_NL_B1 = [
       "pt": "a banana",
       "ja": "バナナ",
       "zh": "香蕉",
-      "ru": "банан"
+      "ru": "банан",
+      "fr": "banane"
     },
     "examples": [],
     "meta": {},
@@ -35967,7 +37320,8 @@ const WORDS_NL_B1 = [
       "pt": "o bombeiro",
       "ja": "消防士",
       "zh": "消防员",
-      "ru": "пожарный"
+      "ru": "пожарный",
+      "fr": "pompier"
     },
     "examples": [],
     "meta": {},
@@ -35993,7 +37347,8 @@ const WORDS_NL_B1 = [
       "pt": "o regimento",
       "ja": "連隊",
       "zh": "团",
-      "ru": "полк"
+      "ru": "полк",
+      "fr": "régiment"
     },
     "examples": [],
     "meta": {},
@@ -36019,7 +37374,8 @@ const WORDS_NL_B1 = [
       "pt": "coberto",
       "ja": "覆われた",
       "zh": "覆盖的",
-      "ru": "покрытый"
+      "ru": "покрытый",
+      "fr": "couvert"
     },
     "examples": [],
     "meta": {}
@@ -36043,7 +37399,8 @@ const WORDS_NL_B1 = [
       "pt": "o chamado",
       "ja": "いわゆる",
       "zh": "所谓的",
-      "ru": "так называемый"
+      "ru": "так называемый",
+      "fr": "soi-disant"
     },
     "examples": [],
     "meta": {}
@@ -36068,7 +37425,8 @@ const WORDS_NL_B1 = [
       "pt": "enviar",
       "ja": "送る",
       "zh": "发送",
-      "ru": "отправлять"
+      "ru": "отправлять",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {},
@@ -36095,7 +37453,8 @@ const WORDS_NL_B1 = [
       "pt": "bombear",
       "ja": "ポンプで送る",
       "zh": "抽水",
-      "ru": "качать"
+      "ru": "качать",
+      "fr": "pomper"
     },
     "examples": [],
     "meta": {},
@@ -36122,7 +37481,8 @@ const WORDS_NL_B1 = [
       "pt": "a linha de chegada",
       "ja": "ゴールライン",
       "zh": "终点线",
-      "ru": "финишная черта"
+      "ru": "финишная черта",
+      "fr": "ligne d'arrivée"
     },
     "examples": [],
     "meta": {},
@@ -36149,7 +37509,8 @@ const WORDS_NL_B1 = [
       "pt": "a manteiga de amendoim",
       "ja": "ピーナッツバター",
       "zh": "花生酱",
-      "ru": "арахисовое масло"
+      "ru": "арахисовое масло",
+      "fr": "beurre de cacahuète"
     },
     "examples": [],
     "meta": {},
@@ -36175,7 +37536,8 @@ const WORDS_NL_B1 = [
       "pt": "vomitar",
       "ja": "吐く",
       "zh": "呕吐",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "vomir"
     },
     "examples": [],
     "meta": {},
@@ -36202,7 +37564,8 @@ const WORDS_NL_B1 = [
       "pt": "envenenar",
       "ja": "毒殺する",
       "zh": "毒害",
-      "ru": "отравлять"
+      "ru": "отравлять",
+      "fr": "empoisonner"
     },
     "examples": [],
     "meta": {},
@@ -36229,7 +37592,8 @@ const WORDS_NL_B1 = [
       "pt": "o tornado",
       "ja": "竜巻",
       "zh": "龙卷风",
-      "ru": "торнадо"
+      "ru": "торнадо",
+      "fr": "tornade"
     },
     "examples": [],
     "meta": {},
@@ -36255,7 +37619,8 @@ const WORDS_NL_B1 = [
       "pt": "aterrorizante",
       "ja": "恐ろしい",
       "zh": "吓人的",
-      "ru": "ужасающий"
+      "ru": "ужасающий",
+      "fr": "terrifiant"
     },
     "examples": [],
     "meta": {}
@@ -36279,7 +37644,8 @@ const WORDS_NL_B1 = [
       "pt": "acabar",
       "ja": "結局～になる",
       "zh": "最终到达",
-      "ru": "оказаться"
+      "ru": "оказаться",
+      "fr": "finir"
     },
     "examples": [],
     "meta": {},
@@ -36307,7 +37673,8 @@ const WORDS_NL_B1 = [
       "pt": "o banco traseiro",
       "ja": "後部座席",
       "zh": "后座",
-      "ru": "заднее сиденье"
+      "ru": "заднее сиденье",
+      "fr": "siège arrière"
     },
     "examples": [],
     "meta": {},
@@ -36333,7 +37700,8 @@ const WORDS_NL_B1 = [
       "pt": "a verga",
       "ja": "ヤード",
       "zh": "帆桁",
-      "ru": "рея"
+      "ru": "рея",
+      "fr": "vergue"
     },
     "examples": [],
     "meta": {},
@@ -36360,7 +37728,8 @@ const WORDS_NL_B1 = [
       "pt": "moderno",
       "ja": "現代の",
       "zh": "现代的",
-      "ru": "современный"
+      "ru": "современный",
+      "fr": "moderne"
     },
     "examples": [],
     "meta": {}
@@ -36385,7 +37754,8 @@ const WORDS_NL_B1 = [
       "pt": "provir",
       "ja": "由来する",
       "zh": "源于",
-      "ru": "происходить"
+      "ru": "происходить",
+      "fr": "provenir"
     },
     "examples": [],
     "meta": {},
@@ -36413,7 +37783,8 @@ const WORDS_NL_B1 = [
       "pt": "a tecla",
       "ja": "鍵盤",
       "zh": "琴键",
-      "ru": "клавиша"
+      "ru": "клавиша",
+      "fr": "clé"
     },
     "examples": [],
     "meta": {},
@@ -36440,7 +37811,8 @@ const WORDS_NL_B1 = [
       "pt": "o raio-x",
       "ja": "レントゲン写真",
       "zh": "X光片",
-      "ru": "рентгеновский снимок"
+      "ru": "рентгеновский снимок",
+      "fr": "radiographie"
     },
     "examples": [],
     "meta": {},
@@ -36467,7 +37839,8 @@ const WORDS_NL_B1 = [
       "pt": "o lilás",
       "ja": "ライラック色",
       "zh": "淡紫色",
-      "ru": "сиреневый цвет"
+      "ru": "сиреневый цвет",
+      "fr": "lilas"
     },
     "examples": [],
     "meta": {},
@@ -36494,7 +37867,8 @@ const WORDS_NL_B1 = [
       "pt": "lilás",
       "ja": "ライラック色の",
       "zh": "淡紫色的",
-      "ru": "сиреневый"
+      "ru": "сиреневый",
+      "fr": "lilas"
     },
     "examples": [],
     "meta": {}
@@ -36519,7 +37893,8 @@ const WORDS_NL_B1 = [
       "pt": "ensaiar",
       "ja": "リハーサルする",
       "zh": "排练",
-      "ru": "репетировать"
+      "ru": "репетировать",
+      "fr": "répéter"
     },
     "examples": [],
     "meta": {},
@@ -36547,7 +37922,8 @@ const WORDS_NL_B1 = [
       "pt": "ampliar",
       "ja": "拡大する",
       "zh": "放大",
-      "ru": "увеличивать"
+      "ru": "увеличивать",
+      "fr": "agrandir"
     },
     "examples": [],
     "meta": {},
@@ -36575,7 +37951,8 @@ const WORDS_NL_B1 = [
       "pt": "mundial",
       "ja": "世界的な",
       "zh": "全世界的",
-      "ru": "всемирный"
+      "ru": "всемирный",
+      "fr": "mondial"
     },
     "examples": [],
     "meta": {}
@@ -36600,7 +37977,8 @@ const WORDS_NL_B1 = [
       "pt": "invernal",
       "ja": "冬の",
       "zh": "冬天的",
-      "ru": "зимний"
+      "ru": "зимний",
+      "fr": "hivernal"
     },
     "examples": [],
     "meta": {}
@@ -36625,7 +38003,8 @@ const WORDS_NL_B1 = [
       "pt": "o poder",
       "ja": "力",
       "zh": "力量",
-      "ru": "сила"
+      "ru": "сила",
+      "fr": "pouvoir"
     },
     "examples": [],
     "meta": {},
@@ -36652,7 +38031,8 @@ const WORDS_NL_B1 = [
       "pt": "o carteiro",
       "ja": "郵便配達員",
       "zh": "邮递员",
-      "ru": "почтальон"
+      "ru": "почтальон",
+      "fr": "facteur"
     },
     "examples": [],
     "meta": {},
@@ -36679,7 +38059,8 @@ const WORDS_NL_B1 = [
       "pt": "a varanda",
       "ja": "ベランダ",
       "zh": "阳台",
-      "ru": "веранда"
+      "ru": "веранда",
+      "fr": "véranda"
     },
     "examples": [],
     "meta": {},
@@ -36706,7 +38087,8 @@ const WORDS_NL_B1 = [
       "pt": "surfar",
       "ja": "サーフィンする",
       "zh": "冲浪",
-      "ru": "заниматься серфингом"
+      "ru": "заниматься серфингом",
+      "fr": "surf"
     },
     "examples": [],
     "meta": {},
@@ -36734,7 +38116,8 @@ const WORDS_NL_B1 = [
       "pt": "o servidor",
       "ja": "サーバー",
       "zh": "服务器",
-      "ru": "сервер"
+      "ru": "сервер",
+      "fr": "serveur"
     },
     "examples": [],
     "meta": {},
@@ -36761,7 +38144,8 @@ const WORDS_NL_B1 = [
       "pt": "aquecer",
       "ja": "温める",
       "zh": "加热",
-      "ru": "разогревать"
+      "ru": "разогревать",
+      "fr": "échauffement"
     },
     "examples": [],
     "meta": {},
@@ -36788,7 +38172,8 @@ const WORDS_NL_B1 = [
       "pt": "a cofragem",
       "ja": "型枠",
       "zh": "模板",
-      "ru": "опалубка"
+      "ru": "опалубка",
+      "fr": "coffrage"
     },
     "examples": [],
     "meta": {},
@@ -36815,7 +38200,8 @@ const WORDS_NL_B1 = [
       "pt": "formal",
       "ja": "正式な",
       "zh": "正式的",
-      "ru": "формальный"
+      "ru": "формальный",
+      "fr": "formel"
     },
     "examples": [],
     "meta": {}
@@ -36840,7 +38226,8 @@ const WORDS_NL_B1 = [
       "pt": "publicar",
       "ja": "出版する",
       "zh": "出版",
-      "ru": "публиковать"
+      "ru": "публиковать",
+      "fr": "publier"
     },
     "examples": [],
     "meta": {},
@@ -36868,7 +38255,8 @@ const WORDS_NL_B1 = [
       "pt": "estourar",
       "ja": "破裂する",
       "zh": "爆裂",
-      "ru": "лопаться"
+      "ru": "лопаться",
+      "fr": "éclater"
     },
     "examples": [],
     "meta": {},
@@ -36896,7 +38284,8 @@ const WORDS_NL_B1 = [
       "pt": "andando",
       "ja": "歩いている",
       "zh": "步行的",
-      "ru": "идущий"
+      "ru": "идущий",
+      "fr": "marche"
     },
     "examples": [],
     "meta": {}
@@ -36921,7 +38310,8 @@ const WORDS_NL_B1 = [
       "pt": "os óculos de sol",
       "ja": "サングラス",
       "zh": "太阳镜",
-      "ru": "солнцезащитные очки"
+      "ru": "солнцезащитные очки",
+      "fr": "lunettes de soleil"
     },
     "examples": [],
     "meta": {},
@@ -36948,7 +38338,8 @@ const WORDS_NL_B1 = [
       "pt": "a pátria",
       "ja": "祖国",
       "zh": "祖国",
-      "ru": "отечество"
+      "ru": "отечество",
+      "fr": "patrie"
     },
     "examples": [],
     "meta": {},
@@ -36975,7 +38366,8 @@ const WORDS_NL_B1 = [
       "pt": "a AIDS",
       "ja": "エイズ",
       "zh": "艾滋病",
-      "ru": "СПИД"
+      "ru": "СПИД",
+      "fr": "SIDA"
     },
     "examples": [],
     "meta": {},
@@ -37002,7 +38394,8 @@ const WORDS_NL_B1 = [
       "pt": "chantagear",
       "ja": "恐喝する",
       "zh": "勒索",
-      "ru": "шантажировать"
+      "ru": "шантажировать",
+      "fr": "chantage"
     },
     "examples": [],
     "meta": {},
@@ -37030,7 +38423,8 @@ const WORDS_NL_B1 = [
       "pt": "o concreto",
       "ja": "コンクリート",
       "zh": "混凝土",
-      "ru": "бетон"
+      "ru": "бетон",
+      "fr": "béton"
     },
     "examples": [],
     "meta": {},
@@ -37057,7 +38451,8 @@ const WORDS_NL_B1 = [
       "pt": "o representante",
       "ja": "代表者",
       "zh": "代表",
-      "ru": "представитель"
+      "ru": "представитель",
+      "fr": "représentant"
     },
     "examples": [],
     "meta": {},
@@ -37084,7 +38479,8 @@ const WORDS_NL_B1 = [
       "pt": "o território",
       "ja": "領土",
       "zh": "领土",
-      "ru": "территория"
+      "ru": "территория",
+      "fr": "territoire"
     },
     "examples": [],
     "meta": {},
@@ -37110,7 +38506,8 @@ const WORDS_NL_B1 = [
       "pt": "impedir",
       "ja": "阻止する",
       "zh": "阻止",
-      "ru": "удерживать"
+      "ru": "удерживать",
+      "fr": "retenir"
     },
     "examples": [],
     "meta": {},
@@ -37137,7 +38534,8 @@ const WORDS_NL_B1 = [
       "pt": "o viciado",
       "ja": "中毒者",
       "zh": "成瘾者",
-      "ru": "зависимый"
+      "ru": "зависимый",
+      "fr": "accro"
     },
     "examples": [],
     "meta": {},
@@ -37164,7 +38562,8 @@ const WORDS_NL_B1 = [
       "pt": "covarde",
       "ja": "臆病な",
       "zh": "懦弱的",
-      "ru": "трусливый"
+      "ru": "трусливый",
+      "fr": "lâche"
     },
     "examples": [],
     "meta": {}
@@ -37188,7 +38587,8 @@ const WORDS_NL_B1 = [
       "pt": "o newton",
       "ja": "ニュートン",
       "zh": "牛顿",
-      "ru": "ньютон"
+      "ru": "ньютон",
+      "fr": "newton"
     },
     "examples": [],
     "meta": {},
@@ -37215,7 +38615,8 @@ const WORDS_NL_B1 = [
       "pt": "ausente",
       "ja": "欠席の",
       "zh": "缺席的",
-      "ru": "отсутствующий"
+      "ru": "отсутствующий",
+      "fr": "absent"
     },
     "examples": [],
     "meta": {}
@@ -37239,7 +38640,8 @@ const WORDS_NL_B1 = [
       "pt": "cúmplice",
       "ja": "共犯の",
       "zh": "同谋的",
-      "ru": "соучастный"
+      "ru": "соучастный",
+      "fr": "complice"
     },
     "examples": [],
     "meta": {}
@@ -37264,7 +38666,8 @@ const WORDS_NL_B1 = [
       "pt": "assustador",
       "ja": "恐ろしい",
       "zh": "令人恐惧的",
-      "ru": "пугающий"
+      "ru": "пугающий",
+      "fr": "effrayant"
     },
     "examples": [],
     "meta": {}
@@ -37289,7 +38692,8 @@ const WORDS_NL_B1 = [
       "pt": "censurar",
       "ja": "非難する",
       "zh": "指责",
-      "ru": "упрекать"
+      "ru": "упрекать",
+      "fr": "reproche"
     },
     "examples": [],
     "meta": {},
@@ -37317,7 +38721,8 @@ const WORDS_NL_B1 = [
       "pt": "valioso",
       "ja": "貴重な",
       "zh": "珍贵的",
-      "ru": "ценный"
+      "ru": "ценный",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {}
@@ -37341,7 +38746,8 @@ const WORDS_NL_B1 = [
       "pt": "a dinamite",
       "ja": "ダイナマイト",
       "zh": "炸药",
-      "ru": "динамит"
+      "ru": "динамит",
+      "fr": "dynamite"
     },
     "examples": [],
     "meta": {},
@@ -37368,7 +38774,8 @@ const WORDS_NL_B1 = [
       "pt": "desembalar",
       "ja": "開梱する",
       "zh": "拆开",
-      "ru": "распаковывать"
+      "ru": "распаковывать",
+      "fr": "déballer"
     },
     "examples": [],
     "meta": {},
@@ -37396,7 +38803,8 @@ const WORDS_NL_B1 = [
       "pt": "perturbador",
       "ja": "不安にさせる",
       "zh": "令人不安的",
-      "ru": "тревожный"
+      "ru": "тревожный",
+      "fr": "troublant"
     },
     "examples": [],
     "meta": {}
@@ -37421,7 +38829,8 @@ const WORDS_NL_B1 = [
       "pt": "a flauta",
       "ja": "フルート",
       "zh": "长笛",
-      "ru": "флейта"
+      "ru": "флейта",
+      "fr": "flûte"
     },
     "examples": [],
     "meta": {},
@@ -37447,7 +38856,8 @@ const WORDS_NL_B1 = [
       "pt": "a loucura",
       "ja": "愚行",
       "zh": "愚蠢",
-      "ru": "глупость"
+      "ru": "глупость",
+      "fr": "folie"
     },
     "examples": [],
     "meta": {},
@@ -37473,7 +38883,8 @@ const WORDS_NL_B1 = [
       "pt": "enfatizado",
       "ja": "強調された",
       "zh": "强调的",
-      "ru": "акцентированный"
+      "ru": "акцентированный",
+      "fr": "souligné"
     },
     "examples": [],
     "meta": {}
@@ -37497,7 +38908,8 @@ const WORDS_NL_B1 = [
       "pt": "a pesquisa",
       "ja": "研究",
       "zh": "研究",
-      "ru": "исследование"
+      "ru": "исследование",
+      "fr": "recherche"
     },
     "examples": [],
     "meta": {},
@@ -37524,7 +38936,8 @@ const WORDS_NL_B1 = [
       "pt": "o dígito",
       "ja": "数字",
       "zh": "数字",
-      "ru": "цифра"
+      "ru": "цифра",
+      "fr": "chiffre"
     },
     "examples": [],
     "meta": {},
@@ -37550,7 +38963,8 @@ const WORDS_NL_B1 = [
       "pt": "o departamento",
       "ja": "部門",
       "zh": "部门",
-      "ru": "департамент"
+      "ru": "департамент",
+      "fr": "département"
     },
     "examples": [],
     "meta": {},
@@ -37576,7 +38990,8 @@ const WORDS_NL_B1 = [
       "pt": "o mandado",
       "ja": "令状",
       "zh": "令状",
-      "ru": "предписание"
+      "ru": "предписание",
+      "fr": "bref"
     },
     "examples": [],
     "meta": {},
@@ -37603,7 +39018,8 @@ const WORDS_NL_B1 = [
       "pt": "sombrio",
       "ja": "陰気な",
       "zh": "阴沉的",
-      "ru": "мрачный"
+      "ru": "мрачный",
+      "fr": "sombre"
     },
     "examples": [],
     "meta": {}
@@ -37627,7 +39043,8 @@ const WORDS_NL_B1 = [
       "pt": "o major",
       "ja": "少佐",
       "zh": "少校",
-      "ru": "майор"
+      "ru": "майор",
+      "fr": "majeur"
     },
     "examples": [],
     "meta": {},
@@ -37654,7 +39071,8 @@ const WORDS_NL_B1 = [
       "pt": "o clima",
       "ja": "気候",
       "zh": "气候",
-      "ru": "климат"
+      "ru": "климат",
+      "fr": "climat"
     },
     "examples": [],
     "meta": {},
@@ -37681,7 +39099,8 @@ const WORDS_NL_B1 = [
       "pt": "o serviço de inteligência",
       "ja": "情報機関",
       "zh": "情报机构",
-      "ru": "разведывательная служба"
+      "ru": "разведывательная служба",
+      "fr": "service de renseignement"
     },
     "examples": [],
     "meta": {},
@@ -37708,7 +39127,8 @@ const WORDS_NL_B1 = [
       "pt": "recompensado",
       "ja": "報われた",
       "zh": "获得报酬的",
-      "ru": "вознагражденный"
+      "ru": "вознагражденный",
+      "fr": "récompensé"
     },
     "examples": [],
     "meta": {}
@@ -37733,7 +39153,8 @@ const WORDS_NL_B1 = [
       "pt": "clássico",
       "ja": "古典的な",
       "zh": "经典的",
-      "ru": "классический"
+      "ru": "классический",
+      "fr": "classique"
     },
     "examples": [],
     "meta": {}
@@ -37758,7 +39179,8 @@ const WORDS_NL_B1 = [
       "pt": "pagar",
       "ja": "支払う",
       "zh": "支付",
-      "ru": "оплачивать"
+      "ru": "оплачивать",
+      "fr": "paie"
     },
     "examples": [],
     "meta": {},
@@ -37786,7 +39208,8 @@ const WORDS_NL_B1 = [
       "pt": "japonês",
       "ja": "日本の",
       "zh": "日本的",
-      "ru": "японский"
+      "ru": "японский",
+      "fr": "japonais"
     },
     "examples": [],
     "meta": {}
@@ -37811,7 +39234,8 @@ const WORDS_NL_B1 = [
       "pt": "demonstrar",
       "ja": "証明する",
       "zh": "证明",
-      "ru": "демонстрировать"
+      "ru": "демонстрировать",
+      "fr": "démontrer"
     },
     "examples": [],
     "meta": {},
@@ -37839,7 +39263,8 @@ const WORDS_NL_B1 = [
       "pt": "o sobrevivente",
       "ja": "生存者",
       "zh": "幸存者",
-      "ru": "выживший"
+      "ru": "выживший",
+      "fr": "survivant"
     },
     "examples": [],
     "meta": {},
@@ -37866,7 +39291,8 @@ const WORDS_NL_B1 = [
       "pt": "imortal",
       "ja": "不死の",
       "zh": "不朽的",
-      "ru": "бессмертный"
+      "ru": "бессмертный",
+      "fr": "immortel"
     },
     "examples": [],
     "meta": {}
@@ -37891,7 +39317,8 @@ const WORDS_NL_B1 = [
       "pt": "o instituto",
       "ja": "施設",
       "zh": "机构",
-      "ru": "учреждение"
+      "ru": "учреждение",
+      "fr": "institution"
     },
     "examples": [],
     "meta": {},
@@ -37918,7 +39345,8 @@ const WORDS_NL_B1 = [
       "pt": "amar",
       "ja": "愛する",
       "zh": "爱",
-      "ru": "любить"
+      "ru": "любить",
+      "fr": "amour"
     },
     "examples": [],
     "meta": {},
@@ -37946,7 +39374,8 @@ const WORDS_NL_B1 = [
       "pt": "o ganso",
       "ja": "ガチョウ",
       "zh": "鹅",
-      "ru": "гусь"
+      "ru": "гусь",
+      "fr": "oie"
     },
     "examples": [],
     "meta": {},
@@ -37973,7 +39402,8 @@ const WORDS_NL_B1 = [
       "pt": "inteiro",
       "ja": "全体の",
       "zh": "整个的",
-      "ru": "весь"
+      "ru": "весь",
+      "fr": "entier"
     },
     "examples": [],
     "meta": {}
@@ -37998,7 +39428,8 @@ const WORDS_NL_B1 = [
       "pt": "o mundo exterior",
       "ja": "外の世界",
       "zh": "外部世界",
-      "ru": "внешний мир"
+      "ru": "внешний мир",
+      "fr": "monde extérieur"
     },
     "examples": [],
     "meta": {},
@@ -38025,7 +39456,8 @@ const WORDS_NL_B1 = [
       "pt": "o argumento",
       "ja": "議論",
       "zh": "论点",
-      "ru": "аргумент"
+      "ru": "аргумент",
+      "fr": "argument"
     },
     "examples": [],
     "meta": {},
@@ -38052,7 +39484,8 @@ const WORDS_NL_B1 = [
       "pt": "subjugar",
       "ja": "征服する",
       "zh": "征服",
-      "ru": "подчинять"
+      "ru": "подчинять",
+      "fr": "soumettre"
     },
     "examples": [],
     "meta": {},
@@ -38080,7 +39513,8 @@ const WORDS_NL_B1 = [
       "pt": "praguejar",
       "ja": "呪う",
       "zh": "咒骂",
-      "ru": "ругаться"
+      "ru": "ругаться",
+      "fr": "malédiction"
     },
     "examples": [],
     "meta": {},
@@ -38108,7 +39542,8 @@ const WORDS_NL_B1 = [
       "pt": "excluir",
       "ja": "除外する",
       "zh": "排除",
-      "ru": "исключать"
+      "ru": "исключать",
+      "fr": "exclure"
     },
     "examples": [],
     "meta": {},
@@ -38136,7 +39571,8 @@ const WORDS_NL_B1 = [
       "pt": "a líder de torcida",
       "ja": "チアリーダー",
       "zh": "啦啦队长",
-      "ru": "чирлидер"
+      "ru": "чирлидер",
+      "fr": "pom-pom girl"
     },
     "examples": [],
     "meta": {},
@@ -38163,7 +39599,8 @@ const WORDS_NL_B1 = [
       "pt": "desarmado",
       "ja": "非武装の",
       "zh": "手无寸铁的",
-      "ru": "безоружный"
+      "ru": "безоружный",
+      "fr": "désarmé"
     },
     "examples": [],
     "meta": {}
@@ -38188,7 +39625,8 @@ const WORDS_NL_B1 = [
       "pt": "o marinheiro",
       "ja": "水兵",
       "zh": "水手",
-      "ru": "матрос"
+      "ru": "матрос",
+      "fr": "marin"
     },
     "examples": [],
     "meta": {},
@@ -38215,7 +39653,8 @@ const WORDS_NL_B1 = [
       "pt": "bobo",
       "ja": "ばかげた",
       "zh": "愚蠢的",
-      "ru": "глупый"
+      "ru": "глупый",
+      "fr": "idiot"
     },
     "examples": [],
     "meta": {}
@@ -38240,7 +39679,8 @@ const WORDS_NL_B1 = [
       "pt": "enganado",
       "ja": "誤解された",
       "zh": "被误导的",
-      "ru": "введенный в заблуждение"
+      "ru": "введенный в заблуждение",
+      "fr": "égaré"
     },
     "examples": [],
     "meta": {}
@@ -38265,7 +39705,8 @@ const WORDS_NL_B1 = [
       "pt": "perguntar",
       "ja": "尋ねる",
       "zh": "询问",
-      "ru": "спрашивать"
+      "ru": "спрашивать",
+      "fr": "s'informer"
     },
     "examples": [],
     "meta": {},
@@ -38292,7 +39733,8 @@ const WORDS_NL_B1 = [
       "pt": "o peido",
       "ja": "おなら",
       "zh": "屁",
-      "ru": "пук"
+      "ru": "пук",
+      "fr": "péter"
     },
     "examples": [],
     "meta": {},
@@ -38319,7 +39761,8 @@ const WORDS_NL_B1 = [
       "pt": "essencial",
       "ja": "必須の",
       "zh": "必要的",
-      "ru": "существенный"
+      "ru": "существенный",
+      "fr": "essentiel"
     },
     "examples": [],
     "meta": {}
@@ -38343,7 +39786,8 @@ const WORDS_NL_B1 = [
       "pt": "empurrar",
       "ja": "押す",
       "zh": "推",
-      "ru": "толкать"
+      "ru": "толкать",
+      "fr": "pousser"
     },
     "examples": [],
     "meta": {},
@@ -38370,7 +39814,8 @@ const WORDS_NL_B1 = [
       "pt": "encaixotar",
       "ja": "箱を作る",
       "zh": "装箱",
-      "ru": "упаковывать в ящик"
+      "ru": "упаковывать в ящик",
+      "fr": "faire une boîte"
     },
     "examples": [],
     "meta": {},
@@ -38397,7 +39842,8 @@ const WORDS_NL_B1 = [
       "pt": "a capela",
       "ja": "礼拝堂",
       "zh": "小教堂",
-      "ru": "часовня"
+      "ru": "часовня",
+      "fr": "chapelle"
     },
     "examples": [],
     "meta": {},
@@ -38423,7 +39869,8 @@ const WORDS_NL_B1 = [
       "pt": "o derretimento",
       "ja": "融解",
       "zh": "熔体",
-      "ru": "расплав"
+      "ru": "расплав",
+      "fr": "fondre"
     },
     "examples": [],
     "meta": {},
@@ -38449,7 +39896,8 @@ const WORDS_NL_B1 = [
       "pt": "contagioso",
       "ja": "伝染性の",
       "zh": "传染性的",
-      "ru": "заразный"
+      "ru": "заразный",
+      "fr": "contagieux"
     },
     "examples": [],
     "meta": {}
@@ -38473,7 +39921,8 @@ const WORDS_NL_B1 = [
       "pt": "acompanhado",
       "ja": "同伴した",
       "zh": "陪同的",
-      "ru": "сопровождаемый"
+      "ru": "сопровождаемый",
+      "fr": "accompagné"
     },
     "examples": [],
     "meta": {}
@@ -38497,7 +39946,8 @@ const WORDS_NL_B1 = [
       "pt": "tempestuar",
       "ja": "嵐が吹く",
       "zh": "刮风暴",
-      "ru": "штормить"
+      "ru": "штормить",
+      "fr": "tempête"
     },
     "examples": [],
     "meta": {},
@@ -38525,7 +39975,8 @@ const WORDS_NL_B1 = [
       "pt": "o congelador",
       "ja": "冷凍庫",
       "zh": "冰箱",
-      "ru": "морозильник"
+      "ru": "морозильник",
+      "fr": "congélateur"
     },
     "examples": [],
     "meta": {},
@@ -38551,7 +40002,8 @@ const WORDS_NL_B1 = [
       "pt": "o brinde",
       "ja": "乾杯",
       "zh": "祝酒",
-      "ru": "тост"
+      "ru": "тост",
+      "fr": "toast"
     },
     "examples": [],
     "meta": {},
@@ -38578,7 +40030,8 @@ const WORDS_NL_B1 = [
       "pt": "o conto de fadas",
       "ja": "おとぎ話",
       "zh": "童话",
-      "ru": "сказка"
+      "ru": "сказка",
+      "fr": "conte"
     },
     "examples": [],
     "meta": {},
@@ -38604,7 +40057,8 @@ const WORDS_NL_B1 = [
       "pt": "o hidromel",
       "ja": "ミード",
       "zh": "蜂蜜酒",
-      "ru": "медовуха"
+      "ru": "медовуха",
+      "fr": "hydromel"
     },
     "examples": [],
     "meta": {},
@@ -38631,7 +40085,8 @@ const WORDS_NL_B1 = [
       "pt": "arredondar",
       "ja": "丸める",
       "zh": "四舍五入",
-      "ru": "округлять"
+      "ru": "округлять",
+      "fr": "arrondir"
     },
     "examples": [],
     "meta": {},
@@ -38658,7 +40113,8 @@ const WORDS_NL_B1 = [
       "pt": "o pico",
       "ja": "頂点",
       "zh": "顶峰",
-      "ru": "пик"
+      "ru": "пик",
+      "fr": "pic"
     },
     "examples": [],
     "meta": {},
@@ -38685,7 +40141,8 @@ const WORDS_NL_B1 = [
       "pt": "o freio",
       "ja": "ブレーキ",
       "zh": "刹车",
-      "ru": "тормоз"
+      "ru": "тормоз",
+      "fr": "frein"
     },
     "examples": [],
     "meta": {},
@@ -38711,7 +40168,8 @@ const WORDS_NL_B1 = [
       "pt": "esgotar",
       "ja": "使い切る",
       "zh": "用完",
-      "ru": "израсходовать"
+      "ru": "израсходовать",
+      "fr": "épuiser"
     },
     "examples": [],
     "meta": {},
@@ -38739,7 +40197,8 @@ const WORDS_NL_B1 = [
       "pt": "a vigilância",
       "ja": "監視",
       "zh": "监视",
-      "ru": "наблюдение"
+      "ru": "наблюдение",
+      "fr": "surveillance"
     },
     "examples": [],
     "meta": {},
@@ -38766,7 +40225,8 @@ const WORDS_NL_B1 = [
       "pt": "o Oriente Médio",
       "ja": "中東",
       "zh": "中东",
-      "ru": "Ближний Восток"
+      "ru": "Ближний Восток",
+      "fr": "Moyen-Orient"
     },
     "examples": [],
     "meta": {},
@@ -38792,7 +40252,8 @@ const WORDS_NL_B1 = [
       "pt": "sondar",
       "ja": "探る",
       "zh": "试探",
-      "ru": "прощупывать"
+      "ru": "прощупывать",
+      "fr": "sonder"
     },
     "examples": [],
     "meta": {},
@@ -38820,7 +40281,8 @@ const WORDS_NL_B1 = [
       "pt": "o defensor",
       "ja": "ディフェンダー",
       "zh": "后卫",
-      "ru": "защитник"
+      "ru": "защитник",
+      "fr": "défenseur"
     },
     "examples": [],
     "meta": {},
@@ -38847,7 +40309,8 @@ const WORDS_NL_B1 = [
       "pt": "a bateria",
       "ja": "バッテリー",
       "zh": "电池",
-      "ru": "аккумулятор"
+      "ru": "аккумулятор",
+      "fr": "batterie"
     },
     "examples": [],
     "meta": {},
@@ -38874,7 +40337,8 @@ const WORDS_NL_B1 = [
       "pt": "a baía",
       "ja": "湾",
       "zh": "海湾",
-      "ru": "бухта"
+      "ru": "бухта",
+      "fr": "baie"
     },
     "examples": [],
     "meta": {},
@@ -38901,7 +40365,8 @@ const WORDS_NL_B1 = [
       "pt": "diminuir",
       "ja": "減らす",
       "zh": "减少",
-      "ru": "уменьшать"
+      "ru": "уменьшать",
+      "fr": "diminuer"
     },
     "examples": [],
     "meta": {},
@@ -38929,7 +40394,8 @@ const WORDS_NL_B1 = [
       "pt": "o condenado",
       "ja": "受刑者",
       "zh": "罪犯",
-      "ru": "осужденный"
+      "ru": "осужденный",
+      "fr": "condamner"
     },
     "examples": [],
     "meta": {},
@@ -38956,7 +40422,8 @@ const WORDS_NL_B1 = [
       "pt": "a cúpula",
       "ja": "ドーム",
       "zh": "圆顶",
-      "ru": "купол"
+      "ru": "купол",
+      "fr": "dôme"
     },
     "examples": [],
     "meta": {},
@@ -38983,7 +40450,8 @@ const WORDS_NL_B1 = [
       "pt": "o rapaz",
       "ja": "少年",
       "zh": "少年",
-      "ru": "мальчик"
+      "ru": "мальчик",
+      "fr": "garçon"
     },
     "examples": [],
     "meta": {},
@@ -39010,7 +40478,8 @@ const WORDS_NL_B1 = [
       "pt": "a fatia de pão",
       "ja": "パン一切れ",
       "zh": "面包片",
-      "ru": "кусок хлеба"
+      "ru": "кусок хлеба",
+      "fr": "tartine"
     },
     "examples": [],
     "meta": {},
@@ -39036,7 +40505,8 @@ const WORDS_NL_B1 = [
       "pt": "a confissão",
       "ja": "告白",
       "zh": "忏悔",
-      "ru": "исповедь"
+      "ru": "исповедь",
+      "fr": "confession"
     },
     "examples": [],
     "meta": {},
@@ -39062,7 +40532,8 @@ const WORDS_NL_B1 = [
       "pt": "o OVNI",
       "ja": "UFO",
       "zh": "飞碟",
-      "ru": "НЛО"
+      "ru": "НЛО",
+      "fr": "OVNI"
     },
     "examples": [],
     "meta": {},
@@ -39088,7 +40559,8 @@ const WORDS_NL_B1 = [
       "pt": "o ladrão",
       "ja": "泥棒",
       "zh": "窃贼",
-      "ru": "взломщик"
+      "ru": "взломщик",
+      "fr": "cambrioleur"
     },
     "examples": [],
     "meta": {},
@@ -39115,7 +40587,8 @@ const WORDS_NL_B1 = [
       "pt": "lavar a louça",
       "ja": "皿を洗う",
       "zh": "洗碗",
-      "ru": "мыть посуду"
+      "ru": "мыть посуду",
+      "fr": "faire la vaisselle"
     },
     "examples": [],
     "meta": {},
@@ -39143,7 +40616,8 @@ const WORDS_NL_B1 = [
       "pt": "pintado",
       "ja": "塗られた",
       "zh": "涂漆的",
-      "ru": "окрашенный"
+      "ru": "окрашенный",
+      "fr": "peint"
     },
     "examples": [],
     "meta": {}
@@ -39168,7 +40642,8 @@ const WORDS_NL_B1 = [
       "pt": "crucial",
       "ja": "決定的な",
       "zh": "关键的",
-      "ru": "решающий"
+      "ru": "решающий",
+      "fr": "crucial"
     },
     "examples": [],
     "meta": {}
@@ -39192,7 +40667,8 @@ const WORDS_NL_B1 = [
       "pt": "a isca",
       "ja": "餌",
       "zh": "诱饵",
-      "ru": "приманка"
+      "ru": "приманка",
+      "fr": "appât"
     },
     "examples": [],
     "meta": {},
@@ -39218,7 +40694,8 @@ const WORDS_NL_B1 = [
       "pt": "o viciado",
       "ja": "ジャンキー",
       "zh": "吸毒者",
-      "ru": "наркоман"
+      "ru": "наркоман",
+      "fr": "toxicomane"
     },
     "examples": [],
     "meta": {},
@@ -39245,7 +40722,8 @@ const WORDS_NL_B1 = [
       "pt": "arruinar",
       "ja": "台無しにする",
       "zh": "毁坏",
-      "ru": "разрушать"
+      "ru": "разрушать",
+      "fr": "ruine"
     },
     "examples": [],
     "meta": {},
@@ -39273,7 +40751,8 @@ const WORDS_NL_B1 = [
       "pt": "a vacina",
       "ja": "ワクチン",
       "zh": "疫苗",
-      "ru": "вакцина"
+      "ru": "вакцина",
+      "fr": "vaccin"
     },
     "examples": [],
     "meta": {},
@@ -39300,7 +40779,8 @@ const WORDS_NL_B1 = [
       "pt": "a aliança",
       "ja": "結婚指輪",
       "zh": "结婚戒指",
-      "ru": "обручальное кольцо"
+      "ru": "обручальное кольцо",
+      "fr": "alliance"
     },
     "examples": [],
     "meta": {},
@@ -39327,7 +40807,8 @@ const WORDS_NL_B1 = [
       "pt": "a caravana",
       "ja": "キャラバン",
       "zh": "大篷车",
-      "ru": "караван"
+      "ru": "караван",
+      "fr": "caravane"
     },
     "examples": [],
     "meta": {},
@@ -39354,7 +40835,8 @@ const WORDS_NL_B1 = [
       "pt": "o guarda-costas",
       "ja": "ボディーガード",
       "zh": "保镖",
-      "ru": "телохранитель"
+      "ru": "телохранитель",
+      "fr": "garde du corps"
     },
     "examples": [],
     "meta": {},
@@ -39381,7 +40863,8 @@ const WORDS_NL_B1 = [
       "pt": "demolir",
       "ja": "取り壊す",
       "zh": "拆除",
-      "ru": "сносить"
+      "ru": "сносить",
+      "fr": "démolir"
     },
     "examples": [],
     "meta": {},
@@ -39409,7 +40892,8 @@ const WORDS_NL_B1 = [
       "pt": "cansativo",
       "ja": "疲れる",
       "zh": "累人的",
-      "ru": "утомительный"
+      "ru": "утомительный",
+      "fr": "fatigant"
     },
     "examples": [],
     "meta": {}
@@ -39433,7 +40917,8 @@ const WORDS_NL_B1 = [
       "pt": "o paraíso",
       "ja": "楽園",
       "zh": "伊甸园",
-      "ru": "рай"
+      "ru": "рай",
+      "fr": "paradis"
     },
     "examples": [],
     "meta": {},
@@ -39460,7 +40945,8 @@ const WORDS_NL_B1 = [
       "pt": "a pasta",
       "ja": "フォルダー",
       "zh": "文件夹",
-      "ru": "папка"
+      "ru": "папка",
+      "fr": "dossier"
     },
     "examples": [],
     "meta": {},
@@ -39487,7 +40973,8 @@ const WORDS_NL_B1 = [
       "pt": "o latim",
       "ja": "ラテン語",
       "zh": "拉丁语",
-      "ru": "латынь"
+      "ru": "латынь",
+      "fr": "latin"
     },
     "examples": [],
     "meta": {},
@@ -39513,7 +41000,8 @@ const WORDS_NL_B1 = [
       "pt": "o traficante de drogas",
       "ja": "麻薬の売人",
       "zh": "毒贩",
-      "ru": "наркодилер"
+      "ru": "наркодилер",
+      "fr": "trafiquant de drogue"
     },
     "examples": [],
     "meta": {},
@@ -39539,7 +41027,8 @@ const WORDS_NL_B1 = [
       "pt": "o assassino",
       "ja": "殺人者",
       "zh": "杀手",
-      "ru": "убийца"
+      "ru": "убийца",
+      "fr": "tueur"
     },
     "examples": [],
     "meta": {},
@@ -39566,7 +41055,8 @@ const WORDS_NL_B1 = [
       "pt": "rude",
       "ja": "失礼な",
       "zh": "粗鲁的",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "impoli"
     },
     "examples": [],
     "meta": {}
@@ -39591,7 +41081,8 @@ const WORDS_NL_B1 = [
       "pt": "reconhecer",
       "ja": "認識する",
       "zh": "承认",
-      "ru": "признавать"
+      "ru": "признавать",
+      "fr": "reconnaître"
     },
     "examples": [],
     "meta": {},
@@ -39618,7 +41109,8 @@ const WORDS_NL_B1 = [
       "pt": "hostil",
       "ja": "敵対的な",
       "zh": "敌对的",
-      "ru": "враждебный"
+      "ru": "враждебный",
+      "fr": "hostile"
     },
     "examples": [],
     "meta": {}
@@ -39643,7 +41135,8 @@ const WORDS_NL_B1 = [
       "pt": "o produtor",
       "ja": "プロデューサー",
       "zh": "制作人",
-      "ru": "продюсер"
+      "ru": "продюсер",
+      "fr": "producteur"
     },
     "examples": [],
     "meta": {},
@@ -39670,7 +41163,8 @@ const WORDS_NL_B1 = [
       "pt": "ir junto",
       "ja": "同乗する",
       "zh": "搭便车",
-      "ru": "ехать вместе"
+      "ru": "ехать вместе",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {},
@@ -39698,7 +41192,8 @@ const WORDS_NL_B1 = [
       "pt": "subterrâneo",
       "ja": "地下の",
       "zh": "地下的",
-      "ru": "подземный"
+      "ru": "подземный",
+      "fr": "souterrain"
     },
     "examples": [],
     "meta": {}
@@ -39723,7 +41218,8 @@ const WORDS_NL_B1 = [
       "pt": "a cesta",
       "ja": "かご",
       "zh": "篮子",
-      "ru": "корзина"
+      "ru": "корзина",
+      "fr": "panier"
     },
     "examples": [],
     "meta": {},
@@ -39750,7 +41246,8 @@ const WORDS_NL_B1 = [
       "pt": "o hospital",
       "ja": "病院",
       "zh": "医院",
-      "ru": "госпиталь"
+      "ru": "госпиталь",
+      "fr": "hôpital"
     },
     "examples": [],
     "meta": {},
@@ -39777,7 +41274,8 @@ const WORDS_NL_B1 = [
       "pt": "a bússola",
       "ja": "コンパス",
       "zh": "指南针",
-      "ru": "компас"
+      "ru": "компас",
+      "fr": "boussole"
     },
     "examples": [],
     "meta": {},
@@ -39803,7 +41301,8 @@ const WORDS_NL_B1 = [
       "pt": "a pena de prisão",
       "ja": "懲役",
       "zh": "徒刑",
-      "ru": "тюремное заключение"
+      "ru": "тюремное заключение",
+      "fr": "peine de prison"
     },
     "examples": [],
     "meta": {},
@@ -39830,7 +41329,8 @@ const WORDS_NL_B1 = [
       "pt": "louco",
       "ja": "クレイジーな",
       "zh": "疯狂的",
-      "ru": "сумасшедший"
+      "ru": "сумасшедший",
+      "fr": "fou"
     },
     "examples": [],
     "meta": {}
@@ -39855,7 +41355,8 @@ const WORDS_NL_B1 = [
       "pt": "a gerência",
       "ja": "経営",
       "zh": "管理",
-      "ru": "менеджмент"
+      "ru": "менеджмент",
+      "fr": "gestion"
     },
     "examples": [],
     "meta": {},
@@ -39882,7 +41383,8 @@ const WORDS_NL_B1 = [
       "pt": "colar",
       "ja": "貼る",
       "zh": "粘贴",
-      "ru": "клеить"
+      "ru": "клеить",
+      "fr": "bâton"
     },
     "examples": [],
     "meta": {},
@@ -39910,7 +41412,8 @@ const WORDS_NL_B1 = [
       "pt": "tirar",
       "ja": "脱ぐ",
       "zh": "脱掉",
-      "ru": "снимать"
+      "ru": "снимать",
+      "fr": "décoller"
     },
     "examples": [],
     "meta": {},
@@ -39937,7 +41440,8 @@ const WORDS_NL_B1 = [
       "pt": "o coro",
       "ja": "合唱団",
       "zh": "合唱团",
-      "ru": "хор"
+      "ru": "хор",
+      "fr": "chœur"
     },
     "examples": [],
     "meta": {},
@@ -39963,7 +41467,8 @@ const WORDS_NL_B1 = [
       "pt": "a censura",
       "ja": "非難",
       "zh": "指责",
-      "ru": "упрек"
+      "ru": "упрек",
+      "fr": "reproche"
     },
     "examples": [],
     "meta": {},
@@ -39990,7 +41495,8 @@ const WORDS_NL_B1 = [
       "pt": "a música country",
       "ja": "カントリーミュージック",
       "zh": "乡村音乐",
-      "ru": "кантри"
+      "ru": "кантри",
+      "fr": "country"
     },
     "examples": [],
     "meta": {},
@@ -40016,7 +41522,8 @@ const WORDS_NL_B1 = [
       "pt": "o flerte",
       "ja": "浮気者",
       "zh": "调情者",
-      "ru": "флирт"
+      "ru": "флирт",
+      "fr": "flirter"
     },
     "examples": [],
     "meta": {},
@@ -40042,7 +41549,8 @@ const WORDS_NL_B1 = [
       "pt": "o patife",
       "ja": "悪党",
       "zh": "恶棍",
-      "ru": "негодяй"
+      "ru": "негодяй",
+      "fr": "coquin"
     },
     "examples": [],
     "meta": {},
@@ -40068,7 +41576,8 @@ const WORDS_NL_B1 = [
       "pt": "impiedoso",
       "ja": "無慈悲な",
       "zh": "无情的",
-      "ru": "безжалостный"
+      "ru": "безжалостный",
+      "fr": "impitoyable"
     },
     "examples": [],
     "meta": {}
@@ -40093,7 +41602,8 @@ const WORDS_NL_B1 = [
       "pt": "o entusiasmo",
       "ja": "熱意",
       "zh": "热情",
-      "ru": "энтузиазм"
+      "ru": "энтузиазм",
+      "fr": "enthousiasme"
     },
     "examples": [],
     "meta": {},
@@ -40119,7 +41629,8 @@ const WORDS_NL_B1 = [
       "pt": "o CEO",
       "ja": "最高経営責任者",
       "zh": "首席执行官",
-      "ru": "генеральный директор"
+      "ru": "генеральный директор",
+      "fr": "PDG"
     },
     "examples": [],
     "meta": {},
@@ -40146,7 +41657,8 @@ const WORDS_NL_B1 = [
       "pt": "conceder",
       "ja": "与える",
       "zh": "授予",
-      "ru": "предоставлять"
+      "ru": "предоставлять",
+      "fr": "subvention"
     },
     "examples": [],
     "meta": {},
@@ -40174,7 +41686,8 @@ const WORDS_NL_B1 = [
       "pt": "o profissional",
       "ja": "専門家",
       "zh": "专业人士",
-      "ru": "профессионал"
+      "ru": "профессионал",
+      "fr": "professionnel"
     },
     "examples": [],
     "meta": {},
@@ -40201,7 +41714,8 @@ const WORDS_NL_B1 = [
       "pt": "o disparate",
       "ja": "ナンセンス",
       "zh": "胡说",
-      "ru": "чепуха"
+      "ru": "чепуха",
+      "fr": "absurdité"
     },
     "examples": [],
     "meta": {},
@@ -40227,7 +41741,8 @@ const WORDS_NL_B1 = [
       "pt": "estrangular",
       "ja": "絞め殺す",
       "zh": "勒死",
-      "ru": "душить"
+      "ru": "душить",
+      "fr": "étrangler"
     },
     "examples": [],
     "meta": {},
@@ -40254,7 +41769,8 @@ const WORDS_NL_B1 = [
       "pt": "o protótipo",
       "ja": "試作品",
       "zh": "原型",
-      "ru": "прототип"
+      "ru": "прототип",
+      "fr": "prototype"
     },
     "examples": [],
     "meta": {},
@@ -40281,7 +41797,8 @@ const WORDS_NL_B1 = [
       "pt": "a escova de dentes",
       "ja": "歯ブラシ",
       "zh": "牙刷",
-      "ru": "зубная щётка"
+      "ru": "зубная щётка",
+      "fr": "brosse à dents"
     },
     "examples": [],
     "meta": {},
@@ -40307,7 +41824,8 @@ const WORDS_NL_B1 = [
       "pt": "o abrigo",
       "ja": "保護施設",
       "zh": "收容所",
-      "ru": "приют"
+      "ru": "приют",
+      "fr": "abri"
     },
     "examples": [],
     "meta": {},
@@ -40333,7 +41851,8 @@ const WORDS_NL_B1 = [
       "pt": "a calha",
       "ja": "溝",
       "zh": "排水沟",
-      "ru": "жёлоб"
+      "ru": "жёлоб",
+      "fr": "gouttière"
     },
     "examples": [],
     "meta": {},
@@ -40360,7 +41879,8 @@ const WORDS_NL_B1 = [
       "pt": "tremer",
       "ja": "震える",
       "zh": "颤抖",
-      "ru": "дрожать"
+      "ru": "дрожать",
+      "fr": "trembler"
     },
     "examples": [],
     "meta": {},
@@ -40387,7 +41907,8 @@ const WORDS_NL_B1 = [
       "pt": "a sede",
       "ja": "本社",
       "zh": "总部",
-      "ru": "штаб-квартира"
+      "ru": "штаб-квартира",
+      "fr": "siège"
     },
     "examples": [],
     "meta": {},
@@ -40414,7 +41935,8 @@ const WORDS_NL_B1 = [
       "pt": "o caminho de volta",
       "ja": "帰り道",
       "zh": "回程",
-      "ru": "обратный путь"
+      "ru": "обратный путь",
+      "fr": "retour"
     },
     "examples": [],
     "meta": {},
@@ -40440,7 +41962,8 @@ const WORDS_NL_B1 = [
       "pt": "o conhaque",
       "ja": "コニャック",
       "zh": "干邑",
-      "ru": "коньяк"
+      "ru": "коньяк",
+      "fr": "cognac"
     },
     "examples": [],
     "meta": {},
@@ -40466,7 +41989,8 @@ const WORDS_NL_B1 = [
       "pt": "jurídico",
       "ja": "法的な",
       "zh": "法律的",
-      "ru": "юридический"
+      "ru": "юридический",
+      "fr": "légal"
     },
     "examples": [],
     "meta": {}
@@ -40491,7 +42015,8 @@ const WORDS_NL_B1 = [
       "pt": "pouco claro",
       "ja": "不明瞭な",
       "zh": "不清楚的",
-      "ru": "неясный"
+      "ru": "неясный",
+      "fr": "flou"
     },
     "examples": [],
     "meta": {}
@@ -40515,7 +42040,8 @@ const WORDS_NL_B1 = [
       "pt": "sem rasto",
       "ja": "跡形もない",
       "zh": "无影无踪的",
-      "ru": "бесследный"
+      "ru": "бесследный",
+      "fr": "sans trace"
     },
     "examples": [],
     "meta": {}
@@ -40540,7 +42066,8 @@ const WORDS_NL_B1 = [
       "pt": "a necessidade",
       "ja": "必要性",
       "zh": "必要性",
-      "ru": "необходимость"
+      "ru": "необходимость",
+      "fr": "nécessité"
     },
     "examples": [],
     "meta": {},
@@ -40566,7 +42093,8 @@ const WORDS_NL_B1 = [
       "pt": "o cavalo tordilho",
       "ja": "芦毛の馬",
       "zh": "灰马",
-      "ru": "серая лошадь"
+      "ru": "серая лошадь",
+      "fr": "cheval gris"
     },
     "examples": [],
     "meta": {},
@@ -40592,7 +42120,8 @@ const WORDS_NL_B1 = [
       "pt": "verde jade",
       "ja": "翡翠色の",
       "zh": "翠绿色的",
-      "ru": "нефритовый"
+      "ru": "нефритовый",
+      "fr": "vert jade"
     },
     "examples": [],
     "meta": {}
@@ -40617,7 +42146,8 @@ const WORDS_NL_B1 = [
       "pt": "o casaco",
       "ja": "コート",
       "zh": "外套",
-      "ru": "пальто"
+      "ru": "пальто",
+      "fr": "manteau"
     },
     "examples": [],
     "meta": {},
@@ -40643,7 +42173,8 @@ const WORDS_NL_B1 = [
       "pt": "o retrato",
       "ja": "肖像画",
       "zh": "肖像",
-      "ru": "портрет"
+      "ru": "портрет",
+      "fr": "portrait"
     },
     "examples": [],
     "meta": {},
@@ -40669,7 +42200,8 @@ const WORDS_NL_B1 = [
       "pt": "a lamúria",
       "ja": "愚痴",
       "zh": "唠叨",
-      "ru": "нытьё"
+      "ru": "нытьё",
+      "fr": "harcèlement"
     },
     "examples": [],
     "meta": {},
@@ -40696,7 +42228,8 @@ const WORDS_NL_B1 = [
       "pt": "a canção",
       "ja": "歌",
       "zh": "歌曲",
-      "ru": "песня"
+      "ru": "песня",
+      "fr": "chanson"
     },
     "examples": [],
     "meta": {},
@@ -40723,7 +42256,8 @@ const WORDS_NL_B1 = [
       "pt": "aventurar",
       "ja": "冒険する",
       "zh": "冒险",
-      "ru": "приключаться"
+      "ru": "приключаться",
+      "fr": "aventure"
     },
     "examples": [],
     "meta": {},
@@ -40750,7 +42284,8 @@ const WORDS_NL_B1 = [
       "pt": "espionar",
       "ja": "スパイする",
       "zh": "侦察",
-      "ru": "шпионить"
+      "ru": "шпионить",
+      "fr": "espionner"
     },
     "examples": [],
     "meta": {},
@@ -40777,7 +42312,8 @@ const WORDS_NL_B1 = [
       "pt": "a clareira",
       "ja": "林間空地",
       "zh": "林中空地",
-      "ru": "поляна"
+      "ru": "поляна",
+      "fr": "clairière"
     },
     "examples": [],
     "meta": {},
@@ -40804,7 +42340,8 @@ const WORDS_NL_B1 = [
       "pt": "o território",
       "ja": "領土",
       "zh": "领土",
-      "ru": "территория"
+      "ru": "территория",
+      "fr": "territoire"
     },
     "examples": [],
     "meta": {},
@@ -40830,7 +42367,8 @@ const WORDS_NL_B1 = [
       "pt": "jogar boliche",
       "ja": "ボウリングをする",
       "zh": "打保龄球",
-      "ru": "играть в боулинг"
+      "ru": "играть в боулинг",
+      "fr": "quiller"
     },
     "examples": [],
     "meta": {},
@@ -40857,7 +42395,8 @@ const WORDS_NL_B1 = [
       "pt": "defecar",
       "ja": "排便する",
       "zh": "排便",
-      "ru": "испражняться"
+      "ru": "испражняться",
+      "fr": "déféquer"
     },
     "examples": [],
     "meta": {},
@@ -40884,7 +42423,8 @@ const WORDS_NL_B1 = [
       "pt": "o lixão",
       "ja": "ごみ捨て場",
       "zh": "垃圾场",
-      "ru": "свалка"
+      "ru": "свалка",
+      "fr": "décharge"
     },
     "examples": [],
     "meta": {},
@@ -40911,7 +42451,8 @@ const WORDS_NL_B1 = [
       "pt": "exclusivo",
       "ja": "排他的な",
       "zh": "独家的",
-      "ru": "эксклюзивный"
+      "ru": "эксклюзивный",
+      "fr": "exclusif"
     },
     "examples": [],
     "meta": {}
@@ -40936,7 +42477,8 @@ const WORDS_NL_B1 = [
       "pt": "a conta",
       "ja": "アカウント",
       "zh": "账户",
-      "ru": "аккаунт"
+      "ru": "аккаунт",
+      "fr": "compte"
     },
     "examples": [],
     "meta": {},
@@ -40963,7 +42505,8 @@ const WORDS_NL_B1 = [
       "pt": "estabelecer",
       "ja": "確立する",
       "zh": "确定",
-      "ru": "устанавливать"
+      "ru": "устанавливать",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {},
@@ -40990,7 +42533,8 @@ const WORDS_NL_B1 = [
       "pt": "a virtude",
       "ja": "美徳",
       "zh": "美德",
-      "ru": "добродетель"
+      "ru": "добродетель",
+      "fr": "vertu"
     },
     "examples": [],
     "meta": {},
@@ -41016,7 +42560,8 @@ const WORDS_NL_B1 = [
       "pt": "escutar secretamente",
       "ja": "盗聴する",
       "zh": "窃听",
-      "ru": "подслушивать"
+      "ru": "подслушивать",
+      "fr": "écouter"
     },
     "examples": [],
     "meta": {},
@@ -41043,7 +42588,8 @@ const WORDS_NL_B1 = [
       "pt": "o continente",
       "ja": "大陸",
       "zh": "大陆",
-      "ru": "континент"
+      "ru": "континент",
+      "fr": "continent"
     },
     "examples": [],
     "meta": {},
@@ -41069,7 +42615,8 @@ const WORDS_NL_B1 = [
       "pt": "a derrota",
       "ja": "敗北",
       "zh": "失败",
-      "ru": "поражение"
+      "ru": "поражение",
+      "fr": "défaite"
     },
     "examples": [],
     "meta": {},
@@ -41096,7 +42643,8 @@ const WORDS_NL_B1 = [
       "pt": "traduzir",
       "ja": "翻訳する",
       "zh": "翻译",
-      "ru": "переводить"
+      "ru": "переводить",
+      "fr": "traduire"
     },
     "examples": [],
     "meta": {},
@@ -41124,7 +42672,8 @@ const WORDS_NL_B1 = [
       "pt": "o piquenique",
       "ja": "ピクニック",
       "zh": "野餐",
-      "ru": "пикник"
+      "ru": "пикник",
+      "fr": "pique-nique"
     },
     "examples": [],
     "meta": {},
@@ -41150,7 +42699,8 @@ const WORDS_NL_B1 = [
       "pt": "tentador",
       "ja": "魅力的な",
       "zh": "诱人的",
-      "ru": "соблазнительный"
+      "ru": "соблазнительный",
+      "fr": "tentant"
     },
     "examples": [],
     "meta": {}
@@ -41174,7 +42724,8 @@ const WORDS_NL_B1 = [
       "pt": "acarinhar",
       "ja": "大切にする",
       "zh": "珍爱",
-      "ru": "лелеять"
+      "ru": "лелеять",
+      "fr": "chérir"
     },
     "examples": [],
     "meta": {},
@@ -41203,7 +42754,8 @@ const WORDS_NL_B1 = [
       "pt": "a prefeitura",
       "ja": "市役所",
       "zh": "市政厅",
-      "ru": "ратуша"
+      "ru": "ратуша",
+      "fr": "mairie"
     },
     "examples": [],
     "meta": {},
@@ -41229,7 +42781,8 @@ const WORDS_NL_B1 = [
       "pt": "o império",
       "ja": "帝国",
       "zh": "帝国",
-      "ru": "империя"
+      "ru": "империя",
+      "fr": "empire"
     },
     "examples": [],
     "meta": {},
@@ -41256,7 +42809,8 @@ const WORDS_NL_B1 = [
       "pt": "o adiantamento",
       "ja": "前払い",
       "zh": "预付款",
-      "ru": "аванс"
+      "ru": "аванс",
+      "fr": "acompte"
     },
     "examples": [],
     "meta": {},
@@ -41283,7 +42837,8 @@ const WORDS_NL_B1 = [
       "pt": "o esquilo",
       "ja": "リス",
       "zh": "松鼠",
-      "ru": "белка"
+      "ru": "белка",
+      "fr": "écureuil"
     },
     "examples": [],
     "meta": {},
@@ -41310,7 +42865,8 @@ const WORDS_NL_B1 = [
       "pt": "o funcionário público",
       "ja": "公務員",
       "zh": "公务员",
-      "ru": "государственный служащий"
+      "ru": "государственный служащий",
+      "fr": "fonctionnaire"
     },
     "examples": [],
     "meta": {},
@@ -41337,7 +42893,8 @@ const WORDS_NL_B1 = [
       "pt": "escanear",
       "ja": "スキャンする",
       "zh": "扫描",
-      "ru": "сканировать"
+      "ru": "сканировать",
+      "fr": "scanner"
     },
     "examples": [],
     "meta": {},
@@ -41365,7 +42922,8 @@ const WORDS_NL_B1 = [
       "pt": "a ração",
       "ja": "飼料",
       "zh": "饲料",
-      "ru": "корм"
+      "ru": "корм",
+      "fr": "fourrage"
     },
     "examples": [],
     "meta": {},
@@ -41392,7 +42950,8 @@ const WORDS_NL_B1 = [
       "pt": "devorar",
       "ja": "むさぼり食う",
       "zh": "狼吞虎咽",
-      "ru": "жрать"
+      "ru": "жрать",
+      "fr": "dévorer"
     },
     "examples": [],
     "meta": {},
@@ -41420,7 +42979,8 @@ const WORDS_NL_B1 = [
       "pt": "a mara",
       "ja": "マラ",
       "zh": "马拉",
-      "ru": "мара"
+      "ru": "мара",
+      "fr": "mara de Patagonie"
     },
     "examples": [],
     "meta": {},
@@ -41446,7 +43006,8 @@ const WORDS_NL_B1 = [
       "pt": "a sonda",
       "ja": "探針",
       "zh": "探针",
-      "ru": "зонд"
+      "ru": "зонд",
+      "fr": "sonde"
     },
     "examples": [],
     "meta": {},
@@ -41473,7 +43034,8 @@ const WORDS_NL_B1 = [
       "pt": "o monge",
       "ja": "修道士",
       "zh": "和尚",
-      "ru": "монах"
+      "ru": "монах",
+      "fr": "moine"
     },
     "examples": [],
     "meta": {},
@@ -41500,7 +43062,8 @@ const WORDS_NL_B1 = [
       "pt": "iluminar",
       "ja": "照らす",
       "zh": "照明",
-      "ru": "освещать"
+      "ru": "освещать",
+      "fr": "illuminer"
     },
     "examples": [],
     "meta": {},
@@ -41528,7 +43091,8 @@ const WORDS_NL_B1 = [
       "pt": "desajeitado",
       "ja": "不器用な",
       "zh": "笨拙的",
-      "ru": "неуклюжий"
+      "ru": "неуклюжий",
+      "fr": "maladroit"
     },
     "examples": [],
     "meta": {}
@@ -41552,7 +43116,8 @@ const WORDS_NL_B1 = [
       "pt": "o mandado de prisão",
       "ja": "逮捕状",
       "zh": "逮捕令",
-      "ru": "ордер на арест"
+      "ru": "ордер на арест",
+      "fr": "mandat d'arrêt"
     },
     "examples": [],
     "meta": {},
@@ -41579,7 +43144,8 @@ const WORDS_NL_B1 = [
       "pt": "o dinossauro",
       "ja": "恐竜",
       "zh": "恐龙",
-      "ru": "динозавр"
+      "ru": "динозавр",
+      "fr": "dinosaure"
     },
     "examples": [],
     "meta": {},
@@ -41605,7 +43171,8 @@ const WORDS_NL_B1 = [
       "pt": "a síndrome",
       "ja": "症候群",
       "zh": "综合征",
-      "ru": "синдром"
+      "ru": "синдром",
+      "fr": "syndrome"
     },
     "examples": [],
     "meta": {},
@@ -41632,7 +43199,8 @@ const WORDS_NL_B1 = [
       "pt": "cronometrar",
       "ja": "計測する",
       "zh": "计时",
-      "ru": "засекать время"
+      "ru": "засекать время",
+      "fr": "temps"
     },
     "examples": [],
     "meta": {},
@@ -41660,7 +43228,8 @@ const WORDS_NL_B1 = [
       "pt": "mandar embora",
       "ja": "追い払う",
       "zh": "赶走",
-      "ru": "отсылать"
+      "ru": "отсылать",
+      "fr": "renvoyer"
     },
     "examples": [],
     "meta": {},
@@ -41688,7 +43257,8 @@ const WORDS_NL_B1 = [
       "pt": "o submundo",
       "ja": "裏社会",
       "zh": "黑社会",
-      "ru": "преступный мир"
+      "ru": "преступный мир",
+      "fr": "monde souterrain"
     },
     "examples": [],
     "meta": {},
@@ -41715,7 +43285,8 @@ const WORDS_NL_B1 = [
       "pt": "o encanador",
       "ja": "配管工",
       "zh": "水管工",
-      "ru": "сантехник"
+      "ru": "сантехник",
+      "fr": "plombier"
     },
     "examples": [],
     "meta": {},
@@ -41742,7 +43313,8 @@ const WORDS_NL_B1 = [
       "pt": "aprovar",
       "ja": "承認する",
       "zh": "批准",
-      "ru": "одобрять"
+      "ru": "одобрять",
+      "fr": "approuver"
     },
     "examples": [],
     "meta": {},
@@ -41770,7 +43342,8 @@ const WORDS_NL_B1 = [
       "pt": "o senhorio",
       "ja": "家主",
       "zh": "房东",
-      "ru": "домовладелец"
+      "ru": "домовладелец",
+      "fr": "propriétaire"
     },
     "examples": [],
     "meta": {},
@@ -41797,7 +43370,8 @@ const WORDS_NL_B1 = [
       "pt": "veiar",
       "ja": "脈打つ",
       "zh": "形成脉络",
-      "ru": "жилковать"
+      "ru": "жилковать",
+      "fr": "veine"
     },
     "examples": [],
     "meta": {},
@@ -41825,7 +43399,8 @@ const WORDS_NL_B1 = [
       "pt": "a arena",
       "ja": "アリーナ",
       "zh": "竞技场",
-      "ru": "арена"
+      "ru": "арена",
+      "fr": "arène"
     },
     "examples": [],
     "meta": {},
@@ -41852,7 +43427,8 @@ const WORDS_NL_B1 = [
       "pt": "a garganta",
       "ja": "喉",
       "zh": "喉咙",
-      "ru": "глотка"
+      "ru": "глотка",
+      "fr": "gorge"
     },
     "examples": [],
     "meta": {},
@@ -41879,7 +43455,8 @@ const WORDS_NL_B1 = [
       "pt": "as economias",
       "ja": "貯蓄",
       "zh": "储蓄",
-      "ru": "сбережения"
+      "ru": "сбережения",
+      "fr": "économies"
     },
     "examples": [],
     "meta": {},
@@ -41906,7 +43483,8 @@ const WORDS_NL_B1 = [
       "pt": "postar",
       "ja": "郵送する",
       "zh": "邮寄",
-      "ru": "отправлять по почте"
+      "ru": "отправлять по почте",
+      "fr": "courrier"
     },
     "examples": [],
     "meta": {},
@@ -41934,7 +43512,8 @@ const WORDS_NL_B1 = [
       "pt": "cobrir",
       "ja": "覆う",
       "zh": "覆盖",
-      "ru": "покрывать"
+      "ru": "покрывать",
+      "fr": "couvrir"
     },
     "examples": [],
     "meta": {},
@@ -41962,7 +43541,8 @@ const WORDS_NL_B1 = [
       "pt": "o desfiladeiro",
       "ja": "峡谷",
       "zh": "峡谷",
-      "ru": "ущелье"
+      "ru": "ущелье",
+      "fr": "gorge"
     },
     "examples": [],
     "meta": {},
@@ -41989,7 +43569,8 @@ const WORDS_NL_B1 = [
       "pt": "biológico",
       "ja": "生物学的な",
       "zh": "生物的",
-      "ru": "биологический"
+      "ru": "биологический",
+      "fr": "biologique"
     },
     "examples": [],
     "meta": {}
@@ -42014,7 +43595,8 @@ const WORDS_NL_B1 = [
       "pt": "o ferimento a bala",
       "ja": "銃創",
       "zh": "枪伤",
-      "ru": "огнестрельное ранение"
+      "ru": "огнестрельное ранение",
+      "fr": "blessure par balle"
     },
     "examples": [],
     "meta": {},
@@ -42041,7 +43623,8 @@ const WORDS_NL_B1 = [
       "pt": "o jogador internacional",
       "ja": "代表選手",
       "zh": "国际球员",
-      "ru": "игрок сборной"
+      "ru": "игрок сборной",
+      "fr": "joueur international"
     },
     "examples": [],
     "meta": {},
@@ -42068,7 +43651,8 @@ const WORDS_NL_B1 = [
       "pt": "o resmungão",
       "ja": "不平屋",
       "zh": "抱怨者",
-      "ru": "нытик"
+      "ru": "нытик",
+      "fr": "râleur"
     },
     "examples": [],
     "meta": {},
@@ -42095,7 +43679,8 @@ const WORDS_NL_B1 = [
       "pt": "a plataforma",
       "ja": "プラットフォーム",
       "zh": "平台",
-      "ru": "платформа"
+      "ru": "платформа",
+      "fr": "plateforme"
     },
     "examples": [],
     "meta": {},
@@ -42122,7 +43707,8 @@ const WORDS_NL_B1 = [
       "pt": "infinito",
       "ja": "無限の",
       "zh": "无限的",
-      "ru": "бесконечный"
+      "ru": "бесконечный",
+      "fr": "infini"
     },
     "examples": [],
     "meta": {}
@@ -42147,7 +43733,8 @@ const WORDS_NL_B1 = [
       "pt": "imprevisível",
       "ja": "予測不可能な",
       "zh": "不可预测的",
-      "ru": "непредсказуемый"
+      "ru": "непредсказуемый",
+      "fr": "imprévisible"
     },
     "examples": [],
     "meta": {}
@@ -42172,7 +43759,8 @@ const WORDS_NL_B1 = [
       "pt": "solicitar",
       "ja": "申請する",
       "zh": "申请",
-      "ru": "подавать заявление"
+      "ru": "подавать заявление",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {},
@@ -42200,7 +43788,8 @@ const WORDS_NL_B1 = [
       "pt": "a liderança",
       "ja": "リーダーシップ",
       "zh": "领导力",
-      "ru": "лидерство"
+      "ru": "лидерство",
+      "fr": "direction"
     },
     "examples": [],
     "meta": {},
@@ -42227,7 +43816,8 @@ const WORDS_NL_B1 = [
       "pt": "o privilégio",
       "ja": "特権",
       "zh": "特权",
-      "ru": "привилегия"
+      "ru": "привилегия",
+      "fr": "privilège"
     },
     "examples": [],
     "meta": {},
@@ -42254,7 +43844,8 @@ const WORDS_NL_B1 = [
       "pt": "o aro",
       "ja": "フープ",
       "zh": "箍",
-      "ru": "обруч"
+      "ru": "обруч",
+      "fr": "cerceau"
     },
     "examples": [],
     "meta": {},
@@ -42281,7 +43872,8 @@ const WORDS_NL_B1 = [
       "pt": "derrubar",
       "ja": "打ち落とす",
       "zh": "击落",
-      "ru": "сбивать"
+      "ru": "сбивать",
+      "fr": "abattre"
     },
     "examples": [],
     "meta": {},
@@ -42309,7 +43901,8 @@ const WORDS_NL_B1 = [
       "pt": "o parlamento",
       "ja": "議会",
       "zh": "议会",
-      "ru": "парламент"
+      "ru": "парламент",
+      "fr": "parlement"
     },
     "examples": [],
     "meta": {},
@@ -42336,7 +43929,8 @@ const WORDS_NL_B1 = [
       "pt": "o avatar",
       "ja": "アバター",
       "zh": "阿凡达",
-      "ru": "аватар"
+      "ru": "аватар",
+      "fr": "avatar"
     },
     "examples": [],
     "meta": {},
@@ -42363,7 +43957,8 @@ const WORDS_NL_B1 = [
       "pt": "o cadete",
       "ja": "士官候補生",
       "zh": "军校学员",
-      "ru": "кадет"
+      "ru": "кадет",
+      "fr": "cadet"
     },
     "examples": [],
     "meta": {},
@@ -42390,7 +43985,8 @@ const WORDS_NL_B1 = [
       "pt": "o sequestrador",
       "ja": "誘拐犯",
       "zh": "绑架者",
-      "ru": "похититель"
+      "ru": "похититель",
+      "fr": "ravisseur"
     },
     "examples": [],
     "meta": {},
@@ -42417,7 +44013,8 @@ const WORDS_NL_B1 = [
       "pt": "o carimbo",
       "ja": "スタンプ",
       "zh": "印章",
-      "ru": "штамп"
+      "ru": "штамп",
+      "fr": "timbre"
     },
     "examples": [],
     "meta": {},
@@ -42444,7 +44041,8 @@ const WORDS_NL_B1 = [
       "pt": "esgrimir",
       "ja": "フェンシングをする",
       "zh": "击剑",
-      "ru": "фехтовать"
+      "ru": "фехтовать",
+      "fr": "clôture"
     },
     "examples": [],
     "meta": {},
@@ -42472,7 +44070,8 @@ const WORDS_NL_B1 = [
       "pt": "o reator",
       "ja": "原子炉",
       "zh": "反应堆",
-      "ru": "реактор"
+      "ru": "реактор",
+      "fr": "réacteur"
     },
     "examples": [],
     "meta": {},
@@ -42499,7 +44098,8 @@ const WORDS_NL_B1 = [
       "pt": "conseguir",
       "ja": "やり遂げる",
       "zh": "设法做到",
-      "ru": "справляться"
+      "ru": "справляться",
+      "fr": "gérer"
     },
     "examples": [],
     "meta": {},
@@ -42527,7 +44127,8 @@ const WORDS_NL_B1 = [
       "pt": "a cápsula",
       "ja": "カプセル",
       "zh": "胶囊",
-      "ru": "капсула"
+      "ru": "капсула",
+      "fr": "capsule"
     },
     "examples": [],
     "meta": {},
@@ -42554,7 +44155,8 @@ const WORDS_NL_B1 = [
       "pt": "estragar",
       "ja": "台無しにする",
       "zh": "破坏",
-      "ru": "портить"
+      "ru": "портить",
+      "fr": "gâcher"
     },
     "examples": [],
     "meta": {},
@@ -42582,7 +44184,8 @@ const WORDS_NL_B1 = [
       "pt": "o lago",
       "ja": "池",
       "zh": "池塘",
-      "ru": "пруд"
+      "ru": "пруд",
+      "fr": "étang"
     },
     "examples": [],
     "meta": {},
@@ -42609,7 +44212,8 @@ const WORDS_NL_B1 = [
       "pt": "o monitor",
       "ja": "モニター",
       "zh": "显示器",
-      "ru": "монитор"
+      "ru": "монитор",
+      "fr": "moniteur"
     },
     "examples": [],
     "meta": {},
@@ -42637,7 +44241,8 @@ const WORDS_NL_B1 = [
       "pt": "o Polo Norte",
       "ja": "北極",
       "zh": "北极",
-      "ru": "Северный полюс"
+      "ru": "Северный полюс",
+      "fr": "pôle Nord"
     },
     "examples": [],
     "meta": {},
@@ -42664,7 +44269,8 @@ const WORDS_NL_B1 = [
       "pt": "finito",
       "ja": "有限の",
       "zh": "有限的",
-      "ru": "конечный"
+      "ru": "конечный",
+      "fr": "fini"
     },
     "examples": [],
     "meta": {}
@@ -42689,7 +44295,8 @@ const WORDS_NL_B1 = [
       "pt": "o cristão",
       "ja": "キリスト教徒",
       "zh": "基督徒",
-      "ru": "христианин"
+      "ru": "христианин",
+      "fr": "chrétien"
     },
     "examples": [],
     "meta": {},
@@ -42715,7 +44322,8 @@ const WORDS_NL_B1 = [
       "pt": "o policarbonato",
       "ja": "ポリカーボネート",
       "zh": "聚碳酸酯",
-      "ru": "поликарбонат"
+      "ru": "поликарбонат",
+      "fr": "polycarbonate"
     },
     "examples": [],
     "meta": {},
@@ -42742,7 +44350,8 @@ const WORDS_NL_B1 = [
       "pt": "politicamente correto",
       "ja": "政治的に正しい",
       "zh": "政治正确",
-      "ru": "политкорректный"
+      "ru": "политкорректный",
+      "fr": "politiquement correct"
     },
     "examples": [],
     "meta": {}
@@ -42767,7 +44376,8 @@ const WORDS_NL_B1 = [
       "pt": "soltar",
       "ja": "ほどく",
       "zh": "松开",
-      "ru": "отвязать"
+      "ru": "отвязать",
+      "fr": "détacher"
     },
     "examples": [],
     "meta": {},
@@ -42795,7 +44405,8 @@ const WORDS_NL_B1 = [
       "pt": "estabelecido",
       "ja": "設立された",
       "zh": "成立的",
-      "ru": "основанный"
+      "ru": "основанный",
+      "fr": "établi"
     },
     "examples": [],
     "meta": {}
@@ -42819,7 +44430,8 @@ const WORDS_NL_B1 = [
       "pt": "o cúmplice",
       "ja": "共犯者",
       "zh": "同谋",
-      "ru": "сообщник"
+      "ru": "сообщник",
+      "fr": "complice"
     },
     "examples": [],
     "meta": {},
@@ -42845,7 +44457,8 @@ const WORDS_NL_B1 = [
       "pt": "a constante",
       "ja": "定数",
       "zh": "常数",
-      "ru": "константа"
+      "ru": "константа",
+      "fr": "constant"
     },
     "examples": [],
     "meta": {},
@@ -42872,7 +44485,8 @@ const WORDS_NL_B1 = [
       "pt": "o máximo",
       "ja": "最大",
       "zh": "最大值",
-      "ru": "максимум"
+      "ru": "максимум",
+      "fr": "maximum"
     },
     "examples": [],
     "meta": {},
@@ -42899,7 +44513,8 @@ const WORDS_NL_B1 = [
       "pt": "ansioso",
       "ja": "不安な",
       "zh": "焦虑的",
-      "ru": "тревожный"
+      "ru": "тревожный",
+      "fr": "anxieux"
     },
     "examples": [],
     "meta": {}
@@ -42923,7 +44538,8 @@ const WORDS_NL_B1 = [
       "pt": "granada",
       "ja": "ガーネットの",
       "zh": "石榴石的",
-      "ru": "гранатовый"
+      "ru": "гранатовый",
+      "fr": "grenat"
     },
     "examples": [],
     "meta": {}
@@ -42947,7 +44563,8 @@ const WORDS_NL_B1 = [
       "pt": "o dolly",
       "ja": "ドリー",
       "zh": "摄影车",
-      "ru": "тележка для камеры"
+      "ru": "тележка для камеры",
+      "fr": "chariot"
     },
     "examples": [],
     "meta": {},
@@ -42974,7 +44591,8 @@ const WORDS_NL_B1 = [
       "pt": "garantido",
       "ja": "保証された",
       "zh": "保证的",
-      "ru": "гарантированный"
+      "ru": "гарантированный",
+      "fr": "garanti"
     },
     "examples": [],
     "meta": {}
@@ -42999,7 +44617,8 @@ const WORDS_NL_B1 = [
       "pt": "idêntico",
       "ja": "同一の",
       "zh": "相同的",
-      "ru": "идентичный"
+      "ru": "идентичный",
+      "fr": "identique"
     },
     "examples": [],
     "meta": {}
@@ -43023,7 +44642,8 @@ const WORDS_NL_B1 = [
       "pt": "o xixi",
       "ja": "おしっこ",
       "zh": "尿",
-      "ru": "моча"
+      "ru": "моча",
+      "fr": "pipi"
     },
     "examples": [],
     "meta": {},
@@ -43050,7 +44670,8 @@ const WORDS_NL_B1 = [
       "pt": "o trabalhador",
       "ja": "労働者",
       "zh": "工人",
-      "ru": "работник"
+      "ru": "работник",
+      "fr": "travailleur"
     },
     "examples": [],
     "meta": {},
@@ -43076,7 +44697,8 @@ const WORDS_NL_B1 = [
       "pt": "o comboio",
       "ja": "護送船団",
       "zh": "护卫队",
-      "ru": "конвой"
+      "ru": "конвой",
+      "fr": "convoi"
     },
     "examples": [],
     "meta": {},
@@ -43103,7 +44725,8 @@ const WORDS_NL_B1 = [
       "pt": "estar preso",
       "ja": "閉じ込められる",
       "zh": "被困",
-      "ru": "застрять"
+      "ru": "застрять",
+      "fr": "coincé"
     },
     "examples": [],
     "meta": {},
@@ -43131,7 +44754,8 @@ const WORDS_NL_B1 = [
       "pt": "eliminar",
       "ja": "排除する",
       "zh": "消除",
-      "ru": "устранять"
+      "ru": "устранять",
+      "fr": "éliminer"
     },
     "examples": [],
     "meta": {},
@@ -43159,7 +44783,8 @@ const WORDS_NL_B1 = [
       "pt": "vazar",
       "ja": "漏れる",
       "zh": "泄漏",
-      "ru": "протекать"
+      "ru": "протекать",
+      "fr": "fuite"
     },
     "examples": [],
     "meta": {},
@@ -43187,7 +44812,8 @@ const WORDS_NL_B1 = [
       "pt": "em espera",
       "ja": "待機中の",
       "zh": "待命",
-      "ru": "в режиме ожидания"
+      "ru": "в режиме ожидания",
+      "fr": "veille"
     },
     "examples": [],
     "meta": {}
@@ -43212,7 +44838,8 @@ const WORDS_NL_B1 = [
       "pt": "o violino",
       "ja": "バイオリン",
       "zh": "小提琴",
-      "ru": "скрипка"
+      "ru": "скрипка",
+      "fr": "violon"
     },
     "examples": [],
     "meta": {},
@@ -43239,7 +44866,8 @@ const WORDS_NL_B1 = [
       "pt": "adicionado",
       "ja": "追加された",
       "zh": "添加的",
-      "ru": "добавленный"
+      "ru": "добавленный",
+      "fr": "ajouté"
     },
     "examples": [],
     "meta": {}
@@ -43264,7 +44892,8 @@ const WORDS_NL_B1 = [
       "pt": "a cola",
       "ja": "接着剤",
       "zh": "胶水",
-      "ru": "клей"
+      "ru": "клей",
+      "fr": "colle"
     },
     "examples": [],
     "meta": {},
@@ -43290,7 +44919,8 @@ const WORDS_NL_B1 = [
       "pt": "iluminado",
       "ja": "啓蒙された",
       "zh": "开明的",
-      "ru": "просвещенный"
+      "ru": "просвещенный",
+      "fr": "éclairé"
     },
     "examples": [],
     "meta": {}
@@ -43315,7 +44945,8 @@ const WORDS_NL_B1 = [
       "pt": "sentimental",
       "ja": "感傷的な",
       "zh": "感伤的",
-      "ru": "сентиментальный"
+      "ru": "сентиментальный",
+      "fr": "sentimental"
     },
     "examples": [],
     "meta": {}
@@ -43340,7 +44971,8 @@ const WORDS_NL_B1 = [
       "pt": "o impulso",
       "ja": "衝動",
       "zh": "冲动",
-      "ru": "порыв"
+      "ru": "порыв",
+      "fr": "envie"
     },
     "examples": [],
     "meta": {},
@@ -43367,7 +44999,8 @@ const WORDS_NL_B1 = [
       "pt": "a pobreza",
       "ja": "貧困",
       "zh": "贫困",
-      "ru": "бедность"
+      "ru": "бедность",
+      "fr": "pauvreté"
     },
     "examples": [],
     "meta": {},
@@ -43394,7 +45027,8 @@ const WORDS_NL_B1 = [
       "pt": "o abismo",
       "ja": "深淵",
       "zh": "深渊",
-      "ru": "бездна"
+      "ru": "бездна",
+      "fr": "abîme"
     },
     "examples": [],
     "meta": {},
@@ -43420,7 +45054,8 @@ const WORDS_NL_B1 = [
       "pt": "o veículo anfíbio",
       "ja": "水陸両用車",
       "zh": "水陆两用汽车",
-      "ru": "амфибия"
+      "ru": "амфибия",
+      "fr": "véhicule amphibie"
     },
     "examples": [],
     "meta": {},
@@ -43447,7 +45082,8 @@ const WORDS_NL_B1 = [
       "pt": "o guarda-chuva",
       "ja": "傘",
       "zh": "雨伞",
-      "ru": "зонт"
+      "ru": "зонт",
+      "fr": "parapluie"
     },
     "examples": [],
     "meta": {},
@@ -43473,7 +45109,8 @@ const WORDS_NL_B1 = [
       "pt": "o clique",
       "ja": "カチッという音",
       "zh": "咔嗒声",
-      "ru": "щелчок"
+      "ru": "щелчок",
+      "fr": "clic"
     },
     "examples": [],
     "meta": {},
@@ -43500,7 +45137,8 @@ const WORDS_NL_B1 = [
       "pt": "o santo",
       "ja": "聖人",
       "zh": "圣人",
-      "ru": "святой"
+      "ru": "святой",
+      "fr": "saint"
     },
     "examples": [],
     "meta": {},
@@ -43526,7 +45164,8 @@ const WORDS_NL_B1 = [
       "pt": "estourar",
       "ja": "破裂する",
       "zh": "砰",
-      "ru": "хлопать"
+      "ru": "хлопать",
+      "fr": "coup"
     },
     "examples": [],
     "meta": {},
@@ -43554,7 +45193,8 @@ const WORDS_NL_B1 = [
       "pt": "o cantor",
       "ja": "歌手",
       "zh": "歌手",
-      "ru": "певец"
+      "ru": "певец",
+      "fr": "chanteur"
     },
     "examples": [],
     "meta": {},
@@ -43580,7 +45220,8 @@ const WORDS_NL_B1 = [
       "pt": "maldito",
       "ja": "いまいましい",
       "zh": "该死的",
-      "ru": "чертовски"
+      "ru": "чертовски",
+      "fr": "confondu"
     },
     "examples": [],
     "meta": {}
@@ -43605,7 +45246,8 @@ const WORDS_NL_B1 = [
       "pt": "destacar-se",
       "ja": "目立つ",
       "zh": "突出",
-      "ru": "выделяться"
+      "ru": "выделяться",
+      "fr": "ressortir"
     },
     "examples": [],
     "meta": {},
@@ -43633,7 +45275,8 @@ const WORDS_NL_B1 = [
       "pt": "o lápis",
       "ja": "鉛筆",
       "zh": "铅笔",
-      "ru": "карандаш"
+      "ru": "карандаш",
+      "fr": "crayon"
     },
     "examples": [],
     "meta": {},
@@ -43660,7 +45303,8 @@ const WORDS_NL_B1 = [
       "pt": "ensinar",
       "ja": "教える",
       "zh": "教学",
-      "ru": "преподавать"
+      "ru": "преподавать",
+      "fr": "enseigner"
     },
     "examples": [],
     "meta": {},
@@ -43687,7 +45331,8 @@ const WORDS_NL_B1 = [
       "pt": "o Hércules",
       "ja": "怪力男",
       "zh": "大力士",
-      "ru": "силач"
+      "ru": "силач",
+      "fr": "homme fort"
     },
     "examples": [],
     "meta": {},
@@ -43713,7 +45358,8 @@ const WORDS_NL_B1 = [
       "pt": "a armadura",
       "ja": "甲冑",
       "zh": "盔甲",
-      "ru": "доспехи"
+      "ru": "доспехи",
+      "fr": "armure"
     },
     "examples": [],
     "meta": {},
@@ -43740,7 +45386,8 @@ const WORDS_NL_B1 = [
       "pt": "imune",
       "ja": "免疫の",
       "zh": "免疫的",
-      "ru": "иммунный"
+      "ru": "иммунный",
+      "fr": "immunisé"
     },
     "examples": [],
     "meta": {}
@@ -43764,7 +45411,8 @@ const WORDS_NL_B1 = [
       "pt": "cunhado",
       "ja": "鋳造された",
       "zh": "铸造的",
-      "ru": "чеканный"
+      "ru": "чеканный",
+      "fr": "inventé"
     },
     "examples": [],
     "meta": {}
@@ -43789,7 +45437,8 @@ const WORDS_NL_B1 = [
       "pt": "o drone",
       "ja": "ドローン",
       "zh": "无人机",
-      "ru": "дрон"
+      "ru": "дрон",
+      "fr": "drone"
     },
     "examples": [],
     "meta": {},
@@ -43815,7 +45464,8 @@ const WORDS_NL_B1 = [
       "pt": "público",
       "ja": "公開の",
       "zh": "公开的",
-      "ru": "публичный"
+      "ru": "публичный",
+      "fr": "public"
     },
     "examples": [],
     "meta": {}
@@ -43840,7 +45490,8 @@ const WORDS_NL_B1 = [
       "pt": "o impacto",
       "ja": "影響",
       "zh": "影响",
-      "ru": "влияние"
+      "ru": "влияние",
+      "fr": "impact"
     },
     "examples": [],
     "meta": {},
@@ -43867,7 +45518,8 @@ const WORDS_NL_B1 = [
       "pt": "especializado",
       "ja": "専門化された",
       "zh": "专业的",
-      "ru": "специализированный"
+      "ru": "специализированный",
+      "fr": "spécialisé"
     },
     "examples": [],
     "meta": {}
@@ -43892,7 +45544,8 @@ const WORDS_NL_B1 = [
       "pt": "entrevistar",
       "ja": "インタビューする",
       "zh": "采访",
-      "ru": "брать интервью"
+      "ru": "брать интервью",
+      "fr": "entretien"
     },
     "examples": [],
     "meta": {},
@@ -43919,7 +45572,8 @@ const WORDS_NL_B1 = [
       "pt": "o xerife adjunto",
       "ja": "保安官代理",
       "zh": "副警长",
-      "ru": "помощник шерифа"
+      "ru": "помощник шерифа",
+      "fr": "shérif adjoint"
     },
     "examples": [],
     "meta": {},
@@ -43946,7 +45600,8 @@ const WORDS_NL_B1 = [
       "pt": "o troco",
       "ja": "小銭",
       "zh": "零钱",
-      "ru": "мелочь"
+      "ru": "мелочь",
+      "fr": "monnaie"
     },
     "examples": [],
     "meta": {},
@@ -43973,7 +45628,8 @@ const WORDS_NL_B1 = [
       "pt": "mostrar",
       "ja": "見せる",
       "zh": "展示",
-      "ru": "показывать"
+      "ru": "показывать",
+      "fr": "spectacle"
     },
     "examples": [],
     "meta": {},
@@ -44000,7 +45656,8 @@ const WORDS_NL_B1 = [
       "pt": "o ketch",
       "ja": "ケッチ",
       "zh": "双桅帆船",
-      "ru": "кеч"
+      "ru": "кеч",
+      "fr": "ketch"
     },
     "examples": [],
     "meta": {},
@@ -44027,7 +45684,8 @@ const WORDS_NL_B1 = [
       "pt": "bom",
       "ja": "良い",
       "zh": "好的",
-      "ru": "хорошо"
+      "ru": "хорошо",
+      "fr": "amende"
     },
     "examples": [],
     "meta": {}
@@ -44052,7 +45710,8 @@ const WORDS_NL_B1 = [
       "pt": "o isqueiro",
       "ja": "ライター",
       "zh": "打火机",
-      "ru": "зажигалка"
+      "ru": "зажигалка",
+      "fr": "briquet"
     },
     "examples": [],
     "meta": {},
@@ -44079,7 +45738,8 @@ const WORDS_NL_B1 = [
       "pt": "valorizado",
       "ja": "評価される",
       "zh": "受重视的",
-      "ru": "ценимый"
+      "ru": "ценимый",
+      "fr": "estimé"
     },
     "examples": [],
     "meta": {}
@@ -44103,7 +45763,8 @@ const WORDS_NL_B1 = [
       "pt": "o estibordo",
       "ja": "右舷",
       "zh": "右舷",
-      "ru": "правый борт"
+      "ru": "правый борт",
+      "fr": "tribord"
     },
     "examples": [],
     "meta": {},
@@ -44130,7 +45791,8 @@ const WORDS_NL_B1 = [
       "pt": "invertido",
       "ja": "逆の",
       "zh": "颠倒的",
-      "ru": "перевернутый"
+      "ru": "перевернутый",
+      "fr": "inversé"
     },
     "examples": [],
     "meta": {}
@@ -44155,7 +45817,8 @@ const WORDS_NL_B1 = [
       "pt": "assustador",
       "ja": "気味悪い",
       "zh": "令人毛骨悚然的",
-      "ru": "жуткий"
+      "ru": "жуткий",
+      "fr": "effrayant"
     },
     "examples": [],
     "meta": {}
@@ -44180,7 +45843,8 @@ const WORDS_NL_B1 = [
       "pt": "a deslealdade",
       "ja": "不貞",
       "zh": "不忠",
-      "ru": "неверность"
+      "ru": "неверность",
+      "fr": "déloyauté"
     },
     "examples": [],
     "meta": {},
@@ -44207,7 +45871,8 @@ const WORDS_NL_B1 = [
       "pt": "desleal",
       "ja": "不誠実な",
       "zh": "不忠诚的",
-      "ru": "неверный"
+      "ru": "неверный",
+      "fr": "déloyal"
     },
     "examples": [],
     "meta": {}
@@ -44232,7 +45897,8 @@ const WORDS_NL_B1 = [
       "pt": "inalar",
       "ja": "吸い込む",
       "zh": "吸入",
-      "ru": "вдыхать"
+      "ru": "вдыхать",
+      "fr": "inhaler"
     },
     "examples": [],
     "meta": {},
@@ -44260,7 +45926,8 @@ const WORDS_NL_B1 = [
       "pt": "funcionar",
       "ja": "機能する",
       "zh": "运作",
-      "ru": "функционировать"
+      "ru": "функционировать",
+      "fr": "fonction"
     },
     "examples": [],
     "meta": {},
@@ -44288,7 +45955,8 @@ const WORDS_NL_B1 = [
       "pt": "o esgoto",
       "ja": "下水道",
       "zh": "下水道",
-      "ru": "канализация"
+      "ru": "канализация",
+      "fr": "égout"
     },
     "examples": [],
     "meta": {},
@@ -44315,7 +45983,8 @@ const WORDS_NL_B1 = [
       "pt": "prejudicar",
       "ja": "害する",
       "zh": "损害",
-      "ru": "вредить"
+      "ru": "вредить",
+      "fr": "nuire"
     },
     "examples": [],
     "meta": {},
@@ -44343,7 +46012,8 @@ const WORDS_NL_B1 = [
       "pt": "a imagem",
       "ja": "イメージ",
       "zh": "形象",
-      "ru": "имидж"
+      "ru": "имидж",
+      "fr": "image"
     },
     "examples": [],
     "meta": {},
@@ -44370,7 +46040,8 @@ const WORDS_NL_B1 = [
       "pt": "a plataforma",
       "ja": "壇",
       "zh": "平台",
-      "ru": "платформа"
+      "ru": "платформа",
+      "fr": "plateforme"
     },
     "examples": [],
     "meta": {},
@@ -44397,7 +46068,8 @@ const WORDS_NL_B1 = [
       "pt": "apressado",
       "ja": "慌ただしい",
       "zh": "匆忙的",
-      "ru": "торопливый"
+      "ru": "торопливый",
+      "fr": "pressé"
     },
     "examples": [],
     "meta": {}
@@ -44422,7 +46094,8 @@ const WORDS_NL_B1 = [
       "pt": "o atum",
       "ja": "マグロ",
       "zh": "金枪鱼",
-      "ru": "тунец"
+      "ru": "тунец",
+      "fr": "thon"
     },
     "examples": [],
     "meta": {},
@@ -44449,7 +46122,8 @@ const WORDS_NL_B1 = [
       "pt": "o nível",
       "ja": "レベル",
       "zh": "水平",
-      "ru": "уровень"
+      "ru": "уровень",
+      "fr": "niveau"
     },
     "examples": [],
     "meta": {},
@@ -44476,7 +46150,8 @@ const WORDS_NL_B1 = [
       "pt": "superficial",
       "ja": "表面的な",
       "zh": "肤浅的",
-      "ru": "поверхностный"
+      "ru": "поверхностный",
+      "fr": "superficiel"
     },
     "examples": [],
     "meta": {}
@@ -44501,7 +46176,8 @@ const WORDS_NL_B1 = [
       "pt": "o pente",
       "ja": "櫛",
       "zh": "梳子",
-      "ru": "расческа"
+      "ru": "расческа",
+      "fr": "peigne"
     },
     "examples": [],
     "meta": {},
@@ -44527,7 +46203,8 @@ const WORDS_NL_B1 = [
       "pt": "o fugitivo",
       "ja": "逃亡者",
       "zh": "逃犯",
-      "ru": "беглец"
+      "ru": "беглец",
+      "fr": "fugitif"
     },
     "examples": [],
     "meta": {},
@@ -44554,7 +46231,8 @@ const WORDS_NL_B1 = [
       "pt": "o sucessor",
       "ja": "後継者",
       "zh": "继任者",
-      "ru": "преемник"
+      "ru": "преемник",
+      "fr": "successeur"
     },
     "examples": [],
     "meta": {},
@@ -44580,7 +46258,8 @@ const WORDS_NL_B1 = [
       "pt": "o patrocinador",
       "ja": "スポンサー",
       "zh": "赞助商",
-      "ru": "спонсор"
+      "ru": "спонсор",
+      "fr": "sponsor"
     },
     "examples": [],
     "meta": {},
@@ -44607,7 +46286,8 @@ const WORDS_NL_B1 = [
       "pt": "estressado",
       "ja": "ストレスを感じる",
       "zh": "感到压力的",
-      "ru": "напряженный"
+      "ru": "напряженный",
+      "fr": "stressé"
     },
     "examples": [],
     "meta": {}
@@ -44632,7 +46312,8 @@ const WORDS_NL_B1 = [
       "pt": "isolado",
       "ja": "孤立した",
       "zh": "孤立的",
-      "ru": "изолированный"
+      "ru": "изолированный",
+      "fr": "isolé"
     },
     "examples": [],
     "meta": {}
@@ -44657,7 +46338,8 @@ const WORDS_NL_B1 = [
       "pt": "o fax",
       "ja": "ファックス",
       "zh": "传真",
-      "ru": "факс"
+      "ru": "факс",
+      "fr": "fax"
     },
     "examples": [],
     "meta": {},
@@ -44684,7 +46366,8 @@ const WORDS_NL_B1 = [
       "pt": "publicado",
       "ja": "出版された",
       "zh": "已出版的",
-      "ru": "опубликованный"
+      "ru": "опубликованный",
+      "fr": "publié"
     },
     "examples": [],
     "meta": {}
@@ -44709,7 +46392,8 @@ const WORDS_NL_B1 = [
       "pt": "a cabine telefônica",
       "ja": "電話ボックス",
       "zh": "电话亭",
-      "ru": "телефонная будка"
+      "ru": "телефонная будка",
+      "fr": "cabine téléphonique"
     },
     "examples": [],
     "meta": {},
@@ -44736,7 +46420,8 @@ const WORDS_NL_B1 = [
       "pt": "o trabalhador",
       "ja": "労働者",
       "zh": "工人",
-      "ru": "рабочий"
+      "ru": "рабочий",
+      "fr": "travailleur"
     },
     "examples": [],
     "meta": {},
@@ -44763,7 +46448,8 @@ const WORDS_NL_B1 = [
       "pt": "ameaçar",
       "ja": "脅す",
       "zh": "威胁",
-      "ru": "угрожать"
+      "ru": "угрожать",
+      "fr": "menacer"
     },
     "examples": [],
     "meta": {},
@@ -44791,7 +46477,8 @@ const WORDS_NL_B1 = [
       "pt": "o donut",
       "ja": "ドーナツ",
       "zh": "甜甜圈",
-      "ru": "пончик"
+      "ru": "пончик",
+      "fr": "beignet"
     },
     "examples": [],
     "meta": {},
@@ -44818,7 +46505,8 @@ const WORDS_NL_B1 = [
       "pt": "enxaguar",
       "ja": "すすぐ",
       "zh": "冲洗",
-      "ru": "полоскать"
+      "ru": "полоскать",
+      "fr": "rincer"
     },
     "examples": [],
     "meta": {},
@@ -44846,7 +46534,8 @@ const WORDS_NL_B1 = [
       "pt": "concentrado",
       "ja": "濃縮された",
       "zh": "浓缩的",
-      "ru": "концентрированный"
+      "ru": "концентрированный",
+      "fr": "concentré"
     },
     "examples": [],
     "meta": {}
@@ -44871,7 +46560,8 @@ const WORDS_NL_B1 = [
       "pt": "escandaloso",
       "ja": "スキャンダラスな",
       "zh": "可耻的",
-      "ru": "скандальный"
+      "ru": "скандальный",
+      "fr": "scandaleux"
     },
     "examples": [],
     "meta": {}
@@ -44896,7 +46586,8 @@ const WORDS_NL_B1 = [
       "pt": "médio",
       "ja": "平均の",
       "zh": "平均的",
-      "ru": "средний"
+      "ru": "средний",
+      "fr": "moyen"
     },
     "examples": [],
     "meta": {}
@@ -44921,7 +46612,8 @@ const WORDS_NL_B1 = [
       "pt": "o brinquedo",
       "ja": "おもちゃ",
       "zh": "玩具",
-      "ru": "игрушка"
+      "ru": "игрушка",
+      "fr": "jouet"
     },
     "examples": [],
     "meta": {},
@@ -44948,7 +46640,8 @@ const WORDS_NL_B1 = [
       "pt": "morrer de fome",
       "ja": "飢える",
       "zh": "挨饿",
-      "ru": "голодать"
+      "ru": "голодать",
+      "fr": "affamer"
     },
     "examples": [],
     "meta": {},
@@ -44976,7 +46669,8 @@ const WORDS_NL_B1 = [
       "pt": "insuficiente",
       "ja": "不十分な",
       "zh": "不足的",
-      "ru": "недостаточный"
+      "ru": "недостаточный",
+      "fr": "insuffisant"
     },
     "examples": [],
     "meta": {}
@@ -45001,7 +46695,8 @@ const WORDS_NL_B1 = [
       "pt": "capaz",
       "ja": "有能な",
       "zh": "有能力的",
-      "ru": "способный"
+      "ru": "способный",
+      "fr": "capable"
     },
     "examples": [],
     "meta": {}
@@ -45025,7 +46720,8 @@ const WORDS_NL_B1 = [
       "pt": "a caixa de dinheiro",
       "ja": "募金箱",
       "zh": "钱箱",
-      "ru": "денежный ящик"
+      "ru": "денежный ящик",
+      "fr": "tirelire"
     },
     "examples": [],
     "meta": {},
@@ -45052,7 +46748,8 @@ const WORDS_NL_B1 = [
       "pt": "respeitado",
       "ja": "尊敬される",
       "zh": "受尊敬的",
-      "ru": "уважаемый"
+      "ru": "уважаемый",
+      "fr": "respecté"
     },
     "examples": [],
     "meta": {}
@@ -45077,7 +46774,8 @@ const WORDS_NL_B1 = [
       "pt": "a boate",
       "ja": "ナイトクラブ",
       "zh": "夜总会",
-      "ru": "ночной клуб"
+      "ru": "ночной клуб",
+      "fr": "discothèque"
     },
     "examples": [],
     "meta": {},
@@ -45104,7 +46802,8 @@ const WORDS_NL_B1 = [
       "pt": "tirar",
       "ja": "持ち去る",
       "zh": "拿走",
-      "ru": "убирать"
+      "ru": "убирать",
+      "fr": "emporter"
     },
     "examples": [],
     "meta": {},
@@ -45132,7 +46831,8 @@ const WORDS_NL_B1 = [
       "pt": "o quadril",
       "ja": "腰",
       "zh": "臀部",
-      "ru": "бедро"
+      "ru": "бедро",
+      "fr": "hanche"
     },
     "examples": [],
     "meta": {},
@@ -45159,7 +46859,8 @@ const WORDS_NL_B1 = [
       "pt": "lidar",
       "ja": "対処する",
       "zh": "应付",
-      "ru": "справляться"
+      "ru": "справляться",
+      "fr": "manier"
     },
     "examples": [],
     "meta": {},
@@ -45187,7 +46888,8 @@ const WORDS_NL_B1 = [
       "pt": "agarrar",
       "ja": "掴む",
       "zh": "抓住",
-      "ru": "хватать"
+      "ru": "хватать",
+      "fr": "saisir"
     },
     "examples": [],
     "meta": {},
@@ -45215,7 +46917,8 @@ const WORDS_NL_B1 = [
       "pt": "elaborado",
       "ja": "詳しく説明された",
       "zh": "详细阐述的",
-      "ru": "разработанный"
+      "ru": "разработанный",
+      "fr": "élaboré"
     },
     "examples": [],
     "meta": {}
@@ -45240,7 +46943,8 @@ const WORDS_NL_B1 = [
       "pt": "o circuito",
       "ja": "回路",
       "zh": "电路",
-      "ru": "цепь"
+      "ru": "цепь",
+      "fr": "circuit"
     },
     "examples": [],
     "meta": {},
@@ -45267,7 +46971,8 @@ const WORDS_NL_B1 = [
       "pt": "o lema",
       "ja": "モットー",
       "zh": "座右铭",
-      "ru": "девиз"
+      "ru": "девиз",
+      "fr": "devise"
     },
     "examples": [],
     "meta": {},
@@ -45294,7 +46999,8 @@ const WORDS_NL_B1 = [
       "pt": "a estátua",
       "ja": "像",
       "zh": "雕像",
-      "ru": "статуя"
+      "ru": "статуя",
+      "fr": "statue"
     },
     "examples": [],
     "meta": {},
@@ -45321,7 +47027,8 @@ const WORDS_NL_B1 = [
       "pt": "o calendário",
       "ja": "カレンダー",
       "zh": "日历",
-      "ru": "календарь"
+      "ru": "календарь",
+      "fr": "calendrier"
     },
     "examples": [],
     "meta": {},
@@ -45348,7 +47055,8 @@ const WORDS_NL_B1 = [
       "pt": "o dedo mínimo",
       "ja": "小指",
       "zh": "小指",
-      "ru": "мизинец"
+      "ru": "мизинец",
+      "fr": "auriculaire"
     },
     "examples": [],
     "meta": {},
@@ -45375,7 +47083,8 @@ const WORDS_NL_B1 = [
       "pt": "a âncora",
       "ja": "錨",
       "zh": "锚",
-      "ru": "якорь"
+      "ru": "якорь",
+      "fr": "ancre"
     },
     "examples": [],
     "meta": {},
@@ -45402,7 +47111,8 @@ const WORDS_NL_B1 = [
       "pt": "rabugento",
       "ja": "不機嫌な",
       "zh": "脾气暴躁的",
-      "ru": "сварливый"
+      "ru": "сварливый",
+      "fr": "grincheux"
     },
     "examples": [],
     "meta": {}
@@ -45427,7 +47137,8 @@ const WORDS_NL_B1 = [
       "pt": "sussurrar",
       "ja": "ささやく",
       "zh": "耳语",
-      "ru": "шептать"
+      "ru": "шептать",
+      "fr": "chuchoter"
     },
     "examples": [],
     "meta": {},
@@ -45455,7 +47166,8 @@ const WORDS_NL_B1 = [
       "pt": "enrolar",
       "ja": "巻く",
       "zh": "缠绕",
-      "ru": "наматывать"
+      "ru": "наматывать",
+      "fr": "enrouler"
     },
     "examples": [],
     "meta": {},
@@ -45483,7 +47195,8 @@ const WORDS_NL_B1 = [
       "pt": "espontâneo",
       "ja": "自発的な",
       "zh": "自发的",
-      "ru": "спонтанный"
+      "ru": "спонтанный",
+      "fr": "spontané"
     },
     "examples": [],
     "meta": {}
@@ -45508,7 +47221,8 @@ const WORDS_NL_B1 = [
       "pt": "o ponteiro",
       "ja": "針",
       "zh": "指针",
-      "ru": "стрелка"
+      "ru": "стрелка",
+      "fr": "pointeur"
     },
     "examples": [],
     "meta": {},
@@ -45535,7 +47249,8 @@ const WORDS_NL_B1 = [
       "pt": "extinto",
       "ja": "絶滅した",
       "zh": "灭绝的",
-      "ru": "вымерший"
+      "ru": "вымерший",
+      "fr": "éteint"
     },
     "examples": [],
     "meta": {}
@@ -45560,7 +47275,8 @@ const WORDS_NL_B1 = [
       "pt": "o muçulmano",
       "ja": "イスラム教徒",
       "zh": "穆斯林",
-      "ru": "мусульманин"
+      "ru": "мусульманин",
+      "fr": "musulman"
     },
     "examples": [],
     "meta": {},
@@ -45586,7 +47302,8 @@ const WORDS_NL_B1 = [
       "pt": "tagarelar",
       "ja": "くだらないことを言う",
       "zh": "胡说",
-      "ru": "болтать"
+      "ru": "болтать",
+      "fr": "babiller"
     },
     "examples": [],
     "meta": {},
@@ -45614,7 +47331,8 @@ const WORDS_NL_B1 = [
       "pt": "a nuca",
       "ja": "後頭部",
       "zh": "后脑勺",
-      "ru": "затылок"
+      "ru": "затылок",
+      "fr": "nuque"
     },
     "examples": [],
     "meta": {},
@@ -45641,7 +47359,8 @@ const WORDS_NL_B1 = [
       "pt": "impotente",
       "ja": "無力な",
       "zh": "无力的",
-      "ru": "бессильный"
+      "ru": "бессильный",
+      "fr": "impuissant"
     },
     "examples": [],
     "meta": {}
@@ -45666,7 +47385,8 @@ const WORDS_NL_B1 = [
       "pt": "o luto",
       "ja": "喪",
       "zh": "哀悼",
-      "ru": "траур"
+      "ru": "траур",
+      "fr": "deuil"
     },
     "examples": [],
     "meta": {},
@@ -45693,7 +47413,8 @@ const WORDS_NL_B1 = [
       "pt": "áspero",
       "ja": "粗い",
       "zh": "粗糙的",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "rugueux"
     },
     "examples": [],
     "meta": {}
@@ -45718,7 +47439,8 @@ const WORDS_NL_B1 = [
       "pt": "mortal",
       "ja": "死のような",
       "zh": "死亡般的",
-      "ru": "смертельный"
+      "ru": "смертельный",
+      "fr": "mortel"
     },
     "examples": [],
     "meta": {}
@@ -45743,7 +47465,8 @@ const WORDS_NL_B1 = [
       "pt": "o código Morse",
       "ja": "モールス信号",
       "zh": "摩尔斯电码",
-      "ru": "азбука Морзе"
+      "ru": "азбука Морзе",
+      "fr": "code Morse"
     },
     "examples": [],
     "meta": {},
@@ -45770,7 +47493,8 @@ const WORDS_NL_B1 = [
       "pt": "ambicioso",
       "ja": "野心的な",
       "zh": "有抱负的",
-      "ru": "амбициозный"
+      "ru": "амбициозный",
+      "fr": "ambitieux"
     },
     "examples": [],
     "meta": {}
@@ -45795,7 +47519,8 @@ const WORDS_NL_B1 = [
       "pt": "o hipócrita",
       "ja": "偽善者",
       "zh": "伪君子",
-      "ru": "лицемер"
+      "ru": "лицемер",
+      "fr": "hypocrite"
     },
     "examples": [],
     "meta": {},
@@ -45822,7 +47547,8 @@ const WORDS_NL_B1 = [
       "pt": "hipócrita",
       "ja": "偽善的な",
       "zh": "虚伪的",
-      "ru": "лицемерный"
+      "ru": "лицемерный",
+      "fr": "hypocrite"
     },
     "examples": [],
     "meta": {}
@@ -45847,7 +47573,8 @@ const WORDS_NL_B1 = [
       "pt": "inspirado",
       "ja": "触発された",
       "zh": "受启发的",
-      "ru": "вдохновленный"
+      "ru": "вдохновленный",
+      "fr": "inspiré"
     },
     "examples": [],
     "meta": {}
@@ -45872,7 +47599,8 @@ const WORDS_NL_B1 = [
       "pt": "do primeiro ano",
       "ja": "1年生の",
       "zh": "一年级的",
-      "ru": "первого курса"
+      "ru": "первого курса",
+      "fr": "première année"
     },
     "examples": [],
     "meta": {}
@@ -45897,7 +47625,8 @@ const WORDS_NL_B1 = [
       "pt": "central",
       "ja": "中央の",
       "zh": "中央的",
-      "ru": "центральный"
+      "ru": "центральный",
+      "fr": "central"
     },
     "examples": [],
     "meta": {}
@@ -45922,7 +47651,8 @@ const WORDS_NL_B1 = [
       "pt": "a decência",
       "ja": "品位",
       "zh": "礼仪",
-      "ru": "приличие"
+      "ru": "приличие",
+      "fr": "décence"
     },
     "examples": [],
     "meta": {},
@@ -45949,7 +47679,8 @@ const WORDS_NL_B1 = [
       "pt": "vestido",
       "ja": "服を着た",
       "zh": "穿着衣服的",
-      "ru": "одетый"
+      "ru": "одетый",
+      "fr": "habillé"
     },
     "examples": [],
     "meta": {}
@@ -45973,7 +47704,8 @@ const WORDS_NL_B1 = [
       "pt": "destruir",
       "ja": "破壊する",
       "zh": "破坏",
-      "ru": "разрушать"
+      "ru": "разрушать",
+      "fr": "détruire"
     },
     "examples": [],
     "meta": {},
@@ -46000,7 +47732,8 @@ const WORDS_NL_B1 = [
       "pt": "experimentar",
       "ja": "試す",
       "zh": "试用",
-      "ru": "пробовать"
+      "ru": "пробовать",
+      "fr": "essayer"
     },
     "examples": [],
     "meta": {},
@@ -46027,7 +47760,8 @@ const WORDS_NL_B1 = [
       "pt": "o selo",
       "ja": "封印",
       "zh": "封条",
-      "ru": "печать"
+      "ru": "печать",
+      "fr": "sceau"
     },
     "examples": [],
     "meta": {},
@@ -46053,7 +47787,8 @@ const WORDS_NL_B1 = [
       "pt": "a corrida",
       "ja": "殺到",
       "zh": "蜂拥",
-      "ru": "спешка"
+      "ru": "спешка",
+      "fr": "se précipiter"
     },
     "examples": [],
     "meta": {},
@@ -46080,7 +47815,8 @@ const WORDS_NL_B1 = [
       "pt": "praticar esporte",
       "ja": "スポーツをする",
       "zh": "运动",
-      "ru": "заниматься спортом"
+      "ru": "заниматься спортом",
+      "fr": "faire du sport"
     },
     "examples": [],
     "meta": {},
@@ -46108,7 +47844,8 @@ const WORDS_NL_B1 = [
       "pt": "descrever",
       "ja": "記述する",
       "zh": "描述",
-      "ru": "описывать"
+      "ru": "описывать",
+      "fr": "décrire"
     },
     "examples": [],
     "meta": {},
@@ -46135,7 +47872,8 @@ const WORDS_NL_B1 = [
       "pt": "o duelo",
       "ja": "決闘",
       "zh": "决斗",
-      "ru": "дуэль"
+      "ru": "дуэль",
+      "fr": "duel"
     },
     "examples": [],
     "meta": {},
@@ -46162,7 +47900,8 @@ const WORDS_NL_B1 = [
       "pt": "o correio",
       "ja": "郵便局",
       "zh": "邮局",
-      "ru": "почта"
+      "ru": "почта",
+      "fr": "poste"
     },
     "examples": [],
     "meta": {},
@@ -46188,7 +47927,8 @@ const WORDS_NL_B1 = [
       "pt": "o rebelde",
       "ja": "反逆者",
       "zh": "反叛者",
-      "ru": "повстанец"
+      "ru": "повстанец",
+      "fr": "rebelle"
     },
     "examples": [],
     "meta": {},
@@ -46214,7 +47954,8 @@ const WORDS_NL_B1 = [
       "pt": "chocante",
       "ja": "衝撃的な",
       "zh": "令人震惊的",
-      "ru": "шокирующий"
+      "ru": "шокирующий",
+      "fr": "choquant"
     },
     "examples": [],
     "meta": {}
@@ -46238,7 +47979,8 @@ const WORDS_NL_B1 = [
       "pt": "desconfiado",
       "ja": "疑り深い",
       "zh": "多疑的",
-      "ru": "подозрительный"
+      "ru": "подозрительный",
+      "fr": "suspect"
     },
     "examples": [],
     "meta": {}
@@ -46263,7 +48005,8 @@ const WORDS_NL_B1 = [
       "pt": "continuar",
       "ja": "続ける",
       "zh": "继续",
-      "ru": "продолжать"
+      "ru": "продолжать",
+      "fr": "continuer"
     },
     "examples": [],
     "meta": {},
@@ -46291,7 +48034,8 @@ const WORDS_NL_B1 = [
       "pt": "expandir",
       "ja": "拡大する",
       "zh": "扩大",
-      "ru": "расширять"
+      "ru": "расширять",
+      "fr": "étendre"
     },
     "examples": [],
     "meta": {},
@@ -46318,7 +48062,8 @@ const WORDS_NL_B1 = [
       "pt": "esgueirar-se",
       "ja": "こっそり歩く",
       "zh": "潜行",
-      "ru": "красться"
+      "ru": "красться",
+      "fr": "faufiler"
     },
     "examples": [],
     "meta": {},
@@ -46345,7 +48090,8 @@ const WORDS_NL_B1 = [
       "pt": "elegante",
       "ja": "優雅な",
       "zh": "优雅的",
-      "ru": "элегантный"
+      "ru": "элегантный",
+      "fr": "élégant"
     },
     "examples": [],
     "meta": {}

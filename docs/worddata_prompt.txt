@@ -53,19 +53,20 @@ FINAL v1.3.2
   id: "bank_nf_1",
   lemma: "Bank",
   pos: "Nomen",
-  gender: "die",
+  article: "die",
+  gender: "feminine",
   plural: "Banken",
   cefr: "A1",
   tags: ["exam", "finance"],
   conj: { /* Verb일 때만, 없으면 필드 자체 생략 */ },
   meanings: {
-    de: "Bank",   // 항상 lemma와 동일
+    de: "die Bank",
     ko: "은행",
     en: "bank",
-    es: "banco",
-    fr: "banque",
-    it: "banca",
-    pt: "banco",
+    es: "el banco",
+    fr: "la banque",
+    it: "la banca",
+    pt: "o banco",
     ja: "銀行",
     zh: "银行",
     ru: "банк"
@@ -85,12 +86,23 @@ FINAL v1.3.2
 	•	meta : 항상 포함, 기본값 {}
 
 2.2 선택 필드
-	•	gender : 명사일 때만 "der" | "die" | "das"
+	•	article : 학습언어 명사의 정답 표시/입력에 사용되는 기본 관사
+	•	de: "der" | "die" | "das"
+	•	es: "el" | "la" | "los" | "las"
+	•	fr: "le" | "la" | "l'" | "les"
+	•	it: "il" | "lo" | "la" | "l'" | "i" | "gli" | "le"
+	•	pt: "o" | "a" | "os" | "as"
+	•	gender : 명사일 때 문법 성
+	•	"masculine" | "feminine" | "neuter" | "common"
+	•	성 구분이 불필요하거나 불명확하면 생략
 	•	plural : 명사 복수형 (없으면 필드 생략)
 	•	conj : 동사 활용 (Verb일 때만, 2.3 참고)
 
 규칙:
 	•	선택 필드는 빈 문자열(””) 금지 → 값이 없으면 필드 자체를 제거한다.
+	•	pos가 Nomen이고 학습언어가 관사/성별 체계를 가지면 article은 필수에 가깝게 채운다.
+	•	gender는 확인 가능한 경우 채우며, 불확실하면 생략한다.
+	•	article을 추측으로 만들지 않는다.
 
 2.3 conj 구조 (Verb 전용)
 
@@ -152,16 +164,16 @@ conj: {
 5. meanings 규칙 (LOCK, 매우 중요)
 
 meanings: {
-  de: "Haus",
-  ko: "집",
-  en: "house",
-  es: "casa",
-  fr: "maison",
-  it: "casa",
-  pt: "casa",
-  ja: "家",
-  zh: "房子",
-  ru: "дом"
+  de: "die Bank",
+  ko: "은행",
+  en: "bank",
+  es: "el banco",
+  fr: "la banque",
+  it: "la banca",
+  pt: "o banco",
+  ja: "銀行",
+  zh: "银行",
+  ru: "банк"
 }
 
 규칙:
@@ -174,13 +186,19 @@ meanings: {
 	•	meanings.de === lemma
 	•	독일어 정의/동의어/설명/괄호 표현 금지
 
-	3.	de를 제외한 나머지 9개 언어(ko/en/es/fr/it/pt/ja/zh/ru)는 모두 번역어 “뜻 한 줄”만 넣는다.
+	3.	de를 제외한 나머지 9개 언어(ko/en/es/fr/it/pt/ja/zh/ru)는 모두 UI용 “뜻 한 줄”만 넣는다.
 
-	•	설명/괄호/예문/문법 노트 금지
-	•	❌ “은행(돈을 맡기는 곳)”
-	•	✅ “은행”
+	•	설명/괄호 태그((m), (f), (v), 품사표기)/예문/문법 노트 금지
+	•	❌ “은행(돈을 맡기는 곳)”, “former (v)”, “chapeau (m)”
+	•	✅ “은행”, “former”, “chapeau”
 
-	4.	영어 동사(en) 의미 규칙:
+	4.	관사 언어(de/es/fr/it/pt) 표기 규칙:
+
+	•	native UI 자연성을 위해 meanings에 관사 포함 허용
+	•	예: "die Prüfung", "el examen", "l'examen", "la dichiarazione", "a declaração"
+	•	단, 내부 비교/검색/QC에서는 관사 제거 정규화값으로 비교한다.
+
+	5.	영어 동사(en) 의미 규칙:
 
 	•	항상 원형(base form)만 사용
 	•	❌ “to go”, “goes”, “went”, “is”, “are”

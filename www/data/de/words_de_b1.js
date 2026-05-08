@@ -3683,7 +3683,7 @@ const WORDS_DE_B1 = [
       "ko": "취소되다, 빠지다, 고장나다",
       "en": "be cancelled, fail, turn out",
       "es": "suspenderse, fallar, resultar",
-      "fr": "être annulé, tomber (cheveux/dents), tomber en panne",
+      "fr": "être annulé, tomber (cheveux",
       "it": "essere cancellato, cadere, guastarsi",
       "pt": "ser cancelado, falhar, cair",
       "ja": "中止になる, 抜ける, 故障する",
@@ -4032,7 +4032,7 @@ const WORDS_DE_B1 = [
       "en": "bank code, routing number",
       "es": "código bancario",
       "fr": "code guichet, code bancaire",
-      "it": "codice bancario (ABI/CAB)",
+      "it": "codice bancario (ABI",
       "pt": "código bancário",
       "ja": "銀行コード",
       "zh": "银行代码",
@@ -7612,15 +7612,15 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Bub",
-      "ko": "(오스트리아/스위스) 소년, 남자아이",
-      "en": "boy (Austrian/Swiss)",
-      "es": "chico, niño (Austria/Suiza)",
-      "fr": "garçon (Autriche/Suisse)",
-      "it": "ragazzo (Austria/Svizzera)",
-      "pt": "menino (Áustria/Suíça)",
-      "ja": "男の子 (オーストリア/スイス)",
-      "zh": "男孩 (奥地利/瑞士)",
-      "ru": "мальчик (австр./швейц.)"
+      "ko": "(오스트리아",
+      "en": "boy (Austrian",
+      "es": "chico, niño (Austria",
+      "fr": "garçon (Autriche",
+      "it": "ragazzo (Austria",
+      "pt": "menino (Áustria",
+      "ja": "男の子 (オーストリア",
+      "zh": "男孩 (奥地利",
+      "ru": "мальчик (австр."
     },
     "examples": [
       "In der Schulklasse sind 15 Buben und 10 Mädchen."
@@ -8856,7 +8856,7 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "dies-",
-      "ko": "이 (것/사람)",
+      "ko": "이 (것",
       "en": "this",
       "es": "este",
       "fr": "ce, cet, cette",
@@ -9089,7 +9089,7 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "doch",
-      "ko": "하지만, (부정 의문에 대해) 아니요/그렇지 않아요, 도대체",
+      "ko": "하지만, (부정 의문에 대해) 아니요",
       "en": "but, however, yes (to negative question)",
       "es": "pero, sin embargo, sí (respuesta afirmativa a pregunta negativa)",
       "fr": "pourtant, si (réponse), donc",
@@ -14397,14 +14397,14 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Fasching",
-      "ko": "카니발, 사육제 (독일 남부/오스트리아)",
-      "en": "carnival (Southern Germany/Austria)",
-      "es": "carnaval (Sur de Alemania/Austria)",
-      "fr": "carnaval (Allemagne du Sud/Autriche)",
-      "it": "carnevale (Germania meridionale/Austria)",
-      "pt": "carnaval (Sul da Alemanha/Áustria)",
-      "ja": "謝肉祭, カーニバル (南ドイツ/オーストリア)",
-      "zh": "狂欢节 (德国南部/奥地利)",
+      "ko": "카니발, 사육제 (독일 남부",
+      "en": "carnival (Southern Germany",
+      "es": "carnaval (Sur de Alemania",
+      "fr": "carnaval (Allemagne du Sud",
+      "it": "carnevale (Germania meridionale",
+      "pt": "carnaval (Sul da Alemanha",
+      "ja": "謝肉祭, カーニバル (南ドイツ",
+      "zh": "狂欢节 (德国南部",
       "ru": "карнавал, масленица"
     },
     "examples": [
@@ -14427,8 +14427,8 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Fasnacht",
-      "ko": "(스위스/남독일) 카니발",
-      "en": "carnival (Swiss/South German)",
+      "ko": "(스위스",
+      "en": "carnival (Swiss",
       "es": "carnaval (Suiza)",
       "fr": "carnaval (Suisse)",
       "it": "carnevale (Svizzera)",
@@ -14523,15 +14523,15 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Fauteuil",
-      "ko": "(오스트리아/스위스) 안락의자",
-      "en": "armchair (Austrian/Swiss)",
-      "es": "sillón (Austria/Suiza)",
+      "ko": "(오스트리아",
+      "en": "armchair (Austrian",
+      "es": "sillón (Austria",
       "fr": "fauteuil",
-      "it": "poltrona (Austria/Svizzera)",
-      "pt": "poltrona (Áustria/Suíça)",
-      "ja": "安楽椅子 (オーストリア/スイス)",
-      "zh": "扶手椅 (奥地利/瑞士)",
-      "ru": "кресло (австр./швейц.)"
+      "it": "poltrona (Austria",
+      "pt": "poltrona (Áustria",
+      "ja": "安楽椅子 (オーストリア",
+      "zh": "扶手椅 (奥地利",
+      "ru": "кресло (австр."
     },
     "examples": [
       "Ich hätte gern einen bequemen Fauteuil."
@@ -16255,7 +16255,7 @@ const WORDS_DE_B1 = [
       "ko": "먹이를 주다",
       "en": "feed",
       "es": "dar de comer, alimentar",
-      "fr": "nourrir (animaux/bébé)",
+      "fr": "nourrir (animaux",
       "it": "dare da mangiare, nutrire",
       "pt": "alimentar, dar comida",
       "ja": "餌をやる",
@@ -23404,8 +23404,8 @@ const WORDS_DE_B1 = [
       "en": "ring",
       "es": "sonar, llamar al timbre",
       "fr": "sonner",
-      "it": "suonare (campanello/telefono)",
-      "pt": "tocar (campainha/telefone)",
+      "it": "suonare (campanello",
+      "pt": "tocar (campainha",
       "ja": "ベルが鳴る, ベルを鳴らす",
       "zh": "响铃, 按铃",
       "ru": "звонить (в звонок)"
@@ -27083,15 +27083,15 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Matura",
-      "ko": "(오스트리아/스위스) 고교 졸업 시험",
-      "en": "high school graduation exam (Austrian/Swiss)",
-      "es": "selectividad (Austria/Suiza)",
-      "fr": "maturité (Autriche/Suisse)",
-      "it": "maturità (Austria/Svizzera)",
-      "pt": "exame final do ensino médio (Áustria/Suíça)",
+      "ko": "(오스트리아",
+      "en": "high school graduation exam (Austrian",
+      "es": "selectividad (Austria",
+      "fr": "maturité (Autriche",
+      "it": "maturità (Austria",
+      "pt": "exame final do ensino médio (Áustria",
       "ja": "マ, トゥーラ (大学入学資格試験)",
-      "zh": "高中毕业考试 (奥地利/瑞士)",
-      "ru": "экзамен на аттестат зрелости (австр./швейц.)"
+      "zh": "高中毕业考试 (奥地利",
+      "ru": "экзамен на аттестат зрелости (австр."
     },
     "examples": [
       "Meine Tochter hat gerade die Matura gemacht."
@@ -28723,7 +28723,7 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Nagel",
-      "ko": "못, 손톱/발톱",
+      "ko": "못, 손톱",
       "en": "nail",
       "es": "clavo, uña",
       "fr": "clou, ongle",
@@ -29696,15 +29696,15 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Ober",
-      "ko": "웨이터 (독일/오스트리아)",
-      "en": "waiter (German/Austrian)",
-      "es": "camarero (Alemania/Austria)",
-      "fr": "garçon de café (Allemagne/Autriche)",
-      "it": "cameriere (Germania/Austria)",
-      "pt": "garçom (Alemanha/Áustria)",
-      "ja": "ウェイター (ドイツ/オーストリア)",
-      "zh": "服务员 (德国/奥地利)",
-      "ru": "официант (герм./австр.)"
+      "ko": "웨이터 (독일",
+      "en": "waiter (German",
+      "es": "camarero (Alemania",
+      "fr": "garçon de café (Allemagne",
+      "it": "cameriere (Germania",
+      "pt": "garçom (Alemanha",
+      "ja": "ウェイター (ドイツ",
+      "zh": "服务员 (德国",
+      "ru": "официант (герм."
     },
     "examples": [
       "Herr Ober, zahlen bitte!"
@@ -33690,7 +33690,7 @@ const WORDS_DE_B1 = [
       "pt": "descascar",
       "ja": "皮をむく",
       "zh": "削皮",
-      "ru": "чистить (овощи/фрукты)"
+      "ru": "чистить (овощи"
     },
     "examples": [
       "Soll ich die Kartoffeln schälen?"
@@ -34785,8 +34785,8 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Schwammerl",
-      "ko": "버섯 (오스트리아/바이에른 방언)",
-      "en": "mushroom (Austrian/Bavarian)",
+      "ko": "버섯 (오스트리아",
+      "en": "mushroom (Austrian",
       "es": "seta",
       "fr": "champignon",
       "it": "fungo",
@@ -34877,13 +34877,13 @@ const WORDS_DE_B1 = [
       "de": "Schwieger-",
       "ko": "시-, 처- (인척 관계 접두어)",
       "en": "in-law (prefix)",
-      "es": "suegro/a (prefijo)",
-      "fr": "beau-/belle- (préfixe)",
-      "it": "suocero/a (prefisso)",
-      "pt": "sogro/a (prefixo)",
+      "es": "suegro",
+      "fr": "beau-",
+      "it": "suocero",
+      "pt": "sogro",
       "ja": "義理の-",
       "zh": "姻亲-",
-      "ru": "сводный/тесть/свекровь"
+      "ru": "сводный"
     },
     "examples": [
       "Wir besuchen morgen meine Schwiegereltern."
@@ -35147,8 +35147,8 @@ const WORDS_DE_B1 = [
     ],
     "meanings": {
       "de": "Semmel",
-      "ko": "작은 빵, 롤빵 (오스트리아/바이에른)",
-      "en": "bread roll (Austrian/Bavarian)",
+      "ko": "작은 빵, 롤빵 (오스트리아",
+      "en": "bread roll (Austrian",
       "es": "panecillo",
       "fr": "petit pain",
       "it": "panino",

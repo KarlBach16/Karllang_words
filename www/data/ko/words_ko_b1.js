@@ -1,4 +1,3 @@
-// KO B1 generated from release candidate
 const WORDS_KO_B1 = [
   {
     "id": "ko_3895",
@@ -14,12 +13,12 @@ const WORDS_KO_B1 = [
       "en": "do so",
       "de": "so machen",
       "es": "hacer así",
-      "pl": "tak robić",
       "it": "fare così",
       "pt": "fazer assim",
       "ja": "そうする",
       "zh": "这样做",
-      "ru": "так делать"
+      "ru": "так делать",
+      "fr": "le faire"
     },
     "examples": [],
     "meta": {
@@ -46,12 +45,12 @@ const WORDS_KO_B1 = [
       "en": "government",
       "de": "die Regierung",
       "es": "el gobierno",
-      "pl": "rząd",
       "it": "il governo",
       "pt": "o governo",
       "ja": "政府",
       "zh": "政府",
-      "ru": "правительство"
+      "ru": "правительство",
+      "fr": "gouvernement"
     },
     "examples": [],
     "meta": {
@@ -77,12 +76,12 @@ const WORDS_KO_B1 = [
       "en": "new",
       "de": "neu",
       "es": "nuevo",
-      "pl": "nowy",
       "it": "nuovo",
       "pt": "novo",
       "ja": "新しい",
       "zh": "新的",
-      "ru": "новый"
+      "ru": "новый",
+      "fr": "nouveau"
     },
     "examples": [],
     "meta": {
@@ -106,12 +105,12 @@ const WORDS_KO_B1 = [
       "en": "process",
       "de": "der Prozess",
       "es": "el proceso",
-      "pl": "proces",
       "it": "il processo",
       "pt": "o processo",
       "ja": "過程",
       "zh": "过程",
-      "ru": "процесс"
+      "ru": "процесс",
+      "fr": "processus"
     },
     "examples": [],
     "meta": {
@@ -137,12 +136,12 @@ const WORDS_KO_B1 = [
       "en": "life",
       "de": "das Leben",
       "es": "la vida",
-      "pl": "życie",
       "it": "la vita",
       "pt": "a vida",
       "ja": "人生",
       "zh": "生活",
-      "ru": "жизнь"
+      "ru": "жизнь",
+      "fr": "vie"
     },
     "examples": [],
     "meta": {
@@ -168,12 +167,12 @@ const WORDS_KO_B1 = [
       "en": "life",
       "de": "das Leben",
       "es": "la vida",
-      "pl": "życie",
       "it": "la vita",
       "pt": "a vida",
       "ja": "生命",
       "zh": "生命",
-      "ru": "жизнь"
+      "ru": "жизнь",
+      "fr": "vie"
     },
     "examples": [],
     "meta": {
@@ -199,12 +198,12 @@ const WORDS_KO_B1 = [
       "en": "incident",
       "de": "der Vorfall",
       "es": "el incidente",
-      "pl": "incydent",
       "it": "l'incidente",
       "pt": "o incidente",
       "ja": "事件",
       "zh": "事件",
-      "ru": "инцидент"
+      "ru": "инцидент",
+      "fr": "incident"
     },
     "examples": [],
     "meta": {
@@ -230,12 +229,12 @@ const WORDS_KO_B1 = [
       "en": "work of art",
       "de": "das Werk",
       "es": "la obra",
-      "pl": "dzieło",
       "it": "l'opera",
       "pt": "a obra",
       "ja": "作品",
       "zh": "作品",
-      "ru": "произведение"
+      "ru": "произведение",
+      "fr": "œuvre d'art"
     },
     "examples": [],
     "meta": {
@@ -261,12 +260,12 @@ const WORDS_KO_B1 = [
       "en": "situation",
       "de": "die Situation",
       "es": "la situación",
-      "pl": "sytuacja",
       "it": "la situazione",
       "pt": "a situação",
       "ja": "状況",
       "zh": "情况",
-      "ru": "ситуация"
+      "ru": "ситуация",
+      "fr": "situation"
     },
     "examples": [],
     "meta": {
@@ -292,12 +291,12 @@ const WORDS_KO_B1 = [
       "en": "state",
       "de": "der Zustand",
       "es": "el estado",
-      "pl": "stan",
       "it": "lo stato",
       "pt": "o estado",
       "ja": "状態",
       "zh": "状态",
-      "ru": "состояние"
+      "ru": "состояние",
+      "fr": "état"
     },
     "examples": [],
     "meta": {
@@ -323,12 +322,12 @@ const WORDS_KO_B1 = [
       "en": "at that time",
       "de": "damals",
       "es": "en ese momento",
-      "pl": "wtedy",
       "it": "allora",
       "pt": "naquela época",
       "ja": "当時",
       "zh": "当时",
-      "ru": "тогда"
+      "ru": "тогда",
+      "fr": "alors"
     },
     "examples": [],
     "meta": {
@@ -354,12 +353,12 @@ const WORDS_KO_B1 = [
       "en": "reality",
       "de": "die Realität",
       "es": "la realidad",
-      "pl": "rzeczywistość",
       "it": "la realtà",
       "pt": "a realidade",
       "ja": "現実",
       "zh": "现实",
-      "ru": "реальность"
+      "ru": "реальность",
+      "fr": "réalité"
     },
     "examples": [],
     "meta": {
@@ -385,12 +384,12 @@ const WORDS_KO_B1 = [
       "en": "company",
       "de": "das Unternehmen",
       "es": "la empresa",
-      "pl": "firma",
       "it": "l'azienda",
       "pt": "a empresa",
       "ja": "企業",
       "zh": "企业",
-      "ru": "компания"
+      "ru": "компания",
+      "fr": "entreprise"
     },
     "examples": [],
     "meta": {
@@ -416,12 +415,12 @@ const WORDS_KO_B1 = [
       "en": "election",
       "de": "die Wahl",
       "es": "la elección",
-      "pl": "wybory",
       "it": "l'elezione",
       "pt": "a eleição",
       "ja": "選挙",
       "zh": "选举",
-      "ru": "выборы"
+      "ru": "выборы",
+      "fr": "élection"
     },
     "examples": [],
     "meta": {
@@ -447,12 +446,12 @@ const WORDS_KO_B1 = [
       "en": "phenomenon",
       "de": "das Phänomen",
       "es": "el fenómeno",
-      "pl": "zjawisko",
       "it": "il fenomeno",
       "pt": "o fenômeno",
       "ja": "現象",
       "zh": "现象",
-      "ru": "явление"
+      "ru": "явление",
+      "fr": "phénomène"
     },
     "examples": [],
     "meta": {
@@ -478,12 +477,12 @@ const WORDS_KO_B1 = [
       "en": "rescue",
       "de": "die Rettung",
       "es": "el rescate",
-      "pl": "ratunek",
       "it": "il salvataggio",
       "pt": "o resgate",
       "ja": "救助",
       "zh": "救援",
-      "ru": "спасение"
+      "ru": "спасение",
+      "fr": "sauvetage"
     },
     "examples": [],
     "meta": {
@@ -509,12 +508,12 @@ const WORDS_KO_B1 = [
       "en": "consciousness",
       "de": "das Bewusstsein",
       "es": "la conciencia",
-      "pl": "świadomość",
       "it": "la coscienza",
       "pt": "a consciência",
       "ja": "意識",
       "zh": "意识",
-      "ru": "сознание"
+      "ru": "сознание",
+      "fr": "conscience"
     },
     "examples": [],
     "meta": {
@@ -540,12 +539,12 @@ const WORDS_KO_B1 = [
       "en": "recognize",
       "de": "erkennen",
       "es": "reconocer",
-      "pl": "rozpoznać",
       "it": "riconoscere",
       "pt": "reconhecer",
       "ja": "認識する",
       "zh": "认出",
-      "ru": "узнавать"
+      "ru": "узнавать",
+      "fr": "reconnaître"
     },
     "examples": [],
     "meta": {
@@ -572,12 +571,12 @@ const WORDS_KO_B1 = [
       "en": "industry",
       "de": "die Industrie",
       "es": "la industria",
-      "pl": "przemysł",
       "it": "l'industria",
       "pt": "a indústria",
       "ja": "産業",
       "zh": "产业",
-      "ru": "промышленность"
+      "ru": "промышленность",
+      "fr": "industrie"
     },
     "examples": [],
     "meta": {
@@ -603,12 +602,12 @@ const WORDS_KO_B1 = [
       "en": "shape",
       "de": "die Form",
       "es": "la forma",
-      "pl": "kształt",
       "it": "la forma",
       "pt": "a forma",
       "ja": "形",
       "zh": "形状",
-      "ru": "форма"
+      "ru": "форма",
+      "fr": "forme"
     },
     "examples": [],
     "meta": {
@@ -634,12 +633,12 @@ const WORDS_KO_B1 = [
       "en": "work",
       "de": "die Arbeit",
       "es": "el trabajo",
-      "pl": "praca",
       "it": "il lavoro",
       "pt": "o trabalho",
       "ja": "仕事",
       "zh": "工作",
-      "ru": "работа"
+      "ru": "работа",
+      "fr": "travail"
     },
     "examples": [],
     "meta": {
@@ -665,12 +664,12 @@ const WORDS_KO_B1 = [
       "en": "compare",
       "de": "vergleichen",
       "es": "comparar",
-      "pl": "porównywać",
       "it": "confrontare",
       "pt": "comparar",
       "ja": "比べる",
       "zh": "比较",
-      "ru": "сравнивать"
+      "ru": "сравнивать",
+      "fr": "comparer"
     },
     "examples": [],
     "meta": {
@@ -697,12 +696,12 @@ const WORDS_KO_B1 = [
       "en": "organization",
       "de": "die Organisation",
       "es": "la organización",
-      "pl": "organizacja",
       "it": "l'organizzazione",
       "pt": "a organização",
       "ja": "組織",
       "zh": "组织",
-      "ru": "организация"
+      "ru": "организация",
+      "fr": "organisation"
     },
     "examples": [],
     "meta": {
@@ -728,12 +727,12 @@ const WORDS_KO_B1 = [
       "en": "attitude",
       "de": "die Haltung",
       "es": "la actitud",
-      "pl": "postawa",
       "it": "l'atteggiamento",
       "pt": "a atitude",
       "ja": "態度",
       "zh": "态度",
-      "ru": "отношение"
+      "ru": "отношение",
+      "fr": "attitude"
     },
     "examples": [],
     "meta": {
@@ -759,12 +758,12 @@ const WORDS_KO_B1 = [
       "en": "method",
       "de": "die Methode",
       "es": "el método",
-      "pl": "metoda",
       "it": "il metodo",
       "pt": "o método",
       "ja": "方法",
       "zh": "方法",
-      "ru": "метод"
+      "ru": "метод",
+      "fr": "méthode"
     },
     "examples": [],
     "meta": {
@@ -790,12 +789,12 @@ const WORDS_KO_B1 = [
       "en": "influence",
       "de": "der Einfluss",
       "es": "la influencia",
-      "pl": "wpływ",
       "it": "l'influenza",
       "pt": "a influência",
       "ja": "影響",
       "zh": "影响",
-      "ru": "влияние"
+      "ru": "влияние",
+      "fr": "influence"
     },
     "examples": [],
     "meta": {
@@ -821,12 +820,12 @@ const WORDS_KO_B1 = [
       "en": "stage",
       "de": "die Stufe",
       "es": "la etapa",
-      "pl": "etap",
       "it": "la fase",
       "pt": "a etapa",
       "ja": "段階",
       "zh": "阶段",
-      "ru": "этап"
+      "ru": "этап",
+      "fr": "étape"
     },
     "examples": [],
     "meta": {
@@ -852,12 +851,12 @@ const WORDS_KO_B1 = [
       "en": "raise",
       "de": "heben",
       "es": "levantar",
-      "pl": "podnosić",
       "it": "sollevare",
       "pt": "levantar",
       "ja": "上げる",
       "zh": "举起",
-      "ru": "поднимать"
+      "ru": "поднимать",
+      "fr": "élever"
     },
     "examples": [],
     "meta": {
@@ -885,12 +884,12 @@ const WORDS_KO_B1 = [
       "en": "teacher",
       "de": "der Lehrer",
       "es": "el profesor",
-      "pl": "nauczyciel",
       "it": "l'insegnante",
       "pt": "o professor",
       "ja": "教師",
       "zh": "老师",
-      "ru": "учитель"
+      "ru": "учитель",
+      "fr": "professeur"
     },
     "examples": [],
     "meta": {
@@ -916,12 +915,12 @@ const WORDS_KO_B1 = [
       "en": "have",
       "de": "haben",
       "es": "tener",
-      "pl": "mieć",
       "it": "avere",
       "pt": "ter",
       "ja": "持つ",
       "zh": "拥有",
-      "ru": "иметь"
+      "ru": "иметь",
+      "fr": "avoir"
     },
     "examples": [],
     "meta": {
@@ -948,12 +947,12 @@ const WORDS_KO_B1 = [
       "en": "member of parliament",
       "de": "der Abgeordnete",
       "es": "el miembro del parlamento",
-      "pl": "poseł",
       "it": "il membro del parlamento",
       "pt": "o membro do parlamento",
       "ja": "議員",
       "zh": "议员",
-      "ru": "депутат"
+      "ru": "депутат",
+      "fr": "député"
     },
     "examples": [],
     "meta": {
@@ -979,12 +978,12 @@ const WORDS_KO_B1 = [
       "en": "resident",
       "de": "der Einwohner",
       "es": "el residente",
-      "pl": "mieszkaniec",
       "it": "il residente",
       "pt": "o residente",
       "ja": "住民",
       "zh": "居民",
-      "ru": "житель"
+      "ru": "житель",
+      "fr": "résident"
     },
     "examples": [],
     "meta": {
@@ -1010,12 +1009,12 @@ const WORDS_KO_B1 = [
       "en": "existence",
       "de": "die Existenz",
       "es": "la existencia",
-      "pl": "istnienie",
       "it": "l'esistenza",
       "pt": "a existência",
       "ja": "存在",
       "zh": "存在",
-      "ru": "существование"
+      "ru": "существование",
+      "fr": "existence"
     },
     "examples": [],
     "meta": {
@@ -1041,12 +1040,12 @@ const WORDS_KO_B1 = [
       "en": "act",
       "de": "die Handlung",
       "es": "el acto",
-      "pl": "czyn",
       "it": "l'atto",
       "pt": "o ato",
       "ja": "行為",
       "zh": "行为",
-      "ru": "действие"
+      "ru": "действие",
+      "fr": "acte"
     },
     "examples": [],
     "meta": {
@@ -1072,12 +1071,12 @@ const WORDS_KO_B1 = [
       "en": "level",
       "de": "das Niveau",
       "es": "el nivel",
-      "pl": "poziom",
       "it": "il livello",
       "pt": "o nível",
       "ja": "レベル",
       "zh": "水平",
-      "ru": "уровень"
+      "ru": "уровень",
+      "fr": "niveau"
     },
     "examples": [],
     "meta": {
@@ -1103,12 +1102,12 @@ const WORDS_KO_B1 = [
       "en": "function",
       "de": "die Funktion",
       "es": "la función",
-      "pl": "funkcja",
       "it": "la funzione",
       "pt": "a função",
       "ja": "機能",
       "zh": "功能",
-      "ru": "функция"
+      "ru": "функция",
+      "fr": "fonction"
     },
     "examples": [],
     "meta": {
@@ -1134,12 +1133,12 @@ const WORDS_KO_B1 = [
       "en": "play",
       "de": "das Theaterstück",
       "es": "la obra de teatro",
-      "pl": "sztuka teatralna",
       "it": "l'opera teatrale",
       "pt": "a peça de teatro",
       "ja": "演劇",
       "zh": "戏剧",
-      "ru": "пьеса"
+      "ru": "пьеса",
+      "fr": "pièce de théâtre"
     },
     "examples": [],
     "meta": {
@@ -1165,12 +1164,12 @@ const WORDS_KO_B1 = [
       "en": "work",
       "de": "die Arbeit",
       "es": "el trabajo",
-      "pl": "praca",
       "it": "il lavoro",
       "pt": "o trabalho",
       "ja": "労働",
       "zh": "劳动",
-      "ru": "труд"
+      "ru": "труд",
+      "fr": "travail"
     },
     "examples": [],
     "meta": {
@@ -1196,12 +1195,12 @@ const WORDS_KO_B1 = [
       "en": "value",
       "de": "der Wert",
       "es": "el valor",
-      "pl": "wartość",
       "it": "il valore",
       "pt": "o valor",
       "ja": "価値",
       "zh": "价值",
-      "ru": "ценность"
+      "ru": "ценность",
+      "fr": "valeur"
     },
     "examples": [],
     "meta": {
@@ -1227,12 +1226,12 @@ const WORDS_KO_B1 = [
       "en": "group",
       "de": "die Gruppe",
       "es": "el grupo",
-      "pl": "grupa",
       "it": "il gruppo",
       "pt": "o grupo",
       "ja": "集団",
       "zh": "群体",
-      "ru": "группа"
+      "ru": "группа",
+      "fr": "groupe"
     },
     "examples": [],
     "meta": {
@@ -1258,12 +1257,12 @@ const WORDS_KO_B1 = [
       "en": "minister",
       "de": "der Minister",
       "es": "el ministro",
-      "pl": "minister",
       "it": "il ministro",
       "pt": "o ministro",
       "ja": "大臣",
       "zh": "部长",
-      "ru": "министр"
+      "ru": "министр",
+      "fr": "ministre"
     },
     "examples": [],
     "meta": {
@@ -1289,12 +1288,12 @@ const WORDS_KO_B1 = [
       "en": "universe",
       "de": "das Universum",
       "es": "el universo",
-      "pl": "wszechświat",
       "it": "l'universo",
       "pt": "o universo",
       "ja": "宇宙",
       "zh": "宇宙",
-      "ru": "вселенная"
+      "ru": "вселенная",
+      "fr": "univers"
     },
     "examples": [],
     "meta": {
@@ -1320,12 +1319,12 @@ const WORDS_KO_B1 = [
       "en": "envy",
       "de": "der Neid",
       "es": "la envidia",
-      "pl": "zazdrość",
       "it": "l'invidia",
       "pt": "a inveja",
       "ja": "嫉妬",
       "zh": "嫉妒",
-      "ru": "зависть"
+      "ru": "зависть",
+      "fr": "envie"
     },
     "examples": [],
     "meta": {
@@ -1351,12 +1350,12 @@ const WORDS_KO_B1 = [
       "en": "production",
       "de": "die Produktion",
       "es": "la producción",
-      "pl": "produkcja",
       "it": "la produzione",
       "pt": "a produção",
       "ja": "生産",
       "zh": "生产",
-      "ru": "производство"
+      "ru": "производство",
+      "fr": "production"
     },
     "examples": [],
     "meta": {
@@ -1382,12 +1381,12 @@ const WORDS_KO_B1 = [
       "en": "farmer",
       "de": "der Bauer",
       "es": "el agricultor",
-      "pl": "rolnik",
       "it": "l'agricoltore",
       "pt": "o agricultor",
       "ja": "農民",
       "zh": "农民",
-      "ru": "крестьянин"
+      "ru": "крестьянин",
+      "fr": "agriculteur"
     },
     "examples": [],
     "meta": {
@@ -1413,12 +1412,12 @@ const WORDS_KO_B1 = [
       "en": "appear",
       "de": "erscheinen",
       "es": "aparecer",
-      "pl": "pojawić się",
       "it": "apparire",
       "pt": "aparecer",
       "ja": "現れる",
       "zh": "出现",
-      "ru": "появляться"
+      "ru": "появляться",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {
@@ -1445,12 +1444,12 @@ const WORDS_KO_B1 = [
       "en": "posture",
       "de": "die Haltung",
       "es": "la postura",
-      "pl": "postawa",
       "it": "la postura",
       "pt": "a postura",
       "ja": "姿勢",
       "zh": "姿势",
-      "ru": "поза"
+      "ru": "поза",
+      "fr": "posture"
     },
     "examples": [],
     "meta": {
@@ -1476,12 +1475,12 @@ const WORDS_KO_B1 = [
       "en": "surface",
       "de": "die Fläche",
       "es": "la superficie",
-      "pl": "powierzchnia",
       "it": "la superficie",
       "pt": "a superfície",
       "ja": "表面",
       "zh": "表面",
-      "ru": "поверхность"
+      "ru": "поверхность",
+      "fr": "surface"
     },
     "examples": [],
     "meta": {
@@ -1507,12 +1506,12 @@ const WORDS_KO_B1 = [
       "en": "cause",
       "de": "die Ursache",
       "es": "la causa",
-      "pl": "przyczyna",
       "it": "la causa",
       "pt": "a causa",
       "ja": "原因",
       "zh": "原因",
-      "ru": "причина"
+      "ru": "причина",
+      "fr": "cause"
     },
     "examples": [],
     "meta": {
@@ -1538,12 +1537,12 @@ const WORDS_KO_B1 = [
       "en": "language",
       "de": "die Sprache",
       "es": "el idioma",
-      "pl": "język",
       "it": "la lingua",
       "pt": "a língua",
       "ja": "言語",
       "zh": "语言",
-      "ru": "язык"
+      "ru": "язык",
+      "fr": "langue"
     },
     "examples": [],
     "meta": {
@@ -1569,12 +1568,12 @@ const WORDS_KO_B1 = [
       "en": "supervision",
       "de": "die Aufsicht",
       "es": "la supervisión",
-      "pl": "nadzór",
       "it": "la supervisione",
       "pt": "a supervisão",
       "ja": "監督",
       "zh": "监督",
-      "ru": "надзор"
+      "ru": "надзор",
+      "fr": "supervision"
     },
     "examples": [],
     "meta": {
@@ -1600,12 +1599,12 @@ const WORDS_KO_B1 = [
       "en": "suffer",
       "de": "erleiden",
       "es": "sufrir",
-      "pl": "doznać",
       "it": "subire",
       "pt": "sofrer",
       "ja": "受ける",
       "zh": "遭受",
-      "ru": "пострадать"
+      "ru": "пострадать",
+      "fr": "souffrir"
     },
     "examples": [],
     "meta": {
@@ -1632,12 +1631,12 @@ const WORDS_KO_B1 = [
       "en": "make",
       "de": "machen",
       "es": "hacer",
-      "pl": "uczynić",
       "it": "fare",
       "pt": "fazer",
       "ja": "みなす",
       "zh": "视为",
-      "ru": "считать"
+      "ru": "считать",
+      "fr": "faire"
     },
     "examples": [],
     "meta": {
@@ -1664,12 +1663,12 @@ const WORDS_KO_B1 = [
       "en": "organization",
       "de": "die Organisation",
       "es": "la organización",
-      "pl": "organizacja",
       "it": "l'organizzazione",
       "pt": "a organização",
       "ja": "組織",
       "zh": "组织",
-      "ru": "организация"
+      "ru": "организация",
+      "fr": "organisation"
     },
     "examples": [],
     "meta": {
@@ -1695,12 +1694,12 @@ const WORDS_KO_B1 = [
       "en": "figure",
       "de": "die Persönlichkeit",
       "es": "la figura",
-      "pl": "postać",
       "it": "la figura",
       "pt": "a figura",
       "ja": "人物",
       "zh": "人物",
-      "ru": "персона"
+      "ru": "персона",
+      "fr": "figure"
     },
     "examples": [],
     "meta": {
@@ -1726,12 +1725,12 @@ const WORDS_KO_B1 = [
       "en": "touch",
       "de": "berühren",
       "es": "tocar",
-      "pl": "dotykać",
       "it": "toccare",
       "pt": "tocar",
       "ja": "触れる",
       "zh": "接触",
-      "ru": "прикасаться"
+      "ru": "прикасаться",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {
@@ -1758,12 +1757,12 @@ const WORDS_KO_B1 = [
       "en": "stage",
       "de": "die Bühne",
       "es": "el escenario",
-      "pl": "scena",
       "it": "il palcoscenico",
       "pt": "o palco",
       "ja": "舞台",
       "zh": "舞台",
-      "ru": "сцена"
+      "ru": "сцена",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {
@@ -1789,12 +1788,12 @@ const WORDS_KO_B1 = [
       "en": "claim",
       "de": "die Behauptung",
       "es": "la afirmación",
-      "pl": "twierdzenie",
       "it": "l'affermazione",
       "pt": "a afirmação",
       "ja": "主張",
       "zh": "主张",
-      "ru": "утверждение"
+      "ru": "утверждение",
+      "fr": "affirmation"
     },
     "examples": [],
     "meta": {
@@ -1820,12 +1819,12 @@ const WORDS_KO_B1 = [
       "en": "due to",
       "de": "wegen",
       "es": "debido a",
-      "pl": "z powodu",
       "it": "a causa di",
       "pt": "devido a",
       "ja": "〜による",
       "zh": "由于",
-      "ru": "из-за"
+      "ru": "из-за",
+      "fr": "en raison de"
     },
     "examples": [],
     "meta": {
@@ -1852,12 +1851,12 @@ const WORDS_KO_B1 = [
       "en": "connect",
       "de": "verbinden",
       "es": "conectar",
-      "pl": "łączyć",
       "it": "collegare",
       "pt": "conectar",
       "ja": "つなぐ",
       "zh": "连接",
-      "ru": "соединять"
+      "ru": "соединять",
+      "fr": "connecter"
     },
     "examples": [],
     "meta": {
@@ -1885,12 +1884,12 @@ const WORDS_KO_B1 = [
       "en": "measure",
       "de": "die Maßnahme",
       "es": "la medida",
-      "pl": "środek",
       "it": "la misura",
       "pt": "a medida",
       "ja": "対策",
       "zh": "对策",
-      "ru": "мера"
+      "ru": "мера",
+      "fr": "mesurer"
     },
     "examples": [],
     "meta": {
@@ -1916,12 +1915,12 @@ const WORDS_KO_B1 = [
       "en": "competition",
       "de": "der Wettbewerb",
       "es": "la competencia",
-      "pl": "konkurencja",
       "it": "la competizione",
       "pt": "a competição",
       "ja": "競争",
       "zh": "竞争",
-      "ru": "конкуренция"
+      "ru": "конкуренция",
+      "fr": "compétition"
     },
     "examples": [],
     "meta": {
@@ -1947,12 +1946,12 @@ const WORDS_KO_B1 = [
       "en": "implement",
       "de": "durchführen",
       "es": "implementar",
-      "pl": "wdrożyć",
       "it": "attuare",
       "pt": "implementar",
       "ja": "実施する",
       "zh": "实施",
-      "ru": "осуществлять"
+      "ru": "осуществлять",
+      "fr": "implémenter"
     },
     "examples": [],
     "meta": {
@@ -1979,12 +1978,12 @@ const WORDS_KO_B1 = [
       "en": "scale",
       "de": "der Umfang",
       "es": "la escala",
-      "pl": "skala",
       "it": "la scala",
       "pt": "a escala",
       "ja": "規模",
       "zh": "规模",
-      "ru": "масштаб"
+      "ru": "масштаб",
+      "fr": "échelle"
     },
     "examples": [],
     "meta": {
@@ -2010,12 +2009,12 @@ const WORDS_KO_B1 = [
       "en": "equip",
       "de": "ausrüsten",
       "es": "equipar",
-      "pl": "wyposażyć",
       "it": "equipaggiare",
       "pt": "equipar",
       "ja": "備える",
       "zh": "配备",
-      "ru": "снаряжать"
+      "ru": "снаряжать",
+      "fr": "équiper"
     },
     "examples": [],
     "meta": {
@@ -2042,12 +2041,12 @@ const WORDS_KO_B1 = [
       "en": "site",
       "de": "die Baustelle",
       "es": "el sitio",
-      "pl": "miejsce",
       "it": "il sito",
       "pt": "o local",
       "ja": "現場",
       "zh": "现场",
-      "ru": "место"
+      "ru": "место",
+      "fr": "site"
     },
     "examples": [],
     "meta": {
@@ -2073,12 +2072,12 @@ const WORDS_KO_B1 = [
       "en": "construction",
       "de": "der Bau",
       "es": "la construcción",
-      "pl": "budowa",
       "it": "la costruzione",
       "pt": "a construção",
       "ja": "建設",
       "zh": "建设",
-      "ru": "строительство"
+      "ru": "строительство",
+      "fr": "construction"
     },
     "examples": [],
     "meta": {
@@ -2104,12 +2103,12 @@ const WORDS_KO_B1 = [
       "en": "exist",
       "de": "existieren",
       "es": "existir",
-      "pl": "istnieć",
       "it": "esistere",
       "pt": "existir",
       "ja": "存在する",
       "zh": "存在",
-      "ru": "существовать"
+      "ru": "существовать",
+      "fr": "exister"
     },
     "examples": [],
     "meta": {
@@ -2136,12 +2135,12 @@ const WORDS_KO_B1 = [
       "en": "one word",
       "de": "ein Wort",
       "es": "una palabra",
-      "pl": "jedno słowo",
       "it": "una parola",
       "pt": "uma palavra",
       "ja": "一言",
       "zh": "一句话",
-      "ru": "одно слово"
+      "ru": "одно слово",
+      "fr": "un mot"
     },
     "examples": [],
     "meta": {
@@ -2167,12 +2166,12 @@ const WORDS_KO_B1 = [
       "en": "maintain",
       "de": "aufrechterhalten",
       "es": "mantener",
-      "pl": "utrzymywać",
       "it": "mantenere",
       "pt": "manter",
       "ja": "維持する",
       "zh": "维持",
-      "ru": "поддерживать"
+      "ru": "поддерживать",
+      "fr": "maintenir"
     },
     "examples": [],
     "meta": {
@@ -2199,12 +2198,12 @@ const WORDS_KO_B1 = [
       "en": "ideology",
       "de": "die Ideologie",
       "es": "la ideología",
-      "pl": "ideologia",
       "it": "l'ideologia",
       "pt": "a ideologia",
       "ja": "イデオロギー",
       "zh": "意识形态",
-      "ru": "идеология"
+      "ru": "идеология",
+      "fr": "idéologie"
     },
     "examples": [],
     "meta": {
@@ -2230,12 +2229,12 @@ const WORDS_KO_B1 = [
       "en": "avoid",
       "de": "vermeiden",
       "es": "evitar",
-      "pl": "unikać",
       "it": "evitare",
       "pt": "evitar",
       "ja": "避ける",
       "zh": "避免",
-      "ru": "избегать"
+      "ru": "избегать",
+      "fr": "éviter"
     },
     "examples": [],
     "meta": {
@@ -2262,12 +2261,12 @@ const WORDS_KO_B1 = [
       "en": "pass through",
       "de": "durchlaufen",
       "es": "pasar por",
-      "pl": "przejść przez",
       "it": "passare attraverso",
       "pt": "passar por",
       "ja": "経由する",
       "zh": "经过",
-      "ru": "проходить"
+      "ru": "проходить",
+      "fr": "traverser"
     },
     "examples": [],
     "meta": {
@@ -2294,12 +2293,12 @@ const WORDS_KO_B1 = [
       "en": "advance",
       "de": "voranschreiten",
       "es": "avanzar",
-      "pl": "iść naprzód",
       "it": "avanzare",
       "pt": "avançar",
       "ja": "進む",
       "zh": "前进",
-      "ru": "продвигаться"
+      "ru": "продвигаться",
+      "fr": "avancer"
     },
     "examples": [],
     "meta": {
@@ -2326,12 +2325,12 @@ const WORDS_KO_B1 = [
       "en": "knowledge",
       "de": "das Wissen",
       "es": "el conocimiento",
-      "pl": "wiedza",
       "it": "la conoscenza",
       "pt": "o conhecimento",
       "ja": "知識",
       "zh": "知识",
-      "ru": "знание"
+      "ru": "знание",
+      "fr": "connaissance"
     },
     "examples": [],
     "meta": {
@@ -2357,12 +2356,12 @@ const WORDS_KO_B1 = [
       "en": "line",
       "de": "die Linie",
       "es": "la línea",
-      "pl": "linia",
       "it": "la linea",
       "pt": "a linha",
       "ja": "線",
       "zh": "线",
-      "ru": "линия"
+      "ru": "линия",
+      "fr": "ligne"
     },
     "examples": [],
     "meta": {
@@ -2388,12 +2387,12 @@ const WORDS_KO_B1 = [
       "en": "mankind",
       "de": "die Menschheit",
       "es": "la humanidad",
-      "pl": "ludzkość",
       "it": "l'umanità",
       "pt": "a humanidade",
       "ja": "人類",
       "zh": "人类",
-      "ru": "человечество"
+      "ru": "человечество",
+      "fr": "humanité"
     },
     "examples": [],
     "meta": {
@@ -2419,12 +2418,12 @@ const WORDS_KO_B1 = [
       "en": "form",
       "de": "die Form",
       "es": "la forma",
-      "pl": "forma",
       "it": "la forma",
       "pt": "a forma",
       "ja": "形式",
       "zh": "形式",
-      "ru": "форма"
+      "ru": "форма",
+      "fr": "forme"
     },
     "examples": [],
     "meta": {
@@ -2450,12 +2449,12 @@ const WORDS_KO_B1 = [
       "en": "drape",
       "de": "überwerfen",
       "es": "ponerse",
-      "pl": "narzucić",
       "it": "indossare",
       "pt": "vestir",
       "ja": "羽織る",
       "zh": "披上",
-      "ru": "накинуть"
+      "ru": "накинуть",
+      "fr": "draper"
     },
     "examples": [],
     "meta": {
@@ -2482,12 +2481,12 @@ const WORDS_KO_B1 = [
       "en": "experience",
       "de": "erleben",
       "es": "experimentar",
-      "pl": "doświadczyć",
       "it": "sperimentare",
       "pt": "experimentar",
       "ja": "経験する",
       "zh": "经历",
-      "ru": "испытать"
+      "ru": "испытать",
+      "fr": "expérimenter"
     },
     "examples": [],
     "meta": {
@@ -2514,12 +2513,12 @@ const WORDS_KO_B1 = [
       "en": "perspective",
       "de": "die Perspektive",
       "es": "la perspectiva",
-      "pl": "perspektywa",
       "it": "la prospettiva",
       "pt": "a perspectiva",
       "ja": "観点",
       "zh": "观点",
-      "ru": "точка зрения"
+      "ru": "точка зрения",
+      "fr": "perspective"
     },
     "examples": [],
     "meta": {
@@ -2545,12 +2544,12 @@ const WORDS_KO_B1 = [
       "en": "composition",
       "de": "die Zusammensetzung",
       "es": "la composición",
-      "pl": "kompozycja",
       "it": "la composizione",
       "pt": "a composição",
       "ja": "構成",
       "zh": "构成",
-      "ru": "состав"
+      "ru": "состав",
+      "fr": "composition"
     },
     "examples": [],
     "meta": {
@@ -2576,12 +2575,12 @@ const WORDS_KO_B1 = [
       "en": "begin",
       "de": "beginnen",
       "es": "comenzar",
-      "pl": "rozpocząć",
       "it": "iniziare",
       "pt": "começar",
       "ja": "始まる",
       "zh": "开始",
-      "ru": "начинать"
+      "ru": "начинать",
+      "fr": "commencer"
     },
     "examples": [],
     "meta": {
@@ -2608,12 +2607,12 @@ const WORDS_KO_B1 = [
       "en": "admit",
       "de": "zugeben",
       "es": "admitir",
-      "pl": "przyznać",
       "it": "ammettere",
       "pt": "admitir",
       "ja": "認める",
       "zh": "承认",
-      "ru": "признавать"
+      "ru": "признавать",
+      "fr": "admettre"
     },
     "examples": [],
     "meta": {
@@ -2640,12 +2639,12 @@ const WORDS_KO_B1 = [
       "en": "center",
       "de": "die Mitte",
       "es": "el centro",
-      "pl": "centrum",
       "it": "il centro",
       "pt": "o centro",
       "ja": "中央",
       "zh": "中央",
-      "ru": "центр"
+      "ru": "центр",
+      "fr": "centre"
     },
     "examples": [],
     "meta": {
@@ -2671,12 +2670,12 @@ const WORDS_KO_B1 = [
       "en": "despite",
       "de": "trotzdem",
       "es": "a pesar de",
-      "pl": "mimo to",
       "it": "nonostante",
       "pt": "apesar de",
       "ja": "にもかかわらず",
       "zh": "尽管",
-      "ru": "несмотря на"
+      "ru": "несмотря на",
+      "fr": "malgré"
     },
     "examples": [],
     "meta": {
@@ -2703,12 +2702,12 @@ const WORDS_KO_B1 = [
       "en": "evaluation",
       "de": "die Bewertung",
       "es": "la evaluación",
-      "pl": "ocena",
       "it": "la valutazione",
       "pt": "a avaliação",
       "ja": "評価",
       "zh": "评估",
-      "ru": "оценка"
+      "ru": "оценка",
+      "fr": "évaluation"
     },
     "examples": [],
     "meta": {
@@ -2734,12 +2733,12 @@ const WORDS_KO_B1 = [
       "en": "be empty",
       "de": "leer sein",
       "es": "estar vacío",
-      "pl": "być pustym",
       "it": "essere vuoto",
       "pt": "estar vazio",
       "ja": "空である",
       "zh": "空着",
-      "ru": "быть пустым"
+      "ru": "быть пустым",
+      "fr": "être vide"
     },
     "examples": [],
     "meta": {
@@ -2766,12 +2765,12 @@ const WORDS_KO_B1 = [
       "en": "three kingdoms",
       "de": "die drei Königreiche",
       "es": "los tres reinos",
-      "pl": "trzy królestwa",
       "it": "i tre regni",
       "pt": "os três reinos",
       "ja": "三国",
       "zh": "三国",
-      "ru": "три царства"
+      "ru": "три царства",
+      "fr": "trois royaumes"
     },
     "examples": [],
     "meta": {
@@ -2797,12 +2796,12 @@ const WORDS_KO_B1 = [
       "en": "method",
       "de": "die Methode",
       "es": "el método",
-      "pl": "metoda",
       "it": "il metodo",
       "pt": "o método",
       "ja": "方法",
       "zh": "方法",
-      "ru": "способ"
+      "ru": "способ",
+      "fr": "méthode"
     },
     "examples": [],
     "meta": {
@@ -2828,12 +2827,12 @@ const WORDS_KO_B1 = [
       "en": "substance",
       "de": "die Substanz",
       "es": "la sustancia",
-      "pl": "substancja",
       "it": "la sostanza",
       "pt": "a substância",
       "ja": "物質",
       "zh": "物质",
-      "ru": "вещество"
+      "ru": "вещество",
+      "fr": "substance"
     },
     "examples": [],
     "meta": {
@@ -2859,12 +2858,12 @@ const WORDS_KO_B1 = [
       "en": "live",
       "de": "leben",
       "es": "vivir",
-      "pl": "żyć",
       "it": "vivere",
       "pt": "viver",
       "ja": "生きる",
       "zh": "生活",
-      "ru": "жить"
+      "ru": "жить",
+      "fr": "vivre"
     },
     "examples": [],
     "meta": {
@@ -2891,12 +2890,12 @@ const WORDS_KO_B1 = [
       "en": "present",
       "de": "vorlegen",
       "es": "presentar",
-      "pl": "przedstawić",
       "it": "presentare",
       "pt": "apresentar",
       "ja": "提示する",
       "zh": "提出",
-      "ru": "представлять"
+      "ru": "представлять",
+      "fr": "présenter"
     },
     "examples": [],
     "meta": {
@@ -2923,12 +2922,12 @@ const WORDS_KO_B1 = [
       "en": "only",
       "de": "nur",
       "es": "solo",
-      "pl": "tylko",
       "it": "solo",
       "pt": "apenas",
       "ja": "わずか",
       "zh": "仅仅",
-      "ru": "только"
+      "ru": "только",
+      "fr": "seulement"
     },
     "examples": [],
     "meta": {
@@ -2952,12 +2951,12 @@ const WORDS_KO_B1 = [
       "en": "enormous",
       "de": "riesig",
       "es": "enorme",
-      "pl": "ogromny",
       "it": "enorme",
       "pt": "enorme",
       "ja": "途方もない",
       "zh": "巨大的",
-      "ru": "огромный"
+      "ru": "огромный",
+      "fr": "énorme"
     },
     "examples": [],
     "meta": {
@@ -2981,12 +2980,12 @@ const WORDS_KO_B1 = [
       "en": "grasp",
       "de": "erfassen",
       "es": "captar",
-      "pl": "pojąć",
       "it": "cogliere",
       "pt": "captar",
       "ja": "把握する",
       "zh": "掌握",
-      "ru": "понимать"
+      "ru": "понимать",
+      "fr": "comprendre"
     },
     "examples": [],
     "meta": {
@@ -3013,12 +3012,12 @@ const WORDS_KO_B1 = [
       "en": "practice",
       "de": "die Praxis",
       "es": "la práctica",
-      "pl": "praktyka",
       "it": "la pratica",
       "pt": "a prática",
       "ja": "実践",
       "zh": "实践",
-      "ru": "практика"
+      "ru": "практика",
+      "fr": "pratique"
     },
     "examples": [],
     "meta": {
@@ -3044,12 +3043,12 @@ const WORDS_KO_B1 = [
       "en": "plan",
       "de": "der Plan",
       "es": "el plan",
-      "pl": "plan",
       "it": "il piano",
       "pt": "o plano",
       "ja": "方策",
       "zh": "方案",
-      "ru": "план"
+      "ru": "план",
+      "fr": "plan"
     },
     "examples": [],
     "meta": {
@@ -3075,12 +3074,12 @@ const WORDS_KO_B1 = [
       "en": "clear",
       "de": "klar",
       "es": "claro",
-      "pl": "jasny",
       "it": "chiaro",
       "pt": "claro",
       "ja": "明白な",
       "zh": "清楚的",
-      "ru": "ясный"
+      "ru": "ясный",
+      "fr": "clair"
     },
     "examples": [],
     "meta": {
@@ -3104,12 +3103,12 @@ const WORDS_KO_B1 = [
       "en": "analysis",
       "de": "die Analyse",
       "es": "el análisis",
-      "pl": "analiza",
       "it": "l'analisi",
       "pt": "a análise",
       "ja": "分析",
       "zh": "分析",
-      "ru": "анализ"
+      "ru": "анализ",
+      "fr": "analyse"
     },
     "examples": [],
     "meta": {
@@ -3135,12 +3134,12 @@ const WORDS_KO_B1 = [
       "en": "person concerned",
       "de": "der Beteiligte",
       "es": "el interesado",
-      "pl": "osoba zainteresowana",
       "it": "l'interessato",
       "pt": "o interessado",
       "ja": "関係者",
       "zh": "相关人员",
-      "ru": "ответственное лицо"
+      "ru": "ответственное лицо",
+      "fr": "personne concernée"
     },
     "examples": [],
     "meta": {
@@ -3166,12 +3165,12 @@ const WORDS_KO_B1 = [
       "en": "continue",
       "de": "fortsetzen",
       "es": "continuar",
-      "pl": "kontynuować",
       "it": "continuare",
       "pt": "continuar",
       "ja": "続く",
       "zh": "继续",
-      "ru": "продолжаться"
+      "ru": "продолжаться",
+      "fr": "continuer"
     },
     "examples": [],
     "meta": {
@@ -3198,12 +3197,12 @@ const WORDS_KO_B1 = [
       "en": "point out",
       "de": "hinweisen",
       "es": "señalar",
-      "pl": "wskazać",
       "it": "indicare",
       "pt": "apontar",
       "ja": "指摘する",
       "zh": "指出",
-      "ru": "указывать"
+      "ru": "указывать",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {
@@ -3230,12 +3229,12 @@ const WORDS_KO_B1 = [
       "en": "demand",
       "de": "die Forderung",
       "es": "la demanda",
-      "pl": "żądanie",
       "it": "la richiesta",
       "pt": "a exigência",
       "ja": "要求",
       "zh": "要求",
-      "ru": "требование"
+      "ru": "требование",
+      "fr": "demande"
     },
     "examples": [],
     "meta": {
@@ -3261,12 +3260,12 @@ const WORDS_KO_B1 = [
       "en": "appear",
       "de": "auftreten",
       "es": "aparecer",
-      "pl": "pojawić się",
       "it": "apparire",
       "pt": "aparecer",
       "ja": "登場する",
       "zh": "登场",
-      "ru": "появляться"
+      "ru": "появляться",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {
@@ -3293,12 +3292,12 @@ const WORDS_KO_B1 = [
       "en": "limit",
       "de": "die Grenze",
       "es": "el límite",
-      "pl": "granica",
       "it": "il limite",
       "pt": "o limite",
       "ja": "限界",
       "zh": "界限",
-      "ru": "предел"
+      "ru": "предел",
+      "fr": "limite"
     },
     "examples": [],
     "meta": {
@@ -3324,12 +3323,12 @@ const WORDS_KO_B1 = [
       "en": "basis",
       "de": "die Grundlage",
       "es": "la base",
-      "pl": "podstawa",
       "it": "la base",
       "pt": "a base",
       "ja": "土台",
       "zh": "基础",
-      "ru": "основа"
+      "ru": "основа",
+      "fr": "base"
     },
     "examples": [],
     "meta": {
@@ -3355,12 +3354,12 @@ const WORDS_KO_B1 = [
       "en": "conflict",
       "de": "der Konflikt",
       "es": "el conflicto",
-      "pl": "konflikt",
       "it": "il conflitto",
       "pt": "o conflito",
       "ja": "葛藤",
       "zh": "冲突",
-      "ru": "конфликт"
+      "ru": "конфликт",
+      "fr": "conflit"
     },
     "examples": [],
     "meta": {
@@ -3386,12 +3385,12 @@ const WORDS_KO_B1 = [
       "en": "reliance",
       "de": "die Abhängigkeit",
       "es": "la dependencia",
-      "pl": "zależność",
       "it": "la dipendenza",
       "pt": "a dependência",
       "ja": "頼り",
       "zh": "依靠",
-      "ru": "опора"
+      "ru": "опора",
+      "fr": "dépendance"
     },
     "examples": [],
     "meta": {
@@ -3417,12 +3416,12 @@ const WORDS_KO_B1 = [
       "en": "initial stage",
       "de": "die Anfangsphase",
       "es": "la etapa inicial",
-      "pl": "faza początkowa",
       "it": "la fase iniziale",
       "pt": "a fase inicial",
       "ja": "初期",
       "zh": "初期",
-      "ru": "начальный этап"
+      "ru": "начальный этап",
+      "fr": "phase initiale"
     },
     "examples": [],
     "meta": {
@@ -3448,12 +3447,12 @@ const WORDS_KO_B1 = [
       "en": "nerve",
       "de": "der Nerv",
       "es": "el nervio",
-      "pl": "nerw",
       "it": "il nervo",
       "pt": "o nervo",
       "ja": "神経",
       "zh": "神经",
-      "ru": "нерв"
+      "ru": "нерв",
+      "fr": "nerf"
     },
     "examples": [],
     "meta": {
@@ -3479,12 +3478,12 @@ const WORDS_KO_B1 = [
       "en": "beauty",
       "de": "die Schönheit",
       "es": "la belleza",
-      "pl": "piękno",
       "it": "la bellezza",
       "pt": "a beleza",
       "ja": "美しさ",
       "zh": "美",
-      "ru": "красота"
+      "ru": "красота",
+      "fr": "beauté"
     },
     "examples": [],
     "meta": {
@@ -3510,12 +3509,12 @@ const WORDS_KO_B1 = [
       "en": "gaze",
       "de": "der Blick",
       "es": "la mirada",
-      "pl": "spojrzenie",
       "it": "lo sguardo",
       "pt": "o olhar",
       "ja": "視線",
       "zh": "视线",
-      "ru": "взгляд"
+      "ru": "взгляд",
+      "fr": "regard"
     },
     "examples": [],
     "meta": {
@@ -3541,12 +3540,12 @@ const WORDS_KO_B1 = [
       "en": "press",
       "de": "die Presse",
       "es": "la prensa",
-      "pl": "prasa",
       "it": "la stampa",
       "pt": "a imprensa",
       "ja": "報道機関",
       "zh": "媒体",
-      "ru": "пресса"
+      "ru": "пресса",
+      "fr": "presse"
     },
     "examples": [],
     "meta": {
@@ -3572,12 +3571,12 @@ const WORDS_KO_B1 = [
       "en": "investment",
       "de": "die Investition",
       "es": "la inversión",
-      "pl": "inwestycja",
       "it": "l'investimento",
       "pt": "o investimento",
       "ja": "投資",
       "zh": "投资",
-      "ru": "инвестиция"
+      "ru": "инвестиция",
+      "fr": "investissement"
     },
     "examples": [],
     "meta": {
@@ -3603,12 +3602,12 @@ const WORDS_KO_B1 = [
       "en": "support",
       "de": "die Unterstützung",
       "es": "el apoyo",
-      "pl": "wsparcie",
       "it": "il supporto",
       "pt": "o apoio",
       "ja": "支援",
       "zh": "支援",
-      "ru": "поддержка"
+      "ru": "поддержка",
+      "fr": "soutien"
     },
     "examples": [],
     "meta": {
@@ -3634,12 +3633,12 @@ const WORDS_KO_B1 = [
       "en": "growth",
       "de": "das Wachstum",
       "es": "el crecimiento",
-      "pl": "wzrost",
       "it": "la crescita",
       "pt": "o crescimento",
       "ja": "成長",
       "zh": "成长",
-      "ru": "рост"
+      "ru": "рост",
+      "fr": "croissance"
     },
     "examples": [],
     "meta": {
@@ -3665,12 +3664,12 @@ const WORDS_KO_B1 = [
       "en": "damage",
       "de": "der Schaden",
       "es": "el daño",
-      "pl": "szkoda",
       "it": "il danno",
       "pt": "o dano",
       "ja": "被害",
       "zh": "损害",
-      "ru": "ущерб"
+      "ru": "ущерб",
+      "fr": "dommage"
     },
     "examples": [],
     "meta": {
@@ -3696,12 +3695,12 @@ const WORDS_KO_B1 = [
       "en": "resentment",
       "de": "der Groll",
       "es": "el resentimiento",
-      "pl": "żal",
       "it": "il risentimento",
       "pt": "o ressentimento",
       "ja": "恨み",
       "zh": "怨恨",
-      "ru": "обида"
+      "ru": "обида",
+      "fr": "ressentiment"
     },
     "examples": [],
     "meta": {
@@ -3727,12 +3726,12 @@ const WORDS_KO_B1 = [
       "en": "consider",
       "de": "betrachten",
       "es": "considerar",
-      "pl": "uważać",
       "it": "considerare",
       "pt": "considerar",
       "ja": "みなす",
       "zh": "认为",
-      "ru": "считать"
+      "ru": "считать",
+      "fr": "considérer"
     },
     "examples": [],
     "meta": {
@@ -3759,12 +3758,12 @@ const WORDS_KO_B1 = [
       "en": "action",
       "de": "die Wirkung",
       "es": "la acción",
-      "pl": "działanie",
       "it": "l'azione",
       "pt": "a ação",
       "ja": "作用",
       "zh": "作用",
-      "ru": "действие"
+      "ru": "действие",
+      "fr": "action"
     },
     "examples": [],
     "meta": {
@@ -3790,12 +3789,12 @@ const WORDS_KO_B1 = [
       "en": "goal",
       "de": "das Tor",
       "es": "el gol",
-      "pl": "gol",
       "it": "il gol",
       "pt": "o gol",
       "ja": "ゴール",
       "zh": "进球",
-      "ru": "гол"
+      "ru": "гол",
+      "fr": "but"
     },
     "examples": [],
     "meta": {
@@ -3821,12 +3820,12 @@ const WORDS_KO_B1 = [
       "en": "industry",
       "de": "die Industrie",
       "es": "la industria",
-      "pl": "przemysł",
       "it": "l'industria",
       "pt": "a indústria",
       "ja": "工業",
       "zh": "工业",
-      "ru": "промышленность"
+      "ru": "промышленность",
+      "fr": "industrie"
     },
     "examples": [],
     "meta": {
@@ -3852,12 +3851,12 @@ const WORDS_KO_B1 = [
       "en": "origin",
       "de": "die Herkunft",
       "es": "el origen",
-      "pl": "pochodzenie",
       "it": "l'origine",
       "pt": "a origem",
       "ja": "出身",
       "zh": "出身",
-      "ru": "происхождение"
+      "ru": "происхождение",
+      "fr": "origine"
     },
     "examples": [],
     "meta": {
@@ -3883,12 +3882,12 @@ const WORDS_KO_B1 = [
       "en": "tendency",
       "de": "die Tendenz",
       "es": "la tendencia",
-      "pl": "tendencja",
       "it": "la tendenza",
       "pt": "a tendência",
       "ja": "傾向",
       "zh": "倾向",
-      "ru": "тенденция"
+      "ru": "тенденция",
+      "fr": "tendance"
     },
     "examples": [],
     "meta": {
@@ -3914,12 +3913,12 @@ const WORDS_KO_B1 = [
       "en": "record",
       "de": "die Aufzeichnung",
       "es": "el registro",
-      "pl": "rekord",
       "it": "il record",
       "pt": "o registro",
       "ja": "記録",
       "zh": "记录",
-      "ru": "запись"
+      "ru": "запись",
+      "fr": "record"
     },
     "examples": [],
     "meta": {
@@ -3945,12 +3944,12 @@ const WORDS_KO_B1 = [
       "en": "other side",
       "de": "die Kehrseite",
       "es": "por otro lado",
-      "pl": "z drugiej strony",
       "it": "d'altra parte",
       "pt": "por outro lado",
       "ja": "反面",
       "zh": "另一方面",
-      "ru": "с другой стороны"
+      "ru": "с другой стороны",
+      "fr": "autre côté"
     },
     "examples": [],
     "meta": {
@@ -3976,12 +3975,12 @@ const WORDS_KO_B1 = [
       "en": "movement",
       "de": "die Bewegung",
       "es": "el movimiento",
-      "pl": "ruch",
       "it": "il movimento",
       "pt": "o movimento",
       "ja": "動き",
       "zh": "移动",
-      "ru": "движение"
+      "ru": "движение",
+      "fr": "mouvement"
     },
     "examples": [],
     "meta": {
@@ -4007,12 +4006,12 @@ const WORDS_KO_B1 = [
       "en": "burst",
       "de": "platzen",
       "es": "explotar",
-      "pl": "pękać",
       "it": "scoppiare",
       "pt": "explodir",
       "ja": "破裂する",
       "zh": "爆炸",
-      "ru": "взрываться"
+      "ru": "взрываться",
+      "fr": "éclater"
     },
     "examples": [],
     "meta": {
@@ -4039,12 +4038,12 @@ const WORDS_KO_B1 = [
       "en": "characteristic",
       "de": "die Eigenschaft",
       "es": "la característica",
-      "pl": "cecha",
       "it": "la caratteristica",
       "pt": "a característica",
       "ja": "特性",
       "zh": "特性",
-      "ru": "характеристика"
+      "ru": "характеристика",
+      "fr": "caractéristique"
     },
     "examples": [],
     "meta": {
@@ -4070,12 +4069,12 @@ const WORDS_KO_B1 = [
       "en": "principal",
       "de": "der Schulleiter",
       "es": "el director",
-      "pl": "dyrektor",
       "it": "il preside",
       "pt": "o diretor",
       "ja": "校長",
       "zh": "校长",
-      "ru": "директор"
+      "ru": "директор",
+      "fr": "directeur"
     },
     "examples": [],
     "meta": {
@@ -4101,12 +4100,12 @@ const WORDS_KO_B1 = [
       "en": "college entrance exam",
       "de": "die Aufnahmeprüfung",
       "es": "el examen de ingreso",
-      "pl": "egzamin wstępny",
       "it": "l'esame di ammissione",
       "pt": "o exame de admissão",
       "ja": "入試",
       "zh": "入学考试",
-      "ru": "вступительный экзамен"
+      "ru": "вступительный экзамен",
+      "fr": "examen d'entrée"
     },
     "examples": [],
     "meta": {
@@ -4132,12 +4131,12 @@ const WORDS_KO_B1 = [
       "en": "handle",
       "de": "behandeln",
       "es": "manejar",
-      "pl": "traktować",
       "it": "trattare",
       "pt": "tratar",
       "ja": "扱う",
       "zh": "处理",
-      "ru": "обрабатывать"
+      "ru": "обрабатывать",
+      "fr": "gérer"
     },
     "examples": [],
     "meta": {
@@ -4164,12 +4163,12 @@ const WORDS_KO_B1 = [
       "en": "company",
       "de": "das Unternehmen",
       "es": "la empresa",
-      "pl": "firma",
       "it": "l'azienda",
       "pt": "a empresa",
       "ja": "企業",
       "zh": "公司",
-      "ru": "компания"
+      "ru": "компания",
+      "fr": "entreprise"
     },
     "examples": [],
     "meta": {
@@ -4195,12 +4194,12 @@ const WORDS_KO_B1 = [
       "en": "National Assembly",
       "de": "die Nationalversammlung",
       "es": "la Asamblea Nacional",
-      "pl": "Zgromadzenie Narodowe",
       "it": "l'Assemblea Nazionale",
       "pt": "a Assembleia Nacional",
       "ja": "国会",
       "zh": "国会",
-      "ru": "Национальное собрание"
+      "ru": "Национальное собрание",
+      "fr": "Assemblée nationale"
     },
     "examples": [],
     "meta": {
@@ -4226,12 +4225,12 @@ const WORDS_KO_B1 = [
       "en": "time",
       "de": "die Zeit",
       "es": "el tiempo",
-      "pl": "czas",
       "it": "il tempo",
       "pt": "o tempo",
       "ja": "歳月",
       "zh": "岁月",
-      "ru": "время"
+      "ru": "время",
+      "fr": "temps"
     },
     "examples": [],
     "meta": {
@@ -4257,12 +4256,12 @@ const WORDS_KO_B1 = [
       "en": "realize",
       "de": "erkennen",
       "es": "darse cuenta",
-      "pl": "uświadomić sobie",
       "it": "rendersi conto",
       "pt": "perceber",
       "ja": "悟る",
       "zh": "领悟",
-      "ru": "осознавать"
+      "ru": "осознавать",
+      "fr": "réaliser"
     },
     "examples": [],
     "meta": {
@@ -4289,12 +4288,12 @@ const WORDS_KO_B1 = [
       "en": "negativity",
       "de": "die Negativität",
       "es": "la negatividad",
-      "pl": "negatywność",
       "it": "la negatività",
       "pt": "a negatividade",
       "ja": "否定",
       "zh": "否定",
-      "ru": "отрицание"
+      "ru": "отрицание",
+      "fr": "négativité"
     },
     "examples": [],
     "meta": {
@@ -4320,12 +4319,12 @@ const WORDS_KO_B1 = [
       "en": "circumstance",
       "de": "die Umstände",
       "es": "las circunstancias",
-      "pl": "okoliczności",
       "it": "le circostanze",
       "pt": "as circunstâncias",
       "ja": "事情",
       "zh": "情况",
-      "ru": "обстоятельства"
+      "ru": "обстоятельства",
+      "fr": "circonstance"
     },
     "examples": [],
     "meta": {
@@ -4351,12 +4350,12 @@ const WORDS_KO_B1 = [
       "en": "handling",
       "de": "die Behandlung",
       "es": "el manejo",
-      "pl": "obsługa",
       "it": "la gestione",
       "pt": "o tratamento",
       "ja": "処理",
       "zh": "处理",
-      "ru": "обработка"
+      "ru": "обработка",
+      "fr": "gestion"
     },
     "examples": [],
     "meta": {
@@ -4382,12 +4381,12 @@ const WORDS_KO_B1 = [
       "en": "look",
       "de": "das Aussehen",
       "es": "la apariencia",
-      "pl": "wygląd",
       "it": "l'aspetto",
       "pt": "a aparência",
       "ja": "様子",
       "zh": "样子",
-      "ru": "вид"
+      "ru": "вид",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {
@@ -4413,12 +4412,12 @@ const WORDS_KO_B1 = [
       "en": "inside",
       "de": "das Innere",
       "es": "el interior",
-      "pl": "wnętrze",
       "it": "l'interno",
       "pt": "o interior",
       "ja": "内部",
       "zh": "内部",
-      "ru": "внутренняя часть"
+      "ru": "внутренняя часть",
+      "fr": "intérieur"
     },
     "examples": [],
     "meta": {
@@ -4444,12 +4443,12 @@ const WORDS_KO_B1 = [
       "en": "burden",
       "de": "die Belastung",
       "es": "la carga",
-      "pl": "obciążenie",
       "it": "l'onere",
       "pt": "o fardo",
       "ja": "負担",
       "zh": "负担",
-      "ru": "бремя"
+      "ru": "бремя",
+      "fr": "fardeau"
     },
     "examples": [],
     "meta": {
@@ -4475,12 +4474,12 @@ const WORDS_KO_B1 = [
       "en": "committee member",
       "de": "das Komiteemitglied",
       "es": "el miembro del comité",
-      "pl": "członek komisji",
       "it": "il membro del comitato",
       "pt": "o membro do comitê",
       "ja": "委員",
       "zh": "委员",
-      "ru": "член комитета"
+      "ru": "член комитета",
+      "fr": "membre du comité"
     },
     "examples": [],
     "meta": {
@@ -4506,12 +4505,12 @@ const WORDS_KO_B1 = [
       "en": "rule",
       "de": "das Gesetz",
       "es": "la regla",
-      "pl": "zasada",
       "it": "la regola",
       "pt": "a regra",
       "ja": "法則",
       "zh": "法则",
-      "ru": "правило"
+      "ru": "правило",
+      "fr": "règle"
     },
     "examples": [],
     "meta": {
@@ -4537,12 +4536,12 @@ const WORDS_KO_B1 = [
       "en": "pollution",
       "de": "die Verschmutzung",
       "es": "la contaminación",
-      "pl": "zanieczyszczenie",
       "it": "l'inquinamento",
       "pt": "a poluição",
       "ja": "汚染",
       "zh": "污染",
-      "ru": "загрязнение"
+      "ru": "загрязнение",
+      "fr": "pollution"
     },
     "examples": [],
     "meta": {
@@ -4568,12 +4567,12 @@ const WORDS_KO_B1 = [
       "en": "participate",
       "de": "teilnehmen",
       "es": "participar",
-      "pl": "uczestniczyć",
       "it": "partecipare",
       "pt": "participar",
       "ja": "参加する",
       "zh": "参与",
-      "ru": "участвовать"
+      "ru": "участвовать",
+      "fr": "participer"
     },
     "examples": [],
     "meta": {
@@ -4600,12 +4599,12 @@ const WORDS_KO_B1 = [
       "en": "fault",
       "de": "die Schuld",
       "es": "la culpa",
-      "pl": "wina",
       "it": "la colpa",
       "pt": "a culpa",
       "ja": "せい",
       "zh": "탓",
-      "ru": "вина"
+      "ru": "вина",
+      "fr": "faute"
     },
     "examples": [],
     "meta": {
@@ -4631,12 +4630,12 @@ const WORDS_KO_B1 = [
       "en": "crime",
       "de": "das Verbrechen",
       "es": "el crimen",
-      "pl": "przestępstwo",
       "it": "il crimine",
       "pt": "o crime",
       "ja": "犯罪",
       "zh": "犯罪",
-      "ru": "преступление"
+      "ru": "преступление",
+      "fr": "crime"
     },
     "examples": [],
     "meta": {
@@ -4662,12 +4661,12 @@ const WORDS_KO_B1 = [
       "en": "logic",
       "de": "die Logik",
       "es": "la lógica",
-      "pl": "logika",
       "it": "la logica",
       "pt": "a lógica",
       "ja": "論理",
       "zh": "逻辑",
-      "ru": "логика"
+      "ru": "логика",
+      "fr": "logique"
     },
     "examples": [],
     "meta": {
@@ -4693,12 +4692,12 @@ const WORDS_KO_B1 = [
       "en": "sense",
       "de": "der Sinn",
       "es": "el sentido",
-      "pl": "zmysł",
       "it": "il senso",
       "pt": "o sentido",
       "ja": "感覚",
       "zh": "感觉",
-      "ru": "чувство"
+      "ru": "чувство",
+      "fr": "sens"
     },
     "examples": [],
     "meta": {
@@ -4724,12 +4723,12 @@ const WORDS_KO_B1 = [
       "en": "organization",
       "de": "die Organisation",
       "es": "la organización",
-      "pl": "organizacja",
       "it": "l'organizzazione",
       "pt": "a organização",
       "ja": "機構",
       "zh": "机构",
-      "ru": "организация"
+      "ru": "организация",
+      "fr": "organisation"
     },
     "examples": [],
     "meta": {
@@ -4755,12 +4754,12 @@ const WORDS_KO_B1 = [
       "en": "candidate",
       "de": "der Kandidat",
       "es": "el candidato",
-      "pl": "kandydat",
       "it": "il candidato",
       "pt": "o candidato",
       "ja": "候補者",
       "zh": "候选人",
-      "ru": "кандидат"
+      "ru": "кандидат",
+      "fr": "candidat"
     },
     "examples": [],
     "meta": {
@@ -4786,12 +4785,12 @@ const WORDS_KO_B1 = [
       "en": "reason",
       "de": "der Grund",
       "es": "la razón",
-      "pl": "powód",
       "it": "la ragione",
       "pt": "a razão",
       "ja": "理由",
       "zh": "理由",
-      "ru": "причина"
+      "ru": "причина",
+      "fr": "raison"
     },
     "examples": [],
     "meta": {
@@ -4817,12 +4816,12 @@ const WORDS_KO_B1 = [
       "en": "viewpoint",
       "de": "der Blickwinkel",
       "es": "el punto de vista",
-      "pl": "punkt widzenia",
       "it": "il punto di vista",
       "pt": "o ponto de vista",
       "ja": "視点",
       "zh": "观点",
-      "ru": "точка зрения"
+      "ru": "точка зрения",
+      "fr": "point de vue"
     },
     "examples": [],
     "meta": {
@@ -4848,12 +4847,12 @@ const WORDS_KO_B1 = [
       "en": "lead",
       "de": "führen",
       "es": "liderar",
-      "pl": "prowadzić",
       "it": "guidare",
       "pt": "liderar",
       "ja": "導く",
       "zh": "领导",
-      "ru": "вести"
+      "ru": "вести",
+      "fr": "mener"
     },
     "examples": [],
     "meta": {
@@ -4880,12 +4879,12 @@ const WORDS_KO_B1 = [
       "en": "means",
       "de": "das Mittel",
       "es": "el medio",
-      "pl": "środek",
       "it": "il mezzo",
       "pt": "o meio",
       "ja": "手段",
       "zh": "手段",
-      "ru": "средство"
+      "ru": "средство",
+      "fr": "moyen"
     },
     "examples": [],
     "meta": {
@@ -4911,12 +4910,12 @@ const WORDS_KO_B1 = [
       "en": "form",
       "de": "bilden",
       "es": "formar",
-      "pl": "tworzyć",
       "it": "formare",
       "pt": "formar",
       "ja": "形成する",
       "zh": "形成",
-      "ru": "формировать"
+      "ru": "формировать",
+      "fr": "former"
     },
     "examples": [],
     "meta": {
@@ -4942,12 +4941,12 @@ const WORDS_KO_B1 = [
       "en": "devote",
       "de": "widmen",
       "es": "dedicar",
-      "pl": "poświęcać",
       "it": "dedicare",
       "pt": "dedicar",
       "ja": "傾ける",
       "zh": "倾注",
-      "ru": "уделять"
+      "ru": "уделять",
+      "fr": "consacrer"
     },
     "examples": [],
     "meta": {
@@ -4974,12 +4973,12 @@ const WORDS_KO_B1 = [
       "en": "scene",
       "de": "die Szene",
       "es": "la escena",
-      "pl": "scena",
       "it": "la scena",
       "pt": "a cena",
       "ja": "場面",
       "zh": "场景",
-      "ru": "сцена"
+      "ru": "сцена",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {
@@ -5005,12 +5004,12 @@ const WORDS_KO_B1 = [
       "en": "accompany",
       "de": "begleiten",
       "es": "acompañar",
-      "pl": "towarzyszyć",
       "it": "accompagnare",
       "pt": "acompanhar",
       "ja": "伴う",
       "zh": "陪伴",
-      "ru": "сопровождать"
+      "ru": "сопровождать",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {
@@ -5037,12 +5036,12 @@ const WORDS_KO_B1 = [
       "en": "opening",
       "de": "die Öffnung",
       "es": "la apertura",
-      "pl": "otwarcie",
       "it": "l'apertura",
       "pt": "a abertura",
       "ja": "開放",
       "zh": "开放",
-      "ru": "открытие"
+      "ru": "открытие",
+      "fr": "ouverture"
     },
     "examples": [],
     "meta": {
@@ -5068,12 +5067,12 @@ const WORDS_KO_B1 = [
       "en": "software",
       "de": "die Software",
       "es": "el software",
-      "pl": "oprogramowanie",
       "it": "il software",
       "pt": "o software",
       "ja": "ソフトウェア",
       "zh": "软件",
-      "ru": "программное обеспечение"
+      "ru": "программное обеспечение",
+      "fr": "logiciel"
     },
     "examples": [],
     "meta": {
@@ -5099,12 +5098,12 @@ const WORDS_KO_B1 = [
       "en": "reaction",
       "de": "die Reaktion",
       "es": "la reacción",
-      "pl": "reakcja",
       "it": "la reazione",
       "pt": "a reação",
       "ja": "反応",
       "zh": "反应",
-      "ru": "реакция"
+      "ru": "реакция",
+      "fr": "réaction"
     },
     "examples": [],
     "meta": {
@@ -5130,12 +5129,12 @@ const WORDS_KO_B1 = [
       "en": "criticism",
       "de": "die Kritik",
       "es": "la crítica",
-      "pl": "krytyka",
       "it": "la critica",
       "pt": "a crítica",
       "ja": "批判",
       "zh": "批评",
-      "ru": "критика"
+      "ru": "критика",
+      "fr": "critique"
     },
     "examples": [],
     "meta": {
@@ -5161,12 +5160,12 @@ const WORDS_KO_B1 = [
       "en": "generation",
       "de": "die Generation",
       "es": "la generación",
-      "pl": "pokolenie",
       "it": "la generazione",
       "pt": "a geração",
       "ja": "世代",
       "zh": "代",
-      "ru": "поколение"
+      "ru": "поколение",
+      "fr": "génération"
     },
     "examples": [],
     "meta": {
@@ -5192,12 +5191,12 @@ const WORDS_KO_B1 = [
       "en": "disclosure",
       "de": "die Offenlegung",
       "es": "la divulgación",
-      "pl": "ujawnienie",
       "it": "la divulgazione",
       "pt": "a divulgação",
       "ja": "公開",
       "zh": "公开",
-      "ru": "раскрытие"
+      "ru": "раскрытие",
+      "fr": "divulgation"
     },
     "examples": [],
     "meta": {
@@ -5223,12 +5222,12 @@ const WORDS_KO_B1 = [
       "en": "medium",
       "de": "das Medium",
       "es": "el medio",
-      "pl": "medium",
       "it": "il mezzo",
       "pt": "o meio",
       "ja": "媒体",
       "zh": "媒体",
-      "ru": "средство"
+      "ru": "средство",
+      "fr": "milieu"
     },
     "examples": [],
     "meta": {
@@ -5254,12 +5253,12 @@ const WORDS_KO_B1 = [
       "en": "experience",
       "de": "die Erfahrung",
       "es": "la experiencia",
-      "pl": "doświadczenie",
       "it": "l'esperienza",
       "pt": "a experiência",
       "ja": "経験",
       "zh": "经验",
-      "ru": "опыт"
+      "ru": "опыт",
+      "fr": "expérience"
     },
     "examples": [],
     "meta": {
@@ -5285,12 +5284,12 @@ const WORDS_KO_B1 = [
       "en": "detention",
       "de": "die Haft",
       "es": "la detención",
-      "pl": "aresztowanie",
       "it": "la detenzione",
       "pt": "a detenção",
       "ja": "拘束",
       "zh": "拘留",
-      "ru": "задержание"
+      "ru": "задержание",
+      "fr": "détention"
     },
     "examples": [],
     "meta": {
@@ -5316,12 +5315,12 @@ const WORDS_KO_B1 = [
       "en": "overcome",
       "de": "überwinden",
       "es": "superar",
-      "pl": "pokonać",
       "it": "superare",
       "pt": "superar",
       "ja": "克服する",
       "zh": "克服",
-      "ru": "преодолевать"
+      "ru": "преодолевать",
+      "fr": "surmonter"
     },
     "examples": [],
     "meta": {
@@ -5348,12 +5347,12 @@ const WORDS_KO_B1 = [
       "en": "illegal",
       "de": "das Illegale",
       "es": "la ilegalidad",
-      "pl": "nielegalność",
       "it": "l'illegalità",
       "pt": "a ilegalidade",
       "ja": "違法",
       "zh": "非法",
-      "ru": "незаконность"
+      "ru": "незаконность",
+      "fr": "illégal"
     },
     "examples": [],
     "meta": {
@@ -5380,12 +5379,12 @@ const WORDS_KO_B1 = [
       "en": "constant",
       "de": "konstant",
       "es": "constante",
-      "pl": "stały",
       "it": "costante",
       "pt": "constante",
       "ja": "一定だ",
       "zh": "恒定",
-      "ru": "постоянный"
+      "ru": "постоянный",
+      "fr": "constant"
     },
     "examples": [],
     "meta": {
@@ -5409,12 +5408,12 @@ const WORDS_KO_B1 = [
       "en": "mince",
       "de": "hacken",
       "es": "picar",
-      "pl": "siekać",
       "it": "tritare",
       "pt": "picar",
       "ja": "刻む",
       "zh": "剁碎",
-      "ru": "рубить"
+      "ru": "рубить",
+      "fr": "hacher"
     },
     "examples": [],
     "meta": {
@@ -5441,12 +5440,12 @@ const WORDS_KO_B1 = [
       "en": "be revealed",
       "de": "aufgedeckt werden",
       "es": "ser revelado",
-      "pl": "zostać ujawnionym",
       "it": "essere rivelato",
       "pt": "ser revelado",
       "ja": "明らかにされる",
       "zh": "被揭露",
-      "ru": "быть раскрытым"
+      "ru": "быть раскрытым",
+      "fr": "être révélé"
     },
     "examples": [],
     "meta": {
@@ -5473,12 +5472,12 @@ const WORDS_KO_B1 = [
       "en": "ideology",
       "de": "die Ideologie",
       "es": "la ideología",
-      "pl": "ideologia",
       "it": "l'ideologia",
       "pt": "a ideologia",
       "ja": "理念",
       "zh": "意识形态",
-      "ru": "идеология"
+      "ru": "идеология",
+      "fr": "idéologie"
     },
     "examples": [],
     "meta": {
@@ -5504,12 +5503,12 @@ const WORDS_KO_B1 = [
       "en": "undergo",
       "de": "durchmachen",
       "es": "sufrir",
-      "pl": "przejść",
       "it": "subire",
       "pt": "sofrer",
       "ja": "経験する",
       "zh": "经历",
-      "ru": "пережить"
+      "ru": "пережить",
+      "fr": "subir"
     },
     "examples": [],
     "meta": {
@@ -5536,12 +5535,12 @@ const WORDS_KO_B1 = [
       "en": "cultural property",
       "de": "das Kulturgut",
       "es": "el patrimonio cultural",
-      "pl": "dziedzictwo kulturowe",
       "it": "il bene culturale",
       "pt": "o patrimônio cultural",
       "ja": "文化財",
       "zh": "文化遗产",
-      "ru": "культурное наследие"
+      "ru": "культурное наследие",
+      "fr": "bien culturel"
     },
     "examples": [],
     "meta": {
@@ -5567,12 +5566,12 @@ const WORDS_KO_B1 = [
       "en": "be composed of",
       "de": "bestehen aus",
       "es": "estar compuesto de",
-      "pl": "składać się z",
       "it": "essere composto da",
       "pt": "ser composto por",
       "ja": "構成される",
       "zh": "构成",
-      "ru": "состоять из"
+      "ru": "состоять из",
+      "fr": "être composé de"
     },
     "examples": [],
     "meta": {
@@ -5599,12 +5598,12 @@ const WORDS_KO_B1 = [
       "en": "unique",
       "de": "einzigartig",
       "es": "único",
-      "pl": "unikalny",
       "it": "unico",
       "pt": "único",
       "ja": "ユニークな",
       "zh": "独特的",
-      "ru": "уникальный"
+      "ru": "уникальный",
+      "fr": "unique"
     },
     "examples": [],
     "meta": {
@@ -5628,12 +5627,12 @@ const WORDS_KO_B1 = [
       "en": "case",
       "de": "der Fall",
       "es": "el caso",
-      "pl": "przypadek",
       "it": "il caso",
       "pt": "o caso",
       "ja": "事例",
       "zh": "案例",
-      "ru": "случай"
+      "ru": "случай",
+      "fr": "cas"
     },
     "examples": [],
     "meta": {
@@ -5659,12 +5658,12 @@ const WORDS_KO_B1 = [
       "en": "promote",
       "de": "fördern",
       "es": "promover",
-      "pl": "promować",
       "it": "promuovere",
       "pt": "promover",
       "ja": "推進する",
       "zh": "推进",
-      "ru": "продвигать"
+      "ru": "продвигать",
+      "fr": "promouvoir"
     },
     "examples": [],
     "meta": {
@@ -5691,12 +5690,12 @@ const WORDS_KO_B1 = [
       "en": "frame",
       "de": "der Rahmen",
       "es": "el marco",
-      "pl": "rama",
       "it": "la cornice",
       "pt": "a moldura",
       "ja": "枠",
       "zh": "框架",
-      "ru": "рамка"
+      "ru": "рамка",
+      "fr": "cadre"
     },
     "examples": [],
     "meta": {
@@ -5722,12 +5721,12 @@ const WORDS_KO_B1 = [
       "en": "average",
       "de": "der Durchschnitt",
       "es": "el promedio",
-      "pl": "średnia",
       "it": "la media",
       "pt": "a média",
       "ja": "平均",
       "zh": "平均",
-      "ru": "среднее"
+      "ru": "среднее",
+      "fr": "moyenne"
     },
     "examples": [],
     "meta": {
@@ -5753,12 +5752,12 @@ const WORDS_KO_B1 = [
       "en": "training",
       "de": "das Training",
       "es": "el entrenamiento",
-      "pl": "trening",
       "it": "l'allenamento",
       "pt": "o treinamento",
       "ja": "訓練",
       "zh": "训练",
-      "ru": "тренировка"
+      "ru": "тренировка",
+      "fr": "formation"
     },
     "examples": [],
     "meta": {
@@ -5784,12 +5783,12 @@ const WORDS_KO_B1 = [
       "en": "flow",
       "de": "der Fluss",
       "es": "el flujo",
-      "pl": "przepływ",
       "it": "il flusso",
       "pt": "o fluxo",
       "ja": "流れ",
       "zh": "流动",
-      "ru": "поток"
+      "ru": "поток",
+      "fr": "flux"
     },
     "examples": [],
     "meta": {
@@ -5815,12 +5814,12 @@ const WORDS_KO_B1 = [
       "en": "crisis",
       "de": "die Krise",
       "es": "la crisis",
-      "pl": "kryzys",
       "it": "la crisi",
       "pt": "a crise",
       "ja": "危機",
       "zh": "危机",
-      "ru": "кризис"
+      "ru": "кризис",
+      "fr": "crise"
     },
     "examples": [],
     "meta": {
@@ -5846,12 +5845,12 @@ const WORDS_KO_B1 = [
       "en": "political party",
       "de": "die politische Partei",
       "es": "el partido político",
-      "pl": "partia polityczna",
       "it": "il partito politico",
       "pt": "o partido político",
       "ja": "政党",
       "zh": "政党",
-      "ru": "политическая партия"
+      "ru": "политическая партия",
+      "fr": "parti politique"
     },
     "examples": [],
     "meta": {
@@ -5877,12 +5876,12 @@ const WORDS_KO_B1 = [
       "en": "violence",
       "de": "die Gewalt",
       "es": "la violencia",
-      "pl": "przemoc",
       "it": "la violenza",
       "pt": "a violência",
       "ja": "暴力",
       "zh": "暴力",
-      "ru": "насилие"
+      "ru": "насилие",
+      "fr": "violence"
     },
     "examples": [],
     "meta": {
@@ -5908,12 +5907,12 @@ const WORDS_KO_B1 = [
       "en": "procedure",
       "de": "das Verfahren",
       "es": "el procedimiento",
-      "pl": "procedura",
       "it": "la procedura",
       "pt": "o procedimento",
       "ja": "手続き",
       "zh": "程序",
-      "ru": "процедура"
+      "ru": "процедура",
+      "fr": "procédure"
     },
     "examples": [],
     "meta": {
@@ -5939,12 +5938,12 @@ const WORDS_KO_B1 = [
       "en": "to increase",
       "de": "ansteigen",
       "es": "incrementar",
-      "pl": "wzrastać",
       "it": "aumentare",
       "pt": "aumentar",
       "ja": "増加する",
       "zh": "增加",
-      "ru": "увеличиваться"
+      "ru": "увеличиваться",
+      "fr": "augmenter"
     },
     "examples": [],
     "meta": {
@@ -5971,12 +5970,12 @@ const WORDS_KO_B1 = [
       "en": "shout",
       "de": "schreien",
       "es": "gritar",
-      "pl": "krzyczeć",
       "it": "gridare",
       "pt": "gritar",
       "ja": "叫ぶ",
       "zh": "喊叫",
-      "ru": "кричать"
+      "ru": "кричать",
+      "fr": "crier"
     },
     "examples": [],
     "meta": {
@@ -6003,12 +6002,12 @@ const WORDS_KO_B1 = [
       "en": "right",
       "de": "das Recht",
       "es": "el derecho",
-      "pl": "prawo",
       "it": "il diritto",
       "pt": "o direito",
       "ja": "権利",
       "zh": "权利",
-      "ru": "право"
+      "ru": "право",
+      "fr": "droit"
     },
     "examples": [],
     "meta": {
@@ -6034,12 +6033,12 @@ const WORDS_KO_B1 = [
       "en": "resource",
       "de": "die Ressource",
       "es": "el recurso",
-      "pl": "zasób",
       "it": "la risorsa",
       "pt": "o recurso",
       "ja": "資源",
       "zh": "资源",
-      "ru": "ресурс"
+      "ru": "ресурс",
+      "fr": "ressource"
     },
     "examples": [],
     "meta": {
@@ -6065,12 +6064,12 @@ const WORDS_KO_B1 = [
       "en": "pass",
       "de": "übergeben",
       "es": "pasar",
-      "pl": "przekazywać",
       "it": "passare",
       "pt": "passar",
       "ja": "越える",
       "zh": "传递",
-      "ru": "передавать"
+      "ru": "передавать",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {
@@ -6097,12 +6096,12 @@ const WORDS_KO_B1 = [
       "en": "object",
       "de": "der Gegenstand",
       "es": "el objeto",
-      "pl": "obiekt",
       "it": "l'oggetto",
       "pt": "o objeto",
       "ja": "物体",
       "zh": "物体",
-      "ru": "объект"
+      "ru": "объект",
+      "fr": "objet"
     },
     "examples": [],
     "meta": {
@@ -6128,12 +6127,12 @@ const WORDS_KO_B1 = [
       "en": "protest",
       "de": "der Protest",
       "es": "la protesta",
-      "pl": "protest",
       "it": "la protesta",
       "pt": "o protesto",
       "ja": "抗議",
       "zh": "抗议",
-      "ru": "протест"
+      "ru": "протест",
+      "fr": "protestation"
     },
     "examples": [],
     "meta": {
@@ -6159,12 +6158,12 @@ const WORDS_KO_B1 = [
       "en": "exclude",
       "de": "ausschließen",
       "es": "excluir",
-      "pl": "wykluczać",
       "it": "escludere",
       "pt": "excluir",
       "ja": "除く",
       "zh": "排除",
-      "ru": "исключать"
+      "ru": "исключать",
+      "fr": "exclure"
     },
     "examples": [],
     "meta": {
@@ -6191,12 +6190,12 @@ const WORDS_KO_B1 = [
       "en": "opinion",
       "de": "die Meinung",
       "es": "la opinión",
-      "pl": "opinia",
       "it": "l'opinione",
       "pt": "a opinião",
       "ja": "見解",
       "zh": "见解",
-      "ru": "мнение"
+      "ru": "мнение",
+      "fr": "opinion"
     },
     "examples": [],
     "meta": {
@@ -6222,12 +6221,12 @@ const WORDS_KO_B1 = [
       "en": "stability",
       "de": "die Stabilität",
       "es": "la estabilidad",
-      "pl": "stabilność",
       "it": "la stabilità",
       "pt": "a estabilidade",
       "ja": "安定",
       "zh": "稳定",
-      "ru": "стабильность"
+      "ru": "стабильность",
+      "fr": "stabilité"
     },
     "examples": [],
     "meta": {
@@ -6254,12 +6253,12 @@ const WORDS_KO_B1 = [
       "en": "gaze",
       "de": "der Blick",
       "es": "la mirada",
-      "pl": "spojrzenie",
       "it": "lo sguardo",
       "pt": "o olhar",
       "ja": "視線",
       "zh": "目光",
-      "ru": "взгляд"
+      "ru": "взгляд",
+      "fr": "regard"
     },
     "examples": [],
     "meta": {
@@ -6285,12 +6284,12 @@ const WORDS_KO_B1 = [
       "en": "be given",
       "de": "gegeben werden",
       "es": "ser dado",
-      "pl": "zostać danym",
       "it": "essere dato",
       "pt": "ser dado",
       "ja": "与えられる",
       "zh": "被给予",
-      "ru": "быть данным"
+      "ru": "быть данным",
+      "fr": "être donné"
     },
     "examples": [],
     "meta": {
@@ -6317,12 +6316,12 @@ const WORDS_KO_B1 = [
       "en": "material",
       "de": "das Material",
       "es": "el material",
-      "pl": "materiał",
       "it": "il materiale",
       "pt": "o material",
       "ja": "素材",
       "zh": "素材",
-      "ru": "материал"
+      "ru": "материал",
+      "fr": "matériel"
     },
     "examples": [],
     "meta": {
@@ -6348,12 +6347,12 @@ const WORDS_KO_B1 = [
       "en": "prospect",
       "de": "die Aussicht",
       "es": "la perspectiva",
-      "pl": "perspektywa",
       "it": "la prospettiva",
       "pt": "a perspectiva",
       "ja": "見通し",
       "zh": "前景",
-      "ru": "перспектива"
+      "ru": "перспектива",
+      "fr": "perspective"
     },
     "examples": [],
     "meta": {
@@ -6379,12 +6378,12 @@ const WORDS_KO_B1 = [
       "en": "form",
       "de": "sich bilden",
       "es": "formarse",
-      "pl": "tworzyć się",
       "it": "formarsi",
       "pt": "formar-se",
       "ja": "形成される",
       "zh": "形成",
-      "ru": "формироваться"
+      "ru": "формироваться",
+      "fr": "former"
     },
     "examples": [],
     "meta": {
@@ -6411,12 +6410,12 @@ const WORDS_KO_B1 = [
       "en": "conclusion",
       "de": "die Schlussfolgerung",
       "es": "la conclusión",
-      "pl": "wniosek",
       "it": "la conclusione",
       "pt": "a conclusão",
       "ja": "結論",
       "zh": "结论",
-      "ru": "заключение"
+      "ru": "заключение",
+      "fr": "conclusion"
     },
     "examples": [],
     "meta": {
@@ -6442,12 +6441,12 @@ const WORDS_KO_B1 = [
       "en": "bring in",
       "de": "hereinbringen",
       "es": "traer adentro",
-      "pl": "wpuścić",
       "it": "portare dentro",
       "pt": "trazer para dentro",
       "ja": "入れる",
       "zh": "引进",
-      "ru": "впускать"
+      "ru": "впускать",
+      "fr": "introduire"
     },
     "examples": [],
     "meta": {
@@ -6474,12 +6473,12 @@ const WORDS_KO_B1 = [
       "en": "children",
       "de": "die Kinder",
       "es": "los hijos",
-      "pl": "dzieci",
       "it": "i figli",
       "pt": "os filhos",
       "ja": "子供",
       "zh": "子女",
-      "ru": "дети"
+      "ru": "дети",
+      "fr": "enfants"
     },
     "examples": [],
     "meta": {
@@ -6505,12 +6504,12 @@ const WORDS_KO_B1 = [
       "en": "judgment",
       "de": "das Urteil",
       "es": "el juicio",
-      "pl": "wyrok",
       "it": "il giudizio",
       "pt": "o julgamento",
       "ja": "判決",
       "zh": "判决",
-      "ru": "решение"
+      "ru": "решение",
+      "fr": "jugement"
     },
     "examples": [],
     "meta": {
@@ -6537,12 +6536,12 @@ const WORDS_KO_B1 = [
       "en": "West",
       "de": "der Westen",
       "es": "Occidente",
-      "pl": "Zachód",
       "it": "l'Occidente",
       "pt": "o Ocidente",
       "ja": "西洋",
       "zh": "西方",
-      "ru": "Запад"
+      "ru": "Запад",
+      "fr": "Ouest"
     },
     "examples": [],
     "meta": {
@@ -6568,12 +6567,12 @@ const WORDS_KO_B1 = [
       "en": "possession",
       "de": "der Besitz",
       "es": "la posesión",
-      "pl": "posiadanie",
       "it": "il possesso",
       "pt": "a posse",
       "ja": "所有",
       "zh": "所有",
-      "ru": "владение"
+      "ru": "владение",
+      "fr": "possession"
     },
     "examples": [],
     "meta": {
@@ -6599,12 +6598,12 @@ const WORDS_KO_B1 = [
       "en": "part",
       "de": "der Teil",
       "es": "la parte",
-      "pl": "część",
       "it": "la parte",
       "pt": "a parte",
       "ja": "部門",
       "zh": "部门",
-      "ru": "отдел"
+      "ru": "отдел",
+      "fr": "partie"
     },
     "examples": [],
     "meta": {
@@ -6630,12 +6629,12 @@ const WORDS_KO_B1 = [
       "en": "regulation",
       "de": "die Regelung",
       "es": "la regulación",
-      "pl": "przepis",
       "it": "la regolamentazione",
       "pt": "a regulamentação",
       "ja": "規定",
       "zh": "规定",
-      "ru": "правило"
+      "ru": "правило",
+      "fr": "règlement"
     },
     "examples": [],
     "meta": {
@@ -6661,12 +6660,12 @@ const WORDS_KO_B1 = [
       "en": "to act",
       "de": "wirken",
       "es": "actuar",
-      "pl": "działać",
       "it": "agire",
       "pt": "agir",
       "ja": "作用する",
       "zh": "起作用",
-      "ru": "действовать"
+      "ru": "действовать",
+      "fr": "agir"
     },
     "examples": [],
     "meta": {
@@ -6693,12 +6692,12 @@ const WORDS_KO_B1 = [
       "en": "improvement",
       "de": "die Verbesserung",
       "es": "la mejora",
-      "pl": "poprawa",
       "it": "il miglioramento",
       "pt": "a melhoria",
       "ja": "改善",
       "zh": "改善",
-      "ru": "улучшение"
+      "ru": "улучшение",
+      "fr": "amélioration"
     },
     "examples": [],
     "meta": {
@@ -6724,12 +6723,12 @@ const WORDS_KO_B1 = [
       "en": "desirable",
       "de": "wünschenswert",
       "es": "deseable",
-      "pl": "pożądany",
       "it": "desiderabile",
       "pt": "desejável",
       "ja": "望ましい",
       "zh": "理想的",
-      "ru": "желательный"
+      "ru": "желательный",
+      "fr": "souhaitable"
     },
     "examples": [],
     "meta": {
@@ -6753,12 +6752,12 @@ const WORDS_KO_B1 = [
       "en": "myth",
       "de": "der Mythos",
       "es": "el mito",
-      "pl": "mit",
       "it": "il mito",
       "pt": "o mito",
       "ja": "神話",
       "zh": "神话",
-      "ru": "миф"
+      "ru": "миф",
+      "fr": "mythe"
     },
     "examples": [],
     "meta": {
@@ -6784,12 +6783,12 @@ const WORDS_KO_B1 = [
       "en": "achieve",
       "de": "erzielen",
       "es": "lograr",
-      "pl": "osiągnąć",
       "it": "ottenere",
       "pt": "alcançar",
       "ja": "収穫する",
       "zh": "取得",
-      "ru": "добиваться"
+      "ru": "добиваться",
+      "fr": "atteindre"
     },
     "examples": [],
     "meta": {
@@ -6816,12 +6815,12 @@ const WORDS_KO_B1 = [
       "en": "scope",
       "de": "der Umfang",
       "es": "el alcance",
-      "pl": "zakres",
       "it": "l'ambito",
       "pt": "o âmbito",
       "ja": "範囲",
       "zh": "范围",
-      "ru": "область"
+      "ru": "область",
+      "fr": "portée"
     },
     "examples": [],
     "meta": {
@@ -6847,12 +6846,12 @@ const WORDS_KO_B1 = [
       "en": "fundamental",
       "de": "grundlegend",
       "es": "fundamental",
-      "pl": "fundamentalny",
       "it": "fondamentale",
       "pt": "fundamental",
       "ja": "根本的",
       "zh": "根本的",
-      "ru": "фундаментальный"
+      "ru": "фундаментальный",
+      "fr": "fondamental"
     },
     "examples": [],
     "meta": {
@@ -6876,12 +6875,12 @@ const WORDS_KO_B1 = [
       "en": "large size",
       "de": "die Großform",
       "es": "el gran tamaño",
-      "pl": "duży rozmiar",
       "it": "la grande dimensione",
       "pt": "o grande porte",
       "ja": "大型",
       "zh": "大型",
-      "ru": "крупный"
+      "ru": "крупный",
+      "fr": "grande taille"
     },
     "examples": [],
     "meta": {
@@ -6907,12 +6906,12 @@ const WORDS_KO_B1 = [
       "en": "full-scale",
       "de": "vollumfänglich",
       "es": "a gran escala",
-      "pl": "na pełną skalę",
       "it": "su larga scala",
       "pt": "em grande escala",
       "ja": "本格的",
       "zh": "全面",
-      "ru": "полномасштабный"
+      "ru": "полномасштабный",
+      "fr": "à grande échelle"
     },
     "examples": [],
     "meta": {
@@ -6936,12 +6935,12 @@ const WORDS_KO_B1 = [
       "en": "spread",
       "de": "sich verbreiten",
       "es": "difundirse",
-      "pl": "rozprzestrzeniać się",
       "it": "diffondersi",
       "pt": "espalhar-se",
       "ja": "広がる",
       "zh": "传播",
-      "ru": "распространяться"
+      "ru": "распространяться",
+      "fr": "se propager"
     },
     "examples": [],
     "meta": {
@@ -6968,12 +6967,12 @@ const WORDS_KO_B1 = [
       "en": "people",
       "de": "das Volk",
       "es": "el pueblo",
-      "pl": "lud",
       "it": "il popolo",
       "pt": "o povo",
       "ja": "民",
       "zh": "人民",
-      "ru": "народ"
+      "ru": "народ",
+      "fr": "gens"
     },
     "examples": [],
     "meta": {
@@ -6999,12 +6998,12 @@ const WORDS_KO_B1 = [
       "en": "spirit",
       "de": "der Geist",
       "es": "el espíritu",
-      "pl": "duch",
       "it": "lo spirito",
       "pt": "o espírito",
       "ja": "気",
       "zh": "气",
-      "ru": "дух"
+      "ru": "дух",
+      "fr": "esprit"
     },
     "examples": [],
     "meta": {
@@ -7030,12 +7029,12 @@ const WORDS_KO_B1 = [
       "en": "military",
       "de": "das Militär",
       "es": "el militar",
-      "pl": "wojsko",
       "it": "l'esercito",
       "pt": "o militar",
       "ja": "軍事",
       "zh": "军事",
-      "ru": "военный"
+      "ru": "военный",
+      "fr": "militaire"
     },
     "examples": [],
     "meta": {
@@ -7061,12 +7060,12 @@ const WORDS_KO_B1 = [
       "en": "yard",
       "de": "der Hof",
       "es": "el patio",
-      "pl": "podwórko",
       "it": "il cortile",
       "pt": "o pátio",
       "ja": "庭",
       "zh": "院子",
-      "ru": "двор"
+      "ru": "двор",
+      "fr": "cour"
     },
     "examples": [],
     "meta": {
@@ -7092,12 +7091,12 @@ const WORDS_KO_B1 = [
       "en": "pointing out",
       "de": "hinweisen",
       "es": "señalar",
-      "pl": "wskazywać",
       "it": "indicare",
       "pt": "apontar",
       "ja": "指摘",
       "zh": "指出",
-      "ru": "указывать"
+      "ru": "указывать",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {
@@ -7121,12 +7120,12 @@ const WORDS_KO_B1 = [
       "en": "pair",
       "de": "das Paar",
       "es": "el par",
-      "pl": "para",
       "it": "la coppia",
       "pt": "o par",
       "ja": "ペア",
       "zh": "对",
-      "ru": "пара"
+      "ru": "пара",
+      "fr": "paire"
     },
     "examples": [],
     "meta": {
@@ -7152,12 +7151,12 @@ const WORDS_KO_B1 = [
       "en": "face",
       "de": "bevorstehen",
       "es": "enfrentar",
-      "pl": "stać przed",
       "it": "stare di fronte",
       "pt": "encarar",
       "ja": "控える",
       "zh": "面临",
-      "ru": "предстоять"
+      "ru": "предстоять",
+      "fr": "faire face"
     },
     "examples": [],
     "meta": {
@@ -7184,12 +7183,12 @@ const WORDS_KO_B1 = [
       "en": "budget",
       "de": "der Haushalt",
       "es": "el presupuesto",
-      "pl": "budżet",
       "it": "il bilancio",
       "pt": "o orçamento",
       "ja": "予算",
       "zh": "预算",
-      "ru": "бюджет"
+      "ru": "бюджет",
+      "fr": "budget"
     },
     "examples": [],
     "meta": {
@@ -7215,12 +7214,12 @@ const WORDS_KO_B1 = [
       "en": "concern",
       "de": "die Sorge",
       "es": "la preocupación",
-      "pl": "zmartwienie",
       "it": "la preoccupazione",
       "pt": "a preocupação",
       "ja": "懸念",
       "zh": "担忧",
-      "ru": "беспокойство"
+      "ru": "беспокойство",
+      "fr": "préoccupation"
     },
     "examples": [],
     "meta": {
@@ -7246,12 +7245,12 @@ const WORDS_KO_B1 = [
       "en": "protect",
       "de": "beschützen",
       "es": "proteger",
-      "pl": "chronić",
       "it": "proteggere",
       "pt": "proteger",
       "ja": "守る",
       "zh": "保护",
-      "ru": "защищать"
+      "ru": "защищать",
+      "fr": "protéger"
     },
     "examples": [],
     "meta": {
@@ -7278,12 +7277,12 @@ const WORDS_KO_B1 = [
       "en": "system",
       "de": "das System",
       "es": "el sistema",
-      "pl": "system",
       "it": "il sistema",
       "pt": "o sistema",
       "ja": "システム",
       "zh": "系统",
-      "ru": "система"
+      "ru": "система",
+      "fr": "système"
     },
     "examples": [],
     "meta": {
@@ -7309,12 +7308,12 @@ const WORDS_KO_B1 = [
       "en": "participation",
       "de": "die Teilnahme",
       "es": "la participación",
-      "pl": "uczestnictwo",
       "it": "la partecipazione",
       "pt": "a participação",
       "ja": "参加",
       "zh": "参与",
-      "ru": "участие"
+      "ru": "участие",
+      "fr": "participation"
     },
     "examples": [],
     "meta": {
@@ -7341,12 +7340,12 @@ const WORDS_KO_B1 = [
       "en": "strive",
       "de": "sich bemühen",
       "es": "esforzarse",
-      "pl": "starać się",
       "it": "sforzarsi",
       "pt": "esforçar-se",
       "ja": "努力する",
       "zh": "努力",
-      "ru": "стараться"
+      "ru": "стараться",
+      "fr": "s'efforcer"
     },
     "examples": [],
     "meta": {
@@ -7373,12 +7372,12 @@ const WORDS_KO_B1 = [
       "en": "right",
       "de": "richtig",
       "es": "correcto",
-      "pl": "właściwy",
       "it": "giusto",
       "pt": "certo",
       "ja": "正しい",
       "zh": "正确",
-      "ru": "правильный"
+      "ru": "правильный",
+      "fr": "juste"
     },
     "examples": [],
     "meta": {
@@ -7402,12 +7401,12 @@ const WORDS_KO_B1 = [
       "en": "common",
       "de": "häufig",
       "es": "común",
-      "pl": "częsty",
       "it": "comune",
       "pt": "comum",
       "ja": "一般的",
       "zh": "常见的",
-      "ru": "обычный"
+      "ru": "обычный",
+      "fr": "commun"
     },
     "examples": [],
     "meta": {
@@ -7431,12 +7430,12 @@ const WORDS_KO_B1 = [
       "en": "unit",
       "de": "die Einheit",
       "es": "la unidad",
-      "pl": "jednostka",
       "it": "l'unità",
       "pt": "a unidade",
       "ja": "単位",
       "zh": "单位",
-      "ru": "единица"
+      "ru": "единица",
+      "fr": "unité"
     },
     "examples": [],
     "meta": {
@@ -7462,12 +7461,12 @@ const WORDS_KO_B1 = [
       "en": "outstanding",
       "de": "herausragend",
       "es": "sobresaliente",
-      "pl": "wybitny",
       "it": "eccezionale",
       "pt": "excepcional",
       "ja": "際立っている",
       "zh": "杰出的",
-      "ru": "выдающийся"
+      "ru": "выдающийся",
+      "fr": "remarquable"
     },
     "examples": [],
     "meta": {
@@ -7491,12 +7490,12 @@ const WORDS_KO_B1 = [
       "en": "income",
       "de": "das Einkommen",
       "es": "los ingresos",
-      "pl": "dochód",
       "it": "il reddito",
       "pt": "o rendimento",
       "ja": "収入",
       "zh": "收入",
-      "ru": "доход"
+      "ru": "доход",
+      "fr": "revenu"
     },
     "examples": [],
     "meta": {
@@ -7522,12 +7521,12 @@ const WORDS_KO_B1 = [
       "en": "water supply",
       "de": "die Wasserversorgung",
       "es": "el suministro de agua",
-      "pl": "zaopatrzenie w wodę",
       "it": "l'approvvigionamento idrico",
       "pt": "o abastecimento de água",
       "ja": "水道",
       "zh": "供水",
-      "ru": "водоснабжение"
+      "ru": "водоснабжение",
+      "fr": "approvisionnement en eau"
     },
     "examples": [],
     "meta": {
@@ -7553,12 +7552,12 @@ const WORDS_KO_B1 = [
       "en": "recognize",
       "de": "erkennen",
       "es": "reconocer",
-      "pl": "rozpoznawać",
       "it": "riconoscere",
       "pt": "reconhecer",
       "ja": "認識する",
       "zh": "认识到",
-      "ru": "осознавать"
+      "ru": "осознавать",
+      "fr": "reconnaître"
     },
     "examples": [],
     "meta": {
@@ -7585,12 +7584,12 @@ const WORDS_KO_B1 = [
       "en": "ja",
       "de": "der Zha",
       "es": "el zha",
-      "pl": "zha",
       "it": "lo zha",
       "pt": "o zha",
       "ja": "尺",
       "zh": "尺",
-      "ru": "чжан"
+      "ru": "чжан",
+      "fr": "oui"
     },
     "examples": [],
     "meta": {
@@ -7616,12 +7615,12 @@ const WORDS_KO_B1 = [
       "en": "conclude",
       "de": "abschließen",
       "es": "concluir",
-      "pl": "zakończyć",
       "it": "concludere",
       "pt": "concluir",
       "ja": "結ぶ",
       "zh": "结束",
-      "ru": "завершать"
+      "ru": "завершать",
+      "fr": "conclure"
     },
     "examples": [],
     "meta": {
@@ -7648,12 +7647,12 @@ const WORDS_KO_B1 = [
       "en": "demand",
       "de": "die Nachfrage",
       "es": "la demanda",
-      "pl": "popyt",
       "it": "la domanda",
       "pt": "a demanda",
       "ja": "需要",
       "zh": "需求",
-      "ru": "спрос"
+      "ru": "спрос",
+      "fr": "demande"
     },
     "examples": [],
     "meta": {
@@ -7680,12 +7679,12 @@ const WORDS_KO_B1 = [
       "en": "leader",
       "de": "der Führer",
       "es": "el líder",
-      "pl": "przywódca",
       "it": "il leader",
       "pt": "o líder",
       "ja": "指導者",
       "zh": "领导者",
-      "ru": "лидер"
+      "ru": "лидер",
+      "fr": "chef"
     },
     "examples": [],
     "meta": {
@@ -7711,12 +7710,12 @@ const WORDS_KO_B1 = [
       "en": "compose",
       "de": "bilden",
       "es": "componer",
-      "pl": "komponować",
       "it": "comporre",
       "pt": "compor",
       "ja": "構成する",
       "zh": "构成",
-      "ru": "составлять"
+      "ru": "составлять",
+      "fr": "composer"
     },
     "examples": [],
     "meta": {
@@ -7743,12 +7742,12 @@ const WORDS_KO_B1 = [
       "en": "hit",
       "de": "schlagen",
       "es": "golpear",
-      "pl": "uderzać",
       "it": "colpire",
       "pt": "bater",
       "ja": "叩く",
       "zh": "打",
-      "ru": "бить"
+      "ru": "бить",
+      "fr": "frapper"
     },
     "examples": [],
     "meta": {
@@ -7775,12 +7774,12 @@ const WORDS_KO_B1 = [
       "en": "chairman",
       "de": "der Vorsitzende",
       "es": "el presidente",
-      "pl": "przewodniczący",
       "it": "il presidente",
       "pt": "o presidente",
       "ja": "委員長",
       "zh": "主席",
-      "ru": "председатель"
+      "ru": "председатель",
+      "fr": "président"
     },
     "examples": [],
     "meta": {
@@ -7806,12 +7805,12 @@ const WORDS_KO_B1 = [
       "en": "effective",
       "de": "effektiv",
       "es": "efectivo",
-      "pl": "efektywny",
       "it": "efficace",
       "pt": "eficaz",
       "ja": "効果的だ",
       "zh": "有效的",
-      "ru": "эффективный"
+      "ru": "эффективный",
+      "fr": "efficace"
     },
     "examples": [],
     "meta": {
@@ -7835,12 +7834,12 @@ const WORDS_KO_B1 = [
       "en": "produce",
       "de": "produzieren",
       "es": "producir",
-      "pl": "produkować",
       "it": "produrre",
       "pt": "produzir",
       "ja": "生産する",
       "zh": "生产",
-      "ru": "производить"
+      "ru": "производить",
+      "fr": "produire"
     },
     "examples": [],
     "meta": {
@@ -7867,12 +7866,12 @@ const WORDS_KO_B1 = [
       "en": "intention",
       "de": "die Absicht",
       "es": "la intención",
-      "pl": "intencja",
       "it": "l'intenzione",
       "pt": "a intenção",
       "ja": "意図",
       "zh": "意图",
-      "ru": "намерение"
+      "ru": "намерение",
+      "fr": "intention"
     },
     "examples": [],
     "meta": {
@@ -7898,12 +7897,12 @@ const WORDS_KO_B1 = [
       "en": "commit",
       "de": "begehen",
       "es": "cometer",
-      "pl": "popełniać",
       "it": "commettere",
       "pt": "cometer",
       "ja": "犯す",
       "zh": "犯下",
-      "ru": "совершать"
+      "ru": "совершать",
+      "fr": "commettre"
     },
     "examples": [],
     "meta": {
@@ -7930,12 +7929,12 @@ const WORDS_KO_B1 = [
       "en": "decrease",
       "de": "abnehmen",
       "es": "disminuir",
-      "pl": "zmniejszać się",
       "it": "diminuire",
       "pt": "diminuir",
       "ja": "減る",
       "zh": "减少",
-      "ru": "уменьшаться"
+      "ru": "уменьшаться",
+      "fr": "diminuer"
     },
     "examples": [],
     "meta": {
@@ -7962,12 +7961,12 @@ const WORDS_KO_B1 = [
       "en": "outside",
       "de": "die Außenseite",
       "es": "el exterior",
-      "pl": "zewnątrz",
       "it": "l'esterno",
       "pt": "o exterior",
       "ja": "外部",
       "zh": "外部",
-      "ru": "снаружи"
+      "ru": "снаружи",
+      "fr": "dehors"
     },
     "examples": [],
     "meta": {
@@ -7993,12 +7992,12 @@ const WORDS_KO_B1 = [
       "en": "once",
       "de": "einst",
       "es": "una vez",
-      "pl": "kiedyś",
       "it": "una volta",
       "pt": "uma vez",
       "ja": "かつて",
       "zh": "曾经",
-      "ru": "однажды"
+      "ru": "однажды",
+      "fr": "autrefois"
     },
     "examples": [],
     "meta": {
@@ -8024,12 +8023,12 @@ const WORDS_KO_B1 = [
       "en": "to live",
       "de": "leben",
       "es": "vivir",
-      "pl": "żyć",
       "it": "vivere",
       "pt": "viver",
       "ja": "生きてくる",
       "zh": "活过来",
-      "ru": "жить"
+      "ru": "жить",
+      "fr": "vivre"
     },
     "examples": [],
     "meta": {
@@ -8056,12 +8055,12 @@ const WORDS_KO_B1 = [
       "en": "relative",
       "de": "relativ",
       "es": "relativo",
-      "pl": "względny",
       "it": "relativo",
       "pt": "relativo",
       "ja": "相対的",
       "zh": "相对的",
-      "ru": "относительный"
+      "ru": "относительный",
+      "fr": "relatif"
     },
     "examples": [],
     "meta": {
@@ -8085,12 +8084,12 @@ const WORDS_KO_B1 = [
       "en": "seasoning",
       "de": "das Gewürz",
       "es": "el condimento",
-      "pl": "przyprawa",
       "it": "il condimento",
       "pt": "o tempero",
       "ja": "調味料",
       "zh": "调味品",
-      "ru": "приправа"
+      "ru": "приправа",
+      "fr": "assaisonnement"
     },
     "examples": [],
     "meta": {
@@ -8116,12 +8115,12 @@ const WORDS_KO_B1 = [
       "en": "strong",
       "de": "stark",
       "es": "fuerte",
-      "pl": "silny",
       "it": "forte",
       "pt": "forte",
       "ja": "強力だ",
       "zh": "强力的",
-      "ru": "сильный"
+      "ru": "сильный",
+      "fr": "fort"
     },
     "examples": [],
     "meta": {
@@ -8145,12 +8144,12 @@ const WORDS_KO_B1 = [
       "en": "law",
       "de": "das Gesetz",
       "es": "la ley",
-      "pl": "prawo",
       "it": "la legge",
       "pt": "a lei",
       "ja": "法律",
       "zh": "法律",
-      "ru": "закон"
+      "ru": "закон",
+      "fr": "loi"
     },
     "examples": [],
     "meta": {
@@ -8176,12 +8175,12 @@ const WORDS_KO_B1 = [
       "en": "screen",
       "de": "der Bildschirm",
       "es": "la pantalla",
-      "pl": "ekran",
       "it": "lo schermo",
       "pt": "a tela",
       "ja": "画面",
       "zh": "屏幕",
-      "ru": "экран"
+      "ru": "экран",
+      "fr": "écran"
     },
     "examples": [],
     "meta": {
@@ -8207,12 +8206,12 @@ const WORDS_KO_B1 = [
       "en": "truth",
       "de": "die Wahrheit",
       "es": "la verdad",
-      "pl": "prawda",
       "it": "la verità",
       "pt": "a verdade",
       "ja": "真理",
       "zh": "真理",
-      "ru": "истина"
+      "ru": "истина",
+      "fr": "vérité"
     },
     "examples": [],
     "meta": {
@@ -8238,12 +8237,12 @@ const WORDS_KO_B1 = [
       "en": "supply",
       "de": "die Versorgung",
       "es": "el suministro",
-      "pl": "dostawa",
       "it": "la fornitura",
       "pt": "o fornecimento",
       "ja": "供給",
       "zh": "供应",
-      "ru": "поставка"
+      "ru": "поставка",
+      "fr": "approvisionnement"
     },
     "examples": [],
     "meta": {
@@ -8269,12 +8268,12 @@ const WORDS_KO_B1 = [
       "en": "colleague",
       "de": "der Kollege",
       "es": "el colega",
-      "pl": "kolega",
       "it": "il collega",
       "pt": "o colega",
       "ja": "同僚",
       "zh": "同事",
-      "ru": "коллега"
+      "ru": "коллега",
+      "fr": "collègue"
     },
     "examples": [],
     "meta": {
@@ -8300,12 +8299,12 @@ const WORDS_KO_B1 = [
       "en": "balance",
       "de": "das Gleichgewicht",
       "es": "el equilibrio",
-      "pl": "równowaga",
       "it": "l'equilibrio",
       "pt": "o equilíbrio",
       "ja": "均衡",
       "zh": "平衡",
-      "ru": "баланс"
+      "ru": "баланс",
+      "fr": "équilibre"
     },
     "examples": [],
     "meta": {
@@ -8331,12 +8330,12 @@ const WORDS_KO_B1 = [
       "en": "basic",
       "de": "grundlegend",
       "es": "básico",
-      "pl": "podstawowy",
       "it": "di base",
       "pt": "básico",
       "ja": "基本的な",
       "zh": "基本的",
-      "ru": "основной"
+      "ru": "основной",
+      "fr": "basique"
     },
     "examples": [],
     "meta": {
@@ -8360,12 +8359,12 @@ const WORDS_KO_B1 = [
       "en": "approach",
       "de": "der Zugang",
       "es": "el acceso",
-      "pl": "dostęp",
       "it": "l'accesso",
       "pt": "o acesso",
       "ja": "アプローチ",
       "zh": "接近",
-      "ru": "подход"
+      "ru": "подход",
+      "fr": "approche"
     },
     "examples": [],
     "meta": {
@@ -8391,12 +8390,12 @@ const WORDS_KO_B1 = [
       "en": "watch",
       "de": "beobachten",
       "es": "observar",
-      "pl": "obserwować",
       "it": "osservare",
       "pt": "observar",
       "ja": "見守る",
       "zh": "注视",
-      "ru": "наблюдать"
+      "ru": "наблюдать",
+      "fr": "regarder"
     },
     "examples": [],
     "meta": {
@@ -8423,12 +8422,12 @@ const WORDS_KO_B1 = [
       "en": "individuality",
       "de": "die Individualität",
       "es": "la individualidad",
-      "pl": "indywidualność",
       "it": "l'individualità",
       "pt": "a individualidade",
       "ja": "個性",
       "zh": "个性",
-      "ru": "индивидуальность"
+      "ru": "индивидуальность",
+      "fr": "individualité"
     },
     "examples": [],
     "meta": {
@@ -8454,12 +8453,12 @@ const WORDS_KO_B1 = [
       "en": "stand out",
       "de": "auffallen",
       "es": "destacar",
-      "pl": "wyróżniać się",
       "it": "distinguersi",
       "pt": "destacar-se",
       "ja": "目立つ",
       "zh": "显眼",
-      "ru": "выделяться"
+      "ru": "выделяться",
+      "fr": "se démarquer"
     },
     "examples": [],
     "meta": {
@@ -8486,12 +8485,12 @@ const WORDS_KO_B1 = [
       "en": "collapse",
       "de": "einstürzen",
       "es": "colapsar",
-      "pl": "zawalić się",
       "it": "crollare",
       "pt": "desmoronar",
       "ja": "崩れる",
       "zh": "倒塌",
-      "ru": "рушиться"
+      "ru": "рушиться",
+      "fr": "s'effondrer"
     },
     "examples": [],
     "meta": {
@@ -8518,12 +8517,12 @@ const WORDS_KO_B1 = [
       "en": "do this",
       "de": "so tun",
       "es": "hacer esto",
-      "pl": "robić tak",
       "it": "fare così",
       "pt": "fazer isto",
       "ja": "こうする",
       "zh": "这样做",
-      "ru": "делать так"
+      "ru": "делать так",
+      "fr": "faire cela"
     },
     "examples": [],
     "meta": {
@@ -8551,12 +8550,12 @@ const WORDS_KO_B1 = [
       "en": "stand up",
       "de": "aufstehen",
       "es": "levantarse",
-      "pl": "wstać",
       "it": "alzarsi",
       "pt": "levantar-se",
       "ja": "立ち上がる",
       "zh": "站起来",
-      "ru": "вставать"
+      "ru": "вставать",
+      "fr": "se lever"
     },
     "examples": [],
     "meta": {
@@ -8583,12 +8582,12 @@ const WORDS_KO_B1 = [
       "en": "crime",
       "de": "das Verbrechen",
       "es": "el crimen",
-      "pl": "przestępstwo",
       "it": "il crimine",
       "pt": "o crime",
       "ja": "罪",
       "zh": "罪",
-      "ru": "преступление"
+      "ru": "преступление",
+      "fr": "crime"
     },
     "examples": [],
     "meta": {
@@ -8614,12 +8613,12 @@ const WORDS_KO_B1 = [
       "en": "core",
       "de": "der Kern",
       "es": "el núcleo",
-      "pl": "rdzeń",
       "it": "il nucleo",
       "pt": "o núcleo",
       "ja": "核心",
       "zh": "核心",
-      "ru": "ядро"
+      "ru": "ядро",
+      "fr": "noyau"
     },
     "examples": [],
     "meta": {
@@ -8645,12 +8644,12 @@ const WORDS_KO_B1 = [
       "en": "latter half",
       "de": "die zweite Hälfte",
       "es": "la segunda mitad",
-      "pl": "druga połowa",
       "it": "la seconda metà",
       "pt": "a segunda metade",
       "ja": "後半",
       "zh": "后半部分",
-      "ru": "вторая половина"
+      "ru": "вторая половина",
+      "fr": "seconde moitié"
     },
     "examples": [],
     "meta": {
@@ -8676,12 +8675,12 @@ const WORDS_KO_B1 = [
       "en": "action",
       "de": "die Bewegung",
       "es": "la acción",
-      "pl": "ruch",
       "it": "l'azione",
       "pt": "a ação",
       "ja": "動作",
       "zh": "动作",
-      "ru": "действие"
+      "ru": "действие",
+      "fr": "action"
     },
     "examples": [],
     "meta": {
@@ -8707,12 +8706,12 @@ const WORDS_KO_B1 = [
       "en": "mean",
       "de": "bedeuten",
       "es": "significar",
-      "pl": "znaczyć",
       "it": "significare",
       "pt": "significar",
       "ja": "意味する",
       "zh": "意思",
-      "ru": "означать"
+      "ru": "означать",
+      "fr": "signifier"
     },
     "examples": [],
     "meta": {
@@ -8739,12 +8738,12 @@ const WORDS_KO_B1 = [
       "en": "Middle Ages",
       "de": "das Mittelalter",
       "es": "la Edad Media",
-      "pl": "średniowiecze",
       "it": "il Medioevo",
       "pt": "a Idade Média",
       "ja": "中世",
       "zh": "中世纪",
-      "ru": "средневековье"
+      "ru": "средневековье",
+      "fr": "Moyen Âge"
     },
     "examples": [],
     "meta": {
@@ -8770,12 +8769,12 @@ const WORDS_KO_B1 = [
       "en": "integration",
       "de": "die Integration",
       "es": "la integración",
-      "pl": "integracja",
       "it": "l'integrazione",
       "pt": "a integração",
       "ja": "統合",
       "zh": "整合",
-      "ru": "интеграция"
+      "ru": "интеграция",
+      "fr": "intégration"
     },
     "examples": [],
     "meta": {
@@ -8801,12 +8800,12 @@ const WORDS_KO_B1 = [
       "en": "tail",
       "de": "der Schwanz",
       "es": "la cola",
-      "pl": "ogon",
       "it": "la coda",
       "pt": "a cauda",
       "ja": "尻尾",
       "zh": "尾巴",
-      "ru": "хвост"
+      "ru": "хвост",
+      "fr": "queue"
     },
     "examples": [],
     "meta": {
@@ -8832,12 +8831,12 @@ const WORDS_KO_B1 = [
       "en": "aquaculture",
       "de": "die Aquakultur",
       "es": "la acuicultura",
-      "pl": "akwakultura",
       "it": "l'acquacoltura",
       "pt": "a aquacultura",
       "ja": "養殖",
       "zh": "水产养殖",
-      "ru": "аквакультура"
+      "ru": "аквакультура",
+      "fr": "aquaculture"
     },
     "examples": [],
     "meta": {
@@ -8863,12 +8862,12 @@ const WORDS_KO_B1 = [
       "en": "stock",
       "de": "die Aktie",
       "es": "la acción",
-      "pl": "akcja",
       "it": "l'azione",
       "pt": "a ação",
       "ja": "株式",
       "zh": "股票",
-      "ru": "акция"
+      "ru": "акция",
+      "fr": "stock"
     },
     "examples": [],
     "meta": {
@@ -8894,12 +8893,12 @@ const WORDS_KO_B1 = [
       "en": "common sense",
       "de": "der gesunde Menschenverstand",
       "es": "el sentido común",
-      "pl": "zdrowy rozsądek",
       "it": "il buon senso",
       "pt": "o bom senso",
       "ja": "常識",
       "zh": "常识",
-      "ru": "здравый смысл"
+      "ru": "здравый смысл",
+      "fr": "bon sens"
     },
     "examples": [],
     "meta": {
@@ -8926,12 +8925,12 @@ const WORDS_KO_B1 = [
       "en": "trademark",
       "de": "die Marke",
       "es": "la marca",
-      "pl": "znak towarowy",
       "it": "il marchio",
       "pt": "a marca",
       "ja": "商標",
       "zh": "商标",
-      "ru": "товарный знак"
+      "ru": "товарный знак",
+      "fr": "marque déposée"
     },
     "examples": [],
     "meta": {
@@ -8957,12 +8956,12 @@ const WORDS_KO_B1 = [
       "en": "be aware",
       "de": "bewusst sein",
       "es": "ser consciente",
-      "pl": "być świadomym",
       "it": "essere consapevole",
       "pt": "estar ciente",
       "ja": "意識する",
       "zh": "意识到",
-      "ru": "осознавать"
+      "ru": "осознавать",
+      "fr": "être conscient"
     },
     "examples": [],
     "meta": {
@@ -8989,12 +8988,12 @@ const WORDS_KO_B1 = [
       "en": "surround",
       "de": "umgeben",
       "es": "rodear",
-      "pl": "otaczać",
       "it": "circondare",
       "pt": "cercar",
       "ja": "囲む",
       "zh": "包围",
-      "ru": "окружать"
+      "ru": "окружать",
+      "fr": "entourer"
     },
     "examples": [],
     "meta": {
@@ -9021,12 +9020,12 @@ const WORDS_KO_B1 = [
       "en": "democratization",
       "de": "Demokratisierung",
       "es": "democratización",
-      "pl": "demokratyzacja",
       "it": "democratizzazione",
       "pt": "democratização",
       "ja": "民主化",
       "zh": "民主化",
-      "ru": "демократизация"
+      "ru": "демократизация",
+      "fr": "démocratisation"
     },
     "examples": [],
     "meta": {
@@ -9053,12 +9052,12 @@ const WORDS_KO_B1 = [
       "en": "report",
       "de": "Berichterstattung",
       "es": "informe",
-      "pl": "doniesienie",
       "it": "rapporto",
       "pt": "reportagem",
       "ja": "報道",
       "zh": "报道",
-      "ru": "сообщение"
+      "ru": "сообщение",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {
@@ -9084,12 +9083,12 @@ const WORDS_KO_B1 = [
       "en": "examine",
       "de": "untersuchen",
       "es": "examinar",
-      "pl": "badać",
       "it": "esaminare",
       "pt": "examinar",
       "ja": "調べる",
       "zh": "察看",
-      "ru": "исследовать"
+      "ru": "исследовать",
+      "fr": "examiner"
     },
     "examples": [],
     "meta": {
@@ -9116,12 +9115,12 @@ const WORDS_KO_B1 = [
       "en": "refuse",
       "de": "ablehnen",
       "es": "rechazar",
-      "pl": "odmawiać",
       "it": "rifiutare",
       "pt": "recusar",
       "ja": "拒否する",
       "zh": "拒绝",
-      "ru": "отказывать"
+      "ru": "отказывать",
+      "fr": "refuser"
     },
     "examples": [],
     "meta": {
@@ -9148,12 +9147,12 @@ const WORDS_KO_B1 = [
       "en": "implementation",
       "de": "Durchführung",
       "es": "implementación",
-      "pl": "wdrożenie",
       "it": "attuazione",
       "pt": "implementação",
       "ja": "実施",
       "zh": "实施",
-      "ru": "осуществление"
+      "ru": "осуществление",
+      "fr": "mise en œuvre"
     },
     "examples": [],
     "meta": {
@@ -9179,12 +9178,12 @@ const WORDS_KO_B1 = [
       "en": "destiny",
       "de": "das Schicksal",
       "es": "el destino",
-      "pl": "przeznaczenie",
       "it": "il destino",
       "pt": "o destino",
       "ja": "運命",
       "zh": "命运",
-      "ru": "судьба"
+      "ru": "судьба",
+      "fr": "destin"
     },
     "examples": [],
     "meta": {
@@ -9210,12 +9209,12 @@ const WORDS_KO_B1 = [
       "en": "finance",
       "de": "Finanzen",
       "es": "finanzas",
-      "pl": "finanse",
       "it": "finanze",
       "pt": "finanças",
       "ja": "財政",
       "zh": "财政",
-      "ru": "финансы"
+      "ru": "финансы",
+      "fr": "finance"
     },
     "examples": [],
     "meta": {
@@ -9241,12 +9240,12 @@ const WORDS_KO_B1 = [
       "en": "large-scale",
       "de": "groß angelegt",
       "es": "a gran escala",
-      "pl": "na dużą skalę",
       "it": "su larga scala",
       "pt": "em larga escala",
       "ja": "大規模",
       "zh": "大规模",
-      "ru": "масштабный"
+      "ru": "масштабный",
+      "fr": "à grande échelle"
     },
     "examples": [],
     "meta": {
@@ -9272,12 +9271,12 @@ const WORDS_KO_B1 = [
       "en": "private",
       "de": "privat",
       "es": "privado",
-      "pl": "prywatny",
       "it": "privato",
       "pt": "privado",
       "ja": "民間",
       "zh": "民间",
-      "ru": "частный"
+      "ru": "частный",
+      "fr": "privé"
     },
     "examples": [],
     "meta": {
@@ -9303,12 +9302,12 @@ const WORDS_KO_B1 = [
       "en": "court",
       "de": "das Gericht",
       "es": "el tribunal",
-      "pl": "sąd",
       "it": "la corte",
       "pt": "o tribunal",
       "ja": "裁判所",
       "zh": "法院",
-      "ru": "суд"
+      "ru": "суд",
+      "fr": "cour"
     },
     "examples": [],
     "meta": {
@@ -9334,12 +9333,12 @@ const WORDS_KO_B1 = [
       "en": "save",
       "de": "sparen",
       "es": "ahorrar",
-      "pl": "oszczędzać",
       "it": "risparmiare",
       "pt": "economizar",
       "ja": "節約する",
       "zh": "节省",
-      "ru": "экономить"
+      "ru": "экономить",
+      "fr": "économiser"
     },
     "examples": [],
     "meta": {
@@ -9366,12 +9365,12 @@ const WORDS_KO_B1 = [
       "en": "area",
       "de": "Gebiet",
       "es": "área",
-      "pl": "obszar",
       "it": "area",
       "pt": "área",
       "ja": "地帯",
       "zh": "地带",
-      "ru": "зона"
+      "ru": "зона",
+      "fr": "zone"
     },
     "examples": [],
     "meta": {
@@ -9397,12 +9396,12 @@ const WORDS_KO_B1 = [
       "en": "judge",
       "de": "urteilen",
       "es": "juzgar",
-      "pl": "oceniać",
       "it": "giudicare",
       "pt": "julgar",
       "ja": "判断する",
       "zh": "判断",
-      "ru": "судить"
+      "ru": "судить",
+      "fr": "juger"
     },
     "examples": [],
     "meta": {
@@ -9429,12 +9428,12 @@ const WORDS_KO_B1 = [
       "en": "practice",
       "de": "praktizieren",
       "es": "practicar",
-      "pl": "praktykować",
       "it": "praticare",
       "pt": "praticar",
       "ja": "実践する",
       "zh": "实践",
-      "ru": "практиковать"
+      "ru": "практиковать",
+      "fr": "pratiquer"
     },
     "examples": [],
     "meta": {
@@ -9461,12 +9460,12 @@ const WORDS_KO_B1 = [
       "en": "term",
       "de": "der Begriff",
       "es": "el término",
-      "pl": "termin",
       "it": "il termine",
       "pt": "o termo",
       "ja": "用語",
       "zh": "术语",
-      "ru": "термин"
+      "ru": "термин",
+      "fr": "terme"
     },
     "examples": [],
     "meta": {
@@ -9492,12 +9491,12 @@ const WORDS_KO_B1 = [
       "en": "learn",
       "de": "lernen",
       "es": "aprender",
-      "pl": "uczyć się",
       "it": "imparare",
       "pt": "aprender",
       "ja": "習得する",
       "zh": "熟练",
-      "ru": "осваивать"
+      "ru": "осваивать",
+      "fr": "apprendre"
     },
     "examples": [],
     "meta": {
@@ -9524,12 +9523,12 @@ const WORDS_KO_B1 = [
       "en": "status",
       "de": "der Status",
       "es": "el estatus",
-      "pl": "status",
       "it": "lo status",
       "pt": "o status",
       "ja": "地位",
       "zh": "地位",
-      "ru": "статус"
+      "ru": "статус",
+      "fr": "statut"
     },
     "examples": [],
     "meta": {
@@ -9555,12 +9554,12 @@ const WORDS_KO_B1 = [
       "en": "abundant",
       "de": "reichlich",
       "es": "abundante",
-      "pl": "bogaty",
       "it": "abbondante",
       "pt": "abundante",
       "ja": "豊富である",
       "zh": "丰富",
-      "ru": "богатый"
+      "ru": "богатый",
+      "fr": "abondant"
     },
     "examples": [],
     "meta": {
@@ -9584,12 +9583,12 @@ const WORDS_KO_B1 = [
       "en": "food",
       "de": "die Nahrung",
       "es": "el alimento",
-      "pl": "żywność",
       "it": "il cibo",
       "pt": "o alimento",
       "ja": "食料",
       "zh": "粮食",
-      "ru": "пища"
+      "ru": "пища",
+      "fr": "nourriture"
     },
     "examples": [],
     "meta": {
@@ -9615,12 +9614,12 @@ const WORDS_KO_B1 = [
       "en": "experiment",
       "de": "das Experiment",
       "es": "el experimento",
-      "pl": "eksperyment",
       "it": "l'esperimento",
       "pt": "o experimento",
       "ja": "実験",
       "zh": "实验",
-      "ru": "эксперимент"
+      "ru": "эксперимент",
+      "fr": "expérience"
     },
     "examples": [],
     "meta": {
@@ -9646,12 +9645,12 @@ const WORDS_KO_B1 = [
       "en": "courage",
       "de": "der Mut",
       "es": "el coraje",
-      "pl": "odwaga",
       "it": "il coraggio",
       "pt": "a coragem",
       "ja": "勇気",
       "zh": "勇气",
-      "ru": "смелость"
+      "ru": "смелость",
+      "fr": "courage"
     },
     "examples": [],
     "meta": {
@@ -9677,12 +9676,12 @@ const WORDS_KO_B1 = [
       "en": "core",
       "de": "der Kern",
       "es": "el núcleo",
-      "pl": "rdzeń",
       "it": "il nucleo",
       "pt": "o núcleo",
       "ja": "核",
       "zh": "核心",
-      "ru": "ядро"
+      "ru": "ядро",
+      "fr": "noyau"
     },
     "examples": [],
     "meta": {
@@ -9708,12 +9707,12 @@ const WORDS_KO_B1 = [
       "en": "considerable",
       "de": "beträchtlich",
       "es": "considerable",
-      "pl": "znaczny",
       "it": "considerevole",
       "pt": "considerável",
       "ja": "相当である",
       "zh": "相当",
-      "ru": "значительный"
+      "ru": "значительный",
+      "fr": "considérable"
     },
     "examples": [],
     "meta": {
@@ -9738,12 +9737,12 @@ const WORDS_KO_B1 = [
       "en": "top student",
       "de": "der Spitzenstudent",
       "es": "el estudiante de honor",
-      "pl": "najlepszy student",
       "it": "lo studente migliore",
       "pt": "o melhor aluno",
       "ja": "首席学生",
       "zh": "顶尖学生",
-      "ru": "лучший студент"
+      "ru": "лучший студент",
+      "fr": "meilleur étudiant"
     },
     "examples": [],
     "meta": {
@@ -9769,12 +9768,12 @@ const WORDS_KO_B1 = [
       "en": "appropriate",
       "de": "angemessen",
       "es": "apropiado",
-      "pl": "odpowiedni",
       "it": "appropriato",
       "pt": "apropriado",
       "ja": "適切だ",
       "zh": "恰当",
-      "ru": "подходящий"
+      "ru": "подходящий",
+      "fr": "approprié"
     },
     "examples": [],
     "meta": {
@@ -9798,12 +9797,12 @@ const WORDS_KO_B1 = [
       "en": "ancestor worship",
       "de": "die Ahnenverehrung",
       "es": "la adoración a los antepasados",
-      "pl": "kult przodków",
       "it": "l'adorazione degli antenati",
       "pt": "a adoração aos ancestrais",
       "ja": "祖先崇拝",
       "zh": "祭祖",
-      "ru": "поклонение предкам"
+      "ru": "поклонение предкам",
+      "fr": "culte des ancêtres"
     },
     "examples": [],
     "meta": {
@@ -9829,12 +9828,12 @@ const WORDS_KO_B1 = [
       "en": "wisdom",
       "de": "die Weisheit",
       "es": "la sabiduría",
-      "pl": "mądrość",
       "it": "la saggezza",
       "pt": "a sabedoria",
       "ja": "知恵",
       "zh": "智慧",
-      "ru": "мудрость"
+      "ru": "мудрость",
+      "fr": "sagesse"
     },
     "examples": [],
     "meta": {
@@ -9860,12 +9859,12 @@ const WORDS_KO_B1 = [
       "en": "sparrow",
       "de": "der Spatz",
       "es": "el gorrión",
-      "pl": "wróbel",
       "it": "il passero",
       "pt": "o pardal",
       "ja": "雀",
       "zh": "麻雀",
-      "ru": "воробей"
+      "ru": "воробей",
+      "fr": "moineau"
     },
     "examples": [],
     "meta": {
@@ -9891,12 +9890,12 @@ const WORDS_KO_B1 = [
       "en": "agricultural product",
       "de": "das Agrarprodukt",
       "es": "el producto agrícola",
-      "pl": "produkt rolny",
       "it": "il prodotto agricolo",
       "pt": "o produto agrícola",
       "ja": "農産物",
       "zh": "农产品",
-      "ru": "сельскохозяйственный продукт"
+      "ru": "сельскохозяйственный продукт",
+      "fr": "produit agricole"
     },
     "examples": [],
     "meta": {
@@ -9922,12 +9921,12 @@ const WORDS_KO_B1 = [
       "en": "great",
       "de": "großartig",
       "es": "grande",
-      "pl": "wielki",
       "it": "grande",
       "pt": "grande",
       "ja": "偉大だ",
       "zh": "伟大",
-      "ru": "великий"
+      "ru": "великий",
+      "fr": "grand"
     },
     "examples": [],
     "meta": {
@@ -9951,12 +9950,12 @@ const WORDS_KO_B1 = [
       "en": "dominate",
       "de": "beherrschen",
       "es": "dominar",
-      "pl": "dominować",
       "it": "dominare",
       "pt": "dominar",
       "ja": "支配する",
       "zh": "支配",
-      "ru": "доминировать"
+      "ru": "доминировать",
+      "fr": "dominer"
     },
     "examples": [],
     "meta": {
@@ -9983,12 +9982,12 @@ const WORDS_KO_B1 = [
       "en": "gap",
       "de": "der Spalt",
       "es": "la grieta",
-      "pl": "szczelina",
       "it": "la fessura",
       "pt": "a fenda",
       "ja": "隙間",
       "zh": "缝隙",
-      "ru": "щель"
+      "ru": "щель",
+      "fr": "écart"
     },
     "examples": [],
     "meta": {
@@ -10014,12 +10013,12 @@ const WORDS_KO_B1 = [
       "en": "huge",
       "de": "riesig",
       "es": "enorme",
-      "pl": "ogromny",
       "it": "enorme",
       "pt": "enorme",
       "ja": "巨大だ",
       "zh": "巨大",
-      "ru": "огромный"
+      "ru": "огромный",
+      "fr": "énorme"
     },
     "examples": [],
     "meta": {
@@ -10043,12 +10042,12 @@ const WORDS_KO_B1 = [
       "en": "rare",
       "de": "selten",
       "es": "raro",
-      "pl": "rzadki",
       "it": "raro",
       "pt": "raro",
       "ja": "珍しい",
       "zh": "稀少",
-      "ru": "редкий"
+      "ru": "редкий",
+      "fr": "rare"
     },
     "examples": [],
     "meta": {
@@ -10072,12 +10071,12 @@ const WORDS_KO_B1 = [
       "en": "hang",
       "de": "hängen",
       "es": "colgar",
-      "pl": "wisieć",
       "it": "appendere",
       "pt": "pendurar",
       "ja": "ぶら下がる",
       "zh": "悬挂",
-      "ru": "висеть"
+      "ru": "висеть",
+      "fr": "pendre"
     },
     "examples": [],
     "meta": {
@@ -10104,12 +10103,12 @@ const WORDS_KO_B1 = [
       "en": "foundation",
       "de": "die Grundlage",
       "es": "la base",
-      "pl": "podstawa",
       "it": "la base",
       "pt": "a base",
       "ja": "土台",
       "zh": "基础",
-      "ru": "основа"
+      "ru": "основа",
+      "fr": "fondation"
     },
     "examples": [],
     "meta": {
@@ -10135,12 +10134,12 @@ const WORDS_KO_B1 = [
       "en": "life",
       "de": "das Leben",
       "es": "la vida",
-      "pl": "życie",
       "it": "la vita",
       "pt": "a vida",
       "ja": "命",
       "zh": "生命",
-      "ru": "жизнь"
+      "ru": "жизнь",
+      "fr": "vie"
     },
     "examples": [],
     "meta": {
@@ -10166,12 +10165,12 @@ const WORDS_KO_B1 = [
       "en": "escape",
       "de": "entkommen",
       "es": "escapar",
-      "pl": "uciec",
       "it": "scappare",
       "pt": "escapar",
       "ja": "逃げる",
       "zh": "逃脱",
-      "ru": "сбежать"
+      "ru": "сбежать",
+      "fr": "s'échapper"
     },
     "examples": [],
     "meta": {
@@ -10198,12 +10197,12 @@ const WORDS_KO_B1 = [
       "en": "public opinion",
       "de": "die öffentliche Meinung",
       "es": "la opinión pública",
-      "pl": "opinia publiczna",
       "it": "l'opinione pubblica",
       "pt": "a opinião pública",
       "ja": "世論",
       "zh": "舆论",
-      "ru": "общественное мнение"
+      "ru": "общественное мнение",
+      "fr": "opinion publique"
     },
     "examples": [],
     "meta": {
@@ -10230,12 +10229,12 @@ const WORDS_KO_B1 = [
       "en": "clothing",
       "de": "die Kleidung",
       "es": "la ropa",
-      "pl": "ubranie",
       "it": "l'abbigliamento",
       "pt": "a roupa",
       "ja": "衣服",
       "zh": "服装",
-      "ru": "одежда"
+      "ru": "одежда",
+      "fr": "vêtements"
     },
     "examples": [],
     "meta": {
@@ -10261,12 +10260,12 @@ const WORDS_KO_B1 = [
       "en": "gymnastics",
       "de": "das Turnen",
       "es": "la gimnasia",
-      "pl": "gimnastyka",
       "it": "la ginnastica",
       "pt": "a ginástica",
       "ja": "体操",
       "zh": "体操",
-      "ru": "гимнастика"
+      "ru": "гимнастика",
+      "fr": "gymnastique"
     },
     "examples": [],
     "meta": {
@@ -10292,12 +10291,12 @@ const WORDS_KO_B1 = [
       "en": "realistic",
       "de": "realistisch",
       "es": "realista",
-      "pl": "realistyczny",
       "it": "realistico",
       "pt": "realista",
       "ja": "現実的",
       "zh": "现实的",
-      "ru": "реалистичный"
+      "ru": "реалистичный",
+      "fr": "réaliste"
     },
     "examples": [],
     "meta": {
@@ -10321,12 +10320,12 @@ const WORDS_KO_B1 = [
       "en": "topic",
       "de": "das Thema",
       "es": "el tema",
-      "pl": "temat",
       "it": "l'argomento",
       "pt": "o tópico",
       "ja": "話題",
       "zh": "话题",
-      "ru": "тема"
+      "ru": "тема",
+      "fr": "sujet"
     },
     "examples": [],
     "meta": {
@@ -10352,12 +10351,12 @@ const WORDS_KO_B1 = [
       "en": "attack",
       "de": "der Angriff",
       "es": "el ataque",
-      "pl": "atak",
       "it": "l'attacco",
       "pt": "o ataque",
       "ja": "攻撃",
       "zh": "攻击",
-      "ru": "атака"
+      "ru": "атака",
+      "fr": "attaque"
     },
     "examples": [],
     "meta": {
@@ -10383,12 +10382,12 @@ const WORDS_KO_B1 = [
       "en": "waterside",
       "de": "das Ufer",
       "es": "la orilla",
-      "pl": "brzeg",
       "it": "la riva",
       "pt": "a margem",
       "ja": "水辺",
       "zh": "水边",
-      "ru": "берег"
+      "ru": "берег",
+      "fr": "bord de l'eau"
     },
     "examples": [],
     "meta": {
@@ -10414,12 +10413,12 @@ const WORDS_KO_B1 = [
       "en": "democracy",
       "de": "die Demokratie",
       "es": "la democracia",
-      "pl": "demokracja",
       "it": "la democrazia",
       "pt": "a democracia",
       "ja": "民主主義",
       "zh": "民主主义",
-      "ru": "демократия"
+      "ru": "демократия",
+      "fr": "démocratie"
     },
     "examples": [],
     "meta": {
@@ -10445,12 +10444,12 @@ const WORDS_KO_B1 = [
       "en": "precious",
       "de": "wertvoll",
       "es": "valioso",
-      "pl": "cenny",
       "it": "prezioso",
       "pt": "precioso",
       "ja": "大切だ",
       "zh": "珍贵",
-      "ru": "ценный"
+      "ru": "ценный",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {
@@ -10474,12 +10473,12 @@ const WORDS_KO_B1 = [
       "en": "doubt",
       "de": "der Zweifel",
       "es": "la duda",
-      "pl": "wątpliwość",
       "it": "il dubbio",
       "pt": "a dúvida",
       "ja": "疑問",
       "zh": "疑问",
-      "ru": "сомнение"
+      "ru": "сомнение",
+      "fr": "doute"
     },
     "examples": [],
     "meta": {
@@ -10505,12 +10504,12 @@ const WORDS_KO_B1 = [
       "en": "shine",
       "de": "scheinen",
       "es": "brillar",
-      "pl": "świecić",
       "it": "brillare",
       "pt": "brilhar",
       "ja": "輝く",
       "zh": "闪耀",
-      "ru": "светить"
+      "ru": "светить",
+      "fr": "briller"
     },
     "examples": [],
     "meta": {
@@ -10537,12 +10536,12 @@ const WORDS_KO_B1 = [
       "en": "be loaded",
       "de": "geladen werden",
       "es": "ser cargado",
-      "pl": "być załadowanym",
       "it": "essere caricato",
       "pt": "ser carregado",
       "ja": "積まれる",
       "zh": "装载",
-      "ru": "быть загруженным"
+      "ru": "быть загруженным",
+      "fr": "être chargé"
     },
     "examples": [],
     "meta": {
@@ -10569,12 +10568,12 @@ const WORDS_KO_B1 = [
       "en": "pressure",
       "de": "der Druck",
       "es": "la presión",
-      "pl": "ciśnienie",
       "it": "la pressione",
       "pt": "a pressão",
       "ja": "圧力",
       "zh": "压力",
-      "ru": "давление"
+      "ru": "давление",
+      "fr": "pression"
     },
     "examples": [],
     "meta": {
@@ -10600,12 +10599,12 @@ const WORDS_KO_B1 = [
       "en": "be expected",
       "de": "erwartet werden",
       "es": "ser esperado",
-      "pl": "być oczekiwanym",
       "it": "essere previsto",
       "pt": "ser esperado",
       "ja": "予想される",
       "zh": "被预期",
-      "ru": "ожидаться"
+      "ru": "ожидаться",
+      "fr": "être attendu"
     },
     "examples": [],
     "meta": {
@@ -10632,12 +10631,12 @@ const WORDS_KO_B1 = [
       "en": "security",
       "de": "die Wertpapier",
       "es": "el valor",
-      "pl": "papier wartościowy",
       "it": "il titolo",
       "pt": "o título",
       "ja": "証券",
       "zh": "证券",
-      "ru": "ценная бумага"
+      "ru": "ценная бумага",
+      "fr": "titre"
     },
     "examples": [],
     "meta": {
@@ -10663,12 +10662,12 @@ const WORDS_KO_B1 = [
       "en": "immediately after",
       "de": "unmittelbar danach",
       "es": "inmediatamente después",
-      "pl": "bezpośrednio po",
       "it": "subito dopo",
       "pt": "imediatamente após",
       "ja": "直後",
       "zh": "之后",
-      "ru": "сразу после"
+      "ru": "сразу после",
+      "fr": "immédiatement après"
     },
     "examples": [],
     "meta": {
@@ -10694,12 +10693,12 @@ const WORDS_KO_B1 = [
       "en": "vehicle",
       "de": "das Fahrzeug",
       "es": "el vehículo",
-      "pl": "pojazd",
       "it": "il veicolo",
       "pt": "o veículo",
       "ja": "車両",
       "zh": "车辆",
-      "ru": "транспортное средство"
+      "ru": "транспортное средство",
+      "fr": "véhicule"
     },
     "examples": [],
     "meta": {
@@ -10725,12 +10724,12 @@ const WORDS_KO_B1 = [
       "en": "childbirth",
       "de": "die Geburt",
       "es": "el parto",
-      "pl": "poród",
       "it": "il parto",
       "pt": "o parto",
       "ja": "出産",
       "zh": "分娩",
-      "ru": "роды"
+      "ru": "роды",
+      "fr": "accouchement"
     },
     "examples": [],
     "meta": {
@@ -10756,12 +10755,12 @@ const WORDS_KO_B1 = [
       "en": "developed country",
       "de": "das Industrieland",
       "es": "el país desarrollado",
-      "pl": "kraj rozwinięty",
       "it": "il paese sviluppato",
       "pt": "o país desenvolvido",
       "ja": "先進国",
       "zh": "发达国家",
-      "ru": "развитая страна"
+      "ru": "развитая страна",
+      "fr": "pays développé"
     },
     "examples": [],
     "meta": {
@@ -10787,12 +10786,12 @@ const WORDS_KO_B1 = [
       "en": "trial",
       "de": "der Prozess",
       "es": "el juicio",
-      "pl": "proces",
       "it": "il processo",
       "pt": "o julgamento",
       "ja": "裁判",
       "zh": "审判",
-      "ru": "судебный процесс"
+      "ru": "судебный процесс",
+      "fr": "procès"
     },
     "examples": [],
     "meta": {
@@ -10818,12 +10817,12 @@ const WORDS_KO_B1 = [
       "en": "disciple",
       "de": "der Schüler",
       "es": "el discípulo",
-      "pl": "uczeń",
       "it": "il discepolo",
       "pt": "o discípulo",
       "ja": "弟子",
       "zh": "门徒",
-      "ru": "ученик"
+      "ru": "ученик",
+      "fr": "disciple"
     },
     "examples": [],
     "meta": {
@@ -10849,12 +10848,12 @@ const WORDS_KO_B1 = [
       "en": "recovery",
       "de": "die Erholung",
       "es": "la recuperación",
-      "pl": "odzyskanie",
       "it": "il recupero",
       "pt": "a recuperação",
       "ja": "回復",
       "zh": "恢复",
-      "ru": "восстановление"
+      "ru": "восстановление",
+      "fr": "récupération"
     },
     "examples": [],
     "meta": {
@@ -10881,12 +10880,12 @@ const WORDS_KO_B1 = [
       "en": "district",
       "de": "der Bezirk",
       "es": "el distrito",
-      "pl": "dzielnica",
       "it": "il quartiere",
       "pt": "o distrito",
       "ja": "区域",
       "zh": "区域",
-      "ru": "район"
+      "ru": "район",
+      "fr": "quartier"
     },
     "examples": [],
     "meta": {
@@ -10912,12 +10911,12 @@ const WORDS_KO_B1 = [
       "en": "response",
       "de": "die Reaktion",
       "es": "la respuesta",
-      "pl": "reakcja",
       "it": "la risposta",
       "pt": "a resposta",
       "ja": "対応",
       "zh": "应对",
-      "ru": "ответ"
+      "ru": "ответ",
+      "fr": "réponse"
     },
     "examples": [],
     "meta": {
@@ -10943,12 +10942,12 @@ const WORDS_KO_B1 = [
       "en": "demonstrate",
       "de": "zeigen",
       "es": "demostrar",
-      "pl": "wykazać",
       "it": "dimostrare",
       "pt": "demonstrar",
       "ja": "発揮する",
       "zh": "发挥",
-      "ru": "проявить"
+      "ru": "проявить",
+      "fr": "démontrer"
     },
     "examples": [],
     "meta": {
@@ -10975,12 +10974,12 @@ const WORDS_KO_B1 = [
       "en": "consumption",
       "de": "der Verbrauch",
       "es": "el consumo",
-      "pl": "konsumpcja",
       "it": "il consumo",
       "pt": "o consumo",
       "ja": "消費",
       "zh": "消费",
-      "ru": "потребление"
+      "ru": "потребление",
+      "fr": "consommation"
     },
     "examples": [],
     "meta": {
@@ -11006,12 +11005,12 @@ const WORDS_KO_B1 = [
       "en": "heart",
       "de": "das Herz",
       "es": "el corazón",
-      "pl": "serce",
       "it": "il cuore",
       "pt": "o coração",
       "ja": "心臓",
       "zh": "心脏",
-      "ru": "сердце"
+      "ru": "сердце",
+      "fr": "cœur"
     },
     "examples": [],
     "meta": {
@@ -11037,12 +11036,12 @@ const WORDS_KO_B1 = [
       "en": "SME",
       "de": "das KMU",
       "es": "la PYME",
-      "pl": "MŚP",
       "it": "la PMI",
       "pt": "a PME",
       "ja": "中小企業",
       "zh": "中小企业",
-      "ru": "малое и среднее предприятие"
+      "ru": "малое и среднее предприятие",
+      "fr": "PME"
     },
     "examples": [],
     "meta": {
@@ -11068,12 +11067,12 @@ const WORDS_KO_B1 = [
       "en": "direct",
       "de": "direkt",
       "es": "directo",
-      "pl": "bezpośredni",
       "it": "diretto",
       "pt": "direto",
       "ja": "直接的",
       "zh": "直接的",
-      "ru": "прямой"
+      "ru": "прямой",
+      "fr": "direct"
     },
     "examples": [],
     "meta": {
@@ -11097,12 +11096,12 @@ const WORDS_KO_B1 = [
       "en": "truth",
       "de": "die Wahrheit",
       "es": "la verdad",
-      "pl": "prawda",
       "it": "la verità",
       "pt": "a verdade",
       "ja": "真実",
       "zh": "真相",
-      "ru": "правда"
+      "ru": "правда",
+      "fr": "vérité"
     },
     "examples": [],
     "meta": {
@@ -11128,12 +11127,12 @@ const WORDS_KO_B1 = [
       "en": "author",
       "de": "der Verfasser",
       "es": "el autor",
-      "pl": "autor",
       "it": "l'autore",
       "pt": "o autor",
       "ja": "筆者",
       "zh": "作者",
-      "ru": "автор"
+      "ru": "автор",
+      "fr": "auteur"
     },
     "examples": [],
     "meta": {
@@ -11159,12 +11158,12 @@ const WORDS_KO_B1 = [
       "en": "cooperation",
       "de": "die Zusammenarbeit",
       "es": "la cooperación",
-      "pl": "współpraca",
       "it": "la cooperazione",
       "pt": "a cooperação",
       "ja": "協力",
       "zh": "合作",
-      "ru": "сотрудничество"
+      "ru": "сотрудничество",
+      "fr": "coopération"
     },
     "examples": [],
     "meta": {
@@ -11190,12 +11189,12 @@ const WORDS_KO_B1 = [
       "en": "stratum",
       "de": "die Schicht",
       "es": "la capa",
-      "pl": "warstwa",
       "it": "lo strato",
       "pt": "a camada",
       "ja": "階層",
       "zh": "阶层",
-      "ru": "слой"
+      "ru": "слой",
+      "fr": "strate"
     },
     "examples": [],
     "meta": {
@@ -11221,12 +11220,12 @@ const WORDS_KO_B1 = [
       "en": "charge",
       "de": "die Zuständigkeit",
       "es": "la responsabilidad",
-      "pl": "odpowiedzialność",
       "it": "la responsabilità",
       "pt": "a responsabilidade",
       "ja": "担当",
       "zh": "负责",
-      "ru": "ответственность"
+      "ru": "ответственность",
+      "fr": "charge"
     },
     "examples": [],
     "meta": {
@@ -11253,12 +11252,12 @@ const WORDS_KO_B1 = [
       "en": "report",
       "de": "berichten",
       "es": "informar",
-      "pl": "informować",
       "it": "riportare",
       "pt": "relatar",
       "ja": "報道する",
       "zh": "报道",
-      "ru": "сообщать"
+      "ru": "сообщать",
+      "fr": "signaler"
     },
     "examples": [],
     "meta": {
@@ -11285,12 +11284,12 @@ const WORDS_KO_B1 = [
       "en": "thorough",
       "de": "gründlich",
       "es": "exhaustivo",
-      "pl": "dokładny",
       "it": "accurato",
       "pt": "minucioso",
       "ja": "徹底した",
       "zh": "彻底的",
-      "ru": "тщательный"
+      "ru": "тщательный",
+      "fr": "minutieux"
     },
     "examples": [],
     "meta": {
@@ -11314,12 +11313,12 @@ const WORDS_KO_B1 = [
       "en": "fetus",
       "de": "der Fötus",
       "es": "el feto",
-      "pl": "płód",
       "it": "il feto",
       "pt": "o feto",
       "ja": "胎児",
       "zh": "胎儿",
-      "ru": "плод"
+      "ru": "плод",
+      "fr": "fœtus"
     },
     "examples": [],
     "meta": {
@@ -11345,12 +11344,12 @@ const WORDS_KO_B1 = [
       "en": "wrap",
       "de": "umwickeln",
       "es": "rodear",
-      "pl": "owinąć",
       "it": "avvolgere",
       "pt": "envolver",
       "ja": "囲む",
       "zh": "围绕",
-      "ru": "окружать"
+      "ru": "окружать",
+      "fr": "envelopper"
     },
     "examples": [],
     "meta": {
@@ -11377,12 +11376,12 @@ const WORDS_KO_B1 = [
       "en": "democracy",
       "de": "die Demokratie",
       "es": "la democracia",
-      "pl": "demokracja",
       "it": "la democrazia",
       "pt": "a democracia",
       "ja": "民主",
       "zh": "民主",
-      "ru": "демократия"
+      "ru": "демократия",
+      "fr": "démocratie"
     },
     "examples": [],
     "meta": {
@@ -11408,12 +11407,12 @@ const WORDS_KO_B1 = [
       "en": "woman",
       "de": "die Frau",
       "es": "la mujer",
-      "pl": "kobieta",
       "it": "la donna",
       "pt": "a mulher",
       "ja": "女性",
       "zh": "女子",
-      "ru": "женщина"
+      "ru": "женщина",
+      "fr": "femme"
     },
     "examples": [],
     "meta": {
@@ -11439,12 +11438,12 @@ const WORDS_KO_B1 = [
       "en": "operate",
       "de": "betreiben",
       "es": "operar",
-      "pl": "prowadzić",
       "it": "operare",
       "pt": "operar",
       "ja": "運営する",
       "zh": "经营",
-      "ru": "управлять"
+      "ru": "управлять",
+      "fr": "opérer"
     },
     "examples": [],
     "meta": {
@@ -11471,12 +11470,12 @@ const WORDS_KO_B1 = [
       "en": "evaluate",
       "de": "bewerten",
       "es": "evaluar",
-      "pl": "oceniać",
       "it": "valutare",
       "pt": "avaliar",
       "ja": "評価する",
       "zh": "评估",
-      "ru": "оценивать"
+      "ru": "оценивать",
+      "fr": "évaluer"
     },
     "examples": [],
     "meta": {
@@ -11503,12 +11502,12 @@ const WORDS_KO_B1 = [
       "en": "necessity",
       "de": "die Notwendigkeit",
       "es": "la necesidad",
-      "pl": "konieczność",
       "it": "la necessità",
       "pt": "a necessidade",
       "ja": "必要性",
       "zh": "必要性",
-      "ru": "необходимость"
+      "ru": "необходимость",
+      "fr": "nécessité"
     },
     "examples": [],
     "meta": {
@@ -11534,12 +11533,12 @@ const WORDS_KO_B1 = [
       "en": "hide",
       "de": "verstecken",
       "es": "esconder",
-      "pl": "ukrywać",
       "it": "nascondere",
       "pt": "esconder",
       "ja": "隠す",
       "zh": "隐藏",
-      "ru": "прятать"
+      "ru": "прятать",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {
@@ -11566,12 +11565,12 @@ const WORDS_KO_B1 = [
       "en": "part",
       "de": "der Teil",
       "es": "la parte",
-      "pl": "część",
       "it": "la parte",
       "pt": "a parte",
       "ja": "部分",
       "zh": "部分",
-      "ru": "часть"
+      "ru": "часть",
+      "fr": "partie"
     },
     "examples": [],
     "meta": {
@@ -11597,12 +11596,12 @@ const WORDS_KO_B1 = [
       "en": "empty",
       "de": "leeren",
       "es": "vaciar",
-      "pl": "opróżniać",
       "it": "svuotare",
       "pt": "esvaziar",
       "ja": "空にする",
       "zh": "清空",
-      "ru": "опустошать"
+      "ru": "опустошать",
+      "fr": "vider"
     },
     "examples": [],
     "meta": {
@@ -11629,12 +11628,12 @@ const WORDS_KO_B1 = [
       "en": "install",
       "de": "installieren",
       "es": "instalar",
-      "pl": "instalować",
       "it": "installare",
       "pt": "instalar",
       "ja": "設置する",
       "zh": "安装",
-      "ru": "устанавливать"
+      "ru": "устанавливать",
+      "fr": "installer"
     },
     "examples": [],
     "meta": {
@@ -11661,12 +11660,12 @@ const WORDS_KO_B1 = [
       "en": "instruction",
       "de": "die Anweisung",
       "es": "la instrucción",
-      "pl": "instrukcja",
       "it": "l'istruzione",
       "pt": "a instrução",
       "ja": "指示",
       "zh": "指示",
-      "ru": "указание"
+      "ru": "указание",
+      "fr": "instruction"
     },
     "examples": [],
     "meta": {
@@ -11692,12 +11691,12 @@ const WORDS_KO_B1 = [
       "en": "form",
       "de": "bilden",
       "es": "formar",
-      "pl": "formować",
       "it": "formare",
       "pt": "formar",
       "ja": "形成する",
       "zh": "形成",
-      "ru": "формировать"
+      "ru": "формировать",
+      "fr": "former"
     },
     "examples": [],
     "meta": {
@@ -11724,12 +11723,12 @@ const WORDS_KO_B1 = [
       "en": "add",
       "de": "hinzufügen",
       "es": "añadir",
-      "pl": "dodać",
       "it": "aggiungere",
       "pt": "adicionar",
       "ja": "付け加える",
       "zh": "补充",
-      "ru": "добавлять"
+      "ru": "добавлять",
+      "fr": "ajouter"
     },
     "examples": [],
     "meta": {
@@ -11756,12 +11755,12 @@ const WORDS_KO_B1 = [
       "en": "weapon",
       "de": "die Waffe",
       "es": "el arma",
-      "pl": "broń",
       "it": "l'arma",
       "pt": "a arma",
       "ja": "武器",
       "zh": "武器",
-      "ru": "оружие"
+      "ru": "оружие",
+      "fr": "arme"
     },
     "examples": [],
     "meta": {
@@ -11788,12 +11787,12 @@ const WORDS_KO_B1 = [
       "en": "type",
       "de": "die Art",
       "es": "el tipo",
-      "pl": "rodzaj",
       "it": "il tipo",
       "pt": "o tipo",
       "ja": "一種",
       "zh": "一种",
-      "ru": "вид"
+      "ru": "вид",
+      "fr": "type"
     },
     "examples": [],
     "meta": {
@@ -11819,12 +11818,12 @@ const WORDS_KO_B1 = [
       "en": "situation",
       "de": "die Lage",
       "es": "la situación",
-      "pl": "sytuacja",
       "it": "la situazione",
       "pt": "a situação",
       "ja": "境遇",
       "zh": "处境",
-      "ru": "положение"
+      "ru": "положение",
+      "fr": "situation"
     },
     "examples": [],
     "meta": {
@@ -11850,12 +11849,12 @@ const WORDS_KO_B1 = [
       "en": "circumstance",
       "de": "die Umstände",
       "es": "las circunstancias",
-      "pl": "okoliczności",
       "it": "le circostanze",
       "pt": "as circunstâncias",
       "ja": "事情",
       "zh": "情况",
-      "ru": "обстоятельства"
+      "ru": "обстоятельства",
+      "fr": "circonstance"
     },
     "examples": [],
     "meta": {
@@ -11881,12 +11880,12 @@ const WORDS_KO_B1 = [
       "en": "essence",
       "de": "das Wesen",
       "es": "la esencia",
-      "pl": "istota",
       "it": "l'essenza",
       "pt": "a essência",
       "ja": "本質",
       "zh": "本质",
-      "ru": "сущность"
+      "ru": "сущность",
+      "fr": "essence"
     },
     "examples": [],
     "meta": {
@@ -11912,12 +11911,12 @@ const WORDS_KO_B1 = [
       "en": "shine",
       "de": "scheinen",
       "es": "brillar",
-      "pl": "świecić",
       "it": "splendere",
       "pt": "brilhar",
       "ja": "光る",
       "zh": "照耀",
-      "ru": "светить"
+      "ru": "светить",
+      "fr": "briller"
     },
     "examples": [],
     "meta": {
@@ -11945,12 +11944,12 @@ const WORDS_KO_B1 = [
       "en": "teacher",
       "de": "der Lehrer",
       "es": "el maestro",
-      "pl": "nauczyciel",
       "it": "il maestro",
       "pt": "o mestre",
       "ja": "師匠",
       "zh": "老师",
-      "ru": "учитель"
+      "ru": "учитель",
+      "fr": "professeur"
     },
     "examples": [],
     "meta": {
@@ -11976,12 +11975,12 @@ const WORDS_KO_B1 = [
       "en": "status",
       "de": "der Status",
       "es": "el estatus",
-      "pl": "status",
       "it": "lo status",
       "pt": "o status",
       "ja": "身分",
       "zh": "身份",
-      "ru": "статус"
+      "ru": "статус",
+      "fr": "statut"
     },
     "examples": [],
     "meta": {
@@ -12007,12 +12006,12 @@ const WORDS_KO_B1 = [
       "en": "be implemented",
       "de": "durchgeführt werden",
       "es": "ser implementado",
-      "pl": "być realizowanym",
       "it": "essere attuato",
       "pt": "ser implementado",
       "ja": "実施される",
       "zh": "被实施",
-      "ru": "быть осуществленным"
+      "ru": "быть осуществленным",
+      "fr": "être mis en œuvre"
     },
     "examples": [],
     "meta": {
@@ -12039,12 +12038,12 @@ const WORDS_KO_B1 = [
       "en": "evidence",
       "de": "der Beweis",
       "es": "la evidencia",
-      "pl": "dowód",
       "it": "la prova",
       "pt": "a evidência",
       "ja": "証拠",
       "zh": "证据",
-      "ru": "доказательство"
+      "ru": "доказательство",
+      "fr": "preuve"
     },
     "examples": [],
     "meta": {
@@ -12070,12 +12069,12 @@ const WORDS_KO_B1 = [
       "en": "focus",
       "de": "der Fokus",
       "es": "el foco",
-      "pl": "fokus",
       "it": "il fuoco",
       "pt": "o foco",
       "ja": "焦点",
       "zh": "焦点",
-      "ru": "фокус"
+      "ru": "фокус",
+      "fr": "foyer"
     },
     "examples": [],
     "meta": {
@@ -12101,12 +12100,12 @@ const WORDS_KO_B1 = [
       "en": "strengthen",
       "de": "verstärken",
       "es": "fortalecer",
-      "pl": "wzmacniać",
       "it": "rafforzare",
       "pt": "fortalecer",
       "ja": "強化する",
       "zh": "加强",
-      "ru": "укреплять"
+      "ru": "укреплять",
+      "fr": "renforcer"
     },
     "examples": [],
     "meta": {
@@ -12133,12 +12132,12 @@ const WORDS_KO_B1 = [
       "en": "fear",
       "de": "die Angst",
       "es": "el miedo",
-      "pl": "strach",
       "it": "la paura",
       "pt": "o medo",
       "ja": "恐怖",
       "zh": "恐惧",
-      "ru": "страх"
+      "ru": "страх",
+      "fr": "peur"
     },
     "examples": [],
     "meta": {
@@ -12164,12 +12163,12 @@ const WORDS_KO_B1 = [
       "en": "authority",
       "de": "die Autorität",
       "es": "la autoridad",
-      "pl": "autorytet",
       "it": "l'autorità",
       "pt": "a autoridade",
       "ja": "権威",
       "zh": "权威",
-      "ru": "авторитет"
+      "ru": "авторитет",
+      "fr": "autorité"
     },
     "examples": [],
     "meta": {
@@ -12195,12 +12194,12 @@ const WORDS_KO_B1 = [
       "en": "postpone",
       "de": "verschieben",
       "es": "posponer",
-      "pl": "przekładać",
       "it": "rimandare",
       "pt": "adiar",
       "ja": "延期する",
       "zh": "推迟",
-      "ru": "откладывать"
+      "ru": "откладывать",
+      "fr": "reporter"
     },
     "examples": [],
     "meta": {
@@ -12227,12 +12226,12 @@ const WORDS_KO_B1 = [
       "en": "situation",
       "de": "die Situation",
       "es": "la situación",
-      "pl": "sytuacja",
       "it": "la situazione",
       "pt": "a situação",
       "ja": "実情",
       "zh": "实情",
-      "ru": "ситуация"
+      "ru": "ситуация",
+      "fr": "situation"
     },
     "examples": [],
     "meta": {
@@ -12258,12 +12257,12 @@ const WORDS_KO_B1 = [
       "en": "nutrition",
       "de": "die Ernährung",
       "es": "la nutrición",
-      "pl": "odżywianie",
       "it": "la nutrizione",
       "pt": "a nutrição",
       "ja": "栄養",
       "zh": "营养",
-      "ru": "питание"
+      "ru": "питание",
+      "fr": "nutrition"
     },
     "examples": [],
     "meta": {
@@ -12289,12 +12288,12 @@ const WORDS_KO_B1 = [
       "en": "body",
       "de": "der Körper",
       "es": "el cuerpo",
-      "pl": "ciało",
       "it": "il corpo",
       "pt": "o corpo",
       "ja": "肉体",
       "zh": "身体",
-      "ru": "тело"
+      "ru": "тело",
+      "fr": "corps"
     },
     "examples": [],
     "meta": {
@@ -12320,12 +12319,12 @@ const WORDS_KO_B1 = [
       "en": "atmosphere",
       "de": "die Atmosphäre",
       "es": "la atmósfera",
-      "pl": "atmosfera",
       "it": "l'atmosfera",
       "pt": "a atmosfera",
       "ja": "大気",
       "zh": "大气",
-      "ru": "атмосфера"
+      "ru": "атмосфера",
+      "fr": "atmosphère"
     },
     "examples": [],
     "meta": {
@@ -12351,12 +12350,12 @@ const WORDS_KO_B1 = [
       "en": "independence",
       "de": "die Unabhängigkeit",
       "es": "la independencia",
-      "pl": "niepodległość",
       "it": "l'indipendenza",
       "pt": "a independência",
       "ja": "独立",
       "zh": "独立",
-      "ru": "независимость"
+      "ru": "независимость",
+      "fr": "indépendance"
     },
     "examples": [],
     "meta": {
@@ -12382,12 +12381,12 @@ const WORDS_KO_B1 = [
       "en": "apply",
       "de": "zutreffen",
       "es": "corresponder",
-      "pl": "dotyczyć",
       "it": "corrispondere",
       "pt": "corresponder",
       "ja": "該当する",
       "zh": "符合",
-      "ru": "соответствовать"
+      "ru": "соответствовать",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {
@@ -12414,12 +12413,12 @@ const WORDS_KO_B1 = [
       "en": "executive",
       "de": "der Funktionär",
       "es": "el ejecutivo",
-      "pl": "kadra",
       "it": "il dirigente",
       "pt": "o executivo",
       "ja": "幹部",
       "zh": "干部",
-      "ru": "руководитель"
+      "ru": "руководитель",
+      "fr": "cadre"
     },
     "examples": [],
     "meta": {
@@ -12445,12 +12444,12 @@ const WORDS_KO_B1 = [
       "en": "idea",
       "de": "die Vorstellung",
       "es": "la noción",
-      "pl": "koncepcja",
       "it": "l'idea",
       "pt": "a ideia",
       "ja": "観念",
       "zh": "观念",
-      "ru": "представление"
+      "ru": "представление",
+      "fr": "idée"
     },
     "examples": [],
     "meta": {
@@ -12476,12 +12475,12 @@ const WORDS_KO_B1 = [
       "en": "introduction",
       "de": "die Einführung",
       "es": "la introducción",
-      "pl": "wprowadzenie",
       "it": "l'introduzione",
       "pt": "a introdução",
       "ja": "導入",
       "zh": "引进",
-      "ru": "введение"
+      "ru": "введение",
+      "fr": "introduction"
     },
     "examples": [],
     "meta": {
@@ -12507,12 +12506,12 @@ const WORDS_KO_B1 = [
       "en": "shine",
       "de": "scheinen",
       "es": "brillar",
-      "pl": "świecić",
       "it": "splendere",
       "pt": "brilhar",
       "ja": "照らす",
       "zh": "照耀",
-      "ru": "светить"
+      "ru": "светить",
+      "fr": "briller"
     },
     "examples": [],
     "meta": {
@@ -12539,12 +12538,12 @@ const WORDS_KO_B1 = [
       "en": "condition",
       "de": "die Bedingung",
       "es": "la condición",
-      "pl": "warunek",
       "it": "la condizione",
       "pt": "a condição",
       "ja": "条件",
       "zh": "条件",
-      "ru": "условие"
+      "ru": "условие",
+      "fr": "condition"
     },
     "examples": [],
     "meta": {
@@ -12570,12 +12569,12 @@ const WORDS_KO_B1 = [
       "en": "control",
       "de": "die Kontrolle",
       "es": "el control",
-      "pl": "kontrola",
       "it": "il controllo",
       "pt": "o controle",
       "ja": "制御",
       "zh": "控制",
-      "ru": "контроль"
+      "ru": "контроль",
+      "fr": "contrôle"
     },
     "examples": [],
     "meta": {
@@ -12601,12 +12600,12 @@ const WORDS_KO_B1 = [
       "en": "comparable",
       "de": "vergleichbar",
       "es": "comparable",
-      "pl": "porównywalny",
       "it": "paragonabile",
       "pt": "comparável",
       "ja": "劣らない",
       "zh": "不相上下",
-      "ru": "сопоставимый"
+      "ru": "сопоставимый",
+      "fr": "comparable"
     },
     "examples": [],
     "meta": {
@@ -12630,12 +12629,12 @@ const WORDS_KO_B1 = [
       "en": "reflect",
       "de": "widerspiegeln",
       "es": "reflejar",
-      "pl": "odzwierciedlać",
       "it": "riflettere",
       "pt": "refletir",
       "ja": "反映する",
       "zh": "反映",
-      "ru": "отражать"
+      "ru": "отражать",
+      "fr": "refléter"
     },
     "examples": [],
     "meta": {
@@ -12662,12 +12661,12 @@ const WORDS_KO_B1 = [
       "en": "grow",
       "de": "wachsen",
       "es": "crecer",
-      "pl": "rosnąć",
       "it": "crescere",
       "pt": "crescer",
       "ja": "成長する",
       "zh": "成长",
-      "ru": "расти"
+      "ru": "расти",
+      "fr": "grandir"
     },
     "examples": [],
     "meta": {
@@ -12694,12 +12693,12 @@ const WORDS_KO_B1 = [
       "en": "affiliation",
       "de": "die Zugehörigkeit",
       "es": "la afiliación",
-      "pl": "przynależność",
       "it": "l'affiliazione",
       "pt": "a afiliação",
       "ja": "所属",
       "zh": "归属",
-      "ru": "принадлежность"
+      "ru": "принадлежность",
+      "fr": "affiliation"
     },
     "examples": [],
     "meta": {
@@ -12725,12 +12724,12 @@ const WORDS_KO_B1 = [
       "en": "production",
       "de": "die Produktion",
       "es": "la producción",
-      "pl": "produkcja",
       "it": "la produzione",
       "pt": "a produção",
       "ja": "制作",
       "zh": "制作",
-      "ru": "производство"
+      "ru": "производство",
+      "fr": "production"
     },
     "examples": [],
     "meta": {
@@ -12756,12 +12755,12 @@ const WORDS_KO_B1 = [
       "en": "promotion",
       "de": "die Förderung",
       "es": "la promoción",
-      "pl": "promocja",
       "it": "la promozione",
       "pt": "a promoção",
       "ja": "推進",
       "zh": "推进",
-      "ru": "продвижение"
+      "ru": "продвижение",
+      "fr": "promotion"
     },
     "examples": [],
     "meta": {
@@ -12787,12 +12786,12 @@ const WORDS_KO_B1 = [
       "en": "purchase",
       "de": "kaufen",
       "es": "comprar",
-      "pl": "kupić",
       "it": "acquistare",
       "pt": "comprar",
       "ja": "購入する",
       "zh": "购买",
-      "ru": "приобретать"
+      "ru": "приобретать",
+      "fr": "acheter"
     },
     "examples": [],
     "meta": {
@@ -12819,12 +12818,12 @@ const WORDS_KO_B1 = [
       "en": "preparation",
       "de": "die Vorbereitung",
       "es": "la preparación",
-      "pl": "przygotowanie",
       "it": "la preparazione",
       "pt": "a preparação",
       "ja": "準備",
       "zh": "准备",
-      "ru": "подготовка"
+      "ru": "подготовка",
+      "fr": "préparation"
     },
     "examples": [],
     "meta": {
@@ -12850,12 +12849,12 @@ const WORDS_KO_B1 = [
       "en": "captain",
       "de": "der Kapitän",
       "es": "el capitán",
-      "pl": "kapitan",
       "it": "il capitano",
       "pt": "o capitão",
       "ja": "船長",
       "zh": "船长",
-      "ru": "капитан"
+      "ru": "капитан",
+      "fr": "capitaine"
     },
     "examples": [],
     "meta": {
@@ -12881,12 +12880,12 @@ const WORDS_KO_B1 = [
       "en": "point in time",
       "de": "der Zeitpunkt",
       "es": "el punto en el tiempo",
-      "pl": "punkt czasowy",
       "it": "il punto nel tempo",
       "pt": "o ponto no tempo",
       "ja": "時点",
       "zh": "时点",
-      "ru": "момент времени"
+      "ru": "момент времени",
+      "fr": "moment"
     },
     "examples": [],
     "meta": {
@@ -12912,12 +12911,12 @@ const WORDS_KO_B1 = [
       "en": "code",
       "de": "der Code",
       "es": "el código",
-      "pl": "kod",
       "it": "il codice",
       "pt": "o código",
       "ja": "コード",
       "zh": "代码",
-      "ru": "код"
+      "ru": "код",
+      "fr": "code"
     },
     "examples": [],
     "meta": {
@@ -12943,12 +12942,12 @@ const WORDS_KO_B1 = [
       "en": "worldview",
       "de": "die Weltanschauung",
       "es": "la cosmovisión",
-      "pl": "światopogląd",
       "it": "la visione del mondo",
       "pt": "a visão de mundo",
       "ja": "世界観",
       "zh": "世界观",
-      "ru": "мировоззрение"
+      "ru": "мировоззрение",
+      "fr": "vision du monde"
     },
     "examples": [],
     "meta": {
@@ -12974,12 +12973,12 @@ const WORDS_KO_B1 = [
       "en": "depend",
       "de": "abhängen",
       "es": "depender",
-      "pl": "zależeć",
       "it": "dipendere",
       "pt": "depender",
       "ja": "依存する",
       "zh": "依赖",
-      "ru": "зависеть"
+      "ru": "зависеть",
+      "fr": "dépendre"
     },
     "examples": [],
     "meta": {
@@ -13006,12 +13005,12 @@ const WORDS_KO_B1 = [
       "en": "construct",
       "de": "bauen",
       "es": "construir",
-      "pl": "budować",
       "it": "costruire",
       "pt": "construir",
       "ja": "建設する",
       "zh": "建设",
-      "ru": "строить"
+      "ru": "строить",
+      "fr": "construire"
     },
     "examples": [],
     "meta": {
@@ -13038,12 +13037,12 @@ const WORDS_KO_B1 = [
       "en": "competitiveness",
       "de": "die Wettbewerbsfähigkeit",
       "es": "la competitividad",
-      "pl": "konkurencyjność",
       "it": "la competitività",
       "pt": "a competitividade",
       "ja": "競争力",
       "zh": "竞争力",
-      "ru": "конкурентоспособность"
+      "ru": "конкурентоспособность",
+      "fr": "compétitivité"
     },
     "examples": [],
     "meta": {
@@ -13069,12 +13068,12 @@ const WORDS_KO_B1 = [
       "en": "contact",
       "de": "der Kontakt",
       "es": "el contacto",
-      "pl": "kontakt",
       "it": "il contatto",
       "pt": "o contato",
       "ja": "連絡",
       "zh": "联系",
-      "ru": "связь"
+      "ru": "связь",
+      "fr": "contact"
     },
     "examples": [],
     "meta": {
@@ -13100,12 +13099,12 @@ const WORDS_KO_B1 = [
       "en": "character",
       "de": "das Zeichen",
       "es": "el carácter",
-      "pl": "znak",
       "it": "il carattere",
       "pt": "o caractere",
       "ja": "文字",
       "zh": "文字",
-      "ru": "символ"
+      "ru": "символ",
+      "fr": "caractère"
     },
     "examples": [],
     "meta": {
@@ -13131,12 +13130,12 @@ const WORDS_KO_B1 = [
       "en": "begin",
       "de": "beginnen",
       "es": "comenzar",
-      "pl": "rozpocząć się",
       "it": "iniziare",
       "pt": "começar",
       "ja": "始まる",
       "zh": "开始",
-      "ru": "начинаться"
+      "ru": "начинаться",
+      "fr": "commencer"
     },
     "examples": [],
     "meta": {
@@ -13163,12 +13162,12 @@ const WORDS_KO_B1 = [
       "en": "be considered",
       "de": "betrachtet werden",
       "es": "ser considerado",
-      "pl": "być uważanym",
       "it": "essere considerato",
       "pt": "ser considerado",
       "ja": "見なされる",
       "zh": "被认为",
-      "ru": "считаться"
+      "ru": "считаться",
+      "fr": "être considéré"
     },
     "examples": [],
     "meta": {
@@ -13195,12 +13194,12 @@ const WORDS_KO_B1 = [
       "en": "focus",
       "de": "der Schwerpunkt",
       "es": "el enfoque",
-      "pl": "nacisk",
       "it": "il focus",
       "pt": "o foco",
       "ja": "中心",
       "zh": "重点",
-      "ru": "акцент"
+      "ru": "акцент",
+      "fr": "concentration"
     },
     "examples": [],
     "meta": {
@@ -13226,12 +13225,12 @@ const WORDS_KO_B1 = [
       "en": "transition",
       "de": "die Umwandlung",
       "es": "la transición",
-      "pl": "przejście",
       "it": "la transizione",
       "pt": "a transição",
       "ja": "転換",
       "zh": "转换",
-      "ru": "переход"
+      "ru": "переход",
+      "fr": "transition"
     },
     "examples": [],
     "meta": {
@@ -13257,12 +13256,12 @@ const WORDS_KO_B1 = [
       "en": "progress",
       "de": "der Fortschritt",
       "es": "el progreso",
-      "pl": "postęp",
       "it": "il progresso",
       "pt": "o progresso",
       "ja": "進行",
       "zh": "进展",
-      "ru": "прогресс"
+      "ru": "прогресс",
+      "fr": "progrès"
     },
     "examples": [],
     "meta": {
@@ -13288,12 +13287,12 @@ const WORDS_KO_B1 = [
       "en": "pain",
       "de": "der Schmerz",
       "es": "el dolor",
-      "pl": "ból",
       "it": "il dolore",
       "pt": "a dor",
       "ja": "痛み",
       "zh": "疼痛",
-      "ru": "боль"
+      "ru": "боль",
+      "fr": "douleur"
     },
     "examples": [],
     "meta": {
@@ -13319,12 +13318,12 @@ const WORDS_KO_B1 = [
       "en": "stream",
       "de": "der Bach",
       "es": "el arroyo",
-      "pl": "strumień",
       "it": "il torrente",
       "pt": "o riacho",
       "ja": "小川",
       "zh": "溪流",
-      "ru": "ручей"
+      "ru": "ручей",
+      "fr": "ruisseau"
     },
     "examples": [],
     "meta": {
@@ -13350,12 +13349,12 @@ const WORDS_KO_B1 = [
       "en": "rough",
       "de": "rau",
       "es": "áspero",
-      "pl": "szorstki",
       "it": "ruvido",
       "pt": "áspero",
       "ja": "荒い",
       "zh": "粗糙",
-      "ru": "грубый"
+      "ru": "грубый",
+      "fr": "rugueux"
     },
     "examples": [],
     "meta": {
@@ -13379,12 +13378,12 @@ const WORDS_KO_B1 = [
       "en": "south",
       "de": "der Süden",
       "es": "el sur",
-      "pl": "południe",
       "it": "il sud",
       "pt": "o sul",
       "ja": "南部",
       "zh": "南部",
-      "ru": "юг"
+      "ru": "юг",
+      "fr": "sud"
     },
     "examples": [],
     "meta": {
@@ -13410,12 +13409,12 @@ const WORDS_KO_B1 = [
       "en": "actor",
       "de": "der Schauspieler",
       "es": "el actor",
-      "pl": "aktor",
       "it": "l'attore",
       "pt": "o ator",
       "ja": "俳優",
       "zh": "演员",
-      "ru": "актер"
+      "ru": "актер",
+      "fr": "acteur"
     },
     "examples": [],
     "meta": {
@@ -13441,12 +13440,12 @@ const WORDS_KO_B1 = [
       "en": "separate",
       "de": "separat",
       "es": "aparte",
-      "pl": "oddzielny",
       "it": "separato",
       "pt": "separado",
       "ja": "別途",
       "zh": "另外",
-      "ru": "отдельный"
+      "ru": "отдельный",
+      "fr": "séparé"
     },
     "examples": [],
     "meta": {
@@ -13472,12 +13471,12 @@ const WORDS_KO_B1 = [
       "en": "tragedy",
       "de": "die Tragödie",
       "es": "la tragedia",
-      "pl": "tragedia",
       "it": "la tragedia",
       "pt": "a tragédia",
       "ja": "悲劇",
       "zh": "悲剧",
-      "ru": "трагедия"
+      "ru": "трагедия",
+      "fr": "tragédie"
     },
     "examples": [],
     "meta": {
@@ -13503,12 +13502,12 @@ const WORDS_KO_B1 = [
       "en": "skill",
       "de": "das Geschick",
       "es": "la habilidad",
-      "pl": "umiejętność",
       "it": "l'abilità",
       "pt": "a habilidade",
       "ja": "腕前",
       "zh": "手艺",
-      "ru": "мастерство"
+      "ru": "мастерство",
+      "fr": "compétence"
     },
     "examples": [],
     "meta": {
@@ -13534,12 +13533,12 @@ const WORDS_KO_B1 = [
       "en": "drama",
       "de": "das Drama",
       "es": "el drama",
-      "pl": "dramat",
       "it": "il dramma",
       "pt": "o drama",
       "ja": "劇",
       "zh": "戏剧",
-      "ru": "драма"
+      "ru": "драма",
+      "fr": "drame"
     },
     "examples": [],
     "meta": {
@@ -13565,12 +13564,12 @@ const WORDS_KO_B1 = [
       "en": "tea house",
       "de": "das Teehaus",
       "es": "la casa de té",
-      "pl": "herbaciarnia",
       "it": "la sala da tè",
       "pt": "a casa de chá",
       "ja": "喫茶店",
       "zh": "茶馆",
-      "ru": "чайная"
+      "ru": "чайная",
+      "fr": "salon de thé"
     },
     "examples": [],
     "meta": {
@@ -13596,12 +13595,12 @@ const WORDS_KO_B1 = [
       "en": "perform",
       "de": "ausführen",
       "es": "realizar",
-      "pl": "wykonać",
       "it": "eseguire",
       "pt": "realizar",
       "ja": "実行する",
       "zh": "执行",
-      "ru": "выполнять"
+      "ru": "выполнять",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {
@@ -13628,12 +13627,12 @@ const WORDS_KO_B1 = [
       "en": "relationship",
       "de": "die Beziehung",
       "es": "la relación",
-      "pl": "związek",
       "it": "la relazione",
       "pt": "a relação",
       "ja": "縁",
       "zh": "缘分",
-      "ru": "связь"
+      "ru": "связь",
+      "fr": "relation"
     },
     "examples": [],
     "meta": {
@@ -13660,12 +13659,12 @@ const WORDS_KO_B1 = [
       "en": "group",
       "de": "die Gruppe",
       "es": "el grupo",
-      "pl": "grupa",
       "it": "il gruppo",
       "pt": "o grupo",
       "ja": "一行",
       "zh": "一行人",
-      "ru": "группа"
+      "ru": "группа",
+      "fr": "groupe"
     },
     "examples": [],
     "meta": {
@@ -13691,12 +13690,12 @@ const WORDS_KO_B1 = [
       "en": "intellectual",
       "de": "der Intellektuelle",
       "es": "el intelectual",
-      "pl": "intelektualista",
       "it": "l'intellettuale",
       "pt": "o intelectual",
       "ja": "知識人",
       "zh": "知识分子",
-      "ru": "интеллектуал"
+      "ru": "интеллектуал",
+      "fr": "intellectuel"
     },
     "examples": [],
     "meta": {
@@ -13722,12 +13721,12 @@ const WORDS_KO_B1 = [
       "en": "serious",
       "de": "ernst",
       "es": "serio",
-      "pl": "poważny",
       "it": "serio",
       "pt": "sério",
       "ja": "真剣な",
       "zh": "认真的",
-      "ru": "серьёзный"
+      "ru": "серьёзный",
+      "fr": "sérieux"
     },
     "examples": [],
     "meta": {
@@ -13751,12 +13750,12 @@ const WORDS_KO_B1 = [
       "en": "breath",
       "de": "der Atem",
       "es": "la respiración",
-      "pl": "oddech",
       "it": "il respiro",
       "pt": "a respiração",
       "ja": "呼吸",
       "zh": "呼吸",
-      "ru": "дыхание"
+      "ru": "дыхание",
+      "fr": "souffle"
     },
     "examples": [],
     "meta": {
@@ -13782,12 +13781,12 @@ const WORDS_KO_B1 = [
       "en": "shake",
       "de": "schwanken",
       "es": "temblar",
-      "pl": "trząść się",
       "it": "tremare",
       "pt": "tremer",
       "ja": "揺れる",
       "zh": "摇动",
-      "ru": "трястись"
+      "ru": "трястись",
+      "fr": "trembler"
     },
     "examples": [],
     "meta": {
@@ -13814,12 +13813,12 @@ const WORDS_KO_B1 = [
       "en": "root",
       "de": "die Wurzel",
       "es": "la raíz",
-      "pl": "korzeń",
       "it": "la radice",
       "pt": "a raiz",
       "ja": "根本",
       "zh": "根本",
-      "ru": "корень"
+      "ru": "корень",
+      "fr": "racine"
     },
     "examples": [],
     "meta": {
@@ -13845,12 +13844,12 @@ const WORDS_KO_B1 = [
       "en": "approach",
       "de": "sich nähern",
       "es": "acercarse",
-      "pl": "zbliżać się",
       "it": "avvicinarsi",
       "pt": "aproximar-se",
       "ja": "近づく",
       "zh": "接近",
-      "ru": "приближаться"
+      "ru": "приближаться",
+      "fr": "s'approcher"
     },
     "examples": [],
     "meta": {
@@ -13877,12 +13876,12 @@ const WORDS_KO_B1 = [
       "en": "scatter",
       "de": "sich zerstreuen",
       "es": "dispersarse",
-      "pl": "rozpraszać się",
       "it": "disperdersi",
       "pt": "dispersar-se",
       "ja": "散らばる",
       "zh": "分散",
-      "ru": "рассеиваться"
+      "ru": "рассеиваться",
+      "fr": "se disperser"
     },
     "examples": [],
     "meta": {
@@ -13909,12 +13908,12 @@ const WORDS_KO_B1 = [
       "en": "climate",
       "de": "das Klima",
       "es": "el clima",
-      "pl": "klimat",
       "it": "il clima",
       "pt": "o clima",
       "ja": "気候",
       "zh": "气候",
-      "ru": "климат"
+      "ru": "климат",
+      "fr": "climat"
     },
     "examples": [],
     "meta": {
@@ -13940,12 +13939,12 @@ const WORDS_KO_B1 = [
       "en": "respond",
       "de": "reagieren",
       "es": "responder",
-      "pl": "reagować",
       "it": "rispondere",
       "pt": "responder",
       "ja": "対応する",
       "zh": "应对",
-      "ru": "реагировать"
+      "ru": "реагировать",
+      "fr": "répondre"
     },
     "examples": [],
     "meta": {
@@ -13972,12 +13971,12 @@ const WORDS_KO_B1 = [
       "en": "feeling",
       "de": "das Gefühl",
       "es": "el sentimiento",
-      "pl": "uczucie",
       "it": "il sentimento",
       "pt": "o sentimento",
       "ja": "心情",
       "zh": "心情",
-      "ru": "чувство"
+      "ru": "чувство",
+      "fr": "sentiment"
     },
     "examples": [],
     "meta": {
@@ -14003,12 +14002,12 @@ const WORDS_KO_B1 = [
       "en": "achieve",
       "de": "erreichen",
       "es": "lograr",
-      "pl": "osiągnąć",
       "it": "realizzare",
       "pt": "alcançar",
       "ja": "成し遂げる",
       "zh": "实现",
-      "ru": "достигать"
+      "ru": "достигать",
+      "fr": "atteindre"
     },
     "examples": [],
     "meta": {
@@ -14035,12 +14034,12 @@ const WORDS_KO_B1 = [
       "en": "detective",
       "de": "der Kriminalbeamte",
       "es": "el detective",
-      "pl": "detektyw",
       "it": "il detective",
       "pt": "o detetive",
       "ja": "刑事",
       "zh": "侦探",
-      "ru": "детектив"
+      "ru": "детектив",
+      "fr": "détective"
     },
     "examples": [],
     "meta": {
@@ -14066,12 +14065,12 @@ const WORDS_KO_B1 = [
       "en": "play",
       "de": "das Theaterstück",
       "es": "la obra de teatro",
-      "pl": "sztuka teatralna",
       "it": "il dramma",
       "pt": "a peça de teatro",
       "ja": "戯曲",
       "zh": "戏剧",
-      "ru": "пьеса"
+      "ru": "пьеса",
+      "fr": "pièce de théâtre"
     },
     "examples": [],
     "meta": {
@@ -14097,12 +14096,12 @@ const WORDS_KO_B1 = [
       "en": "moisture",
       "de": "die Feuchtigkeit",
       "es": "la humedad",
-      "pl": "wilgoć",
       "it": "l'umidità",
       "pt": "a umidade",
       "ja": "湿気",
       "zh": "湿气",
-      "ru": "влага"
+      "ru": "влага",
+      "fr": "humidité"
     },
     "examples": [],
     "meta": {
@@ -14128,12 +14127,12 @@ const WORDS_KO_B1 = [
       "en": "specific",
       "de": "bestimmt",
       "es": "específico",
-      "pl": "określony",
       "it": "specifico",
       "pt": "específico",
       "ja": "特定の",
       "zh": "特定的",
-      "ru": "определенный"
+      "ru": "определенный",
+      "fr": "spécifique"
     },
     "examples": [],
     "meta": {
@@ -14157,12 +14156,12 @@ const WORDS_KO_B1 = [
       "en": "border",
       "de": "die Grenze",
       "es": "la frontera",
-      "pl": "granica",
       "it": "il confine",
       "pt": "a fronteira",
       "ja": "境界",
       "zh": "边界",
-      "ru": "граница"
+      "ru": "граница",
+      "fr": "frontière"
     },
     "examples": [],
     "meta": {
@@ -14188,12 +14187,12 @@ const WORDS_KO_B1 = [
       "en": "formula",
       "de": "die Formel",
       "es": "la fórmula",
-      "pl": "formuła",
       "it": "la formula",
       "pt": "a fórmula",
       "ja": "公式",
       "zh": "公式",
-      "ru": "формула"
+      "ru": "формула",
+      "fr": "formule"
     },
     "examples": [],
     "meta": {
@@ -14219,12 +14218,12 @@ const WORDS_KO_B1 = [
       "en": "stay",
       "de": "bleiben",
       "es": "quedarse",
-      "pl": "zostać",
       "it": "rimanere",
       "pt": "ficar",
       "ja": "滞在する",
       "zh": "停留",
-      "ru": "оставаться"
+      "ru": "оставаться",
+      "fr": "rester"
     },
     "examples": [],
     "meta": {
@@ -14251,12 +14250,12 @@ const WORDS_KO_B1 = [
       "en": "honor",
       "de": "die Ehre",
       "es": "el honor",
-      "pl": "honor",
       "it": "l'onore",
       "pt": "a honra",
       "ja": "名誉",
       "zh": "荣誉",
-      "ru": "честь"
+      "ru": "честь",
+      "fr": "honneur"
     },
     "examples": [],
     "meta": {
@@ -14282,12 +14281,12 @@ const WORDS_KO_B1 = [
       "en": "sailor",
       "de": "der Seemann",
       "es": "el marinero",
-      "pl": "marynarz",
       "it": "il marinaio",
       "pt": "o marinheiro",
       "ja": "船乗り",
       "zh": "船员",
-      "ru": "моряк"
+      "ru": "моряк",
+      "fr": "marin"
     },
     "examples": [],
     "meta": {
@@ -14313,12 +14312,12 @@ const WORDS_KO_B1 = [
       "en": "apply",
       "de": "sich bewerben",
       "es": "solicitar",
-      "pl": "aplikować",
       "it": "fare domanda",
       "pt": "candidatar-se",
       "ja": "応募する",
       "zh": "申请",
-      "ru": "подавать заявление"
+      "ru": "подавать заявление",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {
@@ -14345,12 +14344,12 @@ const WORDS_KO_B1 = [
       "en": "silence",
       "de": "die Stille",
       "es": "el silencio",
-      "pl": "cisza",
       "it": "il silenzio",
       "pt": "o silêncio",
       "ja": "沈黙",
       "zh": "沉默",
-      "ru": "молчание"
+      "ru": "молчание",
+      "fr": "silence"
     },
     "examples": [],
     "meta": {
@@ -14376,12 +14375,12 @@ const WORDS_KO_B1 = [
       "en": "text",
       "de": "der Text",
       "es": "el texto",
-      "pl": "tekst",
       "it": "il testo",
       "pt": "o texto",
       "ja": "テキスト",
       "zh": "文本",
-      "ru": "текст"
+      "ru": "текст",
+      "fr": "texte"
     },
     "examples": [],
     "meta": {
@@ -14408,12 +14407,12 @@ const WORDS_KO_B1 = [
       "en": "surface",
       "de": "die Oberfläche",
       "es": "la superficie",
-      "pl": "powierzchnia",
       "it": "la superficie",
       "pt": "a superfície",
       "ja": "表面",
       "zh": "表面",
-      "ru": "поверхность"
+      "ru": "поверхность",
+      "fr": "surface"
     },
     "examples": [],
     "meta": {
@@ -14439,12 +14438,12 @@ const WORDS_KO_B1 = [
       "en": "objective",
       "de": "objektiv",
       "es": "objetivo",
-      "pl": "obiektywny",
       "it": "oggettivo",
       "pt": "objetivo",
       "ja": "客観的",
       "zh": "客观的",
-      "ru": "объективный"
+      "ru": "объективный",
+      "fr": "objectif"
     },
     "examples": [],
     "meta": {
@@ -14468,12 +14467,12 @@ const WORDS_KO_B1 = [
       "en": "corner",
       "de": "die Ecke",
       "es": "el rincón",
-      "pl": "kąt",
       "it": "l'angolo",
       "pt": "o canto",
       "ja": "隅",
       "zh": "角落",
-      "ru": "угол"
+      "ru": "угол",
+      "fr": "coin"
     },
     "examples": [],
     "meta": {
@@ -14499,12 +14498,12 @@ const WORDS_KO_B1 = [
       "en": "nest",
       "de": "das Nest",
       "es": "el nido",
-      "pl": "gniazdo",
       "it": "il nido",
       "pt": "o ninho",
       "ja": "巣",
       "zh": "巢",
-      "ru": "гнездо"
+      "ru": "гнездо",
+      "fr": "nid"
     },
     "examples": [],
     "meta": {
@@ -14530,12 +14529,12 @@ const WORDS_KO_B1 = [
       "en": "unit",
       "de": "die Einheit",
       "es": "la unidad",
-      "pl": "jednostka",
       "it": "l'unità",
       "pt": "a unidade",
       "ja": "部隊",
       "zh": "部队",
-      "ru": "подразделение"
+      "ru": "подразделение",
+      "fr": "unité"
     },
     "examples": [],
     "meta": {
@@ -14561,12 +14560,12 @@ const WORDS_KO_B1 = [
       "en": "circle",
       "de": "der Zirkel",
       "es": "el círculo",
-      "pl": "krąg",
       "it": "il circolo",
       "pt": "o círculo",
       "ja": "サークル",
       "zh": "社团",
-      "ru": "кружок"
+      "ru": "кружок",
+      "fr": "cercle"
     },
     "examples": [],
     "meta": {
@@ -14592,12 +14591,12 @@ const WORDS_KO_B1 = [
       "en": "reality",
       "de": "die Realität",
       "es": "la realidad",
-      "pl": "rzeczywistość",
       "it": "la realtà",
       "pt": "a realidade",
       "ja": "実体",
       "zh": "实体",
-      "ru": "сущность"
+      "ru": "сущность",
+      "fr": "réalité"
     },
     "examples": [],
     "meta": {
@@ -14623,12 +14622,12 @@ const WORDS_KO_B1 = [
       "en": "strict",
       "de": "streng",
       "es": "estricto",
-      "pl": "surowy",
       "it": "rigoroso",
       "pt": "rigoroso",
       "ja": "厳格だ",
       "zh": "严格的",
-      "ru": "строгий"
+      "ru": "строгий",
+      "fr": "strict"
     },
     "examples": [],
     "meta": {
@@ -14652,12 +14651,12 @@ const WORDS_KO_B1 = [
       "en": "complete",
       "de": "vollständig",
       "es": "completo",
-      "pl": "kompletny",
       "it": "completo",
       "pt": "completo",
       "ja": "完全だ",
       "zh": "完整的",
-      "ru": "полный"
+      "ru": "полный",
+      "fr": "complet"
     },
     "examples": [],
     "meta": {
@@ -14681,12 +14680,12 @@ const WORDS_KO_B1 = [
       "en": "increase",
       "de": "die Zunahme",
       "es": "el aumento",
-      "pl": "wzrost",
       "it": "l'aumento",
       "pt": "o aumento",
       "ja": "増加",
       "zh": "增加",
-      "ru": "увеличение"
+      "ru": "увеличение",
+      "fr": "augmentation"
     },
     "examples": [],
     "meta": {
@@ -14712,12 +14711,12 @@ const WORDS_KO_B1 = [
       "en": "appearance",
       "de": "der Auftritt",
       "es": "la aparición",
-      "pl": "występ",
       "it": "l'apparizione",
       "pt": "a aparição",
       "ja": "出演",
       "zh": "出演",
-      "ru": "выступление"
+      "ru": "выступление",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {
@@ -14743,12 +14742,12 @@ const WORDS_KO_B1 = [
       "en": "review",
       "de": "der Erfahrungsbericht",
       "es": "la reseña",
-      "pl": "recenzja",
       "it": "la recensione",
       "pt": "a resenha",
       "ja": "レビュー",
       "zh": "评论",
-      "ru": "отзыв"
+      "ru": "отзыв",
+      "fr": "critique"
     },
     "examples": [],
     "meta": {
@@ -14774,12 +14773,12 @@ const WORDS_KO_B1 = [
       "en": "endure",
       "de": "aushalten",
       "es": "resistir",
-      "pl": "wytrzymać",
       "it": "resistere",
       "pt": "resistir",
       "ja": "耐える",
       "zh": "忍受",
-      "ru": "терпеть"
+      "ru": "терпеть",
+      "fr": "endurer"
     },
     "examples": [],
     "meta": {
@@ -14806,12 +14805,12 @@ const WORDS_KO_B1 = [
       "en": "distribute",
       "de": "verteilen",
       "es": "distribuir",
-      "pl": "rozprowadzać",
       "it": "distribuire",
       "pt": "distribuir",
       "ja": "分布する",
       "zh": "分布",
-      "ru": "распределять"
+      "ru": "распределять",
+      "fr": "distribuer"
     },
     "examples": [],
     "meta": {
@@ -14838,12 +14837,12 @@ const WORDS_KO_B1 = [
       "en": "importance",
       "de": "die Bedeutung",
       "es": "la importancia",
-      "pl": "znaczenie",
       "it": "l'importanza",
       "pt": "a importância",
       "ja": "重要性",
       "zh": "比重",
-      "ru": "значимость"
+      "ru": "значимость",
+      "fr": "importance"
     },
     "examples": [],
     "meta": {
@@ -14869,12 +14868,12 @@ const WORDS_KO_B1 = [
       "en": "idea",
       "de": "die Idee",
       "es": "la idea",
-      "pl": "pomysł",
       "it": "l'idea",
       "pt": "a ideia",
       "ja": "アイデア",
       "zh": "想法",
-      "ru": "идея"
+      "ru": "идея",
+      "fr": "idée"
     },
     "examples": [],
     "meta": {
@@ -14900,12 +14899,12 @@ const WORDS_KO_B1 = [
       "en": "development",
       "de": "die Entwicklung",
       "es": "el desarrollo",
-      "pl": "rozwój",
       "it": "lo sviluppo",
       "pt": "o desenvolvimento",
       "ja": "展開",
       "zh": "展开",
-      "ru": "развитие"
+      "ru": "развитие",
+      "fr": "développement"
     },
     "examples": [],
     "meta": {
@@ -14931,12 +14930,12 @@ const WORDS_KO_B1 = [
       "en": "contact",
       "de": "der Kontakt",
       "es": "el contacto",
-      "pl": "kontakt",
       "it": "il contatto",
       "pt": "o contato",
       "ja": "接触",
       "zh": "接触",
-      "ru": "контакт"
+      "ru": "контакт",
+      "fr": "contact"
     },
     "examples": [],
     "meta": {
@@ -14962,12 +14961,12 @@ const WORDS_KO_B1 = [
       "en": "valley",
       "de": "das Tal",
       "es": "el valle",
-      "pl": "dolina",
       "it": "la valle",
       "pt": "o vale",
       "ja": "谷",
       "zh": "山谷",
-      "ru": "долина"
+      "ru": "долина",
+      "fr": "vallée"
     },
     "examples": [],
     "meta": {
@@ -14993,12 +14992,12 @@ const WORDS_KO_B1 = [
       "en": "argue",
       "de": "streiten",
       "es": "discutir",
-      "pl": "kłócić się",
       "it": "litigare",
       "pt": "discutir",
       "ja": "争う",
       "zh": "争吵",
-      "ru": "спорить"
+      "ru": "спорить",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {
@@ -15025,12 +15024,12 @@ const WORDS_KO_B1 = [
       "en": "lead",
       "de": "anführen",
       "es": "liderar",
-      "pl": "prowadzić",
       "it": "guidare",
       "pt": "liderar",
       "ja": "先頭に立つ",
       "zh": "带头",
-      "ru": "возглавлять"
+      "ru": "возглавлять",
+      "fr": "mener"
     },
     "examples": [],
     "meta": {
@@ -15057,12 +15056,12 @@ const WORDS_KO_B1 = [
       "en": "request",
       "de": "bitten",
       "es": "pedir",
-      "pl": "prosić",
       "it": "chiedere",
       "pt": "pedir",
       "ja": "要求する",
       "zh": "要求",
-      "ru": "просить"
+      "ru": "просить",
+      "fr": "demander"
     },
     "examples": [],
     "meta": {
@@ -15090,12 +15089,12 @@ const WORDS_KO_B1 = [
       "en": "match",
       "de": "übereinstimmen",
       "es": "coincidir",
-      "pl": "zgadzać się",
       "it": "concordare",
       "pt": "concordar",
       "ja": "一致する",
       "zh": "一致",
-      "ru": "совпадать"
+      "ru": "совпадать",
+      "fr": "correspondre"
     },
     "examples": [],
     "meta": {
@@ -15122,12 +15121,12 @@ const WORDS_KO_B1 = [
       "en": "political circles",
       "de": "die Politik",
       "es": "el ámbito político",
-      "pl": "krąg polityczny",
       "it": "la sfera politica",
       "pt": "o círculo político",
       "ja": "政界",
       "zh": "政界",
-      "ru": "политические круги"
+      "ru": "политические круги",
+      "fr": "milieux politiques"
     },
     "examples": [],
     "meta": {
@@ -15153,12 +15152,12 @@ const WORDS_KO_B1 = [
       "en": "virgin",
       "de": "die Jungfrau",
       "es": "la virgen",
-      "pl": "dziewica",
       "it": "la vergine",
       "pt": "a virgem",
       "ja": "処女",
       "zh": "处女",
-      "ru": "девственница"
+      "ru": "девственница",
+      "fr": "vierge"
     },
     "examples": [],
     "meta": {
@@ -15184,12 +15183,12 @@ const WORDS_KO_B1 = [
       "en": "be developed",
       "de": "entwickelt werden",
       "es": "ser desarrollado",
-      "pl": "być rozwijanym",
       "it": "essere sviluppato",
       "pt": "ser desenvolvido",
       "ja": "開発される",
       "zh": "被开发",
-      "ru": "быть разработанным"
+      "ru": "быть разработанным",
+      "fr": "être développé"
     },
     "examples": [],
     "meta": {
@@ -15216,12 +15215,12 @@ const WORDS_KO_B1 = [
       "en": "prepare",
       "de": "vorbereiten",
       "es": "preparar",
-      "pl": "przygotować",
       "it": "preparare",
       "pt": "preparar",
       "ja": "準備する",
       "zh": "准备",
-      "ru": "готовить"
+      "ru": "готовить",
+      "fr": "préparer"
     },
     "examples": [],
     "meta": {
@@ -15249,12 +15248,12 @@ const WORDS_KO_B1 = [
       "en": "fall down",
       "de": "umfallen",
       "es": "caerse",
-      "pl": "upadać",
       "it": "cadere",
       "pt": "cair",
       "ja": "倒れる",
       "zh": "倒下",
-      "ru": "падать"
+      "ru": "падать",
+      "fr": "tomber"
     },
     "examples": [],
     "meta": {
@@ -15281,12 +15280,12 @@ const WORDS_KO_B1 = [
       "en": "soul",
       "de": "die Seele",
       "es": "el alma",
-      "pl": "dusza",
       "it": "l'anima",
       "pt": "a alma",
       "ja": "魂",
       "zh": "灵魂",
-      "ru": "душа"
+      "ru": "душа",
+      "fr": "âme"
     },
     "examples": [],
     "meta": {
@@ -15312,12 +15311,12 @@ const WORDS_KO_B1 = [
       "en": "driver",
       "de": "der Fahrer",
       "es": "el conductor",
-      "pl": "kierowca",
       "it": "l'autista",
       "pt": "o motorista",
       "ja": "運転手",
       "zh": "司机",
-      "ru": "водитель"
+      "ru": "водитель",
+      "fr": "conducteur"
     },
     "examples": [],
     "meta": {
@@ -15343,12 +15342,12 @@ const WORDS_KO_B1 = [
       "en": "be applied",
       "de": "angewendet werden",
       "es": "ser aplicado",
-      "pl": "być stosowanym",
       "it": "essere applicato",
       "pt": "ser aplicado",
       "ja": "適用される",
       "zh": "被应用",
-      "ru": "применяться"
+      "ru": "применяться",
+      "fr": "être appliqué"
     },
     "examples": [],
     "meta": {
@@ -15375,12 +15374,12 @@ const WORDS_KO_B1 = [
       "en": "continuous",
       "de": "kontinuierlich",
       "es": "continuo",
-      "pl": "ciągły",
       "it": "continuo",
       "pt": "contínuo",
       "ja": "持続的",
       "zh": "持续",
-      "ru": "непрерывный"
+      "ru": "непрерывный",
+      "fr": "continu"
     },
     "examples": [],
     "meta": {
@@ -15404,12 +15403,12 @@ const WORDS_KO_B1 = [
       "en": "discrimination",
       "de": "die Diskriminierung",
       "es": "la discriminación",
-      "pl": "dyskryminacja",
       "it": "la discriminazione",
       "pt": "a discriminação",
       "ja": "差別",
       "zh": "歧视",
-      "ru": "дискриминация"
+      "ru": "дискриминация",
+      "fr": "discrimination"
     },
     "examples": [],
     "meta": {
@@ -15435,12 +15434,12 @@ const WORDS_KO_B1 = [
       "en": "division",
       "de": "die Teilung",
       "es": "la división",
-      "pl": "podział",
       "it": "la divisione",
       "pt": "a divisão",
       "ja": "区分",
       "zh": "区分",
-      "ru": "разделение"
+      "ru": "разделение",
+      "fr": "division"
     },
     "examples": [],
     "meta": {
@@ -15466,12 +15465,12 @@ const WORDS_KO_B1 = [
       "en": "fury",
       "de": "die Wut",
       "es": "la furia",
-      "pl": "furia",
       "it": "la furia",
       "pt": "a fúria",
       "ja": "憤怒",
       "zh": "愤怒",
-      "ru": "гнев"
+      "ru": "гнев",
+      "fr": "fureur"
     },
     "examples": [],
     "meta": {
@@ -15497,12 +15496,12 @@ const WORDS_KO_B1 = [
       "en": "to brush against",
       "de": "streifen",
       "es": "rozar",
-      "pl": "przecierać",
       "it": "sfiorare",
       "pt": "esfregar",
       "ja": "かすめる",
       "zh": "擦过",
-      "ru": "касаться"
+      "ru": "касаться",
+      "fr": "frôler"
     },
     "examples": [],
     "meta": {
@@ -15529,12 +15528,12 @@ const WORDS_KO_B1 = [
       "en": "duty",
       "de": "die Pflicht",
       "es": "el deber",
-      "pl": "obowiązek",
       "it": "il dovere",
       "pt": "o dever",
       "ja": "義務",
       "zh": "义务",
-      "ru": "долг"
+      "ru": "долг",
+      "fr": "devoir"
     },
     "examples": [],
     "meta": {
@@ -15561,12 +15560,12 @@ const WORDS_KO_B1 = [
       "en": "identical",
       "de": "identisch",
       "es": "idéntico",
-      "pl": "identyczny",
       "it": "identico",
       "pt": "idêntico",
       "ja": "同一だ",
       "zh": "相同的",
-      "ru": "одинаковый"
+      "ru": "одинаковый",
+      "fr": "identique"
     },
     "examples": [],
     "meta": {
@@ -15590,12 +15589,12 @@ const WORDS_KO_B1 = [
       "en": "installation",
       "de": "Installation",
       "es": "instalación",
-      "pl": "instalacja",
       "it": "installazione",
       "pt": "instalação",
       "ja": "設置",
       "zh": "安装",
-      "ru": "установка"
+      "ru": "установка",
+      "fr": "installation"
     },
     "examples": [],
     "meta": {
@@ -15622,12 +15621,12 @@ const WORDS_KO_B1 = [
       "en": "business type",
       "de": "Branche",
       "es": "tipo de negocio",
-      "pl": "rodzaj działalności",
       "it": "tipo di attività",
       "pt": "tipo de negócio",
       "ja": "業種",
       "zh": "行业",
-      "ru": "отрасль"
+      "ru": "отрасль",
+      "fr": "type d'entreprise"
     },
     "examples": [],
     "meta": {
@@ -15653,12 +15652,12 @@ const WORDS_KO_B1 = [
       "en": "direction",
       "de": "Inszenierung",
       "es": "dirección",
-      "pl": "reżyseria",
       "it": "regia",
       "pt": "direção",
       "ja": "演出",
       "zh": "导演",
-      "ru": "постановка"
+      "ru": "постановка",
+      "fr": "direction"
     },
     "examples": [],
     "meta": {
@@ -15684,12 +15683,12 @@ const WORDS_KO_B1 = [
       "en": "open up",
       "de": "sich öffnen",
       "es": "abrirse",
-      "pl": "otworzyć się",
       "it": "aprirsi",
       "pt": "abrir-se",
       "ja": "開ける",
       "zh": "敞开",
-      "ru": "открываться"
+      "ru": "открываться",
+      "fr": "s'ouvrir"
     },
     "examples": [],
     "meta": {
@@ -15716,12 +15715,12 @@ const WORDS_KO_B1 = [
       "en": "globalization",
       "de": "Globalisierung",
       "es": "globalización",
-      "pl": "globalizacja",
       "it": "globalizzazione",
       "pt": "globalização",
       "ja": "国際化",
       "zh": "国际化",
-      "ru": "глобализация"
+      "ru": "глобализация",
+      "fr": "mondialisation"
     },
     "examples": [],
     "meta": {
@@ -15747,12 +15746,12 @@ const WORDS_KO_B1 = [
       "en": "muscle",
       "de": "der Muskel",
       "es": "el músculo",
-      "pl": "mięsień",
       "it": "il muscolo",
       "pt": "o músculo",
       "ja": "筋肉",
       "zh": "肌肉",
-      "ru": "мышца"
+      "ru": "мышца",
+      "fr": "muscle"
     },
     "examples": [],
     "meta": {
@@ -15778,12 +15777,12 @@ const WORDS_KO_B1 = [
       "en": "to be spread",
       "de": "sich ausbreiten",
       "es": "extenderse",
-      "pl": "rozłożyć się",
       "it": "spargersi",
       "pt": "espalhar-se",
       "ja": "敷かれる",
       "zh": "铺开",
-      "ru": "расстилаться"
+      "ru": "расстилаться",
+      "fr": "se répandre"
     },
     "examples": [],
     "meta": {
@@ -15810,12 +15809,12 @@ const WORDS_KO_B1 = [
       "en": "union",
       "de": "die Union",
       "es": "la unión",
-      "pl": "unia",
       "it": "l'unione",
       "pt": "a união",
       "ja": "連合",
       "zh": "联合",
-      "ru": "союз"
+      "ru": "союз",
+      "fr": "union"
     },
     "examples": [],
     "meta": {
@@ -15841,12 +15840,12 @@ const WORDS_KO_B1 = [
       "en": "personality",
       "de": "die Persönlichkeit",
       "es": "la personalidad",
-      "pl": "osobowość",
       "it": "la personalità",
       "pt": "a personalidade",
       "ja": "人格",
       "zh": "人格",
-      "ru": "личность"
+      "ru": "личность",
+      "fr": "personnalité"
     },
     "examples": [],
     "meta": {
@@ -15872,12 +15871,12 @@ const WORDS_KO_B1 = [
       "en": "item",
       "de": "der Artikel",
       "es": "el artículo",
-      "pl": "pozycja",
       "it": "l'articolo",
       "pt": "o item",
       "ja": "品目",
       "zh": "项目",
-      "ru": "пункт"
+      "ru": "пункт",
+      "fr": "élément"
     },
     "examples": [],
     "meta": {
@@ -15903,12 +15902,12 @@ const WORDS_KO_B1 = [
       "en": "rice paddy",
       "de": "das Reisfeld",
       "es": "el arrozal",
-      "pl": "pole ryżowe",
       "it": "la risaia",
       "pt": "o campo de arroz",
       "ja": "田",
       "zh": "稻田",
-      "ru": "рисовое поле"
+      "ru": "рисовое поле",
+      "fr": "rizière"
     },
     "examples": [],
     "meta": {
@@ -15934,12 +15933,12 @@ const WORDS_KO_B1 = [
       "en": "criticism",
       "de": "die Kritik",
       "es": "la crítica",
-      "pl": "krytyka",
       "it": "la critica",
       "pt": "a crítica",
       "ja": "非難",
       "zh": "批评",
-      "ru": "критика"
+      "ru": "критика",
+      "fr": "critique"
     },
     "examples": [],
     "meta": {
@@ -15965,12 +15964,12 @@ const WORDS_KO_B1 = [
       "en": "threat",
       "de": "die Bedrohung",
       "es": "la amenaza",
-      "pl": "groźba",
       "it": "la minaccia",
       "pt": "a ameaça",
       "ja": "脅威",
       "zh": "威胁",
-      "ru": "угроза"
+      "ru": "угроза",
+      "fr": "menace"
     },
     "examples": [],
     "meta": {
@@ -15996,12 +15995,12 @@ const WORDS_KO_B1 = [
       "en": "sink",
       "de": "versinken",
       "es": "hundirse",
-      "pl": "tonąć",
       "it": "affondare",
       "pt": "afundar",
       "ja": "沈む",
       "zh": "沉没",
-      "ru": "тонуть"
+      "ru": "тонуть",
+      "fr": "couler"
     },
     "examples": [],
     "meta": {
@@ -16028,12 +16027,12 @@ const WORDS_KO_B1 = [
       "en": "exchange",
       "de": "austauschen",
       "es": "intercambiar",
-      "pl": "wymieniać",
       "it": "scambiarsi",
       "pt": "trocar",
       "ja": "やり取りする",
       "zh": "交换",
-      "ru": "обмениваться"
+      "ru": "обмениваться",
+      "fr": "échanger"
     },
     "examples": [],
     "meta": {
@@ -16060,12 +16059,12 @@ const WORDS_KO_B1 = [
       "en": "support",
       "de": "die Unterstützung",
       "es": "el apoyo",
-      "pl": "wsparcie",
       "it": "il sostegno",
       "pt": "o apoio",
       "ja": "支持",
       "zh": "支持",
-      "ru": "поддержка"
+      "ru": "поддержка",
+      "fr": "soutien"
     },
     "examples": [],
     "meta": {
@@ -16091,12 +16090,12 @@ const WORDS_KO_B1 = [
       "en": "warning",
       "de": "die Warnung",
       "es": "la advertencia",
-      "pl": "ostrzeżenie",
       "it": "l'avvertimento",
       "pt": "o aviso",
       "ja": "警告",
       "zh": "警告",
-      "ru": "предупреждение"
+      "ru": "предупреждение",
+      "fr": "avertissement"
     },
     "examples": [],
     "meta": {
@@ -16122,12 +16121,12 @@ const WORDS_KO_B1 = [
       "en": "disclose",
       "de": "offenlegen",
       "es": "revelar",
-      "pl": "ujawnić",
       "it": "rivelare",
       "pt": "revelar",
       "ja": "公開する",
       "zh": "公开",
-      "ru": "раскрывать"
+      "ru": "раскрывать",
+      "fr": "révéler"
     },
     "examples": [],
     "meta": {
@@ -16154,12 +16153,12 @@ const WORDS_KO_B1 = [
       "en": "argument",
       "de": "die Auseinandersetzung",
       "es": "la discusión",
-      "pl": "dyskusja",
       "it": "la discussione",
       "pt": "a discussão",
       "ja": "論争",
       "zh": "争论",
-      "ru": "спор"
+      "ru": "спор",
+      "fr": "argument"
     },
     "examples": [],
     "meta": {
@@ -16185,12 +16184,12 @@ const WORDS_KO_B1 = [
       "en": "statement",
       "de": "die Erklärung",
       "es": "la declaración",
-      "pl": "oświadczenie",
       "it": "la dichiarazione",
       "pt": "a declaração",
       "ja": "声明",
       "zh": "声明",
-      "ru": "заявление"
+      "ru": "заявление",
+      "fr": "déclaration"
     },
     "examples": [],
     "meta": {
@@ -16216,12 +16215,12 @@ const WORDS_KO_B1 = [
       "en": "unfold",
       "de": "sich entfalten",
       "es": "desplegarse",
-      "pl": "rozwijać się",
       "it": "svilupparsi",
       "pt": "desenrolar-se",
       "ja": "展開される",
       "zh": "展开",
-      "ru": "разворачиваться"
+      "ru": "разворачиваться",
+      "fr": "se dérouler"
     },
     "examples": [],
     "meta": {
@@ -16248,12 +16247,12 @@ const WORDS_KO_B1 = [
       "en": "quality",
       "de": "die Qualität",
       "es": "la calidad",
-      "pl": "jakość",
       "it": "la qualità",
       "pt": "a qualidade",
       "ja": "品質",
       "zh": "品质",
-      "ru": "качество"
+      "ru": "качество",
+      "fr": "qualité"
     },
     "examples": [],
     "meta": {
@@ -16279,12 +16278,12 @@ const WORDS_KO_B1 = [
       "en": "interview",
       "de": "die Pressekonferenz",
       "es": "la entrevista",
-      "pl": "wywiad",
       "it": "l'intervista",
       "pt": "a entrevista",
       "ja": "会見",
       "zh": "采访",
-      "ru": "интервью"
+      "ru": "интервью",
+      "fr": "entretien"
     },
     "examples": [],
     "meta": {
@@ -16310,12 +16309,12 @@ const WORDS_KO_B1 = [
       "en": "steal",
       "de": "stehlen",
       "es": "robar",
-      "pl": "kraść",
       "it": "rubare",
       "pt": "roubar",
       "ja": "盗む",
       "zh": "偷",
-      "ru": "красть"
+      "ru": "красть",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {
@@ -16342,12 +16341,12 @@ const WORDS_KO_B1 = [
       "en": "trace",
       "de": "die Spur",
       "es": "la huella",
-      "pl": "ślad",
       "it": "la traccia",
       "pt": "o rastro",
       "ja": "痕跡",
       "zh": "痕迹",
-      "ru": "след"
+      "ru": "след",
+      "fr": "trace"
     },
     "examples": [],
     "meta": {
@@ -16373,12 +16372,12 @@ const WORDS_KO_B1 = [
       "en": "classic",
       "de": "der Klassiker",
       "es": "el clásico",
-      "pl": "klasyka",
       "it": "il classico",
       "pt": "o clássico",
       "ja": "古典",
       "zh": "古典",
-      "ru": "классика"
+      "ru": "классика",
+      "fr": "classique"
     },
     "examples": [],
     "meta": {
@@ -16404,12 +16403,12 @@ const WORDS_KO_B1 = [
       "en": "distinguish",
       "de": "unterscheiden",
       "es": "distinguir",
-      "pl": "rozróżniać",
       "it": "distinguere",
       "pt": "distinguir",
       "ja": "区別する",
       "zh": "区分",
-      "ru": "различать"
+      "ru": "различать",
+      "fr": "distinguer"
     },
     "examples": [],
     "meta": {
@@ -16436,12 +16435,12 @@ const WORDS_KO_B1 = [
       "en": "brain",
       "de": "das Gehirn",
       "es": "el cerebro",
-      "pl": "mózg",
       "it": "il cervello",
       "pt": "o cérebro",
       "ja": "脳",
       "zh": "大脑",
-      "ru": "мозг"
+      "ru": "мозг",
+      "fr": "cerveau"
     },
     "examples": [],
     "meta": {
@@ -16467,12 +16466,12 @@ const WORDS_KO_B1 = [
       "en": "editorial",
       "de": "der Leitartikel",
       "es": "el editorial",
-      "pl": "artykuł redakcyjny",
       "it": "l'editoriale",
       "pt": "o editorial",
       "ja": "社説",
       "zh": "社论",
-      "ru": "передовая статья"
+      "ru": "передовая статья",
+      "fr": "éditorial"
     },
     "examples": [],
     "meta": {
@@ -16498,12 +16497,12 @@ const WORDS_KO_B1 = [
       "en": "victory",
       "de": "der Sieg",
       "es": "la victoria",
-      "pl": "zwycięstwo",
       "it": "la vittoria",
       "pt": "a vitória",
       "ja": "勝利",
       "zh": "胜利",
-      "ru": "победа"
+      "ru": "победа",
+      "fr": "victoire"
     },
     "examples": [],
     "meta": {
@@ -16529,12 +16528,12 @@ const WORDS_KO_B1 = [
       "en": "left and right",
       "de": "links und rechts",
       "es": "izquierda y derecha",
-      "pl": "lewo i prawo",
       "it": "sinistra e destra",
       "pt": "esquerda e direita",
       "ja": "左右",
       "zh": "左右",
-      "ru": "лево и право"
+      "ru": "лево и право",
+      "fr": "gauche et droite"
     },
     "examples": [],
     "meta": {
@@ -16560,12 +16559,12 @@ const WORDS_KO_B1 = [
       "en": "bend",
       "de": "biegen",
       "es": "doblar",
-      "pl": "zginać",
       "it": "piegare",
       "pt": "dobrar",
       "ja": "曲げる",
       "zh": "弯曲",
-      "ru": "сгибать"
+      "ru": "сгибать",
+      "fr": "plier"
     },
     "examples": [],
     "meta": {
@@ -16592,12 +16591,12 @@ const WORDS_KO_B1 = [
       "en": "creation",
       "de": "die Schöpfung",
       "es": "la creación",
-      "pl": "tworzenie",
       "it": "la creazione",
       "pt": "a criação",
       "ja": "創造",
       "zh": "创造",
-      "ru": "создание"
+      "ru": "создание",
+      "fr": "création"
     },
     "examples": [],
     "meta": {
@@ -16623,12 +16622,12 @@ const WORDS_KO_B1 = [
       "en": "promotion",
       "de": "die Werbung",
       "es": "la promoción",
-      "pl": "promocja",
       "it": "la promozione",
       "pt": "a promoção",
       "ja": "広報",
       "zh": "宣传",
-      "ru": "продвижение"
+      "ru": "продвижение",
+      "fr": "promotion"
     },
     "examples": [],
     "meta": {
@@ -16654,12 +16653,12 @@ const WORDS_KO_B1 = [
       "en": "look out",
       "de": "hinausschauen",
       "es": "mirar hacia afuera",
-      "pl": "wyglądać",
       "it": "guardare fuori",
       "pt": "olhar para fora",
       "ja": "見通す",
       "zh": "眺望",
-      "ru": "смотреть наружу"
+      "ru": "смотреть наружу",
+      "fr": "faire attention"
     },
     "examples": [],
     "meta": {
@@ -16686,12 +16685,12 @@ const WORDS_KO_B1 = [
       "en": "large quantity",
       "de": "die Masse",
       "es": "la gran cantidad",
-      "pl": "duża ilość",
       "it": "la grande quantità",
       "pt": "a grande quantidade",
       "ja": "大量",
       "zh": "大量",
-      "ru": "большое количество"
+      "ru": "большое количество",
+      "fr": "grande quantité"
     },
     "examples": [],
     "meta": {
@@ -16717,12 +16716,12 @@ const WORDS_KO_B1 = [
       "en": "accompany",
       "de": "die Begleitung",
       "es": "la compañía",
-      "pl": "towarzyszenie",
       "it": "l'accompagnamento",
       "pt": "a companhia",
       "ja": "同行",
       "zh": "同行",
-      "ru": "сопровождение"
+      "ru": "сопровождение",
+      "fr": "accompagner"
     },
     "examples": [],
     "meta": {
@@ -16748,12 +16747,12 @@ const WORDS_KO_B1 = [
       "en": "group",
       "de": "die Menge",
       "es": "el grupo",
-      "pl": "grupa",
       "it": "il gruppo",
       "pt": "o grupo",
       "ja": "群れ",
       "zh": "群体",
-      "ru": "толпа"
+      "ru": "толпа",
+      "fr": "groupe"
     },
     "examples": [],
     "meta": {
@@ -16779,12 +16778,12 @@ const WORDS_KO_B1 = [
       "en": "natural",
       "de": "natürlich",
       "es": "natural",
-      "pl": "naturalny",
       "it": "naturale",
       "pt": "natural",
       "ja": "当然",
       "zh": "理所当然",
-      "ru": "естественный"
+      "ru": "естественный",
+      "fr": "naturel"
     },
     "examples": [],
     "meta": {
@@ -16808,12 +16807,12 @@ const WORDS_KO_B1 = [
       "en": "fix",
       "de": "reparieren",
       "es": "arreglar",
-      "pl": "naprawić",
       "it": "riparare",
       "pt": "consertar",
       "ja": "直す",
       "zh": "纠正",
-      "ru": "исправлять"
+      "ru": "исправлять",
+      "fr": "réparer"
     },
     "examples": [],
     "meta": {
@@ -16840,12 +16839,12 @@ const WORDS_KO_B1 = [
       "en": "be embedded",
       "de": "eingesteckt sein",
       "es": "estar incrustado",
-      "pl": "być wbitym",
       "it": "essere conficcato",
       "pt": "estar cravado",
       "ja": "打ち込まれる",
       "zh": "钉入",
-      "ru": "быть вбитым"
+      "ru": "быть вбитым",
+      "fr": "être encastré"
     },
     "examples": [],
     "meta": {
@@ -16872,12 +16871,12 @@ const WORDS_KO_B1 = [
       "en": "remove",
       "de": "entfernen",
       "es": "eliminar",
-      "pl": "usunąć",
       "it": "rimuovere",
       "pt": "remover",
       "ja": "除く",
       "zh": "消除",
-      "ru": "устранять"
+      "ru": "устранять",
+      "fr": "enlever"
     },
     "examples": [],
     "meta": {
@@ -16904,12 +16903,12 @@ const WORDS_KO_B1 = [
       "en": "special",
       "de": "speziell",
       "es": "especial",
-      "pl": "specjalny",
       "it": "speciale",
       "pt": "especial",
       "ja": "特別な",
       "zh": "特别的",
-      "ru": "особенный"
+      "ru": "особенный",
+      "fr": "spécial"
     },
     "examples": [],
     "meta": {
@@ -16935,12 +16934,12 @@ const WORDS_KO_B1 = [
       "en": "curiosity",
       "de": "die Neugier",
       "es": "la curiosidad",
-      "pl": "ciekawość",
       "it": "la curiosità",
       "pt": "a curiosidade",
       "ja": "好奇心",
       "zh": "好奇心",
-      "ru": "любопытство"
+      "ru": "любопытство",
+      "fr": "curiosité"
     },
     "examples": [],
     "meta": {
@@ -16966,12 +16965,12 @@ const WORDS_KO_B1 = [
       "en": "planning",
       "de": "die Planung",
       "es": "la planificación",
-      "pl": "planowanie",
       "it": "la pianificazione",
       "pt": "o planejamento",
       "ja": "企画",
       "zh": "企划",
-      "ru": "планирование"
+      "ru": "планирование",
+      "fr": "planification"
     },
     "examples": [],
     "meta": {
@@ -16997,12 +16996,12 @@ const WORDS_KO_B1 = [
       "en": "drive in",
       "de": "einschlagen",
       "es": "clavar",
-      "pl": "wbić",
       "it": "conficcare",
       "pt": "cravar",
       "ja": "打ち込む",
       "zh": "钉入",
-      "ru": "вбить"
+      "ru": "вбить",
+      "fr": "enfoncer"
     },
     "examples": [],
     "meta": {
@@ -17029,12 +17028,12 @@ const WORDS_KO_B1 = [
       "en": "nature",
       "de": "die Natur",
       "es": "la naturaleza",
-      "pl": "natura",
       "it": "la natura",
       "pt": "a natureza",
       "ja": "本性",
       "zh": "本性",
-      "ru": "природа"
+      "ru": "природа",
+      "fr": "nature"
     },
     "examples": [],
     "meta": {
@@ -17060,12 +17059,12 @@ const WORDS_KO_B1 = [
       "en": "productivity",
       "de": "die Produktivität",
       "es": "la productividad",
-      "pl": "produktywność",
       "it": "la produttività",
       "pt": "a produtividade",
       "ja": "生産力",
       "zh": "生产力",
-      "ru": "производительность"
+      "ru": "производительность",
+      "fr": "productivité"
     },
     "examples": [],
     "meta": {
@@ -17091,12 +17090,12 @@ const WORDS_KO_B1 = [
       "en": "equipment",
       "de": "die Ausrüstung",
       "es": "el equipo",
-      "pl": "sprzęt",
       "it": "l'attrezzatura",
       "pt": "o equipamento",
       "ja": "装備",
       "zh": "装备",
-      "ru": "оборудование"
+      "ru": "оборудование",
+      "fr": "équipement"
     },
     "examples": [],
     "meta": {
@@ -17122,12 +17121,12 @@ const WORDS_KO_B1 = [
       "en": "politician",
       "de": "der Politiker",
       "es": "el político",
-      "pl": "polityk",
       "it": "il politico",
       "pt": "o político",
       "ja": "政治家",
       "zh": "政治家",
-      "ru": "политик"
+      "ru": "политик",
+      "fr": "politicien"
     },
     "examples": [],
     "meta": {
@@ -17153,12 +17152,12 @@ const WORDS_KO_B1 = [
       "en": "punishment",
       "de": "die Strafe",
       "es": "el castigo",
-      "pl": "kara",
       "it": "la punizione",
       "pt": "a punição",
       "ja": "処罰",
       "zh": "处罚",
-      "ru": "наказание"
+      "ru": "наказание",
+      "fr": "punition"
     },
     "examples": [],
     "meta": {
@@ -17184,12 +17183,12 @@ const WORDS_KO_B1 = [
       "en": "review",
       "de": "die Prüfung",
       "es": "la revisión",
-      "pl": "przegląd",
       "it": "la revisione",
       "pt": "a revisão",
       "ja": "検討",
       "zh": "审查",
-      "ru": "обзор"
+      "ru": "обзор",
+      "fr": "examen"
     },
     "examples": [],
     "meta": {
@@ -17215,12 +17214,12 @@ const WORDS_KO_B1 = [
       "en": "technique",
       "de": "die Technik",
       "es": "la técnica",
-      "pl": "technika",
       "it": "la tecnica",
       "pt": "a técnica",
       "ja": "技法",
       "zh": "技巧",
-      "ru": "техника"
+      "ru": "техника",
+      "fr": "technique"
     },
     "examples": [],
     "meta": {
@@ -17246,12 +17245,12 @@ const WORDS_KO_B1 = [
       "en": "stand out",
       "de": "auffallen",
       "es": "destacar",
-      "pl": "wyróżniać się",
       "it": "distinguersi",
       "pt": "destacar-se",
       "ja": "際立つ",
       "zh": "突出",
-      "ru": "выделяться"
+      "ru": "выделяться",
+      "fr": "se démarquer"
     },
     "examples": [],
     "meta": {
@@ -17275,12 +17274,12 @@ const WORDS_KO_B1 = [
       "en": "survive",
       "de": "überleben",
       "es": "sobrevivir",
-      "pl": "przeżyć",
       "it": "sopravvivere",
       "pt": "sobreviver",
       "ja": "生き残る",
       "zh": "活下来",
-      "ru": "выжить"
+      "ru": "выжить",
+      "fr": "survivre"
     },
     "examples": [],
     "meta": {
@@ -17307,12 +17306,12 @@ const WORDS_KO_B1 = [
       "en": "murder",
       "de": "der Mord",
       "es": "el asesinato",
-      "pl": "zabójstwo",
       "it": "l'omicidio",
       "pt": "o assassinato",
       "ja": "殺人",
       "zh": "谋杀",
-      "ru": "убийство"
+      "ru": "убийство",
+      "fr": "meurtre"
     },
     "examples": [],
     "meta": {
@@ -17338,12 +17337,12 @@ const WORDS_KO_B1 = [
       "en": "temper",
       "de": "die Art",
       "es": "el temperamento",
-      "pl": "temperament",
       "it": "il carattere",
       "pt": "o temperamento",
       "ja": "性質",
       "zh": "脾气",
-      "ru": "характер"
+      "ru": "характер",
+      "fr": "tempérament"
     },
     "examples": [],
     "meta": {
@@ -17369,12 +17368,12 @@ const WORDS_KO_B1 = [
       "en": "person",
       "de": "die Person",
       "es": "la persona",
-      "pl": "osoba",
       "it": "la persona",
       "pt": "a pessoa",
       "ja": "人",
       "zh": "人",
-      "ru": "человек"
+      "ru": "человек",
+      "fr": "personne"
     },
     "examples": [],
     "meta": {
@@ -17400,12 +17399,12 @@ const WORDS_KO_B1 = [
       "en": "follow",
       "de": "folgen",
       "es": "seguir",
-      "pl": "następować",
       "it": "seguire",
       "pt": "seguir",
       "ja": "続く",
       "zh": "接连发生",
-      "ru": "следовать"
+      "ru": "следовать",
+      "fr": "suivre"
     },
     "examples": [],
     "meta": {
@@ -17432,12 +17431,12 @@ const WORDS_KO_B1 = [
       "en": "keyboard",
       "de": "die Tastatur",
       "es": "el teclado",
-      "pl": "klawiatura",
       "it": "la tastiera",
       "pt": "o teclado",
       "ja": "キーボード",
       "zh": "键盘",
-      "ru": "клавиатура"
+      "ru": "клавиатура",
+      "fr": "clavier"
     },
     "examples": [],
     "meta": {
@@ -17463,12 +17462,12 @@ const WORDS_KO_B1 = [
       "en": "application",
       "de": "die Anwendung",
       "es": "la aplicación",
-      "pl": "zastosowanie",
       "it": "l'applicazione",
       "pt": "a aplicação",
       "ja": "適用",
       "zh": "应用",
-      "ru": "применение"
+      "ru": "применение",
+      "fr": "application"
     },
     "examples": [],
     "meta": {
@@ -17494,12 +17493,12 @@ const WORDS_KO_B1 = [
       "en": "middle",
       "de": "die Mitte",
       "es": "el medio",
-      "pl": "środek",
       "it": "la metà",
       "pt": "o meio",
       "ja": "中盤",
       "zh": "中期",
-      "ru": "середина"
+      "ru": "середина",
+      "fr": "milieu"
     },
     "examples": [],
     "meta": {
@@ -17525,12 +17524,12 @@ const WORDS_KO_B1 = [
       "en": "instruct",
       "de": "anweisen",
       "es": "instruir",
-      "pl": "instruować",
       "it": "istruire",
       "pt": "instruir",
       "ja": "指示する",
       "zh": "指示",
-      "ru": "инструктировать"
+      "ru": "инструктировать",
+      "fr": "instruire"
     },
     "examples": [],
     "meta": {
@@ -17557,12 +17556,12 @@ const WORDS_KO_B1 = [
       "en": "teaching",
       "de": "die Lehre",
       "es": "la enseñanza",
-      "pl": "nauczanie",
       "it": "l'insegnamento",
       "pt": "o ensino",
       "ja": "教え",
       "zh": "教导",
-      "ru": "учение"
+      "ru": "учение",
+      "fr": "enseignement"
     },
     "examples": [],
     "meta": {
@@ -17588,12 +17587,12 @@ const WORDS_KO_B1 = [
       "en": "excess",
       "de": "der Überschuss",
       "es": "el exceso",
-      "pl": "nadmiar",
       "it": "l'eccesso",
       "pt": "o excesso",
       "ja": "無理",
       "zh": "無理",
-      "ru": "излишество"
+      "ru": "излишество",
+      "fr": "excès"
     },
     "examples": [],
     "meta": {
@@ -17619,12 +17618,12 @@ const WORDS_KO_B1 = [
       "en": "front",
       "de": "die Vorderseite",
       "es": "el frente",
-      "pl": "przód",
       "it": "la parte anteriore",
       "pt": "a frente",
       "ja": "正面",
       "zh": "正面",
-      "ru": "фасад"
+      "ru": "фасад",
+      "fr": "avant"
     },
     "examples": [],
     "meta": {
@@ -17650,12 +17649,12 @@ const WORDS_KO_B1 = [
       "en": "source",
       "de": "die Quelle",
       "es": "la fuente",
-      "pl": "źródło",
       "it": "la fonte",
       "pt": "a fonte",
       "ja": "根源",
       "zh": "根源",
-      "ru": "источник"
+      "ru": "источник",
+      "fr": "source"
     },
     "examples": [],
     "meta": {
@@ -17681,12 +17680,12 @@ const WORDS_KO_B1 = [
       "en": "socialism",
       "de": "der Sozialismus",
       "es": "el socialismo",
-      "pl": "socjalizm",
       "it": "il socialismo",
       "pt": "o socialismo",
       "ja": "社会主義",
       "zh": "社会主义",
-      "ru": "социализм"
+      "ru": "социализм",
+      "fr": "socialisme"
     },
     "examples": [],
     "meta": {
@@ -17712,12 +17711,12 @@ const WORDS_KO_B1 = [
       "en": "be installed",
       "de": "installiert werden",
       "es": "ser instalado",
-      "pl": "zostać zainstalowanym",
       "it": "essere installato",
       "pt": "ser instalado",
       "ja": "設置される",
       "zh": "被安装",
-      "ru": "быть установленным"
+      "ru": "быть установленным",
+      "fr": "être installé"
     },
     "examples": [],
     "meta": {
@@ -17744,12 +17743,12 @@ const WORDS_KO_B1 = [
       "en": "capital region",
       "de": "die Hauptstadtregion",
       "es": "la región metropolitana",
-      "pl": "region stołeczny",
       "it": "la regione della capitale",
       "pt": "região metropolitana",
       "ja": "首都圏",
       "zh": "首都圈",
-      "ru": "столичный регион"
+      "ru": "столичный регион",
+      "fr": "région capitale"
     },
     "examples": [],
     "meta": {
@@ -17775,12 +17774,12 @@ const WORDS_KO_B1 = [
       "en": "stimulus",
       "de": "der Reiz",
       "es": "el estímulo",
-      "pl": "bodziec",
       "it": "lo stimolo",
       "pt": "o estímulo",
       "ja": "刺激",
       "zh": "刺激",
-      "ru": "стимул"
+      "ru": "стимул",
+      "fr": "stimulus"
     },
     "examples": [],
     "meta": {
@@ -17806,12 +17805,12 @@ const WORDS_KO_B1 = [
       "en": "lean on",
       "de": "sich stützen auf",
       "es": "apoyarse en",
-      "pl": "podeprzeć się",
       "it": "appoggiarsi a",
       "pt": "apoiar-se em",
       "ja": "寄りかかる",
       "zh": "依靠",
-      "ru": "опираться"
+      "ru": "опираться",
+      "fr": "s'appuyer sur"
     },
     "examples": [],
     "meta": {
@@ -17838,12 +17837,12 @@ const WORDS_KO_B1 = [
       "en": "prime minister",
       "de": "der Premierminister",
       "es": "el primer ministro",
-      "pl": "premier",
       "it": "il primo ministro",
       "pt": "o primeiro-ministro",
       "ja": "首相",
       "zh": "总理",
-      "ru": "премьер-министр"
+      "ru": "премьер-министр",
+      "fr": "Premier ministre"
     },
     "examples": [],
     "meta": {
@@ -17869,12 +17868,12 @@ const WORDS_KO_B1 = [
       "en": "loan",
       "de": "das Darlehen",
       "es": "el préstamo",
-      "pl": "pożyczka",
       "it": "il prestito",
       "pt": "o empréstimo",
       "ja": "融資",
       "zh": "贷款",
-      "ru": "кредит"
+      "ru": "кредит",
+      "fr": "prêt"
     },
     "examples": [],
     "meta": {
@@ -17900,12 +17899,12 @@ const WORDS_KO_B1 = [
       "en": "virtue",
       "de": "die Tugend",
       "es": "la virtud",
-      "pl": "cnota",
       "it": "la virtù",
       "pt": "a virtude",
       "ja": "徳",
       "zh": "美德",
-      "ru": "добродетель"
+      "ru": "добродетель",
+      "fr": "vertu"
     },
     "examples": [],
     "meta": {
@@ -17931,12 +17930,12 @@ const WORDS_KO_B1 = [
       "en": "dedicate",
       "de": "widmen",
       "es": "dedicar",
-      "pl": "poświęcić",
       "it": "dedicare",
       "pt": "dedicar",
       "ja": "捧げる",
       "zh": "奉献",
-      "ru": "посвящать"
+      "ru": "посвящать",
+      "fr": "dédier"
     },
     "examples": [],
     "meta": {
@@ -17964,12 +17963,12 @@ const WORDS_KO_B1 = [
       "en": "be announced",
       "de": "bekannt gegeben werden",
       "es": "ser anunciado",
-      "pl": "zostać ogłoszonym",
       "it": "essere annunciato",
       "pt": "ser anunciado",
       "ja": "発表される",
       "zh": "被宣布",
-      "ru": "быть объявленным"
+      "ru": "быть объявленным",
+      "fr": "être annoncé"
     },
     "examples": [],
     "meta": {
@@ -17996,12 +17995,12 @@ const WORDS_KO_B1 = [
       "en": "deny",
       "de": "leugnen",
       "es": "negar",
-      "pl": "zaprzeczać",
       "it": "negare",
       "pt": "negar",
       "ja": "否定する",
       "zh": "否定",
-      "ru": "отрицать"
+      "ru": "отрицать",
+      "fr": "nier"
     },
     "examples": [],
     "meta": {
@@ -18029,12 +18028,12 @@ const WORDS_KO_B1 = [
       "en": "cause",
       "de": "verursachen",
       "es": "causar",
-      "pl": "powodować",
       "it": "causare",
       "pt": "causar",
       "ja": "引き起こす",
       "zh": "引起",
-      "ru": "вызывать"
+      "ru": "вызывать",
+      "fr": "causer"
     },
     "examples": [],
     "meta": {
@@ -18061,12 +18060,12 @@ const WORDS_KO_B1 = [
       "en": "owner",
       "de": "Besitzer",
       "es": "propietario",
-      "pl": "właściciel",
       "it": "proprietario",
       "pt": "proprietário",
       "ja": "所有者",
       "zh": "所有者",
-      "ru": "владелец"
+      "ru": "владелец",
+      "fr": "propriétaire"
     },
     "examples": [],
     "meta": {
@@ -18092,12 +18091,12 @@ const WORDS_KO_B1 = [
       "en": "amount",
       "de": "Betrag",
       "es": "cantidad",
-      "pl": "kwota",
       "it": "importo",
       "pt": "montante",
       "ja": "金額",
       "zh": "金额",
-      "ru": "сумма"
+      "ru": "сумма",
+      "fr": "montant"
     },
     "examples": [],
     "meta": {
@@ -18123,12 +18122,12 @@ const WORDS_KO_B1 = [
       "en": "just before",
       "de": "unmittelbar vor",
       "es": "justo antes",
-      "pl": "tuż przed",
       "it": "subito prima",
       "pt": "logo antes",
       "ja": "直前",
       "zh": "前夕",
-      "ru": "непосредственно перед"
+      "ru": "непосредственно перед",
+      "fr": "juste avant"
     },
     "examples": [],
     "meta": {
@@ -18154,12 +18153,12 @@ const WORDS_KO_B1 = [
       "en": "guess",
       "de": "vermuten",
       "es": "adivinar",
-      "pl": "zgadywać",
       "it": "indovinare",
       "pt": "adivinhar",
       "ja": "推測する",
       "zh": "猜测",
-      "ru": "догадываться"
+      "ru": "догадываться",
+      "fr": "deviner"
     },
     "examples": [],
     "meta": {
@@ -18186,12 +18185,12 @@ const WORDS_KO_B1 = [
       "en": "choose",
       "de": "wählen",
       "es": "elegir",
-      "pl": "wybierać",
       "it": "scegliere",
       "pt": "escolher",
       "ja": "選ぶ",
       "zh": "选择",
-      "ru": "выбирать"
+      "ru": "выбирать",
+      "fr": "choisir"
     },
     "examples": [],
     "meta": {
@@ -18218,12 +18217,12 @@ const WORDS_KO_B1 = [
       "en": "site",
       "de": "Ort",
       "es": "sitio",
-      "pl": "miejsce",
       "it": "luogo",
       "pt": "local",
       "ja": "場所",
       "zh": "地点",
-      "ru": "место"
+      "ru": "место",
+      "fr": "site"
     },
     "examples": [],
     "meta": {
@@ -18249,12 +18248,12 @@ const WORDS_KO_B1 = [
       "en": "ultimate",
       "de": "letztendlich",
       "es": "último",
-      "pl": "ostateczny",
       "it": "ultimo",
       "pt": "último",
       "ja": "究極の",
       "zh": "最终的",
-      "ru": "конечный"
+      "ru": "конечный",
+      "fr": "ultime"
     },
     "examples": [],
     "meta": {
@@ -18278,12 +18277,12 @@ const WORDS_KO_B1 = [
       "en": "contribute",
       "de": "beitragen",
       "es": "contribuir",
-      "pl": "przyczyniać się",
       "it": "contribuire",
       "pt": "contribuir",
       "ja": "貢献する",
       "zh": "贡献",
-      "ru": "вносить вклад"
+      "ru": "вносить вклад",
+      "fr": "contribuer"
     },
     "examples": [],
     "meta": {
@@ -18310,12 +18309,12 @@ const WORDS_KO_B1 = [
       "en": "continent",
       "de": "Kontinent",
       "es": "continente",
-      "pl": "kontynent",
       "it": "continente",
       "pt": "continente",
       "ja": "大陸",
       "zh": "大陆",
-      "ru": "континент"
+      "ru": "континент",
+      "fr": "continent"
     },
     "examples": [],
     "meta": {
@@ -18341,12 +18340,12 @@ const WORDS_KO_B1 = [
       "en": "follow",
       "de": "folgen",
       "es": "seguir",
-      "pl": "podążać",
       "it": "seguire",
       "pt": "seguir",
       "ja": "続く",
       "zh": "跟随",
-      "ru": "следовать"
+      "ru": "следовать",
+      "fr": "suivre"
     },
     "examples": [],
     "meta": {
@@ -18373,12 +18372,12 @@ const WORDS_KO_B1 = [
       "en": "culprit",
       "de": "der Täter",
       "es": "el culpable",
-      "pl": "przestępca",
       "it": "il colpevole",
       "pt": "o criminoso",
       "ja": "犯人",
       "zh": "罪犯",
-      "ru": "преступник"
+      "ru": "преступник",
+      "fr": "coupable"
     },
     "examples": [],
     "meta": {
@@ -18404,12 +18403,12 @@ const WORDS_KO_B1 = [
       "en": "fluctuation",
       "de": "die Schwankung",
       "es": "la fluctuación",
-      "pl": "fluktuacja",
       "it": "la fluttuazione",
       "pt": "a flutuação",
       "ja": "変動",
       "zh": "变动",
-      "ru": "колебание"
+      "ru": "колебание",
+      "fr": "fluctuation"
     },
     "examples": [],
     "meta": {
@@ -18435,12 +18434,12 @@ const WORDS_KO_B1 = [
       "en": "unavoidable",
       "de": "unvermeidlich",
       "es": "inevitable",
-      "pl": "nieunikniony",
       "it": "inevitabile",
       "pt": "inevitável",
       "ja": "避けられない",
       "zh": "不可避免的",
-      "ru": "неизбежный"
+      "ru": "неизбежный",
+      "fr": "inévitable"
     },
     "examples": [],
     "meta": {
@@ -18464,12 +18463,12 @@ const WORDS_KO_B1 = [
       "en": "damage",
       "de": "der Schaden",
       "es": "el daño",
-      "pl": "szkoda",
       "it": "il danno",
       "pt": "o prejuízo",
       "ja": "損害",
       "zh": "损失",
-      "ru": "ущерб"
+      "ru": "ущерб",
+      "fr": "dommage"
     },
     "examples": [],
     "meta": {
@@ -18495,12 +18494,12 @@ const WORDS_KO_B1 = [
       "en": "die",
       "de": "sterben",
       "es": "morir",
-      "pl": "umierać",
       "it": "morire",
       "pt": "morrer",
       "ja": "死ぬ",
       "zh": "死亡",
-      "ru": "умирать"
+      "ru": "умирать",
+      "fr": "mourir"
     },
     "examples": [],
     "meta": {
@@ -18527,12 +18526,12 @@ const WORDS_KO_B1 = [
       "en": "pride",
       "de": "der Stolz",
       "es": "el orgullo",
-      "pl": "duma",
       "it": "l'orgoglio",
       "pt": "o orgulho",
       "ja": "自尊心",
       "zh": "自尊心",
-      "ru": "гордость"
+      "ru": "гордость",
+      "fr": "fierté"
     },
     "examples": [],
     "meta": {
@@ -18558,12 +18557,12 @@ const WORDS_KO_B1 = [
       "en": "collapse",
       "de": "zusammenbrechen",
       "es": "colapsar",
-      "pl": "załamać się",
       "it": "crollare",
       "pt": "desabar",
       "ja": "崩れ落ちる",
       "zh": "瘫倒",
-      "ru": "рухнуть"
+      "ru": "рухнуть",
+      "fr": "s'effondrer"
     },
     "examples": [],
     "meta": {
@@ -18590,12 +18589,12 @@ const WORDS_KO_B1 = [
       "en": "securities firm",
       "de": "die Wertpapierfirma",
       "es": "la casa de bolsa",
-      "pl": "firma maklerska",
       "it": "la società di intermediazione mobiliare",
       "pt": "a corretora de valores",
       "ja": "証券会社",
       "zh": "证券公司",
-      "ru": "брокерская фирма"
+      "ru": "брокерская фирма",
+      "fr": "société de bourse"
     },
     "examples": [],
     "meta": {
@@ -18621,12 +18620,12 @@ const WORDS_KO_B1 = [
       "en": "grassland",
       "de": "die Prärie",
       "es": "la pradera",
-      "pl": "step",
       "it": "la prateria",
       "pt": "a pradaria",
       "ja": "草原",
       "zh": "草原",
-      "ru": "степь"
+      "ru": "степь",
+      "fr": "prairie"
     },
     "examples": [],
     "meta": {
@@ -18652,12 +18651,12 @@ const WORDS_KO_B1 = [
       "en": "final",
       "de": "das Finale",
       "es": "el final",
-      "pl": "finał",
       "it": "il finale",
       "pt": "o final",
       "ja": "最終",
       "zh": "最终",
-      "ru": "финал"
+      "ru": "финал",
+      "fr": "final"
     },
     "examples": [],
     "meta": {
@@ -18683,12 +18682,12 @@ const WORDS_KO_B1 = [
       "en": "replace",
       "de": "ersetzen",
       "es": "reemplazar",
-      "pl": "zastępować",
       "it": "sostituire",
       "pt": "substituir",
       "ja": "代わりに〜する",
       "zh": "代替",
-      "ru": "заменять"
+      "ru": "заменять",
+      "fr": "remplacer"
     },
     "examples": [],
     "meta": {
@@ -18715,12 +18714,12 @@ const WORDS_KO_B1 = [
       "en": "fearful",
       "de": "furchtsam",
       "es": "temeroso",
-      "pl": "przerażony",
       "it": "spaventato",
       "pt": "assustado",
       "ja": "恐ろしい",
       "zh": "害怕的",
-      "ru": "боязливый"
+      "ru": "боязливый",
+      "fr": "craintif"
     },
     "examples": [],
     "meta": {
@@ -18744,12 +18743,12 @@ const WORDS_KO_B1 = [
       "en": "appearance",
       "de": "das Erscheinen",
       "es": "la aparición",
-      "pl": "pojawienie się",
       "it": "l'apparizione",
       "pt": "a aparição",
       "ja": "登場",
       "zh": "出现",
-      "ru": "появление"
+      "ru": "появление",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {
@@ -18775,12 +18774,12 @@ const WORDS_KO_B1 = [
       "en": "segment",
       "de": "das Segment",
       "es": "el segmento",
-      "pl": "segment",
       "it": "il segmento",
       "pt": "o segmento",
       "ja": "節",
       "zh": "节",
-      "ru": "сегмент"
+      "ru": "сегмент",
+      "fr": "segment"
     },
     "examples": [],
     "meta": {
@@ -18806,12 +18805,12 @@ const WORDS_KO_B1 = [
       "en": "ratio",
       "de": "das Verhältnis",
       "es": "la proporción",
-      "pl": "proporcja",
       "it": "il rapporto",
       "pt": "a proporção",
       "ja": "比率",
       "zh": "比例",
-      "ru": "соотношение"
+      "ru": "соотношение",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {
@@ -18837,12 +18836,12 @@ const WORDS_KO_B1 = [
       "en": "organism",
       "de": "der Organismus",
       "es": "el organismo",
-      "pl": "organizm",
       "it": "l'organismo",
       "pt": "o organismo",
       "ja": "生物",
       "zh": "生物",
-      "ru": "организм"
+      "ru": "организм",
+      "fr": "organisme"
     },
     "examples": [],
     "meta": {
@@ -18868,12 +18867,12 @@ const WORDS_KO_B1 = [
       "en": "noise",
       "de": "der Lärm",
       "es": "el ruido",
-      "pl": "hałas",
       "it": "il rumore",
       "pt": "o ruído",
       "ja": "騒音",
       "zh": "噪音",
-      "ru": "шум"
+      "ru": "шум",
+      "fr": "bruit"
     },
     "examples": [],
     "meta": {
@@ -18899,12 +18898,12 @@ const WORDS_KO_B1 = [
       "en": "both countries",
       "de": "beide Länder",
       "es": "ambos países",
-      "pl": "oba kraje",
       "it": "entrambi i paesi",
       "pt": "ambos os países",
       "ja": "両国",
       "zh": "两国",
-      "ru": "обе страны"
+      "ru": "обе страны",
+      "fr": "les deux pays"
     },
     "examples": [],
     "meta": {
@@ -18930,12 +18929,12 @@ const WORDS_KO_B1 = [
       "en": "central part",
       "de": "der mittlere Teil",
       "es": "la parte central",
-      "pl": "część środkowa",
       "it": "la parte centrale",
       "pt": "a parte central",
       "ja": "中部",
       "zh": "中部",
-      "ru": "центральная часть"
+      "ru": "центральная часть",
+      "fr": "partie centrale"
     },
     "examples": [],
     "meta": {
@@ -18961,12 +18960,12 @@ const WORDS_KO_B1 = [
       "en": "saliva",
       "de": "der Speichel",
       "es": "la saliva",
-      "pl": "ślina",
       "it": "la saliva",
       "pt": "a saliva",
       "ja": "唾液",
       "zh": "唾液",
-      "ru": "слюна"
+      "ru": "слюна",
+      "fr": "salive"
     },
     "examples": [],
     "meta": {
@@ -18992,12 +18991,12 @@ const WORDS_KO_B1 = [
       "en": "protest",
       "de": "der Protest",
       "es": "la protesta",
-      "pl": "protest",
       "it": "la protesta",
       "pt": "o protesto",
       "ja": "抗議",
       "zh": "抗议",
-      "ru": "протест"
+      "ru": "протест",
+      "fr": "protestation"
     },
     "examples": [],
     "meta": {
@@ -19023,12 +19022,12 @@ const WORDS_KO_B1 = [
       "en": "relevance",
       "de": "die Relevanz",
       "es": "la relevancia",
-      "pl": "trafność",
       "it": "la pertinenza",
       "pt": "a relevância",
       "ja": "該当",
       "zh": "相关",
-      "ru": "соответствие"
+      "ru": "соответствие",
+      "fr": "pertinence"
     },
     "examples": [],
     "meta": {
@@ -19054,12 +19053,12 @@ const WORDS_KO_B1 = [
       "en": "securing",
       "de": "die Sicherung",
       "es": "la garantía",
-      "pl": "zabezpieczenie",
       "it": "l'assicurazione",
       "pt": "a garantia",
       "ja": "確保",
       "zh": "确保",
-      "ru": "обеспечение"
+      "ru": "обеспечение",
+      "fr": "sécurisation"
     },
     "examples": [],
     "meta": {
@@ -19085,12 +19084,12 @@ const WORDS_KO_B1 = [
       "en": "environmental pollution",
       "de": "die Umweltverschmutzung",
       "es": "la contaminación ambiental",
-      "pl": "zanieczyszczenie środowiska",
       "it": "l'inquinamento ambientale",
       "pt": "a poluição ambiental",
       "ja": "環境汚染",
       "zh": "环境污染",
-      "ru": "загрязнение окружающей среды"
+      "ru": "загрязнение окружающей среды",
+      "fr": "pollution environnementale"
     },
     "examples": [],
     "meta": {
@@ -19116,12 +19115,12 @@ const WORDS_KO_B1 = [
       "en": "values",
       "de": "die Werte",
       "es": "los valores",
-      "pl": "wartości",
       "it": "i valori",
       "pt": "os valores",
       "ja": "価値観",
       "zh": "价值观",
-      "ru": "ценности"
+      "ru": "ценности",
+      "fr": "valeurs"
     },
     "examples": [],
     "meta": {
@@ -19147,12 +19146,12 @@ const WORDS_KO_B1 = [
       "en": "BC",
       "de": "BC",
       "es": "AC",
-      "pl": "p.n.e.",
       "it": "a.C.",
       "pt": "a.C.",
       "ja": "紀元前",
       "zh": "公元前",
-      "ru": "до н.э."
+      "ru": "до н.э.",
+      "fr": "av. J.-C."
     },
     "examples": [],
     "meta": {
@@ -19178,12 +19177,12 @@ const WORDS_KO_B1 = [
       "en": "emergency",
       "de": "der Notfall",
       "es": "la emergencia",
-      "pl": "nagły wypadek",
       "it": "l'emergenza",
       "pt": "a emergência",
       "ja": "緊急",
       "zh": "紧急",
-      "ru": "чрезвычайная ситуация"
+      "ru": "чрезвычайная ситуация",
+      "fr": "urgence"
     },
     "examples": [],
     "meta": {
@@ -19209,12 +19208,12 @@ const WORDS_KO_B1 = [
       "en": "to break",
       "de": "brechen",
       "es": "romper",
-      "pl": "złamać",
       "it": "spezzare",
       "pt": "quebrar",
       "ja": "折る",
       "zh": "折断",
-      "ru": "ломать"
+      "ru": "ломать",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {
@@ -19242,12 +19241,12 @@ const WORDS_KO_B1 = [
       "en": "be buried",
       "de": "sich begraben lassen",
       "es": "ser enterrado",
-      "pl": "być pogrzebanym",
       "it": "essere sepolto",
       "pt": "ser enterrado",
       "ja": "埋もれる",
       "zh": "被埋没",
-      "ru": "быть похороненным"
+      "ru": "быть похороненным",
+      "fr": "être enterré"
     },
     "examples": [],
     "meta": {
@@ -19274,12 +19273,12 @@ const WORDS_KO_B1 = [
       "en": "actual condition",
       "de": "der Istzustand",
       "es": "la situación real",
-      "pl": "rzeczywisty stan",
       "it": "la situazione reale",
       "pt": "a situação real",
       "ja": "実態",
       "zh": "实况",
-      "ru": "реальное положение"
+      "ru": "реальное положение",
+      "fr": "état réel"
     },
     "examples": [],
     "meta": {
@@ -19305,12 +19304,12 @@ const WORDS_KO_B1 = [
       "en": "regrettable",
       "de": "bedauerlich",
       "es": "lamentable",
-      "pl": "żałosny",
       "it": "spiacevole",
       "pt": "lamentável",
       "ja": "残念だ",
       "zh": "可惜",
-      "ru": "прискорбный"
+      "ru": "прискорбный",
+      "fr": "regrettable"
     },
     "examples": [],
     "meta": {
@@ -19334,12 +19333,12 @@ const WORDS_KO_B1 = [
       "en": "affection",
       "de": "die Zuneigung",
       "es": "el afecto",
-      "pl": "uczucie",
       "it": "l'affetto",
       "pt": "o afeto",
       "ja": "愛情",
       "zh": "爱情",
-      "ru": "привязанность"
+      "ru": "привязанность",
+      "fr": "affection"
     },
     "examples": [],
     "meta": {
@@ -19365,12 +19364,12 @@ const WORDS_KO_B1 = [
       "en": "genre",
       "de": "das Genre",
       "es": "el género",
-      "pl": "gatunek",
       "it": "il genere",
       "pt": "o gênero",
       "ja": "ジャンル",
       "zh": "体裁",
-      "ru": "жанр"
+      "ru": "жанр",
+      "fr": "genre"
     },
     "examples": [],
     "meta": {
@@ -19396,12 +19395,12 @@ const WORDS_KO_B1 = [
       "en": "encounter",
       "de": "begegnen",
       "es": "encontrarse con",
-      "pl": "spotkać się z",
       "it": "incontrare",
       "pt": "encontrar",
       "ja": "接する",
       "zh": "接触",
-      "ru": "столкнуться"
+      "ru": "столкнуться",
+      "fr": "rencontrer"
     },
     "examples": [],
     "meta": {
@@ -19428,12 +19427,12 @@ const WORDS_KO_B1 = [
       "en": "sincerity",
       "de": "die Aufrichtigkeit",
       "es": "la sinceridad",
-      "pl": "szczerość",
       "it": "la sincerità",
       "pt": "a sinceridade",
       "ja": "誠意",
       "zh": "诚意",
-      "ru": "искренность"
+      "ru": "искренность",
+      "fr": "sincérité"
     },
     "examples": [],
     "meta": {
@@ -19459,12 +19458,12 @@ const WORDS_KO_B1 = [
       "en": "restriction",
       "de": "die Einschränkung",
       "es": "la restricción",
-      "pl": "ograniczenie",
       "it": "la restrizione",
       "pt": "a restrição",
       "ja": "制約",
       "zh": "限制",
-      "ru": "ограничение"
+      "ru": "ограничение",
+      "fr": "restriction"
     },
     "examples": [],
     "meta": {
@@ -19490,12 +19489,12 @@ const WORDS_KO_B1 = [
       "en": "chase",
       "de": "jagen",
       "es": "perseguir",
-      "pl": "ścigać",
       "it": "inseguire",
       "pt": "perseguir",
       "ja": "追う",
       "zh": "追赶",
-      "ru": "преследовать"
+      "ru": "преследовать",
+      "fr": "poursuivre"
     },
     "examples": [],
     "meta": {
@@ -19522,12 +19521,12 @@ const WORDS_KO_B1 = [
       "en": "addition",
       "de": "die Ergänzung",
       "es": "la adición",
-      "pl": "dodatek",
       "it": "l'aggiunta",
       "pt": "a adição",
       "ja": "追加",
       "zh": "增加",
-      "ru": "дополнение"
+      "ru": "дополнение",
+      "fr": "addition"
     },
     "examples": [],
     "meta": {
@@ -19553,12 +19552,12 @@ const WORDS_KO_B1 = [
       "en": "bosom",
       "de": "die Brust",
       "es": "el seno",
-      "pl": "łono",
       "it": "il grembo",
       "pt": "o seio",
       "ja": "ふところ",
       "zh": "怀抱",
-      "ru": "грудь"
+      "ru": "грудь",
+      "fr": "sein"
     },
     "examples": [],
     "meta": {
@@ -19584,12 +19583,12 @@ const WORDS_KO_B1 = [
       "en": "be confirmed",
       "de": "bestätigt werden",
       "es": "ser confirmado",
-      "pl": "zostać potwierdzonym",
       "it": "essere confermato",
       "pt": "ser confirmado",
       "ja": "確認される",
       "zh": "被确认",
-      "ru": "быть подтвержденным"
+      "ru": "быть подтвержденным",
+      "fr": "être confirmé"
     },
     "examples": [],
     "meta": {
@@ -19616,12 +19615,12 @@ const WORDS_KO_B1 = [
       "en": "apply",
       "de": "anwenden",
       "es": "aplicar",
-      "pl": "stosować",
       "it": "applicare",
       "pt": "aplicar",
       "ja": "加える",
       "zh": "施加",
-      "ru": "применять"
+      "ru": "применять",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {
@@ -19648,12 +19647,12 @@ const WORDS_KO_B1 = [
       "en": "lecture",
       "de": "der Vortrag",
       "es": "la conferencia",
-      "pl": "wykład",
       "it": "la lezione",
       "pt": "a palestra",
       "ja": "講義",
       "zh": "讲座",
-      "ru": "лекция"
+      "ru": "лекция",
+      "fr": "conférence"
     },
     "examples": [],
     "meta": {
@@ -19679,12 +19678,12 @@ const WORDS_KO_B1 = [
       "en": "pierce",
       "de": "durchbohren",
       "es": "perforar",
-      "pl": "przebić",
       "it": "perforare",
       "pt": "perfurar",
       "ja": "貫通する",
       "zh": "穿透",
-      "ru": "пробить"
+      "ru": "пробить",
+      "fr": "percer"
     },
     "examples": [],
     "meta": {
@@ -19711,12 +19710,12 @@ const WORDS_KO_B1 = [
       "en": "turn away",
       "de": "abwenden",
       "es": "ignorar",
-      "pl": "odwrócić się",
       "it": "ignorare",
       "pt": "ignorar",
       "ja": "そむける",
       "zh": "回避",
-      "ru": "отвернуться"
+      "ru": "отвернуться",
+      "fr": "se détourner"
     },
     "examples": [],
     "meta": {
@@ -19743,12 +19742,12 @@ const WORDS_KO_B1 = [
       "en": "manuscript",
       "de": "das Manuskript",
       "es": "el manuscrito",
-      "pl": "rękopis",
       "it": "il manoscritto",
       "pt": "o manuscrito",
       "ja": "原稿",
       "zh": "稿件",
-      "ru": "рукопись"
+      "ru": "рукопись",
+      "fr": "manuscrit"
     },
     "examples": [],
     "meta": {
@@ -19774,12 +19773,12 @@ const WORDS_KO_B1 = [
       "en": "expenditure",
       "de": "die Ausgabe",
       "es": "el gasto",
-      "pl": "wydatek",
       "it": "la spesa",
       "pt": "a despesa",
       "ja": "支出",
       "zh": "支出",
-      "ru": "расход"
+      "ru": "расход",
+      "fr": "dépense"
     },
     "examples": [],
     "meta": {
@@ -19805,12 +19804,12 @@ const WORDS_KO_B1 = [
       "en": "fragrance",
       "de": "der Duft",
       "es": "la fragancia",
-      "pl": "zapach",
       "it": "la fragranza",
       "pt": "a fragrância",
       "ja": "香り",
       "zh": "香味",
-      "ru": "аромат"
+      "ru": "аромат",
+      "fr": "parfum"
     },
     "examples": [],
     "meta": {
@@ -19836,12 +19835,12 @@ const WORDS_KO_B1 = [
       "en": "improve",
       "de": "verbessern",
       "es": "mejorar",
-      "pl": "ulepszyć",
       "it": "migliorare",
       "pt": "melhorar",
       "ja": "改善する",
       "zh": "改善",
-      "ru": "улучшать"
+      "ru": "улучшать",
+      "fr": "améliorer"
     },
     "examples": [],
     "meta": {
@@ -19868,12 +19867,12 @@ const WORDS_KO_B1 = [
       "en": "account",
       "de": "das Konto",
       "es": "la cuenta",
-      "pl": "konto",
       "it": "il conto",
       "pt": "a conta",
       "ja": "口座",
       "zh": "账户",
-      "ru": "счет"
+      "ru": "счет",
+      "fr": "compte"
     },
     "examples": [],
     "meta": {
@@ -19899,12 +19898,12 @@ const WORDS_KO_B1 = [
       "en": "province",
       "de": "die Provinz",
       "es": "la provincia",
-      "pl": "prowincja",
       "it": "la provincia",
       "pt": "a província",
       "ja": "道",
       "zh": "道",
-      "ru": "провинция"
+      "ru": "провинция",
+      "fr": "province"
     },
     "examples": [],
     "meta": {
@@ -19931,12 +19930,12 @@ const WORDS_KO_B1 = [
       "en": "final stage",
       "de": "die Endphase",
       "es": "la etapa final",
-      "pl": "faza końcowa",
       "it": "la fase finale",
       "pt": "a fase final",
       "ja": "末期",
       "zh": "末期",
-      "ru": "последняя стадия"
+      "ru": "последняя стадия",
+      "fr": "étape finale"
     },
     "examples": [],
     "meta": {
@@ -19962,12 +19961,12 @@ const WORDS_KO_B1 = [
       "en": "fail",
       "de": "scheitern",
       "es": "fracasar",
-      "pl": "ponieść klęskę",
       "it": "fallire",
       "pt": "falhar",
       "ja": "破産する",
       "zh": "破产",
-      "ru": "разориться"
+      "ru": "разориться",
+      "fr": "échouer"
     },
     "examples": [],
     "meta": {
@@ -19995,12 +19994,12 @@ const WORDS_KO_B1 = [
       "en": "document",
       "de": "das Dokument",
       "es": "el documento",
-      "pl": "dokument",
       "it": "il documento",
       "pt": "o documento",
       "ja": "文書",
       "zh": "文件",
-      "ru": "документ"
+      "ru": "документ",
+      "fr": "document"
     },
     "examples": [],
     "meta": {
@@ -20027,12 +20026,12 @@ const WORDS_KO_B1 = [
       "en": "be established",
       "de": "etabliert werden",
       "es": "ser establecido",
-      "pl": "zostać ustanowionym",
       "it": "essere stabilito",
       "pt": "ser estabelecido",
       "ja": "成立する",
       "zh": "成立",
-      "ru": "быть установленным"
+      "ru": "быть установленным",
+      "fr": "être établi"
     },
     "examples": [],
     "meta": {
@@ -20059,12 +20058,12 @@ const WORDS_KO_B1 = [
       "en": "practice",
       "de": "die Übung",
       "es": "la práctica",
-      "pl": "praktyka",
       "it": "la pratica",
       "pt": "a prática",
       "ja": "実習",
       "zh": "实习",
-      "ru": "практика"
+      "ru": "практика",
+      "fr": "pratique"
     },
     "examples": [],
     "meta": {
@@ -20090,12 +20089,12 @@ const WORDS_KO_B1 = [
       "en": "autonomy",
       "de": "die Autonomie",
       "es": "la autonomía",
-      "pl": "autonomia",
       "it": "l'autonomia",
       "pt": "a autonomia",
       "ja": "自律",
       "zh": "自主",
-      "ru": "автономия"
+      "ru": "автономия",
+      "fr": "autonomie"
     },
     "examples": [],
     "meta": {
@@ -20121,12 +20120,12 @@ const WORDS_KO_B1 = [
       "en": "to be concentrated",
       "de": "sich konzentrieren",
       "es": "concentrarse",
-      "pl": "skupić się",
       "it": "concentrarsi",
       "pt": "concentrar-se",
       "ja": "集中する",
       "zh": "集中",
-      "ru": "сосредоточиться"
+      "ru": "сосредоточиться",
+      "fr": "être concentré"
     },
     "examples": [],
     "meta": {
@@ -20153,12 +20152,12 @@ const WORDS_KO_B1 = [
       "en": "creative",
       "de": "kreativ",
       "es": "creativo",
-      "pl": "kreatywny",
       "it": "creativo",
       "pt": "criativo",
       "ja": "創造的",
       "zh": "创造性的",
-      "ru": "творческий"
+      "ru": "творческий",
+      "fr": "créatif"
     },
     "examples": [],
     "meta": {
@@ -20182,12 +20181,12 @@ const WORDS_KO_B1 = [
       "en": "ceiling",
       "de": "die Decke",
       "es": "el techo",
-      "pl": "sufit",
       "it": "il soffitto",
       "pt": "o teto",
       "ja": "天井",
       "zh": "天花板",
-      "ru": "потолок"
+      "ru": "потолок",
+      "fr": "plafond"
     },
     "examples": [],
     "meta": {
@@ -20213,12 +20212,12 @@ const WORDS_KO_B1 = [
       "en": "to dig",
       "de": "graben",
       "es": "cavar",
-      "pl": "kopać",
       "it": "scavare",
       "pt": "cavar",
       "ja": "掘る",
       "zh": "挖",
-      "ru": "копать"
+      "ru": "копать",
+      "fr": "creuser"
     },
     "examples": [],
     "meta": {
@@ -20245,12 +20244,12 @@ const WORDS_KO_B1 = [
       "en": "to be solved",
       "de": "gelöst werden",
       "es": "resolverse",
-      "pl": "zostać rozwiązany",
       "it": "essere risolto",
       "pt": "ser resolvido",
       "ja": "解決される",
       "zh": "得到解决",
-      "ru": "быть решенным"
+      "ru": "быть решенным",
+      "fr": "être résolu"
     },
     "examples": [],
     "meta": {
@@ -20277,12 +20276,12 @@ const WORDS_KO_B1 = [
       "en": "improvement",
       "de": "die Verbesserung",
       "es": "la mejora",
-      "pl": "poprawa",
       "it": "il miglioramento",
       "pt": "a melhoria",
       "ja": "向上",
       "zh": "提高",
-      "ru": "улучшение"
+      "ru": "улучшение",
+      "fr": "amélioration"
     },
     "examples": [],
     "meta": {
@@ -20308,12 +20307,12 @@ const WORDS_KO_B1 = [
       "en": "to sink",
       "de": "sinken",
       "es": "hundirse",
-      "pl": "tonąć",
       "it": "affondare",
       "pt": "afundar",
       "ja": "沈む",
       "zh": "下沉",
-      "ru": "тонуть"
+      "ru": "тонуть",
+      "fr": "couler"
     },
     "examples": [],
     "meta": {
@@ -20340,12 +20339,12 @@ const WORDS_KO_B1 = [
       "en": "to wrap",
       "de": "umhüllen",
       "es": "envolver",
-      "pl": "owijać",
       "it": "avvolgere",
       "pt": "envolver",
       "ja": "包む",
       "zh": "包裹",
-      "ru": "обертывать"
+      "ru": "обертывать",
+      "fr": "envelopper"
     },
     "examples": [],
     "meta": {
@@ -20372,12 +20371,12 @@ const WORDS_KO_B1 = [
       "en": "to spread",
       "de": "ausbreiten",
       "es": "extender",
-      "pl": "rozłożyć",
       "it": "stendere",
       "pt": "estender",
       "ja": "敷く",
       "zh": "铺",
-      "ru": "расстилать"
+      "ru": "расстилать",
+      "fr": "étendre"
     },
     "examples": [],
     "meta": {
@@ -20404,12 +20403,12 @@ const WORDS_KO_B1 = [
       "en": "to resolve",
       "de": "sich vornehmen",
       "es": "decidirse",
-      "pl": "postanowić",
       "it": "decidere",
       "pt": "decidir",
       "ja": "決意する",
       "zh": "下定决心",
-      "ru": "решить"
+      "ru": "решить",
+      "fr": "résoudre"
     },
     "examples": [],
     "meta": {
@@ -20436,12 +20435,12 @@ const WORDS_KO_B1 = [
       "en": "waiting room",
       "de": "der Warteraum",
       "es": "la sala de espera",
-      "pl": "poczekalnia",
       "it": "la sala d'attesa",
       "pt": "a sala de espera",
       "ja": "待合室",
       "zh": "候车室",
-      "ru": "зал ожидания"
+      "ru": "зал ожидания",
+      "fr": "salle d'attente"
     },
     "examples": [],
     "meta": {
@@ -20467,12 +20466,12 @@ const WORDS_KO_B1 = [
       "en": "store",
       "de": "das Geschäft",
       "es": "la tienda",
-      "pl": "sklep",
       "it": "il negozio",
       "pt": "a loja",
       "ja": "店",
       "zh": "商店",
-      "ru": "магазин"
+      "ru": "магазин",
+      "fr": "magasin"
     },
     "examples": [],
     "meta": {
@@ -20498,12 +20497,12 @@ const WORDS_KO_B1 = [
       "en": "name",
       "de": "der Name",
       "es": "el nombre",
-      "pl": "nazwa",
       "it": "il nome",
       "pt": "o nome",
       "ja": "名称",
       "zh": "名称",
-      "ru": "название"
+      "ru": "название",
+      "fr": "nom"
     },
     "examples": [],
     "meta": {
@@ -20529,12 +20528,12 @@ const WORDS_KO_B1 = [
       "en": "commerce",
       "de": "der Handel",
       "es": "el comercio",
-      "pl": "handel",
       "it": "il commercio",
       "pt": "o comércio",
       "ja": "商業",
       "zh": "商业",
-      "ru": "торговля"
+      "ru": "торговля",
+      "fr": "commerce"
     },
     "examples": [],
     "meta": {
@@ -20560,12 +20559,12 @@ const WORDS_KO_B1 = [
       "en": "to be produced",
       "de": "produziert werden",
       "es": "ser producido",
-      "pl": "być produkowanym",
       "it": "essere prodotto",
       "pt": "ser produzido",
       "ja": "生産される",
       "zh": "被生产",
-      "ru": "производиться"
+      "ru": "производиться",
+      "fr": "être produit"
     },
     "examples": [],
     "meta": {
@@ -20592,12 +20591,12 @@ const WORDS_KO_B1 = [
       "en": "to hide",
       "de": "verstecken",
       "es": "esconder",
-      "pl": "ukrywać",
       "it": "nascondere",
       "pt": "esconder",
       "ja": "隠す",
       "zh": "隐藏",
-      "ru": "прятать"
+      "ru": "прятать",
+      "fr": "cacher"
     },
     "examples": [],
     "meta": {
@@ -20624,12 +20623,12 @@ const WORDS_KO_B1 = [
       "en": "buttocks",
       "de": "der Hintern",
       "es": "el trasero",
-      "pl": "pośladek",
       "it": "il sedere",
       "pt": "a nádega",
       "ja": "お尻",
       "zh": "臀部",
-      "ru": "ягодицы"
+      "ru": "ягодицы",
+      "fr": "fesses"
     },
     "examples": [],
     "meta": {
@@ -20655,12 +20654,12 @@ const WORDS_KO_B1 = [
       "en": "this month",
       "de": "dieser Monat",
       "es": "este mes",
-      "pl": "ten miesiąc",
       "it": "questo mese",
       "pt": "este mês",
       "ja": "今月",
       "zh": "本月",
-      "ru": "этот месяц"
+      "ru": "этот месяц",
+      "fr": "ce mois-ci"
     },
     "examples": [],
     "meta": {
@@ -20686,12 +20685,12 @@ const WORDS_KO_B1 = [
       "en": "human body",
       "de": "der menschliche Körper",
       "es": "el cuerpo humano",
-      "pl": "ciało ludzkie",
       "it": "il corpo umano",
       "pt": "o corpo humano",
       "ja": "人体",
       "zh": "人体",
-      "ru": "человеческое тело"
+      "ru": "человеческое тело",
+      "fr": "corps humain"
     },
     "examples": [],
     "meta": {
@@ -20717,12 +20716,12 @@ const WORDS_KO_B1 = [
       "en": "jeogori",
       "de": "das Jeogori",
       "es": "el jeogori",
-      "pl": "jeogori",
       "it": "il jeogori",
       "pt": "o jeogori",
       "ja": "チョゴリ",
       "zh": "赤古里",
-      "ru": "чхогори"
+      "ru": "чхогори",
+      "fr": "jeogori"
     },
     "examples": [],
     "meta": {
@@ -20748,12 +20747,12 @@ const WORDS_KO_B1 = [
       "en": "diagnosis",
       "de": "die Diagnose",
       "es": "el diagnóstico",
-      "pl": "diagnoza",
       "it": "la diagnosi",
       "pt": "o diagnóstico",
       "ja": "診断",
       "zh": "诊断",
-      "ru": "диагноз"
+      "ru": "диагноз",
+      "fr": "diagnostic"
     },
     "examples": [],
     "meta": {
@@ -20779,12 +20778,12 @@ const WORDS_KO_B1 = [
       "en": "disease",
       "de": "die Krankheit",
       "es": "la enfermedad",
-      "pl": "choroba",
       "it": "la malattia",
       "pt": "a doença",
       "ja": "病気",
       "zh": "疾病",
-      "ru": "болезнь"
+      "ru": "болезнь",
+      "fr": "maladie"
     },
     "examples": [],
     "meta": {
@@ -20810,12 +20809,12 @@ const WORDS_KO_B1 = [
       "en": "to weave",
       "de": "weben",
       "es": "tejer",
-      "pl": "pleść",
       "it": "tessere",
       "pt": "tecer",
       "ja": "編む",
       "zh": "编织",
-      "ru": "ткать"
+      "ru": "ткать",
+      "fr": "tisser"
     },
     "examples": [],
     "meta": {
@@ -20842,12 +20841,12 @@ const WORDS_KO_B1 = [
       "en": "stamina",
       "de": "die körperliche Kraft",
       "es": "la resistencia física",
-      "pl": "wytrzymałość fizyczna",
       "it": "la resistenza fisica",
       "pt": "a resistência física",
       "ja": "体力",
       "zh": "体力",
-      "ru": "выносливость"
+      "ru": "выносливость",
+      "fr": "endurance"
     },
     "examples": [],
     "meta": {
@@ -20873,12 +20872,12 @@ const WORDS_KO_B1 = [
       "en": "to count",
       "de": "zählen",
       "es": "contar",
-      "pl": "liczyć",
       "it": "contare",
       "pt": "contar",
       "ja": "数える",
       "zh": "计算",
-      "ru": "считать"
+      "ru": "считать",
+      "fr": "compter"
     },
     "examples": [],
     "meta": {
@@ -20905,12 +20904,12 @@ const WORDS_KO_B1 = [
       "en": "observation",
       "de": "die Beobachtung",
       "es": "la observación",
-      "pl": "obserwacja",
       "it": "l'osservazione",
       "pt": "a observação",
       "ja": "観察",
       "zh": "观察",
-      "ru": "наблюдение"
+      "ru": "наблюдение",
+      "fr": "observation"
     },
     "examples": [],
     "meta": {
@@ -20936,12 +20935,12 @@ const WORDS_KO_B1 = [
       "en": "ghost",
       "de": "der Geist",
       "es": "el fantasma",
-      "pl": "duch",
       "it": "il fantasma",
       "pt": "o fantasma",
       "ja": "幽霊",
       "zh": "鬼魂",
-      "ru": "призрак"
+      "ru": "призрак",
+      "fr": "fantôme"
     },
     "examples": [],
     "meta": {
@@ -20967,12 +20966,12 @@ const WORDS_KO_B1 = [
       "en": "precious",
       "de": "wertvoll",
       "es": "valioso",
-      "pl": "cenny",
       "it": "prezioso",
       "pt": "precioso",
       "ja": "貴重な",
       "zh": "珍贵的",
-      "ru": "ценный"
+      "ru": "ценный",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {
@@ -20996,12 +20995,12 @@ const WORDS_KO_B1 = [
       "en": "base",
       "de": "basieren",
       "es": "basarse",
-      "pl": "opierać się",
       "it": "basarsi",
       "pt": "basear-se",
       "ja": "基づく",
       "zh": "基于",
-      "ru": "основываться"
+      "ru": "основываться",
+      "fr": "baser"
     },
     "examples": [],
     "meta": {
@@ -21028,12 +21027,12 @@ const WORDS_KO_B1 = [
       "en": "price",
       "de": "der Preis",
       "es": "el precio",
-      "pl": "cena",
       "it": "il prezzo",
       "pt": "o preço",
       "ja": "代価",
       "zh": "代价",
-      "ru": "цена"
+      "ru": "цена",
+      "fr": "prix"
     },
     "examples": [],
     "meta": {
@@ -21059,12 +21058,12 @@ const WORDS_KO_B1 = [
       "en": "regain",
       "de": "wiedererlangen",
       "es": "recuperar",
-      "pl": "odzyskać",
       "it": "recuperare",
       "pt": "recuperar",
       "ja": "取り戻す",
       "zh": "找回",
-      "ru": "вернуть"
+      "ru": "вернуть",
+      "fr": "regagner"
     },
     "examples": [],
     "meta": {
@@ -21092,12 +21091,12 @@ const WORDS_KO_B1 = [
       "en": "stop",
       "de": "aufhalten",
       "es": "detener",
-      "pl": "powstrzymać",
       "it": "fermare",
       "pt": "impedir",
       "ja": "止める",
       "zh": "阻止",
-      "ru": "остановить"
+      "ru": "остановить",
+      "fr": "arrêter"
     },
     "examples": [],
     "meta": {
@@ -21124,12 +21123,12 @@ const WORDS_KO_B1 = [
       "en": "grave",
       "de": "das Grab",
       "es": "la tumba",
-      "pl": "grób",
       "it": "la tomba",
       "pt": "o túmulo",
       "ja": "墓",
       "zh": "坟墓",
-      "ru": "могила"
+      "ru": "могила",
+      "fr": "tombe"
     },
     "examples": [],
     "meta": {
@@ -21155,12 +21154,12 @@ const WORDS_KO_B1 = [
       "en": "wave",
       "de": "die Welle",
       "es": "la ola",
-      "pl": "fala",
       "it": "l'onda",
       "pt": "a onda",
       "ja": "波",
       "zh": "波浪",
-      "ru": "волна"
+      "ru": "волна",
+      "fr": "vague"
     },
     "examples": [],
     "meta": {
@@ -21186,12 +21185,12 @@ const WORDS_KO_B1 = [
       "en": "dining table",
       "de": "der Esstisch",
       "es": "la mesa de comedor",
-      "pl": "stół jadalny",
       "it": "il tavolo da pranzo",
       "pt": "a mesa de jantar",
       "ja": "食卓",
       "zh": "餐桌",
-      "ru": "обеденный стол"
+      "ru": "обеденный стол",
+      "fr": "table à manger"
     },
     "examples": [],
     "meta": {
@@ -21217,12 +21216,12 @@ const WORDS_KO_B1 = [
       "en": "guarantee",
       "de": "garantieren",
       "es": "garantizar",
-      "pl": "gwarantować",
       "it": "garantire",
       "pt": "garantir",
       "ja": "保証する",
       "zh": "保证",
-      "ru": "гарантировать"
+      "ru": "гарантировать",
+      "fr": "garantir"
     },
     "examples": [],
     "meta": {
@@ -21250,12 +21249,12 @@ const WORDS_KO_B1 = [
       "en": "befriend",
       "de": "sich anfreunden",
       "es": "hacerse amigo",
-      "pl": "zapoznać się",
       "it": "fare amicizia",
       "pt": "fazer amizade",
       "ja": "付き合う",
       "zh": "交朋友",
-      "ru": "подружиться"
+      "ru": "подружиться",
+      "fr": "se lier d'amitié"
     },
     "examples": [],
     "meta": {
@@ -21282,12 +21281,12 @@ const WORDS_KO_B1 = [
       "en": "soar",
       "de": "emporragen",
       "es": "elevarse",
-      "pl": "wznosić się",
       "it": "ergersi",
       "pt": "erguer-se",
       "ja": "そびえ立つ",
       "zh": "耸立",
-      "ru": "возвышаться"
+      "ru": "возвышаться",
+      "fr": "s'envoler"
     },
     "examples": [],
     "meta": {
@@ -21314,12 +21313,12 @@ const WORDS_KO_B1 = [
       "en": "expect",
       "de": "erwarten",
       "es": "esperar",
-      "pl": "oczekiwać",
       "it": "aspettarsi",
       "pt": "esperar",
       "ja": "予想する",
       "zh": "预期",
-      "ru": "ожидать"
+      "ru": "ожидать",
+      "fr": "attendre"
     },
     "examples": [],
     "meta": {
@@ -21346,12 +21345,12 @@ const WORDS_KO_B1 = [
       "en": "exception",
       "de": "die Ausnahme",
       "es": "la excepción",
-      "pl": "wyjątek",
       "it": "l'eccezione",
       "pt": "a exceção",
       "ja": "例外",
       "zh": "例外",
-      "ru": "исключение"
+      "ru": "исключение",
+      "fr": "exception"
     },
     "examples": [],
     "meta": {
@@ -21377,12 +21376,12 @@ const WORDS_KO_B1 = [
       "en": "completeness",
       "de": "die Vollständigkeit",
       "es": "la completitud",
-      "pl": "kompletność",
       "it": "la completezza",
       "pt": "a completude",
       "ja": "完全",
       "zh": "完整",
-      "ru": "полнота"
+      "ru": "полнота",
+      "fr": "complétude"
     },
     "examples": [],
     "meta": {
@@ -21408,12 +21407,12 @@ const WORDS_KO_B1 = [
       "en": "absolute",
       "de": "absolut",
       "es": "absoluto",
-      "pl": "absolutny",
       "it": "assoluto",
       "pt": "absoluto",
       "ja": "絶対的な",
       "zh": "绝对的",
-      "ru": "абсолютный"
+      "ru": "абсолютный",
+      "fr": "absolu"
     },
     "examples": [],
     "meta": {
@@ -21437,12 +21436,12 @@ const WORDS_KO_B1 = [
       "en": "produce",
       "de": "herstellen",
       "es": "producir",
-      "pl": "produkować",
       "it": "produrre",
       "pt": "produzir",
       "ja": "制作する",
       "zh": "制作",
-      "ru": "производить"
+      "ru": "производить",
+      "fr": "produire"
     },
     "examples": [],
     "meta": {
@@ -21469,12 +21468,12 @@ const WORDS_KO_B1 = [
       "en": "maximum",
       "de": "das Maximum",
       "es": "el máximo",
-      "pl": "maksimum",
       "it": "il massimo",
       "pt": "o máximo",
       "ja": "最大",
       "zh": "最大",
-      "ru": "максимум"
+      "ru": "максимум",
+      "fr": "maximum"
     },
     "examples": [],
     "meta": {
@@ -21500,12 +21499,12 @@ const WORDS_KO_B1 = [
       "en": "embrace",
       "de": "umarmen",
       "es": "abrazar",
-      "pl": "objąć",
       "it": "abbracciare",
       "pt": "abraçar",
       "ja": "抱く",
       "zh": "怀抱",
-      "ru": "обнимать"
+      "ru": "обнимать",
+      "fr": "embrasser"
     },
     "examples": [],
     "meta": {
@@ -21532,12 +21531,12 @@ const WORDS_KO_B1 = [
       "en": "rest",
       "de": "die Ruhe",
       "es": "el descanso",
-      "pl": "odpoczynek",
       "it": "il riposo",
       "pt": "o descanso",
       "ja": "休息",
       "zh": "休息",
-      "ru": "отдых"
+      "ru": "отдых",
+      "fr": "repos"
     },
     "examples": [],
     "meta": {
@@ -21563,12 +21562,12 @@ const WORDS_KO_B1 = [
       "en": "firm",
       "de": "fest",
       "es": "firme",
-      "pl": "twardy",
       "it": "solido",
       "pt": "firme",
       "ja": "固い",
       "zh": "坚固的",
-      "ru": "твердый"
+      "ru": "твердый",
+      "fr": "ferme"
     },
     "examples": [],
     "meta": {
@@ -21592,12 +21591,12 @@ const WORDS_KO_B1 = [
       "en": "harden",
       "de": "erhärten",
       "es": "endurecerse",
-      "pl": "stwardnieć",
       "it": "indurirsi",
       "pt": "endurecer",
       "ja": "固まる",
       "zh": "变硬",
-      "ru": "затвердевать"
+      "ru": "затвердевать",
+      "fr": "durcir"
     },
     "examples": [],
     "meta": {
@@ -21624,12 +21623,12 @@ const WORDS_KO_B1 = [
       "en": "starve",
       "de": "hungern",
       "es": "pasar hambre",
-      "pl": "głodować",
       "it": "soffrire la fame",
       "pt": "passar fome",
       "ja": "飢える",
       "zh": "挨饿",
-      "ru": "голодать"
+      "ru": "голодать",
+      "fr": "mourir de faim"
     },
     "examples": [],
     "meta": {
@@ -21656,12 +21655,12 @@ const WORDS_KO_B1 = [
       "en": "device",
       "de": "das Gerät",
       "es": "el dispositivo",
-      "pl": "urządzenie",
       "it": "il dispositivo",
       "pt": "o dispositivo",
       "ja": "機器",
       "zh": "设备",
-      "ru": "устройство"
+      "ru": "устройство",
+      "fr": "appareil"
     },
     "examples": [],
     "meta": {
@@ -21687,12 +21686,12 @@ const WORDS_KO_B1 = [
       "en": "compass",
       "de": "der Kompass",
       "es": "la brújula",
-      "pl": "kompas",
       "it": "la bussola",
       "pt": "a bússola",
       "ja": "コンパス",
       "zh": "指南针",
-      "ru": "компас"
+      "ru": "компас",
+      "fr": "boussole"
     },
     "examples": [],
     "meta": {
@@ -21718,12 +21717,12 @@ const WORDS_KO_B1 = [
       "en": "farmer",
       "de": "der Bauer",
       "es": "el agricultor",
-      "pl": "rolnik",
       "it": "l'agricoltore",
       "pt": "o agricultor",
       "ja": "農夫",
       "zh": "农民",
-      "ru": "фермер"
+      "ru": "фермер",
+      "fr": "agriculteur"
     },
     "examples": [],
     "meta": {
@@ -21749,12 +21748,12 @@ const WORDS_KO_B1 = [
       "en": "reach",
       "de": "erreichen",
       "es": "alcanzar",
-      "pl": "osiągnąć",
       "it": "raggiungere",
       "pt": "alcançar",
       "ja": "到達する",
       "zh": "到达",
-      "ru": "достигать"
+      "ru": "достигать",
+      "fr": "atteindre"
     },
     "examples": [],
     "meta": {
@@ -21781,12 +21780,12 @@ const WORDS_KO_B1 = [
       "en": "late",
       "de": "spät",
       "es": "tardío",
-      "pl": "późny",
       "it": "tardivo",
       "pt": "tardio",
       "ja": "遅い",
       "zh": "迟的",
-      "ru": "поздний"
+      "ru": "поздний",
+      "fr": "tardif"
     },
     "examples": [],
     "meta": {
@@ -21810,12 +21809,12 @@ const WORDS_KO_B1 = [
       "en": "lag behind",
       "de": "zurückbleiben",
       "es": "quedarse atrás",
-      "pl": "pozostawać w tyle",
       "it": "rimanere indietro",
       "pt": "ficar para trás",
       "ja": "遅れる",
       "zh": "落后",
-      "ru": "отставать"
+      "ru": "отставать",
+      "fr": "prendre du retard"
     },
     "examples": [],
     "meta": {
@@ -21842,12 +21841,12 @@ const WORDS_KO_B1 = [
       "en": "disc",
       "de": "die Bandscheibe",
       "es": "el disco",
-      "pl": "dysk",
       "it": "il disco",
       "pt": "o disco",
       "ja": "ディスク",
       "zh": "盘",
-      "ru": "диск"
+      "ru": "диск",
+      "fr": "disque"
     },
     "examples": [],
     "meta": {
@@ -21873,12 +21872,12 @@ const WORDS_KO_B1 = [
       "en": "taste",
       "de": "schmecken",
       "es": "probar",
-      "pl": "smakować",
       "it": "assaggiare",
       "pt": "provar",
       "ja": "味わう",
       "zh": "品尝",
-      "ru": "пробовать"
+      "ru": "пробовать",
+      "fr": "goûter"
     },
     "examples": [],
     "meta": {
@@ -21905,12 +21904,12 @@ const WORDS_KO_B1 = [
       "en": "imagination",
       "de": "die Vorstellungskraft",
       "es": "la imaginación",
-      "pl": "wyobraźnia",
       "it": "l'immaginazione",
       "pt": "a imaginação",
       "ja": "想像力",
       "zh": "想象力",
-      "ru": "воображение"
+      "ru": "воображение",
+      "fr": "imagination"
     },
     "examples": [],
     "meta": {
@@ -21937,12 +21936,12 @@ const WORDS_KO_B1 = [
       "en": "business",
       "de": "das Geschäft",
       "es": "el negocio",
-      "pl": "biznes",
       "it": "l'attività commerciale",
       "pt": "o negócio",
       "ja": "営業",
       "zh": "营业",
-      "ru": "бизнес"
+      "ru": "бизнес",
+      "fr": "affaires"
     },
     "examples": [],
     "meta": {
@@ -21968,12 +21967,12 @@ const WORDS_KO_B1 = [
       "en": "prevention",
       "de": "die Prävention",
       "es": "la prevención",
-      "pl": "zapobieganie",
       "it": "la prevenzione",
       "pt": "a prevenção",
       "ja": "予防",
       "zh": "预防",
-      "ru": "предотвращение"
+      "ru": "предотвращение",
+      "fr": "prévention"
     },
     "examples": [],
     "meta": {
@@ -21999,12 +21998,12 @@ const WORDS_KO_B1 = [
       "en": "completion",
       "de": "die Fertigstellung",
       "es": "la finalización",
-      "pl": "ukończenie",
       "it": "il completamento",
       "pt": "a conclusão",
       "ja": "完成",
       "zh": "完成",
-      "ru": "завершение"
+      "ru": "завершение",
+      "fr": "achèvement"
     },
     "examples": [],
     "meta": {
@@ -22030,12 +22029,12 @@ const WORDS_KO_B1 = [
       "en": "advantageous",
       "de": "vorteilhaft",
       "es": "ventajoso",
-      "pl": "korzystny",
       "it": "vantaggioso",
       "pt": "vantajoso",
       "ja": "有利な",
       "zh": "有利的",
-      "ru": "выгодный"
+      "ru": "выгодный",
+      "fr": "avantageux"
     },
     "examples": [],
     "meta": {
@@ -22059,12 +22058,12 @@ const WORDS_KO_B1 = [
       "en": "natural environment",
       "de": "die natürliche Umwelt",
       "es": "el medio ambiente natural",
-      "pl": "środowisko naturalne",
       "it": "l'ambiente naturale",
       "pt": "o meio ambiente natural",
       "ja": "自然環境",
       "zh": "自然环境",
-      "ru": "природная среда"
+      "ru": "природная среда",
+      "fr": "environnement naturel"
     },
     "examples": [],
     "meta": {
@@ -22090,12 +22089,12 @@ const WORDS_KO_B1 = [
       "en": "prove",
       "de": "beweisen",
       "es": "probar",
-      "pl": "udowodnić",
       "it": "dimostrare",
       "pt": "provar",
       "ja": "証明する",
       "zh": "证明",
-      "ru": "доказывать"
+      "ru": "доказывать",
+      "fr": "prouver"
     },
     "examples": [],
     "meta": {
@@ -22122,12 +22121,12 @@ const WORDS_KO_B1 = [
       "en": "be pointed out",
       "de": "bemängelt werden",
       "es": "ser señalado",
-      "pl": "zostać wskazany",
       "it": "essere segnalato",
       "pt": "ser apontado",
       "ja": "指摘される",
       "zh": "被指出",
-      "ru": "быть отмеченным"
+      "ru": "быть отмеченным",
+      "fr": "être signalé"
     },
     "examples": [],
     "meta": {
@@ -22154,12 +22153,12 @@ const WORDS_KO_B1 = [
       "en": "course",
       "de": "der Kurs",
       "es": "el curso",
-      "pl": "kurs",
       "it": "il corso",
       "pt": "o curso",
       "ja": "コース",
       "zh": "课程",
-      "ru": "курс"
+      "ru": "курс",
+      "fr": "cours"
     },
     "examples": [],
     "meta": {
@@ -22185,12 +22184,12 @@ const WORDS_KO_B1 = [
       "en": "parent",
       "de": "der Erziehungsberechtigte",
       "es": "el padre o la madre",
-      "pl": "rodzic",
       "it": "il genitore",
       "pt": "o pai ou a mãe",
       "ja": "保護者",
       "zh": "家长",
-      "ru": "родитель"
+      "ru": "родитель",
+      "fr": "parent"
     },
     "examples": [],
     "meta": {
@@ -22216,12 +22215,12 @@ const WORDS_KO_B1 = [
       "en": "rational",
       "de": "vernünftig",
       "es": "racional",
-      "pl": "racjonalny",
       "it": "razionale",
       "pt": "racional",
       "ja": "合理的",
       "zh": "合理的",
-      "ru": "рациональный"
+      "ru": "рациональный",
+      "fr": "rationnel"
     },
     "examples": [],
     "meta": {
@@ -22245,12 +22244,12 @@ const WORDS_KO_B1 = [
       "en": "interpret",
       "de": "interpretieren",
       "es": "interpretar",
-      "pl": "interpretować",
       "it": "interpretare",
       "pt": "interpretar",
       "ja": "解釈する",
       "zh": "解释",
-      "ru": "интерпретировать"
+      "ru": "интерпретировать",
+      "fr": "interpréter"
     },
     "examples": [],
     "meta": {
@@ -22278,12 +22277,12 @@ const WORDS_KO_B1 = [
       "en": "strive",
       "de": "sich bemühen",
       "es": "esforzarse",
-      "pl": "starać się",
       "it": "impegnarsi",
       "pt": "esforçar-se",
       "ja": "力を尽くす",
       "zh": "努力",
-      "ru": "прилагать усилия"
+      "ru": "прилагать усилия",
+      "fr": "s'efforcer"
     },
     "examples": [],
     "meta": {
@@ -22310,12 +22309,12 @@ const WORDS_KO_B1 = [
       "en": "fly",
       "de": "fliegen lassen",
       "es": "hacer volar",
-      "pl": "puścić w powietrze",
       "it": "far volare",
       "pt": "fazer voar",
       "ja": "飛ばす",
       "zh": "放飞",
-      "ru": "пускать"
+      "ru": "пускать",
+      "fr": "voler"
     },
     "examples": [],
     "meta": {
@@ -22342,12 +22341,12 @@ const WORDS_KO_B1 = [
       "en": "reduce",
       "de": "reduzieren",
       "es": "reducir",
-      "pl": "zmniejszyć",
       "it": "ridurre",
       "pt": "reduzir",
       "ja": "減らす",
       "zh": "减少",
-      "ru": "уменьшать"
+      "ru": "уменьшать",
+      "fr": "réduire"
     },
     "examples": [],
     "meta": {
@@ -22374,12 +22373,12 @@ const WORDS_KO_B1 = [
       "en": "jump over",
       "de": "überspringen",
       "es": "saltar sobre",
-      "pl": "przeskoczyć",
       "it": "saltare oltre",
       "pt": "saltar por cima",
       "ja": "飛び越える",
       "zh": "跳过",
-      "ru": "перепрыгивать"
+      "ru": "перепрыгивать",
+      "fr": "sauter par-dessus"
     },
     "examples": [],
     "meta": {
@@ -22406,12 +22405,12 @@ const WORDS_KO_B1 = [
       "en": "wife",
       "de": "die Ehefrau",
       "es": "la esposa",
-      "pl": "żona",
       "it": "la moglie",
       "pt": "a esposa",
       "ja": "妻",
       "zh": "妻子",
-      "ru": "жена"
+      "ru": "жена",
+      "fr": "femme"
     },
     "examples": [],
     "meta": {
@@ -22438,12 +22437,12 @@ const WORDS_KO_B1 = [
       "en": "welcome",
       "de": "empfangen",
       "es": "recibir",
-      "pl": "przyjmować",
       "it": "accogliere",
       "pt": "receber",
       "ja": "迎える",
       "zh": "迎接",
-      "ru": "встречать"
+      "ru": "встречать",
+      "fr": "bienvenue"
     },
     "examples": [],
     "meta": {
@@ -22471,12 +22470,12 @@ const WORDS_KO_B1 = [
       "en": "report",
       "de": "melden",
       "es": "reportar",
-      "pl": "zgłaszać",
       "it": "segnalare",
       "pt": "relatar",
       "ja": "申告する",
       "zh": "申报",
-      "ru": "сообщать"
+      "ru": "сообщать",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {
@@ -22503,12 +22502,12 @@ const WORDS_KO_B1 = [
       "en": "continuation",
       "de": "die Fortsetzung",
       "es": "la continuación",
-      "pl": "ciągłość",
       "it": "la continuazione",
       "pt": "a continuação",
       "ja": "連続",
       "zh": "连续",
-      "ru": "продолжение"
+      "ru": "продолжение",
+      "fr": "continuation"
     },
     "examples": [],
     "meta": {
@@ -22534,12 +22533,12 @@ const WORDS_KO_B1 = [
       "en": "director",
       "de": "der Direktor",
       "es": "el director",
-      "pl": "dyrektor",
       "it": "il direttore",
       "pt": "o diretor",
       "ja": "院長",
       "zh": "院长",
-      "ru": "директор"
+      "ru": "директор",
+      "fr": "directeur"
     },
     "examples": [],
     "meta": {
@@ -22565,12 +22564,12 @@ const WORDS_KO_B1 = [
       "en": "relic",
       "de": "das Relikt",
       "es": "la reliquia",
-      "pl": "relikt",
       "it": "il reperto",
       "pt": "o relíquia",
       "ja": "遺物",
       "zh": "遗物",
-      "ru": "реликвия"
+      "ru": "реликвия",
+      "fr": "relique"
     },
     "examples": [],
     "meta": {
@@ -22596,12 +22595,12 @@ const WORDS_KO_B1 = [
       "en": "maintenance",
       "de": "die Wartung",
       "es": "el mantenimiento",
-      "pl": "konserwacja",
       "it": "la manutenzione",
       "pt": "a manutenção",
       "ja": "整備",
       "zh": "整备",
-      "ru": "обслуживание"
+      "ru": "обслуживание",
+      "fr": "entretien"
     },
     "examples": [],
     "meta": {
@@ -22627,12 +22626,12 @@ const WORDS_KO_B1 = [
       "en": "caution",
       "de": "die Vorsicht",
       "es": "la precaución",
-      "pl": "ostrożność",
       "it": "la cautela",
       "pt": "a cautela",
       "ja": "注意",
       "zh": "注意",
-      "ru": "осторожность"
+      "ru": "осторожность",
+      "fr": "prudence"
     },
     "examples": [],
     "meta": {
@@ -22658,12 +22657,12 @@ const WORDS_KO_B1 = [
       "en": "put in",
       "de": "hineinlegen",
       "es": "meter dentro",
-      "pl": "włożyć do środka",
       "it": "mettere dentro",
       "pt": "colocar dentro",
       "ja": "入れる",
       "zh": "塞进去",
-      "ru": "вложить"
+      "ru": "вложить",
+      "fr": "mettre"
     },
     "examples": [],
     "meta": {
@@ -22690,12 +22689,12 @@ const WORDS_KO_B1 = [
       "en": "statistics",
       "de": "die Statistik",
       "es": "la estadística",
-      "pl": "statystyka",
       "it": "la statistica",
       "pt": "a estatística",
       "ja": "統計",
       "zh": "统计",
-      "ru": "статистика"
+      "ru": "статистика",
+      "fr": "statistiques"
     },
     "examples": [],
     "meta": {
@@ -22721,12 +22720,12 @@ const WORDS_KO_B1 = [
       "en": "victim",
       "de": "das Opfer",
       "es": "la víctima",
-      "pl": "ofiara",
       "it": "la vittima",
       "pt": "a vítima",
       "ja": "被害者",
       "zh": "受害者",
-      "ru": "жертва"
+      "ru": "жертва",
+      "fr": "victime"
     },
     "examples": [],
     "meta": {
@@ -22752,12 +22751,12 @@ const WORDS_KO_B1 = [
       "en": "essential",
       "de": "wesentlich",
       "es": "esencial",
-      "pl": "niezbędny",
       "it": "essenziale",
       "pt": "essencial",
       "ja": "必須",
       "zh": "必需",
-      "ru": "существенный"
+      "ru": "существенный",
+      "fr": "essentiel"
     },
     "examples": [],
     "meta": {
@@ -22782,12 +22781,12 @@ const WORDS_KO_B1 = [
       "en": "school supplies",
       "de": "die Schulmaterialien",
       "es": "los útiles escolares",
-      "pl": "artykuły szkolne",
       "it": "i materiali scolastici",
       "pt": "os materiais escolares",
       "ja": "学用品",
       "zh": "学习用品",
-      "ru": "школьные принадлежности"
+      "ru": "школьные принадлежности",
+      "fr": "fournitures scolaires"
     },
     "examples": [],
     "meta": {
@@ -22813,12 +22812,12 @@ const WORDS_KO_B1 = [
       "en": "bright",
       "de": "hell",
       "es": "brillante",
-      "pl": "jasny",
       "it": "luminoso",
       "pt": "brilhante",
       "ja": "明るい",
       "zh": "明亮",
-      "ru": "яркий"
+      "ru": "яркий",
+      "fr": "lumineux"
     },
     "examples": [],
     "meta": {
@@ -22842,12 +22841,12 @@ const WORDS_KO_B1 = [
       "en": "Gangnam",
       "de": "Gangnam",
       "es": "Gangnam",
-      "pl": "Gangnam",
       "it": "Gangnam",
       "pt": "Gangnam",
       "ja": "江南",
       "zh": "江南",
-      "ru": "Каннам"
+      "ru": "Каннам",
+      "fr": "Gangnam"
     },
     "examples": [],
     "meta": {
@@ -22873,12 +22872,12 @@ const WORDS_KO_B1 = [
       "en": "be arrested",
       "de": "festgenommen werden",
       "es": "ser arrestado",
-      "pl": "zostać aresztowanym",
       "it": "essere arrestato",
       "pt": "ser preso",
       "ja": "逮捕される",
       "zh": "被逮捕",
-      "ru": "быть арестованным"
+      "ru": "быть арестованным",
+      "fr": "être arrêté"
     },
     "examples": [],
     "meta": {
@@ -22905,12 +22904,12 @@ const WORDS_KO_B1 = [
       "en": "wander",
       "de": "herumgehen",
       "es": "andar",
-      "pl": "chodzić",
       "it": "andare in giro",
       "pt": "andar",
       "ja": "歩き回る",
       "zh": "走动",
-      "ru": "бродить"
+      "ru": "бродить",
+      "fr": "errer"
     },
     "examples": [],
     "meta": {
@@ -22937,12 +22936,12 @@ const WORDS_KO_B1 = [
       "en": "cool",
       "de": "toll",
       "es": "genial",
-      "pl": "świetny",
       "it": "fantastico",
       "pt": "legal",
       "ja": "かっこいい",
       "zh": "帅",
-      "ru": "крутой"
+      "ru": "крутой",
+      "fr": "génial"
     },
     "examples": [],
     "meta": {
@@ -22966,12 +22965,12 @@ const WORDS_KO_B1 = [
       "en": "opposition",
       "de": "der Widerstand",
       "es": "la oposición",
-      "pl": "sprzeciw",
       "it": "l'opposizione",
       "pt": "a oposição",
       "ja": "反発",
       "zh": "反对",
-      "ru": "сопротивление"
+      "ru": "сопротивление",
+      "fr": "opposition"
     },
     "examples": [],
     "meta": {
@@ -22997,12 +22996,12 @@ const WORDS_KO_B1 = [
       "en": "prevention",
       "de": "die Verhinderung",
       "es": "la prevención",
-      "pl": "zapobieganie",
       "it": "la prevenzione",
       "pt": "a prevenção",
       "ja": "防止",
       "zh": "防止",
-      "ru": "предотвращение"
+      "ru": "предотвращение",
+      "fr": "prévention"
     },
     "examples": [],
     "meta": {
@@ -23028,12 +23027,12 @@ const WORDS_KO_B1 = [
       "en": "seep in",
       "de": "einsickern",
       "es": "infiltrarse",
-      "pl": "przesiąkać",
       "it": "infiltrarsi",
       "pt": "infiltrar-se",
       "ja": "染み込む",
       "zh": "渗透",
-      "ru": "просачиваться"
+      "ru": "просачиваться",
+      "fr": "s'infiltrer"
     },
     "examples": [],
     "meta": {
@@ -23060,12 +23059,12 @@ const WORDS_KO_B1 = [
       "en": "guarantee",
       "de": "die Garantie",
       "es": "la garantía",
-      "pl": "gwarancja",
       "it": "la garanzia",
       "pt": "a garantia",
       "ja": "保証",
       "zh": "保证",
-      "ru": "гарантия"
+      "ru": "гарантия",
+      "fr": "garantie"
     },
     "examples": [],
     "meta": {
@@ -23091,12 +23090,12 @@ const WORDS_KO_B1 = [
       "en": "get out",
       "de": "herauskommen",
       "es": "salir",
-      "pl": "wydostać się",
       "it": "uscire",
       "pt": "sair",
       "ja": "抜け出す",
       "zh": "逃出来",
-      "ru": "выбраться"
+      "ru": "выбраться",
+      "fr": "sortir"
     },
     "examples": [],
     "meta": {
@@ -23123,12 +23122,12 @@ const WORDS_KO_B1 = [
       "en": "leak out",
       "de": "auslaufen",
       "es": "escaparse",
-      "pl": "wyciekać",
       "it": "trapelare",
       "pt": "vazar",
       "ja": "漏れる",
       "zh": "漏出",
-      "ru": "утекать"
+      "ru": "утекать",
+      "fr": "fuir"
     },
     "examples": [],
     "meta": {
@@ -23155,12 +23154,12 @@ const WORDS_KO_B1 = [
       "en": "unfair",
       "de": "ungerecht",
       "es": "injusto",
-      "pl": "niesprawiedliwy",
       "it": "ingiusto",
       "pt": "injusto",
       "ja": "悔しい",
       "zh": "委屈",
-      "ru": "несправедливый"
+      "ru": "несправедливый",
+      "fr": "injuste"
     },
     "examples": [],
     "meta": {
@@ -23184,12 +23183,12 @@ const WORDS_KO_B1 = [
       "en": "be requested",
       "de": "erbeten werden",
       "es": "ser solicitado",
-      "pl": "być poproszonym",
       "it": "essere richiesto",
       "pt": "ser solicitado",
       "ja": "要求される",
       "zh": "被要求",
-      "ru": "быть запрошенным"
+      "ru": "быть запрошенным",
+      "fr": "être demandé"
     },
     "examples": [],
     "meta": {
@@ -23216,12 +23215,12 @@ const WORDS_KO_B1 = [
       "en": "voice",
       "de": "die Stimme",
       "es": "la voz",
-      "pl": "głos",
       "it": "la voce",
       "pt": "a voz",
       "ja": "声",
       "zh": "声音",
-      "ru": "голос"
+      "ru": "голос",
+      "fr": "voix"
     },
     "examples": [],
     "meta": {
@@ -23247,12 +23246,12 @@ const WORDS_KO_B1 = [
       "en": "decoration",
       "de": "die Dekoration",
       "es": "la decoración",
-      "pl": "dekoracja",
       "it": "la decorazione",
       "pt": "a decoração",
       "ja": "装飾",
       "zh": "装饰",
-      "ru": "украшение"
+      "ru": "украшение",
+      "fr": "décoration"
     },
     "examples": [],
     "meta": {
@@ -23278,12 +23277,12 @@ const WORDS_KO_B1 = [
       "en": "unfold",
       "de": "entfalten",
       "es": "desplegar",
-      "pl": "rozwijać",
       "it": "spiegare",
       "pt": "desdobrar",
       "ja": "展開する",
       "zh": "展开",
-      "ru": "разворачивать"
+      "ru": "разворачивать",
+      "fr": "déplier"
     },
     "examples": [],
     "meta": {
@@ -23310,12 +23309,12 @@ const WORDS_KO_B1 = [
       "en": "overall",
       "de": "gesamt",
       "es": "general",
-      "pl": "ogólny",
       "it": "generale",
       "pt": "geral",
       "ja": "全般的な",
       "zh": "整体的",
-      "ru": "общий"
+      "ru": "общий",
+      "fr": "global"
     },
     "examples": [],
     "meta": {
@@ -23339,12 +23338,12 @@ const WORDS_KO_B1 = [
       "en": "custom",
       "de": "der Brauch",
       "es": "la costumbre",
-      "pl": "zwyczaj",
       "it": "l'usanza",
       "pt": "o costume",
       "ja": "風習",
       "zh": "风俗",
-      "ru": "обычай"
+      "ru": "обычай",
+      "fr": "coutume"
     },
     "examples": [],
     "meta": {
@@ -23370,12 +23369,12 @@ const WORDS_KO_B1 = [
       "en": "middle",
       "de": "die Mitte",
       "es": "el centro",
-      "pl": "środek",
       "it": "il centro",
       "pt": "o meio",
       "ja": "真ん中",
       "zh": "中间",
-      "ru": "середина"
+      "ru": "середина",
+      "fr": "milieu"
     },
     "examples": [],
     "meta": {
@@ -23401,12 +23400,12 @@ const WORDS_KO_B1 = [
       "en": "be limited",
       "de": "begrenzt sein",
       "es": "ser limitado",
-      "pl": "być ograniczonym",
       "it": "essere limitato",
       "pt": "ser limitado",
       "ja": "限定される",
       "zh": "被限制",
-      "ru": "быть ограниченным"
+      "ru": "быть ограниченным",
+      "fr": "être limité"
     },
     "examples": [],
     "meta": {
@@ -23433,12 +23432,12 @@ const WORDS_KO_B1 = [
       "en": "accomplish",
       "de": "vollbringen",
       "es": "lograr",
-      "pl": "osiągnąć",
       "it": "realizzare",
       "pt": "realizar",
       "ja": "やり遂げる",
       "zh": "完成",
-      "ru": "достичь"
+      "ru": "достичь",
+      "fr": "accomplir"
     },
     "examples": [],
     "meta": {
@@ -23465,12 +23464,12 @@ const WORDS_KO_B1 = [
       "en": "imitation",
       "de": "die Nachahmung",
       "es": "la imitación",
-      "pl": "naśladowanie",
       "it": "l'imitazione",
       "pt": "a imitação",
       "ja": "真似",
       "zh": "模仿",
-      "ru": "подражание"
+      "ru": "подражание",
+      "fr": "imitation"
     },
     "examples": [],
     "meta": {
@@ -23496,12 +23495,12 @@ const WORDS_KO_B1 = [
       "en": "prison",
       "de": "das Gefängnis",
       "es": "la cárcel",
-      "pl": "więzienie",
       "it": "la prigione",
       "pt": "a prisão",
       "ja": "牢屋",
       "zh": "监狱",
-      "ru": "тюрьма"
+      "ru": "тюрьма",
+      "fr": "prison"
     },
     "examples": [],
     "meta": {
@@ -23527,12 +23526,12 @@ const WORDS_KO_B1 = [
       "en": "repay",
       "de": "zurückzahlen",
       "es": "devolver",
-      "pl": "spłacić",
       "it": "restituire",
       "pt": "pagar de volta",
       "ja": "返す",
       "zh": "偿还",
-      "ru": "возвращать"
+      "ru": "возвращать",
+      "fr": "rembourser"
     },
     "examples": [],
     "meta": {
@@ -23559,12 +23558,12 @@ const WORDS_KO_B1 = [
       "en": "sound",
       "de": "gesund",
       "es": "sano",
-      "pl": "zdrowy",
       "it": "sano",
       "pt": "saudável",
       "ja": "健全な",
       "zh": "健全的",
-      "ru": "здоровый"
+      "ru": "здоровый",
+      "fr": "sain"
     },
     "examples": [],
     "meta": {
@@ -23588,12 +23587,12 @@ const WORDS_KO_B1 = [
       "en": "square",
       "de": "der Platz",
       "es": "la plaza",
-      "pl": "plac",
       "it": "la piazza",
       "pt": "a praça",
       "ja": "広場",
       "zh": "广场",
-      "ru": "площадь"
+      "ru": "площадь",
+      "fr": "place"
     },
     "examples": [],
     "meta": {
@@ -23619,12 +23618,12 @@ const WORDS_KO_B1 = [
       "en": "insert",
       "de": "einfügen",
       "es": "insertar",
-      "pl": "włożyć",
       "it": "inserire",
       "pt": "inserir",
       "ja": "挟む",
       "zh": "插入",
-      "ru": "вставлять"
+      "ru": "вставлять",
+      "fr": "insérer"
     },
     "examples": [],
     "meta": {
@@ -23651,12 +23650,12 @@ const WORDS_KO_B1 = [
       "en": "trim",
       "de": "beschneiden",
       "es": "recortar",
-      "pl": "przyciąć",
       "it": "potare",
       "pt": "aparar",
       "ja": "整える",
       "zh": "修剪",
-      "ru": "подрезать"
+      "ru": "подрезать",
+      "fr": "tailler"
     },
     "examples": [],
     "meta": {
@@ -23683,12 +23682,12 @@ const WORDS_KO_B1 = [
       "en": "same",
       "de": "identisch",
       "es": "idéntico",
-      "pl": "taki sam",
       "it": "identico",
       "pt": "idêntico",
       "ja": "同じ",
       "zh": "无异",
-      "ru": "одинаковый"
+      "ru": "одинаковый",
+      "fr": "même"
     },
     "examples": [],
     "meta": {
@@ -23712,12 +23711,12 @@ const WORDS_KO_B1 = [
       "en": "confident",
       "de": "selbstbewusst",
       "es": "seguro",
-      "pl": "pewny siebie",
       "it": "sicuro",
       "pt": "confiante",
       "ja": "堂々とした",
       "zh": "堂堂正正",
-      "ru": "уверенный"
+      "ru": "уверенный",
+      "fr": "confiant"
     },
     "examples": [],
     "meta": {
@@ -23741,12 +23740,12 @@ const WORDS_KO_B1 = [
       "en": "dam",
       "de": "der Damm",
       "es": "la presa",
-      "pl": "tama",
       "it": "la diga",
       "pt": "a barragem",
       "ja": "ダム",
       "zh": "水坝",
-      "ru": "плотина"
+      "ru": "плотина",
+      "fr": "barrage"
     },
     "examples": [],
     "meta": {
@@ -23772,12 +23771,12 @@ const WORDS_KO_B1 = [
       "en": "lump",
       "de": "der Klumpen",
       "es": "el bulto",
-      "pl": "kawałek",
       "it": "il grumo",
       "pt": "o pedaço",
       "ja": "塊",
       "zh": "块",
-      "ru": "кусок"
+      "ru": "кусок",
+      "fr": "morceau"
     },
     "examples": [],
     "meta": {
@@ -23803,12 +23802,12 @@ const WORDS_KO_B1 = [
       "en": "brain",
       "de": "das Gehirn",
       "es": "el cerebro",
-      "pl": "mózg",
       "it": "il cervello",
       "pt": "o cérebro",
       "ja": "脳",
       "zh": "大脑",
-      "ru": "мозг"
+      "ru": "мозг",
+      "fr": "cerveau"
     },
     "examples": [],
     "meta": {
@@ -23834,12 +23833,12 @@ const WORDS_KO_B1 = [
       "en": "set",
       "de": "der Anzug",
       "es": "el traje",
-      "pl": "zestaw",
       "it": "il completo",
       "pt": "o conjunto",
       "ja": "揃い",
       "zh": "套",
-      "ru": "комплект"
+      "ru": "комплект",
+      "fr": "ensemble"
     },
     "examples": [],
     "meta": {
@@ -23865,12 +23864,12 @@ const WORDS_KO_B1 = [
       "en": "negative",
       "de": "negativ",
       "es": "negativo",
-      "pl": "negatywny",
       "it": "negativo",
       "pt": "negativo",
       "ja": "否定的な",
       "zh": "否定的",
-      "ru": "отрицательный"
+      "ru": "отрицательный",
+      "fr": "négatif"
     },
     "examples": [],
     "meta": {
@@ -23894,12 +23893,12 @@ const WORDS_KO_B1 = [
       "en": "north",
       "de": "der Norden",
       "es": "el norte",
-      "pl": "północ",
       "it": "il nord",
       "pt": "o norte",
       "ja": "北部",
       "zh": "北部",
-      "ru": "север"
+      "ru": "север",
+      "fr": "nord"
     },
     "examples": [],
     "meta": {
@@ -23925,12 +23924,12 @@ const WORDS_KO_B1 = [
       "en": "separation",
       "de": "die Trennung",
       "es": "la separación",
-      "pl": "separacja",
       "it": "la separazione",
       "pt": "a separação",
       "ja": "分離",
       "zh": "分离",
-      "ru": "разделение"
+      "ru": "разделение",
+      "fr": "séparation"
     },
     "examples": [],
     "meta": {
@@ -23956,12 +23955,12 @@ const WORDS_KO_B1 = [
       "en": "considerable",
       "de": "beträchtlich",
       "es": "considerable",
-      "pl": "znaczny",
       "it": "considerevole",
       "pt": "considerável",
       "ja": "相当な",
       "zh": "相当",
-      "ru": "значительный"
+      "ru": "значительный",
+      "fr": "considérable"
     },
     "examples": [],
     "meta": {
@@ -23987,12 +23986,12 @@ const WORDS_KO_B1 = [
       "en": "beginning",
       "de": "der Anfang",
       "es": "el principio",
-      "pl": "początek",
       "it": "l'inizio",
       "pt": "o começo",
       "ja": "初め",
       "zh": "当初",
-      "ru": "начало"
+      "ru": "начало",
+      "fr": "début"
     },
     "examples": [],
     "meta": {
@@ -24018,12 +24017,12 @@ const WORDS_KO_B1 = [
       "en": "pollute",
       "de": "verschmutzen",
       "es": "contaminar",
-      "pl": "zanieczyszczać",
       "it": "inquinare",
       "pt": "poluir",
       "ja": "汚染される",
       "zh": "污染",
-      "ru": "загрязняться"
+      "ru": "загрязняться",
+      "fr": "polluer"
     },
     "examples": [],
     "meta": {
@@ -24050,12 +24049,12 @@ const WORDS_KO_B1 = [
       "en": "misunderstanding",
       "de": "das Missverständnis",
       "es": "el malentendido",
-      "pl": "nieporozumienie",
       "it": "l'incomprensione",
       "pt": "o mal-entendido",
       "ja": "誤解",
       "zh": "误解",
-      "ru": "недоразумение"
+      "ru": "недоразумение",
+      "fr": "malentendu"
     },
     "examples": [],
     "meta": {
@@ -24081,12 +24080,12 @@ const WORDS_KO_B1 = [
       "en": "rely on",
       "de": "sich verlassen auf",
       "es": "confiar en",
-      "pl": "polegać na",
       "it": "fare affidamento su",
       "pt": "confiar em",
       "ja": "頼る",
       "zh": "依靠",
-      "ru": "полагаться на"
+      "ru": "полагаться на",
+      "fr": "compter sur"
     },
     "examples": [],
     "meta": {
@@ -24113,12 +24112,12 @@ const WORDS_KO_B1 = [
       "en": "restrict",
       "de": "beschränken",
       "es": "restringir",
-      "pl": "ograniczać",
       "it": "limitare",
       "pt": "restringir",
       "ja": "制限する",
       "zh": "限制",
-      "ru": "ограничивать"
+      "ru": "ограничивать",
+      "fr": "restreindre"
     },
     "examples": [],
     "meta": {
@@ -24145,12 +24144,12 @@ const WORDS_KO_B1 = [
       "en": "respect",
       "de": "respektieren",
       "es": "respetar",
-      "pl": "szanować",
       "it": "rispettare",
       "pt": "respeitar",
       "ja": "尊重する",
       "zh": "尊重",
-      "ru": "уважать"
+      "ru": "уважать",
+      "fr": "respecter"
     },
     "examples": [],
     "meta": {
@@ -24178,12 +24177,12 @@ const WORDS_KO_B1 = [
       "en": "take responsibility",
       "de": "verantwortlich sein",
       "es": "asumir la responsabilidad",
-      "pl": "brać odpowiedzialność",
       "it": "assumersi la responsabilità",
       "pt": "assumir a responsabilidade",
       "ja": "責任を取る",
       "zh": "负责",
-      "ru": "нести ответственность"
+      "ru": "нести ответственность",
+      "fr": "prendre la responsabilité"
     },
     "examples": [],
     "meta": {
@@ -24210,12 +24209,12 @@ const WORDS_KO_B1 = [
       "en": "youth",
       "de": "die Jugend",
       "es": "la juventud",
-      "pl": "młodość",
       "it": "la giovinezza",
       "pt": "a juventude",
       "ja": "青春",
       "zh": "青春",
-      "ru": "юность"
+      "ru": "юность",
+      "fr": "jeunesse"
     },
     "examples": [],
     "meta": {
@@ -24241,12 +24240,12 @@ const WORDS_KO_B1 = [
       "en": "early stage",
       "de": "die Anfangsphase",
       "es": "la etapa inicial",
-      "pl": "początkowa faza",
       "it": "la fase iniziale",
       "pt": "a fase inicial",
       "ja": "序盤",
       "zh": "初期",
-      "ru": "начальный этап"
+      "ru": "начальный этап",
+      "fr": "stade précoce"
     },
     "examples": [],
     "meta": {
@@ -24272,12 +24271,12 @@ const WORDS_KO_B1 = [
       "en": "truck",
       "de": "der Lastwagen",
       "es": "el camión",
-      "pl": "ciężarówka",
       "it": "il camion",
       "pt": "o caminhão",
       "ja": "トラック",
       "zh": "卡车",
-      "ru": "грузовик"
+      "ru": "грузовик",
+      "fr": "camion"
     },
     "examples": [],
     "meta": {
@@ -24303,12 +24302,12 @@ const WORDS_KO_B1 = [
       "en": "wide",
       "de": "breit",
       "es": "amplio",
-      "pl": "szeroki",
       "it": "ampio",
       "pt": "amplo",
       "ja": "幅広い",
       "zh": "广泛",
-      "ru": "широкий"
+      "ru": "широкий",
+      "fr": "large"
     },
     "examples": [],
     "meta": {
@@ -24333,12 +24332,12 @@ const WORDS_KO_B1 = [
       "en": "be expressed",
       "de": "ausgedrückt werden",
       "es": "ser expresado",
-      "pl": "być wyrażonym",
       "it": "essere espresso",
       "pt": "ser expresso",
       "ja": "表現される",
       "zh": "被表达",
-      "ru": "быть выраженным"
+      "ru": "быть выраженным",
+      "fr": "être exprimé"
     },
     "examples": [],
     "meta": {
@@ -24366,12 +24365,12 @@ const WORDS_KO_B1 = [
       "en": "student number",
       "de": "die Matrikelnummer",
       "es": "el número de estudiante",
-      "pl": "numer studenta",
       "it": "il numero di matricola",
       "pt": "o número de estudante",
       "ja": "学籍番号",
       "zh": "学号",
-      "ru": "студенческий номер"
+      "ru": "студенческий номер",
+      "fr": "numéro d'étudiant"
     },
     "examples": [],
     "meta": {
@@ -24397,12 +24396,12 @@ const WORDS_KO_B1 = [
       "en": "permission",
       "de": "die Erlaubnis",
       "es": "el permiso",
-      "pl": "pozwolenie",
       "it": "il permesso",
       "pt": "a permissão",
       "ja": "許可",
       "zh": "许可",
-      "ru": "разрешение"
+      "ru": "разрешение",
+      "fr": "permission"
     },
     "examples": [],
     "meta": {
@@ -24428,12 +24427,12 @@ const WORDS_KO_B1 = [
       "en": "wander",
       "de": "umherirren",
       "es": "vagar",
-      "pl": "błąkać się",
       "it": "vagare",
       "pt": "vagar",
       "ja": "さまよう",
       "zh": "徘徊",
-      "ru": "бродить"
+      "ru": "бродить",
+      "fr": "errer"
     },
     "examples": [],
     "meta": {
@@ -24462,12 +24461,12 @@ const WORDS_KO_B1 = [
       "en": "head of household",
       "de": "der Haushaltsvorstand",
       "es": "el cabeza de familia",
-      "pl": "głowa rodziny",
       "it": "il capofamiglia",
       "pt": "o chefe de família",
       "ja": "一家の主",
       "zh": "一家之主",
-      "ru": "глава семьи"
+      "ru": "глава семьи",
+      "fr": "chef de famille"
     },
     "examples": [],
     "meta": {
@@ -24493,12 +24492,12 @@ const WORDS_KO_B1 = [
       "en": "song",
       "de": "das Lied",
       "es": "la canción",
-      "pl": "piosenka",
       "it": "la canzone",
       "pt": "a canção",
       "ja": "曲",
       "zh": "歌曲",
-      "ru": "песня"
+      "ru": "песня",
+      "fr": "chanson"
     },
     "examples": [],
     "meta": {
@@ -24524,12 +24523,12 @@ const WORDS_KO_B1 = [
       "en": "grain",
       "de": "das Getreide",
       "es": "el grano",
-      "pl": "zboże",
       "it": "il cereale",
       "pt": "o grão",
       "ja": "穀物",
       "zh": "谷物",
-      "ru": "зерно"
+      "ru": "зерно",
+      "fr": "grain"
     },
     "examples": [],
     "meta": {
@@ -24555,12 +24554,12 @@ const WORDS_KO_B1 = [
       "en": "stick",
       "de": "stecken",
       "es": "clavar",
-      "pl": "wbić",
       "it": "infilare",
       "pt": "espetar",
       "ja": "刺す",
       "zh": "插",
-      "ru": "втыкать"
+      "ru": "втыкать",
+      "fr": "coller"
     },
     "examples": [],
     "meta": {
@@ -24587,12 +24586,12 @@ const WORDS_KO_B1 = [
       "en": "fear",
       "de": "die Angst",
       "es": "el miedo",
-      "pl": "strach",
       "it": "la paura",
       "pt": "o medo",
       "ja": "恐れ",
       "zh": "恐惧",
-      "ru": "страх"
+      "ru": "страх",
+      "fr": "peur"
     },
     "examples": [],
     "meta": {
@@ -24618,12 +24617,12 @@ const WORDS_KO_B1 = [
       "en": "hesitate",
       "de": "zögern",
       "es": "dudar",
-      "pl": "wahać się",
       "it": "esitare",
       "pt": "hesitar",
       "ja": "ためらう",
       "zh": "犹豫",
-      "ru": "колебаться"
+      "ru": "колебаться",
+      "fr": "hésiter"
     },
     "examples": [],
     "meta": {
@@ -24650,12 +24649,12 @@ const WORDS_KO_B1 = [
       "en": "special",
       "de": "besonders",
       "es": "especial",
-      "pl": "specjalny",
       "it": "speciale",
       "pt": "especial",
       "ja": "特別な",
       "zh": "特别的",
-      "ru": "особенный"
+      "ru": "особенный",
+      "fr": "spécial"
     },
     "examples": [],
     "meta": {
@@ -24679,12 +24678,12 @@ const WORDS_KO_B1 = [
       "en": "universal",
       "de": "universell",
       "es": "universal",
-      "pl": "powszechny",
       "it": "universale",
       "pt": "universal",
       "ja": "普遍的な",
       "zh": "普遍的",
-      "ru": "универсальный"
+      "ru": "универсальный",
+      "fr": "universel"
     },
     "examples": [],
     "meta": {
@@ -24708,12 +24707,12 @@ const WORDS_KO_B1 = [
       "en": "part",
       "de": "das Bauteil",
       "es": "la pieza",
-      "pl": "część",
       "it": "la parte",
       "pt": "a peça",
       "ja": "部品",
       "zh": "零件",
-      "ru": "деталь"
+      "ru": "деталь",
+      "fr": "partie"
     },
     "examples": [],
     "meta": {
@@ -24739,12 +24738,12 @@ const WORDS_KO_B1 = [
       "en": "obvious",
       "de": "offensichtlich",
       "es": "obvio",
-      "pl": "oczywisty",
       "it": "ovvio",
       "pt": "óbvio",
       "ja": "明白な",
       "zh": "明显的",
-      "ru": "очевидный"
+      "ru": "очевидный",
+      "fr": "évident"
     },
     "examples": [],
     "meta": {
@@ -24768,12 +24767,12 @@ const WORDS_KO_B1 = [
       "en": "be chosen",
       "de": "ausgewählt werden",
       "es": "ser elegido",
-      "pl": "zostać wybranym",
       "it": "essere scelto",
       "pt": "ser escolhido",
       "ja": "選ばれる",
       "zh": "被选中",
-      "ru": "быть выбранным"
+      "ru": "быть выбранным",
+      "fr": "être choisi"
     },
     "examples": [],
     "meta": {
@@ -24800,12 +24799,12 @@ const WORDS_KO_B1 = [
       "en": "counseling",
       "de": "die Beratung",
       "es": "la consulta",
-      "pl": "konsultacja",
       "it": "la consulenza",
       "pt": "a consulta",
       "ja": "相談",
       "zh": "咨询",
-      "ru": "консультация"
+      "ru": "консультация",
+      "fr": "conseil"
     },
     "examples": [],
     "meta": {
@@ -24832,12 +24831,12 @@ const WORDS_KO_B1 = [
       "en": "west",
       "de": "der Westen",
       "es": "el oeste",
-      "pl": "zachód",
       "it": "l'ovest",
       "pt": "o oeste",
       "ja": "西部",
       "zh": "西部",
-      "ru": "запад"
+      "ru": "запад",
+      "fr": "ouest"
     },
     "examples": [],
     "meta": {
@@ -24863,12 +24862,12 @@ const WORDS_KO_B1 = [
       "en": "proverb",
       "de": "das Sprichwort",
       "es": "el proverbio",
-      "pl": "przysłowie",
       "it": "il proverbio",
       "pt": "o provérbio",
       "ja": "ことわざ",
       "zh": "谚语",
-      "ru": "пословица"
+      "ru": "пословица",
+      "fr": "proverbe"
     },
     "examples": [],
     "meta": {
@@ -24894,12 +24893,12 @@ const WORDS_KO_B1 = [
       "en": "market",
       "de": "der Markt",
       "es": "el mercado",
-      "pl": "rynek",
       "it": "il mercato",
       "pt": "o mercado",
       "ja": "市場",
       "zh": "市场",
-      "ru": "рынок"
+      "ru": "рынок",
+      "fr": "marché"
     },
     "examples": [],
     "meta": {
@@ -24925,12 +24924,12 @@ const WORDS_KO_B1 = [
       "en": "review",
       "de": "die Prüfung",
       "es": "la revisión",
-      "pl": "rewizja",
       "it": "la revisione",
       "pt": "a revisão",
       "ja": "審査",
       "zh": "审查",
-      "ru": "осмотр"
+      "ru": "осмотр",
+      "fr": "examen"
     },
     "examples": [],
     "meta": {
@@ -24956,12 +24955,12 @@ const WORDS_KO_B1 = [
       "en": "put forward",
       "de": "voranstellen",
       "es": "poner delante",
-      "pl": "wysunąć",
       "it": "mettere avanti",
       "pt": "colocar à frente",
       "ja": "前に出す",
       "zh": "推到前面",
-      "ru": "выдвигать"
+      "ru": "выдвигать",
+      "fr": "proposer"
     },
     "examples": [],
     "meta": {
@@ -24988,12 +24987,12 @@ const WORDS_KO_B1 = [
       "en": "similar",
       "de": "ähnlich",
       "es": "similar",
-      "pl": "podobny",
       "it": "simile",
       "pt": "similar",
       "ja": "類似した",
       "zh": "相似的",
-      "ru": "похожий"
+      "ru": "похожий",
+      "fr": "similaire"
     },
     "examples": [],
     "meta": {
@@ -25017,12 +25016,12 @@ const WORDS_KO_B1 = [
       "en": "willpower",
       "de": "der Wille",
       "es": "la voluntad",
-      "pl": "wola",
       "it": "la volontà",
       "pt": "a vontade",
       "ja": "意欲",
       "zh": "意愿",
-      "ru": "воля"
+      "ru": "воля",
+      "fr": "volonté"
     },
     "examples": [],
     "meta": {
@@ -25048,12 +25047,12 @@ const WORDS_KO_B1 = [
       "en": "vicinity",
       "de": "die Nähe",
       "es": "la cercanía",
-      "pl": "pobliskie",
       "it": "la vicinanza",
       "pt": "a vizinhança",
       "ja": "近隣",
       "zh": "附近",
-      "ru": "окрестности"
+      "ru": "окрестности",
+      "fr": "voisinage"
     },
     "examples": [],
     "meta": {
@@ -25080,12 +25079,12 @@ const WORDS_KO_B1 = [
       "en": "layperson",
       "de": "der Laie",
       "es": "el lego",
-      "pl": "świecki",
       "it": "il laico",
       "pt": "o leigo",
       "ja": "一般人",
       "zh": "普通人",
-      "ru": "мирянин"
+      "ru": "мирянин",
+      "fr": "laïc"
     },
     "examples": [],
     "meta": {
@@ -25112,12 +25111,12 @@ const WORDS_KO_B1 = [
       "en": "write",
       "de": "verfassen",
       "es": "redactar",
-      "pl": "sporządzić",
       "it": "redigere",
       "pt": "redigir",
       "ja": "作成する",
       "zh": "撰写",
-      "ru": "составлять"
+      "ru": "составлять",
+      "fr": "écrire"
     },
     "examples": [],
     "meta": {
@@ -25144,12 +25143,12 @@ const WORDS_KO_B1 = [
       "en": "regular",
       "de": "regelmäßig",
       "es": "regular",
-      "pl": "regularny",
       "it": "regolare",
       "pt": "regular",
       "ja": "定期的な",
       "zh": "定期的",
-      "ru": "регулярный"
+      "ru": "регулярный",
+      "fr": "régulier"
     },
     "examples": [],
     "meta": {
@@ -25175,12 +25174,12 @@ const WORDS_KO_B1 = [
       "en": "proposal",
       "de": "der Vorschlag",
       "es": "la propuesta",
-      "pl": "propozycja",
       "it": "la proposta",
       "pt": "a proposta",
       "ja": "提案",
       "zh": "提议",
-      "ru": "предложение"
+      "ru": "предложение",
+      "fr": "proposition"
     },
     "examples": [],
     "meta": {
@@ -25206,12 +25205,12 @@ const WORDS_KO_B1 = [
       "en": "attire",
       "de": "die Kleidung",
       "es": "la vestimenta",
-      "pl": "ubiór",
       "it": "l'abbigliamento",
       "pt": "o traje",
       "ja": "装い",
       "zh": "装束",
-      "ru": "наряд"
+      "ru": "наряд",
+      "fr": "tenue"
     },
     "examples": [],
     "meta": {
@@ -25237,12 +25236,12 @@ const WORDS_KO_B1 = [
       "en": "create",
       "de": "erschaffen",
       "es": "crear",
-      "pl": "tworzyć",
       "it": "creare",
       "pt": "criar",
       "ja": "創造する",
       "zh": "创造",
-      "ru": "создавать"
+      "ru": "создавать",
+      "fr": "créer"
     },
     "examples": [],
     "meta": {
@@ -25269,12 +25268,12 @@ const WORDS_KO_B1 = [
       "en": "publish",
       "de": "veröffentlichen",
       "es": "publicar",
-      "pl": "wydać",
       "it": "pubblicare",
       "pt": "publicar",
       "ja": "出版する",
       "zh": "出版",
-      "ru": "издавать"
+      "ru": "издавать",
+      "fr": "publier"
     },
     "examples": [],
     "meta": {
@@ -25301,12 +25300,12 @@ const WORDS_KO_B1 = [
       "en": "hardware",
       "de": "die Hardware",
       "es": "el hardware",
-      "pl": "sprzęt",
       "it": "l'hardware",
       "pt": "o hardware",
       "ja": "ハードウェア",
       "zh": "硬件",
-      "ru": "аппаратное обеспечение"
+      "ru": "аппаратное обеспечение",
+      "fr": "matériel"
     },
     "examples": [],
     "meta": {
@@ -25332,12 +25331,12 @@ const WORDS_KO_B1 = [
       "en": "makeup",
       "de": "das Make-up",
       "es": "el maquillaje",
-      "pl": "makijaż",
       "it": "il trucco",
       "pt": "a maquiagem",
       "ja": "化粧",
       "zh": "化妆",
-      "ru": "макияж"
+      "ru": "макияж",
+      "fr": "maquillage"
     },
     "examples": [],
     "meta": {
@@ -25363,12 +25362,12 @@ const WORDS_KO_B1 = [
       "en": "intense",
       "de": "intensiv",
       "es": "intenso",
-      "pl": "intensywny",
       "it": "intenso",
       "pt": "intenso",
       "ja": "強烈な",
       "zh": "强烈的",
-      "ru": "интенсивный"
+      "ru": "интенсивный",
+      "fr": "intense"
     },
     "examples": [],
     "meta": {
@@ -25392,12 +25391,12 @@ const WORDS_KO_B1 = [
       "en": "repeat",
       "de": "wiederholen",
       "es": "repetir",
-      "pl": "powtarzać",
       "it": "ripetere",
       "pt": "repetir",
       "ja": "繰り返す",
       "zh": "重复",
-      "ru": "повторять"
+      "ru": "повторять",
+      "fr": "répéter"
     },
     "examples": [],
     "meta": {
@@ -25424,12 +25423,12 @@ const WORDS_KO_B1 = [
       "en": "avoid",
       "de": "vermeiden",
       "es": "evitar",
-      "pl": "unikać",
       "it": "evitare",
       "pt": "evitar",
       "ja": "避ける",
       "zh": "避免",
-      "ru": "избегать"
+      "ru": "избегать",
+      "fr": "éviter"
     },
     "examples": [],
     "meta": {
@@ -25456,12 +25455,12 @@ const WORDS_KO_B1 = [
       "en": "seek",
       "de": "suchen",
       "es": "buscar",
-      "pl": "szukać",
       "it": "cercare",
       "pt": "procurar",
       "ja": "模索する",
       "zh": "探索",
-      "ru": "искать"
+      "ru": "искать",
+      "fr": "chercher"
     },
     "examples": [],
     "meta": {
@@ -25488,12 +25487,12 @@ const WORDS_KO_B1 = [
       "en": "catch",
       "de": "festhalten",
       "es": "agarrar",
-      "pl": "złapać",
       "it": "afferrare",
       "pt": "agarrar",
       "ja": "つかむ",
       "zh": "抓住",
-      "ru": "хватать"
+      "ru": "хватать",
+      "fr": "attraper"
     },
     "examples": [],
     "meta": {
@@ -25520,12 +25519,12 @@ const WORDS_KO_B1 = [
       "en": "color",
       "de": "die Farbe",
       "es": "el color",
-      "pl": "kolor",
       "it": "il colore",
       "pt": "a cor",
       "ja": "色",
       "zh": "颜色",
-      "ru": "цвет"
+      "ru": "цвет",
+      "fr": "couleur"
     },
     "examples": [],
     "meta": {
@@ -25551,12 +25550,12 @@ const WORDS_KO_B1 = [
       "en": "all directions",
       "de": "alle Richtungen",
       "es": "todas las direcciones",
-      "pl": "wszystkie kierunki",
       "it": "tutte le direzioni",
       "pt": "todas as direções",
       "ja": "四方",
       "zh": "四面八方",
-      "ru": "все стороны"
+      "ru": "все стороны",
+      "fr": "toutes directions"
     },
     "examples": [],
     "meta": {
@@ -25583,12 +25582,12 @@ const WORDS_KO_B1 = [
       "en": "household management",
       "de": "Haushaltsführung",
       "es": "gestión del hogar",
-      "pl": "zarządzanie domem",
       "it": "gestione domestica",
       "pt": "gestão doméstica",
       "ja": "家計",
       "zh": "家务管理",
-      "ru": "ведение хозяйства"
+      "ru": "ведение хозяйства",
+      "fr": "gestion du ménage"
     },
     "examples": [],
     "meta": {
@@ -25614,12 +25613,12 @@ const WORDS_KO_B1 = [
       "en": "realization",
       "de": "Verwirklichung",
       "es": "realización",
-      "pl": "realizacja",
       "it": "realizzazione",
       "pt": "realização",
       "ja": "実現",
       "zh": "实现",
-      "ru": "осуществление"
+      "ru": "осуществление",
+      "fr": "réalisation"
     },
     "examples": [],
     "meta": {
@@ -25645,12 +25644,12 @@ const WORDS_KO_B1 = [
       "en": "entertainer",
       "de": "der Unterhaltungskünstler",
       "es": "el artista de entretenimiento",
-      "pl": "artysta estradowy",
       "it": "l'artista dello spettacolo",
       "pt": "o artista de entretenimento",
       "ja": "芸能人",
       "zh": "艺人",
-      "ru": "артист"
+      "ru": "артист",
+      "fr": "artiste"
     },
     "examples": [],
     "meta": {
@@ -25677,12 +25676,12 @@ const WORDS_KO_B1 = [
       "en": "vote",
       "de": "die Abstimmung",
       "es": "la votación",
-      "pl": "głosowanie",
       "it": "il voto",
       "pt": "a votação",
       "ja": "投票",
       "zh": "投票",
-      "ru": "голосование"
+      "ru": "голосование",
+      "fr": "vote"
     },
     "examples": [],
     "meta": {
@@ -25708,12 +25707,12 @@ const WORDS_KO_B1 = [
       "en": "destroy",
       "de": "zerstören",
       "es": "destruir",
-      "pl": "niszczyć",
       "it": "distruggere",
       "pt": "destruir",
       "ja": "破壊する",
       "zh": "破坏",
-      "ru": "разрушать"
+      "ru": "разрушать",
+      "fr": "détruire"
     },
     "examples": [],
     "meta": {
@@ -25740,12 +25739,12 @@ const WORDS_KO_B1 = [
       "en": "God",
       "de": "der Gott",
       "es": "el Dios",
-      "pl": "Bóg",
       "it": "Dio",
       "pt": "Deus",
       "ja": "神",
       "zh": "神",
-      "ru": "Бог"
+      "ru": "Бог",
+      "fr": "Dieu"
     },
     "examples": [],
     "meta": {
@@ -25771,12 +25770,12 @@ const WORDS_KO_B1 = [
       "en": "apply",
       "de": "zutreffen",
       "es": "aplicarse",
-      "pl": "dotyczyć",
       "it": "applicarsi",
       "pt": "aplicar-se",
       "ja": "該当する",
       "zh": "适用",
-      "ru": "применяться"
+      "ru": "применяться",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {
@@ -25803,12 +25802,12 @@ const WORDS_KO_B1 = [
       "en": "force",
       "de": "zwingen",
       "es": "forzar",
-      "pl": "wymuszać",
       "it": "forzare",
       "pt": "forçar",
       "ja": "強要する",
       "zh": "强迫",
-      "ru": "принуждать"
+      "ru": "принуждать",
+      "fr": "forcer"
     },
     "examples": [],
     "meta": {
@@ -25835,12 +25834,12 @@ const WORDS_KO_B1 = [
       "en": "ant",
       "de": "die Ameise",
       "es": "la hormiga",
-      "pl": "mrówka",
       "it": "la formica",
       "pt": "a formiga",
       "ja": "蟻",
       "zh": "蚂蚁",
-      "ru": "муравей"
+      "ru": "муравей",
+      "fr": "fourmi"
     },
     "examples": [],
     "meta": {
@@ -25866,12 +25865,12 @@ const WORDS_KO_B1 = [
       "en": "custom",
       "de": "der Brauch",
       "es": "la costumbre",
-      "pl": "zwyczaj",
       "it": "l'usanza",
       "pt": "o costume",
       "ja": "慣習",
       "zh": "习俗",
-      "ru": "обычай"
+      "ru": "обычай",
+      "fr": "coutume"
     },
     "examples": [],
     "meta": {
@@ -25897,12 +25896,12 @@ const WORDS_KO_B1 = [
       "en": "scene",
       "de": "der Anblick",
       "es": "la escena",
-      "pl": "widok",
       "it": "la scena",
       "pt": "a cena",
       "ja": "光景",
       "zh": "景象",
-      "ru": "зрелище"
+      "ru": "зрелище",
+      "fr": "scène"
     },
     "examples": [],
     "meta": {
@@ -25928,12 +25927,12 @@ const WORDS_KO_B1 = [
       "en": "lower",
       "de": "senken",
       "es": "bajar",
-      "pl": "obniżać",
       "it": "abbassare",
       "pt": "baixar",
       "ja": "下げる",
       "zh": "降低",
-      "ru": "снижать"
+      "ru": "снижать",
+      "fr": "baisser"
     },
     "examples": [],
     "meta": {
@@ -25960,12 +25959,12 @@ const WORDS_KO_B1 = [
       "en": "give",
       "de": "geben",
       "es": "dar",
-      "pl": "dać",
       "it": "dare",
       "pt": "dar",
       "ja": "与える",
       "zh": "给",
-      "ru": "давать"
+      "ru": "давать",
+      "fr": "donner"
     },
     "examples": [],
     "meta": {
@@ -25992,12 +25991,12 @@ const WORDS_KO_B1 = [
       "en": "name",
       "de": "der Name",
       "es": "el nombre",
-      "pl": "imię",
       "it": "il nome",
       "pt": "o nome",
       "ja": "名義",
       "zh": "名义",
-      "ru": "имя"
+      "ru": "имя",
+      "fr": "nom"
     },
     "examples": [],
     "meta": {
@@ -26023,12 +26022,12 @@ const WORDS_KO_B1 = [
       "en": "withdraw",
       "de": "zurücktreten",
       "es": "retirarse",
-      "pl": "wycofać się",
       "it": "ritirarsi",
       "pt": "retirar-se",
       "ja": "退く",
       "zh": "退后",
-      "ru": "отступать"
+      "ru": "отступать",
+      "fr": "retirer"
     },
     "examples": [],
     "meta": {
@@ -26055,12 +26054,12 @@ const WORDS_KO_B1 = [
       "en": "close",
       "de": "eng",
       "es": "estrecho",
-      "pl": "bliski",
       "it": "stretto",
       "pt": "próximo",
       "ja": "密接な",
       "zh": "密切",
-      "ru": "тесный"
+      "ru": "тесный",
+      "fr": "proche"
     },
     "examples": [],
     "meta": {
@@ -26084,12 +26083,12 @@ const WORDS_KO_B1 = [
       "en": "amount",
       "de": "die Menge",
       "es": "la cantidad",
-      "pl": "ilość",
       "it": "la quantità",
       "pt": "a quantidade",
       "ja": "分量",
       "zh": "分量",
-      "ru": "количество"
+      "ru": "количество",
+      "fr": "quantité"
     },
     "examples": [],
     "meta": {
@@ -26115,12 +26114,12 @@ const WORDS_KO_B1 = [
       "en": "simple",
       "de": "schlicht",
       "es": "sencillo",
-      "pl": "prosty",
       "it": "semplice",
       "pt": "simples",
       "ja": "素朴な",
       "zh": "朴素",
-      "ru": "простой"
+      "ru": "простой",
+      "fr": "simple"
     },
     "examples": [],
     "meta": {
@@ -26144,12 +26143,12 @@ const WORDS_KO_B1 = [
       "en": "promotion",
       "de": "die Beförderung",
       "es": "la promoción",
-      "pl": "awans",
       "it": "la promozione",
       "pt": "a promoção",
       "ja": "昇進",
       "zh": "晋升",
-      "ru": "повышение"
+      "ru": "повышение",
+      "fr": "promotion"
     },
     "examples": [],
     "meta": {
@@ -26175,12 +26174,12 @@ const WORDS_KO_B1 = [
       "en": "fruit",
       "de": "die Frucht",
       "es": "el fruto",
-      "pl": "owoc",
       "it": "il frutto",
       "pt": "o fruto",
       "ja": "実",
       "zh": "果实",
-      "ru": "плод"
+      "ru": "плод",
+      "fr": "fruit"
     },
     "examples": [],
     "meta": {
@@ -26206,12 +26205,12 @@ const WORDS_KO_B1 = [
       "en": "be written",
       "de": "geschrieben sein",
       "es": "estar escrito",
-      "pl": "być zapisanym",
       "it": "essere scritto",
       "pt": "estar escrito",
       "ja": "書かれている",
       "zh": "被写",
-      "ru": "быть написанным"
+      "ru": "быть написанным",
+      "fr": "être écrit"
     },
     "examples": [],
     "meta": {
@@ -26238,12 +26237,12 @@ const WORDS_KO_B1 = [
       "en": "be limited",
       "de": "begrenzt sein",
       "es": "estar limitado",
-      "pl": "być ograniczonym",
       "it": "essere limitato",
       "pt": "ser limitado",
       "ja": "制限される",
       "zh": "受限制",
-      "ru": "быть ограниченным"
+      "ru": "быть ограниченным",
+      "fr": "être limité"
     },
     "examples": [],
     "meta": {
@@ -26270,12 +26269,12 @@ const WORDS_KO_B1 = [
       "en": "continue",
       "de": "andauern",
       "es": "continuar",
-      "pl": "trwać",
       "it": "continuare",
       "pt": "continuar",
       "ja": "持続する",
       "zh": "持续",
-      "ru": "продолжаться"
+      "ru": "продолжаться",
+      "fr": "continuer"
     },
     "examples": [],
     "meta": {
@@ -26302,12 +26301,12 @@ const WORDS_KO_B1 = [
       "en": "to be chased",
       "de": "gejagt werden",
       "es": "ser perseguido",
-      "pl": "być ściganym",
       "it": "essere inseguito",
       "pt": "ser perseguido",
       "ja": "追われる",
       "zh": "被追赶",
-      "ru": "быть преследуемым"
+      "ru": "быть преследуемым",
+      "fr": "être poursuivi"
     },
     "examples": [],
     "meta": {
@@ -26334,12 +26333,12 @@ const WORDS_KO_B1 = [
       "en": "to be evaluated",
       "de": "bewertet werden",
       "es": "ser evaluado",
-      "pl": "być ocenianym",
       "it": "essere valutato",
       "pt": "ser avaliado",
       "ja": "評価される",
       "zh": "被评价",
-      "ru": "быть оцененным"
+      "ru": "быть оцененным",
+      "fr": "être évalué"
     },
     "examples": [],
     "meta": {
@@ -26366,12 +26365,12 @@ const WORDS_KO_B1 = [
       "en": "coast",
       "de": "die Küste",
       "es": "la costa",
-      "pl": "wybrzeże",
       "it": "la costa",
       "pt": "a costa",
       "ja": "海岸",
       "zh": "海岸",
-      "ru": "побережье"
+      "ru": "побережье",
+      "fr": "côte"
     },
     "examples": [],
     "meta": {
@@ -26397,12 +26396,12 @@ const WORDS_KO_B1 = [
       "en": "pumpkin",
       "de": "der Kürbis",
       "es": "la calabaza",
-      "pl": "dynia",
       "it": "la zucca",
       "pt": "a abóbora",
       "ja": "かぼちゃ",
       "zh": "南瓜",
-      "ru": "тыква"
+      "ru": "тыква",
+      "fr": "citrouille"
     },
     "examples": [],
     "meta": {
@@ -26428,12 +26427,12 @@ const WORDS_KO_B1 = [
       "en": "black person",
       "de": "der Schwarze",
       "es": "la persona negra",
-      "pl": "czarnoskóry",
       "it": "la persona di colore",
       "pt": "a pessoa negra",
       "ja": "黒人",
       "zh": "黑人",
-      "ru": "чернокожий"
+      "ru": "чернокожий",
+      "fr": "personne noire"
     },
     "examples": [],
     "meta": {
@@ -26459,12 +26458,12 @@ const WORDS_KO_B1 = [
       "en": "saltiness",
       "de": "der Salzgeschmack",
       "es": "el sabor salado",
-      "pl": "słoność",
       "it": "il sapore salato",
       "pt": "o salgado",
       "ja": "塩味",
       "zh": "咸味",
-      "ru": "солёность"
+      "ru": "солёность",
+      "fr": "salinité"
     },
     "examples": [],
     "meta": {
@@ -26490,12 +26489,12 @@ const WORDS_KO_B1 = [
       "en": "to be confined",
       "de": "eingesperrt sein",
       "es": "estar encerrado",
-      "pl": "być zamkniętym",
       "it": "essere rinchiuso",
       "pt": "ser preso",
       "ja": "閉じ込められる",
       "zh": "被关押",
-      "ru": "быть запертым"
+      "ru": "быть запертым",
+      "fr": "être confiné"
     },
     "examples": [],
     "meta": {
@@ -26522,12 +26521,12 @@ const WORDS_KO_B1 = [
       "en": "labor",
       "de": "die Arbeit",
       "es": "el trabajo",
-      "pl": "praca",
       "it": "il lavoro",
       "pt": "o trabalho",
       "ja": "労働",
       "zh": "劳动",
-      "ru": "труд"
+      "ru": "труд",
+      "fr": "travail"
     },
     "examples": [],
     "meta": {
@@ -26553,12 +26552,12 @@ const WORDS_KO_B1 = [
       "en": "pupil",
       "de": "die Pupille",
       "es": "la pupila",
-      "pl": "źrenica",
       "it": "la pupilla",
       "pt": "a pupila",
       "ja": "瞳孔",
       "zh": "瞳孔",
-      "ru": "зрачок"
+      "ru": "зрачок",
+      "fr": "pupille"
     },
     "examples": [],
     "meta": {
@@ -26584,12 +26583,12 @@ const WORDS_KO_B1 = [
       "en": "to approach",
       "de": "bevorstehen",
       "es": "acercarse",
-      "pl": "zbliżać się",
       "it": "avvicinarsi",
       "pt": "aproximar-se",
       "ja": "迫る",
       "zh": "逼近",
-      "ru": "приближаться"
+      "ru": "приближаться",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {
@@ -26616,12 +26615,12 @@ const WORDS_KO_B1 = [
       "en": "to tear off",
       "de": "abreißen",
       "es": "arrancar",
-      "pl": "oderwać",
       "it": "strappare",
       "pt": "arrancar",
       "ja": "引きちぎる",
       "zh": "撕下",
-      "ru": "оторвать"
+      "ru": "оторвать",
+      "fr": "arracher"
     },
     "examples": [],
     "meta": {
@@ -26648,12 +26647,12 @@ const WORDS_KO_B1 = [
       "en": "gesture",
       "de": "die Geste",
       "es": "el gesto",
-      "pl": "gest",
       "it": "il gesto",
       "pt": "o gesto",
       "ja": "身振り",
       "zh": "姿势",
-      "ru": "жест"
+      "ru": "жест",
+      "fr": "geste"
     },
     "examples": [],
     "meta": {
@@ -26679,12 +26678,12 @@ const WORDS_KO_B1 = [
       "en": "to bear",
       "de": "tragen",
       "es": "asumir",
-      "pl": "ponosić",
       "it": "sostenere",
       "pt": "assumir",
       "ja": "負担する",
       "zh": "承担",
-      "ru": "нести"
+      "ru": "нести",
+      "fr": "supporter"
     },
     "examples": [],
     "meta": {
@@ -26711,12 +26710,12 @@ const WORDS_KO_B1 = [
       "en": "vice president",
       "de": "der Vizepräsident",
       "es": "el vicepresidente",
-      "pl": "wiceprezes",
       "it": "il vicepresidente",
       "pt": "o vice-presidente",
       "ja": "副会長",
       "zh": "副会长",
-      "ru": "вице-президент"
+      "ru": "вице-президент",
+      "fr": "vice-président"
     },
     "examples": [],
     "meta": {
@@ -26742,12 +26741,12 @@ const WORDS_KO_B1 = [
       "en": "to snatch",
       "de": "wegnehmen",
       "es": "quitar",
-      "pl": "odebrać",
       "it": "portare via",
       "pt": "tirar",
       "ja": "奪う",
       "zh": "夺走",
-      "ru": "отнять"
+      "ru": "отнять",
+      "fr": "arracher"
     },
     "examples": [],
     "meta": {
@@ -26774,12 +26773,12 @@ const WORDS_KO_B1 = [
       "en": "to swallow",
       "de": "schlucken",
       "es": "tragar",
-      "pl": "połykać",
       "it": "inghiottire",
       "pt": "engolir",
       "ja": "飲み込む",
       "zh": "吞咽",
-      "ru": "глотать"
+      "ru": "глотать",
+      "fr": "avaler"
     },
     "examples": [],
     "meta": {
@@ -26806,12 +26805,12 @@ const WORDS_KO_B1 = [
       "en": "sincere",
       "de": "aufrichtig",
       "es": "sincero",
-      "pl": "szczery",
       "it": "sincero",
       "pt": "sincero",
       "ja": "誠実だ",
       "zh": "诚实",
-      "ru": "искренний"
+      "ru": "искренний",
+      "fr": "sincère"
     },
     "examples": [],
     "meta": {
@@ -26835,12 +26834,12 @@ const WORDS_KO_B1 = [
       "en": "studio",
       "de": "das Studio",
       "es": "el estudio",
-      "pl": "studio",
       "it": "lo studio",
       "pt": "o estúdio",
       "ja": "スタジオ",
       "zh": "工作室",
-      "ru": "студия"
+      "ru": "студия",
+      "fr": "studio"
     },
     "examples": [],
     "meta": {
@@ -26866,12 +26865,12 @@ const WORDS_KO_B1 = [
       "en": "ideal",
       "de": "ideal",
       "es": "ideal",
-      "pl": "idealny",
       "it": "ideale",
       "pt": "ideal",
       "ja": "理想的",
       "zh": "理想的",
-      "ru": "идеальный"
+      "ru": "идеальный",
+      "fr": "idéal"
     },
     "examples": [],
     "meta": {
@@ -26896,12 +26895,12 @@ const WORDS_KO_B1 = [
       "en": "habit",
       "de": "die Gewohnheit",
       "es": "el hábito",
-      "pl": "zwyczaj",
       "it": "l'abitudine",
       "pt": "o hábito",
       "ja": "癖",
       "zh": "习惯",
-      "ru": "привычка"
+      "ru": "привычка",
+      "fr": "habitude"
     },
     "examples": [],
     "meta": {
@@ -26928,12 +26927,12 @@ const WORDS_KO_B1 = [
       "en": "all",
       "de": "das Ganze",
       "es": "todo",
-      "pl": "wszystko",
       "it": "tutto",
       "pt": "tudo",
       "ja": "全て",
       "zh": "全部",
-      "ru": "всё"
+      "ru": "всё",
+      "fr": "tout"
     },
     "examples": [],
     "meta": {
@@ -26959,12 +26958,12 @@ const WORDS_KO_B1 = [
       "en": "frequent",
       "de": "häufig",
       "es": "frecuente",
-      "pl": "częsty",
       "it": "frequente",
       "pt": "frequente",
       "ja": "頻繁な",
       "zh": "频繁的",
-      "ru": "частый"
+      "ru": "частый",
+      "fr": "fréquent"
     },
     "examples": [],
     "meta": {
@@ -26988,12 +26987,12 @@ const WORDS_KO_B1 = [
       "en": "despair",
       "de": "die Verzweiflung",
       "es": "la desesperación",
-      "pl": "rozpacz",
       "it": "la disperazione",
       "pt": "o desespero",
       "ja": "絶望",
       "zh": "绝望",
-      "ru": "отчаяние"
+      "ru": "отчаяние",
+      "fr": "désespoir"
     },
     "examples": [],
     "meta": {
@@ -27019,12 +27018,12 @@ const WORDS_KO_B1 = [
       "en": "fold",
       "de": "falten",
       "es": "doblar",
-      "pl": "składać",
       "it": "piegare",
       "pt": "dobrar",
       "ja": "折る",
       "zh": "折叠",
-      "ru": "складывать"
+      "ru": "складывать",
+      "fr": "plier"
     },
     "examples": [],
     "meta": {
@@ -27051,12 +27050,12 @@ const WORDS_KO_B1 = [
       "en": "be presented",
       "de": "vorgestellt werden",
       "es": "ser presentado",
-      "pl": "być przedstawionym",
       "it": "essere presentato",
       "pt": "ser apresentado",
       "ja": "提示される",
       "zh": "被提出",
-      "ru": "быть представленным"
+      "ru": "быть представленным",
+      "fr": "être présenté"
     },
     "examples": [],
     "meta": {
@@ -27084,12 +27083,12 @@ const WORDS_KO_B1 = [
       "en": "kitchen",
       "de": "die Küche",
       "es": "la cocina",
-      "pl": "kuchnia",
       "it": "la cucina",
       "pt": "a cozinha",
       "ja": "台所",
       "zh": "厨房",
-      "ru": "кухня"
+      "ru": "кухня",
+      "fr": "cuisine"
     },
     "examples": [],
     "meta": {
@@ -27115,12 +27114,12 @@ const WORDS_KO_B1 = [
       "en": "advance",
       "de": "vorrücken",
       "es": "avanzar",
-      "pl": "postępować",
       "it": "avanzare",
       "pt": "avançar",
       "ja": "進出する",
       "zh": "进军",
-      "ru": "продвигаться"
+      "ru": "продвигаться",
+      "fr": "avancer"
     },
     "examples": [],
     "meta": {
@@ -27147,12 +27146,12 @@ const WORDS_KO_B1 = [
       "en": "pass",
       "de": "bestehen",
       "es": "pasar",
-      "pl": "przejść",
       "it": "passare",
       "pt": "passar",
       "ja": "通過する",
       "zh": "通过",
-      "ru": "проходить"
+      "ru": "проходить",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {
@@ -27179,12 +27178,12 @@ const WORDS_KO_B1 = [
       "en": "transparent",
       "de": "transparent",
       "es": "transparente",
-      "pl": "przezroczysty",
       "it": "trasparente",
       "pt": "transparente",
       "ja": "透明な",
       "zh": "透明的",
-      "ru": "прозрачный"
+      "ru": "прозрачный",
+      "fr": "transparent"
     },
     "examples": [],
     "meta": {
@@ -27208,12 +27207,12 @@ const WORDS_KO_B1 = [
       "en": "spread",
       "de": "sich verbreiten",
       "es": "difundirse",
-      "pl": "rozprzestrzeniać się",
       "it": "diffondersi",
       "pt": "espalhar-se",
       "ja": "広がる",
       "zh": "扩散",
-      "ru": "распространяться"
+      "ru": "распространяться",
+      "fr": "se propager"
     },
     "examples": [],
     "meta": {
@@ -27240,12 +27239,12 @@ const WORDS_KO_B1 = [
       "en": "career",
       "de": "die Berufserfahrung",
       "es": "la carrera",
-      "pl": "kariera",
       "it": "la carriera",
       "pt": "a carreira",
       "ja": "経歴",
       "zh": "资历",
-      "ru": "карьера"
+      "ru": "карьера",
+      "fr": "carrière"
     },
     "examples": [],
     "meta": {
@@ -27271,12 +27270,12 @@ const WORDS_KO_B1 = [
       "en": "painful",
       "de": "schmerzhaft",
       "es": "doloroso",
-      "pl": "bolesny",
       "it": "doloroso",
       "pt": "doloroso",
       "ja": "痛ましい",
       "zh": "痛苦的",
-      "ru": "болезненный"
+      "ru": "болезненный",
+      "fr": "douloureux"
     },
     "examples": [],
     "meta": {
@@ -27300,12 +27299,12 @@ const WORDS_KO_B1 = [
       "en": "difficult",
       "de": "schwierig",
       "es": "difícil",
-      "pl": "trudny",
       "it": "difficile",
       "pt": "difícil",
       "ja": "困難な",
       "zh": "困难",
-      "ru": "трудный"
+      "ru": "трудный",
+      "fr": "difficile"
     },
     "examples": [],
     "meta": {
@@ -27329,12 +27328,12 @@ const WORDS_KO_B1 = [
       "en": "public",
       "de": "die Öffentlichkeit",
       "es": "el público",
-      "pl": "publiczność",
       "it": "il pubblico",
       "pt": "o público",
       "ja": "公衆",
       "zh": "公众",
-      "ru": "общественность"
+      "ru": "общественность",
+      "fr": "public"
     },
     "examples": [],
     "meta": {
@@ -27360,12 +27359,12 @@ const WORDS_KO_B1 = [
       "en": "pollution",
       "de": "die Umweltverschmutzung",
       "es": "la contaminación",
-      "pl": "zanieczyszczenie",
       "it": "l'inquinamento",
       "pt": "a poluição",
       "ja": "公害",
       "zh": "公害",
-      "ru": "загрязнение"
+      "ru": "загрязнение",
+      "fr": "pollution"
     },
     "examples": [],
     "meta": {
@@ -27391,12 +27390,12 @@ const WORDS_KO_B1 = [
       "en": "bothersome",
       "de": "lästig",
       "es": "molesto",
-      "pl": "uciążliwy",
       "it": "fastidioso",
       "pt": "incômodo",
       "ja": "面倒な",
       "zh": "麻烦",
-      "ru": "надоедливый"
+      "ru": "надоедливый",
+      "fr": "gênant"
     },
     "examples": [],
     "meta": {
@@ -27420,12 +27419,12 @@ const WORDS_KO_B1 = [
       "en": "lean",
       "de": "lehnen",
       "es": "apoyarse",
-      "pl": "opierać się",
       "it": "appoggiarsi",
       "pt": "apoiar-se",
       "ja": "寄りかかる",
       "zh": "依靠",
-      "ru": "опираться"
+      "ru": "опираться",
+      "fr": "s'appuyer"
     },
     "examples": [],
     "meta": {
@@ -27452,12 +27451,12 @@ const WORDS_KO_B1 = [
       "en": "wake up",
       "de": "aufwachen",
       "es": "despertarse",
-      "pl": "obudzić się",
       "it": "svegliarsi",
       "pt": "acordar",
       "ja": "目を覚ます",
       "zh": "醒来",
-      "ru": "просыпаться"
+      "ru": "просыпаться",
+      "fr": "se réveiller"
     },
     "examples": [],
     "meta": {
@@ -27484,12 +27483,12 @@ const WORDS_KO_B1 = [
       "en": "be counted",
       "de": "gezählt werden",
       "es": "ser contado",
-      "pl": "być zaliczanym",
       "it": "essere contato",
       "pt": "ser contado",
       "ja": "数えられる",
       "zh": "被列为",
-      "ru": "быть причисленным"
+      "ru": "быть причисленным",
+      "fr": "être compté"
     },
     "examples": [],
     "meta": {
@@ -27516,12 +27515,12 @@ const WORDS_KO_B1 = [
       "en": "majority",
       "de": "die Mehrheit",
       "es": "la mayoría",
-      "pl": "większość",
       "it": "la maggioranza",
       "pt": "a maioria",
       "ja": "大多数",
       "zh": "绝大多数",
-      "ru": "большинство"
+      "ru": "большинство",
+      "fr": "majorité"
     },
     "examples": [],
     "meta": {
@@ -27547,12 +27546,12 @@ const WORDS_KO_B1 = [
       "en": "food",
       "de": "das Futter",
       "es": "el alimento",
-      "pl": "karma",
       "it": "il cibo",
       "pt": "a comida",
       "ja": "餌",
       "zh": "食物",
-      "ru": "корм"
+      "ru": "корм",
+      "fr": "nourriture"
     },
     "examples": [],
     "meta": {
@@ -27578,12 +27577,12 @@ const WORDS_KO_B1 = [
       "en": "free",
       "de": "kostenlos",
       "es": "gratis",
-      "pl": "bezpłatny",
       "it": "gratuito",
       "pt": "grátis",
       "ja": "無料",
       "zh": "免费",
-      "ru": "бесплатно"
+      "ru": "бесплатно",
+      "fr": "gratuit"
     },
     "examples": [],
     "meta": {
@@ -27609,12 +27608,12 @@ const WORDS_KO_B1 = [
       "en": "ballet",
       "de": "das Ballett",
       "es": "el ballet",
-      "pl": "balet",
       "it": "il balletto",
       "pt": "o balé",
       "ja": "バレエ",
       "zh": "芭蕾",
-      "ru": "балет"
+      "ru": "балет",
+      "fr": "ballet"
     },
     "examples": [],
     "meta": {
@@ -27640,12 +27639,12 @@ const WORDS_KO_B1 = [
       "en": "symbolize",
       "de": "symbolisieren",
       "es": "simbolizar",
-      "pl": "symbolizować",
       "it": "simboleggiare",
       "pt": "simbolizar",
       "ja": "象徴する",
       "zh": "象征",
-      "ru": "символизировать"
+      "ru": "символизировать",
+      "fr": "symboliser"
     },
     "examples": [],
     "meta": {
@@ -27672,12 +27671,12 @@ const WORDS_KO_B1 = [
       "en": "realize",
       "de": "verwirklichen",
       "es": "realizar",
-      "pl": "realizować",
       "it": "realizzare",
       "pt": "realizar",
       "ja": "実現する",
       "zh": "实现",
-      "ru": "реализовать"
+      "ru": "реализовать",
+      "fr": "se rendre compte"
     },
     "examples": [],
     "meta": {
@@ -27704,12 +27703,12 @@ const WORDS_KO_B1 = [
       "en": "regrettable",
       "de": "bedauerlich",
       "es": "lamentable",
-      "pl": "żałować",
       "it": "spiacevole",
       "pt": "lamentável",
       "ja": "惜しい",
       "zh": "可惜",
-      "ru": "жалко"
+      "ru": "жалко",
+      "fr": "regrettable"
     },
     "examples": [],
     "meta": {
@@ -27733,12 +27732,12 @@ const WORDS_KO_B1 = [
       "en": "stabilize",
       "de": "stabilisieren",
       "es": "estabilizarse",
-      "pl": "stabilizować się",
       "it": "stabilizzarsi",
       "pt": "estabilizar-se",
       "ja": "安定する",
       "zh": "稳定",
-      "ru": "стабилизироваться"
+      "ru": "стабилизироваться",
+      "fr": "se stabiliser"
     },
     "examples": [],
     "meta": {
@@ -27765,12 +27764,12 @@ const WORDS_KO_B1 = [
       "en": "foolish",
       "de": "dumm",
       "es": "tonto",
-      "pl": "głupi",
       "it": "stupido",
       "pt": "tolo",
       "ja": "愚かだ",
       "zh": "愚蠢",
-      "ru": "глупый"
+      "ru": "глупый",
+      "fr": "stupide"
     },
     "examples": [],
     "meta": {
@@ -27794,12 +27793,12 @@ const WORDS_KO_B1 = [
       "en": "lie down",
       "de": "sich hinlegen",
       "es": "tumbarse",
-      "pl": "położyć się",
       "it": "sdraiarsi",
       "pt": "deitar-se",
       "ja": "うつ伏せになる",
       "zh": "趴下",
-      "ru": "лечь"
+      "ru": "лечь",
+      "fr": "s'allonger"
     },
     "examples": [],
     "meta": {
@@ -27826,12 +27825,12 @@ const WORDS_KO_B1 = [
       "en": "many",
       "de": "viele",
       "es": "varios",
-      "pl": "wielu",
       "it": "molti",
       "pt": "muitos",
       "ja": "多数",
       "zh": "许多",
-      "ru": "много"
+      "ru": "много",
+      "fr": "beaucoup"
     },
     "examples": [],
     "meta": {
@@ -27857,12 +27856,12 @@ const WORDS_KO_B1 = [
       "en": "speech",
       "de": "die Rede",
       "es": "el discurso",
-      "pl": "przemówienie",
       "it": "il discorso",
       "pt": "o discurso",
       "ja": "演説",
       "zh": "演讲",
-      "ru": "речь"
+      "ru": "речь",
+      "fr": "discours"
     },
     "examples": [],
     "meta": {
@@ -27888,12 +27887,12 @@ const WORDS_KO_B1 = [
       "en": "worry",
       "de": "die Sorge",
       "es": "la preocupación",
-      "pl": "zmartwienie",
       "it": "la preoccupazione",
       "pt": "a preocupação",
       "ja": "心配",
       "zh": "担忧",
-      "ru": "беспокойство"
+      "ru": "беспокойство",
+      "fr": "inquiétude"
     },
     "examples": [],
     "meta": {
@@ -27919,12 +27918,12 @@ const WORDS_KO_B1 = [
       "en": "funny",
       "de": "lustig",
       "es": "gracioso",
-      "pl": "śmieszny",
       "it": "divertente",
       "pt": "engraçado",
       "ja": "おかしい",
       "zh": "好笑",
-      "ru": "смешной"
+      "ru": "смешной",
+      "fr": "drôle"
     },
     "examples": [],
     "meta": {
@@ -27949,12 +27948,12 @@ const WORDS_KO_B1 = [
       "en": "date",
       "de": "das Datum",
       "es": "la fecha",
-      "pl": "data",
       "it": "la data",
       "pt": "a data",
       "ja": "日付",
       "zh": "日期",
-      "ru": "дата"
+      "ru": "дата",
+      "fr": "date"
     },
     "examples": [],
     "meta": {
@@ -27980,12 +27979,12 @@ const WORDS_KO_B1 = [
       "en": "be delivered",
       "de": "geliefert werden",
       "es": "ser entregado",
-      "pl": "zostać dostarczonym",
       "it": "essere consegnato",
       "pt": "ser entregue",
       "ja": "届けられる",
       "zh": "被传达",
-      "ru": "быть доставленным"
+      "ru": "быть доставленным",
+      "fr": "être livré"
     },
     "examples": [],
     "meta": {
@@ -28012,12 +28011,12 @@ const WORDS_KO_B1 = [
       "en": "compartment",
       "de": "das Fach",
       "es": "el compartimento",
-      "pl": "przedział",
       "it": "il vano",
       "pt": "o compartimento",
       "ja": "部屋",
       "zh": "隔间",
-      "ru": "отсек"
+      "ru": "отсек",
+      "fr": "compartiment"
     },
     "examples": [],
     "meta": {
@@ -28043,12 +28042,12 @@ const WORDS_KO_B1 = [
       "en": "various",
       "de": "verschieden",
       "es": "varios",
-      "pl": "różne",
       "it": "vari",
       "pt": "vários",
       "ja": "色々",
       "zh": "各种",
-      "ru": "различный"
+      "ru": "различный",
+      "fr": "divers"
     },
     "examples": [],
     "meta": {
@@ -28074,12 +28073,12 @@ const WORDS_KO_B1 = [
       "en": "refuse",
       "de": "ablehnen",
       "es": "rechazar",
-      "pl": "odmówić",
       "it": "rifiutare",
       "pt": "recusar",
       "ja": "断る",
       "zh": "拒绝",
-      "ru": "отказаться"
+      "ru": "отказаться",
+      "fr": "refuser"
     },
     "examples": [],
     "meta": {
@@ -28106,12 +28105,12 @@ const WORDS_KO_B1 = [
       "en": "distinguish",
       "de": "unterscheiden",
       "es": "distinguir",
-      "pl": "rozróżniać",
       "it": "distinguere",
       "pt": "distinguir",
       "ja": "区別する",
       "zh": "区分",
-      "ru": "различать"
+      "ru": "различать",
+      "fr": "distinguer"
     },
     "examples": [],
     "meta": {
@@ -28138,12 +28137,12 @@ const WORDS_KO_B1 = [
       "en": "relief",
       "de": "die Erleichterung",
       "es": "el alivio",
-      "pl": "ulgę",
       "it": "il sollievo",
       "pt": "o alívio",
       "ja": "幸い",
       "zh": "庆幸",
-      "ru": "облегчение"
+      "ru": "облегчение",
+      "fr": "soulagement"
     },
     "examples": [],
     "meta": {
@@ -28169,12 +28168,12 @@ const WORDS_KO_B1 = [
       "en": "agreement",
       "de": "die Zustimmung",
       "es": "el acuerdo",
-      "pl": "zgoda",
       "it": "l'accordo",
       "pt": "o acordo",
       "ja": "同意",
       "zh": "同意",
-      "ru": "согласие"
+      "ru": "согласие",
+      "fr": "accord"
     },
     "examples": [],
     "meta": {
@@ -28200,12 +28199,12 @@ const WORDS_KO_B1 = [
       "en": "completion",
       "de": "der Abschluss",
       "es": "la finalización",
-      "pl": "zakończenie",
       "it": "il completamento",
       "pt": "a conclusão",
       "ja": "締めくくり",
       "zh": "收尾",
-      "ru": "завершение"
+      "ru": "завершение",
+      "fr": "achèvement"
     },
     "examples": [],
     "meta": {
@@ -28231,12 +28230,12 @@ const WORDS_KO_B1 = [
       "en": "encounter",
       "de": "begegnen",
       "es": "encontrarse con",
-      "pl": "spotkać",
       "it": "incontrare",
       "pt": "encontrar",
       "ja": "ばったり会う",
       "zh": "遇见",
-      "ru": "встретить"
+      "ru": "встретить",
+      "fr": "rencontrer"
     },
     "examples": [],
     "meta": {
@@ -28263,12 +28262,12 @@ const WORDS_KO_B1 = [
       "en": "torso",
       "de": "der Rumpf",
       "es": "el torso",
-      "pl": "tułów",
       "it": "il busto",
       "pt": "o tronco",
       "ja": "胴体",
       "zh": "躯干",
-      "ru": "туловище"
+      "ru": "туловище",
+      "fr": "torse"
     },
     "examples": [],
     "meta": {
@@ -28294,12 +28293,12 @@ const WORDS_KO_B1 = [
       "en": "nail",
       "de": "der Nagel",
       "es": "el clavo",
-      "pl": "gwóźdź",
       "it": "il chiodo",
       "pt": "o prego",
       "ja": "釘",
       "zh": "钉子",
-      "ru": "гвоздь"
+      "ru": "гвоздь",
+      "fr": "clou"
     },
     "examples": [],
     "meta": {
@@ -28325,12 +28324,12 @@ const WORDS_KO_B1 = [
       "en": "describe",
       "de": "beschreiben",
       "es": "describir",
-      "pl": "opisać",
       "it": "descrivere",
       "pt": "descrever",
       "ja": "描写する",
       "zh": "描述",
-      "ru": "описывать"
+      "ru": "описывать",
+      "fr": "décrire"
     },
     "examples": [],
     "meta": {
@@ -28357,12 +28356,12 @@ const WORDS_KO_B1 = [
       "en": "rest",
       "de": "legen",
       "es": "apoyar",
-      "pl": "położyć",
       "it": "appoggiare",
       "pt": "apoiar",
       "ja": "横たえる",
       "zh": "搁",
-      "ru": "класть"
+      "ru": "класть",
+      "fr": "reposer"
     },
     "examples": [],
     "meta": {
@@ -28389,12 +28388,12 @@ const WORDS_KO_B1 = [
       "en": "be guaranteed",
       "de": "garantiert sein",
       "es": "ser garantizado",
-      "pl": "być gwarantowanym",
       "it": "essere garantito",
       "pt": "ser garantido",
       "ja": "保証される",
       "zh": "得到保证",
-      "ru": "быть гарантированным"
+      "ru": "быть гарантированным",
+      "fr": "être garanti"
     },
     "examples": [],
     "meta": {
@@ -28421,12 +28420,12 @@ const WORDS_KO_B1 = [
       "en": "cheek",
       "de": "die Wange",
       "es": "la mejilla",
-      "pl": "policzek",
       "it": "la guancia",
       "pt": "a bochecha",
       "ja": "頬",
       "zh": "脸颊",
-      "ru": "щека"
+      "ru": "щека",
+      "fr": "joue"
     },
     "examples": [],
     "meta": {
@@ -28452,12 +28451,12 @@ const WORDS_KO_B1 = [
       "en": "partial",
       "de": "teilweise",
       "es": "parcial",
-      "pl": "częściowy",
       "it": "parziale",
       "pt": "parcial",
       "ja": "部分的",
       "zh": "部分的",
-      "ru": "частичный"
+      "ru": "частичный",
+      "fr": "partiel"
     },
     "examples": [],
     "meta": {
@@ -28481,12 +28480,12 @@ const WORDS_KO_B1 = [
       "en": "unhappiness",
       "de": "das Unglück",
       "es": "la desgracia",
-      "pl": "nieszczęście",
       "it": "l'infelicità",
       "pt": "a infelicidade",
       "ja": "不幸",
       "zh": "不幸",
-      "ru": "несчастье"
+      "ru": "несчастье",
+      "fr": "malheur"
     },
     "examples": [],
     "meta": {
@@ -28512,12 +28511,12 @@ const WORDS_KO_B1 = [
       "en": "scream",
       "de": "der Schrei",
       "es": "el grito",
-      "pl": "krzyk",
       "it": "l'urlo",
       "pt": "o grito",
       "ja": "悲鳴",
       "zh": "尖叫",
-      "ru": "крик"
+      "ru": "крик",
+      "fr": "cri"
     },
     "examples": [],
     "meta": {
@@ -28543,12 +28542,12 @@ const WORDS_KO_B1 = [
       "en": "purity",
       "de": "die Reinheit",
       "es": "la pureza",
-      "pl": "czystość",
       "it": "la purezza",
       "pt": "a pureza",
       "ja": "純粋",
       "zh": "纯洁",
-      "ru": "чистота"
+      "ru": "чистота",
+      "fr": "pureté"
     },
     "examples": [],
     "meta": {
@@ -28574,12 +28573,12 @@ const WORDS_KO_B1 = [
       "en": "substantial",
       "de": "substanziell",
       "es": "sustancial",
-      "pl": "rzeczywisty",
       "it": "sostanziale",
       "pt": "substancial",
       "ja": "実質的",
       "zh": "实质性的",
-      "ru": "существенный"
+      "ru": "существенный",
+      "fr": "substantiel"
     },
     "examples": [],
     "meta": {
@@ -28603,12 +28602,12 @@ const WORDS_KO_B1 = [
       "en": "fog",
       "de": "der Nebel",
       "es": "la niebla",
-      "pl": "mgła",
       "it": "la nebbia",
       "pt": "o nevoeiro",
       "ja": "霧",
       "zh": "雾",
-      "ru": "туман"
+      "ru": "туман",
+      "fr": "brouillard"
     },
     "examples": [],
     "meta": {
@@ -28634,12 +28633,12 @@ const WORDS_KO_B1 = [
       "en": "complete",
       "de": "vollenden",
       "es": "completar",
-      "pl": "ukończyć",
       "it": "completare",
       "pt": "completar",
       "ja": "完成する",
       "zh": "完成",
-      "ru": "завершать"
+      "ru": "завершать",
+      "fr": "achever"
     },
     "examples": [],
     "meta": {
@@ -28666,12 +28665,12 @@ const WORDS_KO_B1 = [
       "en": "mission",
       "de": "die Aufgabe",
       "es": "la misión",
-      "pl": "misja",
       "it": "la missione",
       "pt": "a missão",
       "ja": "任務",
       "zh": "任务",
-      "ru": "задание"
+      "ru": "задание",
+      "fr": "mission"
     },
     "examples": [],
     "meta": {
@@ -28697,12 +28696,12 @@ const WORDS_KO_B1 = [
       "en": "prank",
       "de": "der Scherz",
       "es": "la broma",
-      "pl": "żart",
       "it": "lo scherzo",
       "pt": "a brincadeira",
       "ja": "いたずら",
       "zh": "玩笑",
-      "ru": "шутка"
+      "ru": "шутка",
+      "fr": "farce"
     },
     "examples": [],
     "meta": {
@@ -28728,12 +28727,12 @@ const WORDS_KO_B1 = [
       "en": "exclusive use",
       "de": "die exklusive Nutzung",
       "es": "uso exclusivo",
-      "pl": "wyłączne użycie",
       "it": "uso esclusivo",
       "pt": "uso exclusivo",
       "ja": "専用",
       "zh": "专用",
-      "ru": "эксклюзивное использование"
+      "ru": "эксклюзивное использование",
+      "fr": "usage exclusif"
     },
     "examples": [],
     "meta": {
@@ -28759,12 +28758,12 @@ const WORDS_KO_B1 = [
       "en": "request",
       "de": "bitten",
       "es": "pedir",
-      "pl": "prosić",
       "it": "chiedere",
       "pt": "pedir",
       "ja": "頼む",
       "zh": "请求",
-      "ru": "просить"
+      "ru": "просить",
+      "fr": "demander"
     },
     "examples": [],
     "meta": {
@@ -28791,12 +28790,12 @@ const WORDS_KO_B1 = [
       "en": "confirmation",
       "de": "Bestätigung",
       "es": "confirmación",
-      "pl": "potwierdzenie",
       "it": "conferma",
       "pt": "confirmação",
       "ja": "確定",
       "zh": "确定",
-      "ru": "подтверждение"
+      "ru": "подтверждение",
+      "fr": "confirmation"
     },
     "examples": [],
     "meta": {
@@ -28822,12 +28821,12 @@ const WORDS_KO_B1 = [
       "en": "virtual",
       "de": "virtuell",
       "es": "virtual",
-      "pl": "wirtualny",
       "it": "virtuale",
       "pt": "virtual",
       "ja": "仮想",
       "zh": "虚拟",
-      "ru": "виртуальный"
+      "ru": "виртуальный",
+      "fr": "virtuel"
     },
     "examples": [],
     "meta": {
@@ -28853,12 +28852,12 @@ const WORDS_KO_B1 = [
       "en": "open",
       "de": "öffnen",
       "es": "abrir",
-      "pl": "otworzyć",
       "it": "aprire",
       "pt": "abrir",
       "ja": "開放する",
       "zh": "开放",
-      "ru": "открывать"
+      "ru": "открывать",
+      "fr": "ouvrir"
     },
     "examples": [],
     "meta": {
@@ -28885,12 +28884,12 @@ const WORDS_KO_B1 = [
       "en": "relate",
       "de": "beziehen",
       "es": "relacionar",
-      "pl": "dotyczyć",
       "it": "riguardare",
       "pt": "relacionar",
       "ja": "関係する",
       "zh": "有关",
-      "ru": "относиться"
+      "ru": "относиться",
+      "fr": "concerner"
     },
     "examples": [],
     "meta": {
@@ -28917,12 +28916,12 @@ const WORDS_KO_B1 = [
       "en": "domestic",
       "de": "inländisch",
       "es": "nacional",
-      "pl": "krajowy",
       "it": "nazionale",
       "pt": "nacional",
       "ja": "国産",
       "zh": "国产",
-      "ru": "отечественный"
+      "ru": "отечественный",
+      "fr": "domestique"
     },
     "examples": [],
     "meta": {
@@ -28948,12 +28947,12 @@ const WORDS_KO_B1 = [
       "en": "league",
       "de": "die Liga",
       "es": "la liga",
-      "pl": "liga",
       "it": "la lega",
       "pt": "a liga",
       "ja": "リーグ",
       "zh": "联赛",
-      "ru": "лига"
+      "ru": "лига",
+      "fr": "ligue"
     },
     "examples": [],
     "meta": {
@@ -28979,12 +28978,12 @@ const WORDS_KO_B1 = [
       "en": "microphone",
       "de": "das Mikrofon",
       "es": "el micrófono",
-      "pl": "mikrofon",
       "it": "il microfono",
       "pt": "o microfone",
       "ja": "マイク",
       "zh": "麦克风",
-      "ru": "микрофон"
+      "ru": "микрофон",
+      "fr": "microphone"
     },
     "examples": [],
     "meta": {
@@ -29010,12 +29009,12 @@ const WORDS_KO_B1 = [
       "en": "fill",
       "de": "füllen",
       "es": "llenar",
-      "pl": "wypełnić",
       "it": "riempire",
       "pt": "encher",
       "ja": "埋める",
       "zh": "填补",
-      "ru": "заполнять"
+      "ru": "заполнять",
+      "fr": "remplir"
     },
     "examples": [],
     "meta": {
@@ -29042,12 +29041,12 @@ const WORDS_KO_B1 = [
       "en": "area",
       "de": "die Fläche",
       "es": "el área",
-      "pl": "powierzchnia",
       "it": "l'area",
       "pt": "a área",
       "ja": "面積",
       "zh": "面积",
-      "ru": "площадь"
+      "ru": "площадь",
+      "fr": "zone"
     },
     "examples": [],
     "meta": {
@@ -29073,12 +29072,12 @@ const WORDS_KO_B1 = [
       "en": "reflection",
       "de": "Reflexion",
       "es": "reflexión",
-      "pl": "refleksja",
       "it": "riflessione",
       "pt": "reflexão",
       "ja": "反省",
       "zh": "反省",
-      "ru": "размышление"
+      "ru": "размышление",
+      "fr": "réflexion"
     },
     "examples": [],
     "meta": {
@@ -29104,12 +29103,12 @@ const WORDS_KO_B1 = [
       "en": "compensation",
       "de": "die Entschädigung",
       "es": "la compensación",
-      "pl": "rekompensata",
       "it": "il risarcimento",
       "pt": "a compensação",
       "ja": "補償",
       "zh": "补偿",
-      "ru": "компенсация"
+      "ru": "компенсация",
+      "fr": "compensation"
     },
     "examples": [],
     "meta": {
@@ -29135,12 +29134,12 @@ const WORDS_KO_B1 = [
       "en": "separate",
       "de": "trennen",
       "es": "separarse",
-      "pl": "rozdzielić się",
       "it": "separarsi",
       "pt": "separar-se",
       "ja": "分離される",
       "zh": "分离",
-      "ru": "разделяться"
+      "ru": "разделяться",
+      "fr": "séparer"
     },
     "examples": [],
     "meta": {
@@ -29167,12 +29166,12 @@ const WORDS_KO_B1 = [
       "en": "debt",
       "de": "die Schuld",
       "es": "la deuda",
-      "pl": "dług",
       "it": "il debito",
       "pt": "a dívida",
       "ja": "借金",
       "zh": "债务",
-      "ru": "долг"
+      "ru": "долг",
+      "fr": "dette"
     },
     "examples": [],
     "meta": {
@@ -29198,12 +29197,12 @@ const WORDS_KO_B1 = [
       "en": "engrave",
       "de": "schnitzen",
       "es": "grabar",
-      "pl": "rzeźbić",
       "it": "incidere",
       "pt": "gravar",
       "ja": "刻む",
       "zh": "雕刻",
-      "ru": "вырезать"
+      "ru": "вырезать",
+      "fr": "graver"
     },
     "examples": [],
     "meta": {
@@ -29230,12 +29229,12 @@ const WORDS_KO_B1 = [
       "en": "common people",
       "de": "einfache Leute",
       "es": "gente común",
-      "pl": "zwykli ludzie",
       "it": "gente comune",
       "pt": "pessoas comuns",
       "ja": "庶民",
       "zh": "平民",
-      "ru": "простые люди"
+      "ru": "простые люди",
+      "fr": "gens du commun"
     },
     "examples": [],
     "meta": {
@@ -29261,12 +29260,12 @@ const WORDS_KO_B1 = [
       "en": "select",
       "de": "auswählen",
       "es": "seleccionar",
-      "pl": "wybrać",
       "it": "selezionare",
       "pt": "selecionar",
       "ja": "選定する",
       "zh": "选定",
-      "ru": "отбирать"
+      "ru": "отбирать",
+      "fr": "choisir"
     },
     "examples": [],
     "meta": {
@@ -29293,12 +29292,12 @@ const WORDS_KO_B1 = [
       "en": "count",
       "de": "zählen",
       "es": "contar",
-      "pl": "liczyć",
       "it": "contare",
       "pt": "contar",
       "ja": "数える",
       "zh": "数",
-      "ru": "считать"
+      "ru": "считать",
+      "fr": "compter"
     },
     "examples": [],
     "meta": {
@@ -29325,12 +29324,12 @@ const WORDS_KO_B1 = [
       "en": "minority",
       "de": "die Minderheit",
       "es": "la minoría",
-      "pl": "mniejszość",
       "it": "la minoranza",
       "pt": "a minoria",
       "ja": "少数",
       "zh": "少数",
-      "ru": "меньшинство"
+      "ru": "меньшинство",
+      "fr": "minorité"
     },
     "examples": [],
     "meta": {
@@ -29356,12 +29355,12 @@ const WORDS_KO_B1 = [
       "en": "annual",
       "de": "jährlich",
       "es": "anual",
-      "pl": "roczny",
       "it": "annuale",
       "pt": "anual",
       "ja": "年間",
       "zh": "年度",
-      "ru": "годовой"
+      "ru": "годовой",
+      "fr": "annuel"
     },
     "examples": [],
     "meta": {
@@ -29387,12 +29386,12 @@ const WORDS_KO_B1 = [
       "en": "film festival",
       "de": "das Filmfestival",
       "es": "el festival de cine",
-      "pl": "festiwal filmowy",
       "it": "il festival del cinema",
       "pt": "o festival de cinema",
       "ja": "映画祭",
       "zh": "电影节",
-      "ru": "кинофестиваль"
+      "ru": "кинофестиваль",
+      "fr": "festival du film"
     },
     "examples": [],
     "meta": {
@@ -29418,12 +29417,12 @@ const WORDS_KO_B1 = [
       "en": "predict",
       "de": "vorhersagen",
       "es": "predecir",
-      "pl": "przewidywać",
       "it": "prevedere",
       "pt": "prever",
       "ja": "予測する",
       "zh": "预测",
-      "ru": "предсказывать"
+      "ru": "предсказывать",
+      "fr": "prédire"
     },
     "examples": [],
     "meta": {
@@ -29450,12 +29449,12 @@ const WORDS_KO_B1 = [
       "en": "use",
       "de": "der Verwendungszweck",
       "es": "el propósito",
-      "pl": "zastosowanie",
       "it": "l'uso",
       "pt": "o uso",
       "ja": "用途",
       "zh": "用途",
-      "ru": "назначение"
+      "ru": "назначение",
+      "fr": "utilisation"
     },
     "examples": [],
     "meta": {
@@ -29481,12 +29480,12 @@ const WORDS_KO_B1 = [
       "en": "doubt",
       "de": "der Zweifel",
       "es": "la duda",
-      "pl": "wątpliwość",
       "it": "il dubbio",
       "pt": "a dúvida",
       "ja": "疑い",
       "zh": "怀疑",
-      "ru": "сомнение"
+      "ru": "сомнение",
+      "fr": "doute"
     },
     "examples": [],
     "meta": {
@@ -29512,12 +29511,12 @@ const WORDS_KO_B1 = [
       "en": "move",
       "de": "sich bewegen",
       "es": "moverse",
-      "pl": "przemieszczać się",
       "it": "spostarsi",
       "pt": "mover-se",
       "ja": "移動する",
       "zh": "移动",
-      "ru": "перемещаться"
+      "ru": "перемещаться",
+      "fr": "se déplacer"
     },
     "examples": [],
     "meta": {
@@ -29544,12 +29543,12 @@ const WORDS_KO_B1 = [
       "en": "stimulate",
       "de": "anregen",
       "es": "estimular",
-      "pl": "stymulować",
       "it": "stimolare",
       "pt": "estimular",
       "ja": "刺激する",
       "zh": "刺激",
-      "ru": "стимулировать"
+      "ru": "стимулировать",
+      "fr": "stimuler"
     },
     "examples": [],
     "meta": {
@@ -29576,12 +29575,12 @@ const WORDS_KO_B1 = [
       "en": "suitable",
       "de": "geeignet",
       "es": "adecuado",
-      "pl": "odpowiedni",
       "it": "adatto",
       "pt": "adequado",
       "ja": "適している",
       "zh": "合适",
-      "ru": "подходящий"
+      "ru": "подходящий",
+      "fr": "approprié"
     },
     "examples": [],
     "meta": {
@@ -29605,12 +29604,12 @@ const WORDS_KO_B1 = [
       "en": "adjust",
       "de": "einstellen",
       "es": "ajustar",
-      "pl": "regulować",
       "it": "regolare",
       "pt": "ajustar",
       "ja": "調整する",
       "zh": "调节",
-      "ru": "регулировать"
+      "ru": "регулировать",
+      "fr": "ajuster"
     },
     "examples": [],
     "meta": {
@@ -29637,12 +29636,12 @@ const WORDS_KO_B1 = [
       "en": "adjustment",
       "de": "die Anpassung",
       "es": "el ajuste",
-      "pl": "dostosowanie",
       "it": "la regolazione",
       "pt": "o ajuste",
       "ja": "調整",
       "zh": "调整",
-      "ru": "корректировка"
+      "ru": "корректировка",
+      "fr": "ajustement"
     },
     "examples": [],
     "meta": {
@@ -29668,12 +29667,12 @@ const WORDS_KO_B1 = [
       "en": "mumble",
       "de": "murmeln",
       "es": "murmurar",
-      "pl": "mamrotać",
       "it": "mormorare",
       "pt": "resmungar",
       "ja": "つぶやく",
       "zh": "嘟囔",
-      "ru": "бормотать"
+      "ru": "бормотать",
+      "fr": "marmonner"
     },
     "examples": [],
     "meta": {
@@ -29700,12 +29699,12 @@ const WORDS_KO_B1 = [
       "en": "pay",
       "de": "bezahlen",
       "es": "pagar",
-      "pl": "płacić",
       "it": "pagare",
       "pt": "pagar",
       "ja": "支払う",
       "zh": "支付",
-      "ru": "платить"
+      "ru": "платить",
+      "fr": "payer"
     },
     "examples": [],
     "meta": {
@@ -29732,12 +29731,12 @@ const WORDS_KO_B1 = [
       "en": "expansion",
       "de": "die Erweiterung",
       "es": "la expansión",
-      "pl": "ekspansja",
       "it": "l'espansione",
       "pt": "a expansão",
       "ja": "拡張",
       "zh": "扩张",
-      "ru": "расширение"
+      "ru": "расширение",
+      "fr": "expansion"
     },
     "examples": [],
     "meta": {
@@ -29763,12 +29762,12 @@ const WORDS_KO_B1 = [
       "en": "energetic",
       "de": "kraftvoll",
       "es": "enérgico",
-      "pl": "energetyczny",
       "it": "energico",
       "pt": "enérgico",
       "ja": "力強い",
       "zh": "有力",
-      "ru": "энергичный"
+      "ru": "энергичный",
+      "fr": "énergique"
     },
     "examples": [],
     "meta": {
@@ -29792,12 +29791,12 @@ const WORDS_KO_B1 = [
       "en": "dryness",
       "de": "die Trockenheit",
       "es": "la sequedad",
-      "pl": "suchość",
       "it": "l'aridità",
       "pt": "a secura",
       "ja": "乾燥",
       "zh": "干燥",
-      "ru": "сухость"
+      "ru": "сухость",
+      "fr": "sécheresse"
     },
     "examples": [],
     "meta": {
@@ -29823,12 +29822,12 @@ const WORDS_KO_B1 = [
       "en": "calm",
       "de": "ruhig",
       "es": "tranquilo",
-      "pl": "spokojny",
       "it": "calmo",
       "pt": "calmo",
       "ja": "静かだ",
       "zh": "宁静",
-      "ru": "спокойный"
+      "ru": "спокойный",
+      "fr": "calme"
     },
     "examples": [],
     "meta": {
@@ -29852,12 +29851,12 @@ const WORDS_KO_B1 = [
       "en": "draw",
       "de": "ziehen",
       "es": "trazar",
-      "pl": "rysować",
       "it": "tracciare",
       "pt": "traçar",
       "ja": "引く",
       "zh": "画",
-      "ru": "чертить"
+      "ru": "чертить",
+      "fr": "dessiner"
     },
     "examples": [],
     "meta": {
@@ -29884,12 +29883,12 @@ const WORDS_KO_B1 = [
       "en": "pillar",
       "de": "der Pfeiler",
       "es": "el pilar",
-      "pl": "filar",
       "it": "il pilastro",
       "pt": "o pilar",
       "ja": "柱",
       "zh": "柱子",
-      "ru": "столб"
+      "ru": "столб",
+      "fr": "pilier"
     },
     "examples": [],
     "meta": {
@@ -29915,12 +29914,12 @@ const WORDS_KO_B1 = [
       "en": "sharp",
       "de": "spitz",
       "es": "afilado",
-      "pl": "ostry",
       "it": "appuntito",
       "pt": "afiado",
       "ja": "鋭い",
       "zh": "尖锐",
-      "ru": "острый"
+      "ru": "острый",
+      "fr": "aigu"
     },
     "examples": [],
     "meta": {
@@ -29944,12 +29943,12 @@ const WORDS_KO_B1 = [
       "en": "discuss",
       "de": "diskutieren",
       "es": "discutir",
-      "pl": "dyskutować",
       "it": "discutere",
       "pt": "discutir",
       "ja": "議論する",
       "zh": "讨论",
-      "ru": "обсуждать"
+      "ru": "обсуждать",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {
@@ -29976,12 +29975,12 @@ const WORDS_KO_B1 = [
       "en": "morality",
       "de": "die Moral",
       "es": "la moral",
-      "pl": "moralność",
       "it": "la morale",
       "pt": "a moral",
       "ja": "道徳",
       "zh": "道德",
-      "ru": "мора́ль"
+      "ru": "мора́ль",
+      "fr": "moralité"
     },
     "examples": [],
     "meta": {
@@ -30007,12 +30006,12 @@ const WORDS_KO_B1 = [
       "en": "east",
       "de": "der Osten",
       "es": "el este",
-      "pl": "wschód",
       "it": "l'est",
       "pt": "o leste",
       "ja": "東部",
       "zh": "东部",
-      "ru": "восток"
+      "ru": "восток",
+      "fr": "est"
     },
     "examples": [],
     "meta": {
@@ -30038,12 +30037,12 @@ const WORDS_KO_B1 = [
       "en": "back view",
       "de": "die Rückansicht",
       "es": "la vista trasera",
-      "pl": "tył",
       "it": "il retro",
       "pt": "a vista traseira",
       "ja": "後ろ姿",
       "zh": "背影",
-      "ru": "вид сзади"
+      "ru": "вид сзади",
+      "fr": "vue de dos"
     },
     "examples": [],
     "meta": {
@@ -30069,12 +30068,12 @@ const WORDS_KO_B1 = [
       "en": "easy",
       "de": "leicht",
       "es": "fácil",
-      "pl": "łatwy",
       "it": "facile",
       "pt": "fácil",
       "ja": "容易",
       "zh": "容易",
-      "ru": "легкий"
+      "ru": "легкий",
+      "fr": "facile"
     },
     "examples": [],
     "meta": {
@@ -30098,12 +30097,12 @@ const WORDS_KO_B1 = [
       "en": "bad",
       "de": "schlecht",
       "es": "malo",
-      "pl": "zły",
       "it": "cattivo",
       "pt": "mau",
       "ja": "悪い",
       "zh": "坏",
-      "ru": "плохой"
+      "ru": "плохой",
+      "fr": "mauvais"
     },
     "examples": [],
     "meta": {
@@ -30128,12 +30127,12 @@ const WORDS_KO_B1 = [
       "en": "report",
       "de": "berichten",
       "es": "informar",
-      "pl": "raportować",
       "it": "riferire",
       "pt": "relatar",
       "ja": "報告する",
       "zh": "报告",
-      "ru": "докладывать"
+      "ru": "докладывать",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {
@@ -30160,12 +30159,12 @@ const WORDS_KO_B1 = [
       "en": "office",
       "de": "das Büro",
       "es": "la oficina",
-      "pl": "biuro",
       "it": "l'ufficio",
       "pt": "o escritório",
       "ja": "事務所",
       "zh": "办公室",
-      "ru": "офис"
+      "ru": "офис",
+      "fr": "bureau"
     },
     "examples": [],
     "meta": {
@@ -30191,12 +30190,12 @@ const WORDS_KO_B1 = [
       "en": "merchant",
       "de": "der Kaufmann",
       "es": "el comerciante",
-      "pl": "kupiec",
       "it": "il mercante",
       "pt": "o comerciante",
       "ja": "商人",
       "zh": "商人",
-      "ru": "торговец"
+      "ru": "торговец",
+      "fr": "marchand"
     },
     "examples": [],
     "meta": {
@@ -30222,12 +30221,12 @@ const WORDS_KO_B1 = [
       "en": "declare",
       "de": "erklären",
       "es": "declarar",
-      "pl": "deklarować",
       "it": "dichiarare",
       "pt": "declarar",
       "ja": "宣言する",
       "zh": "宣布",
-      "ru": "объявлять"
+      "ru": "объявлять",
+      "fr": "déclarer"
     },
     "examples": [],
     "meta": {
@@ -30254,12 +30253,12 @@ const WORDS_KO_B1 = [
       "en": "wish",
       "de": "der Wunsch",
       "es": "el deseo",
-      "pl": "życzenie",
       "it": "il desiderio",
       "pt": "o desejo",
       "ja": "願い",
       "zh": "愿望",
-      "ru": "желание"
+      "ru": "желание",
+      "fr": "souhait"
     },
     "examples": [],
     "meta": {
@@ -30285,12 +30284,12 @@ const WORDS_KO_B1 = [
       "en": "peek",
       "de": "spähen",
       "es": "espiar",
-      "pl": "podglądać",
       "it": "spiare",
       "pt": "espiar",
       "ja": "覗く",
       "zh": "偷看",
-      "ru": "подглядывать"
+      "ru": "подглядывать",
+      "fr": "jeter un coup d'œil"
     },
     "examples": [],
     "meta": {
@@ -30317,12 +30316,12 @@ const WORDS_KO_B1 = [
       "en": "be completed",
       "de": "vollendet werden",
       "es": "ser completado",
-      "pl": "zostać ukończonym",
       "it": "essere completato",
       "pt": "ser completado",
       "ja": "完成する",
       "zh": "完成",
-      "ru": "быть завершенным"
+      "ru": "быть завершенным",
+      "fr": "être achevé"
     },
     "examples": [],
     "meta": {
@@ -30349,12 +30348,12 @@ const WORDS_KO_B1 = [
       "en": "ruins",
       "de": "die Ruinen",
       "es": "las ruinas",
-      "pl": "ruiny",
       "it": "le rovine",
       "pt": "as ruínas",
       "ja": "遺跡",
       "zh": "遗迹",
-      "ru": "руины"
+      "ru": "руины",
+      "fr": "ruines"
     },
     "examples": [],
     "meta": {
@@ -30381,12 +30380,12 @@ const WORDS_KO_B1 = [
       "en": "lifetime",
       "de": "das Leben",
       "es": "la vida",
-      "pl": "życie",
       "it": "la vita",
       "pt": "a vida",
       "ja": "一生",
       "zh": "一生",
-      "ru": "жизнь"
+      "ru": "жизнь",
+      "fr": "durée de vie"
     },
     "examples": [],
     "meta": {
@@ -30412,12 +30411,12 @@ const WORDS_KO_B1 = [
       "en": "dress",
       "de": "anziehen",
       "es": "vestir",
-      "pl": "ubierać",
       "it": "vestire",
       "pt": "vestir",
       "ja": "着せる",
       "zh": "给穿上",
-      "ru": "одевать"
+      "ru": "одевать",
+      "fr": "habiller"
     },
     "examples": [],
     "meta": {
@@ -30444,12 +30443,12 @@ const WORDS_KO_B1 = [
       "en": "catch and eat",
       "de": "fangen und essen",
       "es": "atrapar y comer",
-      "pl": "złapać i zjeść",
       "it": "catturare e mangiare",
       "pt": "capturar e comer",
       "ja": "捕まえて食べる",
       "zh": "捕食",
-      "ru": "ловить и есть"
+      "ru": "ловить и есть",
+      "fr": "attraper et manger"
     },
     "examples": [],
     "meta": {
@@ -30476,12 +30475,12 @@ const WORDS_KO_B1 = [
       "en": "informatization",
       "de": "Informationsgesellschaft",
       "es": "informatización",
-      "pl": "informatyzacja",
       "it": "informatizzazione",
       "pt": "informatização",
       "ja": "情報化",
       "zh": "信息化",
-      "ru": "информатизация"
+      "ru": "информатизация",
+      "fr": "informatisation"
     },
     "examples": [],
     "meta": {
@@ -30507,12 +30506,12 @@ const WORDS_KO_B1 = [
       "en": "creation",
       "de": "die Schöpfung",
       "es": "la creación",
-      "pl": "twórczość",
       "it": "la creazione",
       "pt": "a criação",
       "ja": "創作",
       "zh": "创作",
-      "ru": "творчество"
+      "ru": "творчество",
+      "fr": "création"
     },
     "examples": [],
     "meta": {
@@ -30538,12 +30537,12 @@ const WORDS_KO_B1 = [
       "en": "reduction",
       "de": "die Verkleinerung",
       "es": "la reducción",
-      "pl": "redukcja",
       "it": "la riduzione",
       "pt": "a redução",
       "ja": "縮小",
       "zh": "缩小",
-      "ru": "сокращение"
+      "ru": "сокращение",
+      "fr": "réduction"
     },
     "examples": [],
     "meta": {
@@ -30569,12 +30568,12 @@ const WORDS_KO_B1 = [
       "en": "taste",
       "de": "der Geschmack",
       "es": "el gusto",
-      "pl": "gust",
       "it": "il gusto",
       "pt": "o gosto",
       "ja": "好み",
       "zh": "品味",
-      "ru": "вкус"
+      "ru": "вкус",
+      "fr": "goût"
     },
     "examples": [],
     "meta": {
@@ -30600,12 +30599,12 @@ const WORDS_KO_B1 = [
       "en": "be born",
       "de": "geboren werden",
       "es": "nacer",
-      "pl": "narodzić się",
       "it": "nascere",
       "pt": "nascer",
       "ja": "誕生する",
       "zh": "诞生",
-      "ru": "родиться"
+      "ru": "родиться",
+      "fr": "naître"
     },
     "examples": [],
     "meta": {
@@ -30633,12 +30632,12 @@ const WORDS_KO_B1 = [
       "en": "class",
       "de": "die Klasse",
       "es": "la clase",
-      "pl": "klasa",
       "it": "la classe",
       "pt": "a turma",
       "ja": "学級",
       "zh": "班级",
-      "ru": "класс"
+      "ru": "класс",
+      "fr": "classe"
     },
     "examples": [],
     "meta": {
@@ -30664,12 +30663,12 @@ const WORDS_KO_B1 = [
       "en": "navy",
       "de": "die Marine",
       "es": "la marina",
-      "pl": "marynarka",
       "it": "la marina",
       "pt": "a marinha",
       "ja": "海軍",
       "zh": "海军",
-      "ru": "военно-морской флот"
+      "ru": "военно-морской флот",
+      "fr": "marine"
     },
     "examples": [],
     "meta": {
@@ -30695,12 +30694,12 @@ const WORDS_KO_B1 = [
       "en": "efficient",
       "de": "effizient",
       "es": "eficiente",
-      "pl": "wydajny",
       "it": "efficiente",
       "pt": "eficiente",
       "ja": "効率的",
       "zh": "高效",
-      "ru": "эффективный"
+      "ru": "эффективный",
+      "fr": "efficace"
     },
     "examples": [],
     "meta": {
@@ -30724,12 +30723,12 @@ const WORDS_KO_B1 = [
       "en": "signboard",
       "de": "das Schild",
       "es": "el letrero",
-      "pl": "szyld",
       "it": "l'insegna",
       "pt": "a placa",
       "ja": "看板",
       "zh": "招牌",
-      "ru": "вывеска"
+      "ru": "вывеска",
+      "fr": "enseigne"
     },
     "examples": [],
     "meta": {
@@ -30755,12 +30754,12 @@ const WORDS_KO_B1 = [
       "en": "touch",
       "de": "berühren",
       "es": "tocar",
-      "pl": "dotykać",
       "it": "toccare",
       "pt": "tocar",
       "ja": "触る",
       "zh": "碰",
-      "ru": "трогать"
+      "ru": "трогать",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {
@@ -30787,12 +30786,12 @@ const WORDS_KO_B1 = [
       "en": "manage",
       "de": "verwalten",
       "es": "administrar",
-      "pl": "zarządzać",
       "it": "gestire",
       "pt": "gerenciar",
       "ja": "管理する",
       "zh": "管理",
-      "ru": "управлять"
+      "ru": "управлять",
+      "fr": "gérer"
     },
     "examples": [],
     "meta": {
@@ -30819,12 +30818,12 @@ const WORDS_KO_B1 = [
       "en": "suffering",
       "de": "das Leid",
       "es": "el sufrimiento",
-      "pl": "cierpienie",
       "it": "la sofferenza",
       "pt": "o sofrimento",
       "ja": "苦しみ",
       "zh": "痛苦",
-      "ru": "страдание"
+      "ru": "страдание",
+      "fr": "souffrance"
     },
     "examples": [],
     "meta": {
@@ -30850,12 +30849,12 @@ const WORDS_KO_B1 = [
       "en": "be based on",
       "de": "basieren auf",
       "es": "basarse en",
-      "pl": "opierać się na",
       "it": "basarsi su",
       "pt": "basear-se em",
       "ja": "根拠する",
       "zh": "基于",
-      "ru": "основываться на"
+      "ru": "основываться на",
+      "fr": "se baser sur"
     },
     "examples": [],
     "meta": {
@@ -30882,12 +30881,12 @@ const WORDS_KO_B1 = [
       "en": "amount",
       "de": "der Betrag",
       "es": "la cantidad",
-      "pl": "kwota",
       "it": "l'importo",
       "pt": "o valor",
       "ja": "金額",
       "zh": "金额",
-      "ru": "сумма"
+      "ru": "сумма",
+      "fr": "montant"
     },
     "examples": [],
     "meta": {
@@ -30913,12 +30912,12 @@ const WORDS_KO_B1 = [
       "en": "comfort",
       "de": "trösten",
       "es": "consolar",
-      "pl": "pocieszać",
       "it": "consolare",
       "pt": "consolar",
       "ja": "なだめる",
       "zh": "安慰",
-      "ru": "утешать"
+      "ru": "утешать",
+      "fr": "réconforter"
     },
     "examples": [],
     "meta": {
@@ -30945,12 +30944,12 @@ const WORDS_KO_B1 = [
       "en": "mind",
       "de": "der Sinn",
       "es": "la mente",
-      "pl": "umysł",
       "it": "la mente",
       "pt": "a mente",
       "ja": "心",
       "zh": "心",
-      "ru": "разум"
+      "ru": "разум",
+      "fr": "esprit"
     },
     "examples": [],
     "meta": {
@@ -30976,12 +30975,12 @@ const WORDS_KO_B1 = [
       "en": "reveal",
       "de": "aufdecken",
       "es": "revelar",
-      "pl": "ujawnić",
       "it": "rivelare",
       "pt": "revelar",
       "ja": "明らかにする",
       "zh": "揭露",
-      "ru": "раскрывать"
+      "ru": "раскрывать",
+      "fr": "révéler"
     },
     "examples": [],
     "meta": {
@@ -31008,12 +31007,12 @@ const WORDS_KO_B1 = [
       "en": "break",
       "de": "zerbrechen",
       "es": "romperse",
-      "pl": "złamać się",
       "it": "rompersi",
       "pt": "quebrar",
       "ja": "壊れる",
       "zh": "破碎",
-      "ru": "ломаться"
+      "ru": "ломаться",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {
@@ -31041,12 +31040,12 @@ const WORDS_KO_B1 = [
       "en": "misconduct",
       "de": "Fehlverhalten",
       "es": "mala conducta",
-      "pl": "niewłaściwe zachowanie",
       "it": "cattiva condotta",
       "pt": "má conduta",
       "ja": "不正行為",
       "zh": "不当行为",
-      "ru": "неправомерное поведение"
+      "ru": "неправомерное поведение",
+      "fr": "faute"
     },
     "examples": [],
     "meta": {
@@ -31072,12 +31071,12 @@ const WORDS_KO_B1 = [
       "en": "irrelevant",
       "de": "irrelevant",
       "es": "irrelevante",
-      "pl": "nieistotny",
       "it": "irrilevante",
       "pt": "irrelevante",
       "ja": "関係ない",
       "zh": "无关紧要",
-      "ru": "неважно"
+      "ru": "неважно",
+      "fr": "non pertinent"
     },
     "examples": [],
     "meta": {
@@ -31101,12 +31100,12 @@ const WORDS_KO_B1 = [
       "en": "establish",
       "de": "etablieren",
       "es": "establecer",
-      "pl": "ustanowić",
       "it": "stabilire",
       "pt": "estabelecer",
       "ja": "成立する",
       "zh": "成立",
-      "ru": "учреждать"
+      "ru": "учреждать",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {
@@ -31133,12 +31132,12 @@ const WORDS_KO_B1 = [
       "en": "lifespan",
       "de": "Lebensdauer",
       "es": "vida útil",
-      "pl": "żywotność",
       "it": "durata della vita",
       "pt": "vida útil",
       "ja": "寿命",
       "zh": "寿命",
-      "ru": "срок службы"
+      "ru": "срок службы",
+      "fr": "durée de vie"
     },
     "examples": [],
     "meta": {
@@ -31164,12 +31163,12 @@ const WORDS_KO_B1 = [
       "en": "season",
       "de": "Saison",
       "es": "temporada",
-      "pl": "sezon",
       "it": "stagione",
       "pt": "temporada",
       "ja": "シーズン",
       "zh": "赛季",
-      "ru": "сезон"
+      "ru": "сезон",
+      "fr": "saison"
     },
     "examples": [],
     "meta": {
@@ -31195,12 +31194,12 @@ const WORDS_KO_B1 = [
       "en": "amazing",
       "de": "erstaunlich",
       "es": "asombroso",
-      "pl": "niesamowity",
       "it": "sorprendente",
       "pt": "surpreendente",
       "ja": "不思議だ",
       "zh": "神奇",
-      "ru": "удивительный"
+      "ru": "удивительный",
+      "fr": "incroyable"
     },
     "examples": [],
     "meta": {
@@ -31224,12 +31223,12 @@ const WORDS_KO_B1 = [
       "en": "carry on back",
       "de": "auf dem Rücken tragen",
       "es": "llevar en la espalda",
-      "pl": "nieść na plecach",
       "it": "portare sulla schiena",
       "pt": "carregar nas costas",
       "ja": "背負う",
       "zh": "背负",
-      "ru": "нести на спине"
+      "ru": "нести на спине",
+      "fr": "porter sur le dos"
     },
     "examples": [],
     "meta": {
@@ -31256,12 +31255,12 @@ const WORDS_KO_B1 = [
       "en": "premonition",
       "de": "Vorahnung",
       "es": "presentimiento",
-      "pl": "przeczucie",
       "it": "presagio",
       "pt": "pressentimento",
       "ja": "予感",
       "zh": "预感",
-      "ru": "предчувствие"
+      "ru": "предчувствие",
+      "fr": "prémonition"
     },
     "examples": [],
     "meta": {
@@ -31287,12 +31286,12 @@ const WORDS_KO_B1 = [
       "en": "food",
       "de": "Nahrungsmittel",
       "es": "alimentos",
-      "pl": "żywność",
       "it": "alimenti",
       "pt": "alimentos",
       "ja": "飲食物",
       "zh": "食物",
-      "ru": "пища"
+      "ru": "пища",
+      "fr": "nourriture"
     },
     "examples": [],
     "meta": {
@@ -31318,12 +31317,12 @@ const WORDS_KO_B1 = [
       "en": "confidence",
       "de": "Selbstvertrauen",
       "es": "confianza",
-      "pl": "pewność siebie",
       "it": "fiducia",
       "pt": "confiança",
       "ja": "自信",
       "zh": "自信",
-      "ru": "уверенность"
+      "ru": "уверенность",
+      "fr": "confiance"
     },
     "examples": [],
     "meta": {
@@ -31349,12 +31348,12 @@ const WORDS_KO_B1 = [
       "en": "sinner",
       "de": "Sünder",
       "es": "pecador",
-      "pl": "grzesznik",
       "it": "peccatore",
       "pt": "pecador",
       "ja": "罪人",
       "zh": "罪人",
-      "ru": "грешник"
+      "ru": "грешник",
+      "fr": "pécheur"
     },
     "examples": [],
     "meta": {
@@ -31381,12 +31380,12 @@ const WORDS_KO_B1 = [
       "en": "be careful",
       "de": "aufpassen",
       "es": "tener cuidado",
-      "pl": "uważać",
       "it": "fare attenzione",
       "pt": "ter cuidado",
       "ja": "注意する",
       "zh": "注意",
-      "ru": "быть осторожным"
+      "ru": "быть осторожным",
+      "fr": "faire attention"
     },
     "examples": [],
     "meta": {
@@ -31413,12 +31412,12 @@ const WORDS_KO_B1 = [
       "en": "fabric",
       "de": "Stoff",
       "es": "tela",
-      "pl": "tkanina",
       "it": "tessuto",
       "pt": "tecido",
       "ja": "布",
       "zh": "布料",
-      "ru": "ткань"
+      "ru": "ткань",
+      "fr": "tissu"
     },
     "examples": [],
     "meta": {
@@ -31444,12 +31443,12 @@ const WORDS_KO_B1 = [
       "en": "pleasure",
       "de": "Vergnügen",
       "es": "placer",
-      "pl": "przyjemność",
       "it": "piacere",
       "pt": "prazer",
       "ja": "快感",
       "zh": "快感",
-      "ru": "удовольствие"
+      "ru": "удовольствие",
+      "fr": "plaisir"
     },
     "examples": [],
     "meta": {
@@ -31475,12 +31474,12 @@ const WORDS_KO_B1 = [
       "en": "birth",
       "de": "Geburt",
       "es": "nacimiento",
-      "pl": "narodziny",
       "it": "nascita",
       "pt": "nascimento",
       "ja": "誕生",
       "zh": "诞生",
-      "ru": "рождение"
+      "ru": "рождение",
+      "fr": "naissance"
     },
     "examples": [],
     "meta": {
@@ -31506,12 +31505,12 @@ const WORDS_KO_B1 = [
       "en": "splash",
       "de": "spritzen",
       "es": "salpicar",
-      "pl": "pryskać",
       "it": "spruzzare",
       "pt": "salpicar",
       "ja": "跳ぶ",
       "zh": "溅",
-      "ru": "брызгать"
+      "ru": "брызгать",
+      "fr": "éclabousser"
     },
     "examples": [],
     "meta": {
@@ -31538,12 +31537,12 @@ const WORDS_KO_B1 = [
       "en": "utilization",
       "de": "Nutzung",
       "es": "utilización",
-      "pl": "wykorzystanie",
       "it": "utilizzo",
       "pt": "utilização",
       "ja": "活用",
       "zh": "利用",
-      "ru": "использование"
+      "ru": "использование",
+      "fr": "utilisation"
     },
     "examples": [],
     "meta": {
@@ -31569,12 +31568,12 @@ const WORDS_KO_B1 = [
       "en": "large sum",
       "de": "hohe Summe",
       "es": "gran suma",
-      "pl": "duża suma",
       "it": "grossa somma",
       "pt": "soma elevada",
       "ja": "巨額",
       "zh": "巨款",
-      "ru": "крупная сумма"
+      "ru": "крупная сумма",
+      "fr": "grosse somme"
     },
     "examples": [],
     "meta": {
@@ -31600,12 +31599,12 @@ const WORDS_KO_B1 = [
       "en": "insist",
       "de": "bestehen",
       "es": "insistir",
-      "pl": "nalegać",
       "it": "insistere",
       "pt": "insistir",
       "ja": "固執する",
       "zh": "坚持",
-      "ru": "настаивать"
+      "ru": "настаивать",
+      "fr": "insister"
     },
     "examples": [],
     "meta": {
@@ -31632,12 +31631,12 @@ const WORDS_KO_B1 = [
       "en": "valley",
       "de": "das Tal",
       "es": "el valle",
-      "pl": "dolina",
       "it": "la valle",
       "pt": "o vale",
       "ja": "谷",
       "zh": "山谷",
-      "ru": "долина"
+      "ru": "долина",
+      "fr": "vallée"
     },
     "examples": [],
     "meta": {
@@ -31663,12 +31662,12 @@ const WORDS_KO_B1 = [
       "en": "lesson",
       "de": "die Lehre",
       "es": "la lección",
-      "pl": "lekcja",
       "it": "la lezione",
       "pt": "a lição",
       "ja": "教訓",
       "zh": "教训",
-      "ru": "урок"
+      "ru": "урок",
+      "fr": "leçon"
     },
     "examples": [],
     "meta": {
@@ -31694,12 +31693,12 @@ const WORDS_KO_B1 = [
       "en": "roll",
       "de": "rollen",
       "es": "rodar",
-      "pl": "toczyć się",
       "it": "rotolare",
       "pt": "rolar",
       "ja": "転がる",
       "zh": "滚动",
-      "ru": "катиться"
+      "ru": "катиться",
+      "fr": "rouler"
     },
     "examples": [],
     "meta": {
@@ -31726,12 +31725,12 @@ const WORDS_KO_B1 = [
       "en": "short story",
       "de": "die Kurzgeschichte",
       "es": "el cuento corto",
-      "pl": "opowiadanie",
       "it": "il racconto breve",
       "pt": "o conto",
       "ja": "短編",
       "zh": "短篇",
-      "ru": "новелла"
+      "ru": "новелла",
+      "fr": "nouvelle"
     },
     "examples": [],
     "meta": {
@@ -31757,12 +31756,12 @@ const WORDS_KO_B1 = [
       "en": "cope",
       "de": "bewältigen",
       "es": "hacer frente",
-      "pl": "radzić sobie",
       "it": "affrontare",
       "pt": "lidar",
       "ja": "対処する",
       "zh": "应对",
-      "ru": "справляться"
+      "ru": "справляться",
+      "fr": "faire face"
     },
     "examples": [],
     "meta": {
@@ -31789,12 +31788,12 @@ const WORDS_KO_B1 = [
       "en": "clear",
       "de": "klar",
       "es": "claro",
-      "pl": "jasny",
       "it": "chiaro",
       "pt": "claro",
       "ja": "明確だ",
       "zh": "明确",
-      "ru": "ясный"
+      "ru": "ясный",
+      "fr": "clair"
     },
     "examples": [],
     "meta": {
@@ -31818,12 +31817,12 @@ const WORDS_KO_B1 = [
       "en": "footstep",
       "de": "der Schritt",
       "es": "el paso",
-      "pl": "krok",
       "it": "il passo",
       "pt": "o passo",
       "ja": "足取り",
       "zh": "脚步",
-      "ru": "шаг"
+      "ru": "шаг",
+      "fr": "pas"
     },
     "examples": [],
     "meta": {
@@ -31850,12 +31849,12 @@ const WORDS_KO_B1 = [
       "en": "way",
       "de": "der Weg",
       "es": "el camino",
-      "pl": "droga",
       "it": "la via",
       "pt": "o caminho",
       "ja": "足跡",
       "zh": "足迹",
-      "ru": "след"
+      "ru": "след",
+      "fr": "chemin"
     },
     "examples": [],
     "meta": {
@@ -31881,12 +31880,12 @@ const WORDS_KO_B1 = [
       "en": "be robbed",
       "de": "beraubt werden",
       "es": "ser robado",
-      "pl": "zostać okradzionym",
       "it": "essere derubato",
       "pt": "ser roubado",
       "ja": "奪われる",
       "zh": "被夺走",
-      "ru": "быть ограбленным"
+      "ru": "быть ограбленным",
+      "fr": "être volé"
     },
     "examples": [],
     "meta": {
@@ -31913,12 +31912,12 @@ const WORDS_KO_B1 = [
       "en": "producer",
       "de": "der Produzent",
       "es": "el productor",
-      "pl": "producent",
       "it": "il produttore",
       "pt": "o produtor",
       "ja": "生産者",
       "zh": "生产者",
-      "ru": "производитель"
+      "ru": "производитель",
+      "fr": "producteur"
     },
     "examples": [],
     "meta": {
@@ -31944,12 +31943,12 @@ const WORDS_KO_B1 = [
       "en": "advanced",
       "de": "fortschrittlich",
       "es": "avanzado",
-      "pl": "zaawansowany",
       "it": "avanzato",
       "pt": "avançado",
       "ja": "先進",
       "zh": "先进",
-      "ru": "передовой"
+      "ru": "передовой",
+      "fr": "avancé"
     },
     "examples": [],
     "meta": {
@@ -31975,12 +31974,12 @@ const WORDS_KO_B1 = [
       "en": "sleeve",
       "de": "der Ärmel",
       "es": "la manga",
-      "pl": "rękaw",
       "it": "la manica",
       "pt": "a manga",
       "ja": "袖",
       "zh": "袖子",
-      "ru": "рукав"
+      "ru": "рукав",
+      "fr": "manche"
     },
     "examples": [],
     "meta": {
@@ -32006,12 +32005,12 @@ const WORDS_KO_B1 = [
       "en": "cement",
       "de": "der Zement",
       "es": "el cemento",
-      "pl": "cement",
       "it": "il cemento",
       "pt": "o cimento",
       "ja": "セメント",
       "zh": "水泥",
-      "ru": "цемент"
+      "ru": "цемент",
+      "fr": "ciment"
     },
     "examples": [],
     "meta": {
@@ -32037,12 +32036,12 @@ const WORDS_KO_B1 = [
       "en": "new",
       "de": "neu",
       "es": "nuevo",
-      "pl": "nowy",
       "it": "nuovo",
       "pt": "novo",
       "ja": "新規",
       "zh": "新",
-      "ru": "новый"
+      "ru": "новый",
+      "fr": "nouveau"
     },
     "examples": [],
     "meta": {
@@ -32068,12 +32067,12 @@ const WORDS_KO_B1 = [
       "en": "apply",
       "de": "beantragen",
       "es": "solicitar",
-      "pl": "aplikować",
       "it": "fare domanda",
       "pt": "solicitar",
       "ja": "申し込む",
       "zh": "申请",
-      "ru": "подавать заявление"
+      "ru": "подавать заявление",
+      "fr": "appliquer"
     },
     "examples": [],
     "meta": {
@@ -32100,12 +32099,12 @@ const WORDS_KO_B1 = [
       "en": "referee",
       "de": "der Schiedsrichter",
       "es": "el árbitro",
-      "pl": "sędzia",
       "it": "l'arbitro",
       "pt": "o árbitro",
       "ja": "審判",
       "zh": "裁判",
-      "ru": "судья"
+      "ru": "судья",
+      "fr": "arbitre"
     },
     "examples": [],
     "meta": {
@@ -32132,12 +32131,12 @@ const WORDS_KO_B1 = [
       "en": "be held",
       "de": "umarmt werden",
       "es": "ser abrazado",
-      "pl": "być przytulonym",
       "it": "essere abbracciato",
       "pt": "ser abraçado",
       "ja": "抱かれる",
       "zh": "被抱",
-      "ru": "быть обнятым"
+      "ru": "быть обнятым",
+      "fr": "être tenu"
     },
     "examples": [],
     "meta": {
@@ -32164,12 +32163,12 @@ const WORDS_KO_B1 = [
       "en": "conscience",
       "de": "das Gewissen",
       "es": "la conciencia",
-      "pl": "sumienie",
       "it": "la coscienza",
       "pt": "a consciência",
       "ja": "良心",
       "zh": "良心",
-      "ru": "совесть"
+      "ru": "совесть",
+      "fr": "conscience"
     },
     "examples": [],
     "meta": {
@@ -32195,12 +32194,12 @@ const WORDS_KO_B1 = [
       "en": "chairman",
       "de": "der Vorstandsvorsitzende",
       "es": "el presidente",
-      "pl": "przewodniczący rady",
       "it": "il presidente del consiglio",
       "pt": "o presidente do conselho",
       "ja": "理事長",
       "zh": "理事长",
-      "ru": "председатель правления"
+      "ru": "председатель правления",
+      "fr": "président"
     },
     "examples": [],
     "meta": {
@@ -32226,12 +32225,12 @@ const WORDS_KO_B1 = [
       "en": "interest",
       "de": "die Zinsen",
       "es": "el interés",
-      "pl": "odsetki",
       "it": "l'interesse",
       "pt": "o juro",
       "ja": "利子",
       "zh": "利息",
-      "ru": "процент"
+      "ru": "процент",
+      "fr": "intérêts"
     },
     "examples": [],
     "meta": {
@@ -32257,12 +32256,12 @@ const WORDS_KO_B1 = [
       "en": "detailed",
       "de": "detailliert",
       "es": "detallado",
-      "pl": "szczegółowy",
       "it": "dettagliato",
       "pt": "detalhado",
       "ja": "詳しい",
       "zh": "详细",
-      "ru": "подробный"
+      "ru": "подробный",
+      "fr": "détaillé"
     },
     "examples": [],
     "meta": {
@@ -32286,12 +32285,12 @@ const WORDS_KO_B1 = [
       "en": "swallow",
       "de": "die Schwalbe",
       "es": "la golondrina",
-      "pl": "jaskółka",
       "it": "la rondine",
       "pt": "a andorinha",
       "ja": "ツバメ",
       "zh": "燕子",
-      "ru": "ласточка"
+      "ru": "ласточка",
+      "fr": "hirondelle"
     },
     "examples": [],
     "meta": {
@@ -32317,12 +32316,12 @@ const WORDS_KO_B1 = [
       "en": "proposal",
       "de": "der Vorschlag",
       "es": "la propuesta",
-      "pl": "propozycja",
       "it": "la proposta",
       "pt": "a proposta",
       "ja": "提案",
       "zh": "提议",
-      "ru": "предложение"
+      "ru": "предложение",
+      "fr": "proposition"
     },
     "examples": [],
     "meta": {
@@ -32348,12 +32347,12 @@ const WORDS_KO_B1 = [
       "en": "propose",
       "de": "vorschlagen",
       "es": "proponer",
-      "pl": "proponować",
       "it": "proporre",
       "pt": "propor",
       "ja": "提案する",
       "zh": "提议",
-      "ru": "предлагать"
+      "ru": "предлагать",
+      "fr": "proposer"
     },
     "examples": [],
     "meta": {
@@ -32380,12 +32379,12 @@ const WORDS_KO_B1 = [
       "en": "past days",
       "de": "die vergangenen Tage",
       "es": "los días pasados",
-      "pl": "minione dni",
       "it": "i giorni passati",
       "pt": "os dias passados",
       "ja": "過去の日",
       "zh": "往昔",
-      "ru": "прошедшие дни"
+      "ru": "прошедшие дни",
+      "fr": "les jours passés"
     },
     "examples": [],
     "meta": {
@@ -32411,12 +32410,12 @@ const WORDS_KO_B1 = [
       "en": "promotion",
       "de": "die Beförderung",
       "es": "el ascenso",
-      "pl": "awans",
       "it": "la promozione",
       "pt": "a promoção",
       "ja": "昇進",
       "zh": "晋升",
-      "ru": "повышение"
+      "ru": "повышение",
+      "fr": "promotion"
     },
     "examples": [],
     "meta": {
@@ -32442,12 +32441,12 @@ const WORDS_KO_B1 = [
       "en": "stick out",
       "de": "hervorragen",
       "es": "sobresalir",
-      "pl": "wystawać",
       "it": "sporgere",
       "pt": "sobressair",
       "ja": "飛び出す",
       "zh": "突出",
-      "ru": "выступать"
+      "ru": "выступать",
+      "fr": "dépasser"
     },
     "examples": [],
     "meta": {
@@ -32475,12 +32474,12 @@ const WORDS_KO_B1 = [
       "en": "standard",
       "de": "der Standard",
       "es": "el estándar",
-      "pl": "standard",
       "it": "lo standard",
       "pt": "o padrão",
       "ja": "標準",
       "zh": "标准",
-      "ru": "стандарт"
+      "ru": "стандарт",
+      "fr": "standard"
     },
     "examples": [],
     "meta": {
@@ -32506,12 +32505,12 @@ const WORDS_KO_B1 = [
       "en": "port",
       "de": "der Hafen",
       "es": "el puerto",
-      "pl": "port",
       "it": "il porto",
       "pt": "o porto",
       "ja": "港",
       "zh": "港口",
-      "ru": "порт"
+      "ru": "порт",
+      "fr": "port"
     },
     "examples": [],
     "meta": {
@@ -32537,12 +32536,12 @@ const WORDS_KO_B1 = [
       "en": "permission",
       "de": "die Erlaubnis",
       "es": "el permiso",
-      "pl": "pozwolenie",
       "it": "il permesso",
       "pt": "a permissão",
       "ja": "許可",
       "zh": "许可",
-      "ru": "разрешение"
+      "ru": "разрешение",
+      "fr": "permission"
     },
     "examples": [],
     "meta": {
@@ -32568,12 +32567,12 @@ const WORDS_KO_B1 = [
       "en": "helicopter",
       "de": "der Hubschrauber",
       "es": "el helicóptero",
-      "pl": "helikopter",
       "it": "l'elicottero",
       "pt": "o helicóptero",
       "ja": "ヘリコプター",
       "zh": "直升机",
-      "ru": "вертолёт"
+      "ru": "вертолёт",
+      "fr": "hélicoptère"
     },
     "examples": [],
     "meta": {
@@ -32600,12 +32599,12 @@ const WORDS_KO_B1 = [
       "en": "do together",
       "de": "mitmachen",
       "es": "hacer juntos",
-      "pl": "robić razem",
       "it": "fare insieme",
       "pt": "fazer junto",
       "ja": "一緒にする",
       "zh": "一起做",
-      "ru": "делать вместе"
+      "ru": "делать вместе",
+      "fr": "faire ensemble"
     },
     "examples": [],
     "meta": {
@@ -32632,12 +32631,12 @@ const WORDS_KO_B1 = [
       "en": "bubble",
       "de": "der Schaum",
       "es": "la burbuja",
-      "pl": "bąbelek",
       "it": "la bolla",
       "pt": "a bolha",
       "ja": "泡",
       "zh": "泡沫",
-      "ru": "пузырь"
+      "ru": "пузырь",
+      "fr": "bulle"
     },
     "examples": [],
     "meta": {
@@ -32663,12 +32662,12 @@ const WORDS_KO_B1 = [
       "en": "air force",
       "de": "die Luftwaffe",
       "es": "la fuerza aérea",
-      "pl": "siły powietrzne",
       "it": "l'aeronautica militare",
       "pt": "a força aérea",
       "ja": "空軍",
       "zh": "空军",
-      "ru": "военно-воздушные силы"
+      "ru": "военно-воздушные силы",
+      "fr": "armée de l'air"
     },
     "examples": [],
     "meta": {
@@ -32694,12 +32693,12 @@ const WORDS_KO_B1 = [
       "en": "technician",
       "de": "der Techniker",
       "es": "el técnico",
-      "pl": "technik",
       "it": "il tecnico",
       "pt": "o técnico",
       "ja": "技術者",
       "zh": "技术员",
-      "ru": "техник"
+      "ru": "техник",
+      "fr": "technicien"
     },
     "examples": [],
     "meta": {
@@ -32725,12 +32724,12 @@ const WORDS_KO_B1 = [
       "en": "running",
       "de": "das Laufen",
       "es": "la carrera",
-      "pl": "bieganie",
       "it": "la corsa",
       "pt": "a corrida",
       "ja": "走り",
       "zh": "跑步",
-      "ru": "бег"
+      "ru": "бег",
+      "fr": "la course"
     },
     "examples": [],
     "meta": {
@@ -32756,12 +32755,12 @@ const WORDS_KO_B1 = [
       "en": "challenge",
       "de": "die Herausforderung",
       "es": "el desafío",
-      "pl": "wyzwanie",
       "it": "la sfida",
       "pt": "o desafio",
       "ja": "挑戦",
       "zh": "挑战",
-      "ru": "вызов"
+      "ru": "вызов",
+      "fr": "le défi"
     },
     "examples": [],
     "meta": {
@@ -32787,12 +32786,12 @@ const WORDS_KO_B1 = [
       "en": "assistance",
       "de": "die Unterstützung",
       "es": "la asistencia",
-      "pl": "pomoc",
       "it": "l'assistenza",
       "pt": "a assistência",
       "ja": "補助",
       "zh": "辅助",
-      "ru": "помощь"
+      "ru": "помощь",
+      "fr": "l'aide"
     },
     "examples": [],
     "meta": {
@@ -32818,12 +32817,12 @@ const WORDS_KO_B1 = [
       "en": "disadvantageous",
       "de": "nachteilig",
       "es": "desventajoso",
-      "pl": "niekorzystny",
       "it": "svantaggioso",
       "pt": "desvantajoso",
       "ja": "不利",
       "zh": "不利",
-      "ru": "невыгодный"
+      "ru": "невыгодный",
+      "fr": "désavantageux"
     },
     "examples": [],
     "meta": {
@@ -32847,12 +32846,12 @@ const WORDS_KO_B1 = [
       "en": "discomfort",
       "de": "das Unbehagen",
       "es": "la incomodidad",
-      "pl": "niedogodność",
       "it": "il disagio",
       "pt": "o desconforto",
       "ja": "不便",
       "zh": "不便",
-      "ru": "неудобство"
+      "ru": "неудобство",
+      "fr": "l'inconfort"
     },
     "examples": [],
     "meta": {
@@ -32878,12 +32877,12 @@ const WORDS_KO_B1 = [
       "en": "rub",
       "de": "reiben",
       "es": "frotar",
-      "pl": "trzeć",
       "it": "strofinare",
       "pt": "esfregar",
       "ja": "こする",
       "zh": "揉",
-      "ru": "тереть"
+      "ru": "тереть",
+      "fr": "frotter"
     },
     "examples": [],
     "meta": {
@@ -32910,12 +32909,12 @@ const WORDS_KO_B1 = [
       "en": "recover",
       "de": "sich erholen",
       "es": "recuperarse",
-      "pl": "wyzdrowieć",
       "it": "riprendersi",
       "pt": "recuperar-se",
       "ja": "生き返る",
       "zh": "复活",
-      "ru": "ожить"
+      "ru": "ожить",
+      "fr": "guérir"
     },
     "examples": [],
     "meta": {
@@ -32942,12 +32941,12 @@ const WORDS_KO_B1 = [
       "en": "deceive",
       "de": "betrügen",
       "es": "engañar",
-      "pl": "oszukać",
       "it": "ingannare",
       "pt": "enganar",
       "ja": "騙す",
       "zh": "欺骗",
-      "ru": "обманывать"
+      "ru": "обманывать",
+      "fr": "tromper"
     },
     "examples": [],
     "meta": {
@@ -32974,12 +32973,12 @@ const WORDS_KO_B1 = [
       "en": "sleep",
       "de": "der Schlaf",
       "es": "el sueño",
-      "pl": "sen",
       "it": "il sonno",
       "pt": "o sono",
       "ja": "睡眠",
       "zh": "睡眠",
-      "ru": "сон"
+      "ru": "сон",
+      "fr": "le sommeil"
     },
     "examples": [],
     "meta": {
@@ -33005,12 +33004,12 @@ const WORDS_KO_B1 = [
       "en": "match",
       "de": "der Wettkampf",
       "es": "el partido",
-      "pl": "mecz",
       "it": "la partita",
       "pt": "a partida",
       "ja": "勝負",
       "zh": "胜负",
-      "ru": "поединок"
+      "ru": "поединок",
+      "fr": "le match"
     },
     "examples": [],
     "meta": {
@@ -33036,12 +33035,12 @@ const WORDS_KO_B1 = [
       "en": "belief",
       "de": "der Glaube",
       "es": "la creencia",
-      "pl": "przekonanie",
       "it": "la convinzione",
       "pt": "a crença",
       "ja": "信念",
       "zh": "信念",
-      "ru": "убеждение"
+      "ru": "убеждение",
+      "fr": "la croyance"
     },
     "examples": [],
     "meta": {
@@ -33067,12 +33066,12 @@ const WORDS_KO_B1 = [
       "en": "influence",
       "de": "der Einfluss",
       "es": "la influencia",
-      "pl": "wpływ",
       "it": "l'influenza",
       "pt": "a influência",
       "ja": "影響力",
       "zh": "影响力",
-      "ru": "влияние"
+      "ru": "влияние",
+      "fr": "l'influence"
     },
     "examples": [],
     "meta": {
@@ -33098,12 +33097,12 @@ const WORDS_KO_B1 = [
       "en": "manners",
       "de": "die Etikette",
       "es": "la cortesía",
-      "pl": "etykieta",
       "it": "la buona educazione",
       "pt": "a etiqueta",
       "ja": "礼儀",
       "zh": "礼仪",
-      "ru": "этикет"
+      "ru": "этикет",
+      "fr": "les manières"
     },
     "examples": [],
     "meta": {
@@ -33129,12 +33128,12 @@ const WORDS_KO_B1 = [
       "en": "within",
       "de": "innerhalb",
       "es": "dentro de",
-      "pl": "w ciągu",
       "it": "entro",
       "pt": "dentro de",
       "ja": "以内",
       "zh": "以内",
-      "ru": "в пределах"
+      "ru": "в пределах",
+      "fr": "dans"
     },
     "examples": [],
     "meta": {
@@ -33160,12 +33159,12 @@ const WORDS_KO_B1 = [
       "en": "human",
       "de": "menschlich",
       "es": "humano",
-      "pl": "ludzki",
       "it": "umano",
       "pt": "humano",
       "ja": "人間的",
       "zh": "人道的",
-      "ru": "человеческий"
+      "ru": "человеческий",
+      "fr": "humain"
     },
     "examples": [],
     "meta": {
@@ -33189,12 +33188,12 @@ const WORDS_KO_B1 = [
       "en": "excellent",
       "de": "ausgezeichnet",
       "es": "excelente",
-      "pl": "doskonały",
       "it": "eccellente",
       "pt": "excelente",
       "ja": "優れている",
       "zh": "优秀",
-      "ru": "отличный"
+      "ru": "отличный",
+      "fr": "excellent"
     },
     "examples": [],
     "meta": {
@@ -33218,12 +33217,12 @@ const WORDS_KO_B1 = [
       "en": "talent",
       "de": "das Talent",
       "es": "el talento",
-      "pl": "talent",
       "it": "il talento",
       "pt": "o talento",
       "ja": "才能",
       "zh": "才能",
-      "ru": "талант"
+      "ru": "талант",
+      "fr": "le talent"
     },
     "examples": [],
     "meta": {
@@ -33249,12 +33248,12 @@ const WORDS_KO_B1 = [
       "en": "pay",
       "de": "bezahlen",
       "es": "pagar",
-      "pl": "płacić",
       "it": "pagare",
       "pt": "pagar",
       "ja": "支払う",
       "zh": "支付",
-      "ru": "платить"
+      "ru": "платить",
+      "fr": "payer"
     },
     "examples": [],
     "meta": {
@@ -33281,12 +33280,12 @@ const WORDS_KO_B1 = [
       "en": "police box",
       "de": "die Polizeistation",
       "es": "la comisaría",
-      "pl": "posterunek policji",
       "it": "la stazione di polizia",
       "pt": "a delegacia",
       "ja": "交番",
       "zh": "派出所",
-      "ru": "полицейский участок"
+      "ru": "полицейский участок",
+      "fr": "un poste de police"
     },
     "examples": [],
     "meta": {
@@ -33312,12 +33311,12 @@ const WORDS_KO_B1 = [
       "en": "round",
       "de": "die Runde",
       "es": "la ronda",
-      "pl": "runda",
       "it": "il turno",
       "pt": "a rodada",
       "ja": "回",
       "zh": "回合",
-      "ru": "раунд"
+      "ru": "раунд",
+      "fr": "le round"
     },
     "examples": [],
     "meta": {
@@ -33343,12 +33342,12 @@ const WORDS_KO_B1 = [
       "en": "Chinese characters",
       "de": "die chinesischen Schriftzeichen",
       "es": "los caracteres chinos",
-      "pl": "znaki chińskie",
       "it": "i caratteri cinesi",
       "pt": "os caracteres chineses",
       "ja": "漢字",
       "zh": "汉字",
-      "ru": "китайские иероглифы"
+      "ru": "китайские иероглифы",
+      "fr": "les caractères chinois"
     },
     "examples": [],
     "meta": {
@@ -33374,12 +33373,12 @@ const WORDS_KO_B1 = [
       "en": "hand over",
       "de": "übergeben",
       "es": "entregar",
-      "pl": "przekazać",
       "it": "consegnare",
       "pt": "entregar",
       "ja": "手渡す",
       "zh": "递给",
-      "ru": "передавать"
+      "ru": "передавать",
+      "fr": "remettre"
     },
     "examples": [],
     "meta": {
@@ -33406,12 +33405,12 @@ const WORDS_KO_B1 = [
       "en": "final",
       "de": "das Finale",
       "es": "la final",
-      "pl": "finał",
       "it": "la finale",
       "pt": "a final",
       "ja": "決勝",
       "zh": "决赛",
-      "ru": "финал"
+      "ru": "финал",
+      "fr": "final"
     },
     "examples": [],
     "meta": {
@@ -33437,12 +33436,12 @@ const WORDS_KO_B1 = [
       "en": "public",
       "de": "die Öffentlichkeit",
       "es": "el público",
-      "pl": "publiczny",
       "it": "il pubblico",
       "pt": "o público",
       "ja": "公共",
       "zh": "公共",
-      "ru": "общественный"
+      "ru": "общественный",
+      "fr": "public"
     },
     "examples": [],
     "meta": {
@@ -33468,12 +33467,12 @@ const WORDS_KO_B1 = [
       "en": "culture",
       "de": "die Bildung",
       "es": "la cultura",
-      "pl": "kultura",
       "it": "la cultura",
       "pt": "a cultura",
       "ja": "教養",
       "zh": "教养",
-      "ru": "культура"
+      "ru": "культура",
+      "fr": "la culture"
     },
     "examples": [],
     "meta": {
@@ -33499,12 +33498,12 @@ const WORDS_KO_B1 = [
       "en": "king",
       "de": "der König",
       "es": "el rey",
-      "pl": "król",
       "it": "il re",
       "pt": "o rei",
       "ja": "国王",
       "zh": "国王",
-      "ru": "король"
+      "ru": "король",
+      "fr": "le roi"
     },
     "examples": [],
     "meta": {
@@ -33530,12 +33529,12 @@ const WORDS_KO_B1 = [
       "en": "overcome",
       "de": "die Überwindung",
       "es": "la superación",
-      "pl": "przezwyciężenie",
       "it": "il superamento",
       "pt": "a superação",
       "ja": "克服",
       "zh": "克服",
-      "ru": "преодоление"
+      "ru": "преодоление",
+      "fr": "surmonter"
     },
     "examples": [],
     "meta": {
@@ -33562,12 +33561,12 @@ const WORDS_KO_B1 = [
       "en": "be lowered",
       "de": "heruntergelassen werden",
       "es": "ser bajado",
-      "pl": "zostać opuszczonym",
       "it": "essere abbassato",
       "pt": "ser baixado",
       "ja": "下ろされる",
       "zh": "被放下",
-      "ru": "быть опущенным"
+      "ru": "быть опущенным",
+      "fr": "être abaissé"
     },
     "examples": [],
     "meta": {
@@ -33594,12 +33593,12 @@ const WORDS_KO_B1 = [
       "en": "freezing",
       "de": "das Einfrieren",
       "es": "la congelación",
-      "pl": "zamrażanie",
       "it": "il congelamento",
       "pt": "o congelamento",
       "ja": "冷凍",
       "zh": "冷冻",
-      "ru": "замораживание"
+      "ru": "замораживание",
+      "fr": "glacial"
     },
     "examples": [],
     "meta": {
@@ -33625,12 +33624,12 @@ const WORDS_KO_B1 = [
       "en": "melt",
       "de": "schmelzen",
       "es": "derretir",
-      "pl": "topnieć",
       "it": "sciogliere",
       "pt": "derreter",
       "ja": "溶ける",
       "zh": "融化",
-      "ru": "таять"
+      "ru": "таять",
+      "fr": "fondre"
     },
     "examples": [],
     "meta": {
@@ -33657,12 +33656,12 @@ const WORDS_KO_B1 = [
       "en": "mostly",
       "de": "meistens",
       "es": "generalmente",
-      "pl": "zazwyczaj",
       "it": "generalmente",
       "pt": "geralmente",
       "ja": "大抵",
       "zh": "大体上",
-      "ru": "в основном"
+      "ru": "в основном",
+      "fr": "principalement"
     },
     "examples": [],
     "meta": {
@@ -33688,12 +33687,12 @@ const WORDS_KO_B1 = [
       "en": "collect",
       "de": "sammeln",
       "es": "coleccionar",
-      "pl": "zbierać",
       "it": "raccogliere",
       "pt": "coletar",
       "ja": "収集する",
       "zh": "收集",
-      "ru": "собирать"
+      "ru": "собирать",
+      "fr": "collecter"
     },
     "examples": [],
     "meta": {
@@ -33720,12 +33719,12 @@ const WORDS_KO_B1 = [
       "en": "passenger",
       "de": "der Passagier",
       "es": "el pasajero",
-      "pl": "pasażer",
       "it": "il passeggero",
       "pt": "o passageiro",
       "ja": "乗客",
       "zh": "乘客",
-      "ru": "пассажир"
+      "ru": "пассажир",
+      "fr": "passager"
     },
     "examples": [],
     "meta": {
@@ -33751,12 +33750,12 @@ const WORDS_KO_B1 = [
       "en": "fresh",
       "de": "frisch",
       "es": "fresco",
-      "pl": "świeży",
       "it": "fresco",
       "pt": "fresco",
       "ja": "新鮮だ",
       "zh": "新鲜",
-      "ru": "свежий"
+      "ru": "свежий",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {
@@ -33780,12 +33779,12 @@ const WORDS_KO_B1 = [
       "en": "appearance",
       "de": "das Aussehen",
       "es": "la apariencia",
-      "pl": "wygląd",
       "it": "l'aspetto",
       "pt": "a aparência",
       "ja": "外見",
       "zh": "外貌",
-      "ru": "внешность"
+      "ru": "внешность",
+      "fr": "apparence"
     },
     "examples": [],
     "meta": {
@@ -33811,12 +33810,12 @@ const WORDS_KO_B1 = [
       "en": "artificial",
       "de": "die künstliche",
       "es": "el artificial",
-      "pl": "sztuczny",
       "it": "l'artificiale",
       "pt": "o artificial",
       "ja": "人工",
       "zh": "人工",
-      "ru": "искусственный"
+      "ru": "искусственный",
+      "fr": "artificiel"
     },
     "examples": [],
     "meta": {
@@ -33843,12 +33842,12 @@ const WORDS_KO_B1 = [
       "en": "sleeping place",
       "de": "der Schlafplatz",
       "es": "el lugar para dormir",
-      "pl": "miejsce do spania",
       "it": "il posto dove dormire",
       "pt": "o lugar de dormir",
       "ja": "寝床",
       "zh": "睡处",
-      "ru": "место для сна"
+      "ru": "место для сна",
+      "fr": "lieu de couchage"
     },
     "examples": [],
     "meta": {
@@ -33874,12 +33873,12 @@ const WORDS_KO_B1 = [
       "en": "nationwide",
       "de": "landesweit",
       "es": "nacional",
-      "pl": "krajowy",
       "it": "nazionale",
       "pt": "nacional",
       "ja": "全国的",
       "zh": "全国性的",
-      "ru": "общенациональный"
+      "ru": "общенациональный",
+      "fr": "national"
     },
     "examples": [],
     "meta": {
@@ -33903,12 +33902,12 @@ const WORDS_KO_B1 = [
       "en": "overall",
       "de": "das Ganze",
       "es": "el conjunto",
-      "pl": "całość",
       "it": "l'insieme",
       "pt": "o todo",
       "ja": "全般",
       "zh": "整体",
-      "ru": "общий"
+      "ru": "общий",
+      "fr": "global"
     },
     "examples": [],
     "meta": {
@@ -33934,12 +33933,12 @@ const WORDS_KO_B1 = [
       "en": "original place",
       "de": "der ursprüngliche Platz",
       "es": "el lugar original",
-      "pl": "oryginalne miejsce",
       "it": "il posto originale",
       "pt": "o lugar original",
       "ja": "元の場所",
       "zh": "原位",
-      "ru": "изначальное место"
+      "ru": "изначальное место",
+      "fr": "lieu d'origine"
     },
     "examples": [],
     "meta": {
@@ -33965,12 +33964,12 @@ const WORDS_KO_B1 = [
       "en": "boring",
       "de": "langweilig",
       "es": "aburrido",
-      "pl": "nudny",
       "it": "noioso",
       "pt": "entediante",
       "ja": "退屈だ",
       "zh": "无聊",
-      "ru": "скучный"
+      "ru": "скучный",
+      "fr": "ennuyeux"
     },
     "examples": [],
     "meta": {
@@ -33994,12 +33993,12 @@ const WORDS_KO_B1 = [
       "en": "blood",
       "de": "das Blut",
       "es": "la sangre",
-      "pl": "krew",
       "it": "il sangue",
       "pt": "o sangue",
       "ja": "血液",
       "zh": "血液",
-      "ru": "кровь"
+      "ru": "кровь",
+      "fr": "sang"
     },
     "examples": [],
     "meta": {
@@ -34025,12 +34024,12 @@ const WORDS_KO_B1 = [
       "en": "arrow",
       "de": "der Pfeil",
       "es": "la flecha",
-      "pl": "strzała",
       "it": "la freccia",
       "pt": "a flecha",
       "ja": "矢",
       "zh": "箭",
-      "ru": "стрела"
+      "ru": "стрела",
+      "fr": "flèche"
     },
     "examples": [],
     "meta": {
@@ -34056,12 +34055,12 @@ const WORDS_KO_B1 = [
       "en": "fire",
       "de": "das Feuer",
       "es": "el incendio",
-      "pl": "pożar",
       "it": "l'incendio",
       "pt": "o incêndio",
       "ja": "火災",
       "zh": "火灾",
-      "ru": "пожар"
+      "ru": "пожар",
+      "fr": "feu"
     },
     "examples": [],
     "meta": {
@@ -34087,12 +34086,12 @@ const WORDS_KO_B1 = [
       "en": "divide",
       "de": "teilen",
       "es": "dividir",
-      "pl": "dzielić",
       "it": "dividere",
       "pt": "dividir",
       "ja": "分ける",
       "zh": "分开",
-      "ru": "делить"
+      "ru": "делить",
+      "fr": "diviser"
     },
     "examples": [],
     "meta": {
@@ -34119,12 +34118,12 @@ const WORDS_KO_B1 = [
       "en": "interval",
       "de": "der Abstand",
       "es": "el intervalo",
-      "pl": "odstęp",
       "it": "l'intervallo",
       "pt": "o intervalo",
       "ja": "間隔",
       "zh": "间隔",
-      "ru": "интервал"
+      "ru": "интервал",
+      "fr": "intervalle"
     },
     "examples": [],
     "meta": {
@@ -34150,12 +34149,12 @@ const WORDS_KO_B1 = [
       "en": "shout",
       "de": "der Schrei",
       "es": "el grito",
-      "pl": "krzyk",
       "it": "l'urlo",
       "pt": "o grito",
       "ja": "叫び",
       "zh": "喊叫",
-      "ru": "крик"
+      "ru": "крик",
+      "fr": "cri"
     },
     "examples": [],
     "meta": {
@@ -34181,12 +34180,12 @@ const WORDS_KO_B1 = [
       "en": "attack",
       "de": "angreifen",
       "es": "atacar",
-      "pl": "atakować",
       "it": "attaccare",
       "pt": "atacar",
       "ja": "攻撃する",
       "zh": "攻击",
-      "ru": "атаковать"
+      "ru": "атаковать",
+      "fr": "attaquer"
     },
     "examples": [],
     "meta": {
@@ -34213,12 +34212,12 @@ const WORDS_KO_B1 = [
       "en": "be recorded",
       "de": "aufgezeichnet werden",
       "es": "ser registrado",
-      "pl": "zostać zapisanym",
       "it": "essere registrato",
       "pt": "ser registrado",
       "ja": "記録される",
       "zh": "被记录",
-      "ru": "быть записанным"
+      "ru": "быть записанным",
+      "fr": "être enregistré"
     },
     "examples": [],
     "meta": {
@@ -34245,12 +34244,12 @@ const WORDS_KO_B1 = [
       "en": "endless",
       "de": "endlos",
       "es": "interminable",
-      "pl": "nieskończony",
       "it": "infinito",
       "pt": "infinito",
       "ja": "終わらない",
       "zh": "无尽的",
-      "ru": "бесконечный"
+      "ru": "бесконечный",
+      "fr": "infini"
     },
     "examples": [],
     "meta": {
@@ -34274,12 +34273,12 @@ const WORDS_KO_B1 = [
       "en": "interrupt",
       "de": "unterbrechen",
       "es": "interrumpir",
-      "pl": "przerwać",
       "it": "interrompere",
       "pt": "interromper",
       "ja": "割り込む",
       "zh": "插嘴",
-      "ru": "перебивать"
+      "ru": "перебивать",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {
@@ -34306,12 +34305,12 @@ const WORDS_KO_B1 = [
       "en": "route",
       "de": "die Route",
       "es": "la ruta",
-      "pl": "trasa",
       "it": "la linea",
       "pt": "a rota",
       "ja": "路線",
       "zh": "路线",
-      "ru": "маршрут"
+      "ru": "маршрут",
+      "fr": "route"
     },
     "examples": [],
     "meta": {
@@ -34337,12 +34336,12 @@ const WORDS_KO_B1 = [
       "en": "answer",
       "de": "die Antwort",
       "es": "la respuesta",
-      "pl": "odpowiedź",
       "it": "la risposta",
       "pt": "a resposta",
       "ja": "答え",
       "zh": "答案",
-      "ru": "ответ"
+      "ru": "ответ",
+      "fr": "réponse"
     },
     "examples": [],
     "meta": {
@@ -34368,12 +34367,12 @@ const WORDS_KO_B1 = [
       "en": "dialogue",
       "de": "der Dialog",
       "es": "el diálogo",
-      "pl": "dialog",
       "it": "il dialogo",
       "pt": "o diálogo",
       "ja": "台詞",
       "zh": "台词",
-      "ru": "диалог"
+      "ru": "диалог",
+      "fr": "dialogue"
     },
     "examples": [],
     "meta": {
@@ -34399,12 +34398,12 @@ const WORDS_KO_B1 = [
       "en": "escape",
       "de": "fliehen",
       "es": "escapar",
-      "pl": "uciekać",
       "it": "scappare",
       "pt": "escapar",
       "ja": "逃げる",
       "zh": "逃跑",
-      "ru": "бежать"
+      "ru": "бежать",
+      "fr": "s'échapper"
     },
     "examples": [],
     "meta": {
@@ -34431,12 +34430,12 @@ const WORDS_KO_B1 = [
       "en": "agree",
       "de": "zustimmen",
       "es": "estar de acuerdo",
-      "pl": "zgadzać się",
       "it": "essere d'accordo",
       "pt": "concordar",
       "ja": "同意する",
       "zh": "同意",
-      "ru": "соглашаться"
+      "ru": "соглашаться",
+      "fr": "convenir"
     },
     "examples": [],
     "meta": {
@@ -34463,12 +34462,12 @@ const WORDS_KO_B1 = [
       "en": "hard",
       "de": "hart",
       "es": "duro",
-      "pl": "twardy",
       "it": "duro",
       "pt": "duro",
       "ja": "硬い",
       "zh": "硬的",
-      "ru": "твёрдый"
+      "ru": "твёрдый",
+      "fr": "dur"
     },
     "examples": [],
     "meta": {
@@ -34492,12 +34491,12 @@ const WORDS_KO_B1 = [
       "en": "underground",
       "de": "der Untergrund",
       "es": "el subsuelo",
-      "pl": "podziemie",
       "it": "il sottosuolo",
       "pt": "o subsolo",
       "ja": "地中",
       "zh": "地下",
-      "ru": "подземелье"
+      "ru": "подземелье",
+      "fr": "souterrain"
     },
     "examples": [],
     "meta": {
@@ -34523,12 +34522,12 @@ const WORDS_KO_B1 = [
       "en": "fine",
       "de": "die Geldstrafe",
       "es": "la multa",
-      "pl": "grzywna",
       "it": "la multa",
       "pt": "a multa",
       "ja": "罰金",
       "zh": "罚款",
-      "ru": "штраф"
+      "ru": "штраф",
+      "fr": "amende"
     },
     "examples": [],
     "meta": {
@@ -34554,12 +34553,12 @@ const WORDS_KO_B1 = [
       "en": "belly",
       "de": "der Bauch",
       "es": "la barriga",
-      "pl": "brzuch",
       "it": "la pancia",
       "pt": "a barriga",
       "ja": "腹",
       "zh": "肚子",
-      "ru": "живот"
+      "ru": "живот",
+      "fr": "ventre"
     },
     "examples": [],
     "meta": {
@@ -34585,12 +34584,12 @@ const WORDS_KO_B1 = [
       "en": "service",
       "de": "der Dienst",
       "es": "el servicio",
-      "pl": "służba",
       "it": "il servizio",
       "pt": "o serviço",
       "ja": "奉仕",
       "zh": "服务",
-      "ru": "служба"
+      "ru": "служба",
+      "fr": "service"
     },
     "examples": [],
     "meta": {
@@ -34616,12 +34615,12 @@ const WORDS_KO_B1 = [
       "en": "department",
       "de": "die Abteilung",
       "es": "el departamento",
-      "pl": "departament",
       "it": "il dipartimento",
       "pt": "o departamento",
       "ja": "部署",
       "zh": "部门",
-      "ru": "отдел"
+      "ru": "отдел",
+      "fr": "département"
     },
     "examples": [],
     "meta": {
@@ -34647,12 +34646,12 @@ const WORDS_KO_B1 = [
       "en": "small size",
       "de": "die Kleinheit",
       "es": "el tamaño pequeño",
-      "pl": "mały rozmiar",
       "it": "la piccola taglia",
       "pt": "o tamanho pequeno",
       "ja": "小型",
       "zh": "小型",
-      "ru": "малый размер"
+      "ru": "малый размер",
+      "fr": "petite taille"
     },
     "examples": [],
     "meta": {
@@ -34678,12 +34677,12 @@ const WORDS_KO_B1 = [
       "en": "newcomer",
       "de": "der Neuling",
       "es": "el novato",
-      "pl": "nowicjusz",
       "it": "il debuttante",
       "pt": "o novato",
       "ja": "新人",
       "zh": "新人",
-      "ru": "новичок"
+      "ru": "новичок",
+      "fr": "nouveau venu"
     },
     "examples": [],
     "meta": {
@@ -34709,12 +34708,12 @@ const WORDS_KO_B1 = [
       "en": "nightmare",
       "de": "der Albtraum",
       "es": "la pesadilla",
-      "pl": "koszmar",
       "it": "l'incubo",
       "pt": "o pesadelo",
       "ja": "悪夢",
       "zh": "噩梦",
-      "ru": "кошмар"
+      "ru": "кошмар",
+      "fr": "cauchemar"
     },
     "examples": [],
     "meta": {
@@ -34740,12 +34739,12 @@ const WORDS_KO_B1 = [
       "en": "guidance",
       "de": "die Führung",
       "es": "la guía",
-      "pl": "przewodnik",
       "it": "la guida",
       "pt": "a orientação",
       "ja": "案内",
       "zh": "引导",
-      "ru": "руководство"
+      "ru": "руководство",
+      "fr": "conseil"
     },
     "examples": [],
     "meta": {
@@ -34771,12 +34770,12 @@ const WORDS_KO_B1 = [
       "en": "hill",
       "de": "der Hügel",
       "es": "la colina",
-      "pl": "wzgórze",
       "it": "la collina",
       "pt": "a colina",
       "ja": "丘",
       "zh": "山丘",
-      "ru": "холм"
+      "ru": "холм",
+      "fr": "colline"
     },
     "examples": [],
     "meta": {
@@ -34802,12 +34801,12 @@ const WORDS_KO_B1 = [
       "en": "passion",
       "de": "die Leidenschaft",
       "es": "la pasión",
-      "pl": "pasja",
       "it": "la passione",
       "pt": "a paixão",
       "ja": "情熱",
       "zh": "热情",
-      "ru": "страсть"
+      "ru": "страсть",
+      "fr": "passion"
     },
     "examples": [],
     "meta": {
@@ -34833,12 +34832,12 @@ const WORDS_KO_B1 = [
       "en": "opera",
       "de": "die Oper",
       "es": "la ópera",
-      "pl": "opera",
       "it": "l'opera",
       "pt": "a ópera",
       "ja": "オペラ",
       "zh": "歌剧",
-      "ru": "опера"
+      "ru": "опера",
+      "fr": "opéra"
     },
     "examples": [],
     "meta": {
@@ -34864,12 +34863,12 @@ const WORDS_KO_B1 = [
       "en": "appetite",
       "de": "der Appetit",
       "es": "el apetito",
-      "pl": "apetyt",
       "it": "l'appetito",
       "pt": "o apetite",
       "ja": "食欲",
       "zh": "胃口",
-      "ru": "аппетит"
+      "ru": "аппетит",
+      "fr": "appétit"
     },
     "examples": [],
     "meta": {
@@ -34895,12 +34894,12 @@ const WORDS_KO_B1 = [
       "en": "jazz",
       "de": "der Jazz",
       "es": "el jazz",
-      "pl": "jazz",
       "it": "il jazz",
       "pt": "o jazz",
       "ja": "ジャズ",
       "zh": "爵士乐",
-      "ru": "джаз"
+      "ru": "джаз",
+      "fr": "jazz"
     },
     "examples": [],
     "meta": {
@@ -34926,12 +34925,12 @@ const WORDS_KO_B1 = [
       "en": "adapt",
       "de": "sich anpassen",
       "es": "adaptarse",
-      "pl": "dostosować się",
       "it": "adattarsi",
       "pt": "adaptar-se",
       "ja": "適応する",
       "zh": "适应",
-      "ru": "адаптироваться"
+      "ru": "адаптироваться",
+      "fr": "s'adapter"
     },
     "examples": [],
     "meta": {
@@ -34958,12 +34957,12 @@ const WORDS_KO_B1 = [
       "en": "absolute",
       "de": "absolut",
       "es": "absoluto",
-      "pl": "absolutny",
       "it": "assoluto",
       "pt": "absoluto",
       "ja": "絶対",
       "zh": "绝对",
-      "ru": "абсолютный"
+      "ru": "абсолютный",
+      "fr": "absolu"
     },
     "examples": [],
     "meta": {
@@ -34989,12 +34988,12 @@ const WORDS_KO_B1 = [
       "en": "provision",
       "de": "die Bereitstellung",
       "es": "la provisión",
-      "pl": "zaopatrzenie",
       "it": "la fornitura",
       "pt": "a provisão",
       "ja": "提供",
       "zh": "提供",
-      "ru": "предоставление"
+      "ru": "предоставление",
+      "fr": "approvisionnement"
     },
     "examples": [],
     "meta": {
@@ -35020,12 +35019,12 @@ const WORDS_KO_B1 = [
       "en": "exceed",
       "de": "überschreiten",
       "es": "exceder",
-      "pl": "przekroczyć",
       "it": "superare",
       "pt": "exceder",
       "ja": "行き過ぎる",
       "zh": "超过",
-      "ru": "превышать"
+      "ru": "превышать",
+      "fr": "dépasser"
     },
     "examples": [],
     "meta": {
@@ -35052,12 +35051,12 @@ const WORDS_KO_B1 = [
       "en": "participation",
       "de": "die Teilnahme",
       "es": "la participación",
-      "pl": "uczestnictwo",
       "it": "la partecipazione",
       "pt": "a participação",
       "ja": "参加",
       "zh": "参加",
-      "ru": "участие"
+      "ru": "участие",
+      "fr": "participation"
     },
     "examples": [],
     "meta": {
@@ -35083,12 +35082,12 @@ const WORDS_KO_B1 = [
       "en": "Chuseok",
       "de": "das Chuseok",
       "es": "el Chuseok",
-      "pl": "Chuseok",
       "it": "il Chuseok",
       "pt": "o Chuseok",
       "ja": "秋夕",
       "zh": "中秋节",
-      "ru": "Чусок"
+      "ru": "Чусок",
+      "fr": "Chuseok"
     },
     "examples": [],
     "meta": {
@@ -35114,12 +35113,12 @@ const WORDS_KO_B1 = [
       "en": "collision",
       "de": "der Zusammenstoß",
       "es": "la colisión",
-      "pl": "kolizja",
       "it": "la collisione",
       "pt": "a colisão",
       "ja": "衝突",
       "zh": "冲突",
-      "ru": "столкновение"
+      "ru": "столкновение",
+      "fr": "collision"
     },
     "examples": [],
     "meta": {
@@ -35145,12 +35144,12 @@ const WORDS_KO_B1 = [
       "en": "passage",
       "de": "der Gang",
       "es": "el pasaje",
-      "pl": "przejście",
       "it": "il passaggio",
       "pt": "a passagem",
       "ja": "通路",
       "zh": "通道",
-      "ru": "проход"
+      "ru": "проход",
+      "fr": "passage"
     },
     "examples": [],
     "meta": {
@@ -35176,12 +35175,12 @@ const WORDS_KO_B1 = [
       "en": "resolution",
       "de": "die Lösung",
       "es": "la resolución",
-      "pl": "rozwiązanie",
       "it": "la risoluzione",
       "pt": "a resolução",
       "ja": "解消",
       "zh": "解决",
-      "ru": "разрешение"
+      "ru": "разрешение",
+      "fr": "résolution"
     },
     "examples": [],
     "meta": {
@@ -35207,12 +35206,12 @@ const WORDS_KO_B1 = [
       "en": "to be done",
       "de": "getan werden",
       "es": "ser hecho",
-      "pl": "być zrobionym",
       "it": "essere fatto",
       "pt": "ser feito",
       "ja": "行われる",
       "zh": "被执行",
-      "ru": "быть сделанным"
+      "ru": "быть сделанным",
+      "fr": "être fait"
     },
     "examples": [],
     "meta": {
@@ -35239,12 +35238,12 @@ const WORDS_KO_B1 = [
       "en": "modern person",
       "de": "der moderne Mensch",
       "es": "la persona moderna",
-      "pl": "współczesny człowiek",
       "it": "la persona moderna",
       "pt": "a pessoa moderna",
       "ja": "現代人",
       "zh": "现代人",
-      "ru": "современный человек"
+      "ru": "современный человек",
+      "fr": "personne moderne"
     },
     "examples": [],
     "meta": {
@@ -35270,12 +35269,12 @@ const WORDS_KO_B1 = [
       "en": "benefit",
       "de": "der Vorteil",
       "es": "el beneficio",
-      "pl": "korzyść",
       "it": "il beneficio",
       "pt": "o benefício",
       "ja": "恩恵",
       "zh": "好处",
-      "ru": "выгода"
+      "ru": "выгода",
+      "fr": "avantage"
     },
     "examples": [],
     "meta": {
@@ -35301,12 +35300,12 @@ const WORDS_KO_B1 = [
       "en": "everywhere",
       "de": "überall",
       "es": "por todas partes",
-      "pl": "wszędzie",
       "it": "ovunque",
       "pt": "em todo lugar",
       "ja": "隅々まで",
       "zh": "到处",
-      "ru": "повсюду"
+      "ru": "повсюду",
+      "fr": "partout"
     },
     "examples": [],
     "meta": {
@@ -35332,12 +35331,12 @@ const WORDS_KO_B1 = [
       "en": "registration certificate",
       "de": "die Registrierungsbescheinigung",
       "es": "el certificado de registro",
-      "pl": "świadectwo rejestracji",
       "it": "il certificato di registrazione",
       "pt": "o certificado de registro",
       "ja": "登録証",
       "zh": "注册证",
-      "ru": "свидетельство о регистрации"
+      "ru": "свидетельство о регистрации",
+      "fr": "certificat d'enregistrement"
     },
     "examples": [],
     "meta": {
@@ -35364,12 +35363,12 @@ const WORDS_KO_B1 = [
       "en": "to be repeated",
       "de": "wiederholt werden",
       "es": "ser repetido",
-      "pl": "być powtórzonym",
       "it": "essere ripetuto",
       "pt": "ser repetido",
       "ja": "繰り返される",
       "zh": "被重复",
-      "ru": "повторяться"
+      "ru": "повторяться",
+      "fr": "être répété"
     },
     "examples": [],
     "meta": {
@@ -35396,12 +35395,12 @@ const WORDS_KO_B1 = [
       "en": "hindrance",
       "de": "die Störung",
       "es": "la interferencia",
-      "pl": "przeszkoda",
       "it": "l'interferenza",
       "pt": "a interferência",
       "ja": "妨害",
       "zh": "妨碍",
-      "ru": "помеха"
+      "ru": "помеха",
+      "fr": "obstacle"
     },
     "examples": [],
     "meta": {
@@ -35427,12 +35426,12 @@ const WORDS_KO_B1 = [
       "en": "rice plant",
       "de": "die Reispflanze",
       "es": "la planta de arroz",
-      "pl": "roślina ryżowa",
       "it": "la pianta di riso",
       "pt": "a planta de arroz",
       "ja": "稲",
       "zh": "稻子",
-      "ru": "рисовое растение"
+      "ru": "рисовое растение",
+      "fr": "plant de riz"
     },
     "examples": [],
     "meta": {
@@ -35458,12 +35457,12 @@ const WORDS_KO_B1 = [
       "en": "oneself",
       "de": "die Person selbst",
       "es": "uno mismo",
-      "pl": "sam",
       "it": "la persona stessa",
       "pt": "a própria pessoa",
       "ja": "本人",
       "zh": "本人",
-      "ru": "сам"
+      "ru": "сам",
+      "fr": "soi-même"
     },
     "examples": [],
     "meta": {
@@ -35489,12 +35488,12 @@ const WORDS_KO_B1 = [
       "en": "shop",
       "de": "das Geschäft",
       "es": "la tienda",
-      "pl": "sklep",
       "it": "il negozio",
       "pt": "a loja",
       "ja": "商店",
       "zh": "商店",
-      "ru": "магазин"
+      "ru": "магазин",
+      "fr": "magasin"
     },
     "examples": [],
     "meta": {
@@ -35520,12 +35519,12 @@ const WORDS_KO_B1 = [
       "en": "manager",
       "de": "der Leiter",
       "es": "el gerente",
-      "pl": "kierownik",
       "it": "il direttore",
       "pt": "o gerente",
       "ja": "室長",
       "zh": "主任",
-      "ru": "руководитель"
+      "ru": "руководитель",
+      "fr": "directeur"
     },
     "examples": [],
     "meta": {
@@ -35551,12 +35550,12 @@ const WORDS_KO_B1 = [
       "en": "lonely",
       "de": "einsam",
       "es": "solitario",
-      "pl": "samotny",
       "it": "solitario",
       "pt": "solitário",
       "ja": "寂しい",
       "zh": "寂寞",
-      "ru": "одинокий"
+      "ru": "одинокий",
+      "fr": "solitaire"
     },
     "examples": [],
     "meta": {
@@ -35580,12 +35579,12 @@ const WORDS_KO_B1 = [
       "en": "dizzy",
       "de": "schwindelig",
       "es": "mareado",
-      "pl": "zawroty głowy",
       "it": "vertiginoso",
       "pt": "tonto",
       "ja": "めまいがする",
       "zh": "头晕",
-      "ru": "головокружительный"
+      "ru": "головокружительный",
+      "fr": "étourdi"
     },
     "examples": [],
     "meta": {
@@ -35609,12 +35608,12 @@ const WORDS_KO_B1 = [
       "en": "how to do",
       "de": "wie man es macht",
       "es": "cómo hacerlo",
-      "pl": "jak to zrobić",
       "it": "come fare",
       "pt": "como fazer",
       "ja": "どうする",
       "zh": "怎么办",
-      "ru": "как сделать"
+      "ru": "как сделать",
+      "fr": "comment faire"
     },
     "examples": [],
     "meta": {
@@ -35643,12 +35642,12 @@ const WORDS_KO_B1 = [
       "en": "to be scheduled",
       "de": "geplant sein",
       "es": "estar programado",
-      "pl": "być zaplanowanym",
       "it": "essere programmato",
       "pt": "ser agendado",
       "ja": "予定される",
       "zh": "被安排",
-      "ru": "быть запланированным"
+      "ru": "быть запланированным",
+      "fr": "être programmé"
     },
     "examples": [],
     "meta": {
@@ -35675,12 +35674,12 @@ const WORDS_KO_B1 = [
       "en": "double",
       "de": "doppelt",
       "es": "doble",
-      "pl": "podwójny",
       "it": "doppio",
       "pt": "duplo",
       "ja": "二重",
       "zh": "双重",
-      "ru": "двойной"
+      "ru": "двойной",
+      "fr": "double"
     },
     "examples": [],
     "meta": {
@@ -35706,12 +35705,12 @@ const WORDS_KO_B1 = [
       "en": "to be recognized",
       "de": "anerkannt werden",
       "es": "ser reconocido",
-      "pl": "być uznanym",
       "it": "essere riconosciuto",
       "pt": "ser reconhecido",
       "ja": "認められる",
       "zh": "被认可",
-      "ru": "быть признанным"
+      "ru": "быть признанным",
+      "fr": "être reconnu"
     },
     "examples": [],
     "meta": {
@@ -35738,12 +35737,12 @@ const WORDS_KO_B1 = [
       "en": "pride",
       "de": "der Stolz",
       "es": "el orgullo",
-      "pl": "duma",
       "it": "l'orgoglio",
       "pt": "o orgulho",
       "ja": "自慢",
       "zh": "骄傲",
-      "ru": "гордость"
+      "ru": "гордость",
+      "fr": "fierté"
     },
     "examples": [],
     "meta": {
@@ -35769,12 +35768,12 @@ const WORDS_KO_B1 = [
       "en": "illusion",
       "de": "die Täuschung",
       "es": "la ilusión",
-      "pl": "złudzenie",
       "it": "l'illusione",
       "pt": "a ilusão",
       "ja": "錯覚",
       "zh": "错觉",
-      "ru": "иллюзия"
+      "ru": "иллюзия",
+      "fr": "illusion"
     },
     "examples": [],
     "meta": {
@@ -35800,12 +35799,12 @@ const WORDS_KO_B1 = [
       "en": "window",
       "de": "das Fenster",
       "es": "la ventana",
-      "pl": "okno",
       "it": "la finestra",
       "pt": "a janela",
       "ja": "窓",
       "zh": "窗户",
-      "ru": "окно"
+      "ru": "окно",
+      "fr": "fenêtre"
     },
     "examples": [],
     "meta": {
@@ -35831,12 +35830,12 @@ const WORDS_KO_B1 = [
       "en": "maiden home",
       "de": "das Elternhaus",
       "es": "la casa de los padres",
-      "pl": "dom rodzinny",
       "it": "la casa dei genitori",
       "pt": "a casa dos pais",
       "ja": "実家",
       "zh": "娘家",
-      "ru": "родительский дом"
+      "ru": "родительский дом",
+      "fr": "maison natale"
     },
     "examples": [],
     "meta": {
@@ -35862,12 +35861,12 @@ const WORDS_KO_B1 = [
       "en": "type",
       "de": "der Typ",
       "es": "el tipo",
-      "pl": "typ",
       "it": "il tipo",
       "pt": "o tipo",
       "ja": "タイプ",
       "zh": "类型",
-      "ru": "тип"
+      "ru": "тип",
+      "fr": "type"
     },
     "examples": [],
     "meta": {
@@ -35893,12 +35892,12 @@ const WORDS_KO_B1 = [
       "en": "to perform",
       "de": "ausführen",
       "es": "realizar",
-      "pl": "wykonywać",
       "it": "eseguire",
       "pt": "realizar",
       "ja": "行う",
       "zh": "执行",
-      "ru": "выполнять"
+      "ru": "выполнять",
+      "fr": "exécuter"
     },
     "examples": [],
     "meta": {
@@ -35925,12 +35924,12 @@ const WORDS_KO_B1 = [
       "en": "individual",
       "de": "individuell",
       "es": "individual",
-      "pl": "indywidualny",
       "it": "individuale",
       "pt": "individual",
       "ja": "個別",
       "zh": "个别",
-      "ru": "индивидуальный"
+      "ru": "индивидуальный",
+      "fr": "individuel"
     },
     "examples": [],
     "meta": {
@@ -35956,12 +35955,12 @@ const WORDS_KO_B1 = [
       "en": "official",
       "de": "offiziell",
       "es": "oficial",
-      "pl": "oficjalny",
       "it": "ufficiale",
       "pt": "oficial",
       "ja": "公式",
       "zh": "官方",
-      "ru": "официальный"
+      "ru": "официальный",
+      "fr": "officiel"
     },
     "examples": [],
     "meta": {
@@ -35985,12 +35984,12 @@ const WORDS_KO_B1 = [
       "en": "Christianity",
       "de": "das Christentum",
       "es": "el cristianismo",
-      "pl": "chrześcijaństwo",
       "it": "il cristianesimo",
       "pt": "o cristianismo",
       "ja": "キリスト教",
       "zh": "基督教",
-      "ru": "христианство"
+      "ru": "христианство",
+      "fr": "christianisme"
     },
     "examples": [],
     "meta": {
@@ -36016,12 +36015,12 @@ const WORDS_KO_B1 = [
       "en": "realization",
       "de": "die Erkenntnis",
       "es": "la realización",
-      "pl": "uświadomienie",
       "it": "la realizzazione",
       "pt": "a realização",
       "ja": "悟り",
       "zh": "领悟",
-      "ru": "осознание"
+      "ru": "осознание",
+      "fr": "réalisation"
     },
     "examples": [],
     "meta": {
@@ -36047,12 +36046,12 @@ const WORDS_KO_B1 = [
       "en": "dazzling",
       "de": "blendend",
       "es": "deslumbrante",
-      "pl": "olśniewający",
       "it": "abbagliante",
       "pt": "deslumbrante",
       "ja": "眩しい",
       "zh": "耀眼",
-      "ru": "ослепительный"
+      "ru": "ослепительный",
+      "fr": "éblouissant"
     },
     "examples": [],
     "meta": {
@@ -36076,12 +36075,12 @@ const WORDS_KO_B1 = [
       "en": "decide",
       "de": "sich vornehmen",
       "es": "decidirse",
-      "pl": "postanowić",
       "it": "decidere",
       "pt": "decidir-se",
       "ja": "決心する",
       "zh": "下决心",
-      "ru": "решиться"
+      "ru": "решиться",
+      "fr": "décider"
     },
     "examples": [],
     "meta": {
@@ -36108,12 +36107,12 @@ const WORDS_KO_B1 = [
       "en": "list",
       "de": "die Liste",
       "es": "la lista",
-      "pl": "lista",
       "it": "la lista",
       "pt": "a lista",
       "ja": "リスト",
       "zh": "列表",
-      "ru": "список"
+      "ru": "список",
+      "fr": "liste"
     },
     "examples": [],
     "meta": {
@@ -36139,12 +36138,12 @@ const WORDS_KO_B1 = [
       "en": "reflect",
       "de": "reflektieren",
       "es": "reflexionar",
-      "pl": "reflektować",
       "it": "riflettere",
       "pt": "refletir",
       "ja": "反省する",
       "zh": "反省",
-      "ru": "размышлять"
+      "ru": "размышлять",
+      "fr": "réfléchir"
     },
     "examples": [],
     "meta": {
@@ -36171,12 +36170,12 @@ const WORDS_KO_B1 = [
       "en": "nickname",
       "de": "der Spitzname",
       "es": "el apodo",
-      "pl": "przezwisko",
       "it": "il soprannome",
       "pt": "o apelido",
       "ja": "ニックネーム",
       "zh": "绰号",
-      "ru": "прозвище"
+      "ru": "прозвище",
+      "fr": "surnom"
     },
     "examples": [],
     "meta": {
@@ -36202,12 +36201,12 @@ const WORDS_KO_B1 = [
       "en": "preservation",
       "de": "die Erhaltung",
       "es": "la preservación",
-      "pl": "ochrona",
       "it": "la conservazione",
       "pt": "a preservação",
       "ja": "保全",
       "zh": "保存",
-      "ru": "сохранение"
+      "ru": "сохранение",
+      "fr": "préservation"
     },
     "examples": [],
     "meta": {
@@ -36233,12 +36232,12 @@ const WORDS_KO_B1 = [
       "en": "blow",
       "de": "wehen",
       "es": "soplar",
-      "pl": "wiać",
       "it": "soffiare",
       "pt": "soprar",
       "ja": "吹いてくる",
       "zh": "吹来",
-      "ru": "дуть"
+      "ru": "дуть",
+      "fr": "souffler"
     },
     "examples": [],
     "meta": {
@@ -36265,12 +36264,12 @@ const WORDS_KO_B1 = [
       "en": "own",
       "de": "besitzen",
       "es": "poseer",
-      "pl": "posiadać",
       "it": "possedere",
       "pt": "possuir",
       "ja": "所有する",
       "zh": "拥有",
-      "ru": "владеть"
+      "ru": "владеть",
+      "fr": "posséder"
     },
     "examples": [],
     "meta": {
@@ -36297,12 +36296,12 @@ const WORDS_KO_B1 = [
       "en": "switch",
       "de": "der Schalter",
       "es": "el interruptor",
-      "pl": "przełącznik",
       "it": "l'interruttore",
       "pt": "o interruptor",
       "ja": "スイッチ",
       "zh": "开关",
-      "ru": "переключатель"
+      "ru": "переключатель",
+      "fr": "interrupteur"
     },
     "examples": [],
     "meta": {
@@ -36328,12 +36327,12 @@ const WORDS_KO_B1 = [
       "en": "favor",
       "de": "die Gunst",
       "es": "el favor",
-      "pl": "łaska",
       "it": "il favore",
       "pt": "o favor",
       "ja": "世話",
       "zh": "恩惠",
-      "ru": "услуга"
+      "ru": "услуга",
+      "fr": "faveur"
     },
     "examples": [],
     "meta": {
@@ -36359,12 +36358,12 @@ const WORDS_KO_B1 = [
       "en": "find out",
       "de": "herausfinden",
       "es": "averiguar",
-      "pl": "dowiedzieć się",
       "it": "scoprire",
       "pt": "descobrir",
       "ja": "突き止める",
       "zh": "查明",
-      "ru": "выяснить"
+      "ru": "выяснить",
+      "fr": "découvrir"
     },
     "examples": [],
     "meta": {
@@ -36391,12 +36390,12 @@ const WORDS_KO_B1 = [
       "en": "scolding",
       "de": "die Zurechtweisung",
       "es": "el regaño",
-      "pl": "nagana",
       "it": "il rimprovero",
       "pt": "a repreensão",
       "ja": "叱責",
       "zh": "训斥",
-      "ru": "выговор"
+      "ru": "выговор",
+      "fr": "réprimande"
     },
     "examples": [],
     "meta": {
@@ -36422,12 +36421,12 @@ const WORDS_KO_B1 = [
       "en": "connection",
       "de": "die Verbindung",
       "es": "la conexión",
-      "pl": "połączenie",
       "it": "la connessione",
       "pt": "a conexão",
       "ja": "接続",
       "zh": "连接",
-      "ru": "соединение"
+      "ru": "соединение",
+      "fr": "connexion"
     },
     "examples": [],
     "meta": {
@@ -36453,12 +36452,12 @@ const WORDS_KO_B1 = [
       "en": "relation",
       "de": "die Beziehung",
       "es": "la relación",
-      "pl": "związek",
       "it": "la relazione",
       "pt": "a relação",
       "ja": "関連",
       "zh": "关联",
-      "ru": "связь"
+      "ru": "связь",
+      "fr": "relation"
     },
     "examples": [],
     "meta": {
@@ -36484,12 +36483,12 @@ const WORDS_KO_B1 = [
       "en": "forgive",
       "de": "vergeben",
       "es": "perdonar",
-      "pl": "wybaczyć",
       "it": "perdonare",
       "pt": "perdoar",
       "ja": "許す",
       "zh": "原谅",
-      "ru": "прощать"
+      "ru": "прощать",
+      "fr": "pardonner"
     },
     "examples": [],
     "meta": {
@@ -36517,12 +36516,12 @@ const WORDS_KO_B1 = [
       "en": "friendship",
       "de": "die Freundschaft",
       "es": "la amistad",
-      "pl": "przyjaźń",
       "it": "l'amicizia",
       "pt": "a amizade",
       "ja": "友情",
       "zh": "友谊",
-      "ru": "дружба"
+      "ru": "дружба",
+      "fr": "amitié"
     },
     "examples": [],
     "meta": {
@@ -36548,12 +36547,12 @@ const WORDS_KO_B1 = [
       "en": "army",
       "de": "die Armee",
       "es": "el ejército",
-      "pl": "wojsko",
       "it": "l'esercito",
       "pt": "o exército",
       "ja": "陸軍",
       "zh": "陆军",
-      "ru": "армия"
+      "ru": "армия",
+      "fr": "armée"
     },
     "examples": [],
     "meta": {
@@ -36579,12 +36578,12 @@ const WORDS_KO_B1 = [
       "en": "restaurant",
       "de": "das Restaurant",
       "es": "el restaurante",
-      "pl": "restauracja",
       "it": "il ristorante",
       "pt": "o restaurante",
       "ja": "レストラン",
       "zh": "餐馆",
-      "ru": "ресторан"
+      "ru": "ресторан",
+      "fr": "restaurant"
     },
     "examples": [],
     "meta": {
@@ -36610,12 +36609,12 @@ const WORDS_KO_B1 = [
       "en": "discuss",
       "de": "diskutieren",
       "es": "discutir",
-      "pl": "dyskutować",
       "it": "discutere",
       "pt": "discutir",
       "ja": "話し合う",
       "zh": "商量",
-      "ru": "обсуждать"
+      "ru": "обсуждать",
+      "fr": "discuter"
     },
     "examples": [],
     "meta": {
@@ -36642,12 +36641,12 @@ const WORDS_KO_B1 = [
       "en": "main",
       "de": "hauptsächlich",
       "es": "principal",
-      "pl": "główny",
       "it": "principale",
       "pt": "principal",
       "ja": "主要な",
       "zh": "主要的",
-      "ru": "главный"
+      "ru": "главный",
+      "fr": "principal"
     },
     "examples": [],
     "meta": {
@@ -36671,12 +36670,12 @@ const WORDS_KO_B1 = [
       "en": "reference",
       "de": "der Bezug",
       "es": "la referencia",
-      "pl": "odniesienie",
       "it": "il riferimento",
       "pt": "a referência",
       "ja": "参照",
       "zh": "参考",
-      "ru": "ссылка"
+      "ru": "ссылка",
+      "fr": "référence"
     },
     "examples": [],
     "meta": {
@@ -36702,12 +36701,12 @@ const WORDS_KO_B1 = [
       "en": "be born with",
       "de": "angeboren sein",
       "es": "nacer con",
-      "pl": "być wrodzonym",
       "it": "essere innato",
       "pt": "nascer com",
       "ja": "生まれつき持つ",
       "zh": "天生拥有",
-      "ru": "быть врожденным"
+      "ru": "быть врожденным",
+      "fr": "naître avec"
     },
     "examples": [],
     "meta": {
@@ -36735,12 +36734,12 @@ const WORDS_KO_B1 = [
       "en": "be allowed",
       "de": "erlaubt sein",
       "es": "ser permitido",
-      "pl": "być dozwolonym",
       "it": "essere permesso",
       "pt": "ser permitido",
       "ja": "許される",
       "zh": "被允许",
-      "ru": "быть разрешенным"
+      "ru": "быть разрешенным",
+      "fr": "être autorisé"
     },
     "examples": [],
     "meta": {
@@ -36767,12 +36766,12 @@ const WORDS_KO_B1 = [
       "en": "joining",
       "de": "der Beitritt",
       "es": "la adhesión",
-      "pl": "przystąpienie",
       "it": "l'adesione",
       "pt": "a adesão",
       "ja": "加入",
       "zh": "加入",
-      "ru": "вступление"
+      "ru": "вступление",
+      "fr": "adhésion"
     },
     "examples": [],
     "meta": {
@@ -36798,12 +36797,12 @@ const WORDS_KO_B1 = [
       "en": "replacement",
       "de": "der Austausch",
       "es": "el reemplazo",
-      "pl": "wymiana",
       "it": "la sostituzione",
       "pt": "a substituição",
       "ja": "交代",
       "zh": "更换",
-      "ru": "замена"
+      "ru": "замена",
+      "fr": "remplacement"
     },
     "examples": [],
     "meta": {
@@ -36829,12 +36828,12 @@ const WORDS_KO_B1 = [
       "en": "kid",
       "de": "das Kind",
       "es": "el niño",
-      "pl": "dziecko",
       "it": "il bambino",
       "pt": "o garoto",
       "ja": "子供",
       "zh": "小孩",
-      "ru": "малыш"
+      "ru": "малыш",
+      "fr": "enfant"
     },
     "examples": [],
     "meta": {
@@ -36860,12 +36859,12 @@ const WORDS_KO_B1 = [
       "en": "carry",
       "de": "tragen",
       "es": "llevar",
-      "pl": "nieść",
       "it": "portare",
       "pt": "carregar",
       "ja": "運ぶ",
       "zh": "搬运",
-      "ru": "нести"
+      "ru": "нести",
+      "fr": "porter"
     },
     "examples": [],
     "meta": {
@@ -36892,12 +36891,12 @@ const WORDS_KO_B1 = [
       "en": "tease",
       "de": "necken",
       "es": "burlarse de",
-      "pl": "dokuczać",
       "it": "prendere in giro",
       "pt": "provocar",
       "ja": "からかう",
       "zh": "戏弄",
-      "ru": "дразнить"
+      "ru": "дразнить",
+      "fr": "taquiner"
     },
     "examples": [],
     "meta": {
@@ -36924,12 +36923,12 @@ const WORDS_KO_B1 = [
       "en": "lay out",
       "de": "auslegen",
       "es": "extender",
-      "pl": "rozłożyć",
       "it": "stendere",
       "pt": "estender",
       "ja": "並べる",
       "zh": "摆放",
-      "ru": "разложить"
+      "ru": "разложить",
+      "fr": "étaler"
     },
     "examples": [],
     "meta": {
@@ -36957,12 +36956,12 @@ const WORDS_KO_B1 = [
       "en": "represent",
       "de": "repräsentieren",
       "es": "representar",
-      "pl": "reprezentować",
       "it": "rappresentare",
       "pt": "representar",
       "ja": "代表する",
       "zh": "代表",
-      "ru": "представлять"
+      "ru": "представлять",
+      "fr": "représenter"
     },
     "examples": [],
     "meta": {
@@ -36989,12 +36988,12 @@ const WORDS_KO_B1 = [
       "en": "fear",
       "de": "fürchten",
       "es": "temer",
-      "pl": "bać się",
       "it": "temere",
       "pt": "temer",
       "ja": "恐れる",
       "zh": "害怕",
-      "ru": "бояться"
+      "ru": "бояться",
+      "fr": "craindre"
     },
     "examples": [],
     "meta": {
@@ -37021,12 +37020,12 @@ const WORDS_KO_B1 = [
       "en": "unexpected",
       "de": "unerwartet",
       "es": "inesperado",
-      "pl": "nieoczekiwany",
       "it": "inaspettato",
       "pt": "inesperado",
       "ja": "意外",
       "zh": "意外",
-      "ru": "неожиданный"
+      "ru": "неожиданный",
+      "fr": "inattendu"
     },
     "examples": [],
     "meta": {
@@ -37052,12 +37051,12 @@ const WORDS_KO_B1 = [
       "en": "makgeolli",
       "de": "der Makgeolli",
       "es": "el makgeolli",
-      "pl": "makgeolli",
       "it": "il makgeolli",
       "pt": "o makgeolli",
       "ja": "マッコリ",
       "zh": "米酒",
-      "ru": "макколи"
+      "ru": "макколи",
+      "fr": "makgeolli"
     },
     "examples": [],
     "meta": {
@@ -37083,12 +37082,12 @@ const WORDS_KO_B1 = [
       "en": "mistake",
       "de": "der Fehler",
       "es": "el error",
-      "pl": "błąd",
       "it": "l'errore",
       "pt": "o erro",
       "ja": "ミス",
       "zh": "错误",
-      "ru": "ошибка"
+      "ru": "ошибка",
+      "fr": "erreur"
     },
     "examples": [],
     "meta": {
@@ -37114,12 +37113,12 @@ const WORDS_KO_B1 = [
       "en": "be delayed",
       "de": "sich verspäten",
       "es": "retrasarse",
-      "pl": "być opóźnionym",
       "it": "essere ritardato",
       "pt": "estar atrasado",
       "ja": "遅れる",
       "zh": "推迟",
-      "ru": "опаздывать"
+      "ru": "опаздывать",
+      "fr": "être retardé"
     },
     "examples": [],
     "meta": {
@@ -37146,12 +37145,12 @@ const WORDS_KO_B1 = [
       "en": "break",
       "de": "brechen",
       "es": "romperse",
-      "pl": "złamać się",
       "it": "rompersi",
       "pt": "quebrar",
       "ja": "折れる",
       "zh": "折断",
-      "ru": "сломаться"
+      "ru": "сломаться",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {
@@ -37178,12 +37177,12 @@ const WORDS_KO_B1 = [
       "en": "relativity",
       "de": "die Relativität",
       "es": "la relatividad",
-      "pl": "względność",
       "it": "la relatività",
       "pt": "a relatividade",
       "ja": "相対性",
       "zh": "相对性",
-      "ru": "относительность"
+      "ru": "относительность",
+      "fr": "relativité"
     },
     "examples": [],
     "meta": {
@@ -37209,12 +37208,12 @@ const WORDS_KO_B1 = [
       "en": "survey",
       "de": "die Umfrage",
       "es": "la encuesta",
-      "pl": "ankieta",
       "it": "il sondaggio",
       "pt": "a pesquisa",
       "ja": "アンケート",
       "zh": "调查",
-      "ru": "опрос"
+      "ru": "опрос",
+      "fr": "enquête"
     },
     "examples": [],
     "meta": {
@@ -37240,12 +37239,12 @@ const WORDS_KO_B1 = [
       "en": "sweep",
       "de": "fegen",
       "es": "barrer",
-      "pl": "zamiatać",
       "it": "spazzare",
       "pt": "varrer",
       "ja": "掃く",
       "zh": "扫",
-      "ru": "мести"
+      "ru": "мести",
+      "fr": "balayer"
     },
     "examples": [],
     "meta": {
@@ -37272,12 +37271,12 @@ const WORDS_KO_B1 = [
       "en": "inside and outside",
       "de": "innen und außen",
       "es": "dentro y fuera",
-      "pl": "wewnątrz i na zewnątrz",
       "it": "dentro e fuori",
       "pt": "dentro e fora",
       "ja": "内外",
       "zh": "内外",
-      "ru": "внутри и снаружи"
+      "ru": "внутри и снаружи",
+      "fr": "à l'intérieur et à l'extérieur"
     },
     "examples": [],
     "meta": {
@@ -37303,12 +37302,12 @@ const WORDS_KO_B1 = [
       "en": "prevent",
       "de": "verhindern",
       "es": "prevenir",
-      "pl": "zapobiegać",
       "it": "prevenire",
       "pt": "prevenir",
       "ja": "予防する",
       "zh": "预防",
-      "ru": "предотвращать"
+      "ru": "предотвращать",
+      "fr": "prévenir"
     },
     "examples": [],
     "meta": {
@@ -37335,12 +37334,12 @@ const WORDS_KO_B1 = [
       "en": "this year",
       "de": "dieses Jahr",
       "es": "este año",
-      "pl": "ten rok",
       "it": "quest'anno",
       "pt": "este ano",
       "ja": "今年",
       "zh": "今年",
-      "ru": "этот год"
+      "ru": "этот год",
+      "fr": "cette année"
     },
     "examples": [],
     "meta": {
@@ -37366,12 +37365,12 @@ const WORDS_KO_B1 = [
       "en": "pay attention",
       "de": "beachten",
       "es": "prestar atención",
-      "pl": "zwracać uwagę",
       "it": "prestare attenzione",
       "pt": "prestar atenção",
       "ja": "留意する",
       "zh": "注意",
-      "ru": "обращать внимание"
+      "ru": "обращать внимание",
+      "fr": "faire attention"
     },
     "examples": [],
     "meta": {
@@ -37398,12 +37397,12 @@ const WORDS_KO_B1 = [
       "en": "be understood",
       "de": "verstanden werden",
       "es": "ser entendido",
-      "pl": "być zrozumianym",
       "it": "essere capito",
       "pt": "ser compreendido",
       "ja": "理解される",
       "zh": "被理解",
-      "ru": "быть понятым"
+      "ru": "быть понятым",
+      "fr": "être compris"
     },
     "examples": [],
     "meta": {
@@ -37430,12 +37429,12 @@ const WORDS_KO_B1 = [
       "en": "reduction",
       "de": "die Senkung",
       "es": "la reducción",
-      "pl": "obniżka",
       "it": "la riduzione",
       "pt": "a redução",
       "ja": "引き下げ",
       "zh": "降低",
-      "ru": "снижение"
+      "ru": "снижение",
+      "fr": "réduction"
     },
     "examples": [],
     "meta": {
@@ -37461,12 +37460,12 @@ const WORDS_KO_B1 = [
       "en": "writing",
       "de": "die Erstellung",
       "es": "la redacción",
-      "pl": "sporządzenie",
       "it": "la stesura",
       "pt": "a elaboração",
       "ja": "作成",
       "zh": "撰写",
-      "ru": "составление"
+      "ru": "составление",
+      "fr": "écriture"
     },
     "examples": [],
     "meta": {
@@ -37492,12 +37491,12 @@ const WORDS_KO_B1 = [
       "en": "be cut",
       "de": "geschnitten werden",
       "es": "ser cortado",
-      "pl": "być ciętym",
       "it": "essere tagliato",
       "pt": "ser cortado",
       "ja": "切られる",
       "zh": "被切",
-      "ru": "быть отрезанным"
+      "ru": "быть отрезанным",
+      "fr": "être coupé"
     },
     "examples": [],
     "meta": {
@@ -37524,12 +37523,12 @@ const WORDS_KO_B1 = [
       "en": "delivery",
       "de": "die Übermittlung",
       "es": "la entrega",
-      "pl": "dostarczenie",
       "it": "la consegna",
       "pt": "a entrega",
       "ja": "伝達",
       "zh": "传达",
-      "ru": "передача"
+      "ru": "передача",
+      "fr": "livraison"
     },
     "examples": [],
     "meta": {
@@ -37555,12 +37554,12 @@ const WORDS_KO_B1 = [
       "en": "exhibition",
       "de": "die Ausstellung",
       "es": "la exposición",
-      "pl": "wystawa",
       "it": "la mostra",
       "pt": "a exposição",
       "ja": "展示会",
       "zh": "展览会",
-      "ru": "выставка"
+      "ru": "выставка",
+      "fr": "exposition"
     },
     "examples": [],
     "meta": {
@@ -37586,12 +37585,12 @@ const WORDS_KO_B1 = [
       "en": "switch",
       "de": "umschalten",
       "es": "cambiar",
-      "pl": "przełączać",
       "it": "convertire",
       "pt": "converter",
       "ja": "転換する",
       "zh": "转换",
-      "ru": "переключать"
+      "ru": "переключать",
+      "fr": "basculer"
     },
     "examples": [],
     "meta": {
@@ -37618,12 +37617,12 @@ const WORDS_KO_B1 = [
       "en": "order",
       "de": "die Bestellung",
       "es": "el pedido",
-      "pl": "zamówienie",
       "it": "l'ordine",
       "pt": "o pedido",
       "ja": "注文",
       "zh": "订购",
-      "ru": "заказ"
+      "ru": "заказ",
+      "fr": "commande"
     },
     "examples": [],
     "meta": {
@@ -37650,12 +37649,12 @@ const WORDS_KO_B1 = [
       "en": "housework",
       "de": "die Hausarbeit",
       "es": "las tareas del hogar",
-      "pl": "prace domowe",
       "it": "i lavori domestici",
       "pt": "o trabalho doméstico",
       "ja": "家事",
       "zh": "家务",
-      "ru": "домашняя работа"
+      "ru": "домашняя работа",
+      "fr": "ménage"
     },
     "examples": [],
     "meta": {
@@ -37681,12 +37680,12 @@ const WORDS_KO_B1 = [
       "en": "systematic",
       "de": "systematisch",
       "es": "sistemático",
-      "pl": "systematyczny",
       "it": "sistematico",
       "pt": "sistemático",
       "ja": "体系的",
       "zh": "系统的",
-      "ru": "систематический"
+      "ru": "систематический",
+      "fr": "systématique"
     },
     "examples": [],
     "meta": {
@@ -37710,12 +37709,12 @@ const WORDS_KO_B1 = [
       "en": "cream",
       "de": "die Sahne",
       "es": "la crema",
-      "pl": "śmietana",
       "it": "la panna",
       "pt": "o creme",
       "ja": "クリーム",
       "zh": "奶油",
-      "ru": "крем"
+      "ru": "крем",
+      "fr": "crème"
     },
     "examples": [],
     "meta": {
@@ -37741,12 +37740,12 @@ const WORDS_KO_B1 = [
       "en": "excellent",
       "de": "hervorragend",
       "es": "excelente",
-      "pl": "znakomity",
       "it": "eccellente",
       "pt": "excelente",
       "ja": "卓越する",
       "zh": "卓越",
-      "ru": "выдающийся"
+      "ru": "выдающийся",
+      "fr": "excellent"
     },
     "examples": [],
     "meta": {
@@ -37770,12 +37769,12 @@ const WORDS_KO_B1 = [
       "en": "vomit",
       "de": "erbrechen",
       "es": "vomitar",
-      "pl": "wymiotować",
       "it": "vomitare",
       "pt": "vomitar",
       "ja": "吐く",
       "zh": "呕吐",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "vomir"
     },
     "examples": [],
     "meta": {
@@ -37802,12 +37801,12 @@ const WORDS_KO_B1 = [
       "en": "moment",
       "de": "der Augenblick",
       "es": "el momento",
-      "pl": "chwila",
       "it": "l'istante",
       "pt": "o instante",
       "ja": "瞬間",
       "zh": "瞬间",
-      "ru": "мгновение"
+      "ru": "мгновение",
+      "fr": "moment"
     },
     "examples": [],
     "meta": {
@@ -37834,12 +37833,12 @@ const WORDS_KO_B1 = [
       "en": "household chore",
       "de": "der Haushalt",
       "es": "la tarea doméstica",
-      "pl": "obowiązki domowe",
       "it": "le faccende domestiche",
       "pt": "as tarefas domésticas",
       "ja": "家事",
       "zh": "家务",
-      "ru": "домашние дела"
+      "ru": "домашние дела",
+      "fr": "tâche ménagère"
     },
     "examples": [],
     "meta": {
@@ -37865,12 +37864,12 @@ const WORDS_KO_B1 = [
       "en": "subscriber",
       "de": "der Abonnent",
       "es": "el suscriptor",
-      "pl": "subskrybent",
       "it": "l'abbonato",
       "pt": "o assinante",
       "ja": "加入者",
       "zh": "订户",
-      "ru": "абонент"
+      "ru": "абонент",
+      "fr": "abonné"
     },
     "examples": [],
     "meta": {
@@ -37896,12 +37895,12 @@ const WORDS_KO_B1 = [
       "en": "decrease",
       "de": "verringern",
       "es": "disminuir",
-      "pl": "zmniejszać",
       "it": "diminuire",
       "pt": "diminuir",
       "ja": "減少する",
       "zh": "减少",
-      "ru": "уменьшаться"
+      "ru": "уменьшаться",
+      "fr": "diminuer"
     },
     "examples": [],
     "meta": {
@@ -37928,12 +37927,12 @@ const WORDS_KO_B1 = [
       "en": "consequential",
       "de": "konsequent",
       "es": "consecuente",
-      "pl": "konsekwentny",
       "it": "consequenziale",
       "pt": "consequente",
       "ja": "結果的な",
       "zh": "结果的",
-      "ru": "результативный"
+      "ru": "результативный",
+      "fr": "conséquent"
     },
     "examples": [],
     "meta": {
@@ -37957,12 +37956,12 @@ const WORDS_KO_B1 = [
       "en": "harass",
       "de": "belästigen",
       "es": "molestar",
-      "pl": "nękać",
       "it": "molestare",
       "pt": "incomodar",
       "ja": "いじめる",
       "zh": "折磨",
-      "ru": "притеснять"
+      "ru": "притеснять",
+      "fr": "harceler"
     },
     "examples": [],
     "meta": {
@@ -37989,12 +37988,12 @@ const WORDS_KO_B1 = [
       "en": "distinction",
       "de": "die Unterscheidung",
       "es": "la distinción",
-      "pl": "rozróżnienie",
       "it": "la distinzione",
       "pt": "a distinção",
       "ja": "区別",
       "zh": "区别",
-      "ru": "различие"
+      "ru": "различие",
+      "fr": "distinction"
     },
     "examples": [],
     "meta": {
@@ -38020,12 +38019,12 @@ const WORDS_KO_B1 = [
       "en": "wake up",
       "de": "wecken",
       "es": "despertar",
-      "pl": "obudzić",
       "it": "svegliare",
       "pt": "acordar",
       "ja": "起こす",
       "zh": "叫醒",
-      "ru": "будить"
+      "ru": "будить",
+      "fr": "se réveiller"
     },
     "examples": [],
     "meta": {
@@ -38052,12 +38051,12 @@ const WORDS_KO_B1 = [
       "en": "string",
       "de": "die Schnur",
       "es": "la cuerda",
-      "pl": "sznurek",
       "it": "la corda",
       "pt": "o cordão",
       "ja": "紐",
       "zh": "绳子",
-      "ru": "веревка"
+      "ru": "веревка",
+      "fr": "ficelle"
     },
     "examples": [],
     "meta": {
@@ -38083,12 +38082,12 @@ const WORDS_KO_B1 = [
       "en": "be cut off",
       "de": "unterbrochen werden",
       "es": "ser cortado",
-      "pl": "zostać przerwany",
       "it": "essere interrotto",
       "pt": "ser cortado",
       "ja": "切れる",
       "zh": "断开",
-      "ru": "быть прерванным"
+      "ru": "быть прерванным",
+      "fr": "être interrompu"
     },
     "examples": [],
     "meta": {
@@ -38115,12 +38114,12 @@ const WORDS_KO_B1 = [
       "en": "incessant",
       "de": "unaufhörlich",
       "es": "incesante",
-      "pl": "nieustanny",
       "it": "incessante",
       "pt": "incessante",
       "ja": "絶え間ない",
       "zh": "不绝的",
-      "ru": "непрерывный"
+      "ru": "непрерывный",
+      "fr": "incessant"
     },
     "examples": [],
     "meta": {
@@ -38144,12 +38143,12 @@ const WORDS_KO_B1 = [
       "en": "ample",
       "de": "reichlich",
       "es": "amplio",
-      "pl": "obfity",
       "it": "abbondante",
       "pt": "amplo",
       "ja": "十分な",
       "zh": "充足的",
-      "ru": "достаточный"
+      "ru": "достаточный",
+      "fr": "ample"
     },
     "examples": [],
     "meta": {
@@ -38173,12 +38172,12 @@ const WORDS_KO_B1 = [
       "en": "drug",
       "de": "das Betäubungsmittel",
       "es": "la droga",
-      "pl": "narkotyk",
       "it": "la droga",
       "pt": "a droga",
       "ja": "麻薬",
       "zh": "毒品",
-      "ru": "наркотик"
+      "ru": "наркотик",
+      "fr": "drogue"
     },
     "examples": [],
     "meta": {
@@ -38204,12 +38203,12 @@ const WORDS_KO_B1 = [
       "en": "bottom",
       "de": "der Boden",
       "es": "el fondo",
-      "pl": "dno",
       "it": "il fondo",
       "pt": "o fundo",
       "ja": "底",
       "zh": "底部",
-      "ru": "дно"
+      "ru": "дно",
+      "fr": "fond"
     },
     "examples": [],
     "meta": {
@@ -38237,12 +38236,12 @@ const WORDS_KO_B1 = [
       "en": "be reported",
       "de": "berichtet werden",
       "es": "ser informado",
-      "pl": "zostać zgłoszonym",
       "it": "essere riportato",
       "pt": "ser noticiado",
       "ja": "報道される",
       "zh": "被报道",
-      "ru": "быть освещённым"
+      "ru": "быть освещённым",
+      "fr": "être signalé"
     },
     "examples": [],
     "meta": {
@@ -38269,12 +38268,12 @@ const WORDS_KO_B1 = [
       "en": "barley",
       "de": "die Gerste",
       "es": "la cebada",
-      "pl": "jęczmień",
       "it": "l'orzo",
       "pt": "a cevada",
       "ja": "大麦",
       "zh": "大麦",
-      "ru": "ячмень"
+      "ru": "ячмень",
+      "fr": "orge"
     },
     "examples": [],
     "meta": {
@@ -38301,12 +38300,12 @@ const WORDS_KO_B1 = [
       "en": "headquarters",
       "de": "der Hauptsitz",
       "es": "la sede central",
-      "pl": "siedziba główna",
       "it": "il quartier generale",
       "pt": "a sede",
       "ja": "本部",
       "zh": "总部",
-      "ru": "штаб-квартира"
+      "ru": "штаб-квартира",
+      "fr": "siège social"
     },
     "examples": [],
     "meta": {
@@ -38332,12 +38331,12 @@ const WORDS_KO_B1 = [
       "en": "volume",
       "de": "der Band",
       "es": "el volumen",
-      "pl": "tom",
       "it": "il volume",
       "pt": "o volume",
       "ja": "巻",
       "zh": "卷",
-      "ru": "том"
+      "ru": "том",
+      "fr": "volume"
     },
     "examples": [],
     "meta": {
@@ -38363,12 +38362,12 @@ const WORDS_KO_B1 = [
       "en": "mature",
       "de": "reifen",
       "es": "madurar",
-      "pl": "dojrzewać",
       "it": "maturare",
       "pt": "amadurecer",
       "ja": "成熟する",
       "zh": "成熟",
-      "ru": "созревать"
+      "ru": "созревать",
+      "fr": "mûr"
     },
     "examples": [],
     "meta": {
@@ -38395,12 +38394,12 @@ const WORDS_KO_B1 = [
       "en": "passive",
       "de": "passiv",
       "es": "pasivo",
-      "pl": "pasywny",
       "it": "passivo",
       "pt": "passivo",
       "ja": "受動的な",
       "zh": "消极的",
-      "ru": "пассивный"
+      "ru": "пассивный",
+      "fr": "passif"
     },
     "examples": [],
     "meta": {
@@ -38424,12 +38423,12 @@ const WORDS_KO_B1 = [
       "en": "use",
       "de": "der Nutzen",
       "es": "la utilidad",
-      "pl": "użytek",
       "it": "l'utilità",
       "pt": "a utilidade",
       "ja": "用",
       "zh": "用处",
-      "ru": "польза"
+      "ru": "польза",
+      "fr": "usage"
     },
     "examples": [],
     "meta": {
@@ -38455,12 +38454,12 @@ const WORDS_KO_B1 = [
       "en": "trim",
       "de": "bearbeiten",
       "es": "arreglar",
-      "pl": "przygotować",
       "it": "sistemare",
       "pt": "aparar",
       "ja": "手入れする",
       "zh": "修整",
-      "ru": "приводить в порядок"
+      "ru": "приводить в порядок",
+      "fr": "tailler"
     },
     "examples": [],
     "meta": {
@@ -38487,12 +38486,12 @@ const WORDS_KO_B1 = [
       "en": "instant",
       "de": "der Augenblick",
       "es": "el instante",
-      "pl": "chwila",
       "it": "l'istante",
       "pt": "o instante",
       "ja": "瞬間",
       "zh": "瞬间",
-      "ru": "мгновение"
+      "ru": "мгновение",
+      "fr": "instant"
     },
     "examples": [],
     "meta": {
@@ -38518,12 +38517,12 @@ const WORDS_KO_B1 = [
       "en": "attempt",
       "de": "der Versuch",
       "es": "el intento",
-      "pl": "próba",
       "it": "il tentativo",
       "pt": "a tentativa",
       "ja": "試み",
       "zh": "尝试",
-      "ru": "попытка"
+      "ru": "попытка",
+      "fr": "tentative"
     },
     "examples": [],
     "meta": {
@@ -38549,12 +38548,12 @@ const WORDS_KO_B1 = [
       "en": "weakness",
       "de": "die Schwäche",
       "es": "la debilidad",
-      "pl": "słabość",
       "it": "la debolezza",
       "pt": "a fraqueza",
       "ja": "弱点",
       "zh": "弱点",
-      "ru": "слабость"
+      "ru": "слабость",
+      "fr": "faiblesse"
     },
     "examples": [],
     "meta": {
@@ -38580,12 +38579,12 @@ const WORDS_KO_B1 = [
       "en": "age",
       "de": "das Alter",
       "es": "la edad",
-      "pl": "wiek",
       "it": "l'età",
       "pt": "a idade",
       "ja": "年齢",
       "zh": "年龄",
-      "ru": "возраст"
+      "ru": "возраст",
+      "fr": "âge"
     },
     "examples": [],
     "meta": {
@@ -38611,12 +38610,12 @@ const WORDS_KO_B1 = [
       "en": "preparation",
       "de": "die Vorbereitung",
       "es": "la preparación",
-      "pl": "przygotowanie",
       "it": "la preparazione",
       "pt": "a preparação",
       "ja": "準備",
       "zh": "准备",
-      "ru": "подготовка"
+      "ru": "подготовка",
+      "fr": "préparation"
     },
     "examples": [],
     "meta": {
@@ -38642,12 +38641,12 @@ const WORDS_KO_B1 = [
       "en": "crying sound",
       "de": "das Weinen",
       "es": "el llanto",
-      "pl": "płacz",
       "it": "il pianto",
       "pt": "o choro",
       "ja": "泣き声",
       "zh": "哭声",
-      "ru": "плач"
+      "ru": "плач",
+      "fr": "pleur"
     },
     "examples": [],
     "meta": {
@@ -38673,12 +38672,12 @@ const WORDS_KO_B1 = [
       "en": "resume",
       "de": "der Lebenslauf",
       "es": "el currículum",
-      "pl": "curriculum vitae",
       "it": "il curriculum vitae",
       "pt": "o currículo",
       "ja": "履歴書",
       "zh": "履历",
-      "ru": "резюме"
+      "ru": "резюме",
+      "fr": "curriculum vitae"
     },
     "examples": [],
     "meta": {
@@ -38704,12 +38703,12 @@ const WORDS_KO_B1 = [
       "en": "be recognized",
       "de": "anerkannt werden",
       "es": "ser reconocido",
-      "pl": "być uznanym",
       "it": "essere riconosciuto",
       "pt": "ser reconhecido",
       "ja": "認められる",
       "zh": "被认可",
-      "ru": "быть признанным"
+      "ru": "быть признанным",
+      "fr": "être reconnu"
     },
     "examples": [],
     "meta": {
@@ -38736,12 +38735,12 @@ const WORDS_KO_B1 = [
       "en": "interrupt",
       "de": "unterbrechen",
       "es": "interrumpir",
-      "pl": "przerwać",
       "it": "interrompere",
       "pt": "interromper",
       "ja": "中断する",
       "zh": "中断",
-      "ru": "прерывать"
+      "ru": "прерывать",
+      "fr": "interrompre"
     },
     "examples": [],
     "meta": {
@@ -38768,12 +38767,12 @@ const WORDS_KO_B1 = [
       "en": "important",
       "de": "wichtig",
       "es": "importante",
-      "pl": "ważny",
       "it": "importante",
       "pt": "importante",
       "ja": "重大だ",
       "zh": "重大",
-      "ru": "важный"
+      "ru": "важный",
+      "fr": "important"
     },
     "examples": [],
     "meta": {
@@ -38797,12 +38796,12 @@ const WORDS_KO_B1 = [
       "en": "center",
       "de": "das Zentrum",
       "es": "el centro",
-      "pl": "centrum",
       "it": "il centro",
       "pt": "o centro",
       "ja": "中心地",
       "zh": "中心",
-      "ru": "центр"
+      "ru": "центр",
+      "fr": "centre"
     },
     "examples": [],
     "meta": {
@@ -38828,12 +38827,12 @@ const WORDS_KO_B1 = [
       "en": "intensive",
       "de": "intensiv",
       "es": "intensivo",
-      "pl": "intensywny",
       "it": "intensivo",
       "pt": "intensivo",
       "ja": "集中的",
       "zh": "集中的",
-      "ru": "интенсивный"
+      "ru": "интенсивный",
+      "fr": "intensif"
     },
     "examples": [],
     "meta": {
@@ -38857,12 +38856,12 @@ const WORDS_KO_B1 = [
       "en": "true",
       "de": "wahr",
       "es": "verdadero",
-      "pl": "prawdziwy",
       "it": "vero",
       "pt": "verdadeiro",
       "ja": "真実だ",
       "zh": "真诚",
-      "ru": "истинный"
+      "ru": "истинный",
+      "fr": "vrai"
     },
     "examples": [],
     "meta": {
@@ -38886,12 +38885,12 @@ const WORDS_KO_B1 = [
       "en": "invitation",
       "de": "die Einladung",
       "es": "la invitación",
-      "pl": "zaproszenie",
       "it": "l'invito",
       "pt": "o convite",
       "ja": "招待",
       "zh": "邀请",
-      "ru": "приглашение"
+      "ru": "приглашение",
+      "fr": "invitation"
     },
     "examples": [],
     "meta": {
@@ -38917,12 +38916,12 @@ const WORDS_KO_B1 = [
       "en": "publisher",
       "de": "der Verlag",
       "es": "la editorial",
-      "pl": "wydawnictwo",
       "it": "l'editore",
       "pt": "a editora",
       "ja": "出版社",
       "zh": "出版社",
-      "ru": "издательство"
+      "ru": "издательство",
+      "fr": "éditeur"
     },
     "examples": [],
     "meta": {
@@ -38948,12 +38947,12 @@ const WORDS_KO_B1 = [
       "en": "table",
       "de": "der Tisch",
       "es": "la mesa",
-      "pl": "stół",
       "it": "il tavolo",
       "pt": "a mesa",
       "ja": "テーブル",
       "zh": "桌子",
-      "ru": "стол"
+      "ru": "стол",
+      "fr": "table"
     },
     "examples": [],
     "meta": {
@@ -38979,12 +38978,12 @@ const WORDS_KO_B1 = [
       "en": "custom",
       "de": "der Brauch",
       "es": "la costumbre",
-      "pl": "zwyczaj",
       "it": "l'usanza",
       "pt": "o costume",
       "ja": "風俗",
       "zh": "风俗",
-      "ru": "обычай"
+      "ru": "обычай",
+      "fr": "coutume"
     },
     "examples": [],
     "meta": {
@@ -39010,12 +39009,12 @@ const WORDS_KO_B1 = [
       "en": "excuse",
       "de": "die Ausrede",
       "es": "la excusa",
-      "pl": "wymówka",
       "it": "la scusa",
       "pt": "a desculpa",
       "ja": "言い訳",
       "zh": "借口",
-      "ru": "предлог"
+      "ru": "предлог",
+      "fr": "excuse"
     },
     "examples": [],
     "meta": {
@@ -39041,12 +39040,12 @@ const WORDS_KO_B1 = [
       "en": "luck",
       "de": "das Glück",
       "es": "la suerte",
-      "pl": "szczęście",
       "it": "la fortuna",
       "pt": "a sorte",
       "ja": "幸運",
       "zh": "幸运",
-      "ru": "удача"
+      "ru": "удача",
+      "fr": "chance"
     },
     "examples": [],
     "meta": {
@@ -39072,12 +39071,12 @@ const WORDS_KO_B1 = [
       "en": "block",
       "de": "blockieren",
       "es": "bloquear",
-      "pl": "blokować",
       "it": "bloccare",
       "pt": "bloquear",
       "ja": "遮る",
       "zh": "阻挡",
-      "ru": "блокировать"
+      "ru": "блокировать",
+      "fr": "bloquer"
     },
     "examples": [],
     "meta": {
@@ -39104,12 +39103,12 @@ const WORDS_KO_B1 = [
       "en": "interference",
       "de": "die Einmischung",
       "es": "la interferencia",
-      "pl": "ingerencja",
       "it": "l'interferenza",
       "pt": "a interferência",
       "ja": "干渉",
       "zh": "干涉",
-      "ru": "вмешательство"
+      "ru": "вмешательство",
+      "fr": "interférence"
     },
     "examples": [],
     "meta": {
@@ -39135,12 +39134,12 @@ const WORDS_KO_B1 = [
       "en": "thirst",
       "de": "der Durst",
       "es": "la sed",
-      "pl": "pragnienie",
       "it": "la sete",
       "pt": "a sede",
       "ja": "渇き",
       "zh": "口渴",
-      "ru": "жажда"
+      "ru": "жажда",
+      "fr": "soif"
     },
     "examples": [],
     "meta": {
@@ -39166,12 +39165,12 @@ const WORDS_KO_B1 = [
       "en": "sudden",
       "de": "plötzlich",
       "es": "repentino",
-      "pl": "nagły",
       "it": "improvviso",
       "pt": "súbito",
       "ja": "突然な",
       "zh": "突然的",
-      "ru": "внезапный"
+      "ru": "внезапный",
+      "fr": "soudain"
     },
     "examples": [],
     "meta": {
@@ -39195,12 +39194,12 @@ const WORDS_KO_B1 = [
       "en": "exchange",
       "de": "austauschen",
       "es": "intercambiar",
-      "pl": "wymieniać",
       "it": "scambiare",
       "pt": "trocar",
       "ja": "交換する",
       "zh": "交换",
-      "ru": "обменивать"
+      "ru": "обменивать",
+      "fr": "échanger"
     },
     "examples": [],
     "meta": {
@@ -39227,12 +39226,12 @@ const WORDS_KO_B1 = [
       "en": "origin",
       "de": "der Ursprung",
       "es": "el origen",
-      "pl": "pochodzenie",
       "it": "l'origine",
       "pt": "a origem",
       "ja": "起源",
       "zh": "起源",
-      "ru": "происхождение"
+      "ru": "происхождение",
+      "fr": "origine"
     },
     "examples": [],
     "meta": {
@@ -39258,12 +39257,12 @@ const WORDS_KO_B1 = [
       "en": "commotion",
       "de": "der Aufruhr",
       "es": "el alboroto",
-      "pl": "zamieszanie",
       "it": "il pandemonio",
       "pt": "a confusão",
       "ja": "大騒ぎ",
       "zh": "骚乱",
-      "ru": "суматоха"
+      "ru": "суматоха",
+      "fr": "agitation"
     },
     "examples": [],
     "meta": {
@@ -39289,12 +39288,12 @@ const WORDS_KO_B1 = [
       "en": "abandon",
       "de": "verlassen",
       "es": "abandonar",
-      "pl": "porzucić",
       "it": "abbandonare",
       "pt": "abandonar",
       "ja": "捨てる",
       "zh": "抛弃",
-      "ru": "бросать"
+      "ru": "бросать",
+      "fr": "abandonner"
     },
     "examples": [],
     "meta": {
@@ -39321,12 +39320,12 @@ const WORDS_KO_B1 = [
       "en": "do differently",
       "de": "anders machen",
       "es": "hacer de otra manera",
-      "pl": "robić inaczej",
       "it": "fare diversamente",
       "pt": "fazer diferente",
       "ja": "달리하다",
       "zh": "另做",
-      "ru": "делать иначе"
+      "ru": "делать иначе",
+      "fr": "faire différemment"
     },
     "examples": [],
     "meta": {
@@ -39353,12 +39352,12 @@ const WORDS_KO_B1 = [
       "en": "run",
       "de": "rennen",
       "es": "correr",
-      "pl": "biec",
       "it": "correre",
       "pt": "correr",
       "ja": "走り行く",
       "zh": "跑去",
-      "ru": "бежать"
+      "ru": "бежать",
+      "fr": "courir"
     },
     "examples": [],
     "meta": {
@@ -39386,12 +39385,12 @@ const WORDS_KO_B1 = [
       "en": "missile",
       "de": "die Rakete",
       "es": "el misil",
-      "pl": "pocisk",
       "it": "il missile",
       "pt": "o míssil",
       "ja": "ミサイル",
       "zh": "导弹",
-      "ru": "ракета"
+      "ru": "ракета",
+      "fr": "missile"
     },
     "examples": [],
     "meta": {
@@ -39417,12 +39416,12 @@ const WORDS_KO_B1 = [
       "en": "preservation",
       "de": "die Erhaltung",
       "es": "la preservación",
-      "pl": "konserwacja",
       "it": "la conservazione",
       "pt": "a preservação",
       "ja": "保存",
       "zh": "保存",
-      "ru": "сохранение"
+      "ru": "сохранение",
+      "fr": "préservation"
     },
     "examples": [],
     "meta": {
@@ -39448,12 +39447,12 @@ const WORDS_KO_B1 = [
       "en": "be protected",
       "de": "geschützt werden",
       "es": "ser protegido",
-      "pl": "być chronionym",
       "it": "essere protetto",
       "pt": "ser protegido",
       "ja": "保護される",
       "zh": "被保护",
-      "ru": "быть защищенным"
+      "ru": "быть защищенным",
+      "fr": "être protégé"
     },
     "examples": [],
     "meta": {
@@ -39480,12 +39479,12 @@ const WORDS_KO_B1 = [
       "en": "relation",
       "de": "die Beziehung",
       "es": "la relación",
-      "pl": "związek",
       "it": "la relazione",
       "pt": "a relação",
       "ja": "関係",
       "zh": "关系",
-      "ru": "отношение"
+      "ru": "отношение",
+      "fr": "relation"
     },
     "examples": [],
     "meta": {
@@ -39511,12 +39510,12 @@ const WORDS_KO_B1 = [
       "en": "be explained",
       "de": "erklärt werden",
       "es": "ser explicado",
-      "pl": "być wyjaśnionym",
       "it": "essere spiegato",
       "pt": "ser explicado",
       "ja": "説明される",
       "zh": "被说明",
-      "ru": "быть объясненным"
+      "ru": "быть объясненным",
+      "fr": "être expliqué"
     },
     "examples": [],
     "meta": {
@@ -39543,12 +39542,12 @@ const WORDS_KO_B1 = [
       "en": "disappointed",
       "de": "enttäuscht",
       "es": "decepcionado",
-      "pl": "rozczarowany",
       "it": "deluso",
       "pt": "decepcionado",
       "ja": "残念な",
       "zh": "失望的",
-      "ru": "разочарованный"
+      "ru": "разочарованный",
+      "fr": "déçu"
     },
     "examples": [],
     "meta": {
@@ -39572,12 +39571,12 @@ const WORDS_KO_B1 = [
       "en": "sophisticated",
       "de": "raffiniert",
       "es": "sofisticado",
-      "pl": "wyrafinowany",
       "it": "raffinato",
       "pt": "sofisticado",
       "ja": "洗練された",
       "zh": "精致的",
-      "ru": "утонченный"
+      "ru": "утонченный",
+      "fr": "sophistiqué"
     },
     "examples": [],
     "meta": {
@@ -39601,12 +39600,12 @@ const WORDS_KO_B1 = [
       "en": "easy",
       "de": "einfach",
       "es": "fácil",
-      "pl": "łatwy",
       "it": "facile",
       "pt": "fácil",
       "ja": "容易な",
       "zh": "容易的",
-      "ru": "легкий"
+      "ru": "легкий",
+      "fr": "facile"
     },
     "examples": [],
     "meta": {
@@ -39631,12 +39630,12 @@ const WORDS_KO_B1 = [
       "en": "heat",
       "de": "die Hitze",
       "es": "el calor",
-      "pl": "gorąco",
       "it": "il calore",
       "pt": "o calor",
       "ja": "熱",
       "zh": "热",
-      "ru": "жара"
+      "ru": "жара",
+      "fr": "chaleur"
     },
     "examples": [],
     "meta": {
@@ -39662,12 +39661,12 @@ const WORDS_KO_B1 = [
       "en": "attire",
       "de": "die Kleidung",
       "es": "la vestimenta",
-      "pl": "ubiór",
       "it": "l'abbigliamento",
       "pt": "o traje",
       "ja": "服装",
       "zh": "着装",
-      "ru": "одежда"
+      "ru": "одежда",
+      "fr": "tenue"
     },
     "examples": [],
     "meta": {
@@ -39693,12 +39692,12 @@ const WORDS_KO_B1 = [
       "en": "comfort",
       "de": "trösten",
       "es": "consolar",
-      "pl": "pocieszać",
       "it": "confortare",
       "pt": "consolar",
       "ja": "慰める",
       "zh": "安慰",
-      "ru": "утешать"
+      "ru": "утешать",
+      "fr": "réconforter"
     },
     "examples": [],
     "meta": {
@@ -39726,12 +39725,12 @@ const WORDS_KO_B1 = [
       "en": "agreement",
       "de": "die Übereinstimmung",
       "es": "el acuerdo",
-      "pl": "zgodność",
       "it": "l'accordo",
       "pt": "o acordo",
       "ja": "一致",
       "zh": "一致",
-      "ru": "согласие"
+      "ru": "согласие",
+      "fr": "accord"
     },
     "examples": [],
     "meta": {
@@ -39757,12 +39756,12 @@ const WORDS_KO_B1 = [
       "en": "regeneration",
       "de": "die Regeneration",
       "es": "la regeneración",
-      "pl": "regeneracja",
       "it": "la rigenerazione",
       "pt": "a regeneração",
       "ja": "再生",
       "zh": "再生",
-      "ru": "регенерация"
+      "ru": "регенерация",
+      "fr": "régénération"
     },
     "examples": [],
     "meta": {
@@ -39788,12 +39787,12 @@ const WORDS_KO_B1 = [
       "en": "tear",
       "de": "reißen",
       "es": "romperse",
-      "pl": "rozdzierać się",
       "it": "strapparsi",
       "pt": "rasgar-se",
       "ja": "裂ける",
       "zh": "撕裂",
-      "ru": "рваться"
+      "ru": "рваться",
+      "fr": "déchirer"
     },
     "examples": [],
     "meta": {
@@ -39820,12 +39819,12 @@ const WORDS_KO_B1 = [
       "en": "philosopher",
       "de": "der Philosoph",
       "es": "el filósofo",
-      "pl": "filozof",
       "it": "il filosofo",
       "pt": "o filósofo",
       "ja": "哲学者",
       "zh": "哲学家",
-      "ru": "философ"
+      "ru": "философ",
+      "fr": "philosophe"
     },
     "examples": [],
     "meta": {
@@ -39851,12 +39850,12 @@ const WORDS_KO_B1 = [
       "en": "color",
       "de": "die Farbe",
       "es": "el color",
-      "pl": "kolor",
       "it": "il colore",
       "pt": "a cor",
       "ja": "色",
       "zh": "颜色",
-      "ru": "цвет"
+      "ru": "цвет",
+      "fr": "couleur"
     },
     "examples": [],
     "meta": {
@@ -39882,12 +39881,12 @@ const WORDS_KO_B1 = [
       "en": "call",
       "de": "der Anruf",
       "es": "la llamada",
-      "pl": "rozmowa telefoniczna",
       "it": "la chiamata",
       "pt": "a chamada",
       "ja": "通話",
       "zh": "通话",
-      "ru": "звонок"
+      "ru": "звонок",
+      "fr": "appel"
     },
     "examples": [],
     "meta": {
@@ -39913,12 +39912,12 @@ const WORDS_KO_B1 = [
       "en": "unusual",
       "de": "ungewöhnlich",
       "es": "inusual",
-      "pl": "niezwykły",
       "it": "insolito",
       "pt": "incomum",
       "ja": "珍しい",
       "zh": "特别",
-      "ru": "необычный"
+      "ru": "необычный",
+      "fr": "inhabituel"
     },
     "examples": [],
     "meta": {
@@ -39942,12 +39941,12 @@ const WORDS_KO_B1 = [
       "en": "inevitable",
       "de": "unvermeidlich",
       "es": "inevitable",
-      "pl": "nieuchronny",
       "it": "inevitabile",
       "pt": "inevitável",
       "ja": "必然的",
       "zh": "必然",
-      "ru": "неизбежный"
+      "ru": "неизбежный",
+      "fr": "inévitable"
     },
     "examples": [],
     "meta": {
@@ -39972,12 +39971,12 @@ const WORDS_KO_B1 = [
       "en": "one night",
       "de": "eine Nacht",
       "es": "una noche",
-      "pl": "jedna noc",
       "it": "una notte",
       "pt": "uma noite",
       "ja": "一晩",
       "zh": "一夜",
-      "ru": "одна ночь"
+      "ru": "одна ночь",
+      "fr": "une nuit"
     },
     "examples": [],
     "meta": {
@@ -40003,12 +40002,12 @@ const WORDS_KO_B1 = [
       "en": "flow down",
       "de": "herunterfließen",
       "es": "fluir hacia abajo",
-      "pl": "spływać",
       "it": "scorrere giù",
       "pt": "escorrer para baixo",
       "ja": "流れ落ちる",
       "zh": "流下",
-      "ru": "стекать"
+      "ru": "стекать",
+      "fr": "s'écouler"
     },
     "examples": [],
     "meta": {
@@ -40035,12 +40034,12 @@ const WORDS_KO_B1 = [
       "en": "commemoration",
       "de": "die Gedenkfeier",
       "es": "la conmemoración",
-      "pl": "upamiętnienie",
       "it": "la commemorazione",
       "pt": "a comemoração",
       "ja": "記念",
       "zh": "纪念",
-      "ru": "чествование"
+      "ru": "чествование",
+      "fr": "commémoration"
     },
     "examples": [],
     "meta": {
@@ -40066,12 +40065,12 @@ const WORDS_KO_B1 = [
       "en": "improve",
       "de": "sich verbessern",
       "es": "mejorar",
-      "pl": "poprawiać się",
       "it": "migliorare",
       "pt": "melhorar",
       "ja": "良くなる",
       "zh": "好转",
-      "ru": "улучшаться"
+      "ru": "улучшаться",
+      "fr": "s'améliorer"
     },
     "examples": [],
     "meta": {
@@ -40098,12 +40097,12 @@ const WORDS_KO_B1 = [
       "en": "come over",
       "de": "herüberkommen",
       "es": "venir",
-      "pl": "przejść",
       "it": "venire",
       "pt": "vir",
       "ja": "越えてくる",
       "zh": "过来",
-      "ru": "приходить"
+      "ru": "приходить",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {
@@ -40130,12 +40129,12 @@ const WORDS_KO_B1 = [
       "en": "return",
       "de": "zurückgeben",
       "es": "devolver",
-      "pl": "zwrócić",
       "it": "restituire",
       "pt": "devolver",
       "ja": "戻す",
       "zh": "归还",
-      "ru": "вернуть"
+      "ru": "вернуть",
+      "fr": "rendre"
     },
     "examples": [],
     "meta": {
@@ -40162,12 +40161,12 @@ const WORDS_KO_B1 = [
       "en": "float",
       "de": "schwimmen lassen",
       "es": "flotar",
-      "pl": "pływać",
       "it": "galleggiare",
       "pt": "flutuar",
       "ja": "浮かべる",
       "zh": "漂浮",
-      "ru": "плавать"
+      "ru": "плавать",
+      "fr": "flotter"
     },
     "examples": [],
     "meta": {
@@ -40194,12 +40193,12 @@ const WORDS_KO_B1 = [
       "en": "manners",
       "de": "die Manieren",
       "es": "los modales",
-      "pl": "maniery",
       "it": "le maniere",
       "pt": "os modos",
       "ja": "マナー",
       "zh": "礼仪",
-      "ru": "манеры"
+      "ru": "манеры",
+      "fr": "manières"
     },
     "examples": [],
     "meta": {
@@ -40225,12 +40224,12 @@ const WORDS_KO_B1 = [
       "en": "folklore",
       "de": "die Folklore",
       "es": "el folclore",
-      "pl": "folklor",
       "it": "il folklore",
       "pt": "o folclore",
       "ja": "民俗",
       "zh": "民俗",
-      "ru": "фольклор"
+      "ru": "фольклор",
+      "fr": "folklore"
     },
     "examples": [],
     "meta": {
@@ -40257,12 +40256,12 @@ const WORDS_KO_B1 = [
       "en": "be discarded",
       "de": "weggeworfen werden",
       "es": "ser desechado",
-      "pl": "zostać wyrzuconym",
       "it": "essere scartato",
       "pt": "ser descartado",
       "ja": "捨てられる",
       "zh": "被丢弃",
-      "ru": "быть выброшенным"
+      "ru": "быть выброшенным",
+      "fr": "être jeté"
     },
     "examples": [],
     "meta": {
@@ -40289,12 +40288,12 @@ const WORDS_KO_B1 = [
       "en": "persuade",
       "de": "überzeugen",
       "es": "persuadir",
-      "pl": "przekonywać",
       "it": "persuadere",
       "pt": "persuadir",
       "ja": "説得する",
       "zh": "说服",
-      "ru": "убеждать"
+      "ru": "убеждать",
+      "fr": "persuader"
     },
     "examples": [],
     "meta": {
@@ -40321,12 +40320,12 @@ const WORDS_KO_B1 = [
       "en": "trimming",
       "de": "die Ausbesserung",
       "es": "el arreglo",
-      "pl": "przycinanie",
       "it": "la rifinitura",
       "pt": "o acabamento",
       "ja": "手入れ",
       "zh": "修整",
-      "ru": "обработка"
+      "ru": "обработка",
+      "fr": "la taille"
     },
     "examples": [],
     "meta": {
@@ -40353,12 +40352,12 @@ const WORDS_KO_B1 = [
       "en": "part-time job",
       "de": "der Nebenjob",
       "es": "el trabajo a tiempo parcial",
-      "pl": "praca dorywcza",
       "it": "il lavoro part-time",
       "pt": "o trabalho de meio período",
       "ja": "アルバイト",
       "zh": "兼职",
-      "ru": "подработка"
+      "ru": "подработка",
+      "fr": "emploi à temps partiel"
     },
     "examples": [],
     "meta": {
@@ -40384,12 +40383,12 @@ const WORDS_KO_B1 = [
       "en": "loneliness",
       "de": "die Einsamkeit",
       "es": "la soledad",
-      "pl": "samotność",
       "it": "la solitudine",
       "pt": "a solidão",
       "ja": "孤独",
       "zh": "孤独",
-      "ru": "одиночество"
+      "ru": "одиночество",
+      "fr": "la solitude"
     },
     "examples": [],
     "meta": {
@@ -40415,12 +40414,12 @@ const WORDS_KO_B1 = [
       "en": "enlistment",
       "de": "die Einberufung",
       "es": "el alistamiento",
-      "pl": "zaciąg",
       "it": "l'arruolamento",
       "pt": "o alistamento",
       "ja": "入隊",
       "zh": "入伍",
-      "ru": "призыв"
+      "ru": "призыв",
+      "fr": "enrôlement"
     },
     "examples": [],
     "meta": {
@@ -40446,12 +40445,12 @@ const WORDS_KO_B1 = [
       "en": "aptitude",
       "de": "die Eignung",
       "es": "la aptitud",
-      "pl": "zdolność",
       "it": "l'attitudine",
       "pt": "a aptidão",
       "ja": "適性",
       "zh": "才能",
-      "ru": "способность"
+      "ru": "способность",
+      "fr": "aptitude"
     },
     "examples": [],
     "meta": {
@@ -40477,12 +40476,12 @@ const WORDS_KO_B1 = [
       "en": "forecast",
       "de": "vorhersagen",
       "es": "prever",
-      "pl": "prognozować",
       "it": "prevedere",
       "pt": "prever",
       "ja": "予測する",
       "zh": "预测",
-      "ru": "прогнозировать"
+      "ru": "прогнозировать",
+      "fr": "prévoir"
     },
     "examples": [],
     "meta": {
@@ -40509,12 +40508,12 @@ const WORDS_KO_B1 = [
       "en": "collective",
       "de": "kollektiv",
       "es": "colectivo",
-      "pl": "zbiorowy",
       "it": "collettivo",
       "pt": "coletivo",
       "ja": "集団的",
       "zh": "集体的",
-      "ru": "коллективный"
+      "ru": "коллективный",
+      "fr": "collectif"
     },
     "examples": [],
     "meta": {
@@ -40538,12 +40537,12 @@ const WORDS_KO_B1 = [
       "en": "difference",
       "de": "der Unterschied",
       "es": "la diferencia",
-      "pl": "różnica",
       "it": "la differenza",
       "pt": "a diferença",
       "ja": "違い",
       "zh": "差异",
-      "ru": "различие"
+      "ru": "различие",
+      "fr": "la différence"
     },
     "examples": [],
     "meta": {
@@ -40569,12 +40568,12 @@ const WORDS_KO_B1 = [
       "en": "railway",
       "de": "die Eisenbahn",
       "es": "el ferrocarril",
-      "pl": "kolej",
       "it": "la ferrovia",
       "pt": "a ferrovia",
       "ja": "鉄道",
       "zh": "铁路",
-      "ru": "железная дорога"
+      "ru": "железная дорога",
+      "fr": "chemin de fer"
     },
     "examples": [],
     "meta": {
@@ -40600,12 +40599,12 @@ const WORDS_KO_B1 = [
       "en": "bachelor",
       "de": "der Junggeselle",
       "es": "el soltero",
-      "pl": "kawaler",
       "it": "il scapolo",
       "pt": "o solteiro",
       "ja": "独身男性",
       "zh": "单身男子",
-      "ru": "холостяк"
+      "ru": "холостяк",
+      "fr": "célibataire"
     },
     "examples": [],
     "meta": {
@@ -40631,12 +40630,12 @@ const WORDS_KO_B1 = [
       "en": "campaign",
       "de": "die Kampagne",
       "es": "la campaña",
-      "pl": "kampania",
       "it": "la campagna",
       "pt": "a campanha",
       "ja": "キャンペーン",
       "zh": "活动",
-      "ru": "кампания"
+      "ru": "кампания",
+      "fr": "campagne"
     },
     "examples": [],
     "meta": {
@@ -40662,12 +40661,12 @@ const WORDS_KO_B1 = [
       "en": "glance",
       "de": "ein Blick",
       "es": "un vistazo",
-      "pl": "spojrzenie",
       "it": "uno sguardo",
       "pt": "um olhar",
       "ja": "一目",
       "zh": "一瞥",
-      "ru": "взгляд"
+      "ru": "взгляд",
+      "fr": "coup d'œil"
     },
     "examples": [],
     "meta": {
@@ -40693,12 +40692,12 @@ const WORDS_KO_B1 = [
       "en": "flood",
       "de": "die Flut",
       "es": "la inundación",
-      "pl": "powódź",
       "it": "l'inondazione",
       "pt": "a inundação",
       "ja": "洪水",
       "zh": "洪水",
-      "ru": "наводнение"
+      "ru": "наводнение",
+      "fr": "inondation"
     },
     "examples": [],
     "meta": {
@@ -40724,12 +40723,12 @@ const WORDS_KO_B1 = [
       "en": "drought",
       "de": "die Dürre",
       "es": "la sequía",
-      "pl": "susza",
       "it": "la siccità",
       "pt": "a seca",
       "ja": "干ばつ",
       "zh": "干旱",
-      "ru": "засуха"
+      "ru": "засуха",
+      "fr": "sécheresse"
     },
     "examples": [],
     "meta": {
@@ -40755,12 +40754,12 @@ const WORDS_KO_B1 = [
       "en": "indirectness",
       "de": "die Indirektheit",
       "es": "la indirecta",
-      "pl": "pośredniość",
       "it": "l'indirettezza",
       "pt": "a indireta",
       "ja": "間接",
       "zh": "间接",
-      "ru": "косвенность"
+      "ru": "косвенность",
+      "fr": "caractère indirect"
     },
     "examples": [],
     "meta": {
@@ -40786,12 +40785,12 @@ const WORDS_KO_B1 = [
       "en": "improve",
       "de": "verbessern",
       "es": "mejorar",
-      "pl": "ulepszyć",
       "it": "migliorare",
       "pt": "melhorar",
       "ja": "改善される",
       "zh": "改善",
-      "ru": "улучшаться"
+      "ru": "улучшаться",
+      "fr": "améliorer"
     },
     "examples": [],
     "meta": {
@@ -40818,12 +40817,12 @@ const WORDS_KO_B1 = [
       "en": "pass",
       "de": "übergeben",
       "es": "pasar",
-      "pl": "przekazać",
       "it": "passare",
       "pt": "passar",
       "ja": "渡す",
       "zh": "递给",
-      "ru": "передавать"
+      "ru": "передавать",
+      "fr": "passer"
     },
     "examples": [],
     "meta": {
@@ -40850,12 +40849,12 @@ const WORDS_KO_B1 = [
       "en": "crab",
       "de": "die Krabbe",
       "es": "el cangrejo",
-      "pl": "krab",
       "it": "il granchio",
       "pt": "o caranguejo",
       "ja": "カニ",
       "zh": "螃蟹",
-      "ru": "краб"
+      "ru": "краб",
+      "fr": "crabe"
     },
     "examples": [],
     "meta": {
@@ -40881,12 +40880,12 @@ const WORDS_KO_B1 = [
       "en": "decision",
       "de": "die Entschlossenheit",
       "es": "la decisión",
-      "pl": "decyzja",
       "it": "la decisione",
       "pt": "a decisão",
       "ja": "決心",
       "zh": "决心",
-      "ru": "решение"
+      "ru": "решение",
+      "fr": "décision"
     },
     "examples": [],
     "meta": {
@@ -40912,12 +40911,12 @@ const WORDS_KO_B1 = [
       "en": "teaching profession",
       "de": "der Lehrberuf",
       "es": "la profesión docente",
-      "pl": "zawód nauczyciela",
       "it": "la professione di insegnante",
       "pt": "a profissão de professor",
       "ja": "教職",
       "zh": "教职",
-      "ru": "преподавательская деятельность"
+      "ru": "преподавательская деятельность",
+      "fr": "profession d'enseignant"
     },
     "examples": [],
     "meta": {
@@ -40943,12 +40942,12 @@ const WORDS_KO_B1 = [
       "en": "arrest",
       "de": "festnehmen",
       "es": "arrestar",
-      "pl": "aresztować",
       "it": "arrestare",
       "pt": "prender",
       "ja": "逮捕する",
       "zh": "拘留",
-      "ru": "задерживать"
+      "ru": "задерживать",
+      "fr": "arrêter"
     },
     "examples": [],
     "meta": {
@@ -40975,12 +40974,12 @@ const WORDS_KO_B1 = [
       "en": "precious",
       "de": "wertvoll",
       "es": "valioso",
-      "pl": "cenny",
       "it": "prezioso",
       "pt": "precioso",
       "ja": "貴重だ",
       "zh": "宝贵",
-      "ru": "ценный"
+      "ru": "ценный",
+      "fr": "précieux"
     },
     "examples": [],
     "meta": {
@@ -41004,12 +41003,12 @@ const WORDS_KO_B1 = [
       "en": "scratch",
       "de": "kratzen",
       "es": "rascar",
-      "pl": "drapać",
       "it": "grattare",
       "pt": "arranhar",
       "ja": "引っ掻く",
       "zh": "抓",
-      "ru": "царапать"
+      "ru": "царапать",
+      "fr": "gratter"
     },
     "examples": [],
     "meta": {
@@ -41036,12 +41035,12 @@ const WORDS_KO_B1 = [
       "en": "exhale",
       "de": "ausatmen",
       "es": "exhalar",
-      "pl": "wydychać",
       "it": "espirare",
       "pt": "expirar",
       "ja": "息を吐く",
       "zh": "呼气",
-      "ru": "выдыхать"
+      "ru": "выдыхать",
+      "fr": "expirer"
     },
     "examples": [],
     "meta": {
@@ -41068,12 +41067,12 @@ const WORDS_KO_B1 = [
       "en": "sag",
       "de": "sich dehnen",
       "es": "colgar",
-      "pl": "więdnąć",
       "it": "allentarsi",
       "pt": "esticar-se",
       "ja": "だれる",
       "zh": "松弛",
-      "ru": "обвисать"
+      "ru": "обвисать",
+      "fr": "s'affaisser"
     },
     "examples": [],
     "meta": {
@@ -41100,12 +41099,12 @@ const WORDS_KO_B1 = [
       "en": "solitary",
       "de": "die Einzelheit",
       "es": "la soledad",
-      "pl": "samotność",
       "it": "la solitudine",
       "pt": "a solidão",
       "ja": "単独",
       "zh": "单独",
-      "ru": "одиночество"
+      "ru": "одиночество",
+      "fr": "solitaire"
     },
     "examples": [],
     "meta": {
@@ -41131,12 +41130,12 @@ const WORDS_KO_B1 = [
       "en": "flock",
       "de": "sich versammeln",
       "es": "acudir",
-      "pl": "zbierać się",
       "it": "affluire",
       "pt": "acudir",
       "ja": "群がる",
       "zh": "聚集",
-      "ru": "стекаться"
+      "ru": "стекаться",
+      "fr": "troupeau"
     },
     "examples": [],
     "meta": {
@@ -41163,12 +41162,12 @@ const WORDS_KO_B1 = [
       "en": "thing",
       "de": "die Sache",
       "es": "la cosa",
-      "pl": "rzecz",
       "it": "la cosa",
       "pt": "a coisa",
       "ja": "こと",
       "zh": "事",
-      "ru": "вещь"
+      "ru": "вещь",
+      "fr": "chose"
     },
     "examples": [],
     "meta": {
@@ -41194,12 +41193,12 @@ const WORDS_KO_B1 = [
       "en": "footprint",
       "de": "der Fußabdruck",
       "es": "la huella",
-      "pl": "ślad",
       "it": "l'impronta",
       "pt": "a pegada",
       "ja": "足跡",
       "zh": "脚印",
-      "ru": "след"
+      "ru": "след",
+      "fr": "empreinte"
     },
     "examples": [],
     "meta": {
@@ -41225,12 +41224,12 @@ const WORDS_KO_B1 = [
       "en": "spit",
       "de": "spucken",
       "es": "escupir",
-      "pl": "pluć",
       "it": "sputare",
       "pt": "cuspir",
       "ja": "吐く",
       "zh": "吐",
-      "ru": "плевать"
+      "ru": "плевать",
+      "fr": "cracher"
     },
     "examples": [],
     "meta": {
@@ -41257,12 +41256,12 @@ const WORDS_KO_B1 = [
       "en": "bonus",
       "de": "der Bonus",
       "es": "el bono",
-      "pl": "premia",
       "it": "il bonus",
       "pt": "o bônus",
       "ja": "ボーナス",
       "zh": "奖金",
-      "ru": "бонус"
+      "ru": "бонус",
+      "fr": "bonus"
     },
     "examples": [],
     "meta": {
@@ -41288,12 +41287,12 @@ const WORDS_KO_B1 = [
       "en": "vitality",
       "de": "die Lebendigkeit",
       "es": "la vitalidad",
-      "pl": "żywotność",
       "it": "la vitalità",
       "pt": "a vitalidade",
       "ja": "元気",
       "zh": "活力",
-      "ru": "жизненная сила"
+      "ru": "жизненная сила",
+      "fr": "vitalité"
     },
     "examples": [],
     "meta": {
@@ -41320,12 +41319,12 @@ const WORDS_KO_B1 = [
       "en": "book",
       "de": "das Buch",
       "es": "el libro",
-      "pl": "książka",
       "it": "il libro",
       "pt": "o livro",
       "ja": "書籍",
       "zh": "书籍",
-      "ru": "книга"
+      "ru": "книга",
+      "fr": "livre"
     },
     "examples": [],
     "meta": {
@@ -41351,12 +41350,12 @@ const WORDS_KO_B1 = [
       "en": "digestion",
       "de": "die Verdauung",
       "es": "la digestión",
-      "pl": "trawienie",
       "it": "la digestione",
       "pt": "a digestão",
       "ja": "消化",
       "zh": "消化",
-      "ru": "пищеварение"
+      "ru": "пищеварение",
+      "fr": "digestion"
     },
     "examples": [],
     "meta": {
@@ -41382,12 +41381,12 @@ const WORDS_KO_B1 = [
       "en": "examinee",
       "de": "der Prüfling",
       "es": "el examinado",
-      "pl": "kandydat",
       "it": "l'esaminando",
       "pt": "o candidato",
       "ja": "受験생",
       "zh": "考生",
-      "ru": "экзаменующийся"
+      "ru": "экзаменующийся",
+      "fr": "candidat"
     },
     "examples": [],
     "meta": {
@@ -41413,12 +41412,12 @@ const WORDS_KO_B1 = [
       "en": "new generation",
       "de": "die neue Generation",
       "es": "la nueva generación",
-      "pl": "nowe pokolenie",
       "it": "la nuova generazione",
       "pt": "a nova geração",
       "ja": "新世代",
       "zh": "新一代",
-      "ru": "новое поколение"
+      "ru": "новое поколение",
+      "fr": "nouvelle génération"
     },
     "examples": [],
     "meta": {
@@ -41444,12 +41443,12 @@ const WORDS_KO_B1 = [
       "en": "violate",
       "de": "verletzen",
       "es": "violar",
-      "pl": "złamać",
       "it": "violare",
       "pt": "violar",
       "ja": "破る",
       "zh": "违反",
-      "ru": "нарушать"
+      "ru": "нарушать",
+      "fr": "violer"
     },
     "examples": [],
     "meta": {
@@ -41476,12 +41475,12 @@ const WORDS_KO_B1 = [
       "en": "researcher",
       "de": "der Forscher",
       "es": "el investigador",
-      "pl": "badacz",
       "it": "il ricercatore",
       "pt": "o pesquisador",
       "ja": "研究員",
       "zh": "研究员",
-      "ru": "исследователь"
+      "ru": "исследователь",
+      "fr": "chercheur"
     },
     "examples": [],
     "meta": {
@@ -41507,12 +41506,12 @@ const WORDS_KO_B1 = [
       "en": "dating",
       "de": "die Liebesbeziehung",
       "es": "el noviazgo",
-      "pl": "randkowanie",
       "it": "la relazione amorosa",
       "pt": "o namoro",
       "ja": "恋愛",
       "zh": "恋爱",
-      "ru": "встречаться"
+      "ru": "встречаться",
+      "fr": "rencontres"
     },
     "examples": [],
     "meta": {
@@ -41538,12 +41537,12 @@ const WORDS_KO_B1 = [
       "en": "summarize",
       "de": "zusammenfassen",
       "es": "resumir",
-      "pl": "podsumować",
       "it": "riassumere",
       "pt": "resumir",
       "ja": "要約する",
       "zh": "总结",
-      "ru": "резюмировать"
+      "ru": "резюмировать",
+      "fr": "résumer"
     },
     "examples": [],
     "meta": {
@@ -41570,12 +41569,12 @@ const WORDS_KO_B1 = [
       "en": "satellite",
       "de": "der Satellit",
       "es": "el satélite",
-      "pl": "satelita",
       "it": "il satellite",
       "pt": "o satélite",
       "ja": "衛星",
       "zh": "卫星",
-      "ru": "спутник"
+      "ru": "спутник",
+      "fr": "satellite"
     },
     "examples": [],
     "meta": {
@@ -41601,12 +41600,12 @@ const WORDS_KO_B1 = [
       "en": "suicide",
       "de": "der Selbstmord",
       "es": "el suicidio",
-      "pl": "samobójstwo",
       "it": "il suicidio",
       "pt": "o suicídio",
       "ja": "自殺",
       "zh": "自杀",
-      "ru": "самоубийство"
+      "ru": "самоубийство",
+      "fr": "suicide"
     },
     "examples": [],
     "meta": {
@@ -41632,12 +41631,12 @@ const WORDS_KO_B1 = [
       "en": "presentation",
       "de": "die Präsentation",
       "es": "la presentación",
-      "pl": "prezentacja",
       "it": "la presentazione",
       "pt": "a apresentação",
       "ja": "提示",
       "zh": "展示",
-      "ru": "представление"
+      "ru": "представление",
+      "fr": "présentation"
     },
     "examples": [],
     "meta": {
@@ -41663,12 +41662,12 @@ const WORDS_KO_B1 = [
       "en": "exclude",
       "de": "ausschließen",
       "es": "excluir",
-      "pl": "wykluczyć",
       "it": "escludere",
       "pt": "excluir",
       "ja": "除外される",
       "zh": "排除",
-      "ru": "исключаться"
+      "ru": "исключаться",
+      "fr": "exclure"
     },
     "examples": [],
     "meta": {
@@ -41695,12 +41694,12 @@ const WORDS_KO_B1 = [
       "en": "stamped",
       "de": "gestempelt",
       "es": "sellado",
-      "pl": "ostemplowany",
       "it": "timbrato",
       "pt": "carimbado",
       "ja": "スタンプされる",
       "zh": "盖章",
-      "ru": "штампованный"
+      "ru": "штампованный",
+      "fr": "estampillé"
     },
     "examples": [],
     "meta": {
@@ -41727,12 +41726,12 @@ const WORDS_KO_B1 = [
       "en": "degeneration",
       "de": "der Verfall",
       "es": "la degeneración",
-      "pl": "degeneracja",
       "it": "la degenerazione",
       "pt": "a degeneração",
       "ja": "堕落",
       "zh": "堕落",
-      "ru": "вырождение"
+      "ru": "вырождение",
+      "fr": "dégénérescence"
     },
     "examples": [],
     "meta": {
@@ -41758,12 +41757,12 @@ const WORDS_KO_B1 = [
       "en": "hall",
       "de": "der Saal",
       "es": "el salón",
-      "pl": "hala",
       "it": "la sala",
       "pt": "o salão",
       "ja": "ホール",
       "zh": "会堂",
-      "ru": "зал"
+      "ru": "зал",
+      "fr": "hall"
     },
     "examples": [],
     "meta": {
@@ -41789,12 +41788,12 @@ const WORDS_KO_B1 = [
       "en": "venue",
       "de": "der Veranstaltungsort",
       "es": "el lugar del evento",
-      "pl": "miejsce wydarzenia",
       "it": "il luogo dell'evento",
       "pt": "o local do evento",
       "ja": "会場",
       "zh": "演出场地",
-      "ru": "место проведения"
+      "ru": "место проведения",
+      "fr": "lieu"
     },
     "examples": [],
     "meta": {
@@ -41820,12 +41819,12 @@ const WORDS_KO_B1 = [
       "en": "nationality",
       "de": "die Nationalität",
       "es": "la nacionalidad",
-      "pl": "narodowość",
       "it": "la nazionalità",
       "pt": "a nacionalidade",
       "ja": "国籍",
       "zh": "国籍",
-      "ru": "национальность"
+      "ru": "национальность",
+      "fr": "nationalité"
     },
     "examples": [],
     "meta": {
@@ -41851,12 +41850,12 @@ const WORDS_KO_B1 = [
       "en": "recently",
       "de": "neulich",
       "es": "recientemente",
-      "pl": "ostatnio",
       "it": "recentemente",
       "pt": "recentemente",
       "ja": "最近",
       "zh": "近来",
-      "ru": "недавно"
+      "ru": "недавно",
+      "fr": "récemment"
     },
     "examples": [],
     "meta": {
@@ -41882,12 +41881,12 @@ const WORDS_KO_B1 = [
       "en": "divide",
       "de": "sich teilen",
       "es": "dividirse",
-      "pl": "dzielić się",
       "it": "dividersi",
       "pt": "dividir-se",
       "ja": "分かれる",
       "zh": "分开",
-      "ru": "разделяться"
+      "ru": "разделяться",
+      "fr": "diviser"
     },
     "examples": [],
     "meta": {
@@ -41915,12 +41914,12 @@ const WORDS_KO_B1 = [
       "en": "word",
       "de": "das Wort",
       "es": "la palabra",
-      "pl": "słowo",
       "it": "la parola",
       "pt": "a palavra",
       "ja": "単語",
       "zh": "词语",
-      "ru": "слово"
+      "ru": "слово",
+      "fr": "mot"
     },
     "examples": [],
     "meta": {
@@ -41946,12 +41945,12 @@ const WORDS_KO_B1 = [
       "en": "around",
       "de": "ungefähr",
       "es": "aproximadamente",
-      "pl": "około",
       "it": "circa",
       "pt": "aproximadamente",
       "ja": "約",
       "zh": "内外",
-      "ru": "около"
+      "ru": "около",
+      "fr": "autour"
     },
     "examples": [],
     "meta": {
@@ -41977,12 +41976,12 @@ const WORDS_KO_B1 = [
       "en": "wolf",
       "de": "der Wolf",
       "es": "el lobo",
-      "pl": "wilk",
       "it": "il lupo",
       "pt": "o lobo",
       "ja": "オオカミ",
       "zh": "狼",
-      "ru": "волк"
+      "ru": "волк",
+      "fr": "loup"
     },
     "examples": [],
     "meta": {
@@ -42008,12 +42007,12 @@ const WORDS_KO_B1 = [
       "en": "line up",
       "de": "sich aufreihen",
       "es": "formar fila",
-      "pl": "ustawić się w kolejce",
       "it": "mettersi in fila",
       "pt": "formar fila",
       "ja": "並ぶ",
       "zh": "排队",
-      "ru": "выстраиваться"
+      "ru": "выстраиваться",
+      "fr": "s'aligner"
     },
     "examples": [],
     "meta": {
@@ -42040,12 +42039,12 @@ const WORDS_KO_B1 = [
       "en": "kind",
       "de": "freundlich",
       "es": "amable",
-      "pl": "życzliwy",
       "it": "gentile",
       "pt": "gentil",
       "ja": "親切だ",
       "zh": "亲切",
-      "ru": "добрый"
+      "ru": "добрый",
+      "fr": "gentil"
     },
     "examples": [],
     "meta": {
@@ -42069,12 +42068,12 @@ const WORDS_KO_B1 = [
       "en": "rush",
       "de": "sich stürzen",
       "es": "precipitarse",
-      "pl": "rzucać się",
       "it": "gettarsi",
       "pt": "precipitar-se",
       "ja": "飛びかかる",
       "zh": "扑过去",
-      "ru": "бросаться"
+      "ru": "бросаться",
+      "fr": "se précipiter"
     },
     "examples": [],
     "meta": {
@@ -42101,12 +42100,12 @@ const WORDS_KO_B1 = [
       "en": "telescope",
       "de": "das Teleskop",
       "es": "el telescopio",
-      "pl": "teleskop",
       "it": "il telescopio",
       "pt": "o telescópio",
       "ja": "望遠鏡",
       "zh": "望远镜",
-      "ru": "телескоп"
+      "ru": "телескоп",
+      "fr": "télescope"
     },
     "examples": [],
     "meta": {
@@ -42132,12 +42131,12 @@ const WORDS_KO_B1 = [
       "en": "model",
       "de": "das Vorbild",
       "es": "el modelo",
-      "pl": "wzór",
       "it": "il modello",
       "pt": "o modelo",
       "ja": "模範",
       "zh": "榜样",
-      "ru": "образец"
+      "ru": "образец",
+      "fr": "modèle"
     },
     "examples": [],
     "meta": {
@@ -42163,12 +42162,12 @@ const WORDS_KO_B1 = [
       "en": "overdo",
       "de": "übertreiben",
       "es": "exagerar",
-      "pl": "przesadzać",
       "it": "esagerare",
       "pt": "exagerar",
       "ja": "無理をする",
       "zh": "勉强",
-      "ru": "переусердствовать"
+      "ru": "переусердствовать",
+      "fr": "exagérer"
     },
     "examples": [],
     "meta": {
@@ -42192,12 +42191,12 @@ const WORDS_KO_B1 = [
       "en": "tie",
       "de": "gebunden sein",
       "es": "estar atado",
-      "pl": "być związanym",
       "it": "essere legato",
       "pt": "estar amarrado",
       "ja": "縛られる",
       "zh": "被绑住",
-      "ru": "быть связанным"
+      "ru": "быть связанным",
+      "fr": "être lié"
     },
     "examples": [],
     "meta": {
@@ -42224,12 +42223,12 @@ const WORDS_KO_B1 = [
       "en": "disturb",
       "de": "stören",
       "es": "molestar",
-      "pl": "przeszkadzać",
       "it": "disturbare",
       "pt": "incomodar",
       "ja": "邪魔する",
       "zh": "妨碍",
-      "ru": "мешать"
+      "ru": "мешать",
+      "fr": "déranger"
     },
     "examples": [],
     "meta": {
@@ -42256,12 +42255,12 @@ const WORDS_KO_B1 = [
       "en": "upper",
       "de": "der Oberlauf",
       "es": "la parte superior",
-      "pl": "górny bieg",
       "it": "la parte superiore",
       "pt": "a parte superior",
       "ja": "上流",
       "zh": "上游",
-      "ru": "верхний"
+      "ru": "верхний",
+      "fr": "supérieur"
     },
     "examples": [],
     "meta": {
@@ -42287,12 +42286,12 @@ const WORDS_KO_B1 = [
       "en": "clear",
       "de": "klar",
       "es": "claro",
-      "pl": "wyraźny",
       "it": "chiaro",
       "pt": "claro",
       "ja": "鮮明だ",
       "zh": "鲜明",
-      "ru": "ясный"
+      "ru": "ясный",
+      "fr": "clair"
     },
     "examples": [],
     "meta": {
@@ -42316,12 +42315,12 @@ const WORDS_KO_B1 = [
       "en": "prefer",
       "de": "bevorzugen",
       "es": "preferir",
-      "pl": "preferować",
       "it": "preferire",
       "pt": "preferir",
       "ja": "好む",
       "zh": "偏爱",
-      "ru": "предпочитать"
+      "ru": "предпочитать",
+      "fr": "préférer"
     },
     "examples": [],
     "meta": {
@@ -42348,12 +42347,12 @@ const WORDS_KO_B1 = [
       "en": "successful",
       "de": "erfolgreich",
       "es": "exitoso",
-      "pl": "udany",
       "it": "di successo",
       "pt": "bem-sucedido",
       "ja": "成功した",
       "zh": "成功的",
-      "ru": "успешный"
+      "ru": "успешный",
+      "fr": "réussi"
     },
     "examples": [],
     "meta": {
@@ -42377,12 +42376,12 @@ const WORDS_KO_B1 = [
       "en": "small scale",
       "de": "der Kleinbetrieb",
       "es": "la pequeña escala",
-      "pl": "mała skala",
       "it": "la piccola scala",
       "pt": "a pequena escala",
       "ja": "小規模",
       "zh": "小规模",
-      "ru": "малый масштаб"
+      "ru": "малый масштаб",
+      "fr": "petite échelle"
     },
     "examples": [],
     "meta": {
@@ -42408,12 +42407,12 @@ const WORDS_KO_B1 = [
       "en": "field of vision",
       "de": "das Sichtfeld",
       "es": "el campo de visión",
-      "pl": "pole widzenia",
       "it": "il campo visivo",
       "pt": "o campo de visão",
       "ja": "視野",
       "zh": "视野",
-      "ru": "поле зрения"
+      "ru": "поле зрения",
+      "fr": "champ de vision"
     },
     "examples": [],
     "meta": {
@@ -42439,12 +42438,12 @@ const WORDS_KO_B1 = [
       "en": "be realized",
       "de": "sich verwirklichen",
       "es": "realizarse",
-      "pl": "zrealizować się",
       "it": "realizzarsi",
       "pt": "realizar-se",
       "ja": "実現する",
       "zh": "实现",
-      "ru": "осуществляться"
+      "ru": "осуществляться",
+      "fr": "se réaliser"
     },
     "examples": [],
     "meta": {
@@ -42471,12 +42470,12 @@ const WORDS_KO_B1 = [
       "en": "go up and down",
       "de": "auf und ab gehen",
       "es": "subir y bajar",
-      "pl": "wchodzić i schodzić",
       "it": "salire e scendere",
       "pt": "subir e descer",
       "ja": "上り下りする",
       "zh": "上下",
-      "ru": "подниматься и опускаться"
+      "ru": "подниматься и опускаться",
+      "fr": "monter et descendre"
     },
     "examples": [],
     "meta": {
@@ -42503,12 +42502,12 @@ const WORDS_KO_B1 = [
       "en": "prince",
       "de": "der Prinz",
       "es": "el príncipe",
-      "pl": "książę",
       "it": "il principe",
       "pt": "o príncipe",
       "ja": "王子",
       "zh": "王子",
-      "ru": "принц"
+      "ru": "принц",
+      "fr": "prince"
     },
     "examples": [],
     "meta": {
@@ -42534,12 +42533,12 @@ const WORDS_KO_B1 = [
       "en": "type",
       "de": "der Typ",
       "es": "el tipo",
-      "pl": "typ",
       "it": "il tipo",
       "pt": "o tipo",
       "ja": "タイプ",
       "zh": "类型",
-      "ru": "тип"
+      "ru": "тип",
+      "fr": "type"
     },
     "examples": [],
     "meta": {
@@ -42566,12 +42565,12 @@ const WORDS_KO_B1 = [
       "en": "everyday",
       "de": "alltäglich",
       "es": "cotidiano",
-      "pl": "codzienny",
       "it": "quotidiano",
       "pt": "cotidiano",
       "ja": "日常の",
       "zh": "日常的",
-      "ru": "повседневный"
+      "ru": "повседневный",
+      "fr": "quotidien"
     },
     "examples": [],
     "meta": {
@@ -42595,12 +42594,12 @@ const WORDS_KO_B1 = [
       "en": "major in",
       "de": "sich spezialisieren auf",
       "es": "especializarse en",
-      "pl": "specjalizować się w",
       "it": "specializzarsi in",
       "pt": "especializar-se em",
       "ja": "専攻する",
       "zh": "主修",
-      "ru": "специализироваться"
+      "ru": "специализироваться",
+      "fr": "se spécialiser en"
     },
     "examples": [],
     "meta": {
@@ -42627,12 +42626,12 @@ const WORDS_KO_B1 = [
       "en": "before and after",
       "de": "vor und nach",
       "es": "antes y después",
-      "pl": "przed i po",
       "it": "prima e dopo",
       "pt": "antes e depois",
       "ja": "前後",
       "zh": "前后",
-      "ru": "до и после"
+      "ru": "до и после",
+      "fr": "avant et après"
     },
     "examples": [],
     "meta": {
@@ -42658,12 +42657,12 @@ const WORDS_KO_B1 = [
       "en": "normal",
       "de": "normal",
       "es": "normal",
-      "pl": "normalny",
       "it": "normale",
       "pt": "normal",
       "ja": "正常な",
       "zh": "正常的",
-      "ru": "нормальный"
+      "ru": "нормальный",
+      "fr": "normal"
     },
     "examples": [],
     "meta": {
@@ -42687,12 +42686,12 @@ const WORDS_KO_B1 = [
       "en": "qualitative",
       "de": "qualitativ",
       "es": "cualitativo",
-      "pl": "jakościowy",
       "it": "qualitativo",
       "pt": "qualitativo",
       "ja": "質的な",
       "zh": "质的",
-      "ru": "качественный"
+      "ru": "качественный",
+      "fr": "qualitatif"
     },
     "examples": [],
     "meta": {
@@ -42716,12 +42715,12 @@ const WORDS_KO_B1 = [
       "en": "shocking",
       "de": "schockierend",
       "es": "impactante",
-      "pl": "szokujący",
       "it": "scioccante",
       "pt": "chocante",
       "ja": "衝撃的な",
       "zh": "令人震惊的",
-      "ru": "шокирующий"
+      "ru": "шокирующий",
+      "fr": "choquant"
     },
     "examples": [],
     "meta": {
@@ -42745,12 +42744,12 @@ const WORDS_KO_B1 = [
       "en": "tooth",
       "de": "der Zahn",
       "es": "el diente",
-      "pl": "ząb",
       "it": "il dente",
       "pt": "o dente",
       "ja": "歯",
       "zh": "牙齿",
-      "ru": "зуб"
+      "ru": "зуб",
+      "fr": "dent"
     },
     "examples": [],
     "meta": {
@@ -42776,12 +42775,12 @@ const WORDS_KO_B1 = [
       "en": "convenience",
       "de": "die Bequemlichkeit",
       "es": "la conveniencia",
-      "pl": "wygoda",
       "it": "la comodità",
       "pt": "a conveniência",
       "ja": "便宜",
       "zh": "便利",
-      "ru": "удобство"
+      "ru": "удобство",
+      "fr": "commodité"
     },
     "examples": [],
     "meta": {
@@ -42807,12 +42806,12 @@ const WORDS_KO_B1 = [
       "en": "abolition",
       "de": "die Abschaffung",
       "es": "la abolición",
-      "pl": "zniesienie",
       "it": "l'abolizione",
       "pt": "a abolição",
       "ja": "廃止",
       "zh": "废除",
-      "ru": "отмена"
+      "ru": "отмена",
+      "fr": "abolition"
     },
     "examples": [],
     "meta": {
@@ -42838,12 +42837,12 @@ const WORDS_KO_B1 = [
       "en": "explanation",
       "de": "die Erklärung",
       "es": "la explicación",
-      "pl": "wyjaśnienie",
       "it": "la spiegazione",
       "pt": "a explicação",
       "ja": "解説",
       "zh": "解说",
-      "ru": "объяснение"
+      "ru": "объяснение",
+      "fr": "explication"
     },
     "examples": [],
     "meta": {
@@ -42869,12 +42868,12 @@ const WORDS_KO_B1 = [
       "en": "black and white",
       "de": "Schwarzweiß",
       "es": "blanco y negro",
-      "pl": "czarno-biały",
       "it": "bianco e nero",
       "pt": "preto e branco",
       "ja": "白黒",
       "zh": "黑白",
-      "ru": "черно-белый"
+      "ru": "черно-белый",
+      "fr": "noir et blanc"
     },
     "examples": [],
     "meta": {
@@ -42900,12 +42899,12 @@ const WORDS_KO_B1 = [
       "en": "sacrifice",
       "de": "das Opfer",
       "es": "el sacrificio",
-      "pl": "ofiara",
       "it": "il sacrificio",
       "pt": "o sacrifício",
       "ja": "犠牲",
       "zh": "牺牲",
-      "ru": "жертва"
+      "ru": "жертва",
+      "fr": "sacrifice"
     },
     "examples": [],
     "meta": {
@@ -42931,12 +42930,12 @@ const WORDS_KO_B1 = [
       "en": "security",
       "de": "die Sicherheit",
       "es": "la seguridad",
-      "pl": "ochrona",
       "it": "la sicurezza",
       "pt": "a segurança",
       "ja": "警備",
       "zh": "警备",
-      "ru": "охрана"
+      "ru": "охрана",
+      "fr": "sécurité"
     },
     "examples": [],
     "meta": {
@@ -42962,12 +42961,12 @@ const WORDS_KO_B1 = [
       "en": "economic power",
       "de": "die Wirtschaftskraft",
       "es": "el poder económico",
-      "pl": "siła ekonomiczna",
       "it": "la forza economica",
       "pt": "o poder econômico",
       "ja": "経済力",
       "zh": "经济实力",
-      "ru": "экономическая мощь"
+      "ru": "экономическая мощь",
+      "fr": "puissance économique"
     },
     "examples": [],
     "meta": {
@@ -42993,12 +42992,12 @@ const WORDS_KO_B1 = [
       "en": "prohibit",
       "de": "verbieten",
       "es": "prohibir",
-      "pl": "zakazywać",
       "it": "proibire",
       "pt": "proibir",
       "ja": "禁じる",
       "zh": "禁止",
-      "ru": "запрещать"
+      "ru": "запрещать",
+      "fr": "interdire"
     },
     "examples": [],
     "meta": {
@@ -43025,12 +43024,12 @@ const WORDS_KO_B1 = [
       "en": "be expected",
       "de": "erwartet werden",
       "es": "ser esperado",
-      "pl": "być oczekiwanym",
       "it": "essere atteso",
       "pt": "ser esperado",
       "ja": "期待される",
       "zh": "被期待",
-      "ru": "ожидаться"
+      "ru": "ожидаться",
+      "fr": "être attendu"
     },
     "examples": [],
     "meta": {
@@ -43057,12 +43056,12 @@ const WORDS_KO_B1 = [
       "en": "knock down",
       "de": "umwerfen",
       "es": "derribar",
-      "pl": "powalić",
       "it": "abbattere",
       "pt": "derrubar",
       "ja": "倒す",
       "zh": "推倒",
-      "ru": "сбивать"
+      "ru": "сбивать",
+      "fr": "faire tomber"
     },
     "examples": [],
     "meta": {
@@ -43089,12 +43088,12 @@ const WORDS_KO_B1 = [
       "en": "farm",
       "de": "landwirtschaften",
       "es": "cultivar",
-      "pl": "uprawiać rolę",
       "it": "coltivare",
       "pt": "cultivar",
       "ja": "農業をする",
       "zh": "耕作",
-      "ru": "заниматься сельским хозяйством"
+      "ru": "заниматься сельским хозяйством",
+      "fr": "cultiver"
     },
     "examples": [],
     "meta": {
@@ -43121,12 +43120,12 @@ const WORDS_KO_B1 = [
       "en": "hard",
       "de": "hart",
       "es": "duro",
-      "pl": "twardy",
       "it": "duro",
       "pt": "duro",
       "ja": "硬い",
       "zh": "坚硬",
-      "ru": "твердый"
+      "ru": "твердый",
+      "fr": "dur"
     },
     "examples": [],
     "meta": {
@@ -43150,12 +43149,12 @@ const WORDS_KO_B1 = [
       "en": "person in charge",
       "de": "der Verantwortliche",
       "es": "el responsable",
-      "pl": "osoba odpowiedzialna",
       "it": "il responsabile",
       "pt": "o responsável",
       "ja": "担当者",
       "zh": "负责人",
-      "ru": "ответственное лицо"
+      "ru": "ответственное лицо",
+      "fr": "responsable"
     },
     "examples": [],
     "meta": {
@@ -43181,12 +43180,12 @@ const WORDS_KO_B1 = [
       "en": "answer",
       "de": "die Antwort",
       "es": "la respuesta",
-      "pl": "odpowiedź",
       "it": "la risposta",
       "pt": "a resposta",
       "ja": "返事",
       "zh": "回答",
-      "ru": "ответ"
+      "ru": "ответ",
+      "fr": "réponse"
     },
     "examples": [],
     "meta": {
@@ -43212,12 +43211,12 @@ const WORDS_KO_B1 = [
       "en": "comparison",
       "de": "der Vergleich",
       "es": "la comparación",
-      "pl": "porównanie",
       "it": "il confronto",
       "pt": "a comparação",
       "ja": "比較",
       "zh": "对比",
-      "ru": "сравнение"
+      "ru": "сравнение",
+      "fr": "comparaison"
     },
     "examples": [],
     "meta": {
@@ -43243,12 +43242,12 @@ const WORDS_KO_B1 = [
       "en": "downtown",
       "de": "das Stadtzentrum",
       "es": "el centro de la ciudad",
-      "pl": "centrum miasta",
       "it": "il centro città",
       "pt": "o centro da cidade",
       "ja": "都心",
       "zh": "市中心",
-      "ru": "центр города"
+      "ru": "центр города",
+      "fr": "centre-ville"
     },
     "examples": [],
     "meta": {
@@ -43274,12 +43273,12 @@ const WORDS_KO_B1 = [
       "en": "be surrounded",
       "de": "umgeben sein",
       "es": "estar rodeado",
-      "pl": "być otoczonym",
       "it": "essere circondato",
       "pt": "ser cercado",
       "ja": "囲まれる",
       "zh": "被包围",
-      "ru": "быть окруженным"
+      "ru": "быть окруженным",
+      "fr": "être entouré"
     },
     "examples": [],
     "meta": {
@@ -43306,12 +43305,12 @@ const WORDS_KO_B1 = [
       "en": "friction",
       "de": "die Reibung",
       "es": "la fricción",
-      "pl": "tarcie",
       "it": "l'attrito",
       "pt": "o atrito",
       "ja": "摩擦",
       "zh": "摩擦",
-      "ru": "трение"
+      "ru": "трение",
+      "fr": "friction"
     },
     "examples": [],
     "meta": {
@@ -43337,12 +43336,12 @@ const WORDS_KO_B1 = [
       "en": "mark",
       "de": "das Zeichen",
       "es": "la marca",
-      "pl": "znak",
       "it": "il segno",
       "pt": "a marca",
       "ja": "マーク",
       "zh": "标记",
-      "ru": "знак"
+      "ru": "знак",
+      "fr": "marque"
     },
     "examples": [],
     "meta": {
@@ -43368,12 +43367,12 @@ const WORDS_KO_B1 = [
       "en": "satisfaction",
       "de": "die Zufriedenheit",
       "es": "la satisfacción",
-      "pl": "satysfakcja",
       "it": "la soddisfazione",
       "pt": "a satisfação",
       "ja": "満足",
       "zh": "满意",
-      "ru": "удовлетворение"
+      "ru": "удовлетворение",
+      "fr": "satisfaction"
     },
     "examples": [],
     "meta": {
@@ -43399,12 +43398,12 @@ const WORDS_KO_B1 = [
       "en": "ruin",
       "de": "verderben",
       "es": "arruinar",
-      "pl": "zniszczyć",
       "it": "rovinare",
       "pt": "arruinar",
       "ja": "台無しにする",
       "zh": "弄坏",
-      "ru": "портить"
+      "ru": "портить",
+      "fr": "ruiner"
     },
     "examples": [],
     "meta": {
@@ -43431,12 +43430,12 @@ const WORDS_KO_B1 = [
       "en": "description",
       "de": "die Beschreibung",
       "es": "la descripción",
-      "pl": "opis",
       "it": "la descrizione",
       "pt": "a descrição",
       "ja": "描写",
       "zh": "描述",
-      "ru": "описание"
+      "ru": "описание",
+      "fr": "description"
     },
     "examples": [],
     "meta": {
@@ -43462,12 +43461,12 @@ const WORDS_KO_B1 = [
       "en": "cultural",
       "de": "kulturell",
       "es": "cultural",
-      "pl": "kulturowy",
       "it": "culturale",
       "pt": "cultural",
       "ja": "文化的",
       "zh": "文化的",
-      "ru": "культурный"
+      "ru": "культурный",
+      "fr": "culturel"
     },
     "examples": [],
     "meta": {
@@ -43491,12 +43490,12 @@ const WORDS_KO_B1 = [
       "en": "unmarried",
       "de": "unverheiratet",
       "es": "soltero",
-      "pl": "nieżonaty",
       "it": "non sposato",
       "pt": "solteiro",
       "ja": "未婚",
       "zh": "未婚",
-      "ru": "неженатый"
+      "ru": "неженатый",
+      "fr": "célibataire"
     },
     "examples": [],
     "meta": {
@@ -43522,12 +43521,12 @@ const WORDS_KO_B1 = [
       "en": "develop",
       "de": "sich entwickeln",
       "es": "desarrollarse",
-      "pl": "rozwijać się",
       "it": "svilupparsi",
       "pt": "desenvolver-se",
       "ja": "発展する",
       "zh": "发展",
-      "ru": "развиваться"
+      "ru": "развиваться",
+      "fr": "développer"
     },
     "examples": [],
     "meta": {
@@ -43555,12 +43554,12 @@ const WORDS_KO_B1 = [
       "en": "broadcasting company",
       "de": "der Sender",
       "es": "la emisora",
-      "pl": "nadawca",
       "it": "l'emittente",
       "pt": "a emissora",
       "ja": "放送局",
       "zh": "广播公司",
-      "ru": "вещательная компания"
+      "ru": "вещательная компания",
+      "fr": "société de radiodiffusion"
     },
     "examples": [],
     "meta": {
@@ -43586,12 +43585,12 @@ const WORDS_KO_B1 = [
       "en": "prevent",
       "de": "verhindern",
       "es": "prevenir",
-      "pl": "zapobiegać",
       "it": "prevenire",
       "pt": "prevenir",
       "ja": "防ぐ",
       "zh": "防止",
-      "ru": "предотвращать"
+      "ru": "предотвращать",
+      "fr": "empêcher"
     },
     "examples": [],
     "meta": {
@@ -43619,12 +43618,12 @@ const WORDS_KO_B1 = [
       "en": "resignation letter",
       "de": "die Kündigung",
       "es": "la carta de renuncia",
-      "pl": "rezygnacja",
       "it": "le dimissioni",
       "pt": "a carta de demissão",
       "ja": "辞表",
       "zh": "辞职信",
-      "ru": "заявление об увольнении"
+      "ru": "заявление об увольнении",
+      "fr": "lettre de démission"
     },
     "examples": [],
     "meta": {
@@ -43650,12 +43649,12 @@ const WORDS_KO_B1 = [
       "en": "refrain from",
       "de": "sich enthalten",
       "es": "abstenerse",
-      "pl": "powstrzymać się",
       "it": "astenersi",
       "pt": "abster-se",
       "ja": "慎む",
       "zh": "避免",
-      "ru": "воздерживаться"
+      "ru": "воздерживаться",
+      "fr": "s'abstenir de"
     },
     "examples": [],
     "meta": {
@@ -43682,12 +43681,12 @@ const WORDS_KO_B1 = [
       "en": "live broadcast",
       "de": "die Live-Übertragung",
       "es": "la transmisión en vivo",
-      "pl": "transmisja na żywo",
       "it": "la diretta",
       "pt": "a transmissão ao vivo",
       "ja": "生放送",
       "zh": "直播",
-      "ru": "прямой эфир"
+      "ru": "прямой эфир",
+      "fr": "diffusion en direct"
     },
     "examples": [],
     "meta": {
@@ -43713,12 +43712,12 @@ const WORDS_KO_B1 = [
       "en": "twins",
       "de": "die Zwillinge",
       "es": "los gemelos",
-      "pl": "bliźniaki",
       "it": "i gemelli",
       "pt": "os gêmeos",
       "ja": "双子",
       "zh": "双胞胎",
-      "ru": "близнецы"
+      "ru": "близнецы",
+      "fr": "jumeaux"
     },
     "examples": [],
     "meta": {
@@ -43744,12 +43743,12 @@ const WORDS_KO_B1 = [
       "en": "seat",
       "de": "setzen",
       "es": "sentar",
-      "pl": "posadzić",
       "it": "far sedere",
       "pt": "sentar",
       "ja": "座らせる",
       "zh": "使坐下",
-      "ru": "сажать"
+      "ru": "сажать",
+      "fr": "asseoir"
     },
     "examples": [],
     "meta": {
@@ -43776,12 +43775,12 @@ const WORDS_KO_B1 = [
       "en": "side",
       "de": "die Seite",
       "es": "el costado",
-      "pl": "bok",
       "it": "il fianco",
       "pt": "o lado",
       "ja": "脇腹",
       "zh": "侧腹",
-      "ru": "бок"
+      "ru": "бок",
+      "fr": "côté"
     },
     "examples": [],
     "meta": {
@@ -43807,12 +43806,12 @@ const WORDS_KO_B1 = [
       "en": "reasonable",
       "de": "angemessen",
       "es": "razonable",
-      "pl": "rozsądny",
       "it": "ragionevole",
       "pt": "razoável",
       "ja": "まあまあだ",
       "zh": "尚可",
-      "ru": "разумный"
+      "ru": "разумный",
+      "fr": "raisonnable"
     },
     "examples": [],
     "meta": {
@@ -43836,12 +43835,12 @@ const WORDS_KO_B1 = [
       "en": "midnight",
       "de": "Mitternacht",
       "es": "la medianoche",
-      "pl": "północ",
       "it": "la mezzanotte",
       "pt": "a meia-noite",
       "ja": "真夜中",
       "zh": "午夜",
-      "ru": "полночь"
+      "ru": "полночь",
+      "fr": "minuit"
     },
     "examples": [],
     "meta": {
@@ -43867,12 +43866,12 @@ const WORDS_KO_B1 = [
       "en": "synthesize",
       "de": "synthetisieren",
       "es": "sintetizar",
-      "pl": "syntetyzować",
       "it": "sintetizzare",
       "pt": "sintetizar",
       "ja": "総合する",
       "zh": "综合",
-      "ru": "синтезировать"
+      "ru": "синтезировать",
+      "fr": "synthétiser"
     },
     "examples": [],
     "meta": {
@@ -43899,12 +43898,12 @@ const WORDS_KO_B1 = [
       "en": "last",
       "de": "das Ende",
       "es": "el final",
-      "pl": "koniec",
       "it": "la fine",
       "pt": "o fim",
       "ja": "最後",
       "zh": "最后",
-      "ru": "конец"
+      "ru": "конец",
+      "fr": "dernier"
     },
     "examples": [],
     "meta": {
@@ -43931,12 +43930,12 @@ const WORDS_KO_B1 = [
       "en": "reporting",
       "de": "die Berichterstattung",
       "es": "la cobertura",
-      "pl": "relacjonowanie",
       "it": "il reportage",
       "pt": "a reportagem",
       "ja": "取材",
       "zh": "采访",
-      "ru": "репортаж"
+      "ru": "репортаж",
+      "fr": "rapport"
     },
     "examples": [],
     "meta": {
@@ -43962,12 +43961,12 @@ const WORDS_KO_B1 = [
       "en": "terror",
       "de": "der Terror",
       "es": "el terror",
-      "pl": "terror",
       "it": "il terrore",
       "pt": "o terror",
       "ja": "テロ",
       "zh": "恐怖",
-      "ru": "террор"
+      "ru": "террор",
+      "fr": "terreur"
     },
     "examples": [],
     "meta": {
@@ -43993,12 +43992,12 @@ const WORDS_KO_B1 = [
       "en": "debate",
       "de": "die Debatte",
       "es": "el debate",
-      "pl": "debata",
       "it": "il dibattito",
       "pt": "o debate",
       "ja": "討論会",
       "zh": "辩论会",
-      "ru": "дебаты"
+      "ru": "дебаты",
+      "fr": "débat"
     },
     "examples": [],
     "meta": {
@@ -44024,12 +44023,12 @@ const WORDS_KO_B1 = [
       "en": "pocket",
       "de": "die Tasche",
       "es": "el bolsillo",
-      "pl": "kieszeń",
       "it": "la tasca",
       "pt": "o bolso",
       "ja": "ポケット",
       "zh": "口袋",
-      "ru": "карман"
+      "ru": "карман",
+      "fr": "poche"
     },
     "examples": [],
     "meta": {
@@ -44055,12 +44054,12 @@ const WORDS_KO_B1 = [
       "en": "poverty",
       "de": "die Armut",
       "es": "la pobreza",
-      "pl": "bieda",
       "it": "la povertà",
       "pt": "a pobreza",
       "ja": "貧困",
       "zh": "贫穷",
-      "ru": "бедность"
+      "ru": "бедность",
+      "fr": "pauvreté"
     },
     "examples": [],
     "meta": {
@@ -44086,12 +44085,12 @@ const WORDS_KO_B1 = [
       "en": "crawl",
       "de": "kriechen",
       "es": "gatear",
-      "pl": "raczkować",
       "it": "gattonare",
       "pt": "engatinhar",
       "ja": "這う",
       "zh": "爬",
-      "ru": "ползать"
+      "ru": "ползать",
+      "fr": "ramper"
     },
     "examples": [],
     "meta": {
@@ -44118,12 +44117,12 @@ const WORDS_KO_B1 = [
       "en": "dispute",
       "de": "der Streit",
       "es": "la disputa",
-      "pl": "kłótnia",
       "it": "la lite",
       "pt": "a disputa",
       "ja": "口論",
       "zh": "争吵",
-      "ru": "ссора"
+      "ru": "ссора",
+      "fr": "dispute"
     },
     "examples": [],
     "meta": {
@@ -44149,12 +44148,12 @@ const WORDS_KO_B1 = [
       "en": "broad daylight",
       "de": "heller Tag",
       "es": "pleno día",
-      "pl": "w biały dzień",
       "it": "pieno giorno",
       "pt": "pleno dia",
       "ja": "白昼",
       "zh": "大白天",
-      "ru": "белый день"
+      "ru": "белый день",
+      "fr": "en plein jour"
     },
     "examples": [],
     "meta": {
@@ -44180,12 +44179,12 @@ const WORDS_KO_B1 = [
       "en": "pebble",
       "de": "der Kieselstein",
       "es": "la piedrecita",
-      "pl": "kamyk",
       "it": "il sassolino",
       "pt": "a pedrinha",
       "ja": "小石",
       "zh": "石子",
-      "ru": "камешек"
+      "ru": "камешек",
+      "fr": "caillou"
     },
     "examples": [],
     "meta": {
@@ -44211,12 +44210,12 @@ const WORDS_KO_B1 = [
       "en": "return",
       "de": "zurückkehren",
       "es": "volver",
-      "pl": "wracać",
       "it": "ritornare",
       "pt": "retornar",
       "ja": "戻る",
       "zh": "返回",
-      "ru": "возвращаться"
+      "ru": "возвращаться",
+      "fr": "retourner"
     },
     "examples": [],
     "meta": {
@@ -44243,12 +44242,12 @@ const WORDS_KO_B1 = [
       "en": "thickness",
       "de": "die Dicke",
       "es": "el grosor",
-      "pl": "grubość",
       "it": "lo spessore",
       "pt": "a espessura",
       "ja": "厚さ",
       "zh": "厚度",
-      "ru": "толщина"
+      "ru": "толщина",
+      "fr": "épaisseur"
     },
     "examples": [],
     "meta": {
@@ -44274,12 +44273,12 @@ const WORDS_KO_B1 = [
       "en": "change",
       "de": "die Änderung",
       "es": "el cambio",
-      "pl": "zmiana",
       "it": "la modifica",
       "pt": "a alteração",
       "ja": "変更",
       "zh": "变更",
-      "ru": "изменение"
+      "ru": "изменение",
+      "fr": "changement"
     },
     "examples": [],
     "meta": {
@@ -44305,12 +44304,12 @@ const WORDS_KO_B1 = [
       "en": "deer",
       "de": "das Reh",
       "es": "el ciervo",
-      "pl": "jeleń",
       "it": "il cervo",
       "pt": "o veado",
       "ja": "鹿",
       "zh": "鹿",
-      "ru": "олень"
+      "ru": "олень",
+      "fr": "cerf"
     },
     "examples": [],
     "meta": {
@@ -44336,12 +44335,12 @@ const WORDS_KO_B1 = [
       "en": "considerable number",
       "de": "beträchtliche Anzahl",
       "es": "un número considerable",
-      "pl": "znaczna liczba",
       "it": "un numero considerevole",
       "pt": "um número considerável",
       "ja": "かなりの数",
       "zh": "相当数量",
-      "ru": "значительное число"
+      "ru": "значительное число",
+      "fr": "nombre considérable"
     },
     "examples": [],
     "meta": {
@@ -44367,12 +44366,12 @@ const WORDS_KO_B1 = [
       "en": "loss",
       "de": "der Verlust",
       "es": "la pérdida",
-      "pl": "strata",
       "it": "la perdita",
       "pt": "a perda",
       "ja": "損失",
       "zh": "损失",
-      "ru": "убыток"
+      "ru": "убыток",
+      "fr": "perte"
     },
     "examples": [],
     "meta": {
@@ -44398,12 +44397,12 @@ const WORDS_KO_B1 = [
       "en": "scenario",
       "de": "das Szenario",
       "es": "el guion",
-      "pl": "scenariusz",
       "it": "lo scenario",
       "pt": "o cenário",
       "ja": "シナリオ",
       "zh": "剧本",
-      "ru": "сценарий"
+      "ru": "сценарий",
+      "fr": "scénario"
     },
     "examples": [],
     "meta": {
@@ -44429,12 +44428,12 @@ const WORDS_KO_B1 = [
       "en": "engine",
       "de": "der Motor",
       "es": "el motor",
-      "pl": "silnik",
       "it": "il motore",
       "pt": "o motor",
       "ja": "エンジン",
       "zh": "引擎",
-      "ru": "двигатель"
+      "ru": "двигатель",
+      "fr": "moteur"
     },
     "examples": [],
     "meta": {
@@ -44460,12 +44459,12 @@ const WORDS_KO_B1 = [
       "en": "dragon",
       "de": "der Drache",
       "es": "el dragón",
-      "pl": "smok",
       "it": "il drago",
       "pt": "o dragão",
       "ja": "竜",
       "zh": "龙",
-      "ru": "дракон"
+      "ru": "дракон",
+      "fr": "dragon"
     },
     "examples": [],
     "meta": {
@@ -44491,12 +44490,12 @@ const WORDS_KO_B1 = [
       "en": "operation",
       "de": "der Betrieb",
       "es": "la operación",
-      "pl": "działanie",
       "it": "l'operazione",
       "pt": "a operação",
       "ja": "運行",
       "zh": "运行",
-      "ru": "эксплуатация"
+      "ru": "эксплуатация",
+      "fr": "opération"
     },
     "examples": [],
     "meta": {
@@ -44522,12 +44521,12 @@ const WORDS_KO_B1 = [
       "en": "humanity",
       "de": "die Menschlichkeit",
       "es": "la humanidad",
-      "pl": "ludzkość",
       "it": "l'umanità",
       "pt": "a humanidade",
       "ja": "人間性",
       "zh": "人性",
-      "ru": "человечность"
+      "ru": "человечность",
+      "fr": "humanité"
     },
     "examples": [],
     "meta": {
@@ -44553,12 +44552,12 @@ const WORDS_KO_B1 = [
       "en": "impressive",
       "de": "beeindruckend",
       "es": "impresionante",
-      "pl": "imponujący",
       "it": "impressionante",
       "pt": "impressionante",
       "ja": "印象的",
       "zh": "令人印象深刻",
-      "ru": "впечатляющий"
+      "ru": "впечатляющий",
+      "fr": "impressionnant"
     },
     "examples": [],
     "meta": {
@@ -44582,12 +44581,12 @@ const WORDS_KO_B1 = [
       "en": "exhibition",
       "de": "die Ausstellung",
       "es": "la exposición",
-      "pl": "wystawa",
       "it": "la mostra",
       "pt": "a exposição",
       "ja": "展示",
       "zh": "展览",
-      "ru": "выставка"
+      "ru": "выставка",
+      "fr": "exposition"
     },
     "examples": [],
     "meta": {
@@ -44613,12 +44612,12 @@ const WORDS_KO_B1 = [
       "en": "tiny",
       "de": "winzig",
       "es": "diminuto",
-      "pl": "maleńki",
       "it": "minuscolo",
       "pt": "minúsculo",
       "ja": "ちっちゃい",
       "zh": "微小的",
-      "ru": "крошечный"
+      "ru": "крошечный",
+      "fr": "minuscule"
     },
     "examples": [],
     "meta": {
@@ -44643,12 +44642,12 @@ const WORDS_KO_B1 = [
       "en": "stationed in Korea",
       "de": "in Korea stationiert",
       "es": "estacionado en Corea",
-      "pl": "stacjonujący w Korei",
       "it": "di stanza in Corea",
       "pt": "estacionado na Coreia",
       "ja": "駐韓",
       "zh": "驻韩",
-      "ru": "расположенный в Корее"
+      "ru": "расположенный в Корее",
+      "fr": "stationné en Corée"
     },
     "examples": [],
     "meta": {
@@ -44674,12 +44673,12 @@ const WORDS_KO_B1 = [
       "en": "middle age",
       "de": "das mittlere Alter",
       "es": "la mediana edad",
-      "pl": "średni wiek",
       "it": "la mezza età",
       "pt": "meia-idade",
       "ja": "中年",
       "zh": "中年",
-      "ru": "средний возраст"
+      "ru": "средний возраст",
+      "fr": "âge moyen"
     },
     "examples": [],
     "meta": {
@@ -44705,12 +44704,12 @@ const WORDS_KO_B1 = [
       "en": "residue",
       "de": "der Rückstand",
       "es": "el residuo",
-      "pl": "pozostałość",
       "it": "il residuo",
       "pt": "o resíduo",
       "ja": "残りかす",
       "zh": "残渣",
-      "ru": "остаток"
+      "ru": "остаток",
+      "fr": "résidu"
     },
     "examples": [],
     "meta": {
@@ -44736,12 +44735,12 @@ const WORDS_KO_B1 = [
       "en": "inclusion",
       "de": "die Einbeziehung",
       "es": "la inclusión",
-      "pl": "włączenie",
       "it": "l'inclusione",
       "pt": "a inclusão",
       "ja": "包含",
       "zh": "包含",
-      "ru": "включение"
+      "ru": "включение",
+      "fr": "inclusion"
     },
     "examples": [],
     "meta": {
@@ -44767,12 +44766,12 @@ const WORDS_KO_B1 = [
       "en": "formal",
       "de": "formal",
       "es": "formal",
-      "pl": "formalny",
       "it": "formale",
       "pt": "formal",
       "ja": "形式的",
       "zh": "形式的",
-      "ru": "формальный"
+      "ru": "формальный",
+      "fr": "formel"
     },
     "examples": [],
     "meta": {
@@ -44796,12 +44795,12 @@ const WORDS_KO_B1 = [
       "en": "Honam region",
       "de": "die Honam-Region",
       "es": "la región de Honam",
-      "pl": "region Honam",
       "it": "la regione di Honam",
       "pt": "a região de Honam",
       "ja": "湖南",
       "zh": "湖南",
-      "ru": "регион Хонам"
+      "ru": "регион Хонам",
+      "fr": "région de Honam"
     },
     "examples": [],
     "meta": {
@@ -44827,12 +44826,12 @@ const WORDS_KO_B1 = [
       "en": "join",
       "de": "beitreten",
       "es": "unirse",
-      "pl": "dołączyć",
       "it": "iscriversi",
       "pt": "juntar-se",
       "ja": "加入する",
       "zh": "加入",
-      "ru": "присоединиться"
+      "ru": "присоединиться",
+      "fr": "rejoindre"
     },
     "examples": [],
     "meta": {
@@ -44859,12 +44858,12 @@ const WORDS_KO_B1 = [
       "en": "decrease",
       "de": "die Abnahme",
       "es": "la disminución",
-      "pl": "spadek",
       "it": "la diminuzione",
       "pt": "a diminuição",
       "ja": "減少",
       "zh": "减少",
-      "ru": "уменьшение"
+      "ru": "уменьшение",
+      "fr": "diminution"
     },
     "examples": [],
     "meta": {
@@ -44890,12 +44889,12 @@ const WORDS_KO_B1 = [
       "en": "be divided",
       "de": "geteilt werden",
       "es": "ser dividido",
-      "pl": "być podzielonym",
       "it": "essere diviso",
       "pt": "ser dividido",
       "ja": "分けられる",
       "zh": "被区分",
-      "ru": "быть разделённым"
+      "ru": "быть разделённым",
+      "fr": "être divisé"
     },
     "examples": [],
     "meta": {
@@ -44922,12 +44921,12 @@ const WORDS_KO_B1 = [
       "en": "purchase",
       "de": "der Kauf",
       "es": "la compra",
-      "pl": "zakup",
       "it": "l'acquisto",
       "pt": "a compra",
       "ja": "購入",
       "zh": "购买",
-      "ru": "покупка"
+      "ru": "покупка",
+      "fr": "achat"
     },
     "examples": [],
     "meta": {
@@ -44953,12 +44952,12 @@ const WORDS_KO_B1 = [
       "en": "contribution",
       "de": "der Beitrag",
       "es": "la contribución",
-      "pl": "wkład",
       "it": "il contributo",
       "pt": "a contribuição",
       "ja": "貢献",
       "zh": "贡献",
-      "ru": "вклад"
+      "ru": "вклад",
+      "fr": "contribution"
     },
     "examples": [],
     "meta": {
@@ -44984,12 +44983,12 @@ const WORDS_KO_B1 = [
       "en": "symbol",
       "de": "das Symbol",
       "es": "el símbolo",
-      "pl": "symbol",
       "it": "il simbolo",
       "pt": "o símbolo",
       "ja": "記号",
       "zh": "符号",
-      "ru": "символ"
+      "ru": "символ",
+      "fr": "symbole"
     },
     "examples": [],
     "meta": {
@@ -45015,12 +45014,12 @@ const WORDS_KO_B1 = [
       "en": "pack luggage",
       "de": "Gepäck packen",
       "es": "hacer la maleta",
-      "pl": "pakować bagaż",
       "it": "fare i bagagli",
       "pt": "arrumar as malas",
       "ja": "荷造りする",
       "zh": "打包行李",
-      "ru": "упаковывать багаж"
+      "ru": "упаковывать багаж",
+      "fr": "faire ses bagages"
     },
     "examples": [],
     "meta": {
@@ -45047,12 +45046,12 @@ const WORDS_KO_B1 = [
       "en": "waste",
       "de": "die Verschwendung",
       "es": "el desperdicio",
-      "pl": "marnotrawstwo",
       "it": "lo spreco",
       "pt": "o desperdício",
       "ja": "浪費",
       "zh": "浪费",
-      "ru": "расточительство"
+      "ru": "расточительство",
+      "fr": "gaspillage"
     },
     "examples": [],
     "meta": {
@@ -45078,12 +45077,12 @@ const WORDS_KO_B1 = [
       "en": "be covered",
       "de": "bedeckt werden",
       "es": "ser cubierto",
-      "pl": "być przykrytym",
       "it": "essere coperto",
       "pt": "ser coberto",
       "ja": "覆われる",
       "zh": "被覆盖",
-      "ru": "быть покрытым"
+      "ru": "быть покрытым",
+      "fr": "être couvert"
     },
     "examples": [],
     "meta": {
@@ -45110,12 +45109,12 @@ const WORDS_KO_B1 = [
       "en": "line",
       "de": "die Linie",
       "es": "la línea",
-      "pl": "linia",
       "it": "la linea",
       "pt": "a linha",
       "ja": "線",
       "zh": "线",
-      "ru": "линия"
+      "ru": "линия",
+      "fr": "ligne"
     },
     "examples": [],
     "meta": {
@@ -45141,12 +45140,12 @@ const WORDS_KO_B1 = [
       "en": "anchovy",
       "de": "die Sardelle",
       "es": "la anchoa",
-      "pl": "sardela",
       "it": "l'acciuga",
       "pt": "a anchova",
       "ja": "カタクチイワシ",
       "zh": "凤尾鱼",
-      "ru": "анчоус"
+      "ru": "анчоус",
+      "fr": "anchois"
     },
     "examples": [],
     "meta": {
@@ -45172,12 +45171,12 @@ const WORDS_KO_B1 = [
       "en": "drop",
       "de": "der Tropfen",
       "es": "la gota",
-      "pl": "kropla",
       "it": "la goccia",
       "pt": "a gota",
       "ja": "しずく",
       "zh": "水滴",
-      "ru": "капля"
+      "ru": "капля",
+      "fr": "goutte"
     },
     "examples": [],
     "meta": {
@@ -45203,12 +45202,12 @@ const WORDS_KO_B1 = [
       "en": "storage",
       "de": "die Lagerung",
       "es": "el almacenamiento",
-      "pl": "przechowywanie",
       "it": "la conservazione",
       "pt": "o armazenamento",
       "ja": "保管",
       "zh": "保管",
-      "ru": "хранение"
+      "ru": "хранение",
+      "fr": "stockage"
     },
     "examples": [],
     "meta": {
@@ -45234,12 +45233,12 @@ const WORDS_KO_B1 = [
       "en": "take care of",
       "de": "sich kümmern um",
       "es": "cuidar de",
-      "pl": "opiekiwać się",
       "it": "prendersi cura di",
       "pt": "cuidar de",
       "ja": "世話をする",
       "zh": "照顾",
-      "ru": "заботиться"
+      "ru": "заботиться",
+      "fr": "s'occuper de"
     },
     "examples": [],
     "meta": {
@@ -45266,12 +45265,12 @@ const WORDS_KO_B1 = [
       "en": "complement",
       "de": "ergänzen",
       "es": "complementar",
-      "pl": "uzupełniać",
       "it": "integrare",
       "pt": "complementar",
       "ja": "補完する",
       "zh": "补充",
-      "ru": "дополнять"
+      "ru": "дополнять",
+      "fr": "compléter"
     },
     "examples": [],
     "meta": {
@@ -45298,12 +45297,12 @@ const WORDS_KO_B1 = [
       "en": "preserve",
       "de": "bewahren",
       "es": "preservar",
-      "pl": "zachować",
       "it": "conservare",
       "pt": "preservar",
       "ja": "保存する",
       "zh": "保存",
-      "ru": "сохранять"
+      "ru": "сохранять",
+      "fr": "préserver"
     },
     "examples": [],
     "meta": {
@@ -45330,12 +45329,12 @@ const WORDS_KO_B1 = [
       "en": "omit",
       "de": "auslassen",
       "es": "omitir",
-      "pl": "pominąć",
       "it": "omettere",
       "pt": "omitir",
       "ja": "省く",
       "zh": "遗漏",
-      "ru": "исключать"
+      "ru": "исключать",
+      "fr": "omettre"
     },
     "examples": [],
     "meta": {
@@ -45362,12 +45361,12 @@ const WORDS_KO_B1 = [
       "en": "thought",
       "de": "der Gedanke",
       "es": "el pensamiento",
-      "pl": "myśl",
       "it": "il pensiero",
       "pt": "o pensamento",
       "ja": "思想",
       "zh": "思想",
-      "ru": "мысль"
+      "ru": "мысль",
+      "fr": "pensée"
     },
     "examples": [],
     "meta": {
@@ -45393,12 +45392,12 @@ const WORDS_KO_B1 = [
       "en": "puberty",
       "de": "die Pubertät",
       "es": "la pubertad",
-      "pl": "dojrzewanie",
       "it": "la pubertà",
       "pt": "a puberdade",
       "ja": "思春期",
       "zh": "青春期",
-      "ru": "половая зрелость"
+      "ru": "половая зрелость",
+      "fr": "puberté"
     },
     "examples": [],
     "meta": {
@@ -45425,12 +45424,12 @@ const WORDS_KO_B1 = [
       "en": "first half of the year",
       "de": "die erste Jahreshälfte",
       "es": "la primera mitad del año",
-      "pl": "pierwsza połowa roku",
       "it": "la prima metà dell'anno",
       "pt": "a primeira metade do ano",
       "ja": "上半期",
       "zh": "上半年",
-      "ru": "первая половина года"
+      "ru": "первая половина года",
+      "fr": "premier semestre"
     },
     "examples": [],
     "meta": {
@@ -45456,12 +45455,12 @@ const WORDS_KO_B1 = [
       "en": "propaganda",
       "de": "die Propaganda",
       "es": "la propaganda",
-      "pl": "propaganda",
       "it": "la propaganda",
       "pt": "a propaganda",
       "ja": "宣伝",
       "zh": "宣传",
-      "ru": "пропаганда"
+      "ru": "пропаганда",
+      "fr": "propagande"
     },
     "examples": [],
     "meta": {
@@ -45487,12 +45486,12 @@ const WORDS_KO_B1 = [
       "en": "establish",
       "de": "gründen",
       "es": "establecer",
-      "pl": "ustanowić",
       "it": "stabilire",
       "pt": "estabelecer",
       "ja": "設立する",
       "zh": "建立",
-      "ru": "учредить"
+      "ru": "учредить",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {
@@ -45519,12 +45518,12 @@ const WORDS_KO_B1 = [
       "en": "collection",
       "de": "die Sammlung",
       "es": "la colección",
-      "pl": "kolekcja",
       "it": "la collezione",
       "pt": "a coleção",
       "ja": "収集",
       "zh": "收集",
-      "ru": "коллекция"
+      "ru": "коллекция",
+      "fr": "collection"
     },
     "examples": [],
     "meta": {
@@ -45550,12 +45549,12 @@ const WORDS_KO_B1 = [
       "en": "essay",
       "de": "der Essay",
       "es": "el ensayo",
-      "pl": "esej",
       "it": "il saggio",
       "pt": "o ensaio",
       "ja": "エッセイ",
       "zh": "散文",
-      "ru": "эссе"
+      "ru": "эссе",
+      "fr": "essai"
     },
     "examples": [],
     "meta": {
@@ -45581,12 +45580,12 @@ const WORDS_KO_B1 = [
       "en": "mystery",
       "de": "das Geheimnis",
       "es": "el misterio",
-      "pl": "tajemnica",
       "it": "il mistero",
       "pt": "o mistério",
       "ja": "神秘",
       "zh": "神秘",
-      "ru": "тайна"
+      "ru": "тайна",
+      "fr": "mystère"
     },
     "examples": [],
     "meta": {
@@ -45612,12 +45611,12 @@ const WORDS_KO_B1 = [
       "en": "establishment",
       "de": "die Neugründung",
       "es": "el establecimiento",
-      "pl": "nowa instalacja",
       "it": "l'istituzione",
       "pt": "o estabelecimento",
       "ja": "新設",
       "zh": "新设",
-      "ru": "учреждение"
+      "ru": "учреждение",
+      "fr": "établissement"
     },
     "examples": [],
     "meta": {
@@ -45643,12 +45642,12 @@ const WORDS_KO_B1 = [
       "en": "realization",
       "de": "die Erkenntnis",
       "es": "la realización",
-      "pl": "realizacja",
       "it": "la realizzazione",
       "pt": "a realização",
       "ja": "実感",
       "zh": "実感",
-      "ru": "осознание"
+      "ru": "осознание",
+      "fr": "réalisation"
     },
     "examples": [],
     "meta": {
@@ -45674,12 +45673,12 @@ const WORDS_KO_B1 = [
       "en": "disappointment",
       "de": "die Enttäuschung",
       "es": "la decepción",
-      "pl": "rozczarowanie",
       "it": "la delusione",
       "pt": "a decepção",
       "ja": "失望",
       "zh": "失望",
-      "ru": "разочарование"
+      "ru": "разочарование",
+      "fr": "déception"
     },
     "examples": [],
     "meta": {
@@ -45706,12 +45705,12 @@ const WORDS_KO_B1 = [
       "en": "stroke",
       "de": "streicheln",
       "es": "acariciar",
-      "pl": "głaskać",
       "it": "accarezzare",
       "pt": "acariciar",
       "ja": "撫でる",
       "zh": "抚摸",
-      "ru": "гладить"
+      "ru": "гладить",
+      "fr": "caresser"
     },
     "examples": [],
     "meta": {
@@ -45738,12 +45737,12 @@ const WORDS_KO_B1 = [
       "en": "aluminum",
       "de": "das Aluminium",
       "es": "el aluminio",
-      "pl": "aluminium",
       "it": "l'alluminio",
       "pt": "o alumínio",
       "ja": "アルミニウム",
       "zh": "铝",
-      "ru": "алюминий"
+      "ru": "алюминий",
+      "fr": "aluminium"
     },
     "examples": [],
     "meta": {
@@ -45769,12 +45768,12 @@ const WORDS_KO_B1 = [
       "en": "recognize",
       "de": "anerkennen",
       "es": "reconocer",
-      "pl": "rozpoznać",
       "it": "riconoscere",
       "pt": "reconhecer",
       "ja": "認める",
       "zh": "认可",
-      "ru": "признавать"
+      "ru": "признавать",
+      "fr": "reconnaître"
     },
     "examples": [],
     "meta": {
@@ -45801,12 +45800,12 @@ const WORDS_KO_B1 = [
       "en": "induce",
       "de": "verursachen",
       "es": "inducir",
-      "pl": "wywoływać",
       "it": "indurre",
       "pt": "induzir",
       "ja": "誘発する",
       "zh": "引起",
-      "ru": "вызывать"
+      "ru": "вызывать",
+      "fr": "induire"
     },
     "examples": [],
     "meta": {
@@ -45833,12 +45832,12 @@ const WORDS_KO_B1 = [
       "en": "be maintained",
       "de": "aufrechterhalten werden",
       "es": "ser mantenido",
-      "pl": "być utrzymywanym",
       "it": "essere mantenuto",
       "pt": "ser mantido",
       "ja": "維持される",
       "zh": "被维持",
-      "ru": "поддерживаться"
+      "ru": "поддерживаться",
+      "fr": "être maintenu"
     },
     "examples": [],
     "meta": {
@@ -45865,12 +45864,12 @@ const WORDS_KO_B1 = [
       "en": "pull",
       "de": "ziehen",
       "es": "tirar",
-      "pl": "ciągnąć",
       "it": "tirare",
       "pt": "puxar",
       "ja": "引っ張る",
       "zh": "拉",
-      "ru": "тянуть"
+      "ru": "тянуть",
+      "fr": "tirer"
     },
     "examples": [],
     "meta": {
@@ -45897,12 +45896,12 @@ const WORDS_KO_B1 = [
       "en": "inspection",
       "de": "die Inspektion",
       "es": "la inspección",
-      "pl": "inspekcja",
       "it": "l'ispezione",
       "pt": "a inspeção",
       "ja": "点検",
       "zh": "检查",
-      "ru": "проверка"
+      "ru": "проверка",
+      "fr": "inspection"
     },
     "examples": [],
     "meta": {
@@ -45928,12 +45927,12 @@ const WORDS_KO_B1 = [
       "en": "early stage",
       "de": "die frühe Phase",
       "es": "la etapa temprana",
-      "pl": "wczesny etap",
       "it": "la fase iniziale",
       "pt": "a fase inicial",
       "ja": "早期",
       "zh": "早期",
-      "ru": "ранняя стадия"
+      "ru": "ранняя стадия",
+      "fr": "stade précoce"
     },
     "examples": [],
     "meta": {
@@ -45959,12 +45958,12 @@ const WORDS_KO_B1 = [
       "en": "respect",
       "de": "respektieren",
       "es": "respetar",
-      "pl": "szanować",
       "it": "rispettare",
       "pt": "respeitar",
       "ja": "尊敬する",
       "zh": "尊敬",
-      "ru": "уважать"
+      "ru": "уважать",
+      "fr": "respecter"
     },
     "examples": [],
     "meta": {
@@ -45991,12 +45990,12 @@ const WORDS_KO_B1 = [
       "en": "bell sound",
       "de": "das Glockengeläut",
       "es": "el sonido de la campana",
-      "pl": "dzwonienie dzwonu",
       "it": "il suono della campana",
       "pt": "o som do sino",
       "ja": "鐘の音",
       "zh": "钟声",
-      "ru": "звон колокола"
+      "ru": "звон колокола",
+      "fr": "son de cloche"
     },
     "examples": [],
     "meta": {
@@ -46022,12 +46021,12 @@ const WORDS_KO_B1 = [
       "en": "mid-month",
       "de": "die Monatsmitte",
       "es": "mediados de mes",
-      "pl": "połowa miesiąca",
       "it": "metà mese",
       "pt": "meio do mês",
       "ja": "中旬",
       "zh": "月中",
-      "ru": "середина месяца"
+      "ru": "середина месяца",
+      "fr": "mi-mois"
     },
     "examples": [],
     "meta": {
@@ -46053,12 +46052,12 @@ const WORDS_KO_B1 = [
       "en": "straight line",
       "de": "die gerade Linie",
       "es": "la línea recta",
-      "pl": "linia prosta",
       "it": "la linea retta",
       "pt": "a linha reta",
       "ja": "直線",
       "zh": "直线",
-      "ru": "прямая линия"
+      "ru": "прямая линия",
+      "fr": "ligne droite"
     },
     "examples": [],
     "meta": {
@@ -46084,12 +46083,12 @@ const WORDS_KO_B1 = [
       "en": "Korean melon",
       "de": "die koreanische Melone",
       "es": "el melón coreano",
-      "pl": "melon koreański",
       "it": "il melone coreano",
       "pt": "o melão coreano",
       "ja": "マクワウリ",
       "zh": "香瓜",
-      "ru": "корейская дыня"
+      "ru": "корейская дыня",
+      "fr": "melon coréen"
     },
     "examples": [],
     "meta": {
@@ -46115,12 +46114,12 @@ const WORDS_KO_B1 = [
       "en": "experience",
       "de": "erleben",
       "es": "experimentar",
-      "pl": "doświadczać",
       "it": "sperimentare",
       "pt": "experimentar",
       "ja": "体験する",
       "zh": "体验",
-      "ru": "испытывать"
+      "ru": "испытывать",
+      "fr": "expérimenter"
     },
     "examples": [],
     "meta": {
@@ -46147,12 +46146,12 @@ const WORDS_KO_B1 = [
       "en": "gun",
       "de": "die Pistole",
       "es": "el arma",
-      "pl": "pistolet",
       "it": "la pistola",
       "pt": "a arma",
       "ja": "銃",
       "zh": "枪",
-      "ru": "пистолет"
+      "ru": "пистолет",
+      "fr": "pistolet"
     },
     "examples": [],
     "meta": {
@@ -46178,12 +46177,12 @@ const WORDS_KO_B1 = [
       "en": "praise",
       "de": "loben",
       "es": "elogiar",
-      "pl": "chwalić",
       "it": "lodare",
       "pt": "elogiar",
       "ja": "褒める",
       "zh": "称赞",
-      "ru": "хвалить"
+      "ru": "хвалить",
+      "fr": "louer"
     },
     "examples": [],
     "meta": {
@@ -46210,12 +46209,12 @@ const WORDS_KO_B1 = [
       "en": "coach",
       "de": "der Trainer",
       "es": "el entrenador",
-      "pl": "trener",
       "it": "l'allenatore",
       "pt": "o treinador",
       "ja": "コーチ",
       "zh": "教练",
-      "ru": "тренер"
+      "ru": "тренер",
+      "fr": "entraîneur"
     },
     "examples": [],
     "meta": {
@@ -46242,12 +46241,12 @@ const WORDS_KO_B1 = [
       "en": "unify",
       "de": "vereinigen",
       "es": "unificar",
-      "pl": "jednoczyć",
       "it": "unificare",
       "pt": "unificar",
       "ja": "統一する",
       "zh": "统一",
-      "ru": "объединять"
+      "ru": "объединять",
+      "fr": "unifier"
     },
     "examples": [],
     "meta": {
@@ -46274,12 +46273,12 @@ const WORDS_KO_B1 = [
       "en": "printer",
       "de": "der Drucker",
       "es": "la impresora",
-      "pl": "drukarka",
       "it": "la stampante",
       "pt": "a impressora",
       "ja": "プリンター",
       "zh": "打印机",
-      "ru": "принтер"
+      "ru": "принтер",
+      "fr": "imprimante"
     },
     "examples": [],
     "meta": {
@@ -46305,12 +46304,12 @@ const WORDS_KO_B1 = [
       "en": "producer",
       "de": "der Produzent",
       "es": "el productor",
-      "pl": "producent",
       "it": "il produttore",
       "pt": "o produtor",
       "ja": "プロデューサー",
       "zh": "制作人",
-      "ru": "продюсер"
+      "ru": "продюсер",
+      "fr": "producteur"
     },
     "examples": [],
     "meta": {
@@ -46336,12 +46335,12 @@ const WORDS_KO_B1 = [
       "en": "degree",
       "de": "der Grad",
       "es": "el título",
-      "pl": "stopień naukowy",
       "it": "la laurea",
       "pt": "o diploma",
       "ja": "学位",
       "zh": "学位",
-      "ru": "степень"
+      "ru": "степень",
+      "fr": "diplôme"
     },
     "examples": [],
     "meta": {
@@ -46367,12 +46366,12 @@ const WORDS_KO_B1 = [
       "en": "street light",
       "de": "die Straßenlaterne",
       "es": "la farola",
-      "pl": "latarnia uliczna",
       "it": "il lampione",
       "pt": "o poste de luz",
       "ja": "街灯",
       "zh": "路灯",
-      "ru": "уличный фонарь"
+      "ru": "уличный фонарь",
+      "fr": "lampadaire"
     },
     "examples": [],
     "meta": {
@@ -46398,12 +46397,12 @@ const WORDS_KO_B1 = [
       "en": "individual",
       "de": "das Individuum",
       "es": "el individuo",
-      "pl": "jednostka",
       "it": "l'individuo",
       "pt": "o indivíduo",
       "ja": "個人",
       "zh": "个人",
-      "ru": "индивид"
+      "ru": "индивид",
+      "fr": "individu"
     },
     "examples": [],
     "meta": {
@@ -46429,12 +46428,12 @@ const WORDS_KO_B1 = [
       "en": "stubbornness",
       "de": "der Starrsinn",
       "es": "la terquedad",
-      "pl": "upór",
       "it": "la testardaggine",
       "pt": "a teimosia",
       "ja": "頑固",
       "zh": "固执",
-      "ru": "упрямство"
+      "ru": "упрямство",
+      "fr": "entêtement"
     },
     "examples": [],
     "meta": {
@@ -46460,12 +46459,12 @@ const WORDS_KO_B1 = [
       "en": "amazing",
       "de": "erstaunlich",
       "es": "asombroso",
-      "pl": "zdumiewający",
       "it": "sorprendente",
       "pt": "surpreendente",
       "ja": "驚くべき",
       "zh": "令人惊讶",
-      "ru": "поразительный"
+      "ru": "поразительный",
+      "fr": "étonnant"
     },
     "examples": [],
     "meta": {
@@ -46489,12 +46488,12 @@ const WORDS_KO_B1 = [
       "en": "be divided",
       "de": "geteilt werden",
       "es": "ser dividido",
-      "pl": "być podzielonym",
       "it": "essere diviso",
       "pt": "ser dividido",
       "ja": "分けられる",
       "zh": "被分割",
-      "ru": "быть разделённым"
+      "ru": "быть разделённым",
+      "fr": "être divisé"
     },
     "examples": [],
     "meta": {
@@ -46521,12 +46520,12 @@ const WORDS_KO_B1 = [
       "en": "hand over",
       "de": "übergeben",
       "es": "entregar",
-      "pl": "przekazać",
       "it": "consegnare",
       "pt": "entregar",
       "ja": "引き渡す",
       "zh": "移交",
-      "ru": "передавать"
+      "ru": "передавать",
+      "fr": "remettre"
     },
     "examples": [],
     "meta": {
@@ -46553,12 +46552,12 @@ const WORDS_KO_B1 = [
       "en": "logical",
       "de": "logisch",
       "es": "lógico",
-      "pl": "logiczny",
       "it": "logico",
       "pt": "lógico",
       "ja": "論理的",
       "zh": "逻辑的",
-      "ru": "логичный"
+      "ru": "логичный",
+      "fr": "logique"
     },
     "examples": [],
     "meta": {
@@ -46582,12 +46581,12 @@ const WORDS_KO_B1 = [
       "en": "approach",
       "de": "sich nähern",
       "es": "acercarse",
-      "pl": "zbliżać się",
       "it": "avvicinarsi",
       "pt": "aproximar-se",
       "ja": "近づく",
       "zh": "走近",
-      "ru": "приближаться"
+      "ru": "приближаться",
+      "fr": "approcher"
     },
     "examples": [],
     "meta": {
@@ -46614,12 +46613,12 @@ const WORDS_KO_B1 = [
       "en": "wait",
       "de": "warten",
       "es": "esperar",
-      "pl": "czekać",
       "it": "aspettare",
       "pt": "esperar",
       "ja": "待つ",
       "zh": "等待",
-      "ru": "ждать"
+      "ru": "ждать",
+      "fr": "attendre"
     },
     "examples": [],
     "meta": {
@@ -46646,12 +46645,12 @@ const WORDS_KO_B1 = [
       "en": "hospitality",
       "de": "die Bewirtung",
       "es": "la hospitalidad",
-      "pl": "gościnność",
       "it": "l'ospitalità",
       "pt": "a hospitalidade",
       "ja": "もてなし",
       "zh": "款待",
-      "ru": "гостеприимство"
+      "ru": "гостеприимство",
+      "fr": "hospitalité"
     },
     "examples": [],
     "meta": {
@@ -46677,12 +46676,12 @@ const WORDS_KO_B1 = [
       "en": "look around",
       "de": "sich umsehen",
       "es": "mirar alrededor",
-      "pl": "rozglądać się",
       "it": "guardarsi intorno",
       "pt": "olhar em volta",
       "ja": "見回す",
       "zh": "环顾",
-      "ru": "оглядываться"
+      "ru": "оглядываться",
+      "fr": "regarder autour de soi"
     },
     "examples": [],
     "meta": {
@@ -46709,12 +46708,12 @@ const WORDS_KO_B1 = [
       "en": "night sky",
       "de": "der Nachthimmel",
       "es": "el cielo nocturno",
-      "pl": "nocne niebo",
       "it": "il cielo notturno",
       "pt": "o céu noturno",
       "ja": "夜空",
       "zh": "夜空",
-      "ru": "ночное небо"
+      "ru": "ночное небо",
+      "fr": "ciel nocturne"
     },
     "examples": [],
     "meta": {
@@ -46740,12 +46739,12 @@ const WORDS_KO_B1 = [
       "en": "excuse",
       "de": "die Ausrede",
       "es": "la excusa",
-      "pl": "wymówka",
       "it": "la scusa",
       "pt": "a desculpa",
       "ja": "言い訳",
       "zh": "借口",
-      "ru": "оправдание"
+      "ru": "оправдание",
+      "fr": "excuse"
     },
     "examples": [],
     "meta": {
@@ -46771,12 +46770,12 @@ const WORDS_KO_B1 = [
       "en": "wrapping cloth",
       "de": "das Tuch",
       "es": "el paño",
-      "pl": "chusta",
       "it": "il panno",
       "pt": "o pano",
       "ja": "風呂敷",
       "zh": "包袱皮",
-      "ru": "ткань"
+      "ru": "ткань",
+      "fr": "tissu d'emballage"
     },
     "examples": [],
     "meta": {
@@ -46802,12 +46801,12 @@ const WORDS_KO_B1 = [
       "en": "injury",
       "de": "die Verletzung",
       "es": "la lesión",
-      "pl": "uraz",
       "it": "l'infortunio",
       "pt": "a lesão",
       "ja": "負傷",
       "zh": "受伤",
-      "ru": "травма"
+      "ru": "травма",
+      "fr": "blessure"
     },
     "examples": [],
     "meta": {
@@ -46833,12 +46832,12 @@ const WORDS_KO_B1 = [
       "en": "separate",
       "de": "trennen",
       "es": "separar",
-      "pl": "rozdzielać",
       "it": "separare",
       "pt": "separar",
       "ja": "分離する",
       "zh": "分离",
-      "ru": "разделять"
+      "ru": "разделять",
+      "fr": "séparer"
     },
     "examples": [],
     "meta": {
@@ -46865,12 +46864,12 @@ const WORDS_KO_B1 = [
       "en": "hold",
       "de": "festhalten",
       "es": "agarrar",
-      "pl": "chwytać",
       "it": "afferrare",
       "pt": "agarrar",
       "ja": "つかむ",
       "zh": "抓住",
-      "ru": "держать"
+      "ru": "держать",
+      "fr": "tenir"
     },
     "examples": [],
     "meta": {
@@ -46897,12 +46896,12 @@ const WORDS_KO_B1 = [
       "en": "buy up",
       "de": "aufkaufen",
       "es": "comprar",
-      "pl": "kupować",
       "it": "acquistare",
       "pt": "comprar",
       "ja": "買い入れる",
       "zh": "买进",
-      "ru": "скупать"
+      "ru": "скупать",
+      "fr": "acheter"
     },
     "examples": [],
     "meta": {
@@ -46929,12 +46928,12 @@ const WORDS_KO_B1 = [
       "en": "sailor",
       "de": "der Seemann",
       "es": "el marinero",
-      "pl": "marynarz",
       "it": "il marinaio",
       "pt": "o marinheiro",
       "ja": "船員",
       "zh": "船员",
-      "ru": "моряк"
+      "ru": "моряк",
+      "fr": "marin"
     },
     "examples": [],
     "meta": {
@@ -46960,12 +46959,12 @@ const WORDS_KO_B1 = [
       "en": "be disappointed",
       "de": "enttäuscht sein",
       "es": "decepcionarse",
-      "pl": "rozczarować się",
       "it": "rimanere deluso",
       "pt": "ficar desapontado",
       "ja": "失望する",
       "zh": "失望",
-      "ru": "разочаровываться"
+      "ru": "разочаровываться",
+      "fr": "être déçu"
     },
     "examples": [],
     "meta": {
@@ -46992,12 +46991,12 @@ const WORDS_KO_B1 = [
       "en": "regret",
       "de": "die Reue",
       "es": "el pesar",
-      "pl": "żal",
       "it": "il rammarico",
       "pt": "o pesar",
       "ja": "残念",
       "zh": "遗憾",
-      "ru": "сожаление"
+      "ru": "сожаление",
+      "fr": "regret"
     },
     "examples": [],
     "meta": {
@@ -47023,12 +47022,12 @@ const WORDS_KO_B1 = [
       "en": "weaken",
       "de": "schwächer werden",
       "es": "debilitarse",
-      "pl": "słabnąć",
       "it": "indebolirsi",
       "pt": "enfraquecer",
       "ja": "弱くなる",
       "zh": "变弱",
-      "ru": "ослабевать"
+      "ru": "ослабевать",
+      "fr": "affaiblir"
     },
     "examples": [],
     "meta": {
@@ -47055,12 +47054,12 @@ const WORDS_KO_B1 = [
       "en": "mess",
       "de": "das Durcheinander",
       "es": "el desorden",
-      "pl": "bałagan",
       "it": "il disordine",
       "pt": "a bagunça",
       "ja": "めちゃくちゃ",
       "zh": "混乱",
-      "ru": "беспорядок"
+      "ru": "беспорядок",
+      "fr": "désordre"
     },
     "examples": [],
     "meta": {
@@ -47086,12 +47085,12 @@ const WORDS_KO_B1 = [
       "en": "direct",
       "de": "inszenieren",
       "es": "dirigir",
-      "pl": "reżyserować",
       "it": "dirigere",
       "pt": "dirigir",
       "ja": "演出する",
       "zh": "导演",
-      "ru": "режиссировать"
+      "ru": "режиссировать",
+      "fr": "diriger"
     },
     "examples": [],
     "meta": {
@@ -47118,12 +47117,12 @@ const WORDS_KO_B1 = [
       "en": "concentrate",
       "de": "sich konzentrieren",
       "es": "concentrarse",
-      "pl": "skupiać się",
       "it": "concentrarsi",
       "pt": "concentrar-se",
       "ja": "熱中する",
       "zh": "专心",
-      "ru": "увлекаться"
+      "ru": "увлекаться",
+      "fr": "se concentrer"
     },
     "examples": [],
     "meta": {
@@ -47150,12 +47149,12 @@ const WORDS_KO_B1 = [
       "en": "hero",
       "de": "der Held",
       "es": "el héroe",
-      "pl": "bohater",
       "it": "l'eroe",
       "pt": "o herói",
       "ja": "英雄",
       "zh": "英雄",
-      "ru": "герой"
+      "ru": "герой",
+      "fr": "héros"
     },
     "examples": [],
     "meta": {
@@ -47181,12 +47180,12 @@ const WORDS_KO_B1 = [
       "en": "heritage",
       "de": "das Erbe",
       "es": "la herencia",
-      "pl": "dziedzictwo",
       "it": "l'eredità",
       "pt": "a herança",
       "ja": "遺産",
       "zh": "遗产",
-      "ru": "наследие"
+      "ru": "наследие",
+      "fr": "patrimoine"
     },
     "examples": [],
     "meta": {
@@ -47212,12 +47211,12 @@ const WORDS_KO_B1 = [
       "en": "intentional",
       "de": "absichtlich",
       "es": "intencional",
-      "pl": "celowy",
       "it": "intenzionale",
       "pt": "intencional",
       "ja": "意図的",
       "zh": "故意的",
-      "ru": "намеренный"
+      "ru": "намеренный",
+      "fr": "intentionnel"
     },
     "examples": [],
     "meta": {
@@ -47241,12 +47240,12 @@ const WORDS_KO_B1 = [
       "en": "pregnant woman",
       "de": "die Schwangere",
       "es": "la embarazada",
-      "pl": "ciężarna",
       "it": "la donna incinta",
       "pt": "a grávida",
       "ja": "妊婦",
       "zh": "孕妇",
-      "ru": "беременная женщина"
+      "ru": "беременная женщина",
+      "fr": "femme enceinte"
     },
     "examples": [],
     "meta": {
@@ -47272,12 +47271,12 @@ const WORDS_KO_B1 = [
       "en": "long-term",
       "de": "langfristig",
       "es": "a largo plazo",
-      "pl": "długoterminowy",
       "it": "a lungo termine",
       "pt": "a longo prazo",
       "ja": "長期的な",
       "zh": "长期的",
-      "ru": "долгосрочный"
+      "ru": "долгосрочный",
+      "fr": "à long terme"
     },
     "examples": [],
     "meta": {
@@ -47301,12 +47300,12 @@ const WORDS_KO_B1 = [
       "en": "talent",
       "de": "das Talent",
       "es": "el talento",
-      "pl": "talent",
       "it": "il talento",
       "pt": "o talento",
       "ja": "才能",
       "zh": "才能",
-      "ru": "талант"
+      "ru": "талант",
+      "fr": "talent"
     },
     "examples": [],
     "meta": {
@@ -47332,12 +47331,12 @@ const WORDS_KO_B1 = [
       "en": "legend",
       "de": "die Legende",
       "es": "la leyenda",
-      "pl": "legenda",
       "it": "la leggenda",
       "pt": "a lenda",
       "ja": "伝説",
       "zh": "传说",
-      "ru": "легенда"
+      "ru": "легенда",
+      "fr": "légende"
     },
     "examples": [],
     "meta": {
@@ -47363,12 +47362,12 @@ const WORDS_KO_B1 = [
       "en": "milk",
       "de": "die Milch",
       "es": "la leche",
-      "pl": "mleko",
       "it": "il latte",
       "pt": "o leite",
       "ja": "乳",
       "zh": "奶",
-      "ru": "молоко"
+      "ru": "молоко",
+      "fr": "lait"
     },
     "examples": [],
     "meta": {
@@ -47394,12 +47393,12 @@ const WORDS_KO_B1 = [
       "en": "to pester",
       "de": "betteln",
       "es": "insistir",
-      "pl": "nalegać",
       "it": "insistere",
       "pt": "insistir",
       "ja": "ねだる",
       "zh": "央求",
-      "ru": "упрашивать"
+      "ru": "упрашивать",
+      "fr": "importuner"
     },
     "examples": [],
     "meta": {
@@ -47426,12 +47425,12 @@ const WORDS_KO_B1 = [
       "en": "tiresome",
       "de": "langweilig",
       "es": "tedioso",
-      "pl": "nudny",
       "it": "noioso",
       "pt": "tedioso",
       "ja": "飽き飽きする",
       "zh": "厌烦",
-      "ru": "надоедливый"
+      "ru": "надоедливый",
+      "fr": "fatigant"
     },
     "examples": [],
     "meta": {
@@ -47455,12 +47454,12 @@ const WORDS_KO_B1 = [
       "en": "guess",
       "de": "die Vermutung",
       "es": "la suposición",
-      "pl": "domysł",
       "it": "la supposizione",
       "pt": "a suposição",
       "ja": "推測",
       "zh": "推测",
-      "ru": "предположение"
+      "ru": "предположение",
+      "fr": "supposition"
     },
     "examples": [],
     "meta": {
@@ -47486,12 +47485,12 @@ const WORDS_KO_B1 = [
       "en": "to be driven out",
       "de": "vertrieben werden",
       "es": "ser expulsado",
-      "pl": "zostać wyrzuconym",
       "it": "essere cacciato",
       "pt": "ser expulso",
       "ja": "追い出される",
       "zh": "被赶走",
-      "ru": "быть изгнанным"
+      "ru": "быть изгнанным",
+      "fr": "être chassé"
     },
     "examples": [],
     "meta": {
@@ -47518,12 +47517,12 @@ const WORDS_KO_B1 = [
       "en": "to tear",
       "de": "reißen",
       "es": "rasgar",
-      "pl": "podrzeć",
       "it": "strappare",
       "pt": "rasgar",
       "ja": "裂く",
       "zh": "撕裂",
-      "ru": "рвать"
+      "ru": "рвать",
+      "fr": "déchirer"
     },
     "examples": [],
     "meta": {
@@ -47550,12 +47549,12 @@ const WORDS_KO_B1 = [
       "en": "employment",
       "de": "die Beschäftigung",
       "es": "el empleo",
-      "pl": "zatrudnienie",
       "it": "l'occupazione",
       "pt": "o emprego",
       "ja": "就職",
       "zh": "就业",
-      "ru": "трудоустройство"
+      "ru": "трудоустройство",
+      "fr": "emploi"
     },
     "examples": [],
     "meta": {
@@ -47581,12 +47580,12 @@ const WORDS_KO_B1 = [
       "en": "to paint",
       "de": "streichen",
       "es": "pintar",
-      "pl": "malować",
       "it": "dipingere",
       "pt": "pintar",
       "ja": "塗る",
       "zh": "涂抹",
-      "ru": "красить"
+      "ru": "красить",
+      "fr": "peindre"
     },
     "examples": [],
     "meta": {
@@ -47613,12 +47612,12 @@ const WORDS_KO_B1 = [
       "en": "to burn",
       "de": "brennen",
       "es": "arder",
-      "pl": "płonąć",
       "it": "bruciare",
       "pt": "queimar",
       "ja": "燃える",
       "zh": "燃烧",
-      "ru": "гореть"
+      "ru": "гореть",
+      "fr": "brûler"
     },
     "examples": [],
     "meta": {
@@ -47645,12 +47644,12 @@ const WORDS_KO_B1 = [
       "en": "pyeong",
       "de": "die Pyeong",
       "es": "el pyeong",
-      "pl": "pyeong",
       "it": "il pyeong",
       "pt": "o pyeong",
       "ja": "坪",
       "zh": "坪",
-      "ru": "пхён"
+      "ru": "пхён",
+      "fr": "pyeong"
     },
     "examples": [],
     "meta": {
@@ -47676,12 +47675,12 @@ const WORDS_KO_B1 = [
       "en": "peaceful",
       "de": "friedlich",
       "es": "pacífico",
-      "pl": "spokojny",
       "it": "pacifico",
       "pt": "pacífico",
       "ja": "平和な",
       "zh": "和平的",
-      "ru": "мирный"
+      "ru": "мирный",
+      "fr": "paisible"
     },
     "examples": [],
     "meta": {
@@ -47706,12 +47705,12 @@ const WORDS_KO_B1 = [
       "en": "mark",
       "de": "das Zeichen",
       "es": "la marca",
-      "pl": "znak",
       "it": "il segno",
       "pt": "a marca",
       "ja": "印",
       "zh": "标记",
-      "ru": "знак"
+      "ru": "знак",
+      "fr": "marque"
     },
     "examples": [],
     "meta": {
@@ -47738,12 +47737,12 @@ const WORDS_KO_B1 = [
       "en": "second half of the year",
       "de": "die zweite Jahreshälfte",
       "es": "la segunda mitad del año",
-      "pl": "druga połowa roku",
       "it": "la seconda metà dell'anno",
       "pt": "a segunda metade do ano",
       "ja": "下半期",
       "zh": "下半年",
-      "ru": "вторая половина года"
+      "ru": "вторая половина года",
+      "fr": "deuxième semestre"
     },
     "examples": [],
     "meta": {
@@ -47769,12 +47768,12 @@ const WORDS_KO_B1 = [
       "en": "corner",
       "de": "eine Ecke",
       "es": "un rincón",
-      "pl": "kąt",
       "it": "un angolo",
       "pt": "um canto",
       "ja": "一角",
       "zh": "一角",
-      "ru": "угол"
+      "ru": "угол",
+      "fr": "coin"
     },
     "examples": [],
     "meta": {
@@ -47800,12 +47799,12 @@ const WORDS_KO_B1 = [
       "en": "to be limited",
       "de": "begrenzt sein",
       "es": "estar limitado",
-      "pl": "być ograniczonym",
       "it": "essere limitato",
       "pt": "ser limitado",
       "ja": "限られる",
       "zh": "限于",
-      "ru": "быть ограниченным"
+      "ru": "быть ограниченным",
+      "fr": "être limité"
     },
     "examples": [],
     "meta": {
@@ -47832,12 +47831,12 @@ const WORDS_KO_B1 = [
       "en": "answer",
       "de": "die Antwort",
       "es": "la respuesta",
-      "pl": "odpowiedź",
       "it": "la risposta",
       "pt": "a resposta",
       "ja": "答え",
       "zh": "答案",
-      "ru": "ответ"
+      "ru": "ответ",
+      "fr": "réponse"
     },
     "examples": [],
     "meta": {
@@ -47863,12 +47862,12 @@ const WORDS_KO_B1 = [
       "en": "resolve",
       "de": "auflösen",
       "es": "resolver",
-      "pl": "rozwiązać",
       "it": "risolvere",
       "pt": "resolver",
       "ja": "解消する",
       "zh": "解决",
-      "ru": "разрешать"
+      "ru": "разрешать",
+      "fr": "résoudre"
     },
     "examples": [],
     "meta": {
@@ -47895,12 +47894,12 @@ const WORDS_KO_B1 = [
       "en": "allow",
       "de": "erlauben",
       "es": "permitir",
-      "pl": "pozwolić",
       "it": "permettere",
       "pt": "permitir",
       "ja": "許可する",
       "zh": "允许",
-      "ru": "разрешать"
+      "ru": "разрешать",
+      "fr": "permettre"
     },
     "examples": [],
     "meta": {
@@ -47927,12 +47926,12 @@ const WORDS_KO_B1 = [
       "en": "establish",
       "de": "etablieren",
       "es": "establecer",
-      "pl": "ustanowić",
       "it": "stabilire",
       "pt": "estabelecer",
       "ja": "確立する",
       "zh": "确立",
-      "ru": "устанавливать"
+      "ru": "устанавливать",
+      "fr": "établir"
     },
     "examples": [],
     "meta": {
@@ -47959,12 +47958,12 @@ const WORDS_KO_B1 = [
       "en": "be convinced",
       "de": "überzeugt sein",
       "es": "estar convencido",
-      "pl": "być przekonanym",
       "it": "essere convinto",
       "pt": "estar convencido",
       "ja": "確信する",
       "zh": "确信",
-      "ru": "быть убежденным"
+      "ru": "быть убежденным",
+      "fr": "être convaincu"
     },
     "examples": [],
     "meta": {
@@ -47991,12 +47990,12 @@ const WORDS_KO_B1 = [
       "en": "excitement",
       "de": "die Aufregung",
       "es": "la excitación",
-      "pl": "ekscytacja",
       "it": "l'eccitazione",
       "pt": "a excitação",
       "ja": "興奮",
       "zh": "兴奋",
-      "ru": "волнение"
+      "ru": "волнение",
+      "fr": "excitation"
     },
     "examples": [],
     "meta": {
@@ -48022,12 +48021,12 @@ const WORDS_KO_B1 = [
       "en": "get excited",
       "de": "aufgeregt werden",
       "es": "excitarse",
-      "pl": "ekscytować się",
       "it": "eccitarsi",
       "pt": "excitar-se",
       "ja": "興奮する",
       "zh": "兴奋",
-      "ru": "волноваться"
+      "ru": "волноваться",
+      "fr": "s'enthousiasmer"
     },
     "examples": [],
     "meta": {
@@ -48054,12 +48053,12 @@ const WORDS_KO_B1 = [
       "en": "be difficult",
       "de": "schwierig sein",
       "es": "ser difícil",
-      "pl": "być trudnym",
       "it": "essere difficile",
       "pt": "ser difícil",
       "ja": "困難である",
       "zh": "困难",
-      "ru": "быть трудным"
+      "ru": "быть трудным",
+      "fr": "être difficile"
     },
     "examples": [],
     "meta": {
@@ -48083,12 +48082,12 @@ const WORDS_KO_B1 = [
       "en": "sensitivity",
       "de": "die Empfindlichkeit",
       "es": "la sensibilidad",
-      "pl": "wrażliwość",
       "it": "la sensibilità",
       "pt": "a sensibilidade",
       "ja": "感受性",
       "zh": "敏感性",
-      "ru": "чувствительность"
+      "ru": "чувствительность",
+      "fr": "sensibilité"
     },
     "examples": [],
     "meta": {
@@ -48114,12 +48113,12 @@ const WORDS_KO_B1 = [
       "en": "help",
       "de": "helfen",
       "es": "ayudar",
-      "pl": "pomagać",
       "it": "aiutare",
       "pt": "ajudar",
       "ja": "手伝う",
       "zh": "帮助",
-      "ru": "помогать"
+      "ru": "помогать",
+      "fr": "aider"
     },
     "examples": [],
     "meta": {
@@ -48146,12 +48145,12 @@ const WORDS_KO_B1 = [
       "en": "surge",
       "de": "ansteigen",
       "es": "aumentar drásticamente",
-      "pl": "gwałtownie wzrosnąć",
       "it": "aumentare improvvisamente",
       "pt": "aumentar drasticamente",
       "ja": "急増する",
       "zh": "激增",
-      "ru": "резко возрастать"
+      "ru": "резко возрастать",
+      "fr": "bondir"
     },
     "examples": [],
     "meta": {
@@ -48178,12 +48177,12 @@ const WORDS_KO_B1 = [
       "en": "neat",
       "de": "ordentlich",
       "es": "ordenado",
-      "pl": "schludny",
       "it": "ordinato",
       "pt": "arrumado",
       "ja": "きれいで整っている",
       "zh": "整洁",
-      "ru": "аккуратный"
+      "ru": "аккуратный",
+      "fr": "soigné"
     },
     "examples": [],
     "meta": {
@@ -48207,12 +48206,12 @@ const WORDS_KO_B1 = [
       "en": "meticulous",
       "de": "sorgfältig",
       "es": "meticuloso",
-      "pl": "dokładny",
       "it": "meticoloso",
       "pt": "meticuloso",
       "ja": "几帳面である",
       "zh": "一丝不苟",
-      "ru": "тщательный"
+      "ru": "тщательный",
+      "fr": "méticuleux"
     },
     "examples": [],
     "meta": {
@@ -48236,12 +48235,12 @@ const WORDS_KO_B1 = [
       "en": "lower",
       "de": "sinken",
       "es": "bajar",
-      "pl": "obniżyć się",
       "it": "abbassarsi",
       "pt": "baixar",
       "ja": "低くなる",
       "zh": "降低",
-      "ru": "снижаться"
+      "ru": "снижаться",
+      "fr": "baisser"
     },
     "examples": [],
     "meta": {
@@ -48268,12 +48267,12 @@ const WORDS_KO_B1 = [
       "en": "simplicity",
       "de": "die Einfachheit",
       "es": "la simplicidad",
-      "pl": "prostota",
       "it": "la semplicità",
       "pt": "a simplicidade",
       "ja": "単純",
       "zh": "简单",
-      "ru": "простота"
+      "ru": "простота",
+      "fr": "simplicité"
     },
     "examples": [],
     "meta": {
@@ -48299,12 +48298,12 @@ const WORDS_KO_B1 = [
       "en": "hawk",
       "de": "der Falke",
       "es": "el halcón",
-      "pl": "jastrząb",
       "it": "il falco",
       "pt": "o falcão",
       "ja": "鷹",
       "zh": "鹰",
-      "ru": "ястреб"
+      "ru": "ястреб",
+      "fr": "faucon"
     },
     "examples": [],
     "meta": {
@@ -48330,12 +48329,12 @@ const WORDS_KO_B1 = [
       "en": "make a living",
       "de": "sich ernähren",
       "es": "ganarse la vida",
-      "pl": "zarabiać na życie",
       "it": "guadagnarsi da vivere",
       "pt": "ganhar a vida",
       "ja": "生計を立てる",
       "zh": "谋生",
-      "ru": "зарабатывать на жизнь"
+      "ru": "зарабатывать на жизнь",
+      "fr": "gagner sa vie"
     },
     "examples": [],
     "meta": {
@@ -48362,12 +48361,12 @@ const WORDS_KO_B1 = [
       "en": "stop",
       "de": "aufhören",
       "es": "parar",
-      "pl": "przestać",
       "it": "smettere",
       "pt": "parar",
       "ja": "止まる",
       "zh": "停止",
-      "ru": "прекращаться"
+      "ru": "прекращаться",
+      "fr": "arrêter"
     },
     "examples": [],
     "meta": {
@@ -48394,12 +48393,12 @@ const WORDS_KO_B1 = [
       "en": "interview",
       "de": "das Interview",
       "es": "la entrevista",
-      "pl": "wywiad",
       "it": "l'intervista",
       "pt": "a entrevista",
       "ja": "面談",
       "zh": "面谈",
-      "ru": "собеседование"
+      "ru": "собеседование",
+      "fr": "entretien"
     },
     "examples": [],
     "meta": {
@@ -48425,12 +48424,12 @@ const WORDS_KO_B1 = [
       "en": "recruitment",
       "de": "die Rekrutierung",
       "es": "el reclutamiento",
-      "pl": "rekrutacja",
       "it": "il reclutamento",
       "pt": "o recrutamento",
       "ja": "募集",
       "zh": "招募",
-      "ru": "набор"
+      "ru": "набор",
+      "fr": "recrutement"
     },
     "examples": [],
     "meta": {
@@ -48456,12 +48455,12 @@ const WORDS_KO_B1 = [
       "en": "corner",
       "de": "die Ecke",
       "es": "la esquina",
-      "pl": "róg",
       "it": "l'angolo",
       "pt": "o canto",
       "ja": "角",
       "zh": "角落",
-      "ru": "угол"
+      "ru": "угол",
+      "fr": "coin"
     },
     "examples": [],
     "meta": {
@@ -48487,12 +48486,12 @@ const WORDS_KO_B1 = [
       "en": "basket",
       "de": "der Korb",
       "es": "la cesta",
-      "pl": "kosz",
       "it": "il cesto",
       "pt": "a cesta",
       "ja": "籠",
       "zh": "篮子",
-      "ru": "корзина"
+      "ru": "корзина",
+      "fr": "panier"
     },
     "examples": [],
     "meta": {
@@ -48518,12 +48517,12 @@ const WORDS_KO_B1 = [
       "en": "develop",
       "de": "sich entwickeln",
       "es": "desarrollarse",
-      "pl": "rozwijać się",
       "it": "svilupparsi",
       "pt": "desenvolver-se",
       "ja": "発達する",
       "zh": "发展",
-      "ru": "развиваться"
+      "ru": "развиваться",
+      "fr": "développer"
     },
     "examples": [],
     "meta": {
@@ -48550,12 +48549,12 @@ const WORDS_KO_B1 = [
       "en": "full moon period",
       "de": "die Vollmondperiode",
       "es": "período de luna llena",
-      "pl": "pełnia księżyca",
       "it": "periodo di luna piena",
       "pt": "período de lua cheia",
       "ja": "満月",
       "zh": "满月时期",
-      "ru": "полнолуние"
+      "ru": "полнолуние",
+      "fr": "pleine lune"
     },
     "examples": [],
     "meta": {
@@ -48581,12 +48580,12 @@ const WORDS_KO_B1 = [
       "en": "collide",
       "de": "stoßen",
       "es": "chocar",
-      "pl": "zderzyć się",
       "it": "scontrarsi",
       "pt": "colidir",
       "ja": "ぶつかる",
       "zh": "碰撞",
-      "ru": "столкнуться"
+      "ru": "столкнуться",
+      "fr": "se heurter"
     },
     "examples": [],
     "meta": {
@@ -48613,12 +48612,12 @@ const WORDS_KO_B1 = [
       "en": "emergency",
       "de": "der Notfall",
       "es": "la emergencia",
-      "pl": "nagły wypadek",
       "it": "l'emergenza",
       "pt": "a emergência",
       "ja": "緊急事態",
       "zh": "紧急情况",
-      "ru": "чрезвычайная ситуация"
+      "ru": "чрезвычайная ситуация",
+      "fr": "urgence"
     },
     "examples": [],
     "meta": {
@@ -48644,12 +48643,12 @@ const WORDS_KO_B1 = [
       "en": "shake off",
       "de": "abschütteln",
       "es": "sacudirse",
-      "pl": "strząsnąć",
       "it": "scuotere",
       "pt": "sacudir",
       "ja": "振り払う",
       "zh": "摆脱",
-      "ru": "отряхнуться"
+      "ru": "отряхнуться",
+      "fr": "secouer"
     },
     "examples": [],
     "meta": {
@@ -48678,12 +48677,12 @@ const WORDS_KO_B1 = [
       "en": "businessperson",
       "de": "der Geschäftsmann",
       "es": "el empresario",
-      "pl": "biznesmen",
       "it": "l'uomo d'affari",
       "pt": "o empresário",
       "ja": "事業者",
       "zh": "经营者",
-      "ru": "предприниматель"
+      "ru": "предприниматель",
+      "fr": "chef d'entreprise"
     },
     "examples": [],
     "meta": {
@@ -48709,12 +48708,12 @@ const WORDS_KO_B1 = [
       "en": "opponent",
       "de": "der Gegner",
       "es": "el oponente",
-      "pl": "przeciwnik",
       "it": "l'avversario",
       "pt": "o oponente",
       "ja": "相手",
       "zh": "对方",
-      "ru": "противник"
+      "ru": "противник",
+      "fr": "adversaire"
     },
     "examples": [],
     "meta": {
@@ -48740,12 +48739,12 @@ const WORDS_KO_B1 = [
       "en": "set",
       "de": "das Set",
       "es": "el set",
-      "pl": "zestaw",
       "it": "il set",
       "pt": "o conjunto",
       "ja": "セット",
       "zh": "套装",
-      "ru": "набор"
+      "ru": "набор",
+      "fr": "ensemble"
     },
     "examples": [],
     "meta": {
@@ -48771,12 +48770,12 @@ const WORDS_KO_B1 = [
       "en": "wish",
       "de": "der Wunsch",
       "es": "el deseo",
-      "pl": "życzenie",
       "it": "il desiderio",
       "pt": "o desejo",
       "ja": "願い",
       "zh": "愿望",
-      "ru": "желание"
+      "ru": "желание",
+      "fr": "souhait"
     },
     "examples": [],
     "meta": {
@@ -48802,12 +48801,12 @@ const WORDS_KO_B1 = [
       "en": "passive",
       "de": "passiv",
       "es": "pasivo",
-      "pl": "pasywny",
       "it": "passivo",
       "pt": "passivo",
       "ja": "受動的",
       "zh": "被动的",
-      "ru": "пассивный"
+      "ru": "пассивный",
+      "fr": "passif"
     },
     "examples": [],
     "meta": {
@@ -48832,12 +48831,12 @@ const WORDS_KO_B1 = [
       "en": "viewership rating",
       "de": "die Einschaltquote",
       "es": "el índice de audiencia",
-      "pl": "wskaźnik oglądalności",
       "it": "il tasso di ascolto",
       "pt": "a taxa de audiência",
       "ja": "視聴率",
       "zh": "收视率",
-      "ru": "рейтинг просмотра"
+      "ru": "рейтинг просмотра",
+      "fr": "taux d'audience"
     },
     "examples": [],
     "meta": {
@@ -48863,12 +48862,12 @@ const WORDS_KO_B1 = [
       "en": "female soldier",
       "de": "die Soldatin",
       "es": "la soldado",
-      "pl": "żołnierka",
       "it": "la soldatessa",
       "pt": "a soldado",
       "ja": "女性兵士",
       "zh": "女兵",
-      "ru": "женщина-солдат"
+      "ru": "женщина-солдат",
+      "fr": "soldate"
     },
     "examples": [],
     "meta": {
@@ -48894,12 +48893,12 @@ const WORDS_KO_B1 = [
       "en": "lover",
       "de": "der Liebhaber",
       "es": "el amante",
-      "pl": "kochanek",
       "it": "l'amante",
       "pt": "o amante",
       "ja": "恋人",
       "zh": "恋人",
-      "ru": "любовник"
+      "ru": "любовник",
+      "fr": "amant"
     },
     "examples": [],
     "meta": {
@@ -48925,12 +48924,12 @@ const WORDS_KO_B1 = [
       "en": "extension",
       "de": "die Verlängerung",
       "es": "la extensión",
-      "pl": "przedłużenie",
       "it": "l'estensione",
       "pt": "a extensão",
       "ja": "延長",
       "zh": "延长",
-      "ru": "продление"
+      "ru": "продление",
+      "fr": "extension"
     },
     "examples": [],
     "meta": {
@@ -48956,12 +48955,12 @@ const WORDS_KO_B1 = [
       "en": "preliminary match",
       "de": "das Vorausscheidungsspiel",
       "es": "partido preliminar",
-      "pl": "mecz eliminacyjny",
       "it": "partita preliminare",
       "pt": "partida preliminar",
       "ja": "予選",
       "zh": "预选赛",
-      "ru": "отборочный матч"
+      "ru": "отборочный матч",
+      "fr": "match préliminaire"
     },
     "examples": [],
     "meta": {
@@ -48987,12 +48986,12 @@ const WORDS_KO_B1 = [
       "en": "won",
       "de": "der Won",
       "es": "el won",
-      "pl": "won",
       "it": "il won",
       "pt": "o won",
       "ja": "ウォン",
       "zh": "韩元",
-      "ru": "вона"
+      "ru": "вона",
+      "fr": "won"
     },
     "examples": [],
     "meta": {
@@ -49018,12 +49017,12 @@ const WORDS_KO_B1 = [
       "en": "ginkgo tree",
       "de": "der Ginkgobaum",
       "es": "el árbol de ginkgo",
-      "pl": "drzewo ginkgo",
       "it": "l'albero di ginkgo",
       "pt": "a árvore de ginkgo",
       "ja": "イチョウ",
       "zh": "银杏树",
-      "ru": "гинкго"
+      "ru": "гинкго",
+      "fr": "ginkgo"
     },
     "examples": [],
     "meta": {
@@ -49049,12 +49048,12 @@ const WORDS_KO_B1 = [
       "en": "pride",
       "de": "der Stolz",
       "es": "el orgullo",
-      "pl": "duma",
       "it": "l'orgoglio",
       "pt": "o orgulho",
       "ja": "自尊心",
       "zh": "自豪感",
-      "ru": "гордость"
+      "ru": "гордость",
+      "fr": "fierté"
     },
     "examples": [],
     "meta": {
@@ -49080,12 +49079,12 @@ const WORDS_KO_B1 = [
       "en": "psychiatry",
       "de": "die Psychiatrie",
       "es": "la psiquiatría",
-      "pl": "psychiatria",
       "it": "la psichiatria",
       "pt": "a psiquiatria",
       "ja": "精神科",
       "zh": "精神科",
-      "ru": "психиатрия"
+      "ru": "психиатрия",
+      "fr": "psychiatrie"
     },
     "examples": [],
     "meta": {
@@ -49111,12 +49110,12 @@ const WORDS_KO_B1 = [
       "en": "institutional",
       "de": "institutionell",
       "es": "institucional",
-      "pl": "instytucjonalny",
       "it": "istituzionale",
       "pt": "institucional",
       "ja": "制度的な",
       "zh": "制度的",
-      "ru": "институциональный"
+      "ru": "институциональный",
+      "fr": "institutionnel"
     },
     "examples": [],
     "meta": {
@@ -49140,12 +49139,12 @@ const WORDS_KO_B1 = [
       "en": "regulation",
       "de": "die Regulierung",
       "es": "la regulación",
-      "pl": "regulacja",
       "it": "la regolazione",
       "pt": "a regulação",
       "ja": "調整",
       "zh": "调节",
-      "ru": "регулирование"
+      "ru": "регулирование",
+      "fr": "réglementation"
     },
     "examples": [],
     "meta": {
@@ -49171,12 +49170,12 @@ const WORDS_KO_B1 = [
       "en": "residence",
       "de": "der Wohnsitz",
       "es": "la residencia",
-      "pl": "rezydencja",
       "it": "la residenza",
       "pt": "a residência",
       "ja": "住居",
       "zh": "居住",
-      "ru": "жительство"
+      "ru": "жительство",
+      "fr": "résidence"
     },
     "examples": [],
     "meta": {
@@ -49202,12 +49201,12 @@ const WORDS_KO_B1 = [
       "en": "to be interrupted",
       "de": "unterbrochen werden",
       "es": "ser interrumpido",
-      "pl": "zostać przerwany",
       "it": "essere interrotto",
       "pt": "ser interrompido",
       "ja": "中断される",
       "zh": "中断",
-      "ru": "быть прерванным"
+      "ru": "быть прерванным",
+      "fr": "être interrompu"
     },
     "examples": [],
     "meta": {
@@ -49234,12 +49233,12 @@ const WORDS_KO_B1 = [
       "en": "to regard as important",
       "de": "als wichtig erachten",
       "es": "considerar importante",
-      "pl": "uważać za ważne",
       "it": "considerare importante",
       "pt": "considerar importante",
       "ja": "重要視する",
       "zh": "重视",
-      "ru": "считать важным"
+      "ru": "считать важным",
+      "fr": "considérer comme important"
     },
     "examples": [],
     "meta": {
@@ -49266,12 +49265,12 @@ const WORDS_KO_B1 = [
       "en": "to diagnose",
       "de": "diagnostizieren",
       "es": "diagnosticar",
-      "pl": "diagnozować",
       "it": "diagnosticare",
       "pt": "diagnosticar",
       "ja": "診断する",
       "zh": "诊断",
-      "ru": "диагностировать"
+      "ru": "диагностировать",
+      "fr": "diagnostiquer"
     },
     "examples": [],
     "meta": {
@@ -49298,12 +49297,12 @@ const WORDS_KO_B1 = [
       "en": "prejudice",
       "de": "das Vorurteil",
       "es": "el prejuicio",
-      "pl": "uprzedzenie",
       "it": "il pregiudizio",
       "pt": "o preconceito",
       "ja": "偏見",
       "zh": "偏见",
-      "ru": "предубеждение"
+      "ru": "предубеждение",
+      "fr": "préjugé"
     },
     "examples": [],
     "meta": {
@@ -49329,12 +49328,12 @@ const WORDS_KO_B1 = [
       "en": "exchange rate",
       "de": "der Wechselkurs",
       "es": "el tipo de cambio",
-      "pl": "kurs wymiany",
       "it": "il tasso di cambio",
       "pt": "a taxa de câmbio",
       "ja": "為替レート",
       "zh": "汇率",
-      "ru": "обменный курс"
+      "ru": "обменный курс",
+      "fr": "taux de change"
     },
     "examples": [],
     "meta": {
@@ -49360,12 +49359,12 @@ const WORDS_KO_B1 = [
       "en": "vitality",
       "de": "die Vitalität",
       "es": "la vitalidad",
-      "pl": "witalność",
       "it": "la vitalità",
       "pt": "a vitalidade",
       "ja": "活力",
       "zh": "活力",
-      "ru": "жизненная сила"
+      "ru": "жизненная сила",
+      "fr": "vitalité"
     },
     "examples": [],
     "meta": {
@@ -49391,12 +49390,12 @@ const WORDS_KO_B1 = [
       "en": "instructor",
       "de": "der Dozent",
       "es": "el instructor",
-      "pl": "wykładowca",
       "it": "l'istruttore",
       "pt": "o instrutor",
       "ja": "講師",
       "zh": "讲师",
-      "ru": "инструктор"
+      "ru": "инструктор",
+      "fr": "instructeur"
     },
     "examples": [],
     "meta": {
@@ -49422,12 +49421,12 @@ const WORDS_KO_B1 = [
       "en": "precipitation",
       "de": "die Niederschlagsmenge",
       "es": "la precipitación",
-      "pl": "opad",
       "it": "la precipitazione",
       "pt": "a precipitação",
       "ja": "降水量",
       "zh": "降水量",
-      "ru": "осадки"
+      "ru": "осадки",
+      "fr": "précipitations"
     },
     "examples": [],
     "meta": {
@@ -49453,12 +49452,12 @@ const WORDS_KO_B1 = [
       "en": "shift",
       "de": "der Wechsel",
       "es": "el relevo",
-      "pl": "zmiana",
       "it": "il cambio",
       "pt": "a troca",
       "ja": "交代",
       "zh": "轮班",
-      "ru": "смена"
+      "ru": "смена",
+      "fr": "changement"
     },
     "examples": [],
     "meta": {
@@ -49484,12 +49483,12 @@ const WORDS_KO_B1 = [
       "en": "district office",
       "de": "das Bezirksamt",
       "es": "la oficina del distrito",
-      "pl": "urząd dzielnicy",
       "it": "l'ufficio distrettuale",
       "pt": "o escritório distrital",
       "ja": "区役所",
       "zh": "区政府",
-      "ru": "районная управа"
+      "ru": "районная управа",
+      "fr": "bureau de district"
     },
     "examples": [],
     "meta": {
@@ -49515,12 +49514,12 @@ const WORDS_KO_B1 = [
       "en": "domestic and foreign",
       "de": "in- und ausländisch",
       "es": "nacional y extranjero",
-      "pl": "krajowy i zagraniczny",
       "it": "nazionale ed estero",
       "pt": "doméstico e estrangeiro",
       "ja": "国内外",
       "zh": "国内外",
-      "ru": "внутренний и внешний"
+      "ru": "внутренний и внешний",
+      "fr": "national et étranger"
     },
     "examples": [],
     "meta": {
@@ -49546,12 +49545,12 @@ const WORDS_KO_B1 = [
       "en": "to be prohibited",
       "de": "verboten werden",
       "es": "ser prohibido",
-      "pl": "zostać zakazanym",
       "it": "essere proibito",
       "pt": "ser proibido",
       "ja": "禁止される",
       "zh": "禁止",
-      "ru": "быть запрещенным"
+      "ru": "быть запрещенным",
+      "fr": "être interdit"
     },
     "examples": [],
     "meta": {
@@ -49578,12 +49577,12 @@ const WORDS_KO_B1 = [
       "en": "to pray",
       "de": "beten",
       "es": "rezar",
-      "pl": "modlić się",
       "it": "pregare",
       "pt": "orar",
       "ja": "祈る",
       "zh": "祈祷",
-      "ru": "молиться"
+      "ru": "молиться",
+      "fr": "prier"
     },
     "examples": [],
     "meta": {
@@ -49610,12 +49609,12 @@ const WORDS_KO_B1 = [
       "en": "established",
       "de": "etabliert",
       "es": "establecido",
-      "pl": "ustalony",
       "it": "stabilito",
       "pt": "estabelecido",
       "ja": "既成",
       "zh": "既成",
-      "ru": "устоявшийся"
+      "ru": "устоявшийся",
+      "fr": "établi"
     },
     "examples": [],
     "meta": {
@@ -49641,12 +49640,12 @@ const WORDS_KO_B1 = [
       "en": "to break",
       "de": "zerbrechen",
       "es": "romper",
-      "pl": "złamać",
       "it": "rompere",
       "pt": "quebrar",
       "ja": "壊す",
       "zh": "打碎",
-      "ru": "разбить"
+      "ru": "разбить",
+      "fr": "casser"
     },
     "examples": [],
     "meta": {
@@ -49674,12 +49673,12 @@ const WORDS_KO_B1 = [
       "en": "farming",
       "de": "die Landwirtschaft",
       "es": "la agricultura",
-      "pl": "praca rolna",
       "it": "l'agricoltura",
       "pt": "a agricultura",
       "ja": "農作業",
       "zh": "农活",
-      "ru": "сельскохозяйственные работы"
+      "ru": "сельскохозяйственные работы",
+      "fr": "agriculture"
     },
     "examples": [],
     "meta": {
@@ -49705,12 +49704,12 @@ const WORDS_KO_B1 = [
       "en": "farm",
       "de": "der Bauernhof",
       "es": "la granja",
-      "pl": "farma",
       "it": "la fattoria",
       "pt": "a fazenda",
       "ja": "農場",
       "zh": "农场",
-      "ru": "ферма"
+      "ru": "ферма",
+      "fr": "ferme"
     },
     "examples": [],
     "meta": {
@@ -49736,12 +49735,12 @@ const WORDS_KO_B1 = [
       "en": "date",
       "de": "das Date",
       "es": "la cita",
-      "pl": "randka",
       "it": "l'appuntamento",
       "pt": "o encontro",
       "ja": "デート",
       "zh": "约会",
-      "ru": "свидание"
+      "ru": "свидание",
+      "fr": "rendez-vous"
     },
     "examples": [],
     "meta": {
@@ -49767,12 +49766,12 @@ const WORDS_KO_B1 = [
       "en": "go back",
       "de": "zurückgehen",
       "es": "volver",
-      "pl": "wrócić",
       "it": "tornare indietro",
       "pt": "voltar",
       "ja": "戻る",
       "zh": "回去",
-      "ru": "вернуться"
+      "ru": "вернуться",
+      "fr": "revenir"
     },
     "examples": [],
     "meta": {
@@ -49800,12 +49799,12 @@ const WORDS_KO_B1 = [
       "en": "drink down",
       "de": "hinunterkippen",
       "es": "beber de un trago",
-      "pl": "wypić duszkiem",
       "it": "bere d'un fiato",
       "pt": "engolir de uma vez",
       "ja": "ぐいっと飲む",
       "zh": "一饮而尽",
-      "ru": "залпом выпить"
+      "ru": "залпом выпить",
+      "fr": "boire d'un trait"
     },
     "examples": [],
     "meta": {
@@ -49832,12 +49831,12 @@ const WORDS_KO_B1 = [
       "en": "follow around",
       "de": "nachlaufen",
       "es": "seguir",
-      "pl": "podążać za",
       "it": "seguire",
       "pt": "seguir",
       "ja": "ついて行く",
       "zh": "跟着",
-      "ru": "следовать за"
+      "ru": "следовать за",
+      "fr": "suivre"
     },
     "examples": [],
     "meta": {
@@ -49864,12 +49863,12 @@ const WORDS_KO_B1 = [
       "en": "round",
       "de": "die Runde",
       "es": "la ronda",
-      "pl": "runda",
       "it": "il round",
       "pt": "a rodada",
       "ja": "ラウンド",
       "zh": "回合",
-      "ru": "раунд"
+      "ru": "раунд",
+      "fr": "tour"
     },
     "examples": [],
     "meta": {
@@ -49895,12 +49894,12 @@ const WORDS_KO_B1 = [
       "en": "mindset",
       "de": "die Einstellung",
       "es": "la mentalidad",
-      "pl": "nastawienie",
       "it": "atteggiamento mentale",
       "pt": "mentalidade",
       "ja": "心構え",
       "zh": "心态",
-      "ru": "настрой"
+      "ru": "настрой",
+      "fr": "état d'esprit"
     },
     "examples": [],
     "meta": {
@@ -49926,12 +49925,12 @@ const WORDS_KO_B1 = [
       "en": "hair",
       "de": "das Haar",
       "es": "el pelo",
-      "pl": "włosy",
       "it": "i capelli",
       "pt": "o cabelo",
       "ja": "髪の毛",
       "zh": "头发",
-      "ru": "волосы"
+      "ru": "волосы",
+      "fr": "cheveux"
     },
     "examples": [],
     "meta": {
@@ -49957,12 +49956,12 @@ const WORDS_KO_B1 = [
       "en": "wheel",
       "de": "das Rad",
       "es": "la rueda",
-      "pl": "koło",
       "it": "la ruota",
       "pt": "a roda",
       "ja": "車輪",
       "zh": "轮子",
-      "ru": "колесо"
+      "ru": "колесо",
+      "fr": "roue"
     },
     "examples": [],
     "meta": {
@@ -49988,12 +49987,12 @@ const WORDS_KO_B1 = [
       "en": "lightning",
       "de": "der Blitz",
       "es": "el rayo",
-      "pl": "błyskawica",
       "it": "il fulmine",
       "pt": "o raio",
       "ja": "稲妻",
       "zh": "闪电",
-      "ru": "молния"
+      "ru": "молния",
+      "fr": "éclair"
     },
     "examples": [],
     "meta": {
@@ -50019,12 +50018,12 @@ const WORDS_KO_B1 = [
       "en": "be changed",
       "de": "verändert werden",
       "es": "ser cambiado",
-      "pl": "zostać zmienionym",
       "it": "essere cambiato",
       "pt": "ser mudado",
       "ja": "変化される",
       "zh": "被改变",
-      "ru": "быть измененным"
+      "ru": "быть измененным",
+      "fr": "être changé"
     },
     "examples": [],
     "meta": {
@@ -50051,12 +50050,12 @@ const WORDS_KO_B1 = [
       "en": "absence",
       "de": "die Abwesenheit",
       "es": "la ausencia",
-      "pl": "nieobecność",
       "it": "l'assenza",
       "pt": "a ausência",
       "ja": "不在",
       "zh": "缺席",
-      "ru": "отсутствие"
+      "ru": "отсутствие",
+      "fr": "absence"
     },
     "examples": [],
     "meta": {
@@ -50082,12 +50081,12 @@ const WORDS_KO_B1 = [
       "en": "death",
       "de": "der Tod",
       "es": "la muerte",
-      "pl": "śmierć",
       "it": "la morte",
       "pt": "a morte",
       "ja": "死亡",
       "zh": "死亡",
-      "ru": "смерть"
+      "ru": "смерть",
+      "fr": "mort"
     },
     "examples": [],
     "meta": {
@@ -50113,12 +50112,12 @@ const WORDS_KO_B1 = [
       "en": "life",
       "de": "das Leben",
       "es": "la vida",
-      "pl": "życie",
       "it": "la vita",
       "pt": "a vida",
       "ja": "生命",
       "zh": "生命",
-      "ru": "жизнь"
+      "ru": "жизнь",
+      "fr": "vie"
     },
     "examples": [],
     "meta": {
@@ -50144,12 +50143,12 @@ const WORDS_KO_B1 = [
       "en": "cool",
       "de": "kühl",
       "es": "fresco",
-      "pl": "chłodny",
       "it": "fresco",
       "pt": "fresco",
       "ja": "涼しい",
       "zh": "凉爽",
-      "ru": "прохладный"
+      "ru": "прохладный",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {
@@ -50173,12 +50172,12 @@ const WORDS_KO_B1 = [
       "en": "Bible",
       "de": "die Bibel",
       "es": "la Biblia",
-      "pl": "Biblia",
       "it": "la Bibbia",
       "pt": "a Bíblia",
       "ja": "聖書",
       "zh": "圣经",
-      "ru": "Библия"
+      "ru": "Библия",
+      "fr": "Bible"
     },
     "examples": [],
     "meta": {
@@ -50204,12 +50203,12 @@ const WORDS_KO_B1 = [
       "en": "take time",
       "de": "benötigt werden",
       "es": "requerir tiempo",
-      "pl": "wymagać czasu",
       "it": "richiedere tempo",
       "pt": "levar tempo",
       "ja": "時間を要する",
       "zh": "耗费时间",
-      "ru": "требовать времени"
+      "ru": "требовать времени",
+      "fr": "prendre du temps"
     },
     "examples": [],
     "meta": {
@@ -50236,12 +50235,12 @@ const WORDS_KO_B1 = [
       "en": "digest",
       "de": "verdauen",
       "es": "digerir",
-      "pl": "trawić",
       "it": "digerire",
       "pt": "digerir",
       "ja": "消化する",
       "zh": "消化",
-      "ru": "переваривать"
+      "ru": "переваривать",
+      "fr": "digérer"
     },
     "examples": [],
     "meta": {
@@ -50268,12 +50267,12 @@ const WORDS_KO_B1 = [
       "en": "instantaneous",
       "de": "augenblicklich",
       "es": "instantáneo",
-      "pl": "chwilowy",
       "it": "istantaneo",
       "pt": "instantâneo",
       "ja": "瞬間的",
       "zh": "瞬间的",
-      "ru": "мгновенный"
+      "ru": "мгновенный",
+      "fr": "instantané"
     },
     "examples": [],
     "meta": {
@@ -50297,12 +50296,12 @@ const WORDS_KO_B1 = [
       "en": "get married",
       "de": "heiraten",
       "es": "casarse",
-      "pl": "wyjść za mąż",
       "it": "sposarsi",
       "pt": "casar-se",
       "ja": "嫁ぐ",
       "zh": "嫁人",
-      "ru": "выйти замуж"
+      "ru": "выйти замуж",
+      "fr": "se marier"
     },
     "examples": [],
     "meta": {
@@ -50329,12 +50328,12 @@ const WORDS_KO_B1 = [
       "en": "put on",
       "de": "aufsetzen",
       "es": "poner",
-      "pl": "nałożyć",
       "it": "mettere",
       "pt": "colocar",
       "ja": "かぶせる",
       "zh": "戴上",
-      "ru": "надеть"
+      "ru": "надеть",
+      "fr": "mettre"
     },
     "examples": [],
     "meta": {
@@ -50361,12 +50360,12 @@ const WORDS_KO_B1 = [
       "en": "night",
       "de": "die Nacht",
       "es": "la noche",
-      "pl": "noc",
       "it": "la notte",
       "pt": "a noite",
       "ja": "夜間",
       "zh": "夜晚",
-      "ru": "ночь"
+      "ru": "ночь",
+      "fr": "nuit"
     },
     "examples": [],
     "meta": {
@@ -50392,12 +50391,12 @@ const WORDS_KO_B1 = [
       "en": "cross",
       "de": "sich kreuzen",
       "es": "cruzarse",
-      "pl": "krzyżować się",
       "it": "incrociarsi",
       "pt": "cruzar-se",
       "ja": "交差する",
       "zh": "交叉",
-      "ru": "пересекаться"
+      "ru": "пересекаться",
+      "fr": "croiser"
     },
     "examples": [],
     "meta": {
@@ -50424,12 +50423,12 @@ const WORDS_KO_B1 = [
       "en": "thin",
       "de": "dünn",
       "es": "delgado",
-      "pl": "cienki",
       "it": "sottile",
       "pt": "fino",
       "ja": "薄い",
       "zh": "薄",
-      "ru": "тонкий"
+      "ru": "тонкий",
+      "fr": "mince"
     },
     "examples": [],
     "meta": {
@@ -50453,12 +50452,12 @@ const WORDS_KO_B1 = [
       "en": "entertainment",
       "de": "Unterhaltung",
       "es": "entretenimiento",
-      "pl": "rozrywka",
       "it": "intrattenimento",
       "pt": "entretenimento",
       "ja": "娯楽",
       "zh": "娱乐",
-      "ru": "развлечение"
+      "ru": "развлечение",
+      "fr": "divertissement"
     },
     "examples": [],
     "meta": {
@@ -50484,12 +50483,12 @@ const WORDS_KO_B1 = [
       "en": "elegant",
       "de": "elegant",
       "es": "elegante",
-      "pl": "elegancki",
       "it": "elegante",
       "pt": "elegante",
       "ja": "優雅だ",
       "zh": "优雅",
-      "ru": "элегантный"
+      "ru": "элегантный",
+      "fr": "élégant"
     },
     "examples": [],
     "meta": {
@@ -50513,12 +50512,12 @@ const WORDS_KO_B1 = [
       "en": "dew",
       "de": "der Tau",
       "es": "el rocío",
-      "pl": "rosa",
       "it": "la rugiada",
       "pt": "o orvalho",
       "ja": "露",
       "zh": "露水",
-      "ru": "роса"
+      "ru": "роса",
+      "fr": "rosée"
     },
     "examples": [],
     "meta": {
@@ -50544,12 +50543,12 @@ const WORDS_KO_B1 = [
       "en": "human relations",
       "de": "menschliche Beziehungen",
       "es": "relaciones humanas",
-      "pl": "stosunki międzyludzkie",
       "it": "relazioni umane",
       "pt": "relações humanas",
       "ja": "人間関係",
       "zh": "人际关系",
-      "ru": "человеческие отношения"
+      "ru": "человеческие отношения",
+      "fr": "relations humaines"
     },
     "examples": [],
     "meta": {
@@ -50575,12 +50574,12 @@ const WORDS_KO_B1 = [
       "en": "long term",
       "de": "langfristig",
       "es": "a largo plazo",
-      "pl": "długoterminowy",
       "it": "a lungo termine",
       "pt": "longo prazo",
       "ja": "長期間",
       "zh": "长期",
-      "ru": "долгосрочный"
+      "ru": "долгосрочный",
+      "fr": "à long terme"
     },
     "examples": [],
     "meta": {
@@ -50606,12 +50605,12 @@ const WORDS_KO_B1 = [
       "en": "wire",
       "de": "der Draht",
       "es": "el cable",
-      "pl": "przewód",
       "it": "il filo",
       "pt": "o fio",
       "ja": "電線",
       "zh": "电线",
-      "ru": "провод"
+      "ru": "провод",
+      "fr": "fil"
     },
     "examples": [],
     "meta": {
@@ -50637,12 +50636,12 @@ const WORDS_KO_B1 = [
       "en": "stop",
       "de": "Stopp",
       "es": "parada",
-      "pl": "zatrzymanie",
       "it": "fermata",
       "pt": "parada",
       "ja": "停止",
       "zh": "停止",
-      "ru": "остановка"
+      "ru": "остановка",
+      "fr": "arrêt"
     },
     "examples": [],
     "meta": {
@@ -50668,12 +50667,12 @@ const WORDS_KO_B1 = [
       "en": "propose",
       "de": "vorschlagen",
       "es": "proponer",
-      "pl": "proponować",
       "it": "proporre",
       "pt": "propor",
       "ja": "提案する",
       "zh": "提议",
-      "ru": "предлагать"
+      "ru": "предлагать",
+      "fr": "proposer"
     },
     "examples": [],
     "meta": {
@@ -50700,12 +50699,12 @@ const WORDS_KO_B1 = [
       "en": "lighting",
       "de": "Beleuchtung",
       "es": "iluminación",
-      "pl": "oświetlenie",
       "it": "illuminazione",
       "pt": "iluminação",
       "ja": "照明",
       "zh": "照明",
-      "ru": "освещение"
+      "ru": "освещение",
+      "fr": "éclairage"
     },
     "examples": [],
     "meta": {
@@ -50731,12 +50730,12 @@ const WORDS_KO_B1 = [
       "en": "harmonize",
       "de": "harmonisieren",
       "es": "armonizar",
-      "pl": "harmonizować",
       "it": "armonizzarsi",
       "pt": "harmonizar-se",
       "ja": "調和する",
       "zh": "协调",
-      "ru": "гармонировать"
+      "ru": "гармонировать",
+      "fr": "harmoniser"
     },
     "examples": [],
     "meta": {
@@ -50763,12 +50762,12 @@ const WORDS_KO_B1 = [
       "en": "plot",
       "de": "die Handlung",
       "es": "la trama",
-      "pl": "fabuła",
       "it": "la trama",
       "pt": "o enredo",
       "ja": "あらすじ",
       "zh": "情节",
-      "ru": "сюжет"
+      "ru": "сюжет",
+      "fr": "intrigue"
     },
     "examples": [],
     "meta": {
@@ -50794,12 +50793,12 @@ const WORDS_KO_B1 = [
       "en": "interruption",
       "de": "Unterbrechung",
       "es": "interrupción",
-      "pl": "przerwa",
       "it": "interruzione",
       "pt": "interrupção",
       "ja": "中断",
       "zh": "中断",
-      "ru": "прерывание"
+      "ru": "прерывание",
+      "fr": "interruption"
     },
     "examples": [],
     "meta": {
@@ -50825,12 +50824,12 @@ const WORDS_KO_B1 = [
       "en": "lane",
       "de": "die Fahrspur",
       "es": "el carril",
-      "pl": "pas ruchu",
       "it": "la corsia",
       "pt": "a faixa",
       "ja": "車線",
       "zh": "车道",
-      "ru": "полоса"
+      "ru": "полоса",
+      "fr": "voie"
     },
     "examples": [],
     "meta": {
@@ -50856,12 +50855,12 @@ const WORDS_KO_B1 = [
       "en": "mistake",
       "de": "sich irren",
       "es": "equivocarse",
-      "pl": "mylić się",
       "it": "sbagliare",
       "pt": "enganar-se",
       "ja": "勘違いする",
       "zh": "错觉",
-      "ru": "ошибаться"
+      "ru": "ошибаться",
+      "fr": "erreur"
     },
     "examples": [],
     "meta": {
@@ -50888,12 +50887,12 @@ const WORDS_KO_B1 = [
       "en": "portrait",
       "de": "das Porträt",
       "es": "el retrato",
-      "pl": "portret",
       "it": "il ritratto",
       "pt": "o retrato",
       "ja": "肖像画",
       "zh": "肖像画",
-      "ru": "портрет"
+      "ru": "портрет",
+      "fr": "portrait"
     },
     "examples": [],
     "meta": {
@@ -50919,12 +50918,12 @@ const WORDS_KO_B1 = [
       "en": "coup",
       "de": "der Putsch",
       "es": "el golpe",
-      "pl": "zamach stanu",
       "it": "il colpo di stato",
       "pt": "o golpe",
       "ja": "クーデター",
       "zh": "政变",
-      "ru": "переворот"
+      "ru": "переворот",
+      "fr": "coup d'État"
     },
     "examples": [],
     "meta": {
@@ -50950,12 +50949,12 @@ const WORDS_KO_B1 = [
       "en": "specificity",
       "de": "Spezifität",
       "es": "especificidad",
-      "pl": "specyfika",
       "it": "specificità",
       "pt": "especificidade",
       "ja": "特殊性",
       "zh": "特殊性",
-      "ru": "специфика"
+      "ru": "специфика",
+      "fr": "spécificité"
     },
     "examples": [],
     "meta": {
@@ -50981,12 +50980,12 @@ const WORDS_KO_B1 = [
       "en": "aircraft",
       "de": "das Flugzeug",
       "es": "aeronave",
-      "pl": "samolot",
       "it": "aeromobile",
       "pt": "aeronave",
       "ja": "航空機",
       "zh": "飞机",
-      "ru": "летательный аппарат"
+      "ru": "летательный аппарат",
+      "fr": "avion"
     },
     "examples": [],
     "meta": {
@@ -51012,12 +51011,12 @@ const WORDS_KO_B1 = [
       "en": "interesting",
       "de": "interessant",
       "es": "interesante",
-      "pl": "interesujący",
       "it": "interessante",
       "pt": "interessante",
       "ja": "興味深い",
       "zh": "有趣的",
-      "ru": "интересный"
+      "ru": "интересный",
+      "fr": "intéressant"
     },
     "examples": [],
     "meta": {
@@ -51041,12 +51040,12 @@ const WORDS_KO_B1 = [
       "en": "resolution",
       "de": "die Entschlossenheit",
       "es": "la resolución",
-      "pl": "determinacja",
       "it": "la determinazione",
       "pt": "a resolução",
       "ja": "覚悟",
       "zh": "决心",
-      "ru": "решимость"
+      "ru": "решимость",
+      "fr": "résolution"
     },
     "examples": [],
     "meta": {
@@ -51072,12 +51071,12 @@ const WORDS_KO_B1 = [
       "en": "be opened",
       "de": "geöffnet werden",
       "es": "ser abierto",
-      "pl": "być otwartym",
       "it": "essere aperto",
       "pt": "ser aberto",
       "ja": "開かれる",
       "zh": "开放",
-      "ru": "быть открытым"
+      "ru": "быть открытым",
+      "fr": "être ouvert"
     },
     "examples": [],
     "meta": {
@@ -51104,12 +51103,12 @@ const WORDS_KO_B1 = [
       "en": "mustard",
       "de": "der Senf",
       "es": "la mostaza",
-      "pl": "musztarda",
       "it": "la senape",
       "pt": "a mostarda",
       "ja": "マスタード",
       "zh": "芥末",
-      "ru": "горчица"
+      "ru": "горчица",
+      "fr": "moutarde"
     },
     "examples": [],
     "meta": {
@@ -51135,12 +51134,12 @@ const WORDS_KO_B1 = [
       "en": "warn",
       "de": "warnen",
       "es": "advertir",
-      "pl": "ostrzegać",
       "it": "avvertire",
       "pt": "avisar",
       "ja": "警告する",
       "zh": "警告",
-      "ru": "предупреждать"
+      "ru": "предупреждать",
+      "fr": "avertir"
     },
     "examples": [],
     "meta": {
@@ -51167,12 +51166,12 @@ const WORDS_KO_B1 = [
       "en": "concern",
       "de": "das Anliegen",
       "es": "el asunto",
-      "pl": "sprawa",
       "it": "la preoccupazione",
       "pt": "a preocupação",
       "ja": "関心事",
       "zh": "关注点",
-      "ru": "забота"
+      "ru": "забота",
+      "fr": "préoccupation"
     },
     "examples": [],
     "meta": {
@@ -51199,12 +51198,12 @@ const WORDS_KO_B1 = [
       "en": "be distinguished",
       "de": "unterschieden werden",
       "es": "ser distinguido",
-      "pl": "być rozróżnionym",
       "it": "essere distinto",
       "pt": "ser distinguido",
       "ja": "区別される",
       "zh": "区分",
-      "ru": "быть отличимым"
+      "ru": "быть отличимым",
+      "fr": "être distingué"
     },
     "examples": [],
     "meta": {
@@ -51231,12 +51230,12 @@ const WORDS_KO_B1 = [
       "en": "national history",
       "de": "die Landesgeschichte",
       "es": "la historia nacional",
-      "pl": "historia narodowa",
       "it": "la storia nazionale",
       "pt": "a história nacional",
       "ja": "国史",
       "zh": "国史",
-      "ru": "история страны"
+      "ru": "история страны",
+      "fr": "histoire nationale"
     },
     "examples": [],
     "meta": {
@@ -51262,12 +51261,12 @@ const WORDS_KO_B1 = [
       "en": "harden",
       "de": "härten",
       "es": "endurecer",
-      "pl": "utwardzić",
       "it": "indurire",
       "pt": "endurecer",
       "ja": "固める",
       "zh": "使变硬",
-      "ru": "укреплять"
+      "ru": "укреплять",
+      "fr": "durcir"
     },
     "examples": [],
     "meta": {
@@ -51294,12 +51293,12 @@ const WORDS_KO_B1 = [
       "en": "meanwhile",
       "de": "in der Zwischenzeit",
       "es": "mientras tanto",
-      "pl": "w międzyczasie",
       "it": "nel frattempo",
       "pt": "enquanto isso",
       "ja": "その間",
       "zh": "期间",
-      "ru": "тем временем"
+      "ru": "тем временем",
+      "fr": "pendant ce temps"
     },
     "examples": [],
     "meta": {
@@ -51325,12 +51324,12 @@ const WORDS_KO_B1 = [
       "en": "plausible",
       "de": "plausibel",
       "es": "plausible",
-      "pl": "wiarygodny",
       "it": "plausibile",
       "pt": "plausível",
       "ja": "もっともらしい",
       "zh": "貌似有理的",
-      "ru": "правдоподобный"
+      "ru": "правдоподобный",
+      "fr": "plausible"
     },
     "examples": [],
     "meta": {
@@ -51354,12 +51353,12 @@ const WORDS_KO_B1 = [
       "en": "playwright",
       "de": "der Dramatiker",
       "es": "el dramaturgo",
-      "pl": "dramaturg",
       "it": "il drammaturgo",
       "pt": "o dramaturgo",
       "ja": "劇作家",
       "zh": "剧作家",
-      "ru": "драматург"
+      "ru": "драматург",
+      "fr": "dramaturge"
     },
     "examples": [],
     "meta": {
@@ -51385,12 +51384,12 @@ const WORDS_KO_B1 = [
       "en": "lean",
       "de": "sich neigen",
       "es": "inclinarse",
-      "pl": "pochylać się",
       "it": "inclinarsi",
       "pt": "inclinar-se",
       "ja": "傾く",
       "zh": "倾斜",
-      "ru": "наклоняться"
+      "ru": "наклоняться",
+      "fr": "pencher"
     },
     "examples": [],
     "meta": {
@@ -51417,12 +51416,12 @@ const WORDS_KO_B1 = [
       "en": "miracle",
       "de": "das Wunder",
       "es": "el milagro",
-      "pl": "cud",
       "it": "il miracolo",
       "pt": "o milagre",
       "ja": "奇跡",
       "zh": "奇迹",
-      "ru": "чудо"
+      "ru": "чудо",
+      "fr": "miracle"
     },
     "examples": [],
     "meta": {
@@ -51448,12 +51447,12 @@ const WORDS_KO_B1 = [
       "en": "be attracted",
       "de": "angezogen werden",
       "es": "ser atraído",
-      "pl": "być przyciąganym",
       "it": "essere attratto",
       "pt": "ser atraído",
       "ja": "惹かれる",
       "zh": "被吸引",
-      "ru": "быть привлечённым"
+      "ru": "быть привлечённым",
+      "fr": "être attiré"
     },
     "examples": [],
     "meta": {
@@ -51480,12 +51479,12 @@ const WORDS_KO_B1 = [
       "en": "send out",
       "de": "hinausschicken",
       "es": "enviar afuera",
-      "pl": "wysłać na zewnątrz",
       "it": "mandare fuori",
       "pt": "enviar para fora",
       "ja": "送り出す",
       "zh": "送出",
-      "ru": "выпускать"
+      "ru": "выпускать",
+      "fr": "envoyer"
     },
     "examples": [],
     "meta": {
@@ -51512,12 +51511,12 @@ const WORDS_KO_B1 = [
       "en": "wall",
       "de": "die Mauer",
       "es": "el muro",
-      "pl": "ściana",
       "it": "il muro",
       "pt": "o muro",
       "ja": "塀",
       "zh": "墙",
-      "ru": "стена"
+      "ru": "стена",
+      "fr": "mur"
     },
     "examples": [],
     "meta": {
@@ -51544,12 +51543,12 @@ const WORDS_KO_B1 = [
       "en": "east and west",
       "de": "Osten und Westen",
       "es": "este y oeste",
-      "pl": "wschód i zachód",
       "it": "est e ovest",
       "pt": "leste e oeste",
       "ja": "東西",
       "zh": "东西",
-      "ru": "восток и запад"
+      "ru": "восток и запад",
+      "fr": "est et ouest"
     },
     "examples": [],
     "meta": {
@@ -51575,12 +51574,12 @@ const WORDS_KO_B1 = [
       "en": "bring in",
       "de": "hereinbringen",
       "es": "traer adentro",
-      "pl": "wpuścić do środka",
       "it": "portare dentro",
       "pt": "trazer para dentro",
       "ja": "入れ込む",
       "zh": "搬进",
-      "ru": "внести"
+      "ru": "внести",
+      "fr": "faire entrer"
     },
     "examples": [],
     "meta": {
@@ -51607,12 +51606,12 @@ const WORDS_KO_B1 = [
       "en": "warm",
       "de": "warm",
       "es": "cálido",
-      "pl": "ciepły",
       "it": "caldo",
       "pt": "morno",
       "ja": "暖かい",
       "zh": "温暖的",
-      "ru": "тёплый"
+      "ru": "тёплый",
+      "fr": "chaud"
     },
     "examples": [],
     "meta": {
@@ -51636,12 +51635,12 @@ const WORDS_KO_B1 = [
       "en": "way of speaking",
       "de": "die Sprechweise",
       "es": "la forma de hablar",
-      "pl": "sposób mówienia",
       "it": "il modo di parlare",
       "pt": "o jeito de falar",
       "ja": "話し方",
       "zh": "说话方式",
-      "ru": "манера речи"
+      "ru": "манера речи",
+      "fr": "façon de parler"
     },
     "examples": [],
     "meta": {
@@ -51667,12 +51666,12 @@ const WORDS_KO_B1 = [
       "en": "command",
       "de": "der Befehl",
       "es": "el comando",
-      "pl": "polecenie",
       "it": "il comando",
       "pt": "o comando",
       "ja": "コマンド",
       "zh": "命令",
-      "ru": "команда"
+      "ru": "команда",
+      "fr": "ordre"
     },
     "examples": [],
     "meta": {
@@ -51698,12 +51697,12 @@ const WORDS_KO_B1 = [
       "en": "slip",
       "de": "rutschen",
       "es": "resbalar",
-      "pl": "ślizgać się",
       "it": "scivolare",
       "pt": "escorregar",
       "ja": "滑る",
       "zh": "滑倒",
-      "ru": "скользить"
+      "ru": "скользить",
+      "fr": "glisser"
     },
     "examples": [],
     "meta": {
@@ -51730,12 +51729,12 @@ const WORDS_KO_B1 = [
       "en": "transformation",
       "de": "die Verwandlung",
       "es": "la transformación",
-      "pl": "transformacja",
       "it": "la trasformazione",
       "pt": "a transformação",
       "ja": "変身",
       "zh": "变形",
-      "ru": "превращение"
+      "ru": "превращение",
+      "fr": "transformation"
     },
     "examples": [],
     "meta": {
@@ -51762,12 +51761,12 @@ const WORDS_KO_B1 = [
       "en": "father",
       "de": "der Vater",
       "es": "el padre",
-      "pl": "ojciec",
       "it": "il padre",
       "pt": "o pai",
       "ja": "父",
       "zh": "父亲",
-      "ru": "отец"
+      "ru": "отец",
+      "fr": "père"
     },
     "examples": [],
     "meta": {
@@ -51793,12 +51792,12 @@ const WORDS_KO_B1 = [
       "en": "be caught",
       "de": "gefasst werden",
       "es": "ser atrapado",
-      "pl": "zostać złapanym",
       "it": "essere catturato",
       "pt": "ser pego",
       "ja": "捕まる",
       "zh": "被抓住",
-      "ru": "быть пойманным"
+      "ru": "быть пойманным",
+      "fr": "être pris"
     },
     "examples": [],
     "meta": {
@@ -51825,12 +51824,12 @@ const WORDS_KO_B1 = [
       "en": "brand",
       "de": "die Marke",
       "es": "la marca",
-      "pl": "marka",
       "it": "la marca",
       "pt": "a marca",
       "ja": "ブランド",
       "zh": "品牌",
-      "ru": "бренд"
+      "ru": "бренд",
+      "fr": "marque"
     },
     "examples": [],
     "meta": {
@@ -51856,12 +51855,12 @@ const WORDS_KO_B1 = [
       "en": "trivial",
       "de": "trivial",
       "es": "trivial",
-      "pl": "trywialny",
       "it": "banale",
       "pt": "trivial",
       "ja": "些細な",
       "zh": "琐碎的",
-      "ru": "тривиальный"
+      "ru": "тривиальный",
+      "fr": "trivial"
     },
     "examples": [],
     "meta": {
@@ -51885,12 +51884,12 @@ const WORDS_KO_B1 = [
       "en": "refreshing",
       "de": "erfrischend",
       "es": "refrescante",
-      "pl": "orzeźwiający",
       "it": "rinfrescante",
       "pt": "refrescante",
       "ja": "爽快な",
       "zh": "清爽的",
-      "ru": "освежающий"
+      "ru": "освежающий",
+      "fr": "rafraîchissant"
     },
     "examples": [],
     "meta": {
@@ -51915,12 +51914,12 @@ const WORDS_KO_B1 = [
       "en": "touch",
       "de": "die Berührung",
       "es": "el toque",
-      "pl": "dotyk",
       "it": "il tocco",
       "pt": "o toque",
       "ja": "手",
       "zh": "手",
-      "ru": "прикосновение"
+      "ru": "прикосновение",
+      "fr": "toucher"
     },
     "examples": [],
     "meta": {
@@ -51946,12 +51945,12 @@ const WORDS_KO_B1 = [
       "en": "rank",
       "de": "der Rang",
       "es": "el rango",
-      "pl": "ranking",
       "it": "la classifica",
       "pt": "a classificação",
       "ja": "順位",
       "zh": "排名",
-      "ru": "ранг"
+      "ru": "ранг",
+      "fr": "rang"
     },
     "examples": [],
     "meta": {
@@ -51977,12 +51976,12 @@ const WORDS_KO_B1 = [
       "en": "pair",
       "de": "das Paar",
       "es": "el par",
-      "pl": "para",
       "it": "la coppia",
       "pt": "o par",
       "ja": "ペア",
       "zh": "双",
-      "ru": "пара"
+      "ru": "пара",
+      "fr": "paire"
     },
     "examples": [],
     "meta": {
@@ -52008,12 +52007,12 @@ const WORDS_KO_B1 = [
       "en": "chilly",
       "de": "kühl",
       "es": "frío",
-      "pl": "zimny",
       "it": "freddo",
       "pt": "frio",
       "ja": "寒い",
       "zh": "寒冷",
-      "ru": "холодный"
+      "ru": "холодный",
+      "fr": "frais"
     },
     "examples": [],
     "meta": {
@@ -52037,12 +52036,12 @@ const WORDS_KO_B1 = [
       "en": "implication",
       "de": "die Andeutung",
       "es": "la implicación",
-      "pl": "sugestia",
       "it": "l'implicazione",
       "pt": "a implicação",
       "ja": "暗示",
       "zh": "暗示",
-      "ru": "намек"
+      "ru": "намек",
+      "fr": "implication"
     },
     "examples": [],
     "meta": {
@@ -52068,12 +52067,12 @@ const WORDS_KO_B1 = [
       "en": "future",
       "de": "die Zukunft",
       "es": "el futuro",
-      "pl": "przyszłość",
       "it": "il futuro",
       "pt": "o futuro",
       "ja": "未来",
       "zh": "未来",
-      "ru": "будущее"
+      "ru": "будущее",
+      "fr": "avenir"
     },
     "examples": [],
     "meta": {
@@ -52100,12 +52099,12 @@ const WORDS_KO_B1 = [
       "en": "historically",
       "de": "historisch",
       "es": "históricamente",
-      "pl": "historycznie",
       "it": "storicamente",
       "pt": "historicamente",
       "ja": "歴史的に",
       "zh": "历史上",
-      "ru": "исторически"
+      "ru": "исторически",
+      "fr": "historiquement"
     },
     "examples": [],
     "meta": {
@@ -52131,12 +52130,12 @@ const WORDS_KO_B1 = [
       "en": "performance",
       "de": "die Aufführung",
       "es": "la interpretación",
-      "pl": "wykonanie",
       "it": "l'esecuzione",
       "pt": "a performance",
       "ja": "演奏",
       "zh": "演奏",
-      "ru": "исполнение"
+      "ru": "исполнение",
+      "fr": "performance"
     },
     "examples": [],
     "meta": {
@@ -52162,12 +52161,12 @@ const WORDS_KO_B1 = [
       "en": "athletics",
       "de": "die Leichtathletik",
       "es": "el atletismo",
-      "pl": "lekkoatletyka",
       "it": "l'atletica",
       "pt": "atletismo",
       "ja": "陸上競技",
       "zh": "田径",
-      "ru": "легкая атлетика"
+      "ru": "легкая атлетика",
+      "fr": "athlétisme"
     },
     "examples": [],
     "meta": {
@@ -52193,12 +52192,12 @@ const WORDS_KO_B1 = [
       "en": "drinking",
       "de": "das Trinken",
       "es": "la bebida",
-      "pl": "picie",
       "it": "il bere",
       "pt": "a bebida",
       "ja": "飲酒",
       "zh": "饮酒",
-      "ru": "питье"
+      "ru": "питье",
+      "fr": "boire"
     },
     "examples": [],
     "meta": {
@@ -52224,12 +52223,12 @@ const WORDS_KO_B1 = [
       "en": "farewell",
       "de": "der Abschied",
       "es": "la despedida",
-      "pl": "pożegnanie",
       "it": "l'addio",
       "pt": "a despedida",
       "ja": "別れ",
       "zh": "离别",
-      "ru": "прощание"
+      "ru": "прощание",
+      "fr": "adieu"
     },
     "examples": [],
     "meta": {
@@ -52255,12 +52254,12 @@ const WORDS_KO_B1 = [
       "en": "talent",
       "de": "das Talent",
       "es": "el talento",
-      "pl": "talent",
       "it": "il talento",
       "pt": "o talento",
       "ja": "人材",
       "zh": "人才",
-      "ru": "талант"
+      "ru": "талант",
+      "fr": "talent"
     },
     "examples": [],
     "meta": {
@@ -52286,12 +52285,12 @@ const WORDS_KO_B1 = [
       "en": "race",
       "de": "die Rasse",
       "es": "la raza",
-      "pl": "rasa",
       "it": "la razza",
       "pt": "a raça",
       "ja": "人種",
       "zh": "人种",
-      "ru": "раса"
+      "ru": "раса",
+      "fr": "race"
     },
     "examples": [],
     "meta": {
@@ -52318,12 +52317,12 @@ const WORDS_KO_B1 = [
       "en": "temporary",
       "de": "vorübergehend",
       "es": "temporal",
-      "pl": "tymczasowy",
       "it": "temporaneo",
       "pt": "temporário",
       "ja": "一時的",
       "zh": "暂时的",
-      "ru": "временный"
+      "ru": "временный",
+      "fr": "temporaire"
     },
     "examples": [],
     "meta": {
@@ -52347,12 +52346,12 @@ const WORDS_KO_B1 = [
       "en": "fun",
       "de": "lustig",
       "es": "divertido",
-      "pl": "zabawny",
       "it": "divertente",
       "pt": "divertido",
       "ja": "面白い",
       "zh": "有趣",
-      "ru": "веселый"
+      "ru": "веселый",
+      "fr": "amusant"
     },
     "examples": [],
     "meta": {
@@ -52376,12 +52375,12 @@ const WORDS_KO_B1 = [
       "en": "professional",
       "de": "professionell",
       "es": "profesional",
-      "pl": "profesjonalny",
       "it": "professionale",
       "pt": "profissional",
       "ja": "専門的",
       "zh": "专业的",
-      "ru": "профессиональный"
+      "ru": "профессиональный",
+      "fr": "professionnel"
     },
     "examples": [],
     "meta": {
@@ -52405,12 +52404,12 @@ const WORDS_KO_B1 = [
       "en": "youth",
       "de": "die Jugend",
       "es": "la juventud",
-      "pl": "młodość",
       "it": "la gioventù",
       "pt": "a juventude",
       "ja": "若さ",
       "zh": "年轻",
-      "ru": "молодость"
+      "ru": "молодость",
+      "fr": "jeunesse"
     },
     "examples": [],
     "meta": {
@@ -52436,12 +52435,12 @@ const WORDS_KO_B1 = [
       "en": "dignified",
       "de": "würdevoll",
       "es": "digno",
-      "pl": "dostojny",
       "it": "dignitoso",
       "pt": "digno",
       "ja": "上品だ",
       "zh": "端庄",
-      "ru": "достойный"
+      "ru": "достойный",
+      "fr": "digne"
     },
     "examples": [],
     "meta": {
@@ -52465,12 +52464,12 @@ const WORDS_KO_B1 = [
       "en": "shellfish",
       "de": "die Muschel",
       "es": "el marisco",
-      "pl": "muszla",
       "it": "il mollusco",
       "pt": "o marisco",
       "ja": "貝",
       "zh": "贝类",
-      "ru": "моллюск"
+      "ru": "моллюск",
+      "fr": "coquillage"
     },
     "examples": [],
     "meta": {
@@ -52496,12 +52495,12 @@ const WORDS_KO_B1 = [
       "en": "broadcast",
       "de": "die Übertragung",
       "es": "la transmisión",
-      "pl": "transmisja",
       "it": "la trasmissione",
       "pt": "a transmissão",
       "ja": "中継放送",
       "zh": "转播",
-      "ru": "трансляция"
+      "ru": "трансляция",
+      "fr": "diffusion"
     },
     "examples": [],
     "meta": {
@@ -52527,12 +52526,12 @@ const WORDS_KO_B1 = [
       "en": "addiction",
       "de": "die Sucht",
       "es": "la adicción",
-      "pl": "uzależnienie",
       "it": "la dipendenza",
       "pt": "o vício",
       "ja": "中毒",
       "zh": "中毒",
-      "ru": "зависимость"
+      "ru": "зависимость",
+      "fr": "dépendance"
     },
     "examples": [],
     "meta": {
@@ -52558,12 +52557,12 @@ const WORDS_KO_B1 = [
       "en": "payment",
       "de": "die Zahlung",
       "es": "el pago",
-      "pl": "płatność",
       "it": "il pagamento",
       "pt": "o pagamento",
       "ja": "支払い",
       "zh": "支付",
-      "ru": "платеж"
+      "ru": "платеж",
+      "fr": "paiement"
     },
     "examples": [],
     "meta": {
@@ -52589,12 +52588,12 @@ const WORDS_KO_B1 = [
       "en": "truthful",
       "de": "wahrhaftig",
       "es": "sincero",
-      "pl": "prawdomówny",
       "it": "sincero",
       "pt": "sincero",
       "ja": "真実だ",
       "zh": "真诚",
-      "ru": "правдивый"
+      "ru": "правдивый",
+      "fr": "véridique"
     },
     "examples": [],
     "meta": {
@@ -52618,12 +52617,12 @@ const WORDS_KO_B1 = [
       "en": "window",
       "de": "das Fenster",
       "es": "la ventana",
-      "pl": "okno",
       "it": "il finestrino",
       "pt": "a janela",
       "ja": "窓",
       "zh": "车窗",
-      "ru": "окно"
+      "ru": "окно",
+      "fr": "fenêtre"
     },
     "examples": [],
     "meta": {
@@ -52649,12 +52648,12 @@ const WORDS_KO_B1 = [
       "en": "invite",
       "de": "einladen",
       "es": "invitar",
-      "pl": "zaprosić",
       "it": "invitare",
       "pt": "convidar",
       "ja": "招待する",
       "zh": "邀请",
-      "ru": "приглашать"
+      "ru": "приглашать",
+      "fr": "inviter"
     },
     "examples": [],
     "meta": {
@@ -52681,12 +52680,12 @@ const WORDS_KO_B1 = [
       "en": "starting point",
       "de": "der Ausgangspunkt",
       "es": "el punto de partida",
-      "pl": "punkt wyjścia",
       "it": "il punto di partenza",
       "pt": "o ponto de partida",
       "ja": "出発点",
       "zh": "出发点",
-      "ru": "стартовая точка"
+      "ru": "стартовая точка",
+      "fr": "point de départ"
     },
     "examples": [],
     "meta": {
@@ -52712,12 +52711,12 @@ const WORDS_KO_B1 = [
       "en": "publication",
       "de": "die Veröffentlichung",
       "es": "la publicación",
-      "pl": "publikacja",
       "it": "la pubblicazione",
       "pt": "a publicação",
       "ja": "出版",
       "zh": "出版",
-      "ru": "публикация"
+      "ru": "публикация",
+      "fr": "publication"
     },
     "examples": [],
     "meta": {
@@ -52743,12 +52742,12 @@ const WORDS_KO_B1 = [
       "en": "appear",
       "de": "erscheinen",
       "es": "aparecer",
-      "pl": "pojawić się",
       "it": "apparire",
       "pt": "aparecer",
       "ja": "出現する",
       "zh": "出现",
-      "ru": "появляться"
+      "ru": "появляться",
+      "fr": "apparaître"
     },
     "examples": [],
     "meta": {
@@ -52775,12 +52774,12 @@ const WORDS_KO_B1 = [
       "en": "club",
       "de": "der Club",
       "es": "el club",
-      "pl": "klub",
       "it": "il club",
       "pt": "o clube",
       "ja": "クラブ",
       "zh": "俱乐部",
-      "ru": "клуб"
+      "ru": "клуб",
+      "fr": "club"
     },
     "examples": [],
     "meta": {
@@ -52806,12 +52805,12 @@ const WORDS_KO_B1 = [
       "en": "kiss",
       "de": "der Kuss",
       "es": "el beso",
-      "pl": "pocałunek",
       "it": "il bacio",
       "pt": "o beijo",
       "ja": "キス",
       "zh": "吻",
-      "ru": "поцелуй"
+      "ru": "поцелуй",
+      "fr": "baiser"
     },
     "examples": [],
     "meta": {
@@ -52837,12 +52836,12 @@ const WORDS_KO_B1 = [
       "en": "escape",
       "de": "entkommen",
       "es": "escapar",
-      "pl": "uciekać",
       "it": "scappare",
       "pt": "escapar",
       "ja": "脱出する",
       "zh": "逃脱",
-      "ru": "сбегать"
+      "ru": "сбегать",
+      "fr": "s'échapper"
     },
     "examples": [],
     "meta": {
@@ -52869,12 +52868,12 @@ const WORDS_KO_B1 = [
       "en": "judge",
       "de": "der Richter",
       "es": "el juez",
-      "pl": "sędzia",
       "it": "il giudice",
       "pt": "o juiz",
       "ja": "裁判官",
       "zh": "法官",
-      "ru": "судья"
+      "ru": "судья",
+      "fr": "juge"
     },
     "examples": [],
     "meta": {
@@ -52900,12 +52899,12 @@ const WORDS_KO_B1 = [
       "en": "permission",
       "de": "die Erlaubnis",
       "es": "el permiso",
-      "pl": "pozwolenie",
       "it": "il permesso",
       "pt": "a permissão",
       "ja": "許可",
       "zh": "许可",
-      "ru": "разрешение"
+      "ru": "разрешение",
+      "fr": "permission"
     },
     "examples": [],
     "meta": {
@@ -52931,12 +52930,12 @@ const WORDS_KO_B1 = [
       "en": "conviction",
       "de": "die Überzeugung",
       "es": "la convicción",
-      "pl": "przekonanie",
       "it": "la convinzione",
       "pt": "a convicção",
       "ja": "確信",
       "zh": "确信",
-      "ru": "убеждение"
+      "ru": "убеждение",
+      "fr": "conviction"
     },
     "examples": [],
     "meta": {
@@ -52962,12 +52961,12 @@ const WORDS_KO_B1 = [
       "en": "be constructed",
       "de": "erbaut werden",
       "es": "ser construido",
-      "pl": "zostać zbudowanym",
       "it": "essere costruito",
       "pt": "ser construído",
       "ja": "建設される",
       "zh": "被建造",
-      "ru": "быть построенным"
+      "ru": "быть построенным",
+      "fr": "être construit"
     },
     "examples": [],
     "meta": {
@@ -52994,12 +52993,12 @@ const WORDS_KO_B1 = [
       "en": "older generation",
       "de": "die ältere Generation",
       "es": "la generación mayor",
-      "pl": "starsze pokolenie",
       "it": "la generazione precedente",
       "pt": "a geração mais velha",
       "ja": "既成世代",
       "zh": "既成一代",
-      "ru": "старшее поколение"
+      "ru": "старшее поколение",
+      "fr": "génération aînée"
     },
     "examples": [],
     "meta": {
@@ -53025,12 +53024,12 @@ const WORDS_KO_B1 = [
       "en": "describe",
       "de": "beschreiben",
       "es": "describir",
-      "pl": "opisać",
       "it": "descrivere",
       "pt": "descrever",
       "ja": "記述する",
       "zh": "记述",
-      "ru": "описывать"
+      "ru": "описывать",
+      "fr": "décrire"
     },
     "examples": [],
     "meta": {
@@ -53057,12 +53056,12 @@ const WORDS_KO_B1 = [
       "en": "magpie",
       "de": "die Elster",
       "es": "la urraca",
-      "pl": "sroka",
       "it": "la gazza",
       "pt": "a pega",
       "ja": "カササギ",
       "zh": "喜鹊",
-      "ru": "сорока"
+      "ru": "сорока",
+      "fr": "pie"
     },
     "examples": [],
     "meta": {
@@ -53088,12 +53087,12 @@ const WORDS_KO_B1 = [
       "en": "north and south",
       "de": "Nord und Süd",
       "es": "norte y sur",
-      "pl": "północ i południe",
       "it": "nord e sud",
       "pt": "norte e sul",
       "ja": "南北",
       "zh": "南北",
-      "ru": "север и юг"
+      "ru": "север и юг",
+      "fr": "nord et sud"
     },
     "examples": [],
     "meta": {
@@ -53119,12 +53118,12 @@ const WORDS_KO_B1 = [
       "en": "understand",
       "de": "akzeptieren",
       "es": "aceptar",
-      "pl": "zaakceptować",
       "it": "accettare",
       "pt": "aceitar",
       "ja": "納得する",
       "zh": "领会",
-      "ru": "принять"
+      "ru": "принять",
+      "fr": "comprendre"
     },
     "examples": [],
     "meta": {
@@ -53151,12 +53150,12 @@ const WORDS_KO_B1 = [
       "en": "platform",
       "de": "die Plattform",
       "es": "la plataforma",
-      "pl": "platforma",
       "it": "la piattaforma",
       "pt": "a plataforma",
       "ja": "壇",
       "zh": "坛",
-      "ru": "платформа"
+      "ru": "платформа",
+      "fr": "plateforme"
     },
     "examples": [],
     "meta": {
@@ -53182,12 +53181,12 @@ const WORDS_KO_B1 = [
       "en": "original",
       "de": "originell",
       "es": "original",
-      "pl": "oryginalny",
       "it": "originale",
       "pt": "original",
       "ja": "独創的",
       "zh": "独创",
-      "ru": "оригинальный"
+      "ru": "оригинальный",
+      "fr": "original"
     },
     "examples": [],
     "meta": {
@@ -53212,12 +53211,12 @@ const WORDS_KO_B1 = [
       "en": "be repeated",
       "de": "wiederholt werden",
       "es": "ser repetido",
-      "pl": "zostać powtórzonym",
       "it": "essere ripetuto",
       "pt": "ser repetido",
       "ja": "繰り返される",
       "zh": "被重复",
-      "ru": "повторяться"
+      "ru": "повторяться",
+      "fr": "être répété"
     },
     "examples": [],
     "meta": {
@@ -53244,12 +53243,12 @@ const WORDS_KO_B1 = [
       "en": "leave",
       "de": "weggehen",
       "es": "irse",
-      "pl": "odejść",
       "it": "andare via",
       "pt": "ir embora",
       "ja": "去って行く",
       "zh": "离开",
-      "ru": "уходить"
+      "ru": "уходить",
+      "fr": "partir"
     },
     "examples": [],
     "meta": {
@@ -53276,12 +53275,12 @@ const WORDS_KO_B1 = [
       "en": "noisy",
       "de": "laut",
       "es": "ruidoso",
-      "pl": "hałaśliwy",
       "it": "rumoroso",
       "pt": "barulhento",
       "ja": "騒がしい",
       "zh": "喧闹",
-      "ru": "шумный"
+      "ru": "шумный",
+      "fr": "bruyant"
     },
     "examples": [],
     "meta": {
@@ -53305,12 +53304,12 @@ const WORDS_KO_B1 = [
       "en": "robot",
       "de": "der Roboter",
       "es": "el robot",
-      "pl": "robot",
       "it": "il robot",
       "pt": "o robô",
       "ja": "ロボット",
       "zh": "机器人",
-      "ru": "робот"
+      "ru": "робот",
+      "fr": "robot"
     },
     "examples": [],
     "meta": {
@@ -53336,12 +53335,12 @@ const WORDS_KO_B1 = [
       "en": "perfect score",
       "de": "die volle Punktzahl",
       "es": "la puntuación perfecta",
-      "pl": "maksymalna ocena",
       "it": "il punteggio pieno",
       "pt": "a pontuação máxima",
       "ja": "満点",
       "zh": "满分",
-      "ru": "максимальный балл"
+      "ru": "максимальный балл",
+      "fr": "note maximale"
     },
     "examples": [],
     "meta": {
@@ -53367,12 +53366,12 @@ const WORDS_KO_B1 = [
       "en": "gather",
       "de": "sich versammeln",
       "es": "reunirse",
-      "pl": "zbierać się",
       "it": "radunarsi",
       "pt": "reunir-se",
       "ja": "集まる",
       "zh": "聚集",
-      "ru": "собираться"
+      "ru": "собираться",
+      "fr": "rassembler"
     },
     "examples": [],
     "meta": {
@@ -53399,12 +53398,12 @@ const WORDS_KO_B1 = [
       "en": "stay overnight",
       "de": "übernachten",
       "es": "pasar la noche",
-      "pl": "nocować",
       "it": "pernottare",
       "pt": "pernoitar",
       "ja": "泊まる",
       "zh": "过夜",
-      "ru": "ночевать"
+      "ru": "ночевать",
+      "fr": "passer la nuit"
     },
     "examples": [],
     "meta": {
@@ -53431,12 +53430,12 @@ const WORDS_KO_B1 = [
       "en": "outside",
       "de": "die Außenseite",
       "es": "el exterior",
-      "pl": "zewnętrzna strona",
       "it": "l'esterno",
       "pt": "o exterior",
       "ja": "外側",
       "zh": "外面",
-      "ru": "снаружи"
+      "ru": "снаружи",
+      "fr": "extérieur"
     },
     "examples": [],
     "meta": {
@@ -53462,12 +53461,12 @@ const WORDS_KO_B1 = [
       "en": "repair",
       "de": "die Reparatur",
       "es": "la reparación",
-      "pl": "naprawa",
       "it": "la riparazione",
       "pt": "o reparo",
       "ja": "修理",
       "zh": "修补",
-      "ru": "ремонт"
+      "ru": "ремонт",
+      "fr": "réparation"
     },
     "examples": [],
     "meta": {
@@ -53493,12 +53492,12 @@ const WORDS_KO_B1 = [
       "en": "security",
       "de": "die Sicherheit",
       "es": "la seguridad",
-      "pl": "bezpieczeństwo",
       "it": "la sicurezza",
       "pt": "a segurança",
       "ja": "安全",
       "zh": "安全",
-      "ru": "безопасность"
+      "ru": "безопасность",
+      "fr": "sécurité"
     },
     "examples": [],
     "meta": {
@@ -53524,12 +53523,12 @@ const WORDS_KO_B1 = [
       "en": "scoff",
       "de": "verspotten",
       "es": "burlarse",
-      "pl": "wyśmiewać",
       "it": "deridere",
       "pt": "zombar",
       "ja": "嘲笑う",
       "zh": "嘲笑",
-      "ru": "смеяться"
+      "ru": "смеяться",
+      "fr": "railler"
     },
     "examples": [],
     "meta": {
@@ -53556,12 +53555,12 @@ const WORDS_KO_B1 = [
       "en": "man",
       "de": "der Mann",
       "es": "el hombre",
-      "pl": "mężczyzna",
       "it": "l'uomo",
       "pt": "o homem",
       "ja": "男",
       "zh": "男人",
-      "ru": "мужчина"
+      "ru": "мужчина",
+      "fr": "homme"
     },
     "examples": [],
     "meta": {
@@ -53587,12 +53586,12 @@ const WORDS_KO_B1 = [
       "en": "symbolic",
       "de": "symbolisch",
       "es": "simbólico",
-      "pl": "symboliczny",
       "it": "simbolico",
       "pt": "simbólico",
       "ja": "象徴的",
       "zh": "象征性的",
-      "ru": "символический"
+      "ru": "символический",
+      "fr": "symbolique"
     },
     "examples": [],
     "meta": {
@@ -53616,12 +53615,12 @@ const WORDS_KO_B1 = [
       "en": "unusual",
       "de": "ungewöhnlich",
       "es": "inusual",
-      "pl": "niezwykły",
       "it": "insolito",
       "pt": "incomum",
       "ja": "風変わりな",
       "zh": "奇特的",
-      "ru": "необычный"
+      "ru": "необычный",
+      "fr": "inhabituel"
     },
     "examples": [],
     "meta": {
@@ -53645,12 +53644,12 @@ const WORDS_KO_B1 = [
       "en": "seminar",
       "de": "das Seminar",
       "es": "el seminario",
-      "pl": "seminarium",
       "it": "il seminario",
       "pt": "o seminário",
       "ja": "セミナー",
       "zh": "研讨会",
-      "ru": "семинар"
+      "ru": "семинар",
+      "fr": "séminaire"
     },
     "examples": [],
     "meta": {
@@ -53676,12 +53675,12 @@ const WORDS_KO_B1 = [
       "en": "detergent",
       "de": "das Waschmittel",
       "es": "el detergente",
-      "pl": "środek piorący",
       "it": "il detersivo",
       "pt": "o detergente",
       "ja": "洗剤",
       "zh": "洗涤剂",
-      "ru": "моющее средство"
+      "ru": "моющее средство",
+      "fr": "détergent"
     },
     "examples": [],
     "meta": {
@@ -53707,12 +53706,12 @@ const WORDS_KO_B1 = [
       "en": "whisper",
       "de": "flüstern",
       "es": "susurrar",
-      "pl": "szeptać",
       "it": "sussurrare",
       "pt": "sussurrar",
       "ja": "ささやく",
       "zh": "低语",
-      "ru": "шептать"
+      "ru": "шептать",
+      "fr": "chuchoter"
     },
     "examples": [],
     "meta": {
@@ -53740,12 +53739,12 @@ const WORDS_KO_B1 = [
       "en": "time",
       "de": "die Zeit",
       "es": "el tiempo",
-      "pl": "czas",
       "it": "il tempo",
       "pt": "o tempo",
       "ja": "年月",
       "zh": "时间",
-      "ru": "время"
+      "ru": "время",
+      "fr": "temps"
     },
     "examples": [],
     "meta": {
@@ -53771,12 +53770,12 @@ const WORDS_KO_B1 = [
       "en": "match",
       "de": "das Spiel",
       "es": "el partido",
-      "pl": "mecz",
       "it": "la partita",
       "pt": "o jogo",
       "ja": "試合",
       "zh": "比赛",
-      "ru": "матч"
+      "ru": "матч",
+      "fr": "match"
     },
     "examples": [],
     "meta": {
@@ -53802,12 +53801,12 @@ const WORDS_KO_B1 = [
       "en": "swift",
       "de": "schnell",
       "es": "rápido",
-      "pl": "szybki",
       "it": "rapido",
       "pt": "rápido",
       "ja": "迅速な",
       "zh": "迅速的",
-      "ru": "быстрый"
+      "ru": "быстрый",
+      "fr": "rapide"
     },
     "examples": [],
     "meta": {
@@ -53831,12 +53830,12 @@ const WORDS_KO_B1 = [
       "en": "new product",
       "de": "das neue Produkt",
       "es": "el nuevo producto",
-      "pl": "nowy produkt",
       "it": "il nuovo prodotto",
       "pt": "o novo produto",
       "ja": "新製品",
       "zh": "新产品",
-      "ru": "новый продукт"
+      "ru": "новый продукт",
+      "fr": "nouveau produit"
     },
     "examples": [],
     "meta": {
@@ -53862,12 +53861,12 @@ const WORDS_KO_B1 = [
       "en": "cautious",
       "de": "vorsichtig",
       "es": "cauteloso",
-      "pl": "ostrożny",
       "it": "cauto",
       "pt": "cauteloso",
       "ja": "慎重な",
       "zh": "谨慎的",
-      "ru": "осторожный"
+      "ru": "осторожный",
+      "fr": "prudent"
     },
     "examples": [],
     "meta": {
@@ -53891,12 +53890,12 @@ const WORDS_KO_B1 = [
       "en": "female",
       "de": "das Weibchen",
       "es": "la hembra",
-      "pl": "samica",
       "it": "la femmina",
       "pt": "a fêmea",
       "ja": "メス",
       "zh": "雌性",
-      "ru": "самка"
+      "ru": "самка",
+      "fr": "femelle"
     },
     "examples": [],
     "meta": {
@@ -53922,12 +53921,12 @@ const WORDS_KO_B1 = [
       "en": "announce",
       "de": "ankündigen",
       "es": "anunciar",
-      "pl": "zapowiedzieć",
       "it": "annunciare",
       "pt": "anunciar",
       "ja": "予告する",
       "zh": "预告",
-      "ru": "анонсировать"
+      "ru": "анонсировать",
+      "fr": "annoncer"
     },
     "examples": [],
     "meta": {
@@ -53954,12 +53953,12 @@ const WORDS_KO_B1 = [
       "en": "violate",
       "de": "verletzen",
       "es": "violar",
-      "pl": "naruszać",
       "it": "violare",
       "pt": "violar",
       "ja": "違反する",
       "zh": "违反",
-      "ru": "нарушать"
+      "ru": "нарушать",
+      "fr": "violer"
     },
     "examples": [],
     "meta": {
@@ -53986,12 +53985,12 @@ const WORDS_KO_B1 = [
       "en": "upper body",
       "de": "der Oberkörper",
       "es": "la parte superior del cuerpo",
-      "pl": "górna część ciała",
       "it": "la parte superiore del corpo",
       "pt": "o tronco",
       "ja": "上半身",
       "zh": "上半身",
-      "ru": "верхняя часть тела"
+      "ru": "верхняя часть тела",
+      "fr": "haut du corps"
     },
     "examples": [],
     "meta": {
@@ -54017,12 +54016,12 @@ const WORDS_KO_B1 = [
       "en": "subtle",
       "de": "subtil",
       "es": "sutil",
-      "pl": "subtelny",
       "it": "sottile",
       "pt": "sutil",
       "ja": "ほのかな",
       "zh": "淡淡的",
-      "ru": "тонкий"
+      "ru": "тонкий",
+      "fr": "subtil"
     },
     "examples": [],
     "meta": {
@@ -54046,12 +54045,12 @@ const WORDS_KO_B1 = [
       "en": "interest",
       "de": "das Interesse",
       "es": "el interés",
-      "pl": "zainteresowanie",
       "it": "l'interesse",
       "pt": "o interesse",
       "ja": "利害関係",
       "zh": "利益关系",
-      "ru": "интерес"
+      "ru": "интерес",
+      "fr": "intérêt"
     },
     "examples": [],
     "meta": {
@@ -54077,12 +54076,12 @@ const WORDS_KO_B1 = [
       "en": "input",
       "de": "die Eingabe",
       "es": "la entrada",
-      "pl": "wejście",
       "it": "l'input",
       "pt": "a entrada",
       "ja": "入力",
       "zh": "输入",
-      "ru": "ввод"
+      "ru": "ввод",
+      "fr": "entrée"
     },
     "examples": [],
     "meta": {
@@ -54108,12 +54107,12 @@ const WORDS_KO_B1 = [
       "en": "natural phenomenon",
       "de": "das Naturphänomen",
       "es": "el fenómeno natural",
-      "pl": "zjawisko naturalne",
       "it": "il fenomeno naturale",
       "pt": "o fenômeno natural",
       "ja": "自然現象",
       "zh": "自然现象",
-      "ru": "природное явление"
+      "ru": "природное явление",
+      "fr": "phénomène naturel"
     },
     "examples": [],
     "meta": {
@@ -54139,12 +54138,12 @@ const WORDS_KO_B1 = [
       "en": "honest",
       "de": "ehrlich",
       "es": "honesto",
-      "pl": "uczciwy",
       "it": "onesto",
       "pt": "honesto",
       "ja": "正直な",
       "zh": "诚实的",
-      "ru": "честный"
+      "ru": "честный",
+      "fr": "honnête"
     },
     "examples": [],
     "meta": {
@@ -54168,12 +54167,12 @@ const WORDS_KO_B1 = [
       "en": "adjust",
       "de": "anpassen",
       "es": "ajustar",
-      "pl": "dostosować",
       "it": "aggiustare",
       "pt": "ajustar",
       "ja": "調整する",
       "zh": "调整",
-      "ru": "регулировать"
+      "ru": "регулировать",
+      "fr": "ajuster"
     },
     "examples": [],
     "meta": {
@@ -54200,12 +54199,12 @@ const WORDS_KO_B1 = [
       "en": "wrinkle",
       "de": "die Falte",
       "es": "la arruga",
-      "pl": "zmarszczka",
       "it": "la ruga",
       "pt": "a ruga",
       "ja": "しわ",
       "zh": "皱纹",
-      "ru": "морщина"
+      "ru": "морщина",
+      "fr": "ride"
     },
     "examples": [],
     "meta": {
@@ -54231,12 +54230,12 @@ const WORDS_KO_B1 = [
       "en": "latest",
       "de": "das Neueste",
       "es": "lo último",
-      "pl": "najnowszy",
       "it": "l'ultimo",
       "pt": "o mais recente",
       "ja": "最新",
       "zh": "最新",
-      "ru": "новейший"
+      "ru": "новейший",
+      "fr": "dernier"
     },
     "examples": [],
     "meta": {
@@ -54262,12 +54261,12 @@ const WORDS_KO_B1 = [
       "en": "character",
       "de": "der Charakter",
       "es": "el personaje",
-      "pl": "postać",
       "it": "il personaggio",
       "pt": "o personagem",
       "ja": "キャラクター",
       "zh": "角色",
-      "ru": "персонаж"
+      "ru": "персонаж",
+      "fr": "personnage"
     },
     "examples": [],
     "meta": {
@@ -54293,12 +54292,12 @@ const WORDS_KO_B1 = [
       "en": "harmful",
       "de": "schädlich",
       "es": "dañino",
-      "pl": "szkodliwy",
       "it": "dannoso",
       "pt": "prejudicial",
       "ja": "有害な",
       "zh": "有害的",
-      "ru": "вредный"
+      "ru": "вредный",
+      "fr": "nocif"
     },
     "examples": [],
     "meta": {
@@ -54322,12 +54321,12 @@ const WORDS_KO_B1 = [
       "en": "front door",
       "de": "die Haustür",
       "es": "la puerta principal",
-      "pl": "drzwi wejściowe",
       "it": "la porta d'ingresso",
       "pt": "a porta da frente",
       "ja": "玄関ドア",
       "zh": "前门",
-      "ru": "входная дверь"
+      "ru": "входная дверь",
+      "fr": "porte d'entrée"
     },
     "examples": [],
     "meta": {
@@ -54353,12 +54352,12 @@ const WORDS_KO_B1 = [
       "en": "become active",
       "de": "aktiv werden",
       "es": "volverse activo",
-      "pl": "stać się aktywnym",
       "it": "diventare attivo",
       "pt": "tornar-se ativo",
       "ja": "活発になる",
       "zh": "变得活跃",
-      "ru": "становиться активным"
+      "ru": "становиться активным",
+      "fr": "devenir actif"
     },
     "examples": [],
     "meta": {
@@ -54385,12 +54384,12 @@ const WORDS_KO_B1 = [
       "en": "recover",
       "de": "sich erholen",
       "es": "recuperarse",
-      "pl": "odzyskiwać",
       "it": "recuperare",
       "pt": "recuperar",
       "ja": "回復する",
       "zh": "恢复",
-      "ru": "восстанавливаться"
+      "ru": "восстанавливаться",
+      "fr": "récupérer"
     },
     "examples": [],
     "meta": {
@@ -54417,12 +54416,12 @@ const WORDS_KO_B1 = [
       "en": "sacrifice",
       "de": "opfern",
       "es": "sacrificar",
-      "pl": "poświęcić",
       "it": "sacrificare",
       "pt": "sacrificar",
       "ja": "犠牲にする",
       "zh": "牺牲",
-      "ru": "жертвовать"
+      "ru": "жертвовать",
+      "fr": "sacrifier"
     },
     "examples": [],
     "meta": {
@@ -54449,12 +54448,12 @@ const WORDS_KO_B1 = [
       "en": "become possible",
       "de": "möglich werden",
       "es": "hacerse posible",
-      "pl": "stać się możliwym",
       "it": "diventare possibile",
       "pt": "tornar-se possível",
       "ja": "可能になる",
       "zh": "变得可能",
-      "ru": "становиться возможным"
+      "ru": "становиться возможным",
+      "fr": "devenir possible"
     },
     "examples": [],
     "meta": {
@@ -54481,12 +54480,12 @@ const WORDS_KO_B1 = [
       "en": "international",
       "de": "international",
       "es": "internacional",
-      "pl": "międzynarodowy",
       "it": "internazionale",
       "pt": "internacional",
       "ja": "国際的な",
       "zh": "国际的",
-      "ru": "международный"
+      "ru": "международный",
+      "fr": "international"
     },
     "examples": [],
     "meta": {
@@ -54510,12 +54509,12 @@ const WORDS_KO_B1 = [
       "en": "before that",
       "de": "davor",
       "es": "antes de eso",
-      "pl": "przedtem",
       "it": "prima di allora",
       "pt": "antes disso",
       "ja": "それ以前",
       "zh": "在那之前",
-      "ru": "до этого"
+      "ru": "до этого",
+      "fr": "avant cela"
     },
     "examples": [],
     "meta": {
@@ -54541,12 +54540,12 @@ const WORDS_KO_B1 = [
       "en": "safe",
       "de": "der Tresor",
       "es": "la caja fuerte",
-      "pl": "sejf",
       "it": "la cassaforte",
       "pt": "o cofre",
       "ja": "金庫",
       "zh": "保险箱",
-      "ru": "сейф"
+      "ru": "сейф",
+      "fr": "coffre-fort"
     },
     "examples": [],
     "meta": {
@@ -54572,12 +54571,12 @@ const WORDS_KO_B1 = [
       "en": "scolding",
       "de": "die Zurechtweisung",
       "es": "el regaño",
-      "pl": "nagana",
       "it": "il rimprovero",
       "pt": "a repreensão",
       "ja": "叱責",
       "zh": "训斥",
-      "ru": "выговор"
+      "ru": "выговор",
+      "fr": "réprimande"
     },
     "examples": [],
     "meta": {
@@ -54603,12 +54602,12 @@ const WORDS_KO_B1 = [
       "en": "pull",
       "de": "anziehen",
       "es": "atraer",
-      "pl": "przyciągać",
       "it": "tirare",
       "pt": "puxar",
       "ja": "引き寄せる",
       "zh": "拉",
-      "ru": "тянуть"
+      "ru": "тянуть",
+      "fr": "tirer"
     },
     "examples": [],
     "meta": {
@@ -54635,12 +54634,12 @@ const WORDS_KO_B1 = [
       "en": "talent",
       "de": "die Gabe",
       "es": "el talento",
-      "pl": "talent",
       "it": "il talento",
       "pt": "o talento",
       "ja": "才能",
       "zh": "才能",
-      "ru": "талант"
+      "ru": "талант",
+      "fr": "talent"
     },
     "examples": [],
     "meta": {
@@ -54666,12 +54665,12 @@ const WORDS_KO_B1 = [
       "en": "active",
       "de": "aktiv",
       "es": "activo",
-      "pl": "aktywny",
       "it": "attivo",
       "pt": "ativo",
       "ja": "能動的",
       "zh": "主动的",
-      "ru": "активный"
+      "ru": "активный",
+      "fr": "actif"
     },
     "examples": [],
     "meta": {
@@ -54695,12 +54694,12 @@ const WORDS_KO_B1 = [
       "en": "help",
       "de": "die Hilfe",
       "es": "la ayuda",
-      "pl": "pomoc",
       "it": "l'aiuto",
       "pt": "a ajuda",
       "ja": "ヘルプ",
       "zh": "帮助",
-      "ru": "помощь"
+      "ru": "помощь",
+      "fr": "aide"
     },
     "examples": [],
     "meta": {
@@ -54726,12 +54725,12 @@ const WORDS_KO_B1 = [
       "en": "revive",
       "de": "wiederbeleben",
       "es": "revivir",
-      "pl": "ożywić",
       "it": "rianimare",
       "pt": "reviver",
       "ja": "蘇らせる",
       "zh": "复活",
-      "ru": "оживить"
+      "ru": "оживить",
+      "fr": "ranimer"
     },
     "examples": [],
     "meta": {
@@ -54758,12 +54757,12 @@ const WORDS_KO_B1 = [
       "en": "swarm",
       "de": "herbeiströmen",
       "es": "acudir en masa",
-      "pl": "napływać",
       "it": "affluire",
       "pt": "acudir em massa",
       "ja": "押し寄せる",
       "zh": "涌来",
-      "ru": "наплывать"
+      "ru": "наплывать",
+      "fr": "affluer"
     },
     "examples": [],
     "meta": {
@@ -54790,12 +54789,12 @@ const WORDS_KO_B1 = [
       "en": "material",
       "de": "materiell",
       "es": "material",
-      "pl": "materialny",
       "it": "materiale",
       "pt": "material",
       "ja": "物質的",
       "zh": "物质的",
-      "ru": "материальный"
+      "ru": "материальный",
+      "fr": "matériel"
     },
     "examples": [],
     "meta": {
@@ -54819,12 +54818,12 @@ const WORDS_KO_B1 = [
       "en": "be believed",
       "de": "geglaubt werden",
       "es": "ser creído",
-      "pl": "być wierzonym",
       "it": "essere creduto",
       "pt": "ser acreditado",
       "ja": "信じられる",
       "zh": "被相信",
-      "ru": "быть веруемым"
+      "ru": "быть веруемым",
+      "fr": "être cru"
     },
     "examples": [],
     "meta": {
@@ -54851,12 +54850,12 @@ const WORDS_KO_B1 = [
       "en": "dough",
       "de": "der Teig",
       "es": "la masa",
-      "pl": "ciasto",
       "it": "l'impasto",
       "pt": "a massa",
       "ja": "生地",
       "zh": "面团",
-      "ru": "тесто"
+      "ru": "тесто",
+      "fr": "pâte"
     },
     "examples": [],
     "meta": {
@@ -54882,12 +54881,12 @@ const WORDS_KO_B1 = [
       "en": "arrangement",
       "de": "die Anordnung",
       "es": "la disposición",
-      "pl": "układ",
       "it": "la disposizione",
       "pt": "a disposição",
       "ja": "配置",
       "zh": "布置",
-      "ru": "размещение"
+      "ru": "размещение",
+      "fr": "arrangement"
     },
     "examples": [],
     "meta": {
@@ -54913,12 +54912,12 @@ const WORDS_KO_B1 = [
       "en": "white person",
       "de": "der Weiße",
       "es": "la persona blanca",
-      "pl": "biała osoba",
       "it": "la persona bianca",
       "pt": "a pessoa branca",
       "ja": "白人",
       "zh": "白人",
-      "ru": "белый человек"
+      "ru": "белый человек",
+      "fr": "personne blanche"
     },
     "examples": [],
     "meta": {
@@ -54945,12 +54944,12 @@ const WORDS_KO_B1 = [
       "en": "headquarters",
       "de": "die Hauptverwaltung",
       "es": "la sede central",
-      "pl": "siedziba główna",
       "it": "la sede centrale",
       "pt": "a sede central",
       "ja": "本社",
       "zh": "总部",
-      "ru": "штаб-квартира"
+      "ru": "штаб-квартира",
+      "fr": "siège social"
     },
     "examples": [],
     "meta": {
@@ -54976,12 +54975,12 @@ const WORDS_KO_B1 = [
       "en": "unequal",
       "de": "ungleich",
       "es": "desigual",
-      "pl": "nierówny",
       "it": "disuguale",
       "pt": "desigual",
       "ja": "不平等",
       "zh": "不平等",
-      "ru": "неравный"
+      "ru": "неравный",
+      "fr": "inégal"
     },
     "examples": [],
     "meta": {
@@ -55005,12 +55004,12 @@ const WORDS_KO_B1 = [
       "en": "drop",
       "de": "fallen lassen",
       "es": "dejar caer",
-      "pl": "upuścić",
       "it": "far cadere",
       "pt": "deixar cair",
       "ja": "落とす",
       "zh": "掉落",
-      "ru": "уронить"
+      "ru": "уронить",
+      "fr": "lâcher"
     },
     "examples": [],
     "meta": {
@@ -55038,12 +55037,12 @@ const WORDS_KO_B1 = [
       "en": "Westerner",
       "de": "der Westler",
       "es": "el occidental",
-      "pl": "zachodniak",
       "it": "l'occidentale",
       "pt": "o ocidental",
       "ja": "西洋人",
       "zh": "西方人",
-      "ru": "западный человек"
+      "ru": "западный человек",
+      "fr": "Occidental"
     },
     "examples": [],
     "meta": {
@@ -55069,12 +55068,12 @@ const WORDS_KO_B1 = [
       "en": "belongings",
       "de": "das Gepäck",
       "es": "los efectos personales",
-      "pl": "rzeczy osobiste",
       "it": "i effetti personali",
       "pt": "os pertences",
       "ja": "所持品",
       "zh": "随身物品",
-      "ru": "личные вещи"
+      "ru": "личные вещи",
+      "fr": "affaires personnelles"
     },
     "examples": [],
     "meta": {
@@ -55100,12 +55099,12 @@ const WORDS_KO_B1 = [
       "en": "iron",
       "de": "das Eisen",
       "es": "el hierro",
-      "pl": "żelazo",
       "it": "il ferro",
       "pt": "o ferro",
       "ja": "鉄",
       "zh": "铁",
-      "ru": "железо"
+      "ru": "железо",
+      "fr": "fer"
     },
     "examples": [],
     "meta": {
@@ -55131,12 +55130,12 @@ const WORDS_KO_B1 = [
       "en": "male",
       "de": "das Männchen",
       "es": "el macho",
-      "pl": "samiec",
       "it": "il maschio",
       "pt": "o macho",
       "ja": "オス",
       "zh": "雄性",
-      "ru": "самец"
+      "ru": "самец",
+      "fr": "mâle"
     },
     "examples": [],
     "meta": {
@@ -55162,12 +55161,12 @@ const WORDS_KO_B1 = [
       "en": "win",
       "de": "siegen",
       "es": "ganar",
-      "pl": "zwyciężać",
       "it": "vincere",
       "pt": "vencer",
       "ja": "勝利する",
       "zh": "胜利",
-      "ru": "побеждать"
+      "ru": "побеждать",
+      "fr": "gagner"
     },
     "examples": [],
     "meta": {
@@ -55194,12 +55193,12 @@ const WORDS_KO_B1 = [
       "en": "seed",
       "de": "der Samen",
       "es": "la semilla",
-      "pl": "nasienie",
       "it": "il seme",
       "pt": "a semente",
       "ja": "種",
       "zh": "种子",
-      "ru": "семя"
+      "ru": "семя",
+      "fr": "graine"
     },
     "examples": [],
     "meta": {
@@ -55226,12 +55225,12 @@ const WORDS_KO_B1 = [
       "en": "get food from others",
       "de": "sich bekochen lassen",
       "es": "comer de gorra",
-      "pl": "jeść na czyjś koszt",
       "it": "farsi offrire da mangiare",
       "pt": "comer de graça",
       "ja": "ご馳走になる",
       "zh": "蹭饭",
-      "ru": "есть за чужой счет"
+      "ru": "есть за чужой счет",
+      "fr": "se faire nourrir"
     },
     "examples": [],
     "meta": {
@@ -55258,12 +55257,12 @@ const WORDS_KO_B1 = [
       "en": "solemn",
       "de": "feierlich",
       "es": "solemne",
-      "pl": "uroczysty",
       "it": "solenne",
       "pt": "solene",
       "ja": "厳粛な",
       "zh": "庄严的",
-      "ru": "торжественный"
+      "ru": "торжественный",
+      "fr": "solennel"
     },
     "examples": [],
     "meta": {
@@ -55287,12 +55286,12 @@ const WORDS_KO_B1 = [
       "en": "leisure",
       "de": "die Freizeit",
       "es": "el ocio",
-      "pl": "czas wolny",
       "it": "il tempo libero",
       "pt": "o lazer",
       "ja": "余暇",
       "zh": "闲暇",
-      "ru": "досуг"
+      "ru": "досуг",
+      "fr": "loisir"
     },
     "examples": [],
     "meta": {
@@ -55318,12 +55317,12 @@ const WORDS_KO_B1 = [
       "en": "associate",
       "de": "assoziieren",
       "es": "asociar",
-      "pl": "kojarzyć",
       "it": "associare",
       "pt": "associar",
       "ja": "連想する",
       "zh": "联想",
-      "ru": "ассоциировать"
+      "ru": "ассоциировать",
+      "fr": "associer"
     },
     "examples": [],
     "meta": {
@@ -55350,12 +55349,12 @@ const WORDS_KO_B1 = [
       "en": "look up",
       "de": "aufschauen",
       "es": "mirar hacia arriba",
-      "pl": "patrzeć w górę",
       "it": "guardare in su",
       "pt": "olhar para cima",
       "ja": "見上げる",
       "zh": "抬头看",
-      "ru": "смотреть вверх"
+      "ru": "смотреть вверх",
+      "fr": "lever les yeux"
     },
     "examples": [],
     "meta": {
@@ -55382,12 +55381,12 @@ const WORDS_KO_B1 = [
       "en": "memorize",
       "de": "auswendig lernen",
       "es": "memorizar",
-      "pl": "zapamiętywać",
       "it": "imparare a memoria",
       "pt": "memorizar",
       "ja": "覚える",
       "zh": "背诵",
-      "ru": "заучивать"
+      "ru": "заучивать",
+      "fr": "mémoriser"
     },
     "examples": [],
     "meta": {
@@ -55414,12 +55413,12 @@ const WORDS_KO_B1 = [
       "en": "shout",
       "de": "der Schrei",
       "es": "el grito",
-      "pl": "krzyk",
       "it": "l'urlo",
       "pt": "o grito",
       "ja": "叫び",
       "zh": "喊叫",
-      "ru": "крик"
+      "ru": "крик",
+      "fr": "cri"
     },
     "examples": [],
     "meta": {
@@ -55446,12 +55445,12 @@ const WORDS_KO_B1 = [
       "en": "labor",
       "de": "die Arbeitskraft",
       "es": "mano de obra",
-      "pl": "siła robocza",
       "it": "manodopera",
       "pt": "mão de obra",
       "ja": "人手",
       "zh": "人手",
-      "ru": "рабочая сила"
+      "ru": "рабочая сила",
+      "fr": "main-d'œuvre"
     },
     "examples": [],
     "meta": {
@@ -55477,12 +55476,12 @@ const WORDS_KO_B1 = [
       "en": "jacket",
       "de": "die Jacke",
       "es": "la chaqueta",
-      "pl": "kurtka",
       "it": "la giacca",
       "pt": "a jaqueta",
       "ja": "ジャンパー",
       "zh": "夹克",
-      "ru": "куртка"
+      "ru": "куртка",
+      "fr": "veste"
     },
     "examples": [],
     "meta": {
@@ -55508,12 +55507,12 @@ const WORDS_KO_B1 = [
       "en": "submarine",
       "de": "das U-Boot",
       "es": "el submarino",
-      "pl": "łódź podwodna",
       "it": "il sottomarino",
       "pt": "o submarino",
       "ja": "潜水艦",
       "zh": "潜水艇",
-      "ru": "подводная лодка"
+      "ru": "подводная лодка",
+      "fr": "sous-marin"
     },
     "examples": [],
     "meta": {
@@ -55539,12 +55538,12 @@ const WORDS_KO_B1 = [
       "en": "longevity",
       "de": "das Langlebigkeit",
       "es": "la longevidad",
-      "pl": "długowieczność",
       "it": "la longevità",
       "pt": "a longevidade",
       "ja": "長寿",
       "zh": "长寿",
-      "ru": "долголетие"
+      "ru": "долголетие",
+      "fr": "longévité"
     },
     "examples": [],
     "meta": {
@@ -55570,12 +55569,12 @@ const WORDS_KO_B1 = [
       "en": "measure",
       "de": "messen",
       "es": "medir",
-      "pl": "mierzyć",
       "it": "misurare",
       "pt": "medir",
       "ja": "測る",
       "zh": "测量",
-      "ru": "измерять"
+      "ru": "измерять",
+      "fr": "mesurer"
     },
     "examples": [],
     "meta": {
@@ -55603,12 +55602,12 @@ const WORDS_KO_B1 = [
       "en": "guide",
       "de": "führen",
       "es": "guiar",
-      "pl": "kierować",
       "it": "guidare",
       "pt": "guiar",
       "ja": "指導する",
       "zh": "指导",
-      "ru": "направлять"
+      "ru": "направлять",
+      "fr": "guider"
     },
     "examples": [],
     "meta": {
@@ -55635,12 +55634,12 @@ const WORDS_KO_B1 = [
       "en": "career path",
       "de": "der Karriereweg",
       "es": "la trayectoria profesional",
-      "pl": "ścieżka kariery",
       "it": "il percorso di carriera",
       "pt": "o caminho de carreira",
       "ja": "進路",
       "zh": "职业道路",
-      "ru": "карьерный путь"
+      "ru": "карьерный путь",
+      "fr": "parcours professionnel"
     },
     "examples": [],
     "meta": {
@@ -55666,12 +55665,12 @@ const WORDS_KO_B1 = [
       "en": "host",
       "de": "der Moderator",
       "es": "el presentador",
-      "pl": "prezenter",
       "it": "il presentatore",
       "pt": "o apresentador",
       "ja": "司会者",
       "zh": "主持人",
-      "ru": "ведущий"
+      "ru": "ведущий",
+      "fr": "présentateur"
     },
     "examples": [],
     "meta": {
@@ -55697,12 +55696,12 @@ const WORDS_KO_B1 = [
       "en": "look for",
       "de": "suchen",
       "es": "buscar",
-      "pl": "szukać",
       "it": "cercare",
       "pt": "procurar",
       "ja": "探し回る",
       "zh": "寻找",
-      "ru": "искать"
+      "ru": "искать",
+      "fr": "chercher"
     },
     "examples": [],
     "meta": {
@@ -55730,12 +55729,12 @@ const WORDS_KO_B1 = [
       "en": "responsibility",
       "de": "die Verantwortung",
       "es": "la responsabilidad",
-      "pl": "odpowiedzialność",
       "it": "la responsabilità",
       "pt": "a responsabilidade",
       "ja": "責任感",
       "zh": "责任感",
-      "ru": "ответственность"
+      "ru": "ответственность",
+      "fr": "responsabilité"
     },
     "examples": [],
     "meta": {
@@ -55761,12 +55760,12 @@ const WORDS_KO_B1 = [
       "en": "body temperature",
       "de": "die Körpertemperatur",
       "es": "la temperatura corporal",
-      "pl": "temperatura ciała",
       "it": "la temperatura corporea",
       "pt": "a temperatura corporal",
       "ja": "体温",
       "zh": "体温",
-      "ru": "температура тела"
+      "ru": "температура тела",
+      "fr": "température corporelle"
     },
     "examples": [],
     "meta": {
@@ -55792,12 +55791,12 @@ const WORDS_KO_B1 = [
       "en": "passage",
       "de": "die Durchfahrt",
       "es": "el paso",
-      "pl": "przejście",
       "it": "il passaggio",
       "pt": "a passagem",
       "ja": "通過",
       "zh": "通过",
-      "ru": "проход"
+      "ru": "проход",
+      "fr": "passage"
     },
     "examples": [],
     "meta": {
@@ -55823,12 +55822,12 @@ const WORDS_KO_B1 = [
       "en": "street stall",
       "de": "der Imbissstand",
       "es": "el puesto callejero",
-      "pl": "budka z jedzeniem",
       "it": "la bancarella",
       "pt": "a barraca de rua",
       "ja": "屋台",
       "zh": "路边摊",
-      "ru": "уличный киоск"
+      "ru": "уличный киоск",
+      "fr": "étal de rue"
     },
     "examples": [],
     "meta": {
@@ -55854,12 +55853,12 @@ const WORDS_KO_B1 = [
       "en": "scoop",
       "de": "schöpfen",
       "es": "sacar",
-      "pl": "nabierać",
       "it": "scavare",
       "pt": "colher",
       "ja": "すくう",
       "zh": "舀",
-      "ru": "черпать"
+      "ru": "черпать",
+      "fr": "puiser"
     },
     "examples": [],
     "meta": {
@@ -55886,12 +55885,12 @@ const WORDS_KO_B1 = [
       "en": "bell pepper",
       "de": "die Paprika",
       "es": "el pimiento",
-      "pl": "papryka",
       "it": "il peperone",
       "pt": "o pimentão",
       "ja": "ピーマン",
       "zh": "甜椒",
-      "ru": "сладкий перец"
+      "ru": "сладкий перец",
+      "fr": "poivron"
     },
     "examples": [],
     "meta": {
@@ -55917,12 +55916,12 @@ const WORDS_KO_B1 = [
       "en": "midsummer",
       "de": "Hochsommer",
       "es": "pleno verano",
-      "pl": "środek lata",
       "it": "piena estate",
       "pt": "meio do verão",
       "ja": "真夏",
       "zh": "盛夏",
-      "ru": "середина лета"
+      "ru": "середина лета",
+      "fr": "milieu de l'été"
     },
     "examples": [],
     "meta": {
@@ -55948,12 +55947,12 @@ const WORDS_KO_B1 = [
       "en": "aviation",
       "de": "die Luftfahrt",
       "es": "la aviación",
-      "pl": "lotnictwo",
       "it": "l'aviazione",
       "pt": "a aviação",
       "ja": "航空",
       "zh": "航空",
-      "ru": "авиация"
+      "ru": "авиация",
+      "fr": "aviation"
     },
     "examples": [],
     "meta": {
@@ -55979,12 +55978,12 @@ const WORDS_KO_B1 = [
       "en": "rotation",
       "de": "die Drehung",
       "es": "la rotación",
-      "pl": "rotacja",
       "it": "la rotazione",
       "pt": "a rotação",
       "ja": "回転",
       "zh": "旋转",
-      "ru": "вращение"
+      "ru": "вращение",
+      "fr": "rotation"
     },
     "examples": [],
     "meta": {
@@ -56010,12 +56009,12 @@ const WORDS_KO_B1 = [
       "en": "be hidden",
       "de": "verdeckt werden",
       "es": "ser ocultado",
-      "pl": "być ukrytym",
       "it": "essere nascosto",
       "pt": "ser escondido",
       "ja": "隠される",
       "zh": "被隐藏",
-      "ru": "быть скрытым"
+      "ru": "быть скрытым",
+      "fr": "être caché"
     },
     "examples": [],
     "meta": {
@@ -56042,12 +56041,12 @@ const WORDS_KO_B1 = [
       "en": "straight",
       "de": "gerade",
       "es": "recto",
-      "pl": "prosty",
       "it": "dritto",
       "pt": "reto",
       "ja": "まっすぐな",
       "zh": "直的",
-      "ru": "прямой"
+      "ru": "прямой",
+      "fr": "droit"
     },
     "examples": [],
     "meta": {
@@ -56071,12 +56070,12 @@ const WORDS_KO_B1 = [
       "en": "trouble",
       "de": "der Ärger",
       "es": "el problema",
-      "pl": "kłopot",
       "it": "il problema",
       "pt": "o problema",
       "ja": "頭痛の種",
       "zh": "麻烦",
-      "ru": "головная боль"
+      "ru": "головная боль",
+      "fr": "problème"
     },
     "examples": [],
     "meta": {
@@ -56102,12 +56101,12 @@ const WORDS_KO_B1 = [
       "en": "next month",
       "de": "der nächste Monat",
       "es": "el próximo mes",
-      "pl": "następny miesiąc",
       "it": "il mese prossimo",
       "pt": "o próximo mês",
       "ja": "来月",
       "zh": "下个月",
-      "ru": "следующий месяц"
+      "ru": "следующий месяц",
+      "fr": "le mois prochain"
     },
     "examples": [],
     "meta": {
@@ -56133,12 +56132,12 @@ const WORDS_KO_B1 = [
       "en": "leave",
       "de": "lassen",
       "es": "dejar",
-      "pl": "zostawić",
       "it": "lasciare",
       "pt": "deixar",
       "ja": "置いておく",
       "zh": "留下",
-      "ru": "оставить"
+      "ru": "оставить",
+      "fr": "laisser"
     },
     "examples": [],
     "meta": {
@@ -56165,12 +56164,12 @@ const WORDS_KO_B1 = [
       "en": "CD-ROM",
       "de": "das CD-ROM",
       "es": "el CD-ROM",
-      "pl": "CD-ROM",
       "it": "il CD-ROM",
       "pt": "o CD-ROM",
       "ja": "CD-ROM",
       "zh": "光驱",
-      "ru": "CD-ROM"
+      "ru": "CD-ROM",
+      "fr": "CD-ROM"
     },
     "examples": [],
     "meta": {
@@ -56196,12 +56195,12 @@ const WORDS_KO_B1 = [
       "en": "mini",
       "de": "mini",
       "es": "mini",
-      "pl": "mini",
       "it": "mini",
       "pt": "mini",
       "ja": "ミニ",
       "zh": "迷你",
-      "ru": "мини"
+      "ru": "мини",
+      "fr": "mini"
     },
     "examples": [],
     "meta": {
@@ -56227,12 +56226,12 @@ const WORDS_KO_B1 = [
       "en": "silver",
       "de": "das Silber",
       "es": "la plata",
-      "pl": "srebro",
       "it": "l'argento",
       "pt": "a prata",
       "ja": "銀",
       "zh": "银",
-      "ru": "серебро"
+      "ru": "серебро",
+      "fr": "argent"
     },
     "examples": [],
     "meta": {
@@ -56258,12 +56257,12 @@ const WORDS_KO_B1 = [
       "en": "group",
       "de": "die Gruppe",
       "es": "el grupo",
-      "pl": "grupa",
       "it": "il gruppo",
       "pt": "o grupo",
       "ja": "組",
       "zh": "组",
-      "ru": "группа"
+      "ru": "группа",
+      "fr": "groupe"
     },
     "examples": [],
     "meta": {
@@ -56289,12 +56288,12 @@ const WORDS_KO_B1 = [
       "en": "phrase",
       "de": "die Phrase",
       "es": "la frase",
-      "pl": "fraz",
       "it": "la frase",
       "pt": "a frase",
       "ja": "句",
       "zh": "短语",
-      "ru": "фраза"
+      "ru": "фраза",
+      "fr": "phrase"
     },
     "examples": [],
     "meta": {
@@ -56320,12 +56319,12 @@ const WORDS_KO_B1 = [
       "en": "counter for cigarettes",
       "de": "der Zähler für Zigaretten",
       "es": "el contador para cigarrillos",
-      "pl": "sztuka",
       "it": "pezzo",
       "pt": "unidade",
       "ja": "本",
       "zh": "支",
-      "ru": "штука"
+      "ru": "штука",
+      "fr": "cigarette"
     },
     "examples": [],
     "meta": {

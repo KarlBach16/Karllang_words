@@ -7468,7 +7468,7 @@ const WORDS_DE_A2 = [
       "en": "lemonade",
       "es": "limonada",
       "fr": "limonade",
-      "it": "aranciata/limonata",
+      "it": "aranciata",
       "pt": "limonada",
       "ja": "レモネード",
       "zh": "汽水",
@@ -15194,7 +15194,7 @@ const WORDS_DE_A2 = [
     ],
     "meanings": {
       "de": "Torte",
-      "ko": "케이크 (크림/과일 등)",
+      "ko": "케이크 (크림",
       "en": "layer cake",
       "es": "tarta",
       "fr": "tarte",
