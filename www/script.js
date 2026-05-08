@@ -229,7 +229,7 @@ if (typeof window !== "undefined") {
 
 // 🔢 지금 사용하는 단어 세트 버전.
 // 이 값이 바뀌어도 기본은 migration/보존이며, 단어 ID 체계가 깨질 때만 리셋한다.
-const DATA_VERSION = "goethe_a1_full_v1";
+const DATA_VERSION = "karllang_words_v1_1_20260509";
 const USER_DATA_SCHEMA_VERSION = "2";
 
 const DEFAULT_SETTINGS = {
