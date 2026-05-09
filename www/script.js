@@ -368,6 +368,8 @@ let TRAINING_CRAM_REPEAT_TOTAL = 3; // 이 단어를 몇 번 쓸 건지 (1/3/5)
 let TRAINING_CRAM_REPEAT_INDEX = 0; // 현재 몇 회째인지 (0-based)
 // 현재 단어에서 "정말 모르겠다" 두 번째 확인 허용용 플래그
 let TRAINING_CRAM_GIVEUP_ARMED = false;
+let ANSWER_INPUT_COMPOSING = false;
+let ANSWER_INPUT_CLEAR_UNTIL = 0;
 const WORD_DROP_STATE = {
   active: false,
   pendingStart: false,
@@ -3894,6 +3896,79 @@ function handleCramSubmit() {
   APP_STATE.completed = TRAINING_CRAM_INDEX;
 
   showCramQuestion();
+}
+
+function getAutoSubmitTargetText() {
+  if (APP_STATE.phase !== "QUESTION") return "";
+
+  if (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram") {
+    const word = (TRAINING_CRAM_WORDS || [])[TRAINING_CRAM_INDEX];
+    return (word ? buildGermanForm(word) : "").trim();
+  }
+
+  if (SETTINGS.mode === "copy") {
+    const item = APP_STATE.currentCard;
+    if (!item || !item.word) return "";
+    if (DOM.copyGhost && DOM.copyGhost.textContent) {
+      return DOM.copyGhost.textContent.trim();
+    }
+    return (buildGermanForm(item.word) || "").trim();
+  }
+
+  return "";
+}
+
+function checkAnswerInputAutoSubmit() {
+  if (!DOM.answerInput || APP_STATE.phase !== "QUESTION") return false;
+
+  if (ANSWER_INPUT_CLEAR_UNTIL && Date.now() < ANSWER_INPUT_CLEAR_UNTIL) {
+    DOM.answerInput.value = "";
+    return false;
+  }
+
+  const isCram =
+    TRAINING_MODE_ACTIVE &&
+    TRAINING_MODE_KIND === "cram";
+  const isCopy = !isCram && SETTINGS.mode === "copy";
+  if (!isCram && !isCopy) return false;
+
+  const typed = (DOM.answerInput.value || "").trim().normalize("NFC");
+  const target = getAutoSubmitTargetText().normalize("NFC");
+  if (!typed || !target || typed !== target) return false;
+
+  // IME 조합 중에도 화면에 보이는 값이 이미 정답이면 바로 인정한다.
+  ANSWER_INPUT_COMPOSING = false;
+  ANSWER_INPUT_CLEAR_UNTIL = Date.now() + 120;
+  handleConfirm();
+
+  if (DOM.answerInput && Date.now() < ANSWER_INPUT_CLEAR_UNTIL) {
+    DOM.answerInput.value = "";
+  }
+
+  requestAnimationFrame(() => {
+    if (DOM.answerInput && Date.now() < ANSWER_INPUT_CLEAR_UNTIL) {
+      DOM.answerInput.value = "";
+    }
+  });
+  setTimeout(() => {
+    if (DOM.answerInput && Date.now() < ANSWER_INPUT_CLEAR_UNTIL) {
+      DOM.answerInput.value = "";
+    }
+  }, 40);
+  setTimeout(() => {
+    if (DOM.answerInput && Date.now() < ANSWER_INPUT_CLEAR_UNTIL) {
+      DOM.answerInput.value = "";
+    }
+  }, 100);
+
+  return true;
+}
+
+function scheduleAnswerInputAutoSubmitCheck() {
+  checkAnswerInputAutoSubmit();
+  requestAnimationFrame(checkAnswerInputAutoSubmit);
+  setTimeout(checkAnswerInputAutoSubmit, 0);
+  setTimeout(checkAnswerInputAutoSubmit, 40);
 }
 
 function getPrimaryStudyText(word) {
@@ -8567,6 +8642,14 @@ function attachEvents() {
   }
 
   if (DOM.answerInput) {
+    DOM.answerInput.addEventListener("input", scheduleAnswerInputAutoSubmitCheck);
+    DOM.answerInput.addEventListener("compositionstart", () => {
+      ANSWER_INPUT_COMPOSING = true;
+    });
+    DOM.answerInput.addEventListener("compositionend", () => {
+      ANSWER_INPUT_COMPOSING = false;
+      scheduleAnswerInputAutoSubmitCheck();
+    });
     DOM.answerInput.addEventListener("keydown", (e) => {
       if (
         e.key === "Enter" &&
