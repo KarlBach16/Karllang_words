@@ -937,3 +937,48 @@
 - API 키가 포함된 `.env` 파일은 커밋 대상에 없음을 확인했다.
 - Gemini 요청/응답 산출물은 `tmp/` 아래에만 남기고 커밋에서 제외했다.
 - 기존 iOS/Android Firebase 설정 파일의 Google API key는 이번 작업에서 새로 추가된 값이 아니며 기존 tracked 앱 설정으로 유지했다.
+
+## 2026-05-09 - 타이핑 힌트, 훈련소 Analytics, 독일어 레벨 보정
+
+### 타이핑 힌트
+
+- 타이핑 모드에 `힌트` 버튼을 추가했다.
+- 힌트는 따라쓰기 고스트 글씨와 같은 방식으로 입력창 안에 흐리게 표시한다.
+- 관사가 있는 정답은 관사가 힌트를 모두 소비하지 않도록 조정했다.
+  - 1회: 관사 첫 글자
+  - 2회: 단어 첫 글자
+  - 3회: 단어 앞 두 글자
+- 힌트 사용 시 난이도 평가에서 `쉬움/Easy`를 비활성화했다.
+- 타이핑 입력창의 placeholder를 제거해 힌트 고스트와 겹치지 않게 했다.
+- 힌트 버튼은 공유 이미지 생성 버튼과 같은 옅은 파랑 스타일로 맞췄고, `힌트/확인` 버튼 묶음 폭을 기존 정답 버튼 폭과 맞췄다.
+- 힌트 버튼 문구를 10개 UI 언어에 추가했다.
+
+### 훈련소 Analytics
+
+- Firebase Analytics에 훈련소 전용 이벤트를 추가했다.
+  - `start_training_session`
+  - `complete_training_session`
+- 공통 파라미터:
+  - `training_mode`
+  - `study_lang`
+  - `ui_lang`
+  - `target_count`
+- 완료 이벤트에는 `total_count`, `correct_count`, `wrong_count`를 포함한다.
+- 크램 모드는 `repeat_count`도 함께 기록한다.
+- 크램 완료 처리는 공통 함수로 묶어 완료 이벤트와 일일 요약 저장 기준을 통일했다.
+- Word Drop 시작/종료에도 동일한 훈련소 Analytics 이벤트를 연결했다.
+
+### 단어 데이터 보정
+
+- 독일어 `die Sehenswürdigkeit`는 A1 타이핑 학습에는 부담이 커서 A2로 이동했다.
+- ID `sehenswuerdigkeit_nf_1`는 그대로 유지해 기존 SRS/통계 키 안정성을 보존했다.
+- 항목은 `words_de_a1.js`에서 제거하고 `words_de_a2.js`로 이동했다.
+
+### 검증
+
+- `node --check www/script.js`
+- `node --check www/translations.js`
+- `node --check www/data/de/words_de_a1.js`
+- `node --check www/data/de/words_de_a2.js`
+- `git diff --check`
+- `npx cap sync`

@@ -606,10 +606,53 @@ body {
     margin-top: 10px;
 }
 
+.button-group #hintBtn + #mainBtn {
+    margin-top: 0;
+}
+
 .button-group .btn-primary,
 .button-group .btn-secondary {
     width: 80%;
     max-width: 360px;
+}
+
+.button-group.typing-hint-active {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 80%;
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-group.typing-hint-active .btn + .btn {
+    margin-top: 0;
+}
+
+.button-group.typing-hint-active #hintBtn,
+.button-group.typing-hint-active #mainBtn {
+    width: auto;
+    max-width: none;
+    flex: 1 1 0;
+}
+
+.button-group.typing-hint-active #skipBtn {
+    flex: 0 0 100%;
+    width: 100%;
+    max-width: none;
+}
+
+.button-group.typing-hint-active #hintBtn {
+    border: 1px solid rgba(41, 98, 255, 0.22);
+    background: rgba(41, 98, 255, 0.06);
+    color: var(--color-secondary);
+    box-shadow: none;
+}
+
+.typing-hint-btn.hint-limit {
+    opacity: 0.55;
 }
 
 /* ===== 뷰 공통 ===== */
@@ -1073,6 +1116,14 @@ body:not(.word-drop-active) #wordDropView .word-drop-progress {
 
 .btn-easy {
     background: var(--color-primary); /* Vibrant Green */
+}
+
+.btn-rating:disabled,
+.btn-rating.rating-disabled {
+    opacity: 0.35;
+    box-shadow: none;
+    cursor: not-allowed;
+    filter: grayscale(0.4);
 }
 
 /* ===== 통계 ===== */

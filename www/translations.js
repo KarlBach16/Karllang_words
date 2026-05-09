@@ -14,6 +14,7 @@ start_study_label: "학습 언어",
 start: "시작",
 start_prompt: "시작 버튼을 누르세요",
 type_answer: "정답 입력",
+hint: "힌트",
 start_screen_hint: "",
 
     /* 메뉴 */
@@ -216,6 +217,7 @@ en: {
     start: "Start",
     start_prompt: "Tap Start to begin.",
     type_answer: "Type your answer",
+    hint: "Hint",
     start_screen_hint: "",
  
         /* 메뉴 */
@@ -419,6 +421,7 @@ de: {
     start: "Start",
     start_prompt: "Tippe auf „Start“, um zu beginnen.",
     type_answer: "Antwort eingeben",
+    hint: "Hinweis",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -624,6 +627,7 @@ es: {
     start: "Iniciar",
     start_prompt: "Toca «Iniciar» para empezar.",
     type_answer: "Escribe tu respuesta",
+    hint: "Pista",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -831,6 +835,7 @@ fr: {
     start: "Commencer",
     start_prompt: "Touchez « Commencer » pour démarrer.",
     type_answer: "Écris ta réponse",
+    hint: "Indice",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -1034,6 +1039,7 @@ it: {
     start: "Inizia",
     start_prompt: "Tocca «Inizia» per iniziare.",
     type_answer: "Scrivi la tua risposta",
+    hint: "Aiuto",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -1237,6 +1243,7 @@ pt: {
     start: "Iniciar",
     start_prompt: "Toque no botão Iniciar.",
     type_answer: "Digite sua resposta",
+    hint: "Dica",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -1441,6 +1448,7 @@ ja: {
     start: "スタート",
     start_prompt: "「スタート」をタップしてください。",
     type_answer: "答えを入力してください",
+    hint: "ヒント",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -1642,6 +1650,7 @@ zh: {
     start: "开始",
     start_prompt: "请点击“开始”按钮。",
     type_answer: "请输入答案",
+    hint: "提示",
     start_screen_hint:"",
 
     /* 메뉴 */
@@ -1843,6 +1852,7 @@ ru: {
     start: "Начать",
     start_prompt: "Нажмите кнопку «Начать».",
     type_answer: "Введите ответ",
+    hint: "Подсказка",
     start_screen_hint:"",
 
     /* 메뉴 */

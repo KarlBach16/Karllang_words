@@ -216,6 +216,71 @@ function buildFirstLetterGhostHtmlForCram(full) {
   return html;
 }
 
+function buildTypingHintGhostHtml(full, revealCount) {
+  const parts = (full || "").split(" ");
+  let articleRevealCount = 0;
+  let wordRevealCount = revealCount;
+
+  if (parts.length >= 2 && revealCount > 0) {
+    articleRevealCount = 1;
+    wordRevealCount = Math.max(0, revealCount - 1);
+  }
+
+  function buildSegmentHtml(segment, segmentRevealCount) {
+    let html = "";
+    let revealed = 0;
+
+    for (const ch of Array.from(segment || "")) {
+      const isRevealed = revealed < segmentRevealCount;
+      revealed += 1;
+      html += isRevealed
+        ? `<span class="ghost-char">${escapeHtml(ch)}</span>`
+        : `<span class="ghost-char ghost-hidden">${escapeHtml(ch)}</span>`;
+    }
+
+    return html;
+  }
+
+  if (parts.length >= 2) {
+    const article = parts[0];
+    const word = parts.slice(1).join(" ");
+    return [
+      buildSegmentHtml(article, articleRevealCount),
+      buildTypingHintGhostHtml(word, wordRevealCount),
+    ].join(" ");
+  }
+
+  return buildSegmentHtml(full, wordRevealCount);
+}
+
+function getTypingHintTargetText(item) {
+  if (!item || !item.word) return "";
+
+  const text = buildGermanForm(item.word) || getPrimaryStudyText(item.word) || "";
+  return text
+    .split(",")
+    .map((part) => part.trim())
+    .filter(Boolean)[0] || "";
+}
+
+function getTypingHintMaxCount(text) {
+  const parts = (text || "").split(" ");
+  if (parts.length >= 2) {
+    const wordPart = parts.slice(1).join(" ");
+    const wordChars = Array.from(wordPart).filter(
+      (ch) => ch !== " " && ch !== "\u00A0",
+    );
+    if (!wordChars.length) return 1;
+    return 1 + Math.min(2, wordChars.length);
+  }
+
+  const chars = Array.from(text || "").filter(
+    (ch) => ch !== " " && ch !== "\u00A0",
+  );
+  if (!chars.length) return 0;
+  return Math.max(1, Math.ceil(chars.length * 0.4));
+}
+
 function getCurrentStudyLang() {
   return (SETTINGS.studyLang || "de").toLowerCase();
 }
@@ -370,6 +435,7 @@ let TRAINING_CRAM_REPEAT_INDEX = 0; // 현재 몇 회째인지 (0-based)
 let TRAINING_CRAM_GIVEUP_ARMED = false;
 let ANSWER_INPUT_COMPOSING = false;
 let ANSWER_INPUT_CLEAR_UNTIL = 0;
+let TYPING_HINT_COUNT = 0;
 const WORD_DROP_STATE = {
   active: false,
   pendingStart: false,
@@ -889,6 +955,7 @@ function cacheDOM() {
   DOM.copyGhost = document.getElementById("copyGhost");
   DOM.feedback = document.getElementById("feedback");
   DOM.systemToast = document.getElementById("systemToast");
+  DOM.hintBtn = document.getElementById("hintBtn");
   DOM.mainBtn = document.getElementById("mainBtn");
   DOM.skipBtn = document.getElementById("skipBtn");
   DOM.ratingArea = document.getElementById("ratingArea");
@@ -1410,6 +1477,7 @@ const I18N_KEYS = {
   "study.button.confirm": "confirm",
   "study.button.show_answer": "show_answer",
   "study.button.answer": "answer",
+  "study.button.hint": "hint",
 
   "study.feedback.correct": "correct",
   "study.feedback.incorrect": "incorrect",
@@ -1743,6 +1811,9 @@ function applyTranslations() {
   }
   if (DOM.skipBtn) {
     DOM.skipBtn.textContent = trKey("study.button.answer", "Answer");
+  }
+  if (DOM.hintBtn) {
+    DOM.hintBtn.textContent = trKey("study.button.hint", "Hint");
   }
 
   // 난이도 문구
@@ -3291,6 +3362,9 @@ function showReadyState() {
   if (DOM.copyGhost) {
     DOM.copyGhost.textContent = "";
   }
+  TYPING_HINT_COUNT = 0;
+  updateTypingHintUi();
+  updateRatingButtonsForHint(null);
 
   if (DOM.answerInput) {
     DOM.answerInput.value = "";
@@ -3696,32 +3770,7 @@ function showCramQuestion() {
 
   // 🔚 더 이상 훈련할 단어가 없으면 세션 종료
   if (!word) {
-    const cramTotal = TRAINING_CRAM_WORDS.length || TRAINING_CRAM_INDEX || 0;
-    const cramWrong = (APP_STATE.sessionWrongWords || []).length;
-    addTrainingSessionToDailySummary({
-      mode: "cram",
-      total: cramTotal,
-      correct: Math.max(0, cramTotal - cramWrong),
-      wrong: cramWrong,
-      words: APP_STATE.sessionWrongWords || [],
-    });
-    TRAINING_MODE_ACTIVE = false;
-    TRAINING_MODE_KIND = "none";
-    TRAINING_CRAM_WORDS = [];
-    TRAINING_CRAM_INDEX = 0;
-    TRAINING_CRAM_REPEAT_INDEX = 0;
-    TRAINING_CRAM_REPEAT_TOTAL = 3;
-
-    showReadyState();
-    showView("training");
-
-    if (DOM.trainingSummary) {
-      DOM.trainingSummary.style.color = "#16a34a";
-      DOM.trainingSummary.textContent = trKey(
-        "training_done_simple", // ✅ 키 수정 (training.done_simple → training_done_simple)
-        "훈련 세션이 종료되었습니다.",
-      );
-    }
+    completeCramTrainingSession();
     return;
   }
 
@@ -3971,6 +4020,56 @@ function scheduleAnswerInputAutoSubmitCheck() {
   setTimeout(checkAnswerInputAutoSubmit, 40);
 }
 
+function getTrainingAnalyticsParams(mode, extra = {}) {
+  return {
+    study_lang: SETTINGS.studyLang,
+    ui_lang: CURRENT_LANG,
+    training_mode: mode,
+    target_count: APP_STATE.totalTarget || 0,
+    ...extra,
+  };
+}
+
+function completeCramTrainingSession() {
+  const cramTotal = TRAINING_CRAM_WORDS.length || TRAINING_CRAM_INDEX || 0;
+  const cramWrong = (APP_STATE.sessionWrongWords || []).length;
+  const cramCorrect = Math.max(0, cramTotal - cramWrong);
+
+  addTrainingSessionToDailySummary({
+    mode: "cram",
+    total: cramTotal,
+    correct: cramCorrect,
+    wrong: cramWrong,
+    words: APP_STATE.sessionWrongWords || [],
+  });
+
+  logAnalyticsEvent("complete_training_session", {
+    ...getTrainingAnalyticsParams("cram"),
+    total_count: cramTotal,
+    correct_count: cramCorrect,
+    wrong_count: cramWrong,
+    repeat_count: TRAINING_CRAM_REPEAT_TOTAL || 3,
+  });
+
+  TRAINING_MODE_ACTIVE = false;
+  TRAINING_MODE_KIND = "none";
+  TRAINING_CRAM_WORDS = [];
+  TRAINING_CRAM_INDEX = 0;
+  TRAINING_CRAM_REPEAT_INDEX = 0;
+  TRAINING_CRAM_REPEAT_TOTAL = 3;
+
+  showReadyState();
+  showView("training");
+
+  if (DOM.trainingSummary) {
+    DOM.trainingSummary.style.color = "#16a34a";
+    DOM.trainingSummary.textContent = trKey(
+      "training.done_simple",
+      "훈련 세션이 종료되었습니다.",
+    );
+  }
+}
+
 function getPrimaryStudyText(word) {
   if (!word) return "";
 
@@ -3992,6 +4091,82 @@ function getPrimaryStudyText(word) {
   }
 
   return text.trim();
+}
+
+function isTypingHintAvailable() {
+  return (
+    SETTINGS.mode === "typing_de" &&
+    APP_STATE.phase === "QUESTION" &&
+    APP_STATE.currentCard &&
+    !TRAINING_MODE_ACTIVE &&
+    !WRONG_PRACTICE_ACTIVE
+  );
+}
+
+function updateTypingHintUi() {
+  const buttonGroup = DOM.mainBtn ? DOM.mainBtn.parentElement : null;
+  const available = isTypingHintAvailable();
+
+  if (buttonGroup) {
+    buttonGroup.classList.toggle("typing-hint-active", available);
+  }
+
+  if (DOM.hintBtn) {
+    DOM.hintBtn.style.display = available ? "inline-block" : "none";
+    DOM.hintBtn.textContent = trKey("study.button.hint", "Hint");
+
+    const target = available
+      ? getTypingHintTargetText(APP_STATE.currentCard)
+      : "";
+    const max = getTypingHintMaxCount(target);
+    const atLimit = available && max > 0 && TYPING_HINT_COUNT >= max;
+    DOM.hintBtn.disabled = !available || atLimit || max === 0;
+    DOM.hintBtn.classList.toggle("hint-limit", atLimit);
+  }
+
+  if (DOM.copyGhost && SETTINGS.mode === "typing_de") {
+    const target = available
+      ? getTypingHintTargetText(APP_STATE.currentCard)
+      : "";
+    if (available && TYPING_HINT_COUNT > 0 && target) {
+      DOM.copyGhost.innerHTML = buildTypingHintGhostHtml(
+        target,
+        TYPING_HINT_COUNT,
+      );
+    } else if (SETTINGS.mode !== "copy") {
+      DOM.copyGhost.textContent = "";
+    }
+  }
+}
+
+function handleTypingHint() {
+  if (!isTypingHintAvailable()) return;
+
+  const item = APP_STATE.currentCard;
+  const target = getTypingHintTargetText(item);
+  const max = getTypingHintMaxCount(target);
+  if (!target || max <= 0) return;
+
+  TYPING_HINT_COUNT = Math.min(max, TYPING_HINT_COUNT + 1);
+  item._typingHintUsed = true;
+  updateTypingHintUi();
+
+  if (DOM.answerInput) {
+    focusInputWithoutScroll(DOM.answerInput);
+  }
+}
+
+function updateRatingButtonsForHint(item) {
+  if (!DOM.ratingButtons) return;
+
+  const shouldDisableEasy =
+    item && item._typingHintUsed === true && SETTINGS.mode === "typing_de";
+
+  DOM.ratingButtons.forEach((btn) => {
+    const isEasy = btn.getAttribute("data-rating") === "easy";
+    btn.disabled = shouldDisableEasy && isEasy;
+    btn.classList.toggle("rating-disabled", shouldDisableEasy && isEasy);
+  });
 }
 
 function showNextQuestion() {
@@ -4029,6 +4204,8 @@ function showNextQuestion() {
 
     const item = APP_STATE.queue[0];
     APP_STATE.currentCard = item;
+    TYPING_HINT_COUNT = 0;
+    item._typingHintUsed = false;
 
     // 🔹 훈련소 모드 여부 (뷰 + 플래그 둘 다 체크)
     const isTrainingMode =
@@ -4142,7 +4319,7 @@ function showNextQuestion() {
         if (SETTINGS.mode === "copy") {
           DOM.answerInput.placeholder = "";
         } else {
-          DOM.answerInput.placeholder = pack.type_answer || "정답 입력";
+          DOM.answerInput.placeholder = "";
         }
         // 모바일에서 키보드 올라오면 화면 튀는 문제 방지:
         // copy 모드에서는 자동 포커스 제거 (타이핑만 자동 포커스)
@@ -4180,6 +4357,8 @@ function showNextQuestion() {
     if (DOM.ratingArea) {
       DOM.ratingArea.style.display = "none";
     }
+    updateRatingButtonsForHint(null);
+    updateTypingHintUi();
 
     updateProgressBar();
     updateStudyStartSummary();
@@ -4792,6 +4971,7 @@ function applyAnswerResult(isCorrect, item) {
   speakGerman(german);
 
   setPhase("ANSWER");
+  updateTypingHintUi();
 
   if (DOM.skipBtn) {
     DOM.skipBtn.style.display = "none";
@@ -4845,6 +5025,7 @@ function applyAnswerResult(isCorrect, item) {
     if (DOM.ratingArea) {
       DOM.ratingArea.style.display = "block";
     }
+    updateRatingButtonsForHint(item);
     // 메인 버튼은 숨김 (지금 구조 유지)
     if (DOM.mainBtn) {
       DOM.mainBtn.style.display = "none";
@@ -5556,22 +5737,7 @@ function advanceTrainingStep() {
 
     // 모든 단어 끝났으면 종료
     if (TRAINING_CRAM_INDEX >= words.length) {
-      TRAINING_MODE_ACTIVE = false;
-      TRAINING_MODE_KIND = "none";
-      TRAINING_CRAM_WORDS = [];
-      TRAINING_CRAM_INDEX = 0;
-      TRAINING_CRAM_REPEAT_INDEX = 0;
-      TRAINING_CRAM_REPEAT_TOTAL = 3;
-
-      showReadyState();
-      showView("training");
-      if (DOM.trainingSummary) {
-        DOM.trainingSummary.style.color = "#16a34a";
-        DOM.trainingSummary.textContent = trKey(
-          "training.done_simple",
-          "훈련 세션이 종료되었습니다.",
-        );
-      }
+      completeCramTrainingSession();
       return;
     }
 
@@ -5800,6 +5966,8 @@ function handleConfirm() {
     applyAnswerEffect(true);
 
     setPhase("ANSWER");
+    updateTypingHintUi();
+    updateRatingButtonsForHint(null);
     const isPracticeFlow = TRAINING_MODE_ACTIVE || WRONG_PRACTICE_ACTIVE;
     DOM.ratingArea.style.display = isPracticeFlow ? "none" : "block";
     DOM.mainBtn.style.display = isPracticeFlow ? "inline-block" : "none";
@@ -5897,6 +6065,15 @@ function handleRating(rating) {
 
   const item = APP_STATE.currentCard;
   if (!item) return;
+
+  if (
+    rating === "easy" &&
+    SETTINGS.mode === "typing_de" &&
+    item._typingHintUsed === true
+  ) {
+    updateRatingButtonsForHint(item);
+    return;
+  }
 
   if (typeof triggerHaptic === "function") {
     triggerHaptic("light");
@@ -6544,6 +6721,14 @@ function endWordDrop() {
     wrong: WORD_DROP_STATE.missedCount || 0,
     words: WORD_DROP_STATE.mistakeWords || [],
   });
+  logAnalyticsEvent("complete_training_session", {
+    ...getTrainingAnalyticsParams("word_drop", {
+      target_count: WORD_DROP_STATE.targetCount || 0,
+    }),
+    total_count: WORD_DROP_STATE.completedCount || 0,
+    correct_count: WORD_DROP_STATE.correctCount || 0,
+    wrong_count: WORD_DROP_STATE.missedCount || 0,
+  });
 
   if (DOM.wordDropWord) {
     DOM.wordDropWord.textContent = "";
@@ -6614,6 +6799,12 @@ function startWordDrop() {
   WORD_DROP_STATE.recentIds = [];
   WORD_DROP_STATE.mistakeWords = [];
   WORD_DROP_STATE.pools = pools;
+
+  logAnalyticsEvent("start_training_session", {
+    ...getTrainingAnalyticsParams("word_drop", {
+      target_count: WORD_DROP_STATE.targetCount || 0,
+    }),
+  });
 
   if (DOM.wordDropGameOver) {
     DOM.wordDropGameOver.style.display = "none";
@@ -6852,6 +7043,13 @@ function handleTrainingStart() {
   APP_STATE.newCount = 0;
   APP_STATE.reviewCount = 0;
   APP_STATE.sessionWrongWords = [];
+
+  logAnalyticsEvent("start_training_session", {
+    ...getTrainingAnalyticsParams("cram", {
+      target_count: words.length,
+    }),
+    repeat_count: TRAINING_CRAM_REPEAT_TOTAL,
+  });
 
   if (DOM.trainingSummary) {
     DOM.trainingSummary.style.color = "#6b7280";
@@ -8567,6 +8765,7 @@ function attachEvents() {
     DOM.wordHubSearch.addEventListener("click", () => showView("search"));
 
   if (DOM.mainBtn) DOM.mainBtn.addEventListener("click", handleConfirm);
+  if (DOM.hintBtn) DOM.hintBtn.addEventListener("click", handleTypingHint);
   if (DOM.skipBtn) DOM.skipBtn.addEventListener("click", handleSkip);
   if (DOM.trainingStartBtn) {
     DOM.trainingStartBtn.addEventListener("click", handleTrainingStart);

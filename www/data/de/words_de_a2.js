@@ -13763,6 +13763,36 @@ const WORDS_DE_A2 = [
     ]
   },
   {
+    "id": "sehenswuerdigkeit_nf_1",
+    "lang": "de",
+    "lemma": "Sehenswürdigkeit",
+    "pos": "Nomen",
+    "article": "die",
+    "gender": "feminine",
+    "plural": "Sehenswürdigkeiten",
+    "cefr": "A2",
+    "tags": [
+      "exam",
+      "travel",
+      "culture"
+    ],
+    "meanings": {
+      "de": "die Sehenswürdigkeit",
+      "ko": "명소",
+      "en": "sight",
+      "es": "la atracción turística",
+      "fr": "la curiosité",
+      "it": "l'attrazione",
+      "pt": "o ponto turístico",
+      "ja": "名所",
+      "zh": "名胜",
+      "ru": "достопримечательность"
+    },
+    "examples": [
+      "Welche Sehenswürdigkeiten gibt es in Berlin?"
+    ]
+  },
+  {
     "id": "seife_nf_1",
     "lang": "de",
     "lemma": "Seife",
