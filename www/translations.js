@@ -20,7 +20,7 @@ start_screen_hint: "",
     /* 메뉴 */
     menu_user: "홈",
     menu_study: "학습",
-    menu_training: "훈련소",
+    menu_training: "훈련",
     menu_mistakes: "틀린 단어",
     menu_bookmark: "북마크",
     menu_search: "단어 검색",
@@ -33,7 +33,7 @@ start_screen_hint: "",
     word_hub_search: "검색",
 
             /* 훈련소 */
-    training_title: "훈련소",
+    training_title: "훈련",
     training_desc: "틀린 단어 · 어려운 단어 · 북마크 단어를 한 곳에 모아서 집중 훈련합니다.",
     training_target_label: "훈련 대상",
     training_source_mistakes: "틀린 단어",
@@ -426,8 +426,8 @@ de: {
 
     /* 메뉴 */
     menu_user: "Startseite",
-    menu_study: "Üben",
-    menu_training: "Wiederholen",
+    menu_study: "Lernen",
+    menu_training: "Üben",
     menu_mistakes: "Schwierige Wörter",
     menu_bookmark: "Lesezeichen",
     menu_search: "Wörtersuche",
@@ -440,7 +440,7 @@ de: {
     word_hub_search: "Suche",
 
             /* Training */
-    training_title: "Wiederholen",
+    training_title: "Üben",
     training_desc: "Trainiere falsch beantwortete, schwierige und gemerkte Wörter gezielt an einem Ort.",
     training_target_label: "Trainingsziel",
     training_source_mistakes: "Falsche Antworten",
@@ -633,12 +633,12 @@ es: {
     /* 메뉴 */
     menu_user: "Inicio",
     menu_study: "Estudio",
-    menu_training: "Entrenamiento",
+    menu_training: "Práctica",
     menu_mistakes: "Palabras difíciles",
     menu_bookmark: "Marcadores",
     menu_search: "Búsqueda de palabras",
     menu_settings: "Ajustes",
-    bottom_training: "Entrenar",
+    bottom_training: "Práctica",
     bottom_words: "Palabras",
     word_hub_title: "Palabras",
     word_hub_mistakes: "Palabras difíciles",
@@ -646,7 +646,7 @@ es: {
     word_hub_search: "Buscar",
     
             /* Entrenamiento */
-    training_title: "Entrenamiento",
+    training_title: "Práctica",
     training_desc: "Entrena en un solo modo tus palabras falladas, difíciles y marcadas.",
     training_target_label: "Objetivos de entrenamiento",
     training_source_mistakes: "Respuestas incorrectas",
@@ -841,12 +841,12 @@ fr: {
     /* 메뉴 */
     menu_user: "Accueil",
     menu_study: "Étude",
-    menu_training: "Entraînement",
+    menu_training: "Exercice",
     menu_mistakes: "Mots difficiles",
     menu_bookmark: "Favoris",
     menu_search: "Recherche de mots",
     menu_settings: "Paramètres",
-    bottom_training: "Exercer",
+    bottom_training: "Exercice",
     bottom_words: "Mots",
     word_hub_title: "Mots",
     word_hub_mistakes: "Mots difficiles",
@@ -854,7 +854,7 @@ fr: {
     word_hub_search: "Recherche",
     
             /* Entraînement */
-    training_title: "Entraînement",
+    training_title: "Exercice",
     training_desc: "Entraîne au même endroit tes mots faux, difficiles et favoris.",
     training_target_label: "Cible d’entraînement",
     training_source_mistakes: "Réponses fausses",
@@ -1045,12 +1045,12 @@ it: {
     /* 메뉴 */
     menu_user: "Home",
     menu_study: "Studio",
-    menu_training: "Allenamento",
+    menu_training: "Pratica",
     menu_mistakes: "Parole difficili",
     menu_bookmark: "Preferiti",
     menu_search: "Ricerca parole",
     menu_settings: "Impostazioni",
-    bottom_training: "Allena",
+    bottom_training: "Pratica",
     bottom_words: "Parole",
     word_hub_title: "Parole",
     word_hub_mistakes: "Parole difficili",
@@ -1058,7 +1058,7 @@ it: {
     word_hub_search: "Cerca",
 
             /* Allenamento */
-    training_title: "Allenamento",
+    training_title: "Pratica",
     training_desc: "Allena in un’unica modalità le parole sbagliate, difficili e preferite.",
     training_target_label: "Obiettivi di allenamento",
     training_source_mistakes: "Risposte sbagliate",
@@ -1454,7 +1454,7 @@ ja: {
     /* 메뉴 */
     menu_user: "ホーム",
     menu_study: "学習",
-    menu_training: "トレーニング",
+    menu_training: "練習",
     menu_mistakes: "難しい単語",
     menu_bookmark: "ブックマーク",
     menu_search: "単語検索",
@@ -1467,7 +1467,7 @@ ja: {
     word_hub_search: "検索",
 
             /* トレーニング */
-    training_title: "トレーニング",
+    training_title: "練習",
     training_desc: "間違えた単語・難しい単語・ブックマークした単語をまとめて集中的に練習します。",
     training_target_label: "トレーニング対象",
     training_source_mistakes: "間違えた単語",
@@ -1858,12 +1858,12 @@ ru: {
     /* 메뉴 */
     menu_user: "Главная",
     menu_study: "Обучение",
-    menu_training: "Тренировка",
+    menu_training: "Практика",
     menu_mistakes: "Сложные слова",
     menu_bookmark: "Избранное",
     menu_search: "Поиск слов",
     menu_settings: "Настройки",
-    bottom_training: "Трен.",
+    bottom_training: "Практика",
     bottom_words: "Слова",
     word_hub_title: "Слова",
     word_hub_mistakes: "Сложные слова",
@@ -1871,7 +1871,7 @@ ru: {
     word_hub_search: "Поиск",
 
             /* Тренировка */
-    training_title: "Тренировка",
+    training_title: "Практика",
     training_desc: "Здесь ты целенаправленно тренируешь сложные, ошибочные и избранные слова.",
     training_target_label: "Цель тренировки",
     training_source_mistakes: "Неправильные ответы",
