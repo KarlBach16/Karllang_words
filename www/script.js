@@ -3160,11 +3160,29 @@ function getStudyReminderTimeParts() {
   return { hour, minute, time };
 }
 
+function getSystemNotificationLang() {
+  const raw =
+    (navigator.languages && navigator.languages[0]) ||
+    navigator.language ||
+    "en";
+  const base = raw.toString().split("-")[0].toLowerCase();
+  return TRANSLATIONS && TRANSLATIONS[base] ? base : "en";
+}
+
+function getReminderTranslation(key, fallback) {
+  const lang = getSystemNotificationLang();
+  const pack = (TRANSLATIONS && TRANSLATIONS[lang]) || TRANSLATIONS.en || {};
+  return pack[key] || fallback;
+}
+
 function getStudyReminderNotificationText() {
   return {
-    title: trKey("settings.reminder.notification_title", "KarlLang"),
-    body: trKey(
-      "settings.reminder.notification_body",
+    title: getReminderTranslation(
+      "study_reminder_notification_title",
+      "KarlLang",
+    ),
+    body: getReminderTranslation(
+      "study_reminder_notification_body",
       "기억은 생각보다 빨리 흐려져요. 오늘 배운 단어를 한 번만 다시 떠올려보세요.",
     ),
   };
