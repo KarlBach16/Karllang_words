@@ -157,6 +157,7 @@ const STORAGE_KEYS = {
   WORD_STATS: "karllang_word_stats_v4", // ✅ 언어별 북마크/틀린단어용 새 버전
   DAILY_SUMMARY: "karllang_daily_summary_v1",
   ATTENDANCE: "karllang_attendance_v1",
+  STUDY_WORD_SET: "karllang_study_word_set_v1",
   USER_DATA_SCHEMA: "karllang_user_data_schema_v1",
 };
 
@@ -2767,20 +2768,20 @@ function buildQueue() {
     .toString()
     .toLowerCase();
 
-  // ✅ 오늘 + 같은 필터이면, 지난 세트 재사용 시도
+  // 단어셋은 사용자가 "새 단어 세트" 버튼을 누르기 전까지 유지한다.
   const studyLang = SETTINGS.studyLang || "de";
   const filterKey = `${studyLang}|${cefrFilter}|${catFilter}`;
+  const storedStudySet = loadStudyWordSet();
+  const cachedIds =
+    LAST_STUDY_WORD_IDS && LAST_STUDY_WORD_IDS.length > 0
+      ? LAST_STUDY_WORD_IDS
+      : storedStudySet.ids;
 
   if (
-    // 훈련소(cram/훈련 모드) 아닐 때만 재사용
     !TRAINING_MODE_ACTIVE &&
-    LAST_STUDY_WORD_IDS &&
-    LAST_STUDY_WORD_IDS.length > 0 &&
-    LAST_STUDY_META &&
-    LAST_STUDY_META.day === today &&
-    LAST_STUDY_META.filterKey === filterKey
+    cachedIds &&
+    cachedIds.length > 0
   ) {
-    // 🔁 지난 세트 기반으로 큐 재구성
     const byId = {};
     allWords.forEach((w) => {
       if (!w || typeof w.id === "undefined") return;
@@ -2788,7 +2789,7 @@ function buildQueue() {
     });
 
     const queue = [];
-    LAST_STUDY_WORD_IDS.forEach((id) => {
+    cachedIds.forEach((id) => {
       const w = byId[id];
       if (!w) return;
       const st = getWordState(w);
@@ -2799,14 +2800,23 @@ function buildQueue() {
       });
     });
 
-    APP_STATE.queue = queue;
-    APP_STATE.totalTarget = queue.length;
-    APP_STATE.completed = 0;
-    APP_STATE.newCount = 0;
-    APP_STATE.reviewCount = 0;
-    resetSessionReport();
+    if (queue.length > 0) {
+      APP_STATE.queue = queue;
+      APP_STATE.totalTarget = queue.length;
+      APP_STATE.completed = 0;
+      APP_STATE.newCount = 0;
+      APP_STATE.reviewCount = 0;
+      resetSessionReport();
+      LAST_STUDY_WORD_IDS = queue.map((item) => String(item.word.id));
+      LAST_STUDY_META = {
+        day: storedStudySet.day || today,
+        filterKey: storedStudySet.filterKey || filterKey,
+      };
 
-    return; // 🔚 여기서 끝. 아래 SRS 새 뽑기 로직은 건너뜀
+      return;
+    }
+
+    clearStudyWordSetCache();
   }
 
   // 3) 필터링 (기존 로직 그대로)
@@ -2892,17 +2902,45 @@ function buildQueue() {
   APP_STATE.reviewCount = 0;
   resetSessionReport();
 
-  // ✅ 오늘 세션 세트 저장 (모드 공유용)
   LAST_STUDY_WORD_IDS = queue.map((item) => String(item.word.id));
   LAST_STUDY_META = {
     day: today,
     filterKey: filterKey,
   };
+  saveStudyWordSet(LAST_STUDY_WORD_IDS, LAST_STUDY_META);
+}
+
+function loadStudyWordSet() {
+  const parsed = parseStoredJson(safeGet(STORAGE_KEYS.STUDY_WORD_SET), null);
+  if (!parsed || !Array.isArray(parsed.ids)) {
+    return { ids: [], day: null, filterKey: null };
+  }
+  return {
+    ids: parsed.ids.map((id) => String(id)).filter(Boolean),
+    day: parsed.day || null,
+    filterKey: parsed.filterKey || null,
+  };
+}
+
+function saveStudyWordSet(ids, meta = {}) {
+  safeSet(
+    STORAGE_KEYS.STUDY_WORD_SET,
+    JSON.stringify({
+      ids: (ids || []).map((id) => String(id)).filter(Boolean),
+      day: meta.day || nowDay(),
+      filterKey: meta.filterKey || null,
+    }),
+  );
 }
 
 function clearStudyWordSetCache() {
   LAST_STUDY_WORD_IDS = [];
   LAST_STUDY_META = { day: null, filterKey: null };
+  try {
+    window.localStorage.removeItem(STORAGE_KEYS.STUDY_WORD_SET);
+  } catch {
+    // ignore
+  }
 }
 
 /* ============================================
@@ -3339,6 +3377,31 @@ function resetSessionReport() {
   APP_STATE.sessionWrongWords = [];
 }
 
+function clearStudyCardForReady() {
+  if (DOM.endStatsArea) {
+    DOM.endStatsArea.style.display = "none";
+  }
+  if (DOM.questionDisplay) {
+    DOM.questionDisplay.textContent = "";
+    DOM.questionDisplay.classList.remove("changing");
+  }
+  if (DOM.hintDisplay) {
+    DOM.hintDisplay.textContent = "";
+    DOM.hintDisplay.classList.remove("changing");
+  }
+  if (DOM.feedback) DOM.feedback.textContent = "";
+  if (DOM.copyGhost) DOM.copyGhost.textContent = "";
+  if (DOM.inputArea) DOM.inputArea.style.display = "none";
+  if (DOM.answerInput) {
+    DOM.answerInput.value = "";
+    DOM.answerInput.disabled = true;
+    DOM.answerInput.placeholder = "";
+  }
+  if (DOM.skipBtn) DOM.skipBtn.style.display = "none";
+  if (DOM.ratingArea) DOM.ratingArea.style.display = "none";
+  if (DOM.masteryMainBtn) DOM.masteryMainBtn.style.display = "none";
+}
+
 function showReadyState() {
   setPhase("READY");
   restoreWrongPracticeMode();
@@ -3349,13 +3412,11 @@ function showReadyState() {
   APP_STATE.newCount = 0;
   APP_STATE.reviewCount = 0;
   resetSessionReport();
+  clearStudyCardForReady();
 
   if (DOM.mainCard) {
     DOM.mainCard.style.display = "block";
     DOM.mainCard.classList.remove("card-correct", "card-wrong");
-  }
-  if (DOM.endStatsArea) {
-    DOM.endStatsArea.style.display = "none";
   }
   closeShareCardModal();
   const pack = t() || {};
@@ -3364,41 +3425,20 @@ function showReadyState() {
   const badgeEl = document.getElementById("cardLevelBadge");
   if (badgeEl) {
     badgeEl.style.display = "none";
-    badgeEl.textContent = ""; // 내용도 싹 비워버림 (확실하게)
+    badgeEl.textContent = "";
   }
   if (DOM.questionDisplay) {
-    fadeSwapText(
-      DOM.questionDisplay,
-      pack.start_prompt || "시작 버튼을 누르세요.",
-    );
-  }
-  if (DOM.hintDisplay) {
-    fadeSwapText(DOM.hintDisplay, "");
-  }
-  if (DOM.feedback) DOM.feedback.textContent = "";
-
-  if (DOM.copyGhost) {
-    DOM.copyGhost.textContent = "";
+    DOM.questionDisplay.textContent =
+      pack.start_prompt || "시작 버튼을 누르세요.";
+    DOM.questionDisplay.classList.remove("changing");
   }
   TYPING_HINT_COUNT = 0;
   updateTypingHintUi();
   updateRatingButtonsForHint(null);
 
-  if (DOM.answerInput) {
-    DOM.answerInput.value = "";
-    DOM.answerInput.disabled = true;
-    DOM.answerInput.placeholder = "";
-  }
-  if (DOM.inputArea) {
-    DOM.inputArea.style.display = "none";
-  }
-
   if (DOM.mainBtn) {
     DOM.mainBtn.style.display = "inline-block";
     DOM.mainBtn.textContent = pack.start || "시작";
-  }
-  if (DOM.skipBtn) {
-    DOM.skipBtn.style.display = "none";
   }
   if (DOM.masteryMainBtn) {
     DOM.masteryMainBtn.style.display = "none";
@@ -4350,7 +4390,10 @@ function showNextQuestion() {
 
       if (DOM.mainBtn) {
         const pack2 = t() || {};
-        DOM.mainBtn.style.display = "inline-block";
+        const shouldShowConfirm =
+          SETTINGS.mode !== "copy" ||
+          (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram");
+        DOM.mainBtn.style.display = shouldShowConfirm ? "inline-block" : "none";
         DOM.mainBtn.textContent = pack2.confirm || "확인";
       }
 
@@ -5988,8 +6031,10 @@ function handleConfirm() {
     updateRatingButtonsForHint(null);
     const isPracticeFlow = TRAINING_MODE_ACTIVE || WRONG_PRACTICE_ACTIVE;
     DOM.ratingArea.style.display = isPracticeFlow ? "none" : "block";
-    DOM.mainBtn.style.display = isPracticeFlow ? "inline-block" : "none";
-    if (isPracticeFlow) {
+    const shouldShowPracticeNext =
+      TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram";
+    DOM.mainBtn.style.display = shouldShowPracticeNext ? "inline-block" : "none";
+    if (shouldShowPracticeNext) {
       DOM.mainBtn.textContent = pack.next || "다음";
     }
     DOM.skipBtn.style.display = "none";
@@ -7829,7 +7874,6 @@ function finishWrongPractice() {
   const returnView = WRONG_PRACTICE_RETURN_VIEW || "study";
   WRONG_PRACTICE_RETURN_VIEW = "study";
   restoreWrongPracticeMode();
-  clearStudyWordSetCache();
 
   if (returnView === "study") {
     showView("study");
@@ -8414,7 +8458,6 @@ function updateBottomNavActive(view) {
 }
 
 function goToStudyFromNav() {
-  const prevView = APP_STATE.currentView;
   stopWordDrop();
 
   TRAINING_MODE_ACTIVE = false;
@@ -8427,10 +8470,6 @@ function goToStudyFromNav() {
   TRAINING_CRAM_INDEX = 0;
   TRAINING_CRAM_REPEAT_INDEX = 0;
   TRAINING_CRAM_REPEAT_TOTAL = 3;
-
-  if (prevView !== "user") {
-    clearStudyWordSetCache();
-  }
 
   showView("study");
   showReadyState();
@@ -8930,9 +8969,6 @@ function attachEvents() {
       saveSettings();
       updateStudyStartSummary();
 
-      // 🔹 판 갈아엎는 행위 → 세트 리셋
-      clearStudyWordSetCache();
-
       if (APP_STATE.phase !== "READY") {
         showReadyState();
       }
@@ -8947,9 +8983,6 @@ function attachEvents() {
       saveSettings();
       updateStudyStartSummary();
 
-      // 🔹 마찬가지로 세트 리셋
-      clearStudyWordSetCache();
-
       if (APP_STATE.phase !== "READY") {
         showReadyState();
       }
@@ -8963,9 +8996,6 @@ function attachEvents() {
       updateCefrProgress();
       updateStudyStartSummary();
 
-      // 🔹 다른 레벨 공부하겠다는 뜻 → 세트 리셋
-      clearStudyWordSetCache();
-
       if (APP_STATE.phase !== "READY") {
         showReadyState();
       }
@@ -8977,9 +9007,6 @@ function attachEvents() {
       SETTINGS.newWordCategory = DOM.newWordCategorySelect.value || "all";
       saveSettings();
       updateStudyStartSummary();
-
-      // 🔹 다른 카테고리 → 세트 리셋
-      clearStudyWordSetCache();
 
       if (APP_STATE.phase !== "READY") {
         showReadyState();
