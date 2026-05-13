@@ -6032,7 +6032,8 @@ function handleConfirm() {
     const isPracticeFlow = TRAINING_MODE_ACTIVE || WRONG_PRACTICE_ACTIVE;
     DOM.ratingArea.style.display = isPracticeFlow ? "none" : "block";
     const shouldShowPracticeNext =
-      TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram";
+      WRONG_PRACTICE_ACTIVE ||
+      (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram");
     DOM.mainBtn.style.display = shouldShowPracticeNext ? "inline-block" : "none";
     if (shouldShowPracticeNext) {
       DOM.mainBtn.textContent = pack.next || "다음";
