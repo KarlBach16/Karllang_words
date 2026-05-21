@@ -23,24 +23,25 @@ This refactor is intentionally conservative:
 6. `js/core/storage.js`
 7. `js/core/analytics.js`
 8. `js/app/runtime-chrome.js`
-9. `js/features/answer-effects.js`
-10. `js/features/cram.js`
-11. `js/features/review.js`
-12. `js/features/typing-hint.js`
-13. `js/features/answer-autosubmit.js`
-14. `js/features/tts.js`
-15. `js/features/study-ready.js`
-16. `js/features/session-end.js`
-17. `js/features/training-start.js`
-18. `js/features/cefr-progress.js`
-19. `js/features/study-progress.js`
-20. `js/study/word-set-cache.js`
-21. `js/study/srs.js`
-22. `js/study/word-stats.js`
-23. `js/study/reset.js`
-24. `js/app/navigation.js`
-25. feature files
-26. `script.js`
+9. `js/study/display.js`
+10. `js/features/answer-effects.js`
+11. `js/features/cram.js`
+12. `js/features/review.js`
+13. `js/features/typing-hint.js`
+14. `js/features/answer-autosubmit.js`
+15. `js/features/tts.js`
+16. `js/features/study-ready.js`
+17. `js/features/session-end.js`
+18. `js/features/training-start.js`
+19. `js/features/cefr-progress.js`
+20. `js/features/study-progress.js`
+21. `js/study/word-set-cache.js`
+22. `js/study/srs.js`
+23. `js/study/word-stats.js`
+24. `js/study/reset.js`
+25. `js/app/navigation.js`
+26. feature files
+27. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -121,6 +122,10 @@ Moved so far:
   - `getSessionAnalyticsParams`
   - `getTabAnalyticsName`
   - `logLanguageChange`
+- `www/js/study/display.js`
+  - `getDisplayWordSide`
+  - `getTrainingAnalyticsParams`
+  - `getPrimaryStudyText`
 
 ### Step 3: Feature slices
 
