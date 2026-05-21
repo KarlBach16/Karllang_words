@@ -33,12 +33,13 @@ This refactor is intentionally conservative:
 16. `js/features/session-end.js`
 17. `js/features/training-start.js`
 18. `js/features/cefr-progress.js`
-19. `js/study/word-set-cache.js`
-20. `js/study/srs.js`
-21. `js/study/word-stats.js`
-22. `js/app/navigation.js`
-23. feature files
-24. `script.js`
+19. `js/features/study-progress.js`
+20. `js/study/word-set-cache.js`
+21. `js/study/srs.js`
+22. `js/study/word-stats.js`
+23. `js/app/navigation.js`
+24. feature files
+25. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -211,6 +212,10 @@ Moved so far:
   - `getCefrDisplayLabel`
   - `refreshCefrRowLabels`
   - `updateCefrProgress`
+- `www/js/features/study-progress.js`
+  - `fadeSwapText`
+  - `formatProgressText`
+  - `updateProgressBar`
 - `www/js/study/word-set-cache.js`
   - `LAST_STUDY_WORD_IDS`
   - `LAST_STUDY_META`
