@@ -31,9 +31,10 @@ This refactor is intentionally conservative:
 14. `js/features/tts.js`
 15. `js/features/study-ready.js`
 16. `js/features/session-end.js`
-17. `js/app/navigation.js`
-18. feature files
-19. `script.js`
+17. `js/features/training-start.js`
+18. `js/app/navigation.js`
+19. feature files
+20. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -128,6 +129,7 @@ Target files:
 - `www/js/features/tts.js`
 - `www/js/features/study-ready.js`
 - `www/js/features/session-end.js`
+- `www/js/features/training-start.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -197,6 +199,9 @@ Moved so far:
 - `www/js/features/session-end.js`
   - `getSessionReportWordLabel`
   - `showEndStats`
+- `www/js/features/training-start.js`
+  - `handleTrainingStart`
+  - `belongsToCurrentStudyLang`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
