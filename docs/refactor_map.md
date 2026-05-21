@@ -123,6 +123,25 @@ until a later state cleanup pass.
 
 Moved so far:
 
+- `www/js/features/share-card.js`
+  - `SHARE_CARD_CACHE`
+  - `NativeImageSaver`
+  - `getShareStudyLangLabel`
+  - `getShareModeLabel`
+  - `getTopShareModes`
+  - `getShareCardData`
+  - `drawShareText`
+  - `createShareCardDataUrl`
+  - `roundRectPath`
+  - `drawShareStat`
+  - `prepareShareCard`
+  - `openShareCardModal`
+  - `closeShareCardModal`
+  - `canUseNativeImageSaver`
+  - `saveShareCardImageNative`
+  - `downloadShareCardImage`
+  - `dataUrlToBlob`
+  - `shareCardImage`
 - `www/js/features/worddrop.js`
   - `WORD_DROP_STATE`
   - `WORD_DROP_BASE_SPEED`
