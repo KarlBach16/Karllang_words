@@ -18,37 +18,39 @@ This refactor is intentionally conservative:
 1. `category_meta.js`
 2. `translations.js`
 3. word data files
-4. `lang_config.js`
-5. `js/core/utils.js`
-6. `js/core/storage.js`
-7. `js/core/analytics.js`
-8. `js/app/ui-labels.js`
-9. `js/app/runtime-chrome.js`
-10. `js/study/word-text.js`
-11. `js/study/pos-labels.js`
-12. `js/study/display.js`
-13. `js/features/answer-effects.js`
-14. `js/features/cram.js`
-15. `js/features/review.js`
-16. `js/features/typing-hint.js`
-17. `js/features/answer-autosubmit.js`
-18. `js/features/tts.js`
-19. `js/features/study-ready.js`
-20. `js/features/session-end.js`
-21. `js/features/training-settings.js`
-22. `js/features/training-start.js`
-23. `js/features/cefr-progress.js`
-24. `js/features/study-progress.js`
-25. `js/study/word-set-cache.js`
-26. `js/study/srs.js`
-27. `js/study/word-stats.js`
-28. `js/study/reset.js`
-29. `js/app/navigation.js`
-30. feature files
-31. `script.js`
+4. `js/study/word-source.js`
+5. `lang_config.js`
+6. `js/core/utils.js`
+7. `js/core/storage.js`
+8. `js/core/analytics.js`
+9. `js/app/ui-labels.js`
+10. `js/app/runtime-chrome.js`
+11. `js/study/word-text.js`
+12. `js/study/pos-labels.js`
+13. `js/study/display.js`
+14. `js/features/answer-effects.js`
+15. `js/features/cram.js`
+16. `js/features/review.js`
+17. `js/features/typing-hint.js`
+18. `js/features/answer-autosubmit.js`
+19. `js/features/tts.js`
+20. `js/features/study-ready.js`
+21. `js/features/session-end.js`
+22. `js/features/training-settings.js`
+23. `js/features/training-start.js`
+24. `js/features/cefr-progress.js`
+25. `js/features/study-progress.js`
+26. `js/study/word-set-cache.js`
+27. `js/study/srs.js`
+28. `js/study/word-stats.js`
+29. `js/study/reset.js`
+30. `js/app/navigation.js`
+31. feature files
+32. `script.js`
 
-Initial extraction should insert classic scripts between `lang_config.js` and
-`script.js`, so existing data globals remain available.
+Most extracted classic scripts load between `lang_config.js` and `script.js`.
+`js/study/word-source.js` is the exception: it loads immediately after the word
+data files because it builds the aggregate `ALL_WORDS_*` globals from them.
 
 ## Current `script.js` Map
 
@@ -131,6 +133,10 @@ Moved so far:
   - `getUiLangLabel`
   - `getFeedbackButtonLabel`
   - `refreshUiLangSelectLabels`
+- `www/js/study/word-source.js`
+  - `WORDS_*_SAFE`
+  - `ALL_WORDS_*`
+  - `getAllWords`
 - `www/js/study/word-text.js`
   - `LEGACY_ARTICLE_TO_GENDER`
   - `getWordArticle`
