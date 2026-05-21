@@ -163,6 +163,15 @@ Moved so far:
   - `updateStudyReminderToggle`
   - `setStudyReminderEnabled`
   - `ensureStudyReminderSchedule`
+- `www/js/features/wordbook.js`
+  - `formatHardCountLabel`
+  - `formatWrongLabel`
+  - `createWordListItem`
+  - `renderMistakes`
+  - `renderBookmarks`
+  - `renderWordbookIfNeeded`
+  - `handleSearch`
+  - `clearSearchView`
 - `www/js/features/worddrop.js`
   - `WORD_DROP_STATE`
   - `WORD_DROP_BASE_SPEED`
