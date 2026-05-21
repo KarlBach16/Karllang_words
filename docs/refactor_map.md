@@ -24,25 +24,26 @@ This refactor is intentionally conservative:
 7. `js/core/analytics.js`
 8. `js/app/runtime-chrome.js`
 9. `js/study/word-text.js`
-10. `js/study/display.js`
-11. `js/features/answer-effects.js`
-12. `js/features/cram.js`
-13. `js/features/review.js`
-14. `js/features/typing-hint.js`
-15. `js/features/answer-autosubmit.js`
-16. `js/features/tts.js`
-17. `js/features/study-ready.js`
-18. `js/features/session-end.js`
-19. `js/features/training-start.js`
-20. `js/features/cefr-progress.js`
-21. `js/features/study-progress.js`
-22. `js/study/word-set-cache.js`
-23. `js/study/srs.js`
-24. `js/study/word-stats.js`
-25. `js/study/reset.js`
-26. `js/app/navigation.js`
-27. feature files
-28. `script.js`
+10. `js/study/pos-labels.js`
+11. `js/study/display.js`
+12. `js/features/answer-effects.js`
+13. `js/features/cram.js`
+14. `js/features/review.js`
+15. `js/features/typing-hint.js`
+16. `js/features/answer-autosubmit.js`
+17. `js/features/tts.js`
+18. `js/features/study-ready.js`
+19. `js/features/session-end.js`
+20. `js/features/training-start.js`
+21. `js/features/cefr-progress.js`
+22. `js/features/study-progress.js`
+23. `js/study/word-set-cache.js`
+24. `js/study/srs.js`
+25. `js/study/word-stats.js`
+26. `js/study/reset.js`
+27. `js/app/navigation.js`
+28. feature files
+29. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -136,6 +137,12 @@ Moved so far:
   - `hasHangul`
   - `hasCyrillic`
   - `getStudyReadingValue`
+- `www/js/study/pos-labels.js`
+  - `normalizePosKey`
+  - `getPosLabelForLang`
+  - `getPosWithMeaning`
+  - `CONJ_LABELS`
+  - `getConjLabel`
 - `www/js/study/display.js`
   - `getDisplayWordSide`
   - `getTrainingAnalyticsParams`
