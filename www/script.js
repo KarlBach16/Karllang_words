@@ -3019,53 +3019,6 @@ function showNextQuestion() {
    ========== 7. ANSWER / RATING / TTS =========
    ============================================ */
 
-// ✅ 특정 단어를 "문제 단어 + 북마크"에서 졸업시키는 헬퍼
-//    - options.keepBookmark === true 이면 북마크는 유지
-function markWordMastered(wordId, options = {}) {
-  const id = String(wordId);
-  const keepBookmark = options.keepBookmark === true;
-
-  setWordStatsById(id, (s) => ({
-    ...s,
-    hardCount: 0,
-    wrongAttempts: 0,
-    lastWrongAt: 0,
-    lastHardAt: 0,
-    // 자동 졸업(깜지)에서는 북마크를 유지할 수 있도록 분기
-    bookmarked: keepBookmark ? s.bookmarked : false,
-  }));
-
-  // 뷰 갱신
-  if (APP_STATE.currentView === "mistakes") {
-    renderMistakes();
-  } else if (!keepBookmark && APP_STATE.currentView === "bookmark") {
-    // keepBookmark=true면 북마크 목록에서는 그대로 보여야 하니까
-    renderBookmarks();
-  }
-}
-
-function toggleBookmark(wordId) {
-  const stats = setWordStatsById(wordId, (s) => ({
-    ...s,
-    bookmarked: !s.bookmarked,
-  }));
-
-  const btn = document.getElementById("bookmarkToggle");
-  if (btn) {
-    btn.textContent = stats.bookmarked ? "★" : "☆";
-  }
-  const btnCopy = document.getElementById("copyBookmarkBtn");
-  if (btnCopy) {
-    btnCopy.textContent = stats.bookmarked ? "★" : "☆";
-  }
-
-  if (APP_STATE.currentView === "mistakes") {
-    renderMistakes();
-  } else if (APP_STATE.currentView === "bookmark") {
-    renderBookmarks();
-  }
-}
-
 function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
   const stats = getWordStatsById(String(word.id));
 

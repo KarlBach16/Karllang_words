@@ -230,6 +230,8 @@ Moved so far:
   - `setWordStatsById`
   - `incrementTotalViews`
   - `incrementWrongAttempt`
+  - `markWordMastered`
+  - `toggleBookmark`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`

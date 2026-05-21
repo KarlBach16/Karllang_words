@@ -91,3 +91,45 @@ function incrementWrongAttempt(wordId) {
     lastWrongAt: Date.now(),
   }));
 }
+
+function markWordMastered(wordId, options = {}) {
+  const id = String(wordId);
+  const keepBookmark = options.keepBookmark === true;
+
+  setWordStatsById(id, (s) => ({
+    ...s,
+    hardCount: 0,
+    wrongAttempts: 0,
+    lastWrongAt: 0,
+    lastHardAt: 0,
+    bookmarked: keepBookmark ? s.bookmarked : false,
+  }));
+
+  if (APP_STATE.currentView === "mistakes") {
+    renderMistakes();
+  } else if (!keepBookmark && APP_STATE.currentView === "bookmark") {
+    renderBookmarks();
+  }
+}
+
+function toggleBookmark(wordId) {
+  const stats = setWordStatsById(wordId, (s) => ({
+    ...s,
+    bookmarked: !s.bookmarked,
+  }));
+
+  const btn = document.getElementById("bookmarkToggle");
+  if (btn) {
+    btn.textContent = stats.bookmarked ? "★" : "☆";
+  }
+  const btnCopy = document.getElementById("copyBookmarkBtn");
+  if (btnCopy) {
+    btnCopy.textContent = stats.bookmarked ? "★" : "☆";
+  }
+
+  if (APP_STATE.currentView === "mistakes") {
+    renderMistakes();
+  } else if (APP_STATE.currentView === "bookmark") {
+    renderBookmarks();
+  }
+}
