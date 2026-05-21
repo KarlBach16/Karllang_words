@@ -29,9 +29,10 @@ This refactor is intentionally conservative:
 12. `js/features/typing-hint.js`
 13. `js/features/answer-autosubmit.js`
 14. `js/features/tts.js`
-15. `js/app/navigation.js`
-16. feature files
-17. `script.js`
+15. `js/features/study-ready.js`
+16. `js/app/navigation.js`
+17. feature files
+18. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -124,6 +125,7 @@ Target files:
 - `www/js/features/typing-hint.js`
 - `www/js/features/answer-autosubmit.js`
 - `www/js/features/tts.js`
+- `www/js/features/study-ready.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -185,6 +187,11 @@ Moved so far:
   - `isNativeTtsAvailable`
   - `speakWithWebSpeech`
   - `speakGerman`
+- `www/js/features/study-ready.js`
+  - `updateStudyStartSummary`
+  - `resetSessionReport`
+  - `clearStudyCardForReady`
+  - `showReadyState`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
