@@ -23,14 +23,15 @@ This refactor is intentionally conservative:
 6. `js/core/storage.js`
 7. `js/core/analytics.js`
 8. `js/app/runtime-chrome.js`
-9. `js/features/cram.js`
-10. `js/features/review.js`
-11. `js/features/typing-hint.js`
-12. `js/features/answer-autosubmit.js`
-13. `js/features/tts.js`
-14. `js/app/navigation.js`
-15. feature files
-16. `script.js`
+9. `js/features/answer-effects.js`
+10. `js/features/cram.js`
+11. `js/features/review.js`
+12. `js/features/typing-hint.js`
+13. `js/features/answer-autosubmit.js`
+14. `js/features/tts.js`
+15. `js/app/navigation.js`
+16. feature files
+17. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -117,6 +118,7 @@ Moved so far:
 Target files:
 
 - `www/js/features/worddrop.js`
+- `www/js/features/answer-effects.js`
 - `www/js/features/cram.js`
 - `www/js/features/review.js`
 - `www/js/features/typing-hint.js`
@@ -130,6 +132,8 @@ until a later state cleanup pass.
 
 Moved so far:
 
+- `www/js/features/answer-effects.js`
+  - `applyAnswerEffect`
 - `www/js/features/cram.js`
   - `TRAINING_CRAM_WORDS`
   - `TRAINING_CRAM_INDEX`
