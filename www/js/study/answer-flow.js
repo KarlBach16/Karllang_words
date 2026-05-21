@@ -399,3 +399,444 @@ function evaluateTypingAnswer(userInput, item) {
   // 관사(소문자) + 명사(대문자)까지 완벽
   return "correct";
 }
+
+function advanceTrainingStep() {
+  const pack = t() || {};
+  if (!TRAINING_MODE_ACTIVE) return;
+
+  // ========= 1) 깜지 모드 =========
+  if (TRAINING_MODE_KIND === "cram") {
+    const words = TRAINING_CRAM_WORDS || [];
+
+    // 안전장치: 단어가 없으면 종료
+    if (!words.length) {
+      TRAINING_MODE_ACTIVE = false;
+      TRAINING_MODE_KIND = "none";
+      TRAINING_CRAM_WORDS = [];
+      TRAINING_CRAM_INDEX = 0;
+      TRAINING_CRAM_REPEAT_INDEX = 0;
+      TRAINING_CRAM_REPEAT_TOTAL = 3;
+
+      showReadyState();
+      showView("training");
+      if (DOM.trainingSummary) {
+        DOM.trainingSummary.style.color = "#16a34a";
+        DOM.trainingSummary.textContent = trKey(
+          "training.done_simple",
+          "훈련 세션이 종료되었습니다.",
+        );
+      }
+      return;
+    }
+
+    // 아직 이 단어에서 반복 남았을 때 → 같은 단어로 다음 단계 고스트
+    if (TRAINING_CRAM_REPEAT_INDEX < TRAINING_CRAM_REPEAT_TOTAL - 1) {
+      TRAINING_CRAM_REPEAT_INDEX += 1;
+      showCramQuestion();
+      return;
+    }
+
+    // 이 단어 깜지 완료 → 다음 단어로
+    TRAINING_CRAM_REPEAT_INDEX = 0;
+    TRAINING_CRAM_INDEX += 1;
+    APP_STATE.completed = TRAINING_CRAM_INDEX;
+
+    // 모든 단어 끝났으면 종료
+    if (TRAINING_CRAM_INDEX >= words.length) {
+      completeCramTrainingSession();
+      return;
+    }
+
+    // 다음 단어 깜지 시작
+    showCramQuestion();
+    return;
+  }
+
+  // ========= 2) Mix 모드: 카드 → 카피 → 타이핑 =========
+  if (TRAINING_MODE_KIND === "mix") {
+    const words = TRAINING_MIX_WORDS || [];
+    if (!words.length) {
+      TRAINING_MODE_ACTIVE = false;
+      TRAINING_MODE_KIND = "none";
+      TRAINING_MIX_WORDS = [];
+      TRAINING_MIX_INDEX = 0;
+      TRAINING_MIX_STEP = 0;
+
+      showReadyState();
+      showView("training");
+      if (DOM.trainingSummary) {
+        DOM.trainingSummary.style.color = "#e11d48";
+        DOM.trainingSummary.textContent =
+          pack.training_no_words || "훈련할 단어가 없습니다.";
+      }
+      return;
+    }
+
+    if (TRAINING_MIX_STEP === 0) {
+      // 카드 → 카피
+      TRAINING_MIX_STEP = 1;
+    } else if (TRAINING_MIX_STEP === 1) {
+      // 카피 → 타이핑
+      TRAINING_MIX_STEP = 2;
+    } else {
+      // 타이핑 끝 → 이 단어 완료
+      TRAINING_MIX_INDEX += 1;
+      TRAINING_MIX_STEP = 0;
+
+      // 모든 단어 완료
+      if (TRAINING_MIX_INDEX >= words.length) {
+        TRAINING_MODE_ACTIVE = false;
+        TRAINING_MODE_KIND = "none";
+        TRAINING_MIX_WORDS = [];
+        TRAINING_MIX_INDEX = 0;
+        TRAINING_MIX_STEP = 0;
+
+        showReadyState();
+        showView("training");
+
+        if (DOM.trainingSummary) {
+          DOM.trainingSummary.style.color = "#16a34a";
+          DOM.trainingSummary.textContent =
+            pack.training_done ||
+            `훈련 완료: ${words.length}개 단어를 카드·따라쓰기·타이핑으로 연습했습니다.`;
+        }
+        return;
+      }
+    }
+
+    // 진행도: "완료한 단어 수" 기준
+    APP_STATE.completed = TRAINING_MIX_INDEX;
+    APP_STATE.totalTarget = words.length;
+
+    // 스텝에 맞게 모드 전환
+    if (TRAINING_MIX_STEP === 0) {
+      SETTINGS.mode = "card";
+    } else if (TRAINING_MIX_STEP === 1) {
+      SETTINGS.mode = "copy";
+    } else {
+      SETTINGS.mode = "typing_de";
+    }
+    saveSettings();
+    hydrateSettingsToUI();
+    applyTranslations();
+
+    const currentWord = words[TRAINING_MIX_INDEX];
+    const st = getWordState(currentWord);
+    APP_STATE.queue = [
+      {
+        word: currentWord,
+        state: st,
+        isNew: st.isNew,
+      },
+    ];
+
+    updateProgressBar();
+    showNextQuestion();
+    return;
+  }
+
+  // ========= 3) 일반 typing / copy 훈련 =========
+  if (!APP_STATE.queue || APP_STATE.queue.length === 0) {
+    TRAINING_MODE_ACTIVE = false;
+    TRAINING_MODE_KIND = "none";
+    TRAINING_MIX_WORDS = [];
+    TRAINING_MIX_INDEX = 0;
+    TRAINING_MIX_STEP = 0;
+
+    showReadyState();
+    showView("training");
+    if (DOM.trainingSummary) {
+      DOM.trainingSummary.style.color = "#16a34a";
+      DOM.trainingSummary.textContent = trKey(
+        "training.done_simple",
+        "훈련 세션이 종료되었습니다.",
+      );
+    }
+    return;
+  }
+
+  APP_STATE.queue.shift();
+  APP_STATE.completed = (APP_STATE.completed || 0) + 1;
+
+  if (APP_STATE.queue.length === 0) {
+    TRAINING_MODE_ACTIVE = false;
+    TRAINING_MODE_KIND = "none";
+    TRAINING_MIX_WORDS = [];
+    TRAINING_MIX_INDEX = 0;
+    TRAINING_MIX_STEP = 0;
+
+    showReadyState();
+    showView("training");
+    if (DOM.trainingSummary) {
+      DOM.trainingSummary.style.color = "#16a34a";
+      DOM.trainingSummary.textContent = trKey(
+        "training.done_simple",
+        "훈련 세션이 종료되었습니다.",
+      );
+    }
+    return;
+  }
+
+  updateProgressBar();
+  showNextQuestion();
+}
+
+function handleConfirm() {
+  // 🔹 깜지(훈련소 cram) 모드는 여기서 전부 처리하고 나머지 로직은 건너뜀
+  if (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram") {
+    handleCramSubmit();
+    return;
+  }
+
+  if (WRONG_PRACTICE_ACTIVE && APP_STATE.phase === "ANSWER") {
+    advanceWrongPracticeStep();
+    return;
+  }
+
+  // 🔻 여기부터는 기존 코드 그대로 유지
+  // 🔹 훈련소에서 정답 화면(ANSWER)일 때는 "다음" 버튼으로 스텝/단어 이동
+  if (TRAINING_MODE_ACTIVE && APP_STATE.phase === "ANSWER") {
+    advanceTrainingStep();
+    return;
+  }
+
+  if (APP_STATE.phase === "READY") {
+    buildQueue();
+    if (APP_STATE.totalTarget === 0) {
+      const pack = t() || {};
+      DOM.feedback.textContent =
+        pack.no_words_today || "오늘은 학습할 단어가 없습니다.";
+      return;
+    }
+    logAnalyticsEvent("start_session", {
+      ...getSessionAnalyticsParams(),
+      target_count: APP_STATE.totalTarget,
+    });
+    recordAttendanceForStudyStart();
+    showNextQuestion();
+    return;
+  }
+
+  if (APP_STATE.phase !== "QUESTION") return;
+
+  const item = APP_STATE.currentCard;
+  if (!item) return;
+
+  if (SETTINGS.mode === "card") {
+    applyAnswerResult(true, item);
+    return;
+  }
+  // 따라쓰기 모드
+  if (SETTINGS.mode === "copy") {
+    const pack = t() || {};
+    const word = item.word;
+    const speakText = buildGermanForm(word);
+
+    const rawInput = DOM.answerInput.value || "";
+    const userInput = rawInput.trim();
+
+    if (!userInput) {
+      DOM.feedback.textContent = pack.type_answer || "정답을 입력해 주세요.";
+      focusInputWithoutScroll(DOM.answerInput);
+      return;
+    }
+
+    let target = "";
+    if (DOM.copyGhost && DOM.copyGhost.textContent) {
+      target = DOM.copyGhost.textContent.trim();
+    } else {
+      target = speakText.trim();
+    }
+
+    if (userInput !== target) {
+      // 🔹 따라쓰기 오타: 약한 피드백 + 카드 빨간색
+      //    (applyAnswerEffect(false)가 에러 햅틱 + card-wrong 클래스 처리)
+      applyAnswerEffect(false);
+
+      DOM.feedback.textContent = trKey(
+        "study.copy_check_spelling",
+        "철자를 다시 확인하세요.",
+      );
+
+      focusInputWithoutScroll(DOM.answerInput);
+      return;
+    }
+
+    renderAnswerWithSpeaker(speakText, getMeaning(word), word);
+    if (DOM.feedback) {
+      DOM.feedback.textContent = pack.copy_ok || pack.correct || "정확합니다";
+    }
+
+    speakGerman(speakText);
+
+    applyAnswerEffect(true);
+
+    setPhase("ANSWER");
+    updateTypingHintUi();
+    updateRatingButtonsForHint(null);
+    const isPracticeFlow = TRAINING_MODE_ACTIVE || WRONG_PRACTICE_ACTIVE;
+    DOM.ratingArea.style.display = isPracticeFlow ? "none" : "block";
+    const shouldShowPracticeNext =
+      WRONG_PRACTICE_ACTIVE ||
+      (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram");
+    DOM.mainBtn.style.display = shouldShowPracticeNext ? "inline-block" : "none";
+    if (shouldShowPracticeNext) {
+      DOM.mainBtn.textContent = pack.next || "다음";
+    }
+    DOM.skipBtn.style.display = "none";
+    return;
+  }
+
+  // 타이핑 모드
+  const userInput = DOM.answerInput.value;
+  const result = evaluateTypingAnswer(userInput, item);
+
+  if (result === "retry") {
+    // 🔹 첫 번째 틀림(재도전 구간)에서는 약한 햅틱만 한 번
+    if (typeof triggerHaptic === "function") {
+      triggerHaptic("light");
+    }
+    return;
+  }
+
+  if (result === "wrong") {
+    // 🔹 완전 오답 확정일 때만 오답 카운트 + 강한 햅틱 (applyAnswerResult → applyAnswerEffect(false))
+    incrementWrongAttempt(item.word.id);
+  }
+
+  const isCorrect = result === "correct";
+  applyAnswerResult(isCorrect, item);
+}
+
+function handleSkip() {
+  if (APP_STATE.phase !== "QUESTION") return;
+  if (SETTINGS.mode !== "typing_de") return;
+
+  const item = APP_STATE.currentCard;
+  if (!item) return;
+
+  incrementWrongAttempt(item.word.id);
+  applyAnswerResult(false, item);
+}
+
+function recordSessionResult(item, rating) {
+  if (!item || !item.word) return;
+
+  if (rating === "hard") {
+    APP_STATE.sessionHardCount = (APP_STATE.sessionHardCount || 0) + 1;
+  } else if (rating === "normal") {
+    APP_STATE.sessionNormalCount = (APP_STATE.sessionNormalCount || 0) + 1;
+  } else if (rating === "easy") {
+    APP_STATE.sessionEasyCount = (APP_STATE.sessionEasyCount || 0) + 1;
+  }
+
+  const wasHardForSession = item._sessionAnswerCorrect === false || rating === "hard";
+  if (wasHardForSession) {
+    const id = String(item.word.id);
+    const existing = (APP_STATE.sessionWrongWords || []).some(
+      (word) => String(word.id) === id,
+    );
+    if (!existing) {
+      APP_STATE.sessionWrongWords.push(item.word);
+    }
+  }
+
+  if (APP_STATE.sessionMode === "typing_de") {
+    if (item._sessionAnswerCorrect === false) {
+      APP_STATE.sessionWrongCount = (APP_STATE.sessionWrongCount || 0) + 1;
+    } else {
+      APP_STATE.sessionCorrectCount = (APP_STATE.sessionCorrectCount || 0) + 1;
+    }
+  }
+}
+
+/**
+ * 난이도 평가 버튼 클릭
+ */
+function handleRating(rating) {
+  if (APP_STATE.phase !== "ANSWER") return;
+
+  const item = APP_STATE.currentCard;
+  if (!item) return;
+
+  if (
+    rating === "easy" &&
+    SETTINGS.mode === "typing_de" &&
+    item._typingHintUsed === true
+  ) {
+    updateRatingButtonsForHint(item);
+    return;
+  }
+
+  if (typeof triggerHaptic === "function") {
+    triggerHaptic("light");
+  }
+
+  const today = nowDay();
+  const prevState = item.state || {
+    id: item.word.id,
+    level: 0,
+    lastReviewed: 0,
+    nextDue: 0,
+    isNew: item.isNew,
+  };
+
+  let level = prevState.level || 0;
+
+  if (rating === "hard") {
+    level = Math.max(1, level);
+  } else if (rating === "normal") {
+    level = Math.min(SRS_LEVELS.length - 1, level + 1);
+  } else if (rating === "easy") {
+    level = Math.min(SRS_LEVELS.length - 1, level + 2);
+  }
+
+  const interval = SRS_INTERVALS[level] || 1;
+  const nextDue = today + interval;
+
+  const newState = {
+    id: prevState.id,
+    level,
+    lastReviewed: today,
+    nextDue,
+    isNew: false,
+  };
+  saveWordState(newState);
+
+  const stats = getStats();
+  stats.totalReviewed += 1;
+
+  if (item.isNew) {
+    stats.newLearned += 1;
+    APP_STATE.newCount += 1;
+  } else {
+    APP_STATE.reviewCount += 1;
+  }
+  saveStats(stats);
+
+  recordSessionResult(item, rating);
+
+  const wordId = String(item.word.id);
+  setWordStatsById(wordId, (s) => ({
+    ...s,
+    hardCount: rating === "hard" ? (s.hardCount || 0) + 1 : s.hardCount || 0,
+    // 🔹 hard 선택했을 때만 최근 시각 갱신
+    lastHardAt: rating === "hard" ? Date.now() : s.lastHardAt || 0,
+    level,
+  }));
+
+  if (APP_STATE.queue.length > 0) {
+    APP_STATE.queue.shift();
+  }
+  APP_STATE.completed += 1;
+
+  updateCefrProgress();
+  updateProgressBar();
+  renderWordbookIfNeeded();
+
+  if (APP_STATE.queue.length === 0) {
+    showEndStats();
+  } else {
+    showNextQuestion();
+  }
+}

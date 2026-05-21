@@ -297,6 +297,11 @@ Moved so far:
   - `renderAnswerWithSpeaker`
   - `applyAnswerResult`
   - `evaluateTypingAnswer`
+  - `advanceTrainingStep`
+  - `handleConfirm`
+  - `handleSkip`
+  - `recordSessionResult`
+  - `handleRating`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
