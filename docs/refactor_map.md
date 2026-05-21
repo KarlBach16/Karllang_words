@@ -121,6 +121,47 @@ Target files:
 Move one feature at a time. Each feature should keep its current global state
 until a later state cleanup pass.
 
+Moved so far:
+
+- `www/js/features/worddrop.js`
+  - `WORD_DROP_STATE`
+  - `WORD_DROP_BASE_SPEED`
+  - `getWordDropText`
+  - `dedupeWordsById`
+  - `getNormalizedCefrLevel`
+  - `getWordDropNormalLevels`
+  - `buildWordDropPools`
+  - `pickNonRecent`
+  - `pickWordForDrop`
+  - `updateWordDropHud`
+  - `getWordDropTargetCount`
+  - `completeWordDropItem`
+  - `focusWordDropInput`
+  - `setWordDropReadyMessage`
+  - `getWordDropTapToStartText`
+  - `hideWordDropReadyMessage`
+  - `updateWordDropKeyboardChrome`
+  - `beginWordDropGameplay`
+  - `startWordDropCountdown`
+  - `prepareWordDropInputFocus`
+  - `cancelWordDropCountdown`
+  - `handleWordDropInputFocus`
+  - `setNextWordDropWord`
+  - `playWordDropHitEffect`
+  - `playWordDropMissEffect`
+  - `getWordDropLaneLeft`
+  - `recordWordDropMiss`
+  - `formatWordDropResult`
+  - `getComparableWordDropInputValue`
+  - `getComparableWordDropCurrentText`
+  - `checkWordDropAnswer`
+  - `handleWordDropInput`
+  - `scheduleWordDropAnswerCheck`
+  - `runWordDropFrame`
+  - `stopWordDrop`
+  - `endWordDrop`
+  - `startWordDrop`
+
 ### Step 4: Study core
 
 Target files:
