@@ -26,9 +26,10 @@ This refactor is intentionally conservative:
 9. `js/features/cram.js`
 10. `js/features/review.js`
 11. `js/features/typing-hint.js`
-12. `js/app/navigation.js`
-13. feature files
-14. `script.js`
+12. `js/features/answer-autosubmit.js`
+13. `js/app/navigation.js`
+14. feature files
+15. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -118,6 +119,7 @@ Target files:
 - `www/js/features/cram.js`
 - `www/js/features/review.js`
 - `www/js/features/typing-hint.js`
+- `www/js/features/answer-autosubmit.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -155,6 +157,12 @@ Moved so far:
   - `updateTypingHintUi`
   - `handleTypingHint`
   - `updateRatingButtonsForHint`
+- `www/js/features/answer-autosubmit.js`
+  - `ANSWER_INPUT_COMPOSING`
+  - `ANSWER_INPUT_CLEAR_UNTIL`
+  - `getAutoSubmitTargetText`
+  - `checkAnswerInputAutoSubmit`
+  - `scheduleAnswerInputAutoSubmitCheck`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
