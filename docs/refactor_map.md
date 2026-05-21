@@ -38,31 +38,31 @@ Feature files should be added only after the core helpers are stable.
 Line numbers are from the pre-refactor baseline and are approximate. Use them as
 orientation, not as exact current locations.
 
-| Area | Current range | Notes |
-| --- | ---: | --- |
-| Data aggregation | 1-152 | Builds `ALL_WORDS_*` from loaded data globals. Low logic, high load-order sensitivity. |
-| Storage keys, app constants, globals | 153-474 | `STORAGE_KEYS`, `APP_STATE`, `SETTINGS`, native plugin handles, Word Drop state. Split carefully. |
-| Language/UI labels | 491-730 | UI language labels, feedback labels, native plugin constants. |
-| Native shell helpers | 745-914 | Haptics, Android back, intro visual, toast. |
-| DOM cache | 915-1128 | `DOM` references. Must remain available before event binding. |
-| Storage and migration | 1129-1366 | `safeGet`, `safeSet`, JSON migration, settings load/save. Good early extraction target. |
-| Translation helpers | 1374-2388 | `t`, `I18N_KEYS`, category labels, app translation pass. |
-| Word data helpers | 2389-2573 | `getAllWords`, article/gender/form/meaning/reading helpers. |
-| SRS, attendance, study set | 2574-2948 | Word state, attendance, queue cache. Split after storage is stable. |
-| Study chrome/runtime state | 2949-3137 | Progress, phase, keyboard chrome, input focus. |
-| Study reminders | 3145-3364 | Notification support, scheduling, settings UI. Good feature extraction target. |
-| Ready state and POS labels | 3369-3805 | Ready screen, POS label translations, cram ghost helpers. |
-| Cram mode | 3806-4130 | Cram target, submit, auto-submit, completion. |
-| Study card flow | 4131-6214 | Main question render, answer handling, TTS/detail/stats/rating. High-risk extraction; do later. |
-| Word Drop | 6215-6890 | Word Drop pools, countdown, animation loop, input, result. Strong feature extraction target. |
-| Training start and reset | 6891-7165 | Training start dispatch, SRS/stat reset. |
-| Stats and share card | 7166-7707 | Daily summary, share-card data and canvas rendering. Good feature extraction target. |
-| End stats and wrong review | 7708-7955 | Session completion and wrong-word review flow. |
-| Wordbook/search | 7956-8410 | Mistakes, bookmarks, search rendering. |
-| Navigation/view router | 8411-8572 | Header, bottom nav, view switching. |
-| Viewport/device/feedback/analytics | 8573-8728 | Viewport sync, feedback mail, analytics event helpers. |
-| Event binding | 8729-9174 | Central listener attachment. Split only after feature functions are moved. |
-| Settings hydration/init | 9175-9310 | Startup sequence and `DOMContentLoaded`. Keep last until structure settles. |
+| Area                                 | Current range | Notes                                                                                             |
+| ------------------------------------ | ------------: | ------------------------------------------------------------------------------------------------- |
+| Data aggregation                     |         1-152 | Builds `ALL_WORDS_*` from loaded data globals. Low logic, high load-order sensitivity.            |
+| Storage keys, app constants, globals |       153-474 | `STORAGE_KEYS`, `APP_STATE`, `SETTINGS`, native plugin handles, Word Drop state. Split carefully. |
+| Language/UI labels                   |       491-730 | UI language labels, feedback labels, native plugin constants.                                     |
+| Native shell helpers                 |       745-914 | Haptics, Android back, intro visual, toast.                                                       |
+| DOM cache                            |      915-1128 | `DOM` references. Must remain available before event binding.                                     |
+| Storage and migration                |     1129-1366 | `safeGet`, `safeSet`, JSON migration, settings load/save. Good early extraction target.           |
+| Translation helpers                  |     1374-2388 | `t`, `I18N_KEYS`, category labels, app translation pass.                                          |
+| Word data helpers                    |     2389-2573 | `getAllWords`, article/gender/form/meaning/reading helpers.                                       |
+| SRS, attendance, study set           |     2574-2948 | Word state, attendance, queue cache. Split after storage is stable.                               |
+| Study chrome/runtime state           |     2949-3137 | Progress, phase, keyboard chrome, input focus.                                                    |
+| Study reminders                      |     3145-3364 | Notification support, scheduling, settings UI. Good feature extraction target.                    |
+| Ready state and POS labels           |     3369-3805 | Ready screen, POS label translations, cram ghost helpers.                                         |
+| Cram mode                            |     3806-4130 | Cram target, submit, auto-submit, completion.                                                     |
+| Study card flow                      |     4131-6214 | Main question render, answer handling, TTS/detail/stats/rating. High-risk extraction; do later.   |
+| Word Drop                            |     6215-6890 | Word Drop pools, countdown, animation loop, input, result. Strong feature extraction target.      |
+| Training start and reset             |     6891-7165 | Training start dispatch, SRS/stat reset.                                                          |
+| Stats and share card                 |     7166-7707 | Daily summary, share-card data and canvas rendering. Good feature extraction target.              |
+| End stats and wrong review           |     7708-7955 | Session completion and wrong-word review flow.                                                    |
+| Wordbook/search                      |     7956-8410 | Mistakes, bookmarks, search rendering.                                                            |
+| Navigation/view router               |     8411-8572 | Header, bottom nav, view switching.                                                               |
+| Viewport/device/feedback/analytics   |     8573-8728 | Viewport sync, feedback mail, analytics event helpers.                                            |
+| Event binding                        |     8729-9174 | Central listener attachment. Split only after feature functions are moved.                        |
+| Settings hydration/init              |     9175-9310 | Startup sequence and `DOMContentLoaded`. Keep last until structure settles.                       |
 
 ## Proposed Extraction Order
 
@@ -234,6 +234,20 @@ Target files:
 
 Do this last. The current `script.js` should gradually shrink into an app
 orchestrator before being renamed.
+
+Moved so far:
+
+- `www/js/app/runtime-chrome.js`
+  - `APP_LAYOUT_VIEWPORT_HEIGHT`
+  - `setPhase`
+  - `updateStudySettingsVisibility`
+  - `isKeyboardStudyPhase`
+  - `updateKeyboardModeChrome`
+  - `updateRuntimeChromeClass`
+  - `focusInputWithoutScroll`
+  - `refocusAnswerInputForTyping`
+  - `isNativePlatform`
+  - `syncAppViewportHeight`
 
 ## Verification Checklist
 
