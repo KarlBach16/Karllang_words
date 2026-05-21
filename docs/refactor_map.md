@@ -46,10 +46,11 @@ This refactor is intentionally conservative:
 29. `js/study/reset.js`
 30. `js/study/queue.js`
 31. `js/study/question-render.js`
-32. `js/study/answer-flow.js`
-33. `js/app/navigation.js`
-34. feature files
-35. `script.js`
+32. `js/study/word-detail.js`
+33. `js/study/answer-flow.js`
+34. `js/app/navigation.js`
+35. feature files
+36. `script.js`
 
 Most extracted classic scripts load between `lang_config.js` and `script.js`.
 `js/study/word-source.js` is the exception: it loads immediately after the word
@@ -293,6 +294,11 @@ Moved so far:
   - `buildQueue`
 - `www/js/study/question-render.js`
   - `showNextQuestion`
+- `www/js/study/word-detail.js`
+  - `getFullMeaningForDetail`
+  - `getExtraDetailForWord`
+  - `openWordDetail`
+  - `closeWordDetail`
 - `www/js/study/answer-flow.js`
   - `renderAnswerWithSpeaker`
   - `applyAnswerResult`
