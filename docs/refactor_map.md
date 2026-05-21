@@ -34,16 +34,17 @@ This refactor is intentionally conservative:
 17. `js/features/tts.js`
 18. `js/features/study-ready.js`
 19. `js/features/session-end.js`
-20. `js/features/training-start.js`
-21. `js/features/cefr-progress.js`
-22. `js/features/study-progress.js`
-23. `js/study/word-set-cache.js`
-24. `js/study/srs.js`
-25. `js/study/word-stats.js`
-26. `js/study/reset.js`
-27. `js/app/navigation.js`
-28. feature files
-29. `script.js`
+20. `js/features/training-settings.js`
+21. `js/features/training-start.js`
+22. `js/features/cefr-progress.js`
+23. `js/features/study-progress.js`
+24. `js/study/word-set-cache.js`
+25. `js/study/srs.js`
+26. `js/study/word-stats.js`
+27. `js/study/reset.js`
+28. `js/app/navigation.js`
+29. feature files
+30. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -232,6 +233,11 @@ Moved so far:
 - `www/js/features/session-end.js`
   - `getSessionReportWordLabel`
   - `showEndStats`
+- `www/js/features/training-settings.js`
+  - `getTrainingModeFallback`
+  - `getTrainingModeHintFallback`
+  - `updateTrainingModeHint`
+  - `updateTrainingSummaryPreview`
 - `www/js/features/training-start.js`
   - `handleTrainingStart`
   - `belongsToCurrentStudyLang`
