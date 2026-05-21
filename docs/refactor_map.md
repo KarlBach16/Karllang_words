@@ -25,9 +25,10 @@ This refactor is intentionally conservative:
 8. `js/app/runtime-chrome.js`
 9. `js/features/cram.js`
 10. `js/features/review.js`
-11. `js/app/navigation.js`
-12. feature files
-13. `script.js`
+11. `js/features/typing-hint.js`
+12. `js/app/navigation.js`
+13. feature files
+14. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -116,6 +117,7 @@ Target files:
 - `www/js/features/worddrop.js`
 - `www/js/features/cram.js`
 - `www/js/features/review.js`
+- `www/js/features/typing-hint.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -145,6 +147,14 @@ Moved so far:
   - `finishWrongPractice`
   - `advanceWrongPracticeStep`
   - `startWrongWordsTraining`
+- `www/js/features/typing-hint.js`
+  - `TYPING_HINT_COUNT`
+  - `getTypingHintTargetText`
+  - `getTypingHintMaxCount`
+  - `isTypingHintAvailable`
+  - `updateTypingHintUi`
+  - `handleTypingHint`
+  - `updateRatingButtonsForHint`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
