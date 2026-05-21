@@ -172,6 +172,26 @@ Moved so far:
   - `renderWordbookIfNeeded`
   - `handleSearch`
   - `clearSearchView`
+- `www/js/features/stats-summary.js`
+  - `nowDay`
+  - `getLocalDateKey`
+  - `shiftLocalDate`
+  - `getWeekStartMonday`
+  - `getAttendanceDates`
+  - `saveAttendanceDates`
+  - `recordAttendanceForStudyStart`
+  - `getLearningStreakDays`
+  - `renderAttendance`
+  - `getStats`
+  - `saveStats`
+  - `getEmptyDailySummary`
+  - `getDailySummary`
+  - `saveDailySummary`
+  - `getSessionModeKey`
+  - `addDailyModeCount`
+  - `addDailyDifficultWords`
+  - `addCurrentSessionToDailySummary`
+  - `addTrainingSessionToDailySummary`
 - `www/js/features/worddrop.js`
   - `WORD_DROP_STATE`
   - `WORD_DROP_BASE_SPEED`
