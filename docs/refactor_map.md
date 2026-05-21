@@ -27,9 +27,10 @@ This refactor is intentionally conservative:
 10. `js/features/review.js`
 11. `js/features/typing-hint.js`
 12. `js/features/answer-autosubmit.js`
-13. `js/app/navigation.js`
-14. feature files
-15. `script.js`
+13. `js/features/tts.js`
+14. `js/app/navigation.js`
+15. feature files
+16. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -120,6 +121,7 @@ Target files:
 - `www/js/features/review.js`
 - `www/js/features/typing-hint.js`
 - `www/js/features/answer-autosubmit.js`
+- `www/js/features/tts.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -163,6 +165,22 @@ Moved so far:
   - `getAutoSubmitTargetText`
   - `checkAnswerInputAutoSubmit`
   - `scheduleAnswerInputAutoSubmitCheck`
+- `www/js/features/tts.js`
+  - `TTS_SUPPORTED`
+  - `TTS_READY`
+  - `TTS_VOICE`
+  - `TTS_WARNED_UNSUPPORTED`
+  - `NativeTTS`
+  - `showTtsWarning`
+  - `showEnglishVoiceMissingWarning`
+  - `getTtsLangCode`
+  - `hasNativeTtsSupport`
+  - `updateTtsUiState`
+  - `pickTtsVoiceForLang`
+  - `initTtsVoices`
+  - `isNativeTtsAvailable`
+  - `speakWithWebSpeech`
+  - `speakGerman`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
