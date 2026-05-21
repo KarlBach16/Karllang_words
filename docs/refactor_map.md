@@ -142,6 +142,27 @@ Moved so far:
   - `downloadShareCardImage`
   - `dataUrlToBlob`
   - `shareCardImage`
+- `www/js/features/reminders.js`
+  - `NativeLocalNotifications`
+  - `NativeAppSettings`
+  - `STUDY_REMINDER_NOTIFICATION_ID`
+  - `DEFAULT_STUDY_REMINDER_TIME`
+  - `isStudyReminderSupported`
+  - `normalizeReminderTime`
+  - `formatReminderTimeLabel`
+  - `populateStudyReminderTimeSelect`
+  - `getStudyReminderTimeParts`
+  - `getSystemNotificationLang`
+  - `getReminderTranslation`
+  - `getStudyReminderNotificationText`
+  - `cancelStudyReminderNotification`
+  - `getStudyReminderPermissionDisplay`
+  - `canOpenNativeAppSettings`
+  - `openNativeAppSettings`
+  - `scheduleStudyReminderNotification`
+  - `updateStudyReminderToggle`
+  - `setStudyReminderEnabled`
+  - `ensureStudyReminderSchedule`
 - `www/js/features/worddrop.js`
   - `WORD_DROP_STATE`
   - `WORD_DROP_BASE_SPEED`
