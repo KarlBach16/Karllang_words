@@ -24,9 +24,10 @@ This refactor is intentionally conservative:
 7. `js/core/analytics.js`
 8. `js/app/runtime-chrome.js`
 9. `js/features/cram.js`
-10. `js/app/navigation.js`
-11. feature files
-12. `script.js`
+10. `js/features/review.js`
+11. `js/app/navigation.js`
+12. feature files
+13. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -114,6 +115,7 @@ Target files:
 
 - `www/js/features/worddrop.js`
 - `www/js/features/cram.js`
+- `www/js/features/review.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -135,6 +137,14 @@ Moved so far:
   - `showCramQuestion`
   - `handleCramSubmit`
   - `completeCramTrainingSession`
+- `www/js/features/review.js`
+  - `WRONG_PRACTICE_ACTIVE`
+  - `WRONG_PRACTICE_PREVIOUS_MODE`
+  - `WRONG_PRACTICE_RETURN_VIEW`
+  - `restoreWrongPracticeMode`
+  - `finishWrongPractice`
+  - `advanceWrongPracticeStep`
+  - `startWrongWordsTraining`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
