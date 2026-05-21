@@ -25,33 +25,34 @@ This refactor is intentionally conservative:
 8. `js/core/analytics.js`
 9. `js/app/ui-labels.js`
 10. `js/app/i18n.js`
-11. `js/app/runtime-chrome.js`
-12. `js/study/word-text.js`
-13. `js/study/pos-labels.js`
-14. `js/study/display.js`
-15. `js/features/answer-effects.js`
-16. `js/features/cram.js`
-17. `js/features/review.js`
-18. `js/features/typing-hint.js`
-19. `js/features/answer-autosubmit.js`
-20. `js/features/tts.js`
-21. `js/features/study-ready.js`
-22. `js/features/session-end.js`
-23. `js/features/training-settings.js`
-24. `js/features/training-start.js`
-25. `js/features/cefr-progress.js`
-26. `js/features/study-progress.js`
-27. `js/study/word-set-cache.js`
-28. `js/study/srs.js`
-29. `js/study/word-stats.js`
-30. `js/study/reset.js`
-31. `js/study/queue.js`
-32. `js/study/question-render.js`
-33. `js/study/word-detail.js`
-34. `js/study/answer-flow.js`
-35. `js/app/navigation.js`
-36. feature files
-37. `script.js`
+11. `js/app/translations-render.js`
+12. `js/app/runtime-chrome.js`
+13. `js/study/word-text.js`
+14. `js/study/pos-labels.js`
+15. `js/study/display.js`
+16. `js/features/answer-effects.js`
+17. `js/features/cram.js`
+18. `js/features/review.js`
+19. `js/features/typing-hint.js`
+20. `js/features/answer-autosubmit.js`
+21. `js/features/tts.js`
+22. `js/features/study-ready.js`
+23. `js/features/session-end.js`
+24. `js/features/training-settings.js`
+25. `js/features/training-start.js`
+26. `js/features/cefr-progress.js`
+27. `js/features/study-progress.js`
+28. `js/study/word-set-cache.js`
+29. `js/study/srs.js`
+30. `js/study/word-stats.js`
+31. `js/study/reset.js`
+32. `js/study/queue.js`
+33. `js/study/question-render.js`
+34. `js/study/word-detail.js`
+35. `js/study/answer-flow.js`
+36. `js/app/navigation.js`
+37. feature files
+38. `script.js`
 
 Most extracted classic scripts load between `lang_config.js` and `script.js`.
 `js/study/word-source.js` is the exception: it loads immediately after the word
@@ -148,6 +149,8 @@ Moved so far:
   - `populateUiLangSelect`
   - `CATEGORY_I18N_KEYS`
   - `getCategoryLabel`
+- `www/js/app/translations-render.js`
+  - `applyTranslations`
 - `www/js/study/word-source.js`
   - `WORDS_*_SAFE`
   - `ALL_WORDS_*`
