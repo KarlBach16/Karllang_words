@@ -248,6 +248,13 @@ Moved so far:
   - `refocusAnswerInputForTyping`
   - `isNativePlatform`
   - `syncAppViewportHeight`
+- `www/js/app/navigation.js`
+  - `getBottomNavView`
+  - `getAppHeaderTitle`
+  - `updateAppHeader`
+  - `updateBottomNavActive`
+  - `goToStudyFromNav`
+  - `showView`
 
 ## Verification Checklist
 
