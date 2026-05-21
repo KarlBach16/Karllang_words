@@ -37,9 +37,10 @@ This refactor is intentionally conservative:
 20. `js/study/word-set-cache.js`
 21. `js/study/srs.js`
 22. `js/study/word-stats.js`
-23. `js/app/navigation.js`
-24. feature files
-25. `script.js`
+23. `js/study/reset.js`
+24. `js/app/navigation.js`
+25. feature files
+26. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -237,6 +238,10 @@ Moved so far:
   - `incrementWrongAttempt`
   - `markWordMastered`
   - `toggleBookmark`
+- `www/js/study/reset.js`
+  - `resetSrsForLang`
+  - `resetStatsForLang`
+  - `resetWordStatsForLang`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
