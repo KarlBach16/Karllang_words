@@ -294,6 +294,8 @@ Moved so far:
 - `www/js/study/question-render.js`
   - `showNextQuestion`
 - `www/js/study/answer-flow.js`
+  - `renderAnswerWithSpeaker`
+  - `applyAnswerResult`
   - `evaluateTypingAnswer`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`

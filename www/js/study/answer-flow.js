@@ -1,3 +1,181 @@
+function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
+  const stats = getWordStatsById(String(word.id));
+
+  // 기본값: 타이핑/카피용
+  //  - 큰 글자: 독일어
+  //  - 작은 글자: 뜻(UI 언어)
+  let mainText = fullGerman || "";
+  let smallMeaning = meaningText || "";
+
+  // 🔹 카드 모드일 때만 순서 반전
+  //  - 앞면에서 이미 독일어를 봤으니
+  //  - 뒷면에서는 "뜻을 크게", "독일어를 작게"
+  if (SETTINGS.mode === "card") {
+    mainText = meaningText || "";
+    smallMeaning = fullGerman || "";
+  }
+
+  const readingValue = getStudyReadingValue(word);
+  const readingLineHtml = readingValue
+    ? '<div class="answer-reading-row"><span class="answer-reading-text">' +
+      escapeHtml(readingValue) +
+      "</span></div>"
+    : "";
+  const meaningLineHtml =
+    '<div class="answer-meaning-row">' +
+    '<span class="answer-meaning-text">' +
+    escapeHtml(smallMeaning) +
+    "</span>" +
+    "</div>";
+  const answerSubHtml =
+    SETTINGS.mode === "card"
+      ? meaningLineHtml + readingLineHtml
+      : readingLineHtml + meaningLineHtml;
+
+  DOM.questionDisplay.innerHTML =
+    '<span class="answer-text answer-main">' +
+    escapeHtml(mainText) +
+    "</span>" +
+    answerSubHtml +
+    '<div class="answer-line answer-actions">' +
+    '<button class="icon-btn speaker-icon" id="speakerBtn" type="button" aria-label="발음 듣기"></button>' +
+    '<button class="icon-btn info-icon" id="detailBtn" type="button" aria-label="자세히 보기">i</button>' +
+    '<button class="icon-btn bookmark-btn" id="bookmarkToggle" type="button" aria-label="단어장에 추가">' +
+    (stats.bookmarked ? "★" : "☆") +
+    "</button>" +
+    "</div>";
+
+  // 힌트 영역 비우기
+  if (DOM.hintDisplay) {
+    DOM.hintDisplay.textContent = "";
+  }
+
+  // 입력 영역 숨기기
+  if (DOM.inputArea) {
+    DOM.inputArea.style.display = "none";
+  }
+  if (DOM.answerInput) {
+    DOM.answerInput.value = "";
+    DOM.answerInput.disabled = true;
+  }
+
+  // 발음 버튼
+  const btnSpeak = document.getElementById("speakerBtn");
+  if (btnSpeak) {
+    btnSpeak.addEventListener("click", () => {
+      // 카드 모드든 아니든 독일어를 읽어야 하니 fullGerman 사용
+      speakGerman(fullGerman);
+    });
+  }
+
+  // 북마크 버튼
+  const btnBookmark = document.getElementById("bookmarkToggle");
+  if (btnBookmark) {
+    btnBookmark.addEventListener("click", () => {
+      if (typeof triggerHaptic === "function") {
+        triggerHaptic("light");
+      }
+      toggleBookmark(String(word.id));
+    });
+  }
+
+  // 디테일 버튼
+  const btnDetail = document.getElementById("detailBtn");
+  if (btnDetail) {
+    btnDetail.addEventListener("click", () => openWordDetail(word));
+  }
+
+  updateTtsUiState();
+}
+
+// ✅ 정답 처리 공통
+function applyAnswerResult(isCorrect, item) {
+  const pack = t() || {};
+  const word = item.word;
+  const german = buildGermanForm(word);
+  const meaningText = getMeaning(word);
+
+  item._sessionAnswerCorrect = isCorrect === true;
+
+  // 피드백 텍스트
+  if (DOM.feedback) {
+    if (SETTINGS.mode === "card") {
+      DOM.feedback.textContent = "";
+    } else {
+      DOM.feedback.textContent = isCorrect
+        ? pack.correct || "정답입니다!"
+        : pack.incorrect || "아쉽네요.";
+    }
+  }
+
+  // 카드 이펙트 + 정답 영역 + 발음
+  applyAnswerEffect(isCorrect);
+  renderAnswerWithSpeaker(german, meaningText, word);
+  speakGerman(german);
+
+  setPhase("ANSWER");
+  updateTypingHintUi();
+
+  if (DOM.skipBtn) {
+    DOM.skipBtn.style.display = "none";
+  }
+
+  // ==========================
+  //   1) 훈련소 모드일 때
+  // ==========================
+  if (TRAINING_MODE_ACTIVE) {
+    // 난이도 버튼 숨김
+    if (DOM.ratingArea) {
+      DOM.ratingArea.style.display = "none";
+    }
+
+    // 메인 버튼은 항상 "다음"
+    if (DOM.mainBtn) {
+      DOM.mainBtn.style.display = "inline-block";
+      DOM.mainBtn.textContent = pack.next || "다음";
+    }
+
+    // 졸업 버튼 노출 조건
+    if (DOM.masteryMainBtn) {
+      const isMix = TRAINING_MODE_KIND === "mix";
+      // mix 모드에서 0=카드, 1=카피, 2=타이핑(마지막 스텝)
+      const isLastTypingStep = isMix && TRAINING_MIX_STEP === 2;
+
+      // mix가 아니면 항상 보이고,
+      // mix면 마지막 타이핑 스텝에서만 보이게
+      const shouldShowMastery = !isMix || isLastTypingStep;
+
+      if (shouldShowMastery) {
+        const lang = CURRENT_LANG || "ko";
+        DOM.masteryMainBtn.style.display = "inline-block";
+        DOM.masteryMainBtn.disabled = false;
+        DOM.masteryMainBtn.textContent = lang === "en" ? "Mastered" : "졸업";
+        DOM.masteryMainBtn.classList.remove("mastery-done");
+      } else {
+        DOM.masteryMainBtn.style.display = "none";
+      }
+    }
+
+    // ==========================
+    //   2) 일반 학습 모드일 때
+    // ==========================
+  } else {
+    // 일반 학습에서는 졸업 버튼 숨기고
+    if (DOM.masteryMainBtn) {
+      DOM.masteryMainBtn.style.display = "none";
+    }
+    // 난이도 버튼 사용
+    if (DOM.ratingArea) {
+      DOM.ratingArea.style.display = "block";
+    }
+    updateRatingButtonsForHint(item);
+    // 메인 버튼은 숨김 (지금 구조 유지)
+    if (DOM.mainBtn) {
+      DOM.mainBtn.style.display = "none";
+    }
+  }
+}
+
 // 타이핑 모드 채점
 function evaluateTypingAnswer(userInput, item) {
   const word = item.word;
