@@ -19,19 +19,17 @@ This refactor is intentionally conservative:
 2. `translations.js`
 3. word data files
 4. `lang_config.js`
-5. `script.js`
+5. `js/core/utils.js`
+6. `js/core/storage.js`
+7. `js/core/analytics.js`
+8. `js/app/runtime-chrome.js`
+9. `js/features/cram.js`
+10. `js/app/navigation.js`
+11. feature files
+12. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
-
-Recommended first-stage order:
-
-1. `js/core/utils.js`
-2. `js/core/storage.js`
-3. `js/core/analytics.js`
-4. `script.js`
-
-Feature files should be added only after the core helpers are stable.
 
 ## Current `script.js` Map
 
@@ -115,6 +113,7 @@ Moved so far:
 Target files:
 
 - `www/js/features/worddrop.js`
+- `www/js/features/cram.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -123,6 +122,19 @@ until a later state cleanup pass.
 
 Moved so far:
 
+- `www/js/features/cram.js`
+  - `TRAINING_CRAM_WORDS`
+  - `TRAINING_CRAM_INDEX`
+  - `TRAINING_CRAM_REPEAT_TOTAL`
+  - `TRAINING_CRAM_REPEAT_INDEX`
+  - `TRAINING_CRAM_GIVEUP_ARMED`
+  - `getGhostTypeForCram`
+  - `buildFirstLetterGhost`
+  - `applyCramGhost`
+  - `getCramTargetText`
+  - `showCramQuestion`
+  - `handleCramSubmit`
+  - `completeCramTrainingSession`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
