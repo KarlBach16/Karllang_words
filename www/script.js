@@ -3019,98 +3019,6 @@ function showNextQuestion() {
    ========== 7. ANSWER / RATING / TTS =========
    ============================================ */
 
-function getWordStatsAll() {
-  const raw = safeGet(STORAGE_KEYS.WORD_STATS);
-  const lang = getCurrentStudyLang();
-
-  if (!raw) return {};
-
-  try {
-    const parsed = JSON.parse(raw);
-    if (!parsed || typeof parsed !== "object") return {};
-
-    const byLang = parsed[lang];
-    if (byLang && typeof byLang === "object") {
-      return byLang;
-    }
-    return {};
-  } catch {
-    return {};
-  }
-}
-
-function saveWordStatsAll(objForCurrentLang) {
-  const lang = getCurrentStudyLang();
-  let base = {};
-
-  const raw = safeGet(STORAGE_KEYS.WORD_STATS);
-  if (raw) {
-    try {
-      const parsed = JSON.parse(raw);
-      if (parsed && typeof parsed === "object") {
-        base = parsed;
-      }
-    } catch {
-      base = {};
-    }
-  }
-
-  base[lang] = objForCurrentLang;
-  safeSet(STORAGE_KEYS.WORD_STATS, JSON.stringify(base));
-}
-/* [수정 1] getWordStatsById & setWordStatsById 함수 교체 */
-
-function getWordStatsById(id) {
-  const all = getWordStatsAll();
-  const base = all[id] || {};
-
-  // [New] totalViews(본 횟수) 가져오기. 없으면 0.
-  const totalViews = typeof base.totalViews === "number" ? base.totalViews : 0;
-
-  return {
-    hardCount: base.hardCount || 0,
-    wrongAttempts: base.wrongAttempts || 0,
-    bookmarked: !!base.bookmarked,
-    level: base.level || 0,
-    lastWrongAt: base.lastWrongAt || 0,
-    lastHardAt: base.lastHardAt || 0,
-    totalViews: totalViews, // 여기에 추가됨
-  };
-}
-
-function setWordStatsById(id, updater) {
-  const all = getWordStatsAll();
-
-  // [New] 초기화할 때 totalViews: 0 추가
-  const current = all[id] || {
-    hardCount: 0,
-    wrongAttempts: 0,
-    bookmarked: false,
-    level: 0,
-    lastWrongAt: 0,
-    lastHardAt: 0,
-    totalViews: 0,
-  };
-
-  const next = updater(current);
-  all[id] = next;
-  saveWordStatsAll(all);
-  return next;
-}
-/* [수정 2] 조회수 증가 함수 추가 (setWordStatsById 바로 밑에 붙여넣기) */
-
-function incrementTotalViews(wordId) {
-  setWordStatsById(String(wordId), (s) => {
-    let baseCount;
-    if (typeof s.totalViews === "number") {
-      baseCount = s.totalViews;
-    } else {
-      // 기존 데이터가 없으면 (레벨 + 틀린 횟수)로 대충 퉁쳐서 시작
-      baseCount = (s.level || 0) + (s.wrongAttempts || 0);
-    }
-    return { ...s, totalViews: baseCount + 1 };
-  });
-}
 // ✅ 특정 단어를 "문제 단어 + 북마크"에서 졸업시키는 헬퍼
 //    - options.keepBookmark === true 이면 북마크는 유지
 function markWordMastered(wordId, options = {}) {
@@ -3134,14 +3042,6 @@ function markWordMastered(wordId, options = {}) {
     // keepBookmark=true면 북마크 목록에서는 그대로 보여야 하니까
     renderBookmarks();
   }
-}
-
-function incrementWrongAttempt(wordId) {
-  setWordStatsById(String(wordId), (s) => ({
-    ...s,
-    wrongAttempts: (s.wrongAttempts || 0) + 1,
-    lastWrongAt: Date.now(), // 🔹 최근 오답 시각
-  }));
 }
 
 function toggleBookmark(wordId) {

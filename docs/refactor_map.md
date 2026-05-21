@@ -35,9 +35,10 @@ This refactor is intentionally conservative:
 18. `js/features/cefr-progress.js`
 19. `js/study/word-set-cache.js`
 20. `js/study/srs.js`
-21. `js/app/navigation.js`
-22. feature files
-23. `script.js`
+21. `js/study/word-stats.js`
+22. `js/app/navigation.js`
+23. feature files
+24. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -222,6 +223,13 @@ Moved so far:
   - `getSrsKey`
   - `getWordState`
   - `saveWordState`
+- `www/js/study/word-stats.js`
+  - `getWordStatsAll`
+  - `saveWordStatsAll`
+  - `getWordStatsById`
+  - `setWordStatsById`
+  - `incrementTotalViews`
+  - `incrementWrongAttempt`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
