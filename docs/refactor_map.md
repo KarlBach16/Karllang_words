@@ -32,9 +32,10 @@ This refactor is intentionally conservative:
 15. `js/features/study-ready.js`
 16. `js/features/session-end.js`
 17. `js/features/training-start.js`
-18. `js/app/navigation.js`
-19. feature files
-20. `script.js`
+18. `js/features/cefr-progress.js`
+19. `js/app/navigation.js`
+20. feature files
+21. `script.js`
 
 Initial extraction should insert classic scripts between `lang_config.js` and
 `script.js`, so existing data globals remain available.
@@ -130,6 +131,7 @@ Target files:
 - `www/js/features/study-ready.js`
 - `www/js/features/session-end.js`
 - `www/js/features/training-start.js`
+- `www/js/features/cefr-progress.js`
 - `www/js/features/share-card.js`
 - `www/js/features/reminders.js`
 
@@ -202,6 +204,10 @@ Moved so far:
 - `www/js/features/training-start.js`
   - `handleTrainingStart`
   - `belongsToCurrentStudyLang`
+- `www/js/features/cefr-progress.js`
+  - `getCefrDisplayLabel`
+  - `refreshCefrRowLabels`
+  - `updateCefrProgress`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
