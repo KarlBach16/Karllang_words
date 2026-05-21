@@ -45,9 +45,10 @@ This refactor is intentionally conservative:
 28. `js/study/word-stats.js`
 29. `js/study/reset.js`
 30. `js/study/queue.js`
-31. `js/app/navigation.js`
-32. feature files
-33. `script.js`
+31. `js/study/question-render.js`
+32. `js/app/navigation.js`
+33. feature files
+34. `script.js`
 
 Most extracted classic scripts load between `lang_config.js` and `script.js`.
 `js/study/word-source.js` is the exception: it loads immediately after the word
@@ -289,6 +290,8 @@ Moved so far:
   - `resetWordStatsForLang`
 - `www/js/study/queue.js`
   - `buildQueue`
+- `www/js/study/question-render.js`
+  - `showNextQuestion`
 - `www/js/features/share-card.js`
   - `SHARE_CARD_CACHE`
   - `NativeImageSaver`
