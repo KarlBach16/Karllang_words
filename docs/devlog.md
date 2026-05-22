@@ -895,6 +895,7 @@
   - `tools/fill_noun_articles_gemini.js`
   - `tools/audit_noun_pos_gemini.js`
   - `tools/fix_multi_meanings_gemini.js`
+- 이후 단어 작업 도구는 KarlLang 앱 repo 밖의 `karl-tools/karllang-app-tools/`로 이동했다.
 - API 원문 요청/응답이 커밋되지 않도록 `tmp/`를 `.gitignore`에 추가했다.
 
 ### 번역 보강
