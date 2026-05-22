@@ -13,3 +13,7 @@ tmp/
 
 # VS Code 설정 (공유할 필요 없으면)
 .vscode/
+
+# 개인 IDE/에이전트 설정
+.idea/
+.claude/
