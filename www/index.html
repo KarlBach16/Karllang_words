@@ -4,34 +4,35 @@
     <link rel="icon" href="./icon.png" />
     <link rel="preload" href="icon.png" as="image" />
     <meta charset="UTF-8" />
-    <meta name="viewport"
-      content="width=device-width,
-               initial-scale=1,
-               maximum-scale=1,
-               user-scalable=no,
-               viewport-fit=cover">
-    <meta name="description" content="KarlLang - 독일어 단어 학습 앱" />
-    <title>KarlLang - 독일어 학습</title>
+    <meta
+        name="viewport"
+        content="width=device-width,
+                 initial-scale=1,
+                 maximum-scale=1,
+                 user-scalable=no,
+                 viewport-fit=cover"
+    />
+    <meta name="description" content="KarlLang - typing-first vocabulary trainer for active recall" />
+    <title>KarlLang - Type it. Remember it.</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="manifest" href="manifest.json">
     <link rel="apple-touch-icon" sizes="180x180" href="icon.png" />
-<meta name="theme-color" content="#ffffff">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
 </head>
 <body class="state-intro">
 <div class="page-wrapper">
 
-        <!-- 인트로(로고) 화면 -->
+    <!-- 인트로 화면 -->
     <section id="introScreen" class="app-card">
         <div class="start-content">
 
             <!-- 로고 / 히어로 영역 -->
-            <!-- 로고 / 히어로 영역 -->
-<div class="hero-graphic">
-    <img src="icon.png" alt="KarlLang logo" class="hero-logo" />
-</div>
+            <div class="hero-graphic">
+                <img src="icon.png" alt="KarlLang logo" class="hero-logo" />
+            </div>
 
             <!-- 타이틀 / 태그라인 -->
             <header class="start-header">
@@ -262,11 +263,9 @@
                     <div id="attendanceWeek" class="attendance-week" aria-label="이번 주 출석"></div>
                 </section>
 
-                <!-- ✅ CEFR 진척도가 아래로 내려온 버전 -->
                 <section class="cefr-card">
                     <h3 class="cefr-card-title" id="userCefrTitle">CEFR 단어 진척도</h3>
                     <div id="cefrProgress" class="cefr-progress">
-                        <!-- A1 ~ C2 고정 6줄 -->
                         <div class="cefr-row" data-level="A1">
                             <span class="cefr-label">A1</span>
                             <div class="cefr-bar">
@@ -302,8 +301,7 @@
 <section id="trainingView" class="view view-section">
     <h2 class="view-title">훈련소</h2>
 
-    <!-- 🔹 소스 선택(미스테이크 / 북마크) -->
-    <!-- 🔹 소스 선택(토글 스위치) -->
+    <!-- 훈련 대상 선택 -->
     <div class="training-target-section">
         <label id="trainingTargetLabel" class="section-label">훈련 대상</label>
         
@@ -336,7 +334,6 @@
     </div>
 
     <div class="training-settings-card">
-        <!-- 🔹 훈련 모드 선택 (카드/카피/타이핑/깜지/두더지) – 일단 뼈대 -->
         <div class="control-group training-mode-group">
             <label for="trainingModeSelect">훈련 모드</label>
             <select id="trainingModeSelect">
@@ -357,14 +354,11 @@
             </select>
         </div>
     </div>
-    <!-- 🔹 세션 시작 버튼 -->
     <button id="trainingStartBtn" class="btn btn-primary" style="margin-top: 20px; width: 100%;">
         훈련 세션 시작
     </button>
 
-    <!-- 🔹 나중에 결과/요약 보여줄 자리 -->
     <div id="trainingSummary" class="section-description" style="margin-top: 16px;">
-        <!-- 세션 끝난 뒤에 "총 n단어 훈련" 같은 요약 들어갈 자리 -->
     </div>
 </section>
 
@@ -616,7 +610,7 @@
 <script src="category_meta.js"></script>
 <script src="translations.js"></script>
 
-<!-- 새 스키마 데이터 파일만 사용 -->
+<!-- Word data -->
 <script src="data/de/words_de_a1.js"></script>
 <script src="data/de/words_de_a2.js"></script>
 <script src="data/de/words_de_b1.js"></script>
@@ -672,7 +666,7 @@
 
 <script src="js/study/word-source.js"></script>
 
-<!-- 언어별 규칙 -->
+<!-- Language rules -->
 <script src="lang_config.js"></script>
 
 <!-- Core helpers -->
