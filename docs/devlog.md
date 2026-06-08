@@ -2,6 +2,62 @@
 
 > 정렬 규칙: 작업일지는 최신 날짜가 위로 오도록 작성한다. 새 항목은 이 안내 아래, 기존 항목보다 위쪽에 추가하고 같은 날짜의 기존 항목 순서는 유지한다.
 
+## 2026-06-08 - Supabase 동기화 골격 및 인트로 정리
+
+### Supabase 인증/계정 초기화
+
+- Supabase 프로젝트 연결을 위한 클라이언트 부트스트랩을 추가했다.
+- Google OAuth 로그인을 설정 탭의 계정 카드에 연결했다.
+- 로그인 상태를 감지해 이메일/로그아웃 상태를 UI에 표시하도록 했다.
+- 로그인 후 앱에서 `profiles`, `user_settings`, `sync_meta` 기본 row를 upsert하도록 했다.
+- RLS policy와 별개로 `authenticated` role의 table privilege가 필요해 grant SQL을 추가했다.
+- `new_word_cefr = all` 설정이 서버에 저장될 수 있도록 스키마와 migration을 보정했다.
+
+### 로컬/서버 동기화 기반
+
+- localStorage 데이터를 Supabase row 형태로 변환하는 매핑 함수를 추가했다.
+  - `user_word_progress`
+  - `user_language_stats`
+  - `user_attendance`
+- 수동 첫 업로드 함수 `pushLocalSyncSnapshot()`을 추가하고 실제 업로드를 검증했다.
+- 서버 데이터를 다시 읽는 `fetchRemoteSyncSnapshot()`을 추가하고 row count read-back을 검증했다.
+- remote row를 localStorage 구조로 되돌리는 preview 변환을 추가했다.
+- remote snapshot을 로컬에 적용하는 수동 함수 `applyRemoteSyncSnapshot()`을 추가했다.
+- 로컬 적용 전 `karllang_sync_backup_*` 백업을 남기도록 했다.
+- 첫 동기화 선택 흐름을 계정 카드에 추가했다.
+  - 이 기기 데이터 업로드
+  - 클라우드 데이터 사용
+  - 첫 동기화 완료 후 패널 숨김
+
+### 캐시/라이브서버 안정화
+
+- 예전 PWA service worker가 `karl-lang-v1` 캐시를 cache-first로 제공해 라이브서버에서 구버전 화면이 뜨는 문제를 정리했다.
+- legacy service worker를 캐시 삭제 및 unregister 전용으로 바꿨다.
+- 앱 시작 시 남아있는 `karl-lang*` CacheStorage와 service worker를 정리하는 `cache-cleanup.js`를 추가했다.
+- 학습 기록 localStorage는 건드리지 않도록 분리했다.
+
+### 인트로 화면 정리
+
+- 인트로에서 앱 아이콘을 제거하고 `KarlLang` 텍스트만 짧게 보여주는 형태로 변경했다.
+- `icon.png` preload와 이미지 로딩 대기 로직을 제거해 인트로를 더 단순하게 만들었다.
+- 흰 배경 + 검은 앱 이름 조합을 유지해 앱 전체 톤과 맞췄다.
+
+### 검증
+
+- Google 로그인 후 계정 카드 이메일 표시 확인
+- `profiles`, `user_settings`, `sync_meta` row 생성 확인
+- `pushLocalSyncSnapshot()` 업로드 확인
+  - `wordProgress: 234`
+  - `languageStats: 13`
+  - `attendance: 10`
+- `fetchRemoteSyncSnapshot()` read-back 확인
+- `previewRemoteLocalSnapshot()` 변환 preview 확인
+- `applyRemoteSyncSnapshot()` 백업/적용 확인
+- `refreshFirstSyncPanel()` 첫 동기화 완료 상태 확인
+- `find www/js -name '*.js' -print0 | xargs -0 -n 1 node --check`
+- `node --check www/translations.js`
+- `git diff --check`
+
 ## 2026-05-13 - 학습 흐름 정리 및 단어셋 고정
 
 ### 따라쓰기 버튼 정리

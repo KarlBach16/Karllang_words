@@ -72,31 +72,7 @@ const FORCE_START_SCREEN_FOR_DESIGN = false;
 
 function prepareIntroVisual() {
   const body = document.body;
-  const logo = document.querySelector("#introScreen .hero-logo");
-  if (!body || !logo) {
-    if (body) body.classList.add("intro-ready");
-    return;
-  }
-
-  let revealed = false;
-  const reveal = () => {
-    if (revealed) return;
-    revealed = true;
-    body.classList.add("intro-ready");
-  };
-
-  if (logo.complete && logo.naturalWidth > 0) {
-    if (typeof logo.decode === "function") {
-      logo.decode().then(reveal).catch(reveal);
-    } else {
-      reveal();
-    }
-    return;
-  }
-
-  logo.addEventListener("load", reveal, { once: true });
-  logo.addEventListener("error", reveal, { once: true });
-  setTimeout(reveal, 700);
+  if (body) body.classList.add("intro-ready");
 }
 
 function showSystemToast(message, duration = 1500) {

@@ -167,14 +167,6 @@ body {
     color: var(--color-text-dark);
 }
 
-/* Hero 영역 (인트로 카드용) */
-.hero-graphic {
-    width: 200px;
-    height: 200px;
-    position: relative;
-    margin: 0 auto 20px; /* 가운데 + 아래 여백 */
-}
-
 /* 둥둥 떠다니는 애니메이션 */
 @keyframes float {
     0%   { transform: translateY(0); }
@@ -2095,10 +2087,8 @@ textarea {
     flex-direction: column;
 }
 
-/* 2. 내용물 박스 (로고 + 글자 + 버튼) 중앙 정렬 */
+/* 2. 내용물 박스 중앙 정렬 */
 #introScreen .start-content {
-    /* [핵심] margin: auto를 주면 부모(카드) 높이 안에서 
-       위/아래 공간을 똑같이 나눠가지며 '물리적 정중앙'에 위치하게 됩니다. */
     margin: 0 auto !important;
     
     width: 100%;
@@ -2108,11 +2098,8 @@ textarea {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 30px; /* 요소들 사이 간격 */
+    gap: 0;
     min-height: calc(100dvh - var(--safe-top) - var(--safe-bottom) - 56px);
-
-    /* 로고(심볼) 시각 중심을 화면 중앙에 맞추기 위해 아래로 보정 */
-    transform: translateY(34px);
 }
 
 body.state-intro:not(.intro-ready) #introScreen .start-content {
@@ -2123,24 +2110,7 @@ body.state-intro.intro-ready #introScreen .start-content {
     visibility: visible;
 }
 
-/* 3. HTML에 인라인 스타일이 있지만, 혹시 몰라 SVG 정렬 보장 */
-#introScreen .hero-svg {
-    display: block;
-    margin: 0 auto;
-    filter: drop-shadow(0 10px 20px rgba(0, 200, 83, 0.15));
-}
-
-#introScreen .hero-logo {
-    display: block;
-    width: 200px;
-    height: 200px;
-    border-radius: 24%;
-    margin: 0 auto;
-    object-fit: contain;
-    filter: drop-shadow(0 10px 20px rgba(0, 200, 83, 0.15));
-}
-
-/* 4. 버튼 위치 보장 */
+/* 3. 버튼 위치 보장 */
 #introScreen .start-btn {
     width: 100%;
     max-width: 280px;
@@ -2299,9 +2269,9 @@ body.state-app #app {
 
 /* 인트로 화면의 KarlLang 타이틀은 더 존재감 있게 */
 #introScreen .start-header .app-title {
-    font-size: 34px;
+    font-size: 38px;
     font-weight: 800;
-    letter-spacing: 0.2px;
+    letter-spacing: 0;
 }
 /* 학습 카드 전체 높이 안정화 */
 .main-card {
