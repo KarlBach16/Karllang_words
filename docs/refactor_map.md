@@ -160,7 +160,7 @@ Moved so far:
   - `getWordArticle`
   - `getWordGrammarGender`
   - `getFormForLang`
-  - `buildGermanForm`
+  - `buildStudyForm`
   - `getMeaning`
   - `getReadingForLang`
   - `hasKanji`
@@ -213,7 +213,6 @@ Moved so far:
   - `getGhostTypeForCram`
   - `buildFirstLetterGhost`
   - `applyCramGhost`
-  - `getCramTargetText`
   - `showCramQuestion`
   - `handleCramSubmit`
   - `completeCramTrainingSession`
@@ -254,7 +253,7 @@ Moved so far:
   - `initTtsVoices`
   - `isNativeTtsAvailable`
   - `speakWithWebSpeech`
-  - `speakGerman`
+  - `speakStudyText`
 - `www/js/features/study-ready.js`
   - `updateStudyStartSummary`
   - `resetSessionReport`

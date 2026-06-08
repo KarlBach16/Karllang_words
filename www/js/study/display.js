@@ -2,10 +2,10 @@ function getDisplayWordSide(word) {
   const mode = SETTINGS.mode;
   const targetLang = SETTINGS.studyLang || "de";
 
-  const targetText = buildGermanForm(word);
+  const targetText = buildStudyForm(word);
   const meaning = getMeaning(word);
 
-  if (mode === "typing_de" || mode === "copy") {
+  if (mode === "typing" || mode === "copy") {
     return {
       question: meaning,
       answer: targetText,

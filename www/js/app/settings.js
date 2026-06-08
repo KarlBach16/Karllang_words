@@ -94,6 +94,14 @@ function sanitizeUiLang() {
   }
 }
 
+function normalizeStudyMode(mode) {
+  if (mode === "copy_de") return "copy";
+  if (mode === "typing_de") return "typing";
+  if (mode === "cram" || mode === "mix" || mode === "word_drop") return "copy";
+  if (["card", "copy", "typing"].includes(mode)) return mode;
+  return "copy";
+}
+
 function detectInitialUiLang() {
   if (typeof navigator === "undefined") {
     return "en"; // 브라우저 아닌 환경 대비 안전장치
@@ -144,10 +152,7 @@ function loadSettings() {
     const parsed = JSON.parse(raw);
     SETTINGS = { ...DEFAULT_SETTINGS, ...parsed };
 
-    // 예전 모드 이름 보정
-    if (SETTINGS.mode === "copy_de") {
-      SETTINGS.mode = "copy";
-    }
+    const normalizedMode = normalizeStudyMode(SETTINGS.mode);
 
     CURRENT_LANG = SETTINGS.uiLang || "ko";
 
@@ -156,6 +161,11 @@ function loadSettings() {
     sanitizeStudyLang();
 
     let shouldSaveSettings = false;
+
+    if (SETTINGS.mode !== normalizedMode) {
+      SETTINGS.mode = normalizedMode;
+      shouldSaveSettings = true;
+    }
 
     if (SETTINGS.appVersion !== APP_VERSION) {
       SETTINGS.appVersion = APP_VERSION;

@@ -185,7 +185,7 @@ function attachEvents() {
       if (
         e.key === "Enter" &&
         APP_STATE.phase === "QUESTION" &&
-        (SETTINGS.mode === "typing_de" || SETTINGS.mode === "copy")
+        (SETTINGS.mode === "typing" || SETTINGS.mode === "copy")
       ) {
         handleConfirm();
       }

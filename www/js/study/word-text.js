@@ -69,7 +69,7 @@ function getFormForLang(word, lang) {
   };
 }
 
-function buildGermanForm(word) {
+function buildStudyForm(word) {
   if (!word) return "";
 
   const targetLang = SETTINGS.studyLang || "de";

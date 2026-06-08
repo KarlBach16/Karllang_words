@@ -85,7 +85,7 @@ function createWordListItem(word, stats, context) {
   const left = document.createElement("div");
   left.className = "wordbook-main";
 
-  const german = buildGermanForm(word);
+  const studyText = buildStudyForm(word);
   const meaning = getMeaning(word) || "";
   const cefrShort = (word.cefr || "?").toUpperCase(); // A1, A2 …
   const hard = stats.hardCount || 0;
@@ -125,7 +125,7 @@ function createWordListItem(word, stats, context) {
   }
 
   left.innerHTML =
-    `<div class="wordbook-word">${german}</div>` +
+    `<div class="wordbook-word">${studyText}</div>` +
     `<div class="wordbook-meta">${metaHtml}</div>`;
 
   const right = document.createElement("div");
@@ -136,7 +136,7 @@ function createWordListItem(word, stats, context) {
   speakBtn.className = "icon-btn speaker-icon";
   speakBtn.setAttribute("aria-label", "발음 듣기");
   speakBtn.addEventListener("click", () => {
-    speakGerman(german);
+    speakStudyText(studyText);
   });
   // 렌더 시점에도 현재 TTS 가능 여부 반영
   {

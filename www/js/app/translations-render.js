@@ -185,7 +185,7 @@ function applyTranslations() {
       const v = opt.value;
       if (!v) return;
 
-      if (v === "typing_de") {
+      if (v === "typing") {
         opt.textContent = trKey("typing_mode", "Typing");
       } else if (v === "card") {
         opt.textContent = trKey("card_mode", "Cards");

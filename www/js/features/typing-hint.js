@@ -5,7 +5,7 @@ let TYPING_HINT_COUNT = 0;
 function getTypingHintTargetText(item) {
   if (!item || !item.word) return "";
 
-  const text = buildGermanForm(item.word) || getPrimaryStudyText(item.word) || "";
+  const text = buildStudyForm(item.word) || getPrimaryStudyText(item.word) || "";
   return (
     text
       .split(",")
@@ -34,7 +34,7 @@ function getTypingHintMaxCount(text) {
 
 function isTypingHintAvailable() {
   return (
-    SETTINGS.mode === "typing_de" &&
+    SETTINGS.mode === "typing" &&
     APP_STATE.phase === "QUESTION" &&
     APP_STATE.currentCard &&
     !TRAINING_MODE_ACTIVE &&
@@ -63,7 +63,7 @@ function updateTypingHintUi() {
     DOM.hintBtn.classList.toggle("hint-limit", atLimit);
   }
 
-  if (DOM.copyGhost && SETTINGS.mode === "typing_de") {
+  if (DOM.copyGhost && SETTINGS.mode === "typing") {
     const target = available
       ? getTypingHintTargetText(APP_STATE.currentCard)
       : "";
@@ -99,7 +99,7 @@ function updateRatingButtonsForHint(item) {
   if (!DOM.ratingButtons) return;
 
   const shouldDisableEasy =
-    item && item._typingHintUsed === true && SETTINGS.mode === "typing_de";
+    item && item._typingHintUsed === true && SETTINGS.mode === "typing";
 
   DOM.ratingButtons.forEach((btn) => {
     const isEasy = btn.getAttribute("data-rating") === "easy";

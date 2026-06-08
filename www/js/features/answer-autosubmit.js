@@ -8,7 +8,7 @@ function getAutoSubmitTargetText() {
 
   if (TRAINING_MODE_ACTIVE && TRAINING_MODE_KIND === "cram") {
     const word = (TRAINING_CRAM_WORDS || [])[TRAINING_CRAM_INDEX];
-    return (word ? buildGermanForm(word) : "").trim();
+    return (word ? buildStudyForm(word) : "").trim();
   }
 
   if (SETTINGS.mode === "copy") {
@@ -17,7 +17,7 @@ function getAutoSubmitTargetText() {
     if (DOM.copyGhost && DOM.copyGhost.textContent) {
       return DOM.copyGhost.textContent.trim();
     }
-    return (buildGermanForm(item.word) || "").trim();
+    return (buildStudyForm(item.word) || "").trim();
   }
 
   return "";

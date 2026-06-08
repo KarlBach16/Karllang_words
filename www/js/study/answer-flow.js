@@ -1,18 +1,17 @@
-function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
+function renderAnswerWithSpeaker(studyText, meaningText, word) {
   const stats = getWordStatsById(String(word.id));
 
   // 기본값: 타이핑/카피용
-  //  - 큰 글자: 독일어
+  //  - 큰 글자: 학습 언어
   //  - 작은 글자: 뜻(UI 언어)
-  let mainText = fullGerman || "";
+  let mainText = studyText || "";
   let smallMeaning = meaningText || "";
 
   // 🔹 카드 모드일 때만 순서 반전
-  //  - 앞면에서 이미 독일어를 봤으니
-  //  - 뒷면에서는 "뜻을 크게", "독일어를 작게"
+  //  - 뒷면에서는 "뜻을 크게", "학습 언어를 작게"
   if (SETTINGS.mode === "card") {
     mainText = meaningText || "";
-    smallMeaning = fullGerman || "";
+    smallMeaning = studyText || "";
   }
 
   const readingValue = getStudyReadingValue(word);
@@ -63,8 +62,7 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
   const btnSpeak = document.getElementById("speakerBtn");
   if (btnSpeak) {
     btnSpeak.addEventListener("click", () => {
-      // 카드 모드든 아니든 독일어를 읽어야 하니 fullGerman 사용
-      speakGerman(fullGerman);
+      speakStudyText(studyText);
     });
   }
 
@@ -92,7 +90,7 @@ function renderAnswerWithSpeaker(fullGerman, meaningText, word) {
 function applyAnswerResult(isCorrect, item) {
   const pack = t() || {};
   const word = item.word;
-  const german = buildGermanForm(word);
+  const studyText = buildStudyForm(word);
   const meaningText = getMeaning(word);
 
   item._sessionAnswerCorrect = isCorrect === true;
@@ -110,8 +108,8 @@ function applyAnswerResult(isCorrect, item) {
 
   // 카드 이펙트 + 정답 영역 + 발음
   applyAnswerEffect(isCorrect);
-  renderAnswerWithSpeaker(german, meaningText, word);
-  speakGerman(german);
+  renderAnswerWithSpeaker(studyText, meaningText, word);
+  speakStudyText(studyText);
 
   setPhase("ANSWER");
   updateTypingHintUi();
@@ -202,7 +200,7 @@ function evaluateTypingAnswer(userInput, item) {
   }
 
   // ==============================
-  //   1) 독일어가 아닐 때 (예: 영어)
+  //   1) 관사 보정이 필요 없는 언어일 때
   // ==============================
   if (targetLang !== "de") {
     const candidates = baseRaw
@@ -226,7 +224,7 @@ function evaluateTypingAnswer(userInput, item) {
   }
 
   // ==============================
-  //   2) 독일어일 때
+  //   2) 관사가 정답 앞에 붙는 언어일 때
   // ==============================
   const article = form.article || "";
   const inputNorm = trimmed;
@@ -514,7 +512,7 @@ function advanceTrainingStep() {
     } else if (TRAINING_MIX_STEP === 1) {
       SETTINGS.mode = "copy";
     } else {
-      SETTINGS.mode = "typing_de";
+      SETTINGS.mode = "typing";
     }
     saveSettings();
     hydrateSettingsToUI();
@@ -630,7 +628,7 @@ function handleConfirm() {
   if (SETTINGS.mode === "copy") {
     const pack = t() || {};
     const word = item.word;
-    const speakText = buildGermanForm(word);
+    const speakText = buildStudyForm(word);
 
     const rawInput = DOM.answerInput.value || "";
     const userInput = rawInput.trim();
@@ -667,7 +665,7 @@ function handleConfirm() {
       DOM.feedback.textContent = pack.copy_ok || pack.correct || "정확합니다";
     }
 
-    speakGerman(speakText);
+    speakStudyText(speakText);
 
     applyAnswerEffect(true);
 
@@ -710,7 +708,7 @@ function handleConfirm() {
 
 function handleSkip() {
   if (APP_STATE.phase !== "QUESTION") return;
-  if (SETTINGS.mode !== "typing_de") return;
+  if (SETTINGS.mode !== "typing") return;
 
   const item = APP_STATE.currentCard;
   if (!item) return;
@@ -741,7 +739,7 @@ function recordSessionResult(item, rating) {
     }
   }
 
-  if (APP_STATE.sessionMode === "typing_de") {
+  if (APP_STATE.sessionMode === "typing") {
     if (item._sessionAnswerCorrect === false) {
       APP_STATE.sessionWrongCount = (APP_STATE.sessionWrongCount || 0) + 1;
     } else {
@@ -761,7 +759,7 @@ function handleRating(rating) {
 
   if (
     rating === "easy" &&
-    SETTINGS.mode === "typing_de" &&
+    SETTINGS.mode === "typing" &&
     item._typingHintUsed === true
   ) {
     updateRatingButtonsForHint(item);

@@ -398,7 +398,7 @@ function openWordDetail(word) {
 
   let studyText = "";
   if (studyLang === "de") {
-    studyText = buildGermanForm(word);
+    studyText = buildStudyForm(word);
   } else {
     const primary = getPrimaryStudyText(word);
     if (primary) {

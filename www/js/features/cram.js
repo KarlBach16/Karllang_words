@@ -64,7 +64,7 @@ function buildFirstLetterGhost(full) {
 function applyCramGhost(word) {
   if (!DOM.copyGhost) return;
 
-  const full = buildGermanForm(word);
+  const full = buildStudyForm(word);
   const ghostType = getGhostTypeForCram(
     TRAINING_CRAM_REPEAT_INDEX,
     TRAINING_CRAM_REPEAT_TOTAL,
@@ -82,14 +82,6 @@ function applyCramGhost(word) {
     // 🔹 3회차: 아무 것도 안 보이게
     DOM.copyGhost.textContent = "";
   }
-}
-
-function getCramTargetText(word) {
-  if (!word) return "";
-  // 필요하면 form_de 같은 거 쓰고, 없으면 de
-  const base = word.form_de || word.de || "";
-
-  return normalizeAnswer(base);
 }
 
 // 🔹 깜지 모드용: 현재 단어 + 반복 상태에 맞게 copy 모드 카드 렌더
@@ -135,10 +127,10 @@ function showCramQuestion() {
     badgeEl.style.color = "inherit";
   }
 
-  const targetText = buildGermanForm(word); // 정답(관사 포함 독일어)
+  const targetText = buildStudyForm(word); // 정답(관사 포함 가능)
   const meaning = getMeaning(word); // UI 언어 뜻
 
-  // 질문: 뜻을 보여주고, 독일어(또는 학습 언어)를 쓰게
+  // 질문: 뜻을 보여주고 학습 언어를 쓰게 한다.
   const questionText = meaning || targetText;
   const hintText = getPosWithMeaning(word);
 
@@ -202,7 +194,7 @@ function handleCramSubmit() {
 
   const raw = inputEl.value || "";
   const value = raw.trim();
-  const targetText = (buildGermanForm(word) || "").trim();
+  const targetText = (buildStudyForm(word) || "").trim();
 
   // UI 언어 팩 (있어도 되고 없어도 됨)
   const pack = t() || {};
@@ -212,7 +204,7 @@ function handleCramSubmit() {
     TRAINING_CRAM_GIVEUP_ARMED = false; // 이 단어는 정상 마무리
 
     applyAnswerEffect(true);
-    speakGerman(targetText); // 🔈 훈련소 TTS: 정답 처리 직후 1회
+    speakStudyText(targetText); // 🔈 훈련소 TTS: 정답 처리 직후 1회
 
     TRAINING_CRAM_REPEAT_INDEX++;
 

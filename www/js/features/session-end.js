@@ -6,7 +6,7 @@ function getSessionReportWordLabel(word) {
   const uiText = getMeaning(word);
   const studyText =
     getPrimaryStudyText(word) ||
-    buildGermanForm(word) ||
+    buildStudyForm(word) ||
     word.lemma ||
     "";
 
@@ -50,7 +50,7 @@ function showEndStats() {
       pack.summary_block_title || "오늘 요약";
   }
 
-  const isTypingSession = APP_STATE.sessionMode === "typing_de";
+  const isTypingSession = APP_STATE.sessionMode === "typing";
   const countUnit = CURRENT_LANG === "en" ? "" : "개";
   const renderSummaryLine = (el, label, value, valueClass = "") => {
     if (!el) return;

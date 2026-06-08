@@ -291,7 +291,7 @@ function speakWithWebSpeech(text, targetLang, targetLangCode) {
   window.speechSynthesis.speak(utter);
 }
 
-function speakGerman(text) {
+function speakStudyText(text) {
   if (!text) return;
   if (SETTINGS.soundEnabled === false) return;
 

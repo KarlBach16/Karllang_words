@@ -243,7 +243,7 @@ function belongsToCurrentStudyLang(word) {
   if (!word) return false;
   const study = SETTINGS.studyLang || "de";
 
-  // 새 스키마: 독일어면 lemma 있는지 확인
+  // 새 스키마: 원본 학습 언어는 lemma, 나머지는 meanings를 확인한다.
   if (study === "de") {
     return !!word.lemma;
   }

@@ -246,7 +246,7 @@ function saveDailySummary(summary) {
 }
 
 function getSessionModeKey(mode) {
-  if (mode === "typing_de") return "typing";
+  if (mode === "typing") return "typing";
   if (mode === "copy") return "copy";
   if (mode === "card") return "card";
   if (mode === "cram") return "cram";

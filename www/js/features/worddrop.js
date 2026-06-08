@@ -34,7 +34,7 @@ const WORD_DROP_STATE = {
 const WORD_DROP_BASE_SPEED = 48;
 
 function getWordDropText(word) {
-  return (buildGermanForm(word) || getPrimaryStudyText(word) || "").trim();
+  return (buildStudyForm(word) || getPrimaryStudyText(word) || "").trim();
 }
 
 function dedupeWordsById(words) {
@@ -525,7 +525,7 @@ function checkWordDropAnswer() {
     }
   }, 180);
 
-  speakGerman(WORD_DROP_STATE.currentText);
+  speakStudyText(WORD_DROP_STATE.currentText);
   completeWordDropItem({ missed: false });
   return true;
 }

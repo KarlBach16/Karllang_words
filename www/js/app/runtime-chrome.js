@@ -18,7 +18,7 @@ function isKeyboardStudyPhase() {
   return (
     (APP_STATE.currentView === "study" &&
       APP_STATE.phase === "QUESTION" &&
-      (SETTINGS.mode === "typing_de" ||
+      (SETTINGS.mode === "typing" ||
         SETTINGS.mode === "copy" ||
         TRAINING_MODE_KIND === "cram")) ||
     (APP_STATE.currentView === "search" &&
@@ -57,7 +57,7 @@ function refocusAnswerInputForTyping() {
   if (
     APP_STATE.currentView !== "study" ||
     APP_STATE.phase !== "QUESTION" ||
-    SETTINGS.mode !== "typing_de" ||
+    SETTINGS.mode !== "typing" ||
     !DOM.answerInput ||
     DOM.answerInput.disabled
   ) {

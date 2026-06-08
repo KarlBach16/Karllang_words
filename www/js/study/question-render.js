@@ -126,7 +126,7 @@ function showNextQuestion() {
         let ghostText = "";
 
         if (studyLang === "de") {
-          ghostText = buildGermanForm(item.word);
+          ghostText = buildStudyForm(item.word);
         } else {
           const primary = getPrimaryStudyText(item.word);
           ghostText = primary || side.answer;
@@ -138,7 +138,7 @@ function showNextQuestion() {
       }
     }
 
-    if (SETTINGS.mode === "typing_de" || SETTINGS.mode === "copy") {
+    if (SETTINGS.mode === "typing" || SETTINGS.mode === "copy") {
       if (DOM.inputArea) DOM.inputArea.style.display = "block";
       if (DOM.answerInput) {
         DOM.answerInput.value = "";
@@ -152,7 +152,7 @@ function showNextQuestion() {
         }
         // 모바일에서 키보드 올라오면 화면 튀는 문제 방지:
         // copy 모드에서는 자동 포커스 제거 (타이핑만 자동 포커스)
-        if (SETTINGS.mode === "typing_de") {
+        if (SETTINGS.mode === "typing") {
           focusInputWithoutScroll(DOM.answerInput);
           requestAnimationFrame(refocusAnswerInputForTyping);
           setTimeout(refocusAnswerInputForTyping, 80);
@@ -170,7 +170,7 @@ function showNextQuestion() {
 
       if (DOM.skipBtn) {
         DOM.skipBtn.style.display =
-          SETTINGS.mode === "typing_de" ? "inline-block" : "none";
+          SETTINGS.mode === "typing" ? "inline-block" : "none";
       }
     } else {
       if (DOM.inputArea) {
