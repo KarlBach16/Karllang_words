@@ -5,6 +5,7 @@ function init() {
   cacheDOM();
   updateRuntimeChromeClass();
   loadSettings();
+  initSupabaseClient();
   syncAppViewportHeight();
 
   if (DOM.startUiLang) {
