@@ -129,6 +129,10 @@ function cacheDOM() {
   DOM.settingsUiLang = document.getElementById("settingsUiLang");
   DOM.settingsStudyLang = document.getElementById("settingsStudyLang");
   DOM.settingsLanguageTitle = document.getElementById("settingsLanguageTitle");
+  DOM.settingsAccountTitle = document.getElementById("settingsAccountTitle");
+  DOM.accountStatusText = document.getElementById("accountStatusText");
+  DOM.accountStatusDetail = document.getElementById("accountStatusDetail");
+  DOM.accountLoginBtn = document.getElementById("accountLoginBtn");
   DOM.settingsFeedbackTitle = document.getElementById("settingsFeedbackTitle");
   DOM.soundToggle = document.getElementById("soundToggle");
   DOM.soundToggleLabel = document.getElementById("soundToggleLabel");

@@ -431,6 +431,31 @@ body {
     padding: 8px 10px;
 }
 
+.account-status-row {
+    padding: 8px 0 10px;
+}
+
+.account-status-text {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text-dark);
+}
+
+.account-status-detail {
+    margin-top: 3px;
+    font-size: 12px;
+    line-height: 1.35;
+    color: var(--color-text-light);
+}
+
+.account-login-btn {
+    align-self: flex-start;
+    min-height: 36px;
+    margin: 0 0 12px;
+    padding: 8px 16px;
+    font-size: 13px;
+}
+
 /* 설정 화면: 사운드/진동 토글 버튼 */
 #settingsView .control-group .toggle-switch {
     flex: 0 0 auto;

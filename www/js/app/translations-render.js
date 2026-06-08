@@ -447,12 +447,16 @@ function applyTranslations() {
       "언어 설정",
     );
   }
+  if (DOM.settingsAccountTitle) {
+    DOM.settingsAccountTitle.textContent = trKey("account.title", "계정");
+  }
   if (DOM.settingsFeedbackTitle) {
     DOM.settingsFeedbackTitle.textContent = trKey(
       "settings.feedback_title",
       "피드백 설정",
     );
   }
+  renderAuthState();
 
   if (DOM.settingsUiLangLabel)
     DOM.settingsUiLangLabel.textContent = trKey(

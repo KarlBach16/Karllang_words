@@ -29,7 +29,7 @@ function initSupabaseClient() {
       auth: {
         persistSession: true,
         autoRefreshToken: true,
-        detectSessionInUrl: false,
+        detectSessionInUrl: true,
       },
     });
     SUPABASE_CLIENT_STATUS = {

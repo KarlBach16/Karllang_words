@@ -493,6 +493,26 @@
                 </div>
 
                 <div class="settings-card">
+                    <h3 class="settings-card-title" id="settingsAccountTitle">계정</h3>
+
+                    <div class="account-status-row">
+                        <div>
+                            <div id="accountStatusText" class="account-status-text">Guest mode</div>
+                            <div id="accountStatusDetail" class="account-status-detail">Learning data is stored on this device.</div>
+                        </div>
+                    </div>
+
+                    <button
+                        type="button"
+                        id="accountLoginBtn"
+                        class="btn btn-secondary account-login-btn"
+                        disabled
+                    >
+                        Sign in
+                    </button>
+                </div>
+
+                <div class="settings-card">
                     <h3 class="settings-card-title" id="settingsFeedbackTitle">피드백 설정</h3>
 
                     <div class="control-group">
@@ -712,6 +732,7 @@
 <script src="js/app/settings-ui.js"></script>
 <script src="js/features/wordbook.js"></script>
 <script src="js/features/feedback.js"></script>
+<script src="js/features/auth.js"></script>
 <script src="js/features/worddrop.js"></script>
 
 <!-- 메인 앱 로직 -->
