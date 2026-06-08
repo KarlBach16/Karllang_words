@@ -2,6 +2,7 @@
 
 function init() {
   // 1. 기존 앱 공통 초기화 -----------------------------
+  cleanupLegacyWebCaches();
   cacheDOM();
   updateRuntimeChromeClass();
   loadSettings();

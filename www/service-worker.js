@@ -1,28 +1,40 @@
-/* www/service-worker.js */
-const CACHE_NAME = 'karl-lang-v1';
-const ASSETS_TO_CACHE = [
-  './',
-  './index.html',
-  './style.css',
-  './script.js',
-  './manifest.json',
-  './icon.png'
-];
+// Legacy PWA cache cleanup.
+// KarlLang currently ships through native shells, so stale web caches should not
+// control local testing or deployed web builds.
 
-// 설치 (캐싱)
-self.addEventListener('install', (event) => {
+self.addEventListener("install", (event) => {
+  self.skipWaiting();
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS_TO_CACHE);
-    })
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(
+          keys
+            .filter((key) => key.startsWith("karl-lang"))
+            .map((key) => caches.delete(key)),
+        ),
+      ),
   );
 });
 
-// 요청 가로채기 (오프라인 지원)
-self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
-    })
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    Promise.all([
+      self.clients.claim(),
+      caches
+        .keys()
+        .then((keys) =>
+          Promise.all(
+            keys
+              .filter((key) => key.startsWith("karl-lang"))
+              .map((key) => caches.delete(key)),
+          ),
+        ),
+      self.registration.unregister(),
+    ]),
   );
+});
+
+self.addEventListener("fetch", () => {
+  // No cache-first response. Let the browser/network handle every request.
 });
