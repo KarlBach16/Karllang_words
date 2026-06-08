@@ -498,9 +498,9 @@ body {
 }
 
 .account-sync-download {
-    background: #eef4ff;
-    color: var(--color-blue);
-    border: 1px solid #bfd1ff;
+    background: var(--color-secondary);
+    color: #ffffff;
+    border: 1px solid var(--color-secondary);
 }
 
 /* 설정 화면: 사운드/진동 토글 버튼 */
