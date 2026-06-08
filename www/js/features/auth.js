@@ -47,7 +47,11 @@ function subscribeAuthChanges() {
     };
     renderAuthState();
     if (session?.user) {
-      ensureAuthServerRecords(session.user);
+      ensureAuthServerRecords(session.user).then(() => {
+        refreshFirstSyncPanel();
+      });
+    } else {
+      refreshFirstSyncPanel();
     }
   });
 }
@@ -85,7 +89,11 @@ async function refreshAuthState() {
         reason: session?.user ? "signed_in" : "guest",
       };
       if (session?.user) {
-        ensureAuthServerRecords(session.user);
+        ensureAuthServerRecords(session.user).then(() => {
+          refreshFirstSyncPanel();
+        });
+      } else {
+        refreshFirstSyncPanel();
       }
     }
   } catch (error) {
@@ -146,6 +154,7 @@ async function signOut() {
   }
 
   await refreshAuthState();
+  refreshFirstSyncPanel();
 }
 
 function normalizeServerCefr(value) {
@@ -266,5 +275,9 @@ function renderAuthState() {
         ? trKey("account.sign_out", "Sign out")
         : trKey("account.sign_in", "Sign in"),
     );
+  }
+
+  if (!AUTH_STATE.signedIn) {
+    setFirstSyncPanelVisible(false);
   }
 }

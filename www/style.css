@@ -456,6 +456,53 @@ body {
     font-size: 13px;
 }
 
+.account-sync-panel {
+    margin: 4px 0 12px;
+    padding: 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    background: #f8fafc;
+}
+
+.account-sync-title {
+    font-size: 13px;
+    font-weight: 800;
+    color: var(--color-text-dark);
+}
+
+.account-sync-detail {
+    margin-top: 4px;
+    font-size: 12px;
+    line-height: 1.4;
+    color: var(--color-text-light);
+}
+
+.account-sync-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.account-sync-btn {
+    min-height: 36px;
+    padding: 8px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.account-sync-upload {
+    background: var(--color-primary);
+    color: #ffffff;
+}
+
+.account-sync-download {
+    background: #eef4ff;
+    color: var(--color-blue);
+    border: 1px solid #bfd1ff;
+}
+
 /* 설정 화면: 사운드/진동 토글 버튼 */
 #settingsView .control-group .toggle-switch {
     flex: 0 0 auto;

@@ -133,6 +133,11 @@ function cacheDOM() {
   DOM.accountStatusText = document.getElementById("accountStatusText");
   DOM.accountStatusDetail = document.getElementById("accountStatusDetail");
   DOM.accountLoginBtn = document.getElementById("accountLoginBtn");
+  DOM.accountSyncPanel = document.getElementById("accountSyncPanel");
+  DOM.accountSyncTitle = document.getElementById("accountSyncTitle");
+  DOM.accountSyncDetail = document.getElementById("accountSyncDetail");
+  DOM.accountSyncUploadBtn = document.getElementById("accountSyncUploadBtn");
+  DOM.accountSyncDownloadBtn = document.getElementById("accountSyncDownloadBtn");
   DOM.settingsFeedbackTitle = document.getElementById("settingsFeedbackTitle");
   DOM.soundToggle = document.getElementById("soundToggle");
   DOM.soundToggleLabel = document.getElementById("soundToggleLabel");
