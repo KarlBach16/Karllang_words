@@ -9,6 +9,8 @@ let AUTH_STATE = {
 
 let AUTH_CONTROLS_READY = false;
 let AUTH_LISTENER_READY = false;
+let AUTH_SERVER_BOOTSTRAPPED_USER_ID = null;
+let AUTH_SERVER_BOOTSTRAP_PROMISE = null;
 
 function initAuth() {
   bindAuthControls();
@@ -44,6 +46,9 @@ function subscribeAuthChanges() {
       reason: session?.user ? "signed_in" : "guest",
     };
     renderAuthState();
+    if (session?.user) {
+      ensureAuthServerRecords(session.user);
+    }
   });
 }
 
@@ -79,6 +84,9 @@ async function refreshAuthState() {
         user: session?.user || null,
         reason: session?.user ? "signed_in" : "guest",
       };
+      if (session?.user) {
+        ensureAuthServerRecords(session.user);
+      }
     }
   } catch (error) {
     AUTH_STATE = {
@@ -138,6 +146,93 @@ async function signOut() {
   }
 
   await refreshAuthState();
+}
+
+function normalizeServerCefr(value) {
+  const cefr = (value || "A1").toString();
+  if (cefr.toLowerCase() === "all") return "all";
+  const upper = cefr.toUpperCase();
+  return ["A1", "A2", "B1", "B2"].includes(upper) ? upper : "A1";
+}
+
+function normalizeServerGoal(value) {
+  const parsed = parseInt(value, 10);
+  return [5, 10, 20, 30, 50].includes(parsed) ? parsed : 5;
+}
+
+function buildServerSettingsPayload(userId) {
+  const mode = normalizeStudyMode(SETTINGS.mode);
+  return {
+    user_id: userId,
+    ui_lang: UI_LANG_CODES.includes(SETTINGS.uiLang) ? SETTINGS.uiLang : "en",
+    study_lang: ALLOWED_STUDY_LANGS.includes(SETTINGS.studyLang)
+      ? SETTINGS.studyLang
+      : "de",
+    mode,
+    goal_typing: normalizeServerGoal(SETTINGS.goalTyping),
+    goal_card: normalizeServerGoal(SETTINGS.goalCard || SETTINGS.goalTyping),
+    new_word_cefr: normalizeServerCefr(SETTINGS.newWordCefr),
+    new_word_category: SETTINGS.newWordCategory || "all",
+    sound_enabled: SETTINGS.soundEnabled !== false,
+    haptic_enabled: SETTINGS.hapticEnabled !== false,
+    reminder_enabled: SETTINGS.studyReminderEnabled === true,
+    reminder_time: normalizeReminderTime(SETTINGS.studyReminderTime),
+  };
+}
+
+async function ensureAuthServerRecords(user) {
+  const client = getSupabaseClient();
+  if (!client?.from || !user?.id) return false;
+
+  if (AUTH_SERVER_BOOTSTRAPPED_USER_ID === user.id) {
+    return true;
+  }
+  if (AUTH_SERVER_BOOTSTRAP_PROMISE) {
+    return AUTH_SERVER_BOOTSTRAP_PROMISE;
+  }
+
+  AUTH_SERVER_BOOTSTRAP_PROMISE = upsertAuthServerRecords(client, user)
+    .then(() => {
+      AUTH_SERVER_BOOTSTRAPPED_USER_ID = user.id;
+      AUTH_SERVER_BOOTSTRAP_PROMISE = null;
+      console.info("[auth] server account records ready.");
+      return true;
+    })
+    .catch((error) => {
+      AUTH_SERVER_BOOTSTRAP_PROMISE = null;
+      console.warn("[auth] server account record upsert failed.", error);
+      return false;
+    });
+
+  return AUTH_SERVER_BOOTSTRAP_PROMISE;
+}
+
+async function upsertAuthServerRecords(client, user) {
+  const now = new Date().toISOString();
+  const settingsPayload = buildServerSettingsPayload(user.id);
+
+  const operations = [
+    client
+      .from("profiles")
+      .upsert({ id: user.id, last_seen_at: now }, { onConflict: "id" }),
+    client
+      .from("user_settings")
+      .upsert(settingsPayload, { onConflict: "user_id" }),
+    client.from("sync_meta").upsert(
+      {
+        user_id: user.id,
+        schema_version: 1,
+        last_push_at: now,
+      },
+      { onConflict: "user_id" },
+    ),
+  ];
+
+  const results = await Promise.all(operations);
+  const failed = results.find((result) => result.error);
+  if (failed?.error) {
+    throw failed.error;
+  }
 }
 
 function getAuthState() {

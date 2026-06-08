@@ -116,7 +116,7 @@ create table public.user_settings (
   constraint user_settings_goal_card_check
     check (goal_card in (5, 10, 20, 30, 50)),
   constraint user_settings_cefr_check
-    check (new_word_cefr in ('A1', 'A2', 'B1', 'B2')),
+    check (new_word_cefr in ('all', 'A1', 'A2', 'B1', 'B2')),
   constraint user_settings_reminder_time_check
     check (reminder_time ~ '^([01][0-9]|2[0-3]):[0-5][0-9]$')
 );
@@ -348,14 +348,9 @@ on public.user_word_progress
 for update
 using (auth.uid() = user_id)
 with check (auth.uid() = user_id);
-
-create policy "user_word_progress_delete_own"
-on public.user_word_progress
-for delete
-using (auth.uid() = user_id);
 ```
 
-삭제 정책은 v1 앱에서 적극적으로 쓰지 않는다. 다만 future cleanup을 위해 열어둘지 최종 검토가 필요하다.
+삭제 정책은 v1에서 만들지 않는다.
 
 ### 6.4 user_language_stats policies
 
@@ -389,14 +384,9 @@ create policy "user_attendance_insert_own"
 on public.user_attendance
 for insert
 with check (auth.uid() = user_id);
-
-create policy "user_attendance_delete_own"
-on public.user_attendance
-for delete
-using (auth.uid() = user_id);
 ```
 
-삭제 정책은 v1 앱에서 쓰지 않는 것을 권장한다.
+삭제 정책은 v1에서 만들지 않는다.
 
 ### 6.6 sync_meta policies
 
@@ -418,7 +408,24 @@ using (auth.uid() = user_id)
 with check (auth.uid() = user_id);
 ```
 
-## 7. Initial Profile Creation
+## 7. Table Privileges
+
+RLS policy는 접근 조건만 정의한다. Supabase Auth의 `authenticated` role이 테이블을 실제로 읽고 쓸 수 있도록 기본 table privilege도 부여해야 한다.
+
+v1에서는 앱이 삭제 동기화를 하지 않으므로 delete 권한은 부여하지 않는다.
+
+```sql
+grant usage on schema public to authenticated;
+
+grant select, insert, update on public.profiles to authenticated;
+grant select, insert, update on public.user_settings to authenticated;
+grant select, insert, update on public.user_word_progress to authenticated;
+grant select, insert, update on public.user_language_stats to authenticated;
+grant select, insert on public.user_attendance to authenticated;
+grant select, insert, update on public.sync_meta to authenticated;
+```
+
+## 8. Initial Profile Creation
 
 Supabase Auth 가입 직후 `profiles` row를 자동 생성할지 선택해야 한다.
 
