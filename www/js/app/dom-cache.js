@@ -12,6 +12,8 @@ function cacheDOM() {
   DOM.startUiLang = document.getElementById("startUiLang");
   DOM.startStudyLang = document.getElementById("startStudyLang");
   DOM.startAppBtn = document.getElementById("startAppBtn");
+  DOM.startAppleLoginBtn = document.getElementById("startAppleLoginBtn");
+  DOM.startGoogleLoginBtn = document.getElementById("startGoogleLoginBtn");
   DOM.startTitle = document.getElementById("startTitle");
   DOM.startDescription = document.getElementById("startDescription");
   DOM.startTagline = document.querySelector(".tagline");
@@ -135,7 +137,9 @@ function cacheDOM() {
   DOM.accountSyncStatus = document.getElementById("accountSyncStatus");
   DOM.accountSyncSection = document.getElementById("accountSyncSection");
   DOM.accountSyncSectionTitle = document.getElementById("accountSyncSectionTitle");
-  DOM.accountLoginBtn = document.getElementById("accountLoginBtn");
+  DOM.accountGoogleLoginBtn = document.getElementById("accountGoogleLoginBtn");
+  DOM.accountAppleLoginBtn = document.getElementById("accountAppleLoginBtn");
+  DOM.accountSignOutBtn = document.getElementById("accountSignOutBtn");
   DOM.accountSyncCheckBtn = document.getElementById("accountSyncCheckBtn");
   DOM.accountSyncPanel = document.getElementById("accountSyncPanel");
   DOM.accountSyncDetail = document.getElementById("accountSyncDetail");

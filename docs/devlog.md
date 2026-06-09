@@ -2,6 +2,42 @@
 
 > 정렬 규칙: 작업일지는 최신 날짜가 위로 오도록 작성한다. 새 항목은 이 안내 아래, 기존 항목보다 위쪽에 추가하고 같은 날짜의 기존 항목 순서는 유지한다.
 
+## 2026-06-09 - Apple 로그인 및 서버 동기화 검증
+
+### Apple/Google/Guest 시작 흐름
+
+- 시작 화면에 Apple 로그인, Google 로그인, 게스트 시작 버튼을 추가했다.
+- 온보딩에서 선택한 UI 언어와 학습 언어를 로그인 전에도 저장하도록 정리했다.
+- 로그인 OAuth 왕복 후 기존처럼 설정 화면이나 학습 화면으로 튀지 않고 의도한 학습 화면으로 돌아오도록 return view 처리를 보정했다.
+- 설정 탭 계정 카드에서 Apple 로그인과 Google 로그인을 모두 제공하도록 분리했다.
+- Apple 로그인용 client secret 생성 스크립트를 추가했다.
+- `.p8` Apple private key 파일이 커밋되지 않도록 `.gitignore`에 차단 규칙을 추가했다.
+
+### Supabase 인증/동기화 테스트
+
+- Apple Developer Services ID와 Sign in with Apple key 설정 후 Supabase Apple OAuth 로그인을 검증했다.
+- Google OAuth와 Apple OAuth 모두 계정 카드에 이메일이 표시되는 것을 확인했다.
+- 게스트로 학습 후 로그인하고 서버 업로드 흐름을 다시 테스트했다.
+- Supabase Table Editor와 Authentication 화면에서 테스트 유저 row 확인 방법을 정리했다.
+- 테스트 데이터만 있는 현 단계에서는 서버 row를 비우고 새로 검증하는 흐름이 가장 안전하다고 판단했다.
+
+### 학습 단어 수 캐시 수정
+
+- 학습 단어 수를 바꿔도 이전 단어셋 캐시가 재사용되어 목표 단어 수가 반영되지 않는 문제를 수정했다.
+- 학습 단어셋 캐시 키에 학습 언어, CEFR, 카테고리뿐 아니라 목표 단어 수를 포함하도록 변경했다.
+- 목표 단어 수가 달라지면 `새 단어 세트` 버튼을 누르지 않아도 잘못된 캐시를 버리고 새 큐를 만들도록 했다.
+
+### 검증
+
+- Apple 로그인 성공 확인
+- Google 로그인 성공 확인
+- 게스트 시작 버튼 레이아웃 확인
+- 서버 동기화 업로드 row 변화 확인
+- `node --check scripts/generate_apple_client_secret.js`
+- `find www/js -name '*.js' -print0 | xargs -0 -n 1 node --check`
+- `node --check www/translations.js`
+- `git diff --check`
+
 ## 2026-06-08 - Supabase 동기화 골격 및 인트로 정리
 
 ### Supabase 인증/계정 초기화

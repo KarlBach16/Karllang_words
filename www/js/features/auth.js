@@ -17,8 +17,8 @@ function getValidAuthReturnView(view) {
   return allowed.includes(view) ? view : "settings";
 }
 
-function saveAuthReturnView() {
-  const view = getValidAuthReturnView(APP_STATE.currentView);
+function saveAuthReturnView(viewOverride) {
+  const view = getValidAuthReturnView(viewOverride || APP_STATE.currentView);
   safeSet(STORAGE_KEYS.AUTH_RETURN_VIEW, view);
 }
 
@@ -41,16 +41,26 @@ function initAuth() {
 }
 
 function bindAuthControls() {
-  if (AUTH_CONTROLS_READY || !DOM.accountLoginBtn) return;
+  if (AUTH_CONTROLS_READY) return;
   AUTH_CONTROLS_READY = true;
 
-  DOM.accountLoginBtn.addEventListener("click", () => {
-    if (AUTH_STATE.signedIn) {
+  if (DOM.accountGoogleLoginBtn) {
+    DOM.accountGoogleLoginBtn.addEventListener("click", () => {
+      signInWithProvider("google");
+    });
+  }
+
+  if (DOM.accountAppleLoginBtn) {
+    DOM.accountAppleLoginBtn.addEventListener("click", () => {
+      signInWithProvider("apple");
+    });
+  }
+
+  if (DOM.accountSignOutBtn) {
+    DOM.accountSignOutBtn.addEventListener("click", () => {
       signOut();
-    } else {
-      signInWithGoogle();
-    }
-  });
+    });
+  }
 
   if (DOM.accountSyncCheckBtn) {
     DOM.accountSyncCheckBtn.addEventListener("click", () => {
@@ -141,31 +151,41 @@ async function refreshAuthState() {
   return AUTH_STATE;
 }
 
-async function signInWithGoogle() {
+async function signInWithProvider(provider) {
   const client = getSupabaseClient();
   if (!client?.auth?.signInWithOAuth) {
     console.warn("[auth] Supabase auth is unavailable.");
     return;
   }
 
-  if (DOM.accountLoginBtn) {
-    DOM.accountLoginBtn.disabled = true;
-    DOM.accountLoginBtn.textContent = trKey("account.signing_in", "Signing in...");
+  if (DOM.accountGoogleLoginBtn) {
+    DOM.accountGoogleLoginBtn.disabled = true;
+  }
+  if (DOM.accountAppleLoginBtn) {
+    DOM.accountAppleLoginBtn.disabled = true;
   }
 
   saveAuthReturnView();
   const redirectTo = `${window.location.origin}${window.location.pathname}`;
   const { error } = await client.auth.signInWithOAuth({
-    provider: "google",
+    provider,
     options: {
       redirectTo,
     },
   });
 
   if (error) {
-    console.warn("[auth] Google sign-in failed.", error);
+    console.warn(`[auth] ${provider} sign-in failed.`, error);
     renderAuthState();
   }
+}
+
+function signInWithGoogle() {
+  return signInWithProvider("google");
+}
+
+function signInWithApple() {
+  return signInWithProvider("apple");
 }
 
 async function signOut() {
@@ -175,8 +195,8 @@ async function signOut() {
     return;
   }
 
-  if (DOM.accountLoginBtn) {
-    DOM.accountLoginBtn.disabled = true;
+  if (DOM.accountSignOutBtn) {
+    DOM.accountSignOutBtn.disabled = true;
   }
 
   const { error } = await client.auth.signOut();
@@ -302,16 +322,31 @@ function renderAuthState() {
     );
   }
 
-  if (DOM.accountLoginBtn) {
-    DOM.accountLoginBtn.textContent = AUTH_STATE.signedIn
-      ? trKey("account.sign_out", "Sign out")
-      : trKey("account.sign_in", "Sign in");
-    DOM.accountLoginBtn.disabled = false;
-    DOM.accountLoginBtn.setAttribute(
+  if (DOM.accountGoogleLoginBtn) {
+    DOM.accountGoogleLoginBtn.hidden = AUTH_STATE.signedIn;
+    DOM.accountGoogleLoginBtn.disabled = AUTH_STATE.signedIn;
+    DOM.accountGoogleLoginBtn.textContent = trKey(
+      "account.sign_in_google",
+      "Sign in with Google",
+    );
+  }
+
+  if (DOM.accountAppleLoginBtn) {
+    DOM.accountAppleLoginBtn.hidden = AUTH_STATE.signedIn;
+    DOM.accountAppleLoginBtn.disabled = AUTH_STATE.signedIn;
+    DOM.accountAppleLoginBtn.textContent = trKey(
+      "account.sign_in_apple",
+      "Sign in with Apple",
+    );
+  }
+
+  if (DOM.accountSignOutBtn) {
+    DOM.accountSignOutBtn.hidden = !AUTH_STATE.signedIn;
+    DOM.accountSignOutBtn.disabled = !AUTH_STATE.signedIn;
+    DOM.accountSignOutBtn.textContent = trKey("account.sign_out", "Sign out");
+    DOM.accountSignOutBtn.setAttribute(
       "aria-label",
-      AUTH_STATE.signedIn
-        ? trKey("account.sign_out", "Sign out")
-        : trKey("account.sign_in", "Sign in"),
+      trKey("account.sign_out", "Sign out"),
     );
   }
 

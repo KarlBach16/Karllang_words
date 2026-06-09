@@ -81,9 +81,17 @@
                 </div>
             </div>
 
-            <button id="startAppBtn" class="btn btn-primary start-btn">
-                시작
-            </button>
+            <div class="start-auth-actions">
+                <button id="startAppleLoginBtn" class="btn start-apple-btn" type="button">
+                    Apple로 계속하기
+                </button>
+                <button id="startGoogleLoginBtn" class="btn btn-secondary start-google-btn" type="button">
+                    Google로 계속하기
+                </button>
+                <button id="startAppBtn" class="btn btn-primary start-btn" type="button">
+                    게스트로 시작
+                </button>
+            </div>
         </div>
     </section>
 
@@ -493,14 +501,33 @@
                             <div id="accountStatusText" class="account-status-text">Guest mode</div>
                             <div id="accountStatusDetail" class="account-status-detail">Learning data is stored on this device.</div>
                         </div>
-                        <button
-                            type="button"
-                            id="accountLoginBtn"
-                            class="btn btn-secondary account-login-btn"
-                            disabled
-                        >
-                            Sign in
-                        </button>
+                        <div class="account-auth-actions">
+                            <button
+                                type="button"
+                                id="accountAppleLoginBtn"
+                                class="btn account-apple-login-btn"
+                                disabled
+                            >
+                                Sign in with Apple
+                            </button>
+                            <button
+                                type="button"
+                                id="accountGoogleLoginBtn"
+                                class="btn btn-secondary account-login-btn"
+                                disabled
+                            >
+                                Sign in with Google
+                            </button>
+                            <button
+                                type="button"
+                                id="accountSignOutBtn"
+                                class="btn btn-secondary account-login-btn"
+                                hidden
+                                disabled
+                            >
+                                Sign out
+                            </button>
+                        </div>
                     </section>
                 </div>
 

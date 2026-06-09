@@ -21,12 +21,24 @@ function buildQueue() {
     .toLowerCase();
 
   const studyLang = SETTINGS.studyLang || "de";
-  const filterKey = `${studyLang}|${cefrFilter}|${catFilter}`;
+  let target = parseInt(SETTINGS.goalTyping, 10);
+  if (!target || target < 1) {
+    target = 5;
+  }
+
+  const filterKey = `${studyLang}|${cefrFilter}|${catFilter}|goal:${target}`;
   const storedStudySet = loadStudyWordSet();
-  const cachedIds =
-    LAST_STUDY_WORD_IDS && LAST_STUDY_WORD_IDS.length > 0
-      ? LAST_STUDY_WORD_IDS
-      : storedStudySet.ids;
+  const memoryCacheMatches =
+    LAST_STUDY_WORD_IDS &&
+    LAST_STUDY_WORD_IDS.length > 0 &&
+    LAST_STUDY_META &&
+    LAST_STUDY_META.filterKey === filterKey;
+  const storedCacheMatches = storedStudySet.filterKey === filterKey;
+  const cachedIds = memoryCacheMatches
+    ? LAST_STUDY_WORD_IDS
+    : storedCacheMatches
+    ? storedStudySet.ids
+    : [];
 
   if (!TRAINING_MODE_ACTIVE && cachedIds && cachedIds.length > 0) {
     const byId = {};
@@ -63,6 +75,8 @@ function buildQueue() {
       return;
     }
 
+    clearStudyWordSetCache();
+  } else if (!TRAINING_MODE_ACTIVE && !storedCacheMatches) {
     clearStudyWordSetCache();
   }
 
@@ -114,11 +128,6 @@ function buildQueue() {
     return arr;
   }
   shuffleArray(newWords);
-
-  let target = parseInt(SETTINGS.goalTyping, 10);
-  if (!target || target < 1) {
-    target = 5;
-  }
 
   const queue = [];
 

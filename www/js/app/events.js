@@ -1,30 +1,6 @@
 // DOM event bindings.
 
 function attachEvents() {
-  // 시작 화면
-  if (DOM.startAppBtn) {
-    DOM.startAppBtn.addEventListener("click", () => {
-      SETTINGS.uiLang = DOM.startUiLang.value;
-      SETTINGS.studyLang = DOM.startStudyLang.value;
-      CURRENT_LANG = SETTINGS.uiLang;
-      saveSettings();
-
-      const introScreen = document.getElementById("introScreen");
-      if (introScreen) {
-        introScreen.style.display = "none";
-      }
-
-      DOM.startScreen.style.display = "none";
-      DOM.app.style.display = "flex";
-
-      hydrateSettingsToUI();
-      applyTranslations();
-      updateCefrProgress();
-      showView("study");
-      showReadyState();
-    });
-  }
-
   // 시작 화면: UI 언어 변경 시 즉시 미리보기
   if (DOM.startUiLang) {
     DOM.startUiLang.addEventListener("change", () => {

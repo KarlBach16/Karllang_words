@@ -80,6 +80,8 @@ const I18N_KEYS = {
   "account.status_local_only": "account_status_local_only",
   "account.status_sync_ready": "account_status_sync_ready",
   "account.sign_in": "account_sign_in",
+  "account.sign_in_google": "account_sign_in_google",
+  "account.sign_in_apple": "account_sign_in_apple",
   "account.sign_out": "account_sign_out",
   "account.signing_in": "account_signing_in",
   "account.sign_in_coming_soon": "account_sign_in_coming_soon",
@@ -122,6 +124,9 @@ const I18N_KEYS = {
   "study.start_ui_label": "start_ui_label",
   "study.start_study_label": "start_study_label",
   "study.start_prompt": "start_prompt",
+  "study.start_with_apple": "start_with_apple",
+  "study.start_with_google": "start_with_google",
+  "study.start_as_guest": "start_as_guest",
   "study.type_answer": "type_answer",
 
   "study.button.start": "start",

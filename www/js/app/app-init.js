@@ -80,6 +80,29 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  function saveStartSelections() {
+    if (DOM.startUiLang) {
+      SETTINGS.uiLang = DOM.startUiLang.value;
+    }
+    if (DOM.startStudyLang) {
+      SETTINGS.studyLang = DOM.startStudyLang.value;
+    }
+    SETTINGS.seenOnboarding = true;
+    saveSettings();
+  }
+
+  function enterAppAfterStart() {
+    if (typeof applyTranslations === "function") {
+      applyTranslations();
+    }
+    body.classList.remove("state-intro", "state-start");
+    showScreen(appScreen);
+    showView("study");
+    if (typeof showReadyState === "function") {
+      showReadyState();
+    }
+  }
+
   const shouldSkipIntroForAuthReturn =
     typeof hasAuthReturnView === "function" && hasAuthReturnView();
 
@@ -163,30 +186,24 @@ document.addEventListener("DOMContentLoaded", () => {
   // 🔘 시작 화면의 "시작" 버튼 (언어 선택 확정 + 온보딩 완료)
   if (startAppBtn && appScreen) {
     startAppBtn.addEventListener("click", () => {
-      // UI 언어 / 학습 언어 저장
-      if (DOM.startUiLang) {
-        SETTINGS.uiLang = DOM.startUiLang.value;
-      }
-      if (DOM.startStudyLang) {
-        SETTINGS.studyLang = DOM.startStudyLang.value;
-      }
+      saveStartSelections();
+      enterAppAfterStart();
+    });
+  }
 
-      // 온보딩 완료 플래그
-      SETTINGS.seenOnboarding = true;
-      saveSettings();
+  if (DOM.startAppleLoginBtn) {
+    DOM.startAppleLoginBtn.addEventListener("click", () => {
+      saveStartSelections();
+      saveAuthReturnView("study");
+      signInWithApple();
+    });
+  }
 
-      // 선택한 UI 언어로 텍스트 다시 적용
-      if (typeof applyTranslations === "function") {
-        applyTranslations();
-      }
-
-      // 앱 화면 + 학습 뷰 진입
-      body.classList.remove("state-intro", "state-start");
-      showScreen(appScreen);
-      showView("study");
-      if (typeof showReadyState === "function") {
-        showReadyState();
-      }
+  if (DOM.startGoogleLoginBtn) {
+    DOM.startGoogleLoginBtn.addEventListener("click", () => {
+      saveStartSelections();
+      saveAuthReturnView("study");
+      signInWithGoogle();
     });
   }
 

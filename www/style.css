@@ -468,11 +468,62 @@ body {
     text-overflow: ellipsis;
 }
 
+.account-auth-actions {
+    display: grid;
+    gap: 8px;
+}
+
 .account-login-btn {
+    width: 100%;
     min-height: 36px;
     margin: 0;
     padding: 8px 16px;
     font-size: 13px;
+}
+
+.account-apple-login-btn {
+    width: 100%;
+    min-height: 36px;
+    margin: 0;
+    padding: 8px 16px;
+    border: 1px solid #111827;
+    border-radius: 999px;
+    background: #111827;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.start-auth-actions {
+    width: 100%;
+    display: grid;
+    gap: 10px;
+}
+
+.start-apple-btn,
+.start-google-btn,
+.start-btn {
+    width: 100%;
+}
+
+.start-auth-actions .btn {
+    width: 100%;
+    max-width: none;
+    min-height: 48px;
+    margin: 0;
+    align-self: stretch;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.start-apple-btn {
+    min-height: 48px;
+    border: 1px solid #111827;
+    border-radius: 999px;
+    background: #111827;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 800;
 }
 
 .account-sync-check-btn {

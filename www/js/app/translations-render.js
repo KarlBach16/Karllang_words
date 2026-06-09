@@ -38,7 +38,19 @@ function applyTranslations() {
     );
   }
   if (DOM.startAppBtn) {
-    DOM.startAppBtn.textContent = trKey("common.start", "Start");
+    DOM.startAppBtn.textContent = trKey("study.start_as_guest", "Continue as Guest");
+  }
+  if (DOM.startAppleLoginBtn) {
+    DOM.startAppleLoginBtn.textContent = trKey(
+      "study.start_with_apple",
+      "Continue with Apple",
+    );
+  }
+  if (DOM.startGoogleLoginBtn) {
+    DOM.startGoogleLoginBtn.textContent = trKey(
+      "study.start_with_google",
+      "Continue with Google",
+    );
   }
 
   // 메인 버튼들
