@@ -28,6 +28,7 @@ function init() {
   updateStudyStartSummary();
   ensureStudyReminderSchedule();
   initAuth();
+  initRemoteSyncLifecycleChecks();
 }
 
 // ===== 인트로 / 시작 화면 + 초기화 제어 =====

@@ -1,10 +1,13 @@
 // Read-only remote/local sync comparison. This never writes local or remote data.
 
 const SYNC_DIFF_CHECK_DELAY_MS = 1200;
+const SYNC_DIFF_FOREGROUND_MIN_INTERVAL_MS = 60 * 1000;
 
 let SYNC_DIFF_TIMER = null;
 let SYNC_DIFF_PROMISE = null;
 let SYNC_DIFF_CHECKED_USER_ID = null;
+let SYNC_DIFF_LAST_CHECK_AT = 0;
+let SYNC_DIFF_LIFECYCLE_READY = false;
 
 function countByStudyLang(rows) {
   const counts = {};
@@ -161,10 +164,20 @@ async function checkRemoteLocalSyncDiff(userId = getCurrentAuthUserId()) {
   }
 }
 
-function scheduleRemoteLocalDiffCheck(reason = "startup") {
+function scheduleRemoteLocalDiffCheck(reason = "startup", options = {}) {
   const userId = getCurrentAuthUserId();
   if (!userId) return;
-  if (SYNC_DIFF_CHECKED_USER_ID === userId) return;
+
+  const force = options.force === true;
+  const now = Date.now();
+  if (!force && SYNC_DIFF_CHECKED_USER_ID === userId) return;
+  if (
+    force &&
+    SYNC_DIFF_LAST_CHECK_AT > 0 &&
+    now - SYNC_DIFF_LAST_CHECK_AT < SYNC_DIFF_FOREGROUND_MIN_INTERVAL_MS
+  ) {
+    return;
+  }
 
   if (SYNC_DIFF_TIMER) {
     clearTimeout(SYNC_DIFF_TIMER);
@@ -173,6 +186,7 @@ function scheduleRemoteLocalDiffCheck(reason = "startup") {
   SYNC_DIFF_TIMER = setTimeout(async () => {
     SYNC_DIFF_TIMER = null;
     const summary = await checkRemoteLocalSyncDiff(userId);
+    SYNC_DIFF_LAST_CHECK_AT = Date.now();
     if (summary) {
       SYNC_DIFF_CHECKED_USER_ID = userId;
       console.info("[sync] startup diff check complete.", {
@@ -189,5 +203,28 @@ function resetRemoteLocalDiffState() {
   if (SYNC_DIFF_TIMER) {
     clearTimeout(SYNC_DIFF_TIMER);
     SYNC_DIFF_TIMER = null;
+  }
+}
+
+function initRemoteSyncLifecycleChecks() {
+  if (SYNC_DIFF_LIFECYCLE_READY) return;
+  SYNC_DIFF_LIFECYCLE_READY = true;
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") {
+      scheduleRemoteLocalDiffCheck("visibility_resume", { force: true });
+    }
+  });
+
+  window.addEventListener("focus", () => {
+    scheduleRemoteLocalDiffCheck("window_focus", { force: true });
+  });
+
+  if (NativeApp && typeof NativeApp.addListener === "function") {
+    NativeApp.addListener("appStateChange", (state) => {
+      if (state?.isActive) {
+        scheduleRemoteLocalDiffCheck("native_resume", { force: true });
+      }
+    });
   }
 }
