@@ -153,6 +153,7 @@ async function signOut() {
     console.warn("[auth] sign-out failed.", error);
   }
 
+  resetAutoSyncState();
   await refreshAuthState();
   refreshFirstSyncPanel();
 }

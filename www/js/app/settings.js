@@ -208,4 +208,7 @@ function loadSettings() {
 
 function saveSettings() {
   safeSet(STORAGE_KEYS.SETTINGS, JSON.stringify(SETTINGS));
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("settings");
+  }
 }

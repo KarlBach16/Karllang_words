@@ -56,7 +56,26 @@ async function markFirstLocalPushComplete(client, userId) {
   }
 }
 
-async function pushLocalSyncSnapshot(userId = getCurrentAuthUserId()) {
+async function markSyncPushComplete(client, userId) {
+  const now = new Date().toISOString();
+  const { error } = await client.from("sync_meta").upsert(
+    {
+      user_id: userId,
+      schema_version: 1,
+      last_push_at: now,
+    },
+    { onConflict: "user_id" },
+  );
+
+  if (error) {
+    throw error;
+  }
+}
+
+async function pushLocalSyncSnapshot(
+  userId = getCurrentAuthUserId(),
+  options = {},
+) {
   if (SYNC_PUSH_PROMISE) return SYNC_PUSH_PROMISE;
 
   const client = getSupabaseClient();
@@ -90,7 +109,11 @@ async function pushLocalSyncSnapshot(userId = getCurrentAuthUserId()) {
       { ignoreDuplicates: true },
     );
 
-    await markFirstLocalPushComplete(client, userId);
+    if (options.markFirstComplete === false) {
+      await markSyncPushComplete(client, userId);
+    } else {
+      await markFirstLocalPushComplete(client, userId);
+    }
 
     const summary = {
       wordProgress,

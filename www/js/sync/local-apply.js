@@ -67,18 +67,20 @@ function applyRemoteLocalPreview(localPreview) {
   const preview = localPreview || {};
   const backupKey = backupCurrentLocalSyncData();
 
-  if (preview.settings) {
-    SETTINGS = { ...DEFAULT_SETTINGS, ...preview.settings };
-    CURRENT_LANG = SETTINGS.uiLang || "ko";
-    saveSettings();
-  }
+  withAutoSyncSuppressed(() => {
+    if (preview.settings) {
+      SETTINGS = { ...DEFAULT_SETTINGS, ...preview.settings };
+      CURRENT_LANG = SETTINGS.uiLang || "ko";
+      saveSettings();
+    }
 
-  safeSet(STORAGE_KEYS.STATS, JSON.stringify(preview.statsByLang || {}));
-  safeSet(STORAGE_KEYS.WORD_STATS, JSON.stringify(preview.wordStatsByLang || {}));
-  saveAttendanceDates(preview.attendanceDates || []);
-  applySrsStatesByLang(preview.srsStatesByLang || {});
-  clearStudyWordSetCache();
-  safeSet(STORAGE_KEYS.USER_DATA_SCHEMA, USER_DATA_SCHEMA_VERSION);
+    safeSet(STORAGE_KEYS.STATS, JSON.stringify(preview.statsByLang || {}));
+    safeSet(STORAGE_KEYS.WORD_STATS, JSON.stringify(preview.wordStatsByLang || {}));
+    saveAttendanceDates(preview.attendanceDates || []);
+    applySrsStatesByLang(preview.srsStatesByLang || {});
+    clearStudyWordSetCache();
+    safeSet(STORAGE_KEYS.USER_DATA_SCHEMA, USER_DATA_SCHEMA_VERSION);
+  });
 
   hydrateSettingsToUI();
   refreshUiLangSelectLabels();

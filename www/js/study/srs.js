@@ -53,4 +53,7 @@ function saveWordState(state) {
       isNew: state.isNew,
     }),
   );
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("srs");
+  }
 }

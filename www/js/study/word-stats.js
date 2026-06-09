@@ -36,6 +36,9 @@ function saveWordStatsAll(objForCurrentLang) {
 
   base[lang] = objForCurrentLang;
   safeSet(STORAGE_KEYS.WORD_STATS, JSON.stringify(base));
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("word_stats");
+  }
 }
 
 function getWordStatsById(id) {

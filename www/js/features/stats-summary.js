@@ -48,6 +48,9 @@ function saveAttendanceDates(dates) {
       dates: uniqueDates,
     }),
   );
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("attendance");
+  }
 }
 
 function recordAttendanceForStudyStart() {
@@ -180,6 +183,9 @@ function saveStats(statsForCurrentLang) {
   };
 
   safeSet(STORAGE_KEYS.STATS, JSON.stringify(base));
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("stats");
+  }
 }
 
 function getEmptyDailySummary(day = nowDay()) {
@@ -243,6 +249,9 @@ function saveDailySummary(summary) {
     ...summary,
   };
   safeSet(STORAGE_KEYS.DAILY_SUMMARY, JSON.stringify(base));
+  if (typeof scheduleAutoSyncPush === "function") {
+    scheduleAutoSyncPush("daily_summary");
+  }
 }
 
 function getSessionModeKey(mode) {
