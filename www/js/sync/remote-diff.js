@@ -1,0 +1,190 @@
+// Read-only remote/local sync comparison. This never writes local or remote data.
+
+const SYNC_DIFF_CHECK_DELAY_MS = 1200;
+
+let SYNC_DIFF_TIMER = null;
+let SYNC_DIFF_PROMISE = null;
+let SYNC_DIFF_CHECKED_USER_ID = null;
+
+function countByStudyLang(rows) {
+  const counts = {};
+  (rows || []).forEach((row) => {
+    const lang = row.study_lang || "unknown";
+    counts[lang] = (counts[lang] || 0) + 1;
+  });
+  return counts;
+}
+
+function normalizeBooleanForDiff(value) {
+  return value === true;
+}
+
+function normalizeWordProgressForDiff(row) {
+  return {
+    study_lang: row.study_lang,
+    word_id: String(row.word_id),
+    srs_level: toSyncInteger(row.srs_level),
+    last_reviewed: toSyncInteger(row.last_reviewed),
+    next_due: toSyncInteger(row.next_due),
+    is_new: row.is_new !== false,
+    bookmarked: normalizeBooleanForDiff(row.bookmarked),
+    wrong_attempts: toSyncInteger(row.wrong_attempts),
+    hard_count: toSyncInteger(row.hard_count),
+    last_wrong_at: toSyncInteger(row.last_wrong_at),
+    last_hard_at: toSyncInteger(row.last_hard_at),
+    total_views: toSyncInteger(row.total_views),
+  };
+}
+
+function normalizeLanguageStatsForDiff(row) {
+  return {
+    study_lang: row.study_lang,
+    total_reviewed: toSyncInteger(row.total_reviewed),
+    new_learned: toSyncInteger(row.new_learned),
+    last_studied_at: toSyncInteger(row.last_studied_at),
+  };
+}
+
+function sortByJsonValue(items) {
+  return [...items].sort((a, b) =>
+    JSON.stringify(a).localeCompare(JSON.stringify(b)),
+  );
+}
+
+function rowsMatchForDiff(localRows, remoteRows, normalizeRow) {
+  const localNormalized = sortByJsonValue((localRows || []).map(normalizeRow));
+  const remoteNormalized = sortByJsonValue((remoteRows || []).map(normalizeRow));
+  return JSON.stringify(localNormalized) === JSON.stringify(remoteNormalized);
+}
+
+function settingsMatchForDiff(userId, remoteSettings) {
+  if (!remoteSettings || typeof buildServerSettingsPayload !== "function") {
+    return false;
+  }
+
+  const localSettings = buildServerSettingsPayload(userId);
+  const comparableKeys = [
+    "ui_lang",
+    "study_lang",
+    "mode",
+    "goal_typing",
+    "goal_card",
+    "new_word_cefr",
+    "new_word_category",
+    "sound_enabled",
+    "haptic_enabled",
+    "reminder_enabled",
+    "reminder_time",
+  ];
+
+  return comparableKeys.every((key) => localSettings[key] === remoteSettings[key]);
+}
+
+function buildSyncDiffSummary(userId, localSnapshot, remoteSnapshot) {
+  const localAttendanceDates = (localSnapshot.attendance || [])
+    .map((row) => row.date_key)
+    .sort();
+  const remoteAttendanceDates = (remoteSnapshot.attendance || [])
+    .map((row) => row.date_key)
+    .sort();
+
+  const wordProgressMatch = rowsMatchForDiff(
+    localSnapshot.wordProgress,
+    remoteSnapshot.wordProgress,
+    normalizeWordProgressForDiff,
+  );
+  const languageStatsMatch = rowsMatchForDiff(
+    localSnapshot.languageStats,
+    remoteSnapshot.languageStats,
+    normalizeLanguageStatsForDiff,
+  );
+  const attendanceMatch =
+    JSON.stringify(localAttendanceDates) === JSON.stringify(remoteAttendanceDates);
+  const settingsMatch = settingsMatchForDiff(userId, remoteSnapshot.settings);
+
+  return {
+    hasDifference:
+      !wordProgressMatch ||
+      !languageStatsMatch ||
+      !attendanceMatch ||
+      !settingsMatch,
+    firstMigrationCompleted:
+      remoteSnapshot.syncMeta?.first_migration_completed === true,
+    settingsMatch,
+    wordProgressMatch,
+    languageStatsMatch,
+    attendanceMatch,
+    local: {
+      wordProgress: localSnapshot.wordProgress.length,
+      languageStats: localSnapshot.languageStats.length,
+      attendance: localSnapshot.attendance.length,
+      wordProgressByLang: countByStudyLang(localSnapshot.wordProgress),
+    },
+    remote: {
+      wordProgress: remoteSnapshot.wordProgress.length,
+      languageStats: remoteSnapshot.languageStats.length,
+      attendance: remoteSnapshot.attendance.length,
+      wordProgressByLang: countByStudyLang(remoteSnapshot.wordProgress),
+      lastPushAt: remoteSnapshot.syncMeta?.last_push_at || null,
+      lastPullAt: remoteSnapshot.syncMeta?.last_pull_at || null,
+    },
+  };
+}
+
+async function checkRemoteLocalSyncDiff(userId = getCurrentAuthUserId()) {
+  if (!userId) return null;
+  if (SYNC_DIFF_PROMISE) return SYNC_DIFF_PROMISE;
+
+  SYNC_DIFF_PROMISE = (async () => {
+    const remoteSnapshot = await fetchRemoteSyncSnapshot(userId);
+    if (remoteSnapshot.syncMeta?.first_migration_completed !== true) {
+      console.info("[sync] remote/local diff skipped before first sync.");
+      return null;
+    }
+
+    const localSnapshot = buildLocalSyncSnapshot(userId);
+    const summary = buildSyncDiffSummary(userId, localSnapshot, remoteSnapshot);
+    console.info("[sync] remote/local diff checked.", summary);
+    return summary;
+  })();
+
+  try {
+    return await SYNC_DIFF_PROMISE;
+  } catch (error) {
+    console.info("[sync] remote/local diff check skipped.", error);
+    return null;
+  } finally {
+    SYNC_DIFF_PROMISE = null;
+  }
+}
+
+function scheduleRemoteLocalDiffCheck(reason = "startup") {
+  const userId = getCurrentAuthUserId();
+  if (!userId) return;
+  if (SYNC_DIFF_CHECKED_USER_ID === userId) return;
+
+  if (SYNC_DIFF_TIMER) {
+    clearTimeout(SYNC_DIFF_TIMER);
+  }
+
+  SYNC_DIFF_TIMER = setTimeout(async () => {
+    SYNC_DIFF_TIMER = null;
+    const summary = await checkRemoteLocalSyncDiff(userId);
+    if (summary) {
+      SYNC_DIFF_CHECKED_USER_ID = userId;
+      console.info("[sync] startup diff check complete.", {
+        reason,
+        hasDifference: summary.hasDifference,
+      });
+    }
+  }, SYNC_DIFF_CHECK_DELAY_MS);
+}
+
+function resetRemoteLocalDiffState() {
+  SYNC_DIFF_CHECKED_USER_ID = null;
+  SYNC_DIFF_PROMISE = null;
+  if (SYNC_DIFF_TIMER) {
+    clearTimeout(SYNC_DIFF_TIMER);
+    SYNC_DIFF_TIMER = null;
+  }
+}

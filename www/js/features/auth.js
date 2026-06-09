@@ -49,6 +49,7 @@ function subscribeAuthChanges() {
     if (session?.user) {
       ensureAuthServerRecords(session.user).then(() => {
         refreshFirstSyncPanel();
+        scheduleRemoteLocalDiffCheck("auth_state_change");
       });
     } else {
       refreshFirstSyncPanel();
@@ -91,6 +92,7 @@ async function refreshAuthState() {
       if (session?.user) {
         ensureAuthServerRecords(session.user).then(() => {
           refreshFirstSyncPanel();
+          scheduleRemoteLocalDiffCheck("session_restore");
         });
       } else {
         refreshFirstSyncPanel();
@@ -154,6 +156,7 @@ async function signOut() {
   }
 
   resetAutoSyncState();
+  resetRemoteLocalDiffState();
   await refreshAuthState();
   refreshFirstSyncPanel();
 }

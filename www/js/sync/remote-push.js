@@ -72,6 +72,20 @@ async function markSyncPushComplete(client, userId) {
   }
 }
 
+async function upsertSyncSettings(client, userId) {
+  if (typeof buildServerSettingsPayload !== "function") return false;
+
+  const { error } = await client
+    .from("user_settings")
+    .upsert(buildServerSettingsPayload(userId), { onConflict: "user_id" });
+
+  if (error) {
+    throw error;
+  }
+
+  return true;
+}
+
 async function pushLocalSyncSnapshot(
   userId = getCurrentAuthUserId(),
   options = {},
@@ -89,6 +103,7 @@ async function pushLocalSyncSnapshot(
   SYNC_PUSH_PROMISE = (async () => {
     const snapshot = buildLocalSyncSnapshot(userId);
 
+    const settings = await upsertSyncSettings(client, userId);
     const wordProgress = await upsertSyncRows(
       client,
       "user_word_progress",
@@ -116,6 +131,7 @@ async function pushLocalSyncSnapshot(
     }
 
     const summary = {
+      settings,
       wordProgress,
       languageStats,
       attendance,
