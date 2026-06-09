@@ -132,9 +132,12 @@ function cacheDOM() {
   DOM.settingsAccountTitle = document.getElementById("settingsAccountTitle");
   DOM.accountStatusText = document.getElementById("accountStatusText");
   DOM.accountStatusDetail = document.getElementById("accountStatusDetail");
+  DOM.accountSyncStatus = document.getElementById("accountSyncStatus");
+  DOM.accountSyncSection = document.getElementById("accountSyncSection");
+  DOM.accountSyncSectionTitle = document.getElementById("accountSyncSectionTitle");
   DOM.accountLoginBtn = document.getElementById("accountLoginBtn");
+  DOM.accountSyncCheckBtn = document.getElementById("accountSyncCheckBtn");
   DOM.accountSyncPanel = document.getElementById("accountSyncPanel");
-  DOM.accountSyncTitle = document.getElementById("accountSyncTitle");
   DOM.accountSyncDetail = document.getElementById("accountSyncDetail");
   DOM.accountSyncUploadBtn = document.getElementById("accountSyncUploadBtn");
   DOM.accountSyncDownloadBtn = document.getElementById("accountSyncDownloadBtn");

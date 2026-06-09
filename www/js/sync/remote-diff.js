@@ -2,6 +2,7 @@
 
 const SYNC_DIFF_CHECK_DELAY_MS = 1200;
 const SYNC_DIFF_FOREGROUND_MIN_INTERVAL_MS = 60 * 1000;
+const SYNC_MANUAL_STATUS_MIN_MS = 1200;
 
 let SYNC_DIFF_TIMER = null;
 let SYNC_DIFF_PROMISE = null;
@@ -203,6 +204,42 @@ function resetRemoteLocalDiffState() {
   if (SYNC_DIFF_TIMER) {
     clearTimeout(SYNC_DIFF_TIMER);
     SYNC_DIFF_TIMER = null;
+  }
+}
+
+async function runManualRemoteSyncCheck() {
+  const userId = getCurrentAuthUserId();
+  if (!userId) return null;
+
+  const startedAt = Date.now();
+  const button = DOM.accountSyncCheckBtn;
+  const status = DOM.accountSyncStatus;
+  if (button) {
+    button.disabled = true;
+  }
+  if (status) {
+    status.textContent = trKey("account.sync_checking_short", "Checking...");
+  }
+
+  try {
+    const summary = await checkRemoteLocalSyncDiff(userId);
+    const elapsed = Date.now() - startedAt;
+    if (elapsed < SYNC_MANUAL_STATUS_MIN_MS) {
+      await new Promise((resolve) =>
+        setTimeout(resolve, SYNC_MANUAL_STATUS_MIN_MS - elapsed),
+      );
+    }
+    if (summary && status) {
+      status.textContent = summary.hasDifference
+        ? ""
+        : trKey("account.sync_up_to_date", "Cloud data is up to date.");
+    }
+    return summary;
+  } finally {
+    if (button) {
+      button.disabled = false;
+      button.textContent = trKey("account.sync_check", "Check sync");
+    }
   }
 }
 

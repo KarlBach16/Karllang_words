@@ -487,26 +487,37 @@
                 </div>
 
                 <div class="settings-card">
-                    <h3 class="settings-card-title" id="settingsAccountTitle">계정</h3>
-
-                    <div class="account-status-row">
-                        <div>
+                    <section class="account-section">
+                        <h3 class="settings-card-title" id="settingsAccountTitle">계정</h3>
+                        <div class="account-status-row">
                             <div id="accountStatusText" class="account-status-text">Guest mode</div>
                             <div id="accountStatusDetail" class="account-status-detail">Learning data is stored on this device.</div>
                         </div>
+                        <button
+                            type="button"
+                            id="accountLoginBtn"
+                            class="btn btn-secondary account-login-btn"
+                            disabled
+                        >
+                            Sign in
+                        </button>
+                    </section>
+                </div>
+
+                <div id="accountSyncSection" class="settings-card account-sync-card" hidden>
+                    <div class="account-section-header">
+                        <h3 id="accountSyncSectionTitle" class="settings-card-title">Sync</h3>
+                        <div id="accountSyncStatus" class="account-sync-status" aria-live="polite"></div>
+                        <button
+                            type="button"
+                            id="accountSyncCheckBtn"
+                            class="btn account-sync-check-btn"
+                        >
+                            Check sync
+                        </button>
                     </div>
 
-                    <button
-                        type="button"
-                        id="accountLoginBtn"
-                        class="btn btn-secondary account-login-btn"
-                        disabled
-                    >
-                        Sign in
-                    </button>
-
                     <div id="accountSyncPanel" class="account-sync-panel" hidden>
-                        <div id="accountSyncTitle" class="account-sync-title">Sync data</div>
                         <div id="accountSyncDetail" class="account-sync-detail">Choose how to sync your learning data.</div>
                         <div class="account-sync-actions">
                             <button type="button" id="accountSyncUploadBtn" class="btn account-sync-btn account-sync-upload">

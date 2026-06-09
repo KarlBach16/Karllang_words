@@ -10,6 +10,20 @@ function getBottomNavView(view) {
   return view;
 }
 
+function normalizeRestorableView(view) {
+  const normalized = getBottomNavView(view || "study");
+  const allowed = ["study", "user", "training", "words", "settings"];
+  return allowed.includes(normalized) ? normalized : "study";
+}
+
+function getStoredLastView() {
+  return normalizeRestorableView(safeGet(STORAGE_KEYS.LAST_VIEW));
+}
+
+function saveLastView(view) {
+  safeSet(STORAGE_KEYS.LAST_VIEW, normalizeRestorableView(view));
+}
+
 function getAppHeaderTitle(view) {
   if (
     view === "study" &&
@@ -70,7 +84,9 @@ function goToStudyFromNav() {
 
 function showView(view) {
   const prevView = APP_STATE.currentView; // 🔹 이전 뷰 기억
-  APP_STATE.currentView = view;
+  const targetView = view;
+  APP_STATE.currentView = targetView;
+  saveLastView(targetView);
   document.body.classList.toggle("word-drop-active", view === "wordDrop");
   document.body.classList.toggle(
     "training-cram-active",

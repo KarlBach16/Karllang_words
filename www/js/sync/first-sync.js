@@ -30,9 +30,6 @@ function setFirstSyncPanelVisible(visible) {
 }
 
 function setFirstSyncPanelText(detailKey, fallback) {
-  if (DOM.accountSyncTitle) {
-    DOM.accountSyncTitle.textContent = trKey("account.sync_title", "Sync data");
-  }
   if (DOM.accountSyncDetail) {
     DOM.accountSyncDetail.textContent = trKey(detailKey, fallback);
   }
@@ -90,9 +87,9 @@ async function refreshFirstSyncPanel() {
   if (FIRST_SYNC_REFRESH_PROMISE) return FIRST_SYNC_REFRESH_PROMISE;
 
   FIRST_SYNC_PANEL_MODE = "first";
-  setFirstSyncPanelVisible(true);
   setFirstSyncPanelText("account.sync_checking", "Checking sync data...");
   setFirstSyncButtonsDisabled(true);
+  setFirstSyncPanelVisible(false);
 
   FIRST_SYNC_REFRESH_PROMISE = (async () => {
     try {
@@ -124,6 +121,7 @@ async function refreshFirstSyncPanel() {
           "Save this device's learning data to the cloud.",
         );
         setFirstSyncButtonsDisabled(false);
+        if (DOM.accountSyncUploadBtn) DOM.accountSyncUploadBtn.disabled = false;
         if (DOM.accountSyncDownloadBtn) DOM.accountSyncDownloadBtn.disabled = true;
         setFirstSyncPanelVisible(true);
       } else if (remoteCount > 0) {
@@ -133,6 +131,7 @@ async function refreshFirstSyncPanel() {
         );
         setFirstSyncButtonsDisabled(false);
         if (DOM.accountSyncUploadBtn) DOM.accountSyncUploadBtn.disabled = true;
+        if (DOM.accountSyncDownloadBtn) DOM.accountSyncDownloadBtn.disabled = false;
         setFirstSyncPanelVisible(true);
       } else {
         setFirstSyncPanelVisible(false);

@@ -9,6 +9,8 @@ const STORAGE_KEYS = {
   ATTENDANCE: "karllang_attendance_v1",
   STUDY_WORD_SET: "karllang_study_word_set_v1",
   USER_DATA_SCHEMA: "karllang_user_data_schema_v1",
+  AUTH_RETURN_VIEW: "karllang_auth_return_view_v1",
+  LAST_VIEW: "karllang_last_view_v1",
 };
 
 function getCurrentStudyLang() {

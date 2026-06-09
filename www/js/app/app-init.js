@@ -67,6 +67,22 @@ document.addEventListener("DOMContentLoaded", () => {
     window.scrollTo(0, 0);
   }
 
+  function showInitialAppView() {
+    const targetView =
+      typeof hasAuthReturnView === "function" && hasAuthReturnView()
+        ? consumeAuthReturnView()
+        : typeof getStoredLastView === "function"
+        ? getStoredLastView()
+        : "study";
+    showView(targetView);
+    if (targetView === "study" && typeof showReadyState === "function") {
+      showReadyState();
+    }
+  }
+
+  const shouldSkipIntroForAuthReturn =
+    typeof hasAuthReturnView === "function" && hasAuthReturnView();
+
   // ✅ 시작 화면 디자인 작업 중에는 언어 선택 화면을 강제로 노출
   if (FORCE_START_SCREEN_FOR_DESIGN && startScreen) {
     showScreen(startScreen);
@@ -74,7 +90,11 @@ document.addEventListener("DOMContentLoaded", () => {
     body.classList.remove("state-intro");
   } else if (SETTINGS.seenOnboarding) {
     // ----- 재방문 유저 -----
-    if (introScreen && appScreen) {
+    if (shouldSkipIntroForAuthReturn && appScreen) {
+      showScreen(appScreen);
+      body.classList.remove("state-intro", "state-start");
+      showInitialAppView();
+    } else if (introScreen && appScreen) {
       // 1) 짧게 인트로 보여주고
       showScreen(introScreen);
       body.classList.add("state-intro");
@@ -84,19 +104,13 @@ document.addEventListener("DOMContentLoaded", () => {
       setTimeout(() => {
         body.classList.remove("state-intro");
         showScreen(appScreen);
-        showView("study"); // 학습 뷰
-        if (typeof showReadyState === "function") {
-          showReadyState();
-        }
+        showInitialAppView();
       }, 1600); // 재방문은 1.6초 정도
     } else if (appScreen) {
       // 인트로 섹션이 없다면 바로 앱으로
       showScreen(appScreen);
       body.classList.remove("state-intro", "state-start");
-      showView("study");
-      if (typeof showReadyState === "function") {
-        showReadyState();
-      }
+      showInitialAppView();
     } else if (startScreen) {
       // 최악의 경우: app 없고 start만 있으면 start라도
       showScreen(startScreen);
@@ -125,10 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // 이것도 없으면 그냥 앱으로
       showScreen(appScreen);
       body.classList.remove("state-intro", "state-start");
-      showView("study");
-      if (typeof showReadyState === "function") {
-        showReadyState();
-      }
+      showInitialAppView();
     }
   }
 
@@ -139,10 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // 재방문: 인트로 스킵하고 바로 앱 + 학습
         body.classList.remove("state-intro", "state-start");
         showScreen(appScreen);
-        showView("study");
-        if (typeof showReadyState === "function") {
-          showReadyState();
-        }
+        showInitialAppView();
       } else if (startScreen) {
         // 첫 방문: 인트로 → 시작 화면
         body.classList.remove("state-intro");

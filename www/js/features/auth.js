@@ -12,6 +12,28 @@ let AUTH_LISTENER_READY = false;
 let AUTH_SERVER_BOOTSTRAPPED_USER_ID = null;
 let AUTH_SERVER_BOOTSTRAP_PROMISE = null;
 
+function getValidAuthReturnView(view) {
+  const allowed = ["study", "user", "training", "words", "settings"];
+  return allowed.includes(view) ? view : "settings";
+}
+
+function saveAuthReturnView() {
+  const view = getValidAuthReturnView(APP_STATE.currentView);
+  safeSet(STORAGE_KEYS.AUTH_RETURN_VIEW, view);
+}
+
+function consumeAuthReturnView() {
+  const view = getValidAuthReturnView(safeGet(STORAGE_KEYS.AUTH_RETURN_VIEW));
+  if (typeof window !== "undefined" && window.localStorage) {
+    window.localStorage.removeItem(STORAGE_KEYS.AUTH_RETURN_VIEW);
+  }
+  return view;
+}
+
+function hasAuthReturnView() {
+  return !!safeGet(STORAGE_KEYS.AUTH_RETURN_VIEW);
+}
+
 function initAuth() {
   bindAuthControls();
   subscribeAuthChanges();
@@ -29,6 +51,12 @@ function bindAuthControls() {
       signInWithGoogle();
     }
   });
+
+  if (DOM.accountSyncCheckBtn) {
+    DOM.accountSyncCheckBtn.addEventListener("click", () => {
+      runManualRemoteSyncCheck();
+    });
+  }
 }
 
 function subscribeAuthChanges() {
@@ -125,6 +153,7 @@ async function signInWithGoogle() {
     DOM.accountLoginBtn.textContent = trKey("account.signing_in", "Signing in...");
   }
 
+  saveAuthReturnView();
   const redirectTo = `${window.location.origin}${window.location.pathname}`;
   const { error } = await client.auth.signInWithOAuth({
     provider: "google",
@@ -284,6 +313,26 @@ function renderAuthState() {
         ? trKey("account.sign_out", "Sign out")
         : trKey("account.sign_in", "Sign in"),
     );
+  }
+
+  if (DOM.accountSyncCheckBtn) {
+    DOM.accountSyncCheckBtn.disabled = !AUTH_STATE.signedIn;
+    DOM.accountSyncCheckBtn.textContent = trKey(
+      "account.sync_check",
+      "Check sync",
+    );
+  }
+  if (DOM.accountSyncSection) {
+    DOM.accountSyncSection.hidden = !AUTH_STATE.signedIn;
+  }
+  if (DOM.accountSyncSectionTitle) {
+    DOM.accountSyncSectionTitle.textContent = trKey(
+      "account.sync_section_title",
+      "Sync",
+    );
+  }
+  if (DOM.accountSyncStatus && !AUTH_STATE.signedIn) {
+    DOM.accountSyncStatus.textContent = "";
   }
 
   if (!AUTH_STATE.signedIn) {
