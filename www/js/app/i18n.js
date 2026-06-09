@@ -89,6 +89,7 @@ const I18N_KEYS = {
   "account.sync_upload_detail": "account_sync_upload_detail",
   "account.sync_download_detail": "account_sync_download_detail",
   "account.sync_conflict_detail": "account_sync_conflict_detail",
+  "account.sync_changed_detail": "account_sync_changed_detail",
   "account.sync_upload": "account_sync_upload",
   "account.sync_download": "account_sync_download",
   "account.sync_working": "account_sync_working",

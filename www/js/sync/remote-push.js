@@ -72,6 +72,22 @@ async function markSyncPushComplete(client, userId) {
   }
 }
 
+async function markSyncPullComplete(client, userId) {
+  const now = new Date().toISOString();
+  const { error } = await client.from("sync_meta").upsert(
+    {
+      user_id: userId,
+      schema_version: 1,
+      last_pull_at: now,
+    },
+    { onConflict: "user_id" },
+  );
+
+  if (error) {
+    throw error;
+  }
+}
+
 async function upsertSyncSettings(client, userId) {
   if (typeof buildServerSettingsPayload !== "function") return false;
 

@@ -145,6 +145,9 @@ async function checkRemoteLocalSyncDiff(userId = getCurrentAuthUserId()) {
     const localSnapshot = buildLocalSyncSnapshot(userId);
     const summary = buildSyncDiffSummary(userId, localSnapshot, remoteSnapshot);
     console.info("[sync] remote/local diff checked.", summary);
+    if (summary.hasDifference && typeof showPostMigrationSyncChoice === "function") {
+      showPostMigrationSyncChoice(remoteSnapshot);
+    }
     return summary;
   })();
 

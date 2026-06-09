@@ -230,14 +230,19 @@ async function upsertAuthServerRecords(client, user) {
       .upsert({ id: user.id, last_seen_at: now }, { onConflict: "id" }),
     client
       .from("user_settings")
-      .upsert(settingsPayload, { onConflict: "user_id" }),
+      .upsert(settingsPayload, {
+        onConflict: "user_id",
+        ignoreDuplicates: true,
+      }),
     client.from("sync_meta").upsert(
       {
         user_id: user.id,
         schema_version: 1,
-        last_push_at: now,
       },
-      { onConflict: "user_id" },
+      {
+        onConflict: "user_id",
+        ignoreDuplicates: true,
+      },
     ),
   ];
 

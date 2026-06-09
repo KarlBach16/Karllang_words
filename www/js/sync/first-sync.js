@@ -3,6 +3,7 @@
 let FIRST_SYNC_CONTROLS_READY = false;
 let FIRST_SYNC_REFRESH_PROMISE = null;
 let FIRST_SYNC_LAST_REMOTE = null;
+let FIRST_SYNC_PANEL_MODE = "first";
 
 function countLocalSyncData(snapshot) {
   const data = snapshot || {};
@@ -76,13 +77,19 @@ async function refreshFirstSyncPanel() {
 
   const userId = getCurrentAuthUserId();
   if (!userId) {
+    FIRST_SYNC_PANEL_MODE = "first";
     FIRST_SYNC_LAST_REMOTE = null;
     setFirstSyncPanelVisible(false);
     return null;
   }
 
+  if (FIRST_SYNC_PANEL_MODE === "post_migration") {
+    return null;
+  }
+
   if (FIRST_SYNC_REFRESH_PROMISE) return FIRST_SYNC_REFRESH_PROMISE;
 
+  FIRST_SYNC_PANEL_MODE = "first";
   setFirstSyncPanelVisible(true);
   setFirstSyncPanelText("account.sync_checking", "Checking sync data...");
   setFirstSyncButtonsDisabled(true);
@@ -98,7 +105,9 @@ async function refreshFirstSyncPanel() {
       const firstDone = remoteSnapshot.syncMeta?.first_migration_completed === true;
 
       if (firstDone) {
-        setFirstSyncPanelVisible(false);
+        if (FIRST_SYNC_PANEL_MODE !== "post_migration") {
+          setFirstSyncPanelVisible(false);
+        }
         return { localCount, remoteCount, firstDone };
       }
 
@@ -132,7 +141,9 @@ async function refreshFirstSyncPanel() {
       return { localCount, remoteCount, firstDone };
     } catch (error) {
       console.warn("[sync] first sync status check failed.", error);
-      setFirstSyncPanelVisible(false);
+      if (FIRST_SYNC_PANEL_MODE !== "post_migration") {
+        setFirstSyncPanelVisible(false);
+      }
       return null;
     } finally {
       FIRST_SYNC_REFRESH_PROMISE = null;
@@ -145,9 +156,12 @@ async function refreshFirstSyncPanel() {
 async function runFirstSyncUpload() {
   setFirstSyncButtonsDisabled(true);
   setFirstSyncPanelText("account.sync_working", "Syncing...");
-  const summary = await pushLocalSyncSnapshot();
+  const summary = await pushLocalSyncSnapshot(undefined, {
+    markFirstComplete: FIRST_SYNC_PANEL_MODE !== "first" ? false : undefined,
+  });
   setFirstSyncPanelText("account.sync_done", "Sync complete.");
   setFirstSyncPanelVisible(false);
+  resetRemoteLocalDiffState();
   return summary;
 }
 
@@ -161,9 +175,26 @@ async function runFirstSyncDownload() {
   const summary = applyRemoteLocalPreview(preview);
   const client = getSupabaseClient();
   if (client?.from && userId) {
-    await markFirstLocalPushComplete(client, userId);
+    if (FIRST_SYNC_PANEL_MODE === "first") {
+      await markFirstLocalPushComplete(client, userId);
+    } else {
+      await markSyncPullComplete(client, userId);
+    }
   }
   setFirstSyncPanelText("account.sync_done", "Sync complete.");
   setFirstSyncPanelVisible(false);
+  resetRemoteLocalDiffState();
   return summary;
+}
+
+function showPostMigrationSyncChoice(remoteSnapshot) {
+  bindFirstSyncControls();
+  FIRST_SYNC_PANEL_MODE = "post_migration";
+  FIRST_SYNC_LAST_REMOTE = remoteSnapshot || null;
+  setFirstSyncPanelText(
+    "account.sync_changed_detail",
+    "Cloud learning data is different from this device. Choose which data to keep.",
+  );
+  setFirstSyncButtonsDisabled(false);
+  setFirstSyncPanelVisible(true);
 }
