@@ -57,6 +57,9 @@ function attachEvents() {
         if (tabName && willMove) {
           logAnalyticsEvent("select_tab", { tab: tabName });
         }
+        if (willMove && typeof triggerHaptic === "function") {
+          triggerHaptic("light");
+        }
         if (view === "study") {
           goToStudyFromNav();
           return;

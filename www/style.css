@@ -282,6 +282,8 @@ body {
     stroke-width: 1.8;
     stroke-linecap: round;
     stroke-linejoin: round;
+    transform-origin: center;
+    transition: transform 160ms ease, stroke-width 160ms ease;
 }
 
 .bottom-tab span {
@@ -290,10 +292,29 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    transform-origin: center;
+    transition: transform 160ms ease, font-weight 160ms ease;
 }
 
 .bottom-tab.active {
     color: var(--color-secondary);
+}
+
+.bottom-tab.active svg {
+    transform: scale(1.08);
+    stroke-width: 2;
+}
+
+.bottom-tab.active span {
+    transform: scale(1.04);
+    font-weight: 800;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .bottom-tab svg,
+    .bottom-tab span {
+        transition: none;
+    }
 }
 
 .word-hub-list {
