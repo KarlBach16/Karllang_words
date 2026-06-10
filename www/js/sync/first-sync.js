@@ -4,6 +4,8 @@ let FIRST_SYNC_CONTROLS_READY = false;
 let FIRST_SYNC_REFRESH_PROMISE = null;
 let FIRST_SYNC_LAST_REMOTE = null;
 let FIRST_SYNC_PANEL_MODE = "first";
+let FIRST_SYNC_DETAIL_KEY = "account.sync_conflict_detail";
+let FIRST_SYNC_DETAIL_FALLBACK = "Choose how to sync your learning data.";
 
 function countLocalSyncData(snapshot) {
   const data = snapshot || {};
@@ -30,6 +32,8 @@ function setFirstSyncPanelVisible(visible) {
 }
 
 function setFirstSyncPanelText(detailKey, fallback) {
+  FIRST_SYNC_DETAIL_KEY = detailKey;
+  FIRST_SYNC_DETAIL_FALLBACK = fallback;
   if (DOM.accountSyncDetail) {
     DOM.accountSyncDetail.textContent = trKey(detailKey, fallback);
   }
@@ -42,8 +46,21 @@ function setFirstSyncPanelText(detailKey, fallback) {
   if (DOM.accountSyncDownloadBtn) {
     DOM.accountSyncDownloadBtn.textContent = trKey(
       "account.sync_download",
-      "Use cloud data",
+      "Download cloud data",
     );
+  }
+}
+
+function refreshFirstSyncPanelTranslations() {
+  setFirstSyncPanelText(FIRST_SYNC_DETAIL_KEY, FIRST_SYNC_DETAIL_FALLBACK);
+}
+
+function setFirstSyncActionsVisible({ upload = true, download = true } = {}) {
+  if (DOM.accountSyncUploadBtn) {
+    DOM.accountSyncUploadBtn.hidden = !upload;
+  }
+  if (DOM.accountSyncDownloadBtn) {
+    DOM.accountSyncDownloadBtn.hidden = !download;
   }
 }
 
@@ -88,6 +105,7 @@ async function refreshFirstSyncPanel() {
 
   FIRST_SYNC_PANEL_MODE = "first";
   setFirstSyncPanelText("account.sync_checking", "Checking sync data...");
+  setFirstSyncActionsVisible({ upload: true, download: true });
   setFirstSyncButtonsDisabled(true);
   setFirstSyncPanelVisible(false);
 
@@ -113,25 +131,24 @@ async function refreshFirstSyncPanel() {
           "account.sync_conflict_detail",
           "Choose which learning data to keep for the first sync.",
         );
+        setFirstSyncActionsVisible({ upload: true, download: true });
         setFirstSyncButtonsDisabled(false);
         setFirstSyncPanelVisible(true);
       } else if (localCount > 0) {
         setFirstSyncPanelText(
           "account.sync_upload_detail",
-          "Save this device's learning data to the cloud.",
+          "Upload this device's learning data to the cloud.",
         );
+        setFirstSyncActionsVisible({ upload: true, download: false });
         setFirstSyncButtonsDisabled(false);
-        if (DOM.accountSyncUploadBtn) DOM.accountSyncUploadBtn.disabled = false;
-        if (DOM.accountSyncDownloadBtn) DOM.accountSyncDownloadBtn.disabled = true;
         setFirstSyncPanelVisible(true);
       } else if (remoteCount > 0) {
         setFirstSyncPanelText(
           "account.sync_download_detail",
-          "Use learning data already saved in the cloud.",
+          "Download cloud learning data to this device.",
         );
+        setFirstSyncActionsVisible({ upload: false, download: true });
         setFirstSyncButtonsDisabled(false);
-        if (DOM.accountSyncUploadBtn) DOM.accountSyncUploadBtn.disabled = true;
-        if (DOM.accountSyncDownloadBtn) DOM.accountSyncDownloadBtn.disabled = false;
         setFirstSyncPanelVisible(true);
       } else {
         setFirstSyncPanelVisible(false);
@@ -194,6 +211,7 @@ function showPostMigrationSyncChoice(remoteSnapshot) {
     "account.sync_changed_detail",
     "Cloud learning data is different from this device. Choose which data to keep.",
   );
+  setFirstSyncActionsVisible({ upload: true, download: true });
   setFirstSyncButtonsDisabled(false);
   setFirstSyncPanelVisible(true);
 }

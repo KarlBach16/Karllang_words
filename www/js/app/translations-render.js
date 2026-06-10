@@ -469,6 +469,9 @@ function applyTranslations() {
     );
   }
   renderAuthState();
+  if (typeof refreshFirstSyncPanelTranslations === "function") {
+    refreshFirstSyncPanelTranslations();
+  }
 
   if (DOM.settingsUiLangLabel)
     DOM.settingsUiLangLabel.textContent = trKey(

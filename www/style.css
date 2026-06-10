@@ -562,17 +562,20 @@ body {
 
 .account-sync-actions {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 8px;
     margin-top: 10px;
 }
 
 .account-sync-btn {
     min-height: 36px;
-    padding: 8px 10px;
+    min-width: 0;
+    padding: 8px 12px;
     border-radius: 999px;
     font-size: 12px;
     font-weight: 800;
+    line-height: 1.25;
+    white-space: normal;
 }
 
 .account-sync-upload {
