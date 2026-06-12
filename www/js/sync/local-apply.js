@@ -66,10 +66,11 @@ function applySrsStatesByLang(srsStatesByLang) {
 function applyRemoteLocalPreview(localPreview) {
   const preview = localPreview || {};
   const backupKey = backupCurrentLocalSyncData();
+  const currentUiLang = SETTINGS.uiLang || CURRENT_LANG || "ko";
 
   withAutoSyncSuppressed(() => {
     if (preview.settings) {
-      SETTINGS = { ...DEFAULT_SETTINGS, ...preview.settings };
+      SETTINGS = { ...DEFAULT_SETTINGS, ...preview.settings, uiLang: currentUiLang };
       CURRENT_LANG = SETTINGS.uiLang || "ko";
       saveSettings();
     }

@@ -2,6 +2,57 @@
 
 > 정렬 규칙: 작업일지는 최신 날짜가 위로 오도록 작성한다. 새 항목은 이 안내 아래, 기존 항목보다 위쪽에 추가하고 같은 날짜의 기존 항목 순서는 유지한다.
 
+## 2026-06-13 - Android 실기기 로그인/동기화 보정
+
+### Android OAuth 복귀
+
+- Android 앱에서 Google OAuth 완료 후 웹사이트로 빠지는 문제를 수정했다.
+- 네이티브 런타임에서는 OAuth redirect URL을 `com.karllang.app://auth/callback`으로 사용하도록 했다.
+- Android manifest에 OAuth callback deep link intent-filter를 추가했다.
+- `appUrlOpen` 이벤트로 OAuth callback을 받아 Supabase 세션을 앱에 저장하도록 했다.
+- `@capacitor/browser`를 추가해 네이티브 OAuth 페이지를 앱 브라우저 흐름으로 열도록 했다.
+
+### 계정/동기화 UI 정리
+
+- 계정 카드에서 로그인 이메일과 동기화 설명을 제거했다.
+- 로그인 후 계정 카드는 `로그인됨`과 로그아웃 액션만 담당하도록 단순화했다.
+- 동기화 상태 문구가 긴 언어에서 확인 버튼과 겹치지 않도록 상태 문구를 카드 헤더 아래 줄로 내렸다.
+- 동기화 상태 문구가 UI 언어 변경 후에도 기존 언어로 남지 않도록 상태 key 기반 재번역을 추가했다.
+
+### 동기화 데이터 적용 보정
+
+- `클라우드 기록 가져오기` 시 현재 기기의 UI 언어를 보존하도록 했다.
+- `ui_lang`은 로컬/서버 동기화 차이 판단에서 제외했다.
+- 서버 `user_language_stats.last_studied_at`을 로컬 stats의 `lastStudiedAt`으로 매핑하도록 했다.
+- 클라우드 기록을 가져온 뒤에도 계속 동기화 선택 패널이 뜨던 문제를 줄였다.
+
+### 앱 재진입 흐름
+
+- 앱이 Android에서 기존 WebView 상태로 복귀해도 마지막 탭에 머무르지 않도록 마지막 탭 저장을 무력화했다.
+- 앱 복귀 시 진행 중 학습/Word Drop/OAuth 복귀가 아니면 인트로를 짧게 표시한 뒤 학습 READY 화면으로 이동하도록 했다.
+- Android `appStateChange`, `resume`, `visibilitychange` 경로를 함께 처리했다.
+
+### 버전/빌드
+
+- Android 앱 버전을 `1.4.0`, `versionCode 9`로 올렸다.
+- Gradle이 생성하는 `android/gradle/gradle-daemon-jvm.properties`를 커밋 대상에서 제외했다.
+
+### 검증
+
+- Android 실기기에서 Google 로그인 브라우저 복귀 흐름 확인
+- 클라우드 기록 가져오기 후 UI 언어가 바뀌지 않는지 확인
+- 클라우드 기록 가져오기 후 동기화 패널 반복 노출 보정 확인
+- 앱 복귀 시 인트로 후 학습 화면 이동 확인
+- `node --check www/js/features/auth.js`
+- `node --check www/js/app/native-shell.js`
+- `node --check www/js/app/app-init.js`
+- `node --check www/js/app/navigation.js`
+- `node --check www/js/sync/local-apply.js`
+- `node --check www/js/sync/local-mappers.js`
+- `node --check www/js/sync/remote-diff.js`
+- `node --check www/js/sync/remote-mappers.js`
+- `npx cap sync android`
+
 ## 2026-06-10 - 하단 네비탭 인터랙션 다듬기
 
 ### 하단 네비탭 활성 상태

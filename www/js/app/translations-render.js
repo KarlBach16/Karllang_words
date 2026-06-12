@@ -472,6 +472,9 @@ function applyTranslations() {
   if (typeof refreshFirstSyncPanelTranslations === "function") {
     refreshFirstSyncPanelTranslations();
   }
+  if (typeof refreshAccountSyncStatusTranslation === "function") {
+    refreshAccountSyncStatusTranslation();
+  }
 
   if (DOM.settingsUiLangLabel)
     DOM.settingsUiLangLabel.textContent = trKey(

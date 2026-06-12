@@ -71,8 +71,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const targetView =
       typeof hasAuthReturnView === "function" && hasAuthReturnView()
         ? consumeAuthReturnView()
-        : typeof getStoredLastView === "function"
-        ? getStoredLastView()
         : "study";
     showView(targetView);
     if (targetView === "study" && typeof showReadyState === "function") {
@@ -244,4 +242,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 7) 안드로이드 하드웨어 back 버튼 핸들러
   setupAndroidBackHandler();
+  setupNativeResumeViewHandler();
 });

@@ -9,6 +9,19 @@ let SYNC_DIFF_PROMISE = null;
 let SYNC_DIFF_CHECKED_USER_ID = null;
 let SYNC_DIFF_LAST_CHECK_AT = 0;
 let SYNC_DIFF_LIFECYCLE_READY = false;
+let SYNC_STATUS_KEY = null;
+let SYNC_STATUS_FALLBACK = "";
+
+function setAccountSyncStatus(key, fallback) {
+  SYNC_STATUS_KEY = key;
+  SYNC_STATUS_FALLBACK = fallback || "";
+  if (!DOM.accountSyncStatus) return;
+  DOM.accountSyncStatus.textContent = key ? trKey(key, fallback || "") : "";
+}
+
+function refreshAccountSyncStatusTranslation() {
+  setAccountSyncStatus(SYNC_STATUS_KEY, SYNC_STATUS_FALLBACK);
+}
 
 function countByStudyLang(rows) {
   const counts = {};
@@ -68,7 +81,6 @@ function settingsMatchForDiff(userId, remoteSettings) {
 
   const localSettings = buildServerSettingsPayload(userId);
   const comparableKeys = [
-    "ui_lang",
     "study_lang",
     "mode",
     "goal_typing",
@@ -201,6 +213,7 @@ function scheduleRemoteLocalDiffCheck(reason = "startup", options = {}) {
 function resetRemoteLocalDiffState() {
   SYNC_DIFF_CHECKED_USER_ID = null;
   SYNC_DIFF_PROMISE = null;
+  setAccountSyncStatus(null, "");
   if (SYNC_DIFF_TIMER) {
     clearTimeout(SYNC_DIFF_TIMER);
     SYNC_DIFF_TIMER = null;
@@ -218,7 +231,7 @@ async function runManualRemoteSyncCheck() {
     button.disabled = true;
   }
   if (status) {
-    status.textContent = trKey("account.sync_checking_short", "Checking...");
+    setAccountSyncStatus("account.sync_checking_short", "Checking...");
   }
 
   try {
@@ -230,9 +243,14 @@ async function runManualRemoteSyncCheck() {
       );
     }
     if (summary && status) {
-      status.textContent = summary.hasDifference
-        ? ""
-        : trKey("account.sync_up_to_date", "Cloud data is up to date.");
+      if (summary.hasDifference) {
+        setAccountSyncStatus(null, "");
+      } else {
+        setAccountSyncStatus(
+          "account.sync_up_to_date",
+          "Cloud data is up to date.",
+        );
+      }
     }
     return summary;
   } finally {

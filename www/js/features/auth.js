@@ -11,6 +11,25 @@ let AUTH_CONTROLS_READY = false;
 let AUTH_LISTENER_READY = false;
 let AUTH_SERVER_BOOTSTRAPPED_USER_ID = null;
 let AUTH_SERVER_BOOTSTRAP_PROMISE = null;
+let AUTH_DEEP_LINK_READY = false;
+
+const AUTH_NATIVE_REDIRECT_URL = "com.karllang.app://auth/callback";
+const NativeBrowser = window.Capacitor
+  ? (window.Capacitor.Plugins && window.Capacitor.Plugins.Browser) ||
+    window.Capacitor.Browser ||
+    null
+  : null;
+
+function isNativeAuthRuntime() {
+  return !!window.Capacitor?.isNativePlatform?.();
+}
+
+function getAuthRedirectUrl() {
+  if (isNativeAuthRuntime()) {
+    return AUTH_NATIVE_REDIRECT_URL;
+  }
+  return `${window.location.origin}${window.location.pathname}`;
+}
 
 function getValidAuthReturnView(view) {
   const allowed = ["study", "user", "training", "words", "settings"];
@@ -36,8 +55,19 @@ function hasAuthReturnView() {
 
 function initAuth() {
   bindAuthControls();
+  bindAuthDeepLinkHandler();
   subscribeAuthChanges();
   return refreshAuthState();
+}
+
+function bindAuthDeepLinkHandler() {
+  if (AUTH_DEEP_LINK_READY) return;
+  if (!NativeApp || typeof NativeApp.addListener !== "function") return;
+
+  AUTH_DEEP_LINK_READY = true;
+  NativeApp.addListener("appUrlOpen", ({ url }) => {
+    handleAuthCallbackUrl(url);
+  });
 }
 
 function bindAuthControls() {
@@ -166,16 +196,107 @@ async function signInWithProvider(provider) {
   }
 
   saveAuthReturnView();
-  const redirectTo = `${window.location.origin}${window.location.pathname}`;
-  const { error } = await client.auth.signInWithOAuth({
+  const redirectTo = getAuthRedirectUrl();
+  const { data, error } = await client.auth.signInWithOAuth({
     provider,
     options: {
       redirectTo,
+      skipBrowserRedirect: isNativeAuthRuntime(),
     },
   });
 
   if (error) {
     console.warn(`[auth] ${provider} sign-in failed.`, error);
+    renderAuthState();
+    return;
+  }
+
+  if (isNativeAuthRuntime() && data?.url) {
+    if (NativeBrowser?.open) {
+      await NativeBrowser.open({ url: data.url });
+    } else {
+      window.location.href = data.url;
+    }
+  }
+}
+
+function parseAuthCallbackParams(url) {
+  if (!url) return null;
+
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch (error) {
+    console.warn("[auth] invalid callback URL.", error);
+    return null;
+  }
+
+  const params = new URLSearchParams(parsed.search);
+  if (parsed.hash) {
+    const hash = parsed.hash.startsWith("#")
+      ? parsed.hash.slice(1)
+      : parsed.hash;
+    const hashParams = new URLSearchParams(hash);
+    hashParams.forEach((value, key) => {
+      if (!params.has(key)) {
+        params.set(key, value);
+      }
+    });
+  }
+
+  return params;
+}
+
+async function handleAuthCallbackUrl(url) {
+  if (!url || !url.startsWith(AUTH_NATIVE_REDIRECT_URL)) return;
+
+  if (NativeBrowser?.close) {
+    NativeBrowser.close().catch((error) => {
+      console.warn("[auth] native browser close failed.", error);
+    });
+  }
+
+  const client = getSupabaseClient();
+  if (!client?.auth) return;
+
+  const params = parseAuthCallbackParams(url);
+  if (!params) return;
+
+  const error = params.get("error") || params.get("error_code");
+  if (error) {
+    console.warn("[auth] native OAuth callback error.", {
+      error,
+      description: params.get("error_description"),
+    });
+    renderAuthState();
+    return;
+  }
+
+  try {
+    const code = params.get("code");
+    if (code && typeof client.auth.exchangeCodeForSession === "function") {
+      const { error: exchangeError } = await client.auth.exchangeCodeForSession(
+        code,
+      );
+      if (exchangeError) throw exchangeError;
+    } else {
+      const accessToken = params.get("access_token");
+      const refreshToken = params.get("refresh_token");
+      if (
+        accessToken &&
+        refreshToken &&
+        typeof client.auth.setSession === "function"
+      ) {
+        const { error: sessionError } = await client.auth.setSession({
+          access_token: accessToken,
+          refresh_token: refreshToken,
+        });
+        if (sessionError) throw sessionError;
+      }
+    }
+    await refreshAuthState();
+  } catch (callbackError) {
+    console.warn("[auth] native OAuth callback failed.", callbackError);
     renderAuthState();
   }
 }
@@ -310,10 +431,8 @@ function renderAuthState() {
   if (!DOM.accountStatusText || !DOM.accountStatusDetail) return;
 
   if (AUTH_STATE.signedIn) {
-    const email = AUTH_STATE.user?.email || "";
     DOM.accountStatusText.textContent = trKey("account.status_signed_in", "Signed in");
-    DOM.accountStatusDetail.textContent =
-      email || trKey("account.status_sync_ready", "Cloud sync is ready.");
+    DOM.accountStatusDetail.textContent = "";
   } else {
     DOM.accountStatusText.textContent = trKey("account.status_guest", "Guest mode");
     DOM.accountStatusDetail.textContent = trKey(

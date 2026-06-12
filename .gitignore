@@ -21,3 +21,6 @@ tmp/
 # Auth private keys
 *.p8
 AuthKey_*.p8
+
+# Gradle local/generated runtime metadata
+android/gradle/gradle-daemon-jvm.properties

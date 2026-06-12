@@ -446,10 +446,15 @@ body {
 
 .account-section-header {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
-    gap: 10px;
+    gap: 4px 10px;
     min-height: 38px;
+}
+
+.account-section-header .settings-card-title {
+    grid-column: 1;
+    grid-row: 1;
 }
 
 .account-sync-card {
@@ -470,23 +475,22 @@ body {
 
 .account-status-detail {
     margin-top: 3px;
-    min-height: 17px;
     font-size: 12px;
     line-height: 1.35;
     color: var(--color-text-light);
 }
 
 .account-sync-status {
-    flex: 0 0 auto;
+    grid-column: 1 / -1;
+    grid-row: 2;
     min-height: 18px;
     color: var(--color-secondary);
     font-size: 13px;
     font-weight: 800;
     line-height: 1.35;
-    text-align: center;
-    white-space: nowrap;
+    text-align: left;
+    white-space: normal;
     overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .account-auth-actions {
@@ -548,6 +552,8 @@ body {
 }
 
 .account-sync-check-btn {
+    grid-column: 2;
+    grid-row: 1;
     justify-self: end;
     min-width: 96px;
     min-height: 32px;

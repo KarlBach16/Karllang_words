@@ -145,10 +145,9 @@ function mapLocalLanguageStatsRows(userId) {
     const stats = statsByLang[lang] || {};
     const totalReviewed = toSyncInteger(stats.totalReviewed);
     const newLearned = toSyncInteger(stats.newLearned);
-    const lastStudiedAt = getLastStudiedAtForLang(
-      lang,
-      srsByLang,
-      wordStatsByLang,
+    const lastStudiedAt = Math.max(
+      toSyncInteger(stats.lastStudiedAt),
+      getLastStudiedAtForLang(lang, srsByLang, wordStatsByLang),
     );
 
     if (!totalReviewed && !newLearned && !lastStudiedAt) return;

@@ -21,7 +21,9 @@ function getStoredLastView() {
 }
 
 function saveLastView(view) {
-  safeSet(STORAGE_KEYS.LAST_VIEW, normalizeRestorableView(view));
+  if (typeof window !== "undefined" && window.localStorage) {
+    window.localStorage.removeItem(STORAGE_KEYS.LAST_VIEW);
+  }
 }
 
 function getAppHeaderTitle(view) {

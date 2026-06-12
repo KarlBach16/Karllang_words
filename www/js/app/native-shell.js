@@ -68,6 +68,8 @@ const NativeApp = window.Capacitor
   : null;
 
 let LAST_BACK_TIME = 0;
+let LAST_NATIVE_INACTIVE_AT = 0;
+let NATIVE_RESUME_INTRO_TIMER = null;
 const FORCE_START_SCREEN_FOR_DESIGN = false;
 
 function prepareIntroVisual() {
@@ -146,5 +148,111 @@ function setupAndroidBackHandler() {
   if (!NativeApp || typeof NativeApp.addListener !== "function") return;
   NativeApp.addListener("backButton", () => {
     handleAndroidBack();
+  });
+}
+
+function shouldResetToStudyOnNativeResume() {
+  if (typeof hasAuthReturnView === "function" && hasAuthReturnView()) {
+    return false;
+  }
+  if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
+    return false;
+  }
+  if (
+    typeof WORD_DROP_STATE !== "undefined" &&
+    (WORD_DROP_STATE.active || WORD_DROP_STATE.pendingStart)
+  ) {
+    return false;
+  }
+  return APP_STATE.currentView !== "study";
+}
+
+function shouldShowIntroOnNativeResume() {
+  if (typeof hasAuthReturnView === "function" && hasAuthReturnView()) {
+    return false;
+  }
+  if (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER") {
+    return false;
+  }
+  if (
+    typeof WORD_DROP_STATE !== "undefined" &&
+    (WORD_DROP_STATE.active || WORD_DROP_STATE.pendingStart)
+  ) {
+    return false;
+  }
+  return true;
+}
+
+function resetToStudyOnNativeResume() {
+  if (!shouldResetToStudyOnNativeResume()) return;
+
+  showView("study");
+  if (typeof showReadyState === "function") {
+    showReadyState();
+  }
+}
+
+function showIntroThenStudyOnNativeResume() {
+  if (!shouldShowIntroOnNativeResume()) return;
+
+  const introScreen = document.getElementById("introScreen");
+  const startScreen = document.getElementById("startScreen");
+  const appScreen = document.getElementById("app");
+  const body = document.body;
+
+  if (NATIVE_RESUME_INTRO_TIMER) {
+    clearTimeout(NATIVE_RESUME_INTRO_TIMER);
+    NATIVE_RESUME_INTRO_TIMER = null;
+  }
+
+  if (!introScreen || !appScreen) {
+    resetToStudyOnNativeResume();
+    return;
+  }
+
+  if (startScreen) startScreen.style.display = "none";
+  appScreen.style.display = "none";
+  introScreen.style.display = "flex";
+  body.classList.add("state-intro");
+  body.classList.remove("state-start");
+
+  NATIVE_RESUME_INTRO_TIMER = setTimeout(() => {
+    NATIVE_RESUME_INTRO_TIMER = null;
+    body.classList.remove("state-intro", "state-start");
+    introScreen.style.display = "none";
+    if (startScreen) startScreen.style.display = "none";
+    appScreen.style.display = "flex";
+    showView("study");
+    if (typeof showReadyState === "function") {
+      showReadyState();
+    }
+  }, 1100);
+}
+
+function setupNativeResumeViewHandler() {
+  if (!NativeApp || typeof NativeApp.addListener !== "function") return;
+  NativeApp.addListener("appStateChange", (state) => {
+    if (!state?.isActive) {
+      LAST_NATIVE_INACTIVE_AT = Date.now();
+      return;
+    }
+
+    if (!LAST_NATIVE_INACTIVE_AT) return;
+    showIntroThenStudyOnNativeResume();
+  });
+
+  NativeApp.addListener("resume", () => {
+    LAST_NATIVE_INACTIVE_AT = LAST_NATIVE_INACTIVE_AT || Date.now();
+    showIntroThenStudyOnNativeResume();
+  });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") {
+      LAST_NATIVE_INACTIVE_AT = Date.now();
+      return;
+    }
+    if (document.visibilityState === "visible") {
+      showIntroThenStudyOnNativeResume();
+    }
   });
 }

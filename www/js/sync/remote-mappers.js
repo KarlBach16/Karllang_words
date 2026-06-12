@@ -57,6 +57,7 @@ function mapRemoteLanguageStatsToLocal(rows) {
     result[lang] = {
       totalReviewed: toSyncInteger(row.total_reviewed),
       newLearned: toSyncInteger(row.new_learned),
+      lastStudiedAt: toSyncInteger(row.last_studied_at),
     };
   });
 
