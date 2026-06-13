@@ -95,11 +95,18 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     body.classList.remove("state-intro", "state-start");
     showScreen(appScreen);
-    showView("study");
-    if (typeof showReadyState === "function") {
-      showReadyState();
-    }
+    showInitialAppView();
   }
+
+  window.enterKarlLangAppFromAuthReturn = function enterKarlLangAppFromAuthReturn() {
+    if (!appScreen) return;
+    if (typeof applyTranslations === "function") {
+      applyTranslations();
+    }
+    body.classList.remove("state-intro", "state-start");
+    showScreen(appScreen);
+    showInitialAppView();
+  };
 
   const shouldSkipIntroForAuthReturn =
     typeof hasAuthReturnView === "function" && hasAuthReturnView();

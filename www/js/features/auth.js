@@ -295,6 +295,9 @@ async function handleAuthCallbackUrl(url) {
       }
     }
     await refreshAuthState();
+    if (typeof enterKarlLangAppFromAuthReturn === "function") {
+      enterKarlLangAppFromAuthReturn();
+    }
   } catch (callbackError) {
     console.warn("[auth] native OAuth callback failed.", callbackError);
     renderAuthState();
