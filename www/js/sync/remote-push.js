@@ -3,6 +3,7 @@
 const SYNC_PUSH_BATCH_SIZE = 200;
 
 let SYNC_PUSH_PROMISE = null;
+let SYNC_PUSH_PROMISE_USER_ID = null;
 
 function chunkSyncRows(rows, size = SYNC_PUSH_BATCH_SIZE) {
   const chunks = [];
@@ -106,7 +107,9 @@ async function pushLocalSyncSnapshot(
   userId = getCurrentAuthUserId(),
   options = {},
 ) {
-  if (SYNC_PUSH_PROMISE) return SYNC_PUSH_PROMISE;
+  if (SYNC_PUSH_PROMISE && SYNC_PUSH_PROMISE_USER_ID === userId) {
+    return SYNC_PUSH_PROMISE;
+  }
 
   const client = getSupabaseClient();
   if (!client?.from) {
@@ -116,7 +119,7 @@ async function pushLocalSyncSnapshot(
     throw new Error("Sign in before pushing local sync data.");
   }
 
-  SYNC_PUSH_PROMISE = (async () => {
+  const pushPromise = (async () => {
     const snapshot = buildLocalSyncSnapshot(userId);
 
     const settings = await upsertSyncSettings(client, userId);
@@ -156,9 +159,15 @@ async function pushLocalSyncSnapshot(
     return summary;
   })();
 
+  SYNC_PUSH_PROMISE = pushPromise;
+  SYNC_PUSH_PROMISE_USER_ID = userId;
+
   try {
-    return await SYNC_PUSH_PROMISE;
+    return await pushPromise;
   } finally {
-    SYNC_PUSH_PROMISE = null;
+    if (SYNC_PUSH_PROMISE === pushPromise) {
+      SYNC_PUSH_PROMISE = null;
+      SYNC_PUSH_PROMISE_USER_ID = null;
+    }
   }
 }

@@ -6,6 +6,7 @@ const SYNC_MANUAL_STATUS_MIN_MS = 1200;
 
 let SYNC_DIFF_TIMER = null;
 let SYNC_DIFF_PROMISE = null;
+let SYNC_DIFF_PROMISE_USER_ID = null;
 let SYNC_DIFF_CHECKED_USER_ID = null;
 let SYNC_DIFF_LAST_CHECK_AT = 0;
 let SYNC_DIFF_LIFECYCLE_READY = false;
@@ -62,6 +63,21 @@ function normalizeLanguageStatsForDiff(row) {
   };
 }
 
+function normalizeRemoteSettingsForDiff(remoteSettings) {
+  return {
+    study_lang: normalizeRemoteStudyLang(remoteSettings.study_lang),
+    mode: normalizeRemoteMode(remoteSettings.mode),
+    goal_typing: normalizeRemoteGoal(remoteSettings.goal_typing),
+    goal_card: normalizeRemoteGoal(remoteSettings.goal_card),
+    new_word_cefr: normalizeRemoteCefr(remoteSettings.new_word_cefr),
+    new_word_category: remoteSettings.new_word_category || "all",
+    sound_enabled: remoteSettings.sound_enabled !== false,
+    haptic_enabled: remoteSettings.haptic_enabled !== false,
+    reminder_enabled: remoteSettings.reminder_enabled === true,
+    reminder_time: normalizeReminderTime(remoteSettings.reminder_time),
+  };
+}
+
 function sortByJsonValue(items) {
   return [...items].sort((a, b) =>
     JSON.stringify(a).localeCompare(JSON.stringify(b)),
@@ -80,6 +96,7 @@ function settingsMatchForDiff(userId, remoteSettings) {
   }
 
   const localSettings = buildServerSettingsPayload(userId);
+  const remoteComparableSettings = normalizeRemoteSettingsForDiff(remoteSettings);
   const comparableKeys = [
     "study_lang",
     "mode",
@@ -93,7 +110,9 @@ function settingsMatchForDiff(userId, remoteSettings) {
     "reminder_time",
   ];
 
-  return comparableKeys.every((key) => localSettings[key] === remoteSettings[key]);
+  return comparableKeys.every(
+    (key) => localSettings[key] === remoteComparableSettings[key],
+  );
 }
 
 function buildSyncDiffSummary(userId, localSnapshot, remoteSnapshot) {
@@ -149,9 +168,11 @@ function buildSyncDiffSummary(userId, localSnapshot, remoteSnapshot) {
 
 async function checkRemoteLocalSyncDiff(userId = getCurrentAuthUserId()) {
   if (!userId) return null;
-  if (SYNC_DIFF_PROMISE) return SYNC_DIFF_PROMISE;
+  if (SYNC_DIFF_PROMISE && SYNC_DIFF_PROMISE_USER_ID === userId) {
+    return SYNC_DIFF_PROMISE;
+  }
 
-  SYNC_DIFF_PROMISE = (async () => {
+  const diffPromise = (async () => {
     const remoteSnapshot = await fetchRemoteSyncSnapshot(userId);
     if (remoteSnapshot.syncMeta?.first_migration_completed !== true) {
       console.info("[sync] remote/local diff skipped before first sync.");
@@ -167,13 +188,19 @@ async function checkRemoteLocalSyncDiff(userId = getCurrentAuthUserId()) {
     return summary;
   })();
 
+  SYNC_DIFF_PROMISE = diffPromise;
+  SYNC_DIFF_PROMISE_USER_ID = userId;
+
   try {
-    return await SYNC_DIFF_PROMISE;
+    return await diffPromise;
   } catch (error) {
     console.info("[sync] remote/local diff check skipped.", error);
     return null;
   } finally {
-    SYNC_DIFF_PROMISE = null;
+    if (SYNC_DIFF_PROMISE === diffPromise) {
+      SYNC_DIFF_PROMISE = null;
+      SYNC_DIFF_PROMISE_USER_ID = null;
+    }
   }
 }
 
@@ -213,6 +240,7 @@ function scheduleRemoteLocalDiffCheck(reason = "startup", options = {}) {
 function resetRemoteLocalDiffState() {
   SYNC_DIFF_CHECKED_USER_ID = null;
   SYNC_DIFF_PROMISE = null;
+  SYNC_DIFF_PROMISE_USER_ID = null;
   setAccountSyncStatus(null, "");
   if (SYNC_DIFF_TIMER) {
     clearTimeout(SYNC_DIFF_TIMER);

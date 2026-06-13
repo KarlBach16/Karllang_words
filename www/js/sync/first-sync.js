@@ -2,7 +2,6 @@
 
 let FIRST_SYNC_CONTROLS_READY = false;
 let FIRST_SYNC_REFRESH_PROMISE = null;
-let FIRST_SYNC_LAST_REMOTE = null;
 let FIRST_SYNC_PANEL_MODE = "first";
 let FIRST_SYNC_DETAIL_KEY = "account.sync_conflict_detail";
 let FIRST_SYNC_DETAIL_FALLBACK = "Choose how to sync your learning data.";
@@ -92,7 +91,6 @@ async function refreshFirstSyncPanel() {
   const userId = getCurrentAuthUserId();
   if (!userId) {
     FIRST_SYNC_PANEL_MODE = "first";
-    FIRST_SYNC_LAST_REMOTE = null;
     setFirstSyncPanelVisible(false);
     return null;
   }
@@ -113,7 +111,6 @@ async function refreshFirstSyncPanel() {
     try {
       const localSnapshot = buildLocalSyncSnapshot(userId);
       const remoteSnapshot = await fetchRemoteSyncSnapshot(userId);
-      FIRST_SYNC_LAST_REMOTE = remoteSnapshot;
 
       const localCount = countLocalSyncData(localSnapshot);
       const remoteCount = countRemoteSyncData(remoteSnapshot);
@@ -185,9 +182,9 @@ async function runFirstSyncDownload() {
   setFirstSyncButtonsDisabled(true);
   setFirstSyncPanelText("account.sync_working", "Syncing...");
   const userId = getCurrentAuthUserId();
-  const preview = FIRST_SYNC_LAST_REMOTE
-    ? buildRemoteLocalPreview(FIRST_SYNC_LAST_REMOTE)
-    : await previewRemoteLocalSnapshot();
+  if (!userId) return null;
+  const remoteSnapshot = await fetchRemoteSyncSnapshot(userId);
+  const preview = buildRemoteLocalPreview(remoteSnapshot);
   const summary = applyRemoteLocalPreview(preview);
   const client = getSupabaseClient();
   if (client?.from && userId) {
@@ -206,7 +203,6 @@ async function runFirstSyncDownload() {
 function showPostMigrationSyncChoice(remoteSnapshot) {
   bindFirstSyncControls();
   FIRST_SYNC_PANEL_MODE = "post_migration";
-  FIRST_SYNC_LAST_REMOTE = remoteSnapshot || null;
   setFirstSyncPanelText(
     "account.sync_changed_detail",
     "Cloud learning data is different from this device. Choose which data to keep.",

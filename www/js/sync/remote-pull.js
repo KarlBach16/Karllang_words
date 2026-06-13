@@ -3,6 +3,7 @@
 const SYNC_PULL_PAGE_SIZE = 1000;
 
 let SYNC_PULL_PROMISE = null;
+let SYNC_PULL_PROMISE_USER_ID = null;
 
 async function fetchAllSyncRows(client, table, userId, options = {}) {
   const pageSize = options.pageSize || SYNC_PULL_PAGE_SIZE;
@@ -38,7 +39,9 @@ async function fetchAllSyncRows(client, table, userId, options = {}) {
 }
 
 async function fetchRemoteSyncSnapshot(userId = getCurrentAuthUserId()) {
-  if (SYNC_PULL_PROMISE) return SYNC_PULL_PROMISE;
+  if (SYNC_PULL_PROMISE && SYNC_PULL_PROMISE_USER_ID === userId) {
+    return SYNC_PULL_PROMISE;
+  }
 
   const client = getSupabaseClient();
   if (!client?.from) {
@@ -48,7 +51,7 @@ async function fetchRemoteSyncSnapshot(userId = getCurrentAuthUserId()) {
     throw new Error("Sign in before fetching remote sync data.");
   }
 
-  SYNC_PULL_PROMISE = (async () => {
+  const pullPromise = (async () => {
     const [settings, syncMeta, wordProgress, languageStats, attendance] =
       await Promise.all([
         client
@@ -90,9 +93,15 @@ async function fetchRemoteSyncSnapshot(userId = getCurrentAuthUserId()) {
     return snapshot;
   })();
 
+  SYNC_PULL_PROMISE = pullPromise;
+  SYNC_PULL_PROMISE_USER_ID = userId;
+
   try {
-    return await SYNC_PULL_PROMISE;
+    return await pullPromise;
   } finally {
-    SYNC_PULL_PROMISE = null;
+    if (SYNC_PULL_PROMISE === pullPromise) {
+      SYNC_PULL_PROMISE = null;
+      SYNC_PULL_PROMISE_USER_ID = null;
+    }
   }
 }
