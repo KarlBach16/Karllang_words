@@ -2,6 +2,37 @@
 
 > 정렬 규칙: 작업일지는 최신 날짜가 위로 오도록 작성한다. 새 항목은 이 안내 아래, 기존 항목보다 위쪽에 추가하고 같은 날짜의 기존 항목 순서는 유지한다.
 
+## 2026-06-13 - iOS/Android 실기기 최종 동기화 점검
+
+### 네이티브 로그인 복귀 안정화
+
+- iOS에서 OAuth callback URL scheme을 등록해 Apple/Google 로그인 후 앱으로 복귀되도록 했다.
+- 시작 화면에서 Apple/Google 로그인한 뒤 언어 설정 화면에 남지 않고 학습 화면으로 진입하도록 공통 auth return 흐름을 보정했다.
+- Android에도 같은 시작 화면 로그인 복귀 수정이 적용되도록 Capacitor sync를 반영했다.
+
+### 동기화 확인 UX 보정
+
+- 로그인/동기화 완료 후 학습을 한 번 진행하면 로컬 기록이 서버보다 최신이 되는 정상 상황을 충돌처럼 보여주던 문제를 수정했다.
+- `동기화 확인`을 누르면 먼저 pending 자동 업로드를 즉시 flush하고, 그 다음 서버/로컬 차이를 비교하도록 했다.
+- 자동 업로드 예약 로직과 수동 확인 로직이 같은 push promise를 공유하도록 정리했다.
+
+### Android 첫 설치 테스트 보정
+
+- Android 재설치 테스트에서 Google 자동 백업이 예전 WebView/localStorage 데이터를 복원해 시작 화면을 건너뛸 수 있는 문제를 줄였다.
+- `android:allowBackup="false"`와 `android:fullBackupContent="false"`를 설정해 서버 동기화 기반 앱 흐름과 Android 자동 백업이 충돌하지 않도록 했다.
+
+### 검증
+
+- Android 실기기: Apple 로그인, Google 로그인, 클라우드 기록 가져오기 확인
+- iOS 실기기: Apple 로그인, Google 로그인, 클라우드 기록 가져오기 확인
+- 동기화 완료 후 학습 1회 진행, `동기화 확인` 시 불필요한 선택 패널이 뜨지 않는지 확인
+- Android/iOS 실기기 테스트 모두 패스
+- `node --check www/js/sync/auto-sync.js`
+- `node --check www/js/sync/remote-diff.js`
+- `./gradlew :app:processDebugMainManifest`
+- `npx cap sync android`
+- `npx cap sync ios`
+
 ## 2026-06-13 - Android 실기기 로그인/동기화 보정
 
 ### Android OAuth 복귀

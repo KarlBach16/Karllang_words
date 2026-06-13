@@ -263,6 +263,9 @@ async function runManualRemoteSyncCheck() {
   }
 
   try {
+    if (typeof flushAutoSyncPush === "function") {
+      await flushAutoSyncPush("manual_check");
+    }
     const summary = await checkRemoteLocalSyncDiff(userId);
     const elapsed = Date.now() - startedAt;
     if (elapsed < SYNC_MANUAL_STATUS_MIN_MS) {
