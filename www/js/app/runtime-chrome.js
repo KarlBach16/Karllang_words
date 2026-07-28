@@ -4,6 +4,12 @@ let APP_LAYOUT_VIEWPORT_HEIGHT = 0;
 
 function setPhase(phase) {
   APP_STATE.phase = phase;
+  ["READY", "QUESTION", "ANSWER", "FINISHED"].forEach((name) => {
+    document.body.classList.toggle(
+      `study-phase-${name.toLowerCase()}`,
+      phase === name,
+    );
+  });
   updateStudySettingsVisibility();
   updateKeyboardModeChrome();
 }
@@ -34,6 +40,10 @@ function updateKeyboardModeChrome() {
     APP_STATE.currentView === "study" &&
       (APP_STATE.phase === "QUESTION" || APP_STATE.phase === "ANSWER"),
   );
+
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate();
+  }
 }
 
 function updateRuntimeChromeClass() {
@@ -100,5 +110,9 @@ function syncAppViewportHeight() {
       "--app-viewport-offset-top",
       `${Math.round(offsetTop)}px`,
     );
+  }
+
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate();
   }
 }

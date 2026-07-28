@@ -8,6 +8,11 @@ function init() {
   loadSettings();
   initSupabaseClient();
   syncAppViewportHeight();
+  initNativeChrome();
+  initNativeSettingsBridge();
+  initNativeWordsBridge();
+  initNativeTrainingBridge();
+  initNativeStudyBridge();
 
   if (DOM.startUiLang) {
     populateUiLangSelect(DOM.startUiLang);

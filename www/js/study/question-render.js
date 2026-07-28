@@ -35,6 +35,7 @@ function showNextQuestion() {
     APP_STATE.currentCard = item;
     TYPING_HINT_COUNT = 0;
     item._typingHintUsed = false;
+    item._typingAnswerRevealed = false;
 
     // 🔹 훈련소 모드 여부 (뷰 + 플래그 둘 다 체크)
     const isTrainingMode =

@@ -713,6 +713,7 @@ function handleSkip() {
   const item = APP_STATE.currentCard;
   if (!item) return;
 
+  item._typingAnswerRevealed = true;
   incrementWrongAttempt(item.word.id);
   applyAnswerResult(false, item);
 }
@@ -758,9 +759,9 @@ function handleRating(rating) {
   if (!item) return;
 
   if (
-    rating === "easy" &&
     SETTINGS.mode === "typing" &&
-    item._typingHintUsed === true
+    ((rating === "easy" && item._typingHintUsed === true) ||
+      (rating !== "hard" && item._typingAnswerRevealed === true))
   ) {
     updateRatingButtonsForHint(item);
     return;

@@ -81,6 +81,7 @@ function formatWrongLabel(wrong) {
 function createWordListItem(word, stats, context) {
   const item = document.createElement("div");
   item.className = "wordbook-item";
+  item.dataset.wordId = String(word.id);
 
   const left = document.createElement("div");
   left.className = "wordbook-main";

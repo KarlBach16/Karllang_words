@@ -178,4 +178,8 @@ function showView(view) {
       focusWordDropInput();
     }
   }
+
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate();
+  }
 }

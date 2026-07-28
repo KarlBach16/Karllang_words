@@ -448,18 +448,18 @@ body {
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
-    gap: 4px 10px;
-    min-height: 38px;
+    gap: 8px 12px;
 }
 
 .account-section-header .settings-card-title {
     grid-column: 1;
     grid-row: 1;
+    margin: 0;
 }
 
 .account-sync-card {
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
 .account-status-row {
@@ -483,14 +483,21 @@ body {
 .account-sync-status {
     grid-column: 1 / -1;
     grid-row: 2;
-    min-height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20px;
     color: var(--color-secondary);
     font-size: 13px;
     font-weight: 800;
     line-height: 1.35;
-    text-align: left;
+    text-align: center;
     white-space: normal;
     overflow: hidden;
+}
+
+.account-sync-status:empty {
+    display: none;
 }
 
 .account-auth-actions {
@@ -555,8 +562,8 @@ body {
     grid-column: 2;
     grid-row: 1;
     justify-self: end;
-    min-width: 96px;
-    min-height: 32px;
+    min-width: 104px;
+    min-height: 34px;
     margin: 0;
     padding: 6px 12px;
     border: 1px solid var(--color-secondary);
@@ -573,15 +580,15 @@ body {
 }
 
 .account-sync-panel {
-    margin: 12px 0 0;
-    padding: 12px;
+    margin: 14px 0 0;
+    padding: 14px;
     border: 1px solid var(--color-border);
     border-radius: 8px;
     background: #f8fafc;
 }
 
 .account-sync-detail {
-    margin-top: 4px;
+    margin: 0;
     font-size: 12px;
     line-height: 1.4;
     color: var(--color-text-light);
@@ -2577,4 +2584,423 @@ body.state-app #app {
         max-width: 480px;
         margin: 0 auto;
     }
+}
+
+/* Native shell owns the app chrome only after its Capacitor bridge confirms ready. */
+body.native-shell-enabled #appHeader,
+body.native-shell-enabled #bottomNav {
+    display: none !important;
+}
+
+body.native-shell-enabled #app {
+    padding-top: var(--native-shell-top-inset, 0px);
+}
+
+body.native-shell-enabled #app .app-main {
+    padding-top: 16px;
+    padding-bottom: calc(var(--native-shell-bottom-inset, 0px) + 18px);
+}
+
+body.native-shell-enabled.word-drop-active #app {
+    padding-top: calc(var(--safe-top) + 8px);
+}
+
+body.native-shell-enabled.word-drop-active #app .app-main,
+body.native-shell-enabled.word-drop-keyboard-active #app .app-main {
+    padding-bottom: 8px;
+}
+
+body.native-shell-enabled.native-platform.study-keyboard-active #app,
+body.native-shell-enabled.native-platform.training-cram-active #app {
+    padding-top: var(--native-shell-top-inset, var(--safe-top));
+}
+
+/* Native Word Drop keeps the JS game loop while adopting the app shell texture. */
+body.native-shell-enabled #wordDropView {
+    padding: 0 2px 2px;
+}
+
+body.native-shell-enabled .word-drop-shell {
+    gap: 10px;
+}
+
+body.native-shell-enabled .word-drop-progress {
+    height: 3px;
+    margin: 2px 4px 0;
+    background: rgba(60, 60, 67, 0.12);
+}
+
+body.native-shell-enabled .word-drop-progress-bar {
+    background: var(--color-primary);
+}
+
+body.native-shell-enabled .word-drop-arena {
+    border: 1px solid rgba(60, 60, 67, 0.12);
+    border-radius: 16px;
+    background: #ffffff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.035);
+}
+
+body.native-shell-enabled .word-drop-word {
+    top: 12px;
+    max-width: calc(100% - 28px);
+    padding: 9px 14px;
+    border: 0;
+    border-radius: 12px;
+    background: #f2f2f7;
+    color: #111111;
+    font-size: 24px;
+    font-weight: 750;
+    line-height: 1.2;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+body.native-shell-enabled .word-drop-word.word-drop-hit {
+    border: 0;
+    background: #e8f9ee;
+    color: #137333;
+    box-shadow: 0 0 0 1px rgba(0, 200, 83, 0.16);
+}
+
+body.native-shell-enabled .word-drop-ready-text {
+    color: #6e6e73;
+    font-size: 16px;
+    font-weight: 650;
+}
+
+body.native-shell-enabled .word-drop-ready.is-counting .word-drop-ready-text {
+    color: #111111;
+    font-size: 46px;
+    font-weight: 800;
+}
+
+body.native-shell-enabled .word-drop-input {
+    min-height: 52px;
+    padding: 13px 16px;
+    border: 1px solid rgba(60, 60, 67, 0.18);
+    border-radius: 14px;
+    background: #ffffff;
+    color: #111111;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.025);
+}
+
+body.native-shell-enabled .word-drop-input:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(0, 200, 83, 0.12);
+}
+
+body.native-shell-enabled .word-drop-input.word-drop-input-miss {
+    border-color: #ff3b30;
+    background: #fff5f4;
+    box-shadow: 0 0 0 3px rgba(255, 59, 48, 0.1);
+}
+
+body.native-shell-enabled .word-drop-game-over {
+    gap: 14px;
+    padding: 24px 20px;
+    background: rgba(255, 255, 255, 0.98);
+}
+
+body.native-shell-enabled .word-drop-game-over h2 {
+    color: #111111;
+    font-size: 26px;
+    font-weight: 800;
+}
+
+body.native-shell-enabled #wordDropFinalScore {
+    margin: 0;
+    color: #6e6e73;
+    font-size: 16px;
+    font-weight: 650;
+}
+
+body.native-shell-enabled .word-drop-mistakes {
+    gap: 5px;
+    color: #6e6e73;
+}
+
+body.native-shell-enabled .word-drop-mistakes > div {
+    padding: 8px 12px;
+    border-radius: 9px;
+    background: #f2f2f7;
+    color: inherit;
+}
+
+body.native-shell-enabled .word-drop-actions {
+    gap: 10px;
+}
+
+body.native-shell-enabled .word-drop-actions .btn,
+body.native-shell-enabled .word-drop-actions .share-card-open-btn {
+    min-height: 48px;
+    padding: 12px 15px;
+    border-radius: 999px;
+    font-size: 16px;
+    font-weight: 750;
+}
+
+body.native-shell-enabled .word-drop-actions .btn-primary,
+body.native-shell-enabled .word-drop-actions .btn-secondary {
+    box-shadow: none;
+}
+
+body.native-shell-enabled .word-drop-actions .btn:active,
+body.native-shell-enabled .word-drop-actions .share-card-open-btn:active {
+    transform: scale(0.985);
+    opacity: 0.82;
+}
+
+/* Native study session keeps the multilingual WebView input and learning logic. */
+body.native-shell-enabled.study-session-active #studyView {
+    min-height: 100%;
+    padding: 0 2px 4px;
+}
+
+body.native-shell-enabled.study-session-active #mainCard {
+    min-height: 330px;
+    margin-top: 0;
+    padding: 52px 18px 18px;
+    border: 1px solid rgba(60, 60, 67, 0.12);
+    border-radius: 16px;
+    background: #ffffff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.035);
+}
+
+body.native-shell-enabled.study-session-active .session-progress {
+    top: 16px;
+    left: 18px;
+    color: #8e8e93;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+body.native-shell-enabled.study-session-active .card-level-badge {
+    top: 12px;
+    right: 14px;
+    padding: 5px 10px;
+    border-radius: 999px;
+    color: #6e6e73;
+    background: #f2f2f7;
+    font-size: 13px;
+    font-weight: 650;
+    box-shadow: none;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .question {
+    margin: 6px 0 8px;
+    color: #111111;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .hint {
+    min-height: 20px;
+    margin-bottom: 10px;
+    color: #6e6e73;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .input-area {
+    margin: 12px 0 8px;
+}
+
+body.native-shell-enabled.study-session-active #answerInput {
+    height: 52px;
+    min-height: 52px;
+    padding: 13px 16px;
+    border: 1px solid rgba(60, 60, 67, 0.18);
+    border-radius: 14px;
+    background: transparent;
+    color: #111111;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+    -webkit-appearance: none;
+    appearance: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.025);
+}
+
+body.native-shell-enabled.study-session-active .copy-wrapper {
+    border-radius: 14px;
+    background: #ffffff;
+}
+
+body.native-shell-enabled.study-session-active #answerInput:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(0, 200, 83, 0.12);
+}
+
+body.native-shell-enabled.study-session-active .copy-ghost {
+    top: 0;
+    left: -1px;
+    width: 100%;
+    height: 52px;
+    padding: 13px 16px;
+    border: 1px solid transparent;
+    transform: none;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+body.native-shell-enabled.study-session-active .copy-ghost .ghost-char {
+    font: inherit;
+    letter-spacing: inherit;
+}
+
+body.native-shell-enabled.study-session-active #mainCard #feedback {
+    min-height: 20px;
+    margin: 5px 0;
+    color: #6e6e73;
+    font-size: 14px;
+    font-weight: 650;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .button-group {
+    width: 100%;
+    max-width: none;
+    gap: 10px;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .button-group .btn {
+    min-height: 48px;
+    max-width: none;
+    padding: 12px 16px;
+    border-radius: 999px;
+    font-size: 16px;
+    font-weight: 750;
+    box-shadow: none;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .button-group:not(.typing-hint-active) .btn {
+    width: 100%;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .button-group.typing-hint-active {
+    width: 100%;
+    max-width: none;
+}
+
+body.native-shell-enabled.study-session-active #mainCard .button-group .btn + .btn,
+body.native-shell-enabled.study-session-active .rating-buttons .btn-rating + .btn-rating {
+    margin: 0;
+}
+
+body.native-shell-enabled.study-session-active .typing-hint-btn {
+    border: 1px solid rgba(41, 98, 255, 0.22);
+    background: rgba(41, 98, 255, 0.07);
+    color: var(--color-secondary);
+}
+
+body.native-shell-enabled.study-session-active #mainCard .btn:active,
+body.native-shell-enabled.study-session-active #mainCard .icon-btn:active {
+    transform: scale(0.985);
+    opacity: 0.82;
+}
+
+body.native-shell-enabled.study-phase-answer #mainCard.card-correct {
+    border-color: rgba(0, 200, 83, 0.32);
+    background: #f4fcf6;
+}
+
+body.native-shell-enabled.study-phase-answer #mainCard.card-wrong {
+    border-color: rgba(255, 59, 48, 0.3);
+    background: #fff7f6;
+}
+
+body.native-shell-enabled.study-phase-answer .answer-main {
+    color: #111111;
+}
+
+body.native-shell-enabled.study-phase-answer .answer-meaning-text,
+body.native-shell-enabled.study-phase-answer .answer-reading-text {
+    color: #6e6e73;
+}
+
+body.native-shell-enabled.study-phase-answer .answer-actions {
+    gap: 10px;
+    margin-top: 22px;
+}
+
+body.native-shell-enabled.study-phase-answer .answer-actions .icon-btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 50%;
+    background: #f2f2f7;
+    color: #3a3a3c;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body.native-shell-enabled.study-phase-answer .answer-actions .icon-btn.info-icon {
+    border-color: var(--color-secondary);
+    background: rgba(41, 98, 255, 0.07);
+    color: var(--color-secondary);
+}
+
+body.native-shell-enabled.study-phase-answer .answer-actions .icon-btn.bookmark-btn,
+body.native-shell-enabled.study-phase-answer .answer-actions .icon-btn.speaker-icon {
+    border-color: var(--color-primary);
+    background: rgba(0, 200, 83, 0.07);
+    color: var(--color-primary);
+}
+
+body.native-shell-enabled.study-phase-answer .answer-actions .icon-btn + .icon-btn {
+    margin-left: 0;
+}
+
+body.native-shell-enabled.study-phase-answer #ratingArea {
+    margin-top: 16px;
+}
+
+body.native-shell-enabled.study-phase-answer .rating-title {
+    margin-bottom: 10px;
+    color: #8e8e93;
+    font-size: 13px;
+}
+
+body.native-shell-enabled.study-phase-answer .rating-buttons {
+    gap: 8px;
+}
+
+body.native-shell-enabled.study-phase-answer .btn-rating {
+    min-height: 44px;
+    max-width: none;
+    padding: 10px 8px;
+    border-radius: 12px;
+    font-size: 15px;
+    box-shadow: none;
+}
+
+body.native-shell-enabled.study-phase-answer .btn-hard {
+    background: #ff3b30;
+}
+
+body.native-shell-enabled.study-phase-answer .btn-normal {
+    background: #6e6e73;
+}
+
+body.native-shell-enabled.study-phase-answer .btn-easy {
+    background: var(--color-primary);
+}
+
+body.native-shell-enabled.native-platform.study-keyboard-active #app .app-main {
+    padding-top: 8px;
+}
+
+body.native-shell-enabled.native-platform.study-keyboard-active #mainCard {
+    min-height: 290px;
+    padding-top: 46px;
 }

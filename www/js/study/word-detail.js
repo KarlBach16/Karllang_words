@@ -429,9 +429,15 @@ function openWordDetail(word) {
   }
 
   DOM.detailOverlay.classList.add("active");
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate({ force: true });
+  }
 }
 
 function closeWordDetail() {
   if (!DOM.detailOverlay) return;
   DOM.detailOverlay.classList.remove("active");
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate({ force: true });
+  }
 }

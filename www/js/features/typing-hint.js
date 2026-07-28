@@ -100,10 +100,15 @@ function updateRatingButtonsForHint(item) {
 
   const shouldDisableEasy =
     item && item._typingHintUsed === true && SETTINGS.mode === "typing";
+  const shouldAllowOnlyHard =
+    item && item._typingAnswerRevealed === true && SETTINGS.mode === "typing";
 
   DOM.ratingButtons.forEach((btn) => {
-    const isEasy = btn.getAttribute("data-rating") === "easy";
-    btn.disabled = shouldDisableEasy && isEasy;
-    btn.classList.toggle("rating-disabled", shouldDisableEasy && isEasy);
+    const rating = btn.getAttribute("data-rating");
+    const shouldDisable =
+      (shouldDisableEasy && rating === "easy") ||
+      (shouldAllowOnlyHard && rating !== "hard");
+    btn.disabled = shouldDisable;
+    btn.classList.toggle("rating-disabled", shouldDisable);
   });
 }

@@ -555,4 +555,8 @@ function applyTranslations() {
   if (APP_STATE.currentView === "search") {
     handleSearch();
   }
+
+  if (typeof scheduleNativeChromeUpdate === "function") {
+    scheduleNativeChromeUpdate({ force: true });
+  }
 }

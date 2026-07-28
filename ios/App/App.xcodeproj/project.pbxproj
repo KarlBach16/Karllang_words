@@ -19,6 +19,12 @@
 		8FAD01071C2B4D6FA5BC1701 /* NativeTTSPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAD01061C2B4D6FA5BC1701 /* NativeTTSPlugin.swift */; };
 		C1A00001305000000000AA01 /* NativeImageSaverPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A00000305000000000AA01 /* NativeImageSaverPlugin.swift */; };
 		C1A00003305000000000AA01 /* NativeAppSettingsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A00002305000000000AA01 /* NativeAppSettingsPlugin.swift */; };
+		E1C00001307000000000AA01 /* NativeChromePlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C00000307000000000AA01 /* NativeChromePlugin.swift */; };
+		E1C00003307000000000AA01 /* NativeSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C00002307000000000AA01 /* NativeSettingsViewController.swift */; };
+		E1C00005307000000000AA01 /* NativeHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C00004307000000000AA01 /* NativeHomeViewController.swift */; };
+		E1C00007307000000000AA01 /* NativeWordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C00006307000000000AA01 /* NativeWordsViewController.swift */; };
+		E1C00009307000000000AA01 /* NativeTrainingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C00008307000000000AA01 /* NativeTrainingViewController.swift */; };
+		E1C0000B307000000000AA01 /* NativeStudyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C0000A307000000000AA01 /* NativeStudyViewController.swift */; };
 		CBFD830B2F9508AF00909B97 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CBFD830A2F9508AF00909B97 /* GoogleService-Info.plist */; };
 		CBFD830E2F950A8600909B97 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = CBFD830D2F950A8600909B97 /* FirebaseAnalytics */; };
 		CC110001303000000000AA01 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC110000303000000000AA01 /* MainViewController.swift */; };
@@ -39,6 +45,12 @@
 		958DCC722DB07C7200EA8C5F /* debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = debug.xcconfig; path = ../debug.xcconfig; sourceTree = SOURCE_ROOT; };
 		C1A00000305000000000AA01 /* NativeImageSaverPlugin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeImageSaverPlugin.swift; sourceTree = "<group>"; };
 		C1A00002305000000000AA01 /* NativeAppSettingsPlugin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeAppSettingsPlugin.swift; sourceTree = "<group>"; };
+		E1C00000307000000000AA01 /* NativeChromePlugin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeChromePlugin.swift; sourceTree = "<group>"; };
+		E1C00002307000000000AA01 /* NativeSettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeSettingsViewController.swift; sourceTree = "<group>"; };
+		E1C00004307000000000AA01 /* NativeHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeHomeViewController.swift; sourceTree = "<group>"; };
+		E1C00006307000000000AA01 /* NativeWordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeWordsViewController.swift; sourceTree = "<group>"; };
+		E1C00008307000000000AA01 /* NativeTrainingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeTrainingViewController.swift; sourceTree = "<group>"; };
+		E1C0000A307000000000AA01 /* NativeStudyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeStudyViewController.swift; sourceTree = "<group>"; };
 		CB3983212F965CC400B06E5C /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
 		CB3983222F965CC400B06E5C /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		CB3983232F965D0300B06E5C /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
@@ -102,6 +114,12 @@
 				8FAD01061C2B4D6FA5BC1701 /* NativeTTSPlugin.swift */,
 				C1A00002305000000000AA01 /* NativeAppSettingsPlugin.swift */,
 				C1A00000305000000000AA01 /* NativeImageSaverPlugin.swift */,
+				E1C00000307000000000AA01 /* NativeChromePlugin.swift */,
+				E1C00002307000000000AA01 /* NativeSettingsViewController.swift */,
+				E1C00004307000000000AA01 /* NativeHomeViewController.swift */,
+				E1C00006307000000000AA01 /* NativeWordsViewController.swift */,
+				E1C00008307000000000AA01 /* NativeTrainingViewController.swift */,
+				E1C0000A307000000000AA01 /* NativeStudyViewController.swift */,
 				504EC30B1FED79650016851F /* Main.storyboard */,
 				504EC30E1FED79650016851F /* Assets.xcassets */,
 				504EC3101FED79650016851F /* LaunchScreen.storyboard */,
@@ -211,6 +229,12 @@
 				8FAD01071C2B4D6FA5BC1701 /* NativeTTSPlugin.swift in Sources */,
 				C1A00003305000000000AA01 /* NativeAppSettingsPlugin.swift in Sources */,
 				C1A00001305000000000AA01 /* NativeImageSaverPlugin.swift in Sources */,
+				E1C00001307000000000AA01 /* NativeChromePlugin.swift in Sources */,
+				E1C00003307000000000AA01 /* NativeSettingsViewController.swift in Sources */,
+				E1C00005307000000000AA01 /* NativeHomeViewController.swift in Sources */,
+				E1C00007307000000000AA01 /* NativeWordsViewController.swift in Sources */,
+				E1C00009307000000000AA01 /* NativeTrainingViewController.swift in Sources */,
+				E1C0000B307000000000AA01 /* NativeStudyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
