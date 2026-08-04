@@ -3,7 +3,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_586",
     "lang": "de",
-    "lemma": "taktik",
+    "lemma": "Taktik",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29,7 +29,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_588",
     "lang": "de",
-    "lemma": "potenzial",
+    "lemma": "Potenzial",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -55,7 +55,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_590",
     "lang": "de",
-    "lemma": "anpassung",
+    "lemma": "Anpassung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -82,7 +82,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_592",
     "lang": "de",
-    "lemma": "ass",
+    "lemma": "Ass",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -108,7 +108,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_600",
     "lang": "de",
-    "lemma": "gier",
+    "lemma": "Gier",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -134,7 +134,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_601",
     "lang": "de",
-    "lemma": "überzeugung",
+    "lemma": "Überzeugung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -208,7 +208,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_607",
     "lang": "de",
-    "lemma": "erzähler",
+    "lemma": "Erzähler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -234,7 +234,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_612",
     "lang": "de",
-    "lemma": "boom",
+    "lemma": "Boom",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -261,7 +261,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_615",
     "lang": "de",
-    "lemma": "ritt",
+    "lemma": "Ritt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -288,7 +288,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_617",
     "lang": "de",
-    "lemma": "teich",
+    "lemma": "Teich",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -315,7 +315,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_619",
     "lang": "de",
-    "lemma": "duell",
+    "lemma": "Duell",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -341,7 +341,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_622",
     "lang": "de",
-    "lemma": "wange",
+    "lemma": "Wange",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -392,7 +392,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_629",
     "lang": "de",
-    "lemma": "stoß",
+    "lemma": "Stoß",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -467,7 +467,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_636",
     "lang": "de",
-    "lemma": "substanz",
+    "lemma": "Substanz",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -493,7 +493,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_644",
     "lang": "de",
-    "lemma": "schmetterling",
+    "lemma": "Schmetterling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -544,7 +544,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_656",
     "lang": "de",
-    "lemma": "medaille",
+    "lemma": "Medaille",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -593,7 +593,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_667",
     "lang": "de",
-    "lemma": "pirat",
+    "lemma": "Pirat",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -667,7 +667,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_679",
     "lang": "de",
-    "lemma": "orbit",
+    "lemma": "Orbit",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -693,7 +693,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_680",
     "lang": "de",
-    "lemma": "kapsel",
+    "lemma": "Kapsel",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -743,7 +743,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_682",
     "lang": "de",
-    "lemma": "internat",
+    "lemma": "Internat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -769,7 +769,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_684",
     "lang": "de",
-    "lemma": "mühle",
+    "lemma": "Mühle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -795,7 +795,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_685",
     "lang": "de",
-    "lemma": "zeitalter",
+    "lemma": "Zeitalter",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -821,7 +821,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_688",
     "lang": "de",
-    "lemma": "prediger",
+    "lemma": "Prediger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -893,7 +893,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_695",
     "lang": "de",
-    "lemma": "verpflichtung",
+    "lemma": "Verpflichtung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -920,7 +920,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_699",
     "lang": "de",
-    "lemma": "gegenleistung",
+    "lemma": "Gegenleistung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -946,7 +946,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_703",
     "lang": "de",
-    "lemma": "helfer",
+    "lemma": "Helfer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -973,7 +973,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_704",
     "lang": "de",
-    "lemma": "aufstieg",
+    "lemma": "Aufstieg",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1000,7 +1000,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_708",
     "lang": "de",
-    "lemma": "hauptrolle",
+    "lemma": "Hauptrolle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1027,7 +1027,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_711",
     "lang": "de",
-    "lemma": "spanier",
+    "lemma": "Spanier",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1054,7 +1054,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_718",
     "lang": "de",
-    "lemma": "scanner",
+    "lemma": "Scanner",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1081,7 +1081,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_723",
     "lang": "de",
-    "lemma": "stückchen",
+    "lemma": "Stückchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -1108,7 +1108,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_724",
     "lang": "de",
-    "lemma": "provinz",
+    "lemma": "Provinz",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1159,7 +1159,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_730",
     "lang": "de",
-    "lemma": "elektrizität",
+    "lemma": "Elektrizität",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1185,7 +1185,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_733",
     "lang": "de",
-    "lemma": "vaterland",
+    "lemma": "Vaterland",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -1211,7 +1211,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_736",
     "lang": "de",
-    "lemma": "schleier",
+    "lemma": "Schleier",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1284,7 +1284,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_743",
     "lang": "de",
-    "lemma": "übergabe",
+    "lemma": "Übergabe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1311,7 +1311,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_746",
     "lang": "de",
-    "lemma": "effekt",
+    "lemma": "Effekt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1361,7 +1361,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_748",
     "lang": "de",
-    "lemma": "verwirrung",
+    "lemma": "Verwirrung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1388,7 +1388,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_751",
     "lang": "de",
-    "lemma": "grundlage",
+    "lemma": "Grundlage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1415,7 +1415,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_754",
     "lang": "de",
-    "lemma": "arena",
+    "lemma": "Arena",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1442,7 +1442,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_758",
     "lang": "de",
-    "lemma": "verfolgung",
+    "lemma": "Verfolgung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1468,7 +1468,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_760",
     "lang": "de",
-    "lemma": "exemplar",
+    "lemma": "Exemplar",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -1518,7 +1518,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_764",
     "lang": "de",
-    "lemma": "anstalt",
+    "lemma": "Anstalt",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1545,7 +1545,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_766",
     "lang": "de",
-    "lemma": "pakt",
+    "lemma": "Pakt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1571,7 +1571,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_767",
     "lang": "de",
-    "lemma": "damm",
+    "lemma": "Damm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1598,7 +1598,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_768",
     "lang": "de",
-    "lemma": "laser",
+    "lemma": "Laser",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1720,7 +1720,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_783",
     "lang": "de",
-    "lemma": "unterschlupf",
+    "lemma": "Unterschlupf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1746,7 +1746,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_784",
     "lang": "de",
-    "lemma": "besen",
+    "lemma": "Besen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1797,7 +1797,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_788",
     "lang": "de",
-    "lemma": "tugend",
+    "lemma": "Tugend",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -1823,7 +1823,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_789",
     "lang": "de",
-    "lemma": "neuanfang",
+    "lemma": "Neuanfang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1850,7 +1850,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_793",
     "lang": "de",
-    "lemma": "senf",
+    "lemma": "Senf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1900,7 +1900,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_799",
     "lang": "de",
-    "lemma": "schwiegersohn",
+    "lemma": "Schwiegersohn",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -1974,7 +1974,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_808",
     "lang": "de",
-    "lemma": "belästigung",
+    "lemma": "Belästigung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2025,7 +2025,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_817",
     "lang": "de",
-    "lemma": "canyon",
+    "lemma": "Canyon",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2075,7 +2075,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_826",
     "lang": "de",
-    "lemma": "bund",
+    "lemma": "Bund",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2172,7 +2172,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_834",
     "lang": "de",
-    "lemma": "begleiter",
+    "lemma": "Begleiter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2199,7 +2199,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_837",
     "lang": "de",
-    "lemma": "apokalypse",
+    "lemma": "Apokalypse",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2225,7 +2225,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_838",
     "lang": "de",
-    "lemma": "knabe",
+    "lemma": "Knabe",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2298,7 +2298,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_843",
     "lang": "de",
-    "lemma": "schwindler",
+    "lemma": "Schwindler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2325,7 +2325,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_844",
     "lang": "de",
-    "lemma": "maß",
+    "lemma": "Maß",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -2352,7 +2352,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_845",
     "lang": "de",
-    "lemma": "rechtsanwalt",
+    "lemma": "Rechtsanwalt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2379,7 +2379,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_846",
     "lang": "de",
-    "lemma": "romantik",
+    "lemma": "Romantik",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2404,7 +2404,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_849",
     "lang": "de",
-    "lemma": "nanny",
+    "lemma": "Nanny",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2430,7 +2430,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_850",
     "lang": "de",
-    "lemma": "haushälterin",
+    "lemma": "Haushälterin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2481,7 +2481,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_852",
     "lang": "de",
-    "lemma": "privatdetektiv",
+    "lemma": "Privatdetektiv",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2626,7 +2626,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_863",
     "lang": "de",
-    "lemma": "morphium",
+    "lemma": "Morphium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -2652,7 +2652,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_865",
     "lang": "de",
-    "lemma": "bote",
+    "lemma": "Bote",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2679,7 +2679,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_867",
     "lang": "de",
-    "lemma": "kooperation",
+    "lemma": "Kooperation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2706,7 +2706,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_868",
     "lang": "de",
-    "lemma": "schwerkraft",
+    "lemma": "Schwerkraft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2732,7 +2732,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_873",
     "lang": "de",
-    "lemma": "pulli",
+    "lemma": "Pulli",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2759,7 +2759,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_874",
     "lang": "de",
-    "lemma": "kiefer",
+    "lemma": "Kiefer",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2880,7 +2880,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_884",
     "lang": "de",
-    "lemma": "vorgehensweise",
+    "lemma": "Vorgehensweise",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -2907,7 +2907,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_886",
     "lang": "de",
-    "lemma": "spender",
+    "lemma": "Spender",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -2982,7 +2982,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_892",
     "lang": "de",
-    "lemma": "gastgeber",
+    "lemma": "Gastgeber",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3009,7 +3009,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_893",
     "lang": "de",
-    "lemma": "innenstadt",
+    "lemma": "Innenstadt",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3036,7 +3036,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_894",
     "lang": "de",
-    "lemma": "mitbewohnerin",
+    "lemma": "Mitbewohnerin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3086,7 +3086,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_897",
     "lang": "de",
-    "lemma": "ratschlag",
+    "lemma": "Ratschlag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3113,7 +3113,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_898",
     "lang": "de",
-    "lemma": "scham",
+    "lemma": "Scham",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3139,7 +3139,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_901",
     "lang": "de",
-    "lemma": "defekt",
+    "lemma": "Defekt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3214,7 +3214,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_906",
     "lang": "de",
-    "lemma": "schaufel",
+    "lemma": "Schaufel",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3241,7 +3241,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_907",
     "lang": "de",
-    "lemma": "vetter",
+    "lemma": "Vetter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3291,7 +3291,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_910",
     "lang": "de",
-    "lemma": "rücksitz",
+    "lemma": "Rücksitz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3342,7 +3342,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_914",
     "lang": "de",
-    "lemma": "management",
+    "lemma": "Management",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -3369,7 +3369,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_918",
     "lang": "de",
-    "lemma": "würfel",
+    "lemma": "Würfel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3396,7 +3396,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_919",
     "lang": "de",
-    "lemma": "physik",
+    "lemma": "Physik",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3469,7 +3469,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_927",
     "lang": "de",
-    "lemma": "streik",
+    "lemma": "Streik",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3520,7 +3520,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_931",
     "lang": "de",
-    "lemma": "korruption",
+    "lemma": "Korruption",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3546,7 +3546,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_934",
     "lang": "de",
-    "lemma": "grube",
+    "lemma": "Grube",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3573,7 +3573,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_936",
     "lang": "de",
-    "lemma": "kamerad",
+    "lemma": "Kamerad",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3646,7 +3646,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_939",
     "lang": "de",
-    "lemma": "stier",
+    "lemma": "Stier",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3673,7 +3673,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_941",
     "lang": "de",
-    "lemma": "entschluss",
+    "lemma": "Entschluss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3724,7 +3724,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_944",
     "lang": "de",
-    "lemma": "desaster",
+    "lemma": "Desaster",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -3799,7 +3799,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_951",
     "lang": "de",
-    "lemma": "auslöser",
+    "lemma": "Auslöser",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3826,7 +3826,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_954",
     "lang": "de",
-    "lemma": "server",
+    "lemma": "Server",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3853,7 +3853,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_955",
     "lang": "de",
-    "lemma": "leibwächter",
+    "lemma": "Leibwächter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3880,7 +3880,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_962",
     "lang": "de",
-    "lemma": "handschuh",
+    "lemma": "Handschuh",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -3907,7 +3907,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_963",
     "lang": "de",
-    "lemma": "seide",
+    "lemma": "Seide",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -3982,7 +3982,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_973",
     "lang": "de",
-    "lemma": "klatschen",
+    "lemma": "Klatschen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4008,7 +4008,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_975",
     "lang": "de",
-    "lemma": "häuschen",
+    "lemma": "Häuschen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4035,7 +4035,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_976",
     "lang": "de",
-    "lemma": "vermittlung",
+    "lemma": "Vermittlung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4062,7 +4062,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_980",
     "lang": "de",
-    "lemma": "blei",
+    "lemma": "Blei",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4136,7 +4136,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_985",
     "lang": "de",
-    "lemma": "aufprall",
+    "lemma": "Aufprall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4186,7 +4186,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_991",
     "lang": "de",
-    "lemma": "unterhose",
+    "lemma": "Unterhose",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4213,7 +4213,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_992",
     "lang": "de",
-    "lemma": "instrumentalmusik",
+    "lemma": "Instrumentalmusik",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4239,7 +4239,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_993",
     "lang": "de",
-    "lemma": "heldin",
+    "lemma": "Heldin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4312,7 +4312,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_999",
     "lang": "de",
-    "lemma": "massage",
+    "lemma": "Massage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4339,7 +4339,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1000",
     "lang": "de",
-    "lemma": "pudding",
+    "lemma": "Pudding",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4390,7 +4390,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1005",
     "lang": "de",
-    "lemma": "teilnehmer",
+    "lemma": "Teilnehmer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4417,7 +4417,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1009",
     "lang": "de",
-    "lemma": "tabak",
+    "lemma": "Tabak",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4468,7 +4468,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1014",
     "lang": "de",
-    "lemma": "kodex",
+    "lemma": "Kodex",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4541,7 +4541,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1018",
     "lang": "de",
-    "lemma": "mythos",
+    "lemma": "Mythos",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4615,7 +4615,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1024",
     "lang": "de",
-    "lemma": "lebenszeichen",
+    "lemma": "Lebenszeichen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4642,7 +4642,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1027",
     "lang": "de",
-    "lemma": "haustier",
+    "lemma": "Haustier",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4669,7 +4669,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1029",
     "lang": "de",
-    "lemma": "gesichtsausdruck",
+    "lemma": "Gesichtsausdruck",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4696,7 +4696,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1031",
     "lang": "de",
-    "lemma": "element",
+    "lemma": "Element",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -4723,7 +4723,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1033",
     "lang": "de",
-    "lemma": "verlegenheit",
+    "lemma": "Verlegenheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4750,7 +4750,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1036",
     "lang": "de",
-    "lemma": "bereitschaft",
+    "lemma": "Bereitschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4777,7 +4777,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1037",
     "lang": "de",
-    "lemma": "börse",
+    "lemma": "Börse",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4803,7 +4803,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1038",
     "lang": "de",
-    "lemma": "aufsatz",
+    "lemma": "Aufsatz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4853,7 +4853,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1045",
     "lang": "de",
-    "lemma": "ausschuss",
+    "lemma": "Ausschuss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4904,7 +4904,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1051",
     "lang": "de",
-    "lemma": "tango",
+    "lemma": "Tango",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -4955,7 +4955,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1058",
     "lang": "de",
-    "lemma": "psychologie",
+    "lemma": "Psychologie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -4981,7 +4981,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1061",
     "lang": "de",
-    "lemma": "belastung",
+    "lemma": "Belastung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5008,7 +5008,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1063",
     "lang": "de",
-    "lemma": "gespenst",
+    "lemma": "Gespenst",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -5035,7 +5035,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1067",
     "lang": "de",
-    "lemma": "ursprung",
+    "lemma": "Ursprung",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5062,7 +5062,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1071",
     "lang": "de",
-    "lemma": "terrasse",
+    "lemma": "Terrasse",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5089,7 +5089,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1075",
     "lang": "de",
-    "lemma": "impuls",
+    "lemma": "Impuls",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5116,7 +5116,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1077",
     "lang": "de",
-    "lemma": "peitsche",
+    "lemma": "Peitsche",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5142,7 +5142,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1078",
     "lang": "de",
-    "lemma": "rebellion",
+    "lemma": "Rebellion",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5168,7 +5168,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1079",
     "lang": "de",
-    "lemma": "seemann",
+    "lemma": "Seemann",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5219,7 +5219,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1084",
     "lang": "de",
-    "lemma": "absturz",
+    "lemma": "Absturz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5268,7 +5268,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1090",
     "lang": "de",
-    "lemma": "kavallerie",
+    "lemma": "Kavallerie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5319,7 +5319,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1094",
     "lang": "de",
-    "lemma": "beifall",
+    "lemma": "Beifall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5345,7 +5345,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1096",
     "lang": "de",
-    "lemma": "resultat",
+    "lemma": "Resultat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -5396,7 +5396,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1102",
     "lang": "de",
-    "lemma": "beschützer",
+    "lemma": "Beschützer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5423,7 +5423,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1104",
     "lang": "de",
-    "lemma": "betrag",
+    "lemma": "Betrag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5450,7 +5450,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1106",
     "lang": "de",
-    "lemma": "schlägerei",
+    "lemma": "Schlägerei",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5476,7 +5476,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1107",
     "lang": "de",
-    "lemma": "bösewicht",
+    "lemma": "Bösewicht",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5551,7 +5551,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1116",
     "lang": "de",
-    "lemma": "karton",
+    "lemma": "Karton",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5602,7 +5602,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1118",
     "lang": "de",
-    "lemma": "obhut",
+    "lemma": "Obhut",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5627,7 +5627,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1119",
     "lang": "de",
-    "lemma": "aufführung",
+    "lemma": "Aufführung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5654,7 +5654,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1120",
     "lang": "de",
-    "lemma": "fraß",
+    "lemma": "Fraß",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5681,7 +5681,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1124",
     "lang": "de",
-    "lemma": "häftling",
+    "lemma": "Häftling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5756,7 +5756,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1129",
     "lang": "de",
-    "lemma": "stapel",
+    "lemma": "Stapel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5783,7 +5783,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1132",
     "lang": "de",
-    "lemma": "übereinstimmung",
+    "lemma": "Übereinstimmung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5809,7 +5809,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1133",
     "lang": "de",
-    "lemma": "entwurf",
+    "lemma": "Entwurf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -5859,7 +5859,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1136",
     "lang": "de",
-    "lemma": "anliegen",
+    "lemma": "Anliegen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -5886,7 +5886,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1138",
     "lang": "de",
-    "lemma": "täuschung",
+    "lemma": "Täuschung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5958,7 +5958,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1142",
     "lang": "de",
-    "lemma": "mithilfe",
+    "lemma": "Mithilfe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -5985,7 +5985,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1143",
     "lang": "de",
-    "lemma": "packung",
+    "lemma": "Packung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6082,7 +6082,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1149",
     "lang": "de",
-    "lemma": "hindernis",
+    "lemma": "Hindernis",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6133,7 +6133,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1153",
     "lang": "de",
-    "lemma": "schreck",
+    "lemma": "Schreck",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6160,7 +6160,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1158",
     "lang": "de",
-    "lemma": "lob",
+    "lemma": "Lob",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6210,7 +6210,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1162",
     "lang": "de",
-    "lemma": "ohnmacht",
+    "lemma": "Ohnmacht",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6261,7 +6261,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1174",
     "lang": "de",
-    "lemma": "silvester",
+    "lemma": "Silvester",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6288,7 +6288,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1177",
     "lang": "de",
-    "lemma": "schließfach",
+    "lemma": "Schließfach",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6339,7 +6339,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1181",
     "lang": "de",
-    "lemma": "millionär",
+    "lemma": "Millionär",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6365,7 +6365,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1184",
     "lang": "de",
-    "lemma": "forscher",
+    "lemma": "Forscher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6414,7 +6414,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1187",
     "lang": "de",
-    "lemma": "design",
+    "lemma": "Design",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6487,7 +6487,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1192",
     "lang": "de",
-    "lemma": "nervensäge",
+    "lemma": "Nervensäge",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6513,7 +6513,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1193",
     "lang": "de",
-    "lemma": "kuckuck",
+    "lemma": "Kuckuck",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6540,7 +6540,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1196",
     "lang": "de",
-    "lemma": "unabhängigkeit",
+    "lemma": "Unabhängigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6566,7 +6566,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1199",
     "lang": "de",
-    "lemma": "lücke",
+    "lemma": "Lücke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6593,7 +6593,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1203",
     "lang": "de",
-    "lemma": "weibchen",
+    "lemma": "Weibchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6619,7 +6619,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1204",
     "lang": "de",
-    "lemma": "jahrestag",
+    "lemma": "Jahrestag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -6693,7 +6693,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1208",
     "lang": "de",
-    "lemma": "depression",
+    "lemma": "Depression",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6744,7 +6744,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1211",
     "lang": "de",
-    "lemma": "männchen",
+    "lemma": "Männchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -6795,7 +6795,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1214",
     "lang": "de",
-    "lemma": "kommission",
+    "lemma": "Kommission",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6845,7 +6845,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1220",
     "lang": "de",
-    "lemma": "komödie",
+    "lemma": "Komödie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6920,7 +6920,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1227",
     "lang": "de",
-    "lemma": "olive",
+    "lemma": "Olive",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6947,7 +6947,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1229",
     "lang": "de",
-    "lemma": "beteiligung",
+    "lemma": "Beteiligung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -6974,7 +6974,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1234",
     "lang": "de",
-    "lemma": "kapital",
+    "lemma": "Kapital",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7000,7 +7000,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1236",
     "lang": "de",
-    "lemma": "attacke",
+    "lemma": "Attacke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7026,7 +7026,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1238",
     "lang": "de",
-    "lemma": "medium",
+    "lemma": "Medium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7052,7 +7052,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1241",
     "lang": "de",
-    "lemma": "stockwerk",
+    "lemma": "Stockwerk",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7079,7 +7079,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1248",
     "lang": "de",
-    "lemma": "befreiung",
+    "lemma": "Befreiung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7105,7 +7105,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1249",
     "lang": "de",
-    "lemma": "anzahlung",
+    "lemma": "Anzahlung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7156,7 +7156,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1251",
     "lang": "de",
-    "lemma": "komplex",
+    "lemma": "Komplex",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7207,7 +7207,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1265",
     "lang": "de",
-    "lemma": "imperium",
+    "lemma": "Imperium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7233,7 +7233,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1270",
     "lang": "de",
-    "lemma": "privileg",
+    "lemma": "Privileg",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7260,7 +7260,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1274",
     "lang": "de",
-    "lemma": "wirbel",
+    "lemma": "Wirbel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7287,7 +7287,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1277",
     "lang": "de",
-    "lemma": "behälter",
+    "lemma": "Behälter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7338,7 +7338,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1287",
     "lang": "de",
-    "lemma": "morgengrauen",
+    "lemma": "Morgengrauen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7364,7 +7364,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1288",
     "lang": "de",
-    "lemma": "kristall",
+    "lemma": "Kristall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7414,7 +7414,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1292",
     "lang": "de",
-    "lemma": "unheil",
+    "lemma": "Unheil",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7440,7 +7440,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1295",
     "lang": "de",
-    "lemma": "verwendung",
+    "lemma": "Verwendung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7491,7 +7491,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1300",
     "lang": "de",
-    "lemma": "evolution",
+    "lemma": "Evolution",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7518,7 +7518,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1305",
     "lang": "de",
-    "lemma": "becken",
+    "lemma": "Becken",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7637,7 +7637,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1329",
     "lang": "de",
-    "lemma": "cocktail",
+    "lemma": "Cocktail",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7760,7 +7760,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1336",
     "lang": "de",
-    "lemma": "misstrauen",
+    "lemma": "Misstrauen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7785,7 +7785,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1338",
     "lang": "de",
-    "lemma": "cash",
+    "lemma": "Cash",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -7906,7 +7906,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1356",
     "lang": "de",
-    "lemma": "fels",
+    "lemma": "Fels",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -7957,7 +7957,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1359",
     "lang": "de",
-    "lemma": "milliarde",
+    "lemma": "Milliarde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -7984,7 +7984,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1361",
     "lang": "de",
-    "lemma": "gorilla",
+    "lemma": "Gorilla",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8034,7 +8034,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1371",
     "lang": "de",
-    "lemma": "hirsch",
+    "lemma": "Hirsch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8061,7 +8061,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1383",
     "lang": "de",
-    "lemma": "bemerkung",
+    "lemma": "Bemerkung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8088,7 +8088,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1384",
     "lang": "de",
-    "lemma": "halskette",
+    "lemma": "Halskette",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8115,7 +8115,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1387",
     "lang": "de",
-    "lemma": "brei",
+    "lemma": "Brei",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8142,7 +8142,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1391",
     "lang": "de",
-    "lemma": "expedition",
+    "lemma": "Expedition",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8168,7 +8168,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1397",
     "lang": "de",
-    "lemma": "umfeld",
+    "lemma": "Umfeld",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -8219,7 +8219,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1402",
     "lang": "de",
-    "lemma": "seuche",
+    "lemma": "Seuche",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8292,7 +8292,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1409",
     "lang": "de",
-    "lemma": "auskommen",
+    "lemma": "Auskommen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -8318,7 +8318,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1411",
     "lang": "de",
-    "lemma": "nuss",
+    "lemma": "Nuss",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8345,7 +8345,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1416",
     "lang": "de",
-    "lemma": "vereinigung",
+    "lemma": "Vereinigung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8372,7 +8372,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1417",
     "lang": "de",
-    "lemma": "mittelpunkt",
+    "lemma": "Mittelpunkt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8421,7 +8421,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1422",
     "lang": "de",
-    "lemma": "höflichkeit",
+    "lemma": "Höflichkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8448,7 +8448,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1423",
     "lang": "de",
-    "lemma": "aufzeichnung",
+    "lemma": "Aufzeichnung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8571,7 +8571,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1429",
     "lang": "de",
-    "lemma": "richterin",
+    "lemma": "Richterin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8622,7 +8622,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1438",
     "lang": "de",
-    "lemma": "eindringling",
+    "lemma": "Eindringling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8649,7 +8649,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1439",
     "lang": "de",
-    "lemma": "wahlkampf",
+    "lemma": "Wahlkampf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -8748,7 +8748,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1448",
     "lang": "de",
-    "lemma": "gefangenschaft",
+    "lemma": "Gefangenschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8822,7 +8822,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1455",
     "lang": "de",
-    "lemma": "adoption",
+    "lemma": "Adoption",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8873,7 +8873,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1460",
     "lang": "de",
-    "lemma": "immunität",
+    "lemma": "Immunität",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -8948,7 +8948,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1469",
     "lang": "de",
-    "lemma": "phänomen",
+    "lemma": "Phänomen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -8974,7 +8974,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1470",
     "lang": "de",
-    "lemma": "polizeirevier",
+    "lemma": "Polizeirevier",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -9024,7 +9024,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1472",
     "lang": "de",
-    "lemma": "schurke",
+    "lemma": "Schurke",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9050,7 +9050,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1474",
     "lang": "de",
-    "lemma": "sonnenbrille",
+    "lemma": "Sonnenbrille",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9077,7 +9077,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1476",
     "lang": "de",
-    "lemma": "strenge",
+    "lemma": "Strenge",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9102,7 +9102,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1477",
     "lang": "de",
-    "lemma": "phantom",
+    "lemma": "Phantom",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -9128,7 +9128,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1483",
     "lang": "de",
-    "lemma": "kompass",
+    "lemma": "Kompass",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9179,7 +9179,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1491",
     "lang": "de",
-    "lemma": "kappe",
+    "lemma": "Kappe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9206,7 +9206,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1494",
     "lang": "de",
-    "lemma": "hebel",
+    "lemma": "Hebel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9233,7 +9233,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1497",
     "lang": "de",
-    "lemma": "triumph",
+    "lemma": "Triumph",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9260,7 +9260,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1500",
     "lang": "de",
-    "lemma": "neid",
+    "lemma": "Neid",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9310,7 +9310,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1509",
     "lang": "de",
-    "lemma": "waffenstillstand",
+    "lemma": "Waffenstillstand",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9336,7 +9336,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1512",
     "lang": "de",
-    "lemma": "lebensunterhalt",
+    "lemma": "Lebensunterhalt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9362,7 +9362,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1514",
     "lang": "de",
-    "lemma": "nummernschild",
+    "lemma": "Nummernschild",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -9412,7 +9412,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1519",
     "lang": "de",
-    "lemma": "backe",
+    "lemma": "Backe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9463,7 +9463,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1524",
     "lang": "de",
-    "lemma": "schwur",
+    "lemma": "Schwur",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9489,7 +9489,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1527",
     "lang": "de",
-    "lemma": "anrufer",
+    "lemma": "Anrufer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9516,7 +9516,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1528",
     "lang": "de",
-    "lemma": "rutsch",
+    "lemma": "Rutsch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9566,7 +9566,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1534",
     "lang": "de",
-    "lemma": "atemzug",
+    "lemma": "Atemzug",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9593,7 +9593,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1536",
     "lang": "de",
-    "lemma": "kopfgeld",
+    "lemma": "Kopfgeld",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -9619,7 +9619,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1538",
     "lang": "de",
-    "lemma": "papagei",
+    "lemma": "Papagei",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9646,7 +9646,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1542",
     "lang": "de",
-    "lemma": "ketchup",
+    "lemma": "Ketchup",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9673,7 +9673,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1546",
     "lang": "de",
-    "lemma": "latte",
+    "lemma": "Latte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9699,7 +9699,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1548",
     "lang": "de",
-    "lemma": "spitzname",
+    "lemma": "Spitzname",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9726,7 +9726,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1552",
     "lang": "de",
-    "lemma": "angeber",
+    "lemma": "Angeber",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9823,7 +9823,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1561",
     "lang": "de",
-    "lemma": "handwerk",
+    "lemma": "Handwerk",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -9874,7 +9874,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1566",
     "lang": "de",
-    "lemma": "truhe",
+    "lemma": "Truhe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -9901,7 +9901,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1569",
     "lang": "de",
-    "lemma": "scheinwerfer",
+    "lemma": "Scheinwerfer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -9952,7 +9952,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1573",
     "lang": "de",
-    "lemma": "buchhaltung",
+    "lemma": "Buchhaltung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10003,7 +10003,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1579",
     "lang": "de",
-    "lemma": "perle",
+    "lemma": "Perle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10030,7 +10030,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1584",
     "lang": "de",
-    "lemma": "falke",
+    "lemma": "Falke",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10057,7 +10057,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1588",
     "lang": "de",
-    "lemma": "gattin",
+    "lemma": "Gattin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10108,7 +10108,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1592",
     "lang": "de",
-    "lemma": "labyrinth",
+    "lemma": "Labyrinth",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10203,7 +10203,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1596",
     "lang": "de",
-    "lemma": "zitat",
+    "lemma": "Zitat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10230,7 +10230,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1602",
     "lang": "de",
-    "lemma": "heuchler",
+    "lemma": "Heuchler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10281,7 +10281,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1604",
     "lang": "de",
-    "lemma": "temperament",
+    "lemma": "Temperament",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10308,7 +10308,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1605",
     "lang": "de",
-    "lemma": "boulevard",
+    "lemma": "Boulevard",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10335,7 +10335,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1606",
     "lang": "de",
-    "lemma": "umhang",
+    "lemma": "Umhang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10362,7 +10362,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1607",
     "lang": "de",
-    "lemma": "alarmanlage",
+    "lemma": "Alarmanlage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10413,7 +10413,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1610",
     "lang": "de",
-    "lemma": "filmstar",
+    "lemma": "Filmstar",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10440,7 +10440,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1614",
     "lang": "de",
-    "lemma": "klippe",
+    "lemma": "Klippe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10467,7 +10467,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1615",
     "lang": "de",
-    "lemma": "verurteilung",
+    "lemma": "Verurteilung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10493,7 +10493,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1616",
     "lang": "de",
-    "lemma": "umweg",
+    "lemma": "Umweg",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10520,7 +10520,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1618",
     "lang": "de",
-    "lemma": "urteilsvermögen",
+    "lemma": "Urteilsvermögen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10545,7 +10545,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1621",
     "lang": "de",
-    "lemma": "zwecke",
+    "lemma": "Zwecke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10596,7 +10596,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1625",
     "lang": "de",
-    "lemma": "impfstoff",
+    "lemma": "Impfstoff",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10623,7 +10623,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1626",
     "lang": "de",
-    "lemma": "bestechung",
+    "lemma": "Bestechung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10649,7 +10649,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1628",
     "lang": "de",
-    "lemma": "verlauf",
+    "lemma": "Verlauf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10676,7 +10676,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1631",
     "lang": "de",
-    "lemma": "journalistin",
+    "lemma": "Journalistin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10703,7 +10703,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1632",
     "lang": "de",
-    "lemma": "kasino",
+    "lemma": "Kasino",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10778,7 +10778,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1639",
     "lang": "de",
-    "lemma": "adrenalin",
+    "lemma": "Adrenalin",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10803,7 +10803,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1641",
     "lang": "de",
-    "lemma": "missbrauch",
+    "lemma": "Missbrauch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -10830,7 +10830,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1642",
     "lang": "de",
-    "lemma": "seminar",
+    "lemma": "Seminar",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -10881,7 +10881,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1644",
     "lang": "de",
-    "lemma": "demonstration",
+    "lemma": "Demonstration",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10908,7 +10908,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1647",
     "lang": "de",
-    "lemma": "konversation",
+    "lemma": "Konversation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -10983,7 +10983,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1652",
     "lang": "de",
-    "lemma": "traurigkeit",
+    "lemma": "Traurigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11058,7 +11058,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1665",
     "lang": "de",
-    "lemma": "angewohnheit",
+    "lemma": "Angewohnheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11085,7 +11085,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1666",
     "lang": "de",
-    "lemma": "sonnenlicht",
+    "lemma": "Sonnenlicht",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -11111,7 +11111,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1667",
     "lang": "de",
-    "lemma": "darlehen",
+    "lemma": "Darlehen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -11137,7 +11137,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1668",
     "lang": "de",
-    "lemma": "standard",
+    "lemma": "Standard",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11163,7 +11163,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1670",
     "lang": "de",
-    "lemma": "vormittag",
+    "lemma": "Vormittag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11190,7 +11190,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1677",
     "lang": "de",
-    "lemma": "biene",
+    "lemma": "Biene",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11241,7 +11241,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1682",
     "lang": "de",
-    "lemma": "beschluss",
+    "lemma": "Beschluss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11268,7 +11268,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1683",
     "lang": "de",
-    "lemma": "ast",
+    "lemma": "Ast",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11319,7 +11319,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1689",
     "lang": "de",
-    "lemma": "unruhe",
+    "lemma": "Unruhe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11346,7 +11346,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1696",
     "lang": "de",
-    "lemma": "ausmaß",
+    "lemma": "Ausmaß",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -11373,7 +11373,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1698",
     "lang": "de",
-    "lemma": "manuskript",
+    "lemma": "Manuskript",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -11400,7 +11400,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1700",
     "lang": "de",
-    "lemma": "blutgruppe",
+    "lemma": "Blutgruppe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11499,7 +11499,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1710",
     "lang": "de",
-    "lemma": "gewissheit",
+    "lemma": "Gewissheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11526,7 +11526,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1711",
     "lang": "de",
-    "lemma": "klarheit",
+    "lemma": "Klarheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11625,7 +11625,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1725",
     "lang": "de",
-    "lemma": "fußboden",
+    "lemma": "Fußboden",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11676,7 +11676,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1736",
     "lang": "de",
-    "lemma": "metapher",
+    "lemma": "Metapher",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11726,7 +11726,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1744",
     "lang": "de",
-    "lemma": "putzfrau",
+    "lemma": "Putzfrau",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11753,7 +11753,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1745",
     "lang": "de",
-    "lemma": "wohlstand",
+    "lemma": "Wohlstand",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11848,7 +11848,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1754",
     "lang": "de",
-    "lemma": "straftat",
+    "lemma": "Straftat",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11874,7 +11874,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1757",
     "lang": "de",
-    "lemma": "unterbrechung",
+    "lemma": "Unterbrechung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -11901,7 +11901,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1759",
     "lang": "de",
-    "lemma": "gebrauch",
+    "lemma": "Gebrauch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -11974,7 +11974,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1768",
     "lang": "de",
-    "lemma": "krug",
+    "lemma": "Krug",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12024,7 +12024,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1771",
     "lang": "de",
-    "lemma": "reserve",
+    "lemma": "Reserve",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12051,7 +12051,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1775",
     "lang": "de",
-    "lemma": "mentor",
+    "lemma": "Mentor",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12078,7 +12078,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1776",
     "lang": "de",
-    "lemma": "blues",
+    "lemma": "Blues",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12176,7 +12176,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1784",
     "lang": "de",
-    "lemma": "definition",
+    "lemma": "Definition",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12202,7 +12202,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1787",
     "lang": "de",
-    "lemma": "sekte",
+    "lemma": "Sekte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12251,7 +12251,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1792",
     "lang": "de",
-    "lemma": "bug",
+    "lemma": "Bug",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12278,7 +12278,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1795",
     "lang": "de",
-    "lemma": "tapferkeit",
+    "lemma": "Tapferkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12304,7 +12304,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1801",
     "lang": "de",
-    "lemma": "klientin",
+    "lemma": "Klientin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12354,7 +12354,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1804",
     "lang": "de",
-    "lemma": "bekanntschaft",
+    "lemma": "Bekanntschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12381,7 +12381,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1806",
     "lang": "de",
-    "lemma": "träger",
+    "lemma": "Träger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12453,7 +12453,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1810",
     "lang": "de",
-    "lemma": "schnecke",
+    "lemma": "Schnecke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12480,7 +12480,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1815",
     "lang": "de",
-    "lemma": "haarschnitt",
+    "lemma": "Haarschnitt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12506,7 +12506,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1817",
     "lang": "de",
-    "lemma": "pariser",
+    "lemma": "Pariser",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12579,7 +12579,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1823",
     "lang": "de",
-    "lemma": "notizbuch",
+    "lemma": "Notizbuch",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -12606,7 +12606,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1824",
     "lang": "de",
-    "lemma": "wechselgeld",
+    "lemma": "Wechselgeld",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -12656,7 +12656,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1830",
     "lang": "de",
-    "lemma": "hupe",
+    "lemma": "Hupe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12683,7 +12683,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1831",
     "lang": "de",
-    "lemma": "festland",
+    "lemma": "Festland",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -12710,7 +12710,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1832",
     "lang": "de",
-    "lemma": "rückgrat",
+    "lemma": "Rückgrat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -12759,7 +12759,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1834",
     "lang": "de",
-    "lemma": "knoblauch",
+    "lemma": "Knoblauch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12785,7 +12785,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1838",
     "lang": "de",
-    "lemma": "bettler",
+    "lemma": "Bettler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12811,7 +12811,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1839",
     "lang": "de",
-    "lemma": "russe",
+    "lemma": "Russe",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12838,7 +12838,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1842",
     "lang": "de",
-    "lemma": "zeh",
+    "lemma": "Zeh",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -12865,7 +12865,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1848",
     "lang": "de",
-    "lemma": "dreizehn",
+    "lemma": "Dreizehn",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12890,7 +12890,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1852",
     "lang": "de",
-    "lemma": "zulassung",
+    "lemma": "Zulassung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -12917,7 +12917,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1855",
     "lang": "de",
-    "lemma": "territorium",
+    "lemma": "Territorium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -13038,7 +13038,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1871",
     "lang": "de",
-    "lemma": "ablauf",
+    "lemma": "Ablauf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13065,7 +13065,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1872",
     "lang": "de",
-    "lemma": "mikrofon",
+    "lemma": "Mikrofon",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -13092,7 +13092,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1877",
     "lang": "de",
-    "lemma": "verkleidung",
+    "lemma": "Verkleidung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13118,7 +13118,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1878",
     "lang": "de",
-    "lemma": "intensivstation",
+    "lemma": "Intensivstation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13144,7 +13144,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1879",
     "lang": "de",
-    "lemma": "schlinge",
+    "lemma": "Schlinge",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13170,7 +13170,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1880",
     "lang": "de",
-    "lemma": "list",
+    "lemma": "List",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13196,7 +13196,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1881",
     "lang": "de",
-    "lemma": "handvoll",
+    "lemma": "Handvoll",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13223,7 +13223,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1883",
     "lang": "de",
-    "lemma": "beweisstück",
+    "lemma": "Beweisstück",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -13249,7 +13249,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1887",
     "lang": "de",
-    "lemma": "stadium",
+    "lemma": "Stadium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -13275,7 +13275,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1888",
     "lang": "de",
-    "lemma": "stau",
+    "lemma": "Stau",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13302,7 +13302,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1891",
     "lang": "de",
-    "lemma": "erkenntnis",
+    "lemma": "Erkenntnis",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13328,7 +13328,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1892",
     "lang": "de",
-    "lemma": "kategorie",
+    "lemma": "Kategorie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13402,7 +13402,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1898",
     "lang": "de",
-    "lemma": "western",
+    "lemma": "Western",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13429,7 +13429,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1901",
     "lang": "de",
-    "lemma": "lehne",
+    "lemma": "Lehne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13456,7 +13456,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1912",
     "lang": "de",
-    "lemma": "freilassung",
+    "lemma": "Freilassung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13505,7 +13505,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1914",
     "lang": "de",
-    "lemma": "fassade",
+    "lemma": "Fassade",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13532,7 +13532,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1915",
     "lang": "de",
-    "lemma": "anfrage",
+    "lemma": "Anfrage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13582,7 +13582,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1919",
     "lang": "de",
-    "lemma": "klatsch",
+    "lemma": "Klatsch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13701,7 +13701,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1932",
     "lang": "de",
-    "lemma": "pol",
+    "lemma": "Pol",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13727,7 +13727,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1933",
     "lang": "de",
-    "lemma": "harmonie",
+    "lemma": "Harmonie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13754,7 +13754,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1934",
     "lang": "de",
-    "lemma": "kelch",
+    "lemma": "Kelch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13781,7 +13781,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1935",
     "lang": "de",
-    "lemma": "hüter",
+    "lemma": "Hüter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13808,7 +13808,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1940",
     "lang": "de",
-    "lemma": "leiste",
+    "lemma": "Leiste",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13858,7 +13858,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1943",
     "lang": "de",
-    "lemma": "außenministerium",
+    "lemma": "Außenministerium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -13884,7 +13884,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1944",
     "lang": "de",
-    "lemma": "arrest",
+    "lemma": "Arrest",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -13910,7 +13910,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1946",
     "lang": "de",
-    "lemma": "lebensform",
+    "lemma": "Lebensform",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13937,7 +13937,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1947",
     "lang": "de",
-    "lemma": "besetzung",
+    "lemma": "Besetzung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -13986,7 +13986,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1951",
     "lang": "de",
-    "lemma": "märtyrer",
+    "lemma": "Märtyrer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14012,7 +14012,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1954",
     "lang": "de",
-    "lemma": "haupt",
+    "lemma": "Haupt",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14039,7 +14039,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1955",
     "lang": "de",
-    "lemma": "nachtschicht",
+    "lemma": "Nachtschicht",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14066,7 +14066,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1957",
     "lang": "de",
-    "lemma": "klebeband",
+    "lemma": "Klebeband",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14093,7 +14093,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1960",
     "lang": "de",
-    "lemma": "ehering",
+    "lemma": "Ehering",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14120,7 +14120,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1962",
     "lang": "de",
-    "lemma": "aufsehen",
+    "lemma": "Aufsehen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14169,7 +14169,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1964",
     "lang": "de",
-    "lemma": "heu",
+    "lemma": "Heu",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14195,7 +14195,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1965",
     "lang": "de",
-    "lemma": "schwarm",
+    "lemma": "Schwarm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14222,7 +14222,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1967",
     "lang": "de",
-    "lemma": "eule",
+    "lemma": "Eule",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14249,7 +14249,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1968",
     "lang": "de",
-    "lemma": "mitteilung",
+    "lemma": "Mitteilung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14276,7 +14276,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1970",
     "lang": "de",
-    "lemma": "erwägung",
+    "lemma": "Erwägung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14303,7 +14303,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1972",
     "lang": "de",
-    "lemma": "gunst",
+    "lemma": "Gunst",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14329,7 +14329,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1977",
     "lang": "de",
-    "lemma": "therapeut",
+    "lemma": "Therapeut",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14356,7 +14356,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_1999",
     "lang": "de",
-    "lemma": "aufklärung",
+    "lemma": "Aufklärung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14383,7 +14383,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2024",
     "lang": "de",
-    "lemma": "verzögerung",
+    "lemma": "Verzögerung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14410,7 +14410,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2027",
     "lang": "de",
-    "lemma": "ansprache",
+    "lemma": "Ansprache",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14461,7 +14461,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2034",
     "lang": "de",
-    "lemma": "brenner",
+    "lemma": "Brenner",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14512,7 +14512,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2038",
     "lang": "de",
-    "lemma": "reaktor",
+    "lemma": "Reaktor",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14538,7 +14538,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2046",
     "lang": "de",
-    "lemma": "vorlesung",
+    "lemma": "Vorlesung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14565,7 +14565,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2050",
     "lang": "de",
-    "lemma": "lenkrad",
+    "lemma": "Lenkrad",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14592,7 +14592,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2052",
     "lang": "de",
-    "lemma": "amerikanerin",
+    "lemma": "Amerikanerin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14619,7 +14619,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2054",
     "lang": "de",
-    "lemma": "gründer",
+    "lemma": "Gründer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14646,7 +14646,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2059",
     "lang": "de",
-    "lemma": "frühjahr",
+    "lemma": "Frühjahr",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -14673,7 +14673,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2061",
     "lang": "de",
-    "lemma": "stellvertreter",
+    "lemma": "Stellvertreter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14748,7 +14748,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2071",
     "lang": "de",
-    "lemma": "atmung",
+    "lemma": "Atmung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14822,7 +14822,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2081",
     "lang": "de",
-    "lemma": "genesung",
+    "lemma": "Genesung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14849,7 +14849,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2082",
     "lang": "de",
-    "lemma": "auftraggeber",
+    "lemma": "Auftraggeber",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14876,7 +14876,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2083",
     "lang": "de",
-    "lemma": "zusammenbruch",
+    "lemma": "Zusammenbruch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -14902,7 +14902,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2084",
     "lang": "de",
-    "lemma": "pumpe",
+    "lemma": "Pumpe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -14976,7 +14976,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2093",
     "lang": "de",
-    "lemma": "fledermaus",
+    "lemma": "Fledermaus",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15051,7 +15051,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2111",
     "lang": "de",
-    "lemma": "ära",
+    "lemma": "Ära",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15101,7 +15101,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2114",
     "lang": "de",
-    "lemma": "zwilling",
+    "lemma": "Zwilling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15128,7 +15128,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2116",
     "lang": "de",
-    "lemma": "trophäe",
+    "lemma": "Trophäe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15154,7 +15154,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2121",
     "lang": "de",
-    "lemma": "komma",
+    "lemma": "Komma",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -15181,7 +15181,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2123",
     "lang": "de",
-    "lemma": "freundlichkeit",
+    "lemma": "Freundlichkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15232,7 +15232,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2133",
     "lang": "de",
-    "lemma": "flugplatz",
+    "lemma": "Flugplatz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15259,7 +15259,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2135",
     "lang": "de",
-    "lemma": "lachs",
+    "lemma": "Lachs",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15310,7 +15310,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2142",
     "lang": "de",
-    "lemma": "diamant",
+    "lemma": "Diamant",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15384,7 +15384,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2147",
     "lang": "de",
-    "lemma": "strick",
+    "lemma": "Strick",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15435,7 +15435,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2151",
     "lang": "de",
-    "lemma": "fläschchen",
+    "lemma": "Fläschchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -15462,7 +15462,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2153",
     "lang": "de",
-    "lemma": "lupe",
+    "lemma": "Lupe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15536,7 +15536,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2165",
     "lang": "de",
-    "lemma": "waise",
+    "lemma": "Waise",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15563,7 +15563,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2173",
     "lang": "de",
-    "lemma": "bücherei",
+    "lemma": "Bücherei",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15590,7 +15590,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2174",
     "lang": "de",
-    "lemma": "fallschirm",
+    "lemma": "Fallschirm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15617,7 +15617,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2176",
     "lang": "de",
-    "lemma": "frachter",
+    "lemma": "Frachter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15644,7 +15644,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2177",
     "lang": "de",
-    "lemma": "komplize",
+    "lemma": "Komplize",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15670,7 +15670,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2183",
     "lang": "de",
-    "lemma": "chirurgie",
+    "lemma": "Chirurgie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15721,7 +15721,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2188",
     "lang": "de",
-    "lemma": "überprüfung",
+    "lemma": "Überprüfung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15772,7 +15772,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2194",
     "lang": "de",
-    "lemma": "riese",
+    "lemma": "Riese",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15823,7 +15823,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2201",
     "lang": "de",
-    "lemma": "säure",
+    "lemma": "Säure",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15874,7 +15874,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2204",
     "lang": "de",
-    "lemma": "besorgnis",
+    "lemma": "Besorgnis",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15901,7 +15901,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2205",
     "lang": "de",
-    "lemma": "grundschule",
+    "lemma": "Grundschule",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15928,7 +15928,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2207",
     "lang": "de",
-    "lemma": "aufruf",
+    "lemma": "Aufruf",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -15955,7 +15955,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2209",
     "lang": "de",
-    "lemma": "schwelle",
+    "lemma": "Schwelle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -15982,7 +15982,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2217",
     "lang": "de",
-    "lemma": "verschluss",
+    "lemma": "Verschluss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16009,7 +16009,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2224",
     "lang": "de",
-    "lemma": "intuition",
+    "lemma": "Intuition",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16035,7 +16035,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2225",
     "lang": "de",
-    "lemma": "terrorismus",
+    "lemma": "Terrorismus",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16060,7 +16060,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2226",
     "lang": "de",
-    "lemma": "satellit",
+    "lemma": "Satellit",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16109,7 +16109,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2230",
     "lang": "de",
-    "lemma": "pyjama",
+    "lemma": "Pyjama",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16136,7 +16136,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2233",
     "lang": "de",
-    "lemma": "tätowierung",
+    "lemma": "Tätowierung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16185,7 +16185,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2238",
     "lang": "de",
-    "lemma": "staubsauger",
+    "lemma": "Staubsauger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16212,7 +16212,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2243",
     "lang": "de",
-    "lemma": "tablett",
+    "lemma": "Tablett",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -16335,7 +16335,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2266",
     "lang": "de",
-    "lemma": "kritiker",
+    "lemma": "Kritiker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16386,7 +16386,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2272",
     "lang": "de",
-    "lemma": "gummi",
+    "lemma": "Gummi",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16413,7 +16413,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2281",
     "lang": "de",
-    "lemma": "romanze",
+    "lemma": "Romanze",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16464,7 +16464,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2285",
     "lang": "de",
-    "lemma": "erfinder",
+    "lemma": "Erfinder",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16515,7 +16515,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2291",
     "lang": "de",
-    "lemma": "stromausfall",
+    "lemma": "Stromausfall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16541,7 +16541,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2292",
     "lang": "de",
-    "lemma": "zielscheibe",
+    "lemma": "Zielscheibe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16614,7 +16614,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2296",
     "lang": "de",
-    "lemma": "kundin",
+    "lemma": "Kundin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16641,7 +16641,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2297",
     "lang": "de",
-    "lemma": "portier",
+    "lemma": "Portier",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16668,7 +16668,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2298",
     "lang": "de",
-    "lemma": "beobachter",
+    "lemma": "Beobachter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -16741,7 +16741,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2308",
     "lang": "de",
-    "lemma": "parfum",
+    "lemma": "Parfum",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -16768,7 +16768,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2310",
     "lang": "de",
-    "lemma": "glücksspiel",
+    "lemma": "Glücksspiel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -16840,7 +16840,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2316",
     "lang": "de",
-    "lemma": "hypnose",
+    "lemma": "Hypnose",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16914,7 +16914,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2325",
     "lang": "de",
-    "lemma": "glatze",
+    "lemma": "Glatze",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -16964,7 +16964,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2330",
     "lang": "de",
-    "lemma": "unentschieden",
+    "lemma": "Unentschieden",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -16990,7 +16990,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2332",
     "lang": "de",
-    "lemma": "migräne",
+    "lemma": "Migräne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17041,7 +17041,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2337",
     "lang": "de",
-    "lemma": "amnesie",
+    "lemma": "Amnesie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17068,7 +17068,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2345",
     "lang": "de",
-    "lemma": "astronaut",
+    "lemma": "Astronaut",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17142,7 +17142,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2354",
     "lang": "de",
-    "lemma": "sehne",
+    "lemma": "Sehne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17169,7 +17169,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2356",
     "lang": "de",
-    "lemma": "kundschaft",
+    "lemma": "Kundschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17244,7 +17244,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2361",
     "lang": "de",
-    "lemma": "kürbis",
+    "lemma": "Kürbis",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17271,7 +17271,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2362",
     "lang": "de",
-    "lemma": "kröte",
+    "lemma": "Kröte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17298,7 +17298,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2365",
     "lang": "de",
-    "lemma": "grausamkeit",
+    "lemma": "Grausamkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17324,7 +17324,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2366",
     "lang": "de",
-    "lemma": "makler",
+    "lemma": "Makler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17351,7 +17351,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2367",
     "lang": "de",
-    "lemma": "kalb",
+    "lemma": "Kalb",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -17378,7 +17378,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2368",
     "lang": "de",
-    "lemma": "schnur",
+    "lemma": "Schnur",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17453,7 +17453,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2379",
     "lang": "de",
-    "lemma": "waschmaschine",
+    "lemma": "Waschmaschine",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17527,7 +17527,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2391",
     "lang": "de",
-    "lemma": "ständer",
+    "lemma": "Ständer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17554,7 +17554,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2393",
     "lang": "de",
-    "lemma": "kessel",
+    "lemma": "Kessel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17604,7 +17604,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2397",
     "lang": "de",
-    "lemma": "cap",
+    "lemma": "Cap",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -17631,7 +17631,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2398",
     "lang": "de",
-    "lemma": "eiscreme",
+    "lemma": "Eiscreme",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17682,7 +17682,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2405",
     "lang": "de",
-    "lemma": "wähler",
+    "lemma": "Wähler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17708,7 +17708,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2409",
     "lang": "de",
-    "lemma": "fetzen",
+    "lemma": "Fetzen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17759,7 +17759,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2416",
     "lang": "de",
-    "lemma": "säge",
+    "lemma": "Säge",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17786,7 +17786,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2417",
     "lang": "de",
-    "lemma": "ansatz",
+    "lemma": "Ansatz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17812,7 +17812,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2420",
     "lang": "de",
-    "lemma": "verstoß",
+    "lemma": "Verstoß",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17864,7 +17864,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2424",
     "lang": "de",
-    "lemma": "speicher",
+    "lemma": "Speicher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17891,7 +17891,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2426",
     "lang": "de",
-    "lemma": "periode",
+    "lemma": "Periode",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -17941,7 +17941,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2446",
     "lang": "de",
-    "lemma": "stecker",
+    "lemma": "Stecker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17968,7 +17968,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2447",
     "lang": "de",
-    "lemma": "republikaner",
+    "lemma": "Republikaner",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -17994,7 +17994,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2448",
     "lang": "de",
-    "lemma": "gottesdienst",
+    "lemma": "Gottesdienst",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18021,7 +18021,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2450",
     "lang": "de",
-    "lemma": "gebieter",
+    "lemma": "Gebieter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18048,7 +18048,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2456",
     "lang": "de",
-    "lemma": "beton",
+    "lemma": "Beton",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18099,7 +18099,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2459",
     "lang": "de",
-    "lemma": "sabotage",
+    "lemma": "Sabotage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18126,7 +18126,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2461",
     "lang": "de",
-    "lemma": "geburtstagsgeschenk",
+    "lemma": "Geburtstagsgeschenk",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -18153,7 +18153,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2462",
     "lang": "de",
-    "lemma": "rotwein",
+    "lemma": "Rotwein",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18180,7 +18180,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2472",
     "lang": "de",
-    "lemma": "taschengeld",
+    "lemma": "Taschengeld",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -18207,7 +18207,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2474",
     "lang": "de",
-    "lemma": "herzanfall",
+    "lemma": "Herzanfall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18234,7 +18234,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2475",
     "lang": "de",
-    "lemma": "wirbelsäule",
+    "lemma": "Wirbelsäule",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18261,7 +18261,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2476",
     "lang": "de",
-    "lemma": "genuss",
+    "lemma": "Genuss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18288,7 +18288,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2477",
     "lang": "de",
-    "lemma": "flyer",
+    "lemma": "Flyer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18315,7 +18315,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2481",
     "lang": "de",
-    "lemma": "notwendigkeit",
+    "lemma": "Notwendigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18342,7 +18342,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2484",
     "lang": "de",
-    "lemma": "korn",
+    "lemma": "Korn",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -18369,7 +18369,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2485",
     "lang": "de",
-    "lemma": "fülle",
+    "lemma": "Fülle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18396,7 +18396,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2490",
     "lang": "de",
-    "lemma": "inspektion",
+    "lemma": "Inspektion",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18471,7 +18471,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2496",
     "lang": "de",
-    "lemma": "kontinent",
+    "lemma": "Kontinent",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18498,7 +18498,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2499",
     "lang": "de",
-    "lemma": "wachs",
+    "lemma": "Wachs",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -18525,7 +18525,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2500",
     "lang": "de",
-    "lemma": "eintrag",
+    "lemma": "Eintrag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18646,7 +18646,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2515",
     "lang": "de",
-    "lemma": "joghurt",
+    "lemma": "Joghurt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18673,7 +18673,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2518",
     "lang": "de",
-    "lemma": "ellbogen",
+    "lemma": "Ellbogen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18700,7 +18700,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2520",
     "lang": "de",
-    "lemma": "begrüßung",
+    "lemma": "Begrüßung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18752,7 +18752,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2522",
     "lang": "de",
-    "lemma": "windel",
+    "lemma": "Windel",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18778,7 +18778,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2524",
     "lang": "de",
-    "lemma": "blüte",
+    "lemma": "Blüte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18829,7 +18829,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2526",
     "lang": "de",
-    "lemma": "versorgung",
+    "lemma": "Versorgung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -18856,7 +18856,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2529",
     "lang": "de",
-    "lemma": "tagesanbruch",
+    "lemma": "Tagesanbruch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -18930,7 +18930,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2551",
     "lang": "de",
-    "lemma": "mülleimer",
+    "lemma": "Mülleimer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19005,7 +19005,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2558",
     "lang": "de",
-    "lemma": "schauspiel",
+    "lemma": "Schauspiel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19032,7 +19032,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2560",
     "lang": "de",
-    "lemma": "vers",
+    "lemma": "Vers",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19059,7 +19059,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2561",
     "lang": "de",
-    "lemma": "getreide",
+    "lemma": "Getreide",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19086,7 +19086,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2570",
     "lang": "de",
-    "lemma": "trommel",
+    "lemma": "Trommel",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19113,7 +19113,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2574",
     "lang": "de",
-    "lemma": "logo",
+    "lemma": "Logo",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19140,7 +19140,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2575",
     "lang": "de",
-    "lemma": "lover",
+    "lemma": "Lover",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19214,7 +19214,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2581",
     "lang": "de",
-    "lemma": "puzzle",
+    "lemma": "Puzzle",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19265,7 +19265,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2590",
     "lang": "de",
-    "lemma": "pfiff",
+    "lemma": "Pfiff",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19341,7 +19341,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2603",
     "lang": "de",
-    "lemma": "elite",
+    "lemma": "Elite",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19368,7 +19368,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2607",
     "lang": "de",
-    "lemma": "befugnis",
+    "lemma": "Befugnis",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19394,7 +19394,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2621",
     "lang": "de",
-    "lemma": "fährte",
+    "lemma": "Fährte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19445,7 +19445,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2626",
     "lang": "de",
-    "lemma": "kunstwerk",
+    "lemma": "Kunstwerk",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19471,7 +19471,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2631",
     "lang": "de",
-    "lemma": "kamm",
+    "lemma": "Kamm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19498,7 +19498,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2636",
     "lang": "de",
-    "lemma": "pelz",
+    "lemma": "Pelz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19525,7 +19525,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2637",
     "lang": "de",
-    "lemma": "regenbogen",
+    "lemma": "Regenbogen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19598,7 +19598,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2645",
     "lang": "de",
-    "lemma": "freigabe",
+    "lemma": "Freigabe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19624,7 +19624,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2649",
     "lang": "de",
-    "lemma": "mittelalter",
+    "lemma": "Mittelalter",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19649,7 +19649,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2650",
     "lang": "de",
-    "lemma": "skript",
+    "lemma": "Skript",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19675,7 +19675,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2653",
     "lang": "de",
-    "lemma": "geldbeutel",
+    "lemma": "Geldbeutel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19702,7 +19702,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2658",
     "lang": "de",
-    "lemma": "motivation",
+    "lemma": "Motivation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19729,7 +19729,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2663",
     "lang": "de",
-    "lemma": "konferenzraum",
+    "lemma": "Konferenzraum",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19780,7 +19780,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2666",
     "lang": "de",
-    "lemma": "plattform",
+    "lemma": "Plattform",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19807,7 +19807,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2668",
     "lang": "de",
-    "lemma": "bündnis",
+    "lemma": "Bündnis",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19834,7 +19834,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2672",
     "lang": "de",
-    "lemma": "küken",
+    "lemma": "Küken",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -19861,7 +19861,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2676",
     "lang": "de",
-    "lemma": "lagerraum",
+    "lemma": "Lagerraum",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19888,7 +19888,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2677",
     "lang": "de",
-    "lemma": "spieß",
+    "lemma": "Spieß",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -19914,7 +19914,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2678",
     "lang": "de",
-    "lemma": "knete",
+    "lemma": "Knete",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -19988,7 +19988,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2686",
     "lang": "de",
-    "lemma": "aufseher",
+    "lemma": "Aufseher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20015,7 +20015,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2689",
     "lang": "de",
-    "lemma": "horde",
+    "lemma": "Horde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20065,7 +20065,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2693",
     "lang": "de",
-    "lemma": "doppelgänger",
+    "lemma": "Doppelgänger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20091,7 +20091,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2695",
     "lang": "de",
-    "lemma": "kinderzimmer",
+    "lemma": "Kinderzimmer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20142,7 +20142,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2698",
     "lang": "de",
-    "lemma": "vorwarnung",
+    "lemma": "Vorwarnung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20168,7 +20168,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2701",
     "lang": "de",
-    "lemma": "einschätzung",
+    "lemma": "Einschätzung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20219,7 +20219,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2705",
     "lang": "de",
-    "lemma": "beihilfe",
+    "lemma": "Beihilfe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20246,7 +20246,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2706",
     "lang": "de",
-    "lemma": "unkraut",
+    "lemma": "Unkraut",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20296,7 +20296,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2717",
     "lang": "de",
-    "lemma": "vorliebe",
+    "lemma": "Vorliebe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20323,7 +20323,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2720",
     "lang": "de",
-    "lemma": "ai",
+    "lemma": "Ai",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20397,7 +20397,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2727",
     "lang": "de",
-    "lemma": "kommunist",
+    "lemma": "Kommunist",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20423,7 +20423,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2730",
     "lang": "de",
-    "lemma": "feuerwehrmann",
+    "lemma": "Feuerwehrmann",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20450,7 +20450,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2731",
     "lang": "de",
-    "lemma": "kopfhörer",
+    "lemma": "Kopfhörer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20501,7 +20501,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2734",
     "lang": "de",
-    "lemma": "musical",
+    "lemma": "Musical",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20528,7 +20528,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2740",
     "lang": "de",
-    "lemma": "appartement",
+    "lemma": "Appartement",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20555,7 +20555,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2743",
     "lang": "de",
-    "lemma": "entschädigung",
+    "lemma": "Entschädigung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20581,7 +20581,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2744",
     "lang": "de",
-    "lemma": "reiz",
+    "lemma": "Reiz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20607,7 +20607,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2747",
     "lang": "de",
-    "lemma": "gatte",
+    "lemma": "Gatte",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20634,7 +20634,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2748",
     "lang": "de",
-    "lemma": "überblick",
+    "lemma": "Überblick",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20660,7 +20660,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2749",
     "lang": "de",
-    "lemma": "lebensstil",
+    "lemma": "Lebensstil",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20733,7 +20733,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2755",
     "lang": "de",
-    "lemma": "handbuch",
+    "lemma": "Handbuch",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20759,7 +20759,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2757",
     "lang": "de",
-    "lemma": "milde",
+    "lemma": "Milde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20808,7 +20808,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2759",
     "lang": "de",
-    "lemma": "perfektion",
+    "lemma": "Perfektion",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20833,7 +20833,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2766",
     "lang": "de",
-    "lemma": "fakultät",
+    "lemma": "Fakultät",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20859,7 +20859,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2772",
     "lang": "de",
-    "lemma": "schlagzeile",
+    "lemma": "Schlagzeile",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -20886,7 +20886,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2776",
     "lang": "de",
-    "lemma": "streichholz",
+    "lemma": "Streichholz",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20913,7 +20913,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2780",
     "lang": "de",
-    "lemma": "verwalter",
+    "lemma": "Verwalter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20940,7 +20940,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2787",
     "lang": "de",
-    "lemma": "organismus",
+    "lemma": "Organismus",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -20966,7 +20966,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2788",
     "lang": "de",
-    "lemma": "potential",
+    "lemma": "Potential",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -20992,7 +20992,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2791",
     "lang": "de",
-    "lemma": "vorladung",
+    "lemma": "Vorladung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21042,7 +21042,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2796",
     "lang": "de",
-    "lemma": "lebensversicherung",
+    "lemma": "Lebensversicherung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21068,7 +21068,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2797",
     "lang": "de",
-    "lemma": "meisterschaft",
+    "lemma": "Meisterschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21309,7 +21309,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2820",
     "lang": "de",
-    "lemma": "esszimmer",
+    "lemma": "Esszimmer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -21336,7 +21336,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2823",
     "lang": "de",
-    "lemma": "patriot",
+    "lemma": "Patriot",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21362,7 +21362,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2824",
     "lang": "de",
-    "lemma": "gehaltserhöhung",
+    "lemma": "Gehaltserhöhung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21389,7 +21389,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2826",
     "lang": "de",
-    "lemma": "kreuzfahrt",
+    "lemma": "Kreuzfahrt",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21416,7 +21416,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2827",
     "lang": "de",
-    "lemma": "klon",
+    "lemma": "Klon",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21466,7 +21466,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2834",
     "lang": "de",
-    "lemma": "app",
+    "lemma": "App",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21541,7 +21541,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2842",
     "lang": "de",
-    "lemma": "wachstum",
+    "lemma": "Wachstum",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -21567,7 +21567,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2844",
     "lang": "de",
-    "lemma": "zufriedenheit",
+    "lemma": "Zufriedenheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21689,7 +21689,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2856",
     "lang": "de",
-    "lemma": "bescheidenheit",
+    "lemma": "Bescheidenheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21739,7 +21739,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2862",
     "lang": "de",
-    "lemma": "schutzengel",
+    "lemma": "Schutzengel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21766,7 +21766,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2865",
     "lang": "de",
-    "lemma": "weizen",
+    "lemma": "Weizen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21793,7 +21793,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2866",
     "lang": "de",
-    "lemma": "gips",
+    "lemma": "Gips",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21819,7 +21819,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2868",
     "lang": "de",
-    "lemma": "eigenschaft",
+    "lemma": "Eigenschaft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -21892,7 +21892,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2874",
     "lang": "de",
-    "lemma": "elternteil",
+    "lemma": "Elternteil",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -21942,7 +21942,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2879",
     "lang": "de",
-    "lemma": "floß",
+    "lemma": "Floß",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -21969,7 +21969,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2882",
     "lang": "de",
-    "lemma": "porträt",
+    "lemma": "Porträt",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -22068,7 +22068,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2894",
     "lang": "de",
-    "lemma": "spucke",
+    "lemma": "Spucke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22094,7 +22094,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2896",
     "lang": "de",
-    "lemma": "pinguin",
+    "lemma": "Pinguin",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22144,7 +22144,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2907",
     "lang": "de",
-    "lemma": "ade",
+    "lemma": "Ade",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -22172,7 +22172,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2908",
     "lang": "de",
-    "lemma": "kleinstadt",
+    "lemma": "Kleinstadt",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22199,7 +22199,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2912",
     "lang": "de",
-    "lemma": "abfindung",
+    "lemma": "Abfindung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22225,7 +22225,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2915",
     "lang": "de",
-    "lemma": "hausarbeit",
+    "lemma": "Hausarbeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22252,7 +22252,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2918",
     "lang": "de",
-    "lemma": "waschbecken",
+    "lemma": "Waschbecken",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -22279,7 +22279,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2921",
     "lang": "de",
-    "lemma": "szenario",
+    "lemma": "Szenario",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -22306,7 +22306,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2923",
     "lang": "de",
-    "lemma": "haube",
+    "lemma": "Haube",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22333,7 +22333,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2925",
     "lang": "de",
-    "lemma": "flöte",
+    "lemma": "Flöte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22360,7 +22360,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2928",
     "lang": "de",
-    "lemma": "eskorte",
+    "lemma": "Eskorte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22387,7 +22387,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2932",
     "lang": "de",
-    "lemma": "balken",
+    "lemma": "Balken",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22414,7 +22414,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2935",
     "lang": "de",
-    "lemma": "acker",
+    "lemma": "Acker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22510,7 +22510,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2939",
     "lang": "de",
-    "lemma": "takt",
+    "lemma": "Takt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22559,7 +22559,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2942",
     "lang": "de",
-    "lemma": "wiedergutmachung",
+    "lemma": "Wiedergutmachung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22608,7 +22608,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2954",
     "lang": "de",
-    "lemma": "hebamme",
+    "lemma": "Hebamme",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -22634,7 +22634,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2956",
     "lang": "de",
-    "lemma": "tau",
+    "lemma": "Tau",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22660,7 +22660,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2957",
     "lang": "de",
-    "lemma": "schwarzmarkt",
+    "lemma": "Schwarzmarkt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22686,7 +22686,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2959",
     "lang": "de",
-    "lemma": "akku",
+    "lemma": "Akku",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22713,7 +22713,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2960",
     "lang": "de",
-    "lemma": "inder",
+    "lemma": "Inder",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -22953,7 +22953,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2979",
     "lang": "de",
-    "lemma": "fitnessstudio",
+    "lemma": "Fitnessstudio",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -22980,7 +22980,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2986",
     "lang": "de",
-    "lemma": "mahl",
+    "lemma": "Mahl",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -23031,7 +23031,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2988",
     "lang": "de",
-    "lemma": "krokodil",
+    "lemma": "Krokodil",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -23106,7 +23106,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2993",
     "lang": "de",
-    "lemma": "übergang",
+    "lemma": "Übergang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23133,7 +23133,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_2994",
     "lang": "de",
-    "lemma": "ankündigung",
+    "lemma": "Ankündigung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23160,7 +23160,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3000",
     "lang": "de",
-    "lemma": "sitte",
+    "lemma": "Sitte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23187,7 +23187,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3003",
     "lang": "de",
-    "lemma": "reißverschluss",
+    "lemma": "Reißverschluss",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23214,7 +23214,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3004",
     "lang": "de",
-    "lemma": "entschlossenheit",
+    "lemma": "Entschlossenheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23239,7 +23239,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3006",
     "lang": "de",
-    "lemma": "kameramann",
+    "lemma": "Kameramann",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23336,7 +23336,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3020",
     "lang": "de",
-    "lemma": "zebra",
+    "lemma": "Zebra",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -23363,7 +23363,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3022",
     "lang": "de",
-    "lemma": "hausmädchen",
+    "lemma": "Hausmädchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -23390,7 +23390,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3023",
     "lang": "de",
-    "lemma": "vorgänger",
+    "lemma": "Vorgänger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23417,7 +23417,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3026",
     "lang": "de",
-    "lemma": "landstreicher",
+    "lemma": "Landstreicher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23467,7 +23467,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3029",
     "lang": "de",
-    "lemma": "flanke",
+    "lemma": "Flanke",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23494,7 +23494,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3035",
     "lang": "de",
-    "lemma": "übernahme",
+    "lemma": "Übernahme",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23521,7 +23521,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3038",
     "lang": "de",
-    "lemma": "popmusik",
+    "lemma": "Popmusik",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23570,7 +23570,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3045",
     "lang": "de",
-    "lemma": "widerspruch",
+    "lemma": "Widerspruch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23619,7 +23619,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3051",
     "lang": "de",
-    "lemma": "diabetes",
+    "lemma": "Diabetes",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23645,7 +23645,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3053",
     "lang": "de",
-    "lemma": "spüle",
+    "lemma": "Spüle",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23672,7 +23672,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3056",
     "lang": "de",
-    "lemma": "lebensgefahr",
+    "lemma": "Lebensgefahr",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23698,7 +23698,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3059",
     "lang": "de",
-    "lemma": "sammler",
+    "lemma": "Sammler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23725,7 +23725,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3063",
     "lang": "de",
-    "lemma": "grabstein",
+    "lemma": "Grabstein",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -23752,7 +23752,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3064",
     "lang": "de",
-    "lemma": "reh",
+    "lemma": "Reh",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -23779,7 +23779,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3065",
     "lang": "de",
-    "lemma": "präsenz",
+    "lemma": "Präsenz",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23805,7 +23805,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3067",
     "lang": "de",
-    "lemma": "wahrnehmung",
+    "lemma": "Wahrnehmung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23855,7 +23855,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3069",
     "lang": "de",
-    "lemma": "hautfarbe",
+    "lemma": "Hautfarbe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23928,7 +23928,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3075",
     "lang": "de",
-    "lemma": "öffnung",
+    "lemma": "Öffnung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -23978,7 +23978,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3081",
     "lang": "de",
-    "lemma": "karren",
+    "lemma": "Karren",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24005,7 +24005,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3083",
     "lang": "de",
-    "lemma": "recherche",
+    "lemma": "Recherche",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24054,7 +24054,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3092",
     "lang": "de",
-    "lemma": "handlanger",
+    "lemma": "Handlanger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24081,7 +24081,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3093",
     "lang": "de",
-    "lemma": "bluff",
+    "lemma": "Bluff",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24156,7 +24156,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3098",
     "lang": "de",
-    "lemma": "jackpot",
+    "lemma": "Jackpot",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24302,7 +24302,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3119",
     "lang": "de",
-    "lemma": "halsband",
+    "lemma": "Halsband",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24329,7 +24329,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3120",
     "lang": "de",
-    "lemma": "strömung",
+    "lemma": "Strömung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24426,7 +24426,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3137",
     "lang": "de",
-    "lemma": "gefäß",
+    "lemma": "Gefäß",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24501,7 +24501,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3149",
     "lang": "de",
-    "lemma": "diebin",
+    "lemma": "Diebin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24551,7 +24551,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3152",
     "lang": "de",
-    "lemma": "tornado",
+    "lemma": "Tornado",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24577,7 +24577,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3154",
     "lang": "de",
-    "lemma": "demütigung",
+    "lemma": "Demütigung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24627,7 +24627,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3156",
     "lang": "de",
-    "lemma": "kapuze",
+    "lemma": "Kapuze",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24654,7 +24654,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3158",
     "lang": "de",
-    "lemma": "fund",
+    "lemma": "Fund",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24681,7 +24681,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3161",
     "lang": "de",
-    "lemma": "gewand",
+    "lemma": "Gewand",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24732,7 +24732,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3163",
     "lang": "de",
-    "lemma": "ungeziefer",
+    "lemma": "Ungeziefer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24806,7 +24806,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3175",
     "lang": "de",
-    "lemma": "darsteller",
+    "lemma": "Darsteller",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24832,7 +24832,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3176",
     "lang": "de",
-    "lemma": "proviant",
+    "lemma": "Proviant",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -24859,7 +24859,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3177",
     "lang": "de",
-    "lemma": "ferkel",
+    "lemma": "Ferkel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24886,7 +24886,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3178",
     "lang": "de",
-    "lemma": "klischee",
+    "lemma": "Klischee",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -24961,7 +24961,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3183",
     "lang": "de",
-    "lemma": "eitelkeit",
+    "lemma": "Eitelkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -24987,7 +24987,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3185",
     "lang": "de",
-    "lemma": "kühler",
+    "lemma": "Kühler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25014,7 +25014,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3190",
     "lang": "de",
-    "lemma": "zündung",
+    "lemma": "Zündung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -25064,7 +25064,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3196",
     "lang": "de",
-    "lemma": "aquarium",
+    "lemma": "Aquarium",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25091,7 +25091,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3198",
     "lang": "de",
-    "lemma": "wasserfall",
+    "lemma": "Wasserfall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25142,7 +25142,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3202",
     "lang": "de",
-    "lemma": "spielfeld",
+    "lemma": "Spielfeld",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25193,7 +25193,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3205",
     "lang": "de",
-    "lemma": "bademantel",
+    "lemma": "Bademantel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25220,7 +25220,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3213",
     "lang": "de",
-    "lemma": "millimeter",
+    "lemma": "Millimeter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25271,7 +25271,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3217",
     "lang": "de",
-    "lemma": "schaum",
+    "lemma": "Schaum",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25298,7 +25298,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3220",
     "lang": "de",
-    "lemma": "pickel",
+    "lemma": "Pickel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25325,7 +25325,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3221",
     "lang": "de",
-    "lemma": "hauptstraße",
+    "lemma": "Hauptstraße",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -25401,7 +25401,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3227",
     "lang": "de",
-    "lemma": "bäcker",
+    "lemma": "Bäcker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25428,7 +25428,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3231",
     "lang": "de",
-    "lemma": "gespür",
+    "lemma": "Gespür",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25454,7 +25454,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3232",
     "lang": "de",
-    "lemma": "aktenkoffer",
+    "lemma": "Aktenkoffer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25481,7 +25481,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3233",
     "lang": "de",
-    "lemma": "erdboden",
+    "lemma": "Erdboden",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25508,7 +25508,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3237",
     "lang": "de",
-    "lemma": "examen",
+    "lemma": "Examen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25558,7 +25558,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3240",
     "lang": "de",
-    "lemma": "beben",
+    "lemma": "Beben",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25585,7 +25585,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3241",
     "lang": "de",
-    "lemma": "kanister",
+    "lemma": "Kanister",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25612,7 +25612,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3244",
     "lang": "de",
-    "lemma": "tresen",
+    "lemma": "Tresen",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25663,7 +25663,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3255",
     "lang": "de",
-    "lemma": "toaster",
+    "lemma": "Toaster",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25713,7 +25713,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3258",
     "lang": "de",
-    "lemma": "bürgermeisterin",
+    "lemma": "Bürgermeisterin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -25740,7 +25740,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3259",
     "lang": "de",
-    "lemma": "honorar",
+    "lemma": "Honorar",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -25814,7 +25814,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3267",
     "lang": "de",
-    "lemma": "durchfall",
+    "lemma": "Durchfall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25887,7 +25887,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3273",
     "lang": "de",
-    "lemma": "schwan",
+    "lemma": "Schwan",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -25961,7 +25961,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3283",
     "lang": "de",
-    "lemma": "artillerie",
+    "lemma": "Artillerie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26011,7 +26011,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3289",
     "lang": "de",
-    "lemma": "adel",
+    "lemma": "Adel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26060,7 +26060,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3295",
     "lang": "de",
-    "lemma": "muffin",
+    "lemma": "Muffin",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26109,7 +26109,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3298",
     "lang": "de",
-    "lemma": "naturtalent",
+    "lemma": "Naturtalent",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -26136,7 +26136,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3299",
     "lang": "de",
-    "lemma": "streber",
+    "lemma": "Streber",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26163,7 +26163,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3308",
     "lang": "de",
-    "lemma": "eiche",
+    "lemma": "Eiche",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26236,7 +26236,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3311",
     "lang": "de",
-    "lemma": "espresso",
+    "lemma": "Espresso",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26287,7 +26287,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3318",
     "lang": "de",
-    "lemma": "spatz",
+    "lemma": "Spatz",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26361,7 +26361,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3321",
     "lang": "de",
-    "lemma": "krümel",
+    "lemma": "Krümel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26484,7 +26484,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3329",
     "lang": "de",
-    "lemma": "mumie",
+    "lemma": "Mumie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26510,7 +26510,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3330",
     "lang": "de",
-    "lemma": "kittel",
+    "lemma": "Kittel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26537,7 +26537,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3331",
     "lang": "de",
-    "lemma": "kapitulation",
+    "lemma": "Kapitulation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26563,7 +26563,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3332",
     "lang": "de",
-    "lemma": "schmied",
+    "lemma": "Schmied",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26614,7 +26614,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3341",
     "lang": "de",
-    "lemma": "darm",
+    "lemma": "Darm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26641,7 +26641,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3346",
     "lang": "de",
-    "lemma": "banker",
+    "lemma": "Banker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26668,7 +26668,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3352",
     "lang": "de",
-    "lemma": "arroganz",
+    "lemma": "Arroganz",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26742,7 +26742,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3360",
     "lang": "de",
-    "lemma": "dilemma",
+    "lemma": "Dilemma",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -26769,7 +26769,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3365",
     "lang": "de",
-    "lemma": "sponsor",
+    "lemma": "Sponsor",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26796,7 +26796,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3366",
     "lang": "de",
-    "lemma": "durchsuchung",
+    "lemma": "Durchsuchung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -26918,7 +26918,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3378",
     "lang": "de",
-    "lemma": "aschenbecher",
+    "lemma": "Aschenbecher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -26968,7 +26968,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3382",
     "lang": "de",
-    "lemma": "fundament",
+    "lemma": "Fundament",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -26995,7 +26995,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3386",
     "lang": "de",
-    "lemma": "klassenzimmer",
+    "lemma": "Klassenzimmer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27045,7 +27045,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3390",
     "lang": "de",
-    "lemma": "leihe",
+    "lemma": "Leihe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27072,7 +27072,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3392",
     "lang": "de",
-    "lemma": "liebesleben",
+    "lemma": "Liebesleben",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27122,7 +27122,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3396",
     "lang": "de",
-    "lemma": "vorgang",
+    "lemma": "Vorgang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27149,7 +27149,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3399",
     "lang": "de",
-    "lemma": "vanille",
+    "lemma": "Vanille",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27175,7 +27175,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3402",
     "lang": "de",
-    "lemma": "stroh",
+    "lemma": "Stroh",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27249,7 +27249,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3413",
     "lang": "de",
-    "lemma": "exempel",
+    "lemma": "Exempel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27298,7 +27298,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3417",
     "lang": "de",
-    "lemma": "stellungnahme",
+    "lemma": "Stellungnahme",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27348,7 +27348,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3423",
     "lang": "de",
-    "lemma": "amateur",
+    "lemma": "Amateur",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27375,7 +27375,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3428",
     "lang": "de",
-    "lemma": "telefonat",
+    "lemma": "Telefonat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27426,7 +27426,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3434",
     "lang": "de",
-    "lemma": "shampoo",
+    "lemma": "Shampoo",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -27476,7 +27476,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3440",
     "lang": "de",
-    "lemma": "umlaufbahn",
+    "lemma": "Umlaufbahn",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27502,7 +27502,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3442",
     "lang": "de",
-    "lemma": "splitter",
+    "lemma": "Splitter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27553,7 +27553,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3451",
     "lang": "de",
-    "lemma": "vegetarier",
+    "lemma": "Vegetarier",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27580,7 +27580,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3452",
     "lang": "de",
-    "lemma": "epidemie",
+    "lemma": "Epidemie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27606,7 +27606,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3453",
     "lang": "de",
-    "lemma": "wurzel",
+    "lemma": "Wurzel",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27656,7 +27656,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3463",
     "lang": "de",
-    "lemma": "bikini",
+    "lemma": "Bikini",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27683,7 +27683,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3468",
     "lang": "de",
-    "lemma": "gong",
+    "lemma": "Gong",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27709,7 +27709,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3470",
     "lang": "de",
-    "lemma": "cappuccino",
+    "lemma": "Cappuccino",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27736,7 +27736,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3474",
     "lang": "de",
-    "lemma": "bewunderung",
+    "lemma": "Bewunderung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27809,7 +27809,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3478",
     "lang": "de",
-    "lemma": "kaserne",
+    "lemma": "Kaserne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27836,7 +27836,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3480",
     "lang": "de",
-    "lemma": "trompete",
+    "lemma": "Trompete",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27911,7 +27911,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3490",
     "lang": "de",
-    "lemma": "barmherzigkeit",
+    "lemma": "Barmherzigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27937,7 +27937,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3492",
     "lang": "de",
-    "lemma": "verachtung",
+    "lemma": "Verachtung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -27962,7 +27962,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3493",
     "lang": "de",
-    "lemma": "zylinder",
+    "lemma": "Zylinder",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -27988,7 +27988,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3494",
     "lang": "de",
-    "lemma": "provision",
+    "lemma": "Provision",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28015,7 +28015,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3495",
     "lang": "de",
-    "lemma": "disco",
+    "lemma": "Disco",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28090,7 +28090,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_3501",
     "lang": "de",
-    "lemma": "anstrengung",
+    "lemma": "Anstrengung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28141,7 +28141,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6428",
     "lang": "de",
-    "lemma": "beurteilung",
+    "lemma": "Beurteilung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28168,7 +28168,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6429",
     "lang": "de",
-    "lemma": "dämmerung",
+    "lemma": "Dämmerung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28195,7 +28195,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6432",
     "lang": "de",
-    "lemma": "lasagne",
+    "lemma": "Lasagne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28270,7 +28270,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6445",
     "lang": "de",
-    "lemma": "billard",
+    "lemma": "Billard",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28297,7 +28297,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6446",
     "lang": "de",
-    "lemma": "subjekt",
+    "lemma": "Subjekt",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28370,7 +28370,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6457",
     "lang": "de",
-    "lemma": "gemurmel",
+    "lemma": "Gemurmel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28395,7 +28395,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6463",
     "lang": "de",
-    "lemma": "jahrzehnt",
+    "lemma": "Jahrzehnt",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28422,7 +28422,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6466",
     "lang": "de",
-    "lemma": "schnabel",
+    "lemma": "Schnabel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -28473,7 +28473,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6477",
     "lang": "de",
-    "lemma": "kaufmann",
+    "lemma": "Kaufmann",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -28500,7 +28500,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6484",
     "lang": "de",
-    "lemma": "nachsicht",
+    "lemma": "Nachsicht",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28548,7 +28548,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6492",
     "lang": "de",
-    "lemma": "lotto",
+    "lemma": "Lotto",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28575,7 +28575,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6493",
     "lang": "de",
-    "lemma": "entspannung",
+    "lemma": "Entspannung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28602,7 +28602,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6494",
     "lang": "de",
-    "lemma": "skelett",
+    "lemma": "Skelett",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28628,7 +28628,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6496",
     "lang": "de",
-    "lemma": "finanzierung",
+    "lemma": "Finanzierung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28654,7 +28654,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6503",
     "lang": "de",
-    "lemma": "träumer",
+    "lemma": "Träumer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -28681,7 +28681,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6506",
     "lang": "de",
-    "lemma": "sensation",
+    "lemma": "Sensation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28755,7 +28755,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6510",
     "lang": "de",
-    "lemma": "glaubwürdigkeit",
+    "lemma": "Glaubwürdigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28874,7 +28874,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6521",
     "lang": "de",
-    "lemma": "einsicht",
+    "lemma": "Einsicht",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -28900,7 +28900,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6522",
     "lang": "de",
-    "lemma": "bankkonto",
+    "lemma": "Bankkonto",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28927,7 +28927,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6526",
     "lang": "de",
-    "lemma": "einverständnis",
+    "lemma": "Einverständnis",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -28954,7 +28954,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6530",
     "lang": "de",
-    "lemma": "traktor",
+    "lemma": "Traktor",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29052,7 +29052,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6539",
     "lang": "de",
-    "lemma": "manipulation",
+    "lemma": "Manipulation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29078,7 +29078,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6544",
     "lang": "de",
-    "lemma": "zeitraum",
+    "lemma": "Zeitraum",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29128,7 +29128,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6546",
     "lang": "de",
-    "lemma": "serviette",
+    "lemma": "Serviette",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29155,7 +29155,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6548",
     "lang": "de",
-    "lemma": "pyramide",
+    "lemma": "Pyramide",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29205,7 +29205,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6550",
     "lang": "de",
-    "lemma": "ananas",
+    "lemma": "Ananas",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29255,7 +29255,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6553",
     "lang": "de",
-    "lemma": "jacht",
+    "lemma": "Jacht",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29282,7 +29282,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6554",
     "lang": "de",
-    "lemma": "ultraschall",
+    "lemma": "Ultraschall",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29354,7 +29354,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6561",
     "lang": "de",
-    "lemma": "stempel",
+    "lemma": "Stempel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29381,7 +29381,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6563",
     "lang": "de",
-    "lemma": "asthma",
+    "lemma": "Asthma",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -29407,7 +29407,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6569",
     "lang": "de",
-    "lemma": "vorrang",
+    "lemma": "Vorrang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29432,7 +29432,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6578",
     "lang": "de",
-    "lemma": "lagerfeuer",
+    "lemma": "Lagerfeuer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -29483,7 +29483,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6587",
     "lang": "de",
-    "lemma": "flüchtling",
+    "lemma": "Flüchtling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29509,7 +29509,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6588",
     "lang": "de",
-    "lemma": "gegengift",
+    "lemma": "Gegengift",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -29559,7 +29559,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6590",
     "lang": "de",
-    "lemma": "strauß",
+    "lemma": "Strauß",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29586,7 +29586,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6592",
     "lang": "de",
-    "lemma": "aspekt",
+    "lemma": "Aspekt",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29613,7 +29613,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6593",
     "lang": "de",
-    "lemma": "rückzieher",
+    "lemma": "Rückzieher",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29664,7 +29664,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6602",
     "lang": "de",
-    "lemma": "minimum",
+    "lemma": "Minimum",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -29715,7 +29715,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6606",
     "lang": "de",
-    "lemma": "denker",
+    "lemma": "Denker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29742,7 +29742,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6614",
     "lang": "de",
-    "lemma": "trinker",
+    "lemma": "Trinker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29769,7 +29769,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6615",
     "lang": "de",
-    "lemma": "ungerechtigkeit",
+    "lemma": "Ungerechtigkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -29958,7 +29958,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6633",
     "lang": "de",
-    "lemma": "tyrann",
+    "lemma": "Tyrann",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -29984,7 +29984,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6634",
     "lang": "de",
-    "lemma": "verbesserung",
+    "lemma": "Verbesserung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30011,7 +30011,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6638",
     "lang": "de",
-    "lemma": "filter",
+    "lemma": "Filter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30061,7 +30061,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6641",
     "lang": "de",
-    "lemma": "durchgang",
+    "lemma": "Durchgang",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30088,7 +30088,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6647",
     "lang": "de",
-    "lemma": "palme",
+    "lemma": "Palme",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30139,7 +30139,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6650",
     "lang": "de",
-    "lemma": "gemahlin",
+    "lemma": "Gemahlin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30213,7 +30213,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6658",
     "lang": "de",
-    "lemma": "schraube",
+    "lemma": "Schraube",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30264,7 +30264,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6666",
     "lang": "de",
-    "lemma": "viertelstunde",
+    "lemma": "Viertelstunde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30362,7 +30362,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6676",
     "lang": "de",
-    "lemma": "verlag",
+    "lemma": "Verlag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30389,7 +30389,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6678",
     "lang": "de",
-    "lemma": "symptom",
+    "lemma": "Symptom",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -30415,7 +30415,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6680",
     "lang": "de",
-    "lemma": "geschick",
+    "lemma": "Geschick",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -30442,7 +30442,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6682",
     "lang": "de",
-    "lemma": "familienmitglied",
+    "lemma": "Familienmitglied",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -30469,7 +30469,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6685",
     "lang": "de",
-    "lemma": "abrechnung",
+    "lemma": "Abrechnung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30589,7 +30589,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6702",
     "lang": "de",
-    "lemma": "kosmos",
+    "lemma": "Kosmos",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30615,7 +30615,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6703",
     "lang": "de",
-    "lemma": "kommode",
+    "lemma": "Kommode",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30642,7 +30642,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6707",
     "lang": "de",
-    "lemma": "terminal",
+    "lemma": "Terminal",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30669,7 +30669,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6709",
     "lang": "de",
-    "lemma": "endstation",
+    "lemma": "Endstation",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30696,7 +30696,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6710",
     "lang": "de",
-    "lemma": "betreuer",
+    "lemma": "Betreuer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30723,7 +30723,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6712",
     "lang": "de",
-    "lemma": "neuling",
+    "lemma": "Neuling",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30750,7 +30750,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6716",
     "lang": "de",
-    "lemma": "thunfisch",
+    "lemma": "Thunfisch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30872,7 +30872,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6730",
     "lang": "de",
-    "lemma": "prämie",
+    "lemma": "Prämie",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -30922,7 +30922,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6737",
     "lang": "de",
-    "lemma": "wanderer",
+    "lemma": "Wanderer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -30973,7 +30973,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6743",
     "lang": "de",
-    "lemma": "kamel",
+    "lemma": "Kamel",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31023,7 +31023,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6747",
     "lang": "de",
-    "lemma": "kopfweh",
+    "lemma": "Kopfweh",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31049,7 +31049,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6749",
     "lang": "de",
-    "lemma": "melone",
+    "lemma": "Melone",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31076,7 +31076,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6751",
     "lang": "de",
-    "lemma": "prozedur",
+    "lemma": "Prozedur",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31126,7 +31126,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6756",
     "lang": "de",
-    "lemma": "ohrring",
+    "lemma": "Ohrring",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31153,7 +31153,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6758",
     "lang": "de",
-    "lemma": "architektur",
+    "lemma": "Architektur",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31179,7 +31179,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6762",
     "lang": "de",
-    "lemma": "neugierde",
+    "lemma": "Neugierde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31205,7 +31205,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6763",
     "lang": "de",
-    "lemma": "limit",
+    "lemma": "Limit",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31232,7 +31232,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6765",
     "lang": "de",
-    "lemma": "männlichkeit",
+    "lemma": "Männlichkeit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31257,7 +31257,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6768",
     "lang": "de",
-    "lemma": "wohnmobil",
+    "lemma": "Wohnmobil",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31284,7 +31284,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6772",
     "lang": "de",
-    "lemma": "trümmer",
+    "lemma": "Trümmer",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31311,7 +31311,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6777",
     "lang": "de",
-    "lemma": "fingerabdruck",
+    "lemma": "Fingerabdruck",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31337,7 +31337,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6778",
     "lang": "de",
-    "lemma": "schokoriegel",
+    "lemma": "Schokoriegel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31363,7 +31363,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6781",
     "lang": "de",
-    "lemma": "reservat",
+    "lemma": "Reservat",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31390,7 +31390,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6782",
     "lang": "de",
-    "lemma": "selbstachtung",
+    "lemma": "Selbstachtung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31416,7 +31416,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6785",
     "lang": "de",
-    "lemma": "laterne",
+    "lemma": "Laterne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31443,7 +31443,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6786",
     "lang": "de",
-    "lemma": "schreiber",
+    "lemma": "Schreiber",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31494,7 +31494,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6788",
     "lang": "de",
-    "lemma": "schürze",
+    "lemma": "Schürze",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31521,7 +31521,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6790",
     "lang": "de",
-    "lemma": "jaguar",
+    "lemma": "Jaguar",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31548,7 +31548,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6793",
     "lang": "de",
-    "lemma": "institution",
+    "lemma": "Institution",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31622,7 +31622,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6800",
     "lang": "de",
-    "lemma": "organ",
+    "lemma": "Organ",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -31649,7 +31649,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6801",
     "lang": "de",
-    "lemma": "brunch",
+    "lemma": "Brunch",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31676,7 +31676,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6804",
     "lang": "de",
-    "lemma": "abwehr",
+    "lemma": "Abwehr",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31702,7 +31702,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6810",
     "lang": "de",
-    "lemma": "zweig",
+    "lemma": "Zweig",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31729,7 +31729,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6813",
     "lang": "de",
-    "lemma": "schwiegertochter",
+    "lemma": "Schwiegertochter",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31756,7 +31756,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6816",
     "lang": "de",
-    "lemma": "poet",
+    "lemma": "Poet",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31782,7 +31782,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6817",
     "lang": "de",
-    "lemma": "blockade",
+    "lemma": "Blockade",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31808,7 +31808,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6818",
     "lang": "de",
-    "lemma": "kollektion",
+    "lemma": "Kollektion",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31835,7 +31835,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6819",
     "lang": "de",
-    "lemma": "sauna",
+    "lemma": "Sauna",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31862,7 +31862,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6820",
     "lang": "de",
-    "lemma": "geburtsurkunde",
+    "lemma": "Geburtsurkunde",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -31912,7 +31912,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6824",
     "lang": "de",
-    "lemma": "schwefel",
+    "lemma": "Schwefel",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31938,7 +31938,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6827",
     "lang": "de",
-    "lemma": "nordpol",
+    "lemma": "Nordpol",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -31989,7 +31989,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6834",
     "lang": "de",
-    "lemma": "begabung",
+    "lemma": "Begabung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32016,7 +32016,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6836",
     "lang": "de",
-    "lemma": "pilger",
+    "lemma": "Pilger",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32066,7 +32066,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6841",
     "lang": "de",
-    "lemma": "hockey",
+    "lemma": "Hockey",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -32092,7 +32092,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6842",
     "lang": "de",
-    "lemma": "missachtung",
+    "lemma": "Missachtung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32119,7 +32119,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6844",
     "lang": "de",
-    "lemma": "ausbilder",
+    "lemma": "Ausbilder",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32146,7 +32146,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6847",
     "lang": "de",
-    "lemma": "arbeitstag",
+    "lemma": "Arbeitstag",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32196,7 +32196,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6850",
     "lang": "de",
-    "lemma": "siedler",
+    "lemma": "Siedler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32291,7 +32291,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6860",
     "lang": "de",
-    "lemma": "apotheker",
+    "lemma": "Apotheker",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32318,7 +32318,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6865",
     "lang": "de",
-    "lemma": "schmuggler",
+    "lemma": "Schmuggler",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32345,7 +32345,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6866",
     "lang": "de",
-    "lemma": "scooter",
+    "lemma": "Scooter",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32372,7 +32372,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6869",
     "lang": "de",
-    "lemma": "einwanderer",
+    "lemma": "Einwanderer",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32399,7 +32399,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6870",
     "lang": "de",
-    "lemma": "badeanzug",
+    "lemma": "Badeanzug",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32520,7 +32520,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6882",
     "lang": "de",
-    "lemma": "zimmermädchen",
+    "lemma": "Zimmermädchen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -32547,7 +32547,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6885",
     "lang": "de",
-    "lemma": "mitfahrgelegenheit",
+    "lemma": "Mitfahrgelegenheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32597,7 +32597,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6897",
     "lang": "de",
-    "lemma": "kupfer",
+    "lemma": "Kupfer",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -32624,7 +32624,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6899",
     "lang": "de",
-    "lemma": "antenne",
+    "lemma": "Antenne",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32697,7 +32697,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6907",
     "lang": "de",
-    "lemma": "autorin",
+    "lemma": "Autorin",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32724,7 +32724,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6910",
     "lang": "de",
-    "lemma": "bezeichnung",
+    "lemma": "Bezeichnung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32751,7 +32751,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6912",
     "lang": "de",
-    "lemma": "leuchtturm",
+    "lemma": "Leuchtturm",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32778,7 +32778,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6913",
     "lang": "de",
-    "lemma": "kabinett",
+    "lemma": "Kabinett",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -32804,7 +32804,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6915",
     "lang": "de",
-    "lemma": "auffahrt",
+    "lemma": "Auffahrt",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32877,7 +32877,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6920",
     "lang": "de",
-    "lemma": "ausblick",
+    "lemma": "Ausblick",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -32904,7 +32904,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6922",
     "lang": "de",
-    "lemma": "berühmtheit",
+    "lemma": "Berühmtheit",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -32931,7 +32931,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6923",
     "lang": "de",
-    "lemma": "handschuhfach",
+    "lemma": "Handschuhfach",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -33005,7 +33005,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6927",
     "lang": "de",
-    "lemma": "klassentreffen",
+    "lemma": "Klassentreffen",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -33032,7 +33032,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6930",
     "lang": "de",
-    "lemma": "update",
+    "lemma": "Update",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -33059,7 +33059,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6931",
     "lang": "de",
-    "lemma": "hektar",
+    "lemma": "Hektar",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -33202,7 +33202,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6945",
     "lang": "de",
-    "lemma": "matte",
+    "lemma": "Matte",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33229,7 +33229,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6947",
     "lang": "de",
-    "lemma": "rampe",
+    "lemma": "Rampe",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33256,7 +33256,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6948",
     "lang": "de",
-    "lemma": "waage",
+    "lemma": "Waage",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33283,7 +33283,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6953",
     "lang": "de",
-    "lemma": "brocken",
+    "lemma": "Brocken",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -33333,7 +33333,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6960",
     "lang": "de",
-    "lemma": "beleuchtung",
+    "lemma": "Beleuchtung",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33383,7 +33383,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6965",
     "lang": "de",
-    "lemma": "salami",
+    "lemma": "Salami",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33410,7 +33410,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6966",
     "lang": "de",
-    "lemma": "hinterhof",
+    "lemma": "Hinterhof",
     "pos": "Nomen",
     "article": "der",
     "gender": "masculine",
@@ -33437,7 +33437,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6967",
     "lang": "de",
-    "lemma": "vorstellungskraft",
+    "lemma": "Vorstellungskraft",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33510,7 +33510,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6976",
     "lang": "de",
-    "lemma": "aktentasche",
+    "lemma": "Aktentasche",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",
@@ -33609,7 +33609,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6982",
     "lang": "de",
-    "lemma": "ventil",
+    "lemma": "Ventil",
     "pos": "Nomen",
     "article": "das",
     "gender": "neuter",
@@ -33636,7 +33636,7 @@ const WORDS_DE_B2 = [
   {
     "id": "de_6986",
     "lang": "de",
-    "lemma": "brise",
+    "lemma": "Brise",
     "pos": "Nomen",
     "article": "die",
     "gender": "feminine",

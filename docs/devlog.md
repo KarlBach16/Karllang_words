@@ -2,6 +2,35 @@
 
 > 정렬 규칙: 작업일지는 최신 날짜가 위로 오도록 작성한다. 새 항목은 이 안내 아래, 기존 항목보다 위쪽에 추가하고 같은 날짜의 기존 항목 순서는 유지한다.
 
+## 2026-08-04 - 실사용자 리뷰 기반 독일어 명사 표기 수정
+
+### 발견 경로와 원인
+
+- 첫 실사용자 리뷰에서 "대문자로 시작해야 하는 단어가 소문자로 표시되고, 대문자로 입력하면 오답 처리된다"는 문제를 확인했다.
+- 독일어 A1~B2 데이터를 전수 검사한 결과 A1, A2, B1은 정상이었고 B2 명사 817개의 `lemma`만 소문자로 저장되어 있었다.
+- 해당 항목의 `meanings.de`에는 `die Taktik`, `das Potenzial`처럼 올바른 대문자 표기가 이미 있어 초기 B2 생성 과정의 대소문자 누락으로 판단했다.
+- 따라쓰기 모드는 표시된 고스트 문자열과 대소문자까지 비교하므로 사용자가 올바른 독일어 명사 표기를 입력해도 오답이 되는 상태였다.
+
+### 데이터 수정
+
+- B2의 `pos=Nomen` 817개 lemma 첫 글자를 독일어 명사 규칙에 맞게 대문자로 수정했다.
+- 단어 ID, 관사, 뜻, CEFR, 태그 및 SRS 연결값은 변경하지 않았다.
+- 독일어 4개 레벨 총 4,124개를 재검사해 소문자 명사 0건과 중복 ID 0건을 확인했다.
+- `DATA_VERSION`을 `karllang_words_v1_2_20260804`로 갱신했다.
+- 데이터 버전 변경 시에도 ID 체계가 유지되므로 기존 SRS, 북마크, 오답 및 통계 기록은 보존된다.
+
+### 재발 방지 및 검증
+
+- 독일어 명사의 첫 글자 대문자 여부를 검사하는 `scripts/validate_german_noun_case.js`를 추가했다.
+- `npm run validate:data:de` 명령으로 A1~B2 전체를 검사할 수 있도록 했다.
+- `npm run validate:data:de`
+- `node --check scripts/validate_german_noun_case.js`
+- `node --check www/data/de/words_de_b2.js`
+- `node --check www/js/app/settings.js`
+- `npx cap sync ios`
+- `npx cap sync android`
+- `git diff --check`
+
 ## 2026-07-28 - 네이티브 셸 및 주요 화면 UI 전환 1차
 
 ### 네이티브 셸 아키텍처

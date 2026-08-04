@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate:data:de": "node scripts/validate_german_noun_case.js"
   },
   "repository": {
     "type": "git",
